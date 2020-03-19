@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://www.uludagsozluk.com/k/annesiyle-ya%C5%9Fayan-kasl%C4%B1-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-k%C3%BClt%C3%BCrl%C3%BC-erkek/ bkz anne hariç doğur yaş 41 kızlar eqlesin
+https://www.uludagsozluk.com/e/43021383/ bkz anne hariç doğru yaş 41 kızlar eqlesin
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmaya iphone x ile gelen erkek
 bkz ılık götünü sikerler diye dışarı çıkmayan ergenler
 https://www.uludagsozluk.com/k/evde-kal%C4%B1p-kilo-almak/
