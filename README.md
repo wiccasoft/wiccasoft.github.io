@@ -4,9 +4,7 @@
 bkz hayat geyselileri 61 kenara
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
-bkz salgının sabırla rakı içerek aşacağız
-bkz kendinin biyolog sanan doktor dizileri
-bkz mucize doktordaki ergeninin coronoya ilaç yazması
+bkz salgını sabırla rakı içerek aşacağız
 bkz bir çomara virüsün en çok benim işime yaradığını bilale anlatır gibi anlatmak
 bkz damadın trap zone u şampiyon yapacağı gerçeği
 bkz trabzon şampiyon olunca göt olacak geyseliler
