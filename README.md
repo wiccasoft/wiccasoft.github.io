@@ -2,6 +2,7 @@
 
 <!--
 bkz o değil de bahçeli vardı noldu ona
+bkz o değil de filizof atacan vardı ona noldu
 bkz millet hizmet beklerken kılıştarın osura osura uyuması
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz kılıştaroğlu
 bkz ümrecilerin ortalarda görükmemesi
