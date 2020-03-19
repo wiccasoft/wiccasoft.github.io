@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz kovidciler vs ümreciler
+https://www.uludagsozluk.com/k/umreciler/
+https://www.uludagsozluk.com/k/18-mart-2020-recep-tayyip-erdo%C4%9Fan-a%C3%A7%C4%B1klamalar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/yarasa-%C3%A7orbas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/ali-sami-yen-stadyumu/&w=bg bkz topların uğramadığı stadyum
