@@ -2,6 +2,7 @@
 
 <!--
 bkz hayat geyselileri 61 kenara
+bkz bir çomara virsün en çok benim işime yaradığını bilale anlatır gibi anlatmak
 bkz damadın trap zone u şampiyon yapacağı gerçeği
 bkz trabzon şampiyon olunca göt olacak geyseliler
 bkz obi wan ken obi'in darth vader yüzünden ülkeden kaçması
