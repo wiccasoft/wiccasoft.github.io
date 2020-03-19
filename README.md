@@ -1,10 +1,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz trabzon şampiyon olunca göt olacak geyseliler
-https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1n%C4%B1n-s%C3%BCper-lig-%C5%9Fampiyonu/
 bkz hayat geyselileri 61 kenara
 bkz damadın trap zone u şampiyon yapacağı gerçeği
+bkz trabzon şampiyon olunca göt olacak geyseliler
 bkz obi wan ken obi'in darth vader yüzünden ülkeden kaçması
 bkz abdurrahim albayrakın damad yüzünden şampiyonluğu kaptırdık demesi
 https://www.uludagsozluk.com/k/abdurrahim-albayrak-%C4%B1n-karantinaya-al%C4%B1nmas%C4%B1/
