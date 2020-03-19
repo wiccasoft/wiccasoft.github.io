@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/aile-%C5%9Ferefindeki-pi%C3%A7-oktay-%C4%B1n-hakl%C4%B1-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg bkz this day in history
 https://www.uludagsozluk.com/e/43021383/ bkz anne hariç doğru yaş 41 kızlar eqlesin
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmaya iphone x ile gelen erkek
