@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz doktorları corona virüsüne ilaç yazmaması
+bkz doktorların corona virüsüne ilaç yazmaması
 bkz mucize doktor dizindeki yakışıklı ergen
 bkz fahrettin tezcanın fatih terime işini yap uyarısı
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz efso soyunma odası konuşması
