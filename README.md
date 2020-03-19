@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/hekimo%C4%9Flu-ve-mucize-doktorlu-corona-vir%C3%BCs-afi%C5%9Fleri/ bkz çomaring
 https://www.uludagsozluk.com/k/corona-g%C3%BCnlerinde-evde-yap%C4%B1lacaklar/&w=bg bkz korona programını kullanmak
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd bkz soyadının hakkını vermek
 https://www.uludagsozluk.com/e/43019583/ yengeniz olur
