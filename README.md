@@ -9,14 +9,6 @@ bkz kovid salgınında sağlık görevlilerine yasin okuyan dayı
 bkz kovid salgınında mesai yapan sağlık görevlilerine zem zem suyu döken dayı
 bkz menzil şeyhinin kovid salgınında mesai yapan mesailere dua etmesi
 bkz kovid salgınında mesai yapan bekçilere okunmuş zemzem suyu veren dayı
-https://www.uludagsozluk.com/k/g%C3%BC%C3%A7-nedir/&w=bg hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg hayallerde yaşıyor bazı ibneler
-bkz kavram karmaşası yaşayan eşcinseller
-bkz eşcinsel olduğunun fakında olmayan eşcinsel
-bkz neyi muhafaza etmediğini bilmeyen eşcinsel
-bkz covid'e kovid diyen yozgatlı eşcinsel
-bkz köpek bokundan tatlı yapan çorumlu
 bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
 bkz çiğ köfteyi canlı canlı yiyen çorumlu
 bkz suşiyi canlı canlı yiyen japon
