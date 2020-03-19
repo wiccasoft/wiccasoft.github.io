@@ -2,6 +2,8 @@
 
 <!-- 
 bkz kovidciler vs ümreciler
+bkz millet hizmet beliyor bay kemal
+bkz millet hizmet beklerken kılıştarın osura osura uyuması
 bkz sakaryada kovidcilerin ümrecilere saldırması
 https://www.uludagsozluk.com/k/hayal-kurarken-salak%C3%A7a-g%C3%BCl%C3%BCmsemek/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz rte
