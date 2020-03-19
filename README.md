@@ -2,6 +2,7 @@
 
 <!--
 bkz everyday çomaring
+bkz mark zuckerberg gibi çinli hatun alıp güneye yerleşmek
 https://www.uludagsozluk.com/e/43004446/ 
 bkz aleyna tilkinin çomarlardan daha zeki olduğu gerçeği
 bkz karidesi canlı canlı yiyen fransız
