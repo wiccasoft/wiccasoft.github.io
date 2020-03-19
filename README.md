@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz frank lucasın doğduğu şehir
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-adam-%C3%A7%C4%B1karan-%C5%9Fehir/&w=bg
 https://frank-lucas.uludagsozluk.com/ bkz frank lucas clint eastwood benzerliği
 bkz fatih tezcandan fatih terime sert uyarı tweeti
 bkz frank lucas ın fatih terime işini yap uyarısı
