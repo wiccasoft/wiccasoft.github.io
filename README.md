@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz mevzu derindeki memati
 bkz sevda tarramın ucundaki ömer
 bkz öyle bir geçer zaman ki de ki süleyman
 https://www.uludagsozluk.com/k/%C3%B6yle-bir-ge%C3%A7er-zaman-ki-de-ki-s%C3%BCleyman/ 
