@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz dedesi köyde eşek siken milletin akıl vermesi
+https://www.uludagsozluk.com/k/%C3%A7inli-hatunla-sevi%C5%9Fecek-erke%C4%9Fe-tavsiyeler/
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=gd bkz everyday çomaring
 bkz mark zuckerberg gibi çinli hatun alıp güneye yerleşmek
 https://www.uludagsozluk.com/e/43004446/ 
