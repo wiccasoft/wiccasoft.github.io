@@ -6,10 +6,6 @@ bkz türkiyenin eşşek eti yiyip suçu çine atma çabaları
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-arkas%C4%B1ndaki-%C3%BClke/ bkz törkiy
 bkz başörtü olayını çok karıştırdılar
 bkz çok ta iyi oldu çok ta güzel oldu tamam mı
-bkz batmanin covid eyi oldu eyi demesi
-bkz covid in arkadasındaki yarasa
-bkz sevdiceğe eski kız adı vermek evet
-bkz kızına eski sevdicek ismi vermek
 bkz iphonedan başkasına alo diyemem diyen tip evet
 bkz ilk buluşmada alo alo diyen tip evet
 bkz ilk buluşmada telefon kullanmam diyen tip evet
