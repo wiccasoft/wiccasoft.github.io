@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/2000lilerin-evlenmeye-ba%C5%9Flamas%C4%B1/ bkz 90 lıları üzen durum
 https://www.uludagsozluk.com/k/hem%C5%9Fire-k%C4%B1zlar/&w=bg bkz hemşire kız seksiliği
 bkz hemişire kızların aşı yaparken doktora sorması
 https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg
