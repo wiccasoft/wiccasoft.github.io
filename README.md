@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz e devletten ermeni olduğunun öğrenene işsiz ülkücü
+https://www.uludagsozluk.com/k/ermeni/&w=bg
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd bkz sicili bozuk 
 bkz hayat geyselileri 61 kenara
 bkz 1881 atacücü 81 vilayet - batman = 80 
