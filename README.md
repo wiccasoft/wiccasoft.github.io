@@ -6,7 +6,6 @@
 
 <!--
 bkz yobaz virüse rakı atıp kaçmak
-bkz taksicilerin entry girmeme kararı
 bkz şeyh said dizisindeki mürşit
 bkz sevda tarrağımın ucundaki tarrak hasan
 bkz dürümcüsözlük'ün taksi sarısına boyanması
@@ -16,8 +15,6 @@ bkz xi jipingin ekşicilere darılması
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz e devletten yavşak olduğunu öğrenen ülkücü
-bkz damarlarında asil kan olup coronadan korkmak
-bkz lanet olsun atom mühendisliğine diyip hunharca entry girmek
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-hocamizin-etnik-kokeni/ bkz 100% greek -->
 
 
