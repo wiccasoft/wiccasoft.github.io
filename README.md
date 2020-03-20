@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!--bkz gol attıktan sonra sus işareti yapan hemşire kız
+<!--
+https://www.uludagsozluk.com/e/43026877/ wohoooooooooooooooo
+bkz gol attıktan sonra sus işareti yapan hemşire kız
 bkz hemşire kızların aşı vururken sus işareti yapması
 bkz ekşideki atom mühendislerinin lanet olsun atom fiziğinede profösrlüğüne de demesi
 https://www.uludagsozluk.com/k/2000lilerin-evlenmeye-ba%C5%9Flamas%C4%B1/ bkz 90 lıları üzen durum
