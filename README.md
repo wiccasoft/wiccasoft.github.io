@@ -4,13 +4,6 @@
 <!-- 
 bkz türkiyenin eşşek eti yiyip suçu çine atma çabaları
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-arkas%C4%B1ndaki-%C3%BClke/ bkz törkiy
-bkz başörtü olayını çok karıştırdılar
-bkz çok ta iyi oldu çok ta güzel oldu tamam mı
-bkz iphonedan başkasına alo diyemem diyen tip evet
-bkz ilk buluşmada alo alo diyen tip evet
-bkz ilk buluşmada telefon kullanmam diyen tip evet
-bkz ilk buluşmada huaweiden başka telefon kullanmam diyen tip evet
-bkz ilk buluşmada xiomiden başka telefon kullanmam diyen tip evet
 https://www.uludagsozluk.com/k/minicik-vir%C3%BCsle-dev-ders-veren-yarat%C4%B1c%C4%B1/ yaratıcı evet
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/ yarasa yemiş evet
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg ismail türüttür evet
