@@ -2,6 +2,7 @@
 
 <!--
 bkz hemşire ekşici kız uzman erbaş ulucu oğlan ilişkisi
+https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1-beklenen-genelgeyi-yay%C4%B1nlad%C4%B1/ 
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
 bkz geniş aile deki ulvi
 bkz mevzu derin deki seyfo dayı
