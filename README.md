@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz ne yapasalar boş göklerden gelen bir karar vardır
 bkz enver ayseverin o göte bülbül öte demesi
 bkz xi jinpingin ekşicilere darılması
 bkz şimdi ananı taksi sarısına boyadım oç 
