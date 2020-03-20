@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://www.uludagsozluk.com/k/italya-y%C4%B1-eve-girmeyen-gen%C3%A7ler-y%C4%B1kt%C4%B1/ lol
 bkz amerika battı mutlu musun imamoğlu
 bkz türkishmüsic.org daki ümreciler kovidciler kavgası
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/&w=gd bkz mutlu musunuz atom mühendisleri
