@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/&w=gd bir soru eet
 bkz çinlilerin yarasa yediğini sanan çomarlar
 bkz o son yarsayı yemeycektik
 bkz orhan bence gay vs müslüm gürses
