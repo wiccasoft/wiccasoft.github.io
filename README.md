@@ -4,6 +4,7 @@
 <!-- 
 bkz iphone kullana tip 
 iphone kulanan tiptir evet 
+https://www.uludagsozluk.com/k/%C5%9Fu-an-olmas%C4%B1-istedi%C4%9Fin-%C5%9Fey-nedir/&w=bg ismail türüt
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg blz ismail türüttür evet
 https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt
