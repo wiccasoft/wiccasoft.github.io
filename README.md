@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
-bkz covif in arkadasındaki yarasa
+bkz batmanin covid eyi oldu eyi demesi
+bkz covid in arkadasındaki yarasa
 bkz sevdiceğe eski kız adı vermek evet
 bkz kızına eski sevdicek ismi vermek
 bkz iphonedan başkasına alo diyemem diyen tip evet
