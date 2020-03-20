@@ -9,6 +9,7 @@ bkz abdulhamdinin torunu olup virüsten korkmak
 https://www.uludagsozluk.com/k/yeni-abd%C3%BClhamid-vakas%C4%B1/
 bkz atacücün her gece rakı içip ateist olması
 bkz yazdığım yapay zekanın tangır budun doğan dan zeki olması
+bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
 bkz dünyanın en iyi biyoloğunun ürettiği virüsü doktorlarla korkutmaya çalışan çomarlar
 bkz mucize doktor dizisindeki ergenin bakışlarıyla virüsü bitirmesi
 https://www.uludagsozluk.com/k/etnik-k%C3%B6ken-testi/&w=gd bkz %100 greek & proud
