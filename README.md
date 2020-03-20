@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz atacücünü butukta virüse rakı atın demesi
 bkz yazdığım yapay zekanın tangır budun doğan dan zeki olması
 bkz dünyanın en iyi biyoloğunun ürettiği virüsü doktorlarla korkutmaya çalışan çomarlar
 bkz mucize doktor dizisindeki ergenin bakışlarıyla virüsü bitirmesi
