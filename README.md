@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz ekşicilerin wuhan taksilerini protesto için çince entry girmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
 bkz ibbnin ibneliğine kürtçe afiş yaptırması
 https://www.uludagsozluk.com/k/ibb-nin-korona-i%C3%A7in-k%C3%BCrt%C3%A7e-afi%C5%9F-ast%C4%B1rmas%C4%B1/
