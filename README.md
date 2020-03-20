@@ -6,7 +6,7 @@
 <!--
 bkz yarasa yiyip ladyboy sikmek
 bkz atacücünün ölü olduğu gerçeği
-bkz atacücünün pipisisin ismet incöcünün pipisinde küçük olduğu gerçeği
+bkz atacücünün pipisinin ismet incöcünün pipisinde küçük olduğu gerçeği
 bkz atacücünü atacücüst olduğu gerceği
 bkz nazım hikmetin yüzyılın en iyi şairi olduğu gerçeği
 bkz sweet diye nick alan ülkücü nonoşların güldürmesi
