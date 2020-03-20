@@ -5,6 +5,7 @@ bkz dürümcüsözlük'ün taksi sarısına boyanması
 https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
 bkz ılık götünü sikecekler diye dışarı çıkmayan ergenler
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lar%C4%B1n-sokak-a%C5%9Fk%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/elon-musk-vs-steve-jobs-vs-bill-gates/&w=bg bkz elon muskın yüzyılın dehası olması
 https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/ bkz bi koydum çöktü
 https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg bkz serkan is my girl
 bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
