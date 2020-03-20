@@ -5,6 +5,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ zuahahhahahaha
 bkz yobaz virüse rakı atıp kaçmak
 bkz şeyh said dizisindeki mürşit
 bkz sevda tarrağımın ucundaki tarrak hasan
