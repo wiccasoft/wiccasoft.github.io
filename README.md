@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
-bkz aile şerefindeki piç oktay 
+bkz aile şerefindeki piç oktay piçtir evet
 bkz bir filozof atakan vardı noldu ona
 https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz ilk buluşmaya iphone 8 le gelen tip evet
