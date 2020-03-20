@@ -3,7 +3,7 @@
 <!-- 
 bkz şimdi ananı taksi sarısına boyadım oç 
 bkz küçük emrahın takisicileri protesto etmesi
-bkz ibbnin türkleri kudurtmak için 5000 yılıkk kürt tarihi afişi asması
+bkz ibbnin türkleri kudurtmak için 5000 yılık kürt tarihi afişi asması
 bkz 21 mart 2020 ekşisözlük ün taksi sarısına boyanması
 bkz e devletten arap kürt kırması olduğunu öğrenen ekşicinin dramı
 bkz xi jipingin ekşicilere darılması
