@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lardaki-siklememezlik/ bkz ben
 https://www.uludagsozluk.com/k/evde-penis-yapma-yollar%C4%B1/
 bkz ne yapsalar boş göklerden gelen bir karar vardır
 https://www.uludagsozluk.com/k/tek-%C3%A7%C3%B6z%C3%BCm-g%C3%B6ky%C3%BCz%C3%BCne-kald%C4%B1/ ha şöyle adam olun
