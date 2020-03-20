@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz çimlilerin yarasa yediğini sanan çomarlar
+bkz çinlilerin yarasa yediğini sanan çomarlar
 bkz o son yarsayı yemeycektik
 bkz orhan bence gay vs müslüm gürses
 bkz yarasa yedi diye suçlanan çinli
