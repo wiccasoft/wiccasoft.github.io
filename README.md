@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+bkz ilk buluşmada telefon kullanmam diyen tip evet
 bkz ilk buluşmada huaweiden başka telefon kullanmam diyen tip evet
 bkz ilk buluşmada xiomiden başka telefon kullanmam diyen tip evet
 https://www.uludagsozluk.com/k/minicik-vir%C3%BCsle-dev-ders-veren-yarat%C4%B1c%C4%B1/ yaratıcı evet
