@@ -2,6 +2,7 @@
 
 <!--
 bkz wtf did i just watch
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs-a%C5%9F%C4%B1s%C4%B1n%C4%B1-t%C3%BCrkiyenin-bulmas%C4%B1/&w=gd
 bkz eşcinsellere gay videoları izleterek para kazanmak
 bkz ümrecilerin kovidcilere göbek dansı yapması
 https://www.xvideos.com/?k=dancingbear+bangbros
