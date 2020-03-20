@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz xi jipingin ekşicilere darılması
 bkz ekşicilerin wuhan taksilerini protesto için çince entry girmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
 bkz ibbnin ibneliğine kürtçe afiş yaptırması
