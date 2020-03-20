@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz dürümcüsözlük'ün taksici sarısına boyanması
 bkz emrahın taksicileri protesto etmesi
 bkz vahdettinin öldüğene inanmak
 bkz çomarların inanacağı bir yalan uydur
