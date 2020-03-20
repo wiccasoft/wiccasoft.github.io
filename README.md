@@ -1,10 +1,12 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz tiktok daki ilginç vücuduyla dans eden genç
+yla-dans-eden-gen%C3%A7/
 https://space.stackexchange.com bkz ulusözlük çakması
+
+bkz tiktok daki ilginç vücuduyla dans eden genç
+https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcudu
 bkz dans eden tiktokçu genç erkek videosu izlerken babanın odaya girmesi
-https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/
 bkz üstün zekalı dahilerin daha çok uluda başlık açtığı gerçeği
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
 bkz ulucuların 200 iq dan geri vitesle 100 e düşürmeleri ekşicileri göt etmeleri
