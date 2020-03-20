@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+bkz hemşeri ayağı göt ayağı diyen kütahyalı bilim adamı
 bkz konyalı bilim adamları vs çorumlu bilim adamları
 bkz oytunkaran vs orangutan zekası
 bkz sevda tarramın ucundaki tarrak ali ve aile şerefsizindeki piç oktay
