@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkzewkremin cuma namazında domalmaması
 https://www.uludagsozluk.com/k/trans-erkekler-30-ya%C5%9F-%C3%BCst%C3%BCnden-daha-erkektir/ adam haklı beyler
 https://www.uludagsozluk.com/k/s%C3%BCtyen-kop%C3%A7as%C4%B1n%C4%B1-max-%C3%BC%C3%A7-saniyede-a%C3%A7amayan-erkek/
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ bkz tanfır budun doğan mutlu
