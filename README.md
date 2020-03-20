@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://space.stackexchange.com bkz ulusözlük çakması
+https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/
 bkz üstün zekalı dahilerin daha çok uluda başlık açtığı gerçeği
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
 bkz ulucuların 200 iq dan geri vitesle 100 e düşürmeleri ekşicileri göt etmeleri
