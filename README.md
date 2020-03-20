@@ -1,6 +1,19 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz geniş aile deki ulvi
+bkz mevzu derin deki memati
+bkz sevda tarramın ucundaki ömer
+bkz öyle bir geçer zaman ki de ki süleyman
+https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
+https://www.uludagsozluk.com/k/%C3%B6yle-bir-ge%C3%A7er-zaman-ki-de-ki-s%C3%BCleyman/ 
+bkz eşcinsellerin efendi yerine piç erkek tercihi
+bkz aile şerefindeki piç oktayın çok yakışıklı olduğu gerçeği
+https://www.uludagsozluk.com/e/43021305/ bkz işsizlik level 9999
+bkz ılık götünü sikerler diye dışarı çıkmayan ergenler
+https://www.uludagsozluk.com/k/aile-%C5%9Ferefindeki-pi%C3%A7-oktay-%C4%B1n-hakl%C4%B1-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
+https://www.uludagsozluk.com/k/65-ya%C5%9F-%C3%BCst%C3%BCn%C3%BCn-f%C4%B1ld%C4%B1r-f%C4%B1ld%C4%B1r-gezmesi/
+https://www.uludagsozluk.com/k/50-ya%C5%9F-%C3%BCzeri-umursamazl%C4%B1%C4%9F%C4%B1/&w=bg bkz 15 yaş sendromu
 bkz işsizlerin entry girerek virüsten korunması
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lardaki-siklememezlik/&w=gd
 https://www.uludagsozluk.com/k/hava-%C4%B1s%C4%B1n%C4%B1nca-giden-vir%C3%BCs/
