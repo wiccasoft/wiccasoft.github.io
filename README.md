@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/mersinli-cihangir/&w=bg bkz beni bul
 bkz iki tokatlık canı kalmış kamalcı işsiz ergenlerin virüsten korkması
 bkz ılık götünü sikerler diye dışarı çıkmayan ergenler
 bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entryleri
