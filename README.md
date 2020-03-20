@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz e devletten arap kürt kısması olduğunu öğrenen ekşici
 bkz fahrettin tezcanın fatih kocamana döşediği boru
 bkz fahrettin terim açıklamaları
 bkz fahretttin terimin fatih tezcana işini yap uyarısı
