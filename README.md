@@ -4,10 +4,9 @@
 bkz 21 mart 2020 ekşisözlük ün taksi sarısına boyanması
 bkz e devletten arap kürt kırması olduğunu öğrenen ekşicinin dramı
 bkz fahrettin tezcanın fatih kocamana döşediği boru
-bkz fahrettin terim açıklamaları
 bkz fahretttin terimin fatih tezcana işini yap uyarısı
 bkz xi jipingin ekşicilere darılması
-bkz ekşicilerin wuhan taksilerini protesto için çince entry girmesi
+bkz ekşicilerin wuhan taksilerini protesto için sarı fontla entry girmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
 bkz ibbnin ibneliğine kürtçe afiş yaptırması
 https://www.uludagsozluk.com/k/ibb-nin-korona-i%C3%A7in-k%C3%BCrt%C3%A7e-afi%C5%9F-ast%C4%B1rmas%C4%B1/
