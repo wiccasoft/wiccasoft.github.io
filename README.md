@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-bkzewkremin cuma namazında domalmaması
+bkz erkremin cuma namazında domalmaması
+bkz erkeklerin sütyen kopçasını açmaması
+https://www.uludagsozluk.com/k/erkeklerin-a%C5%9Fktan-anlamad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/trans-erkekler-30-ya%C5%9F-%C3%BCst%C3%BCnden-daha-erkektir/ adam haklı beyler
 https://www.uludagsozluk.com/k/s%C3%BCtyen-kop%C3%A7as%C4%B1n%C4%B1-max-%C3%BC%C3%A7-saniyede-a%C3%A7amayan-erkek/
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ bkz tanfır budun doğan mutlu
