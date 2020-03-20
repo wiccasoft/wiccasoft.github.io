@@ -8,6 +8,7 @@ bkz küçük emrahın takisicileri protesto etmesi
 bkz ibbnin türkleri kudurtmak için 5000 yılık kürt tarihi afişi asması
 bkz 21 mart 2020 ekşisözlük ün taksi sarısına boyanması
 bkz e devletten arap kürt kırması olduğunu öğrenen ekşicinin dramı
+https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
 https://www.uludagsozluk.com/k/enver-aysever-in-g%C3%B6te-g%C3%B6t-demesi/
 https://www.uludagsozluk.com/k/ibb-nin-korona-i%C3%A7in-k%C3%BCrt%C3%A7e-afi%C5%9F-ast%C4%B1rmas%C4%B1/
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lardaki-siklememezlik/ bkz ben
