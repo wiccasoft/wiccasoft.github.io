@@ -3,7 +3,7 @@
 <!-- 
 bkz geniş aile deki ulvi
 bkz mevzu derin deki seyfo dayı
-bkz sevda tarramın ucundaki ömer
+bkz sevda tarramın ucundaki tarrak hasan
 bkz öyle bir geçer zaman ki de ki süleyman
 bkz kızların efendi oktay yerine piç oktay tercihi
 https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
