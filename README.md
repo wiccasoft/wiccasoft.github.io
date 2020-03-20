@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz hayat geyselileri 61 kenara
+bkz 1881 atacücü 81 vilayet - batman = 80 
+bkz 18 + 81 = 99 - 80 = covid19
+https://www.uludagsozluk.com/k/atar%C3%BCrk-olsa-korona-olmazd%C4%B1/
 https://imran-zakhaev.uludagsozluk.com/ bkz deli hikmete siktiri çeken ihtiyar
 https://www.uludagsozluk.com/k/deli-hikmet/&w=bg bkz aslan akbeyi öldükten sonra yas tutan deli
 bkz rizeli tayyipin ortalarda gözükmemesi
