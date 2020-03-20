@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/ey-korona-sen-kimsin-ya/&w=bg yakında anarısınız kim olduğumu oç ları
 bkz hoşlaşılan tiktokçu gencin yaşlı teyze demesi
 bkz hoşlaşılan gencin tiktokta çiftleşme dansı yapması
 bkz tiktokta dasn eden yakışıklı gençler
