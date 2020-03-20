@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz hemşire bir kadını üzmek
+https://www.uludagsozluk.com/k/hem%C5%9Fire-bir-kad%C4%B1n%C4%B1-%C3%BCzmek/
 https://www.uludagsozluk.com/e/43026877/ wohoooooooooooooooo
 bkz gol attıktan sonra sus işareti yapan hemşire kız
 bkz hemşire kızların aşı vururken sus işareti yapması
