@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz hergün yarasa yiyip şarap içen çinli
 https://www.uludagsozluk.com/k/yarasa-yedi-diye-a%C4%9F%C4%B1r-grip-ge%C3%A7iren-insan/
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/&w=gd bir soru eet
 bkz çinlilerin yarasa yediğini sanan çomarlar
