@@ -2,7 +2,7 @@
 
 <!--
 https://imran-zakhaev.uludagsozluk.com/ bkz deli hikmete siktiri çeken ihtiyar
-https://www.uludagsozluk.com/k/deli-hikmet/&w=bg bkz 
+https://www.uludagsozluk.com/k/deli-hikmet/&w=bg bkz aslan akbeyi öldükten sonra yas tutan deli
 bkz rizeli tayyipin ortalarda gözükmemesi
 bkz rizeli taayip vs mersinli cihangir
 bkz saidi nursinin türk önde türk ileri demesi
