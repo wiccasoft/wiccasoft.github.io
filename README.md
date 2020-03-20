@@ -3,7 +3,7 @@
 <!-- 
 bkz boy varken forumlarda paralı entry girmek
 bkz dürümcüsözlük'ün taksi sarısına boyanması
-bkz e devlettten yavşak olduğunu öğrenen ülkücü
+bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 bkz zallın tangır budun doğanın faturalını online yatırim teklifi
