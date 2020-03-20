@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/said-nursi/&w=bg bkz kürt aşığı
 bkz rizeli tayyipin ortalarda gözükmemesi
 bkz mersinli cihangirin ankara ayağını denk alsın demesi
 https://www.uludagsozluk.com/k/k%C3%BCrt%C3%A7%C3%BCl%C3%BCk/&w=bg
