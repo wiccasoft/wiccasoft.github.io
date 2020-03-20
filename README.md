@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
-<!-- 
+<!--
+bkz e devlet soy sorgularken aziz sancarın kürt olduğunu hatırlayıp mutlu olamk
 https://www.uludagsozluk.com/k/k%C3%BCrt-tarihinin-en-b%C3%BCy%C3%BCk-olay%C4%B1/ bkz aziz sancar
 bkz aziz sancarın kürt olduğu gerçeği ıyyğğ iğrenç
 bkz hemşeri ayağı göt ayağı diyen bilim adamı
