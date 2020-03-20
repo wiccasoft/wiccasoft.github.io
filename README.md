@@ -5,6 +5,9 @@
 
 
 <!--
+bkz şimdi ananı taksi sarısına boyadım oç 
+bkz küçük emrahın takisicileri protesto etmesi
+bkz xi jipingin ekşicilere darılması
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz e devletten ermeni olduğunun öğrenen ekçici
