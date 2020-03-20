@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz bkz abdulhamdinin torunu olup virüsten korkmak
+bkz abdulhamdinin torunu olup virüsten korkmak
 https://www.uludagsozluk.com/k/yeni-abd%C3%BClhamid-vakas%C4%B1/
 bkz atacücün her gece rakı içip ateist olması
 bkz yazdığım yapay zekanın tangır budun doğan dan zeki olması
