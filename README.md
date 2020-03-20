@@ -5,6 +5,7 @@
 
 <!--
 bkz yarasa yiyip ladyboy sikmek
+https://sweetmandarine.uludagsozluk.com/ bk ülkücü ve nonoşların iğrenç olduğı gerçeği
 bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz abdulhamdinin torunu olup virüsten korkmak
 bkz deep turkish web e girince düşen 30 iq point
