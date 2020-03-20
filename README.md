@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
+https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/
 bkz yarasa yiyip ladyboy sikmek
 bkz atacücünün ölü olduğu gerçeği
 bkz atacücünü atacücüst olduğu gerceği
