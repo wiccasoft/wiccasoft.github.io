@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg bkz dizi karakterlerine küsmek
+https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg bkz dizi karakterlerine küsen çomar zekası
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
 bkz ılık götünü sikecekler diye dışarı çıkmayan ergenler
