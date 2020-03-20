@@ -5,6 +5,7 @@ bkz hoşlaşılan tiktokçu gencin yaşlı teyze demesi
 bkz hoşlaşılan gencin tiktokta çiftleşme dansı yapması
 bkz tiktokta dasn eden yakışıklı gençler
 bkz mert akkaşın norm endere tiktoktan diss atması
+https://www.uludagsozluk.com/k/21-00-de-sa%C4%9Fl%C4%B1k-%C3%A7al%C4%B1%C5%9Fanlar%C4%B1na-alk%C4%B1%C5%9F/&w=gd
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
 bkz sağlık bakanlığının khk ile virüsü yasaklaması
 https://www.uludagsozluk.com/e/43026954/ illaki vadır amk icabında
