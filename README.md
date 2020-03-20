@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz tiktok daki ilginç vücuduyla dans eden genç
 https://space.stackexchange.com bkz ulusözlük çakması
 bkz dans eden tiktokçu genç erkek videosu izlerken babanın odaya girmesi
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/
