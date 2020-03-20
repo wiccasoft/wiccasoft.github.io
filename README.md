@@ -2,7 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/43026993/ 
-bkz ekşciilerin 160 iq u 30 azaltıp 130 geçmesi
+bkz ulucuların 160 iq u 30 azaltıp 130 geçmesi
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek
 https://www.uludagsozluk.com/k/ey-korona-sen-kimsin-ya/&w=bg yakında anlarsınız kim olduğumu oç ları
 bkz hoşlaşılan tiktokçu gencin yaşlı teyze demesi
