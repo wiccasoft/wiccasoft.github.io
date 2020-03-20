@@ -4,7 +4,7 @@
 <!-- 
 bkz bir filozof atakan vardı noldu ona
 https://www.youtube.com/watch?v=c7IoBRRBiX8
-bkz il buluşmaya ipnoe 8 le gelen tip evet
+bkz ilk buluşmaya iphone 8 le gelen tip evet
 bkz kastamonulu bilim adamları adam mıdır sorunsalı
 bkz hemşeri ayağı göt ayağı diyen kütahyalı bilim adamı
 bkz konyalı bilim adamları vs çorumlu bilim adamları
