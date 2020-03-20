@@ -5,6 +5,7 @@
 
 <!--
 bkz yarasa yiyip ladyboy sikmek
+bkz atacücünüb atacücüst olduğu gerceği
 bkz sweet diye nick alan ülkücü nonoşların güldürmesi
 https://www.uludagsozluk.com/k/tophaneli-y%C3%BCzba%C5%9F%C4%B1-hakk%C4%B1-bey/ bkz top tepici
 https://sweetmandarine.uludagsozluk.com/ bk ülkücü ve nonoşların iğrenç olduğı gerçeği
