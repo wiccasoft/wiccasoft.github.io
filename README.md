@@ -3,7 +3,7 @@
 <!-- 
 bkz adam fenerli zaten beyler
 bkz göklerden indiği sanılan tevrat incil zebur
-bkz ne yapasalar boş göklerden gelen bir karar vardır
+bkz ne yapasalar boş göklerden gelen bir furkan vardır
 bkz enver ayseverin o göte bülbül öte demesi
 bkz xi jinpingin ekşicilere darılması
 bkz şimdi ananı taksi sarısına boyadım oç 
