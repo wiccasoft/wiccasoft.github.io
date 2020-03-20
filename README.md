@@ -6,7 +6,6 @@
 <!--
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz hergün yarasa yiyip şarap içen çinli
-bkz who nun yarasa yemeyin açıklaması
 bkz açıklamalara rağmen yara yiyen yavşak
 bkz 21 mart 2020 receğ tayyiğ erdoğanın yarasa yemeyin açıklaması
 https://www.uludagsozluk.com/k/yarasa-yedi-diye-a%C4%9F%C4%B1r-grip-ge%C3%A7iren-insan/
