@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz zallın tangır budun doğanın maaşını online yatırim teklifi
+https://www.uludagsozluk.com/k/faturalar%C4%B1-online-%C3%B6deyebilirsiniz-m%C3%BCjdesi/ 
 bkz tengir budunun taksiciler battığı için evde zıplaması
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ bkz tengir budunun mayışını alması
 bkz adam fenerli zaten beyler
