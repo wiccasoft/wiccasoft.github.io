@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
-bkz oytunkaran ve orangutan zekası
+bkz oytunkaran vs orangutan zekası
 bkz sevda tarramın ucundaki tarrak ali ve aile şerefsizindeki piç oktay
 https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/ bkz tiptir evet 
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
