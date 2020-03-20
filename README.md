@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz 21 mart 2020 ekşisözlük ün taksi sarısına boyanması
 bkz e devletten arap kürt kırması olduğunu öğrenen ekşicinin dramı
 bkz fahrettin tezcanın fatih kocamana döşediği boru
 bkz fahrettin terim açıklamaları
