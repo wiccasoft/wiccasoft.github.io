@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz o son yarsayı yemeycektik
 bkz orhan bence gay vs müslüm gürses
 bkz yarasa yedi diye suçlanan çinli
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
