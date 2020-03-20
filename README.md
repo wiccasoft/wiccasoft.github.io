@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz eski sevgilini esk itokma.ısın adını unutup arayıp sormak
 bkz eski sevgilisinin eski tokmaçısının adını oğlana vermek
 bkz eski sevdiceğin torununn eski tokmakçısının adını vermek
 bkz eski sevdiceğin kızını arayıp benim kıza seni adını koyim la demek
