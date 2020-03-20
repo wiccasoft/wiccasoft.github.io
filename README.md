@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+bkz aziz sancarın kürt olduğu gerçeği ıyyğğ iğrenç
 bkz hemşeri ayağı göt ayağı diyen bilim adamı
 bkz törkiyin eşşek eti yiyip suçu çine atma çabaları
 bkz izmirli bilim adamları vs konyalı bilim adamları
