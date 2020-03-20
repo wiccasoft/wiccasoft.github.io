@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz ulucuların 200 iq dan  geri vitesle 180 düşürmeleri
+bkz ulucuların 200 iq dan geri vitesle 180 düşürmeleri ekşicileri göt etmeleri
 bkz ulucuların olmayan beyinlerinin %100 ünü kullanırsak dünya yokolur demesi
 https://www.uludagsozluk.com/e/43026993/ 
 bkz ulucuların 160 iq u 30 azaltıp 130 geçmesi
