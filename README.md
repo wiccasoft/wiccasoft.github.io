@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz saplık bakanlığının khk ile virüsü yasaklaması
 https://www.uludagsozluk.com/e/43026954/ illaki vadır amk icabında
 https://www.uludagsozluk.com/k/doktorlar-i%C3%A7in-alk%C4%B1%C5%9F-yerine-lastik-yakan-tofa%C5%9F%C3%A7%C4%B1/
 bkz hemşehri kadını üzmek
