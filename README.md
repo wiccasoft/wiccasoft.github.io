@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz hergün yarasa yiyip şarap içen çinli
 bkz who nun yarasa yemeyin açıklaması
 bkz açıklamalara rağmen yara yiyen yavşak
