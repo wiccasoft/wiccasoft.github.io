@@ -1,7 +1,6 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1kl%C4%B1-%C5%9Feffaf-pc-kasas%C4%B1-toplamak/
 bkz bot varken forumlarda paralı entry girmek
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
@@ -9,6 +8,7 @@ https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 bkz zallın tangır budun doğanın faturalarını online yatırması
 https://www.uludagsozluk.com/k/faturalar%C4%B1-online-%C3%B6deyebilirsiniz-m%C3%BCjdesi/ 
+https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1kl%C4%B1-%C5%9Feffaf-pc-kasas%C4%B1-toplamak/ 
 bkz adam fenerli zaten beyler
 bkz göklerden indiği sanılan tevrat incil zebur
 bkz ne yapasalar boş göklerden gelen bir furkan vardır
