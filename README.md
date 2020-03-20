@@ -6,10 +6,10 @@
 <!--
 bkz yarasa yiyip ladyboy sikmek
 bkz atacücünün ölü olduğu gerçeği
-bkz atacücünün pipisinin ismet incöcünün pipisinde küçük olduğu gerçeği
 bkz atacücünü atacücüst olduğu gerceği
 bkz nazım hikmetin yüzyılın en iyi şairi olduğu gerçeği
 bkz sweet diye nick alan ülkücü nonoşların güldürmesi
+bkz atacücünün pipisinin ismet incöcünün pipisinde küçük olduğu gerçeği
 https://www.uludagsozluk.com/k/tophaneli-y%C3%BCzba%C5%9F%C4%B1-hakk%C4%B1-bey/ bkz top tepici
 https://sweetmandarine.uludagsozluk.com/ bk ülkücü ve nonoşların iğrenç olduğı gerçeği
 bkz sakaryada kovidcilerin ümrecilere saldırması
