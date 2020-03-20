@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz tengir budunun taksiciler battığı için evde zıplaması
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ bkz tengir budunun mayışını alması
 bkz adam fenerli zaten beyler
 bkz göklerden indiği sanılan tevrat incil zebur
