@@ -5,6 +5,7 @@
 
 
 <!--
+bkz koronanın genelde entry girmeyenlere bulaşması
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz şimdi ananı taksi sarısına boyadım oç 
 bkz küçük emrahın takisicileri protesto etmesi
