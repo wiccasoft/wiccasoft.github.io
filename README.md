@@ -3,7 +3,7 @@
 
 <!-- 
 bkz oytunkaran ve orangutan zekası
-bkz derin mevzudaki yavşak ali
+bkz sevda tarramın ucundaki tarrak ali ve aile şerefsizindeki piç oktay
 https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/ bkz tiptir evet 
 bkz iphone kullana tip 
 iphone kulanan tiptir evet bkz çine bombe atalım evet
