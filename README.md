@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/doktorlar-i%C3%A7in-alk%C4%B1%C5%9F-yerine-lastik-yakan-tofa%C5%9F%C3%A7%C4%B1/
 bkz hemşehri kadını üzmek
 bkz hemşeri ayağı göt ayağı
 https://www.uludagsozluk.com/k/hem%C5%9Fire-bir-kad%C4%B1n%C4%B1-%C3%BCzmek/
