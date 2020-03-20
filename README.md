@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+3https://www.uludagsozluk.com/k/isvi%C3%A7reli-bilim-adamlar%C4%B1/&w=bg bkz şaka maka adam gibi adamlar
 https://www.uludagsozluk.com/k/ufuk-bayraktar/&w=bg bkz iaka maka çok tatlı adam
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt
 https://www.uludagsozluk.com/k/asker-u%C4%9Furlama-t%C3%B6renleri/&w=bg bkz şaka maka
