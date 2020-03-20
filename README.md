@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 bkz seni cuma camide göremedim ekrem
 bkz seni pazar klisede göremedim john
 https://www.uludagsozluk.com/k/ekremin-cuma-namaz%C4%B1na-gitmemesi/&w=bg
