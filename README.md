@@ -2,7 +2,9 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
-bkz eski sevdiceği arayop nörüyon kızıma adını verdim demek
+bkz kurt ve kangal
+https://www.uludagsozluk.com/k/kangal-vs-kurt/&w=bg
+bkz eski sevdiceği iphone z ile arayıp nörüyon kızıma adını verdim demek
 bkz eski sevdiceğe biriciğim demek
 bkz eski sevgilinin adını kızına koymak
 bkz e devlet soy sorgularken heyecan yapmak
