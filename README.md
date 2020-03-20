@@ -1,11 +1,11 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-bkz kızların efendi oktay yerinde piç oktay tercihi
 bkz geniş aile deki ulvi
 bkz mevzu derin deki seyfo dayı
 bkz sevda tarramın ucundaki ömer
 bkz öyle bir geçer zaman ki de ki süleyman
+bkz kızların efendi oktay yerine piç oktay tercihi
 https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg bkz dizi karakterlerine küsen çomar zekası
 bkz dürümcüsözlük'ün taksi sarısına boyanması
