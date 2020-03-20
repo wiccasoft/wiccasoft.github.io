@@ -7,6 +7,7 @@
 bkz yarasa yiyip ladyboy sikmek
 bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz abdulhamdinin torunu olup virüsten korkmak
+bkz deep turkish web e girince düşen 30 iq point
 https://www.uludagsozluk.com/k/yeni-abd%C3%BClhamid-vakas%C4%B1/
 bkz atacücün her gece rakı içip ateist olması
 bkz dedesi köyde eşek siken milletin akıl vermesi
