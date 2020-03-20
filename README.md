@@ -5,6 +5,7 @@ bkz geniş aile deki ulvi
 bkz mevzu derin deki memati
 bkz sevda tarramın ucundaki ömer
 bkz öyle bir geçer zaman ki de ki süleyman
+bkz ılık götlü ergenlerin korkudan dışarı çıkamaması
 https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
 bkz ekşcilerin ped stoğu yapması
 bkz evden çıkmayan ekşcilerin eve taksi çağırması
