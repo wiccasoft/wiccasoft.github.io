@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz seni cuma camide göremedim ekrem
+bkz seni pazar klisede göremedim john
+https://www.uludagsozluk.com/k/ekremin-cuma-namaz%C4%B1na-gitmemesi/&w=bg
 bkz pasif gaylerin aşktan anlamadığı gerçeği
 bkz yakışıklı olgun erkek resimlerini gay klasörüne atıyoruz
 bkz erkekleri stokluyoruz kampanyası
