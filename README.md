@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz wtf did i just watch
 https://www.xvideos.com/?k=dancingbear+bangbros
 bkz bangbros dancing bear vs tiktokta dans eden genç
 bkz eşcinsellere saçma videolar izleterek para kazanmak
