@@ -6,7 +6,7 @@ bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
-bkz zallın tangır budun doğanın faturalını online yatırması
+bkz zallın tangır budun doğanın faturalarını online yatırması
 https://www.uludagsozluk.com/k/faturalar%C4%B1-online-%C3%B6deyebilirsiniz-m%C3%BCjdesi/ 
 bkz adam fenerli zaten beyler
 bkz göklerden indiği sanılan tevrat incil zebur
