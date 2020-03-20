@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+bkz törkiyin eşşek eti yiyip suçu çine atma çabaları
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/ bkz eşek eti yenir mi
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz törkiyin eşşek eti yiyip suçu çine atma çabaları
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-arkas%C4%B1ndaki-%C3%BClke/ bkz törkiy
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/ yarasa yemiş evet
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
