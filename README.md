@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/&w=gd mutlu musunuz atom mühendisleri
+https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/&w=gd bkz mutlu musunuz atom mühendisleri
 bkz ılık götünü sikecekler diye dışarı çıkmayan ergenler
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lar%C4%B1n-sokak-a%C5%9Fk%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/ bkz bi koydum çöktü
