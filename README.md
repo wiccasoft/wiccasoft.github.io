@@ -5,6 +5,7 @@
 
 <!--
 bkz orhan bence gay vs müslüm gürses
+bkz yarasa yedi diye suçlanan çinli
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/
 bkz yarasa yiyip ladyboy sikmek
