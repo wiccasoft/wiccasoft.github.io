@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lardaki-siklememezlik/&w=gd
+https://www.uludagsozluk.com/k/hava-%C4%B1s%C4%B1n%C4%B1nca-giden-vir%C3%BCs/
+https://www.uludagsozluk.com/k/d%C3%BCnya-yanarken-seks-derdine-d%C3%BC%C5%9Fen-azg%C4%B1nlar/&w=gd
 https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/&w=gd
 https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg
 https://www.uludagsozluk.com/k/lozan-%C4%B1-dinlememek/
