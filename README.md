@@ -5,6 +5,7 @@
 
 
 <!--
+bkz lanet olsun atom mühendisliğine diyip hunharca entry girmek
 bkz atom mühendislerinin taksicileri protesto etmesi
 bkz taksicilerin entry girmeme kararı
 bkz şeyh said dizisindeki mürşit
