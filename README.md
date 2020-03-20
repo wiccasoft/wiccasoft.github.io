@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/deli-hikmet/&w=bg bkz taşşaklı 3 okka adam
 bkz rizeli tayyipin ortalarda gözükmemesi
 bkz rizeli taayip vs mersinli cihangir
 bkz saidi nursinin türk önde türk ileri demesi
