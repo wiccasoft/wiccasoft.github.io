@@ -2,6 +2,7 @@
 
 <!--
 bkz wtf did i just watch
+https://www.uludagsozluk.com/k/kan-grubu-a-ve-0-olanlar/ hayallerde yaşıyor bazı doktorlar
 https://www.uludagsozluk.com/k/bir-ter%C3%B6ristin-anas%C4%B1n%C4%B1n-alt%C4%B1na-yatmak/
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs-a%C5%9F%C4%B1s%C4%B1n%C4%B1-t%C3%BCrkiyenin-bulmas%C4%B1/&w=gd
 bkz eşcinsellere gay videoları izleterek para kazanmak
