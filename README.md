@@ -5,9 +5,7 @@ https://www.xvideos.com/?k=dancingbear+bangbros
 bkz bangbros dancing bear vs tiktokta dans eden genç
 bkz eşcinsellere saçma videolar izleterek para kazanmak
 https://james-earl-cash.uludagsozluk.com bkz eşcinsellere saçma videolar izleterek hayatını idame eden genç
-https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz tıklağ izleğ cash aksın
-https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz tıklağ izleğ cash aksın
-bkz tiktok daki ilginç vücuduyla dans eden genç
+https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz tıklağ izleğ 
 bkz ulucular beyinlerinin %100 ünü kullanırsa dünyanın yok olacağı gerçeği
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/
 https://space.stackexchange.com bkz ulusözlük çakması
