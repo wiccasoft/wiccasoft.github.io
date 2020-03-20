@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz türkiyenin eşşek eti yiyip suçu çine atma çabaları
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-arkas%C4%B1ndaki-%C3%BClke/ bkz törkiy
 https://www.uludagsozluk.com/k/minicik-vir%C3%BCsle-dev-ders-veren-yarat%C4%B1c%C4%B1/ yaratıcı evet
