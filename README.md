@@ -2,6 +2,7 @@
 
 <!--
 bkz tiktokta dasn eden yakışıklı gençler
+bkz tmert akkaşın norm endere tiktoktan diss atması
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
 bkz sağlık bakanlığının khk ile virüsü yasaklaması
 https://www.uludagsozluk.com/e/43026954/ illaki vadır amk icabında
