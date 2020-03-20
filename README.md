@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz dohtor bu ne insan yiyecek bunu insan
+bkz mucize doktor dizisindeki ergen
 https://www.uludagsozluk.com/k/etnik-k%C3%B6ken-testi/&w=gd bkz %100 greek & proud
 bkz yazdığım yapay zekanın tangır budun doğan dan zeki olması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
