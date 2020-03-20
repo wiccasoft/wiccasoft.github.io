@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg ismail türüttür evet
 https://www.uludagsozluk.com/k/konyal%C4%B1-bilim-adamlar%C4%B1/&w=bg konyalılardır evet
 bkz aile şerefindeki piç oktay piçtir evet
 bkz bir filozof atakan vardı noldu ona
