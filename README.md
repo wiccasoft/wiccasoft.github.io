@@ -5,6 +5,7 @@
 
 
 <!--
+bkz taksicilerin entry girmeme kararı
 bkz şeyh said dizisindeki mürşit
 bkz sevda tarrağımın ucundaki tarrak hasan
 bkz dürümcüsözlük'ün taksi sarısına boyanması
