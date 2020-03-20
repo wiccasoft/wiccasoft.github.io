@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek
 https://www.uludagsozluk.com/k/ey-korona-sen-kimsin-ya/&w=bg yakında anlarsınız kim olduğumu oç ları
 bkz hoşlaşılan tiktokçu gencin yaşlı teyze demesi
 bkz hoşlaşılan gencin tiktokta çiftleşme dansı yapması
