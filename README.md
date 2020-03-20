@@ -5,7 +5,8 @@
 
 
 <!--
-bkz şeyh said dizindeki mürşit
+bkz şeyh said dizisindeki mürşit
+bkz sevda tarrağımın ucundaki tarrak hasan
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz şimdi ananı taksi sarısına boyadım oç 
 bkz küçük emrahın takisicileri protesto etmesi
