@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+https://www.youtube.com/watch?v=c7IoBRRBiX8
+bkz il buluşmaya ipnoe 8 le gelen tip evet
 bkz kastamonulu bilim adamları adam mıdır sorunsalı
 bkz hemşeri ayağı göt ayağı diyen kütahyalı bilim adamı
 bkz konyalı bilim adamları vs çorumlu bilim adamları
