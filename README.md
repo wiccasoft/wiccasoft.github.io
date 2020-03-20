@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz ekşcilerin ped stoğu yapması
 bkz evden çıkmayan ekşcilerin eve taksi çağırması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 bkz zallın tangır budun doğanın faturalını online yatırim teklifi
