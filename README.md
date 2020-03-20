@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-
+bkz tangır budun doğanın apple ı batırma projesi
 bkz bot varken forumlarda paralı entry girmek
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
