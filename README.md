@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz seyfo dayının aslan akbey sevişme görüntülerinin sır kalması
 https://www.uludagsozluk.com/k/said-nursi/&w=bg bkz aslan akbeyin kahvesine virüs atan kürt
 https://www.uludagsozluk.com/k/yavuz-dizdar/&w=bg bkz aslan akbeyi öldüren mafya lideri
 bkz hayat geyselileri 61 kenara
