@@ -8,6 +8,7 @@ bkz öyle bir geçer zaman ki de ki süleyman
 bkz kızların efendi oktay yerine piç oktay tercihi
 bkz çukur vuruşma sahnelerinde ay diyen erkek
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/&w=gd bkz piç erkek
+https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg bkz bi koydum öldü
 https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg bkz dizi karakterlerine küsen çomar zekası
