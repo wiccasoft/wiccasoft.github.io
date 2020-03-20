@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz tangır budun doğanın evden çıkmadan online fatura ödemesi
 bkz tangır budun doğanın ekşiden çaldığı başlıklarla mersincli cihangir gibi yaşaması
 bkz abdul güneşseverin taksicileri protesto etmesi
 bkz enver ayseverin yobazlara döşediği boru
