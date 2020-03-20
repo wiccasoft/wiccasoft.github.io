@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+https://www.uludagsozluk.com/k/leon/&w=bg bkz leon daki pedofili
 bkz allah adam mıdır sorunsalı
 bkz allahın eski seviglisini korumaması
 https://www.uludagsozluk.com/k/allah-%C4%B1n-kabe-yi-koruyamad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
