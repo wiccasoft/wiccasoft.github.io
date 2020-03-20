@@ -6,8 +6,6 @@ bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entry
 https://www.uludagsozluk.com/k/bizim-o%C4%9Flan-uluda%C4%9F-s%C3%B6zl%C3%BCkte-yazar/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-er-ki%C5%9Finin-sokakta-gezmesi/
 bkz e devletten ermeni olduğunun öğrenene işsiz ülkücü
-https://www.uludagsozluk.com/k/ermeni/&w=bg
-https://www.uludagsozluk.com/k/fatih-terim/&w=gd bkz sicili bozuk 
 bkz hayat geyselileri 61 kenara
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
