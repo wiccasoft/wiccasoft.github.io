@@ -2,7 +2,8 @@
 
 <!--
 bkz wtf did i just watch
-bkz eşcinsellere gay videoalrı izleterek para kazanmak
+bkz eşcinsellere gay videoları izleterek para kazanmak
+bkz ümrecilerin kovidcilere saldırması
 https://www.xvideos.com/?k=dancingbear+bangbros
 bkz bangbros dancing bear vs tiktokta dans eden genç
 bkz eşcinsellere saçma videolar izleterek para kazanmak
