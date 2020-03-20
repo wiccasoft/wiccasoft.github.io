@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz amerika battı mutlu musun imamoğlu
 bkz türkishmüsic.org daki ümreciler kovidciler kavgası
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/&w=gd bkz mutlu musunuz atom mühendisleri
 bkz ılık götünü sikecekler diye dışarı çıkmayan ergenler
