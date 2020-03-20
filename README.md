@@ -2,6 +2,7 @@
 
 <!--
 https://space.stackexchange.com bkz ulusözlük çakması
+bkz dans eden tiktokçu videosu izlerken babanın odaya girmesi
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/
 bkz üstün zekalı dahilerin daha çok uluda başlık açtığı gerçeği
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
