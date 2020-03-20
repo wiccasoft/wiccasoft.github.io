@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
-bkz eski tokmakçısının eski tokmakçısının eski sevgilisini eski adının yeni tokmakçıyla aynı olması
+bkz eski sevgilisinin eski tokmaçısının adını oğlana vermek
 bkz eski sevdiceğin torununn eski tokmakçısının adını vermek
 bkz eski sevdiceğin kızını arayıp benim kıza seni adını koyim la demek
 bkz eski sevdiceği arauyıp nörüyo neski sevdicek nabin ya demek
