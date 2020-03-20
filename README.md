@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-terim/&w=gd bkz sicili bozuk 
+bkz hayat geyselileri 61 kenara
+bkz 1881 atacücü 81 vilayet - batman = 80 
+bkz 18 + 81 = 99 - 80 = covid19
 bkz geniş aile deki ulvi
 bkz mevzu derin deki memati
 bkz sevda tarramın ucundaki ömer
