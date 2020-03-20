@@ -5,8 +5,6 @@
 bkz oytunkaran ve orangutan zekası
 bkz sevda tarramın ucundaki tarrak ali ve aile şerefsizindeki piç oktay
 https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/ bkz tiptir evet 
-bkz iphone kullana tip 
-iphone kulanan tiptir evet bkz çine bombe atalım evet
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/%C5%9Fu-an-olmas%C4%B1-istedi%C4%9Fin-%C5%9Fey-nedir/&w=bg ismail türüt
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg blz ismail türüttür evet
