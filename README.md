@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz dürümcüsözlük'ün taksi sarısına boyanması
+https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
 bkz ılık götünü sikecekler diye dışarı çıkmayan ergenler
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lar%C4%B1n-sokak-a%C5%9Fk%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/ bkz bi koydum çöktü
@@ -8,9 +10,7 @@ https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fuml
 bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
 bkz tangır budun doğanın apple ı batırma projesi
 bkz bot varken forumlarda paralı entry girmek
-bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
-https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-devaml%C4%B1-yemek-yemek/ bkz ablası yavaş ye
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=gd bkz stoklanası erkekler
