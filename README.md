@@ -5,6 +5,7 @@
 
 
 <!--
+bkz atom mühendislerinin taksicileri protesto etmesi
 bkz taksicilerin entry girmeme kararı
 bkz şeyh said dizisindeki mürşit
 bkz sevda tarrağımın ucundaki tarrak hasan
