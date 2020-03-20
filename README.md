@@ -8,6 +8,7 @@
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz e devletten ermeni olduğunun öğrenen ekçici
+bkz küçük emrahın taksicilere şarkı yazması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-hocamizin-etnik-kokeni/ bkz 100% greek -->
 
 
