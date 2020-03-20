@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz erdonun taksici çalışanlarını alkışlaması
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-sa%C4%9Fl%C4%B1k-%C3%A7al%C4%B1%C5%9Fanlar%C4%B1m%C4%B1z%C4%B1-alk%C4%B1%C5%9Flamas%C4%B1/
 bkz dürümcüsözlük'ün taksici sarısına boyanması
 bkz emrahın taksicileri protesto etmesi
 bkz vahdettinin öldüğene inanmak
