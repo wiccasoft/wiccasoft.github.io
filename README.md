@@ -2,7 +2,6 @@
 
 <!--
 bkz wtf did i just watch
-bkz yapay zekanın sikerteceği doktorlar avukatlar öğretmenler
 bkz eşcinsellere gay videoları izleterek para kazanmak
 bkz ümrecilerin kovidcilere göbek dansı yapması
 https://www.xvideos.com/?k=dancingbear+bangbros
@@ -17,7 +16,6 @@ bkz dans eden tiktokçu genç erkek videosu izlerken babanın odaya girmesi
 bkz üstün zekalı dahilerin daha çok uluda başlık açtığı gerçeği
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
 bkz ulucuların 200 iq dan geri vitesle 100 e düşürmeleri ekşicileri göt etmeleri
-bkz ulucuların olmayan beyinlerinin %100 ünü kullanırsak dünya yokolur demesi
 https://www.uludagsozluk.com/e/43026993/ 
 bkz ulucuların 160 iq u 30 azaltıp 130 geçmesi
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek
