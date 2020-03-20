@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+https://www.uludagsozluk.com/k/minicik-vir%C3%BCsle-dev-ders-veren-yarat%C4%B1c%C4%B1/ yaratıcı evet
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/ yarasa yemiş evet
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg ismail türüttür evet
 https://www.uludagsozluk.com/k/konyal%C4%B1-bilim-adamlar%C4%B1/&w=bg konyalılardır evet
