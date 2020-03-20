@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz ailew şerefsizi oktay daki mantık hatası
 bkz geniş aile deki ulvi
 bkz mevzu derin deki seyfo dayı
 bkz sevda tarramın ucundaki ömer
