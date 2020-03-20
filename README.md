@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ zuahhahaha
 bkz küçük emrahın taksicilerle dalga geçmesi
 bkz damarlarında asil kan dolaşanların daha az koronoya yakalanması
 bkz erdonun taksici çalışanlarını alkışlaması
