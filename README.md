@@ -2,6 +2,7 @@
 
 <!--
 bkz wtf did i just watch
+bkz damarlarında asil kan olup coronadan korkmak
 bkz doktorların lahmacun yiyiyp rakı içenler coronoya yakalanmaz demesi
 https://www.uludagsozluk.com/k/kan-grubu-a-ve-0-olanlar/ hayallerde yaşıyor bazı doktorlar
 https://www.uludagsozluk.com/k/bir-ter%C3%B6ristin-anas%C4%B1n%C4%B1n-alt%C4%B1na-yatmak/
