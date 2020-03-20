@@ -4,10 +4,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz yazdığım yapay zekanın tangır budun doğan dan zeki olması
 bkz dünyanın en iyi biyoloğunun ürettiği virüsü doktorlarla korkutmaya çalışan çomarlar
 bkz mucize doktor dizisindeki ergenin bakışlarıyla virüsü bitirmesi
 https://www.uludagsozluk.com/k/etnik-k%C3%B6ken-testi/&w=gd bkz %100 greek & proud
-bkz yazdığım yapay zekanın tangır budun doğan dan zeki olması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ zuahahhahahaha
 bkz yobaz virüse rakı atıp kaçmak
