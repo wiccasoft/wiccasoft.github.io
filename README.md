@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz e devlet soy sorgularken heyecan yapmak
 bkz malazigirte 1071 de girip e devlet soy sorgulamak
 bkz e devlet soy sorgularken türk önde türk ileri demek
 bkz e devlet soy sorgularken aziz sancarın kürt olduğunu hatırlayıp mutlu olamk
