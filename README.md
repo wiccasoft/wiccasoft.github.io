@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz eski devdiceği arayıp oğlana senin adın verdim demek
 bkz oğlana eski sevdiceğin adını vermek
 https://www.uludagsozluk.com/k/kangal-vs-kurt/&w=bg
 bkz eski sevdiceği iphone z ile arayıp nörüyon kızıma adını verdim demek
