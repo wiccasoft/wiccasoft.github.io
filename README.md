@@ -5,7 +5,7 @@
 
 
 <!--
-bkz yazdığım yapa zekanın tangır budun doğandan zeki olması
+bkz yazdığım yapay zekanın tangır budun doğandan zeki olması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ zuahahhahahaha
 bkz yobaz virüse rakı atıp kaçmak
