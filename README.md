@@ -7,6 +7,7 @@ bkz sevda tarramın ucundaki tarrak hasan
 bkz öyle bir geçer zaman ki de ki süleyman
 bkz kızların efendi oktay yerine piç oktay tercihi
 https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
+https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg bkz dizi karakterlerine küsen çomar zekası
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
