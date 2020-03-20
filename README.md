@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-bkz ne yapsalar boş göklerden gelen bir karar vardır
+bkz şimdi ananı taksi sarısına boyadım oç 
 bkz küçük emrahın takisicileri protesto etmesi
 bkz ibbnin türkleri kudurtmak için 5000 yılıkk kürt tarihi afişi asması
 bkz 21 mart 2020 ekşisözlük ün taksi sarısına boyanması
@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/evde-penis-yapma-yollar%C4%B1/
 bkz ne yapsalar boş göklerden gelen bir karar vardır
 https://www.uludagsozluk.com/k/tek-%C3%A7%C3%B6z%C3%BCm-g%C3%B6ky%C3%BCz%C3%BCne-kald%C4%B1/ ha şöyle adam olun
 https://eksisozluk.com/taksicilerin-korona-eylemi--6423783?a=popular bkz hey hey taksi sarı ya boyadım seni-->
+
 <!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
 -->
 <!--
