@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ bkz tanfır budun doğan mutlu
 bkz tangır budun doğanın evden çıkmadan online fatura ödemesi
 bkz tangır budun doğanın ekşiden çaldığı başlıklarla mersincli cihangir gibi yaşaması
 bkz abdul güneşseverin taksicileri protesto etmesi
