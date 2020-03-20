@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+bkz iphonedan başkasına alo diyemem diyen tip evet
 bkz ilk buluşmada alo alo diyen tip evet
 bkz ilk buluşmada telefon kullanmam diyen tip evet
 bkz ilk buluşmada huaweiden başka telefon kullanmam diyen tip evet
