@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ılık götünü sikerler diye dışarı çıkmayan ergenler
+bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entryleri
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-er-ki%C5%9Finin-sokakta-gezmesi/
 bkz e devletten ermeni olduğunun öğrenene işsiz ülkücü
 https://www.uludagsozluk.com/k/ermeni/&w=bg
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd bkz sicili bozuk 
