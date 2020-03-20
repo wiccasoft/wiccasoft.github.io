@@ -1,17 +1,12 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-bkz atacücünün her gün rakı içmesi
-bkz yobazların üstüne rakı atıp kaçmak
-bkz rakının yobaz virüsü kesmesi
-https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
-bkz 2000 doğumlu yazarların 1990 doğumlu erkekleri hopur hopur hoplatması
-bkz fatih portakalın aptala anlatır gibi haber sunması
 bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
 bkz tangır budun doğanın apple ı batırma projesi
 bkz bot varken forumlarda paralı entry girmek
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
+https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-devaml%C4%B1-yemek-yemek/ bkz ablası yavaş ye
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=gd bkz stoklanası erkekler
