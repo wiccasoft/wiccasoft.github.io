@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fal-ve-stre%C3%A7-pantolon-giyen-manik%C3%BCr-yapt%C4%B1ran-erkek/
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt
 https://www.uludagsozluk.com/k/isvi%C3%A7reli-bilim-adamlar%C4%B1/&w=bg bkz şaka maka adam gibi adamlar
 https://www.uludagsozluk.com/k/ufuk-bayraktar/&w=bg bkz iaka maka çok tatlı adam
