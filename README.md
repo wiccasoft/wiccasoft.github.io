@@ -3,33 +3,6 @@
 <!-- 
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
-bkz seni cuma camide göremedim ekrem
-bkz seni pazar klisede göremedim john
-https://www.uludagsozluk.com/k/ekremin-cuma-namaz%C4%B1na-gitmemesi/&w=bg
-bkz pasif gaylerin aşktan anlamadığı gerçeği
-bkz yakışıklı olgun erkek resimlerini gay klasörüne atıyoruz
-bkz erkekleri stokluyoruz kampanyası
-bkz erkremin cuma namazında domalmaması
-bkz erkeklerin sütyen kopçasını açmaması
-bkz sütyen kopçasının tek elle açan erkek
-bkz bahara girerken erkekleri şapşikliyoruz kampanyası
-https://www.uludagsozluk.com/k/s%C3%BCtyen-kop%C3%A7as%C4%B1n%C4%B1-max-%C3%BC%C3%A7-saniyede-a%C3%A7amayan-erkek/
-https://www.uludagsozluk.com/k/erkeklerin-a%C5%9Fktan-anlamad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
-https://www.uludagsozluk.com/k/trans-erkekler-30-ya%C5%9F-%C3%BCst%C3%BCnden-daha-erkektir/ adam haklı beyler
-https://www.uludagsozluk.com/k/s%C3%BCtyen-kop%C3%A7as%C4%B1n%C4%B1-max-%C3%BC%C3%A7-saniyede-a%C3%A7amayan-erkek/
-https://www.uludagsozluk.com/k/taksiciler-batt%C4%B1-mutlu-musunuz/ bkz tanfır budun doğan mutlu
-bkz tangır budun doğanın evden çıkmadan online fatura ödemesi
-bkz tangır budun doğanın ekşiden çaldığı başlıklarla mersincli cihangir gibi yaşaması
-bkz abdul güneşseverin taksicileri protesto etmesi
-bkz enver ayseverin yobazlara döşediği boru
-bkz geniş aile deki ulvi
-bkz mevzu derin deki memati
-bkz sevda tarramın ucundaki ömer
-bkz öyle bir geçer zaman ki de ki süleyman
-bkz ılık götlü ergenlerin korkudan dışarı çıkamaması
-https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
-bkz ekşcilerin ped stoğu yapması
-bkz evden çıkmayan ekşcilerin eve taksi çağırması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 bkz zallın tangır budun doğanın faturalını online yatırim teklifi
 https://www.uludagsozluk.com/k/faturalar%C4%B1-online-%C3%B6deyebilirsiniz-m%C3%BCjdesi/ 
