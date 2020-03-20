@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz ekşisözlükün taksi sarısına boyanması
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 bkz seni cuma camide göremedim ekrem
 bkz seni pazar klisede göremedim john
