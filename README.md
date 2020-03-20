@@ -2,6 +2,7 @@
 
 <!--
 bkz wtf did i just watch
+bkz yapay zekanın sikerteceği doktorlar avukatlar öğretmenler
 bkz eşcinsellere gay videoları izleterek para kazanmak
 bkz ümrecilerin kovidcilere göbek dansı yapması
 https://www.xvideos.com/?k=dancingbear+bangbros
