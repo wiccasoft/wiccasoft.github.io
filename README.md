@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz rizeli taaayip vs mersinli cihangir
 bkz saidi nursinin türk önde türk ileri demesi
 bkz rizeli tayyip vs mersinli cihangir vs taksimin renkli siması cenk
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-5-bin-y%C4%B1ll%C4%B1k-tarihi-olmas%C4%B1/
