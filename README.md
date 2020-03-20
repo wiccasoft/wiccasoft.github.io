@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz iki tokatlık canı kalmış ergenlerin virsüten korkması
+bkz iki tokatlık canı kalmış kamalcı işsiz ergenlerin virsüten korkması
 bkz ılık götünü sikerler diye dışarı çıkmayan ergenler
 bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entryleri
 https://www.uludagsozluk.com/k/bizim-o%C4%9Flan-uluda%C4%9F-s%C3%B6zl%C3%BCkte-yazar/
