@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz mersinli cihangirin ankara ayağını denk alsın demesi
+https://www.uludagsozluk.com/k/k%C3%BCrt%C3%A7%C3%BCl%C3%BCk/&w=bg
 bkz ekrem imamaoğlanın babasının oğlan kaymasın mı demesi
 bkz mersinli cihangirin uluda yazarlık maaşı alması
 https://www.uludagsozluk.com/k/mersinli-cihangir/&w=bg bkz beni bul
