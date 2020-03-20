@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz imamoğlanın kürtçe afiş astırması
 bkz rizeli tayyip vs basurlu cihangir
 bkz asurluların 5000 yıllık kürt tarihleri olması
 bkz seyfo dayının aslan akbey sevişme görüntülerinin sır kalması
