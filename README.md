@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ulucuların olmyana beyinlerimiz %100 ünü kullanırsak dünya yokolur demesi
 https://www.uludagsozluk.com/e/43026993/ 
 bkz ulucuların 160 iq u 30 azaltıp 130 geçmesi
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek
