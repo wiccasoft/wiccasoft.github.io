@@ -5,6 +5,7 @@
 
 
 <!--
+bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz şimdi ananı taksi sarısına boyadım oç 
 bkz küçük emrahın takisicileri protesto etmesi
 bkz xi jipingin ekşicilere darılması
