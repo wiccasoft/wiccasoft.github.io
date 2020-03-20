@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz allahın eski seviglisini korumaması
+https://www.uludagsozluk.com/k/allah-%C4%B1n-kabe-yi-koruyamad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
 bkz eski sevgilisi olmamanın faydaları
 bkz eski sevgilinin eski tokmaçısın adını unutup arayıp sormak
 bkz eski sevgilisinin eski tokmaçısının adını oğlana vermek
