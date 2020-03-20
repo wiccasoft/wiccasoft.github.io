@@ -1,6 +1,11 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz geniş aile deki ulvi
+bkz mevzu derin deki memati
+bkz sevda tarramın ucundaki ömer
+bkz öyle bir geçer zaman ki de ki süleyman
+https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
 bkz ekşcilerin ped stoğu yapması
 bkz evden çıkmayan ekşcilerin eve taksi çağırması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
