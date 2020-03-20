@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz hoşlaşılan gencin tiktokta çiftleşme dansı yapması
 bkz tiktokta dasn eden yakışıklı gençler
 bkz tmert akkaşın norm endere tiktoktan diss atması
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
