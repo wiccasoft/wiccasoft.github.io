@@ -1,12 +1,12 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz xi jinpingin ekşicilere darılması
 bkz şimdi ananı taksi sarısına boyadım oç 
 bkz küçük emrahın takisicileri protesto etmesi
 bkz ibbnin türkleri kudurtmak için 5000 yılık kürt tarihi afişi asması
 bkz 21 mart 2020 ekşisözlük ün taksi sarısına boyanması
 bkz e devletten arap kürt kırması olduğunu öğrenen ekşicinin dramı
-bkz xi jipingin ekşicilere darılması
 https://www.uludagsozluk.com/k/ibb-nin-korona-i%C3%A7in-k%C3%BCrt%C3%A7e-afi%C5%9F-ast%C4%B1rmas%C4%B1/
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lardaki-siklememezlik/ bkz ben
 https://www.uludagsozluk.com/k/evde-penis-yapma-yollar%C4%B1/
