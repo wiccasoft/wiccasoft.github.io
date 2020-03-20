@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz abdul güneşseverin taksicileri oprotesto etmesi
 bkz enver ayseverin yobazlara döşediği boru
 bkz geniş aile deki ulvi
 bkz mevzu derin deki memati
