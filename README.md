@@ -5,6 +5,7 @@
 
 
 <!--
+bkz yobaz virüse rakı atıp kaçmak
 bkz lanet olsun atom mühendisliğine diyip hunharca entry girmek
 bkz atom mühendislerinin taksicileri protesto etmesi
 bkz taksicilerin entry girmeme kararı
