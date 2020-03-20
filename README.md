@@ -1,6 +1,12 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!-- https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/&w=gd -->
+<!--
+bkz vahdettinin öldüğene inanmak
+bkz çomarların inanacağı bir yalan uydur
+bkz damarlarında asil kan dolaşıp koronadan korkmak
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lar%C4%B1-hedef-alan-k%C3%BCresel-salg%C4%B1n-hastal%C4%B1k/
+https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/&w=gd -->
+
 <!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
 -->
 <!--
