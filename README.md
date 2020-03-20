@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!-- 
+bkz oytunkaran ve orangutan zekası
 https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/ bkz tiptir evet 
 bkz iphone kullana tip 
 iphone kulanan tiptir evet bkz çine bombe atalım evet
