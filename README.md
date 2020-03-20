@@ -1,13 +1,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-bkz ılık götünün sikeceklerde diye dışarı çıkmayan ergenler
+bkz ılık götünü sikecekler diye dışarı çıkmayan ergenler
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1lar%C4%B1n-sokak-a%C5%9Fk%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/ bkz bi koydum çöktü
 https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg bkz serkan is my girl
-https://www.uludagsozluk.com/k/mevlana/&w=bg bkz mevlana şems sşkı
-bkz amerika çökerkens özlükçülerin çökmemesi
-https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/
 bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
 bkz tangır budun doğanın apple ı batırma projesi
 bkz bot varken forumlarda paralı entry girmek
