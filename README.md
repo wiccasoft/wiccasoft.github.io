@@ -5,6 +5,7 @@
 
 <!--
 bkz yarasa yiyip ladyboy sikmek
+bkz sweet diye nick alan ülkücü nonoş
 https://sweetmandarine.uludagsozluk.com/ bk ülkücü ve nonoşların iğrenç olduğı gerçeği
 bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz abdulhamdinin torunu olup virüsten korkmak
