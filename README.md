@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1kl%C4%B1-%C5%9Feffaf-pc-kasas%C4%B1-toplamak/
 bkz bot varken forumlarda paralı entry girmek
 bkz dürümcüsözlük'ün taksi sarısına boyanması
 bkz e devlettten yavşak olduğunu öğrenen ülkücünün dramı
