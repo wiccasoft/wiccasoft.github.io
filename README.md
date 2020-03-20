@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!-- bkz ekşicilerin wuhan krizi sebeiyle entry girmemesi -->
+<!--
+https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/&w=gd
+https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg
+https://www.uludagsozluk.com/k/lozan-%C4%B1-dinlememek/
+bkz ekşicilerin wuhan krizi sebeiyle entry girmemesi -->
 
 [![Image](waste/Screenshot_2020-03-18_23-22-31.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 
