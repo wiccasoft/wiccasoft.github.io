@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz hemişire kızların aşı yaparken doktora sorması
+https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg
 bkz hemşire ekşici kız uzman erbaş ulucu oğlan ilişkisi
 https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1-beklenen-genelgeyi-yay%C4%B1nlad%C4%B1/ 
 https://www.uludagsozluk.com/k/tiktok-daki-ilgin%C3%A7-v%C3%BCcuduyla-dans-eden-gen%C3%A7/ bkz piç erkek dansı
