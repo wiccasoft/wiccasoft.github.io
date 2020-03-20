@@ -6,7 +6,6 @@ bkz yobazların üstüne rakı atıp kaçmak
 bkz rakının yobaz virüsü kesmesi
 https://www.uludagsozluk.com/k/sevdim-seni-be-tosunum/
 bkz 2000 doğumlu yazarların 1990 doğumlu erkekleri hopur hopur hoplatması
-https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg bkz lordmarcusprincess
 bkz fatih portakalın aptala anlatır gibi haber sunması
 bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
 bkz tangır budun doğanın apple ı batırma projesi
