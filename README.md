@@ -5,6 +5,7 @@
 
 <!--
 bkz yarasa yiyip ladyboy sikmek
+bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz abdulhamdinin torunu olup virüsten korkmak
 https://www.uludagsozluk.com/k/yeni-abd%C3%BClhamid-vakas%C4%B1/
 bkz atacücün her gece rakı içip ateist olması
