@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+bkz erkekleri stokluyoruz kampanyası
 bkz erkremin cuma namazında domalmaması
 bkz erkeklerin sütyen kopçasını açmaması
 bkz sütyen kopçasının tek elle açan erkek
