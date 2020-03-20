@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
-bkz ekşcilerin eve taksi çağırması
+bkz evden çıkmayan ekşcilerin eve taksi çağırması
 https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
 bkz zallın tangır budun doğanın faturalını online yatırim teklifi
 https://www.uludagsozluk.com/k/faturalar%C4%B1-online-%C3%B6deyebilirsiniz-m%C3%BCjdesi/ 
