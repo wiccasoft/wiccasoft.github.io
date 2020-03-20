@@ -5,24 +5,8 @@
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz törkiyin eşşek eti yiyip suçu çine atma çabaları
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-arkas%C4%B1ndaki-%C3%BClke/ bkz törkiy
-https://www.uludagsozluk.com/k/minicik-vir%C3%BCsle-dev-ders-veren-yarat%C4%B1c%C4%B1/ yaratıcı evet
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/ yarasa yemiş evet
-https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg ismail türüttür evet
-https://www.uludagsozluk.com/k/konyal%C4%B1-bilim-adamlar%C4%B1/&w=bg konyalılardır evet
-bkz aile şerefindeki piç oktay piçtir evet
-bkz bir filozof atakan vardı noldu ona
-https://www.youtube.com/watch?v=c7IoBRRBiX8
-bkz ilk buluşmaya iphone 8 le gelen tip evet
-bkz kastamonulu bilim adamları adam mıdır sorunsalı
-bkz hemşeri ayağı göt ayağı diyen kütahyalı bilim adamı
-bkz konyalı bilim adamları vs çorumlu bilim adamları
-bkz oytunkaran vs orangutan zekası
-bkz sevda tarramın ucundaki tarrak ali ve aile şerefsizindeki piç oktay
-https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/ bkz tiptir evet 
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
-https://www.uludagsozluk.com/k/%C5%9Fu-an-olmas%C4%B1-istedi%C4%9Fin-%C5%9Fey-nedir/&w=bg ismail türüt
-https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg blz ismail türüttür evet
-https://www.uludagsozluk.com/k/iphone-dan-ba%C5%9Fka-telefon-kullanmam-diyen-tip/
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/ 
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
