@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/ bkz bi koydum çöktü
 https://www.uludagsozluk.com/k/2000-do%C4%9Fumludan-dayak-yiyen-1990-do%C4%9Fumlu-erkek/&w=bg bkz serkan is my girl
 https://www.uludagsozluk.com/k/mevlana/&w=bg bkz mevlana şems sşkı
 bkz amerika çökerkens özlükçülerin çökmemesi
