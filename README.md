@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz eski sevdiceğin torununn eski tokmakçısının adını vermek
 bkz eski sevdiceğin kızını arayıp benim kıza seni adını koyim la demek
 bkz eski sevdiceği arauyıp nörüyo neski sevdicek nabin ya demek
 bkz eski sevdiceği arayıp nördün kıza senin adını verdim demek
