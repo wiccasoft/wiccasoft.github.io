@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/yavuz-dizdar/&w=bg bkz aslan akbeyi öldüren mafya lideri
 bkz hayat geyselileri 61 kenara
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
