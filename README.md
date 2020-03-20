@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!-- 
+https://www.uludagsozluk.com/k/abd-nin-resmen-%C3%A7%C3%B6k%C3%BC%C5%9F-s%C3%BCrecine-girmesi/
 bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
 bkz tangır budun doğanın apple ı batırma projesi
 bkz bot varken forumlarda paralı entry girmek
