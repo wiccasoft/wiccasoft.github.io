@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
-https://tengir-budun.uludagsozluk.com dayı sen ne kafası yaşıyosun ya hakkat
+https://tengir-budun.uludagsozluk.com dayı sen ne kafası yaşıyosun ya hakkat yaş 15 falan mı
 bkz tangır budun doğan deli mi sorunsalı
 bkz tangır budun doğan tayyip erdoğan benzerlikleri
 https://www.uludagsozluk.com/e/43032217/ bkz rte iibfden arkadaşlarıyla
