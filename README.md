@@ -5,6 +5,7 @@
 
 <!--
 bkz enver ayseverin yobazlara yaptığı kapak
+bkz kamalcıların eğitilmez olduğu gerçeği
 https://www.uludagsozluk.com/e/43028790/ zuahhahahaha
 bkz sadece şeyma okuyan kız
 bkz cana karatayın virüse karşı lahmacun yiyin önerisi
