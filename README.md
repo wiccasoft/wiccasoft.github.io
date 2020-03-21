@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+bkz tangır budun doğan deli mi sorunsalı
 bkz tangır budun doğan tayyip erdoğan benzerlikleri
 https://www.uludagsozluk.com/e/43032217/ bkz rte iibfden arkadaşlarıyla
 https://www.uludagsozluk.com/k/ak-parti-d%C3%B6nemine-bir-%C5%9Fiir-b%C4%B1rak/
