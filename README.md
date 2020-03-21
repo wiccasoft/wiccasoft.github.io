@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://satoshi-nakamoto.uludagsozluk.com/ bkz satoshi nakamatonun çin fişini çekmesi
 bkz türkiyeni çini bitirme planları
 bkz yarasa yiyip ladyboy siken millet
 bkz çine atom bombası atılması gerekliliği
