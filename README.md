@@ -4,7 +4,6 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://satoshi-nakamoto.uludagsozluk.com/ 
 bkz çıkar azındakini ne dediğin anlaşılmıyor oç
 bkz elinde iphone götünde amerikan donu azında atacücü ile yaptırımdan bahseden çomar
 bkz kamalcıların eğitilmez çomarlar oldukları gerçeği
