@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+https://www.uludagsozluk.com/e/43032775/ bkz rte
+https://www.uludagsozluk.com/k/ilahla%C5%9Ft%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1z-adam%C4%B1n-bi-kezoya-tav-olmas%C4%B1/&w=bg 
 bkz 21 mart 2020  recep tayyip erdoğanın sigarayı azaltması
 https://www.pinterest.com/wiccasoft/pins/ bkz rte nin cumhurbaşkanlığının düşmesi
 bkz utandmadan iibf bitirdim demek
