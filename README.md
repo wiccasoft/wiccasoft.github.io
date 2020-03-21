@@ -6,6 +6,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz 2023 ü göremeyecek ergenlerin hala dalga geçmesi
 https://www.uludagsozluk.com/k/3000-y%C4%B1l%C4%B1nda-insan-v%C3%BCcudu/ bkz 3000 yılına not bırak
 bkz coronoyı sallamayan 20 yaş altı ergenlerin güldürmesi
 bkz virüs bana bişey yapmaz diyip yaşlılarla dalga geçen eblek ergenler nefes alamayınca kaybolmayın entry girin
