@@ -5,6 +5,7 @@
 
 <!--
 bkz ümrecilerin kovidcilere saldırması
+bkz emrahın taksicileri protesto etmesi
 https://www.uludagsozluk.com/k/ele%C5%9Ftirel-teori/&w=bg 
 bkz dürümcüsözlükün taksi sarısına boyanması
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=gd
