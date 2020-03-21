@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ümrecilerin taksicileri protesto etmesi
 bkz ümrecilerin kovidcilere saldırması
 bkz emrahın taksicileri protesto etmesi
 https://www.uludagsozluk.com/k/ele%C5%9Ftirel-teori/&w=bg 
