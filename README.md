@@ -4,10 +4,9 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz emrahın taksicileri protesto etmesi
+bkz küçük emrahın taksicileri protesto etmesi
 bkz taksicilerin coronaya yüzünden kısa mesafe açmaması
 bkz taksicilerin corona yüzünden eylem yapması
-bkz atom fiziğine de profesörlüğüne de lanet olsun 
 bkz taksicilerin kısa mesafe açmaması
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz hayallerde yaşıyor bazı çomarlar
 bkz dürümcülerin güneşi kendi etraflarında döndüğünü sanması
