@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
-https://tengir-budun.uludagsozluk.com dayı sen ne kafası yaşıyosun ya hakkat yaş 15 falan mı
+https://tengir-budun.uludagsozluk.com bkz dayı sen ne kafası yaşıyosun ya hakkat 
 bkz tangır budun doğan deli mi sorunsalı
 bkz tangır budun doğan tayyip erdoğan benzerlikleri
 https://www.uludagsozluk.com/e/43032217/ bkz rte iibfden arkadaşlarıyla
