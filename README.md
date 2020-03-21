@@ -5,6 +5,7 @@
 
 <!--
 bkz atacücünü her gece rakı içmesi
+bkz atacücünün rakı sofrasında kazım ı azarlaması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz mokomato
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz abilerin yanında siyaset yapma
 bkz konuyu atacücüye bağlamak
