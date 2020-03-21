@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.google.com.tr/search?q=yusuf+güney bkz esmer erkek çekiciliği
 bkz yusuf güneyin bakışlarında yok olmak
 bkz yusuf güney in 1984 doğumlu olması
 https://www.google.com.tr/search?q=yusuf+güney&oq=yusuf+güney
