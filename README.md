@@ -3,7 +3,8 @@
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!--bkz dedesi köyde eşek siken 80 iq lu çomarların akıl vermesi
+<!--
+bkz dedesi köyde eşek siken 80 iq lu çomarların akıl vermesi
 bkz 21 mart 2020 dürümcülerin hala kendilerini bi bok sanmaları
 bkz 21 mart 2020 dürümcüleri kimsenin siklememesi
 bkz enver ayseverin yobazlara yaptığı kapak
