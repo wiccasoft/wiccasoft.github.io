@@ -4,9 +4,12 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+
+bkz güneş toğla benim için
 bkz batmandaki mantık hatası
 bkz atacücünün atacücücü olduğu gerçeği 
 bkz 1881 atacücü 81 vilayet - batman = 80 18 + 81 = 99 - 80 = covid 19
+https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli-nin-as%C4%B1l-mesle%C4%9Fi/ 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg-->
 
 <!-- https://books.google.com/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
