@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz yusuf güneyin melekler seni bana yazmış klbindeki hintli
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler sizi yusufa yazmış
 https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
 bkz sercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yapıştır reyiz diyor
