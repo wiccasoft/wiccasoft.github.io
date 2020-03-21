@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz satoshi-nakamoto sen misin
 bkz deep webteki çomarlardaki özgüvenin sebebi
 bkz deep webteki çomarların kendilerini dünyanın efendileri sanmaları
 https://satoshi-nakamoto.uludagsozluk.com/ bkz çomar özgüveni
