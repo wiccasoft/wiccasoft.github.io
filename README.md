@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz havlayan fino köpeği ısırmaz
 bkz köyde köpek silen milletin akıl vermesi
 bkz genetik kopyalama yapabilen çinliye gel rakı içek köpek sikek demek
 bkz elinde iphone ile dedesi köyde eşşek siken milletin çini bitirmeye çalışması
