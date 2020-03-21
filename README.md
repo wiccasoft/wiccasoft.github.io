@@ -5,6 +5,7 @@
 
 <!--
 bkz çomarlardaki anlaşılmayan özgüven
+bkz dedesi köyde eşşek siken çomarın genetik kopyalama yapabilen çinliyi aşağılaması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
 bkz taksicilerin kısa mesafe açmaması
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz hayallerde yaşıyor bazı çomarlar
