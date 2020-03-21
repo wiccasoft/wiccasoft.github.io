@@ -5,6 +5,7 @@
 
 <!--
 bkz oğuz atay okumayan kız
+bkz oğuz atayın anasının amına koyayım diyen kız
 bkz yine seks hikayesi mi yazıyosun feridun abiiiiiiii
 bkz oğuz atay nuri bilge ceylan çok severim diyen kız
 bkz risalei nur okuyan taksici
