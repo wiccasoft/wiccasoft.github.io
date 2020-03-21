@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ikinci yeni akımı bana göre değil diyen kız
 bkz nuri bilge ceylan en sevdiğim yönetme diyen kız
 bkz edip cansever okuyan kız
 bkz doktorcuların kovide reçete yazmaması
