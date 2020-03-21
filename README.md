@@ -5,6 +5,7 @@
 
 <!--
 bkz ekranların sevilen siması
+bkz halkın sevgi seline boğulmak
 bkz 21 mart 2020 dürümcüleri herkesin çok sevmesi
 bkz enver ayseverin yobazlara yaptığı kapak
 bkz kamalcıların eğitilmez olduğu gerçeği
