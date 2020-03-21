@@ -4,8 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz 1984 doğumlu esmer erkek seksiliği
-https://www.google.com.tr/search?q=yusuf+güney 
+https://www.google.com.tr/search?q=yusuf+güney offf bu ne yav
 https://www.google.com.tr/search?q=yusuf+güney&oq=yusuf+güney
 bkz serdar ortaçın burak özçivit e yakışıklı diyen bana demesin demesi
 bkz yusuf güneyin keskin bakışları vs burak özçivitin keskin bakışları
