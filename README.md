@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz oğuz atay çok severim diyen kız
+bkz oğuz atay okumayan kız
 bkz yine seks hikayesi mi yazıyosun feridun abiiiiiiii
 bkz oğuz atay nuri bilge ceylan çok severim diyen kız
 bkz risalei nur okuyan taksici
