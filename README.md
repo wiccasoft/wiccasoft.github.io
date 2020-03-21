@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz emrahın hey hey taksi şarkısı
 bkz risalei nur okuyan kız
 https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir dahi 
 https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz ayarın kralı
