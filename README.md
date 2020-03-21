@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+bkz rte 65 yaşında arkadaşları onunla taşşak geçiy
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg bkz rte arkadaşlarıyla
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
 bkz tangır budun doğanın twiter ve ekşici ergenlerin esprilerini çalması
