@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://satoshi-nakamoto.uludagsozluk.com/ bkz çomar özgüveni
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg bkz özgüven nedir
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin protestoya devam etmesi
 bkz emrahın hey hey taksi şarkısı
