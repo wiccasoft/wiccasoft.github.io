@@ -5,7 +5,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ bkz iğrençsiziniz ibneler
-https://www.uludagsozluk.com/e/43028790/ 
+https://www.uludagsozluk.com/e/43028790/ zuahhahaha
 -->
 
 <!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
