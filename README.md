@@ -6,6 +6,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz elif can terimin damadı araması
 bkz canan karatayın suskunluğunu koruması
 bkz receğ tayyiğ erdoğanın iphone dan mesaj atması
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-mesaj-atmas%C4%B1/
