@@ -2,6 +2,9 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+https://www.uludagsozluk.com/e/43032217/ bkz rte iibfden arkadaşlarıyla
+https://www.uludagsozluk.com/k/ak-parti-d%C3%B6nemine-bir-%C5%9Fiir-b%C4%B1rak/
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1n%C4%B1n-d%C3%BC%C5%9Fmesi/
 bkz rte 65 yaşında arkadaşları onunla taşşak geçiy
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg bkz rte arkadaşlarıyla
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
