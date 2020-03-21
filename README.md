@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz zülfü livanelini coronaya reçete yazması
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli-vs-%C5%9Feyma-suba%C5%9F%C4%B1/
 bkz dürümcülerin ümrecileri protesto etmesi
 bkz taksicilerin ümrecileri protesto etmesi
