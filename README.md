@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ekranların sevilen siması
 bkz 21 mart 2020 dürümcüleri herkesin çok sevmesi
 bkz enver ayseverin yobazlara yaptığı kapak
 bkz kamalcıların eğitilmez olduğu gerçeği
