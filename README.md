@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/can-s%C4%B1k%C4%B1nt%C4%B1s%C4%B1-%C3%A7ekmek/ beddüzaman entry gir kankağ
 https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/&w=bg bkz zamanın ötesinde bir deha
 bkz eski sevdiceğin tokmakçısın adını unutup arayıp sormak
 bkz eski sevdiceğin tokmakçısının adını oğlana koymak
