@@ -1,6 +1,10 @@
 
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
+
+<!--https://www.uludagsozluk.com/k/eski-sevgilinin-ad%C4%B1n%C4%B1-k%C4%B1z%C4%B1na-koymak/&w=bg 
+bkz alo orası bilmem kaç 013 mü canım 
+-->
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 
