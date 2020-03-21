@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz dürümcülerin taksiciler yüzünden eylem yapması
 bkz emrahın taksicileri protesto etmesi
 bkz dürümcülerin taksicilerle ne sorunu var sorunsalı
 bkz dürümcüsözlük ün taksi sarısına boyanması
