@@ -3,7 +3,9 @@
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!--bkz atacücünün atacücücü olduğu gerçeği 
+<!--
+bkz batmandaki mantık hatası
+bkz atacücünün atacücücü olduğu gerçeği 
 bkz 1881 atacücü 81 vilayet - batman = 80 18 + 81 = 99 - 80 = covid 19
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg-->
 
