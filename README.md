@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz aile şerefindeki piç oktay
+https://www.uludagsozluk.com/k/21-mart-d%C3%BCnya-down-sendromu-g%C3%BCn%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-veysel-%C5%9Fat%C4%B1ro%C4%9Flu/&w=bg bkz this day in history
 bkz dedesi köyde eşek siken 80 iq lu çomarların akıl vermesi
 bkz 21 mart 2020 dürümcülerin hala kendilerini bi bok sanmaları
