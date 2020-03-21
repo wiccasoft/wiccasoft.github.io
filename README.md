@@ -8,7 +8,7 @@ bkz dürümcülerin taksiciler yüzünden eylem yapması
 bkz emrahın taksicileri protesto etmesi
 bkz dürümcülerin taksicilerle ne sorunu var sorunsalı
 bkz dürümcüsözlük ün taksi sarısına boyanması
-https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ bkz iğrençsiziniz ibneler
+https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/e/43028790/ zuahhahaha
 -->
 
