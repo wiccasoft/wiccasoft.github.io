@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+
 bkz çomarlardaki özgüven
 bkz deep türkish web te çini haritadan silen ergenler
 bkz azında amerikan yarrağı ile konuşan ergen
@@ -15,6 +16,7 @@ bkz yarasa yiyolar abi ondan oluyo bu virüs
 bkz atacücünü her gece rakı içmesi
 bkz atacücünün rakı sofrasında kazım ı azarlaması
 bkz atacücünün ismetle olan münasebeti
+https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir deha
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz mokomato
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz abilerin yanında siyaset yapma
 bkz konuyu atacücüye bağlamak
