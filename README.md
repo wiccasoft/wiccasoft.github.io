@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg bkz melekler seni bana yazmış
 bkz serdar ortaçın burak özçivit e yakışıklı diyen bana demesin demesi
 bkz yusuf güneyin keskin bakışları vs burak özçivitin keskin bakışları
 bkz atacücünün saçlarını sarıya boyamış yusuf güney olduğu gerçeği
