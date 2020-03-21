@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ülkücülerin amerika dışında bütün ülkelere düşman olması
 bkz türklerin çine yaptırım uygulayıp çini haritadan silmesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
 https://satoshi-nakamoto.uludagsozluk.com/ bkz xi jipingin senden haberi var mı acaba
