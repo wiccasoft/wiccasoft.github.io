@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz küçük emrahın saçlarını  taksici sarısına boyaması
 bkz yusuf güney vs burak özçivit
 bkz yusuf güneyin murat bozdan yakışıklı olduğu gerçeği
 bkz yusuf güneyin melekler seni bana yazmışı serdar ortaçtan çalması
