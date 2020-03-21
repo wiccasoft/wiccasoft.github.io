@@ -4,12 +4,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz yusuf güneyin çok yakışıklı olduğu gerçeği
+bkz yusuf güneyin murat bozdan yakışıklı olduğu gerçeği
 bkz yusuf güneyin melekler seni bana yazmışı serdar ortaçtan çalması
-bkz serdar ortaçın orta asyanın asıl sahibi biziz demesi
-bkz burak özçivitin çekik gözlerim çinden miraz demesi
-bkz burak özçivitin asker pozuyla attığı bakış
-bkz yusuf güney mi daha yakışıklı murat boz mu sorunsalı
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış
 https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
 bkz sercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yapıştır reyiz diyor
