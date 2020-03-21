@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/ bkz diploma nerde recep 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-m%C3%BCthi%C5%9F-espri/
 https://www.uludagsozluk.com/k/adam-coronal%C4%B1-%C3%A7%C4%B1kt%C4%B1-r%C4%B1za-baba/
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-coronaya-yakaland%C4%B1/
