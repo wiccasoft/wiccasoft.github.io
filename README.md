@@ -2,10 +2,11 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+iyi korunun genşler şakası yok bunun
 bkz tangır budun doğanın deli olduğu gerçeği
 https://sweetmandarine.uludagsozluk.com/ bu da tangır budun doğan fake i
 https://www.uludagsozluk.com/k/polise-t%C3%BCk%C3%BCren-umreci/&w=bg
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 https://www.uludagsozluk.com/k/koronavir%C3%BCse-yakalanan-k%C4%B1z%C4%B1n-dram%C4%B1/
 https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki komik te deilsin
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
