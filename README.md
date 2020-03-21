@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz eski sevdiceğin tokmakçısın adını unutup arayıp sormak
 bkz eski sevdiceğin tokmakçısının adını oğlana koymak
 https://www.google.com.tr/search?q=yusuf+güney offffff offfff bu ne yav
 https://www.google.com.tr/search?q=yusuf+güney&oq=yusuf+güney
