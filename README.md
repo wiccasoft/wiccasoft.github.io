@@ -4,8 +4,6 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz sakaryada ümrecilerin kovidcilere saldırması
-https://www.uludagsozluk.com/k/umreciler/&w=gd bkz kovidciler ümreciler arasındaki gerilim
 bkz ümrecilerin kovidcilere saldırması
 bkz emrahın taksicileri protesto etmesi
 https://www.uludagsozluk.com/k/ele%C5%9Ftirel-teori/&w=bg 
