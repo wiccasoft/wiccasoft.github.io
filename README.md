@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/e/43028790/ zuahhahahaha
 https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz atatürkçü chen
 bkz adam gibi adam giyince akla gelen ilk adam
 bkz burak özçivitin yusuf güneyden yakışıklı olduğu gerçeği
