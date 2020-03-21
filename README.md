@@ -6,7 +6,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz virüs bana bişey yapmaz diyip yaşlılarla dalga geçen eblek ergenler nefes alamayınca entry girin
+bkz virüs bana bişey yapmaz diyip yaşlılarla dalga geçen eblek ergenler nefes alamayınca kaybolmayın entry girin
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-n%C3%BCfusu-temizleme-operasyonu/ bence daha fazlası
 bkz elif can terimin damadı araması
 bkz canan karatayın suskunluğunu koruması
