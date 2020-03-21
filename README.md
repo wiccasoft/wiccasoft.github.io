@@ -4,8 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz çomarlardaki anlaşılmayan özgüven
-bkz cehalet arttıkça çomarlardaki egonun da artması
+bkz çomarlardaki anlaşılmayan ego ve özgüven 
 bkz dedesi köyde eşşek siken çomarın genetik kopyalama yapabilen çinliyi aşağılaması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
 bkz taksicilerin kısa mesafe açmaması
