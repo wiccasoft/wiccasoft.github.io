@@ -1,6 +1,8 @@
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
+<!-- https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyinin-corona-testi-pozitif-%C3%A7%C4%B1kt%C4%B1/ -->
+
 [![Image](waste/Screenshot_2020-03-18_17-41-48.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
