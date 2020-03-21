@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz zülfü livaneli vs macun kaplıcalı
 bkz atacücünün osurduğu yalanı
 bkz atacüc fasulye yer osururdu yalanı
 bkz yobaz virüse rakı atıp kaçmak
