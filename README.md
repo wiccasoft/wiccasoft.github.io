@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+bkz elif can terimin covid19 + çıkması
 iyi korunun genşler şakası yok bunun
 bkz tangır budun doğanın deli olduğu gerçeği
 https://sweetmandarine.uludagsozluk.com/ bu da tangır budun doğan fake i
