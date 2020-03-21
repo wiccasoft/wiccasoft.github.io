@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz taksicilerin eylemi 7 nisana kadar sürdürecez demesi
 bkz küçük emrahın taksicileri protesto etmesi
 bkz taksicilerin coronaya yüzünden kısa mesafe açmaması
 bkz taksicilerin corona yüzünden eylem yapması
