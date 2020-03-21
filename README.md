@@ -5,8 +5,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz satoshi-nakamoto sen misin
-bkz deep webteki çomarlardaki özgüvenin sebebi
-bkz deep webteki çomarların kendilerini dünyanın efendileri sanmaları
 https://satoshi-nakamoto.uludagsozluk.com/ bkz çomar özgüveni
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg bkz özgüven nedir
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin protestoya devam etmesi
