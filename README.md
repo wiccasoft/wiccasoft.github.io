@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz rte nin cumhurbaşkanlığının düşmesi
 bkz utandmadan iibf bitirdim demek
 bkz iibf diplomasını duvara asan kişi
 bkz iibf diplomasını gösteremeyen malum kişi
