@@ -5,23 +5,6 @@
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!--
-bkz rte nin rahat olun sarayı izole ettim demesi
-bkz 2023 ü göremeyecek ergenlerin hala dalga geçmesi
-https://www.uludagsozluk.com/k/3000-y%C4%B1l%C4%B1nda-insan-v%C3%BCcudu/ bkz 3000 yılına not bırak
-bkz coronoyı sallamayan 20 yaş altı ergenlerin güldürmesi
-bkz virüs bana bişey yapmaz diyip yaşlılarla dalga geçen eblek ergenler nefes alamayınca kaybolmayın entry girin
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-n%C3%BCfusu-temizleme-operasyonu/ bence daha fazlası
-bkz elif can terimin damadı araması
-bkz canan karatayın suskunluğunu koruması
-bkz receğ tayyiğ erdoğanın iphone dan mesaj atması
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-mesaj-atmas%C4%B1/
-https://www.uludagsozluk.com/k/iphone-11-alamayan-y%C4%B1k%C4%B1k/&w=bg lol
-bkz hastalıkla dalga geçen ergenler görüşürüz
-https://www.uludagsozluk.com/e/43031742/ lol
-https://www.uludagsozluk.com/e/43029112/ lol
--->
-
 <!-- https://books.google.com/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
 -->
 <!--
