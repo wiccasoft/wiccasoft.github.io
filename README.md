@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz çomarlardaki anlaşılmayan özgüven
 bkz çomarlardaki özgüven kaynağı ney sorunsalı
 bkz dedesi köyde eşek siken çomarların deep webte kendini imparator sanması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
