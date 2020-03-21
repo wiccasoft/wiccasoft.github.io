@@ -7,14 +7,9 @@ https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
 https://tengir-budun.uludagsozluk.com bkz dayı sen ne kafası yaşıyosun ya hakkat 
 bkz tangır budun doğan deli mi sorunsalı
-bkz tangır budun doğan tayyip erdoğan benzerlikleri
-https://www.uludagsozluk.com/e/43032217/ bkz rte iibfden arkadaşlarıyla
-https://www.uludagsozluk.com/k/ak-parti-d%C3%B6nemine-bir-%C5%9Fiir-b%C4%B1rak/
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1n%C4%B1n-d%C3%BC%C5%9Fmesi/
 bkz rte 65 yaşında arkadaşları onunla taşşak geçiy
-https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg bkz rte arkadaşlarıyla
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
-bkz tangır budun doğanın twiter ve ekşici ergenlerin esprilerini çalması
+bkz tangır budun doğanın twitterdaki ergenlerin esprilerini çalması
 https://www.uludagsozluk.com/e/43032217/ bkz tangır budun doğan arkadaşlarıyla
 https://www.uludagsozluk.com/e/43032775/ bkz rte
 https://www.uludagsozluk.com/k/ilahla%C5%9Ft%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1z-adam%C4%B1n-bi-kezoya-tav-olmas%C4%B1/&w=bg 
