@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz bok yaptıktan sonra yakılan sigara
 bkz sıçtığı boka kadar entry giren tip
 https://www.uludagsozluk.com/k/gece-03-00-da-ate%C5%9Flenen-sigara/&w=bg bkz oğuz tatak
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz oğuz tatak
