@@ -6,49 +6,14 @@
 <!--
 https://satoshi-nakamoto.uludagsozluk.com/  bkz aman abi amerikaya yaotırım uygulama abi
 https://satoshi-nakamoto.uludagsozluk.com/ bkz çini yaptırımla haritadan silen reyiz
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
-https://satoshi-nakamoto.uludagsozluk.com/ bkz çine yaptırımla yıldıran reyiz
 https://satoshi-nakamoto.uludagsozluk.com/  bkz ülkücü japon
 https://satoshi-nakamoto.uludagsozluk.com/  bkz bir gece ansızın pekin
 bkz konuyu atacücüye bağlamak
 bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
-bkz ülkücülerin amerika dışında bütün ülkelere düşman olması
-bkz türklerin çine yaptırım uygulayıp çini haritadan silmesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
-https://satoshi-nakamoto.uludagsozluk.com/ bkz xi jipingin senden haberi var mı acaba
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
-bkz atacününün kazım karabekire çin sarayını kaç saatte alırız demesi
-bkz türklerin çine yaptırım uygulayıp haritadan silme planlar
-bkz atacücünün ismet inöcü gölgesinde kalması
-bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz karabekir
-https://satoshi-nakamoto.uludagsozluk.com/ sen kimsin amk git e devletten borcunun ören bebe evet
-bkz götündeki dona kadar amerikan malı kullanan milletin yaptırımdan bahsetmesi
-https://satoshi-nakamoto.uludagsozluk.com/ bkz kendinin süper güç sanan ergen
+https://satoshi-nakamoto.uludagsozluk.com/ bkz kendinn süper güç sanan ergen
 https://www.youtube.com/watch?v=EfAsNffCjsM yaptırım ne kadar süper lan
-bkz havlayan fino köpeği ısırmaz
-bkz amerikanın fino köpeği törkiy
-bkz köyde köpek silen milletin akıl vermesi
-bkz genetik kopyalama yapabilen çinliye gel rakı içek köpek sikek demek
-bkz elinde iphone ile dedesi köyde eşşek siken milletin çini bitirmeye çalışması
-https://pilihozlu-haci-baron-bey.uludagsozluk.com/ bkz laz zxiyanın çini bitirin emri
 https://satoshi-nakamoto.uludagsozluk.com/ bkz satoshi nakamatonun çin fişini çekmesi
-bkz türkiyeni çini bitirme planları
-bkz yarasa yiyip ladyboy siken millet
-bkz çine atom bombası atılması gerekliliği
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
-bkz iphone x varken huwaei kullanan erkek
-bkz huawei xiomi kullanmıyoeruz kampanyası
-bkz çine yaptırım uygulanması khk tasarısı
-https://satoshi-nakamoto.uludagsozluk.com/ bkz jaopnların çin düşmanlığı
-https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg melekler seni bana yazmış
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
-bkz risale-i nur u bitirp b  daha okumak
-https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir dahi
-https://www.uludagsozluk.com/k/kasl%C4%B1-olmayan-erkeklerin-ya%C5%9Fama-sebebi/&w=bg 
-bkz melekler onları bana yazmış 
-https://www.youtube.com/watch?v=yPcQ3nAs2sQ melekler seni bana yazmış -->
+-->
 
 <!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
 -->
