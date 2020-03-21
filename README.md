@@ -8,6 +8,7 @@ bkz iphone x varken huwaei kullanan erkek
 bkz huawei xiomi kullanmıyoeruz kampanyası
 bkz çine yaptırım uygulanması khk tasarısı
 https://satoshi-nakamoto.uludagsozluk.com/ bkz jaopnların çin düşmanlığı
+https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg melekler seni bana yazmış
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg
 bkz risale-i nur u bitirp b  daha okumak
 https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir dahi
