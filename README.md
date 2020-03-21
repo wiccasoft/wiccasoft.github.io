@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz 21 mart 2020 halkın sevgi seline boğulması
 bkz ekranların sevilen siması
 bkz halkın sevgi seline boğulmak
 bkz 21 mart 2020 dürümcüleri herkesin çok sevmesi
