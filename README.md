@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz türklerin yaptırım uygulaması :))))))))))))
 bkz havlayan fino köpeği ısırmaz
 bkz amerikanın fino köpeği törkiy
 bkz köyde köpek silen milletin akıl vermesi
