@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir dahi
 https://www.uludagsozluk.com/k/kasl%C4%B1-olmayan-erkeklerin-ya%C5%9Fama-sebebi/&w=bg 
 bkz melekler onları bana yazmış 
 https://www.youtube.com/watch?v=yPcQ3nAs2sQ melekler seni bana yazmış -->
