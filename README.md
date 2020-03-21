@@ -5,7 +5,6 @@
 bkz elif can terimin ümreci19 + çıkması
 iyi korunun genşler şakası yok bunun
 bkz olmaya devlet cihanda bir nefes sıhhat gibi
-bkz tangır budun doğanın deli olduğu gerçeği
 https://sweetmandarine.uludagsozluk.com/ bu da tangır budun doğan fake i
 https://www.uludagsozluk.com/k/polise-t%C3%BCk%C3%BCren-umreci/&w=bg
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
