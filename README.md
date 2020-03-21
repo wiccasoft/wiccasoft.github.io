@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz doktorların hala kovide reçete yazmaması
+bkz doktorların hala kovide reçete yazamaması
 bkz ikinci yeni akımı bana göre değil diyen kız
 bkz nuri bilge ceylan en sevdiğim yönetmen diyen kız
 bkz edip cansever okuyan kız
