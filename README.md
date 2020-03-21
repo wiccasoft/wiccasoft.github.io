@@ -6,31 +6,7 @@
 <!--
 https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
 bkz sercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yapıştır reyiz diyor
-bkz deep türkish web te çini haritadan silen ergenler
-bkz azında amerikan yarrağı ile konuşan ergen
-bkz çıkar azındakini ne yaptırdığın anlaşılmıyor oç
-bkz elinde iphone götünde amerikan donu azında atacücü ile yaptırımdan bahseden çomar
-bkz kamalcıların eğitilmez çomarlar oldukları gerçeği
-bkz yarasa abi ben biloyum bizim köyde de biri yediydi aynısı oldu
-bkz yarasa yiyolar abi ondan oluyo bu virüs 
-bkz atacücünü her gece rakı içmesi
-bkz atacücünün rakı sofrasında kazım ı azarlaması
-bkz atacücünün ismetle olan münasebeti
-https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir deha
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz mokomato
-https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz abilerin yanında siyaset yapma
-bkz konuyu atacücüye bağlamak
-bkz dedesi köyde eşek siken milletin yaptırımdan bahsetmesi
-bkz genetik kopyalama yapabilen çinliye gel rakı içek köpek sikek demek
-https://satoshi-nakamoto.uludagsozluk.com/  bkz yaptırım reyiz
-https://satoshi-nakamoto.uludagsozluk.com/ bkz çini yaptırımla haritadan silen reyiz
-https://satoshi-nakamoto.uludagsozluk.com/  bkz ülkücü japon
-
-bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
-https://satoshi-nakamoto.uludagsozluk.com/ bkz kendinn süper güç sanan ergen
-https://www.youtube.com/watch?v=EfAsNffCjsM yaptırım ne kadar süper lan
-https://satoshi-nakamoto.uludagsozluk.com/ bkz satoshi nakamatonun çin fişini çekmesi
+https://satoshi-nakamoto.uludagsozluk.com/ bkz satoshi nakamatonun çinin fişini çekmesi
 -->
 
 <!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
