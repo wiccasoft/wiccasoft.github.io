@@ -5,7 +5,7 @@
 
 <!--
 https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
-bkz ercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yaptırım reyiz diyor
+bkz sercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yapıştır reyiz diyor
 bkz çomarlardaki özgüven
 bkz deep türkish web te çini haritadan silen ergenler
 bkz azında amerikan yarrağı ile konuşan ergen
