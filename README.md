@@ -5,6 +5,7 @@
 
 <!--
 bkz çomarlardaki anlaşılmayan özgüven
+bkz cehalet arttıkça çomarlardaki egonun da artması
 bkz dedesi köyde eşşek siken çomarın genetik kopyalama yapabilen çinliyi aşağılaması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
 bkz taksicilerin kısa mesafe açmaması
