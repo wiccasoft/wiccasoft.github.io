@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz yarasa abi ben biloyum bizim köyde de biri yediydi aynısı oldu
 bkz yarasa yiyolar abi ondan oluyo bu virüs 
 bkz atacücünü her gece rakı içmesi
 bkz atacücünün rakı sofrasında kazım ı azarlaması
