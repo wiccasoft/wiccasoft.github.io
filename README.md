@@ -5,7 +5,7 @@
 
 <!--
 
-bkz güneş toğla benim için
+bkz covid19 toğla benim için
 bkz batmandaki mantık hatası
 bkz atacücünün atacücücü olduğu gerçeği 
 bkz 1881 atacücü 81 vilayet - batman = 80 18 + 81 = 99 - 80 = covid 19
