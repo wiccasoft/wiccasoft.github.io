@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz gece 3 00 sa sıçılan bokun sigraa yakıp entry girmesi
 bkz gece 3 00 da sıçılan bokun sigara ateşlemesi
 bkz gece 3 00 da sıçılan bokun entry girmesi
 bkz oğuz tatak okuyup nuri bilge ceylan izleyen kız
