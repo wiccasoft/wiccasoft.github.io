@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz dedesi köyde eşek siken milletin akıl vermesi
+bkz dedesi köyde eşek siken çomarların deep webte yaptırım kelimesini kullanması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg 
 bkz çomarların kendini bi bok sanması
