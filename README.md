@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz abilerin yanında siyaset yapma
 bkz konuyu atacücüye bağlamak
 bkz dedesi köyde eşek siken milletin yaptırımdan bahsetmesi
 bkz genetik kopyalama yapabilen çinliye gel rakı içek köpek sikek demek
