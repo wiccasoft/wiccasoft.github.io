@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/kasl%C4%B1-olmayan-erkeklerin-ya%C5%9Fama-sebebi/&w=bg bkz ibnelik
 bkz yusuf güneyin melekler seni bana yazmış klbindeki hintli
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler sizi yusufa yazmış
 https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
