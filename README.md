@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz yusuf güneyin tarkan verdiği efso ayar
+bkz yusuf güneyin  saçlarına jöle sürmesi
 bkz serdar ortaçın burak özçivit e yakışıklı diyen bana demesin demesi
 bkz yusuf güneyin keskin bakışları vs burak özçivitin keskin bakışları
 bkz atacücünün saçlarını sarıya boyamış yusuf güney olduğu gerçeği
