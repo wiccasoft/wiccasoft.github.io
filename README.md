@@ -11,16 +11,7 @@ bkz rte 65 yaşında arkadaşları onunla taşşak geçiy
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
 bkz tangır budun doğanın twitterdaki ergenlerin esprilerini çalması
 https://www.uludagsozluk.com/e/43032217/ bkz tangır budun doğan arkadaşlarıyla
-https://www.uludagsozluk.com/e/43032775/ bkz rte
 https://www.uludagsozluk.com/k/ilahla%C5%9Ft%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1z-adam%C4%B1n-bi-kezoya-tav-olmas%C4%B1/&w=bg 
-bkz 21 mart 2020  recep tayyip erdoğanın sigarayı azaltması
-https://www.pinterest.com/wiccasoft/pins/ bkz rte nin cumhurbaşkanlığının düşmesi
-bkz utandmadan iibf bitirdim demek
-bkz iibf diplomasını duvara asan kişi
-bkz iibf diplomasını gösteremeyen malum kişi
-https://www.uludagsozluk.com/e/43032217/ bkz rte iibf arkadaşlarıyla
-https://tengir-budun.uludagsozluk.com bkz rte ye soktuğu süper üniversiteden arkadaşlarıyla  esprisi
-https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/ bkz diploma nerde recep 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-m%C3%BCthi%C5%9F-espri/
 https://www.uludagsozluk.com/k/adam-coronal%C4%B1-%C3%A7%C4%B1kt%C4%B1-r%C4%B1za-baba/
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-coronaya-yakaland%C4%B1/
