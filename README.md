@@ -4,12 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz çomarlardaki anlaşılmayan ego ve özgüven 
-bkz dedesi köyde eşşek siken çomarın genetik kopyalama yapabilen çinliyi aşağılaması
-https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
-bkz taksicilerin kısa mesafe açmaması
-https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz hayallerde yaşıyor bazı çomarlar
-https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ bkz  hayallerde yaşıyor bazı çomarlar
+https://www.uludagsozluk.com/e/43028598/ bkz sen kimsin amk ya
 https://www.uludagsozluk.com/e/43028790/ zuahhahaha
 -->
 
