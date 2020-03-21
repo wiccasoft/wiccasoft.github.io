@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ümrecilere entry girerken dürümcülere girmemek
 bkz dürümcülerin kovide reçete yazması
 bkz ümreciler kovidciler arasındaki gerilim
 bkz ümrecilerin taksicileri protesto etmesi
