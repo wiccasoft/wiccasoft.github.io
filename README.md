@@ -15,7 +15,6 @@ https://www.uludagsozluk.com/e/43029112/ lol
 https://books.google.com/books?id=KYLSMsduNqcC&pg=PA158&lpg=PA158&dq=hydra+vernal+equinox&source=bl&ots=Mfbos7xsxF&sig=ACfU3U1v2s6DIiudv38vnLpIjgR8HnfIiA&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwC3oECAsQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false
 -->
 
-
 [![Image](waste/Screenshot_2020-03-18_23-22-31.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
