@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz filozof atakanın oğuz atay okuması
 bkz camus okuyup elinde sigarayla uzaklara bakan kız
 bkz cemal süreyya okuyan kız
 bkz oğuz atay okuyan bıyıklı sigara kokan kız
