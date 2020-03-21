@@ -3,8 +3,8 @@
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!--
-bkz 21 mart 2020 dürümcülerin hala kendilerin bi bok sanmaları
+<!--bkz dedesi köyde eşek siken 80 iq lu çomarların akıl vermesi
+bkz 21 mart 2020 dürümcülerin hala kendilerini bi bok sanmaları
 bkz 21 mart 2020 dürümcüleri kimsenin siklememesi
 bkz enver ayseverin yobazlara yaptığı kapak
 bkz kamalcıların eğitilmez olduğu gerçeği
