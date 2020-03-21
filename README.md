@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz götündeki dona kadar amerikan malı kullanan köpek soyunun yaptırımdan bahsetmesi
 https://satoshi-nakamoto.uludagsozluk.com/ bkz kendinin süper güç sanan ergen
 https://www.youtube.com/watch?v=EfAsNffCjsM yaptırım ne kadar süper lan
 bkz havlayan fino köpeği ısırmaz
