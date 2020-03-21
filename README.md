@@ -5,7 +5,6 @@
 https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki komik te deilsin
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
-https://tengir-budun.uludagsozluk.com bkz dayı sen ne kafası yaşıyosun ya hakkat 
 bkz tangır budun doğan deli mi sorunsalı
 bkz rte 65 yaşında arkadaşları onunla taşşak geçiy
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
