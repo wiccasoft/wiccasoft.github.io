@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://satoshi-nakamoto.uludagsozluk.com/  bkz bir gece ansızın pekin
 bkz konuyu atacücüye bağlamak
 bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
