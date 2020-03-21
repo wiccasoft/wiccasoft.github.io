@@ -5,6 +5,7 @@
 
 <!--
 bkz adam gibi adam giyince akla gelen ilk adam
+bkz burak özçivitin yusuf güneyden yakışıklı olduğu gerçeği
 https://www.uludagsozluk.com/k/can-s%C4%B1k%C4%B1nt%C4%B1s%C4%B1-%C3%A7ekmek/ beddüzaman entry gir kankağ
 https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/&w=bg bkz zamanın ötesinde bir deha
 bkz eski sevdiceğin tokmakçısın adını unutup arayıp sormak
