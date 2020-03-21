@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+https://www.uludagsozluk.com/k/ilker-g%C3%BCm%C3%BC%C5%9Foluk/&w=bg bkz çok tatlı tanısanız
 bkz allahın kabeyi kiraya vermesi
 https://www.uludagsozluk.com/k/leon/&w=bg bkz leon daki pedofili
 bkz allah adam mıdır sorunsalı
