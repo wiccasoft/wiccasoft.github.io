@@ -4,7 +4,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://satoshi-nakamoto.uludagsozluk.com/  bkz yaptırım reyiz
+https://satoshi-nakamoto.uludagsozluk.com/  
+bkz ercan 15 yaşında hentai izliyor arkadaşları ona yaptırım reyiz diyor
 bkz çomarlardaki özgüven
 bkz deep türkish web te çini haritadan silen ergenler
 bkz azında amerikan yarrağı ile konuşan ergen
