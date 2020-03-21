@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz atacününün kazım karabekire çin sarayını kaç saatte alırız demesi
 bkz türklerin çine yaptırım uygulayıp haritadan silme planlar
 bkz atacücünün ismet inöcü gölgesinde kalması
 bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
