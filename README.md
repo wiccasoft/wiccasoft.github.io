@@ -10,21 +10,8 @@ bkz taksicilerin emrahı kısa mesafe götürmemesi
 bkz emrahın taksicileri protesto etmesi
 bkz dürümcülerin ümrecilerle küsmesi
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
-bkz taksicilerin dürümcülere kısa mesafe açmaması
 bkz ümreciler kovidciler dürümcüler şeytan üçgen
-bkz ümreciler kovidciler arasındaki gerilim
-bkz ümrecilerin taksicileri protesto etmesi
-bkz dünyanın en iyi biyoloğunun yaptığı virüsü doktorla korkutmak
-bkz doktorların hala kovide reçete yazamaması
-bkz ikinci yeni akımı bana göre değil diyen kız
-bkz nuri bilge ceylan en sevdiğim yönetmen diyen kız
-bkz edip cansever okuyan kız
-bkz doktorcuların kovide reçete yazmaması
-bkz ümrecilerin taksicileri protesto etmesi
-bkz ümrecilerin kovidcilere saldırması
-bkz emrahın taksicileri protesto etmesi
 https://www.uludagsozluk.com/k/ele%C5%9Ftirel-teori/&w=bg 
-bkz dürümcüsözlükün taksi sarısına boyanması
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=gd
 https://www.uludagsozluk.com/k/taksicilerin-korona-y%C3%BCz%C3%BCnden-eylem-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
