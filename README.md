@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz yusuf güney vs burak özçivit
 bkz yusuf güneyin murat bozdan yakışıklı olduğu gerçeği
 bkz yusuf güneyin melekler seni bana yazmışı serdar ortaçtan çalması
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış
