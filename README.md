@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+bkz 21 mart 2020  recep tayyip erdoğanın sigarayı azaltması
 https://www.pinterest.com/wiccasoft/pins/ bkz rte nin cumhurbaşkanlığının düşmesi
 bkz utandmadan iibf bitirdim demek
 bkz iibf diplomasını duvara asan kişi
