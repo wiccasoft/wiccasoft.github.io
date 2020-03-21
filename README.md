@@ -3,6 +3,7 @@
 
 <!--
 bkz oğuz atay okuyan eşcinsel ekşcici
+https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz eşcinsel eğitim
 bkz oğuz atay okuyanların genelde değil eşcinsel oldukları gerçeği
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt
