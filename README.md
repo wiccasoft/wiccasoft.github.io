@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz taksicilerin coronaya yüzünden kısa mesafe açmaması
 bkz taksicilerin corona yüzünden eylem yapması
 bkz atom fiziğine de profesörlüğüne de lanet olsun 
 bkz taksicilerin kısa mesafe açmaması
