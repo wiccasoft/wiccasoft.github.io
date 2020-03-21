@@ -8,34 +8,8 @@ bkz çomarlardaki anlaşılmayan özgüven
 bkz çomarlardaki özgüven kaynağı ney sorunsalı
 bkz dedesi köyde eşek siken çomarların deep webte kendini imparator sanması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg 
-bkz çomarların kendini bi bok sanması
-https://www.uludagsozluk.com/e/43028598/ bkz hayllerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ hayallerde yaşıyor bazı ibneler
-bkz oğzu atayı annenin amına sokar çıkartırım diyen kız
-bkz oğuz atayın annesini götten sikeyim diyen kız
-bkz oğuz atayın annesinin amcığına koyayım deiyen kız
-bkz oğuz atayın anasının amına koyayım diyen kız
-bkz yine seks hikayesi mi yazıyosun feridun abiiiiiiii
-bkz oğuz atay nuri bilge ceylan çok severim diyen kız
-bkz risalei nur okuyan taksici
-bkz taksicilerin yakın mesafe yüzünden corona yapması
-bkz risalei nur okuyan kız
-bkz filozof atakanın oğuz atay okuyup felsefe yapması
-bkz camus okuyup elinde sigarayla uzaklara bakan kız
-bkz cemal süreyya okuyan kız
-bkz oğuz atay okuyan bıyıklı sigara kokan kız
-bkz taksicilerin eylemi 7 nisana kadar sürdürecez demesi
-bkz küçük emrahın taksicileri protesto etmesi
-bkz taksicilerin coronaya yüzünden kısa mesafe açmaması
-bkz taksicilerin corona yüzünden eylem yapması
 bkz taksicilerin kısa mesafe açmaması
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz hayallerde yaşıyor bazı çomarlar
-bkz dürümcülerin güneşi kendi etraflarında döndüğünü sanması
-bkz dürümcülerin taksiciler yüzünden eylem yapması
-bkz emrahın taksicileri protesto etmesi
-bkz dürümcülerin taksicilerle ne sorunu var sorunsalı
-bkz dürümcüsözlük ün taksi sarısına boyanması
 https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/e/43028790/ zuahhahaha
 -->
