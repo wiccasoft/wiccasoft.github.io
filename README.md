@@ -5,7 +5,8 @@
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/iphone-11-alamayan-y%C4%B1k%C4%B1k/&w=bg lol
 bkz hastalıkla dalga geçen ergenler görüşürüz
 https://www.uludagsozluk.com/e/43031742/ lol
 https://www.uludagsozluk.com/e/43029112/ lol
