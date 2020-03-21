@@ -3,7 +3,6 @@
 
 <!-- 
 https://tengir-budun.uludagsozluk.com dayı sen ne kafası yaşıyosun ya mersinli cihangir sen misin lan yoksa
-bkz tangır budun doğanın takıntılı bir saykoyu andırması
 bkz tangır budun doğan deli mi sorunsalı
 bkz tangır budun doğan tayyip erdoğan benzerlikleri
 https://www.uludagsozluk.com/e/43032217/ bkz rte iibfden arkadaşlarıyla
