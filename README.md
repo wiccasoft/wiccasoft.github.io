@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+https://www.uludagsozluk.com/k/vedat-u%C5%9Fakl%C4%B1gil/&w=bg bkz eşcinsel paratoneri
 bkz oğuz atay okuyan eşcinsel ekşici
 https://www.uludagsozluk.com/k/o%C4%9Fuz-atay-okuyan-k%C4%B1z/ hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz eşcinsel eğitim
