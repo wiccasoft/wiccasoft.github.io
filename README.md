@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz yusuf güneyin keskin bakışları vs burak özçivitin keskin bakışları
 bkz atacücünün saçlarını sarıya boyamış yusuf güney olduğu gerçeği
 bkz küçük emrahın saçlarını taksici sarısına boyaması
 bkz yusuf güney vs burak özçivit
