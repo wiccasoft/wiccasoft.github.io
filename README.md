@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz oğuz atayın annesini götten sikeyim diyen kız
 bkz oğuz atayın annesinin amcığına koyayım deiyen kız
 bkz oğuz atayın anasının amına koyayım diyen kız
 bkz yine seks hikayesi mi yazıyosun feridun abiiiiiiii
