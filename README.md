@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg
-bkz tangır budun doğanın twiter ve ekşci ergenlerini esprilerini çalması
+bkz tangır budun doğanın twiter ve ekşici ergenlerin esprilerini çalması
 https://www.uludagsozluk.com/e/43032217/ bkz tangır budun doğan arkadaşlarıyla
 https://www.uludagsozluk.com/e/43032775/ bkz rte
 https://www.uludagsozluk.com/k/ilahla%C5%9Ft%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1z-adam%C4%B1n-bi-kezoya-tav-olmas%C4%B1/&w=bg 
