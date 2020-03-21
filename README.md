@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz dürümcüsözlükün taksi sarısına boyanması
+https://www.uludagsozluk.com/k/taksicilerin-korona-y%C3%BCz%C3%BCnden-eylem-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
 https://www.uludagsozluk.com/e/43028790/ zuahhahaha
 -->
