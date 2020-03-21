@@ -5,7 +5,7 @@
 
 <!--
 bkz risalei nur okuyan kız
-bkz filozof atakanın oğuz atay okuması
+bkz filozof atakanın oğuz atay okuyup felsefe yapması
 bkz camus okuyup elinde sigarayla uzaklara bakan kız
 bkz cemal süreyya okuyan kız
 bkz oğuz atay okuyan bıyıklı sigara kokan kız
