@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
-https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk
+https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
 bkz tangır budun doğanın twiter ve ekşici ergenlerin esprilerini çalması
 https://www.uludagsozluk.com/e/43032217/ bkz tangır budun doğan arkadaşlarıyla
 https://www.uludagsozluk.com/e/43032775/ bkz rte
