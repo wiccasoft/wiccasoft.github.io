@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+bkz tangır budun doğanın deli olduğu gerçeği
 https://sweetmandarine.uludagsozluk.com/ bu da tangır budun doğan fake i
 https://www.uludagsozluk.com/k/polise-t%C3%BCk%C3%BCren-umreci/&w=bg
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
