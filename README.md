@@ -5,8 +5,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/43028790/ zuahhahahaha
-bkz sadece şeyma okuyna kız
-bkz oğuz atay okumayan patlak kız
+bkz sadece şeyma okuyan kız
 bkz cana karatayın virüse karşı lahmacun yiyin önerisi
 bkz enver ayseverin yobazlara yaptığı kapak
 bkz zülfü livaneli vs macun kaplıcalı
