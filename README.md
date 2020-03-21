@@ -5,6 +5,7 @@
 
 <!--
 bkz konuyu atacücüye bağlamak
+bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
 bkz ülkücülerin amerika dışında bütün ülkelere düşman olması
 bkz türklerin çine yaptırım uygulayıp çini haritadan silmesi
