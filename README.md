@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz riseli nur okuyan taksici
+bkz risalei nur okuyan taksici
 bkz taksicilerin yakın mesafe yüzünden corona yapması
 bkz risalei nur okuyan kız
 bkz filozof atakanın oğuz atay okuyup felsefe yapması
