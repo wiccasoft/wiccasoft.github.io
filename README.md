@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki 
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
 https://tengir-budun.uludagsozluk.com bkz dayı sen ne kafası yaşıyosun ya hakkat 
