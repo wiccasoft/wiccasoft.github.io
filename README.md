@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://www.uludagsozluk.com/e/43028598/ bkz sen kimsin amk ya
+https://www.uludagsozluk.com/e/43028598/ bkz sen kimsin amk çomarı ya
 https://www.uludagsozluk.com/e/43028790/ zuahhahaha
 -->
 
