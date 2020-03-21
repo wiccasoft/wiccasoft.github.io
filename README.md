@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz serdar ortaçın orta asyanın asıl sahibi biziz demesi
 bkz burak özçivitin çekik gözlerim çinden miraz demesi
 bkz burak özçivitin asker pozuyla attığı bakış
 bkz yusuf güney mi daha yakışıklı murat boz mu sorunsalı
