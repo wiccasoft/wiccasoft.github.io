@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz karabekir
 https://satoshi-nakamoto.uludagsozluk.com/ sen kimsin amk git e devletten borcunun ören bebe evet
 bkz götündeki dona kadar amerikan malı kullanan milletin yaptırımdan bahsetmesi
 https://satoshi-nakamoto.uludagsozluk.com/ bkz kendinin süper güç sanan ergen
