@@ -4,7 +4,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz dep türkish web te çini haritadan silen ergenler
+bkz çomarlardaki özgüven
+bkz deep türkish web te çini haritadan silen ergenler
 bkz azında amerikan yarrağı ile konuşan ergen
 bkz çıkar azındakini ne yaptırdığın anlaşılmıyor oç
 bkz elinde iphone götünde amerikan donu azında atacücü ile yaptırımdan bahseden çomar
