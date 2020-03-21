@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz dedesi köyde eşek siken milletin yaptırımdan bahsetmesi
 https://satoshi-nakamoto.uludagsozluk.com/  bkz yaptırım reyiz
 https://satoshi-nakamoto.uludagsozluk.com/ bkz çini yaptırımla haritadan silen reyiz
 https://satoshi-nakamoto.uludagsozluk.com/  bkz ülkücü japon
