@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+bkz iibf diplomasını duvara asan kişi
 bkz iibf diplomasını gösteremeyen malum kişi
 https://www.uludagsozluk.com/e/43032217/ bkz rte iibf arkadaşlarıyla
 https://tengir-budun.uludagsozluk.com bkz rte ye soktuğu süper üniversiteden arkadaşlarıyla  esprisi
