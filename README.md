@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz atacücün her gece rakı içmesi
 bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
 bkz atacücünün covid19 a karşı kudret cüclerin damarlarındaki asil kanda mevcuttur demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
