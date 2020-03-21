@@ -3,7 +3,7 @@
 
 <!--
 bkz oğuz atay okuyan eşcinsel ekşcici
-bkz oğuz atay okuyanların eşcinsel oldukları gerçeği
+bkz oğuz atay okuyanların genelde değil eşcinsel oldukları gerçeği
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt
 https://www.uludagsozluk.com/k/ilker-g%C3%BCm%C3%BC%C5%9Foluk/&w=bg bkz çok tatlı tanısanız
 bkz allahın kabeyi kiraya vermesi
