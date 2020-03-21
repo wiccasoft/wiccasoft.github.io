@@ -5,6 +5,7 @@
 
 <!--
 bkz dedesi köyde eşek siken milletin yaptırımdan bahsetmesi
+bkz genetik kopyalama yapacilen çinliye gel rakı içek köpek sikek demek
 https://satoshi-nakamoto.uludagsozluk.com/  bkz yaptırım reyiz
 https://satoshi-nakamoto.uludagsozluk.com/ bkz çini yaptırımla haritadan silen reyiz
 https://satoshi-nakamoto.uludagsozluk.com/  bkz ülkücü japon
