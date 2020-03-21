@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://satoshi-nakamoto.uludagsozluk.com/  
+https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
 bkz ercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yaptırım reyiz diyor
 bkz çomarlardaki özgüven
 bkz deep türkish web te çini haritadan silen ergenler
