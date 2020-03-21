@@ -5,7 +5,7 @@
 
 <!--
 bkz ikinci yeni akımı bana göre değil diyen kız
-bkz nuri bilge ceylan en sevdiğim yönetme diyen kız
+bkz nuri bilge ceylan en sevdiğim yönetmen diyen kız
 bkz edip cansever okuyan kız
 bkz doktorcuların kovide reçete yazmaması
 bkz ümrecilerin taksicileri protesto etmesi
