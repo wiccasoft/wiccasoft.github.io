@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz çıkar azındakini ne dediğin anlaşılmıyor oç
+bkz çıkar azındakini ne yaptırdığın anlaşılmıyor oç
 bkz elinde iphone götünde amerikan donu azında atacücü ile yaptırımdan bahseden çomar
 bkz kamalcıların eğitilmez çomarlar oldukları gerçeği
 bkz yarasa abi ben biloyum bizim köyde de biri yediydi aynısı oldu
