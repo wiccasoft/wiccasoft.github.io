@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz taksicilerin emrahı kısa mesafe götürmemesi
 bkz emrahın taksicileri protesto etmesi
 bkz dürümcülerin ümrecilerle küsmesi
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
