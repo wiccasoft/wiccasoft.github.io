@@ -3,54 +3,10 @@
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!--
-bkz yazdığım yapay zekanın tangır budun doğandan daha zeki olması
-https://www.uludagsozluk.com/k/ortalama-85-iq-ve-eq-ile-ya%C5%9Famak/ bkz tangır budun doğan
-https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz satoshi-nakamoto sen misin
-https://satoshi-nakamoto.uludagsozluk.com/ bkz çomar özgüveni
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=bg bkz özgüven nedir
-https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin protestoya devam etmesi
-bkz emrahın hey hey taksi şarkısı
-bkz risalei nur okuyan kız
-https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/ bkz zamanın ötesinde bir dahi 
-https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz ayarın kralı
-bkz 21 mart 2020 halkın sevgi seline boğulması
-bkz ekranların sevilen siması
-bkz halkın sevgi seline boğulmak
-bkz 21 mart 2020 dürümcüleri herkesin çok sevmesi
-bkz enver ayseverin yobazlara yaptığı kapak
-bkz kamalcıların eğitilmez olduğu gerçeği
-https://www.uludagsozluk.com/e/43028790/ zuahhahahaha
-bkz sadece şeyma okuyan kız
-bkz cana karatayın virüse karşı lahmacun yiyin önerisi
-bkz zülfü livaneli vs macun kaplıcalı
-bkz atacücünün osurduğu yalanı
-bkz atacüc fasulye yer osururdu yalanı
-bkz yobaz virüse rakı atıp kaçmak
-https://www.uludagsozluk.com/e/43028769/ bkz atacücün sofra arkadaşları
-bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
-bkz atacücünün covid19 a karşı kudret cüclerin damarlarındaki asil kanda mevcuttur demesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sofra-arkada%C5%9Flar%C4%B1/ bkz kazım
-bkz zülfü livanelinin coronaya reçete yazması
-https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli-vs-%C5%9Feyma-suba%C5%9F%C4%B1/
-bkz dürümcülerin ümrecileri protesto etmesi
-bkz taksicilerin ümrecileri protesto etmesi
-bkz taksicilerin emrahı kısa mesafe götürmemesi
-bkz emrahın taksicileri protesto etmesi
-bkz dürümcülerin ümrecilerle küsmesi
-https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
-bkz ümreciler kovidciler dürümcüler şeytan üçgen
-https://www.uludagsozluk.com/k/ele%C5%9Ftirel-teori/&w=bg 
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=gd
-https://www.uludagsozluk.com/k/taksicilerin-korona-y%C3%BCz%C3%BCnden-eylem-yapmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
-https://www.uludagsozluk.com/e/43028790/ zuahhahaha
--->
-
-<!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
+<!-- https://books.google.com/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
 -->
 <!--
-https://books.google.com.tr/books?id=KYLSMsduNqcC&pg=PA158&lpg=PA158&dq=hydra+vernal+equinox&source=bl&ots=Mfbos7xsxF&sig=ACfU3U1v2s6DIiudv38vnLpIjgR8HnfIiA&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwC3oECAsQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false
+https://books.google.com/books?id=KYLSMsduNqcC&pg=PA158&lpg=PA158&dq=hydra+vernal+equinox&source=bl&ots=Mfbos7xsxF&sig=ACfU3U1v2s6DIiudv38vnLpIjgR8HnfIiA&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwC3oECAsQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false
 -->
 
 
