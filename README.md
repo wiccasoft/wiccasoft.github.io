@@ -5,27 +5,6 @@
 
 <!--
 https://www.uludagsozluk.com/e/43028790/ zuahhahahaha
-https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz atatürkçü chen
-bkz adam gibi adam giyince akla gelen ilk adam
-bkz burak özçivitin yusuf güneyden yakışıklı olduğu gerçeği
-https://www.uludagsozluk.com/k/can-s%C4%B1k%C4%B1nt%C4%B1s%C4%B1-%C3%A7ekmek/ beddüzaman entry gir kankağ
-https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/&w=bg bkz zamanın ötesinde bir deha
-bkz eski sevdiceğin tokmakçısın adını unutup arayıp sormak
-bkz eski sevdiceğin tokmakçısının adını oğlana koymak
-https://www.google.com.tr/search?q=yusuf+güney offffff offfff bu ne yav
-https://www.google.com.tr/search?q=yusuf+güney&oq=yusuf+güney
-bkz serdar ortaçın burak özçivit e yakışıklı diyen bana demesin demesi
-bkz yusuf güneyin keskin bakışları vs burak özçivitin keskin bakışları
-bkz atacücünün saçlarını sarıya boyamış yusuf güney olduğu gerçeği
-bkz küçük emrahın saçlarını taksici sarısına boyaması
-bkz yusuf güney vs burak özçivit
-bkz yusuf güneyin murat bozdan yakışıklı olduğu gerçeği
-bkz yusuf güneyin melekler seni bana yazmışı serdar ortaçtan çalması
-https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış
-https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg bkz melekler seni bana yazmış
-https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
-bkz sercan 15 yaşında hentai izliyor japon hayranı ülkücü arkadaşları ona yapıştır reyiz diyor
-https://satoshi-nakamoto.uludagsozluk.com/ bkz satoshi nakamatonun çinin fişini çekmesi
 -->
 
 <!-- https://books.google.com.tr/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
