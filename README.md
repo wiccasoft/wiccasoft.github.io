@@ -5,7 +5,7 @@
 bkz allahın kabeyi kiraya vermesi
 https://www.uludagsozluk.com/k/allah-%C4%B1n-kabe-yi-koruyamad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/ilker-g%C3%BCm%C3%BC%C5%9Foluk/&w=bg bkz tanısanız siz de seversiniz
-bkz ikinci yeniclerin kendilerini entel sanması
+bkz ikinci yenicilerin kendilerini entel sanması
 https://www.uludagsozluk.com/k/ger%C3%A7ekten-seven-insan/&w=bg bkz ismail türüt oğzu tatak
 bkz gece 3 00 da izmirli bilim adamlarının araması
 bkz gece 3 00 da sıçılan bokun sigara ateşleyip entry girmesi
