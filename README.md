@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://satoshi-nakamoto.uludagsozluk.com/  bkz aman abi amerikaya yaotırım uygulama abi
+https://satoshi-nakamoto.uludagsozluk.com/  bkz yaptırım reyiz
 https://satoshi-nakamoto.uludagsozluk.com/ bkz çini yaptırımla haritadan silen reyiz
 https://satoshi-nakamoto.uludagsozluk.com/  bkz ülkücü japon
 https://satoshi-nakamoto.uludagsozluk.com/  bkz bir gece ansızın pekin
