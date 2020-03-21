@@ -3,6 +3,7 @@
 
 <!-- 
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+https://www.uludagsozluk.com/k/koronavir%C3%BCse-yakalanan-k%C4%B1z%C4%B1n-dram%C4%B1/
 https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki komik te deilsin
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
