@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz burak özçivitin asker pozuyla attığı bakış
 bkz yusuf güney mi daha yakışıklı murat boz mu sorunsalı
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış
 https://satoshi-nakamoto.uludagsozluk.com/  bkz geniş ailedeki gereksiz ulvi
