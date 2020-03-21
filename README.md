@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_16-35-53.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 <!--
+bkz oğoz tatak okuyup nuri bilge ceylan izleyen kız
 bkz nuri bilge ceylanla aynı eve çıkıp aynı tuvalete bok yapmak
 bkz gece gece oğuz tatakın gelmesi
 bkz gece 3.00 da yapılan bok
