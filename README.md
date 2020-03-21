@@ -5,6 +5,7 @@
 
 <!--
 bkz dürümcüsözlükün taksi sarısına boyanması
+https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/&w=gd
 https://www.uludagsozluk.com/k/taksicilerin-korona-y%C3%BCz%C3%BCnden-eylem-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
 https://www.uludagsozluk.com/e/43028790/ zuahhahaha
