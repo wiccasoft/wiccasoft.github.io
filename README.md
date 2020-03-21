@@ -5,8 +5,6 @@
 
 <!--
 bkz çomarlardaki anlaşılmayan özgüven
-bkz çomarlardaki özgüven kaynağı ney sorunsalı
-bkz dedesi köyde eşek siken çomarların deep webte kendini imparator sanması
 https://satoshi-nakamoto.uludagsozluk.com/ bkz sercan 15 yaşında arkadaşları ona yapıştır sercan diyor
 bkz taksicilerin kısa mesafe açmaması
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz hayallerde yaşıyor bazı çomarlar
