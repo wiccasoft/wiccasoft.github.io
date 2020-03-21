@@ -5,6 +5,7 @@
 
 <!--
 bkz havlayan fino köpeği ısırmaz
+bkz amerikanın fino köpeği törkiy
 bkz köyde köpek silen milletin akıl vermesi
 bkz genetik kopyalama yapabilen çinliye gel rakı içek köpek sikek demek
 bkz elinde iphone ile dedesi köyde eşşek siken milletin çini bitirmeye çalışması
