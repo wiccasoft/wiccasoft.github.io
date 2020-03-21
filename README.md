@@ -5,8 +5,6 @@
 
 <!--
 bkz dürümcülerin ümrecilerle küsmesi
-bkz ümrecilerin dürümcüleri kısa mesafe götürmemesi
-bkz dürümcüsözlükün taksi sarısına boyanması
 https://www.uludagsozluk.com/e/43028598/ bkz taksicilerin eylem yapması
 bkz taksicilerin dürümcülere kısa mesafe açmaması
 bkz ümreciler kovidciler dürümcüler şeytan üçgen
