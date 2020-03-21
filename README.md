@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz taksicilerin kısa mesafe açmaması
 https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz hayallerde yaşıyor bazı çomarlar
 bkz dürümcülerin güneşi kendi etraflarında döndüğünü sanması
 bkz dürümcülerin taksiciler yüzünden eylem yapması
