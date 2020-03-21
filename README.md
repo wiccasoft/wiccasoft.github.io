@@ -6,6 +6,7 @@
 <!--
 bkz atacücünün osurduğu yalanı
 bkz atacüc fasulye yer osururdu yalanı
+bkz yobaz virüse rakı atıp kaçmak
 https://www.uludagsozluk.com/e/43028769/ bkz atacücün sofra arkadaşları
 bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid 19
 bkz atacücünün covid19 a karşı kudret cüclerin damarlarındaki asil kanda mevcuttur demesi
