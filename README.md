@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!-- 
+https://www.uludagsozluk.com/k/polise-t%C3%BCk%C3%BCren-umreci/&w=bg
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 https://www.uludagsozluk.com/k/koronavir%C3%BCse-yakalanan-k%C4%B1z%C4%B1n-dram%C4%B1/
 https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki komik te deilsin
