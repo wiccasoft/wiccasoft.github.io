@@ -4,7 +4,7 @@
 <!-- 
 bkz iibf diplomasını gösteremeyen malum kişi
 https://www.uludagsozluk.com/e/43032217/ bkz rte iibf arkadaşlarıyla
-https://tengir-budun.uludagsozluk.com bkz rte ye soktuğu süper espri
+https://tengir-budun.uludagsozluk.com bkz rte ye soktuğu süper üniversiteden arkadaşlarıyla  esprisi
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/ bkz diploma nerde recep 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-m%C3%BCthi%C5%9F-espri/
 https://www.uludagsozluk.com/k/adam-coronal%C4%B1-%C3%A7%C4%B1kt%C4%B1-r%C4%B1za-baba/
