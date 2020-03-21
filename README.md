@@ -3,7 +3,7 @@
 
 <!--
 bkz gece 3 00 da izmirli bilim adamlarının araması
-bkz gece 3 00 sa sıçılan bokun sigara ateşleyip entry girmesi
+bkz gece 3 00 da sıçılan bokun sigara ateşleyip entry girmesi
 bkz gece 3 00 da sıçılan bokun sigara ateşlemesi
 bkz gece 3 00 da sıçılan bokun entry girmesi
 bkz oğuz tatak okuyup nuri bilge ceylan izleyen kız
