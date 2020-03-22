@@ -7,6 +7,7 @@
 
 <!--
 bkz aile şerefindeki piç oktay
+bkz diplomayı duvara asmak
 https://www.youtube.com/watch?v=dGOpxUqnOI8
 bkz kızlar bıyıklı seviyor diye bıyık bırakmaya karar vermem
 bkz kızların bıyıksız erkek yerine bıyıklı erkek terchi
