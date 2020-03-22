@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=dGOpxUqnOI8
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
 bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
 bkz abdulhamdi nin istanbulu terk etme planları yapması
-bkz rte ikinci atacüc ise üçüncü rte kim sorunsalı
+bkz rte ikinci atacüc ise ikinci rte kim sorunsalı
 bkz 1881 atacüc 18+81 =99 - 81 vilayet - batman  = covid19
 bkz elif can terimin ümreci19 + çıkması
 iyi korunun genşler şakası yok bunun
