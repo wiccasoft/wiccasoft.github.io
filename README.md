@@ -3,12 +3,12 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=dGOpxUqnOI8 )
 
 <!--
-bkz rte nin ikinci atacüc ise 3. rte kim sorunsalı
 bkz aile şerefindeki piç rte
 bkz diplomayı duvara asmak 97'
 https://www.youtube.com/watch?v=dGOpxUqnOI8
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
 bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
+bkz rte ikinci atacüc ise 3. rte kim sorunsalı
 bkz 1881 atacüc 18+81 =99 - 81 vilayet - batman  = covid19
 bkz elif can terimin ümreci19 + çıkması
 iyi korunun genşler şakası yok bunun
