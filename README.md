@@ -1,41 +1,7 @@
 
-
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=dGOpxUqnOI8 )
 
-<!--
-bkz aile şerefindeki piç rte
-bkz diplomayı duvara asmak 97'
-https://www.youtube.com/watch?v=dGOpxUqnOI8
-bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
-bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
-bkz abdulhamdi nin istanbulu terk etme planları yapması
-bkz rte ikinci atacüc ise ikinci rte kim sorunsalı
-bkz 1881 atacüc 18+81 =99 - 81 vilayet - batman  = covid19
-bkz elif can terimin ümreci19 + çıkması
-iyi korunun genşler şakası yok bunun
-bkz olmaya devlet cihanda bir nefes sıhhat gibi
-bkz tangır budun doğanın liseden arkadaşlarıyla fotoğrafı
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
-https://sweetmandarine.uludagsozluk.com/ bu da tangır budun doğan fake i
-https://www.uludagsozluk.com/k/polise-t%C3%BCk%C3%BCren-umreci/&w=bg
-https://www.uludagsozluk.com/k/koronavir%C3%BCse-yakalanan-k%C4%B1z%C4%B1n-dram%C4%B1/
-https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki komik te deilsin
-https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
-https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
-bkz tangır budun doğan deli mi sorunsalı
-bkz rte 65 yaşında arkadaşları onunla taşşak geçiy
-https://www.uludagsozluk.com/k/tengir-budun/&w=bg ağır gerizekalı amk mersinli cihangir bundan daha zeki 
-bkz tangır budun doğanın twitterdaki ergenlerin esprilerini çalması
-https://www.uludagsozluk.com/e/43032217/ bkz tangır budun doğan arkadaşlarıyla
-https://www.uludagsozluk.com/k/ilahla%C5%9Ft%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1z-adam%C4%B1n-bi-kezoya-tav-olmas%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-m%C3%BCthi%C5%9F-espri/
-https://www.uludagsozluk.com/k/adam-coronal%C4%B1-%C3%A7%C4%B1kt%C4%B1-r%C4%B1za-baba/
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-coronaya-yakaland%C4%B1/
-https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyinin-corona-testi-pozitif-%C3%A7%C4%B1kt%C4%B1/ -->
-
-
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
-
 
 [![Image](waste/Screenshot_2020-03-18_17-41-48.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
