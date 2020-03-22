@@ -11,10 +11,10 @@ bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
 bkz elif can terimin ümreci19 + çıkması
 iyi korunun genşler şakası yok bunun
 bkz olmaya devlet cihanda bir nefes sıhhat gibi
-bkz tangır budun doğanın liseden arkadaşlarla fotoğrafı
+bkz tangır budun doğanın liseden arkadaşlarıyla fotoğrafı
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 https://sweetmandarine.uludagsozluk.com/ bu da tangır budun doğan fake i
 https://www.uludagsozluk.com/k/polise-t%C3%BCk%C3%BCren-umreci/&w=bg
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 https://www.uludagsozluk.com/k/koronavir%C3%BCse-yakalanan-k%C4%B1z%C4%B1n-dram%C4%B1/
 https://tengir-budun.uludagsozluk.com bkz dayı sen niye espri kasıyosun ki komik te deilsin
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/
