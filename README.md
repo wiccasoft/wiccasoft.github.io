@@ -9,8 +9,6 @@
 bkz aile şerefindeki piç rte
 bkz diplomayı duvara asmak 97'
 https://www.youtube.com/watch?v=dGOpxUqnOI8
-bkz kızlar bıyıklı seviyor diye bıyık bırakmaya karar vermem
-bkz kızların bıyıksız erkek yerine bıyıklı erkek terchi
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
 bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
 bkz elif can terimin ümreci19 + çıkması
