@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=dGOpxUqnOI8 )
 
 <!--
+bkz rte nin ikinci atacüc ise 3. rte kim sorunsalı
 bkz aile şerefindeki piç rte
 bkz diplomayı duvara asmak 97'
 https://www.youtube.com/watch?v=dGOpxUqnOI8
