@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!--
+bkz kıların bıyıksız erkek yerine bıyıklı erkek terchi
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
 bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
 bkz elif can terimin ümreci19 + çıkması
