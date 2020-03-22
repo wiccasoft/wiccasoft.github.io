@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!--
+bkz ile şerefindeki piç oktay
 bkz kızlar bıyıklı seviyor diye bıyık bırakmaya karar vermem
 bkz kızların bıyıksız erkek yerine bıyıklı erkek terchi
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
