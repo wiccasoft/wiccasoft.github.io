@@ -2,9 +2,6 @@
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=dGOpxUqnOI8 )
 
-
-[![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
-
 <!--
 bkz aile şerefindeki piç rte
 bkz diplomayı duvara asmak 97'
@@ -32,6 +29,10 @@ https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-yapt%C4%B1%C4%9
 https://www.uludagsozluk.com/k/adam-coronal%C4%B1-%C3%A7%C4%B1kt%C4%B1-r%C4%B1za-baba/
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-coronaya-yakaland%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyinin-corona-testi-pozitif-%C3%A7%C4%B1kt%C4%B1/ -->
+
+
+[![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
+
 
 [![Image](waste/Screenshot_2020-03-18_17-41-48.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
