@@ -3,6 +3,7 @@
 
 <!--
 bkz aile şerefindeki piç oktay
+https://www.youtube.com/watch?v=dGOpxUqnOI8
 bkz kızlar bıyıklı seviyor diye bıyık bırakmaya karar vermem
 bkz kızların bıyıksız erkek yerine bıyıklı erkek terchi
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
