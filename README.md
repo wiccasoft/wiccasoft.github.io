@@ -8,6 +8,7 @@ bkz diplomayı duvara asmak 97'
 https://www.youtube.com/watch?v=dGOpxUqnOI8
 bkz 21 mart 2020 bıyıklarımı sarartıyor diye sigarayı ve alkolü bırakmam
 bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
+bkz 1881 atacüc 18+81 =99 - 81 vilayet - batman  = covid19
 bkz elif can terimin ümreci19 + çıkması
 iyi korunun genşler şakası yok bunun
 bkz olmaya devlet cihanda bir nefes sıhhat gibi
