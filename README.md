@@ -6,7 +6,7 @@
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 <!--
-bkz aile şerefindeki piç oktay
+bkz aile şerefindeki piç rte
 bkz diplomayı duvara asmak 97'
 https://www.youtube.com/watch?v=dGOpxUqnOI8
 bkz kızlar bıyıklı seviyor diye bıyık bırakmaya karar vermem
