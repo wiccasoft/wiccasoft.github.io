@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
-<!-- 
+<!--
+bkz tayyibin diploma mevzusunu kapamak için konuyu değiştirmesi
 bkz elif can terimin ümreci19 + çıkması
 iyi korunun genşler şakası yok bunun
 bkz olmaya devlet cihanda bir nefes sıhhat gibi
