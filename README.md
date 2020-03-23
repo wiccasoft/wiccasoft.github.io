@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://www.uludagsozluk.com/e/43042777/
 bkz çukur izlemeyen erkek
 bkz pahalı erkek davranışları
 bkz geceye bırakılan erkeği çalan kovidciler
