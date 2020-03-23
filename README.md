@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz çukur izlerken osurması
 bkz fatih terim efso soyunma odası konuşması
 https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz hastasıyız dede
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz fatih terim robert de niro benzerliği
