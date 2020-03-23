@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz fatih terim robert de niro benzerliği
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz fahrettin koca stalin benzerliği
 https://www.uludagsozluk.com/k/fatih-terim-selahattin-aydo%C4%9Fdu-olay%C4%B1/ bkz vay amk
 https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz 18 cm kafası hariç
