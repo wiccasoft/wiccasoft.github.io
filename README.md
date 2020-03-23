@@ -3,6 +3,7 @@
 
 <!--
 bkz çukur izlemeyen erkek
+bkz pahalı erkek davranışları
 bkz geceye bırakılan erkeği çalan kovidciler
 https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz erkek stoklamak
 bkz raflarda erkek bırakmayan covidliler
