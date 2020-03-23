@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+bkz gecey adama gibi erkek bırak
 bkz receğ tayyiğ erdoğan ın ümre19 çıkması
-bkz ucuzsun ucuz erkeksin diyen ibneye de siktir lan demek
-https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz ibneleri kudurtmak
+https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz kezbanları kudurtmak
 bkz hoşlaşılan erkeğin pahalıyım ama başkalarına demesi
 bkz hoşlaşılan erkeğin sana ucuzum demesi
 bkz hoşlaşılan erkeğin playboy çıkması
