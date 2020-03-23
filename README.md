@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+bkz hoşlaşılan erkeğin pahalıyım ama başkalarına demesi
 bkz hoşlaşılan erkeğin sana ucuzum demesi
 bkz hoşlaşılan erkeğin playboy çıkması
 bkz pahalı erkek davranışları
