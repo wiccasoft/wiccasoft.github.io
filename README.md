@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+bkz raflarda erkek bırakmayan covidliler
 bkz sabah bırakılan erkeği covidlilerin kaçırması
 bkz geceye adama gibi erkek bırak
 bkz receğ tayyiğ erdoğan ın ümre19 çıkması
