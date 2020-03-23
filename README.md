@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz kaldıramazsan kaldırırlar
 https://agca.uludagsozluk.com/ bkz sözlüğün ağır toplarından
 https://www.uludagsozluk.com/k/fethullah-%C4%B1n-koronaya-yakalanmas%C4%B1/ bkz hayallerde yaişoyor bazı ağır ibneler
 bkz fahrettin topalaktan yeni açıklama
