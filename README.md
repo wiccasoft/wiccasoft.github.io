@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!-- 
+bkz fatih terim efso soyunma odası konuşması
 bkz hoşlanılan futbolcunun bıyıklı ve covid19 olması
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg bkz aşık olunan adanalı forvetler
 bkz bıyıklı erkek çekiciliği
