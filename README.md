@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://www.uludagsozluk.com bkz bi site buldum bütün gayler orda
 bkz çukur izlemeyen erkeğe gel vuruşma sahnelerini izletim vuruşuruz hem demek
 bkz çukur vuruşam sahnelerinde kankaya sakso çektirmek
 bkz çukur vuruşma sahnelerinde ay diyen kankağnın götünü parmaklamak
