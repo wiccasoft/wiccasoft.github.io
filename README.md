@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
-bkz çukur izlemeyen erkeğe gel vuruşma sahnelerini izletim demek
+bkz çukur izlemeyen erkeğe gel vuruşma sahnelerini izletim vuruşuruz hem demek
 bkz çukur vuruşam sahnelerinde kankaya sakso çektirmek
 bkz çukur vuruşma sahnelerinde ay diyen kankağnın götünü parmaklamak
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
