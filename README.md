@@ -8,7 +8,6 @@ https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz robert de niro fatih terim 
 https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz kaldıramazsan kaldırırlar
 https://agca.uludagsozluk.com/ bkz sözlüğün ağır toplarından
 https://www.uludagsozluk.com/k/fethullah-%C4%B1n-koronaya-yakalanmas%C4%B1/ bkz hayallerde yaişoyor bazı ağır ibneler
-bkz fahrettin topalaktan yeni açıklama
 https://www.uludagsozluk.com bkz iğrençsiniz lan ibneler
 bkz çukur izlemeyen erkeğe gel vuruşma sahnelerini izletim vuruşuruz hem demek
 bkz çukur vuruşam sahnelerinde kankaya sakso çektirmek
