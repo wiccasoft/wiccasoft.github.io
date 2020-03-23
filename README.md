@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+bkz çukur vryuşma sahnelerinde ay diyen kankağnın götünü parmaklamak
+https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
 bkz fatih terim robert de niro benzerliği
 https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/&w=bg bkz geyseli düşmanı
 https://www.uludagsozluk.com/e/43042135/ bkz heceleyerek konuşan eşcinsel iticiliği
