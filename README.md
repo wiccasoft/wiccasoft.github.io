@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!-- 
+https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg bkz aşık olunan adanalı forvetler
 bkz bıyıklı erkek çekiciliği
 https://www.uludagsozluk.com/k/fahrettin-koca-stalin-benzerli%C4%9Fi/&w=bg 
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg hadi be hocam dayqnırsın biz varız hocam
