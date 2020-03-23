@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://agca.uludagsozluk.com/ bkz ağır ibne
+https://www.uludagsozluk.com/k/fethullah-%C4%B1n-koronaya-yakalanmas%C4%B1/ bkz hayallerde yaişoyor bazı ağır ibneler
 bkz fahrettin topalaktan yeni açıklama
 https://www.uludagsozluk.com bkz iğrençsiniz lan ibneler
 bkz çukur izlemeyen erkeğe gel vuruşma sahnelerini izletim vuruşuruz hem demek
