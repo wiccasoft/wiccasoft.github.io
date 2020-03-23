@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz wuhan
 https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=gd bkz çukur izlemeyen erkek
 https://www.uludagsozluk.com/e/43042777/ bkz kafası hariç 18 cm
 bkz çukur izlemeyen erkek
