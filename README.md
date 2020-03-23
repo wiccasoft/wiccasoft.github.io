@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+bkz hoşlandığı futbolcu ölmesin diye dua eden geyseli
 bkz homoseksüellerin deli gibi erkek stoklaması
 bkz coronanın en çok eşcinsellerin işine yaraması
 https://www.uludagsozluk.com/e/43042135/ bkz heceleyerek konuşan eşcinsel iticiliği
