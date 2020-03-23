@@ -2,15 +2,12 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
+bkz fatih terim robert de niro benzerliği
 https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/&w=bg bkz geyseli düşmanı
-bkz hoşlandığı futbolcu ölmesin diye dua eden geyseli
-bkz homoseksüellerin deli gibi erkek stoklaması
-bkz coronanın en çok eşcinsellerin işine yaraması
 https://www.uludagsozluk.com/e/43042135/ bkz heceleyerek konuşan eşcinsel iticiliği
 https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakan%C4%B1m%C4%B1z%C4%B1-muhaliflere-yedirmeyecegiz/  
 https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/33/ bkz ben demiştim
-bkz fatih terim robert de niro benzerliği
-bkz fatih tezcanın fahrerttin topalacak verdiği efso ayar
+bkz fatih tezcanın fahrettin topalaka verdiği efso ayar
 bkz burhanz kuzu burhan altıntop benzerliği
 bkz burhan kuzu nun attığı tweet
 bkZ fahrettin koca stalin benzerliği
