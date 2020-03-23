@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!-- 
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg
-bkz aşık olunan teknik direktörü son kez görmek
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg hadi be hocam dayqnırsın biz varız hocam
 https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg
 https://www.uludagsozluk.com/k/%C3%BCmit-davala/&w=bg 
