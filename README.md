@@ -7,11 +7,7 @@ bkz burhanz kuzu burhan altıntop benzerliği
 bkz burhan kuzu nun attığı tweet
 bkZ fahrettin koca stalin benzerliği
 bkz fatih terim efso soyunma odası konuşması
-bkz hoşlanılan futbolcunun bıyıklı ve covid19 olması
-https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg bkz aşık olunan adanalı forvetler
-bkz bıyıklı erkek çekiciliği
 https://www.uludagsozluk.com/k/fahrettin-koca-stalin-benzerli%C4%9Fi/&w=bg 
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg hadi be hocam dayqnırsın biz varız hocam
 https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg
 https://www.uludagsozluk.com/k/%C3%BCmit-davala/&w=bg 
