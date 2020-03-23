@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!--
-bkz fatih tezcanın verdiği boru gibi ayar
+https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz tıklamayın 18 cm kafası hariç
 https://www.uludagsozluk.com/k/bana-2-y%C3%BCzl%C3%BCl%C3%BC%C4%9F%C3%BCn-resmini-yapabilir-misin-abidin/ yaparım
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz robert de niro fatih terim benzerliği
 https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz kaldıramazsan kaldırırlar
