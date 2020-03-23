@@ -1,65 +1,6 @@
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
-<!--
-bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz batman
-https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=gd bkz çukur izlemeyen erkek
-https://www.uludagsozluk.com/e/43042777/ bkz kafası hariç 18 cm
-bkz çukur izlemeyen erkek
-bkz pahalı erkek davranışları
-bkz geceye bırakılan erkeği çalan kovidciler
-https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/&w=gd bkz ucuz dede davranışları
-https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz erkek stoklamak
-bkz raflarda erkek bırakmayan covidliler
-bkz sabah bırakılan erkeği covidlilerin kaçırması
-bkz geceye adama gibi erkek bırak
-bkz receğ tayyiğ erdoğan ın ümre19 çıkması
-https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz kezbanları kudurtmak
-bkz hoşlaşılan erkeğin pahalıyım ama başkalarına demesi
-bkz hoşlaşılan erkeğin sana ucuzum demesi
-bkz hoşlaşılan erkeğin playboy çıkması
-bkz pahalı erkek davranışları
-bkz çukur izlemyen erkek davranışları
-https://www.uludagsozluk.com/k/ucuz-erkek-davran%C4%B1%C5%9Flar%C4%B1/&w=bg bkz çukur izlerken osurması
-bkz fatih terim efso soyunma odası konuşması
-https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz hastasıyız dede
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz fatih terim robert de niro benzerliği
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz fahrettin koca stalin benzerliği
-https://www.uludagsozluk.com/k/fatih-terim-selahattin-aydo%C4%9Fdu-olay%C4%B1/ bkz vay amk
-https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz 18 cm kafası hariç
-https://www.uludagsozluk.com/k/bana-2-y%C3%BCzl%C3%BCl%C3%BC%C4%9F%C3%BCn-resmini-yapabilir-misin-abidin/ yaparım
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz robert de niro fatih terim benzerliği
-https://www.uludagsozluk.com/k/karantinada-31-%C3%A7eken-dede/ bkz kaldıramazsan kaldırırlar
-https://agca.uludagsozluk.com/ bkz sözlüğün ağır toplarından
-https://www.uludagsozluk.com/k/fethullah-%C4%B1n-koronaya-yakalanmas%C4%B1/ bkz hayallerde yaişoyor bazı ağır ibneler
-https://www.uludagsozluk.com bkz iğrençsiniz lan ibneler
-bkz çukur izlemeyen erkeğe gel vuruşma sahnelerini izletim vuruşuruz hem demek
-bkz çukur vuruşam sahnelerinde kankaya sakso çektirmek
-bkz çukur vuruşma sahnelerinde ay diyen kankağnın götünü parmaklamak
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
-bkz fatih terim robert de niro benzerliği
-https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/&w=bg bkz geyseli düşmanı
-https://www.uludagsozluk.com/e/43042135/ bkz heceleyerek konuşan eşcinsel iticiliği
-https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakan%C4%B1m%C4%B1z%C4%B1-muhaliflere-yedirmeyecegiz/  
-https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/33/ bkz ben demiştim
-bkz fatih tezcanın fahrettin topalaka verdiği efso ayar
-bkz burhanz kuzu burhan altıntop benzerliği
-bkz burhan kuzu nun attığı tweet
-bkZ fahrettin koca stalin benzerliği
-bkz fatih terim efso soyunma odası konuşması
-https://www.uludagsozluk.com/k/fahrettin-koca-stalin-benzerli%C4%9Fi/&w=bg 
-https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg
-https://www.uludagsozluk.com/k/%C3%BCmit-davala/&w=bg 
-https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg
-https://www.uludagsozluk.com/k/fatih-terim-in-koronavir%C3%BCse-yakalanmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/galatasaray-%C4%B1n-koronavir%C3%BCse-yakalanmas%C4%B1/
-https://www.uludagsozluk.com/k/abdurrahim-albayrak-%C4%B1n-koronavir%C3%BCse-yakalanmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/fatih-terim-in-vir%C3%BCsten-kurtulma-ihtimali/
--->
-
-
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
 [![Image](waste/Screenshot_2020-03-18_17-41-48.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
