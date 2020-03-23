@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/k/%C3%BCmit-davala/&w=bg
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg
 https://www.uludagsozluk.com/k/fatih-terim-in-koronavir%C3%BCse-yakalanmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1n-koronavir%C3%BCse-yakalanmas%C4%B1/
+https://www.uludagsozluk.com/k/abdurrahim-albayrak-%C4%B1n-koronavir%C3%BCse-yakalanmas%C4%B1/&w=gd
 -->
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
