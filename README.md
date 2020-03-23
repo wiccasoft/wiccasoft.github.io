@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
 
 <!-- 
+bkz fatih terim robert de niro benzerliği
 bkz fatih altaylının fatih terime boru gibi geçirmesi
 bkz fatih tezcanın fahrerttin topalacak verdiği efso ayar
 bkz burhanz kuzu burhan altıntop benzerliği
