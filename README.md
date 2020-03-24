@@ -3,6 +3,8 @@
 
 <!--
 bkz şaka maka rallın imamoğlanı unutması
+https://rall.uludagsozluk.com
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz selçuk inanın muslerayı çomarlara yedirmem çıkışı
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/&w=gd
 bkz atsızcılarla musleracıların kavga etmesi
