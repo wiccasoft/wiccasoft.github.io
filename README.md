@@ -3,8 +3,6 @@
 
 <!--
 https://www.uludagsozluk.com/e/43047059/ bkz vuruşmaya korkan adanalı erkekler
-https://www.uludagsozluk.com/k/adanal%C4%B1lardaki-a%C5%9F%C4%B1r%C4%B1-korkakl%C4%B1%C4%9F%C4%B1n-sebebi/
-bkz 24 mart 2020 sosyal anksiyetemin azması
 bkz 24 mart 2020 muslera geri vitesi
 bkz musleranın erdoya siyasete futbol karıştırmayalım önerisi
 https://www.uludagsozluk.com/k/orhan-osmano%C4%9Flu/&w=bg bkz orhan osmanoğlan geri vitesi
