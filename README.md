@@ -4,11 +4,6 @@
 <!--
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo-hug
 https://www.youtube.com/watch?v=uwSBu9fHo2w erdoğan 3 gol
-bkz erdoğanın boru gibi döşediği 3 gol
-bkz yılmaz erdoğanın sessizliğin koruması
-bkz yılmaz özdilin orduyu göreve çağırması
-https://www.yeniakit.com.tr/haber/kriz-tellali-yilmaz-ozdilden-darbe-cigirtkanligi-ordu-goreve-1141865.html?fbclid=IwAR2X-A1qRxuD0WMmcjDsCAr8t9Jtc-2cx12khQ3_9NdMoMym06WcJwpG-1E
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/&w=gd
 bkz aslan akbey duran emmiuyi emikledi mi sorunsalı
 bkz can ataklının rallın annesine yarasa demesi
 bkz o son yarasayı yemeyecektik
