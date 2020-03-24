@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/
 https://www.uludagsozluk.com/k/%C3%A7ingenelerin-ne-i%C5%9F-yapt%C4%B1%C4%9F%C4%B1-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg bkz yedirmeyin bunları kızlar
 https://www.uludagsozluk.com/k/nap%C4%B1yorsunuz-lan-ibneler/&w=bg
