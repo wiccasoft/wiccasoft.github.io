@@ -1,4 +1,5 @@
 <!--
+bkz rallın imamaoğlanın unutup ümmet yoluna girmesi
 bkz rallın imamoğlanı unutması
 bkz seniha yıldırımın oğlu rall
 bkz can ataklının rallın annesi seniha yıldırıma sarkaması
