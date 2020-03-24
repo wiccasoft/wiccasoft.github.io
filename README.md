@@ -3,8 +3,7 @@
 
 <!--
 bkz fatih terim efso soyunma odası konuşması
-bkz melonun tek partili sisteme geçelim önerisi
-bkz melonun fegholinin sözlerini çarpıtan çomarlar
+bkz melonun sözlerini çarpıtan çomarlar
 bkz selçuk inanın açıklamalarını çarpıtan çomarlar
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz alex siker kankağ
 https://www.uludagsozluk.com/k/bir-futbolcu-ele%C5%9Ftirisiyle-yamulan-sistem/
