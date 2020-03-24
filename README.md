@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/samsun-dan-adam-%C3%A7%C4%B1kmamas%C4%B1/&w=bg bkz adam gibi adam çıkmaması
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-elit-beylerin-de-olmas%C4%B1/ bkz onlar gay zaten ablası
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/
