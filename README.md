@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz covid19 türktür türk kalacaktır
 bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz batman
 bkz ülkücü musleranın yavru kunduz gibi uluması
