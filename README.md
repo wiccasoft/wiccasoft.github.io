@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz musleranın sözlerinin yanlış anlaşılması
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
 bkz murat övüç vidyoları için tıklağ kankağ
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg
 https://www.uludagsozluk.com/k/1-70-bile-olamayan-bir-erkek-olmak/
