@@ -4,7 +4,7 @@
 <!--
 bkz selçuk inanın yedirmeyiz
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F-%C3%B6lmesin-o-b%C3%BCy%C3%BCk-bir-de%C4%9Fer/
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz bilemiyorum altan bilemiyorum
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz bilemiyorum asen karar ver
 bkz melonun muslerayı destklemesi
 bkz musleranın gündemi bombe gibi değiştirmesi
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/
