@@ -1,4 +1,5 @@
 <!--
+bkz çukur vuruşma sahnelerinde aşkım romantik film aç diyen erkek
 bkz vuruşmaktan korkan erkeklerin biraz şey olması
 https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
 https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ twitter linki atan genç
