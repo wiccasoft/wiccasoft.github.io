@@ -3,7 +3,8 @@
 
 <!--
 https://www.uludagsozluk.com/k/k%C3%B6peksiz-sokaklar-istiyoruz/&w=bg 
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/ bkz muslera
+https://www.uludagsozluk.com/k/muslera-n%C4%B1n-h%C3%BCk%C3%BCmeti-ele%C5%9Ftirmesi/
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/ 
 https://www.uludagsozluk.com/k/korona-krizinde-chp-iktidar-olsayd%C4%B1-olacaklar/ bkz atacüc19
 https://www.uludagsozluk.com/e/43044858/ bkz cehaplei musleranın boru gibi döşemesi
 bkz kovidciler vs ümreciler 
