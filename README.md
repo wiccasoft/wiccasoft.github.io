@@ -1,5 +1,5 @@
 <!-- 
-bk< aslan akbeyin duran emmiyle sevişme tapelerinin yok etmesi
+bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://rall.uludagsozluk.com/ bkz can ataklının rallın türbanlı annesini övmesi
 https://www.uludagsozluk.com/k/can-atakl%C4%B1/&w=gd
