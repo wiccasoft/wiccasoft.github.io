@@ -2,11 +2,13 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/e/43044858/ bkz bakim valla gerizekalı
 bkz seniha yıldırımın gerizekalı oğlu
 bkz şaka maka rallın malak malak bakması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
 bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
+https://www.uludagsozluk.com/k/muslera-n%C4%B1n-h%C3%BCk%C3%BCmeti-ele%C5%9Ftirmesi/&w=gd
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
 bkz çukur vuruşma sahnesinde aşkım sen erkeksin vur banaaaaaaaaaa diyen ergen
