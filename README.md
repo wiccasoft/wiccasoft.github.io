@@ -2,10 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-bkz feminist pkklı abdullah öcalanın örgütü
-https://www.uludagsozluk.com/k/feminist-pkkl%C4%B1lar%C4%B1n-%C3%B6%C4%9Frencilere-sald%C4%B1rmas%C4%B1/
 https://lenova.uludagsozluk.com/ bkz beyin.dll bulunamadı
-bkz feminik pkklıların ümrecilere  saldırması
+bkz feminik pkklıların ümrecilere saldırması
 https://www.uludagsozluk.com/k/feminist-pkkl%C4%B1lar%C4%B1n-%C3%B6%C4%9Frencilere-sald%C4%B1rmas%C4%B1/
 bk aslan akbeyin duran emmiyi seks tapeleri için öldürmesi
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
