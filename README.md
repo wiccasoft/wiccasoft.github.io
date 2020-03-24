@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-bkz ülkücü musleranın yavru kurt gibi uluması
+bkz ülkücü musleranın yavru kunduz gibi uluması
 bkz cehapeli musleranın kale arkasına kaçan aknonoşları getirmem demesi
 bkz can dündarın rallın türbanlı annesini savunması
 bkz can ataklının rallın annesine türbanlı demesi
