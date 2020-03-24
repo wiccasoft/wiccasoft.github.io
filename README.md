@@ -1,49 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
-<!-- 
-bkz musleranınerdoya siyaseti futbola karştırmayalım önerisi
-bkz musleranın sözlerinin yanlış anlaşılması
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
-bkz murat övüç vidyoları için tıklağ kankağ
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg
-https://www.uludagsozluk.com/k/1-70-bile-olamayan-bir-erkek-olmak/
-bkz yılmaz zödilin dözili göreve davet etmesi
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg
-https://www.uludagsozluk.com/k/berberinizi-kaslı-bir-erkekle-paylaşır-mısınız/
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/
-bkz pipisini kaldıramayan erkek
-https://www.uludagsozluk.com/k/cebinde-50-lira-da-olmayan-erkek/
-https://www.uludagsozluk.com/k/gen%C3%A7-erkeklerin-yatakta-acemi-olmas%C4%B1/
-bkz çukur vuruşma sahnelerinde ay diyen erkek
-bkz adanalı erkeklerin vuruşmaktan korkması
-bkz adam gibi vuruşamayan erkek
-https://www.uludagsozluk.com/k/1-70-bile-olamayan-bir-erkek-olmak/
-https://www.uludagsozluk.com/k/elini-sikmeye-mahkum-erkekler/
-bkz polatın raconu koyması
-bkz ülkücülerin ülkü ocaklarını basması
-bkz musleranın erdoya siyasete futbola sokmayalım tavsiyesi
-bkz fatih terim efso soyunma odası konuşması
-bkz 25 ocak 2020 murat övünç yeni vidyosu
-bkz aslan akbey duran emmiyi emikledi diye mi öldürdü sorunsalı
-https://www.uludagsozluk.com/k/yar%C4%B1n-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-kar%C4%B1%C5%9Facak-olmas%C4%B1/
-https://www.uludagsozluk.com/k/b%C3%BCt%C3%BCn-s%C4%B1n%C4%B1rlar%C4%B1-tam-serbest-b%C4%B1rak%C4%B1rsak-ter%C3%B6r-biter/
-https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BClerin-%C3%A7ete-olmas%C4%B1/ bkz testere necmi
-bkz 24 mart 2020 murat övünç isyan etme görüntülerinin medyaya düşmesi
-bkz murat övünç isyan etme vidyosu sadece biz de kankağ
-bkz murat övünç askerlik resimleri için galeriğ tıklağ kankağ
-bkz murat övünç çıplak ressimler tıklağ galeriğ açılsın kankağ
-bkz murat övünçün yanlış anlaşılması
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg 
-bkz musleranın yanlış anlaşılması
-https://www.uludagsozluk.com/k/ronaldo-gaucho-de-assis-moreira/&w=bg dünyanın en iyisi
-https://james-earl-cash.uludagsozluk.com/ bkz murat övünç ün videoları resmi sponsoru
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg tıklayğım .zleyğlim
-bkz atsızcılar ümreciler kavgası
-bkz musleranın yanlış anlaşıması
-bkz kerimcan durmazın malafatı çıkarıp sallaması
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg -->
-
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
