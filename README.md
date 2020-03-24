@@ -4,6 +4,7 @@
 <!--
 bkz muslerayı yedirmeyiz len mq
 bkz cehapeli musleranın hökümeti eleştirmesi
+bkz ümrecilerin ali sami yeni cehennem çevirmesi
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/
 bkz ümrecilerin ali samiyeni cehenneme çevirmesitıklağ mobile. twitter in kaçılsın len mq
 bkz hüseyin nihal atsız ın at alması
