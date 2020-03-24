@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+bkz aslan akbey duran emmiuyi emikledi mi sorunsalı
 bkz can ataklının rallın annesine yarasa demesi
 bkz o son yarasayı yemeyecektik
 bkz selçuk inanın sözlerinin çarpıtılması
