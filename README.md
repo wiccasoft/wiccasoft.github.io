@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+bkz 24 mart 2020 messinin xavi geri vitesi
+https://www.uludagsozluk.com/k/24-mart-2020-fahrettin-koca-n%C4%B1n-covid19-a%C3%A7%C4%B1klamas%C4%B1/
 https://serefsizimbenmaklimagelmisti.uludagsozluk.com/ 
 bkz 7 yaşında kadar masraf olmasın diye doğmayan tip
 https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-olup-hala-ailesi-ile-ya%C5%9Fayan-tip/
