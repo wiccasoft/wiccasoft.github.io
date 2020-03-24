@@ -1,5 +1,5 @@
 <!-- 
-bkz binali yıldırımın tahtaya öğrenciler yazamaması
+bkz binali yıldırımın yasşlı öğretmeni savunması
 bkz rallın imamoğlunun unutması
 bkz can ataklının rallın annesini hoplatması
 bkz aslan akbey niye duran emmiyi hoplattı sorunsalı
