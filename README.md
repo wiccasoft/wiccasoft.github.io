@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz musleranın erdoya siyasete futbola sokmayalım tavsiyesi
+bkz fatih terim efso soyunma odası konuşması
 bkz 25 ocak 2020 murat övünç yeni vidyosu
 bkz aslan akbey duran emmiyi emikledi diye mi öldürdü sorunsalı
 https://www.uludagsozluk.com/k/yar%C4%B1n-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-kar%C4%B1%C5%9Facak-olmas%C4%B1/
