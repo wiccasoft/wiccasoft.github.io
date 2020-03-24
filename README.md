@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz abdurrahim albayrakın musleranın kulağını çekmesi
 bkz fatih terimin fegholiyi yedeğe alması
 bkz hüseyin nihal atsızın virüse türk demesi
 https://www.uludagsozluk.com/k/ats%C4%B1zc%C4%B1lar/&w=bg bkz atı olmayanlar
