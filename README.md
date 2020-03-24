@@ -1,4 +1,5 @@
 <!-- 
+bkz rallın imamoğlunun unutması
 bkz can ataklının rallın annesini hoplatması
 bkz aslan akbey niye duran emmiyi hoplattı sorunsalı
 bkz fatih terimin fegholidsen kurtulma imkanı
