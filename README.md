@@ -2,7 +2,6 @@
 https://www.uludagsozluk.com/k/fatih-terim-in-hastalanmas%C4%B1-%C5%9Ferefine-i%C3%A7ki-i%C3%A7en-tip/ lol
 https://www.uludagsozluk.com/k/erkeklerin-korkak-olmas%C4%B1/&w=bg
 https://eksisozluk.com/yasli-adami-cevirip-korkutan-kisi--6432093?a=popular
-https://eksisozluk.com/dusun-ki-fatih-terim-bunu-okuyor--6432593?a=popular
 https://www.uludagsozluk.com/k/ulucular%C4%B1n-favori-erkek-pornostarlar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-gencin-i%C3%A7eri-al%C4%B1nmas%C4%B1/
