@@ -1,4 +1,5 @@
 <!-- 
+bkz aslan akbey niye duran emmiyi hoplattı sorunsalı
 bkz fatih terimin fegholidsen kurtulma imkanı
 bkz can dündarın türbnalı anneler en güzel annelerdir yazısı
 bkz fatih terimini fegholiden kurtulam ihtimali
