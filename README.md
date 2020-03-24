@@ -2,40 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
-bkz 24 mart 2020 messinin xavi geri vitesi
-https://www.uludagsozluk.com/k/24-mart-2020-fahrettin-koca-n%C4%B1n-covid19-a%C3%A7%C4%B1klamas%C4%B1/
-https://serefsizimbenmaklimagelmisti.uludagsozluk.com/ 
-bkz 7 yaşında kadar masraf olmasın diye doğmayan tip
-https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-olup-hala-ailesi-ile-ya%C5%9Fayan-tip/
-bkz 42 yaşında olup babasından harçlık isteyen tip
-https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-olup-hala-ailesi-ile-ya%C5%9Fayan-tip/
-https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz messiyle iyi anlaşır kerata elimde büyüdü
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo-hug
 https://www.youtube.com/watch?v=uwSBu9fHo2w erdoğan 3 gol
-bkz aslan akbey duran emmiuyi emikledi mi sorunsalı
-bkz can ataklının rallın annesine yarasa demesi
-bkz o son yarasayı yemeyecektik
-bkz selçuk inanın sözlerinin çarpıtılması
-bkz messinin ronaldo balon açıklaması
-bkz yılmaz özdilin ordu göreve çağrısı
-bkz can dündarın mit tırları yazısı
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/
-https://www.uludagsozluk.com/k/%C3%A7in-ak%C4%B1ll%C4%B1-ol-yedi%C4%9Fine-dikkat-et/ peki abi
-https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg bkz xavi vs iyeste 
-https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz messiyle iyi anlaşır kerata elimde büyüdü
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz karar vermesi zor sorular
-https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz xavinin çalımlarının yanlış anlaşılması
-https://www.uludagsozluk.com/k/%C3%B6mer-hayyam/&w=bg bkz ömer hayyamın sözlerinin çarpıtılması
-https://www.uludagsozluk.com/k/orhan-osmano%C4%9Flu/&w=bg bkz osmanoğlanın sözlerinin yanlış anlaşılması
-bkz çomarların musleranın sözlerini çarpıtması
-https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zlerim-yanl%C4%B1%C5%9F-anla%C5%9F%C4%B1ld%C4%B1-demesi/
-https://www.uludagsozluk.com/e/43047059/ bkz vuruşmaya korkan adanalı erkekler
-bkz 24 mart 2020 muslera geri vitesi
-bkz musleranın erdoya siyasete futbol karıştırmayalım önerisi
-https://www.uludagsozluk.com/k/orhan-osmano%C4%9Flu/&w=bg bkz orhan osmanoğlan geri vitesi
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-ipad-in-kameras%C4%B1n%C4%B1-bantlamas%C4%B1/
-https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zlerim-yanl%C4%B1%C5%9F-anla%C5%9F%C4%B1ld%C4%B1-demesi/
 -->
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
