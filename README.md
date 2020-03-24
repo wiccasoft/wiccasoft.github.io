@@ -2,8 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
-https://www.youtube.com/watch?v=uwSBu9fHo2w
-bkz yılmaz erdoğanın erdoğanın takımına attığı gol
+ https://www.youtube.com/watch?v=uwSBu9fHo2w erdoğan 3 gol
+bkz erdoğanın boru gibi döşediği 3 gol
 bkz yılmaz erdoğanın sessizliğin koruması
 bkz yılmaz özdilin orduyu göreve çağırması
 https://www.yeniakit.com.tr/haber/kriz-tellali-yilmaz-ozdilden-darbe-cigirtkanligi-ordu-goreve-1141865.html?fbclid=IwAR2X-A1qRxuD0WMmcjDsCAr8t9Jtc-2cx12khQ3_9NdMoMym06WcJwpG-1E
