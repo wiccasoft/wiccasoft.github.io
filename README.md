@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz kamalcıların malum kesimden sanki biraz daha apatal olması
 bkz kamalcıların futbolcuları stoklaması
 bkz twitterdaki bayan muslera yaşıyor mu sorunsalı
 bkz cehapelin musleranın ak partinin virüsü sahiplenmesinin eleştirmesi
