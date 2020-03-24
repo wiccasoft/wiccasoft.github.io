@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz abdurrahim albyrakın üj mülyon yüto daha verelim ramosu alalım önerisi
 bkz muslerayı yedirmeyiz len mq
 bkz cehapeli musleranın hökümeti eleştirmesi
 bkz ümrecilerin ali sami yeni cehennem çevirmesi
