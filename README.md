@@ -1,5 +1,6 @@
 <!-- 
 bkz can dündarın mit tırları yazısı
+bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
 bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://rall.uludagsozluk.com/ bkz can ataklının rallın türbanlı annesini övmesi
