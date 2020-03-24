@@ -3,6 +3,7 @@
 
 <!--
 bkz selçuk inanın açıklamalarını çarpıtan çomarlar
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz alex siker kankağ
 https://www.uludagsozluk.com/k/bir-futbolcu-ele%C5%9Ftirisiyle-yamulan-sistem/
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zlerini-%C3%A7arp%C4%B1tan-%C3%A7omarlar/
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
