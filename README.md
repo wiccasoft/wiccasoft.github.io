@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz fegholinin var kararlarını saymaması
 bkz fatih tezcanın fatih terime işini yap uyarısı
 bkz mobile.twtitter linki tıklağ video açılsın len mk
 bkz fatih terimin nerde kalmıştık tweeti
