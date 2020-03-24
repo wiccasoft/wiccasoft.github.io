@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
+<!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-ipad-in-kameras%C4%B1n%C4%B1-bantlamas%C4%B1/ -->
+
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
