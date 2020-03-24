@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz can dündarın rallın türbanlı annesini savunması
 bkz can ataklının rallın annesine türbanlı demesi
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-zihniyeti/
 bkz musleranın kamalcı topları havada yakalaması
