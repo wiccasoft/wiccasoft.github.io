@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg bkz üç isimli erkek karizması
 https://www.uludagsozluk.com/k/muslera-y%C4%B1-yedirmeyiz/ bkz çıtır çıtır yerler
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz alex siker kankağ
