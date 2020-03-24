@@ -3,6 +3,7 @@
 
 <!--
 bkz selçuk inanın yedirmeyiz
+bkz selçuk inandan skandal açıklamlar tıkla haber detayları açılsın
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
 bkz muslera haberi paylaştım tıklağ kankağ aynı şeyi okuyalım len mq
 bkz twitter haber linki attım tıklağ kankağ len mq
