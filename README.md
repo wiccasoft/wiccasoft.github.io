@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz ümrecilerin ali samiyeni cehenneme çevirmesitıklağ mobile. twitter in kaçılsın len mq
 bkz hüseyin nihal atsız ın at alması
 bkz muslerayı yerken katır kutur ses gelmesi
 bkz ümrecilerin ali sami yeni cehnneme çevirmesi
