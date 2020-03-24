@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ twitter linki atan genç
 bkz rokun kaldırırım indiririm demesi
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
