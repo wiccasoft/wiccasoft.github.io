@@ -2,61 +2,17 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz selçuk inanını yedirmeyiz
+bkz musleranın erdoğana virüs demesi
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz muslera
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-h%C3%BCk%C3%BCmeti-ele%C5%9Ftirmesi/
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/ bkz fedöcü muslera
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg bkz erdoğana virüs emesi
-bkz musleranın erdoğana virüs demesi
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg
-bkz selçuk inanın erdoğana verdiği efso ayar
-bkz receğ tayyiğ erdoğan vs muslera
-bkz selçuk inanını yedirmeyiz
-bkz melonun tayyipe verdiği ayar tıkla haber açılsın len mq
-bkz selçuk inandan skandal açıklamlar tıkla haber detayları açılsın
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
-bkz muslera haberi paylaştım tıklağ kankağ aynı şeyi okuyalım len mq
-bkz twitter haber linki attım tıklağ kankağ len mq
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F-%C3%B6lmesin-o-b%C3%BCy%C3%BCk-bir-de%C4%9Fer/
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz bilemiyorum asen karar ver
-bkz melonun muslerayı destklemesi
-bkz musleranın gündemi bombe gibi değiştirmesi
-https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/
-bkz abdurrahim albyrakın üj mülyon yüto daha verelim ramosu alalım önerisi
-bkz muslerayı yedirmeyiz len mq
-bkz cehapeli musleranın hökümeti eleştirmesi
-bkz ümrecilerin ali sami yeni cehennem çevirmesi
-https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/
-bkz ümrecilerin ali samiyeni cehenneme çevirmesitıklağ mobile. twitter in kaçılsın len mq
-bkz hüseyin nihal atsız ın at alması
-bkz muslerayı yerken katır kutur ses gelmesi
-bkz ümrecilerin ali sami yeni cehnneme çevirmesi
-bkz ultra aslanların fegoliyi meloyu muslerayı ümrecilere yedirmeyiz len mq paylaşımı
-bkz düşün ki fegholi melo muslera yazdıklarını okiy len mq
-bkz fegholü melo muslera dayanışması
-bkz takla atan geyselinin musleraya destek olması
-bkz mehapeli melonun musleraya destek olması
-bkz cehapeli musleranın coronolı topları kurtarmam demesi
-bkz ümrecilerin mobile.twitter linki bulamaması
-bkz karantina günlerinde mobile.twitter linki bulmanın zorlaşması len mq
-bkz cehapelin fegholinin akpli var kararlarını karantinaya alması
-bkz fatih tezcanın fatih terime işini yap uyarısı
-bkz mobile.twtitter linki tıklağ video açılsın len mk
-bkz fatih terimin nerde kalmıştık tweeti
-bkz twitter kapanırsa türkler ne linki atacak sorunsalı
-https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ bkz tıklağ mobile.twitter link açılsın 
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/
-https://www.uludagsozluk.com/k/k%C3%B6peksiz-sokaklar-istiyoruz/&w=bg 
-https://www.uludagsozluk.com/k/muslera-n%C4%B1n-h%C3%BCk%C3%BCmeti-ele%C5%9Ftirmesi/
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/ 
-https://www.uludagsozluk.com/k/korona-krizinde-chp-iktidar-olsayd%C4%B1-olacaklar/ bkz atacüc19
-https://www.uludagsozluk.com/e/43044858/ bkz cehaplei musleranın boru gibi döşemesi
-bkz kovidciler vs ümreciler 
-bkz ümrecilerin volkan demireli savunması
-bkz cehapeli musleranın hükümete başörtü üzerinde yüklenmesi
-bkz yarasa yiyip türk sikmek
-bkz kamalcıların futbolcuları stoklaması
 bkz twitterdaki bayan muslera yaşıyor mu sorunsalı
 bkz cehapelin musleranın virüslü topları kurtarmam demesi
 bkz covid19 türktür türk kalacaktır
