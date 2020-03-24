@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz messiyle iyi anlaşır kerata elimde büyüdü
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo-hug
 https://www.youtube.com/watch?v=uwSBu9fHo2w erdoğan 3 gol
 bkz aslan akbey duran emmiuyi emikledi mi sorunsalı
