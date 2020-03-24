@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz mobile.twtitter linki tıklağ video açılsın len mk
 bkz fatih terimin nerde kalmıştık tweeti
 bkz twitter kapanırsa türkler ne linki atacak sorunsalı
 https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ bkz tıklağ mobile.twitter link açılsın 
