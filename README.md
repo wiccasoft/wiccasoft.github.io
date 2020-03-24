@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz adam gibi vuruşamayan erkek
 https://www.uludagsozluk.com/k/1-70-bile-olamayan-bir-erkek-olmak/
 https://www.uludagsozluk.com/k/elini-sikmeye-mahkum-erkekler/
 bkz polatın raconu koyması
