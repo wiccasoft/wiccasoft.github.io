@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/ bkz fedöcü muslera
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg bkz erdoğana virüs emesi
 bkz musleranın erdoğana virüs demesi
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg
