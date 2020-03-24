@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz musleranın erdoğana attığı bakış
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg
 https://www.uludagsozluk.com/k/berberinizi-kasl%C4%B1-bir-erkekle-payla%C5%9F%C4%B1r-m%C4%B1s%C4%B1n%C4%B1z/
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
