@@ -1,19 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
-<!-- 
-bkz şaka maka rallın imamoğlanı unutması
-bkz can ataklının rallın annesi için okul açalım teklifi
-bkz musleranın erdoya siyaseti futboldan uzak tutalım teklifi
-bkz musleraranın başkanlık sistemi yeni akit yazısı
-https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/
-bkz musleranın yılmaz özdilein ordu görve çağrısı yazısına vereceği tepki
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
-https://www.uludagsozluk.com/k/muslera-kemal-atat%C3%BCrk/&w=bg bkz muslera son atabükücü
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/ 
--->
-
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
@@ -21,12 +8,6 @@ https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7
 [![Image](waste/Screenshot_2020-03-18_17-41-48.png)]( https://www.youtube.com/watch?v=7P8UwHEnKas )
 
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
-
-<!-- https://books.google.com/books?id=6spbtBi3DsoC&pg=PA166&lpg=PA166&dq=hydra+vernal+equinox&source=bl&ots=s8x2mCxiDP&sig=ACfU3U1BFga5pqC1Et0fYe7DDlP9lh-F1w&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwD3oECAUQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false 
--->
-<!--
-https://books.google.com/books?id=KYLSMsduNqcC&pg=PA158&lpg=PA158&dq=hydra+vernal+equinox&source=bl&ots=Mfbos7xsxF&sig=ACfU3U1v2s6DIiudv38vnLpIjgR8HnfIiA&hl=tr&sa=X&ved=2ahUKEwj3ldCIiKnoAhWjtXEKHTrrCO0Q6AEwC3oECAsQAQ#v=onepage&q=hydra%20vernal%20equinox&f=false
--->
 
 [![Image](waste/Screenshot_2020-03-18_23-22-31.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 
