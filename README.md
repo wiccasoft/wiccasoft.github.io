@@ -1,3 +1,6 @@
+
+[![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
+
 <!--
 bkz çukur vuruşma sahnelerinde aşkım romantik film aç diyen erkek
 bkz vuruşmaktan korkan erkeklerin biraz şey olması
