@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz adam yunan zaten beyler
 https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg bkz yalanası erkekler
 https://www.uludagsozluk.com/k/%C3%A7ingenelerin-ne-i%C5%9F-yapt%C4%B1%C4%9F%C4%B1-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/samsun-dan-adam-%C3%A7%C4%B1kmamas%C4%B1/&w=bg bkz adam gibi adam çıkmaması
