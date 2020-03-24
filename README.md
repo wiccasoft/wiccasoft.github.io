@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ulucu
+https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
+bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ulucu ergen
 https://rall.uludagsozluk.com/ bkz şaka maka rallın imamoğlanı unutması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
