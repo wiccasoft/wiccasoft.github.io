@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz can ataklının rallın annesine türbanlı demesi
+https://www.uludagsozluk.com/k/can-atakl%C4%B1-zihniyeti/
 bkz musleranın kamalcı topları havada yakalaması
 https://www.uludagsozluk.com/e/43044858/ bkz bakim valla gerizekalı
 bkz seniha yıldırımın gerizekalı oğlu
