@@ -3,6 +3,7 @@
 
 <!--
 bkz şaka maka rallın malak malak bakması
+bkz seniha yıldırımın gerizekalı oğlu
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
 bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
