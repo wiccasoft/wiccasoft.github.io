@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz melonun fegholinin sözlerini çarpıtan çomarlar
 bkz selçuk inanın açıklamalarını çarpıtan çomarlar
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz alex siker kankağ
 https://www.uludagsozluk.com/k/bir-futbolcu-ele%C5%9Ftirisiyle-yamulan-sistem/
