@@ -3,7 +3,7 @@
 
 <!--
 bkz selçuk inanın yedirmeyiz
-bkz twitter yeni akit linki
+bkz twitter haber linki attım tıklağ kankağ len mq
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F-%C3%B6lmesin-o-b%C3%BCy%C3%BCk-bir-de%C4%9Fer/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz bilemiyorum asen karar ver
