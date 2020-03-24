@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
-bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ulucu ergen
+bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ulucu ergen asdasdasdasdas
 https://rall.uludagsozluk.com/ bkz şaka maka rallın imamoğlanı unutması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
