@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 25 ocak 2020 murat övünç yeni vidyosu
+bkz aslan akbey duran emmiyi emikledi diye mi öldürdü sorunsalı
 https://www.uludagsozluk.com/k/yar%C4%B1n-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-kar%C4%B1%C5%9Facak-olmas%C4%B1/
 https://www.uludagsozluk.com/k/b%C3%BCt%C3%BCn-s%C4%B1n%C4%B1rlar%C4%B1-tam-serbest-b%C4%B1rak%C4%B1rsak-ter%C3%B6r-biter/
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BClerin-%C3%A7ete-olmas%C4%B1/ bkz testere necmi
