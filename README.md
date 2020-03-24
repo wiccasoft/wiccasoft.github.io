@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz şaka maka rallın imamoğlanı unutması
 bkz can ataklının rallın annesi için okul açalım teklifi
 bkz musleranın erdoya siyaseti futboldan uzak tutalım teklifi
 bkz musleraranın başkanlık sistemi yeni akit yazısı
