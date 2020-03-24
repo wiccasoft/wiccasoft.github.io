@@ -1,6 +1,11 @@
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
+<!-- 
+https://www.uludagsozluk.com/k/israil-sa%C4%9Fl%C4%B1k-bakan%C4%B1/
+https://www.uludagsozluk.com/k/diyanet-in-vir%C3%BCs-i%C3%A7in-camilerde-dua-okutmas%C4%B1/&w=bg
+-->
+
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
