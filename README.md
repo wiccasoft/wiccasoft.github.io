@@ -1,6 +1,6 @@
-<!-- 
-https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=bg
+<!--
 https://www.uludagsozluk.com/k/ulucular%C4%B1n-favori-erkek-pornostarlar%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-gencin-i%C3%A7eri-al%C4%B1nmas%C4%B1/
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=bg
 bkz yaşlı amcayı korkutan ibneler mobile.twitter linki attm tıklağ izleğ
