@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/muslera-kemal-atat%C3%BCrk/&w=bg bkz muslera son atabükücü
 https://www.uludagsozluk.com/k/15-temmuz-da-neredeydin/&w=bg ananın amcığındaydım oç
 https://lenova.uludagsozluk.com/ bkz beyin.dll bulunamadı
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz muslera siker atar
