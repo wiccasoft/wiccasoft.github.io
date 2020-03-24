@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-ibneler/ bkz genç amcaya yapsanıza ibneler
 https://www.uludagsozluk.com/e/41905691/ bkz seyfo dayının aslan akbeyi hoplattığı tapeler
 bkz can dündarın mit tırları yazısı
 bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
