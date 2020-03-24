@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz murat övünçün johny cash çıkması
 bkz neymardan macrona siyaseti futbola karıştırma uyarısı
 https://www.uludagsozluk.com/k/ziya-sel%C3%A7uk/&w=bg bkz atma ziya
 https://www.uludagsozluk.com/k/besim-tibuk/&w=bg bkz bütün sınırları kapatırsak terörik biter -->
