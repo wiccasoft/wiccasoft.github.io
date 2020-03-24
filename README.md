@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/e/41905691/ bkz seyfo dayının aslan akbeyi hoplattığı tapeler
 bkz can dündarın mit tırları yazısı
 bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
 bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
