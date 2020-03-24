@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz polatın raconu koyması
 bkz ülkücülerin ülkü ocaklarını basması
 bkz musleranın erdoya siyasete futbola sokmayalım tavsiyesi
 bkz fatih terim efso soyunma odası konuşması
