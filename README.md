@@ -1,5 +1,5 @@
 <!-- 
-bkz fatih altaylının fatih terime başsalığına gitmesi
+bkz fcan dündarın türbnalı anneler en güzel annelerdir yazısı
 bkz fatih terimini fegholiden kurtulam ihtimali
 https://www.uludagsozluk.com/k/fatih-terim-in-vir%C3%BCsten-kurtulma-ihtimali/&w=bg
 bkz can ataklının başörtülü annelere sarkması
