@@ -1,4 +1,5 @@
 <!-- 
+https://www.youtube.com/watch?v=ThRZ3UZj9Oc
 bkz binali yıldırımın yasşlı öğretmeni savunması
 bkz rallın imamoğlunun unutması
 bkz can ataklının rallın annesini hoplatması
@@ -20,7 +21,7 @@ https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 bkz aslan akbeyin seyfo dayıyla sevişme tapelerini yok etmesi
 -->
-[![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
+[![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
