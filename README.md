@@ -1,6 +1,6 @@
 <!--
+bkz rasim özkan kütahyalı beyaz futbola dönme sinyalleri yakması
 bkz rasim özkan kütahyalı kütahyalı mı sorunsalı
-bkz rokun beyaz futbol da yardırdığı videolar
 https://www.uludagsozluk.com/k/zeus-un-ger%C3%A7ek-tanr%C4%B1-%C3%A7%C4%B1kmas%C4%B1-ihtimali/&w=gd bkz zeusun oğlu
 https://www.uludagsozluk.com/k/erkeklerin-korkak-olmas%C4%B1/&w=gd bkz vuruşmaktan korkan erkek
 https://www.uludagsozluk.com/k/fatih-terim-in-hastalanmas%C4%B1-%C5%9Ferefine-i%C3%A7ki-i%C3%A7en-tip/ lol
