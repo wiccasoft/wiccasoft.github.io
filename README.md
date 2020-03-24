@@ -2,8 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-bkz şaka maka rallın malak malak bakması
 bkz seniha yıldırımın gerizekalı oğlu
+bkz şaka maka rallın malak malak bakması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
 bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
