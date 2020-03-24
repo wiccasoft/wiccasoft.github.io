@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz atsızcılar ümreciler kavgası
 bkz musleranın yanlış anlaşıması
 bkz kerimcan durmazın malfatı çıkarıp sallaması
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg -->
