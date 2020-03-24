@@ -1,5 +1,6 @@
 <!-- 
-https://www.youtube.com/watch?v=ThRZ3UZj9Oc zuahhahaha daha yazı yazamıyor amk
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-ibneler/ bkz yaşsız amcayı korkutsanıza ibneler
+https://www.youtube.com/watch?v=ThRZ3UZj9Oc zuahhahaha 
 bkz binali yıldırımın yasşlı öğretmeni savunması
 bkz rallın imamoğlunun unutması
 bkz can ataklının rallın annesini hoplatması
