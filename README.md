@@ -2,7 +2,6 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-https://www.uludagsozluk.com/k/soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-gelmeli-mi/ bkz muslera geri vitesi
 https://www.uludagsozluk.com/k/otomatik-vites/&w=bg bkz muslera geri vitesi
 https://www.uludagsozluk.com/k/feminist-pkkl%C4%B1lar%C4%B1n-%C3%B6%C4%9Frencilere-sald%C4%B1rmas%C4%B1/
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/
