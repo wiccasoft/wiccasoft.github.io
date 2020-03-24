@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz kovidciler vs ümreciler 
 bkz ümrecilerin volkan demireli savunması
 bkz cehapeli musleranın hükümete başörtü üzerinde yüklenmesi
 bkz yarasa yiyip türk sikmek
