@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz şaka maka pkknın feminik olması
+https://www.uludagsozluk.com/k/pkk-dhkpc-gibi-ter%C3%B6r-%C3%B6rg%C3%BCtlerinin-feminist-olmas%C4%B1/&w=bg
 bkz serdar ortaç a orta osya ya dön demek
 https://www.uludagsozluk.com/k/bir-t%C3%BCrk%C3%A7%C3%BCye-orta-asya-ya-d%C3%B6n-demek/ 
 bkz putin erdoğanı 2 dk ayakta bekletti yalanı tapeleri
