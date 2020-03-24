@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-bkz ultra aslanların fegoliyi meloyu muslerayı kamalcılara yedirmeyiz len mq paylaşımı
+bkz ultra aslanların fegoliyi meloyu muslerayı ümrecilere yedirmeyiz len mq paylaşımı
 bkz düşün ki fegholi melo muslera yazdıklarını okiy len mq
 bkz fegholü melo muslera dayanışması
 bkz takla atan geyselinin musleraya destek olması
