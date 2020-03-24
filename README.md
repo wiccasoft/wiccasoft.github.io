@@ -4,6 +4,7 @@
 <!--
 bkz hüseyin nihal atsız ın at alması
 bkz muslerayı yerken katır kutur ses gelmesi
+bkz ümrecilerin ali sami yeni cehnneme çevirmesi
 bkz ultra aslanların fegoliyi meloyu muslerayı ümrecilere yedirmeyiz len mq paylaşımı
 bkz düşün ki fegholi melo muslera yazdıklarını okiy len mq
 bkz fegholü melo muslera dayanışması
