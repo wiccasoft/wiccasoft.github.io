@@ -1,5 +1,6 @@
 <!-- 
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-ibneler/ bkz yaşsız amcayı korkutsanıza ibneler
+ bkz yaşsız amcayı korkutan ibneler mobile .twtitter linki attm tıklağ izleğ
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-ibneler/
 https://www.youtube.com/watch?v=ThRZ3UZj9Oc zuahhahaha 
 bkz binali yıldırımın yasşlı öğretmeni savunması
 bkz rallın imamoğlunun unutması
