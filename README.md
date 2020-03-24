@@ -4,6 +4,9 @@
 <!--
 bkz şaka maka rallın malak malak bakması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
+bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
+https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
 bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ergen
 bkz çukur vuruşma sahnesinde vurr baaaaaaa diyen erkek
