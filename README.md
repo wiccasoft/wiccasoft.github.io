@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz şaka maka rallın imamoğlanı unutması
 bkz selçuk inanın muslerayı çomarlara yedirmem çıkışı
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/&w=gd
 bkz atsızcılarla musleracıların kavga etmesi
