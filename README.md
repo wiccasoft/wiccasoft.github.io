@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+bkz o son yarasayı yemeyecektik
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/
 https://www.uludagsozluk.com/k/%C3%A7in-ak%C4%B1ll%C4%B1-ol-yedi%C4%9Fine-dikkat-et/ peki abi
