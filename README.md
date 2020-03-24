@@ -4,9 +4,8 @@
 <!--
 bkz şaka maka rallın malak malak bakması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-bkz şaka maka eşcinsel ulucu gençlerin güldürmesi
 https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
-bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ulucu ergen asdasdasdasdas
+bkz aşkım sen erkeksin vur banaaaaaaaaaa diyen ergen
 https://rall.uludagsozluk.com/ bkz şaka maka rallın imamoğlanı unutması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
