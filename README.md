@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
-bkz vuruşmaya korkan adanalı erkekler
+https://www.uludagsozluk.com/e/43047059/ bkz vuruşmaya korkan adanalı erkekler
 https://www.uludagsozluk.com/k/adanal%C4%B1lardaki-a%C5%9F%C4%B1r%C4%B1-korkakl%C4%B1%C4%9F%C4%B1n-sebebi/
 bkz 24 mart 2020 sosyal anksiyetemin azması
 bkz 24 mart 2020 muslera geri vitesi
