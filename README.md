@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz karar vermesi zor sorular
 https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz xavinin çalımlarının yanlış anlaşılması
 https://www.uludagsozluk.com/k/%C3%B6mer-hayyam/&w=bg bkz ömer hayyamın sözlerinin çarpıtılması
 https://www.uludagsozluk.com/k/orhan-osmano%C4%9Flu/&w=bg bkz osmanoğlanın sözlerinin yanlış anlaşılması
