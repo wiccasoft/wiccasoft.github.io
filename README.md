@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ bkz tıklağ mobile.twitter link açılsın 
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/
 https://www.uludagsozluk.com/k/k%C3%B6peksiz-sokaklar-istiyoruz/&w=bg 
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-h%C3%BCk%C3%BCmeti-ele%C5%9Ftirmesi/
