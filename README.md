@@ -1,4 +1,6 @@
 <!--
+bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz batman
 bkz rallın imamaoğlanın unutup ümmet yoluna girmesi
 bkz rallın imamoğlanı unutması
 bkz seniha yıldırımın oğlu rall
