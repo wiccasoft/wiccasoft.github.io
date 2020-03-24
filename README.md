@@ -1,4 +1,5 @@
 <!--
+bkz rokun kaldırırım indiririm demesi
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
 bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
