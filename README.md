@@ -1,5 +1,15 @@
 
-[![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
+[![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
+
+<!--
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
+bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz batman
+bkz çukur vuruşma sahnelerinde aşkım romantik film aç diyen erkek
+bkz vuruşmaktan korkan erkeklerin biraz şey olması
+https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
+-->
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
