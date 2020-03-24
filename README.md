@@ -14,7 +14,7 @@ https://www.uludagsozluk.com/k/muslera-kemal-atat%C3%BCrk/&w=bg bkz muslera son 
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/ 
 -->
 
-[![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=hacCw29knzI )
+[![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
 
