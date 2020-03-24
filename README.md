@@ -3,9 +3,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/muslera-kemal-atat%C3%BCrk/&w=bg bkz muslera son atabükücü
-bkz musleranın fatih terike attığı bakış
-bkz 24 mart 2020 melonun musleraya geri vitese taktın hadi hadi demesi
-bkz 24 mart 2020 muslerarnın geri vitese takması
 https://www.uludagsozluk.com/k/24-mart-2020-muslera-n%C4%B1n-geri-vites-yapmas%C4%B1/
 bkz musleranın erdoğana attığı bakış
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg
