@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz fegholü melo muslera dayanışması
 bkz takla atan geyselinin musleraya destek olması
 bkz mehapeli melonun musleraya destek olması
 bkz cehapeli musleranın coronolı topları kurtarmam demesi
