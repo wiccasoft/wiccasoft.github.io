@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+bkz 24 mart 2020 sosyal anksiyetemin azması
 bkz 24 mart 2020 muslera geri vitesi
 bkz musleranın erdoya siyasete futbol karıştırmayalım önerisi
 https://www.uludagsozluk.com/k/orhan-osmano%C4%9Flu/&w=bg bkz orhan osmanoğlan geri vitesi
