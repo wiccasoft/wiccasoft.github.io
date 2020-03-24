@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg
+https://www.uludagsozluk.com/k/berberinizi-kasl%C4%B1-bir-erkekle-payla%C5%9F%C4%B1r-m%C4%B1s%C4%B1n%C4%B1z/
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
