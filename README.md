@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+bkz 24 mart 2020 murat övünç isyan etme görüntülerinin medyaya düşmesi
 bkz murat övünç isyan etme vidyosu sadece biz de kankağ
 bkz murat övünç askerlik resimleri için galeriğ tıklağ kankağ
 bkz murat övünç çıplak ressimler tıklağ galeriğ açılsın kankağ
