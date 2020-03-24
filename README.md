@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz fatih terim efso soyunma odası konuşması
 bkz melonun tek partili sisteme geçelim önerisi
 bkz melonun fegholinin sözlerini çarpıtan çomarlar
 bkz selçuk inanın açıklamalarını çarpıtan çomarlar
