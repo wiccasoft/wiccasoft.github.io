@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
-bkz bolsanaronun leonardo di caprio yu suçlaması
+bkz bolsanaronun amzxon yangınları için leonardo di caprio yu suçlaması
 https://www.vice.com/en_us/article/59n7j3/bolsonaro-is-now-blaming-the-amazon-fires-on-leo-decaprio-for-some-reason
 bkz ronaldinhonun bolsanora ya gavat demesi
 bkz fatih terim efso soyunma odası konuşması
