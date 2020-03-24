@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+https://www.uludagsozluk.com/k/orhan-osmano%C4%9Flu/&w=bg bkz osmanoğlanın sözlerinin yanlış anlaşılması
 bkz çomarların musleranın sözlerini çarpıtması
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zlerim-yanl%C4%B1%C5%9F-anla%C5%9F%C4%B1ld%C4%B1-demesi/
 https://www.uludagsozluk.com/e/43047059/ bkz vuruşmaya korkan adanalı erkekler
