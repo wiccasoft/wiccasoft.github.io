@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz muslera kamal atacücü
 bkz musleranın fatih terike attığı bakış
 bkz 24 mart 2020 melonun musleraya geri vitese taktın hadi hadi demesi
 bkz 24 mart 2020 muslerarnın geri vitese takması
