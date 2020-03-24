@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/fatih-terim-in-hastalanmas%C4%B1-%C5%9Ferefine-i%C3%A7ki-i%C3%A7en-tip/ lol
 https://www.uludagsozluk.com/k/erkeklerin-korkak-olmas%C4%B1/&w=bg
 https://eksisozluk.com/yasli-adami-cevirip-korkutan-kisi--6432093?a=popular
 https://eksisozluk.com/dusun-ki-fatih-terim-bunu-okuyor--6432593?a=popular
