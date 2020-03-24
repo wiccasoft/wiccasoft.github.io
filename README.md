@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/
 bkz pipisini kaldıramayan erkek
 https://www.uludagsozluk.com/k/cebinde-50-lira-da-olmayan-erkek/
 https://www.uludagsozluk.com/k/gen%C3%A7-erkeklerin-yatakta-acemi-olmas%C4%B1/
