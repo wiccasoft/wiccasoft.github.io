@@ -6,6 +6,7 @@ https://rall.uludagsozluk.com
 bkz şaka maka rallın imamoğlanı unutması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz selçuk inanın muslerayı çomarlara yedirmem çıkışı
+bkz loris kariusun nereye geldik lan bakışı
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/&w=gd
 bkz atsızcılarla musleracıların kavga etmesi
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz alex siker kankağ
