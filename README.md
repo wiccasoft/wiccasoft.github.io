@@ -10,16 +10,10 @@ https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/testere-necmi/&w=bg
 https://lenova.uludagsozluk.com/ bkz beyin.dll bulunamadı
-bkz feminik pkklıların ümrecilere saldırması
 https://www.uludagsozluk.com/k/feminist-pkkl%C4%B1lar%C4%B1n-%C3%B6%C4%9Frencilere-sald%C4%B1rmas%C4%B1/
-bk aslan akbeyin duran emmiyi seks tapeleri için öldürmesi
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://www.uludagsozluk.com/k/testere-necmi/&w=bg 
-bkz şaka maka pkknın feminik olması
-bkz şaka maka covidin kamalık olması
 https://www.uludagsozluk.com/k/pkk-dhkpc-gibi-ter%C3%B6r-%C3%B6rg%C3%BCtlerinin-feminist-olmas%C4%B1/&w=bg
-bkz serdar ortaç a orta osya ya dön demek
 https://www.uludagsozluk.com/k/bir-t%C3%BCrk%C3%A7%C3%BCye-orta-asya-ya-d%C3%B6n-demek/ 
 bkz putin erdoğanı 2 dk ayakta bekletti yalanı tapeleri
 https://rall.uludagsozluk.com
