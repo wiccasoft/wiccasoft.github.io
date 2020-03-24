@@ -3,7 +3,9 @@
 
 <!--
 https://www.uludagsozluk.com/k/nap%C4%B1yorsunuz-lan-ibneler/&w=bg
+https://www.uludagsozluk.com/k/samsun-dan-adam-%C3%A7%C4%B1kmamas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg yedirmeyin bunları
+https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/
 https://www.uludagsozluk.com/k/24-mart-2020-muslera-n%C4%B1n-geri-vites-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/hastan%C4%B1n-ex-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani-ye-onurlu-ya%C5%9Fam-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/&w=bg
