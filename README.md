@@ -1,5 +1,5 @@
 <!-- 
-bkz can ataklının rallın türbanlı annesini övmesi
+https://rall.uludagsozluk.com/ bkz can ataklının rallın türbanlı annesini övmesi
 https://www.uludagsozluk.com/k/can-atakl%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd 
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
