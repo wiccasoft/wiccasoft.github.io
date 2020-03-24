@@ -2,6 +2,9 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+https://serefsizimbenmaklimagelmisti.uludagsozluk.com/ 
+bkz 7 yaşında kadar masraf olmasın diye doğmayan tip
+https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-olup-hala-ailesi-ile-ya%C5%9Fayan-tip/
 bkz 42 yaşında olup babasından harçlık isteyen tip
 https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-olup-hala-ailesi-ile-ya%C5%9Fayan-tip/
 https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz messiyle iyi anlaşır kerata elimde büyüdü
