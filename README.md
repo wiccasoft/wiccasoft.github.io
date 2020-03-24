@@ -3,6 +3,7 @@
 
 <!--
 bkz fatih terimin nerde kalmıştık tweeti
+bkz twitter kapanırsa türkler ne linki atacak sorunsalı
 https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ bkz tıklağ mobile.twitter link açılsın 
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnlerinde-taksicilerin-zorluk-%C3%A7ekmeleri/
 https://www.uludagsozluk.com/k/k%C3%B6peksiz-sokaklar-istiyoruz/&w=bg 
