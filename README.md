@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz yarasa yiyip türk sikmek
 bkz kamalcıların futbolcuları stoklaması
 bkz twitterdaki bayan muslera yaşıyor mu sorunsalı
 bkz cehapelin musleranın virüslü topları kurtarmam demesi
