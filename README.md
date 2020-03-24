@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz musleranın erdoğana virüs demesi
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg
 bkz selçuk inanın erdoğana verdiği efso ayar
 bkz receğ tayyiğ erdoğan vs muslera
