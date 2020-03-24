@@ -2,9 +2,9 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
-https://james-earl-cash.uludagsozluk.com/ bkz murat övünç ün videoları
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg tıklayğım .zleyğlim
 bkz musleranın yanlış anlaşılması
+https://james-earl-cash.uludagsozluk.com/ bkz murat övünç ün videoları resmi sponsoru
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg tıklayğım .zleyğlim
 bkz atsızcılar ümreciler kavgası
 bkz musleranın yanlış anlaşıması
 bkz kerimcan durmazın malafatı çıkarıp sallaması
