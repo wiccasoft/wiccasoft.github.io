@@ -5,6 +5,7 @@
 bkz o son yarasayı yemeyecektik
 bkz selçuk inanın sözlerinin çarpıtılması
 bkz messinin ronaldo balon açıklaması
+bkz yılmaz özdilin ordu göreve çağrısı
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/%C3%A7in-de-bir-yav%C5%9Fak-yarasa-yedi/
 https://www.uludagsozluk.com/k/%C3%A7in-ak%C4%B1ll%C4%B1-ol-yedi%C4%9Fine-dikkat-et/ peki abi
