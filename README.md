@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz selçuk inanın yedirmeyiz
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F-%C3%B6lmesin-o-b%C3%BCy%C3%BCk-bir-de%C4%9Fer/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz bilemiyorum altan bilemiyorum
 bkz melonun muslerayı destklemesi
