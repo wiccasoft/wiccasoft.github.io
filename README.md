@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz ümrecilerin mobile.twitter linki bulamaması
 bkz karantina günlerinde mobile.twitter linki bulmanın zorlaşması len mq
 bkz cehapelin fegholinin akpli var kararlarını karantinaya alması
 bkz fatih tezcanın fatih terime işini yap uyarısı
