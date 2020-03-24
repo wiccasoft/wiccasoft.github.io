@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/israil-sa%C4%9Fl%C4%B1k-bakan%C4%B1/
 https://www.uludagsozluk.com/k/diyanet-in-vir%C3%BCs-i%C3%A7in-camilerde-dua-okutmas%C4%B1/&w=bg
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 -->
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
