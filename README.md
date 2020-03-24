@@ -1,4 +1,5 @@
 <!--
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
 bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz batman
