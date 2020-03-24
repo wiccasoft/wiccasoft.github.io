@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1n-musleraya-verece%C4%9Fi-cevap/
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-s%C3%B6zle%C5%9Fmesinin-feshedilmesi/
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
