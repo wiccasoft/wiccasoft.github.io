@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/ats%C4%B1zc%C4%B1lar%C4%B1-at-%C3%A7iftli%C4%9Fine-g%C3%B6t%C3%BCrmek/
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg bkz alengirli isimler
 bkz abdurrahim albayrakın musleranın kulağını çekmesi
 bkz fatih terimin fegholiyi yedeğe alması
