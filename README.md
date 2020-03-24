@@ -3,6 +3,7 @@
 
 <!-- 
 bkz musleranın yanlış anlaşılması
+https://www.uludagsozluk.com/k/ronaldo-gaucho-de-assis-moreira/&w=bg dünyanın en iyisi
 https://james-earl-cash.uludagsozluk.com/ bkz murat övünç ün videoları resmi sponsoru
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg tıklayğım .zleyğlim
 bkz atsızcılar ümreciler kavgası
