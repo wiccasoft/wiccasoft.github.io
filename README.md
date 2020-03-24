@@ -1,4 +1,5 @@
 <!--
+bkz can ataklının rallın annesi seniha yıldırıma sarkaması
 bkz erkekçe vuruşmaktan korkan erkek
 bkz çukur vuruşma sahnelerinde ay diyen erkek
 https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ney olması
