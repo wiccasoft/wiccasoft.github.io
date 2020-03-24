@@ -1,5 +1,5 @@
 <!-- 
-https://www.youtube.com/watch?v=ThRZ3UZj9Oc
+https://www.youtube.com/watch?v=ThRZ3UZj9Oc zuahhahaha daha yazı yazamıyor amk
 bkz binali yıldırımın yasşlı öğretmeni savunması
 bkz rallın imamoğlunun unutması
 bkz can ataklının rallın annesini hoplatması
