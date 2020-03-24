@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://rall.uludagsozluk.com/ bkz şaka maka rallın imamoğlanı unutması
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
 bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
