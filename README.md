@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg bkz xavi vs iyeste 
 https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz messiyle iyi anlaşır kerata elimde büyüdü
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz karar vermesi zor sorular
 https://www.uludagsozluk.com/k/xavi-hernandez/&w=bg bkz xavinin çalımlarının yanlış anlaşılması
