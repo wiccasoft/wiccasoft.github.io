@@ -1,6 +1,6 @@
 <!--
 https://rall.uludagsozluk.com/ bkz şaka maka rallın imamoğlanı unutması
-bkz seniha yıldırımın oğlu rallın dünyaya verdiği ders
+bkz seniha yıldırımın gerizkelı oğlu rallın dünyaya verdiği ders
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd
 bkz rall ın binali yıdlrımın şişko oğlu çıkması
 bkz rasim özkan kütahyalı beyaz futbola dönme sinyalleri yakması
