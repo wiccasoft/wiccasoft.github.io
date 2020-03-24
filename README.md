@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!--
+https://www.youtube.com/watch?v=uwSBu9fHo2w
 bkz yılmaz erdoğanın erdoğanın takımına attığı gol
 bkz yılmaz erdoğanın sessizliğin koruması
 bkz yılmaz özdilin orduyu göreve çağırması
