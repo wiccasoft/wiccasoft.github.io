@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+bkz receğ tayyiğ erdoğan vs muslera
 bkz musleranın tayyipe boru gibi döşemesi
 bkz selçuk inanın yedirmeyiz
 bkz melonun tayyipe verdiği ayar tıkla haber açılsın len mq
