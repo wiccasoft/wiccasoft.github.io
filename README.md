@@ -1,4 +1,5 @@
 <!--
+bkz rallın imamoğlanı unutması
 bkz seniha yıldırımın oğlu rall
 bkz can ataklının rallın annesi seniha yıldırıma sarkaması
 bkz erkekçe vuruşmaktan korkan erkek
