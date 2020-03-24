@@ -1,4 +1,5 @@
 <!-- 
+bkz can ataklının rallın annesini hoplatması
 bkz aslan akbey niye duran emmiyi hoplattı sorunsalı
 bkz fatih terimin fegholidsen kurtulma imkanı
 bkz can dündarın türbnalı anneler en güzel annelerdir yazısı
