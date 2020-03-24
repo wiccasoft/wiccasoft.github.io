@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz bilemiyorum altan bilemiyorum
+bkz melonun muslerayı destklemesi
 bkz musleranın gündemi bombe gibi değiştirmesi
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-muslera/
 bkz abdurrahim albyrakın üj mülyon yüto daha verelim ramosu alalım önerisi
