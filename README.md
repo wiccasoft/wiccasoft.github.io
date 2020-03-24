@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
+https://www.uludagsozluk.com/k/gen%C3%A7-erkeklerin-yatakta-acemi-olmas%C4%B1/
 bkz çukur vuruşma sahnelerinde ay diyen erkek
 bkz adanalı erkeklerin vuruşmaktan korkması
 bkz adam gibi vuruşamayan erkek
