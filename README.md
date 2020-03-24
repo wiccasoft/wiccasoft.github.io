@@ -4,6 +4,7 @@
 <!--
 bkz selçuk inanını yedirmeyiz
 bkz musleranın erdoğana virüs demesi
+bkz ultra aslanların muslerayı yedirmeyiz paylaşımı 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz muslera
 https://www.uludagsozluk.com/k/muslera-n%C4%B1n-h%C3%BCk%C3%BCmeti-ele%C5%9Ftirmesi/
 https://www.uludagsozluk.com/k/muslera-dan-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-a-skandal-s%C3%B6zler/
