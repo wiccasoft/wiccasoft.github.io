@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 <!-- 
-bkz adam gibi vuruşamayan erkek
+bkz yılmaz zödilin dözili göreve davet etmesi
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg
 https://www.uludagsozluk.com/k/berberinizi-kaslı-bir-erkekle-paylaşır-mısınız/
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-ordu-g%C3%B6reve-%C3%A7a%C4%9Fr%C4%B1ls%C4%B1n-demesi/
