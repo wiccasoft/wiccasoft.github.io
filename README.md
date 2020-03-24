@@ -4,6 +4,7 @@
 <!-- 
 bkz musleradan erdoya siyaseti adabınla yap uyarısı
 https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg
+bkz musleranın erdoya yavşaklığı bırak siyasetini yap uyarısı
 bkz neymardan macrona siyaseti futbola karıştırma uyarısı
 https://www.uludagsozluk.com/k/ziya-sel%C3%A7uk/&w=bg bkz atma ziya
 https://www.uludagsozluk.com/k/besim-tibuk/&w=bg bkz bütün sınırları kapatırsak terörik biter 
