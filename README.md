@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/otomatik-vites/&w=bg bkz muslera geri vitesi
 bkz düşün ki muslera yazdıklarını okuyor
 https://www.uludagsozluk.com/k/chp-li-vs-hdp-li/&w=bg
 https://www.uludagsozluk.com/k/feminist-pkkl%C4%B1lar%C4%B1n-%C3%B6%C4%9Frencilere-sald%C4%B1rmas%C4%B1/
