@@ -1,62 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
-<!--
-bkz çukur vuruşma sahnelerinde aşkım romantik film aç diyen erkek
-bkz vuruşmaktan korkan erkeklerin biraz şey olması
-https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
-https://www.uludagsozluk.com/k/fare-yiyen-%C3%A7inli-gen%C3%A7/ twitter linki atan genç
-bkz rokun kaldırırım indiririm demesi
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-bkz şaka maka rallın seniha yıldırımın gerizekalı oğlu çıkması
-bkz 1881 atacüc 18+81 = 99 - (81-batman) = covid19
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sevilmedi%C4%9Fi-%C5%9Fehirler/&w=bg bkz batman
-bkz rallın imamaoğlanın unutup ümmet yoluna girmesi
-bkz rallın imamoğlanı unutması
-bkz seniha yıldırımın oğlu rall
-bkz can ataklının rallın annesi seniha yıldırıma sarkaması
-bkz erkekçe vuruşmaktan korkan erkek
-bkz çukur vuruşma sahnelerinde ay diyen erkek
-https://www.uludagsozluk.com/k/romantik-hayal-kuran-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ney olması
-https://rall.uludagsozluk.com/ bkz şaka maka rallın imamoğlanı unutması
-bkz seniha yıldırımın gerizekalı oğlu rallın güldürmesi
-https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd
-bkz rall ın binali yıdlrımın şişko oğlu çıkması
-bkz rasim özkan kütahyalı beyaz futbola dönme sinyalleri yakması
-bkz rasim özkan kütahyalı kütahyalı mı sorunsalı
-https://www.uludagsozluk.com/k/zeus-un-ger%C3%A7ek-tanr%C4%B1-%C3%A7%C4%B1kmas%C4%B1-ihtimali/&w=gd bkz zeusun oğlu
-https://www.uludagsozluk.com/k/erkeklerin-korkak-olmas%C4%B1/&w=gd bkz vuruşmaktan korkan erkek
-https://www.uludagsozluk.com/k/fatih-terim-in-hastalanmas%C4%B1-%C5%9Ferefine-i%C3%A7ki-i%C3%A7en-tip/ lol
-https://www.uludagsozluk.com/k/erkeklerin-korkak-olmas%C4%B1/&w=bg
-https://eksisozluk.com/yasli-adami-cevirip-korkutan-kisi--6432093?a=popular
-https://www.uludagsozluk.com/k/ulucular%C4%B1n-favori-erkek-pornostarlar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-gencin-i%C3%A7eri-al%C4%B1nmas%C4%B1/
-https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=bg
-bkz yaşlı amcayı korkutan ibneler mobile.twitter linki attm tıklağ izleğ
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-ibneler/
-https://www.youtube.com/watch?v=ThRZ3UZj9Oc zuahhahaha 
-bkz binali yıldırımın yasşlı amcayı savunması
-bkz rallın imamoğlunun unutması
-bkz can ataklının rallın annesini hoplatması
-bkz aslan akbey niye duran emmiyi hoplattı sorunsalı
-bkz fatih terimin fegholidsen kurtulma imkanı
-bkz can dündarın türbnalı anneler en güzel annelerdir yazısı
-bkz fatih terimini fegholiden kurtulam ihtimali
-https://www.uludagsozluk.com/k/fatih-terim-in-vir%C3%BCsten-kurtulma-ihtimali/&w=bg
-bkz can ataklının başörtülü annelere sarkması
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-amcay%C4%B1-korkutan-ibneler/ bkz genç amcaya yapsanıza ibneler
-https://www.uludagsozluk.com/e/41905691/ bkz seyfo dayının aslan akbeyi hoplattığı tapeler
-bkz can dündarın mit tırları yazısı
-bkz aslan akbeyin seyfo dayıyla yaşadığı yasak ilişki
-bkz aslan akbeyin duran emmiyle sevişme tapelerini yok etmesi
-https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
-https://rall.uludagsozluk.com/ bkz can ataklının rallın türbanlı annesini övmesi
-https://www.uludagsozluk.com/k/can-atakl%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd 
-https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
-bkz aslan akbeyin seyfo dayıyla sevişme tapelerini yok etmesi
--->
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
