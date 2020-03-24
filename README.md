@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )+
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-%C3%A7ok-al%C4%B1ngan-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kusturmal%C4%B1-talisca-saksosu/&w=bg
 https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg bkz yedirmeyiz
 https://www.uludagsozluk.com/k/otomatik-vites/&w=bg bkz muslera vitesi
