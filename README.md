@@ -5,6 +5,7 @@
 bkz gaffur okan cinayeti
 bkz deliyürek cavit19 cehennemi
 bkz cavit19 un vatana haini olması
+bkz fatih terzcan murat karakovid güzellemesi
 bkz corona türktür türk kalacaktır aponun itleri yıldıramaz kovidcileri
 https://www.uludagsozluk.com/k/kemalizm/&w=bg bkz kemalist kişilik bozukluğu
 https://www.uludagsozluk.com/k/cavit19/ bkz korkmayın benim troll amaçlı açtım
