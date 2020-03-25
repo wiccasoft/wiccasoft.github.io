@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+https://james-earl-cash.uludagsozluk.com/ bkz kıvrak tik tokçu çıtır erkek avcıcı
 https://james-earl-cash.uludagsozluk.com/ bkz abiye kıvıran erkek çekin izlesin
 https://www.uludagsozluk.com/k/shakira-gibi-k%C4%B1v%C4%B1ran-erkek-tiktok%C3%A7u/ 
 bkz deniz gezmişin abaza olduğu iddaları
