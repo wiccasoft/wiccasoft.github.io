@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz gaffur okan cinayeti deliyürek bumerang cehennemi
+bkz gaffur okan cinayeti
+bkz deliyürek bumerang cehennemi
 bkz muhsin yazcıoğlanın helihopterini düşürenle kobe braynt ın helihopterini düşüren aynı terörist grup olması
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis 
 https://www.pinterest.com/wiccasoft/ 
