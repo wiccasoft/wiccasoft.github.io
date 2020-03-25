@@ -1,14 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
-<!-- 
-bkz musleradan erdoya siyaseti adabınla yap uyarısı
-https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg
-bkz musleranın erdoya yavşaklığı bırak siyasetini yap uyarısı
-bkz neymardan macrona siyaseti futbola karıştırma uyarısı
-https://www.uludagsozluk.com/k/ziya-sel%C3%A7uk/&w=bg bkz atma ziya
--->
-
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
 
 [![Image](waste/Screenshot_2020-03-20_10-55-47.png)]( https://www.youtube.com/watch?v=pneoCZSiofI )
