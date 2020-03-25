@@ -2,7 +2,6 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz gaffur okan cinayeti
 bkz deliyürek cavit19 cehennemi
 bkz cavit19 un vatan haini olması
 bkz fatih terzcan murat karakovid güzellemesi
@@ -12,7 +11,6 @@ https://www.uludagsozluk.com/k/fatih-te-camide-ya%C5%9Fanan-skandal-olay/&w=bg b
 https://www.uludagsozluk.com/k/i%C3%A7i-ve-d%C4%B1%C5%9F-kin-ve-nefret-dolu-habis-yarat%C4%B1klar/ bkz fatih tezcan
 bkz corona türktür türk kalacaktır aponun itleri yıldıramaz kovidcileri
 https://www.uludagsozluk.com/k/cavit19/ 
-bkz muhsin yazcıoğlanın helihopterini düşürenle kobe braynt ın helihopterini düşüren aynı terörist grup olması
 https://www.pinterest.com/wiccasoft/ 
 bkz murat karayılanı öven terörist hesaplar
 https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcan tweetlerini hatim etmek
