@@ -2,8 +2,16 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz deniz gezmişin abaza olduğu iddaları
+bkz fatih tezcan dan fatih terime işini yap uyarısı
+bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
+bkz 25 ocak 2020 ümmetcilerin kovidcilere saldırması
+bkz karatay atsız artasındaki gerilim
+bkz 25 ocak 2020 bacelinin atsız şiiri okuması
+bkz atsızcılar musleracılar arasındaki kavga
+bkz musleradan erdoya siyaseti adabınla yap uyarısı
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reis
-bkz hüseyin nihal atsızın deniz gezmişe abaza demesi -->
+-->
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
