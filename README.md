@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BCn-havada-as%C4%B1l%C4%B1-kalma-%C3%B6zelli%C4%9Fi/ lol
 bkz yılamz yozdilin pozitif çıkması fahrettinin söylememesi
 https://www.uludagsozluk.com/k/%C5%9F%C3%BCkr%C3%BC-erba%C5%9F/&w=bg aha bu da gitti pozitif çıkmış
 bkz kral arthur un hiv negatif çıkması
