@@ -2,7 +2,6 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz düşün ki bir sabah uyandın fatih tezcan tweet atmamış
 https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcanın tweetlerini hatim etmek
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-auras%C4%B1n%C4%B1-berrak-hissetmesi/
