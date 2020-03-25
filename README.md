@@ -8,10 +8,8 @@ bkz cavit19 un vatan haini olması
 bkz fatih terzcan murat karakovid güzellemesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
 bkz corona türktür türk kalacaktır aponun itleri yıldıramaz kovidcileri
-https://www.uludagsozluk.com/k/kemalizm/&w=bg bkz kemalist kişilik bozukluğu
-https://www.uludagsozluk.com/k/cavit19/ bkz korkmayın benim troll amaçlı açtım
+https://www.uludagsozluk.com/k/cavit19/ 
 bkz muhsin yazcıoğlanın helihopterini düşürenle kobe braynt ın helihopterini düşüren aynı terörist grup olması
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis 
 https://www.pinterest.com/wiccasoft/ 
 bkz murat karayılanı öven terörist hesaplar
 https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcan tweetlerini hatim etmek
