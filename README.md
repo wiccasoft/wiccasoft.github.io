@@ -1,4 +1,5 @@
 <!-- https://newsvideo.su/video/12468849 lol 
+bkz burak özçivitin bakışlarıyla virüsü eritmesi
 https://www.uludagsozluk.com/k/dwayne-johnson/&w=bg adam manyak olm
 https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi
 -->
