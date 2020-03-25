@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz yılmaz özdil murat karakovid güzellemesi
 bkz enver ayseverin aysever olması
 bkz misvak dergisinin enver ayseveri ay şeklinde çizmesi
 bkz misvak dergisi facebook sayfası
