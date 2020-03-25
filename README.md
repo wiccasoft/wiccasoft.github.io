@@ -5,6 +5,8 @@
 bkz gaffur okan cinayeti
 bkz deliyürek cavit19 cehennemi
 bkz cavit19 un vatan haini olması
+bkz fatih dezcanın bağımlılık yaptığı gerçeği
+bkz fatih deyince bile akla tezcanın gelmesi
 bkz fatih tezcandan nefret etmek ama uzak duramamak
 bkz fatih terzcan murat karakovid güzellemesi
 bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
