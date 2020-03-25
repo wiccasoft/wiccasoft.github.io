@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reis
 bkz hadi ben kaçıyom var mı bi isteğiniz olimpostan
 https://www.uludagsozluk.com/k/abaza-deniz-gezmi%C5%9F/
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg üşüyoruz reis
