@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz cana tataklının rallın annesine türbanlı demesi
+bkz can tataklının rallın annesine türbanlı demesi
+https://www.uludagsozluk.com/k/kemalizm/&w=gd dünyanın en komik ideolojisi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg bkz belgeler konuşur
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd
 https://james-earl-cash.uludagsozluk.com/  bkz kimse kusura bakmasın ama ağır gay
