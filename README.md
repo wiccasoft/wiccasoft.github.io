@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz yılmaz yozdil murat karakaypak güzellemesi
 bkz yılmaz yozdil 65 yaş üstü kaypak yazısı
 bkz yılmaz yozdik ibrahim kaypakkaya kaypaktı yazısı
 bkz mustafa gengiz kaypaklığı
