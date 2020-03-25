@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz her cümlenin sonun kimse kusura bakmasın diyen ergen
 https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1ndaki-%C3%A7ayc%C4%B1/ ay deme öyle
 https://www.uludagsozluk.com/k/solu%C4%9Fudumuz-havada-vir%C3%BCs-olma-ihtimali/ solduğun şeyi hava mı sanıyorsun malak
 https://www.uludagsozluk.com/k/jesse-pinkman-%C4%B1n-a%C4%9Flak-bir-pi%C3%A7-olmas%C4%B1/&w=bg lol
