@@ -1,29 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
-<!--
-bkz atacücün sebatayist olduğu iddaları
-bkz sokullu memet paşa olsaydı bunlar olmazdı diyen dede
-bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
-bkz küçücük virüsten korkan koca koca devletler 
-bkz at burcu erkeği coronalı kız ilişkisi
-https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/sokullu-mehmed-pa%C5%9Fa/&w=bg bkz iyi sokardı rahmetli
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-insan-oldu%C4%9Funu-unutan-savunucular%C4%B1/&w=bg
-bkz yılmaz yozdil 65 üstüne oç demesi
-bkz can tataklı yarasa güzellemesi
-bkz yılmaz yozdil enver aysever güzellemesi
-bkz fatih terzcan murat karakovid güzellemesi
-bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
-https://www.uludagsozluk.com/k/fatih-te-camide-ya%C5%9Fanan-skandal-olay/&w=bg bkz fatih tezcan
-https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcan tweetlerini hatim etmek
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-auras%C4%B1n%C4%B1-berrak-hissetmesi/
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-fethullah-g%C3%BClen-sevgisi/ 
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
-https://www.uludagsozluk.com/k/ba%C5%9Flar%C4%B1m-coronan%C4%B1za-su-t%C3%BCketimi-y%C3%BCzde-25-artm%C4%B1%C5%9F/&w=gd
--->
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
