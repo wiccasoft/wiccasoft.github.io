@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz can tataklı başörtü covid benzetmesi
 bkz yılmaz yozdil atacücü güzellemesi
 bkz fatih tezcan murat karayılan güzellemesi
 bkz alpaslan türkeş fettullah gülen güzellemesi
