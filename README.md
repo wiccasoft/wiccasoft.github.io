@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz 25 ocak 2020 ümmetcilerin kovidcilere saldırması
 bkz karatay atsız artasındaki gerilim
 bkz 25 ocak 2020 bacelinin atsız şiiri okuması
 bkz atsızcılar musleracılar arasındaki kavga
