@@ -1,8 +1,6 @@
 <!-- https://newsvideo.su/video/12468849 lol 
-bkz burak özçivitin bakışlarıyla virüsü eritmesi
-https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg bkz halkı için savaşan kahraman
 https://www.uludagsozluk.com/k/vir%C3%BCsten-ka%C3%A7%C4%B1%C5%9F-yok-hepimiz-yakalanaca%C4%9F%C4%B1z/
-https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi
+https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi 
 -->
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
