@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz atacücünnü sabetaycı atacüccüst olduğu iddaları
 bkz atacücünün sabetycı atacücücü olduğu iddaları
 bkz deniz gezmişin abaza olduğu iddaları
 bkz atacücünün ateist sabatayist olduğu iddaları
