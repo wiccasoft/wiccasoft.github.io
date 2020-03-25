@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz fatih tezcanın analiz merkezini olimposa taşıması
 bkz fatih tezcan nın muhittin yazıcıoğlan a verdiği ayar
 bkz fatih tezcanın fatih terime işin yap uyarısı
 bkz hüzeyin nihal atsıza entry girerken güngörende ölü bulunan ergen
