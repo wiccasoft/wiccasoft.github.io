@@ -4,7 +4,7 @@
 bkz kral arthur un hiv negatif çıkması
 https://www.uludagsozluk.com/k/70-80-ya%C5%9F%C4%B1ndaki-prens/ bkz neyse ki virüs 65 yaş üstünü öldürüyor hihihih
 https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz demet özdemir kim amk ha havuzu varmış 
-https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/  bkz korku filmi gibi karı
+https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz korku filmi gibi karı
 -->
 
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
