@@ -5,6 +5,7 @@
 bkz gaffur okan cinayeti
 bkz deliyürek cavit19 cehennemi
 bkz cavit19 un vatan haini olması
+bkz fatih tezcandan nefret etmek ama uzak duramamak
 bkz fatih terzcan murat karakovid güzellemesi
 bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
