@@ -8,6 +8,7 @@ bkz fatih terzcan murat karakovid güzellemesi
 bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
 https://www.uludagsozluk.com/k/fatih-te-camide-ya%C5%9Fanan-skandal-olay/&w=bg bkz fatih tezcan
+bkz fatih tezcanın fatiha suresiyle dalga geçemesi
 https://www.uludagsozluk.com/k/i%C3%A7i-ve-d%C4%B1%C5%9F-kin-ve-nefret-dolu-habis-yarat%C4%B1klar/ bkz fatih tezcan
 bkz corona türktür türk kalacaktır aponun itleri yıldıramaz kovidcileri
 https://www.uludagsozluk.com/k/cavit19/ 
