@@ -1,16 +1,5 @@
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
-<!-- 
-https://newsvideo.su/video/12468849 lol 
-https://www.youtube.com/watch?v=JSVfLljV5aM genç başarı
-https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/&w=gd canavar canavar istifa etmesin bence
-https://www.youtube.com/watch?v=qgylp3Td1Bw akıyo maşşallah
-https://www.uludagsozluk.com/k/vir%C3%BCs-derken-duda%C4%9F%C4%B1n-ald%C4%B1%C4%9F%C4%B1-%C5%9Fekil/ lol
-https://www.uludagsozluk.com/k/rusyan%C4%B1n-vir%C3%BCs-bahanesiyle-italyay%C4%B1-i%C5%9Fgal-etmesi/ hihihi
-https://www.uludagsozluk.com/k/vir%C3%BCsten-ka%C3%A7%C4%B1%C5%9F-yok-hepimiz-yakalanaca%C4%9F%C4%B1z/
-https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi 
--->
-
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
