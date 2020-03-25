@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg
 bkz musleranın erdoya yavşaklığı bırak siyasetini yap uyarısı
 bkz neymardan macrona siyaseti futbola karıştırma uyarısı
 https://www.uludagsozluk.com/k/ziya-sel%C3%A7uk/&w=bg bkz atma ziya
+https://www.uludagsozluk.com/k/adanal%C4%B1lardaki-a%C5%9F%C4%B1r%C4%B1-korkakl%C4%B1%C4%9F%C4%B1n-sebebi/
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan adam gibi adam
 https://www.uludagsozluk.com/k/prens-chales-e-korona-vir%C3%BCs-te%C5%9Fhisi-konmas%C4%B1/ bkz ay nolur olmasın ya
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=gd bkz at hırsızı
