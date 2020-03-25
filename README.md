@@ -1,3 +1,5 @@
+[![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
+
 <!-- 
 https://newsvideo.su/video/12468849 lol 
 https://www.youtube.com/watch?v=JSVfLljV5aM genç başarı
