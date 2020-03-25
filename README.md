@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz küçücük virüsten korkan koca koca devletler
 bkz at burcu erkeği coronalı kız ilşkisi
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sokullu-mehmed-pa%C5%9Fa/&w=bg bkz iyi sokardı rahmetli
