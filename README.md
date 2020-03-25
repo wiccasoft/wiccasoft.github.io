@@ -2,6 +2,7 @@
 
 <!--
 bkz kral arthur un hiv negatif çıkması
+bkz fatih terim yerine yeni teknik traktör önerileri
 https://www.uludagsozluk.com/k/70-80-ya%C5%9F%C4%B1ndaki-prens/ bkz neyse ki virüs 65 yaş üstünü öldürüyor hihihih
 https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz demet özdemir kim amk ha havuzu varmış 
 https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz açmayın korkunçlu karı
