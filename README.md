@@ -1,27 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
-<!-- 
-bkz can tataklının rallın annesine türbanlı demesi
-https://www.uludagsozluk.com/k/kemalizm/&w=gd dünyanın en komik ideolojisi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg bkz belgeler konuşur
-https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd
-https://james-earl-cash.uludagsozluk.com/  bkz kimse kusura bakmasın ama ağır gay
-https://james-earl-cash.uludagsozluk.com/  bkz murat övünç sen misin ablası? 
-https://james-earl-cash.uludagsozluk.com/ bkz kıvrak tik tokçu çıtır erkek avcıcı
-https://james-earl-cash.uludagsozluk.com/ bkz ablaya kıvıran erkek çekin izlesin
-https://www.uludagsozluk.com/k/shakira-gibi-k%C4%B1v%C4%B1ran-erkek-tiktok%C3%A7u/ 
-bkz deniz gezmişin abaza olduğu iddaları
-bkz fatih tezcan dan fatih terime işini yap uyarısı
-bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
-bkz 25 ocak 2020 ümmetcilerin kovidcilere saldırması
-bkz karatay atsız artasındaki gerilim
-bkz 25 ocak 2020 bacelinin atsız şiiri okuması
-bkz atsızcılar musleracılar arasındaki kavga
-bkz musleradan erdoya siyaseti adabınla yap uyarısı
-https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reis
--->
-
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
