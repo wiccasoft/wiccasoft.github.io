@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
-https://www.uludagsozluk.com/k/hüseyin-nihal-atsız/&w=bg cc üşüyoruz reis atımı al senin olsun ccc
+https://www.uludagsozluk.com/k/hüseyin-nihal-atsız/&w=bg ccc üşümüyorum reis atımı al senin olsun ccc
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis
 https://www.uludagsozluk.com/k/s%C4%B1la-seni-arad%C4%B1-hangi-s%C4%B1la-gayri-safi-milli-has%C4%B1la/ -->
 
