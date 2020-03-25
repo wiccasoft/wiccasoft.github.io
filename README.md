@@ -3,7 +3,7 @@
 
 <!-- 
 https://james-earl-cash.uludagsozluk.com/ bkz kıvrak tik tokçu çıtır erkek avcıcı
-https://james-earl-cash.uludagsozluk.com/ bkz abiye kıvıran erkek çekin izlesin
+https://james-earl-cash.uludagsozluk.com/ bkz ablaya kıvıran erkek çekin izlesin
 https://www.uludagsozluk.com/k/shakira-gibi-k%C4%B1v%C4%B1ran-erkek-tiktok%C3%A7u/ 
 bkz deniz gezmişin abaza olduğu iddaları
 bkz fatih tezcan dan fatih terime işini yap uyarısı
