@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz can tataklı yarasa güzellemesi
 bkz yılmaz yozdil enver aysever güzellemesi
 bkz fatih terzcan murat karakovid güzellemesi
 bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
