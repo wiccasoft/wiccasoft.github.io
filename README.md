@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz cana tataklının rallın annesine başörtülü demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg bkz belgeler konuşur
 https://www.uludagsozluk.com/k/ali-ihsan-yava%C5%9F%C3%A7a-n%C4%B1n-h%C3%BCz%C3%BCnl%C3%BC-hikayesi/
 bkz damadın trabzonu şampiyon yapacağı gerçeği
