@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz mustafa gengiz kaypaklığı
 bkz misvak dergisi murat karakovid karikatürü
 bkz misvak dergisi enver aysever karikatürü
 bkz can tataklı başörtü covid benzetmesi
