@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz elif can terim fatih terim arasındaki dostluk
 bkz fatih tezcan dan fatih terime işini yap uyarısı
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz 25 ocak 2020 ümmetcilerin kovidcilere saldırması
