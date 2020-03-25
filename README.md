@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+https://www.uludagsozluk.com/k/ali-ihsan-yava%C5%9F%C3%A7a-n%C4%B1n-h%C3%BCz%C3%BCnl%C3%BC-hikayesi/
 bkz damadın trabzonu şampiyon yapacağı gerçeği
 https://www.uludagsozluk.com/k/galatasaray-%C5%9Fampiyon-olmak-i%C3%A7in-her%C5%9Feyi-yaparm%C4%B1/
 bkz atacücünün atayız olduğu gerçeği
