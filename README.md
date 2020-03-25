@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz deliyürek cavit19 cehennemi
+bkz deliyürek fatih19 cehennemi
 bkz cavit19 un vatan haini olması
 bkz fatih terzcan murat karakovid güzellemesi
 bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
