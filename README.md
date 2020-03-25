@@ -1,34 +1,7 @@
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
-<!-- 
-https://www.uludagsozluk.com/k/misvak-dergisinin-enver-aysever-karikat%C3%BCr%C3%BC/ zuahhahaha
-bkz yılmaz özdil murat karakovid güzellemesi
-bkz enver ayseverin aysever olması
-bkz misvak dergisinin enver ayseveri ay şeklinde çizmesi
-bkz misvak dergisi facebook sayfası
-bkz yılmaz yozdil murat karakaypak güzellemesi
-bkz yılmaz yozdil 65 yaş üstü kaypak yazısı
-bkz yılmaz yozdik ibrahim kaypakkaya kaypaktı yazısı
-bkz mustafa gengiz kaypaklığı
-bkz misvak dergisi murat karakovid karikatürü
-bkz misvak dergisi enver aysever karikatürü
-bkz can tataklı başörtü covid benzetmesi
-bkz yılmaz yozdil atacücü güzellemesi
-bkz fatih tezcan murat karayılan güzellemesi
-bkz alpaslan türkeş fettullah gülen güzellemesi
-https://www.uludagsozluk.com/k/r%C4%B1za-nur/&w=bg bkz ali rıza bey
-bkz hüseyin nihal atsız muhittin yazcıoğlan ilşkisi
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg bkz gaffur okan cinayeti
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/ 1954 elmalı köyünde doğmuş
-https://www.uludagsozluk.com/k/prens-charles/&w=bg bkz prens george un dedesi
-https://www.pinterest.com/wiccasoft/  bkz fatih tatakcan murat karayılan güzellmesi
-https://www.uludagsozluk.com/k/william-wallace-vs-maximus/ walla kızım ben ailem için girdim gerisinin amk
-https://www.pinterest.com/wiccasoft/ 
-bkz fatih tezcan murat karayılan güzellemesi
-bkz muhsin yazıcıoğlu kobe bryant ilişkisi
-bkz deliyürek cavit19 cehennemi
-bkz cavit19 un vatan haini olması
+<!--
 bkz fatih terzcan murat karakovid güzellemesi
 bkz fatih terzcanın murat karakovidi 2013 yılında bilmesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/&w=gd
