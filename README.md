@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+https://james-earl-cash.uludagsozluk.com/  bkz kimse kusura bakmasın ama ağır gay
 https://james-earl-cash.uludagsozluk.com/  bkz murat övünç sen misin ablası? 
 https://james-earl-cash.uludagsozluk.com/ bkz kıvrak tik tokçu çıtır erkek avcıcı
 https://james-earl-cash.uludagsozluk.com/ bkz ablaya kıvıran erkek çekin izlesin
