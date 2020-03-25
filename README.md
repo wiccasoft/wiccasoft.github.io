@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/ 1954 elmalı köyünde doğmuş
 https://www.uludagsozluk.com/k/prens-charles/&w=bg bkz prens george un dedesi
 https://www.pinterest.com/wiccasoft/  bkz murat karayılan güzellmesi
 https://www.uludagsozluk.com/k/william-wallace-vs-maximus/ walla kızım ben ailem için girdim gerisinin amk
