@@ -4,6 +4,7 @@
 <!-- 
 bkz gaffur okan cinayeti
 bkz deliyürek bumerang cehennemi
+https://www.uludagsozluk.com/k/cavit19/ bkz korkmayın benim troll amaçlı açtım
 bkz muhsin yazcıoğlanın helihopterini düşürenle kobe braynt ın helihopterini düşüren aynı terörist grup olması
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis 
 https://www.pinterest.com/wiccasoft/ 
