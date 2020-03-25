@@ -1,5 +1,6 @@
 <!-- 
 https://newsvideo.su/video/12468849 lol 
+https://www.youtube.com/watch?v=JSVfLljV5aM genç başarı
 https://www.uludagsozluk.com/k/nihat-%C3%B6zdemir/&w=gd canavar canavar istifa etmesin bence
 https://www.youtube.com/watch?v=qgylp3Td1Bw akıyo maşşallah
 https://www.uludagsozluk.com/k/vir%C3%BCs-derken-duda%C4%9F%C4%B1n-ald%C4%B1%C4%9F%C4%B1-%C5%9Fekil/ lol
