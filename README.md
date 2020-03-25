@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz damadın trabzonu şampiyon yapacağı gerçeği
+https://www.uludagsozluk.com/k/galatasaray-%C5%9Fampiyon-olmak-i%C3%A7in-her%C5%9Feyi-yaparm%C4%B1/
 bkz atacücünün atayız olduğu gerçeği
 bkz atacücünün atacücü olduğu iddaları
 bkz atacücünnü sabetaycı atacüccüst olduğu iddaları
