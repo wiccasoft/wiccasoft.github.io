@@ -1,6 +1,7 @@
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
+<!-- https://eksisozluk.com/ebadaki-pembe-ojeli-gogus-dekolteli-ogretmen--6434828?a=popular lol -->
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
