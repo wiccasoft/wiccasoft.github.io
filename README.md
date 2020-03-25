@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/k/ziya-sel%C3%A7uk/&w=bg bkz atma ziya
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan adam gibi adam
 https://www.uludagsozluk.com/k/prens-chales-e-korona-vir%C3%BCs-te%C5%9Fhisi-konmas%C4%B1/ bkz ay nolur olmasın ya
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=gd bkz at hırsızı
-https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz fatih tezcan -->
+https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz murat övünç -->
 
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
