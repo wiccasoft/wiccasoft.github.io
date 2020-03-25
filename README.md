@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+https://www.uludagsozluk.com/k/william-wallace-vs-maximus/ walla kızım ben ailem için girdim gerisinin amk
 https://www.pinterest.com/wiccasoft/ 
 bkz fatih tezcan murat karayılan güzellemesi
 bkz muhsin yazıcıoğlu kobe bryant ilişkisi
