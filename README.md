@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
-bkz sokulçu mhemet paşa olsaydı bunlar olmazdı diyen dede
+bkz sokullu mhemet paşa olsaydı bunlar olmazdı diyen dede
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-insan-oldu%C4%9Funu-unutan-savunucular%C4%B1/&w=bg
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz küçücük virüsten korkan koca koca devletler 
