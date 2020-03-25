@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+https://www.uludagsozluk.com/k/solu%C4%9Fudumuz-havada-vir%C3%BCs-olma-ihtimali/ solduğun şeyi hava mı sanıyorsun malak
 https://www.uludagsozluk.com/k/jesse-pinkman-%C4%B1n-a%C4%9Flak-bir-pi%C3%A7-olmas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=gd üşüyoruz reis
 bkz murat övünçün murat bozla beraber bot bağladık demesi
