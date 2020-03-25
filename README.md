@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz murat övünçün murat bozla beraber bot bağladık demesi
 bkz her şeyi bırakıp olimpos a yerleşmek
 bkz elif can terim fatih terim arasındaki dostluk
 bkz fatih tezcan dan fatih terime işini yap uyarısı
