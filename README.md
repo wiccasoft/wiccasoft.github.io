@@ -1,4 +1,5 @@
 <!-- https://newsvideo.su/video/12468849 lol 
+https://www.uludagsozluk.com/k/rusyan%C4%B1n-vir%C3%BCs-bahanesiyle-italyay%C4%B1-i%C5%9Fgal-etmesi/ hihihi
 https://www.uludagsozluk.com/k/vir%C3%BCsten-ka%C3%A7%C4%B1%C5%9F-yok-hepimiz-yakalanaca%C4%9F%C4%B1z/
 https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi 
 -->
