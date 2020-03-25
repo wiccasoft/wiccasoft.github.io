@@ -3,6 +3,8 @@
 
 <!--
 bkz her cümlenin sonun kimse kusura bakmasın diyen ergen
+https://www.uludagsozluk.com/k/abaza-deniz-gezmi%C5%9F/
+https://www.uludagsozluk.com/k/t%C3%BCrk-insan%C4%B1n%C4%B1n-her-%C5%9Feyi-devletten-beklemesi/
 https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1ndaki-%C3%A7ayc%C4%B1/ ay deme öyle
 https://www.uludagsozluk.com/k/solu%C4%9Fudumuz-havada-vir%C3%BCs-olma-ihtimali/ solduğun şeyi hava mı sanıyorsun malak
 https://www.uludagsozluk.com/k/jesse-pinkman-%C4%B1n-a%C4%9Flak-bir-pi%C3%A7-olmas%C4%B1/&w=bg lol
