@@ -2,7 +2,9 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz can tatzklının rallın annesine türbanlı demesi
+bkz atacünün sebataycı olması hani ateistti lan
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg
+bkz can tataklının rallın annesine türbanlı demesi
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd
 https://james-earl-cash.uludagsozluk.com/  bkz kimse kusura bakmasın ama ağır gay
 https://james-earl-cash.uludagsozluk.com/  bkz murat övünç sen misin ablası? 
