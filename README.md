@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz fatih tezcanın twitter virüsüyüm demesi
 bkz atacünün sebataycı olması hani ateistti lan
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg
 bkz can tataklının rallın annesine türbanlı demesi
