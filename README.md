@@ -1,43 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
-<!--
-bkz deniz gezmişin abaza olduğu iddaları
-bkz şaka maka hüçük prens henry nin meghan uğruna tahtı bırakması
-bkz şaka maka fatih tezcan analiz merkezinin global marka olmaya başlaması
-bkz fatih tezcan nın muhittin yazıcıoğlan a verdiği ayar
-bkz fatih tezcanın fatih terime işin yap uyarısı
-bkz hüzeyin nihal atsıza entry girerken güngörende ölü bulunan ergen
-https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reis
-bkz hadi ben kaçıyom var mı bi isteğiniz olimpostan
-https://www.uludagsozluk.com/k/abaza-deniz-gezmi%C5%9F/
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg üşüyoruz reis
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=gd üşüyoruz reis
-https://www.uludagsozluk.com/k/t%C3%BCrk-insan%C4%B1n%C4%B1n-her-%C5%9Feyi-devletten-beklemesi/
-https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1ndaki-%C3%A7ayc%C4%B1/ ay deme öyle
-https://www.uludagsozluk.com/k/solu%C4%9Fudumuz-havada-vir%C3%BCs-olma-ihtimali/ solduğun şeyi hava mı sanıyorsun malak
-https://www.uludagsozluk.com/k/jesse-pinkman-%C4%B1n-a%C4%9Flak-bir-pi%C3%A7-olmas%C4%B1/&w=bg lol
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=gd üşüyoruz reis
-bkz murat övünçün murat bozla beraber bot bağladık demesi
-bkz her şeyi bırakıp olimpos a yerleşmek
-bkz elif can terim fatih terim arasındaki dostluk
-bkz fatih tezcan dan fatih terime işini yap uyarısı
-bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
-bkz 25 ocak 2020 ümmetcilerin kovidcilere saldırması
-bkz karatay atsız artasındaki gerilim
-bkz 25 ocak 2020 bacelinin atsız şiiri okuması
-bkz atsızcılar musleracılar arasındaki kavga
-bkz musleradan erdoya siyaseti adabınla yap uyarısı
-https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg
-bkz musleranın erdoya yavşaklığı bırak siyasetini yap uyarısı
-bkz neymardan macrona siyaseti futbola karıştırma uyarısı
-https://www.uludagsozluk.com/k/ziya-sel%C3%A7uk/&w=bg bkz atma ziya
-https://www.uludagsozluk.com/k/adanal%C4%B1lardaki-a%C5%9F%C4%B1r%C4%B1-korkakl%C4%B1%C4%9F%C4%B1n-sebebi/
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan adam gibi adam
-https://www.uludagsozluk.com/k/prens-chales-e-korona-vir%C3%BCs-te%C5%9Fhisi-konmas%C4%B1/ bkz ay nolur olmasın ya
-https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=gd bkz at hırsızı
-https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz murat övünç -->
-
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
