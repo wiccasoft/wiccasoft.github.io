@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9F%C3%BCkr%C3%BC-erba%C5%9F/&w=bg aha bu da gitti pozitif çıkmış
 bkz kral arthur un hiv negatif çıkması
 bkz fatih terim yerine yeni teknik traktör önerileri
 https://www.uludagsozluk.com/k/70-80-ya%C5%9F%C4%B1ndaki-prens/ bkz neyse ki virüs 65 yaş üstünü öldürüyor hihihih
