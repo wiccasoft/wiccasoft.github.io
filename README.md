@@ -2,7 +2,6 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-auras%C4%B1n%C4%B1-berrak-hissetmesi/
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-fethullah-g%C3%BClen-sevgisi/ 
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
