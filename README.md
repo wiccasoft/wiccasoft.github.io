@@ -2,7 +2,7 @@
 
 <!-- 
 https://newsvideo.su/video/12468849 lol 
-https://www.youtube.com/watch?v=qgylp3Td1Bw akıyo maşşallah
+https://www.youtube.com/watch?v=qgylp3Td1Bw akıyo maşşallah akıyo namıssız
 https://www.uludagsozluk.com/k/vir%C3%BCs-derken-duda%C4%9F%C4%B1n-ald%C4%B1%C4%9F%C4%B1-%C5%9Fekil/
 https://www.uludagsozluk.com/k/rusyan%C4%B1n-vir%C3%BCs-bahanesiyle-italyay%C4%B1-i%C5%9Fgal-etmesi/ hihihi
 https://www.uludagsozluk.com/k/vir%C3%BCsten-ka%C3%A7%C4%B1%C5%9F-yok-hepimiz-yakalanaca%C4%9F%C4%B1z/
