@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz fatih tezcanın fatih terime işini yap uyarısı
 bkz kim darşyna kardeşlerin kavga etmemesi
 bkz can tataklının rallın annesine türbanlı demesi
 bkz fatih tezcanın twitter virüsüyüm demesi
