@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
-bkz elleri avuşturup yaşlıların ölmesini bekleyip hihihihih yapmak
+https://www.uludagsozluk.com/k/prens-charles/ bkz beyaz atlı prens
 https://www.uludagsozluk.com/k/%C5%9F%C3%BCkr%C3%BC-erba%C5%9F/&w=bg bkz virüslü çıkan emice
 https://www.uludagsozluk.com/k/70-80-ya%C5%9F%C4%B1ndaki-prens/ bkz neyse ki virüs 65 yaş üstünü öldürüyor hihihih
 https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkbkz neyse kş virüs 65 yaş üstünü öldürüyorz demet özdemir kim amk ha havuzu varmış  -->
