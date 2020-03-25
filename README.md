@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz enver paşa
 https://www.uludagsozluk.com/k/r%C4%B1za-nur/&w=bg bkz ali rıza bey
 bkz hüseyin nihal atsız muhittin yazcıoğlan ilşkisi
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg bkz gaffur okan cinayeti
