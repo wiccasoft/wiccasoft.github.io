@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz düşün ki bir sabah uyandın fatih tezcan yok twitter da
 bkz fatih tezcan twitter ı kapatıp giderse olacaklar
 bkz fatih tezcanın karayılan tweetlerine ses etmeyen akitler
 https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcanın tweetlerini hatim etmek
