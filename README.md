@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+bkz kral arthur un hiv negatif çıkması
 https://www.uludagsozluk.com/k/70-80-ya%C5%9F%C4%B1ndaki-prens/ bkz neyse ki virüs 65 yaş üstünü öldürüyor hihihih
 https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz demet özdemir kim amk ha havuzu varmış 
 -->
