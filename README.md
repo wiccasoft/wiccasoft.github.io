@@ -4,6 +4,7 @@
 <!--
 bkz hadi ben kaçıyom var mı bi isteğiniz olimpostan
 https://www.uludagsozluk.com/k/abaza-deniz-gezmi%C5%9F/
+https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=gd üşüyoruz reis
 https://www.uludagsozluk.com/k/t%C3%BCrk-insan%C4%B1n%C4%B1n-her-%C5%9Feyi-devletten-beklemesi/
 https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1ndaki-%C3%A7ayc%C4%B1/ ay deme öyle
 https://www.uludagsozluk.com/k/solu%C4%9Fudumuz-havada-vir%C3%BCs-olma-ihtimali/ solduğun şeyi hava mı sanıyorsun malak
