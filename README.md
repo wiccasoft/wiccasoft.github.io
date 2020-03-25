@@ -4,12 +4,12 @@
 <!--
 bkz atacücün sebatayist olduğu iddaları
 bkz sokullu memet paşa olsaydı bunlar olmazdı diyen dede
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-insan-oldu%C4%9Funu-unutan-savunucular%C4%B1/&w=bg
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz küçücük virüsten korkan koca koca devletler 
 bkz at burcu erkeği coronalı kız ilişkisi
 https://www.uludagsozluk.com/k/rte-nin-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sokullu-mehmed-pa%C5%9Fa/&w=bg bkz iyi sokardı rahmetli
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-insan-oldu%C4%9Funu-unutan-savunucular%C4%B1/&w=bg
 bkz yılmaz yozdil 65 üstüne oç demesi
 bkz can tataklı yarasa güzellemesi
 bkz yılmaz yozdil enver aysever güzellemesi
