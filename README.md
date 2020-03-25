@@ -5,7 +5,7 @@
 bkz gaffur okan cinayeti
 bkz deliyürek cavit19 cehennemi
 bkz cavit19 un vatana haini olması
-bkz corona türktür tükr kalacaktır aponun itleri yıldıramaz kovidcileri
+bkz corona türktür türk kalacaktır aponun itleri yıldıramaz kovidcileri
 https://www.uludagsozluk.com/k/kemalizm/&w=bg bkz kemalist kişilik bozukluğu
 https://www.uludagsozluk.com/k/cavit19/ bkz korkmayın benim troll amaçlı açtım
 bkz muhsin yazcıoğlanın helihopterini düşürenle kobe braynt ın helihopterini düşüren aynı terörist grup olması
