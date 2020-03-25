@@ -1,5 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
+<!-- https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz demet özdemir kim amk ha havucuz varmış  -->
+
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
