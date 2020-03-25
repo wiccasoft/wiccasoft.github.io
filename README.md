@@ -1,4 +1,6 @@
-<!-- https://newsvideo.su/video/12468849 lol -->
+<!-- https://newsvideo.su/video/12468849 lol 
+https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi
+-->
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
