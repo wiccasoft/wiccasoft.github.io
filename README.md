@@ -1,16 +1,5 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
-<!-- 
-https://newsvideo.su/video/12468849 lol 
-https://www.youtube.com/watch?v=qgylp3Td1Bw akıyo maşşallah
-https://www.uludagsozluk.com/k/vir%C3%BCs-derken-duda%C4%9F%C4%B1n-ald%C4%B1%C4%9F%C4%B1-%C5%9Fekil/
-https://www.uludagsozluk.com/k/rusyan%C4%B1n-vir%C3%BCs-bahanesiyle-italyay%C4%B1-i%C5%9Fgal-etmesi/ hihihi
-https://www.uludagsozluk.com/k/vir%C3%BCsten-ka%C3%A7%C4%B1%C5%9F-yok-hepimiz-yakalanaca%C4%9F%C4%B1z/
-https://www.uludagsozluk.com/k/tolstoy-okuyun-diyen-bakan/ okuyun okuyun eyidir eyi 
-https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BCn-havada-as%C4%B1l%C4%B1-kalma-%C3%B6zelli%C4%9Fi/ lol
-https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz demet özdemir kim amk ha havuzu varmış 
-https://www.uludagsozluk.com/k/demet-%C3%B6zdemir-in-evde-kal-pozu/ bkz açmayın korkunçlu karı
--->
 
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
