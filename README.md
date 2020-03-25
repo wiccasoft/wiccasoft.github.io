@@ -1,3 +1,4 @@
+<!-- https://m.yeniakit.com.tr/yazarlar/ali-karahasanoglu/yaziklar-olsun-bizlere-31715.html -->
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
