@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz yılmaz yozdil 65 üstüne oç demesi
 bkz can tataklı yarasa güzellemesi
 bkz yılmaz yozdil enver aysever güzellemesi
