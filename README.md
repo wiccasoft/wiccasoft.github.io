@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+bkz fatih tezcan murat karayılan güzellemesi
 bkz alpaslan türkeş fettullah gülen güzellemesi
 https://www.uludagsozluk.com/k/r%C4%B1za-nur/&w=bg bkz ali rıza bey
 bkz hüseyin nihal atsız muhittin yazcıoğlan ilşkisi
