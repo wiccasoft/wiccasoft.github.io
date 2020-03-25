@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+https://www.uludagsozluk.com/k/minnac%C4%B1k-vir%C3%BCs%C3%BCn-insanl%C4%B1%C4%9F%C4%B1-dize-getirmesi/ daha yeni başlıyoruz
 https://www.uludagsozluk.com/k/sokullu-mehmed-pa%C5%9Fa/&w=bg bkz iyi sokardı rahmetli
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz yılmaz yozdil 65 üstüne oç demesi
