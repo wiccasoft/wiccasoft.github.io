@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz şaka maka hüçük prens henry nin megan uğruna tahtı bırakması
 bkz şaka maka fatih tezcan analiz merkezinin global marka olmaya başlaması
 bkz fatih tezcanın analiz merkezini olimposa taşıması
 bkz fatih tezcan nın muhittin yazıcıoğlan a verdiği ayar
