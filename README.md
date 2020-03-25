@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
+<!-- https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz fatih tezcan -->
+
 [![Image](eq/Screenshot_2020-03-24_07-13-07.png)]( https://www.youtube.com/watch?v=5t0zkdmki2M )
 
 [![Image](waste/Screenshot_2020-03-22_01-09-33.png)]( https://www.youtube.com/watch?v=ThRZ3UZj9Oc )
