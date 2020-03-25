@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!--
+bkz atsızcılar musleracılar arasındaki kavga
 bkz musleradan erdoya siyaseti adabınla yap uyarısı
 https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg
 bkz musleranın erdoya yavşaklığı bırak siyasetini yap uyarısı
