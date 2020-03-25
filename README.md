@@ -2,25 +2,8 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
-bkz cana tataklının rallın annesine başörtülü demesi
+bkz cana tataklının rallın annesine türbanlı demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg bkz belgeler konuşur
-https://www.uludagsozluk.com/k/ali-ihsan-yava%C5%9F%C3%A7a-n%C4%B1n-h%C3%BCz%C3%BCnl%C3%BC-hikayesi/
-bkz damadın trabzonu şampiyon yapacağı gerçeği
-https://www.uludagsozluk.com/k/galatasaray-%C5%9Fampiyon-olmak-i%C3%A7in-her%C5%9Feyi-yaparm%C4%B1/
-bkz atacücünün atayız olduğu gerçeği
-bkz atacücünün atacücü olduğu iddaları
-bkz atacücünnü sabetaycı atacüccüst olduğu iddaları
-bkz atacücünün sabetycı atacücücü olduğu iddaları
-bkz deniz gezmişin abaza olduğu iddaları
-bkz atacücünün ateist sabatayist olduğu iddaları
-bkz fatih tezcanın rallın anneine başörtülü anam demesi
-bkz fatih tezcanın fatih terime işini yap uyarısı
-bkz kim darşyna kardeşlerin kavga etmemesi
-bkz can tataklının rallın annesine türbanlı demesi
-bkz fatih tezcanın twitter virüsüyüm demesi
-bkz atacünün sebataycı olması hani ateistti lan
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-sabetayist-olmas%C4%B1/&w=bg
-bkz can tataklının rallın annesine türbanlı demesi
 https://www.uludagsozluk.com/k/can-atakl%C4%B1-n%C4%B1n-t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmene-hakaret-etmesi/&w=gd
 https://james-earl-cash.uludagsozluk.com/  bkz kimse kusura bakmasın ama ağır gay
 https://james-earl-cash.uludagsozluk.com/  bkz murat övünç sen misin ablası? 
