@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/ 
+bkz fatih tezcan murat karayılan güzellemesi
 bkz muhsin yazıcıoğlu kobe bryant ilişkisi
 bkz deliyürek cavit19 cehennemi
 bkz cavit19 un vatan haini olması
