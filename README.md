@@ -3,7 +3,6 @@
 
 <!--
 bkz hadi ben kaçıyom var mı bi isteğiniz olimpostan
-bkz her cümlenin sonunda kimse kusura bakmasın diyen ergen
 https://www.uludagsozluk.com/k/abaza-deniz-gezmi%C5%9F/
 https://www.uludagsozluk.com/k/t%C3%BCrk-insan%C4%B1n%C4%B1n-her-%C5%9Feyi-devletten-beklemesi/
 https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1ndaki-%C3%A7ayc%C4%B1/ ay deme öyle
