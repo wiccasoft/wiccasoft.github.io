@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
-bkz esra albyrakın vagi clean diye balgam sökücü sürmesi
+bkz esra albayrakın vagi clean diye balgam sökücü sürmesi adasds
 bkz hepsiorada.com un vajina genişletici diye balgam sökücü yollaması rezaleti
 bkz ayakları altın varanklı peteklere uzatıp keyf yapmak
 bkz albayrakın altın varanklı peteği bakan varank yolladı demesi
