@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz berat albyarakın ortakul talebesine benzemesi
+https://www.uludagsozluk.com/k/berat-albayrak-%C4%B1n-alt%C4%B1n-varakl%C4%B1-kalorifer-pete%C4%9Fi/&w=gd
 bkz kamalcıların kulağına olmaya devlet cihanda bir nefes sıhhat gibi diyip kaçmak
 bkz kamalcıların devletin ne kadar içi boş bir kavram olduğunu anlamamaları
 bkz ulaştırma bakanlığının imamaoğlana  boru gibi döşemesi
