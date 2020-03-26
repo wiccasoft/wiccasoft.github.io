@@ -1,7 +1,8 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-bkz rte nin yaşlı amcalara rakı alın emri
+bkz rte nin jandarmayı rakı aldırmaya yollaması
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz jandarmaya rakı aldıran 65 yaş üstü amca
 https://www.uludagsozluk.com/k/jandarmaya-rak%C4%B1-ald%C4%B1ran-65-ya%C5%9F-%C3%BCst%C3%BC-amca/&w=gd
 bkz rte suriyelilere bir 40 milyar dolar daha harcarız
