@@ -1,7 +1,8 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
-bkz 26 mart 2020 hakapn hepcanın ölmüş babişkoma küfr etme demesi
+bkz 26 mart 2020 hakan hepcanın ölmüş babişkoma küfr etmeyin demesi
+https://www.uludagsozluk.com/k/hakan-hepcan%C4%B1n-ek%C5%9Fi-yazar%C4%B1na-dava-a%C3%A7mas%C4%B1/&w=bg
 bkz 26 mart 2020 istanbulluların ölmeyeckelerini sanması
 https://www.uludagsozluk.com/k/herkes-yemek-yesin/ yiyin aksırıncaya kadar tıksırıncaya kadar yiyin amk
 https://www.uludagsozluk.com/k/hz-muhammed-in-vir%C3%BCse-kar%C5%9F%C4%B1-sumakl%C4%B1-su-%C3%B6nermesi/
