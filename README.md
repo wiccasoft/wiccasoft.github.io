@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz damadın penis gevşetici sipariş etmesi
 bkz rte nin damadına amazondan penis yüzüğü alması
 bkz rte nin jandarmayı kızına ped aldırmaya yollaması
 bkz damadın fenerbahçe düşmanlığı
