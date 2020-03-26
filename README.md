@@ -1,9 +1,8 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
-<!--
-bkz kahan hepcanın babam söyliycem seni demesi
+<!--,
 bkz 26 mart 2020 yksnin temmuza ertelenmesi
-https://www.uludagsozluk.com/k/26-mart-2020-yksnin-temmuza-ertelenmesi/
+bkz hakan hepcanın babama söyliycem seni demesi
 bkz hakan hepcan ın veletlere benzediği gerçeği
 bzz hakan hepcanın ölmüş babişkosuna küfrecen ekşi yazarı
 bkz 1881 atacüc 18+81 = 99 -81 - batman = covid19
