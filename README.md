@@ -8,8 +8,6 @@ bkz yemeyin yehuu yenir mi o dayıı
 bkz türkiyedeki eğitim sistemi
 https://www.uludagsozluk.com/k/zavadak-day%C4%B1/&w=bg bkz yemeyin yahu yenir mi o dayı
 https://www.uludagsozluk.com/k/maymun-yiyen-%C3%A7inliler/ yemeyin amugo goyyim yau
-bkz yılan yiyince virüs olması
-bkz wuhan hayvan pazarı
 bkz yemeyin amuga goyyim yemeyin yılan yauu virüs oliy yau
 https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular&p=5 liseliler gelmiş yine :))) -->
 
