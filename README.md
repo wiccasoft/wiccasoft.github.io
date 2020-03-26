@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-bkz patlak kızı karantinada lehene sokup kontrol etmek
+bkz patlak kızı lehene sokup kontrol etmek
 bkz patlak kızların evde çıakrdığı ses
 bkz evde kalmış kızların virüsü bahane etmesi
 bkz mega proce var dedim dedim inanmadınız amk
