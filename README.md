@@ -7,7 +7,6 @@ bkz yi oglim yi eyi gelir teyze
 bkz ne bok yerseniz yeyin dayı
 bkz yemeyin yehuu yenir mi o dayıı
 bkz türkiyedeki eğitim sistemi
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/zavadak-day%C4%B1/&w=bg bkz yemeyin yahu yenir mi o dayı
 https://www.uludagsozluk.com/k/maymun-yiyen-%C3%A7inliler/ yemeyin amugo goyyim yau
 bkz yemeyin amuga goyyim yemeyin yılan yauu virüs oliy yau
