@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+bkz devlet bahçelinin balkon konuşması
 bkz hakan hepcanının canı can da can ataklının patlıcan mı amk
 bkz hakan hepcan kamalcı fenerli diye üstüne gidildiği gerçeği
 bkz hakan hepcanın ölmüş babişkosuna küfreden ekşi yazarı
