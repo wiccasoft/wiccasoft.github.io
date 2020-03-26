@@ -7,6 +7,7 @@ bkz patlak kızların sokakta etrafa yaydığı azdırıcı koku
 bkz patlak kızların virüs bahanesiyle götlerini başlarını açmaları
 https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
+https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/
 https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce emin ellerde raad ol
 bkz başaramayacaksınız diri olacaz pak olcaz
 bkz dış mihrakların mega procemi çalmak için virüs yaratması
