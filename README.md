@@ -1,7 +1,6 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
-bkz piç adam ondan bundan korkmaz
 bkz piç olunmaz piç doğulur oçları sizi
 bkz 40 fırın ekmek yese de piç olamayacak totoşlar
 bkz piç olmaya çalışan ergen dramı
