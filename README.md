@@ -3,7 +3,7 @@
 
 <!-- 
 bkz 26 mart 2020 damadın rte nin kızı için vajina gevşetici sipariş etmesi
-bkz rte nin damadına amazondan penis yüzüğü alması
+bkz rte nin damadına amazondan aldığı penis yüzüğü 
 bkz rte nin jandarmayı kızına ped aldırmaya yollaması
 bkz damadın fenerbahçe düşmanlığı
 bkz 1881 = 18+81 = 99 - 81 - batman = covid19
