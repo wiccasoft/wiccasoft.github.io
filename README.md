@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz ne bok yerseniz yeyin dayı
 bkz yemeyin yehuu yenir mi o dayıı
 bkz türkiyedeki eğitim sistemi
 https://www.uludagsozluk.com/k/zavadak-day%C4%B1/&w=bg bkz yemeyin yahu yenir mi o dayı
