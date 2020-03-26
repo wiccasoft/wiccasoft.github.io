@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-https://nesgayfe.uludagsozluk.com/ eywallah kankağ proce emin ellerde raad ol
+https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce emin ellerde raad ol
 bkz başaramayacaksınız diri olacaz pak olcaz wicca kullancaz
 bkz dış mihrakların mega procemi çalmak için virüs yaratması
 https://www.uludagsozluk.com/k/sarayda-kal-kampanyas%C4%B1/ eywallah kankağ bi sen varsın büyük oyunu gören
