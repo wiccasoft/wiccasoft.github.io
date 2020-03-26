@@ -1,16 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- 
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/ lol
-bkz yi oglim yi eyi gelir teyze
-bkz ne bok yerseniz yeyin dayı
-bkz yemeyin yehuu yenir mi o dayıı
-bkz türkiyedeki eğitim sistemi
-https://www.uludagsozluk.com/k/zavadak-day%C4%B1/&w=bg bkz yemeyin yahu yenir mi o dayı
-https://www.uludagsozluk.com/k/maymun-yiyen-%C3%A7inliler/ yemeyin amugo goyyim yau
-bkz yemeyin amuga goyyim yemeyin yılan yauu virüs oliy yau
-https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular&p=5 liseliler gelmiş yine :))) -->
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
