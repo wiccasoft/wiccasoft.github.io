@@ -1,13 +1,5 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
-<!-- 
-https://www.uludagsozluk.com/k/serel-yereli-nin-pencereli-payla%C5%9F%C4%B1m%C4%B1/
-https://www.uludagsozluk.com/k/beren-saat-in-g%C3%BC%C3%A7l%C3%BC-kal-tavana-dokun-payla%C5%9F%C4%B1m%C4%B1/
-https://www.uludagsozluk.com/k/%C3%B6c%C3%BC-gibi-korkuyorlar-mao-zedong-yolda%C5%9F%C4%B1mdan/&w=bg
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BClerin-sa%C3%A7ma-sapan-corona-payla%C5%9F%C4%B1mlar%C4%B1/ lol
-https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
--->
-
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
