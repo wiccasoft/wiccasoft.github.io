@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz aptal dünyalının gönderdiği alev topu
 https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce emin ellerde raad ol
