@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol 
+<!-- 
+https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz kamalcıların eğitlmez olduğu gerçeği
+https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol 
 https://eksisozluk.com/berat-albayrakin-47-bin-liralik-kalorifer-petegi--6437783?a=popular penis yüzüğünü ısıtıyo olm
 -->
 
