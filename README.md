@@ -2,6 +2,7 @@
 
 <!--
 bkz 26 mart 2020 imamaoğlanın ihaleye fesat atması
+bkz jandarmaya rtakı aldıran 65+ amcanın rte çıkması
 https://www.uludagsozluk.com/k/26-mart-2020-kanal-istanbul-ihalesi/
 https://www.uludagsozluk.com/k/jandarmaya-rak%C4%B1-ald%C4%B1ran-65-ya%C5%9F-%C3%BCst%C3%BC-amca/&w=bg bkz rte
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
