@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Feyh-sait/&w=bg bkz xzamanın ötesinde bir şeyh
 bkz entel feridun vs nuri bilge ceylan
 bkz o değil de tarantinoya çok ayıp oldu amk 
 bkz rte suriyelilere bir 40 milyar dolar daha harcarız
