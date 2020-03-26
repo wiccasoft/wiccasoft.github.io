@@ -2,7 +2,6 @@
 
 <!-- 
 bkz trap zone luların havada karasa suda sikerteceği versuslar yapmak
-https://www.uludagsozluk.com/e/41429021/ gelsin bi tur bineyim dediğim erkek
 https://www.uludagsozluk.com/k/cem-karaca-vs-bar%C4%B1%C5%9F-man%C3%A7o/&w=gd karacaoğlan siker atar -->
 
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
