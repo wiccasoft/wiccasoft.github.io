@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz aptal dünyalının gönderdiği alev topu
 bkz patlak kızların sokakta etrafa yaydığı azdırıcı koku
 bkz patlak kızların virüs bahanesiyle götlerini başlarını açmaları
+https://www.uludagsozluk.com/k/%C3%B6c%C3%BC-gibi-korkuyorlar-mao-zedong-yolda%C5%9F%C4%B1mdan/&w=bg
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BClerin-sa%C3%A7ma-sapan-corona-payla%C5%9F%C4%B1mlar%C4%B1/ lol
 https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
