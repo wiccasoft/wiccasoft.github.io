@@ -3,7 +3,7 @@
 
 <!-- 
 bkz me myself & irene
-bkz muhittini öldüren mihrakların kobe braynatın helihopterini düşürmesi
+bkz muhittini öldüren mihrakların kobe bryanatın helihopterini düşürmesi
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu-neden-%C3%B6ld%C3%BCr%C3%BCld%C3%BC/&w=bg bkz kobe bryant
 https://www.uludagsozluk.com/k/laboratuvardan-kacan-virus/ lol
 bkz esra albayrakın vagi clean diye balgam sökücü sürmesi adasds
