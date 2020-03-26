@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/herkes-yemek-yesin/ yiyin aksırıncaya kadar tıksırıncaya kadar yiyin amk
 https://www.uludagsozluk.com/k/hz-muhammed-in-vir%C3%BCse-kar%C5%9F%C4%B1-sumakl%C4%B1-su-%C3%B6nermesi/
-bkz 26 mart 2020 hala adıma başlık açılmaması olm açılsa da siklemem zaten isterseniz anneme küfredin oç la
+bkz 26 mart 2020 hala adıma başlık açılmaması olm açılsa da siklemem zaten isterseniz yedi ceddime küfredin oç ları lan
 https://www.uludagsozluk.com/k/hakan-hepcan%C4%B1n-ek%C5%9Fi-yazar%C4%B1na-dava-a%C3%A7mas%C4%B1/&w=gd
 bkz rte nin jandarmayı kızına ped aldırmaya yollaması
 bkz 26 mart 2020 imamaoğlanın ihaleye fesat atması
