@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+bkz 26 mart 2020 istanbulluların ölmeyeckelerini sanması
 https://www.uludagsozluk.com/k/herkes-yemek-yesin/ yiyin aksırıncaya kadar tıksırıncaya kadar yiyin amk
 https://www.uludagsozluk.com/k/hz-muhammed-in-vir%C3%BCse-kar%C5%9F%C4%B1-sumakl%C4%B1-su-%C3%B6nermesi/
 bkz 26 mart 2020 hala adıma başlık açılmaması olm açılsa da siklemem zaten isterseniz yedi ceddime küfredin oç ları lan
