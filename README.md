@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz hayaratt en hakiki mürşit ilimdir fendir edebiyattır amk
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz dedim dedim inanmadınız amk
 bkz aptal dünyalının gönderdiği alev topu
