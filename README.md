@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular çok ta skimdesiniz oç ları
 bkz rte nin iibf den arkadaşları
 https://eksisozluk.com/iibflilerin-biz-de-hukuk-dersi-gorduk-demesi--5872926?a=popular bkz burhan altıntop
 bkz berat albayrakın altın varanklı peteği bakan varank yolladı demesi
