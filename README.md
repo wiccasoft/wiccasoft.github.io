@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://www.uludagsozluk.com/k/anksiyeteye-ba%C4%9Fl%C4%B1-ate%C5%9F-y%C3%BCkselmesi/
 https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni-geliyor/&w=gd hele yarrağıma bak hele
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
 https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz hele yarraklarıma bak hele
