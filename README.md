@@ -3,6 +3,7 @@
 
 <!-- 
 bkz me myself & irene
+bkz türklerin kendinlerini çok önemli sanması
 bkz ahmet özalın babasını neden öldürdünüz lan
 bkz pirhozcunun babasının kim öldürdü sorunsalı
 https://pilihozlu-haci-baron-bey.uludagsozluk.com/ adam laz ziya çıktı beyler
