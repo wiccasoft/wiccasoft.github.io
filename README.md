@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-https://www.uludagsozluk.com/k/uzaktan-e%C4%9Fitim/&w=bg bkz şaka maka beni trilyoner yapacak olay
+bkz şaka maka uzaktan eğitimle köşeyi dönmek
 bkz patlak kızların salgıladığı kokuların virüsü tahrik etmesi
 bkz batman valisinin sessizliğin koruması
 bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid 19
