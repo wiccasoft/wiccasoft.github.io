@@ -1,25 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- 
-bkz rte nin iibf den arkadaşlarının biraz mal olması
-https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz hele yarraklarıma bak hele
-https://eksisozluk.com/iibflilerin-biz-de-hukuk-dersi-gorduk-demesi--5872926?a=popular bkz burhan altıntop
-bkz berat albayrakın altın varanklı peteği bakan varank yolladı demesi
-https://eksisozluk.com/berat-albayrakin-47-bin-liralik-kalorifer-petegi--6437783?a=popular
-bkz damadın kyk borcu olan kızları affetmesi
-https://www.uludagsozluk.com/k/k%C4%B1skanmayan-erkek/&w=bg bkz berat albayrak
-bkz kamalcıların kulağına olmaya devlet cihanda bir nefes sıhhat gibi diyip kalorifer peteğine ayakları uzatmak
-bkz kamalcıların devletin ne kadar içi boş bir kavram olduğunu anlamamaları
-bkz ulaştırma bakanlığının imamaoğlana  boru gibi döşemesi
-bkz hepsiorada.com un vajina gevşetici yerine balgam sökücü yollaması rezaleti
-bkz 26 mart 2020 damadın vajina gevşetici sipariş etmesi
-https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
-https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz çok ta skimdeydiniz amk
-https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol 
-https://eksisozluk.com/berat-albayrakin-47-bin-liralik-kalorifer-petegi--6437783?a=popular penis yüzüğünü ısıtıyo olm
--->
-
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 
