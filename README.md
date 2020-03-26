@@ -7,11 +7,9 @@ bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
 https://www.uludagsozluk.com/k/fahrettin-koca-atat%C3%BCrkden-sonra-en-b%C3%BCy%C3%BCk-liderdir/&w=bg
 bkz testere necminin kerpeteen aliye racon kesmesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/
-https://www.uludagsozluk.com/k/%C3%A7ak%C4%B1r/&w=bg bkz çakırın postayı koyması
 bkz me myself & irene
 https://www.uludagsozluk.com/k/kan-grubu-0-olanlar%C4%B1n-covid19-a-diren%C3%A7li-olmas%C4%B1/
 bkz ahmet özalın babasını neden öldürdünüz lan
-bkz pirhozcunun babasının kim öldürdü sorunsalı
 https://pilihozlu-haci-baron-bey.uludagsozluk.com/ adam laz ziya çıktı beyler
 bkz muhittini öldüren mihrakların kobe bryanatın helihopterini düşürmesi
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu-neden-%C3%B6ld%C3%BCr%C3%BCld%C3%BC/&w=bg bkz kobe bryant
