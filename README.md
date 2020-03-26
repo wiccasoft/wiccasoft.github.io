@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz istanbul beyfendisi erkekleri ellerimizle besliyoruz kampanyası
 bkz istanbul beyfendisi erkeklerin neslinin tükenmesi nerde aykut ışıklar ayol
 bkz fakirlerin markete spermli eşofman maskeyle gelmesi güldürür evet
 https://www.uludagsozluk.com/e/43055461/ bkz fakirlerin yaşadıklarını sanması
