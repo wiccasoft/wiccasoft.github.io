@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz hepsiorada.com un vajina genişletici diye balgam sökücü yollaması rezaleti
 bkz ayakları altın varanklı peteklere uzatıp keyf yapmak
 bkz albayrakın altın varanklı peteği bakan varank yolladı demesi
 https://www.uludagsozluk.com/k/anksiyeteye-ba%C4%9Fl%C4%B1-ate%C5%9F-y%C3%BCkselmesi/
