@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://eksisozluk.com/berat-albayrakin-47-bin-liralik-kalorifer-petegi--6437783?a=popular
 bkz damadın kyk borcu olan kızları affetmesi
 https://www.uludagsozluk.com/k/k%C4%B1skanmayan-erkek/&w=bg bkz berat albayrak
 bkz berat albayrakın altın varanklı peteği bakan varank yolladı demesi
