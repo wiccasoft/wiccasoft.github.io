@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+bkz rte nin jandarmayı kızına ped aldırmaya yollaması
 bkz 26 mart 2020 imamaoğlanın ihaleye fesat atması
 bkz jandarmaya rtakı aldıran 65+ amcanın rte çıkması
 https://www.uludagsozluk.com/k/26-mart-2020-kanal-istanbul-ihalesi/
