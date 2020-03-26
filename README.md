@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz 26 mart 2020 amy smartın doğum günü olması
 bkz 26 mart 2020 imamaoğlanın kanal ihalesine fesat karıştırması
 https://www.uludagsozluk.com/k/26-mart-2020-kanal-istanbul-ihalesi/ bkz ihaleye fesat karışması
 https://www.uludagsozluk.com/k/kud%C3%BCs-israilindir/&w=bg kudüsü türktür türk kalacaktır
