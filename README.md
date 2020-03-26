@@ -1,10 +1,6 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-bkz patlak kızı lehene sokup kontrol etmek
-bkz patlak kızların evde çıkardığı ses
-bkz evde kalmış patlak kızların virüsü bahane etmesi
-bkz evde kalmış kızdan patlak laik olmaz dedim dedim inanmadınız amk
 https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce 2023 emin ellerde raad ol
