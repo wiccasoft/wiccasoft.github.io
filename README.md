@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz ulaştırma bakanlığının imamaoğlana  boru gibi döşemesi
 bkz hepsiorada.com un vajina gevşetici yerine balgam sökücü yollaması rezaleti
 bkz 26 mart 2020 damadın vajina gevşetici sipariş etmesi
 https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
