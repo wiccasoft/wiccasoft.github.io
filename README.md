@@ -1,7 +1,8 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-https://tutunamayanlardan-biri.uludagsozluk.com/ bkz sevendaki şişko adam
+https://www.uludagsozluk.com/e/43055461/ bkz sevendaki şişko adam
+https://tutunamayanlardan-biri.uludagsozluk.com/ bkz şişko olduğu için tutunamayn
 bkz istanbul beyfendisi erkekleri ellerimizle besliyoruz kampanyası
 bkz fakirlerin markete eldiven eşofman maskeyle gelmesi güldürür evet
 https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
