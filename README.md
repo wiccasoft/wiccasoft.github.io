@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://www.uludagsozluk.com/k/koronavir%C3%BCs-hurafeleri/ ye olm ye eyi gelir
 bkz yemeyin olm yahuuu yenir lan o
 https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular virüsün nedeni belli oldu -->
 
