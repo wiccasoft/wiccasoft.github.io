@@ -2,8 +2,8 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
-https://www.uludagsozluk.com/e/43055461/ bkz sevendaki şişko adam
-https://tutunamayanlardan-biri.uludagsozluk.com/ bkz şişko olduğu için tutunamayn
+https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
+https://tutunamayanlardan-biri.uludagsozluk.com/ bkz şişko olduğu için tutunamayan
 bkz istanbul beyfendisi erkekleri ellerimizle besliyoruz kampanyası
 bkz fakirlerin markete eldiven eşofman maskeyle gelmesi güldürür evet
 https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
