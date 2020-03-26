@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://www.uludagsozluk.com/k/maymun-yiyen-%C3%A7inliler/ yemeyin amugo goyyim yau
 bkz yılan yiyince virüs olması
 bkz wuhan hayvan pazarı
 bkz yemeyin amuga goyyim yemeyin yılan yauu virüs oliy yau
