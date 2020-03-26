@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz o değil de tarantinoya ayıp oldu amk 
 https://eksisozluk.com/nuri-bilge-ceylan-ve-zeki-demirkubuzla-eve-cikmak--3667468 bi de şömine olcak agaaaa
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg eywallo benim güzel ve yalnız kankağlarım
 https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1/&w=bg dedim dedim inanmadınız amk -->
