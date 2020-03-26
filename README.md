@@ -3,6 +3,8 @@
 <!-- 
 bkz entel feridun vs nuri bilge ceylan
 bkz o değil de tarantinoya çok ayıp oldu amk 
+https://www.uludagsozluk.com/k/haberleri-rte-den-takip-etmek/ yalan de amk
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-beyin-sizi-terlikle-g%C3%B6rmesi/&w=bg yok artık
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-in-%C3%B6lmesi/&w=bg yalan haber de amk
 https://www.uludagsozluk.com/k/rte-suriyelilere-bir-40-milyar-dolar-daha-harcar%C4%B1z/ olm napacan o kadar parayı lan
 https://eksisozluk.com/nuri-bilge-ceylan-ve-zeki-demirkubuzla-eve-cikmak--3667468 bi de şömine olcak agaaaa
