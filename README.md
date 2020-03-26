@@ -2,6 +2,7 @@
 
 <!-- 
 bkz 1881 -> 18+81 - 81 - batman = covid19
+bkz eller kevser demedim mi
 https://www.uludagsozluk.com/k/cem-karaca-vs-bar%C4%B1%C5%9F-man%C3%A7o/&w=bg karacaoğlan siker atar
 https://www.uludagsozluk.com/k/vir%C3%BCs-s%C3%BCrecinde-sela-okunmas%C4%B1ndaki-ama%C3%A7/ göklerin kararı kesindir
 https://www.uludagsozluk.com/e/43055210/ göklerden gelen bir karar vardır -->
