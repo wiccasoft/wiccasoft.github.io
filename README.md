@@ -5,7 +5,9 @@ bkz entel feridun vs nuri bilge ceylan
 bkz o değil de tarantinoya çok ayıp oldu amk 
 https://eksisozluk.com/nuri-bilge-ceylan-ve-zeki-demirkubuzla-eve-cikmak--3667468 bi de şömine olcak agaaaa
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg eywallo benim güzel ve yalnız kankağlarım
-https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1/&w=bg dedim dedim inanmadınız amk -->
+https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1/&w=bg dedim dedim inanmadınız amk 
+https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-ejderhalar%C4%B1n-yakt%C4%B1%C4%9F%C4%B1-top-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
+-->
 
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
