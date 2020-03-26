@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/&w=bg bkz sığır gibi yaşamak
 bkz 26 mart 2020 yekta kopan ın koparan açıklamaları
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
