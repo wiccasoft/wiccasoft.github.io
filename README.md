@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+https://www.uludagsozluk.com/k/jandarmaya-rak%C4%B1-ald%C4%B1ran-65-ya%C5%9F-%C3%BCst%C3%BC-amca/&w=bg bkz rte
 bkz fakirlerin ölümden öcü gibi kokrması
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/&w=bg bkz sığır gibi yaşamak
