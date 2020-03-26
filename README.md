@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz beratın penis yüzüğünü parlatıp iyi ki sipariş etmişim demesi
 bkz beratın altın göbek titretici kemer sipariş etmesi
 bkz beratın bilale kayınço demesi
 bkz rte nin berat albayraka iyi sikiyon mu kızı diye sorması
