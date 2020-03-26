@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz fakirlerin yaşadıklarını sanması
 https://www.uludagsozluk.com/k/istanbul-beyefendisi-erkeklerin-neslinin-t%C3%BCkenmesi/ ay götüm ayol
 https://www.uludagsozluk.com/e/43055461/ bkz karantina değil komadır o
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/&w=bg
