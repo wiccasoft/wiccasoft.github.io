@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz 26 mart 2020 yekta kopan ın koparan açıklamaları
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
 https://tutunamayanlardan-biri.uludagsozluk.com/ bkz şişko olduğu için tutunamayan
