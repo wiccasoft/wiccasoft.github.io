@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz kamalcıalrın düşük zeklaı ve eğitilmez olma sebepleri
 bkz fahrettin koca ikinci atacücüdür
 bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
 https://www.uludagsozluk.com/k/fahrettin-koca-atat%C3%BCrkden-sonra-en-b%C3%BCy%C3%BCk-liderdir/&w=bg
