@@ -2,19 +2,8 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
-bkz berat albyrakın altın varanklı peteği bakan varank yolladı demesi
-bkz beratın penis yüzüğünü parlatıp iyi ki sipariş etmişim demesi
-bkz beratın altın göbek titretici kemer sipariş etmesi
-bkz beratın bilale kayınço demesi
-bkz rte nin berat albayraka iyi sikiyon mu kızı diye sorması
-bkz berat albyrakın altın varaklı penis yüzüğü speriş etmesi
-bkz berat albayrakın altın işlemeli penis yüzüğü
-https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni-geliyor/ bkz patron benim oç
-bkz damadın penis yüzüğünü kalorifer peteğinin kenarına koyması
-bkz damadın kalorifer peteği
-bkz berat albyarakın ortakul talebesine benzemesi
-https://www.uludagsozluk.com/k/berat-albayrak-%C4%B1n-alt%C4%B1n-varakl%C4%B1-kalorifer-pete%C4%9Fi/&w=gd
-bkz kamalcıların kulağına olmaya devlet cihanda bir nefes sıhhat gibi diyip kaçmak
+bkz berat albayrakın altın varanklı peteği bakan varank yolladı demesi
+bkz kamalcıların kulağına olmaya devlet cihanda bir nefes sıhhat gibi diyip kalorifer peteğine ayakları uzatmak
 bkz kamalcıların devletin ne kadar içi boş bir kavram olduğunu anlamamaları
 bkz ulaştırma bakanlığının imamaoğlana  boru gibi döşemesi
 bkz hepsiorada.com un vajina gevşetici yerine balgam sökücü yollaması rezaleti
