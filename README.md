@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-bkz başaramayacaksınız  diri olacaz pak olcaz
+bkz başaramayacaksınız iri olcaz diri olacaz pak olcaz
 bkz dış mihrakların mega procemi çalmak için virüs yaratması
 https://www.uludagsozluk.com/k/sarayda-kal-kampanyas%C4%B1/ eywallah kankağ bi sen varsın büyük oyunu gören
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
