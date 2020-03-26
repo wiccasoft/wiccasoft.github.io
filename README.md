@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+bkz ulaştırma bakanlığının imamoğlana boru gibi döşemesi
 bkz fahrettini bakkala yollayıp keyif yapmak
 bkz şaka maka uzaktan eğitimle köşeyi dönmek
 bkz patlak kızların salgıladığı kokuların virüsü tahrik etmesi
