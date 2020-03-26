@@ -3,8 +3,8 @@
 <!-- 
 https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
-https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce 2023 emin ellerde raad ol
-bkz başaramayacaksınız diri olacaz pak olcaz wicca kullancaz
+https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce emin ellerde raad ol
+bkz başaramayacaksınız diri olacaz pak olcaz
 bkz dış mihrakların mega procemi çalmak için virüs yaratması
 https://www.uludagsozluk.com/k/sarayda-kal-kampanyas%C4%B1/ eywallah kankağ bi sen varsın büyük oyunu gören
 https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1/&w=bg dedim dedim inanmadınız amk 
