@@ -3,7 +3,7 @@
 <!-- 
 bkz başaramayacaksınız 
 bkz dış mihrakların mega procemi çalmak için virüs yaratması
-https://www.uludagsozluk.com/k/sarayda-kal-kampanyas%C4%B1/ eywallah kankağ 
+https://www.uludagsozluk.com/k/sarayda-kal-kampanyas%C4%B1/ eywallah kankağ bi sen varsın büyük oyunu gören
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1/&w=bg dedim dedim inanmadınız amk 
 https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-ejderhalar%C4%B1n-yakt%C4%B1%C4%9F%C4%B1-top-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
