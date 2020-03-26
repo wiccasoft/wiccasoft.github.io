@@ -3,6 +3,7 @@
 
 <!-- 
 bkz fahrettin koca ikinci atacücüdür
+bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
 https://www.uludagsozluk.com/k/fahrettin-koca-atat%C3%BCrkden-sonra-en-b%C3%BCy%C3%BCk-liderdir/&w=bg
 bkz testere necminin kerpeteen aliye racon kesmesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/
