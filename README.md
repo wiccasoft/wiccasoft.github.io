@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
+<!-- https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol -->
+
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 
