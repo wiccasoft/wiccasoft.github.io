@@ -4,9 +4,6 @@
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/&w=bg bkz sığır gibi yaşamak
 bkz 26 mart 2020 yekta kopan ın koparan açıklamaları
-https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
-https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
-https://tutunamayanlardan-biri.uludagsozluk.com/ bkz şişko olduğu için tutunamayan
 bkz istanbul beyfendisi erkekleri ellerimizle besliyoruz kampanyası
 bkz fakirlerin markete eldiven eşofman maskeyle gelmesi güldürür evet
 https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
