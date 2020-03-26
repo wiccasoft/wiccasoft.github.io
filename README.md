@@ -3,7 +3,7 @@
 
 <!-- 
 bkz hepsiorada.com un vajina gevşetici yerine balgam sökücü yollaması rezaleti
-bkz 26 mart 2020 damadın rte nin kızı için vajina gevşetici sipariş etmesi
+bkz 26 mart 2020 damadın vajina gevşetici sipariş etmesi
 https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
 https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz çok ta skimdeydiniz amk
 https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol 
