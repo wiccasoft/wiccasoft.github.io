@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 1881 = 18+81 = 99 - 81 - batman = covid19
+bkz rte nin beni damadı sanması
 https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
 https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz çok ta skimdeydiniz amk
 https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol 
