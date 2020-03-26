@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+https://www.uludagsozluk.com/k/kud%C3%BCs-israilindir/&w=bg kudüsü türktür türk kalacaktır
 bkz rte nin jandarmayı beyfendi erkek almaya yollaması
 bkz manisa beyfendisi erkeklerin neslinin tükenmesi
 https://www.uludagsozluk.com/k/manisa-otogar-da-ya%C5%9Fl%C4%B1-vatanda%C5%9Fa-ba%C4%9F%C4%B1ran-polis/
