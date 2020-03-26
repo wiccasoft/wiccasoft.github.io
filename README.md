@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz rte nin iibf den arkadaşları
 https://eksisozluk.com/iibflilerin-biz-de-hukuk-dersi-gorduk-demesi--5872926?a=popular bkz burhan altıntop
 bkz berat albayrakın altın varanklı peteği bakan varank yolladı demesi
 https://eksisozluk.com/berat-albayrakin-47-bin-liralik-kalorifer-petegi--6437783?a=popular
