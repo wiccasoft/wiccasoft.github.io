@@ -1,5 +1,30 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
+<!-- 
+bkz şaka maka uzaktan eğitimle köşeyi dönmek
+bkz patlak kızların salgıladığı kokuların virüsü tahrik etmesi
+bkz batman valisinin sessizliğin koruması
+bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid 19
+bkz yarasa yiyen en aşağılık duyguların insanıdır. amk
+bkz dedim dedim inanmadınız amk
+https://www.youtube.com/watch?v=R-q9go-xi1M
+bkz aptal dünyalının gönderdiği alev topu
+bkz patlak kızların sokakta etrafa yaydığı azdırıcı koku
+bkz patlak kızların virüs bahanesiyle götlerini başlarını açmaları
+https://www.uludagsozluk.com/k/%C3%B6c%C3%BC-gibi-korkuyorlar-mao-zedong-yolda%C5%9F%C4%B1mdan/&w=bg
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BClerin-sa%C3%A7ma-sapan-corona-payla%C5%9F%C4%B1mlar%C4%B1/ lol
+https://www.uludagsozluk.com/k/simge-sa%C4%9F%C4%B1n-%C4%B1n-evde-kal-pozu/ bkz sığır gibi yaşamak
+https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
+https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/
+https://www.uludagsozluk.com/k/%C3%A7inliler-her-%C5%9Feyi-yiyor-b%C4%B1d%C4%B1-b%C4%B1d%C4%B1s%C4%B1/
+https://nesgayfe.uludagsozluk.com/ eywallah kankağ mega proce emin ellerde raad ol
+bkz başaramayacaksınız diri olacaz pak olcaz
+bkz dış mihrakların mega procemi çalmak için virüs yaratması
+https://www.uludagsozluk.com/k/sarayda-kal-kampanyas%C4%B1/ eywallah kankağ bi sen varsın büyük oyunu gören
+https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1/&w=bg dedim dedim inanmadınız amk 
+https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-ejderhalar%C4%B1n-yakt%C4%B1%C4%9F%C4%B1-top-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
+-->
+
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
 [![Image](eq/Screenshot_2020-03-22_14-04-54.png)]( https://www.youtube.com/watch?v=AmUu66YxQvw )
