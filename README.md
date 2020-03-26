@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+https://www.uludagsozluk.com/k/hz-muhammed-in-vir%C3%BCse-kar%C5%9F%C4%B1-sumakl%C4%B1-su-%C3%B6nermesi/
 bkz 26 mart 2020 hala adıma başlık açılmaması
 https://www.uludagsozluk.com/k/hakan-hepcan%C4%B1n-ek%C5%9Fi-yazar%C4%B1na-dava-a%C3%A7mas%C4%B1/&w=gd
 bkz rte nin jandarmayı kızına ped aldırmaya yollaması
