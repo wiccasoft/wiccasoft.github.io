@@ -2,7 +2,9 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
-yemeyin amuga goyyim yemeyin yılan yauu virüs oliy yau
+bkz yılan yiyince virüs olması
+bkz wuhan hayvan pazarı
+bkz yemeyin amuga goyyim yemeyin yılan yauu virüs oliy yau
 https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular&p=5 liseliler gelmiş yine :))) -->
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
