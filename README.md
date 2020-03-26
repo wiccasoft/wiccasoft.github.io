@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!--
+bkz hakan hepcanın ölmüş babişkosuna küfreden ekşi yazarı
 bkz ahmet hakanın hakan hepcanı savunması
 bkz hakan hepcan fenerli zaten beyler
 bkz 26 mart 2020 hakan hepcanın ölmüş babişkoma küfr etmeyin demesi
