@@ -3,7 +3,7 @@
 
 <!-- 
 bkz me myself & irene
-bkz türklerin kendinlerini çok önemli sanması
+https://www.uludagsozluk.com/k/kan-grubu-0-olanlar%C4%B1n-covid19-a-diren%C3%A7li-olmas%C4%B1/
 bkz ahmet özalın babasını neden öldürdünüz lan
 bkz pirhozcunun babasının kim öldürdü sorunsalı
 https://pilihozlu-haci-baron-bey.uludagsozluk.com/ adam laz ziya çıktı beyler
