@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 1881 = 18+81 = 99 - 81 - batman = covid19
+bkz elif can terimin datih terime attığı mail
 bkz ekşicilerin beni rte yi sırtından atan at sanması
 bkz ekçicilerin beni rte nin damadı sanması olm ben kimsenin damadı değilim lan at burcu erkeğiyim sadece :))))
 https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
