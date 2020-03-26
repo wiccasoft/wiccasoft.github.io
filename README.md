@@ -3,7 +3,7 @@
 
 <!-- 
 bkz 1881 = 18+81 = 99 - 81 - batman = covid19
-bkz ekçicilerin beni rte nin damadı sanması olm ben kimsenin damadı değilim lan at burcu erkeğiyim sadece
+bkz ekçicilerin beni rte nin damadı sanması olm ben kimsenin damadı değilim lan at burcu erkeğiyim sadece :))))
 https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
 https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz çok ta skimdeydiniz amk
 https://eksisozluk.com/turkiyenin-suru-bagisikligina-gectigi-aciklamasi--6437719?a=popular lol 
