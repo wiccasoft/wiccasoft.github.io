@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
-bkz hepsiorada.com un vajina gevşetici yerine balga sökücü yollaması rezaleti
+bkz hepsiorada.com un vajina gevşetici yerine balgam sökücü yollaması rezaleti
 bkz 26 mart 2020 damadın rte nin kızı için vajina gevşetici sipariş etmesi
 https://eksisozluk.com/ataturke-hakaret-eden-youtube-yayincisi--6437787?a=popular
 https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz çok ta skimdeydiniz amk
