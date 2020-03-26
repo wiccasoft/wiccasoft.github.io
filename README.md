@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
-bkz trabzonlu erkeğin her ortamda sikeceği betalar
+bkz trabzonlu erkeğin her ortamda sikeceği adanalı betalar
 https://www.uludagsozluk.com/e/41429021/ gelsin bi tur bineyim dediğim erkek
 https://www.uludagsozluk.com/k/cem-karaca-vs-bar%C4%B1%C5%9F-man%C3%A7o/&w=gd karacaoğlan siker atar -->
 
