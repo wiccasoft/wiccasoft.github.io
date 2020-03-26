@@ -2,8 +2,7 @@
 
 <!-- 
 bkz istanbul beyfendisi erkekleri ellerimizle besliyoruz kampanyası
-bkz istanbul beyfendisi erkeklerin neslinin tükenmesi nerde aykut ışıklar ayol
-bkz fakirlerin markete spermli eşofman maskeyle gelmesi güldürür evet
+bkz fakirlerin markete eldiven eşofman maskeyle gelmesi güldürür evet
 https://www.uludagsozluk.com/e/43055461/ bkz seven daki şişko adam
 https://www.uludagsozluk.com/k/istanbul-beyefendisi-erkeklerin-neslinin-t%C3%BCkenmesi/ ay götüm ayol
 https://www.uludagsozluk.com/e/43055461/ bkz karantina değil komadır o
