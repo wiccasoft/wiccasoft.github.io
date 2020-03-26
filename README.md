@@ -2,7 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/43055461/ bkz sığır gibi yaşamak
-bkz receğ tayyiğ erdoğanın kızına ped jandarmayı yollaması 
+bkz rtenin kızına ped almaya jandarmayı yollaması 
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 -->
 
