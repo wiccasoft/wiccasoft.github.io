@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz ıstakoz böceğini yemeyen çinli
 bkz salyangoz yiyien fransızı döven türkler
 bkz yemeyin yaaau onuuu yenir mi o yaaaaaaauu dayı
 bkz türkiyedeki eğitim sistemi yılan yersen virüs olur amuge goyyem elleki seven üstüme eğitim kiti atsın
