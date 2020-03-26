@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
+<!-- https://www.uludagsozluk.com/k/%C3%BCnl%C3%BClerin-sa%C3%A7ma-sapan-corona-payla%C5%9F%C4%B1mlar%C4%B1/ lol -->
+
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
