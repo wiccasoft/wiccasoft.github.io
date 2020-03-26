@@ -1,30 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- 
-bkz fahrettin koca ikinci atacücüdür
-bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
-bkz kamalcıların düşük zekalı ve eğitilmez olma sebepleri
-https://www.uludagsozluk.com/k/fahrettin-koca-atat%C3%BCrkden-sonra-en-b%C3%BCy%C3%BCk-liderdir/&w=bg
-bkz testere necminin kerpeteen aliye racon kesmesi
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/
-bkz me myself & irene
-https://www.uludagsozluk.com/k/kan-grubu-0-olanlar%C4%B1n-covid19-a-diren%C3%A7li-olmas%C4%B1/
-bkz ahmet özalın babasını neden öldürdünüz lan
-https://pilihozlu-haci-baron-bey.uludagsozluk.com/ adam laz ziya çıktı beyler
-bkz muhittini öldüren mihrakların kobe bryanatın helihopterini düşürmesi
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu-neden-%C3%B6ld%C3%BCr%C3%BCld%C3%BC/&w=bg bkz kobe bryant
-https://www.uludagsozluk.com/k/laboratuvardan-kacan-virus/ lol
-bkz esra albayrakın vagi clean diye balgam sökücü sürmesi adasds
-bkz hepsiorada.com un vajina genişletici diye balgam sökücü yollaması rezaleti
-bkz ayakları altın varanklı peteklere uzatıp keyf yapmak
-bkz albayrakın altın varanklı peteği bakan varank yolladı demesi
-https://www.uludagsozluk.com/k/anksiyeteye-ba%C4%9Fl%C4%B1-ate%C5%9F-y%C3%BCkselmesi/
-https://eksisozluk.com/iibflilerin-biz-de-hukuk-dersi-gorduk-demesi--5872926?a=popular bkz hele yarraklara bak hele
-https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni-geliyor/&w=gd hele yarrağıma bak hele
-https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
-https://eksisozluk.com/uzaktanegitimistemiyoruz--6437338?a=popular bkz hele yarraklarıma bak hele
--->
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
