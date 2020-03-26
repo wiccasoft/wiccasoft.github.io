@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz damadın fenerbahçe düşmanlığı
 bkz 1881 = 18+81 = 99 - 81 - batman = covid19
 bkz elif can terimin datih terime attığı mail
 bkz ekşicilerin beni rte yi sırtından atan at sanması
