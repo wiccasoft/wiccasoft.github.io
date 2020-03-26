@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%A7ak%C4%B1r/&w=bg bkz çakırın postayı koyması
 bkz me myself & irene
 https://www.uludagsozluk.com/k/kan-grubu-0-olanlar%C4%B1n-covid19-a-diren%C3%A7li-olmas%C4%B1/
 bkz ahmet özalın babasını neden öldürdünüz lan
