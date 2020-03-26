@@ -1,6 +1,8 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
-<!-- https://www.uludagsozluk.com/e/43055210/ göklerden gelen bir karar vardır -->
+<!-- 
+https://www.uludagsozluk.com/k/vir%C3%BCs-s%C3%BCrecinde-sela-okunmas%C4%B1ndaki-ama%C3%A7/ göklerin kararı kesindir
+https://www.uludagsozluk.com/e/43055210/ göklerden gelen bir karar vardır -->
 
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
