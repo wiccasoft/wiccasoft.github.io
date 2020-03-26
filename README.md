@@ -2,9 +2,9 @@
 
 <!-- 
 bkz batman valisinin sessizliğin koruması
-bkz dedim dedim inanmadınız amk
 bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid 19
 bkz yarasa yiyen en aşağılık duyguların insanıdır. amk
+bkz dedim dedim inanmadınız amk
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz aptal dünyalının gönderdiği alev topu
 bkz patlak kızların sokakta etrafa yaydığı azdırıcı koku
