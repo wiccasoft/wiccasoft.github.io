@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz yemeyin yahuu yenir mi o dayıı
 bkz meymun yiyen çinli yemeyin yahuuuuuuuuu
 bkz ıstakoz böceğini yemeyen çinli
 bkz salyangoz yiyien fransızı döven türkler
