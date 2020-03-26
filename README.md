@@ -1,6 +1,8 @@
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
 <!-- 
+https://www.uludagsozluk.com/e/43055461/ bkz karantina değil komadır o
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/&w=bg
 bkz yatalak dedeyi döverek rakı almaya yollamak
 bkz ayakları yere basan kızın daha küçüğüm demesi
 bkz 26 mart 2020 amy smartın doğum günü olması
