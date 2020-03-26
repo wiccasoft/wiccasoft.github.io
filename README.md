@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz berat albyrakın altın işlemeli penis yüzüğü
 https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni-geliyor/ bkz patron benim oç
 bkz damadın penis yüzüğünü kalorifer peteğinin kenarına koyması
 bkz damadın kalorifer peteği
