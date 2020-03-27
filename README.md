@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 <!--
+bkz kürdistan dağlarına ezan sesinin gelmemesi
 bkz kürdistan dağlarına virüsün girememesi
 bkz madem virüs görükmüyo niye korkuyosunuz
 https://www.uludagsozluk.com/k/rize-de-5-k%C3%B6y%C3%BCn-karantina-alt%C4%B1na-al%C4%B1nmas%C4%B1/
