@@ -4,6 +4,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
 https://www.youtube.com/watch?v=69FlmkZ23zM
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
