@@ -1,7 +1,10 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- https://www.uludagsozluk.com/k/ba%C5%9Fkan-apo-nun-heykelini-dikece%C4%9Fiz-heykelini/&w=bg -->
+<!--
+https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
+https://www.uludagsozluk.com/k/ba%C5%9Fkan-apo-nun-heykelini-dikece%C4%9Fiz-heykelini/&w=bg 
+-->
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
