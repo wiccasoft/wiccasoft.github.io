@@ -3,9 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C5%9Fivan-perwer/&w=bg eywwallah bro yanıktır gırtlah acı yiyik ondan az
-https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n%C4%B1-k%C4%B1st%C4%B1ran-k%C3%B6t%C3%BCleri-indiren-sniper/ 
 https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular&p=14 la olm yeme la laaaaa ananı avradını
-https://elmander-vs-kewell.uludagsozluk.com/ hayawl dünyası geniş bi ergen yaş 15 falan sanırım
 bkz beratın penis yüzüğünü kayınbabasına taktırması
 bkz yi olm ye eyi gelir teyze
 bkz yemeyin onu yavv yenir mi o dayı
