@@ -5,6 +5,7 @@
 bkz bilim kurulu niye virüsü yasaklamıyor sorunsalı
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
+https://www.uludagsozluk.com/k/camileri-uzay-g%C3%B6zlem-evine-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek/
 https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/
 https://www.uludagsozluk.com/k/her-%C5%9Feyi-yasaklay%C4%B1p-soka%C4%9Fa-%C3%A7%C4%B1kma-ilan-etmemek/
 https://www.uludagsozluk.com/k/27-mart-2020-cb-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/
