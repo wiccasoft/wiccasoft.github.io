@@ -3,15 +3,14 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
 bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu kalorifer oyununun bozulması
 bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
 bkz akpnin şule çet cinayetinin üstünü örtpas etmek için virüs üretmesi
 bkz akpnin berkin elvan cinayetinib üstünü örtpas etmek için virüs üretmesi
 bkz virüsler münevver karabulut cinayetinin unutturulmak istenmesi
-https://www.uludagsozluk.com/k/%C5%9Fule-%C3%A7et-e-%C3%BCz%C3%BClmek-mecburiyeti/&w=bg
-https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-tek-su%C3%A7u/ martı kaşlı olması
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1-saray%C4%B1/&w=bg bkz fakirlerin uzaktan baktığı saray
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-%C3%A7i%C3%A7ek-alan-erkek/&w=bg bkz rte -->
+https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
+-->
 
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
