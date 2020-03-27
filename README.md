@@ -10,6 +10,7 @@ bkz akpnin şule çet cinayetinin üstünü örtpas etmek için virüs üretmesi
 bkz akpnin berkin elvan cinayetinib üstünü örtpas etmek için virüs üretmesi
 bkz virüsler münevver karabulut cinayetinin unutturulmak istenmesi
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-yeti%C5%9Ftirdi%C4%9Fi-filozoflar/&w=bg bkz atakan kaya
 https://www.uludagsozluk.com/k/k-m%C4%B1s%C4%B1ro%C4%9Flu-isminin-bilim-d%C3%BCnyas%C4%B1ndaki-sayg%C4%B1nl%C4%B1%C4%9F%C4%B1/
 -->
 
