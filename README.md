@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/2/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
 https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
 bkz virüsten sonra yapay zekanın işsiz bırakacağı yığınlar
