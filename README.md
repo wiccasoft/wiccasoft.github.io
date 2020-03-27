@@ -4,6 +4,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+nkz yeni dünya düzenin uzun adsam önderliğinde başlaması
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz benim rejimim
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
