@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 <!--
+https://www.uludagsozluk.com/k/murat-sancak/
 bkz bilim kurulu niye virüsü yasaklamıyor sorunsalı
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
