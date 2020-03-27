@@ -4,7 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/coronavir%C3%BCs-%C3%BC-dronelarla-m%C4%B1-yay%C4%B1yorlar/ lol
-https://www.uludagsozluk.com/k/2020-distopik-bir-d%C3%BCnyaya-do%C4%9Fru-gidiyor-olmam%C4%B1z/ daha iyi günleriniz
+https://www.uludagsozluk.com/k/2020-distopik-bir-d%C3%BCnyaya-do%C4%9Fru-gidiyor-olmam%C4%B1z/ 
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
 https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
