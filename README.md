@@ -4,6 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/illuminati-oyun-kartları/&w=bg
+https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
 bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu kalorifer oyununun bozulması
 bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
