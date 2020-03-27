@@ -5,6 +5,7 @@
 
 <!--
 https://www.youtube.com/watch?v=69FlmkZ23zM
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/
 https://www.uludagsozluk.com/k/tanga-giyen-erkek/&w=bg
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorular%C4%B1n%C4%B1z%C4%B1-cevapl%C4%B1yorum/&w=gd
 https://www.uludagsozluk.com/k/polise-ila%C3%A7lar%C4%B1n%C4%B1-ald%C4%B1ran-adam%C4%B1n-evlenmek-istemesi/
