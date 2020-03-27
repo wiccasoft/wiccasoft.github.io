@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg
 https://eksisozluk.com/erkeklerin-saclarini-sifira-vurdurmasi--6438602?a=popular
 https://www.uludagsozluk.com/k/sakals%C4%B1z-erkek/&w=bg
 https://eksisozluk.com/libidosu-yuksek-erkek--5030531?a=popular
