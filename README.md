@@ -4,7 +4,10 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları -->
+https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
+https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
+-->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
