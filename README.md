@@ -4,14 +4,10 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
+https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz uzun adam rejimi
-https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
-https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
-bkz 27 mart 2020 tek dünya devletini kurmam
-bkz 27 mart 2020uyeni dünya düzeni liderliğimi ilan etmem
-bkz yeni dünya düzenin uzun adsam önderliğinde başlaması
-https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz benim rejimim
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
 https://www.google.com.tr/search?q=yeni+d%C3%BCnya+d%C3%BCzeni&oq=yeni+d%C3%BCnya+d%C3%BCzeni&aqs=chrome..69i57j0l5.9142j0j4&sourceid=chrome&ie=UTF-8
