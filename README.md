@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+https://www.uludagsozluk.com/k/2020-distopik-bir-d%C3%BCnyaya-do%C4%9Fru-gidiyor-olmam%C4%B1z/ daha iyi günleriniz
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
 https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
