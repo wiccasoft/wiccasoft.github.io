@@ -4,6 +4,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
 https://www.google.com.tr/search?q=yeni+d%C3%BCnya+d%C3%BCzeni&oq=yeni+d%C3%BCnya+d%C3%BCzeni&aqs=chrome..69i57j0l5.9142j0j4&sourceid=chrome&ie=UTF-8
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
 https://www.youtube.com/watch?v=69FlmkZ23zM
