@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- https://www.uludagsozluk.com/k/pe%C5%9Finizdeki-serserileri-d%C3%B6ven-kahraman/ bkz jackie chen -->
+<!-- 
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-acaip-bir-medeniyete-sahip-olmas%C4%B1/ bkz virüsün sebebi
+https://www.uludagsozluk.com/k/pe%C5%9Finizdeki-serserileri-d%C3%B6ven-kahraman/ bkz jackie chen -->
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
