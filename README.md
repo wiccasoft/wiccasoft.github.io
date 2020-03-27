@@ -3,8 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
-bkz akpnin şule çet cinayetininin üstünü örtpas etmek için virüs üretmesi
-bkz akpnin berkin elvan cinayetini üstünü örtpas etmek için virüs üretmesi
+bkz akpnin şule çet cinayetinin üstünü örtpas etmek için virüs üretmesi
+bkz akpnin berkin elvan cinayetinib üstünü örtpas etmek için virüs üretmesi
 bkz virüsler münevver karabulut cinayetinin unutturulmak istenmesi
 https://www.uludagsozluk.com/k/%C5%9Fule-%C3%A7et-e-%C3%BCz%C3%BClmek-mecburiyeti/&w=bg
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-tek-su%C3%A7u/ martı kaşlı olması
