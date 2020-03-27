@@ -1,48 +1,8 @@
 
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
-[![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
-<!--
-bkz cumburlop başkanının açıklamalarını bekleyen kamalcı
-bkz kürdistan dağlarına ezan sesinin gelmemesi
-bkz kürdistan dağlarına virüsün girememesi
-bkz madem virüs görükmüyo niye korkuyosunuz
-https://www.uludagsozluk.com/k/rize-de-5-k%C3%B6y%C3%BCn-karantina-alt%C4%B1na-al%C4%B1nmas%C4%B1/
-bkz dünya liderinin koronaya verdiği ince ayar
-bkz madem akp çok süper güç niye kornavirüsünü bitirmiyo
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs-%C3%BCzerinden-akp-yi-ele%C5%9Ftiren-tip/
-https://www.uludagsozluk.com/k/k%C3%BCrdistan%C4%B1n-kurulaca%C4%9F%C4%B1-tarih/&w=bg
-https://www.uludagsozluk.com/k/murat-sancak/
-https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
-bkz bilim kurulu niye virüsü yasaklamıyor sorunsalı
-https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
-https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
-https://www.uludagsozluk.com/k/e%C5%9Fine-han%C4%B1m-diyen-%C3%B6k%C3%BCz/&w=bg
-https://www.uludagsozluk.com/k/camileri-uzay-g%C3%B6zlem-evine-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek/
-https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/
-https://www.uludagsozluk.com/k/her-%C5%9Feyi-yasaklay%C4%B1p-soka%C4%9Fa-%C3%A7%C4%B1kma-ilan-etmemek/
-https://www.uludagsozluk.com/k/27-mart-2020-cb-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/
-https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/
-https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
-https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
-https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz uzun adam rejimi
-https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
-https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
-https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
-https://www.google.com.tr/search?q=yeni+d%C3%BCnya+d%C3%BCzeni&oq=yeni+d%C3%BCnya+d%C3%BCzeni&aqs=chrome..69i57j0l5.9142j0j4&sourceid=chrome&ie=UTF-8
-https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
-https://www.youtube.com/watch?v=69FlmkZ23zM
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
-https://www.uludagsozluk.com/k/tanga-giyen-erkek/&w=bg
-https://www.uludagsozluk.com/k/27-mart-2020-ankara-biyolojik-sald%C4%B1r%C4%B1s%C4%B1/
-https://www.uludagsozluk.com/k/tengir-budun-un-diyanet-i%C5%9Fleri-ne-ter%C3%B6rist-demesi/
-https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorular%C4%B1n%C4%B1z%C4%B1-cevapl%C4%B1yorum/&w=gd
-https://www.uludagsozluk.com/k/polise-ila%C3%A7lar%C4%B1n%C4%B1-ald%C4%B1ran-adam%C4%B1n-evlenmek-istemesi/
-https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
-https://www.uludagsozluk.com/k/sosyal-medya-hesab%C4%B1-a%C3%A7t%C4%B1%C4%9F%C4%B1-i%C3%A7in-eski-kar%C4%B1m%C4%B1-vurdum/
--->
+[![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
