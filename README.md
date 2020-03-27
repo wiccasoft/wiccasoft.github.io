@@ -4,6 +4,7 @@
 <!--
 bkz kürdistan dağlarına virüsün girememesi
 bkz madem virüs görükmüyo niye korkuyosunuz
+https://www.uludagsozluk.com/k/rize-de-5-k%C3%B6y%C3%BCn-karantina-alt%C4%B1na-al%C4%B1nmas%C4%B1/
 bkz dünya liderinin koronaya verdiği ince ayar
 bkz madem akp çok süper güç niye kornavirüsünü bitirmiyo
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs-%C3%BCzerinden-akp-yi-ele%C5%9Ftiren-tip/
