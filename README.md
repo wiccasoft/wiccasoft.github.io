@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz beratın penis yüzüğünü kayınbabasına taktırması
 bkz yi olm ye eyi gelir teyze
 bkz yemeyin onu yavv yenir mi o dayı
 bkz en bok yerseniz yiyin dayı
