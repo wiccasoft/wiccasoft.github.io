@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorular%C4%B1n%C4%B1z%C4%B1-cevapl%C4%B1yorum/&w=gd
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg
 https://www.uludagsozluk.com/k/sa%C3%A7-dekoltesi-veren-t%C3%BCrbanl%C4%B1/&w=bg
 https://eksisozluk.com/erkeklerin-saclarini-sifira-vurdurmasi--6438602?a=popular
