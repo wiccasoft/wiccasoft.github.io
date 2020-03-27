@@ -6,6 +6,7 @@
 <!--
 https://www.youtube.com/watch?v=69FlmkZ23zM
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
 https://www.uludagsozluk.com/k/tanga-giyen-erkek/&w=bg
 https://www.uludagsozluk.com/k/27-mart-2020-ankara-biyolojik-sald%C4%B1r%C4%B1s%C4%B1/
 https://www.uludagsozluk.com/k/tengir-budun-un-diyanet-i%C5%9Fleri-ne-ter%C3%B6rist-demesi/
