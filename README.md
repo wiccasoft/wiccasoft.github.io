@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
+bkz rte putini atakta bekletti tapelerinin fake yani sahte çıkması
 bkz akpnin şule çet cinayetinin üstünü örtpas etmek için virüs üretmesi
 bkz akpnin berkin elvan cinayetinib üstünü örtpas etmek için virüs üretmesi
 bkz virüsler münevver karabulut cinayetinin unutturulmak istenmesi
