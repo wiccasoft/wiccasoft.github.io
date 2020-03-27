@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bkz ajdar
 bkz 27 mart 2020 mansur yavaşın mehdi ayaklarına yatması
 bkz 27 mart 2020 mustafa cengizin ali cengiz oyunları kesmesi
 bkz mehdinin zaten ben mehdi değilim demeyecek olması hilesi
