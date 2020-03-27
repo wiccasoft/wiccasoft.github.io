@@ -7,6 +7,7 @@ https://eksisozluk.com/erkeklerin-saclarini-sifira-vurdurmasi--6438602?a=popular
 https://www.uludagsozluk.com/k/sakals%C4%B1z-erkek/&w=bg
 https://eksisozluk.com/libidosu-yuksek-erkek--5030531?a=popular
 https://eksisozluk.com/27-mart-2020-millet-camii-cuma-namazi--6438859?a=popular
+https://www.uludagsozluk.com/k/%C3%A7inden-gelen-telefon-k%C4%B1l%C4%B1f%C4%B1-%C3%BCcretini-atat%C3%BCrk-%C3%B6dedi/
 https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-bakanl%C4%B1%C4%9F%C4%B1-n%C4%B1n-imamo%C4%9Flu-na-ayar-vermesi/&w=gd
 https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
 https://www.uludagsozluk.com/k/ba%C5%9Fkan-apo-nun-heykelini-dikece%C4%9Fiz-heykelini/&w=bg 
