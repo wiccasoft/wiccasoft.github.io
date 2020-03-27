@@ -7,13 +7,10 @@ https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
 https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
 bkz virüsten sonra yapay zekanın işsiz bırakacağı yığınlar
-https://www.uludagsozluk.com/k/gen%C3%A7-erkeklerin-olgun-erkekleri-k%C4%B1skanmas%C4%B1/ 
-https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bkz ajdar
 bkz 27 mart 2020 mansur yavaşın mehdi ayaklarına yatması
 bkz 27 mart 2020 mustafa cengizin ali cengiz oyunları kesmesi
 bkz mehdinin zaten ben mehdi değilim demeyecek olması hilesi
 bkz 27 mart 2020 mehdinin rte suretinde zühur eylemesi
-https://www.uludagsozluk.com/k/isa-mesih-yeshua-n%C4%B1n-son-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/illuminati-oyun-kartları/&w=bg
 https://www.uludagsozluk.com/k/vir%C3%BCs-ge%C3%A7tikten-sonra-%C3%A7in-e-kesilecek-fatura/
 https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
