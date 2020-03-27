@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/murat-sancak/
+https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
 bkz bilim kurulu niye virüsü yasaklamıyor sorunsalı
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
