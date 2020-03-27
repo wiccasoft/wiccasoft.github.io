@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 <!--
-bkz cumhurbaşkanınınz açıklmalarını bekleyen kamalcı
+bkz cumburlop başkanının açıklamalarını bekleyen kamalcı
 bkz kürdistan dağlarına ezan sesinin gelmemesi
 bkz kürdistan dağlarına virüsün girememesi
 bkz madem virüs görükmüyo niye korkuyosunuz
