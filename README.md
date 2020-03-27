@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+bkz beratın penis yüzüğünü kayınbabasına taktırması
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-acaip-bir-medeniyete-sahip-olmas%C4%B1/ eywall bro zılgıt çekiyik
 https://www.uludagsozluk.com/k/kadinlara-g%C3%BCvenmeyen-erkek/ bkz şiwan perwane
 https://www.uludagsozluk.com/k/%C5%9Fivan-perwer/&w=bg eywwallah bro yanıktır gırtlah acı yiyik ondan az
