@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
-bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
+bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu kalorifer oyununun bozulması
 bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
 bkz akpnin şule çet cinayetinin üstünü örtpas etmek için virüs üretmesi
 bkz akpnin berkin elvan cinayetinib üstünü örtpas etmek için virüs üretmesi
