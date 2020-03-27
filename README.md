@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!-- 
+https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n%C4%B1-k%C4%B1st%C4%B1ran-k%C3%B6t%C3%BCleri-indiren-sniper/ 
 https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular&p=14 la olm yeme la laaaaa ananı avradını
 https://elmander-vs-kewell.uludagsozluk.com/ hayawl dünyası geniş bi ergen yaş 15 falan sanırım
 bkz beratın penis yüzüğünü kayınbabasına taktırması
