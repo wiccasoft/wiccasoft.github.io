@@ -5,6 +5,7 @@
 
 <!--
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
+https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/
 https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
 https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz uzun adam rejimi
