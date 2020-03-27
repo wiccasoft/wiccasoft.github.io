@@ -7,8 +7,6 @@ https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
 https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
 bkz virüsten sonra yapay zekanın işsiz bırakacağı yığınlar
-bkz 27 mart 2020 mansur yavaşın mehdi ayaklarına yatması
-bkz 27 mart 2020 mustafa cengizin ali cengiz oyunları kesmesi
 bkz mehdinin zaten ben mehdi değilim demeyecek olması hilesi
 bkz 27 mart 2020 mehdinin rte suretinde zühur eylemesi
 https://www.uludagsozluk.com/k/illuminati-oyun-kartları/&w=bg
