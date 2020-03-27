@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 <!--
+bkz kürdistan dağlarına virüsün girememesi
 bkz madem virüs görükmüyo niye korkuyosunuz
 bkz dünya liderinin koronaya verdiği ince ayar
 bkz madem akp çok süper güç niye kornavirüsünü bitirmiyo
