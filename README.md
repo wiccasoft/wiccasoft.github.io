@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+https://www.uludagsozluk.com/k/isa-mesih-yeshua-n%C4%B1n-son-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/illuminati-oyun-kartları/&w=bg
 https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
 bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu kalorifer oyununun bozulması
