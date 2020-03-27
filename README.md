@@ -1,21 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-<!-- 
-bkz beratın tayyibi iyice taşşak oğlanına çevirmesi
-bkz tayyibin beratın penis yüzüğünü takması
-https://www.uludagsozluk.com/k/tayyibin-323021-kere-muhtarlar-ile-bulu%C5%9Fmas%C4%B1/&w=bg
-bkz beratın penis yüzüğünü kayınbabasına taktırması
-https://www.uludagsozluk.com/k/k%C3%BCrtlerin-acaip-bir-medeniyete-sahip-olmas%C4%B1/ zılgıt çekiyik bi de
-https://www.uludagsozluk.com/k/kadinlara-g%C3%BCvenmeyen-erkek/ bkz şiwan perwane
-https://www.uludagsozluk.com/k/%C5%9Fivan-perwer/&w=bg eywwallah bro yanıktır gırtlah acı yiyik ondan az
-https://eksisozluk.com/wuhan-canli-hayvan-pazari--6438211?a=popular&p=14 la olm yeme la laaaaa ananı avradını
-bkz beratın penis yüzüğünü kayınbabasına taktırması
-bkz yi olm ye eyi gelir teyze
-bkz yemeyin onu yavv yenir mi o dayı
-bkz en bok yerseniz yiyin dayı
-https://www.uludagsozluk.com/k/k%C3%BCrtlerin-acaip-bir-medeniyete-sahip-olmas%C4%B1/ bkz virüsün sebebi
-https://www.uludagsozluk.com/k/pe%C5%9Finizdeki-serserileri-d%C3%B6ven-kahraman/ bkz jackie chen -->
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
