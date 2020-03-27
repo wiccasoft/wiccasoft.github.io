@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrdistan%C4%B1n-kurulaca%C4%9F%C4%B1-tarih/&w=bg
 https://www.uludagsozluk.com/k/murat-sancak/
 bkz dünya liderinin koronaya verdiği ince ayar
 https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
