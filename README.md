@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks köpeği taci
 bkz sihirli annem taci vs aile şerefindeki piç rte
 https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları
