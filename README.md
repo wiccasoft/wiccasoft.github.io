@@ -10,6 +10,8 @@ https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
 bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
 bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
+bkz 27 mart 2020 mehdinin zühur eylemesi
+bkz mehdinin zühur eylesemde eylemedim diyecem deyecek olması hilesi
 -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
