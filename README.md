@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+bkz türklerin sadece statü ve paraya tapması
 https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
 https://www.uludagsozluk.com/k/gen%C3%A7-erkeklerin-olgun-erkekleri-k%C4%B1skanmas%C4%B1/ 
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bkz ajdar
