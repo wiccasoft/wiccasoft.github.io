@@ -4,6 +4,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz uzun adam rejimi
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
