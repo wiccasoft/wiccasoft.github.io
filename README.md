@@ -2,41 +2,11 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
-<!--
-https://vac-lshtm.shinyapps.io/ncov_tracker/
-https://www.uludagsozluk.com/k/coronavir%C3%BCs-%C3%BC-dronelarla-m%C4%B1-yay%C4%B1yorlar/ lol
-https://www.uludagsozluk.com/k/2020-distopik-bir-d%C3%BCnyaya-do%C4%9Fru-gidiyor-olmam%C4%B1z/ 
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
-https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
-https://www.uludagsozluk.com/k/uran%C3%BCs-%C3%BCn-osurmas%C4%B1/
-bkz virüsten sonra yapay zekanın işsiz bırakacağı yığınlar
-bkz mehdinin zaten ben mehdi değilim demeyecek olması hilesi
-bkz 27 mart 2020 mehdinin rte suretinde zühur eylemesi
-https://www.uludagsozluk.com/k/illuminati-oyun-kartları/&w=bg
-https://www.uludagsozluk.com/k/vir%C3%BCs-ge%C3%A7tikten-sonra-%C3%A7in-e-kesilecek-fatura/
-https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
-bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu kalorifer oyununun bozulması
-bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
-https://www.uludagsozluk.com/k/k-m%C4%B1s%C4%B1ro%C4%9Flu-isminin-bilim-d%C3%BCnyas%C4%B1ndaki-sayg%C4%B1nl%C4%B1%C4%9F%C4%B1/
-bkz cemiyet hayatının saygın isimlerinden olmak
-bkz saygın bilim adamlarının bi antivirüs üretememesi
-bkz lanet olsun atom fiziğine de profesörlüğüne de
-https://yerli-ve-milli.uludagsozluk.com/ bkz rallın annesi
-https://www.uludagsozluk.com/k/en-sevdi%C4%9Finiz-peygamber/
-https://www.uludagsozluk.com/k/isa-n%C4%B1n-%C3%B6lmeden-%C3%B6nceki-son-konu%C5%9Fmas%C4%B1/
-https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
-https://www.uludagsozluk.com/k/mustafa-cengiz-in-milletten-devlete-destek-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
--->
-
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
-
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
-
 
 [![Image](eq/Screenshot_2020-03-25_15-51-45.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM )
 
