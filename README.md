@@ -9,6 +9,7 @@ bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
 https://www.uludagsozluk.com/k/k-m%C4%B1s%C4%B1ro%C4%9Flu-isminin-bilim-d%C3%BCnyas%C4%B1ndaki-sayg%C4%B1nl%C4%B1%C4%9F%C4%B1/
 bkz cemiyet hayatının saygın isimlerinden olmak
+bkz saygın bilim adamlarının bi antivirüs üretememesi
 -->
 
 
