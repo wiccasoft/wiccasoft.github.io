@@ -5,6 +5,7 @@
 
 <!--
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
+https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
 https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z-en-iyisini-bilir/
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg bkz uzun adam rejimi
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
