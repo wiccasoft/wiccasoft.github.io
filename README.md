@@ -13,6 +13,7 @@ bkz saygın bilim adamlarının bi antivirüs üretememesi
 bkz lanet olsun atom fiziğine de profesörlüğüne de
 https://yerli-ve-milli.uludagsozluk.com/ bkz rallın annesi
 https://www.uludagsozluk.com/k/en-sevdi%C4%9Finiz-peygamber/
+https://www.uludagsozluk.com/k/isa-n%C4%B1n-%C3%B6lmeden-%C3%B6nceki-son-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
 https://www.uludagsozluk.com/k/mustafa-cengiz-in-milletten-devlete-destek-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
 -->
