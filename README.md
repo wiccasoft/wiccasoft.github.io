@@ -4,6 +4,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
 https://galeri.uludagsozluk.com/r/fahrettin-koca-1993818/
 https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/
 https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
