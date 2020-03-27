@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
 
 <!--
+https://www.uludagsozluk.com/k/sakals%C4%B1z-erkek/&w=bg
 https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-bakanl%C4%B1%C4%9F%C4%B1-n%C4%B1n-imamo%C4%9Flu-na-ayar-vermesi/&w=gd
 https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/
 https://www.uludagsozluk.com/k/ba%C5%9Fkan-apo-nun-heykelini-dikece%C4%9Fiz-heykelini/&w=bg 
