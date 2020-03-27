@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!--
+bkz mehdinni zaten ben mehdi değilim demeyecek olması hilesi
 bkz 27 mart 2020 mehdinin rte suretinde zühur eylemesi
 https://www.uludagsozluk.com/k/isa-mesih-yeshua-n%C4%B1n-son-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/illuminati-oyun-kartları/&w=bg
