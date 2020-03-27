@@ -1,8 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
-[![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
-
 <!--
 bkz bilim kurulu niye virüsü yasaklamıyor sorunsalı
 https://www.uludagsozluk.com/k/tek-adam-rejimi/&w=bg
@@ -30,6 +28,9 @@ https://www.uludagsozluk.com/k/polise-ila%C3%A7lar%C4%B1n%C4%B1-ald%C4%B1ran-ada
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-%C4%B1n-kabe-tavafa-a%C3%A7%C4%B1ls%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
 https://www.uludagsozluk.com/k/sosyal-medya-hesab%C4%B1-a%C3%A7t%C4%B1%C4%9F%C4%B1-i%C3%A7in-eski-kar%C4%B1m%C4%B1-vurdum/
 -->
+
+[![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
+
 
 [![Image](eq/Screenshot_2020-03-25_16-01-16.png)]( https://www.youtube.com/watch?v=rDCIt8yhcPM )
 
