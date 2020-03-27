@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/k-m%C4%B1s%C4%B1ro%C4%9Flu-isminin-bilim-d%C3%BCn
 bkz cemiyet hayatının saygın isimlerinden olmak
 bkz saygın bilim adamlarının bi antivirüs üretememesi
 bkz lanet olsun atom fiziğine de profesörlüğüne de
+https://yerli-ve-milli.uludagsozluk.com/ bkz yerli ve milli gay
 https://www.uludagsozluk.com/k/en-sevdi%C4%9Finiz-peygamber/
 https://www.uludagsozluk.com/k/hepsi-ge%C3%A7ecek-ama-fahrettin-kocayla-%C3%B6p%C3%BC%C5%9Feceksiniz/
 -->
