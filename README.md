@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 <!--
+bkz madem virüs görükmüyo niye korkuyosunuz
 bkz dünya liderinin koronaya verdiği ince ayar
 bkz madem akp çok süper güç niye kornavirüsünü bitirmiyo
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs-%C3%BCzerinden-akp-yi-ele%C5%9Ftiren-tip/
