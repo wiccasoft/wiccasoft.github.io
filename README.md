@@ -2,6 +2,9 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
+<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-%C3%A7i%C3%A7ek-alan-erkek/&w=bg bkz rte -->
+
+
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
