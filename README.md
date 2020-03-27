@@ -4,6 +4,7 @@
 <!-- 
 bkz yi olm ye eyi gelir teyze
 bkz yemeyin onu yavv yenir mi o dayı
+bkz en bok yerseniz yiyin dayı
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-acaip-bir-medeniyete-sahip-olmas%C4%B1/ bkz virüsün sebebi
 https://www.uludagsozluk.com/k/pe%C5%9Finizdeki-serserileri-d%C3%B6ven-kahraman/ bkz jackie chen -->
 
