@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz varank varank diye zıplayan çocuklara gelişine vurmak
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
 bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
 bkz sokaklarda kızılhaç görmek istemiyoruz kampanyası
