@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1m-e%C5%9Fek-diye-%C5%9Fark%C4%B1-yap%C4%B1p-sanat%C3%A7%C4%B1-olmak/&w=bg
 bkz sokaklarda kızılhaç görmek istemiyoruz kampanyası
 bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
