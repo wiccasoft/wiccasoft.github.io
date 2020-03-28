@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz migrosta kalmayan erkekler
+bkz karaborsacıların yakışıklı olgun erkeleri stoklaması
 bkz damadın altın varanklı penis yüzüğü
 https://www.uludagsozluk.com/k/rte-nin-ula%C5%9Ft%C4%B1rma-bakan%C4%B1-na-ayar-vermesi/
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz stoklanası erkekler
