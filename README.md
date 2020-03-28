@@ -3,7 +3,7 @@
 
 <!-- 
 bkz b albayrakın altın varanklı peniz yüzüğünün fake çıkması
-bkz imamaoğlanın makam odasındaki altın varanklı telefon
+bkz imamoğlanın makam odasındaki altın varanklı telefon
 bkz 29 mart 2020 ukrayana ilacı buldu iddaları
 bkz 29 mart 2020 mansur yavaş ayakta bekletti iddaları
 bkz 27 mart 2020 gebeşlerin damada düzenlediği fotoşoklu varank oyununun bozulması
