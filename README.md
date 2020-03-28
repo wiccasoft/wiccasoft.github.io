@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
-https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332 helal be olm
+https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332
 bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
 bkz kadir mısıroğlanın donun indirip kaçmak başlığının silinmesi
 bkz kadir mısıroğlan aracücü zamanında rakı içseydi olacaklar
