@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz kafirün suresinden virüsü atacücücü bi kafirin bulacağı ayeti
+https://www.uludagsozluk.com/k/covid-19-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bir-kafirin-bulaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 bkz 28 mart 2020 ekşicilerin attığı altın varanklı penis yüzüğünün fotoşok çıkması
 bkz pkklıların vodafone atacücüccülerin turkcell ci olması
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-gsm-operat%C3%B6rleri/&w=bg 
