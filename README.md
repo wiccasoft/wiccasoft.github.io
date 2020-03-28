@@ -3,28 +3,7 @@
 
 <!--
 bkz covid aşısını yarasa yiyp yılan kanı içen çinli bi kafirin bulacağı gerçeği
-https://www.uludagsozluk.com/k/covid-19-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bir-kafirin-bulaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
-bkz ibrahim tatlıseks ellerimi yıkıyorum vidyosu
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-den-ellerimi-y%C4%B1k%C4%B1yorum-videosu/
-bkz atacücünün virüsü denize dökelim önerisi
-https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/&w=gd
-bkz kızılhaçın hala utanmadan haç göstermesi
-bkz rte nin coronayı suriye ye kadar sıkıştıralım bir gece ansızın musul önerisi
-https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/ bkz b planı
-bkz rte nin corona virüsüne rakı atalım önerisi
-bkz mansur yavaşın yavaş ol bakalım demesi
-bkz nazım hikmetin covid19 + çıkması
-bkz macronun virüsü rusyada sıkıştıralım planı
-bkz rte nin askerleri sınıra dizmesi
-bkz rte'nin corona virüs ile efsanevi savaşı
-bkz imamoğlanla romantik bir gece vs yavaş ile hızlı bir gece
-bkz mansur yavaşın yavaş yavaş bomba gibi geldiği gerçeği
-bkz mansur yavaşın mustafa akıncıya yavaş ol saçın başın dağılmasın demesi
-bkz rte nin 17-25 aralık tapelerini örtpas etmek için virüs çıkartması
-bkz dünya liderinin corona ile liderleri dize getirmesi
 https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/
-bkz mustafa akıncının diz çöküp tövbe dilemesi
-bkz karantinada atacücüyüe cücük diyen gençler
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 https://www.uludagsozluk.com/k/naz%C4%B1m-hikmet-in-kar%C4%B1s%C4%B1n%C4%B1-aldatmas%C4%B1/
 bkz mustaf akıncının erdoğana af dileyip diz çökmesi
