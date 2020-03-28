@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
+<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-13-%C3%BCnc%C3%BC-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/ -->
+
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
