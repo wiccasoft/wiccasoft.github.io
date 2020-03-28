@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz türklerin birbirini yiyeceği günlerin yaklaşması
 bkz migrosa gittim kaslı erkek bulamadım ayol
 bkz ekşcilerin kaslı erkekleri stoklaması
 https://www.uludagsozluk.com/k/ersin-karacan/ ay kaslı ayol
