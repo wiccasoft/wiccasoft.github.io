@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz mansur yavaşın virüse yavaş ol bakalım demesi
 bkz acunun covid ol kampanyası düzenlemesi
