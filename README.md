@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!--
+https://www.uludagsozluk.com/k/çirkin-ama-sempatik-erkek-mühendis/ bkz ajdar anık
 https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/ bkz abdul özkirazın olu
 https://www.uludagsozluk.com/k/karadenizli-erkeklerin-genel-%C3%B6zellikleri/&w=bg 
 https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcan tweetlerini hatim etmek
