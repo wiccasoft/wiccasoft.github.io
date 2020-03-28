@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/kim-milyoner-deki-fitness%C3%A7%C4%B1-bebe/
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu-nu-mossad-m%C4%B1-koruyor/&w=bg
 https://www.uludagsozluk.com/k/berkin-elvan-büyüseydi-ne-olurdu-sorunsalı/
 https://www.uludagsozluk.com/k/berkin-elvana-%C3%BCzlmek/
