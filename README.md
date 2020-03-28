@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz türklerin oç virüsler olması
+https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 bkz atacücüye nbenzeyen adamın ankarada virüs kapması
 https://www.uludagsozluk.com/k/mustafa-kemal-in-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg
 bkz pkk energianın türkleri siklememesi
