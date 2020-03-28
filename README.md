@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg
 bkz recep tayyi perdoğanın damadın penis yüzüğünü azıyla takması
 bkz b alnyrak ın rte yi iyiyce taşşak oğlanı yapması
 bkz rte nin damadın penis yüzüğünü azıyla takması
