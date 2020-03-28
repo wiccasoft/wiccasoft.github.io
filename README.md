@@ -2,8 +2,9 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz rte nin imamaoğlan önümde diz çökerse aşıyı bulurum demesi
 bkz rte nin bir şartla antivirüsü bulurum demesi
-bkz imamaoğlunun rte ye diz çökip tövbe dilemesi
+bkz imamoğlunun rte ye diz çökip tövbe dilemesi
 bkz rte nin efso savaş planı
 bkz mansur yavaşın virüse yavaş ol bakalım demesi
 bkz acunun covid ol kampanyası düzenlemesi
