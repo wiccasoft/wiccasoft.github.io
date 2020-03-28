@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz imamaoğlanla romantik bir akşam vs mansur yavaş ile hızlı bir gece
 bkz kadir mısıroğlanın donunu indirip kaçmak başlığının silinmesi
 https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/ bkz 13. nesil erkekler
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
