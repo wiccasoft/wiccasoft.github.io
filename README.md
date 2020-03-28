@@ -2,10 +2,10 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
-bkz 28 mart 2020 banka varank'ın açıklamaları
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
+bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
+bkz 28 mart 2020 banka varank'ın açıklamaları
 bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
 bkz sokaklarda kızılhaç görmek istemiyoruz kampanyası
 bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
