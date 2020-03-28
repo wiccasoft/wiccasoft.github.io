@@ -2,9 +2,10 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz çinlilerin yarasa yediğine inanan ergen
+https://www.uludagsozluk.com/r/jackie-chan-1995415/
 bkz virüsün atacücücü olması
 bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
+bkz çinlilerin yarasa yediğine inanan ergen
 https://www.uludagsozluk.com/k/millete-ihanet-projesi/&w=bg
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
 https://www.uludagsozluk.com/k/ko%C3%A7-holdingin-corona-ile-sava%C5%9F%C4%B1/&w=bg
