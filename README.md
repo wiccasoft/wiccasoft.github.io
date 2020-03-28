@@ -1,9 +1,10 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
-<!-- 
+<!-- ,
+bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
 https://www.uludagsozluk.com/k/rte-nin-ula%C5%9Ft%C4%B1rma-bakan%C4%B1-na-ayar-vermesi/
-bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
+bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
 bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
 bkz 27 mart 2020 mehdinin zühur eylemesi
 bkz mehdinin zühur eylesemde eylemedim diyecem deyecek olması hilesi
