@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
-bkz varan varank diye zıplayan ergenlere gelişine vurmak ekşiyer gömmek
+bkz varank varank diye zıplayan ergenlere gelişine vurmak ekşiye gömmek
 bkz fahrettin kocanın ikinci atacücü olması
 bkz türkiyenin 13 .cumhurbaşkanı fahrettin koca
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
