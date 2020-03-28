@@ -1,53 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
-<!-- 
-bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam yemeği
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1-ekrem-imamo%C4%9Flu-na-tercih-etmek/
-bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
-bkz 28 mart 2020 banka varank'ın açıklamaları
-bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
-https://www.uludagsozluk.com/k/rte-nin-ula%C5%9Ft%C4%B1rma-bakan%C4%B1-na-ayar-vermesi/
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz stoklanası erkekler
-https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/&w=bg
-bkz donald trumpın oğlunun altın varanklı odası
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-alt%C4%B1n-varankl%C4%B1-ev-e%C5%9Fyalar%C4%B1/
-bkz migros kangurusu yenir mi sorunsalı
-bkz koç holding ekşicilere koç taşşağı yollaması
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
-bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam yemeği
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1-ekrem-imamo%C4%9Flu-na-tercih-etmek/
-bkz türklerin birbirini yiyeceği günlerin yaklaşması
-bkz migrosa gittim kaslı erkek bulamadım ayol
-bkz ekşcilerin kaslı erkekleri stoklaması
-https://www.uludagsozluk.com/k/ersin-karacan/ ay kaslı ayol
-bkz beni seven sigara içmez valla küserim bak
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
-https://www.uludagsozluk.com/k/sigaray%C4%B1-b%C4%B1rak-hayat%C4%B1-b%C4%B1rakma/&w=bg içmeyin şu zıkkımı
-bkz türkiye hariç bütün ülkeleri şirket gibi yöneteeğim
-https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
-bkz mansur yavaş ciğerimi söktün diyen covid19 lu kamalcı
-bkz şaka maka mansur yavaşın ciğerinizi sökmesi
-bkz şakşukaaa şakşukaaa şaka da şukaaaaaaaa
-bkz beraber yürüdük biz bu yollardaaaaaaaaa beraber çarmıha gerildik yağan coronada
-bkz kızılhaçın utanmadan müslümanlara haç göndermesi
-https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
-bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
-https://www.uludagsozluk.com/k/rte-nin-ula%C5%9Ft%C4%B1rma-bakan%C4%B1-na-ayar-vermesi/
-bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
-bkz 27 mart 2020 mehdinin zühur eylemesi
-bkz mehdinin zühur eylesemde eylemedim diyecem deyecek olması hilesi
-https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
-bkz akpnin atacücüleri yıldırmak için virüs yaratması
-bkz 1881 atacücü = 18+81 = 99 - 81 - batman = covid 19
-https://www.uludagsozluk.com/k/corona-vs-teyyip/
-https://www.uludagsozluk.com/k/%C3%A7ocuklar-%C3%B6l%C3%BCrken-%C3%A7ine-yard%C4%B1m-yapmak/
-https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7inlilere-bir-mesaj-b%C4%B1rak/ bkz yemeğin o boğu amuğa goyim
-https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-%C4%B1n-hala-utanmadan-ba%C4%9F%C4%B1%C5%9F-istemesi/
-bkz kızılhaçın hala utanmadan para istememesi -->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
