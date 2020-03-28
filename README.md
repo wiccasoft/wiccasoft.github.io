@@ -3,6 +3,7 @@
 
 <!--
 bkz türklerin oç virüsler olması
+bkz oç türk lere gelişine vurmak
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 bkz atacücüye nbenzeyen adamın ankarada virüs kapması
 https://www.uludagsozluk.com/k/mustafa-kemal-in-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg
