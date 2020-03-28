@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz ali koçun islamcılara karşı onurlu duruşu
 bkz ali koçun fenerli ve atatürkçü olması
 bkz migros kangurusunun onurlu duruşu
 bkz yarasa yiyip yılan kanı içmek
