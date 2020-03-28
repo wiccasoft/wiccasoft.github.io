@@ -3,7 +3,7 @@
 
 <!--
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
-bkz kılıştaroğlanın asıl virüs zihniyetiniz demesi
+bkz bay kemalin asıl virüs zihniyetiniz demesi
 bkz mansur yavaşın virüse yavaş ol bakalım demesi
 bkz acunun covid ol kampanyası düzenlemesi
 bkz migros ta fare kanı satılmaması 
