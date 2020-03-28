@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz 29 mart 2020 ukrayana ilacı buldu iddaları
 bkz 29 mart 2020 mansur yavaş ayakta bekletti iddaları
 bkz 27 mart 2020 gebeşlerin damada düzenlediği fotoşoklu varank oyununun bozulması
 bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
