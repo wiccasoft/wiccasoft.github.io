@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/insan-yap%C4%B1m%C4%B1-vir%C3%BCsten-allah-%C4%B1-sorumlu-tutmak/
-https://www.youtube.com/watch?v=EfAsNffCjsM bkz ne kadar süper lan
+https://www.youtube.com/watch?v=EfAsNffCjsM bkz ellek ne kadar süper lan
 https://www.uludagsozluk.com/k/koskoca-d%C3%BCnyan%C4%B1n-bir-vir%C3%BCs%C3%BC-ekarte-edememesi/ 
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
