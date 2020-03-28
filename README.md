@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz yarasa yiyip yılan kanı içmek
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz atacücünün minnak faşistleri davar güder gibi gütmesi
 bkz karantinada varan varank diye zıplayan ergenlere gelişine vurmak
