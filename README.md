@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz akpnin atacücüleri yıldırmak için virüs yaratması
 bkz 1881 atacücü = 18+81 = 99 - 81 - batman = covid 19
 https://www.uludagsozluk.com/k/corona-vs-teyyip/
 https://www.uludagsozluk.com/k/%C3%A7ocuklar-%C3%B6l%C3%BCrken-%C3%A7ine-yard%C4%B1m-yapmak/
