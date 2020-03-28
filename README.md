@@ -2,9 +2,9 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz yarasa yiyip yılan kanı içip türk sikmek
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BC-ilk-bula%C5%9Ft%C4%B1ran-ki%C5%9Fi/
-bkz yarasa yiyip yılan kanı içmek
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
 bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
 https://www.uludagsozluk.com/k/millete-ihanet-projesi/&w=bg
