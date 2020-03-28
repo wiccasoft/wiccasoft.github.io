@@ -1,7 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
-<!-- ,
+<!-- 
+bkz kılızhaçon utanmadan müslümanlara haç göndermesi
 bkz beraber yürüdük biz bu yollardaaaaaaaaa
 https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
 bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
