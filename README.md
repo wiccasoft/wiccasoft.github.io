@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz millet ilaç beklerken bay kemalin osura osura uyuması
+bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz kılıştaroğlanın asıl virüs zihniyetiniz demesi
 bkz mansur yavaştan imamaoğlana virüslü tehdit
 bkz rte nin imamaoğlan önümde diz çökerse aşıyı bulurum demesi
