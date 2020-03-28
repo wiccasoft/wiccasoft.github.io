@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz ali koçun rüçtü reçberi arayıp geçmiş olsun dilemesi
 bkz fathi terimin rüştü reçberi hastanede ziyaret etmesi
 bkz seyit onbaşının götüne 250 kilo mermi soktuğu iddaları
 https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=bg bkz bok yoluna gitti rüştü
