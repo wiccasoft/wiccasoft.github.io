@@ -5,6 +5,7 @@
 bkz yarasa yiyip yılan kanı içmek
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
+bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz atacücünün minnak faşistleri davar güder gibi gütmesi
 bkz varank varank diye zıplayan ergenlere gelişine vurmak
 bkz damadın altın peteği bakan varank yolladı açıklaması
