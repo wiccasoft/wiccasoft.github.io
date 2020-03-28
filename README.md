@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz damadın altın varanklı penis yüzüğü fake mi sorunsalı
 https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/
 bkz atacücü ün damarlarınızdaki asil kanda mevcut derken n e demek istemesi sorundalı
 bkz atacüc damarlarınızdaki asil kan derken 0 rh mı demek istedi sorunsalı
