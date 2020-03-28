@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz dünya liderinin corona ile liderleri dize getirmesi
+https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/
 bkz mustafa akıncının diz çöküp tövbe dilemesi
 bkz karantinada atacücüyüe cücük diyen gençler
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
