@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz sokaklarda kızılhaç görmek istemiyoruz kampanyası
+bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
 bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
 bkz covid aşısını yarasa yiyip yılan kanı içen bi çinlinin bulacağı gerçeği
