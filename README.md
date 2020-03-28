@@ -9,6 +9,7 @@ bkz varank varank diye zıplayan ergenlere gelişine vurmak
 bkz damadın altın peteği bakan varank yolladı açıklaması
 bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
 bkz 28 mart 2020 damadın peniz yüzüğünün fake çıkması
+https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
