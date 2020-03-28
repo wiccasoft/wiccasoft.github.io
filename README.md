@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 https://www.uludagsozluk.com/k/ahmet-hamdi-%C3%A7aml%C4%B1-n%C4%B1n-feto-itiraf%C4%B1/
-bkz şaka maka kürdistanımın dağlarında altın varanklar açması
+bkz şaka maka wiccasoftumun dağlarında altın varanklar açması
 bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
