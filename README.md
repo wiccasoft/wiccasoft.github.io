@@ -9,7 +9,8 @@ https://www.uludagsozluk.com/k/%C3%A7ocuklar-%C3%B6l%C3%BCrken-%C3%A7ine-yard%C4
 https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7inlilere-bir-mesaj-b%C4%B1rak/ bkz yemeğin o boğu amuğa goyim
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
-bkz kızılhaçın hala utanmadan para istemesi -->
+https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-%C4%B1n-hala-utanmadan-ba%C4%9F%C4%B1%C5%9F-istemesi/
+bkz kızılhaçın hala utanmadan para istememesi -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
