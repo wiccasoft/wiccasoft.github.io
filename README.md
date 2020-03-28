@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz mansur yavaş sağlık kiti dağıtım rezaleti
 bkz mansur ark mansur yavaş benzerliği
 bkz imamaoğlanla romantik bir akşam  vs mansur yavaş ile hızlı bir gece
 bkz mansur yavaş imamoğlu ikilisine kova ile kürek verip kumda oynayın demek
