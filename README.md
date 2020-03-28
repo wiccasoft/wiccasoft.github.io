@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
-bkz tunç soyer vs mansur yavaş
+bkz tunç soyerle romantik bir gece  vs mansur yavaşla hızlı bir gece
 bkz sihirli annem köpek taci vs mevzu derindeki piç oktay
 https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları
