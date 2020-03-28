@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz ekrem imamaoğlanı arayıp mutlu musun ekrem demek
 bkz uzun eşşek oynarken arkdaşın götüne kafasını sokan çocuk
 bkz yarasa yiyip yılan kanı içmek
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
