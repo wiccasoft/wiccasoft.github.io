@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz pkk energianın türkleri siklememesi
 bkz pkk energia nın dağ kadrosunun güçlendirmesi
 bkz tek dünya devletini kurup türklere gelişine çakmak
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
