@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
-https://www.youtube.com/watch?v=tC4D-bzCWJc bkz tengir budun vs ekşiciler
+https://www.uludagsozluk.com/k/hepinizi-hasta-edece%C4%9Fim-diyen-umreci/
+https://www.youtube.com/watch?v=tC4D-bzCWJc zuahahhahah
 bkz varank varank diye zıplayan ergenlere gelişine vurmak ekşiye gömmek
 bkz fahrettin kocanın ikinci atacücü olması
 bkz türkiyenin 13 .cumhurbaşkanı fahrettin koca
