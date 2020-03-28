@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
-bkz 28 mart 2020 şamil kabalak'ın açıklamaları
+bkz 28 mart 2020 bakan varankın makam odasına böcek sokuldu iddaları
+bkz 28 mart 2020 banka varank'ın açıklamaları
 bkz migros kangrusu yenir mi sorunsalı
 bkz bakan varankın altın varanklı odası
 bkz altın varanklı odalara virüs girmediği gerçeği
