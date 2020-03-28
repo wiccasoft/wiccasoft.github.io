@@ -2,12 +2,11 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
-bkz kızılhaçın utanmadan müslümanlara haç göndermesi
 bkz beraber yürüdük biz bu yollardaaaaaaaaa
+bkz kızılhaçın utanmadan müslümanlara haç göndermesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
 bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
 https://www.uludagsozluk.com/k/rte-nin-ula%C5%9Ft%C4%B1rma-bakan%C4%B1-na-ayar-vermesi/
-bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
 bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
 bkz 27 mart 2020 mehdinin zühur eylemesi
 bkz mehdinin zühur eylesemde eylemedim diyecem deyecek olması hilesi
