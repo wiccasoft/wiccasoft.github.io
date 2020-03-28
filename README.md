@@ -1,21 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-<!-- 
-https://www.youtube.com/watch?v=9eA8YuQkDsw
-bkz yarasa yiyip yılan kanı içmek
-https://www.uludagsozluk.com/r/jackie-chan-1995415/
-bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
-bkz millet hizmet beklerken bay kemalin osura osura uyuması
-bkz atacücünün minnak faşistleri davar güder gibi gütmesi
-bkz varank varank diye zıplayan ergenlere gelişine vurmak
-bkz damadın altın peteği bakan varank yolladı açıklaması
-bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
-bkz 28 mart 2020 damadın peniz yüzüğünün fake çıkması
-https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
-bkz covid aşısını yarasa yiyip yılan kanı içen bir çinlinin bulacağı gerçeğ
--->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
