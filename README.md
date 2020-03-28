@@ -3,13 +3,12 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
 https://www.uludagsozluk.com/k/survivor-2020-%C5%9Fampiyonu/ bkz folkan iyesta cicişler
-https://www.uludagsozluk.com/e/43066296/ bkz ay hoşt ulan
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg olm bunları sabaha yerler lan
 bkz tunç soyerle romantik bir gece vs mansur yavaşla hızlı bir gece
 bkz sihirli annem köpek taci vs mevzu derindeki piç oktay
-https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
 https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
