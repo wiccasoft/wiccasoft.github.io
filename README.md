@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz volkan demirelin covid19 + çıkması
 bkz ali koçun rüçtü reçberi arayıp geçmiş olsun dilemesi
 bkz fathi terimin rüştü reçberi hastanede ziyaret etmesi
 bkz seyit onbaşının götüne 250 kilo mermi soktuğu iddaları
