@@ -1,39 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-<!-- 
-https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-%C3%B6d%C3%BCl%C3%BC-kazanan-t%C4%B1p-%C3%B6%C4%9Frencisi/
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
-https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
-bkz bakan varankın altın varanklı peniz yüzüğü fotosunun fotoşok çıkması
-bkz imamoğlanla romantik bir akşam vs mansur yavaş ile hızlı bir gece
-bkz kadir mısıroğlanın donunu indirip kaçmak başlığının silinmesi
-https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/ bkz 13. nesil erkekler
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
-https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
-bkz atacücünün ilim damarlarınızdaki asil kandadır lafı
-bkz bilim kurulunun atacücüye sormadan ilim yapması
-https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/&w=bg
-https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332
-bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-atat%C3%BCrk-zaman%C4%B1nda-ya%C5%9Fasayd%C4%B1/&w=bg
-bkz sağlık kitinin içine tüküren ümreci
-https://www.youtube.com/watch?v=6G16OSmA98c serkan iz my girl
-https://www.youtube.com/watch?v=tC4D-bzCWJc zuahahhahah
-https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/
-https://www.uludagsozluk.com/k/hepinizi-hasta-edece%C4%9Fim-diyen-umreci/
-https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332
-https://www.uludagsozluk.com/k/din-ortadan-kalk%C4%B1nca-bu-kadar-camiye-ne-olacak/
-https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/ deep webin deepsiz çukuru
-https://www.uludagsozluk.com/k/hepinizi-hasta-edece%C4%9Fim-diyen-umreci/
-bkz varank varank diye zıplayan ergenlere gelişine vurmak ekşiye gömmek
-bkz fahrettin kocanın ikinci atacücü olması
-bkz türkiyenin 13 .cumhurbaşkanı fahrettin koca
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
-https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
-https://www.uludagsozluk.com/k/pargal%C4%B1-ibrahim-pa%C5%9Fa/&w=bg bkz mankurtların  sonu
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-13-%C3%BCnc%C3%BC-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/ -->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
