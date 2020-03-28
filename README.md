@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
+bkz 28 mart 2020 banka varank'ın açıklamaları
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
 bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
@@ -10,8 +12,6 @@ bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
 bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam yemeği
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1-ekrem-imamo%C4%9Flu-na-tercih-etmek/
 bkz 27 mart 2020 gebeşlerin damada düzenlediği fotoşoklu varank oyununun bozulması
-bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
-bkz 28 mart 2020 banka varank'ın açıklamaları
 -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
