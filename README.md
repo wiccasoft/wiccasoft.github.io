@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz ekşicilerin migroslarda kaslı erkek bırakmaması
 https://www.uludagsozluk.com/k/ersin-karacan/ ay kaslı ayol
 bkz beni seven sigara içmez valla küserim bak
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg buyrun benim
