@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz mansru yavaşın virüse yavaş ol bakalım demesi
 bkz acunun covid ol kampanyası düzenlemesi
 bkz migros ta fare kanı satılmaması 
 bkz yarasa yiyip yılan kanı içmek
