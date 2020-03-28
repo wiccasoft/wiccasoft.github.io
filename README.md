@@ -1,22 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-<!--
-https://www.uludagsozluk.com/k/kenan-imirzal%C4%B1o%C4%9Flu/&w=bg
-https://www.uludagsozluk.com/k/e%C5%9Fi-d%C3%BC%C5%9Ft%C3%BC%C4%9F%C3%BCnde-daha-taksidin-bitmedi-diyen-erkek/&w=bg
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/
-https://www.uludagsozluk.com/k/krizi-f%C4%B1rsata-%C3%A7evirmek/&w=bg bkz bi gece ansızın musul
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-fl%C3%B6rt-eder-%C3%A7irkin-taciz/&w=bg bkz nihat doğan
-https://www.uludagsozluk.com/k/çirkin-ama-sempatik-erkek-mühendis/ bkz ajdar anık
-https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/ bkz abdul özkirazın olu
-https://www.uludagsozluk.com/k/karadenizli-erkeklerin-genel-%C3%B6zellikleri/&w=bg 
-https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcan tweetlerini hatim etmek
-https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/&w=gd bkz 13. nesil erkekler 
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz tweetleriyle kamalcıları kızdıran fatih 
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
-https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
--->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
