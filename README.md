@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7t%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/b-albayrak-alt%C4%B1n-varakl%C4%B1-kalorifer-pete%C4%9Fi-iftiras%C4%B1/
 bkz sen istiyor aşı az küfredecek bize
 bkz ya covid19 aşısını çinli yılan yiyen genetik kodlama yapabilen bi kafir bulursa sorunsalı
 https://www.uludagsozluk.com/k/lukas-podolski-vs-loris-karius/
