@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz berkin elvanın babasının oğlanı yollim aşağıda oynayın demesi
+bkz ethem sarısülükünn babasının oğlanı yollim aşağıda oynayın demesi
 https://www.uludagsozluk.com/k/ahmet-hamdi-%C3%A7aml%C4%B1-n%C4%B1n-feto-itiraf%C4%B1/
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
