@@ -4,7 +4,7 @@
 <!--
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz atacücünün minnak faşistleri davar güder gibi gütmesi
-bkz karantinada varankl varank diye zıplayan türk lere gelişine vurmak
+bkz karantinada varank varank diye zıplayan türk lere gelişine vurmak
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 bkz atacücüye nbenzeyen adamın ankarada virüs kapması
 https://www.uludagsozluk.com/k/mustafa-kemal-in-az-bilinen-foto%C4%9Fraflar%C4%B1/&w=bg
