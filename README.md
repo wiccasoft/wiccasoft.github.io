@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz pargalı ibrahim paşa vs enver paşa
 bkz ali koçun volkan demireli karantinaya alması
 https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=bg bkz bok yoluna gitti rüştü 
 bkz 1881 aracücü 18+81 = 99 - 81 - batman = covid19
