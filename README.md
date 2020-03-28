@@ -3,7 +3,6 @@
 
 <!--
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
-bkz ethem sarısülükün babasının oğlanı yollim aşağıda oynayın demesi
 https://www.uludagsozluk.com/k/ahmet-hamdi-%C3%A7aml%C4%B1-n%C4%B1n-feto-itiraf%C4%B1/
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
 bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
