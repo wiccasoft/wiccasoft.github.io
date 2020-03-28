@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
 bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam yemeği
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1-ekrem-imamo%C4%9Flu-na-tercih-etmek/
 bkz türklerin birbirini yiyeceği günlerin yaklaşması
