@@ -12,14 +12,8 @@ bkz bilim kurulunun atacücüye sormadan ilim yapması
 https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/&w=bg
 https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332
 bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
-bkz kadir mısıroğlanın donun indirip kaçmak başlığının silinmesi
-bkz kadir mısıroğlan aracücü zamanında rakı içseydi olacaklar
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-atat%C3%BCrk-zaman%C4%B1nda-ya%C5%9Fasayd%C4%B1/&w=bg
 bkz sağlık kitinin içine tüküren ümreci
-https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/&w=gd bkz mahmut özkirazın oğlu
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flunun-kadir-gecesi-do%C4%9Fmas%C4%B1/
-bkz kovid kitini karaborsadan satan vekil çocuğu
-bkz hepinize götte gireceğim sonra kovid kiti satacağım diyen ümreci
 https://www.youtube.com/watch?v=6G16OSmA98c serkan iz my girl
 https://www.youtube.com/watch?v=tC4D-bzCWJc zuahahhahah
 https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/
@@ -33,26 +27,6 @@ bkz fahrettin kocanın ikinci atacücü olması
 bkz türkiyenin 13 .cumhurbaşkanı fahrettin koca
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
 https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
-bkz ekrem imamaoğlanı arayıp mutlu musun ekrem demek
-bkz uzun eşşek oynarken arkdaşın götüne kafasını sokan çocuk
-bkz yarasa yiyip yılan kanı içmek
-https://www.uludagsozluk.com/r/jackie-chan-1995415/
-bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
-bkz covid aşısını yarasa yiyip yılan kanı içen bi çinlinin bulacağı gerçeği
-bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
-bkz rusya nın sıcaklar basınca virüs ölür zaten açıklaması
-bkz bakan varankın altın varank lı küveti
-bkz b albayrakın altın varanklı peniz yüzüğünün fake çıkması
-bkz imamoğlanın makam odasındaki altın varanklı telefon
-bkz 29 mart 2020 ukrayana ilacı buldu iddaları
-bkz 29 mart 2020 mansur yavaş ayakta bekletti iddaları
-bkz 27 mart 2020 gebeşlerin damada düzenlediği fotoşoklu varank oyununun bozulması
-bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
-bkz 28 mart 2020 banka varank'ın açıklamaları
-bkz mansur yavaş sağlık kiti dağıtım rezaleti
-bkz mansur ark mansur yavaş benzerliği
-bkz imamaoğlanla romantik bir akşam  vs mansur yavaş ile hızlı bir gece
-bkz mansur yavaş imamoğlu ikilisine kova ile kürek verip kumda oynayın demek
 https://www.uludagsozluk.com/k/pargal%C4%B1-ibrahim-pa%C5%9Fa/&w=bg bkz mankurtların  sonu
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-13-%C3%BCnc%C3%BC-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/ -->
 
