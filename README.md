@@ -6,7 +6,7 @@ bkz migrosa gittim kaslı erkek bulamadım ayol
 bkz ekşcilerin kaslı erkekleri stoklaması
 https://www.uludagsozluk.com/k/ersin-karacan/ ay kaslı ayol
 bkz beni seven sigara içmez valla küserim bak
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg buyrun benim
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
 https://www.uludagsozluk.com/k/sigaray%C4%B1-b%C4%B1rak-hayat%C4%B1-b%C4%B1rakma/&w=bg içmeyin şu zıkkımı
 bkz türkiye hariç bütün ülkeleri şirket gibi yöneteeğim
 https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
