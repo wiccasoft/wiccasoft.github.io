@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz b albyrak peniz yüzüğünü tayyibe mi taktırıyor sorunsalı
 bkz abdullah gül çarşaf giyip kaçtı mı sorunsalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7t%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg
