@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz tek dünya devletini kurup türklere gelişine çakmak
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 https://www.uludagsozluk.com/k/ahmet-hamdi-%C3%A7aml%C4%B1-n%C4%B1n-feto-itiraf%C4%B1/
