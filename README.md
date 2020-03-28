@@ -1,6 +1,10 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
-
+<!-- 
+bkz damadın altın peteği bakan varank yolladı açıklaması
+bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
+bkz 28 mart 2020 damadın peniz yüzğünün fake çıkması
+-->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
