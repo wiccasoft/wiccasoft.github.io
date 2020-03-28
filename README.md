@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz mansur yavaştan imamaoğlana virüslü tehdit
 bkz rte nin imamaoğlan önümde diz çökerse aşıyı bulurum demesi
 bkz rte nin bir şartla antivirüsü bulurum demesi
 bkz imamoğlunun rte ye diz çökip tövbe dilemesi
