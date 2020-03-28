@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz masnur yavaşın yavaş yavaş bomba gibi geldiği gerçeği
 bkz mansur yavaşın mustafa akıncıya yavaş ol saçın başın dağılmasın demesi
 bkz rte nin 17-25 aralık tapelerini örtpas etmek için virüs çıkartması
 bkz dünya liderinin corona ile liderleri dize getirmesi
