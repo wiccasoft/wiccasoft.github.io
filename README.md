@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz nazım hikmetin covid19 + çıkması
 bkz macronun virüsü rusyada sıkıştıralım planı
 bkz rte nin askerleri sınıra dizmesi
 bkz rte'nin corona virüs ile efsanevi savaşı
