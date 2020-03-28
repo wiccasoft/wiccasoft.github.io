@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-%C3%B6d%C3%BCl%C3%BC-kazanan-t%C4%B1p-%C3%B6%C4%9Frencisi/
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
 https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
 bkz bakan varankın altın varanklı peniz yüzüğü fotosunun fotoşok çıkması
