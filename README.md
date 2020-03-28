@@ -3,6 +3,8 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/corona-vs-teyyip/
+https://www.uludagsozluk.com/k/%C3%A7ocuklar-%C3%B6l%C3%BCrken-%C3%A7ine-yard%C4%B1m-yapmak/
+https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7inlilere-bir-mesaj-b%C4%B1rak/ bkz yemeğin o boğu amuğa goyim
 https://www.uludagsozluk.com/k/selam-ben-corona-virusu-sorularınızı-cevaplıyorum/
 bkz kızılhaçın hala utanmadan para istemesi -->
