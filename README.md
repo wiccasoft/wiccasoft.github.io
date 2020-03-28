@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz damadın altın peteği bakan varank yolladı açıklmaası
+bkz damadın altın peteği bakan varank yolladı açıklaması
 bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
 bkz b albayrak peniz yüzüğünü gündüz takıyor mu sorunsalı
 bkz abdullah gül çarşaf giyip kaçtı mı sorunsalı
