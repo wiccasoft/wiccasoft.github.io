@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz atacücü ün damarlarınızdaki asil kanda mevcut derken n e demek istemesi sorundalı
 bkz atacüc damarlarınızdaki asil kan derken 0 rh mı demek istedi sorunsalı
 bkz atacücü nutuktan virüsten mi bahsediyordu sorunsalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7t%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg
