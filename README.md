@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz menzil şeyhinin zikr virüsün ilacıdır demesi
 https://www.youtube.com/watch?v=ih395-JcvQo
 bkz kovidcilerin ümrecilere saldırması
 bkz madem virüs görükmüyo niye atayızlar inkar ediyolar sorunsalı
