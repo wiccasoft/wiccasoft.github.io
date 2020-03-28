@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
-https://www.youtube.com/watch?v=ueptJlYwka0 serkan iz my girl
+https://www.youtube.com/watch?v=6G16OSmA98c serkan iz my girl
 https://www.youtube.com/watch?v=tC4D-bzCWJc zuahahhahah
 https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/
 https://www.uludagsozluk.com/k/hepinizi-hasta-edece%C4%9Fim-diyen-umreci/
