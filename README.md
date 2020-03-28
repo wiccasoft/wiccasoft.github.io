@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/hepinizi-hasta-edece%C4%9Fim-diyen-umreci/
 https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332
 https://www.uludagsozluk.com/k/din-ortadan-kalk%C4%B1nca-bu-kadar-camiye-ne-olacak/
 https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/ deep webin deepsiz çukuru
