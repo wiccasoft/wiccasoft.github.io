@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz migros kangrusu yenir mi sorunsalı
 bkz damadın altın varanklı penis yüzüğü
 bkz migrosun yakışıklı olgun erkek kalmadı demesi
 bkz karaborsacıların yakışıklı olgun erkeleri stoklaması
