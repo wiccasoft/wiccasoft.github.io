@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz şaka maka pkk nın bitmesi
 bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
 bkz sokaklarda kızılhaç görmek istemiyoruz kampanyası
 bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
