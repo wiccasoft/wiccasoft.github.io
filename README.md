@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz koç holding atatürkçü duruşu
 https://www.youtube.com/watch?v=ZrK7LyLEgeI
 https://www.uludagsozluk.com/k/ko%C3%A7-holding-burada-yanda%C5%9F-i%C5%9Fadamlar%C4%B1-nerede/
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
