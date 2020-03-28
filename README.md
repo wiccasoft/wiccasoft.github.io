@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
+<!-- bkz 1881 18+81 = 99 -81 - batman = covid19 bu dam ıtesadüf atam izindeyim atam-->
+
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
