@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz önce mangır sonra aşı
 bkz ya covid19 aşısını çinli yılan yiyen genetik kodlama yapabilen bi kafir bulursa sorunsalı
 https://www.uludagsozluk.com/k/lukas-podolski-vs-loris-karius/
 bkz kafirün suresi 19. ayette virüsü atacücücü bi kafirin bulacağı ayeti
