@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz rte nin 27 mart beş tepe camiinde domalması
+https://www.uludagsozluk.com/k/27-mart-2020-be%C5%9Ftepe-millet-camisinde-cuma-namaz%C4%B1/&w=bg
 bkz donald trumpın oğlunun altın varanklı odası
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-alt%C4%B1n-varankl%C4%B1-ev-e%C5%9Fyalar%C4%B1/
 bkz migros kangurusu yenir mi sorunsalı
