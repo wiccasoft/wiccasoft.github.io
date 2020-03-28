@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz mansur yavaş imamaoğlu ikilisine kova ile kürek verip kumda oynayın demek
 https://www.uludagsozluk.com/k/pargal%C4%B1-ibrahim-pa%C5%9Fa/&w=bg bkz mansurtrollerin sonu
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-13-%C3%BCnc%C3%BC-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/ -->
 
