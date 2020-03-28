@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz ya covid19 aşısının çinli yılan yiyen bi kafir bulursa sorunsalı
+bkz ya covid19 aşısını çinli yılan yiyen genetik kodlama yapabilen bi kafir bulursa sorunsalı
 https://www.uludagsozluk.com/k/lukas-podolski-vs-loris-karius/
 bkz kafirün suresi 19. ayette virüsü atacücücü bi kafirin bulacağı ayeti
 https://www.uludagsozluk.com/k/covid-19-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bir-kafirin-bulaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
