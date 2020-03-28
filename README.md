@@ -2,31 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
-<!-- 
-bkz lost highyway deki telefoncu ekrem
-bkz gece gece immaoğlanı arayıp mutlu musun demek
-https://www.uludagsozluk.com/k/%C3%A7ok-sevdik-bu-bakan%C4%B1/ biz bakışı var sanırsın ohal amk
-bkz mansur yavaşın mansur ark maalesef videosu paylaşması
-bkz devlet bahçelinin ırmağının akışına ölürüm antalyam pozu
-bkz en yakışıklı siyasetçi kim sorunsalı
-bkz kılıçdaroğlanın liderlik vasfı olmayan türk siyasetçi olduğu iddaları
-bkz mansur yavaşla hızlı bir gece vs imamoğlanla romantik bir gece
-bkz fatih maçoğlanla bir gece vs tunç soyerler bir gece
-https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg bkz gözleriyle soyan erkekler
-https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
-https://www.uludagsozluk.com/k/survivor-2020-%C5%9Fampiyonu/ bkz folkan iyesta cicişler
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg olm bunları sabaha yerler lan
-bkz tunç soyerle romantik bir gece vs mansur yavaşla hızlı bir gece
-bkz sihirli annem köpek taci vs mevzu derindeki piç oktay
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
-https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/ bk ajdar
-bkz 27 mart 2020 ekşici gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
-bkz rte putini 5 dk panik atakta bekletti tapelerinin fake yani sahte çıkması
-bkz 27 mart 2020 mehdinin zühur eylemesi
-bkz mehdinin zühur eylesemde eylemedim diyecem deyecek olması hilesi
--->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
 
