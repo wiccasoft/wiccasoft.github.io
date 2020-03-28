@@ -8,7 +8,7 @@ bkz b albayrak peniz yüzüğünü gündüz takıyor mu sorunsalı
 bkz abdullah gül çarşaf giyip kaçtı mı sorunsalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7t%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg
-bkz recep tayyi perdoğanın damadın penis yüzüğünü azıyla taktığı iddaları
+bkz rte nin damadın penis yüzüğünü azıyla taktığı iddaları
 https://www.uludagsozluk.com/k/yavuz-b%C3%BClent-bakiler/&w=bg bkz gerçek atacücücü
 https://www.uludagsozluk.com/k/b-albayrak-alt%C4%B1n-varakl%C4%B1-kalorifer-pete%C4%9Fi-iftiras%C4%B1/
 bkz damadın altın varanklı penis yüzüğü fake mi sorunsalı
