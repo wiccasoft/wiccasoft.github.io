@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz imamaoğlunun coronayı tokat manyağı yapması
 bkz ulaştırma bakanın coronaya verdiği ayar
 bkz migros kangrusu yenir mi sorunsalı
 bkz damadın altın varanklı penis yüzüğü
