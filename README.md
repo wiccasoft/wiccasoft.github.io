@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
+bkz sihirli annem köpek taci vs mevzu derindeki seyfo dayı
 https://www.uludagsozluk.com/k/k%C3%B6pek-taci/ bkz seks taci
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg bkz sabaha yerler olm bunları
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
