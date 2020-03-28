@@ -2,14 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
-bkz 28 mart 2020 bakan varankın makam odasına böcek sokuldu iddaları
+bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
 bkz 28 mart 2020 banka varank'ın açıklamaları
-bkz migros kangrusu yenir mi sorunsalı
-bkz bakan varankın altın varanklı odası
-bkz altın varanklı odalara virüs girmediği gerçeği
-bkz damadın altın varanklı penis yüzüğü
-bkz migrosun yakışıklı olgun erkek kalmadı demesi
-bkz karaborsacıların yakışıklı olgun erkeleri stoklaması
 bkz 27 mart 2020  gebeşlerin damada düzenlediği fotoşoklu  kalorifer oyununun bozulması
 https://www.uludagsozluk.com/k/rte-nin-ula%C5%9Ft%C4%B1rma-bakan%C4%B1-na-ayar-vermesi/
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz stoklanası erkekler
