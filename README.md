@@ -3,6 +3,7 @@
 
 <!--
 bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
+bkz virüsün atacücücü olması
 https://www.uludagsozluk.com/k/millete-ihanet-projesi/&w=bg
 https://www.uludagsozluk.com/k/ko%C3%A7-holdingin-corona-ile-sava%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/
