@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz tengir budunun ekşiden araklayacak başlık araması
+https://www.uludagsozluk.com/k/erzurumlu-m%C3%BCmessilin-yaran-morg-hikayesi/&w=bg
 https://www.uludagsozluk.com/k/maske-tak%C4%B1p-gezmeye-%C3%A7%C4%B1kan-t%C3%BCrbanl%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/meryem-in-survivor-a-veda-etmesi/&w=bg
 bkz yeme onu amuğaa goyyim yeme dayı vs yi olm yi teyze
