@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
-https://www.youtube.com/watch?v=tC4D-bzCWJc olm bunlar ne kafası yaşıyolar
+https://www.youtube.com/watch?v=tC4D-bzCWJc bkz tengir vs ekşiciler
 bkz varank varank diye zıplayan ergenlere gelişine vurmak ekşiye gömmek
 bkz fahrettin kocanın ikinci atacücü olması
 bkz türkiyenin 13 .cumhurbaşkanı fahrettin koca
