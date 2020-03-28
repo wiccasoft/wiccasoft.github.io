@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz şaka maka gold diggerların bokunu çıkarması
 bkz varank varank diye zıplayan çocuklara gelişine vurmak
 bkz şaka maka kürdistanımın dağlarında altın varanklar açması
 bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
