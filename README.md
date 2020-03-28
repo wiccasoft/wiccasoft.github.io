@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/
 https://www.uludagsozluk.com/k/insan-yap%C4%B1m%C4%B1-vir%C3%BCsten-allah-%C4%B1-sorumlu-tutmak/
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz ellek ne kadar süper lan
 https://www.uludagsozluk.com/k/koskoca-d%C3%BCnyan%C4%B1n-bir-vir%C3%BCs%C3%BC-ekarte-edememesi/ 
