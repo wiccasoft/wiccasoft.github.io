@@ -4,6 +4,8 @@
 <!--
 https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/&w=gd bkz 13. nesil erkekler 
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz tweetleriyle kamalcıları kızdıran fatih 
+https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
+https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
 -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
