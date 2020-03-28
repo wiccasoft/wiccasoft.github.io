@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz türkiye hariç bütün ülkeleri şirket gibi yöneteeğim
+https://www.uludagsozluk.com/k/t%C3%BCrkiyeyi-%C5%9Firket-y%C3%B6netir-gibi-y%C3%B6netece%C4%9Fim/
 bkz mansur yavaş ciğerimi söktün diyen covid19 lu kamalcı
 bkz şaka maka mansur yavaşın ciğerinizi sökmesi
 bkz şakşukaaa şakşukaaa şaka da şukaaaaaaaa
