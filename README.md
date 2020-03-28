@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/naz%C4%B1m-hikmet-in-kar%C4%B1s%C4%B1n%C4%B1-aldatmas%C4%B1/
 bkz mustaf akıncının erdoğana af dileyip diz çökmesi
 https://www.uludagsozluk.com/k/mustafa-ak%C4%B1nc%C4%B1-n%C4%B1n-erdo%C4%9Fan-dan-yard%C4%B1m-istemesi/
 bkz migros ta fare kanı satılmaması 
