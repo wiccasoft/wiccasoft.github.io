@@ -2,14 +2,14 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz migros ta fare kanı satılmaması 
+bkz yarasa yiyip yılan kanı içmek
 bkz covid aşısını yarasa yiyp yılan kanı içen çinlinin bulacağı gerçeği
 https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 https://www.uludagsozluk.com/k/naz%C4%B1m-hikmet-in-kar%C4%B1s%C4%B1n%C4%B1-aldatmas%C4%B1/
 bkz mustaf akıncının erdoğana af dileyip diz çökmesi
 https://www.uludagsozluk.com/k/mustafa-ak%C4%B1nc%C4%B1-n%C4%B1n-erdo%C4%9Fan-dan-yard%C4%B1m-istemesi/
-bkz migros ta fare kanı satılmaması 
-bkz yarasa yiyip yılan kanı içmek
 bkz migros kangurusu yenir mi sorunsalı
 https://www.uludagsozluk.com/r/jackie-chan-1995415/
 bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
