@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz şaka maka mansur yavaşın ciğerinizi sökmesi
 bkz şakşukaaa şakşukaaa şaka da şukaaaaaaaa
 bkz beraber yürüdük biz bu yollardaaaaaaaaa beraber çarmıha gerildik yağan coronada
 bkz kızılhaçın utanmadan müslümanlara haç göndermesi
