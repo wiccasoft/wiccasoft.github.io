@@ -6,7 +6,7 @@ bkz yarasa yiyip yılan kanı içmek
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz atacücünün minnak faşistleri davar güder gibi gütmesi
-bkz karantinada varan varank diye zıplayan ergenlere gelişine vurmak
+bkz varank varank diye zıplayan ergenlere gelişine vurmak
 bkz damadın altın peteği bakan varank yolladı açıklaması
 bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
 bkz 28 mart 2020 damadın peniz yüzğünün fake çıkması
