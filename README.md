@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz pkk nın türk solunun davar güder gibi gütmesi
+bkz atacücünün türk faşistleri davar güder gibi gütmesi
 bkz karantinada varankl varank diye zıplayan türk lere gelişine vurmak
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 bkz atacücüye nbenzeyen adamın ankarada virüs kapması
