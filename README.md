@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!--
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-fl%C3%B6rt-eder-%C3%A7irkin-taciz/&w=bg bkz nihat doğan
 https://www.uludagsozluk.com/k/çirkin-ama-sempatik-erkek-mühendis/ bkz ajdar anık
 https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/ bkz abdul özkirazın olu
 https://www.uludagsozluk.com/k/karadenizli-erkeklerin-genel-%C3%B6zellikleri/&w=bg 
