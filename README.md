@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!--
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/
 https://www.uludagsozluk.com/k/krizi-f%C4%B1rsata-%C3%A7evirmek/&w=bg bkz bi gece ansızın musul
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-fl%C3%B6rt-eder-%C3%A7irkin-taciz/&w=bg bkz nihat doğan
 https://www.uludagsozluk.com/k/çirkin-ama-sempatik-erkek-mühendis/ bkz ajdar anık
