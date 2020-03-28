@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
-https://www.uludagsozluk.com/k/survivor-2020-%C5%9Fampiyonu/ bkz iyesta cicişler
+https://www.uludagsozluk.com/k/survivor-2020-%C5%9Fampiyonu/ bkz folkan iyesta cicişler
 https://www.uludagsozluk.com/e/43066296/ bkz ay hoşt ulan
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg olm bunları sabaha yerler lan
