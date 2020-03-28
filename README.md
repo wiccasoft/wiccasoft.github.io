@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
-https://www.uludagsozluk.com/k/%C3%A7inlilere-bir-mesaj-b%C4%B1rak/ nkz yemeğin onu amuğa goyim
+https://www.uludagsozluk.com/k/%C3%A7inlilere-bir-mesaj-b%C4%B1rak/ bkz yemeğin o boğu amuğa goyim
 bkz kızılhaçın hala utanmadan para istemesi -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
