@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz hepinize götte gireceğim diyen ümreci
 https://www.youtube.com/watch?v=6G16OSmA98c serkan iz my girl
 https://www.youtube.com/watch?v=tC4D-bzCWJc zuahahhahah
 https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/
