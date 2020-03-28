@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
+https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
 bkz atacücünün ilim damarlarınızdaki asil kandadır lafı
 bkz bilim kurulunun atacücüye sormadan ilim yapması
 https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/&w=bg
