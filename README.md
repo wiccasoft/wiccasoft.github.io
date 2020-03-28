@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-nkz mansur yavaşın yavaş ol bakalım demesi
+bkz rte nin corona virüsüne rakı atalım önerisi
+bkz mansur yavaşın yavaş ol bakalım demesi
 bkz nazım hikmetin covid19 + çıkması
 bkz macronun virüsü rusyada sıkıştıralım planı
 bkz rte nin askerleri sınıra dizmesi
