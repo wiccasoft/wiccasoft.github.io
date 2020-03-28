@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz kızılhaçın hala utanmadan haç göstermesi
 bkz rte nin coronayı suriye ye kadar sıkıştıralım bir gece ansızın musul önerisi
 https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/ bkz b planı
 bkz rte nin corona virüsüne rakı atalım önerisi
