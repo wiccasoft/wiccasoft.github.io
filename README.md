@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
-bkz kızıayın smsmyolla cebine türk bayrağı gelsin kampanyası
+bkz kızılayın sms yolla cebine türk bayrağı gelsin kampanyası
 bkz migros ta fare kanı satılmaması 
 bkz yarasa yiyip yılan kanı içmek
 bkz covid aşısını yarasa yiyp yılan kanı içen çinlinin bulacağı gerçeği
