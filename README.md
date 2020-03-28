@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz recep tayyip erdoğanın damadın penis yüzüğü hediye etti iddaları
 https://www.uludagsozluk.com/k/yavuz-b%C3%BClent-bakiler/&w=bg bkz gerçek atacücücü
 bkz atacücünnü çarşaf giyip cephede vurduruyordu iddaları
 bkz b albayrakın penis yüzüğünü amazondan sipraiş ettiği iddaları
