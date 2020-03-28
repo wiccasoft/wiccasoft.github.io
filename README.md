@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!-- 
+bkz donald trumpın altın varanklı odası
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-alt%C4%B1n-varankl%C4%B1-ev-e%C5%9Fyalar%C4%B1/
 bkz migros kangurusu yenir mi sorunsalı
 bkz koç holding ekşicilere koç taşşağı yollaması
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/ bkz sığır gibi yaşamak
