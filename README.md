@@ -2,7 +2,9 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz 1881 atacücü 18 + 81 = 99 - 81 - batman = covid 19
 https://www.uludagsozluk.com/k/millete-ihanet-projesi/&w=bg
+https://www.uludagsozluk.com/k/ko%C3%A7-holdingin-corona-ile-sava%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/
 https://www.uludagsozluk.com/k/insan-yap%C4%B1m%C4%B1-vir%C3%BCsten-allah-%C4%B1-sorumlu-tutmak/
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz ellek ne kadar süper lan
