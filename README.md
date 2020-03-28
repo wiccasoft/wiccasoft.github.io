@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz 1881 atacücü 18+81 = 99 - 81 - batman = covid19
 bkz kadir mısıroğlanın donun indirp kaçmak başlığının silinmesi
 bkz kadir mısıroğlan aracücü zamanında rakı içseydi olacaklar
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-atat%C3%BCrk-zaman%C4%B1nda-ya%C5%9Fasayd%C4%B1/&w=bg
