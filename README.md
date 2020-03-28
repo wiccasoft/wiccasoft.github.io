@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz yeme onu  amuğaa goyyim yeme lan ananı sikem amk
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BC-ilk-bula%C5%9Ft%C4%B1ran-ki%C5%9Fi/
 bkz yarasa yiyip yılan kanı içmek
 bkz wuhan hayvan pazarında yılan ski satılması
 bkz islamın virüse verdiği değer
