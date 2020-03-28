@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/b-albayrak-alt%C4%B1n-varakl%C4%B1-kalorifer-pete%C4%9Fi-iftiras%C4%B1/
 bkz damadın altın varanklı penis yüzüğü fake mi sorunsalı
 https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/
 bkz atacücü ün damarlarınızdaki asil kanda mevcut derken n e demek istemesi sorundalı
