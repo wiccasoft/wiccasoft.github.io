@@ -1,33 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-<!-- 
-bkz menzil şeyhinin en güzel ilaç allahı zikretmektir demesi
-https://www.youtube.com/watch?v=ih395-JcvQo
-bkz kovidcilerin ümrecilere saldırması
-bkz madem virüs görükmüyo niye atayızlar inkar ediyolar sorunsalı
-bkz cübbeli ahmet hoca covid19 + çıktı mı sorunsalı 
-https://www.uludagsozluk.com/k/ithal-corona-ilac%C4%B1n%C4%B1-kullanmak-caiz-midir/
-bkz muslera nın covid19 - çıkması evet 
-bkz volkan demirelin covid19 + çıkması
-bkz ali koçun rüçtü reçberi arayıp geçmiş olsun dilemesi
-bkz fathi terimin rüştü reçberi hastanede ziyaret etmesi
-bkz seyit onbaşının götüne 250 kilo mermi soktuğu iddaları
-https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=bg bkz bok yoluna gitti rüştü
-bkz madem devletiniz çok güçlü niye kanun çıkarmıyor virüsü yasaklammıyor
-https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=bg
-https://www.uludagsozluk.com/k/koskoca-dünyanın-bir-virüsü-ekarte-edememesi/
-https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/
-https://www.uludagsozluk.com/k/atatürk-ün-her-gece-yarım-litre-rakı-içmesi/&w=bg
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-atat%C3%BCrk-zaman%C4%B1nda-ya%C5%9Fasayd%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/seyit-onba%C5%9F%C4%B1n%C4%B1n-250-kg-top-kald%C4%B1rd%C4%B1%C4%9F%C4%B1na-inanmak/&w=bg
-https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu-nu-mossad-m%C4%B1-koruyor/&w=bg
-https://www.uludagsozluk.com/k/berkin-elvan-büyüseydi-ne-olurdu-sorunsalı/
-https://www.uludagsozluk.com/k/berkin-elvana-%C3%BCzlmek/
-https://www.uludagsozluk.com/k/2005-do%C4%9Fumlu-erkekler/
-https://www.uludagsozluk.com/k/kim-milyoner-deki-fitness%C3%A7%C4%B1-bebe/ 
--->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
