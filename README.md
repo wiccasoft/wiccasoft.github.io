@@ -2,19 +2,14 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz damadın altın peteği bakan varank yolladı açıklmaası
 bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
 bkz b albayrak peniz yüzüğünü gündüz takıyor mu sorunsalı
 bkz abdullah gül çarşaf giyip kaçtı mı sorunsalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7t%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg
-bkz recep tayyi perdoğanın damadın penis yüzüğünü azıyla takması
-bkz b alnyrak ın rte yi iyiyce taşşak oğlanı yapması
-bkz rte nin damadın penis yüzüğünü azıyla takması
-bkz recep tayyip erdoğanın damadın penis yüzüğü hediye etti iddaları
+bkz recep tayyi perdoğanın damadın penis yüzüğünü azıyla taktığı iddaları
 https://www.uludagsozluk.com/k/yavuz-b%C3%BClent-bakiler/&w=bg bkz gerçek atacücücü
-bkz atacücünnü çarşaf giyip cephede vurduruyordu iddaları
-bkz b albayrakın penis yüzüğünü amazondan sipraiş ettiği iddaları
-bkz damadın altın peteği bakan varank yolladı açıklmaası
 https://www.uludagsozluk.com/k/b-albayrak-alt%C4%B1n-varakl%C4%B1-kalorifer-pete%C4%9Fi-iftiras%C4%B1/
 bkz damadın altın varanklı penis yüzüğü fake mi sorunsalı
 https://www.uludagsozluk.com/k/internette-covid19-test-kiti-satan-vekil-%C3%A7ocu%C4%9Fu/
