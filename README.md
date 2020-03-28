@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz atacücünün ilim damarlarınızdaki asil kandadır lafı
 bkz bilim kurulunun atacücüye sormadan ilim yapması
 https://www.uludagsozluk.com/k/bilim-kurulunun-ald%C4%B1%C4%9F%C4%B1-karar%C4%B1-rte-ye-sormas%C4%B1/&w=bg
 https://www.hurriyet.com.tr/gundem/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi-41151332
