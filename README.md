@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
 bkz sokaklarda kızılhaç görmek istemiyoruz kampanyası
 bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
 bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam yemeği
