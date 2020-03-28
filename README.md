@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+https://www.uludagsozluk.com/k/berkin-elvan-b%C3%BCy%C3%BCseydi-ne-olurdu-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
 https://www.uludagsozluk.com/k/berkin-elvan-b%C3%BCy%C3%BCseydi-ne-olurdu-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-isyan-etmesi/&w=bg
