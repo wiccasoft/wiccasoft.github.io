@@ -2,6 +2,10 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz covid aşısının çinli atacücüc düşmanı bi kafirin bulacağı gerçeği
+https://www.uludagsozluk.com/k/covid-19-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bir-kafirin-bulaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
+bkz ibrahim tatlıseks ellerimi yıkıyorum vidyosu
+https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-den-ellerimi-y%C4%B1k%C4%B1yorum-videosu/
 bkz atacücünün virüsü denize dökelim önerisi
 https://www.uludagsozluk.com/k/rte-nin-corona-vir%C3%BCs-ile-efsanevi-sava%C5%9F%C4%B1/&w=gd
 bkz kızılhaçın hala utanmadan haç göstermesi
