@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=MGAEW3SSJXc )
 
 <!-- 
+bkz devlet bahçelinin ırmağının akışına ölürüm antalyam pozu
 bkz en yakışıklı siyasetçi kim sorunsalı
 bkz kılıçdaroğlanın liderlik vasfı olmayan türk siyasetçi olduğu iddaları
 bkz mansur yavaşla hızlı bir gece vs imamoğlanla romantik bir gece
