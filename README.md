@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz kızılhaçın hala utanmadan müslümanlara haç göstermesi
 bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam yemeği
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1-ekrem-imamo%C4%9Flu-na-tercih-etmek/
 bkz 27 mart 2020 gebeşlerin damada düzenlediği fotoşoklu varank oyununun bozulması
