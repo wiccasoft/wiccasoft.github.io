@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz covid aşısını yarasa yiyip yılan kanı içen bi çinlinin bulacağı gerçeği
 bkz şak şukaa şak şukaaaaa şaka da şukaaaaaaaaaaaa
 bkz rusya nın sıcaklar basınca virüs ölür zaten açıklaması
 bkz bakan varankın altın varank lı küveti
