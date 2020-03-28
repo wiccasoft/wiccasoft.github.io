@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz 28 mart 2020 ekşicilerin attığı altın varanklı penis yüzğünün fotoşok çıkması
 bkz pkklıların vodafone atacücüccülerin turkcell ci olması
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-gsm-operat%C3%B6rleri/&w=bg 
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
