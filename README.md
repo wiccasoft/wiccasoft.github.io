@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flunun-kadir-gecesi-do%C4%9Fmas%C4%B1/
 bkz kovid kitini karaborsadan satan vekil çocuğu
 bkz hepinize götte gireceğim sonra kovid kiti satacağım diyen ümreci
 https://www.youtube.com/watch?v=6G16OSmA98c serkan iz my girl
