@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
-bkz 
+bkz cübbeli ahmet hoca covid19 + çıktı mı sorunsalı 
 https://www.uludagsozluk.com/k/ithal-corona-ilac%C4%B1n%C4%B1-kullanmak-caiz-midir/
 bkz muslera nın covid19 - çıkması evet 
 bkz volkan demirelin covid19 + çıkması
