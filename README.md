@@ -2,6 +2,9 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=qZowK0NAvig )
 
 <!--
+bkz varank varank diye zıplayan çocuklara gelişine vurmak
+bkz şaka maka kürdistanımın dağlarında altın varanklar açması
+bkz 28 mart 2020 bakan varank'ın odasına böcek sokuldu iddaları
 https://www.uludagsozluk.com/k/karantinada-t%C3%BCrkiyeye-k%C3%BCf%C3%BCr-eden-gen%C3%A7ler/
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
 https://www.uludagsozluk.com/k/berkin-elvan-b%C3%BCy%C3%BCseydi-ne-olurdu-sorunsal%C4%B1/
