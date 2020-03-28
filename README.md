@@ -3,14 +3,12 @@
 
 <!-- 
 bkz yarasa yiyip yılan kanı içmek
-bkz migros kangurusu yenir mi sorunsalı
 bkz 1881 atacüc 18+81 = 99 - 81 - batman = covid19
 bkz atacücünün minnak faşistleri davar güder gibi gütmesi
 bkz varank varank diye zıplayan ergenlere gelişine vurmak
 bkz damadın altın peteği bakan varank yolladı açıklaması
 bkz bakan varankın altın varanklı küvetinde küvette kal pozu vermesi
 bkz 28 mart 2020 damadın peniz yüzüğünün fake çıkması
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 -->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM )
