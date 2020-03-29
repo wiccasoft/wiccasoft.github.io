@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ sabah da yenir bunlar
 https://www.uludagsozluk.com/k/montr%C3%B6-bo%C4%9Fazlar-s%C3%B6zle%C5%9Fmesi/&w=bg bkz londra ateşkes mutabakatı
 https://www.uludagsozluk.com/k/falih-r%C4%B1fk%C4%B1-atay/&w=bg bkz üç isimli erkek seksiliği
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs-bitince-yap%C4%B1lacak-k%C3%BC%C3%A7%C3%BCk-%C3%A7%C4%B1lg%C4%B1nl%C4%B1klar/ erkekleri şapşiklemek
