@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
+https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
 bkz 1881 yılıdna araformların aracücülüğe geçmesi
 bkz 1881 aracücü 18+81 = 99 - 81 vilayet - batman = covid19 
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne süper lan
