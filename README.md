@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
+bkz güdükün  hababam sınıfında gaza gelen tarih hocasına yaptığı şaka
+https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-z%C3%BCht%C3%BC-hoca/
 bkz abdurrahim albyrakın bomba gibi dönmesi
 https://www.uludagsozluk.com/k/20-kad%C4%B1nla-beraber-otel-kapatt%C4%B1ran-tayland-kral%C4%B1/
 https://www.uludagsozluk.com/k/fatih-terim-ve-abd%C3%BCrrahim-albayrak-iyile%C5%9Fti/
