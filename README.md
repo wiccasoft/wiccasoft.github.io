@@ -8,6 +8,7 @@ bkz 13. cumburlop başkanı fahrettin koca
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
+https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
 https://www.uludagsozluk.com/k/amerikada-ya%C4%9Fmalaman%C4%B1n-ba%C5%9Flamas%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-ele%C5%9Ftirenlere-ayar-yap%C4%B1lmas%C4%B1/
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
