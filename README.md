@@ -2,7 +2,6 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
-bkz hayatında erik ağacından erik yememiş şehirli fareler
 bkz hayatını entry girerek geçiren fakirlerin güldürmesi evet
 bkz 30 liralık sarı lacivert taytla dolaşan oktunkaranın götünün kokması evet
 bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
