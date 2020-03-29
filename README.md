@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg bkz peki harun abla
-bkz iphone 11 götüne sokup zil sesi yapan adam
+bkz iphone 11 i götüne sokup zil sesi yapan adam
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/rte-nin-granada-da-okunan-ezan%C4%B1-dinlemesi-videosu/
 bkz mansur yavaşın 13. cumburlop maaşına göz dikmesi
