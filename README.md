@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/terminat%C3%B6r-filmindeki-mermi-i%C5%9Flemeyen-robot/
 bkz kadirmısıroğlan.com u satın alıp netflix e çevirmek
 bkz kadir mısıroğlan donunu indirip kaçmak başlığının silinmesi
 bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
