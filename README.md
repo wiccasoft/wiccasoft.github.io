@@ -1,33 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!-- 
-bkz mahir çayana entry girmeyen kız
-bkz askılı giyen kıza bakmayan erkek
-bkz geceye erkek bırakın sabaha yersiniz
-hadi ben kaçanskiiiiiiiii arivederçiiiii
-https://www.uludagsozluk.com/k/tayt-giyen-k%C4%B1z%C4%B1n-poposuna-bakmayan-erkek/&w=bg vurduruyodur evet
-https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg bkz interner mahir
-https://www.uludagsozluk.com/e/43077986/ delihuanlı değildir evet
-bkz oytunkaranın sarı lacivert taytı
-bkz look oytunkaran im not your father evet
-bkz devletinin koca bi hiç olduğunun öğrenen ülkücü hüznü
-bkz deniz gezmişin abaza olduğu iddaları
-bkz kadirmısıroğlan.com u satın alıp netflix e çevirmek
-bkz kadir mısıroğlan donunu indirip kaçmak başlığının silinmesi
-bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
-bkz hayatını entry girerek geçiren fakirlerin güldürmesi evet
-bkz oyrunkaranın 61 iq ile nasıl yaşadığı sorunsalı
-https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
-bkz oytunkaranın hep aynı entry lere entry girmesi evet 
-https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-in-en-sevdi%C4%9Fi-banka/
-https://www.uludagsozluk.com/k/terminat%C3%B6r-filmindeki-mermi-i%C5%9Flemeyen-robot/
-https://www.uludagsozluk.com/k/quentin-tarantino-%C3%A7etin-akdeniz-benzerli%C4%9Fi/
-https://www.uludagsozluk.com/k/bir-h%C4%B1rs%C4%B1z-olarak-deniz-gezmi%C5%9F/
-https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
-https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=gd bkz internet mahir 
-https://www.uludagsozluk.com/k/fatih-terim-in-covid-19-u-yenmesi/&w=bg nerde kalmıştık -->
-
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
