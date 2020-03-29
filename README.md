@@ -1,6 +1,13 @@
 
 <!-- [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=XxMDqjfoOgM )-->
 
+<!--
+https://www.uludagsozluk.com/k/abdullah-c%C3%B6mert/&w=bg
+https://www.uludagsozluk.com/k/gay-erkekler/&w=bg 
+https://www.uludagsozluk.com/k/1-milyon-tl-ye-g%C3%B6t%C3%BCn%C3%BCz%C3%BC-elletir-misiniz-sorunsal%C4%B1/
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-lc-waikiki-den-giyinmesi/
+-->
+
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
