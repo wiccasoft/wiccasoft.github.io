@@ -1,27 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
-<!-- 
-bkz 30 luk sözlük ablalarından genç kızlara tavsiyeler
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg bkz ablan kurban olsun sana
-bkz rte nin namaza erken kalkmamak için ülkesini yaz saatine geçirmemesi :)))))))
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/rte-nin-granada-da-okunan-ezan%C4%B1-dinlemesi-videosu/
-https://www.uludagsozluk.com/k/yavuz-bahad%C4%B1ro%C4%9Flu/&w=bg bkz adam oğlu adam
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg bkz ablası ne diyosun
-bkz iphone 11 i götüne sokup zil sesi yapan adam
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/rte-nin-granada-da-okunan-ezan%C4%B1-dinlemesi-videosu/
-bkz mansur yavaşın 13. cumburlop maaşına göz dikmesi
-bkz mansur yavaş ın yavaş yavaş geldiği gerçeği
-https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg bkz sözlük ablaları
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yakışıklı değil ama sempatik
-https://www.uludagsozluk.com/k/iphone-11-alamayan-ezikler/&w=bg
-https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg  
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg not alın diyorlar kendileri
--->
-
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
