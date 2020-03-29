@@ -43,7 +43,7 @@ https://www.uludagsozluk.com/k/erkan-petekkaya-t%C3%BCrkiye-nin-en-iyi-akt%C3%B6
 https://www.uludagsozluk.com/k/sokaklarda-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-is-te-mi-yo-ruz/&w=bg
 -->
 
-[![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
+[![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
