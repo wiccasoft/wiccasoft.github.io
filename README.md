@@ -4,7 +4,6 @@
 <!-- 
 bkz tayt giyen fenerli kızların götüne bakmaktan kafası ağrıyıp çifliğe yerleşen adam
 bkz sarı lacivert tayt giyen oytunkaranın götüne bakmayan erkek
-https://www.uludagsozluk.com/k/tayt-giyen-k%C4%B1z%C4%B1n-poposuna-bakmayan-erkek/&w=gd
 bkz devletinin koca bi hiç olduğunun öğrenen ülkücü hüznü
 bkz erdonun mahir çayanı salması
 bkz deniz gezmişin erdoğana gevşek demesi
