@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz deniz gezmişin abaza olduğu iddaları
 bkz kadirmısıroğlan.com u satın alıp netflix e çevirmek
 bkz kadir mısıroğlan donunu indirip kaçmak başlığının silinmesi
 bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
