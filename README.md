@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz tay giyen anneme niye bakmıyosun diye kafa siken fenerli gay
 bkz tayt giyen kızın götüne bakmayan erkeğin götüne bakan fenerli gay
 bkz taytlı götüne bakılmıyor diye ağlayan fenerli
 bkz oytunkaranın taytlı götünün koktuğu gerçeği
