@@ -2,8 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
-bkz rte nin ezan seslerini açtırması
-bkz rte nini namaza erken kalkmamak için ülkesini yaz saatine geçirmemesi
+bkz rte nini namaza erken kalkmamak için ülkesini yaz saatine geçirmemesi :)))))))
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/rte-nin-granada-da-okunan-ezan%C4%B1-dinlemesi-videosu/
 https://www.uludagsozluk.com/k/yavuz-bahad%C4%B1ro%C4%9Flu/&w=bg bkz adam oğlu adam
