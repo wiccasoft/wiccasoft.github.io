@@ -1,48 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
-<!-- 
-bkz oturun yerlenize diyor kendileri
-https://www.youtube.com/watch?v=1wwXu8q3xEE
-bkz güdük necminin tahtaya çizdiği harita
-bkz aile şerefi piç oktay vs hababam sınıfı güdük necmi 
-https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1ndaki-ahmet/&w=bg bkz utanmaz arlanmaz ahmet
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz göklerden gelen bir karar vardır
-https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yakışıklı değil ama sempatik
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz en yakışıklı cumhurbaşkanı
-https://www.uludagsozluk.com/k/fatih-terim-in-covid-19-u-yenmesi/ nerde kalmıştık
-https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/ 
-https://www.uludagsozluk.com/k/station-wagon-kullanan-erke%C4%9Fin-evlenmelik-olmas%C4%B1/ eywallah kankağ
-https://www.uludagsozluk.com/k/bir-k%C4%B1z-i%C3%A7in-a%C4%9Flayan-erkek/&w=bg bkz hababam sınıfı ahmet
-https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1ndaki-ahmet/&w=bg 
-bkz erdo nun haremi var mıdırı sorunsalı
-bkz 20 kadını tek odadada patlatan tayland kralı
-bkz mansur yavaşın yavaş yavaş kıvama gelmesi
-bkz fatih terim efso hastane konuşması
-bkz mansur yavaşın lc waikiki den giyinmesi
-https://www.uludagsozluk.com/k/mansur-yavaş-ın-lc-waikiki-den-giyinmesi/
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg
-bkz güdükün  hababam sınıfında gaza gelen tarih hocasına yaptığı şaka
-https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-z%C3%BCht%C3%BC-hoca/
-bkz abdurrahim albyrakın bomba gibi dönmesi
-https://www.uludagsozluk.com/k/20-kad%C4%B1nla-beraber-otel-kapatt%C4%B1ran-tayland-kral%C4%B1/
-https://www.uludagsozluk.com/k/fatih-terim-ve-abd%C3%BCrrahim-albayrak-iyile%C5%9Fti/
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg
-bkz 13. cumburlop maaşına göz dikmek
-bkz 13. cumburlop başkanı fahrettin koca
-bkz millet hizmet beklerken bay kemalin osura osura uyuması
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
-https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/amerikada-ya%C4%9Fmalaman%C4%B1n-ba%C5%9Flamas%C4%B1/
-https://www.uludagsozluk.com/k/rte-yi-ele%C5%9Ftirenlere-ayar-yap%C4%B1lmas%C4%B1/
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
-https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
-https://www.uludagsozluk.com/k/erkan-petekkaya-t%C3%BCrkiye-nin-en-iyi-akt%C3%B6r%C3%BCd%C3%BCr/&w=bg
-https://www.uludagsozluk.com/k/sokaklarda-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-is-te-mi-yo-ruz/&w=bg
--->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
