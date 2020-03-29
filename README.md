@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
 bkz oytunkaranın hep aynı entry lere entry girmesi evet 
 https://www.uludagsozluk.com/k/terminat%C3%B6r-filmindeki-mermi-i%C5%9Flemeyen-robot/
 https://www.uludagsozluk.com/k/quentin-tarantino-%C3%A7etin-akdeniz-benzerli%C4%9Fi/
+https://www.uludagsozluk.com/k/bir-h%C4%B1rs%C4%B1z-olarak-deniz-gezmi%C5%9F/
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
 https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=gd bkz internet mahir 
 https://www.uludagsozluk.com/k/fatih-terim-in-covid-19-u-yenmesi/&w=bg nerde kalmıştık -->
