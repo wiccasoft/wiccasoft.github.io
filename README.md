@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz oytunkaran kezosunun götünün koktuğu gerçeği
 bkz tayt giyen oytunkaranın götüne bakmayan adam
 bkz tayt giyen fenerli kızların götüne bakmaktan kafası ağrıyıp çifliğe yerleşen adam
 bkz sarı lacivert tayt giyen oytunkaranın götüne bakmayan erkek
