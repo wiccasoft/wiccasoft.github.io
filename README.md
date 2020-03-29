@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz oytunkaranın beni babası sanması olayı evet
 bkz look oytunkaran im not your father evet
 bkz şakamaka oytunkaranının gay oğlum çıkması
 bkz oytunkaranın annesinin ex fuckbuddyim çıkması
