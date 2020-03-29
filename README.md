@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
+bkz güdük necminin tahtaya çizdiği harita
 bkz aile şerefi piç oktay vs hababam sınıfı güdük necmi 
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1ndaki-ahmet/&w=bg bkz utanmaz arlanmaz ahmet
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz göklerden gelen bir karar vardır
@@ -13,7 +14,6 @@ https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%
 https://www.uludagsozluk.com/k/station-wagon-kullanan-erke%C4%9Fin-evlenmelik-olmas%C4%B1/ eywallah kankağ
 https://www.uludagsozluk.com/k/bir-k%C4%B1z-i%C3%A7in-a%C4%9Flayan-erkek/&w=bg bkz hababam sınıfı ahmet
 https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
-bkz güdük necminin tahtaya çizdiği harita
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1ndaki-ahmet/&w=bg 
 bkz erdo nun haremi var mıdırı sorunsalı
 bkz 20 kadını tek odadada patlatan tayland kralı
