@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
+bkz iphone 11 götüne sokup zil sesi yapan adam
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/rte-nin-granada-da-okunan-ezan%C4%B1-dinlemesi-videosu/
 bkz mansur yavaşın 13. cumburlop maaşına göz dikmesi
