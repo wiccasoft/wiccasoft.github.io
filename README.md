@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
+bkz oyrunkaranın 70 iq ile nasıl yaşadığı sorunsalı
 https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
 bkz oytunkaranın üstü başı 100 lirayı geçmeyen tipe verdiği ayar evet
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
