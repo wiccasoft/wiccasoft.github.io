@@ -7,7 +7,8 @@ bkz oyrunkaranın 70 iq ile nasıl yaşadığı sorunsalı
 https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
 bkz oytunkaranın hep aynı entry lere entry girmesi evet stop
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
-https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=gd bkz internet mahir -->
+https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=gd bkz internet mahir 
+https://www.uludagsozluk.com/k/fatih-terim-in-covid-19-u-yenmesi/&w=bg nerde kalmıştık -->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
