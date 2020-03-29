@@ -1,6 +1,14 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
+<!-- 
+bkz 13. cumburlop maaşına göz dikmek
+bkz 13. cumburlop başkanı fahrettin koca
+bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
+https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
+https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
+-->
+
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
