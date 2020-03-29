@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz ismet inöcünün farkında değilmişim gibi çek pozu
 bkz bülent ersoyun askerlik fotosu
 bkz hadisenin macunsuz pozu
 bkz 13. cumburlop maaşına göz dikmek
