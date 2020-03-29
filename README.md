@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
-bkz kadirmısıoğlan.com u satın alıp netflix e çevirmek
+bkz kadirmısıroğlan.com u satın alıp netflix e çevirmek
 bkz kadir mısıroğlan donunu indirip kaçmak başlığının silinmesi
 bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
 bkz hayatını entry girerek geçiren fakirlerin güldürmesi evet
