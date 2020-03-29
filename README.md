@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
+https://www.youtube.com/watch?v=1wwXu8q3xEE
 bkz güdük necminin tahtaya çizdiği harita
 bkz aile şerefi piç oktay vs hababam sınıfı güdük necmi 
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1ndaki-ahmet/&w=bg bkz utanmaz arlanmaz ahmet
