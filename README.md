@@ -3,6 +3,7 @@
 
 <!-- 
 bkz abdurrahim albyrakın bomba gibi dönmesi
+https://www.uludagsozluk.com/k/20-kad%C4%B1nla-beraber-otel-kapatt%C4%B1ran-tayland-kral%C4%B1/
 https://www.uludagsozluk.com/k/fatih-terim-ve-abd%C3%BCrrahim-albayrak-iyile%C5%9Fti/
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg
 bkz 13. cumburlop maaşına göz dikmek
