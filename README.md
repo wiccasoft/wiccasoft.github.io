@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
+bkz fatih terim efso hastane konuşması
 bkz mansur yavaşın lc waikiki den giyinmesi
 https://www.uludagsozluk.com/k/mansur-yavaş-ın-lc-waikiki-den-giyinmesi/
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg
