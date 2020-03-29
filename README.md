@@ -1,16 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-<!-- 
-bkz kızları patlatıp terkeden yakışıklı kültürlü zengin erkek
-bkz patlak kızı patlak diye terkeden erkek
-bkz taş gibi kızı patlak diye terkeden erkek
-bkz hamur gibi kızı atacücücü diye reddeden erkek
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19 
-https://www.uludagsozluk.com/k/o%C4%9Flum-sus-bak-%C5%9Fof%C3%B6r-abi-k%C4%B1z%C4%B1yor-k%C4%B1z-o%C4%9Fluma-abisi/
-https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=bg bkz gerçek atacücücü kaleci
--->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
