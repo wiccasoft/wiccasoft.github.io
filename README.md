@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs-bitince-yap%C4%B1lacak-k%C3%BC%C3%A7%C3%BCk-%C3%A7%C4%B1lg%C4%B1nl%C4%B1klar/ erkekleri şapşiklemek
 https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=gd bkz kaleci erkek seksiliği
 https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz kel erkek seksiliği
 https://www.uludagsozluk.com/k/ma%C3%A7o-erkek/&w=bg bkz boynu ıstırılası erkek
