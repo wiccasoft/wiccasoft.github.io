@@ -2,11 +2,13 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=Nj2U6rhnucI )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg
 bkz 13. cumburlop maaşına göz dikmek
 bkz 13. cumburlop başkanı fahrettin koca
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
+https://www.uludagsozluk.com/k/amerikada-ya%C4%9Fmalaman%C4%B1n-ba%C5%9Flamas%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-ele%C5%9Ftirenlere-ayar-yap%C4%B1lmas%C4%B1/
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
 https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
