@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/iphone-11-alamayan-ezikler/&w=bg
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg  
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg not alın diyorlar kendileri
 -->
