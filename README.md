@@ -7,6 +7,7 @@ bkz gece bırakılan erkeğin sabah çürümesi
 bkz ismet inöcünün atacününün gölgesinde kalması
 bkz pazar sabahı uyanmak için bir erkek bırak
 bkz iki kişinin girdiği duş duşakabin değildir
+bkz corona virüsünün laz ziya olma ihtimali
 https://www.uludagsozluk.com/k/kurtlar-vadisi-efsane-s%C3%B6zler-ve-diyaloglar/&w=gd
 https://www.uludagsozluk.com/k/beni-adamdan-say%C4%B1p-alacak-%C3%B6rg%C3%BCte-zaten-ben-girmem/&w=bg
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ sabah da yenir bunlar
