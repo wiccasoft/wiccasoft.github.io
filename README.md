@@ -10,6 +10,7 @@ bkz 30 liralık sarı lacivert taytla dolaşan oktunkaranın götünün kokması
 bkz oyrunkaranın 61 iq ile nasıl yaşadığı sorunsalı
 https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
 bkz oytunkaranın hep aynı entry lere entry girmesi evet 
+https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-in-en-sevdi%C4%9Fi-banka/
 https://www.uludagsozluk.com/k/terminat%C3%B6r-filmindeki-mermi-i%C5%9Flemeyen-robot/
 https://www.uludagsozluk.com/k/quentin-tarantino-%C3%A7etin-akdeniz-benzerli%C4%9Fi/
 https://www.uludagsozluk.com/k/bir-h%C4%B1rs%C4%B1z-olarak-deniz-gezmi%C5%9F/
