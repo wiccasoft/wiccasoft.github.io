@@ -1,7 +1,10 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-<!-- https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ -->
+<!-- 
+https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ 
+https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg 
+-->
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
