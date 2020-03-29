@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz cumburlop maaşına göz dikmek
 bkz 13 . cumburlop başkanı fahrettin koca
 bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
