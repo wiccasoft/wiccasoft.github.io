@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
+bkz abdurrahim albyrakın bomba gibi dönmesi
+https://www.uludagsozluk.com/k/fatih-terim-ve-abd%C3%BCrrahim-albayrak-iyile%C5%9Fti/
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg
 bkz 13. cumburlop maaşına göz dikmek
 bkz 13. cumburlop başkanı fahrettin koca
