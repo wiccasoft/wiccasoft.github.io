@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
-bkz oyrunkaranın annesinin ex fuckbuddyim çıkması
+bkz şakamaka oytunkaranının gay oğlum çıkması
+bkz oytunkaranın annesinin ex fuckbuddyim çıkması
 bkz oytunkaranın kara taytlı annesinin götüne bakmayan erkek
 bkz oytunkaranın pis götünü sikecek kadar düşmek
 bkz oytunkaranın taytını yırtıp 18 cm in başını göt deliğine dayamak. süper olay evet
