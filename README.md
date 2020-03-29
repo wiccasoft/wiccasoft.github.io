@@ -1,41 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
-
-<!-- 
-https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1na-ait-bir-d%C3%BC%C4%9F%C3%BCn-davetiyesi-ve-kad%C4%B1n/ zuahhaha
-bkz ismet inöcünün farkında değilmişim gibi çek pozu
-bkz bülent ersoyun askerlik fotosu
-bkz hadisenin macunsuz pozu
-bkz 13. cumburlop maaşına göz dikmek
-bkz 13. cumburlop başkanı fahrettin koca
-bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
-https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
-bkz 1881 yılıdna araformların aracücülüğe geçmesi
-bkz 1881 aracücü 18+81 = 99 - 81 vilayet - batman = covid19 
-https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne süper lan
-bkz efendiler yarın gece erkeği bırakacağız
-bkz gece bırakılan erkeğin sabah çürümesi
-bkz ismet inöcünün atacününün gölgesinde kalması
-bkz pazar sabahı uyanmak için bir erkek bırak
-bkz iki kişinin girdiği duş duşakabin değildir
-bkz corona virüsünün laz ziya olma ihtimali
-https://www.uludagsozluk.com/k/erkan-petekkaya-ve-i%C4%9Fren%C3%A7-%C3%B6tesi-korona-%C5%9Fark%C4%B1s%C4%B1/
-https://www.uludagsozluk.com/k/kurtlar-vadisi-efsane-s%C3%B6zler-ve-diyaloglar/&w=gd
-https://www.uludagsozluk.com/k/beni-adamdan-say%C4%B1p-alacak-%C3%B6rg%C3%BCte-zaten-ben-girmem/&w=bg
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ sabah da yenir bunlar
-https://www.uludagsozluk.com/k/montr%C3%B6-bo%C4%9Fazlar-s%C3%B6zle%C5%9Fmesi/&w=bg bkz londra ateşkes mutabakatı
-https://www.uludagsozluk.com/k/falih-r%C4%B1fk%C4%B1-atay/&w=bg bkz üç isimli erkek seksiliği
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs-bitince-yap%C4%B1lacak-k%C3%BC%C3%A7%C3%BCk-%C3%A7%C4%B1lg%C4%B1nl%C4%B1klar/ erkekleri şapşiklemek
-https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=gd bkz yeleli erkek seksiliği
-https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz kel erkek seksiliği
-https://www.uludagsozluk.com/k/ma%C3%A7o-erkek/&w=bg bkz boynu ıstırılası erkek
-https://www.uludagsozluk.com/k/huzur-veren-renkler/ bkz huzur veren erkekler
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ 
-https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg 
--->
-
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
 
 [![Image](eq/Screenshot_2020-03-26_14-04-25.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI )
