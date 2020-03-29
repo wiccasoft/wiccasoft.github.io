@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
-https://www.uludagsozluk.com/k/kendi-osuruk-sesinden-korkan-kezo/&w=bg bkz oytunkaran
+bkz taytlı götüne bakılmıyor diye ağlayan fenerli
 bkz oytunkaranın taytlı götünün koktuğu gerçeği
 bkz tayt giyen oytunkaranın götüne bakmayan adam
 bkz tayt giyen fenerli kızların götüne bakmaktan kafası ağrıyıp çifliğe yerleşen adam
