@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne süper lan
 bkz efendiler yarın gece erkeği bırakacağız
 bkz gece bırakılan erkeğin sabah çürümesi
 bkz ismet inöcünün atacününün gölgesinde kalması
