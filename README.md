@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz 13 . cumburlop başkanı fahrettin koca
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
 https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
 bkz 1881 yılıdna araformların aracücülüğe geçmesi
