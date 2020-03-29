@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
-bkz devletinin koca bi hiç olduğunun öğrenen devletçi 
+bkz devletinin koca bi hiç olduğunun öğrenen ülkücü hüznü
 bkz erdonun mahir çayanı salması
 bkz deniz gezmişin erdoğana gevşek demesi
 bkz mahir çayanın kolluk kuvvetlerine bombe atıp kaçması
