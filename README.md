@@ -1,5 +1,5 @@
 
-[![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=Nj2U6rhnucI )
+[![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg
