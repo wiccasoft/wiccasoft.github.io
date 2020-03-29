@@ -10,30 +10,13 @@ https://www.uludagsozluk.com/k/tayt-giyen-k%C4%B1z%C4%B1n-poposuna-bakmayan-erke
 https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg bkz interner mahir
 https://www.uludagsozluk.com/e/43077986/ delihuanlı değildir evet
 bkz oytunkaranın sarı lacivert taytı
-bkz oytunkaranın beni babası sanması olayı evet
 bkz look oytunkaran im not your father evet
-bkz şakamaka oytunkaranının gay oğlum çıkması
-bkz oytunkaranın pis götünü sikecek kadar düşmek
-bkz oytunkaranın götünü sikerken fener ağlama söylemek
-bkz oytunkaranın kocaman bir gay olduğu gerçeği evet
-bkz tayt giyen anneme niye bakmıyosun diye kafa siken fenerli gay
-bkz tayt giyen kızın götüne bakmayan erkeğin götüne bakan fenerli gay
-bkz taytlı götüne bakılmıyor diye ağlayan fenerli
-bkz oytunkaranın taytlı götünün koktuğu gerçeği
-bkz tayt giyen oytunkaranın götüne bakmayan adam
-bkz tayt giyen fenerli kızların götüne bakmaktan kafası ağrıyıp çifliğe yerleşen adam
-bkz sarı lacivert tayt giyen oytunkaranın götüne bakmayan erkek
 bkz devletinin koca bi hiç olduğunun öğrenen ülkücü hüznü
-bkz erdonun mahir çayanı salması
-bkz deniz gezmişin erdoğana gevşek demesi
-bkz mahir çayanın kolluk kuvvetlerine bombe atıp kaçması
-bkz ibrahim kaypakkayanın kalkışma planlaması
 bkz deniz gezmişin abaza olduğu iddaları
 bkz kadirmısıroğlan.com u satın alıp netflix e çevirmek
 bkz kadir mısıroğlan donunu indirip kaçmak başlığının silinmesi
 bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
 bkz hayatını entry girerek geçiren fakirlerin güldürmesi evet
-bkz 30 liralık sarı lacivert taytla dolaşan oktunkaranın götünün kokması evet
 bkz oyrunkaranın 61 iq ile nasıl yaşadığı sorunsalı
 https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
 bkz oytunkaranın hep aynı entry lere entry girmesi evet 
