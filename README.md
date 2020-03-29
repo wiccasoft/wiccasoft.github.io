@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg bkz sözlük ablaları
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yakışıklı değil ama sempatik
 https://www.uludagsozluk.com/k/iphone-11-alamayan-ezikler/&w=bg
