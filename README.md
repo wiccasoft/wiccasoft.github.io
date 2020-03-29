@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
+
 <!-- 
+https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1na-ait-bir-d%C3%BC%C4%9F%C3%BCn-davetiyesi-ve-kad%C4%B1n/ zuahhaha
 bkz ismet inöcünün farkında değilmişim gibi çek pozu
 bkz bülent ersoyun askerlik fotosu
 bkz hadisenin macunsuz pozu
