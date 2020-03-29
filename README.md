@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
-bkz göklerden gelen bir karar vardır
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz göklerden gelen bir karar vardır
 https://www.uludagsozluk.com/k/t%C4%B1r-%C5%9Fof%C3%B6r%C3%BCn%C3%BCn-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yakışıklı değil ama sempatik
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz en yakışıklı cumhurbaşkanı
