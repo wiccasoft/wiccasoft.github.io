@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 13 . cumburlop başkanı fahrettin koca
+bkz fahrettin koca ikinci ata cücü olduğuna göre mansur yavaş ne yapacak sorunsalı
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
 https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
 bkz 1881 yılıdna araformların aracücülüğe geçmesi
