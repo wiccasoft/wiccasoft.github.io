@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=k6gi9WhpBJ0 )
 
 <!-- 
-bkz 30 liralık taytla dolaşan oktunkaranın götünün kokması evet
+bkz 30 liralık sarı lacivert taytla dolaşan oktunkaranın götünün kokması evet
 bkz fakirleri şehirlere hapsedip fare gibi deney yapmak evet
 bkz oyrunkaranın 70 iq ile nasıl yaşadığı sorunsalı
 https://www.uludagsozluk.com/e/43077365/ bkz oyutun karanın bot olması evet
