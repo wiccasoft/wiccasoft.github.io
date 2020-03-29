@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
+bkz mansur yavaşın lc waikiki den giyinmesi
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg
 bkz güdükün  hababam sınıfında gaza gelen tarih hocasına yaptığı şaka
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-z%C3%BCht%C3%BC-hoca/
 bkz abdurrahim albyrakın bomba gibi dönmesi
