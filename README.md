@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=0vVqoZ0Xi_4 )
 
 <!-- 
-bkz gök tanrı vs recep tayyip erdoğan
+bkz göklerden gelen bir karar vardır
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yakışıklı değil ama sempatik
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz en yakışıklı cumhurbaşkanı
 https://www.uludagsozluk.com/k/fatih-terim-in-covid-19-u-yenmesi/ nerde kalmıştık
