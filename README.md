@@ -6,10 +6,7 @@ bkz oytunkaranın sarı lacivert taytı
 bkz oytunkaranın beni babası sanması olayı evet
 bkz look oytunkaran im not your father evet
 bkz şakamaka oytunkaranının gay oğlum çıkması
-bkz oytunkaranın annesinin ex fuckbuddyim çıkması
-bkz oytunkaranın kara taytlı annesinin götüne bakmayan erkek
 bkz oytunkaranın pis götünü sikecek kadar düşmek
-bkz oytunkaranın taytını yırtıp 18 cm in başını göt deliğine dayamak. süper olay evet
 bkz oytunkaranın götünü sikerken fener ağlama söylemek
 bkz oytunkaranın kocaman bir gay olduğu gerçeği evet
 bkz tayt giyen anneme niye bakmıyosun diye kafa siken fenerli gay
