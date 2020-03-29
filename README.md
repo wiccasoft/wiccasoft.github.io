@@ -3,7 +3,7 @@
 
 <!-- 
 bkz mahir çayana entry girmeyen kız
-bkz asklı giyen kıza bakmayan erkek
+bkz askılı giyen kıza bakmayan erkek
 bkz geceye erkek bırakın sabaha yersiniz
 https://www.uludagsozluk.com/k/tayt-giyen-k%C4%B1z%C4%B1n-poposuna-bakmayan-erkek/&w=bg vurduruyodur evet
 https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg bkz interner mahir
