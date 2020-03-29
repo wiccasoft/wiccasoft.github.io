@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz ismet inöcünün atacününü gölgesinde kalması
 https://www.uludagsozluk.com/k/beni-adamdan-say%C4%B1p-alacak-%C3%B6rg%C3%BCte-zaten-ben-girmem/&w=bg
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ sabah da yenir bunlar
 https://www.uludagsozluk.com/k/montr%C3%B6-bo%C4%9Fazlar-s%C3%B6zle%C5%9Fmesi/&w=bg bkz londra ateşkes mutabakatı
