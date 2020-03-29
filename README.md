@@ -8,6 +8,7 @@ bkz fahrettinn petekkayanın evde kalırsanız bal döker yalatırım pozu
 bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035
 https://eksisozluk.com/fahrettin-kocanin-yeni-ataturk-olmasi--6425886
+https://www.uludagsozluk.com/k/erkan-petekkaya-t%C3%BCrkiye-nin-en-iyi-akt%C3%B6r%C3%BCd%C3%BCr/&w=bg
 https://www.uludagsozluk.com/k/sokaklarda-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-is-te-mi-yo-ruz/&w=bg
 -->
 
