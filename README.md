@@ -1,6 +1,9 @@
 
 <!-- [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=XxMDqjfoOgM )-->
 
+
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1-ele%C5%9Ftiren-hadsiz-t%C4%B1rc%C4%B1/ -->
+
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
