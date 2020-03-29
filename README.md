@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+https://www.uludagsozluk.com/k/ma%C3%A7o-erkek/&w=bg bkz boynu ıstırılası erkek
 https://www.uludagsozluk.com/k/huzur-veren-renkler/ bkz huzur veren erkekler
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ 
 https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg 
