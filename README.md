@@ -2,10 +2,10 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
-hadi ben kaçanskiiiiiiiii arivederçiiiii
 bkz mahir çayana entry girmeyen kız
 bkz askılı giyen kıza bakmayan erkek
 bkz geceye erkek bırakın sabaha yersiniz
+hadi ben kaçanskiiiiiiiii arivederçiiiii
 https://www.uludagsozluk.com/k/tayt-giyen-k%C4%B1z%C4%B1n-poposuna-bakmayan-erkek/&w=bg vurduruyodur evet
 https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg bkz interner mahir
 https://www.uludagsozluk.com/e/43077986/ delihuanlı değildir evet
