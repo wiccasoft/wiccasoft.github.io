@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ sabah da yenir bunla
 https://www.uludagsozluk.com/k/montr%C3%B6-bo%C4%9Fazlar-s%C3%B6zle%C5%9Fmesi/&w=bg bkz londra ateşkes mutabakatı
 https://www.uludagsozluk.com/k/falih-r%C4%B1fk%C4%B1-atay/&w=bg bkz üç isimli erkek seksiliği
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs-bitince-yap%C4%B1lacak-k%C3%BC%C3%A7%C3%BCk-%C3%A7%C4%B1lg%C4%B1nl%C4%B1klar/ erkekleri şapşiklemek
-https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=gd bkz kaleci erkek seksiliği
+https://www.uludagsozluk.com/k/r%C3%BC%C5%9Ft%C3%BC-re%C3%A7ber/&w=gd bkz yeleli erkek seksiliği
 https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz kel erkek seksiliği
 https://www.uludagsozluk.com/k/ma%C3%A7o-erkek/&w=bg bkz boynu ıstırılası erkek
 https://www.uludagsozluk.com/k/huzur-veren-renkler/ bkz huzur veren erkekler
