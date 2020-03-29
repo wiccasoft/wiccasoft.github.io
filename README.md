@@ -4,6 +4,7 @@
 <!-- 
 bkz gece bırakılan erkeğin sabah çürümesi
 bkz ismet inöcünün atacününün gölgesinde kalması
+bkz pazar sabahı uyanmak için bir erkek bırak
 https://www.uludagsozluk.com/k/beni-adamdan-say%C4%B1p-alacak-%C3%B6rg%C3%BCte-zaten-ben-girmem/&w=bg
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ sabah da yenir bunlar
 https://www.uludagsozluk.com/k/montr%C3%B6-bo%C4%9Fazlar-s%C3%B6zle%C5%9Fmesi/&w=bg bkz londra ateşkes mutabakatı
