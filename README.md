@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz mahir çayanın kolluk kuvvetlerine bombe atıp kaçması
 bkz ibrahim kaypakkayanın kalkışma planlaması
 bkz deniz gezmişin abaza olduğu iddaları
 bkz kadirmısıroğlan.com u satın alıp netflix e çevirmek
