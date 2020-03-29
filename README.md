@@ -4,6 +4,7 @@
 <!-- 
 bkz 13. cumburlop maaşına göz dikmek
 bkz 13. cumburlop başkanı fahrettin koca
+bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
 https://www.uludagsozluk.com/k/rte-yi-ele%C5%9Ftirenlere-ayar-yap%C4%B1lmas%C4%B1/
