@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+hadi ben kaçanskiiiiiiiii arivederçiiiii
 bkz mahir çayana entry girmeyen kız
 bkz askılı giyen kıza bakmayan erkek
 bkz geceye erkek bırakın sabaha yersiniz
