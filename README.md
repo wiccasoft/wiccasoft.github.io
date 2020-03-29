@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz oytunkaranın taytını yırtıp 18 cm in başını göt deliğine dayamak
 bkz oytunkaranın götünü sikerken fener ağlama söylemek
 bkz oytunkaranın kocaman bir gay olduğu gerçeği evet
 bkz tayt giyen anneme niye bakmıyosun diye kafa siken fenerli gay
