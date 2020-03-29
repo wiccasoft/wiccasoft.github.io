@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=9eA8YuQkDsw )
 
 <!-- 
+bkz kızları patlatıp terkeden yakışıklı kültürlü zengin erkek
 bkz patlak kızı patlak diye terkeden erkek
 bkz taş gibi kızı patlak diye terkeden erkek
 bkz hamur gibi kızı atacücücü diye reddeden erkek
