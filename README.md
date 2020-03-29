@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/kendi-osuruk-sesinden-korkan-kezo/&w=bg bkz oytunkaran
-bkz oytunkaran kezosunun götünün koktuğu gerçeği
+bkz oytunkaranın taytlı götünün koktuğu gerçeği
 bkz tayt giyen oytunkaranın götüne bakmayan adam
 bkz tayt giyen fenerli kızların götüne bakmaktan kafası ağrıyıp çifliğe yerleşen adam
 bkz sarı lacivert tayt giyen oytunkaranın götüne bakmayan erkek
