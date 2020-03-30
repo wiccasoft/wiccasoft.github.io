@@ -1,14 +1,8 @@
 
-
-
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
+
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!-- 
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-kukusu-olan-k%C4%B1z-var-m%C4%B1-sorunsal%C4%B1/
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyetine-k%C3%BCf%C3%BCr-eden-%C5%9Ferefsiz/&w=gd 
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
--->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
