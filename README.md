@@ -4,6 +4,7 @@
 <!-- 
 bkz yusuf yerkelin düğün davetiyesi
 https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz 30 mart 2020 rte nin ezanları susturamayacaksınız açıklaması
 -->
