@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz yusuf yerkelin düğün davetiyesi
 https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz 30 mart 2020 rte nin ezanları susturamayacaksınız açıklaması
