@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ekrem-yalano%C4%9Flu/&w=bg
+https://www.uludagsozluk.com/k/orkun-isimli-erkekler/&w=bg
 https://www.uludagsozluk.com/k/muhammed-in-3-değil-5-değil-tam-13-evlilik-yapması/&w=bg
 https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
