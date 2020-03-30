@@ -2,6 +2,9 @@
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=Z6VNm1fFG1I )
 
+<!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
+
+
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
