@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz millet hizmet beklerken bay kemalin osura osura uyuması
 https://www.uludagsozluk.com/k/antarktika-diktat%C3%B6r%C3%BC/ bkz uzun adam
 https://www.uludagsozluk.com/k/berkin-elvann/&w=gd bkz mahir çayan vs berkin elvan
 https://www.uludagsozluk.com/k/ekrem-yalano%C4%9Flu/&w=bg
