@@ -3,28 +3,6 @@
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
 
-<!-- 
-https://www.uludagsozluk.com/k/volkan-demirel/&w=bg
-https://www.uludagsozluk.com/k/doktorlardaki-ego-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/gelecekte-t%C3%BCrkiye-yi-bekleyen-%C5%9Feyler/&w=gd
-https://www.uludagsozluk.com/k/en-%C5%9Ferefsiz-erkek-isimleri/&w=bg bkz aile şerefsizi oktay
-https://www.uludagsozluk.com/k/efesli/ bkz hoşgeldin harun abi
-https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=gd
-https://www.uludagsozluk.com/k/filmlerde-yaln%C4%B1z-ya%C5%9Fayan-bekar-erkeklerin-evleri/
-https://www.uludagsozluk.com/k/30-ekim-2020-rte-nin-milleti-ters-k%C3%B6%C5%9Fe-yapmas%C4%B1/
-https://www.uludagsozluk.com/k/30-mart-2020-erdo%C4%9Fan-%C4%B1n-halktan-para-istemesi/
-https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/&w=bg bkz ajdar anık 
-https://www.uludagsozluk.com/k/fahriye-evcen-in-yapt%C4%B1%C4%9F%C4%B1-ilgin%C3%A7-parmak-%C5%9Fovu/&w=gd
-bkz millet hizmet beklerken bay kemalin osura osura uyuması
-https://www.uludagsozluk.com/k/%C3%BClkelerin-covid-19-m%C3%BCcadelesi/ lol
-https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
-https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
-https://www.uludagsozluk.com/k/hz-isa-daki-inan%C4%B1lmaz-mant%C4%B1k-hatas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat%C4%B1n-borcunu-silip-halktan-para-istemek/
-https://www.uludagsozluk.com/k/%C3%A7al%C4%B1%C5%9Fmayan-insanlardan-para-isteyen-s%C3%BCper-g%C3%BC%C3%A7/
--->
-
-
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
