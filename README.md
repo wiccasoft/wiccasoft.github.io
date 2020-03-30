@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 <!--
+https://www.uludagsozluk.com/k/muharrem-ince/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClkelerin-covid-19-m%C3%BCcadelesi/ lol
 https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
 https://www.uludagsozluk.com/k/halktan-para-dilenen-cumhurba%C5%9Fkan%C4%B1/&w=gd
