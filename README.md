@@ -6,6 +6,7 @@ bkz devlet bahçelinin tespihi
 bkz devlet bahçelinin mecliste kal türküyüm pozu
 bkz devlet bahçeliye neden bilge başbuğ deniyor sorunsalı
 bkz ekrem mamioğlanın itfaiyye hortumuyla sokakları yıkayalım önerisi
+bkz çinin yarasa yiyip yılan kanı içmeye devam etmesi
 https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-istemesi/
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
