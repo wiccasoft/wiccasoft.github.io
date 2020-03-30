@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+https://www.uludagsozluk.com/k/yavuz-bahad%C4%B1ro%C4%9Flu-nun-akp-yi-tehdit-etmesi/
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşalah
 bkz allah bir dir diyene 3 değil 5 değil tam 13 kızımı verecem diyen baba
 https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg bkz ramiz dayı
