@@ -2,6 +2,9 @@
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
 
+<!-- https://www.uludagsozluk.com/k/%C3%A7irkin-ama-sempatik-erkek-m%C3%BChendis/&w=bg bkz ajdar anık -->
+
+
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
