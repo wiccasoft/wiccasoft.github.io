@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz devlet bahçelinin mecliste kal türküyüm pozu
 bkz devlet bahçeliye neden bilge başbuğ deniyor sorunsalı
 bkz ekrem mamioğlanın itfaiyye hortumuyla sokakları yıkalyalım önerisi
 https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/
