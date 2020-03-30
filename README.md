@@ -3,9 +3,6 @@
 
 <!--
 bkz fatih portaklın anlamadıysan bi daha anlatim bakışı
-bkz fatih portakalız bi omzunu düşürüp kafasını yatırıp öbür eliyle anladın mı şeklinde sallaması
-bkz fatih portakalın el ve omuz hareketleri
-bkz fatih portakalın aptala anlatır gibi haber yorumlaması
 bkz şaka maka yakında cumburlop maaşı alacak olmam
 bkz iibf mezunuyum diyip adamım diye dolaşmak
 bkz cumburlop maaşına göz dikmek
