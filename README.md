@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-bkz madem gav virüsü durduramıyo o zman niye inkar ediyosunuz allakı
+bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi 
+https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
 bkz madem allak yok niye corona virüsü var
 bkz gavsın hala coronovirüsünü durdurmaması
 bkz muhammedin bir değil 3 değil bir alana 13 bedeve antivirüs kampanyası
