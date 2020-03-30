@@ -1,55 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!--
-bkz kedi perinin ülkücü olduğu gerçeği
-bkz kedi perinin kürt kayınbaba istememesi
-https://www.uludagsozluk.com/k/k%C3%BCrt-sevgili-ar%C4%B1yorum/ bkz kedi peri 
-bkz kedi periyi oğluna almayan kürt baba
-bkz devlet bahçelinin tespihi
-bkz devlet bahçelinin mecliste kal türküyüm pozu
-bkz devlet bahçeliye neden bilge başbuğ deniyor sorunsalı
-bkz ekrem mamioğlanın itfaiyye hortumuyla sokakları yıkayalım önerisi
-bkz çinin yarasa yiyip yılan kanı içmeye devam etmesi
-https://www.uludagsozluk.com/k/fatih-terim-in-3-g%C3%BCnde-iyile%C5%9Fmesi/ nerde kalmıştık
-https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-istemesi/
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
-bkz erkem mamioğlanın ppknın çizgisini beğeniyorum demesi
-bkz şaka maka ppk nın dağ kadrosunu güçlendirmesi
-bkz receğ tayyiğ erdoğanın damadın penis yüzüğünü azıyla takması
-bkz bakan varankın altın varanklı küvette küvette kal pozu
-bkz 30 mart 2020 damadın altın varanklı tapelerinin fotoşok çıkması
-bkz devlet bahçelinin 2029 a kadar mhp nin başbuğuyum müjdesi
-bkz devlet bahçeli kulislerde ki mecliste kal pozu
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg acaba neden
-bkz ben türk kızı almam diyen kürt baba
-bkz mahir çayan vs berki elvan
-bkz abdullah çatlının korona negatif çıkması
-bkz müjdat gezen halk tv özel yayını
-bkz kediperinin kürt aileye gelin olma istemesi
-https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg
-https://www.uludagsozluk.com/k/berkin-elvann/&w=bg
-https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/&w=gd
-bkz muhammedi mağarada kurtaran kürt örümcek
-bkz çinin yine yarasa yiyip yılan kanı içmeye başlaması
-bkz ekrem mamaioğlanın ppk nın çizgisini beğeniyorum demesi
-bkz virüs bahanesiyle ppk nın dağ kadrosunu güçlendirmesi
-https://www.uludagsozluk.com/k/yavuz-bahad%C4%B1ro%C4%9Flu-nun-akp-yi-tehdit-etmesi/
-https://www.youtube.com/watch?v=EfAsNffCjsM maşşalah
-bkz allah bir dir diyene 3 değil 5 değil tam 13 kızımı verecem diyen baba
-https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg bkz ramiz dayı
-https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
-https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/gavs%C4%B1n-hala-korona-vir%C3%BCs%C3%BC-durduramamas%C4%B1/&w=gd
-https://eksisozluk.com/cem-yilmazin-yine-olu-numarasi-yapmasi--6444260?a=popular
-
--->
-
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
