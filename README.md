@@ -4,7 +4,6 @@
 <!--
 https://www.uludagsozluk.com/k/%C3%BClkelerin-covid-19-m%C3%BCcadelesi/ lol
 https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
-https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
 https://www.uludagsozluk.com/k/halktan-para-dilenen-cumhurba%C5%9Fkan%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
 -->
