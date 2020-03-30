@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
-https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha
+https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha ne iöiyosun olm sen
 bkz ben türk kızı almam diyen kürt baba
 bkz mahir çayan vs berki elvan
 bkz abdullah çatlının korona negatif çıkması
