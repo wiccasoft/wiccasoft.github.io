@@ -3,6 +3,7 @@
 
 <!--
 bkz macun kaplıcalıdaki survivor şeyma
+bkz macun ol kampanyasına destek veren ünlüler
 https://www.uludagsozluk.com/k/survivor-burak/&w=bg
 https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz yedi bölgede 81 ilde 
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=bg bkz ıyy iğrenç
