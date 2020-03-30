@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz dinlerken adamın amcığına koyan şarkılar
+https://www.uludagsozluk.com/k/i%C3%A7-yakan-kitaplar/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/o-t%C4%B1r-%C5%9Fof%C3%B6r%C3%BC-%C5%9Fimdi-tele1-de/
 https://www.uludagsozluk.com/k/30-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/
