@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+https://www.uludagsozluk.com/k/berkin-elvann/&w=gd bkz mahir çayan vs berkin elvan
 https://www.uludagsozluk.com/k/ekrem-yalano%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/orkun-isimli-erkekler/&w=bg
 https://www.uludagsozluk.com/k/muhammed-in-3-değil-5-değil-tam-13-evlilik-yapması/&w=bg
