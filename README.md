@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/gavs%C4%B1n-hala-korona-vir%C3%BCs%C3%BC-durduramamas%C4%B1/&w=gd
 -->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
