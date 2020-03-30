@@ -4,6 +4,7 @@
 <!--
 bkz mahir çayan vs berki elvan
 bkz abdullah çatlının korona negatif çıkması
+bkz kediperinin kürt aileye gelin olma istemesi
 https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg
 https://www.uludagsozluk.com/k/berkin-elvann/&w=bg
 https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/&w=gd
