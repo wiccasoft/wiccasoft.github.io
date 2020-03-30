@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz devlet bahçelinin paylaştığı türkün afakını bozmayın paylaşımı
 bkz devlet bahçelinin bahçeli eve çıkması
 bkz devlet bahçelinin kurdun dişine kan değdi demesi
 bkz gavsın hala corona virüsüne reçte yazmaması
