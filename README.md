@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/&w=gd
-bkz muhammedi mağarada kurtaran örümcek
+bkz muhammedi mağarada kurtaran kürt örümcek
 bkz çinin yine yarasa yiyip yılan kanı içmeye başlaması
 bkz ekrem mamaioğlanın ppk nın çizgisini beğeniyorum demesi
 bkz virüs bahanesiyle ppk nın dağ kadrosunu güçlendirmesi
