@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz kedi periyi oğluna almayan kürt baba
 bkz devlet bahçelinin tespihi
 bkz devlet bahçelinin mecliste kal türküyüm pozu
 bkz devlet bahçeliye neden bilge başbuğ deniyor sorunsalı
