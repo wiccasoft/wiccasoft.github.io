@@ -5,6 +5,7 @@
 <!-- 
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
+https://www.uludagsozluk.com/k/hz-isa-daki-inan%C4%B1lmaz-mant%C4%B1k-hatas%C4%B1/&w=bg
  -->
 
 
