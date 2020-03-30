@@ -4,7 +4,6 @@
 <!--
 bkz devlet bahçelinin tespihi
 bkz devlet bahçelinin mecliste kal türküyüm pozu
-bkz devlet bahçelini kurdun dişine kan değdi kan demesi
 bkz devlet bahçeliye neden bilge başbuğ deniyor sorunsalı
 bkz ekrem mamioğlanın itfaiyye hortumuyla sokakları yıkayalım önerisi
 bkz çinin yarasa yiyip yılan kanı içmeye devam etmesi
