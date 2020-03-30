@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz gavsın hala virüsü durdurmaması
 bkz virüsün en çok benim işime yaradığı gerçeği
 bkz fatih portaklın anlamadıysan bi daha anlatim bakışı
