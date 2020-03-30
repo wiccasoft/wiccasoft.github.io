@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz devlet bahçelinin 2029 a kadar mhp nin başındayım müjdesi
 bkz devlet bahçeli kulislerde ki mecliste kal pozu
 bkz devlet bahçeli efso meclis otorumu
 bkz devlet bahçeliye neden başbuğ köpeği eniyor
