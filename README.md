@@ -1,42 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!--
-bkz bizimkiler dunkof halis
-bkz damadın varanklı penis yüzüğünün fotoşonk çıkması
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
-https://www.uludagsozluk.com/k/antarktika-diktat%C3%B6r%C3%BC/ bkz uzun adam
-bkz emine erdoğanın sokaklarda türbanlı görmek is te mi yo ruz mitingine katılması
-bkz sokaklarda türbanlı görmek is-te mi yo ruz
-bkz sakaryada kovidcilerin ümrecilere saldırması
-bkz gavsın hala virüsü durdurmaması
-bkz gavs bu vicdan azabıyla nasıl yaşayacak
-bkz virüsün en çok benim işime yaradığı gerçeği
-bkz fatih portaklın anlamadıysan bi daha anlatim bakışı
-bkz şaka maka yakında cumburlop maaşı alacak olmam
-bkz iibf mezunuyum diyip adamım diye dolaşmak
-bkz cumburlop maaşına göz dikmek
-bkz 13. cumburlop başkanı fahrettin koca
-bkz millet hizmet beklerken bay kemalin osura osura uyuması
-https://www.uludagsozluk.com/k/antarktika-diktat%C3%B6r%C3%BC/ bkz uzun adam
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz aptala anlatır gibi anlatmak
-https://www.uludagsozluk.com/k/mersin-deki-%C3%A7%C3%B6p-ev/ bkz mersinli cihangirin annesinin evi
-https://www.uludagsozluk.com/k/i%C3%A7-yakan-kitaplar/ bkz okuyunca adamın amına koyan kitaplar
-bkz mahir çayan vs berkin elvan
-https://www.uludagsozluk.com/k/ekrem-yalano%C4%9Flu/&w=bg
-https://www.uludagsozluk.com/k/orkun-isimli-erkekler/&w=bg
-https://www.uludagsozluk.com/k/muhammed-in-3-değil-5-değil-tam-13-evlilik-yapması/&w=bg
-https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
-https://www.uludagsozluk.com/k/o-t%C4%B1r-%C5%9Fof%C3%B6r%C3%BC-%C5%9Fimdi-tele1-de/
-https://www.uludagsozluk.com/k/30-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/
-https://www.uludagsozluk.com/k/ibb-nin-tepki-%C3%A7eken-ba%C4%9F%C4%B1%C5%9F-kampanyas%C4%B1/
-https://www.uludagsozluk.com/k/devlet-bahçeli-ye-neden-bilge-lider-deniliyor/&w=bg
-https://www.uludagsozluk.com/k/fatih-terim-in-3-g%C3%BCnde-iyile%C5%9Fmesi/ nerde kalmıştık
-https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/
-https://www.uludagsozluk.com/k/devlet-bakar-mant%C4%B1%C4%9F%C4%B1yla-yap%C4%B1lan-7-%C3%A7ocuk/
--->
-
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
