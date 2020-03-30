@@ -3,6 +3,7 @@
 
 <!-- 
 bkz yusuf yerkelin evlilik davetiyesi+
+bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
 bkz imamaoğlanın cem yılamzın çizgisini beğeniyorum açıklaması
 https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
