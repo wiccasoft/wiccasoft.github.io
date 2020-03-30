@@ -4,17 +4,6 @@
 <!--
 bkz devlet bahçelinin 2029 a kadar mhp nin başındayım müjdesi
 bkz devlet bahçeli kulislerde ki mecliste kal pozu
-bkz devlet bahçeli efso meclis otorumu
-bkz devlet bahçeliye neden başbuğ köpeği eniyor
-bkz devlet bahçelinin paylaştığı başbuğ köpek
-bkz türklerin liderlerine başköpek demesi
-bkz türklerin kutsal hayvanı neden köpek sorunsalı
-bkz başbuğ türkeş vs devlet bahçeli
-bkz devlet bahçeliye neden milleyetçi hareket partsisi lideri deniyor
-bkz devlet bahçelinin türklerin lideri olması
-bkz devlet bahçeliye neden keltoş ülkücü deniyor
-bkz türklerin hekesi kendisi gib kara kafalı cüce ibneler sanması
-bkz uludaki ibnelerin 42 yaşında sarışın mavi gözlü kaslı yakışıklı uzun boylu olduğumu hala bilmemesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
 https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha ne iöiyosun olm sen
 bkz ben türk kızı almam diyen kürt baba
