@@ -3,6 +3,7 @@
 
 <!-- 
 bkz kurlar vadisi efsane sözler diyaloglar
+bkz apk cc19 la uğraşırken ppk nın dağ kadrosunu güçlendirmesi
 https://www.uludagsozluk.com/k/kahraman-zorbey/&w=bg bkz baron karahanlının yeğeni
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/ 
 https://eksisozluk.com/abdullah-catli--76370 pkk lı orospu evlatlarını kudurtan
