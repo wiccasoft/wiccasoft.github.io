@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz receğ tayyiğ erdoğanın açıklamaları
 bkz devlet bahçelinin 2029 a kadar mhp nin başbuğuyum müjdesi
 bkz devlet bahçeli kulislerde ki mecliste kal pozu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg acaba neden
