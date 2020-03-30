@@ -1,6 +1,9 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=5bo-9wTxQ8c )
 
+<!-- https://www.uludagsozluk.com/k/berberini-%C3%B6zleyen-erkek/&w=bg bkz berber değdirmesi -->
+
+
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
 
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
