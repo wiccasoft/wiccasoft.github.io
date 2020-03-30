@@ -1,7 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!--bkz madem allak yok niye coronovirüsü var
+<!--
+bkz madem allak yok niye corona virüsü var
 bkz allahın hala kornovirüsünü durduramaması
 bkz gavsın hala coronovirüsün durdurmaması
 bkz gavsın hala coronovirüsüne aşı geliştirmemesi
