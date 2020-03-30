@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+https://www.uludagsozluk.com/k/berkin-elvann/&w=bg
 https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/&w=gd
 bkz muhammedi mağarada kurtaran kürt örümcek
 bkz çinin yine yarasa yiyip yılan kanı içmeye başlaması
