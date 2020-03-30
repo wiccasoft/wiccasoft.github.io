@@ -2,12 +2,12 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz aptala anlatır gibi anlatmak
 bkz iibf mezunuyum diyip adamım diye dolaşmak
 bkz cumburlop maaşına göz dikmek
 bkz 13. cumburlop başkanı fahrettin koca
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 https://www.uludagsozluk.com/k/antarktika-diktat%C3%B6r%C3%BC/ bkz uzun adam
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz aptala anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/mersin-deki-%C3%A7%C3%B6p-ev/ bkz mersinli cihangirin annesinin evi
 https://www.uludagsozluk.com/k/i%C3%A7-yakan-kitaplar/ bkz okuyunca adamın amına koyan kitaplar
 bkz mahir çayan vs berkin elvan
