@@ -9,23 +9,6 @@ https://www.uludagsozluk.com/k/yavuz-bahad%C4%B1ro%C4%9Flu-nun-akp-yi-tehdit-etm
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşalah
 bkz allah bir dir diyene 3 değil 5 değil tam 13 kızımı verecem diyen baba
 https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg bkz ramiz dayı
-bkz imama hatip lisesi bitirip boğaziçi tıp kazanan mümine
-bkz muhammedi mağarada kurtaran örümcek
-bkz gavsın hala corona virüsüne ilaç üretmemesi
-bkz gavsın hala corona virüsü aşısı üretememesi
-bkz peygamberin ebu cehile kirve demesi
-bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi 
-bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
-https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
-bkz madem allak yok niye corona virüsü var
-bkz gavsın hala coronovirüsünü durdurmaması
-bkz muhammedin bir değil 3 değil bir alana 13 bedeve antivirüs kampanyası
-bkz yusuf yerkelin evlilik davetiyesi+
-bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
-bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi
-bkz imamaoğlanın zeydin çizgisini beğeniyorum açıklaması
-bkz gavsın hala corona virüsünü durduramaması
-bkz menzil şeyhinin hala coronavirüsüne aşı bulamaması
 https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
 https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
