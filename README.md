@@ -5,7 +5,7 @@
 bkz yusuf yerkelin evlilik davetiyesi+
 bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
 bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi
-bkz imamaoğlanın cem yılamzın çizgisini beğeniyorum açıklaması
+bkz imamaoğlanın zeydin çizgisini beğeniyorum açıklaması
 https://www.uludagsozluk.com/k/evlilik-%C5%9Firket-kurmak-gibidir/
 https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
