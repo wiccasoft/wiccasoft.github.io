@@ -1,19 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=5bo-9wTxQ8c )
 
-<!-- 
-bkz yeni tek dünya devletini nereye kursam sorunsalı
-https://www.uludagsozluk.com/k/devletin-gereksiz-bir-kurum-olmas%C4%B1/
-https://www.uludagsozluk.com/k/gelecekten-geliyorum-sorular%C4%B1n%C4%B1z%C4%B1-alay%C4%B1m/
-https://www.uludagsozluk.com/k/berkin-elvan-ethem-sar%C4%B1s%C3%BCl%C3%BCk-ay%C5%9Fe-deniz-karacagil/&w=bg
-https://www.uludagsozluk.com/k/2-abd%C3%BClhamid-in-reformlar%C4%B1-ve-osmanl%C4%B1ya-katk%C4%B1lar%C4%B1/
-https://www.uludagsozluk.com/k/biz-bu-milletin-am%C4%B1na-koyaca%C4%9F%C4%B1z/ bkz emcüğü emüklenesi milletler
-https://www.uludagsozluk.com/k/%C3%BC%C3%A7%C3%BCnc%C3%BC-mustafa/&w=bg bkz 3. mustafa paşa
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg bkz fatih terim
-https://www.uludagsozluk.com/k/berberini-%C3%B6zleyen-erkek/&w=bg bkz berber değdirmesi
-https://www.youtube.com/watch?v=8PxwH8IHAB8 kola koymak -->
-
-
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
 
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
