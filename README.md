@@ -3,8 +3,8 @@
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
 <!-- 
-https://www.uludagsozluk.com/k/bilal-sonses/&w=bg
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
+https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
+ -->
 
 
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
