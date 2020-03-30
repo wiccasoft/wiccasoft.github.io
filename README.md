@@ -3,6 +3,7 @@
 
 <!--
 bkz kedi perinin ülkücü olduğu gerçeği
+bkz kedi perinin kürt kayınbaba istememesi
 https://www.uludagsozluk.com/k/k%C3%BCrt-sevgili-ar%C4%B1yorum/ bkz kedi peri 
 bkz kedi periyi oğluna almayan kürt baba
 bkz devlet bahçelinin tespihi
