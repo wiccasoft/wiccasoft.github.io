@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz emine erdoğanın sokakalrda türbanlı görmek is te mi yo ruz mitingine katılması
 bkz sokaklarda türbanlı görmek is-te mi yo ruz
 bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz gavsın hala virüsü durdurmaması
