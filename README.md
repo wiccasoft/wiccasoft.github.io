@@ -5,8 +5,6 @@
 https://www.uludagsozluk.com/k/ekrem-yalano%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/muhammed-in-3-değil-5-değil-tam-13-evlilik-yapması/&w=bg
 https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
-bkz okurken adamın amcığına koyan kitaplar
-https://www.uludagsozluk.com/k/i%C3%A7-yakan-kitaplar/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/o-t%C4%B1r-%C5%9Fof%C3%B6r%C3%BC-%C5%9Fimdi-tele1-de/
 https://www.uludagsozluk.com/k/30-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/
