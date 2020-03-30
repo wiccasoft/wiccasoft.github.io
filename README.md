@@ -4,7 +4,6 @@
 <!--
 bkz cumburlop maaşına göz dikmek
 bkz 13. cumburlop başkanı fahrettin koca
-bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 https://www.uludagsozluk.com/k/antarktika-diktat%C3%B6r%C3%BC/ bkz uzun adam
 https://www.uludagsozluk.com/k/berkin-elvann/&w=gd bkz mahir çayan vs berkin elvan
