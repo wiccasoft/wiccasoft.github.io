@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz fatih portakalız bi omzunu düşürüp kafasını yatırıp öbür eliyle anladın mı şeklinde sallaması
 bkz fatih portakalın el ve omuz hareketleri
 bkz fatih portakalın aptala anlatır gibi haber yorumlaması
 bkz şaka maka yakında cumburlop maaşı alacak olmam
