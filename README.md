@@ -10,11 +10,6 @@ bkz allah bir dir diyene 3 değil 5 değil tam 13 kızımı verecem diyen baba
 https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg bkz ramiz dayı
 bkz imama hatip lisesi bitirip boğaziçi tıp kazanan mümine
 bkz muhammedi mağarada kurtaran örümcek
-bkz allakın evrenin muhammedin yüzü suyu hüremetine yaratması
-bkz cüppeli ahmet hocanın muhammedin sakalı şerifinin virüse iyi gelir diye yüzünü sürtmesi
-bkz apk covid le uğraşırken ppk nın dağ kadrosunu güçlendirmesi
-bkz pkk nın elindeki esir türk askerleri
-bkz muhammedin sakalı şerifi
 bkz gavsın hala corona virüsüne ilaç üretmemesi
 bkz gavsın hala corona virüsü aşısı üretememesi
 bkz peygamberin ebu cehile kirve demesi
