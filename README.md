@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz devlet bahçeliye neden milleyetçi hareket partsisi lideri deniyor
 bkz devlet bahçelinin türklerin lideri olması
 bkz devlet bahçeliye neden keltoş ülkücü deniyor
 bkz türklerin hekesi kendisi gib kara kafalı cüce ibneler sanması
