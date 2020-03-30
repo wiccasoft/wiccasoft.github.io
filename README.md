@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz çinin yine yarasa yiyip yılan kanı içmeye başlaması
 bkz ekrem mamaioğlanın ppk nın çizgisini beğeniyorum demesi
 bkz virüs bahanesiyle ppk nın dağ kadrosunu güçlendirmesi
 https://www.uludagsozluk.com/k/yavuz-bahad%C4%B1ro%C4%9Flu-nun-akp-yi-tehdit-etmesi/
