@@ -5,6 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/volkan-demirel/&w=bg
 https://www.uludagsozluk.com/k/efesli/ bkz hoşgeldin harun abi
+https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=gd
 https://www.uludagsozluk.com/k/filmlerde-yaln%C4%B1z-ya%C5%9Fayan-bekar-erkeklerin-evleri/
 https://www.uludagsozluk.com/k/30-ekim-2020-rte-nin-milleti-ters-k%C3%B6%C5%9Fe-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/30-mart-2020-erdo%C4%9Fan-%C4%B1n-halktan-para-istemesi/
