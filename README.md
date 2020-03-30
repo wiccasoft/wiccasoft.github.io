@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz pkk nın elindeki esir türk askerleri
 bkz muhammedin sakalı şerifi
 bkz gavsın hala corona virüsüne ilaç üretmemesi
 bkz gavsın hala corona virüsü aşısı üretememesi
