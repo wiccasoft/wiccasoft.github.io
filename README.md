@@ -1,19 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!-- 
-bkz kurlar vadisi efsane sözler diyaloglar
-bkz apk cc19 la uğraşırken ppk nın dağ kadrosunu güçlendirmesi
-https://www.uludagsozluk.com/k/kahraman-zorbey/&w=bg bkz baron karahanlının yeğeni
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/ 
-https://eksisozluk.com/abdullah-catli--76370 pkk lı orospu evlatlarını kudurtan
-https://www.uludagsozluk.com/k/pkk-l%C4%B1lar/&w=bg orospu evlatları 
-https://www.uludagsozluk.com/k/ibb-nin-%C3%BC%C3%A7-itfaiye-erine-tek-maske-vermesi/ orospu evladı imamoglan
-https://www.uludagsozluk.com/k/konsolos-%C3%B6ld%C3%BCr%C3%BCp-kahraman-ilan-edilen-adam/ adam gibi adam
-https://www.uludagsozluk.com/k/kurtlar-vadisi-efsane-s%C3%B6zler-ve-diyaloglar/&w=bg 
-https://eksisozluk.com/cem-yilmazin-yine-olu-numarasi-yapmasi--6444260?a=popular orospu evladı
--->
-
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
 [![Image](eq/Screenshot_2020-03-27_11-37-25.png)]( https://www.youtube.com/watch?v=5-3uLsLuwJU )
