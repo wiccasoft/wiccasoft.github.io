@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=5bo-9wTxQ8c )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%BC%C3%A7%C3%BCnc%C3%BC-mustafa/&w=bg bkz 3. mustafa paşa
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg bkz fatih terim
 https://www.uludagsozluk.com/k/berberini-%C3%B6zleyen-erkek/&w=bg bkz berber değdirmesi
 https://www.youtube.com/watch?v=8PxwH8IHAB8 kola koymak -->
