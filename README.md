@@ -2,15 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
 
-<!-- 
-bkz millet hizmet beklerken bay kemalin osura osura uyuması
-https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
-https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
-https://www.uludagsozluk.com/k/hz-isa-daki-inan%C4%B1lmaz-mant%C4%B1k-hatas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7al%C4%B1%C5%9Fmayan-insanlardan-para-isteyen-s%C3%BCper-g%C3%BC%C3%A7/
- -->
-
-
 [![Image](eq/Screenshot_2020-03-30_13-14-59.png)]( https://www.youtube.com/watch?v=cVDY443zTkI )
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
