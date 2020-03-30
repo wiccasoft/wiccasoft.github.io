@@ -4,6 +4,7 @@
 <!-- 
 bkz yeni tek dünya devletini nereye kursam sorunsalı
 https://www.uludagsozluk.com/k/devletin-gereksiz-bir-kurum-olmas%C4%B1/
+https://www.uludagsozluk.com/k/2-abd%C3%BClhamid-in-reformlar%C4%B1-ve-osmanl%C4%B1ya-katk%C4%B1lar%C4%B1/
 https://www.uludagsozluk.com/k/biz-bu-milletin-am%C4%B1na-koyaca%C4%9F%C4%B1z/ bkz emcüğü emüklenesi milletler
 https://www.uludagsozluk.com/k/%C3%BC%C3%A7%C3%BCnc%C3%BC-mustafa/&w=bg bkz 3. mustafa paşa
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg bkz fatih terim
