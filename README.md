@@ -4,6 +4,7 @@
 <!--
 https://www.uludagsozluk.com/k/survivor-burak/&w=bg
 https://www.uludagsozluk.com/k/muharrem-ince/&w=bg
+https://www.uludagsozluk.com/k/berberini-%C3%B6zleyen-erkek/&w=bg bkz berber değdirmesi
 https://www.uludagsozluk.com/k/%C3%BClkelerin-covid-19-m%C3%BCcadelesi/ lol
 https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
 https://www.uludagsozluk.com/k/halktan-para-dilenen-cumhurba%C5%9Fkan%C4%B1/&w=gd
