@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-istemesi/
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
 bkz erkem mamioğlanın ppknın çizgisini beğeniyorum demesi
 bkz şaka maka ppk nın dağ kadrosunu güçlendirmesi
 bkz receğ tayyiğ erdoğanın damadın penis yüzüğünü azıyla takması
