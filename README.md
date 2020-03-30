@@ -3,6 +3,7 @@
 
 <!-- 
 bkz kurlar vadisi efsane sözler diyaloglar
+bkz laz ziyanın testere necmiyi hoplattığ ısahne
 https://eksisozluk.com/abdullah-catli--76370 pkk lı orospu evlatlarını kudurtan
 https://www.uludagsozluk.com/k/pkk-l%C4%B1lar/&w=bg orospu evlatları 
 https://www.uludagsozluk.com/k/ibb-nin-%C3%BC%C3%A7-itfaiye-erine-tek-maske-vermesi/ orospu evladı imamoglan
