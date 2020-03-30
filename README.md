@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-https://www.uludagsozluk.com/e/43080420/ bkz esmer kavruk oğlumun yarrağın ye sen ibnenin evladı
+https://www.uludagsozluk.com/e/43080420/ bkz esmer kavruk oğlumun yarrağını ye sen ibnenin evladı
 bkz ben türk kızı almam diyen kürt baba
 bkz mahir çayan vs berki elvan
 bkz abdullah çatlının korona negatif çıkması
