@@ -4,6 +4,7 @@
 <!--
 
 bkz bizimkiler dunkof halis
+bkz 30 mart 2020 damadın varanklı penis yüzüğünün fotoşonk çıkması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/antarktika-diktat%C3%B6r%C3%BC/ bkz uzun adam
 bkz emine erdoğanın sokaklarda türbanlı görmek is te mi yo ruz mitingine katılması
