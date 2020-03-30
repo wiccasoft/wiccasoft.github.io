@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz gavsın hala coronovirüsün durdurmaması
 bkz gavsın hala coronovirüsüne aşı geliştirmemesi
 bkz gavsın hala coronovirüsünü durdurmaması
 bkz muhammedin hala coronovirüsünü durduramaması
