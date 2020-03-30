@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz türklerin kutsal hayvanı neden köpek sorunsalı
 bkz başbuğ türkeş vs devlet bahçeli
 bkz devlet bahçeliye neden milleyetçi hareket partsisi lideri deniyor
 bkz devlet bahçelinin türklerin lideri olması
