@@ -1,6 +1,6 @@
 
 
-[![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=Z6VNm1fFG1I )
+[![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
 <!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
