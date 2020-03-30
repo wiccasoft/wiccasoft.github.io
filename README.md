@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/30-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/
 https://www.uludagsozluk.com/k/ibb-nin-tepki-%C3%A7eken-ba%C4%9F%C4%B1%C5%9F-kampanyas%C4%B1/
 https://www.uludagsozluk.com/k/devlet-bahçeli-ye-neden-bilge-lider-deniliyor/&w=bg
