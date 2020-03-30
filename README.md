@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz kedi perinni ülkücü olduğu gerçeği
 https://www.uludagsozluk.com/k/k%C3%BCrt-sevgili-ar%C4%B1yorum/ bkz kedi peri 
 bkz kedi periyi oğluna almayan kürt baba
 bkz devlet bahçelinin tespihi
