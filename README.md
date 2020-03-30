@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-bkz imama hatip lisesi bitierip boğaiçi tıp kazanan mümin kızz
+bkz imama hatip lisesi bitirip boğaziçi tıp kazanan mümine
 bkz muhammedi mağarada kurtaran örümcek
 bkz allakın evrenin muhammedin yüzü suyu hüremetine yaratması
 bkz cüppeli ahmet hocanın muhammedin sakalı şerifinin virüse iyi gelir diye yüzünü sürtmesi
