@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz şaka maka ppk nın dağ kadrosunu güçlendirmesi
 bkz receğ tayyiğ erdoğanın damadın penis yüzüğünü azıyla takması
 bkz bakan varankın altın varanklı küvette küvette kal pozu
 bkz 30 mart 2020 damadın altın varanklı tapelerinin fotoşok çıkması
