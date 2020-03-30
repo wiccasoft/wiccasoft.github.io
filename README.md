@@ -2,6 +2,9 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!-- 
+bkz cumburlop maaşına göz dikmek
+bkz 13. cumburlop başkanı fahrettin koca
+bkz fahrettin koca ikinci ata cücü olduğuna göre mansur atası yavaş ne yapacak sorunsalı
 bkz yusuf yerkelin evlilik davetiyesi+
 bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
 bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi
@@ -14,7 +17,7 @@ facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyo
 https://www.uludagsozluk.com/k/gavs%C4%B1n-hala-korona-vir%C3%BCs%C3%BC-durduramamas%C4%B1/&w=gd
 https://eksisozluk.com/cem-yilmazin-yine-olu-numarasi-yapmasi--6444260?a=popular
 bkz gavsın hala corona virüsünü durduramaması
-bkz menzisl şeyhinin hala coronavirüsüne aşı bulamaması
+bkz menzil şeyhinin hala coronavirüsüne aşı bulamaması
 -->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
