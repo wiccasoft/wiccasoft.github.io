@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/volkan-demirel/&w=bg
+https://www.uludagsozluk.com/k/en-%C5%9Ferefsiz-erkek-isimleri/&w=bg bkz aile şerefsizi oktay
 https://www.uludagsozluk.com/k/efesli/ bkz hoşgeldin harun abi
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=gd
 https://www.uludagsozluk.com/k/filmlerde-yaln%C4%B1z-ya%C5%9Fayan-bekar-erkeklerin-evleri/
