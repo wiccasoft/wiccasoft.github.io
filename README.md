@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!--1881 atacücü 18+81 = 99 - 81 il - batman = covid19 -->
+<!--1881 atacücü 18+81 = 99 - 81 il - batman = covid19 
+https://www.uludagsozluk.com/k/mahir-%C3%A7ayan/&w=bg bkz vatan haini atacüc düşmanı
+-->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
