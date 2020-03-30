@@ -1,6 +1,6 @@
 
 
-[![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
+[![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
 
 <!-- 
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
