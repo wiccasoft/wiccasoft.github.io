@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-bkz şaka maka naz milanın canlı yayında amına çikolata dökmesi
+bkz şaka maka naz milanın canlı yayında memelerine çikolata dökmesi
 bkz şaka maka madafaka 
 bkz devlet bahçelinin tespihi
 bkz devlet bahçelinin mecliste kal türküyüm pozu
