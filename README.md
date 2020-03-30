@@ -1,7 +1,12 @@
 
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-istemesi/&w=gd -->
+<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-istemesi/&w=gd
+https://www.uludagsozluk.com/k/devlet-bahçeli-ye-neden-bilge-lider-deniliyor/&w=bg
+https://www.uludagsozluk.com/k/fatih-terim-in-3-g%C3%BCnde-iyile%C5%9Fmesi/ nerde kalmıştık
+https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/
+https://www.uludagsozluk.com/k/devlet-bakar-mant%C4%B1%C4%9F%C4%B1yla-yap%C4%B1lan-7-%C3%A7ocuk/
+-->
 
 [![Image](eq/Screenshot_2020-03-27_14-05-16.png)]( https://www.youtube.com/watch?v=1wwXu8q3xEE )
 
