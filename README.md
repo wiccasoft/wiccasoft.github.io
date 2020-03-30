@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 <!--
+bkz macun kaplıcalıdaki survivor şeyma
 https://www.uludagsozluk.com/k/survivor-burak/&w=bg
 https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz yedi bölgede 81 ilde 
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=bg bkz ıyy iğrenç
