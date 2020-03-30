@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/k/%C3%BClkelerin-covid-19-m%C3%BCcadelesi/ lol
 https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
 https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
 https://www.uludagsozluk.com/k/hz-isa-daki-inan%C4%B1lmaz-mant%C4%B1k-hatas%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat%C4%B1n-borcunu-silip-halktan-para-istemek/
 https://www.uludagsozluk.com/k/%C3%A7al%C4%B1%C5%9Fmayan-insanlardan-para-isteyen-s%C3%BCper-g%C3%BC%C3%A7/
 -->
 
