@@ -2,8 +2,8 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-https://kedi-peri.uludagsozluk.com/ bkz yazık la kimin ibnesiyse
-https://www.uludagsozluk.com/e/43080420/ bkz esmer kavruk oğlumun yarrağını ye sen ibnenin evladı
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
+https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha
 bkz ben türk kızı almam diyen kürt baba
 bkz mahir çayan vs berki elvan
 bkz abdullah çatlının korona negatif çıkması
