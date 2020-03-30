@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz allakın evrenin muhammedin yüzü suyu hüremetine yaratması
 bkz cüppeli ahmet hocanın muhammedin sakalı şerifinin virüse iyi gelir diye yüzünü sürtmesi
 bkz apk covid le uğraşırken ppk nın dağ kadrosunu güçlendirmesi
 bkz pkk nın elindeki esir türk askerleri
