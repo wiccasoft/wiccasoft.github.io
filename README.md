@@ -18,7 +18,6 @@ bkz 30 mart 2020 damadın altın varanklı tapelerinin fotoşok çıkması
 bkz devlet bahçelinin 2029 a kadar mhp nin başbuğuyum müjdesi
 bkz devlet bahçeli kulislerde ki mecliste kal pozu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg acaba neden
-https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha ne iöiyosun olm sen
 bkz ben türk kızı almam diyen kürt baba
 bkz mahir çayan vs berki elvan
 bkz abdullah çatlının korona negatif çıkması
