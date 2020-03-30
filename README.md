@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz bakan varankın altın varanklı küvette küvette kal pozu
 bkz 30 mart 2020 damadın altın varanklı tapelerinin fotoşok çıkması
 bkz devlet bahçelinin 2029 a kadar mhp nin başbuğuyum müjdesi
 bkz devlet bahçeli kulislerde ki mecliste kal pozu
