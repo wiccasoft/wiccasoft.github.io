@@ -6,6 +6,7 @@ bkz gavsın hala corona virüsüne ilaç üretmemesi
 bkz gavsın hala corona virüsü aşısı üretememesi
 bkz peygamberin ebu cehile kirve demesi
 bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi 
+bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
 https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
 bkz madem allak yok niye corona virüsü var
 bkz gavsın hala coronovirüsünü durdurmaması
