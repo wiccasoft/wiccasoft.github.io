@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz devlet bahçeliye neden bilge başbuğ ülkücü deniyor
 bkz ekrem mamioğlanın itfaiyye hortumuyla sokakları yıkalyalım önerisi
 https://www.uludagsozluk.com/k/ben-t%C3%BCrk-k%C4%B1z%C4%B1-almam-diyen-k%C3%BCrt-baba/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1-istemesi/
