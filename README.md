@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz iibf mezunuyum diyip adamım diye dolaşmak
 bkz cumburlop maaşına göz dikmek
 bkz 13. cumburlop başkanı fahrettin koca
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
