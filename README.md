@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz gavsın hala corona virüsünün semptomik etkilerini açıklamaması
 bkz yusuf yerkelin evlilik davetiyesi+
 bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
 bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi
