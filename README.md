@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz uludaki ibnelerin 42 yaşında sarışın kaslı yakışıklı uzun boylu olduğumu hala bilmemesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg
 https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha ne iöiyosun olm sen
 bkz ben türk kızı almam diyen kürt baba
