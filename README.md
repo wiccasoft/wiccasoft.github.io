@@ -3,12 +3,8 @@
 
 <!--
 bkz madem allak yok niye corona virüsü var
-bkz allahın hala kornovirüsünü durduramaması
-bkz gavsın hala coronovirüsün durdurmaması
-bkz gavsın hala coronovirüsüne aşı geliştirmemesi
 bkz gavsın hala coronovirüsünü durdurmaması
-bkz muhammedin hala coronovirüsünü durduramaması
-bkz muhammedin bir değil 3 değil bir alana 13 bedeve kampanyası
+bkz muhammedin bir değil 3 değil bir alana 13 bedeve antivirüs kampanyası
 bkz yusuf yerkelin evlilik davetiyesi+
 bkz muhammed'in 3 değil 5 değil tam 13 evlilik yapması
 bkz peygamberin manevi oğlu zeydin karısıyla evlenmesi
