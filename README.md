@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
 <!-- 
+bkz millet hizmet beklerken bay kemalin osura osura uyuması
 https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
  -->
 
