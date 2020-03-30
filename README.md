@@ -2,12 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
-bkz devlet bahçelinin paylaştığı türkün afakını bozmayın paylaşımı
-bkz devlet bahçelinin bahçeli eve çıkması
-bkz devlet bahçelinin kurdun dişine kan değdi demesi
-bkz gavsın hala corona virüsüne reçte yazmaması
-bkz devlet bahçelinin kamal kılıççıoğlanın eli sıkmaması
-bkz devlet bahçelinin 2029 a kadar mhp nin başındayım müjdesi
+bkz devlet bahçelinin 2029 a kadar mhp nin başbuğuyum müjdesi
 bkz devlet bahçeli kulislerde ki mecliste kal pozu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-ye-neden-bilge-lider-deniliyor/&w=bg acaba neden
 https://www.uludagsozluk.com/e/43080420/ zuhahahhahahahaha ne iöiyosun olm sen
