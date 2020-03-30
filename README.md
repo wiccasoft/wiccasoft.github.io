@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg bkz ramiz dayı
 bkz imama hatip lisesi bitirip boğaziçi tıp kazanan mümine
 bkz muhammedi mağarada kurtaran örümcek
 bkz allakın evrenin muhammedin yüzü suyu hüremetine yaratması
