@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-29_08-39-58.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 <!--
+bkz ben türk kızı sikmem diyen kürt baba
 bkz ben türk kızı almam diyen kürt baba
 bkz mahir çayan vs berki elvan
 bkz abdullah çatlının korona negatif çıkması
