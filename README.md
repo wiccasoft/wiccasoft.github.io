@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portyaklın anlamadıysanız bi daha anlatim pozu
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkx kamalcıya anltır gibi anlatmak
 bkz appleın rte ye nişe lazım olursa iste çekinme koçum demesi
 bkz google ın rte ye para lazımsa fişekleyek demesi
