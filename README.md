@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih potakalın yaşını göstermemesi
+https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
 https://www.uludagsozluk.com/k/fyodor-mihailovic-dostoyevski/&w=bg bkz karamazo kardeşlerin yazarı
 bkz fatih portakal spiker mi muhalefet lideri mi sorunsalı
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
