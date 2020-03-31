@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz bizimkiler dunkof halis bey
 https://www.uludagsozluk.com/k/diktat%C3%B6r-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg bkz bizimkiler katil
 bkz bizimkiler tak tak sedat bey
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg bkz fatih tezcan ne sandın yarram tweeti
