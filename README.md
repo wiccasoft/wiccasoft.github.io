@@ -5,7 +5,7 @@
 <!--
 bkz fatih tezcandan fatih terime işin yap uyarısı
 bkz fatih tezcandan ikinci abdulhamdi güzellemesi
-bkz 2 .abdulhamdi yavzu sultan selim münasebeti
+bkz 2 .abdulhamdi fatih sultan selim münasebeti
 bkz abdurrahmipilipakın elleri
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-kenevir-sevdas%C4%B1/&w=bg
 bkz yütüp annyoing orange sayfasında fatih portakal kavgası yapan armutlar
