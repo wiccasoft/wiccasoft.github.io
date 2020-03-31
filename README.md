@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz beyaz götlerinizi sikecem diyen bunak
 bkz hepnizi karım yapacam diyen sapık bunak
 bkz hepiniz öldüreceim diyen pezevenk fesli bunak
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-tek-su%C3%A7u/&w=bg bkz link tıklağ
