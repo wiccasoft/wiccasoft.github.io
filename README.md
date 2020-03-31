@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz bahan varankın altın küveti
 bkz burası çokomelli diyip dinlememek
 bkz altın varanklı peteki satıp dış borcu kapamak
 https://www.uludagsozluk.com/k/almanyan%C4%B1n-bizi-k%C4%B1skanma-gerek%C3%A7eleri/&w=bg bkz altın varank
