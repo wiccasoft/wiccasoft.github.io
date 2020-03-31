@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/biz-bize-kazar%C4%B1z-t%C3%BCrkiyem/ zuhahahahaha
 bkz fino köpeği vs kamalcı zekası
 https://www.uludagsozluk.com/k/esnaf-cam%C4%B1-yaz%C4%B1lar%C4%B1/&w=bg camideyim işeme dükkan önüne
 https://www.uludagsozluk.com/k/fatih-portakal/&w=gd bkz kamalcıya anlatır gibi anlatmak
