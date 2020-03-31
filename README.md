@@ -3,7 +3,7 @@
 
 <!--
 bkz mansur yavaştan herkeşe çay şakire çay yok
-bkz cumburlop başkanıyım diyip ekranlardan para isteyenlere itibar etmeyiniz
+bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
 bkz bir olacaz diri olacaz iri olacaz iban numarımı veriyorum
 bkz evde kal türküyüm kampanyası
 bkz macun kaplıcalıdaki survivor şeyma
