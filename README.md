@@ -3,7 +3,9 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/e/43083236/ 
 bkz 13. cumburlop maaşına göz dikmek
+bkz hıyanetin hıyar sayısı arttırılsın demesi
 https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz güdük necmi
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz çaycı hüseyin 
 https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz saddmın altın varanklı bowling eldiveni
