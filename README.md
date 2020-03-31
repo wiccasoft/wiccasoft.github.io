@@ -4,6 +4,7 @@
 
 <!-- 
 bkz fatih terimle bir gece vs fatih tezcanla bir gece
+https://www.uludagsozluk.com/k/hamamda-o%C4%9Flan-kovalarken-d%C3%BC%C5%9F%C3%BCp-yaralanan-padi%C5%9Fah/&w=bg
 https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/ bkz cüneyt çakır
 bkz fatih tezcan dan fatih terime işini yap tweeti
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz ifşası düştü sandım
