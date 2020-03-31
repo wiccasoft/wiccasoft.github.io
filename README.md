@@ -4,6 +4,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/kar%C4%B1-koca-porno-izlemek/&w=bg bkz kusturmalı boşnak saksosu
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fe-en-%C3%A7ok-yak%C4%B1%C5%9Fan-giysiler/&w=bg ay erkek
 https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ izmir çıktım ayol
 bkz ya amerika tweeterı kaparsa fatih tezcanı nerden ulaşacaz sorundalı 
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg bkz fatih tezcan tweetleri
