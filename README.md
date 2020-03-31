@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz amkerika twitterı facebook u kapatsa dino köpeği gibi kalacak malum ırk
 https://www.uludagsozluk.com/k/twitter-muhalifli%C4%9Fi/ zuhahahahaha
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potuk ali koç
