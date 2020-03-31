@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/1-nisan-2020-rte-a%C3%A7%C4%B1klamalar%C4%B1/
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%A7irkin-surat%C4%B1/
