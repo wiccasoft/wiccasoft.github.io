@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C3%BCrek-yemi%C5%9F-insan%C4%B1n-yapabilecekleri/&w=bg bkz fesli bunağın donun indirmek
 bkz fesli bunağın donun indirip kaçmak başlığının silinmesi
 bkz fatih portakalın kalçalarını ısırırken baanın odaya girmesi
 https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/ 
