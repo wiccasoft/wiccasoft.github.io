@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/ 
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg ay kızlar sabah yerler bunları ayol
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%A7irkin-surat%C4%B1/
 https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/
