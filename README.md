@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ bir olacaz diri olacaz
 https://www.uludagsozluk.com/k/2020-nisanında-olacaklar/&w=bg bir olacaz diri olacaz iri olacaz
 https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/ 
