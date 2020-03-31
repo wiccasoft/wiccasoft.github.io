@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz müjdat gezenin ölü taklidid yapması
 bkz diyanetin hacıt o kupon yatar demesi
 bkz rte damadına peniz yüzüğü aldığı iftiraları
 bkz rte nin alt dudağını öpücük yaparak konuşması
