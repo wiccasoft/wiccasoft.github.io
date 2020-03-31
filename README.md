@@ -2,58 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!--
-bkz ak saray dan elektrink kaçıran kürt
-bkz bizi büzü yütürüz türüküyüm evdi kul türküyüm
-bkz macun kaplıcalının covid ol kampanyası düzenlemesi
-bkz zeki demir kunduzgil ilker canikligil nur bile ceylangillerle aynı eve çıkmak
-bkz mahir çıyan vs berkin çayan
-https://www.uludagsozluk.com/k/berkin-elvan-ethem-sar%C4%B1s%C3%BCl%C3%BCk-ay%C5%9Fe-deniz-karacagil/&w=bg
-bkz rte nin virüsü bahane ederek halktan para istemesi
-bkz rte nin iett günlerinden fotolarının fake yani sahte çıkması
-bkz 31 mart 2020 rte nin dudak hareketleri
-bkz 31 mart 2020 damadın halktan vergi istemesi
-bkz millet hizmet beklerken bay kemalin osura osura uyuması
-bkz rte nin beş megapiksel fotoğrafı
-bkz rte fedönü affetim dese olacaklar
-bkz rte nin sigara içenler cehenemliktir demesi
-bkz rte nin alt dudağını öpücük yaparak konuşması
-bkz akpartili halit akçapınarın ölü taklidi yapması
-https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
-https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
-bkz rte damadına peniz yüzüğü aldığı iftiraları
-https://www.uludagsozluk.com/k/surilere-40-milyar-vatanda%C5%9Fa-3-be%C5%9F-atin/
-bkz rte nin konuşurken alt dudak alırım der gibi konuşması
-https://www.uludagsozluk.com/k/dudak-derisini-soymak/&w=bg bkz rte nin konuşurken dudaklarını öpücük yapması
-https://www.uludagsozluk.com/k/bijicell/&w=bg bkz  şiwan perwerin kulandığı cell
-https://www.uludagsozluk.com/k/rte-nin-kelimeleri-uzatarak-konu%C5%9Fmas%C4%B1/
-bkz rte nin dudaklarının öpücük atar gibi olması
-bkz rte nin alt dudağını öpücük yaparak konuşması
-bkz müjdat gezenin ölü taklidid yapması
-https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz akpartili ünlüler
-https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcanın murat karayılna için attığı tweet
-https://www.uludagsozluk.com/k/rte-nin-kelimeleri-uzatarak-konu%C5%9Fmas%C4%B1/
-https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz ppk ya destek veren ünlüler
-https://www.uludagsozluk.com/e/43084039/ bkz muhtemelen inşaatta çalışıyordur
-bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
-https://www.uludagsozluk.com/e/43083236/ bkz hıyanetin hıyar sayısı arttırılsın demesi
-bkz 13. cumburlop maaşına göz dikmek
-https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz güdük necmi
-https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz çaycı hüseyin 
-https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz saddmın altın varanklı bowling eldiveni
-bkz diyanetin hacıt o kupon yatar demesi
-bkz 31 mart 2020 ilker canikligil fappening
-bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
-bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
-bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
-bkz 31 mart 2020 rte putin ayakta bekletti tapelerinin fotoşok yani fake olması
-https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz rte
-https://eksisozluk.com/ilker-canikligil--256882?a=popular  bkz nanikligil
-https://eksisozluk.com/rtenin-2002-secimi-galibiyet-fotografi--6447062?a=popular tıklağ galeriğ açılsın kankağ
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nerde/
-bkz millet hizmet beklerken kk nın osura osura uyuması 
--->
-
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
