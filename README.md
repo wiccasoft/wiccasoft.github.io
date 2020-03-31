@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fakirlere 1 er milyon dolar sus payı vermek
+https://www.uludagsozluk.com/k/surilere-40-milyar-vatanda%C5%9Fa-3-be%C5%9F-atin/
 https://www.uludagsozluk.com/k/milliyet%C3%A7ili%C4%9Fe-hakaret-partisi/&w=bg
 bkz fakirler zenginleri öldürmesin diye rte ye yüklü miktar vergi vermek
 bkz rte nin konuşurken  dudaklarını öpücük atar gibi yapması
