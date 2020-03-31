@@ -4,6 +4,7 @@
 
 
 <!--
+bkz ya amerika tweeterı kaparsa fatih tezcanı nerde takip edecez sorundalı
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg bkz fatih tezcan tweetleri
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1khan-altu%C4%9F-%C5%9Fekercigil/&w=bg ay buğ çok fenağ kızlar
 bkz fatih tezcanın ensesin kamalcı kırmızı rujla öpüp kemalist yapmak
