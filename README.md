@@ -6,6 +6,7 @@
 bkz diyanetin hacıt o kupon yatar demesi
 bkz imf başkanının 13. cumburlop maaşına göz dikmesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
+bkz 1 nisan 2020 rte nin şaka yaptım ceeeee demesi
 bkz herşeyi bırakıp nuri bilge ceylangille aynı eve çıkmak
 bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan gencebay 
