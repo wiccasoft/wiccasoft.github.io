@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz bilale anlatır gibi anlatmak
 bkz kamalcılara ulus devletlerin ve endüstri devriminin bittiğini bilale anlatır gibi anlatmak
 bkz kamalcılara devletin fakirler zenginleri öldürmesin diye olduğunu bilale anlatır gibi anlatmak
 bkz kurtuluş savaşçılık oynayan ergenler
