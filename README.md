@@ -4,6 +4,7 @@
 
 <!-- 
 bkz kuzey güney deki ferhat ın telefona kafa atma sahnesi
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-ele%C5%9Ftirilince-sinirden-%C3%A7%C4%B1ld%C4%B1ran-ekotroll/
 31 mart 2020 ankara bb nni yaptığı şey terbiyesizlikler -->
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
