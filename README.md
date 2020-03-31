@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/surilere-40-milyar-vatanda%C5%9Fa-3-be%C5%9F-atin/
 bkz rte nin konuşurken alt dudak alırım der gibi konuşması
 https://www.uludagsozluk.com/k/dudak-derisini-soymak/&w=bg bkz rte nin konuşurken dudaklarını öpücük yapması
 https://www.uludagsozluk.com/k/bijicell/&w=bg bkz  şiwan perwerin kulandığı cell
