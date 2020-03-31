@@ -3,14 +3,14 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-https://www.uludagsozluk.com/k/aynaya-rujla-yaz%C4%B1lan-mesajlar/&w=bg bkz fatih tezcan
+bkz fatih tezcanın çok yakışıklı olduğu gerçeği
 bkz fatih tezcandan batıya son uyarım tweeti
 bkz fatih tezcandan fatih terime işini yap uyarısı tweeti
 bkz fatih tezcan uın demeyi kapaması
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz 2013 murat karayılan tweeti
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcana aşık olmak
-https://www.uludagsozluk.com/k/aynaya-rujla-yaz%C4%B1lan-mesajlar/&w=bg bkz fatih tezcanım
+https://www.uludagsozluk.com/k/aynaya-rujla-yaz%C4%B1lan-mesajlar/&w=bg bkz fatih tezcan
 bkz fatih tezcan isminib marka olma yolunda ilerlemesi
 https://www.uludagsozluk.com/k/cezmi-bask%C4%B1n/&w=bg çok büyük adam çok
 bkz fatih tezcan tweeter ı kapatırsa nerden ulaşacaz sorundalı
