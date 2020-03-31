@@ -2,12 +2,12 @@
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 <!--
-bkz hıyanet in hıyar sayısı artsın demesi
-https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm
 bkz macun kaplıcalıdaki survivor şeyma
 bkz macun ol kampanyasına destek veren ünlüler
 bkz diyanetin hafız sayısı artsın demesi
 https://www.uludagsozluk.com/k/survivor-burak/&w=bg
+bkz hıyanet in hıyar sayısı artsın demesi
+https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm
 https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz yedi bölgede 81 ilde 
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=bg bkz ıyy iğrenç
 https://www.uludagsozluk.com/k/s%C3%BCper-dad%C4%B1-program%C4%B1ndaki-sal%C4%B1rgan-%C3%A7ocuk-bu%C4%9Fra/
