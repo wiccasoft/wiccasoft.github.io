@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
 https://www.uludagsozluk.com/k/m%C3%BCezzinin-ayakkab%C4%B1s%C4%B1ndan-%C5%9Fampanya-i%C3%A7mek/
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=gd bkz sarhoş taklidi yapan kamalcı
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bencegay
