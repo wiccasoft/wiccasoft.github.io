@@ -6,6 +6,8 @@
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%A7irkin-surat%C4%B1/
 https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/
+https://www.uludagsozluk.com/k/sanal-seksi-b%C4%B1rak%C4%B1p-entry-girer-misiniz/&w=bg
+https://www.uludagsozluk.com/k/fark%C4%B1nda-olmadan-b%C3%BCt%C3%BCn-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-ge%C3%A7irmek/
 -->
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
