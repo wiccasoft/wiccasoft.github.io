@@ -3,7 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz kürt erkeği kovalarken düşüp totoşunu kıran kamalcı 
+https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi yapan kamalcı
+https://yuruyen-cinsellik.uludagsozluk.com/ bkz kürt erkeği kovalarken düşüp totoşunu kıran kamalcı 
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/
 bkz erkek kovalarken düşüp götünü kıran kamalcı
 https://fasizan-ruh.uludagsozluk.com/ bkz efso fatih tezcan ifşası
