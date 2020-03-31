@@ -4,7 +4,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz kamalcıların ıslak rüyası
-https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ bkz kadın taklidi yapan kamalcı
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi yapan kamalcı
 https://yuruyen-cinsellik.uludagsozluk.com/ bkz kürt erkeği kovalarken düşüp totoşunu kıran kamalcı 
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/
