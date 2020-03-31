@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
 https://www.uludagsozluk.com/k/sinemaya-tek-ba%C5%9F%C4%B1na-giden-tip/ bkz züppel ahmet hoca evet
 https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/&w=gd bkz züppeli ahmet hoca
 https://www.uludagsozluk.com/k/1-50-lik-k%C4%B1zlar%C4%B1-tutup-f%C4%B1rlatma-iste%C4%9Fi/ 1 50lik kız mı kaldı amın sıçtığı
