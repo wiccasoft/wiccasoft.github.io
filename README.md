@@ -2,7 +2,10 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!--bkz millet hizmet beklerken kk nın osura osura uyuması -->
+<!--
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nerde/
+bkz millet hizmet beklerken kk nın osura osura uyuması 
+-->
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
