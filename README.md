@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/kar%C4%B1-koca-porno-izlemek/&w=bg bkz kusturmalı boşnak saksosu
 https://www.uludagsozluk.com/k/cezmi-bask%C4%B1n/&w=bg bkz top canbazı kerata
 bkz fatih tezcanın tweetlerini düzene sokması
 https://www.uludagsozluk.com/k/fatih-tezcan/ bkz ifşası düştü sandığım ünlü
