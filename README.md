@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz karizmanın öz oğlu deyince akla gelen ilk adam
 https://www.uludagsozluk.com/k/ana-muhalefet-lideri-fatih-portakal/ bkz karizmanın öz oğlu
 bkz fatih sultan selim fatih tezcan benzerliği
 bkz fatih tezcanın beraber yürüdük biz bu yollarda söylemesi
