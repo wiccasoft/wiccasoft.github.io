@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/ bkz züppeli ahmet hoca
 bkz fatih portakalın çok yakışıklı olduğu gerçeği
 bkz fatih potakalın yaşını göstermemesi
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
