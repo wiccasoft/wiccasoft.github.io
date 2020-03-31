@@ -2,37 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!--
-bkz diyanetin ben yatıyom hafız demesi
-bkz diyanetin o iş yatar hafız demesi
-bkz diyanetin naptın o işi hacut ya demesi
-bkz hıyanet in hıyar sayısı artsın demesi
-bkz diyanet başkanının diyanet yaz diyanete yolla demesi
-bkz diyanet başkanının hacıt naptınız bizim bağuş zekat işini demesi
-bkz diyanetin ezan çalıştayının hafızlarla toplantıya girmesi
-https://www.uludagsozluk.com/e/43083236/ bkz diyanetin hafız naptın o işi demesi
-https://www.uludagsozluk.com/k/cem-g%C3%BCvent%C3%BCrk/&w=bg bkz bayılıyosan git söyle bence
-https://www.uludagsozluk.com/e/43084039/ bkz büyük ihtimalle inşaatta çalışıyordur
-https://www.uludagsozluk.com/k/osman-%C3%B6ztun%C3%A7-ozan-manas-ali-k%C4%B1n%C4%B1k-dinleyen-k%C4%B1z/
-https://www.uludagsozluk.com/e/43083236/
-bkz diyanetin o iş yatar hafız demesi
-bkz diyanetin naptın o işi hacut ya demesi
-https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg
-https://www.uludagsozluk.com/e/43084146/
-https://www.uludagsozluk.com/e/43084145/  
-bkz mehmet emin ali paşa keçecizade fuat paşa benzerliği
-bkz diyanetin uyumadıysan nude at demesi
-https://www.uludagsozluk.com/k/mehmet-emin-ali-pa%C5%9Fa/&w=bg bkz paşa gibi paşa
-https://www.uludagsozluk.com/k/ke%C3%A7ecizade-fuat-pa%C5%9Fa/&w=bg bkz paşa gibi paşa
-diuanetin arthur schopenhauer burhan kuzu benzerliği demesi
-https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg 
-bkz diyanetin hacı naptın ya demesi
-https://www.uludagsozluk.com/k/mustafa-re%C5%9Fit-pa%C5%9Fa/&w=bg bkz adam gibi paşa
-bkz hıyanetin hıyar sayısı artsın demesi
-https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm
-https://www.uludagsozluk.com/k/diyanetin-%C3%BClkemizdeki-haf%C4%B1z-say%C4%B1s%C4%B1-artmal%C4%B1-demesi/
--->
-
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
