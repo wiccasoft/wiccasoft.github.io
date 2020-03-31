@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ana-muhalefet-lideri-fatih-portakal/
 https://www.uludagsozluk.com/k/sweetmandarine-vs-gazoz-kapa%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz kürtler vs maymun götleri
 https://www.uludagsozluk.com/k/tayyip-g%C3%B6r%C3%BCr/ bkz tayyip vs şempanze götü
