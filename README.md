@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz abdurrahmipilipakın elleri
+https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-kenevir-sevdas%C4%B1/&w=bg
 bkz yütüp annyoing orange sayfasında fatih portakal kavgası yapan armutlar
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz fatih portakalın anlamadıysanız bi daha anlatim pozu
