@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/&w=gd bkz czn burak fappening
 bkz diyanetin hacıt o kupon yatar demesi
 bkz imf başkanının 13. cumburlop maaşına göz dikmesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
