@@ -4,7 +4,6 @@
 
 <!-- 
 bkz kurtuluş savaşçılık oynayan ergenler
-https://www.uludagsozluk.com/k/yavuz-sultan-selim-in-ba%C4%9Fi-olmas%C4%B1/&w=bg
 https://www.youtube.com/watch?v=xoEP2X1bYKI kebap gang styla
 https://www.uludagsozluk.com/e/43086782/ bkz şaka maka türkiyeden parsel parsel toprak alacağım günlerin yaklaşması
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg
