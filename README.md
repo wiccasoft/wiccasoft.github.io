@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih tezcanın rujla öpüp kemalist yapmak
 bkz fatih tezcanın sakallarını kaşıyıp yaptığı hareketler
 bkz fatih tezcanın çok yakışıklı olduğu gerçeği
 bkz fatih tezcandan batıya son uyarım tweeti
