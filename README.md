@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz murat karayılan güzellmesi
 https://www.uludagsozluk.com/k/kad%C4%B1n-yazarlardan-erkek-yazarlara-sorular/&w=bg bkz sor kankağ
 https://www.uludagsozluk.com/k/oral-%C3%A7al%C4%B1%C5%9Flar/&w=bg bkz oral seks
