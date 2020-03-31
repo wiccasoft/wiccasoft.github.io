@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/kad%C4%B1n-yazarlardan-erkek-yazarlara-sorular/&w=bg bkz sor kankağ
 https://www.uludagsozluk.com/k/oral-%C3%A7al%C4%B1%C5%9Flar/&w=bg bkz oral seks
 https://www.uludagsozluk.com/k/ready-or-not/&w=bg an itibariyle dinliyormuş
 https://www.uludagsozluk.com/k/h%C3%BCseyin-g%C3%B6ksenin-k%C3%B6ksal/&w=bg babası vefat etmiş
