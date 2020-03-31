@@ -9,6 +9,7 @@ bkz czn burak vs şempanze götü
 bkz kusturmalı boşnak saksosu vs maymun götü
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/
 https://www.uludagsozluk.com/k/hamamda-oğlan-kovalarken-düşüp-yaralanan-padişah/&w=bg
+https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani-vs-sweetmandarine/
 https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ana-muhalefet-lideri-fatih-portakal/
