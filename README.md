@@ -4,7 +4,7 @@
 
 <!--
 bkz diyanet başkanının diyanet yaz diyanete yolla demesi
-bkz diyanet başkanının hacıt naptınız bağuş zumre zekat işin demesi
+bkz diyanet başkanının hacıt naptınız bizim bağuş zekat işini demesi
 bkz diyanetin ezan çalıştayının hafızlarla toplantıya girmesi
 https://www.uludagsozluk.com/e/43083236/ bkz diyanetin hafız naptın o işi demesi
 https://www.uludagsozluk.com/k/cem-g%C3%BCvent%C3%BCrk/&w=bg bkz bayılıyosan git söyle bence
