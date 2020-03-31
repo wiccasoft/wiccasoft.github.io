@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz enes batur fanboyları vs fatih tezcan fanboyları
+bkz fatih tezcanı takip eden 3 milyon kişin 2.9 milyonunun kamalcılar olması
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz 2013 murat karayılan tweeti
 bkz şaka maka fatih tezcan analiz merkezinin global marka olma yolunda ilerlemesi
