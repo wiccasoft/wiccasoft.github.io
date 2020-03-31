@@ -5,6 +5,7 @@
 <!--
 bkz barış özcan vs fatih tezcan
 bkz netfilizi iptal edip fatih tezcan eko pakete geçmek
+bkz faceboook twitter instagram kullanmayan erkeği adam yerine koymak
 https://www.uludagsozluk.com/k/kusturmal%C4%B1-talisca-saksosu/&w=bg
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/ben-gürcüyüm-eşim-arap/&w=bg 
