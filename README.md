@@ -7,8 +7,8 @@ https://www.uludagsozluk.com/k/sweetmandarine-vs-gazoz-kapa%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz kürtler vs maymun götleri
 https://www.uludagsozluk.com/k/tayyip-g%C3%B6r%C3%BCr/ bkz tayyip vs şempanze götü
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz süleyman soylu vs maymun götü
-https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ yine duşa soktun kardeş
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=gd akıyo maşşalah arşivleğ kankağ
+https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun kardeş
+https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=gd bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-sar%C4%B1ya-boyatan-erkek/&w=bg bkz enes batur vs maymun götü
 https://www.uludagsozluk.com/k/y%C3%BCrek-yemi%C5%9F-insan%C4%B1n-yapabilecekleri/&w=bg bkz fesli bunağın donun indirmek
 bkz fesli bunağın donun indirip kaçmak başlığının silinmesi
