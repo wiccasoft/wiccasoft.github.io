@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz tayyip yalakası oğlancı
 bkz imf başkanının 13. cumburlop maaşına göz dikmnesi
 bkz alpaslan türkeşin kızıllara vs osmanlının oğlanlarına verdiği efso ayar
 bkz kızılın oğlancılığı osmanlıya getirmesi
