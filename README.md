@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz bunlar daha iyi günleriniz oç kamalcılar
 https://www.uludagsozluk.com/k/halka-iban-numaras%C4%B1-da%C4%9F%C4%B1tmak/ zuahhahahaha
 https://www.uludagsozluk.com/k/biz-bize-kazar%C4%B1z-t%C3%BCrkiyem/ zuhahahahaha
 bkz fino köpeği vs kamalcı zekası
