@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz 31 mart 2020 rte nin dudak hareketleri
 bkz 31 mart 2020 damadın halktan vergi istemesi
 bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz rte nin beş megapiksel fotoğrafı
