@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih tezcanın tweetlerini düzene sokması
 https://www.uludagsozluk.com/k/fatih-tezcan/ bkz ifşası düştü sandığım ünlü
 https://www.uludagsozluk.com/k/cezmi-bask%C4%B1n/&w=bg çok büyük adam çok
 https://www.uludagsozluk.com/k/nihat-gen%C3%A7/&w=bg bkz ver yansın tv
