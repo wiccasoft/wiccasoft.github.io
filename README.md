@@ -8,7 +8,7 @@ bkz fatih portakal vs şempanze götü
 bkz czn burak vs şempanze götü
 bkz kamalcı oğlanların dübürlerini parmaklatma merakı
 bkz fatih portakalın anlamadıysan bi daha anlatim pozu
-bkz tayyibin kamalcıları oyalamak için fatih portakalı kukla gibi oynmatması
+bkz tayyibin kamalcıları oyalamak için fatih portakalı kukla gibi oynatması
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/ 
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/
 https://www.uludagsozluk.com/k/hamamda-oğlan-kovalarken-düşüp-yaralanan-padişah/&w=bg
