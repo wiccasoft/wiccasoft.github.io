@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/halka-iban-numaras%C4%B1-da%C4%9F%C4%B1tmak/
 bkz diyanetin hafız açığını kapadık amk demesi
 bkz rte nin para fişekleyin de keyfimize bakak demesi
 bkz rte nin iban para fişeklemediniz mi hala oç ları demesi
