@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
 bkz akp döneminde biz büzü yütmümüz
 bkz biz bizi yütürüz türküyüm
 bkz fatih portakalın kulakları
