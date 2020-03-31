@@ -4,7 +4,7 @@
 
 <!--
 bkz rte nin konuşurken  dudaklarını öpücük atar gibi yapması
-bkz rte nin iett şöförü iken beş megapiksel fotoğrafı
+bkz rte nin beş megapiksel fotoğrafı
 bkz rte fedönü affetim dese olacaklar
 bkz akpartili metin akpınarın ölü taklidi yapması
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
