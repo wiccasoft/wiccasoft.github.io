@@ -7,7 +7,6 @@ https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/ bkz oç kürtler
 https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/ bkz cüneyt çakır sarı kartı
 https://www.uludagsozluk.com/k/hamamda-o%C4%9Flan-kovalarken-d%C3%BC%C5%9F%C3%BCp-yaralanan-padi%C5%9Fah/&w=bg
-https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/
 https://www.uludagsozluk.com/k/31-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/  ifşa linki at kankağ
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ifşası düştü sandım amk
