@@ -2,34 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!-- 
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/ bir olacaz diri olacaz
-https://www.uludagsozluk.com/k/2020-nisanında-olacaklar/&w=bg bir olacaz diri olacaz iri olacaz
-https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
-https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/ 
-https://www.uludagsozluk.com/k/hamamda-oğlan-kovalarken-düşüp-yaralanan-padişah/&w=bg
-https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani-vs-sweetmandarine/
-https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
-https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ana-muhalefet-lideri-fatih-portakal/
-https://www.uludagsozluk.com/k/sweetmandarine-vs-gazoz-kapa%C4%9F%C4%B1/
-https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz kürtler vs maymun götleri
-https://www.uludagsozluk.com/k/tayyip-g%C3%B6r%C3%BCr/ bkz tayyip vs şempanze götü
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz süleyman soylu vs maymun götü
-https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun kardeş
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=gd bkz emeğine aktım kardeş
-https://www.uludagsozluk.com/k/kar%C4%B1-koca-porno-izlemek/&w=bg bkz kusturmalı boşnak saksosu
-https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-sar%C4%B1ya-boyatan-erkek/&w=bg bkz enes batur vs maymun götü
-https://www.uludagsozluk.com/k/y%C3%BCrek-yemi%C5%9F-insan%C4%B1n-yapabilecekleri/&w=bg bkz fesli bunağın donun indirmek
-bkz fesli bunağın donun indirip kaçmak başlığının silinmesi
-bkz fatih portakalın kalçalarını ısırırken babanın odaya girmesi
-https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/ 
-https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg ay kızlar sabah yerler bunları ayol
-https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%A7irkin-surat%C4%B1/
-https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/&w=bg bkz gözleriylen soymak
--->
-
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
