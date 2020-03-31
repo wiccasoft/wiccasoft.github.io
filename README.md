@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz 13. cumburlop maaşına göz diken kamalcılar
 bkz gel kuçu kuçu deyince akla kamalcıların gelmesi
 bkz yarrak deyince akla yarrak hasanın gelmesi
 bkz dick deyince akla dic advocatın gelmesi
