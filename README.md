@@ -9,7 +9,7 @@ bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan gencebay 
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
-bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
+bkz taş gibi cumburlop başkanını kültürsüz diye ganyan bayinde çalıştıran erkek
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
 https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz rte
