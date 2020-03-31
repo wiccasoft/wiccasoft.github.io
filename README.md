@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portakalın omuz hareketlerinni sulandırması
 bkz fatih portakalın adamı gözleriylen soyması
 bkz fatih portakal ayar çekerken gay vicüdumun titremesi
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/&w=bg bkz gözleriylen soymak
