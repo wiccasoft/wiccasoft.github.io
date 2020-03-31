@@ -2,7 +2,9 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!-- https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm-->
+<!-- 
+bkz hıyanetin hıyar sayısı artsın demesi
+https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm-->
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
