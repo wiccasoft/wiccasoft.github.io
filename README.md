@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz mansur yavaş la hızlı bir gece vs imamoğlanla romantik bir akşam
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz ay hangisi ayol
 bkz türkishmusic org taki doğu perniçek ertuğral bilmeme ne kavgası
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz kamalcıların ıslak rüyası
