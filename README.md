@@ -4,6 +4,7 @@
 
 <!--
 bkz 31 mart 2020 ilker canikligil fappeningin düşmesi
+bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
 bkz 31 mart 2020 rte putin ayakta bekletti tapelerinin fotoşok yani fake olması
 https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz rte
