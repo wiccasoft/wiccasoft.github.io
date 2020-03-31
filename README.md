@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz süleyman soylu vs maymun götü
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=gd akıyo maşşalah arşivleğ kankağ
 bkz enes batur vs maymun götü
