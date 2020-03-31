@@ -2,7 +2,9 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
+
 <!--
+https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1khan-altu%C4%9F-%C5%9Fekercigil/&w=bg ay buğ çok fenağ kızlar
 bkz fatih tezcanın ensesin kamalcı kırmızı rujla öpüp kemalist yapmak
 bkz fatih tezcanın sakallarını kaşıyıp yaptığı hareketler
 bkz fatih tezcanın çok yakışıklı olduğu gerçeği
