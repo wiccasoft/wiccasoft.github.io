@@ -4,7 +4,7 @@
 
 <!--
 bkz bizimkiler dunkof halis bey
-https://www.uludagsozluk.com/k/diktat%C3%B6r-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg bkz bizimkiler katil
+bkz adam gibi adam deyince akla gelen ilk adam
 bkz bizimkiler tak tak sedat bey
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg bkz fatih tezcan ne sandın yarram tweeti
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz beratın kayınbabası
