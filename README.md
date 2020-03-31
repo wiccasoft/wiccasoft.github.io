@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz bizi büzü yütürüz türüküyüm evdi kul türküyüm
 bkz macun kaplıcalının covid ol kampanyası düzenlemesi
 bkz zeki demir kunduzgil ilker canikligil nur bile ceylangillerle aynı eve çıkmak
 bkz mahir çıyan vs berkin çayan
