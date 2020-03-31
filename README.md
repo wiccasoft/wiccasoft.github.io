@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz erdonnun damadın peniz yüzüğünü azıyla giydirdi yalanı
 bkz erdonun beş megapixel iett fotosu
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-%C3%BClkenin-ba%C5%9F%C4%B1na-gelen-en-g%C3%BCzel-%C5%9Feydir/&w=bg
 https://www.uludagsozluk.com/k/knight-online-altar-serveri/ ay çok kürt erkek düşer oraya
