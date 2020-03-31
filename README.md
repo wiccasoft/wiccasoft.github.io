@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz bizimkiler tak tak sedat bey
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg bkz fatih tezcan ne sandın yarram tweeti
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz beratın kayınbabası
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-r%C3%BCknettin-bey/ bkz sabri beyin kayınbabası
