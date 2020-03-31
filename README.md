@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz sevda tarramın ucunda filiz ömer aşkı
 bkz yarrak deyince akla yarrak hasanın gelmesi
 bkz dick deyince akla dic advocatın gelmesi
 bkz barış özcan vs fatih tezcan
