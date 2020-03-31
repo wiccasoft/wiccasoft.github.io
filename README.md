@@ -5,6 +5,7 @@
 <!-- 
 bkz imf başkanının 13. cumburlop maaşına göz dikmesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
+bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan gencebay 
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
