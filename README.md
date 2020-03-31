@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz fatih tezcana aşık olmak
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcana aşık olmak
 https://www.uludagsozluk.com/k/aynaya-rujla-yaz%C4%B1lan-mesajlar/&w=bg bkz fatih tezcanım
 bkz fatih tezcan isminib marka olma yolunda ilerlemesi
 https://www.uludagsozluk.com/k/cezmi-bask%C4%B1n/&w=bg çok büyük adam çok
