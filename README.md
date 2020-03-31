@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/almanyan%C4%B1n-bizi-k%C4%B1skanma-gerek%C3%A7eleri/&w=bg
 https://www.uludagsozluk.com/k/devlet-para-bass%C4%B1n-vatanda%C5%9Fa-da%C4%9F%C4%B1ts%C4%B1n/
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz mersinli cihangir
 https://www.uludagsozluk.com/k/g%C3%B6t-iste-verelim-ama-param%C4%B1z-yok/ o göte bül bül öte
