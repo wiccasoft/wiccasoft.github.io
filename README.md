@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg
 https://www.uludagsozluk.com/e/43084146/
 https://www.uludagsozluk.com/e/43084145/  
 bkz mehmet emin ali paşa keçecizade fuat paşa benzerliği
