@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz şaka maka fatih tezcan analiz merkezinin global marka olma yolunda ilerlemesi
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan analiz merkezi
 https://www.uludagsozluk.com/k/g%C3%B6t-iste-verelim-ama-param%C4%B1z-yok/ bkz o göte bülbül öte
 https://www.uludagsozluk.com/k/kar%C4%B1-koca-porno-izlemek/&w=bg bkz kusturmalı boşnak saksosu
