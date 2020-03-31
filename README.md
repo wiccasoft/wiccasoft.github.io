@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi yapan kamalcı
 bkz kızlar geceye yakışıklı atalım mı ne dersiniz ayol
 https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/ ay bunu kaparlar ayol
 https://www.uludagsozluk.com/k/umrecilerin-katliam-yapmas%C4%B1/ ay kaba ve kürtler psi şeyler
