@@ -6,7 +6,7 @@
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz bilale anlatır gibi anlatmak
 bkz kamalcılara ulus devletlerin ve endüstri devriminin bittiğini bilale anlatır gibi anlatmak
 bkz kamalcılara devletin fakirler zenginleri öldürmesin diye olduğunu bilale anlatır gibi anlatmak
-bkz kurtuluş savaşçılık oynayan ergenler
+bkz amerikan telefonu alman arabasıyla kurtuluş savaşçılık oynayan ergenler
 https://www.youtube.com/watch?v=xoEP2X1bYKI kebap gang styla
 https://www.uludagsozluk.com/e/43086782/ bkz şaka maka türkiyeden parsel parsel toprak alacağım günlerin yaklaşması
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg
