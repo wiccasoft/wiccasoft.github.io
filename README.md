@@ -1,4 +1,5 @@
 
+[![Image](eq/Screenshot_2020-03-31_19-20-08.png)]( https://www.youtube.com/watch?v=i1u7by_Ndn0&list=UU6invu00h_9e667cfpbzMXw&index=10 )
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
