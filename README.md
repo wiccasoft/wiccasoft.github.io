@@ -3,9 +3,10 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=gd  bkz sarhoş taklidi
 https://www.uludagsozluk.com/k/levent-pekcan/&w=bg bkz oğlanlara bakmayan kaba erkek
 https://www.uludagsozluk.com/k/hamamda-o%C4%9Flan-kovalarken-d%C3%BC%C5%9F%C3%BCp-yaralanan-padi%C5%9Fah/&w=bg
-https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz  yütüp olacak o kadar sarhoş taklidi skeçleri
+https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi
 https://www.uludagsozluk.com/k/ensar-vakf%C4%B1/&w=bg eywallah kankağ
 bkz erdonun 2009 efso one minute ayarı
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
