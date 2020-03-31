@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=gd bkz ay çok yakışıklı ayol aptala anlatır gibi anlatıyor 
 https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ bkz ay izmir kadını çıktım ayol
 https://www.uludagsozluk.com/k/mehmet-cengiz-in-borcunu-silip-i%C5%9Fsize-gss-dayatmak/ bkz dayıyon mu sen bana
 bkz kızlar geceye yakışıklı atalım mı ne dersiniz ayol
