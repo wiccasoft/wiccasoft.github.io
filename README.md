@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/bir-kusuru-var-yaln%C4%B1z-k%C4%B1z%C4%B1n-biraz-entel-tak%C4%B1lmakta/
 bkz çomarların yattığı yerden zengin olacaklarını sanması
 bkz fakirlere 1 er milyon dolar sus payı vermek
 https://www.uludagsozluk.com/k/surilere-40-milyar-vatanda%C5%9Fa-3-be%C5%9F-atin/
