@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/bizimkiler-dizisi-r%C3%BCknettin-bey/ bkz tak tak sedatın karşı komşusu
 https://www.uludagsozluk.com/k/joseph-stalin/&w=bg bkz yavşak putin yalakası
 https://www.uludagsozluk.com/k/t%C3%BCrk-o%C4%9Flu-t%C3%BCrk%C3%BCm-ve-ateistim/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
