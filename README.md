@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz 31 mart 2020 fatih tezcan analiz merkezinin ilaçlanması
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcanı  murat karayılan güzellemesi tweeti
 bkz fatih tezcanı  murat karayılan güzellemesi tweeti
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
