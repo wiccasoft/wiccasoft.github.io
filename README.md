@@ -4,6 +4,7 @@
 
 <!--
 bkz rte nin beş megapiksel fotoğrafı
+bkz rte fedönü affetim dese olacaklar
 bkz akpartili metin akpınarın ölü taklidi yapması
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
