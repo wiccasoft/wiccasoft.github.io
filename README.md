@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ yine duşa soktun kardeş
 https://fasizan-ruh.uludagsozluk.com/ bkz efso fatih tezcan ifşası
 bkz arabada kızlar illa ibne mi olalım diye şarkı söyleyen kamalcılar
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım kardeş
