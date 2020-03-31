@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yanei fake çıkması
+bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
 bkz 31 mart 2020 rte putin ayakta bekletti tapelerinin fotoşok yani fake olması
 https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz rte
 https://eksisozluk.com/ilker-canikligil--256882?a=popular  bkz nanikligil
