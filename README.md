@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz rte nin damadın penis yüzüğünü azıyla takması
 https://www.uludagsozluk.com/k/%C3%A7a%C4%9Fatay-akman/&w=bg
 https://www.uludagsozluk.com/k/ali-ismail-korkmaz-onurumuzdur/&w=bg
 bkz halka altın varanklı iban vermek
