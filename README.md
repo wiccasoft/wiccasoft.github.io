@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz eşicnsel kamalcılara sakin ol sanan erkek ayarlim demek
+bkz eşicnsel kamalcıların fazla agresif olması
 bkz eşcinsel olduğunun farkında olmayan liseli kamalcı ergenler
 bkz padişah kovalayan kamalcı oğlan
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz oğlan kovalayan padişahlar
