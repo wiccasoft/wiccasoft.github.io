@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz kamalcı oğlanların dübürlerini parmaklatma merakı
+https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/ 
 bkz fatih portakalın kulakları
 bkz fatih portakal vs şempanze götü
 bkz czn burak vs şempanze götü
