@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz fesli bunağın donun indirip kaçmak başlığının silinmesi
 bkz fatih portakalın kalçalarını ısırırken baanın odaya girmesi
 https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/ 
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg ay kızlar sabah yerler bunları ayol
