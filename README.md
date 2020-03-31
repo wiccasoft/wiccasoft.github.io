@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz platonunun filozof okulunda kovaladığı minnak filozoflar
 bkz norm enderin fatih tezcana verdiği efso ayar
 bkz enes batur fanboyları vs fatih tezcan fanboyları
 bkz fatih tezcanı takip eden 3 milyon kişin 2.9 milyonunun kamalcılar olması
