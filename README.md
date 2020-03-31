@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz hepiniz öldüreceim diyen pezevenk fesli bunak
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-tek-su%C3%A7u/&w=bg bkz link tıklağ
 https://www.uludagsozluk.com/k/cep-telefonu-kullanmayan-insan/&w=bg bkz alagavat
 https://www.uludagsozluk.com/k/hepinizi-%C3%B6ld%C3%BCrece%C4%9Fim-diyen-pezevenk-bunak/ bkz fesli bunak
