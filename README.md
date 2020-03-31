@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz jonhy sins pornosu
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz link at kankağğğ fappening yapağ
 https://www.uludagsozluk.com/k/erdogan%C4%B1n-para-dilenmesi/ bkz rte nin bu fakir kul görevde kaldıkça demesi
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
