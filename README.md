@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/ bkz cübbeli ahmet hoca
 https://www.uludagsozluk.com/k/1-nisan-2020-rte-a%C3%A7%C4%B1klamalar%C4%B1/
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
