@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg olm ifşası düştü sandım kalbinm güm güm attı amk
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg olm ifşası düştü sandım kalbinm güm güm attı amk
 bkz ali kırca ifşası canlı link isteyene atarım kankağ
 bkz fatih portakal ifşası canlı link 
