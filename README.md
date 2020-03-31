@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz kızılın oğlancılığı osmanlıya getirmesi
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1l%C4%B1n-osmanl%C4%B1ya-o%C4%9Flanc%C4%B1l%C4%B1%C4%9F%C4%B1-getirdi%C4%9Fi-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan
