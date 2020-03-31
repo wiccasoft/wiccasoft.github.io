@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/dudak-derisini-soymak/&w=bg bkz rte nin konuşurken dudaklarını öpücük yapması
 https://www.uludagsozluk.com/k/bijicell/&w=bg bkz  şiwan perwerin kulandığı cell
 https://www.uludagsozluk.com/k/rte-nin-kelimeleri-uzatarak-konu%C5%9Fmas%C4%B1/
 bkz rte nin dudaklarının öpücük atar gibi olması
