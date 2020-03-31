@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/k/2020-nisan%C4%B1nda-olacaklar/&w=bg bkz bir olaca
 https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/&w=bg bkz diri olacaz bir olacaz
 https://www.uludagsozluk.com/k/hepinizi-%C3%B6ld%C3%BCrece%C4%9Fim-diyen-pezevenk-bunak/&w=bg bkz fesli bunak
 https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
-https://www.uludagsozluk.com/k/ako%C4%9Flanlar%C4%B1-bekleyen-gelecek/ bkz akoğlanların şapa oturtmak
+https://www.uludagsozluk.com/k/ako%C4%9Flanlar%C4%B1-bekleyen-gelecek/ bkz akoğlanları şapa oturtmak
 https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/ bkz cübbeli ahmet hoca
 https://www.uludagsozluk.com/k/1-nisan-2020-rte-a%C3%A7%C4%B1klamalar%C4%B1/
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg
