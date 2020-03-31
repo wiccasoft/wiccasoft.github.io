@@ -5,6 +5,7 @@
 <!-- 
 bkz fatih tezcanın 2013  murat karayılan tweeti
 bkz doğu perinçek ertuğrul kürkçü bülent uluer kavgası
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan ifşası
 https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/&w=gd bkz cüneyt çakır
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/ bkz oç kürtler
