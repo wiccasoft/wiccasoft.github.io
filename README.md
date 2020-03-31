@@ -4,7 +4,8 @@
 
 <!--
 bkz diyanetin hacıt o kupon yatar demesi
-bkz 31 mart 2020 ilker canikligil fappeningin düşmesi
+bkz 31 mart 2020 ilker canikligil fappeningin düş
+bkz taş gibi kızı ganyan bayinde çalıştıran erkek
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
 bkz 31 mart 2020 rte putin ayakta bekletti tapelerinin fotoşok yani fake olması
