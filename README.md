@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz czn burak vs şempanze götü
+bkz kusturmalı boşnak saksosu vs maymun götü
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/
 https://www.uludagsozluk.com/k/hamamda-oğlan-kovalarken-düşüp-yaralanan-padişah/&w=bg
 https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
