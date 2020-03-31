@@ -4,6 +4,7 @@
 
 <!--
 bkz 13. cumburlop maaşına göz dikmek
+https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz güdük necmi
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz çaycı hüseyin 
 https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz saddmın altın varanklı bowling eldiveni
 bkz diyanetin hacıt o kupon yatar demesi
