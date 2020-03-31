@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz 31 mart 2020 fatih tezcanın batıya berdiği efso ayar
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan
 bkz adam gibi adam deyince aklınızda beliren ilk adam
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/
