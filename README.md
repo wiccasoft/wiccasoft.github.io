@@ -3,10 +3,10 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz platonunun filozof okulunda kovaladığı minnak filozoflar
 bkz norm enderin fatih tezcana verdiği efso ayar
 bkz enes batur fanboyları vs fatih tezcan fanboyları
 bkz fatih tezcanı takip eden 3 milyon kişin 2.9 milyonunun kamalcılar olması
+bkz platonunun filozof okulunda kovaladığı minnak filozoflar
 https://ebu-mariya.uludagsozluk.com/ bkz minnak filozof atakan
 https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz minnak filozof
 https://www.uludagsozluk.com/k/telefonu-ba%C5%9F-%C3%B6rt%C3%BCs%C3%BCne-s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmak/
