@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz emiklenesi adam gibi adam
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan ifşası
 https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/&w=gd bkz cüneyt çakır
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/ bkz oç kürtler
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun kardeş
