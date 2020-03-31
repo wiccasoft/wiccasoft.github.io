@@ -4,7 +4,9 @@
 
 <!-- 
 bkz hıyanetin hıyar sayısı artsın demesi
-https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm-->
+https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm
+https://www.uludagsozluk.com/k/diyanetin-%C3%BClkemizdeki-haf%C4%B1z-say%C4%B1s%C4%B1-artmal%C4%B1-demesi/
+-->
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
