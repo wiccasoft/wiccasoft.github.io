@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/bahar-geldi-kutumu-a%C3%A7ar-m%C4%B1s%C4%B1n-diyen-i%C5%9Fveren-kad%C4%B1n/
 bkz telefonu işaret parmağıyla kulağına bastırarak kullanan erkek seksiliği
 bkz kuzey güney deki ferhat ın telefona kafa atma sahnesi
 https://www.uludagsozluk.com/k/kuzey-g%C3%BCney-deki-ferhat/
