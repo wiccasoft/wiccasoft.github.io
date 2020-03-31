@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz telefonu işaret parmağıyla kulağına bastırarak kullanan erkek seksiliği
 bkz kuzey güney deki ferhat ın telefona kafa atma sahnesi
 https://www.uludagsozluk.com/k/kuzey-g%C3%BCney-deki-ferhat/
 https://www.uludagsozluk.com/k/chp-yap%C4%B1nca-helal-olsun-ak-parti-yap%C4%B1nca-dilenci/
