@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz diyanet başkanının hacıt napak o işi demesi
+bkz diyanet başkanının hacıt naptınız bağuş zumre zekat işin demesi
 bkz diyanetin ezan çalıştayının hafızlarla toplantıya girmesi
 https://www.uludagsozluk.com/e/43083236/ bkz diyanetin hafız naptın o işi demesi
 https://www.uludagsozluk.com/k/cem-g%C3%BCvent%C3%BCrk/&w=bg bkz bayılıyosan git söyle bence
