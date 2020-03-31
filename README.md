@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portakalın fişeklenen paraların hesabını sorması
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-ci%C4%9Ferimi-s%C3%B6kt%C3%BCn/&w=bg
 bkz rte nin para fişekleyin de bu işi tatlıya bağlıyalım demesi
 https://www.uludagsozluk.com/k/halka-iban-numaras%C4%B1-da%C4%9F%C4%B1tmak/
