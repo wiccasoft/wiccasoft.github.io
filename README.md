@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz fatih sultan mehmet vs fatih portakal
 bkz fatih tezcan vs fatih terim
 bkz fatih altaylı vs fatih portakal
 bkz annoying orange vs fatih portakal
