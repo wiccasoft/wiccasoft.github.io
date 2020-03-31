@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portakal spiker mi muhalefet lideri mi sorunsalı
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
 https://www.uludagsozluk.com/k/sinemaya-tek-ba%C5%9F%C4%B1na-giden-tip/ bkz züppel ahmet hoca evet
 https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/&w=gd bkz züppeli ahmet hoca
