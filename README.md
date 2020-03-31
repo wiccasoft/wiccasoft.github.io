@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portakalın kalçaları
 bkz ben salça olmam kalçalarım diyen erkek
 bkz yemeğin salçalısı karının kalçalısı diyen erkek
 bkz fatih portakaldaki hayvani çekicilik
