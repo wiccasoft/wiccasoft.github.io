@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz saddmın altın varanklı bowling eldiveni
 bkz diyanetin hacıt o kupon yatar demesi
 bkz 31 mart 2020 ilker canikligil fappening
 bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
