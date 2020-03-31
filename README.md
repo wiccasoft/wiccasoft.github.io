@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz rte nin beş megapiksel fotoğrafı
+bkz rte nin iett şöförü iken beş megapiksel fotoğrafı
 bkz rte fedönü affetim dese olacaklar
 bkz akpartili metin akpınarın ölü taklidi yapması
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
