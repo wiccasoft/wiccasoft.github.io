@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bencegay
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular levent kırca
 https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz oğlançı akpli
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=gd  bkz sarhoş taklidi
