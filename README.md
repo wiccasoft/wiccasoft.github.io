@@ -3,7 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz cumburlopunu fino köpeği gibi savunana fino köpekleri
+bkz kamalcılar vs fino köpekleri
+bkz cumburlopunu fino köpeği gibi savunan fino köpekleri
 bkz amkerika twitterı facebook u  instagramı kapatsa dino köpeği gibi kalacak malum ırk
 https://www.uludagsozluk.com/k/twitter-muhalifli%C4%9Fi/ zuhahahahaha
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
