@@ -9,7 +9,6 @@ bkz eşcinsel kamalcıların fazla atarlı olması
 bkz eşcinsel olduğunun farkında olmayan liseli kamalcı ergenler
 bkz padişah kovalayan kamalcı oğlan
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz oğlan kovalayan padişahlar
-https://mermiye-kafa-atan-mucahit.uludagsozluk.com/ sakin ol liseli sana bi erkek ayarlim sinirin geçsin
 https://www.uludagsozluk.com/k/barbaros-%C5%9Fansal/&w=bg bkz aklınca dünyayı ele geçirecek
 https://ebu-mariya.uludagsozluk.com/ bkz liseli kamalcı
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
