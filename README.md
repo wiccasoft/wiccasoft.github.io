@@ -5,16 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/2020-nisanında-olacaklar/&w=bg bir olacaz diri olacaz iri olacaz
 https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
-bkz akp döneminde biz büzü yütmümüz
-bkz biz bizi yütürüz türküyüm
-bkz fatih portakalın kulakları
-bkz fatih portakal vs şempanze götü
-bkz czn burak vs şempanze götü
-bkz kamalcı oğlanların dübürlerini parmaklatma merakı
-bkz fatih portakalın anlamadıysan bi daha anlatim pozu
-bkz tayyibin kamalcıları oyalamak için fatih portakalı kukla gibi oynatması
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/ 
-https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/
 https://www.uludagsozluk.com/k/hamamda-oğlan-kovalarken-düşüp-yaralanan-padişah/&w=bg
 https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani-vs-sweetmandarine/
 https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
