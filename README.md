@@ -7,7 +7,7 @@ bkz fatih portakalın kulakları
 bkz fatih portakal vs şempanze götü
 bkz czn burak vs şempanze götü
 bkz kamalcı oğlanların dübürlerini parmaklatma merakı
-bkz fatih portakalın anlamdıysan bi daha anlatim pozu
+bkz fatih portakalın anlamadıysan bi daha anlatim pozu
 bkz tayyibin kamalcıları oyalamak için fatih portakalı kukla gibi oynmatması
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/ 
 https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/
