@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ bkz ay izmir kadını çıktım ayol
 https://www.uludagsozluk.com/k/mehmet-cengiz-in-borcunu-silip-i%C5%9Fsize-gss-dayatmak/ bkz sdayıyon mu sen baha
 bkz kızlar geceye yakışıklı atalım mı ne dersiniz ayol
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi yapan kamalcı
