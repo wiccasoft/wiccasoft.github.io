@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/31-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/  ifşa linki at kankağ
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ifşası düştü sandım amk
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun kardeş
