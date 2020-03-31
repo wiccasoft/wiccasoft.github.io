@@ -2,50 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!--
-https://www.uludagsozluk.com/k/skyler-white-%C4%B1n-o-kadar-da-orospu-olmamas%C4%B1/&w=bg
-bkz fesli bunağın donunu indirip kaçmak başlığının silinmesi
-https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/
-bkz fatih portakalın kalçaları
-bkz fatih portakalın kalçalarını ısırırken baanın odaya girmesi
-bkz yemeğin salçalısı karının kalçalısı diyen erkek
-bkz fatih portakaldaki hayvani çekicilik
-https://www.uludagsozluk.com/k/kad%C4%B1nlara-sal%C3%A7a-olmayan-erkekler/ bkz kalçalı erkekler
-https://sweetmandarine.uludagsozluk.com/ bkz hayatını başlık açarak geçiren ergen
-https://www.uludagsozluk.com/k/fesli-buna%C4%9F%C4%B1n-mezar%C4%B1na-korona-vir%C3%BCs%C3%BC-b%C4%B1rakmak/
-bkz ilhan iremin sesiyle adamı soyması
-bkz fatih portakalın omuz hareketlerinin adamın emcüğünü sulandırması
-bkz fatih portakalın adamı gözleriylen soyması
-bkz fatih portakal ayar çekerken gay vicüdumun titremesi
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/&w=bg bkz gözleriylen soymak
-bkz fatih ortakaldaki hayvansı çekicilik
-bkz fatih portakalın çok yakışıklı olduğu gerçeği
-bkz fatih potakalın yaşını göstermemesi
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
-https://www.uludagsozluk.com/k/fyodor-mihailovic-dostoyevski/&w=bg bkz karamazo kardeşlerin yazarı
-bkz fatih portakal spiker mi muhalefet lideri mi sorunsalı
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
-https://www.uludagsozluk.com/k/sinemaya-tek-ba%C5%9F%C4%B1na-giden-tip/ bkz züppel ahmet hoca evet
-https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/&w=gd bkz züppeli ahmet hoca
-https://www.uludagsozluk.com/k/1-50-lik-k%C4%B1zlar%C4%B1-tutup-f%C4%B1rlatma-iste%C4%9Fi/ 1 50lik kız mı kaldı amın sıçtığı
-https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz oç ları
-https://www.uludagsozluk.com/k/sinemaya-tek-ba%C5%9F%C4%B1na-giden-tip/ bkz züppeli ahmet hoca
-https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/&w=gd bkz züppeli ahmet hoca
-https://www.uludagsozluk.com/k/2020-nisan%C4%B1nda-olacaklar/&w=bg bkz bir olacaz diri olacaz iri olacaz
-https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/&w=bg bkz diri olacaz bir olacaz
-https://www.uludagsozluk.com/k/hepinizi-%C3%B6ld%C3%BCrece%C4%9Fim-diyen-pezevenk-bunak/&w=bg bkz fesli bunak
-https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
-https://www.uludagsozluk.com/k/ako%C4%9Flanlar%C4%B1-bekleyen-gelecek/ bkz akoğlanları şapa oturtmak
-https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/ bkz cübbeli ahmet hoca
-https://www.uludagsozluk.com/k/1-nisan-2020-rte-a%C3%A7%C4%B1klamalar%C4%B1/
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg
-https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
-https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%A7irkin-surat%C4%B1/
-https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/
-https://www.uludagsozluk.com/k/sanal-seksi-b%C4%B1rak%C4%B1p-entry-girer-misiniz/&w=bg
-https://www.uludagsozluk.com/k/fark%C4%B1nda-olmadan-b%C3%BCt%C3%BCn-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-ge%C3%A7irmek/
--->
-
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
