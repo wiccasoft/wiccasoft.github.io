@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz götü sikildikçe daha da diye bağıran kamalcı oğlu kamalcı
 https://www.uludagsozluk.com/k/t%C3%BCrk-o%C4%9Flu-t%C3%BCrk%C3%BCm-ve-ateistim/&w=bg babanın götünü sikeyim
 bkz bunlar daha iyi günleriniz oç ları
 https://www.uludagsozluk.com/k/halka-iban-numaras%C4%B1-da%C4%9F%C4%B1tmak/ zuahhahahaha
