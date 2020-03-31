@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz enes batur vs maymun götü
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-sar%C4%B1ya-boyatan-erkek/&w=bg bkz enes batur
 https://www.uludagsozluk.com/k/y%C3%BCrek-yemi%C5%9F-insan%C4%B1n-yapabilecekleri/&w=bg bkz fesli bunağın donun indirmek
 bkz fesli bunağın donun indirip kaçmak başlığının silinmesi
