@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://mermiye-kafa-atan-mucahit.uludagsozluk.com/ saki n ol liseli sanan bi erkek ayarlim
 https://www.uludagsozluk.com/k/barbaros-%C5%9Fansal/&w=bg bkz aklınca dünyayı ele geçirecek
 https://ebu-mariya.uludagsozluk.com/ bkz liseli kamalcı
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
