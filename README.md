@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz kamlcıların sürekli türk olmayanları denize dökmesi
 https://www.uludagsozluk.com/k/t%C3%BCrk-kurtulu%C5%9F-sava%C5%9F%C4%B1/&w=bg
 https://www.youtube.com/watch?v=xoEP2X1bYKI
 https://www.uludagsozluk.com/e/43086782/ bkz şaka maka türkiyeden parsel parsel toprak alacağım günlerin yaklaşması
