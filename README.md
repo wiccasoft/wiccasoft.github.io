@@ -5,7 +5,7 @@
 <!--
 bkz kamalcılar vs fino köpekleri
 bkz cumburlopunu fino köpeği gibi savunan fino köpekleri
-bkz amkerika twitterı facebook u  instagramı kapatsa dino köpeği gibi kalacak malum ırk
+bkz amkerika twitterı facebook u  instagramı kapatsa fino köpeği gibi kalacak malum ırk
 https://www.uludagsozluk.com/k/twitter-muhalifli%C4%9Fi/ zuhahahahaha
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potuk ali koç
