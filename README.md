@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz rte nini ikinci atacücü olması
 bkz ekşideki 5 mega pizellik rte resinin üç gündür açılmaması
 bkz rte nin kasaya damadı koyması
 bkz 13. cumburlop maaşına göz dikecek kadar düşmek
