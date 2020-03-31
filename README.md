@@ -4,6 +4,7 @@
 
 <!--
 bkz fatih portakalın kalçaları
+bkz fatih portakalın kalçalarını ısırırken baanın odaya girmesi
 bkz ben salça olmam kalçalarım diyen erkek
 bkz yemeğin salçalısı karının kalçalısı diyen erkek
 bkz fatih portakaldaki hayvani çekicilik
