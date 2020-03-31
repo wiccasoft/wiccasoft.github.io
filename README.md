@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz rte nin kasaya damadı koyması
 bkz 13. cumburlop maaşına göz dikecek kadar düşmek
 bkz oğlancı padişahları kızıların getirmesi
 https://www.uludagsozluk.com/k/rte-7-ay-maa%C5%9F-almadan-nas%C4%B1l-ge%C3%A7inecek/ bkz işsizlik maaşı
