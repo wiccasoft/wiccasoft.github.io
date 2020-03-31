@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz türk oğlu türküm diyip ateistim diyen çomar
 bkz devlet bize bohmir
 bkz macun kaplıcalı kovid ol kampanyası
 bkz rte odin aslında zeus demesi
