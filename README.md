@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz diyanetin hacıt o kupon yatar demesi
 bkz rte damadına peniz yüzüğü aldığı iftiraları
 bkz millet hizmet beklerken kk nın osura osura uyuması 
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
