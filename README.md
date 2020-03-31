@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/aynaya-rujla-yaz%C4%B1lan-mesajlar/&w=bg bkz fatih tezcan
 bkz fatih tezcandan batıya son uyarım tweeti
 bkz fatih tezcandan fatih terime işini yap uyarısı tweeti
 bkz fatih tezcan uın demeyi kapaması
