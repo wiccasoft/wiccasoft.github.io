@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan gencebay 
 bkz rte nin alt dudağını öpücük yaparak konuşması
 bkz akpartili metin akçapınarın ölü taklidi yapması
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
