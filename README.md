@@ -4,7 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/kemalistlere-%C3%BClke-%C3%B6nerileri/&w=bg bkz hollanda
-https://www.uludagsozluk.com/k/levent-pekcan/&w=bg bkz kamalcı oğlanları höt etmek
+https://www.uludagsozluk.com/k/levent-pekcan/&w=bg bkz kamalcı oğlanları göt etmek
 bkz kamalcıların eğitilmez eşcinseller oldukları gerçeği
 https://mermiye-kafa-atan-mucahit.uludagsozluk.com/ sakin ol liseli
 bkz eşcinsel kamalcıların fazla atarlı olması
