@@ -4,6 +4,7 @@
 
 <!-- 
 bkz annoying orange vs fatih portakal
+https://www.uludagsozluk.com/k/kendini-cba%C5%9Fkan%C4%B1-olarak-tan%C4%B1tanlara-itibar-etmeyin/ lol
 https://www.uludagsozluk.com/k/duygu-%C3%B6zaslan-%C4%B1n-her%C5%9Feyi-yedim-pozu/&w=gd bkz telefonu yiyen kız bakışı
 https://www.uludagsozluk.com/k/erkek-isimlerini-telefonuna-abi-diye-kaydeden-k%C4%B1z/ bkz aslı bekiroğlu
 https://www.youtube.com/watch?v=xoEP2X1bYKI kebap gang styla
