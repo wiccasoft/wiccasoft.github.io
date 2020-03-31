@@ -3,9 +3,9 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/ bkz şempanze götü vs allahıın götü
-bkz czn burak vs şempanze götü
-bkz kusturmalı boşnak saksosu vs maymun götü
+https://www.uludagsozluk.com/k/h%C3%BCseyin-%C3%BCzmez-i-%C3%B6zlemek/
+https://www.uludagsozluk.com/k/hamamda-oğlan-kovalarken-düşüp-yaralanan-padişah/&w=bg
+https://www.uludagsozluk.com/k/kızılın-osmanlıya-oğlancılığı-getirdiği-gerçeği/
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ana-muhalefet-lideri-fatih-portakal/
 https://www.uludagsozluk.com/k/sweetmandarine-vs-gazoz-kapa%C4%9F%C4%B1/
