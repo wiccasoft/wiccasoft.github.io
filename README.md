@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz fatih tezcan ın fatih terime işini yap tweeti
+bkz fatih tezcan dan fatih terime işini yap tweeti
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz ifşası düştü sandım
 bkz fatih tezcan tweeterı kapatırsa nerden ulaşacaz sorundalı
 bkz 31 mart 2020 fatih tezcanın demeyi kapaması
