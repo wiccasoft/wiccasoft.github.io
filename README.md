@@ -5,9 +5,8 @@
 <!--
 https://www.uludagsozluk.com/e/43084039/ bkz muhtemelen inşaatta çalışıyordur
 bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
-https://www.uludagsozluk.com/e/43083236/ bkz kaynak kıçım
+https://www.uludagsozluk.com/e/43083236/ bkz hıyanetin hıyar sayısı arttırılsın demesi
 bkz 13. cumburlop maaşına göz dikmek
-bkz hıyanetin hıyar sayısı arttırılsın demesi
 https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz güdük necmi
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz çaycı hüseyin 
 https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz saddmın altın varanklı bowling eldiveni
