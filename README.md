@@ -7,6 +7,7 @@ bkz rte damadına peniz yüzüğü aldığı iftiraları
 bkz millet hizmet beklerken kk nın osura osura uyuması 
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
+bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
 https://www.uludagsozluk.com/e/43083236/ bkz hıyanetin hıyar sayısı arttırılsın demesi
 bkz 13. cumburlop maaşına göz dikmek
 https://www.uludagsozluk.com/k/bahar-geldi-kutumu-a%C3%A7ar-m%C4%B1s%C4%B1n-diyen-i%C5%9Fveren-kad%C4%B1n/
