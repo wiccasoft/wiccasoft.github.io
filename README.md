@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/erdogan%C4%B1n-para-dilenmesi/ bkz erdonun isveçteki 200 milyar doları
 bkz fatih portakalgilin ifşasının ilker canikligil ifşasını unutturması
 bkz ekşide şifresiz rar fatih portakalın full ifşası var diyen ekşici
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg olm ifşası düştü sandım kalbinm güm güm attı amk
