@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkzerdonun beş megapixel iett fotosu
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-%C3%BClkenin-ba%C5%9F%C4%B1na-gelen-en-g%C3%BCzel-%C5%9Feydir/&w=bg
 https://www.uludagsozluk.com/k/knight-online-altar-serveri/ ay çok kürt erkek düşer oraya
 https://www.uludagsozluk.com/k/fatih-portakal/&w=gd bkz ay çok yakışıklı ayol aptala anlatır gibi anlatıyor 
 https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ bkz ay izmir kadını çıktım ayol
