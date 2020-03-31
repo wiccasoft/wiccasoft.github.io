@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz millet hizmet beklerken bay kemalin osura osura uyuması
 bkz rte nin beş megapiksel fotoğrafı
 bkz rte fedönü affetim dese olacaklar
 bkz rte nin sigara içenler cehenemliktir demesi
