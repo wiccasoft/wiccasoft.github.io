@@ -1,31 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
-<!--
-bkz arthur schopenhauer burhan kuzu benzerliği
-https://www.uludagsozluk.com/k/devletin-gereksiz-bir-kurum-olmas%C4%B1/
-bkz fakirler zenginleri öldürmesin diye devlete vergi vermek
-bkz mansur yavaştan herkeşe çay şakire çay yok
-bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
-bkz bir olacaz diri olacaz iri olacaz iban numarımı veriyorum
-bkz evde kal türküyüm kampanyası
-bkz macun kaplıcalıdaki survivor şeyma
-bkz macun ol kampanyasına destek veren ünlüler
-bkz diyanetin hafız sayısı artsın demesi
-https://www.uludagsozluk.com/k/survivor-burak/&w=bg
-bkz hıyanet in hıyar sayısı artsın demesi
-https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm
-https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz yedi bölgede 81 ilde 
-https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-erkekler/&w=bg bkz ıyy iğrenç
-https://www.uludagsozluk.com/k/s%C3%BCper-dad%C4%B1-program%C4%B1ndaki-sal%C4%B1rgan-%C3%A7ocuk-bu%C4%9Fra/
-https://www.uludagsozluk.com/k/k%C4%B1ll%C4%B1-erkekler-merhametli-olur/&w=bg bkz bir iddia
-https://www.uludagsozluk.com/k/berberini-%C3%B6zleyen-erkek/&w=bg bkz berber değdirmesi
-https://www.uludagsozluk.com/k/%C3%BClkelerin-covid-19-m%C3%BCcadelesi/ lol
-https://www.uludagsozluk.com/k/biz-bize-yetiyorsak-sana-ne-gerek-var/ lol
-https://www.uludagsozluk.com/k/halktan-para-dilenen-cumhurba%C5%9Fkan%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/
--->
-
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_14-10-04.png)]( https://www.youtube.com/watch?v=eLDdKHOxnZ8 )
