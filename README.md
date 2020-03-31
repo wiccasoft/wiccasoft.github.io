@@ -3,6 +3,9 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz fathi tezcanın 2103  murat karayılan güzellemesi tweeti
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
+https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/ oç kürtler
 https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcan murat karayılna tweetlerin ifşa eden adam gibi adam
 bkz fatih tezcanın 2013  murat karayılan tweeti
