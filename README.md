@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/ready-or-not/&w=bg an itibariyle dinliyormuş
 https://www.uludagsozluk.com/k/h%C3%BCseyin-g%C3%B6ksenin-k%C3%B6ksal/&w=bg babası vefat etmiş
 https://www.uludagsozluk.com/k/hepinizi-%C3%B6ld%C3%BCrece%C4%9Fim-diyen-pezevenk-bunak/
 bkz fatih tezcandan fatih terime işini yap uyarısı
