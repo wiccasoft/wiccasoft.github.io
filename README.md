@@ -3,17 +3,16 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portakaldaki hayvani çekicilik
 https://www.uludagsozluk.com/k/kad%C4%B1nlara-sal%C3%A7a-olmayan-erkekler/ bkz kalçalı erkekler
-https://sweetmandarine.uludagsozluk.com/ bkz hayatının başlık açarak geçiren ergen
+https://sweetmandarine.uludagsozluk.com/ bkz hayatını başlık açarak geçiren ergen
 https://www.uludagsozluk.com/k/fesli-buna%C4%9F%C4%B1n-mezar%C4%B1na-korona-vir%C3%BCs%C3%BC-b%C4%B1rakmak/
 bkz ilhan iremin sesiyle adamı soyması
-https://www.uludagsozluk.com/k/ilhan-irem/&w=bg bkz iyi ki doğdun aşkım
 bkz fatih portakalın omuz hareketlerinin adamın emcüğünü sulandırması
 bkz fatih portakalın adamı gözleriylen soyması
 bkz fatih portakal ayar çekerken gay vicüdumun titremesi
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/&w=bg bkz gözleriylen soymak
 bkz fatih ortakaldaki hayvansı çekicilik
-https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/ bkz züppeli ahmet hoca
 bkz fatih portakalın çok yakışıklı olduğu gerçeği
 bkz fatih potakalın yaşını göstermemesi
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ 
