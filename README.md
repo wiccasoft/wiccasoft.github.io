@@ -5,6 +5,7 @@
 <!-- 
 bkz diyanetin hacıt o kupon yatar demesi
 bkz rte damadına peniz yüzüğü aldığı iftiraları
+bkz rte nin alt dudağını öpücük yaparak konuşması
 bkz millet hizmet beklerken kk nın osura osura uyuması 
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
