@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine banyoya soktun kardeş
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-3-dil-biliyorum-diye-hava-atmas%C4%B1/ bkz kürtlerin oç olması
 https://www.uludagsozluk.com/k/erkek-hem%C5%9Fireye-sorun-%C3%A7%C4%B1karan-halk-otob%C3%BCs%C3%BC-%C5%9Fof%C3%B6r%C3%BC/
 https://www.uludagsozluk.com/k/gss-prim-borcu/&w=bg bkz geyse oluyoruz kampanyası
