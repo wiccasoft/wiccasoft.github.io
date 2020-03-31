@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/sweetmandarine-vs-gazoz-kapa%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz kürtler vs maymun götleri
 https://www.uludagsozluk.com/k/tayyip-g%C3%B6r%C3%BCr/ bkz tayyip vs şempanze götü
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz süleyman soylu vs maymun götü
