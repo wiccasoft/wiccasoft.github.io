@@ -7,7 +7,7 @@ bkz rte nin beş megapiksel fotoğrafı
 bkz rte fedönü affetim dese olacaklar
 bkz rte nin sigara içenler cehenemliktir demesi
 bkz rte nin alt dudağını öpücük yaparak konuşması
-bkz akpartili metin akpınarın ölü taklidi yapması
+bkz akpartili halit akçapınarın ölü taklidi yapması
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
 bkz rte damadına peniz yüzüğü aldığı iftiraları
