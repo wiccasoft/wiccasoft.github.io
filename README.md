@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-https://www.uludagsozluk.com/k/alparslan-kuytul/&w=bg ay kürtmüş kızlar
+https://www.uludagsozluk.com/k/alparslan-kuytul/&w=bg bkz ay kürtmüş kızlar 
 bkz mansur yavaş la hızlı bir gece vs imamoğlanla romantik bir akşam
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz ay hangisi ayol
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz müstakbel 13. cumburlopum ayol
