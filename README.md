@@ -3,6 +3,10 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/e/43084146/
+https://www.uludagsozluk.com/e/43084145/  
+bkz mehmet emin ali paşa keçecizade fuat paşa benzerliği
+https://www.uludagsozluk.com/k/mehmet-emin-ali-pa%C5%9Fa/&w=bg bkz paşa gibi paşa
 https://www.uludagsozluk.com/k/ke%C3%A7ecizade-fuat-pa%C5%9Fa/&w=bg bkz paşa gibi paşa
 diuanetin arthur schopenhauer burhan kuzu benzerliği demesi
 https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg 
