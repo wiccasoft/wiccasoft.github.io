@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz oğlançı akpli
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=gd  bkz sarhoş taklidi
 https://www.uludagsozluk.com/k/levent-pekcan/&w=bg bkz oğlanlara bakmayan kaba erkek
 https://www.uludagsozluk.com/k/hamamda-o%C4%9Flan-kovalarken-d%C3%BC%C5%9F%C3%BCp-yaralanan-padi%C5%9Fah/&w=bg
