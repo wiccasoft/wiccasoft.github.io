@@ -14,8 +14,8 @@ https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş
 bkz taş gibi cumburlop başkanını kültürsüz diye ganyan bayinde çalıştıran erkek
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
-https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz rte
-https://eksisozluk.com/ilker-canikligil--256882?a=popular  bkz nanikligil
+https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz ilker canikligil
+bkz taş gibi kızı bırakıp ilker canikligille aynı eve çıkmak
 https://eksisozluk.com/rtenin-2002-secimi-galibiyet-fotografi--6447062?a=popular tıklağ galeriğ açılsın kankağ
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nerde/
 bkz millet hizmet beklerken kk nın osura osura uyuması 
