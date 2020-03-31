@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz müstakbel 13. cumburlopum ayol
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi yapan kamalcı mizahı
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan gencebay 
 https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
