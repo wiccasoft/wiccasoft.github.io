@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/arap%C3%A7a-%C3%B6%C4%9Frenen-%C3%A7omar/ bkz rte nin torunu
 https://eksisozluk.com/recep-tayyip-erdoganin-mal-varligi--1483144 bkz türkiyenin dış borcunu kapatır
 https://www.uludagsozluk.com/k/erdogan%C4%B1n-para-dilenmesi/ bkz erdonun isveçteki 200 milyar doları
 bkz fatih portakalgilin ifşasının ilker canikligil ifşasını unutturması
