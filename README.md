@@ -5,7 +5,6 @@
 <!--
 https://www.uludagsozluk.com/k/cem-g%C3%BCvent%C3%BCrk/&w=bg bayılıyosan git söyle bence
 https://www.uludagsozluk.com/e/43084039/ bkz büyük ihtimalle inşaatta çalışıyordur
-bkz hayallerde yaşıyo bazı ibneler
 https://www.uludagsozluk.com/k/osman-%C3%B6ztun%C3%A7-ozan-manas-ali-k%C4%B1n%C4%B1k-dinleyen-k%C4%B1z/
 https://www.uludagsozluk.com/e/43083236/
 bkz diyanetin o iş yatar hafız demesi
