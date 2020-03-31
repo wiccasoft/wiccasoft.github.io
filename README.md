@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz oğlan kovalayan padişahlar
 https://mermiye-kafa-atan-mucahit.uludagsozluk.com/ saki n ol liseli sanan bi erkek ayarlim
 https://www.uludagsozluk.com/k/barbaros-%C5%9Fansal/&w=bg bkz aklınca dünyayı ele geçirecek
 https://ebu-mariya.uludagsozluk.com/ bkz liseli kamalcı
