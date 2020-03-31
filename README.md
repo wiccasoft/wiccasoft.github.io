@@ -3,7 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz rtenin dudaklarının öpücük atar gibi olması
+https://www.uludagsozluk.com/k/rte-nin-kelimeleri-uzatarak-konu%C5%9Fmas%C4%B1/
+bkz rte nin dudaklarının öpücük atar gibi olması
 bkz rte nin alt dudağını öpücük yaparak konuşması
 bkz müjdat gezenin ölü taklidid yapması
 https://www.uludagsozluk.com/k/halit-ak%C3%A7atepe/&w=bg bkz akpartili ünlüler
