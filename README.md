@@ -4,7 +4,7 @@
 
 <!-- 
 bkz kamalcıların eğitilmez eşcinseller oldukları gerçeği
-https://mermiye-kafa-atan-mucahit.uludagsozluk.com/  sakin ol liseli
+https://mermiye-kafa-atan-mucahit.uludagsozluk.com/ sakin ol liseli
 bkz eşcinsel kamalcıların fazla atarlı olması
 bkz eşcinsel olduğunun farkında olmayan liseli kamalcı ergenler
 bkz padişah kovalayan kamalcı oğlan
