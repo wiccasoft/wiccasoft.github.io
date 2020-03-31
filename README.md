@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 <!--
+https://www.uludagsozluk.com/k/devletin-gereksiz-bir-kurum-olmas%C4%B1/
 bkz fakirler zenginleri öldürmesin diye devlete para göndermek
 bkz mansur yavaştan herkeşe çay şakire çay yok
 bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
