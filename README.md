@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih tezcan dan fatih altaylıyla fatih portakala  işin yap uyarısı
 bkz fatih portakalın halka portakal demesi
 bkz metin akçapınarın ölü taklidi yapması
 bkz fatih tezcandan fatih terime işin yap uyarısı
