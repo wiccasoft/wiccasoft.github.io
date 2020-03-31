@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz beratın kayınbabası
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-r%C3%BCknettin-bey/ bkz sabri beyin kayınbabası
 https://www.uludagsozluk.com/k/bizimkiler-%C5%9F%C3%BCkr%C3%BC-bey/ bkz viagra kullanır
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F/&w=bg bkz taş gibi adamı kro diye terkeden oğlan
