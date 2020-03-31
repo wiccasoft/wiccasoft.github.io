@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
 bkz rte damadına peniz yüzüğü aldığı iftiraları
 https://www.uludagsozluk.com/k/surilere-40-milyar-vatanda%C5%9Fa-3-be%C5%9F-atin/
 bkz rte nin konuşurken alt dudak alırım der gibi konuşması
