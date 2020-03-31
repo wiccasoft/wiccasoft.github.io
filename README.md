@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz annoying orange vs fatih portakal
 https://www.uludagsozluk.com/k/duygu-%C3%B6zaslan-%C4%B1n-her%C5%9Feyi-yedim-pozu/&w=gd bkz telefonu yiyen kız bakışı
 https://www.uludagsozluk.com/k/erkek-isimlerini-telefonuna-abi-diye-kaydeden-k%C4%B1z/ bkz aslı bekiroğlu
 https://www.youtube.com/watch?v=xoEP2X1bYKI kebap gang styla
