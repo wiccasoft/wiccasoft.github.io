@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz oç ları
 https://www.uludagsozluk.com/k/sinemaya-tek-ba%C5%9F%C4%B1na-giden-tip/ bkz züppeli ahmet hoca
 https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/&w=gd bkz züppeli ahmet hoca
 https://www.uludagsozluk.com/k/2020-nisan%C4%B1nda-olacaklar/&w=bg bkz bir olacaz diri olacaz iri olacaz
