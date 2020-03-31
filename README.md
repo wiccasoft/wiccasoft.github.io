@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz fatih tezcan tweeterı kapatırsa nerden ulaşacaz sorundalı
 bkz 31 mart 2020 fatih tezcanın demeyi kapaması
 bkz fatrih tezcanın ifşa olmamak için tweeterı kapaması
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=gd bkz datih tezcanı demeyi kapaması
