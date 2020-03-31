@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz kamalcıların eğitilmez eşcinseller oldukları gerçeği
 https://mermiye-kafa-atan-mucahit.uludagsozluk.com/  sakin ol liseli
 bkz eşcinsel kamalcıların fazla atarlı olması
 bkz eşcinsel olduğunun farkında olmayan liseli kamalcı ergenler
