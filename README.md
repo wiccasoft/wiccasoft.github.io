@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz sülük gibi yapışan kamalcıdan kurtulma yolları
 https://www.uludagsozluk.com/k/kemalistlere-%C3%BClke-%C3%B6nerileri/&w=bg bkz hollanda
 https://www.uludagsozluk.com/k/levent-pekcan/&w=bg bkz kamalcı oğlanları göt etmek
 bkz kamalcıların eğitilmez eşcinseller oldukları gerçeği
