@@ -3,11 +3,11 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz ak partili halit akçapınarın ölü taklidi yapması
 bkz diyanetin hacıt o kupon yatar demesi
 bkz rte damadına peniz yüzüğü aldığı iftiraları
 bkz rte nin alt dudağını öpücük yaparak konuşması
 bkz millet hizmet beklerken kk nın osura osura uyuması 
+bkz ak partili halit akçapınarın ölü taklidi yapması
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
