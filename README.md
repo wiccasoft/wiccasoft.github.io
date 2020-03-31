@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek-ertu%C4%9Frul-k%C3%BCrk%C3%A7%C3%BC-b%C3%BClent-uluer-kavgas%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/ bkz cüneyt çakır sarı kartı
 https://www.uludagsozluk.com/k/hamamda-o%C4%9Flan-kovalarken-d%C3%BC%C5%9F%C3%BCp-yaralanan-padi%C5%9Fah/&w=bg
 https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/
 https://www.uludagsozluk.com/k/31-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klama/  ifşa linki at kankağ
