@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz çukur vuruşma sahnelerinde ay diyen erkek
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1-vuran-polis/&w=bg
 https://www.uludagsozluk.com/k/almanyan%C4%B1n-bizi-k%C4%B1skanma-gerek%C3%A7eleri/&w=bg
 https://www.uludagsozluk.com/k/devlet-para-bass%C4%B1n-vatanda%C5%9Fa-da%C4%9F%C4%B1ts%C4%B1n/
