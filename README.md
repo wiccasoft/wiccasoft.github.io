@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-https://www.uludagsozluk.com/k/damad%C4%B1n-iktisat-teorisi/ bkz keynesgen teori serbest piyasa yani
+https://www.uludagsozluk.com/k/damad%C4%B1n-iktisat-teorisi/ bkz keynesgen teori 
 https://www.uludagsozluk.com/k/kebap%C3%A7%C4%B1-celal/&w=bg bkz ifşası düştü dandım amk
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg  bkz ifşası düştü dandım amk
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz yine duşa soktun kardeş
