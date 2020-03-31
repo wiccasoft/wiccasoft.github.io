@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya-ya-benzeyen-adam/
 bkz türk oğlu türküm diyip ateistim diyen çomar
 bkz devlet bize bohmir
 bkz macun kaplıcalı kovid ol kampanyası
