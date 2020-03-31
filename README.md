@@ -4,8 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg
-https://www.uludagsozluk.com/k/mustafa-kemal-in-samsun-a-%C3%A7%C4%B1k%C4%B1%C5%9F%C4%B1/
-https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/&w=gd bkz czn burak fappening
+https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/&w=gd
 bkz diyanetin hacıt o kupon yatar demesi
 bkz imf başkanının 13. cumburlop maaşına göz dikmesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
