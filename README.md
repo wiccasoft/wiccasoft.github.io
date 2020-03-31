@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
 <!--
+bkz bir olacaz diri olacaz iri olacaz
 bkz evde kal türküyüm kampanyası
 bkz macun kaplıcalıdaki survivor şeyma
 bkz macun ol kampanyasına destek veren ünlüler
