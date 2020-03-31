@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz kamalcılara devletin zenginleri koruyan bir örgüt olduğunu bilale anlatır gibi anlatmak
+bkz kamalcılara devletin fakirler zenginleri öldürmesin diye olduğunu bilale anlatır gibi anlatmak
 bkz kurtuluş savaşçılık oynayan ergenler
 https://www.youtube.com/watch?v=xoEP2X1bYKI kebap gang styla
 https://www.uludagsozluk.com/e/43086782/ bkz şaka maka türkiyeden parsel parsel toprak alacağım günlerin yaklaşması
