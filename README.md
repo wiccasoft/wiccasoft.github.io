@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/skyler-white-%C4%B1n-o-kadar-da-orospu-olmamas%C4%B1/&w=bg
 bkz fesli bunağın donunu indirip kaçmak başlığının silinmesi
 https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/
 bkz fatih portakalın kalçaları
