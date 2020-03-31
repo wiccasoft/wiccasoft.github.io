@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/hakaret-edilerek-otob%C3%BCsten-indirilen-erkek-hem%C5%9Fire/ ay bunu kaparlar ayol
 https://www.uludagsozluk.com/k/umrecilerin-katliam-yapmas%C4%B1/ ay kaba ve kürtler psi şeyler
 https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ ay izmir kadını çıktım ayol
 bkz kürtlerin kaba ve ruhsuz erkekler olması
