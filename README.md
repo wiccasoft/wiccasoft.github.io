@@ -4,14 +4,9 @@
 
 <!-- 
 bkz fatih tezcanı takip eden 3 milyon kişin 2.9 milyonunun kamalcılar olması
-https://www.uludagsozluk.com/k/fatih-tezcan/ bkz fatih portakal vs fathi tezcan
 https://ebu-mariya.uludagsozluk.com/ bkz minnak filozof atakan
 https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz atacan kayaların babası
-https://ebu-mariya.uludagsozluk.com/ bkz yobazsavar liseli
 https://www.uludagsozluk.com/k/telefonu-ba%C5%9F-%C3%B6rt%C3%BCs%C3%BCne-s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmak/
-bkz götü sikildikçe daha da diye bağıran kamalcı oğlu kamalcı
-https://www.uludagsozluk.com/k/t%C3%BCrk-o%C4%9Flu-t%C3%BCrk%C3%BCm-ve-ateistim/&w=bg babanın götünü sikeyim
-bkz bunlar daha iyi günleriniz oç ları
 https://www.uludagsozluk.com/k/halka-iban-numaras%C4%B1-da%C4%9F%C4%B1tmak/ zuahhahahaha
 https://www.uludagsozluk.com/k/biz-bize-kazar%C4%B1z-t%C3%BCrkiyem/ zuhahahahaha
 bkz fino köpeği vs kamalcı zekası
