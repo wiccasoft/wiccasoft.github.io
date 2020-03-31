@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz google ın rte ye para lazımsa fişekleyek demesi
 bkz efso hırtlar vadisi diyalogları
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/
 https://www.uludagsozluk.com/k/dostum-olmaz-hasm%C4%B1m-ya%C5%9Famaz/&w=bg
