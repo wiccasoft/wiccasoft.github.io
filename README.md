@@ -2,7 +2,10 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-<!-- https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz deli selimin babası -->
+<!-- 
+https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan
+https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz deli selimin babası -->
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
