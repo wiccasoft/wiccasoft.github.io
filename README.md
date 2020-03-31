@@ -2,9 +2,9 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
-
 <!-- 
-bkz fatih portakal ifşası canlı link isteyene satarım 
+bkz ali kırca ifşası canlı link isteyene atarım kankağ
+bkz fatih portakal ifşası canlı link 
 https://www.uludagsozluk.com/k/fatih-tezcan-vs-rall/ bkz fatih portakal
 https://www.uludagsozluk.com/k/fatih-portakal/&w=gd bkz aptala anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ link at kankağğğğğğğ
