@@ -7,7 +7,7 @@ bkz norm enderin fatih tezcana verdiği efso ayar
 bkz enes batur fanboyları vs fatih tezcan fanboyları
 bkz fatih tezcanı takip eden 3 milyon kişin 2.9 milyonunun kamalcılar olması
 https://ebu-mariya.uludagsozluk.com/ bkz minnak filozof atakan
-https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz atacan kayaların babası
+https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz minnak filozof
 https://www.uludagsozluk.com/k/telefonu-ba%C5%9F-%C3%B6rt%C3%BCs%C3%BCne-s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmak/
 https://www.uludagsozluk.com/k/halka-iban-numaras%C4%B1-da%C4%9F%C4%B1tmak/ zuahhahahaha
 https://www.uludagsozluk.com/k/biz-bize-kazar%C4%B1z-t%C3%BCrkiyem/ zuhahahahaha
