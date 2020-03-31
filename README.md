@@ -2,6 +2,18 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
+<!-- 
+bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
+bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
+bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
+https://eksisozluk.com/tas-gibi-kizi-kultursuz-diye-terk-eden-erkek--2410690?a=popular bkz rte
+https://eksisozluk.com/ilker-canikligil--256882?a=popular  bkz nanikligil
+https://eksisozluk.com/rtenin-2002-secimi-galibiyet-fotografi--6447062?a=popular tıklağ galeriğ açılsın kankağ
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nerde/
+bkz millet hizmet beklerken kk nın osura osura uyuması 
+-->
+
+
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
 
