@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/yavuz-sultan-selim-in-ba%C4%9Fi-olmas%C4%B1/&w=bg
 https://www.youtube.com/watch?v=xoEP2X1bYKI kebap gang styla
 https://www.uludagsozluk.com/e/43086782/ bkz şaka maka türkiyeden parsel parsel toprak alacağım günlerin yaklaşması
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg
