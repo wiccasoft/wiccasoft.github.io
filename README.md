@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1-vuran-polis/&w=bg bkz yusuf yerkelin eniştesi
 bkz baba muhalet lideri fatih portakal
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=gd bkz baka varankın fotoşok pozları
 bkz bahan varankın küvetinde kal türküyüm pozu
