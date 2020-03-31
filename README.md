@@ -2,6 +2,7 @@
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 <!--
+https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F/&w=bg bkz taş gibi adamı kro diye terkeden oğlan
 https://www.uludagsozluk.com/k/bizimkiler-%C5%9F%C3%BCkr%C3%BC-bey/ bkz kılıbık ayol
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan 2013 tweetleri
 https://www.uludagsozluk.com/k/kar%C4%B1-koca-porno-izlemek/&w=bg bkz kusturmalı boşnak saksosu
