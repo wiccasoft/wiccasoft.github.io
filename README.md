@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=gd bkz emeğine ak
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-sar%C4%B1ya-boyatan-erkek/&w=bg bkz enes batur vs maymun götü
 https://www.uludagsozluk.com/k/y%C3%BCrek-yemi%C5%9F-insan%C4%B1n-yapabilecekleri/&w=bg bkz fesli bunağın donun indirmek
 bkz fesli bunağın donun indirip kaçmak başlığının silinmesi
-bkz fatih portakalın kalçalarını ısırırken baanın odaya girmesi
+bkz fatih portakalın kalçalarını ısırırken babanın odaya girmesi
 https://www.uludagsozluk.com/k/fesli-bunak-vs-%C5%9Febek-g%C3%B6t%C3%BC/ 
 https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg ay kızlar sabah yerler bunları ayol
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%A7irkin-surat%C4%B1/
