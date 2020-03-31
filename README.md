@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/g%C3%B6t-iste-verelim-ama-param%C4%B1z-yok/ o göte bül bül öte
 bkz beyaz götlerinizi sikecem diyen bunak
 bkz hepnizi karım yapacam diyen sapık bunak
 bkz hepiniz öldüreceim diyen pezevenk fesli bunak
