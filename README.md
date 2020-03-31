@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz mansur yavaşla hızlı bir gece vs imamaoğlanla romantik bir akşam
+https://www.uludagsozluk.com/k/mansur-yavaş-ı-ekrem-imamoğlu-na-tercih-etmek/
 bkz bizimkiler dunkof halis bey
 bkz adam gibi adam deyince akla gelen ilk adam
 bkz bizimkiler tak tak sedat bey
