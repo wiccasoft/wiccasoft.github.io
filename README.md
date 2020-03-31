@@ -3,6 +3,10 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz rte nin alt dudağını öpücük yaparak konuşması
+bkz akpartili metin akçapınarın ölü taklidi yapması
+https://www.uludagsozluk.com/e/43086105/ bkz taş gibi heykeli yunan diye yalamayan kamalcı
+https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz yalanası taş gibi adamlar
 bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
 bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok yani fake çıkması
