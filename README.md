@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/ben-gürcüyüm-eşim-arap/&w=bg 
 https://www.uludagsozluk.com/k/joseph-stalin/&w=bg bkz gürcü putin yalakası
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-hi%C3%A7-se%C3%A7im-yapmamas%C4%B1/
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-r%C3%BCknettin-bey/ bkz tak tak sedatın karşı komşusu
