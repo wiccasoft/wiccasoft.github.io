@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://fasizan-ruh.uludagsozluk.com/ bkz fatih tezcanın murat karayılna için attığı tweet
 https://www.uludagsozluk.com/k/rte-nin-kelimeleri-uzatarak-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/saddam-h%C3%BCseyin/&w=gd bkz ppk ya destek veren ünlüler
 https://www.uludagsozluk.com/e/43084039/ bkz muhtemelen inşaatta çalışıyordur
