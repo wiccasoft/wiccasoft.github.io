@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz halka altın varanklı iban vermek
 bkz bakan varankın penis yüzüğünün fotoşok çıkması
 https://www.uludagsozluk.com/k/bizbize-yeteriz-t%C3%BCrkiyem-kampanyas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/alt%C4%B1n-varakl%C4%B1-petek-vs-%C3%A7okomelli-petek/
