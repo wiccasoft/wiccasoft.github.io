@@ -4,6 +4,7 @@
 
 <!-- 
 bkz 31 mart 2020 fatih tezcanın demeyi kapaması
+bkz fatrih tezcanın ifşa olmamak için tweeterı kapaması
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=gd bkz datih tezcanı demeyi kapaması
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ yine duşa soktun kardeş
 https://fasizan-ruh.uludagsozluk.com/ bkz efso fatih tezcan ifşası
