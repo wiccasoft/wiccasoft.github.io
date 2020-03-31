@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/joseph-stalin/&w=bg bkz yavşak putin yalakası
+https://www.uludagsozluk.com/k/t%C3%BCrk-o%C4%9Flu-t%C3%BCrk%C3%BCm-ve-ateistim/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz murat karayılan güzellmesi
 https://www.uludagsozluk.com/k/kad%C4%B1n-yazarlardan-erkek-yazarlara-sorular/&w=bg bkz sor kankağ
