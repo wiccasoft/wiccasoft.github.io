@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fatih portakalın adamı gözleriylen soyması
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/&w=bg bkz gözleriylen soymak
 bkz fatih ortakaldaki hayvansı çekicilik
 https://www.uludagsozluk.com/k/hi%C3%A7-bir-mezhebe-inanmayan-m%C3%BCsl%C3%BCman/ bkz züppeli ahmet hoca
