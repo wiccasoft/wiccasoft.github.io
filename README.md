@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ensar-vakf%C4%B1/&w=bg eywallah kankağ
 bkz erdonun 2009 efso one minute ayarı
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-yahudiye-el-a%C3%A7mad%C4%B1-diye-kuduran-tip/
 https://www.uludagsozluk.com/k/sen-kemalistsin-ben-kom%C3%BCnistim-hadi-bakal%C4%B1m/ kadi bakalım
