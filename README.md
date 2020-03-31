@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/devletin-gereksiz-bir-kurum-olmas%C4%B1/
-bkz fakirler zenginleri öldürmesin diye devlete para göndermek
+bkz fakirler zenginleri öldürmesin diye devlete vergi vermek
 bkz mansur yavaştan herkeşe çay şakire çay yok
 bkz cumburlop başkanıyım diyip ekranlarda para isteyenlere itibar etmeyiniz
 bkz bir olacaz diri olacaz iri olacaz iban numarımı veriyorum
