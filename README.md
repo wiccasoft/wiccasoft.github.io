@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz metin akçapınarın ölü taklidi yapması
 bkz fatih tezcandan fatih terime işin yap uyarısı
 bkz fatih tezcandan ikinci abdulhamdi güzellemesi
 bkz 2 .abdulhamdi fatih sultan selim münasebeti
