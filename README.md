@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+https://www.uludagsozluk.com/k/cezmi-bask%C4%B1n/&w=bg çok büyük adam çok
 https://www.uludagsozluk.com/k/nihat-gen%C3%A7/&w=bg bkz ver yansın tv
 https://www.uludagsozluk.com/k/damad%C4%B1n-iktisat-teorisi/ bkz keynesgen teori 
 https://www.uludagsozluk.com/k/kebap%C3%A7%C4%B1-celal/&w=bg bkz ifşası düştü dandım amk
