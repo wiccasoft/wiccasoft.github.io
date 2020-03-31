@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
-bkz diyanetin uyudun mu demesi
+bkz diyanetin hacı naptın ya demesi
 https://www.uludagsozluk.com/k/mustafa-re%C5%9Fit-pa%C5%9Fa/&w=bg bkz adam gibi paşa
 bkz hıyanetin hıyar sayısı artsın demesi
 https://www.uludagsozluk.com/e/43083236/ bkz kaynak götüm
