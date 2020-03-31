@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ izmir çıktım ayol
 bkz ya amerika tweeterı kaparsa fatih tezcanı nerden ulaşacaz sorundalı 
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg bkz fatih tezcan tweetleri
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1khan-altu%C4%9F-%C5%9Fekercigil/&w=bg ay buğ çok fenağ kızlar
