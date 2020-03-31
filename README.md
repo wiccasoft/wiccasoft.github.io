@@ -3,7 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
-bkz rte nin parar fişekleyin de keyfimize bakak demesi
+bkz diyanetin hafız açığını kapadık amk demesi
+bkz rte nin para fişekleyin de keyfimize bakak demesi
 bkz rte nin iban para fişeklemediniz mi hala oç ları demesi
 https://www.uludagsozluk.com/k/rte-7-ay-maa%C5%9F-almadan-nas%C4%B1l-ge%C3%A7inecek/
 https://www.uludagsozluk.com/k/devlet-para-bass%C4%B1n-vatanda%C5%9Fa-da%C4%9F%C4%B1ts%C4%B1n/
