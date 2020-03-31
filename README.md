@@ -3,8 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz ay hangisi ayol
 bkz türkishmusic org taki doğu perniçek ertuğral bilmeme ne kavgası
-https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek-ertu%C4%9Frul-k%C3%BCrk%C3%A7%C3%BC-b%C3%BClent-uluer-kavgas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz kamalcıların ıslak rüyası
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi yapan kamalcı
 https://yuruyen-cinsellik.uludagsozluk.com/ bkz kürt erkeği kovalarken düşüp totoşunu kıran kamalcı 
