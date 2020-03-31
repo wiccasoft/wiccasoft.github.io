@@ -3,6 +3,12 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz rte damadına peniz yüzüğü aldığı iftiraları
+bkz millet hizmet beklerken kk nın osura osura uyuması 
+bkz diyanetin hafız naptın parayı fişekledin mi diye mesaj atması
+bkz taş gibi kızı kültürsüz diye ganyan bayinde çalıştıran erkek
+https://www.uludagsozluk.com/e/43083236/ bkz hıyanetin hıyar sayısı arttırılsın demesi
+bkz 13. cumburlop maaşına göz dikmek
 https://www.uludagsozluk.com/k/bahar-geldi-kutumu-a%C3%A7ar-m%C4%B1s%C4%B1n-diyen-i%C5%9Fveren-kad%C4%B1n/
 bkz telefonu işaret parmağıyla kulağına bastırarak kullanan erkek seksiliği
 bkz kuzey güney deki ferhat ın telefona kafa atma sahnesi
