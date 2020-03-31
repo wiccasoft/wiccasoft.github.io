@@ -3,6 +3,9 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz diyanetin o iş yatar hafız demesi
+bkz diyanetin naptın o işi hacut ya demesi
+bkz hıyanet in hıyar sayısı artsın demesi
 bkz diyanet başkanının diyanet yaz diyanete yolla demesi
 bkz diyanet başkanının hacıt naptınız bizim bağuş zekat işini demesi
 bkz diyanetin ezan çalıştayının hafızlarla toplantıya girmesi
