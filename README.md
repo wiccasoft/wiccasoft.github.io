@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz mahir çyana vs berkin çayan
+https://www.uludagsozluk.com/k/berkin-elvan-ethem-sar%C4%B1s%C3%BCl%C3%BCk-ay%C5%9Fe-deniz-karacagil/&w=bg
 bkz rte nin virüsü bahane ederek halktan para istemesi
 bkz rte nin iett günlerinden fotolarının fake yani sahte çıkması
 bkz 31 mart 2020 rte nin dudak hareketleri
