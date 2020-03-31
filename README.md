@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz erkek kovalarken düşüp götünü kıran kamalcı
 https://fasizan-ruh.uludagsozluk.com/ bkz efso fatih tezcan ifşası
 https://www.uludagsozluk.com/k/onedio-hangi-%C5%9Fehrin-kad%C4%B1n%C4%B1s%C4%B1n-testi/ bkz kamalcıların içindeki kadın
 bkz fatih terimle bir gece vs fatih tezcanla bir gece
