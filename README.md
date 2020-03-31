@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/e/43084039/ bkz büyük ihtimalle inşaatta çalışıyordur
 bkz hayallerde yaşıyo bazı ibneler
 https://www.uludagsozluk.com/k/osman-%C3%B6ztun%C3%A7-ozan-manas-ali-k%C4%B1n%C4%B1k-dinleyen-k%C4%B1z/
 https://www.uludagsozluk.com/e/43083236/
