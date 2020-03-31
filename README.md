@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://ebu-mariya.uludagsozluk.com/ bkz minnak filozof atakan
 https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz atacan kayaların babası
 https://ebu-mariya.uludagsozluk.com/ bkz yobazsavar liseli
 https://www.uludagsozluk.com/k/telefonu-ba%C5%9F-%C3%B6rt%C3%BCs%C3%BCne-s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmak/
