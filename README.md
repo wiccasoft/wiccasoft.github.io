@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/rte-7-ay-maa%C5%9F-almadan-nas%C4%B1l-ge%C3%A7inecek/ bkz işsizlik maaşı
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz tayyip yalakası oğlancı
 bkz imf başkanının 13. cumburlop maaşına göz dikmnesi
 bkz alpaslan türkeşin kızıllara vs osmanlının oğlanlarına verdiği efso ayar
