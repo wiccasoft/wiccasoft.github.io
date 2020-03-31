@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz barış özcan vs fatih tezcan
 bkz netfilizi iptal edip fatih tezcan eko pakete geçmek
 https://www.uludagsozluk.com/k/kusturmal%C4%B1-talisca-saksosu/&w=bg
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
