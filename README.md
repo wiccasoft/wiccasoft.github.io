@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz eşcinsel olduğunun farkında olmayan liseli kamalcı ergenler
 bkz padişah kovalayan kamalcı oğlan
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz oğlan kovalayan padişahlar
 https://mermiye-kafa-atan-mucahit.uludagsozluk.com/ sakin ol liseli sana bi erkek ayarlim sinirin geçsin
