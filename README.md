@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!--
+bkz fakirler zenginleri öldürmesin diye rte ye yüklü miktar vergi vermek
 bkz rte nin konuşurken  dudaklarını öpücük atar gibi yapması
 bkz rte nin beş megapiksel fotoğrafı
 bkz rte fedönü affetim dese olacaklar
