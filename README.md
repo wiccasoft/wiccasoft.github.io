@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 <!-- 
+bkz fino köpeği vs kamalcı zekası
 https://www.uludagsozluk.com/k/esnaf-cam%C4%B1-yaz%C4%B1lar%C4%B1/&w=bg camideyim işeme dükkan önüne
 https://www.uludagsozluk.com/k/fatih-portakal/&w=gd bkz kamalcıya anlatır gibi anlatmak
 bkz sülük gibi yapışan kamalcıdan kurtulma yolları
