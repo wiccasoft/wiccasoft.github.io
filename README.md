@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz fatih tezcan murat karayılan güzellmesi
+bkz yılmaz güneyin 13 karısının amına yılan sokması
 bkz hafız ben kaçıyom pepekamı üsmeyin diyen 16 yaşındaki kız
 bkz hafız sızma bizim işimiz diyen 16 yaşındaki pepekalı kız
 bkz kalkışma yapan ppklıların hazin sonu
