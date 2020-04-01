@@ -3,7 +3,8 @@
 
 
 <!-- 
-bkz yılmaz güney vs yılşma erdoğan
+bkz yılmaz güney in karılarının amına yılan soktuğu iddaları
+bkz yılmaz güney vs yılmaz erdoğan
 bkz yılmaz erdoğanın pepekalı olduğu gerçeği
 bkz yılmaz erdoğan vs cem yılmaz
 bkz sadri alışık yılmaz güney dostluğu
