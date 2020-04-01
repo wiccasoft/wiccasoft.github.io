@@ -3,6 +3,7 @@
 
 
 <!--
+bkz yılmaz güneyin yılmaz morgülün üstüne yürümesi
 bkz erdoğanın ben cumburlopum diyip iban isteyenlere itibar etmeyin demesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
