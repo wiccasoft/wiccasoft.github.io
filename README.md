@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz annenin iibf mezunu bi aptal olması
 bkz fatih portakaa vs şemapanze götü
 bkz fatih portakal ne zaman evrim geçirecek sorunalı
 bkz fatih portakalın bilale anlatır gibi haber sunması asdasdasdasd
