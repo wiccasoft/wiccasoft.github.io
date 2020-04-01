@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ethem sancakın ethem sarısülüke gavat demesi
 bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
 bkz süleyman soylunun ist ank izmirin nefesini kesmesi
 bkz fatih tezcan murat karayılan güzellmesi
