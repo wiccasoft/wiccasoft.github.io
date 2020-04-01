@@ -3,6 +3,7 @@
 
 
 <!--
+bkz yılamz güneyin yılmaz morgüle top demesi
 bkz yılmaz güneyin bana yaklaşma amına yılan sokarım demesi
 https://www.uludagsozluk.com bkz deep web in deepsiz çukuru level 999
 https://www.uludagsozluk.com/k/zorla-t%C3%BCrban%C4%B1-%C3%A7%C4%B1kar%C4%B1lmaya-%C3%A7al%C4%B1%C5%9F%C4%B1lan-m%C3%BCmine/
