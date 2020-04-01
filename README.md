@@ -3,24 +3,7 @@
 
 <!--
 bkz süleyman soylunun wuhan hayvan pazarından yılan kanı alması
-bkz süleyman soylunun pepeka kampına sızma yapması
-bkz tunç soyerin gözleriylen soyması
-https://sweetmandarine.uludagsozluk.com bkz tatlı mandalina vs fatih portakal
-bkz şempanze götü vs berkin elvan
-bkz yılmaz morgülün pepekanın dağ kadrosunu katılması
-https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
-bkz pfdk nın türk futbolunu davar güder gibi gütmesi
-bkz reisin 13. cumburlop maaşının dekontunu göstermesi
-bkz yılmaz erdoğandan yılmaz güney salvosu
-bkz yılmaz güneyin karayılan güzellemesi
-https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kürtlerl kolbastı oynayan pepekalı
-bkz ekrem amınoğlunun yılmaz güneyi savunması
-bkz ekrem amınoğlunun kürtlerle kolbastı oynarken damdan düşüp totosunu kırması
-bkz 1 nisan 2020 yılmaz güneyim yılmaz morgülün üstüne yürümesi
-bkz pfdeka nın türk futbolunu davar güder gibi gütmesi
-bkz yılmaz güneyin murat karayılan güzellemesi
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ bkz 13 karısının amına yılan sokan kürt -->
+-->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
