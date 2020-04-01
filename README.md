@@ -1,50 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
-<!-- 
-https://www.uludagsozluk.com/k/izmir-erke%C4%9Fi/&w=bg bkz izmirli esmer ve yavşak tayfun
-bk şaka maka parayı basıp rte dini ülkesinden parsel parsel toprak alacağım gerçeği
-bkz jeff bezosun ortalık yatışsın türkiyeyi satın alırım demesi
-bkz damadın ümrecileri savunması
-bkz reisin damadı kasaya oturtması
-bkz regl olunca amdan kan gelen dönem
-https://www.uludagsozluk.com/k/regl-olmadan-olu%C5%9Fan-%C3%B6dem/&w=bg
-bkz tayber doğan dan ümreci güzellemesi
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-kendini-devlet-sanmas%C4%B1/&w=bg
-bkz cüppeli ahmet hocanın ümrecileri suçlaması
-https://www.uludagsozluk.com/k/c%C3%BCppeli-ahmetin-%C3%BCmrecileri-su%C3%A7lamas%C4%B1/&w=gd
-bkz macun kaplıcalının makyajsız fotosu
-https://www.uludagsozluk.com/k/tek-d%C3%BCnya-devleti/&w=bg bkz reisin tek ümmet devleti müjdesin vermesi
-bkz fahrettinin dokanma bıyığıma demesi
-bkz camide gel seni badelem az diyen mümin
-https://www.uludagsozluk.com/k/cuma-namaz%C4%B1n%C4%B1-avatar%C4%B1na-k%C4%B1ld%C4%B1ran-m%C3%BCmin/
-https://www.uludagsozluk.com/e/43093101/
-bkz reisin mobile.twitter linklere tıklamaması
-https://www.uludagsozluk.com/k/reisten-izinsiz-%C3%A7i%C5%9Fe-gidemeyen-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca-n%C4%B1n-vip-cuma-namaz%C4%B1-ele%C5%9Ftirisi/
-bkz çekirdek çimerken twiterda türbanlı vidyosu aramak
-https://www.uludagsozluk.com/k/zorla-t%C3%BCrban%C4%B1-%C3%A7%C4%B1kar%C4%B1lmaya-%C3%A7al%C4%B1%C5%9F%C4%B1lan-m%C3%BCmine/
-https://www.uludagsozluk.com/k/c%C3%BCppeli-ahmetin-%C3%BCmrecileri-su%C3%A7lamas%C4%B1/
-bkz geğirip badelem mi seni diyen menzil sofisi
-bkz 1 nisan cüppeli hoca yayını vaazı
-bkz kafasına cüppe saplanan adam
-bkz züppelinin ümrecileri suçlaması
-bkz kovidcilerin ümrecilerin üstüne yürümesi
-bkz izmir erkeği vs adana erkeği
-bkz kürtçü imamoğlu vs kürkçü memikoğlu
-bkz reis damadın penis yüzüğünü takıyor yalanı
-bkz yılmaz güney vs yılmaz morgül
-bkz kadirmısıroğlu.com u satın alıp netkadir e çevirmek
-bkz leonardo di caprio vs şempanze götü
-bkz şempanze götü vs cübbeli kadir hoca
-bkz fatih portakalın ikinci atacücü olması
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/ bkz atacücü gözleri
-bkz fatih portaklın gözleri vs şempanzenin gözleri
-bkz şempanze götü vs fesli bunak
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz şempenze götü vs soylu
-https://www.uludagsozluk.com/k/arap%C3%A7%C4%B1l%C4%B1k/&w=bg bkz kürtçü ve arapçıların olmadığı türküyü 
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg şempanze götü vs mısıropğlan-->
-
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
