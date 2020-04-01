@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz 1 nisan cüppeli hoca yayını vaazı
 bkz kafasına cüppe saplanan adam
 bkz züppelinin ümrecileri suçlaması
 bkz kovidcilerin ümrecilerin üstüne yürümesi
