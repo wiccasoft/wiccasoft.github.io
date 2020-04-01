@@ -1,4 +1,4 @@
-[![Image](eq/Screenshot_2020-04-01_15-43-23.png)](https://www.fox.com.tr/Fatih-Portakal-ile-FOX-Ana-Haber )
+[![Image](eq/Screenshot_2020-04-01_15-43-23.png)](https://www.youtube.com/watch?v=1f8WZ1cu7kY )
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
