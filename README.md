@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz bill gates vs rte
 bkz jeff bezos vs rte
 bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz rte nin 1994 yılı ibb önündeki fotosu
