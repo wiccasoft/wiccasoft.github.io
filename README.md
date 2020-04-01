@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+bkz pfdk nın türk futbolunu davar güder gibi gütmesi
+bkz diyanetin hafız o kupon uatar demesi
 bkz diyanet vs şempanze götü
 bkz diyanetin yapılan bağışlar yılna kanı yapılacak fetvası
 bkz fahrettin kocanın wuhan hayvan pazarında yılna kanı almayın uyarısı
