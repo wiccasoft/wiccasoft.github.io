@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz uşak valisinin beyin yakan bahçevanı
 bkz menzilde geğirip badeleyemmi seni deyen sofi
 bkz etyen mahçupyanın et yeyenden bi bok olma demesi
 bkz ethem sancak ın ethem sarısülüke sülük demesi
