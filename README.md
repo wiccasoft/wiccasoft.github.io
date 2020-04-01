@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/benim-a%C5%9Fka-inanc%C4%B1m-kalmad%C4%B1-diyen-16-ya%C5%9F%C4%B1ndaki-k%C4%B1z/&w=bg
 bkz atacücünün tece şeyhler şıhlar memleketi değildir lafı
 https://www.uludagsozluk.com/k/annesine-ba%C4%9F%C4%B1ran-ergen-k%C4%B1z/&w=bg bkz abisinin boxerını giyen kız
 https://www.uludagsozluk.com/k/allah-vs-zeus/&w=bg bkz zeusun hoplata hoplata sikeceği versus
