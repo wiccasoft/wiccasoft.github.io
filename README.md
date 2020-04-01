@@ -1,5 +1,5 @@
 
-[![Image](eq/Screenshot_2020-03-31_19-20-08.png)]( https://www.youtube.com/watch?v=i1u7by_Ndn0&list=UU6invu00h_9e667cfpbzMXw&index=10 )
+[![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- https://www.uludagsozluk.com/e/43090635/ lol-->
 
