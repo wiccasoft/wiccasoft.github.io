@@ -3,6 +3,8 @@
 
 
 <!--
+bkz kopar beni diyen kamalcı
+bkz tarikatlar ile kopmaca
 bkz yılmaz güney den yılamz morgül güzellemesi
 bkz azer bülbül şiwan perwer düeti
 bkz temizlik ibandan gelir
