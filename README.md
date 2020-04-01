@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+https://www.uludagsozluk.com/k/mehmet-%C3%B6z/&w=bg
 bkz gak parti özel yayını
 bkz galk tv müjdat gezen yayını
 bkz 13. cumburlop maaşına göz dikmek
