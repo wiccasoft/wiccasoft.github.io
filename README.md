@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz süleyman soylunun ist ank izmirin nefesini kesmesi
 bkz fatih tezcan murat karayılan güzellmesi
 bkz yılmaz güneyin 13 karısının amına yılan sokması
 bkz hafız ben kaçıyom pepekamı üsmeyin diyen 16 yaşındaki kız
