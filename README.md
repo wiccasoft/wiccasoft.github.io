@@ -2,10 +2,9 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
-bkz tatlımandarin vs tatlıtuğ
+bkz fatih portakal vs şempanze götü
 bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz pepekanın türk solunu sağını siklememesi
-bkz fatih portakal vs şempanze götü
 https://sweetmandarine.uludagsozluk.com bkz şempanze götü sıratlı kamalcı
 bkz pfsk nın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
