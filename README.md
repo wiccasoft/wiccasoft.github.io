@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz annesine bağıran ergen kız
 bkz 13 .cumburlop maaşı vs fatih portakal maaşı
 bkz osmanlının gümbür gümbür gelmesi
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
