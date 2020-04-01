@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz etyen mahçupyanın et yeyenden bi bok olma demesi
 bkz ethem sancak ın ethem sarısülüke sülük demesi
 bkz ethem sarısülük vs ethem sancak
 bkz organize işler süpermen vs yılamz güney
