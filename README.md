@@ -4,6 +4,7 @@
 
 <!--
 bkz temizlik ibandan gelir
+bkz geğirip badelim mi seni diyen menzil sofisi
 bkz yılmaz erdoğandan yılmaz güney güzellmesi
 bkz yılmaz güneyin yılmaz morgülün üstüne yürümesi
 bkz erdoğanın ben cumburlopum diyip iban isteyenlere itibar etmeyin demesi
