@@ -3,6 +3,7 @@
 
 <!-- https://www.uludagsozluk.com/e/43090635/ lol
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz karısının amına yılan sokan adanalı
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz yüzüklerin efendisi
 -->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
