@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/annesine-ba%C4%9F%C4%B1ran-ergen-k%C4%B1z/&w=bg bkz abisinin boxerını giyen kız
 https://www.uludagsozluk.com/k/allah-vs-zeus/&w=bg bkz zeusun hoplata hoplata sikeceği versus
 https://www.uludagsozluk.com/k/seksenler-alper/ bkz alper tunga öldi mi 
 https://www.uludagsozluk.com/k/salg%C4%B1n-yay%C4%B1l%C4%B1yor-%C5%9Feyhler-nerede/
