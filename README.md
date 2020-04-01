@@ -1,7 +1,10 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
+
 <!--
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-iyi-%C5%9Feyler/&w=bg
+bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 bkz diyanetin hafız o kupon uatar demesi
 bkz diyanet vs şempanze götü
