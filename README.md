@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz iban esprisi yapan 50 yaşındaki dayı
 bkz fatih portakalın kolbastı oynarken totosunu kırması
 bkz şempanze götü vs fatih portakal
 https://www.uludagsozluk.com/k/umreciler/&w=bg bkz iban edenler
