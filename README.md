@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
-bkz reisin mobile.twitter linklere tıklamamas
+https://www.uludagsozluk.com/e/43093101/
+bkz reisin mobile.twitter linklere tıklamaması
 https://www.uludagsozluk.com/k/reisten-izinsiz-%C3%A7i%C5%9Fe-gidemeyen-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca-n%C4%B1n-vip-cuma-namaz%C4%B1-ele%C5%9Ftirisi/
 bkz çekirdek çimerken twiterda türbanlı vidyosu aramak
