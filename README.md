@@ -3,6 +3,7 @@
 
 
 <!--
+bkz reis temizlik ibandan gelir dedi diye kuduran tipler
 bkz reis iban istedi diye kduran tip
 bkz yılamz güneyin kolbastı oynarken çatıdan düşüp popsunu kırması
 bkz uşak valisinin beyin yakan bahçevanı
