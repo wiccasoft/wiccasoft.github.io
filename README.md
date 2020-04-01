@@ -1,4 +1,4 @@
-[![Image](eq/Screenshot_2020-04-01_15-43-23.png)](https://www.youtube.com/watch?v=1f8WZ1cu7kY )
+[![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=5V0f6yH6o9w )
 
 <!-- 
 https://www.youtube.com/watch?v=5V0f6yH6o9w bkz şeytanın en büyük hilesi
