@@ -3,6 +3,7 @@
 
 
 <!--
+bkz yılmaz erdoğandan yılamz güney güzellemesi
 bkz yılamz güneyin yılmaz morgüle top demesi
 bkz yılmaz güneyin bana yaklaşma amına yılan sokarım demesi
 https://www.uludagsozluk.com bkz deep web in deepsiz çukuru level 999
