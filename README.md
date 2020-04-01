@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 1 nisan 2020 reis yardım paralarıyla damada penis yüzüğü aldığı yalanı
+bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok çıkması
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz ümmetin lideri adam gibi adam -->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
