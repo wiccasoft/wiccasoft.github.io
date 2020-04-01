@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz cüppeli zahmet hoca vs maymun götü
 bkz taner tolga tarlacı vs taksimin renkli siması cenk
 bkz şempanze götü vs rte
 bkz rothschilds vs rte
