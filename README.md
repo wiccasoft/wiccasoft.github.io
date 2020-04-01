@@ -3,7 +3,7 @@
 
 
 <!--
-bkz kopar beni diyen kamalcı
+bkz tarikatı clubbers
 bkz tarikatlar ile kopmaca
 bkz yılmaz güney den yılamz morgül güzellemesi
 bkz azer bülbül şiwan perwer düeti
