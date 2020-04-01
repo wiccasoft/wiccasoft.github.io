@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
 bkz tunç soyer vs süleyman soylu
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/ bkz gözleriylen soymak
 bkz mansur yavaşla hızlı bir gece vs imamaoğlanla romatik bir akşam yemeği
