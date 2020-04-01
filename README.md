@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz erdoğanı  yaptıklarıyla sevebimek
 bkz erdoğanın yaptığı iyi şeyler
 https://www.uludagsozluk.com/k/akp-nin-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/&w=bg
 https://www.uludagsozluk.com/k/erdal-tosun/&w=bg iyi sevişirdi rahmetli
