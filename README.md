@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/iban%C4%B1n-%C5%9Fartlar%C4%B1/ bkz iban etmek
 bkz şempanze götü vs yılmaz özdil
 https://www.uludagsozluk.com/k/iban-mizah%C4%B1/
 https://www.uludagsozluk.com/k/iban-suresi/&w=bg bkz temizlik ibandan gelir
