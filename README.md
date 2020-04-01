@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz reisin kasada damd var raad olun demesi
 bkz reisin kasaya damadı koyması
 bkz erdoğanı  yaptıklarıyla sevebimek
 bkz erdoğanın yaptığı iyi şeyler
