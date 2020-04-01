@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz yılamz erdoğan vs cem yılmaz
 bkz sadri alışık yılmaz güney dostluğu
 bkz ayhan ışıkın cem yılmazla barışması
 bkz levent kırcanın yılmaz güneye kürt fırsatçı demesi
