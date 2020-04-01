@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz macun kaplıcalının makyajsız fotosu
 https://www.uludagsozluk.com/k/tek-d%C3%BCnya-devleti/&w=bg bkz reisin tek ümmet devleti müjdesin vermesi
 bkz fahrettinin dokanma bıyığıma demesi
 bkz camide gel seni badelem az diyen mümin
