@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz hafız kalkışma malkışma boş işler diyen 16 yaşındaki kız
+bkz hafız kalkışma malkışma boş işler diyen 16 yaşındaki pepekalı kız
 bkz kalkışma yapan ppklıların hazin sonu
 https://www.uludagsozluk.com/k/s%C4%B1zma-yapan-7-pkkl%C4%B1-parampar%C3%A7a-oldu%C4%9Fu-video-bph/
 bkz hafız türkçülük kürkçülük boş işler diyen 16 yaşındaki kız
