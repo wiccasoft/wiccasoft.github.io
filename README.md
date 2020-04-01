@@ -2,23 +2,6 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
-<!-- 
-bkz züppeli zahmet hoca vs maymun götü
-bkz şempanze götü vs rte
-bkz rothschilds vs rte
-bkz rockefellers vs rte
-bkz bill gates vs rte
-bkz jeff bezos vs rte
-bkz 13. cumburlop maaşı vs fatih portakal maaşı
-bkz rte nin 1994 yılı ibb önündeki fotosu
-bkz cübbeli ahmet hocanın serveti vs rte nni serveti
-https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
-https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz ben diyim 10 trilyon dolar sen de 20
-https://www.uludagsozluk.com/k/akape-nin-teknolojiyi-%C3%A7ok-iyi-kullanmas%C4%B1/ 
-bkz faceook sayfamızı beğenmeyi unutmayın
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/-
-bkz rte nin beştepenin arksına mescid yapalım önerisi->
-
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
