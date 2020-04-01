@@ -9,7 +9,8 @@ bkz yılmaz güneyin kolbastı oynarken damdan düşüp poposusunu kırması
 bkz pefedekanın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
 bkz pepekalı yılmaz güneyin ak partili yılmaz morgülü tehdit etmesi
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz 13 karısınn amına yılan sokan kürt-->
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz 13 karısınn amına yılan sokan kürt
+-->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
