@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz aşka inanacım kalmadı diyen 412 yaşındaki kız
+bkz aşka inanacım kalmadı diyen 412 yaşındaki ergen vampir kız
 bkz annesine bağıran ergen kız
 bkz 13 .cumburlop maaşı vs fatih portakal maaşı
 bkz osmanlının gümbür gümbür gelmesi
