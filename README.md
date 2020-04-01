@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz jeff bezos x 10
 bkz reisin kasaya damadı koydum raad ol demesi
 https://www.uludagsozluk.com/k/ka%C3%A7acaklar/ bkz kamalcılara para koklatmayıp kaçmak
 https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz 10 trilyon dolar
