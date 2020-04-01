@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz yılmaz güneyin ölü taklidi yapması
 bkz yılmaz güney in karılarının amına yılan soktuğu iddaları
 bkz yılmaz güney vs yılmaz erdoğan
 bkz yılmaz erdoğanın pepekalı olduğu gerçeği
