@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+https://sweetmandarine.uludagsozluk.com bkz tatlı mandalina vs fatih portakal
 bkz şemapnze götü vs berkin elvan
 bkz yılmaz morgülün pepekanın dağ kadrosunu katılması
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
