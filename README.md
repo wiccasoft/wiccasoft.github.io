@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz fahrettinin dokanma bıyığıma demesi
 bkz camide gel seni badelem az diyen mümin
 https://www.uludagsozluk.com/k/cuma-namaz%C4%B1n%C4%B1-avatar%C4%B1na-k%C4%B1ld%C4%B1ran-m%C3%BCmin/
 https://www.uludagsozluk.com/e/43093101/
