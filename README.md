@@ -1,43 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
-
-<!--
-bkz ali kınık dinleyen inşaatta çalışan kız
-bkz neşet ertaş ibrahim tatlıses düeti
-bkz yılmaz morgülün yılmaz güneye öpücem demesi
-bkz yılmaz güneyin yılamz morgüle yaklaşma demesi
-bkz yılamz güney karıalrın amına yılan sokuyor yalanı
-bkz yılmaz erdoğandan yılamz güney güzellemesi
-bkz yılamz güneyin yılmaz morgüle top demesi
-bkz yılmaz güneyin bana yaklaşma amına yılan sokarım demesi
-https://www.uludagsozluk.com bkz deep web in deepsiz çukuru level 999
-https://www.uludagsozluk.com/k/zorla-t%C3%BCrban%C4%B1-%C3%A7%C4%B1kar%C4%B1lmaya-%C3%A7al%C4%B1%C5%9F%C4%B1lan-m%C3%BCmine/
-https://www.uludagsozluk.com/k/toplumda-d%C4%B1%C5%9Flanan-insan/ bkz sağlık bakanı
-https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakan%C4%B1n%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-bana-yakla%C5%9Fma-uyar%C4%B1s%C4%B1/
-https://www.uludagsozluk.com/k/toplumda-d%C4%B1%C5%9Flanan-insan/ bkz topunuzun amk
-bkz sağlık bakaının bıyıklarını ısırıp şapşik kime yaklaşim demek
-https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakan%C4%B1n%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-bana-yakla%C5%9Fma-uyar%C4%B1s%C4%B1/
-https://twitter.com/depopiler/status/1183380479577341953
-https://www.youtube.com/watch?v=Ww5jScH4fXY arayan kaynayın tren yapacaz
-bkz tarikatı clubbers
-bkz tarikatlar ile kopmaca
-bkz yılmaz güney den yılamz morgül güzellemesi
-bkz azer bülbül şiwan perwer düeti
-bkz temizlik ibandan gelir
-bkz geğirip badelim mi seni diyen menzil sofisi
-bkz yılmaz erdoğandan yılmaz güney güzellmesi
-bkz yılmaz güneyin yılmaz morgülün üstüne yürümesi
-bkz erdoğanın ben cumburlopum diyip iban isteyenlere itibar etmeyin demesi
-bkz millet hizmet beklerken kk nın osura osura uyuması
-bkz pfdk nın türk futbolunu davar güder gibi gütmesi
-bkz diyanetin hafız o kupon uatar demesi
-bkz diyanet vs şempanze götü
-bkz diyanetin yapılan bağışlar yılna kanı yapılacak fetvası
-bkz fahrettin kocanın wuhan hayvan pazarında yılna kanı almayın uyarısı
-bkz süleyman soylunun wuhan hayvan pazarından yılan kanı alması
--->
-
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
