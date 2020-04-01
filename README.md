@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
-<!-- https://www.uludagsozluk.com/e/43090635/ lol-->
+<!-- https://www.uludagsozluk.com/e/43090635/ lol
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz karısının amına yılan sokan adanalı
+-->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
