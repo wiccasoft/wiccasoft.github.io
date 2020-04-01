@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+https://www.uludagsozluk.com/k/zorla-t%C3%BCrban%C4%B1-%C3%A7%C4%B1kar%C4%B1lmaya-%C3%A7al%C4%B1%C5%9F%C4%B1lan-m%C3%BCmine/
+https://www.uludagsozluk.com/k/c%C3%BCppeli-ahmetin-%C3%BCmrecileri-su%C3%A7lamas%C4%B1/
 bkz geğirip badelem mi seni diyen menzil sofisi
 bkz 1 nisan cüppeli hoca yayını vaazı
 bkz kafasına cüppe saplanan adam
