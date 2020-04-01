@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ayhan ışıkın cem yılmazla barışması
 bkz levent kırcanın yılmaz güneye kürt fırsatçı demesi
 bkz yılmaz güneyin yılmaz morgülü tehdit etmesi
 bkz ethem sancakın ethem sarısülüke gavat demesi
