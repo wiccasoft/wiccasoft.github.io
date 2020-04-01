@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz menzilde geğirip badeleyemmi seni deyen sofi
 bkz etyen mahçupyanın et yeyenden bi bok olma demesi
 bkz ethem sancak ın ethem sarısülüke sülük demesi
 bkz ethem sarısülük vs ethem sancak
