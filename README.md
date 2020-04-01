@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz levent kırcanın yılmaz güneye kürt fırsatçı demesi
 bkz yılmaz güneyin yılmaz morgülü tehdit etmesi
 bkz ethem sancakın ethem sarısülüke gavat demesi
 bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
