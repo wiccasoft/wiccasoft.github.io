@@ -3,17 +3,8 @@
 
 
 <!-- 
-https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunanların polis soyadlı olması
 bkz hafız aşka maşk boş işler diyen 16 yaşındaki kız
-https://www.uludagsozluk.com/k/benim-a%C5%9Fka-inanc%C4%B1m-kalmad%C4%B1-diyen-16-ya%C5%9F%C4%B1ndaki-k%C4%B1z/&w=bg
-bkz hafız benim aşka inancım yok diyen 16 yaşındaki kız
-bkz hafız naptın kupon yattımı yine diyen 16 yaşındaki kız
-https://www.uludagsozluk.com/k/k%C3%BCrt-dili-ve-edebiyat%C4%B1/&w=bg bkz kürtlerin 5000 yıllık tarihi
-https://www.uludagsozluk.com/k/i%C5%9Fte-geldik-gidiyoruz-diyen-16-ya%C5%9F%C4%B1ndaki-k%C4%B1z/&w=bg
-bkz aşka inanacım kalmadı diyen 412 yaşındaki ergen vampir kız
-bkz annesine bağıran ergen kız
-bkz 13 .cumburlop maaşı vs fatih portakal maaşı
-bkz osmanlının gümbür gümbür gelmesi
+https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunanların polis soyadlı olması
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
 bkz tunç soyer vs süleyman soylu
