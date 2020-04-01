@@ -3,6 +3,7 @@
 
 
 <!--
+bkz yılmaz güneyin yılamz morgüle yaklaşma demesi
 bkz yılamz güney karıalrın amına yılan sokuyor yalanı
 bkz yılmaz erdoğandan yılamz güney güzellemesi
 bkz yılamz güneyin yılmaz morgüle top demesi
