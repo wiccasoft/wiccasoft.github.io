@@ -1,13 +1,11 @@
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=REGR8-01NUU )
 
 <!-- 
-https://www.uludagsozluk.com/k/akp-%C4%B1sparta-milletvekilinin-corona-a%C3%A7%C4%B1klamas%C4%B1/
 https://www.uludagsozluk.com/k/iban-mizah%C4%B1/
 https://www.uludagsozluk.com/k/iban-suresi/&w=bg bkz temizlik ibandan gelir
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-art%C4%B1k-%C3%A7ok-baymas%C4%B1/
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 https://www.youtube.com/watch?v=5V0f6yH6o9w bkz şeytanın en büyük hilesi
-https://www.youtube.com/watch?v=sgt6lcGjK2E namazda riya
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg 
