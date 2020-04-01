@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz şempanze götü vs fesli bunak
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz şempenze götü vs soylu
 https://www.uludagsozluk.com/k/arap%C3%A7%C4%B1l%C4%B1k/&w=bg bkz kürtçü ve arapçıların olmadığı türküyü 
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg şempanze götü vs mısıropğlan-->
