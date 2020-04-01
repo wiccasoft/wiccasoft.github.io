@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ethem sarısülük vs ethem sancak
 bkz organize işler süpermen vs yılamz güney
 bkz yılmaz güneyin ölü taklidi yapması
 bkz yılmaz güney in karılarının amına yılan soktuğu iddaları
