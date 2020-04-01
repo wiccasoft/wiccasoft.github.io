@@ -3,6 +3,7 @@
 
 
 <!--
+bkz azer bülbül şiwan perwer düeti
 bkz temizlik ibandan gelir
 bkz geğirip badelim mi seni diyen menzil sofisi
 bkz yılmaz erdoğandan yılmaz güney güzellmesi
