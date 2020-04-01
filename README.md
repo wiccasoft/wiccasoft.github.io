@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)](https://www.youtube.com/watch?v=1f8WZ1cu7kY )
 
 <!-- 
+https://www.uludagsozluk.com/k/zorla-t%C3%BCrban%C4%B1-%C3%A7%C4%B1kar%C4%B1lmaya-%C3%A7al%C4%B1%C5%9F%C4%B1lan-m%C3%BCmine/&w=gd
 bkz süleyman soylu vs tunçsoyer
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/
