@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz ümmetin lideri adam gibi adam -->
+
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
