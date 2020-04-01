@@ -6,7 +6,8 @@ bkz yılmaz güney vs yılmaz morgül
 bkz şempanze götü vs fatih portakal götü
 bkz pfdknın türk futbolun davar güder gibi gütmesi
 bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam
-bkz mansur yavaş süleyman soylu yılmaz güney -->
+bkz süleyman soylu vs süleyman soysuz 
+-->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
