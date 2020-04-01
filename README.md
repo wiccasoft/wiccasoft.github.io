@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/ bkz atacücü gözleri
 bkz fatih portaklın gözleri vs şempanzenin gözleri
 bkz şempanze götü vs fesli bunak
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz şempenze götü vs soylu
