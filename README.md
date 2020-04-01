@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz resi damadın penis yüzüğünü takıyor yalanı
 bkz yılmaz güney vs yılmaz morgül
 bkz kadirmısıroğlu.com u satın alıp netkadir e çevirmek
 bkz leonardo di caprio vs şempanze götü
