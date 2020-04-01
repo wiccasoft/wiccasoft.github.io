@@ -3,7 +3,7 @@
 
 
 <!--
-bkz ibrahim tatlısesten şiwan perwer güzellemesi
+bkz yılmaz güney den yılamz morgül güzellemesi
 bkz azer bülbül şiwan perwer düeti
 bkz temizlik ibandan gelir
 bkz geğirip badelim mi seni diyen menzil sofisi
