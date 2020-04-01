@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
-https://www.uludagsozluk.com/k/her-ba%C5%9Far%C4%B1s%C4%B1z-erke%C4%9Fin-arkas%C4%B1nda-bir-kad%C4%B1n-vard%C4%B1r/&w=bg zuahhahahaha
+https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%A7ak%C4%B1r/&w=bg bkz kurtlar vadisi çakır
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
 bkz 13 karısının amına yılan sokan adanalı
