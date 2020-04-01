@@ -3,7 +3,7 @@
 
 <!-- 
 bkz fatih portakal vs şempanze götü
-https://sweetmandarine.uludagsozluk.com bkz solcuların maymun götlü kürtlerin korkulu rüyası
+https://sweetmandarine.uludagsozluk.com bkz şempanze götü sıratlı kamalcı
 bkz pfsk nın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=gd bkz 13 karısının amına yılna sokan adanalı
