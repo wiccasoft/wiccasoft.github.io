@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+bkz adanalı dayanışması
 bkz yılmaz erdoğanın yılmaz güneyi savunması
 bkz pefedekanın paylaştığı davarsınız ki güdüyoruz temalı paylaşım
 bkz pefedekanın türk futbolunu davar güder gibi gütmesi
