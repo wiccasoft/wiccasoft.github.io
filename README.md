@@ -1,53 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
-
-<!--
-bkz ibanın şartları 
-bkz tengir budunun ayar manyağı yaptığı akboylar
-bkz sitede basket oynayan ergen irisi
-bkz menzilde geğirip badeleyem mi seni diyen sofi
-bkz reis temizlik ibandan gelir dedi diye kuduran tipler
-bkz reis iban istedi diye kduran tip
-bkz yılamz güneyin kolbastı oynarken çatıdan düşüp popsunu kırması
-bkz uşak valisinin beyin yakan bahçevanı
-bkz menzilde geğirip badeleyemmi seni deyen sofi
-bkz etyen mahçupyanın et yeyenden bi bok olma demesi
-bkz ethem sancak ın ethem sarısülüke sülük demesi
-bkz ethem sarısülük vs ethem sancak
-bkz organize işler süpermen vs yılmsz güney
-bkz yılmaz güneyin yılmaz morgülü tehdit etmesi
-bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
-bkz süleyman soylunun ist ank izmirin nefesini kesmesi
-bkz fatih tezcan murat karayılan güzellmesi
-bkz yılmaz güneyin 13 karısının amına yılan sokması
-bkz hafız ben kaçıyom pepekamı üsmeyin diyen 16 yaşındaki kız
-bkz hafız sızma bizim işimiz diyen 16 yaşındaki pepekalı kız
-bkz kalkışma yapan ppklıların hazin sonu
-https://www.uludagsozluk.com/k/s%C4%B1zma-yapan-7-pkkl%C4%B1-parampar%C3%A7a-oldu%C4%9Fu-video-bph/
-bkz hafız türkçülük kürkçülük boş işler diyen 16 yaşındaki pepekalı kız
-bkz vexillarius-of-theodopolis diye nick alan ülkücü 
-bkz hafız aşka maşk boş işler diyen 16 yaşındaki kız
-https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunanların polis soyadlı olması
-bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
-bkz tunç soyer vs süleyman soylu
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/ bkz gözleriylen soymak
-bkz mansur yavaşla hızlı bir gece vs imamaoğlanla romatik bir akşam yemeği
-https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg bkz gözleriylen soymak
-bkz benim aşka inanacım kalmadı diyen 11 yaşındaki kız
-https://www.uludagsozluk.com/k/benim-a%C5%9Fka-inanc%C4%B1m-kalmad%C4%B1-diyen-16-ya%C5%9F%C4%B1ndaki-k%C4%B1z/&w=bg
-bkz atacücünün tece şeyhler şıhlar memleketi değildir lafı
-https://www.uludagsozluk.com/k/annesine-ba%C4%9F%C4%B1ran-ergen-k%C4%B1z/&w=bg bkz abisinin boxerını giyen kız
-https://www.uludagsozluk.com/k/allah-vs-zeus/&w=bg bkz zeusun hoplata hoplata sikeceği versus
-https://www.uludagsozluk.com/k/seksenler-alper/ bkz alper tunga öldi mi 
-https://www.uludagsozluk.com/k/salg%C4%B1n-yay%C4%B1l%C4%B1yor-%C5%9Feyhler-nerede/
-https://www.uludagsozluk.com/k/gavs/&w=bg bkz gavsını corona virsüsünü durdurmaması
-https://www.uludagsozluk.com/k/gavsın-hala-korona-virüsü-durduramaması/&w=gd
-https://www.uludagsozluk.com/k/tarkan-vs-mustafa-sandal/&w=bg bkz atarın oğlu tarkan
-https://www.uludagsozluk.com/k/trabzonsporlu-k%C4%B1z-iticili%C4%9Fi/&w=bg lol
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=gd bkz 13 karısının amına yılan sokan adanalı -->
-
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
