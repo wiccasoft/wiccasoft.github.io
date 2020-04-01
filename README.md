@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz vexillarius-of-theodopolis diye nick alan ülkücü 
+bkz vexillarius-of-theodopolis diye nick alan ülkücü faşo
 bkz hafız aşka maşk boş işler diyen 16 yaşındaki kız
 https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunanların polis soyadlı olması
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
