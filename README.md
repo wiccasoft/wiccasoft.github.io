@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz jeff bezosun ortalık yatışsın türkiyeyi satın alırım demesi
 bkz damadın ümrecileri savunması
 bkz reisin damadı kasaya oturtması
 bkz regl olunca amdan kan gelen dönem
