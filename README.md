@@ -1,9 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=REGR8-01NUU )
 
-
 <!-- 
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
-bkz süleyman soylunun wuhan hayvan pazarından yılna kanı almayın uyarısı
+bkz süleyman soylunun wuhan hayvan pazarından yılan kanı almayın uyarısı
 bkz fatih portakalın kolbastı oynarken totosunu kırması
 bkz şempanze götü vs fatih portakal
 https://www.uludagsozluk.com/k/umreciler/&w=bg bkz iban edenler
