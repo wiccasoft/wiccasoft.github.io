@@ -4,8 +4,7 @@
 <!-- 
 bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
-bkz kurtlar vadisi seyfo dayı 
-bkz duran emmi aslan akbeyi hoplattı mı sorunsalı
+bkz duran emmi seyfo dayıyı hoplattı mı sorunsalı
 https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%A7ak%C4%B1r/&w=bg bkz kurtlar vadisi çakır
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
