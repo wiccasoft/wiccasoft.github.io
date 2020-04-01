@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz cüppeli ahmet hocanın cuma namazı eleştrisi
+https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca-n%C4%B1n-vip-cuma-namaz%C4%B1-ele%C5%9Ftirisi/
 bkz reisin kasada damd var raad olun demesi
 bkz reisin kasaya damadı koyması
 bkz erdoğanı  yaptıklarıyla sevebimek
