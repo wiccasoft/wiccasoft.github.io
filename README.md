@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 bkz süleyman soylunun wuhan hayvan pazarından yılna kanı almayın uyarısı
 bkz fatih portakalın kolbastı oynarken totosunu kırması
 bkz şempanze götü vs fatih portakal
