@@ -1,26 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
-<!-- 
-bkz gak parti özel yayını
-bkz galk tv müjdat gezen yayını
-bkz 13. cumburlop maaşına göz dikmek
-bkz 13. cumburlop maaşı vs fatih portakal maaşı
-bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
-bkz kamalcılara devletin fakirler zenginleri öldürmesin diye olduğunu bilale anlatır gibi anlatmak
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
-bkz fatih portakaa vs şemapanze götü
-bkz fatih portakal ne zaman evrim geçirecek sorunalı
-bkz fatih portakalın bilale anlatır gibi haber sunması asdasdasdasd
-bkz fatih portakalın anlamadıysan bi daha anlatim hareketleri
-bkz fatih portakalın haber anlatırken sağ omzunu öne atıp sol eliyle anladın mı hareketi
-https://www.uludagsozluk.com/e/43090635/ lol
-https://www.uludagsozluk.com/k/mehmet-%C3%B6z/&w=bg
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz annying orange
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz karısının amına yılan sokan adanalı
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz yüzüklerin efendisi
--->
-
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
