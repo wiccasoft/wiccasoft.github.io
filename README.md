@@ -6,7 +6,7 @@ bkz süleyman soylunun wuhan hayvan pazarından yılan kanı alması
 bkz süleyman soylunun pepeka kampına sızma yapması
 bkz tunç soyerin gözleriylen soyması
 https://sweetmandarine.uludagsozluk.com bkz tatlı mandalina vs fatih portakal
-bkz şemapnze götü vs berkin elvan
+bkz şempanze götü vs berkin elvan
 bkz yılmaz morgülün pepekanın dağ kadrosunu katılması
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
