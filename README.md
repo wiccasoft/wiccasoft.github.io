@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz erdoğann 10 trilyon doları isveç bankasına yatırması
 bkz imamaoğlu inşaatın borsa da fişeklemesi
 bkz ben diyim 10 trilyon dolar sen de 10 yüz mülyün yürü
 https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz jeff bezos x 10
