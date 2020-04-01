@@ -3,6 +3,7 @@
 
 
 <!--
+bkz erdoğanın ben vumvurlopum diyip iban isteyenlere itibar etmeyin demesi
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-iyi-%C5%9Feyler/&w=bg
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
