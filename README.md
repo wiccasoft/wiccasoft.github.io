@@ -4,7 +4,6 @@
 
 <!-- 
 bkz cüppeli zahmet hoca vs maymun götü
-bkz taner tolga tarlacı vs taksimin renkli siması cenk
 bkz şempanze götü vs rte
 bkz rothschilds vs rte
 bkz rockefellers vs rte
