@@ -1,11 +1,9 @@
-[![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=5V0f6yH6o9w )
+[![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=REGR8-01NUU )
 
 <!-- 
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 https://www.youtube.com/watch?v=5V0f6yH6o9w bkz şeytanın en büyük hilesi
 https://www.youtube.com/watch?v=sgt6lcGjK2E namazda riya
-https://www.uludagsozluk.com/k/zorla-t%C3%BCrban%C4%B1-%C3%A7%C4%B1kar%C4%B1lmaya-%C3%A7al%C4%B1%C5%9F%C4%B1lan-m%C3%BCmine/&w=gd
-bkz süleyman soylu vs tunçsoyer
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg 
