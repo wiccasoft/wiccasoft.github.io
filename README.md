@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ethem sancak ın ethem sarısülüke sülük demesi
 bkz ethem sarısülük vs ethem sancak
 bkz organize işler süpermen vs yılamz güney
 bkz yılmaz güneyin ölü taklidi yapması
