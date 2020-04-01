@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg bkz badeci hoca
 bkz ahmet hakanın ekranı 4 e bölmesi
 bkz halk tv uğur dündar müjdat gezen dayanışması
 bkz halk tv müjdat gezen özel programı
