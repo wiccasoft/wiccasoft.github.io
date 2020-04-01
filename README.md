@@ -4,6 +4,7 @@
 
 <!--
 bkz ibanın şartları 
+bkz tengir budunun ayra manyağı yaptığı akboylar
 bkz sitede basket oynayan ergen irisi
 bkz menzilde geğirip badeleyem mi seni diyen sofi
 bkz reis temizlik ibandan gelir dedi diye kuduran tipler
