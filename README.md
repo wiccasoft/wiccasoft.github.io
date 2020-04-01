@@ -2,11 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
-bkz pefedekanın türk futbolunu davar güder gibi gütmesi
-bkz adanalı dayanışması
 bkz yılmaz erdoğanın yılmaz güneyi savunması
-bkz yılamz güneyi kolbastı oynarken damdan düşüp poposusunu kırması
-bkz pefedekanın paylaştığı davarsınız ki güdüyoruz temalı paylaşım
+bkz yılmaz güneyin kolbastı oynarken damdan düşüp poposusunu kırması
 bkz pefedekanın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
 bkz pepekalı yılmaz güneyin ak partili yılmaz morgülü tehdit etmesi
