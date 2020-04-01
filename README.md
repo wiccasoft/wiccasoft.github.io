@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg bkz gözleriylen soymak
 bkz benim aşka inanacım kalmadı diyen 11 yaşındaki kız
 https://www.uludagsozluk.com/k/benim-a%C5%9Fka-inanc%C4%B1m-kalmad%C4%B1-diyen-16-ya%C5%9F%C4%B1ndaki-k%C4%B1z/&w=bg
 bkz atacücünün tece şeyhler şıhlar memleketi değildir lafı
