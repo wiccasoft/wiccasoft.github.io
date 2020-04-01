@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+https://www.uludagsozluk.com/k/arda-kural/&w=bg bkz arda turan yancısı
 bkz 1 nisan 2020 reis yardım paralarıyla damada penis yüzüğü aldığı yalanı
 bkz 31 mart 2020 bakan varankın altın varanklı küvet pozunun fotoşok çıkması
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz ümmetin lideri adam gibi adam -->
