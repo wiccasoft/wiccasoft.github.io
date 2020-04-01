@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
-bkz şempanze götü vs cübbeli kadir mısıroğlu
+bkz şempanze götü vs cübbeli kadir hoca
 bkz fatih portakalın ikinci atacücü olması
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/ bkz atacücü gözleri
 bkz fatih portaklın gözleri vs şempanzenin gözleri
