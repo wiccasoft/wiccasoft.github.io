@@ -3,6 +3,7 @@
 
 
 <!--
+https://twitter.com/depopiler/status/1183380479577341953
 https://www.youtube.com/watch?v=Ww5jScH4fXY arayan kaynayın tren yapacaz
 bkz tarikatı clubbers
 bkz tarikatlar ile kopmaca
