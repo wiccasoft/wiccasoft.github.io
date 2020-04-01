@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz tunç soyer vs süleyman soylu
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-g%C3%B6zleri/ bkz gözleriylen soymak
 bkz mansur yavaşla hızlı bir gece vs imamaoğlanla romatik bir akşam yemeği
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg bkz gözleriylen soymak
