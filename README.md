@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+https://www.uludagsozluk.com/k/izmir-erke%C4%9Fi/&w=bg bkz izmirli esmer ve yavşak tayfun
 bk şaka maka parayı basıp rte dini ülkesinden parsel parsel toprak alacağım gerçeği
 bkz jeff bezosun ortalık yatışsın türkiyeyi satın alırım demesi
 bkz damadın ümrecileri savunması
