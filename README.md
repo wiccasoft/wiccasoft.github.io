@@ -2,9 +2,7 @@
 
 
 <!-- 
-bkz süleyman soylunun personel alımını durdurması
-bzk süleyman soylu vs tunç soyer
-bkz iban esprisi yapan 50 yaşındaki dayı
+bkz süleyman soylunun wuhan hayvan pazarından yılna kanı almayın uyarısı
 bkz fatih portakalın kolbastı oynarken totosunu kırması
 bkz şempanze götü vs fatih portakal
 https://www.uludagsozluk.com/k/umreciler/&w=bg bkz iban edenler
