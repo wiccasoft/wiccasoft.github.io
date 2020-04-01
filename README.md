@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- https://www.uludagsozluk.com/e/43090635/ lol
+https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz party in the house
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz rte nin kuklası portakal fatih 
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz karısının amına yılan sokan adanalı
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz yüzüklerin efendisi
