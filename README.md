@@ -2,7 +2,6 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
-https://www.uludagsozluk.com/k/mehmet-%C3%B6z/&w=bg
 bkz gak parti özel yayını
 bkz galk tv müjdat gezen yayını
 bkz 13. cumburlop maaşına göz dikmek
@@ -16,6 +15,7 @@ bkz fatih portakalın bilale anlatır gibi haber sunması asdasdasdasd
 bkz fatih portakalın anlamadıysan bi daha anlatim hareketleri
 bkz fatih portakalın haber anlatırken sağ omzunu öne atıp sol eliyle anladın mı hareketi
 https://www.uludagsozluk.com/e/43090635/ lol
+https://www.uludagsozluk.com/k/mehmet-%C3%B6z/&w=bg
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz annying orange
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz karısının amına yılan sokan adanalı
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz yüzüklerin efendisi
