@@ -4,6 +4,7 @@
 <!--
 bkz adanalı dayanışması
 bkz yılmaz erdoğanın yılmaz güneyi savunması
+bkz yılamz güneyi kolbastı oynarken damdan düşüp poposusunu kırması
 bkz pefedekanın paylaştığı davarsınız ki güdüyoruz temalı paylaşım
 bkz pefedekanın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-t%C3%BCrk-solunu-davar-g%C3%BCder-gibi-g%C3%BCtmesi/&w=bg
