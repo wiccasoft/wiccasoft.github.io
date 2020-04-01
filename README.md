@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz fatih portakal ne zaman evrim geçirecek sorunalı
 bkz fatih portakalın bilale anlatır gibi haber sunması asdasdasdasd
 bkz fatih portakalın anlamadıysan bi daha anlatim hareketleri
 bkz fatih portakalın haber anlatırken sağ omzunu öne atıp sol eliyle anladın mı hareketi
