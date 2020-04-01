@@ -3,7 +3,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/toplumda-d%C4%B1%C5%9Flanan-insan/ bkz topunuzın amk çomar sürüsü
+https://www.uludagsozluk.com/k/toplumda-d%C4%B1%C5%9Flanan-insan/ bkz topunuzun amk
 bkz sağlık bakaının bıyıklarını ısırıp şapşik kime yaklaşim demek
 https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakan%C4%B1n%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-bana-yakla%C5%9Fma-uyar%C4%B1s%C4%B1/
 https://twitter.com/depopiler/status/1183380479577341953
