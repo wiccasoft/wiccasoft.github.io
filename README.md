@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz galk tv müjdat gezen yayını
 bkz 13. cumburlop maaşına göz dikmek
 bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
