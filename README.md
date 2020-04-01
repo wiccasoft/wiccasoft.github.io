@@ -1,6 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)](https://www.youtube.com/watch?v=1f8WZ1cu7kY )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg 
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg
 -->
