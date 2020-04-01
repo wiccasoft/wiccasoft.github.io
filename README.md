@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+
 bkz züppeli ahmet hoca 1 nisan 2020 yayını
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz geğirip badelim mi seni diyen menzil sofisi
