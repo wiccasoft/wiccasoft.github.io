@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+bkz pefedekanın türk futbolunu davar güder gibi gütmesi
 bkz adanalı dayanışması
 bkz yılmaz erdoğanın yılmaz güneyi savunması
 bkz yılamz güneyi kolbastı oynarken damdan düşüp poposusunu kırması
