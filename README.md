@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=Ww5jScH4fXY arayan kaynayın tren yapacaz
 bkz tarikatı clubbers
 bkz tarikatlar ile kopmaca
 bkz yılmaz güney den yılamz morgül güzellemesi
