@@ -1,5 +1,18 @@
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=REGR8-01NUU )
 
+
+<!-- 
+bkz şempanze götü vs yılmaz özdil
+https://www.uludagsozluk.com/k/iban-mizah%C4%B1/
+https://www.uludagsozluk.com/k/iban-suresi/&w=bg bkz temizlik ibandan gelir
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-art%C4%B1k-%C3%A7ok-baymas%C4%B1/
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
+https://www.youtube.com/watch?v=5V0f6yH6o9w bkz şeytanın en büyük hilesi
+https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg 
+https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg
+-->
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
