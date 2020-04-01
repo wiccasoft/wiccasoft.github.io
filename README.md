@@ -3,6 +3,7 @@
 
 <!-- 
 bkz jeff bezos vs rte
+bkz 13. cumburlop maaşı vs fatih portakal maaşı
 https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz ben diyim 10 trilyon dolar 
 bkz rte nin serveti
 bkz cüppeli ahmet hocanın cuma namazı eleştrisi
