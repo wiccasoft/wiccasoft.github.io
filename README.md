@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz fatih portakalın haber anlatırken sağ omzunu öne atıp sol eliyle anladın mı hareketi
 https://www.uludagsozluk.com/e/43090635/ lol
 bkz fatih portakaa vs şemapanze götü
 https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz party in the house
