@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz şempanze götü vs fatih portakal
 https://www.uludagsozluk.com/k/umreciler/&w=bg bkz iban edenler
 https://www.uludagsozluk.com/k/iban%C4%B1n-%C5%9Fartlar%C4%B1/ bkz iban etmek
 bkz şempanze götü vs yılmaz özdil
