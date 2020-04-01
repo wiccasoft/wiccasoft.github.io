@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz yılmaz güneyin yılmaz morgülü tehdit etmesi
 bkz ethem sancakın ethem sarısülüke gavat demesi
 bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
 bkz süleyman soylunun ist ank izmirin nefesini kesmesi
