@@ -1,6 +1,10 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
+<!-- https://www.uludagsozluk.com/k/akape-nin-teknolojiyi-%C3%A7ok-iyi-kullanmas%C4%B1/ 
+bkz faceook sayfamızı beğenmeyi unutmayın
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/-->
+
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
 [![Image](eq/Screenshot_2020-03-30_18-54-20.png)]( https://www.youtube.com/watch?v=w8DfmZ6a_go )
