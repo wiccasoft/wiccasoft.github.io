@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
-bkz süleyman soylunun sızma yapması
+bkz süleyman soylunun pepeka kampına sızma yapması
 bkz tunç soyerin gözleriylen soyması
 https://sweetmandarine.uludagsozluk.com bkz tatlı mandalina vs fatih portakal
 bkz şemapnze götü vs berkin elvan
