@@ -4,7 +4,6 @@
 <!-- 
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
-bkz annenin iibf mezunu bi aptal olması
 bkz fatih portakaa vs şemapanze götü
 bkz fatih portakal ne zaman evrim geçirecek sorunalı
 bkz fatih portakalın bilale anlatır gibi haber sunması asdasdasdasd
