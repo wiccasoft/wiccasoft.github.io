@@ -3,6 +3,7 @@
 
 <!--
 bkz ekrem amınoğlunun yılmaz güneyi savunması
+bkz ekrem amınoğlunun kürtlerle kolbastı oynarken damdan düşüp totosunu kırması
 bkz 1 nisan 2020 yılmaz güneyim yılmaz morgülün üstüne yürümesi
 bkz pfdeka nın türk futbolunu davar güder gibi gütmesi
 bkz yılmaz güneyin murat karayılan güzellemesi
