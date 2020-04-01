@@ -1,7 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
-<!-- https://www.uludagsozluk.com/k/arap%C3%A7%C4%B1l%C4%B1k/&w=bg bkz kürtçü ve arapçıların olmadığı türküyü -->
+<!-- https://www.uludagsozluk.com/k/arap%C3%A7%C4%B1l%C4%B1k/&w=bg bkz kürtçü ve arapçıların olmadığı türküyü 
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg şempanze götü vs mısıropğlan-->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
