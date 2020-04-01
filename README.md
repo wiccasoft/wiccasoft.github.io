@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz reisin damadı kasaya oturtması
 bkz regl olunca amdan kan gelen dönem
 https://www.uludagsozluk.com/k/regl-olmadan-olu%C5%9Fan-%C3%B6dem/&w=bg
 bkz tayber doğan dan ümreci güzellemesi
