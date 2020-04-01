@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz hafız benim aşka inancım yok diyen 16 yaşındaki kız
 bkz hafız naptın kupon yattımı yine diyen 16 yaşındaki kız
 https://www.uludagsozluk.com/k/k%C3%BCrt-dili-ve-edebiyat%C4%B1/&w=bg bkz kürtlerin 5000 yıllık tarihi
 https://www.uludagsozluk.com/k/i%C5%9Fte-geldik-gidiyoruz-diyen-16-ya%C5%9F%C4%B1ndaki-k%C4%B1z/&w=bg
