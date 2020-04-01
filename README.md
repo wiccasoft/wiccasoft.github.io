@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz cüppeli ahmet hocanın ümrecileri suçlaması
+https://www.uludagsozluk.com/k/c%C3%BCppeli-ahmetin-%C3%BCmrecileri-su%C3%A7lamas%C4%B1/&w=gd
 bkz macun kaplıcalının makyajsız fotosu
 https://www.uludagsozluk.com/k/tek-d%C3%BCnya-devleti/&w=bg bkz reisin tek ümmet devleti müjdesin vermesi
 bkz fahrettinin dokanma bıyığıma demesi
