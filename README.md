@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz pfdknın türk futbolun davar güder gibi gütmesi
 bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam
 bkz mansur yavaş süleyman soylu yılmaz güney -->
 
