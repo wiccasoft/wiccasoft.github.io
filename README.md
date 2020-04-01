@@ -11,25 +11,7 @@ bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz rte nin 1994 yılı ibb önündeki fotosu
 bkz cübbeli ahmet hocanın serveti vs rte nni serveti
 https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
-https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz ben diyim 10 trilyon dolar 
-bkz rte nin serveti
-bkz cüppeli ahmet hocanın cuma namazı eleştrisi
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca-n%C4%B1n-vip-cuma-namaz%C4%B1-ele%C5%9Ftirisi/
-bkz reisin kasada damd var raad olun demesi
-bkz reisin kasaya damadı koyması
-bkz erdoğanı  yaptıklarıyla sevebimek
-bkz erdoğanın yaptığı iyi şeyler
-https://www.uludagsozluk.com/k/akp-nin-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/&w=bg
-https://www.uludagsozluk.com/k/erdal-tosun/&w=bg iyi sevişirdi rahmetli
-bkz millet hizmet para beklerken kk nın osura osura uyuması
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-iyi-%C5%9Feyler/&w=bg
-bkz erdoğann 10 trilyon doları isveç bankasına yatırması
-bkz imamaoğlu inşaatın borsa da fişeklemesi
-bkz ben diyim 10 trilyon dolar sen de 10 yüz mülyün yürü
-https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz jeff bezos x 10
-bkz reisin kasaya damadı koydum raad ol demesi
-https://www.uludagsozluk.com/k/ka%C3%A7acaklar/ bkz kamalcılara para koklatmayıp kaçmak
-https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz 10 trilyon dolar
+https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz ben diyim 10 trilyon dolar sen de 20
 https://www.uludagsozluk.com/k/akape-nin-teknolojiyi-%C3%A7ok-iyi-kullanmas%C4%B1/ 
 bkz faceook sayfamızı beğenmeyi unutmayın
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/-->
