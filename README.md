@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz ben diyim 10 trilyon dolar 
 bkz rte nin serveti
 bkz cüppeli ahmet hocanın cuma namazı eleştrisi
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca-n%C4%B1n-vip-cuma-namaz%C4%B1-ele%C5%9Ftirisi/
