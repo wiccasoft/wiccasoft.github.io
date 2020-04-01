@@ -3,8 +3,8 @@
 
 <!--
 bkz reis damada azıyla penis yüzüğünü takıyor yalanı
-bkz damadın penis yüzüğünün fotoş çıkması
-bkz süleyman soylunun 40 kamalcıyla wuhan sarayını basması
+bkz damadın penis yüzüğünün fotoşok çıkması
+bkz süleyman soylunun wuhan hayvan pazarından yılan kanı alması
 bkz süleyman soylunun pepeka kampına sızma yapması
 bkz tunç soyerin gözleriylen soyması
 https://sweetmandarine.uludagsozluk.com bkz tatlı mandalina vs fatih portakal
