@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+bkz ekrem amınoğlunun yılmaz güneyi savunması
 bkz 1 nisan 2020 yılmaz güneyim yılmaz morgülün üstüne yürümesi
 bkz pfdeka nın türk futbolunu davar güder gibi gütmesi
 bkz yılmaz güneyin murat karayılan güzellemesi
