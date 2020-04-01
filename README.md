@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/gavsın-hala-korona-virüsü-durduramaması/&w=gd
 https://www.uludagsozluk.com/k/tarkan-vs-mustafa-sandal/&w=bg bkz atarın oğlu tarkan
 https://www.uludagsozluk.com/k/trabzonsporlu-k%C4%B1z-iticili%C4%9Fi/&w=bg lol
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=gd bkz 13 karısının amına yılan sokan adanalı -->
