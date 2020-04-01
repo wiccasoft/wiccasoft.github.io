@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz pepekanın türk solunu sağını siklememesi
 bkz fatih portakal vs şempanze götü
 https://sweetmandarine.uludagsozluk.com bkz şempanze götü sıratlı kamalcı
