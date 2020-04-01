@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz mansur yavaş ı imamoğluna tercih etmek
 bkz yılmaz güney vs yılmaz morgül
 bkz şempanze götü vs fatih portakal götü
 bkz pfdknın türk futbolun davar güder gibi gütmesi
