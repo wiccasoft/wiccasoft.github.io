@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!-- 
+bkz geğirip badelim mi seni diyen menzil sofisi
 bkz imam patipler papatılsın diyen japon
 bkz züppeli ahmet hoca vs hababm sınıfı ahmet
 bkz reisin damadın penis yüzğünün azıyla takıyor yalanı
