@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz yılamz güneyin kolbastı oynarken çatıdan düşüp popsunu kırması
 bkz uşak valisinin beyin yakan bahçevanı
 bkz menzilde geğirip badeleyemmi seni deyen sofi
 bkz etyen mahçupyanın et yeyenden bi bok olma demesi
