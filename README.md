@@ -1,37 +1,6 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=83-Fy5pyP5Q )
 
-<!--
-https://www.youtube.com/watch?v=83-Fy5pyP5Q
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg bkz cübbeli badeci hoca
-bkz süleyman soylunun 8000 personeli korona testine soktuk açıklaması
-https://www.uludagsozluk.com/k/cemil-ta%C5%9Fc%C4%B1o%C4%9Flu/ bkz gay modacı
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
-https://www.uludagsozluk.com/k/bekarete-%C3%B6nem-veren-erkek/&w=bg bkz cübbeli ahmet hoca
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg bkz badeci hoca
-bkz ahmet hakanın ekranı 4 e bölmesi
-bkz halk tv uğur dündar müjdat gezen dayanışması
-bkz halk tv müjdat gezen özel programı
-bkz züppeli ahmet hoca 1 nisan 2020 yayını
-bkz millet hizmet beklerken kk nın osura osura uyuması
-bkz geğirip badelim mi seni diyen menzil sofisi
-bkz imam patipler papatılsın diyen japon
-bkz züppeli ahmet hoca vs hababm sınıfı ahmet
-bkz reisin damadın penis yüzğünün azıyla takıyor yalanı
-bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
-bkz duran emmi seyfo dayıyı hoplattı mı sorunsalı
-https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%A7ak%C4%B1r/&w=bg bkz kurtlar vadisi çakır
-https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
-bkz 13 karısının amına yılan sokan adanalı
-bkz mansur yavaş ı imamoğluna tercih etmek
-bkz yılmaz güney vs yılmaz morgül
-bkz şempanze götü vs fatih portakal götü
-bkz pfdknın türk futbolun davar güder gibi gütmesi
-bkz mansur yavaşla hızlı bir gece vs imamoğluyla romantik bir akşam
-bkz süleyman soylu vs süleyman soysuz 
--->
 
 [![Image](eq/Screenshot_2020-03-27_15-33-09.png)]( https://www.youtube.com/watch?v=XPLiJYcz1P4 )
 
