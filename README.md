@@ -3,6 +3,7 @@
 
 
 <!--
+bkz ibanın şartları 
 bkz sitede basket oynayan ergen irisi
 bkz menzilde geğirip badeleyem mi seni diyen sofi
 bkz reis temizlik ibandan gelir dedi diye kuduran tipler
