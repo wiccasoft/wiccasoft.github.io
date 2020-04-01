@@ -3,6 +3,7 @@
 
 
 <!--
+bkz temizlik ibandan gelir
 bkz yılmaz güneyin yılmaz morgülün üstüne yürümesi
 bkz erdoğanın ben cumburlopum diyip iban isteyenlere itibar etmeyin demesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
