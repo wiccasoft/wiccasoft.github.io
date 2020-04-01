@@ -2,8 +2,6 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
-bkz reis damada azıyla penis yüzüğünü takıyor yalanı
-bkz damadın penis yüzüğünün fotoşok çıkması
 bkz süleyman soylunun wuhan hayvan pazarından yılan kanı alması
 bkz süleyman soylunun pepeka kampına sızma yapması
 bkz tunç soyerin gözleriylen soyması
