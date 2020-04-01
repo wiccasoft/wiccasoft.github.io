@@ -1,7 +1,8 @@
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
-<!-- 
+<!--
+bkz ahmet hakanın ekranı 4 e bölmesi
 bkz halk tv uğur dündar müjdat gezen dayanışması
 bkz halk tv müjdat gezen özel programı
 bkz züppeli ahmet hoca 1 nisan 2020 yayını
