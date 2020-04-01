@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
 bkz süleyman soylunun ist ank izmirin nefesini kesmesi
 bkz fatih tezcan murat karayılan güzellmesi
 bkz yılmaz güneyin 13 karısının amına yılan sokması
