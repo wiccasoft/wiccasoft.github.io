@@ -5,6 +5,7 @@
 bkz jeff bezos vs rte
 bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz rte nin 1994 yılı ibb önündeki fotosu
+bkz cübbeli ahmet hocanın serveti vs rte nni serveti
 https://www.uludagsozluk.com/k/reis-in-arkas%C4%B1nda-allah-%C4%B1n-ordusu-var/
 https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg bkz ben diyim 10 trilyon dolar 
 bkz rte nin serveti
