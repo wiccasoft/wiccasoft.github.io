@@ -8,17 +8,8 @@ bkz menzilde geğirip badeleyemmi seni deyen sofi
 bkz etyen mahçupyanın et yeyenden bi bok olma demesi
 bkz ethem sancak ın ethem sarısülüke sülük demesi
 bkz ethem sarısülük vs ethem sancak
-bkz organize işler süpermen vs yılamz güney
-bkz yılmaz güneyin ölü taklidi yapması
-bkz yılmaz güney in karılarının amına yılan soktuğu iddaları
-bkz yılmaz güney vs yılmaz erdoğan
-bkz yılmaz erdoğanın pepekalı olduğu gerçeği
-bkz yılmaz erdoğan vs cem yılmaz
-bkz sadri alışık yılmaz güney dostluğu
-bkz ayhan ışıkın cem yılmazla barışması
-bkz levent kırcanın yılmaz güneye kürt fırsatçı demesi
+bkz organize işler süpermen vs yılmsz güney
 bkz yılmaz güneyin yılmaz morgülü tehdit etmesi
-bkz ethem sancakın ethem sarısülüke gavat demesi
 bkz mansur yavaşın süleyman yavaş ciğerimi söktün demesi
 bkz süleyman soylunun ist ank izmirin nefesini kesmesi
 bkz fatih tezcan murat karayılan güzellmesi
@@ -27,8 +18,8 @@ bkz hafız ben kaçıyom pepekamı üsmeyin diyen 16 yaşındaki kız
 bkz hafız sızma bizim işimiz diyen 16 yaşındaki pepekalı kız
 bkz kalkışma yapan ppklıların hazin sonu
 https://www.uludagsozluk.com/k/s%C4%B1zma-yapan-7-pkkl%C4%B1-parampar%C3%A7a-oldu%C4%9Fu-video-bph/
-bkz hafız türkçülük kürkçülük boş işler diyen 16 yaşındaki kız
-bkz vexillarius-of-theodopolis diye nick alan ülkücü faşo
+bkz hafız türkçülük kürkçülük boş işler diyen 16 yaşındaki pepekalı kız
+bkz vexillarius-of-theodopolis diye nick alan ülkücü 
 bkz hafız aşka maşk boş işler diyen 16 yaşındaki kız
 https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunanların polis soyadlı olması
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
