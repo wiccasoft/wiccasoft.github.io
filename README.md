@@ -1,7 +1,8 @@
 
-[![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
+[![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=83-Fy5pyP5Q )
 
 <!--
+https://www.youtube.com/watch?v=83-Fy5pyP5Q
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg bkz cübbeli badeci hoca
 bkz süleyman soylunun 8000 personeli korona testine soktuk açıklaması
 https://www.uludagsozluk.com/k/cemil-ta%C5%9Fc%C4%B1o%C4%9Flu/ bkz gay modacı
