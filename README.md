@@ -3,6 +3,8 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/seksenler-alper/ bkz alper tunga öldi mi 
+https://www.uludagsozluk.com/k/salg%C4%B1n-yay%C4%B1l%C4%B1yor-%C5%9Feyhler-nerede/
 https://www.uludagsozluk.com/k/gavs/&w=bg bkz gavsını corona virsüsünü durdurmaması
 https://www.uludagsozluk.com/k/gavsın-hala-korona-virüsü-durduramaması/&w=gd
 https://www.uludagsozluk.com/k/tarkan-vs-mustafa-sandal/&w=bg bkz atarın oğlu tarkan
