@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)](http://www.cumhuriyet.com.tr/video/fatih-portakaldan-erdogana-kotu-yonetmek-nasil-olurmus-ornegi-burada-1730530 )
 
 <!-- 
+bkz millet hizmet para beklerken kk nın osura osura uyuması
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-iyi-%C5%9Feyler/&w=bg
 bkz erdoğann 10 trilyon doları isveç bankasına yatırması
 bkz imamaoğlu inşaatın borsa da fişeklemesi
 bkz ben diyim 10 trilyon dolar sen de 10 yüz mülyün yürü
