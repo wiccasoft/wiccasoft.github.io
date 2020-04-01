@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+bkz reisin 13. cumburlop maaşının dekontunu göstermesi
 bkz yılmaz erdoğandan yılmaz güney salvosu
 bkz yılmaz güneyin karayılan güzellemesi
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
