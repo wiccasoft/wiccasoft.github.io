@@ -6,6 +6,7 @@ bkz galk tv müjdat gezen yayını
 bkz 13. cumburlop maaşına göz dikmek
 bkz 13. cumburlop maaşı vs fatih portakal maaşı
 bkz süleyman soylunun soyunun kıpçaklara dayandığı gerçeği
+bkz kamalcılara devletin fakirler zenginleri öldürmesin diye olduğunu bilale anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylunun-ist-ank-izmirin-nefesini-kesmesi/
 bkz fatih portakaa vs şemapanze götü
 bkz fatih portakal ne zaman evrim geçirecek sorunalı
