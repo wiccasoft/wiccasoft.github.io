@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
 
 <!--
+bkz yılmaz güneyin karayılan güzellemesi
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kürtlerl kolbastı oynayan pepekalı
 bkz ekrem amınoğlunun yılmaz güneyi savunması
