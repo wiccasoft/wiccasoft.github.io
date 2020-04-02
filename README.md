@@ -4,9 +4,8 @@
 
 <!--
 bkz muhammedin son peygamber benim demesi
-bkz tayyipi dünya lideri yapan özellikleri
-bkz tayyip erdoğanın beynini klonlayıp yapay zeka yapmak
-bkz devleti yönetibilen tek beynin tayyip erdoğan olduğu gerçeği
+bkz tayyip i dünya lideri yapan özellikleri
+bkz tayyip in beynini klonlayıp yapay zeka yapmak
 bkz tayyip erdoğan giderse devleti kim yönetecek sorunsalı
 bkz muhammedin 1 değil 3 değil 5 değil 1 kuran alana 13 deve vermesi
 https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
