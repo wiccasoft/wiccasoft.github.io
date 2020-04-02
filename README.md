@@ -4,7 +4,6 @@
 
 <!--
 bkz hz adem adam mıdır sorunsalı
-bkz adam gibi adam deyince akla gelen ilk adam
 https://www.uludagsozluk.com/k/sadece-tatildeyken-a%C3%A7%C4%B1lan-t%C3%BCrbanl%C4%B1/ bkz tayyibin kızı
 https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1ndaki-erkek/&w=bg benden 2 yaş küçük toy erkek
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamınoğlu
