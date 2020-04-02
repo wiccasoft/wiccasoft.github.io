@@ -1,6 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/sevgilisine-%C3%A7i%C3%A7ek-alan-erkek/&w=bg
+https://www.uludagsozluk.com/k/sait-k%C3%BCrdi-nin-pislikten-simsiyah-olmu%C5%9F-t%C4%B1rnaklar%C4%B1/
 https://www.uludagsozluk.com/k/d%C3%BCnya-h%C3%BCk%C3%BCmeti-kurulsa-t%C3%BCrkiye-ye-verilecek-g%C3%B6rev/
 https://medium.com/the-mission/infographic-the-web-world-who-owns-who-2b48513888e4
 https://www.uludagsozluk.com/k/fatih-portakal-ve-ekrem-imamo%C4%9Flu/
