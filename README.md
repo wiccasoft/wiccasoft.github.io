@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamınoğlu
 bkz sagopa kajmerin de dediği gibi türklerin arabesk yavşaklığından tiksinti gelmesi
 https://www.uludagsozluk.com/k/haluk-levent/&w=gd bkz sensizken ankarada reis
 https://www.uludagsozluk.com/k/house-of-the-rising-sun/&w=bg bkz dünyanın en güzel şarkısı
