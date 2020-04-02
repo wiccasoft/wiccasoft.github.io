@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+bkz rte vs einstein
 bkz onu bırakta tayyip erdoğan giderse devleti kim yönetecek öyle bir beyin var mı
 bkz muhammedin bir 3 değil 5 değil 13 karı alması
 bkz rte ikinci atacücü olduğuna göre rte giderse ikşcş rte kim olacak sorunsalı
