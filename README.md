@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz 87 iq ile hayata tututnmak
 bkz devlet hastanesine sağlam gidip böbreksiz eve dönmek
 https://eksisozluk.com/devletin-kanser-hastalarini-olume-terk-etmesi--6451526?a=popular zuahahahaha
 https://www.uludagsozluk.com/k/%C5%9Fehir-hastanelerine-kar%C5%9F%C4%B1-%C3%A7%C4%B1kan-zihniyet/
