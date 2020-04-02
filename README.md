@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+bkz devleti yönetibilen tek beynin tayyip erdoğan olduğu gerçeği
 bkz tayyip erdoğan giderse devleti kim yönetecek sorunsalı
 bkz muhammedin son peygamber benim demesi
 bkz muhammedin 1 değil 3 değil 5 değil 1 kuran alana 13 deve vermesi
