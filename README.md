@@ -5,7 +5,7 @@
 <!--
 bkz sagopa kajmerin acıların çocuğuyum temalı avemeli arabesk klipleri
 bkz mansur yavaşın ankapark süper lan bence demesi
-bkz ekrem imamoğlanın kanla istanbul çok gözel oldu eyi oldu demesi
+bkz ekrem imamoğlanın kanla istanbul çok gözel oldu eyi oldu tamam mı demesi
 bkz oytun erbaşın koronoya kafam girsin demesi
 bkz ali kınık dinleyen inşaatlarda çalışan kıllı kız
 https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri 
