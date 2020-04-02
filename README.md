@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
 <!--
+bkz kamalcıların imamoğlanla yavaşın arkasına saklanması
 bkz tayybini imamoğluyla yavaşı üstüste koyup paketlemesi
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş reis 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan%C4%B1n-%C3%BClkeyi-rezil-etti%C4%9Fi-ger%C3%A7e%C4%9Fi/&w=bg
