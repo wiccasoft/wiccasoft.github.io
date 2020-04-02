@@ -4,7 +4,7 @@
 bkz fatih portakal vs şempanze götü
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 bkz fatih portakal ne zaman evrim geçirecek sorunsalı
-bkz kamalcıların imamoğlanla yavaşın arkasına saklanması
+bkz ılık götlü kamalcıların imamoğlanla yavaşın arkasına saklanması
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
 Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
 https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
