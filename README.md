@@ -4,8 +4,7 @@
 
 <!--
 bkz mhpden ihracat olmaması
-bkz çiçek ihracat rakamları
-bkz irem çiçekin chpden ihraç edilmesi
+bkz irem çiçek in chpden ihraç edilmesi
 https://www.uludagsozluk.com/k/irem-%C3%A7i%C3%A7ek-in-chp-den-ihra%C3%A7-edilmesi/
 bkz arda turan vs arda kural
 bkz muhammedin zeyidin oğluyla evlenmesi
