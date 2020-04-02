@@ -2,10 +2,11 @@
 
 <!--
 bkz kamalcıların imamoğlanla yavaşın arkasına saklanması
-bkz tayybini imamoğluyla yavaşı üstüste koyup paketlemesi
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş saçın başın dağılmasın reis 
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan%C4%B1n-%C3%BClkeyi-rezil-etti%C4%9Fi-ger%C3%A7e%C4%9Fi/&w=bg
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
+https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
+Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
+https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
+https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekas%C4%B1/
+bkz fatih şempanze suratlı portakal ın kendini muhalefet lideri sanması
 -->
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
