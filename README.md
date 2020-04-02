@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!--
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz mansur yavaş 
 bkz fatih portakal vs şempanze götü
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 bkz fatih portakal ne zaman evrim geçirecek sorunsalı
