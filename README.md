@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg 
 https://www.uludagsozluk.com/k/473-su%C3%A7-kayd%C4%B1-olan-10-ya%C5%9F%C4%B1ndaki-%C3%A7ocuk/ bkz atacan kayalar
 bkz muhammedin son peygamber benim demesi
