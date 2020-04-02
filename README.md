@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/lityum-iyon-pil-vs-lityum-polimer-pil/
 bkz sagopa kajmerin acıların çocuğuyum temalı avemeli arabesk klipleri
 bkz mansur yavaşın ankapark süper lan bence demesi
 bkz ekrem imamoğlanın kanla istanbul çok gözel oldu eyi oldu tamam mı demesi
