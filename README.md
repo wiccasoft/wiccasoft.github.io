@@ -1,10 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
-bkz belediyeler suya ne katıyor sorunsalı
-https://eksisozluk.com/devletin-kanser-hastalarini-olume-terk-etmesi--6451526?a=popular zuahhahaah
+https://eksisozluk.com/devletin-kanser-hastalarini-olume-terk-etmesi--6451526?a=popular zuahahahaha
 https://www.uludagsozluk.com/k/%C5%9Fehir-hastanelerine-kar%C5%9F%C4%B1-%C3%A7%C4%B1kan-zihniyet/
-https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg bkz abdul muttap bin hamdi
 https://www.uludagsozluk.com/k/kafas%C4%B1na-bim-po%C5%9Feti-ge%C3%A7irip-yakan-%C3%A7ocuk/
 https://www.uludagsozluk.com/k/1-70-lik-boyuyla-rus-kar%C4%B1-pe%C5%9Fine-ko%C5%9Fan-tip/
 bkz yılmaz morgülün yılmaz güneye yürümesi
