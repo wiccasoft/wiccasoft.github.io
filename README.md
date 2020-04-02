@@ -1,6 +1,9 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
-<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş reis -->
+<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş reis 
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan%C4%B1n-%C3%BClkeyi-rezil-etti%C4%9Fi-ger%C3%A7e%C4%9Fi/&w=bg
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
+-->
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
