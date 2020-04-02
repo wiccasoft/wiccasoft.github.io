@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!-- 
+bkz habertürk moderatörleri vs ahmet hakan vs maymun kulaklı
 bkz müjdat gezen vs deniz gemiş
 bkz lalegül tv vs halk tv vs btv
 bkz fatih portakal vs şempanze götü
