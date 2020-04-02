@@ -2,48 +2,6 @@
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
-<!--
-https://www.uludagsozluk.com/k/sadece-tatildeyken-a%C3%A7%C4%B1lan-t%C3%BCrbanl%C4%B1/ bkz tayyibin kızı
-https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1ndaki-erkek/&w=bg benden 2 yaş küçük toy erkek
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamınoğlu
-bkz sagopa kajmerin de dediği gibi türklerin arabesk yavşaklığından tiksinti gelmesi
-https://www.uludagsozluk.com/k/haluk-levent/&w=gd bkz sensizken ankarada reis
-https://www.uludagsozluk.com/k/house-of-the-rising-sun/&w=bg bkz dünyanın en güzel şarkısı
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs-biyolojik-sald%C4%B1r%C4%B1s%C4%B1nda-mant%C4%B1k-hatas%C4%B1/ lol
-https://www.uludagsozluk.com/k/lityum-iyon-pil-vs-lityum-polimer-pil/
-https://www.uludagsozluk.com/k/trabzonsporlu-k%C4%B1z-iticili%C4%9Fi/&w=bg lol
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz 87 iq ile hayata tutunmak
-bkz devlet hastanesine sağlam gidip böbreksiz eve dönmek
-https://eksisozluk.com/devletin-kanser-hastalarini-olume-terk-etmesi--6451526?a=popular zuahahahaha
-https://www.uludagsozluk.com/k/%C5%9Fehir-hastanelerine-kar%C5%9F%C4%B1-%C3%A7%C4%B1kan-zihniyet/
-https://www.uludagsozluk.com/k/kafas%C4%B1na-bim-po%C5%9Feti-ge%C3%A7irip-yakan-%C3%A7ocuk/
-https://www.uludagsozluk.com/k/1-70-lik-boyuyla-rus-kar%C4%B1-pe%C5%9Fine-ko%C5%9Fan-tip/
-bkz yılmaz morgülün yılmaz güneye yürümesi
-https://www.uludagsozluk.com/k/sevgilisine-%C3%A7i%C3%A7ek-alan-erkek/&w=bg
-https://www.uludagsozluk.com/k/sait-k%C3%BCrdi-nin-pislikten-simsiyah-olmu%C5%9F-t%C4%B1rnaklar%C4%B1/
-https://www.uludagsozluk.com/k/d%C3%BCnya-h%C3%BCk%C3%BCmeti-kurulsa-t%C3%BCrkiye-ye-verilecek-g%C3%B6rev/
-https://medium.com/the-mission/infographic-the-web-world-who-owns-who-2b48513888e4
-https://www.uludagsozluk.com/k/fatih-portakal-ve-ekrem-imamo%C4%9Flu/
-https://www.uludagsozluk.com/k/bana-yakla%C5%9Fma/&w=bg
-http://www.kanalb.com.tr/neden.php
-https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
-Foxy news :TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
-https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
-https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekas%C4%B1/
-bkz 13. cumburlop maaşı vs fatih şempanze portakal maaşı
-bkz fatih şempanze suratlı portakal ın kendini muhalefet lideri sanması
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz şempanze götü suratlı muhalefet lideri
-https://www.uludagsozluk.com/k/bir-insan%C4%B1n-kusurlar%C4%B1na-ra%C4%9Fmen-ona-a%C5%9F%C4%B1k-olmak/
-bkz tanrı kompleksi
-bkz fatih portakal vs şempanze
-bkz fatih portakal ne zaman evrim geçirecek sorunsalı
-bkz habertürk moderatörleri vs ahmet hakan vs maymun kulaklı
-bkz müjdat gezen vs deniz gemiş
-bkz lalegül tv vs halk tv vs btv
-bkz fatih portakal vs şempanze götü
-bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
-https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/ -->
-
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=REGR8-01NUU )
