@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!-- 
+https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekas%C4%B1/
 bkz 13. cumburlop maaşı vs fatih şempanze portakal maaşı
 bkz fatih şempanze suratlı portakal ın kendini muhalefet lideri sanması
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz şempanze götü suratlı muhalefet lideri
