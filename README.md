@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!-- 
+https://www.uludagsozluk.com/k/bana-yakla%C5%9Fma/&w=bg
 bkz saidi kürdinin ayak tırnakları
 https://www.uludagsozluk.com/k/sait-k%C3%BCrdi-nin-pislikten-simsiyah-olmu%C5%9F-t%C4%B1rnaklar%C4%B1/&w=gd
 http://www.kanalb.com.tr/neden.php
