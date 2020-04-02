@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!--
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ölü
 https://www.uludagsozluk.com/k/hepimiz-ayn%C4%B1-gemideyiz/&w=gd hayallerde yaşıyor bazı fareler
 bkz fatih portakal vs şempanze götü
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
