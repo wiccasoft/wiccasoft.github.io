@@ -1,6 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!-- 
+TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
+https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
 https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekas%C4%B1/
 bkz 13. cumburlop maaşı vs fatih şempanze portakal maaşı
 bkz fatih şempanze suratlı portakal ın kendini muhalefet lideri sanması
