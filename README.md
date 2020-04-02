@@ -1,6 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
 <!--
+bkz fatih portakal vs şempanze
+bkz fatih portakal ne zaman evrim geçirecek sorunsalı
 bkz kamalcıların imamoğlanla yavaşın arkasına saklanması
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
 Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
