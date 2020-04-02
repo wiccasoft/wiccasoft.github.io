@@ -3,7 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
-https://www.uludagsozluk.com/k/haluk-levent/&w=gd bkz primcizade
+https://www.uludagsozluk.com/k/haluk-levent/&w=gd bkz everday priming
 https://www.uludagsozluk.com/k/house-of-the-rising-sun/&w=bg bkz dünyanın en güzel şarkısı
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs-biyolojik-sald%C4%B1r%C4%B1s%C4%B1nda-mant%C4%B1k-hatas%C4%B1/ lol
 https://www.uludagsozluk.com/k/lityum-iyon-pil-vs-lityum-polimer-pil/
