@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
-<!-- 
+<!--
+https://medium.com/the-mission/infographic-the-web-world-who-owns-who-2b48513888e4
 https://www.uludagsozluk.com/k/fatih-portakal-ve-ekrem-imamo%C4%9Flu/
 https://www.uludagsozluk.com/k/bana-yakla%C5%9Fma/&w=bg
 http://www.kanalb.com.tr/neden.php
