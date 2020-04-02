@@ -2,7 +2,6 @@
 
 <!-- 
 bkz fatih portakal vs şempanze götü
-bkz devletin maymun götü suratlı şempanzeleri ölüme terk etmesi
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/ -->
 
