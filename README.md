@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!-- 
+http://www.kanalb.com.tr/neden.php
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
 Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
 https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
