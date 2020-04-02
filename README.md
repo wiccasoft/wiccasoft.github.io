@@ -1,7 +1,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!--
-bkz fatih portakal vs şempanze
+bkz fatih portakal vs şempanze götü
+bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 bkz fatih portakal ne zaman evrim geçirecek sorunsalı
 bkz kamalcıların imamoğlanla yavaşın arkasına saklanması
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
