@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+bkz devlet hastanesine sağlam gidip böbreksiz eve dönmek
 https://eksisozluk.com/devletin-kanser-hastalarini-olume-terk-etmesi--6451526?a=popular zuahahahaha
 https://www.uludagsozluk.com/k/%C5%9Fehir-hastanelerine-kar%C5%9F%C4%B1-%C3%A7%C4%B1kan-zihniyet/
 https://www.uludagsozluk.com/k/kafas%C4%B1na-bim-po%C5%9Feti-ge%C3%A7irip-yakan-%C3%A7ocuk/
