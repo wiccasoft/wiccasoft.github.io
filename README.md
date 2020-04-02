@@ -3,7 +3,8 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
-bkz tayyi perdoğanın beynini klonlayım yapa zeka yapmak
+bkz tayyip dünya lideri yapan özellikleri
+bkz tayyip erdoğanın beynini klonlayıp yapay zeka yapmak
 bkz devleti yönetibilen tek beynin tayyip erdoğan olduğu gerçeği
 bkz tayyip erdoğan giderse devleti kim yönetecek sorunsalı
 bkz muhammedin son peygamber benim demesi
