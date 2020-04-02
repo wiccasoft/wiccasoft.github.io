@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/kafas%C4%B1na-bim-po%C5%9Feti-ge%C3%A7irip-yakan-%C3%A7ocuk/
 https://www.uludagsozluk.com/k/1-70-lik-boyuyla-rus-kar%C4%B1-pe%C5%9Fine-ko%C5%9Fan-tip/
 bkz yılmaz morgülün yılmaz güneye yürümesi
 https://www.uludagsozluk.com/k/sevgilisine-%C3%A7i%C3%A7ek-alan-erkek/&w=bg
