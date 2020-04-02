@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!-- 
-bkz fatih şempanze portakal ın kendini muhalefet lideri sanması
+bkz fatih şempanze suratlı portakal ın kendini muhalefet lideri sanması
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz şempanze götü suratlı muhalefet lideri
 https://www.uludagsozluk.com/k/bir-insan%C4%B1n-kusurlar%C4%B1na-ra%C4%9Fmen-ona-a%C5%9F%C4%B1k-olmak/
 bkz tanrı kompleksi
