@@ -2,8 +2,9 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
-bkz banaj varankın altın varanklı küveti
-bkz reis damadın penis yüzüğünü azıyla yakıyot yalanı
+bkz bakan varankın altın varanklı küveti
+bkz reis damadın penis yüzüğünü azıyla takıyor yalanı
+bkz rte yi dünya lieri yapan özellikleri
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bk dünya lideri
 bkz muhammedin bir değil 3 değil beş değil bir alan 13 deve vermesi
 bkz yılmaz güneyi 13 kasıının amına yılna sokması
