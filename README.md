@@ -1,5 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
 
+<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş reis -->
+
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
