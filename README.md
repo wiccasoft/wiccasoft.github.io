@@ -1,8 +1,6 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!--
-https://www.uludagsozluk.com/k/sadri-al%C4%B1%C5%9F%C4%B1k/&w=bg bkz kerem alışık ın babası
-https://www.uludagsozluk.com/k/internetin-yava%C5%9Flamas%C4%B1/&w=bg bkz mansur yavaş 
 bkz fatih portakal vs şempanze götü
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 bkz fatih portakal ne zaman evrim geçirecek sorunsalı
