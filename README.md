@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/d%C3%BCnya-h%C3%BCk%C3%BCmeti-kurulsa-t%C3%BCrkiye-ye-verilecek-g%C3%B6rev/
 https://medium.com/the-mission/infographic-the-web-world-who-owns-who-2b48513888e4
 https://www.uludagsozluk.com/k/fatih-portakal-ve-ekrem-imamo%C4%9Flu/
 https://www.uludagsozluk.com/k/bana-yakla%C5%9Fma/&w=bg
