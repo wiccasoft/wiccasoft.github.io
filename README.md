@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz mhpden ihracat olmaması
 bkz irem çiçek in chpden ihraç edilmesi
 https://www.uludagsozluk.com/k/irem-%C3%A7i%C3%A7ek-in-chp-den-ihra%C3%A7-edilmesi/
