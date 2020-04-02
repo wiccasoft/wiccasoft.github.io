@@ -3,9 +3,8 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
-https://www.youtube.com/watch?v=2KErN9bMrwM
-bkz karizmanın öz oğlu rcep tayyip erdoğan
-bkz tayyip erdoğan karizması
+https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F/&w=bg
+https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
 bkz tayyip erdoğan putini atyakta bekletti yalanı tapelerinni fotoşok çıkması
 bkz tayyip recep erdoğan süreci iyi yönetemedi trolleri
 bkz tayyip erdoğan giderse devletin başına devlet mi gelecek sorunsalı
