@@ -2,8 +2,8 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
-bkkzz tayyip erdoğan giderse devletin başına devlet mi gelecek
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg bkz sağda inecek var
+bkz tayyip erdoğan giderse devletin başına devlet mi gelecek sorunsalı
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg 
 bkz bakan varankın altın varanklı küveti
 bkz reis damadın penis yüzüğünü azıyla takıyor yalanı
 bkz rte yi dünya lieri yapan özellikleri
