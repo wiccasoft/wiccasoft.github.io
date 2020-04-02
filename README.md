@@ -2,6 +2,7 @@
 
 <!-- 
 bkz fatih portakal vs şempanze götü
+bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/ -->
 
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
