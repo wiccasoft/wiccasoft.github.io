@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+bkz ekrem mamioğlu
 bkz sagopa kajmerin de dediği gibi
 bkz 2 .abdulhamdinin ülkeyi terketmeye hazırlanması
 bkz damadın trabzonsporu şampiyon yapacağı gerçeği
