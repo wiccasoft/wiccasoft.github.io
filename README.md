@@ -1,7 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
-https://www.uludagsozluk.com/k/tom-hardy/&w=bg bkz kürt asıllı pislik iğrenç
+https://www.uludagsozluk.com/k/1-70-lik-boyuyla-rus-kar%C4%B1-pe%C5%9Fine-ko%C5%9Fan-tip/
 bkz yılmaz morgülün yılmaz güneye yürümesi
 https://www.uludagsozluk.com/k/sevgilisine-%C3%A7i%C3%A7ek-alan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sait-k%C3%BCrdi-nin-pislikten-simsiyah-olmu%C5%9F-t%C4%B1rnaklar%C4%B1/
