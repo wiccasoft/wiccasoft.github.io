@@ -3,8 +3,6 @@
 <!-- 
 https://www.uludagsozluk.com/k/fatih-portakal-ve-ekrem-imamo%C4%9Flu/
 https://www.uludagsozluk.com/k/bana-yakla%C5%9Fma/&w=bg
-bkz saidi kürdinin ayak tırnakları
-https://www.uludagsozluk.com/k/sait-k%C3%BCrdi-nin-pislikten-simsiyah-olmu%C5%9F-t%C4%B1rnaklar%C4%B1/&w=gd
 http://www.kanalb.com.tr/neden.php
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
 Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
