@@ -21,7 +21,7 @@ https://www.uludagsozluk.com/k/fatih-portakal-ve-ekrem-imamo%C4%9Flu/
 https://www.uludagsozluk.com/k/bana-yakla%C5%9Fma/&w=bg
 http://www.kanalb.com.tr/neden.php
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
-Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
+Foxy news :TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
 https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
 https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekas%C4%B1/
 bkz 13. cumburlop maaşı vs fatih şempanze portakal maaşı
