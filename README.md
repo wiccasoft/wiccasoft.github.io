@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg bkz sağda inecek var
 bkz bakan varankın altın varanklı küveti
 bkz reis damadın penis yüzüğünü azıyla takıyor yalanı
 bkz rte yi dünya lieri yapan özellikleri
