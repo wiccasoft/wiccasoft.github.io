@@ -3,7 +3,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
-https://www.youtube.com/watch?v=RDxn3OuKO8w şeytnın hileleri
+bkz ali kınık dinleyen inşaatlarda çalışan kız
+https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri 
 bkz ekrem mamioğlanın nihat haitpoğlanın istanbulu terk etmesine engel olamayacak olması
 bkz nihat hatipoğlanın istanbulu terk etmeye hazırlanması
 bkz ekrem mamioğlu
