@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+bkz ekrem imamoğlanın kanla istanbul çok gözel oldu eyi oldu demesi
 bkz oytun erbaşın koronoya kafam girsin demesi
 bkz ali kınık dinleyen inşaatlarda çalışan kıllı kız
 https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri 
