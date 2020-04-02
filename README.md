@@ -3,19 +3,8 @@
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 <!--
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs-biyolojik-sald%C4%B1r%C4%B1s%C4%B1nda-mant%C4%B1k-hatas%C4%B1/ lol
 https://www.uludagsozluk.com/k/lityum-iyon-pil-vs-lityum-polimer-pil/
-bkz sagopa kajmerin acıların çocuğuyum temalı avemeli arabesk klipleri
-bkz mansur yavaşın ankapark süper lan bence demesi
-bkz ekrem imamoğlanın kanla istanbul çok gözel oldu eyi oldu tamam mı demesi
-bkz oytun erbaşın koronoya kafam girsin demesi
-bkz ali kınık dinleyen inşaatlarda çalışan kıllı kız
-https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri 
-bkz ekrem mamioğlanın nihat haitpoğlanın istanbulu terk etmesine engel olamayacak olması
-bkz nihat hatipoğlanın istanbulu terk etmeye hazırlanması
-bkz ekrem mamioğlu
-bkz sagopa kajmerin de dediği gibi
-bkz 2.abdulhamdinin ülkeyi terketmeye hazırlanması
-bkz damadın trabzonsporu şampiyon yapacağı gerçeği
 https://www.uludagsozluk.com/k/trabzonsporlu-k%C4%B1z-iticili%C4%9Fi/&w=bg lol
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz 87 iq ile hayata tutunmak
 bkz devlet hastanesine sağlam gidip böbreksiz eve dönmek
