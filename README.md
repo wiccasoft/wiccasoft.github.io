@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+bkz tayyip erdoğan karizması
 bkz tayyip erdoğan putini atyakta bekletti yalanı tapelerinni fotoşok çıkması
 bkz tayyip recep erdoğan süreci iyi yönetemedi trolleri
 bkz tayyip erdoğan giderse devletin başına devlet mi gelecek sorunsalı
