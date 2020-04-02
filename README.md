@@ -2,43 +2,6 @@
 
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
-<!--
-bkz muhammedin 1 değil 3 değil 5 değil 1 kuran alana 13 deve vermesi
-https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg 
-https://www.uludagsozluk.com/k/473-su%C3%A7-kayd%C4%B1-olan-10-ya%C5%9F%C4%B1ndaki-%C3%A7ocuk/ bkz atacan kayalar
-bkz muhammedin son peygamber benim demesi
-bkz tayyip i dünya lideri yapan özellikleri
-bkz tayyip in beynini klonlayıp yapay zeka yapmak
-bkz tayyip erdoğan giderse devleti kim yönetecek sorunsalı
-bkz muhammedin 1 değil 3 değil 5 değil 1 kuran alana 13 deve vermesi
-https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
-bkz millet hizmet beklerken kk nın osura osura uyuması
-bkz mhpden ihracat olmaması
-bkz irem çiçek in chpden ihraç edilmesi
-https://www.uludagsozluk.com/k/irem-%C3%A7i%C3%A7ek-in-chp-den-ihra%C3%A7-edilmesi/
-bkz arda turan vs arda kural
-bkz muhammedin zeyidin oğluyla evlenmesi
-bkz yılmaz güneyin 1 değil 3 değil 5 değil 13 karının amına yılna sokması
-bkz muhammedin zeyidin oğluyla evlenmesi
-bkz onu bırakta tayyip erdoğan giderse devleti kim yönetecek sorunsalı
-bkz muhammedin bir 3 değil 5 değil 13 karı alması
-bkz rte ikinci atacücü olduğuna göre rte giderse ikşcş rte kim olacak sorunsalı
-https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-en-%C3%A7ok-sevilen-3-siyaset%C3%A7isi/
-https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F/&w=bg
-https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
-bkz tayyip erdoğan putini atyakta bekletti yalanı tapelerinni fotoşok çıkması
-bkz tayyip recep erdoğan süreci iyi yönetemedi trolleri
-bkz tayyip erdoğan giderse devletin başına devlet mi gelecek sorunsalı
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg 
-bkz bakan varankın altın varanklı küveti
-bkz reis damadın penis yüzüğünü azıyla takıyor yalanı
-bkz rte yi dünya lieri yapan özellikleri
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bk dünya lideri
-bkz muhammedin bir değil 3 değil beş değil bir alan 13 deve vermesi
-bkz yılmaz güneyi 13 kasıının amına yılna sokması
--->
-
 [![Image](eq/Screenshot_2020-04-01_15-43-23.png)]( https://www.youtube.com/watch?v=REGR8-01NUU )
 
 [![Image](eq/Screenshot_2020-03-31_11-41-41.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
