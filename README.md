@@ -3,6 +3,7 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+bkz tayyip erdoğan giderse devleti kim yönetecek sorunsalı
 bkz muhammedin son peygamber benim demesi
 bkz muhammedin 1 değil 3 değil 5 değil 1 kuran alana 13 deve vermesi
 https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
