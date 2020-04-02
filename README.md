@@ -1,8 +1,6 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!--
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ölü
-https://www.uludagsozluk.com/k/hepimiz-ayn%C4%B1-gemideyiz/&w=gd hayallerde yaşıyor bazı fareler
 bkz fatih portakal vs şempanze götü
 bkz yılan kanını fazla kaçırıp maymun götüne iban etmek
 bkz fatih portakal ne zaman evrim geçirecek sorunsalı
@@ -10,6 +8,7 @@ bkz ılık götlü kamalcıların imamoğlanla yavaşın arkasına saklanması
 https://www.youtube.com/watch?v=VFBY04fhbz0 bkz who owns who
 Fox Haber:TGRT'yi satın alan Amerikalı medya grubu News Corporation'ın sahibi Rupert Keith Murdoch'dır.
 https://tr.wikipedia.org/wiki/Fox_(T%C3%BCrkiye)
+https://www.uludagsozluk.com/k/hepimiz-ayn%C4%B1-gemideyiz/&w=gd bkz hayallerde yaşıyor bazı fareler
 https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekas%C4%B1/
 bkz fatih şempanze suratlı portakal ın kendini muhalefet lideri sanması
 -->
