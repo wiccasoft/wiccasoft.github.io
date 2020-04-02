@@ -1,4 +1,4 @@
-[![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.facebook.com/watch/?v=1999718343387016 )
+[![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!--
 bkz fatih portakal vs şempanze
