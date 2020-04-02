@@ -3,6 +3,8 @@
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
 
 <!--
+bkz rte ikinci atacücü olduğuna göre rte giderse ikşcş rte kim olacak sorunsalı
+https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-en-%C3%A7ok-sevilen-3-siyaset%C3%A7isi/
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F/&w=bg
 https://www.uludagsozluk.com/k/muhammed-in-3-de%C4%9Fil-5-de%C4%9Fil-tam-13-evlilik-yapmas%C4%B1/&w=bg
 bkz tayyip erdoğan putini atyakta bekletti yalanı tapelerinni fotoşok çıkması
