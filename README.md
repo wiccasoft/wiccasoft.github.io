@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://www.uludagsozluk.com/ bkz tek tokatta bayıltılacak ibneler sürüsü
 bkz iğrençsiniz lan ibneler
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
 bkz yiyin birbiriniz ibneler göte para vermeyin
