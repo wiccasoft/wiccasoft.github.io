@@ -2,6 +2,9 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz hüseyin nihal atsız kapatılsın kampanyası
+https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
+https://www.uludagsozluk.com/k/%C5%9Farap-%C5%9F%C3%B6mine-ve-klasik-m%C3%BCzik-%C3%BC%C3%A7l%C3%BCs%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/ali-uyand%C4%B1ran/&w=bg
 https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=gd
