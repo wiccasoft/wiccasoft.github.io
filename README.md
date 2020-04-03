@@ -2,54 +2,9 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
-bkz uluclar vs maymun götü
-bkz ulcuların ne yarrağa yaradığı sorunsalı
-bkz şaban filmindeki gulyabaninin yarrağıma faydası
-https://saban-filmindeki-gulyabani.uludagsozluk.com/ bkz türkiye ye fayda ölçer
-bkz alpaslan türkeşin türkiyeye verdiği faydalar
-bkz grup vitamindeki ismail
-bkz tatlı mandalina götünün yanında iyi gidenler
-bkz ibnelerin götünü tokatlayıp gir lan entry demek
-https://sweetmandarine.uludagsozluk.com/ tatlı mandalina vs maymun götü
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/gece-s%C3%B6zl%C3%BC%C4%9Fe-giren-erke%C4%9Fin-amac%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg hayallerde yaşıyor bazı ibneler
-https://sweetmandarine.uludagsozluk.com/ tatlı mandalina vs maymun götü
-https://www.uludagsozluk.com/ bkz gerizekalı ibnelerin türkiyeye faydası
-https://www.uludagsozluk.com/k/bob-ross/&w=bg  bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://sweetmandarine.uludagsozluk.com/ sweet ibnesi vs maymun götü
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-vs-maymun-g%C3%B6t%C3%BC/
-https://saban-filmindeki-gulyabani.uludagsozluk.com/ 
-bkz şaban filmindeki gulyabaninin türkiyeye faydası
-https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
-bkz atacücü heykeli vs rte heykeli
-https://www.uludagsozluk.com/k/rte-heykeli/
-bkz bizimkiler galipin uluculara faydası
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg
-https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg
-https://www.uludagsozluk.com/k/doblo-mangal-ve-rak%C4%B1-%C3%BC%C3%A7l%C3%BCs%C3%BC/
-bkz rakının yanında iyi gidenler
-bkz dunkof halisin türkiyeye verdiği zarar
-bkz dunkof halis vs bizmikiler galip
-bkz rtakının yanında neşet ertaş açmak
-bkz saza niye gelmedin söze niye gelmedin dinlerken mangal yapmak
-https://www.uludagsozluk.com/k/doblo-mangal-ve-rak%C4%B1-%C3%BC%C3%A7l%C3%BCs%C3%BC/
-bkz neşet ertaş şarkıya girene kadar yapılacaklar
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
-https://tenet.uludagsozluk.com/ bkz üstün zekalı çocuklar
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz bizimkiler galipin sapık olması
-bkz ulucuların türkiyeye faydaları
-https://www.uludagsozluk.com/k/doblo-mangal-ve-rak%C4%B1-%C3%BC%C3%A7l%C3%BCs%C3%BC/
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
-bkz hüseyin nihatl atsızın türkiyeye verdii zararlar
-bkz hüseyin nihal atsız kapatılsın kampanyası
-https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
-https://www.uludagsozluk.com/k/%C5%9Farap-%C5%9F%C3%B6mine-ve-klasik-m%C3%BCzik-%C3%BC%C3%A7l%C3%BCs%C3%BC/&w=bg
-https://www.uludagsozluk.com/k/ali-uyand%C4%B1ran/&w=bg
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg
+https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=gd
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/ 
 -->
