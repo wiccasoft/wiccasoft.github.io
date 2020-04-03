@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
 https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
 https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg
