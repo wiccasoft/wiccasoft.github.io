@@ -5,6 +5,7 @@
 bkz iğrençsiniz lan ibneler
 bkz adanalı olduğumu sanan ibneler
 bkz şaban filmindeki gulyabani vs maymun götü
+bkz 42 yaşında 180 boyunda sarışın kaslı bir heteroyum
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ hayallerde yaşıyor baız ibneler
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
 bkz yiyin birbiriniz ibneler göte para vermeyin
