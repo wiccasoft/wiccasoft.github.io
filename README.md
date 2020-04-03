@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg
 https://www.uludagsozluk.com/k/doblo-mangal-ve-rak%C4%B1-%C3%BC%C3%A7l%C3%BCs%C3%BC/
 bkz rakının yanında iyi gidenler
