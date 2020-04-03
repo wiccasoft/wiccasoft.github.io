@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem yavaş imanın gevredi
 bkz ata cücü nün damarlarındaki asil kan da mevcuttur lafı
 bkz ata cücü nün her gece rakı içmesi
 bkz ata cücü nün gençleri sigara ve alkole özendirmesi
