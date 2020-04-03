@@ -1,18 +1,5 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
-<!-- 
-https://www.uludagsozluk.com/k/donalt-trump-benim-dedemdir/ lol
-bkz yılmaz soyadının en çok kullanılan soyad olması
-https://mavi-tutkusu.uludagsozluk.com/ bkz ölüleri trolleyen troll adasdsada
-https://www.uludagsozluk.com/k/sen-%C5%9Faban-de%C4%9Fil-%C5%9Fabans%C4%B1n/
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg gemileri karadan yürütelim fikrini benden çaldı bu ibne
-https://www.uludagsozluk.com/k/uhudu-terkeden-ok%C3%A7ulardaki-ibnelik/ zuhahahhahahah
-https://mavi-tutkusu.uludagsozluk.com/ bkz ölüleri trolleyen troll
-https://www.uludagsozluk.com/k/elvis-presley/&w=bg ne günlerimiz var bu kampyon şöförüydü ben adam ettim bu iti
-https://www.uludagsozluk.com/k/tom-hanks/&w=bg bkz primci
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=gd bkz mesut yılmaz
-https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg -->
-
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
