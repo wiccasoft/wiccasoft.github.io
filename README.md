@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz uluclar vs maymun götü
 bkz ulcuların ne yarrağa yaradığı sorunsalı
 bkz şaban filmindeki gulyabaninin yarrağıma faydası
 https://saban-filmindeki-gulyabani.uludagsozluk.com/ bkz türkiye ye fayda ölçer
