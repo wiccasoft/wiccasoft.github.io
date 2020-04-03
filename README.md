@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg ekrem yavaş imanım gevredi
 https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ mansur yavaş ciğerini söktün
 bkz alpaslan türkeş vs şempanze götü
 bkz celal şengör vs orangutan götü
