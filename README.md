@@ -2,14 +2,9 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
-bkz iğrençsiniz lan ibneler
-bkz adanalı olduğumu sanan ibneler
-bkz şaban filmindeki gulyabani vs maymun götü
-bkz 42 yaşında 180 boyunda sarışın kaslı bir heteroyum
-https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ hayallerde yaşıyor baız ibneler
+https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd
+https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
-bkz yiyin birbiriniz ibneler göte para vermeyin
-https://www.uludagsozluk.com/ bkz tek tokatta bayıltılacak ibneler sürüsü
 https://www.uludagsozluk.com/k/kemalist-hareket-%C3%B6nlenemez/&w=bg
 https://www.uludagsozluk.com/k/gece-s%C3%B6zl%C3%BC%C4%9Fe-giren-erke%C4%9Fin-amac%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-a%C5%9F%C4%B1k-at%C4%B1%C5%9Fmas%C4%B1/&w=bg
