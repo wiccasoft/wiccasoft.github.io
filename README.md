@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
-https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg bkz iğrençsiniz lan ibneler
+bkz iğrençsiniz lan ibneler
+https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
 bkz yiyin birbiriniz ibneler göte para vermeyin
 https://www.uludagsozluk.com/k/kemalist-hareket-%C3%B6nlenemez/&w=bg
 https://www.uludagsozluk.com/k/gece-s%C3%B6zl%C3%BC%C4%9Fe-giren-erke%C4%9Fin-amac%C4%B1/&w=gd
