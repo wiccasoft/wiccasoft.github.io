@@ -4,7 +4,6 @@
 <!-- 
 bkz mansur yavaş vs maymun götü
 bkz erkem amınoğlu vs maymun götü
-bkz ekrem amınoğlu türkiyenin arnold schwarzeneggeridir
 bkz ilber ortaçgil vs maymun götü
 bkz sagopa kajmer türkiyenin fifti centidir
 bkz ilber ortaçgil türkiyenin john lenonnudur
