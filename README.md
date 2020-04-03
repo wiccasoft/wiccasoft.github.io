@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz yiyin birbiriniz ibneler göte para vermeyin
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-a%C5%9F%C4%B1k-at%C4%B1%C5%9Fmas%C4%B1/&w=bg
 https://sweetmandarine.uludagsozluk.com bkz mayun götü
 https://mavi-tutkusu.uludagsozluk.com/ bkz peçete artığı
 bkz şempanze götü vs hüseyin nihal atsız
