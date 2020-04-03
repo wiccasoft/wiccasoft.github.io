@@ -2,6 +2,7 @@
 
 <!--
 bkz sagopa kajmer türkiyenin fifti sentidir
+https://www.uludagsozluk.com/k/siz-t%C3%BCrkiyedesiniz-bu-y%C3%BCzden-%C3%A7ok-%C5%9Fansl%C4%B1s%C4%B1n%C4%B1z/&w=gd
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=bg sagopa kajmer isyankar serseri
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=gd -->
 
