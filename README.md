@@ -2,8 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bkz alper tunga öldi mi ıssız acun kaldı mı gay lerin ürekleri ırtılır
-bkz erkem amınoğlu
+bkz ekrem amınoğlu vs şempanze götü
 bkz zulüm 1071 de başladı
 bkz alpaslan türkeş vs maymun götü
 bkz mansur yavaş vs maymun götü
@@ -12,6 +11,7 @@ bkz ilber ortaçgil vs maymun götü
 bkz sagopa kajmer türkiyenin fifti centidir
 bkz ilber ortaçgil türkiyenin john lenonnudur
 bkz fatih portakal vs şempanze götü
+bkz alper tunga öldi mi ıssız acun kaldı mı
 bkz maroon 5 adam levine ın açlık grevine başlaması
 bkz grup vitamin ismailin açlık grevine son vermesi
 https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg
