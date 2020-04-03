@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://www.uludagsozluk.com/ bkz ibnelerin türkiyeye faydası
 https://www.uludagsozluk.com/k/bob-ross/&w=bg  bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg bkz hayallerde yaşıyor bazı ibneler
