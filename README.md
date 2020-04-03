@@ -4,7 +4,7 @@
 <!--
 bkz tayybin tekalifi milliyeden bahsetmesi
 bkz tayybin yeniden tekalifi milliye gömleğimi giydim demesi
-https://www.uludagsozluk.com/k/muharrem-ince-nin-rte-ye-verdi%C4%9Fi-ayar/&w=bg bkz ince gör logae
+https://www.uludagsozluk.com/k/muharrem-ince-nin-rte-ye-verdi%C4%9Fi-ayar/&w=bg bkz ince gör logar
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg yenilesi erkekler
 bkz adanalı seksi erkekler
 bkz kıvanç tatlıoğlanın adanalı olması
