@@ -1,6 +1,7 @@
-[![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.xnxx.com/video-ekhvz7e/naughty_housewife_full_video )
+[![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=OLLJkDp9yO0 )
 
 <!--
+https://www.youtube.com/watch?v=OLLJkDp9yO0
 bkz brüt 2200+skk+akbil hem de full akbil haaaaaaaa 
 bkz sonra döndüm dedim ki iyi ki sözleşmeli uzman erbaş olmuşum
 https://www.uludagsozluk.com/k/cahil-asker-benden-%C3%A7ok-al%C4%B1yor-diyen-%C3%B6%C4%9Fretmen/&w=gd
