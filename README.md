@@ -5,19 +5,7 @@
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 163 kısa mı lan topukluyla 165
 https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 
-https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
-https://www.uludagsozluk.com/k/kemalist-hareket-%C3%B6nlenemez/&w=bg
-https://www.uludagsozluk.com/k/gece-s%C3%B6zl%C3%BC%C4%9Fe-giren-erke%C4%9Fin-amac%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-a%C5%9F%C4%B1k-at%C4%B1%C5%9Fmas%C4%B1/&w=bg
-https://sweetmandarine.uludagsozluk.com bkz mayun götü
-https://mavi-tutkusu.uludagsozluk.com/ bkz peçete artığı
-bkz şempanze götü vs hüseyin nihal atsız
 bkz millet hizmet beklerken kk nın osura osura uyuması
-https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/alkol%C3%BCn-vir%C3%BCse-kar%C5%9F%C4%B1-iyi-gelmesi/
-https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
-https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=gd
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/ 
 -->
