@@ -1,63 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
-<!--
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg bkz şempanze götü
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ bkz göt parmaklamak
-https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ bkz neşet ertaş ibo düetleri
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem yavaş imanın gevredi
-bkz ata cücü nün rakı damarlarındaki asil kan da mevcuttur lafı
-https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg
-https://www.uludagsozluk.com/k/alkol%C3%BCn-vir%C3%BCse-kar%C5%9F%C4%B1-iyi-gelmesi/
-bkz neeşet ertaş şarkıya girene kadar götünü parmaklayan anadolu maymunu
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
-bkz 1881 ata cücü 18+81 = 99 - 81 vilayet - batman = covid19
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-gen%C3%A7leri-sigara-ve-alkole-%C3%B6zendirmesi/&w=bg
-https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ senin ciğerini sikeyim sığır
-bkz neşet ertaş dinlerken götünün parmaklayan gay
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
-https://www.uludagsozluk.com/k/asr%C4%B1n-liderini-para-istemek-zorunda-b%C4%B1rakmak/ abi para ver abii
-https://www.uludagsozluk.com/k/eve-19-ya%C5%9F%C4%B1nda-k%C4%B1z-atmak/ hayallerde yaşıyor baız ibneler
-https://www.uludagsozluk.com/k/tiktok-videosunda-yap%C4%B1lan-m%C3%BCthi%C5%9F-dil-hareketi/ iğrenç amk
-bkz mansur yavaş la hızlı bir gece vs ekrem imamaoğlanla romantik bir akşam
-https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ adamın amına koyan şarkılar
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem yavaş imanın gevredi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem abi evdemi yani ev demi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg ekrem yavaş imanım gevredi
-https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ mansur yavaş ciğerini söktün
-bkz alpaslan türkeş vs şempanze götü
-bkz celal şengör vs orangutan götü
-bkz asrın lideri vs şempanze götü
-bkz şempanze götü vs alpasla türkeş
-bkz alpaslan türkeş vs alper tunga
-bkz zulüm 1071 de başladı
-bkz mansur yavaş vs maymun götü
-bkz erkem amınoğlu vs maymun götü
-bkz ilber ortaçgil vs maymun götü
-bkz sagopa kajmer türkiyenin fifti centidir
-bkz ilber ortaçgil türkiyenin john lenonnudur
-bkz fatih portakal vs şempanze götü
-bkz alper tunga öldi mi ıssız acun kaldı mı
-bkz maroon 5 adam levine ın açlık grevine başlaması
-bkz grup vitamin ismailin açlık grevine son vermesi
-https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
-https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/
-https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
-https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg
-https://www.uludagsozluk.com/k/reynmeni-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bulan-tip/
-https://www.uludagsozluk.com/k/lanl%C4%B1-lunlu-konu%C5%9Fan-cumhurba%C5%9Fkan%C4%B1/
-bkz zulüm 1071 de başladı diyen orospu evladı
-https://www.uludagsozluk.com/k/siz-t%C3%BCrkiyedesiniz-bu-y%C3%BCzden-%C3%A7ok-%C5%9Fansl%C4%B1s%C4%B1n%C4%B1z/
-https://www.uludagsozluk.com/k/viroloji-mikrobiyoloji-bilmeden-covid-19-konu%C5%9Fmak/
-https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-eczane-logosu-rezaleti/
-https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-un-adanal%C4%B1-olmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/prof-dr-mehmet-%C3%A7ilingiro%C4%9Flu/
-https://www.uludagsozluk.com/k/barbaro%C5%9F-%C5%9Fansal-%C4%B1n-50000-dolar-ba%C4%9F%C4%B1%C5%9Flamas%C4%B1/ 
--->
-
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
