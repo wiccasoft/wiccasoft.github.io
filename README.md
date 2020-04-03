@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz recep şaban ramazan
 https://www.uludagsozluk.com/k/kıvanç-tatlıtuğ-un-adanalı-olması/&w=bg bkz yenilesi adanalı erkekler
