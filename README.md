@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!-- 
-bkz ilber ortaçgik türkiyenin john lenonnudur
+bkz ilber ortaçgil türkiyenin john lenonnudur
 bkz fatih portakal vs şempanze götü
 bkz maroon 5 adam levine ın açlık grevine başlaması
 bkz grup vitamin ismailin açlık grevine son vermesi
