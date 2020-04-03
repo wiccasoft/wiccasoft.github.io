@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.xnxx.com/video-ufet74b/milf_-_detention_time_with_lily_lane_and_juan_loco)
 
-<!-- https://www.uludagsozluk.com/k/fatih-terim/&w=gd nerde kalmıştık :))) -->
+<!-- 
+bkz fatih portakal vs şempanze götü
+https://www.uludagsozluk.com/k/fatih-terim/&w=gd nerde kalmıştık :))) -->
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
