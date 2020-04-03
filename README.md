@@ -6,6 +6,7 @@ bkz geceye bir erkek bırak
 bkz rizeli erkek vs adanalı erkek
 bkz erkek düşünmekten iş yapamamak
 bkz. x'in şişirilmiş balon olması
+bkz zulüm 1071 de başladı diyen orospu evladı
 https://www.uludagsozluk.com/k/hz-muhammedin-%C5%9Fi%C5%9Firilmi%C5%9F-bir-balon-olmas%C4%B1/
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg ay yenir bunlar ayol
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-un-adanal%C4%B1-olmas%C4%B1/&w=bg
