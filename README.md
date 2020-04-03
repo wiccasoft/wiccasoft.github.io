@@ -4,6 +4,9 @@
 <!-- 
 bkz bi akil erkekler vardı noldu onlara
 bkz alparslan isimli erkeklerin özellikleri
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ lol
+https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekası/ lol
+https://www.uludagsozluk.com/k/iflas-bayra%C4%9F%C4%B1n%C4%B1-ne-zaman-%C3%A7ekeriz/&w=gd lol
 https://twitter.com/aslinandik/status/1245745281687269378 bkz cübbelinin ümrecileri suçlaması
 https://www.uludagsozluk.com/k/alparslan-arslan-%C4%B1n-mahkemesini-18-kere-izlemek/ 
 https://eksisozluk.com/3-nisan-2020-bilim-kurulu-toplantisi-kararlari--6452418?a=popular bkz ay şükürler olsun yalebbim
