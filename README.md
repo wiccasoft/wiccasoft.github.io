@@ -2,10 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.xnxx.com/video-ufet74b/milf_-_detention_time_with_lily_lane_and_juan_loco)
 
 <!-- 
-https://eksisozluk.com/eba-ilkokul-tvdeki-goz-kanatan-ing-ogretmeni--6453209?a=popular
-bkz fatih portakal vs şempanze götü
 https://eksisozluk.com/abdi-ibrahimin-korona-virus-ilacini-bulmasi--6452518?a=popular bkz lahmacun
-https://www.uludagsozluk.com/k/fatih-terim/&w=gd nerde kalmıştık :)))
+https://www.uludagsozluk.com/k/fatih-terim/&w=gd bkz nerde kalmıştık :)))
 https://www.uludagsozluk.com/k/bir-osmanl%C4%B1-padi%C5%9Fah%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg bkz işsizlik level 999
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ lol
 https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekası/ lol
