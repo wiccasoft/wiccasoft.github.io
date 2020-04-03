@@ -4,10 +4,9 @@
 <!-- 
 bkz şempanze götü vs tayyip
 bkz tayyoşun kareli ceketleri
-https://www.uludagsozluk.com/k/tayibin-ceketi/ bk mavi kareli nilli görüş ceketi
-bkz atacücün her gece rakı içmesi
 bkz bi akil erkekler vardı noldu onlara
 bkz alparslan isimli erkeklerin özellikleri
+https://www.uludagsozluk.com/k/tayibin-ceketi/ bk mavi kareli nilli görüş ceketi
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ lol
 https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekası/ lol
 https://www.uludagsozluk.com/k/iflas-bayra%C4%9F%C4%B1n%C4%B1-ne-zaman-%C3%A7ekeriz/&w=gd lol
