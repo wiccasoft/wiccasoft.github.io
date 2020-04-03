@@ -3,6 +3,7 @@
 
 <!-- 
 bkz fatih portakal vs şempanze götü
+https://eksisozluk.com/abdi-ibrahimin-korona-virus-ilacini-bulmasi--6452518?a=popular bkz lahmacun
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd nerde kalmıştık :)))
 https://www.uludagsozluk.com/k/bir-osmanl%C4%B1-padi%C5%9Fah%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg bkz işsizlik level 999
 -->
