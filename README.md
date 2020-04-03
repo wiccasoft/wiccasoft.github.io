@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://sweetmandarine.uludagsozluk.com bkz mayun götü
 https://mavi-tutkusu.uludagsozluk.com/ bkz peçete artığı
 bkz şempanze götü vs hüseyin nihal atsız
 bkz millet hizmet beklerken kk nın osura osura uyuması
