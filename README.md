@@ -3,6 +3,7 @@
 
 <!--
 bkz fatih portakal vs maymun götü
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ lol
 https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekası/ lol
 https://www.uludagsozluk.com/k/iflas-bayra%C4%9F%C4%B1n%C4%B1-ne-zaman-%C3%A7ekeriz/&w=gd lol
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
