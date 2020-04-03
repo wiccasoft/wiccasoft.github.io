@@ -4,6 +4,7 @@
 <!--
 bkz grup vitamindeki ismail
 bkz tatlı mandalina götünün yanında iyi gidenler
+bkz ibnelerin götünü tokatlayıp gir lan entry demek
 https://sweetmandarine.uludagsozluk.com/ tatlı mandalina vs maymun götü
 https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
