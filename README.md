@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz rtakının yanında neşet ertaş açmak
 bkz saza niye gelmedin söze niye gelmedin dinlerken mangal yapmak
 https://www.uludagsozluk.com/k/doblo-mangal-ve-rak%C4%B1-%C3%BC%C3%A7l%C3%BCs%C3%BC/
 bkz neşet ertaş şarkıya girene kadar yapılacaklar
