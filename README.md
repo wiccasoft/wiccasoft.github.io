@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://sweetmandarine.uludagsozluk.com/ sweet ibnesi vs maymun götü
+https://www.uludagsozluk.com/k/c%C3%BCbbeli-vs-maymun-g%C3%B6t%C3%BC/
 https://saban-filmindeki-gulyabani.uludagsozluk.com/ 
 bkz şaban filmindeki gulyabaninin türkiyeye faydası
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
