@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!-- 
+https://www.uludagsozluk.com/k/rte-nin-serveti/&w=bg
 https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
 https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg
