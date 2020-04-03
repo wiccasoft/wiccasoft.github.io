@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz neşet ertaş şarkıya girene kadar yapılacaklar
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
 https://tenet.uludagsozluk.com/ bkz üstün zekalı çocuklar
 https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz bizimkiler galipin sapık olması
