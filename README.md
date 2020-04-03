@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz atacücü heykeli vs rte heykeli
+https://www.uludagsozluk.com/k/rte-heykeli/
 bkz bizimkiler galipin uluculara faydası
 https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg
