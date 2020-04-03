@@ -1,7 +1,10 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
-<!-- https://www.uludagsozluk.com/k/barbaro%C5%9F-%C5%9Fansal-%C4%B1n-50000-dolar-ba%C4%9F%C4%B1%C5%9Flamas%C4%B1/ -->
+<!-- 
+https://www.uludagsozluk.com/k/prof-dr-mehmet-%C3%A7ilingiro%C4%9Flu/
+https://www.uludagsozluk.com/k/barbaro%C5%9F-%C5%9Fansal-%C4%B1n-50000-dolar-ba%C4%9F%C4%B1%C5%9Flamas%C4%B1/ 
+-->
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
