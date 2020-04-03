@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
+<!-- https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/ -->
+
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
