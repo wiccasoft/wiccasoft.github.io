@@ -1,21 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.xnxx.com/video-ufet74b/milf_-_detention_time_with_lily_lane_and_juan_loco)
 
-<!--
-bkz fatih portakal vs maymun götü
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ lol
-https://www.uludagsozluk.com/k/fox-haber-izleyen-insan-zekası/ lol
-https://www.uludagsozluk.com/k/iflas-bayra%C4%9F%C4%B1n%C4%B1-ne-zaman-%C3%A7ekeriz/&w=gd lol
-https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
-https://twitter.com/aslinandik/status/1245745281687269378 bkz cübbelinin ümrecileri suçlaması
-https://www.uludagsozluk.com/k/tam-olarak-ne-kadar-para-hayat%C4%B1n%C4%B1z%C4%B1-kurtar%C4%B1r/&w=bg para lazımsa gönderim
-https://eksisozluk.com/3-nisan-2020-bilim-kurulu-toplantisi-kararlari--6452418?a=popular bkz ay şükürler olsun yalebbim
-bkz 2200tl+skk+akbil hem de ful akbil haaaaaaaa
-bkz sonra dedim ki iyi ki sözleşmeli uzman çavuş olmuşum haa
-https://www.uludagsozluk.com/k/cahil-asker-benden-%C3%A7ok-al%C4%B1yor-diyen-%C3%B6%C4%9Fretmen/
-bkz ümreciler vicdan azabı çekiyor mudur sorunsalı
-https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BCn-gelmesine-sevinen-m%C3%BCsl%C3%BCman/ bkz ihsan şenocak
-https://www.uludagsozluk.com/e/7670200/ lol -->
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
