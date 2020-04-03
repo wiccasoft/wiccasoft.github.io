@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz nerde kalmışyık
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz nerde kalmıştık
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz sarayın aslanları
 bkz şempanze götü vs tayyip
