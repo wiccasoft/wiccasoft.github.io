@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz neeşet ertaş şarkıya girene kadar götünü parmaklayan anadolu maymunu
+https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
 bkz 1881 ata cücü 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-gen%C3%A7leri-sigara-ve-alkole-%C3%B6zendirmesi/&w=bg
 https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ senin ciğerini sikeyim sığır
