@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!-- 
+https://mavi-tutkusu.uludagsozluk.com/ bkz ölüleri trolleyen troll
 https://www.uludagsozluk.com/k/elvis-presley/&w=bg ne günlerimiz var bu kampyon şörüydü ben adam ettim bu iti
 https://www.uludagsozluk.com/k/tom-hanks/&w=bg bkz primci
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=gd bkz mesut yılmaz
