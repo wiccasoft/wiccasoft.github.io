@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz kıvanç tatlıoğlanın adanalı olması
+https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-un-adanal%C4%B1-olmas%C4%B1/&w=bg
 bkz tayyibin sarayın önüne polis yığması
 https://tengir-budun.uludagsozluk.com/ tekalif-i milliye lideri
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
