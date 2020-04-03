@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz neşet ertaş dinlerken götünün parmaklayan gay
+https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
 https://www.uludagsozluk.com/k/asr%C4%B1n-liderini-para-istemek-zorunda-b%C4%B1rakmak/ abi para ver abii
 https://www.uludagsozluk.com/k/eve-19-ya%C5%9F%C4%B1nda-k%C4%B1z-atmak/ hayallerde yaşıyor baız ibneler
 https://www.uludagsozluk.com/k/tiktok-videosunda-yap%C4%B1lan-m%C3%BCthi%C5%9F-dil-hareketi/ iğrenç amk
