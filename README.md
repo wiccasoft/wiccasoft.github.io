@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!-- 
+bkz zulüm 1071 de başladı diyen orospu evladı
 https://www.uludagsozluk.com/k/siz-t%C3%BCrkiyedesiniz-bu-y%C3%BCzden-%C3%A7ok-%C5%9Fansl%C4%B1s%C4%B1n%C4%B1z/
 https://www.uludagsozluk.com/k/viroloji-mikrobiyoloji-bilmeden-covid-19-konu%C5%9Fmak/
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/
