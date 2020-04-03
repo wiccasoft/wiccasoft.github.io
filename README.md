@@ -27,8 +27,7 @@ facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyo
 https://www.uludagsozluk.com/k/tayyip-in-tek-ba%C5%9F%C4%B1na-soka%C4%9Fa-%C3%A7%C4%B1kamamas%C4%B1/
 https://www.uludagsozluk.com/k/adanal%C4%B1-%C3%BCnl%C3%BCler/&w=bg ay hepsi de erkek ayol
 https://www.uludagsozluk.com/k/survivor-daki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkekler/ yenilesi erkekler
-https://www.uludagsozluk.com/k/adanal%C4%B1-%C3%BCnl%C3%BCler/&w=bg bkz sansa şaşa fatih terim tatlıoğlan
-https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/ bkz dünya lideri
+https://www.uludagsozluk.com/k/adanal%C4%B1-%C3%BCnl%C3%BCler/&w=bg bkz fatih terim tatlıoğlan
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-un-adanal%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/
 https://frank-lucas.uludagsozluk.com/ bkz kendini clint eat wood sanan esmer ve gay mümin
