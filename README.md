@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bkz tayybin torununa arapça öğretmesi
+bkz tayybin milli takkiye ceketini giymesi
+bkz tayyibin torununa arapça öğretmesi
 bkz kaya çiligiroğlu ve mehmet çilingiroğlu
 bkz tayybin tekalifi milliyeden bahsetmesi
 bkz tayybin yeniden tekalifi milliye ceketimi giydim demesi
