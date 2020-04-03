@@ -1,22 +1,5 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=OLLJkDp9yO0 )
 
-<!--
-https://www.youtube.com/watch?v=OLLJkDp9yO0
-bkz brüt 2200+skk+akbil hem de full akbil haaaaaaaa 
-bkz sonra döndüm dedim ki iyi ki sözleşmeli uzman erbaş olmuşum
-https://www.uludagsozluk.com/k/cahil-asker-benden-%C3%A7ok-al%C4%B1yor-diyen-%C3%B6%C4%9Fretmen/&w=gd
-https://www.uludagsozluk.com/k/sadece-tatildeyken-a%C3%A7%C4%B1lan-t%C3%BCrbanl%C4%B1/ bkz tayyibin kızı
-bkz atama bekleyen yapay zeka
-bkz asker maaşı ne kadar tam olarak
-bkz 13. cumburlop benden az kazanıyore
-https://www.uludagsozluk.com/k/tam-olarak-ne-kadar-para-hayat%C4%B1n%C4%B1z%C4%B1-kurtar%C4%B1r/&w=bg
-https://www.uludagsozluk.com/k/cahil-asker-benden-%C3%A7ok-al%C4%B1yor-diyen-%C3%B6%C4%9Fretmen/ bkz kaynak götü
-bkz sagopa kajmer türkiyenin fifti sentidir
-https://www.uludagsozluk.com/k/siz-t%C3%BCrkiyedesiniz-bu-y%C3%BCzden-%C3%A7ok-%C5%9Fansl%C4%B1s%C4%B1n%C4%B1z/&w=gd
-https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=bg sagopa kajmer isyankar serseri
-https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=gd -->
-
-
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
 
 [![Image](eq/Screenshot_2020-04-01_20-19-21.png)]( https://www.youtube.com/watch?v=L8Ig4HbgA0c )
