@@ -3,7 +3,9 @@
 
 <!-- 
 bkz fatih portakal vs şempanze götü
-https://www.uludagsozluk.com/k/fatih-terim/&w=gd nerde kalmıştık :))) -->
+https://www.uludagsozluk.com/k/fatih-terim/&w=gd nerde kalmıştık :)))
+https://www.uludagsozluk.com/k/bir-osmanl%C4%B1-padi%C5%9Fah%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg bkz işsizlik level 999
+-->
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
