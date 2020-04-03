@@ -4,6 +4,7 @@
 <!--
 https://www.uludagsozluk.com/k/ali-uyand%C4%B1ran/&w=bg
 https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg
+https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=gd
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/ 
 -->
 
