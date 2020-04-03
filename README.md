@@ -2,9 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
-bkz millet hizmet beklerken kk nın osura osura uyuması
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg
 bkz şempanze götü vs hüseyin nihal atsız
+bkz millet hizmet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg bkz hayallerde yaşıyor bazı ibneler
