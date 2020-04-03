@@ -3,6 +3,7 @@
 
 <!--
 bkz ulucuların türkiyeye faydaları
+https://www.uludagsozluk.com/k/doblo-mangal-ve-rak%C4%B1-%C3%BC%C3%A7l%C3%BCs%C3%BC/
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
 bkz hüseyin nihatl atsızın türkiyeye verdii zararlar
 bkz hüseyin nihal atsız kapatılsın kampanyası
