@@ -3,6 +3,7 @@
 
 <!--
 bkz ata cücü nün her gece rakı içmesi
+bkz ata cücü nün gençleri sigara ve alkole özendirmesi
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg
 https://www.uludagsozluk.com/k/alkol%C3%BCn-vir%C3%BCse-kar%C5%9F%C4%B1-iyi-gelmesi/
 bkz neeşet ertaş şarkıya girene kadar götünü parmaklayan anadolu maymunu
