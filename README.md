@@ -4,7 +4,7 @@
 <!--
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-un-adanal%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/
-https://frank-lucas.uludagsozluk.com/ bkz kendinin clint eat wood sanan gay mümin
+https://frank-lucas.uludagsozluk.com/ bkz kendini clint eat wood sanan esmer ve gay mümin
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ensesi/&w=bg
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/
 https://www.uludagsozluk.com/k/saray%C4%B1ndan-burnunu-%C3%A7%C4%B1karamayan-d%C3%BCnya-lideri/
