@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.xnxx.com/video-ekhvz7e/naughty_housewife_full_video )
 
 <!--
+bkz atama bekleyen yapay zeka
 bkz asker maaşı ne kadar tam olarak
 bkz 13. cumburlop benden az kazanıyore
 https://www.uludagsozluk.com/k/tam-olarak-ne-kadar-para-hayat%C4%B1n%C4%B1z%C4%B1-kurtar%C4%B1r/&w=bg
