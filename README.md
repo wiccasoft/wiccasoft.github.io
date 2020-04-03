@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://saban-filmindeki-gulyabani.uludagsozluk.com/ bkz türkiye ye fayda ölçer
 bkz alpaslan türkeşin türkiyeye verdiği faydalar
 bkz grup vitamindeki ismail
 bkz tatlı mandalina götünün yanında iyi gidenler
