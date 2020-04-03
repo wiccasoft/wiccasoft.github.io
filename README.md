@@ -2,10 +2,10 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.xnxx.com/video-ufet74b/milf_-_detention_time_with_lily_lane_and_juan_loco)
 
 <!--
+
+https://twitter.com/aslinandik/status/1245745281687269378 bkz cübbelinin ümrecileri suçlaması
 https://www.uludagsozluk.com/k/tam-olarak-ne-kadar-para-hayat%C4%B1n%C4%B1z%C4%B1-kurtar%C4%B1r/&w=bg para lazımsa gönderim
 https://eksisozluk.com/3-nisan-2020-bilim-kurulu-toplantisi-kararlari--6452418?a=popular bkz ay şükürler olsun yalebbim
-bkz cübbelinin ümrecileri suçlaması
-https://twitter.com/aslinandik/status/1245745281687269378
 bkz 2200tl+skk+akbil hem de ful akbil haaaaaaaa
 bkz sonra dedim ki iyi ki sözleşmeli uzman çavuş olmuşum haa
 https://www.uludagsozluk.com/k/cahil-asker-benden-%C3%A7ok-al%C4%B1yor-diyen-%C3%B6%C4%9Fretmen/
