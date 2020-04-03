@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.xnxx.com/video-ufet74b/milf_-_detention_time_with_lily_lane_and_juan_loco)
 
 <!-- 
-bkz 18 81 ata cücü 18+81=99 - 81 bilayet - batman = covid19 hala ibret almazmısınız
+bkz 18 81 ata cücü 18+81=99 - 81 vilayet - batman = covid19 hala ibret almazmısınız ey iban edenler
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-eczane-logosu-rezaleti/ bkz amınoğlu ekremin haç sevdası -->
 
