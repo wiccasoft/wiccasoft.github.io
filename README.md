@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/eve-19-ya%C5%9F%C4%B1nda-k%C4%B1z-atmak/ hayallerde yaşıyor baız ibneler
 https://www.uludagsozluk.com/k/tiktok-videosunda-yap%C4%B1lan-m%C3%BCthi%C5%9F-dil-hareketi/ iğrenç amk
 bkz mansur yavaş la hızlı bir gece vs ekrem imamaoğlanla romantik bir akşam
 https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ adamın amına koyan şarkılar
