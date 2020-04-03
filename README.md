@@ -5,6 +5,7 @@
 bkz şempanze götü vs hüseyin nihal atsız
 bkz millet hizmet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/alkol%C3%BCn-vir%C3%BCse-kar%C5%9F%C4%B1-iyi-gelmesi/
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg bkz hayallerde yaşıyor bazı ibneler
