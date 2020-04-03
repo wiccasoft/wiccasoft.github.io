@@ -3,6 +3,7 @@
 
 <!--
 bkz iğrençsiniz lan ibneler
+bkz adanalı olduğumu sanan ibneler
 bkz şaban filmindeki gulyabani vs maymun götü
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
 bkz yiyin birbiriniz ibneler göte para vermeyin
