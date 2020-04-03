@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz rakının yanında iyi gidenler
 bkz dunkof halisin türkiyeye verdiği zarar
 bkz dunkof halis vs bizmikiler galip
 bkz rtakının yanında neşet ertaş açmak
