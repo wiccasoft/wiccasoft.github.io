@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-vkz tayyipin ezanlarımızı susturmayacaksınız demesi
+bkz tayyipin ezanların sesisni açması
+bkz tayyipin ezanlarımızı susturmayacaksınız demesi
 https://www.uludagsozluk.com/k/muharrem-ince-nin-rte-ye-verdi%C4%9Fi-ayar/&w=bg bkz ince gör logar
 bkz tayyipin kareli ceketleri
 bkz sedat pekerle tayyipin hemşeri olması
