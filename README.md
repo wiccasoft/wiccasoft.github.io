@@ -2,7 +2,9 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
-https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg hayallerde yaşıyor baız ibneler
+https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/gece-s%C3%B6zl%C3%BC%C4%9Fe-giren-erke%C4%9Fin-amac%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/bizimkiler-galip/&w=bg hayallerde yaşıyor bazo ibneler
 https://sweetmandarine.uludagsozluk.com/ tatlı mandalina vs maymun götü
 https://www.uludagsozluk.com/ bkz gerizekalı ibnelerin türkiyeye faydası
 https://www.uludagsozluk.com/k/bob-ross/&w=bg  bkz hayallerde yaşıyor bazı ibneler
