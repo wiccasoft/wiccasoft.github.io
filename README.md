@@ -3,6 +3,7 @@
 
 <!--
 bkz yiyin birbiriniz ibneler göte para vermeyin
+https://www.uludagsozluk.com/k/kemalist-hareket-%C3%B6nlenemez/&w=bg
 https://www.uludagsozluk.com/k/gece-s%C3%B6zl%C3%BC%C4%9Fe-giren-erke%C4%9Fin-amac%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-a%C5%9F%C4%B1k-at%C4%B1%C5%9Fmas%C4%B1/&w=bg
 https://sweetmandarine.uludagsozluk.com bkz mayun götü
