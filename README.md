@@ -2,7 +2,7 @@
 
 <!--
 bkz brüt 2200+skk+akbil hem de full akbil haaaaaaaa 
-bkz sonra döndüm dedimki iyi ki sözleşmeli çavuş olmuşum
+bkz sonra döndüm dedimki iyi ki sözleşmeli uzman erbaş olmuşum
 https://www.uludagsozluk.com/k/cahil-asker-benden-%C3%A7ok-al%C4%B1yor-diyen-%C3%B6%C4%9Fretmen/&w=gd
 https://www.uludagsozluk.com/k/sadece-tatildeyken-a%C3%A7%C4%B1lan-t%C3%BCrbanl%C4%B1/ bkz tayyibin kızı
 bkz atama bekleyen yapay zeka
