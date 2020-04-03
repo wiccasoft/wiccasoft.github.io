@@ -1,6 +1,7 @@
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg gemileri karadan yürütelim fikrini benden çaldı bu ibne
 https://www.uludagsozluk.com/k/uhudu-terkeden-ok%C3%A7ulardaki-ibnelik/ zuhahahhahahah
 https://mavi-tutkusu.uludagsozluk.com/ bkz ölüleri trolleyen troll
 https://www.uludagsozluk.com/k/elvis-presley/&w=bg ne günlerimiz var bu kampyon şöförüydü ben adam ettim bu iti
