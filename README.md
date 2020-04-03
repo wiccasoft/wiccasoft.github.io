@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)](http://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz tayyipin kareli ceketleri
 bkz sedat pekerle tayyipin hemşeri olması
 https://www.uludagsozluk.com/k/adanal%C4%B1-%C3%BCnl%C3%BCler/&w=bg fatih terim hsaan şaş k.tatlıoğlan
 https://www.uludagsozluk.com/k/tayyip-in-market-al%C4%B1%C5%9Fveri%C5%9Fini-yap%C4%B1yoruz-kampanyas%C4%B1/
