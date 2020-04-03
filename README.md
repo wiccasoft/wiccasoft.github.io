@@ -4,6 +4,7 @@
 <!-- 
 bkz bi akil erkekler vardı noldu onlara
 bkz alparslan isimli erkeklerin özellikleri
+https://twitter.com/aslinandik/status/1245745281687269378 bkz cübbelinin ümrecileri suçlaması
 https://www.uludagsozluk.com/k/alparslan-arslan-%C4%B1n-mahkemesini-18-kere-izlemek/ 
 https://eksisozluk.com/3-nisan-2020-bilim-kurulu-toplantisi-kararlari--6452418?a=popular bkz ay şükürler olsun yalebbim
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz seviyorum ama kimi 
