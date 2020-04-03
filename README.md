@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.xnxx.com/video-ufet74b/milf_-_detention_time_with_lily_lane_and_juan_loco)
 
 <!--
-bkz müslümanların virüsü yayması
+bkz ümreciler vicdan azabı çekiyor mudur sorunsalı
 https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BCn-gelmesine-sevinen-m%C3%BCsl%C3%BCman/ bkz ihsan şenocak
 https://www.uludagsozluk.com/e/7670200/ lol -->
 
