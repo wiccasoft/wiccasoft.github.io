@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://sweetmandarine.uludagsozluk.com/ sweet ibnesi vs maymun götü
 https://www.uludagsozluk.com/ bkz gerizekalı ibnelerin türkiyeye faydası
 https://www.uludagsozluk.com/k/bob-ross/&w=bg  bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
