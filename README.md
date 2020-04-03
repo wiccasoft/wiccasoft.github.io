@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg bkz şempanze götü
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/
+https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ bkz göt parmaklamak
 https://www.uludagsozluk.com/k/ci%C4%9Fer-siken-%C5%9Fark%C4%B1lar/ bkz neşet ertaş ibo düetleri
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem yavaş imanın gevredi
 bkz ata cücü nün rakı damarlarındaki asil kan da mevcuttur lafı
