@@ -5,8 +5,9 @@
 bkz kim jong una benzeyen adamın dramı
 https://www.youtube.com/watch?v=Ch5s1VEccG0 
 bkz şaka maka virüsün ulus devletleri iyi sikertmesi
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-oynad%C4%B1%C4%9F%C4%B1-erotik-film/ emeğine aktım kardeş
 https://www.uludagsozluk.com/k/kim-jong-un-un-un-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ 
+bkz bülent ersoyun askerlik fotoları
+https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-oynad%C4%B1%C4%9F%C4%B1-erotik-film/ emeğine aktım kardeş
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-oynad%C4%B1%C4%9F%C4%B1-erotik-film/ yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-osmanl%C4%B1-da-ya%C5%9Fasayd%C4%B1-ne-olurdu/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 163 kısa mı lan orospu
