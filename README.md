@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+bkz ibanın şartları
 bkz necmettin erbakanın milli iban gömleğini tayyibe giydirmesi
 bkz necmettin erbakanın tayyipi dizinde yetiştirmesi
 bkz receğ tayyiğ erdoğanın eleştireen zibidi
