@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+bkz maymun götü vs ülkücüler
 bkz e devletten ermeni ve devlete borcu olduğunu olduğunu öğrenen ülkücü
 bkz fakirlerin devlet sevdası
 bkz jandarma abiii beni sikiyolay diyen fakir
