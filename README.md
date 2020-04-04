@@ -3,6 +3,7 @@
 
 <!-- 
 bkz dibini dövdürmek
+bkz pulp fiction zenciye tecavüz sahnesi
 bkz dibini dövdüren adamın onurdan bahsetmesi
 bkz jikim dibini dövüyo lan bu adamın
 bkz dibini dövdürüp namus onur şerefe diyern adam
