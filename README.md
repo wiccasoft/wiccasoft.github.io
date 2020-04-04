@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz adil öksüzün tekalifi milliyeciyim açıklaması
 bkz elif can yetim vs adil öksüz
 bkz adil kullanım kotası vs tekalifi fedöcüler
 bkz alpaslan türkeşin fettullah gülenle olan fotosu
