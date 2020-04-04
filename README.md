@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz abi la casa de papel izliyom abüüü aynı breaking bad abüüüüüüüü
 bkz torrentten indiği sanılan diziler
 bkz gökten inidiği sanılan ümreciler
 bkz atacücünün sözlerim bilimle uyuşmuyosa bilimi seçin lafı
