@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz bekçileri proveke eden karadenizli dayı
 bkz karşıki değler cendermeeeee cendermeeeeeeeeeee
 bkz ismailağa cemaatininin iban istemesi
 bkz ümrecileri proveke eden kovidciler
