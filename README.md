@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz iphone kullanmayıp adamım diye gezen oçları
 bkz netfliz varken tez yazan oç
 bkz iphone varken xiomi kullanan oç
 bkz gmail varken yandex kullanan oç
