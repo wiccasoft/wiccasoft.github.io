@@ -3,7 +3,7 @@
 
 <!--
 bkz kamalcıların dünyaya katkıları
-bkz 1881 atacücü 18+81 = 99 -81 bilayet - batman = covid19
+bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
 bkz sikin birbirinizi göte para vermeyinin ingilizcesi
 bkz kamalcıların eşcinsellik dışında türkiyeye kattıkları
 https://www.uludagsozluk.com bkz hayallerde yaşıyor bazı ibneler
