@@ -1,50 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
-<!--
-bkz 2020 yılında hala forum sitesinde entry giren ezik oç
-bkz la casa d papel varken izlemeyen ezik oç
-bkz iphone varken xiomi kullanan ezik oç
-bkz helin bölek vs neşet ertaş
-bkz barış akarsu vs kerim tekin
-bkz helin bölekin de bir şarkısında dediği gibi
-bkz grup vitamin ismail vs grup yorum helin bölek
-https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg 
-https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg bkz merhumu nasıl bilirdiniz
-bkz netflix varken tez yazan ezik oç
-bkz iphone 11 varken kullanmayan ezik oç
-bkz iphone x varken xiomi kullanan ezik oç
-bkz orospunun sıçtıkları hala adıma başlık açmamışlar bu demk ki hala doğru yoldayım
-bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
-https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg annenin amcığı oç
-https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg bkz helin bölek kim amk
-https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular bkz yaş kaç evlat
-https://eksisozluk.com/helin-bolek--6392482?a=popular bkz helin bölek kim amk
-https://www.uludagsozluk.com/k/la-casa-de-papel-sezon-4/&w=bg
-https://www.uludagsozluk.com/k/la-casa-de-papel-palermo/
-https://eksisozluk.com/helin-bolek--6392482?a=popular
-https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=gd
-https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular 
-bkz helin bölekin grup vitamine katılması
-bkz grup vitamin ismailin helin bölek düeti 
-bkz maroon5 adam levine in açlık grevine son vermesi
-https://www.uludagsozluk.com/ bkz tek hücreli yaşam formları
-bkz bizimkiler dunkof halisin la casa de papel için netflix alması
-bkz netflix hesabı olanın kendini zengin sandığı malum ülke
-https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=gd bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz minnak totoşların hayali
-https://eksisozluk.com/bir-orta-sinif-budalaligi-olarak-netflix--6454447?a=popular güldürür evet
-https://www.uludagsozluk.com/ bkz minnak ibnelerin sürekli hayallerde yaşamaları
-https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.youtube.com/watch?v=PeIVhIwE8zU dooyuluğ mu doyuluğ mu
-https://www.youtube.com/watch?v=EfAsNffCjsM ellek süper bence
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ göt parmaklamak 
-https://www.youtube.com/watch?v=Gs_aq13sU3E yakışıklı adamım nasılım
-https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 163 kısa mı olm
--->
-
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
