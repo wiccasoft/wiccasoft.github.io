@@ -1,5 +1,5 @@
 
-[![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
+[![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=0rjItOxZAgg )
 
 <!-- 
 https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu varrrrr
