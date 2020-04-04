@@ -1,22 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=0rjItOxZAgg )
 
-<!-- 
-https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu varrrrr
-https://www.youtube.com/watch?v=ktmzyChfPmk bkz frank lucas
-https://www.youtube.com/watch?v=3TSO7ilIG5o bkz rall
-https://www.uludagsozluk.com/k/k%C3%BCrtleri-%C3%B6c%C3%BC-sanmak/ öcü gibi korkuyorlar neşer ertaşgillerden
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ bkz rall ile frank lucas
-https://rall.uludagsozluk.com bkz reisinin bi kutu topkek yolladığı ergen
-https://www.uludagsozluk.com/k/iphone-11-alamayan-ezikler/&w=bg bkz netfiliksi olmayan oçler
-https://rall.uludagsozluk.com bkz imamaoğlanın senden haberi var mı acaba keko
-bkz tek dünya devletini kurup tayyipin ülkesine siktiri çekmek
-https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-yok/ 
-bkz kara kafalı arap kırması çomarların korkulu rüyası beşikdüzülü dayı
-bkz beşikdüzülü sert siken erkeğiniz geldi veletler
-bkz adana01 dizisindeki veletleri odaya kapatıp duvardan duvara vura vura sikmek
--->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
