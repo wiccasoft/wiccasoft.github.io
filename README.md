@@ -4,6 +4,7 @@
 <!--
 bkz atacan kayalay vs maymun götü
 bkz atacan kayalayın dünyaya katkıları
+bkz platonun filozof okulunda kovaladığı minnak filozoflar
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ bkz atacan kayalay -->
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
