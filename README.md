@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz fehriye evcen nin kara kafalı kocasının kısık boktan bakışları
 bkz neşet ertaş dinlerken götünü parmaklayan kürt
 bkz ali kınık erkan oğur ciğer yakan düeti
 bkz neşet ertaş dinlemeen önce yapılacaklar
