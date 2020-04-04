@@ -3,7 +3,7 @@
 
 <!-- 
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet -batman = covid19 
-bkz 1071 alpaslan 1071+1000- alpaslan türkeş = 2071 cyberfaşo
+bkz 1071 alpaslan 1071+1000-alpaslan türkeş = 2070 cyberfaşopunkers
 -->
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
