@@ -2,14 +2,13 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
-https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg bkz helin bölek kim amk
-https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular bkz yaş kaç evlat
-https://eksisozluk.com/helin-bolek--6392482?a=popular bkz helin bölek kim amk
-bkz entry girmek varken tez yazan oç
 bkz netflix varken tez yazan ezik oç
 bkz iphone 11 varken kullanmayan ezik oç
 bkz iphone x varken xiomi kullanan ezik oç
-https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg annenin amcığı 
+https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg annenin amcığı oç
+https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg bkz helin bölek kim amk
+https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular bkz yaş kaç evlat
+https://eksisozluk.com/helin-bolek--6392482?a=popular bkz helin bölek kim amk
 https://www.uludagsozluk.com/k/la-casa-de-papel-sezon-4/&w=bg
 https://www.uludagsozluk.com/k/la-casa-de-papel-palermo/
 https://eksisozluk.com/helin-bolek--6392482?a=popular
