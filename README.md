@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
-https://frank-lucas.uludagsozluk.com bu ibne yaşıyo mu lan hala
+https://frank-lucas.uludagsozluk.com bu ibne yaşıyo mu lan hala adı fahrettin frank diye nick almış ibnenin evladı
  -->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
