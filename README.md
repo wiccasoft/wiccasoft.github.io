@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk )
 
 
-<!-- 
+<!--
+bkz götten sikilen adanalının yetişin komşular jandarma diye bağırması
 bkz jandarmaya rüşvet verip adanalı götü sikmek
 https://www.uludagsozluk.com/k/kap%C4%B1c%C4%B1lar-kral%C4%B1-filmindeki-seyit-in-kar%C4%B1s%C4%B1/ bkz dilek imamoğlu
 bkz maymun götü vs nesgayfe
