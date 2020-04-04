@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+https://www.uludagsozluk.com/k/kimlik-soran-polise-nah-%C3%A7ekip-al-sana-kimlik-demek/&w=bg 
 https://eksisozluk.com/markette-vendetta-maskesi-takan-dayi--6455179?a=popular bkz karadenizli terörörük dayı
 https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular tıklayağlım izleyeğlim
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz tıklağ 720 p izleğ -->
