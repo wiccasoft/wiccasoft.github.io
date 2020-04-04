@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz ibneleri kudurtan terörik
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun götü 
 https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular yıkla 720 p izleğ kankağ-->
 
