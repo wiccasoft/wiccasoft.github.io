@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz zulüm 1071 de maymunların anadoluyu işgali ile başladı
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun suratlı ülkücü
 bkz hayallerde yaşıyor bazı ülkeler
 bkz altıncı his filminde i see dead people diyen çocuk
