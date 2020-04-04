@@ -3,6 +3,7 @@
 
 <!-- 
 bkz cier söken uzun havalar
+bkz kürtlerin gazel okurken elini kulağına koyarak çığırması
 https://www.uludagsozluk.com/k/erkan-o%C4%9Fur/&w=bg bkz adamın amına koyar bi ağıt yakiy amk
 -->
 
