@@ -3,7 +3,6 @@
 
 <!-- 
 bkz ümreciler vs kovidciler
-bka abi kötü adamlı dizi izliyom süper abi adamlar özeniyom ama olsun abi
 bkz kurtlar vadisi efsane diyaloglar
 bkz ekşideki tek hücreli yaşam formları
 bkz abi la casa de papel izliyom abüüü aynı breaking bad abüüüüüüüü
