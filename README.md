@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-bkz amerikanın tüketici fino köpekleri olarak türkler
+bkz amerika twittterı kapatsa fino köpeği gibi kalacak türkler
 bkz facebook varken tencent kulananan oç
 bkz gmail varken yandex kullanan oç
 bkz youtube premium varken dailymotion kullanan oç
