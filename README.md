@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
-bkz kara kafalı arap kırması çomarın beşikdüzülü dayıya kürt demesi
+bkz kara kafalı arap kırması çomarların korkulu rüyası beşikdüzülü dayı
 bkz beşikdüzülü sert siken erkeğiniz geldi veletler
 bkz adana01 dizisindeki veletleri odaya kapatıp duvardan duvara vura vura sikmek
 https://www.uludagsozluk.com bkz döve döve sikilecek ergenler veritabanı
