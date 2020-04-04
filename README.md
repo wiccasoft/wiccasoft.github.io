@@ -6,6 +6,7 @@ bkz entry girmek varken tez yazan oç
 bkz netflix varken tez yazan ezik oç
 bkz iphone 11 varken kullanmayan ezik oç
 bkz iphone x varken xiomi kullanan ezik oç
+https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg annenin amcığı 
 https://www.uludagsozluk.com/k/la-casa-de-papel-sezon-4/&w=bg
 https://www.uludagsozluk.com/k/la-casa-de-papel-palermo/
 https://eksisozluk.com/helin-bolek--6392482?a=popular
