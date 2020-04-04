@@ -4,6 +4,7 @@
 <!--
 bkz ipbone 11 i olmayan ezik oç
 bkz netflix varken tez yazan ezik oç
+bkz iphone x varken xiomi kullanan ezik oç
 https://www.uludagsozluk.com/k/la-casa-de-papel-sezon-4/&w=bg
 https://www.uludagsozluk.com/k/la-casa-de-papel-palermo/
 https://eksisozluk.com/helin-bolek--6392482?a=popular
