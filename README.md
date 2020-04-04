@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+bkz helin bölekin eşşek cennetine girmesi
 bkz maroon 5 adam levine in açlık grevine son vermesi
 bkz grup vitamin ismailin açlık grevine girmesi
 https://www.uludagsozluk.com/ bkz tek hücreli yaşam formları
