@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-bkz netflix hesabı olanın kendini zengin sandığı ülke
+bkz netflix hesabı olanın kendini zengin sandığı malum ülke
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=gd bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz minnak totoşların hayali
 https://eksisozluk.com/bir-orta-sinif-budalaligi-olarak-netflix--6454447?a=popular güldürür evet
