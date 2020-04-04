@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
-bkz dağ başında arazi alıp devlet kontrolünde adanalı sikmek
+bkz dağ başında arazi alıp devlet kontrolünde adanalı siken beşikdüzülü
 bkz götten sikilen adanalının yine sik abi jandarma çağırmayacam abi demesi
 bkz devletin fakirler zenginleri öldürmesin diye olduğunu anlayan jandarmacı fakir
 bkz fakirlerin devleti kendileri için var sanması
