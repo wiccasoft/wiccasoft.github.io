@@ -3,7 +3,7 @@
 
 <!-- 
 bkz sarışınların üstün ırk olduğu gerçeği
-bkz siyah saçlı biri görünce gelen kusma isteği,
+bkz siyah saçlı biri görünce gelen kusma isteği
 bkz yusuf güneyi yakışıklı bulan midesiz türk kızları
 bkz türk kızlarının böcek suratlı tiplere yakışıklı demesi
 bkz neşet ertaş dinlerken götünü parmaklayan kürt
