@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/&w=bg 
+bkz tekalifi milliyeciler
 bkz tayyipin rallı baş danışman yapması
 bkz alpaslan türkeş vs maymun götü
 bkz zeki mürenin ibne olduğu gerçeği
