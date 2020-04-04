@@ -3,7 +3,7 @@
 
 <!--
 bkz grup vitamin ismail türüt helin bölek düeti
-bkz maroon 5 adam levine in açlık grevine son vermesi
+bkz maroon5 adam levine in açlık grevine son vermesi
 https://www.uludagsozluk.com/ bkz tek hücreli yaşam formları
 bkz bizimkiler dunkof halisin la casa de papel için netflix alması
 bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
