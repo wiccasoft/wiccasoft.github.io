@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-3bkz ataacücünün türkiye iphone netfliz facebook twitter kullanana gençlere emanet kalcaktır lafı
+bkz atacaününü netflizi facebook twitter instagrama özendirmesi
+bkz ataacücünün türkiye iphone netfliz facebook twitter kullananan gençlere emanet kalcaktır lafı
 bkz whatsup ı olmayıp adamım diye gezen oç
 bkz atacücünnü te ce ümreciler tarikaTÇILAR MEMLEKETİ DEĞİLDİR LAFI
 bkz ümrecier vs atacücücünün aydınlık netflizicileri
