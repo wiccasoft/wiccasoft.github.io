@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/laftan-anlamayan-insanlar/ bkz devlete karşı gelen insanlar
 bkz jandarmayı proveke eden karadenizli dayının herkese göt vermeyecem demesi
 bkz behzat çe efso diyaloglar
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ 
