@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
+<!-- https://www.uludagsozluk.com/k/d%C3%BCnya-lideri-denince-akla-gelen-ilk-isim/ bkz yarramın lideri recep -->
+
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
