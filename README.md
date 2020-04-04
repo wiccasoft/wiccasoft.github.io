@@ -3,6 +3,7 @@
 
 <!--
 bkz ibanın şartları
+https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg bkz ne mozayığığ lan 
 bkz tekalifi milliyeciler vs duyunu fırsatçılar
 bkz şaka maka tayyipin bana  toprak satacağı günlerin gelmesi
 bkz fettulah gülenin siyasi ayağıyla abdest alıp iban edilenleri yemesi
