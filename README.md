@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz atacücünün sözlerim bilimle uyuşmuyosa bilimi seçin lafı
 bkz atacaününü netflizi facebook twitter instagrama özendirmesi
 bkz ataacücünün türkiye iphone netfliz facebook twitter kullananan gençlere emanet kalcaktır lafı
 bkz whatsup ı olmayıp adamım diye gezen oç
