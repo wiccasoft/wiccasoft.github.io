@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1nda-hala-telefon-kullanmak/ güldürür evet
 bkz her gece dibini dövdüren adam
 bkz pul fiction da dibini dövdüren kel zenci
 bkz dibini dövdüren adam
