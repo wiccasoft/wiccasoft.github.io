@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz efe aydal türkiyenin google ıdır
 bkz ümreciler vs kovidciler
 bkz kurtlar vadisi efsane diyaloglar
 bkz ekşideki tek hücreli yaşam formları
