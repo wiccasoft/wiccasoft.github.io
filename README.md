@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz 20 yaşındaki zibidinin süleman soyluyu eleştirmesi
+https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-s%C3%BCleman-soyluyu-ele%C5%9Ftirmesi/
 bkz adil öksüzün tekalifi milliyeciyim açıklaması
 bkz elif can yetim vs adil öksüz
 bkz adil kullanım kotası vs tekalifi fedöcüler
