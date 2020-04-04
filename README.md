@@ -4,6 +4,7 @@
 <!--
 bkz helin bölek vs neşet ertaş
 bkz barış akarsu vs kerim tekin
+bkz helin bölekin de bir şarkısında dediği gibi
 bkz grup vitamin ismail vs grup yorum helin bölek
 https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg 
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg bkz merhumu nasıl bilirdiniz
