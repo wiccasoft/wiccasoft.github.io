@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+https://www.youtube.com/watch?v=Ch5s1VEccG0 
 bkz fesli bunak vs maymun götü
 bkz ne dediğiniz anlaşılmıyor oç ları
 https://www.uludagsozluk.com/k/kim-jong-un-un-un-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ b
