@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
-bkz netflix varken tez yazan ezik andaval orospunun evladı
+bkz ipbone 11 i olmayan ezik oç
+bkz netflix varken tez yazan ezik oç
 https://www.uludagsozluk.com/k/la-casa-de-papel-sezon-4/&w=bg
 https://www.uludagsozluk.com/k/la-casa-de-papel-palermo/
 https://eksisozluk.com/helin-bolek--6392482?a=popular
