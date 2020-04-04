@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://rall.uludagsozluk.com bkz derin devletin yetkili abisi zall ona hep abi hörmetler der
 https://frank-lucas.uludagsozluk.com/ bkz zibidileri ayar manyaa yapan adam gibi adam
 bkz 20 yaşındaki zibidinin süleman soyluyu eleştirmesi
 https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-s%C3%BCleman-soyluyu-ele%C5%9Ftirmesi/
