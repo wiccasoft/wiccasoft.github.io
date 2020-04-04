@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz rall ile frank lucasın göt olması
 bkz tek dünya devletini kurup tayyipin ülkesine siktiri çekmek
 https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-yok/ 
 bkz kara kafalı arap kırması çomarların korkulu rüyası beşikdüzülü dayı
