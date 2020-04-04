@@ -2,9 +2,9 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz hayallerde yaşıyor bazı ibneler
-bkz neşet girene kadar çay demlemek
-https://www.youtube.com/watch?v=PeIVhIwE8zU doouluğ mu doyuluğ mu
+https://www.youtube.com/watch?v=PeIVhIwE8zU dooyuluğ mu doyuluğ mu
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek süper bence
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ göt parmaklamak 
 https://www.youtube.com/watch?v=Gs_aq13sU3E yakışıklı adamım nasılım
