@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.uludagsozluk.com/k/solcular%C4%B1n-banka-soyma-hayali/ güldürür evet
 https://www.uludagsozluk.com/k/dolar%C4%B1n-6-73-liraya-%C3%A7ak%C4%B1lmas%C4%B1/ 10 olunca haber verin oç ları
 bkz zeki müren türkiyenin teslasıdır
 bkz iban edeceğine netfilize para harcayan uyuşmuş beyinler
