@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
+<!-- https://www.uludagsozluk.com/k/nietzsche-neden-kad%C4%B1n-d%C3%BC%C5%9Fman%C4%B1-oldu/ bkz salome orospusu -->
+
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
