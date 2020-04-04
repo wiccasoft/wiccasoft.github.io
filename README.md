@@ -3,6 +3,7 @@
 
 <!--
 bkz ibanın şartları
+bkz fettulah gülenin siyssi ayağıyla abdest alması
 bkz receğ tayyiğ erdoğana iban etmeyen zibidiler
 bkz necmettin erbakanın milli iban gömleğini tayyibe giydirmesi
 bkz necmettin erbakanın tayyipi dizinde yetiştirmesi
