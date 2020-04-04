@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+https://www.uludagsozluk.com/k/iphone-11-alamayan-ezikler/&w=bg bkz netfiliksi olmayan oçler
 https://rall.uludagsozluk.com bkz imamaoğlanın senden haberi var mı acaba
 bkz rall ile frank lucasın göt olması
 bkz tek dünya devletini kurup tayyipin ülkesine siktiri çekmek
