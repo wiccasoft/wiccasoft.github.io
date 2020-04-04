@@ -1,7 +1,9 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
-<!-- https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz 15 temmuz kumpas fedö ayağı davası -->
+<!-- 
+https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz tıklağ 720 p izleğ -->
+https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz 15 temmuz kumpas fedö ayağı davası -->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
