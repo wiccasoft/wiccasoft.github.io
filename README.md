@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+bkz entry girmek varken tez yazan oç
 bkz netflix varken tez yazan ezik oç
 bkz iphone 11 varken kullanmayan ezik oç
 bkz iphone x varken xiomi kullanan ezik oç
