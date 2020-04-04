@@ -2,6 +2,9 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+bkz tayyibin milli takkiye gömleği
+https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/ bkz milli takkiyeciler
+https://www.uludagsozluk.com/k/ismaila%C4%9Fa-cemaatinin-yard%C4%B1m-kampanyas%C4%B1-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kimlik-soran-polise-nah-%C3%A7ekip-al-sana-kimlik-demek/&w=bg 
 https://eksisozluk.com/markette-vendetta-maskesi-takan-dayi--6455179?a=popular bkz karadenizli terörörük dayı
 https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular tıklayağlım izleyeğlim
