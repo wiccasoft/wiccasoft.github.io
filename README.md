@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz rallın imamaoğlana haddinin bildirmesi
 bkz dibini vurdurup tekalifi milliye gömleği giydim diyen adam
 https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-yok/ bkz mersinli cihangir sen misin
 https://www.uludagsozluk.com/k/garsona-iki-kam%C4%B1%C5%9F-alabilir-miyiz-diyen-erkek/&w=bg bkz tekalifi millici  erkek
