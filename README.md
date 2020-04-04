@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
-bkz götten sikilen adanalının yine sik jandarma çağırmayacam demesi
+bkz götten sikilen adanalının yine sik abi jandarma çağırmayacam abi demesi
 bkz devletin fakirler zenginleri öldürmesin diye olduğunu anlayan jandarmacı fakir
 bkz fakirlerin devleti kendileri için var sanması
 bkz jandarmaya rüşvet verip bi daha sikmek
