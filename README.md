@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz abdullah çatlı vs maymun götleri
 bkz alpaslan türkeşin ne mozaği ulan demesi
 bkz rallın kgt de benim demesi
 bkz rallın derin devlet olması
