@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
+bkz götten sikilen adanalının jandarmaya söyliycem seni demesi
 bkz çukur vuruşma sahnelerinde ay jandarma çağırın ayol diyen erkek
 https://eksisozluk.com/mehmet-cengizin-34-milyon-tl-bagis-yapmasi--6454935?a=popular bkz ibanını yolla bana
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz ibneleri kudurtan terörik
