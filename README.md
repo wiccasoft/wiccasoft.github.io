@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz tallın imamaoğlana postayı koyup haraça bağlaması
 bkz rallın imamaoğlana haddinin bildirmesi
 bkz dibini vurdurup tekalifi milliye gömleği giydim diyen adam
 https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-yok/ bkz mersinli cihangir sen misin
