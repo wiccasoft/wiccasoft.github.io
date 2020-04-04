@@ -1,59 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
-
-<!--
-bkz şimdi sizin kafanızda iki soru işaret var
-bkz rahatça döve döve adam sikmek için arazi satın almak
-bkz ay kolluk kuvvetleri yok muu diyen adanalı döve döve sikmek
-bkz çukur vuruşma sahnelerinde ay jandarma yok mu ayol diyen adanalı
-bkz götten sikilen adanalının yetişin komşular jandarma diye bağırması
-bkz jandarmaya rüşvet verip adanalı götü sikmek
-https://www.uludagsozluk.com/k/kap%C4%B1c%C4%B1lar-kral%C4%B1-filmindeki-seyit-in-kar%C4%B1s%C4%B1/ bkz dilek imamoğlu
-bkz maymun götü vs nesgayfe
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz maymun götü
-bkz 190 mercedesle gezerim ben dokunursan yumruğu yersin hemen
-https://www.uludagsozluk.com/k/mercedes-le-madara-olan-kekonun-gurbet%C3%A7i-%C3%A7%C4%B1kmas%C4%B1/
-https://www.uludagsozluk.com/k/koku%C5%9Fmu%C5%9F-mahallenin-pohpohlad%C4%B1%C4%9F%C4%B1-aleyna-tilki/
-https://nesgayfe.uludagsozluk.com seni bi sikerim devlet bile bulamaz cesedini
-bkz nesgayfeyi döve döve sikerken jandarma diye bağırması
-bkz dağ başında adanalı sikerken jandarma çağıran konyalı
-bkz dağ başında arazi alıp adanalıları döve döve sikmek
-bkz cumburlopu proveke eden beşikdüzülü pepekeli dayı
-bkz zabıtayı proveke eden karadenizli dayı
-bkz bekçileri proveke eden karadenizli dayı
-bkz karşıki değler cendermeeeee cendermeeeeeeeeeee
-bkz ismailağa cemaatininin iban istemesi
-bkz ümrecileri proveke eden kovidci dayı
-bkz tayyipi proveke eden ibancı
-bkz temizlik ibandan gelir
-bkz tayyibin milli takkiye ceketini giymesi
-bkz fakirlerin zenginleri öldürmesin diye devlete vergi vermek
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz mansur yavaş ayol ciğerlerini söktün
-bkz devleti savunanların genelde fakirler olması
-https://www.uludagsozluk.com/k/komutana-benim-vergimle-maa%C5%9F-al%C4%B1yorsun-diyen-er/
-https://www.uludagsozluk.com/k/gereksiz-bir-bilgi-ver/&w=bg bkz jandarmayı proveke eden teröröik
-bkz jandarmayı provek eden terörik karadenizli
-https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/
-https://www.youtube.com/watch?v=ktmzyChfPmk
-bkz e devletten ermeni olduğunun öğrenene gencin dramı
-https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
-https://www.uludagsozluk.com/k/laftan-anlamayan-insanlar/ bkz devlete karşı gelen insanlar
-bkz jandarmayı proveke eden karadenizli dayının herkese göt vermeyecem demesi
-bkz behzat çe efso diyaloglar
-https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ 
-bkz göt isteyen polise nah yapan teröröük karadenizli dayı
-bkz evil basan polise ne basıyon lan diyen terörörük karadenizli
-bkz tayyibin milli takkiye gömleği
-https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz 15 temmuz kumpas fedö ayağı davası 
-https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/ bkz milli takkiyeciler
-https://www.uludagsozluk.com/k/ismaila%C4%9Fa-cemaatinin-yard%C4%B1m-kampanyas%C4%B1-yapmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/kimlik-soran-polise-nah-%C3%A7ekip-al-sana-kimlik-demek/&w=bg 
-https://eksisozluk.com/markette-vendetta-maskesi-takan-dayi--6455179?a=popular bkz karadenizli terörörük dayı
-https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular tıklayağlım izleyeğlim
-https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz tıklağ 720 p izleğ -->
-
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
