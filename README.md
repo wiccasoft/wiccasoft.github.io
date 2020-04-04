@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz her gece dibini dövdüren adam
 https://www.uludagsozluk.com/k/dibini-d%C3%B6vd%C3%BCren-adam%C4%B1n-onurdan-bahsetmesi/&w=bg bkz dibini dövdüren adam
 bkz dibini dövdürmek
 bkz pulp fiction zenciye tecavüz sahnesi
