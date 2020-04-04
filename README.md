@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://saban-filmindeki-gulyabani.uludagsozluk.com/ bkz maymun götü vs şaba filminde oç
 bkz kamalcıların eşcinsellik dışında türkiyeye kattıkları
 bkz kamalcıların dünyaya katkıları
 bkz 1881 atacücü 18+81 = 99 -81 bilayet - batman = covid19
