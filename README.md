@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz minnak totoşların hayali
 https://eksisozluk.com/bir-orta-sinif-budalaligi-olarak-netflix--6454447?a=popular güldürür evet
 https://www.uludagsozluk.com/ bkz minnak ibnelerin sürekli hayallerde yaşamaları
 https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg bkz hayallerde yaşıyor bazı ibneler
