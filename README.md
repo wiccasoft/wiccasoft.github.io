@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz facebook varken tencent kulananan oç
 bkz gmail varken yandex kullanan oç
 bkz youtube premium varken dailymotion kullanan oç
 bkz netfliz varken tez yazan oç
