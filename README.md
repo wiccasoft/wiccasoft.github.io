@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-akarsu/&w=bg bkz ölüseviciler
 bkz atacan kayalay vs şempanze
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ bkz atacan kayalay
 https://www.uludagsozluk.com/k/atakan-kayalar/ bkz türklerin dünyaya kattığı velet
