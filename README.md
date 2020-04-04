@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+bkz evil basan polise ne basıyon lan diyen terörörük karadenizli
 bkz tayyibin milli takkiye gömleği
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/ bkz milli takkiyeciler
 https://www.uludagsozluk.com/k/ismaila%C4%9Fa-cemaatinin-yard%C4%B1m-kampanyas%C4%B1-yapmas%C4%B1/&w=bg
