@@ -1,25 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
-<!-- 
-bkz maymun götü vs ülkücüler
-bkz e devletten ermeni ve devlete borcu olduğunu olduğunu öğrenen ülkücü
-bkz fakirlerin devlet sevdası
-bkz jandarma abiii beni sikiyolay diyen fakir
-bkz dağ başında döve döve adanalı sikmek
-bkz dağ başında arazi alıp devlet kontrolünde adanalı siken beşikdüzülü
-bkz götten sikilen adanalının yine sik abi jandarma çağırmayacam abi demesi
-bkz devletin fakirler zenginleri öldürmesin diye olduğunu anlayan jandarmacı fakir
-bkz fakirlerin devleti kendileri için var sanması
-bkz jandarmaya rüşvet verip bi daha sikmek
-https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
-bkz götten sikilen adanalının jandarmaya söyliycem seni demesi
-bkz çukur vuruşma sahnelerinde ay jandarma çağırın ayol diyen erkek
-https://eksisozluk.com/mehmet-cengizin-34-milyon-tl-bagis-yapmasi--6454935?a=popular bkz ibanını yolla bana
-https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz ibneleri kudurtan terörik
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun götü 
-https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular tıkla 720 p izleğ kankağ-->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
