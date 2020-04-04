@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
+<!-- https://www.uludagsozluk.com/k/erkan-o%C4%9Fur/&w=bg bkz adamın amına koyar bi ağıt yakiy amk -->
+
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
