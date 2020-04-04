@@ -3,7 +3,8 @@
 
 
 <!--
-bkz çukur vurşma sahnelerinde ay jandarma yok mu ayol diyen adanalı
+bkz ay kolluk kuvvetleri yok muu diyen adanalı döve döve sikmek
+bkz çukur vuruşma sahnelerinde ay jandarma yok mu ayol diyen adanalı
 bkz götten sikilen adanalının yetişin komşular jandarma diye bağırması
 bkz jandarmaya rüşvet verip adanalı götü sikmek
 https://www.uludagsozluk.com/k/kap%C4%B1c%C4%B1lar-kral%C4%B1-filmindeki-seyit-in-kar%C4%B1s%C4%B1/ bkz dilek imamoğlu
