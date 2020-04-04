@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+https://www.uludagsozluk.com bkz hayallerde yaşıyor bazı ibneler
 https://mavi-tutkusu.uludagsozluk.com/ bkz peçete artığı gay
 https://sweetmandarine.uludagsozluk.com bkz maymun götü suratlı gay
 https://saban-filmindeki-gulyabani.uludagsozluk.com/ bkz maymun götü vs şaba filminde oç
