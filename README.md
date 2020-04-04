@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz netfiliz türkiyenin uyuşturucusudur
 bkz barış özcan türkiyenin elon musk ıdır
 bkz ruhi çenet türkiyenin steve jobs ıdır
 bkz ene batur türkiyenin mark zuckerbergidir
