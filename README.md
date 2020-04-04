@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
 bkz vuruşmaktan korkan erkek
+bkz çukur vuruşma sahnelerinde ay jandarma ayol diyen erkek
 https://eksisozluk.com/mehmet-cengizin-34-milyon-tl-bagis-yapmasi--6454935?a=popular bkz para sorun değil adres ver
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz ibneleri kudurtan terörik
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun götü 
