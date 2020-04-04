@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun suratlı �
 bkz hayallerde yaşıyor bazı ülkeler
 bkz altıncı his filminde i see dead people diyen çocuk
 https://www.uludagsozluk.com/ bkz i see dead people 
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-akarsu/&w=bg bkz ölüseviciler
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-akarsu/&w=bg bkz ölüsevici
 bkz atacan kayalay vs şempanze
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ bkz atacan kayalay
 https://www.uludagsozluk.com/k/atakan-kayalar/ bkz türklerin dünyaya kattığı velet
