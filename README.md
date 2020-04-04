@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ümreciler vs kovidciler
+bkz kurtlar vadisi efsane diyaloglar
 bkz ekşideki tek hücreli yaşam formları
 bkz abi la casa de papel izliyom abüüü aynı breaking bad abüüüüüüüü
 bkz iphone kullanmayıp adamım diye gezen oçları
