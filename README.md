@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz yine duşa sokamadın kardeş
 https://frank-lucas.uludagsozluk.com bkz kendini clint eastwood sanan hamur suratlı gay ergen
 https://james-earl-cash.uludagsozluk.com/ bkz yine duşa soktun kardeş 
 bkz kim jong una benzeyen adamın dramı
