@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
 https://eksisozluk.com/mehmet-cengizin-34-milyon-tl-bagis-yapmasi--6454935?a=popular bkz para sorun değil adres ver
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz ibneleri kudurtan terörik
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun götü 
