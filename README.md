@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz elif can yetim vs adil öksüz
 bkz adil kullanım kotası vs tekalifi fedöcüler
 https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz bkz tekalifi fedöcüler
 https://www.uludagsozluk.com/ bkz homoseksüel pedofili nekrofili her türlü ibnenin puştun olduğu ortamlar
