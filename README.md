@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz barbaros şansalın enayi parası
+https://www.uludagsozluk.com/k/barbaro%C5%9F-%C5%9Fansal-%C4%B1n-50000-dolar-ba%C4%9F%C4%B1%C5%9Flamas%C4%B1/&w=gd 
 https://rall.uludagsozluk.com bkz derin devletin yetkili abisi zall ona hep abi hörmetler der
 https://frank-lucas.uludagsozluk.com/ bkz zibidileri ayar manyaa yapan adam gibi adam
 bkz 20 yaşındaki zibidinin süleman soyluyu eleştirmesi
