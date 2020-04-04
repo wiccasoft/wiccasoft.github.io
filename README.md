@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
+<!-- https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd -->
+
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
