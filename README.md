@@ -1,7 +1,10 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
+
 <!-- 
+bkz behzat çe efso diyaloglar
+https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ 
 bkz göt isteyen polise nah yapan teröröük karadenizli dayı
 bkz evil basan polise ne basıyon lan diyen terörörük karadenizli
 bkz tayyibin milli takkiye gömleği
