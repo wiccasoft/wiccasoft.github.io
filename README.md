@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular 
 bkz helin bölekin grup vitamine katılması
 bkz grup vitamin ismailin helin bölek düeti 
 bkz maroon5 adam levine in açlık grevine son vermesi
