@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu varrrrr
 https://www.youtube.com/watch?v=ktmzyChfPmk bkz frank lucas
 https://www.youtube.com/watch?v=3TSO7ilIG5o bkz rall
 https://www.uludagsozluk.com/k/k%C3%BCrtleri-%C3%B6c%C3%BC-sanmak/ öcü gibi korkuyorlar neşer ertaşgillerden
@@ -14,7 +15,7 @@ https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-
 bkz kara kafalı arap kırması çomarların korkulu rüyası beşikdüzülü dayı
 bkz beşikdüzülü sert siken erkeğiniz geldi veletler
 bkz adana01 dizisindeki veletleri odaya kapatıp duvardan duvara vura vura sikmek
- -->
+-->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
