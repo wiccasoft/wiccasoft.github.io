@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular bkz yaş kaç evlat
 https://eksisozluk.com/helin-bolek--6392482?a=popular bkz helin bölek
 bkz entry girmek varken tez yazan oç
 bkz netflix varken tez yazan ezik oç
