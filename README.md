@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz e devletten ermeni olduğunun öğrenene gencin dramı
 https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
 https://www.uludagsozluk.com/k/laftan-anlamayan-insanlar/ bkz devlete karşı gelen insanlar
 bkz jandarmayı proveke eden karadenizli dayının herkese göt vermeyecem demesi
