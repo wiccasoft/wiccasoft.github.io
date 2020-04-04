@@ -6,7 +6,7 @@
 bkz bekçileri proveke eden karadenizli dayı
 bkz karşıki değler cendermeeeee cendermeeeeeeeeeee
 bkz ismailağa cemaatininin iban istemesi
-bkz ümrecileri proveke eden kovidciler
+bkz ümrecileri proveke eden kovidci dayı
 bkz tayyipi proveke eden ibancı
 bkz temizlik ibandan gelir
 bkz tayyibin milli takkiye ceketini giymesi
