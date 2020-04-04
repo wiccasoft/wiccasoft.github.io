@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz maymun götü vs nesgayfe
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz maymun götü
 bkz 190 mercedesle gezerim ben dokunursan yumruğu yersin hemen
 https://www.uludagsozluk.com/k/mercedes-le-madara-olan-kekonun-gurbet%C3%A7i-%C3%A7%C4%B1kmas%C4%B1/
