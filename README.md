@@ -14,8 +14,6 @@ https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-
 bkz kara kafalı arap kırması çomarların korkulu rüyası beşikdüzülü dayı
 bkz beşikdüzülü sert siken erkeğiniz geldi veletler
 bkz adana01 dizisindeki veletleri odaya kapatıp duvardan duvara vura vura sikmek
-https://www.uludagsozluk.com bkz döve döve sikilecek ergenler veritabanı
-https://frank-lucas.uludagsozluk.com bu ibne yaşıyo mu lan hala adı fahrettin frank diye nick almış ibnenin evladı
  -->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
