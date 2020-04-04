@@ -5,6 +5,7 @@
 bkz netflix varken tez yazan ezik oç
 bkz iphone 11 varken kullanmayan ezik oç
 bkz iphone x varken xiomi kullanan ezik oç
+bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg annenin amcığı oç
 https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg bkz helin bölek kim amk
 https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular bkz yaş kaç evlat
@@ -19,7 +20,6 @@ bkz grup vitamin ismailin helin bölek düeti
 bkz maroon5 adam levine in açlık grevine son vermesi
 https://www.uludagsozluk.com/ bkz tek hücreli yaşam formları
 bkz bizimkiler dunkof halisin la casa de papel için netflix alması
-bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
 bkz netflix hesabı olanın kendini zengin sandığı malum ülke
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=gd bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz minnak totoşların hayali
