@@ -5,6 +5,7 @@
 bkz elif can yetim vs adil öksüz
 bkz adil kullanım kotası vs tekalifi fedöcüler
 bkz alpaslan türkeşin fettullah gülenle olan fotosu
+bkz tayyoş tekalifi milliyer gömleğimi giydim dese olacaklar
 https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz bkz tekalifi fedöcüler
 https://www.uludagsozluk.com/ bkz homoseksüel pedofili nekrofili her türlü ibnenin puştun olduğu ortamlar
 https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1nda-hala-telefon-kullanmak/ güldürür evet
