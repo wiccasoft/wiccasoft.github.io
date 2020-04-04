@@ -3,6 +3,8 @@
 
 <!-- 
 bkz fesli bunak vs maymun götü
+bkz ne dediğiniz anlaşılmıyor oç ları
+https://www.uludagsozluk.com/k/kim-jong-un-un-un-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ b
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-osmanl%C4%B1-da-ya%C5%9Fasayd%C4%B1-ne-olurdu/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 163 kısa mı lan orospu
 https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd
