@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz nesgayfeyi döve döve sikerken jandarma diye bağırması
 bkz dağ başında adanalı sikerken jandarma çağıran konyalı
 bkz dağ başında arazi alıp adanalıları döve döve sikmek
 bkz cumburlopu proveke eden beşikdüzülü pepekeli dayı
