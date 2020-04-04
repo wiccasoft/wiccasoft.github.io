@@ -9,8 +9,6 @@ bkz dibini dövdüren adam
 bkz dibini dövdürmek
 bkz pulp fiction zenciye tecavüz sahnesi
 bkz dibini dövdüren adamın onurdan bahsetmesi
-bkz jikim dibini dövüyo lan bu adamın
-bkz dibini dövdürüp namus onur şerefe diyern adam
 https://www.uludagsozluk.com/k/dibini-d%C3%B6vd%C3%BCren-adam%C4%B1n-onurdan-bahsetmesi/&w=bg
 bkz dibini dövdürip onurdan bahseden adam
 bkz abdullah çatlı vs maymun götleri
