@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz altıncı his filminde i see dead people diyen çocuk
 https://www.uludagsozluk.com/ bkz i see dead people 
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-akarsu/&w=bg bkz ölüseviciler
 bkz atacan kayalay vs şempanze
