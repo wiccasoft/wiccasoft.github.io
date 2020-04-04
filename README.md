@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz türk kızlarının böcek suratlı ergenlere yakışıklı demesi
 bkz gözlerini kısınca yakışıklı olduğunu sanan böcek suratlı türkler
 bkz fehriye evcen nin kara kafalı kocasının kısık boktan bakışları
 bkz neşet ertaş dinlerken götünü parmaklayan kürt
