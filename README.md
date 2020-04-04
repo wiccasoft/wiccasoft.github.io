@@ -27,13 +27,14 @@ https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B
 bkz göt isteyen polise nah yapan teröröük karadenizli dayı
 bkz evil basan polise ne basıyon lan diyen terörörük karadenizli
 bkz tayyibin milli takkiye gömleği
+https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz 15 temmuz kumpas fedö ayağı davası 
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/ bkz milli takkiyeciler
 https://www.uludagsozluk.com/k/ismaila%C4%9Fa-cemaatinin-yard%C4%B1m-kampanyas%C4%B1-yapmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kimlik-soran-polise-nah-%C3%A7ekip-al-sana-kimlik-demek/&w=bg 
 https://eksisozluk.com/markette-vendetta-maskesi-takan-dayi--6455179?a=popular bkz karadenizli terörörük dayı
 https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular tıklayağlım izleyeğlim
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz tıklağ 720 p izleğ -->
-https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz 15 temmuz kumpas fedö ayağı davası -->
+
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
