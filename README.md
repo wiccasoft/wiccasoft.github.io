@@ -1,7 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
-<!-- 
+<!--
+bkz iki haneli ekşiciler
 bkz bizimkiler dunkof halisin la casa de papel için netflix alması
 bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
 bkz netflix hesabı olanın kendini zengin sandığı malum ülke
