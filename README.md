@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+bkz fakirlerin devleti kendileri için var sanması
 bkz jandarmaya rüşvet verip bi daha sikmek
 https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
 bkz götten sikilen adanalının jandarmaya söyliycem seni demesi
