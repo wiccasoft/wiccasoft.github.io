@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/koku%C5%9Fmu%C5%9F-mahallenin-pohpohlad%C4%B1%C4%9F%C4%B1-aleyna-tilki/
 https://nesgayfe.uludagsozluk.com seni bi sikerim devlet bile bulamaz cesedini
 bkz nesgayfeyi döve döve sikerken jandarma diye bağırması
 bkz dağ başında adanalı sikerken jandarma çağıran konyalı
