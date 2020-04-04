@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz sarışınların üstün ırk olduğu gerçeği
 bkz siyah saçlı biri görünce gelen kusma isteği
 bkz türk kızlarının böcek suratlı tiplere yakışıklı demesi
 bkz gözlerini kısınca yakışıklı olduğunu sanan böcek suratlı anadolu insanı
