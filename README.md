@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz 3 nisan 2020 tayyip ulusa sesleniş efso konuşması
 bkz la casa de papel efsane diyaloglar
 bkz barış özcan türkiyenin elon musk ıdır
 bkz ruhi çenet türkiyenin steve jobs ıdır
