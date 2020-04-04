@@ -2,8 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-https://www.youtube.com/watch?v=PeIVhIwE8zU dohuluğ mu dpyuluğ mu neşete doyuluğğ muu
-https://www.youtube.com/watch?v=EfAsNffCjsM bkz sagopa kajmerin de bir rapinde dediği gibi 
+https://www.youtube.com/watch?v=PeIVhIwE8zU doouluğ mu doyuluğ mu
+https://www.youtube.com/watch?v=EfAsNffCjsM ellek süper bence
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ göt parmaklamak 
 https://www.youtube.com/watch?v=Gs_aq13sU3E yakışıklı adamım nasılım
 https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd
