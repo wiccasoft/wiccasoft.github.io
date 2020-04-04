@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+https://eksisozluk.com/markette-vendetta-maskesi-takan-dayi--6455179?a=popular bkz karadenzili terörörük
+https://eksisozluk.com/jandarmayi-cileden-cikartan-lincci-karadenizli--6454906?a=popular tıklayağlım izleyeğlim
 https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/ bkz tıklağ 720 p izleğ -->
 https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz 15 temmuz kumpas fedö ayağı davası -->
 
