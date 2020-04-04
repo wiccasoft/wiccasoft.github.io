@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz youtube premium varken dailymotion kullanan oç
 bkz netfliz varken tez yazan oç
 bkz iphone varken xiomi kullanan oç
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet -batman = covid19 
