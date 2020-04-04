@@ -3,7 +3,7 @@
 
 <!-- 
 https://eksisozluk.com/bir-orta-sinif-budalaligi-olarak-netflix--6454447?a=popular güldürür evet
-https://www.uludagsozluk.com/ bk ibnelerin sürekli hayallerde yaşamaları
+https://www.uludagsozluk.com/ bkz minnak ibnelerin sürekli hayallerde yaşamaları
 https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.youtube.com/watch?v=PeIVhIwE8zU dooyuluğ mu doyuluğ mu
