@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ümrecileri proveke eden kovidciler
 bkz tayyipi proveke eden ibancı
 bkz temizlik ibandan gelir
 bkz tayyibin milli takkiye ceketini giymesi
