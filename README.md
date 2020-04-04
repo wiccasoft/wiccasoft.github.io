@@ -1,6 +1,11 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
+<!-- 
+bkz 1881 atacücü 18+81 = 99 - 81 vilayet -batman = covid19 
+bkz 1071 alpaslan 1071+1000- alpaslan türkeş = 2071 cyberfaşo
+-->
+
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
