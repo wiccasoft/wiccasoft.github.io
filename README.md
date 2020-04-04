@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+bkz helin bölek 
 bkz grup yorumun iyice amı göt dağıtması
 https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg bkz ölüsevicilerin yaptığı eylem
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg bkz merhumu nasıl bilirdiniz
