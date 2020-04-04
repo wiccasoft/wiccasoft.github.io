@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz jandarmayı provek eden terörik karadenizli
+https://www.uludagsozluk.com/k/jandarmay%C4%B1-provoke-eden-karadenizli-ter%C3%B6rist/
 https://www.youtube.com/watch?v=ktmzyChfPmk
 bkz e devletten ermeni olduğunun öğrenene gencin dramı
 https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
