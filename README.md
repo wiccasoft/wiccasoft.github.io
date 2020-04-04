@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+bkz helin bölek vs neşet ertaş
 bkz barış akarsu vs kerim tekin
 bkz grup vitamin ismail vs grup yorum helin bölek
 https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg 
