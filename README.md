@@ -5,8 +5,6 @@
 bkz sarışınların üstün ırk olduğu gerçeği
 bkz siyah saçlı biri görünce gelen kusma isteği
 bkz türk kızlarının böcek suratlı tiplere yakışıklı demesi
-bkz gözlerini kısınca yakışıklı olduğunu sanan böcek suratlı anadolu insanı
-bkz fehriye evcen nin kara kafalı kocasının kısık boktan bakışları
 bkz neşet ertaş dinlerken götünü parmaklayan kürt
 bkz ali kınık erkan oğur ciğer yakan düeti
 bkz neşet ertaş dinlemeen önce yapılacaklar
