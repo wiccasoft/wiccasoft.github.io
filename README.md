@@ -3,6 +3,7 @@
 
 <!-- 
 bkz rallın kgt de benim demesi
+bkz rallın derin devlet olması
 bkz rallın imamaoğlana postayı koyup haraça bağlaması
 bkz rallın imamaoğlana haddinin bildirmesi
 bkz dibini vurdurup tekalifi milliye gömleği giydim diyen adam
