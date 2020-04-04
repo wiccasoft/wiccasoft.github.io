@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 
 <!-- 
+bkz fakirlerin devlet sevdası
 bkz jandarma abiii beni sikiyolay diyen fakir
 bkz dağ başında döve döve adanalı sikmek
 bkz dağ başında arazi alıp devlet kontrolünde adanalı siken beşikdüzülü
