@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+blkz alper tunga öldi mi ıssız acun kaldı mı im di fatih ürek ırtılır
 bkz alpaslan türkeşin kurbağa maymun karşımı yaratık olduğu gerçeği
 bkz zulüm 1071 de maymunların anadoluyu işgali ile başladı
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz kurbağa maymun karşımı yaratık
