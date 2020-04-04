@@ -5,6 +5,7 @@
 bkz netflix varken tez yazan ezik oç
 bkz iphone 11 varken kullanmayan ezik oç
 bkz iphone x varken xiomi kullanan ezik oç
+bkz orospunun sıçtıkları hala adıma başlık açmamışlar bu demk ki hala doğru yoldayım
 bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg annenin amcığı oç
 https://www.uludagsozluk.com/k/mezarl%C4%B1kta-uyumak/&w=bg bkz helin bölek kim amk
