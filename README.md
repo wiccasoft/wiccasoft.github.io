@@ -4,6 +4,7 @@
 <!-- 
 bkz cier söken uzun havalar
 bkz kürtlerin gazel okurken elini kulağına koyarak çığırması
+bkz mikrofonun tireteek şarkı söyleyen kürt
 https://www.uludagsozluk.com/k/erkan-o%C4%9Fur/&w=bg bkz adamın amına koyar bi ağıt yakiy amk
 -->
 
