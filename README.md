@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz devleti savunanların genelde fakirler olması
 https://www.uludagsozluk.com/k/komutana-benim-vergimle-maa%C5%9F-al%C4%B1yorsun-diyen-er/
 https://www.uludagsozluk.com/k/gereksiz-bir-bilgi-ver/&w=bg bkz jandarmayı proveke eden teröröik
 bkz jandarmayı provek eden terörik karadenizli
