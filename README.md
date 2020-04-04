@@ -1,8 +1,9 @@
 
-[![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
+[![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk )
 
 
 <!-- 
+https://www.youtube.com/watch?v=ktmzyChfPmk
 bkz e devletten ermeni olduğunun öğrenene gencin dramı
 https://www.uludagsozluk.com/k/ibanan%C4%B1-yolla-bana/
 https://www.uludagsozluk.com/k/laftan-anlamayan-insanlar/ bkz devlete karşı gelen insanlar
