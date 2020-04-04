@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+bkz iphone varken xiomi kullanan ezik oç
 bkz helin bölek vs neşet ertaş
 bkz barış akarsu vs kerim tekin
 bkz helin bölekin de bir şarkısında dediği gibi
