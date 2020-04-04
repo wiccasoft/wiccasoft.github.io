@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz zabıtayı proveke eden karadenizli dayı
 bkz bekçileri proveke eden karadenizli dayı
 bkz karşıki değler cendermeeeee cendermeeeeeeeeeee
 bkz ismailağa cemaatininin iban istemesi
