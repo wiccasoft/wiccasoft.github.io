@@ -7,6 +7,7 @@ bkz zeki mürenin ibne olduğu gerçeği
 bkz peki zeki müren de bizi görecek mi
 bkz zeki müre ibne olduğu halde hala dinleyen ibneler
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
+https://www.uludagsozluk.com/k/akp-nin-anadolu-%C3%BCniversitesi-rekt%C3%B6r%C3%BC/ bkz bilalin imam hatipten arkadaşı
 https://www.uludagsozluk.com/k/e%C5%9Finden-elimizde-b%C3%BCy%C3%BCd%C3%BC-diye-bahseden-arap/ bkz emine erdoğan
 https://www.uludagsozluk.com/k/solcular%C4%B1n-banka-soyma-hayali/ güldürür evet
 https://www.uludagsozluk.com/k/dolar%C4%B1n-6-73-liraya-%C3%A7ak%C4%B1lmas%C4%B1/ 10 olunca haber verin oç ları
