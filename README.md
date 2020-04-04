@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
-bkz 2020 yılıda hala forum sitesinde entry giren ezik oç
+bkz 2020 yılında hala forum sitesinde entry giren ezik oç
 bkz la casa d papel varken izlemeyen ezik oç
 bkz iphone varken xiomi kullanan ezik oç
 bkz helin bölek vs neşet ertaş
