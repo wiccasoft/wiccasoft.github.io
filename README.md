@@ -13,7 +13,7 @@ bkz 1881 atacücü 18+81 = 99 -81 bilayet - batman = covid19
 bkz atacan kayalay vs maymun götü
 bkz atacan kayalayın dünyaya katkıları
 bkz platonun filozof okulunda kovaladığı minnak filozoflar
-bkz bizimkiler dunkof haşis vs minnak filozof atacan kayalay
+bkz bizimkiler dunkof halis vs minnak filozof atacan kayalay
 https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=bg bkz atacan kayalay
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ bkz atacan kayalay -->
 
