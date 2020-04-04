@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
-https://james-earl-cash.uludagsozluk.com/ bkz yine duşa soktun kardeş yaş kaç 19 mu
+https://frank-lucas.uludagsozluk.com bkz kendini clint ewarwood sanan hamur suratlı ergen
+https://james-earl-cash.uludagsozluk.com/ bkz yine duşa soktun kardeş 
 bkz kim jong una benzeyen adamın dramı
 https://www.youtube.com/watch?v=Ch5s1VEccG0 
 bkz şaka maka virüsün ulus devletleri iyi sikertmesi
