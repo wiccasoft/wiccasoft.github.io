@@ -8,6 +8,7 @@ bkz peki zeki müren de bizi görecek mi
 bkz zeki müre ibne olduğu halde hala dinleyen ibneler
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 bkz tayyipini tekalifi miilliye ceketimi giydim demesi
+https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/&w=gd bkz tekalifi milliye ne lan top
 https://www.uludagsozluk.com/k/garsona-iki-kam%C4%B1%C5%9F-alabilir-miyiz-diyen-erkek/&w=bg bkz bilala erdoğan
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/&w=bg bkz tekalifim illiye gömleği
 https://www.uludagsozluk.com/k/akp-nin-anadolu-%C3%BCniversitesi-rekt%C3%B6r%C3%BC/ bkz bilalin imam hatipten arkadaşı
