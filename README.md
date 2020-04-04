@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz neşet girene kadar çay demlemek
 https://www.youtube.com/watch?v=PeIVhIwE8zU doouluğ mu doyuluğ mu
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek süper bence
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ göt parmaklamak 
