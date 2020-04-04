@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.youtube.com/watch?v=PeIVhIwE8zU dohuluğ mu dpyuluğ mu neşete doyuluğğ muu
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz sagopa kajmerin de bir rapinde dediği gibi 
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-%C5%9Fark%C4%B1ya-girene-kadar-yap%C4%B1lacaklar/ göt parmaklamak 
 https://www.youtube.com/watch?v=Gs_aq13sU3E yakışıklı adamım nasılım
