@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
+https://www.uludagsozluk.com/k/la-casa-de-papel-sezon-4/&w=bg
+https://www.uludagsozluk.com/k/la-casa-de-papel-palermo/
 https://eksisozluk.com/helin-bolek--6392482?a=popular
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=gd
 https://eksisozluk.com/netflix-almak-yerine-internetten-film-izleyen-ezik--6454228?a=popular 
