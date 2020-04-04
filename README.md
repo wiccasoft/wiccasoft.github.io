@@ -4,15 +4,6 @@
 <!-- 
 bkz ekşideki tek hücreli yaşam formları
 bkz abi la casa de papel izliyom abüüü aynı breaking bad abüüüüüüüü
-bkz torrentten indiği sanılan diziler
-bkz gökten inidiği sanılan ümreciler
-bkz atacücünün sözlerim bilimle uyuşmuyosa bilimi seçin lafı
-bkz atacaününü netflizi facebook twitter instagrama özendirmesi
-bkz ataacücünün türkiye iphone netfliz facebook twitter kullananan gençlere emanet kalcaktır lafı
-bkz whatsup ı olmayıp adamım diye gezen oç
-bkz atacücünnü te ce ümreciler tarikaTÇILAR MEMLEKETİ DEĞİLDİR LAFI
-bkz ümrecier vs atacücücünün aydınlık netflizicileri
-bkz fakir oç lerin ihone alamayıp zenginleri kötülemesi
 bkz iphone kullanmayıp adamım diye gezen oçları
 bkz netfliz varken tez yazan oç
 bkz iphone varken xiomi kullanan oç
