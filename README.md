@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz fakir oç lerin ihone alamayıp zenginleri kötülemesi
 bkz iphone kullanmayıp adamım diye gezen oçları
 bkz netfliz varken tez yazan oç
 bkz iphone varken xiomi kullanan oç
