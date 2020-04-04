@@ -2,10 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
-bkz helin bölek kim amk
-bkz helin bölekin eşşek cennetine girmesi
+bkz grup vitamin ismail
 bkz maroon 5 adam levine in açlık grevine son vermesi
-bkz grup vitamin ismailin açlık grevine girmesi
 https://www.uludagsozluk.com/ bkz tek hücreli yaşam formları
 bkz bizimkiler dunkof halisin la casa de papel için netflix alması
 bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
