@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-https://frank-lucas.uludagsozluk.com bkz tipini sikem senin oç bi de clint eqatwood resmi koymuş amk bebesi
+https://frank-lucas.uludagsozluk.com bkz tipini sikem senin oç bi de clint eastwood resmi koymuş amk bebesi
 https://frank-lucas.uludagsozluk.com  bkz aknonoşların aldığı yabancı nickler
 bkz necmettin erbakanın salyalar akan ağzı
 https://frank-lucas.uludagsozluk.com bkz 20 yaşındaki zibidileri ayar manyaa yapmak
