@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz maymun götü
 bkz 190 mercedesle gezerim ben dokunursan yumruğu yersin hemen
 https://www.uludagsozluk.com/k/mercedes-le-madara-olan-kekonun-gurbet%C3%A7i-%C3%A7%C4%B1kmas%C4%B1/
 https://www.uludagsozluk.com/k/koku%C5%9Fmu%C5%9F-mahallenin-pohpohlad%C4%B1%C4%9F%C4%B1-aleyna-tilki/
