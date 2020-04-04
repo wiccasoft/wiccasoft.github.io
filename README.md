@@ -3,7 +3,7 @@
 
 
 <!--
-bkz şimsdi sizin aklınız da iki soru işaret var
+bkz şimdi sizin aklınız da iki soru işaret var
 bkz rahatça döve döve adam sikmek için arazi satın almak
 bkz ay kolluk kuvvetleri yok muu diyen adanalı döve döve sikmek
 bkz çukur vuruşma sahnelerinde ay jandarma yok mu ayol diyen adanalı
