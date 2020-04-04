@@ -2,8 +2,9 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
 <!--
+bkz alpaslan türkeşin kurbağa maymun karşımı yaratık olduğu gerçeği
 bkz zulüm 1071 de maymunların anadoluyu işgali ile başladı
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz maymun suratlı ülkücü
+https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/ bkz kurbağa maymun karşımı yaratık
 bkz hayallerde yaşıyor bazı ülkeler
 bkz altıncı his filminde i see dead people diyen çocuk
 https://www.uludagsozluk.com/ bkz i see dead people 
