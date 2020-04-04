@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz tayyipin rallı baş danışman yapması
 bkz alpaslan türkeş vs maymun götü
 bkz zeki mürenin ibne olduğu gerçeği
 bkz peki zeki müren de bizi görecek mi
