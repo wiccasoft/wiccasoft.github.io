@@ -1,16 +1,6 @@
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=ghQ5Aq39Gn4)
 
-<!--
-https://www.youtube.com/watch?v=Gs_aq13sU3E 
-https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 163 kısa mı lan topukluyla 165
-https://www.uludagsozluk.com/k/163-boy-erkek-i%C3%A7in-%C3%A7ok-mu-k%C4%B1sa-sorunsal%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-ama-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/ 
-bkz millet hizmet beklerken kk nın osura osura uyuması
-https://www.uludagsozluk.com/k/rak%C4%B1n%C4%B1n-yan%C4%B1nda-iyi-gidenler/&w=gd
-https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-t%C3%BCrkiye-ye-verdi%C4%9Fi-zararlar/ 
--->
-
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
 [![Image](eq/Screenshot_2020-04-01_21-46-36.png)]( https://www.dailymotion.com/video/x7t1z9l )
