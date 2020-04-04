@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz cumburlopu proveke eden beşikdüzülü pepeke li dayı
+bkz cumburlopu proveke eden beşikdüzülü pepekeli dayı
 bkz zabıtayı proveke eden karadenizli dayı
 bkz bekçileri proveke eden karadenizli dayı
 bkz karşıki değler cendermeeeee cendermeeeeeeeeeee
