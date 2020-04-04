@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-bkz bizimkiler dunkof halisin la ca de papel için netflix alması
+bkz bizimkiler dunkof halisin la casa de papel için netflix alması
 bkz abi la casa de papel izliyom abüüüüüüü süper abüüüüü breaking bad gübü abüüüüü 
 bkz netflix hesabı olanın kendini zengin sandığı malum ülke
 https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=gd bkz hayallerde yaşıyor bazı ibneler
