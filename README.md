@@ -4,6 +4,7 @@
 <!--
 bkz ibanın şartları
 bkz tekalifi milliyeciler vs duyunu fırsatçılar
+bkz şaka maka tayyipin bana  toprak satacağı günlerin gelmesi
 bkz fettulah gülenin siyasi ayağıyla abdest alıp iban edilenleri yemesi
 bkz receğ tayyiğ erdoğana iban etmeyen zibidiler
 bkz necmettin erbakanın milli iban gömleğini tayyibe giydirmesi
