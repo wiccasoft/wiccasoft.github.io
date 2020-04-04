@@ -2,6 +2,8 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz ali kınık erkan oğur ciğer yakan düeti
+bkz neşet ertaş dinlemeen önce yapılacaklar
 bkz cier söken uzun havalar
 bkz kürtlerin gazel okurken elini kulağına koyarak çığırması
 bkz mikrofonun tireteek şarkı söyleyen kürt
