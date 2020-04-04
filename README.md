@@ -3,7 +3,7 @@
 
 <!-- 
 bkz türk kızlarının böcek suratlı tiplere yakışıklı demesi
-bkz gözlerini kısınca yakışıklı olduğunu sanan böcek suratlı türkler
+bkz gözlerini kısınca yakışıklı olduğunu sanan böcek suratlı anadolu insanı
 bkz fehriye evcen nin kara kafalı kocasının kısık boktan bakışları
 bkz neşet ertaş dinlerken götünü parmaklayan kürt
 bkz ali kınık erkan oğur ciğer yakan düeti
