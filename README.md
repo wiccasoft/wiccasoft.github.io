@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz dibinni vurdurup tekalifi milliye gömleği giydim diyen adam
 https://www.uludagsozluk.com/k/dibini-d%C3%B6vd%C3%BCren-adam%C4%B1n-onurdan-bahsetmesi/&w=bg bkz çukur izleyenler
 https://www.uludagsozluk.com/k/sarayda-oturup-tekalif-i-milliye-den-bahsetmek/&w=bg 
 bkz tekalifi milliyeciler
