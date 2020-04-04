@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+https://www.youtube.com/watch?v=3TSO7ilIG5o bkz rall
 https://www.uludagsozluk.com/k/k%C3%BCrtleri-%C3%B6c%C3%BC-sanmak/ öcü gibi korkuyorlar neşer ertaşgillerden
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ bkz rall ile frank lucas
 https://rall.uludagsozluk.com bkz reisinin bi kutu topkek yolladığı ergen
