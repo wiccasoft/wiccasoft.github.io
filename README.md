@@ -2,7 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!--
-bkz grup vitamin ismail türüt helin bölek düeti
+bkz grup vitamin ismail 
 bkz maroon5 adam levine in açlık grevine son vermesi
 https://www.uludagsozluk.com/ bkz tek hücreli yaşam formları
 bkz bizimkiler dunkof halisin la casa de papel için netflix alması
