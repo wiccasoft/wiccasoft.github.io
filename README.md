@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz tayyibin milli takkiye ceketini giymesi
 bkz fakirlerin zenginleri öldürmesin diye devlete vergi vermek
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz mansur yavaş ayol ciğerlerini söktün
 bkz devleti savunanların genelde fakirler olması
