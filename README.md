@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+https://www.uludagsozluk.com/k/35-ya%C5%9F-%C3%BCst%C3%BC-elit-beyler/&w=bg bkz hayallerde yaşıyor bazı ibneler
 bkz neşet girene kadar çay demlemek
 https://www.youtube.com/watch?v=PeIVhIwE8zU doouluğ mu doyuluğ mu
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek süper bence
