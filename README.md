@@ -7,7 +7,6 @@ https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ bkz rall ile frank luca
 https://rall.uludagsozluk.com bkz reisinin bi kutu topkek yolladığı ergen
 https://www.uludagsozluk.com/k/iphone-11-alamayan-ezikler/&w=bg bkz netfiliksi olmayan oçler
 https://rall.uludagsozluk.com bkz imamaoğlanın senden haberi var mı acaba keko
-bkz rall ile frank lucasın göt olması
 bkz tek dünya devletini kurup tayyipin ülkesine siktiri çekmek
 https://www.uludagsozluk.com/k/ibb-devletin-ta-kendisidir-fetvaya-ihtiyac%C4%B1-yok/ 
 bkz kara kafalı arap kırması çomarların korkulu rüyası beşikdüzülü dayı
