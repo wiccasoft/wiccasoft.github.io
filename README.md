@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz netflizi olmayan oç
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet -batman = covid19 
 bkz 1071 alpaslan 1071+1000-alpaslan türkeş = 2070 cyberfaşopunkers
 -->
