@@ -2,6 +2,7 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
+bkz ümreciler vs kovidciler
 bkz ekşideki tek hücreli yaşam formları
 bkz abi la casa de papel izliyom abüüü aynı breaking bad abüüüüüüüü
 bkz iphone kullanmayıp adamım diye gezen oçları
