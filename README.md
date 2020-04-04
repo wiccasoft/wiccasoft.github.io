@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz dağ başında arazi alıp adanalıları döve döve sikmek
 bkz cumburlopu proveke eden beşikdüzülü pepekeli dayı
 bkz zabıtayı proveke eden karadenizli dayı
 bkz bekçileri proveke eden karadenizli dayı
