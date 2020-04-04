@@ -2,7 +2,8 @@
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 <!-- 
-https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz fedönün siyasi ayağı bkz tekalifi fedöcüler
+bkz adil kullanım kotası vs tekalifi fedöcüler
+https://www.uludagsozluk.com/k/adil-%C3%B6ks%C3%BCz/&w=bg bkz bkz tekalifi fedöcüler
 https://www.uludagsozluk.com/ bkz homoseksüel pedofili nekrofili her türlü ibnenin puştun olduğu ortamlar
 https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1nda-hala-telefon-kullanmak/ güldürür evet
 bkz her gece dibini dövdüren adam
