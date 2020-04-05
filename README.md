@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz 2 abdulhamdi vs 3 . abdudl bin muttap
+https://www.uludagsozluk.com/k/sultan-abd%C3%BClaziz/&w=bg
 bkz zulüm 1071 de başladı
 bkz kürdcell vs türkcell
 bkz kürt hücrelerin bile daha sağlıklı olması
