@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz şaka maka wicca diye din kurup parayı gömmek
 bkz şaka maka din işinde iyi para olması
 bkz ciddi ciddi isanın balık burcu olduğuna inanmak
 bkz ciddi ciddi arap isanın merovenj soyunda olduğuna inanmak
