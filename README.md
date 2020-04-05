@@ -1,53 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!-- 
-bkz ekremis imamoglis
-bkz ekrem petekkaya vs burak özçivit
-bkz ekrem petekkaya kız senin sebebün ne şarkısı
-bkz ekrem petekkayanın sessizliğin bozması
-https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-y%C3%BCz-maskesini-yanl%C4%B1%C5%9F-takmas%C4%B1/
-bkz erkan petekekayanın terbiyesiz demesi
-bkz erkan petekkakaya dizileri netfilizde istiyoruz kampanyası
-bkz erkan petekekayanın okna bayülgen de söylediği şarkı
-bkz erkan petekkayanın imamolse ahlaksız terbiyesiz demesi
-bkz erkan petekkayanın konstantinopolisi geri sitemesi
-bkz ayasofyayı verin bu işi tatlıya bağlayalım
-bkz konstantinopolis kaç saatte alırıs sorunsalı
-bkz maymun götü vs cübbeli
-bkz mucize berber dizisi faruk
-bkz erkan petekkaya kim amk
-bkz burak özçivitin sessizliğini koruması
-bkz imparator diyince akla gelen ilk isim
-bkz ellerim kırılsaydı da hristiyan ekreme oy vermeseydim
-bkz erkan petekkkayanın sessizliği bozması
-https://www.uludagsozluk.com/k/mucize-berber/ lol
-https://eksisozluk.com/erkan-petekkayanin-imamogluna-terbiyesiz-demesi--6456879?a=popular bkz erkan petekkaya kim amk
-https://www.uludagsozluk.com/k/arap-isa-n%C4%B1n-sar%C4%B1%C5%9F%C4%B1n-resmedilmesi/&w=bg lol
-https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-y%C3%BCz-maskesini-yanl%C4%B1%C5%9F-takmas%C4%B1/
-https://www.uludagsozluk.com/k/imparator-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg bkz fatih terim
-bkz ekrem imamoğlu'nun yüz maskesini yanlış takması
-bkz muhammedin en başarısız sahtekar olması
-bkz hz abdullahın zeyid in karısıyla evlenmesi
-bkz muhammedin allah evreni benim yüzüm suyum hürmetine yarattı demesi
-bkz muhammedin kabeye girip lat putunu kırması
-bkz hz muhammedin 1 değil 3 değil 5 değil 13 kasının olması
-bkz şempanze beyni vs kamalcı beyni
-bkz annesinin kafasını suya sokup video çeken tiktokçu
-bkz annenin iibf mezunu bir cahil olması
-bkz burak özçivitin sessizliğni koruması
-https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
-https://www.uludagsozluk.com/k/geceli%C4%9Fi-35-lira-olan-eskort/&w=gd bkz berber fuat abi
-https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular lol
-https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
-https://www.uludagsozluk.com/k/selahadin-demirta%C5%9F-ve-leonardo-dicaprio-benzerli%C4%9Fi/&w=bg lol
-https://www.uludagsozluk.com/k/tc-ibaresi-kald%C4%B1r%C4%B1l%C4%B1yor-deyip-eczaneye-ha%C3%A7-koymak/ lol 
-https://www.uludagsozluk.com/k/grup-yorum-%C3%BCyesi-helin-b%C3%B6lek-in-%C3%B6lmesi/&w=bg
-https://www.uludagsozluk.com/k/reglken-dinlenecek-%C5%9Fark%C4%B1lar-listesi/ berberde kanadım dinmedi
-https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/ -->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
