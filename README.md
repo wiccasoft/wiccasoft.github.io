@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/turan-dursun/&w=bg
 bkz fenevle geyselileri küçümseyen trabzonsporlu
+https://www.uludagsozluk.com/k/corona-dan-%C3%B6lecek-olan-insan-say%C4%B1s%C4%B1/ bir milyar 2021 hedefi
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular
