@@ -1,7 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!-- 
+<!--
+bkz merkezinde erkek olan dine inanacak kadar saf olmak
 bkz peygamberlerin hepsinin şarlatan olduğu gerçeği
 bkz en şarlatan peygamberin muhammed olduğu gerçeği
 bkz muhammedin allah benim yüzüm suyum hürmetine evreni yarattı demesi
