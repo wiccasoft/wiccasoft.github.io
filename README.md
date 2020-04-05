@@ -10,6 +10,7 @@ bkz hz muhammedin 1 değil 3 değil 5 değil 13 kasının olması
 bkz şempanze beyni vs kamalcı beyni
 bkz annesinin kafasını suya sokup video çeken tiktokçu
 bkz annenin iibf mezunu bir cahil olması
+bkz burak özçivitin sessizliğni koruması
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular lol
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
