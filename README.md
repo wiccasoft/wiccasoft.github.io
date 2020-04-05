@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+https://www.uludagsozluk.com/k/mucize-berber/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-ayaklar%C4%B1/ lol
 https://www.uludagsozluk.com/k/pontus-rum-do%C4%9Fumlu-fesli-gavat/&w=bg lol
