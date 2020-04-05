@@ -3,20 +3,9 @@
 
 <!--
 bkz mısır medeniyetinden mitoloji araklayıp hikayeler anlatıp din diye çomarları keklemek
-bkz beta erkeklerin alfa erkeklere aşık oldukları gerçeği
-bkz erkeklerin peygamberlere tapma sebebi
-bkz çomarların peygambersiz duramaması
-bkz crux yıldızının hz isa olması
-bkz erkek merkezli ideoloji vs erkek merkezli dinler
-bkz merkezinde erkek olan dine inanacak kadar saf olmak
-bkz peygamberlerin hepsinin şarlatan olduğu gerçeği
 bkz en şarlatan peygamberin muhammed olduğu gerçeği
 bkz muhammedin allah benim yüzüm suyum hürmetine evreni yarattı demesi
 bkz muhammedin mekkeli müşrikleri imana getirin ayeti
-bkz muhammedin karılarınızı dövün ayeti
-bkz muhammedin mekkeyi medineye taşıması
-bkz muhammedi mağarada kurtaran örümcek
-bkz muhammedin uhud savaşında ki okçuları
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet -  batman = covid19
 bkz muhammedin bende sorna peygamber gelmeycek diye işi sağlama alması
 bkz araplarla türklerin fenotipinin çok benzemesi sorunsalı
