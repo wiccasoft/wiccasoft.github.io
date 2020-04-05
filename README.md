@@ -3,6 +3,8 @@
 
 <!-- 
 bkz zulüm 1071 de başladı
+bkz kürdcell vs türkcell
+bkz kürt hücrelerin bile daha sağlıklı olması
 bkz damadın akil adamları bilim kuruluna sokalım önerisi
 bkz damadın rizesporu şampiyon yapacağı gerçeği
 bkz fahrettin kocanın zulüm 1453 e kadar uzadı demesi
