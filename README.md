@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz everyday çapuling
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-y%C3%BCz-maskesini-yanl%C4%B1%C5%9F-takmas%C4%B1/
 bkz annenin iibf mezunu bir cahil olması
 bkz burak özçivitin sessizliğini koruması
 https://www.uludagsozluk.com/k/reglken-dinlenecek-%C5%9Fark%C4%B1lar-listesi/ berberde kanadım dinmedi
