@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!--
+bkz beta erkeklerin alfa erkeklere aşık oldukları gerçeği
 bkz erkeklerin peygamberlere tapma sebebi
 bkz çomarların peygambersiz duramaması
 bkz crux yıldızının hz isa olması
