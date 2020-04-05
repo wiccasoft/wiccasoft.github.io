@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz muhammedin allah benim yüzüm suyum hürmetine evreni kurdu demesi
 bkz muhammedin mekkeli müşrikleri imana getirin ayeti
 bkz muhammedin karılarınızı dövün ayeti
 bkz muhammedin mekkeyi medineye taşıması
