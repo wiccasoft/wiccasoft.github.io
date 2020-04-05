@@ -3,11 +3,12 @@
 
 <!-- 
 bkz ekremis imamoglis
+https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-y%C3%BCz-maskesini-yanl%C4%B1%C5%9F-takmas%C4%B1/
 bkz erkan petekekayanın terbiyesiz demesi
 bkz erkan petekkakaya dizileri netfilizde istiyoruz kampanyası
 bkz erkan petekekayanın okna bayülgen de söylediği şarkı
 bkz erkan petekkayanın imamolse ahlaksız terbiyesiz demesi
-https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
 bkz erkan petekkayanın konstantinopolisi geri sitemesi
 bkz ayasofyayı verin bu işi tatlıya bağlayalım
 bkz konstantinopolis kaç saatte alırıs sorunsalı
