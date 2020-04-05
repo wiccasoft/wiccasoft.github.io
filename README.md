@@ -1,34 +1,5 @@
 
-[![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
-
-<!-- 
-bkz ilker canikligil vs soner kabadayı
-bkz şempanze beyni vs kamalcı beyni
-bkz annesinin kafasını suya sokup video çeken tiktokçu
-bkz annenin iibf mezunu bir cahil olması
-bkz şener şenin jilet satarken futbolcuları saydığı film
-bkz ananızı sikeyim ben anıtkabire gidiyorum diyen kamalcı
-bkz burak özçivitin gözlerini kısınca yakışıklı olduğunu sandığı ülke
-https://www.uludagsozluk.com/k/erkek-adam%C4%B1n-erkek-sevgilisi-olur/&w=bg
-https://www.uludagsozluk.com/k/fahriye-evcen-burak-%C3%B6z%C3%A7ivit-%C3%A7ifti/&w=bg
-https://www.uludagsozluk.com/k/anan%C4%B1z%C4%B1-sikeyim-ben-%C3%A7in-e-gidiyorum-diyen-kom%C3%BCnist/&w=bg
-https://www.uludagsozluk.com/k/%C5%9Fike-deyince-akla-ilk-gelen-futbol-tak%C4%B1m%C4%B1/
-https://www.uludagsozluk.com/k/sakal-t%C4%B1ra%C5%9F%C4%B1-yapt%C4%B1ktan-sonra-dudaktan-%C3%B6pen-berber/&w=bg
-https://eksisozluk.com/entry/104791452 bkz 6 ghz in beyne yaptığı tahribat
-https://www.uludagsozluk.com/k/ilker-canikligil/&w=bg
-https://www.uludagsozluk.com/k/roberto-carlos/&w=bg
-https://www.uludagsozluk.com/k/turan-dursun/&w=bg
-https://www.uludagsozluk.com/k/fahriye-evcen-burak-%C3%B6z%C3%A7ivit-%C3%A7ifti/&w=bg
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-%C3%B6zg%C3%BCr-%C3%B6zel-e-ayar-vermesi/
-https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
-https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
-https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
-https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular
-https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
-https://www.uludagsozluk.com/k/selahadin-demirta%C5%9F-ve-leonardo-dicaprio-benzerli%C4%9Fi/&w=bg lol
-https://www.uludagsozluk.com/k/tc-ibaresi-kald%C4%B1r%C4%B1l%C4%B1yor-deyip-eczaneye-ha%C3%A7-koymak/ lol 
-https://www.uludagsozluk.com/k/grup-yorum-%C3%BCyesi-helin-b%C3%B6lek-in-%C3%B6lmesi/&w=bg
--->
+[![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
