@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+https://www.uludagsozluk.com/k/adikari-route66-nutellali-balik-ekmek-bulu%C5%9Fmas%C4%B1/ amlımıymış lan
 https://www.uludagsozluk.com/k/route66-denen-pi%C3%A7-kurusu-gelsene-buraya/&w=gd siktir lan göt
 https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam/ yav he he
 bkz fatih terim vs ekrem petekkaya
