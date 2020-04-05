@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- https://www.uludagsozluk.com/k/tc-ibaresi-kald%C4%B1r%C4%B1l%C4%B1yor-deyip-eczaneye-ha%C3%A7-koymak/ lol 
-https://www.uludagsozluk.com/k/selahadin-demirta%C5%9F-ve-leonardo-dicaprio-benzerli%C4%9Fi/&w=bg bi ceyranı var -->
+https://www.uludagsozluk.com/k/selahadin-demirta%C5%9F-ve-leonardo-dicaprio-benzerli%C4%9Fi/&w=bg bi ceyranı var 
+https://www.uludagsozluk.com/k/t%C4%B1ra%C5%9Ftan-sonra-enseyi-%C3%B6pen-berber/&w=bg berber öpücüğü-->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
