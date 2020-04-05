@@ -5,6 +5,8 @@
 bkz ekremis imamoglis
 bkz maymun götü vs cübbeli
 bkz ellerim kırılsaydı da hristiyan ekreme oy vermeseydim
+bkz erkan petekkkayanın sessizliği bozması
+https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
 https://www.uludagsozluk.com/k/regl-sanc%C4%B1s%C4%B1n%C4%B1-d%C3%BCnyan%C4%B1n-sonu-gibi-g%C3%B6stermek/&w=bg bkz essy
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-y%C3%BCz-maskesini-yanl%C4%B1%C5%9F-takmas%C4%B1/
 https://www.uludagsozluk.com/k/imparator-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg bkz fatih terim
