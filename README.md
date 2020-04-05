@@ -11,10 +11,8 @@ https://www.uludagsozluk.com/k/sultan-abd%C3%BClaziz/&w=bg
 bkz zulüm 1071 de başladı
 bkz kürdcell vs türkcell
 bkz kürt hücrelerin bile daha sağlıklı olması
-bkz damadın akil adamları bilim kuruluna sokalım önerisi
+bkz damadın akil adamları hizaya sokması
 bkz damadın rizesporu şampiyon yapacağı gerçeği
-bkz fahrettin kocanın zulüm 1453 e kadar uzadı demesi
-bkz receğ tayyiğ erdoğanın zulüm 1071 de başladı demesi
 https://www.uludagsozluk.com/k/k%C3%BCrdanistan-%C4%B1-yok-saymak/&w=bg bkz barbarların yaptığı eylem
 https://www.uludagsozluk.com/k/k%C3%BCrd%C3%BCm-5000-y%C4%B1ll%C4%B1k-tarihim-var-var-m%C4%B1-diyece%C4%9Fin/&w=gd -->
 
