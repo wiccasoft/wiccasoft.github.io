@@ -4,6 +4,7 @@
 <!--
 bkz çomarların peygambersiz duramaması
 bkz crux yıldızının hz isa olması
+bkz erkek merkezli ideoloji vs erkek merkezli dinler
 bkz merkezinde erkek olan dine inanacak kadar saf olmak
 bkz peygamberlerin hepsinin şarlatan olduğu gerçeği
 bkz en şarlatan peygamberin muhammed olduğu gerçeği
