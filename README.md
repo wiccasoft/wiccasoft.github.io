@@ -5,12 +5,9 @@
 https://www.uludagsozluk.com/k/ilker-canikligil/&w=bg
 https://www.uludagsozluk.com/k/roberto-carlos/&w=bg
 https://www.uludagsozluk.com/k/turan-dursun/&w=bg
-bkz fenevle geyselileri küçümseyen trabzonsporlu
-bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/fahriye-evcen-burak-%C3%B6z%C3%A7ivit-%C3%A7ifti/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-%C3%B6zg%C3%BCr-%C3%B6zel-e-ayar-vermesi/
 https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
-https://www.uludagsozluk.com/k/corona-dan-%C3%B6lecek-olan-insan-say%C4%B1s%C4%B1/ bir milyar 2021 hedefi
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular
