@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz annenin iibf mezunu bir cahil olması
 bkz burak özçivitin sessizliğini koruması
 https://www.uludagsozluk.com/k/reglken-dinlenecek-%C5%9Fark%C4%B1lar-listesi/ berberde kanadım dinmedi
 https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/ -->
