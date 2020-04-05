@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!-- https://www.uludagsozluk.com/k/peygamberlik/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi -->
+<!-- 
+https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi
+https://www.uludagsozluk.com/k/peygamberlik/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi  -->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
