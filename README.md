@@ -1,6 +1,8 @@
 
 [![Image](eq/Screenshot_2020-04-04_07-53-53.png)]( https://www.youtube.com/watch?v=0rjItOxZAgg )
 
+<!-- https://www.uludagsozluk.com/k/tc-ibaresi-kald%C4%B1r%C4%B1l%C4%B1yor-deyip-eczaneye-ha%C3%A7-koymak/ lol -->
+
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
