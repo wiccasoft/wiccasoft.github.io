@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz hz abdullahın zeyid in karısıyla evlenmesi
 bkz muhammedin allah evreni benim yüzüm suyum hürmetine yarattı demesi
 bkz muhammedin kabeye girip lat putunu kırması
 bkz hz muhammedin 1 değil 3 değil 5 değil 13 kasının olması
