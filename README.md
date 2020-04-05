@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/ilker-canikligil/&w=bg
 https://www.uludagsozluk.com/k/roberto-carlos/&w=bg
 https://www.uludagsozluk.com/k/turan-dursun/&w=bg
 bkz fenevle geyselileri küçümseyen trabzonsporlu
