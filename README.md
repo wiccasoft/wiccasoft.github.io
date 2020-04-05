@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/turan-dursun/&w=bg
+bkz heykele tapan kamalcılar
 bkz trabzon beşikdüzülü olduğumu öğrenince göt olacak kamalcılar
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
