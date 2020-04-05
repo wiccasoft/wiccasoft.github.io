@@ -3,6 +3,7 @@
 
 <!-- 
 bkz şempanze beyni vs kamalcı beyni
+bkz babanın iibf mezunu bir cahil olması
 bkz şener şenin jilet satarken futbolcuları saydığı film
 bkz ananızı sikeyim ben anıtkabire gidiyorum diyen kamalcı
 bkz burak özçivitin kasılırken sara krizine girmesi
