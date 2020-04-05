@@ -1,26 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!--
-bkz hz muhammedi sarışın resmetmek
-bkz hz musa nın ramsesin oğlu olduğu gerçeği
-bkz hz ademi homohabilis olarak resmetmek
-https://www.uludagsozluk.com/k/arap-isa-n%C4%B1n-sar%C4%B1%C5%9F%C4%B1n-resmedilmesi/&w=bg
-bkz mısır medeniyetinden mitoloji araklayıp hikayeler anlatıp din diye çomarları keklemek
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet -  batman = covid19
-bkz muhammedin bende sorna peygamber gelmeycek diye işi sağlama alması
-bkz araplarla türklerin fenotipinin çok benzemesi sorunsalı
-bkz türklerin anti maddesinin kürtler ve araplar olması
-bkz göklerden indiği sanılan burçlar
-bkz şaka maka wicca diye din kurup parayı gömmek
-bkz şaka maka din işinde iyi para olması
-bkz ciddi ciddi isanın balık burcu olduğuna inanmak
-bkz ciddi ciddi arap isanın merovenj soyunda olduğuna inanmak
-bkz ciddi ciddi nazarethli isanın sarışın mavi gözlü olduğuna inanacak kadar saf olmak
-https://www.uludagsozluk.com/k/arap-isa-n%C4%B1n-sar%C4%B1%C5%9F%C4%B1n-resmedilmesi/&w=bg
-https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi
-https://www.uludagsozluk.com/k/peygamberlik/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi  -->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
