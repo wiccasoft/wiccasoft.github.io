@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
-bkz bbekçileri proveke eden karadenizli rothchilds torunu
+bkz bekçileri proveke eden rothchilds torunu
 bkz fatih tezcandan fatih terime işini yap uyarısı
 bkz ekrem petekkayanın sessizliğini bozması
 https://www.uludagsozluk.com/k/adikari-route66-nutellali-balik-ekmek-bulu%C5%9Fmas%C4%B1/ amlımıymış lan
