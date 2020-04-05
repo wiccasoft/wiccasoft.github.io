@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz şener şenin jilet satarken futbolcuları saydığı film
+https://www.uludagsozluk.com/k/%C5%9Fike-deyince-akla-ilk-gelen-futbol-tak%C4%B1m%C4%B1/
 https://www.uludagsozluk.com/k/sakal-t%C4%B1ra%C5%9F%C4%B1-yapt%C4%B1ktan-sonra-dudaktan-%C3%B6pen-berber/&w=bg
 https://eksisozluk.com/entry/104791452 bkz 6 ghz in beyne yaptığı tahribat
 https://www.uludagsozluk.com/k/ilker-canikligil/&w=bg
