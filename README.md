@@ -4,7 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/turan-dursun/&w=bg
 bkz fenevle geyselileri küçümseyen trabzonsporlu
-bkz erkan petekkaya kim amk
+bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
 https://www.uludagsozluk.com/k/corona-dan-%C3%B6lecek-olan-insan-say%C4%B1s%C4%B1/ bir milyar 2021 hedefi
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
