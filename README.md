@@ -1,10 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!--
-https://www.uludagsozluk.com/k/2020-sedat-peker-ye%C4%9Fen-al%C4%B1mlar%C4%B1/
-https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg bkz kamalcı ıslatan tahir -->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
