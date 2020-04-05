@@ -6,6 +6,7 @@ bkz şempanze beyni vs kamalcı beyni
 bkz şener şenin jilet satarken futbolcuları saydığı film
 bkz ananızı sikeyim ben anıtkabire gidiyorum diyen kamalcı
 bkz burak özçivitin kasılırken sara krizine girmesi
+bkz burka özçivitin beyaz showdaki zeybek dansı
 bkz burak özçivitin gözlerini kısınca yakışıklı olduğunu sandığı ülke
 https://www.uludagsozluk.com/k/fahriye-evcen-burak-%C3%B6z%C3%A7ivit-%C3%A7ifti/&w=bg
 https://www.uludagsozluk.com/k/anan%C4%B1z%C4%B1-sikeyim-ben-%C3%A7in-e-gidiyorum-diyen-kom%C3%BCnist/&w=bg
