@@ -2,14 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
-bkz rothchild torunu olmayıp prim kasan acınası tipler
-bkz bekçileri proveke eden rothchilds torunu
-bkz fatih tezcandan fatih terime işini yap uyarısı
-bkz ekrem petekkayanın sessizliğini bozması
-https://www.uludagsozluk.com/k/adikari-route66-nutellali-balik-ekmek-bulu%C5%9Fmas%C4%B1/ amlımıymış lan
-https://www.uludagsozluk.com/k/route66-denen-pi%C3%A7-kurusu-gelsene-buraya/&w=gd siktir lan göt
-https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam/ yav he he
-bkz fatih terim vs ekrem petekkaya
 https://www.uludagsozluk.com/k/mucize-berber/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
 https://www.uludagsozluk.com/k/rothschild-in-ye%C4%9Feniyim/ lol
