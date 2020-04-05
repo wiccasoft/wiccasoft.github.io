@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz 1881 atacücü 18+81 = 99 -81 vilayet -  batman = covid19
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-seven-k%C3%BCrt/&w=bg
 bkz muhammedin uhud savaşında ki okçuları
 bkz muhammedin bende sorna peygamber gelmeycek diye işi sağlama alması
 bkz araplarla türklerin fenotipinin çok benzemesi sorunsalı
