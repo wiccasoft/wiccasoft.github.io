@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz araplar vs türkler
 bkz 1071 de anadoluya girip bütün tarihi eserleri yıkan malum ırk
 https://www.uludagsozluk.com/k/5000-y%C4%B1ll%C4%B1k-koskoca-k%C3%BCrt-tarihi/&w=bg bkz asurlulara dayanan yüce tarih
 bkz 2 abdulhamdi vs 3 . abdudl bin muttap
