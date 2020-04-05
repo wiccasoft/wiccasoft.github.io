@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+https://www.uludagsozluk.com/k/imparator-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg bkz fatih terim
 bkz ekrem imamoğlu'nun yüz maskesini yanlış takması
 bkz muhammedin en başarısız sahtekar olması
 bkz hz abdullahın zeyid in karısıyla evlenmesi
