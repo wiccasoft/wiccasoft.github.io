@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekremis imamoglis
+bkz ekrem petekkaya vs burak özçivit
 bkz ekrem petekkakya kız senin sebebün ne şarkısı
 bkz ekrem petekkayanın sessizliğin bozması
 https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
