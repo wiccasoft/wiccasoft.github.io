@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekremis imamoglis
+bkz erkan petekekayanın terbiyesiz demesi
 bkz erkan petekkakaya dizileri netfilizde istiyoruz kampanyası
 bkz erkan petekekayanın okna bayülgen de söylediği şarkı
 bkz erkan petekkayanın imamolse ahlaksız terbiyesiz demesi
