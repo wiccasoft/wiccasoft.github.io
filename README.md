@@ -3,6 +3,7 @@
 
 <!-- 
 bkz zulüm 1071 de başladı
+bkz damadın rizesporu şampiyon yapacağı gerçeği
 bkz fahrettin kocanın zulüm 1453 e kadar uzadı demesi
 bkz receğ tayyiğ erdoğanın zulüm 1071 de başladı demesi
 https://www.uludagsozluk.com/k/k%C3%BCrdanistan-%C4%B1-yok-saymak/&w=bg bkz barbarların yaptığı eylem
