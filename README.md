@@ -1,6 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
+<!-- https://www.uludagsozluk.com/k/route66-denen-pi%C3%A7-kurusu-gelsene-buraya/&w=gd bkz siktir lan göt -->
+
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
