@@ -3,7 +3,7 @@
 
 <!-- 
 bkz ekremis imamoglis
-bkz konstantinopolis kaç saatte alrıs sorunsalı
+bkz konstantinopolis kaç saatte alırıs sorunsalı
 bkz maymun götü vs cübbeli
 bkz mucize berber dizisi faruk
 bkz erkan petekkaya kim amk
