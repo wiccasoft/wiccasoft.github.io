@@ -3,6 +3,8 @@
 
 <!-- 
 bkz ekremis imamoglis
+bkz erkan petekkayanın imamolse ahlaksız terbiyesiz demesi
+https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
 bkz erkan petekkayanın konstantinopolisi geri sitemesi
 bkz ayasofyayı verin bu işi tatlıya bağlayalım
 bkz konstantinopolis kaç saatte alırıs sorunsalı
