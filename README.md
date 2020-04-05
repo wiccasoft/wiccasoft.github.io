@@ -3,6 +3,7 @@
 
 <!-- 
 bkz araplar vs türkler
+bkz araplarla türklerin sevilmeme nedenleri
 bkz 1071 de anadoluya girip bütün tarihi eserleri yıkan malum ırk
 https://www.uludagsozluk.com/k/5000-y%C4%B1ll%C4%B1k-koskoca-k%C3%BCrt-tarihi/&w=bg bkz asurlulara dayanan yüce tarih
 bkz 2 abdulhamdi vs 3 . abdudl bin muttap
