@@ -30,7 +30,7 @@ https://www.uludagsozluk.com/k/tc-ibaresi-kald%C4%B1r%C4%B1l%C4%B1yor-deyip-ecza
 https://www.uludagsozluk.com/k/grup-yorum-%C3%BCyesi-helin-b%C3%B6lek-in-%C3%B6lmesi/&w=bg
 -->
 
-[![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
+[![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
 
