@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekremis imamoglis
+bkz ekrem petekkayanın sessizliğin bozması
 https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-y%C3%BCz-maskesini-yanl%C4%B1%C5%9F-takmas%C4%B1/
 bkz erkan petekekayanın terbiyesiz demesi
