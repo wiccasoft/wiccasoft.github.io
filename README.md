@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekremis imamoglis
+bkz ayasofyayı verin bu işi tatlıya bağlayalım
 bkz konstantinopolis kaç saatte alırıs sorunsalı
 bkz maymun götü vs cübbeli
 bkz mucize berber dizisi faruk
