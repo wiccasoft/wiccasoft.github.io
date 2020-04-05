@@ -3,9 +3,6 @@
 
 <!--
 bkz mısır medeniyetinden mitoloji araklayıp hikayeler anlatıp din diye çomarları keklemek
-bkz en şarlatan peygamberin muhammed olduğu gerçeği
-bkz muhammedin allah benim yüzüm suyum hürmetine evreni yarattı demesi
-bkz muhammedin mekkeli müşrikleri imana getirin ayeti
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet -  batman = covid19
 bkz muhammedin bende sorna peygamber gelmeycek diye işi sağlama alması
 bkz araplarla türklerin fenotipinin çok benzemesi sorunsalı
