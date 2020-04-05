@@ -5,6 +5,7 @@
 bkz ekremis imamoglis
 bkz maymun götü vs cübbeli
 bkz burak özçivitin sessizliğini koruması
+bkz imparator diyince akla gelen ilk isim
 bkz ellerim kırılsaydı da hristiyan ekreme oy vermeseydim
 bkz erkan petekkkayanın sessizliği bozması
 https://www.uludagsozluk.com/k/erkan-petekkaya-n%C4%B1n-imamo%C4%9Fluna-terbiyesiz-demesi/
