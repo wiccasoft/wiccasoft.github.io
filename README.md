@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz şempanze beyni vs kamalcı beyni
+bkz annesinin kafasını suya sokup video çeken tiktokçu
+bkz annenin iibf mezunu bir cahil olması
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
