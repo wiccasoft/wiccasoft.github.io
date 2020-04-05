@@ -1,21 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!-- 
-bkz araplar vs türkler
-bkz araplarla türklerin sevilmeme nedenleri
-bkz 1071 de anadoluya girip bütün tarihi eserleri yıkan malum ırk
-https://www.uludagsozluk.com/k/5000-y%C4%B1ll%C4%B1k-koskoca-k%C3%BCrt-tarihi/&w=bg bkz asurlulara dayanan yüce tarih
-bkz 2 abdulhamdi vs 3 . abdul bin muttap
-https://www.uludagsozluk.com/k/sultan-abd%C3%BClaziz/&w=bg
-bkz zulüm 1071 de başladı
-bkz kürdcell vs türkcell
-bkz kürt hücrelerin bile daha sağlıklı olması
-bkz damadın akil adamları hizaya sokması
-bkz damadın rizesporu şampiyon yapacağı gerçeği
-https://www.uludagsozluk.com/k/k%C3%BCrdanistan-%C4%B1-yok-saymak/&w=bg bkz barbarların yaptığı eylem
-https://www.uludagsozluk.com/k/k%C3%BCrd%C3%BCm-5000-y%C4%B1ll%C4%B1k-tarihim-var-var-m%C4%B1-diyece%C4%9Fin/&w=gd -->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
