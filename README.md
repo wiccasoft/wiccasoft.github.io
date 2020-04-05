@@ -3,7 +3,6 @@
 
 <!-- 
 bkz ciddi ciddi isanın balık burcu olduğuna inanmak
-bkz ciddi ciddi zodiac ın ekliptikte kaydığına inanamak
 https://www.uludagsozluk.com/k/arap-isa-n%C4%B1n-sar%C4%B1%C5%9F%C4%B1n-resmedilmesi/&w=bg
 https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi
 https://www.uludagsozluk.com/k/peygamberlik/&w=bg bkz mehdinin aslında mehdi değilim diyecek olması hilesi  -->
