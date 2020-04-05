@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz muhammedin bende sorna peygamber gelmeycek diye işi sağlama alması
 bkz araplarla türklerin fenotipinin çok benzemesi sorunsalı
 bkz türklerin anti maddesinin kürtler ve araplar olması
 bkz göklerden indiği sanılan burçlar
