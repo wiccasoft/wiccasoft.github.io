@@ -2,13 +2,13 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-https://www.uludagsozluk.com/k/erkek-adam%C4%B1n-erkek-sevgilisi-olur/&w=bg
 bkz ilker canikligil vs soner kabadayı
 bkz şempanze beyni vs kamalcı beyni
 bkz babanın iibf mezunu bir cahil olması
 bkz şener şenin jilet satarken futbolcuları saydığı film
 bkz ananızı sikeyim ben anıtkabire gidiyorum diyen kamalcı
 bkz burak özçivitin gözlerini kısınca yakışıklı olduğunu sandığı ülke
+https://www.uludagsozluk.com/k/erkek-adam%C4%B1n-erkek-sevgilisi-olur/&w=bg
 https://www.uludagsozluk.com/k/fahriye-evcen-burak-%C3%B6z%C3%A7ivit-%C3%A7ifti/&w=bg
 https://www.uludagsozluk.com/k/anan%C4%B1z%C4%B1-sikeyim-ben-%C3%A7in-e-gidiyorum-diyen-kom%C3%BCnist/&w=bg
 https://www.uludagsozluk.com/k/%C5%9Fike-deyince-akla-ilk-gelen-futbol-tak%C4%B1m%C4%B1/
