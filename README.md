@@ -4,6 +4,7 @@
 <!-- 
 bkz ekremis imamoglis
 bkz maymun götü vs cübbeli
+bkz mucize berber dizisi faruk
 bkz burak özçivitin sessizliğini koruması
 bkz imparator diyince akla gelen ilk isim
 bkz ellerim kırılsaydı da hristiyan ekreme oy vermeseydim
