@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz şempanze beyni vs kamalcı beyni
 bkz şener şenin jilet satarken futbolcuları saydığı film
 bkz ananızı sikeyim ben anıtkabire gidiyorum diyen kamalcı
 https://www.uludagsozluk.com/k/anan%C4%B1z%C4%B1-sikeyim-ben-%C3%A7in-e-gidiyorum-diyen-kom%C3%BCnist/&w=bg
