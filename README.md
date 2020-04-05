@@ -4,7 +4,8 @@
 <!-- 
 bkz ilker canikligil vs soner kabadayı
 bkz şempanze beyni vs kamalcı beyni
-bkz babanın iibf mezunu bir cahil olması
+bkz annesinin kafasını suya sokup video çeken tiktokçu
+bkz annenin iibf mezunu bir cahil olması
 bkz şener şenin jilet satarken futbolcuları saydığı film
 bkz ananızı sikeyim ben anıtkabire gidiyorum diyen kamalcı
 bkz burak özçivitin gözlerini kısınca yakışıklı olduğunu sandığı ülke
