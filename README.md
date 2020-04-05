@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekremis imamoglis
+bkz erkan petekkayanın konstantinopolisi geri sitemesi
 bkz ayasofyayı verin bu işi tatlıya bağlayalım
 bkz konstantinopolis kaç saatte alırıs sorunsalı
 bkz maymun götü vs cübbeli
