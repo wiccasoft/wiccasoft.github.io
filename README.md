@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-bkz ilker acnikligil vs nuri özgengil
+bkz ilker canikligil vs soner kabadayı
 bkz şempanze beyni vs kamalcı beyni
 bkz babanın iibf mezunu bir cahil olması
 bkz şener şenin jilet satarken futbolcuları saydığı film
