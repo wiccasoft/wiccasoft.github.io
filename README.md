@@ -13,6 +13,7 @@ bkz annesinin kafasını suya sokup video çeken tiktokçu
 bkz annenin iibf mezunu bir cahil olması
 bkz burak özçivitin sessizliğni koruması
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
+https://www.uludagsozluk.com/k/geceli%C4%9Fi-35-lira-olan-eskort/&w=gd bkz berber fuat abi
 https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular lol
 https://www.uludagsozluk.com/k/atalar%C4%B1n%C4%B1n-dinine-uyanlar/&w=bg bkz göktürkler
 https://www.uludagsozluk.com/k/selahadin-demirta%C5%9F-ve-leonardo-dicaprio-benzerli%C4%9Fi/&w=bg lol
