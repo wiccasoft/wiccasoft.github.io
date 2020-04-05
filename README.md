@@ -5,6 +5,7 @@
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://eksisozluk.com/hac-isareti-gordugunuz-eczaneye-girmeyin--6456152?a=popular
 https://www.uludagsozluk.com/k/tc-ibaresi-kald%C4%B1r%C4%B1l%C4%B1yor-deyip-eczaneye-ha%C3%A7-koymak/ lol 
+https://www.uludagsozluk.com/k/grup-yorum-%C3%BCyesi-helin-b%C3%B6lek-in-%C3%B6lmesi/&w=bg
 -->
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=KXnzNbuV84c )
