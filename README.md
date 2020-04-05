@@ -4,8 +4,10 @@
 <!-- 
 https://www.uludagsozluk.com/k/mucize-berber/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
+https://www.uludagsozluk.com/k/rothschild-in-ye%C4%9Feniyim/ lol
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-ayaklar%C4%B1/ lol
 https://www.uludagsozluk.com/k/pontus-rum-do%C4%9Fumlu-fesli-gavat/&w=bg lol
+https://www.uludagsozluk.com/k/rockefellerlar%C4%B1-biz-a%C5%9Firetiz-diye-tehdit-etmek/&w=bg lol
 https://www.uludagsozluk.com/k/75-ya%C5%9F%C4%B1ndaki-muhafazakar-dedeme-u%C3%A7an-tekme-att%C4%B1m/
 https://www.uludagsozluk.com/k/route66-denen-pi%C3%A7-kurusu-gelsene-buraya/&w=gd siktir lan göt -->
 
