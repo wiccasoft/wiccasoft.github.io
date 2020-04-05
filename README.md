@@ -4,6 +4,7 @@
 <!--
 bkz hz muhammedi sarışın resmetmek
 bkz hz musa nın ramsesin oğlu olduğu gerçeği
+bkz hz ademi homohabilis olarak resmetmek
 https://www.uludagsozluk.com/k/arap-isa-n%C4%B1n-sar%C4%B1%C5%9F%C4%B1n-resmedilmesi/&w=bg
 bkz mısır medeniyetinden mitoloji araklayıp hikayeler anlatıp din diye çomarları keklemek
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet -  batman = covid19
