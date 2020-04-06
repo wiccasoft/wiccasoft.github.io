@@ -2,14 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-https://www.uludagsozluk.com/k/kom%C3%BCnizm-paray%C4%B1-feminizm-kocay%C4%B1-bulana-kadard%C4%B1r/&w=bg
-https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri no 1
 bkz 30 yaşında sweet but psychoyum diyen erkek
 bkz 30 yaşında hala 20 gösteriyom diyen erkek
-bkz 30 yaşında arabası evil olan ailesiyle yaşayan erkek
-bkz fatih portakal vs maymun götü
-bkz 10 yıldır 30 yaşında olan erkek
-bkz 40 yaşında hala emmi oğluyla yaşayan erkek
+https://www.uludagsozluk.com/k/kom%C3%BCnizm-paray%C4%B1-feminizm-kocay%C4%B1-bulana-kadard%C4%B1r/&w=bg
+https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri no 1
 bkz 30 yaşında ailesiyle yaşaya erkek vs 30 yaşında evi arabası olan erkek
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşında ev hanımı
 https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs reis
