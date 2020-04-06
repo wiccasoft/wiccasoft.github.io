@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-bkz 30 um ama 20 gösteriyom diyen erkek
+bkz 30 yaşında hala 20 gösteriyom diyen erkek
 bkz 30 yaşında arabası evil olan ailesiyle yaşayan erkek
 bkz fatih portakal vs maymun götü
 bkz 10 yıldır 30 yaşında olan erkek
