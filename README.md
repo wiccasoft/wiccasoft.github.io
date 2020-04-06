@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
+https://www.uludagsozluk.com/k/mahsun-k%C4%B1rm%C4%B1z%C4%B1g%C3%BCl-%C3%BCn-helin-b%C3%B6lek-tweeti/
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri-olmak-i%C3%A7in-halk%C4%B1-soymak/
 https://www.uludagsozluk.com/k/6-nisan-2020-erdo%C4%9Fan-%C4%B1n-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/&w=gd
