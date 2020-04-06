@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/la-casa-de-papel-nairobi-nin-k%C3%BC%C3%A7%C3%BCkl%C3%BC%C4%9F%C3%BC/
 https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 https://www.uludagsozluk.com/k/jordi-el-nino-polla-vs-johnny-sins/
 https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/&w=gd
