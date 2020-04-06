@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz muhammedin ayı ikiye yarması
 bkz siz çok şanslı yaşıyor türkiye oh şiş kebap
 https://www.uludagsozluk.com/k/virus-kime-bulassa-uzulmezsin/
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg
