@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz siz çok şanslı şiş kebap ben gelcek yine rakı kebap mangal antalya
+bkz siz çok şanslı şiş kebap ben gelcek yine antalya rakı kebap mangal
 https://eksisozluk.com/mehmet-cilingiroglu--6433458?a=popular&p=3 
 https://www.uludagsozluk.com/k/abd-nin-bat%C4%B1yor-olmas%C4%B1/
 bkz siz çok şanslı yaşıyor türkiye oh şiş kebap
