@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/mucize-berber/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
+https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://www.uludagsozluk.com/k/rothschild-in-ye%C4%9Feniyim/ lol
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-ayaklar%C4%B1/ lol
 https://www.uludagsozluk.com/k/pontus-rum-do%C4%9Fumlu-fesli-gavat/&w=bg lol
