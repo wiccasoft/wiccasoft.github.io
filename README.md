@@ -5,23 +5,6 @@
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
-<!-- 
-bkz f tezcan f altaylı vs f terim
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz 1881 atacüc 18+81 = 99 - 81 vilayet - batman = covid19
-https://www.uludagsozluk.com/k/mucize-berber/
-bkz aslı bekiroğlanın kürt olduğu gerçeği
-https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
-https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
-https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
-https://www.uludagsozluk.com/k/rothschild-in-ye%C4%9Feniyim/ lol
-https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-ayaklar%C4%B1/ lol
-https://www.uludagsozluk.com/k/pontus-rum-do%C4%9Fumlu-fesli-gavat/&w=bg lol
-https://www.uludagsozluk.com/k/rockefellerlar%C4%B1-biz-a%C5%9Firetiz-diye-tehdit-etmek/&w=bg lol
-https://www.uludagsozluk.com/k/75-ya%C5%9F%C4%B1ndaki-muhafazakar-dedeme-u%C3%A7an-tekme-att%C4%B1m/
-https://www.uludagsozluk.com/k/route66-denen-pi%C3%A7-kurusu-gelsene-buraya/&w=gd siktir lan göt 
-https://www.uludagsozluk.com/k/rothschild-lar%C4%B1n-otel-zincirinde-ceo-olan-yazar/&w=gd sana ne lan göt -->
-
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
 
 [![Image](eq/Screenshot_2020-04-01_21-57-40.png)]( https://www.youtube.com/watch?v=sd2UyVRqNMg )
