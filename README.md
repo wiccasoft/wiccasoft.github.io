@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 <!-- 
+bkz f tezcan f altaylı vs f terim
 https://www.uludagsozluk.com/k/mucize-berber/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
