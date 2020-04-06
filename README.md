@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs resi
 bkz sweet mandarine vs maymun götü
 bkz fesli bunak vs sweet mandarine götü
 https://www.uludagsozluk.com/k/fesli-bunak-bu-y%C4%B1l-coronadan-%C3%B6lseydi/ -->
