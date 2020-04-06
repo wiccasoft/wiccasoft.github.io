@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
 bkz boris johnson ın lordlar kamarasını göreve çağırması
 bkz selin böleki vuran polisin berkin elvanı vuran polis çıkması
+https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg
 https://www.uludagsozluk.com/k/mahsun-k%C4%B1rm%C4%B1z%C4%B1g%C3%BCl-%C3%BCn-helin-b%C3%B6lek-tweeti/
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri-olmak-i%C3%A7in-halk%C4%B1-soymak/
