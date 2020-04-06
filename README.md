@@ -3,12 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- 
-https://www.uludagsozluk.com/k/boris-johnson/&w=gdhttps://www.uludagsozluk.com/k/boris-johnson/&w=gdhttps://www.uludagsozluk.com/k/boris-johnson/&w=gd
-https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
-https://www.uludagsozluk.com/k/6-nisan-2020-erdo%C4%9Fan-%C4%B1n-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/&w=gd
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
