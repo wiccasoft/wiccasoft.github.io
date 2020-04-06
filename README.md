@@ -6,7 +6,9 @@ bkz fatih portakal vs maymun götü
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
 https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs resi
 bkz sweet mandarine vs maymun götü
-https://www.uludagsozluk.com/k/fesli-bunak-bu-y%C4%B1l-coronadan-%C3%B6lseydi/ -->
+https://www.uludagsozluk.com/k/fesli-bunak-bu-y%C4%B1l-coronadan-%C3%B6lseydi/
+https://www.uludagsozluk.com/k/g%C3%B6ky%C3%BCz%C3%BCn%C3%BCn-kurtlar-vadisi-introsundaki-gibi-olmas%C4%B1/ zuhaha
+-->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
