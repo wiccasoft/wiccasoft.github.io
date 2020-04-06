@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/rockefeller-vs-rothschild/&w=bg
+https://www.uludagsozluk.com/e/43125126/ lol
 bkz siz çok şanslı şiş kebap ben gelcek yine antalya viski kebap
 https://eksisozluk.com/mehmet-cilingiroglu--6433458?a=popular&p=3  lol
 https://www.uludagsozluk.com/k/abd-nin-bat%C4%B1yor-olmas%C4%B1/
