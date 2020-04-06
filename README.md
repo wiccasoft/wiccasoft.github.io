@@ -7,11 +7,6 @@ bkz 30 yaşındaki gaylere tavsiyeler
 bkz allahını seven 30 luk gaylerin üstüne erkek atsın
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerinden-s%C3%B6zl%C3%BCk-erkeklerine-tavsiyeler/&w=bg
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşındaki gay
-bkz 30 yaşında gay 30 yaşında gay ilişkisi
-bkz 30 yaşında hala başlık açan erkek
-bkz 30 yaşında hala forumlarda takılan erkek
-bkz 30 yaşında hala 30 yaşında gay bulamamaış gay 
-bkz 30 yaşındaki gaylerin kafa siktikleri gerçeği
 https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri no 1
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=gd
