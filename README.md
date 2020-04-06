@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/pitpull/
 https://www.uludagsozluk.com/k/kuzey-pitbullo%C4%9Flu/
+https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 https://www.uludagsozluk.com/k/25-ya%C5%9F-180-cm-boy-kasl%C4%B1-v%C3%BCcut-5500-tl-maa%C5%9F/
 https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1nda-155-kilo-erkek/
 https://www.uludagsozluk.com/k/la-casa-de-papel-nairobi-nin-k%C3%BC%C3%A7%C3%BCkl%C3%BC%C4%9F%C3%BC/
