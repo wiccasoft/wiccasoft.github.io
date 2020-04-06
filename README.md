@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/boris-johnson/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/
