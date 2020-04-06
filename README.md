@@ -4,6 +4,7 @@
 <!--
 bkz fatih portakal vs maymun götü
 bkz 10 yıldır 30 yaşında olan erkek
+bkz 42 yaşında emice oğluyla yaşayan erkek
 bkz 30 yaşında ailesiyle yaşaya erkek vs 30 yaşında evi arabası olan erkek
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşında ev hanımı
 https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs reis
