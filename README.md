@@ -7,6 +7,10 @@ https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-3-e-vuran-k%C4%B1z/
 https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-3-e-vuran-k%C4%B1z/
+https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
+https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-3-e-vuran-k%C4%B1z/
+https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
+https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-3-e-vuran-k%C4%B1z/
 https://www.uludagsozluk.com/k/pitpull/
 https://www.uludagsozluk.com/k/kuzey-pitbullo%C4%9Flu/
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-3-e-vuran-k%C4%B1z/
