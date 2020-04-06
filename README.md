@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/jordi-el-nino-polla-vs-johnny-sins/
+https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/kocam%C4%B1n-beni-s%C3%B6zl%C3%BCkte-yakalamas%C4%B1/
 https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1nda-155-kilo-erkek/
 https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-3-e-vuran-k%C4%B1z/
