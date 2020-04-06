@@ -4,6 +4,7 @@
 <!--
 bkz gaylerin erkeksiz duramaması 
 bkz 30 yaşındaki gaylere tavsiyeler
+bkz allahını seven 30 luk gaylerin üstüne erkek atsın
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerinden-s%C3%B6zl%C3%BCk-erkeklerine-tavsiyeler/&w=bg
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşındaki gay
 bkz 30 yaşında gay 30 yaşında gay ilişkisi
