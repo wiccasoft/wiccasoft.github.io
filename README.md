@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/ 
+https://www.uludagsozluk.com/k/30-yaşına-gelip-hala-ailesiyle-yaşayan-erkek/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
