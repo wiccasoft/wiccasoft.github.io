@@ -3,6 +3,7 @@
 
 <!-- 
 bkz fatih portakal vs maymun götü
+https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam-a-tatl%C4%B1%C5%9F-bir-ikaz/ bkz uyurken eşini seyreden adam
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz fatih portakal
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz bilal erdoğan
 https://www.uludagsozluk.com/k/bilal-g%C3%B6regen-in-tokyo-drift-performans%C4%B1/
