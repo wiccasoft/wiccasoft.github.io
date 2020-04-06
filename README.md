@@ -4,7 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/rockefeller-vs-rothschild/&w=bg
 https://www.uludagsozluk.com/e/43125126/ lol
-bkz siz çok şanslı şiş kebap ben gelcek yine antalya viski kebap
+bkz siz çok şanslı şiş kebap ben gelcek yine antalya rakı kebap
 https://eksisozluk.com/mehmet-cilingiroglu--6433458?a=popular&p=3  lol
 https://www.uludagsozluk.com/k/abd-nin-bat%C4%B1yor-olmas%C4%B1/
 bkz siz çok şanslı yaşıyor türkiye oh şiş kebap
