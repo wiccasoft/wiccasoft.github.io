@@ -4,6 +4,7 @@
 <!-- 
 bkz muhammedin ayı ikiye yarması
 bkz siz çok şanslı yaşıyor türkiye oh şiş kebap
+https://www.uludagsozluk.com/k/virus-kime-bulassa-uzulmezsin/
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
