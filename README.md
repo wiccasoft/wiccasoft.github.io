@@ -3,7 +3,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg
-https://www.uludagsozluk.com/k/boris-johnson/&w=gd
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
 https://www.uludagsozluk.com/k/6-nisan-2020-erdo%C4%9Fan-%C4%B1n-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/&w=gd
 -->
