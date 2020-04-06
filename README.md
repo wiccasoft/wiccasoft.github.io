@@ -10,6 +10,7 @@ bkz f tezcan f altaylı vs f terim
 https://www.uludagsozluk.com/k/mucize-berber/
 bkz aslı bekiroğlanın kürt olduğu gerçeği
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
+https://www.uludagsozluk.com/k/fatih-tezcan-ın-murat-karayılan-güzellemesi/
 https://eksisozluk.com/tip-tutuyordu-ama-yazmadim--6456524?a=popular lol
 https://www.uludagsozluk.com/k/rothschild-in-ye%C4%9Feniyim/ lol
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-ayaklar%C4%B1/ lol
