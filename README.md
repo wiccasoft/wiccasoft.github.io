@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz acun ılıcalı
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz rte
 https://www.uludagsozluk.com/k/rockefeller-vs-rothschild/&w=bg
 https://www.uludagsozluk.com/e/43125126/ lol
 bkz siz çok şanslı şiş kebap ben gelcek yine antalya rakı kebap
