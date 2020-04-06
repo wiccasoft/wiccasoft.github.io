@@ -4,6 +4,7 @@
 <!--
 bkz fatih portakal vs maymun götü
 https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs reis
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg bkz sweet but psyhco
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
 bkz sweet mandarine vs maymun götü
 https://www.uludagsozluk.com/k/fesli-bunak-bu-y%C4%B1l-coronadan-%C3%B6lseydi/
