@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 bkz 30 yaşında sweet but psychoyum diyen erkek
 bkz 30 yaşında hala 20 gösteriyom diyen erkek
 https://www.uludagsozluk.com/k/kom%C3%BCnizm-paray%C4%B1-feminizm-kocay%C4%B1-bulana-kadard%C4%B1r/&w=bg
