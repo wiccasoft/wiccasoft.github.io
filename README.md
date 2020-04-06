@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz 30 yaşında hala başlık açan erkek
+https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=gd
 https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 bkz 30 yaşında sweet but psychoyum diyen erkek
