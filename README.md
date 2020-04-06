@@ -6,6 +6,7 @@ bkz fatih portakal vs maymun götü
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg
 https://www.uludagsozluk.com/k/hepimiz-portakal%C4%B1z/
 https://www.uludagsozluk.com/k/biri-sorsun-la-%C5%9Funlara/
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg bkz sweet but psycho
 https://www.uludagsozluk.com/k/rte-nin-fatih-portakal-hakk%C4%B1nda-su%C3%A7-duyurusu/
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
 https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1ndan-a%C5%9Fa%C4%9F%C4%B1-%C3%A7uval-ge%C3%A7irip-sokakta-gezen-adam/&w=bg
