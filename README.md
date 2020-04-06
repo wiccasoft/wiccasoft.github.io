@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz gaylerin erkeksiz duramaması 
 bkz 30 yaşındaki gaylere tavsiyeler
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerinden-s%C3%B6zl%C3%BCk-erkeklerine-tavsiyeler/&w=bg
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşındaki gay
