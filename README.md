@@ -4,6 +4,7 @@
 <!--
 bkz 30 yaşında hala başlık açan erkek
 bkz 30 yaşında hala forumlarda takılan erkek
+bkz 30 yaşında hala 30 yaşında gay bulamamaış gay 
 https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri no 1
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=gd
