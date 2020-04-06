@@ -7,6 +7,8 @@
 
 <!-- 
 bkz f tezcan f altaylı vs f terim
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
+bkz 1881 atacüc 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/mucize-berber/
 bkz aslı bekiroğlanın kürt olduğu gerçeği
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
