@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz rupert murdoch ın fatih portakalın kulağını çekmesi
+https://www.uludagsozluk.com/k/rte-nin-fatih-portakal-hakk%C4%B1nda-su%C3%A7-duyurusu/ 
+https://www.uludagsozluk.com/k/%C3%A7in-in-ingiltere-ba%C5%9Fbakan%C4%B1n%C4%B1-%C3%B6ld%C3%BCrmesi/ yav he he
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz rte
 https://www.uludagsozluk.com/k/rockefeller-vs-rothschild/&w=bg
 https://www.uludagsozluk.com/e/43125126/ lol
