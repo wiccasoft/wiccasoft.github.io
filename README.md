@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşındaki gay
 bkz 30 yaşında gay 30 yaşında gay ilişkisi
 bkz 30 yaşında hala başlık açan erkek
 bkz 30 yaşında hala forumlarda takılan erkek
