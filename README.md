@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz fatih portakal vs maymun götü
 bkz rupert murdoch ın fatih portakalın kulağını çekmesi
 https://www.uludagsozluk.com/k/rte-nin-fatih-portakal-hakk%C4%B1nda-su%C3%A7-duyurusu/ 
 https://www.uludagsozluk.com/k/%C3%A7in-in-ingiltere-ba%C5%9Fbakan%C4%B1n%C4%B1-%C3%B6ld%C3%BCrmesi/ yav he he
