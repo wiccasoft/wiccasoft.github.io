@@ -1,44 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- 
-bkz fatih portakal vs maymun götü
-bkz 10 yıldır 30 yaşında olan erkek
-bkz rupert murdochun fatih portakalın kulağını çekmesi
-bkz 30 yaşında evi arabası olmayan erkek vs 30 yaşında ailesiyle yaşayan erkek
-https://www.uludagsozluk.com/k/boris-johnson/&w=bg
-https://www.uludagsozluk.com/k/hepimiz-portakal%C4%B1z/
-https://www.uludagsozluk.com/k/biri-sorsun-la-%C5%9Funlara/
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg bkz sweet but psycho
-https://www.uludagsozluk.com/k/rte-nin-fatih-portakal-hakk%C4%B1nda-su%C3%A7-duyurusu/
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
-https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1ndan-a%C5%9Fa%C4%9F%C4%B1-%C3%A7uval-ge%C3%A7irip-sokakta-gezen-adam/&w=bg
-https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam-a-tatl%C4%B1%C5%9F-bir-ikaz/ bkz uyurken eşini seyreden adam
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz fatih portakal
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz bilal erdoğan
-https://www.uludagsozluk.com/k/bilal-g%C3%B6regen-in-tokyo-drift-performans%C4%B1/
-https://www.uludagsozluk.com/k/rte-nin-fatih-portakal-hakk%C4%B1nda-su%C3%A7-duyurusu/ 
-https://www.uludagsozluk.com/k/%C3%A7in-in-ingiltere-ba%C5%9Fbakan%C4%B1n%C4%B1-%C3%B6ld%C3%BCrmesi/ 
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz rte
-https://www.uludagsozluk.com/k/rockefeller-vs-rothschild/&w=bg
-https://www.uludagsozluk.com/e/43125126/ lol
-bkz siz çok şanslı şiş kebap ben gelcek yine antalya rakı kebap
-https://eksisozluk.com/mehmet-cilingiroglu--6433458?a=popular&p=3  lol
-https://www.uludagsozluk.com/k/abd-nin-bat%C4%B1yor-olmas%C4%B1/
-bkz siz çok şanslı yaşıyor türkiye oh şiş kebap
-https://www.uludagsozluk.com/k/virus-kime-bulassa-uzulmezsin/
-https://www.uludagsozluk.com/k/boris-johnson/&w=bg
-https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg
-https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-cenazesi/ 
-bkz selin böleki vuran polisin berkin elvanı vuran polis çıkması
-https://www.uludagsozluk.com/k/f-altayl%C4%B1-atat%C3%BCrk-havaliman%C4%B1-hastane-olsun-demesi/
-https://www.uludagsozluk.com/k/zab%C4%B1taya-sipari%C5%9F-veren-naif-amca/&w=bg
-https://www.uludagsozluk.com/k/mahsun-k%C4%B1rm%C4%B1z%C4%B1g%C3%BCl-%C3%BCn-helin-b%C3%B6lek-tweeti/
-https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/
-https://www.uludagsozluk.com/k/d%C3%BCnya-lideri-olmak-i%C3%A7in-halk%C4%B1-soymak/
-https://www.uludagsozluk.com/k/6-nisan-2020-erdo%C4%9Fan-%C4%B1n-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/&w=gd
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
