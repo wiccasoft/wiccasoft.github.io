@@ -3,6 +3,7 @@
 
 <!--
 bkz fatih portakal vs maymun götü
+bkz 30 yaşında ailesiyle yaşaya erkek vs 30 yaşında evi arabası olan erkek
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşında ev hanımı
 https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs reis
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg bkz sweet but psyhco
