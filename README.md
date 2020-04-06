@@ -1,32 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!--
-bkz gaylerin erkeksiz duramaması 
-bkz 30 yaşındaki gaylere tavsiyeler
-bkz allahını seven 30 luk gaylerin üstüne erkek atsın
-https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri imdb top
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerinden-s%C3%B6zl%C3%BCk-erkeklerine-tavsiyeler/&w=bg
-https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşındaki gay
-https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri no 1
-https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=gd
-https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
-bkz 30 yaşında sweet but psychoyum diyen erkek
-bkz 30 yaşında hala 20 gösteriyom diyen erkek
-https://www.uludagsozluk.com/k/kom%C3%BCnizm-paray%C4%B1-feminizm-kocay%C4%B1-bulana-kadard%C4%B1r/&w=bg
-https://www.uludagsozluk.com/k/the-shawshank-redemption/&w=bg bkz ultra gay filmleri no 1
-bkz 30 yaşında ailesiyle yaşaya erkek vs 30 yaşında evi arabası olan erkek
-https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ bkz 30 yaşında ev hanımı
-https://sweetmandarine.uludagsozluk.com/ bkz maymun götü vs reis
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg bkz sweet but psyhco
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
-bkz sweet mandarine vs maymun götü
-https://www.uludagsozluk.com/k/fesli-bunak-bu-y%C4%B1l-coronadan-%C3%B6lseydi/
-https://www.uludagsozluk.com/k/g%C3%B6ky%C3%BCz%C3%BCn%C3%BCn-kurtlar-vadisi-introsundaki-gibi-olmas%C4%B1/ zuhaha
-https://www.uludagsozluk.com/k/insanlar%C4%B1-ilaca-mahkum-etmi%C5%9F-t%C4%B1p-bilimi/&w=bg lol
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=flXrq9OJfOg )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
