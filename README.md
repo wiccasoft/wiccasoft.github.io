@@ -3,7 +3,7 @@
 
 <!-- 
 bkz fatih portakal vs maymun götü
-bkz 10 yıldır 30 yaşında olan adam
+bkz 10 yıldır 30 yaşında olan erkek
 bkz rupert murdochun fatih portakalın kulağını çekmesi
 bkz 30 yaşında evi arabası olmayan erkek vs 30 yaşında ailesiyle yaşayan erkek
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg
