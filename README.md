@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/jordi-el-nino-polla-vs-johnny-sins/ özledik be amınoğlu sins
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu 
 https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular hırtlar vadisi seyfo dayı pala hüseyin
 https://eksisozluk.com/vallahi-apoyu-ozledik--6459864?a=popular bkz özledik be amınoğlu
