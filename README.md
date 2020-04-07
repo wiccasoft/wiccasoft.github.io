@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BC%C4%9Fe-g%C3%B6rsel-eklemenin-yeni-gelmesi/
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
 https://www.uludagsozluk.com/k/30-ya%C5%9F-alt%C4%B1-20-y%C4%B1l-tecr%C3%BCbeli-fince-bilen-eleman/
 https://www.uludagsozluk.com/k/ku%C5%9Flu-mu%C5%9Flu-tak%C4%B1m-tutan-tipler/ bkz kuş beyinliler
