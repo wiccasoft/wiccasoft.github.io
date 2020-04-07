@@ -4,6 +4,7 @@
 <!-- 
 bkz donald trumpın oğlu
 bkz rupert murdochun oğlu
+https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
 https://eksisozluk.com/ismail-ak--6459847?a=popular bkz akit
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyoun amınoğlu
 https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz memet ali şahinni yeğeninin kumar oynadığı otel
