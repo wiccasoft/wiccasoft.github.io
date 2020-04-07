@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz fatih terim vs fatih tezcan
+bkz receğ tayyiğ erdoğan ulus konuşması
 bkz twitterdaki vasıfsız eşcinsel  fanatiklerin ekşiye doluşması
 https://www.uludagsozluk.com/k/aslolan-fenerbahce-dir/&w=bg
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz nerden baksan ağırgerizekalılık
