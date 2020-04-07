@@ -1,43 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- 
-bkz 30 yaşında hala pipisi kalkmayan erkek
-bkz pele yi arayıp amınoğlu özlettin demek
-bkz wesley sniper ı arayıp amınoğlu naptın özlemedin mi beni demek
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özledim be amınoğlu
-https://www.uludagsozluk.com/k/falcao-nun-bitik-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz pipisi kalkmıyor
-bkz 30 yaşında hala babasının evinde yaşayan erkek
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
-bkz 30 yaşında hala babasından izin alan erkek
-bkz 30 yaşında annesisyle babasıyla 7 kardeşiyle yaşayan erkek
-vkz akla erkek gelince akla gelen ikinci erkek
-bkz akıldan erkeklerin çıkmaması
-bkz akla erkek geldiği anlar
-bkz dünyada erkek olmasa ne konuşurduk sorunsalı
-bkz erkek diyince akla gelen ilk imge
-bkz erkek gibi erkek otuzunda erkek
-bkz erkek diyince akla gelen ilk erkek
-bkz 10 yıldır 30 unda olan erkek
-bkz hala 30 um diyen erkek
-bkz hayat 30 unda başlar diyen erkek
-bkz 30 yaşında hala erkek olan erkek
-bkz 30 yaşında erkek
-bkz 10 yıldır hala 30 yaşındayım diyen erkek
-bkz 30 yaşında babişkosuyla yaşayan erkek
-bkz 30 yaşında hala babişkosuna babişko diiyen erkek
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
-bkz 40 yaşında hala ailesiyle yaşayan erkek
-bkz cumburlop maaşı vs fatih portakal maaşı
-https://www.uludagsozluk.com/k/fatih-portakal/ bkz rupert murdoch un köpeği
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz 66 yaşında sarayında yaşayan erkek
-bkz 30 yaşındayım ama hala 20 gösteriyom diyen erkek
-bkz 30 yaşına gelip hala ailesiyle oturan oç
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz 30 yaşında gelip halal sarayda oturan erkek
-bkz 30 yaşında gelip hala deep webte kız taklidi yapan erkek
-https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=gd ay erkekmi o ayol-->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
