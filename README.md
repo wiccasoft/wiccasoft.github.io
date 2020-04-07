@@ -3,7 +3,6 @@
 
 <!--
 bkz mağara soğuk mu kızlar
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
 bkz 45 cm aralıksız keser sapının kızların entrylerini favlaması
 bkz pornhubta kızların odalarına girip seks yapan pornocu
 bkz jhonny sinsin konulu filmelerinde kızları aşağılaması
