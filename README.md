@@ -4,7 +4,6 @@
 <!--
 bkz mağara soğuk mu kızlar
 bkz paris hiltonun otelde yaladığı erkek
-bkz paris hiltonu otelde yalayan sapık
 bkz emre morun demeden kızlara yürümesi
 bkz 7 nisan 2020 ekşici kızların yastık savaşı yapması
 bkz 8 nisan 2020 erkek yazarları şapşikliyoruz kampanyası
