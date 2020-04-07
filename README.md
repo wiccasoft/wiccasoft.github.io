@@ -3,6 +3,7 @@
 
 <!--
 bkz forum kızlar soruyor com ölücüleri
+https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://space.stackexchange.com bkz stackoverflow ölücüleri
 https://stackoverflow.com/questions/35088496/can-i-load-a-website-with-nw-js
 https://www.uludagsozluk.com/k/forum-donan%C4%B1m-%C3%B6l%C3%BCc%C3%BCleri/&w=bg özledim be amınoğlu
