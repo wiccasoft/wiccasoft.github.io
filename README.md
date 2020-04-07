@@ -3,10 +3,8 @@
 
 <!--
 bkz am mı lan o
-bkz boris johnsonın donuna kamera koyan otelci
 bkz kızların odasına kamera koyan otelci
-bkz boris jonhsonın donunu indirip kaçmak
-bkz jhonny sinsi şikayet eden ekşici
+bkz jhonny sinsi trumpa şikayet eden ekşici
 bkz ekşici kızların emcüklerini emüklemiyoruz kampanyası
 bkz amı emiklenenen ekşici kızın polisi çağırması
 bkz amlı kızların emcüklerinü emükleyen sapık
