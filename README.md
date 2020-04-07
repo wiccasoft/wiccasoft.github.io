@@ -3,6 +3,8 @@
 
 <!--
 bkz mağara soğuk mu kızlar
+bkz 8 nisan 2020 erkek yazarları şapşikliyoruz kampanyası
+https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=gd
 bkz 45 cm aralıksız keser sapının  mountourer in entry sini favlaması
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
 https://www.uludagsozluk.com/k/boris-johnson/ bkz amınoğlu
