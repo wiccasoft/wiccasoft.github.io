@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz twtitter da kuşları hoplatan dayı
 bkz imparatorun kuşları hoplatması
 bkz fatih terim vs fatih tezcan
 bkz receğ tayyiğ erdoğan ulus konuşması
