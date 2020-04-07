@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz maymun götü vs boris
 bkz rupert murdoch vs maymun götü
 https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz rte
 https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz boris johnson vs maymun götü 
