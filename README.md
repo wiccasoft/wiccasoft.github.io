@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/yaraklar%C4%B1n%C4%B1-tutu%C5%9Fturup-yang%C4%B1n-%C3%A7%C4%B1kard%C4%B1lar/&w=bg
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz kız yurduna kamera koyan imam
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular uzaklaşmış olamaz
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular up la kankağ upla
