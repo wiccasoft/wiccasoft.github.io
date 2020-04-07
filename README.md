@@ -5,7 +5,6 @@
 bkz paris hiltonu otelde siken genç
 bkz çomarlardaki herkes götümü sikmek istiyor paranoyası
 bkz o değil de bu kadar orospu çocuğuna bu virüs zayıf kaldı amk
-https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen kimsin amk ya
 bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
 bkz eşcinsellerin ne kafası yaşaması sorunsalı
 bkz 30 yaşına gelip hala karı kız taklidi yapan loserler
@@ -17,7 +16,9 @@ bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
 bkz ekşici kızların emcüklerini emükleyen sapık otelci
 bkz ekşcici kızların sapıkları twitterda aratıp olmayan emcüğümü emüklüyor diye ağlaması
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular ay hoşt ulan 
-https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular hırtlar vadisi seyfo dayı -->
+https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular hırtlar vadisi seyfo dayı 
+https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen kimsin amk ya
+-->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
