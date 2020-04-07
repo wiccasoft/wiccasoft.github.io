@@ -1,26 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!--
-bkz forum kızlar soruyor com ölücüleri
-bkz 2 yılda 20.000 satır kod yazmak
-https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeninde-%C3%B6%C4%9Fretmenlerin-yeri/ bkz avuçlarını yalamak
-https://www.uludagsozluk.com/k/106-bin-entry-girmek/ zıhahahahahah
-https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
-https://space.stackexchange.com bkz stackoverflow ölücüleri
-https://stackoverflow.com/questions/35088496/can-i-load-a-website-with-nw-js
-https://www.uludagsozluk.com/k/forum-donan%C4%B1m-%C3%B6l%C3%BCc%C3%BCleri/&w=bg özledim be amınoğlu
-https://www.uludagsozluk.com/k/fatih-portakal/&w=gd kokunu özledim be amınoğlu
-https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
-https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
-https://eksisozluk.com/cuneyt-ozdemirin-tek-korkusuz-gazeteci-olmasi--6459289?a=popular bkz özleniyosun be amınoğlu
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz oç yeğen
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg şimdiden özledim amınoğlu
-https://www.uludagsozluk.com/k/boris-johnson/&w=bg özleniyosun be amınoğlu iyileş dön aramıza
-https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular 
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
