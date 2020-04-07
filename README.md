@@ -5,7 +5,8 @@
 bkz rupert murdoch vs maymun götü
 https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz rte
 https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz boris johnson vs maymun götü 
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz fatih portakal vs maymun götü -->
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz fatih portakal vs maymun götü
+https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-satran%C3%A7-oynamay%C4%B1-bilmemesi/ bkz kızların emcüklerin kokması-->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
