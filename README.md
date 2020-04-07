@@ -2,11 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz donald trumpın oğlu
-bkz rupert murdochun oğlu
 https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
 https://eksisozluk.com/ronaldo-luis-nazario-de-lima--333696?a=popular amınoğlu ismini bile özledim amk
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz amınakodumun amın oğlu özleniyosun amk çocuu oç
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özleniyosun amınoğlu
 https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
 https://eksisozluk.com/ismail-ak--6459847?a=popular bkz akit
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyoun amınoğlu
@@ -22,7 +20,7 @@ https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz şimdididen özledim am�
 https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz iyi ol aramıza dön kankağ
 https://eksisozluk.com/7-nisan-2020-mercedes-rezaleti--6459588?a=popular bkz mercedesim var
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular link at kankağ
+https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular linç at kankağ
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg bkz özleniyosun amınoğlu -->
 
