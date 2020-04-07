@@ -5,7 +5,6 @@
 bkz 30 yaşında hala ailesiyle fatih portakal izleyen vasıfsız
 bkz cüneyt özdemir vs maymun götü
 bkz fatih portakal vs maymun  götü vs rte
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg
 bkz 30 yaşında hala forumlarda entry giren erkek
 bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
 bkz imparatorun kuşları hoplatması
