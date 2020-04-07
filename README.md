@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz hala 30 um diyen erkek
 bkz hayat 30 unda başlar diyen erkek
 bkz 30 yaşında hala erkek olan erkek
 bkz 30 yaşında erkek
