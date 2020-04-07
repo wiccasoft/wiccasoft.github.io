@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz wesley sniper ı arayıp amınoğlu naptın özlemedin mi beni demek
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özledim be amınoğlu
 https://www.uludagsozluk.com/k/falcao-nun-bitik-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz pipisi kalkmıyor
 bkz 30 yaşında hala babasının evinde yaşayan erkek
