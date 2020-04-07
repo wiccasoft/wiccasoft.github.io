@@ -3,6 +3,7 @@
 
 <!--
 bkz am mı lan o
+bkz amlı kızların emcüklerinü emükleyen sapık
 bkz erkek yazarları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=bg bk ay sapıklar
 bkz kızların emcüklerini emüklemesinler kampanyası
