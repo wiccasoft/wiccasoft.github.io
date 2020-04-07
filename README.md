@@ -3,6 +3,7 @@
 
 <!--
 bkz mağara soğuk mu kızlar
+bkz emre morun demeden kızlara yürümesi
 bkz 7 nisan 2020 ekşici kızların yastık savaşı yapması
 bkz 8 nisan 2020 erkek yazarları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=gd
