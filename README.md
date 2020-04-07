@@ -3,7 +3,9 @@
 
 <!--
 https://www.uludagsozluk.com/e/43126573/ bkz amınoğlu
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu  -->
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu 
+https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz amınoğlu
+-->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
