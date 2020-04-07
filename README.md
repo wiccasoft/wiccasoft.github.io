@@ -3,8 +3,7 @@
 
 <!--
 bkz am mı lan o
-bkz kızların amlarına bakan maganda
-bkz kızların kilotlarını çalan maganda otelci
+bkz kızların odalarına girip amlarına bakan maganda
 bkz kızların odasına kamera koyan otelci
 bkz jhonny sinsi trumpa şikayet eden ekşici
 bkz ekşici kızların emcüklerini emüklemiyoruz kampanyası
