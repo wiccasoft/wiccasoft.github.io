@@ -5,13 +5,10 @@
 bkz uyurken eski tokmakçılarını sayıklayan eşinin gülümseyrek seyreden erkek
 bkz eşinin eski tokmakçılarının resmine bakarken duygulanan erkek
 bkz uyurken sevda busesi kondurup sevgi dolu bakışlarla eşini seyreden erkek
-bkz eşinin alnına sevda busesi konduran erkek
 bkz sevmeyi bilmeyen kadının yüreğine aşk sokan erkek
-bkz uyurken içim geçmiş diyen eşinin üstünü örtüp alnına öpücük konduran erkek
 bkz swinger esnasında gülümseyerek eşini seyreden erkek
 bkz swinger esnasında gülümseyerek eşinin elini tutan erkek
 bkz uyurken osuran eşini gülümseyerek seyreden erkek
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz kk
 bkz millet hizmet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/benim-ki-uyumu%C5%9Fmu/
 bkz uyurken eşini seyrederek gülümseyen erkeği seyreden erkek
@@ -27,26 +24,8 @@ bkz cüneyt özdemir vs maymun götü
 bkz fatih portakal vs maymun  götü vs rte
 bkz 30 yaşında hala forumlarda entry giren erkek
 bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
-bkz imparatorun kuşları hoplatması
-bkz fatih terim vs fatih tezcan
-bkz receğ tayyiğ erdoğan ulus konuşması
-bkz imparator deyince akla gelen ilk isim
-bkz twitterdaki vasıfsız eşcinsel  fanatiklerin ekşiye doluşması
-https://www.uludagsozluk.com/k/aslolan-fenerbahce-dir/&w=bg
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz nerden baksan ağırgerizekalılık
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.uludagsozluk.com/k/ku%C5%9Flu-mu%C5%9Flu-tak%C4%B1m-tutan-tipler/ bkz kuş beyinliler
-bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
-bkz 30 yaşında tecrübeli ekşici linççi eleman
-bkz 30 yaşında twitter da link arayıp linç atarım diyen erkek
-bkz 30 yaşında hala linç yapmamış erkek
-bkz 30 yaşında forum donanım habere resim ekleyen erkek
-https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BC%C4%9Fe-g%C3%B6rsel-eklemenin-yeni-gelmesi/
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
-https://www.uludagsozluk.com/k/30-ya%C5%9F-alt%C4%B1-20-y%C4%B1l-tecr%C3%BCbeli-fince-bilen-eleman/
-https://www.uludagsozluk.com/k/ku%C5%9Flu-mu%C5%9Flu-tak%C4%B1m-tutan-tipler/ bkz kuş beyinliler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz uyurken eşini seyreden erkek
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özledik be amınoğlu kokunu özledik
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özledik be amınoğlu 
 https://www.uludagsozluk.com/k/ku%C5%9Flu-mu%C5%9Flu-tak%C4%B1m-tutan-tipler/ bkz kuş beyinliler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz uyurken eşini seyreden erkek
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz boris johnson
