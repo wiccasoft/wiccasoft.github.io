@@ -5,6 +5,7 @@
 bkz mağara soğuk mu kızlar
 bkz paris hiltonun otelde yaladığı erkek
 bkz emre morun demeden kızlara yürümesi
+https://www.uludagsozluk.com/k/en-sevdi%C4%9Fin-k%C3%B6pek-cinsi/
 bkz 7 nisan 2020 ekşici kızların yastık savaşı yapması
 bkz 8 nisan 2020 erkek yazarları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/en-sevdi%C4%9Fin-k%C3%B6pek-cinsi/
