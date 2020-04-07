@@ -4,6 +4,7 @@
 <!-- 
 bkz donald trumpın fakir oğlu
 bkz rupert murdochun fakir oğlu
+https://eksisozluk.com/ismail-ak--6459847?a=popular bkz akit
 https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz memet ali şahinni yeğeninin kumar oynadığı otel
 https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz mehmet ali şahinin yeğeni
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
