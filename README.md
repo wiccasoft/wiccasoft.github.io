@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özleniyosun amınoğlu 
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz şimdididen özledim amınoğlu
 https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz iyi ol aramıza dön kankağ
 https://eksisozluk.com/7-nisan-2020-mercedes-rezaleti--6459588?a=popular bkz mercedesim var
