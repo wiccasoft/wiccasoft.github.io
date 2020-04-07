@@ -3,7 +3,7 @@
 
 <!-- 
 bkz o değil de bu kadar orospu çocuğuna bu virüs zayıf kaldı amk
-https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen limsin amk ya
+https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen kimsin amk ya
 bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
 bkz eşcinsellerin ne kafası yaşaması sorunsalı
 bkz 30 yaşına gelip hala karı kız taklidi yapan loserler
