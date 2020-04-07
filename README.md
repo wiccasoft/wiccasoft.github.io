@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/en-sevdi%C4%9Fin-k%C3%B6pek-cinsi/ hadi hızlı hızlı
+https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/&w=gd hadi beyler çabuk
 bkz mağara soğuk mu kızlar
 bkz paris hiltonun otelde yaladığı erkek
 bkz emre morun demeden kızlara yürümesi
