@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz scary movie whats uppppppppppppp sahnesi
 bkz wesley snipes ı arayıp a amınoğlu özleniyosun demek
 bkz wesley snipes vs wesley sneijder
 bkz vallahi amınoğlu sneijderı özledik
