@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-bkz eşcinsellerin dertleri
+https://eksisozluk.com/vallahi-apoyu-ozledik--6459864?a=popular bkz özledik be amınoğlu
 https://www.uludagsozluk.com/e/43126573/ bkz amınoğlu
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu 
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz amınoğlu
