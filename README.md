@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/ku%C5%9Flu-mu%C5%9Flu-tak%C4%B1m-tutan-tipler/ bkz kuş beyinliler
 bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
 bkz 30 yaşında tecrübeli ekşici linççi eleman
