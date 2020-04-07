@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz kocişkoyu uyuttum soruları alayım
+https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 bkz 45 cm aralıksız keser sapının kızların entrylerini favlaması
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular 
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=gd
