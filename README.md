@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ sorular peşin kırmızı meşin
 https://eksisozluk.com/taksi-cagirip-sadece-ucret-oduyoruz-kampanyasi--6459926?a=popular ben paraları hazırladım
 https://www.uludagsozluk.com/k/ford-ranger/&w=bg yeni oyuncağım bi de yat alacam bakalım
 https://eksisozluk.com/7-nisan-2020-mercedes-rezaleti--6459588?a=popular ayy yetişin sapıkkkkk mercedes ayol
