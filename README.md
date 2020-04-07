@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
 bkz eşcinsellerin ne kafası yaşaması sorunsalı
 bkz 30 yaşına gelip hala karı kız taklidi yapan loserler
 bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyim
