@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 30 yaşında hala forumlarda entry giren erkek
+bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
 bkz imparatorun kuşları hoplatması
 bkz fatih terim vs fatih tezcan
 bkz receğ tayyiğ erdoğan ulus konuşması
