@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz tweeter da swingerlı sekis teklif eden sapık elbet bi erkek hesabının görecektir
 bkz kocişkoyu uyuttum soruları alayım
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 bkz 45 cm aralıksız keser sapının kızların entrylerini favlaması
