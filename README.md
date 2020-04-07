@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz paris hiltonu otelde siken genç
 bkz çomarlardaki herkes götümü sikmek istiyor paranoyası
 bkz o değil de bu kadar orospu çocuğuna bu virüs zayıf kaldı amk
 https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen kimsin amk ya
