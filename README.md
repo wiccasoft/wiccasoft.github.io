@@ -3,6 +3,7 @@
 
 <!--
 bkz am mı lan o
+bkz kızların amcıklarını yalayan maganda
 bkz kızların odalarına girip amlarına bakan maganda
 bkz kızların odasına kamera koyan otelci
 bkz jhonny sinsi trumpa şikayet eden ekşici
