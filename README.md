@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/
 bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
 bkz ekşici kızların emcüklerini emükleyen sapık otelci
 bkz ekşcici kızların sapıkları twitterda aratıp olmayan emcüğümü emüklüyor diye ağlaması
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular ay hoşt ulan 
+https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz ay hoşt ulan amk
 https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular hırtlar vadisi seyfo dayı 
 https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen kimsin amk ya
 -->
