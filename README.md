@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz rte
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz fatih portakal
 https://www.uludagsozluk.com/k/hayran%C4%B1-ebru-polat%C4%B1n-%C3%A7orab%C4%B1na-25-bin-tl-verdi/
 bkz fatih portakalın aptala anlatır gibi anlatması
