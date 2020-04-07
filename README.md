@@ -3,6 +3,7 @@
 
 <!--
 bkz am mı lan o
+bkz kızların odasına kamera koyan otelci
 bkz boris jonhsonın donunu indirip kaçmak
 bkz jhonny sinsi şikayet eden ekşici
 bkz ekşici kızların emcüklerini emüklemiyoruz kampanyası
