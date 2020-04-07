@@ -4,7 +4,7 @@
 <!-- 
 bkz donald trumpın oğlu
 bkz rupert murdochun oğlu
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz amınakodumun amın oğlu özlediiyosun amk çocuu
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz amınakodumun amın oğlu özleniyosun amk çocuu oç
 https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
 https://eksisozluk.com/ismail-ak--6459847?a=popular bkz akit
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyoun amınoğlu
