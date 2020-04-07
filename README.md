@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz stackoverflow ölücüleri
+https://stackoverflow.com/questions/35088496/can-i-load-a-website-with-nw-js
 https://www.uludagsozluk.com/k/forum-donan%C4%B1m-%C3%B6l%C3%BCc%C3%BCleri/&w=bg özledim be amınoğlu
 https://www.uludagsozluk.com/k/fatih-portakal/&w=gd kokunu özledim be amınoğlu
 https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
