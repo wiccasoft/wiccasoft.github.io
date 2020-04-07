@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-bkz komodayken boris johnsonın donunı indirip kaçmak
+bkz eşcinsellerde kurtulmak için ölü taklidi yapmak
 bkz paris hiltonu otelde siken genç
 bkz çomarlardaki herkes götümü sikmek istiyor paranoyası
 bkz o değil de bu kadar orospu çocuğuna bu virüs zayıf kaldı amk
