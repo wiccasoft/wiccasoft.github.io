@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+vkz akla erkek gelince akla gelen ikinci erkek
 bkz akıldan erkeklerin çıkmaması
 bkz akla erkek geldiği anlar
 bkz dünyada erkek olmasa ne konuşurduk sorunsalı
