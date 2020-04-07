@@ -3,6 +3,7 @@
 
 <!--
 bkz forum kızlar soruyor com ölücüleri
+bkz 2 yılda 20.000 satır kod yazmak
 https://www.uludagsozluk.com/k/106-bin-entry-girmek/ zıhahahahahah
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://space.stackexchange.com bkz stackoverflow ölücüleri
