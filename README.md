@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
 https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular link at kankağ
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg bkz özleniyosun amınoğlu -->
