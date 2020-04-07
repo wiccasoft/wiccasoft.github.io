@@ -1,29 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- 
-https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
-https://eksisozluk.com/ronaldo-luis-nazario-de-lima--333696?a=popular amınoğlu ismini bile özledim amk
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özleniyosun amınoğlu
-https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
-https://eksisozluk.com/ismail-ak--6459847?a=popular bkz akit
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyoun amınoğlu
-https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz memet ali şahinni yeğeninin kumar oynadığı otel
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz mehmet ali şahinin yeğeni
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
-https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz kızlara yürüyen magandanın oteli
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
-bkz twitter akp çocukları sayfasının kasması
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz sedat pekerin yeğeni
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özleniyosun amınoğlu 
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz şimdididen özledim amınoğlu
-https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz iyi ol aramıza dön kankağ
-https://eksisozluk.com/7-nisan-2020-mercedes-rezaleti--6459588?a=popular bkz mercedesim var
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular linç at kankağ
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
-https://www.uludagsozluk.com/k/boris-johnson/&w=bg bkz özleniyosun amınoğlu -->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
