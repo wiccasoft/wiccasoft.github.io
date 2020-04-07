@@ -1,7 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- 
+<!--
+bkz fatih portakalın aptala anlatır gibi anlatması
 bkz 30 yaşında hala ailesiyle fatih portakal izleyen vasıfsız
 bkz cüneyt özdemir vs maymun götü
 bkz fatih portakal vs maymun  götü vs rte
