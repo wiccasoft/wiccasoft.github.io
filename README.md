@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-bökz vallahi amınoğlu sneijderı özledik
+bkz meloyu özledik meloda bizi özily midir lo
+bkz vallahi amınoğlu sneijderı özledik
 bkz barzoların sevdikleri futbolculara amınoğlu demeleri
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özleniyosun amınoğlu len amq
 bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
