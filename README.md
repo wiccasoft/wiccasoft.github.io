@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular ay maganda ayol
+https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular bkz seyfo dayı
+https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular 
+bkz ay maganda ayol twtitterda  denk geldim emcüğümü emükledi
 bkz eşcinsellerde kurtulmak için ölü taklidi yapmak
 bkz paris hiltonu otelde siken genç
 bkz çomarlardaki herkes götümü sikmek istiyor paranoyası
