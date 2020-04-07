@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz 30 yaşınnda hala pipisi kalmayan erkek
+bkz 30 yaşında hala pipisi kalkmayan erkek
 bkz pele yi arayıp amınoğlu özlettin demek
 bkz wesley sniper ı arayıp amınoğlu naptın özlemedin mi beni demek
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özledim be amınoğlu
