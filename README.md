@@ -10,7 +10,7 @@ bkz ekşici kızların emcüklerini emüklemiyoruz kampanyası
 bkz amı emiklenenen ekşici kızın polisi çağırması
 bkz amlı kızların emcüklerinü emükleyen sapık
 bkz erkek yazarları şapşikliyoruz kampanyası
-https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=bg bk ay sapıklar
+https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=bg bk ay sapıklar ayol
 bkz kızların emcüklerini emüklemesinler kampanyası
 bkz kızların emcüklerini emüklerken araya kafayı sokmak
 bkz pornhubta otelde grup yapan kızlar
