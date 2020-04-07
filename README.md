@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz 45 cm aralıksız keser sapının kızların entrylerini favlaması
 bkz pornhubta kızların odalarına girip seks yapan pornocu
 bkz jhonny sinsin konulu filmelerinde kızları aşağılaması
 bkz tweetterda ki seks videolarını retweetleyen sapık
