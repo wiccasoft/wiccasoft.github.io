@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
 https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
 https://eksisozluk.com/cuneyt-ozdemirin-tek-korkusuz-gazeteci-olmasi--6459289?a=popular bkz özleniyosun be amınoğlu
 https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz oç yeğen
