@@ -1,53 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!--
-bkz am mı lan o
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz uplayın beyler belki amlıdır
-bkz kızların amcıklarını yalayan maganda
-bkz kızların odalarına girip amlarına bakan maganda
-bkz kızların odasına kamera koyan otelci
-bkz jhonny sinsi trumpa şikayet eden ekşici
-bkz ekşici kızların emcüklerini emüklemiyoruz kampanyası
-bkz amı emiklenenen ekşici kızın polisi çağırması
-bkz amlı kızların emcüklerinü emükleyen sapık
-bkz erkek yazarları şapşikliyoruz kampanyası
-https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=bg bk ay sapıklar ayol
-bkz kızların emcüklerini emüklemesinler kampanyası
-bkz kızların emcüklerini emüklerken araya kafayı sokmak
-bkz pornhubta otelde grup yapan kızlar
-bkz kızların soyunma odalarına kamera koyan imam
-bkz kızlarına emcüklerini emükleyen pornocu maganda
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz uplayın beyler belki amlıdır
-bkz paris hiltonu otelde siken genç
-bkz johny sinsin kızları sikmesi
-bkz yetişin ekşicilerin emcüklerünü emcüklüyolar
-bkz bangbrosu şikayet eden kırılgan ekşici harun abi
-bkz harun abilerdeki maganda sevdası
-bkz bangbrosta kızları odaya sokup grup seks yapan pornocu
-bkz 45 cm aralıksız keser sapının yürüdüğü kızın harun abi çıkması
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz yetişin komşular 
-bkz eşcinselleri kimse taciz etmeyince twitterda maganda aramaları
-bkz ekşcicilerin emcüklerini emükleyen otel sahibi maganda
-bkz ay maganda ayol twtitterda  denk geldim emcüğümü emükledi
-bkz eşcinsellerde kurtulmak için ölü taklidi yapmak
-bkz çomarlardaki herkes götümü sikmek istiyor paranoyası
-bkz o değil de bu kadar orospu çocuğuna bu virüs zayıf kaldı amk
-bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
-bkz eşcinsellerin ne kafası yaşaması sorunsalı
-bkz 30 yaşına gelip hala karı kız taklidi yapan loserler
-bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyim
-bkz eşcinsellerin bir araya gelince konuştuğu şeyler
-https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
-https://www.uludagsozluk.com/k/kocay%C4%B1-elde-tutman%C4%B1n-yollar%C4%B1/ 
-bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
-bkz ekşici kızların emcüklerini emükleyen sapık otelci
-bkz ekşcici kızların sapıkları twitterda aratıp olmayan emcüğümü emüklüyor diye ağlaması
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz ay hoşt ulan amk
-https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular hırtlar vadisi seyfo dayı 
-https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz sen kimsin amk ya
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
