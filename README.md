@@ -5,7 +5,7 @@
 bkz paris hiltonu otelde siken genç
 bkz johny sinsin kızları sikmesi
 bkz bangbrosta kızları odaya sokup grup seks yapan pornocu
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular uplu ayol sapık ayol
+https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz sapık ayol imdaaaat ayol
 bkz eşcinselleri kimse taciz etmeyince twitterda maganda aramaları
 bkz ekşcicilerin emcüklerini emükleyen otel sahibi maganda
 bkz ay maganda ayol twtitterda  denk geldim emcüğümü emükledi
