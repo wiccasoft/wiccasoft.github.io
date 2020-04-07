@@ -4,6 +4,7 @@
 <!-- 
 bkz rupert murdoch vs maymun götü
 bkz boris jonsonın donunu indirp kaçmak
+bkz kızların odasına girip emcüklerini yalayan papaz
 https://www.uludagsozluk.com/k/ba%C5%9Fkalar%C4%B1n%C4%B1-%C3%A7ekemeyen-insan/ bkz rte
 https://www.uludagsozluk.com/k/boris-johnson/&w=gd bkz boris johnson vs maymun götü 
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz fatih portakal vs maymun götü
