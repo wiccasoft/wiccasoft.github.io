@@ -2,13 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz 30 yaşında vuruşmaktan korkan pasif erkek
-bkz 30 yaşındaki emiklenesi erkekler
-bkz 30 yaşında evi arabsı olan erkek vs 30 yaşında aile babası olan erkek
-bkz 30 yaşında ailseyile yaşayan erkeklere tuzak kuran escort kızlar
-bkz 30 yaşında erkek seksiliği
-bkz 30 yaşında evi arabası olan erkek
-bkz 10 yıldır 30 yaşında olan erkek
+bkz 30 yaşındayım ama hala 20 gösteriyom diyen erkek
 bkz 30 yaşına gelip hala ailesiyle oturan oç
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz 30 yaşında gelip halal sarayda oturan erkek
 bkz 30 yaşında gelip hala deep webte kız taklidi yapan erkek
