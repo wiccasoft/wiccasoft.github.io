@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/iki-y%C3%BCzl%C3%BC-insanlar/&w=bg bkz wesley sneijder aka amınoğlu
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz sneijderın annesinin am olması
 bkz vallahi amınoğlu sneijderı özledik
 bkz eşcinsellerin ne kafası yaşaması sorunsalı 
