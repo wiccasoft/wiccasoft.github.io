@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz erkek gibi erkek otuzunda erkek
 bkz erkek diyince akla gelen ilk erkek
 bkz 10 yıldır 30 unda olan erkek
 bkz hala 30 um diyen erkek
