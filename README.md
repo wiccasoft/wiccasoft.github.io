@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz kızlara yürüyen magandanın oteli
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
 bkz twitter akp çocukları sayfasının kasması
 https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz sedat pekerin yeğeni
