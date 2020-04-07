@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz pornhubta kızların odalarına girip seks yapan pornocu
 bkz jhonny sinsin konulu filmelerinde kızları aşağılaması
 bkz tweetterda ki seks videolarını retweetleyen sapık
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/ bkz erkek
