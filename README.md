@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz 30 yaşında babişkosuyla yaşayan erkek
 bkz 30 yaşında hala babişkosuna babişko diiyen erkek
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
 bkz 40 yaşında hala ailesiyle yaşayan erkek
