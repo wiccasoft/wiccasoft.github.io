@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
 bkz 30 yaşında tecrübeli ekşici linççi eleman
 bkz 30 yaşında twitter da link arayıp linç atarım diyen erkek
 bkz 30 yaşında hala linç yapmamış erkek
