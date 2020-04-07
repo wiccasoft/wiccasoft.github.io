@@ -4,9 +4,7 @@
 <!-- 
 bkz donald trumpın fakir oğlu
 bkz rupert murdochun fakir oğlu
-bkz mehmet ali şahinin yeğeni
-bkz akp çocukları sayfasının kasması
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular
+https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
 https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz kızlara yürüyen magandanın oteli
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
 bkz twitter akp çocukları sayfasının kasması
