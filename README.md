@@ -3,6 +3,7 @@
 
 <!--
 bkz mağara soğuk mu kızlar
+bkz 7 nisan 2020 ekşci kızların yastık savaşı yapması
 bkz 8 nisan 2020 erkek yazarları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=gd
 bkz 45 cm aralıksız keser sapının  mountourer in entry sini favlaması
