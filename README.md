@@ -4,6 +4,8 @@
 <!-- 
 bkz donald trumpın oğlu
 bkz rupert murdochun oğlu
+https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
+https://eksisozluk.com/ronaldo-luis-nazario-de-lima--333696?a=popular amınoğlu ismini bile özledim amk
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz amınakodumun amın oğlu özleniyosun amk çocuu oç
 https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
 https://eksisozluk.com/ismail-ak--6459847?a=popular bkz akit
