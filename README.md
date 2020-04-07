@@ -1,39 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!--
-bkz uyurken eski tokmakçılarını sayıklayan eşini gülümseyrek seyreden erkek
-bkz uyurken sevda busesi kondurup sevgi dolu bakışlarla eşini seyreden erkek
-bkz sevmeyi bilmeyen kadının yüreğine aşk sokan erkek
-bkz swinger esnasında gülümseyerek eşini seyreden erkek
-bkz swinger esnasında gülümseyerek eşinin elini tutan erkek
-bkz uyurken osuran eşini gülümseyerek seyreden erkek
-bkz millet hizmet beklerken kk nın osura osura uyuması
-https://www.uludagsozluk.com/k/benim-ki-uyumu%C5%9Fmu/
-bkz uyurken eşini seyrederek gülümseyen erkeği seyreden erkek
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz korku filmi
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz boris johnson
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz okan bayülgen
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz rte
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz fatih portakal
-https://www.uludagsozluk.com/k/hayran%C4%B1-ebru-polat%C4%B1n-%C3%A7orab%C4%B1na-25-bin-tl-verdi/
-bkz fatih portakalın aptala anlatır gibi anlatması
-bkz 30 yaşında hala ailesiyle fatih portakal izleyen vasıfsız
-bkz cüneyt özdemir vs maymun götü
-bkz fatih portakal vs maymun  götü vs rte
-bkz 30 yaşında hala forumlarda entry giren erkek
-bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz uyurken eşini seyreden erkek
-https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz özledik be amınoğlu 
-https://www.uludagsozluk.com/k/ku%C5%9Flu-mu%C5%9Flu-tak%C4%B1m-tutan-tipler/ bkz kuş beyinliler
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz uyurken eşini seyreden erkek
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz boris johnson
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz okan bayülgen
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz fatih portakal
-https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz akp çocukları sayfası
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz rte
-https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular -->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
