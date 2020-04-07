@@ -2,9 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz donald trumpın zengin oğlu
-bkz rupert murdochun zengin oğlu
+bkz donald trumpın fakir oğlu
+bkz rupert murdochun fakir oğlu
 bkz mehmet ali şahinin yeğeni
+bkz akp çocukları sayfasının kasması
 https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular
 https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz kızlara yürüyen magandanın oteli
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
