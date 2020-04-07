@@ -8,6 +8,7 @@ bkz emre morun demeden kızlara yürümesi
 bkz 7 nisan 2020 ekşici kızların yastık savaşı yapması
 bkz 8 nisan 2020 erkek yazarları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/en-sevdi%C4%9Fin-k%C3%B6pek-cinsi/
+https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=gd
