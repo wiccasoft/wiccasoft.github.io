@@ -3,7 +3,7 @@
 
 <!--
 bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
-bkz eşcinsellerin ne kafası yaşaması sorunsalı
+bkz eşcinsellerin ne kafası yaşaması sorunsalı len amq özledik be amınoğlu amq
 bkz 45 cm aralıksız keser sapının kızların entry lerini favlaması
 https://www.uludagsozluk.com/k/jordi-el-nino-polla-vs-johnny-sins/ bkz özledik be amınoğlu
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu 
