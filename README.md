@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz 40 yaşında hala ailesiyle yaşayan erkek
 bkz cumburlop maaşı vs fatih portakal maaşı
 https://www.uludagsozluk.com/k/fatih-portakal/ bkz rupert murdoch un köpeği
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz 66 yaşında sarayında yaşayan erkek
