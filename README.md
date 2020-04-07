@@ -3,6 +3,7 @@
 
 <!--
 bkz am mı lan o
+bkz ekşci kızların emcüklerini emüklemiyoruz kampanyası
 bkz amı emiklenenen ekşici kızın polisi çağırması
 bkz amlı kızların emcüklerinü emükleyen sapık
 bkz erkek yazarları şapşikliyoruz kampanyası
