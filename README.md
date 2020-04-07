@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz dünya pandemiyle boğuşurken eşcinsellerin sorunsalları
+bkz eşcinsellerin ne kafası yaşaması sorunsalı
 bkz 45 cm aralıksız keser sapının kızların entry lerini favlaması
 https://www.uludagsozluk.com/k/jordi-el-nino-polla-vs-johnny-sins/ bkz özledik be amınoğlu
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu 
