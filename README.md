@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz 30 yaşımdayım babişkomla yaşarım diyen erkek
+bkz 30 yaşında erkek
 bkz 10 yıldır hala 30 yaşındayım diyen erkek
 bkz 30 yaşında babişkosuyla yaşayan erkek
 bkz 30 yaşında hala babişkosuna babişko diiyen erkek
