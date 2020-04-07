@@ -3,6 +3,7 @@
 
 <!--
 bkz uyurken eşini seyrederek gülümseyen erkeği seyreden erkek
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz korku filmi
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz boris johnson
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz okan bayülgen
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz rte
