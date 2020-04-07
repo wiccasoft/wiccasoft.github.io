@@ -3,6 +3,7 @@
 
 <!-- 
 ay kızlarr sapık dolu ayol twittera girmeyin 
+bkz ekşici kızların emcüklerini emükleyen sapık otelci
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular ay hoşt ulan 
 https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular hırtlar vadisi seyfo dayı -->
 
