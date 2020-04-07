@@ -4,6 +4,7 @@
 <!-- 
 bkz fatih terim vs fatih tezcan
 bkz receğ tayyiğ erdoğan ulus konuşması
+bkz imparator deyince akla gelen ilk isim
 bkz twitterdaki vasıfsız eşcinsel  fanatiklerin ekşiye doluşması
 https://www.uludagsozluk.com/k/aslolan-fenerbahce-dir/&w=bg
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz nerden baksan ağırgerizekalılık
