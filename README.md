@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/anteplilerin-sabah-sabah-nohut-d%C3%BCr%C3%BCm-yemesi/ ay iğrenç sapıklar
 https://eksisozluk.com/entry/104905484 ay icabına bakın bunun ayol
 https://eksisozluk.com/7-nisan-2020-entrylere-gorsel-eklenmesi--6459932?a=popular ay süper kızlar sapıklardan kurtuluruz
 https://www.uludagsozluk.com/k/ev-han%C4%B1m%C4%B1y%C4%B1m-sorular%C4%B1-alay%C4%B1m/ sorular peşin kırmızı meşin
