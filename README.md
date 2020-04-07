@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz fatih portakal vs maymun  götü vs rte
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg
 bkz 30 yaşında hala forumlarda entry giren erkek
 bkz iş başvurusuna 50.000 entry nickaltım yok diyen eleman
 bkz imparatorun kuşları hoplatması
