@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz twitterda denk geldiğim sapıklar sıralı tam liste elbet erkekler shesabını soracaktır ayol
 bkz twitterda seksli videoları retweetleyen maganda elbet bi erkek hesabını soracaktır
 bkz twitter da swingerlı sekis teklif eden sapık elbet bi erkek hesabının görecektir
 bkz kocişkoyu uyuttum soruları alayım
