@@ -3,6 +3,7 @@
 
 <!--
 bkz am mı lan o
+bkz boris johnsonın donuna kamera koyan otelci
 bkz kızların odasına kamera koyan otelci
 bkz boris jonhsonın donunu indirip kaçmak
 bkz jhonny sinsi şikayet eden ekşici
