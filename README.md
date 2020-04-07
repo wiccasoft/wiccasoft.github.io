@@ -2,8 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
-bkz uyurken eski tokmakçılarını sayıklayan eşinin gülümseyrek seyreden erkek
-bkz eşinin eski tokmakçılarının resmine bakarken duygulanan erkek
+bkz uyurken eski tokmakçılarını sayıklayan eşini gülümseyrek seyreden erkek
 bkz uyurken sevda busesi kondurup sevgi dolu bakışlarla eşini seyreden erkek
 bkz sevmeyi bilmeyen kadının yüreğine aşk sokan erkek
 bkz swinger esnasında gülümseyerek eşini seyreden erkek
