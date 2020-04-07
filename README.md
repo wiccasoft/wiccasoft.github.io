@@ -3,6 +3,7 @@
 
 <!--
 bkz paris hiltonu otelde siken genç
+bkz eşcinselleri kimse taciz etmeyince twitterda maganda aramaları
 bkz ekşcicilerin emcüklerini emükleyen otel sahibi maganda
 bkz ay maganda ayol twtitterda  denk geldim emcüğümü emükledi
 bkz eşcinsellerde kurtulmak için ölü taklidi yapmak
