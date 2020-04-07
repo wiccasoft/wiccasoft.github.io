@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz akla erkek geldiği anlar
 bkz dünyada erkek olmasa ne konuşurduk sorunsalı
 bkz erkek diyince akla gelen ilk imge
 bkz erkek gibi erkek otuzunda erkek
