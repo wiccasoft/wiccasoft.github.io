@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg amın sıçtıkları kızlar ben de sizi özledim -->
+<!--
+https://www.uludagsozluk.com/e/43126573/ bkz amınoğlu
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg  bkz amınoğlu  -->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=n6S5a2eOCEI )
 
