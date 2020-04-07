@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz am mı lan o
 bkz erkek yazarları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=bg bk ay sapıklar
 bkz kızların emcüklerini emüklemesinler kampanyası
