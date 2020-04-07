@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/ford-ranger/&w=bg yeni oyuncağım bi de yat alacam bakalım
 https://eksisozluk.com/7-nisan-2020-mercedes-rezaleti--6459588?a=popular ayy yetişin sapıkkkkk mercedes ayol
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular ayy yetişin komşularrrrrr
 https://eksisozluk.com/entry/104905484 ay icabına bakın bunun ayol
