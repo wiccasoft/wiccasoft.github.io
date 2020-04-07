@@ -3,6 +3,7 @@
 
 <!--
 bkz am mı lan o
+bkz boris jonhsonın donunu indirip kaçmak
 bkz jhonny sinsi şikayet eden ekşci
 bkz ekşici kızların emcüklerini emüklemiyoruz kampanyası
 bkz amı emiklenenen ekşici kızın polisi çağırması
