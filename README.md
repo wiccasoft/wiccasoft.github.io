@@ -3,6 +3,7 @@
 
 <!--
 bkz mağara soğuk mu kızlar
+https://www.uludagsozluk.com/k/boris-johnson/ bkz amınoğlu
 https://www.uludagsozluk.com/k/iki-y%C3%BCzl%C3%BC-insanlar/&w=bg bkz amınoğulları
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz amınoğlu
 https://www.uludagsozluk.com/k/en-sevdi%C4%9Fin-k%C3%B6pek-cinsi/ bkz ekşiciler
