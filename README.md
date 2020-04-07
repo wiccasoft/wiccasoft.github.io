@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz sevmeyi bilmeyen kadının yüreğine aşk sokan erkek
 bkz uyurken içim geçmiş diyen eşinin üstünü örtüp alnına öpücük konduran erkek
 bkz swinger esnasında gülümseyerek eşini seyreden erkek
 bkz swinger esnasında gülümseyerek eşinin elini tutan erkek
