@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz 30 yaşında hala babasından izin alan erkek
 bkz 30 yaşında annesisyle babasıyla 7 kardeşiyle yaşayan erkek
 vkz akla erkek gelince akla gelen ikinci erkek
 bkz akıldan erkeklerin çıkmaması
