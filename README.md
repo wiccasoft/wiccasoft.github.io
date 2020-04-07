@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz 30 yaşında twitter da link arayıp linç atarım diyen erkek
 bkz 30 yaşında hala linç yapmamış erkek
 bkz 30 yaşında forum donanım habere resim ekleyen erkek
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BC%C4%9Fe-g%C3%B6rsel-eklemenin-yeni-gelmesi/
