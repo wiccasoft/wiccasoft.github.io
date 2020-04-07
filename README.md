@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz 30 yaşında hala babasının evinde yaşayan erkek
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-ailesiyle-ya%C5%9Fayan-erkek/&w=bg
 bkz 30 yaşında hala babasından izin alan erkek
 bkz 30 yaşında annesisyle babasıyla 7 kardeşiyle yaşayan erkek
 vkz akla erkek gelince akla gelen ikinci erkek
