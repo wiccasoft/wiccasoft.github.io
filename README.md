@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/forum-donan%C4%B1m-%C3%B6l%C3%BCc%C3%BCleri/&w=bg özledim be amınoğlu
+https://www.uludagsozluk.com/k/fatih-portakal/&w=gd kokunu özledim be amınoğlu
 https://eksisozluk.com/okan-bayulgen--34936?a=popular hasretim oldun be amınoğlu
 https://eksisozluk.com/ahmet-saltik--450205?a=popular bkz satılık ak it
 https://eksisozluk.com/cuneyt-ozdemirin-tek-korkusuz-gazeteci-olmasi--6459289?a=popular bkz özleniyosun be amınoğlu
