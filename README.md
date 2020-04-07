@@ -3,6 +3,7 @@
 
 <!--
 bkz paris hiltonu otelde siken genç
+https://www.uludagsozluk.com/k/erkeklerin-bir-araya-gelince-konu%C5%9Ftu%C4%9Fu-konular/&w=bg bkz ibneler
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular bkz hassiktir lan ibne
 bkz eşcinselleri kimse taciz etmeyince twitterda maganda aramaları
 bkz ekşcicilerin emcüklerini emükleyen otel sahibi maganda
