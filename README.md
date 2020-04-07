@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://eksisozluk.com/mehmet-ali-sahinin-asiri-zengin-yegeni--6459934?a=popular bkz oç yeğen
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg şimdiden özledim amınoğlu
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg özleniyosun be amınoğlu iyileş dön aramıza
 https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular
 https://eksisozluk.com/kiz-ogrencilerin-odasini-basan-otel-sahibi--6459808?a=popular 
