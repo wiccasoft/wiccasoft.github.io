@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz ruper murdochun zengin yeğeni 
+bkz donald trumpın zengin oğlu
+bkz rupert murdochun zengin oğlu
 https://eksisozluk.com/semt-luna-beach-hotel--6459819?a=popular bkz kızlara yürüyen magandanın oteli
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz özleniyosun amınoğlu
 bkz twitter akp çocukları sayfasının kasması
