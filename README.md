@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-oturun-dua-edin-demesi/
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz imralı canisi aka bebe katili
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eve kolonya gönderen ulu önder
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/ kolonya göndermesi
+https://www.uludagsozluk.com/k/%C3%A7ocuk-emziren-k%C4%B1z%C4%B1n-gel-di%C4%9Ferini-de-sen-em-demesi/&w=bg lol
 -->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
