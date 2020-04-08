@@ -3,7 +3,9 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz imralı canisi aka bebe katili
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eve kolonya gönderen ulu önder -->
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eve kolonya gönderen ulu önder
+https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/ kolonya göndermesi
+-->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
