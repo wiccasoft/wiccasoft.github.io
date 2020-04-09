@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekrem imamaoğlu
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=gd bkz elon muskın opposite karakteri
 bkz adamı madam yaparız madam
 bkz 9 nisan 2020 devletlerin bitmesi
 https://www.uludagsozluk.com/k/siyah-giyinen-marjinal-adam/ bi hoşgeldin alırım
