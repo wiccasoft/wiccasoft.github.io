@@ -4,6 +4,7 @@
 <!--
 bkz otomatik portakal
 bkz sagopa kajmer avmli klibi
+bkz polat alemdar vs duran emmi
 bkz suudi kraliyet ailesininin ivankayı istemesi
 bkz killa hakanın sagopaya diss çekmesi
 bkz arkadaşım eşek diye şarkı yapıp sanatçı olmak
