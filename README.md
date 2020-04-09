@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
 bkz ablan galataylı bebeğim
 bkz kerimcan durmazı ümrecilere tükürmesi
 https://www.pinterest.com/wiccasoft/  bkz kerimcan durmazın kobrayı salması
