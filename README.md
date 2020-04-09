@@ -27,6 +27,7 @@ https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz imralı canisi aka
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eve kolonya gönderen ulu önder
 https://www.uludagsozluk.com/k/tayyibi-dünya-lideri-yapan-en-önemli-özelliği/ kolonya göndermesi
 https://www.uludagsozluk.com/k/%C3%A7ocuk-emziren-k%C4%B1z%C4%B1n-gel-di%C4%9Ferini-de-sen-em-demesi/&w=bg lol
+https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 -->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
