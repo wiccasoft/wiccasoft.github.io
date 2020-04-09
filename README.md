@@ -5,7 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
-bkz tengir budunun tayyipi cimere şikayet etmesi
+bkz tengir budunun dünya liderini cimere şikayet etmesi
 bkz berfin özekin şikayet etmeyecem artık sözü vermesi
 bkz berfin özekin şikayetvar.com dan şikayetini geri çekmesi
 https://www.uludagsozluk.com/k/10-milyon-%C3%BCyesi-olup-4-milyon-sms-almak/
