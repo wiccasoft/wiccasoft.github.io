@@ -3,7 +3,7 @@
 
 <!-- 
 bkz ekrem imamaoğlu
-https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg kusturmalı boşnak saksocusu
+bkz kusturmalı boşnak saksocusu
 bkz kuzey adanolu fay hattını kırmak
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-o%C5%9Ft-ulan-k%C3%BCpek-demesi/ oşt ulan küpek
 bkz millet hizmet beklerken kk nın osura osura uyuması
