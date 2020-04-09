@@ -4,6 +4,7 @@
 <!--
 bkz allah nerdedir bildin 
 bkz kürtlerin soru eki kullanmaması
+bkz kerican durmazın açılın kızlar salıyom kobrayı demesi
 https://www.uludagsozluk.com/k/stv-nin-porno-film-yay%C4%B1nlamas%C4%B1/&w=bg bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/allah-nerededir/&w=bg bkz annenin amcığında oç
 bkz ablan galataylı bebeğim
