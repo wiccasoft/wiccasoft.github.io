@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz kürtlerin soru eki kullanmaması
 https://www.uludagsozluk.com/k/allah-nerededir/&w=bg bkz yatağın altında
 bkz ablan galataylı bebeğim
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
