@@ -4,6 +4,7 @@
 <!--
 bkz otomatik portakal
 bkz ışıdı cimere şikayet etmek
+bkz mustaf kamal atacüc vs mustafa suphi
 bkz polat alemdar vs testere necmi
 bkz sedat peker vs thomas shelby
 bkz mustaf kamal atacücü vs polat alemdar
