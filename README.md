@@ -6,6 +6,7 @@
 
 <!--
 bkz erkeklerin bbiraz şey olması
+bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ay ne bilim biraz şey
 https://www.uludagsozluk.com/k/cari-a%C3%A7%C4%B1%C4%9F%C4%B1-bitirecek-ke%C5%9Fifler/ para basmak 
 https://www.uludagsozluk.com/k/korsan-berber/ bkz korsan berber sürtmesi
