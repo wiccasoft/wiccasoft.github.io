@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz fatih portakal vs maymun götü
 bkz damadın khk hakkında kyk müjdesi
 bkz hakem hataları yüzünden trabzonsporu suçlamak
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
