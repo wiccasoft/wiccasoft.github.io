@@ -4,12 +4,12 @@
 <!-- 
 bkz en kolayı sona saklamak
 bkz astronomi + tıp gerisi çöp
-bkz elon muskı dinlemeyen insanoğlunun hazin sonu
 bkz haber botu varken twitter kullanmak
 bkz iki senede 20.000 satır kod yazmak 
 bkz 2000 satır kodla gökyüzünü simüle etmek
 bkz kod ne kadar az olursa o kadar iyidir evlat
 bkz 1000000 satır kodun yaptığı işi 20.000 satır kodla yaptırmak
+bkz elon muskı dinlemeyen insanoğlunun hazin sonu
 bkz avukatların yaptığı işi yapan yapay zekayı sona saklamam
 bkz işe başvuran elemanın 30 yaşındayım 30.000 entry nickaltım temiz demesi
 https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
