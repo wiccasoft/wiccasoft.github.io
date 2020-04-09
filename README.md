@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 bkz seyfo dayı duran emmi aşkı sır mıydı sorundalı
 bkz duran emmi polatı hoplattı mı sorundalı
 bkz mafya dizilerindeki 80 iqlu mafya karakterlere aşık olan ergenler
