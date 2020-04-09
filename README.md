@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kk
 bkz millet hizmet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/chp-li-belediyelerin-har%C4%B1l-har%C4%B1l-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/antrikot-ekrem/&w=bg bkz ekremin zall ona hep top dere küsmesi
