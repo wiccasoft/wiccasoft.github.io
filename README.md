@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/stefan-zweig/&w=bg bkz nekrofili
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/fuat-ergin-e-sana-puan%C4%B1m-0-kanka-demek/ bkz şaka maka göte parmak yemek
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ thomas siker atar kankağ
