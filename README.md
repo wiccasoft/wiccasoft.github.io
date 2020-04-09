@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz fahrettin koca vs fahremettin karı
 bkz fatih portakaloğlu vs maymun götü
 bkz kadir mısıroğlu vs maymun götü
 bkz cahit zarifoğlu vs ekrem kabaoğlu
