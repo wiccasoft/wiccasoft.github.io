@@ -3,6 +3,8 @@
 
 <!--
 bkz otomatik portakal
+bkz berfin özekin şikayetiniz var comu şikayet etmesi
+https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/
 bkz yumurta kırmayı bilmeyen kızın kafa kırmıyom racon kırıyom demesi
 bkz polat alemdarın suudi kraliyet sarayını basıp kafa kesmesi
 bkz polat alemdar efso kafa kesme sahnesi
