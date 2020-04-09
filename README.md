@@ -4,65 +4,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
-<!--
-bkz tengir budun doğan vs mersinli cihangir
-bkz tengir budunun dünya liderini cimere şikayet etmesi
-bkz berfin özekin şikayet etmeyecem artık sözü vermesi
-bkz berfin özekin şikayetvar.com dan şikayetini geri çekmesi
-https://www.uludagsozluk.com/k/10-milyon-%C3%BCyesi-olup-4-milyon-sms-almak/
-https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=gd wohoooooooooooo
-https://eksisozluk.com/berfin-ozekin-asitli-saldirganini-affetmesi--6464000?a=popular wohooooooooooooooo
-bkz sene 2020 hilafet nerde oronvuz sıçmıkları
-https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
-https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/ wohooooooooooo
-bkz berfin özekin şikayeti geri çekmesi
-bkz erkeklerin biraz şey olması
-bkz süleyman soylu isimli erkeklerdeki hayvani cazibe
-bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
-bkz berk isimli erkeklerdeki hayvani çekicilik
-bkz iibf bitirip deep webte başlık açmak
-bkz berfin özbeki şikayervarcomda şikayeti geri çekmesi
-https://eksisozluk.com/berfin-ozekin-asitli-saldirganini-affetmesi--6464000?a=popular wohoooooooooooooo
-https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/ wohoooooooo
-https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/ zuahhahah süper espri evet
-https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/
-https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamay%C4%B1p-tekrar-haz%C4%B1rlanan-tipler/
-https://www.uludagsozluk.com/k/haydarberk-bebek/ bkz haydarberk isimli erkeklerin biraz şey olması
-https://www.uludagsozluk.com/k/berk-isimlilerin-%C5%9F%C4%B1mar%C4%B1k-ve-ukala-olmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ay ne bilim biraz şey
-https://www.uludagsozluk.com/k/cari-a%C3%A7%C4%B1%C4%9F%C4%B1-bitirecek-ke%C5%9Fifler/ para basmak 
-https://www.uludagsozluk.com/k/korsan-berber/ bkz korsan berber sürtmesi
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz mafya erkek seksiliği
-bkz ibbnin işpark ihalesini polat alemdar vermesi
-https://www.uludagsozluk.com/k/ibb-nin-1851-ara%C3%A7-i%C3%A7in-ihale-yapmas%C4%B1/
-https://www.uludagsozluk.com/k/survivor-2020-cemal-can/ bkz ay yok ayol olmaz bundan
-bkz sagopa kajmerin dediği gibi
-https://www.uludagsozluk.com/k/survivor-2020-cemal-can/ bkz ay yok ayol bu da sikemez
-bkz ablan sagocu bebeğim
-bkz ablan hilafet istiyor bebeğim
-bkz sene 2020 oldu hilafet nerde oronzbu sıçmıkları
-bkz millet hizmet beklerken kk nın osura osura uyuması
-bkz kıvanç isimli erkeklerin biraz şey olması
-https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
-https://www.uludagsozluk.com/k/en-son-kime-neden-s%C3%B6vd%C3%BCn%C3%BCz/&w=gd bkz oronzbu sıçmıkları
-https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ bkz adanalı
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz adam soylu beyler
-https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
-https://www.uludagsozluk.com/k/en-son-kime-neden-s%C3%B6vd%C3%BCn%C3%BCz/ bkz ablan galatalı bebeğim
-https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/
-https://www.uludagsozluk.com/k/bir-pesimistin-g%C3%B6zya%C5%9Flar%C4%B1-alb%C3%BCm%C3%BCn%C3%BC-herg%C3%BCn-dinlemek/
-https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz ablan iç işleri bakanı bebeğim
-https://www.youtube.com/watch?v=zlGi6dzjGRQ
-bkz sagopa kajmerin de dediği gibi
-https://www.uludagsozluk.com/k/kerimcan-durmaz/ ohhh biraz da şurama küfr et
-bkz kerimcan durmazın paylaştığı kobra
-https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz ablan galatalı bebeğim
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
-https://www.uludagsozluk.com/k/kerimcan-durmaz/ bkz açın kızlar arayı salıyom kobrayı
-https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg 
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
