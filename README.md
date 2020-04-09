@@ -4,6 +4,7 @@
 <!-- 
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
+bkz 9 nisan 2020 devletlerin bitmesi
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
 https://www.uludagsozluk.com/k/kyk-kredisini-yiyip-kocas%C4%B1na-%C3%B6deten-k%C4%B1z/&w=bg bkz kyk ne lan
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-14-yeni-ara%C3%A7-kiralama-m%C3%BCjdesi/
