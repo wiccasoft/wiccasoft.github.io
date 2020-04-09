@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz ezan iyi duyulmuyo diyen kadına daha napak diyen diyanet çalıştayı
 bkz diyanet ezan çalıştayının harıl harıl çalışması
 bkz suudi kraliyet ailesinin trumptan ivankayı istemesi
 bkz kaldırım işleri müdürlüğünün skandal tweeti
