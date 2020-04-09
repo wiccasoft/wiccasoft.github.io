@@ -4,6 +4,7 @@
 <!-- 
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
+https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg vurduruyodur
 https://www.uludagsozluk.com/k/lol-%C3%BC-g%C3%BClme-eylemi-sanan-erkek/&w=bg bkz lol atan ergenler
 https://www.uludagsozluk.com/k/honduras-ta-s%C4%B1radan-bir-g%C3%BCn/
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
