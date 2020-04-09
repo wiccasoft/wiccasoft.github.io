@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz fatih portakal haber yütüp sayfası
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz rteye kayarmatör 
 bkz sopapa kajmer islamcı avm rapin kralıdır
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
