@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz millet hizmet beklerkn kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/evde-%C3%A7orap-giyen-insanlar/&w=bg lol
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-oturun-dua-edin-demesi/&w=gd
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz imralı canisi aka bebe katili
