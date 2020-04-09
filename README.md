@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz kaldırım işleri müdürlüğünün skandal tweeti
 bkz devlet büzü bokmir diyen kadına la git yazan sosyal hizmet görevlisi
 bkz tek tokatlık canı kalmış ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/bedava-maa%C5%9F-alan-%C3%B6%C4%9Fretmnleri-tokat-ya%C4%9Fmuruna-tutmk/
