@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu mesih isa
 https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu
 bkz hani bu kış  hilafet geliyodu orospu çocukları
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19 yaşasın kamalızm
