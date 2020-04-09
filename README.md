@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekrem imamaoğlu
+bkz iibf mezunuyum diyip adamım diyye gezen gavatlar
 bkz en kolayı sona saklamak
 bkz astronomi + tıp gerisi çöp
 bkz haber botu varken twitter kullanmak
