@@ -14,6 +14,7 @@ bkz avukatların yaptığı işi yapan yapay zekayı sona saklamam
 bkz işe başvuran elemanın 30 yaşındayım 30.000 entry nickaltım temiz demesi
 https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
 https://eksisozluk.com/31-yasina-gelip-yuva-kurmayi-basaramamis-insan--6462725?a=popular bkz ezik
+https://www.uludagsozluk.com/k/sevgilisini-arabayla-alan-erkek-%C3%A7ekicili%C4%9Fi/&w=bg atla kız avmye götürem seni
 https://www.uludagsozluk.com/k/herkesin-sevgilisinin-olmas%C4%B1/&w=gd ekşicilerin bilmediği gerçek
 https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz ince gör marrem
 bkz millet hizmet beklerkn kk nın osura osura uyuması
