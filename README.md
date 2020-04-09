@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz fatih portakalın rte ye boru gibi döşemesi
 bkz ceza ile sagopayı barıştırıyoruz kampanyası
 bkz sagopa kajmerin ceza ya diss atması
 https://www.uludagsozluk.com/k/ceza-vs-sagopa-kajmer/&w=bg
