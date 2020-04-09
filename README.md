@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz sagopa kajmer geçenlerde şarkışı
 bkz fatih portakal haber yütüp sayfası
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz rteye kayarmatör 
 bkz sopapa kajmer islamcı avm rapin kralıdır
