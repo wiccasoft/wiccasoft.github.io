@@ -3,6 +3,7 @@
 
 <!-- 
 bkz hani lan hilafet orozpu çocukları
+bkz hilafetim bana yeter diyip sarayda lahmacun partisi yapmak
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 bkz hani hilafet geliyodu oç ları
 bkz kemaliklere kemik atıp kuçu kuçu yapmask
