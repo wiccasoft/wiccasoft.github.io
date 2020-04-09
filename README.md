@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz fatih portakalın anlamadıysan bi daha anlatim pozu
 bkz fatih portakalım otomatik portakal hediyesini alması
 bkz fatih portakal haber yütüp sayfası
