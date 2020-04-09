@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/bir-hastane-yolunu-bile-yapamayan-b%C3%BCy%C3%BCk-ba%C5%9Fkan/ bkz imamaoğlan
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 bkz seyfo dayı duran emmi aşkı sır mıydı sorundalı
 bkz duran emmi polatı hoplattı mı sorundalı
