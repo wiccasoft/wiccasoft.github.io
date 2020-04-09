@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 bkz sagopa kajmer vs küçük emrah
 https://www.uludagsozluk.com/k/kerimcan-durmaz/ bkz açın kızlar arayı salıyom kobrayı
 bkz sagopa kajmer türkiyenin fifti sentidir
