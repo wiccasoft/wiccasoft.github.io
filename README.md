@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz bunların hepsi kuranda yazıyo zaten
+https://www.uludagsozluk.com/k/kuran-da-din-adam%C4%B1-diye-bir-kavram-olmamas%C4%B1/
 bkz hani lan hilafet orozpu çocukları
 bkz hilafetim bana yeter diyip sarayda lahmacun partisi yapmak
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
