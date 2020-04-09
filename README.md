@@ -5,6 +5,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ay ne bilim biraz şey
+https://www.uludagsozluk.com/k/cari-a%C3%A7%C4%B1%C4%9F%C4%B1-bitirecek-ke%C5%9Fifler/ para basmak 
 https://www.uludagsozluk.com/k/korsan-berber/ bkz korsan berber sürtmesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz mafya erkek seksiliği
 bkz ibbnin işpark ihalesini polat alemdar vermesi
