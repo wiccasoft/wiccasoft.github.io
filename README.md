@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkxz kürtleri kudurtan
 https://www.uludagsozluk.com/k/turgut-uyar/&w=bg bkz nekrofili
 https://www.uludagsozluk.com/k/stefan-zweig/&w=bg bkz nekrofili
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
