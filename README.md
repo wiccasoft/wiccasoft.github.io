@@ -15,6 +15,7 @@ bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 bkz berk isimli erkeklerdeki hayvani çekicilik
 bkz iibf bitirip deep webte başlık açmak
 bkz berfin özbeki şikayervarcomda şikayeti geri çekmesi
+https://eksisozluk.com/berfin-ozekin-asitli-saldirganini-affetmesi--6464000?a=popular wohoooooooooooooo
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/ wohoooooooo
 https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/ zuahhahah süper espri evet
 https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/
