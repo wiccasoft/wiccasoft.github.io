@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz 2150 de kova burcu bi peygmber zühur edeceği gerçeği
 https://en.wikipedia.org/wiki/Age_of_Pisces
 The age of Pisces began c. 1 AD and will end c. 2150 AD. With the story of the birth of Christ coinciding with this date
 bkz isanın balık burcunda musa nın boğa brucunda yeryüzüne zühur eylemesi
