@@ -4,9 +4,7 @@
 <!--
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
-bkz sagopa kajmer vs küçük emrah
 https://www.uludagsozluk.com/k/kerimcan-durmaz/ bkz açın kızlar arayı salıyom kobrayı
-bkz sagopa kajmer türkiyenin fifti sentidir
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg 
 -->
 
