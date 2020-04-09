@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz lol oynarken gaza gelen veledi zina
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz mongol türkleri şişiren cüce
 https://www.uludagsozluk.com/k/cemal-s%C3%BCreya/&w=bg bkz cuckold
 https://www.uludagsozluk.com/k/unutulmaz-dizi-sahneleri/&w=bg efso hırtlar vadisi sahneleri
