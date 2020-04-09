@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz iki senede 20.000 satır kod yazmak
 bkz işe başvuran elemanın 30 yaşındayım 30.000 entry nickaltım temiz demesi
 https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
 https://eksisozluk.com/31-yasina-gelip-yuva-kurmayi-basaramamis-insan--6462725?a=popular bkz ezik
