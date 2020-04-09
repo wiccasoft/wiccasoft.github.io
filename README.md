@@ -4,7 +4,7 @@
 <!-- 
 bkz sagopa kajmerin ceza ya diss atması
 https://www.uludagsozluk.com/k/ceza-vs-sagopa-kajmer/&w=bg
-bkz celal şngörü kuzey adanolu fay hattı kırılabilir uyarısı
+bkz celal şengörün kuzey adanolu fay hattı kırılabilir uyarısı
 bkz mustafa kemal atacücü vs mustafa kemal atabübü
 bkz mustafa kemal atatürkün türk miileti zekidir lafı
 bkz fatih portaklaın aptala anlatır gibi haber anlatması
