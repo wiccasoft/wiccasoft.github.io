@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz ruperty murdoch vs fatih portakal
 bkz mustafa kema atacücünün ismet inöcü gölgesinde kalması
 bkz ceza sagopa lajmer kavgasının asıl sebebi
 bkz fatih portakalın rte ye boru gibi döşemesi
