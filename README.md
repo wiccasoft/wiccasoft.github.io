@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
 bkz 9 nisan 2020 fatih portakalın rte ye döşeyeceği borular
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz rte ye kayarmatör
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz birinci recep tayyip erdoğan
