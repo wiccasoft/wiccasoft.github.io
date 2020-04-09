@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz ince gör marrem
 https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
 bkz millet hizmet beklerkn kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/evde-%C3%A7orap-giyen-insanlar/&w=bg lol
