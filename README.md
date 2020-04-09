@@ -6,6 +6,7 @@ bkz otomatik portakal
 bkz damadın khk hakkında kyk müjdesi
 bkz hakem hataları yüzünden trabzonsporu suçlamak
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
+bkz sopa kajmerinde islamı rap kliplerinde dediği gibi
 https://www.uludagsozluk.com/k/t%C3%BCrk-k%C3%BCrt-karde%C5%9Ftir/&w=bg
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-dan-menderes-e-yalvaran-mektuplar/&w=bg
 https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/ bkz trabzonu kıskanan takım
