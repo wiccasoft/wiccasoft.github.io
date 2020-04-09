@@ -5,7 +5,7 @@
 bkz otomatik portakal
 bkz fesli maymun vs polat alemdar
 bkz ışıdı cimere şikayet etmek
-bkz mustaf kamal atacüc vs mustafa suphi
+bkz mustaf kamal atacüc vs mustafa suphi cücü
 bkz polat alemdar vs testere necmi
 bkz sedat peker vs thomas shelby
 bkz mustaf kamal atacücü vs polat alemdar
