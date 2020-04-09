@@ -3,12 +3,12 @@
 
 <!-- 
 bkz en kolayı sona saklamak
-bkz avukatların yaptığı işi yapan yapa zekayı sona saklamam
 bkz astronomi + tıp gerisi çöp
 bkz iki senede 20.000 satır kod yazmak 
 bkz 2000 satır kodla gökyüzünü simüle etmek
 bkz kod ne kadar az olursa o kadar iyidir evlat
 bkz 1000000 satır kodun yaptığı işi 20.000 satır kodla yaptırmak
+bkz avukatların yaptığı işi yapan yapa zekayı sona saklamam
 bkz işe başvuran elemanın 30 yaşındayım 30.000 entry nickaltım temiz demesi
 https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
 https://eksisozluk.com/31-yasina-gelip-yuva-kurmayi-basaramamis-insan--6462725?a=popular bkz ezik
