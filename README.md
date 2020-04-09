@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz rte fetöyü affetim dese olacaklar
+https://www.uludagsozluk.com/k/feto-t%C3%BCrkiyede-yarg%C4%B1lansa-olacaklar/&w=bg
 https://www.uludagsozluk.com/k/nurcular/&w=bg bkz ahmet özal
 bkz fahrettin koca vs fahremettin karı
 bkz fatih portakaloğlu vs maymun götü
