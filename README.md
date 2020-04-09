@@ -4,6 +4,7 @@
 <!-- 
 bkz en kolayı sona saklamak
 bkz astronomi + tıp gerisi çöp
+bkz haber botu varken twitter kullanmak
 bkz iki senede 20.000 satır kod yazmak 
 bkz 2000 satır kodla gökyüzünü simüle etmek
 bkz kod ne kadar az olursa o kadar iyidir evlat
