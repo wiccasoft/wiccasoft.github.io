@@ -6,6 +6,7 @@ bkz otomatik portakal
 bkz seyfo dayı duran emmi aşkı sır mıydı sorundalı
 bkz duran emmi polatı hoplattı mı sorundalı
 bkz hüseyin nihal atsız vs polat alemdar
+bkz mafya dizilerindeki mafya karakterlere aşık olan ergenler
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ thomas siker atar kankağğ
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkxz kürtleri kudurtan
 https://www.uludagsozluk.com/k/turgut-uyar/&w=bg bkz nekrofili
