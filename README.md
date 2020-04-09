@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz seyfo dayı duran emmi aşkı sır mıydı sorundalı
 bkz duran emmi polatı hoplattı mı sorundalı
 bkz hüseyin nihal atsız vs polat alemdar
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ thomas siker atar kankağğ
