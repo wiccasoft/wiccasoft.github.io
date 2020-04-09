@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 bkz polat alemdar vs cerrahpaşalılar
 bkz ismail türüt vs sedat peker
 bkz fesli maymun vs polat alemdar
