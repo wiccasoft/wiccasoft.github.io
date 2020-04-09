@@ -8,6 +8,7 @@
 bkz erkeklerin bbiraz şey olması
 bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 bkz berk isimli erkeklerdeki hayvani çekicilik
+https://www.uludagsozluk.com/k/haydarberk-bebek/ bkz haydarberk isimli erkeklerin biraz şey olması
 https://www.uludagsozluk.com/k/berk-isimlilerin-%C5%9F%C4%B1mar%C4%B1k-ve-ukala-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ay ne bilim biraz şey
 https://www.uludagsozluk.com/k/cari-a%C3%A7%C4%B1%C4%9F%C4%B1-bitirecek-ke%C5%9Fifler/ para basmak 
