@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz aptal türkleri şişiren cüce
 https://www.uludagsozluk.com/k/cemal-s%C3%BCreya/&w=bg bkz cuckold
 https://www.uludagsozluk.com/k/unutulmaz-dizi-sahneleri/&w=bg efso hırtlar vadisi sahneleri
 https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yazık la kimin velediyse
