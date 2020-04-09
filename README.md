@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz sene 2020 hani hilafet orozbunun sıçtıkları
+bkz sene 2020 hani hilafet oronzbunun sıçtıkları
 https://www.uludagsozluk.com/k/kemalist-ahlaks%C4%B1zl%C4%B1%C4%9F%C4%B1/&w=bg
 bkz her kış hilafet geliyo diye kafa ziekn kamalcılar
 bkz hilafet geliyodu hani oçları
