@@ -4,7 +4,7 @@
 <!--
 bkz otomatik portakal
 bkz damadın khk hakkında kyk müjdesi
-https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/ bkz pepenin yaptığı hareket
+https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/ bkz trabzonu kıskanan takım
 https://www.uludagsozluk.com/k/asr%C4%B1n-liderimizin-dev-projesi/ bkz asrın kanal procesi
 https://www.uludagsozluk.com/k/kyk-bor%C3%A7lar%C4%B1na-indirim-ve-erteleme/
 https://www.uludagsozluk.com/k/bernie-sanders/&w=bg bkz amerikanın kk sı
