@@ -3,6 +3,7 @@
 
 <!-- 
 bkz iki senede 20.000 satır kod yazmak 
+bkz 2000 satır kodla gökyüzünü simüle etmek
 bkz kod ne kadar az olursa o kadar iyidir evlat
 bkz 1000000 satır kodun yaptığı işi 20.000 satır kodla yaptırmak
 bkz işe başvuran elemanın 30 yaşındayım 30.000 entry nickaltım temiz demesi
