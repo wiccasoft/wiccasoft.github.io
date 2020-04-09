@@ -5,6 +5,8 @@
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
 bkz 9 nisan 2020 devletlerin bitmesi
+bkz müjde müjde sizee parizyen den müjde sizeeeeeeeeeeeee
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-14-yeni-ara%C3%A7-kiralama-m%C3%BCjdesi/
 bkz her şeyi bırakıp güneye yerleşip 13 dönüm araziye 13 + 1 ev yaptırmak
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
 https://www.uludagsozluk.com/k/biz-bize-yeteriz-deyip-14-yeni-ara%C3%A7-kiralamak/ bkz 13 +1 
