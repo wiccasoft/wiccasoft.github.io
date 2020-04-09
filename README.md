@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/cuckold/&w=bg bkz erkem imamoğlan
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kk
 bkz millet hizmet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/sikerim-b%C3%B6yle-hayat%C4%B1-deyip-pangolin-ci%C4%9Feri-yemek/
