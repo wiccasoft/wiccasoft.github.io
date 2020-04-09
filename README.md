@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://en.wikipedia.org/wiki/Age_of_Pisces
 bkz isanın balık burcunda musa nın boğa brucunda yeryüzüne zühur eylemesi
 https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu mesih isa
 https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu
