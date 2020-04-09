@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz fesli maymun vs polat alemdar
 bkz ışıdı cimere şikayet etmek
 bkz mustaf kamal atacüc vs mustafa suphi
 bkz polat alemdar vs testere necmi
