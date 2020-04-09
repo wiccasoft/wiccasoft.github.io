@@ -5,6 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz tengir budun doğan vs mersinli cihangir
 bkz tengir budunun dünya liderini cimere şikayet etmesi
 bkz berfin özekin şikayet etmeyecem artık sözü vermesi
 bkz berfin özekin şikayetvar.com dan şikayetini geri çekmesi
