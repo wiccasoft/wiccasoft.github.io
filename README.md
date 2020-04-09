@@ -4,6 +4,7 @@
 <!-- 
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
+https://www.uludagsozluk.com/k/honduras-ta-s%C4%B1radan-bir-g%C3%BCn/
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 bkz iibf mezunuyum diyip adamım diye gezen gavatlar
 bkz en kolayı sona saklamak
