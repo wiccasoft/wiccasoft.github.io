@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/unutulmaz-dizi-sahneleri/&w=bg bkz kafa kesmim racon kesim sahnesi
 bkz ezan iyi duyulmuyo diyen kadına daha napak diyen diyanet çalıştayı
 bkz diyanet ezan çalıştayının harıl harıl çalışması
 bkz suudi kraliyet ailesinin trumptan ivankayı istemesi
