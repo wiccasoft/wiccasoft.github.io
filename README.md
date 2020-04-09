@@ -3,6 +3,8 @@
 
 <!-- https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg adam top beyler
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
+https://www.uludagsozluk.com/k/1997-do%C4%9Fumlu-bir-insan%C4%B1-cumhuriyet-savc%C4%B1s%C4%B1-yapmak/&w=bg 
+bkz savcı sayanın racon kesmiyom pozu
 -->
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
