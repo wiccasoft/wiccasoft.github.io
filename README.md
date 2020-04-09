@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz her kış hilafet geliyo diye kafa ziekn kamalcılar
 bkz hilafet geliyodu hani oçları
 bkz bunların hepsi kuranda yazıyo zaten
 bkz kamalın damarlarınızdaki asil kanda mevcuttur lafı
