@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz polat alemdarın suudi kraliyet sarayını basıp kafa kesmesi
 bkz polat alemdar efso kafa kesme sahnesi
 https://www.uludagsozluk.com/k/unutulmaz-dizi-sahneleri/&w=bg bkz kafa kesmim racon kesim sahnesi
 bkz ezan iyi duyulmuyo diyen kadına daha napak diyen diyanet çalıştayı
