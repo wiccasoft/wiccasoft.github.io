@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/antrikot-ekrem/&w=bg bkz ekremin zall ona hep top dere küsmesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/bugun/ bkz hayallerde yaşıyor bazı ibneler
 bkz hayali mafya dizi karakterleriyle aşk yaşayan ergenlerin güldürmesi
