@@ -4,6 +4,7 @@
 <!-- 
 bkz hani lan hilafet orozpu çocukları
 bkz hilafetim bana yeter diyip sarayda lahmacun partisi yapmak
+bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 bkz hani hilafet geliyodu oç ları
 bkz kemaliklere kemik atıp kuçu kuçu yapmask
