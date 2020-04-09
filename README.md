@@ -5,12 +5,12 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
-https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/ zuahhahah süper espri evet
-bkz erkeklerin bbiraz şey olması
+bkz erkeklerin biraz şey olması
 bkz süleyman soylu isimli erkeklerdeki hayvani cazibe
 bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 bkz berk isimli erkeklerdeki hayvani çekicilik
 bkz iibf bitirip deep webte başlık açmak
+https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/ zuahhahah süper espri evet
 https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/
 https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamay%C4%B1p-tekrar-haz%C4%B1rlanan-tipler/
 https://www.uludagsozluk.com/k/haydarberk-bebek/ bkz haydarberk isimli erkeklerin biraz şey olması
