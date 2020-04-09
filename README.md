@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu
+bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19 yaşasın kamalızm
 https://www.uludagsozluk.com/k/en-%C3%BCst%C3%BCn-%C4%B1rk-t%C3%BCrk-en-%C3%BCst%C3%BCn-t%C3%BCrk-atat%C3%BCrk/&w=bg
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd 
 bkz hz isanın yeryüzünü zühur eylemesi
