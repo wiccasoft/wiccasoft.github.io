@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekrem imamaoğlu
+bkz adamı madam yaparız madam
 bkz iibf mezunuyum diyip adamım diye gezen gavatlar
 bkz en kolayı sona saklamak
 bkz astronomi + tıp gerisi çöp
