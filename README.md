@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekrem imamaoğlu
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-o%C5%9Ft-ulan-k%C3%BCpek-demesi/ oşt ulan küpek
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz celal şengörü oya şengörü aldattığı iddaları
 https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz 31 ci ergenlerin filozofu
