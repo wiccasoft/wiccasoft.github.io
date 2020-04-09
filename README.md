@@ -5,6 +5,7 @@
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
 bkz 9 nisan 2020 devletlerin bitmesi
+bkz her şeyi bırakıp güneye yerleşip 13 + 1 ev yaptırmak
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
 https://www.uludagsozluk.com/k/biz-bize-yeteriz-deyip-14-yeni-ara%C3%A7-kiralamak/ bkz 13 +1 
 https://www.uludagsozluk.com/k/kyk-kredisini-yiyip-kocas%C4%B1na-%C3%B6deten-k%C4%B1z/&w=bg bkz kyk ne lan
