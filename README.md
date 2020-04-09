@@ -5,6 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz mafya erkek seksiliği
 bkz ibbnin işpark ihalesini polat alemdar vermesi
 https://www.uludagsozluk.com/k/ibb-nin-1851-ara%C3%A7-i%C3%A7in-ihale-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/survivor-2020-cemal-can/ bkz ay yok ayol olmaz bundan
