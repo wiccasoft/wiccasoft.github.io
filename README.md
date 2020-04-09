@@ -4,6 +4,8 @@
 <!-- 
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
+bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-14-yeni-ara%C3%A7-kiralama-m%C3%BCjdesi/
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/&w=bg bkz muahmmedin ayı ikiye yarması
 https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg vurduruyodur
 https://www.uludagsozluk.com/k/lol-%C3%BC-g%C3%BClme-eylemi-sanan-erkek/&w=bg bkz lol atan ergenler
