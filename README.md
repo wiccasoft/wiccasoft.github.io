@@ -1,43 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!-- 
-bkz sene 2020 hani hilafet oronzbunun sıçtıkları
-https://www.uludagsozluk.com/k/kemalist-ahlaks%C4%B1zl%C4%B1%C4%9F%C4%B1/&w=bg
-bkz her kış hilafet geliyo diye kafa ziken kamalcılar
-https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz kamalı sevme sebepleri
-https://www.uludagsozluk.com/k/kamal-%C4%B1n-gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-iyi-lider-olmas%C4%B1/
-https://www.uludagsozluk.com/k/kuran-da-din-adam%C4%B1-diye-bir-kavram-olmamas%C4%B1/
-bkz hani lan hilafet orozpu çocukları
-bkz hilafetim bana yeter diyip sarayda lahmacun partisi yapmak
-bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
-bkz isanın babasız doğduğuna inanıp muhammedin ayı yardığına inanamayan kamalcılar
-https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
-bkz hani hilafet geliyodu oç ları
-bkz kemaliklere kemik atıp kuçu kuçu yapmask
-bkz kemaliklerdeki islam harfi düşmanlığı
-https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
-https://www.uludagsozluk.com/k/hz-meryem/&w=bg bkz isanın orospu annesi
-https://www.uludagsozluk.com/k/kemaliklerdeki-islam-harfi-alerjisi/ oç kemalikler
-bkz berfin özek in şikayet var comu şikayet etmesi
-bkz hani hilafet geliyodu orospu çocukları
-https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/
-https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd
-https://www.uludagsozluk.com/k/isa/&w=bg
-https://www.uludagsozluk.com/k/kemaliklerdeki-islam-harfi-alerjisi/&w=gd
-bkz 2150 de kova burcu bi peyagmber zühur edeceği gerçeği
-https://en.wikipedia.org/wiki/Age_of_Pisces
-The age of Pisces began c. 1 AD and will end c. 2150 AD. With the story of the birth of Christ coinciding with this date
-bkz isanın balık burcunda musa nın boğa brucunda yeryüzüne zühur eylemesi
-https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu mesih isa
-https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu
-bkz hani bu kış  hilafet geliyodu orospu çocukları
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19 yaşasın kamalızm
-https://www.uludagsozluk.com/k/en-%C3%BCst%C3%BCn-%C4%B1rk-t%C3%BCrk-en-%C3%BCst%C3%BCn-t%C3%BCrk-atat%C3%BCrk/&w=bg
-https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd 
-bkz hz isanın yeryüzüne zühur eylemesi
-->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
