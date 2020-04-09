@@ -3,6 +3,8 @@
 
 <!--
 bkz otomatik portakal
+https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yazık la kimin velediyse
+https://www.uludagsozluk.com/k/%C3%A7ine-n%C3%B6tron-bombas%C4%B1-atmak/&w=bg
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz erkem imamoğlan
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kk
 bkz millet hizmet beklerken kk nın osura osura uyuması
