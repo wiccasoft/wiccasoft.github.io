@@ -10,6 +10,7 @@ bkz süleyman soylu isimli erkeklerdeki hayvani cazibe
 bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 bkz berk isimli erkeklerdeki hayvani çekicilik
 bkz iibf bitirip deep webbte başlık açmak
+https://www.uludagsozluk.com/k/bilal-k%C4%B1sa-boylu-ibo-%C5%9Fi%C5%9Fman-hahahahahah/
 https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamay%C4%B1p-tekrar-haz%C4%B1rlanan-tipler/
 https://www.uludagsozluk.com/k/haydarberk-bebek/ bkz haydarberk isimli erkeklerin biraz şey olması
 https://www.uludagsozluk.com/k/berk-isimlilerin-%C5%9F%C4%B1mar%C4%B1k-ve-ukala-olmas%C4%B1/&w=bg
