@@ -2,8 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz hani hilafet geliyodu oç ları
 bkz kemaliklere kemik atıp kuçu kuçu yapmask
 bkz kemaliklerdeki islam harfi düşmanlığı
+https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 https://www.uludagsozluk.com/k/hz-meryem/&w=bg bkz isanın orospu annesi
 https://www.uludagsozluk.com/k/kemaliklerdeki-islam-harfi-alerjisi/ oç kemalikler
 bkz berfin özek in şikayet var comu şikayet etmesi
