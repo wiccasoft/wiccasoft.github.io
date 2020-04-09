@@ -3,11 +3,10 @@
 
 <!--
 bkz allah nerdedir bildin 
+bkz ablan galataylı bebeğim
 bkz kürtlerin soru eki kullanmaması
 bkz kerican durmazın açın kızlar arayı salıyom kobrayı demesi
-https://www.uludagsozluk.com/k/stv-nin-porno-film-yay%C4%B1nlamas%C4%B1/&w=bg bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/allah-nerededir/&w=bg bkz annenin amcığında oç
-bkz ablan galataylı bebeğim
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
 bkz kerimcan durmazı ümrecilere tükürmesi
 https://www.pinterest.com/wiccasoft/  bkz kerimcan durmazın kobrayı salması
@@ -15,11 +14,6 @@ https://www.uludagsozluk.com/k/unutulmaz-dizi-sahneleri/&w=bg bkz racon kesmim k
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz kafa kesmiy racon kesiy
 bkz sagopa kajmer vs küçük emrah
 bkz sagopa kajmerin de dediği gibi
-bkz kerimcan durmazın kobrayı saldım temalı paylaşımı
-bkz ablan galtalı bebeğimmmm
-https://www.pinterest.com/wiccasoft/ 
-bkz 9 nisan 2020 kerimcan durmazın kobrayı salması
-bkz kerimcan durmazın malafatını çıkarıp hayranlarına sallaması
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg adam top beyler
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
 https://www.uludagsozluk.com/k/1997-do%C4%9Fumlu-bir-insan%C4%B1-cumhuriyet-savc%C4%B1s%C4%B1-yapmak/&w=bg 
