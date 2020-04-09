@@ -3,7 +3,7 @@
 
 <!--
 bkz otomatik portakal
-bkz hayali mafya karakterleriyle aşk yaşayan ergenlerin güldürmesi
+bkz hayali mafya dizi karakterleriyle aşk yaşayan ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular bkz duran emmi
 bkz polat alemdar vs cerrahpaşalılar
