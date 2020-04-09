@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz ekrem imamaoğlu
+bkz ekrem imamoğlu
 bkz küstürmeli boşnak saksocusu
 bkz kuzey adanolu fay hattını kırmak
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-o%C5%9Ft-ulan-k%C3%BCpek-demesi/ oşt ulan küpek
