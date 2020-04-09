@@ -4,6 +4,7 @@
 <!--
 bkz otomatik portakal
 bkz sagopa kajmer avmli klibi
+bkz killa hakanın sagopaya diss çekmesi
 bkz arkadaşım eşek diye şarkı yapıp sanatçı olmak
 bkz sagopa kajmerin de arabesk raplerinde dediği gibi
 bkz berfin özekin şikayetiniz var comu şikayet etmesi
