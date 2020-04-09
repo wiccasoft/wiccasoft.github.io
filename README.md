@@ -2,20 +2,16 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
-bkz isanın babasız doğduğuna inanıp muhammedin ayı yardığına inanamayan kamalcılar
 bkz sene 2020 hani hilafet oronzbunun sıçtıkları
 https://www.uludagsozluk.com/k/kemalist-ahlaks%C4%B1zl%C4%B1%C4%9F%C4%B1/&w=bg
-bkz her kış hilafet geliyo diye kafa ziekn kamalcılar
-bkz hilafet geliyodu hani oçları
-bkz bunların hepsi kuranda yazıyo zaten
-bkz kamalın damarlarınızdaki asil kanda mevcuttur lafı
+bkz her kış hilafet geliyo diye kafa zikrn kamalcılar
 https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz kamalı sevme sebepleri
 https://www.uludagsozluk.com/k/kamal-%C4%B1n-gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-iyi-lider-olmas%C4%B1/
 https://www.uludagsozluk.com/k/kuran-da-din-adam%C4%B1-diye-bir-kavram-olmamas%C4%B1/
 bkz hani lan hilafet orozpu çocukları
 bkz hilafetim bana yeter diyip sarayda lahmacun partisi yapmak
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
-https://www.uludagsozluk.com/k/tuna-g%C3%B6rg%C3%BCno%C4%9Flu/ vay oç
+bkz isanın babasız doğduğuna inanıp muhammedin ayı yardığına inanamayan kamalcılar
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 bkz hani hilafet geliyodu oç ları
 bkz kemaliklere kemik atıp kuçu kuçu yapmask
