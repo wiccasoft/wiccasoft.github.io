@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz fatih portaklaın aptala anlatır gibi haber anlatması
+bkz fahrettin koca vs fahrettin portakla
 https://www.uludagsozluk.com/k/fatih-portakal/&w=gd bkz rupert murdoch un köpeği
 bkz rupert murdoch fatih portakalı kovdum dese olacaklar
 bkz rte fetöyü affetim dese olacaklar
