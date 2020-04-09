@@ -3,7 +3,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/kerimcan-durmaz/ ohhh biraz da şurama küfr et
-https://www.uludagsozluk.com/e/43141379/ olm babaişkoma direk dansı bile yaparım
 bkz kerimcan durmazın paylaştığı kobra
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
