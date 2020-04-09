@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/bugun/ bkz hayallerde yaşıyor bazı ibneler
 bkz hayali mafya dizi karakterleriyle aşk yaşayan ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular bkz duran emmi
