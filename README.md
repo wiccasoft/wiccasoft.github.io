@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz celal şengör vs gorilla götü
 bkz fatih portakal vs maymun götü
 bkz damadın khk hakkında kyk müjdesi
 bkz hakem hataları yüzünden trabzonsporu suçlamak
