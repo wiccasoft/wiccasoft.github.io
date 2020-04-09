@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz en kolayı sona saklamak
 bkz avukatların yaptığı işi yapan yapa zekayı sona saklamam
 bkz astronomi + tıp gerisi çöp
 bkz iki senede 20.000 satır kod yazmak 
