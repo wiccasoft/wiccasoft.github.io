@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/kerimcan-durmaz/ bkz açın kızlar arayı salıyom kobrayı
 bkz sagopa kajmer türkiyenin fifti sentidir
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg 
 -->
