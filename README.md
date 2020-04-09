@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz sagopa kajmer avmli klibi
 bkz sagopa kajmerin de arabesk raplerinde dediği gibi
 bkz berfin özekin şikayetiniz var comu şikayet etmesi
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/
