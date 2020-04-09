@@ -4,7 +4,7 @@
 <!--
 bkz otomatik portakal
 bkz sagopa kajmer avmli klibi
-bkz suudi kraliyet ailesine virüs bulaşması
+bkz suudi kraliyet ailesininin ivankayı istemesi
 bkz killa hakanın sagopaya diss çekmesi
 bkz arkadaşım eşek diye şarkı yapıp sanatçı olmak
 bkz sagopa kajmerin de arabesk raplerinde dediği gibi
