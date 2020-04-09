@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz haayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz haayallerde yaşıyor bazı ibneler
 https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz lol oynarken gaza gelen veledi zina
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz mongol türkleri şişiren cüce
