@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz diyanet ezan çalıştayının harıl harıl çalışması
 bkz suudi kraliyet ailesinin trumptan ivankayı istemesi
 bkz kaldırım işleri müdürlüğünün skandal tweeti
 bkz devlet büzü bokmir diyen kadına la git yazan sosyal hizmet görevlisi
