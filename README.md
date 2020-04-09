@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz sagopa kajmerin de dediği gibi
 https://www.uludagsozluk.com/k/kerimcan-durmaz/ ohhh biraz da şurama küfr et
 bkz kerimcan durmazın paylaştığı kobra
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz ablan galatalı bebeğim
