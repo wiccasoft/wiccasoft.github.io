@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz fatih portakalın anlamadıysan bi daha anlatim pozu
 bkz fatih portakalım otomatik portakal hediyesini alması
 bkz fatih portakal haber yütüp sayfası
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz rteye kayarmatör 
