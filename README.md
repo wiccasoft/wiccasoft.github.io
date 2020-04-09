@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz berfin özek in şikayet var comu şikayet etmesi
 bkz hani hilafet geliyodu orospu çocukları
+https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd
 https://www.uludagsozluk.com/k/isa/&w=bg
 https://www.uludagsozluk.com/k/kemaliklerdeki-islam-harfi-alerjisi/&w=gd
