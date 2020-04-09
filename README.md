@@ -3,6 +3,7 @@
 
 <!--
 bkz ceza vs sagopa lajmer
+bkz sgopa lajmerin bayık bakışları
 bkz nazım hikmet ran vs recep tayyip erdoğan vs mustafa kemal atacücü
 bkz mustaf kemal atacücünün damarladınız daki asil kan covid 19 u yener lafı
 bkz 9 nisan 2020 fatih portakalın rte ye yine kayacağı gerçeği
