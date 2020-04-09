@@ -1,6 +1,11 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
+<!-- 
+https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd 
+bkz hz isanın yeryüzünü zühur eylemesi
+->
+
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
