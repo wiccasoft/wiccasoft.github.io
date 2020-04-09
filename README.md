@@ -3,9 +3,9 @@
 
 <!-- 
 bkz işe başvuran elemanın 30 yaşındayım 30.000 entry nickaltım temiz demesi
+https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
 https://eksisozluk.com/31-yasina-gelip-yuva-kurmayi-basaramamis-insan--6462725?a=popular bkz ezik
 https://www.uludagsozluk.com/k/muharrem-ince/&w=bg bkz ince gör marrem
-https://eksisozluk.com/nail-nogay--6463128?a=popular kuzenim yazmış kankağ yarın gelsin dürüm ısmarlayam
 bkz millet hizmet beklerkn kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/evde-%C3%A7orap-giyen-insanlar/&w=bg lol
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-oturun-dua-edin-demesi/&w=gd
