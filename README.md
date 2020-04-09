@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/e/43141379/ olm babaişkoma direk dansı bile yaparım
 bkz kerimcan durmazın paylaştığı kobra
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
