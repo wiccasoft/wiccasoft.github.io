@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz duran emmi polatı hoplattı mı sorundalı
 bkz hüseyin nihal atsız vs polat alemdar
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ thomas siker atar kankağğ
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkxz kürtleri kudurtan
