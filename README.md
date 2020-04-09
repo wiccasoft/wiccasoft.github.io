@@ -5,6 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://eksisozluk.com/berfin-ozekin-asitli-saldirganini-affetmesi--6464000?a=popular wohooooooooooooooo
 bkz sene 2020 hilafet nerde oronvuz sıçmıkları
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/ wohooooooooooo
