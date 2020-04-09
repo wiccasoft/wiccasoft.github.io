@@ -7,6 +7,7 @@
 <!--
 bkz ablan sagocu bebeğim
 bkz ablan hilafet istiyor bebeğim
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz adam soylu beyler
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 https://www.uludagsozluk.com/k/en-son-kime-neden-s%C3%B6vd%C3%BCn%C3%BCz/ bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/
