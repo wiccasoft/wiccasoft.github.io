@@ -5,6 +5,8 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz ablan sagocu bebeğim
+https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz ablan iç işleri bakanı bebeğim
 https://www.youtube.com/watch?v=zlGi6dzjGRQ
 bkz sagopa kajmerin de dediği gibi
