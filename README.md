@@ -9,6 +9,8 @@ bkz ablan sagocu bebeğim
 bkz ablan hilafet istiyor bebeğim
 bkz sene 2020 oldu hilafet nerde oronzbu sıçmıkları
 bkz millet hizmet beklerken kk nın osura osura uyuması
+bkz kıvanç isimli erkeklerin biraz şey olması
+https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/
 https://www.uludagsozluk.com/k/en-son-kime-neden-s%C3%B6vd%C3%BCn%C3%BCz/&w=gd bkz oronzbu sıçmıkları
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ bkz adanalı
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ bkz adam soylu beyler
