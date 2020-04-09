@@ -5,6 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/ wohooooooooooo
 bkz berfin özekin şikayeti geri çekmesi
 bkz erkeklerin biraz şey olması
 bkz süleyman soylu isimli erkeklerdeki hayvani cazibe
