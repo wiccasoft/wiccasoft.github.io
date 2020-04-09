@@ -2,6 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz hani hilafet geliyodu orospu çocukları
+https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd
+https://www.uludagsozluk.com/k/isa/&w=bg
+https://www.uludagsozluk.com/k/kemaliklerdeki-islam-harfi-alerjisi/&w=gd
 bkz 2150 de kova burcu bi peyagmber zühur edeceği gerçeği
 https://en.wikipedia.org/wiki/Age_of_Pisces
 The age of Pisces began c. 1 AD and will end c. 2150 AD. With the story of the birth of Christ coinciding with this date
