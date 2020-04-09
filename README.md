@@ -5,6 +5,7 @@
 bkz ekrem imamaoğlu
 bkz adamı madam yaparız madam
 bkz 9 nisan 2020 devletlerin bitmesi
+https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg bkz vurdurma potansiyeli yüksek erkek
 bkz müjde müjde sizee parizyen den müjde sizeeeeeeeeeeeee
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-14-yeni-ara%C3%A7-kiralama-m%C3%BCjdesi/
 bkz her şeyi bırakıp güneye yerleşip 13 dönüm araziye 13 + 1 ev yaptırmak
