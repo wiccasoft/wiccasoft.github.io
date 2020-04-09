@@ -4,6 +4,7 @@
 <!--
 bkz allah nerdedir bildin 
 bkz kürtlerin soru eki kullanmaması
+https://www.uludagsozluk.com/k/stv-nin-porno-film-yay%C4%B1nlamas%C4%B1/&w=bg bkz ablan galatalı bebeğim
 https://www.uludagsozluk.com/k/allah-nerededir/&w=bg bkz annenin amcığında oç
 bkz ablan galataylı bebeğim
 bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
