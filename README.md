@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/&w=bg bkz abdullah hunter
 bkz sagopa kajmer avmli klibi
 bkz abdullah avcı vs fathi terim
 bkz polat alemdar vs duran emmi
