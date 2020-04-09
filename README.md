@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz kerimcan durmazın kobrayı saldım temalı paylaşımı
 bkz ablan galtalı bebeğimmmm
 https://www.pinterest.com/wiccasoft/ 
 bkz 9 nisan 2020 kerimcan durmazın kobrayı salması
