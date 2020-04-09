@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/
 bkz hani hilafet geliyodu oç ları
 bkz kemaliklere kemik atıp kuçu kuçu yapmask
 bkz kemaliklerdeki islam harfi düşmanlığı
