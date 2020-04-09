@@ -3,7 +3,7 @@
 
 <!--
 bkz otomatik portakal
-bkz sert mafya erkeği vs manikur yapan erkek
+bkz ismail türüt vs sedat peker
 bkz fesli maymun vs polat alemdar
 bkz ışıdı cimere şikayet etmek
 bkz mustaf kamal atacüc vs mustafa suphi cücü
