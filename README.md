@@ -5,6 +5,7 @@
 bkz otomatik portakal
 bkz ışıdı cimere şikayet etmek
 bkz polat alemdar vs testere necmi
+bkz sedat peker vs thomas shelby
 bkz mustaf kamal atacücü vs polat alemdar
 https://www.uludagsozluk.com/k/i%C5%9Fid/&w=bg bkz şeriatçı fedöcü örgüt
 https://www.uludagsozluk.com/k/bir-hastane-yolunu-bile-yapamayan-b%C3%BCy%C3%BCk-ba%C5%9Fkan/ bkz imamaoğlan
