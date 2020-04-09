@@ -3,6 +3,7 @@
 
 <!-- 
 https://en.wikipedia.org/wiki/Age_of_Pisces
+The age of Pisces began c. 1 AD and will end c. 2150 AD. With the story of the birth of Christ coinciding with this date
 bkz isanın balık burcunda musa nın boğa brucunda yeryüzüne zühur eylemesi
 https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu mesih isa
 https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu
