@@ -3,7 +3,8 @@
 
 <!-- 
 bkz bunların hepsi kuranda yazıyo zaten
-bkz kamalın damarlarınızdaki asil kanda mevcuttur ladı
+bkz kamalın damarlarınızdaki asil kanda mevcuttur lafı
+https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz kamalı sevme sebepleri
 https://www.uludagsozluk.com/k/kamal-%C4%B1n-gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-iyi-lider-olmas%C4%B1/
 https://www.uludagsozluk.com/k/kuran-da-din-adam%C4%B1-diye-bir-kavram-olmamas%C4%B1/
 bkz hani lan hilafet orozpu çocukları
