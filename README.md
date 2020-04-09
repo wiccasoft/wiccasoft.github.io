@@ -1,25 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
-<!--
-bkz allah nerdedir bildin 
-bkz ablan galataylı bebeğim
-bkz kürtlerin soru eki kullanmaması
-bkz kerican durmazın açın kızlar arayı salıyom kobrayı demesi
-https://www.uludagsozluk.com/k/allah-nerededir/&w=bg bkz annenin amcığında oç
-bkz muhammedin 1 değil 3 değil 5 değil 13 evlilik yapması
-bkz kerimcan durmazı ümrecilere tükürmesi
-https://www.pinterest.com/wiccasoft/  bkz kerimcan durmazın kobrayı salması
-https://www.uludagsozluk.com/k/unutulmaz-dizi-sahneleri/&w=bg bkz racon kesmim kafa kesim 
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz kafa kesmiy racon kesiy
-bkz sagopa kajmer vs küçük emrah
-bkz sagopa kajmerin de dediği gibi
-https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg adam top beyler
-https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
-https://www.uludagsozluk.com/k/1997-do%C4%9Fumlu-bir-insan%C4%B1-cumhuriyet-savc%C4%B1s%C4%B1-yapmak/&w=bg 
-bkz savcı sayanın racon kesmiyom pozu
--->
-
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 [![Image](eq/Screenshot_2020-04-03_02-01-16.png)]( https://www.youtube.com/watch?v=xTvtQSSRuVs )
