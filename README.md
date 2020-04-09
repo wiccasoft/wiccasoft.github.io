@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+bkz mustaf kemal atacücünün damarladınız daki asil kan covid 19 u yener lafı
 bkz 9 nisan 2020 fatih portakalın rte ye yine kayacağı gerçeği
 bkz ruperty murdoch vs fatih portakal
 bkz mustafa kema atacücünün ismet inöcü gölgesinde kalması
