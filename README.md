@@ -4,6 +4,7 @@
 <!--
 bkz otomatik portakal
 bkz damadın khk hakkında kyk müjdesi
+bkz pfdk nın türk futbolunu davar güder gib gütmesi
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-dan-menderes-e-yalvaran-mektuplar/&w=bg
 https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/ bkz trabzonu kıskanan takım
 https://www.uludagsozluk.com/k/asr%C4%B1n-liderimizin-dev-projesi/ bkz asrın kanal procesi
