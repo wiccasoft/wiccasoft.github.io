@@ -6,6 +6,7 @@
 
 <!--
 bkz erkeklerin bbiraz şey olması
+bkz süleyman soylu isimli erkeklerdeki hayvani cazibe
 bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 bkz berk isimli erkeklerdeki hayvani çekicilik
 https://www.uludagsozluk.com/k/haydarberk-bebek/ bkz haydarberk isimli erkeklerin biraz şey olması
