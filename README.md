@@ -5,6 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-cemal-can/ ay yok ayol bu da sikemez
 bkz ablan sagocu bebeğim
 bkz ablan hilafet istiyor bebeğim
 bkz sene 2020 oldu hilafet nerde oronzbu sıçmıkları
