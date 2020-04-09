@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!-- 
+https://www.uludagsozluk.com/k/isa/&w=bg bkz tanrının oğlu
 https://www.uludagsozluk.com/k/en-%C3%BCst%C3%BCn-%C4%B1rk-t%C3%BCrk-en-%C3%BCst%C3%BCn-t%C3%BCrk-atat%C3%BCrk/&w=bg
 https://www.uludagsozluk.com/k/hilafet-istiyorum-diye-karton-tutan-k%C3%BC%C3%A7%C3%BCk-k%C4%B1z/&w=gd 
 bkz hz isanın yeryüzünü zühur eylemesi
