@@ -9,6 +9,8 @@ bkz erkeklerin bbiraz şey olması
 bkz süleyman soylu isimli erkeklerdeki hayvani cazibe
 bkz kıvanç isimli erkekleri şapşikliyoruz kampanyası
 bkz berk isimli erkeklerdeki hayvani çekicilik
+bkz iibf bitirip deep webbte başlık açmak
+https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamay%C4%B1p-tekrar-haz%C4%B1rlanan-tipler/
 https://www.uludagsozluk.com/k/haydarberk-bebek/ bkz haydarberk isimli erkeklerin biraz şey olması
 https://www.uludagsozluk.com/k/berk-isimlilerin-%C5%9F%C4%B1mar%C4%B1k-ve-ukala-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-isimli-erkeklerin-biraz-%C5%9Fey-olmas%C4%B1/ ay ne bilim biraz şey
