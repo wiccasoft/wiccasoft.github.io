@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekrem imamaoğlu
+bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz celal şengörü oya şengörü aldattığı iddaları
 https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz 31 ci ergenlerin filozofu
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=gd bkz celal şengör
