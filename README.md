@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+bkz suudi kraliyet ailesinin trumptan silah istemesi
 bkz kaldırım işleri müdürlüğünün skandal tweeti
 bkz devlet büzü bokmir diyen kadına la git yazan sosyal hizmet görevlisi
 bkz tek tokatlık canı kalmış ergenlerin güldürmesi
