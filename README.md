@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ bkz kafa kesmiy racon kesiy
 bkz sagopa kajmer vs küçük emrah
 bkz sagopa kajmerin de dediği gibi
 bkz kerimcan durmazın kobrayı saldım temalı paylaşımı
