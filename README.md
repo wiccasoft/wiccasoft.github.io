@@ -3,6 +3,7 @@
 
 <!--
 bkz otomatik portakal
+https://www.uludagsozluk.com/k/bernie-sanders/&w=bg bkz amerikanın kk sı
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-a-sorulmak-istenen-sorular/&w=bg nasıldı kankağ o dönem
 https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/&w=bg bkz abdullah hunter
 bkz sagopa kajmer avmli klibi
