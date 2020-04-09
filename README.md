@@ -4,6 +4,7 @@
 <!-- 
 bkz ekrem imamaoğlu
 bkz celal şengörü oya şengörü aldattığı iddaları
+https://www.uludagsozluk.com/k/arthur-schopenhauer/&w=bg bkz 31 ci ergenlerin filozofu
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=gd bkz celal şengör
 https://www.uludagsozluk.com/k/saatleri-ayarlama-enstit%C3%BCs%C3%BC/&w=bg dünyanın en güzel kitaplarından
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=gd bkz elon muskın opposite karakteri
