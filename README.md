@@ -6,8 +6,7 @@ bkz otomatik portakal
 bkz damadın khk hakkında kyk müjdesi
 https://www.uludagsozluk.com/k/kyk-bor%C3%A7lar%C4%B1na-indirim-ve-erteleme/
 https://www.uludagsozluk.com/k/bernie-sanders/&w=bg bkz amerikanın kk sı
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-a-sorulmak-istenen-sorular/&w=bg nasıldı kankağ o dönem
-https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F/&w=bg bkz abdullah hunter
+https://www.uludagsozluk.com/k/necip-faz%C4%B1l-a-sorulmak-istenen-sorular/&w=bg nasıldı kankağ o dönem naptınız yani
 bkz sagopa kajmer avmli klibi
 bkz abdullah avcı vs fathi terim
 bkz polat alemdar vs duran emmi
