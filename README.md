@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 <!--
+bkz 9 nisan 2020 kerimcan durmazın kobrayı salması
 bkz kerimcan durmazın malafatını çıkarıp hayranlarına sallaması
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg adam top beyler
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
