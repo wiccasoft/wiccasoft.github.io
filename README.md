@@ -6,6 +6,7 @@
 
 <!--
 bkz ablan sagocu bebeğim
+https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/
 https://www.uludagsozluk.com/k/bir-pesimistin-g%C3%B6zya%C5%9Flar%C4%B1-alb%C3%BCm%C3%BCn%C3%BC-herg%C3%BCn-dinlemek/
 https://www.uludagsozluk.com/k/sagopa-kajmerin-bir-%C5%9Fark%C4%B1s%C4%B1nda-dedi%C4%9Fi-gibi/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz ablan iç işleri bakanı bebeğim
