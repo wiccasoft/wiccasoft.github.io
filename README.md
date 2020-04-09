@@ -5,6 +5,7 @@
 bkz otomatik portakal
 bkz hayali mafya karakterleriyle aşk yaşayan ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
+3https://eksisozluk.com/kanka-olunasi-dizi-karakterleri--6459839?a=popular asfsasaf
 bkz polat alemdar vs cerrahpaşalılar
 bkz ismail türüt vs sedat peker
 bkz fesli maymun vs polat alemdar
