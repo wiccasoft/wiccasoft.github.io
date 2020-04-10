@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
-bkz çocuğum yaşıodaki oronzbu çocuğu ergenlerin deep webte atıp tutumaları
+bkz çocuğum yaşındaki götü boklu oronzbu çocuğu ergenlerin deep webte atıp tutumaları
 bkz oronzbu çocukları ergenler ve hayal dünyaları
 bkz seni bi sikerim ananın amında atacücü diye vıyaklarsın diyen kız
 bkz atacücü ve mevlanaya gevşek ibneler diyen kız
