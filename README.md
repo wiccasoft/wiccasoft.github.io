@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sevda isteyen oğlanın yüreciğini sevda sokan kız
 bkz sevilmeyi isteyen oğlanı güzel güzel yumuşuak yumuşak seven kız
 bkz sevdasını güzel gösteren kız
 bkz severken  güzel seven kız 
