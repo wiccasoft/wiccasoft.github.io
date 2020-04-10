@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz kerimcan durmaz daha da durmam demesi
 bkz kerimcan durmazın storylerde tehdit alması
 bkz z ve y kuşağının ultra aptal olması
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
