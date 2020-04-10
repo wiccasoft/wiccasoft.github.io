@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!--
+bkz ben senle bok yemeye de razıyım diyen kız
 bkz güzel severim tam severim emmeeeeee kodum mu ananın amını görürsün diyen kız
 bkz güzele bakmak sevaptır diyen kız
 bkz ben güzel güzel demem güzek benim olmayınca diyen kız
