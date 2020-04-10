@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz atacan kayaların atacücü süper demesi
 bkz mbaye diagne'nin çok eşliyim demesi
 bkz mbaye diyagne nin kobrayı salarım demesi
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
