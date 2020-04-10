@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+vkz ataücü mevlana çok severim diyen kız
 bkz atacücü ve mevlanayı öven kız
 bkz kızlar kızlar gelemmi yanığızdan öpemmeee diyen kız
 bkz kızların hepsinin bana hasta olması
