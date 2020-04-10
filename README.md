@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sevdasını güzel gösteren kız
+bkz severken  güzel seven kız 
 bkz sevmeyi bilmeyen oğlanın yüreğine sevda sokan kız
 bkz sagopa kjhmerin de sıçtığı gibi
 bkz beraber yürüdük biz bu yolllarda diyip kandıran kız
