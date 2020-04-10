@@ -3,7 +3,6 @@
 
 <!-- 
 bkz kerimcan durmaz daha da durmam demesi
-bkz kerimcan durmazın storylerde tehdit alması
 bkz z ve y kuşağının ultra aptal olması
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/
