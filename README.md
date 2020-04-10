@@ -4,6 +4,7 @@
 
 <!-- 
 bkz mbaye diagne'nin çok eşliyim demesi
+bkz mbaye diyagne nin kobrayı salarım demesi
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
 https://www.uludagsozluk.com/ anneniz sikeyim oronzbu sıçmıkları annenizi
 bkz oronzbu çocukları ergenler ve hayal dünyaları
