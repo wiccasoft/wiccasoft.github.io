@@ -3,8 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz rapkiplerinin önünde olan kız
 https://www.uludagsozluk.com/k/sevmek-mi-yoksa-sevilmek-mi-daha-g%C3%BCzeldir/&w=bg bkz güzel seven kız
-bkz haniiç entry de giyeymiş diyen kız
+bkz hani çen entry de giyeymiş diyen kız
 bkz çen büyüdün de arkadaşların la linç te mi yapıyoçun çen diyen kız
 bkz çen entry de mi giriyosun çen büyüdün de entry girip linç mi yapıyosun diyen kız
 bkz arkadaşlarınla güzel güzel entry giriyo musun diyen kız
