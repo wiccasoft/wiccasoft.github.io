@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sevmee bilmeyen oğlanın yüreciğie sevda sokan kız
 bkz ben senin bokuna ekmek banar yerim lan oronzbu çoucu diyen kız
 bkz ben senin bokunu bile severim diyen kız
 bkz sevdim seni bi kere başkasını sevemem diyen kız
