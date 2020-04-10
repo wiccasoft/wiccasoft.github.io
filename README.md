@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz babasından izinsiz kızlı başlık açan top
 bkz senin dübürüne ni kayarım bi daha babandan gizli başlık açamazsın diyen kız
 bkz senni büllük ötüyo mu la diyen kız
 bkz bu ne lan bamya diyen kız
