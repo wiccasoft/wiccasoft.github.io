@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
 https://www.uludagsozluk.com/ anneniz sikeyim oronzbu sıçmıkları annenizi
 bkz çocuğum yaşındaki götü boklu oronzbu çocuğu ergenlerin deep webte atıp tutumaları
 bkz oronzbu çocukları ergenler ve hayal dünyaları
