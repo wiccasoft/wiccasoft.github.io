@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!--
+bkz ergenlerin ezikliklerini başlık açarak giderdikleri gerçeği
 https://evde-ve-ofkeli.uludagsozluk.com/ bkz güzel seven kızları sıraya sokan veledi zina
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz rakiplerini elkarte eden kız
 bkz güzel seven kız
