@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!--
+bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz ben senin bokuna ekmek banar yerim diyen kız
 bkz ben senin bokunu yerim diyen kız. rakiplerine fark atacak kızdır evet
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/ bkz rakiplerinni bir adım önündedir evet
