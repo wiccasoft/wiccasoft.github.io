@@ -7,7 +7,6 @@ bkz sevmeyi bilmeyen oğlanın yüreğine sevda koyan kız
 bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz beraber yürüdük biz bu yolllarda diyip kandıran kız
 bkz sagopa kajmerin de sıçtığı gibi ben de sıçıyorum diyen kız
-bkz sevmeyi bilmeyen oğlanın yüreğine sevda sokan kız
 https://www.uludagsozluk.com/k/sar%C4%B1-renk-sperm/&w=bg
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg 
  -->
