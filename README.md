@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-bkz dewvlet bahçeli ve kemal kılıçdaroğlan
+bkz devlet bahçeli ve kemal kılıçdaroğlan
+bbkz devlet bahçelinin yarın ki açıklamaları
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/ bkz iki topun versusu
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz sağlık bakanı
