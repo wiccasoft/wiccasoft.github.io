@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz yumuşak yumuşak seven kız
 bkz sevmeyi bilmeyen oğlanın yüreğine sevda koyan kız
 bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz beraber yürüdük biz bu yolllarda diyip kandıran kız
