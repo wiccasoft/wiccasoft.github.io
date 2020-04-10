@@ -3,13 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sagopa kahmerin de sıçtığı gibi ben de sıçıyorum diyen kız
 bkz sana sevdanın yolları bana kurşunlar diyen kız
-bkz sevda isteyen oğlanın yüreciğini sevda sokan kız
-bkz sevilmeyi isteyen oğlanı güzel güzel yumuşuak yumuşak seven kız
-bkz sevdasını güzel gösteren kız
-bkz severken  güzel seven kız 
 bkz sevmeyi bilmeyen oğlanın yüreğine sevda sokan kız
-bkz sagopa kjhmerin de sıçtığı gibi
 bkz beraber yürüdük biz bu yolllarda diyip kandıran kız
 https://www.uludagsozluk.com/k/sar%C4%B1-renk-sperm/&w=bg
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg 
