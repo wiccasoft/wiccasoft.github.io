@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/ bkz iki topun versusu
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz sağlık bakanı
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz devletin başına devlet geçecek
 https://www.uludagsozluk.com/k/fahrettin-kocan%C4%B1n-yar%C4%B1nki-a%C3%A7%C4%B1klamaya-giri%C5%9F-c%C3%BCmlesi/
