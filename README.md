@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz çen büyüdün de arkadaşların la linç te mi yapıyoçun çen diyen kız
 bkz çen entry de mi giriyosun çen büyüdün de entry girip linç mi yapıyosun diyen kız
 bkz arkadaşlarınla güzel güzel entry giriyo musun diyen kız
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/
