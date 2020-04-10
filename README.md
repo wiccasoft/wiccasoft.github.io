@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sevdim seni bi kere başkasını sevemem diyen kız
 bkz sevdim seni bir kere 153 bölüm
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz rapkiplerinin önünde olan kız
 https://www.uludagsozluk.com/k/sevmek-mi-yoksa-sevilmek-mi-daha-g%C3%BCzeldir/&w=bg bkz güzel seven kız
