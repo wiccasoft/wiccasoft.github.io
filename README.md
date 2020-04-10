@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+https://evde-ve-ofkeli.uludagsozluk.com/ bkz kızları sıraya sokmak 
 bkz güzele sevmek sevap aga biz de böyle diyen kız
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg
 bkz yumuşak yumuşak seven kız
