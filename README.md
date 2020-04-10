@@ -4,6 +4,7 @@
 <!-- 
 bkz kerimcan durmaz daha da durmam demesi
 bkz z ve y kuşağının ultra aptal olması
+bkz durduramazsın beniiiiiiii 
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/
 https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz 98 li veletker ve kerimcan durmaz
