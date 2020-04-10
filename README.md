@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz senni büllük ötüyo mu la diyen kız
 bkz bu ne lan bamya diyen kız
 bkz çok soktun çenk diyen kız
 bkz berfin özekin geri çekmesi
