@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz millet hizzet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz auuuuuuuuuuuuuuuuuuuuuuu
 https://www.uludagsozluk.com/k/titre%C5%9Fimli-berat/&w=bg bkz titreşimli damad ahahahah
 https://www.uludagsozluk.com/k/koray-avc%C4%B1-n%C4%B1n-sakallar%C4%B1n%C4%B1-kesmesi/ ay bana su getirin ayol -->
