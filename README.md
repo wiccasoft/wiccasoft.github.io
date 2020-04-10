@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sedim mi güzel severim diyen kız
 bkz sevdiği oğlanın evinin önünde seranat yapan kız
 bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz sevmee bilmeyen oğlanın yüreciğine sevda sokan kız
