@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz lan ben senin o beyaz götünü severim diyen kız
 bkz yumuşak yumaşak severim lan götünü diyen kız
 bkz ben senin bokuna eppek banar da yerim lan diyen kız
 bkz kinci ve kamalcı diye film çıkmış izleyelim mi diyen kız
