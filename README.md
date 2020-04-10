@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz vız gelir tehditler
 bkz kerimcan durmaz daha da durmam demesi
 bkz z ve y kuşağının ultra aptal olması
 bkz durduramazsın beniiiiiiii 
