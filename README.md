@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/fahrettin-kocan%C4%B1n-yar%C4%B1nki-a%C3%A7%C4%B1klamaya-giri%C5%9F-c%C3%BCmlesi/
 https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz vız gelir tehditler
 bkz kerimcan durmaz daha da durmam demesi
 bkz z ve y kuşağının ultra aptal olması
