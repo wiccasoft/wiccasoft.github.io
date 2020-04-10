@@ -3,10 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
-bkz kinci nesil loading..
 bkz öfkeli ve kamalcı
-bkz ben senin için linç başlığı açarım diyen kız
-bkz linç etmelik link at kankağ linç edek
 https://www.youtube.com/watch?v=QLktoBwoCH8 bkz kızların hoş çocuk dediği çocuk
 https://www.youtube.com/watch?v=zIakdmAQTeY bkz atacücü ve mevlanaya hakaret eden çocuk
 bkz önce allah sonra atacücü sonra mevlam diyen kız
