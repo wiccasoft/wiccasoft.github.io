@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz 98 li veletker ve kerimcan durmaz
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
 https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
 bkz millet hizzet beklerken kk nın osura osura uyuması
