@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz denize atacücü düşse seni kurtarırım diyen kız
 bkz ölünce sevemezsem seni diyen kız
 bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz ben senin bokuna ekmek banar yerim lan diyen kız
