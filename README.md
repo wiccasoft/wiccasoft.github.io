@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz mbaye dyagnenin çok eşliyim demesi
+bkz sevda yüklü trenler düz raylarda ilerler diyen kız
 bkz sevmeyei bilmeyen oğlanın yüreceğine sevda koyan kız
 bkz atacan kayaların atacücü süper demesi
 bkz mbaye diagne'nin çok eşliyim demesi
