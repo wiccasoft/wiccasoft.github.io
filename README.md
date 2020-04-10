@@ -4,8 +4,8 @@
 
 <!-- 
 bkz ölünce sevemezsem seni diyen kız
+bkz sana sevdanın yolları bana kurşunlar diyen kız
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz sevdim seni be tosunum 
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/ bkz izleyeni siksinler
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
