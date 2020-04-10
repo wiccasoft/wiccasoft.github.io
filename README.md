@@ -4,8 +4,6 @@
 <!-- 
 bkz luppo dayı vs taksim dayı vs mersinli dayı
 bkz kerimcan durmaz salıyom kobrayı açın arayı demesi
-bkz kerimcan durmazın hayranlarına malafatı salması
-bkz kerimcan durmaz vs barbaros durmaz
 https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni/&w=bg bkz tayyibin yeni dünya düzenini müjdelemesi
 https://www.uludagsozluk.com/k/luppo-day%C4%B1-vs-kola-day%C4%B1-vs-taksim-day%C4%B1/
 bkz thomas shelby kerimcan durmaz benzerliği
