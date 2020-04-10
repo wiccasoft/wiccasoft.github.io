@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/ sikertin
 bkz ben senin bokuna eppek banarım eppek diyen kız
 bkz sedim mi güzel severim diyen kız
 bkz sevdiği oğlanın evinin önünde seranat yapan kız
