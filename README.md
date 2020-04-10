@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz sevmeyi bilmeyen oğlanın yüreğine sevda sokan kız
 bkz sagopa kjhmerin de sıçtığı gibi
 bkz beraber yürüdük biz bu yolllarda diyip kandıran kız
 https://www.uludagsozluk.com/k/sar%C4%B1-renk-sperm/&w=bg
