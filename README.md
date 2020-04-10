@@ -3,6 +3,7 @@
 
 <!-- 
 bkz z ve y kuşağının ultra aptal olması
+https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/
 https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz 98 li veletker ve kerimcan durmaz
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
 https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
