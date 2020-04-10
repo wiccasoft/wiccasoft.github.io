@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz kinci nesil loading..
 bkz ben senin için linç başlığı açarım diyen kız
 bkz linç etmelik link at kankağ linç edek
 https://www.youtube.com/watch?v=QLktoBwoCH8 bkz kızların hoş çocuk dediği çocuk
