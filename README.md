@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
-bkz önce allah namaz ezan sonra atacücü sonra mevlam diyen kız
+bkz önce allah sonra atacücü sonra mevlam diyen kız
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg 
 bkz ben senin bokuna eppek banarım eppek diyen kız
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
