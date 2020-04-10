@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz thomas shelby kerimcan durmaz benzerliği
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 bkz kerimcan durmaz vs seyfo dayı
 bkz fahrettin koca vs fahrettin cüreklibatur
 bkz devlet bahçeli ve kemal kılıçdaroğlan
