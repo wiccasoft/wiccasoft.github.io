@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/
 bkz sana oyuncak verim arka odada arkadaşlarınla güzel güzel oyna diyen kız
 bkz senni büllük ötüyo mu la diyen kız
 bkz bu ne lan bamya diyen kız
