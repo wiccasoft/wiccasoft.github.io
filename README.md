@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni/&w=bg bkz tayyibin yeni dünya düzenini müjdelemesi
 https://www.uludagsozluk.com/k/luppo-day%C4%B1-vs-kola-day%C4%B1-vs-taksim-day%C4%B1/
 bkz thomas shelby kerimcan durmaz benzerliği
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
