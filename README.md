@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
 bkz millet hizzet beklerken kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz auuuuuuuuuuuuuuuuuuuuuuu
 https://www.uludagsozluk.com/k/titre%C5%9Fimli-berat/&w=bg bkz titreşimli damad ahahahah
