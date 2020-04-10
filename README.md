@@ -5,6 +5,7 @@
 <!-- 
 bkz ölünce sevemezsem seni diyen kız
 bkz sana sevdanın yolları bana kurşunlar diyen kız
+bkz ben senin bokuna ekmek banar yerim lan diyen kız
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz sevdim seni be tosunum 
 -->
 
