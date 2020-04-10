@@ -4,6 +4,7 @@
 
 <!-- 
 bkz kinci nesil loading..
+bkz öfkeli ve kamalcı
 bkz ben senin için linç başlığı açarım diyen kız
 bkz linç etmelik link at kankağ linç edek
 https://www.youtube.com/watch?v=QLktoBwoCH8 bkz kızların hoş çocuk dediği çocuk
