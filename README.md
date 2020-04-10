@@ -1,6 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
+<!-- https://www.uludagsozluk.com/k/koray-avc%C4%B1-n%C4%B1n-sakallar%C4%B1n%C4%B1-kesmesi/ ay bana sı getirin ayol -->
+
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
