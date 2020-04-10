@@ -3,6 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!--
+bkz güzele bakmak sevaptır diyen kız
+bkz ben güzel güzel demem güzek benim olmayınca diyen kız
+bkz sevdim güzel severim yarım işten haz almam diyen kız
 bkz ben senin bokuna ekmek banarım diyen kız
 bkz sevdim mi tam severim diyen kız
 bkz rakiplerim türk hava yolları diyen kız
