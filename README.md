@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz lan beni senin atacücünün götüne koyarım diyen kız
 bkz ben senin götünü güzel güzel sikerim öyle severim diyen kız
 bkz lan ben senin o beyaz götünü severim diyen kız
 bkz yumuşak yumaşak severim lan götünü diyen kız
