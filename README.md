@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!--
+bkz güzel seven kız
 bkz yumuşak yumaşak seven kız
 bkz ben senle bok yemeye de razıyım diyen kız
 bkz güzele bakmak sevaptır diyen kız
