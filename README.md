@@ -4,6 +4,7 @@
 
 <!-- 
 bkz öfkeli ve kamalcı
+bkz kinci ve kamalcı diye film çıkmış izleyelim mi diyen kız
 https://www.youtube.com/watch?v=QLktoBwoCH8 bkz kızların hoş çocuk dediği çocuk
 https://www.youtube.com/watch?v=zIakdmAQTeY bkz atacücü ve mevlanaya hakaret eden çocuk
 bkz önce allah sonra atacücü sonra mevlam diyen kız
