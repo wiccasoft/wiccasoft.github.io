@@ -6,7 +6,6 @@
 bkz mbaye diagne'nin çok eşliyim demesi
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
 https://www.uludagsozluk.com/ anneniz sikeyim oronzbu sıçmıkları annenizi
-bkz çocuğum yaşındaki götü boklu oronzbu çocuğu ergenlerin deep webte atıp tutumaları
 bkz oronzbu çocukları ergenler ve hayal dünyaları
 bkz seni bi sikerim ananın amında atacücü diye vıyaklarsın diyen kız
 bkz atacücü ve mevlanaya gevşek ibneler diyen kız
