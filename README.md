@@ -4,54 +4,9 @@
 
 <!-- 
 bkz önce allah namaz ezan sonra atacücü sonra mevlam diyen kız
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg rakiplerini elgarte eder
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/ sikertin
+https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg 
 bkz ben senin bokuna eppek banarım eppek diyen kız
-bkz sedim mi güzel severim diyen kız
-bkz sevdiği oğlanın evinin önünde seranat yapan kız
-bkz sana sevdanın yolları bana kurşunlar diyen kız
-bkz sevmee bilmeyen oğlanın yüreciğine sevda sokan kız
-bkz ben senin bokuna ekmek banar yerim lan oronzbu çoucu diyen kız
-bkz ben senin bokunu bile severim diyen kız
-bkz sevdim seni bi kere başkasını sevemem diyen kız
-bkz sevdim seni bir kere 153 bölüm
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz rapkiplerinin önünde olan kız
-https://www.uludagsozluk.com/k/sevmek-mi-yoksa-sevilmek-mi-daha-g%C3%BCzeldir/&w=bg bkz güzel seven kız
-bkz hani çen entry de giyeymiş diyen kız
-bkz çen büyüdün de arkadaşların la linç te mi yapıyoçun çen diyen kız
-bkz çen entry de mi giriyosun çen büyüdün de entry girip linç mi yapıyosun diyen kız
-bkz arkadaşlarınla güzel güzel entry giriyo musun diyen kız
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/
-bkz sana oyuncak verim arka odada arkadaşlarınla güzel güzel oyna diyen kız
-bkz senni büllük ötüyo mu la diyen kız
-bkz bu ne lan bamya diyen kız
-bkz çok soktun çenk diyen kız
-bkz berfin özekin geri çekmesi
-bkz mbaye dyagnenin üçlü çektirmesi
-bkz mbaye dyagnenin kobrayı salarım demesi
-bkz adana01 en sevdiğim dizi diyen kız
-bkz ataücü mevlana çok severim diyen kız
-bkz atacücü ve mevlanayı öven kız
-bkz kızlar kızlar gelemmi yanığızdan öpemmeee diyen kız
-bkz kızların hepsinin bana hasta olması
-bkz mpapee nin üçlü çektirmesi
-bkz mbaye dyagnenin çok eşliyim demesi
-bkz sevda yüklü trenler düz raylarda ilerler diyen kız
-bkz sevmeyei bilmeyen oğlanın yüreceğine sevda koyan kız
-bkz atacan kayaların atacücü süper demesi
-bkz mbaye diagne'nin çok eşliyim demesi
-bkz mbaye diyagne nin kobrayı salarım demesi
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
-https://www.uludagsozluk.com/ anneniz sikeyim oronzbu sıçmıkları annenizi
-bkz oronzbu çocukları ergenler ve hayal dünyaları
-bkz seni bi sikerim ananın amında atacücü diye vıyaklarsın diyen kız
-bkz atacücü ve mevlanaya gevşek ibneler diyen kız
-bkz negzel yumuşak yumuşak seviyom diyen kız
-bkz denize atacücü düşse seni kurtarırım diyen kız
-bkz ölünce sevemezsem seni diyen kız
-bkz sana sevdanın yolları bana kurşunlar diyen kız
-bkz ben senin bokuna ekmek banar yerim lan diyen kız
-bkz sagopa kajmerin de sıçtığı gibi ben de sıçarım diyen kız
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz sevdim seni be tosunum 
 -->
 
