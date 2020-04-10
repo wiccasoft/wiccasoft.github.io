@@ -1,36 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
-<!-- 
-bkz luppo dayı vs taksim dayı vs mersinli dayı
-bkz kerimcan durmaz salıyom kobrayı açın arayı demesi
-https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni/&w=bg bkz tayyibin yeni dünya düzenini müjdelemesi
-https://www.uludagsozluk.com/k/luppo-day%C4%B1-vs-kola-day%C4%B1-vs-taksim-day%C4%B1/
-bkz thomas shelby kerimcan durmaz benzerliği
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
-bkz kerimcan durmaz vs seyfo dayı
-bkz fahrettin koca vs fahrettin cüreklibatur
-bkz devlet bahçeli ve kemal kılıçdaroğlan
-bkz devlet bahçelinin yarın ki açıklamaları
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz adam gibi adam
-https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/ bkz iki topun versusu
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz sağlık bakanı
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz devletin başına devlet geçecek
-https://www.uludagsozluk.com/k/fahrettin-kocan%C4%B1n-yar%C4%B1nki-a%C3%A7%C4%B1klamaya-giri%C5%9F-c%C3%BCmlesi/
-https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz vız gelir tehditler
-bkz kerimcan durmaz daha da durmam demesi
-bkz z ve y kuşağının ultra aptal olması
-bkz durduramazsın beniiiiiiii 
-bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
-https://www.uludagsozluk.com/k/kerimcan-durmaz-vs-barbaros-%C5%9Fansal/
-https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/ bkz 98 li veletker ve kerimcan durmaz
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
-https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
-bkz millet hizzet beklerken kk nın osura osura uyuması
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz auuuuuuuuuuuuuuuuuuuuuuu
-https://www.uludagsozluk.com/k/titre%C5%9Fimli-berat/&w=bg bkz titreşimli damad 
-https://www.uludagsozluk.com/k/koray-avc%C4%B1-n%C4%B1n-sakallar%C4%B1n%C4%B1-kesmesi/ ay bana su getirin ayol -->
-
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
