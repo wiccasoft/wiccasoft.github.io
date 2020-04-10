@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/ izleyelim
 bkz atacücünü mevlanını da al git amınoğlu diyen kız
 bkz anneni götten sikerim anneni diyen kız
 bkz mevlanayla atacücüyü üstüste koyar öyle sikerim diyen kız
