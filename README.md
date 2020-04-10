@@ -8,6 +8,8 @@ https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg
 bkz ben senin bokuna eppek banarım eppek diyen kız
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz sevdim seni be tosunum 
+https://www.uludagsozluk.com/k/sevmek-mi-yoksa-sevilmek-mi-daha-g%C3%BCzeldir/&w=gd
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/ bkz atacan kayalar
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
