@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!-- 
+bkz çok soktun çenk diyen kız
+bkz berfin özekin geri çekmesi
 bkz mbaye dyagnenin üçlü çektirmesi
 bkz mbaye dyagnenin kobrayı salarım demesi
 bkz adana01 en sevdiğim dizi diyen kız
