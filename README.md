@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
 <!--
-bkz sevdim seni be tosunum
+https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz sevdim seni be tosunum
 https://www.uludagsozluk.com/ bkz ergenlerin renkli dünyaları
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz hayallerde yaşıyor bazı ibneler
 bkz denizer atacüc düşse sikmem diyen çocuk
