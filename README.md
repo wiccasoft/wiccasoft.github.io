@@ -5,6 +5,7 @@
 <!-- 
 bkz ben mümine gibi severim diyen kız
 bkz ben açmama saçmam güzel severim diyen kız
+bkz iyi ki sana sevdalanmışım diyen kız
 https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg rakiplerini elgarte eder
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/ sikertin
 bkz ben senin bokuna eppek banarım eppek diyen kız
