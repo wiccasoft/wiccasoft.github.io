@@ -2,40 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=zlGi6dzjGRQ )
 
-<!--
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz sevdim seni be tosunum
-https://www.uludagsozluk.com/ bkz ergenlerin renkli dünyaları
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz hayallerde yaşıyor bazı ibneler
-bkz denizer atacüc düşse sikmem diyen çocuk
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C3%A7ocuk/
-bkz ergenlerin ezikliklerini başlık açarak giderdikleri gerçeği
-https://evde-ve-ofkeli.uludagsozluk.com/ bkz güzel seven kızları sıraya sokan veledi zina
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg bkz rakiplerini elkarte eden kız
-bkz güzel seven kız
-bkz yumuşak yumaşak seven kız
-bkz ben senle bok yemeye de razıyım diyen kız
-bkz güzele bakmak sevaptır diyen kız
-bkz ben güzel güzel demem güzek benim olmayınca diyen kız
-bkz sevdim güzel severim yarım işten haz almam diyen kız
-bkz ben senin bokuna ekmek banarım diyen kız
-bkz sevdim mi tam severim diyen kız
-bkz rakiplerim türk hava yolları diyen kız
-bkz sana sevdanın yolları bana kurşunlar diyen kız
-bkz ben senin bokuna ekmek banar yerim diyen kız
-bkz ben senin bokunu yerim diyen kız. rakiplerine fark atacak kızdır evet
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/ bkz rakiplerinni bir adım önündedir evet
-bkz güzele sevmek sevap aga biz de böyle diyen kız
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg
-bkz yumuşak yumuşak seven kız
-bkz sevmeyi bilmeyen oğlanın yüreğine sevda koyan kız
-bkz sana sevdanın yolları bana kurşunlar diyen kız
-bkz beraber yürüdük biz bu yolllarda diyip kandıran kız
-bkz sagopa kajmerin de sıçtığı gibi ben de sıçıyorum diyen kız
-https://www.uludagsozluk.com/k/sar%C4%B1-renk-sperm/&w=bg
-https://www.uludagsozluk.com/k/g%C3%BCzel-seven-k%C4%B1z/&w=bg 
- -->
-
-
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 [![Image](prototype/Screenshot_2020-04-05_06-51-19.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
