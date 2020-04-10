@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz kerimcan durmaz salıyom kobrayı açın arayı demesi
 bkz kerimcan durmazın hayranlarına malafatı salması
 bkz kerimcan durmaz vs barbaros durmaz
 https://www.uludagsozluk.com/k/yeni-d%C3%BCnya-d%C3%BCzeni/&w=bg bkz tayyibin yeni dünya düzenini müjdelemesi
