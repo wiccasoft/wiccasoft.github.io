@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
-bkz devlet bahçelinin cool luğu
+bkz devlet bahçeli cool luğu
 bkz babacanın ben sizin babanızım ayağına gençleri zehirlemesi
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz devlet bahçelinin kulislerden dönen dedikodulara aldırış etmmemesi
