@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+akrabalar olmak akbaba ben sevmemek
 kürtler olmak kaka biz sevmemek
 recep tayyip erdoğan çok iyi olmak kolonya yollamak biz çok sevmek
 türkistan olmak çok yardım sever yollamak kolonya
