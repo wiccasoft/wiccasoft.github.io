@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
-<!-- https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=gd bkz üstad -->
+<!-- https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=gd bkz üstad
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-%C4%B1n-mit-ajan%C4%B1-olmas%C4%B1/&w=bg
+-->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
