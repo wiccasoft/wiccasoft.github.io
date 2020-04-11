@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-ve-altyap%C4%B1-bakanl%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz imamaoğlanın yeni bir ilişkiye  hazır hissetmiyorum açıklaması
 https://www.uludagsozluk.com/k/ali-babacan/ bkz halkın adamı dava adamı
