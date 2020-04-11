@@ -3,6 +3,7 @@
 
 <!-- 
 bkz cuck19 vs covid19
+bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
 bkz millet hizmet beklerken kk nın osura osura uyumasu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
 bkz thomas shelby kerimcan durmaz benzerliği
