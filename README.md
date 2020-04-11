@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 https://www.uludagsozluk.com/k/i%C5%9F-bitirici-insanlar/ bkz devlet bahçeli
 bkz milletin adamı dava adamı bahçeli
 bkz millet hizmet beklerken kknın osura osura uyuması
