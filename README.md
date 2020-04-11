@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+var çin atom bombası atmak
 osman öcalan çıkarmak trt çok sakıncalı
 devlet bahçeli olmak çok kasıntı 
 ali babacan var çok babacan olmak
