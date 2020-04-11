@@ -8,6 +8,7 @@ https://www.cnnturk.com/video/turkiye/abdullah-ocalan-diye-bir-sahis-yok
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=gd bkz üstad
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-%C4%B1n-mit-ajan%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=bg
+bkz kmisiroğlunun maymun ettiğ iisimler
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz millet hizmet beklerken kk nın uppo içmesi
 -->
