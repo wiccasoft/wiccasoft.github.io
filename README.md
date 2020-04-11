@@ -2,13 +2,13 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+kürtler olmak kaka biz sevmemek
 türkistan olmak çok yardım sever yollamak kolonya
 ermenistan tıbbi yardım istemek türkistan
 recep tayyip erdoğan olmak ümmet lider biz çok sevmek
 kürdistan çok sevmek türkistan
 kürdistan yardım etmek türkistanı çok sevmek
 ermenistan yalvarmak türkiye yardım
-kürtler olmak kaka biz sevmemek
 recep tayyi erdoğan olmak ümmet lider biz çok sevmek
 nasreddin hoca olmak verry funny guy ben çok sevmek
 imamoğlu hazır hissetmemek açıklama
