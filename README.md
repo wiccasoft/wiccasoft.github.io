@@ -2,17 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-emine erdoğan olmak kürt arap biz sevmemek arap kürt
-kürtler olmak pis ben sevmemek
-türkistan olmak kürt kürde  türk türke yeter olmak
-türkistan olmak türk türke yeter
-türkistan yardım istememek süper güç olmak
-kürdistan yardım etmemek türkistan
 almanya kıskanmak türkistan
-amerika yalvarmak tıbbi yardım türkistan
-yunanistan yalvarmak türkistan tıbi yardım
-ermenistan tıbbi yardım sitemek türkistan 
-ermenistan istemek tubbi yardım ben sevmemek ermenistan
 malum ırk olmak çok kaba ben sevmemek
 akrabalar olmak akbaba ben sevmemek
 kürtler olmak kaka biz sevmemek
