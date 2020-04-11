@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=gd bkz üstad
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-%C4%B1n-mit-ajan%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=bg
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
-bkz imamao ğlanın ban biraz zaman tanı aşkım açıklaması
+bkz millet hizmet beklerken kk nın uppo içmesi
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
