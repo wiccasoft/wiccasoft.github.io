@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-bkz 10 sina 2020 vahdettinin etek giyip ingilizlere kaçması
+bkz adamı madam yaparız madam
+bkz vahdettinin etek giyip ingilizlere kaçması
 https://www.uludagsozluk.com/k/vahdettin-in-etek-giyip-ingilizlerle-ka%C3%A7mas%C4%B1/&w=bg
 bkz millet hizmet beklerken kk nın uppo içmesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz devletin adamı davanın adamı
