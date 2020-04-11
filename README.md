@@ -4,7 +4,7 @@
 <!--
 bkz frank lucasın atacücüyü sevmemesi
 bkz frank lucas clint eastwood benzerliği
-https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz toğkek yerken imamoğluna gülen ergen
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oçe der
 https://www.uludagsozluk.com/k/domestik-ev-hanimi/&w=bg bkz zall ona hep oç derin annesi
 https://frank-lucas.uludagsozluk.com adam ajan beyler frank üzümü gibi bişi
 bkz memolideki yağlı saçlı polis
