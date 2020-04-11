@@ -3,6 +3,7 @@
 
 <!--
 ben var 18 cm kafası hariç
+ben var olmak imhotep yeniden dirilmek
 ben var tuttuğunu sikmek hipokrat yemin etmemek
 ben var kel olmak her götü ellemek 
 ben var devletleri silmek yeni dünya düzeni kurmak
