@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+imamaoğlan olmak hazır ben sevmemek
 kürtler olmak keko ben sevmemek
 kanarya kekeolar saldırmak ümerciler ben çok kızmak
 kekolar saldırmak polis ben çok üzülmek
