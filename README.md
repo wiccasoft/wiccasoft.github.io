@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1zlarla-evcilik-oynayan-erkek-%C3%A7ocuk/&w=bg 
 bkz ali babacanın yankları vs boris johnson ın yanakları
 bkz berfin özekin şikayeti geri çekmesi
 bkz boris jonson vs ali babacan
