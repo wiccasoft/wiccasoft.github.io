@@ -1,6 +1,7 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
-
+<!--
+https://www.uludagsozluk.com/k/kanarya-da-polise-sald%C4%B1ran-pi%C3%A7lerin-son-halleri/
 bkz zall ona hep abi der vs imamoğlu ona hep oç der
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamoğlunu güldüren ergen
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
