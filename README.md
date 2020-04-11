@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum
 https://www.uludagsozluk.com/k/hz-muhammed/ bkz mağarada muhammedi kurtaran dişi örümcek
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
 https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
+bkz ali baba ve yedi cücülür
 bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
 bkz kerimcan durmazın salıyom kobrayı açın kızlar arayı demesi
 https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/
