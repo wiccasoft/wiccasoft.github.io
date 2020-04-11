@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-bkz cuck19 vs covid19
+bkz cucuk19 vs covid19
 bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
 bkz millet hizmet beklerken kk nın osura osura uyumasu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
