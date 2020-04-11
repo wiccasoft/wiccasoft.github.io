@@ -4,6 +4,7 @@
 <!--
 bkz frank lucasın atacücüyü sevmemesi
 bkz frank lucas clint eastwood benzerliği
+bkz imamaoğlu one hep oçe der vs ali babacan onun hep götünü siker
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oçe der
 https://www.uludagsozluk.com/k/domestik-ev-hanimi/&w=bg bkz zall ona hep oçe derin annesi
 bkz millet hizmet beklerken kk ile babaca nın uppo içmesi
