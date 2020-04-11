@@ -7,7 +7,6 @@ komunik istemiyoz atam izinde var biz
 ben var ali babacan çok babacan
 ben var abdulmutalip benim ata
 https://www.uludagsozluk.com/k/benim-atam-abdulmuttaliptir/
-bkz dr erol köze kafayı çizmek
 bkz imamoğlu hazır değilim açıklama yapmak
 bkz nasreddin hoca yeni açıklama yapmak
 bkz mbaye dyagne çok eşlilik demek
