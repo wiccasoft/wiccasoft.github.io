@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
+bkz imamaoğlu hazır değilim açıklama demek
 bkz nasreddin hoca yeni açıklama yapmak
 bkz rece tayyip erdoğan zall ona abi demek
 bkz mbaye dyagne çok eşlilik demek
