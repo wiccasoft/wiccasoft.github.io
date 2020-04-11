@@ -3,6 +3,7 @@
 
 <!--
 bkz mbaye dyagne çok eşlilik demek
+bkz burak çivitoğlan sessizlik korumak
 bkz merve boğulurun boğulması
 bkz esra elönü imamönü şikayet geri alması
 bkz imamoğlan hazır değilim demesi
