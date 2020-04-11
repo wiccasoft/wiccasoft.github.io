@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+fifti sent sagopa kıskanmak
 sagopa kajmer türkünün fifti senti olmak
 feslinin türban eşi foto galeriğ bakmak çok sevmek
 feslinin fotoğrafları çok güzel olmak
