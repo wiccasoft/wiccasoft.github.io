@@ -3,7 +3,7 @@
 
 <!-- 
 bkz çavuşoğlu vs çavuşesku
-bkz kadirmısıropğlu.com un hackenmesi
+bkz kadirmısıroğlu.com un hackenmesi
 bkz kadir mısıroğlu vs mısır arpaoğlu
 bkz rte nin soya bakmaz boya bakar boya demesi
 bkz imamoğlunun yeni ilişkiye hazır hissetmiyorum açıklaması
