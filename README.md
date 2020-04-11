@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz uzun adamın soyluya verdiği efso ayar
 bkz rte nin soya değil boya bakar boya açıklaması
 bkz chun li nin anti virüs bulana göt verecem açıklaması
 bkz chun li vs jet lee
