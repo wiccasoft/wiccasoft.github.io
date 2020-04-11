@@ -2,9 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ben var kel olmak her götü ellemek 
 ben var olmak imhotep yeniden dirilmek
 ben var tuttuğunu silkmek hipokrat yemin etmemek
-ben var kel olmak her götü ellemek 
 ben var devletleri silkmek yeni dünya düzeni kurmak
 ben var hayallerde yaşayanları gerçeklerle silkmek
 çomarlar hayallerde yaşamak sonraları kötü olmak
