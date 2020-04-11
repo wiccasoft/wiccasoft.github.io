@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+sagopa kajmer olmak türkiye fiifty cent
 sezen aksu olmak minik serçe ben çok sevmek 
 ali babacan olmak babacan
 surivvor yunus emre olmak çok itici
