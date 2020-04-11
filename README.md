@@ -3,7 +3,7 @@
 
 <!-- 
 bkz uzun adamın soyluya verdiği efso ayar
-bkz rte nin soya değil boya bakar boya açıklaması
+bkz uzun adamın soya değil boya bakar boya açıklaması
 bkz chun li nin anti virüs bulana göt verecem açıklaması
 bkz chun li vs jet lee
 bkz çavuşoğlu vs çavuşesku
