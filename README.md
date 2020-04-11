@@ -2,8 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-nazım uzun olmak ben çok sevmek
-atacücü 1.61 olmak ben çok gülmek
+atacücü 161 olmak ben çok gülmek
 fifti sent sagopa kıskanmak
 feslinin türban eşi foto galeriğ bakmak çok sevmek
 feslinin fotoğrafları çok güzel olmak
