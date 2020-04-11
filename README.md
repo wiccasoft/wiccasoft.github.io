@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-bkz çauşoğlu vs çavuşesku
+bkz çavuşoğlu vs çavuşesku
+bkz rte nin soya bakmaz boya bakar boya demesi
 bkz imamoğlunun yeni ilişkiye hazır hissetmiyorum açıklaması
 https://www.uludagsozluk.com/k/y%C3%BCksek-lisansl%C4%B1ya-kafa-tutan-%C3%B6nlisanl%C4%B1/ bkz burhan altıntop
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
