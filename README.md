@@ -3,8 +3,11 @@
 
 <!-- 
 bkz cucuk19 vs covid19
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
+https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
 bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
 bkz kerimcan durmazın salıyom kobrayı açın kızlar arayı demesi
+https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/
 bkz millet hizmet beklerken kk nın osura osura uyumasu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
 bkz thomas shelby kerimcan durmaz benzerliği
