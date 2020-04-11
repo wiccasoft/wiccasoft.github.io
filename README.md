@@ -4,6 +4,7 @@
 <!-- 
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
+https://www.uludagsozluk.com/k/s%C3%BCr%C3%BC-ba%C4%9F%C4%B1%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/koray-avcı-nın-sakallarını-kesmesi/
 https://www.uludagsozluk.com/k/bah%C3%A7eye-%C3%A7%C4%B1kmak-yasak-m%C4%B1-sorunsal%C4%B1/ bkz devlet bahçeli
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/ bkz cucukold
