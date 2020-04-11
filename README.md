@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 
 <!--
+https://www.uludagsozluk.com/k/boris-johnson/&w=bg adam adanalı ve ajan beyler
 bkz frank lucasın atacücüyü sevmemesi
 bkz frank lucas clint eastwood benzerliği
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oçe der
