@@ -3,6 +3,7 @@
 
 <!-- 
 bkz zulüm 1071 de başladı
+bkz k mısıroğlu nun zulüm 1071 de başladı açıklaması
 bkz selanikten adam çıkmaması sorunsalı
 bkz keşkek yunana galip geseydi konusunda izah
 https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
