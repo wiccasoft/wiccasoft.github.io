@@ -11,6 +11,7 @@ bkz devletin başına devlet geçcek
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
 bkz imamaoğlunun hazır değilim açıklması
 bkz fatih tezcandan fatih terime işini yap uyarısı
+https://www.uludagsozluk.com/k/y%C3%BCksek-lisansl%C4%B1ya-kafa-tutan-%C3%B6nlisanl%C4%B1/ bkz ezik
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz tayyibin soya değil boya bakar boyaaa demesi
 https://www.uludagsozluk.com/e/43150005/ zuhahahah
