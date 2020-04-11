@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/sevi%C5%9Ftikten-sonra-%C5%9Fefkat-bekleyen-kad%C4%B1n/ bkz zallın annesi
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz frank lucas vs yunan nikli lolcu kamalcı velet
 https://frank-lucas.uludagsozluk.com/ bkz atacücüyü sevmeyen tontiş çocuk
