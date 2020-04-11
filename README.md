@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-emine erdoğan olmak kürt arap
+emine erdoğan olmak kürt arap biz sevmemek arap kürt
 kürtler olmak pis ben sevmemek
 türkistan olmak kürt kürde  türk türke yeter olmak
 türkistan olmak türk türke yeter
