@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+bkz ali babacan vs babacan ali
 bkz ahmet özal vs mesut yılmaz
 bkz osmaniyenin gururu
 bkz bahçeli devlet vs devlet bahçeli
