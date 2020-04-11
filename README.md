@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+devlet adamlar var çokomelli
 devlet adamları olmak çokomelli
 devlet bahçeli devlet adamı olmak ben çok sevmek
 devlet adamı olmak çokomelli iş olmak
