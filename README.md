@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg
 atacücü 161 olmak ben çok gülmek
 fifti sent sagopa kıskanmak
 feslinin türban eşi foto galeriğ bakmak çok sevmek
