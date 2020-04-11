@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ermenistan istemek tubbi yardım ben sevmemek ermenistan
 malum ırk olmak çok kaba ben sevmemek
 akrabalar olmak akbaba ben sevmemek
 kürtler olmak kaka biz sevmemek
