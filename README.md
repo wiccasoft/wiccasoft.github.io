@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
 https://www.uludagsozluk.com/k/muhalefetin-bokunu-%C3%A7%C4%B1karan-ek%C5%9Fi-yazarlar%C4%B1/ bkz the web of life
