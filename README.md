@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz toğkek yerken imamoğlan güldürmesi
 bkz imamaoğlunun akboylara toğkek dağıtmaması
 bkz imamaoğlunun kendimi hazır hissetmiyorum demesi
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlunun güldürdüğü lider
