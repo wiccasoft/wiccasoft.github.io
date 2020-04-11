@@ -6,7 +6,7 @@ kızlar patlatıp kaçan erkek
 kızlar konuşmamak erkek
 ermenistan kolonya istemek
 bamya pipili erkek olmak türkler ben çok gülmek
-kızlara konuşamak utanan oğlan olmak ben sevmemek
+kızlara konuşamak utanan oç olmak ben sevmemek
 imamoğlan ona hep oç demek ben çok üzülmek
 imamoğlan ona oç  demek imamoğlan kaka olmak
 imamoğlan hazır olmamak zall ona oç der sevmemek
