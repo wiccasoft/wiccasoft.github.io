@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz ali babacanın yankları vs boris johnson ın yanakları
 bkz berfin özekin şikayeti geri çekmesi
 bkz boris jonson vs ali babacan
 bkz ali babacanın yanakları
