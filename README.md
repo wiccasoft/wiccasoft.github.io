@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+mbaye dyagne çok eşli olmak ben ona karıyı siktirmek çok sevmek ben cuckold
 younes belhanda takla atmak bwen çok sevmek
 cüclerin pipisi bamya gibi olmak hep işlevi demek
 atacücü 161 olmak ben çok gülmek
