@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ali babacan olmak çok yakışıklı
 osman var bana toprak satmak ben çok seviyor antalya
 osman öcalan çıkmak trt
 ali babacan var okumak çok
