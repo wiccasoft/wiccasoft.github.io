@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz frank lucasın atacücüyü sevmemesi
 bkz frank lucas clint eastwood benzerliği
 https://www.uludagsozluk.com/k/domestik-ev-hanimi/&w=bg bkz zall ona hep oç derin annesi
 https://frank-lucas.uludagsozluk.com adam ajan beyler frank üzümü gibi bişi
