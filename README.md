@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-ermenistan kolonya istemek
 kızlar patlatıp kaçan erkek
 kızlar konuşmamak erkek
 ermenistan kolonya istemek
