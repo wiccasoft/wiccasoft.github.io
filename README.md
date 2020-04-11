@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+bkz ahmet özal vs mesut yılmaz
 bkz osmaniyenin gururu
 bkz bahçeli devlet vs devlet bahçeli
 https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu/&w=bg bkz uğurlar olsun
