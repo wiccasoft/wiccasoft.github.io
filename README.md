@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg
 bkz sözlük ergenlerinin annelerine topkek le kandırıp sikmek
 https://www.uludagsozluk.com/k/sevi%C5%9Ftikten-sonra-%C5%9Fefkat-bekleyen-kad%C4%B1n/ bkz zallın annesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz milletin adamı dava adamı
