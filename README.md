@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz berfin özekin şikayeti geri çekmesi
 bkz boris jonson vs ali babacan
 bkz ali babacanın yanakları
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz muhammedin sakalı şerifi
