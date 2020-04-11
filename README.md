@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+devlet var kasayı boşaltmak bana toprak satmak
 var cemaat sızmak devlet  kargalar güler
 var atom bombası çine atmak
 osman öcalan çıkarmak trt çok sakıncalı
