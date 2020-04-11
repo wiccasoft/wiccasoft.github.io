@@ -4,6 +4,8 @@
 <!-- 
 bkz adamı madam yaparız madam
 bkz vahdettinin etek giyip ingilizlere kaçması
+bkz uzun adamın soyluya osya değil boya bakar boyaaaaaa demesi
+bkz uzun adamın soyluya verdiği efso ayar
 https://www.uludagsozluk.com/k/vahdettin-in-etek-giyip-ingilizlerle-ka%C3%A7mas%C4%B1/&w=bg
 bkz millet hizmet beklerken kk nın uppo içmesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz devletin adamı davanın adamı
