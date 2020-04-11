@@ -3,7 +3,7 @@
 
 <!--
 imamoğlan ona hep oç demek ben çok üzülmek
-imamoğlan ona oç der imamoğlan kaka olmak
+imamoğlan ona oç  demek imamoğlan kaka olmak
 imamoğlan hazır olmamak zall ona oç der sevmemek
 kekolar saldırmak ümreciler ben sevmemek
 mansur olmak yavaş ben sevmemek yavaş
