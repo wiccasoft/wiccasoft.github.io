@@ -4,6 +4,7 @@
 <!-- 
 bkz fesli kalsörüne fesli resimleri atan genco
 bkz feslinin gençlik fotoları tıklağ kankağ hadi be kankağ
+bkz zall ona hep oç derin masaüstündeki imamoğlu klasörü
 bkz virüs aşısını bulana toğkek vereceğim hadi bakalım gencolar bulun gelin
 https://www.uludagsozluk.com/k/vir%C3%BCs-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bulanla-birlikte-olaca%C4%9F%C4%B1m/
 bkz imamoğlunun hazır değilim açıklaması
