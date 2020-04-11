@@ -2,8 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
-bkz frank lucasın atacücüyü sevmemesi
-bkz frank lucas clint eastwood benzerliği
+bkz çok emelli işler daire başkanlığı
 bkz imamaoğlu one hep oçe der vs ali babacan onun hep götünü siker
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oçe der
 https://www.uludagsozluk.com/k/domestik-ev-hanimi/&w=bg bkz zall ona hep oçe derin annesi
