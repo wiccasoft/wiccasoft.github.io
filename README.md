@@ -3,7 +3,7 @@
 
 <!--
 kekolar saldırmak polis ben çok üzülmek
-lıppo dayı  ya diss atan keko olmak kaka
+lippo dayıya diss atan keko olmak kaka
 kürd kürde yeter olmak ben sevmemek
 almanya kıskanmak türkistan
 malum ırk olmak çok kaba ben sevmemek
