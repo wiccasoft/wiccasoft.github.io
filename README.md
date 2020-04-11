@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+türkistan olmak türk türke yeter
 türkistan yardım istememek süper güç olmak
 kürdistan yardım etmemek türkistan
 almanya kıskanmak türkistan
