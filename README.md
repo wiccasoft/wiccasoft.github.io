@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
+bkz imamoğlan hazır değilim demesi
 bkz osmanlının bana arazi satacak olması
 bkz siz türkiye çok şanslı rakı şiş kebap antalya kaş yine arazi alacak ben
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/&w=bg 
