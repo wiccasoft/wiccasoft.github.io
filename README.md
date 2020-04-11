@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz cock19 vs covid19
 bkz millet hizmet beklerken kk nın osura osura uyumasu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
 bkz thomas shelby kerimcan durmaz benzerliği
