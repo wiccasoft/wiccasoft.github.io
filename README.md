@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+kürtler olmak kaka keko ben sevmemek
 kanarya kekeolar saldırmak ümerciler ben çok kızmak
 kekolar saldırmak polis ben çok üzülmek
 lippo dayıya diss atan keko olmak kaka
