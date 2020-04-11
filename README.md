@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz ülkünün adamı
+https://www.uludagsozluk.com/k/i%C5%9F-bitirici-insanlar/ bkz devlet bahçeli
 bkz milletin adamı dava adamı bahçeli
 bkz millet hizmet beklerken kknın osura osura uyuması
 bkz devlet bahçelinin hazırım açıklaması
