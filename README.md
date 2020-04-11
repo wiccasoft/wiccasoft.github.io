@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz rte nin soya bakar soya açıklaması
 bkz devletin başına devlet geçcek
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
 bkz imamaoğlunun hazır değilim açıklması
