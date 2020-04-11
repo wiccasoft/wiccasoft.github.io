@@ -5,6 +5,7 @@
 bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlunun güldürdüğü abi
 bkz imamoğlanın kendimi yeni bir ilişkiye hazır hissetmiyorum açıklması demesi
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
