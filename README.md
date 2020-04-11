@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+osmanlı var vaba toprak satmakben çok seviyor antalya
 osman öcalan çıkmak trt
 ali babacan var okumak çok
 ali babadan olmak çok yahşi ben çok seviyor babacan
