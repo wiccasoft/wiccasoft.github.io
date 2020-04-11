@@ -5,7 +5,7 @@
 bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
-bkz zall ona hep oç derin gülerek topkek yiyip kola içmesi
+bkz zall ona hep oç derin imamaoğlana bakarak topkek yiyip kola içmesi
 bkz imamoğlanın zall ona hep oç deri siklemediği gerçeği
 bkz imamoğlanın zall ona hep oç der ile ilişkiye hazır değilim açıklaması
 https://www.uludagsozluk.com/k/tengirin-yeniden-ak-partiye-yanlamas%C4%B1/
