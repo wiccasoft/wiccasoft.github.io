@@ -5,6 +5,7 @@
 bkz mbaye dyagne çok eşlilik demek
 bkz burak çivitoğlan sessizlik korumak
 bkz merve boğulurun boğulması
+bkz ali babacan ben sizin baba demek
 bkz esra elönü imamönü şikayet geri alması
 bkz imamoğlan hazır değilim demesi
 bkz osmanlının bana arazi satacak olması
