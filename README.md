@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-bkz cucuk19 vs covid19
+bkz sucuk19 vs cucuk19 
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
 https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
 bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
