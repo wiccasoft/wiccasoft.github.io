@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz rte nin sevilesi yerleri
 https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg
 bkz sözlük ergenlerinin annelerine topkek le kandırıp sikmek
