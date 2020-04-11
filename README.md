@@ -4,7 +4,7 @@
 <!--
 bkz osmanlının bana arazi satacak olması
 bkz siz türkiye çok şanslı rakı şiş kebap antalya kaş yine arazi alacak ben
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/&w=bg bkz tayyibin osmanlıyı şahlaması
+https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/&w=bg 
 https://www.uludagsozluk.com/k/k%C4%B1zlarla-evcilik-oynayan-erkek-%C3%A7ocuk/&w=bg bkz atacan kayalay
 bkz berfin özekin babasının şikayetvar.com u satın alması
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=gd
