@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz fesli bunak vs maymun götü
+https://www.uludagsozluk.com/k/feslinin-t%C3%BCrbans%C4%B1z-etekli-e%C5%9Fiyle-fotosu/
 bkz zall ona hep oç der vs imamoğlu
 bkz imamaoğlanın zall ona hep oç der ile ilişkiye hazır değilim açıklaması
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
