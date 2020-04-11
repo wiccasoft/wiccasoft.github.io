@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
-https://frank-lucas.uludagsozluk.com bkz atacücücüleri hopur hopur hopğlatanb adam gibi adam
+bkz berfin özekin babasının şikayetvar.com u satın alması
+https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=gd
+https://frank-lucas.uludagsozluk.com bkz frank üzümü
 bkz çok emelli işler daire başkanlığı
 bkz uzun adamın soyluya verdiği efso ayar
 bkz uzun adamın soya değil boya bakar boya açıklaması
