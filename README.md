@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ali babadan olmak çok yahşi
 süleyman soydan var pornocu olmak
 ben çok seviyor antalya alacak toprak
 devlet var kasayı boşaltmak bana toprak satmak
