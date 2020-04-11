@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
-bkz virüs aşısını bualna göt vereceğim hadi bakalım gencolar bulun gelin
+bkz virüs aşısını bulana toğkek vereceğim hadi bakalım gencolar bulun gelin
 https://www.uludagsozluk.com/k/vir%C3%BCs-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bulanla-birlikte-olaca%C4%9F%C4%B1m/
 bkz imamoğlunun hazır değilim açıklaması
 bkz süleyman soylu vs kanuni sultan süleyman
