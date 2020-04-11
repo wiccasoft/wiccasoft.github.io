@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz ulucuların masaüstündeki devlet adamları klasörü
 https://www.uludagsozluk.com/k/nikolay-%C3%A7avu%C5%9Fesku/&w=bg bkz efso devlet adamı
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-çok-eşliyim-demesi/
 bkz devlet bahçelinin karizmatik gençlik resimleri tıklağ galeriğ açılsın kankağ
