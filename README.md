@@ -6,6 +6,7 @@ bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
 bkz şaka maka aleyna tilkinin annesinin çok seksi olması
+https://www.uludagsozluk.com/k/ben-padi%C5%9Fah%C4%B1m-istedi%C4%9Fim-karar%C4%B1-al%C4%B1r%C4%B1m/
 https://www.uludagsozluk.com/k/muhalefetin-bokunu-%C3%A7%C4%B1karan-ek%C5%9Fi-yazarlar%C4%B1/ bkz the web of life
 https://www.uludagsozluk.com/k/oruspu-%C3%A7ocu%C4%9Fu-do%C4%9Fulmaz-olunur/&w=gd bkz imamoğlan
 https://www.uludagsozluk.com/k/s%C3%BCr%C3%BC-ba%C4%9F%C4%B1%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1/&w=bg
