@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/43150005/ zuhahahah
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bulan-d%C3%BCnya-ya-h%C3%BCkmeder/
 bkz zall ona hep oç derin yakışıklı devlet adamları klasörümü hacklemesi
 bkz erdonun yakışıklı resimlerini erdoyahşi klasörüne atmak
