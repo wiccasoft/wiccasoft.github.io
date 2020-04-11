@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
-https://www.uludagsozluk.com/ bkz mağara soğuk mu kardeş
+https://www.uludagsozluk.com/ bkz mağara soğuk mu ibneler
 bkz 31 ci homoseksüel ergenlerin annesini pornoda görmek
 bkz imamaoğlun zall hone hep oçe deri sikmeye hazır hissetmiyorum açıklaması
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
