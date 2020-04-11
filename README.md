@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz erdonun yakışıklı resimlerini erdoyahşi klasörüne atmak
 bkz şaka maka erdonun çok yakışıklı olması
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-erdo%C4%9Fan%C4%B1n-s%C3%BCreci-iyi-y%C3%B6netmesi/
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz efso devlet adamı
