@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/boris-johnson/&w=bg adam ajan beyler
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/ezel-vs-behzat-%C3%A7/&w=bg ezel hopplatır kankağ
 https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz kadir mısıroğlucu
