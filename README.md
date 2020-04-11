@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-atacücü küçük pipili olmak sevmemek 
+atacücü küçük pipili olmak ben sevmemek 
 rte ikinci atacücü olmak ben çok sevmek
 johny sins kel olmak ger götü ellemek
 mbaye dyagne çok eşli olmak ben çok sevmek ben cuckold
