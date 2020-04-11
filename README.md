@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz selanikten adam çıkmaması sorunsalı
+https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
 bkz kmısıroğlu vs mkısıroğlu
 bkz ahmet dovatoğlu vs babacanoğlu
 bkz ali babacanın babacan bi adam olduğu iddaları
