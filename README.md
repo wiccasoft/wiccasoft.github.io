@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/ bkz ergen homoların güldürmesi
 https://www.uludagsozluk.com/ bkz mağara soğuk mu ibneler
 bkz 31 ci homoseksüel ergenlerin annesini pornoda görmek
 bkz imamaoğlun zall hone hep oçe deri sikmeye hazır hissetmiyorum açıklaması
