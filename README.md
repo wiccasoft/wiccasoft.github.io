@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz 13. cumburlop başkanı ali babacan
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg adam ajan beyler
 https://www.uludagsozluk.com/ bkz ergen homoların güldürmesi
 https://www.uludagsozluk.com/ bkz mağara soğuk mu ibneler
