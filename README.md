@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+atacücü küçük pipili olmak sevmemek 
 rte ikinci atacücü olmak ben çok sevmek
 atacücü 161 olmak rte 185 olmak
 johny sins kel olmak ger götü ellemek
