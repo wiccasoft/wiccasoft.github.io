@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+osman öclana canlı yayın çıkarmak skandal
 naz mila canlı yayın skandal yapmak
 devlet adamılar çokomelli çok seviyor ben
 devlet adamları çok babacan olmak
