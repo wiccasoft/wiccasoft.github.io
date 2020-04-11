@@ -3,6 +3,7 @@
 
 <!-- 
 bkz çavuşoğlu vs çavuşesku
+bkz kadir mısıroğlu vs mısır arpaoğlu
 bkz rte nin soya bakmaz boya bakar boya demesi
 bkz imamoğlunun yeni ilişkiye hazır hissetmiyorum açıklaması
 https://www.uludagsozluk.com/k/y%C3%BCksek-lisansl%C4%B1ya-kafa-tutan-%C3%B6nlisanl%C4%B1/ bkz burhan altıntop
