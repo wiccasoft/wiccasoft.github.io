@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/koray-avcı-nın-sakallarını-kesmesi/
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/ bkz cucukold
 https://www.uludagsozluk.com/k/oruspu-%C3%A7ocu%C4%9Fu-do%C4%9Fulmaz-olunur/&w=bg bkz imamoğlu
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/ bkz oç
 https://www.uludagsozluk.com/k/hz-muhammed/ bkz mağarada muhammedi kurtaran dişi örümcek
