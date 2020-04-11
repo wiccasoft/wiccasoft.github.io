@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+bkz berfin özekin geri çekmesi
 bkz davanın adamı çalışırken kk nın evde uppo içmesi
 bkz millet hizmet beklerken kk nın evde uppo içmesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz davanın adamı milletin adamı
