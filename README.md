@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+düşün ki babacan okuyor
 ali babadan olmak çok yahşi ben çok seviyor babacan
 süleyman soydan var pornocu olmak
 ben çok seviyor antalya alacak toprak
