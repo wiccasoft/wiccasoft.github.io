@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu/&w=bg bkz uğurlar olsun
 https://www.uludagsozluk.com/k/luppo-alan-day%C4%B1/ bkz mersinli dayı
 bkz devlet bahçeli cool luğu
 bkz devlet bahçelinni devlet adamlığı vs kk nın ezikliği
