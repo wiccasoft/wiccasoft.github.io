@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/alfa-erkek/&w=bg bkz zall ona hep abüüü der
 https://frank-lucas.uludagsozluk.com adam ajan beyler
-https://www.uludagsozluk.com/k/frank-lucas-and-his-mother/ adma ajan beyler
+https://www.uludagsozluk.com/k/frank-lucas-and-his-mother/ adam ajan beyler
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1zlarla-evcilik-oynayan-erkek-%C3%A7ocuk/&w=bg
 https://www.uludagsozluk.com/k/kanarya-da-polise-sald%C4%B1ran-pi%C3%A7lerin-son-halleri/
