@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/kim-jong-un-reyiz/
 https://www.youtube.com/watch?v=OIOqFBa7htQ
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz öl de baba öleleim eywallaah sev de baba sevelim eywallak
