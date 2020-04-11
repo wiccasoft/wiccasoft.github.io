@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz imamoğlunun hazır değilim açıklaması
 bkz süleyman soylu vs kanuni sultan süleyman
 bkz feslinin gençlik fotoları tıklağ galeriğ açılsın kankağ
 bkz gökyüzüne hükmeden yeryüzüne de hükmeder
