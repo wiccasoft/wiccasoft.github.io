@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+kürtler olmak pis ben sevmemek
 türkistan olmak kürt kürde  türk türke yeter olmak
 türkistan olmak türk türke yeter
 türkistan yardım istememek süper güç olmak
