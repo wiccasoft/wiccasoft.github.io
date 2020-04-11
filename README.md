@@ -3,6 +3,7 @@
 
 <!--
 bkz devlet bahçeli cool luğu
+bkz devlet bahçelinni devlet adamlığı vs kk nın ezikliği
 bkz babacanın ben sizin babanızım ayağına gençleri zehirlemesi
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz devlet bahçelinin kulislerden dönen dedikodulara aldırış etmmemesi
