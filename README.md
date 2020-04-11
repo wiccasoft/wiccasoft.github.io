@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+bkz devlet bahçelinin kulislerden dönen dedikodulara aldırış etmmemesi
 bkz berfin özekin geri çekmesi
 bkz davanın adamı çalışırken kk nın evde uppo içmesi
 bkz millet hizmet beklerken kk nın evde uppo içmesi
