@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz devlet bahçelinin karizmatik gençlik resimleri tıklağ galeriğ açılsın kankağ
 bkz fesli kalsörüne fesli resimleri atan genco
 bkz feslinin gençlik fotoları tıklağ kankağ hadi be kankağ
 bkz zall ona hep oç derin masaüstündeki imamoğlu klasörü
