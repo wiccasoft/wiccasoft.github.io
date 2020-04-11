@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz zall on hep oç derin hazırım açıklaması
 bkz imamoğlu hazır deilim açıklaması
 bkz zall ona hep oç der vs imamoğlu
 bkz devlet bahçeli yeni ilişkiye hazırım açıklaması
