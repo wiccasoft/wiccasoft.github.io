@@ -22,7 +22,7 @@ bkz burak çivitoğlan sessizlik korumak
 bkz merve boğulur boğulmak
 bkz ali babacan ben sizin baba demek
 bkz esra elönü imamönü şikayet geri alması
-bkz imamoğlan hazır değilim demesi
+bkz imamoğlan hazır değilim demek
 bkz osmanlının bana arazi satacak olması
 bkz siz türkiye çok şanslı rakı şiş kebap antalya kaş yine arazi alacak ben
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/&w=bg 
