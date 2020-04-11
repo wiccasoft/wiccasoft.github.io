@@ -3,11 +3,10 @@
 
 <!--
 ben var 18 cm kafası hariç
-ben var rasputin olmak kaleyi fethetmek
 ben var olmak imhotep yeniden dirilmek
 ben var tuttuğunu sikmek hipokrat yemin etmemek
 ben var kel olmak her götü ellemek 
-ben var devletleri silmek yeni dünya düzeni kurmak
+ben var devletleri silkmek yeni dünya düzeni kurmak
 ben var hayallerde yaşayanları gerçeklerle silkmek
 çomarlar hayallerde yaşamak sonraları kötü olmak
 türkü süper güç olamk dünya kıskanmak
