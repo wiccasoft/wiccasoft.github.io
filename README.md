@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+imamaoğlan hazır olmamak ben sevmemek
 kekolar saldırmak ümreciler ben sevmemek
 mansur olmak yavaş ben sevmemek yavaş
 kanarya saldırmak orozpular çocuk
