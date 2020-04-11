@@ -1,5 +1,5 @@
 
-[![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
+[![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
 bkz frank lucasın atacücüyü sevmemesi
