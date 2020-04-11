@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz milletin adamı dava adamı bahçeli
 bkz millet hizmet beklerken kknın osura osura uyuması
 bkz devlet bahçelinin hazırım açıklaması
 bkz süleyman soylu vs devlet bahçeli
