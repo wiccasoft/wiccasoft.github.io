@@ -1,6 +1,7 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 <!--
+https://www.uludagsozluk.com/k/alfa-erkek/&w=bg bkz zall ona hep abüüü der
 https://frank-lucas.uludagsozluk.com adam ajan beyler
 https://www.uludagsozluk.com/k/frank-lucas-and-his-mother/ adma ajan beyler
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg
