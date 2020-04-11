@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz devlet bahçeli yeni ilişkiye hazırım açıklaması
 bkz fesli bunak vs maymun götü
 https://www.uludagsozluk.com/k/feslinin-t%C3%BCrbans%C4%B1z-etekli-e%C5%9Fiyle-fotosu/
 bkz zall ona hep oç der vs imamoğlu
