@@ -3,6 +3,9 @@
 
 <!--
 bkz çok emelli işler daire başkanlığı
+bkz uzun adamın soyluya verdiği efso ayar
+bkz uzun adamın soya değil boya bakar boya açıklaması
+bkz uzun adamın imamoğlu ona hep oçe dere bi kurtu toğkek yollaması
 bkz imamaoğlu one hep oçe der vs ali babacan onun hep götünü siker
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oçe der
 https://www.uludagsozluk.com/k/domestik-ev-hanimi/&w=bg bkz zall ona hep oçe derin annesi
