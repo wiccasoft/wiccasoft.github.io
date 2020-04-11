@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://frank-lucas.uludagsozluk.com/ bkz atacücüyü sevmeyen tontiş çocuk
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg bkz 
 https://www.uludagsozluk.com/k/yatakta-doktorculuk-oynamak/&w=bg bkz nabıyonuz lan ibneler
 bkz amcalara pipsini gösteren çocuk
 https://www.uludagsozluk.com/k/k%C4%B1zlarla-evcilik-oynayan-erkek-%C3%A7ocuk/&w=bg
