@@ -4,6 +4,7 @@
 <!-- 
 bkz ali babacanın babacan bi adam olduğu iddaları
 bkz doğu perinçekin abdullah öcalan diye biri yok açıklaması
+https://www.cnnturk.com/video/turkiye/abdullah-ocalan-diye-bir-sahis-yok
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=gd bkz üstad
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-%C4%B1n-mit-ajan%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=bg
