@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ermeniler kolonya istemek türkiye süper güç olmak
 cücüler 1 milyon döt elletmek ben çok sevmek döt ellemek
 atacücü küçük pipili olmak ben sevmemek 
 rte ikinci atacücü olmak ben çok sevmek
