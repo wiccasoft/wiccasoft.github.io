@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
-bkz frank lucasın atacücüyü sevmiyoyum açıklaması
+https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz davanın hazır ve dik adamı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz hazır hissetmiyorum demesi
 https://www.uludagsozluk.com/k/ali-babacan/&w=gd bkz hakkın adamı halkın adamı
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz davanın babacan adamı
