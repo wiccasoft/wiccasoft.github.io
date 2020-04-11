@@ -2,8 +2,11 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz şaka maka madafaka
+https://cuckold-erkek.uludagsozluk.com/ bkz cucukold
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz cuckcold
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz imamoğlan
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-erdo%C4%9Fan%C4%B1n-s%C3%BCreci-iyi-y%C3%B6netmesi/
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 -->
 
