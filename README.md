@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz imamaoğlanın yeni bir ilişkiye  hazır hissetmiyorum açıklaması
 https://www.uludagsozluk.com/k/ali-babacan/ bkz halkın adamı dava adamı
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg bkz adam ajan beyler
 bkz imamaoğlanın yeni bir ilişkiye  hazır hissetmiyorum açıklaması
