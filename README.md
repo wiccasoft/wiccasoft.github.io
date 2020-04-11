@@ -2,14 +2,11 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 
 <!--
-bkz ali babacanın boris johnson davutoğlu koalisyon hükümetine ışık yakması
-bkz boris johnson ın lordlar kamarasını kapaması
-https://www.uludagsozluk.com/k/boris-johnson/&w=bg adam adanalı ve ajan beyler
 bkz frank lucasın atacücüyü sevmemesi
 bkz frank lucas clint eastwood benzerliği
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oçe der
 https://www.uludagsozluk.com/k/domestik-ev-hanimi/&w=bg bkz zall ona hep oç derin annesi
-bkz millet hizmet beklerken kk nın uppo içmesi
+bkz millet hizmet beklerken kk ile babaca nın uppo içmesi
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
