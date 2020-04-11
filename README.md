@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/ezel-vs-behzat-%C3%A7/&w=bg bkz behzat çe siker kankağ
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz hakkın adamı halkın adamı
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz davanın hazır ve dik adamı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz hazır hissetmiyorum demesi
