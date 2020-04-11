@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz 30 yaşında gelip hala hüplet içip entry giren ezik
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelip-hala-evlenmemi%C5%9F-tip/
 bkz zall ona hep oçe derin imamaoğlunu markaja alması
 bkz zall ona hep oç derin topke le hüplet içerken imamaoğluna gülmesi
 bkz zall ona hep oç der vs imamaoğlu
