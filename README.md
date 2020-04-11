@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz çok önenmli işler daire başkanlığı
 https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-ve-altyap%C4%B1-bakanl%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/ bkz aralıksız devlet adamlarına entry girmek
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz ölü
