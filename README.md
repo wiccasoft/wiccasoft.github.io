@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/mbaye-diagne-nin-çok-eşliyim-demesi/
 bkz devlet bahçelinin karizmatik gençlik resimleri tıklağ galeriğ açılsın kankağ
 bkz fesli kalsörüne fesli resimleri atan genco
 bkz feslinin gençlik fotoları tıklağ kankağ hadi be kankağ
