@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/ bkz aralıksız devlet adamlarına entry girmek
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz ölü
 https://www.uludagsozluk.com/ bkz aralıksız devlet adamlarına entry girmek
 https://www.uludagsozluk.com/k/y%C3%BCksek-lisansl%C4%B1ya-kafa-tutan-%C3%B6nlisanl%C4%B1/ bkz burhan altıntop
