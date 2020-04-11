@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ali babacan demek asıl sen pornocu soydan
 uzun adam soylu pornocu demek
 çin atom bombası atmak gerek
 ali babacan canlı yayın skandal soylı pornocu demek
