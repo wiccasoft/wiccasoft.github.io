@@ -4,7 +4,7 @@
 <!--
 ben var 18 cm kafası hariç
 ben var tuttuğunu sikmek hipokrat yemin etmemek
-ben var kel olmak her götü ellemek sikmek
+ben var kel olmak her götü ellemek 
 ben var devletleri silmek yeni dünya düzeni kurmak
 ben var hayallerde yaşayanları gerçeklerle silkmek
 çomarlar hayallerde yaşamak sonraları kötü olmak
