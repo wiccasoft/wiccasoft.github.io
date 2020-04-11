@@ -4,7 +4,6 @@
 <!--
 atacücü küçük pipili olmak sevmemek 
 rte ikinci atacücü olmak ben çok sevmek
-atacücü 161 olmak rte 185 olmak
 johny sins kel olmak ger götü ellemek
 mbaye dyagne çok eşli olmak ben çok sevmek ben cuckold
 younes belhanda takla atmak bwen çok sevmek
