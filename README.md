@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 
 <!--
+bkz boris johnson ın lordlar kamarasını kapaması
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg adam adanalı ve ajan beyler
 bkz frank lucasın atacücüyü sevmemesi
 bkz frank lucas clint eastwood benzerliği
