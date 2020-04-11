@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+bkz öl de baba öleleim eywallaah sev de baba sevelim eywallak
 bkz kerimcan durmazın açın kızlar arayı salıyom kobrayı demesi
 bkz kerimcan durmazı seninle beyle olabilirdik diyip malafatı sallamsı
 bkz şaka maka 28 yaşına girmek madafaka
