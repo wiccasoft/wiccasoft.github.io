@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+sogopa lajmer türkü fifti sent gibi olmak
 kızlar patlatıp kaçan erkek
 kızlar konuşmamak erkek
 ermenistan kolonya istemek
