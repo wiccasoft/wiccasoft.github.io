@@ -4,8 +4,7 @@
 <!-- 
 bkz chun li vs jet lee
 bkz çavuşoğlu vs çavuşesku
-bkz kadirmısıroğlu.com un hackenmesi
-bkz kadir mısıroğlu vs mısır arpaoğlu
+bkz kadir mısıroğlu vs mısır kadiroğlu
 bkz rte nin soya bakmaz boya bakar boya demesi
 bkz imamoğlunun yeni ilişkiye hazır hissetmiyorum açıklaması
 https://www.uludagsozluk.com/k/y%C3%BCksek-lisansl%C4%B1ya-kafa-tutan-%C3%B6nlisanl%C4%B1/ bkz burhan altıntop
