@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+ben var abdulmutalip benim ata
+https://www.uludagsozluk.com/k/benim-atam-abdulmuttaliptir/
 bkz dr erol köze kafayı çizmek
 bkz imamoğlu hazır değilim açıklama yapmak
 bkz nasreddin hoca yeni açıklama yapmak
