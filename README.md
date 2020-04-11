@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+çomarlar hayllerde yaşamak sonraları kötü olmak
 türkü süper güç olamk dünya kıskanmak
 virüsten sonra türkü süper güç olmak amerika kıskanmak
 ermeniler kolonya istemek türkiye süper güç olmak
