@@ -2,9 +2,11 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz şevkat yerimdardaki tellak
 bkz toğkek yerken imamoğlan güldürmesi
 bkz imamaoğlunun akboylara toğkek dağıtmaması
 bkz imamaoğlunun kendimi hazır hissetmiyorum demesi
+https://www.uludagsozluk.com/k/%C5%9Fevkat-yerimdar-daki-tellak/&w=bg
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlunun güldürdüğü lider
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/alfa-erkek/&w=bg bkz zall ona hep abüüü der
