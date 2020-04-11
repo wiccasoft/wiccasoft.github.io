@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz frank lucas vs yunan nikli lolcu kamalcı velet
 https://frank-lucas.uludagsozluk.com/ bkz atacücüyü sevmeyen tontiş çocuk
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg bkz 
