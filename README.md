@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+kekolar saldırmak kanarya cimbom
 slavaj zizek sevmemek
 sagopa kajmer dediği gibi olmak
 berfin zözek şikayet etmek ben sevmemek
