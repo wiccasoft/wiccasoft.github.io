@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz zall ona hep oç derin yakışıklı devlet adamları klasörümü hacklemesi
 bkz erdonun yakışıklı resimlerini erdoyahşi klasörüne atmak
 bkz şaka maka erdonun çok yakışıklı olması
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-erdo%C4%9Fan%C4%B1n-s%C3%BCreci-iyi-y%C3%B6netmesi/
