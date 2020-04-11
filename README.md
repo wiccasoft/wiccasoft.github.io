@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-kekolar saldırmak devlet
 kekolar saldırmak polis ben çok üzülmek
 lıppo dayı  ya diss atan keko olmak kaka
 kürd kürde yeter olmak ben sevmemek
