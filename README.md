@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz ali babacndaki babacan tavırlara kanmak
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 https://www.uludagsozluk.com/k/k-m%C4%B1s%C4%B1ro%C4%9Flu-yalan-s%C3%B6yl%C3%BCyorsa-niye-%C3%A7%C4%B1ld%C4%B1r%C4%B1yorsunuz/&w=gd
 https://www.uludagsozluk.com/k/kim-jong-un-reyiz/
