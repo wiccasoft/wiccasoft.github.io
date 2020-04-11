@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz kızlar konuşmamak erkek
 kızlarla pipi gösteremeyn erkek olmak
 ermenistan kolonya istemek türkler
 bamya pipili erkek olmak türkler ben çok gülmek
