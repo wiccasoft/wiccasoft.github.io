@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/ezel-vs-behzat-%C3%A7/&w=bg ezel hopplatır kankağ
 https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz kadir mısıroğlucu
 https://www.uludagsozluk.com/k/sevi%C5%9Ftikten-sonra-%C5%9Fefkat-bekleyen-kad%C4%B1n/ bkz zallın annesi
