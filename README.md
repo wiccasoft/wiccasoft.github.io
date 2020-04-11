@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn-a%C5%9F%C4%B1s%C4%B1n%C4%B1-bulan-d%C3%BCnya-ya-h%C3%BCkmeder/
 bkz zall ona hep oç derin yakışıklı devlet adamları klasörümü hacklemesi
 bkz erdonun yakışıklı resimlerini erdoyahşi klasörüne atmak
 bkz şaka maka erdonun çok yakışıklı olması
