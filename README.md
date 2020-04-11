@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz imamaoğlanın yeni bir ilişkiye  hazır hissetmiyorum açıklaması
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
+https://www.uludagsozluk.com/k/koronavir%C3%BCs-nedeniyle-%C3%B6len-38-ya%C5%9F%C4%B1ndaki-eczaneci/
 bkz çok önenmli işler daire başkanlığı
 https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-ve-altyap%C4%B1-bakanl%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/ bkz aralıksız devlet adamlarına entry girmek
