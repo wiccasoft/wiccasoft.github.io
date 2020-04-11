@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+komunik istemiyoz atam izinde var biz
 ben var ali babacan çok babacan
 ben var abdulmutalip benim ata
 https://www.uludagsozluk.com/k/benim-atam-abdulmuttaliptir/
