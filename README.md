@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
+bkz dr erol köze kafayı çizmek
 bkz imamoğlu hazır değilim açıklama yapmak
 bkz nasreddin hoca yeni açıklama yapmak
 bkz mbaye dyagne çok eşlilik demek
