@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz amcalara pipsini gösteren çocuk
+https://www.uludagsozluk.com/k/k%C4%B1zlarla-evcilik-oynayan-erkek-%C3%A7ocuk/&w=bg
 bkz bamya gibi pipileriyle hala entry giren bebeler
 bkz kerimcan durmazın malafatı vs sözlük bebelerinn bamyası
 https://www.uludagsozluk.com/k/k%C4%B1zlarla-evcilik-oynayan-erkek-%C3%A7ocuk/&w=bg 
