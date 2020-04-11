@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz ahmet dovatoğlu vs babacanoğlu
 bkz ali babacanın babacan bi adam olduğu iddaları
 bkz doğu perinçekin abdullah öcalan diye biri yok açıklaması
 https://www.cnnturk.com/video/turkiye/abdullah-ocalan-diye-bir-sahis-yok
@@ -9,6 +10,7 @@ https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=gd bkz üstad
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-%C4%B1n-mit-ajan%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/berfin-%C3%B6zek-in-%C5%9Fikayetini-geri-%C3%A7ekmesi/&w=bg
 bkz kmisiroğlunun maymun ettiğ iisimler
+https://www.uludagsozluk.com/k/ali-davuto%C4%9Flu-ahmet-g%C3%BCl-abdullah-babacan/
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz millet hizmet beklerken kk nın uppo içmesi
 -->
