@@ -3,8 +3,7 @@
 
 <!--
 ermenistan kolonya istemek türkler
-türkler bamya pipili olmak var ben çok gülmek
-bamya pipili erkek olmak türkistan ben çok gülmek
+bamya pipili erkek olmak türkler ben çok gülmek
 kızlara konuşamak utanan oğlan olmak ben sevmemek
 imamoğlan ona hep oç demek ben çok üzülmek
 imamoğlan ona oç  demek imamoğlan kaka olmak
