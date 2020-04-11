@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamoğlunun güldürdüğü lider
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz çok emelli işler daire bakanlığı
 bkz çokemelli işler daire başkanlığüı sebeiyle ölen genç
 https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-ve-altyap%C4%B1-bakanl%C4%B1%C4%9F%C4%B1/&w=bg
