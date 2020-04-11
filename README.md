@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz cuckcold
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz imamoğlan
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-erdo%C4%9Fan%C4%B1n-s%C3%BCreci-iyi-y%C3%B6netmesi/
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
+https://www.uludagsozluk.com/k/muhalefetin-bokunu-%C3%A7%C4%B1karan-ek%C5%9Fi-yazarlar%C4%B1/
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
