@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-imamaoğlu hazır hissetmemek açıklama
+nasreddin hoca olmak verry funny guy ben çok sevmek
+imamoğlu hazır hissetmemek açıklama
 nareddin hoca yapma açıklama
 nasreddin hoca olmak verry funny guy
 amerika yalvarmak türkiye yardım istemek
