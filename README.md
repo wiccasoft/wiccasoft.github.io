@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz 10 nisan 2020 devlet bahçeli bahçeli mansiyona hazırım açıklaması
 bkz millet hizmet beklerken kknın osura osura uyuması
 bkz 10 nisan 2020 devlet bahçelinin tek dünya devleti müjdesini vermesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz devletin başına devlet geçecek
