@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz devletin başına devlet geçcek
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
 bkz imamaoğlunun hazır değilim açıklması
 bkz fatih tezcandan fatih terime işini yap uyarısı
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
