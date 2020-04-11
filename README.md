@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+sagopa kajmer dinlememiş gençler çok keko olmak
 kekolar saldırmak kanarya cimbom
 slavaj zizek sevmemek
 sagopa kajmer dediği gibi olmak
