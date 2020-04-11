@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz zall ona hep oç der vs imamaoğlu
+https://zall-bana-hep-abi-der.uludagsozluk.com/
 bkz imamaoğlanın yeni ilişkiye hazır değilim açıklaması
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz eski kagb ajanı
