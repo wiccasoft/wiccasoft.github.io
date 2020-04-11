@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://frank-lucas.uludagsozluk.com adam ajan beyler frank üzümü gibi bişi
 bkz memolideki yağlı saçlı polis
 bkz şevkat yerimdardaki tellak
 bkz toğkek yerken imamoğlan güldürmesi
