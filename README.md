@@ -3,6 +3,7 @@
 
 <!--
 bkz çok emelli işler daire bakanlığı
+bkz çokemelli işler daire başkanlığüı sebeiyle ölen genç
 https://www.uludagsozluk.com/k/ula%C5%9Ft%C4%B1rma-ve-altyap%C4%B1-bakanl%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz imamaoğlanın yeni bir ilişkiye  hazır hissetmiyorum açıklaması
