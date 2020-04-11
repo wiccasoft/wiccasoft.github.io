@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+berfin zöek şikayet etmek ben sevmemek
 yılmaz morgül balon olmak
 sogopa lajmer türkü fifti sent gibi olmak
 kızlar patlatıp kaçan erkek
