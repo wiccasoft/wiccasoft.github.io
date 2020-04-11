@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+https://www.uludagsozluk.com/k/luppo-alan-day%C4%B1/ bkz mersinli dayı
 bkz devlet bahçeli cool luğu
 bkz devlet bahçelinni devlet adamlığı vs kk nın ezikliği
 bkz babacanın ben sizin babanızım ayağına gençleri zehirlemesi
