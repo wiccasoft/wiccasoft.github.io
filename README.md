@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-türkistan asprin göndermek ermenistan
+türkistan olmak çok yardım sever yollamak kolonya
 ermenistan tıbbi yardım istemek türkistan
 recep tayyip erdoğan olmak ümmet lider biz çok sevmek
 kürdistan çok sevmek türkistan
