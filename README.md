@@ -5,7 +5,7 @@
 bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
-bkz imamaoğlanın zall ona hep oç der ile ilişkiye hazır değilim açıklaması
+bkz imamoğlanın zall ona hep oç der ile ilişkiye hazır değilim açıklaması
 https://www.uludagsozluk.com/k/tengirin-yeniden-ak-partiye-yanlamas%C4%B1/
 https://www.uludagsozluk.com/k/tengir-e-ayar-entrylerine-s%C3%BCrekli-gelen-4-eksi/
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
