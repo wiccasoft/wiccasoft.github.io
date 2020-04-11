@@ -3,6 +3,7 @@
 
 <!--
 bkz rte nin sevilesi yerleri
+bkz devlet adamını yalarken odaya annenin girmesi
 https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BC-sevmiyorum/&w=bg
 bkz sözlük ergenlerinin annelerine topkek le kandırıp sikmek
