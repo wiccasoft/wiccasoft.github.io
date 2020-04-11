@@ -5,6 +5,7 @@
 bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
+bkz zall ona hep oç derin stokladığı toğkekler koka kolalar
 bkz zall ona hep oç derin imamaoğluna bakarak topkek yemesi
 bkz imamoğlanın zall ona hep oç deri siklemediği gerçeği
 bkz imamoğlanın zall ona hep oç der ile ilişkiye hazır değilim açıklaması
