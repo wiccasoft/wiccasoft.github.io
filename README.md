@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz feslinin alpaslan türkeşle olan fotosu
 bkz zall ona hep oç der vs imamaoğlu
 bkz zall ona hep oç derin hazırım açıklaması
 bkz imamoğlu hazır deilim açıklaması
