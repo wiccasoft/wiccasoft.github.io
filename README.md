@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz zulüm 1071 de başladı
 bkz selanikten adam çıkmaması sorunsalı
 bkz keşkek yunana galip geseydi konusunda izah
 https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
