@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+nasreddin hoca olmak verry funny guy
 amerika yalvarmak türkiye yardım istemek
 uzun adam demek soydan soya değil boya bakar boya
 ali babacan demek asıl sen pornocu soydan
