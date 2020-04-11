@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!--
+bkz şaka maka 28 yaşına girmek madafaka
 bkz 30 yaşında gelip hala entry girmeyen ezik
 bkz kulislerde devlet bahçeli tapeleri olduğu iddaları
 bkz ali babacanın babacan tavırları
