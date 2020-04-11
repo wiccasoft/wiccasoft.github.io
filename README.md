@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-mansur olmak yavaş vben sevmemek yavaş
-kanaryda saldırmak orozpular çcouklara
+mansur olmak yavaş ben sevmemek yavaş
+kanarya saldırmak orozpular çocuk
 imamoğlam olmak kürtçü ben sevmemek
 kürtler olmak keko ben sevmemek
 kanarya kekeolar saldırmak ümerciler ben çok kızmak
