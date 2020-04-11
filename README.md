@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
+bkz mbaye dyagne çok eşlilik demek
 bkz burak çivitoğlan sessizlik korumak
 bkz merve boğulurun boğulması
 bkz esra elönü imamönü şikayet geri alması
