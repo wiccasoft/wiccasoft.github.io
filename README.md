@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/lionel-messi/&w=bg bkz keçi
 bkz rte nin sevilesi yerleri
 bkz devlet adamını yalarken odaya annenin girmesi
 https://www.uludagsozluk.com/k/selanik-te-do%C4%9Fan-t%C3%BCrk-olur-mu/&w=bg
