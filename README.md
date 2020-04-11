@@ -4,6 +4,7 @@
 <!-- 
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
+https://www.uludagsozluk.com/k/muhalefetin-bokunu-%C3%A7%C4%B1karan-ek%C5%9Fi-yazarlar%C4%B1/ bkz the web of life
 https://www.uludagsozluk.com/k/oruspu-%C3%A7ocu%C4%9Fu-do%C4%9Fulmaz-olunur/&w=gd bkz imamoğlan
 https://www.uludagsozluk.com/k/s%C3%BCr%C3%BC-ba%C4%9F%C4%B1%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/koray-avcı-nın-sakallarını-kesmesi/
