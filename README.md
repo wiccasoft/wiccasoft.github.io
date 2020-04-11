@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz muhammedin sakalı şerifi
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz mbaye dyagne vs messi leonele
 https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
