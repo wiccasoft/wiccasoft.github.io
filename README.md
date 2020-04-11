@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz ali baba ve yedi cücülür
+bkz nasreddin hoca vs fahreddin koca
 https://www.uludagsozluk.com/k/koray-avcı-nın-sakallarını-kesmesi/
 https://www.uludagsozluk.com/k/bah%C3%A7eye-%C3%A7%C4%B1kmak-yasak-m%C4%B1-sorunsal%C4%B1/ bkz devlet bahçeli
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/ bkz cucukold
@@ -10,7 +12,6 @@ https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum
 https://www.uludagsozluk.com/k/hz-muhammed/ bkz mağarada muhammedi kurtaran dişi örümcek
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-bebeler/ güldürürler evet
 https://www.uludagsozluk.com/k/t%C3%BCrk-milleti-zekidir/&w=bg bkz zuhahahahahhaah
-bkz ali baba ve yedi cücülür
 bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
 bkz kerimcan durmazın salıyom kobrayı açın kızlar arayı demesi
 https://www.uludagsozluk.com/k/kerimcan-durmaz%C4%B1n-tehdit-edilmesi/
