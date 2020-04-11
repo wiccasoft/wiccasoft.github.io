@@ -4,10 +4,10 @@
 <!-- 
 bkz cucuk19 vs covid19
 bkz 1881 atacücü 18+81 = 99 - 81 vileyat - batman = cucuk19
+bkz kerimcan durmazın salıyom kobrayı açın kızlar arayı demesi
 bkz millet hizmet beklerken kk nın osura osura uyumasu
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
 bkz thomas shelby kerimcan durmaz benzerliği
-bkz kerimcan durmazın salıyom kobrayı açın kızlar arayı demesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ 
 bkz şaka maka madafaka
 https://cuckold-erkek.uludagsozluk.com/ bkz cucukold
