@@ -12,7 +12,7 @@ ermenistan yalvarmak türkiye yardım
 recep tayyi erdoğan olmak ümmet lider biz çok sevmek
 nasreddin hoca olmak verry funny guy ben çok sevmek
 imamoğlu hazır hissetmemek açıklama
-nareddin hoca yapma açıklama
+nareddin hoca yapmak açıklama
 nasreddin hoca olmak verry funny guy
 amerika yalvarmak türkiye yardım istemek
 uzun adam demek soydan soya değil boya bakar boya
@@ -21,10 +21,9 @@ uzun adam soylu pornocu demek
 çin atom bombası atmak gerek
 ali babacan canlı yayın skandal soylı pornocu demek
 naz mila canlı yayın skandal yapmak
-devlet adamılar çokomelli çok seviyor ben
+devlet adamlar çokomelli çok seviyor ben
 devlet adamları çok babacan olmak
 devlet adamları çok seviyor ben çokomelli
-devlet adamlar var çokomelli
 devlet adamları olmak çokomelli
 devlet bahçeli devlet adamı olmak ben çok sevmek
 devlet adamı olmak çokomelli iş olmak
