@@ -9,7 +9,7 @@ bkz imamoğlanın zall ona hep oç der ile ilişkiye hazır değilim açıklamas
 https://www.uludagsozluk.com/k/tengirin-yeniden-ak-partiye-yanlamas%C4%B1/
 https://www.uludagsozluk.com/k/tengir-e-ayar-entrylerine-s%C3%BCrekli-gelen-4-eksi/
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
-https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlunun güldürdüğü abi
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz güldüren bi oç evet
 bkz imamoğlanın kendimi yeni bir ilişkiye hazır hissetmiyorum açıklması demesi
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz şaka maka iyi ki 2 litre koka kola stoklamışım denilen anlar
