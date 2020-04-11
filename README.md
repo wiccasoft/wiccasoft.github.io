@@ -1,7 +1,8 @@
 
-[![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
+[![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+https://www.youtube.com/watch?v=OIOqFBa7htQ
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz ben sizin babanızım
 bkz öl de baba öleleim eywallaah sev de baba sevelim eywallak
 bkz kerimcan durmazın açın kızlar arayı salıyom kobrayı demesi
