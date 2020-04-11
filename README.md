@@ -3,6 +3,7 @@
 
 <!--
 bkz imamaoğlunun akboylara toğkek dağıtmaması
+bkz imamaoğlunun kendimi hazır hissetmiyorum demesi
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlunun güldürdüğü lider
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/alfa-erkek/&w=bg bkz zall ona hep abüüü der
