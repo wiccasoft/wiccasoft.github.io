@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz zall ona hep oçe derin imamaoğlunu markaja alması
 bkz zall ona hep oç derin topke le hüplet içerken imamaoğluna gülmesi
 bkz zall ona hep oç der vs imamaoğlu
 https://zall-bana-hep-abi-der.uludagsozluk.com/
