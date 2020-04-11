@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
+bkz merve boğulurun boğulması
 bkz esra elönü imamönü şikayet geri alması
 bkz imamoğlan hazır değilim demesi
 bkz osmanlının bana arazi satacak olması
