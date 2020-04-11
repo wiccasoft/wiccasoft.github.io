@@ -3,6 +3,7 @@
 
 <!--
 düşün ki babacan okuyor
+ali babacan okumak
 ali babadan olmak çok yahşi ben çok seviyor babacan
 süleyman soydan var pornocu olmak
 ben çok seviyor antalya alacak toprak
