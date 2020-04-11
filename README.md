@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-ali babacan olmak çok babacan evet
 ali babacan var çok babacan olmak
 süleyman soydan var pornocu olmak 
 erol köse var pornocu olmak
