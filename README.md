@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+türkler bamya pipili olmak var ben çok gülmek
 bamya pipili erkek olmak türkistan ben çok gülmek
 kızlara konuşamak utanan oğlan olmak ben sevmemek
 imamoğlan ona hep oç demek ben çok üzülmek
