@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=82XaMl2S4eE )
 
 <!--
+bkz rece tayyip erdoğan zall ona abi demek
 bkz mbaye dyagne çok eşlilik demek
 bkz burak çivitoğlan sessizlik korumak
 bkz merve boğulur boğulmak
