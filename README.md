@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz chun li nin anti virüs bulana göt verecem açıklaması
 bkz chun li vs jet lee
 bkz çavuşoğlu vs çavuşesku
 bkz kadir mısıroğlu vs mısır kadiroğlu
