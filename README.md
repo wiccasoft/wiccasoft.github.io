@@ -5,7 +5,8 @@
 bkz şaka maka madafaka
 bkz ali baba ve yedi cücülür
 bkz nasreddin hoca vs fahreddin koca
-bkz imamaoğlanın kendimi yeni bir ilişkiye hazır hissetmiyorum demesi
+bkz imamoğlanın kendimi yeni bir ilişkiye hazır hissetmiyorum açıklması demesi
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-kendimi-haz%C4%B1r-hissetmiyorum-a%C3%A7%C4%B1klamas%C4%B1/
 bkz şaka maka iyi ki 2 litre koka kola stoklamışım denilen anlar
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
 https://www.uludagsozluk.com/k/muhalefetin-bokunu-%C3%A7%C4%B1karan-ek%C5%9Fi-yazarlar%C4%B1/
