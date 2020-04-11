@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz kmısıroğlu vs mkısıroğlu
 bkz ahmet dovatoğlu vs babacanoğlu
 bkz ali babacanın babacan bi adam olduğu iddaları
 bkz doğu perinçekin abdullah öcalan diye biri yok açıklaması
