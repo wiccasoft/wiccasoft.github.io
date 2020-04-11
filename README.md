@@ -3,6 +3,7 @@
 
 <!-- 
 bkz thomas shelby kerimcan durmaz benzerliği
+bkz kerimcan durmazın salıyom kobrayı açın kızlar arayı demesi
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ 
 bkz şaka maka madafaka
 https://cuckold-erkek.uludagsozluk.com/ bkz cucukold
