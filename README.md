@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 <!-- 
+bkz devlet bahçelinin tesbihi
 bkz adamı madam yaparız madam
 bkz uzun adamın soyluya verdiği efso ayar
 bkz vahdettinin etek giyip ingilizlere kaçması
