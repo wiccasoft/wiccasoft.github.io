@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz mbaye dyagne vs messi leonele
+https://www.uludagsozluk.com/k/mbaye-diagne-nin-%C3%A7ok-e%C5%9Fliyim-demesi/
 https://www.uludagsozluk.com/k/lionel-messi/&w=bg bkz keçi
 bkz rte nin sevilesi yerleri
 bkz devlet adamını yalarken odaya annenin girmesi
