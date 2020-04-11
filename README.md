@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-imamoğlan ona oç demek ben çok üzülmek
+imamoğlan ona hep oç demek ben çok üzülmek
 imamoğlan ona oç der imamoğlan kaka olmak
 imamoğlan hazır olmamak zall ona oç der sevmemek
 kekolar saldırmak ümreciler ben sevmemek
