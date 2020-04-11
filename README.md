@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz borsi johnson vs kraliçe elizabeth
 bkz manuş baba vs ali babuşcan
 bkz 13. cumburlop başkanı ali babacan
 https://www.uludagsozluk.com/k/boris-johnson/&w=bg adam ajan beyler
