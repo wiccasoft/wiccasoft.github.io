@@ -3,7 +3,7 @@
 
 <!--
 johny sins kel olmak ger götü ellemek
-mbaye dyagne çok eşli olmak ben ona karıyı siktirmek çok sevmek ben cuckold
+mbaye dyagne çok eşli olmak ben çok sevmek ben cuckold
 younes belhanda takla atmak bwen çok sevmek
 cüclerin pipisi bamya gibi olmak hep işlevi demek
 atacücü 161 olmak ben çok gülmek
