@@ -1,6 +1,14 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
+<!--
+bkz imamaoğlu ona hep oç derin topkeki fazla kaçırması
+bkz çomarların götlerini milyonluk sanmaları
+bkz çomarların kendilerini çok değerli sanmaları
+https://www.uludagsozluk.com/k/1-milyon-tl-ye-g%C3%B6t%C3%BCn%C3%BCz%C3%BC-elletir-misiniz-sorunsal%C4%B1/&w=gd 
+-->
+
+
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
