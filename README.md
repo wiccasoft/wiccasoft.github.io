@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz ben var hayallerle yaşayanları gerçeklerle silkmek
 bkz virüsten sonra yapay zekanın ananızı sikeceği gerçeği
 bkz tıp ve astronomi dışındaki herşeyin çöp olduğu gerçeği
 https://www.uludagsozluk.com/k/avukat/&w=bg yapay zekanın halledeceği en kolay işlerden biri
