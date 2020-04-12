@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-oronzcu çocuklarına gülmek tabi ki
+oronzcu çocuklarına gülmek tabi ki evet
 https://www.uludagsozluk.com/k/gece-3-de-s%C3%B6zl%C3%BCkte-dola%C5%9Fan-k%C4%B1z%C4%B1n-amac%C4%B1/&w=bg
 bkz çomarların götlerini milyonluk sanmaları
 bkz imamaoğlu ona hep oç derin topkeki fazla kaçırması
