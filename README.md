@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz çomarlardaki özgüven
 bkz leş gibi götlerinin para edeceğini sanan peçete artıkları
 https://www.uludagsozluk.com/k/1-milyon-tl-ye-g%C3%B6t%C3%BCn%C3%BCz%C3%BC-elletir-misiniz-sorunsal%C4%B1/&w=gd 
 -->
