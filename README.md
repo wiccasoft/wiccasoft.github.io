@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz tıp ve astronomi dışındaki herşeyin çöp olduğu gerçeği
 https://www.uludagsozluk.com/k/avukat/&w=bg yapay zekanın halledeceği en koalyu işlerden biri
 oronzbu çocuklarına gülmek tabi ki evet
 https://www.uludagsozluk.com/k/gece-3-de-s%C3%B6zl%C3%BCkte-dola%C5%9Fan-k%C4%B1z%C4%B1n-amac%C4%B1/&w=bg
