@@ -5,10 +5,6 @@
 bkz ben var hayallerle yaşayanları gerçeklerle silkmek
 bkz virüsten sonra yapay zekanın ananızı sikeceği gerçeği
 bkz tıp ve astronomi dışındaki herşeyin çöp olduğu gerçeği
-https://www.uludagsozluk.com/k/avukat/&w=bg yapay zekanın halledeceği en kolay işlerden biri
-oronzbu çocuklarına gülmek tabi ki evet
-https://www.uludagsozluk.com/k/gece-3-de-s%C3%B6zl%C3%BCkte-dola%C5%9Fan-k%C4%B1z%C4%B1n-amac%C4%B1/&w=bg
-bkz çomarların götlerini milyonluk sanmaları
 bkz imamaoğlu ona hep oç derin topkeki fazla kaçırması
 https://www.uludagsozluk.com/k/1-milyon-tl-ye-g%C3%B6t%C3%BCn%C3%BCz%C3%BC-elletir-misiniz-sorunsal%C4%B1/&w=gd 
 -->
