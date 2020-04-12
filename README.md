@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
-<!-- https://www.uludagsozluk.com/k/1-milyon-tl-ye-g%C3%B6t%C3%BCn%C3%BCz%C3%BC-elletir-misiniz-sorunsal%C4%B1/&w=bg 
+<!-- 
+https://www.uludagsozluk.com/k/gavat-nedir-kime-denir/&w=bg bkz fesli alagavat
+https://www.uludagsozluk.com/k/1-milyon-tl-ye-g%C3%B6t%C3%BCn%C3%BCz%C3%BC-elletir-misiniz-sorunsal%C4%B1/&w=bg 
 bkz bir milyon liralık göt kimin sorunsalı
 -->
 
