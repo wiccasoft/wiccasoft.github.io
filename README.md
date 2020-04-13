@@ -1,6 +1,30 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
+<!-- 
+bkz fatih tezcan istifa tiyatrosu
+bkz fatih tezcandan ekreme işparklar noldu ayarı
+bkz fatih tezcan ın atacücüye yahudi subay demesş
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz manüpülasyon ustası üstad
+bkz fatih tezcanın gündemi değiştirmek için polemik yaratması
+bkz fatih tezcan dan atacücü 161 boyla nasıl subay oldu polemiği
+bkz fatih tezcan dan fatih terime işin yap uyarısı
+bkz fatih terim atacücü güzellemesi
+bkz fatih terimin atacücü ve mevlanaya küfretmesi
+bkz sagopa türkiyenin fifti sentidir
+bkz ekrem ona hep oçe derin ded bi şarkısında dediği gibi
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
+https://zall-bana-hep-abi-der.uludagsozluk.com bkz ekrem ona hep oçe der
+bkz ekremin hazır değilim açıklaması
+bkz sedat kapanoğlu sedat peker fotosu
+bkz poalt alemdar sedat peker benzerliği
+bkz sedat pekerin yırtdışında gitmesi
+bkz fatih tezcan murat karayılan güzellemesi
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/sedat-peker-in-okumak-i%C3%A7in-yurtd%C4%B1%C5%9F%C4%B1na-gitmesi/ -->
+
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
