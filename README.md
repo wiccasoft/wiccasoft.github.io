@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ruhi çenetin türk yütübür olduğu söylentileri
 bkz ruhi çenetin enes baturla kankağ olması
 bkz ruhi çenet enes batur ortak yayını
 bkz ruhi çenet testere necmi benzerliği
