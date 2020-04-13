@@ -2,7 +2,6 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz derin diğercinin 42 yaşına basması
 bkz derin diğercinin erkek halinin şeylere benzemesi
 bkz derin diğercinin doğum günü pastasından çıkma süprüzü
 bkz derin diğerci derimcan durmaz dostluğu
