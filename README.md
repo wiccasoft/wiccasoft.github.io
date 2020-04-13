@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz alattin çakıcı sedat peker polat alemdar
+bkz efso hırtlar vadisi diyalogları
 bkz mafya babaları ve devlet adamları ilişkileri
 bkz ekrem süleyman fatih şeytan üşgeni
 bkz türkiyenin suni gündeminin çok sıkıcı olması
