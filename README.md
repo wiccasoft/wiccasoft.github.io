@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://mr-erecto.uludagsozluk.com/ bkz ağır gay
+https://www.uludagsozluk.com/k/s%C4%B1rbistan-kral%C4%B1-majesteleri-1nci-peter/
 https://www.uludagsozluk.com/k/gayl%C4%B1k-utan%C4%B1lacak-bir-%C5%9Fey-midir/
 bkz mafya babası tarafından sikilmeyi hayal eden ak boylar
 bkz hırtlar vadisi ile büyümüş mafya özentisi neslin güldürmesi
