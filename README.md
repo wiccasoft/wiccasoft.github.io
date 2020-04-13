@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ecdaddı osmanlıya dayanmak
 bkz rall koş sülüman sosluyu yiyecekler
 bkz sülüman sosluyu yedirmem
 bkz şeyh bedrettin isyanı
