@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz isanın oçe olduğu gerçeği
+https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg
 bkz 162 boyundaki oçe ye ulu önder demek
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-%C3%BC-3-kelimeyle-anlat/&w=bg bkz o ç e
 https://www.uludagsozluk.com/k/osmanl%C4%B1-ecdad%C4%B1m%C4%B1z-de%C4%9Fildir/&w=bg bkz oçe
