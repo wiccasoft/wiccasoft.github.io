@@ -1,7 +1,7 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
+<!--bkzderin diğerciye yapılan güllü doğum günü süprüzü
 bkz derin diğerci derincan durmaz doğum günü partisi
 bkz derin diğercinin erkek halinin şeylere benzemesi
 bkz derin diğercinin doğum günü pastasından çıkma süprüzü
