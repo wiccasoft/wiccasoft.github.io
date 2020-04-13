@@ -6,8 +6,7 @@ bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
 bkz 13. cumburlop maaşına göz dikmek
 bkz sare duvutoğlu semiha yıldırım dostluğu
-bkz çokomelli işler bakanlığının boşalması
-bkz süleyman soylu bekçi maaşlarını düzeltme sözü vermesi
+bkz soylunun çokomelli işler bakanlığına göz dikmek için tiyatro oynaması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
 -->
