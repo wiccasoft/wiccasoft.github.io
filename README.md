@@ -7,7 +7,7 @@ bkz reisin soyluyu yemesinler diye rall'a bi kutu topkek yollaması
 https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan tombul ak çomar
 https://rall.uludagsozluk.com/ bkz sen kimsin amk topkekini ye otur velet evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
-bkz sözlük bebelerinin tavsiye verecek yaşa gelmeleri
+bkz liseli  bebelerin tavsiye verecek yaşa gelmeleri
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
 bkz 13 nisan 2020 efso soylu geri vitesi
