@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz rallın süslüma soslunun kakasını yerim demesi
+bkz rallın sülüman soslunun kakasını yerim demesi
 bkz imamoğlu ona hep oçe derin kaka yı yedirmem çıkışı
 bkz millet hizmet beklerken kaka nın osura osura uyuması
 bkz ali babacanın ben sizin babanızım ben ne dersem o olur demesi
