@@ -3,6 +3,7 @@
 
 <!--
 bkz soya değil boya bakar boya
+bkz reisin soyluya verdiği efso ayar
 bkz 13. cumburlop maaşına göz dikmek
 bkz sare duvutoğlu semiha yıldırım dostluğu
 bkz çokomelli işler bakanlığının boşalması
