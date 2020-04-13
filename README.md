@@ -8,7 +8,7 @@ https://mr-erecto.uludagsozluk.com/ bkz ağır gay
 https://rall.uludagsozluk.com bkz ağır gay
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz ultra gay
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal
-https://le-siradan-siradam.uludagsozluk.com/ bkz mafyua babası hayranı pasif oğlan 
+https://le-siradan-siradam.uludagsozluk.com/ bkz mafya babası hayranı ağır gay
 https://www.uludagsozluk.com/k/hilal-b%C4%B1y%C4%B1kl%C4%B1-kom%C3%BCnist-parkal%C4%B1-gen%C3%A7/
 -->
 
