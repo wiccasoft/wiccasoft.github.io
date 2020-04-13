@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-https://www.uludagsozluk.com/ bkz gay bulma sitesi
+https://www.uludagsozluk.com/ bkz türkish ultra gay forums
 https://mr-erecto.uludagsozluk.com/ bkz ağır gay
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal
 https://le-siradan-siradam.uludagsozluk.com/ bkz mafyua babası hayranı pasif oğlan 
