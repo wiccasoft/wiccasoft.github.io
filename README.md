@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz duran emmi polatı hoplattı mı sorundalı
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg iki tane ağır homo
 bkz homoların mafya olma sebepleri
 bkz homolardaki mafya özentiliği
