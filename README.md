@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz ak üllümünütü parti yüyüp çenıl
+https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw
 bkz aslan akbey duran emmiyi niye öldürdü sorunsalı
 bkz ekrem süleyman fatih şeytan üşgeni
 bkz türkiyenin suni gündeminin çok sıkıcı olması
