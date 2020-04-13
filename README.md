@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ak boylarla top diye oynamak
+bkz olm siz giderken ben dönüyodum lan ibneler
 https://mr-erecto.uludagsozluk.com/ bkz gay osmanlıcı
 https://www.uludagsozluk.com/k/%C5%9Fekspir-in-gay-olmas%C4%B1/
 bkz rallın sülüman soslunun kakasını yerim demesi
