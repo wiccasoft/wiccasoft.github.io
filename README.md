@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sülüman soslu vs kanuni sultan sülü
 https://www.uludagsozluk.com/k/kanuni-sultan-s%C3%BCleyman/&w=bg bkz ölü
 https://www.pinterest.com/wiccasoft/pins/ bkz ruhi çenet enes batur ortak yayını
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-dertle%C5%9Fti%C4%9Fi-erkekler/&w=gd bkz sülüman soslu
