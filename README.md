@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 162 boyundaki oçe ye ulu önder demek
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-%C3%BC-3-kelimeyle-anlat/&w=bg bkz o ç e
 https://www.uludagsozluk.com/k/osmanl%C4%B1-ecdad%C4%B1m%C4%B1z-de%C4%9Fildir/&w=bg bkz oçe
 https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz yunana dölü fedönün siyasi ayağı
