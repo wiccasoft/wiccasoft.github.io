@@ -5,6 +5,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz çiş işleri bakanlığı
+bkz çokomelli işler bakanlığı
 bkz efso hırtlar vadisi diyalogları
 bkz sedat peker sedat kapanoğlu dostluğu
 bkz fatih tezcan atacücü cücüydü iddası 
