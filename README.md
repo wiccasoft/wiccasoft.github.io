@@ -6,6 +6,7 @@ bkz homoların mafya sevdası
 bkz iki gayin bildiği sır sır değildir
 bkz homoların birbilerine yüryemeyip mafya olmaları
 bkz homoların neden mafya babası olmaları sorundalı
+bkzgomoların mafya babası eşcinsellere adam gib adam demeleri güldürür evet
 https://www.uludagsozluk.com/k/gayl%C4%B1k-utan%C4%B1lacak-bir-%C5%9Fey-midir/
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-tahliye/&w=bg bkz homolardaki mafya sevdası
 bkz duran emmi polatı hoplattı mı sorundalı
