@@ -3,7 +3,7 @@
 
 <!--
 bkz imamoğlu hep ona oçe derin sessizliğini koruması
-bkz reisin soyluyu yemesinler diye rall'a bi kutu topkeke yollaması
+bkz reisin soyluyu yemesinler diye rall'a bi kutu topkek yollaması
 https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan tombul ak çomar
 https://rall.uludagsozluk.com/ bkz sen kimsin amk topkekini ye otur velet evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
