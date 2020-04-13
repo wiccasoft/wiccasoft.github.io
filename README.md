@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Feyh-bedrettin/&w=bg bkz şeyh bedro
 https://www.uludagsozluk.com/k/d%C3%BCrr%C3%BC%C5%9Fehvar/ abdul mecidin kızı
 https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg bkz şüğheci padişah
 bkz sülüman sosluyu sosa bandırıp yemek
