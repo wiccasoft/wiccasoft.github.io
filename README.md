@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/bir-ka%C3%A7-ayya%C5%9Fa-s%C3%BCleyman-soylu-yu-yedirmeyiz/
 https://www.uludagsozluk.com/k/%C5%9Feyh-bedrettin/&w=bg bkz ölü
 bkz sülüman soslu vs kanuni sultan sülü
 https://www.uludagsozluk.com/k/kanuni-sultan-s%C3%BCleyman/&w=bg bkz ölü
