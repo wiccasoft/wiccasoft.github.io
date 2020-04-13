@@ -2,8 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
-bkz fake fatih tezcan tweeti
-bkz real donald trump fake donald duck kavgası
+bkz 13 nisan 2020 real donald trunk fake donald duck kavgası
 bkz 13 nisan 2020 damadın penis yüzüğünün fotoşok yani fake çıkması
 bkz fatih tezcan dan agopa kajmer fifti cent benzetmesi
 bkz sagopa kajmer atacücünün fifti centidir
