@@ -3,13 +3,13 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-bkz çokomemlli işler bakanlığı nın boşalması
 bkz tez antitez sentezcan
 bkz fatih tezcan atacücü cücüydü tezi
 bkz kargo elemanlarının e devlet isyanı
 bkz fatih tezcanın tez sürecinden hipotezle çıkması
 bkz habercücüc tv de kim osurdu sorundalı
-bkz mansur yavaşın yavaş sayaç okuyan elemanalrı kovması
+bkz çokomemlli işler bakanlığı nın boşalması
+bkz mansur yavaşın yavaş sayaç okuyan elemanları kovması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 -->
 
