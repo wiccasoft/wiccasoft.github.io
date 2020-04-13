@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz bali babacanın ben sizin babanızım yanaklarım tontiş demesi
 bkz macun kaplıcalının macun ol kampanyası
 https://www.uludagsozluk.com/ bkz ağır gay ve aptal veritabanı
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal
