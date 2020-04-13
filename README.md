@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz imamaoğlu ona hep oçe der vs rallın annesi
 https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/ bkz atacücü
 bkz fatih tezcan atacücü nün pipisi cücük gibiydi tezi
 bkz berat albayrak vs burhan altıntop
