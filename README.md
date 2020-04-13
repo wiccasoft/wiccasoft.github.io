@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
-bkz fatih tezcan manüpülasyonları
 bkz fatih tezcanın gündemi değiştirmek için polemik yaratması
 bkz fatih tezcan dan atacücü 161 boyla nasıl subay oldu polemiği
 bkz fatih tezcan dan fatih terime işin yap uyarısı
