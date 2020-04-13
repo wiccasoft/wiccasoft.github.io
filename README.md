@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz oçe atacücü
+bkz oçe atacücü vs cücüler
 bkz atacücünün virsü olduğu gerçeği
 bkz 1881 atacücü 18+81= 99 - 891 vilayet -batman = covid19
 https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/&w=gd bkz atacücü
