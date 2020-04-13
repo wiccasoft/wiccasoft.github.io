@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=SBjK34YGTKI
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz ak parti beraber yürüdüh büz bü yüllürdü klibi
 https://www.youtube.com/watch?v=SBjK34YGTKI bkz ak parti üllümünütü deşifrü
 bkz ak üllümünütü parti yüyüp çenıl
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw
