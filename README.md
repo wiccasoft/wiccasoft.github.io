@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://frank-lucas.uludagsozluk.com/ bkz yabancı nickli tombul ak çomar
 https://rall.uludagsozluk.com/ bkz türbanlı annesi olan velet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
 bkz sözlük bebelerinin tavsiye verecek yaşa gelmeleri
