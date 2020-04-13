@@ -2,11 +2,12 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
+bkz fatih tezcan da fatih terime işin ytap uyarısı
 bkz fatih terim atacücü güzellemesi
 bkz fatih terimin atacücü ve mevlanaya küfretmesi
 bkz sagopa türkiyenin fifti sentidir
 bkz ekrem ona hep oçe derin ded bi şarkısında dediği gibi
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz ekrem ona hep oçe der
 bkz ekremin hazır değilim açıklaması
 bkz sedat kapanoğlu sedat peker fotosu
