@@ -6,7 +6,8 @@
 bkz tez antitez sentezcan
 bkz fatih tezcan atacücü cücüydü tezi
 bkz kargo elemanlarının e devlet isyanı
-bkz fatih tezcanın tez sürecinden hipotezle çıkmaso
+bkz fatih tezcanın tez sürecinden hipotezle çıkması
+bkz habercücüc tv de kim osurdu sorundalı
 bkz mansur yavaşın yavaş sayaç okuyan elemanalrı kovması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 -->
