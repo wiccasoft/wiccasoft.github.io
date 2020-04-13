@@ -11,7 +11,7 @@ bkz çokomelli işler başkanlığı maaşına göz dikecek kadar alçalmak
 +saol canım övdüm geldim.
 bkz memati! sustur su iti.
 bkz efso hırtlar vadisi diyalogları
-bkz hırtlar vadisiyle büyüyen m afya özentisi kekolar
+bkz hırtlar vadisiyle büyüyen mafya özentisi kekolar
 https://eksisozluk.com/kurtlar-vadisi-izleyen-keko--6471786?a=popular
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
