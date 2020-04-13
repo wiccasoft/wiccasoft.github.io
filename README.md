@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ibnemiyim ya hoff poff diyen genç
+https://www.uludagsozluk.com/k/ibneyim-diye-sokakta-ba%C4%9F%C4%B1ran-hoff-poff-diyen-gen%C3%A7/
 bkz sülüman soslunun polis olmak isteyen liselilere şans vermesi
 bkz rallın sülüman sosluyu yedirmem çıkışı
 bkz 13 nisan 2020 sülüman soslu geri fitesi
