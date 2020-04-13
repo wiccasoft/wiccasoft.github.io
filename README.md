@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz macun kaplıcalının yam bi liseli olması
+bkz macun kaplıcalının tam bi liseli olması
 https://www.uludagsozluk.com/k/murat-boz/&w=bg bkz macun kaplıcalının gayi
 bkz hayallerde yaşıyor bazı fakir ibneler
 https://www.uludagsozluk.com/ bkz türkish ultra gay forum
