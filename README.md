@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz mansur yavaşın yavaş sayaç okuyan elamanları kovması
 bkz kerimcan durmaz delin diğerci dostluğu
 bkz murat övüçün delin diğerciyle beraber bot bağladık ayol demesi
 bkz delin diğerciye yapılna güllü doğum günü süprüzü
