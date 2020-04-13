@@ -7,6 +7,7 @@ bkz reisin soyluya verdiği efso ayar
 bkz ibb bşk maaşına göz dikecek kadar alçalmak
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığı koltuu için tiyatro oynaması
+bkz çokomelli işler başkanlığı maaşına göz dikecek kadar alçalmak
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
 -->
