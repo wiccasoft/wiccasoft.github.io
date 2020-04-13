@@ -1,43 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz delirn diğercinin derincan durmaza ablan geyseli demesi
-bkz derincan durmazın salıyom kobrayı açın arayı demesi
-bkz derin diğerci derin mermerci dostluğu
-bkz murat övüncün derin diğerciye yolladığı güllü pasta
-bkz derin diğerci derincan durmaz dostluğu
-bkz derin diğerciye yapılan güllü doğum günü süprüzü
-bkz derin diğerci derincan durmaz doğum günü partisi
-bkz derin diğercinin erkek halinin şeylere benzemesi
-bkz derin diğercinin doğum günü pastasından çıkma süprüzü
-bkz derin diğerci derimcan durmaz dostluğu
-bkz murat övünçün derin diğerciye yolladığı güllü pasta
-bkz mansur yavaşın yavaş sayaç okuyan elemanları derin diğerci güllü pastası yedirmesi
-bkz derincan durmazın delin diğerciyle aramızdan sus sızmaz demesi
-bkz derincan durmazın delin diğerciye yolladığı güllü pasta
-bkz süleyman soylunun 2000 bekçi daha lazım demesi
-bkz mansur yavaşın yavaş sayaç okuyan elamanları kovması
-bkz kerimcan durmaz delin diğerci dostluğu
-bkz murat övüçün delin diğerciyle beraber bot bağladık ayol demesi
-bkz delin diğerciye yapılna güllü doğum günü süprüzü
-bkz çokomelli işler bakanlığının yeni logosu
-bkz tanrının oluyum diyen oçeye hazreti demek
-bkz selanikte doğan 161 lik oçeye ulu önder demek
-bkz delin diğercinin erkek halinin şeylere benzemesi
-bkz delin diğerciye yollanan güllü pasta
-bkz delin diğercinin  13. cumburlop maaşına göz koyması
-bkz murat övüncün delin diğerciye yolladığı güllü pasta
-bkz muhammedin ayı ikiye yarması
-bkz tanrının oluyum diyen oçe ye hazreti demek
-https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg bkz oçe
-https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz yunan dölü fedönün ün siyasi ayağı
-bkz murat övüncün delin ciğercinin askerlik arkadaşı olduğu iddaları
-bkz selin diğerci nin murat övünce bacım demesi
-bkz kerimcan durmazın delin cieğrciye yolladığı doğum günü çelenki
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz selin ciğercinin kankası -->
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
