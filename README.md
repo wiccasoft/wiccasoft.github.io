@@ -3,6 +3,7 @@
 
 <!-- 
 bkz fatih tezcandan ekreme işparklar noldu ayarı
+bkz fatih tezcan ın atacücüye yahudi subay demesş
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz manüpülasyon ustası üstad
 bkz fatih tezcanın gündemi değiştirmek için polemik yaratması
 bkz fatih tezcan dan atacücü 161 boyla nasıl subay oldu polemiği
