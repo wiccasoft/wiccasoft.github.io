@@ -2,22 +2,6 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz bakan varankın altın varanklı küveti
-bkz bakan varankın küvette kal türküyem pozu
-bkz damadın kalorifer peteğinin fotoşok çıkması
-bkz fatih tezcan ne iş yapıyor sorunsalı
-bkz imamoğlu ona hep oçe der vs rallın türbanlı annesi
-bkz fatih tezcan dan fatih terime işin yap uyarısı
-bkz çokomemlli işler bakanlığı nın boşalması
-bkz mansur yavaşın yavaş sayaç okuyan elemanları kovması
-https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/ bkz atacücü
-bkz fatih tezcan atacücü nün pipisi cücük gibiydi tezi
-bkz habercücüc tv de kim osurdu sorundalı
-bkz damadın penis yüzüğünün fotoşok çıkması
-bkz tez antitez sentezcan
-bkz fatih tezcan atacücü cücüydü tezi
-bkz kargo elemanlarının e devlet isyanı
-bkz fatih tezcanın tez sürecinden hipotezle çıkması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 -->
 
