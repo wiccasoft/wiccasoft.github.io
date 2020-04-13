@@ -4,6 +4,7 @@
 <!--
 bkz isa nın oçe olduğu gerçeği
 bkz tanrının oluyum diyen oçeye hazreti demek
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
 https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg
 bkz 162 boyundaki oçe ye ulu önder demek
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-%C3%BC-3-kelimeyle-anlat/&w=bg bkz o ç e
