@@ -4,6 +4,7 @@
 <!--
 bkz isa nın oçe olduğu gerçeği
 bkz tanrının oluyum diyen oçeye hazreti demek
+bkz selib ciğerci murat övünç dosluğu
 bkz reis ona hep oçe derin bi kaç ayyaşa topkeklerini yedirmemesi
 https://chance-boudreaux.uludagsozluk.com/ bkz keko
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz keko len mq
