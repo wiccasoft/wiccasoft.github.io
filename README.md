@@ -3,8 +3,6 @@
 
 <!--
 bkz aslan akbey duran emmiyi niye öldürdü sorunsalı
-bkz efso hırtlar vadisi diyalogları
-bkz mafya babaları ve devlet adamları ilişkileri
 bkz ekrem süleyman fatih şeytan üşgeni
 bkz türkiyenin suni gündeminin çok sıkıcı olması
 bkz 13 nisan 2020 real donald trunk fake donald duck kavgası
