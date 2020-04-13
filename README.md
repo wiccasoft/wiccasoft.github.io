@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz murat övüçün delin diğerciyle beraber bot bağladık ayol demesi
 bkz delin diğerciye yapılna güllü doğum günü süprüzü
 bkz çokomelli işler bakanlığının yeni logosu
 bkz tanrının oluyum diyen oçeye hazreti demek
