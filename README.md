@@ -2,13 +2,16 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-bkz ak partinin yütüp çenılın heklenmesi
-bkz ak parti yütüp çenıl
-bkz fatih tezcanın derin devlet olması
+bkz mafya babaları ve devlet adamları ilişkileri
+bkz ekrem süleyman fatih şeytan üşgeni
+bkz türkiyenin suni gündeminin çok sıkıcı olması
+bkz 13 nisan 2020 real donald trunk fake donald duck kavgası
+bkz 13 nisan 2020 damadın penis yüzüğünün fotoşok yani fake çıkması
+bkz fatih tezcan dan agopa kajmer fifti cent benzetmesi
+bkz sagopa kajmer atacücünün fifti centidir
 bkz fatih tezcan istifa tiyatrosu
-bkz fatih tezcandan fatih terime işin yap uyarısı
-https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/e/43162116/ bkz devlet sırlarını azından kaçırmak
+bkz fatih tezcandan ekreme işparklar noldu ayarı
+bkz fatih tezcan ın atacücüye yahudi subay demesi
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
