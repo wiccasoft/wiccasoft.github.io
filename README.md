@@ -1,4 +1,7 @@
-[![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
+
+[![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
+
+[![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
 
 [![Image](prototype/Screenshot_2020-04-12_21-07-01.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk )
 
