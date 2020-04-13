@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.uludagsozluk.com/k/hilal-b%C4%B1y%C4%B1kl%C4%B1-kom%C3%BCnist-parkal%C4%B1-gen%C3%A7/ zuahhahahahah
+bkz fakirlerin komünük olmaya karar vermesi asdasdasdas
 bkz homoların mafya sevdası
 bkz sülüman sosluyu yedirmem diyen ak nonoş
 bkz 13 nisan 2020 ak nonoşların coşması
