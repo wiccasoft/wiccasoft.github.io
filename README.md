@@ -4,7 +4,6 @@
 <!--
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
-bkz ibb bşk maaşına göz dikecek kadar alçalmak
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığı koltuu için tiyatro oynaması
 bkz çokomelli işler başkanlığı maaşına göz dikecek kadar alçalmak
