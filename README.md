@@ -3,7 +3,6 @@
 
 <!--
 bkz selanikte doğan oçe nin cücülere ata olması
-bkz atacücününü cücüleri zeki sanması
 bkz atacücünü oçe olduğu gerçeği
 bkz oçe atacücü vs cücüler
 bkz atacücünün virsü olduğu gerçeği
