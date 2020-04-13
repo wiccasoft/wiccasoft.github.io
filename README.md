@@ -5,7 +5,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-bkz ak göünllüler facebook sayfasının hacklenmesi
+bkz ali ihsan varolun istifasının suni gündem olması
+bkz ak gönüllüler facebook sayfasının hacklenmesi
 https://www.youtube.com/watch?v=SBjK34YGTKI
 bkz abdullah gülün ak partiyi ben kurdum açıklamsı
 bkz üllümünütünün ak partiyi siklemediği ferçeği
