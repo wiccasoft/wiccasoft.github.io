@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz selanikte doğan kefere
 bkz rall ile frank lucas ın atacücü ye boru gibi döşemesi
 https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/&w=bg bkz atacücü
 https://rall.uludagsozluk.com/  bkz resin yaveri
