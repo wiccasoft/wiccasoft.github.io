@@ -2,12 +2,12 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.uludagsozluk.com/e/43164654/ bkz devletin patentli ürününü çalmak
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığı koltuu için tiyatro oynaması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
+https://www.uludagsozluk.com/e/43164654/ bkz devletin patentli ürününü çalmak
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
 -->
 
