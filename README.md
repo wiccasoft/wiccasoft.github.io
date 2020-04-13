@@ -6,6 +6,8 @@ bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığıiçin tiyatro oynaması
+https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg 
+https://www.uludagsozluk.com/k/instagram-da-k%C4%B1llar%C4%B1n%C4%B1-sergileyen-ilgin%C3%A7-erkek/
 https://www.uludagsozluk.com/k/izin-almadan-istifa-bile-edemeyen-tip/
 bkz çokomelli işler başkanlığı maaşına göz dikecek kadar alçalmak
 -abi gel derin devlet övüyoruz.
