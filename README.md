@@ -1,7 +1,8 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
+<!--
+bkz derincan durmazın derin dieğrci bokumu yesin demesi
 bkz ben senin bokunu yemeye de razıyım diyen kız
 bkz derincan durmazın derin diğercinin opastasına kobra sokması
 bkz derin diğercinin doğum gübü pastasını derincan durmazın kesmesi
