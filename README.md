@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 13 nisan 2020 sülüman soslu geri fitesi
 bkz sülüman soslu tiyatrosu
 bkz ruhi çenet testere necmi beznerliği
 bkz havercücü tv de osuranın sülüman soslu çıkması
