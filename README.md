@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz rall tayyip arasındaki dostluk
+bkz rallın türbanlı annesine topkek yollamak
 bkz imamoğlu hep ona oçe derin sessizliğini koruması
 bkz reisin soyluyu yemesinler diye rall'a bi kutu topkek yollaması
 https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan tombul ak çomar
