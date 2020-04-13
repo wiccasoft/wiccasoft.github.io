@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz homoların mafya sevdası
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-tahliye/&w=bg bkz homolardaki mafya sevdası
 bkz duran emmi polatı hoplattı mı sorundalı
 bkz iki gayin bildiği sır sır değildir
