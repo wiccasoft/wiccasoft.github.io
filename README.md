@@ -1,14 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-[![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
-
-[![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
-
-[![Image](prototype/Screenshot_2020-04-12_21-07-01.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk )
-
-[![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
-
 <!--
 bkz fatih tezcan atacücü nün pipisi cücük gibiydi tezi
 bkz berat albayrak vs burhan altıntop
@@ -23,6 +15,16 @@ bkz çokomemlli işler bakanlığı nın boşalması
 bkz mansur yavaşın yavaş sayaç okuyan elemanları kovması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 -->
+
+[![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
+
+[![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
+
+[![Image](prototype/Screenshot_2020-04-12_21-07-01.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk )
+
+[![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
+
+
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
