@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
-bkz fatih tezcan da fatih terime işin yap uyarısı
+bkz fatih tezcan dan fatih terime işin yap uyarısı
 bkz fatih terim atacücü güzellemesi
 bkz fatih terimin atacücü ve mevlanaya küfretmesi
 bkz sagopa türkiyenin fifti sentidir
