@@ -10,8 +10,7 @@ bkz fatih tezcan dan agopa kajmer fifti cent benzetmesi
 bkz sagopa kajmer atacücünün fifti centidir
 bkz fatih tezcan istifa tiyatrosu
 bkz fatih tezcandan ekreme işparklar noldu ayarı
-bkz fatih tezcan ın atacücüye yahudi subay demesş
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz manüpülasyon ustası üstad
+bkz fatih tezcan ın atacücüye yahudi subay demesi
 bkz fatih tezcanın gündemi değiştirmek için polemik yaratması
 bkz fatih tezcan dan atacücü 161 boyla nasıl subay oldu polemiği
 bkz fatih tezcan dan fatih terime işin yap uyarısı
