@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz atacücünün virsü olduğu gerçeği
 bkz 1881 atacücü 18+81= 99 - 891 vilayet -batman = covid19
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz selanikte doğan kefere
 bkz rall ile frank lucas ın atacücü ye boru gibi döşemesi
