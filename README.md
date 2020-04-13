@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/kanuni-sultan-s%C3%BCleyman/&w=bg bkz ölü
 https://www.pinterest.com/wiccasoft/pins/ bkz ruhi çenet enes batur ortak yayını
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-dertle%C5%9Fti%C4%9Fi-erkekler/&w=gd bkz sülüman soslu
 https://www.uludagsozluk.com/k/kellerin-tiyatroda-daha-ba%C5%9Far%C4%B1l%C4%B1-olmas%C4%B1/ bkz sülüman soslu
