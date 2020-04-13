@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz ben senin bokunu yerim diyen kız
 bkz derincan durmazın delin diğerciyle aramızdan sus sızmaz demesi
 bkz derincan durmazın delin diğerciye yolladığı güllü pasta
 bkz delin diğercinin erkek halinin şeylere benzemesi
