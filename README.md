@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-murat-karay%C4%B1lan-g%C3%BCzellemesi/
 https://www.uludagsozluk.com/k/sedat-peker-in-okumak-i%C3%A7in-yurtd%C4%B1%C5%9F%C4%B1na-gitmesi/ -->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
