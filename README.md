@@ -5,6 +5,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz fatih tezcan atacücü cücüydü iddası
 bkz ali ihsan varolun istifasının suni gündem olması
 bkz ak gönüllüler facebook sayfasının hacklenmesi
 https://www.youtube.com/watch?v=SBjK34YGTKI
