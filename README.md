@@ -3,6 +3,7 @@
 
 <!--
 bkz homoların mafya sevdası
+bkz sülüman sosluyu yedirmem diyen ak nonoş
 bkz 13 nisan 2020 ak nonoşların coşması
 bkz ak nonoşların aktrollüz ye demesi
 bkz iki gayin bildiği sır sır değildir
