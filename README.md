@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz delin diğercinin erkek hali
+bkz delin diğercinin erkek halinin şeylere benzemesi
 bkz delin diğerciye yollanan güllü pasta
 bkz delin ciğercinin  13. cumburlop maaşına göz koyması
 bkz murat övüncün delin diğerciye yolladığı güllü pasta
