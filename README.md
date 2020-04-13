@@ -13,6 +13,7 @@ bkz memati! sustur su iti.
 bkz efso hırtlar vadisi diyalogları
 bkz hırtlar vadisiyle büyüyen mafya özentisi kekolar
 https://chance-boudreaux.uludagsozluk.com/ bkz keko
+https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz fedönün siyasi ayağı
 https://eksisozluk.com/kurtlar-vadisi-izleyen-keko--6471786?a=popular
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
