@@ -6,7 +6,7 @@
 
 <!--
 bkz fatih tezcan atacücü cücüydü iddası
-bkz ali ihsan varolun istifasının suni gündem olması
+bkz fatih tezcan istifasının suni gündem olması
 bkz ak gönüllüler facebook sayfasının hacklenmesi
 https://www.youtube.com/watch?v=SBjK34YGTKI
 bkz abdullah gülün ak partiyi ben kurdum açıklamsı
