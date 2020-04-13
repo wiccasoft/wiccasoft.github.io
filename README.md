@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
-bkz ekremin fatih tezcana cevap vermemesi
+bkz sagopa kajmer atacücünün fifti centidir
 bkz fatih tezcan istifa tiyatrosu
 bkz fatih tezcandan ekreme işparklar noldu ayarı
 bkz fatih tezcan ın atacücüye yahudi subay demesş
