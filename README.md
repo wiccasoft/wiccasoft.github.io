@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz derincan durmazın delin diğerciyle aramızdan sus sızmaz demesi
 bkz derincan durmazın delin diğerciye yolladığı güllü pasta
 bkz süleyman soylunun 2000 bekçi daha lazım demesi
 bkz mansur yavaşın yavaş sayaç okuyan elamanları kovması
