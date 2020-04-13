@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/olimpos-da%C4%9F%C4%B1-%C3%A7ocuklar%C4%B1/ lol
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-bir-gecede-h%C3%BCrrem-sultan-a-d%C3%B6n%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/instagram-da-k%C4%B1llar%C4%B1n%C4%B1-sergileyen-ilgin%C3%A7-erkek/
 https://www.uludagsozluk.com/k/izin-almadan-istifa-bile-edemeyen-tip/
-bkz çokomelli işler başkanlığı maaşına göz dikecek kadar alçalmak
+bkz çokomelli işler başkanlığına göz dikecek kadar alçalmak
 -abi gel derin devlet övüyoruz.
 +saol canım övdüm geldim.
 bkz memati! sustur su iti.
