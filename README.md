@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz atacücününü cücüleri zeki sanması
 bkz atacücünü oçe olduğu gerçeği
 bkz oçe atacücü vs cücüler
 bkz atacücünün virsü olduğu gerçeği
