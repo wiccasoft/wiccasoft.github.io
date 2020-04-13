@@ -4,7 +4,8 @@
 <!-- 
 https://www.uludagsozluk.com/k/tayyib-isimli-erkeklerin-genel-%C3%B6zellikleri/ dünya lideri olmaları
 https://www.uludagsozluk.com/k/irem-derici-nin-evde-%C3%A7ok-g%C3%BCzelle%C5%9Ftim-demesi/ 
-bkz selin dericinin irem dericiye güzel diyen baha demesin demesi--->
+bkz selin dericinin irem dericiye güzel diyen baha demesin demesi
+--->
 
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
