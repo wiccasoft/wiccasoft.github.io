@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/tayyib-vir%C3%BCsten-nasil-korunuyo/ bkz beş tepe camisi
 bkz selanikte doğan oçe nin cücülere ata olması
 bkz atacücünü oçe olduğu gerçeği
 bkz oçe atacücü vs cücüler
