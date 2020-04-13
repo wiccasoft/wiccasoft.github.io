@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz murat övüncün delin diğerciye yolladığı güllü pasta
 bkz muhammedin ayı ikiye yarması
 bkz tanrının oluyum diyen oçe ye hazreti demek
 bkz selin ciğerci'ye yapılan güllü doğum günü süprizi
