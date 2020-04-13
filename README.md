@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz merve boğulurun  senin bokunda boğulurum lan demesi
 bkz ben senin bokuna eppek banar yerim lan diyen kız
 bkz kadri arpaoğlunun derimcan durmaza arpa suratlı demesi
 bkz mısır arpaoğlunun derid diğercinin pastasına tükürmesi
