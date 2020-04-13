@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz hayallerde yaşıyor bazı ibneler
+bkz hayallerde yaşıyor bazı fakir ibneler
 https://www.uludagsozluk.com/ bkz türkish ultra gay forum
 https://mr-erecto.uludagsozluk.com/ bkz ağır gay
 https://rall.uludagsozluk.com bkz ağır gay
