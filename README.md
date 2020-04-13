@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
+bkz ekrem ona hep oçe derin ded bi şarkısında dediği gibi
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz ekrem ona hep oçe der
 bkz ekremin hazır değilim açıklaması
 bkz sedat kapanoğlu sedat peker fotosu
