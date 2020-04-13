@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/akp-vs-aktroll-sava%C5%9F%C4%B1/ bkz akp web sitesinin çkmesi
 https://www.uludagsozluk.com/k/g%C3%BCltekin-alan/&w=bg eywalla bro gözümsün
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/  senin annenin amına karadeniz yazarım oç
 https://www.uludagsozluk.com/ bkz ağır gay ve aptal veritabanı
