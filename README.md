@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://rall.uludagsozluk.com/ bkz yedirmez
 bkz sözlük bebelerinin tavsiye verecek yaşa gelmeleri
 bkz rall ın türbanlı annesi vs imamaoğlan ona hep oçe der
 bkz soya değil boya bakar boya
