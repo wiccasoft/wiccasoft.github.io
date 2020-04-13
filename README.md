@@ -3,6 +3,7 @@
 
 <!-- 
 bkz türkiyenin suni gündeminin çok sıkıcı olması
+bkz ekrem süleyman fatih şeytan üşgeni
 bkz 13 nisan 2020 real donald trunk fake donald duck kavgası
 bkz 13 nisan 2020 damadın penis yüzüğünün fotoşok yani fake çıkması
 bkz fatih tezcan dan agopa kajmer fifti cent benzetmesi
