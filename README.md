@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://rall.uludagsozluk.com/  bkz resin yaveri
 bkz rall tayyip arasındaki dostluk
 bkz rallın türbanlı annesine topkek yollamak
 bkz imamoğlu hep ona oçe derin sessizliğini koruması
