@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz soya değil boya bakar boya
 bkz 13. cumburlop maaşına göz dikmek
 bkz sare duvutoğlu semiha yıldırım dostluğu
 bkz çokomelli işler bakanlığının boşalması
