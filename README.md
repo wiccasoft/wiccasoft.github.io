@@ -2,7 +2,9 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-https://www.uludagsozluk.com/ bkz  hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
+https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg
+https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-%C5%9Fark%C4%B1c%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/%C5%9Fekspir-in-gay-olmas%C4%B1/ hayallerde yaşıyor bazı ibneler
 bkz ak boylarla top diye oynamak
