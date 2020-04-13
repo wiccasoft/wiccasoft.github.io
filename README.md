@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz mısır arpaoğlunun derid diğercinin pastasına tükürmesi
 bkz durat dövüçün derin diğerciyle beraber bot bağladık demesi
 bkz derin diğerci murat övünç dostluğu
 bkz derin diğerci derin mermerci kavgası
