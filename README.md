@@ -1,6 +1,14 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!-- 
+bkz derincan durmazın delin diğerciyle aramızdan sus sızmaz demesi
+bkz derincan durmazın delin diğerciye yolladığı güllü pasta
+bkz delin diğercinin erkek halinin şeylere benzemesi
+bkz delin diğerciye yollanan güllü pasta
+bkz delin diğercinin  13. cumburlop maaşına göz koyması
+bkz murat övüncün delin diğerciye yolladığı güllü pasta
+-->
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
