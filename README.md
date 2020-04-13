@@ -5,6 +5,7 @@
 <!--
 bkz tez antitez sentezcan
 bkz fatih tezcan atacücü cücüydü tezi
+bkz kargo elemanlarının e devlet isyanı
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 -->
 
