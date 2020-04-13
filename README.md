@@ -4,6 +4,9 @@
 <!--
 bkz isa nın oçe olduğu gerçeği
 bkz tanrının oluyum diyen oçeye hazreti demek
+https://chance-boudreaux.uludagsozluk.com/ bkz keko
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz keko len mq
+https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
 https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg
 bkz 162 boyundaki oçe ye ulu önder demek
