@@ -8,6 +8,7 @@ bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığıiçin tiyatro oynaması
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=gd
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg
+https://www.uludagsozluk.com/k/olimpos-da%C4%9F%C4%B1-%C3%A7ocuklar%C4%B1/ lol
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-bir-gecede-h%C3%BCrrem-sultan-a-d%C3%B6n%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/instagram-da-k%C4%B1llar%C4%B1n%C4%B1-sergileyen-ilgin%C3%A7-erkek/
 https://www.uludagsozluk.com/k/izin-almadan-istifa-bile-edemeyen-tip/
