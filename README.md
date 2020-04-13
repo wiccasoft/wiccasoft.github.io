@@ -3,7 +3,7 @@
 
 <!--
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
-https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg eyallah pampa başgan olcam 13. cumburlop maaşını istiyom
+https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz 13. cumburlop maaşını istiyom
 -->
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
