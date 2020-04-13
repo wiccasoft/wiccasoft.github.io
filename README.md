@@ -4,7 +4,10 @@
 <!-- 
 https://mr-erecto.uludagsozluk.com/ bkz ağır gay
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal
-https://le-siradan-siradam.uludagsozluk.com/ bkz mafyua babası hayranı pasif oğlan -->
+https://le-siradan-siradam.uludagsozluk.com/ bkz mafyua babası hayranı pasif oğlan 
+https://www.uludagsozluk.com/k/hilal-b%C4%B1y%C4%B1kl%C4%B1-kom%C3%BCnist-parkal%C4%B1-gen%C3%A7/
+bkz hayallerde yaşıyor bazı ibneler
+-->
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
