@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/ bkz ağır gay ve aptal veritabanı
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal
 bkz fakirlerin komünük olmaya karar vermesi asdasdasdas
 bkz homoların mafya sevdası
