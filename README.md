@@ -2,13 +2,13 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz selanikte doğan 161 lik oçeye ulu önder demek
 bkz delin diğercinin erkek halinin şeylere benzemesi
 bkz delin diğerciye yollanan güllü pasta
 bkz delin diğercinin  13. cumburlop maaşına göz koyması
 bkz murat övüncün delin diğerciye yolladığı güllü pasta
 bkz muhammedin ayı ikiye yarması
 bkz tanrının oluyum diyen oçe ye hazreti demek
-bkz selin ciğerci'ye yapılan güllü doğum günü süprizi
 https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg bkz oçe
 https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz yunan dölü fedönün ün siyasi ayağı
 bkz murat övüncün delin ciğercinin askerlik arkadaşı olduğu iddaları
