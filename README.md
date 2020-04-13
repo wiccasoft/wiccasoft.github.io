@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan çomar
+https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan kara kafalı şişko tombul çomar
 https://frank-lucas.uludagsozluk.com/ bkz yabancı nickli tombul ak çomar
 https://rall.uludagsozluk.com/ bkz saen kimsin amk topkekinin ye otur velet evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
