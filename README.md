@@ -4,6 +4,7 @@
 <!--
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
+bkz 13 nisan 2020 efso soylu geri vitesi
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığıiçin tiyatro oynaması
 bkz çokomelli işler başkanlığına göz dikecek kadar alçalmak
