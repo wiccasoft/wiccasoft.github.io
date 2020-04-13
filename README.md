@@ -1,8 +1,9 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--,
+<!--
 bkz derin diğerci derimcan durmaz dostluğu
+bkz murat övünçün derin diğerciye yolladığı güllü pasta
 bkz mansur yavaşın yavaş sayaç okuyan elemanları derin diğerci güllü pastası yedirmesi
 bkz derincan durmazın delin diğerciyle aramızdan sus sızmaz demesi
 bkz derincan durmazın delin diğerciye yolladığı güllü pasta
