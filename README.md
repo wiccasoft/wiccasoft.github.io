@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/karadenizlilerdeki-gereksiz-%C3%B6zg%C3%BCven/ bkz tayyip
 bkz macun kaplıcalının tam bi liseli gavat olması
 https://www.uludagsozluk.com/k/murat-boz/&w=bg bkz macun kaplıcalının gayi
 bkz hayallerde yaşıyor bazı fakir ibneler
