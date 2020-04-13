@@ -2,7 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz sewlin ciğerciye yapılan güllü pasta
+bkz selin ciğerciye yapılan güllü pasta
+bkz kerimcan durmazın delin ciğerci doğum gününe yolladığı çelenk
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
 bkz atacücüye benzeyen adam vs binali benzeyen adam 
 bkz isa ecdadımız değildir
