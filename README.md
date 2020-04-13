@@ -1,8 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz fatih tercan atacücü cücüydü iddası
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
-bkz fatih tercan atacücü cücüydü iddaları 
 -->
 
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
