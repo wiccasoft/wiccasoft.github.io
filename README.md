@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
+bkz ak partinin yütüp çenılın heklenmesi
 bkz ak parti yütüp çenıl
 bkz fatih tezcanın derin devlet olması
 bkz fatih tezcan istifa tiyatrosu
