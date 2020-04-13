@@ -1,6 +1,10 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!-- https://www.uludagsozluk.com/k/irem-derici-nin-evde-%C3%A7ok-g%C3%BCzelle%C5%9Ftim-demesi/ 
+bkz selin dericinin irem dericiye güzel diyen baha demesin demesi--->
+
+
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
