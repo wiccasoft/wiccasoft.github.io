@@ -4,7 +4,7 @@
 <!--
 bkz isa nın oçe olduğu gerçeği
 bkz tanrının oluyum diyen oçeye hazreti demek
-bkz rallın bi kaç ayyaşa topkeklerini yedirmemesi
+bkz reis ona hep oçe derin bi kaç ayyaşa topkeklerini yedirmemesi
 https://chance-boudreaux.uludagsozluk.com/ bkz keko
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz keko len mq
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
