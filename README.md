@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/i%C3%A7ten-pazarl%C4%B1kl%C4%B1-sinsi-g%C3%B6tten-bacakl%C4%B1-1-60-l%C4%B1k-k%C4%B1z/&w=bg
 bkz ali babacanın yanaklarındaki tontişlik
 bkz ali babacanın ben sizin babanızım ben ne dersem o olur demesi
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
