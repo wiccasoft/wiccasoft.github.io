@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz imamoğlu ona hep oçe der vs rallın türbanlı annesi
 bkz fatih tezcan dan fatih terime işin yap uyarısı
 bkz çokomemlli işler bakanlığı nın boşalması
