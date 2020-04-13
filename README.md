@@ -2,9 +2,9 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz ibb bşk maaşına göz dikecek kadar alçalmak
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
+bkz ibb bşk maaşına göz dikecek kadar alçalmak
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığı koltuu için tiyatro oynaması
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
