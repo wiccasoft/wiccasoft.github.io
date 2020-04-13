@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz beni sosyal medyada arat bakim evlat bulabilecen mi
 bkz oç türklerin sosyal medya kullanmayı bilmemesi
 https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz beni ruhi çenet sanan ergen
 bkz 13 nisan 2020 ruhi çenet enes batur ortak yayını
