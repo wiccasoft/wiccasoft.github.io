@@ -5,6 +5,7 @@
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
+https://www.uludagsozluk.com/k/12-nisan-2020-s%C3%BCleyman-soylu-tiyatrosu/&w=bg
 bkz soylunun çokomelli işler bakanlığıiçin tiyatro oynaması
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=gd
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg
