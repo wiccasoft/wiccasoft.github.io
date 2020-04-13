@@ -3,6 +3,7 @@
 
 <!--
 bkz bakan varankın küvette kal türküyem pozu
+bkz bakan varankın altın varanklı küveti
 bkz damadın kalorifer peteğinin fotoşok çıkması
 bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz imamoğlu ona hep oçe der vs rallın türbanlı annesi
