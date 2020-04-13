@@ -2,7 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz isa nın oçe olduğu gerçeği
+bkz isa ecdadımız değildir
+bkz isa nın oçe olduğu gerçeğ
 bkz tanrının oluyum diyen oçeye hazreti demek
 bkz selib ciğerci murat övünç dosluğu
 bkz murat övüçün selin ciğerciyle beraber bot bağladık açıklaması
