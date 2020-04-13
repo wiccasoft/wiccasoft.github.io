@@ -5,11 +5,10 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!--
-bkz fatih tezcan atacücü cücüydü iddası
+bkz fatih tezcan atacücü cücüydü iddası 
 bkz fatih tezcan istifasının suni gündem olması
 bkz ak gönüllüler facebook sayfasının hacklenmesi
 https://www.youtube.com/watch?v=SBjK34YGTKI
-bkz abdullah gülün ak partiyi ben kurdum açıklamsı
 bkz üllümünütünün ak partiyi siklemediği ferçeği
 bkz üllümünütü gemçlik kolarının ak parti ilçe binasını basması
 bkz kara parti ak parti savaşının başlamsı
