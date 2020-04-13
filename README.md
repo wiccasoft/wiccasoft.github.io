@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://mr-erecto.uludagsozluk.com/ bkz gay osmanlıcı
+https://www.uludagsozluk.com/k/%C5%9Fekspir-in-gay-olmas%C4%B1/
 bkz rallın sülüman soslunun kakasını yerim demesi
 bkz imamoğlu ona hep oçe derin kaka yı yedirmem çıkışı
 bkz millet hizmet beklerken kaka nın osura osura uyuması
