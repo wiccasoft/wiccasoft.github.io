@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz rall ın türbanlı annesi vs imamaoğlan ona hep oçe der
 bkz soya değil boya bakar boya
 bkz reisin soyluya verdiği efso ayar
 bkz 13 nisan 2020 efso soylu geri vitesi
@@ -15,6 +16,7 @@ bkz efso hırtlar vadisi diyalogları
 bkz hırtlar vadisiyle büyüyen mafya özentisi kekolar
 https://chance-boudreaux.uludagsozluk.com/ bkz keko
 https://www.uludagsozluk.com/k/12-nisan-2020-s%C3%BCleyman-soylu-tiyatrosu/&w=bg
+https://www.uludagsozluk.com/k/bir-ka%C3%A7-ayya%C5%9Fa-s%C3%BCleyman-soylu-yu-yedirmeyiz/
 https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz fedönün siyasi ayağı
 https://eksisozluk.com/kurtlar-vadisi-izleyen-keko--6471786?a=popular
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
