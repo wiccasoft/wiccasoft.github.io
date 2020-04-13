@@ -1,67 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz habercücü tv de osuran adam
-bkz delin ciğerciye yapılan güllü pasta
-bkz bi kaç ayyaşa topkeklerimi yedirmem diyen ak lgbtli
-bkz kerimcan durmazın delin ciğerci doğum gününe yolladığı çelenk
-bkz atacücüye benzeyen adam vs binali benzeyen adam 
-bkz isa ecdadımız değildir
-bkz isa nın oçe olduğu gerçeğ
-bkz tanrının oluyum diyen oçeye hazreti demek
-bkz selib ciğerci murat övünç dosluğu
-bkz murat övüçün selin ciğerciyle beraber bot bağladık açıklaması
-bkz reis ona hep oçe derin bi kaç ayyaşa topkeklerini yedirmemesi
-https://chance-boudreaux.uludagsozluk.com/ bkz keko
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz keko len mq
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
-https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg
-bkz 162 boyundaki oçe ye ulu önder demek
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-%C3%BC-3-kelimeyle-anlat/&w=bg bkz o ç e
-https://www.uludagsozluk.com/k/osmanl%C4%B1-ecdad%C4%B1m%C4%B1z-de%C4%9Fildir/&w=bg bkz oçe
-https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz yunana dölü fedönün siyasi ayağı
-https://www.uludagsozluk.com/k/tayyib-vir%C3%BCsten-nasil-korunuyo/ bkz beş tepe camisi
-bkz selanikte doğan oçe nin cücülere ata olması
-bkz atacücünü oçe olduğu gerçeği
-bkz oçe atacücü vs cücüler
-bkz atacücünün virsü olduğu gerçeği
-bkz 1881 atacücü 18+81= 99 - 891 vilayet -batman = covid19
-https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/&w=gd bkz oçe atacücü
-https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/&w=gd bkz atacücü
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz selanikte doğan kefere
-bkz rall ile frank lucas ın atacücü ye boru gibi döşemesi
-https://www.uludagsozluk.com/k/selanikte-do%C4%9Fan-en-b%C3%BCy%C3%BCk-kefere/&w=bg bkz atacücü
-https://rall.uludagsozluk.com/  bkz resin yaveri
-bkz rall tayyip arasındaki dostluk
-bkz rallın türbanlı annesine topkek yollamak
-bkz imamoğlu hep ona oçe derin sessizliğini koruması
-bkz reisin soyluyu yemesinler diye rall'a bi kutu topkek yollaması
-https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan tombul ak çomar
-https://rall.uludagsozluk.com/ bkz sen kimsin amk topkekini ye otur velet evet
-https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
-bkz liseli  bebelerin tavsiye verecek yaşa gelmeleri
-bkz soya değil boya bakar boya
-bkz reisin soyluya verdiği efso ayar
-bkz 13 nisan 2020 efso soylu geri vitesi
-bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
-bkz soylunun çokomelli işler bakanlığıiçin tiyatro oynaması
-bkz çokomelli işler başkanlığına göz dikecek kadar alçalmak
--abi gel derin devlet övüyoruz.
-+saol canım övdüm geldim.
-bkz memati! sustur su iti.
-bkz efso hırtlar vadisi diyalogları
-bkz hırtlar vadisiyle büyüyen mafya özentisi kekolar
-https://chance-boudreaux.uludagsozluk.com/ bkz keko
-https://www.uludagsozluk.com/k/12-nisan-2020-s%C3%BCleyman-soylu-tiyatrosu/&w=bg
-https://www.uludagsozluk.com/k/bir-ka%C3%A7-ayya%C5%9Fa-s%C3%BCleyman-soylu-yu-yedirmeyiz/
-https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz fedönün siyasi ayağı
-https://eksisozluk.com/kurtlar-vadisi-izleyen-keko--6471786?a=popular
-https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
-https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
--->
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
