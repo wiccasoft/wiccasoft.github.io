@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kadir mısıroğlan com u satın alıp fes satıp parayı vurmak
 bkz ruhi çenet testere necmi benzerliği
 bkz ibnemiyim ya hoff poff diyen genç
 https://www.uludagsozluk.com/k/ibneyim-diye-sokakta-ba%C4%9F%C4%B1ran-hoff-poff-diyen-gen%C3%A7/
