@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz sülüman sosluyu yedirmem diyten ak lgbt li
+bkz sülüman sosluyu yedirmem diyten tontoş ak lgbt li
 bkz sülüman soslu tiyatrosu
 bkz ruhi çenet testere necmi benzerliği
 bkz ibnemiyim ya hoff poff diyen genç
