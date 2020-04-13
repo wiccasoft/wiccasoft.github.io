@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz havercücü tv de osuranın sülüman soslu çıkması
 bkz sülüman soslu tiyatrosu
 bkz ruhi çenet türkünün steve jobsıdır
 bkz barış özcan türkünün elon muskıdır
