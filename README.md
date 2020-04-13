@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz derincan durmazın doğum günü pastasına kobra sokması
+bkz derincan durmazın salıyom kobrayı açın arayı demesi
 bkz derin diğerci derin mermerci dostluğu
 bkz murat övüncün derin diğerciye yolladığı güllü pasta
 bkz derin diğerci derincan durmaz dostluğu
