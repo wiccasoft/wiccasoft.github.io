@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz derin diğercinin doğum gübü pastasını derincan durmazın kesmesi
 bkz ibneyim  reise götüm feda diyen ak genç
 bkz imamaoğlu one hep oçe derin sessiziliğini koruması
 bkz rallın topkeklerimi yedirmem demesi
