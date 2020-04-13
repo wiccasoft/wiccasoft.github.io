@@ -5,7 +5,7 @@
 bkz bali babacanın ben sizin babanızım yanaklarım tontiş demesi
 bkz macun kaplıcalının macun ol kampanyası
 https://www.uludagsozluk.com/ bkz ağır gay ve aptal veritabanı
-https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal annenin amı oç bi susu adam sansınlar
+https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal oç
 bkz fakirlerin komünük olmaya karar vermesi asdasdasdas
 bkz homoların mafya sevdası
 bkz sülüman sosluyu yedirmem diyen ak nonoş
