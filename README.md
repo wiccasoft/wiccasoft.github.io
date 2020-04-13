@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz yunan dölü fedönün ün siyasi ayağı
 bkz murat övüncün delin ciğercinin askerlik arkadaşı olduğu iddaları
 bkz selin diğerci nin murat övünce bacım demesi
 bkz kerimcan durmazın delin cieğrciye yolladığı doğum günü çelenki
