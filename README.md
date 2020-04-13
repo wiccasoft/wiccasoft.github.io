@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
 <!-- 
+bkz fatih tezcandan ekreme işparklar noldu ayarı
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz manüpülasyon ustası üstad
 bkz fatih tezcanın gündemi değiştirmek için polemik yaratması
 bkz fatih tezcan dan atacücü 161 boyla nasıl subay oldu polemiği
