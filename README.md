@@ -4,34 +4,6 @@
 
 [![Image](prototype/Screenshot_2020-04-10_14-47-54.png)]( https://www.youtube.com/watch?v=hZ9ieqBVsf4 )
 
-<!--
-bkz çiş işleri bakanlığı
-bkz çokomelli işler bakanlığı
-bkz efso hırtlar vadisi diyalogları
-bkz sedat peker sedat kapanoğlu dostluğu
-bkz fatih tezcan atacücü cücüydü iddası 
-bkz fatih tezcan istifasının suni gündem olması
-bkz ak gönüllüler facebook sayfasının hacklenmesi
-https://www.youtube.com/watch?v=SBjK34YGTKI
-bkz üllümünütünün ak partiyi siklemediği ferçeği
-bkz üllümünütü gemçlik kolarının ak parti ilçe binasını basması
-bkz kara parti ak parti savaşının başlamsı
-bkz ak parti beraber yürüdüh büz bü yüllürdü klibi
-https://www.youtube.com/watch?v=SBjK34YGTKI bkz ak parti üllümünütü deşifrü
-bkz ak üllümünütü parti yüyüp çenıl
-https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw
-bkz aslan akbey duran emmiyi niye öldürdü sorunsalı
-bkz ekrem süleyman fatih şeytan üşgeni
-bkz türkiyenin suni gündeminin çok sıkıcı olması
-bkz 13 nisan 2020 real donald trunk fake donald duck kavgası
-bkz 13 nisan 2020 damadın penis yüzüğünün fotoşok yani fake çıkması
-bkz fatih tezcan dan agopa kajmer fifti cent benzetmesi
-bkz sagopa kajmer atacücünün fifti centidir
-bkz fatih tezcan istifa tiyatrosu
-bkz fatih tezcandan ekreme işparklar noldu ayarı
-bkz fatih tezcan ın atacücüye yahudi subay demesi
--->
-
 [![Image](prototype/Screenshot_2020-04-06_13-25-28.png)]( https://www.youtube.com/watch?v=7-GTiaA9h88 )
 
 [![Image](prototype/Screenshot_2020-04-06_12-33-14.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
