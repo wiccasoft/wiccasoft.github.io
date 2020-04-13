@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz atacücüye benzeyen adam vs binali benzeyen adam 
 bkz isa ecdadımız değildir
 bkz isa nın oçe olduğu gerçeğ
 bkz tanrının oluyum diyen oçeye hazreti demek
