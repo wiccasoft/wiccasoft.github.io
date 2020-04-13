@@ -4,6 +4,7 @@
 <!--
 bkz habercücü tv de osuran adam
 bkz delin ciğerciye yapılan güllü pasta
+bkz bi kaç ayyaşa topkeklerimi yedirmem diyen ak lgbtli
 bkz kerimcan durmazın delin ciğerci doğum gününe yolladığı çelenk
 bkz atacücüye benzeyen adam vs binali benzeyen adam 
 bkz isa ecdadımız değildir
