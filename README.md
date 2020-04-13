@@ -3,7 +3,8 @@
 
 <!--
 bkz homoların mafya sevdası
-bkz 13 nisana2020 ak nonoşların coşması
+bkz 13 nisan 2020 ak nonoşların coşması
+bkz ak nonoşların aktrollüz ye demesi
 bkz iki gayin bildiği sır sır değildir
 bkz hırtlar vadisi dünyanın en gay dizisidir
 bkz homoların entry girerek rahatlamarı
