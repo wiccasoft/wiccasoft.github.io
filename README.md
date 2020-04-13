@@ -1,61 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-https://www.uludagsozluk.com/k/akp-vs-aktroll-sava%C5%9F%C4%B1/ bkz akp web sitesinin çkmesi
-https://www.uludagsozluk.com/k/g%C3%BCltekin-alan/&w=bg eywalla bro gözümsün
-https://sex-marijuana-and-lahmacun.uludagsozluk.com/  senin annenin amına karadeniz yazarım oç
-https://www.uludagsozluk.com/ bkz ağır gay ve aptal veritabanı
-bkz bali babacanın ben sizin babanızım yanaklarım tontiş demesi
-bkz macun kaplıcalının macun ol kampanyası
-https://sex-marijuana-and-lahmacun.uludagsozluk.com/ bkz ağır gay ve aptal oç
-bkz fakirlerin komünük olmaya karar vermesi asdasdasdas
-bkz homoların mafya sevdası
-bkz sülüman sosluyu yedirmem diyen ak nonoş
-bkz 13 nisan 2020 ak nonoşların coşması
-bkz ak nonoşların aktrollüz ye demesi
-bkz iki gayin bildiği sır sır değildir
-bkz hırtlar vadisi dünyanın en gay dizisidir
-bkz homoların entry girerek rahatlamarı
-bkz çukur vuruşam sahnesinde ay diyen homo
-bkz homoların birbilerine yürüyemeyip mafya olmaları
-bkz homoların neden mafya babası olmaları sorundalı
-https://www.uludagsozluk.com/k/gayl%C4%B1k-utan%C4%B1lacak-bir-%C5%9Fey-midir/
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-tahliye/&w=bg bkz homolardaki mafya sevdası
-bkz duran emmi polatı hoplattı mı sorundalı
-bkz iki gayin bildiği sır sır değildir
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg iki tane ağır homo
-bkz homoların mafya olma sebepleri
-bkz homolardaki mafya özentiliği
-https://frank-lucas.uludagsozluk.com  bkz ağır gay
-https://rall.uludagsozluk.com  bkz ağır gay
-https://le-siradan-siradam.uludagsozluk.com/ bkz ağır mafya babası gayranı gay
-https://mr-erecto.uludagsozluk.com/ bkz ağır gay
-https://www.uludagsozluk.com/k/s%C4%B1rbistan-kral%C4%B1-majesteleri-1nci-peter/
-https://www.uludagsozluk.com/k/gayl%C4%B1k-utan%C4%B1lacak-bir-%C5%9Fey-midir/
-bkz mafya babası tarafından sikilmeyi hayal eden ak boylar
-bkz hırtlar vadisi ile büyümüş mafya özentisi neslin güldürmesi
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg
-https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-%C5%9Fark%C4%B1c%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/%C5%9Fekspir-in-gay-olmas%C4%B1/ hayallerde yaşıyor bazı ibneler
-bkz ak boylarla top diye oynamak
-bkz olm siz giderken ben dönüyodum lan ibneler
-https://mr-erecto.uludagsozluk.com/ bkz gay osmanlıcı
-https://www.uludagsozluk.com/k/%C5%9Fekspir-in-gay-olmas%C4%B1/
-bkz rallın sülüman soslunun kakasını yerim demesi
-bkz imamoğlu ona hep oçe derin kaka yı yedirmem çıkışı
-bkz millet hizmet beklerken kaka nın osura osura uyuması
-bkz ali babacanın ben sizin babanızım ben ne dersem o olur demesi
-https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
-https://www.uludagsozluk.com/k/tayyib-isimli-erkeklerin-genel-%C3%B6zellikleri/ dünya lideri olmaları
-https://www.uludagsozluk.com/k/irem-derici-nin-evde-%C3%A7ok-g%C3%BCzelle%C5%9Ftim-demesi/ 
-bkz selin dericinin irem dericiye güzel diyen baha demesin demesi
-bkz serin dericinin bokunu yerim demesi
---->
-
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
