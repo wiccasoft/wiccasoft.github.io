@@ -4,6 +4,7 @@
 <!-- 
 bkz muhammedin ayı ikiye yarması
 bkz tanrının oluyum diyen oçe ye hazreti demek
+bkz selin ciğerci'ye yapılan güllü doğum günü süprizi
 https://www.uludagsozluk.com/k/hz-isa-tanr%C4%B1-n%C4%B1n-%C3%A7ocu%C4%9Fudur/&w=bg bkz oçe
 https://www.uludagsozluk.com/k/10-nisan-2020-gecesinin-siyasi-sorumlusu/ bkz yunan dölü fedönün ün siyasi ayağı
 bkz murat övüncün delin ciğercinin askerlik arkadaşı olduğu iddaları
