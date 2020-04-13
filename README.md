@@ -4,7 +4,7 @@
 <!-- 
 bkz delin diğercinin erkek halinin şeylere benzemesi
 bkz delin diğerciye yollanan güllü pasta
-bkz delin ciğercinin  13. cumburlop maaşına göz koyması
+bkz delin diğercinin  13. cumburlop maaşına göz koyması
 bkz murat övüncün delin diğerciye yolladığı güllü pasta
 bkz muhammedin ayı ikiye yarması
 bkz tanrının oluyum diyen oçe ye hazreti demek
