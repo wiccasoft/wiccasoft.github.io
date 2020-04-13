@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz çokomelli işler bakanlığının yeni logosu
 bkz tanrının oluyum diyen oçeye hazreti demek
 bkz selanikte doğan 161 lik oçeye ulu önder demek
 bkz delin diğercinin erkek halinin şeylere benzemesi
