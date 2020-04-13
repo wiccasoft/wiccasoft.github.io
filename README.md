@@ -5,6 +5,7 @@
 bkz homoların mafya sevdası
 bkz iki gayin bildiği sır sır değildir
 bkz hırtlar vadisi dünyanın en gay dizisidir
+bkz homoların entry girerek rahatlamarı
 bkz homoların birbilerine yürüyemeyip mafya olmaları
 bkz homoların neden mafya babası olmaları sorundalı
 https://www.uludagsozluk.com/k/gayl%C4%B1k-utan%C4%B1lacak-bir-%C5%9Fey-midir/
