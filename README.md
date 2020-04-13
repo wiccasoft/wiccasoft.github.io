@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz delirn diğercinin derincan durmaza ablan geyseli demesi
 bkz derincan durmazın salıyom kobrayı açın arayı demesi
 bkz derin diğerci derin mermerci dostluğu
 bkz murat övüncün derin diğerciye yolladığı güllü pasta
