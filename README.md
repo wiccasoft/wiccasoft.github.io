@@ -1,7 +1,10 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz selin ciğercinin kankası -->
+<!-- 
+bkz kerimcan durmazındelin cieğrciye yolladığı doğum günü çelenki
+https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz selin ciğercinin kankası -->
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
