@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ruhi çenet ene batur ortak yayını
+bkz ruhi çenet testere necmi benzerliği
 bkz sülüman sosluyu yedirmem diyten tontoş ak lgbt li
 bkz sülüman soslu tiyatrosu
 bkz ruhi çenet testere necmi benzerliği
