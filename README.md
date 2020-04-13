@@ -7,6 +7,11 @@ bkz reisin soyluya verdiği efso ayar
 bkz 13. cumburlop maaşına göz dikecek kadar alçalmak
 bkz soylunun çokomelli işler bakanlığıiçin tiyatro oynaması
 bkz çokomelli işler başkanlığı maaşına göz dikecek kadar alçalmak
+-abi gel derin devlet övüyoruz.
++saol canım övdüm geldim.
+bkz memati! sustur su iti.
+bkz efso hırtlar vadisi diyalogları
+https://eksisozluk.com/kurtlar-vadisi-izleyen-keko--6471786?a=popular
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
 -->
