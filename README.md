@@ -3,7 +3,7 @@
 
 <!--
 bkz habercücü tv de osuran adam
-bkz selin ciğerciye yapılan güllü pasta
+bkz delin ciğerciye yapılan güllü pasta
 bkz kerimcan durmazın delin ciğerci doğum gününe yolladığı çelenk
 bkz atacücüye benzeyen adam vs binali benzeyen adam 
 bkz isa ecdadımız değildir
