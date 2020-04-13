@@ -2,8 +2,9 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz imamoğlu ona hep oçe derin kk yı yedirmem çıkışı
-bkz millet hizmet beklerken bay kk nın osura osura uyuması
+bkz rallın süslüma soslunun kakasını yerim demesi
+bkz imamoğlu ona hep oçe derin kaka yı yedirmem çıkışı
+bkz millet hizmet beklerken kaka nın osura osura uyuması
 bkz ali babacanın ben sizin babanızım ben ne dersem o olur demesi
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
 https://www.uludagsozluk.com/k/tayyib-isimli-erkeklerin-genel-%C3%B6zellikleri/ dünya lideri olmaları
