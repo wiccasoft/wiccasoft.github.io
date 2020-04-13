@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz murat övüncün delin ciğercinin askerlik arkadaşı olduğu iddaları
 bkz selin diğerci nin murat övünce bacım demesi
 bkz kerimcan durmazın delin cieğrciye yolladığı doğum günü çelenki
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-ye-yap%C4%B1lan-g%C3%BCll%C3%BC-do%C4%9Fum-g%C3%BCn%C3%BC-s%C3%BCprizi/
