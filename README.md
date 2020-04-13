@@ -4,7 +4,7 @@
 <!--
 https://frank-lucas.uludagsozluk.com/ bkz kendini clint eastwood sanan çomar
 https://frank-lucas.uludagsozluk.com/ bkz yabancı nickli tombul ak çomar
-https://rall.uludagsozluk.com/ bkz türbanlı annesi olan velet
+https://rall.uludagsozluk.com/ bkz saen kimsin amk topkekinin ye otur velet evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
 bkz sözlük bebelerinin tavsiye verecek yaşa gelmeleri
 bkz rall ın türbanlı annesi vs imamaoğlan ona hep oçe der
