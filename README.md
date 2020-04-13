@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=bg bkz başını almak
 bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz imamoğlu ona hep oçe der vs rallın türbanlı annesi
 bkz fatih tezcan dan fatih terime işin yap uyarısı
