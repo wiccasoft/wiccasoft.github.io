@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz kerimcan durmazın ablan geyseli bebeğim demesi
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg 
 bkz kerimcan durmaz derin ciğerci dostluğu
 bkz tez antitez sentezcan
