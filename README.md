@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz moralinizi bozmak istemem ama 18 cm
+https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz 18 cm
 https://madcatlady.uludagsozluk.com/  bkz ibnelerin azının da bozuk olması
 https://madcatlady.uludagsozluk.com/ seni sıçan anneyi götten sikeyim oç
 https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
