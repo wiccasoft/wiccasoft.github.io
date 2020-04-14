@@ -8,7 +8,7 @@ bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
 bkz millet hizmet beklerken kakanın uyuması
 bkz irem dericinin melekler gagamı yesin demesi
-bkz tayybin karantinada güzelleştim demesi
+bkz tayyibin karantinada güzelleştim demesi
 bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
 https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
