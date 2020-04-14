@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz bamya pipisini mafya olarak kapatmaya çalışan ezik
 bkz bamya pipili kızgın eşcinsel mafya babaları
 bkz mafyanın bamya pipili eşcinsellerden çıktığı gerçeği
 bkz moralinizi bozmak istemem ama 18 cm
