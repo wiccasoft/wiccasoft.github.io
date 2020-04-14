@@ -1,50 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-
-<!-- 
-bkz ibneler birbiriniz bulun kardeş kardeş oynayın amk
-https://www.uludagsozluk.com/k/kardesnapiyonkafamageldi-ve-turuncuuu-beraberli%C4%9Fi/&w=bg oh be
-https://www.uludagsozluk.com/k/eksik-bir-%C5%9Fey-mi-var/&w=bg annenin amı eksik oç
-bkz 30 yaşında deep webte kız taklidi yapmak
-bkz hala utanmıyo amk evladı
-https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz ibnelerin yine kafa sikmesi 
-bkz lan ibneler 42 yaşından sonra sizi mi sikecem amın sıçtıkları
-https://kardesnapiyonkafamageldi.uludagsozluk.com/ sennin anneni sikeyim oç ibne
-https://madcatlady.uludagsozluk.com/ senin sıçan anneyi götten sikeyim oç
-https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
-https://frank-lucas.uludagsozluk.com  bkz ağır gay
-https://rall.uludagsozluk.com  bkz ağır gay
-https://le-siradan-siradam.uludagsozluk.com/ bkz ağır gay
-https://mr-erecto.uludagsozluk.com/ bkz ağır gay
-bkz ak lgbt li bebeleri döve döve sikmek
-https://www.uludagsozluk.com/k/luka-magnotta/&w=bg küfretme lan oç ibne
-https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg bkz kerimcan durmaz
-https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz 18 cm kardeş yorma kendini
-bkz moraliniz bomzak istemem ama 18 cm
-https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz kafası hariç 18cm
-https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz 18 cm
-https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
-bkz tez antitez sentezcan
-bkz sülüman soslu vs mansur yavaş
-bkz ben senin kakanı yerim diyen bld.bşk
-bkz millet hizmet beklerken kakanın uyuması
-bkz irem dericinin melekler gagamı yesin demesi
-bkz tayyibin karantinada güzelleştim demesi
-bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
-https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
-https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var - saylan
-https://www.uludagsozluk.com/k/berat-albayrak/ bkz kalariferlerin efendisi
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya babası
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz kırh yapar reis
-https://www.uludagsozluk.com/k/kenan-%C4%B1%C5%9F%C4%B1k/&w=bg bkz ışıklı kenan 
-https://www.uludagsozluk.com/k/berat-albayrak/ bkz şokomelli damad 
-https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
-https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
--->
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
