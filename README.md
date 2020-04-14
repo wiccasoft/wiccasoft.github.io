@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
 https://www.uludagsozluk.com/e/43167903/ bkz kerimcan durmazın 18 cm i
 bkz kerimcan durmazın bi sikerim homo olursun duramazsın demesi
 bkz kerimcan durmazın daha da durmam demesi
