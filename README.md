@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz kerimcan durmazın ablan geyseli bebeğim demesi
 bkz kerimcan durmaz selin ciğerciye gönderdiği güllü pasta
 bkz murat övünçün selin ciğerciyle beraber bot bapğladık demesi
 bkz selin ciğercinin erkek hali vs  kerimcan durmazın abla hali
