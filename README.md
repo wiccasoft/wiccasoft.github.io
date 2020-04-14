@@ -3,7 +3,7 @@
 
 <!--
 bkz ibnelerdeki mafya aşkı
-bkz bamya pipili kzıgın eşcinsel mafya babaları
+bkz bamya pipili kızgın eşcinsel mafya babaları
 bkz mafyanın bamya pipili eşcinsellerden çıktığı gerçeği
 bkz moralinizi bozmak istemem ama 18 cm
 bkz bamya pipisiyle küfrederek entry giren ergenler
