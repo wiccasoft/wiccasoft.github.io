@@ -7,7 +7,8 @@ bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz hep aynı isimlere entry girmek
 bkz ben senin kakanı yerim diyen bld.bşk
-bkz millet hizmet beklerken kakanın osura osura uyuması
+bkz millet hizmet beklerken kakanın sıçması
+bkz irem dericinin kakam geldi kakamı yaptım demesi
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
 https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
 https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg 
