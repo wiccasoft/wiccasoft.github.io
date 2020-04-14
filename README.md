@@ -10,6 +10,7 @@ bkz irem dericinin melekler gagamı yesin demesi
 bkz tayyibin karantinada güzelleştim demesi
 bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
 bkz tayybin damadın penis yüzüğünü azıyla taktığı iddaları
+https://www.uludagsozluk.com/k/ya%C5%9Fas%C4%B1n-pablo-escobar-geber-cali-karteli/ bkz scarface
 https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
 https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
