@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://madcatlady.uludagsozluk.com/  bkz ibnelerin azının da bozuk olması
 https://madcatlady.uludagsozluk.com/ seni sıçan anneyi götten sikeyim oç
 https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
 https://frank-lucas.uludagsozluk.com  bkz ağır gay
