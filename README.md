@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz murat övünçün selin ciğerciyle beraber bot bapğladık demesi
 bkz selin ciğercinin erkek hali vs  kerimcan durmazın abla hali
 bkz kerimcan durmaz selin ciğercinin aralarının açılması
 bkz serin ciğercinin kerimcan durmaza güzel diyen bokuma benzer demesi
