@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz kafası hariç 18cm
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg bkz 18 cm
 https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
 bkz tez antitez sentezcan
