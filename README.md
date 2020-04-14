@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://madcatlady.uludagsozluk.com/ senin sıçan anneyi götten sikeyim oç
 https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
 https://frank-lucas.uludagsozluk.com  bkz ağır gay
 https://rall.uludagsozluk.com  bkz ağır gay
