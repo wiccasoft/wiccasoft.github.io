@@ -1,54 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz mafyayı öven eşcinsel ezikler
-bkz mafyayı öven ergeni haşlanmış gergedan yarrağıyla dövmek
-bkz hırtlar vadisinin eşcinsel dizisi olduğu gerçeği
-bkz bamya pipisini mafya olarak kapatmaya çalışan ezik
-bkz bamya pipili kızgın eşcinsel mafya babaları
-bkz mafyanın bamya pipili eşcinsellerden çıktığı gerçeği
-bkz moralinizi bozmak istemem ama 18 cm
-bkz bamya pipisiyle küfrederek entry giren ergenler
-https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz 18 cm
-https://madcatlady.uludagsozluk.com/  bkz ibnelerin azının da bozuk olması
-https://madcatlady.uludagsozluk.com/ seni sıçan anneyi götten sikeyim oç
-https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
-https://frank-lucas.uludagsozluk.com  bkz ağır gay
-https://rall.uludagsozluk.com  bkz ağır gay
-https://le-siradan-siradam.uludagsozluk.com/ bkz ağır gay
-https://mr-erecto.uludagsozluk.com/ bkz ağır gay
-https://madcatlady.uludagsozluk.com/ bkz sakat ibne
-bkz tez antitez sentezcan
-bkz sülüman soslu vs mansur yavaş
-bkz ben senin kakanı yerim diyen bld.bşk
-bkz millet hizmet beklerken kakanın uyuması
-bkz irem dericinin melekler gagamı yesin demesi
-bkz tayyibin karantinada güzelleştim demesi
-bkz tayybini yolladığı topkekleri top diye yemeyen agebeli
-bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
-bkz tayyibni yabdırdığı hastanede ölen oçe ler
-bkz tayybin yabdırdığı hastanede topkek yiyen agebeli
-bkz tayybin damadın penis yüzüğünü azıyla taktığı iddaları
-https://rall.uludagsozluk.com bkz tayybin gönderdiği topkekleri yedirmem diyen homofobik agbli
-https://www.uludagsozluk.com/k/luka-magnotta/&w=bg bkz ibne oç
-https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz erkekimsiler
-https://www.uludagsozluk.com/k/ya%C5%9Fas%C4%B1n-pablo-escobar-geber-cali-karteli/ bkz scarface
-https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
-https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
-https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var - saylan
-https://www.uludagsozluk.com/k/berat-albayrak/ bkz kalariferlerin efendisi
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya babası
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz kırh yapar reis
-https://www.uludagsozluk.com/k/kenan-%C4%B1%C5%9F%C4%B1k/&w=bg bkz ışıklı kenan 
-https://www.uludagsozluk.com/k/berat-albayrak/ bkz şokomelli damad 
-https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
-https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
--->
-
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
