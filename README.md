@@ -8,6 +8,7 @@ bkz ben senin kakanı yerim diyen bld.bşk
 bkz millet hizmet beklerken kakanın uyuması
 bkz irem dericinin melekler gagamı yesin demesi
 bkz tayyibin karantinada güzelleştim demesi
+bkz tayybini yolladığı topkekleri top diye yemeyen agebeli
 bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
 bkz tayyibni yabdırdığı hastanede ölen oçe ler
 bkz tayybin yabdırdığı hastanede topkek yiyen agebeli
