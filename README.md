@@ -2,14 +2,13 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://madcatlady.uludagsozluk.com/ senin sıçan anneyi götten sikeyim oç
+https://madcatlady.uludagsozluk.com/ seni sıçan anneyi götten sikeyim oç
 https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
 https://frank-lucas.uludagsozluk.com  bkz ağır gay
 https://rall.uludagsozluk.com  bkz ağır gay
 https://le-siradan-siradam.uludagsozluk.com/ bkz ağır gay
 https://mr-erecto.uludagsozluk.com/ bkz ağır gay
-https://madcatlady.uludagsozluk.com/ bkz sakat ibneler
-https://www.uludagsozluk.com/k/luka-magnotta/&w=bg adam ibne beyler
+https://madcatlady.uludagsozluk.com/ bkz sakat ibne
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
