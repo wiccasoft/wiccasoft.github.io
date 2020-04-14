@@ -2,6 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=PeIVhIwE8zU )
 
+<!-- https://www.uludagsozluk.com/k/akp-ye-yok-edecek-do%C4%9Fal-bir-g%C3%BCzellik-b%C4%B1rak/ abooo bu ne lan -->
+
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
