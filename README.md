@@ -4,6 +4,7 @@
 
 <!-- 
 bkz 30 yaşında deep webte kız taklidi yapmak
+bkz hala utanmıyo amk evladı
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz ibnelerin yine kafa sikmesi 
 bkz lan ibneler 42 yaşından sonra sizi mi sikecem amın sıçtıkları
 https://kardesnapiyonkafamageldi.uludagsozluk.com/ sennin anneni sikeyim oç ibne
