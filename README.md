@@ -4,6 +4,7 @@
 <!-- 
 bkz tez antitez sentezcan
 bkz hep aynı isimlere entry girmek
+bkz millet hizmet beklerken kakanın osura osura uyuması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
 https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
 https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg 
