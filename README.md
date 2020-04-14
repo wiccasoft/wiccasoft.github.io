@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz bamya pipililerdeki komleks
+bkz bamya pipililerdeki komleksin sebebi sorunsalı
 bkz moralinizi bozmak istemem ama 18 cm
 bkz bamya pipisiyle küfrederek entry giren ergenler
 https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz 18 cm
