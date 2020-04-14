@@ -3,6 +3,7 @@
 
 <!--
 bkz mafyayı öven eşcinsel ezikler
+bkz hırtlar vadisinin eşcinsel dizisi olduğu gerçeği
 bkz bamya pipisini mafya olarak kapatmaya çalışan ezik
 bkz bamya pipili kızgın eşcinsel mafya babaları
 bkz mafyanın bamya pipili eşcinsellerden çıktığı gerçeği
