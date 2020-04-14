@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var -saylan
 bkz tayybin damadın penis yüzüğünü azıyla taktığı iddaları
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz tayyibin kızının tokmakçısı
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya babası
