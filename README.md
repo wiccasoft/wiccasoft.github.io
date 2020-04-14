@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ak lgbt li bebeleri döve döve sikmek
 https://www.uludagsozluk.com/k/luka-magnotta/&w=bg küfretme lan oç ibne
 https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg bkz kerimcan durmaz
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz 18 cm kardeş yorma kendini
