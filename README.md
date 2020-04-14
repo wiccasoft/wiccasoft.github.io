@@ -8,10 +8,10 @@ bkz ben senin kakanı yerim diyen bld.bşk
 bkz millet hizmet beklerken kakanın uyuması
 bkz irem dericinin melekler gagamı yesin demesi
 bkz tayyibin karantinada güzelleştim demesi
-bkz tayyibin hastaneleri oçeler gebersin diye yabdırdım demesi
 bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
-bkz tayyibin yaptırdığı ülkede yaşayan oçe kamalcılar
 bkz tayyibni yabdırdığı hastanede ölen oçe ler
+bkz tayybin yabdırdığı hastanede ölen cehabeli
+bkz tayybin yabdırdığı hastanede ye gitmeyen agebeli
 bkz tayybin damadın penis yüzüğünü azıyla taktığı iddaları
 https://www.uludagsozluk.com/k/luka-magnotta/&w=bg bkz ibne oç
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz erkekimsiler
