@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz kerimcan durmaz derin ciğerci dostluğu
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
