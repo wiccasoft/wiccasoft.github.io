@@ -3,6 +3,11 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
+https://frank-lucas.uludagsozluk.com  bkz ağır gay
+https://rall.uludagsozluk.com  bkz ağır gay
+https://le-siradan-siradam.uludagsozluk.com/ bkz ağır gay
+https://mr-erecto.uludagsozluk.com/ bkz ağır gay
 bkz ak lgbt li bebeleri döve döve sikmek
 https://www.uludagsozluk.com/k/luka-magnotta/&w=bg küfretme lan oç ibne
 https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg bkz kerimcan durmaz
