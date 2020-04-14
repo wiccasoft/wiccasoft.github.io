@@ -5,19 +5,6 @@
 <!-- 
 https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
 https://www.uludagsozluk.com/e/43167903/ bkz kerimcan durmazın 18 cm i
-bkz kerimcan durmazın bi sikerim homo olursun duramazsın demesi
-bkz kerimcan durmazın daha da durmam demesi
-bkz kerimcan durmazın selin ciğerciye malafatı sallaması
-bkz kerimcan durmazın açın kızlar arayı salıyom kobrayı demesi
-bkz kerimcan durmazın ablan geyseli bebeğim demesi
-bkz kerimcan durmaz selin ciğerciye gönderdiği güllü pasta
-bkz murat övünçün selin ciğerciyle beraber bot bapğladık demesi
-bkz selin ciğercinin erkek hali vs  kerimcan durmazın abla hali
-bkz kerimcan durmaz selin ciğercinin aralarının açılması
-bkz serin ciğercinin kerimcan durmaza güzel diyen bokuma benzer demesi
-bkz kerimcan durmazın ablan geyseli bebeğim demesi
-https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg 
-bkz kerimcan durmaz derin ciğerci dostluğu
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
