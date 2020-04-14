@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://rall.uludagsozluk.com bkz tayybini gönderdiği topkekleri yedirmem diyen agbli
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
