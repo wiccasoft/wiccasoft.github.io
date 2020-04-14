@@ -3,6 +3,7 @@
 
 <!--
 bkz ibnelerdeki mafya aşkı
+bkz mafyanın bamya pipili eşcinsellerden çıktığı gerçeği
 bkz moralinizi bozmak istemem ama 18 cm
 bkz bamya pipisiyle küfrederek entry giren ergenler
 https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz 18 cm
