@@ -10,8 +10,7 @@ bkz irem dericinin melekler gagamı yesin demesi
 bkz tayyibin karantinada güzelleştim demesi
 bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
 bkz tayyibni yabdırdığı hastanede ölen oçe ler
-bkz tayybin yabdırdığı hastanede ölen cehabeli
-bkz tayybin yabdırdığı hastanede ye gitmeyen agebeli
+bkz tayybin yabdırdığı hastanede topkek yiyen agebeli
 bkz tayybin damadın penis yüzüğünü azıyla taktığı iddaları
 https://www.uludagsozluk.com/k/luka-magnotta/&w=bg bkz ibne oç
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz erkekimsiler
