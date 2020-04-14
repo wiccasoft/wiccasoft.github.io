@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg bkz kerimcan durmaz
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz 18 cm kardeş yorma kendini
 bkz moraliniz bomzak istemem ama 18 cm
 https://www.uludagsozluk.com/k/ego-tatmini-nedir-nas%C4%B1l-yap%C4%B1l%C4%B1r/&w=bg bkz kafası hariç 18cm
