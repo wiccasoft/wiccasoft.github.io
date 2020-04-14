@@ -3,8 +3,8 @@
 
 
 <!-- 
-bkz ibnelerin yine kafa sikmesi 
-bkz lan ibneler 42 yaşında sonra sizi mi sikecem amın sıçtıkları
+https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz ibnelerin yine kafa sikmesi 
+bkz lan ibneler 42 yaşından sonra sizi mi sikecem amın sıçtıkları
 https://kardesnapiyonkafamageldi.uludagsozluk.com/ sennin anneni sikeyim oç ibne
 https://madcatlady.uludagsozluk.com/ senin sıçan anneyi götten sikeyim oç
 https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
