@@ -4,7 +4,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/43167903/ bkz ilk buluşmada çıkarıp masaya vuran erkek
-https://www.uludagsozluk.com/e/43167903/ bkz kerimcan durmazın 18 cm i
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
