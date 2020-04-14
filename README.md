@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz ibneler birbiriniz bulun kardeş kardeş oynayın amk
+https://www.uludagsozluk.com/k/kardesnapiyonkafamageldi-ve-turuncuuu-beraberli%C4%9Fi/&w=bg oh be
 https://www.uludagsozluk.com/k/eksik-bir-%C5%9Fey-mi-var/&w=bg annenin amı eksik oç
 bkz 30 yaşında deep webte kız taklidi yapmak
 bkz hala utanmıyo amk evladı
