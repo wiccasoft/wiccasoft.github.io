@@ -1,6 +1,25 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+
+<!-- 
+bkz sülüman soslu vs mansur yavaş
+bkz tez antitez sentezcan
+bkz hep aynı isimlere entry girmek
+bkz ben senin kakanı yerim diyen kız
+bkz millet hizmet beklerken kakanın osura osura uyuması
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ bkz arpacı üstad 
+https://www.uludagsozluk.com/k/ali-babacan/ bkz yürekleri ısıtan babacan gülüş
+https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg 
+https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var - saylan
+https://www.uludagsozluk.com/k/berat-albayrak/ bkz kalariferlerin efendisi
+https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya babası
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz kırh yapar reis
+https://www.uludagsozluk.com/k/kenan-%C4%B1%C5%9F%C4%B1k/&w=bg bkz ışıklı kenan 
+https://www.uludagsozluk.com/k/berat-albayrak/ bkz şokomelli damad 
+https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
+https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
+-->
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
