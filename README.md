@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz kerimcan durmazın daha da durmam demesi
 bkz kerimcan durmazın selin ciğerciye malafatı sallaması
 bkz kerimcan durmazın açın kızlar arayı salıyom kobrayı demesi
 bkz kerimcan durmazın ablan geyseli bebeğim demesi
