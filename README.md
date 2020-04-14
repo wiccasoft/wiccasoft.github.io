@@ -4,6 +4,7 @@
 <!-- 
 bkz tez antitez sentezcan
 bkz fatih tezcan atacücü cücüydü tezi
+https://www.uludagsozluk.com/k/ha%C5%9Flanm%C4%B1%C5%9F-gergedan-yarra%C4%9F%C4%B1/&w=bg bkz coronaya iyi geliy
 https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var - saylan
 https://www.uludagsozluk.com/k/berat-albayrak/ bkz kalariferlerin efendisi
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya babası
