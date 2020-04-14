@@ -2,7 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=PeIVhIwE8zU )
 
-<!-- https://www.uludagsozluk.com/k/akp-ye-yok-edecek-do%C4%9Fal-bir-g%C3%BCzellik-b%C4%B1rak/ abooo bu ne lan 
+<!-- 
+https://www.uludagsozluk.com/k/icat-edilmesi-beklenen-%C5%9Feyler/&w=bg zaman makinesi tamam başka
+https://www.uludagsozluk.com/k/akp-ye-yok-edecek-do%C4%9Fal-bir-g%C3%BCzellik-b%C4%B1rak/ abooo bu ne lan 
 https://galeri.uludagsozluk.com/r/duygu-%C3%B6zaslan-1998289/ lol
 https://www.uludagsozluk.com/k/e-devletten-deri-fantazi-maske-sipari%C5%9Fi-vermek/ lol
 -->
