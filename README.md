@@ -3,8 +3,8 @@
 
 
 <!-- 
-bkz sülüman soslu vs mansur yavaş
 bkz tez antitez sentezcan
+bkz sülüman soslu vs mansur yavaş
 bkz hep aynı isimlere entry girmek
 bkz ben senin kakanı yerim diyen kız
 bkz millet hizmet beklerken kakanın osura osura uyuması
