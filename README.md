@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/eksik-bir-%C5%9Fey-mi-var/&w=bg annenin amı eksik oç
 bkz 30 yaşında deep webte kız taklidi yapmak
 bkz hala utanmıyo amk evladı
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz ibnelerin yine kafa sikmesi 
