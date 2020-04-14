@@ -2,7 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-
+https://madcatlady.uludagsozluk.com/ bkz sakat ibneler
+https://www.uludagsozluk.com/k/luka-magnotta/&w=bg adam ibne beyler
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
