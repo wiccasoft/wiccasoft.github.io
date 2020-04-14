@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://rall.uludagsozluk.com bkz tayybini gönderdiği topkekleri yedirmem diyen agbli
+
 bkz tez antitez sentezcan
 bkz sülüman soslu vs mansur yavaş
 bkz ben senin kakanı yerim diyen bld.bşk
@@ -14,6 +14,7 @@ bkz tayyibin ülkesinde özgürce sıçabilen kamalcı
 bkz tayyibni yabdırdığı hastanede ölen oçe ler
 bkz tayybin yabdırdığı hastanede topkek yiyen agebeli
 bkz tayybin damadın penis yüzüğünü azıyla taktığı iddaları
+https://rall.uludagsozluk.com bkz tayybin gönderdiği topkekleri yedirmem diyen homofobik agbli
 https://www.uludagsozluk.com/k/luka-magnotta/&w=bg bkz ibne oç
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/&w=bg bkz erkekimsiler
 https://www.uludagsozluk.com/k/ya%C5%9Fas%C4%B1n-pablo-escobar-geber-cali-karteli/ bkz scarface
