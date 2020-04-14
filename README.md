@@ -4,7 +4,6 @@
 <!-- 
 https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var - saylan
 https://www.uludagsozluk.com/k/berat-albayrak/ bkz kalariferlerin efendisi
-https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var -saylan
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya babası
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz kırh yapar reis
 https://www.uludagsozluk.com/k/kenan-%C4%B1%C5%9F%C4%B1k/&w=bg bkz ışıklı kenan 
