@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://kardesnapiyonkafamageldi.uludagsozluk.com/ sennin anneni sikeyim oç ibne
 https://madcatlady.uludagsozluk.com/ senin sıçan anneyi götten sikeyim oç
 https://www.uludagsozluk.com/ bkz ultra gaylerin kafa siktiği yer
 https://frank-lucas.uludagsozluk.com  bkz ağır gay
