@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/kenan-%C4%B1%C5%9F%C4%B1k/&w=bg bkz ışıklı damad
 https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/ bkz 300 çeşit balık var -say lan
 https://www.uludagsozluk.com/k/berat-albayrak/ bkz şokomelli damad -->
 
