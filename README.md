@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+bkz 18 cm i göt deliğine alamayan padişah
 bkz iki eliyle bi siki dorultamayan padişah
 https://www.uludagsozluk.com/  bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz ikicni selim
