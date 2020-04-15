@@ -9,6 +9,7 @@ bkz hoşlaşılan erkeğe kek yapıp hapishaneye yollamak
 bkz hoşlaşılan erkeğin sabıklaı çıkması
 bkz abdullah çatlı vs abdullah öcalan
 bkz maliye bakanı niye para basmıyo sorunsalı
+https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-ekonomisi/&w=bg bkz damadın şaha kaldırdığı ekonomi
 bkz belediyenin zehirlediği köpekleri yemem diyen çinli kız
