@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg adamı madam yaparız madam
+https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/lol-e-%C3%A7a%C4%9F%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1zda-gelmeyen-sevgili/ lol
 https://www.uludagsozluk.com/k/fahrettin-koca/ bkz nasreddin hoca from anadol very funny guy
