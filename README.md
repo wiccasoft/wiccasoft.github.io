@@ -1,57 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-https://chance-boudreaux.uludagsozluk.com/ bkz yazık la kimin çocuysa
-bkz beş ayrı suçtan aranan erkek çekiciliği
-bkz interpolün kızmızı bültenle aradığı erkeğe sahip olmak
-bkz hoşlaşılan erkeğin cezaevinden çıkmasını beklemek
-bkz hoşlaşılan erkeğe kek yapıp hapishaneye yollamak
-bkz hoşlaşılan erkeğin sabıklaı çıkması
-bkz abdullah çatlı vs abdullah öcalan
-bkz maliye bakanı niye para basmıyo sorunsalı
-https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
-bkz belediyenin zehirlediği köpekleri yemem diyen çinli kız
-bkz deep turkish webin adana01 dizisine dönmesi
-bkz adana belediyesinin yaptığı 1000 yataklı hapisane
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
-bkz celal şengör den kuzay adandolu fay hattı kırılabilir uyarısı
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz sismik şişko
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör
-https://www.uludagsozluk.com/k/158-boyunda-k%C4%B1z/ bkz benden 20 cm kısa olan kız
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok gzüel zaten
-bkz iyi partinin hadi yine iyisiniz paketi yolladık demesi
-bkz gaga bulut vs enes batur 
-bkz enes abinin gaga buluta verdiği efso ayar
-bkz rizeli erkeklerin keko olması
-bkz sen yerinde durrr karşında enes baturrrrrrrr
-bkz 15 nisan 2020 gaga bulutun salınması
-bkz iyi partinin gönderdiği baklavanın azdırması
-bkz altını şer üstünü inci siker 
-bkz tez antitez sentezcan fatih tezcan
-bkz cima eylerken babanın içeri duhul eylemesi
-bkz sedat pekerin kaypakaya ya kaypak demesi
-bkz mahir çayanın kaypakkayaya kaymak demesi
-bkz iyi partinin gönderidiği kutudan bim fişi çıkması
-bkz hoşlaşılan mafya babasının salınması
-bkz 15 nisan 2020 hoşlaşılan mafya babası açıklaması
-bkz sedat kanapoğlunun oğlanları vs sedat pekerin adamları
-bkz ak partinin gönderdiği topkek kutusunu kıran kız
-https://www.uludagsozluk.com/k/ibrahim-kaypakkaya/&w=bg bkz kaypak
-https://www.uludagsozluk.com/k/ceketimi-satar%C4%B1m-ama-seni-a%C3%A7-b%C4%B1rakmam-diyen-erkek/ bkz sedat peker
-https://www.uludagsozluk.com/k/incicilerin-orospu-%C3%A7ocu%C4%9Fu-olmas%C4%B1/ inci siker ayıq olun 
-https://www.uludagsozluk.com/k/15-nisan-2020-cezaevi-tahliyeleri/&w=gd bkz ay kızlar siker bunlar bizi
-https://www.uludagsozluk.com/k/penisini-yan%C4%B1nda-ta%C5%9F%C4%B1yan-sap%C4%B1k-erkek/ ay sapık ayol 
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-rte-ye-yazd%C4%B1%C4%9F%C4%B1-mektup/ ay okuma
-https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlu ona hep oçe der
-https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz rizeli mafya babası çekiciliği
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ay neresi zeki bunun ayol
-https://www.uludagsozluk.com/k/15-nisan-2020-sedat-peker-a%C3%A7%C4%B1klamalar%C4%B1/&w=gd bkz ay fena oluyom ayol
-https://eksisozluk.com/15-nisan-2020-sedat-peker-aciklamasi--6474816?a=popular ay fena oluyom açıkladı
-https://www.uludagsozluk.com/k/partneriyle-cima-eylemeye-giden-t%C3%BCrbanl%C4%B1-videosu/ bkz facebook linkli konulu
-https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz tayyip from rize
--->
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
