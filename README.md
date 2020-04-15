@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 bkz celal şengör den kuzay adandolu fay hattı kırılabilir uyarısı
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz sismik şişko
