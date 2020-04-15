@@ -2,6 +2,12 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
+https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
+https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
+https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/sedat-peker-ne-i%C5%9F-yap%C4%B1yor-sorunsal%C4%B1/ rizeli iş adamı
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-canl%C4%B1-yay%C4%B1nda-osurmas%C4%B1/
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz iremin boku
