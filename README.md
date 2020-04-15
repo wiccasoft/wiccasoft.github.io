@@ -1,18 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
-<!-- 
-bkz kolpaçino özgür vs alattin çakıcı
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
-https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027
-https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan mafyası siker aga
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/&w=gd bkz bok gibi karı
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
-https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/ bkz oç rizeli
--->
-
-
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
