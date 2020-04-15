@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-28-50.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--- 
+https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/ bkz rizenin gururu
+https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/sedat-peker/ bkz rizemizin gururu
 https://www.uludagsozluk.com/k/fahrettin-altun/&w=bg bkz altın kalpli adam
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-tan-insanl%C4%B1k-dersleri/ bkz keçiörende 10 gün sular akmadı sularr
