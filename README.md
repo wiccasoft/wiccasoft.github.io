@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
 https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
