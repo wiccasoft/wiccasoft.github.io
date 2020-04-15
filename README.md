@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz deniz gezmiş abazaydı iddaları
 bkz 15 nisan 2020 mahir çayanın kaypakkayaya kaymak demesi
 bkz iyi partinin gönderidiği kutudan bim fişi çıkması
 bkz hoşlaşılan mafya babasının salınması
