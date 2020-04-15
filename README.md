@@ -2,7 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz rocan kesmiyom kafa kesiyom diyip ışıda katılan türk
+bkz ayrılıkçı türklerin ışıda katılıp racon kesmesi
+bkz racon kesmiyom kafa kesiyom diyip ışıda katılan türk
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=gd bkz polat alemdar
 bkz 1881 atacücü 18+81 =99 - 81 vilayet -batman = covid19
 bkz covid19 çıkar 2009 etti mi yirmi milliyetçi hareket partisi 20. yılı 
