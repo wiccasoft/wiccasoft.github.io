@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-28-50.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!--- 
+https://www.youtube.com/watch?v=INnejh_BXjM
 bkz amınoğlu ekremin göt olması
 bkz keçiören de 10 gün sular akmadı sularrr
 https://www.uludagsozluk.com/k/sedat-peker-istanbul-un-sefiridir/&w=bg eywalla bro
