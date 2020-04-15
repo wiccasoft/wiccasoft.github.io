@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz ezik cüce
 bkz efso hırtlar vadisi diyalogları
 bkz 15 nisan 2020 sedat pekerin racon kesmiyom kafa kesiyom açıklaması
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz polat alemdar
