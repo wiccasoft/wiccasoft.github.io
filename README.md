@@ -3,6 +3,7 @@
 
 <!-- 
 bkz iki eliyle bi siki dorultamayan padişah
+https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz bok gibi karı
 https://www.uludagsozluk.com/k/allah-yolunda-cihad-etmek-gereklili%C4%9Fi/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/400-liral%C4%B1k-escortun-100-liraya-olur-demesi/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz 2. abdulhamdi
