@@ -4,6 +4,7 @@
 <!-- 
 bkz hoşlaşılan mafya babasının salınması
 bkz 15 nisan 2020 hoşlaşılan mafya babası açıklaması
+bkz sedat kanapoğlunun oğlanları vs sedat pekerin adamları
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-rte-ye-yazd%C4%B1%C4%9F%C4%B1-mektup/ ay okuma
 https://www.uludagsozluk.com/k/15-nisan-2020-cezaevi-tahliyeleri/&w=gd bkz ay kızlar siker bunlar bizi
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlu ona hep oçe der
@@ -770,50 +771,4 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 
 <!--[![Image](smartdata/xerox.png)]( https://www.youtube.com/watch?v=llZWUutejao )-->
 
-[![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
-<!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
-
-[![Image](smartdata/xerox.png)]( https://www.youtube.com/watch?v=ynFYqvnxZxY )
-
-[![Image](smartdata/black-clad.png)]( https://www.youtube.com/watch?v=v9Ev_yC_cf0 )
-
-[![Image](smartdata/blockrain.png)]( https://www.youtube.com/watch?v=ueiBYxI6Eqg )
-
-[![Image](smartdata/finalflightofosiris.png)]( https://www.youtube.com/watch?v=N3ZtokEn05s )
-
-[![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
-<!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
-
-
-<!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
-[![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
-
-[![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
-
-[![Image](smartdata/Bolivia’s-Lithium-Isn’t-The-New-Oil.png)]( https://foreignpolicy.com/2019/11/13/coup-morales-bolivia-lithium-isnt-new-oil/)
-
-[![Image](smartdata/syria-oil.png)]( https://www.theguardian.com/us-news/live/2019/nov/13/trump-news-today-live-impeachment-hearings-bill-taylor-george-kent-ukraine-democrats-latest-updates )
-
-
-[![Image](smartdata/bolivia-coup.png)]( https://www.theguardian.com/world/2019/nov/12/evo-morales-arrives-mexico-bolivia-power-vacuum )
-
-[![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- https://www.youtube.com/watch?v=Xo7aPtVfzps fact or friction -->
-
-[![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
-
-[![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
-<!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
-
-[![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
-<!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
-
-[![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
-
-### witchcraft 0.1
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/267559525" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
-
+[![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STa
