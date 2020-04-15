@@ -3,6 +3,7 @@
 
 <!--
 bkz sedat peker vs tony montana
+https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan siker bilader
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/ bkz polat alemdar ve çetesi
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italya mafyası siker aga
