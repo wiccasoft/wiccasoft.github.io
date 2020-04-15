@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz sedat peker vs polat alemdar
 bkz hoşlaşılan erkeğin sabıkalı çıkması
 bkz beş ayrı suçtan aranan erkek karizması
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz 15 nisan 2020 sedat peker açıklamaları
