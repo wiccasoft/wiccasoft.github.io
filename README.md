@@ -2,7 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz hoşlaşılan erkeğe keke yapıp hapishaneye yollamak
+bkz hoşlaşılan erkeğin cezaevinden çıkmasını beklemek
+bkz hoşlaşılan erkeğe kek yapıp hapishaneye yollamak
 bkz hoşlaşılan erkeğin sabıklaı çıkması
 bkz abdullah çatlı vs abdullah öcalan
 bkz maliye bakanı niye para basmıyo sorunsalı
