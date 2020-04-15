@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/158-boyunda-k%C4%B1z/ bkz benden 20 cm kısa olan kız
-https://www.youtube.com/watch?v=TA6y-oRT1w0
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok gzüel zaten
 bkz iyi partinin hadi yine iyisiniz paketi yolladık demesi
 bkz gaga bulut vs enes batur 
 bkz enes abinin gaga buluta verdiği efso ayar
