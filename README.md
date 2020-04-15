@@ -3,6 +3,7 @@
 
 <!--
 bkz o şimdi asker canı neler ister
+bkz mafya babası çekiciliği vs asker çekiciliği
 https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/&w=gd bkz tayyip
 https://www.uludagsozluk.com/k/ozan-orhon/&w=bg bkz antonia banderas 
 bkz rizeli erkeklerdeki hayvani çekicilik
