@@ -3,6 +3,7 @@
 
 <!--- 
 bkz amınoğlu ekremin göt olması
+https://www.uludagsozluk.com/k/sedat-peker-istanbul-un-sefiridir/&w=bg eywalla bro
 https://www.uludagsozluk.com/k/trakyal%C4%B1lar%C4%B1n-genel-%C3%B6zellikleri/&w=bg oç olmaları
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=bg bkz haydar dümen
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker agaaa
