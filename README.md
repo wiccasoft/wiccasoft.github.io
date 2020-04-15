@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ahsen tv sedat peker röportajı
+https://www.uludagsozluk.com/k/36-ya%C5%9F%C4%B1nda-erkek-56-ya%C5%9F%C4%B1nda-k%C4%B1z-ili%C5%9Fkisi/ bkz sedat peker
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz rizemizin gururu
 https://www.uludagsozluk.com/k/%C5%9Fike-denince-akla-gelen-ilk-tak%C4%B1m/&w=bg bkz fenerbaçe
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
