@@ -6,8 +6,6 @@ https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 bkz celal şengör den kuzay adandolu fay hattı kırılabilir uyarısı
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz sismik şişko
-bkz celal şengörün hor görmeyin kızı demesi
-bkz froum sitesinde yaşayan tek hücreli organizmalar
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör
 https://www.uludagsozluk.com/k/158-boyunda-k%C4%B1z/ bkz benden 20 cm kısa olan kız
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok gzüel zaten
