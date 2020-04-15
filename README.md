@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+bkz partneriyle cima eylerken içeri kayınpederi duhül eden türbanlı
+https://www.uludagsozluk.com/k/partneriyle-cima-eylemeye-giden-t%C3%BCrbanl%C4%B1-videosu/&w=bg
 https://www.uludagsozluk.com/k/berat-albayrak-istifa-et/ bkz bence her şey çok güzel zaten
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz polat alemdar
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-gay-pop%C3%BClasyonu/ lol
