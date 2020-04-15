@@ -6,7 +6,7 @@ bkz max cady vs sedat peker
 bkz testere necmi vs sakar sedat 
 bkz laz ziya vs alaattin çakıcı
 bkz sedat peker vs tony montana
-bkz mafya adamlarının yanındaki ezik yaverler
+bkz kolpaçino özgür vs sedat peker
 https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
