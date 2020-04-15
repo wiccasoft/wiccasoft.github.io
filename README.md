@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz hırtlar vadisi müzikleri
 bkz 18 cm e bi oturuşta içine alamayan padişah
 bkz iki eliyle bi siki dorultamayan padişah
 https://www.uludagsozluk.com/  bkz hayallerde yaşıyor bazı ibneler
