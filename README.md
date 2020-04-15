@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+blz el bagdadinin nusra militalarını doğu gutaya sürmesi
 bkz racon kesmiyom kafa kesiyom diyip ışıda katılmak
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz polat alemdar
 bkz 16 nisan 2020 aslan akbeyin sedat pekerin elini öpmesi
