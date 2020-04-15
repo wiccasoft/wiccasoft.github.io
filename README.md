@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmenler-kanalistanbul-u-kazs%C4%B1n/
+https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmenler-maske-%C3%BCretsin-kampanyas%C4%B1/
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
 https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/ bkz oç rizeli
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-b%C3%BCy%C3%BCk-millet-meclisi/&w=bg bkz çok büyük meclis çook
