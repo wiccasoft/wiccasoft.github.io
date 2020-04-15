@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
 https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
