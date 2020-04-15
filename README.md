@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg ay çok yakışıklı ayol
 https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz seyfo dayı
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/son-kabaday%C4%B1-alaattin-%C3%A7ak%C4%B1c%C4%B1-reis/
