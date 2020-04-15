@@ -1,15 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
-https://www.uludagsozluk.com/k/lol-e-%C3%A7a%C4%9F%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1zda-gelmeyen-sevgili/ lol
-https://www.uludagsozluk.com/k/fahrettin-koca/ bkz nasreddin hoca from anadol very funny guy
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w= bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz tayyip from rize
--->
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
