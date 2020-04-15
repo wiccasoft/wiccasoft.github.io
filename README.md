@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/tayyib-%C3%B6l%C3%BCrse-bize-ne-olur/ nereye entry gireriz
 bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
 bkz beş ayrı suçtan aranan erkek karizması
