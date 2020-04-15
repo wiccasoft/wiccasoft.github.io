@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz g3 piayde tüfeğini götüne sokar mermi bitene kadar tararım diyen rizeli
+bkz g3 piayde tüfeğini götünüze sokar mermi bitene kadar tararım diyen rizeli
 bkz sedat pekerle hemşoyum ayağınız denk alın diyen asker
 https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz polat alemdar
 https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz sedat peker
