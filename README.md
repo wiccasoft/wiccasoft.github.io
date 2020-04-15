@@ -5,9 +5,9 @@
 bkz hoşlaşılan mafya babasının salınması
 bkz 15 nisan 2020 hoşlaşılan mafya babası açıklaması
 bkz sedat kanapoğlunun oğlanları vs sedat pekerin adamları
+https://www.uludagsozluk.com/k/15-nisan-2020-cezaevi-tahliyeleri/&w=gd bkz ay kızlar siker bunlar bizi
 https://www.uludagsozluk.com/k/penisini-yan%C4%B1nda-ta%C5%9F%C4%B1yan-sap%C4%B1k-erkek/ ay sapık ayol 
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-rte-ye-yazd%C4%B1%C4%9F%C4%B1-mektup/ ay okuma
-https://www.uludagsozluk.com/k/15-nisan-2020-cezaevi-tahliyeleri/&w=gd bkz ay kızlar siker bunlar bizi
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlu ona hep oçe der
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-fitre-ve-zekat-talebinde-bulunmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz rizeli mafya babası çekiciliği
