@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-mutlu-etmenin-yolu/&w=bg blowjob yap orospu
 bkz okunmayacağı halde entry giren ak nonoş zeka seviyesi
 bkz sedat kapanoğlunun ak nonoşlarını madara etmek
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
