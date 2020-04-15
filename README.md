@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz polat alemdar
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-gay-pop%C3%BClasyonu/ lol
 https://www.uludagsozluk.com/k/turuncu-ve-dertler-derya-olmu%C5%9F-a%C5%9Fk%C4%B1/&w=gd ay kızlar yeni aşk mı doğuyo ne -->
 
