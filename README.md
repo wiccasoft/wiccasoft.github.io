@@ -3,6 +3,7 @@
 
 <!--
 bkz survivor macun kaplıcalı
+bkz macun kaplıcalıya melaba televole diyip kaçmak
 bkz yazdıkları okunuyormuş gibi entry giren liseliler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz hayallerde yaşıyor bazı ibneler
