@@ -1,6 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
+<!-- https://www.uludagsozluk.com/k/turuncu-ve-dertler-derya-olmu%C5%9F-a%C5%9Fk%C4%B1/&w=gd ay kızlar yeni aşk mı doğuyo ne -->
+
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
