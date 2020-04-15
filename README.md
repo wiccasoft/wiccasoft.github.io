@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz sedat peker
 bkz erkeğinin hapisten çıkmasını bekleyen kızlar
 bkz erkeğinin askerliğinin bitmesini bekleyen kızlar
 bkz hoşlaşılan erkeğin askerde olması
