@@ -3,6 +3,7 @@
 
 <!-- 
 bkz gaga bulut vs enes batur 
+bkz gaga bulutun salınması
 bkz iyi partinin gönderdiği baklavanın azdırması
 bkz altını şer üstünü inci siker 
 bkz tez antitez sentezcan fatih tezcan
