@@ -1,7 +1,7 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
+<!--
 bkz beş ayrı suçtan aranan mafya babası karizması
 bkz sedar pekerin kral adam olduğu gerçeği
 bkz italyan mafyası vs türk mafyası
