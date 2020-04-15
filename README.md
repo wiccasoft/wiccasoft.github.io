@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/i%C5%9Fid/&w=bg bkz racon kesmiyom kafa kesiyom
 bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
 bkz beş ayrı suçtan aranan erkek karizması
