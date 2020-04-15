@@ -2,83 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg
-https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker kankağ
-https://www.uludagsozluk.com/k/penisini-yan%C4%B1nda-ta%C5%9F%C4%B1yan-sap%C4%B1k-erkek/&w=gd bkz abdullah çakar
-https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg  bkz hırtlar vadisi efso müzükleri
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/&w=gd bkz bok gibi karı
-https://www.uludagsozluk.com/k/fesli-orospu-evlad%C4%B1/ bkz orosbunun sıçtığı fesli
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/&w=gd bkz bok gibi karı
-https://www.uludagsozluk.com/k/irem-derici/&w=bg bkz 15 gündür sıçamıyom açıklaması
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/&w=gd bkz bok gibi karı
-https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz hırtlar vadisi efso müzükleri
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ tıklağ video açılsın kankağ
-bkz irem dericinin 15 gündür bok yapmıyorum demesi
-bkz fahrettin altunun 3 maaşını kızılhaça bağışlaması
-https://www.uludagsozluk.com/k/i%C5%9Fe-gitmeyip-maa%C5%9F-alan-memurlar-ve-%C3%B6%C4%9Fretmenler/&w=bg bkz oçları
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz fatih portakal vs maymun götü
-https://www.uludagsozluk.com/k/berat-albayrak-istifa-et/&w=bg bkz berat para bassın kampanyası
-https://www.uludagsozluk.com/k/fahrettin-altunun-maa%C5%9F%C4%B1/ bkz fahrettin altuın kim amk
-https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan mafya siker aga
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker aga
-bkz berat niye size para basmıyor sorunsalı
-https://www.uludagsozluk.com/k/hem-kel-hem-berat-bir-de-corana/
-https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz polat alemdar
-https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz hırtlar vadisi müzikleri
-bkz 18 cm e bi oturuşta içine alamayan padişah
-bkz iki eliyle bi siki dorultamayan padişah
-https://www.uludagsozluk.com/  bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz ikicni selim
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz bok gibi karı
-https://www.uludagsozluk.com/k/allah-yolunda-cihad-etmek-gereklili%C4%9Fi/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/400-liral%C4%B1k-escortun-100-liraya-olur-demesi/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz 2. abdulhamdi
-https://www.uludagsozluk.com/k/kendisine-romal%C4%B1lar%C4%B1n-sezar%C4%B1-diyen-padi%C5%9Fah/ bkz ikinci selim
-https://www.uludagsozluk.com/k/hepinizi-kar%C4%B1m-yapaca%C4%9F%C4%B1m/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/hepinizi-kar%C4%B1m-yapaca%C4%9F%C4%B1m/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/&w=gd bkz oç rizeli
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
 https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/ bkz oç rizeli
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-b%C3%BCy%C3%BCk-millet-meclisi/&w=bg bkz çok büyük meclis çook
-https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
-https://www.uludagsozluk.com/k/15-nisan-2020-misvak-capsi/ bkz şaka maka madafaka
-https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=gd bkz oç ölmemiş beyler
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/ bkz gırh yapar
-https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz 2. abdulmuttap
-https://www.uludagsozluk.com/k/anarko-kapitalizm/ bkz yeni dünya düzeni
-https://www.uludagsozluk.com/k/kendisine-romal%C4%B1lar%C4%B1n-sezar%C4%B1-diyen-padi%C5%9Fah/ bkz oç 2. memed
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
-https://www.uludagsozluk.com/k/adnan-menderes-in-yedi%C4%9Fi-haltlar/ bkz yemediği bok kalmamış amk
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/&w=gd bkz bok gibi karı
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
-https://www.uludagsozluk.com/k/i%C5%9Fid/&w=bg bkz racon kesmiyom kafa kesiyom
-bkz reisin ışıda katılması
-bkz sedat peker sedat kapanoğlu dostluğu
-bkz beş ayrı suçtan aranan erkek karizması
-bkz kırmızı bültenle aranmayıp adamım diye ortada gezmek
-bkz irem dericinin 15 gündür sıçmıyom mezar gibi koktu içim demesi  
-https://www.uludagsozluk.com/k/tayyib-%C3%B6l%C3%BCrse-bize-ne-olur/ neolur
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
-https://www.uludagsozluk.com/k/kendisine-romal%C4%B1lar%C4%B1n-sezar%C4%B1-diyen-padi%C5%9Fah/ mehmet the second
-https://www.uludagsozluk.com/k/adnan-menderes-in-yedi%C4%9Fi-haltlar/ yemediği halt mı kaldı oç nin
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-tahliye-olmas%C4%B1/&w=bg yaradana kurban
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-kavanozdaki-cinsel-organ%C4%B1/&w=bg bkz gergedan yarrağı
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz dericinin boku
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
-https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
-https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
-https://www.uludagsozluk.com/k/sedat-peker-ne-i%C5%9F-yap%C4%B1yor-sorunsal%C4%B1/ rizeli iş adamı
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-canl%C4%B1-yay%C4%B1nda-osurmas%C4%B1/
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz iremin boku
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker agaaa
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz bi çaksa yamulursunuz amq
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan mafyası siker aga
 -->
 
