@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/irem-derici/&w=bg bkz 15 gündür sıçamıyom açıklaması
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/&w=gd bkz bok gibi karı
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz hırtlar vadisi efso müzükleri
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ tıklağ video açılsın kankağ
