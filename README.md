@@ -5,6 +5,7 @@
 bkz sedta peker kral adam olduğu gerçeği
 bkz italyan mafyası vs türk mafyası
 bkz abdullah çatlı vs alattin çakcı vs sedat peker
+https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz mafya erkeklerdeki hayvani çekicilik
 https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efos replikler
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
