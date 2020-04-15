@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/son-kabaday%C4%B1-alaattin-%C3%A7ak%C4%B1c%C4%B1-reis/
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz o şimdi asker canı neler ister
 https://www.uludagsozluk.com/k/kardesnapiyonkafamageldi-ve-turuncuuu-beraberli%C4%9Fi/&w=bg
 bkz g3 piayde tüfeğini götünüze sokar mermi bitene kadar tararım diyen rizeli
