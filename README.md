@@ -2,7 +2,6 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz deniz gezmiş abazaydı iddaları
 bkz altını şer üstünü inci siker 
 bkz cima eylerken babanın içeri duhul eylemesi
 bkz 15 nisan 2020 mahir çayanın kaypakkayaya kaymak demesi
