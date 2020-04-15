@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz baron karahanlı vs sedat peker
+bkz testere necmi vs sakar sedat 
 bkz laz ziya vs alaattin çakıcı
 bkz sedat peker vs tony montana
 https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
