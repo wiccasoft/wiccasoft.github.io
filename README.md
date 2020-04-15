@@ -3,7 +3,7 @@
 
 <!--
 bkz sedat peker vs tony montana
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz sedat hoplatarak siker
+https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan siker aga adamlar psikopat
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat hoplatarak siker bunu
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan siker bilader
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
@@ -56,7 +56,6 @@ bkz 15 nisan 2020 sedat pekerin racon kesmiyom kafa kesiyom açıklaması
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz polat alemdar
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz alpaslan türkeş
 https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz tayyip from rize
-https://www.uludagsozluk.com/k/sedat-peker/ bkz rizeli iş adamı
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz seyfo dayının getir götürünü yapar
 bkz sedat peker vs polat alemdar
 bkz hoşlaşılan erkeğin sabıkalı çıkması
