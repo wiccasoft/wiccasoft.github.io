@@ -1,41 +1,6 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz hayle ettiğin mafya babası başkasıyla sevişiyor
-bkz oğlanlardaki mafya erkek tutkusu
-bkz mafya erkeğinin hapisten çımasını bekleyen oğlanlar
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz mafya erkek seksiliği
-bkz alattin çakıcı vs sedat peker
-bkz survivor macun kaplıcalı
-bkz macun kaplıcalıya melaba televole diyip kaçmak
-bkz yazdıkları okunuyormuş gibi entry giren liseliler
-https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/kardesnapiyonkafamageldi-ve-turuncuuu-beraberli%C4%9Fi/&w=bg bkz iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg ay çok yakışıklı ayol
-https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz seyfo dayı
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
-https://www.uludagsozluk.com/k/son-kabaday%C4%B1-alaattin-%C3%A7ak%C4%B1c%C4%B1-reis/
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz o şimdi asker canı neler ister
-https://www.uludagsozluk.com/k/kardesnapiyonkafamageldi-ve-turuncuuu-beraberli%C4%9Fi/&w=bg
-bkz g3 piayde tüfeğini götünüze sokar mermi bitene kadar tararım diyen rizeli
-bkz sedat pekerle hemşoyum ayağınız denk alın diyen asker
-https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz polat alemdar
-https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz sedat peker
-bkz erkeğinin hapisten çıkmasını bekleyen kızlar
-bkz erkeğinin askerliğinin bitmesini bekleyen kızlar
-bkz hoşlaşılan erkeğin askerde olması
-bkz o şimdi asker canı neler ister
-bkz hoşlaşılan erkeğin hapiste olması
-https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/&w=gd bkz tayyip
-https://www.uludagsozluk.com/k/ozan-orhon/&w=bg bkz antonia banderas 
-bkz rizeli erkeklerdeki hayvani çekicilik
-https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz rte
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd 
-https://www.uludagsozluk.com/k/sedat-peker/&w=gd 
-https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz rizeli isyankar asker oğlan -->
-
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-09.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
