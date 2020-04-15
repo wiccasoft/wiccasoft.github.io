@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan mafya siker aga
+https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker aga
 bkz berat niye size para basmıyor sorunsalı
 https://www.uludagsozluk.com/k/hem-kel-hem-berat-bir-de-corana/
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz polat alemdar
