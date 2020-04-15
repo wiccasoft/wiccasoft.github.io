@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-ekonomisi/&w=bg bkz damadın şaha kaldırdığı ekonomi
 bkz belediyenin zehirlediği köpekleri yemem diyen çinli kız
 bkz deep turkish webin adana01 dizisine dönmesi
