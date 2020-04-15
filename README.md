@@ -1,34 +1,6 @@
 
-[![Image](covid19/Screenshot_2020-04-13_07-28-50.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
+[![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
-<!--- 
-https://www.youtube.com/watch?v=INnejh_BXjM
-bkz amınoğlu ekremin göt olması
-bkz keçiören de 10 gün sular akmadı sularrr
-https://www.uludagsozluk.com/k/sedat-peker-istanbul-un-sefiridir/&w=bg eywalla bro
-https://www.uludagsozluk.com/k/trakyal%C4%B1lar%C4%B1n-genel-%C3%B6zellikleri/&w=bg oç olmaları
-https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=bg bkz  yarramın başı
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker agaaa
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz bi çaksa yamulursunuz amq
-https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan siker aga adamlar psikopat
-https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg
-https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efos replikler
-https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
-https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
-https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
-https://www.uludagsozluk.com/k/sedat-peker-istanbul-un-sefiridir/&w=bg
-https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/ bkz rizenin gururu
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
-https://www.uludagsozluk.com/k/sedat-peker/ bkz rizemizin gururu
-https://www.uludagsozluk.com/k/fahrettin-altun/&w=bg bkz altın kalpli adam
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-tan-insanl%C4%B1k-dersleri/ bkz keçiörende 10 gün sular akmadı sularr
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rizenin gururu
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-canl%C4%B1-yay%C4%B1nda-osurmas%C4%B1/
-https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/
--->
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
