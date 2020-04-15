@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=gd bkz cüce
+https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/ bkz gırh yapar
 https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz 2. abdulmuttap
 https://www.uludagsozluk.com/k/anarko-kapitalizm/ bkz yeni dünya düzeni
