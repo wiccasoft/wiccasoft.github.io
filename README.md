@@ -3,6 +3,7 @@
 
 <!-- 
 bkz deniz gezmiş abazaydı iddaları
+bkz altını şer üstünü inci siker 
 bkz cima eylerken babanın içeri duhul eylemesi
 bkz 15 nisan 2020 mahir çayanın kaypakkayaya kaymak demesi
 bkz iyi partinin gönderidiği kutudan bim fişi çıkması
