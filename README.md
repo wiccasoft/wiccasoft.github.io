@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/anarko-kapitalizm/ bkz yeni dünya düzeni
 https://www.uludagsozluk.com/k/kendisine-romal%C4%B1lar%C4%B1n-sezar%C4%B1-diyen-padi%C5%9Fah/ bkz oç 2. memed
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
 https://www.uludagsozluk.com/k/adnan-menderes-in-yedi%C4%9Fi-haltlar/ bkz yemediği bok kalmamış amk
