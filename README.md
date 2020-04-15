@@ -4,6 +4,7 @@
 <!-- 
 bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
+https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-kavanozdaki-cinsel-organ%C4%B1/&w=bg bkz gergedan yarrağı
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz dericinin boku
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
 https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
