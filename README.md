@@ -2,8 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz beş ayrı suçtan aranan erkek çekiciliği
 bkz interpolün kızmızı bültenle aradığı erkeğe sahip olmak
-bkz beş ayrı suçtan aranan erkek karizması
 bkz hoşlaşılan erkeğin cezaevinden çıkmasını beklemek
 bkz hoşlaşılan erkeğe kek yapıp hapishaneye yollamak
 bkz hoşlaşılan erkeğin sabıklaı çıkması
