@@ -3,6 +3,7 @@
 
 <!-- 
 bkz altını şer üstünü inci siker 
+bkz tez antitez sentezcan fatih tezcan
 bkz cima eylerken babanın içeri duhul eylemesi
 bkz sedat pekerin kaypakaya ya kaypak demesi
 bkz mahir çayanın kaypakkayaya kaymak demesi
