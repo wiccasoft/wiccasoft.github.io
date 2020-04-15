@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan siker aga adamla psikopat
 bkz beş ayrı suçtan aranan mafya babası karizması
 bkz sedar pekerin kral adam olduğu gerçeği
 bkz italyan mafyası vs türk mafyası
