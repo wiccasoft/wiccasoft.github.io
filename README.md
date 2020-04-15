@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+bkz kolpaçino özgür vs alattin çakıcı
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027
