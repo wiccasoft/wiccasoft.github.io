@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz survivor macun kaplıcalı
 bkz yazdıkları okunuyormuş gibi entry giren liseliler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz hayallerde yaşıyor bazı ibneler
