@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz iyi partinin gönderdiği baklava
 bkz altını şer üstünü inci siker 
 bkz tez antitez sentezcan fatih tezcan
 bkz cima eylerken babanın içeri duhul eylemesi
