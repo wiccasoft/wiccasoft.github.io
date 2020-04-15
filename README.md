@@ -1,7 +1,9 @@
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!- -https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz rizeli isyankar asker oğlan -->
+<!--
+https://www.uludagsozluk.com/k/sedat-peker/&w=gd rizeli mafya babası
+https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz rizeli isyankar asker oğlan -->
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
