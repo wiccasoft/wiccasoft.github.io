@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz deep türkis web teki kara kafalı ergenlerin beni türk sanmaları
 bkz 1881 atacücü 18+81 =99 - 81 vilayet -batman = covid19
 bkz covid19 çıkar 2009 etti mi yirmi milliyetçi hareket partisi 20. yılı 
 bkz kadir mısıroğlanın covid19 u 2009 da bilmesi
