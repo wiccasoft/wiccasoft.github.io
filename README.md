@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz froum sitesine yaşayan tek hücreli organizmalar
+bkz froum sitesinde yaşayan tek hücreli organizmalar
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör
 https://www.uludagsozluk.com/k/158-boyunda-k%C4%B1z/ bkz benden 20 cm kısa olan kız
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok gzüel zaten
