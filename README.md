@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz yazdıkları okunuyormuş gibi entry giren liseli
+bkz yazdıkları okunuyormuş gibi entry giren liseliler
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/kardesnapiyonkafamageldi-ve-turuncuuu-beraberli%C4%9Fi/&w=bg bkz iğrençsiniz ibneler
