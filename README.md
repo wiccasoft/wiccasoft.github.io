@@ -2,8 +2,10 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd bkz rizeli mafya erkek çekiciliği
-https://www.uludagsozluk.com/k/sedat-peker/&w=gd rizeli mafya babası
+bkz rizeli erkeklerdeki hayvani çekicilik
+https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz rte
+https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=gd 
+https://www.uludagsozluk.com/k/sedat-peker/&w=gd 
 https://www.uludagsozluk.com/k/kad%C4%B1nlarla-anla%C5%9Famayan-erkek/ bkz rizeli isyankar asker oğlan -->
 
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
