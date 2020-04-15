@@ -14,6 +14,7 @@ bkz 15 nisan 2020 hoşlaşılan mafya babası açıklaması
 bkz sedat kanapoğlunun oğlanları vs sedat pekerin adamları
 bkz ak partinin gönderdiği topkek kutusunu kıran kız
 https://www.uludagsozluk.com/k/ibrahim-kaypakkaya/&w=bg bkz kaypak
+https://www.uludagsozluk.com/k/ceketimi-satar%C4%B1m-ama-seni-a%C3%A7-b%C4%B1rakmam-diyen-erkek/ bkz sedat peker
 https://www.uludagsozluk.com/k/incicilerin-orospu-%C3%A7ocu%C4%9Fu-olmas%C4%B1/ inci siker ayıq olun 
 https://www.uludagsozluk.com/k/15-nisan-2020-cezaevi-tahliyeleri/&w=gd bkz ay kızlar siker bunlar bizi
 https://www.uludagsozluk.com/k/penisini-yan%C4%B1nda-ta%C5%9F%C4%B1yan-sap%C4%B1k-erkek/ ay sapık ayol 
