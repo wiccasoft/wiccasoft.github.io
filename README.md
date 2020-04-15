@@ -9,6 +9,7 @@ bkz beş ayrı suçtan aranan erkek karizması
 bkz kırmızı bültenle aranmayıp adamım diye ortada gezmek
 bkz irem dericinin 15 gündür sıçmıyom mezar gibi koktu içim demesi  
 https://www.uludagsozluk.com/k/tayyib-%C3%B6l%C3%BCrse-bize-ne-olur/ neolur
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
 https://www.uludagsozluk.com/k/kendisine-romal%C4%B1lar%C4%B1n-sezar%C4%B1-diyen-padi%C5%9Fah/ mehmet the second
 https://www.uludagsozluk.com/k/adnan-menderes-in-yedi%C4%9Fi-haltlar/ yemediği halt mı kaldı oç nin
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-tahliye-olmas%C4%B1/&w=bg yaradana kurban
