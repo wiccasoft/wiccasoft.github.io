@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkeğinin hapisten çıkmasını bekleyen kızlar
 bkz erkeğinin askerliğinin bitmesini bekleyen kızlar
 bkz hoşlaşılan erkeğin askerde olması
 bkz o şimdi asker canı neler ister
