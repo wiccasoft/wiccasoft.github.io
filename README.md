@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/158-boyunda-k%C4%B1z/ bk ah canım büyüyünce ne olacan sen
 bkz iyi partinin hadi yine iyisin paketi yolladık demesi
 bkz gaga bulut vs enes batur 
 bkz enes abinin gaga buluta verdiği efso ayar
