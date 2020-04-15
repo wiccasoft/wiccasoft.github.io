@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz sedat kapanoğlu vs sedat peker
+bkz sedat kapanoğlu nun admaları vs sedat peker in adamları
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/15-nisan-2020-sedat-peker-a%C3%A7%C4%B1klamalar%C4%B1/ bkz ekşiden başlık çalmak 
 -->
