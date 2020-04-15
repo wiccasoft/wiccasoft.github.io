@@ -6,7 +6,7 @@ bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
 bkz beş ayrı suçtan aranan erkek karizması
 bkz kırmızı bültenle aranmayıp adamım diye ortada gezmek
-bkz irem dericinini melekler bokumu yesin demesi
+bkz irem dericinin 15 gündür sıçmıyom mezr gibi koktu içim demesi  
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-tahliye-olmas%C4%B1/&w=bg yaradana kurban
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-kavanozdaki-cinsel-organ%C4%B1/&w=bg bkz gergedan yarrağı
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ bkz dericinin boku
