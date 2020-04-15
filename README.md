@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+bkz berat niye size para basmıyor sorunsalı
+https://www.uludagsozluk.com/k/hem-kel-hem-berat-bir-de-corana/
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz polat alemdar
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz hırtlar vadisi müzikleri
 bkz 18 cm e bi oturuşta içine alamayan padişah
