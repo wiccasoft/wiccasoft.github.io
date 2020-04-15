@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz minicik pipisyle rizeli erkek arayan ibneler
 bkz minicik pipisiyle kız taklidi yapan ak nonoş ülkücü karışımı yaratıklar
 bkz minnak pipili olup neden iyi eykekleyle tanışamıyoruz diyen yaratıklar
 https://www.uludagsozluk.com/k/neden-iyi-erkeklerle-tan%C4%B1%C5%9Fam%C4%B1yoruz/&w=bg 
