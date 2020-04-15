@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/ tıklağ video açılsın kankağ
 bkz irem dericinin 15 gündür bok yapmıyorum demesi
 bkz fahrettin altunun 3 maaşını kızılhaça bağışlaması
 https://www.uludagsozluk.com/k/i%C5%9Fe-gitmeyip-maa%C5%9F-alan-memurlar-ve-%C3%B6%C4%9Fretmenler/&w=bg bkz oçları
