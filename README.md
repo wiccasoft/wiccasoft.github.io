@@ -3,6 +3,7 @@
 
 <!-- 
 bkz gaga bulut vs enes batur 
+bkz sen yerinde durrr karşında enes baturrrrrrrr
 bkz 15 nisan 2020 gaga bulutun salınması
 bkz iyi partinin gönderdiği baklavanın azdırması
 bkz altını şer üstünü inci siker 
