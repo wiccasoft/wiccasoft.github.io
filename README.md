@@ -3,6 +3,7 @@
 
 <!-- 
 bkz abdullah çatlı vs abdullah öcalan
+bkz maliye bakanı niye para basmıyo sorunsalı
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-ekonomisi/&w=bg bkz damadın şaha kaldırdığı ekonomi
 bkz belediyenin zehirlediği köpekleri yemem diyen çinli kız
