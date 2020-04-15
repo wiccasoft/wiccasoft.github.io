@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
+https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç
 https://www.uludagsozluk.com/k/i%C5%9Fid/&w=bg bkz racon kesmiyom kafa kesiyom
 bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
