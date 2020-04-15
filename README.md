@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz hoşlaşılan erkeğin askerde olması
 bkz o şimdi asker canı neler ister
 bkz mafya babası çekiciliği vs asker çekiciliği
 https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/&w=gd bkz tayyip
