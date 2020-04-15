@@ -3,7 +3,7 @@
 
 <!-- 
 bkz 1881 atacücü 18+81 =99 - 81 vilayet -batman = covid19
-bkz covid19 çıkar 2009 etti mi yirmi milliyetçi hareket partisi 20. yılı
+bkz covid19 çıkar 2009 etti mi yirmi milliyetçi hareket partisi 20. yılı 
 bkz kadir mısıroğlanın covid19 u 2009 da bilmesi
 bkz sedat pekerin çok kan dökülecek açıklaması
 blz el bagdadinin nusra militalarını doğu gutaya sürmesi
