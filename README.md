@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz deep turkish web teki ibnelerin güldürmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/ bkz nasreddin hoca from anadol very funny guy
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w= bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz tayyip from rize
