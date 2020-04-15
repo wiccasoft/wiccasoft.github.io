@@ -4,6 +4,7 @@
 <!-- 
 bkz reisin ışıda katılması
 bkz sedat peker sedat kapanoğlu dostluğu
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-yi-anlayamayan-cahil-s%C3%BCr%C3%BCs%C3%BC/&w=bg bkz kırk yapar
 https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
