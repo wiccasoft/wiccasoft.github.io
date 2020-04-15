@@ -4,7 +4,8 @@
 <!-- 
 bkz altını şer üstünü inci siker 
 bkz cima eylerken babanın içeri duhul eylemesi
-bkz 15 nisan 2020 mahir çayanın kaypakkayaya kaymak demesi
+bkz sedat pekerin kaypakaya ya kaypak demesi
+bkz mahir çayanın kaypakkayaya kaymak demesi
 bkz iyi partinin gönderidiği kutudan bim fişi çıkması
 bkz hoşlaşılan mafya babasının salınması
 bkz 15 nisan 2020 hoşlaşılan mafya babası açıklaması
