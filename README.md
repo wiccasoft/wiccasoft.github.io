@@ -2,7 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz minicik pipisyle eykekleyi menun eytmey çalışan ak nonoş ülkücü karışımı yaratıklar
+bkz minicik pipisyle eykekleyi memnun etmeye çalışan ak nonoş ülkücü karışımı yaratıklar
 bkz minnak pipili olup neden iyi eykekleyle tanışamıyoruz diyen ibneler
 https://www.uludagsozluk.com/k/neden-iyi-erkeklerle-tan%C4%B1%C5%9Fam%C4%B1yoruz/&w=bg 
 bkz moralinizi bozmak istemem ama 18 cm 
