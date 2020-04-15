@@ -2,6 +2,8 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz rizemizin gururu
+https://www.uludagsozluk.com/k/%C5%9Fike-denince-akla-gelen-ilk-tak%C4%B1m/&w=bg bkz fenerbaçe
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/koronaya-kar%C5%9F%C4%B1-schweppes-tavsiye-eden-t%C3%BCrbanl%C4%B1/ bkz nankör oç
 bkz ayrılıkçı türklerin ışıda katılıp racon kesmesi
