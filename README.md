@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz iyi partinin hadi yine iyisin paketi yolladık demesi
 bkz gaga bulut vs enes batur 
 bkz enes abinin gaga buluta verdiği efso ayar
 bkz rizeli erkeklerin keko olması
