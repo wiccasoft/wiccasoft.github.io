@@ -5,7 +5,6 @@
 bkz moralinizi bozmak istemem ama 18 cm 
 bkz minnak pipisiyle orospu gibi entry giren ülkücüler
 bkz bamya kadar pipisiyle entry giren ak nonoşlar
-bkz utandamadan kız taklidi yapan ülkücüler
 bkz okunmayacağı halde entry giren ak nonoş zeka seviyesi
 bkz sedat kapanoğlunun ak nonoşlarını madara etmek
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
