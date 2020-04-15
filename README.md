@@ -2,8 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
-https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg
+https://eksisozluk.com/geceye-bir-kurtlar-vadisi-repligi-birak--5897027 bkz efso replikler
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker kankağ
 https://www.uludagsozluk.com/k/penisini-yan%C4%B1nda-ta%C5%9F%C4%B1yan-sap%C4%B1k-erkek/&w=gd bkz abdullah çakar
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg  bkz hırtlar vadisi efso müzükleri
