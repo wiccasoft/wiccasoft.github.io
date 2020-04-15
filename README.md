@@ -14,7 +14,6 @@ https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
 bkz belediyenin zehirlediği köpekleri yemem diyen çinli kız
 bkz deep turkish webin adana01 dizisine dönmesi
 bkz adana belediyesinin yaptığı 1000 yataklı hapisane
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 bkz celal şengör den kuzay adandolu fay hattı kırılabilir uyarısı
