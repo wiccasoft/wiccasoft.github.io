@@ -2,10 +2,15 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-https://www.uludagsozluk.com/k/15-nisan-2020-sedat-peker-a%C3%A7%C4%B1klamalar%C4%B1/&w=gd bkz ay fena oluyom açıkladı valla
-https://www.uludagsozluk.com/k/15-nisan-2020-cezaevi-tahliyeleri/&w=gd bkz ay kızlar siker bunlar bizi
-https://eksisozluk.com/15-nisan-2020-sedat-peker-aciklamasi--6474816?a=popular  bkz ay femn oluyom
-
+bkz rizeli mafya babalarının çok seksi olması
+https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlu ona hep oçe der
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-fitre-ve-zekat-talebinde-bulunmas%C4%B1/&w=gd
+https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz rizeli mafya babası çekiciliği
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ay neresi zeki bunun ayol
+https://www.uludagsozluk.com/k/15-nisan-2020-sedat-peker-a%C3%A7%C4%B1klamalar%C4%B1/&w=gd bkz ay fena oluyom ayol
+https://eksisozluk.com/15-nisan-2020-sedat-peker-aciklamasi--6474816?a=popular ay fena oluyom açıkladı
+https://www.uludagsozluk.com/k/partneriyle-cima-eylemeye-giden-t%C3%BCrbanl%C4%B1-videosu/ bkz facebook linkli konulu
+https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz tayyip from rize
 -->
 [![Image](covid19/Screenshot_2020-04-12_23-13-33.png)]( https://www.youtube.com/watch?v=LAVnWJ1e3-A )
 
