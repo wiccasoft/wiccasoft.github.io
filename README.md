@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
-bkz fahrettin altunun istifa etmesi
+bkz fahrettin altunun 3 maaşını kızılhaça bağışlaması
 https://www.uludagsozluk.com/k/i%C5%9Fe-gitmeyip-maa%C5%9F-alan-memurlar-ve-%C3%B6%C4%9Fretmenler/&w=bg bkz oçları
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz fatih portakal vs maymun götü
 https://www.uludagsozluk.com/k/berat-albayrak-istifa-et/&w=bg bkz berat para bassın kampanyası
