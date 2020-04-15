@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz mafya erkek seksiliği
 bkz alattin çakıcı vs sedat peker
 bkz survivor macun kaplıcalı
 bkz macun kaplıcalıya melaba televole diyip kaçmak
