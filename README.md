@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kapkara kafası yağlı saçlarıyla kız taklidi yapan ülkücü
 bkz ülkücülerin iğrenç ibneler oldukları gerçeği
 bkz ülkücülerin orospu gibi entry girmesi
 bkz utandamadan kız taklidi yapan ülkücüler
