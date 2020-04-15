@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz hırtlar vadisi izleyen aknonoş zeka seviyesi
 bkz aknonoşların zeka zeviyesi vs koyunlar
 bkz sedat kapanoğlunun ak nonoşlarını orospu yapmak
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
