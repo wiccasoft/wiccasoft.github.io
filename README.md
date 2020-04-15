@@ -3,8 +3,7 @@
 
 <!--
 bkz okunmayacağı halde entry giren ak nonoş zeka seviyesi
-bkz aknonoşların zeka zeviyesi vs koyunlar
-bkz sedat kapanoğlunun ak nonoşlarını orospu yapmak
+bkz sedat kapanoğlunun ak nonoşlarını madara etmek
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/lol-e-%C3%A7a%C4%9F%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1zda-gelmeyen-sevgili/ lol
