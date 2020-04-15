@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ bkz yazık la kimin çocuysa
 bkz beş ayrı suçtan aranan erkek çekiciliği
 bkz interpolün kızmızı bültenle aradığı erkeğe sahip olmak
 bkz hoşlaşılan erkeğin cezaevinden çıkmasını beklemek
@@ -9,6 +10,7 @@ bkz hoşlaşılan erkeğe kek yapıp hapishaneye yollamak
 bkz hoşlaşılan erkeğin sabıklaı çıkması
 bkz abdullah çatlı vs abdullah öcalan
 bkz maliye bakanı niye para basmıyo sorunsalı
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-vir%C3%BCs%C3%BC-2009-y%C4%B1l%C4%B1nda-s%C3%B6ylemesi/
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-ekonomisi/&w=bg bkz damadın şaha kaldırdığı ekonomi
