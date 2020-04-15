@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz fatih portakal vs maymun götü
 https://www.uludagsozluk.com/k/berat-albayrak-istifa-et/&w=bg bkz berat para bassın kampanyası
 https://www.uludagsozluk.com/k/fahrettin-altunun-maa%C5%9F%C4%B1/ bkz fahrettin altuın kim amk
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg italyan mafya siker aga
