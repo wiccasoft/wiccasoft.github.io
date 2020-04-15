@@ -3,6 +3,7 @@
 
 <!-- 
 bkz efso hırtlar vadisi diyalogları
+bkz 15 nisan 2020 sedat pekerin racon kesmiyom kafa kesiyom açıklaması
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz polat alemdar
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz alpaslan türkeş
 https://eksisozluk.com/rizeli-askerin-terhislerin-ertelenmesine-isyani--6474358?a=popular bkz tayyip from rize
