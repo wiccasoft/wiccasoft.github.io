@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ülkücülerin iğrenç ibneler oldukları gerçeği
 bkz ülkücülerin orospu gibi entry girmesi
 bkz utandamadan kız taklidi yapan ülkücüler
 bkz okunmayacağı halde entry giren ak nonoş zeka seviyesi
