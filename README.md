@@ -2,13 +2,6 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz moralinizi bozmak istemem ama 18 cm mafyasız 
-bkz minnak pipisiyle orospu gibi entry giren ülkücüler
-bkz minicik pipisiyle rizeli mafya erkek arayan ibneler
-https://www.uludagsozluk.com/k/neden-iyi-erkeklerle-tan%C4%B1%C5%9Fam%C4%B1yoruz/&w=bg 
-bkz bamya kadar pipisiyle entry giren ak nonoşlar
-bkz okunmayacağı halde entry giren ak nonoş zeka seviyesi
-bkz sedat kapanoğlunun ak nonoşlarını madara etmek
 https://www.uludagsozluk.com/k/k%C3%BCrt-mafyas%C4%B1/&w=bg bkz adamı madam yaparız madam
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/lol-e-%C3%A7a%C4%9F%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1zda-gelmeyen-sevgili/ lol
