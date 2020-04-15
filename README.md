@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/ bkz oç rizeli
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-b%C3%BCy%C3%BCk-millet-meclisi/&w=bg bkz çok büyük meclis çook
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlu ona hep oçe der
 https://www.uludagsozluk.com/k/15-nisan-2020-misvak-capsi/ bkz şaka maka madafaka
