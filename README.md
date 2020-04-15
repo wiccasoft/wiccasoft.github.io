@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz iyi partinin paketin parasını halletik şey yapm demesi
 bkz iyi partinin yolladığı bi kutu topkeki yiyen kız
 bkz ak partinni yolladığı paketi beğenmeyen tkpli
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/
