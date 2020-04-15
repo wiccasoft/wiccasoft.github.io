@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz celal şengör teke tek videoları
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz sismik şişko
 bkz celal şengörün hor görmeyin kızı demesi
 bkz froum sitesinde yaşayan tek hücreli organizmalar
