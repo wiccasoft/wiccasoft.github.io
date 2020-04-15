@@ -3,6 +3,7 @@
 
 <!-- 
 bkz iki eliyle bi siki dorultamayan padişah
+https://www.uludagsozluk.com/k/hepinizi-kar%C4%B1m-yapaca%C4%9F%C4%B1m/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/bir-%C5%9Fehri-54-g%C3%BCnde-alamayan-padi%C5%9Fah/ bkz 2. abdulhamdi
 https://www.uludagsozluk.com/k/hepinizi-kar%C4%B1m-yapaca%C4%9F%C4%B1m/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/askerlik-uzad%C4%B1%C4%9Fi-i%C3%A7in-isyan-eden-rizeli/&w=gd bkz oç rizeli
