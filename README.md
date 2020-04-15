@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz 16 nisan 2020 aslan akbeyin sedat pekerin elini öpmesi
 bkz 15 nisan 2020 isyan eden rizeli askerin sedat peker çıkması
 bkz 15 nisan 2020 desat pekerin sefirliğini ilan etmesi
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz ezik cüce
