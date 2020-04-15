@@ -3,9 +3,8 @@
 
 <!--
 bkz moralinizi bozmak istemem ama 18 cm 
+bkz minnak pipisiyle orospu gibi entry giren ülkücüler
 bkz bamya kadar pipisiyle entry giren ak nonoşlar
-bkz ülkücülerin iğrenç ibneler oldukları gerçeği
-bkz ülkücülerin orospu gibi entry girmesi
 bkz utandamadan kız taklidi yapan ülkücüler
 bkz okunmayacağı halde entry giren ak nonoş zeka seviyesi
 bkz sedat kapanoğlunun ak nonoşlarını madara etmek
