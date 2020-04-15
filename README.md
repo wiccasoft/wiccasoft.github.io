@@ -2,6 +2,10 @@
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://eksisozluk.com/kurtlar-vadisinden-aforizmalar--661555 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
+https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/&w=bg
 bkz ahsen tv sedat peker röportajı
 https://www.uludagsozluk.com/k/36-ya%C5%9F%C4%B1nda-erkek-56-ya%C5%9F%C4%B1nda-k%C4%B1z-ili%C5%9Fkisi/ bkz sedat peker
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz rizemizin gururu
