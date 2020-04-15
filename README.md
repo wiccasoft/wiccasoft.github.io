@@ -2,6 +2,7 @@
 [![Image](covid19/Screenshot_2020-04-13_07-28-50.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--- 
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rizenin gururu
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ bkz nankör oç
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-canl%C4%B1-yay%C4%B1nda-osurmas%C4%B1/
 https://www.uludagsozluk.com/k/irem-derici-nin-15-g%C3%BCn-s%C4%B1%C3%A7amamas%C4%B1/
