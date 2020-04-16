@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://www.uludagsozluk.com/k/geri-zekal%C4%B1-oldu%C4%9Funun-fark%C4%B1nda-olmak/&w=bg bkz süfifor emre
+https://www.uludagsozluk.com/k/geri-zekal%C4%B1-oldu%C4%9Funun-fark%C4%B1nda-olmak/&w=bg bkz sörfayfor emre
 https://www.uludagsozluk.com/k/32-ya%C5%9F-%C3%BCst%C3%BC-bekar-erkek/ bkz 42 yaşında yakışıklı yazılımcı erkek
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz oç at hırsızı kılıklı
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-alevi-olmas%C4%B1/&w=bg bkz oç ali sunal
