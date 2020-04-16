@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!-- https://www.uludagsozluk.com/k/163-boy-erkek-için-çok-mu-kısa-sorunsalı/&w=gd lol -->
+<!-- https://www.uludagsozluk.com/k/163-boy-erkek-için-çok-mu-kısa-sorunsalı/&w=gd lol 
+https://www.uludagsozluk.com/k/1-60-boyunda-45-kilo-a%C4%9F%C4%B1rl%C4%B1%C4%9F%C4%B1ndaki-k%C4%B1z-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/&w=gd lol
+-->
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
