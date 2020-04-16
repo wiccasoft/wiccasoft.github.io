@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz millet hizmet beklerken kakanın osrura osura uyuması
 https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav depğil tez kankağ
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda rak yok yarrak var kankağ
 bkz adana f tipi cezaevinde yatmayıp deep webten sallayan totoşlar
