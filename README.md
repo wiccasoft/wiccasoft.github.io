@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz fatih portakal vs maymun götü
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker kankağ
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=gd bkz oç
 https://www.uludagsozluk.com/k/tutunamayanlar-ilhan-abi-karakteri/ bkz oç
