@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz ibne gibi puşt gibi bişi
 https://www.uludagsozluk.com/k/sedat-peker-vs-alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg sedat siker bilader
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=gd bkz kusturmalı boşnak oç
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BC-ellesene-diyen-k%C4%B1z/ bkz annen
