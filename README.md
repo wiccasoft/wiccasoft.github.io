@@ -3,7 +3,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-alevi-olmas%C4%B1/&w=bg bkz oç ali sunal
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-ve-aydemir-akba%C5%9F-benzerli%C4%9Fi/&w=bg bkz gavat tipli
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=bg bk akboylar
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=bg bkz gavatlar
 https://www.uludagsozluk.com/k/gavs-%C4%B1n-allah-dostu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz gavsın gavat olması
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg oç katliamcı
 https://www.uludagsozluk.com/k/yavuz-sultan-selim-in-darbeci-olmas%C4%B1/ bkz oç yavuz 
