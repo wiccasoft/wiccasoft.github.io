@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=bg bk akboylar
 https://www.uludagsozluk.com/k/gavs-%C4%B1n-allah-dostu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz gavsın gavat olması
 -->
 
