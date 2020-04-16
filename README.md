@@ -6,7 +6,7 @@ bkz rte damadın penis yüzüğünü azıyla takıyor yalanı
 bkz damadın penis yüzüğünün fotoşok yani fake çıkması
 bkz millet hizmet beklerken kaka nın osura osura uyuması
 https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav depğil tez kankağ
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda rak yok yarrak var kankağ
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda bayrak yok yarrak var kankağ
 bkz adana f tipi cezaevinde yatmayıp deep webten sallayan totoşlar
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kanka çıkışta karı getirin sikeyim az
 bkz beş ayrı suçtan arnana erkek karizması
