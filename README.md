@@ -1,33 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!--
-bkz akboylar ancak rte ye prezervatifini ağızlarıyla takarlar
-bkz akboyların rte yi siklediğimi sanmaları
-bkz rte nin yolladığı portakalları beğenmeyen nankör chpli
-https://www.uludagsozluk.com/k/vir%C3%BCse-kar%C5%9F%C4%B1-elimizdeki-b%C3%BCy%C3%BCk-koz-yakalanmamak/&w=bg lol
-https://www.uludagsozluk.com/k/fatih-ordakal-yalanlar%C4%B1/ bkz orç portakal
-https://www.uludagsozluk.com/k/rt%C3%BCk-%C3%BCn-fox-tv-ve-portakal-%C4%B1n-i%C3%A7inden-ge%C3%A7mesi/&w=gd
-bkz tayyibe muhalefet edenlerin gereksiz oç oldukları gerçeği
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş vs yavşak
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-neden-yenilmiyor-sorunsal%C4%B1/ bkz dünya lideri
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-rte-nin-2-tane-se%C3%A7im-kaybetmesi/ bkz şaka maka madafaka
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz mansur yavşak
-bkz fatih portakal vs maymun götü
-bkz damadın penis yüzüğünün fotoşok yani fake çıkması
-bkz millet hizmet beklerken kaka nın osura osura uyuması
-https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav depğil tez kankağ
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda rak yok yarrak var kankağ
-bkz adana f tipi cezaevinde yatmayıp deep webten sallayan totoşlar
-https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kanka çıkışta karı getirin sikeyim az
-bkz beş ayrı suçtan arnana erkek karizması
-bkz kırmızı bületenle aranmayıp erkeğim diye gezen totoşlar
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence herşey çok güzel zaten
-https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav değil tez pampa
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bayrak değil barrak kankağ nüfus memuru yannış yazmış
-https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kankağ 
--->
-
-
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
