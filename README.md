@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/ibni-fadlan-%C4%B1n-t%C3%BCrklerle-ilgili-an%C4%B1lar%C4%B1/ bkz serin hikaye
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-t%C3%BCm-d%C3%BC%C5%9Fmanlar%C4%B1na-konum-atmas%C4%B1/
 https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg geliyom kanka götünü yıka
 https://www.uludagsozluk.com/k/1-60-k%C4%B1z-vs-1-90-k%C4%B1z/&w=bg olm bi altmış kız mı kaldı lan 
