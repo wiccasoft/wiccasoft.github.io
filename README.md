@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş vs yavşak
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-neden-yenilmiyor-sorunsal%C4%B1/ bkz dünya lideri
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-rte-nin-2-tane-se%C3%A7im-kaybetmesi/ bkz şaka maka madafaka
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz mansur yavşak
