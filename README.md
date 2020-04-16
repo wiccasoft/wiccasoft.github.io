@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz aydemir akbaşın karıyı satarım geyse için demesi
+bkz aydemir akbaşın gavs için karıyı satarım demesi
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-ve-aydemir-akba%C5%9F-benzerli%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=bg bk akboylar
 https://www.uludagsozluk.com/k/gavs-%C4%B1n-allah-dostu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz gavsın gavat olması
