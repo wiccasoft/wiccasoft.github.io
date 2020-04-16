@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/ bkz kaan boşnak
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz ibne gibi puşt gibi bişi
 https://www.uludagsozluk.com/k/sedat-peker-vs-alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg sedat siker bilader
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=gd bkz kusturmalı boşnak oç
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BC-ellesene-diyen-k%C4%B1z/ bkz annen
+https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BC-ellesene-diyen-k%C4%B1z/ bkz anan
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlı
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz kusturmalı boşnak oç
 https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/ bkz sedat peker
