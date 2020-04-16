@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz oç
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz oç at hırsızı kılıklı
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-alevi-olmas%C4%B1/&w=bg bkz oç ali sunal
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-ve-aydemir-akba%C5%9F-benzerli%C4%9Fi/&w=bg bkz gavat tipli
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=bg bkz gavatlar
