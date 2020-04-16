@@ -5,7 +5,6 @@ https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg geliyom kank
 https://www.uludagsozluk.com/k/1-60-k%C4%B1z-vs-1-90-k%C4%B1z/&w=bg olm bi altmış kız mı kaldı lan 
 bkz deep webteki 163 lik barzoların 160 lık kız bulamaması asdasdasdas
 bkz maç muhabbeti yapıp barzo ergenlerin götlerini parmaklamak
-https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg geliyom kanka 
 https://www.uludagsozluk.com/k/onlar-ancak-k%C3%BC%C3%A7%C3%BCk-sedat-a-prezervatif-giydirirler/&w=bg lol
 https://www.uludagsozluk.com/k/163-boy-erkek-için-çok-mu-kısa-sorunsalı/&w=gd lol 
 -->
