@@ -1,17 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!--
-bkz ercüment ovalı ve maymun götü
-https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/ bkz katıksız oç
-https://www.sozcu.com.tr/2020/gundem/ercument-ovali-kimdir-prof-dr-ercument-ovalinin-uzmanlik-alani-ne-5749387/ oç
-https://www.researchgate.net/profile/Ercuement_Ovali adam pisliğin teki çıktı rıza baba
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker kankağ
-https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=gd bkz oç
-https://www.uludagsozluk.com/k/tutunamayanlar-ilhan-abi-karakteri/ bkz oç
-bkz barış özcan türkünün elon muskıysa ruhi çenet steve jobsıdır
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg elini kana bulama kankağ
-https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/&w=bg bkz 1881=18+81=99-81-batman=covid19 -->
-
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
