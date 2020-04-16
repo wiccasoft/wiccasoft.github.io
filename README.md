@@ -4,11 +4,10 @@
 <!-- 
 bkz kerimcan durmaz vs kaan boşnak
 bkz yazarların uluda yazma sebepleri
-bkz dünya edebiyatının ünlü yazarları
 bkz yine seks hikayesi mi yazıyosun feridun abi
-https://www.uludagsozluk.com/k/yazarlar%C4%B1-asla-yar%C4%B1-yolda-b%C4%B1rakmayan-%C5%9Feyler/ anlat pampa
-https://www.uludagsozluk.com/k/neden-uluda%C4%9F-s%C3%B6zl%C3%BCk-te-yazars%C4%B1n%C4%B1z/ anlat pampa
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/&w=bg anlat pampa
+https://www.uludagsozluk.com/k/yazarlar%C4%B1-asla-yar%C4%B1-yolda-b%C4%B1rakmayan-%C5%9Feyler/ 
+https://www.uludagsozluk.com/k/neden-uluda%C4%9F-s%C3%B6zl%C3%BCk-te-yazars%C4%B1n%C4%B1z/
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/&w=bg 
 https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/ bkz kaan boşnak 
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz ibne gibi puşt gibi bişi
 https://www.uludagsozluk.com/k/sedat-peker-vs-alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg sedat siker bilader
