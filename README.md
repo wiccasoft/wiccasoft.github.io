@@ -1,5 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
+
 <!--
 bkz rte damadın penis yüzüğünü azıyla takıyor yalanı
 bkz damadın penis yüzüğünün fotoşok yani fake çıkması
@@ -14,6 +15,7 @@ https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence herşey çok güzel zaten
 https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav değil tez pampa
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bayrak değil barrak kankağ nüfus memuru yannış yazmış
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kankağ 
+https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/ nankör oç
 -->
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
