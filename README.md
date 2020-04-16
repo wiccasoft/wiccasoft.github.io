@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=
 https://www.uludagsozluk.com/k/gavs-%C4%B1n-allah-dostu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz gavsın gavat olması
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg oç katliamcı
 https://www.uludagsozluk.com/k/yavuz-sultan-selim-in-darbeci-olmas%C4%B1/ bkz oç yavuz  -->
--->
+
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
