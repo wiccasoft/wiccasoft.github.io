@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/necati-atao%C4%9Flu/ bkz fatih sultan mehmet procesi
 https://www.uludagsozluk.com/k/necati-atao%C4%9Flu/ 99 doğumlu girişimci mi olur oç
 https://www.uludagsozluk.com/k/akp-lilerin-and%C4%B1m%C4%B1z-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/ andıza sokim
 https://www.uludagsozluk.com/k/ibni-fadlan-%C4%B1n-t%C3%BCrklerle-ilgili-an%C4%B1lar%C4%B1/ bkz serin hikaye
