@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/instagram-kullanmayan-bir-adam%C4%B1-adamdan-saymak/ bkz delikanlı adamın malı ortadadır
 bkz fatih portakalın portakalda c vitamini var yalanı
 https://www.uludagsozluk.com/k/fatih-ordakal-yalanlar%C4%B1/ bkz tez antitez sentezcan
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-d%C3%B6%C5%9Fedi%C4%9Fi-boru/ bkz boru sana girmiş çalışıyor
