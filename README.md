@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg geliyom kanka maç muhabbeti yapar götümüzü parmaklarız
 https://www.uludagsozluk.com/k/onlar-ancak-k%C3%BC%C3%A7%C3%BCk-sedat-a-prezervatif-giydirirler/&w=bg lol
 https://www.uludagsozluk.com/k/163-boy-erkek-için-çok-mu-kısa-sorunsalı/&w=gd lol 
 -->
