@@ -3,7 +3,7 @@
 
 <!-- 
 bkz kerimcan durmaz vs kaan boşnak
-bkz yarların uluda yazma sebepleri
+bkz yazarların uluda yazma sebepleri
 bkz dünya edebiyatının ünlü yazarları
 https://www.uludagsozluk.com/k/yazarlar%C4%B1-asla-yar%C4%B1-yolda-b%C4%B1rakmayan-%C5%9Feyler/ anlat pampa
 https://www.uludagsozluk.com/k/neden-uluda%C4%9F-s%C3%B6zl%C3%BCk-te-yazars%C4%B1n%C4%B1z/ anlat pampa
