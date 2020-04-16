@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/instagram-t%C3%BCrbanl%C4%B1s%C4%B1/&w=bg bkz emine erdoğan
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg bkz sonunda t yok
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg bkz pala remzi
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-vs-ibrahim-tatl%C4%B1ses/&w=gd ibo siker kankağ
