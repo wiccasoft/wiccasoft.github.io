@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz rupert murcosun fatih portakalı alıp kaçması
 https://www.uludagsozluk.com/k/rt%C3%BCk-%C3%BCn-fox-tv-ve-portakal-%C4%B1n-i%C3%A7inden-ge%C3%A7mesi/
 https://www.uludagsozluk.com/k/necati-atao%C4%9Flu/ bkz fatih sultan mehmet procesi
 https://www.uludagsozluk.com/k/necati-atao%C4%9Flu/ 99 doğumlu girişimci mi olur oç
