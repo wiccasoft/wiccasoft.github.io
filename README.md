@@ -1,5 +1,10 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
+<!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz mansur yavşak
+https://www.uludagsozluk.com/k/gavs-%C4%B1n-allah-dostu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz gavsın gavat olması
+-->
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
