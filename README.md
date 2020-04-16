@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/&w=bg bkz sedat peker
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-mesih-olmas%C4%B1/
 https://www.uludagsozluk.com/k/irem-derici-nin-15-gün-sıçamaması/ bkz bok gibi karı
 https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç 
