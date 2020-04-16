@@ -1,5 +1,21 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
+<!--
+bkz fatih portakal vs maymun götü
+bkz damadın penis yüzüğünün fotoşok yani fake çıkması
+bkz millet hizmet beklerken kaka nın osura osura uyuması
+https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav depğil tez kankağ
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda rak yok yarrak var kankağ
+bkz adana f tipi cezaevinde yatmayıp deep webten sallayan totoşlar
+https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kanka çıkışta karı getirin sikeyim az
+bkz beş ayrı suçtan arnana erkek karizması
+bkz kırmızı bületenle aranmayıp erkeğim diye gezen totoşlar
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence herşey çok güzel zaten
+https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav değil tez pampa
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bayrak değil barrak kankağ nüfus memuru yannış yazmış
+https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kankağ 
+-->
+
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
