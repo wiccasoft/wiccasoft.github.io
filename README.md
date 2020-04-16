@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz kustutmalı boşnak oç
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BC-ellesene-diyen-k%C4%B1z/ bkz iyi parti lideri
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe/&w=bg bkz pezevenklerin elindeki orospu
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/ bkz kürt oç
