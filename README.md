@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda rak yok yarrak var kankağ
 bkz adana f tipi cezaevinde yatmayıp deep webten sallayan totoşlar
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kanka çıkışta karı getirin sikeyim az
 bkz beş ayrı suçtan arnana erkek karizması
