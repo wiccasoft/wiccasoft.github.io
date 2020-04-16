@@ -2,6 +2,7 @@
 
 
 <!--
+bkz fatih portakalın canlı yayında osurması
 https://www.uludagsozluk.com/k/instagram-kullanmayan-bir-adam%C4%B1-adamdan-saymak/ bkz delikanlı adamın malı ortadadır
 bkz fatih portakalın portakalda c vitamini var yalanı
 https://www.uludagsozluk.com/k/fatih-ordakal-yalanlar%C4%B1/ bkz tez antitez sentezcan
