@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-
 <!--
+bkz mansur yavaşın çok yavaş haket etmesi
 bkz fatih isimli erkelerin hep bişeyler fethetmesi
 bkz fatih tezcan fatih portakal fatih altaylı fatih terim
 https://www.uludagsozluk.com/k/siyaset-din-futbol-a%C5%9Fk-olmad%C4%B1%C4%9Fnda-konu%C5%9Fulacak-konu/ bkz fatih portakal
