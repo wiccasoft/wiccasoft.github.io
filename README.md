@@ -1,12 +1,4 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
-<!--
-bkz siki tutanlar faruk karakteri
-bkz hadi ben kaçar yine gelere
-bkz neşet ertaş dinlerken gay vicudumun tiremesi
-https://www.uludagsozluk.com/k/az-kalan-sa%C3%A7%C4%B1n%C4%B1-uzatan-kel/ bkz jeff bezos
-https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=bg bka yarramın başı haydar
-https://www.uludagsozluk.com/k/tutunamayanlar-irem-karakteri/ bkz türk aramam motoru tarık
-https://www.uludagsozluk.com/k/yollar-vergilerimle-yap%C4%B1ld%C4%B1-diye-a%C4%9Flayan-laik%C3%A7i/&w=bg güldüren laikçidir -->
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
