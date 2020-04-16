@@ -2,7 +2,9 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg bkz pala remzi
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-vs-ibrahim-tatl%C4%B1ses/&w=gd ibo siker kankağ -->
+https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-vs-ibrahim-tatl%C4%B1ses/&w=gd ibo siker kankağ
+https://www.uludagsozluk.com/k/ela-rumeysa-cebeci-kad%C4%B1nsa-s%C3%B6zl%C3%BCk-k%C4%B1zlar%C4%B1-ne/
+-->
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
