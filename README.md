@@ -1,30 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!--
-bkz mansur yavaşın çok yavaş haket etmesi
-bkz fatih isimli erkeklerin hep bişeyler fethetmesi
-bkz fatih tezcan fatih portakal fatih altaylı fatih terim
-https://www.uludagsozluk.com/k/siyaset-din-futbol-a%C5%9Fk-olmad%C4%B1%C4%9Fnda-konu%C5%9Fulacak-konu/ bkz fatih portakal
-bkz fatih portakalın canlı yayında osurması
-https://www.uludagsozluk.com/k/instagram-kullanmayan-bir-adam%C4%B1-adamdan-saymak/ bkz delikanlı adamın malı ortadadır
-bkz fatih portakalın portakalda c vitamini var yalanı
-https://www.uludagsozluk.com/k/fatih-ordakal-yalanlar%C4%B1/ bkz tez antitez sentezcan
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-d%C3%B6%C5%9Fedi%C4%9Fi-boru/ bkz boru sana girmiş çalışıyor
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavşak
-bkz damadın penis yüzüğünün fotoşok yani fake çıkması
-bkz millet hizmet beklerken kaka nın osura osura uyuması
-https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav depğil tez kankağ
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg sonunda rak yok yarrak var kankağ
-bkz adana f tipi cezaevinde yatmayıp deep webten sallayan totoşlar
-https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kanka çıkışta karı getirin sikeyim az
-bkz beş ayrı suçtan arnana erkek karizması
-bkz kırmızı bületenle aranmayıp erkeğim diye gezen totoşlar
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence herşey çok güzel zaten
-https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav değil tez pampa
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bayrak değil barrak kankağ nüfus memuru yannış yazmış
-https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kankağ 
--->
-
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
