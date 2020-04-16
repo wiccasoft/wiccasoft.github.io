@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/dinsiz-ahlaks%C4%B1zl%C4%B1%C4%9F%C4%B1/ bkz oç atesitler
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/ bkz haydari
 bkz rte damadın penis yüzüğünü azıyla takıyor yalanı
 bkz damadın penis yüzüğünün fotoşok yani fake çıkması
