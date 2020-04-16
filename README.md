@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-ordakal-yalanlar%C4%B1/ bkz orç portakal
+https://www.uludagsozluk.com/k/rt%C3%BCk-%C3%BCn-fox-tv-ve-portakal-%C4%B1n-i%C3%A7inden-ge%C3%A7mesi/&w=gd
 bkz tayyibe muhalefet edenlerin gereksiz oç oldukları gerçeği
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz yavaş vs yavşak
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-neden-yenilmiyor-sorunsal%C4%B1/ bkz dünya lideri
