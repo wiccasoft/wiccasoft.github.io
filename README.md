@@ -4,6 +4,7 @@
 <!--
 bkz yeni din kurup parayı kırmak
 bkz rte nin ikinci atacücü olduğu gerçeği
+bkz onlar ancak küçük cücüye prezervatif giydirirker
 https://www.uludagsozluk.com/k/dinsiz-ahlaks%C4%B1zl%C4%B1%C4%9F%C4%B1/ bkz oç dinsizler
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/ bkz haydari
 bkz rte damadın penis yüzüğünü azıyla takıyor yalanı
