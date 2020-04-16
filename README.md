@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/siyaset-din-futbol-a%C5%9Fk-olmad%C4%B1%C4%9Fnda-konu%C5%9Fulacak-konu/ bkz fatih portakal
 bkz fatih portakalın canlı yayında osurması
 https://www.uludagsozluk.com/k/instagram-kullanmayan-bir-adam%C4%B1-adamdan-saymak/ bkz delikanlı adamın malı ortadadır
 bkz fatih portakalın portakalda c vitamini var yalanı
