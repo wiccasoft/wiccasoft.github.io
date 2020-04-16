@@ -3,6 +3,7 @@
 <!--
 bkz fatih portakal vs maymun götü
 bkz ercüment ovalı ve maymun götü
+https://www.sozcu.com.tr/2020/gundem/ercument-ovali-kimdir-prof-dr-ercument-ovalinin-uzmanlik-alani-ne-5749387/ oç
 https://www.researchgate.net/profile/Ercuement_Ovali adam pisliğin teki çıktı rıza baba
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=bg sedat siker kankağ
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=gd bkz oç
