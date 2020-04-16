@@ -4,8 +4,6 @@
 <!--
 bkz yeni din kurup parayı kırmak
 bkz rte nin ikinci atacücü olduğu gerçeği
-https://www.uludagsozluk.com/k/bir-ismet-in%C3%B6n%C3%BC-ye-bin-rte-feda-olsun/ bkz ismet inöcü
-https://www.uludagsozluk.com/k/kedi-besleyen-erkek/&w=bg vurduruyodur 
 https://www.uludagsozluk.com/k/dinsiz-ahlaks%C4%B1zl%C4%B1%C4%9F%C4%B1/ bkz oç dinsizler
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/ bkz haydari
 bkz rte damadın penis yüzüğünü azıyla takıyor yalanı
