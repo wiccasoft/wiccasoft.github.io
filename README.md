@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz bence herşey çok güzel zaten
 https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav değil tez pampa
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bayrak değil barrak kankağ nüfus memuru yannış yazmış
 https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kankağ 
