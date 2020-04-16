@@ -1,5 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
+<!-- https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-vs-ibrahim-tatl%C4%B1ses/&w=gd ibo siker kankağ -->
+
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
