@@ -2,6 +2,7 @@
 
 <!--
 bkz beş ayrı suçtan arnana erkek karizması
+bkz kırmızı bületenle aranmayıp erkeğim diye gezen totoşlar
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence herşey çok güzel zaten
 https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav değil tez pampa
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bayrak değil barrak kankağ nüfus memuru yannış yazmış
