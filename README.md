@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/32-ya%C5%9F-%C3%BCst%C3%BC-bekar-erkek/ bkz oç
 bkz aydemir akbaşın gavs için karıyı satarım demesi
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-ve-aydemir-akba%C5%9F-benzerli%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-islam-dininin-bitme-nedenleri/&w=bg bk akboylar
