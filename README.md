@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavşak
 bkz damadın penis yüzüğünün fotoşok yani fake çıkması
 bkz millet hizmet beklerken kaka nın osura osura uyuması
 https://www.uludagsozluk.com/k/%C3%B6nder-sav/&w=bg sav depğil tez kankağ
