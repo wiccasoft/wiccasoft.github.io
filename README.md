@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/gavs-%C4%B1n-allah-dostu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz gavsın gay olması
 https://www.uludagsozluk.com/k/geri-zekal%C4%B1-oldu%C4%9Funun-fark%C4%B1nda-olmak/&w=bg bkz kemal sunal
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-alevi-olmas%C4%B1/&w=bg bkz oluna ali isminin koyan gavat
 bkz gavsın cami dostu bi godoş olması
