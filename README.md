@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/ bkz katıksız oç
 bkz fatih portakal vs maymun götü
 bkz ercüment ovalı ve maymun götü
 https://www.sozcu.com.tr/2020/gundem/ercument-ovali-kimdir-prof-dr-ercument-ovalinin-uzmanlik-alani-ne-5749387/ oç
