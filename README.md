@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/tutunamayanlar-ilhan-abi-karakteri/ bkz oç
 bkz barış özcan türkünün elon muskıysa ruhi çenet steve jobsıdır
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg 
 https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/&w=bg bkz 1881=18+81=99-81-batman=covid19 -->
