@@ -1,5 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
+<!-- https://www.uludagsozluk.com/k/yollar-vergilerimle-yap%C4%B1ld%C4%B1-diye-a%C4%9Flayan-laik%C3%A7i/&w=bg güldüren laikçidir -->
+
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
