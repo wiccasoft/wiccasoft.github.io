@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!-- https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-alevi-olmas%C4%B1/&w=gd bkz oç ali sunal -->
+<!-- 
+https://www.uludagsozluk.com/k/yavuz-sultan-selim-in-darbeci-olmas%C4%B1/ bkz oç yavuz 
+https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-alevi-olmas%C4%B1/&w=gd bkz oç ali sunal -->
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
