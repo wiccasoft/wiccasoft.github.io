@@ -2,6 +2,7 @@
 <!--
 bkz siki tutanlar faruk karakteri
 bkz geceye kafa siken neşet ertaş türküsü bırak
+bkz neşet ertyaşı genelde gaylerin dinlenmesi
 https://www.uludagsozluk.com/k/az-kalan-sa%C3%A7%C4%B1n%C4%B1-uzatan-kel/ bkz jeff bezos
 https://www.uludagsozluk.com/k/haydar-ba%C5%9F/&w=bg bka yarramın başı haydar
 https://www.uludagsozluk.com/k/tutunamayanlar-irem-karakteri/ bkz türk aramam motoru tarık
