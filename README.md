@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz mansur yavşak
 bkz fatih portakal vs maymun götü
 bkz damadın penis yüzüğünün fotoşok yani fake çıkması
 bkz millet hizmet beklerken kaka nın osura osura uyuması
