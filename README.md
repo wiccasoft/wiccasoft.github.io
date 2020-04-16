@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/yavuz-sultan-selim-in-darbeci-olmas%C4%B1/&w=bg bkz oç yavuz
 https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/ bkz oç zeyid
 https://www.uludagsozluk.com/k/kumral-erkekler/&w=bg bkz oç ları
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
