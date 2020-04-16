@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/emrah-serbes/&w=bg sonunda t yok kanka çıkışta karı getirin sikeyim az
 bkz beş ayrı suçtan arnana erkek karizması
 bkz kırmızı bületenle aranmayıp erkeğim diye gezen totoşlar
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence herşey çok güzel zaten
