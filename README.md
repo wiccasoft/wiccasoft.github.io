@@ -2,7 +2,7 @@
 
 <!--
 bkz mansur yavaşın çok yavaş haket etmesi
-bkz fatih isimli erkelerin hep bişeyler fethetmesi
+bkz fatih isimli erkeklerin hep bişeyler fethetmesi
 bkz fatih tezcan fatih portakal fatih altaylı fatih terim
 https://www.uludagsozluk.com/k/siyaset-din-futbol-a%C5%9Fk-olmad%C4%B1%C4%9Fnda-konu%C5%9Fulacak-konu/ bkz fatih portakal
 bkz fatih portakalın canlı yayında osurması
