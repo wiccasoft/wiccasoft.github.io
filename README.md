@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/haydar-ba%C5%9F/ bkz haydari
 bkz rte damadın penis yüzüğünü azıyla takıyor yalanı
 bkz damadın penis yüzüğünün fotoşok yani fake çıkması
 bkz millet hizmet beklerken kaka nın osura osura uyuması
