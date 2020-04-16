@@ -1,30 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
-<!-- 
-bkz kerimcan durmaz vs kaan boşnak
-bkz yazarların uluda yazma sebepleri
-bkz yine seks hikayesi mi yazıyosun feridun abi
-https://www.uludagsozluk.com/k/yazarlar%C4%B1-asla-yar%C4%B1-yolda-b%C4%B1rakmayan-%C5%9Feyler/ 
-https://www.uludagsozluk.com/k/neden-uluda%C4%9F-s%C3%B6zl%C3%BCk-te-yazars%C4%B1n%C4%B1z/
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/&w=bg 
-https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/ bkz kaan boşnak 
-https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz ibne gibi puşt gibi bişi
-https://www.uludagsozluk.com/k/sedat-peker-vs-alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg sedat siker bilader
-https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=gd bkz kusturmalı boşnak oç
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BC-ellesene-diyen-k%C4%B1z/ bkz anan
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlı
-https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz kusturmalı boşnak oç
-https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/ bkz sedat peker
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BC-ellesene-diyen-k%C4%B1z/ bkz tayyibin kızı
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe/&w=bg bkz pezevenklerin elindeki kürt orospu
-https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/ bkz kürt oç
-https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/&w=bg bkz sedat peker
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-mesih-olmas%C4%B1/
-https://www.uludagsozluk.com/k/irem-derici-nin-15-gün-sıçamaması/ bkz bok gibi karı
-https://www.uludagsozluk.com/k/iyi-parti-nin-g%C3%B6nderdi%C4%9Fi-koliyi-be%C4%9Fenmeyen-k%C4%B1z/&w=gd bkz nankör oç 
--->
-
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
 
 [![Image](covid19/Screenshot_2020-04-13_07-25-32.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
