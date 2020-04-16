@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz rte nin yolladığı portakalları beğenmeyen nankör chpli
 https://www.uludagsozluk.com/k/vir%C3%BCse-kar%C5%9F%C4%B1-elimizdeki-b%C3%BCy%C3%BCk-koz-yakalanmamak/&w=bg lol
 https://www.uludagsozluk.com/k/fatih-ordakal-yalanlar%C4%B1/ bkz orç portakal
 https://www.uludagsozluk.com/k/rt%C3%BCk-%C3%BCn-fox-tv-ve-portakal-%C4%B1n-i%C3%A7inden-ge%C3%A7mesi/&w=gd
