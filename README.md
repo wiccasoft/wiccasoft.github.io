@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe/&w=bg bkz pezevenklerin elindeki orospu
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/ bkz kürt oç
 https://www.uludagsozluk.com/k/elleri-g%C3%BCzel-olan-erkek/&w=bg bkz sedat peker
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1-n%C4%B1n-mesih-olmas%C4%B1/
