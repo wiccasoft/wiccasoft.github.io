@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-adam-b%C4%B1rak/&w=bg bkz bıraktığını adamlara sokayım
+https://www.uludagsozluk.com/k/g%C3%BCne-bir-adam-b%C4%B1rak/&w=bg bkz bıraktığınız adamlara sokayım 
 https://www.uludagsozluk.com/k/vajina-yalayan-erke%C4%9Fimsi/&w=bg bkz ay hoşt ulan 
 https://www.uludagsozluk.com/k/atakan-kayalar/ bkz minn ak ama filozof naberrrrr -->
 
