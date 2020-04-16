@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg geliyom kanka götünü yıka
 https://www.uludagsozluk.com/k/1-60-k%C4%B1z-vs-1-90-k%C4%B1z/&w=bg olm bi altmış kız mı kaldı lan 
 bkz deep webteki 163 lik barzoların 160 lık kız bulamaması asdasdasdas
 bkz maç muhabbeti yapıp barzo ergenlerin götlerini parmaklamak
