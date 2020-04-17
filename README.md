@@ -2,6 +2,7 @@
 
 <!-- 
 https://eksisozluk.com/dornaz-alfa--6477231?a=popular lol
+bkz canan karatayın yine haklı çıkması
 ucuz olsaydı stokları yarın bitirilecek ve kistik fibrozis hastaları perişan olacaktı.
 -->
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
