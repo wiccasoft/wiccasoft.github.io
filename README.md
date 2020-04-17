@@ -1,7 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)](https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-kdv dahil satış fiyatı 2872.09 tl dir. ölmek free.
 https://eksisozluk.com/dornaz-alfa--6477231?a=popular lol
 stokları yarın bitirilecek ve kistik fibrozis hastaları perişan olacaktır.
 -->
