@@ -1,5 +1,10 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
+<!-- 
+https://www.uludagsozluk.com/k/vatanda%C5%9F%C4%B1-azarlayan-eczac%C4%B1-kad%C4%B1n/&w=gd lol 
+https://eksisozluk.com/rockefeller-ailesine-operasyon-yapilmasi--6478737?a=popular lol
+-->
+
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
