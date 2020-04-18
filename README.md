@@ -2,26 +2,6 @@
 
 <!-- 
 bkz ülkücülü sokaklar istiyoruz
-bkz havla lan deyince havlayan ülkücü
-bkz pkk energia nın alevileri davar güder gibi gütmesi
-bkz baba niye pkkli aleviley sünni olmuyolay diyen minnak mümin
-bkz sünni veletler vs liseli ülkücüler
-bkz pkknın türk futbolunu davar güder gibi gütmesi
-https://www.uludagsozluk.com/k/pkk-n%C4%B1n-alevileri-kullan%C4%B1yor-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=gd
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-provakat%C3%B6r-kaynad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
-bkz pfdk nın ibneleri davar üder gibi gütmesi
-https://www.uludagsozluk.com/k/tayyip-in-ibretlik-t%C3%BCrk%C3%A7e-olimpiyatlar%C4%B1-konu%C5%9Fmas%C4%B1/&w=bg lol
-götü kaşınan versa tayyiple kek yollatayım gençler
-https://www.uludagsozluk.com/k/hep-sizinle-u%C4%9Fra%C5%9Fan-insanlar/ bkz le siradan ibne
-https://www.uludagsozluk.com/k/frank-lucas/&w=bg bkz tayyip ile kek yollattığım ibrretlik ibne
-https://le-siradan-siradam.uludagsozluk.com bkz parasını verip devletini satın alırım sana da kek göndertirim
-https://le-siradan-siradam.uludagsozluk.com bkz hayallerde yaşayan bi ibne daha
-bkz oç türkler ancak prezervartifimi giydirir
-bkz oç türklerin hala beni yakalayıp hizmet ettirememesi
-bkz aponun türk devletinin amına koyayım bana bişey olmasın demesi
-https://www.uludagsozluk.com/k/apo-nun-t%C3%BCrk-devletinin-emrindeyim-demesi/&w=bg
-bkz pkk nın türk futboluna davar futbolu demesi
-bkz tayyibin sünnilerin davar güder gibi sevmesi
 bkz pfsk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 lol
