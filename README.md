@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz millet hizmet beklerken kknın osura osura uyuması
+bkz aponun türk milletine hizmete hazırım demesi
 bkz atacücünün mz hakiki ilim damarlarınızdaki asil kanda mevcuttur demesi
 bkz atacücü en hakiki ilim mürşittir lafı
 bkz burhan altıntop top mu sorunsalı
