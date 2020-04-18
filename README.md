@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz sözlükte devletini savunmayan vadan hayınları
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-provakat%C3%B6r-kaynad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
 bkz pfdk nın ibneleri davar üder gibi gütmesi
 https://www.uludagsozluk.com/k/tayyip-in-ibretlik-t%C3%BCrk%C3%A7e-olimpiyatlar%C4%B1-konu%C5%9Fmas%C4%B1/&w=bg lol
 götü kaşınan versa tayyiple kek yollatayım gençler
