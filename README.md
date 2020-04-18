@@ -6,6 +6,7 @@ bkz ercüment ovalının 19 mayısı beklemesi
 bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
 bkz atıl kurt deyince atılan kurt
 bkz başbuğun atılgan bir kurt olması
+bkz tayybi cimere şikayet etmek
 bkz abdurrahman dilipakın ojeli sözlük kızlarını meb e şikayet etmesi
 bkz sözlük erkeklerinin sözlük kadınları için kavga etmesi sorudalı
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan%C4%B1-neden-seviyorsun/
