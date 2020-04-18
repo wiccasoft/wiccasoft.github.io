@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz burahn altıntop top mu sorunsalı
 bkz mustafa kemal atacücü türklerin atasıysa türkler niye sarışın değil sorunsalı
 bkz mustafa kemal atatürkün türklerin atasıyım demesi
 bkz apollo 11 in türk devletine hizmet etmeye hazırım demesi
