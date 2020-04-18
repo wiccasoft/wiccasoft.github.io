@@ -6,6 +6,7 @@ bkz ercüment ovalının 19 mayısı beklemesi
 bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
 bkz atıl kurt deyince atılan kurt
 bkz cumburlop halk partisi
+bkz cumrulopçuların ne işe yaradığı sorunsalı
 bkz başbuğun atılgan bir kurt olması
 bkz tayybi cimere şikayet etmek
 bkz cumburlop olsanız ilk naparsınız
