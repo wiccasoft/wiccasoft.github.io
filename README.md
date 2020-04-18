@@ -4,6 +4,7 @@
 bkz pdkk kararları beni bağlamaz diyen alevi
 bkz tayyipini ikinci atacücü vakası olması
 bkz pfdk nın alevileri davar güder gibi gütmesi
+https://www.uludagsozluk.com/k/o%C4%9Fuz-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg bkz oğuzların kayı boyu
 https://www.uludagsozluk.com/k/h%C3%BCk%C3%BCmet-sekt%C3%B6r%C3%BC/ lol
 https://www.uludagsozluk.com/k/orta-d%C3%BCnya-d%C3%BCzd%C3%BCr/ lol
 https://www.uludagsozluk.com/k/mama-k%C4%B1l%C4%B1kl%C4%B1-kezo/ lol
