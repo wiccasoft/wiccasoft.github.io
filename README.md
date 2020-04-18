@@ -2,6 +2,7 @@
 
 <!-- 
 bkz pfdk nın türk solunu davar güder gibi gütmesi
+https://www.uludagsozluk.com/k/solculara-laf-s%C3%B6yleyince-sizi-%C5%9Feriat%C3%A7%C4%B1-yapmalar%C4%B1/ bkz 6. filocu
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-alevileri-kullan%C4%B1yor-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/bo%C5%9F-konu%C5%9Fan-kom%C5%9Fular/ lol
 bkz kürtleri sabun yapma gerekliliği
