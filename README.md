@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz ülkücülü sokaklar istiyoruz
 bkz havla lan deyince havlayan ülkücü
 bkz atıl kurt deyince atılan ülkücü
 bkz ülkücü vs köpek beyni
