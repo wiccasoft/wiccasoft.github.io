@@ -9,8 +9,7 @@ bkz cumburlop halk partisi
 bkz tayybi cimere şikayet etmek
 bkz cumburlop olsanız ilk naparsınız
 bkz apollonun beni kürt hekimlerine emanet ediniz demesi
-bkz abdurrahman dilipakın ojeli sözlük kızlarını meb e şikayet etmesi
-bkz sözlük erkeklerinin sözlük kadınları için kavga etmesi sorudalı
+bkz abdurrahman dilipakın ojeli sözlük kızları meb e şikayet etmesi
 bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan%C4%B1-neden-seviyorsun/
 https://www.uludagsozluk.com/k/ne-i%C3%A7in-kavga-etti%C4%9Fi-%C3%A7%C3%B6z%C3%BClemeyen-%C5%9Fi%C5%9Fmanlar/ 
