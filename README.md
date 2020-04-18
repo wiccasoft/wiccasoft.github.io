@@ -2,7 +2,7 @@
 
 <!-- 
 bkz hep apocu hem atacı anarşist
-bkz kk nın ikinci atacücü olması
+bkz aponun nın ikinci atacücü olması
 bkz kk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
 bkz 1881 atacüc 18+81 = 99 - 81 vilayet - batman = covid19
