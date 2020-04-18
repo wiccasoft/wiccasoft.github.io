@@ -4,7 +4,7 @@
 bkz ülkücülü sokaklar istiyoruz
 bkz havla lan deyince havlayan ülkücü
 bkz pkk energia nın alevileri davar güder gibi gütmesi
-bkz baba niye aleviley sünni olmuyolay diyen mümin
+bkz baba niye pkkli aleviley sünni olmuyolay diyen mümin
 bkz sünni veletler vs liseli ülkücüler
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-provakat%C3%B6r-kaynad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
 bkz pfdk nın ibneleri davar üder gibi gütmesi
