@@ -2,8 +2,8 @@
 
 <!-- 
 bkz burhan altıntop top mu sorunsalı
-bkz burhan altıntop un sözlerim bimle çatışırsa şoku seçin lafı
 bkz burhan altıntopun alevileri davar güder gibi gütmesi
+bkz burhan altıntop un sözlerim bimle çatışırsa şoku seçin lafı
 bkz mustafa kemal atacücü türklerin atasıysa türkler niye sarışın değil sorunsalı
 bkz mustafa kemal atatürkün türklerin atasıyım demesi
 bkz apollo 11 in türk devletine hizmet etmeye hazırım demesi
