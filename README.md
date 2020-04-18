@@ -5,6 +5,7 @@ bkz ercüment ovalının güldürmesi
 bkz ercüment ovalının 19 mayısı beklemesi
 bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
 bkz atıl kurt deyince atılan kurt
+bkz cumburlop halk partisi
 bkz başbuğun atılgan bir kurt olması
 bkz tayybi cimere şikayet etmek
 bkz cumburlop olsanız ilk naparsınız
