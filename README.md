@@ -2,6 +2,7 @@
 
 <!-- 
 bkz burhan altıntop top mu sorunsalı
+bkz atacücü sivas kongresindeki hataları
 bkz burhan altıntopun alevileri davar güder gibi gütmesi
 bkz burhan altıntop un sözlerim bimle çatışırsa şoku seçin lafı
 bkz mustafa kemal atacücü türklerin atasıysa türkler niye sarışın değil sorunsalı
