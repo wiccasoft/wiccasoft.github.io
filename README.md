@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz türklerin düyaya verdiği covid19 dersi
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-oje-s%C3%BCren-%C3%B6%C4%9Fretmen-tepkisi/ bkz ojeli örtmen
 https://eksisozluk.com/fenerbahcenin-gelmis-gecmis-en-iyi-3-forveti--6458733?a=popular bkz alex hagi sergen
