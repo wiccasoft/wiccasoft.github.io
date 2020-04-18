@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz pfdk nın türk solunu davar güder gibi gütmesi
+https://www.uludagsozluk.com/k/pkk-n%C4%B1n-alevileri-kullan%C4%B1yor-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/bo%C5%9F-konu%C5%9Fan-kom%C5%9Fular/ lol
 bkz kürtleri sabun yapma gerekliliği
 bkz gerçek türkün serda ortaç olduğu gerçeği
