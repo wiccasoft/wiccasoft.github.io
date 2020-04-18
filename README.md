@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kürtleri sabun yapma gerekliliği
+bkz dedesinin adı osman olmayıp osmanlı torunuyum diyen mal
 bkz pontus rumlarının kendilerin osmanlı torunu sanmaları
 bkz pfdk nın türk solunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/solculara-laf-s%C3%B6yleyince-sizi-%C5%9Feriat%C3%A7%C4%B1-yapmalar%C4%B1/ bkz 6. filocu
