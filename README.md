@@ -1,15 +1,14 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz apollonun ben kürt hekimlerine emanet ediniz demesi
+
 bkz ercüment ovalının güldürmesi
 bkz ercüment ovalının 19 mayısı beklemesi
 bkz atıl kurt deyince atılan kurt
 bkz cumburlop halk partisi
-bkz cumrulopçuların ne işe yaradığı sorunsalı
-bkz başbuğun atılgan bir kurt olması
 bkz tayybi cimere şikayet etmek
 bkz cumburlop olsanız ilk naparsınız
+bkz apollonun beni kürt hekimlerine emanet ediniz demesi
 bkz abdurrahman dilipakın ojeli sözlük kızlarını meb e şikayet etmesi
 bkz sözlük erkeklerinin sözlük kadınları için kavga etmesi sorudalı
 bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
