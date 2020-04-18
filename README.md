@@ -1,9 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz ülkücülü sokaklar istiyoruz
-bkz pfsk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
+https://www.uludagsozluk.com/k/orta-d%C3%BCnya-d%C3%BCzd%C3%BCr/ lol
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 lol
 https://www.uludagsozluk.com/k/istanbul-ekonomisinin-balkanlara-e%C5%9Fit-olu%C5%9Fu/ lol
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-%C5%9Fempanzelerden-daha-zeki-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
