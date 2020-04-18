@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz tayyipini ikinci atacücü vakası olması
 bkz pfdk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/h%C3%BCk%C3%BCmet-sekt%C3%B6r%C3%BC/ lol
 https://www.uludagsozluk.com/k/orta-d%C3%BCnya-d%C3%BCzd%C3%BCr/ lol
