@@ -1,12 +1,11 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz kürtleri sabun yapma gerekliliği
 bkz pfdk nın türk solunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/solculara-laf-s%C3%B6yleyince-sizi-%C5%9Feriat%C3%A7%C4%B1-yapmalar%C4%B1/ bkz 6. filocu
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-alevileri-kullan%C4%B1yor-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/bo%C5%9F-konu%C5%9Fan-kom%C5%9Fular/ lol
-bkz kürtleri sabun yapma gerekliliği
-bkz gerçek türkün serda ortaç olduğu gerçeği
 https://www.uludagsozluk.com/k/dersimlileri-sevmeme-sebepleri/ bkz evladı kerbela
 bkz gözleri çekik olmayıp orta asyadan geldim diyen fare köpek karışımı yaratıklar
 bkz pontus rumlarının kendilerini türk sanmaları
