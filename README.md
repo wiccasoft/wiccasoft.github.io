@@ -1,12 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz carbon based lifeforms
-bkz ırkçıların mal olması
-bkz türklerin düyaya verdiği covid19 dersi
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-bkz ercüment ovalının 23 nisan ı beklemesi
-https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-oje-s%C3%BCren-%C3%B6%C4%9Fretmen-tepkisi/ bkz ojeli örtmen
 https://eksisozluk.com/fenerbahcenin-gelmis-gecmis-en-iyi-3-forveti--6458733?a=popular bkz alex hagi sergen
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1n-k%C3%BCrt-oldu%C4%9Fu-yalan%C4%B1/ lol
 https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
