@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz pkk nın türk futboluna davar futbolu demesi
 bkz tayyibin sünnilerin davar güder gibi sevmesi
 bkz pfsk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
