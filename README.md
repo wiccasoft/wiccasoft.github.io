@@ -1,7 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-
 bkz ercüment ovalının güldürmesi
 bkz ercüment ovalının 19 mayısı beklemesi
 bkz atıl kurt deyince atılan kurt
