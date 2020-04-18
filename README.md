@@ -1,44 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz cumburlop halk partisi
-bkz tayybi cimere şikayet etmek
-bkz cumburlop olsanız ilk naparsınız
-bkz ercüment ovalının güldürmesi
-bkz ercüment ovalının 19 mayısı beklemesi
-bkz atıl kurt deyince atılan kurt
-bkz apollonun beni kürt hekimlerine emanet ediniz demesi
-bkz abdurrahman dilipakın ojeli sözlük kızları meb e şikayet etmesi
-bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan%C4%B1-neden-seviyorsun/
-https://www.uludagsozluk.com/k/ne-i%C3%A7in-kavga-etti%C4%9Fi-%C3%A7%C3%B6z%C3%BClemeyen-%C5%9Fi%C5%9Fmanlar/ 
-https://www.uludagsozluk.com/k/spayd%C4%B1r-men-neden-sinek-yemiyor/ bkz aykadaşlayı ona spaydıy demesin diye
-https://www.uludagsozluk.com/k/ne-i%C3%A7in-kavga-etti%C4%9Fi-%C3%A7%C3%B6z%C3%BClemeyen-%C5%9Fi%C5%9Fmanlar/ bkz çocuklar
-https://www.uludagsozluk.com/k/tarkan%C4%B1n-kurt-dilini-bilmesi/ bkz atıl kurt
-bkz kknın türk milleti en asil duyguların insanıdır demesi
-bkz millet hizmet beklerken kknın osura osura uyuması
-bkz aponun türk milletine hizmete hazırım demesi
-bkz atacücünün mz hakiki ilim damarlarınızdaki asil kanda mevcuttur demesi
-bkz atacücü en hakiki ilim mürşittir lafı
-bkz burhan altıntop top mu sorunsalı
-bkz atacücü sivas kongresindeki hataları
-bkz burhan altıntopun alevileri davar güder gibi gütmesi
-bkz burhan altıntop un sözlerim bimle çatışırsa şoku seçin lafı
-bkz mustafa kemal atacücü türklerin atasıysa türkler niye sarışın değil sorunsalı
-bkz mustafa kemal atatürkün türklerin atasıyım demesi
-bkz apollo 11 in türk devletine hizmet etmeye hazırım demesi
-bkz zonguldak valisinin apollo 11 bayrağı asması
-bkz hep apocu hem atacı anarşist
-bkz apo nun ikinci atacücü olması
-bkz kk nın alevileri davar güder gibi gütmesi
-https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
-bkz 1881 atacüc 18+81 = 99 - 81 vilayet - batman = covid19
-https://www.uludagsozluk.com/k/ata-posteriyle-apo-posterini-yan-yana-koymak/ bkz iki yiğido
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg londra ateşkes müzakeresei
 https://www.uludagsozluk.com/k/h%C3%BCk%C3%BCmet-sekt%C3%B6r%C3%BC/ lol
 https://www.uludagsozluk.com/k/orta-d%C3%BCnya-d%C3%BCzd%C3%BCr/ lol
 https://www.uludagsozluk.com/k/mama-k%C4%B1l%C4%B1kl%C4%B1-kezo/ lol
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 lol
 https://www.uludagsozluk.com/k/istanbul-ekonomisinin-balkanlara-e%C5%9Fit-olu%C5%9Fu/ lol
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-%C5%9Fempanzelerden-daha-zeki-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/tom-cruise-vs-brad-pitt-vs-di-caprio-vs-j-deep/&w=bg bkz recep tayyip erdoğan
