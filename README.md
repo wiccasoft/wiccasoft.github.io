@@ -3,7 +3,7 @@
 <!-- 
 bkz mustafa kemal atacücü türklerin atasıysa türkler niye sarışın değil sorunsalı
 bkz mustafa kemal atatürkün türklerin atasıyım demesi
-bkz apollonun türk dvletine hizmet etmeye hazırım demesi
+bkz apollo 11 in türk devletine hizmet etmeye hazırım demesi
 bkz zonguldak valisinin apollo 11 bayrağı asması
 bkz hep apocu hem atacı anarşist
 bkz apo nun ikinci atacücü olması
