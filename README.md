@@ -2,20 +2,11 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
-bkz iyi ki varsın eren
-bkz kürtleri sabun yapma gerekliliği
-bkz dedesinin adı osman olmayıp osmanlı torunuyum diyen mal
-bkz pontus rumlarının kendilerin osmanlı torunu sanmaları
-bkz pfdk nın türk solunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/solculara-laf-s%C3%B6yleyince-sizi-%C5%9Feriat%C3%A7%C4%B1-yapmalar%C4%B1/ bkz 6. filocu
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-alevileri-kullan%C4%B1yor-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/bo%C5%9F-konu%C5%9Fan-kom%C5%9Fular/ lol
 https://www.uludagsozluk.com/k/dersimlileri-sevmeme-sebepleri/ bkz evladı kerbela
-bkz gözleri çekik olmayıp orta asyadan geldim diyen fare köpek karışımı yaratıklar
-bkz pontus rumlarının kendilerini türk sanmaları
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-bkz 19 mayısı bekleycektim ama batmanlılardan uzak durun
-https://www.uludagsozluk.com/k/en-g%C3%BCzel-sabun-yap%C4%B1lacak-%C4%B1rklar/ bkz kürtler
+https://www.uludagsozluk.com/k/en-g%C3%BCzel-sabun-yap%C4%B1lacak-%C4%B1rklar/ bkz pontuslar
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-osmanl%C4%B1-ya-rum-demesi/&w=gd bkz pontus rumları
 https://eksisozluk.com/fenerbahcenin-gelmis-gecmis-en-iyi-3-forveti--6458733?a=popular bkz alex hagi sergen
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1n-k%C3%BCrt-oldu%C4%9Fu-yalan%C4%B1/ lol
