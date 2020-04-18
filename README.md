@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/dersimlileri-sevmeme-sebepleri/ bkz evladı kerbela
 bkz gözleri çekik olmayıp orta asyadan geldim diyen fare köpek karışımı yaratıklar
 bkz pontus rumlarının kendilerini türk sanmaları
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
