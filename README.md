@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/frank-lucas/&w=bg bkz tayyip ile kek yollattığım ibrretlik ibne
 https://le-siradan-siradam.uludagsozluk.com bkz parasını verip devletini satın alırım sana da kek göndertirim
 https://le-siradan-siradam.uludagsozluk.com bkz hayallerde yaşayan bi ibne daha
 bkz oç türkler ancak prezervartifimi giydirir
