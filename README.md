@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz zonguldak valisinin apo bayrağı asması
 bkz hep apocu hem atacı anarşist
 bkz aponun nın ikinci atacücü olması
 bkz kk nın alevileri davar güder gibi gütmesi
