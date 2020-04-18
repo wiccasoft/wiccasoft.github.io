@@ -5,6 +5,7 @@ bkz kk nın ikinci atacücü olması
 bkz kk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
 bkz 1881 atacüc 18+81 = 99 - 81 vilayet - batman = covid19
+https://www.uludagsozluk.com/k/ata-posteriyle-apo-posterini-yan-yana-koymak/ bkz iki yiğido
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg londra ateşkes müzakeresei
 https://www.uludagsozluk.com/k/h%C3%BCk%C3%BCmet-sekt%C3%B6r%C3%BC/ lol
 https://www.uludagsozluk.com/k/orta-d%C3%BCnya-d%C3%BCzd%C3%BCr/ lol
