@@ -2,7 +2,9 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
+bkz 1881 atacüc 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/orta-d%C3%BCnya-d%C3%BCzd%C3%BCr/ lol
+https://www.uludagsozluk.com/k/mama-k%C4%B1l%C4%B1kl%C4%B1-kezo/ lol
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 lol
 https://www.uludagsozluk.com/k/istanbul-ekonomisinin-balkanlara-e%C5%9Fit-olu%C5%9Fu/ lol
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-%C5%9Fempanzelerden-daha-zeki-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
