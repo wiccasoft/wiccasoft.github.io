@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1n-k%C3%BCrt-oldu%C4%9Fu-yalan%C4%B1/ lol
 https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/vatanda%C5%9F%C4%B1-azarlayan-eczac%C4%B1-kad%C4%B1n/&w=gd lol 
 https://eksisozluk.com/rockefeller-ailesine-operasyon-yapilmasi--6478737?a=popular lol
