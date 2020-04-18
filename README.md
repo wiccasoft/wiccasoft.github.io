@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz atıl kurt deyince atılan kurt
+bkz başbuğun atılgan bir kurt olması
 https://www.uludagsozluk.com/k/tarkan%C4%B1n-kurt-dilini-bilmesi/ bkz atıl kurt
 bkz kknın türk milleti en asil duyguların insanıdır demesi
 bkz millet hizmet beklerken kknın osura osura uyuması
