@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-%C5%9Fempanzelerden-daha-zeki-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/tom-cruise-vs-brad-pitt-vs-di-caprio-vs-j-deep/&w=bg bkz recep tayyip erdoğan
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
 https://www.uludagsozluk.com/k/solculara-laf-s%C3%B6yleyince-sizi-%C5%9Feriat%C3%A7%C4%B1-yapmalar%C4%B1/ bkz 6. filocu
