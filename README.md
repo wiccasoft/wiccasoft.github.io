@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/civciv-yiyen-at/ lol
+https://www.uludagsozluk.com/k/istanbul-ekonomisinin-balkanlara-e%C5%9Fit-olu%C5%9Fu/ lol
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-%C5%9Fempanzelerden-daha-zeki-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/tom-cruise-vs-brad-pitt-vs-di-caprio-vs-j-deep/&w=bg bkz recep tayyip erdoğan
 udagsozluk.com/k/solculara-laf-s%C3%B6yleyince-sizi-%C5%9Feriat%C3%A7%C4%B1-yapmalar%C4%B1/ bkz 6. filocu
