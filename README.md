@@ -6,6 +6,7 @@ bkz ercüment ovalının 19 mayısı beklemesi
 bkz apollonun tengri türkü korusun gerisinin belasını versin demesi
 bkz atıl kurt deyince atılan kurt
 bkz başbuğun atılgan bir kurt olması
+https://www.uludagsozluk.com/k/ne-i%C3%A7in-kavga-etti%C4%9Fi-%C3%A7%C3%B6z%C3%BClemeyen-%C5%9Fi%C5%9Fmanlar/ 
 https://www.uludagsozluk.com/k/spayd%C4%B1r-men-neden-sinek-yemiyor/ bkz aykadaşlayı ona spaydıy demesin diye
 https://www.uludagsozluk.com/k/ne-i%C3%A7in-kavga-etti%C4%9Fi-%C3%A7%C3%B6z%C3%BClemeyen-%C5%9Fi%C5%9Fmanlar/ bkz çocuklar
 https://www.uludagsozluk.com/k/tarkan%C4%B1n-kurt-dilini-bilmesi/ bkz atıl kurt
