@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz pdkk nın bankacıları davar güder gibi gütmesi
+bkz pdkk nın türk bankacılığını davar güder gibi gütmesi
 bkz pdkk kararları beni bağlamaz diyen alevi
 bkz tayyipini ikinci atacücü vakası olması
 bkz pfdk nın alevileri davar güder gibi gütmesi
