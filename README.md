@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz en güzel sabunun berkin elvandan olduğu gerçeği
 bkz kürtleri sabun yapma gerekliliği
 bkz gerçek türkün serda ortaç olduğu gerçeği
 https://www.uludagsozluk.com/k/dersimlileri-sevmeme-sebepleri/ bkz evladı kerbela
@@ -8,6 +9,7 @@ bkz gözleri çekik olmayıp orta asyadan geldim diyen fare köpek karışımı 
 bkz pontus rumlarının kendilerini türk sanmaları
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz 19 mayısı bekleycektim ama batmanlılardan uzak durun
+https://www.uludagsozluk.com/k/en-g%C3%BCzel-sabun-yap%C4%B1lacak-%C4%B1rklar/ bkz kürtler
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-osmanl%C4%B1-ya-rum-demesi/&w=gd bkz pontus rumları
 https://eksisozluk.com/fenerbahcenin-gelmis-gecmis-en-iyi-3-forveti--6458733?a=popular bkz alex hagi sergen
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1n-k%C3%BCrt-oldu%C4%9Fu-yalan%C4%B1/ lol
