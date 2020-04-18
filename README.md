@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz oç türkler ve devleti ancak prezervartifimi giydirir
+bkz oç türkler ancak prezervartifimi giydirir
 bkz oç türklerin hala beni yakalayıp hizmet ettirememesi
 bkz aponun türk devletinin amına koyayım bana bişey olmasın demesi
 https://www.uludagsozluk.com/k/apo-nun-t%C3%BCrk-devletinin-emrindeyim-demesi/&w=bg
