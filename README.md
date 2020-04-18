@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-bkz en güzel sabunun berkin elvandan olduğu gerçeği
+https://www.uludagsozluk.com/k/bo%C5%9F-konu%C5%9Fan-kom%C5%9Fular/ lol
 bkz kürtleri sabun yapma gerekliliği
 bkz gerçek türkün serda ortaç olduğu gerçeği
 https://www.uludagsozluk.com/k/dersimlileri-sevmeme-sebepleri/ bkz evladı kerbela
