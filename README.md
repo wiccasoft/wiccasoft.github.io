@@ -2,7 +2,7 @@
 
 <!-- 
 bkz ayrılıkçı fedöncüler
-bkz ali ihsan varolun atılıkçı fedöncülere verdiği efso ayar
+bkz ali ihsan varolun ayrılıkçı fedöncülere verdiği efso ayar
 bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
 bkz grup vitamin ismailin fedö teslim olmuyo diye ölüm orucuna başlaması
