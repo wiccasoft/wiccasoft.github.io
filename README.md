@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-%C3%A7in-karantinas%C4%B1/ bkz dengelerin değişecek olması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz şener şen tiplemeleri
 https://www.uludagsozluk.com/k/kareem-abdul-jabbar/&w=bg bkz vruce lee den dayak yiyen pivot
 https://gine-babunu.uludagsozluk.com bkz sapık ispet ve iç dünyası
