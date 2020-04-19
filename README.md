@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/terzi-fikri/&w=bg bkz oç fikri
 bkz pfdk nın çıtır çıtır yediği futbolcular
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ aboo yerler bunu ekşici veletler
 https://www.uludagsozluk.com/k/ek%C5%9Fici-hatunlar%C4%B1n-hunharca-ye%C5%9Fillendirmesi/ lol
