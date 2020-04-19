@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+bkz terzi fikrinin essye ytürümesi
 bkz mustaf kapı vs işte bu da sapı
 bkz sercan yıldırım vs ozan kabak
 bkz terzi fikri vs terzi yamağı
