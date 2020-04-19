@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz geup yorumun tek kişi kalması
+bkz geup vitamin ismailin fedö teslim olmuyo diye  ölüm orucuna başlaması
+bkz grıp yorumun tek kişi kalması
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/&w=bg
 bkz trumpı arayıp  emre uslu twitterdan konumnu bulup evinden aldırmak
 https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedücü
