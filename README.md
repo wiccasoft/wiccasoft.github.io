@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/iyi-ki-do%C4%9Fdun-f%C3%BChrer/ eywallah bro
 bkz mustafa cecelinin ölüm orucuna başlaması
 bkz grup fitamin ismailin trump fedöyü vermezse ölüm orucuna bırakam demesi
 https://www.uludagsozluk.com/k/%C3%A7%C3%B6km%C3%BC%C5%9F-%C3%BCnl%C3%BCler/ bkz arada turan
