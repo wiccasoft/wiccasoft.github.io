@@ -2,6 +2,7 @@
 
 <!-- 
 bkz sörfayfır yunus vs sörfayfır hamit
+https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg bkz hakiki tosun paşa
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-ve-renkli-g%C3%B6zl%C3%BC-araplar/&w=bg bkz abdullah gül
 https://www.youtube.com/watch?v=EfAsNffCjsM alllaaaaaaaaaaaaak ne kadar süper laaaaaaan
 https://www.uludagsozluk.com/k/tanr%C4%B1-kald%C4%B1ramayaca%C4%9F%C4%B1-ta%C5%9F-yaratabilir-mi/&w=bg bkz apo
