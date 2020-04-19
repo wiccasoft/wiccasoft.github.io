@@ -3,15 +3,9 @@
 <!-- 
 bkz kerem tunçerin bir maç ceza alması
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
-bkz 20 nisan 2020 galtasaray kerem tunçeri açıklaması
 bkz galtasarayın kerem tunçeriyi kadro dışı bırakması
-bkz kerem tunçeri ifşa bana ait değil açıklaması
-bkz 20 nisan 2020 kerem tunçeri ifşası
-bkz melonun fatih terime geyseye dönme sinaylleri yakması
-bkz selçuk şahinin ileri beşlide oynarım abi demesi
-bkz daft punk solistinin ölüm orucuna başlaması
+bkz kerem tunçerinin türk hakelerini suçmalaması
 https://www.uludagsozluk.com/k/fl%C3%B6rt%C3%B6z-davranan-hetero-erkekler/ bkz kerem tunçeri
-https://www.uludagsozluk.com/k/20-nisan-2020-hz-isa-n%C4%B1n-yery%C3%BCz%C3%BCne-inmesi/ bkz isanın zühur eylemesi
 https://www.uludagsozluk.com/k/galatasaray/&w=bg vkz abdurrahim albayrakın canlı yayında ağlaması -->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
