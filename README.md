@@ -2,6 +2,7 @@
 
 <!-- 
 bkz siyahi ruslar
+bkz brad pittin arap olduğu gerçeği
 bkz tanrı arapları neden yarattı sorunsalı
 bkz putinin ruslaşmış arap olduğu gerçeği
 bkz sarışın ve mavi gözlü araplar
