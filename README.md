@@ -3,6 +3,7 @@
 <!-- 
 bkz sörfayfır yunus vs sörfayfır hamit
 bkz arap sen içme sarışın ve açık gözlü görüyosun
+https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-ve-renkli-g%C3%B6zl%C3%BC-araplar/ bkz abdullah gül
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg bkz hakiki tosun paşa
 bkz atacücün sarışın ve renkli gözlü arap olduğu gerçeği
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-ve-renkli-g%C3%B6zl%C3%BC-araplar/&w=gd bkz atacücü
