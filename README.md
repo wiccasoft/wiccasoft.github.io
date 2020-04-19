@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz grup vitamin gitaristinin fedö için ölüm orucuna başlaması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz ganyotçu ekrem
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz çöpçüler kralı
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-%C3%A7in-karantinas%C4%B1/ 
