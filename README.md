@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
 https://gogocu.uludagsozluk.com/ bkz tek tokatla bayıltılacak ergen
-https://www.uludagsozluk.com/k/%C3%A7ini-neden-haritadan-silmiyoruz/ sen kimsin amk bebesi
+https://www.uludagsozluk.com/k/%C3%A7ini-neden-haritadan-silmiyoruz/ sen kimsin lan amk bebesi
 bkz ben senin bokunu yerim lan bokunu diyen kız
 bkz sıçtıktan sonra gelen açlık hissi
 bkz ata demirerin ölüm orucunu yarıda kesmesi
