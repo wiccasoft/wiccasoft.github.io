@@ -2,19 +2,14 @@
 
 <!-- 
 bkz ayrılıkçı fedöncüler
+bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
 bkz grup vitamin ismailin fedö teslim olmuyo diye  ölüm orucuna başlaması
-bkz grup yorumun tek kişi kalması
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/&w=bg
-bkz trumpı arayıp  emre uslu twitterdan konumnu bulup evinden aldırmak
 https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedücü
-bkz tayyibin fedöyle barışması
 https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/ bkz fedö benim olacak vurcam kırbacı
-bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedöncü
-bkz yerli tayyip göklerde
 https://www.uludagsozluk.com/k/yerli-u%C3%A7ak-g%C3%B6klerde-diyince-k%C3%BCf%C3%BCr-yemek/
-bkz tayyip fetöyü affetim dese olacaklar
 https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
 https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/&w=gd bkz feto nun tayyiple barışma ihtimali
