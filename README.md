@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz kerem tunçerin 1 maç cezayı çok bulması
 bkz sana sevdadnın yolları bana kurşunlar diyen kız
 bkz senin bokunu yerim lan bokunu diyen kız
 bkz kerem tunçerin bir maç ceza alması
