@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-https://gogocu.uludagsozluk.com/ bkz tek tokatla bayıltılacak ergenler listei top 1
+https://gogocu.uludagsozluk.com/ bkz tek tokatla bayıltılacak ergen
 https://www.uludagsozluk.com/k/%C3%A7ini-neden-haritadan-silmiyoruz/ sen kimsin amk bebesi
 bkz ben senin bokunu yerim lan bokunu diyen kız
 bkz sıçtıktan sonra gelen açlık hissi
