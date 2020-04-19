@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz sana sevdadnın yolları bana kurşunlar diyen kız
+bkz senin bokunu yerim lan bokunu diyen kız
 bkz kerem tunçerin bir maç ceza alması
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 bkz galtasarayın kerem tunçeriyi kadro dışı bırakması
