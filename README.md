@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz şener şen tiplemeleri
+https://www.uludagsozluk.com/k/kareem-abdul-jabbar/&w=bg bkz vruce lee den dayak yiyen pivot
 https://gine-babunu.uludagsozluk.com bkz sapık ispet ve iç dünyası
 https://www.uludagsozluk.com/k/travesti-ile-kavga-etmek/ bkz yine kavgaya soktun kardeş
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/ bkz yine duşa soktun kardeş
