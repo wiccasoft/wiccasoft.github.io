@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz grup fitamin ismailin trump fedöyü vermezse ölüm orucuna bırakam demesi
 https://www.uludagsozluk.com/k/%C3%A7%C3%B6km%C3%BC%C5%9F-%C3%BCnl%C3%BCler/ bkz arada turan
 bkz grup vitamin gitaristinin fedöyü protesto için ölüm orucuna başlaması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz ganyotçu ekrem
