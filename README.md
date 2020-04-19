@@ -2,6 +2,7 @@
 
 <!-- 
 bkz siyahi ruslar
+bkz tanrı arapları neden yarattı sorunsalı
 bkz putinin ruslaşmış arap olduğu gerçeği
 bkz sarışın ve mavi gözlü araplar
 bkz arap sen içme sarışın ve açık gözlü görüyosun
