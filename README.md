@@ -1,34 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
-<!--
-hadi genşler yarın iş var ben yatar silmeyin çini haritadan dünya dengelerini bozmayın
-https://www.uludagsozluk.com/k/kaos-bittiyse-ben-yat%C4%B1yorum/
-bkz sana sevdanın yolları bana kurşunlar diyen kız
-bkz götünde don olmayan akboyların çini haritadan silmeye çalışması
-https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
-https://gogocu.uludagsozluk.com/ bkz tek tokatla bayıltılacak gerizekalı ergen
-https://www.uludagsozluk.com/k/%C3%A7ini-neden-haritadan-silmiyoruz/ sen kimsin lan amk bebesi
-bkz ben senin bokunu yerim lan bokunu diyen kız
-bkz sıçtıktan sonra gelen açlık hissi
-bkz ata demirerin ölüm orucunu yarıda kesmesi
-https://www.uludagsozluk.com/k/iyi-ki-do%C4%9Fdun-f%C3%BChrer/ eywallah bro
-bkz mustafa cecelinin ölüm orucuna başlaması
-bkz grup fitamin ismailin trump fedöyü vermezse ölüm orucuna bırakam demesi
-https://www.uludagsozluk.com/k/%C3%A7%C3%B6km%C3%BC%C5%9F-%C3%BCnl%C3%BCler/ bkz arada turan
-bkz grup vitamin gitaristinin fedöyü protesto için ölüm orucuna başlaması
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz ganyotçu ekrem
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz çöpçüler kralı
-https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-%C3%A7in-karantinas%C4%B1/ 
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz şener şen tiplemeleri
-https://www.uludagsozluk.com/k/kareem-abdul-jabbar/&w=bg bkz vruce lee den dayak yiyen pivot
-https://gine-babunu.uludagsozluk.com bkz sapık ispet ve iç dünyası
-https://www.uludagsozluk.com/k/travesti-ile-kavga-etmek/ bkz yine kavgaya soktun kardeş
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/ bkz yine duşa soktun kardeş
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz yine duşa soktun kardeş
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ emeğine aktım kardeş
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz kerimcan durmazın kankası
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz samimiyetsiz -->
-
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
