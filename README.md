@@ -2,6 +2,7 @@
 
 <!-- 
 bkz siyahi ruslar
+bkz putinin kenyalı rus olduğu gerçeği
 bkz sarışın ve mavi gözlü araplar
 bkz arap sen içme sarışın ve açık gözlü görüyosun
 bkz arapların sarışın ve mavi gözlü oldukları gerçeği
