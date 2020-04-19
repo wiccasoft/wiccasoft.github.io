@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ ekmek arası çıtır çıtır yenir olm bu
+https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ bkz ekmek arası çıtır çıtır yenir 
 https://www.uludagsozluk.com/k/terzi-fikri/&w=bg bkz zuhahahahahaha
 bkz terzi fikri vs terzi yamağı
 https://www.uludagsozluk.com/k/terzi-fikri/&w=bg bkz oç fikri
