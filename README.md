@@ -3,6 +3,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
 https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
+https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/&w=gd bkz feto nun tayyiple barışma ihtimali
 https://www.uludagsozluk.com/k/y%C3%BCksek-ses-televizyon-a%C3%A7%C4%B1p-sevi%C5%9Fen-kom%C5%9Fu/ lol
 https://www.uludagsozluk.com/k/bodrum-da-125-milyon-liraya-sat%C4%B1lan-ada/ lol
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diyen-insanlar/&w=bg bkz yattara
