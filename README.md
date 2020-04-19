@@ -3,7 +3,7 @@
 <!-- 
 https://gine-babunu.uludagsozluk.com bkz sapık ispet ve iç dünyası
 https://www.uludagsozluk.com/k/travesti-ile-kavga-etmek/ bkz yine kavgaya soktun kardeş
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/ yine duşa soktun kardeş
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ emeğine aktım kardeş
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz kerimcan durmazın kankası
