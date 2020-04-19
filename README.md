@@ -5,8 +5,10 @@ bkz kerem tunçerin bir maç ceza alması
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 bkz galtasarayın kerem tunçeriyi kadro dışı bırakması
 bkz kerem tunçerinin türk hakelerini suçmalaması
-https://www.uludagsozluk.com/k/fl%C3%B6rt%C3%B6z-davranan-hetero-erkekler/ bkz kerem tunçeri
-https://www.uludagsozluk.com/k/galatasaray/&w=bg vkz abdurrahim albayrakın canlı yayında ağlaması -->
+bkz abdurrahim albayrakın canlı yayında ağlaması 
+bkz şaka maka grup yorumun tek kişi kalması
+bkz grup vitamin ismailin ölüm orucunun sonlandırması
+-->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
