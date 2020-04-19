@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ adam amcı beyler
 bkz bütün yakışıklı çocukların kapıldığı gerçeği
 https://www.uludagsozluk.com/k/survivor-bar%C4%B1%C5%9F/ bu da mı amcı lan
 https://www.uludagsozluk.com/k/atilla-kaya/&w=bg açmayın amcı
