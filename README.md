@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz yerli tayyip göklerde
+https://www.uludagsozluk.com/k/yerli-u%C3%A7ak-g%C3%B6klerde-diyince-k%C3%BCf%C3%BCr-yemek/
 bkz tayyip fetöyü affetim dese olacaklar
 https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
 https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
