@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ aboo yerler bunu ekşcici veletler
 bkz pddk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/amerikan-sa%C4%9Fl%C4%B1k-sistemi/ bkz obamacare
 https://www.uludagsozluk.com/k/o%C4%9Fuz-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg bkz oğuzların kayı boyu
