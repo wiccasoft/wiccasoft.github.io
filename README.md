@@ -2,6 +2,7 @@
 
 <!-- 
 bkz ayrılıkçı fedöncüler
+bkz dide soydanın ak partinin reklam yüzü olmak için teklif sunması
 bkz ali ihsan varolun ayrılıkçı fedöncülere verdiği efso ayar
 bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
