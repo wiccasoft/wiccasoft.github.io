@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz 20 nisan 2020 galtasaray kerem tunçeri açıklaması
 bkz galtasarayın kerem tunçeriyi kadro dışı bırakması
 bkz kerem tunçeri ifşa bana ait değil açıklaması
 bkz 20 nisan 2020 kerem tunçeri ifşası
