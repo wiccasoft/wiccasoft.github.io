@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
-<!-- https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
+<!-- 
+https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
+https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/y%C3%BCksek-ses-televizyon-a%C3%A7%C4%B1p-sevi%C5%9Fen-kom%C5%9Fu/ lol
 https://www.uludagsozluk.com/k/eski-trabzonsporlu-yattara-n%C4%B1n-ben-t%C3%BCrk-%C3%BCm-demesi bkz ayrılıkçı türk
 -->
