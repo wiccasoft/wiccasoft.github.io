@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/fl%C3%B6rt%C3%B6z-davranan-hetero-erkekler/ bkz kerem tunçeri
 https://www.uludagsozluk.com/k/20-nisan-2020-hz-isa-n%C4%B1n-yery%C3%BCz%C3%BCne-inmesi/ bkz isanın zühur eylemesi
 https://www.uludagsozluk.com/k/galatasaray/&w=bg vkz abdurrahim albayrakın canlı yayında ağlaması -->
 
