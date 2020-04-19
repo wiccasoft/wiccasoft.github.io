@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz trumpı arayıp  emre uslu twitterdan konumnu bulup evinden aldırmak
 https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedücü
 bkz tayyibin fedöyle barışması
 https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/ bkz fedö benim olacak vurcam kırbacı
