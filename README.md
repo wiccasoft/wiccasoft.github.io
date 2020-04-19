@@ -2,6 +2,7 @@
 
 <!-- 
 bkz ayrılıkçı fedöncüler
+bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
 bkz grup vitamin ismailin fedö teslim olmuyo diye  ölüm orucuna başlaması
 bkz grup yorumun tek kişi kalması
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/&w=bg
