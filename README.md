@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
+https://www.uludagsozluk.com/k/atilla-kaya/&w=bg açmayın amcı
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/&w=gd beyler çocuk amcı çıktı
 bkz terzi fikrinin essye ytürümesi
 bkz mustaf kapı vs işte bu da sapı
