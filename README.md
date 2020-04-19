@@ -1,32 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
-<!-- 
-https://www.uludagsozluk.com/k/ali-bi%C3%A7im/&w=bg bkz ayrılıkçı fedöncüler
-bkz didem soydanın ak partinin reklam yüzü olmak için rte ye yanlaması
-https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz canısııııııı
-https://www.uludagsozluk.com/k/ak-parti-se%C3%A7meni/&w=bg bkz aklı hür vicdanı hür
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bey-g%C3%B6rememe-sorunsal%C4%B1/ bkz akp parti gençlik kolları
-https://www.uludagsozluk.com/k/ak-parti/&w=bg beraber yürüdük biz bu yollarda 
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-imam-ali-resmi-b%C4%B1rak/ ibretlik paylaşım emeğine aktım kardeş
-https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-tengir-%C3%BCmmet-yeti%C5%9Femiyor/
-https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/&w=bg
-https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedücü
-https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/ bkz fedö benim olacak vurcam kırbacı
-https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedöncü
-https://www.uludagsozluk.com/k/yerli-u%C3%A7ak-g%C3%B6klerde-diyince-k%C3%BCf%C3%BCr-yemek/
-https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
-https://www.uludagsozluk.com/k/saruman%C4%B1n-e%C4%9Fitimci-olmas%C4%B1/ lol
-https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/&w=gd bkz feto nun tayyiple barışma ihtimali
-https://www.uludagsozluk.com/k/y%C3%BCksek-ses-televizyon-a%C3%A7%C4%B1p-sevi%C5%9Fen-kom%C5%9Fu/ lol
-https://www.uludagsozluk.com/k/bodrum-da-125-milyon-liraya-sat%C4%B1lan-ada/ lol
-https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diyen-insanlar/&w=bg bkz yattara
-https://www.uludagsozluk.com/k/eski-trabzonsporlu-yattara-n%C4%B1n-ben-t%C3%BCrk-%C3%BCm-demesi bkz ayrılıkçı türk
-https://www.uludagsozluk.com/k/peygamberin-g%C3%B6z-zinas%C4%B1-yapmas%C4%B1/ bkz gözleriynen soymak
-https://www.uludagsozluk.com/k/didem-soydan-%C4%B1n-seksi-karantina-foto%C4%9Fraf%C4%B1/ bkz ak partili
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-evindeki-%C5%9Fa%C5%9F%C4%B1rt%C4%B1c%C4%B1-de%C4%9Fi%C5%9Fim/
--->
-
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
+
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
 
 [![Image](covid19/Screenshot_2020-04-13_07-28-07.png)]( https://www.youtube.com/watch?v=hDn5l2hJ6II )
