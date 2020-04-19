@@ -2,6 +2,7 @@
 
 <!-- 
 bkz sörfayfır yunus vs sörfayfır hamit
+bkz sarışın ve mavi gözlü araplar
 bkz arap sen içme sarışın ve açık gözlü görüyosun
 bkz arapların sarışın ve mavi gözlü oldukları gerçeği
 bkz abdullah çatlının asimile olmamış ermeni olması
