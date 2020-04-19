@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz 20 nisan 2020 kerem tunçeri ifşası
 bkz melonun fatih terime geyseye dönme sinaylleri yakması
 bkz selçuk şahinin ileri beşlide oynarım abi demesi
 bkz daft punk solistinin ölüm orucuna başlaması
