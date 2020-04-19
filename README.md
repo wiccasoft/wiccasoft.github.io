@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz kerimcan durmazın kankası
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ emeğine aktım kardeş
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz samimiyetsiz -->
 
