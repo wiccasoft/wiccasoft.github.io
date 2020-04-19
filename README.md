@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ben senin bokunu yerim lan bokunu diyen kız
 bkz sıçtıktan sonra gelen açlık hissi
 bkz ata demirerin ölüm orucunu yarıda kesmesi
 https://www.uludagsozluk.com/k/iyi-ki-do%C4%9Fdun-f%C3%BChrer/ eywallah bro
