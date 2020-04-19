@@ -5,6 +5,7 @@ bkz ayrılıkçı fedöncüler
 bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
 bkz grup vitamin ismailin fedö teslim olmuyo diye ölüm orucuna başlaması
+https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-tengir-%C3%BCmmet-yeti%C5%9Femiyor/
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/&w=bg
 https://www.uludagsozluk.com/k/emre-uslu/&w=bg bkz yerli tayyip düşmanı fedücü
 https://www.uludagsozluk.com/k/fetullah-ne-zaman-abd-den-al%C4%B1nacak/ bkz fedö benim olacak vurcam kırbacı
