@@ -1,18 +1,14 @@
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 <!-- 
-https://www.youtube.com/watch?v=EfAsNffCjsM alllaaaaaaaaaaaaak ne kadar süper laaaaaaan
 bkz sörfayfır yunus vs sörfayfır hamit
+https://www.youtube.com/watch?v=EfAsNffCjsM alllaaaaaaaaaaaaak ne kadar süper laaaaaaan
 https://www.uludagsozluk.com/k/tanr%C4%B1-kald%C4%B1ramayaca%C4%9F%C4%B1-ta%C5%9F-yaratabilir-mi/&w=bg bkz apo
 https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-ve-renkli-g%C3%B6zl%C3%BC-araplar/&w=bg bkz abdullah gül
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ adam amcıymış beyler
 https://www.uludagsozluk.com/k/survivor-bar%C4%B1%C5%9F/ bu da mı amcı lan
 https://www.uludagsozluk.com/k/atilla-kaya/&w=bg açmayın amcı
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/&w=gd beyler çocuk amcı çıktı
-bkz terzi fikrinin essye ytürümesi
-bkz mustaf kapı vs işte bu da sapı
-bkz sercan yıldırım vs ozan kabak
-bkz terzi fikri vs terzi yamağı
 https://www.uludagsozluk.com/k/terzi-fikri/&w=bg bkz oç fikri
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ bkz ekmek arası çıtır çıtır yenir lan bu
 https://www.uludagsozluk.com/k/terzi-fikri/&w=bg bkz zuhahahahahaha
