@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/y%C3%BCksek-ses-televizyon-a%C3%A7%C4%B1p-sevi%C5
 https://www.uludagsozluk.com/k/bodrum-da-125-milyon-liraya-sat%C4%B1lan-ada/ lol
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diyen-insanlar/&w=bg bkz yattara
 https://www.uludagsozluk.com/k/eski-trabzonsporlu-yattara-n%C4%B1n-ben-t%C3%BCrk-%C3%BCm-demesi bkz ayrılıkçı türk
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-evindeki-%C5%9Fa%C5%9F%C4%B1rt%C4%B1c%C4%B1-de%C4%9Fi%C5%9Fim/
 -->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
