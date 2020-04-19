@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz ayrılıkçı fedöncüler
+https://www.uludagsozluk.com/k/ali-bi%C3%A7im/&w=bg bkz ayrılıkçı fedöncüler
 bkz didem soydanın ak partinin reklam yüzü olmak için rte ye yanlaması
 bkz ali ihsan varolun ayrılıkçı fedöncülere verdiği efso ayar
 bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
