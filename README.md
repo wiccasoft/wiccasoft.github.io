@@ -2,6 +2,7 @@
 
 <!-- 
 bkz ayrılıkçı fedöncüler
+https://www.uludagsozluk.com/k/ak-parti/&w=bg beraber yürüdük biz bu yollarda
 bkz ali ihsan varolun ayrılıkçı fedöncülere verdiği efso ayar
 bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
