@@ -2,7 +2,7 @@
 
 <!-- 
 bkz pfdk nın çıtır çıtır yediği futbolcular
-https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ aboo yerler bunu ekşcici veletler
+https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/ aboo yerler bunu ekşici veletler
 bkz pddk nın alevileri davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/amerikan-sa%C4%9Fl%C4%B1k-sistemi/ bkz obamacare
 https://www.uludagsozluk.com/k/o%C4%9Fuz-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg bkz oğuzların kayı boyu
