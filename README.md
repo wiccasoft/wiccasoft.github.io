@@ -6,6 +6,7 @@ bkz ali ihsan varolun ayrılıkçı fedöncülere verdiği efso ayar
 bkz yerli tayyip göklerde diyince laikçilerin linç etmesi
 bkz yerli tayyibimi göklerde deyince fedöncülerin kaçması
 bkz grup vitamin ismailin fedö teslim olmuyo diye ölüm orucuna başlaması
+https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz canısııııııı
 https://www.uludagsozluk.com/k/ak-parti-se%C3%A7meni/&w=bg bkz aklı hür vicdanı hür
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bey-g%C3%B6rememe-sorunsal%C4%B1/ bkz akp parti gençlik kolları
 https://www.uludagsozluk.com/k/ak-parti/&w=bg beraber yürüdük biz bu yollarda 
