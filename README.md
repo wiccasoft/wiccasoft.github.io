@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz bileğini kesip kanıyla duvara seni çok seviyore lan yazan kız
 bkz sana sevdanın yolları bana kurşun lar diyen müslümcü kız
 bkz beni ne kadar seviyoşun deyince kocaman diyen kız
 bkz senin bokunun terim bokunu diyen kızın ölmesi
