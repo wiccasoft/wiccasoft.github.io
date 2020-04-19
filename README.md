@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/kaos-bittiyse-ben-yat%C4%B1yorum/
 bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz götünde don olmayan akboyların çini haritadan silmeye çalışması
 https://www.uludagsozluk.com/k/yaran-google-maps-detaylar%C4%B1/ lol
