@@ -6,10 +6,7 @@
 <!--
 bkz deep turkish web
 bkz liselilerin güldürmesi
-bkz imamaoğlanı görüp mansura razı olmak
-bkz burak özçivitin türk oğlu türküm demesi
-bkz serdar ortaçın asıl türk biziz demesi
-bkz burak özçivitin ışıda katılması
+bkz imamoğlu nu gösterip mansur yavaş'a ikna etmek
 bkz merve boğulur vs merve taşkın
 bkz türkeşçiler vs hüseyin atsızcılar
 bkz akırıcı türkler vs alper tungacılar
