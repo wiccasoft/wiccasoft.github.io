@@ -7,6 +7,7 @@
 bkz sergey brin larry page ifşası
 bkz google chrome'un pkk lı renkleri
 bkz aleyna tilki ido taltıses ifşası
+bkz birbirini ifşa eden çocuklar
 bkz ezgi naz çelik izel çelik ercan ifşası
 bkz kamalcıların google chrome pkk lı diye kullanmaması
 bkz akp iktidarı google a kaptırdığında olacaklar
