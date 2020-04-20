@@ -6,6 +6,7 @@
 <!--
 bkz daeşe katılan türkçüler
 bkz sörfayfor yunus vs sörfayfor macun
+https://www.uludagsozluk.com/k/kemalistleri-mo%C4%9Folistana-s%C3%BCrmek/
 https://www.uludagsozluk.com/k/i%C5%9Fsiz-gezenlerin-%C3%BClkeye-faydas%C4%B1/ bkz min son
 https://www.uludagsozluk.com/k/abdurrahman-dilipak/&w=bg bkz dilipak vicdanı pak
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=gd bkz adam
