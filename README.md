@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ercüment ovalının covid19 ilacının 19 mayısta duyurması
 bkz türbanlıları türbanlı gelinlik sevdası
 bkz defne amyelinin amımım da kal türküyem pozu
 https://www.uludagsozluk.com/k/attila-%C3%B6zdemiro%C4%9Flu/&w=bg bkz amınoğlu
