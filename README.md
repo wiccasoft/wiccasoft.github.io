@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz yüzde yüz yerli ve milli aknonoş
 bkz ak nonoşlar birbirini mi sikiyor sorunsalı
 bkz iyestanın  ak nonoşların lideri olması
 bkz essy nin iflah olmaz bir ibne olması
