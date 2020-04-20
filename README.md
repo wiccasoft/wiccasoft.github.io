@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz grup yorumun dağılma eşiğine gelmesi
 bkz grup yorum bateristinin grup yorum gitaristine saldırması
 bkz grup yorum konserinde açılan phpkc bayrağı
 bkz grup yorumun mitoz bölünmeyle çoğalması
