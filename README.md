@@ -4,7 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
-nkz imamaoğlunun ifşa olmamak için demeyi kapaması
+bkz essynin iflah olmaz bir ibne olduğu gerçeği
+bkz imamaoğlunun ifşa olmamak için demeyi kapaması
 bkz iyestanın ifşa olmamak içinözel mesajları kapaması
 https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg
 bkz rte nin ifşa edenler en adi oç dir demesi
