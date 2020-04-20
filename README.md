@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz al bunu alaazmısın denilen aknonoşun cimere şikayet etmesi
+bkz gökhan demirkolun aknonoşlara özelden alet fotosu atması
 https://www.uludagsozluk.com/ bkz evlat olsa sevilmez dayaklık oç ergenler veritabanı
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlan ona hep oç der
 https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz telefoncu mısıroğlan
