@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz şaka maka amınoğlunun makak maymunu gibi olması
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-imamo%C4%9Flu-nun-azalarak-bitmesi/
 bkz kerem tunçerin ekşci kızlara mahkemede görüşürüz demesi
 bkz amınoğlu ekremin akp il binasına suyu kesmesi
 bkz amınoğlu ekrem ancak tayyibin prezervatifini takar
