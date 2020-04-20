@@ -1,44 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
-<!--
-bkz ekrem amınoğlunun çöp toplamayan işçileri azarlaması
-bkz mustafa atacücü vs recep ata gücü
-bkz ekremin amınoğlu olduğunun kabul edemeyen laikçiler
-bkz ekremin amınoğlu olduğu gerçeği
-bkz amınoğlu ekrem body ekrem benzerliği
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu  ekrem
-bkz em çok seni şok şeviyoyum diyen kız
-bkz yanaktan makas alıp lan olm senin poponu ıstırırım lan poponu diyen kız
-bkz yangın çıksa ilk seni kurtarırım diyen kız
-bkz denize düşsen ilk seni kurtarırım diyen kız
-bkz ben senin bokuna eppek basar yerim eppek diyen kız
-bkz senin bokunu bile seviyorum diyen kız
-bkz ben senin bokuna bile seranat yaparım diyen kız
-bkz ben senimn bokunu bile yerim bokunu lan diyen kız
-https://www.uludagsozluk.com/k/co%C5%9Fkun-sabah-%C4%B1n-muazzam-bir-insan-olmas%C4%B1/ bkz kral adam
-https://www.uludagsozluk.com/k/garavel-ustayla-tan%C4%B1%C5%9Fmak-istemek/ bkz bul benim adım garavel
-bkz lise çıkışı sevdiceğine laf atan serserileri döven kız
-bkz seni sevmeyen oç larını bana  bildir diyen kız
-bkz seni sevmeyen ölsün diyen kız
-bkz ya benimsin ya kara toprağın bu sevda kara sevda diyen kız
-bkz sevda benim işim sevmek benim işim diyen iett şöförü kız
-bkz bileğini kesip kanıyla duvara seni çok seviyore lan yazan kız
-bkz sana sevdanın yolları bana kurşun lar diyen müslümcü kız
-bkz beni ne kadar seviyoşun deyince kocaman diyen kız
-bkz senin bokunun terim bokunu diyen kızın ölmesi
-bkz kerimcan durmazın kerem tunçere sahip çıkması
-bkz kerem tunçerin 1 maç cezayı çok bulması
-bkz sana sevdadnın yolları bana kurşunlar diyen kız
-bkz senin bokunu yerim lan bokunu diyen kız
-bkz kerem tunçerin bir maç ceza alması
-bkz pfdk nın türk futbolunu davar güder gibi gütmesi
-bkz galtasarayın kerem tunçeriyi kadro dışı bırakması
-bkz kerem tunçerinin türk hakelerini suçmalaması
-bkz abdurrahim albayrakın canlı yayında ağlaması 
-bkz şaka maka grup yorumun tek kişi kalması
-bkz grup vitamin ismailin ölüm orucunun sonlandırması
--->
-
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
 [![Image](prototype/Screenshot_2020-04-13_22-11-05.png)](https://www.youtube.com/watch?v=INnejh_BXjM )
