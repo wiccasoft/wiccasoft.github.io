@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz tayyip fedönü affettim dese olacaklar
 bkz sörfayfor macun kaplıcalı
 bkz macaun kaplıcalı macun ol kampanyası
 bkz yerli ve milli fedön tespit cihazının üj mülyün yürüye mal olması
