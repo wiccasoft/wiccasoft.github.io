@@ -5,7 +5,8 @@
 
 <!--
 bkz ekrem amınoğlunun oğlunun ekşicinin cima teklifini reddetmeesi
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz şeytyanın hileleri
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz şeytanın hileleri
+https://www.uludagsozluk.com/k/basketbol-oynarken-durmadan-%C3%BC%C3%A7l%C3%BCk-deneyen-tip/ ay kerem tunçer ayol
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-kahve-i%C3%A7meye-davet-etmesi/ bkx ay olabilir mi böyle bişey
 https://www.uludagsozluk.com/k/ak-parti-nin-verilen-t%C3%BCm-%C5%9Fanslar%C4%B1-harcamas%C4%B1/ bkz bi şans daha versen
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
