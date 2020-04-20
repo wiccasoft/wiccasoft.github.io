@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/&w=bg bkz ayrılıkçı türkçüler
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-anti-panzehirini-bulan-adam/ bkz zehir gibi adam
 bkz tindere delikanlı adamın delikanlı sevgilisi olur butonu istiyoruz kampanyası
 bkz tinderden adama gibi adam çıkmaması
