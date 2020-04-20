@@ -3,6 +3,7 @@
 <!-- 
 bkz tam cidiye alcam bi gülme geliyor
 bkz ios 9 u olmayan birini ciddiye almak
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz ios9 la kızlara yürümek
 https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular lol
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz emre mor yürümeleri
 https://eksisozluk.com/istanbullu-mallar-yuzunden-evde-tikili-kalmak--6482485?a=popular lol
