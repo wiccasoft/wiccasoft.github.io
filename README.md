@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz kerem tunçerin ekşicilere mahkemede gömüşürük kızlar demesi
 bkz annesini siktirecek kadar alçalmak
 bkz facebooktan karımı sik diye mesaj atan ekşicinin babası
 bkz türkiyede kadınların orospu olması
