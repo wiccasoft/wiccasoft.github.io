@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz aslı bekiroğlanın demeyi kapaması
+bkz aslı bekiroğlan ın demeyi kapaması
 bkz kerimcan durmazın aslı bekiroğlana yürümesi
 bkz aslı bekiroğlanın üniversiteye girdiğim gün doğması
 https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu/&w=bg bkz aslı bekiroğlanın kürt olduğu gerçeği
