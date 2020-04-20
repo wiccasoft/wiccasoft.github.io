@@ -5,7 +5,7 @@
 
 <!--
 bkz ifşa linki at oç
-bkz gökhan demirkolun özelden alet fotosu atması
+bkz gökhan demirkolun özelden ezgi naz çelik e alet fotosu atması
 bkz gökhan demirkolun ezgi naz çelike yürümesi
 bkz chpli belediyelerin akitleri zehirlemesi
 bkz defne amyeli amımda kal türküyem pozu
