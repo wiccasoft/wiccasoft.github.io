@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz sörfifor 2020 macun kaplıcalı
 bkz macun kaplıcalı vs sörfayfır tonga
 bkz merve boğulureun kerimçan tunçer kim amk demesi
 bkz alper tunga öldi mi ıssız acun kaldı mı imdi ürek ırtılır
