@@ -3,6 +3,7 @@
 
 <!--
 bkz ifşa linki atmayan oç
+bkz mansur yavaşın profiline girip mouse ile yanaklarını sevmek
 bkz şaka maka ifşa sezonunun açılması
 bkz sergey brin larry page ifşası
 bkz merve taşkın emre mor ifşası
