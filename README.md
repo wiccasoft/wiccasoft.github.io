@@ -6,8 +6,8 @@
 <!--
 bkz ifşa linki at oç
 bkz sergey brin larry page ifşası
-bkz dünya lideri profil arka planı
-https://www.uludagsozluk.com/k/dünyayı-şirketler-yönetseydi-ne-olurdu/ rte işsiz kalırdı
+bkz dünya lideri profil arka planı,
+bkz rte nin ifşalar nedeniyle demeyi kapaması
 bkz dünya liderinin profiline girip yanaklarını okşamak
 bkz google chrome'un pkk lı renkleri
 bkz aleyna tilki ido taltıses ifşası
