@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz izmirli geniş adam
 bkz ekşici kızların kerem tunçeriyi şikayet etmesi
 bkz kerem tunçerinni mahkemede gömüşürük kızlar demesi
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-mahkemede-g%C3%B6r%C3%BC%C5%9F%C3%BCr%C3%BCz-demesi/
