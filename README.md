@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz türbanlıların altın varanklı saray sevdası
+https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar%C4%B1n-alt%C4%B1n-varak-sevdas%C4%B1/
 bkz ercüment ovalının covid19 ilacının 19 mayısta duyurması
 bkz türbanlıları türbanlı gelinlik sevdası
 bkz defne amyelinin amımım da kal türküyem pozu
