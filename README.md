@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-kahve-i%C3%A7meye-davet-etmesi/ bkx ay olabilir mi böyle bişey
+https://www.uludagsozluk.com/k/ak-parti-nin-verilen-t%C3%BCm-%C5%9Fanslar%C4%B1-harcamas%C4%B1/ bkz bi şans daha versen
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/koronavir%C3%BCsle-ilgili-t%C3%BCrk%C3%A7e-kelime-%C3%B6nerileri/ ayrılıkçı türk
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/ bkz ayrılıkçı türkücüler
