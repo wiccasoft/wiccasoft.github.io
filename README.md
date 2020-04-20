@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz ekre amınoğlunun amınoğlu olduğu gerçeği
+bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
+bkz ekrem amınoğlunun amınoğlu olduğu gerçeği
 bkz amınoğlu ekrem deyince zihinde beliren imaj
 bkz kerim tekin  deyince akla gelenler
 bkz kerimcan durmazın sessizliğini koruması
