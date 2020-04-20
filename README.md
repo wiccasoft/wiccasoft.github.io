@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz seni sevmeyen oç larını bana söyle diyen kız
+bkz seni sevmeyen oç larını bana  bildir diyen kız
 bkz seni sevmeyen ölsün diyen kız
 bkz ya benimsin ya kara toprağın bu sevda kara sevda diyen kız
 bkz sevda benim işim sevmek benim işim diyen iett şöförü kız
