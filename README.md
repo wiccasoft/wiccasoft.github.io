@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz sörfayfor yasin vs sörfayfor kerem
 bkz ben senin bokunu yerim bokuna lan diyen azgın shit ağızlı kız
 bkz macun kaplıcalının ben karıyı çalıştıracak kadar gavat değilim demesi
 bkz gökhan demirkolun özelden alet fotosu yollaması
