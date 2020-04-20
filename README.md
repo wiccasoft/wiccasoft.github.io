@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/ bkz ayrılıkçı türkücüler
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz mansur yavaş
 bkz millet hizmet beklerken kknın osura osura uyuması
 https://www.uludagsozluk.com/k/k%C3%BCrtler-sayesinde-%C3%BClkenin-geli%C5%9Fti%C4%9Fi-ger%C3%A7e%C4%9Fi/ bkz kk
