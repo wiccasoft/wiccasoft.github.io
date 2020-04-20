@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz damadın penis yüzüğü
 bkz elif can terim vs fatih terim
 bkz türk erkekleri vs isveç erkekleri
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkekleri/&w=bg 
