@@ -5,6 +5,7 @@
 
 <!--
 bkz zonguldaktan adam çıkmaması
+bkz adam gibi admaların türklerden çıkması
 bkz hatay araplarının arapçılığı özendirmesi
 bkz arap dinin için göt veren türkler
 bkz selahaddin eyyübinin türkleri kılıçtan geçirip arap yapması
