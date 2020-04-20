@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 ),
 
 <!-- 
-bkz anam boçacı babam oç diyen kız
+bkz anam boçacı bubam oç diyen kız
 bkz kerem tunçerin ekşici kızlara yürümesi
 bkz aslan akbey duran emmiyi polatı emikledi diye öldürmesi
 bkz gökhan dmerikolun aknonşlara alet fotosu atması
