@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 ),
 
 <!-- 
+https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz davudi oğlan aşireti
 bkz anam boçacı bubam oç diyen kız
 bkz kerem tunçerin ekşici kızlara yürümesi
 bkz aslan akbey duran emmiyi polatı emikledi diye öldürmesi
