@@ -2,6 +2,7 @@
 
 <!-- 
 bkz sörfayfor macun kaplıcalı
+bkz macaun kaplıcalı macun ol kampanyası
 bkz yerli ve milli fedön tespit cihazının üj mülyün yürüye mal olması
 bkz üj mülyün yürülük yerli ve milli fedöncü tespit cihazımız göklerde
 bkz abdurrahim dilpakın fedöncüleri tespit cihazı geliştirmesi
