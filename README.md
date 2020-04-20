@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!--
+bkz gamze özçelik gökhan demirkol ifşası
 bkz türklerin sosyal medyayı ifşa için kullanmaları
 bkz cem garipoğlu münevver karabulut facebook konuşmaları ifşası
 bkz whatsuptan whatsup yazan sapıkı ifşa etmem
