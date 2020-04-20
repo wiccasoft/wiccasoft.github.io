@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!--
+bkz fatih portakalın ios 9 kullanması
 bkz ifşa linki atmayan oç
 bkz duran emmi seyfo dayı ifşası
 bkz ismet inöcünün polat alemdarın gölgesinde kalması
