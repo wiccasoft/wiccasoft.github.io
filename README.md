@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz defne amyelinin amımım da kal türküyem pozu
 https://www.uludagsozluk.com/k/attila-%C3%B6zdemiro%C4%9Flu/&w=bg bkz amınoğlu
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=gd bkz amın oğulları
 bkz defne amyelinin amımda kal türküyem pozu
