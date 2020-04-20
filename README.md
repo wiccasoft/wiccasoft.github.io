@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz 1881 atacücü 18+81 ? 99 - 81 vilayer - batman = covid19 ifşa
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz 40 yapar
 bkz macun kaplıcalının ben gavat değilim demesi
 bkz acunun karısını çalıştıran gavatlara tepki oalrak doğması
