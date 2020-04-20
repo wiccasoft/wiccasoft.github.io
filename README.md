@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz imamaoğlu hep ona oç der vs frank lucas evliliği
+bkz imamaoğlu hep ona oç der vs frank lucas
 bkz yüzde yüz yerli ve mill aknonoş 
 bkz yüzde yüz yerli ve milli aknonoşu çalıştırmak
 bkz ak nonoşları sabun yapıp israile satma procesi
