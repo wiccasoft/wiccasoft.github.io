@@ -7,6 +7,7 @@
 bkz en iyi sabun kürt sabunudur
 bkz kürtlerin sabun yapılması gerekliliği
 bkz kürtlerden sabun yapıp ülkeyi kalkındırmak
+bkz kerem tunçerin sabunsuz sikerim demesi
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-%C3%BClkeye-olan-faydalar%C4%B1/&w=bg 
 bkz kerem tunçerin bi kere versen bi sigerem demesi
 bkz zonguldaktan adam çıkmaması
