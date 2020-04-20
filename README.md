@@ -1,7 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://min-son.uludagsozluk.com/ bkz yazık lan kimin çocuysa
 bkz aşkitom seni çok seviştom diyen kız
+https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur-un-alp-k%C4%B1l%C4%B1%C3%A7-a-koydu%C4%9Fu-posta/
 bkz ekrem mamikoğluyla romantik geceye razı olup mansur yavaşla hızlı gecelere akmak
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/
 bkz nuri bilge ceyal zeki dmirkunduzla aynı eve çıkıp sandviç yapmak
