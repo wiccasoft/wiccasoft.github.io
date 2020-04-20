@@ -4,7 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-
+bkz tarkan tevetoğlanın ebru gündeşi ifşa etmesi
 bkz tarkan tevetoğlan vs amınoğle ekrem
 bkz maka maymunu vs amınoğlu ekrem
 bkz şaka maka amınoğlu ekremein iyice makak maymuna dönmesi
