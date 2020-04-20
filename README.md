@@ -5,6 +5,7 @@
 
 <!--
 bkz sergey brin larry page ifşası
+bkz dünya lideri profil arka planı
 bkz dünya liderinin profiline girip yanaklarını okşamak
 bkz google chrome'un pkk lı renkleri
 bkz aleyna tilki ido taltıses ifşası
