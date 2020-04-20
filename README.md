@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz ezgi naz çelik ifşası full link şifresiz
 bkz ezgi naz çelik ifşası full link çalışıyo
 https://www.uludagsozluk.com/k/ezgi-naz-%C3%A7elik-in-g%C3%B6khan-alkan-%C4%B1-if%C5%9Fa-etmesi/ link at kankağ
 bkz sergey brin larry page ifşası
