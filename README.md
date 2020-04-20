@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz macun kaplıcalı vs televole
 bkz kerim durmaz vs kerem tunçeri
 bkz kerem tunçeri vs pasa parola sunucusu
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular
