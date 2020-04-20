@@ -6,6 +6,7 @@
 <!--
 bkz sergey brin larry page ifşası
 bkz google ın akp ye muhalif olması
+bkz google chromeun pkk lı renkleri
 bkz akp iktidarı google a kaptırdığında olacaklar
 bkz gamze özçelik gökhan demirkol ifşası
 bkz izel çelik ercan ifşası full link
