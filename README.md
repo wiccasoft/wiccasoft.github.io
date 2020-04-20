@@ -5,6 +5,7 @@
 
 <!-- 
 bkz tekelcilerin antin kuntin olması
+bkz fahriye evcan brad pitt evcan çifti
 bkz brad pittin ifşa olmamak için demeyi kapaması
 bkz emre mor full 2019-2020 sezonu ifşa arşivi rar şifresiz 100 tl temiz tekelciden
 bkz izel çelik ercan ifşası full link
