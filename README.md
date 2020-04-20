@@ -5,6 +5,7 @@
 
 <!-- 
 bkz tekelcilerin antin kuntin olması
+bkz brad pittin ifşa olmamak için demeyi kapaması
 bkz emre mor full 2019-2020 sezonu ifşa arşivi rar şifresiz 100 tl temiz tekelciden
 bkz izel çelik ercan ifşası full link
 bkz fatih bulutun fatih tezcanın demesine üç el ateş etmesi
