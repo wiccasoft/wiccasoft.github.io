@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-https://www.uludagsozluk.com/k/galatasaray/ bkz melo hagi muslera
+https://www.uludagsozluk.com/k/galatasaray/ bkz abdurrahim albayrak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem 
 bkz ekremin amınoğlu olduğu gerçeği
 -->
