@@ -8,6 +8,7 @@ bkz yapay zekayı çalıştıran gavat
 bkz aknonoşları çalıştırmayan gavat
 bkz ekrem amınoğlunun eşşeğin amına su kaçırması
 bkz imamoğlu ona hep oç der vs frank lucas
+https://www.uludagsozluk.com/e/43205430/ sizi kim sikler lan bebeler
 https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
 -->
 
