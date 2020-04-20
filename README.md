@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+https://kahraman-zorbey.uludagsozluk.com/ bkz uyazık la kimin çocuysa vol 100
+https://www.uludagsozluk.com/k/en-delikanl%C4%B1-bur%C3%A7/ bkz 
 https://www.uludagsozluk.com/k/survivor-yasin/&w=gd bkz yasin börü
 bkz en adam gibi adam ırklar
 bkz şaka maka aslı bekiroğlanın çocuğum yaşında olması
