@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz aşkitom seni çok seviştom diyen kız
 bkz ekrem mamikoğluyla romantik geceye razı olup mansur yavaşla hızlı gecelere akmak
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/
 bkz nuri bilge ceyal zeki dmirkunduzla aynı eve çıkıp sandviç yapmak
