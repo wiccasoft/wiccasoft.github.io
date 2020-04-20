@@ -4,6 +4,7 @@
 <!--
 bkz ifşa linki atmayan oç
 bkz ismet inöcünün polat alemdarın gölgesinde kalması
+bkz duran emmi seyfo dayıyı hoplattı mı sorunsalı
 https://www.uludagsozluk.com/k/bu-eleman-sevgilinize-laf-atsa-ne-yapars%C4%B1n%C4%B1z/ caps at kankağ
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olman%C4%B1n-avantajlar%C4%B1/&w=bg bkz ifşa linkleri
 https://www.uludagsozluk.com/k/milli-kahraman-ismet-in%C3%B6n%C3%BC/&w=bg bkz ismet inöcü
