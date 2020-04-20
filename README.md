@@ -3,6 +3,7 @@
 
 <!-- 
 bkz en adam gibi adam ırklar
+bkz şaka maka aslı bekiroğlanın çocuğum yaşında olması
 bkz gökhan demirkolun aslı bekiroğlana yürümesi
 bkz aslı bekiroğlanın kürdo olduğu gerçeği
 bkz ayrılıkçı alper tungacılar gönüllü ıssız acuncular
