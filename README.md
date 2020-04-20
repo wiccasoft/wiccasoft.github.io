@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz ülkücüler
+https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg bkz selocan aranıyorum 
 https://www.youtube.com/watch?v=Hfye5B91HB4
 bkz eşcinsellerin hayal gücü
 bkz eşcinsellerin sürekli beni hapise atması
