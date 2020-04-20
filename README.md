@@ -6,6 +6,8 @@ bkz anam boçacı bubam oç diyen kız
 bkz kerem tunçerin ekşici kızlara yürümesi
 bkz aslan akbey duran emmiyi polatı emikledi diye öldürmesi
 bkz gökhan dmerikolun aknonşlara alet fotosu atması
+bkz rtükün aslan akbeyin seyfo dayıyla yiyişme sahnesini kesmesi
+https://www.uludagsozluk.com/k/aslan-akbey-ve-pala-n%C4%B1n-yasak-a%C5%9Fk%C4%B1/
 https://www.uludagsozluk.com/k/anam-boh%C3%A7ac%C4%B1-babam-zurnac%C4%B1-diyen-k%C4%B1z/ bkz aleyna tilki
 https://www.uludagsozluk.com/k/resim-%C3%A7izen-k%C4%B1z/&w=bg bkz alı bekiroğlan
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg -->
