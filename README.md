@@ -4,7 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-bkz ayrılıkçı türklerin alper tunganın torunlarıyız ıssız acuncuyuz demesi
+bkz alper tunganın torunlarıyız diyen ıssız acuncular
 bkz kalkmışı indirirm diyen ülkücünün indirememesi
 bkz ülkücü liselilerin bi yarrağı indirememesi
 bkz türklerin iki eliyle bi siki dorultamaması
