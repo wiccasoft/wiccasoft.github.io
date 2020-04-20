@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz kerem tunçerinin bir maç ceza alması
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular 
 bkz kerem tunçeri kim amk
 bkz tam cidiye alcam bi gülme geliyor
