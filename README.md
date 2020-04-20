@@ -9,7 +9,7 @@ bkz kerem tunçerinni mahkemede gömüşürük kızlar demesi
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-mahkemede-g%C3%B6r%C3%BC%C5%9F%C3%BCr%C3%BCz-demesi/
 https://tarihcix.uludagsozluk.com/ bkz kendi açtığı entry e üç kez entry girmek
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz vexillarius-of-theodopolis
-https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunana damad
+https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunan damad
 bkz palu ailesine damat gitmek
 bkz bana türbanlı gelik giydir diyen türbanlı
 https://www.uludagsozluk.com/k/abdurrahman-dilipak/&w=bg bkz vicdanı pak dili pak 
