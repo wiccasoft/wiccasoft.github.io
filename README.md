@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz geceye önce bi amınoğlu bırak oç
 https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg link at kankağ
 https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg öcü gibi korkuyorlar ma zedong yolaşımdan
 https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg grup  yorum lets comment
