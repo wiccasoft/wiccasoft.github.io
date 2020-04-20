@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz ayrılıkçı alper tungacılar
 bkz bahçelinin türk intikam yemin etmesi
 bkz serdar ortaçın gerçek türk biziz isyanı
 bkz 20 nisan 2020 serdar ortaçın kürt intikam yemini etmesi
