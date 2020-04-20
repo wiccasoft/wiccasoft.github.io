@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz batuhan karadenizin kızlara yüymeye ihtiyacım yok açıklaması
 https://www.uludagsozluk.com/e/43203137/ bkz kamalcı kişilik bozukluğu
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C5%9Firketler-y%C3%B6netseydi-ne-olurdu/ bkz rte işsiz kalırdı
 bkz ayrılıkçı alpaslan türkeşçiler
