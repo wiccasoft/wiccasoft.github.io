@@ -2,6 +2,7 @@
 
 <!-- 
 bkz şaka maka grup yorumun tek kişi kalması
+bkz grup vitamin solistinin fedönü vermezseniz ölüm orucuna girerim demesi
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/
 https://www.uludagsozluk.com/k/galatasaray/ bkz abdurrahim albayrak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem 
