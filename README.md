@@ -1,8 +1,10 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz yangın çıksa ilk seni kurtarırım diyen kız
+bkz denize düşsen ilk seni kurtarırım diyen kız
 bkz mustafa kemal atacücünün ben senin bokunu yerim bokunu demesi
-bkz mystaf kemal atacücü cücümüydü sorunsalı
+bkz mustaf kemal atacücü cücümüydü sorunsalı
 bkz ben senin bokuna eppek basar yerim eppek diyen kız
 bkz senin bokunu bile seviyorum diyen kız
 bkz ben senin bokuna bile seranat yaparım diyen kız
