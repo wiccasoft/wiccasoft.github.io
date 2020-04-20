@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz kererm tunçerinin paso yürümesi
+bkz bülent ecevit deyince akılda beliren imgeler bütünü sorunsalı
+bkz kerem tunçerinin paso yürümesi
 bkz kerem tunçeri deyince akla gelenler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-bence-ter%C3%B6rist/ bkz amınoğlu
 bkz amınoğlunun yine yürümesi
