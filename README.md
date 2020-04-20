@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz mustafa kemal atacücün grup yorum konserine gitmesi
 bkz grup yorum solistinin intihar etmesi
 bkz amınoğlu ekremin recepoğluna kafa tutması
 bkz amınoğlu ekremin babasına şikayet etmesi
