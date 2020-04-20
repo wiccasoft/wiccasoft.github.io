@@ -6,7 +6,7 @@
 <!--
 bkz deep turkish web
 bkz liselilerin güldürmesi
-bkz ışıdın türkleri imamaoğluyla kandırması
+bkz ışıdın türkleri imamoğluyla kandırması
 bkz imamoğlu nu gösterip mansur yavaş'a ikna etmek
 bkz merve boğulur vs merve taşkın
 bkz türkeşçiler vs hüseyin atsızcılar
