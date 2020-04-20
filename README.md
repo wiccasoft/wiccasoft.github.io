@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+https://www.uludagsozluk.com/k/if%C5%9Fa-olma-korkusuyla-low-profile-bir-hayat-s%C3%BCrmek/
 bkz rte nin kk ya yürümesi
 bkz özelden alet fotosu atan ergen
 bkz rte nin özelden alet fotosu atanları ifşa etmesi
