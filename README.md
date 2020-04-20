@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz ios 9 u olmayan birini ciddiye almak
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz iphone u olmayıp adamım diye gezenler
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz malum partiye oy veren malum kesim
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz amınoğlu ekrem
