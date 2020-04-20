@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-kahve-i%C3%A7meye-davet-etmesi/ ay olabilirmi böyle bişey
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz keçiöreninin suyunu kesmesi
 bkz mansur yavaşın keçiören akp il binasının elektriğini kesmesi
 bkz elif can terimin wiccasofta ceo olması
