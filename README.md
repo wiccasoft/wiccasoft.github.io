@@ -2,6 +2,7 @@
 
 <!--
 bkz senin bokunun bile çok severim diyen kız
+bkz senin bokuna eppek banarım eppek diyen kız
 https://www.uludagsozluk.com/k/seni-%C3%A7ok-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim diyen kız
 bkz amınoğlu vs garipoğlu
 bkz sana sevdanın yolları bana kurşunlar diyen kız
