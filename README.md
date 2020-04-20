@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz hayallerde yaşıyor google
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-google-la-daha-iyi-y%C3%B6netilece%C4%9Fi-ger%C3%A7e%C4%9Fi/
 bkz amın opğlu abdulhamdinin donanmayı piç etmesi
 https://www.uludagsozluk.com/k/abd%C3%BClhamidin-donanmay%C4%B1-%C3%A7%C3%BCr%C3%BCtmesi/&w=bg bka amın oğlu abdul
 bkz sosyal medyada  kızlarla flört eden sapık erkekler
