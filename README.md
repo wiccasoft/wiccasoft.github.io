@@ -3,26 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- 
-bkz tekelcilerin antin kuntin olması
-bkz fahriye evcan pitt brad pitt çifti
-bkz fahriye evcan pittin ifşa olmamak için demeyi kapaması
-bkz emre mor full 2019-2020 sezonu ifşa arşivi rar şifresiz 100 tl temiz tekelciden
-bkz izel çelik ercan ifşası full link
-bkz fatih bulutun fatih tezcanın demesine üç el ateş etmesi
-bkz cem yılmazdan sarıkayıyı hoplattım nabacanız paylaşımı
-bkz defne amyeliden amımda kal türküyüm paylaşımı
-bkz ezgi naz çelik in gökhan demirkolun yolladığı alet fotosunu paylaşması
-bkz gökhan demirkolun ezgi naz çelik'e alet fotosu yollaması
-bkz 1881 atacücü 18+81 ? 99 - 81 vilayer - batman = covid19 ifşa
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz 40 yapar
-bkz macun kaplıcalının ben gavat değilim demesi
-bkz acunun karısını çalıştıran gavatlara tepki oalrak doğması
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg
-https://www.uludagsozluk.com/k/czn-burak-ifşası/ emeğine aktım kardeş
-https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg bkz instagram ifşa land
--->
-
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
