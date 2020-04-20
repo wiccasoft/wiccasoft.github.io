@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+https://www.uludagsozluk.com/k/khontkar-s%C3%BCrt%C3%BCk-klibi/ bkz aslı bekiroğlan
 bkz aslı bekiroğlan ın demeyi kapaması
 bkz kerimcan durmazın aslı bekiroğlana yürümesi
 bkz aslı bekiroğlanın üniversiteye girdiğim gün doğması
