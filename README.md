@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kerem tunçeri kim amk
+bkz aptal ekşicilerin ünlü ettiği malaklar
 bkz kerem tunçeri michael jordan dostluğu
 bkz amerikalıların kerem tunçeriye türkiyenin lebron jamesi demesi
 bkz kerem tunçeri lebron james benzerliği
