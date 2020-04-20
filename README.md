@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz şeytanın hileleri
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz iki oç versusu
 https://www.uludagsozluk.com/k/basketbol-oynarken-durmadan-%C3%BC%C3%A7l%C3%BCk-deneyen-tip/ bkz kerem tunçer
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-kahve-i%C3%A7meye-davet-etmesi/ ay olabilir mi böyle bişi
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkekleri/&w=bg bkz amınoğlu ekrem
