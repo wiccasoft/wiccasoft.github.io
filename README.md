@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz sağın yobazı vs solun yobazı
 bkz amınoğlu ekrem vs atacücüşoğlu
 bkz o değil de babuş siz niye sürekli yazıyosunuz
 https://www.uludagsozluk.com/k/sabah%C4%B1n-4-%C3%BCnde-yazacak-kadar-%C5%9Fizo-olmak/ 
