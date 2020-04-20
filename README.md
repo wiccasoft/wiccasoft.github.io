@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz gavatların genellikle başkalarının erkeklerinde gözü olması
 bkz godoşların genellikle ibne olması
 bkz karısını çalıştırmayan gavat
 bkz macun kaplıcalının karısını çalıştıranlara gavat demesi
