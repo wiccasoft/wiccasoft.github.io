@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-bkzsemni çok ama çok seviyoşkom aşkoştom diyen kız
+bkz min sona aşık olmak
+bkz seni çok ama çok seviyoşkom aşkoştom diyen kız
 bkz bana nikahı basarsan babanın çoraplarını yıkarım diyen kız
 https://min-son.uludagsozluk.com/ bkz yazık lan kimin çocuysa
 bkz aşkitom seni çok seviştom diyen kız
