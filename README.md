@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz frank lucas diye nick alan ak nonoş
 bkz karımı çalıştırmam diyen ak nonoşlar
 bkz ak nonoşların sanki biraz şey olması 
 bkz karımı çalıştırmam ben çalışıorım diyen enayi godoşlar
