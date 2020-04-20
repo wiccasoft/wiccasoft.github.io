@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ayrılıkçı türkeşçiler
 bkz merve taşkının ifşa ettiği sporcular
 bkz arda turanın yürümeyi kesmesi
 bkz instagramda kızlara yürüyen sapıklar
