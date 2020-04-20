@@ -6,6 +6,7 @@
 <!--
 bkz sörfifor 2020 macun
 bkz macun kaplıcalı vs sörfayfır tonga
+bkz ışıda karılan türk oğlu türkler
 bkz merve boğulureun kerimçan tunçer kim amk demesi
 bkz alper tunga öldi mi ıssız acun kaldı mı imdi ürek ırtılır
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz alpaslan türkeş
