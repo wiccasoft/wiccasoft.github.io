@@ -13,8 +13,7 @@ bkz google chrome'un pkk lı renkleri
 bkz aleyna tilki ido taltıses ifşası
 bkz birbirini ifşa eden çocuklar
 bkz ezgi naz çelik izel çelik ercan ifşası
-bkz kamalcıların google chrome pkk lı diye kullanmaması
-bkz akp iktidarı google a kaptırdığında olacaklar
+bkz chp iktidarı google a kaptırdığında olacaklar
 bkz gamze özçelik gökhan demirkol ifşası
 bkz izel çelik ercan ifşası full link
 bkz şaka maka amınoğlu ekremin bitmesi
