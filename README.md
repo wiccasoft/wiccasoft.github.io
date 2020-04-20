@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz rank lucasın iflash olmaz bir ak nonoş olması
 bkz frank lucas diye nick alan ak nonoş
 bkz karımı çalıştırmam diyen ak nonoşlar
 bkz ak nonoşların sanki biraz şey olması 
