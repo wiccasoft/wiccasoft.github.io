@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Feref-yoksunu-ak-troller/&w=bg bkz ak gavatlar
 bkz macun kaplıcalının karı çalıştırılırmı lan gavatlar demesi
 bkz karısını çalıştırmayan gavat 
 bkz hayallerde yaşıyor bazı ibneler
