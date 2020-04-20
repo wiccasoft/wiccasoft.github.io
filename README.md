@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz aknonoşların birisi gelip onları karısı yapcağını sanmaları
 bkz kafa sken aknonoş zırvaları
 bkz rte ye parası neyse verip aknonoşlara kek yollatmak
 bkz aknonoşların ne işe yaradıkları sorunsalı
