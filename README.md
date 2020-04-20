@@ -2,6 +2,7 @@
 
 <!--
 bkz min sona aşık olmak
+bkz bana xiomi  ultra plus alsan aşkoştom diyen kız
 bkz seni çok ama çok seviyoşkom aşkoştom diyen kız
 bkz bana nikahı basarsan babanın çoraplarını yıkarım diyen kız
 https://min-son.uludagsozluk.com/ bkz yazık lan kimin çocuysa
