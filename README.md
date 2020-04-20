@@ -1,42 +1,12 @@
 
+
+
+[![Image](prototype/Screenshot_2020-04-19_15-42-46.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
+
+
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
-<!--
-https://www.youtube.com/watch?v=c7IoBRRBiX8
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-cep-telefonu/ bkz adam gibi adam telefonu
-bkz ios 9 u olmayıp adamım diye gezen tipler
-bkz fatih portakalın ios 9 kullanması
-bkz ifşa linki atmayan oç
-bkz duran emmi seyfo dayı ifşası
-bkz ismet inöcünün polat alemdarın gölgesinde kalması
-bkz duran emmi seyfo dayıyı hoplattı mı sorunsalı
-https://www.uludagsozluk.com/k/bu-eleman-sevgilinize-laf-atsa-ne-yapars%C4%B1n%C4%B1z/ caps at kankağ
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olman%C4%B1n-avantajlar%C4%B1/&w=bg bkz ifşa linkleri
-https://www.uludagsozluk.com/k/milli-kahraman-ismet-in%C3%B6n%C3%BC/&w=bg bkz ismet inöcü
-https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oç der
-bkz mansur yavaşın profiline girip mouse ile yanaklarını sevmek
-bkz şaka maka ifşa sezonunun açılması
-bkz sergey brin larry page ifşası
-bkz merve taşkın emre mor ifşası
-bkz elif naz çelik hamdi alkan ifşası
-bkz gamze özçelik gökhan demirkol ifşası
-bkz türklerin sosyal medyayı ifşa için kullanmaları
-bkz cem garipoğlu münevver karabulut facebook konuşmaları ifşası
-bkz whatsuptan whatsup yazan sapıkı ifşa etmem
-bkz izel çelik ercan ifşası
-bkz jandarmaya uyuyşturucu satan kolombiyalı cartel
-bkz münevver karabulut cem garipoğlan ifşası
-bkz jandarmaya parmak atıp kaçan kürt
-bkz abdulhamdinin donanmayı piç etmesi
-bkz ismet inöcünün mustafa ataöcü gölgesinde kalması
-https://www.uludagsozluk.com/k/milli-kahraman-ismet-in%C3%B6n%C3%BC/&w=bg
-bkz endüstri meslek lisli mezunu birini ciddi ciddi ifşa etmek
-bkz defne amyeli amımda kal türküyem pozu
-bkz facebook ta kızlara yazan dayı
-bkz merve taşkının loris karius ifşası
-bkz merve boğulur michael jordan ifşası
-https://hulagukhan.uludagsozluk.com/ yazık la kimin çocuysa vol13
-https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım kardeş -->
+
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
