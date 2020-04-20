@@ -3,7 +3,10 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg bkz instagram ifşa land -->
+<!-- 
+https://www.uludagsozluk.com/k/czn-burak-ifşası/ emeğine aktım kardeş
+https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg bkz instagram ifşa land
+-->
 
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
