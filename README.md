@@ -2,7 +2,9 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/galatasaray/ bkz melo hagi muslera
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem -->
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem 
+bkz ekremin amınoğlu olduğu gerçeği
+-->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
