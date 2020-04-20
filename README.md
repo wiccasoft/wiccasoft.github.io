@@ -5,6 +5,7 @@
 
 <!--
 bkz sergey brin larry page ifşası
+bkz akp iktidarı google a kaptırdğında olacaklar
 bkz gamze özçelik gökhan demirkol ifşası
 bkz izel çelik ercan ifşası full link
 bkz şaka maka amınoğlu ekremin bitmesi
