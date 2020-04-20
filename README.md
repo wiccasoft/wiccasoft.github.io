@@ -5,6 +5,7 @@
 
 <!-- 
 bkz karımı çalıştırmam diyen ak nonoşlar
+bkz karımı çalıştırmam ben çalışıorım diyen enayi godoşlar
 https://www.uludagsozluk.com/k/%C5%9Feref-yoksunu-ak-troller/&w=bg bkz ak gavatlar
 bkz macun kaplıcalının karı çalıştırılırmı lan gavatlar demesi
 bkz karısını çalıştırmayan gavat 
