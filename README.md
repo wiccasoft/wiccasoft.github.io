@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz bamya kadar pipisiyle osmanlıcılık oynayan totoşlar
 bkz bamya kadar pipisiyle atacücünün askeriyim diye gezen totoşlar
 bkz alper tunganın torunlarıyız diyen ıssız acuncular
 bkz kalkmışı indirirm diyen ülkücünün indirememesi
