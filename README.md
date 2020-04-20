@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz serinni bokunu çok seviyorum diyen kız
+bkz senin bokunu yerim lan bokunun oç diyen kız
+bkz serinin bokunu çok seviyorum diyen kız
 bkz lebron jamesin kerimçan tunçerinin yürüdüğü  kıza yürümesi
 bkz lebron jamesin kerimçan tunçeriyi kınaması
 bkz sana sevdanın yolları bana kurşunlar diyen kız
