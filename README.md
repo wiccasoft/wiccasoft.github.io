@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz şeyma kaplıcalının hiç yürümemesi
 bkz kerim tunçeri yürümesi vs macun kaplıcalı yürümesi
 bkz kerem tunçeri vs pasa parola sunucusu
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular
