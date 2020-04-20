@@ -5,9 +5,6 @@
 bkz sergey brin larry page ifşası
 bkz merve taşkın emre mor ifşası
 bkz elif naz çelik hamdi alkan ifşası
-bkz matild manukyanın kapak foğrafına abdulhamdiyi koyması
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-twitter-kapak-foto%C4%9Fraf%C4%B1/ kapağın kralı
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-birisi-yaz%C4%B1nca-g%C3%B6t%C3%BC-kalkan-k%C4%B1zlar/ bkz merve boğulur
 bkz gamze özçelik gökhan demirkol ifşası
 bkz türklerin sosyal medyayı ifşa için kullanmaları
 bkz cem garipoğlu münevver karabulut facebook konuşmaları ifşası
