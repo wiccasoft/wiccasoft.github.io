@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/basketbol-oynarken-durmadan-%C3%BC%C3%A7l%C3%BCk-deneyen-tip/ burası değerlenir beyler
+https://www.uludagsozluk.com/k/20-nisan-2020-kerem-tun%C3%A7eriye-y%C3%BCr%C3%BCme/
 bkz amınoğlu ekremin yakışıklı oğlu
 bkz ekrem amınoğlunun oğlunun ekşicinin cima teklifini reddetmeesi
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz şeytanın hileleri
