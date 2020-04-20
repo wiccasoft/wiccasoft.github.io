@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz tek tokatla bayıltılacak tip
 bkz ülkücü liselilerin bi yarrağı indirememesi
 bkz türklerin iki eliyle bi siki dorultamaması
 bkz sünnilerin yarrağıma faydası
