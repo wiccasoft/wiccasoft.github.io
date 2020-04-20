@@ -1,10 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz senin bokunu bile seviyorum diyen kız
 bkz ben senin bokuna bile seranat yaparım diyen kız
 bkz ben senimn bokunu bile yerim bokunu lan diyen kız
-bkz senin bokunu bile seviyorum diyen kız
-bkz seni çok seviyorum bokunu bile seviyorum diyen kız
 https://www.uludagsozluk.com/k/co%C5%9Fkun-sabah-%C4%B1n-muazzam-bir-insan-olmas%C4%B1/ bkz kral adam
 https://www.uludagsozluk.com/k/garavel-ustayla-tan%C4%B1%C5%9Fmak-istemek/ bkz bul benim adım garavel
 bkz lise çıkışı sevdiceğine laf atan serserileri döven kız
