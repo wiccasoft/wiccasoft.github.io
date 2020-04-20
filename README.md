@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz en adam gibi adam burç
 bkz ayrılıkçı alper tungacılar gönüllü ıssız acuncular
 bkz bahçelinin türk intikam yemin etmesi
 bkz serdar ortaçın gerçek türk biziz isyanı
