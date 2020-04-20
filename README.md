@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz czn burak ifşa
 bkz amınoğlu ekremin oğlunun facebookta kızlara yürümesi
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/ bkz türkeşçiler
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz link at kankağğğğğğğ
