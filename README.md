@@ -1,7 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-bkz emre morun sessizliğini koruması
 bkz ozan kabakın hiç yürüme skandalına karışmaması
 bkz kerem tunçerinin yürüdüğü kıza yürüyecek kadar düşmek
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa paralo
@@ -14,8 +13,6 @@ https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım karde
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ yine duşa soktun kardeş
 bkz kerem tunçeri kim amk
 bkz aptal ekşicilerin ünlü ettiği malaklar
-bkz kerem tunçeri michael jordan dostluğu
-bkz amerikalıların kerem tunçeriye türkiyenin lebron jamesi demesi
 bkz kerem tunçeri lebron james benzerliği
 bkz seviyorum ama kimi en tatlı birsini diyen kız
 bkz senin bokunu yerim lan bokunun oç diyen kız
