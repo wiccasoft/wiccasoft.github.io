@@ -5,6 +5,7 @@
 
 <!--
 bkz ifşa linki at oç
+bkz gökhan demirkolun ezgi naz çelike yürümesi
 bkz chpli belediyelerin akitleri zehirlemesi
 bkz defne amyeli amımda kal türküyem pozu
 bkz sergey brin larry page ifşası
