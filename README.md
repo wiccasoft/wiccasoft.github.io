@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/ezgi-naz-%C3%A7elik-in-g%C3%B6khan-alkan-%C4%B1-if%C5%9Fa-etmesi/ ay olabilrmi böyle şey
 bkz tarkan tevetoğlan vs amınoğle ekrem
 bkz maka maymunu vs amınoğlu ekrem
 bkz şaka maka amınoğlu ekremein iyice makak maymuna dönmesi
