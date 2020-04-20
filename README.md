@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg bkz ses güzel
 bkz senin bokuna bile taparım diyen kız
 bkz senin bokunun bile çok severim diyen kız
 bkz senin bokuna eppek banarım eppek diyen kız
