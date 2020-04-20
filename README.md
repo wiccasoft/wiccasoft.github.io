@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amınoğle ekremin grup yorumu savunması
 bkz şaka maka grup yorumun tek kişi kalması
 bkz grup vitamin solistinin fedönü vermezseniz ölüm orucuna girerim demesi
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/
