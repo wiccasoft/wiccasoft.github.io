@@ -2,8 +2,6 @@
 
 <!-- 
 bkz kerim tunçeri yürümesi vs macun kaplıcalı yürümesi
-bkz macun kaplıcalı vs murat boz
-bkz kerim durmaz vs kerem tunçeri
 bkz kerem tunçeri vs pasa parola sunucusu
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz kerem tunçerinin yine yürümesi
