@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz yasin obuz
 bkz çorumluların sörfayfır of weakest olması
 bkz sörfayfor yasin vs sörfayfor kerem
 bkz sörfayfor ıf fitıstım diyen kezo
