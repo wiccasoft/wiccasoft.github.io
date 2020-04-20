@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz erkem amınoğlunun çöpçülerin maaşını artırması
 bkz receğ tayyiğ erdoğanın fedönü vermezseniz ölüm orucuna girerim demesi
 bkz amınoğle ekremin grup yorumu savunması
 bkz şaka maka grup yorumun tek kişi kalması
