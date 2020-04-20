@@ -2,6 +2,7 @@
 
 <!--
 bkz amınoğlu vs garipoğlu
+bkz sana sevdanın yolları bana kurşunlar diyen kız
 bkz senin bokunun bile yerim diyen kız
 https://www.uludagsozluk.com/k/seni-%C3%A7ok-seviyorum-diyen-k%C4%B1z/ bkz münevver karabulut
 bkz münevver karabulutun cem garipoğlana senin bokunun yerim demesi
