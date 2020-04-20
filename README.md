@@ -3,6 +3,7 @@
 
 <!-- 
 bkz aslı bekiroğlanın demeyi kapaması
+bkz kerimcan durmazın aslı bekiroğlana yürümesi
 https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu/&w=bg bkz aslı bekiroğlanın kürt olduğu gerçeği
 https://kahraman-zorbey.uludagsozluk.com/ bkz uyazık la kimin çocuysa vol 100
 https://www.uludagsozluk.com/k/en-delikanl%C4%B1-bur%C3%A7/ bkz 
