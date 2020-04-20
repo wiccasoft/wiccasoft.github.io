@@ -6,6 +6,9 @@
 <!--
 bkz zonguldaktan adam çıkmaması
 bkz hatay araplarının arapçılığı özendirmesi
+bkz arap dinin için göt veren türkler
+bkz selahaddin eyyübinin türkleri kılıçtan geçirip arap yapması
+https://www.uludagsozluk.com/k/arap-dinini-korumak-i%C3%A7in-kendini-paralayan-t%C3%BCrkler/
 https://www.uludagsozluk.com/k/sol-partilerden-adam-%C3%A7%C4%B1kmamas%C4%B1/
 bkz daeşe katılan türkçüler
 bkz ülkücülerin ülkeye faydası
