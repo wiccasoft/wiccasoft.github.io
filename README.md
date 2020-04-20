@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz kızını damada siktircek kadar gavat olmak
 bkz tayyibin damadın penisinwe şokomel sürdüğü iddaları
 bkz tayyibin damdın penis yüzüğünü azıyla taktığı yalanı
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz rte nin damadı
