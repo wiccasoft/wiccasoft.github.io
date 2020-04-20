@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz kafir icadı diyip instagram ifşa linki atan kamalcı
 bkz recep tayyip erdoğanın ifşalar nedeniyle demeyi kapaması
 bkz recep tayyiğ erdoğan ifşa full link 
 bkz aslı bekiroğlan ifşa rar full link
