@@ -3,6 +3,7 @@
 <!-- 
 bkz tam cidiye alcam bi gülme geliyor
 bkz ios 9 u olmayan birini ciddiye almak
+bkz emcüğünü emüklerim yazılan kezonun hemen demeyi kapaması
 bkz androidli çapulcu kızın ios 9 lu adama deme kapaması
 bkz 20 nisan 2020 kızların demeyi kapaması
 https://www.uludagsozluk.com/k/y%C3%BCce-atat%C3%BCrk/&w=bg bkz yücelerin yücesi en yüce
