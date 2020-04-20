@@ -2,7 +2,7 @@
 
 <!-- 
 bkz czn burak ifşası
-bkz sergey brinin yine yürümesi
+bkz sergey brinoğlunun yine yürümesi
 bkz kerem tunçerinin yine yürümesi
 bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
 bkz ekrem amınoğlunun amınoğlu olduğu gerçeği
