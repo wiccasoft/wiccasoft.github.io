@@ -7,8 +7,6 @@
 bkz nazlı çelikin gökhan demirkola özelden kanlı ped yollaması
 https://www.uludagsozluk.com/k/regl-zaman%C4%B1-g%C3%B6%C4%9F%C3%BCslerin-b%C3%BCy%C3%BCmesi/&w=bg
 https://www.uludagsozluk.com/k/if%C5%9Fa-olma-korkusuyla-low-profile-bir-hayat-s%C3%BCrmek/
-bkz rte nin kk ya yürümesi
-bkz özelden alet fotosu atan ergen
 bkz rte nin özelden alet fotosu atanları ifşa etmesi
 bkz gökhan demirkolun ezgi naz çelik attığı alet fotosu
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım kardeş
