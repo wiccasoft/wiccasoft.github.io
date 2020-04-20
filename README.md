@@ -1,19 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- 
-bkz al bunu alaazmısın denilen aknonoşun cimere şikayet etmesi
-bkz gökhan demirkolun aknonoşlara özelden alet fotosu atması
-bkz macun kaplıcalının ben gavat değilim demesi
-bkz kafa siken aknonoş zırvaları
-bkz rte ye parası neyse verip aknonoşlara kek yollatmak
-bkz aknonoşların ne işe yaradıkları sorunsalı
-bkz imamoğlu hep ona oç der vs frank lucas
-bkz yüzde yüz yerli ve mill aknonoş 
-bkz yüzde yüz yerli ve milli aknonoşu çalıştırmak
-bkz ak nonoşları sabun yapıp israile satma procesi
--->
-
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
