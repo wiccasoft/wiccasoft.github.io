@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz cem garipoğlu münevver karabulut ifşası
 bkz cem garipoğlanın facebooktaki münevver karabulut mesajarını silmesi
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg bkz karabulut
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg bkz ifşası düşse de attırsak
