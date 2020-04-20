@@ -3,6 +3,7 @@
 
 <!--
 bkz ifşa linki atmayan oç
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oç der
 bkz mansur yavaşın profiline girip mouse ile yanaklarını sevmek
 bkz şaka maka ifşa sezonunun açılması
 bkz sergey brin larry page ifşası
