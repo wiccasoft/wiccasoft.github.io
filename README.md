@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amerikalıların kerem tunçeriye türkiyenin lebron jamesi demesi
 bkz kerem tunçeri lebron james benzerliği
 bkz seviyorum ama kimi en tatlı birsini diyen kız
 bkz senin bokunu yerim lan bokunun oç diyen kız
