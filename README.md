@@ -3,29 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!--
-bkz essynin iflah olmaz bir ibne olduğu gerçeği
-bkz imamaoğlunun ifşa olmamak için demeyi kapaması
-bkz iyestanın ifşa olmamak içinözel mesajları kapaması
-bkz basket topu suratlı esmer tenli kırmızı kafalı kız
-bkz yuvarlak kafalı insanların daha zeki olması
-https://www.uludagsozluk.com/k/k%C4%B1rm%C4%B1z%C4%B1-kafal%C4%B1-esmer-tenli-yuvarlak-suratl%C4%B1-k%C4%B1z/
-https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg
-bkz rte nin ifşa edenler en adi oç dir demesi
-bkz rte nin ifşa linkleri cimere kapattırması
-bkz osmanlı halifesi ifşa link
-bkz merve toy ifşa full link şifresiz
-bkz aleyna tilkinin kardeşinin regl zamanın memelerim büyüyo demesi
-bkz murat övüçün kürtlere kürtcellli demesi
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-turkcell-e-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
-bkz nazlı çelikin gökhan demirkola özelden kanlı ped yollaması
-https://www.uludagsozluk.com/k/regl-zaman%C4%B1-g%C3%B6%C4%9F%C3%BCslerin-b%C3%BCy%C3%BCmesi/&w=bg
-https://www.uludagsozluk.com/k/if%C5%9Fa-olma-korkusuyla-low-profile-bir-hayat-s%C3%BCrmek/
-bkz rte nin özelden alet fotosu atanları ifşa etmesi
-bkz gökhan demirkolun ezgi naz çelik attığı alet fotosu
-https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım kardeş
-https://www.uludagsozluk.com/k/ezgi-naz-%C3%A7elik-in-g%C3%B6khan-alkan-%C4%B1-if%C5%9Fa-etmesi/ -->
-
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
