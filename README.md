@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-birisi-yaz%C4%B1nca-g%C3%B6t%C3%BC-kalkan-k%C4%B1zlar/ bkz merve boğulur
 bkz gamze özçelik gökhan demirkol ifşası
 bkz türklerin sosyal medyayı ifşa için kullanmaları
 bkz cem garipoğlu münevver karabulut facebook konuşmaları ifşası
