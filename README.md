@@ -5,6 +5,7 @@
 
 <!--
 bkz sörfifor 2020 macun
+bkz ışıda katılan türküçüler
 bkz macun kaplıcalı vs sörfayfır tonga
 bkz ışıda karılan türk oğlu türkler
 bkz merve boğulureun kerimçan tunçer kim amk demesi
