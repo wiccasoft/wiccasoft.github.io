@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz bahçelinin tayyibe fedö auağı dediği zamanlar
+bkz bahçelinin tayyibe fedönün siyasi ayağı dediği zamanlar
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-rte-ye-s%C3%B6vd%C3%BC%C4%9F%C3%BC-y%C4%B1llarda-ali-babacan/
 https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz yasin obuz
 bkz çorumluların sörfayfır of weakest olması
