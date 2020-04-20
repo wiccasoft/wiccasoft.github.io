@@ -2,6 +2,7 @@
 
 <!-- 
 bkz emre morun sessizliğini koruması
+bkz ozan kabakın hiç yürüme skandalına karışmaması
 bkz kerem tunçerinin yürüdüğü kıza yürüyecek kadar düşmek
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa paralo
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz kerem tunçeri ifşa
