@@ -8,6 +8,7 @@ https://eksisozluk.com/istanbullu-mallar-yuzunden-evde-tikili-kalmak--6482485?a=
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz samimiyedsiz oç
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
 https://eksisozluk.com/bulent-ecevit-denince-akla-gelenler--4390006?a=popular gara oğlan
+https://eksisozluk.com/ekmeleddin-ihsanoglu--497451?a=popular bkz eppeleddin
 -->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
