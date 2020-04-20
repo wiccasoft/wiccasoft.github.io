@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz ekrem amınoğlu vs mustafa atacücününoğlu
 bkz mustaf kemal atacücünün ateist olduğu iddaları
 bkz mustafa kemal atacücünün atacücü olduğu iddaları
 bkz mustafa kemal atacücünün grup yorum posteri asması
