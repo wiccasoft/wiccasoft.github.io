@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz al bunun alaazmısın denilen aknonoşun cimere şikayet etmesi
 bkz gökhan demirkolun aknonoşlara özelden alet fotosu atması
 bkz macun kaplıcalının ben gavat değilim demesi
 bkz kafa siken aknonoş zırvaları
