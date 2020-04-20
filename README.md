@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz cem garipoğlanın facebooktaki münevver karabulut mesajarını silmesi
+https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg bkz karabulut
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg bkz ifşası düşse de attırsak
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz czn burak ifşa
 bkz amınoğlu ekremin oğlunun facebookta kızlara yürümesi
