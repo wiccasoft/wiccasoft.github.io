@@ -3,6 +3,7 @@
 
 <!-- 
 bkz en adam gibi adam ırklar
+bkz aslı bekiroğlanın kürdo olduğu gerçeği
 bkz ayrılıkçı alper tungacılar gönüllü ıssız acuncular
 bkz bahçelinin türk intikam yemin etmesi
 bkz serdar ortaçın gerçek türk biziz isyanı
