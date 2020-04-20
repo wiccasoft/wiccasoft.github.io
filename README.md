@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ekremin amınoğlu olduğu gerçeği
 bkz amınoğlu ekrem body ekrem benzerliği
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu  ekrem
 bkz em çok seni şok şeviyoyum diyen kız
