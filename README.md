@@ -6,6 +6,7 @@
 <!-- 
 bkz amınoğlu ekrem
 bkz aknonoşların ne işe yaradıkları sorunsalı
+bkz aknonoşların prezervatif taktırma işinde kullanmak
 bkz şaka maka aknonoşları sabun yapıpı ülke ekonomisini kalkındırmak
 bkz imamoğlu ona hep oç der vs rall
 bkz yüzde yüz yerli ve milli aknonoş
