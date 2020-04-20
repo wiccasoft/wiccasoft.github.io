@@ -1,8 +1,10 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 kardeş sen söyle
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ yine duşa sokyun kardeş
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım kardeş
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ ayine duşa soktun kardeş
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ yine duşa soktun kardeş
 bkz kerem tunçeri kim amk
 bkz aptal ekşicilerin ünlü ettiği malaklar
 bkz kerem tunçeri michael jordan dostluğu
