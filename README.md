@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ayrılıkçı arapların hataya kaçması
 bkz ayrılıkçı yunanalar vs ayrılıkçı sünniler
 bkz ayrılıkçı kürtleri sabun yapalım kampanyası
 bkz ayrılıkçı türkçülerin türkçe sosyal medya istiyoruz kampanyası
