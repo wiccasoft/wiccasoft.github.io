@@ -4,7 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz haylindeki adama küfreden ergen ibneler
+bkz hayallerde yaşıyor bazı ibneler
+bkz hayalindeki adama küfreden ergen ibneler
 bkz hem gavat hem ibnelerin genellikle erkek delisi olması
 bkz gavatların genellikle başkalarının erkeklerinde gözü olması
 bkz godoşların genellikle ibne olması
