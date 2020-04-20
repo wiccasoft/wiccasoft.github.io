@@ -3,6 +3,7 @@
 <!-- 
 bkz tam cidiye alcam bi gülme geliyor
 bkz ios 9 u olmayan birini ciddiye almak
+https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz yürümek
 https://www.uludagsozluk.com/k/y%C3%BCce-atat%C3%BCrk/&w=bg bkz yücelerin yücesi en yüce
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/ bkz kerimcan durmaz
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz ios9 la kızlara yürümek
