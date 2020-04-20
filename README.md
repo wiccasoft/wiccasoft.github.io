@@ -1,54 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!--
-bkz al bunu alaazmısın denilen aknonoşun cimere şikayet etmesi
-bkz gökhan demirkolun aknonoşlara özelden alet fotosu atması
-https://www.uludagsozluk.com/ bkz evlat olsa sevilmez dayaklık oç ergenler veritabanı
-https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlan ona hep oç der
-https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz telefoncu mısıroğlan
-bkz yılın gavatı ödül töreni sörfayfor macun
-bkz macun kaplıcalının karı çalıştıracak kadar gavatmıyım demesi
-bkz amınoğlu ekrem amınoğlu olduğu gerçeği
-bkz kızını damada siktircek kadar gavat olmak
-bkz tayyibin damadın penisinwe şokomel sürdüğü iddaları
-bkz tayyibin damdın penis yüzüğünü azıyla taktığı yalanı
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz rte nin damadı
-bkz k arpaoğlan vs m mısıroğlan
-bkz enes abinin norm enderden yakışıklı olması
-bkz enes abinin reynmeme verdiği boru gibi ayar
-https://www.uludagsozluk.com/k/khontkar-s%C3%BCrt%C3%BCk-klibi/ bkz aslı bekiroğlan
-bkz aslı bekiroğlan ın demeyi kapaması
-bkz kerimcan durmazın aslı bekiroğlana yürümesi
-bkz aslı bekiroğlanın üniversiteye girdiğim gün doğması
-https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu/&w=bg bkz aslı bekiroğlanın kürt olduğu gerçeği
-https://kahraman-zorbey.uludagsozluk.com/ bkz yazık la kimin çocuysa vol 100
-https://www.uludagsozluk.com/k/en-delikanl%C4%B1-bur%C3%A7/ bkz 
-https://www.uludagsozluk.com/k/survivor-yasin/&w=gd bkz yasin börü
-bkz en adam gibi adam ırklar
-bkz şaka maka aslı bekiroğlanın çocuğum yaşında olması
-bkz gökhan demirkolun aslı bekiroğlana yürümesi
-bkz aslı bekiroğlanın kürdo olduğu gerçeği
-bkz ayrılıkçı alper tungacılar gönüllü ıssız acuncular
-bkz bahçelinin türk intikam yemin etmesi
-bkz serdar ortaçın gerçek türk biziz isyanı
-bkz 20 nisan 2020 serdar ortaçın kürt intikam yemini etmesi
-bkz serdar ortaçın kürtleri ait oldukları yere gömeceğim yemini etmesi
-bkz oç kürtleri sabun yapma gerekliliği
-https://www.uludagsozluk.com/k/k%C3%BCrtlerin-azeri-t%C3%BCrklerine-yapt%C4%B1%C4%9F%C4%B1-sulduz-katliam%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/erkekleri-%C3%A7ekici-yapan-detaylar/&w=bg sörfayfır izlemesi
-bkz bahçelinin tayyibe fedönün siyasi ayağı dediği zamanlar
-https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-rte-ye-s%C3%B6vd%C3%BC%C4%9F%C3%BC-y%C4%B1llarda-ali-babacan/
-https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz yasin obuz
-bkz çorumluların sörfayfır of weakest olması
-bkz sörfayfor yasin vs sörfayfor kerem
-bkz sörfayfor ıf fitıstım diyen kezo
-bkz ben senin bokunu yerim bokuna lan diyen azgın shit ağızlı kız
-bkz macun kaplıcalının ben karıyı çalıştıracak kadar gavat değilim demesi
-bkz gökhan demirkolun özelden alet fotosu yollaması
-bkz süleyman soylunun soyumuz kıpçaklara dayanır açıklaması
--->
-
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
