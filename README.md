@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz recep tayyiğ erdoğan ifşa full link 
 bkz aslı bekiroğlan ifşa rar full link
 bkz ezgi naz çelikin demeyi kapaması
 bkz ezgi naz çelik ifşası full link şifresiz
