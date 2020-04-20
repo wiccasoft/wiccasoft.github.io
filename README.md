@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz keçiöreninin suyunu kesmesi
 bkz mansur yavaşın keçiören akp il binasının elektriğini kesmesi
 bkz elif can terimin wiccasofta ceo olması
 bkz elif can terimin damada selam ve dua ile wiccasoft ceo su yap demesi
