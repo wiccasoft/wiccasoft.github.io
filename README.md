@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kerimcan tunçeri kim amk
+bkz michael jordanın kerimçan tunçeriye yürümesi
 bkz kerimcan durmaz ın yürümeyi durdurma kararına tepkisi
 bkz kerimcan tunçerinin paso yürüdüğü kızlar tam liste
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz emeğine aktım kardeş
