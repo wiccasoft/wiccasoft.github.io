@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz liselilerin güldürmesi
+https://www.uludagsozluk.com/e/43203341/ içinden geçmiş pampa
 bkz merve boğulurun alp kılıç kim amk demesi
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur-un-alp-k%C4%B1l%C4%B1%C3%A7-a-koydu%C4%9Fu-posta/
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz alper tunga
