@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-bence-ter%C3%B6rist/ bkz amınoğlu
 bkz amınoğlunun yine yürümesi
 bkz şeyma kaplıcalının italyan sevgilisine yürümesi
 bkz kerim tunçeri yürümesi vs macun kaplıcalı yürümesi
