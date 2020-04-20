@@ -2,6 +2,7 @@
 
 <!--
 bkz min sona aşık olmak
+bkz nuri bilge ceylan zeki demirkubuz la seks yaptım diyen kız
 bkz ekrem amınoğlunun oğlunun facebookta paylaştığı foto
 bkz aşkoştam sen işine aşıksın ben sana aşkoşto diyen kız
 bkz merve boğulurun kerem tunçeke silah çekmesi
