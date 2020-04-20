@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz şaka maka grup yorumun tek kişi kalması
+https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/
 https://www.uludagsozluk.com/k/galatasaray/ bkz abdurrahim albayrak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem 
 bkz ekremin amınoğlu olduğu gerçeği
