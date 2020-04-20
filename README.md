@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz tarkan tevetoğlan vs amınoğle ekrem
 bkz maka maymunu vs amınoğlu ekrem
 bkz şaka maka amınoğlu ekremein iyice makak maymuna dönmesi
 https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
