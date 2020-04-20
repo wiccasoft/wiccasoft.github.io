@@ -4,17 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
-bkz mark zuckerbergin kendini iron man sanması
-bkz çinin facebook un teknolojisini çalması
-bkz instagramın kafir icadı olduğu iddaları
-bkz kafir icadı diyip instagram ifşa linki atan kamalcı
-bkz recep tayyip erdoğanın ifşalar nedeniyle demeyi kapaması
-bkz recep tayyiğ erdoğan ifşa full link 
-bkz aslı bekiroğlan ifşa rar full link
-bkz ezgi naz çelikin demeyi kapaması
-bkz ezgi naz çelik ifşası full link şifresiz
-bkz ezgi naz çelik ifşası full link çalışıyo
-https://www.uludagsozluk.com/k/ezgi-naz-%C3%A7elik-in-g%C3%B6khan-alkan-%C4%B1-if%C5%9Fa-etmesi/ link at kankağ
+bkz ifşa linki at oç
 bkz sergey brin larry page ifşası
 bkz dünya lideri profil arka planı
 https://www.uludagsozluk.com/k/dünyayı-şirketler-yönetseydi-ne-olurdu/ rte işsiz kalırdı
