@@ -6,7 +6,8 @@
 <!--
 bkz ifşa linki at oç
 bkz aynur aydın killa hakan ifşası
-bkz özelden yürüyüp alet resmi atan sapık
+bkz özelden ingiliz anahtarı resmi atan sapık
+bkz özelden yürüyüp alet resmi atan sapık ifaşı
 bkz gökhan demirkolun özelden ezgi naz çelik e alet fotosu atması
 bkz gökhan demirkolun ezgi naz çelike yürümesi
 bkz chpli belediyelerin akitleri zehirlemesi
