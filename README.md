@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg grup yorum let s comment
 bkz fenevbahçe vs gassaray
 bkz amınoğlu ekrem vs gassaray
 bkz gassarayın 10 kişi kalması
