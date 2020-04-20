@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz rte nini ifşa edenler en adi oç dir demesi
 bkz rte nin ifşa linkleri cimere kapattırması
 bkz osmanlı halifesi ifşa link
 bkz merve toy ifşa full link şifresiz
