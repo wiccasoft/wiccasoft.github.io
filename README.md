@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz macun kaplıcalının karı çalıştırılırmı lan gavatlar demesi
+bkz karısını çalıştırmayan gavat 
 bkz hayallerde yaşıyor bazı ibneler
 bkz hayalindeki adama küfreden ergen ibneler
 bkz hem gavat hem ibnelerin genellikle erkek delisi olması
@@ -12,6 +14,7 @@ bkz godoşların genellikle ibne olması
 bkz karısını çalıştırmayan gavat
 bkz macun kaplıcalının karısını çalıştıranlara gavat demesi
 bkz essy nin iflah olmaz bir ibne olduğu gerçeği
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg
 https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg bkz essy
 bkz gökhan demirkolun nazlı çelike yolladığı alet fotosu
 bkz macun kaplıcalının şeymayı çalıştırcak kadar gavat değilim demesi
