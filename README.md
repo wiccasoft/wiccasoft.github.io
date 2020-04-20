@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz grup yorum konserinde açılan phpkc bayrağı
 bkz grup yorumun mitoz bölünmeyle çoğalması
 bkz grup yorumun bir ölür 1000 doğarız demesi
 bkz bu grup yorum kaç kişi lan her hafta biri ölüyo bitmiyolar
