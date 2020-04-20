@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz baka varankın küvette kal türküyüm pozu
 bkz defne samyelini sarıkayayı kıskanması
 https://www.uludagsozluk.com/k/defne-samyeli-ve-k%C4%B1z%C4%B1n%C4%B1n-evde-kal-pozu/
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-google-ve-windows-y%C3%B6netseydi/ zaten öyle amınferyadı
