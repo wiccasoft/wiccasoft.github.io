@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa paralo
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz kerem tunçeri ifşa
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/ bkz kerem tunçeri
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/&w=bg bkz alper tungacılar
