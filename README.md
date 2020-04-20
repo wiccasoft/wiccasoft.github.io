@@ -2,6 +2,7 @@
 
 <!--
 bkz min sona aşık olmak
+bkz merve boğulurun kerem tunçeke silah çekmesi
 bkz aşkoştom evlenmeyeceksek oyalamaşko diyen kız
 bkz bana xiomi  ultra plus alsan aşkoştom diyen kız
 bkz seni çok ama çok seviyoşkom aşkoştom diyen kız
