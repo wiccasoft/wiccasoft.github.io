@@ -5,6 +5,7 @@
 
 <!--
 bkz sergey brin larry page ifşası
+bkz 20 nisan rte nin ulusa seslenmemesi
 bkz google chrome'un pkk lı renkleri
 bkz aleyna tilki ido taltıses ifşası
 bkz birbirini ifşa eden çocuklar
