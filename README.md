@@ -4,7 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-bkz müslümanların yarrağıma faydası
+bkz sünnilerin yarrağıma faydası
 bkz türklerin yarrağıma faydası
 bkz kürtlerin yarrağıma faydası
 bkz ayrılıkçı arapların hataya kaçması
