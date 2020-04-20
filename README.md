@@ -3,7 +3,10 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!--bkz sergey brin larry page ifşası
+<!--
+bkz sergey brin larry page ifşası
+bkz gamze özçelik gökhan demirkol ifşası
+bkz izel çelik ercan ifşası full link
 https://www.uludagsozluk.com/k/czn-burak-ifşası/ emeğine aktım kardeş
 -->
 
