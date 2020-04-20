@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu vs yavaş pipili
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 bkz amınoğlu ekrem vs şener şen tiplemeleri
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-yanl%C4%B1%C5%9Fl%C4%B1kla-500-bin-ton-yazd%C4%B1m-demesi/ bkz yaz kızım
