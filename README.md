@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!-- 
-bkz whatsup naber yazan sapıkı ifşa etmem
+bkz whatsuptan whatsup yazan sapıkı ifşa etmem
 bkz izel çelik ercan ifşası
 bkz jandarmaya uyuyşturuc satana kolombiyalı cartel
 bkz münevver karabulut cem garipoğlan ifşası
