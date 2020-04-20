@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz aslı bekiroğlana yürüyecek kadar düşmek
 bkz kerem tunçerinin aslı bekiroğlana yürümesi
 bkz kerem tunçerinin demeyi kapaması
 bkz kerem tunçerinin storyleri kapaması
