@@ -8,6 +8,7 @@ bkz sergey brin larry page ifşası
 bkz gamze özçelik gökhan demirkol ifşası
 bkz izel çelik ercan ifşası full link
 bkz şaka maka amınoğlu ekremin bitmesi
+bkz merve taşkın kerem tunçeri ifşası full link isteyene atarım
 https://www.uludagsozluk.com/k/czn-burak-ifşası/ emeğine aktım kardeş
 -->
 
