@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amınoğlu ekrem vs abdurrahim albayrakoğlu
 bkz ne diyodum amınoğlu ekremin amınoğlu olması
 https://www.uludagsozluk.com/k/sabah%C4%B1n-4-%C3%BCnde-yazacak-kadar-%C5%9Fizo-olmak/ bkz amınoğlu ekrem
 bkz amınoğlu ekremin amınoğlu olduğu gerçeği
