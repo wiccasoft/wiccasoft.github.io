@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!-- 
+bkjz abdulhamdinin donanmayı piç etmesi
+bkz ismet inöcünün mustafa ataöcü gölgesinde kalması
+https://www.uludagsozluk.com/k/milli-kahraman-ismet-in%C3%B6n%C3%BC/&w=bg
 bkz endüstri meslek lisli mezunu birini ciddi ciddi ifşa etmek
 bkz defne amyeli amımda kal türküyem pozu
 bkz facebook ta kızlara yazan dayı
