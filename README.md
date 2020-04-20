@@ -4,7 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
-bkz mar zuckerbergin kendinin iron man sanması
+bkz mark zuckerbergin kendini iron man sanması
 bkz çinin facebook un teknolojisini çalması
 bkz instagramın kafir icadı olduğu iddaları
 bkz kafir icadı diyip instagram ifşa linki atan kamalcı
