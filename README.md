@@ -7,6 +7,7 @@
 bkz ifşa linki at oç
 bkz sergey brin larry page ifşası
 bkz dünya lideri profil arka planı
+bkz gamze özçelik gökhan demirkol ifşası full link
 bkz rte nin ifşalar nedeniyle demeyi kapaması
 bkz dünya liderinin profiline girip yanaklarını okşamak
 bkz google chrome'un pkk lı renkleri
