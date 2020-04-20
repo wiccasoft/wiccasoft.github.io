@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz rte nin ifşa linkleri cimere kapattırması
 bkz osmanlı halifesi ifşa link
 bkz merve toy ifşa full link şifresiz
 bkz aleyna tilkinin kardeşinin regl zamanın memelerim büyüyo demesi
