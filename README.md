@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz macun kaplıcalı vs sörfayfır tonga
 bkz merve boğulureun kerimçan tunçer kim amk demesi
 bkz alper tunga öldi mi ıssız acun kaldı mı imdi ürek ırtılır
 https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-e-kat%C4%B1lan-t%C3%BCrkler/&w=bg bkz alpaslan türkeş
