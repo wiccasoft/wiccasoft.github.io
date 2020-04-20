@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz yüzde yüz yerli ve mill aknonoş patenti
+bkz yüzde yüz yerli ve mill aknonoş 
+bkz yüzde yüz yerli ve milli aknonoşu çalıştırmak
 bkz ak nonoşları sabun yapıp israile satmak -->
 
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
