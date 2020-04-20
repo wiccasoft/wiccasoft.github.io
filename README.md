@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amınoğlu ekremi unutmanın en kolay yolu
 bkz sola dönerken sağ sinyal veren yobaz
 bkz sağın yobazı vs solun yobazı
 bkz amınoğlu ekrem vs atacücüşoğlu
