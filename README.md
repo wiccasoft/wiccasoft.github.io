@@ -5,6 +5,7 @@
 
 <!--
 bkz daeşe katılan türkçüler
+bkz ülkücülerin ülkeye faydası
 bkz sörfayfor yunus vs sörfayfor macun
 bkz kerem tunçerin fener bi kere verse sigerem demesi
 bkz kerem tunçerinin yine karılara yürümesi
