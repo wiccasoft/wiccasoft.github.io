@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz deep turkish web
 bkz liselilerin güldürmesi
 https://www.uludagsozluk.com/e/43203341/ içinden geçmiş pampa
 bkz merve boğulurun alp kılıç kim amk demesi
