@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz bana nikahı basarsan babanın çoraplarını yıkarım diyen kız
 https://min-son.uludagsozluk.com/ bkz yazık lan kimin çocuysa
 bkz aşkitom seni çok seviştom diyen kız
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur-un-alp-k%C4%B1l%C4%B1%C3%A7-a-koydu%C4%9Fu-posta/
