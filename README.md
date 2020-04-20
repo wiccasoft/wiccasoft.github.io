@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+bkz merve toy ifşa full link şifresiz
 bkz aleyna tilkinin kardeşinin regl zamanın memelerim büyüyo demesi
 bkz murat övüçün kürtlere kürtcellli demesi
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-turkcell-e-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
