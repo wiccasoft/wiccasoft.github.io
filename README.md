@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-https://www.uludagsozluk.com/k/sevdi%C4%9Fin-k%C4%B1z%C4%B1n-abi-demesi/&w=bg bkz lan senin büllük kalkıyo mu
+https://www.uludagsozluk.com/k/survivor-yasin/&w=gd bkz yasin börü
 bkz en adam gibi adam ırklar
 bkz şaka maka aslı bekiroğlanın çocuğum yaşında olması
 bkz gökhan demirkolun aslı bekiroğlana yürümesi
