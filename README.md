@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
+https://www.uludagsozluk.com/ bkz oç ergen ibneler
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlan ona hep oç der
 https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz telefoncu mısıroğlan
 bkz yılın gavatı ödül töreni sörfayfor macun
