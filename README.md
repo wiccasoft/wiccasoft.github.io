@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz walter vaytın spastik oğlu vs kerimcan tunçeri
 bkz amınoğlu deyince akla gelen ilk imge
 bkz şener şen ekrem amınoğlu benzerliği
 bkz bülent ecevit deyince akılda beliren imgeler bütünü sorunsalı
