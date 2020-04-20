@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/tuncer-ustael/&w=bg bkz usta el
 bkz min sona aşık olmak
 bkz nuri bilge ceylan zeki demirkubuz la seks yaptım diyen kız
 bkz ekrem amınoğlunun oğlunun facebookta paylaştığı foto
