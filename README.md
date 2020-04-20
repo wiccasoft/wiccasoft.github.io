@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/tarkan/&w=bg bk atıl kurt
 bkz baka varankın küvette kal türküyüm pozu
 bkz defne samyelini sarıkayayı kıskanması
 https://www.uludagsozluk.com/k/defne-samyeli-ve-k%C4%B1z%C4%B1n%C4%B1n-evde-kal-pozu/
