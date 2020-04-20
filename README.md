@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz emre morun yürüdüğü kıza yürüyecek kadar düşmek
 bkz arada turanın evlendikten sonra yürümeyi kesmesi
 bkz batuhan karadenizin kızlara yüymeye ihtiyacım yok açıklaması
 https://www.uludagsozluk.com/e/43203137/ bkz kamalcı kişilik bozukluğu
