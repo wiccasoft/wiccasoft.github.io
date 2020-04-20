@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz ayrılıkçı alpaslan türkeşçiler
 bkz baruhan karadenizin kerem tunçerinin yürüdüğü karıya yüyümesi
 bkz amınoğlunun spastik oğlunun facebook ta kızlara yürümesi
 bkz amınoğlu deyince akla gelen ilk imge
