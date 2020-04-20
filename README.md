@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-bkz mustaf kemal atacücünün senin cücünün yerim cücünü demesi
+bkz mustafa kemal atacücünün senin cücünü yerim cücünü demesi
 bkz yangın çıksa ilk seni kurtarırım diyen kız
 bkz denize düşsen ilk seni kurtarırım diyen kız
 bkz ben senin bokuna eppek basar yerim eppek diyen kız
