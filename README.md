@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz kerem tunçerinin storyleri kapaması
 bkz kerem tunçerinin yürüdüğü kızları database e aktarmak
 bkz kerem tunçerinin yürüdüğü kızlar sıralı tam liste
 bkz kerem tunçerinin paso yürümesi
