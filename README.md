@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Fu-an-%C3%A7alan-%C5%9Fark%C4%B1/&w=bg  grup  yorum lets comment
 https://www.uludagsozluk.com/k/resul-balay/&w=bg bkz oç resül
 bkz amınoğlu ekremin cama tıklayıp su faturası geldi mi demesi
 bkz amınoğlu ekremin gece gece cama tıklaması
