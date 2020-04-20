@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz facebooktan karımı sik diye mesaj atan ekşicinin babası
 bkz türkiyede kadınların orospu olması
 bkz facebook ta kızlara yürüyen dayı
 bkz evlenirsek eski tokmakçılarınla görüşebilrisin diyen adam
