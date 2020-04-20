@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz ezgi naz çelik in gökhan demirkolun yolladığı alet fotosunu paylaşması
 bkz gökhan demirkolun ezgi naz çelik'e alet fotosu yollaması
 bkz 1881 atacücü 18+81 ? 99 - 81 vilayer - batman = covid19 ifşa
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz 40 yapar
