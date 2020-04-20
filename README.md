@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-anti-panzehirini-bulan-adam/ bkz zehir gibi adam
 bkz tindere deliknalı adamın delikanlı sevgilisi olur butonu istiyoruz kampanyası
 bkz tinderden adama gibi adam çıkmaması
 bkz tinderde kızlarla eşleşen sapık dayı
