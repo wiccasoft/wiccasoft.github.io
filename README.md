@@ -4,7 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!--
-bkz nazlı çelikin gökhan demirkola  kanlı ped yollaması
+bkz nazlı çelikin gökhan demirkola özelden kanlı ped yollaması
 https://www.uludagsozluk.com/k/regl-zaman%C4%B1-g%C3%B6%C4%9F%C3%BCslerin-b%C3%BCy%C3%BCmesi/&w=bg
 https://www.uludagsozluk.com/k/if%C5%9Fa-olma-korkusuyla-low-profile-bir-hayat-s%C3%BCrmek/
 bkz rte nin kk ya yürümesi
