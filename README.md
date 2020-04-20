@@ -3,35 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!--
-bkz ifşa linki at oç
-bkz fahriye evcan brad pitt ifşası
-bkz aynur aydın killa hakan ifşası
-bkz özelden ingiliz anahtarı resmi atan sapık
-bkz özelden yürüyüp alet resmi atan sapık ifaşı
-bkz gökhan demirkolun özelden ezgi naz çelik e alet fotosu atması
-bkz gökhan demirkolun ezgi naz çelike yürümesi
-bkz chpli belediyelerin akitleri zehirlemesi
-bkz defne amyeli amımda kal türküyem pozu
-bkz sergey brin larry page ifşası
-bkz dünya lideri profil arka planı
-bkz gamze özçelik gökhan demirkol ifşası full link
-bkz rte nin ifşalar nedeniyle demeyi kapaması
-bkz dünya liderinin profiline girip yanaklarını okşamak
-bkz google chrome'un pkk lı renkleri
-bkz aleyna tilki ido taltıses ifşası
-bkz birbirini ifşa eden çocuklar
-bkz ezgi naz çelik izel çelik ercan ifşası
-bkz chp iktidarı google a kaptırdığında olacaklar
-bkz gamze özçelik gökhan demirkol ifşası
-bkz izel çelik ercan ifşası full link
-bkz şaka maka amınoğlu ekremin bitmesi
-bkz fatih portakal çığlak ifşa full rar arşiv
-bkz merve taşkın kerem tunçeri ifşası full link isteyene satarım
-https://www.uludagsozluk.com/k/czn-burak-ifşası/ emeğine aktım kardeş
-https://www.uludagsozluk.com/k/fa%C5%9Fist-diktat%C3%B6r-ismet-in%C3%B6n%C3%BC/&w=bg emeğine aktım kardeş
--->
-
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
