@@ -3,6 +3,7 @@
 
 <!--
 bkz ifşa linki atmayan oç
+bkz duran emmi seyfo dayı ifşası
 bkz ismet inöcünün polat alemdarın gölgesinde kalması
 bkz duran emmi seyfo dayıyı hoplattı mı sorunsalı
 https://www.uludagsozluk.com/k/bu-eleman-sevgilinize-laf-atsa-ne-yapars%C4%B1n%C4%B1z/ caps at kankağ
