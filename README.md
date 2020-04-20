@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz ayrılıkçı fedöncüler
 bkz abdurrahim albyrakın canlı yayında kızı için ağlaması
 bkz beni mi çok seviyosun işini mi diyen kız-->
 
