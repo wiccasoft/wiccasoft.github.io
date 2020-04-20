@@ -4,6 +4,7 @@
 bkz tam cidiye alcam bi gülme geliyor
 bkz ios 9 u olmayan birini ciddiye almak
 https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular lol
+https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz emre mor yürümeleri
 https://eksisozluk.com/istanbullu-mallar-yuzunden-evde-tikili-kalmak--6482485?a=popular lol
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz samimiyedsiz oç
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
