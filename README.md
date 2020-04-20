@@ -3,7 +3,9 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- bkz yapay zekayı çalıştıran gavat -->
+<!-- bkz yapay zekayı çalıştıran gavat 
+https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
+-->
 
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
