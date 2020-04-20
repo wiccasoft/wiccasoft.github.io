@@ -7,6 +7,7 @@
 bkz deep turkish web
 bkz liselilerin güldürmesi
 bkz merve boğulur vs merve taşkın
+bkz türkeşçiler vs hüseyin atsızcılar
 bkz akırıcı türkler vs alper tungacılar
 bkz yunanların ışıda katılan türklere barbar demesi
 https://www.uludagsozluk.com/e/43203341/ içinden geçmiş pampa
