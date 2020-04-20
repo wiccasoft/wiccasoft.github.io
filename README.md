@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/czn-burak-ifşası/ yine dulşa soktun kardeş
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/batuhan-karadeniz/&w=bg bkz spoiler yürümeli seks makinesi
 bkz cem yılmazın yürümediği kızlar
