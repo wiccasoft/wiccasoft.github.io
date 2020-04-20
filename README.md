@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz çorumluların sörfayfır of weakest olması
 bkz sörfayfor yasin vs sörfayfor kerem
 bkz sörfayfor ıf fitıstım diyen kezo
 bkz ben senin bokunu yerim bokuna lan diyen azgın shit ağızlı kız
