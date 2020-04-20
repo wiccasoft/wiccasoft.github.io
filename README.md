@@ -2,6 +2,7 @@
 
 <!--
 bkz ayrılıkçı türkeşçiler
+bkz alper tungacılar vs  ıssız acuncular
 bkz merve taşkının ifşa ettiği sporcular
 bkz arda turanın yürümeyi kesmesi
 bkz instagramda kızlara yürüyen sapıklar
