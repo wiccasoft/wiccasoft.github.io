@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz senin bokunun bile çok severim diyen kız
 https://www.uludagsozluk.com/k/seni-%C3%A7ok-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim diyen kız
 bkz amınoğlu vs garipoğlu
 bkz sana sevdanın yolları bana kurşunlar diyen kız
