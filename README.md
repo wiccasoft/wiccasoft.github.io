@@ -8,6 +8,7 @@ bkz daeşe katılan türkçüler
 bkz sörfayfor yunus vs sörfayfor macun
 bkz kerem tunçerin fener bi kere verse sigerem demesi
 bkz kerem tunçerinin yine karılara yürümesi
+bkz türkçülerin ülkeye faydası ve alevilerin ülkeye faydası
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-%C3%BClkeye-olan-faydalar%C4%B1/&w=bg bkz kaçak sigara
 https://www.uludagsozluk.com/k/kemalistleri-mo%C4%9Folistana-s%C3%BCrmek/
 https://www.uludagsozluk.com/k/i%C5%9Fsiz-gezenlerin-%C3%BClkeye-faydas%C4%B1/ bkz min son
