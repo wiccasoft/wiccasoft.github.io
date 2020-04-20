@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunana damad
 bkz palu ailesine damat gitmek
 bkz bana türbanlı gelik giydir diyen türbanlı
 https://www.uludagsozluk.com/k/abdurrahman-dilipak/&w=bg bkz vicdanı pak dili pak 
