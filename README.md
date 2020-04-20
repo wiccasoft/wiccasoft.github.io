@@ -7,6 +7,8 @@
 bkz essynin iflah olmaz bir ibne olduğu gerçeği
 bkz imamaoğlunun ifşa olmamak için demeyi kapaması
 bkz iyestanın ifşa olmamak içinözel mesajları kapaması
+bkz basket topu suratlı kız kırmızı kafalı kız
+https://www.uludagsozluk.com/k/k%C4%B1rm%C4%B1z%C4%B1-kafal%C4%B1-esmer-tenli-yuvarlak-suratl%C4%B1-k%C4%B1z/
 https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg
 bkz rte nin ifşa edenler en adi oç dir demesi
 bkz rte nin ifşa linkleri cimere kapattırması
