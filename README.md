@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz türbanlıların altın varanklı kalorifer sevdası
+https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar%C4%B1n-alt%C4%B1n-varak-sevdas%C4%B1/ 
 bkz hayallerde yaşıyor google
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-google-la-daha-iyi-y%C3%B6netilece%C4%9Fi-ger%C3%A7e%C4%9Fi/
 bkz amın opğlu abdulhamdinin donanmayı piç etmesi
