@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
-https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en
+https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
 -->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
