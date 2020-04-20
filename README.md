@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz sörfayfor yunus vs sörfayfor macun
 https://www.uludagsozluk.com/k/abdurrahman-dilipak/&w=bg bkz dilipak vicdanı pak
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=gd bkz adam
 bkz deep turkish web
