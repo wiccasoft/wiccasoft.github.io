@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz türk erkekleri vs isveç erkekleri
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkekleri/&w=bg 
 bkz kürtleri sabun yapmanın gerekliliği
 https://www.uludagsozluk.com/k/k%C3%BCrtler-sayesinde-%C3%BClkenin-geli%C5%9Fti%C4%9Fi-ger%C3%A7e%C4%9Fi/ bkz sabun
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkekleri/&w=bg tıklamayın kızlar tık tuzağı
