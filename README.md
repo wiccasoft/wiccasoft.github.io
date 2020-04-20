@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz ak nonoşlar birbirini mi sikiyor sorunsalı
 bkz iyestanın  ak nonoşların lideri olması
 bkz essy nin iflah olmaz bir ibne olması
 https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg bkz essy
