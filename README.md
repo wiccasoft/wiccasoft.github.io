@@ -2,6 +2,7 @@
 
 <!-- 
 bkz czn burak ifşası
+https://www.instagram.com/sergeybrinofficial/?hl=en
 bkz sergey brin oğlunun yine yürümesi
 bkz kerem tunçerinin yine yürümesi
 bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
