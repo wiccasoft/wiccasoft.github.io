@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz elif can terimin wiccasofta ceo olması
 bkz elif can terimin damada selam ve dua ile wiccasoft ceo su yap demesi
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkekleri/&w=bg bkz uzak durulası erkekler
 bkz mansur yavaşın keçiören ak parti binasına suyu kesmesi
