@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-google-ve-windows-y%C3%B6netseydi/ zaten öyle amınferyadı
 bkz cem yılmazın serenay sarıkayay yürümesi
 bkz tarkan tevetoğlanın ebru gündeşi ifşa etmesi
 bkz tarkan tevetoğlan vs amınoğle ekrem
