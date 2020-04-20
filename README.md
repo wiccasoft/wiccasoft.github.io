@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amınoğlu ekrem vs body ekrem
 bkz fenevbahçe vs gassaray
 bkz amınoğlu ekrem vs gassaray
 bkz gassarayın 10 kişi kalması
