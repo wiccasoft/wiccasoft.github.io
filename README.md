@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-cep-telefonu/ bkz adam gibi adam telefonu
 bkz ios 9 u olmayıp adamım diye gezen tipler
 bkz fatih portakalın ios 9 kullanması
 bkz ifşa linki atmayan oç
