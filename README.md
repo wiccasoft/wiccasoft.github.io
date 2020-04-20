@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz defne amyelinin amımda kal türküyem pozu
 bkz türbanlıların altın varanklı kalorifer sevdası
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar%C4%B1n-alt%C4%B1n-varak-sevdas%C4%B1/ 
 bkz hayallerde yaşıyor google
