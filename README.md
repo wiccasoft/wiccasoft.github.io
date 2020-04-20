@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz kürtlerden sabun yapıp ülkeyi kalkındırmak
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-%C3%BClkeye-olan-faydalar%C4%B1/&w=bg bkz en iyi kürt ölü kürttür
 bkz kerem tunçerin bi kere versen bi sigerem demesi
 bkz zonguldaktan adam çıkmaması
 bkz adam gibi admaların türklerden çıkması
