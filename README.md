@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kererm tunçerinin paso yürümesi
+bkz kerem tunçeri deyince akla gelenler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-bence-ter%C3%B6rist/ bkz amınoğlu
 bkz amınoğlunun yine yürümesi
 bkz şeyma kaplıcalının italyan sevgilisine yürümesi
