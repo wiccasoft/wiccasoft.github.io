@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-yanl%C4%B1%C5%9Fl%C4%B1kla-500-bin-ton-yazd%C4%B1m-demesi/ bkz amınoğlu
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz şeytanın hileleri
 bkz şaka maka amınoğlunun makak maymunu gibi olması
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-imamo%C4%9Flu-nun-azalarak-bitmesi/
