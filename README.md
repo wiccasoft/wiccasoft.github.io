@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz kerem tunçerin bi kere versen bi sigerem demesi
 bkz zonguldaktan adam çıkmaması
 bkz adam gibi admaların türklerden çıkması
 bkz adam gibi adam çıkan iller sıralı tam liste
