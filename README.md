@@ -6,6 +6,7 @@
 <!--
 bkz deep turkish web
 bkz liselilerin güldürmesi
+bkz burak özçivitin türk oğlu türküm demesi
 bkz serdar ortaçın asıl türk biziz demesi
 bkz burak özçivitin ışıda katılması
 bkz merve boğulur vs merve taşkın
