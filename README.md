@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/garavel-ustayla-tan%C4%B1%C5%9Fmak-istemek/ bkz bul benim adım garavel
 bkz lise çıkışı sevdiceğine laf atan serserileri döven kız
 bkz seni sevmeyen oç larını bana  bildir diyen kız
 bkz seni sevmeyen ölsün diyen kız
