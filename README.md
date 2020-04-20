@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ekrem amınoğlunun çöp toplamayn işçileri azarlaması
 bkz mustafa atacücü vs recep ata gücü
 bkz ekremin amınoğlu olduğunun kabul edemeyen laikçiler
 bkz ekremin amınoğlu olduğu gerçeği
