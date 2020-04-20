@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!--
+bkz ifşa linki atmayan oç
 bkz sergey brin larry page ifşası
 bkz merve taşkın emre mor ifşası
 bkz elif naz çelik hamdi alkan ifşası
