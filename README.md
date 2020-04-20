@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz kerem tunçeri yi googlamak işinaslını öğrenmek
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz kerem tunçeri yürümesi
 bkz emre mor yürümesi vs kerem tunçeri yürümesi
