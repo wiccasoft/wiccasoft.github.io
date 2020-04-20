@@ -5,7 +5,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-anti-panzehirini-bulan-adam/ bkz zehir gibi adam
-bkz tindere deliknalı adamın delikanlı sevgilisi olur butonu istiyoruz kampanyası
+bkz tindere delikanlı adamın delikanlı sevgilisi olur butonu istiyoruz kampanyası
 bkz tinderden adama gibi adam çıkmaması
 bkz tinderde kızlarla eşleşen sapık dayı
 bkz ekşici kızların uzanamadığı kereme bok atması
