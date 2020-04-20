@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz eşcinsellerin hapishanedeki adamlara olan zaafı
 bkz min sonun hapisteki resimlerimi bulması
 bkz hapisten instagrama resim atmak
 bkz palu ailesinin gururu olmak
