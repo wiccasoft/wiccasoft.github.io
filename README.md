@@ -4,7 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bnkz amınoğlu ekrem
+bkz amınoğlu ekrem
+bkz imamoğlu ona hep oç der vs rall
 bkz yüzde yüz yerli ve milli aknonoş
 bkz ak nonoşlar birbirini mi sikiyor sorunsalı
 bkz iyestanın  ak nonoşların lideri olması
