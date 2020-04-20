@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/erkeklere-bal%C4%B1k-ayran-%C4%B1smarlamak/ ay kız bunlara değmez ayol
 bkz soyadınmın oğlu ile bittiğini sanan amınoğulları
 bkz hala adıma başlık açamayan ezikler
 https://www.uludagsozluk.com/e/43203314/ bkzarkdaşları ona garipoğlan diyi
