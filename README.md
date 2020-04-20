@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz tinderden adama gibi adam çıkmaması
 bkz tinderde kızlarla eşleşen sapık dayı
 bkz ekşici kızların uzanamadığı kereme bok atması
 bkz ekşici kızların kerem tunçeri taciz edip reklam yapması
