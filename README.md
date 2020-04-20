@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz davudi oğlan aşireti
-bkz anam boçacı bubam oç diyen kız
+bkz anam boçacı bubam pezemenk diyen kız
 bkz kerem tunçerin ekşici kızlara yürümesi
 bkz aslan akbey duran emmiyi polatı emikledi diye öldürmesi
 bkz gökhan dmerikolun aknonşlara alet fotosu atması
