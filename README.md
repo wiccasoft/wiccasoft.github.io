@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz kerem tunçerinin yürüdüğü kızlar sıralı tam liste
 bkz kerem tunçerinin paso yürümesi
 bkz kerem tunçerinin bot olma ihtimali
 bkz terminatör de ona buna yürüyen robot
