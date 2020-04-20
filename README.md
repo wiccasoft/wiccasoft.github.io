@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amınoğlu ekremin cama tıklayıp su faturası geldi mi demesi
 bkz amınoğlu ekremin gece gece cama tıklaması
 bkz amınoğlu ekremin amınoğlu olduğunu itiraf etmesi
 bkz amınoğlu ekremin amınoğlu olması
