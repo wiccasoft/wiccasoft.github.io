@@ -6,7 +6,9 @@ bkz feönün trumpla papaz olması
 bkz fedön acele etme papaz efendi dosluğu
 bkz fedönün tayyiple barış sinyalleri çakması
 bkz abdurrahim albyrakın canlı yayında kızı için ağlaması
-bkz beni mi çok seviyosun işini mi diyen kız-->
+bkz beni mi çok seviyosun işini mi diyen kız
+https://www.uludagsozluk.com/k/50-y%C4%B1l-sonra-rte-hakk%C4%B1nda-a%C3%A7%C4%B1lacak-ba%C5%9Fl%C4%B1klar/
+-->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
 
