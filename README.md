@@ -3,6 +3,7 @@
 <!-- 
 bkz tam cidiye alcam bi gülme geliyor
 bkz ios 9 u olmayan birini ciddiye almak
+https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular lol
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz iphone u olmayıp adamım diye gezenler
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz malum partiye oy veren malum kesim
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz amınoğlu ekrem
