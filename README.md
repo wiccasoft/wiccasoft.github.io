@@ -2,6 +2,7 @@
 
 <!-- 
 bkz ayrılıkçı alpaslan türkeşçiler
+bkz alper tunganın yine kızlar yürümesi
 bkz baruhan karadenizin kerem tunçerinin yürüdüğü karıya yüyümesi
 bkz amınoğlunun spastik oğlunun facebook ta kızlara yürümesi
 bkz amınoğlu deyince akla gelen ilk imge
