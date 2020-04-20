@@ -7,6 +7,7 @@ bkz sergey brin larry page ifşası
 bkz merve taşkın emre mor ifşası
 bkz elif naz çelik hamdi alkan ifşası
 bkz gamze özçelik gökhan demirkol ifşası
+bkz şaka maka ifşa sezonunun açılması
 bkz türklerin sosyal medyayı ifşa için kullanmaları
 bkz cem garipoğlu münevver karabulut facebook konuşmaları ifşası
 bkz whatsuptan whatsup yazan sapıkı ifşa etmem
