@@ -3,15 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- 
-bkz yapay zekayı çalıştıran gavat 
-bkz aknonoşları çalıştırmayan gavat
-bkz ekrem amınoğlunun eşşeğin amına su kaçırması
-bkz imamoğlu ona hep oç der vs frank lucas
-https://www.uludagsozluk.com/e/43205430/ sizi kim sikler lan bebeler
-https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
--->
-
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
