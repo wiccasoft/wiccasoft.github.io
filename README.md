@@ -4,11 +4,11 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-https://www.uludagsozluk.com/k/sar%C4%B1kl%C4%B1-c%C3%BCbbeli-erkek-karizmas%C4%B1/&w=bg bkz ekşici kızlar
 bkz ekşici kızların uzanamadığı kereme bok atması
 bkz ekşici kızların kerem tunçeri taciz edip reklam yapması
 bkz kerem tunçerin ekşicilere mahkemede gömüşürük kızlar demesi
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-mahkemede-g%C3%B6r%C3%BC%C5%9F%C3%BCr%C3%BCz-demesi/
+https://www.uludagsozluk.com/k/sar%C4%B1kl%C4%B1-c%C3%BCbbeli-erkek-karizmas%C4%B1/&w=bg bkz ekşici kız saçmalaması
 bkz facebooktan kızımı sik diye mesaj atan ekşici kızın babası
 bkz türkiyede kadınların orospu olması
 bkz facebook ta kızlara yürüyen dayı
