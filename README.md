@@ -7,6 +7,7 @@
 bkz deep turkish web
 bkz liselilerin güldürmesi
 bkz merve boğulur vs merve taşkın
+bkz ışıda katılan türkler vs ışıda katılan yunanlar
 https://www.uludagsozluk.com/e/43203341/ içinden geçmiş pampa
 bkz merve boğulurun alp kılıç kim amk demesi
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur-un-alp-k%C4%B1l%C4%B1%C3%A7-a-koydu%C4%9Fu-posta/
