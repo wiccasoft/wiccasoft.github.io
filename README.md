@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz amınoğlu ekremin akp il binasına suyu kesmesi
 https://www.uludagsozluk.com/k/versus-vs-ekrem-imamo%C4%9Flu/ bkz amınoğlue ekrem
 https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
