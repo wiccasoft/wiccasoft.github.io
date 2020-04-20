@@ -5,6 +5,7 @@
 
 <!--
 bkz ifşa linki at oç
+bkz chpli belediyelerin akitleri zehirlemesi
 bkz defne amyeli amımda kal türküyem pozu
 bkz sergey brin larry page ifşası
 bkz dünya lideri profil arka planı
