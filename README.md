@@ -5,6 +5,7 @@
 
 <!--
 bkz millet hizmet beklerken kknın osura osura uyuması
+https://www.uludagsozluk.com/k/k%C3%BCrtler-sayesinde-%C3%BClkenin-geli%C5%9Fti%C4%9Fi-ger%C3%A7e%C4%9Fi/ bkz kk
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz türk erkeği
 https://www.uludagsozluk.com/k/ak-parti-nin-verilen-t%C3%BCm-%C5%9Fanslar%C4%B1-harcamas%C4%B1/ bkz bi şans saha versen
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkekleri/&w=bg ay kızlar uzak durun ayol
