@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz amın opğlu abdulhamdinin donanmayı piç etmesi
+https://www.uludagsozluk.com/k/abd%C3%BClhamidin-donanmay%C4%B1-%C3%A7%C3%BCr%C3%BCtmesi/&w=bg bka amın oğlu abdul
 bkz sosyal medyada  kızlarla flört eden sapık erkekler
 bkz kerem tunçeri ifşası
 https://www.uludagsozluk.com/k/tarkan/&w=bg bk atıl kurt
