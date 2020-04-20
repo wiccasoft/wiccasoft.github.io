@@ -7,6 +7,7 @@
 bkz zonguldaktan adam çıkmaması
 bkz adam gibi admaların türklerden çıkması
 bkz adam gibi adam çıkan iller sıralı tam liste
+bkz kerem tunçerin yürü,düğü kıza  bi kere versen bi sigerem demesi
 bkz hatay araplarının arapçılığı özendirmesi
 bkz arap dinin için göt veren türkler
 bkz selahaddin eyyübinin türkleri kılıçtan geçirip arap yapması
