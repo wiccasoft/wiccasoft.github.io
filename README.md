@@ -4,11 +4,9 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
-bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
-bkz ekremin amınoğlu olduğu gerçeği
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz amınoğulları
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/versus-vs-ekrem-imamo%C4%9Flu/ bkz amınoğlue ekrem
-bkz ekrem amınoğlu vs şener şen
-bkz amınoğlu ekrem ancak rte nin prezervatifimni giydirir
 https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-yanl%C4%B1%C5%9Fl%C4%B1kla-500-bin-ton-yazd%C4%B1m-demesi/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-g%C3%B6sterip-mansur-yava%C5%9F-a-ikna-etmek/ bkz şeytanın hileleri
