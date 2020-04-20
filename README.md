@@ -5,6 +5,7 @@
 
 <!--
 bkz rte nin kk ya yürümesi
+bkz özelden alet fotosu atan ergen
 bkz rte nin özelden alet fotosu atanları ifşa etmesi
 bkz gökhan demirkolun ezgi naz çelik attığı alet fotosu
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ emeğine aktım kardeş
