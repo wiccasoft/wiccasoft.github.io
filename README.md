@@ -3,6 +3,7 @@
 <!--
 bkz amınoğlu vs garipoğlu
 bkz senin bokunun bile yerim diyen kız
+https://www.uludagsozluk.com/k/seni-%C3%A7ok-seviyorum-diyen-k%C4%B1z/ bkz münevver karabulut
 bkz münevver karabulutun cem garipoğlana senin bokunun yerim demesi
 https://www.uludagsozluk.com/k/erkeklere-bal%C4%B1k-ayran-%C4%B1smarlamak/ ay kız bunlara değmez ayol
 bkz soyadınmın oğlu ile bittiğini sanan amınoğulları
