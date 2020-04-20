@@ -4,6 +4,9 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/versus-vs-ekrem-imamo%C4%9Flu/ bkz amınoğlue ekrem
+https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz amın yavaşoğlu
 bkz amınoğlu ekrem ancak tayyibin prezervatifini takar
 https://www.uludagsozluk.com/k/abd%C3%BClhamidin-donanmay%C4%B1-%C3%A7%C3%BCr%C3%BCtmesi/&w=bg bkz abdulamcıkoğlu
