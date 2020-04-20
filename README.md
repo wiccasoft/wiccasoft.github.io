@@ -5,6 +5,8 @@
 
 <!--
 bkz amınoğlu ekremin akp il binasına suyu kesmesi
+bkz amınoplu ekremin yanlışlıkla akp binasının suyunu kestim demesi
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-yanl%C4%B1%C5%9Fl%C4%B1kla-500-bin-ton-yazd%C4%B1m-demesi/ bkz amınoğlu
 https://www.uludagsozluk.com/k/versus-vs-ekrem-imamo%C4%9Flu/ bkz amınoğlue ekrem
 https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
