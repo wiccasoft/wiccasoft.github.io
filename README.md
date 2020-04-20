@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz kerim tunçeri yürümesi vs macun kaplıcalı yürümesi
 bkz macun kaplıcalı vs murat boz
 bkz kerim durmaz vs kerem tunçeri
 bkz kerem tunçeri vs pasa parola sunucusu
