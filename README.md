@@ -5,6 +5,7 @@
 
 <!--
 bkz ifşa linki at oç
+https://www.uludagsozluk.com/k/akp-ve-mhp/&w=bg bkz vicdanı hürlerin partileri
 bkz sergey brin larry page ifşası
 bkz dünya lideri profil arka planı
 bkz gamze özçelik gökhan demirkol ifşası full link
