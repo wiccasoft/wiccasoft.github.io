@@ -4,6 +4,7 @@
 <!--
 bkz ifşa linki atmayan oç
 bkz ismet inöcünün polat alemdarın gölgesinde kalması
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olman%C4%B1n-avantajlar%C4%B1/&w=bg bkz ifşa linkleri
 https://www.uludagsozluk.com/k/milli-kahraman-ismet-in%C3%B6n%C3%BC/&w=bg bkz ismet inöcü
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlu one hep oç der
 bkz mansur yavaşın profiline girip mouse ile yanaklarını sevmek
