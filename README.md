@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem 
 bkz ekremin amınoğlu olduğu gerçeği
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/arkada%C5%9Flar-garo-mafyan-mafya-m%C4%B1/ bkz atacücünün zeki dediği malum ırk
