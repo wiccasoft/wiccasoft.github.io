@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
 bkz ekremin amınoğlu olduğu gerçeği
 https://www.uludagsozluk.com/k/versus-vs-ekrem-imamo%C4%9Flu/ bkz amınoğlue ekrem
 bkz ekrem amınoğlu vs şener şen
