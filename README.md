@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz oç kürtleri sabun yapma gerekliliği
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-azeri-t%C3%BCrklerine-yapt%C4%B1%C4%9F%C4%B1-sulduz-katliam%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/erkekleri-%C3%A7ekici-yapan-detaylar/&w=bg sörfayfır izlemesi
 bkz bahçelinin tayyibe fedönün siyasi ayağı dediği zamanlar
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-rte-ye-s%C3%B6vd%C3%BC%C4%9F%C3%BC-y%C4%B1llarda-ali-babacan/
