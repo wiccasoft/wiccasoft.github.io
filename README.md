@@ -5,14 +5,13 @@
 
 <!--
 bkz amınoğlu ekremin akp il binasına suyu kesmesi
+bkz amınoğlu ekrem ancak tayyibin prezervatifini takar
 bkz amınoplu ekremin yanlışlıkla akp binasının suyunu kestim demesi
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C5%9Firketler-y%C3%B6netseydi-ne-olurdu/ bkz rte işsiz kalırdı
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-yanl%C4%B1%C5%9Fl%C4%B1kla-500-bin-ton-yazd%C4%B1m-demesi/ bkz amınoğlu
-https://www.uludagsozluk.com/k/versus-vs-ekrem-imamo%C4%9Flu/ bkz amınoğlue ekrem
 https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz amın yavaşoğlu
-bkz amınoğlu ekrem ancak tayyibin prezervatifini takar
 https://www.uludagsozluk.com/k/abd%C3%BClhamidin-donanmay%C4%B1-%C3%A7%C3%BCr%C3%BCtmesi/&w=bg bkz abdulamcıkoğlu
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-yanl%C4%B1%C5%9Fl%C4%B1kla-500-bin-ton-yazd%C4%B1m-demesi/ bkz amınoğlu
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-vs-ekrem-imamo%C4%9Flu/&w=bg bkz amınoğulları
@@ -249,61 +248,11 @@ bkz terminatör de ona buna yürüyen robot
 https://www.uludagsozluk.com/k/czn-burak-ifşası/ yine dulşa soktun kardeş
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/batuhan-karadeniz/&w=bg bkz spoiler yürümeli seks makinesi
-bkz cem yılmazın yürümediği kızlar
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz paso kızlara yürümek
-https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa yürüyo efenim
 bkz emre morun yürüdüğü kıza yürüyecek kadar düşmek
 bkz arada turanın evlendikten sonra yürümeyi kesmesi
 bkz batuhan karadenizin kızlara yüymeye ihtiyacım yok açıklaması
 https://www.uludagsozluk.com/e/43203137/ bkz kamalcı kişilik bozukluğu
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C5%9Firketler-y%C3%B6netseydi-ne-olurdu/ bkz rte işsiz kalırdı
-bkz ayrılıkçı alpaslan türkeşçiler
-bkz alper tunganın ıssız acuna yürümesi
-bkz sahte kerim tunçeri hesabı açıp kızlara yürümek
-bkz baruhan karadenizin kerem tunçerinin yürüdüğü karıya yüyümesi
-bkz amınoğlunun spastik oğlunun facebook ta kızlara yürümesi
-bkz amınoğlu deyince akla gelen ilk imge
-bkz şener şen amınoğlu benzerliği
-bkz amınoğlu deyince akılda beliren imgeler bütünü sorunsalı
-bkz kerem tunçerinin paso yürümesi
-bkz kerem tunçeri deyince akla gelenler
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-bence-ter%C3%B6rist/ bkz amınoğlu
-bkz amınoğlunun yine yürümesi
-bkz şeyma kaplıcalının italyan sevgilisine yürümesi
-bkz kerim tunçeri yürümesi vs macun kaplıcalı yürümesi
-bkz kerem tunçeri vs pasa parola sunucusu
-https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz kerem tunçerinin yine yürümesi
-bkz czn burak ifşası
-https://www.instagram.com/sergeybrinofficial/?hl=en
-bkz sergey brin oğlunun yine yürümesi
-bkz kerem tunçerinin yine yürümesi
-bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
-bkz ekrem amınoğlunun amınoğlu olduğu gerçeği
-bkz amınoğlu ekrem deyince zihinde beliren imaj
-bkz kerim tekin  deyince akla gelenler
-bkz kerimcan durmazın sessizliğini koruması
-bkz kerem tunçeri yi googlamak işin aslını öğrenmek
-https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz kerem tunçeri yürümesi
-bkz emre mor yürümesi vs kerem tunçeri yürümesi
-bkz kerem tunçerinin bir maç ceza alması
-bkz emcüğünü emüklerim yazılan kezonun hemen demeyi kapaması
-bkz kerem tunçeri kim amk
-bkz tam cidiye alcam bi gülme geliyor
-bkz ios 9 u olmayan birini ciddiye almak
-bkz androidli çapulcu kızın ios 9 lu adama deme kapaması
-bkz 20 nisan 2020 kızların demeyi kapaması
-https://www.uludagsozluk.com/k/y%C3%BCce-atat%C3%BCrk/&w=bg bkz yücelerin yücesi en yüce
-https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/ bkz kerimcan durmaz
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz ios9 la kızlara yürümek
-https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular lol
-https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz emre mor yürümeleri
-https://eksisozluk.com/istanbullu-mallar-yuzunden-evde-tikili-kalmak--6482485?a=popular lol
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz samimiyedsiz oç
-https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
-https://eksisozluk.com/bulent-ecevit-denince-akla-gelenler--4390006?a=popular gara oğlan
-https://eksisozluk.com/ekmeleddin-ihsanoglu--497451?a=popular bkz eppeleddin
 -->
 
 [![Image](prototype/Screenshot_2020-04-15_21-18-58.png)]( https://www.youtube.com/watch?v=GNX6DnTmszQ&feature=youtu.be&t=394 )
