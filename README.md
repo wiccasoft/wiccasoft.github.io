@@ -5,8 +5,8 @@
 
 <!--
 bkz kerem tunçerin ekşicilere mahkemede gömüşürük kızlar demesi
-bkz annesini siktirecek kadar alçalmak
-bkz facebooktan karımı sik diye mesaj atan ekşicinin babası
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-mahkemede-g%C3%B6r%C3%BC%C5%9F%C3%BCr%C3%BCz-demesi/
+bkz facebooktan kızımı sik diye mesaj atan ekşici kızın babası
 bkz türkiyede kadınların orospu olması
 bkz facebook ta kızlara yürüyen dayı
 bkz evlenirsek eski tokmakçılarınla görüşebilrisin diyen adam
