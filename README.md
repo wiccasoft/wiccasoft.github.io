@@ -5,6 +5,7 @@
 
 <!-- 
 bkz amınoğlu ekrem
+bkz şaka maka aknonoşları sabun yapıpı ülke ekonomisini kalkındırmak
 bkz imamoğlu ona hep oç der vs rall
 bkz yüzde yüz yerli ve milli aknonoş
 bkz ak nonoşlar birbirini mi sikiyor sorunsalı
