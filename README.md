@@ -21,6 +21,7 @@ bkz şaka maka amınoğlu ekremin bitmesi
 bkz fatih portakal çığlak ifşa full rar arşiv
 bkz merve taşkın kerem tunçeri ifşası full link isteyene satarım
 https://www.uludagsozluk.com/k/czn-burak-ifşası/ emeğine aktım kardeş
+https://www.uludagsozluk.com/k/fa%C5%9Fist-diktat%C3%B6r-ismet-in%C3%B6n%C3%BC/&w=bg emeğine aktım kardeş
 -->
 
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
