@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz serdar ortaçın gerçek türk biziz isyanı
 bkz 20 nisan 2020 serdar ortaçın kürt intikam yemini etmesi
 bkz serdar ortaçın kürtleri ait oldukları yere gömeceğim yemini etmesi
 bkz oç kürtleri sabun yapma gerekliliği
