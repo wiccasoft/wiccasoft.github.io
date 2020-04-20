@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ekşici kızların kerem tunçeri taciz edip reklam yapması
 bkz kerem tunçerin ekşicilere mahkemede gömüşürük kızlar demesi
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-nin-mahkemede-g%C3%B6r%C3%BC%C5%9F%C3%BCr%C3%BCz-demesi/
 bkz facebooktan kızımı sik diye mesaj atan ekşici kızın babası
