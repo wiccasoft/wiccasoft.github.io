@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
 <!-- 
+bkz endüstri meslek lisli mezunu birini ciddi ciddi ifşa etmek
 bkz defne amyeli amımda kal türküyem pozu
 bkz facebook ta kızlara yazan dayı
 bkz merve taşkının loris karius ifşası
