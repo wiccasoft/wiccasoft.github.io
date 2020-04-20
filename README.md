@@ -3,6 +3,7 @@
 
 <!-- 
 bkz kerem tunçerin ekşici kızlara yürümesi
+bkz aslan akbey duran emmiyi polatı emikledi diye öldürmesi
 https://www.uludagsozluk.com/k/resim-%C3%A7izen-k%C4%B1z/&w=bg bkz alı bekiroğlan
 https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg -->
 
