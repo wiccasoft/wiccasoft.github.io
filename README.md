@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz hala adıma başlık açamayan ezikler
 https://www.uludagsozluk.com/e/43203314/ bkzarkdaşları ona garipoğlan diyi
 bkz cem garipoğlu münevver karabulut ifşası
 bkz cem garipoğlanın facebooktaki münevver karabulut mesajarını silmesi
