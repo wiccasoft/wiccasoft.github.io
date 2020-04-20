@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
-<!-- 
+<!--
+bkz ben senin bokuna eppek basar yerim eppek diyen kız
 bkz senin bokunu bile seviyorum diyen kız
 bkz ben senin bokuna bile seranat yaparım diyen kız
 bkz ben senimn bokunu bile yerim bokunu lan diyen kız
