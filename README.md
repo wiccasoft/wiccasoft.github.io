@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz 20 nisan 2020 serdar ortaçın kürt intikam yemini içmesi
 bkz serdar ortaçın kürtleri ait oldukları yere gömeceğim yemini etmesi
 bkz oç kürtleri sabun yapma gerekliliği
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-azeri-t%C3%BCrklerine-yapt%C4%B1%C4%9F%C4%B1-sulduz-katliam%C4%B1/&w=bg
