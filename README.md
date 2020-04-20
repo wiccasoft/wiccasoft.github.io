@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz macun kaplıcalının ben gavat değilim demesi
+bkz macun kaplıcalının ben karıyı çalıştıracak kadar gavat değilim demesi
 bkz gökhan demirkolun özelden alet fotosu yollaması
 bkz süleyman soylunun soyumuz kıpçaklara dayanır açıklaması
 -->
