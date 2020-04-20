@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/ibrahim-z%C3%BCb%C3%BCkzade-vs-avukat-burhan-bey/&w=bg bkz amınoğlu ekrem ve zübük
 bkz şaka maka amınoğlu ekremin iyice kaşınması
 bkz amınoğlu ekremin şaka maka eşşeğin amın su kaçırması
 bkz amınoğlu ekrem vs amınsıçtığı yavaş
