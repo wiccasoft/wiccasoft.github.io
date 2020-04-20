@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/abdurrahman-dilipak/&w=bg bkz vicdanı pak dili pak 
 bkz merve taşkının kerem tunçeri ifşa etmesi
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-i%C3%A7in-vibrat%C3%B6r-alan-erkek/ bkz küçük pipili adam
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-anti-panzehirini-bulan-adam/ bkz zehir gibi adam
