@@ -5,6 +5,7 @@
 
 <!-- 
 bkz amınoğlu ekrem
+bkz aknonoşların deep webte işlediği suçlar
 bkz aknonoşların ne işe yaradıkları sorunsalı
 bkz aknonşları vibratör fabrikasında çalıştırmak
 bkz aknonoşların prezervatif takma işinde kullanmak
@@ -14,6 +15,7 @@ bkz yüzde yüz yerli ve milli aknonoş
 bkz ak nonoşlar birbirini mi sikiyor sorunsalı
 bkz iyestanın  ak nonoşların lideri olması
 bkz essy nin iflah olmaz bir ibne olması
+https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
 https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg bkz essy
 bkz rank lucasın iflash olmaz bir ak nonoş olması
 bkz frank lucas diye nick alan ak nonoş
