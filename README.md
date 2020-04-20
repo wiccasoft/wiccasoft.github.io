@@ -2,11 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 ),
 
 <!-- 
-https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz davudi oğlan aşireti
 bkz anam boçacı bubam pezemenk diyen kız
 bkz kerem tunçerin ekşici kızlara yürümesi
 bkz aslan akbey duran emmiyi polatı emikledi diye öldürmesi
-bkz gökhan dmerikolun aknonşlara alet fotosu atması
+bkz gökhan dmerikolun aslı bekiroğlana özelden alet fotosu atması
 bkz rtükün aslan akbeyin seyfo dayıyla yiyişme sahnesini kesmesi
 https://www.uludagsozluk.com/k/aslan-akbey-ve-pala-n%C4%B1n-yasak-a%C5%9Fk%C4%B1/
 https://www.uludagsozluk.com/k/anam-boh%C3%A7ac%C4%B1-babam-zurnac%C4%B1-diyen-k%C4%B1z/ bkz aleyna tilki
