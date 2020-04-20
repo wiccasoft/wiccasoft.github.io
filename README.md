@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz sgopa kajmer fifti cent ifşası
 https://www.uludagsozluk.com/k/ak-parti-nin-yapt%C4%B1%C4%9F%C4%B1-en-iyi-%C5%9Fey/&w=bg bkz yol
 bkz türbanlıların altın varanklı saray sevdası
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar%C4%B1n-alt%C4%B1n-varak-sevdas%C4%B1/
