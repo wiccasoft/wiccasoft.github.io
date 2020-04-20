@@ -3,6 +3,7 @@
 <!-- 
 bkz ayrılıkçı alpaslan türkeşçiler
 bkz alper tunganın ıssız acuna yürümesi
+bkz sahte kerim tunçeri hesabı açıp kızlara yürümek
 bkz baruhan karadenizin kerem tunçerinin yürüdüğü karıya yüyümesi
 bkz amınoğlunun spastik oğlunun facebook ta kızlara yürümesi
 bkz amınoğlu deyince akla gelen ilk imge
