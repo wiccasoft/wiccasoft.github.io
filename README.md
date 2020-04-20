@@ -4,7 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
-bkz emre mor full 2019-2020 ifşa arşivi rar şifresiz 100 tl
+bkz emre mor full 2019-2020 sezonu ifşa arşivi rar şifresiz 100 tl temiz doktordan
 bkz izel çelik ercan ifşası full link
 bkz fatih bulutun fatih tezcanın demesine üç el ateş etmesi
 bkz cem yılmazdan sarıkayıyı hoplattım nabacanız paylaşımı
