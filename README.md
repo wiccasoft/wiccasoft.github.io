@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz macun kaplıcalının şeymayı çalıştırcak kadar gavat değilim demesi
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-cep-telefonu/ bkz ios 9 
 bkz karısının çalışmasına şizin veren cucuk old
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg
