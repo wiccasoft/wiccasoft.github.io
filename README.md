@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz em çok seni şok şeviyoyum diyen kız
 bkz yanaktan makas alıp lan olm senin poponu ıstırırım lan poponu diyen kız
 bkz yangın çıksa ilk seni kurtarırım diyen kız
 bkz denize düşsen ilk seni kurtarırım diyen kız
