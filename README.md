@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz izel çelik ercan ifşası full link
 bkz fatih bulutun fatih tezcanın demesine üç el ateş etmesi
 bkz cem yılmazdan sarıkayıyı hoplattım nabacanız paylaşımı
 bkz defne amyeliden amımda kal türküyüm paylaşımı
