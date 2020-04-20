@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+https://www.uludagsozluk.com/k/sar%C4%B1kl%C4%B1-c%C3%BCbbeli-erkek-karizmas%C4%B1/&w=bg bkz ekşici kızlar
 bkz ekşici kızların uzanamadığı kereme bok atması
 bkz ekşici kızların kerem tunçeri taciz edip reklam yapması
 bkz kerem tunçerin ekşicilere mahkemede gömüşürük kızlar demesi
