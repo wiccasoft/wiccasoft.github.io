@@ -3,44 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- 
-bkz amınoğlu ekrem
-bkz aknonoşların deep webte işlediği suçlar
-bkz aknonoşların ne işe yaradıkları sorunsalı
-bkz aknonşları vibratör fabrikasında çalıştırmak
-bkz aknonoşların prezervatif takma işinde kullanmak
-bkz şaka maka aknonoşları sabun yapıpı ülke ekonomisini kalkındırmak
-bkz imamoğlu ona hep oç der vs rall
-bkz yüzde yüz yerli ve milli aknonoş
-bkz ak nonoşlar birbirini mi sikiyor sorunsalı
-bkz iyestanın  ak nonoşların lideri olması
-bkz essy nin iflah olmaz bir ibne olması
-https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
-https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg bkz essy
-bkz rank lucasın iflash olmaz bir ak nonoş olması
-bkz frank lucas diye nick alan ak nonoş
-bkz karımı çalıştırmam diyen ak nonoşlar
-bkz ak nonoşların sanki biraz şey olması 
-bkz karımı çalıştırmam ben çalışıorım diyen enayi godoşlar
-https://www.uludagsozluk.com/k/%C5%9Feref-yoksunu-ak-troller/&w=bg bkz ak gavatlar
-bkz macun kaplıcalının karı çalıştırılırmı lan gavatlar demesi
-bkz karısını çalıştırmayan gavat 
-bkz hayallerde yaşıyor bazı ibneler
-bkz hayalindeki adama küfreden ergen ibneler
-bkz hem gavat hem ibnelerin genellikle erkek delisi olması
-bkz gavatların genellikle başkalarının erkeklerinde gözü olması
-bkz godoşların genellikle ibne olması
-bkz karısını çalıştırmayan gavat
-bkz macun kaplıcalının karısını çalıştıranlara gavat demesi
-bkz essy nin iflah olmaz bir ibne olduğu gerçeği
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg
-https://www.uludagsozluk.com/k/erkekler-tuvaletinin-kap%C4%B1s%C4%B1nda-bekleyen-erkek/&w=bg bkz essy
-bkz gökhan demirkolun nazlı çelike yolladığı alet fotosu
-bkz macun kaplıcalının şeymayı çalıştırcak kadar gavat değilim demesi
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-cep-telefonu/ bkz ios 9 
-bkz karısının çalışmasına şizin veren cucuk old
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg
--->
 
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
