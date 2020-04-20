@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!--
+bkz ayrılıkçı yunanalar vs ayrılıkçı sünniler
 bkz ayrılıkçı kürtleri sabun yapalım kampanyası
 bkz ayrılıkçı türkçülerin türkçe sosyal medya istiyoruz kampanyası
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/&w=bg bkz ayrılıkçı türkçüler
