@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 <!-- 
+bkz gökhan demirkolun nazlı çelike yolladığı alet fotosu
 bkz macun kaplıcalının şeymayı çalıştırcak kadar gavat değilim demesi
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-cep-telefonu/ bkz ios 9 
 bkz karısının çalışmasına şizin veren cucuk old
