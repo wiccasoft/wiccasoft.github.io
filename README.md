@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz dünyayı şirketlerin yönetmediği sanan ülkücü kamalcı karışımı yaratık
+https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C5%9Firketler-y%C3%B6netseydi-ne-olurdu/ bkz rte işsiz kalırdı
 bkz ayrılıkçı alpaslan türkeşçiler
 bkz alper tunganın ıssız acuna yürümesi
 bkz sahte kerim tunçeri hesabı açıp kızlara yürümek
