@@ -3,7 +3,7 @@
 <!-- 
 bkz ayrılıkçı fedöncüler
 bkz feönün trumpla papaz olması
-bkz fedönün rte ye yanlaması
+bkz fedön acele etme papaz efendi dosluğu
 bkz fedönün tayyiple barış sinyalleri çakması
 bkz abdurrahim albyrakın canlı yayında kızı için ağlaması
 bkz beni mi çok seviyosun işini mi diyen kız-->
