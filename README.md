@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz amınoğlu ekremin amınoğlu olduğu gerçeği
 bkz amınoğlu ekremin babasının oğluma amınoğlu demeyin demesi
 bkz amınoğlu ekremin bol keseden sallaması
 bkz amınoğlu ekremin kaleciydim yalanları
