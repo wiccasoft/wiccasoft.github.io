@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz hala phpcli grup yorum konserine giden ekrem amınoğlunu savunan ak itler
 bkz ekrem amınoğlunun grup yorum konserine gitmesine ses etmeyen ak itler
 bkz ekrem amınoğlunun grup yorum konserine gitmesi
 bkz grup yorum solistinin intihar etmesi
