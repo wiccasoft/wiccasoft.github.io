@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-19_00-04-11.png)]( https://www.youtube.com/watch?v=EkVqm76ylew )
 
 <!-- 
+bkz grup yorum solistinin intihar etmesi
 bkz amınoğlu diye soyadım olacak intihar ederim lan
 bkz amınoğlu ekrem ağalayacaksan oynamayalım
 bkz amınoğlu ekremin babasının oğluma amınoğlu demeyşn demesi
