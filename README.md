@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+https://www.uludagsozluk.com/k/jacobs-reklam%C4%B1ndaki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam/ bkz gözleriyle sikmek
 https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi&w=bg/2/ lol
 bkz gitler neden rusyaya saldırdı sorundalı
 bkz gitlerin türkiyeye girmeme sebepleri sorunsalları
