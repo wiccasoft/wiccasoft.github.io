@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz malum ırk
 https://www.uludagsozluk.com/k/bug%C3%BCn-getirilen-ek-vergiler/ kokoş laiklere büyük darbe :D
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa parola kerem
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C5%9Fah%C4%B1s/&w=bg bkz malum şahıs
