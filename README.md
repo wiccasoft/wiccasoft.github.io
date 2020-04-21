@@ -1,8 +1,9 @@
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
-<!-- https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz polat alemdar 
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz kızlara yürüyen sapık
+<!-- 
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz polat alemdar 
+https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz demeden kızlara yürüyen sapık
 -->
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
