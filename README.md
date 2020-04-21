@@ -3,6 +3,7 @@
 
 <!--
 bkz türbanlıların oç olması
+bkz türban neyi koruyor sorundalı
 https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
 bkz 2021 de çine 100 milyar dolar yatırım yapacağım
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sadece-t%C3%BCrk%C3%A7%C3%BClerle-hdp-lilerin-anlamas%C4%B1/
