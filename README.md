@@ -3,6 +3,8 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
+https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkdaşları ona minnak ülkücü diyolla
+https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/
 bkz uludaki 11 yaşındaki ergenlere devlet nasıl başlık açmalarına izin veriyor
 bkz uludaki ergenler kaç yaşında sorunsalı 15 mi
 https://www.uludagsozluk.com/k/leylekleri-kim-getirir-sorunsal%C4%B1/ annen
