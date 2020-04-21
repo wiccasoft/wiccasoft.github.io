@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz gitlerin türkiyeye girmeme sebepleri sorunsalları
+https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/
 bkz eppek için eppeleddin
 bkz apk nın ios ta çalışamamsı
 bkz macun kaplıcalının türk ergenlerin açığını bulması
