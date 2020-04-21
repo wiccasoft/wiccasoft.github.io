@@ -2,6 +2,9 @@
 
 <!--
 https://www.uludagsozluk.com/k/yelkenliyle-d%C3%BCnya-turu/ lol
+https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
+https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/
+https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/polat-alemdar-a-benzeyen-tiktok%C3%A7u/ bkz tıpkısı aynısı olm tııklağ kankağ
 https://www.uludagsozluk.com/e/43205413/ bkz önceliğlen minnağ kardeşlere naçizane bir uyarı
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-bilimsel-olarak-da-d%C3%BCz-olmas%C4%B1/ bir gerçek
