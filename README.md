@@ -4,6 +4,8 @@
 <!-- 
 bkz macunun gaylerin açığını bulması
 bkz bir günde bir milyon sörfayfor tweeti atılması
+https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
+https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi/&w=bg lol
 https://www.uludagsozluk.com/k/trabzonlulardaki-biz-%C3%A7ok-psikopat%C4%B1z-tribi/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-yarkada%C5%9F%C4%B1n-tam-bir-mal-olmas%C4%B1/ bkz mal paratoneri
 https://www.uludagsozluk.com/k/jacobs-reklam%C4%B1ndaki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam/ bkz gözleriynen sikmek
