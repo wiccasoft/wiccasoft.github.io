@@ -2,11 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-bkz selda bağcan neçet ertaş doyulur mu düet
+bkz selda bağcan neçet ertaş doyulur mu düeti
 https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
 bkz rupert murdoch un fatih portaka gaz vermesi
-bkz fatih portakın bakkal çakkal esnaf batıyo demesi
-bkz fatih portakın aptala anlatır gibi anlatması
 bkz fatih portak ana haber bülteninni başlayacak olması
 bkz olm benim ankisyetem var gölgemden bile korkarım lan ne mafyası
 bkz mafya kavga dövüş sevmem mafyayaparlar
