@@ -4,7 +4,7 @@
 <!-- 
 bkz macunun gaylerin açığını bulması
 https://www.uludagsozluk.com/k/jacobs-reklam%C4%B1ndaki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam/ bkz gözleriynen sikmek
-https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz almanya kıskaniy
+https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz almanya kıskaniy bizi
 https://www.uludagsozluk.com/k/ye%C5%9Fil-g%C3%B6zl%C3%BC-g%C3%B6zaltlar%C4%B1-buru%C5%9Fuk-erkek/ bkz gay
 https://www.uludagsozluk.com/k/survivor-yasin/&w=gd bkz gay
 https://www.uludagsozluk.com/k/survivor-mert/ bkz gay
