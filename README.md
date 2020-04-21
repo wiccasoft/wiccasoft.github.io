@@ -2,6 +2,14 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
+bkz daya yiyen türk kızının sana daha çok bağlandım aşkom demesi
+bkz sagopa kajmerin de dediği gibi karıyı dövüp rahatlamak
+bkz karıyı çocukları öldürüp kafa dinlemek
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-aff%C4%B1yla-%C3%A7%C4%B1k%C4%B1p-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-adam/ 
+https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/ sana bekçi deseler
+https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular bkz bekçi ne olm 
+https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz ben
 bkz polat alemdar vs seyfo dayı
 bkz fatih tezcandan fatih terime işini yap uyarısı
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz maymun götü
