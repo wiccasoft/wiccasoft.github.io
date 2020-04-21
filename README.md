@@ -7,7 +7,7 @@ bkz rupert murdoch un fatih portaka gaz vermesi
 bkz fatih portakın bakkal çakkal esnaf batıyo demesi
 bkz fatih portakın aptala anlatır gibi anlatması
 bkz fatih portak ana haber bülteninni başlayacak olması
-bkz olm benim ankisyetem var gölgemden korkarım dışarı bile çıkmam lan
+bkz olm benim ankisyetem var gölgemden bile korkarım langarsona bile siz derim
 bkz mafya kavga dövüş sevmem mafyayaparlar
 bkz türkü sevmem türkücü yaparlar
 bkz türklerin beni en sevmediğim kişiler sanmaları
