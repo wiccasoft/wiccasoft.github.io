@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz eppek için eppeleddin
+https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi/&w=bg
 https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ ay serseri daha bi şapşik olur
 https://www.uludagsozluk.com/k/erkek-gururu/&w=bg ay kız ben topum ne incinmesi
 https://www.uludagsozluk.com/k/instagram-profil-kilidini-kald%C4%B1ran-erkek/&w=bg ay heyecan yaptım kız
