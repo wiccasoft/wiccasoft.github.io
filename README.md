@@ -1,9 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-hanımlağ beyleğ önceliğleğ kimsenin hayarınağğ kimseğ karışamağ
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
+hanımlağ beyleğ önceliğleğ kimsenin hayatınağğ kimseğ karışamağ amma velakin öle deildiğ
 bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
 sörfayfor yasin hayrağnları pornosu için macun medyayla iletişiğim kurabiliğleğ
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en ayakseverler için amme yaniğ link
