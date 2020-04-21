@@ -1,15 +1,7 @@
 
-[![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
+[![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
-<!-- 
-bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
-bkz daya yiyen türk kızının sana daha çok bağlandım aşkom demesi
-bkz sagopa kajmerin de dediği gibi karıyı dövüp rahatlamak
-bkz karıyı çocukları öldürüp kafa dinlemek
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-aff%C4%B1yla-%C3%A7%C4%B1k%C4%B1p-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-adam/ 
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/ sana bekçi deseler
-https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular bkz bekçi ne olm 
-https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz ben -->
+[![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
