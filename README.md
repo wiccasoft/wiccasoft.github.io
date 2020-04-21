@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-https://www.uludagsozluk.com/e/43204049/ lol
+https://www.uludagsozluk.com/k/yelkenliyle-d%C3%BCnya-turu/ lol
 https://www.uludagsozluk.com/e/43205413/ bkz önceliğlen minnağ kardeşlere naçizane bir uyarı
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-bilimsel-olarak-da-d%C3%BCz-olmas%C4%B1/ bir gerçek
 https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
