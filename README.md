@@ -2,7 +2,7 @@
 
 <!--
 bkz jandarmaya tokat atıp kaçan genç
-bkz pulp fiction da deli gibi ateş eden ergen
+bkz pulp fiction da diiee madafakaaa diye deli gibi ateş eden genç
 bkz olm ben karadenizli değilimki boşuna karadenizlilere küfr ediyosunuz
 bkz deep webte etnik kökenlere hakaret edince cool olduğunu sanan ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/kap%C4%B1y%C4%B1-tekmeleyip-b%C3%BCt%C3%BCn-%C5%9Farj%C3%B6r%C3%BC-bo%C5%9Faltmak/
