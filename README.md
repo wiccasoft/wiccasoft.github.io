@@ -3,6 +3,7 @@
 
 <!--
 bkz eppek için eppeleddin
+bkz apk nın ios ta çalışamamsı
 https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi/&w=bg
 https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ ay serseri daha bi şapşik olur
 https://www.uludagsozluk.com/k/erkek-gururu/&w=bg ay kız ben topum ne incinmesi
