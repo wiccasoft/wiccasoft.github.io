@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz racon kesmim karadenizli kesim
 bkz seyfo dayı polat alermdar aşkı
 bkz gafa gesmiyom racon gesiyim deyip trabzonlu kafası kesmek
 bkz oç amınsıçtığı trapzonluların polart alemdara benzemesi
