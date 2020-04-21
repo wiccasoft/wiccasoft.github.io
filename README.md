@@ -7,21 +7,8 @@ bkz fatih isimli erkeklerin genelde gassaraylı olması
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
 https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben ama yumoşum o yüzden
-bkz sefirliğimi ilan etmem
-bkz racon kesmiyom gafa gesiyom
 bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
 bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
-bkz yarım satimi yediniz yarım saatte arkadaşlar sizi dövse golf noldu
-https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
-bkz rupert murdoch un fatih portaka gaz vermesi
-bkz fatih portak ana haber bülteninni başlayacak olması
-bkz olm benim ankisyetem var gölgemden bile korkarım lan ne mafyası
-bkz ibrahim tatlıses neşet ertaş selda bağcan doyulur mu remix
-https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz türkücü kürt
-bkz ekşciden başlık çalan ezik ulucular
-bkz ekşicileri siklemediğim halde hala uğraşmaları
-bkz ekşcilerin kendilerine ekşcici denmesinden gocunmaması 
-bkz ekşicilerin beni bulamayınca yeni video araması
 bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
 bkz dayak yiyen türk kızının sana daha çok bağlandım aşkom demesi
 bkz sagopa kajmerin de dediği gibi karıyı dövüp rahatlamak
