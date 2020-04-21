@@ -1,5 +1,6 @@
+[![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
-[![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 ),
+[![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 [![Image](prototype/Screenshot_2020-04-19_15-42-24.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 
