@@ -2,6 +2,7 @@
 
 <!--
 bkz eppek için eppeleddin 
+bkz ne kadar eppek o kaddar köfte
 https://twitter.com/pornoturksex?lang=en yeni taze linkler türk müşterilerimiz için
 bkz ölü sevicili porno kategoriğ yapım aşamasındadır
 bkz hayvanlı porno seven vip müşterilerimiz pornanimalforsex.com sitemizden hizmet alabiliğleğ
