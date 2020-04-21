@@ -2,7 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
+bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
 bkz çukur vuruşma sahnelerinde ay diyen erkek
+bkz olm benim ankisyetem var topum ben gölgemden bile korkarım lan ne mafyası
 https://www.uludagsozluk.com/k/kim-jong-un/ bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/ne-oldu-sana-ne-oldu-b%C3%B6yle-ne-oldu-sana/&w=bg layt erkeği 
 https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ bkz 2 selim vs piç abdulhamit
