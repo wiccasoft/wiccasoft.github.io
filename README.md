@@ -2,10 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-bkz uludaki eşcinsel ergenlerin yanlış kişiyi arması olm ben yumoşum lan sizi sikemeycek kadar yumoş kalkmıyo pipi
-bkz misvak dergisi amınoğlu ekrem karikatürü
-bkz sarışın mavi gözlü zayıf ezik mafya mı olur lan
-bkz olm ben toopum lan yumoşum yumoş ne erkeği ne mafyası lan
+https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ ay serseri daha bi şapşik olur
 https://www.uludagsozluk.com/k/erkek-gururu/&w=bg ay kız ben topum ne incinmesi
 https://www.uludagsozluk.com/k/instagram-profil-kilidini-kald%C4%B1ran-erkek/&w=bg ay heyecan yaptım kız
 bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
