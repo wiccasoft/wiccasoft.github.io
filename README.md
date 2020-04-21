@@ -11,7 +11,8 @@ bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
 bkz uludaki ergenleri kimse siklemediği için yasal işlem olmaması
 bkz uludaki ergenlerin her gün ergen başı 10 tane anayasal suç işlemesi
 bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
-bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı
+bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı,
+bkz islamcıların yeşil solcu olması
 https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/ bkz solcuların vadansevmeyen olması
 https://www.uludagsozluk.com/k/s%C3%BCrekli-sa%C4%9Fa-sola-sald%C4%B1r%C4%B1p-kavga-%C3%A7%C4%B1karan-tip/ bkz amınoğlu 
 https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/ bkz amınoğlu ekrem
