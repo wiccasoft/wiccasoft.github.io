@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bunlar daha iyi günleriniz oç ları
+https://www.uludagsozluk.com/k/2020-bitince-2021-in-daha-k%C3%B6t%C3%BC-ge%C3%A7ece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz racon kesmim karadenizli kesim
 bkz seyfo dayı polat alermdar aşkı
 bkz gafa gesmiyom racon gesiyim deyip trabzonlu kafası kesmek
