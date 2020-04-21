@@ -1,6 +1,8 @@
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
+
+<!-- https://www.uludagsozluk.com/k/11-ya%C5%9F%C4%B1ndaki-k%C4%B1z%C4%B1n%C4%B1-d%C3%B6verek-%C3%B6ld%C3%BCren-cani-baba/ -->
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
