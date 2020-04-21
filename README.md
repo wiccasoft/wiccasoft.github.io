@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+https://www.uludagsozluk.com/k/instagram-profil-kilidini-kald%C4%B1ran-erkek/&w=bg ay heyecan yaptım kız
 bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
 bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
 bkz çukur vuruşma sahnelerinde ay diyen erkek
