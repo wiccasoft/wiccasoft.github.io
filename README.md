@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+bkz nick altı temiz ekşici
 bkz ekşicilerin ekşici ünvanından rahatsız olmaması
 https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz arabaya veren kızlar
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz ray ray kasım
