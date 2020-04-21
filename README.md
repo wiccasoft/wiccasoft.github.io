@@ -8,7 +8,7 @@ https://www.uludagsozluk.com/k/abd-de-markette-polis-taraf%C4%B1ndan-%C3%B6ld%C3
 https://www.uludagsozluk.com/k/zinedine-zidane/&w=bg bkz oç
 bunlar daha iyi günleriniz oç ları
 bkz oç süleyman soylunun trabzonlu olması
-bkz deep turkish web te ergen başına 10 anaysal suç işlenmesi
+bkz deep turkish web te ergen başına 10 anayasal suç düşmesi
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/
 https://www.uludagsozluk.com/k/2020-bitince-2021-in-daha-k%C3%B6t%C3%BC-ge%C3%A7ece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz racon kesmim karadenizli kesim
