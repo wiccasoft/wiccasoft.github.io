@@ -3,8 +3,8 @@
 
 <!--
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en baralel yapı
-https://www.uludagsozluk.com/k/jacobs-reklam%C4%B1ndaki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam/ bkz gözleriyle sikmek
 https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi&w=bg/ lol
+https://www.uludagsozluk.com/k/jacobs-reklam%C4%B1ndaki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam/ bkz gözleriyle sikmek
  -->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
