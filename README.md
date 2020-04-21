@@ -1,6 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
+<!-- https://www.uludagsozluk.com/k/alaaddin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=gd sedat siker atar kankağ -->
+
+
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
