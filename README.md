@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ ay serseri daha bi şapşik olur
 https://www.uludagsozluk.com/k/erkek-gururu/&w=bg ay kız ben topum ne incinmesi
 https://www.uludagsozluk.com/k/instagram-profil-kilidini-kald%C4%B1ran-erkek/&w=bg ay heyecan yaptım kız
-bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
+bkz olm şaka lan şaka yumoşum ben ne mafyası höt deseniz osura osura kaçarım lan
 bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
 bkz çukur vuruşma sahnelerinde ay diyen erkek
 bkz olm benim ankisyetem var topum ben gölgemden bile korkarım lan ne mafyası
