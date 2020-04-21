@@ -4,6 +4,7 @@
 <!-- 
 bkz sefirliğimi ilan etmem
 bkz racon kesmiyom gafa gesiyom
+bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
 bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
 bkz yarım satimi yediniz yarım saatte arkadaşlar sizi dövse golf noldu
 https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
