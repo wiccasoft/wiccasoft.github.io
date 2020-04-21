@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-a
 https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz arabaya veren kızlar
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz ray ray kasım
 https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/ reverse cowgirl deneyin
-https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg bkz ay siker bu sizi nerde bu devlet
+https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg bkz aka götçü emre
 https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/
 https://www.uludagsozluk.com/k/k%C3%BCrt-oldu%C4%9Fum-i%C3%A7in-fb-defansif-orta-saha-oynatmad%C4%B1/
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can 
