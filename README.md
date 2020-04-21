@@ -1,7 +1,9 @@
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
-<!-- 
+<!--
+bkz 2021 de çine 100 milyar olar yatırım yapacağım
+https://www.uludagsozluk.com/k/amerika-n%C4%B1n-%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BC-2020-y%C4%B1l%C4%B1nda-ba%C5%9Flayacak/
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz malum ırk
 https://www.uludagsozluk.com/k/bug%C3%BCn-getirilen-ek-vergiler/ kokoş laiklere büyük darbe :D
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa parola kerem
