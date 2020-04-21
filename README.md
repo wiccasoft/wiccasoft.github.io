@@ -1,30 +1,6 @@
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
-<!--
-https://www.uludagsozluk.com/k/amerika-n%C4%B1n-%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BC-2020-y%C4%B1l%C4%B1nda-ba%C5%9Flayacak/
-https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz malum ırk
-https://www.uludagsozluk.com/k/bug%C3%BCn-getirilen-ek-vergiler/ kokoş laiklere büyük darbe :D
-https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa parola kerem
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C5%9Fah%C4%B1s/&w=bg bkz malum şahıs
-https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
-https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C5%9Fah%C4%B1s/&w=bg bkz malum şahız
-https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/ üstünde zıplamayın
-https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can malum ırk
-https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz arabaya veren kızlar
-https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz ray ray kasım
-https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/ reverse cowgirl deneyin
-https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg bkz aka götçü emre
-https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/
-https://www.uludagsozluk.com/k/k%C3%BCrt-oldu%C4%9Fum-i%C3%A7in-fb-defansif-orta-saha-oynatmad%C4%B1/
-https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can 
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz polat alemdar 
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz demeden kızlara yürüyen sapık
--->
-
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
@@ -38,10 +14,6 @@ https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz demeden kızlara yü
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 [![Image](skynet/Screenshot_2020-01-15_10-51-40.png)]( https://www.youtube.com/watch?v=GECCFTj3Ugo )
-
-<!-- 
-https://eksisozluk.com/entry/100609978 lol
-https://dergipark.org.tr/en/download/article-file/89188-->
 
 [![Image](skynet/Screenshot_2020-01-15_10-25-00.png)]( https://www.dunya.com/gundem/wikipediaya-erisimin-engellenmesi-karari-kaldirildi-haberi-460599 )
 
