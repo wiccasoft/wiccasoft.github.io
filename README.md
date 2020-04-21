@@ -3,19 +3,9 @@
 
 <!-- 
 bkz fatih ismli erkeklerin genelde gassaraylı olması
-bkz fatih altaylı fatih tezcan fatih terim üçlüsü 
-bkz adam gibi adam deyince akılda beliren ilk imge
-https://www.uludagsozluk.com/k/charlie-chaplin/&w=bg bkz pasif beta erkek
-https://www.uludagsozluk.com/k/kim-jong-un/&w=bg saçım şekil yolumdan çekil
-bkz fatih portakal daki hayvani çekicilik
-bkz fatih portakala entry girmekten izleyemeyen ergen
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz portakal gibi adam
-https://www.uludagsozluk.com/k/cemal-g%C3%BCrsel/&w=bg bkz beta erkek
-bkz gama erkek vs alfa erkek
-bkz ilk buluşmada çıkarıp masaya vuran alfa erkek
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
-https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben yumoşum o yüzden
+https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben ama yumoşum o yüzden
 bkz sefirliğimi ilan etmem
 bkz racon kesmiyom gafa gesiyom
 bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
