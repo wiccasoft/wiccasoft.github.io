@@ -2,7 +2,7 @@
 
 <!--
 bkz jandarmaya tokat atıp kaçan genç
-bkz olm ben karadenizli değilimki selanikliyim sülalem raad kankağğğğğğğ
+bkz olm ben karadenizli değilimki boşuna karadenizlilere küfr ediyosunuz
 bkz pulp fiction da deli gibi ateş eden ergen
 bkz deep webte etnik kökenlere hakaret edince cool olduğunu sanan ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/kap%C4%B1y%C4%B1-tekmeleyip-b%C3%BCt%C3%BCn-%C5%9Farj%C3%B6r%C3%BC-bo%C5%9Faltmak/
