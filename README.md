@@ -3,7 +3,8 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
-bkz uludaki ergenler kaç uaşında sorunsalı 15 mi
+bkz uludaki 11 yaşındaki ergenlere devlet nasıl başlık açmalarına izin veriyor
+bkz uludaki ergenler kaç yaşında sorunsalı 15 mi
 https://www.uludagsozluk.com/k/leylekleri-kim-getirir-sorunsal%C4%B1/ annen
 bkz ulucuları götten sikip sikilmiş götün davası olmaz diyen tip
 https://www.uludagsozluk.com/e/43208119/ bkz ay hoşt ulan
