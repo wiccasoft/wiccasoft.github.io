@@ -5,7 +5,7 @@ bkz eppek için eppeleddin
 https://www.uludagsozluk.com/k/deep-web/&w=bg bkz czn burak ifşası 
 https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz emeğine aktım kardeş
-https://www.uludagsozluk.com/k/karısı-için-vibratör-alan-erkek/ uplayın godoşu kankağ
+https://www.uludagsozluk.com/k/karısı-için-vibratör-alan-erkek/ uplayın gavatı kankağ
 https://www.uludagsozluk.com/k/karısının-çalışmasına-izin-veren-gavat/&w=bg uplayın gavatı kankağ
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/2/ emeğine akıttım kardeş
 -->
