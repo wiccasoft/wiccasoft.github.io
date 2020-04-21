@@ -6,6 +6,7 @@ bkz ne kadar eppek o kaddağ köfte
 bkz uludaki nonşlar kaç uaşında sorunsalı 15 mi
 bkz ulucuları götten sikip sikilmiş götün davası olmaz diyen tip
 https://www.uludagsozluk.com/e/43208119/ bkz ay hoşt ulan
+https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/ bkz amınoğlu ekrem
 bkz sürekli sağa sola saldırağn kavga çıkarağn sörfayfır taner pornosu arşivimizdedir
 https://www.uludagsozluk.com/k/s%C3%BCrekli-sa%C4%9Fa-sola-sald%C4%B1r%C4%B1p-kavga-%C3%A7%C4%B1karan-tip/
 hanımlağ beyleğ önceliğleğ kimsenin hayatınağğ kimseğ karışamağ amma velakin öle deildiğ
