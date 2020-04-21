@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
 https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben yumoşum o yüzden
 bkz sefirliğimi ilan etmem
 bkz racon kesmiyom gafa gesiyom
