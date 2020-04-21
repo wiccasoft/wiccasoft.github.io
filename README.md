@@ -3,6 +3,7 @@
 
 <!-- https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz beyin fırtınası 
 https://www.uludagsozluk.com/k/ye%C5%9Fil-g%C3%B6zl%C3%BC-g%C3%B6zaltlar%C4%B1-buru%C5%9Fuk-erkek/ bkz gay 
+https://www.uludagsozluk.com/k/survivor-mert/ bkz gay
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
