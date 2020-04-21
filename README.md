@@ -4,6 +4,7 @@
 <!-- 
 bkz nick altı temiz ekşici
 bkz ekşicilerin ekşici ünvanından rahatsız olmaması
+bkz 10000 dolar maaş lalan ekşiciler
 https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/ yarrağın üstünde zıplamayın
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can malum ırk
 https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz arabaya veren kızlar
