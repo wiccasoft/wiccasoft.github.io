@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz jandarmaya tokat atıp kaçan genç
 bkz olm ben karadenizli değilimki selanikliyim sülalem raad kankağğğğğğğ
 bkz pulp fiction da deli gibi ateş eden ergen
 bkz deep webte etnik kökenlere hakaret edince cool olduğunu sanan ergenlerin güldürmesi
