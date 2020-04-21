@@ -4,7 +4,7 @@
 <!-- 
 https://eksisozluk.com/kerem-tuncerinin-paso-birilerine-yurumesi--6482145?a=popular bkz pasa parola kerem
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C5%9Fah%C4%B1s/&w=bg bkz malum şahıs
-https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz taşşaklı haydar
+https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
 https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C5%9Fah%C4%B1s/&w=bg bkz malum şahız
@@ -13,17 +13,11 @@ https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-a
 https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz arabaya veren kızlar
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz ray ray kasım
 https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/ reverse cowgirl deneyin
-https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular ay haşin erkek ayol
-https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg ay siker bu bizi ayol
+https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz haşin erkek
+https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg bkz ay siker bu sizi
 https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/
 https://www.uludagsozluk.com/k/k%C3%BCrt-oldu%C4%9Fum-i%C3%A7in-fb-defansif-orta-saha-oynatmad%C4%B1/
-https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can malum etnik köken
-bkz emre morun kızlara yürümesinin örtpas edilmesi
-https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz demeden kılzara yürüyen sapık
-https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
-bkz laikçilerin damada fotoşokla altın varanklı penis yüzüğü yapması
-bkz bekçilerin ünvan peşine değiliz açıklaması
-bkz selçuk bayraktarın damadı kıskanması
+https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can 
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz polat alemdar 
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz demeden kızlara yürüyen sapık
