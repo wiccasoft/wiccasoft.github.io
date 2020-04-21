@@ -3,6 +3,8 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
+bkz sürekli sağa sola saldırağn sörfayfır taner pornosu arşivimidedir
+https://www.uludagsozluk.com/k/s%C3%BCrekli-sa%C4%9Fa-sola-sald%C4%B1r%C4%B1p-kavga-%C3%A7%C4%B1karan-tip/
 hanımlağ beyleğ önceliğleğ kimsenin hayatınağğ kimseğ karışamağ amma velakin öle deildiğ
 bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
 sörfayfor yasin hayrağnları pornosu için macun medyayla iletişiğim kurabiliğleğ
