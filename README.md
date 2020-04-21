@@ -2,6 +2,7 @@
 
 <!--
 bkz eppek için eppeleddin 
+bkz senin bokuna eppek banar yerim eppek diyen kız
 https://www.uludagsozluk.com/k/deep-web/&w=bg bkz czn burak ifşası 
 https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz emeğine aktım kardeş
