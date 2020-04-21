@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-bkzç ukur vuruşma sahnelerinde ay diyen erkek
+bkz çukur vuruşma sahnelerinde ay diyen erkek
+https://www.uludagsozluk.com/k/kim-jong-un/ bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/ne-oldu-sana-ne-oldu-b%C3%B6yle-ne-oldu-sana/&w=bg layt erkeği 
 https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ bkz 2 selim vs piç abdulhamit
 https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd adam haklı beyler
