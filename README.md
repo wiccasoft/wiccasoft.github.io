@@ -3,7 +3,7 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
-bkz uludaki ergenler kaç uaşında sorunsalı 15 mi
+bkz uludaki nonşlar kaç uaşında sorunsalı 15 mi
 bkz ulucuları götten sikip sikilmiş götün davası olmaz diyen tip
 https://www.uludagsozluk.com/e/43208119/ bkz ay hoşt ulan
 bkz sürekli sağa sola saldırağn kavga çıkarağn sörfayfır taner pornosu arşivimizdedir
