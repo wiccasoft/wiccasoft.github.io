@@ -3,6 +3,7 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
+bkz akpliyim ama akp o işi yapmıyorcular
 bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı
 https://www.uludagsozluk.com/k/muhalifim-ama-akp-bu-i%C5%9Fi-do%C4%9Fru-yap%C4%B1yorcular/
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkdaşları ona minnak ülkücü diyolla
