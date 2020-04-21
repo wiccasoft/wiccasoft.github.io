@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://www.uludagsozluk.com/k/charlie-chaplin/&w=bg bkz pasif beta erkek
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg saçım şekil yolumdan çekil
 bkz fatih portakal daki hayvani çekicilik
 bkz fatih portakala entry girmekten izleyemeyen ergen
