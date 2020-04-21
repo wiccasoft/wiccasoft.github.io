@@ -12,6 +12,7 @@ bkz uludaki ergenleri kimse siklemediği için yasal işlem olmaması
 bkz uludaki ergenlerin her gün ergen başı 10 tane anayasal suç işlemesi
 bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
 bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı
+https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/muhalifim-ama-akp-bu-i%C5%9Fi-do%C4%9Fru-yap%C4%B1yorcular/
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkadaşları ona minnak ülkücü diyolla
 https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/
