@@ -2,6 +2,8 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+bkz bekçilerin ünvan peşine değiliz açıklaması
+https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz polat alemdar 
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=bg bkz demeden kızlara yürüyen sapık
 -->
