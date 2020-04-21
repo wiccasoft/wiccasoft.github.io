@@ -3,6 +3,7 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
+bkz fatih portakal vs maymun götü
 bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
 bkz bbp liyim ama bbp o işi öyle yapmazcılayy
 bkz akpliyim ama akp o işi yapmıyorcular
