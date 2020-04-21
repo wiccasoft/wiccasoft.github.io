@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/43205413/ bkz minnak kardeşlere naçizane bir uyarı
+https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
 bkz fatih portakal vs maymun götü
