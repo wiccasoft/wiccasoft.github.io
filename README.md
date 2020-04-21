@@ -8,6 +8,7 @@ bkz laikçiyim amam laikçi müslüman değilmciler
 bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
 bkz bbp liyim ama bbp o işi öyle yapmazcılayy
 bkz akpliyim ama akp o işi yapmıyorcular
+bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
 bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı
 https://www.uludagsozluk.com/k/muhalifim-ama-akp-bu-i%C5%9Fi-do%C4%9Fru-yap%C4%B1yorcular/
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkdaşları ona minnak ülkücü diyolla
