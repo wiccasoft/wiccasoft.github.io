@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+https://www.uludagsozluk.com/k/survivor-2020/&w=bg bkz sorfayfır abisi
+https://www.uludagsozluk.com/k/abd-de-markette-polis-taraf%C4%B1ndan-%C3%B6ld%C3%BCr%C3%BClen-gen%C3%A7/ oç genç
 https://www.uludagsozluk.com/k/zinedine-zidane/&w=bg bkz oç
 bunlar daha iyi günleriniz oç ları
 bkz oç süleyman soylunun trabzonlu olması
