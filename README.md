@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz sert erkek seven ergenlerin güldürmesi
 https://www.uludagsozluk.com/k/zinedine-zidane/&w=bg bkz annenizi götten siker
 bkz maymun götü vs karadenizliler
 bkz karadenizlilerdeki orsopu çocukluğu geni
