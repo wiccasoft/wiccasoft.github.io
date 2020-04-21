@@ -2,6 +2,8 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/
+https://www.uludagsozluk.com/k/k%C3%BCrt-oldu%C4%9Fum-i%C3%A7in-fb-defansif-orta-saha-oynatmad%C4%B1/
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-cenazesinde-bile-g%C3%BClen-adam/ bkz kasım can malum etnik köken
 https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg ay siker bu bizi ayol
 bkz emre morun kızlara yürümesinin örtpas edilmesi
