@@ -2,8 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-bkz hitlerin doggy style da alman karılarının saçını çekip kalçalarını  tokatlaması
-https://www.uludagsozluk.com/k/doggy-style-pozisyonunda-k%C4%B1z%C4%B1n-sa%C3%A7%C4%B1n%C4%B1-%C3%A7eken-erkek/&w=bg
+bkz gitler neden rusyay saldırdı sorundalı
 bkz gitlerin türkiyeye girmeme sebepleri sorunsalları
 https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/
 bkz eppek için eppeleddin
