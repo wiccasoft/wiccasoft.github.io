@@ -4,7 +4,7 @@
 <!-- 
 bkz ekşicilerin beni bulamayınca yeni video araması
 bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
-bkz daya yiyen türk kızının sana daha çok bağlandım aşkom demesi
+bkz dayak yiyen türk kızının sana daha çok bağlandım aşkom demesi
 bkz sagopa kajmerin de dediği gibi karıyı dövüp rahatlamak
 bkz karıyı çocukları öldürüp kafa dinlemek
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-aff%C4%B1yla-%C3%A7%C4%B1k%C4%B1p-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-adam/ 
