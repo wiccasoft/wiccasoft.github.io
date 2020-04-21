@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://www.uludagsozluk.com/k/195-cm-den-k%C4%B1sa-erkek/ bkz ben ılığım bi de mafya değilim bi de
 bkz olm ben sarışınım sarışın türkücü mü olur lan
 bkz selda bağcan neçet ertaş doyulur mu düeti
 https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
