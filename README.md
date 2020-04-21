@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz polat alemdar vs seyfo dayı
 bkz fatih tezcandan fatih terime işini yap uyarısı
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz maymun götü suratlı tipler
 https://www.uludagsozluk.com/k/kuzey-tekino%C4%9Flu-efsanesi/  kuzey hoplatır olm bunu
