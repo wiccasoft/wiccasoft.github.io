@@ -2,33 +2,10 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en baralel yapı
 https://www.uludagsozluk.com/k/jacobs-reklam%C4%B1ndaki-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam/ bkz gözleriyle sikmek
-https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi&w=bg/2/ lol
-bkz gitler neden rusyaya saldırdı sorundalı
-bkz gitlerin türkiyeye girmeme sebepleri sorunsalları
-https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/
-bkz eppek için eppeleddin
-bkz apk nın ios ta çalışamamsı
-bkz macun kaplıcalının türk ergenlerin açığını bulması
-bkz macun kaplıcalının yakışıklı kaslı erkekleri koyarak koca bi gençliğe masturbasyon yaptırması
-https://www.uludagsozluk.com/k/survivor-mert/ bkz alfa erkek
-bkz doggy style kızı tokatlayan hayvanımsı erkek
-https://www.uludagsozluk.com/k/doggy-style-pozisyonunda-k%C4%B1z%C4%B1n-sa%C3%A7%C4%B1n%C4%B1-%C3%A7eken-erkek/&w=bg
-https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi/&w=bg
-https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ ay serseri daha bi şapşik olur
-https://www.uludagsozluk.com/k/erkek-gururu/&w=bg ay kız ben topum ne incinmesi
-https://www.uludagsozluk.com/k/instagram-profil-kilidini-kald%C4%B1ran-erkek/&w=bg ay heyecan yaptım kız
-bkz olm şaka lan şaka yumoşum ben ne mafyası höt deseniz osura osura kaçarım lan
-bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
-bkz çukur vuruşma sahnelerinde ay diyen erkek
-bkz olm benim ankisyetem var topum ben gölgemden bile korkarım lan ne mafyası
-https://www.uludagsozluk.com/k/kim-jong-un/ bkz saçım şekil yolumdan çekil
-https://www.uludagsozluk.com/k/ne-oldu-sana-ne-oldu-b%C3%B6yle-ne-oldu-sana/&w=bg layt erkeği 
-https://www.uludagsozluk.com/k/serseri-ile-pi%C3%A7-aras%C4%B1ndaki-fark/ bkz 2 selim vs piç abdulhamit
-https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd adam haklı beyler
-https://www.uludagsozluk.com/k/padi%C5%9Fah-ikinci-mahmud/&w=bg bkz ne diyem mahmut mu diyem
-https://www.uludagsozluk.com/k/survivor-yasin/&w=bg abi öle deme acun abi öyle yap diyi ben de yapim abi vurma abi
-https://eksisozluk.com/zevkine-dovulecek-adamlar-veritabani--6484584?a=popular bkz çukur vuruşma sahnesi -->
+https://www.uludagsozluk.com/k/akp-nin-ekmek-da%C4%9F%C4%B1tmak-paralel-yap%C4%B1-i%C5%9Fidir-demesi&w=bg/ lol
+ -->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
