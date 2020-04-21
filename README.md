@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-bkz ekşcilerin top olduğumu öğrenip peşimi bırakmaları
+bkz ekşicilerin top olduğumu öğrenip peşimi bırakmaları
 bkz fatih ismli erkeklerin genelde gassaraylı olması
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
