@@ -3,8 +3,10 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
+bkz chepelerileyin sürekli muhalif olmaşı sorundalı
 bkz bbp liyim ama bbp o işi öyle yapmazcılayy
 bkz akpliyim ama akp o işi yapmıyorcular
+https://www.uludagsozluk.com/k/chp-lilerin-bitmeyen-%C5%9Fehir-hastaneleri-kar%C5%9F%C4%B1tl%C4%B1%C4%9F%C4%B1/
 bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı
 https://www.uludagsozluk.com/k/muhalifim-ama-akp-bu-i%C5%9Fi-do%C4%9Fru-yap%C4%B1yorcular/
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkdaşları ona minnak ülkücü diyolla
