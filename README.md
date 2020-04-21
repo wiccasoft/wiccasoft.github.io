@@ -3,33 +3,11 @@
 <!--
 https://www.uludagsozluk.com/e/43205413/ bkz minnak kardeşlere naçizane bir uyarı
 https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
-bkz eppek için eppeleddin 
-bkz ne kadar eppek o kaddağ köfte
-bkz fatih portakal vs maymun götü
+bkz eppek için eppeleddinciler 
+bkz ne kadar eppek o kaddağ köfteciler
+bkz fatih portakalcı vs maymun götücüler
 bkz laikçiyim amam laikçi müslüman değilmciler
-bkz annesi işteyken uluda siyaset yapan ergenlerin güldürmesi
-bkz toplumu kin ve düşmalığa sevkedemeyen ulucu ergenler
-bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
-bkz uludaki ergenleri kimse siklemediği için yasal işlem olmaması
-bkz uludaki ergenlerin her gün ergen başı 10 tane anayasal suç işlemesi
-bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
-bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı,
-bkz islamcıların yeşil solcu olması
-https://hulagukhan.uludagsozluk.com/ bkz hulaguhan 11 yaşında arkadaşları ona minnak türkçü diyolla
-https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
-https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/ bkz solcuların vadansevmeyen olması
-https://www.uludagsozluk.com/k/s%C3%BCrekli-sa%C4%9Fa-sola-sald%C4%B1r%C4%B1p-kavga-%C3%A7%C4%B1karan-tip/ bkz amınoğlu 
-https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/ bkz amınoğlu ekrem
-https://www.uludagsozluk.com/k/muhalifim-ama-akp-bu-i%C5%9Fi-do%C4%9Fru-yap%C4%B1yorcular/
-https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/
-bkz uludaki 11 yaşındaki ergenlere devlet nasıl başlık açmalarına izin veriyor
-bkz uludaki ergenler kaç yaşında sorunsalı 15 mi
-https://www.uludagsozluk.com/k/leylekleri-kim-getirir-sorunsal%C4%B1/ annen
-bkz ulucuları götten sikip sikilmiş götün davası olmaz diyen tip
-https://www.uludagsozluk.com/e/43208119/ bkz ay hoşt ulan
-https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/ bkz amınoğlu ekrem
-bkz sürekli sağa sola saldırağn kavga çıkarağn sörfayfır taner pornosu arşivimizdedir
-https://www.uludagsozluk.com/k/s%C3%BCrekli-sa%C4%9Fa-sola-sald%C4%B1r%C4%B1p-kavga-%C3%A7%C4%B1karan-tip/
+bkz toplumu kin ve düşmalığa sevkedemeyenler
 hanımlağ beyleğ önceliğleğ kimsenin hayatınağğ kimseğ karışamağ amma velakin öle deildiğ
 bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
 sörfayfor yasin hayrağnları pornosu için macun medyayla iletişiğim kurabiliğleğ
