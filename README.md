@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekşciden başlık çalan ezik ulucular
+bkz ekşicileri siklemediğim halde hala uğraşmaları
 bkz ekşcilerin kendilerine ekşcici denmesinden gocunmaması 
 bkz ekşicilerin beni bulamayınca yeni video araması
 bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
