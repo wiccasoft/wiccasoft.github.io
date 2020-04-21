@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz ibrahim tatlıses neşet ertaş selda bağcan doyulur mu remix
 https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz türkücü kürt
 bkz ekşciden başlık çalan ezik ulucular
 bkz ekşicileri siklemediğim halde hala uğraşmaları
