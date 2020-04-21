@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz anneisi sikilmiş oç karadenizlilerdeki asabiyet
 https://www.uludagsozluk.com/k/yelkenliyle-d%C3%BCnya-turu/ lol
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/
