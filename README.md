@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-bkz fatih portakalentry girmekten izleyemeyen ergen
+bkz fatih portakal daki hayvani çekicilik
+bkz fatih portakala entry girmekten izleyemeyen ergen
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz portakal gibi adam
 https://www.uludagsozluk.com/k/cemal-g%C3%BCrsel/&w=bg bkz beta erkek
 bkz gama erkek vs alfa erkek
