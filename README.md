@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-mevlanaya-hakaret-eden-%C5%9Fah%C4%B1s/&w=bg bkz malum şahıs
 https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz taşşaklı haydar
 https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
