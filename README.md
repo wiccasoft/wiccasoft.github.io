@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-hanımlağ beyleğ
+hanımlağ beyleğ önceliğleğ kimsenin hayarınağğ kimseğ karışamağ
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
 bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
