@@ -3,7 +3,7 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
-bkz chepelerileyin sürekli muhalif olmaşı sorundalı
+bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
 bkz bbp liyim ama bbp o işi öyle yapmazcılayy
 bkz akpliyim ama akp o işi yapmıyorcular
 https://www.uludagsozluk.com/k/chp-lilerin-bitmeyen-%C5%9Fehir-hastaneleri-kar%C5%9F%C4%B1tl%C4%B1%C4%9F%C4%B1/
