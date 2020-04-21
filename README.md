@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
 bkz laikçilerin damada fotoşokla altın varanklı penis yüzüğü yapması
 bkz bekçilerin ünvan peşine değiliz açıklaması
 bkz selçuk bayraktarın damadı kıskanması
