@@ -3,7 +3,7 @@
 
 <!-- 
 bkz ekşicilerin top olduğumu öğrenip peşimi bırakmaları
-bkz fatih ismli erkeklerin genelde gassaraylı olması
+bkz fatih isimli erkeklerin genelde gassaraylı olması
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
 https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben ama yumoşum o yüzden
