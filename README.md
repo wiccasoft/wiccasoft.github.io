@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-https://www.uludagsozluk.com/k/survivor-yasin/&w=bg abi öle deme acun abi öyle yap diyi ben de yapi abe
+https://www.uludagsozluk.com/k/survivor-yasin/&w=bg abi öle deme acun abi öyle yap diyi ben de yapim abi vurma abi
 https://eksisozluk.com/zevkine-dovulecek-adamlar-veritabani--6484584?a=popular bkz çukur vuruşma sahnesi -->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
