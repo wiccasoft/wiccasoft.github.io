@@ -10,9 +10,6 @@ https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
 bkz rupert murdoch un fatih portaka gaz vermesi
 bkz fatih portak ana haber bülteninni başlayacak olması
 bkz olm benim ankisyetem var gölgemden bile korkarım lan ne mafyası
-bkz mafya kavga dövüş sevmem mafyayaparlar
-bkz türkü sevmem türkücü yaparlar
-bkz türklerin beni en sevmediğim kişiler sanmaları
 bkz ibrahim tatlıses neşet ertaş selda bağcan doyulur mu remix
 https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz türkücü kürt
 bkz ekşciden başlık çalan ezik ulucular
