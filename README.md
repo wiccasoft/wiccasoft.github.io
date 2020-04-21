@@ -1,34 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
-<!-- 
-https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
-bkz ekşicilerin top olduğumu öğrenip peşimi bırakmaları umarım inş yalebbim amin
-bkz fatih isimli erkeklerin genelde gassaraylı olması
-https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
-https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben ama yumoşum o yüzden
-bkz olm şaka lan şaka yumoşum ben höt deseniz osura osura kaçarım lan
-bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
-bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
-bkz dayak yiyen türk kızının sana daha çok bağlandım aşkom demesi
-bkz sagopa kajmerin de dediği gibi karıyı dövüp rahatlamak
-bkz karıyı çocukları öldürüp kafa dinlemek
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-aff%C4%B1yla-%C3%A7%C4%B1k%C4%B1p-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-adam/ 
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/ sana bekçi deseler
-https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular bkz bekçi ne olm 
-https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz ben
-bkz polat alemdar vs seyfo dayı
-bkz fatih tezcandan fatih terime işini yap uyarısı
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz maymun götü
-https://www.uludagsozluk.com/k/kuzey-tekino%C4%9Flu-efsanesi/  kuzey hoplatır olm bunu
-https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ polat siker atar 
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/ karahanlı anasını siker lazın
-https://www.uludagsozluk.com/k/alaaddin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=gd sedat siker atar kankağ 
-https://www.uludagsozluk.com/k/infaz-yasas%C4%B1yla-%C3%A7%C4%B1k%C4%B1p-k%C4%B1z%C4%B1n%C4%B1-d%C3%B6verek-%C3%B6ld%C3%BCren-adam/&w=gd bkz ben gafasın kestim amk
--->
-
-
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
