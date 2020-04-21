@@ -14,6 +14,7 @@ bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
 bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı,
 bkz islamcıların yeşil solcu olması
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan 11 yaşında arkadaşları ona minnak türkçü diyolla
+https://www.uludagsozluk.com/k/troll-l%C3%BCk-yapaca%C4%9F%C4%B1m-derken-zincirleme-su%C3%A7-i%C5%9Flemek/
 https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/ bkz solcuların vadansevmeyen olması
 https://www.uludagsozluk.com/k/s%C3%BCrekli-sa%C4%9Fa-sola-sald%C4%B1r%C4%B1p-kavga-%C3%A7%C4%B1karan-tip/ bkz amınoğlu 
 https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/ bkz amınoğlu ekrem
