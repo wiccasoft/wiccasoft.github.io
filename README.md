@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz selda bağcan neçet ertaş doyulur mu düet
 https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
 bkz rupert murdoch un fatih portaka gaz vermesi
 bkz fatih portakın bakkal çakkal esnaf batıyo demesi
