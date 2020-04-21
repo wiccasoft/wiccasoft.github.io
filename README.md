@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%
 bkz eppek için eppeleddinciler 
 bkz ne kadar eppek o kaddağ köfteciler
 bkz fatih portakalcı vs maymun götücüler
-bkz laikçiyim amam laikçi müslüman değilmciler
+bkz laikçiyim ama laikçi müslüman değilmciler
 bkz toplumu kin ve düşmalığa sevkedemeyenler
 hanımlağ beyleğ önceliğleğ kimsenin hayatınağğ kimseğ karışamağ amma velakin öle deildiğ
 bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
