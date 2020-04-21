@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-bkz yedi ceddini sikt.ğim amına kodumun karadenizli tranbzonluları
+bkz trabzonuluların oç oldukları halde sinirlenmemeleri
+bkz yedi ceddini siktiğim amına kodumun karadenizli tranbzonluları
 bkz amın götünden sıçtığı karadenizlilerdeki asabiyet
 https://www.uludagsozluk.com/k/yelkenliyle-d%C3%BCnya-turu/ lol
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
