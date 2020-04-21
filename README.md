@@ -4,6 +4,8 @@
 bkz maymun götü vs karadenizliler
 bkz karadenizlilerdeki orsopu çocukluğu geni
 bkz deep webte etnik kökenlere hakaret edince cool olduğunu sanan ergenler
+bkz pulp fiction da deli gibi ateş eden ergen
+https://www.uludagsozluk.com/k/kap%C4%B1y%C4%B1-tekmeleyip-b%C3%BCt%C3%BCn-%C5%9Farj%C3%B6r%C3%BC-bo%C5%9Faltmak/
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi
 https://www.uludagsozluk.com/k/zinedine-zidane/&w=bg bkz annenizi götten sikerim bakışı
 https://www.uludagsozluk.com/k/survivor-2020/&w=bg bkz sorfayfır abisi
