@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-https://www.uludagsozluk.com/e/43205413/ bkz önceliğlen minnak kardeşlere naçizane bir uyarı
+https://www.uludagsozluk.com/e/43205413/ bkz önceliğlen minnağ kardeşlere naçizane bir uyarı
 https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
 bkz eppek için eppeleddinciler 
 bkz ne kadar eppek o kaddağ köfteciler
