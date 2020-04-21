@@ -2,6 +2,7 @@
 
 <!--
 bkz seyfo dayı polat alermdar aşkı
+bkz gafa gesmiyom racon gesiyim deyip trabzonlu kafası kesmek
 bkz oç amınsıçtığı trapzonluların polart alemdara benzemesi
 bkz trabzonuluların oç oldukları halde sinirlenmemeleri
 bkz yedi ceddini siktiğim amına kodumun karadenizli tranbzonluları
