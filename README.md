@@ -4,7 +4,9 @@
 <!-- 
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ polat siker atar 
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/ karahanlı anasını siker lazın
-https://www.uludagsozluk.com/k/alaaddin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=gd sedat siker atar kankağ -->
+https://www.uludagsozluk.com/k/alaaddin-%C3%A7ak%C4%B1c%C4%B1-vs-sedat-peker/&w=gd sedat siker atar kankağ 
+https://www.uludagsozluk.com/k/infaz-yasas%C4%B1yla-%C3%A7%C4%B1k%C4%B1p-k%C4%B1z%C4%B1n%C4%B1-d%C3%B6verek-%C3%B6ld%C3%BCren-adam/&w=gd bkz ben gafasın kestim amk
+-->
 
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
