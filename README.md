@@ -3,7 +3,7 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
-https://twitter.com/pornoturksex?lang=en yeni taze linkler ızaklaşmış olmağz kankağ
+https://twitter.com/pornoturksex?lang=en yeni taze linkler uzaklaşmış kız olmağz kankağ
 bkz ölü sevicili porno kategoriğ yapım aşamasındadır
 bkz hayvanlı porno seven vip müşterilerimiz pornanimalforsex.com sitemizden hizmet alabiliğleğ
 bkz senin bokuna eppek banar yerim eppek diyen kızlı full porno rar arşiv hizmetinizde
