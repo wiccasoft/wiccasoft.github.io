@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!--
+bkz türbanlıların oç olması
 https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
 bkz 2021 de çine 100 milyar dolar yatırım yapacağım
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sadece-t%C3%BCrk%C3%A7%C3%BClerle-hdp-lilerin-anlamas%C4%B1/
