@@ -4,7 +4,7 @@
 <!-- 
 bkz polat alemdar vs seyfo dayı
 bkz fatih tezcandan fatih terime işini yap uyarısı
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz maymun götü suratlı tipler
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz maymun götü
 https://www.uludagsozluk.com/k/kuzey-tekino%C4%9Flu-efsanesi/  kuzey hoplatır olm bunu
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/ polat siker atar 
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanlı/ karahanlı anasını siker lazın
