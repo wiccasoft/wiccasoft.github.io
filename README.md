@@ -1,16 +1,17 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+hanımlağ beyleğ
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
-bkz bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
-bkz sörfayfor yasin hayrağnları pornosu için acun medyayla iletişiğim kurabiliğleğ
+bağyan müşterilerimize sörfayfor taner pornosu xhamsterda bulunmaktağdığ
+sörfayfor yasin hayrağnları pornosu için acun medyayla iletişiğim kurabiliğleğ
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en ayakseverler için amme yaniğ link
 https://twitter.com/pornoturksex?lang=en taze linkler kız uzaklaşmış olmağz kankağ
-bkz ölü sevicili porno kategoriğ yapım aşamasındadır
-bkz hayvanlı porno seven vip müşterilerimiz pornanimalforsex.com sitemizden hizmet alabiliğleğ
-bkz senin bokuna eppek banar yerim eppek diyen kızlı full porno rar arşiv 1000 bitcoin
-bkz aslı bekiroğlan full rar işemeli sıçmalığ ifşağ var isteyene 50 bitcoine atarım kankağ
+ölü sevicili porno kategoriğ yapım aşamasındadır
+hayvanlı porno seven vip müşterilerimiz pornanimalforsex.com sitemizden hizmet alabiliğleğ
+senin bokuna eppek banar yerim eppek diyen kızlı full porno rar arşiv 1000 bitcoin
+aslı bekiroğlan full rar işemeli sıçmalığ ifşağ var isteyene 50 bitcoine atarım kankağ
 https://www.uludagsozluk.com/k/deep-web/&w=bg bkz czn burak ifşası 
 https://www.uludagsozluk.com/k/murat-övüç-ün-isyan-etmesi/&w=bg bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ bkz emeğine aktım kardeş
