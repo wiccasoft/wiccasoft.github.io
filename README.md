@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz sedat pekerin sedat kapanoğlunun adamlarına posta koyması
 bkz yarım satimi yediniz yarım saatte arkadaşlar sizi dövse golf noldu
 https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz toker inşaat
 bkz rupert murdoch un fatih portaka gaz vermesi
