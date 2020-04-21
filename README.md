@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz portakal gibi adam
+https://www.uludagsozluk.com/k/cemal-g%C3%BCrsel/&w=bg bkz beta erkek
 bkz gama erkek vs alfa erkek
 bkz ilk buluşmada çıkarıp masaya vuran alfa erkek
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
