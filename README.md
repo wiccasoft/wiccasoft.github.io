@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/43205413/ bkz önceliğlen minnağ kardeşlere naçizane bir uyarı
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-bilimsel-olarak-da-d%C3%BCz-olmas%C4%B1/ bir gerçek
 https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
 https://www.uludagsozluk.com/k/islamc%C4%B1lar%C4%B1n-ye%C5%9Fil-kom%C3%BCnist-olmas%C4%B1/&w=gd lol
 https://www.uludagsozluk.com/k/karadenizlilerin-hep-gergin-olmasi/&w=gd bkz amınoğlu ekrem
