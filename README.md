@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en
+https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
 bkz ekşicilerin top olduğumu öğrenip peşimi bırakmaları umarım inş yalebbim amin
 bkz fatih isimli erkeklerin genelde gassaraylı olması
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
