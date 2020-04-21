@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+bkz uludaki eşcinsel ergenlerin yanlış kişiyi arması olm ben yumoşum lan sizi sikemeycek kadar yumoş kalkmıyo pipi
 bkz misvak dergisi amınoğlu ekrem karikatürü
 bkz sarışın mavi gözlü zayıf ezik mafya mı olur lan
 bkz olm ben toopum lan yumoşum yumoş ne erkeği ne mafyası lan
