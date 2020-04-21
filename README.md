@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+bkz laikçilerin damada fotoşokla altın varanklı penis yüzüğü yapması
 bkz bekçilerin ünvan peşine değiliz açıklaması
 bkz selçuk bayraktarın damadı kıskanması
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/&w=gd
