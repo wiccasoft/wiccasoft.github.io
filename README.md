@@ -7,8 +7,6 @@ bkz fatih portakal vs maymun götü
 bkz laikçiyim amam laikçi müslüman değilmciler
 bkz toplumu kin ve düşmalığa sevkedemeyen ulucu ergenler
 bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
-bkz bbp liyim ama bbp o işi öyle yapmazcılayy
-bkz akpliyim ama akp o işi yapmıyorcular
 bkz uludaki ergenleri kimse siklemediği için yasal işlem olmaması
 bkz uludaki ergenlerin her gün ergen başı 10 tane anayasal suç işlemesi
 bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
