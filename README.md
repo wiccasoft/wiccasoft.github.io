@@ -5,7 +5,7 @@ bkz seyfo dayı polat alermdar aşkı
 bkz oç amınsıçtığı trapzonluların polart alemdara benzemesi
 bkz trabzonuluların oç oldukları halde sinirlenmemeleri
 bkz yedi ceddini siktiğim amına kodumun karadenizli tranbzonluları
-bkz amın götünden sıçtığı karadenizlilerdeki asabiyet
+bkz amın götünden sıçtığı karadenizlilerdeki asabiyet asdasdasdasdada
 https://www.uludagsozluk.com/k/yelkenliyle-d%C3%BCnya-turu/ lol
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/
