@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://epsilon-pi.uludagsozluk.com/ bkz türkiyenin en sağlıklı beyni
 bkz macunun gaylerin açığını bulması
 bkz bir günde bir milyon sörfayfor tweeti atılması
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en lol
