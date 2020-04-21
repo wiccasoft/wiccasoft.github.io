@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
+https://www.uludagsozluk.com/k/zinedine-zidane/&w=bg bkz oç
 bunlar daha iyi günleriniz oç ları
 bkz oç süleyman soylunun trabzonlu olması
 bkz deep turkish web te ergen başına 10 anaysal suç işlenmesi
