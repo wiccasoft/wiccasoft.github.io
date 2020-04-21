@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
-https://www.uludagsozluk.com/e/43205413/ minnak kardeşlere naçizane bir uyarı
+https://www.uludagsozluk.com/e/43205413/ bkz minnak kardeşlere naçizane bir uyarı
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
 bkz fatih portakal vs maymun götü
