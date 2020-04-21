@@ -3,6 +3,7 @@
 <!--
 bkz maymun götü vs karadenizliler
 bkz karadenizlilerdeki orsopu çocukluğu geni
+bkz deep webte etnik kökenlere küfredince cool olduğunu sanan ergenler
 https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz sarhoş taklidi
 https://www.uludagsozluk.com/k/zinedine-zidane/&w=bg bkz annenizi götten sikerim bakışı
 https://www.uludagsozluk.com/k/survivor-2020/&w=bg bkz sorfayfır abisi
