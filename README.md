@@ -5,7 +5,7 @@ bkz eppek için eppeleddin
 bkz ne kadar eppek o kaddağ köfte
 bkz fatih portakal vs maymun götü
 bkz laikçiyim amam laikçi müslüman değilmciler
-bkz annesi işteyken siyasi başlık açan ulucu ergenler
+bkz annesi işteyken uluda siyaset yapan ergenlerin güldürmesi
 bkz toplumu kin ve düşmalığa sevkedemeyen ulucu ergenler
 bkz muhalifim ama akp bu işi doğru yapıyorcular sorundalı
 bkz uludaki ergenleri kimse siklemediği için yasal işlem olmaması
