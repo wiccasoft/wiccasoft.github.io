@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+bkz münevver karabulutunn cem kestiyse benim kafamı kesti size ne demesi
 bkz daya yiyen türk kızının sana daha çok bağlandım aşkom demesi
 bkz sagopa kajmerin de dediği gibi karıyı dövüp rahatlamak
 bkz karıyı çocukları öldürüp kafa dinlemek
