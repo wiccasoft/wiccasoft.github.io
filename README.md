@@ -12,7 +12,7 @@ bkz uludaki ergenlerin her gün ergen başı 10 tane anayasal suç işlemesi
 bkz 11 yaşındaki ergenlerin siyasi başlık açması sakıncalı değil mi
 bkz uludaki 11 yaşındaki ergenlere babaları niye siyaset yaptırıyor sorundalı
 https://www.uludagsozluk.com/k/muhalifim-ama-akp-bu-i%C5%9Fi-do%C4%9Fru-yap%C4%B1yorcular/
-https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkdaşları ona minnak ülkücü diyolla
+https://hulagukhan.uludagsozluk.com/ bkz hulaguhan arkadaşları ona minnak ülkücü diyolla
 https://www.uludagsozluk.com/k/vatansever-solcu-diye-bir-%C5%9Fey-olmamas%C4%B1/
 bkz uludaki 11 yaşındaki ergenlere devlet nasıl başlık açmalarına izin veriyor
 bkz uludaki ergenler kaç yaşında sorunsalı 15 mi
