@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/bek%C3%A7ilerin-bek%C3%A7i-unvan%C4%B1n%C4%B1-kullanmak-istememesi/ sana bekçi deseler
 https://eksisozluk.com/bekcilerin-kendilerine-bekci-denmesini-istememesi--6483931?a=popular bkz bekçi ne olm 
 https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular bkz ben -->
 
