@@ -3,7 +3,7 @@
 <!--
 bkz eppek için eppeleddin 
 bkz ne kadar eppek o kaddağ köfte
-https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en ayakseverler için amme yaniğ
+https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en ayakseverler için amme yaniğ link
 https://twitter.com/pornoturksex?lang=en yeni taze linkler uzaklaşmış kız olmağz kankağ
 bkz ölü sevicili porno kategoriğ yapım aşamasındadır
 bkz hayvanlı porno seven vip müşterilerimiz pornanimalforsex.com sitemizden hizmet alabiliğleğ
