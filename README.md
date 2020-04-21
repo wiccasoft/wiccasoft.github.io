@@ -2,8 +2,7 @@
 
 <!--
 bkz seyfo dayı polat alermdar aşkı
-bkz trapzonluların polart alemdara benzemesi
-bkz oç amınoğlu trabzonlular
+bkz oç amınsıçtığı trapzonluların polart alemdara benzemesi
 bkz trabzonuluların oç oldukları halde sinirlenmemeleri
 bkz yedi ceddini siktiğim amına kodumun karadenizli tranbzonluları
 bkz amın götünden sıçtığı karadenizlilerdeki asabiyet
