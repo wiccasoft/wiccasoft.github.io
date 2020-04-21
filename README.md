@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg ay siker bu bizi ayol
 bkz emre morun kızlara yürümesinin örtpas edilmesi
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri/&w=gd bkz demeden kılzara yürüyen sapık
 https://www.uludagsozluk.com/k/yedi-numara-haydar/&w=bg bkz yiğidin harman olduğu haydar
