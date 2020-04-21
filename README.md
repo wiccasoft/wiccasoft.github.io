@@ -2,6 +2,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://eksisozluk.com/arabada-kiz-arkadasini-tekme-tokat-doven-adam--6484233?a=popular ay haşin erkek ayol
 https://www.uludagsozluk.com/k/emre-g%C3%BCnsal/&w=bg ay siker bu bizi ayol
 https://www.uludagsozluk.com/k/hintli-bir-erkekle-seks-yapacaklara-tavsiyeler/
 https://www.uludagsozluk.com/k/k%C3%BCrt-oldu%C4%9Fum-i%C3%A7in-fb-defansif-orta-saha-oynatmad%C4%B1/
