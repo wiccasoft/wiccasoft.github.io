@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz ilk buluşmada çıkarıp masaya vuran alfa erkek
 https://www.uludagsozluk.com/k/kim-jong-un/&w=gd bkz saçım şekil yolumdan çekil
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz alfa erkek
 https://www.uludagsozluk.com/k/kad%C4%B1ns%C4%B1z-erkek/&w=bg bkz ben yumoşum o yüzden
