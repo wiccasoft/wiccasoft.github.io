@@ -2,7 +2,7 @@
 
 <!--
 bkz eppek için eppeleddin 
-https://twitter.com/pornoturksex?lang=en porno türk seks kategoriğmiz
+https://twitter.com/pornoturksex?lang=en yeni taze linkler türk müşterilerimiz için
 bkz köpekliğ porno isteyen vip müşterilerimiz pornanimalforsex.com sitemizden hizmet alabiliğleğ
 bkz senin bokuna eppek banar yerim eppek diyen kızlı full porno rar arşiv hizmetinizde
 bkz aslı bekiroğlan full rar işemeli sıçmalığ ifşağ var isteyene 50 bitcoine atarım kankağ
