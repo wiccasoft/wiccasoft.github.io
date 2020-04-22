@@ -7,7 +7,8 @@ bkz macunun gaylerin açığını bulması
 bkz bir günde bir milyon sörfayfor tweeti atılması
 https://www.uludagsozluk.com/k/türkiye-dışarıdan-nasıl-görünüyor-sorunsalı/ mal gibi
 https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz almanya kıskaniy bizi
-https://www.uludagsozluk.com/k/t%C3%BCrklerin-islamiyeti-kabul-etme-sebepleri/&w=gd bkz selahattin eyyübi-->
+https://www.uludagsozluk.com/k/t%C3%BCrklerin-islamiyeti-kabul-etme-sebepleri/&w=gd bkz selahattin eyyübi
+-->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
