@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-islamiyeti-kabul-etme-sebepleri/&w=gd bkz selahattin eyyübi
 https://www.uludagsozluk.com/k/t%C3%BCrkler-islamiyetle-%C5%9Fereflendi-diyen-gev%C5%9Fek/&w=gd caps or didnt happen
 https://www.uludagsozluk.com/k/fahrettin-altun-un-evinin-foto%C4%9Fraflanmas%C4%B1/&w=gd caps or didnt happen
+https://www.uludagsozluk.com/k/18-nisan-2020-ankara-da-ka%C3%A7ak-pavyon-bask%C4%B1n%C4%B1/&w=bg  caps or didnt happen
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
