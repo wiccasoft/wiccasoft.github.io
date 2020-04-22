@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz yapa zekanın ülkeleri daha iyi yöneteceği gerçeği
+bkz yapay zekanın ülkeleri daha iyi yöneteceği gerçeği
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz 13. cımbırloop
 https://www.uludagsozluk.com/k/1-milyon-yaz%C4%B1l%C4%B1mc%C4%B1-projesi/ lol
 https://eksisozluk.com/yazilimcilarin-eteklerinin-tutusmasi--6485506?a=popular lol
