@@ -3,9 +3,6 @@
 
 
 <!-- 
-bkz macunun gaylerin açığını bulması
-bkz bir günde bir milyon sörfayfor tweeti atılması
-https://www.uludagsozluk.com/k/gaylık-utanılacak-bir-şey-midir/ caps or didnt happen
 https://www.uludagsozluk.com/k/türkiye-dışarıdan-nasıl-görünüyor-sorunsalı/ mal gibi
 https://eksisozluk.com/yazilimcilarin-eteklerinin-tutusmasi--6485506?a=popular lol
 https://www.uludagsozluk.com/k/18-nisan-2020-ankara-da-ka%C3%A7ak-pavyon-bask%C4%B1n%C4%B1/&w=bg  caps or didnt happen
