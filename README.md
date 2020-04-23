@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz orası kasıyo gençler
+bkz zallın turuncu total reklamlı sitesinin kasması
 bkz grup yorumun son baterist ölene kadar ölüm orucuna dewamke açıklaması
 https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz totalden reklam alan portakla renkli site
 https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz geup vitamin ismail
