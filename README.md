@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz grup yorumun son baterist ölene kadar ölüm orucuna dewamke açıklaması
 https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz totalden reklam alan portakla renkli site
 https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz geup vitamin ismail
 https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin kankağ hepsi öldü
