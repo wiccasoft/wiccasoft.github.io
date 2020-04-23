@@ -7,15 +7,11 @@ bkz şaka maka pelin çiftin iyi pr kasması
 bkz fatih tezcanın fatih terime verdiği efso ayar
 bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
 bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
-https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
-https://www.uludagsozluk.com/k/erkekler-neden-k%C4%B1z-pe%C5%9Finde-ko%C5%9Far/ karı kız boş işler kankağ
-https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu/44/ lol
-https://www.uludagsozluk.com/k/kavga-ederken-g%C3%B6t%C3%BC-a%C3%A7%C4%B1lan-kezolar/ lol
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz 13. cımbırloop
 https://www.uludagsozluk.com/k/1-milyon-yaz%C4%B1l%C4%B1mc%C4%B1-projesi/ lol
 https://eksisozluk.com/yazilimcilarin-eteklerinin-tutusmasi--6485506?a=popular lol
 https://www.uludagsozluk.com/k/türkiye-dışarıdan-nasıl-görünüyor-sorunsalı/ mal gibi
 https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
+https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-islamiyeti-kabul-etme-sebepleri/&w=gd bkz selahattin eyyübi
 https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz almanya kıskaniy bizi
 https://www.uludagsozluk.com/k/18-nisan-2020-ankara-da-ka%C3%A7ak-pavyon-bask%C4%B1n%C4%B1/&w=bg  caps or didnt happen
