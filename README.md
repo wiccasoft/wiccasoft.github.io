@@ -5,10 +5,11 @@
 <!-- 
 bkz orası kasıyo gençler
 bkz zallın turuncu total reklamlı sitesinin kasması
+bkz grup yorumun bi kişi kaldık zaten çok ta sikimizde deilsinz demesi
 bkz grup yorumun son baterist ölene kadar ölüm orucuna dewamke açıklaması
-https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz totalden reklam alan portakla renkli site
-https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz geup vitamin ismail
-https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin kankağ hepsi öldü
+https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz totalden reklam alan portakal renkli site
+https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz grup vitamin ismail
+https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin kankağ 
 https://eksisozluk.com/pelin-portakal--1616446?a=popular bkz fatih portakal
 https://www.uludagsozluk.com/k/konu%C5%9Ftu%C4%9Fum-en-g%C3%BCzel-k%C4%B1z-de%C4%9Filsin-diyen-erkek/&w=gd en çirkini de deilsin hani
 https://www.uludagsozluk.com/k/erkekler-neden-k%C4%B1z-pe%C5%9Finde-ko%C5%9Far/ karı kız boş işler kankağ
