@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz grup yorum gitaristinin ölüm orucu
+bkz şaka maka grup yorumun bir kişi kalması
 https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin
 https://eksisozluk.com/pelin-portakal--1616446?a=popular bkz fatih portakal
 https://www.uludagsozluk.com/k/konu%C5%9Ftu%C4%9Fum-en-g%C3%BCzel-k%C4%B1z-de%C4%9Filsin-diyen-erkek/&w=gd en çirkini de deilsin hani
