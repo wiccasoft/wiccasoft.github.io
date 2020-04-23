@@ -5,11 +5,11 @@
 <!-- 
 bkz şaka maka pelin çiftin iyi pr kasması
 bkz fatih tezcanın fatih terime verdiği efso ayar
+bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
 bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
 https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
 https://www.uludagsozluk.com/k/erkekler-neden-k%C4%B1z-pe%C5%9Finde-ko%C5%9Far/ karı kız boş işler kankağ
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu/44/ lol
-bkz yapay zekanın ülkeleri daha iyi yöneteceği gerçeği
 https://www.uludagsozluk.com/k/kavga-ederken-g%C3%B6t%C3%BC-a%C3%A7%C4%B1lan-kezolar/ lol
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz 13. cımbırloop
 https://www.uludagsozluk.com/k/1-milyon-yaz%C4%B1l%C4%B1mc%C4%B1-projesi/ lol
