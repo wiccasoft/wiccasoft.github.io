@@ -3,20 +3,13 @@
 
 
 <!-- 
-bkz orası kasıyo gençler
 bkz şaka maka pelin çiftin iyi pr kasması
 bkz pelin portakalın zallın siteye reklam vermesi
 bkz pelin portakalın kapitalizme hizmet ettii gerçeği
-bkz grup yorumun bi kişi kaldık zaten çok ta sikimizde deilsinz demesi
-bkz grup yorumun son baterist ölene kadar ölüm orucuna dewamke açıklaması
 https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
-https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz totalden reklam alan portakal renkli site
 https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz grup vitamin ismail
 https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin kankağ 
-https://eksisozluk.com/pelin-portakal--1616446?a=popular bkz fatih portakal
-https://www.uludagsozluk.com/k/konu%C5%9Ftu%C4%9Fum-en-g%C3%BCzel-k%C4%B1z-de%C4%9Filsin-diyen-erkek/&w=gd en çirkini de deilsin hani
 https://www.uludagsozluk.com/k/erkekler-neden-k%C4%B1z-pe%C5%9Finde-ko%C5%9Far/ karı kız boş işler kankağ
-
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu/44/ lol
 bkz yapay zekanın ülkeleri daha iyi yöneteceği gerçeği
 https://www.uludagsozluk.com/k/kavga-ederken-g%C3%B6t%C3%BC-a%C3%A7%C4%B1lan-kezolar/ lol
