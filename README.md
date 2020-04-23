@@ -4,8 +4,7 @@
 
 <!-- 
 bkz şaka maka pelin çiftin iyi pr kasması
-bkz pelin portakalın zallın siteye reklam vermesi
-bkz pelin portakalın kapitalizme hizmet ettii gerçeği
+bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
 https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
 https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz grup vitamin ismail
 https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin kankağ 
