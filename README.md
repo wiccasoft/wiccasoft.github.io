@@ -5,6 +5,7 @@
 <!-- 
 bkz orası kasıyo gençler
 bkz zallın turuncu total reklamlı sitesinin kasması
+bkz pelin portakalın zallın siteye reklam vermesi
 bkz grup yorumun bi kişi kaldık zaten çok ta sikimizde deilsinz demesi
 bkz grup yorumun son baterist ölene kadar ölüm orucuna dewamke açıklaması
 https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz totalden reklam alan portakal renkli site
