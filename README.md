@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/konu%C5%9Ftu%C4%9Fum-en-g%C3%BCzel-k%C4%B1z-de%C4%9Filsin-diyen-erkek/&w=gd en çirkini de deilsin hani
 https://www.uludagsozluk.com/k/erkekler-neden-k%C4%B1z-pe%C5%9Finde-ko%C5%9Far/ karı kız boş işler kankağ
 https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz fatih portakalın karısı
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu/44/ lol
