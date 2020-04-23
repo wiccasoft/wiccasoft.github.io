@@ -4,11 +4,9 @@
 
 <!-- 
 bkz şaka maka pelin çiftin iyi pr kasması
-bkz fatih tezcanın fatih terime verdiği efso verdiği ayar
+bkz fatih tezcanın fatih terime verdiği efso ayar
 bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
 https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
-https://www.uludagsozluk.com/k/yumu%C5%9Fak-sesli-sanat%C3%A7%C4%B1lar/&w=bg bkz grup vitamin ismail
-https://www.uludagsozluk.com/k/grup-yorum-gen%C3%A7leri-ter%C3%B6rize-ediyor/&w=gd grup vitamin dinleyin kankağ 
 https://www.uludagsozluk.com/k/erkekler-neden-k%C4%B1z-pe%C5%9Finde-ko%C5%9Far/ karı kız boş işler kankağ
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu/44/ lol
 bkz yapay zekanın ülkeleri daha iyi yöneteceği gerçeği
