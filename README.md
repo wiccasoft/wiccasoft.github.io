@@ -4,6 +4,7 @@
 
 <!-- 
 bkz orası kasıyo gençler
+bkz şaka mak pelin çiftin iyi pr kasması
 bkz pelin portakalın zallın siteye reklam vermesi
 bkz pelin portakalın kapitalizme hizmet ettii gerçeği
 bkz grup yorumun bi kişi kaldık zaten çok ta sikimizde deilsinz demesi
