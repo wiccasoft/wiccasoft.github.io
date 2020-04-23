@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/pelin-portakal/&w=gd bkz fatih portakalın karısı
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu/44/ lol
 bkz yapay zekanın ülkeleri daha iyi yöneteceği gerçeği
 https://www.uludagsozluk.com/k/kavga-ederken-g%C3%B6t%C3%BC-a%C3%A7%C4%B1lan-kezolar/ lol
