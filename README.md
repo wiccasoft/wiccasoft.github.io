@@ -6,7 +6,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-bkz yutüpürlerle dalga geçen dailymotiner erkek
+bkz yutüpürlerle dalga geçen dailymotioner erkek
 bkz arabanın kapısını kapattıktan sonra ifşa var mı diye etrafı şöyle bi kesen erkek
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz 2020 ifşa senesi olması
 https://www.uludagsozluk.com/k/telefon-ta%C5%9F%C4%B1rken-kol-saati-takan-erkek/ bkz burak özçivit
