@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-bkz tez antitez fatihtezcan
+bkz tez antitez fatih tezcan
 bkz o değil de fatih tezcan kim amk
 bkz fatih tezcan atacücü cücüydü iddası
 bkz fatih tezcan ne iş yapıyor sorunsalı
