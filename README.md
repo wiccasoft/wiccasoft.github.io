@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://eksisozluk.com/telefon-tasirken-kol-saati-takan-erkek--6488737?a=popular bkz çözümlenmesi zor erkek
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz boşnak saksosu
 bkz tutmayın cücüleri
 bkz cücüler compound modelliyoruz sonra bakarım 
