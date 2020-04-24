@@ -5,6 +5,7 @@
 <!-- 
 bkz tez antitez fatihtezcan
 bkz o değil de fatih tezcan kim amk
+bkz şaka maka fatihtezcan nın marka olma yolunda ilerlemesi
 bkz şaka maka pelin çiftin iyi pr kasması
 bkz fatih tezcanın fatih terime verdiği efso ayar
 bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
