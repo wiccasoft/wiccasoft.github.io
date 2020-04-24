@@ -19,6 +19,7 @@ bkz fatih tezcanın fatih terime verdiği efso ayar
 bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
 bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
 bkz fatih tezcanın atacücücüleri kızdırmak için yeni bir tweet üstünde çalışması
+https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz boşnak saksosu
 https://www.uludagsozluk.com/k/1-milyon-yaz%C4%B1l%C4%B1mc%C4%B1-projesi/ lol
 https://eksisozluk.com/yazilimcilarin-eteklerinin-tutusmasi--6485506?a=popular lol
 https://www.uludagsozluk.com/k/türkiye-dışarıdan-nasıl-görünüyor-sorunsalı/ mal gibi
