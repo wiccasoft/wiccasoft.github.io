@@ -6,7 +6,6 @@
 bkz tez antitez fatihtezcan
 bkz fatih tezcan atacücü cücüydü iddası
 bkz fatih tezcan murat karayılan güzellemesi
-bkz türklerin yoğurt dışında insalığa katkısı
 bkz nasreddin hoca very funny guy from anadolu
 bkz 61ercü + covid19 + batman = dornaz81 iyi ki varsın dornaz alfa
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
