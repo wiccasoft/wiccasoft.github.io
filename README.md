@@ -5,6 +5,7 @@
 <!-- 
 bkz tez antitez fatihtezcan
 bkz fatih tezcan murat karayılan güzellemesi
+bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz fatih tezcanın tam kamalcılar seviyesinde bi mal olması
 bkz o değil de fatih tezcan kim amk
 bkz şaka maka pelin çiftin iyi pr kasması
