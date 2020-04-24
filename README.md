@@ -6,6 +6,7 @@ bkz tez antitez fatih tezcan
 bkz o değil de fatih tezcan kim amk
 bkz fatih tezcan atacücü cücüydü iddası
 bkz fatih tezcan ne iş yapıyor sorunsalı
+bkz fatih tezcan dan fatih terime işin yap uyarısı
 bkz fatih tezcan murat karayılan güzellemesi
 bkz nasreddin hoca very funny guy from anadolu
 bkz 61ercü + covid19 + batman = dornaz81 iyi ki varsın dornaz alfa
