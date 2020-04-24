@@ -9,11 +9,10 @@ bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz fatih tezcan dan fatih terime işin yap uyarısı
 bkz fatih tezcan murat karayılan güzellemesi
 bkz nasreddin hoca very funny guy from anadolu
+bkz fatih tezcanın tam kamalcılar seviyesinde bi mal olması
 bkz hadi tuğçe kazaz eski manken anladım da fatih tezcan kim lan
 bkz 61ercü + covid19 + batman = dornaz81 iyi ki varsın dornaz alfa
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-bkz fatih tezcanın tam kamalcılar seviyesinde bi mal olması
-bkz o değil de fatih tezcan kim amk
 bkz şaka maka pelin çiftin iyi pr kasması
 bkz fatih tezcanın fatih terime verdiği efso ayar
 bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
