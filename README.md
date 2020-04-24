@@ -7,6 +7,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz sagopa ceza kavgası
+https://eksisozluk.com/c-ozdemirin-c-kaftanciogluna-meydan-okumasi--6488647?a=popular bırakın la gelsin hele gel cücü
 https://eksisozluk.com/arabasinin-kilometrede-ne-yaktigini-bilmeyen-erkek--6488761?a=popular bkz kaan boşnak
 https://eksisozluk.com/telefon-tasirken-kol-saati-takan-erkek--6488737?a=popular bkz çözümlenmesi zor erkek
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz boşnak saksosu
