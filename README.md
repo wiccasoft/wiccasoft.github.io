@@ -3,9 +3,9 @@
 
 
 <!-- 
+bkz tez antitez fatihtezcan
 bkz o değil de fatih tezcan kim amk
 bkz şaka maka pelin çiftin iyi pr kasması
-bkz twitter fenomenlerinin güldürmesi
 bkz fatih tezcanın fatih terime verdiği efso ayar
 bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
 bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
