@@ -13,13 +13,13 @@ https://eksisozluk.com/c-ozdemirin-c-kaftanciogluna-meydan-okumasi--6488647?a=po
 https://eksisozluk.com/arabasinin-kilometrede-ne-yaktigini-bilmeyen-erkek--6488761?a=popular bkz kaan boşnak
 https://eksisozluk.com/telefon-tasirken-kol-saati-takan-erkek--6488737?a=popular bkz çözümlenmesi zor erkek
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz boşnak saksosu
+bkz cücüler compound modelliyoruz sonra bakarım 
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!--
 bkz tutmayın cücüleri
-bkz cücüler compound modelliyoruz sonra bakarım 
 bkz fatih tezcan atacücü cücüydü iddası
 bkz tez antitez fatih tezcan
 bkz o değil de fatih tezcan kim amk
