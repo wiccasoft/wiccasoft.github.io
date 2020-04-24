@@ -6,7 +6,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz müslüman avm rapçisi
+https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz müslüman avm arabesk rapçi furyası
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz aslı bekiroğlan kaan boşnak ilişkisi
 https://eksisozluk.com/c-ozdemirin-c-kaftanciogluna-meydan-okumasi--6488647?a=popular bırakın la gelsin hele gel cücü
 https://eksisozluk.com/arabasinin-kilometrede-ne-yaktigini-bilmeyen-erkek--6488761?a=popular bkz kaan boşnak
