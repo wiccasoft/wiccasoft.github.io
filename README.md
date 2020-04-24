@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+bkz tutmayın cücüleri
 bkz cücüler işimiz var sonra bakarım 
 bkz fatih tezcan atacücü cücüydü iddası
 bkz tez antitez fatih tezcan
