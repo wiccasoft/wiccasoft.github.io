@@ -3,6 +3,7 @@
 
 <!-- 
 bkz tez antitez fatihtezcan
+bkz o değil de fatih tezcan kim amk
 bkz fatih tezcan atacücü cücüydü iddası
 bkz fatih tezcanın mesleği ne sorunsalı
 bkz fatih tezcan murat karayılan güzellemesi
