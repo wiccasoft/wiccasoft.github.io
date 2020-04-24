@@ -1,34 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
-
-<!-- 
-bkz tez antitez fatihtezcan
-bkz fatih tezcan atacücü cücüydü iddası
-bkz fatih tezcan murat karayılan güzellemesi
-bkz nasreddin hoca very funny guy from anadolu
-bkz 61ercü + covid19 + batman = dornaz81 iyi ki varsın dornaz alfa
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-bkz fatih tezcanın tam kamalcılar seviyesinde bi mal olması
-bkz o değil de fatih tezcan kim amk
-bkz şaka maka pelin çiftin iyi pr kasması
-bkz fatih tezcanın fatih terime verdiği efso ayar
-bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
-bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
-https://www.uludagsozluk.com/k/1-milyon-yaz%C4%B1l%C4%B1mc%C4%B1-projesi/ lol
-https://eksisozluk.com/yazilimcilarin-eteklerinin-tutusmasi--6485506?a=popular lol
-https://www.uludagsozluk.com/k/türkiye-dışarıdan-nasıl-görünüyor-sorunsalı/ mal gibi
-https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
-https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
-https://www.uludagsozluk.com/k/t%C3%BCrklerin-islamiyeti-kabul-etme-sebepleri/&w=gd bkz selahattin eyyübi
-https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz almanya kıskaniy bizi
-https://www.uludagsozluk.com/k/18-nisan-2020-ankara-da-ka%C3%A7ak-pavyon-bask%C4%B1n%C4%B1/&w=bg  caps or didnt happen
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-iki-ki%C5%9Fiyi-vurup-ka%C3%A7mas%C4%B1/ caps or didnt happen
-https://www.uludagsozluk.com/k/t%C3%BCrkler-islamiyetle-%C5%9Fereflendi-diyen-gev%C5%9Fek/&w=gd caps or didnt happen
-https://www.uludagsozluk.com/k/fahrettin-altun-un-evinin-foto%C4%9Fraflanmas%C4%B1/&w=gd caps or didnt happen
-https://www.uludagsozluk.com/k/ekrem-mi-mansur-mu/&w=bg bkz millet hizmet beklerken kakanın osura osura uyuması
--->
-
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
