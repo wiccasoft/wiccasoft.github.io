@@ -3,7 +3,7 @@
 
 <!-- 
 bkz tutmayın cücüleri
-bkz cücüler compund modelliyoruz sonra bakarım 
+bkz cücüler compound modelliyoruz sonra bakarım 
 bkz fatih tezcan atacücü cücüydü iddası
 bkz tez antitez fatih tezcan
 bkz o değil de fatih tezcan kim amk
