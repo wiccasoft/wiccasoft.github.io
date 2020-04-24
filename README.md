@@ -2,8 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
-bkz cücüler işimiz var sonra gülerim
-https://eksisozluk.com/c-ozdemirin-c-kaftanciogluna-meydan-okumasi--6488647?a=popular&p=2 bkz cücü ne diyosun ya
+bkz cücüler işimiz var sonra bakarım 
 bkz fatih tezcan atacücü cücüydü iddası
 bkz tez antitez fatih tezcan
 bkz o değil de fatih tezcan kim amk
