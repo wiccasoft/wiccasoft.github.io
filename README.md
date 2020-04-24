@@ -4,6 +4,7 @@
 
 <!-- 
 bkz yutüpürlerle dalga geçen dailymotioner erkek
+bkz ilk buluşmada masaya anahtarlık koyan erkek
 bkz arabanın kapısını kapattıktan sonra ifşa var mı diye etrafı şöyle bi kesen erkek
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz 2020 ifşa senesi olması
 https://www.uludagsozluk.com/k/telefon-ta%C5%9F%C4%B1rken-kol-saati-takan-erkek/ bkz burak özçivit
