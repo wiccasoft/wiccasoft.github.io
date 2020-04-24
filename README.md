@@ -4,6 +4,7 @@
 
 <!-- 
 bkz tez antitez fatihtezcan
+bkz fatih tezcanın tam kamalcılar seviyesinde bi malak olması
 bkz o değil de fatih tezcan kim amk
 bkz şaka maka pelin çiftin iyi pr kasması
 bkz fatih tezcanın fatih terime verdiği efso ayar
