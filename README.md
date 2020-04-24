@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 <!-- 
+https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz 2020 ifşa senesi olması
 https://www.uludagsozluk.com/k/telefon-ta%C5%9F%C4%B1rken-kol-saati-takan-erkek/ bkz burak özçivit
 https://eksisozluk.com/187-cm-kasli-dalgali-sacli-kumral-yalniz-erkek--5243823?a=popular bkz sagopa kajmer
 https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz müslüman avm arabesk rapçi furyası
