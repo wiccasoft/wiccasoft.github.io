@@ -4,6 +4,7 @@
 
 <!-- 
 bkz tez antitez fatihtezcan
+bkz fatih tezcan atacücü cücüydü iddası
 bkz fatih tezcan murat karayılan güzellemesi
 bkz 61ercü + covid19 + batman = dornaz81 iyi ki varsın dornaz alfa
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
