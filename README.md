@@ -3,8 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz ilk buluşmada hiç ifşam yok diyen erkek
 bkz yutüpürlerle dalga geçen dailymotioner erkek
-bkz ilk buluşmada masaya anahtarlık koyan erkek
 bkz arabanın kapısını kapattıktan sonra ifşa var mı diye etrafı şöyle bi kesen erkek
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz 2020 ifşa senesi olması
 https://www.uludagsozluk.com/k/telefon-ta%C5%9F%C4%B1rken-kol-saati-takan-erkek/ bkz burak özçivit
