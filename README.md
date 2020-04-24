@@ -1,58 +1,8 @@
 
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
-<!-- 
-bkz yutüpürlerle dalga geçen dailymotioner erkek
-bkz arabanın kapısını kapattıktan sonra ifşa var mı diye etrafı şöyle bi kesen erkek
-https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz 2020 ifşa senesi olması
-https://www.uludagsozluk.com/k/telefon-ta%C5%9F%C4%B1rken-kol-saati-takan-erkek/ bkz burak özçivit
-https://eksisozluk.com/187-cm-kasli-dalgali-sacli-kumral-yalniz-erkek--5243823?a=popular bkz sagopa kajmer
-https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz müslüman avm arabesk rapçi furyası
-https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz aslı bekiroğlan kaan boşnak ilişkisi
-https://eksisozluk.com/c-ozdemirin-c-kaftanciogluna-meydan-okumasi--6488647?a=popular bırakın la gelsin hele gel cücü
-https://eksisozluk.com/arabasinin-kilometrede-ne-yaktigini-bilmeyen-erkek--6488761?a=popular bkz kaan boşnak
-https://eksisozluk.com/telefon-tasirken-kol-saati-takan-erkek--6488737?a=popular bkz çözümlenmesi zor erkek
-https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz boşnak saksosu
-bkz cücüler compound modelliyoruz sonra bakarım 
--->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
-
-<!--
-bkz tutmayın cücüleri
-bkz fatih tezcan atacücü cücüydü iddası
-bkz tez antitez fatih tezcan
-bkz o değil de fatih tezcan kim amk
-bkz fatih tezcan atacücü cücüydü iddası
-bkz fatih tezcan ne iş yapıyor sorunsalı
-bkz fatih tezcan murat karayılan güzellemesi
-bkz nasreddin hoca very funny guy from anadolu
-bkz fatih tezcan dan fatih terime işin yap uyarısı
-bkz fatih tezcanın tam kamalcılar seviyesinde bi mal olması
-bkz hadi tuğçe kazaz eski manken anladım da fatih tezcan kim lan
-bkz 61ercü + covid19 + batman = dornaz81 iyi ki varsın dornaz alfa
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-bkz şaka maka pelin çiftin iyi pr kasması
-bkz fatih tezcanın fatih terime verdiği efso ayar
-bkz yapay zekanın ülkeyi daha iyi yöneteceği gerçeği
-bkz pelin portakalın total reklamıyla kapitalizme hizmet ettii gerçeği
-bkz fatih tezcanın atacücücüleri kızdırmak için yeni bir tweet üstünde çalışması
-https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz boşnak saksosu
-https://www.uludagsozluk.com/k/1-milyon-yaz%C4%B1l%C4%B1mc%C4%B1-projesi/ lol
-https://eksisozluk.com/yazilimcilarin-eteklerinin-tutusmasi--6485506?a=popular lol
-https://www.uludagsozluk.com/k/türkiye-dışarıdan-nasıl-görünüyor-sorunsalı/ mal gibi
-https://eksisozluk.com/bill-gatesin-cipli-koleleri-olmayacagiz--6488509?a=popular lol
-https://eksisozluk.com/ercument-ovalinin-covid-19-asisini-bulmasi--6487327?a=popular lol
-https://www.uludagsozluk.com/k/hollandada-sari-civcivin-balkonunda-nargile-i%C3%A7mek/ lol
-https://eksisozluk.com/dogada-matematik-diye-bir-sey-olmamasi--6482032?a=popular&p=1 adam haklı oçları
-https://www.uludagsozluk.com/k/t%C3%BCrklerin-islamiyeti-kabul-etme-sebepleri/&w=gd bkz selahattin eyyübi
-https://www.uludagsozluk.com/k/hitler-t%C3%BCrkiyeye-girseydi-ne-olurdu-analizi/&w=gd bkz almanya kıskaniy bizi
-https://www.uludagsozluk.com/k/18-nisan-2020-ankara-da-ka%C3%A7ak-pavyon-bask%C4%B1n%C4%B1/&w=bg  caps or didnt happen
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-iki-ki%C5%9Fiyi-vurup-ka%C3%A7mas%C4%B1/ caps or didnt happen
-https://www.uludagsozluk.com/k/t%C3%BCrkler-islamiyetle-%C5%9Fereflendi-diyen-gev%C5%9Fek/&w=gd caps or didnt happen
-https://www.uludagsozluk.com/k/fahrettin-altun-un-evinin-foto%C4%9Fraflanmas%C4%B1/&w=gd caps or didnt happen
-https://www.uludagsozluk.com/k/ekrem-mi-mansur-mu/&w=bg bkz millet hizmet beklerken kakanın osura osura uyuması
--->
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 
