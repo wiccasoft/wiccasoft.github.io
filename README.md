@@ -5,7 +5,7 @@
 <!--
 bkz twitter linki at oç
 bkz bizimkiler tak tak sedat
-bkz memeikoğlan ahmet hakan cnalı yayın kaggası
+bkz memikoğlanın binalioğlan ortak yayını
 bkz memikoğlanı 3 kelimeyle anlat
 bkz memikoğlan deyince akla gelen kelimeler
 bkz memikoğlana bir iftira da sen at
