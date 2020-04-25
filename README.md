@@ -5,6 +5,7 @@
 <!--
 bkz twitter linki at oç
 bkz ekşicilerin kaan boşnak ı ifşa etmesi
+bkz sedat tanrıkulunun götünüzx yiyosa diyarbakır a gelin tweeti
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-alevili%C4%9Fi-din-olarak-g%C3%B6stermesi/ bkz amınoğlu
 https://www.uludagsozluk.com/k/unutulmaz-keko-s%C3%B6zleri/&w=bg bkz kezoların yine atar yapması
 https://www.uludagsozluk.com/k/kim-yong-un-un-%C3%B6lmesi/ twitter linki at kanka inanmam
