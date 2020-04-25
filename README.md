@@ -13,6 +13,8 @@ bkz ekşideki mansur yava ş beni cumburlopum olacak kavgası
 bkz ekşcilerin cüneyt cücüdemir i unfollowlaması
 bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
 bkz sedat tanrıkulunun götünüz yiyosa diyarbakır a gelin tweeti
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz bizimkiler tak tak sedat
 https://eksisozluk.com/ahmet-hakan-denilince-akla-ilk-gelen-sozcuk--6489986?a=popular bkz kekremsi kelimeler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg bkz amınoğlu değil
 https://www.uludagsozluk.com/k/devletsiz-bir-toplum-m%C3%BCmk%C3%BCn-m%C3%BC/&w=gd bkz olur olur bal gibi olur
