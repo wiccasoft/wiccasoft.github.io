@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz buzdolabına yedikçe sikişiyoz yazan çift
 bkz annenin sikilmedik bi göt deliğim kaldı demesi
 bkz annesini siken adama babişko diyen gavat
 bkz siklmedik bi göt deliği kalmış anneler
