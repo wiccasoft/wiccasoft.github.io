@@ -4,6 +4,7 @@
 
 <!-- 
 bkz kaan boşnak ifşası
+bkz memişleri kabarmamış kyk lı kız bulup evlenmek
 bkz kyk borcu ola patlak kızlar
 bkz kyk borcu olan patlak kızla evlenmek
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
