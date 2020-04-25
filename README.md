@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz patlak ekşci kızların kyk borcumu öde tırşık yapem sana demesi
 bkz iq düştükçe iştahın artması
 bkz sevgilisine tırşık yapan kız
 bkz patlak kızın yaptığı tırşığı zorla yemek
