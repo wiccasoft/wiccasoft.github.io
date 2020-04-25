@@ -4,6 +4,7 @@
 
 <!--
 bkz kaan boşnak ifşası 
+bkz sert taş fırın erkeklerinin kalmaması
 bkz erkeklerin gittikçe kadınlaşması
 bkz kaan boşnak gibi erkeklerin am için entry giren kızları üzmesi
 bkz cüneyt isimli erkeklerin genel özellikleri
