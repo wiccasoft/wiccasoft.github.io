@@ -6,6 +6,7 @@
 bkz siyasal şintocular
 bkz iq düştükçe iştahın artması
 bkz sevgilisine tırşık yapan kız
+https://www.uludagsozluk.com/k/yazarlar%C4%B1n-kek-tarifleri/ bkz tırşık yapan kız
 https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-k%C4%B1z/&w=bg bkz tırşıkçı kız
 https://www.uludagsozluk.com/k/bakir-olmayan-erkek-de-patlakt%C4%B1r/ adam haklı beyler
 https://www.uludagsozluk.com/k/sevgilisine-profiterol-yapan-k%C4%B1z/&w=bg bkz tırşık yapan kız
