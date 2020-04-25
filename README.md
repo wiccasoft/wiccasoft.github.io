@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kim jon unun selayı beklemesi
 bkz buzdolabına tosunum yazan kız
 bkz ha tosunuma yi hepsini tosunum yi diyen kız
 bkz pastayı ham yapacaksın tosunum diyen kız
@@ -18,6 +19,7 @@ bkz tırşık sürülmemiş bi kulakları kalmış kız
 bkz sırtıma tırşık sürsene diyen kız
 bkz ekşcilerin ido tatlıses ifşası
 bkz ido tatlısesin babam siyahi kürt demesi
+https://www.uludagsozluk.com/k/hz-ali-ve-kim-jong-un-bulu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/siyahi-ibrahim-tatl%C4%B1ses/ bkz siyahi kürtler
 bkz sahurda sana bi tencere tırşık yaparım diyen patlak kız
 bkz ben hiç oruç tutuma diyen erkek
