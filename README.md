@@ -5,6 +5,7 @@
 <!--
 bkz sagopa kajmer manuş baba düeti
 bkz 6 tırşık yiyip götdeliğine turşu sokan gay
+https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
 https://www.uludagsozluk.com/k/erkekler-nas%C4%B1l-giyinmeli/&w=bg bkz gayleri çıldırtacak şekilde
  https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç 
 https://www.uludagsozluk.com/k/etli-k%C4%B1%C5%9F-t%C3%BCrl%C3%BCs%C3%BC-vs-t%C4%B1r%C5%9F%C4%B1k/
