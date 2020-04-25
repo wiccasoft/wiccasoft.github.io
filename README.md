@@ -4,7 +4,7 @@
 
 <!--
 bkz ekşicilerin hayalindeki erkeğin beyin cerrahı çıkması
-bkz ibb web sitesine hiç girmemiş yakışıklı kumral 1.87 beyin cerrahı erkek
+bkz ibb web sitesine hiç girmemiş yakışıklı kumral beyin cerrahı erkek
 bkz daha önce hiç ibb sitesine girmemiş erkek
 bkz ultra anti lgbt team in ibb web sitesine saldırması
 bkz daha önce hiç ultra geyseli öpmemiş erkek
