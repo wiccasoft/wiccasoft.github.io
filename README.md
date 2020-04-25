@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+https://www.uludagsozluk.com/k/patates-k%C4%B1zartmas%C4%B1/&w=bg bkz tırşıkla iyi gider
 bkz orç ların oruç baba türbesine saldırması
 bkz erkek deyince akla erkek imgesi gelmesi
 bkz cüneyt özdemir ekşcicilere geneetiği bozuk oçler demesi
