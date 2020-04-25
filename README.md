@@ -3,7 +3,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz adıma başlık açın da annenizi götten sikeyim oçları
 bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
 bkz beyni yok fikri var oçlarının
 bkz oç ları deyin akla gelen ekşiciler
