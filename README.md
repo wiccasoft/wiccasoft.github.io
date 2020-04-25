@@ -3,7 +3,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz olm ben sizin oymağa bağlı değilim
 bkz oç türklerin beni türk sanması
 https://www.pinterest.com/wiccasoft/pins
 bkz ekşicilerin yabancı hesabı ak parti diye takip etmesi
@@ -13,6 +12,7 @@ bkz kim jong unun cnn türkü dörte bölmesi
 bkz kurtlar vadisi kumpas ekşici limoncu team
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ kumpas kurma oç 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
+https://www.uludagsozluk.com/k/ankara-b%C5%9Fb-nin-iftarver-com-sitesine-siber-sald%C4%B1r%C4%B1/ bkz ping atma oç
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
