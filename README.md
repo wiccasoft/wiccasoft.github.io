@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz akplilerin oç olması
 bkz abdullah gül adam mıdır sorundalı
 bkz ahmet necdet sezer adam mıdır sorundalı
 bkz ahmet davut oğlan adam mıdır sorundalı
