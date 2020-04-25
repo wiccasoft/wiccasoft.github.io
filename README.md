@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sevdiceğini tırşıkla bezleyen kız 
 bkz tırşık yaptın yern mi diyen kız
 bkz ben senin bokuna tırşık banar öle yerim diyen kız
 bkz ben senin bokunu yerim lan bokunu diyen kız
