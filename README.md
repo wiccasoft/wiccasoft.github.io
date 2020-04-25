@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ibrahim talısesin ben küçükken kıvırcıktım demesi
 blz ilkber ortaçgil mi celal şengörü mü sorunsalı
 bkz celal şengil ilber otaçfil arasındaki dostluk
 bkz celal şengil vs ilver ortçlı ortak yayını
