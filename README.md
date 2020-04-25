@@ -4,6 +4,7 @@
 
 <!-- 
 bkz la bize her yer ankara
+https://www.uludagsozluk.com/k/gay-olmak-i%C3%A7in-sebepler/&w=bg bkz mansur yavaş
 bkz fatih tezcandan fatih terime işin yap uyarısı
 bkz ulus cebeci çankaya kardaş deriz kankayaaaaaaaa
 bkz hoşlaşılan bld. bşk nının twitter profilini fare ile okşamak
