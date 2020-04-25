@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--- 
+bkz yılmaz günel yılmaz morgünlün amına yılan soktu yalanı
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz yavru köpeği siken cani kürt
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en -->
 
