@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz cnn türko melik ahmet ortak yayını yütüp
 bkz 06melik deyince akla fışkıye gelmesi
 bkz 06ahmet deyince akla gelenler
 bkz la bize her yer ankara
