@@ -4,7 +4,6 @@
 
 <!--
 bkz ekşicilerin erkekleri trollemesi
-https://www.uludagsozluk.com/k/erkekler-nas%C4%B1l-giyinmeli/&w=bg
 bkz ekşicilerin hayalindeki erkeğin beyin cerrahı çıkması
 bkz ibb web sitesine hiç girmemiş yakışıklı kumral beyin cerrahı erkek
 bkz daha önce hiç ibb sitesine girmemiş erkek
