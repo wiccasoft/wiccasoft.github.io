@@ -5,6 +5,7 @@
 <!--
 bkz twitter linki at oç
 bkz bizimkiler tak tak sedat
+bkz memikoğlanın ortak yayında verdiği efso ayar
 bkz memikoğlanın binalioğlan ortak yayını
 bkz memikoğlanı 3 kelimeyle anlat
 bkz memikoğlan deyince akla gelen kelimeler
