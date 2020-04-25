@@ -4,6 +4,7 @@
 
 <!--
 bkz kaan boşnak ifşası 
+bkz erkeklerin gittikçe layt erkeği olması
 bkz sert taş fırın erkeklerinin kalmaması
 bkz erkeklerin gittikçe kadınlaşması
 bkz kaan boşnak gibi erkeklerin am için entry giren kızları üzmesi
