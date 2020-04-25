@@ -3,8 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz cüneyt özdemir çoook yakışıklıaaaaaaaaaa diyen kız
 bkz murat övüç o kadar yakışıklı değil yaa diyen kız
+bkz cüneyt özdemir çoook yakışıklıaaaaaaaaaa diyen kız
 bkz murat boz mu yakışıklı murat övüç mü sorunsalı
 bkz selocan yakışıklı değil ya diyen kız
 bkz yakışıklı siyasetçileri seçiyoruz
