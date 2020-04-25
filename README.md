@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz küçük enişte deyince akla gelenler
 bkz adamın hammaddesi deyince akılda beliren ilk isim
 bkz kadir mısıroğlan deyince akla gelenler
 bkz adam gibi adam deyince akla gelen ilk adam
