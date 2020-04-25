@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz annesinin siken adam babişko diyen gavat
 bkz siklmedik bi göt deliği kalmış anneler
 bkz sevdiceğine tırşık yapan kız
 bkz tırşık yaptım yen mi diyen kız
