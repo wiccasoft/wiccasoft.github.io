@@ -6,6 +6,7 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
+bkz enis kirazoğlu deyince akla gelenler
 bkz ben sizin babanızım deyince akla gelenler
 bkz manuş baba deyince akla gelenler
 bkz sagopa kajmer manuş baba beznerliği
