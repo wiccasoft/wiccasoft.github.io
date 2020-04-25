@@ -32,24 +32,7 @@ bkz aşkım barış akarsuya enrtry girsene biraz da diyen kız
 bkz aşkım gece gece akla ne geldi yine diyen kız
 bkz aşkım barış akarsunun gözleri rimelli mi diyen kız
 bkz cüneyt özdemirin yütüp kaalınaa dislayk atsana aşkım diyen kamalcı kız
-bkz ekşicilerin cüneytle küsmesi
-bkz aşkım cüneyt özdemire entry girsene diyen kız
-bkz cüneyt özdemirdeyince akla gelenler ne diyen kız
-bkz cüneyt özdemir cücü mi diyen kız
-bkz cüneyt özdemir ekşici mi diyen kız
-bkz selahattin demirtaş hapisteyse nasıl enrtry giriyo diyen kız
-bkz kaan boşnak kim diyen kız
-bkz kaan boşnak saksosu ne diyen kız
-bkz köyden geldim beni meşhur etmeyecen mi diyen kız
-bkz köyden şehre okumaya gelen batlak kızlar
-bkz bir akpliye yaklaşıp kulağına öpücük kondurmak
-bkz patlak kızların suda çıakrdığı ses
-bkz patlak kızların su ürünleri okumaya şehre gelmesi
-bkz kim jong un nun yanaklarını sıkıp tosunum diyen kız
-bkz ben senin bokunu uerim lan bokunu deyen köylü kız
-bkz kim jong un deyince akla gelenler 
-bkz köyden şehre geldim okumaya deyen kız
-https://www.uludagsozluk.com/k/berkin-elvan-ethem-sar%C4%B1s%C3%BCl%C3%BCk-ay%C5%9Fe-deniz-karacagil/ bkz dna -->
+-->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
