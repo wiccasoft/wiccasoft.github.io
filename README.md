@@ -4,6 +4,7 @@
 
 <!--
 bkz iğrençsiniz ibneler
+bkz yatalak dedenin pipisini emmek
 bkz sagopa kajmer manuş baba düeti
 bkz  gönlü güzel kız mı götü güzel kız mı
 bkz ben senin boklu tırşığını yerim diyen kız
