@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/kim-yo-jong/&w=gd bkz kim jong unun orospu ablası
 https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-vs-celal-%C5%9Feng%C3%B6r/&w=bg ilber siker kankağ
 bkz kim jong una tatlişko diyen kızlar
 bkz kim jong unu yedirmeyiz diyen kızlar
