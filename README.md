@@ -10,7 +10,7 @@ bkz patlak kızın uaptığı altı tabak tırşığı yiyip sıçmak
 https://www.uludagsozluk.com/k/patlak-olsam-bile-benimle-evlenmek-zorundas%C4%B1n/ bkz patlak lastik zırvaları
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-kek-tarifleri/ bkz tırşık yapan kız
 https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-k%C4%B1z/&w=bg bkz tırşıkçı kız
-https://www.uludagsozluk.com/k/bakir-olmayan-erkek-de-patlakt%C4%B1r/ bkz patlak bakir oğlanlar
+https://www.uludagsozluk.com/k/bakir-olmayan-erkek-de-patlakt%C4%B1r/ bkz patlak lastik tipli ergenler
 https://www.uludagsozluk.com/k/sevgilisine-profiterol-yapan-k%C4%B1z/&w=bg bkz tırşık yapan kız
 bkz sevdiceğine altı tabak tırşık yediren kız
 bkz iq arttıkça fenerli olamnın artması fenerli olduğum için demiyoru mama öyle kankağ
