@@ -4,7 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
-bkz full nick altı temiz beyin kanartan ekşi ifşa link atmamış hesap acilen satılık 
+bkz full nick altı temiz beyin kanartan ifşa link atmamış ekşici hesap acilen satılık 
 bkz demeden beyin kanartan ifşalar 2020 full arşiv isteyen satarım kankağ
 bkz cüneytdemirin chpliler genetiği oynanamış oç ları gibiler demesi
 bkz beyin kanartan deyince akla kan gelmesi amk
