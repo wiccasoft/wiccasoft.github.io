@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz anakarta bşb nin iftarver sitesine saldırması
 bkz tayyipin türklere oç demesi
 bkz oç türklerin beni türk sanması
 bkz türklerin internetin virüsü olma ihtimali
