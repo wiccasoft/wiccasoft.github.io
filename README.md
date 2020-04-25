@@ -7,6 +7,7 @@ bkz şaka maka madafaka
 bkz şaka maka 10 tabak yemek yemek
 bkz türklerin sürekli yemek yemesi
 bkz oç tutumayıp oçyim diye gezmek
+bkz sahurda sevişmelik erkek veritabanı
 https://www.uludagsozluk.com/k/oru%C3%A7-tutmay%C4%B1p-adam%C4%B1m-diye-dola%C5%9Fmak/&w=bg 
 https://www.uludagsozluk.com/k/tavuk-dururken-pangolin-yemek/
 https://www.uludagsozluk.com/k/patates-k%C4%B1zartmas%C4%B1/&w=bg bkz tırşıkla iyi gider
