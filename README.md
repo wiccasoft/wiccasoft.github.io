@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz sözlük kapanırsa kim jong una entry nerey girecez sorunsalı
+bkz sözlük kapanırsa kim jong una entry nereye girecez sorunsalı
 bkz kim jong unun saç stilini değiştirmesi
 bkz kim jong un un iftarver.com u nukelemesi
 bkz kim jong un un yeni balistik füze denemesi
