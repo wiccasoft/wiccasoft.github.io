@@ -3,9 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz ekşciilerin yabanacı hesabı ak parti diye takip etmesi
-bkz ekşicic oç larının annesinin amına beton dökmek
-bkz annesine götüne beton döktüğümün gay ekşicilerinden kurtulma yolları
+bkz ekşcilerin yabancı hesabı ak parti diye takip etmesi
 bkz oç türklerin niye beni takip etmesi sorunsalı
 bkz oç türklerin beni türk sanması
 bkz kim jong un u 3 kelimeyle anlat
