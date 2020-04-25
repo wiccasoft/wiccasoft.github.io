@@ -24,7 +24,8 @@ bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
 bkz sedat tanrıkulunun götünüz yiyosa diyarbakır a gelin tweeti
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765
 https://www.uludagsozluk.com/k/ramazan-davulcusu/ bkz kerimcan durmaz
-https://www.uludagsozluk.com/k/gayler-oru%C3%A7-tutuyor-mu-sorunsal%C4%B1/ bkz aç karna rüyalar görmek
+https://www.uludagsozluk.com/k/ramazan-saksafoncusu/ bkz candy dulfer
+https://www.uludagsozluk.com/k/gayler-oru%C3%A7-tutuyor-mu-sorunsal%C4%B1/ bkz kerimcan tutmaz
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-bugatti-veyron-ile-gelen-erkek/&w=bg bkz bugattiye veren kızlar
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-vir%C3%BCse-kar%C5%9F%C4%B1-gizli-a%C5%9F%C4%B1-geli%C5%9Ftirmesi/ 
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz bizimkiler tak tak sedat
