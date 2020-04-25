@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sagopa kajmerin küçük emrah benzerliği
 bkz sagopa kajmer manuş baba düeti
 bkz 6 tırşık yiyip götdeliğine turşu sokan gay
 bkz 6 tırşık yedikten sonra kankağnın göt deliğe lahmacun sürtüp yemek
