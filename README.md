@@ -3,10 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ilber ortaçgilin atomu parçalaması
 bkz hiç kadın ilber ortaylı olmaması
-bkz anam seni gelin yapmaz sen oğlansın diyen erkek
-https://www.uludagsozluk.com/k/seni-ben-istesem-anam-istemez-diyen-erkek/&w=bg
-https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-vs-celal-%C5%9Feng%C3%B6r/&w=gd
+bkz ilber ortaçgil vs celal şengör
 bkz ibrahim talısesin ben küçükken kıvırcıktım demesi
 blz ilkber ortaçgil mi celal şengörü mü sorunsalı
 bkz celal şengil ilber otaçfil arasındaki dostluk
