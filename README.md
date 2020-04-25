@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ağızda kekremsi tad bırakan futbolcular
+bkz cüneyt özdemir deyince azğıda kalan kekremsi tad
 bkz cüneyt deyince akla gelen erkekler
 bkz mustafa deyince akla gelen erkekler
 bkz akla gelince mutlu eden erkekler
