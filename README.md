@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz sevdiceğine tırşık yapan kız
 bkz türkünün gü,mbür gümbür süper güç olması
 https://www.uludagsozluk.com/k/gelecekte-d%C3%BCnyaya-y%C3%B6n-verecek-%C3%BClkeler/ bkz türküyü
 bkz trumpın kim jong una kim jong una küçük roket adam demesi
