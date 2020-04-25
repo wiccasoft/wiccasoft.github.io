@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz oruç ben senin tutmim işin vardır diyen erkek
 bkz erkekçe vuruşmaktan korkan erkek
 bkz erkekler nasıl orç tutmalı
 bkz beyin kanartan kaan boşnak ifşası
