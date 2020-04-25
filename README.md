@@ -4,6 +4,7 @@
 
 <!--
 bkz bi oturuşta 10 erkek yemek
+bkz erkek deyince akla gelen erkek
 bkz geceye erkek bırakın sabaha yeriz kızlar
 bkz gece gece akla gelen erkeğe entry girmek
 bkz erkeklerin nenden çok yakışıklı ya sorunsalı
