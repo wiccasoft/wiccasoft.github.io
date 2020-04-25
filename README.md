@@ -4,8 +4,9 @@
 
 <!-- 
 bkz kaan boşnak ifşası
+bkz kyk borcu ola patlak kızlar
 bkz kyk borcu olan patlak kızla evlenmek
-bkz yılmaz güney yılamz morgülün amına yılan soktu yalanı
+bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
 bkz yılmaz güney yılmaz özdil yılmaz erdoğan üçlüsü
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
 https://www.uludagsozluk.com/k/ankara-b%C5%9Fb-nin-iftarver-com-sitesine-siber-sald%C4%B1r%C4%B1/ bkz oçları
