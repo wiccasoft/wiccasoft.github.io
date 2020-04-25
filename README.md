@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz cüneyt özdemiri akıldan çıkaramamak
 bkz cüneyt özdemir deyince akla gelenler sorundalı
 bkz murat övüç mü murat boz mu sorunsalı
 bkz murat boz  yakışıklı mı sorunsalı
