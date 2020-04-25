@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz manuş baba ifşası
 bkz imamoğlan kim jon oğlan benzerliği
 bkz kim jong un a bir iftira da sen at
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ iftira atma oç
