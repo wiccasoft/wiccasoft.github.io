@@ -2,7 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-vir%C3%BCse-kar%C5%9F%C4%B1-gizli-a%C5%9F%C4%B1-geli%C5%9Ftirmesi/ -->
+<!--
+bkz erdonun gizli aşıyı geliştirmesi
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-vir%C3%BCse-kar%C5%9F%C4%B1-gizli-a%C5%9F%C4%B1-geli%C5%9Ftirmesi/ -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
