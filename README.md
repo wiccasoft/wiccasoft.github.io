@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz adam gibi adam deyince akla gelen ilk adam
 bkz ahmet davudi oğlan mı ahmet sezeroğlan mı sorundalı
 bkz tuncel kurtiz adam mıdır sorundalı
 bkz akplilerin oç olması
