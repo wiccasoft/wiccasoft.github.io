@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz kim jon yonhun orospu annesi
 bkz celal şengörün kuzey anadolu fay hattı kıralabilir dmeesi
 https://www.uludagsozluk.com/k/laz-ziya-n%C4%B1n-kar%C4%B1s%C4%B1n%C4%B1-bafileyen-di%C5%9F-doktoru/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/kim-yo-jong/&w=gd bkz kim jong unun orospu ablası
