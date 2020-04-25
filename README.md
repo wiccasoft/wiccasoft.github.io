@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz yavru kancığı öldürenin ultra geyseli çıkması
 bkz daha önce kız öpmememiş erkek çekiciği
 bkz daha önce jhiç bi kzıı öpmemeiş erkeği öpmek
 bkz ibb nin ibnelere günde 10 entry girsinler demesi
