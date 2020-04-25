@@ -5,6 +5,7 @@
 <!--
 bkz siyasal şintocular
 bkz iq düştükçe iştahın artması
+https://www.uludagsozluk.com/k/sevgilisine-profiterol-yapan-k%C4%B1z/&w=bg bkz tırşık yapan kız
 bkz sevdiceğine altı tabak tırşık yediren kız
 bkz iq arttıkça fenerli olamnın artması fenerli olduğum için demiyoru mama öyle kankağ
 bkz 200 iq nun bi anda 100 e düşmesi
