@@ -5,6 +5,7 @@
 <!--- 
 bkz şaka maka madafaka
 bkz kim jong un un selayı beklemesi
+bkz beyin kanartan kaan boşnak saksosu
 bkz korean hack team in iftarver.com a saldırması
 bkz yılmaz güney iftarda yılan yerdi yalanı
 bkz oç laikçilerin oruç baba türbesine kemik bırakması
