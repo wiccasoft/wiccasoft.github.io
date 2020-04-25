@@ -3,7 +3,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz aşkım mustafa kemalin eski götrüntülerini mi izliyon diyen kız
 bkz aşkım kaan boşnak kim diyen kız
 bkz aşkım kaan boşnak saksosu ney diyen kız
 bkz aşkım hep aynı erkeklere entry giriyon diyen kız
@@ -28,7 +27,7 @@ bkz kim jong un nun yanaklarını sıkıp tosunum diyen kız
 bkz ben senin bokunu uerim lan bokunu deyen köylü kız
 bkz kim jong un deyince akla gelenler 
 bkz köyden şehre geldim okumaya deyen kız
-https://www.uludagsozluk.com/k/k%C3%B6yden-%C5%9Fehire-%C3%BCniversite-okumaya-gelen-k%C4%B1z/&w=bg bkz götü sikilesi kızlar -->
+https://www.uludagsozluk.com/k/berkin-elvan-ethem-sar%C4%B1s%C3%BCl%C3%BCk-ay%C5%9Fe-deniz-karacagil/ bkz dna -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
