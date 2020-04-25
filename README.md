@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ibb nni atanamayan örtmenlere lahmacun dağıtması
 bkz kim jong ungun orucu açmak için selayı beklemesi
 bkz 6 tabak tırşık yiyip oruçlu oçduğu hatırlamak
 bkz orç ların orucunu kabul etmem diyen allah
