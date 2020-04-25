@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz aşkım barış akarsunun gözleri rimelli mi diyen kız
 bkz cüneyt özdemirin yütüp kaalınaa dislayk atsana aşkım diyen kamalcı kız
 bkz ekşicilerin cüneytle küsmesi
 bkz aşkım cüneyt özdemire entry girsene diyen kız
