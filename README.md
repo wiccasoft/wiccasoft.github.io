@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/jean-paul-belmondo-kemal-sunal-benzerli%C4%9Fi/&w
 https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg yolları anan mı yabdı oç
 https://www.uludagsozluk.com/k/jean-paul-belmondo-kemal-sunal-benzerli%C4%9Fi/&w=bg ay olabilir mi böyle bişey 
 https://www.uludagsozluk.com/k/ak-parti-nin-rezidance-a-koli-g%C3%B6ndermesi/ link at oç
-https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg yol yabdı daha ne oç
+https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg yol hastane yabdı daha ne oç
 bkz türklerin internetin virüsü olma ihtimali
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ kumpas kurma oç 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
