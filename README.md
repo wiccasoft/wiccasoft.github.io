@@ -5,7 +5,7 @@
 <!-- 
 bkz oç türklerin beni türk sanması
 https://www.pinterest.com/wiccasoft/pins
-bkz ekşcilerin yabancı hesabı ak parti diye takip etmesi
+bkz ekşicilerin yabancı hesabı ak parti diye takip etmesi
 bkz oç türklerin niye beni takip etmesi sorunsalı
 bkz kim jong un u 3 kelimeyle anlat
 bkz kim jong unun cnn türkü dörte bölmesi
