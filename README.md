@@ -2,7 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
+<!--
+bkz tuncel kurtizin oğlancı olması
 bkz can ataklının ekreme oç demesi
 bkz beyni yok fikri var oçlarının
 bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
