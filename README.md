@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz lan oç ekşciler adıma başlık açında annneizi götten sikeyim
 bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
 bkz oçları deyince akla ekşicilerin gelmesi
 bkz ekşci oç ları vs ulucu veledi zinalar
