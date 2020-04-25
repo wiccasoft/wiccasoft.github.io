@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz kolpaçino özgür vs ganyotçu ekrem
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potukun sakatlığı
 bkz ahmet hakanın wiccasoft türkiyeyi 4 e bölmesi
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg ali koç başkan fener şampi
