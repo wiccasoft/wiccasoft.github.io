@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz aşkım cüneytin yütüp çenılına disllayk atsana diyen kız
 bkz mustafa ata cücü çok yakışık mı sorunsalı
 bkz mustafa atacücüye sarılıp yatmak 
 bkz mustafa ata cücü çok mu yakışıklıydı sounsalı
