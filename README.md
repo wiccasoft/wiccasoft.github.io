@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz khk borcu olan kız
 bkz yılmaz güney yılamz öorgülün amına yılan soktu yalanı
 bkz yılmaz güney yılmaz özdil yılmaz erdoğan üçlüsü
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
