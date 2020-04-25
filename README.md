@@ -4,6 +4,7 @@
 
 <!-- 
 bkz caner erkin ifşası
+bkz beyni yok fikri var oçlarının
 bkz cücü kanı taşımayıp atacücüyüm demek
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz nasreddin hoca very funny guy
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmeyen-insan/&w=bg bkz oç
