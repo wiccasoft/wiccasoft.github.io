@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkekler nasıl orç tutmalı
 bkz beyin kanartan kaan boşnak ifşası
 bkz erkek deyince akla erkek dönergeci gelmesi sorunsalı
 bkz kaan boşnak deyince beyne kaan boşnak imajı gelmesi
