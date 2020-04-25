@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz murat isimli erkeklerin genelde yakışıklı olması sorunsalı
 bkz murat deyince akla gelenler
 bkz erkek düşünmekten uyuyamamak sorunsalı
 bkz akıldan çıkmayan erkeğin şımarması
