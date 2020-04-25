@@ -6,7 +6,7 @@
 bkz twitter linki at oç
 bkz yılmaz yozdilin kürt olduğu gerçeği
 bkz ekşicilerin kaan boşnak ı ifşa etmesi
-bkz cünet cücüdemirin götünün kaşınması
+bkz cünet cücüdemirin ekşicilere yürümesi
 bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
 bkz sedat tanrıkulunun götünüz yiyosa diyarbakır a gelin tweeti
 https://www.uludagsozluk.com/k/devletsiz-bir-toplum-m%C3%BCmk%C3%BCn-m%C3%BC/&w=gd bkz olur olur bal gibi olur
