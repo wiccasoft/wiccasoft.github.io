@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ahmet necdet sezer adam mıdır sorundalı
 bkz ahmet davut oğlan adam mıdır sorundalı
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-adam-m%C4%B1d%C4%B1r/&w=bg
 bkz kim yo jongu sikertip abin gelsin demek
