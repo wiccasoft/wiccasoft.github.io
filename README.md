@@ -5,8 +5,10 @@
 <!--
 bkz siyasal şintocular
 bkz sevdiceğine tırşık yapan kız
+bkz iq düştükçe inamanın artması
 bkz ben senin bokunu yerim bokunu diyen kız
 bkz türkünün gü,mbür gümbür süper güç olması
+https://www.uludagsozluk.com/k/iq-d%C3%BC%C5%9Ft%C3%BCk%C3%A7e-dine-inanman%C4%B1n-artmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/gelecekte-d%C3%BCnyaya-y%C3%B6n-verecek-%C3%BClkeler/ bkz türküyü
 bkz trumpın kim jong una kim jong una küçük roket adam demesi
 bkz kim jong unun unu fazla kaçırması
