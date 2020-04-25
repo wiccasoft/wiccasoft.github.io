@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz mustata ata cücü sünnetli mi idi sorunsalı
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-m%C4%B1-idi-sorunsal%C4%B1/&w=bg
 bkz aşkım cüneyt özdemir yütüp kanalına dislayk atasan diyen kız
 bkz aşkım cüneyt özdemire küstün mü diyen kız
 bkz aşkım selahattin demirtaşa entry gir biraz da diyen kız
