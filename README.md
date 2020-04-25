@@ -22,6 +22,8 @@ bkz ekşcilerin cüneyt cücüdemir i unfollowlaması
 bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
 bkz sedat tanrıkulunun götünüz yiyosa diyarbakır a gelin tweeti
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765
+bkz erdonun gizli gizli aşı geliştirmesi
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-vir%C3%BCse-kar%C5%9F%C4%B1-gizli-a%C5%9F%C4%B1-geli%C5%9Ftirmesi/ 
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz bizimkiler tak tak sedat
 https://eksisozluk.com/ahmet-hakan-denilince-akla-ilk-gelen-sozcuk--6489986?a=popular bkz kekremsi kelimeler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg bkz amınoğlu değil
