@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz erkeklerin şapşikleşmesi
+bkz erkeklerin akla gelmesi
 bkz nerde o eski taş fırın erkekleri
 bkz nerde o eski afyonlu gay taş fırın ustaları
 bkz erkek milletine güven olunmaycağı gerçeği
