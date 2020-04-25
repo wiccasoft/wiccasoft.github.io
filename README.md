@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz aşkım mustafa kemalin eski götrüntülerini mi izliyon diyen kız
 bkz aşkım kaan boşnak kim diyen kız
 bkz aşkım kaan boşnak saksosu ney diyen kız
 bkz aşkım hep aynı erkeklere entry giriyon diyen kız
