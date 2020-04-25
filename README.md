@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz kim jong unun unlu mamuller yemesi
 bkz kim jong un un sen kimsn amk demesi
 bkz ramazanda yılan kanı içip ladyboy sikmemek
 bkz altı tabak tırşık yiyip ladyboy sikmeye gitmek
