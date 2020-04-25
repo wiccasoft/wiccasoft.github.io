@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkek deyince akla gelenler
 bkz çok yakışıklı erkeklerin akılda kalması
 bkz cüneyt özdemiri akıldan çıkaramamak sorundalı
 bkz cüneyt özdemir deyince akla gelenler sorundalı
