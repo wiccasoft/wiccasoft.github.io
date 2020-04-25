@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz gerçek erkek
 bkz kaan boşnak ifşası 
 bkz erkeklerin gittikçe layt erkeği olması
 bkz sert taş fırın erkeklerinin kalmaması
