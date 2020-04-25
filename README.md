@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ata cücü nün pipisi de cücümüydü sorunsalı
 bkz mustata ata cücü sünnetli mi idi sorunsalı
 bkz mustafa ata cücü yakışıklı mı idi sorunsalı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-m%C4%B1-idi-sorunsal%C4%B1/&w=bg
