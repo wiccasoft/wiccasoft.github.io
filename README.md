@@ -4,6 +4,7 @@
 
 <!-- 
 bkz nerde o eski taş fırın erkekleri
+bkz nerde o eski afyonlu gay taş fırın ustaları
 bkz erkek milletine güven olunmaycağı gerçeği
 https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg
 bkz erkeklerin gittikçe kadınlaşması
