@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkeklerin gittikçe kadınlaşması
+https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg
 bkz murat isimli erkeklerin genelde yakışıklı olması sorunsalı
 bkz murat deyince akla gelenler
 bkz erkek düşünmekten uyuyamamak sorunsalı
