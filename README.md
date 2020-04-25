@@ -4,6 +4,7 @@
 
 <!--
 bkz beyin kanartan kaan boşnak ifşası
+bkz kaan boşnak deyince beyne kaan boşnak imajı gelmesi
 https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
 bkz ekşicilerin erkekleri trollemesi
 bkz ekşicilerin hayalindeki erkeğin beyin cerrahı çıkması
