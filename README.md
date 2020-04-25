@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz kim jong unu yedirmeyiz
+bkz kim jong unu yedirmeyiz diyen kızlar
 bkz kim jong unu elimle beslerim diyen kız
 bkz sikilmedik bi kulak memesi kalmış kızlar
 bkz memelerimi mi kulak mememi seviyosun diyen kızlar
