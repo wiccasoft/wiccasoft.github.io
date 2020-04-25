@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz aşkım cüneyt özdemire küstün mü diyen kız
 bkz aşkım selahattin demirtaşa entry gir biraz da diyen kız
 bkz aşkım cüneyt özdemire entry girmiyosun yaa diyen kız
 bkz aşkım sörfayfur yunusa annenin telefondan sms atsana diyen kız
