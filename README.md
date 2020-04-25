@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz celal çengörün kadından bilim adamı olmaz demesi
+bkz hiç kadın bikim adamı olmaması
 bkz kim yo jong vs kim kardashian
 bkz serdar ortaçgil vs celal şengil
 bkz serdar ortçagilini kim yo jonga yürümesi
