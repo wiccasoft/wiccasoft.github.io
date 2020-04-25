@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz beyni yok fikri var oçlarının
+bkz deyince akla gelenler
 bkz iğrençsiniz ibneler
 bkz yatalak dedenin pipisini emmek
 bkz sagopa kajmer manuş baba düeti
