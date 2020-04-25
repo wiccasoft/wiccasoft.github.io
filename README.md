@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz murat övüçün oruçluyum sevişmeyelim demesi
 bkz daha önce oruç tutumamış erkekle sevişmek
 bkz kim jong un nun unlu mamuller yemesi
 bkz iftarver.com un ankara bşb sitesini haclemesi
