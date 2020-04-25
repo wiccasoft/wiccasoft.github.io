@@ -6,7 +6,8 @@
 bkz caner erkin ifşası
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/&w=gd bkz pusu kurma oç
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz egolu şapşik şey
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 egolu kaslı sağbek 
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bencegay
 bkz altay bayındır bayındırlık bakanlığına geçmesi
 bkz kaan boşnak deyince akla gelenler
 bkz boşnak saksosu deyince akla gelenler
