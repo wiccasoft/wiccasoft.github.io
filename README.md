@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz iğrençsiniz oçları deyince ekşicilerin atlaması
 bkz oç ları deyin akla gelen ekşiciler
 bkz yarrak deyince akla gelenler
 bkz beyin kanartan kim yonh mong ifşası
