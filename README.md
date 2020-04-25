@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ultra anti lgbt team in ibb web sitesine saldırması
 bkz daha önce hiç ultra geyseli öpmemiş erkek
 bkz yavru kancığı öldürenin ultra geyseli çıkması
 bkz daha önce kız öpmememiş erkek çekiciği
