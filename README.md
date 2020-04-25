@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz demeden beyin kanartan ifşalar 2020 full arşiv isteyen satarım kankağ
 bkz cüneytdemirin chpliler genetiği oynanamış oç ları gibiler demesi
 bkz beyin kanartan deyince akla kan gelmesi amk
 bkz kim jong un un selayı beklemesi
