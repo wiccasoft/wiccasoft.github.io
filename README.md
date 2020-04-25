@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sevdiceğine altı tabak tırşık yediren kız
 bkz ha tosunuma bunu da ham yap diyen kız
 bkz sevdiceğini tırşıkla bezleyen kız 
 bkz tırşık yaptın yern mi diyen kız
