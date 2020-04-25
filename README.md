@@ -7,6 +7,8 @@ bkz şaka maka madafaka
 bkz orç ların oruç baba türbesine saldırması
 bkz erkek deyince akla erkek imgesi gelmesi
 bkz cüneyt özdemir ekşcicilere geneetiği bozuk oçler demesi
+bkz altı tabak tırşık yiyip oruçlu olduğunu hatırlamak
+https://www.uludagsozluk.com/k/ramazanda-s%C3%BCrekli-yemek-%C3%B6v%C3%BCc%C3%BC-ba%C5%9Fl%C4%B1k-a%C3%A7an-tip/
 https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
 bkz full nick altı temiz beyin kanartan ifşa link atmamış ekşici hesap acilen satılık 
 bkz demeden beyin kanartan ifşalar 2020 full arşiv isteyen satarım kankağ
