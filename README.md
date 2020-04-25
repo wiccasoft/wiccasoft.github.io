@@ -4,6 +4,7 @@
 
 <!-- 
 bkz caner erkin ifşası
+https://www.uludagsozluk.com/k/batuhan-karadeniz/&w=bg bkz türk oğlu türk 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/&w=gd bkz pusu kurma oç
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 egolu kaslı sağbek 
