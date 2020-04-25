@@ -5,6 +5,7 @@
 <!--
 bkz twitter linki at oç
 bkz bizimkiler tak tak sedat
+bkz memikoğlana bir iftira da sen at
 bkz memikoğlan deyince akla gelenler
 bkz 06melik vs ahmet hakan
 bkz ahmet hakanın bölücü olduğu gerçeği
