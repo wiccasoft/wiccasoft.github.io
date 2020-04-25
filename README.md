@@ -4,6 +4,7 @@
 
 <!--
 bkz it ürürü kervan yürür
+bkz allahın sikişmeyi yasaklamasına aldırış etmeyen insanoğlu
 bkz buzdolabına yedikçe sikişiyoz yazan çift
 bkz annenin sikilmedik bi göt deliğim kaldı demesi
 bkz annesini siken adama babişko diyen gavat
