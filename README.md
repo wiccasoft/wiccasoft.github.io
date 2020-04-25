@@ -2,60 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz ilber ortaçgil vs bilardo topu
-bkz celal şengör vs bilardo topu
-bkz celal şengileç vs ilber şentopaç
-bkz celal şentopaç vs ilber şengil
-bkz ilber topaçgil vs celal topaç
-bkz celal şengil vs ilber topaçgil
-bkz ilber ortaçgil vs einstein
-bkz ilber ortaçgilin atomu parçalaması
-bkz hiç kadın ilber ortaylı olmaması
-bkz ilber ortaçgil vs celal şengör
-bkz ibrahim talısesin ben küçükken kıvırcıktım demesi
-blz ilkber ortaçgil mi celal şengörü mü sorunsalı
-bkz celal şengil vs ilver ortçlı ortak yayını
-bkz ilber ortaçlı vs celal şengil
-bkz ibrahim talısesin ido için doğazlgazı açarım demesi
-bkz celal şengörün karısından yediği ayar
-bkz ilber ortaçgil celal şengilin karılarından yediği ayar
-bkz ilber ortaçgilini celal şengöre yalarun demesi
-bkz celal şengörün en iyisi benim demesi
-bkz laz ziyanın damadına beline kuvvet demesi
-bkz laz ziyanın cucukold olduğu gerçeği
-bkz laz ziyanın karısını testerce nezmiye siktirmesi
-https://www.uludagsozluk.com/k/laz-ziyan%C4%B1n-kar%C4%B1s%C4%B1ndan-yedi%C4%9Fi-efsane-ayar/
-bkz celal şengörün elon muska bilim adamı diyen bana demesin demesi
-bkz celal şengör oya şengör aşkı
-bkz laz ziyanın karımı hoplatabilirsiniz demesi
-bkz laz ziyanın karısının hopur hopur hoplatmak
-https://www.uludagsozluk.com/k/laz-ziyan%C4%B1n-kar%C4%B1s%C4%B1ndan-yedi%C4%9Fi-efsane-ayar/
-bkz kim yo jong un  kim ya bilmemesi
-bkz celal ortaçgilin pouler bilim adamı deilim demesi
-bkz ilber ortaçgil vs celal şengil
-bkz celal çengörün kadından bilim adamı olmaz demesi
-bkz hiç kadın bikim adamı olmaması
-bkz kim yo jong vs kim kardashian
-bkz serdar ortaçgil vs celal şengil
-bkz serdar ortçagilini kim yo jonga yürümesi
-bkz kim yo jong vs kim kardashian
-bkz kim kardashian vs kim yo jon un
-bkz celal şengilin oruç tutması
-bkz ilber ortaçlıgil vs celal şengil
-bkz kim jon yonhun orospu annesi
-bkz celal şengörün kuzey anadolu fay hattı kıralabilir dmeesi
-https://www.uludagsozluk.com/k/laz-ziya-n%C4%B1n-kar%C4%B1s%C4%B1n%C4%B1-bafileyen-di%C5%9F-doktoru/&w=bg bkz adam gibi adam
-https://www.uludagsozluk.com/k/kim-yo-jong/&w=gd bkz kim jong unun orospu ablası
-https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-vs-celal-%C5%9Feng%C3%B6r/&w=bg ilber siker kankağ
-bkz kim jong una tatlişko diyen kızlar
-bkz kim jong unu yedirmeyiz diyen kızlar
-bkz kim jong unu elimle beslerim diyen kız
-bkz sikilmedik bi kulak memesi kalmış kızlar
-bkz memelerimi mi kulak mememi seviyosun diyen kızlar
-bkz ben senin bokunu yerim lan bokunu diyen kızlar
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz limon lobisi-->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
