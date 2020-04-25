@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz celal şengil vs ilver ortçlı ortak yayını
 bkz ilber ortaçlı vs celal şengil
 bkz ibrahim talısesin ido için doğazlgazı açarım demesi
 bkz celal şengörün karısından yediği ayar
