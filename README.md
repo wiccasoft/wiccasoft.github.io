@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz cüneyt özdemirin çok yakışıklı olduğu gerçeği
 bkz erkeklerin gittikçe şapşik olması
 bkz erkeklerin yedekte hep bir erkek bekletmesi
 bkz erkeklerin gittikçe yakışıklı olması
