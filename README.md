@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sahurda sana bi tencere tırşık yaparım diyen patlak kız
 bkz ben hiç oruç tutuma diyen erkek
 bkz orç ların oruç tutmaması
 bkz iq düştükçe iştahın artması
