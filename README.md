@@ -4,6 +4,7 @@
 
 <!-- 
 bkz caner erkin ifşası
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmeyen-insan/&w=bg bkz oç
 bkz ekşici deyince akla yaramaz oçlarının gelmesi
 bkz bütün gün temizlik yapan üst komşunun gerizekalı ekşici oğlu
 https://www.uludagsozluk.com/k/ko%C5%9Fan-%C3%A7ocuk/&w=bg bkz min son
