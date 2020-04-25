@@ -7,6 +7,7 @@ bkz caner erkin ifşası
 bkz beyni yok fikri var oçlarının
 bkz cücü kanı taşımayıp atacücüyüm demek
 bkz bu kadar gerizekalı oç nu kim doğurdu sorunsalı
+https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz 3 kelimeyle anlatılabilecek liderler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kurtar vadisi kumpas
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz nasreddin hoca very funny guy
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmeyen-insan/&w=bg bkz oç
