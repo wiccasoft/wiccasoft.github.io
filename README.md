@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz yılmaz morgül david bowie benzerliği
 bkz kurtlar vadisi kim jong limon un
 bkz imamoğlana kurulan unlu kumpas
 bkz kim jong unun unlu mamuller yemesi
