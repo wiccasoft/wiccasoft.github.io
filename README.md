@@ -4,6 +4,7 @@
 
 <!-- 
 bkz caner erkin ifşası
+bkz sorunsalı diye başlık açan gay ergenler
 bkz gaylerin kadın gibi bi sorunun olmaması 
 bkz deep webte ulaşamadığı erkeklere entry girmek
 https://www.uludagsozluk.com/k/ko%C5%9Fan-%C3%A7ocuk/&w=bg bkz min son
