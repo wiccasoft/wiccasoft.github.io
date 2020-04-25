@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ben senin bokuna tırşık banar öle yerim diyen kız
 bkz ben senin bokunu yerim lan bokunu diyen kız
 bkz sevdiceğine tırşıklı kek yapan kız
 bkz tırşık sürülmemiş bi kulakları kalmış kız
