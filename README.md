@@ -3,8 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz kim jon unun ablasını hopur hopur sikmek
-bkz kim jong unun orospu ablası
+bkz kim jong un vs kim kardashan
 bkz duran emminin seyfo dayıyı duvardan duvara hoplatması
 bkz karılar nasıl hoplar bilirmisin kardeş
 bkz testere necminin laz ziyanıon karısını hoplatması
