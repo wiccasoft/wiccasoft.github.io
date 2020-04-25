@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kim jong un nun yanaklarını sıkıp tosunum diyen kız
 bkz ben senin bokunu uerim lan bokunu deyen köylü kız
 bkz kim jong un deyince akla gelenler 
 bkz köyden şehre geldim okumaya deyen kız
