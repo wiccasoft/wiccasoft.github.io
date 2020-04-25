@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz kim jon unun selayı beklemesi
+bkz kim jon unun unlu mamuller yemesi
 bkz buzdolabına tosunum yazan kız
 bkz ha tosunuma yi hepsini tosunum yi diyen kız
 bkz pastayı ham yapacaksın tosunum diyen kız
