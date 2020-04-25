@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 6 tabak tırşık yiyip oruçlu oçduğu hatırlamak
 bkz orç ların orucunu kabul etmem diyen allah
 bkz oruç baba türbesine sürten ümreciler
 bkz oruç ben senin tutmim işin vardır diyen erkek
