@@ -2,7 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--bkz kim jong un deyince akla gelenler 
+<!--
+bkz ben senin bokunu uerim lan bokunu deyen köylü kız
+bkz kim jong un deyince akla gelenler 
 bkz köyden şehre geldim okumaya deyen kız
 https://www.uludagsozluk.com/k/k%C3%B6yden-%C5%9Fehire-%C3%BCniversite-okumaya-gelen-k%C4%B1z/&w=bg bkz götü sikilesi kızlar -->
 
