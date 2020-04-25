@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz tırşık sürülmemiş bi kulakları kalmış kız
 bkz sırtıma tırşık sürsene diyen kız
 bkz ekşcilerin ido tatlıses ifşası
 bkz ido tatlısesin babam siyahi kürt demesi
