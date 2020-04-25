@@ -6,6 +6,7 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
+bkz ekşcilerin cüneytib yütüp sayfasını unflaması
 bkz ekşicilerin cüneyte cücü demesi
 bkz enis kirazoğlu deyince akla gelenler
 bkz ben sizin babanızım deyince akla gelenler
