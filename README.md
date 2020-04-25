@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kaan boşnak kim diyen kız
 bkz kaan boşnak saksosu ne diyen kız
 bkz köyden geldim beni meşhur etmeyecen mi diyen kız
 bkz köyden şehre okumaya gelen batlak kızlar
