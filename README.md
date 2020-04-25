@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz ilber ortaçgilini celal şengöre yalarun demesi
 bkz celal şengörün en iyisi benim demesi
 bkz laz ziyanın damadına beline kuvvet demesi
 bkz laz ziyanın cucukold olduğu gerçeği
