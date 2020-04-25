@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz celal şengil vs ilber topaçgil
 bkz ilber ortaçgil vs einstein
 bkz ilber ortaçgilin atomu parçalaması
 bkz hiç kadın ilber ortaylı olmaması
