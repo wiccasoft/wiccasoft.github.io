@@ -6,6 +6,7 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
+bkz kim jong un imamoğlu benzerliği
 bkz kim jong unun atacücüüyüm demesi
 bkz kim jong un trump putin gerginliği
 bkz kim jong unun trumpa kafana füze atarım demesi
