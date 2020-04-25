@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz laz ziyanın karısını testerce nezmiye siktirmesi
+https://www.uludagsozluk.com/k/laz-ziyan%C4%B1n-kar%C4%B1s%C4%B1ndan-yedi%C4%9Fi-efsane-ayar/
 bkz celal şengörün elon muska bilim adamı diyen bana demesin demesi
 bkz celal şengör oya şengör aşkı
 bkz laz ziyanın karımı hoplatabilirsiniz demesi
