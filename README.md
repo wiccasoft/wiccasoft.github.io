@@ -4,6 +4,7 @@
 
 <!-- 
 bkz la bize her yer ankara
+bkz üst komşunun yaşa fenerbahvçe diye evde zıplayan veledi
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 alezx der geçerim kankağ
 bkz fenebahce.org.tr ye girip alper potukun resmini fare ile okşamak
 https://www.uludagsozluk.com/k/ankara-b%C5%9Fb-nin-iftarver-com-sitesine-siber-sald%C4%B1r%C4%B1/
