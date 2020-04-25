@@ -5,6 +5,8 @@
 <!--
 bkz siyasal şintocular
 bkz 200 iq nun bi anda 100 e düşmesi
+bkz iq arttıkça chpli olunması
+https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-k%C4%B1z/&w=bg
 https://www.uludagsozluk.com/k/siyahi-ibrahim-tatl%C4%B1ses/ bkz siyahi urfalı
 bkz beyin kanartan iq frenleyen ortamlar
 bkz iq arttıkça daha çok entry girilmesi
