@@ -6,6 +6,8 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
+bkz ben sizin babanızım deyince akla gelenler
+bkz manuş baba deyince akla gelenler
 bkz sagopa kajmer manuş baba beznerliği
 bkz kiziroglu kim jong oğlan
 bkz kim kardashian vs kim jong un
