@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ikrar sarısülükün iğrenç bi erkek olması
+https://www.uludagsozluk.com/k/ethem-sar%C4%B1s%C3%BCl%C3%BCk-%C3%BCn-karde%C5%9Fleri/
 bkz erkek deuyince akla gelen şapşik erkekler
 bkz erkeklerin şapşik olması
 bkz erkeklerin gittikçe kadınlaşması
