@@ -7,10 +7,6 @@ bkz manuş baba ifşası
 bkz imamoğlan kim jon oğlan benzerliği
 bkz kim jong un a bir iftira da sen at
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ iftira atma oç
-bkz sözlük kapanırsa kim jong una entry nereye girecez sorunsalı
-bkz kim jong unun saç stilini değiştirmesi
-bkz kim jong un un iftarver.com u nukelemesi
-bkz kim jong un un yeni balistik füze denemesi
 bkz ultra geylerin fenerbahçe.org.tr ye saldırması
 bkz kim jon g un deyince akla gelenler
 bkz kim jong un u 3 kelime ile anlat
