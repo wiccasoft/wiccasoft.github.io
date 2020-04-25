@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkeklerin nenden çok yakışıklı ya sorunsalı
 bkz hoşlaşılan erkeğin twitter profilini fare ile okşamak
 bkz cüneyt özdemirin çok yakışıklı olduğu gerçeği
 bkz erkeklerin gittikçe şapşik olması
