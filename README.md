@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kim jong un ido tatlıses dotluğu
 bkz kim jong unun unlu yemem daha demesi
 bkz 150 kilo olunca büllüğün kalkmaması
 bkz tosunumu siken yok mu diyen kız
