@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz akıldan çıkmayan erkeğin şımarması
 bkz murat övüç deyince akla gelenler
 bkz erkek deyince akla gelenler
 bkz çok yakışıklı erkeklerin akılda kalması
