@@ -5,6 +5,7 @@
 <!--
 bkz twitter linki at oç
 bkz bizimkiler tak tak sedat
+bkz memikoğlan deyince akla gelen kelimeler
 bkz memikoğlana bir iftira da sen at
 bkz memikoğlan deyince akla gelenler
 bkz 06melik vs ahmet hakan
