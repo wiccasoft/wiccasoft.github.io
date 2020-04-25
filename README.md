@@ -4,10 +4,10 @@
 
 <!--
 bkz twitter linki at oç
+bkz bizimkiler tak tak sedat
 bkz yılmaz yozdilin kürt olduğu gerçeği
 bkz ekşicilerin kaan boşnak ı ifşa etmesi
 bkz memikoğlana bi övgü de sen at
-bkz bizimkiler tak tak sedat
 bkz ekşideki 13. cumburlop kim olsun kavgası
 bkz ekşideki mansur yava ş beni cumburlopum olacak kavgası
 bkz ekşcilerin cüneyt cücüdemir i unfollowlaması
