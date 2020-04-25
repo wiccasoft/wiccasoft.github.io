@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.ankara.bel.tr/en bkz iki gözümün çiçeği açmış yine bld. yi
 https://www.tccb.gov.tr/en/ pingleyin oçlarını
 https://www.akparti.org.tr/ pingleyin beyler çökertelim oçlarını
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz bizimkiler tak tak sedat
