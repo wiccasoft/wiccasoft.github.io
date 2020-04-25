@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz osman hamdi bey çok mu yakışıklı idi sorunsalı
+https://www.uludagsozluk.com/k/osman-hamdi-bey/&w=bg
 bkz aşkım cüneytin yütüp çenılına disllayk atsana diyen kız
 bkz mustafa ata cücü çok yakışık mı sorunsalı
 bkz mustafa atacücüye sarılıp yatmak 
