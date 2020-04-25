@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz kim jopn unun unu fazla kaçırması
 bkz patlak kızların patlak değilim havaları
 bkz memikoğlana bi simitte sen at
 bkz yatak odasına memikoğlan resmi asan yeni evli çift
