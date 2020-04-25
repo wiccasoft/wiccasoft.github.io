@@ -3,8 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
 bkz beyni yok fikri var oçlarının
+bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
 bkz oç ları deyin akla gelen ekşiciler
 bkz yarrak deyince akla gelenler
 bkz beyin kanartan kim yonh mong ifşası
