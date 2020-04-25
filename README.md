@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz celal şengileç vs ilber şentopaç
 bkz celal şentopaç vs ilber şengil
 bkz ilber topaçgil vs celal topaç
 bkz celal şengil vs ilber topaçgil
