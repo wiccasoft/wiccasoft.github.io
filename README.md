@@ -6,6 +6,7 @@
 bkz twitter linki at oç
 bkz bizimkiler tak tak sedat
 bkz memikoğlan deyince akla gelenler
+bkz ahmet hakanın bölücü olduğu gerçeği
 bkz ahmet hakanın cnn türk ekranı dörde bölmesi
 bkz yılmaz yozdilin kürt olduğu gerçeği
 bkz ekşicilerin kaan boşnak ı ifşa etmesi
