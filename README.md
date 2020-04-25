@@ -4,7 +4,7 @@
 
 <!-- 
 bkz caner erkin ifşası
-bkz bütün gün temizlik yapan üst komşunun gerizekalı oğlu
+bkz bütün gün temizlik yapan üst komşunun gerizekalı eşcinsel oğlu
 bkz sorunsalı diye başlık açan gay ergenler
 bkz gaylerin kadın gibi bi sorunun olmaması 
 bkz deep webte ulaşamadığı erkeklere entry girmek
