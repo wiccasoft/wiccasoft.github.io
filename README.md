@@ -4,6 +4,8 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz düz otbanda beyni 30 point gazlayıp 230 point kanartmak
+bkz beyin kanartan kaan tırşık paylaşımları
 bkz şaka maka 10 tabak tırşık yiyip geğirmek
 bkz şaka maka oç ayağına 50 kilo daha almak
 bkz türklerin sürekli yemek yemesi
