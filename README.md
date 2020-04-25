@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz kurtlar vadisi kim jong limon un
 bkz imamoğlana kurulan unlu kumpas
 bkz kim jong unun unlu mamuller yemesi
 bkz kim jong un un sen kimsn amk demesi
