@@ -7,6 +7,7 @@ bkz beyin kanartan kaan boşnak ifşası
 bkz erkek deyince akla erkek dönergeci gelmesi sorunsalı
 bkz kaan boşnak deyince beyne kaan boşnak imajı gelmesi
 bkz oruç tutmayıp adamım diye gezen totoşlar
+bkz oruçlu erkek hiç oruç tutumamış erkek öpüşmesi
 https://www.uludagsozluk.com/k/oru%C3%A7-tutmay%C4%B1p-adam%C4%B1m-diye-dola%C5%9Fmak/&w=bg
 https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
 bkz ekşicilerin erkekleri trollemesi
