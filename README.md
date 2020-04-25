@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz hoşlaştığı erkeğe entry giremeyen ezik ergenler
 bkz kim jong unu 3 kelimeyle sözcüklere sığdır entry gir
 https://www.uludagsozluk.com/k/erkekler-nas%C4%B1l-giyinmeli/&w=bg ibnelerin götünü sikecek şekilde
 https://www.uludagsozluk.com/k/mahmut-d%C3%B6lek/ anneinzin amcığını dölleyen adam gibi adam
