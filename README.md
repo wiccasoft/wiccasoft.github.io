@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kaan boşnak ifşası 
 bkz cüneyt isimli erkeklerin genel özellikleri
 bkz cüneyt deyince akla gelenler
 bkz erkeklerin gittikçe kadınlaşması
