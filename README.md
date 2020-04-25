@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ahmet davut oğlan adam mıdır sorundalı
+https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-adam-m%C4%B1d%C4%B1r/&w=bg
 bkz kim yo jongu sikertip abin gelsin demek
 https://www.uludagsozluk.com/k/kim-yo-jong-u-kula%C4%9F%C4%B1ndan-tutup-sikip-atmak/
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
