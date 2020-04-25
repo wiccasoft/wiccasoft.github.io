@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz ahmet hakanın cnn türkü 4 e bölmesi
+bkz ahmet hakanın wiccasoft türkü 4 e bölmesi
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg ali koç başkan fener şampi
 bkz cnn türko melik ahmet ortak yayını yütüp
 bkz 06melik deyince akla fışkıye gelmesi
