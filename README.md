@@ -4,6 +4,7 @@
 
 <!--
 bkz twitter linki at oç
+https://www.uludagsozluk.com/k/unutulmaz-keko-s%C3%B6zleri/&w=bg bkz kezoların yine azması
 https://www.uludagsozluk.com/k/kim-yong-un-un-%C3%B6lmesi/ twitter linki at kanka inanmam
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/ bkz amınoğlu
 https://www.uludagsozluk.com/k/orhan-pamukyan/&w=bg bkz ermeni sevici oç
