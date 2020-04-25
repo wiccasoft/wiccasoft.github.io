@@ -4,6 +4,7 @@
 
 <!--
 bkz twitter linki at oç
+bkz yılmaz yozdilin kürt olduğu gerçeği
 bkz ekşicilerin kaan boşnak ı ifşa etmesi
 bkz cünet cücüdemirin götünün kaşınması
 bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
