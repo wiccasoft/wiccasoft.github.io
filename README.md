@@ -3,12 +3,12 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz adamın adamantuyumla güçlendirilmiş hali deyince akla gelen ilk isim
 bkz adamın hammaddesi deyince akılda beliren ilk isim
 bkz kadir mısıroğlan deyince akla gelenler
 bkz adam gibi adam deyince akla gelen ilk adam
 bkz ahmet necdet sezer adam mıdır sorundalı
 bkz ahmet davut oğlan adam mıdır sorundalı
+bkz adamın adamantuyumla güçlendirilmiş hali deyince akla gelen ilk isim
 https://www.uludagsozluk.com/k/kim-yo-jong-u-kula%C4%9F%C4%B1ndan-tutup-sikip-atmak/
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
 https://www.uludagsozluk.com/k/tuncel-kurtiz/&w=bg bkz oğlancı
