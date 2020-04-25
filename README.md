@@ -2,7 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--- https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en -->
+<!--- bkz yavru kancığı siken cani
+https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
