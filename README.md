@@ -4,6 +4,7 @@
 
 <!-- 
 bkz ifşaver.com
+bkz oruçbaba.com
 bkz manuş baba ifşası
 bkz imamoğlan kim jon oğlan benzerliği
 bkz kim jong un a bir iftira da sen at
