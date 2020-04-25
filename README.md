@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz iq arttıkça fenerli olamnın artması fenerli olduğum için demiyoru mama öyle kankağ
 bkz 200 iq nun bi anda 100 e düşmesi
 bkz iq arttıkça inanmanın artması
 https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-k%C4%B1z/&w=bg
