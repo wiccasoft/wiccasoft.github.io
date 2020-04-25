@@ -15,7 +15,6 @@ bkz hiç kadın ilber ortaylı olmaması
 bkz ilber ortaçgil vs celal şengör
 bkz ibrahim talısesin ben küçükken kıvırcıktım demesi
 blz ilkber ortaçgil mi celal şengörü mü sorunsalı
-bkz celal şengil ilber otaçfil arasındaki dostluk
 bkz celal şengil vs ilver ortçlı ortak yayını
 bkz ilber ortaçlı vs celal şengil
 bkz ibrahim talısesin ido için doğazlgazı açarım demesi
