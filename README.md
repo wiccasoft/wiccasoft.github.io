@@ -4,7 +4,8 @@
 
 <!-- 
 bkz caner erkin ifşası
-bkz gaylerin kadın gibi bi sorunun olmaması deep webte ulaşamadığı erkeklere entry girmeleri
+bkz gaylerin kadın gibi bi sorunun olmaması 
+bkz deep webte ulaşamadığı erkeklere entry girmek
 https://www.uludagsozluk.com/k/ko%C5%9Fan-%C3%A7ocuk/&w=bg bkz min son
 https://www.uludagsozluk.com/k/batuhan-karadeniz/&w=bg bkz türk oğlu türk 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
