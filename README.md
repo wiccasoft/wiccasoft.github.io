@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sagopa kajmer manuş baba düeti
 bkz 6 tırşık yiyip götdeliğine turşu sokan gay
 bkz 6 tırşık yedikten sonra kankağnın göt deliğe lahmacun sürtüp yemek
 https://www.uludagsozluk.com/k/etli-k%C4%B1%C5%9F-t%C3%BCrl%C3%BCs%C3%BC-vs-t%C4%B1r%C5%9F%C4%B1k/
