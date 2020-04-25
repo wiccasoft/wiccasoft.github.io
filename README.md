@@ -4,6 +4,8 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz şaka maka 10 tabak yemek yemek
+https://www.uludagsozluk.com/k/tavuk-dururken-pangolin-yemek/
 https://www.uludagsozluk.com/k/patates-k%C4%B1zartmas%C4%B1/&w=bg bkz tırşıkla iyi gider
 bkz orç ların oruç baba türbesine saldırması
 bkz erkek deyince akla erkek imgesi gelmesi
