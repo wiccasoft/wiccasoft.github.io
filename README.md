@@ -5,6 +5,7 @@
 <!-- 
 https://www.tccb.gov.tr/en/ pingleyin oçlarını
 https://www.akparti.org.tr/ pingleyin beyler çökertelim oçlarını
+https://www.uludagsozluk.com/k/jean-paul-belmondo-kemal-sunal-benzerli%C4%9Fi/&w=bg bkz bi gülüşü var sanırsın belmondo
 https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg yolları anan mı yabdı oç
 https://www.uludagsozluk.com/k/jean-paul-belmondo-kemal-sunal-benzerli%C4%9Fi/&w=bg ay olabilir mi böyle bişey 
 https://www.uludagsozluk.com/k/ak-parti-nin-rezidance-a-koli-g%C3%B6ndermesi/ link at oç
