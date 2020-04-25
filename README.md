@@ -4,6 +4,7 @@
 
 <!-- 
 bkz tc cumburlop sitesinin çökmesi
+bkz ekşcilerin tc cumurlop sitesinin pinglemesi
 bkz anakarta bşb nin iftarver sitesine saldırması
 bkz tayyipin türklere oç demesi
 bkz oç türklerin beni türk sanması
