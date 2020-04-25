@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz hzareti muhammed çok mu yakışıklı idi sorundalı
+bkz hazreti muhammed çok mu yakışıklı idi sorundalı
 bkz bi oturuşta 10 erkek yemek
 bkz erkek deyince akla gelen erkek
 bkz akıldan erkekleri çıkaramamak
