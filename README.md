@@ -4,7 +4,7 @@
 
 <!-- 
 bkz la bize her yer ankara
-bkz alper potukun volkan demirele yaptığı hareket
+bkz fatih tezcandan fatih terime işin yap uyarısı
 bkz ulus cebeci çankaya kardaş deriz kankayaaaaaaaa
 bkz hoşlaşılan bld. bşk nının twitter profilini fare ile okşamak
 https://www.ankara.bel.tr/en bkz iki gözümün çiçeği açmış yine bld. yi
