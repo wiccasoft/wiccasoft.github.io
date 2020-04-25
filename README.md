@@ -3,7 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz karıalr nasıl hoplar bilirmisin kardeş
+bkz duran emminin seyfo dayıyı duvardan duvara hoplatması
+bkz karılar nasıl hoplar bilirmisin kardeş
 bkz testere necminin laz ziyanıon karısını hoplatması
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz din tüccarı
