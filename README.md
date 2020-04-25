@@ -4,6 +4,7 @@
 
 <!--
 bkz it ürürü kervan yürür
+bkz sevdiceğin kek yapıp üreyelim mi diyen kız
 bkz allahın sikişmeyi yasaklamasına aldırış etmeyen insanoğlu
 bkz buzdolabına yedikçe sikişiyoz yazan çift
 bkz annenin sikilmedik bi göt deliğim kaldı demesi
