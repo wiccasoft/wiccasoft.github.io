@@ -6,6 +6,7 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
+bkz kim jong unun trumpa kafana füze atarım demesi
 bkz bırak la gelsin hele cücüyü
 bkz cücü özdemirin chplilere oç demesi
 bkz 06 melih 06 ahmet in barışması
