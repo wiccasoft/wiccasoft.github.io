@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz orç ların oruç baba türbesine saldırması
 bkz erkek deyince akla erkek imgesi gelmesi
 bkz cüneyt özdemir ekşcicilere geneetiği bozuk oçler demesi
 https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
