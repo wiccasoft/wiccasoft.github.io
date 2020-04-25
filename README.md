@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz celal şengörün elon muska bilim adamı diyen bana demesin demesi
 bkz celal şengör oya şengör aşkı
 bkz laz ziyanın karımı hoplatabilirsiniz demesi
 bkz laz ziyanın karısının hopur hopur hoplatmak
