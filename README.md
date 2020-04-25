@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz iq arttıkça daha çok entry girilmesi
 bkz sevdiceğine tırşık yapan kız
 bkz iq düştükçe inamanın artması
 bkz ben senin bokunu yerim bokunu diyen kız
