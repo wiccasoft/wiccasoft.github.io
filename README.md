@@ -2,27 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz sagopa kajmer manuş baba düeti
-bkz 6 tırşık yiyip götdeliğine turşu sokan gay
-https://www.uludagsozluk.com/k/etli-k%C4%B1%C5%9F-t%C3%BCrl%C3%BCs%C3%BC-vs-t%C4%B1r%C5%9F%C4%B1k/
-https://www.uludagsozluk.com/k/ceza-n%C4%B1n-sagopa-kajmer-le-d%C3%BCet-yapacak-olmas%C4%B1/
-https://www.uludagsozluk.com/k/6-tabak-t%C4%B1r%C5%9F%C4%B1ktan-sonra-oru%C3%A7lu-oldu%C4%9Funu-hat%C4%B1rlamak/
-https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
-https://www.uludagsozluk.com/k/c%C3%BCnyet-%C3%B6zdemir-in-chp-li-trollere-k%C4%B1zmas%C4%B1/
-https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
-https://www.uludagsozluk.com/k/duran-emmi/&w=bg bkz seyfo dayıyla yiyişme sahnesi
-bkz kim jon un u 3 kelime ile anlat
-bkz kim jong unun chplilere oç demesi
-bkz kim jon deyince akla ne ilk gelenleri sözcüklere dök
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç
-bkz cüneyt özdemirin üç maymunu oynaması
-https://www.pinterest.com/wiccasoft/pins/ bkz çiftlik bankın akpye yanlaması
-https://www.uludagsozluk.com/k/inek-h%C4%B1rs%C4%B1z%C4%B1-ve-%C3%A7ocuk-tazizcisinden-medet-uman-akp/&w=bg
-https://www.uludagsozluk.com/k/chp-lilerin-oru%C3%A7-tutmamas%C4%B1/&w=bg bkz chplilerin oç olması
-https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chplilere oç demesi
--->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
