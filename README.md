@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz aşkım hep aynı erkeklere entry giriyon diyen kız
 bkz aşkım barış akarsuya enrtry girsene biraz da diyen kız
 bkz aşkım gece gece akla ne geldi yine diyen kız
 bkz aşkım barış akarsunun gözleri rimelli mi diyen kız
