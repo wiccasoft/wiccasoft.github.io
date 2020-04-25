@@ -2,8 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
-bkzilber ortaçgil celal şengilin karılarından yediği ayar
+<!--
+bkz celal şengörün karısından yediği ayar
+bkz ilber ortaçgil celal şengilin karılarından yediği ayar
 bkz ilber ortaçgilini celal şengöre yalarun demesi
 bkz celal şengörün en iyisi benim demesi
 bkz laz ziyanın damadına beline kuvvet demesi
