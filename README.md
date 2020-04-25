@@ -5,7 +5,7 @@
 <!-- 
 bkz kim jong un u 3 kelimeyle anlat
 bkz kim jong unun cnn turkü dörte bölmesi
-bkz kurtlar vaisi kumpas limoncu ekşici team
+bkz kurtlar vadisi kumpas ekşici limoncu team
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ kumpas kurma oç 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 -->
