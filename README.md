@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz patlak kızların patlak değilim havaları
 bkz memikoğlana bi simitte sen at
 bkz yatak odasına memikoğlan resmi asan yeni evli çift
 bkz patlak kızı suya sokup hava kaçırıyo mu diye bahmak
