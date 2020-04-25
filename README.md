@@ -2,7 +2,10 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- https://www.uludagsozluk.com/k/peygamberin-kuzenlerini-nikahlamas%C4%B1/ -->
+<!-- 
+bkz erkeklerin gittikçe kadınlaşması
+https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg adam top beyler
+https://www.uludagsozluk.com/k/peygamberin-kuzenlerini-nikahlamas%C4%B1/ -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
