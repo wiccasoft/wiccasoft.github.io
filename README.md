@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.tccb.gov.tr/en/ pingleyin oçlarını
 https://www.akparti.org.tr/ pingleyin beyler çökertelim oçlarını
 https://www.uludagsozluk.com/k/ak-parti-nin-rezidance-a-koli-g%C3%B6ndermesi/ link at oç
 https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg yol yabdı daha ne oç
