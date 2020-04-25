@@ -4,6 +4,7 @@
 
 <!--
 bkz geceye bir yakışıklı bırak
+bkz gecey bırakılan yakışıklıyı yiyen azgınlar
 bkz yakışıklı erkek deyince akla gelen ilk erkek sorunsalı
 bkz murat övüç o kadar yakışıklı değil yaa diyen kız
 bkz cüneyt özdemir çoook yakışıklıaaaaaaaaaa diyen kız
