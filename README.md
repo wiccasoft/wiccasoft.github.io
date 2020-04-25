@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins
 bkz ekşcilerin yabancı hesabı ak parti diye takip etmesi
 bkz oç türklerin niye beni takip etmesi sorunsalı
 bkz oç türklerin beni türk sanması
