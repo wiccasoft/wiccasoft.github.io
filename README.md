@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+https://www.uludagsozluk.com/k/gelecekte-d%C3%BCnyaya-y%C3%B6n-verecek-%C3%BClkeler/ bkz türküyü
 bkz trumpın kim jong una kim jong una küçük roket adam demesi
 bkz kim jong unun unu fazla kaçırması
 bkz patlak kızların patlak değilim havaları
