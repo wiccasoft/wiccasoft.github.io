@@ -3,12 +3,11 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.pinterest.com/wiccasoft/pins/ bkz çiftlikbbankın akpye yanlaması
+https://www.pinterest.com/wiccasoft/pins/ bkz çiftlik bankın akpye yanlaması
 https://www.uludagsozluk.com/k/inek-h%C4%B1rs%C4%B1z%C4%B1-ve-%C3%A7ocuk-tazizcisinden-medet-uman-akp/&w=bg
 https://www.uludagsozluk.com/k/chp-lilerin-oru%C3%A7-tutmamas%C4%B1/&w=bg bkz chplilerin oç olması
 https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chplilere oç demesi
-bkz 06 melihin  wiccasoft türkiyeyi 4 e bölmesi
-https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir-in-bir-yere-atanmas%C4%B1/ bkz atacücü düşmanı cüneytin wiccasoft tan iş teklifi alması -->
+-->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
