@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-vkz cüneyt özdemir chpliler oç demesi
+https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
 https://www.uludagsozluk.com/k/duran-emmi/&w=bg bkz seyfo dayıyla yiyişme sahnesi
 bkz kim jon un u 3 kelime ile anlat
 bkz kim jong unun chplilere oç demesi
