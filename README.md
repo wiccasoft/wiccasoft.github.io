@@ -4,6 +4,7 @@
 
 <!-- 
 bkz la bize her yer ankara
+bkz ben senin bokunu bile yerim diyen gönlü güzel kız
 bkz götü güzel kız mı gönlü güzel kız mı sorundalı
 bkz üst komşunun yaşa fenerbahvçe diye evde zıplayan veledi
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 alezx der geçerim kankağ
