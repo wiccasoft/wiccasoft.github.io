@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ahmet necdet sezerin sezgin tanrıkuluya oç demesi
 bkz seyfo dayının tuncel kurtizi hoplatması
 bkz cüneyt özdemirin türkler internetin virsüleri değil demesi
 bkz tuncel kurtizin oğlancı olması
