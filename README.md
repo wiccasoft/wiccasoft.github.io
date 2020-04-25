@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz beyin kanartan deyince akla kan gelmesi amk
 bkz kim jong un un selayı beklemesi
 bkz beyin kanartan kaan boşnak saksosu
 bkz korean hack team in iftarver.com a saldırması
