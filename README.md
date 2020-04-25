@@ -4,6 +4,7 @@
 
 <!-- 
 bkz caner erkin ifşası
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz egolu şapşik şey
 bkz altay bayındır bayındırlık bakanlığına geçmesi
 bkz kaan boşnak deyince akla gelenler
 bkz boşnak saksosu deyince akla gelenler
