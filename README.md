@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz senin için hapis yatarım adam öldürürüm diyen erkeklerin kalmaması
 bkz erkeklerin şapşik olması
 bkz erkeklerin gittikçe layt erkeği olması
 bkz taş fırın mafya erkeklerin azalması
