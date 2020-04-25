@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 6 tırşık yiyip götdeliğine turşu sokan gay
 bkz 6 tırşık yedikten sonra kankağnın göt deliğe lahmacun sürtüp yemek
 https://www.uludagsozluk.com/k/etli-k%C4%B1%C5%9F-t%C3%BCrl%C3%BCs%C3%BC-vs-t%C4%B1r%C5%9F%C4%B1k/
 https://www.uludagsozluk.com/k/ceza-n%C4%B1n-sagopa-kajmer-le-d%C3%BCet-yapacak-olmas%C4%B1/
