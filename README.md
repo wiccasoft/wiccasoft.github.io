@@ -4,6 +4,7 @@
 
 <!--
 bkz erkeklerin gittikçe kadınlaşması
+bkz erkek milletine güven olunmayacağı gerçeği
 https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg
 bkz murat isimli erkeklerin genelde yakışıklı olması sorunsalı
 bkz murat deyince akla gelenler
