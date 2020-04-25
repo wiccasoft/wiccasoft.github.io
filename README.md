@@ -5,6 +5,7 @@
 <!--- 
 bkz şaka maka madafaka
 bkz cüneyt özdemir ekşcicilere geneetiği bozuk oçler demesi
+https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
 bkz full nick altı temiz beyin kanartan ifşa link atmamış ekşici hesap acilen satılık 
 bkz demeden beyin kanartan ifşalar 2020 full arşiv isteyen satarım kankağ
 bkz cüneytdemirin chpliler genetiği oynanamış oç ları gibiler demesi
