@@ -6,7 +6,7 @@
 bkz la bize her yer ankara
 bkz alper potukun volkan demirele yaptığı hareket
 bkz ulus cebeci çankaya kardaş deriz kankayaaaaaaaa
-bkz mansur yavaşın twitter arka planı
+bkz hoşlaşılan bld. bşk nının twitter profilini fare ile okşamak
 https://www.ankara.bel.tr/en bkz iki gözümün çiçeği açmış yine bld. yi
 https://www.tccb.gov.tr/en/ pingleyin oçlarını
 https://www.akparti.org.tr/ pingleyin beyler çökertelim oçlarını
