@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz cüneyt özdemir ekşcicilere geneetiği bozuk oçler demesi
 bkz full nick altı temiz beyin kanartan ifşa link atmamış ekşici hesap acilen satılık 
 bkz demeden beyin kanartan ifşalar 2020 full arşiv isteyen satarım kankağ
 bkz cüneytdemirin chpliler genetiği oynanamış oç ları gibiler demesi
