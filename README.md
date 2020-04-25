@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz aşkım cüneyt özdemire entry girmiyosun yaa diyen kız
 bkz aşkım sörfayfur yunusa annenin telefondan sms atsana diyen kız
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg b
 bkz aşkım kaan boşnak kim diyen kız
