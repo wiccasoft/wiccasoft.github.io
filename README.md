@@ -2,66 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz yavru köpeği siken cani
-bkz facebookta okey oynayan örtmenler
-bkz murat övüçün oruçluyum sevişmeyelim demesi
-bkz daha önce oruç tutumamış erkekle sevişmek
-bkz kim jong un nun unlu mamuller yemesi
-bkz iftarver.com un ankara bşb sitesini haclemesi
-bkz ibb nni atanamayan örtmenlere lahmacun dağıtması
-bkz kim jong ungun orucu açmak için selayı beklemesi
-bkz 6 tabak tırşık yiyip oruçlu oçduğu hatırlamak
-bkz orç ların orucunu kabul etmem diyen allah
-bkz oruç baba türbesine sürten ümreciler
-bkz oruç ben senin tutmim işin vardır diyen erkek
-bkz erkekçe vuruşmaktan korkan erkek
-bkz erkekler nasıl orç tutmalı
-bkz beyin kanartan kaan boşnak ifşası
-bkz erkek deyince akla erkek dönergeci gelmesi sorunsalı
-bkz kaan boşnak deyince beyne kaan boşnak imajı gelmesi
-bkz oruç tutmayıp adamım diye gezen totoşlar
-bkz oruçlu erkek hiç oruç tutumamış erkek öpüşmesi
-https://www.uludagsozluk.com/k/oru%C3%A7-tutmay%C4%B1p-adam%C4%B1m-diye-dola%C5%9Fmak/&w=bg
-https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
-bkz ekşicilerin erkekleri trollemesi
-bkz ekşicilerin hayalindeki erkeğin beyin cerrahı çıkması
-bkz ibb web sitesine hiç girmemiş yakışıklı kumral beyin cerrahı erkek
-bkz daha önce hiç ibb sitesine girmemiş erkek
-bkz ultra anti lgbt team in ibb web sitesine saldırması
-bkz daha önce hiç ultra geyseli öpmemiş erkek
-bkz yavru kancığı öldürenin ultra geyseli çıkması
-bkz daha önce kız öpmememiş erkek çekiciği
-bkz daha önce jhiç bi kzıı öpmemeiş erkeği öpmek
-bkz ibb nin ibnelere günde 10 entry girsinler demesi
-bkz hoşlaştığı erkeğe entry giremeyen ezik ergenler
-bkz kim jong unu 3 kelimeyle sözcüklere sığdır entry gir
-https://www.uludagsozluk.com/k/erkekler-nas%C4%B1l-giyinmeli/&w=bg ibnelerin götünü sikecek şekilde
-https://www.uludagsozluk.com/k/mahmut-d%C3%B6lek/ anneinzin amcığını dölleyen adam gibi adam
-https://www.uludagsozluk.com/k/daha-%C3%B6nce-hi%C3%A7bir-k%C4%B1z%C4%B1-%C3%B6pmemi%C5%9F-erkek/&w=gd annenni amcığını öptüm raad ol oç
-oç ekşiciler ganyotçu ekrem gibi keserim lan götünüzü
-oç ekşiciler adıma başlık açında annenizi götten sikeyim
-bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
-bkz oçları deyince akla ekşicilerin gelmesi
-bkz ekşci oç ları vs ulucu veledi zinalar
-bkz ekşici deyince yaramaz oç larının akla gelmesi
-bkz beyni yok fikri var oçlarının
-bkz deyince akla gelenler
-bkz iğrençsiniz ibneler
-bkz yatalak dedenin pipisini emmek
-bkz sagopa kajmer manuş baba düeti
-bkz  gönlü güzel kız mı götü güzel kız mı
-bkz ben senin boklu tırşığını yerim diyen kız
-bkz 6 tırşık yiyip götdeliğine turşu sokan gay
-bkz kim jon un u 3 kelime ile anlat
-bkz kim jon deyince akla ne ilk gelenleri sözcüklere dök
-bkz cüneyt özdemir ekşici oçları yütüp sayfamı unsubcribelasın demesi
-https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
-https://www.uludagsozluk.com/k/erkekler-nas%C4%B1l-giyinmeli/&w=bg bkz gayleri çıldırtacak şekilde
- https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç 
-https://www.uludagsozluk.com/k/etli-k%C4%B1%C5%9F-t%C3%BCrl%C3%BCs%C3%BC-vs-t%C4%B1r%C5%9F%C4%B1k/
-https://www.uludagsozluk.com/k/ceza-n%C4%B1n-sagopa-kajmer-le-d%C3%BCet-yapacak-olmas%C4%B1/
-https://www.uludagsozluk.com/k/6-tabak-t%C4%B1r%C5%9F%C4%B1ktan-sonra-oru%C3%A7lu-oldu%C4%9Funu-hat%C4%B1rlamak/-->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
