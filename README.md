@@ -4,7 +4,8 @@
 
 <!--
 bkz siyasal şintocular
-bkz kim jopn unun unu fazla kaçırması
+bkz trumpın kim jong una kim jong una küçük roket adam demesi
+bkz kim jong unun unu fazla kaçırması
 bkz patlak kızların patlak değilim havaları
 bkz memikoğlana bi simitte sen at
 bkz yatak odasına memikoğlan resmi asan yeni evli çift
