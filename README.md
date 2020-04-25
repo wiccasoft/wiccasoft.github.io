@@ -4,6 +4,7 @@
 
 <!-- 
 bkz imamoğlan kim jon oğlan benzerliği
+bkz kim jong un a bir iftira da sen at
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ iftira atma oç
 bkz sözlük kapanırsa kim jong una entry nereye girecez sorunsalı
 bkz kim jong unun saç stilini değiştirmesi
