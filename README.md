@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz orç ların orucunu kabul etmem diyen allah
 bkz oruç baba türbesine sürten ümreciler
 bkz oruç ben senin tutmim işin vardır diyen erkek
 bkz erkekçe vuruşmaktan korkan erkek
