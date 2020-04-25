@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz olm ben sizin oymağa bağlı değilim
 bkz oç türklerin beni türk sanması
 https://www.pinterest.com/wiccasoft/pins
 bkz ekşicilerin yabancı hesabı ak parti diye takip etmesi
