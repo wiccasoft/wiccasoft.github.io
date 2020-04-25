@@ -4,6 +4,7 @@
 
 <!-- 
 bkz oç türklerin beni türk sanması
+bkz türklerin internetin virüsü olma ihtimali
 https://www.pinterest.com/wiccasoft/pins
 bkz ekşicilerin yabancı hesabı ak parti diye takip etmesi
 bkz oç türklerin niye beni takip etmesi sorunsalı
