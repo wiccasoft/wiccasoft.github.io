@@ -2,48 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--- 
-bkz şaka maka madafaka
-bkz serdar ortaç kim jong un benzerliği
-bkz gerçek türklerin çekik gözlü olduğu iddası sorunsalı
-bkz yılmaz erdoğan deyince akla telsim lililili reklamı gelmesi
-bkz yılmaz özdil deyince akal sırıtan bi yuvarlak kafa gelmesi
-bkz yılmaz deyince akla yılmaz isimli erkekler gelmesi
-bkz yılmaz güney yılmaz morgül ifşası
-bkz yılmaz güney kürt mü sorunsalı
-bkz erkek deyince beyne erkek imgesi gelmesi
-bkz doblosunun arkasına oruçluyum yazan erkek
-bkz ilk buluşmada araba anahtarlığı saat takan oruçlu erkek
-bkz düz otbanda beyni 30 point gazlayıp 230 point kanartmak
-bkz beyin kanartan kaan tırşık paylaşımları
-bkz şaka maka 10 tabak tırşık yiyip geğirmek
-bkz şaka maka oç ayağına 50 kilo daha almak
-bkz türklerin sürekli yemek yemesi
-bkz oç tutumayıp oçyim diye gezmek
-bkz sahurda sevişmelik erkek veritabanı
-bkz hiç oç tutmamış erkekle sevişmek
-https://www.uludagsozluk.com/k/oru%C3%A7-tutmay%C4%B1p-adam%C4%B1m-diye-dola%C5%9Fmak/&w=bg 
-https://www.uludagsozluk.com/k/tavuk-dururken-pangolin-yemek/
-https://www.uludagsozluk.com/k/patates-k%C4%B1zartmas%C4%B1/&w=bg bkz tırşıkla iyi gider
-bkz orç ların oruç baba türbesine saldırması
-bkz erkek deyince akla erkek imgesi gelmesi
-bkz cüneyt özdemir ekşcicilere geneetiği bozuk oçler demesi
-bkz altı tabak tırşık yiyip oruçlu olduğunu hatırlamak
-https://www.uludagsozluk.com/k/ramazanda-s%C3%BCrekli-yemek-%C3%B6v%C3%BCc%C3%BC-ba%C5%9Fl%C4%B1k-a%C3%A7an-tip/
-https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
-bkz full nick altı temiz beyin kanartan ifşa link atmamış ekşici hesap acilen satılık 
-bkz demeden beyin kanartan ifşalar 2020 full arşiv isteyen satarım kankağ
-bkz cüneytdemirin chpliler genetiği oynanamış oç ları gibiler demesi
-bkz beyin kanartan deyince akla kan gelmesi amk
-bkz kim jong un un selayı beklemesi
-bkz beyin kanartan kaan boşnak saksosu
-bkz korean hack team in iftarver.com a saldırması
-bkz yılmaz güney iftarda yılan yerdi yalanı
-bkz oç laikçilerin oruç baba türbesine kemik bırakması
-bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz yavru köpeği siken cani kürt
-https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en -->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
