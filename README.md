@@ -6,6 +6,7 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
+bkz 06 melih 06 ahmet in barışması
 bkz 06 melih deyince akla cnn türko hakan gelmesi
 bkz ekşcilerin cüneytin yütüp sayfasını unflaması
 bkz ekşicilerin cüneyte cücü demesi
