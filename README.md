@@ -5,6 +5,7 @@
 <!--
 bkz siyasal şintocular
 bkz ramazanda yılan kanı içip ladyboy sikmemek
+bkz altı tabak tırşık yiyip ladyboy sikmeye gitmek
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
 bkz yılmaz güney yılmaz özdil yılmaz erdoğan üçlüsü
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
