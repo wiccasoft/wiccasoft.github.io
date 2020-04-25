@@ -2,6 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!--https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir-in-bir-yere-atanmas%C4%B1/ bkz atacücü düşmanı cüneytin wiccasoft a ceo olması -->
+
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
