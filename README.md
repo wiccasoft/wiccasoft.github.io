@@ -5,6 +5,7 @@
 <!--
 bkz siyasal şintocular
 bkz memikoğlana bi simitte sen at
+bkz yatak odasına memikoğlan resmi asan yeni evli çift
 bkz patlak kızı suya sokup hava kaçırıyo mu diye bahmak
 bkz yılmaz morgül david bowie benzerliği
 bkz kurtlar vadisi kim jong limon un
