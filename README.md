@@ -4,6 +4,7 @@
 
 <!-- 
 bkz kolpaçino özgür vs ganyotçu ekrem
+bkz batuhan karadenizin bacak kasları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potukun sakatlığı
 bkz ahmet hakanın wiccasoft türkiyeyi 4 e bölmesi
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg ali koç başkan fener şampi
