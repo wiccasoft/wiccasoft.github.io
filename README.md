@@ -4,6 +4,7 @@
 
 <!--
 bkz kim jon un u 3 kelime ile anlat
+bkz kim jong unun chplilere oç demesi
 bkz kim jon deyince akla ne ilk gelenleri sözcüklere dök
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç
 bkz cüneyt özdemirin üç maymunu oynaması
