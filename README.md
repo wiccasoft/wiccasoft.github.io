@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz iğrençsiniz ibneler
 bkz sagopa kajmer manuş baba düeti
 bkz 6 tırşık yiyip götdeliğine turşu sokan gay
 bkz kim jon un u 3 kelime ile anlat
