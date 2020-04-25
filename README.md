@@ -6,6 +6,7 @@
 bkz twitter linki at oç
 bkz yılmaz yozdilin kürt olduğu gerçeği
 bkz ekşicilerin kaan boşnak ı ifşa etmesi
+bkz memikoğlana bi övgü de sen at
 bkz ekşcilerin cüneyt cücüdemir i unfollowlaması
 bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
 bkz sedat tanrıkulunun götünüz yiyosa diyarbakır a gelin tweeti
