@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 150 kilo olunca büllüğün kalkmaması
 bkz tosunumu siken yok mu diyen kız
 bkz skilmedik tosunum kaldı diyen kız
 bkz kim jon unun unlu mamuller yemesi
