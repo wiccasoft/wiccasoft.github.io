@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz iq düştükçe iştahın artması
 bkz sevdiceğine altı tabak tırşık yediren kız
 bkz iq arttıkça fenerli olamnın artması fenerli olduğum için demiyoru mama öyle kankağ
 bkz 200 iq nun bi anda 100 e düşmesi
