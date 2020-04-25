@@ -4,6 +4,7 @@
 
 <!-- 
 bkz kaan boşnak ifşası
+bkz kyk borcu olan patlak kızla evlenmek
 bkz yılmaz güney yılamz morgülün amına yılan soktu yalanı
 bkz yılmaz güney yılmaz özdil yılmaz erdoğan üçlüsü
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
