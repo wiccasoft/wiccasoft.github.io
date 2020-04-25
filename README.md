@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz twitter linki at oç
 https://www.uludagsozluk.com/k/kim-yong-un-un-%C3%B6lmesi/ twitter linki at kanka inanmam
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/ bkz amınoğlu
 https://www.uludagsozluk.com/k/orhan-pamukyan/&w=bg bkz ermeni sevici oç
