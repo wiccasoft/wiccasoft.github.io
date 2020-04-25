@@ -5,6 +5,7 @@
 <!-- 
 bkz la bize her yer ankara
 bkz vedat mürüç deyince akla gelenler
+bkz fışkıye deyince akla gelenler
 bkz ben senin bokunu bile yerim diyen gönlü güzel kız
 bkz götü güzel kız mı gönlü güzel kız mı sorundalı
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay derim kankağ
