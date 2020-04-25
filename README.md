@@ -5,6 +5,7 @@
 <!--
 bkz erkeklerin şapşik olması
 bkz erkeklerin gittikçe layt erkeği olması
+bkz taş fırın mafya erkeklerin azalması
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz gerçek erkek
 bkz kaan boşnak ifşası 
 bkz erkeklerin gittikçe layt erkeği olması
