@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ekşcilerin cücü özdemire verdiği efso ayar
 https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir/&w=bg bkz yütüpır
 bkz geceye bir yakışıklı bırak
 bkz gecey bırakılan yakışıklıyı yiyen azgın kızlar
