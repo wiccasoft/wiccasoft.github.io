@@ -6,7 +6,7 @@
 bkz ifşaver.com
 bkz oruçbaba.com
 bkz manuş baba ifşası
-bkz wiccasoft un atacücü düşmanı  cüneyti işe alması
+bkz wiccasoft un atacücü düşmanı cüneyti işe alması
 bkz cüneyt özdemirin cnn türk eski yayınları yütüp sayfası
 bkz cüneyt özdemirin cnn turk faşist demesi
 bkz kim jong un un kimyasal silah atarım uyarısı
