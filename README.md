@@ -4,6 +4,7 @@
 
 <!--
 bkz kaan boşnak ifşası 
+bkz kaan boşnak gibi erkeklerin am için entry giren kızları üzmesi
 bkz cüneyt isimli erkeklerin genel özellikleri
 bkz cüneyt deyince akla gelenler
 bkz erkeklerin gittikçe kadınlaşması
