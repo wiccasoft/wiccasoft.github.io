@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/beynimizin-100-%C3%BCn%C3%BC-kullansak-ne-olur/ bkz ekşici
 bkz ekşicilerin erkekleri trollemesi
 bkz ekşicilerin hayalindeki erkeğin beyin cerrahı çıkması
 bkz ibb web sitesine hiç girmemiş yakışıklı kumral beyin cerrahı erkek
