@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz serdar ortaçgil vs celal şengil
 bkz serdar ortçagilini kim yo jonga yürümesi
 bkz kim yo jong vs kim kardashian
 bkz kim kardashian vs kim yo jon un
