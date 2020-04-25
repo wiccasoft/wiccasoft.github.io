@@ -5,6 +5,8 @@
 <!--
 bkz sagopa kajmer manuş baba düeti
 bkz 6 tırşık yiyip götdeliğine turşu sokan gay
+bkz kim jon un u 3 kelime ile anlat
+bkz kim jon deyince akla ne ilk gelenleri sözcüklere dök
 https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
 https://www.uludagsozluk.com/k/erkekler-nas%C4%B1l-giyinmeli/&w=bg bkz gayleri çıldırtacak şekilde
  https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç 
