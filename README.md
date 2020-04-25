@@ -8,7 +8,6 @@ bkz kim jong unu elimle beslerim diyen kız
 bkz sikilmedik bi kulak memesi kalmış kızlar
 bkz memelerimi mi kulak mememi seviyosun diyen kızlar
 bkz ben senin bokunu yerim lan bokunu diyen kızlar
-https://www.uludagsozluk.com/k/sikilmedik-bir-kula%C4%9F%C4%B1n%C4%B1n-arkas%C4%B1-kalm%C4%B1%C5%9F-k%C4%B1zlar/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz limon lobisi-->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
