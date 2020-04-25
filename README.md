@@ -5,6 +5,8 @@
 <!--
 bkz iğrençsiniz ibneler
 bkz sagopa kajmer manuş baba düeti
+bkz  gönlü güzel kız mı götü güzel kız mı
+bkz ben senin boklu tırşığını yerim diyen kız
 bkz 6 tırşık yiyip götdeliğine turşu sokan gay
 bkz kim jon un u 3 kelime ile anlat
 bkz kim jon deyince akla ne ilk gelenleri sözcüklere dök
