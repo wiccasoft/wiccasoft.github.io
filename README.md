@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/daha-%C3%B6nce-hi%C3%A7bir-k%C4%B1z%C4%B1-%C3%B6pmemi%C5%9F-erkek/&w=gd annenni amcığını öptüm raad ol oç
 oç ekşiciler ganyotçu ekrem gibi keserim lan götünüzü
 oç ekşiciler adıma başlık açında annenizi götten sikeyim
 bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
