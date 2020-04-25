@@ -2,47 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz twitter linki at oç
-bkz bizimkiler tak tak sedat
-bkz memikoğlanın ortak yayında verdiği efso ayar
-bkz memikoğlanın binalioğlan ortak yayını
-bkz memikoğlanı 3 kelimeyle anlat
-bkz memikoğlan deyince akla gelen kelimeler
-bkz memikoğlana bir iftira da sen at
-bkz memikoğlan deyince akla gelenler
-bkz 06melik vs ahmet hakan
-bkz ahmet hakanın bölücü olduğu gerçeği
-bkz ahmet hakanın cnn türk ekranı dörde bölmesi
-bkz yılmaz yozdilin kürt olduğu gerçeği
-bkz ekşicilerin kaan boşnak ı ifşa etmesi
-bkz memikoğlana bi övgü de sen at
-bkz ekşideki 13. cumburlop kim olsun kavgası
-bkz ekşideki mansur yava ş beni cumburlopum olacak kavgası
-bkz ekşcilerin cüneyt cücüdemir i unfollowlaması
-bkz burak erdoğanın götünüz yiyosa hodri meydan tweeti
-bkz sedat tanrıkulunun götünüz yiyosa diyarbakır a gelin tweeti
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765
-https://www.uludagsozluk.com/k/ramazan-davulcusu/ bkz kerimcan durmaz
-https://www.uludagsozluk.com/k/ramazan-saksafoncusu/ bkz candy dulfer
-https://www.uludagsozluk.com/k/gayler-oru%C3%A7-tutuyor-mu-sorunsal%C4%B1/ bkz kerimcan tutmaz
-https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-bugatti-veyron-ile-gelen-erkek/&w=bg bkz bugattiye veren kızlar
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-vir%C3%BCse-kar%C5%9F%C4%B1-gizli-a%C5%9F%C4%B1-geli%C5%9Ftirmesi/ 
-https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz bizimkiler tak tak sedat
-https://eksisozluk.com/ahmet-hakan-denilince-akla-ilk-gelen-sozcuk--6489986?a=popular bkz kekremsi kelimeler
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg bkz amınoğlu değil
-https://www.uludagsozluk.com/k/devletsiz-bir-toplum-m%C3%BCmk%C3%BCn-m%C3%BC/&w=gd bkz olur olur bal gibi olur
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-alevili%C4%9Fi-din-olarak-g%C3%B6stermesi/ bkz amınoğlu
-https://www.uludagsozluk.com/k/unutulmaz-keko-s%C3%B6zleri/&w=bg bkz kezoların yine atar yapması
-https://www.uludagsozluk.com/k/kim-yong-un-un-%C3%B6lmesi/ twitter linki at kanka inanmam
-https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/ bkz amınoğlu
-https://www.uludagsozluk.com/k/orhan-pamukyan/&w=bg bkz ermeni sevici oç
-bkz ekşicilerin twittercılara verdiği efso ayar
-https://www.uludagsozluk.com/k/25-nisan-2020-y%C4%B1lmaz-%C3%B6zdil-yaz%C4%B1s%C4%B1/&w=gd bkz yılmaz güney güzellemesi
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-vir%C3%BCse-kar%C5%9F%C4%B1-gizli-a%C5%9F%C4%B1-geli%C5%9Ftirmesi/ -->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
