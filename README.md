@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz mustafa ata cücü çok yakışık mı sorunsalı
 bkz mustafa atacücüye sarılıp yatmak 
 bkz mustafa ata cücü çok mu yakışıklıydı sounsalı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-m%C4%B1-idi-sorunsal%C4%B1/
