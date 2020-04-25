@@ -4,6 +4,8 @@
 
 <!--
 https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
+https://www.uludagsozluk.com/k/c%C3%BCnyet-%C3%B6zdemir-in-chp-li-trollere-k%C4%B1zmas%C4%B1/
+https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
 https://www.uludagsozluk.com/k/duran-emmi/&w=bg bkz seyfo dayıyla yiyişme sahnesi
 bkz kim jon un u 3 kelime ile anlat
 bkz kim jong unun chplilere oç demesi
