@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz cüneytdemirin chpliler genetiği oynanamış oç ları gibiler demesi
 bkz beyin kanartan deyince akla kan gelmesi amk
 bkz kim jong un un selayı beklemesi
 bkz beyin kanartan kaan boşnak saksosu
