@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz celal ortaçgilin pouler bilim adamı deilim demesi
 bkz ilber ortaçgil vs celal şengil
 bkz celal çengörün kadından bilim adamı olmaz demesi
 bkz hiç kadın bikim adamı olmaması
