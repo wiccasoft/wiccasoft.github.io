@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ bkz yılmaz morgül
 https://www.uludagsozluk.com/k/ankara-b%C5%9Fb-nin-iftarver-com-sitesine-siber-sald%C4%B1r%C4%B1/ bkz oçları
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kurtlar vadisi kumpas -->
 
