@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz bir akpliye yaklaşıp kulağına öpücük kondurmak
 bkz patlak kızların suda çıakrdığı ses
 bkz patlak kızların su ürünleri okumaya şehre gelmesi
 bkz kim jong un nun yanaklarını sıkıp tosunum diyen kız
