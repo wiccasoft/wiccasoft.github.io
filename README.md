@@ -11,19 +11,7 @@ https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/jean-paul-belmondo-kemal-sunal-benzerli%C4%9Fi/&w=bg ay olabilir mi böyle bişey 
 https://www.uludagsozluk.com/k/ak-parti-nin-rezidance-a-koli-g%C3%B6ndermesi/ link at oç
 https://www.uludagsozluk.com/k/tayyip-bu-%C3%BClke-i%C3%A7in-ne-yapt%C4%B1/&w=bg yol yabdı daha ne oç
-bkz ekşcilerin x deyince akıllarına y gelmesi 
-bkz binali memikoğlan ortak yayını
-bkz tc cumburlop sitesinin çökmesi
-bkz ekşcilerin tc cumurlop sitesini pinglemesi
-bkz tayyipin türklere oç demesi
-bkz oç türklerin beni türk sanması
 bkz türklerin internetin virüsü olma ihtimali
-https://www.pinterest.com/wiccasoft/pins
-bkz ekşicilerin yabancı hesabı ak parti diye takip etmesi
-bkz oç türklerin niye beni takip etmesi sorunsalı
-bkz kim jong un u 3 kelimeyle anlat
-bkz kim jong unun cnn türkü dörte bölmesi
-bkz kurtlar vadisi kumpas ekşici limoncu team
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ kumpas kurma oç 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 https://www.uludagsozluk.com/k/ankara-b%C5%9Fb-nin-iftarver-com-sitesine-siber-sald%C4%B1r%C4%B1/ bkz ping atma oç
