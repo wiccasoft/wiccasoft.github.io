@@ -4,6 +4,7 @@
 
 <!-- 
 bkz la bize her yer ankara
+bkz ulus cebeci çankaya kardaş deriz kankayaaaaaaaa
 https://www.ankara.bel.tr/en bkz iki gözümün çiçeği açmış yine bld. yi
 https://www.tccb.gov.tr/en/ pingleyin oçlarını
 https://www.akparti.org.tr/ pingleyin beyler çökertelim oçlarını
