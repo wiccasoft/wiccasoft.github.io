@@ -4,6 +4,8 @@
 
 <!-- 
 bkz caner erkin ifşası
+bkz kaan boşnak deyince akla gelenler
+bkz boşnak saksosu deyince akla gelenler
 bkz altay bayındırın  yedek klubesinde oturmama demesi
 bkz kolpaçino özgür vs ganyotçu ekrem
 bkz batuhan karadenizin bacak kasları
