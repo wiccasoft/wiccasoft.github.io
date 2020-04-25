@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz yakışıklı erkek deyince akla gelen ilk erkek sorunsalı
 bkz murat övüç o kadar yakışıklı değil yaa diyen kız
 bkz cüneyt özdemir çoook yakışıklıaaaaaaaaaa diyen kız
 bkz murat boz mu yakışıklı murat övüç mü sorunsalı
