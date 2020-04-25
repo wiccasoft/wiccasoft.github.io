@@ -5,6 +5,7 @@
 <!--
 bkz siyasal şintocular
 bkz 200 iq nun bi anda 100 e düşmesi
+https://www.uludagsozluk.com/k/siyahi-ibrahim-tatl%C4%B1ses/ bkz siyahi urfalı
 bkz beyin kanartan iq frenleyen ortamlar
 bkz iq arttıkça daha çok entry girilmesi
 bkz sevdiceğine tırşık yapan kız
