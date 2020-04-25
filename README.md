@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ekşcilerin cüneytle küsmesi
 bkz aşkım cüneyt özdemire entry girsene diyen kız
 bkz cüneyt özdemirdeyince akla gelenler ne diyen kız
 bkz cüneyt özdemir cücü mi diyen kız
