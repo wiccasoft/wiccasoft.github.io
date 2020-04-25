@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz atacücü yakışıklı mı idi sorunsalı
 bkz sarısülük soyadlı erkekler
 bkz ethem sarısülük oç kardeşleri
 bkz ikrar sarısülükün iğrenç bi erkek olması
