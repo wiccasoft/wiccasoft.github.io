@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz facebookta okey oynayan örtmenler
+https://www.uludagsozluk.com/k/oley-mal%C4%B1m-ama-%C3%B6%C4%9Fretmen-oldum/
 bkz murat övüçün oruçluyum sevişmeyelim demesi
 bkz daha önce oruç tutumamış erkekle sevişmek
 bkz kim jong un nun unlu mamuller yemesi
