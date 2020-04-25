@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--- 
-
+bkz kim jong un un selayı beklemesi
 bkz korean hack team in iftarver.com a saldırması
 bkz yılmaz güney in oruç oç türklerin uydurmasıdır demesi
 bkz oç laikçilerin oruç baba türbesine kemik bırakması
