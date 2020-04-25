@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ekşici deyince yaramaz oç larının akla gelmesi
 bkz beyni yok fikri var oçlarının
 bkz deyince akla gelenler
 bkz iğrençsiniz ibneler
