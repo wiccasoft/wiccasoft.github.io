@@ -8,6 +8,7 @@ bkz ekşici deyince akla yaramaz oçlarının gelmesi
 bkz bütün gün temizlik yapan üst komşunun gerizekalı ekşici oğlu
 https://www.uludagsozluk.com/k/ko%C5%9Fan-%C3%A7ocuk/&w=bg bkz min son
 https://www.uludagsozluk.com/k/batuhan-karadeniz/&w=bg bkz türk oğlu türk 
+https://www.uludagsozluk.com/k/gay-ili%C5%9Fkilerin-en-%C3%A7ok-ya%C5%9Fand%C4%B1%C4%9F%C4%B1-yerler/&w=bg bkz ekşisözlük
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/&w=gd bkz pusu kurma oç
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 egolu kaslı sağbek 
