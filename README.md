@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz yılmaz erdoğan deyince akla telsim lililili reklamı gelmesi
 bkz yılmaz özdil deyince akal sırıtan bi yuvarlak kafa gelmesi
 bkz yılmaz deyince akla yılmaz isimli erkekler gelmesi
 bkz yılmaz güney yılmaz morgül ifşası
