@@ -5,6 +5,7 @@
 <!--- 
 bkz şaka maka madafaka
 bkz serdar ortaç kim jong un benzerliği
+bkz gerçek türklerin çekik gözlü olduğu iddası sorunsalı
 bkz yılmaz erdoğan deyince akla telsim lililili reklamı gelmesi
 bkz yılmaz özdil deyince akal sırıtan bi yuvarlak kafa gelmesi
 bkz yılmaz deyince akla yılmaz isimli erkekler gelmesi
