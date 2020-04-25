@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kurtlar vadisi
 bkz 6 tabak tırşık yiyip oruçlu oçduğu hatırlamak
 bkz orç ların orucunu kabul etmem diyen allah
 bkz oruç baba türbesine sürten ümreciler
