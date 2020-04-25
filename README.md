@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz altay bayındırın  yedek klubesinde oturmama demesi
 bkz kolpaçino özgür vs ganyotçu ekrem
 bkz batuhan karadenizin bacak kasları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potukun sakatlığı
