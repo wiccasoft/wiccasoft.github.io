@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkeklerin şapşik olması
 bkz erkeklerin gittikçe layt erkeği olması
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz gerçek erkek
 bkz kaan boşnak ifşası 
