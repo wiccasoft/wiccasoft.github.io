@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz yılmaz deyince akla yılmaz isimli erkekler gelmesi
 bkz yılmaz güney yılmaz morgül ifşası
 bkz yılmaz güney kürt mü sorunsalı
 bkz erkek deyince beyne erkek imgesi gelmesi
