@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz cüneyt özdemir ekşici mi diyen kız
 bkz selahattin demirtaş hapisteyse nasıl enrtry giriyo diyen kız
 bkz kaan boşnak kim diyen kız
 bkz kaan boşnak saksosu ne diyen kız
