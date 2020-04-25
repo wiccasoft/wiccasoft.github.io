@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz oç türklerin niye beni takip etmesi sorunsalı
+bkz oç türklerin beni türk sanması
 bkz kim jong un u 3 kelimeyle anlat
 bkz kim jong unun cnn türkü dörte bölmesi
 bkz kurtlar vadisi kumpas ekşici limoncu team
