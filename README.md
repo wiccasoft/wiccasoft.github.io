@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/duran-emmi/&w=bg bkz seyfo dayıyla yiyişme sahnesi
 bkz kim jon un u 3 kelime ile anlat
 bkz kim jong unun chplilere oç demesi
 bkz kim jon deyince akla ne ilk gelenleri sözcüklere dök
