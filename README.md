@@ -4,6 +4,7 @@
 
 <!--- 
 bkz şaka maka madafaka
+bkz doblosunun arkasına oruçluyum yazan erkek
 bkz ilk buluşmada araba anahtarlığı saat takan oruçlu erkek
 bkz düz otbanda beyni 30 point gazlayıp 230 point kanartmak
 bkz beyin kanartan kaan tırşık paylaşımları
