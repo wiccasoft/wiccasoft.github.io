@@ -5,6 +5,7 @@
 <!--- 
 bkz şaka maka madafaka
 bkz şaka maka 10 tabak tırşık yiyip geğirmek
+bkz şaka maka oç ayağına 50 kilo daha almak
 bkz türklerin sürekli yemek yemesi
 bkz oç tutumayıp oçyim diye gezmek
 bkz sahurda sevişmelik erkek veritabanı
