@@ -5,7 +5,7 @@
 <!--- 
 bkz kim jong un un selayı beklemesi
 bkz korean hack team in iftarver.com a saldırması
-bkz yılmaz güney in oruç oç türklerin uydurmasıdır demesi
+bkz yılmaz güney iftarda yılan yerdi yalanı
 bkz oç laikçilerin oruç baba türbesine kemik bırakması
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz yavru köpeği siken cani kürt
