@@ -7,6 +7,7 @@ bkz iq düştükçe iştahın artması
 bkz sevgilisine tırşık yapan kız
 bkz patlak kızın yaptığı tırşığı zorla yemek
 bkz patlak kızın uaptığı altı tabak tırşığı yiyip sıçmak
+bkz altı tabak tırşık yiyip batlak kızların suratına osurumak
 https://www.uludagsozluk.com/k/patlak-olsam-bile-benimle-evlenmek-zorundas%C4%B1n/ bkz patlak lastik zırvaları
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-kek-tarifleri/ bkz tırşık yapan kız
 https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-k%C4%B1z/&w=bg bkz tırşıkçı kız
