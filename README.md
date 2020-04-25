@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ha tosunuma yi tosunum yi diyen kız
 bkz pastayı ham yapacaksın tosunum diyen kız
 bkz sevdiceğine bim pasta yapan kız
 bkz sevdiceğine altı tabak tırşık yediren kız
