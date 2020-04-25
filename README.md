@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz kim jong un vs imammoğlan
 bkz caner erkin ifşası
 bkz beyni yok fikri var oçlarının
 bkz cücü kanı taşımayıp atacücüyüm demek
