@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--- 
+bkz yılmaz güney in oruç oç türklerin uydurmasıdır demesi
 bkz oç laikçilerin oruç baba türbesine kemik bırakması
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz yavru köpeği siken cani kürt
