@@ -4,6 +4,7 @@
 
 <!-- 
 bkz la bize her yer ankara
+bkz fenebahce.org.tr ye girip alper potukun resmini fare ile okşamak
 https://www.uludagsozluk.com/k/ankara-b%C5%9Fb-nin-iftarver-com-sitesine-siber-sald%C4%B1r%C4%B1/
 https://www.uludagsozluk.com/k/gay-olmak-i%C3%A7in-sebepler/&w=bg bkz mansur yavaş
 bkz fatih tezcandan fatih terime işin yap uyarısı
