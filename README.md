@@ -2,36 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz küçük enişte deyince akla gelenler
-bkz adamın hammaddesi deyince akılda beliren ilk isim
-bkz kadir mısıroğlan deyince akla gelenler
-bkz adam gibi adam deyince akla gelen ilk adam
-bkz ahmet necdet sezer adam mıdır sorundalı
-bkz ahmet davut oğlan adam mıdır sorundalı
-bkz adamın adamantuyumla güçlendirilmiş hali deyince akla gelen ilk isim
-https://www.uludagsozluk.com/k/kim-yo-jong-u-kula%C4%9F%C4%B1ndan-tutup-sikip-atmak/
-bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
-https://www.uludagsozluk.com/k/tuncel-kurtiz/&w=bg bkz oğlancı
-bkz seyfo dayının tuncel kurtizi hoplatması
-bkz cüneyt özdemirin türkler internetin virsüleri değil demesi
-bkz tuncel kurtizin oğlancı olması
-bkz can ataklının ekreme oç demesi
-bkz beyni yok fikri var oçlarının
-bkz bu kadar beyinsiz oç nu kim sıçtı sorunsalı
-bkz oç ları deyin akla gelen ekşiciler
-bkz yarrak deyince akla gelenler
-bkz beyin kanartan kim yonh mong ifşası
-bkz maho erdal deyince akla gelenler
-bkz diyanet işleri başkanlığı ezan çalıştayı
-bkz kim jong un vs kim kardashan
-bkz duran emminin seyfo dayıyı duvardan duvara hoplatması
-bkz karılar nasıl hoplar bilirmisin kardeş
-bkz testere necminin laz ziyanıon karısını hoplatması
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz din tüccarı
-https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-vs-celal-%C5%9Feng%C3%B6r/ celal siker kankağ -->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
