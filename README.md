@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç
 bkz cüneyt özdemirin üç maymunu oynaması
 https://www.pinterest.com/wiccasoft/pins/ bkz çiftlik bankın akpye yanlaması
 https://www.uludagsozluk.com/k/inek-h%C4%B1rs%C4%B1z%C4%B1-ve-%C3%A7ocuk-tazizcisinden-medet-uman-akp/&w=bg
