@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz kim jong un un yeni balistik füze denemesi
 bkz ultra geylerin fenerbahçe.org.tr ye saldırması
 bkz kim jon g un deyince akla gelenler
 bkz kim jong un u 3 kelime ile anlat
