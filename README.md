@@ -4,6 +4,7 @@
 
 <!--
 bkz mustata ata cücü sünnetli mi idi sorunsalı
+bkz mustafa ata cücü yakışıklı mı idi sorunsalı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-m%C4%B1-idi-sorunsal%C4%B1/&w=bg
 bkz aşkım cüneyt özdemir yütüp kanalına dislayk atasan diyen kız
 bkz aşkım cüneyt özdemire küstün mü diyen kız
