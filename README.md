@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz hdpli kürt
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz din tüccarı
 https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-vs-celal-%C5%9Feng%C3%B6r/ celal siker kankağ -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
