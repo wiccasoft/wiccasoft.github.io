@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz adamın karekökü deyince akla gelen ilk isim
+bkz adamın adamantuyumla güçlendirilmiş hali deyince akla gelen ilk isim
 bkz adamın hammaddesi deyince akılda beliren ilk isim
 bkz kadir mısıroğlan deyince akla gelenler
 bkz adam gibi adam deyince akla gelen ilk adam
