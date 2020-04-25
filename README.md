@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://eksisozluk.com/soylemesi-zevkli-futbolcu-isimleri--4943232 bkz ricardo
 bkz söylemesi zevkli futbolcu erkek isimleri
 bkz ağızda kekremsi tad bırakan futbolcular
 bkz cüneyt özdemir deyince azğıda kalan kekremsi tad
