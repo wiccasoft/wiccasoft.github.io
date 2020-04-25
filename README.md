@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz maho erdal deyince akla gelenler
 bkz diyanet işleri başkanlığı ezan çalıştayı
 bkz kim jong un vs kim kardashan
 bkz duran emminin seyfo dayıyı duvardan duvara hoplatması
