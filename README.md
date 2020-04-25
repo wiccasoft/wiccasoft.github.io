@@ -2,6 +2,14 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!--
+bkz sagopa kajmer manuş baba düeti
+bkz 6 tırşık yiyip götdeliğine turşu sokan gay
+ https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç 
+https://www.uludagsozluk.com/k/etli-k%C4%B1%C5%9F-t%C3%BCrl%C3%BCs%C3%BC-vs-t%C4%B1r%C5%9F%C4%B1k/
+https://www.uludagsozluk.com/k/ceza-n%C4%B1n-sagopa-kajmer-le-d%C3%BCet-yapacak-olmas%C4%B1/
+https://www.uludagsozluk.com/k/6-tabak-t%C4%B1r%C5%9F%C4%B1ktan-sonra-oru%C3%A7lu-oldu%C4%9Funu-hat%C4%B1rlamak/-->
+
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
