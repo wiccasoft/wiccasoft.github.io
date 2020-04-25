@@ -3,23 +3,15 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz adam deyince akla gelen ilk isim
 bkz adamın hammaddesi deyince akılda beliren ilk isim
-bkz adam deyince akla gelenler
 bkz kadir mısıroğlan deyince akla gelenler
 bkz adam gibi adam deyince akla gelen ilk adam
-bkz ahmet davudi oğlan mı ahmet sezeroğlan mı sorundalı
-bkz tuncel kurtiz adam mıdır sorundalı
-bkz akplilerin oç olması
-bkz abdullah gül adam mıdır sorundalı
 bkz ahmet necdet sezer adam mıdır sorundalı
 bkz ahmet davut oğlan adam mıdır sorundalı
-https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-adam-m%C4%B1d%C4%B1r/&w=bg
-bkz kim yo jongu sikertip abin gelsin demek
 https://www.uludagsozluk.com/k/kim-yo-jong-u-kula%C4%9F%C4%B1ndan-tutup-sikip-atmak/
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
-bkz yılmaz güneyin yılmaz morgüle yürümesi
 https://www.uludagsozluk.com/k/tuncel-kurtiz/&w=bg bkz oğlancı
-bkz ahmet necdet sezerin sezgin tanrıkuluya oç demesi
 bkz seyfo dayının tuncel kurtizi hoplatması
 bkz cüneyt özdemirin türkler internetin virsüleri değil demesi
 bkz tuncel kurtizin oğlancı olması
