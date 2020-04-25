@@ -3,10 +3,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz kaan boşnak ifşası
-bkz memişleri kabarmamış kyk lı kız bulup evlenmek
-bkz kyk borcu ola patlak kızlar
-bkz kyk borcu olan patlak kızla evlenmek
 bkz yılmaz güney yılmaz morgülün amına yılan soktu yalanı
 bkz yılmaz güney yılmaz özdil yılmaz erdoğan üçlüsü
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/ 
