@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz testere necminin laz ziyayı orospusu yapması
+bkz testere necminin laz ziyanıon karısını hoplatması
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz din tüccarı
 https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-vs-celal-%C5%9Feng%C3%B6r/ celal siker kankağ -->
