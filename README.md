@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ido tatlısesin babam siyahi kürt demesi
 https://www.uludagsozluk.com/k/siyahi-ibrahim-tatl%C4%B1ses/ bkz siyahi kürtler
 bkz sahurda sana bi tencere tırşık yaparım diyen patlak kız
 bkz ben hiç oruç tutuma diyen erkek
