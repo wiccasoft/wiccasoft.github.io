@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz erkek deuyince akla gelen şapşik erkekler
 bkz erkeklerin şapşik olması
 bkz erkeklerin gittikçe kadınlaşması
 bkz vuruşmalık sert ekeklerin kalmaması sorunsalı
