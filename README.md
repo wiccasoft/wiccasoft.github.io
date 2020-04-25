@@ -4,6 +4,7 @@
 
 <!--
 bkz siyasal şintocular
+bkz 200 iq nun bi anda 100 e düşmesi
 bkz beyin kanartan iq frenleyen ortamlar
 bkz iq arttıkça daha çok entry girilmesi
 bkz sevdiceğine tırşık yapan kız
