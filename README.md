@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ekşicilerin twittercılara verdiği efso ayar
 https://www.uludagsozluk.com/k/25-nisan-2020-y%C4%B1lmaz-%C3%B6zdil-yaz%C4%B1s%C4%B1/&w=gd bkz yılmaz güney güzellemesi
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz kürtçü oç
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
