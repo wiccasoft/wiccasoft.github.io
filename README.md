@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz murat övüç ün ata cücünün pipisini öperim pipisini demesi
 bkz ata cücü nün pipisi de cücümüydü sorunsalı
 bkz mustata ata cücü sünnetli mi idi sorunsalı
 bkz mustafa ata cücü yakışıklı mı idi sorunsalı
