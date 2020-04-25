@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
 bkz murat övüçün selin ciğerciyle asker arakdaşıydım demesi
 bkz murat övüç ün ata cücünün pipisini öperim pipisini demesi
 bkz ata cücü nün pipisi de cücümüydü sorunsalı
