@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/6-tabak-t%C4%B1r%C5%9F%C4%B1ktan-sonra-oru%C3%A7lu-oldu%C4%9Funu-hat%C4%B1rlamak/
 https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
 https://www.uludagsozluk.com/k/c%C3%BCnyet-%C3%B6zdemir-in-chp-li-trollere-k%C4%B1zmas%C4%B1/
 https://www.pinterest.com/wiccasoft/pins/ bkz cüneyt özdemirin chpliler genetiği bozuk oçları demesi
