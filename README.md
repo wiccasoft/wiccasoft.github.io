@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz hoşlaşılan erkeğe entry girerken sabah olması
 bkz memikoğlana bi iftira da sen at
 bkz fatih tezcanının hayvani çekiciliği
 bkz 26 nisan 2020 fatih tezcanın tarih yazması
