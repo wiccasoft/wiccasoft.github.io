@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz çıkarmadan beş posta atarım tipli erkekler
 bkz kim jong unla bir gece vs mansur yavaşla iki gece
 bkz kim jong unu çok yakışıklı olduğu gerçeği
 bkz sörfayfor yunus varken nihat hatipoğlan izlemek
