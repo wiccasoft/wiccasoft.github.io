@@ -7,6 +7,7 @@ bkz x denince akla gelenler
 bkz hulk denince akla gelenler
 bkz haluk kırcı denince hulk gelmesi
 bkz seyfo dayı denince akla gelenler
+bkz memnuniyetsiz oç ları denince akla gelenler
 bkz aklında bir erkek tut şimdi yavaşça yere bırak heyecan yapma
 bkz bağkur denince akla kovalent bağlar gelmesi
 bkz sskya sıçan teyze denince akla gelenler
