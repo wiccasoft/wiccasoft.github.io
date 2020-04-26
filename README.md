@@ -11,6 +11,7 @@ bkz yılmaz isimli erkek karizması
 bkz yılmaz erdoğan yılmaz özdil yılmaz güney yılmaz morgül 
 bkz organize işler sean connery benzetmesi
 bkz nasreddin hocayı birine benzetmek ama çıkaramamak
+bkz esedin rusların ürettiği anti virüs olduğu gerçeği
 bkz kardeşim esede çay yok ne demek kardeşim esed dayı esed diyeceksin
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esad-ve-katil-esed-in-aras%C4%B1ndaki-fark/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kumpas büyük 
