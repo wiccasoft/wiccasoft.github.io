@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz tez antitez fatihtezcan
+bkz fatih tezcandaki hayvani çekicilik
 https://www.uludagsozluk.com/k/hz-muhammed/&w=gd bkz yüzü suyu hürmetine kurban olunası peygamberler
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
