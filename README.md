@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz vatanseverlik bir hainin son sığınağıdır
 bkz vatanseverlik korkakların en büyük sığınağıdır
 bkz tek sevdiği kitap inkılap tarihi olan liseli ülkücü kamalcı
 bkz şimdi bu tayfa kitapta okumaz dinle küçük adam falan okusalar kafi
