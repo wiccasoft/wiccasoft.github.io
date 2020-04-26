@@ -5,6 +5,7 @@
 <!--
 bkz doktorların onu yeme beni ye demesi
 bkz doktorların tezcanı yedirmeyiz demesi
+bkz doktorların kuzu tandır ye akarı kokarı olmaz demesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
 bkz abi isveçten türküyü hasta getiriliy abüü hiç ilgelenmün abüüüü diyen kamalcı
