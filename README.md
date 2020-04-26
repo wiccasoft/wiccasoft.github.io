@@ -2,6 +2,7 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 <!--
+bkz nerde o bi askeri için menemenli tırşık yapan askerler
 bkz nerde o eski celal şengörler ilber ortaylıgiller efenime söylim isimler vs...
 bkz nerde o winston churchiller ismet paşalar atacücüler peyami safalar efenime söylim abdullah güller
 bkz nerde o eski kara muratlar karacaoğlanlar atacücüler
