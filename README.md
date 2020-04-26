@@ -4,6 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
+bkz fedön denince akla gelenler sorundalı
 bkz tıp okumayanları ciddiye alamamak sorundalı
 bkz tez yazarken son dal sigara kalması sorundalı
 bkz kocaman denince akla ne gelmesi sorundalı
