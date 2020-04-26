@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz nerde o yüzü suyu hürmetine evren yaratılan erkekler nerde şimdikiler
 bkz alemlerin efendisi muhammed çok mu yakışıklı idi sorundalı
 bkz nerde o eski astığım astık erkekleri nerde şimdikiler
 bkz yavuz sultan selim çok mu yakışıklı idi sorunsalı
