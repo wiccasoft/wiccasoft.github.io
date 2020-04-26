@@ -5,7 +5,6 @@
 <!--
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
-bkz sabahtan beri sean connery e benzetilen erkeğin fahreddin çıkması
 bkz kızları etkilemek için devrimci pozlar vermek
 bkz yılamz güneyin duruşuma kızlar hasta duruşu
 bkz primci denince hemen onun adı gelir haluk haluk haluk
@@ -15,6 +14,7 @@ bkz ilker başbuğ denince akla gelenler
 bkz adam deyince akla gelenler
 bkz mesrsinli cihangir denince akla gelenler
 bkz çocuklar duymasın haluk adam mıdır sorunsalı
+bkz sabahtan beri sean connery e benzetilen erkeğin fahreddin çıkması
 bkz isveçte özel uçakla getirilen hastanın mersinli cihangir çıkması
 https://www.uludagsozluk.com/k/teletabiler-adam-m%C4%B1d%C4%B1r/&w=bg bkz hele yarrama bak hele
 bkz cüneyt özdemir denince apğızda oluşan kekremsi tad
