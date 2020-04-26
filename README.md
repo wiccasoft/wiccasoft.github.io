@@ -4,6 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
+bkz sskya sıçan teyze denince akla gelenler
 bkz fedön denince akla gelenler sorundalı
 bkz adenosin trifosfat denice akla gelenler sorundalı
 bkz boşnak saksosu denilince akla gelenler sorundalı
