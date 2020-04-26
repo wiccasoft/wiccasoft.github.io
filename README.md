@@ -4,6 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
+bkz aklında bir erkek tut şimdi yavaşça yere bırak heyecan yapma
 bkz bağkur denince akla kovalent bağlar gelmesi
 bkz sskya sıçan teyze denince akla gelenler
 bkz fedön denince akla gelenler sorundalı
