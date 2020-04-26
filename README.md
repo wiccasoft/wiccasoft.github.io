@@ -5,6 +5,7 @@
 <!--
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
+bkz donald trumpın oğlu vs tunç soyerin babası
 bkz adam mıdır denilen erkeğin devrimci çıkması sorundalı
 bkz kızları etkilemek için devrimci pozlar vermek
 bkz yılamz güneyin duruşuma kızlar hasta duruşu
