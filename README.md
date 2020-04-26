@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz hoomospaiens deyince akla gelenler sorundalı iddası hipotezi
+bkz homosapiens deyince akla gelenler sorundalı iddası hipotezi
 bkz kamalcı beyni ve şempanze beyni
 bkz yetişkin bi kamalcının evrilme süresi
 bkz kamalcıların olayları 100 yıl geriden takip etmesi
