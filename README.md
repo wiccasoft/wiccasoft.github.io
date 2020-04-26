@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz nerde o eski astığım astık erkekleri nerde şimdikiler
 bkz yavuz sultan selim çok mu yakışıklı idi sorunsalı
 https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz eski taş fırın erkeği
 bkz nerde o eski taş fırın erkekleri nerde zamen erkekleri
