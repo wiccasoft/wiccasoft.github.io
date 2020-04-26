@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz abi devletin bekası hiç mi skinde deil be abi diyen kamalcı
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen yalak
 bkz kim olduğumu öğrenince tamam abi aman abi götünü yiyim abi çeken ergen
 bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
