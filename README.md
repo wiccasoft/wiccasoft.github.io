@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kaan boşnak ifşası rar a virsü girmesi
 bkz polat alemdar vs zaza dayı
 bkz tengir budun vs mersinli cihangir
 bkz kaspersky varken esed kullanmak
