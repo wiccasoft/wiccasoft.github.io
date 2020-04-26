@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz cüneyt özdemir denince hemen onun adı gelir
 bkz şaka maka kaan boşnakın çocuğum yaşında olması
 bkz tıp fakültesine girdiğim yıl doğmuş lan çocuk
 bkz kaan boşnak 92 doğumluymuş lan piiiii
