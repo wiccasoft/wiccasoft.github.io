@@ -3,9 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz doktorların onu yeme beni ye demesi
-bkz doktorların tezcanı yedirmeyiz demesi
-bkz doktorların kuzu tandır ye akarı kokarı olmaz demesi
+bkz doktorları tezcanı yeme kuzu tandır ye demesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
 bkz abi isveçten türküyü hasta getiriliy abüü hiç ilgelenmün abüüüü diyen kamalcı
