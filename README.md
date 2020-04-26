@@ -8,11 +8,6 @@ bkz kim olduğumu öğrenince tamam abi aman abi götünü yiyim abi çeken erge
 bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
 bkz abi kaan boşnak ifşa geldi yepisyeni film vereyim mi abime diyen ergen
 bkz gece gece arayıp akla gelen sorunsalmıyım abi ben niye vuruyon abi diyen ergen
-bkz pazar günü arayıp kol saati takan doblolu erkek sen misin sorunsalı diyen ergen
-bkz pazar günü arayıp kaan boşnak ifşası attım maile aldın mı diyen ergen
-bkz pazar günü arayıp ya bld ya istiklal diyen ruh hastası
-bkz pazar günü tekrar arayıp hacıt sen bld bşk deil misin yahu diyen obsesif şizofren
-bkz pazar günü arayıp izmirin su sorunu naptın hacıt diyen paranoyak
 bkz yoksun sen aslında yalnızım ben kumsalda diyen piskopat
 bkz pazar günü arayıp adım garavel bul beni diyen sosyopat
 bkz yılmaz güneyin duruşunu seviyorum anlıyomusun ha anlıyo musun diyen sosyopat
