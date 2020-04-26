@@ -5,7 +5,7 @@
 <!--
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
-bkz sabahtan beri sean connery benzetilen erkeğin fahreddin çıkması
+bkz sabahtan beri sean connery e benzetilen erkeğin fahreddin çıkması
 bkz kızları etkilemek için devrimci pozlar vermek
 bkz yılamz güneyin duruşuma kızlar hasta duruşu
 bkz primci denince hemen onun adı gelir haluk haluk haluk
