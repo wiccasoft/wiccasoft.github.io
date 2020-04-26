@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz adım garavel bul beni diyen sosyopat
 bkz yılmaz güneyin duruşunu seviyorum anlıyomusun ha anlıyo musun diyen sosyopat
 bkz polat alemdar adam olsaydı kafa deil racon keserdi anlıyo musun ha anlıyo musun diyen sosyopat
 bkz laz ziyanın karıyı hoplattım diyen şizofren
