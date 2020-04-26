@@ -7,7 +7,8 @@ bkz polat alemdar vs zaza dayı
 bkz yılmaz güneyin haşin bakışları
 bkz yılmaz isimli erkek karizması
 bkz yılmaz özdil yılmaz güney yılmaz morgül yılmaz erdoğan
-bkz organize işler deki sean conery e cenzeyen yakışıklı
+bkz organize işler sean connery benzetmesi
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kumpas büyük 
 https://www.uludagsozluk.com/k/fahrettin-koca-y%C4%B1-birine-benzetmek-ama-%C3%A7%C4%B1karamamak/ bkz nasreddin hoca
 https://www.uludagsozluk.com/k/be%C5%9Far-esed-halk%C4%B1n%C4%B1-bombalayan-bir-haindir/&w=bg bkz ben de kırgınım ona
 https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg bkz nerde o eski erkekler
