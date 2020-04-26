@@ -6,6 +6,7 @@
 bkz erkekleri 3 kelime ile anlat
 bkz 3 kuruşluk erkeklere beş kuruşluk değer vermek
 bkz erkeklerin gittikçe güvenilmez olması
+bkz murat övüç erkekse murat boz ne
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
 https://www.uludagsozluk.com/k/erkeklerin-gittikçe-kadınlaşması/&w=bg bkz nerde o eski taş fırın erkekleri
