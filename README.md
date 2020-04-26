@@ -4,6 +4,7 @@
 
 <!--
 bkz haluk levent vs cüneyt özdemir
+bkz ahmet hakan denice akla cnn cücü gelmesi
 bkz cüneyt özdemir denince hemen onun adı gelir
 bkz şaka maka kaan boşnakın çocuğum yaşında olması
 bkz tıp fakültesine girdiğim yıl doğmuş lan çocuk
