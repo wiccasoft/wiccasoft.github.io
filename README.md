@@ -3,9 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz doktorların tezcanı yeme kuzu tandır ye akarı kokarı olmaz demesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
+bkz cnn türkün kuzu tandır ye akarı kokarı olmaz haberi
 bkz abi isveçten türküyü hasta getiriliy abüü hiç ilgelenmün abüüüü diyen kamalcı
 bkz abi devletin bekası sorundalı be abüü hiç mi skinde deil be abüü  diyen kamalcı
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen yalak
