@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz tek sevdiği kitap inkılap tarihhi olan liseli ülkücü kamalcı
+bkz tek sevdiği kitap inkılap tarihi olan liseli ülkücü kamalcı
 bkz şimdi bu tayfa kitapta okumaz dinle küçük adam falan okusalar kafi
 bkz neo osmanlıcılarla atacücücüler kadar aptal bi tayfa yok amk
 bkz atacücünün eski resimleri eee napim herif yatlarda saraylarda keyif çatmış yaşamış amk
