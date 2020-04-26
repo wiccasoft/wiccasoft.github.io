@@ -3,8 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz olm atacücü götünü sildirmezdi lan size
-bkz cengiz han yaşaydı kankağ olurduk yağğ diyen kamalcı
+bkz olm atacücü ıvır zıvır cengiz han yaşsaydı götünü sildirmezdi lan size
+bkz cengiz han yaşaydı kankağ olurduk yağğ diyen yavşak kamalcı
 bkz bütün gün göt siktirip göt yalayıp atacücünün askeriyim diyen yaratıklar
 bkz nerde oç şerefsiz ahlak bekçisi var vatansever terakkicidir
 bkz vatanseverlik bir hainin son sığınağıdır
