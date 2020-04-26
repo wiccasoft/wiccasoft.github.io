@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz muhammedin mekkedrki putları yarması
 bkz zuhammed ayı ikiye yardı yalanı
 bkz nerde o yüzü suyu hürmetine evren yaratılan erkekler nerde şimdikiler
 bkz alemlerin efendisi muhammed çok mu yakışıklı idi sorundalı
