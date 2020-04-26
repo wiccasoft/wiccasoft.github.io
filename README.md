@@ -10,7 +10,6 @@ bkz seyfo dayı denince akla gelenler
 bkz memnuniyetsiz oç ları denince akla gelenler
 bkz aklında bir erkek tut şimdi yavaşça yere bırak heyecan yapma
 bkz bağkur denince akla kovalent bağlar gelmesi
-bkz sskya sıçan teyze denince akla gelenler
 bkz fedön denince akla gelenler sorundalı
 bkz adenosin trifosfat denice akla gelenler sorundalı
 bkz boşnak saksosu denilince akla gelenler sorundalı
