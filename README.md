@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz komunizm anarşizm bir ideoloji atacücüzm nedir lan
+bkz komunizm anarşizm anlaşılır bir ideoloji atacücüzm nedir lan
 bkz bi de atacücü ney lan atacücüzm nedir
 bkz olm lincoln lenin marx atacücü churcill vs yaşasaydı götünü sildirmezdi lan size 
 bkz tarihe damga vurmuş kişilerle kankağ olurduk ya diyen düşük iq lu kamalcılar
