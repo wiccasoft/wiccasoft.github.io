@@ -4,8 +4,6 @@
 
 <!--
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
-bkz atacücünnü damarlarında asil kan dolaşmayan türk değildir lafı
-bkz recep tayyip erdoğanın türk doktorları en asil duyguların insanıdır lafı
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
 bkz abi isveçten türküyü hasta getiriliy abüü hiç ilgelenmün abüüüü diyen kamalcı
 bkz abi devletin bekası sorundalı be abüü hiç mi skinde deil be abüü  diyen kamalcı
