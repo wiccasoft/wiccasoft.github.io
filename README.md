@@ -6,6 +6,7 @@
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
 bkz koca denince akla gelenler
+bkz kocaman denince akla gelenler sorundalı
 bkz donal jr trump yakışıklı mı sorundalı akla gelmesi 
 bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
 bkz fahreddin kova dan koca olmayacağı gerçeği
