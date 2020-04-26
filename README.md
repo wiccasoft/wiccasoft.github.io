@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz web 5.0 ın sorundal yaratacağı gerçeği
+bkz web 5.0 ın sorundalları çözeceği gerçeği
 bkz sorundal demeyince akla sorundal çıkmaması
 bkz sorundallarına sokayım deyince akla gelen sorundallar
 bkz sean connery kuru göt hali denince akla gelenler sorundalı
