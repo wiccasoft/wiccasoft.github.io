@@ -6,6 +6,7 @@
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
 bkz koca denince akla gelenler
+bkz donal jr trump yakışıklı mı sorundalı akla gelmesi 
 bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
 bkz fahreddin kova dan koca olmayacağı gerçeği
 bkz donald trumpın oğlu vs tunç soyerin babası
