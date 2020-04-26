@@ -3,7 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz fahreddin deyince akla gelenler iddası manipulasyonu
+bkz polatın fedönün siyasi barnağı olması iddası
+bkz fahreddin deyince akla gelenler iddası manipulasyonu 
 bkz homosapiens deyince akla gelenler sorundalı iddası hipotezi
 bkz kamalcı beyni ve şempanze beyni
 bkz yetişkin bi kamalcının evrilme süresi
