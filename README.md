@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz yılmaz güneyin haşin bakışları
 https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg bkz nerde o eski erkekler
 bkz yılmaz güneyin devrimci duruşu vs yılmaz morgül
 bkz ulus devletlerin çöküşü 2023 loading
