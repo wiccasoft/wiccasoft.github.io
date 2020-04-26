@@ -6,23 +6,9 @@
 bkz sorundal demeyince akla sorundal çıkmaması
 bkz sorundallarına sokayım deyince akla gelen sorundallar
 bkz sean connery kuru göt hali denince akla gelenler sorundalı
-bkz polatın fedönün siyasi barnağı olması iddası
-bkz fahreddin deyince akla gelenler iddası manipulasyonu 
-bkz homosapiens deyince akla gelenler sorundalı iddası hipotezi
-bkz kamalcı beyni ve şempanze beyni
-bkz yetişkin bi kamalcının evrilme süresi
-bkz kamalcıların olayları 100 yıl geriden takip etmesi
-bkz kamalcıların 2023 de komunizme geçeceği gerçeği
-bkz devleti çöküyo diye zırlayan kamalcı
-bkz kamalcıların kulağına 2023 ulus devletlerin çöküşü deyip uzaklaşmak
 bkz boş zamanlarda aptalları manipule ve proveke etmek
 bkz nick altı temiz olmayıp ahlaktan bahsetmek
 bkz ekşici deyince akla gelenler sorunsalı iddası
-bkz x deyince akla gelenler başlık formatını ekşiden çalmak
-bkz kaan boşnak ifşası nın ekşcileri ifşaladığı gerçeği
-bkz tengir budunun ptesi için ekşide başlık araması
-bkz dhkp c li deyince akla gelenler
-bkz tengir budunun ekşicilerden başlık çalması
 bkz boş zamanlarda liselilere üçlü çektirmek
 bkz bir baba hindi eywallah fenere bindi eywallah fenerden indi eywallah
 bkz öl de baba ölelim eywallah sev de baba sevelim eywallah
