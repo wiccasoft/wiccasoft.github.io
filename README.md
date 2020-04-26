@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz bunlar hep kuranda yazıyo zaten
+https://www.uludagsozluk.com/k/kuranda-%C3%BCreme/ bkz eşeyli üreme
 bkz muhammedin oğlunun zeyidin oğluyla evlenmesi
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/
 bkz muhammedin mekkedrki putları yarması
