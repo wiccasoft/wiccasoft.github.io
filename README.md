@@ -6,7 +6,7 @@
 bkz boş zamanlarda liselilere üçlü çektirmek
 bkz bir baba hindi eywallah fenere bindi eywallah fenerden indi eywallah
 bkz öl de baba ölelim eywallah sev de baba sevelim eywallah
-bkz kaan boşnakın beni babası sanması
+bkz kaan boşnakın cücü özdemiri babası sanması
 bkz look im not your father deyine akla gelenler
 bkz haluk deyince akla gelenler
 bkz ctrl+x ctrl+v deyince akla gelenler
