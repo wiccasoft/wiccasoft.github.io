@@ -3,8 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz nick altı temiz olmayıp ahlaktan bahsetmek
 bkz ekşici deyince akla gelenler sorunsalı iddası
-bkz x deyince akla gelenler başlıklarını ekşiden çalmak
+bkz x deyince akla gelenler başlık formatını ekşiden çalmak
 bkz kaan boşnak ifşası nın ekşcileri ifşaladığı gerçeği
 bkz tengir budunun ptesi için ekşide başlık araması
 bkz dhkp c li deyince akla gelenler
