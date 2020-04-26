@@ -2,7 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
+<!-- 
+bkz nerde o eski astığım astık kestiğim kestik erkekler ayol
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
 https://www.uludagsozluk.com/k/erkeklerin-gittikçe-kadınlaşması/&w=bg bkz nerde o eski taş fırın erkekleri
 -->
 
