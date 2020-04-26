@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz fathi mısıroğlanına fatih tezcan sefirimdir demesi
 bkz fathi tezcanın kamalcıları iyi keklemesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
