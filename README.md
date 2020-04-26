@@ -4,7 +4,6 @@
 
 <!--
 bkz x denince akla gelenler
-bkz koca denince akla gelenler
 bkz kocaman denince akla gelenler sorundalı
 bkz donal jr trump yakışıklı mı denince akla gelmesi sorundalı hipotezi  
 bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
