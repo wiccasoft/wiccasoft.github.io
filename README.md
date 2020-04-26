@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ctrl+c ctrl+v deyince akla gelenler
 bkz ekşici abisi naparsa aynısını yapanlar deyince akla gelenler
 bkz x denince akla gelenler
 bkz hulk denince akla gelenler
