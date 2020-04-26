@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz çocuklar duymasın haluk deyince akla gelenler
+bkz haluk levent denince akla gelenler
 bkz tunç soyerin babası vs imamoğlanın babası denince akla gelenler
 https://www.uludagsozluk.com/k/tun%C3%A7-soyerin-babas%C4%B1/
 bkz cüneyt denince akla cüneyt özdemir gelmesi
