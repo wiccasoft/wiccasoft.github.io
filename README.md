@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz fathi tezcanın isveçten gelen anemi hastasına verdiği efso ayar
+bkz fathi şahinin isveçten gelen anemi hastasına verdiği efso ayar
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
 bkz showtv nin kuzu tandır yeyin akarı kokarı olmaz haberi
