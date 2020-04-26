@@ -4,6 +4,7 @@
 
 <!--
 bkz polat alemdar vs zaza dayı
+bkz tengir budun vs mersinli cihangir
 bkz sabahtan beri bakışılan erkeğin jpeg resim çıkması
 bkz yılmaz güneyin haşin bakışları vs polatın haşin bakışları
 bkz yılmaz isimli erkek karizması
