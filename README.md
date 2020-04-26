@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz bütün gün göt siktirip göt yalayıp atacücünün askeriyim diyen yaratıklar
 bkz nerde oç şerefsiz ahlak bekçisi var vatansever terakkicidir
 bkz vatanseverlik bir hainin son sığınağıdır
 bkz vatanseverlik korkakların en büyük sığınağıdır
