@@ -3,8 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz yılmaz güneyin haşin bakışları
 bkz polat alemdar vs zaza dayı
+bkz yılmaz güneyin haşin bakışları
+bkz yılmaz isimli erkek karizması
 https://www.uludagsozluk.com/k/ahmet-necdet-sezerin-ramazanda-su-i%C3%A7mesi/ bkz okuyan çıksın beyler
 https://www.uludagsozluk.com/k/fahrettin-koca-y%C4%B1-birine-benzetmek-ama-%C3%A7%C4%B1karamamak/ bkz nasreddin hoca
 https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/&w=bg
