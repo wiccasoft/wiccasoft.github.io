@@ -4,6 +4,7 @@
 
 <!--
 bkz ulus devletlerin çöküşü 2023 loading
+bkz globalism yeni başlıyor ağalayacaksanız oynamayalım kankağğğğ
 bkz endüstri devrimini çok yanlış anlamış ulus devletçi kuklalar
 bkz siyasi askeri tarihi kişiliklerle duygusal bağ kuran düşük iq lu tipler
 bkz olm atacücü ıvır zıvır cengiz han yaşasaydı götünü sildirmezdi lan size
