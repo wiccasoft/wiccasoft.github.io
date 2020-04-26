@@ -3,7 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz tenfgir budun doğanın yeni yazısında yine iktidara giydirmesi
+bkz hayat size  güzel amk çalışma gibi derdiniz yok oh entry gir bütün gün
+bkz tengir budun doğanın yeni yazısında yine iktidara giydirmesi
 bkz fathi mısıroğlanına fatih tezcan sefirimdir demesi
 bkz fathi tezcanın kamalcıları iyi keklemesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
