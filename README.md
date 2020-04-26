@@ -8,7 +8,7 @@ bkz hulk denince akla gelenler
 bkz haluk kırcı denince hulk gelmesi
 bkz seyfo dayı denince akla gelenler
 bkz memnuniyetsiz oç ları denince akla gelenler
-bkz aklında bir erkek tut şimdi yavaşça yere bırak heyecan yapma
+bkz aklında bir şey tut şimdi yavaşça yere bırak heyecan yapma
 bkz bağkur denince akla kovalent bağlar gelmesi
 bkz fedön denince akla gelenler sorundalı
 bkz adenosin trifosfat denice akla gelenler sorundalı
