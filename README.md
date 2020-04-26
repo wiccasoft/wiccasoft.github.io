@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz neo osmanlıcılarla atacücüler kadar aptal bi tayfa yok amk
+bkz neo osmanlıcılarla atacücücüler kadar aptal bi tayfa yok amk
 bkz atacücünün eski resimleri eee napim herif yatlarda saraylarda keyif çatmış yaşamış amk
 bkz komunizm anarşizm anlaşılır bir ideoloji atacücüzm nedir lan
 bkz bi de atacücü ney lan atacücüzm nedir
