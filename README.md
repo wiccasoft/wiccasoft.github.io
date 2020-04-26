@@ -2,6 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 <!--
+bkz adam deyince akla isim gelmemesi
+bkz nerde o adamın admantuyumla güçlendirilmiş adamları
 bkz nerde o eski koydu mu oturtan erkekler bi anda oldu layt erkekleri
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
