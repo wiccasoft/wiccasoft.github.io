@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz nerde oç ahlak bekçisi var vatansever terakkicidir
+bkz nerde oç şerefsiz ahlak bekçisi var vatansever terakkicidir
 bkz vatanseverlik bir hainin son sığınağıdır
 bkz vatanseverlik korkakların en büyük sığınağıdır
 bkz tek sevdiği kitap inkılap tarihi olan liseli ülkücü kamalcı
