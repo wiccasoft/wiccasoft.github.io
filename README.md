@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz boş zamanalarda liselilere üçlü çektirmek
 bkz bir baba hindi eywallah fenere bindi eywallah fenerden indi eywallah
 bkz öl de baba ölelim eywallah sev de baba sevelim eywallah
 bkz kaan boşnakın beni babası sanması
