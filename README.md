@@ -3,8 +3,10 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz yılmaz güneyin devrimci duruşu vs yılmaz morgül
 bkz ulus devletlerin çöküşü 2023 loading
 bkz kamalcıların küfr etmek dışındaki meziyetleri
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-in-devrimci-duru%C5%9Fu/
 bkz ai controlled globalism yeni başlıyor ağalayacaksanız oynamayalım kankağğğğ
 bkz endüstri devrimini çok yanlış anlamış ulus devletçi kuklalar
 bkz siyasi askeri tarihi kişiliklerle duygusal bağ kuran düşük iq lu tipler
