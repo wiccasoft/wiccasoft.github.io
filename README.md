@@ -3,7 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz yıılmaz özdilin giydirmeli yazısı
+bkz yılmaz özdilin giydirmeli yazısı
+bkz tek işi muhalefet etmek olan 2 iq lu organizmalar
 bkz twitter fathi tezcan sözlük arasında yaşayan orhganizmalar
 bkz hayat size  güzel amk çalışma gibi derdiniz yok oh entry gir bütün gün
 bkz tengir budun doğanın yeni yazısında yine iktidara giydirmesi
