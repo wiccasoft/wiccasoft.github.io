@@ -9,8 +9,7 @@ bkz yılmaz isimli erkek karizması
 bkz yılmaz özdil yılmaz güney yılmaz morgül yılmaz erdoğan
 bkz organize işler sean connery benzetmesi
 bkz nasreddin hocayı birine benzetmek ama çıkaramamak
-bkz şakire çay yok -ne demek şakir -adını mı degistirdin
-bkz kardeşim esed çay yok ne emek kardeşim esed
+bkz kardeşim esede çay yok ne emek kardeşim esed
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esad-ve-katil-esed-in-aras%C4%B1ndaki-fark/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kumpas büyük 
 https://www.uludagsozluk.com/k/fahrettin-koca-y%C4%B1-birine-benzetmek-ama-%C3%A7%C4%B1karamamak/ bkz nasreddin hoca
