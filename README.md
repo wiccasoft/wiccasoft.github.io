@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz nerde ben size ölmeyi emrediyorum diyen kumandalar nerde şimdikiler
 bkz nerde o eski alper tungalar battalgaziler
 bkz nerde o eski sörfayfır muratlar tanerler
 bkz nerde o bi askeri için menemenli tırşık yapan erkekler
