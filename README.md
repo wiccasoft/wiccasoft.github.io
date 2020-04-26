@@ -5,6 +5,7 @@
 <!--
 bkz x denince akla gelenler
 bkz fedön denince akla gelenler sorundalı
+bkz adenosin trifosfat denice akla gelenler sorundalı
 bkz boşnak saksosu denilince akla gelenler sorundalı
 bkz tıp okumayanları ciddiye alamamak sorundalı
 bkz tez yazarken son dal sigara kalması sorundalı
