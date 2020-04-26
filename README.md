@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz olm atacücü yaşasaydı götünü sildirmezdi lan size
 bkz deep webte atacücünün silah arakdaşı olduğunu idda eden tipler
 bkz nerde o atacücünün silah arkadaşları nerde şimdki genşlik
 bkz nerde o mao zeodonglar cengiz hanlar
