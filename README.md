@@ -6,6 +6,7 @@
 bkz nerde o mao zeodonglar cengiz hanlar
 bkz nerde o eski alper tungalar battalgaziler
 bkz nerde o eski sörfayfır muratlar tanerler
+bkz atacücü yaşasaydı götünü sildirmezdi bence size
 bkz nerde o bi askeri için menemenli tırşık yapan erkekler
 bkz nerde o eski celal şengörler ilber ortaylıgiller efenime söylim kim jon cular
 bkz nerde o winston churchiller ismet paşalar atacücüler peyami safalar efenime söylim abdullah güller
