@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sorundal demeyince akla sorundal çıkmaması
 bkz sorundallarına sokayım deyince akla gelen sorundallar
 bkz sean connery kuru göt hali denince akla gelenler sorundalı
 bkz polatın fedönün siyasi barnağı olması iddası
