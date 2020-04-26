@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz eski taş fırın erkeği
 bkz nerde o eski taş fırın erkekleri nerde zamen erkekleri
 bkz erkeklerin gittikçe aptallaşması
 bkz erkeklerin gitikçe kadınlaşması
