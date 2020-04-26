@@ -4,7 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
-bkz bağkur emeklisi denince akla gelenler
+bkz bağkur emeklisi denince akla kovalent bağlar gelmesi
 bkz sskya sıçan teyze denince akla gelenler
 bkz fedön denince akla gelenler sorundalı
 bkz adenosin trifosfat denice akla gelenler sorundalı
