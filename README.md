@@ -4,6 +4,7 @@
 
 <!--
 bkz kamalcı beyni ve şempanze beyni
+bkz yetişkin bi kamalcının evrilme süresi
 bkz kamalcıların olayları 100 yıl geriden takip etmesi
 bkz kamalcıların 2023 de komunizme geçeceği gerçeği
 bkz devleti çöküyo diye zırlayan kamalcı
