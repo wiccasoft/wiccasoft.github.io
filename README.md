@@ -4,6 +4,8 @@
 
 <!--
 bkz x denince akla gelenler
+bkz yılmaz güneyin devrimci duruşu
+bkz yılamz güneyin duruşuma kızlar hasta duruşu
 bkz primci denince hemen onun adı gelir haluk haluk haluk
 bkz organize işler sean connery benzetmesi 
 bkz nasreddin hoca denince akla gelenler
