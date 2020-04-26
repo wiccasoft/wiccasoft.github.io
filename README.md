@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 90 doğumlu erkeklerin seksiliği
 bkz kaan boşnak saksosu
 bkz yakışıklılar -> kaan boşbak klasörüm
 bkz kaan boşnak ifşası rar a virsü girmesi
