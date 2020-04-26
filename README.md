@@ -5,6 +5,7 @@
 <!--
 bkz yılmaz güneyin haşin bakışları
 bkz polat alemdar vs zaza dayı
+https://www.uludagsozluk.com/k/ahmet-necdet-sezerin-ramazanda-su-i%C3%A7mesi/ bkz okuyan çıksın beyler
 https://www.uludagsozluk.com/k/fahrettin-koca-y%C4%B1-birine-benzetmek-ama-%C3%A7%C4%B1karamamak/ bkz nasreddin hoca
 https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/&w=bg
 https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg bkz nerde o eski erkekler
