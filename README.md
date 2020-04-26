@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kamalcı beyni ve şempanze beyni
 bkz kamalcıların olayları 100 yıl geriden takip etmesi
 bkz kamalcıların 2023 de komunizme geçeceği gerçeği
 bkz devleti çöküyo diye zırlayan kamalcı
