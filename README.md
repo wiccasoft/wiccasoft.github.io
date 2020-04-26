@@ -4,7 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
-bkz denince hemen onun adı gelir eti eti eti
+bkz denince hemen onun adı gelir haluk haluk haluk
 bkz organize işler sean connery benzetmesi 
 bkz nasreddin hoca denince akla gelenler
 bkz ilker başbuğ denince akla gelenler
