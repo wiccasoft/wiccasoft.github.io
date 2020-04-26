@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz fatih tezcanın profiline girip faryle sakallarını okşamak
 bkz fatih isimli erkeklerdeki hayvani çekicilik
 bkz tez anti tez fatih tezcan
 bkz erkekleri 3 kelime ile anlat
