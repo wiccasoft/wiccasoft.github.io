@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz tıp fakültesinwe girdiğim yıl dopğmuş lan çocuk
 bkz kaan boşnak 92 doğumluymuş lan piiiii
 bkz 90 doğumlu erkeklerin seksiliği
 bkz kaan boşnak saksosu
