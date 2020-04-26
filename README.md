@@ -2,6 +2,29 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!--
+bkz nerde o mao zeodonglar cengiz hanlar
+bkz nerde o eski alper tungalar battalgaziler
+bkz nerde o eski sörfayfır muratlar tanerler
+bkz nerde o bi askeri için menemenli tırşık yapan erkekler
+bkz nerde o eski celal şengörler ilber ortaylıgiller efenime söylim kim jon cular
+bkz nerde o winston churchiller ismet paşalar atacücüler peyami safalar efenime söylim abdullah güller
+bkz nerde o eski kara muratlar karacaoğlanlar atacücüler
+bkz geceye bırakılan adamı orospuların yemesi
+bkz hoşlaşılan erkeği adam edip başke erkeklere kaptırmak
+bkz fatih tezcandaki hayvani çekicilik
+bkz muhammed efendimiz yakışıklımıydı sorundalı
+bkz adam deyince akla isim gelmemesi sorundalı
+bkz nerde o adamın adamantuyumla güçlendirilmiş adamları
+bkz oruç tutmayıp adamın diye ortada gezen zamane gençleri
+bkz nerde o eski koydu mu oturtan erkekler bi anda oldu layt erkekleri
+bkz nerde o eski fevkaledenin fevkinde erkekler nerde şimdiki layt erkekleri
+https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
+https://www.uludagsozluk.com/k/erkeklerin-gittikçe-kadınlaşması/&w=bg bkz nerde o eski taş fırın erkekleri
+-->
+
+
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
