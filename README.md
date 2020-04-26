@@ -6,7 +6,7 @@
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
 bkz koca denince akla gelenler
-bkz sagopa türkünün fifti sentidir iddası akla gelmesi
+bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
 bkz fahreddin kova dan koca olmayacağı gerçeği
 bkz donald trumpın oğlu vs tunç soyerin babası
 bkz adam mıdır denilen erkeğin devrimci çıkması sorundalı
