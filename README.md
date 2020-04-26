@@ -2,7 +2,7 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 <!--
-bkz adam deyince akla isim gelmemesi
+bkz adam deyince akla isim gelmemesi sorundalı
 bkz nerde o adamın admantuyumla güçlendirilmiş adamları
 bkz nerde o eski koydu mu oturtan erkekler bi anda oldu layt erkekleri
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
