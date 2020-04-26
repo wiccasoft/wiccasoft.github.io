@@ -4,6 +4,7 @@
 
 <!-- 
 bkz nerde o taş fırın erkekleri
+bkz bi anda oldu layt erkekleri
 bkz erkeklerin gittikçe kadınlaşması
 bkz çıkarmadan beş posta atarım tipli erkekler
 bkz kim jong unla bir gece vs mansur yavaşla iki gece
