@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz recep t e. nin bana kısaca rte diyin demesi
 bkz canan k. nın türküm doğruyum çalışkanım demek suçmu demesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
