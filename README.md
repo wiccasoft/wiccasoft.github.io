@@ -5,7 +5,7 @@
 <!--
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
-bkz adam mıdır denilen erkeğin devrimci çıkması
+bkz adam mıdır denilen erkeğin devrimci çıkması sorundalı
 bkz kızları etkilemek için devrimci pozlar vermek
 bkz yılamz güneyin duruşuma kızlar hasta duruşu
 bkz primci denince hemen onun adı gelir haluk haluk haluk
