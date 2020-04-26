@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz pazar günü arayıp pkk elebaşısını ver bana diyen ruh hastası
 bkz pazar günü tekrar arayıp hacıt sen bld bşk deil misin yahu diyen obsesif şizofren
 bkz pazar günü arayıp izmirin su sorunu naptın hacıt diyen paranoyak
 bkz yoksun sen aslında yalnızım ben kumsalda diyen piskopat
