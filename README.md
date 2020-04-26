@@ -8,7 +8,7 @@ bkz koca denince akla gelenler
 bkz kocaman denince akla gelenler sorundalı
 bkz donal jr trump yakışıklı mı denince akla gelmesi sorundalı hipotezi  
 bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
-bkz fahreddin kova dan koca olmayacağı gerçeği
+bkz fahreddin kova dan kova olmayacağı gerçeği
 bkz donald trumpın oğlu vs tunç soyerin babası
 bkz adam mıdır denilen erkeğin devrimci çıkması sorundalı
 bkz kızları etkilemek için devrimci pozlar vermek
