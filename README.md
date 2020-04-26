@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz x denince akla gelenler
 bkz organize işler sean connery benzetmesi 
 bkz nasreddin hoca denince akla gelenler
 bkz ilker başbuğ denince akla gelenler
