@@ -4,6 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
+bkz cücü öz demir türkünün jim carreyidir iddası sorundalı
 bkz kocaman denince akla gelenler sorundalı
 bkz donal jr trump yakışıklı mı denince akla ne gelmesi sorundalı hipotezi  
 bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
