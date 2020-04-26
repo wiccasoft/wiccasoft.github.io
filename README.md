@@ -3,10 +3,10 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz nerde o atımı getirin köpek soyları diyen eski kumandanlar
 bkz nerde o eski alper tungalar battalgaziler
 bkz nerde o eski sörfayfır muratlar tanerler
 bkz nerde o bi askeri için menemenli tırşık yapan erkekler
+bkz nerde o atımı getirin köpek soyları diyen eski kumandanlar
 bkz nerde o eski celal şengörler ilber ortaylıgiller efenime söylim kim jon cular
 bkz nerde o winston churchiller ismet paşalar atacücüler peyami safalar efenime söylim abdullah güller
 bkz nerde o eski kara muratlar karacaoğlanlar atacücüler
