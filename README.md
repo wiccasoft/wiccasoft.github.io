@@ -2,7 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--,
+<!--
+bkz cüneyt denince akla cüneyt özdemir gelmesi
 bkz haluk levent denince akla ankara gelmesi
 bkz haluk levent vs cüneyt özdemir
 bkz ahmet hakan denice akla cnn cücü gelmesi
