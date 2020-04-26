@@ -2,6 +2,7 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 <!--
+bkz fatih tezcandaki hayvani çekicilik
 bkz muhammed efendimiz yakışıklımıydı sorundalı
 bkz adam deyince akla isim gelmemesi sorundalı
 bkz nerde o adamın admantuyumla güçlendirilmiş adamları
