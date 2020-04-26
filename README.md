@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz endüstri devrimin çok yanlış anlamış kuklalar
+bkz endüstri devrimini çok yanlış anlamış kuklalar
 bkz siyasi askeri tarihi kişiliklerle duygusal bağ kuran düşük iq lu tipler
 bkz olm atacücü ıvır zıvır cengiz han yaşasaydı götünü sildirmezdi lan size
 bkz cengiz han yaşaydı kankağ olurduk yağğ diyen yavşak kamalcı
