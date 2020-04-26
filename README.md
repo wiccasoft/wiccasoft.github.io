@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz abi kaan boşnak ifşa var vereyim mi abime diyen ergen
+bkz abi kaan boşnak ifşa geldi yepisyeni film vereyim mi abime diyen ergen
 bkz gece gece arayıp akla gelen sorunsalmıyım abi ben niye vuruyon abi diyen ergen
 bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
 bkz pazar günü arayıp kol saati takan doblolu erkek sen misin sorunsalı diyen ergen
