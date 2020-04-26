@@ -2,41 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
-bkz nerde o taş fırın erkekleri
-bkz bi anda oldu layt erkekleri
-bkz erkeklerin gittikçe kadınlaşması
-bkz çıkarmadan beş posta atarım tipli erkekler
-bkz kim jong unla bir gece vs mansur yavaşla iki gece
-bkz kim jong unu çok yakışıklı olduğu gerçeği
-bkz sörfayfor yunus varken nihat hatipoğlan izlemek
-bkz bunlar hep kuranda yazıyo zaten
-bkz nihat hatipoğlanın oğlunun çok yakışıklı olması
-https://www.uludagsozluk.com/k/kuranda-%C3%BCreme/ bkz eşeyli üreme
-bkz muhammedin oğlunun zeyidin oğluyla evlenmesi
-https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/
-bkz muhammedin mekkedrki putları yarması
-bkz zuhammed ayı ikiye yardı yalanı
-bkz nerde o yüzü suyu hürmetine evren yaratılan erkekler nerde şimdikiler
-bkz alemlerin efendisi muhammed çok mu yakışıklı idi sorundalı
-bkz nerde o eski astığım astık erkekleri nerde şimdikiler
-bkz yavuz sultan selim çok mu yakışıklı idi sorunsalı
-https://www.uludagsozluk.com/k/yavuz-sultan-selim/&w=bg bkz eski taş fırın erkeği
-bkz nerde o eski taş fırın erkekleri nerde zamen erkekleri
-bkz erkeklerin gittikçe aptallaşması
-bkz erkeklerin gitikçe kadınlaşması
-bkz sörfayfor yunu emrenin çok yakışıklı olması sorunsalı
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
-bkz erkeklerin şapşikleşmesi
-bkz erkeklerin akla gelmesi
-bkz nerde o eski taş fırın erkekleri
-bkz nerde o eski afyonlu gay taş fırın ustaları
-bkz erkek milletine güven olunmaycağı gerçeği
-https://www.uludagsozluk.com/k/erkeklerin-gittik%C3%A7e-kad%C4%B1nla%C5%9Fmas%C4%B1/&w=bg
-bkz erkeklerin gittikçe kadınlaşması
-https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg adam top beyler
-https://www.uludagsozluk.com/k/peygamberin-kuzenlerini-nikahlamas%C4%B1/ -->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
