@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz ercüment ovalının 19 mayısı beklemesi
+bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz atacücünnü damarlarında asil kan dolaşmayan türk değildir lafı
 bkz recep tayyip erdoğanın türk doktorları en asil duyguların insanıdır lafı
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
