@@ -5,6 +5,7 @@
 <!--
 bkz x denince akla gelenler
 bkz yılmaz güneyin devrimci duruşu
+bkz kızları etkilemek için devrimci pozlar vermek
 bkz yılamz güneyin duruşuma kızlar hasta duruşu
 bkz primci denince hemen onun adı gelir haluk haluk haluk
 bkz organize işler sean connery benzetmesi 
