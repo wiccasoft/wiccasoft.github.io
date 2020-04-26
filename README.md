@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz geceye bıraktığım adamı yemişler diyen hasta
 bkz boşver sana adam mı yok diyen psikiyatrist
 bkz çocuklar duymasın haluk adam mıdır sorundalı
 bkz takma kafana geçer diyen pskiyatyrist
