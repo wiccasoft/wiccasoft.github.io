@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz nerde o eski saranoya yatları nerde şimdiki cücük gibi tekneler
 bkz nerde o hacıvatlar karagözler azizim
 bkz nerde o eski alper tungalar battalgaziler
 bkz nerde o eski sörfayfır muratlar tanerler
