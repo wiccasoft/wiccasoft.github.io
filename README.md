@@ -4,6 +4,7 @@
 
 <!--
 bkz polat alemdar vs zaza dayı
+bkz sabahtan beri bakışılan erkeğin resim çıkması
 bkz yılmaz güneyin haşin bakışları vs polatın haşin bakışları
 bkz yılmaz isimli erkek karizması
 bkz yılmaz erdoğan yılmaz özdil yılmaz güney yılmaz morgül 
