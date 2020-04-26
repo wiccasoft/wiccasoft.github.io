@@ -4,6 +4,7 @@
 
 <!-- 
 bkz bunlar hep kuranda yazıyo zaten
+bkz nihat hatipoğlanın oğlunun çok yakışıklı olması
 https://www.uludagsozluk.com/k/kuranda-%C3%BCreme/ bkz eşeyli üreme
 bkz muhammedin oğlunun zeyidin oğluyla evlenmesi
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/
