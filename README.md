@@ -4,9 +4,9 @@
 
 <!--
 bkz polat alemdar vs zaza dayı
-bkz yılmaz güneyin haşin bakışları
+bkz yılmaz güneyin haşin bakışları vs polatın haşin bakışları
 bkz yılmaz isimli erkek karizması
-bkz yılmaz özdil yılmaz güney yılmaz morgül yılmaz erdoğan
+bkz yılmaz erdoğan yılmaz özdil yılmaz güney yılmaz morgül 
 bkz organize işler sean connery benzetmesi
 bkz nasreddin hocayı birine benzetmek ama çıkaramamak
 bkz kardeşim esede çay yok ne demek kardeşim esed dayı esed diyeceksin
