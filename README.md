@@ -3,7 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz boş zamanlarda aptalları manipule etmek
+bkz kamalcıların kulağına 2023 ulus devletlerin çöküşü deyip uzaklaşmak
+bkz boş zamanlarda aptalları manipule ve proveke etmek
 bkz nick altı temiz olmayıp ahlaktan bahsetmek
 bkz ekşici deyince akla gelenler sorunsalı iddası
 bkz x deyince akla gelenler başlık formatını ekşiden çalmak
