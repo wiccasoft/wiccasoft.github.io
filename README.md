@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz cüneyt özdemir denince apğızda oluşan kekremsi tad
 bkz çocuklar duymasın haluk deyince akla gelenler
 bkz haluk levent denince akla gelenler
 bkz tunç soyerin babası vs imamoğlanın babası denince akla gelenler
