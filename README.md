@@ -2,25 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
-bkz hoşlaşılan erkeğe entry girerken akla başka erkeklerin gelmesi
-bkz hoşlaşılan erkeğe entry girerken sabah olması
-bkz memikoğlana bi iftira da sen at
-bkz fatih tezcanının hayvani çekiciliği
-bkz 26 nisan 2020 fatih tezcanın tarih yazması
-bkz hoşlaşılan erkeğin tweetlerin hatmetmek
-bkz fatih tezcanın profiline girip faryle sakallarını okşamak
-bkz fatih isimli erkeklerdeki hayvani çekicilik
-bkz tez anti tez fatih tezcan
-bkz erkekleri 3 kelime ile anlat
-bkz 3 kuruşluk erkeklere beş kuruşluk değer vermek
-bkz erkeklerin gittikçe güvenilmez olması
-bkz murat övüç erkekse murat boz ne
-https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
-https://www.uludagsozluk.com/k/erkeklerin-gittikçe-kadınlaşması/&w=bg bkz nerde o eski taş fırın erkekleri
--->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
