@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz fahreddinin çocukluk resimlerine bakarken duygulanmak
+bhz sean connerynin kuru göt hali denince akla gelenler sorundalı
 bkz polatın fedönün siyasi barnağı olması iddası
 bkz fahreddin deyince akla gelenler iddası manipulasyonu 
 bkz homosapiens deyince akla gelenler sorundalı iddası hipotezi
