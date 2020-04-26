@@ -6,7 +6,7 @@
 bkz sorundal demeyince akla sorundal çıkmaması
 bkz sorundallarına sokayım deyince akla gelen sorundallar
 bkz sean connery kuru göt hali denince akla gelenler sorundalı
-bkz boş zamanlarda aptalları manipule ve proveke etmek
+bkz boş zamanlarda aptalları manipule ve proveke edip zaman kazanmak
 bkz nick altı temiz olmayıp ahlaktan bahsetmek
 bkz ekşici deyince akla gelenler sorunsalı iddası
 bkz boş zamanlarda liselilere üçlü çektirmek
