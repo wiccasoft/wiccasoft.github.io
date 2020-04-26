@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz kim jong unu çok yakışıklı olduğu gerçeği
 bkz sörfayfor yunus varken nihat hatipoğlan izlemek
 bkz bunlar hep kuranda yazıyo zaten
 bkz nihat hatipoğlanın oğlunun çok yakışıklı olması
