@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz muhammedin oğlunun zeyidin oğluyla evlenmesi
+https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/
 bkz muhammedin mekkedrki putları yarması
 bkz zuhammed ayı ikiye yardı yalanı
 bkz nerde o yüzü suyu hürmetine evren yaratılan erkekler nerde şimdikiler
