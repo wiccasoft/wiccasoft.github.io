@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz tengir budunun ptesi için ekşide başlık araması
 bkz dhkp c li deyince akla gelenler
 bkz tengir budunun ekşicilerden başlık çalması
 bkz boş zamanlarda liselilere üçlü çektirmek
