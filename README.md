@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ilker başbuğ denince akla gelenler
 bkz adam deyince akla gelenler
 bkz mesrsinli cihangir denince akla gelenler
 bkz isveçte özel uçakla getirilen hastanın mersinli cihangir çıkması
