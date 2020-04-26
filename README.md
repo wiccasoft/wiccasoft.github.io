@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz zaten beş para etmez adamdı boşver diyen pskiyatrist
 bkz takma kafana geçer diyen pskiyatyrist
 bkz yılmaz özdil mi yılmaz güney mi sorundalı
 bkz web 5.0 ın sorundalları çözeceği gerçeği
