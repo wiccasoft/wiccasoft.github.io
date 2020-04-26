@@ -2,6 +2,7 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 <!--
+bkz nerde o eski kara muratlar yıldırım beyazıdlar
 bkz geceye bırakılan adamı orospuların yemesi
 bkz hoşlaşılan erkeği adam edip başke erkeklere kaptırmak
 bkz fatih tezcandaki hayvani çekicilik
