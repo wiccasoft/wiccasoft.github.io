@@ -4,6 +4,7 @@
 
 <!--
 bkz olm atacücü götünü sildirmezdi lan size
+bkz cengiz han yaşsaydı kankağ olurduk yağğ diyen kamalcı
 bkz bütün gün göt siktirip göt yalayıp atacücünün askeriyim diyen yaratıklar
 bkz nerde oç şerefsiz ahlak bekçisi var vatansever terakkicidir
 bkz vatanseverlik bir hainin son sığınağıdır
