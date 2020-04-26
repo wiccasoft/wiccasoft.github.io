@@ -4,6 +4,7 @@
 
 <!--
 bkz x denince akla gelenler
+bkz tez yazarken son dal sigara kalması sorundalı
 bkz kocaman denince akla ne gelmesi sorundalı
 bkz cücü öz iron türkünün jim carreyidir iddası sorundalı
 bkz donal jr trump yakışıklı mı denince akla ne gelmesi sorundalı hipotezi  
