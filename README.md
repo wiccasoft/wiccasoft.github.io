@@ -4,6 +4,7 @@
 <!--
 bkz adam deyince akla isim gelmemesi sorundalı
 bkz nerde o adamın admantuyumla güçlendirilmiş adamları
+bkz oruç tutmayıp adamın diye ortada gezen zamane gençleri
 bkz nerde o eski koydu mu oturtan erkekler bi anda oldu layt erkekleri
 https://www.uludagsozluk.com/k/peygamberin-o%C4%9Flunun-e%C5%9Fiyle-evlenmesi/ bkz erkek milleti
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz nerde o eski karamuratlar
