@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz bir baba hindi eywallah fenere bindi eywallah fenerden indi eywallah
+bkz öl de baba ölelim eywallah sev de baba sevelim eywallah
 bkz kaan boşnakın beni babası sanması
 bkz look im not your father deyine akla gelenler
 bkz haluk deyince akla gelenler
