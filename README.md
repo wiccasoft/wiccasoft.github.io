@@ -5,6 +5,7 @@
 <!--
 bkz x denince akla gelenler
 bkz fedön denince akla gelenler sorundalı
+bkz boşnak saksosu denilince akla gelenler sorundalı
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en
 bkz tıp okumayanları ciddiye alamamak sorundalı
 bkz tez yazarken son dal sigara kalması sorundalı
