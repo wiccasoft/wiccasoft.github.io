@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz ha look im not your father deyine akla gelenler
+bkz look im not your father deyine akla gelenler
 bkz haluk deyince akla gelenler
 bkz ctrl+x ctrl+v deyince akla gelenler
 bkz x denince akla gelenler
