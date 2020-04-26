@@ -3,14 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz yılmaz özdilin giydirmeli yazısı
-bkz isveçten türkü getirlen hasta
-bkz hayattaki tek işi muhalefet etmek olan 2 iq lu organizmalar
-bkz twitter fathi tezcan sözlük arasında yaşayan orhganizmalar
-bkz hayat size  güzel amk çalışma gibi derdiniz yok oh entry gir bütün gün
-bkz tengir budun doğanın yeni yazısında yine iktidara giydirmesi
-bkz fathi mısıroğlanına fatih tezcan sefirimdir demesi
-bkz fathi tezcanın kamalcıları iyi keklemesi
+bkz isveç türkü özel getirilen anemi hastası
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
 bkz showtv nin kuzu tandır yeyin akarı kokarı olmaz haberi
