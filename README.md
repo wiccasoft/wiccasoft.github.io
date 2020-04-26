@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz mısıroğlanların tahtına oturmak fatihlerin işidir yeğenim demesi
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz cnn türkün beni türk doktorlarına emanet ediniz haberi
 bkz showtv nin kuzu tandır yeyin akarı kokarı olmaz haberi
