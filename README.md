@@ -4,8 +4,8 @@
 
 <!--
 bkz x denince akla gelenler
+bkz kocaman denince akla ne gelmesi sorundalı
 bkz cücü öz iron türkünün jim carreyidir iddası sorundalı
-bkz kocaman denince akla gelenler sorundalı
 bkz donal jr trump yakışıklı mı denince akla ne gelmesi sorundalı hipotezi  
 bkz sagopa türkünün fifti sentidir iddası akla gelmesi sorundalı
 bkz fahreddin kova dan kova olmayacağı gerçeği
