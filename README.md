@@ -8,6 +8,7 @@ bkz yılmaz güneyin haşin bakışları
 bkz yılmaz isimli erkek karizması
 bkz yılmaz özdil yılmaz güney yılmaz morgül yılmaz erdoğan
 bkz organize işler sean connery benzetmesi
+bkz nasreddin hocayı birine benzetmek ama çıkaramamak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-kurulan-limon-kumpas%C4%B1/ bkz kumpas büyük 
 https://www.uludagsozluk.com/k/fahrettin-koca-y%C4%B1-birine-benzetmek-ama-%C3%A7%C4%B1karamamak/ bkz nasreddin hoca
 https://www.uludagsozluk.com/k/be%C5%9Far-esed-halk%C4%B1n%C4%B1-bombalayan-bir-haindir/&w=bg bkz ben de kırgınım ona
