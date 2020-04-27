@@ -23,6 +23,7 @@
 [![Image](skynet/Screenshot_2020-01-15_10-25-00.png)]( https://www.dunya.com/gundem/wikipediaya-erisimin-engellenmesi-karari-kaldirildi-haberi-460599 )
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=5D3crqpClPY )
+
 [![Image](skynet/Screenshot_2020-01-12_19-51-59.png)]( https://www.theguardian.com/technology/2020/jan/12/huawei-technology-poses-no-threat-to-uk-security-ex-mi5-head )
 
 
@@ -252,10 +253,6 @@ https://astronomy.stackexchange.com/questions/31877/how-to-calculate-solar-coord
 [![Image](skynet/Screenshot_2019-12-18_14-43-41.png)]( https://www.youtube.com/watch?v=db5f-A-vSyw )
 
 [![Image](skynet/Screenshot_2019-12-18_04-33-51.png)]( https://www.youtube.com/watch?v=db5f-A-vSyw )
-<!-- https://www.youtube.com/watch?v=BdzZvhNc5a8&list=RDzIFm8TYDzFE&index=12 -->
-<!-- https://www.youtube.com/watch?v=ZqDQTb4rQ4g -->
-<!-- https://www.youtube.com/watch?v=L4DxP0irRy8 since 1907-->
-
 
 [![Image](skynet/Screenshot_2019-12-17_17-10-45.png)]( https://www.youtube.com/watch?v=F7_LTvwGLv0 )
 
@@ -496,8 +493,6 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=00fMhETHQME )
 
 [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=8cW8kAFbnik )
-<!-- https://www.youtube.com/watch?v=MuWwCUXGzWE otto -->
-<!-- https://www.youtube.com/watch?v=eUWy54la_6g -->
 
  [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- https://www.youtube.com/watch?v=ZQqRiqjBQeo -->
