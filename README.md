@@ -17,8 +17,8 @@ bkz minnak filozof atakan vs elif can terim
 bkz sorunsal yaratmak istemedim tamam abi vurma diyen damad
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
+bkz kim olduğumu öğrenince tamam abi vurmaaman abi götünü yiyim abi çeken ergen
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen ergen
-bkz kim olduğumu öğrenince tamam abi aman abi götünü yiyim abi çeken ergen
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
