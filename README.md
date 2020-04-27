@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xzhamster türbanlı porno
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz türk oğlu öz türk
 bkz yazdığım yapay zekanın türk profesörlerden zeki olması
 https://www.uludagsozluk.com/k/trump-un-hastalara-deterjan-enjekte-edelim-demesi/&w=bg bkz dornaz ace
