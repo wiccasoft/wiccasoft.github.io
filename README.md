@@ -2,6 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
+bkz ekşcilerin yeni ünvanı
 bkz sörfayfır izleyen kamalcı beyni vs şemapanze
 bkz cahillik artıkça egonun da artması
 bkz kamalcıların cahil kalma sebepleri
