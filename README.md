@@ -3,6 +3,7 @@
 <!--
 bkz atacücücülük oynamak
 bkz sörfaycılara ünvan önerileri
+bkz macun kaplıcalı diye isim mi olur amk
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg sörfayfırcı
 bkz sörfayfır yasin vs sörfayfır ercü
 bkz kadir popcornun un donun indirp kaçmak
