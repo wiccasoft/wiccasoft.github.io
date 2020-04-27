@@ -1,22 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
-o değil de twitter da bayan muslera diye bi hesap vardı yaşıyo mu o mal
-https://www.uludagsozluk.com/k/%C3%B6nemli-bir-insan-olamamak/&w=bg bkz çok büyük adam çok
-https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz çok büyük adam çok
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz çok büyük adam çok
-https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ öztürksen bozulmaz 
-https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xhamster türbanlı porno
-https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özütürk
-bkz yazdığım yapay zekanın türk profesörlerden zeki olması
-https://www.uludagsozluk.com/k/trump-un-hastalara-deterjan-enjekte-edelim-demesi/&w=bg bkz dornaz ace
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz dornaz alfa
-bkz isveçten özel uçakla türkiyeye getirilen dornaz alfa
-bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
-bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
-bkz twitter linki veren ergenleri ciddiye alamamak
--->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
