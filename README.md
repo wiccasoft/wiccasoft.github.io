@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
+<!--
+bkz erment ovalının dornaz alfatyı türk gençliğine armağan etmesi
+bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
 bkz isveçten özel uçakla türküyüyü getirlen hasta
 bkz atacücücülük oynamak
 bkz twitter linki veren ergenleri ciddiye alamamak
