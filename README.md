@@ -4,7 +4,8 @@
 bkz murat övüçün top olduğu iddaları
 bkz sörfayfor 2046 yunuscan vs sörfayfor 2020 berkecan
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
-bkz karadenizlilerin genetikleri bozuk oçları olması
+bkz adanalıların genetikleri bozuk oçları olması
+bkz adanalıların trabzon ezikliği
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs nonoş
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz en üstün adana bence
 bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyene satarım kankağ
