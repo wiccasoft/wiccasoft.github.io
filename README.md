@@ -3,6 +3,7 @@
 <!--
 bkz sörfayfor 2021 berke
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
+https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs cücük
 https://www.uludagsozluk.com/k/ibneleriyle-me%C5%9Fhur-ilimiz/&w=bg bkz batman
 https://www.uludagsozluk.com/k/erkek-oldu%C4%9Fumu-%C3%B6%C4%9Frenince-numaram%C4%B1-silen-ki%C5%9Fi/ lol
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
