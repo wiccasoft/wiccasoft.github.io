@@ -5,6 +5,7 @@
 <!--
 bkz tez antitez fatih tezcan
 bkz siklenmeyen yütüpür cüneytin dramı
+nkz minnak yütupır cüneytin sergey brine sen kimsin demesi
 bkz yütupır cüneytin ego sorunsalı olması
 bkz minnak filozof atakan vs elif can terim
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
