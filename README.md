@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 27 nisan 2020 seferioğlulları tellioğulları atacücü kavgası gerginliği
 bkz celal şengör tosun paşa enver paşayı kıskandı iddası
 bkz ismet inöcü nün atacücüyü kıskandığı iddası sorundalı
 bkz tez antitez sentezcan
