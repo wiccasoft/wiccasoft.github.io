@@ -3,17 +3,17 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz minnak aktroll maaşları
 bkz tez antitez fatih tezcan
+bkz minnak aktroll maaşları
 bkz minnak yutüpır cüneytin güldürmesi
 bkz minnak filozof atakan vs elif can terim
+bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz minnak yütupır cüneytin sergey brine adımı kulanma karşıma çık demesi
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 bkz yütüpır cüneytin jeff bezosa üstü kapalı benim adımı kullanmışsın çık karşıma demesi
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen ergen
 bkz kim olduğumu öğrenince tamam abi aman abi götünü yiyim abi çeken ergen
-bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
