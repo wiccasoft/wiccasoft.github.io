@@ -3,8 +3,9 @@
 <!--
 bkz atacücücülük oynamak
 bkz ekşcilerin yeni ünvanı
+bkz ekşcilerin beni bekçi diye hor görmesi
 bkz ekşcilerin ünvanımla döverim seni demesi
-bkz sörfayfır izleyen kamalcı beyni vs şemapanze
+bkz sörfayfır izleyen kamalcı beyni vs şempanze
 bkz cahillik artıkça egonun da artması
 bkz kamalcıların cahil kalma sebepleri
 bkz sörfayfır yasin vs sörfayfır ercü
