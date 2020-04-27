@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
 bkz murat övüçün ismail türüt kocam açıklaması
 https://www.uludagsozluk.com/k/ismail-t%C3%BCr%C3%BCt/&w=bg bkz murat övüçün kocası
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ bkz fahreddin koca
