@@ -4,7 +4,7 @@
 
 <!--
 bkz 29 nisan 2020 ftezcan geri vitesi
-bkz 28 nisan 2020 atacücü süpermen ise pelerini nerde demesi
+bkz 28 nisan 2020 ftezcan atacücü süpermen ise pelerini nerde tezi
 bkz 28 nisan 2020 ftezcan kürtlerin kanında asil hemoglobin olmaz iddası
 bkz 27 nisan 2020 seferioğlulları tellioğulları gerginliği
 bkz celal şengör tosun paşa öz hakiki enver paşaydı iddası
