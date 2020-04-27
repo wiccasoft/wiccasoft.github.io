@@ -5,6 +5,7 @@
 <!--
 bkz erkek adamın erkek sevgilisi olur
 bkz etilerde yumuşaklar tarabyada yavşaklar
+https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs  adamın karekökü
 https://www.uludagsozluk.com/k/naz-mila-n%C4%B1n-canl%C4%B1-yay%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-hareket/&w=bg
 https://www.uludagsozluk.com/k/survivor-aycan-%C4%B1n-aldat%C4%B1ld%C4%B1%C4%9F%C4%B1n%C4%B1-%C3%B6%C4%9Frenmesi/
 https://www.uludagsozluk.com/k/survivor-daki-a%C5%9Fk%C4%B1m/ bkz adam gibi adam
