@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz ismet inöcü nün atacücüyü kıskandığı gerçeği iddası sorundalı
+bkz ismet inöcü nün atacücüyü kıskandığı iddası sorundalı
 bkz tez antitez sentezcan
 bkz minnak aktroll maaşları
 bkz minnak yutüpır cüneytin güldürmesi
