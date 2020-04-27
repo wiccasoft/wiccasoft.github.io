@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 27 nisan 2020 atacücü şişik bi balondur açıklaması
 bkz tez antitez sentezcan
 bkz minnak aktroll maaşları
 bkz minnak yutüpır cüneytin güldürmesi
