@@ -11,6 +11,7 @@ bkz trabzondan adam çıkmama sebepleri
 bkz trabzonluların o.ç olma sebepleri
 bkz trabzondan adam çıkmaması çomar çıkması
 bkz trabzonluların kanı bozuk oç olmaları
+bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyen satarım kankağ
 https://www.uludagsozluk.com/k/ordu-dan-adam-%C3%A7%C4%B1kmaz/&w=bg bkz oç ordulular
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-kendi-memleketini-%C3%B6v%C3%BCp-durmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/rize-den-adam-%C3%A7%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/ bkz denize paralel olması
