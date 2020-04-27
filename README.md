@@ -8,6 +8,7 @@ bkz rizeden adam çıkmama rsebepleri
 bkz trabzonun çomar olma sebepi
 bkz chromium61 im çomar olması
 bkz trabzondan adam çıkmama sebepleri
+bkz trabzonluların o.ç olma sebepleri
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-kendi-memleketini-%C3%B6v%C3%BCp-durmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/rize-den-adam-%C3%A7%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/ bkz denize paralel olması
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg bkz yav he he
