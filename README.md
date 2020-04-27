@@ -3,8 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz murat övüçün kocası olduğunu idda eden bekçici
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/
+https://www.uludagsozluk.com/k/kim-kardashian-maketini-arabayla-ezen-tiktok%C3%A7u/ lol
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lol
 bkz 29 nisan 2020 ftezcan geri vitesi
 bkz 28 nisan 2020 ftezcan atacücü süpermen ise pelerini nerde tezi
 bkz 28 nisan 2020 ftezcan kürtlerin kanında asil hemoglobin olmaz iddası
