@@ -3,7 +3,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz erkek adamın erkek sevgilisi olur
 bkz etilerde yumuşaklar tarabyada yavşaklar
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs  adamın karekökü
 https://www.uludagsozluk.com/k/naz-mila-n%C4%B1n-canl%C4%B1-yay%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-hareket/&w=bg
