@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/
 bkz murat övüçün kocası olduğunu idda eden bekçi
 bkz ekşicilere küfr eden ftezcancı bekçi
 bkz ftezcan ı yedirmem diyen bekçi
