@@ -20,6 +20,7 @@ https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lo
 https://www.uludagsozluk.com/k/gir-kan%C4%B1ma-klibindeki-dans/ bkz annennizi sikeyim ibneler dansı
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs top
 https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz top 
+bkz gökten am yağsa bana ibneler düşer amk
 -->
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
