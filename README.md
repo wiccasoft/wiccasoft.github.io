@@ -3,6 +3,7 @@
 <!--
 bkz trabzon pontus rumdur rum kalacaktır
 bkz at hırsızı tipli adanalıların trabzon ezikliği
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz malum ırk
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz bekleyen
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs atarlı totoşlar
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz hoşt lan köpek
