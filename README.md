@@ -8,6 +8,7 @@ bkz siklenmeyen yütüpür cüneytin dramı
 bkz minnak filozof atakan vs elif can terim
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
+bkz yütüpır cümneytin jeff bezosa üstü kapalı benim adımı kullanmışsın çık karşıma demesi
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
