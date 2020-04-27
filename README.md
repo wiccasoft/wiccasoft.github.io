@@ -1,7 +1,12 @@
 [![Image](prototype/Screenshot_2020-04-27_07-36-47.png)]( https://www.youtube.com/watch?v=d9MLiJbHqwg )
 
 <!-- 
-https://www.uludagsozluk.com/k/gir-kan%C4%B1ma-klibindeki-dans/ bkz annennizi sikeyim ibneler
+bkz etilerde yumuşaklar tarabyada yavşaklar
+https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
+https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
+https://www.uludagsozluk.com/k/kim-kardashian-maketini-arabayla-ezen-tiktok%C3%A7u/ lol
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lol
+https://www.uludagsozluk.com/k/gir-kan%C4%B1ma-klibindeki-dans/ bkz annennizi sikeyim ibneler dansı
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs top
 https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz top -->
 
