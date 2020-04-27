@@ -7,7 +7,7 @@ bkz tez antitez sentezcan
 bkz minnak aktroll maaşları
 bkz minnak yutüpır cüneytin güldürmesi
 bkz minnak filozof atakan vs elif can terim
-bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
+bkz sorunsal yaratmak istemedim tamam abi vurma diyen damad
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen ergen
