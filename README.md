@@ -4,6 +4,7 @@
 
 <!--
 bkz etilerde yumuşaklar tarabyada yavşaklar
+https://www.uludagsozluk.com/k/rus-i%C5%9Fgalinde-rizelilerin-sergiledi%C4%9Fi-kahramanl%C4%B1k/&w=bg
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz c vitamini
 https://www.uludagsozluk.com/k/ismail-t%C3%BCr%C3%BCt/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/e%C5%9Fcinsellik-ahlaks%C4%B1zl%C4%B1kt%C4%B1r/&w=bg 
