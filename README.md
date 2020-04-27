@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz 28 nisan 2020 yözdil türklerin kanında hemoglobin olmaz iddası
+bkz 28 nisan 2020 yözdil kürtlerin lerin kanında asil hemoglobin olmaz iddası
 bkz 27 nisan 2020 seferioğlulları tellioğulları gerginliği
 bkz celal şengör tosun paşa öz hakiki enver paşaydı iddası
 bkz ismet inöcü atacücü gölgesinde kaldı iddası sorundalı
