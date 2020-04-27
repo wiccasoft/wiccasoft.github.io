@@ -10,7 +10,6 @@ bkz minnak filozof atakan vs elif can terim
 bkz sorunsal yaratmak istemedim tamam abi vurma diyen ergen
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
-bkz yütüpır cüneytin jeff bezosa üstü kapalı benim adımı kullanmışsın çık karşıma demesi
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen ergen
 bkz kim olduğumu öğrenince tamam abi aman abi götünü yiyim abi çeken ergen
 -->
