@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz 29 nisan 2020 ftezcan geri vitesi
 bkz 28 nisan 2020 ftezcan kürtlerin kanında asil hemoglobin olmaz iddası
 bkz 27 nisan 2020 seferioğlulları tellioğulları gerginliği
 bkz celal şengör tosun paşa öz hakiki enver paşaydı iddası
