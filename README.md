@@ -3,9 +3,9 @@
 <!--
 bkz adanalıların trabzon ezikliği
 bkz adanalıların genetikleri bozuk oçları olması
+bkz adam gibi adam çıkan iller bkz 61
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs atarlı totoşlar
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz en üstün adana bence
-bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyene satarım kankağ
 https://www.uludagsozluk.com/k/ordu-dan-adam-%C3%A7%C4%B1kmaz/&w=bg bkz ordu çomarı
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz adana çomarı
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-kendi-memleketini-%C3%B6v%C3%BCp-durmas%C4%B1/ bkz trabzon çomarı
