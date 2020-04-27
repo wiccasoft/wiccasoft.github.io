@@ -9,8 +9,8 @@ bkz minnak yutüpır cüneytin güldürmesi
 bkz siklenmeyen yütüpür cüneytin dramı
 bkz yütupır cüneytin ego sorunsalı olması
 bkz minnak filozof atakan vs elif can terim
-bkz minnak yütupır cüneytin sergey brine adımı kulanma karşıma çık demesi
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
+bkz minnak yütupır cüneytin sergey brine adımı kulanma karşıma çık demesi
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 bkz yütüpır cüneytin jeff bezosa üstü kapalı benim adımı kullanmışsın çık karşıma demesi
 bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen ergen
