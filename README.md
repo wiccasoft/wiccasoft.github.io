@@ -9,6 +9,7 @@ bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
 bkz twitter linki veren ergenleri ciddiye alamamak
+https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz sörfayfırcı
 https://www.uludagsozluk.com/k/%C5%9Fahan-g%C3%B6kbakar-%C4%B1n-evlenebildi%C4%9Fi-hayat/ size neler yabdırmaz
 https://www.uludagsozluk.com/k/amir-khan-%C4%B1n-1-kg-l%C4%B1k-un-yard%C4%B1m%C4%B1/
 bkz 40 yaşından sonra ergenlerin ne dediğini anlamamak
