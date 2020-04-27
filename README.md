@@ -1,11 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-27_07-36-47.png)]( https://www.youtube.com/watch?v=d9MLiJbHqwg )
 
 <!--
-bkz murat övüçün top olduğu iddaları
-bkz sörfayfor 2046 yunuscan vs sörfayfor 2020 berkecan
-bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
-bkz adanalıların genetikleri bozuk oçları olması
 bkz adanalıların trabzon ezikliği
+bkz adanalıların genetikleri bozuk oçları olması
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs nonoş
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz en üstün adana bence
 bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyene satarım kankağ
