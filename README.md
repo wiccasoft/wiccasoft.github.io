@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz çok büyük adam çok
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz çok büyük adam çok
 bkz tengir budun doğanın atatürkle kafayı bozması
 https://www.uludagsozluk.com/e/43246868/ bkz i see dead people
