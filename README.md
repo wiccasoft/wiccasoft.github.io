@@ -2,53 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz etilerde yumuşaklar tarabyada yavşaklar
-https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs  adamın karekökü
-https://www.uludagsozluk.com/k/naz-mila-n%C4%B1n-canl%C4%B1-yay%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-hareket/&w=bg
-https://www.uludagsozluk.com/k/survivor-aycan-%C4%B1n-aldat%C4%B1ld%C4%B1%C4%9F%C4%B1n%C4%B1-%C3%B6%C4%9Frenmesi/
-https://www.uludagsozluk.com/k/survivor-daki-a%C5%9Fk%C4%B1m/ bkz adam gibi adam
-https://www.uludagsozluk.com/k/survivor-daki-yasin/ bkz adamın ham maddesi
-https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın ham maddesi vs adam
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz adamın ham maddesi
-https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adam vs madam
-https://www.uludagsozluk.com/k/e%C5%9Fcinsellik-ahlaks%C4%B1zl%C4%B1kt%C4%B1r/&w=bg
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/
-https://www.uludagsozluk.com/k/rus-i%C5%9Fgalinde-rizelilerin-sergiledi%C4%9Fi-kahramanl%C4%B1k/&w=bg
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz c vitamini
-https://www.uludagsozluk.com/k/ismail-t%C3%BCr%C3%BCt/&w=bg bkz adam gibi adam
-https://www.uludagsozluk.com/k/e%C5%9Fcinsellik-ahlaks%C4%B1zl%C4%B1kt%C4%B1r/&w=bg 
-https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-ermenilere-hakaret-etmesi/
-https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
-https://www.uludagsozluk.com/k/ismail-t%C3%BCr%C3%BCt/&w=bg bkz murat övüçün kocası
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ bkz fahreddin koca
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/ bkz bekleyen
-https://www.uludagsozluk.com/k/kim-kardashian-maketini-arabayla-ezen-tiktok%C3%A7u/ bkz adam gibi adam
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz soft yani ılık
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lol
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/ bkz muhafaza eden
-https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz oç vs oç
-https://www.uludagsozluk.com/k/kim-kardashian-maketini-arabayla-ezen-tiktok%C3%A7u/ lol
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lol
-bkz 29 nisan 2020 ftezcan geri vitesi
-bkz 28 nisan 2020 ftezcan atacücü süpermen ise pelerini nerde tezi
-bkz 28 nisan 2020 ftezcan kürtlerin kanında asil hemoglobin olmaz iddası
-bkz ftezcanın madem atacücü çok süper niye atacücüyü koruma kanunu var tezi
-bkz 27 nisan 2020 seferioğlulları tellioğulları gerginliği
-bkz celal şengör tosun paşa öz hakiki enver paşaydı iddası
-bkz ismet inöcü atacücü gölgesinde kaldı iddası sorundalı
-bkz tez antitez sentezcan
-bkz minnak aktroll maaşları
-bkz minnak yutüpır cüneytin güldürmesi
-bkz minnak filozof atakan vs elif can terim
-bkz sorunsal yaratmak istemedim tamam abi vurma diyen damad
-bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
-bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
-bkz kim olduğumu öğrenince tamam abi vurmaaman abi götünü yiyim abi çeken ergen
-bkz abi kaan boşnak yinetmenliğinde ifşa geldi yepisyeni film vereyim mi abime diyen ergen
--->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
