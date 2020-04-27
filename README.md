@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz türk oğlu öz türk
 bkz yazdığım yapay zekanın türk profesörlerden zeki olması
 https://www.uludagsozluk.com/k/trump-un-hastalara-deterjan-enjekte-edelim-demesi/&w=bg bkz dornaz ace
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz dornaz alfa
