@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ftezcan ı yedirmem diyen bekçi
 bkz ftezcan maketi yapan tiktokçu
 bkz murat övüçün ftezcan a yavşak demesi
 bkz 29 nisan 2020 ftezcan geri vitesi
