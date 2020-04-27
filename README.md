@@ -4,6 +4,7 @@
 
 <!--
 bkz polat alemdar elif can terim aşkı
+bkz damadın penis yüzüğünü rte takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 -->
 
