@@ -5,6 +5,8 @@
 <!--
 bkz erkek adamın erkek sevgilisi olur
 bkz etilerde yumuşaklar tarabyada yavşaklar
+https://www.uludagsozluk.com/k/survivor-daki-a%C5%9Fk%C4%B1m/ bkz adam gibi adam
+https://www.uludagsozluk.com/k/survivor-daki-yasin/ bkz adamın ham maddesi
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın ham maddesi vs adam
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz adamın ham maddesi
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adam vs madam
