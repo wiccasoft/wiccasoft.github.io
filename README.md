@@ -2,7 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
-bkz ercüment ovalının dornaz alfatyı türk gençliğine armağan etmesi
+bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
 bkz isveçten özel uçakla türküyüyü getirlen hasta
 bkz twitter linki veren ergenleri ciddiye alamamak
