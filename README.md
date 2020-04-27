@@ -3,9 +3,6 @@
 <!-- 
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz çok büyük adam çok
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz çok büyük adam çok
-bkz tengir budun doğanın atatürkle kafayı bozması
-https://www.uludagsozluk.com/e/43246868/ bkz i see dead people
-bkz yaşar nuri öztürkün yaşamayanlar için abdest haramdır fetvası
 https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ öztürksen bozulmaz 
 https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xhamster türbanlı porno
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özütürk
