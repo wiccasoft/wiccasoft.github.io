@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz murat övüçün ftezcan a yavşak demesi
 bkz 29 nisan 2020 ftezcan geri vitesi
 bkz 28 nisan 2020 ftezcan atacücü süpermen ise pelerini nerde tezi
 bkz 28 nisan 2020 ftezcan kürtlerin kanında asil hemoglobin olmaz iddası
