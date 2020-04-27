@@ -2,6 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
+bkz cahillik artıkça egonun da artması
 bkz kamalcıların cahil kalma sebepleri
 bkz sörfayfır yasin vs sörfayfır ercü
 bkz kadir popcornun un donun indirp kaçmak
