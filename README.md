@@ -4,6 +4,7 @@
 
 <!--
 bkz tez antitez fatih tezcan
+bkz minnak yutüpır cüneytin güldürmesi
 bkz siklenmeyen yütüpür cüneytin dramı
 bkz yütupır cüneytin ego sorunsalı olması
 bkz minnak filozof atakan vs elif can terim
@@ -11,7 +12,6 @@ bkz minnak yütupır cüneytin sergey brine adımı kulanma karşıma çık deme
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 bkz yütüpır cüneytin jeff bezosa üstü kapalı benim adımı kullanmışsın çık karşıma demesi
-bkz minnak yütupır cüneytin illumunatiye meydan okuması
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
