@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-27_07-36-47.png)]( https://www.youtube.com/watch?v=d9MLiJbHqwg )
 
 <!--
-bkz sörfayfor 2021 berke
+bkz sörfayfor 2021 berkecan
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs cücük
 https://www.uludagsozluk.com/k/ibneleriyle-me%C5%9Fhur-ilimiz/&w=bg bkz batman
