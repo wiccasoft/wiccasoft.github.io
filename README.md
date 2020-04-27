@@ -2,6 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
+bkz türklerin dünyanın en cahil milleti olması
 bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
