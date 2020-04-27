@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz twitter linki veren ergenleri ciddiye alamamak
+https://www.uludagsozluk.com/k/amir-khan-%C4%B1n-1-kg-l%C4%B1k-un-yard%C4%B1m%C4%B1/
 bkz 40 yaşından sonra ergenlerin ne dediğini anlamamak
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg bkz ali erbaş kim amk
 bkz fatih tezcanın atacücünün cücüsü o kadar büyük müydü tezi
