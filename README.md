@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz fatih tezcanın atacücünün cücüsü o kadar büyük müydü tezi
 bkz fatih tezcanın bekçilere bekleyen tokmakçı diyelim önerisi
 https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz şapşik
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
