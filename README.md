@@ -3,6 +3,7 @@
 <!--
 bkz atacücücülük oynamak
 bkz sörfayfır yasin vs sörfayfır ercü
+bkz kadir popcornun un donun indirp kaçmak
 bkz türklerin dünyanın en cahil milleti olması
 bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
