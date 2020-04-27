@@ -1,11 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-27_07-36-47.png)]( https://www.youtube.com/watch?v=d9MLiJbHqwg )
 
 <!--
-bkz adanalıların trabzon ezikliği
-bkz adanalıların genetikleri bozuk oçları olması
-bkz adam gibi adam çıkan il bkz 61
 bkz trabzon pontus rumdur rum kalacaktır
-bkz pontus rumlarını kıskanan adanalı çomarlar
+bkz at hırsızı tipli adanalıların trabzon ezikliği
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs atarlı totoşlar
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz hoşt lan köpek
 https://www.uludagsozluk.com/k/ordu-dan-adam-%C3%A7%C4%B1kmaz/&w=bg bkz ordu çomarı
