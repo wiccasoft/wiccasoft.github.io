@@ -1,7 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman =  covid19 
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz dornaz alfa
 bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
