@@ -1,11 +1,10 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-https://www.uludagsozluk.com/k/kid-cudi/&w=bg bkz tatlı çocuk
+https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz şapşik
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz bekleyenler
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz kralcı
-https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz şapşik
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs top
 https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz top 
 -->
