@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+o değil de twitter da bayan muslera diye bi hesap vardı duruyo mu o mal
 https://www.uludagsozluk.com/k/%C3%B6nemli-bir-insan-olamamak/&w=bg bkz çok büyük adam çok
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz çok büyük adam çok
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz çok büyük adam çok
