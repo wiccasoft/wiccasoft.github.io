@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ bozulmaz 
+https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ öztürksen bozulmaz 
 https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xzhamster türbanlı porno
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz türk oğlu öz türk
 bkz yazdığım yapay zekanın türk profesörlerden zeki olması
