@@ -5,7 +5,7 @@
 <!--
 bkz tez antitez fatih tezcan
 bkz minnak filozof atakan vs elif can terim
-bkz cüneyt özdemiinr maymuna benzemesi
+bkz cüneyt özdemirin siklenmediği için maymun gibi zıplaması
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 -->
