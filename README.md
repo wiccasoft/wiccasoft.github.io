@@ -1,5 +1,12 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!-- 
+bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
+bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
+bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
+bkz twitter linki veren ergenleri ciddiye alamamak
+-->
+
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
