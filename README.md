@@ -2,7 +2,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/43246868/ bkz i see dead people
-bkz gece gece akla gelen ölüler
 bkz yaşar nuri öztürkün yaşamayanlar için abdest haramdır fetvası
 https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ öztürksen bozulmaz 
 https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xzhamster türbanlı porno
