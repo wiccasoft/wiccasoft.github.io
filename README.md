@@ -2,6 +2,7 @@
 
 <!--
 bkz sörfayor yasinin bakışları
+bkz nur yerlitaşın ölürsem kabrime gelmeyin demesi
 https://www.uludagsozluk.com/k/ibneleriyle-me%C5%9Fhur-ilimiz/&w=bg bkz batman
 https://www.uludagsozluk.com/k/erkek-oldu%C4%9Fumu-%C3%B6%C4%9Frenince-numaram%C4%B1-silen-ki%C5%9Fi/ lol
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
