@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz etilerde yumuşaklar tarabyada yavşaklar
+https://www.uludagsozluk.com/k/e%C5%9Fcinsellik-ahlaks%C4%B1zl%C4%B1kt%C4%B1r/&w=bg 
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-ermenilere-hakaret-etmesi/
 https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
