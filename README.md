@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-27_07-36-47.png)]( https://www.youtube.com/watch?v=d9MLiJbHqwg )
 
 <!--
-bkz iğreçsiniz lan ibneler
+bkz 1 iğreçsiniz lan ibneler
+bkz 2 hayallerde yaşıyosunuz lan ibneler
 bkz etilerde yumuşaklar tarabyada yavşaklar
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
 https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
