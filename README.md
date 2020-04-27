@@ -2,9 +2,6 @@
 
 <!--
 bkz atacücücülük oynamak
-bkz sörfaycılara ünvan önerileri
-bkz macun kaplıcalı diye isim mi olur amk
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg sörfayfırcı
 bkz sörfayfır yasin vs sörfayfır ercü
 bkz kadir popcornun un donun indirp kaçmak
 bkz türklerin dünyanın en cahil milleti olması
@@ -12,7 +9,10 @@ bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
 bkz twitter linki veren ergenleri ciddiye alamamak
+bkz sörfaycılara ünvan önerileri
+bkz macun kaplıcalı diye isim mi olur amk
 https://www.uludagsozluk.com/k/can-y%C3%BCcel/&w=bg bkz ölü ayyaş
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg sörfayfırcı
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz dornaz alfacı
 https://www.uludagsozluk.com/k/kore-ye-giden-t%C3%BCrk-askerleri/&w=bg bkz onlar şimdi asker canları neler ister
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz sörfayfırcı
