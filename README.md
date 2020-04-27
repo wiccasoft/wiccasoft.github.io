@@ -2,7 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
-bkz sörfayfır izleyip dornaz alfayı twitterdan öneren malum ırk
+bkz sörfayfır yasin vs sörfayfır ercü
 bkz türklerin dünyanın en cahil milleti olması
 bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
