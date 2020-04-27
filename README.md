@@ -4,8 +4,8 @@
 
 <!--
 bkz tez antitez fatih tezcan
+bkz siklenmeyen yütüpür cüneytin dramı
 bkz minnak filozof atakan vs elif can terim
-bkz siklenmeyen yütüpür cüneyt
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
 -->
