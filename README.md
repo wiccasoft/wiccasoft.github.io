@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz murat övüçün kocası olduğunu idda eden bekçi
 bkz ekşicilere küfr eden ftezcancı bekçi
 bkz ftezcan ı yedirmem diyen bekçi
 bkz ftezcan maketi yapan tiktokçu
