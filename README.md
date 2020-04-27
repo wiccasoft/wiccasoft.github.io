@@ -2,6 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg sörfayfırcı
 bkz sörfayfır yasin vs sörfayfır ercü
 bkz kadir popcornun un donun indirp kaçmak
 bkz türklerin dünyanın en cahil milleti olması
