@@ -2,7 +2,7 @@
 
 <!--
 bkz atacücücülük oynamak
-bkz kamalcıların cahil olma sebepleri
+bkz kamalcıların cahil kalma sebepleri
 bkz sörfayfır yasin vs sörfayfır ercü
 bkz kadir popcornun un donun indirp kaçmak
 bkz türklerin dünyanın en cahil milleti olması
