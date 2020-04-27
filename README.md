@@ -2,6 +2,7 @@
 
 <!-- 
 bkz türklerin küçümsemekten bişey üretememesi
+bkz yazdığım yapay zekanın türk profesörlerden zeki olması
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz dornaz alfa
 bkz isveçten özel uçakla türkiyeye getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
