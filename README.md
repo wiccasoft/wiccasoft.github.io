@@ -4,7 +4,7 @@
 
 <!--
 bkz 27 nisan 2020 seferioğlulları tellioğulları gerginliği
-bkz celal şengör tosun paşa enver paşayı kıskandı iddası
+bkz celal şengör tosun paşa öz hakiki enver paşaydı iddası
 bkz ismet inöcü atacücü gölgesinde kaldı iddası sorundalı
 bkz tez antitez sentezcan
 bkz minnak aktroll maaşları
