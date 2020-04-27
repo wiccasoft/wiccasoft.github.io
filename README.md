@@ -4,13 +4,6 @@
 bkz murat övüçün top olduğu iddaları
 bkz sörfayfor 2046 yunuscan vs sörfayfor 2020 berkecan
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
-bkz rizeden adam çıkmama sebepleri
-bkz trabzonun çomar olma sebepi
-bkz chromium61 im çomar olması
-bkz trabzondan adam çıkmama sebepleri
-bkz trabzonluların o.ç olma sebepleri
-bkz trabzondan adam çıkmaması çomar çıkması
-bkz trabzonluların kanı bozuk oç olmaları
 bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyen satarım kankağ
 https://www.uludagsozluk.com/k/ordu-dan-adam-%C3%A7%C4%B1kmaz/&w=bg bkz oç ordulular
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-kendi-memleketini-%C3%B6v%C3%BCp-durmas%C4%B1/ lol
