@@ -6,8 +6,6 @@
 bkz minnak aktroll maaşları
 bkz tez antitez fatih tezcan
 bkz minnak yutüpır cüneytin güldürmesi
-bkz siklenmeyen yütüpür cüneytin dramı
-bkz yütupır cüneytin ego sorunsalı olması
 bkz minnak filozof atakan vs elif can terim
 bkz damadın penis yüzüğünü rte azıyla takıyor yalanı iddaları
 bkz minnak yütupır cüneytin sergey brine adımı kulanma karşıma çık demesi
