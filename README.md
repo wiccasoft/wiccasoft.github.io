@@ -3,7 +3,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )+
 
 <!--
-bkz minnak tweetçiler
 bkz tez antitez fatih tezcan
 bkz minnak yutüpır cüneytin güldürmesi
 bkz siklenmeyen yütüpür cüneytin dramı
