@@ -1,5 +1,19 @@
 [![Image](prototype/Screenshot_2020-04-27_07-36-47.png)]( https://www.youtube.com/watch?v=d9MLiJbHqwg )
 
+<!--
+https://www.uludagsozluk.com/k/ibneleriyle-me%C5%9Fhur-ilimiz/&w=bg bkz batman
+https://www.uludagsozluk.com/k/erkek-oldu%C4%9Fumu-%C3%B6%C4%9Frenince-numaram%C4%B1-silen-ki%C5%9Fi/ lol
+https://www.uludagsozluk.com/k/naz-mila-n%C4%B1n-canl%C4%B1-yay%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-hareket/&w=bg
+https://www.uludagsozluk.com/k/rus-i%C5%9Fgalinde-rizelilerin-sergiledi%C4%9Fi-kahramanl%C4%B1k/&w=bg 
+https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
+https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
+https://www.uludagsozluk.com/k/kim-kardashian-maketini-arabayla-ezen-tiktok%C3%A7u/ lol
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lol
+https://www.uludagsozluk.com/k/gir-kan%C4%B1ma-klibindeki-dans/ bkz annennizi sikeyim ibneler dansı
+https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs top
+https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz top 
+-->
+
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
