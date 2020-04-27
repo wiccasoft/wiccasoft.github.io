@@ -4,7 +4,7 @@
 
 <!--
 bkz tez antitez fatih tezcan
-bkz minnak yutüpır cüneytin güldürmesi
+bkz minnak aktroll yutüpır cüneytin güldürmesi
 bkz siklenmeyen yütüpür cüneytin dramı
 bkz yütupır cüneytin ego sorunsalı olması
 bkz minnak filozof atakan vs elif can terim
