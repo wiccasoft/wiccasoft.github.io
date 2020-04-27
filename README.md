@@ -4,12 +4,12 @@
 bkz murat övüçün top olduğu iddaları
 bkz sörfayfor 2046 yunuscan vs sörfayfor 2020 berkecan
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
-bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyen satarım kankağ
+bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyene satarım kankağ
 https://www.uludagsozluk.com/k/ordu-dan-adam-%C3%A7%C4%B1kmaz/&w=bg bkz oç ordulular
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-kendi-memleketini-%C3%B6v%C3%BCp-durmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/rize-den-adam-%C3%A7%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/ bkz denize paralel olması
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg bkz yav he he
-https://www.uludagsozluk.com/k/trabzon-%C3%A7omar%C4%B1/ bkz yav he he
+https://www.uludagsozluk.com/k/trabzon-%C3%A7omar%C4%B1/ bkz hav hav hav
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs cücük
 https://www.uludagsozluk.com/k/ibneleriyle-me%C5%9Fhur-ilimiz/&w=bg bkz batman
 https://www.uludagsozluk.com/k/erkek-oldu%C4%9Fumu-%C3%B6%C4%9Frenince-numaram%C4%B1-silen-ki%C5%9Fi/ lol
