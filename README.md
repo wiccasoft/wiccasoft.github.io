@@ -4,6 +4,7 @@
 bkz murat övüçün top olduğu iddaları
 bkz sörfayfor 2046 yunuscan vs sörfayfor 2020 berkecan
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
+https://www.uludagsozluk.com/k/rize-den-adam-%C3%A7%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/ bkz denize paralel olması
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/trabzon-%C3%A7omar%C4%B1/ bkz yav he he
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs cücük
