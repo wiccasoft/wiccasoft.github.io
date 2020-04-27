@@ -4,7 +4,7 @@
 bkz murat övüçün top olduğu iddaları
 bkz sörfayfor 2046 yunuscan vs sörfayfor 2020 berkecan
 bkz yılmaz güneyin nur yerlitaş için çelenk yaptırması 
-bkz karadenizlilerin memleketlerini öven oçları olması
+bkz karadenizlilerin genetikleri bozuk oçları olması
 bkz adam gibi adam çıkan iller sıralı tam liste rar şifresiz isteyene satarım kankağ
 https://www.uludagsozluk.com/k/ordu-dan-adam-%C3%A7%C4%B1kmaz/&w=bg bkz ordu çomarı
 https://www.uludagsozluk.com/k/adanan%C4%B1n-trabzondan-%C3%BCst%C3%BCn-olmas%C4%B1/ bkz adana çomarı
