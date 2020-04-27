@@ -2,7 +2,10 @@
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )+
 
-<!--bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı  -->
+<!--
+bkz polat alemdar elif can terim aşkı
+bkz elif can terimden fatih terime sağlık ve dua lipa ile işini yap urarısı
+-->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
