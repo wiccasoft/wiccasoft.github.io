@@ -5,8 +5,8 @@ bkz tengir budun doğanın atatürkle kafayı bozması
 https://www.uludagsozluk.com/e/43246868/ bkz i see dead people
 bkz yaşar nuri öztürkün yaşamayanlar için abdest haramdır fetvası
 https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ öztürksen bozulmaz 
-https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xzhamster türbanlı porno
-https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz türk oğlu öz türk
+https://www.uludagsozluk.com/k/mia-khalifa/&w=bg bkz xhamster türbanlı porno
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özütürk
 bkz yazdığım yapay zekanın türk profesörlerden zeki olması
 https://www.uludagsozluk.com/k/trump-un-hastalara-deterjan-enjekte-edelim-demesi/&w=bg bkz dornaz ace
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz dornaz alfa
