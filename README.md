@@ -1,45 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
-bkz atacücücülük oynamak
-bkz ekşcilerin yeni ünvanı
-hadi ben kaçar gençler yapay zekam beni bekler
-bkz yapay zekanın muhteşem bir hal alması
-bkz ekşcilerin beni bekçi diye hor görmesi
-bkz ekşcilerin ünvanımla döverim seni demesi
-bkz sörfayfır izleyen kamalcı beyni vs şempanze
-bkz cahillik artıkça egonun da artması
-bkz kamalcıların cahil kalma sebepleri
-bkz sörfayfır yasin vs sörfayfır ercü
-bkz kadir popcornun un donun indirp kaçmak
-bkz türklerin dünyanın en cahil milleti olması
-bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
-bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
-bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
-bkz twitter linki veren ergenleri ciddiye alamamak
-bkz sörfaycılara ünvan önerileri
-bkz macun kaplıcalı diye isim mi olur amk
-https://www.uludagsozluk.com/k/can-y%C3%BCcel/&w=bg bkz ölü ayyaş
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg sörfayfırcı
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz dornaz alfacı
-https://www.uludagsozluk.com/k/kore-ye-giden-t%C3%BCrk-askerleri/&w=bg bkz onlar şimdi asker canları neler ister
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz sörfayfırcı
-https://www.uludagsozluk.com/k/%C5%9Fahan-g%C3%B6kbakar-%C4%B1n-evlenebildi%C4%9Fi-hayat/ size neler yabdırmaz
-https://www.uludagsozluk.com/k/amir-khan-%C4%B1n-1-kg-l%C4%B1k-un-yard%C4%B1m%C4%B1/
-bkz 40 yaşından sonra ergenlerin ne dediğini anlamamak
-https://www.uludagsozluk.com/k/amir-khan-%C4%B1n-1-kg-l%C4%B1k-un-yard%C4%B1m%C4%B1/ bkz amir khan kim amk
-https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz şapşik
-https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg bkz ali erbaş kim amk
-bkz fatih tezcanın atacücünün cücüsü o kadar büyük müydü tezi
-bkz fatih tezcanın bekçilere bekleyen tokmakçı diyelim önerisi
-https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz şapşik
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz bekleyenler
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=bg bkz kralcı
-https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs top
-https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz top 
--->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
