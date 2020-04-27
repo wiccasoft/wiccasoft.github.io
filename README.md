@@ -9,6 +9,7 @@ bkz tayyipin gürcüyüm eşim arap demesi
 bkz naz mila nın canlı yayında yabdığı hareket
 bkz aleyna tilki nin canlı yayında osurması
 bkz naz mmilanın canlı yayında naz yapması
+https://www.uludagsozluk.com/k/erkek-oldu%C4%9Fumu-%C3%B6%C4%9Frenince-numaram%C4%B1-silen-ki%C5%9Fi/ lol
 https://www.uludagsozluk.com/k/diego-armando-maradona/&w=bg bkz futbolun tanrısı 
 https://www.uludagsozluk.com/k/naz-mila-n%C4%B1n-canl%C4%B1-yay%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-hareket/&w=bg
 https://www.uludagsozluk.com/k/rus-i%C5%9Fgalinde-rizelilerin-sergiledi%C4%9Fi-kahramanl%C4%B1k/&w=bg
