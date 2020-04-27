@@ -2,7 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/&w=gd bkz dornaz alfa
-bkz isveçten özel uçakla türküyüyü getirilen dornaz alfa
+bkz isveçten özel uçakla türkiyeye getirilen dornaz alfa
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 bkz 1881 atacücü 18+81 = 99 -81 vilayet - batman = covid19
 bkz twitter linki veren ergenleri ciddiye alamamak
