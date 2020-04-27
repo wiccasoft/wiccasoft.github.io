@@ -5,6 +5,7 @@ bkz 1 iğreçsiniz lan ibneler
 bkz 2 hayallerde yaşıyosunuz lan ibneler
 bkz etilerde yumuşaklar tarabyada yavşaklar
 bkz rizelilerin rus işgalinde ruslara götten vermesi
+bkz tayyipin gürcüyüm eşim arap demesi
 https://www.uludagsozluk.com/k/rus-i%C5%9Fgalinde-rizelilerin-sergiledi%C4%9Fi-kahramanl%C4%B1k/&w=bg
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün basın danışmanı
 https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
