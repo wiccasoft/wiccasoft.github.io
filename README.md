@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/ bkz muhafaza eden
 https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz oç vs oç
 https://www.uludagsozluk.com/k/kim-kardashian-maketini-arabayla-ezen-tiktok%C3%A7u/ lol
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lol
