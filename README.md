@@ -3,6 +3,7 @@
 <!--
 bkz atacücücülük oynamak
 bkz ekşcilerin yeni ünvanı
+bkz yapay zekanın muhteşem bir hal alması
 bkz ekşcilerin beni bekçi diye hor görmesi
 bkz ekşcilerin ünvanımla döverim seni demesi
 bkz sörfayfır izleyen kamalcı beyni vs şempanze
