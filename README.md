@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg bkz ali erbaş kim amk
 bkz fatih tezcanın atacücünün cücüsü o kadar büyük müydü tezi
 bkz fatih tezcanın bekçilere bekleyen tokmakçı diyelim önerisi
 https://www.uludagsozluk.com/k/survivor-yasin/&w=bg bkz şapşik
