@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz isveçten özel uçakla dornaz alfa getirtmek
 https://www.uludagsozluk.com/k/isve%C3%A7-ten-t%C3%BCrkiye-ye-%C3%B6zel-u%C3%A7akla-getirilen-hasta/ adfasdfasdasdas
 https://www.uludagsozluk.com/k/survivor-2020-sercan/ adfasdasdasdsadsad asdasd as
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ asd asdadas
