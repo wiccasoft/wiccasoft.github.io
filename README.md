@@ -5,6 +5,8 @@ bkz grup yorumun tek kişi kalması
 bkz eli erbaşın başını alırsınız demesi
 bkz grup vitamin ismail vs grup yorum bateristi cemil
 bkz o değil de cem garipoğlu vardı noldu ona
+https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en/&w=bg bkz çeçenistanlı çeçence bilen kişiler
+https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ makatına ne kadar su aldığına bağlı
 https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/&w=gd  o adam vurduruyo kankağ
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg şeker gibi adamdı yazık oldu
 https://www.uludagsozluk.com/k/grup-yorum/&w=gd ne gruptu ama
