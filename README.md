@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/
 bkz zülfü livanelinin güneş toğlayın beniğğğğğ için demesi
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg
 bkz rte nin yiyin birbirinizi ete para vermeyin demesi
