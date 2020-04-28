@@ -1,7 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz eli erbaşın başını alırsınız demesi
 bkz grup vitamin ismail vs grup yorum bateristi cemil
+https://www.uludagsozluk.com/k/ali-erba%C5%9F-%C4%B1n-r%C3%BC%C5%9Fvete-kul-hakk%C4%B1na-fetva-vermemesi/
 https://www.uludagsozluk.com/k/grup-yorum/&w=bg bkz ölüp ölüp bitmeyen grup
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg bkz sakat eleman kankağ
 https://www.uludagsozluk.com/k/din-afyondur/ bkz afyonlu katolik gay taşfırın ustaları
