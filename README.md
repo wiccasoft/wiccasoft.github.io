@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz çeçen müvahitlerin trumpın kızını kaçırıp cihat ilan etmesi
 bkz daha tüyleri çıkmamış ergen götünün heyecanlandırması
 bkz 2001 li oğlanlara baba şefkatiyle yaklaşmak
 bkz şaka maka 2001 oğlanların kalkmışı indirmesi
