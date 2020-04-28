@@ -3,8 +3,7 @@
 <!--
 bkz m kemalin 167 boyla nasıl subay oldu sorundalı
 bkz m kemlain her gece bir litre rakıya harcadığı parar
-bkz m kemalin am sikmeye harcadığı para
-bkz atacücünün saranova yatını satması
+bkz m kemalin am sikmeye hiç para harcamaması
 bkz maçoğlanın maçları protesto etmesi
 bkz malkoçoğlanın kara murat torunu değilim demesi
 bkz sözde kara murat torunun yiğidn harman olduğu yirden gelmişik demesi
