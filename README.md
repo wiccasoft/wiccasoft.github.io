@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz grup yorumun  dağalara gel dağalara yorumu
 https://www.uludagsozluk.com/k/grup-yorum/&w=bg bkz dünyanın en gereksiz ve ezik grubu
 bkz kaan boşnak vs kadir şeker
 bkz 90 dan sonra doğan oğlanların çocuğunun gay olması
