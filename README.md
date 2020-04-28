@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
+bkz ali erbaşı yedirmeyiz nah yersiniz
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-dava-adam%C4%B1-b%C4%B1rak/&w=bg bkz ali erbaş
 https://www.uludagsozluk.com/k/ali-erba%C5%9F/&w=bg bkz ak davaya baş koyan adam gibi adam
 bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
