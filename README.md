@@ -1,26 +1,5 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- 
-bkz isveçten özel uçakla olarak dornaz alfa getirtmek
-https://www.uludagsozluk.com/k/s%C3%BCreyya-karabulut/&w=bg bkz münevver karabulutun orospu annesi
-bkz münevver karabulutun cem kestiyse benim kafamı kesti siz ne demesi
-https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=gd
-https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu-nun-%C3%B6ld%C3%BC%C4%9F%C3%BCne-inanmamak/&w=bg
-https://uludagsozluk.com bkz adana01 hapishanesi ergen ibneler
-bkz türklerin neden bu kadar aptal olması
-bkz isveçten özel uçakla dornaz alfa getirtmek
-bkz 1881 atacücü 18+81 = 99 - 81 - bartmna =covid19 + ercü61 = dornaz alfa
-https://www.uludagsozluk.com/k/survivor-yasin/ bkz yavşak yasin
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz gevşek yunus
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-premium-%C3%BCyelik/&w=bg bkz preimum ibnelik
-https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=bg iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/ cumhuriyetin bekçicileri ulucular
-https://www.uludagsozluk.com/k/isve%C3%A7-ten-t%C3%BCrkiye-ye-%C3%B6zel-u%C3%A7akla-getirilen-hasta/ adfasdfasdasdas
-https://www.uludagsozluk.com/k/survivor-2020-sercan/ adfasdasdasdsadsad asdasd as
-https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ asd asdadas
-https://www.uludagsozluk.com/k/survivor-izleyen-insan-zekas%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/sevgilisinin-g%C3%B6t%C3%BC-a%C3%A7%C4%B1lan-erke%C4%9Fin-dram%C4%B1/&w=bg  adsadasd-->
-
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
