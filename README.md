@@ -4,7 +4,7 @@
 
 <!--
 bkz kamalcıların atacücü ezikliği
-bkz dayak yiyen ekşicinin enes abisin çağırması
+bkz dayak yiyen ekşicinin enes abisini çağırması
 bkz kamalcıların dayak yememek için heykelin arkasına saklanması
 bkz kamalcıların atacücnünü küçük pipili olmasını kabul edememesi
 bkz kamalcıların atacücü heykellerinin pipisini örtmesi
