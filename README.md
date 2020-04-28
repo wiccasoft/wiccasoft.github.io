@@ -1,8 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-
 <!-- 
-bkz türklerin neddn bu kadar aptal olması
+bkz türklerin neden bu kadar aptal olması
 bkz isveçten özel uçakla dornaz alfa getirtmek
 bkz 1881 atacücü 18+81 = 99 - 81 - bartmna =covid19 + ercü61 = dornaz alfa
 https://www.uludagsozluk.com/k/isve%C3%A7-ten-t%C3%BCrkiye-ye-%C3%B6zel-u%C3%A7akla-getirilen-hasta/ adfasdfasdasdas
