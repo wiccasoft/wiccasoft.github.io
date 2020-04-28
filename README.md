@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/2001li-erkekler/&w=bg bkz 13. nesil şapşik seksi erkekler
 bkz ali erbaşın yarramın başını yersiniz demesi
 bkz grup yorum bateristinin ggruptan ayrılması
 bkz cem garipoğlunun bu yaz mayorkadayım demesi
