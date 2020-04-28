@@ -2,6 +2,7 @@
 
 <!--
 bkz kaan boşnak vs kadir şeker
+bkz 90 doğumlu erkeklerin çocuğunun gay olması
 bkz nereye gidersin şekeroğlan sana giderim aykız sana giderim balgız
 bkz kız seni yerler seni ham yapar bu ibneler
 bkz kadir şekeri yedirmeyiz
