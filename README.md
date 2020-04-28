@@ -6,6 +6,7 @@
 bkz türk övüç çavış güveç
 bkz atacücü iyi ki diyaneti kurmuş ayol
 bkz murat övüçün türk övüç çalıç güveç demesi
+bkz murat övüçün kamalcı olduğu gerçeği
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz abdullah öcalan
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz izleyelim
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz murat övüçün kocası
