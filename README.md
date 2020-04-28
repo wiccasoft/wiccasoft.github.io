@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--adasdasdasdasdaasdsadasdasdasd
+<!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ adasdasdasdasdaasdsadasdasdasd
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-baban%C4%B1n-gay-o%C4%9Flu-olmak/
