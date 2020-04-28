@@ -4,7 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd
-https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ 
+https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ bkz muratişko
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=gd bkz kocişkom
 https://www.uludagsozluk.com/k/t%C3%BCrk-tarihinin-en-b%C3%BCy%C3%BCk-lideri/&w=bg bkz atacücüşkom
 -->
