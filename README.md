@@ -3,7 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz atacücünün pipisi cücük gibiydi iddaları
+bkz atacücünün pipisi cücük gibiydi iddaları sorundalı
 bkz apoyu cimere şikayet ediyoruz kampanyası
 bkz aponun elini kolunu sallaya sallaya internette gezinmesi
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg çok büyük adam çok
