@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kız seni yerler seni ham yapar bu ibneler
 bkz kadir şekeri yedirmeyiz
 bkz bütün iyi erkekleri yediniz kadir şekeri yediremeyiz
 bkz kadir şeker yalnız değildir
