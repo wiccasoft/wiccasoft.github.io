@@ -4,7 +4,7 @@
 
 <!--
 bkz kamalcıların atacücü ezikliği
-bkz 10 yaşındaki yiğeni kumda ekşcilerle oynasın diye aşağı salmak
+bkz 10 yaşındaki yiğenimi kumda ekşcilerle oynasın diye aşağı salmak
 bkz benim lideyim şenin lideyinin dövey diyen ekşici
 bkz dayak yiyen ekşicinin enes abisini çağırması
 bkz kamalcıların dayak yememek için heykelin arkasına saklanması
