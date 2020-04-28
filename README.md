@@ -4,6 +4,7 @@
 bkz grup yorumun tek kişi kalması
 bkz eli erbaşın başını alırsınız demesi
 bkz grup vitamin ismail vs grup yorum bateristi cemil
+https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/&w=bg bkz allahın aslanları
 https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/cemal-s%C3%BCreyan%C4%B1n-k%C3%B6t%C3%BC-%C5%9Fiir-yazmas%C4%B1/&w=bg bkz yavşak cemal
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-%C4%B1n-r%C3%BC%C5%9Fvete-kul-hakk%C4%B1na-fetva-vermemesi/
