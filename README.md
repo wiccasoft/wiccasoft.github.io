@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/grup-yorum/&w=bg bkz dünyanın en gereksiz ve ezik grubu
 bkz kaan boşnak vs kadir şeker
 bkz 90 dan sonra doğan oğlanların çocuğunun gay olması
 bkz nereye gidersin şekeroğlan sana giderim aykız sana giderim balgız
