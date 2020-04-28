@@ -1,9 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz kamalcıların adımı bilmemesi
 bkz kamalcıların adımı zülfü sanması
 bkz kamalcıların beni solcu sanması
+bkz hala adıma başlık açılmamaış demek ki hala doğru yoladım
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg 
 bkz ercünün dornaz alfayı türk gençliğine armapan etmesi
 bkz isveçin isveçten uçakla dornaz alfa getiren kara borsacıya dava açması
