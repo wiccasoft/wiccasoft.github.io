@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kamalcıların sünni arap aileden geldiğim idda etmeleri
 bkz kamalcıların sözde osmanlı torunu olduğumu idda etmeleri
 bkz sözde osmanlı torunnun mobile.twitter linki atması
 https://www.uludagsozluk.com/k/s%C3%B6zde-osmanl%C4%B1-torununun-s%C4%B1k%C4%B1%C5%9F%C4%B1nca-bel%C3%A7ikal%C4%B1-olmas%C4%B1/
