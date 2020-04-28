@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kamalcıların adımı bilmemesi
 bkz kamalcıların adımı zülfü sanması
 bkz kamalcıların beni solcu sanması
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg 
