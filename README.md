@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz kamalcıların beni solcu sanması
+https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg bkz kamalcıların beni solcu sanması
 bkz ercünün dornaz alfayı türk gençliğine armapan etmesi
 bkz isveçin isveçten uçakla dornaz alfa getiren kara borsacıya dava açması
 https://www.uludagsozluk.com/k/isve%C3%A7-in-isve%C3%A7-ten-u%C3%A7akla-gelen-ki%C5%9Fiye-dava-a%C3%A7mas%C4%B1/
