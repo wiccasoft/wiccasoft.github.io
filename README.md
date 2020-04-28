@@ -4,6 +4,7 @@
 bkz dep webteki gaylerin herkesi kendi gibi sanması
 bkz deep afyonlu kamalcı sörfayfor web'e girince düşen zeka zeviyesi
 bkz atacücü ismet inöcü gölgesinde kaldı yalanına cevaplar
+https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/ o adam orospu abi boşver
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
 https://www.uludagsozluk.com/k/2001li-erkekler/&w=bg bkz 13. nesil fındık götlü ergenler
 https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/ 
