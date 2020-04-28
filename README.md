@@ -5,7 +5,7 @@
 <!-- 
 bkz türk övüç çavış güveç
 bkz atacücü iyi ki diyaneti kurmuş ayol
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz bebek katili apo
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz murat övüçün kocası
 bkz abdullah öcalanın türk kamalızmına hizmet etmeye hazıremke demesi
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ ayol o nası girmiş
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz kocişkolarım
