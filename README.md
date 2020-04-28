@@ -2,6 +2,7 @@
 
 <!-- 
 bkz isveçten özel olarak dornaz alfa
+https://www.uludagsozluk.com/k/s%C3%BCreyya-karabulut/&w=bg bkz münevver karabulutun orospu annesi
 bkz münevver karabulutun cem kestiyse benim kafamı kesti siz ne demesi
 https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=gd
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu-nun-%C3%B6ld%C3%BC%C4%9F%C3%BCne-inanmamak/&w=bg
