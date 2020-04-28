@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kim olduğumu bilmediği halde köylüsüymüş gibi entry giren aptallar ordusu
 bkz kamalcıların adımı zülfü ve beni solcu sanması komedisi asdasdasdasdasdasda
 bkz hala adıma başlık açılmamaış demek ki hala doğru yoladım
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg 
