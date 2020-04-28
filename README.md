@@ -5,6 +5,7 @@
 <!-- 
 bkz türk övüç çavış güveç
 bkz atacücü iyi ki diyaneti kurmuş ayol
+bkz kamalcıların beni müşahade altında tutuması
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz imralı canisi
 bkz isveçin isveçten uçakla dornaz alfa getiren kara borsacıya dava açması
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd bkz türk övüç çavış güveç
