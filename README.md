@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz grup yorumun tek kişi kalması
 bkz eli erbaşın başını alırsınız demesi
 bkz grup vitamin ismail vs grup yorum bateristi cemil
 https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/&w=gd
