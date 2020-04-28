@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz atacücü ismetinöcü gölgesinde kaldı yalanına cevaplar
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
 bkz çeçen müvahitlerin trumpın kızını kaçırıp cihat ilan etmesi
 bkz daha tüyleri çıkmamış ergen götünün heyecanlandırması
 bkz 2001 li oğlanlara baba şefkatiyle yaklaşmak
