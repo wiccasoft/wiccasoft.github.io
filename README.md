@@ -1,8 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!--
+<!--adasdasdasdasdaasdsadasdasdasd
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/
+https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-baban%C4%B1n-gay-o%C4%9Flu-olmak/
 https://www.uludagsozluk.com/k/fatih-mehmet-ma%C3%A7o%C4%9Flu-nun-seyit-r%C4%B1za-sevgisi/
 https://www.uludagsozluk.com/k/isve%C3%A7-in-isve%C3%A7-ten-u%C3%A7akla-gelen-ki%C5%9Fiye-dava-a%C3%A7mas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/izmir-mar%C5%9F%C4%B1n%C4%B1-duyunca-gelen-mide-bulant%C4%B1s%C4%B1/&w=gd
