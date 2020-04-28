@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adam çok 
 https://www.uludagsozluk.com en büyük lider atacücü abi anamı siksin gıkımı çıkarmama be abi
 https://www.uludagsozluk.com/k/din-afyondur/ bkz afyonlu gay taş fırın ustaları
 https://eksisozluk.com/100-bin-kere-enes-batur-diyen-youtuber--6495324?a=popular enes abi anamı sik abi -->
