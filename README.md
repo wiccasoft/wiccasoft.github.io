@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ bkz muratişko
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=gd bkz kocişkom
 https://www.uludagsozluk.com/k/t%C3%BCrk-tarihinin-en-b%C3%BCy%C3%BCk-lideri/&w=bg bkz atacücüşkom
+https://www.uludagsozluk.com/k/camiden-izmir-mar%C5%9F%C4%B1-okununca-kuduran-pelikanc%C4%B1/&w=bg lol
 -->
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
