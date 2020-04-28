@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz ali erbaşın yarramın başını yersiniz demesi
 bkz grup yorum bateristinin ggruptan ayrılması
 bkz cem garipoğlunun bu yaz mayorkadayım demesi
 bkz rte nini sikin birbiriniz göte para vermeyin demesi
