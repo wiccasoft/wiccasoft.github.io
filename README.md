@@ -4,6 +4,7 @@
 
 <!--
 bkz kamalcıların atacücü ezikliği
+bkz kamalcıların dayak yememek için heykelin arkasına saklanması
 bkz kamalcıların atacücnünü küçük pipili olmasını kabul edememesi
 bkz kamalcıların atacücü heykellerinin pipisini örtmesi
 bkz atacücünün pipisi cücük gibiydi iddaları sorundalı
