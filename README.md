@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!-- 
-bkz isveçten özel olarak dornaz alfa
+bkz isveçten özel olarak dornaz alfa getirtmek
 https://www.uludagsozluk.com/k/s%C3%BCreyya-karabulut/&w=bg bkz münevver karabulutun orospu annesi
 bkz münevver karabulutun cem kestiyse benim kafamı kesti siz ne demesi
 https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=gd
