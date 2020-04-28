@@ -2,32 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- 
-bkz türk övüç çavış güveç
-bkz atacücü iyi ki diyaneti kurmuş ayol
-bkz murat övüçün türk övüç çalıç güveç demesi
-bkz murat övüçün türk övü. çalıç güveç deme ksuç m u demesi
-https://www.uludagsozluk.com/ o değil de kankağlar kerimcan durmaz görükmüyo bi bakın la öldümü kaldı mı
-https://www.kimnereli.net/murat-ovuc.html kocaman adammış ya 90 lı bebelerden sanıyodum asdasdasd
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=gd bkz apo
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz abdullah öcalan
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz izleyelim
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz murat övüçün kocası
-bkz abdullah öcalanın türk kamalızmına hizmet etmeye hazıremke demesi
-https://eksisozluk.com/ocalana-21-yil-sonra-telefonla-gorusme-izini--6495000?a=popular
-https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ ayol o nası girmiş
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz kocişkolarım
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz imralı canisi
-bkz isveçin isveçten uçakla dornaz alfa getiren kara borsacıya dava açması
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd bkz türk övüç çavış güveç
-https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/&w=gd bkz ben
-https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ ay bozulmaz ayol neler giriyo oraya
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=gd bkz kocişkom
-https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ bkz muratişko
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=gd bkz kocişkom
-https://www.uludagsozluk.com/k/t%C3%BCrk-tarihinin-en-b%C3%BCy%C3%BCk-lideri/&w=bg bkz atacücüşkom
-https://www.uludagsozluk.com/k/camiden-izmir-mar%C5%9F%C4%B1-okununca-kuduran-pelikanc%C4%B1/&w=bg lol
--->
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
