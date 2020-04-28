@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz grup yorum bateristinin ggruptan ayrılması
 bkz cem garipoğlunun bu yaz mayorkadayım demesi
 bkz rte nini sikin birbiriniz göte para vermeyin demesi
 https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/
