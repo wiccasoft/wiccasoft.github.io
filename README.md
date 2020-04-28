@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz sarışın mavi gözlü araplar
 https://www.uludagsozluk.com/k/hz-ibrahim/&w=bg bkz arap kökenkli sunni aileden gelen erkek
 bkz zülfünün güneç toğla beniğ için demesi
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg bkz orhan pamuk
