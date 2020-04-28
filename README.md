@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/hz-ibrahim-ve-ishak-%C4%B1n-kurban-edilmesi/ bkz hz ademin cennetn düşmesi
 bkz m kemalin 167 boyla nasıl subay oldu sorundalı
 bkz m kemlain her gece bir litre rakıya harcadığı parar
 bkz m kemalin am sikmeye hiç para harcamaması
