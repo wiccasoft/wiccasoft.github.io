@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz oğlan götüsikmenin karı götü sikmekten daha zevkli olduğu gerçeği
 bkz 2001 li oğlan götü sikmenin verdiği haz
 bkz 20001 li oğlanların tontiş popoları
 bkz 20001 li sözlük ergeni 1978 dayı ilişkisi
