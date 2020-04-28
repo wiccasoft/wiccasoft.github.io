@@ -1,5 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
+<!-- https://www.uludagsozluk.com/k/survivor-izleyen-insan-zekas%C4%B1/&w=bg 
+https://www.uludagsozluk.com/k/sevgilisinin-g%C3%B6t%C3%BC-a%C3%A7%C4%B1lan-erke%C4%9Fin-dram%C4%B1/&w=bg  adsadasd-->
+
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
 [![Image](prototype/Screenshot_2020-04-20_12-11-24.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
