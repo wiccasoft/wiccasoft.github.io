@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz deep webteki gaylerin herkesi kendi gibi sanması
+bkz deep webteki eşcinsellerin herkesi kendi gibi sanması
 bkz deep afyonlu kamalcı sörfayfor web'e girince düşen zeka zeviyesi
 bkz atacücü ismet inöcü gölgesinde kaldı yalanına cevaplar
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en/&w=bg bkz çen çeçence demi biliyon çen
