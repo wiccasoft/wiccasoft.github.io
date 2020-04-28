@@ -7,6 +7,7 @@ bkz türk övüç çavış güveç
 bkz atacücü iyi ki diyaneti kurmuş ayol
 bkz murat övüçün türk övüç çalıç güveç demesi
 bkz murat övüçün türk övü. çalıç güveç deme ksuç m u demesi
+https://www.kimnereli.net/murat-ovuc.html kocaman adammış yal a 90 lı bebelerden sanıyodum asdasdasd
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=gd bkz apo
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz abdullah öcalan
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz izleyelim
