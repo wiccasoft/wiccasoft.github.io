@@ -8,7 +8,7 @@ https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/ lo
 https://www.uludagsozluk.com/k/sadi-celil-cengiz/&w=bg bkz bakışlarıyla siken erkekler
 https://www.uludagsozluk.com/k/gir-kan%C4%B1ma-klibindeki-dans/ bkz nasıl ibne oldum dansı
 https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ iğrençsiniz lan ibneler
-https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=bg iğrençsiniz lan ibneler
+https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=bg 
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-dava-adam%C4%B1-b%C4%B1rak/&w=bg bkz ali erbaş
 https://www.uludagsozluk.com/k/ali-erba%C5%9F/&w=bg bkz ak davaya baş koyan adam gibi adam
 bkz münevver karabulutun cem kestiyse benim kafamı kesti size ne demesi
