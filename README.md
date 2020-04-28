@@ -3,8 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz ekşiciyi dövüp enes abisine yollamak
 bkz kamalcıların atacücü ezikliği
+bkz dayak yiyen ekşicinin enes abisin çağırması
 bkz kamalcıların dayak yememek için heykelin arkasına saklanması
 bkz kamalcıların atacücnünü küçük pipili olmasını kabul edememesi
 bkz kamalcıların atacücü heykellerinin pipisini örtmesi
