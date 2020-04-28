@@ -4,17 +4,12 @@
 bkz atacücü ismet inöcü gölgesinde kaldı yalanına cevaplar
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
 https://www.uludagsozluk.com/k/2001li-erkekler/&w=bg bkz 13. nesil fındık götlü ergenler
-https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/
+https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/ 
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg bkz şeker gibi oğlandı yazık oldu
 https://www.uludagsozluk.com/k/kadir-%C5%9Fekerin-covid19-testinin-p-%C3%A7%C4%B1kmas%C4%B1/
-https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en/&w=bg bkz çeçenistanlı çeçence bilen kişiler
+https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en/&w=bg bkz çeçenistanlı çeçence bilen mücahitler
 https://www.uludagsozluk.com/k/makattan-i%C3%A7eri-su-girerse-oru%C3%A7-bozulur-mu/ makatına ne kadar su aldığına bağlı
-https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/&w=gd  o adam vurduruyo kankağ
-https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg şeker gibi adamdı yazık oldu
-https://www.uludagsozluk.com/k/grup-yorum/&w=gd ne gruptu ama
-https://www.uludagsozluk.com/k/kadir-%C5%9Fekerin-covid19-testinin-p-%C3%A7%C4%B1kmas%C4%B1/ yapma be kadirim yiğidim
-https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en/&w=bg bkz çeçenistanlı
-https://www.uludagsozluk.com/k/kartal-kaan/&w=bg bkz adamın dibiydi 
+https://www.uludagsozluk.com/k/kartal-kaan/&w=bg bkz çok büyük adamdı çok
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg bkz şeker gibi adamdı
 https://www.uludagsozluk.com/k/kadir-%C5%9Fekerin-covid19-testinin-p-%C3%A7%C4%B1kmas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/&w=bg bkz allahın aslanları
