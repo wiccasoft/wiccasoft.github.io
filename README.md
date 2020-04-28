@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz atacücü inöcünnü gölgesinde kaldı yalanı
 bkz atacücücnün diyaneti kurma sebebi
 bkz diyanet ezan çalıştayını dağıtıp güneye yerleşmek
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-kimdir/
