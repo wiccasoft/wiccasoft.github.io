@@ -4,6 +4,7 @@
 bkz grup yorumun tek kişi kalması
 bkz eli erbaşın başını alırsınız demesi
 bkz grup vitamin ismail vs grup yorum bateristi cemil
+https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en/&w=bg bkz çeçenistanlı
 https://www.uludagsozluk.com/k/kartal-kaan/&w=bg bkz adamın dibiydi 
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg bkz şeker gibi adamdı
 https://www.uludagsozluk.com/k/kadir-%C5%9Fekerin-covid19-testinin-p-%C3%A7%C4%B1kmas%C4%B1/
