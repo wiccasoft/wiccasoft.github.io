@@ -1,9 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz 2001 li oğlana baba şefkatiyle yaklaşmak
-bkz şaka maka 2001 li oğlanların bızırlarının sikilmelik kıvama gelmesi
-bkz 20001 li oğlanların kaymak gibi göt delikleri
+bkz 2001 li oğlanlara baba şefkatiyle yaklaşmak
+bkz şaka maka 2001 oğlanların kalkmışı indirmesi
 bkz 20001 li sözlük ergeni 1978 dayı ilişkisi
 https://www.uludagsozluk.com/k/2001li-erkekler/&w=bg bkz 13. nesil fındık götlü ergenler
 bkz ali erbaşın yarramın başını yersiniz demesi
