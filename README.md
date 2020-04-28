@@ -4,7 +4,7 @@
 bkz kamalcıların sözde osmanlı torunu olduğumu idda etmeleri
 bkz sözde osmanlı torunnun mobile.twitter linki atması
 https://www.uludagsozluk.com/k/s%C3%B6zde-osmanl%C4%B1-torununun-s%C4%B1k%C4%B1%C5%9F%C4%B1nca-bel%C3%A7ikal%C4%B1-olmas%C4%B1/
-bkz türklerdeki faşizm ve apttalık geni sen şusun hayır o değilim sen kullanışlı aptalsın sadece
+bkzsen şusun sen busun hayır o değilim sen kullanışlı aptalsın sadece
 bkz kim olduğumu bilmediği halde köylüsüymüş gibi entry giren aptallar ordusu
 bkz kamalcıların adımı zülfü ve beni solcu sanması komedisi asdasdasdasdasdasda
 bkz hala adıma başlık açılmamaış demek ki hala doğru yoladım
