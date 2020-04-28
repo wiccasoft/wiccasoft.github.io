@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz türklerdeki faşizm ve apttalık geni sen şusun hayır o değilim sen kullanışlı aptalsın sadece
 bkz kim olduğumu bilmediği halde köylüsüymüş gibi entry giren aptallar ordusu
 bkz kamalcıların adımı zülfü ve beni solcu sanması komedisi asdasdasdasdasdasda
 bkz hala adıma başlık açılmamaış demek ki hala doğru yoladım
