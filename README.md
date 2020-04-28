@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz 2001 li sözlük ergeni 1978 dayı ilişkisi
+bkz 20001 li oğlanların tontiş popoları
+bkz 20001 li sözlük ergeni 1978 dayı ilişkisi
 https://www.uludagsozluk.com/k/2001li-erkekler/&w=bg bkz 13. nesil fındık götlü ergenler
 bkz ali erbaşın yarramın başını yersiniz demesi
 bkz grup yorum bateristinin ggruptan ayrılması
