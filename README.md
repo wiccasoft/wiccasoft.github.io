@@ -1,18 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz atacücü ismetinöcü gölgesinde kaldı yalanına cevaplar
+bkz atacücü ismet inöcü gölgesinde kaldı yalanına cevaplar
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-kurtulu%C5%9F-sava%C5%9F%C4%B1na-iftiralara-cevaplar/
-bkz çeçen müvahitlerin trumpın kızını kaçırıp cihat ilan etmesi
-bkz daha tüyleri çıkmamış ergen götünün heyecanlandırması
-bkz 2001 li oğlanlara baba şefkatiyle yaklaşmak
-bkz şaka maka 2001 oğlanların kalkmışı indirmesi
-bkz 20001 li sözlük ergeni 1978 dayı ilişkisi
 https://www.uludagsozluk.com/k/2001li-erkekler/&w=bg bkz 13. nesil fındık götlü ergenler
-bkz ali erbaşın yarramın başını yersiniz demesi
-bkz grup yorum bateristinin ggruptan ayrılması
-bkz cem garipoğlunun bu yaz mayorkadayım demesi
-bkz rte nini sikin birbiriniz göte para vermeyin demesi
 https://www.uludagsozluk.com/k/rte-nin-e%C5%9Fcinsel-haklar%C4%B1n%C4%B1-savunmas%C4%B1/
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg bkz şeker gibi oğlandı yazık oldu
 https://www.uludagsozluk.com/k/kadir-%C5%9Fekerin-covid19-testinin-p-%C3%A7%C4%B1kmas%C4%B1/
