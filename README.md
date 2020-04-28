@@ -4,6 +4,7 @@
 
 <!-- 
 bkz enes batur vs uludaki ergenler
+bkz uludaki ergenlere dondurma ısmarlayıp hadi merve ablanlnalar aşaığda oynayın demek
 bkz 10 yaşındaki yeğeni ekşicilerle ulucularla kumda türkçülük oynasın diye aşağı yollamak
 https://www.uludagsozluk.com/k/k%C3%BCrts%C3%BCz-ve-araps%C4%B1z-bir-t%C3%BCrkiye/&w=bg bkz dünya lideri -->
 
