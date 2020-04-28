@@ -2,7 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- https://eksisozluk.com/100-bin-kere-enes-batur-diyen-youtuber--6495324?a=popular enes abi anamı sik abi -->
+<!--
+https://www.uludagsozluk.com/k/din-afyondur/ bkz afyonlu gay taş fırın ustaları
+https://eksisozluk.com/100-bin-kere-enes-batur-diyen-youtuber--6495324?a=popular enes abi anamı sik abi -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
