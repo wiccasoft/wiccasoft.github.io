@@ -3,6 +3,9 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz atacücücnün diyaneti kurma sebebi
+bkz diyanet ezan çalıştayını dağıtıp güneye yerleşmek
+https://www.uludagsozluk.com/k/ali-erba%C5%9F-kimdir/
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ bkz murat övüç
 https://www.uludagsozluk.com/k/seyit-r%C4%B1za-n%C4%B1n-soyunu-sikmek/ bkz soyunu sopunu sikertmek
 https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-k%C4%B1z/ bkz nil karaibrahimgil
