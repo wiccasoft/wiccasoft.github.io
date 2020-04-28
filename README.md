@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg bkz orhan pamuk
 bkz deep webteki eşcinsellerin herkesi kendi gibi sanması
 bkz deep afyonlu kamalcı sörfayfor web'e girince düşen zeka zeviyesi
 bkz atacücü ismet inöcü gölgesinde kaldı yalanına cevaplar
