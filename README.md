@@ -2,7 +2,9 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrts%C3%BCz-ve-araps%C4%B1z-bir-t%C3%BCrkiye/&w=bg bkz dünya lideri -->
+<!-- 
+bkz 10 yaşındaki yeğeni ekşicilerle ıulucularla kumda oynasın diye aşağı yollamak
+https://www.uludagsozluk.com/k/k%C3%BCrts%C3%BCz-ve-araps%C4%B1z-bir-t%C3%BCrkiye/&w=bg bkz dünya lideri -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
