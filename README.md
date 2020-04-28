@@ -5,14 +5,8 @@ https://www.uludagsozluk.com/k/napoleon-bonaparte/&w=bg bkz top
 https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz ağır top
 https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/ o adam vurduruyo kankağ boşver
 https://www.uludagsozluk.com/k/din-afyondur/ bkz afyonlu katolik gay taşfırın ustaları
-https://www.uludagsozluk.com/k/rusya-dan-ambulans-u%C3%A7akla-getirilen-t%C3%BCrk-genci/ bkz adam gibi agenç
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ adasdasdasdasdaasdsadasdasdasd
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-baban%C4%B1n-gay-o%C4%9Flu-olmak/
-https://www.uludagsozluk.com/k/fatih-mehmet-ma%C3%A7o%C4%9Flu-nun-seyit-r%C4%B1za-sevgisi/
-https://www.uludagsozluk.com/k/isve%C3%A7-in-isve%C3%A7-ten-u%C3%A7akla-gelen-ki%C5%9Fiye-dava-a%C3%A7mas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/izmir-mar%C5%9F%C4%B1n%C4%B1-duyunca-gelen-mide-bulant%C4%B1s%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/10-liral%C4%B1k-kitaba-2500-lira-veren-e%C4%9Fitimli-kitle/&w=gd
-https://www.uludagsozluk.com/k/mine-tugay-plastic-surgery/&w=gd
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
