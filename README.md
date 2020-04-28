@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kaan boşnak vs kadir şeker
 bkz nereye gidersin şekeroğlan sana giderim aykız sana giderim balgız
 bkz kız seni yerler seni ham yapar bu ibneler
 bkz kadir şekeri yedirmeyiz
