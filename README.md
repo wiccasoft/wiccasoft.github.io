@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg çok büyük adam çok
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-diyarbak%C4%B1rl%C4%B1-olmas%C4%B1/ bkz malum ırk
 https://www.uludagsozluk.com/k/bayans%C4%B1-erkek/&w=bg bkz taksimin renkli siması cenk
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adam çok 
