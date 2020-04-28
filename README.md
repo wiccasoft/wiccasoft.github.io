@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-bkz isveçin isveçten uçakla dornaz alfa getiren kara borsacıya  fdava açması
+bkz ercünün dornaz alfayı türk gençliğine armapan etmesi
+bkz isveçin isveçten uçakla dornaz alfa getiren kara borsacıya dava açması
 https://www.uludagsozluk.com/k/isve%C3%A7-in-isve%C3%A7-ten-u%C3%A7akla-gelen-ki%C5%9Fiye-dava-a%C3%A7mas%C4%B1/
 https://www.pinterest.com/wiccasoft/pins/
 bkz zülfü livanelinin güneş toğlayın beniğğğğğ için demesi
