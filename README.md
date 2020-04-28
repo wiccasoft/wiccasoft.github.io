@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz grup vitamin ismail vs grup yorum bateristi cemil
 https://www.uludagsozluk.com/k/grup-yorum/&w=bg bkz ölüp ölüp bitmeyen grup
 https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg bkz sakat eleman kankağ
 https://www.uludagsozluk.com/k/din-afyondur/ bkz afyonlu katolik gay taşfırın ustaları
