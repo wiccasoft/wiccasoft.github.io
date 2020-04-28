@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz adımı zülfü sanan ergen eşcinsel
 bkz hala adıma başlık açamayan sinirli ergen eşcinsel
 bkz dep webteki gaylerin herkesi kendi gibi sanması
 bkz deep afyonlu kamalcı sörfayfor web'e girince düşen zeka zeviyesi
