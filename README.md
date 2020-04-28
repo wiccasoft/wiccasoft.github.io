@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu-nun-%C3%B6ld%C3%BC%C4%9F%C3%BCne-inanmamak/&w=bg -->
+<!-- 
+https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu-nun-%C3%B6ld%C3%BC%C4%9F%C3%BCne-inanmamak/&w=bg 
+https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1ktan-sonra-yatmak/&w=bg
+-->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
