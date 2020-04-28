@@ -12,6 +12,8 @@ https://www.uludagsozluk.com/k/her-gece-onun-foto%C4%9Fraf%C4%B1na-bakt%C4%B1kta
 https://www.uludagsozluk.com/k/survivor-yasin/ bkz yavşak yasin
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/ bkz gevşek yunus
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-premium-%C3%BCyelik/&w=bg bkz preimum ibnelik
+https://www.uludagsozluk.com/k/trabzonlu-vs-adanal%C4%B1/ bkz adamın adamantuyumlu hali vs top
+https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz top 
 -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
