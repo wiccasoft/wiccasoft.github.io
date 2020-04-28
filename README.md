@@ -2,25 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!--
-bkz kamalcıların atacücü ezikliği
-bkz 10 yaşındaki yiğeni kumda ekşcilerle oynasın diye aşağı salmak
-bkz benim lideyim şenin lideyinin dövey diyen ekşici
-bkz dayak yiyen ekşicinin enes abisini çağırması
-bkz kamalcıların dayak yememek için heykelin arkasına saklanması
-bkz kamalcıların atacücnünü küçük pipili olmasını kabul edememesi
-bkz kamalcıların atacücü heykellerinin pipisini örtmesi
-bkz atacücünün pipisi cücük gibiydi iddaları sorundalı
-bkz apoyu cimere şikayet ediyoruz kampanyası
-bkz aponun elini kolunu sallaya sallaya internette gezinmesi
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet/&w=bg çok büyük adam çok
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-diyarbak%C4%B1rl%C4%B1-olmas%C4%B1/ bkz malum ırk
-https://www.uludagsozluk.com/k/bayans%C4%B1-erkek/&w=bg bkz taksimin renkli siması cenk
-https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adam çok 
-https://www.uludagsozluk.com en büyük lider atacücü abi anamı siksin gıkımı çıkarmama be abi
-https://www.uludagsozluk.com/k/din-afyondur/ bkz afyonlu gay taş fırın ustaları
-https://eksisozluk.com/100-bin-kere-enes-batur-diyen-youtuber--6495324?a=popular enes abi anamı sik abi -->
-
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
