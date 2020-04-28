@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- https://www.uludagsozluk.com/k/mustafa-kemal-in-alkole-verdi%C4%9Fi-para/&w=bg bkz her gece 1 litre rakı -->
+<!--
+https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg bkz lalegültv hesabımızı takip edin
+https://www.uludagsozluk.com/k/mustafa-kemal-in-alkole-verdi%C4%9Fi-para/&w=bg bkz her gece 1 litre rakı -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
