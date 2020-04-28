@@ -2,6 +2,7 @@
 
 <!--
 bkz sarışın mavi gözlü arap erkekleri
+bkz zülfü nün saz çalmayı bıraktım demesi
 https://www.uludagsozluk.com/k/hz-ibrahim/&w=bg bkz arap kökenkli sunni aileden gelen erkek
 bkz zülfünün güneç toğla beniğ için demesi
 https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg bkz orhan pamuk
