@@ -1,6 +1,6 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-<!-- bkz cübbeli ahmet hoca vs cübbesiz mustafa kemal paşa -->
+<!-- https://www.uludagsozluk.com/k/mustafa-kemal-in-alkole-verdi%C4%9Fi-para/&w=bg bkz her gece 1 litre rakı -->
 
 [![Image](prototype/Screenshot_2020-04-20_21-51-06.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 
