@@ -5,7 +5,7 @@ bkz türklerin neden bu kadar aptal olması
 bkz isveçten özel uçakla dornaz alfa getirtmek
 bkz 1881 atacücü 18+81 = 99 - 81 - bartmna =covid19 + ercü61 = dornaz alfa
 https://www.uludagsozluk.com/k/survivor-yasin/ bkz yasin the hunter
-https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/ cumhuriyetin bekçicileri
+https://www.uludagsozluk.com/k/bek%C3%A7ilerin-yeni-%C3%BCnvan%C4%B1/ cumhuriyetin bekçicileri ulucular
 https://www.uludagsozluk.com/k/isve%C3%A7-ten-t%C3%BCrkiye-ye-%C3%B6zel-u%C3%A7akla-getirilen-hasta/ adfasdfasdasdas
 https://www.uludagsozluk.com/k/survivor-2020-sercan/ adfasdasdasdsadsad asdasd as
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1rsaklar%C4%B1ndan-dildo-%C3%A7%C4%B1kan-hasta/ asd asdadas
