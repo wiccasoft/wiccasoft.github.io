@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz m kemlain her gece bir litre rakıya harcadığı parar
 bkz m kemalin am sikmeye harcadığı para
 bkz atacücünün saranova yatını satması
 bkz maçoğlanın maçları protesto etmesi
