@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz bahçelinin seyit rıza oç değildi demesi
+bkz maçoğlanın seyit rıza oçydi paylaşımı
 https://www.uludagsozluk.com/k/mal-birini-sevmek/ bkz hayallerde yaşıyor bazı ibneler
 bkz kamalcıların sünni arap aileden geldiğim idda etmeleri
 bkz kamalcıların sözde osmanlı torunu olduğumu idda etmeleri
