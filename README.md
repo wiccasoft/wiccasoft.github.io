@@ -1,8 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
-https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg bkz arap kökenli sünni aileden gelen oç
 bkz rte nin yiyin birbirinizi ete para vermeyin demesi
+https://www.uludagsozluk.com/k/z%C3%BClf%C3%BC-livaneli/&w=bg bkz arap kökenli sünni aileden gelen oç
 https://www.uludagsozluk.com/k/hz-ibrahim/&w=bg bkz arap kökenli sunni aileden gelen yahudi
 bkz deep webteki eşcinsellerin herkesi kendi gibi sanması
 bkz deep afyonlu kamalcı sörfayfor web'e girince düşen zeka zeviyesi
