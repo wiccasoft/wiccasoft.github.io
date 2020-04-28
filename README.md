@@ -2,6 +2,7 @@
 
 <!--
 bkz grup yorumun  dağalara gel dağalara yorumu
+bkz geup yorum bateristinni ölüm orucuna başlaması
 https://www.uludagsozluk.com/k/grup-yorum/&w=bg bkz dünyanın en gereksiz ve ezik grubu
 bkz kaan boşnak vs kadir şeker
 bkz 90 dan sonra doğan oğlanların çocuğunun gay olması
