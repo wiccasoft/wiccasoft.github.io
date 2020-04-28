@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+bkz kadir şekeri yedirmeyiz
+bkz bütün iyi erkekleri yediniz kadir şekeri yediremeyiz
 bkz kadir şeker yalnız değildir
 bkz grup yorumun tek kişi kalması
 bkz eli erbaşın başını alırsınız demesi
