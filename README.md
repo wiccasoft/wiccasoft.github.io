@@ -3,7 +3,8 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz kamalcıalrın atacücnünü küçük pipili olmasını kabul edememesi
+bkz kamalcıların atacücü ezikliği
+bkz kamalcıların atacücnünü küçük pipili olmasını kabul edememesi
 bkz kamalcıların atacücü heykellerinin pipisini örtmesi
 bkz atacücünün pipisi cücük gibiydi iddaları sorundalı
 bkz apoyu cimere şikayet ediyoruz kampanyası
