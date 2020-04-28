@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 <!--
+https://www.uludagsozluk.com/k/napoleon-bonaparte/&w=bg bkz top
+https://www.uludagsozluk.com/k/evde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkek/ bkz ağır top
 https://www.uludagsozluk.com/k/bu-adam-ibnemi-sorunsal%C4%B1/ o adam vurduruyo kankağ boşver yaramaz sanağğ
 https://www.uludagsozluk.com/k/rusya-dan-ambulans-u%C3%A7akla-getirilen-t%C3%BCrk-genci/ bkz adam gibi agenç
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ adasdasdasdasdaasdsadasdasdasd
