@@ -1,6 +1,8 @@
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCrk-%C3%BCn-son-ba%C5%9Fbu%C4%9Fu/&w=gd
 https://www.uludagsozluk.com/k/akp-gitsin-de-ne-olursa-olsun-kafas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/tayyip-gitse-f-tezcan-gelse-eyvallah-diyecek-kitle/ 
+https://www.uludagsozluk.com/k/t%C3%BCrk-erke%C4%9Fine-giyim-ku%C5%9Fam-tavsiyeleri/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
