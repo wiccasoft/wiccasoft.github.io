@@ -1,7 +1,11 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- bkz 1 mayıs 2019 bilal erdoğana suikast girişimi iddaları -->
+<!-- bkz 1 mayıs 2019 bilal erdoğana suikast girişimi iddaları 
+https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-%C4%B1n-araplarla-petrus-%C5%9Farap-i%C3%A7mesi/&w=bg
+bkz bilali verdiniz sümeyye yi kaptırdınız
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/ bkz yaşayan öz türk 
+-->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
