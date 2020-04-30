@@ -4,8 +4,6 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz zulüm 1071 de başladı
-bkz kürtlerin 5000 yıllık tarihini yok sayan malum ırk
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/pardon-b%C3%B6l%C3%BCyorum-ama-diyen-k%C3%BCrt/&w=bg 
 https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg adamın ham maddesi
