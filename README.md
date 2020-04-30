@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/ingilizlerin-tam-bir-winner-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ he şunu bileydin koçum
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz badeci imam
+bkz beni ali erbaş yalnızlığında bırakmayın lan orospular diyen dayı
 bkz ali erbaşı yalatmam şokomel dökün beni yalayın diyen tekelci dayı
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=gd
 https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg 
