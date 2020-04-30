@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz ilber ortaylı vs maymun götü
 bkz fatih portakal vs maymun götü
 bkz celal çengör vs maymun götü
 https://www.uludagsozluk.com/k/pardon-b%C3%B6l%C3%BCyorum-ama-diyen-k%C3%BCrt/&w=bg 
