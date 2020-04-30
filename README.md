@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz şokomelli işler bakanlığından beyin kanartan şokomel açıklması
 bkz beyin kanartan aleyna tilki iddası
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/ bkz badeci imam
 https://www.uludagsozluk.com/k/og%C3%BCn-samast-%C4%B1n-aptal-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ adam aptal beyler -->
