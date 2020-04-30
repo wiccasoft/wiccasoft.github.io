@@ -2,9 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
-bkz yaşa nuri öztürk türkler islamı iyi ki kabul etti açıklaması
+bkz yaşa nuri öztürk türkler islamı iyi ki kabul etti açıklaması iddası sorundalı
 bkz yaşar nuri öztürk islamın şartı 5 tir iddası sorundalı açıklamsı
-bkz yaşar nuri öztürk makata su kaçıran türk değildir iddası
 bkz fatih tezcan atacücü diyaneti cücüler için kurdu iddası
 bkz yaşar nuri öztürk yaşayan öz türk mü sorundalı
 https://www.uludagsozluk.com/k/jet-li-son-hali/ yaşlanmış amk maymunu
