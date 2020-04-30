@@ -1,7 +1,11 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
-<!-- https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz türk oğlu türk -->
+<!-- 
+https://www.uludagsozluk.com/k/devler-gelir-gider-tek-dev-kal%C4%B1r-sedat-peker/&w=bg bkz kral
+https://www.uludagsozluk.com/k/burak-özçivit-in-evindeki-televizyon/ bkz son kaanın tvsi
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz türk oğlu türk
+-->
 
 [![Image](prototype/Screenshot_2020-04-29_18-34-33.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY  )
 
