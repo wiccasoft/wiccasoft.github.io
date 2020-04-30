@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-29_09-21-21.png)]( https://www.youtube.com/watch?v=t6dWBcygJOo )
 
-<!-- https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/ -->
+<!-- https://www.uludagsozluk.com/k/devler-gelir-gider-tek-dev-kal%C4%B1r-sedat-peker/&w=bg
+https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/ 
+-->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
