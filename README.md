@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz messinin suarezle olan uyumu
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz messi siker aga
 https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz oç
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz en overrated abiii
