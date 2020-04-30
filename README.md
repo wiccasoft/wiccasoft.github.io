@@ -9,6 +9,7 @@
 <!-- 
 bkz ali erbaşı yedirmeyiz
 bkz aşi erbaşın yarramın başını yersiniz çıkışı
+bkz damadı yedirmem beni yiyin diyen tekelci
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg
 bkz özgür özel vs şempanze götü
 bkz ülkücü vs şempanze beyni
