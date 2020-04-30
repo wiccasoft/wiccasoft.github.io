@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/ekrem-imamoğlu/&w=bg bkz amınoğu ekrem
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavaş oç
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavaş saçın başın dağılmasın oç
 bkz yaşar nuri öztürk türkler islamı eyi yaşiyler eyi demesi
 bkz yaşar nuri öztürk türkler islamı iyi ki kabul etti açıklaması iddası sorundalı
 bkz yaşar nuri öztürk islamın şartı 5 tir iddası sorundalı açıklamsı
