@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz fatih portakal vs maymun götü
 https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg adamın ham maddesi
 https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-ve-celal-%C5%9Feng%C3%B6r/&w=bg bkz adam vs cücük
 https://www.uludagsozluk.com/k/adanal%C4%B1-vs-samsunlu/&w=gd bkz adamın ham maddesi vs cücük
