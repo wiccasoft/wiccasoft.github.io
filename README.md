@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+https://www.uludagsozluk.com/k/ismail-hakk%C4%B1-efendi/&w=bg bkz adamın hammaddesi
 bkz ata demirer vs minnak filozf atacan
 https://www.uludagsozluk.com/k/ata-demirer/&w=bg
 bkz fatih portakal vs maymun götü
