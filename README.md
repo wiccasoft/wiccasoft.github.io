@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz taşşaklarına beton döksen yetmez
 bkz tayyip anamın üstünde yakalanda orospuluk anamdadır diyen tekelci dayı
 https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg
 https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/
