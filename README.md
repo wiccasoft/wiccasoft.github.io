@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz inciliz derin devletinni öldürdüğü kürt
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz inciliz derin devletinin siklemediği kürt
 bkz minnak damad beratı yalatmam üstüme şokomel dökün beni yalayın diyen tekelci dayı
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz turgut özalı hangi güç odakları neden öldürdü
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz sapık ayol
