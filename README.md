@@ -1,25 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- 
-bkz şokomelli işler daire başkanlığına 10 paket şokomel gönderen firma
-bkz devlet bahçeliye suikast sorundalı söylentileri iddası
-bkz fatih tezcan beyin kanartan atacücü cücüktü iddası
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz inciliz derin devletinin siklemediği kürt
-bkz minnak damad beratı yalatmam üstüme şokomel dökün beni yalayın diyen tekelci dayı
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz turgut özalı hangi güç odakları neden öldürdü
-https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz sapık ayol
-https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/ bkz yedirmeyiz
-https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz badeci imam
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz göt çeneli politikacılar
-bkz erodğanı kaçırıp fidye istemek isteyen kara güç odakları
-https://www.uludagsozluk.com/k/12-eyl%C3%BCl-2005-te-ya%C5%9Fanan-rte-ye-suikast-giri%C5%9Fimi/
-bkz 1 mayıs 2019 bilal erdoğana suikast girişimi iddaları 
-https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-%C4%B1n-araplarla-petrus-%C5%9Farap-i%C3%A7mesi/&w=bg
-bkz bilali verdiniz sümeyye yi kaptırdınız
-https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/ bkz yaşayan öz türk 
--->
-
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
