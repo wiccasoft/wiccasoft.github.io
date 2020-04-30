@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz atacücü diyaneti cücüler için kurdu iddası
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bkz yaşayan  öz türk
 bkz devlet bahçelini ifşa tapesi düştü iddaları sorundalı
 bkz şokomelli işler bakanlığından beyin kanartan şokomel açıklması
