@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz bilal erdoğanın beynimin yüzde yüzünü kullansam yandınız demesi
 bkz beyin kanartan cücüler çok zeki iddaları
 bkz fatih tezcan ataücü cücük gibi değildi iddası
 bkz yaşar nuri öztürkten rüku 5 rekat iddası açıklaması
