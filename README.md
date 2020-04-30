@@ -7,7 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz fahreddin kocanın şeye benzemesi
+bkz fahreddin kocanın şeye benzemesi siz nasıl diyor bakkal
 bkz fahreddin kocayı yedirmeyiz oçları 
 bkz fahreddin koca yalnız deildir
 bkz aşil erbaşı yedirmeyiz
