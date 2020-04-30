@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz burak özçivit vs burak erdoğan
 bkz messinin suarezle olan uyumu
 bkz tutuğumu sikerim diyen bakkal
 bkz gerekir berat albyaraka şokomelli karı yolların sorun değil diyen bakkal
