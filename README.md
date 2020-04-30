@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz badeci imam
 bkz arda turan vs arda kıral
 bkz neşet ertaş dinlemeyenlerin oç olması
 bkz selda bağcan neşet ertaş düeti
