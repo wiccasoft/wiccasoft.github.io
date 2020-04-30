@@ -8,6 +8,7 @@
 
 <!-- 
 bkz messinin suarezle olan uyumu
+bkz gerekir berat albyaraka şokomelli karı yolların sorun değil diyen bakkal
 bkz tayyip için gerekirse göt siktiririm tayyibi siktirmem diyen dayı
 bkz tayyip anamın üstünde ykalansa orospuluk anamdadır diyen tekelci
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz köpekleri kudurtan reis
