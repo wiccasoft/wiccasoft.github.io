@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/adanal%C4%B1-vs-samsunlu/ bkz adamın hammaddesi vs cücük
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/ lol
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/p%C4%B1nar-altu%C4%9F-ve-ya%C4%9Fmur-atacan-a%C5%9Fk%C4%B1/ lol
