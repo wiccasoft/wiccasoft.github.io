@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
-bkz gecey adam gibi adam bırak
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özü türk soyu türk
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz adamın hammaddlerinin yazdığı sözlük
 https://www.uludagsozluk.com/k/%C3%B6zg%C3%BCr-%C3%B6zel/&w=bg bkz adamın özel harmanlanmış hali
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz yaşayan öz türk
