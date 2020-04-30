@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+bkz mansur yavaşa  duygusal entrty girerken babanın odaya girmesi
 bkz organize işler sean connery benzetmesi
 bkz hoşlaşılan devlet adamını 3 kelimeyle anlat
 bkz ben senin bokunu yerim lan bokunu diyen kız
