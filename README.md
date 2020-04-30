@@ -7,8 +7,8 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz ali erbaşı yedirmeyiz
-bkz aşi erbaşın yarramın başını yersiniz çıkışı
+bkz aşil erbaşı yedirmeyiz
+bkz aşil erbaşın yarramın başını yersiniz çıkışı
 https://www.uludagsozluk.com/k/pardon-bölüyorum-ama-diyen-kürt/&w=bg
 bkz damadı yedirmem üstümü şokomel dökün beni yalayın diyen tekelci kürt dayı
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg
