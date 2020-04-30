@@ -6,7 +6,8 @@
 
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=bg bkz fahreddin
 bkz akp nin bakkalları bakan yapması
 bkz fahreddin kocanın şeye benzemesi siz nasıl diyor bakkal
 bkz fahreddin kocayı yedirmeyiz oçları 
