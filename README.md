@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bzz yaşayan başbuğ
 https://www.uludagsozluk.com/k/devlet-bahçeli/&w=bg bkz adamın adamantuyumlu hali
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bkz yaşayan öz türk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz ataların en yücüsü
