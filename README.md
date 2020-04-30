@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+bkz adamın karekökü deyince akla gelenler sorundalı
 bkz geceye adamın hammaddesiyle yoğrulmuş bi adam bırak
 https://www.uludagsozluk.com/k/%C3%B6zg%C3%BCr-%C3%B6zel/ bkz manisamızın gururu iftiharı
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bkz öözü türk dini türk
