@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz tayyip damadın penis yüzğünü azoyla takıyor iddaları
 bkz bilal erdoğanın berata hediye ettiği penis yüzüğü
 bkz bilal erdoğanın berata yengeyi iyi sikiyon mu hacı demesi
 bkz berat albayrakın hali pazarlamanın vergi borcunu silmesi
