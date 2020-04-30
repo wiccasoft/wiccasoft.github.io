@@ -8,6 +8,7 @@
 
 <!-- 
 bkz yağmur atacan vs maymun götü
+bkz mustafa cengizin bağırsaklarından vibratör çıkması
 bkz berat alyrakın azalan marjinal fayda şokomellidir demesi
 bkz bert albayrakın borç defterin kabardı demesi
 https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/ bkz ben
