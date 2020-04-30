@@ -7,6 +7,8 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz messi siker aga
+https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz oç
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz en overrated abiii
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi siker hacıt
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz taşşaklarına beton döksen yetmez
