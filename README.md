@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=gd bkz tayyip erdoğan
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n-g%C3%B6nl%C3%BC-bende-ama-donu-ba%C5%9Fkas%C4%B1nda/&w=bg bkz emine erdoğan
 https://www.uludagsozluk.com/k/salakodaki-ka%C5%9Far-emine/ bkz emine erdoğan
 bkz emine erdoğana yardım kampanyasının ses getirmesi
