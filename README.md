@@ -4,6 +4,7 @@
 <!-- 
 bkz fatih portakal vs maymun götü
 bkz özgür özel vs şempanze götü
+bkz fatih tezcan atacücü diyaneti öztürkler için kurdu iddası
 bkz diyanet ezan çalıştayı çalışırken kk nın osura osura uyuması
 https://www.uludagsozluk.com/k/%C3%B6zg%C3%BCr-%C3%B6zel/&w=bg bkz maymun götü
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özü türk soyu türk
