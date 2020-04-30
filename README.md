@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz devlet bahçeliye şok porno tapesi tehdidi
+bkz devlet bahçelini ifşa tapesi düştü iddaları sorundalı
 bkz şokomelli işler bakanlığından beyin kanartan şokomel açıklması
 bkz beyin kanartan aleyna tilki iddası
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/ bkz badeci imam
