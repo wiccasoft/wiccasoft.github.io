@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-29_09-21-21.png)]( https://www.youtube.com/watch?v=t6dWBcygJOo )
 
 <!-- 
-bkz burak özçivit beyaz show zeybek
+bkz burak özçivit beyaz show zeybek dansı
 https://www.uludagsozluk.com/k/devler-gelir-gider-tek-dev-kal%C4%B1r-sedat-peker/&w=bg
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/ 
 -->
