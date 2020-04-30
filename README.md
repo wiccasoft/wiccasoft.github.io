@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz geceye adam bırak
 bkz ali erbaşı yedirmeyiz
 bkz sagopanın da dediğini gibi avm ler avutsun
 bkz ali erbaşın yarramın başını yersiniz demesi
