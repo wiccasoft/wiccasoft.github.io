@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz bilalin namazda rükuda domalanlar ki onalr allahın domalan kullarıdır demesi
+bkz bilalin  rükuda domalanlar ki onlar allahın domalan kullarıdır demesi
 https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg 
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz yaşayan öz türk
 bkz murat övüçün kocası olduğunu idda eden adam
