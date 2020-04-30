@@ -2,8 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
-bkz orgabize işler sean connery benzetmesi
+bkz organize işler sean connery benzetmesi
 bkz hoşlaşılan devlet adamını 3 kelimeyle anlat
+bkz ben senin bokunu yerim lan bokunu diyen kız
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz adamın harman olduğu yerden çıkan adam
 https://www.uludagsozluk.com/k/adolf-hitler/&w=bg bkz adamın ham maddesi
 bkz imamaoğluyla romantik bir akşam  vs m. yavaşla hızlı bir gece
