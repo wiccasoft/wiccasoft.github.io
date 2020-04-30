@@ -8,7 +8,7 @@
 
 <!-- 
 bkz messinin suarezle olan uyumu
-bkz tayyip için gerekirse göt siktiririm diyen dayı
+bkz tayyip için gerekirse göt siktiririm tayyibi siktirmem diyen dayı
 bkz tayyip anamın üstünde ykalansa orospuluk anamdadır diyen tekelci
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz köpekleri kudurtan reis
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz fantezi porno kategorisi
