@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-ve-celal-%C5%9Feng%C3%B6r/&w=bg bk adam vs cücük
 https://www.uludagsozluk.com/k/adanal%C4%B1-vs-samsunlu/&w=gd bkz adamın ham maddesi vs cücük
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/fatih-portakal/ bkz adamın ham maddesi
