@@ -8,6 +8,7 @@
 
 <!--
 bkz fahreddin koca yalnız değildir
+bkz fahreddin kocanın tır şöförlerine benzemesi
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg 
 https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=bg bkz fahreddin
 bkz akp nin bakkalları bakan yapması
