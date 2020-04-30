@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!--
+bkz yaşar nuri öztürkün makat su kaçarsa abdest bozulur iddası
 bkz fatih tezcanın atacücü cücüktü iddası 
 bkz demet evgarın demet akalınını tweetini retweetlemesi
 bkz fahreddin hoca funny guy from anadolu
