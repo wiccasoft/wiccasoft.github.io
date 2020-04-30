@@ -8,6 +8,8 @@
 
 <!-- 
 bkz yağmur atacan vs maymun götü
+bkz bert albayraktan bakkalara kredi müjdesi
+https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/ bkz ben
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg adamın devletle güçlendirilmiş hali
 https://www.uludagsozluk.com/k/özgür-özel/&w=bgbkz adamın özgürlüğünü tamlayan özel hali
 https://www.uludagsozluk.com/k/iv-murad/&w=bg bkz adamın adamla 4 kere yoğrulmuş hali
