@@ -7,6 +7,8 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz ali erbaşı yedirmeyiz
+https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=bg
 bkz özgür özel vs şempanze götü
 bkz ülkücü vs şempanze beyni
 bkz e devletten soy soygularken ermeni ve devlete borcu olduğunu öğrenen ülkücünün dramı
