@@ -8,7 +8,8 @@
 
 <!-- 
 bkz yağmur atacan vs maymun götü
-http://adilapapaya.com/docs/shelljs/ bkz adamın özgürlüğünü tamlayan özel hali
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg adamın devletle güçlendirilmiş hali
+https://www.uludagsozluk.com/k/özgür-özel/&w=bgbkz adamın özgürlüğünü tamlayan özel hali
 https://www.uludagsozluk.com/k/iv-murad/&w=bg bkz adamın adamla 4 kere yoğrulmuş hali
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/pardon-b%C3%B6l%C3%BCyorum-ama-diyen-k%C3%BCrt/&w=bg 
