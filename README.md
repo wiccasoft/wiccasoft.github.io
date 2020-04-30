@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ali erbaşı yedirmeyiz
+bkz ali erbaşı yalatmam şokomel dökün beni yalayın diyen tekelci dayı
 bkz yaşar nuri öztürkün atatürk diyaneti türkler için kurdu iddası
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=gd
 https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg 
