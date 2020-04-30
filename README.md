@@ -4,16 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/ingilizlerin-tam-bir-winner-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ he şunu bileydin koçum
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz badeci imam
-bkz arda turan vs arda kıral
-bkz neşet ertaş dinlemeyenlerin oç olması
-bkz selda bağcan neşet ertaş düeti
-bkz yılmaz morgül ün yılmaz güneye top demesi
-bkz selda bağcan neşet ertaş i tatlıses doyuluğ mu remiz
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg bkz geceye adam bırak
-bkz ali erbaşı yedirmeyiz
-bkz sagopanın da dediğini gibi avm ler avutsun
-bkz ali erbaşın yarramın başını yersiniz demesi
-bkz beni ali erbaş yalnızlığında bırakmayan lan orospular diyen teleci dayı
+bkz beni ali erbaş yalnızlığında bırakmayan lan orospular diyen tekelci dayı
 bkz ali erbaşı yalatmam şokomel dökün beni yalayın diyen tekelci dayı
 bkz yaşar nuri öztürkün atatürk diyaneti türkler için kurdu iddası
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=gd
