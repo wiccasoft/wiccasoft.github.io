@@ -74,27 +74,8 @@ https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz pornocu vs futbolun tanr�
 https://www.uludagsozluk.com/k/amedliyim-diyen-k%C4%B1z/ bkz oç 
 https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz oç
 bkz  ben senin türk bokunu yerim diyen amedli kız
-https://www.uludagsozluk.com/k/amedliyim-diyen-k%C4%B1z/ boş yapma kankağğğğğğğğ türkçüyük adana01
+https://www.uludagsozluk.com/k/amedliyim-diyen-k%C4%B1z/ bkz boş yapma kankağğğğğğğğ
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz porno yıldızı vs futbolun tanrısı
-bkz bilalin baişkocum paraları sıfırladım ok atıcam para yolls demesi
-bkz tayyip 74 yaşındaki anamın üstünden yakalansa orospuluk anamdadır diyen tekelci
-bkz tayyibin damada mala iyi vuruyon mu demesi
-bkz mustafa cengizin bağırsaklarından çıkan vibratörün sarı kırmızı olması
-bkz beratın keynesgen bir ekonomi politkası izleyecez açıklaması
-bkz beratın şokommelli açıklamalrını iplemeyen bakkal
-bkz tayyip damadın penis yüzğünü azoyla takıyor iddaları
-bkz bilal erdoğanın berata hediye ettiği penis yüzüğü
-bkz bilal erdoğanın berata yengeyi iyi sikiyon mu hacı demesi
-bkz berat albayrakın hali pazarlamanın vergi borcunu silmesi
-bkz berat albyarakın bakkal defterini yırtması
-bkz berat albayrak vs maymun götü
-bkz yağmur atacan vs maymun götü
-bkz bilal erdoğan vs maymun götü
-bkz mustafa cengizin bağırsaklarından vibratör çıkması
-bkz berat alyrakın azalan marjinal fayda şokomellidir demesi
-bkz bert albayrakın borç defterin kabardı demesi
-bkz bilalin kalifiye okçu olduğu söylentileri
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-kalifiye-bir-ok%C3%A7u-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/ bkz ben
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg adamın devletle güçlendirilmiş hali
