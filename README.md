@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
-bkz damada yalatmam şokomel dökün beni yalayın diyen tekelci datı
+bkz damadı yalatmam şokomel dökün beni yalayın diyen tekelci datı
 bkz adam deyince ağızda kekremsi tad bırakan adamlar
 bkz adamın karekökü deyince akla gelenler sorundalı
 bkz geceye adamın hammaddesiyle yoğrulmuş bi adam bırak
