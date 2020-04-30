@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!--
+bkz yaşar nuri öztürkün sela okuması
 bkz yaşar nuri öztürkün öztürkler namaz kılır iddası
 bkz yaşar nuri öztürkün cuma namazı 3 rekat iddası
 bkz yaşar nuri öztürkün makat su kaçarsa abdest bozulur iddası
