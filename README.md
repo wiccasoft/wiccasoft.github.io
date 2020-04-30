@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz pornocu vs futbolun tanrısı
 https://www.uludagsozluk.com/k/amedliyim-diyen-k%C4%B1z/ bkz oç 
 https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz oç
 bkz  ben senin türk bokunu yerim diyen amedli kız
