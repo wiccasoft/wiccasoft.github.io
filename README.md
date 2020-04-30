@@ -7,6 +7,8 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz dvlet bahçelnini adını kullanarak prim kasan tekelci
+https://www.uludagsozluk.com/k/devletin-ad%C4%B1n%C4%B1-kullanarak-insanlar%C4%B1-doland%C4%B1rmak/
 bkz sevdiceğin kahvaltı hazırlayan erkek
 bkz sevdiceğinin rimelini yalayıp zehirlenen erkek
 bkz sevdiceğinin rujunun tadına bakıp rimelini yalayan erkek
