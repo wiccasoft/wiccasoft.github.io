@@ -7,7 +7,8 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz mustafa cengizi bağırsaklarından çıkan vibratörün sarı kırmızı olması
+bkz tayyibin damada mala iyi vuruyon mu demesi
+bkz mustafa cengizin bağırsaklarından çıkan vibratörün sarı kırmızı olması
 bkz beratın keynesgen bir ekonomi politkası izleyecez açıklaması
 bkz beratın şokommelli açıklamalrını iplemeyen bakkal
 bkz tayyip damadın penis yüzğünü azoyla takıyor iddaları
