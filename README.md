@@ -5,6 +5,8 @@
 
 <!-- 
 bkz fatih portakal vs maymun götü
+https://www.uludagsozluk.com/k/pardon-b%C3%B6l%C3%BCyorum-ama-diyen-k%C3%BCrt/&w=bg 
+https://www.uludagsozluk.com/k/k%C4%B1z-zannedilen-yazar%C4%B1n-bildi%C4%9Fin-day%C4%B1-%C3%A7%C4%B1kmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg adamın ham maddesi
 https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1-ve-celal-%C5%9Feng%C3%B6r/&w=bg bkz adam vs cücük
 https://www.uludagsozluk.com/k/adanal%C4%B1-vs-samsunlu/&w=gd bkz adamın ham maddesi vs cücük
