@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+https://www.uludagsozluk.com/k/jet-li-son-hali/ yaşlanmış amk maymunu
 bkz damadı yalatmam şokomel dökün beni yalayın diyen tekelci datı
 bkz adam deyince ağızda kekremsi tad bırakan adamlar
 bkz adamın karekökü deyince akla gelenler sorundalı
