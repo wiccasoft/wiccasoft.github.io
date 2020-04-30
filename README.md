@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz şokomelli işler daire başkanlığına 10 paket şokomel gönderen firma
 bkz devlet bahçeliye suikast sorundalı söylentileri iddası
 bkz fatih tezcan beyin kanartan atacücü cücüktü iddası
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz inciliz derin devletinin siklemediği kürt
