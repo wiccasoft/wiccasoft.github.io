@@ -9,6 +9,7 @@
 <!-- 
 bkz aşil erbaşı yedirmeyiz
 bkz özgür özel vs maymun götü
+bkz fahreddin kocayı yedirmeyiz size oçları
 bkz aşil erbaşın yarramın başını yersiniz çıkışı
 https://www.uludagsozluk.com/k/pardon-bölüyorum-ama-diyen-kürt/&w=bg
 bkz damadı yedirmem üstümü şokomel dökün beni yalayın diyen tekelci kürt dayı
