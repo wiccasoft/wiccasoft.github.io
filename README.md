@@ -7,6 +7,8 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!--
+bkz ekran götüntüsünü aldim karşim mahkemede hesap verin
+https://www.uludagsozluk.com/k/milletvekilini-tehdit-eden-s%C3%B6zl%C3%BCk-%C3%A7omarlar%C4%B1/
 bkz burak özçivitin keskin bakışları
 bkz demet akalın emine nediyin kız tweeti
 bkz devlet bajçeli biz bakmiy diyen kürt
