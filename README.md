@@ -4,11 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz fatih altaylı vs maymun tarrağı
-bkz devlet bahçeli vs şempanze götü
-bkz ilber ortaylı vs maymun götü
-bkz fatih portakal vs maymun götü
-bkz celal çengör vs maymun götü
+bkz zulüm 1071 de başladı
 bkz kürtlerin 5000 yıllık tarihini yok sayan malum ırk
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/pardon-b%C3%B6l%C3%BCyorum-ama-diyen-k%C3%BCrt/&w=bg 
