@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://eksisozluk.com/kizina-metresinin-adini-koyan-baba--6497604?a=popular bkz ben
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=bg bkz cem garipoğlan -->
 
