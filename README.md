@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz murat övüçün kocası olduğunu idda eden adam
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz mankurt
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-ele%C5%9Ftirenlere-a%C3%A7-k%C3%B6pekler-demesi/
