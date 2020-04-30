@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!--
+https://www.uludagsozluk.com/k/winston-churchill/&w=bg bkz asker arakdaşım
 https://www.uludagsozluk.com/k/k%C3%B6yl%C3%BC-kurnazlar%C4%B1na-kar%C5%9F%C4%B1-yap%C4%B1lmas%C4%B1-gerekenler/ bkz şalvor emine filmindeki gülyabani taktiği
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özü türk
 bkz fahreddin koca yalnız değildir
