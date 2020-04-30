@@ -7,7 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz sevdiceğne şokomel sürüp yalayan bakkal
+bkz sevdiceğine şokomel sürüp yalayan bakkal
 bkz burak özçivit vs burak erdoğan
 bkz messinin suarezle olan uyumu
 bkz tutuğumu sikerim diyen bakkal
