@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz yağmur atacan vs maymun götü
 http://adilapapaya.com/docs/shelljs/ bkz adamın özgürlüğünü tamlayan özel hali
 https://www.uludagsozluk.com/k/iv-murad/&w=bg bkz adamın adamla 4 kere yoğrulmuş hali
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
