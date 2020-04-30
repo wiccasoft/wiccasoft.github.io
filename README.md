@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+bkz ata demirer vs minnak filozf atacan
+https://www.uludagsozluk.com/k/ata-demirer/&w=bg
 bkz fatih portakal vs maymun götü
 bkz özgür özel vs şempanze götü
 bkz fatih tezcan atacücü diyaneti öztürkler için kurdu iddası
