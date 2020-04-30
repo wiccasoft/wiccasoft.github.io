@@ -11,6 +11,8 @@ bkz yağmur atacan vs maymun götü
 bkz mustafa cengizin bağırsaklarından vibratör çıkması
 bkz berat alyrakın azalan marjinal fayda şokomellidir demesi
 bkz bert albayrakın borç defterin kabardı demesi
+bkz bilalin kalifiye okçu olduğu söylentileri
+https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-kalifiye-bir-ok%C3%A7u-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/ bkz ben
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg adamın devletle güçlendirilmiş hali
