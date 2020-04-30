@@ -9,6 +9,7 @@
 <!--
 bkz burak özçivitin keskin bakışları
 bkz demet akalın emine nediyin kız tweeti
+bkz devlet bajçeli biz bakmiy diyen kürt
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-anla%C5%9F%C4%B1lmayan-tweeti/
 bkz burak çzçivitin 55 kickass tvsi
