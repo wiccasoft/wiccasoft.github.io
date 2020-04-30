@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!--
+bkz fatih tezcan atacücü diyaneti cücüler için kurdu iddası
 bkz diyanet ezan çalıştayı çalışırken osur osura uyuyan oç aleviler
 bkz milletin vekiline çekil diyen edepsiz
 bkz ekran götüntüsünü aldim karşim mahkemede hesap verin
