@@ -1,21 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- 
-https://www.uludagsozluk.com/k/ingilizlerin-tam-bir-winner-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ he şunu bileydin 
-https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz badeci imam
-bkz beni ali erbaş yalnızlığında bırakmayın lan orospular diyen dayı
-bkz ali erbaşı yalatmam şokomel dökün beni yalayın diyen tekelci dayı
-https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=gd
-https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg 
-https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz yaşayan öz türk
-bkz murat övüçün kocası olduğunu idda eden adam
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz adam gibi adam
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz mankurt
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-ele%C5%9Ftirenlere-a%C3%A7-k%C3%B6pekler-demesi/
-https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bkz yaşayan öz türk
-https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/&w=bg bkz yavşakların marketi -->
-
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
