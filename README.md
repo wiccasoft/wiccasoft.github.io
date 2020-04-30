@@ -8,7 +8,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/salakodaki-ka%C5%9Far-emine/ bkz emine erdoğan
-https://www.uludagsozluk.com/k/lan-bana-anayasay%C4%B1-%C3%B6%C4%9Fretme/&w=bg lan ananı da al git
+https://www.uludagsozluk.com/k/lan-bana-anayasay%C4%B1-%C3%B6%C4%9Fretme/&w=bg ananı da al git lan
 https://www.uludagsozluk.com/k/salakodaki-ka%C5%9Far-emine/ bkz emine erdoğan
 https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=gd bkz tayyip erdoğan
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n-g%C3%B6nl%C3%BC-bende-ama-donu-ba%C5%9Fkas%C4%B1nda/&w=bg bkz emine erdoğan
