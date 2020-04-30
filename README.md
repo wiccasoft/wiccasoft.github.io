@@ -3,6 +3,7 @@
 
 <!-- 
 bkz fatih portakal vs maymun götü
+bkz özgür özel vs şempanze götü
 https://www.uludagsozluk.com/k/%C3%B6zg%C3%BCr-%C3%B6zel/&w=bg bkz maymun götü
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özü türk soyu türk
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz adamın hammaddlerinin yazdığı sözlük
