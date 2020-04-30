@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz liseli ülkücülerin açtığı başlıkların güldürmesi
 https://www.uludagsozluk.com/k/amedliyim-diyen-k%C4%B1z/ boş yapma kankağğğğğğğğ türkçüyük adana01
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz porno yıldızı vs futbolun tanrısı
 bkz bilalin baişkocum paraları sıfırladım ok atıcam para yolls demesi
