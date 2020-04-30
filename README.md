@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz sevdiceğinin rimelini yalayıp zehirlenen erkek
 bkz sevdiceğinin rujunun tadına bakıp rimelini yalayan erkek
 bkz sevdiceğine şokomel sürüp yalayan bakkal
 bkz burak özçivit vs burak erdoğan
