@@ -11,6 +11,7 @@ bkz yağmur atacan vs maymun götü
 bkz mustafa cengizin bağırsaklarından vibratör çıkması
 bkz berat alyrakın azalan marjinal fayda şokomellidir demesi
 bkz bert albayrakın borç defterin kabardı demesi
+https://www.uludagsozluk.com/k/sevgilisine-k%C3%B6t%C3%BC-davranan-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/ bkz ben
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg adamın devletle güçlendirilmiş hali
 https://www.uludagsozluk.com/k/özgür-özel/&w=bgbkz adamın özgürlüğünü tamlayan özel hali
