@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ali erbaşı yedirmeyiz
+bkz beni ali erbaş yalnızlığında bırakmayan lan orospular diyen teleci dayı
 bkz ali erbaşı yalatmam şokomel dökün beni yalayın diyen tekelci dayı
 bkz yaşar nuri öztürkün atatürk diyaneti türkler için kurdu iddası
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=gd
