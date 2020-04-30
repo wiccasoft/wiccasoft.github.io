@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz fahreddin koca yalnız deildir
 bkz aşil erbaşı yedirmeyiz
 bkz özgür özel vs maymun götü
 bkz fahreddin kocayı yedirmeyiz size oçları
