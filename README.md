@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ali erbaşı yedirmeyiz
+bkz sagopanın da dediğini gibi avm ler avutsun
 bkz ali erbaşın yarramın başını yersiniz demesi
 bkz beni ali erbaş yalnızlığında bırakmayan lan orospular diyen teleci dayı
 bkz ali erbaşı yalatmam şokomel dökün beni yalayın diyen tekelci dayı
