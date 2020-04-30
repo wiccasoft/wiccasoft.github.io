@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz mankurt
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-ele%C5%9Ftirenlere-a%C3%A7-k%C3%B6pekler-demesi/
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bkz yaşayan öz türk
 https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/&w=bg bkz yavşakların marketi -->
 
