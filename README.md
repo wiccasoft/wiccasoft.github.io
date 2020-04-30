@@ -7,6 +7,9 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz tayyip anamın üstünde yakalanda orospuluk anamdadır diyen tekelci dayı
+https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg
+https://www.uludagsozluk.com/k/berat-albayrak-a-te%C5%9Fekk%C3%BCr-eden-bakkal-amca/
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz pornocu vs futbolun tanrısı
 https://www.uludagsozluk.com/k/amedliyim-diyen-k%C4%B1z/ bkz oç 
 https://www.uludagsozluk.com/k/hz-isa/&w=bg bkz oç
