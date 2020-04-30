@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz emine erdoğana yardım kampanyasının ses getirmesi
 https://www.uludagsozluk.com/k/salakodaki-ka%C5%9Far-emine/ bkz emine erdoğan
 https://www.uludagsozluk.com/e/43261075/ lol
 bkz devlet bahçelnini adını kullanarak prim kasan tekelci
