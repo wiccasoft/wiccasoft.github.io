@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+https://www.uludagsozluk.com/k/adolf-hitler/&w=bg bkz adamın ham maddesi
 bkz imamaoğluyla romantik bir akşam  vs m. yavaşla hızlı bir gece
 https://www.uludagsozluk.com/k/imamoğlu-nu-gösterip-mansur-yavaş-a-ikna-etmek/
 https://www.uludagsozluk.com/k/ekrem-imamoğlu/&w=bg bkz amınoğu ekrem
