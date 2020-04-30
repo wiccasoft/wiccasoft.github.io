@@ -7,7 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz tayyip anamın üstünden yakalansa orospuluk anamdadır diyen tekelci
+bkz tayyip 74 yaşındaki anamın üstünden yakalansa orospuluk anamdadır diyen tekelci
 bkz tayyibin damada mala iyi vuruyon mu demesi
 bkz mustafa cengizin bağırsaklarından çıkan vibratörün sarı kırmızı olması
 bkz beratın keynesgen bir ekonomi politkası izleyecez açıklaması
