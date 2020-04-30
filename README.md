@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz yaşayan öz türk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz türk oğlu türk
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz özü türk
 https://www.uludagsozluk.com/k/trt-k%C3%BCrdi-de-%C5%9Femmame-s%C3%B6yleyen-siyahi-gen%C3%A7/
