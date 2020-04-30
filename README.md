@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz fatih tezcanın atacücü cücüktü iddası
+bkz fatih tezcan beyin kanartan atacücü cücüktü iddası
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz inciliz derin devletinin siklemediği kürt
 bkz minnak damad beratı yalatmam üstüme şokomel dökün beni yalayın diyen tekelci dayı
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz turgut özalı hangi güç odakları neden öldürdü
