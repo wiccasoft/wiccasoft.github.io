@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-28_07-39-53.png)]( https://www.youtube.com/watch?v=e8m9i3yKb_k  )
 
 <!-- 
+bkz imamaoğluyla romantik bir akşam  vs m. yavaşla hızlı bir gece
+https://www.uludagsozluk.com/k/imamoğlu-nu-gösterip-mansur-yavaş-a-ikna-etmek/
 https://www.uludagsozluk.com/k/ekrem-imamoğlu/&w=bg bkz amınoğu ekrem
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavaş saçın başın dağılmasın oç
 bkz yaşar nuri öztürk türkler islamı eyi yaşiyler eyi demesi
