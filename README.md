@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/mhp/&w=bg bkz kürtçü köpekleri kudurtan parti
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adamın adamantuyumla güçlendirilmiş hali
 https://www.uludagsozluk.com/k/adanal%C4%B1-vs-samsunlu/ bkz adamın hammaddesi vs cücük
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/ lol
