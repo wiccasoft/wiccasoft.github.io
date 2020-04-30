@@ -7,6 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg bkz porno yıldızı vs futbolun tanrısı
 bkz bilalin baişkocum paraları sıfırladım ok atıcam para yolls demesi
 bkz tayyip 74 yaşındaki anamın üstünden yakalansa orospuluk anamdadır diyen tekelci
 bkz tayyibin damada mala iyi vuruyon mu demesi
