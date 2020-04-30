@@ -7,7 +7,9 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!--
+bkz burak özçivitin keskin bakışları
 bkz demet akalın emine nediyin kız tweeti
+https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-evindeki-televizyon/
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-anla%C5%9F%C4%B1lmayan-tweeti/
 bkz burak çzçivitin 55 kickass tvsi
 bkz yaşar nuri öztürkün sela okuması
