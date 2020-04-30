@@ -7,7 +7,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
-bkz e devletten ermeni olduğunun öğrenen ülkücünün dramı
+bkz e devletten ermeni  ve devlete borcu olduğunu öğrenen ülkücünün dramı
 https://www.uludagsozluk.com/k/salakodaki-ka%C5%9Far-emine/ bkz emine erdoğan
 https://www.uludagsozluk.com/k/lan-bana-anayasay%C4%B1-%C3%B6%C4%9Fretme/&w=bg ananı da al git lan
 https://www.uludagsozluk.com/k/salakodaki-ka%C5%9Far-emine/ bkz emine erdoğan
