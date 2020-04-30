@@ -1,20 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!--
-bkz ismey inöcü atacücü gölgesinde kaldı iddası sorundalı hipotesi
-bkz bilal erdoğanın beynimin yüzde yüzünü kullansam yandınız demesi
-bkz beyin kanartan cücüler çok zeki iddaları
-bkz fatih tezcan ataücü cücük gibi değildi iddası
-bkz yaşar nuri öztürkten rüku 5 rekat iddası açıklaması
-bkz atacücü diyaneti cücüler için kurdu iddası
-https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=gd bkz yaşayan  öz türk
-bkz devlet bahçelini ifşa tapesi düştü iddaları sorundalı
-bkz şokomelli işler bakanlığından beyin kanartan şokomel açıklması
-bkz beyin kanartan aleyna tilki iddası
-https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/ bkz badeci imam
-https://www.uludagsozluk.com/k/og%C3%BCn-samast-%C4%B1n-aptal-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ adam aptal beyler -->
-
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
