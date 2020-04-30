@@ -8,6 +8,7 @@
 
 <!-- 
 bkz messinin suarezle olan uyumu
+bkz tutuğumu sikerim diyen bakkal
 bkz gerekir berat albyaraka şokomelli karı yolların sorun değil diyen bakkal
 bkz tayyip için gerekirse göt siktiririm tayyibi siktirmem diyen dayı
 bkz tayyip anamın üstünde ykalansa orospuluk anamdadır diyen tekelci
