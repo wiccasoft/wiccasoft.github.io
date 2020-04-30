@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+https://www.uludagsozluk.com/k/iv-murad/&w=bg bkz adamın adamla 4 kere yoğrulmuş hali
 https://eksisozluk.com/haber-sitelerinin-googlei-copluge-cevirmesi--5730208?a=popular lol
 https://www.uludagsozluk.com/k/pardon-b%C3%B6l%C3%BCyorum-ama-diyen-k%C3%BCrt/&w=bg 
 https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg adamın ham maddesi
