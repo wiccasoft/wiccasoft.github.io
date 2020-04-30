@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz turgut özalı  hangi güç odakları neden öldürdü
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz sapık ayol
 https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/ bkz yedirmeyiz
 https://www.uludagsozluk.com/k/tecav%C3%BCzc%C3%BC-imam/&w=bg bkz badeci imam
