@@ -13,11 +13,6 @@ bkz devlet bahçelnini adını kullanarak prim kasan tekelci
 https://www.uludagsozluk.com/k/devletin-ad%C4%B1n%C4%B1-kullanarak-insanlar%C4%B1-doland%C4%B1rmak/
 bkz sevdiceğin kahvaltı hazırlayan erkek
 bkz sevdiceğinin rimelini yalayıp zehirlenen erkek
-bkz sevdiceğinin rujunun tadına bakıp rimelini yalayan erkek
-bkz sevdiceğine şokomel sürüp yalayan bakkal
-bkz burak özçivit vs burak erdoğan
-bkz messinin suarezle olan uyumu
-bkz tutuğumu sikerim diyen bakkal
 bkz gerekir berat albyaraka şokomelli karı yolların sorun değil diyen bakkal
 bkz tayyip için gerekirse göt siktiririm tayyibi siktirmem diyen dayı
 bkz tayyip anamın üstünde ykalansa orospuluk anamdadır diyen tekelci
