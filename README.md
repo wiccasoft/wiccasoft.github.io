@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-29_17-56-02.png)]( https://www.youtube.com/watch?v=CoBxAmSLEfY )
 
 <!-- 
+bkz devlet bahçeli vs şempanze götü
 bkz ilber ortaylı vs maymun götü
 bkz fatih portakal vs maymun götü
 bkz celal çengör vs maymun götü
