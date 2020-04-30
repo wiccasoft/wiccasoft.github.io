@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz bilalin  rükuda domalanlar ki onlar allahın domalan kullarıdır demesi
+bkz ali erbaşı yedirmeyiz
+bkz yaşar nuri öztürkün atatürk diyaneti türkler için kurdu iddası
+https://www.uludagsozluk.com/k/ali-erba%C5%9F-yaln%C4%B1z-de%C4%9Fildir/&w=gd
 https://www.uludagsozluk.com/k/ensar-vakf%C4%B1nda-45-%C3%A7ocu%C4%9Fa-tecav%C3%BCz-edilmesi/&w=bg 
 https://www.uludagsozluk.com/k/ya%C5%9Far-nuri-%C3%B6zt%C3%BCrk/&w=bg bkz yaşayan öz türk
 bkz murat övüçün kocası olduğunu idda eden adam
