@@ -5,7 +5,8 @@
 
 <!-- 
 bkz öncelikle sevgili nonoşlar 
-alfa adam tontiş yanaklı yuvarlak kafalı olmaz sert yüz hatları olur 
+alfa adam tontiş yanaklı yuvarlak kafalı olmaz 
+sert yüz hatları olur ağlamaz duygusallık sevmez
 alfa adam kendinden başka erkeği lider olarak göremez
 alfa adam karıyla kızla uğraşamaz etrafındaki beta erkekleri de siklemez
 alfa adam telefon kullanmaz 
