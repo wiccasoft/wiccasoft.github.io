@@ -1,7 +1,10 @@
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
-<!-- https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz minnak filozof atakan -->
+<!--
+https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz taşşaklarına beton yetmez 
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz minnak filozof atakan 
+-->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
