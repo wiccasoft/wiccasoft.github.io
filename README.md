@@ -6,8 +6,7 @@ bkz abdnin kürt işçi partisi seviciliği
 bkz abdnin pkk bayramına maske tıbbi yardım göndermesi
 https://www.uludagsozluk.com/k/abd-nin-pkk-ya-maske-ve-t%C4%B1bbi-yard%C4%B1m-g%C3%B6ndermesi/
 bkz nihat hatipoğlanın okan bayülgene reyting dersi vermesi
-bkz okan bayülgen inin sessizliğini koruması
-bkz okan bayülgen vs cem yılmaz
+bkz okan bayülgenn nin genlerini klonlatması
 bkz yds çalışırken sörfayfor yunus izlemek
 bkz yds notlarını vermeyen götveren
 bkz özgür demirtaş ın beyin kanartan örtmen tespiti
