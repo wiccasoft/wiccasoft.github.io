@@ -7,6 +7,7 @@
 bkz alfa adam karıyı kızı siklemez şakkadanak parasını verir işini görür
 bkz alfa adam işine bakar betayle  gamayla karı kızla uğraşmaz
 bkz delikanlı adamın karıyla kızla işi olmaz ibneler
+https://www.uludagsozluk.com/k/uzun-sa%C3%A7l%C4%B1-zay%C4%B1f-erkek/ bkz gerçek alfa erkek
 https://www.uludagsozluk.com/k/han%C4%B1m-k%C3%B6yl%C3%BC/&w=bg bkz ılık erkek tip
 https://www.uludagsozluk.com/k/fatih-%C3%BCrek-in-msn-de-soyunmas%C4%B1/&w=bg oyşşşş caps at kankağ 
 https://www.uludagsozluk.com/k/alfa-erkek-vs-beta-erkek/ bkz adamın ham maddesi vs cücük
