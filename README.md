@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+https://www.youtube.com/watch?v=lf0kAVZGQNc şakkadanak
 bkz 1 mayıs oç pkklı dayanışması
 bkz abdnin kürt işçi partisi seviciliği
 bkz özgür demirtaşın selahattin demirtaş güzellemesi
