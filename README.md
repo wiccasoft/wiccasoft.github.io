@@ -6,7 +6,7 @@ bkz lağım içiyoduk lağım
 bkz belediyenin keyfinin yine onlar çıkardı
 bkz ulus cebeci çankaya mansur başkanla başkent bambaşka
 bkz keçiören de sular akmıyo du sular mansur başkan geldi aktı
-https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg hoşt ulan küpek konya erkekğinin penisine kurban ol sen
+https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg hoşt ulan küpek 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz kelimelere sığmayz anlatılmaz yaşanır 
 https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz ulus cebeci çankaya mansurla başkent bambaşka -->
 
