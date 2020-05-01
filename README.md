@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz öncelikle sevgili nonoşlar 
+alfa adam kendine başka erkeği lider olarak göremez
 bkz alfa adam telefon kullanmaz birrrrrrrrr
 bkz alfa adam sosyal medya kullanmaz ikiiiiiiii
 bkz alfa adam kimseyi takip etmez üçççççççç
