@@ -3,7 +3,7 @@
 
 <!-- 
 bkz abd nin kürt işçilere maske yardımı yapması
-bkz kürt işçilerin bayramını kutalayacak kadar düşmek
+bkz ak pkknın abdnin kürt işçilere maske dağıtmasına ses çıkarmaması
 bkz 29 ağustos varken 1 mayıs pkk bayramı kutlayan oç ları
 bkz kızların emcüğünü emüklemeye utanan erkek
 bkz nihal osmanoğlunun galtasaray adasını geri istemesi
