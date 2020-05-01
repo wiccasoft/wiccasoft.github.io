@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaa
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz ben aka garaoğlan
 https://www.uludagsozluk.com/k/adanal%C4%B1-olmak/&w=bg bkz ben
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg bkz ben
