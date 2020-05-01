@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkzx delikanlı adamın karıyla kzıla işi olmaz ibneler
 https://www.uludagsozluk.com/k/han%C4%B1m-k%C3%B6yl%C3%BC/&w=bg bkz ılık erkek tip
 https://www.uludagsozluk.com/k/fatih-%C3%BCrek-in-msn-de-soyunmas%C4%B1/&w=bg oyşşşş caps at kankağ 
 https://www.uludagsozluk.com/k/alfa-erkek-vs-beta-erkek/ bkz adamın ham maddesi vs cücük
