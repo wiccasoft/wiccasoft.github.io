@@ -9,7 +9,8 @@ https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz yi olm yi lahmacun yi iyi
 https://www.uludagsozluk.com/k/1-70-boyundaki-erkek/&w=bg bkz benden 20 cm uzun erkek
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaa
 https://www.uludagsozluk.com/k/kibar-erkeklerden-ibne-mi-diye-%C5%9F%C3%BCphelenmek/&w=gd bkz kibar erkek mi olur amk
-https://www.uludagsozluk.com/k/arac%C4%B1na-%C3%A7%C4%B1plak-kad%C4%B1n-afi%C5%9Fi-asan-s%C3%BCr%C3%BCc%C3%BC/ ben -->
+https://www.uludagsozluk.com/k/arac%C4%B1na-%C3%A7%C4%B1plak-kad%C4%B1n-afi%C5%9Fi-asan-s%C3%BCr%C3%BCc%C3%BC/ bkz ben 
+-->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
