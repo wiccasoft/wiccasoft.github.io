@@ -3,6 +3,7 @@
 
 <!-- 
 bkz lağım içiyoduk lağım
+bkz belediyenin keyfinin yine onlar çıkardı
 bkz ulus cebeci çankaya mansur başkanla başkent bambaşka
 bkz keçiören de sular akmıyo du sular mansur başkan geldi aktı
 https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg hoşt ulan küpek konya erkekğinin penisine kurban ol sen
