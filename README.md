@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/juliet-gibi-seven-k%C4%B1z/ bkz senin bokunu yerim lan bokunu diyen kız
 https://www.uludagsozluk.com/k/her-sevgilisi-taraf%C4%B1ndan-aldat%C4%B1lan-adam/&w=bg bkz ben
 https://www.uludagsozluk.com/k/romeo-nun-juliet-ten-%C3%B6nce-rosaline-i-sevmesi/ bkz rome nin ruhsuz hain erkek olamsı
 https://www.uludagsozluk.com/k/regl-sanc%C4%B1s%C4%B1/ bkz ülkücülerin ay sonu dertleri
