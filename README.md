@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz nihat hatipoğlanın gerçek alfa erkek olması
 bkz öncelikle sevgili nonoşlar 
 alfa adam tontiş yanaklı yuvarlak kafalı olmaz 
 sert yüz hatları olur ağlamaz duygusallık sevmez
