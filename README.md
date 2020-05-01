@@ -3,6 +3,7 @@
 
 <!-- 
 bkz lağım içiyoduk lağım
+bkz oç pkklıların bayramını kutlayan pkk sempetizanları
 bkz abd nin pkk ya tırlarla maske göndermesi
 bkz erkan başın ali başı yedirmem başımı yersiniz demesi
 https://www.youtube.com/watch?v=FqDSaTKtQYA
