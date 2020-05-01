@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz nihat hatipoğlanın oğlu 
 bkz tengir budun doğanı duvardan duvara vura vura kükürte kükürte sikmek
 bkz tengir budun sdoğanı kaslı kürt işçiyle aynı odaya sokmak
 https://www.uludagsozluk.com/k/5000-y%C4%B1ll%C4%B1k-koskoca-k%C3%BCrt-tarihi/&w=bg bkz nonoşları çıldırtan tarih
