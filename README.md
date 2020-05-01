@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz nihal osmanoğlunun galtasray adasını geri istemesi
+bkz nihal osmanoğlunun galtasaray adasını geri istemesi
 bkz 3 mayıs türk bayramını kutlamayıp 1 mayıs pkk bayramını kutlamak
 bkz 1 mayıs pkk bayramında abdnin pkk ya maske göndermesi rezilliği
 bkz oç pkklıların bayramını kutlayan ak pkk lılar
