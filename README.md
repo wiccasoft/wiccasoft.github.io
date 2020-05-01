@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz özgür demirtaşın selahattin demirtaş güzellemesi
 bkz abdnin kürt işçi partisi seviciliği
 bkz abdnin pkk bayramına maske tıbbi yardım göndermesi
 https://www.uludagsozluk.com/k/abd-nin-pkk-ya-maske-ve-t%C4%B1bbi-yard%C4%B1m-g%C3%B6ndermesi/
