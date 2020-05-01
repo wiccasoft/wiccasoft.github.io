@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz telefona karısını aşkım diye kaydedden ılıklar
+bkz telefona karıyı kızı aşkım diye kaydedden ılıklar
 bkz alfa adam karıyı kızı siklemez şakkadanak parasını verir işini görür
 bkz alfa adam işine bakar betayı gamayı karı kızı siklemez
 bkz alfa adamın karıyla kızla işi olmaz 
