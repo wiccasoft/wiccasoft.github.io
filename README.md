@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz keçiören de sular akmıyo du sular mansur başkan geldi aktı
 https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg hoşt ulan küpek konya erkekğinin peniseine kurban ol sen
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz kelimelere sığmayan bld.bşk.ları
 https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz keçiören heykelin aşağısı -->
