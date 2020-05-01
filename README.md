@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz nihat hatipoğlanın oğlu 
+https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/&w=bg bkz muhammedin ayı ikiye yarması
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-%C5%9Fu-erkek-bana-bak%C4%B1yor/ bkz aşkiştom döv onu diyen kız
 bkz tengir budun doğanı duvardan duvara vura vura kükürte kükürte sikmek
 bkz tengir budun sdoğanı kaslı kürt işçiyle aynı odaya sokmak
