@@ -13,6 +13,7 @@ bkz belediyenin keyfinin yine onlar çıkardı
 bkz ulus cebeci çankaya mansur başkanla başkent bambaşka
 bkz keçiören de sular akmıyo du sular mansur başkan geldi aktı
 https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg hoşt ulan küpek 
+https://www.uludagsozluk.com/k/k%C4%B1zlarla-konu%C5%9Fmaya-utanan-erkek/&w=bg bkz nihat doğan
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz kelimelere sığmayz anlatılmaz yaşanır 
 https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz ulus cebeci çankaya mansurla başkent bambaşka 
 https://www.uludagsozluk.com/k/abd-nin-pkk-ya-maske-ve-t%C4%B1bbi-yard%C4%B1m-g%C3%B6ndermesi/ 
