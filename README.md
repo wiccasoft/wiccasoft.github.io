@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!-- 
-bkz 1 mayıs kürt işçileri şapşikliyoruz kampanyası
+bkz 1 mayıs kürt erkekleri şapşikliyoruz kampanyası
+bkz inşaata top kaçırıp kaslı kürtler arasında kalmak
 https://www.uludagsozluk.com/k/a%C4%9Flamakl%C4%B1-film-%C3%B6nerileri/&w=bg bkz bekçi müjdat gezen
 https://www.uludagsozluk.com/k/bek%C3%A7ilere-verilebilecek-alternatif-unvanlar/&w=bg bkz bekleyen komodo ejderi -->
 
