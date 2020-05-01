@@ -6,9 +6,9 @@
 <!-- 
 bkz öncelikle sevgili nonoşlar 
 alfa adam kendine başka erkeği lider olarak göremez
-bkz alfa adam telefon kullanmaz birrrrrrrrr
-bkz alfa adam sosyal medya kullanmaz ikiiiiiiii
-bkz alfa adam kimseyi takip etmez üçççççççç
+alfa adam telefon kullanmaz birrrrrrrrr
+alfa adam sosyal medya kullanmaz ikiiiiiiii
+alfa adam kimseyi takip etmez üçççççççç
 bkz telefona karıyı kızı aşkım diye kaydedden ılıklar
 bkz alfa adam karıyı kızı siklemez şakkadanak parasını verir işini görür
 bkz alfa adam işine bakar betayı gamayı karı kızı siklemez
