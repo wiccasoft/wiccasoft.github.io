@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!-- 
+https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz okan bayülgen
+https://www.uludagsozluk.com/k/hakan-ural/&w=bg bkz dudaklarını yalayan reis
 https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz yi olm yi lahmacun yi iyi gelir
 https://www.uludagsozluk.com/k/1-70-boyundaki-erkek/&w=bg bkz benden 20 cm uzun erkek
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaa
