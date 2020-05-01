@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz 29 ağustos varken 1 mayıs pkk  bayramı kutlayan oç ları
 bkz kızların emcüğünü emüklemeye utanan erkek
 bkz nihal osmanoğlunun galtasaray adasını geri istemesi
 bkz 3 mayıs türk bayramını kutlamayıp 1 mayıs pkk bayramını kutlamak
