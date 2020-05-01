@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz aşkiştoşu şenin bokunu yerim bokunu diyen erkek
 bkz aşkına eşkiya olurum lan diyen erkek
 bkz senin için dağları delerim diyen erkek
 https://yoksul-genc.uludagsozluk.com/ bkz senin bokunu yerim bokunu diyen kız
