@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/5000-y%C4%B1ll%C4%B1k-koskoca-k%C3%BCrt-tarihi/&w=bg bkz nonoşları çıldırtan tarih
 bkz nihat hatipoğlanın gerçek alfa erkek olması
 bkz öncelikle sevgili nonoşlar 
 alfa adam tontiş yanaklı yuvarlak kafalı olmaz 
