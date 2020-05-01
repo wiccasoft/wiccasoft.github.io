@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz aşkına eşkiya olurum lan diyen erkek
 bkz senin için dağları delerim diyen erkek
 https://yoksul-genc.uludagsozluk.com/ bkz senin bokunu yerim bokunu diyen kız
 https://kahraman-zorbey.uludagsozluk.com/ bkz ülkücü ezik liseli
