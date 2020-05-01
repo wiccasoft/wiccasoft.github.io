@@ -3,13 +3,15 @@
 
 <!-- 
 bkz lağım içiyoduk lağım
+bkz abd nin pkk ya maske göndermesi
 https://www.youtube.com/watch?v=FqDSaTKtQYA
 bkz belediyenin keyfinin yine onlar çıkardı
 bkz ulus cebeci çankaya mansur başkanla başkent bambaşka
 bkz keçiören de sular akmıyo du sular mansur başkan geldi aktı
 https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg hoşt ulan küpek 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz kelimelere sığmayz anlatılmaz yaşanır 
-https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz ulus cebeci çankaya mansurla başkent bambaşka -->
+https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz ulus cebeci çankaya mansurla başkent bambaşka 
+ -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
