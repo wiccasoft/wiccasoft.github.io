@@ -4,7 +4,7 @@
 <!-- 
 bkz lağım içiyoduk lağım
 bkz 1 mayıs pkk bayramında abdnin pkk ya maske göndermesi rezilliği
-bkz oç pkklıların bayramını kutlayan pkk sempetizanları
+bkz oç pkklıların bayramını kutlayan  ak pkk lılar
 bkz abd nin pkk ya tırlarla maske göndermesi
 bkz erkan başın ali başı yedirmem başımı yersiniz demesi
 https://www.youtube.com/watch?v=FqDSaTKtQYA
