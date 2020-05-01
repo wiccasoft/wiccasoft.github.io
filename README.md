@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!-- 
-bkz mystafa cecelinin az bilinen fotoları
+bkz mustafa cecelinin az bilinen fotoları
 bkz kim jong jung vs ming vong piyong
 bkz kibariyenin annesi vs küçük emrah
 https://www.uludagsozluk.com/k/gerzek-%C5%9Faban/&w=bg bkz kim jong jung
