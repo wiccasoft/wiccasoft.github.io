@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz nihst hatipoğlanın okan bayülgene reyting dersi vermesi
 bkz okan bayülgen inin sessizliğini koruması
 bkz okan bayülgen vs cem yılmaz
 bkz yds çalışırken sörfayfor yunus izlemek
