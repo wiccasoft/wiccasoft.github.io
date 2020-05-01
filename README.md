@@ -5,6 +5,8 @@
 
 <!-- 
 bkz alfa adam telefon kullanmaz birrrrrrrrr
+bkz alfa adam sosyal medya kullanmaz ikiiiiiiii
+bkz alfa adam kimseyi takip etmez üçççççççç
 bkz telefona karıyı kızı aşkım diye kaydedden ılıklar
 bkz alfa adam karıyı kızı siklemez şakkadanak parasını verir işini görür
 bkz alfa adam işine bakar betayı gamayı karı kızı siklemez
