@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/romeo-nun-juliet-ten-%C3%B6nce-rosaline-i-sevmesi/ bkz rome nin ruhsuz hain erkek olamsı
 https://www.uludagsozluk.com/k/regl-sanc%C4%B1s%C4%B1/ bkz ülkücülerin ay sonu dertleri
 https://www.uludagsozluk.com/k/k%C4%B1skanmayan-sevgili/&w=bg bkz ılık
 bkz aşkiştoşu şenin bokunu yerim bokunu diyen erkek
