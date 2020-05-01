@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bkz yds çalışırken sörfayfor yunus izlemek
 bkz yds notlarını vermeyen götveren
 bkz özgür demirtaş ın beyin kanartan örtmen tespiti
 bkz 3 mayıs türkün 1 mayıs pkk lı itlerin bayramı
