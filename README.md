@@ -5,6 +5,7 @@
 
 <!-- 
 bkz öncelikle sevgili nonoşlar 
+alfa adam tontiş yanaklı yuvarlak kafalı olmaz
 alfa adam kendinden başka erkeği lider olarak göremez
 alfa adam karıyla kızla uğraşamaz etrafındaki beta erkekleri de siklemez
 alfa adam telefon kullanmaz 
