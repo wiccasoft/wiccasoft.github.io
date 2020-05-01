@@ -5,7 +5,7 @@
 bkz filozofların çok kazandığı iddaları
 https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz taşşaklarına beton yetmez 
 https://www.uludagsozluk.com/k/maddi-kayg%C4%B1lar%C4%B1n%C4%B1z-olmasa-yapaca%C4%9F%C4%B1n%C4%B1z-meslek/&w=bg bkz filozofluk
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz  minnak filozof atakan
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz minnak filozof atakan
 -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
