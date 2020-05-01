@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz nihst hatipoğlanın okan bayülgene reyting dersi vermesi
+bk abdinni pkk bayramına maske tıbbi yardım göndermesi
+https://www.uludagsozluk.com/k/abd-nin-pkk-ya-maske-ve-t%C4%B1bbi-yard%C4%B1m-g%C3%B6ndermesi/
+bkz nihat hatipoğlanın okan bayülgene reyting dersi vermesi
 bkz okan bayülgen inin sessizliğini koruması
 bkz okan bayülgen vs cem yılmaz
 bkz yds çalışırken sörfayfor yunus izlemek
