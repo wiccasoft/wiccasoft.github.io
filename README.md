@@ -9,7 +9,7 @@ alfa adam kendine başka erkeği lider olarak göremez
 alfa adam karıyla kızla uğraşamaz etrafındaki beta erkekleri de siklemez
 alfa adam telefon kullanmaz 
 alfa adam sosyal medya kullanmaz 
-son olarak alfa adam kimseyi takip etmez 
+netice olarak alfa adam kimseyi takip etmez 
 bkz telefona karıyı kızı aşkım diye kaydedden ılıklar
 bkz alfa adam karıyı kızı siklemez şakkadanak parasını verir işini görür
 bkz alfa adam işine bakar betayı gamayı karı kızı siklemez
