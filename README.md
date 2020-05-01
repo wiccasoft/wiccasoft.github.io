@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/regl-sanc%C4%B1s%C4%B1/ bkz ülkücülerin ay sonu dertleri
 https://www.uludagsozluk.com/k/k%C4%B1skanmayan-sevgili/&w=bg bkz ılık
 bkz aşkiştoşu şenin bokunu yerim bokunu diyen erkek
 bkz aşkına eşkiya olurum lan diyen erkek
