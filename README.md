@@ -3,6 +3,7 @@
 
 <!-- 
 bkz lağım içiyoduk lağım
+bkz 3 mayıs türk bayramını kutmalamyıp 1 mayıs pkk bayamını kutlamak
 bkz 1 mayıs pkk bayramında abdnin pkk ya maske göndermesi rezilliği
 bkz oç pkklıların bayramını kutlayan  ak pkk lılar
 bkz abd nin pkk ya tırlarla maske göndermesi
