@@ -6,7 +6,7 @@
 <!-- 
 bkz öncelikle sevgili nonoşlar 
 alfa adam kendine başka erkeği lider olarak göremez
-alfa adam karıyla kızla uğraşamaz kimseyi de siklemez
+alfa adam karıyla kızla uğraşamaz etrafındaki beta erkekleri de siklemez
 alfa adam telefon kullanmaz 
 alfa adam sosyal medya kullanmaz 
 son olarak alfa adam kimseyi takip etmez 
