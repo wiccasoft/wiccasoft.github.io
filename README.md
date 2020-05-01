@@ -7,7 +7,7 @@ bkz kim jong jung vs ming vong piyong
 bkz kibariyenin annesi vs küçük emrah
 https://www.uludagsozluk.com/k/gerzek-%C5%9Faban/&w=bg bkz kim jong jung
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz okan bayülgen
-https://www.uludagsozluk.com/k/hakan-ural/&w=bg bkz dudaklarını yalayan reis
+https://www.uludagsozluk.com/k/hakan-ural/&w=bg bkz fatih terim 
 https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz yi olm yi lahmacun yi iyi gelir
 https://www.uludagsozluk.com/k/1-70-boyundaki-erkek/&w=bg bkz benden 20 cm uzun erkek
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaa
