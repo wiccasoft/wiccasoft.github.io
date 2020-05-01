@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-09_17-25-19.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
+
 <!-- 
 https://www.youtube.com/watch?v=TlzB3sI7Ghw pattes fiyatları nası düşer
 https://www.youtube.com/watch?v=lf0kAVZGQNc şakkadanak
