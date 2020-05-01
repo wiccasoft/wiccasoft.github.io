@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/a%C4%9Flamakl%C4%B1-film-%C3%B6nerileri/&w=bg bkz bekçi müjdat gezen
-https://www.uludagsozluk.com/k/bek%C3%A7ilere-verilebilecek-alternatif-unvanlar/&w=bg bkz bekleyen komodo -->
+https://www.uludagsozluk.com/k/bek%C3%A7ilere-verilebilecek-alternatif-unvanlar/&w=bg bkz bekleyen komodo ejderi -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
