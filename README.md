@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/alfa-erkek-vs-beta-erkek/ bkz adamın ham maddesi vs cücük
 https://www.youtube.com/watch?v=TlzB3sI7Ghw pattes fiyatları nası düşer
 https://www.youtube.com/watch?v=lf0kAVZGQNc şakkadanak
 bkz 1 mayıs oç pkklı dayanışması
