@@ -5,6 +5,7 @@
 
 <!-- 
 bkz nihat hatipoğlanın oğlu 
+https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-%C5%9Fu-erkek-bana-bak%C4%B1yor/ bkz aşkiştom döv onu diyen kız
 bkz tengir budun doğanı duvardan duvara vura vura kükürte kükürte sikmek
 bkz tengir budun sdoğanı kaslı kürt işçiyle aynı odaya sokmak
 https://www.uludagsozluk.com/k/5000-y%C4%B1ll%C4%B1k-koskoca-k%C3%BCrt-tarihi/&w=bg bkz nonoşları çıldırtan tarih
