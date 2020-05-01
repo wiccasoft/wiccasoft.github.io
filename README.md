@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!-- 
+https://www.uludagsozluk.com/k/adanal%C4%B1-olmak/&w=bg bkz ben
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1zlarla-konu%C5%9Fmaya-utanan-erkek/ bkz ben minnak filozof
 https://www.uludagsozluk.com/k/arac%C4%B1na-%C3%A7%C4%B1plak-kad%C4%B1n-afi%C5%9Fi-asan-s%C3%BCr%C3%BCc%C3%BC/ ben -->
