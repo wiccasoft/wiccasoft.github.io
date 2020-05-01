@@ -9,9 +9,6 @@ https://www.uludagsozluk.com/k/her-sevgilisi-taraf%C4%B1ndan-aldat%C4%B1lan-adam
 https://www.uludagsozluk.com/k/romeo-nun-juliet-ten-%C3%B6nce-rosaline-i-sevmesi/ bkz rome nin ruhsuz hain erkek olamsı
 https://www.uludagsozluk.com/k/regl-sanc%C4%B1s%C4%B1/ bkz ülkücülerin ay sonu dertleri
 https://www.uludagsozluk.com/k/k%C4%B1skanmayan-sevgili/&w=bg bkz ılık
-bkz aşkiştoşu şenin bokunu yerim bokunu diyen erkek
-bkz aşkına eşkiya olurum lan diyen erkek
-bkz senin için dağları delerim diyen erkek
 https://yoksul-genc.uludagsozluk.com/ bkz senin bokunu yerim bokunu diyen kız
 https://kahraman-zorbey.uludagsozluk.com/ bkz ülkücü ezik liseli
 https://www.uludagsozluk.com/k/romeo-nun-juliet-ten-%C3%B6nce-rosaline-i-sevmesi/
