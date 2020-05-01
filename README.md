@@ -3,6 +3,7 @@
 
 <!-- 
 bkz lağım içiyoduk lağım
+https://www.youtube.com/watch?v=FqDSaTKtQYA
 bkz belediyenin keyfinin yine onlar çıkardı
 bkz ulus cebeci çankaya mansur başkanla başkent bambaşka
 bkz keçiören de sular akmıyo du sular mansur başkan geldi aktı
