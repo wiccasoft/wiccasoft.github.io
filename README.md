@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!-- https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz keçiören heykelin aşağısı -->
+<!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz kelimelere sığmayan bld.bşk.ları
+https://www.uludagsozluk.com/k/ba%C5%9Fkent-market/ bkz keçiören heykelin aşağısı -->
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
