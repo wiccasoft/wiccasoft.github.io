@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-%C3%BCrek-in-msn-de-soyunmas%C4%B1/&w=bg oyşşşş caps at kankağ 
 https://www.uludagsozluk.com/k/alfa-erkek-vs-beta-erkek/ bkz adamın ham maddesi vs cücük
 https://www.youtube.com/watch?v=TlzB3sI7Ghw pattes fiyatları nası düşer
 https://www.youtube.com/watch?v=lf0kAVZGQNc şakkadanak
