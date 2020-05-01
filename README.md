@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
+bjkz abd nin kürt iişçilere maske yardımı yapması
 bkz kürt işçilerin bayramını kutalayacak kadar düşmek
 bkz 29 ağustos varken 1 mayıs pkk bayramı kutlayan oç ları
 bkz kızların emcüğünü emüklemeye utanan erkek
