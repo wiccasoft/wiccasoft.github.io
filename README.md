@@ -2,12 +2,13 @@
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!-- 
-bkz lağım içiyoduk lağım
+
 bkz 3 mayıs türk bayramını kutlamayıp 1 mayıs pkk bayamını kutlamak
 bkz 1 mayıs pkk bayramında abdnin pkk ya maske göndermesi rezilliği
 bkz oç pkklıların bayramını kutlayan  ak pkk lılar
 bkz abd nin pkk ya tırlarla maske göndermesi
 bkz erkan başın ali başı yedirmem başımı yersiniz demesi
+bkz lağım içiyoduk lağım
 https://www.youtube.com/watch?v=FqDSaTKtQYA
 bkz belediyenin keyfinin yine onlar çıkardı
 bkz ulus cebeci çankaya mansur başkanla başkent bambaşka
