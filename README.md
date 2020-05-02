@@ -1,4 +1,5 @@
 <!--
+bkz yozdilinin marmaris yatını yanaştırması
 bkz yozdilin bill gates tek rakibim demesi
 bkz tsk yı eleştrien pkk lı
 bkz hdpnin paylaştığı hakkını ara videosu
