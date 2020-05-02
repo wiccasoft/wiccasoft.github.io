@@ -1,5 +1,7 @@
 
 <!--
+bkz geceye adam bırak sabah da yeriz delikanlı
+https://www.uludagsozluk.com/k/karantinadan-sonra-christiano-ronaldo/
 bkz sedat peker fotosunu yalarken odaya babanın girmesi
 bkz beyler geceyr bırakılacak admalar hazır mı
 https://www.uludagsozluk.com/k/adam-gibi-adam/&w=bg
