@@ -1,5 +1,6 @@
 
 <!-- 
+https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw abi yütüp sayfgamıza üye olun yeter abi para istemiyoz
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 https://www.uludagsozluk.com/k/illuminati/&w=bg eywallah abi
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg eywlalha abi deha değil de dahi diyelim
