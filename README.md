@@ -1,6 +1,7 @@
 
 <!--
-bkz şaşip erkelerin kendilerine toz kondurmaması
+bkz yaparsın aşkımdaki şapşik piç erkekler
+bkz şapşik erkelerin kendilerine toz kondurmaması
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/&w=gd bkz adamın selülözlü hali
 https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz adamın ham maddesi
 bkz sedat pekerin plastik cerrahı
