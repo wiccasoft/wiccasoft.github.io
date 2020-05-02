@@ -3,6 +3,8 @@
 <!--
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg messi siker olm
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+bkz ne yani ben sıçacam sen de gelip benim pokumun üstüne sıçacan ölemiiiiiiiii
+https://www.uludagsozluk.com/k/sosyal-medyaya-tc-numaras%C4%B1-ile-giri%C5%9F-yap%C4%B1lacak/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg bkz megolamanya
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz at burcu erkeği nihal
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-en-b%C3%BCy%C3%BCk-hata/&w=bg
