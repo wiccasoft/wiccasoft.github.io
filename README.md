@@ -3,6 +3,7 @@
 bkz ateş toprak su selülöz 
 bkz selülöz tabi zoruna mı gitti
 bkz sırf ışıkla çık bir yardım mardım yok amk
+bkz nihat hatipoğla sahura ve huzura doğru
 bkz osmanlı torunu tedavisi üzerinde çalışan virüs
 bkz zühur değil dühuldur o zühur olsa duramazsın
 bkz nihat hatipoğlanın huzur verici halleri
