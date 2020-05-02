@@ -7,6 +7,7 @@ bkz şapşik erkeklerin kendilerine piç demesi
 bkz amınoğlu ekremin doları düşürmemesi
 bkz cem yılmazın yatakta başarısız olduğu iddaları
 bkz yakışıklı erkeklerin sıkıcı oldukları iddası sorundalı
+https://eksisozluk.com/sikici-erkeklerin-kendilerine-efendi-demeleri--6501029?a=popular bkz sikici 
 https://eksisozluk.com/bosanmis-bir-erkekle-evlenmek--4756393?a=popular bkz olmaz ayol yürümez
 bkz 185 boyunda gelinim mutfakta eski bölümlerini yütüpten izleyen yakışıklı kültürlü erkek
 bkz 185 boyunda şapşik kültürlü zeki çevik yaparsın aşkım izleyen erkek
