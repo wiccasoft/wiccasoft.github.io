@@ -1,8 +1,8 @@
 
 <!--
-bkz sırf ışıkla çık bir yardım mardım yok amk
 bkz ateş toprak su selülöz 
 bkz selülöz tabi zoruna mı gitti
+bkz sırf ışıkla çık bir yardım mardım yok amk
 bkz osmanlı torunu tedavisi üzerinde çalışan virüs
 bkz zühur değil dühuldur o zühur olsa duramazsın
 bkz bi formül bulacam ananızı sikecem ananızı diyen osmanlı torunu
