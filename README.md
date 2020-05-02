@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/%C4%B1rak-%C5%9Fam-islam-devleti/&w=bg bkz gerisi şamda kayısı
 https://www.uludagsozluk.com/k/mateja-kezman%C4%B1n-son-hali/ bkz tam kezbana dönmüş lan
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
