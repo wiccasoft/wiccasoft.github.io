@@ -1,4 +1,5 @@
 <!--
+bkz bilal erdoğan vs ido tatlıses
 bkz nihat doğan vs nihat hatipmayan
 bkz savcı sayan vs savmıyan sayan
 bkz ido tatlıses bakir midir sorundalı
