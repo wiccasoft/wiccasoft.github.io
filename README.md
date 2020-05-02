@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iettden arkadaşı
 bkz recep şaban ramadan
 bkz çaycı hüseyin vs hüseyin bihal atsız
 https://kahraman-zorbey.uludagsozluk.com/ bkz adam ansikloğpedi beyler
