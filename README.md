@@ -1,5 +1,5 @@
 <!-- 
-bkz tayybini kulağına her biji kürdistan demek
+bkz tayybin kulağına her biji kürdistan demek
 bkz tece beştepe nin facebook sayfasına her biji kürdistana yazmak
 bkz amın oğlu ekremin facebook sayfası
 bkz facebook a tece no ile giriş yapılacağı iddası
