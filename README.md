@@ -1,7 +1,7 @@
 
 
 <!--
-bkz bilala erdoğanın annesine orospu demesi
+https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz emine erdoğan
 https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz banker bilodaki mantık hatası
 https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
 https://eksisozluk.com/ahmet-hakanin-yazacagi-kitaba-isim-onerileri--6499923?a=popular bkz moderatör hakan
