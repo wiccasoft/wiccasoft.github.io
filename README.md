@@ -1,5 +1,6 @@
 
 <!--
+bkz erkek deyince akla gelen ilk erkek
 bkz geceye bırakılan erkeğin pixellerini yalayan ibneler
 https://www.uludagsozluk.com/k/evlenmeden-seks-yapan-erke%C4%9Fin-namusu/ boşalan çıksın kasıyo beyler
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz yanakları yalanası liderler
