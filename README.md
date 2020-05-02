@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/kad%C4%B1n-ve-para-kar%C5%9F%C4%B1s%C4%B1nda-dik-durabilen-erkek/ bkz çaycı hüseyin
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/ bkz metja kezban son hali jpeg
 bkz ırak şam devletini borca sokup türküyeyler kapıştırmak
 https://www.uludagsozluk.com/k/%C4%B1rak-%C5%9Fam-islam-devleti/&w=bg bkz gerisi şamda kayısı
