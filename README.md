@@ -1,5 +1,7 @@
 
 <!--
+https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz en sevdiğim yer
+https://www.uludagsozluk.com/k/adam-gibi-adam/&w=bg
 bkz geceye adam bırak sabah da yeriz delikanlı
 https://www.uludagsozluk.com/k/karantinadan-sonra-christiano-ronaldo/
 bkz sedat peker fotosunu yalarken odaya babanın girmesi
