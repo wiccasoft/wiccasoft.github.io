@@ -1,5 +1,7 @@
 
 <!--
+https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg hani oç recep yok burada
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz recep tayyipten doğan
 https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz gün ay yıl klasörü
 https://www.uludagsozluk.com/k/adam-gibi-adam/&w=bg
