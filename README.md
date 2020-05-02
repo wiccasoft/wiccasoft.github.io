@@ -1,5 +1,6 @@
 
 <!--
+bkz recep şaban ramadan
 https://www.uludagsozluk.com/k/gereksiz-bir-bilgi-ver/&w=bg ver hadi ver 
 bkz kadri tarikatının çok bozması
 bkz kadri tarikatının pandem. dönmeinde evde zikr yapması
