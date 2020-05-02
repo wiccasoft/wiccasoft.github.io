@@ -2,6 +2,7 @@
 
 <!--
 bkz atacünnün incilizlerle dalga geçmesi
+bkz atacücnünü inciliz bayrağına işemesi
 bkz atacününnü karl marx ı şamar oğlanı yapması
 bkz doğu perinçek in avrasya birliğini kuralım ne duruyik önerisi
 bkz atacücünü 1 mayıs kürt bayramıdır türkün bayramı 3 mayıstır demesi
