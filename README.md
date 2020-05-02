@@ -1,5 +1,6 @@
 
 <!--
+bkz çaycı hüseyin vs kim jong kun son hali
 bkz erkek deyince ağızda kalan kekremsi tad
 bkz erkek deyince akılda beliren ilk imge
 https://www.uludagsozluk.com/k/aziz-ba%C5%9Fkan%C4%B1n-son-hali/ 
