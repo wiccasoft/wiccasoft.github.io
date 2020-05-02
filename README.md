@@ -1,5 +1,7 @@
 
-<!-- https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg annemde minnak dehasın diyo abi   -->
+<!-- 
+abi o değil de benim iphone kırıldı bi yardım etseniz be abi
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg annemde minnak dehasın diyo abi   -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 <!--
