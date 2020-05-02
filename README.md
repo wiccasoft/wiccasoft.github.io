@@ -1,6 +1,6 @@
 <!--
 bkz bilal erdoğan vs ido tatlıses
-bkz nihat doğan vs nihat hatipmayan
+bkz nihat doğan vs nihat doğmayan
 bkz savcı sayan vs savmıyan sayan
 bkz ido tatlıses bakir midir sorundalı
 bkz şaka maka ido tatlısesin çok yahuşuhlu olması
