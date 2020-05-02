@@ -1,6 +1,7 @@
 
 <!--
-bkz beyler gecey bırakılacak admalar hazır mı
+bkz beyler geceyr bırakılacak admalar hazır mı
+bkz gecey bırakılan adamları yalayan ibneler
 https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz en sevdiğim yer
 bkz kadiri tarikatının çok bozması
 https://www.uludagsozluk.com/k/kadiri-tarikat%C4%B1n%C4%B1n-pandemi-d%C3%B6neminde-zikir-yapmas%C4%B1/
