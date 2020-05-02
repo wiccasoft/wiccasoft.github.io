@@ -1,9 +1,7 @@
 
 <!--
-bkz çaycı kevin kostnerın ölmesi
-bkz kevin costnerin burnu
-bkz okan bayülgen vs kim jong jung
 bkz geceye bırakılan erkeğin pixellerini yalayan ibneler
+https://www.uludagsozluk.com/k/evlenmeden-seks-yapan-erke%C4%9Fin-namusu/ boşalan çıksın kasıyo beyler
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz yanakları yalanası liderler
 bkz eminemin posterini yalarken odaya babanın girmesi
 https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz yalanası burun
