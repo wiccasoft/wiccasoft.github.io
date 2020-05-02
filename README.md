@@ -2,6 +2,7 @@
 
 <!--
 bkz vedat mürüçü 300 milyüm yürü len mq
+bkz facebook ta tc isimi gemiler
 bkz ne yani facebooka tece no yazıp mı girecez öle miiiiiiiiiii
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 94 lü seksi erkekler
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg messi siker olm
