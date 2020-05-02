@@ -1,4 +1,5 @@
 <!-- 
+bkz tayyoşun iboya kürdistan sözü vermesi
 bkz tayybin kulağına her biji kürdistan demek
 bkz tece beştepe nin facebook sayfasına her biji kürdistana yazmak
 bkz amın oğlu ekremin facebook sayfası
