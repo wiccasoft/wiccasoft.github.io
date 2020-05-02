@@ -1,4 +1,5 @@
 <!-- 
+https://kahraman-zorbey.uludagsozluk.com 
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
