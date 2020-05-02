@@ -1,4 +1,5 @@
 <!--
+bkz minnak filozok atakanın büyünce entry gircem demesi
 bkz sagopa nın cezayı affetmesi
 bkz rockerfellerin tayyipe aman abi götünü yiyim abi çekmesi
 bkz illumunatinin tayyipten af dilemesi
