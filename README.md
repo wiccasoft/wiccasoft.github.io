@@ -6,7 +6,7 @@ bkz ben hep 2000 dolarlık iphone alırım abi saygılar selam ve dua ile abi
 yütüp sayfamıza üye olun yeter abi para istemiyoz abi selam ve dualipa abi
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw 
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg eywole abi deha değil de dahi diyelim
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg eywolle abi deha değil de dahi diyelim
 https://www.uludagsozluk.com/k/31-%C3%A7ekerken-g%C3%B6t%C3%BCn%C3%BC-parmaklayan-erkek/&w=bg bu benim abi
 https://www.uludagsozluk.com/k/macbook-tamiri-i%C3%A7in-para-toplayan-k%C4%B1z/ bkz amlı diye yardım etmek
 abi o değil de benim iphone kırıldı bi yardım etseniz be abi
