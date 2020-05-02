@@ -1,7 +1,7 @@
 
 <!--
 bkz eminemin posterini yalarken odaya babanın girmesi
-https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz ıstırılası burun
+https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz yalanası burun
 bkz çaycı hüseyin öldü iddaları
 bkz ben senin bokunu yerim lan bokunu diyen erkek
 bkz hiç mala vurmamaış erkek seksizliği
