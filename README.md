@@ -1,7 +1,6 @@
 
 <!--
-bkz kim jong un un 3 kelimeyle anlat
-bkz kim jon un deyince akılda beliren ilk imge
+https://www.uludagsozluk.com/k/mateja-kezman%C4%B1n-son-hali/ bkz tam kezbana dönmüş lan
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
 bkz burak özçivitin ülkücü doktor dizisi için teklif alması
