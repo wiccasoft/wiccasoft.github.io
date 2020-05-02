@@ -2,6 +2,7 @@
 
 <!--
 bkz atacünnün incilizlerle dalga geçmesi
+bkz atacününnü karl marx ı şamar oğlanı yapması
 bkz atacücünü 1 mayıs kürt bayramıdır türkün bayramı 3 mayıstır demesi
 bkz atacücünün yunanları denize döküp eyi oldu yoğurt olurlar demesi
 bkz atacücücnün incilisleri denize döküp nası döktüm ama demesi
