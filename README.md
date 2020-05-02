@@ -1,5 +1,5 @@
 
-<!-- https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg annemd e deha diyo abi -->
+<!-- https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg annemd e dehasın diyo abi büyünce üye olacam entry girecem abi sizin gibi  -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 <!--
