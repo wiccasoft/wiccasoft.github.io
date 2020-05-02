@@ -1,4 +1,5 @@
 <!--
+bkz recep tayyip erdoğanın iboya kalorifer hediye etmesi
 bkz ibrahim talısesin 10. yıl marşını coverlaması
 bkz ibrahim talısesin ne mutlu törkem diyene yeah şappi demesi
 bkz tayyoşun iboya kürdistan sözü vermesi
