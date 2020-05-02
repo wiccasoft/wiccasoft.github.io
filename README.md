@@ -1,5 +1,6 @@
 
 <!--
+bkz ercüment ovalının 19 mayısı bekleyemedim açıklaması
 bkz yaşasın türkçü tıp atacücü türk tıbını korusun
 bkz kamal tıbbıyla virüsü yok edeceğiz
 bkz dornaz alfayı türk gençliğine armağan edecem diyen osmanlı torunu
