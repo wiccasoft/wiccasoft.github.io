@@ -1,6 +1,7 @@
 
 
 <!--
+https://kahraman-zorbey.uludagsozluk.com bkz sakat heralde yazık lan kimi çocuysa
 bkz hüseyin nihal atsızın üstüne at atıp sucuk yapma len bunu mq demek
 bkz abdulrahim albyrakın parası neyse ramosu alalım demesi
 bkz abdullrahmi albyarak vs berat albayrak
