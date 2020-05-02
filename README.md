@@ -1,5 +1,6 @@
 
 <!-- 
+https://www.uludagsozluk.com/k/macbook-tamiri-i%C3%A7in-para-toplayan-k%C4%B1z/ bkz amlı diye yardım ediyolar meriçler
 abi o değil de benim iphone kırıldı bi yardım etseniz be abi
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg annemde minnak dehasın diyo abi   -->
 
