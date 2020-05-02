@@ -4,7 +4,7 @@
 bkz akp öncesi çok fena sikiş dönüyodu hacı 
 bkz çok fena sikiş döndüğü düşünülen cemaatler
 bkz yavaş öncesi musluktan su akmıyodu su lağım içiyoduk lağım
-bkz ulu cebeci çankaya yavaşla ankara bambaşkaaaaaaaaaaaaaaaaa
+bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaaaaaaaaaaaaaaa
 https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
 https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
 https://eksisozluk.com/ahmet-hakanin-yazacagi-kitaba-isim-onerileri--6499923?a=popular bkz moderatör hakan
