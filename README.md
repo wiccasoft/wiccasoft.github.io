@@ -1,6 +1,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/jose-mourinho/&w=bg bkz morino bunları okuduğunu biliyorum destan yazdım
 bkz oç türklerin beni türkçü sanması -güldürür evet
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz ergen liseli uyanmış
 bkz erdo vallaha sataram köyü derse kim alacak sorundalı
