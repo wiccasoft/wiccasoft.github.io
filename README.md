@@ -1,4 +1,5 @@
 <!-- 
+bkz ibrahim tatlıses vs selda bağcan
 bkz burak özçivit vs kıvanç tatlıtuğ
 bkz ibo show vs beyaz show
 bkz ibrahim tatlıses vs ido tatlıses
