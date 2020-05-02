@@ -3,6 +3,7 @@
 <!--
 bkz şaka maka ulus devletlerin bitmesi
 bkz endüstri devrimi sonrası uyanan ulusalcılar
+bkz bizimkiler dunkof halis vs banker bilo
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan
 bkz erdoğanın ikinci atacücü olmak istemiyoru demesi
 bkz atacücünün bir inciliz bir fransız bir alman fıkrası 
