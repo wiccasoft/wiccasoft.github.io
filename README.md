@@ -1,6 +1,7 @@
 
 
 <!--
+https://hulagukhan.uludagsozluk.com/ bkz hulaguhan
 bkz erdoğanın ikinci atacücü olmak istemiyoru demesi
 bkz atacücünün bir inciliz bir fransız bir alman fıkrası 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingilizlerle-dalga-ge%C3%A7mesi/
