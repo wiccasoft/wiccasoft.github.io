@@ -1,5 +1,5 @@
 <!--
-bkz 
+bkz illumunatinin tayyipten af dilemesi
 bkz yozdilinin marmaris yatını yanaştırması
 bkz yozdilin bill gates tek rakibim demesi
 bkz tsk yı eleştrien pkk lı
