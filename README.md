@@ -1,4 +1,6 @@
 <!-- 
+bkz tayybini kulağına her biji kürdistan demek
+bkz tece beştepe nin facebook sayfasına her biji kürdistana yazmak
 bkz amın oğlu ekremin facebook sayfası
 bkz facebook a tece no ile giriş yapılacağı iddası
 bkz rte damadın penis yüzüğünü azıyla takıyor iddası
