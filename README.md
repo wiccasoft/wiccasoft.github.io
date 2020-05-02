@@ -1,6 +1,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/nurullah-aslan/ bkz aslan parçası aslan
 bkz millet icraat beklerken kakanın osura osura uyuması
 https://www.uludagsozluk.com/k/erdogan-%C4%B1n-5-icraat%C4%B1n%C4%B1-say/&w=bg bkz az laf çok iş erdo
 https://eksisozluk.com/2002-2008-arasi-altin-donem--6500399?a=popular bkz sıcak para oluk gibi akıyodu hacıı
