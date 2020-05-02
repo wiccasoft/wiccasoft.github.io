@@ -2,6 +2,7 @@
 <!--
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
+bkz burak özçivitin ülkücü doktor dizisi için teklif alması
 bkz atacücünün covid19 u türk gençliğine armağan etmesi
 bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz atacücünnü damarlarınızdaki asil kanda mevcuttur lafı
