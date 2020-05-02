@@ -1,5 +1,6 @@
 
 <!--
+bkz yılmaz özdil yılmaz erdoğan dostluğu
 bkz yaparsın aşkımdaki şapşik piç erkekler
 bkz şapşik erkeklerin kendilerine piç demesi
 bkz 185 boyunda şapşik kültürlü zeki çevik yaparsın aşkım izleyen erkek
