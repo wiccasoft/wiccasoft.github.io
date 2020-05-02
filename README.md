@@ -1,7 +1,8 @@
 
 
 <!--
-bkz abdullrahmi albyarak vs bera albayrak
+bkz abdulrahim albyrakın parası neyse ramosu alalım demesi
+bkz abdullrahmi albyarak vs berat albayrak
 bkz vedat mürüçü 300 milyüm yürü len mq
 bkz facebook ta tc isimi gemiler
 bkz ne yani facebooka tece no yazıp mı girecez öle miiiiiiiiiii
