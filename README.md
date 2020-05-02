@@ -1,4 +1,6 @@
 <!-- 
+bkz ibrahim tatlıses vs ido tatlıses
+https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg
 bkz 12 cm penisis olan erkek vs 18 cm penisi olan erkek
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=bg
 bkz barış ataydan doğan  vs receğ tayyiğden doğan
