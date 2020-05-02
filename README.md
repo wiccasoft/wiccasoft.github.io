@@ -1,6 +1,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz yalanası burun
+https://www.uludagsozluk.com/k/ambulans-helikopterin-ini%C5%9Fine-izin-vermeyen-dingil/ bkz amın oğlu dingil
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-dolar%C4%B1-d%C3%BC%C5%9F%C3%BCrememesi/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/askerin-darbelerde-ac%C4%B1mas%C4%B1z-olmas%C4%B1/ bkz asker darbesi
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=gd bkz yine öldü sandım
