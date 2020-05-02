@@ -3,6 +3,7 @@
 bkz yılmaz özdil yılmaz erdoğan dostluğu
 bkz yaparsın aşkımdaki şapşik piç erkekler
 bkz şapşik erkeklerin kendilerine piç demesi
+bkz amınoğlu ekremin doları düşürmemesi
 bkz cem yılmazın yatakta başarısız olduğu iddaları
 bkz yakışıklı erkeklerin sıkıcı oldukları iddası sorundalı
 https://eksisozluk.com/bosanmis-bir-erkekle-evlenmek--4756393?a=popular bkz olmaz ayol yürümez
