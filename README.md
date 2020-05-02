@@ -1,5 +1,6 @@
 
 <!--
+bkz yaşasın türkçü tıp atacücü türk tıbını korusun
 bkz kamal tıbbıyla virüsü yok edeceğiz
 bkz dornaz alfayı türk gençliğine armağan edecem diyen osmanlı torunu
 bkz ben senle anal da takılırım diyen erkek
