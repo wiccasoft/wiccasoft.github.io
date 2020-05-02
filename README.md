@@ -1,13 +1,13 @@
 
 <!--
 https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz yalanası burun
-https://www.uludagsozluk.com/k/askerin-darbelerde-ac%C4%B1mas%C4%B1z-olmas%C4%B1/ bkz askerin tokmaklı darbesi
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-dolar%C4%B1-d%C3%BC%C5%9F%C3%BCrememesi/ bkz amınoğlu ekrem
+https://www.uludagsozluk.com/k/askerin-darbelerde-ac%C4%B1mas%C4%B1z-olmas%C4%B1/ bkz asker darbesi
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=gd bkz yine öldü sandım
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz ölmeyen efso çaycı
 bkz yılmaz özdil yılmaz erdoğan dostluğu
 bkz yaparsın aşkımdaki şapşik piç erkekler
 bkz şapşik erkeklerin kendilerine piç demesi
-bkz amınoğlu ekremin doları düşürmemesi
 bkz cem yılmazın yatakta başarısız olduğu iddaları
 bkz yakışıklı erkeklerin sıkıcı oldukları iddası sorundalı
 https://eksisozluk.com/sikici-erkeklerin-kendilerine-efendi-demeleri--6501029?a=popular bkz sikici 
