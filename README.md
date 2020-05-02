@@ -1,6 +1,7 @@
 
 <!--
 bkz entry girilen erkeğin imgelemek
+bkz entry girilen erkekle duygusal bağ kurmak
 bkz çaycı hüseyin vs kim jong kun son hali
 bkz erkek deyince ağızda kalan kekremsi tad
 bkz erkek deyince akılda beliren ilk imge
