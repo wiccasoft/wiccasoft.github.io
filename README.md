@@ -1,6 +1,7 @@
 
 
 <!--
+bkz hüseyin nihal aatsızın üstüne at atıp sucuk yapma len bunu mq demek
 bkz abdulrahim albyrakın parası neyse ramosu alalım demesi
 bkz abdullrahmi albyarak vs berat albayrak
 bkz vedat mürüçü 300 milyüm yürü len mq
