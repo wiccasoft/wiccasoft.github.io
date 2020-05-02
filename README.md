@@ -33,6 +33,7 @@ https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğl
 https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
 https://eksisozluk.com/2002-2008-arasi-altin-donem--6500399?a=popular bkz sıcak para oluk gibi akıyodu hacıı
 bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı 
+https://eksisozluk.com/herkesin-asiri-terledigi-ibo-show-20-bolumu--6500491?a=popular
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 bkz yavaş öncesi musluktan su akmıyodu su lağım içiyoduk lağım
