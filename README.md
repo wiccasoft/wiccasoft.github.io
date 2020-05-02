@@ -1,4 +1,5 @@
 <!--
+bkz ido tatlıses bakir midir sorundalı
 bkz bamya pipili türk erkeği patlıcan yarraklı kürt erkeği evliliği
 bkz recep tayyip erdoğanın iboya kalorifer hediye etmesi
 bkz ibrahim talısesin 10. yıl marşını coverlaması
