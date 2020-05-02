@@ -1,3 +1,9 @@
+<!-- 
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg 
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+-->
+
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!--
