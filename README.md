@@ -1,8 +1,6 @@
 
 <!--
-bkz kim jong un un doğu gutaya asker yığması
-bkz kim jong unun yeni roket denemesi
-bkz kim jong jung un saçları
+bkz kim jon un deyince akılda beliren ilk imge
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
 bkz burak özçivitin ülkücü doktor dizisi için teklif alması
