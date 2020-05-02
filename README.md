@@ -1,6 +1,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz ergen liseli gelmiş
 bkz erdo vallaha sataram köyü derse kim alacak sorundalı
 https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
 https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
