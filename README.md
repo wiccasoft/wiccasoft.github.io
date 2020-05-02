@@ -2,6 +2,7 @@
 
 <!--
 bkz atacüc cücü müydü sorundalı
+bkz at burcu erkeği nihal atsız ilişkisi
 bkz nihal atsızın üstüne at atıp kaçmak
 bkz serdar ortaçın gerçek türk benim demesi
 bkz hüzeyin nihal atsızın at kafası kesip türkün atına kan değdi kan demesi
