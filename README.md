@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=gd bkz yine öldü sandım
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz ölmeyen efso çaycı
 bkz yılmaz özdil yılmaz erdoğan dostluğu
 bkz yaparsın aşkımdaki şapşik piç erkekler
