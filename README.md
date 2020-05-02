@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/gipsy-kingsin-%C5%9Fimdiki-hali/ hey gidi nerden nereye
 https://www.uludagsozluk.com/k/rigobert-song-un-son-hali/ bkz kankağ yakıosun hanny
 bkz kim jong jung vs receğ jong doğan
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg adamın karekökü
