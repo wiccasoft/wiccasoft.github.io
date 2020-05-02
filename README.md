@@ -1,6 +1,7 @@
 
 
 <!--
+bkz cücü diye ülke kurup kendine atacücü adına vermek
 bkz atacücü madem ateistti niye diyaneti kurdu sorundalı
 https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg bkz megolamanya
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-en-b%C3%BCy%C3%BCk-hata/&w=gd 
