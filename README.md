@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz ıstırılası burun
 bkz çaycı hüseyin öldü iddaları
 bkz ben senin bokunu yerim lan bokunu diyen erkek
 bkz hiç mala vurmamaış erkek seksizliği
