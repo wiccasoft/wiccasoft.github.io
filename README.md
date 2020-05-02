@@ -1,5 +1,6 @@
 
 <!--
+bkz okan bayülgen vs kim jong jung
 bkz ekrem amınoğlu kim jong jung benzerliği
 bkz geceye bırakılan erkeğin pixellerini yalayan ibneler
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz yanakları yalanası liderler
