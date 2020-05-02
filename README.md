@@ -1,7 +1,8 @@
 
 <!--
+bkz sedat pekerin plastik cerrahı
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/&w=gd bkz adamın selülözlü hali
-https://www.uludagsozluk.com/k/sedat-peker/&w=gd adamın ham maddesi
+https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz adamın ham maddesi
 bkz ateş toprak su selülöz 
 bkz selülöz tabi zoruna mı gitti
 bkz sırf ışıkla çık bir yardım mardım yok amk
