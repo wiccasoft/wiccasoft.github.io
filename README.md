@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz kamyon şöförü
 https://www.uludagsozluk.com/k/kim-jong-un/ bkz kim jon un
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iettden arkadaşı
 bkz recep şaban ramadan
