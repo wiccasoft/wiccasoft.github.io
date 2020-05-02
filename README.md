@@ -1,6 +1,7 @@
 
 
 <!--
+bkz atacücücnün incilisleri denize döküp nası döktüm ama demesi
 bkz atacücünnü cücülükten aldığım keyfi başka ırktan alamadım demesi
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan
 bkz erdoğanın ikinci atacücü olmak istemiyoru demesi
