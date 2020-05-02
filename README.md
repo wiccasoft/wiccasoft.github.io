@@ -1,6 +1,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
+https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
 https://eksisozluk.com/2002-2008-arasi-altin-donem--6500399?a=popular bkz sıcak para oluk gibi akıyodu hacıı
 bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı 
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
