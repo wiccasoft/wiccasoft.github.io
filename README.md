@@ -1,8 +1,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz emine erdoğan
-https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz banker bilodaki mantık hatası
+https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
 https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
 https://eksisozluk.com/ahmet-hakanin-yazacagi-kitaba-isim-onerileri--6499923?a=popular bkz moderatör hakan
 https://eksisozluk.com/virus-salgini-sirasinda-ayin-yapan-tarikat--6500326?a=popular bkz ismailağa tarikati 
