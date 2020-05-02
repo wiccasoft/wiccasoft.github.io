@@ -1,7 +1,7 @@
 
 
 <!--
-bkz kamalcılardaki şark kurnazlığı
+https://eksisozluk.com/2002-2008-arasi-altin-donem--6500399?a=popular bkz sıcak para oluk gibi akıyodu hacıı
 bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı 
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
