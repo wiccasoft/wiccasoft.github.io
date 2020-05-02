@@ -1,7 +1,7 @@
 
 
 <!--
-bkz vedat mürüqü 500 mülyün yürülen mq
+bkz abdullrahmi albyarak vs bera albayrak
 bkz vedat mürüçü 300 milyüm yürü len mq
 bkz facebook ta tc isimi gemiler
 bkz ne yani facebooka tece no yazıp mı girecez öle miiiiiiiiiii
