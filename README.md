@@ -1,6 +1,7 @@
 
 <!--
-bkz erkek deeyince akılda beliren ilk imge
+bkz erkek deyince ağızda kalan kekremsi tad
+bkz erkek deyince akılda beliren ilk imge
 https://www.uludagsozluk.com/k/aziz-ba%C5%9Fkan%C4%B1n-son-hali/ 
 https://www.uludagsozluk.com/k/kad%C4%B1n-ve-para-kar%C5%9F%C4%B1s%C4%B1nda-dik-durabilen-erkek/ bkz çaycı hüseyin
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/ bkz metja kezban son hali jpeg
