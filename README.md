@@ -1,5 +1,6 @@
 
 <!--
+bkz geceye bırakılan erkeğin pixellerini yalayan ibneler
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz yanakları yalanası liderler
 bkz eminemin posterini yalarken odaya babanın girmesi
 https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz yalanası burun
