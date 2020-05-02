@@ -1,9 +1,9 @@
 
 <!--
+bkz osmanlı torunu tedavisi üzerinde çalışan virüs
 bkz osmanlı torununun dornaz alfayı türk gençliğine armağan etmesi
 bkz zühur değil dühuldur o zühur olsa duramazsın
 https://www.uludagsozluk.com/k/hz-mehdi-istanbul-da-zuhur-etmi%C5%9Ftir/&w=bg bkz zühur değil dühuldur o
-bkz osmanlı torunu tedavisi üzerinde çalışan virüs
 https://www.uludagsozluk.com/k/covid19-tedavisi-%C3%BCzerine-%C3%A7al%C4%B1%C5%9Fan-osmanl%C4%B1-torunu/ 
 bkz amerikalı kolej öğrencilerinin ders notlarını çalan dayı
 https://www.uludagsozluk.com/k/illuminati/&w=bg eywallah abi
