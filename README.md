@@ -5,6 +5,7 @@ bkz selülöz tabi zoruna mı gitti
 bkz sırf ışıkla çık bir yardım mardım yok amk
 bkz osmanlı torunu tedavisi üzerinde çalışan virüs
 bkz zühur değil dühuldur o zühur olsa duramazsın
+bkz nihat hatipoğlanın huzur verici halleri
 bkz bi formül bulacam ananızı sikecem ananızı diyen osmanlı torunu
 bkz bi antivirüs bulacam paranın amına koyacaz olm diyen abdulhamdi torunu
 https://www.uludagsozluk.com/k/hz-mehdi-istanbul-da-zuhur-etmi%C5%9Ftir/&w=bg bkz zühur değil dühuldur o
