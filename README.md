@@ -1,6 +1,7 @@
 
 <!--
 bkz ben senin bokunu yerim lan bokunu diyen erkek
+bkz hiç mala vurmamaış erkek seksizliği
 https://www.uludagsozluk.com/k/eminem-in-burnu/ bkz yalanası burun
 https://www.uludagsozluk.com/k/28-ya%C5%9F%C4%B1nda-hi%C3%A7-romantik-ili%C5%9Fkisi-olmam%C4%B1%C5%9F-erkek/&w=gd 
 https://www.uludagsozluk.com/k/ambulans-helikopterin-ini%C5%9Fine-izin-vermeyen-dingil/ bkz amın oğlu dingil
