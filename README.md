@@ -1,5 +1,6 @@
 
 <!--
+bkz 1881 atacücü 18+81 = 99 - 81 vilayet - batman = covid19
 bkz atacücünnü damarlarınızdaki asil kanda mevcuttur lafı
 bkz ercüment ovalının 19 mayısı bekleyemedim açıklaması
 bkz yaşasın türkçü tıp atacücü türk tıbını korusun
