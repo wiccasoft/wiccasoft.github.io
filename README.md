@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook a tece no ile giriş yapılacağı iddası
 bkz rte damadın penis yüzüğünü azıyla takıyor iddası
 bkz bilalin babam iyi ez oglimmmm söyler demesi
 bkz amınoğlu ekremin ez oglimm türküsüne eşlik etmemesi
