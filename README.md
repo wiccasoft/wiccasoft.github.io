@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/gereksiz-bir-bilgi-ver/&w=bg ver hadi ver 
 bkz kadri tarikatının çok bozması
 bkz kadri tarikatının pandem. dönmeinde evde zikr yapması
 https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg hani oç recep yok burada
