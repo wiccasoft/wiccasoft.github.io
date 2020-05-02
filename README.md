@@ -1,8 +1,9 @@
 <!--
+bkz 
 bkz yozdilinin marmaris yatını yanaştırması
 bkz yozdilin bill gates tek rakibim demesi
 bkz tsk yı eleştrien pkk lı
-bkz hdpnin paylaştığı hakkını ara videosu
+bkz hdpnin paylaştığı hdp de kal vidyosu
 bkz receğ tayyiğ doğanın beştepe yanına havuzlu mescid yağtırması
 bkz fatih ortakalın yılmaz özdilin yanına ev yaptırması
 bkz çaycı hüseyin obama öldü iddaları -->
