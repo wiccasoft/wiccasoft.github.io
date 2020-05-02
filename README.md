@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adamın hammaddesi
 bkz entry girilen erkeğin imgelemek
 bkz entry girilen erkekle duygusal bağ kurmak
 bkz çaycı hüseyin vs kim jong kun son hali
