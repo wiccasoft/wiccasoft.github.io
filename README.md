@@ -1,7 +1,8 @@
 
 
 <!--
-bkz facebook a tece ile girilecekmiş bunlar hem israil abd nin oyunu hacı çok büyük oyun dönüyo hacııııııı
+https://eksisozluk.com/2002-2008-arasi-altin-donem--6500399?a=popular bkz sıcak para oluk gibi akıyodu hacıı
+bkz facebook a tece ile girilecekmiş bunlar hep israil abd nin oyunu hacı çok büyük oyun dönüyo hacııııııı
 https://www.uludagsozluk.com/k/abd-ve-israil-uludur-masonlar-onun-kuludur/ hayallerde yaşıyor abd vs israil
 bkz cücü diye ülke kurup kendine atacücü adına vermek
 bkz atacücü madem ateistti niye diyaneti kurdu sorundalı
