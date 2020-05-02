@@ -4,8 +4,6 @@
 bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
-bkz çok fena sikiş döndüğü düşünülen cemaatler
-bkz pazar günü seni klisede göremedim john
 bkz yavaş öncesi musluktan su akmıyodu su lağım içiyoduk lağım
 bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaaaaaaaaaaaaaaa
 https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
@@ -16,6 +14,8 @@ https://eksisozluk.com/mayis-2020-kargo-firmalarinin-cokmesi--6500271?a=popular 
 https://eksisozluk.com/1-mayis-2020-otomobil-zamlari--6499996?a=popular bkz bmw ikinci el alma zamanı hacı
 https://eksisozluk.com/fox-tv-sozcu-eksisozluk--6500330?a=popular bkz düşük zekalı primat üçgeni
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz sakat ekşici tipli vasat oyuncu
+bkz çok fena sikiş döndüğü düşünülen cemaatler
+bkz pazar günü seni klisede göremedim john
 -->
 
 
