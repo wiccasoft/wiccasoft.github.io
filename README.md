@@ -1,5 +1,6 @@
 
 <!--
+bkz kim jong jung un yanakları
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
 bkz burak özçivitin ülkücü doktor dizisi için teklif alması
