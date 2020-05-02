@@ -1,4 +1,5 @@
 <!-- 
+bkz bilalin babam iyi ez oglimmmm söyler demesi
 bkz amınoğlu ekremin ez oglimm türküsüne eşlik etmemesi
 bkz ez oglimmmmmmmm vadanine göz dikeni sez oglimmmmmmm
 bkz receğ tayyiğ erdoğan ibrajim tatlıses dostluğu
