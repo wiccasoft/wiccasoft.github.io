@@ -1,11 +1,5 @@
-<!--
-bkz jeff yozdilin yatının marmarise demirlemesi
-bkz minnak filozok atakanın büyünce entry gircem demesi
-bkz sagopa nın cezayı affetmesi
-bkz fatih ortakalın yılmaz özdilin yanına ev yaptırması
-bkz çaycı hüseyin öldü iddaları -->
-
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
+
 <!--
 https://mrdeepfakes.com/video/6307/aleyna-tilki-proves-a-handful-of-skills
 https://mrdeepfakes.com/video/7525/seyma-subasi-is-still-hungry-for-hot-cum
