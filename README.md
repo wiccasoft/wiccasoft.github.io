@@ -1,7 +1,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/illuminati/&w=bg eywallah abi
-bkz ben hep 2000 dolarlık iphone alırım abi saygılar abi
+bkz ben hep 2000 dolarlık iphone alırım abi saygılar selam ve dua ile abi
 yütüp sayfamıza üye olun yeter abi para istemiyoz abi selam ve dualipa ile abi
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw 
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
