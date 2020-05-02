@@ -1,4 +1,5 @@
 <!--
+bkz sagopa nın cezayı affetmesi
 bkz rockerfellerin tayyipe aman abi götünü yiyim abi çekmesi
 bkz illumunatinin tayyipten af dilemesi
 bkz yozdilinin marmaris yatını yanaştırması
