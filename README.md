@@ -8,6 +8,15 @@ https://mrdeepfakes.com/video/7422/aleyna-tilki-gives-a-bj-with-happy-ending
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
+<!--
+https://eksisozluk.com/ahmet-hakanin-yazacagi-kitaba-isim-onerileri--6499923?a=popular bkz moderatör hakan
+https://eksisozluk.com/virus-salgini-sirasinda-ayin-yapan-tarikat--6500326?a=popular bkz ismailağa tarikati 
+https://eksisozluk.com/mayis-2020-kargo-firmalarinin-cokmesi--6500271?a=popular bkz yurt içi kargo
+https://eksisozluk.com/1-mayis-2020-otomobil-zamlari--6499996?a=popular bkz bmw ikinci el alma zamanı hacı
+https://eksisozluk.com/fox-tv-sozcu-eksisozluk--6500330?a=popular bkzdüşük zekalı primat hareketleri
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz sakat ekşici tipli vasat oyuncu
+-->
+
 [![Image](prototype/Screenshot_2020-04-28_07-40-25.png)]( https://www.youtube.com/watch?v=9ghPVA6u_og )
 
 [![Image](prototype/Screenshot_2020-04-24_02-08-47.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
