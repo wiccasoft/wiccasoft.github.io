@@ -1,4 +1,5 @@
 <!-- 
+bkz rte damadın penis yüzğünü azıyla takıyor iddası
 bkz bilalin babam iyi ez oglimmmm söyler demesi
 bkz amınoğlu ekremin ez oglimm türküsüne eşlik etmemesi
 bkz ez oglimmmmmmmm vadanine göz dikeni sez oglimmmmmmm
