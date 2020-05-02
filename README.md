@@ -1,5 +1,6 @@
 
 <!--
+bkz çaycı kevin kostnerın ölmesi
 bkz kevin costnerin burnu
 bkz okan bayülgen vs kim jong jung
 bkz geceye bırakılan erkeğin pixellerini yalayan ibneler
