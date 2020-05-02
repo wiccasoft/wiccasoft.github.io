@@ -1,4 +1,5 @@
 <!--
+bkz receğ tayyiğ doğanın beştepe yanına havuzlu mescid yağtırması
 bkz fatih ortakalın yılmaz özdilin yanına ev yaptırması
 bkz çaycı hüseyin obama öldü iddaları -->
 
