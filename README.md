@@ -1,4 +1,5 @@
 <!--
+bkz jeff yozdilin yatının marmarise demirlemesi
 bkz minnak filozok atakanın büyünce entry gircem demesi
 bkz sagopa nın cezayı affetmesi
 bkz fatih ortakalın yılmaz özdilin yanına ev yaptırması
