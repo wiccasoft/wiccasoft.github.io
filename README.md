@@ -5,6 +5,9 @@ bkz cücü diye ülke kurup kendine atacücü adına vermek
 bkz atacücü madem ateistti niye diyaneti kurdu sorundalı
 bkz millet hizmet beklerken şokomelli damadın uyuyması
 https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg bkz megolamanya
+https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
+https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
+https://eksisozluk.com/2002-2008-arasi-altin-donem--6500399?a=popular bkz sıcak para oluk gibi akıyodu hacıı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-en-b%C3%BCy%C3%BCk-hata/&w=gd 
 https://kahraman-zorbey.uludagsozluk.com bkz sakat heralde yazık lan kimi çocuysa
 bkz hüseyin nihal atsızın üstüne at atıp sucuk yapma len bunu mq demek
@@ -13,7 +16,7 @@ https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi siker hacıt
 bkz ne yani ben sıçacam sen de gelip benim pokumun üstüne sıçacan ölemiiiiiiiii
 https://www.uludagsozluk.com/k/sosyal-medyaya-tc-numaras%C4%B1-ile-giri%C5%9F-yap%C4%B1lacak/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg bkz megolamanya
-https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz  at atıp kaçmak
+https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz at atıp kaçmak
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-en-b%C3%BCy%C3%BCk-hata/&w=bg
 https://www.uludagsozluk.com/k/jose-mourinho/&w=bg bkz morino bunları okuduğunu biliyorum destan yazdım
 https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz ergen liseli uyanmış
