@@ -1,6 +1,7 @@
 
 
 <!--
+bkz atacünnün incilizlerle taşşak geçmesi
 bkz atacücünün yunanları denize döküp eyi oldu yoğurt olurlar demesi
 bkz atacücücnün incilisleri denize döküp nası döktüm ama demesi
 bkz atacücünnü cücülükten aldığım keyfi başka ırktan alamadım demesi
