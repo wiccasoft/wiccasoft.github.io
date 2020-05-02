@@ -1,7 +1,9 @@
 
 <!--
+bkz dornaz alfayı türk gençliğine armağan edecem diyen osmanlı torunu
 bkz ben senle anal da takılırım diyen erkek
 bkz geceye bırakılan erkeğin pixellerini yalayan ibneler
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BC-osmanl%C4%B1-t%C4%B1bb%C4%B1-ile-yok-edece%C4%9Fiz/
 https://www.uludagsozluk.com/k/face-profiline-kanl%C4%B1-g%C3%BCl-foto%C4%9Fraf%C4%B1-koyan-tip/ adres ver kankağ
 https://www.uludagsozluk.com/k/evlenmeden-seks-yapan-erke%C4%9Fin-namusu/ boşalan çıksın kasıyo beyler
 https://www.uludagsozluk.com/k/kim-jong-un/&w=bg bkz yanakları yalanası liderler
