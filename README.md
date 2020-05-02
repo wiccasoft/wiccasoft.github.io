@@ -1,5 +1,6 @@
 
 <!--
+bkz kim jong un un 3 kelimeyle anlat
 bkz kim jon un deyince akılda beliren ilk imge
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
