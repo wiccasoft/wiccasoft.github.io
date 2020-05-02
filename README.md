@@ -1,4 +1,18 @@
 
+
+<!--
+bkz bilala erdoğanın annesine orospu demesi
+https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz banker bilodaki mantık hatası
+https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
+https://eksisozluk.com/ahmet-hakanin-yazacagi-kitaba-isim-onerileri--6499923?a=popular bkz moderatör hakan
+https://eksisozluk.com/virus-salgini-sirasinda-ayin-yapan-tarikat--6500326?a=popular bkz ismailağa tarikati 
+https://eksisozluk.com/mayis-2020-kargo-firmalarinin-cokmesi--6500271?a=popular bkz yurt içi kargo
+https://eksisozluk.com/1-mayis-2020-otomobil-zamlari--6499996?a=popular bkz bmw ikinci el alma zamanı hacı
+https://eksisozluk.com/fox-tv-sozcu-eksisozluk--6500330?a=popular bkz düşük zekalı primat hareketleri
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz sakat ekşici tipli vasat oyuncu
+-->
+
+
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 <!--
 https://mrdeepfakes.com/video/6307/aleyna-tilki-proves-a-handful-of-skills
