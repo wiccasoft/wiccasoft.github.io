@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/ bkz şükrüüüüüüüüü
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz kamyon şöförü
 https://www.uludagsozluk.com/k/kim-jong-un/ bkz kim jon un
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iettden arkadaşı
