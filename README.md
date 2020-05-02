@@ -1,5 +1,6 @@
 
 <!--
+bkz osmanlı torununun dornaz alfayı türk gençliğine armağan etmesi
 bkz zühur değil dühuldur o zühur olsa duramazsın
 https://www.uludagsozluk.com/k/hz-mehdi-istanbul-da-zuhur-etmi%C5%9Ftir/&w=bg bkz zühur değil dühuldur o
 bkz osmanlı torunu tedavisi üzerinde çalışan virüs
