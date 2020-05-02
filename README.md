@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg adamın karekökü
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adamın hammaddesi
 bkz entry girilen erkeğin imgelemek
 bkz entry girilen erkekle duygusal bağ kurmak
