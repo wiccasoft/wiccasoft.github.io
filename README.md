@@ -1,9 +1,11 @@
 
 
 <!--
+https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 bkz akp öncesi çok fena sikiş dönüyodu hacı 
 bkz çok fena sikiş döndüğü düşünülen cemaatler
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
+bkz pazar günü seni klisede göremedim john
 bkz yavaş öncesi musluktan su akmıyodu su lağım içiyoduk lağım
 bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaaaaaaaaaaaaaaa
 https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
