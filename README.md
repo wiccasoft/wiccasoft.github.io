@@ -1,6 +1,6 @@
 
 <!--
-https://www.uludagsozluk.com/k/hazinedeki-bor%C3%A7-miktar%C4%B1n%C4%B1n-gittik%C3%A7e-artmas%C4%B1/ eyi eyi
+bkz ırak şam devletini borca sokup türküyeyler kapıştırmak
 https://www.uludagsozluk.com/k/%C4%B1rak-%C5%9Fam-islam-devleti/&w=bg bkz gerisi şamda kayısı
 https://www.uludagsozluk.com/k/mateja-kezman%C4%B1n-son-hali/ bkz tam kezbana dönmüş lan
 bkz ülkücü bıyıklı doktorlar
