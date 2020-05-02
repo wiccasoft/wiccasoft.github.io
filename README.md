@@ -1,5 +1,7 @@
 
 <!--
+bkz beyler gecey bırakılacak admalar hazır mı
+https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz en sevdiğim yer
 bkz kadiri tarikatının çok bozması
 https://www.uludagsozluk.com/k/kadiri-tarikat%C4%B1n%C4%B1n-pandemi-d%C3%B6neminde-zikir-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz ölmemiş beyler
