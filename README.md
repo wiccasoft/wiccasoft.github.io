@@ -1,7 +1,7 @@
 
 
 <!--
-bkz facebook a tece ile girilecekmiş - bunlar hem mossad abd nin oyunu
+bkz facebook a tece ile girilecekmiş - bunlar hem mossad abd nin oyunu hacı çok büyük oyun dönüyo hacııııııı
 https://www.uludagsozluk.com/k/abd-ve-israil-uludur-masonlar-onun-kuludur/ hayallerde yaşıyor abd vs israil
 bkz cücü diye ülke kurup kendine atacücü adına vermek
 bkz atacücü madem ateistti niye diyaneti kurdu sorundalı
