@@ -1,4 +1,5 @@
 <!-- 
+bkz ez oglimmmmmmmm vadanine göz dikeni sez oglimmmmmmm
 bkz receğ tayyiğ erdoğan ibrajim tatlıses dostluğu
 bkz ibrahim tatlıses vs selda bağcan
 bkz burak özçivit vs kıvanç tatlıtuğ
