@@ -1,4 +1,6 @@
 <!-- 
+bkz 12 cm penisis olan erkek vs 18 cm penisi olan erkek
+https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=bg
 bkz barış ataydan doğan  vs receğ tayyiğden doğan
 https://www.uludagsozluk.com/k/8-cm-i-%C3%A7%C4%B1kar%C4%B1p-masaya-%C5%9Flep-%C5%9Flep-vurmak/
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd
