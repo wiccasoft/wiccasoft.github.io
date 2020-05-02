@@ -1,5 +1,6 @@
 
 <!--
+bkz bi aşı bulacam hepinizi kurtaracam olm diyen osmanlı torunu
 bkz osmanlı torunu tedavisi üzerinde çalışan virüs
 bkz osmanlı torununun dornaz alfayı türk gençliğine armağan etmesi
 bkz zühur değil dühuldur o zühur olsa duramazsın
