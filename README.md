@@ -6,6 +6,7 @@ bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 bkz yavaş öncesi musluktan su akmıyodu su lağım içiyoduk lağım
 bkz ulus cebeci çankaya yavaşla ankara bambaşkaaaaaaaaaaaaaaaaa
+https://eksisozluk.com/corona-surecinde-en-cok-guvenilen-doktor--6500461?a=popular bkz dornaz ercü
 https://www.uludagsozluk.com/k/salakodaki-kaşar-emine/ bkz kaşar eminenin oğlu sakat bilo
 https://eksisozluk.com/banker-biloda-bilonun-hicte-saf-olmamasi--6500387?a=popular bkz salako daki kaşar emine
 https://eksisozluk.com/ahmet-hakanin-yazacagi-kitaba-isim-onerileri--6499923?a=popular bkz moderatör hakan
