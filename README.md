@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz recep tayyipten doğan
 https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz gün ay yıl klasörü
 https://www.uludagsozluk.com/k/adam-gibi-adam/&w=bg
 bkz geceye adam bırak sabah da yeriz delikanlı
