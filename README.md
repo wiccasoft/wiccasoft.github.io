@@ -1,5 +1,6 @@
 <!--
-bkzx ibrahim talısesin ne mutlu törkem diyene yeah şappi demesi
+bkz ibrahim talısesin 10. yıl marşını coverlaması
+bkz ibrahim talısesin ne mutlu törkem diyene yeah şappi demesi
 bkz tayyoşun iboya kürdistan sözü vermesi
 bkz tayybin kulağına her biji kürdistan demek
 bkz tece beştepe nin facebook sayfasına her biji kürdistana yazmak
