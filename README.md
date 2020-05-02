@@ -1,6 +1,7 @@
 
 
 <!--
+bkz kamalcılardaki şark kurnazlığı
 bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı 
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
