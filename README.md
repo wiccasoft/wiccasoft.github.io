@@ -1,6 +1,7 @@
 
 
 <!--
+bkz vedat mürüçü 300 milyüm yürü len mq
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 94 lü seksi erkekler
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg messi siker olm
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
