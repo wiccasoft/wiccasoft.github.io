@@ -2,6 +2,7 @@
 
 <!--
 bkz atacüc cücü müydü sorundalı
+https://www.uludagsozluk.com/k/nihal-ats%C4%B1z-%C4%B1n-neden-at%C4%B1-yok/ bkz atını siken kovboy nihal
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-en-b%C3%BCy%C3%BCk-hata/&w=bg
 https://www.uludagsozluk.com/k/jose-mourinho/&w=bg bkz morino bunları okuduğunu biliyorum destan yazdım
 bkz oç türklerin beni türkçü sanması -güldürür evet
