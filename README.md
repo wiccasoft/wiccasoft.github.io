@@ -1,11 +1,10 @@
 
 
 <!--
-bkz hüseyin nihal aatsızın üstüne at atıp sucuk yapma len bunu mq demek
+bkz hüseyin nihal atsızın üstüne at atıp sucuk yapma len bunu mq demek
 bkz abdulrahim albyrakın parası neyse ramosu alalım demesi
 bkz abdullrahmi albyarak vs berat albayrak
 bkz vedat mürüçü 300 milyüm yürü len mq
-bkz facebook ta tc isimi gemiler
 bkz ne yani facebooka tece no yazıp mı girecez öle miiiiiiiiiii
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 94 lü seksi erkekler
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg messi siker olm
