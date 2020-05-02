@@ -1,6 +1,6 @@
 
 <!--
-bkz osmanlı tıbbı vs kamalcı tıbbı
+bkz atacücünnü damarlarınızdaki asil kanda mevcuttur lafı
 bkz ercüment ovalının 19 mayısı bekleyemedim açıklaması
 bkz yaşasın türkçü tıp atacücü türk tıbını korusun
 bkz kamal tıbbıyla virüsü yok edeceğiz
