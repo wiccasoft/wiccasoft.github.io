@@ -1,5 +1,6 @@
 
 <!-- 
+bkz çıkarı olan herkeşe abi çeken omurgasız dayı
 bkz amerikalı kolej öğrencilerinin ders notlarını çalan dayı
 https://www.uludagsozluk.com/k/illuminati/&w=bg eywallah abi
 yütüp sayfamıza üye olun yeter abi para istemiyoz selam ve dualipa abi
