@@ -1,7 +1,7 @@
 
 
 <!--
-bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı
+bkz akp öncesi çok fena sikiş dönüyodu hacı her gece çarkıfelek izliyoduk hacı 
 bkz cinsel devrim yapmaya gidiyorum geliyomusun - gelmiyorum 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 bkz yavaş öncesi musluktan su akmıyodu su lağım içiyoduk lağım
