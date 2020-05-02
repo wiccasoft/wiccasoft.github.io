@@ -1,15 +1,8 @@
 <!--
 bkz minnak filozok atakanın büyünce entry gircem demesi
 bkz sagopa nın cezayı affetmesi
-bkz rockerfellerin tayyipe aman abi götünü yiyim abi çekmesi
-bkz illumunatinin tayyipten af dilemesi
-bkz yozdilinin marmaris yatını yanaştırması
-bkz yozdilin bill gates tek rakibim demesi
-bkz tsk yı eleştrien pkk lı
-bkz hdpnin paylaştığı hdp de kal vidyosu
-bkz receğ tayyiğ doğanın beştepe yanına havuzlu mescid yağtırması
 bkz fatih ortakalın yılmaz özdilin yanına ev yaptırması
-bkz çaycı hüseyin obama öldü iddaları -->
+bkz çaycı hüseyin öldü iddaları -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 <!--
