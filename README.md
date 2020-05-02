@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz ölmemiş beyler
 https://www.uludagsozluk.com/k/kim-jong-un/ bkz babası da çapkın dı bunun
 https://www.uludagsozluk.com/k/gipsy-kingsin-%C5%9Fimdiki-hali/ hey gidi nerden nereye
 https://www.uludagsozluk.com/k/rigobert-song-un-son-hali/ bkz kankağ yakıosun hanny
