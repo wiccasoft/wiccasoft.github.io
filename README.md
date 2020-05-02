@@ -4,7 +4,7 @@ bkz yılmaz özdil yılmaz erdoğan dostluğu
 bkz yaparsın aşkımdaki şapşik piç erkekler
 bkz şapşik erkeklerin kendilerine piç demesi
 bkz cem yılmazın yatakta başarısız olduğu iddaları
-bkz y185 boyunda gelinim mutfakta izleyen yakışıklı kültürlü erkek
+bkz 185 boyunda gelinim mutfakta eski bölümlerini yütüpten izleyen yakışıklı kültürlü erkek
 bkz 185 boyunda şapşik kültürlü zeki çevik yaparsın aşkım izleyen erkek
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu/&w=gd bkz adamın selülözlü hali
 https://www.uludagsozluk.com/k/sedat-peker/&w=gd bkz adamın ham maddesi
