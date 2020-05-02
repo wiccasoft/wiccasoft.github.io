@@ -1,6 +1,7 @@
 
 
 <!--
+bkz şaka maka ulus devletlerin bitmesi
 https://hulagukhan.uludagsozluk.com/ bkz hulaguhan
 bkz erdoğanın ikinci atacücü olmak istemiyoru demesi
 bkz atacücünün bir inciliz bir fransız bir alman fıkrası 
