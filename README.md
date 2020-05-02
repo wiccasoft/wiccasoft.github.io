@@ -1,6 +1,7 @@
 
 
 <!--
+bkz atacücünnü la bu incgiliz bayrağı alafranga tuvalete benziy lo demesi
 bkz atacünnün incilizlerle dalga geçmesi
 bkz atacücnünü inciliz bayrağına işemesi
 bkz atacününnü karl marx ı şamar oğlanı yapması
