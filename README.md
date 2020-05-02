@@ -1,5 +1,6 @@
 
 <!-- 
+bkz amerikalı kolej öğrencilerinin ders notylarını çalan dayı
 https://www.uludagsozluk.com/k/illuminati/&w=bg eywallah abi
 bkz ben hep 2000 dolarlık iphone alırım abi saygılar selam ve dua ile abi
 yütüp sayfamıza üye olun yeter abi para istemiyoz abi selam ve dualipa abi
