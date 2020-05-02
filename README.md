@@ -1,4 +1,5 @@
 <!-- 
+bkz barış ataydan doğan  vs receğ tayyiğden doğan
 https://www.uludagsozluk.com/k/8-cm-i-%C3%A7%C4%B1kar%C4%B1p-masaya-%C5%9Flep-%C5%9Flep-vurmak/
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd
 https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-bayram%C4%B1/&w=bg
