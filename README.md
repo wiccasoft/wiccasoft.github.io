@@ -1,6 +1,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 94 lü seksi erkekler
 https://www.uludagsozluk.com/k/alex-vs-messi/&w=bg messi siker olm
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 bkz ne yani ben sıçacam sen de gelip benim pokumun üstüne sıçacan ölemiiiiiiiii
