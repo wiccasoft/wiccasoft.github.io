@@ -1,4 +1,6 @@
 <!--
+bkz tapma la behlül o senin yengen
+https://www.uludagsozluk.com/k/yapma-behl%C3%BCl-o-senin-yengen/&w=bg
 bkz türk erkeği kürt erkeği evliliği
 bkz recep tayyip erdoğanın iboya kalorifer hediye etmesi
 bkz ibrahim talısesin 10. yıl marşını coverlaması
