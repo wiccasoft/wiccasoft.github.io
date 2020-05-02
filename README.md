@@ -1,5 +1,6 @@
 
 <!--
+bkz kim jong unun teni roket denemesi
 bkz kim jong jung un saçları
 bkz ülkücü bıyıklı doktorlar
 bkz sağcı denince akılda beliren ilk imge
