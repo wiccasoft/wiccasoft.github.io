@@ -2,6 +2,7 @@
 <!--
 bkz recep şaban ramadan
 bkz çaycı hüseyin vs hüseyin bihal atsız
+https://kahraman-zorbey.uludagsozluk.com/ bkz adam ansikloğpedi beyler
 https://www.uludagsozluk.com/k/gereksiz-bir-bilgi-ver/&w=bg ver hadi ver 
 bkz kadri tarikatının çok bozması
 bkz kadri tarikatının pandem. dönmeinde evde zikr yapması
