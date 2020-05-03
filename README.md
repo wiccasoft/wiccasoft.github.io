@@ -1,6 +1,6 @@
 <!--
 bkz tyrramın tepesinde yaşayıp üstüne oturmayan ibneler
-https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz ağır ibne
+https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz ağır top 2
 https://www.uludagsozluk.com/ bkz iğrençsiniz lan ibneler
 bkz emret komtanım tahir yüzbaşı seksiliği
 bkz atacücü 167 boyla nasıl subay oldu sorundalı
