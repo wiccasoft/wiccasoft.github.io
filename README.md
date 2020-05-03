@@ -1,4 +1,5 @@
 <!-- 
+bkz atatürkün kurduğu diyanetin askerleriyiz
 bkz türkün ezanına dokunanın kellesini keseriz
 https://www.youtube.com/watch?v=EfAsNffCjsM susturamayacaksınız
 bkz bekçi robotlara ünvan önerileri 
