@@ -59,7 +59,7 @@ https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz şaka maka iyi reklam yapmamız
 -->
 
-[![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
+[![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!--
 https://mrdeepfakes.com/video/6307/aleyna-tilki-proves-a-handful-of-skills
