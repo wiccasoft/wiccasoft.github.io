@@ -1,4 +1,5 @@
 <!-- 
+bkz e devlet kayı boyu olduğunu öğrenen hamur suratlı ergen
 bkz moralinizi bozmak istemem ama 18 cm genşler
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=bg
 bkz kamalcı vs ümreci deyince kavga etmeleri
