@@ -1,5 +1,5 @@
 <!-- 
-
+https://www.uludagsozluk.com/e/43277161/ bu cücükler bunları mı sikiyo lan
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
 bkz moralinizi bomazk istemem genşler ama 18 cm
