@@ -5,17 +5,6 @@ https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
 bkz jons sins filozok atakan taklidi asdadasa
 bkz ata demirer vs atacan kayakan
 bkz johny sinsin yaran atacan kayalar taklidi
-bkz minnak filozok atakanın büuyünce ben de entry girecem  felsefe yapçam demesi
-https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak filozok
-bkz bamya kadar pipisyle entry giren cücükler
-bkz medyum memişin işleri büyütmesi
-bkz medyum memiş deyince malafatın kalkması
-bkz memişler de tombiktoymuş
-https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz şakkadanak
-bkz devlet bahçeli vs kk vs kanye west
-bkz johny sins vs berat albayrak
-bkz kızıl haçın kızılaya kan göndermesi
-bkz nestlenin şokomelli işler bakanlığına 10 koli şokomel yollaması
 https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz komik soyadları
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz şakkadanak
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-%C4%B1n-kan-stoklar%C4%B1n%C4%B1n-azalmas%C4%B1/&w=bg
