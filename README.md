@@ -1,4 +1,5 @@
 <!-- 
+bkz ibbnin kürekçilere maaş bağlaması
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/ bkz kısakürek vs uzunkürek
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
 https://www.uludagsozluk.com/  bkz olm ben sizin köye bağlı değilim yanlış kişiyi takip ediyosunuz
