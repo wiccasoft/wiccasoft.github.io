@@ -1,4 +1,5 @@
 <!-- 
+bkz bamya kadar pipisyle entry giren cücükler
 bkz medyum memişin işleri büyütmesi
 bkz medyum memiş deyince malafatın kalkması
 bkz memişler de tombiktoymuş
