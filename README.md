@@ -2,6 +2,8 @@
 
 
 <!--
+bkz ben senin sikemem diyen erkek
+https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/
 bkz erkek deyince akla gelen ilk erkek sorundalı
 bkz 13. cumburlop adayı kaka
 bkz millet hizmet beklerken kaka nın osura osura uyuması
