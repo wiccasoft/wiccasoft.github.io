@@ -1,4 +1,5 @@
 <!-- 
+bkz necip fazıl kıskürekin son sözü türklüğü yayın olması
 bkz oğuzların kayı boyu olmayanları devşirme türk olması
 bkz türklüğü dünyay yayacağı racon kesmiyoz lan kafa kesiyoz o.ç ları
 bkz bütün dünyayı türk yapacağız inkar edenlerin kafasını keseceğiz
