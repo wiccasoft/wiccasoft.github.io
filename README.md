@@ -1,4 +1,5 @@
 <!-- 
+bkz bi virüsün koca ulus devletleri ite çevirmesi
 bkz ulus devletleri minnak bi virüsle parçalamak
 bkz neo atacücülükün bitmesi
 bkz ulus debletlerin halkın götünde patlaması
