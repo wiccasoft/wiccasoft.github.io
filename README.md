@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz kim siktiriyo lan bana ben niye hissetmedim
+https://www.uludagsozluk.com/k/gerard-butler-e-siktirip-delikanl%C4%B1l%C4%B1k-taslamak/ kim lan o 
 bkz ben gürcüyüm eşim arap o yüzden problem yok
 bkz türkler ve komik soy isimleri
 bkz merve boğulur kim amk nasıl soydları lan bunlar
