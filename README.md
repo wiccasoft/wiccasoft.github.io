@@ -1,6 +1,5 @@
 <!--
-bkz ekşcilerin köfteci yusuf diye baruthane pilavısıona siktirmesi
-bkz baruthane pilavcısının açık açık ekşicilere gavat demesi
+bkz ekşicilerin köfteci yusuf diye baruthane pilavcısına siktirmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz rtenin iettden arkadaşı
 bkz baruthane pilavcısının fahrettin kocaya  açık açık kamyoncu demesi
 bkz fahrettin kocanın kamyoncular odası başkanına işine bak demesi
