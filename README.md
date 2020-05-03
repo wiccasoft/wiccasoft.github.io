@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/ bkz iğrençsiniz lan ibneler
 https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz erdoğanın prezervatifi
 bkz erdoğanın en karizmatik fotosu
 bkz erdoğanın ülkesinde yaşayıp göt siktirmemek
