@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/soner-sar%C4%B1kabaday%C4%B1/&w=bg bkz kelliğin yakıştığı kabadayılar
 bkz akınsoftun vadana döz dikeni sezen robot yapması
 bkz ez oglimmmmm vadanina göz dikeni sez oglimmmmmmmmmm
 bkz millet hizmet beklerken kk nın dikelmesi
