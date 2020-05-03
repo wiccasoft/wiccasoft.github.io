@@ -1,4 +1,5 @@
 <!--
+bkz alper potuk ali koç karısıyla aşk yaşıyor iddaları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alik koç başkan
 bkz kral arthur yaşasaydı atacücüye götünü sildirmezdi iddaları
 https://www.uludagsozluk.com/k/kral-arthur/&w=bg bkz kral adamdı atacücü gibi
