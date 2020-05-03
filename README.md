@@ -1,5 +1,5 @@
 <!-- 
-bkz ateş topak hava selülöz
+bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
 bkz kakanın kürekçileri açık açık tehdit etmesi
 bkz kakanın yerim uzun kürekin yanıdır paylaşımı
