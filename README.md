@@ -1,4 +1,7 @@
 <!-- 
+ezanlarımız sudurmacanız
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/ezanlar%C4%B1m%C4%B1z%C4%B1-susturamayacaks%C4%B1n%C4%B1z/&w=bg
 bkz kızıl ay yaz 3119 a gönder
 bkz osman göt.ekin çekeceği göte isim önerileri
 bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
