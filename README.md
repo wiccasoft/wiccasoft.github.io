@@ -1,4 +1,5 @@
 <!-- 
+bkz tc cumburlop sitesinin çökmesi
 bkz tcmmb.gov.tr ye girip vekilleri öpen kamalcı
 bkz e devlet e girip ekrenı okşamak
 bkz devlet bahçeli deyince akla gelen ilk imge sorundalı bütünü
