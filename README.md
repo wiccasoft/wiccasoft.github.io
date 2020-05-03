@@ -1,4 +1,5 @@
 <!-- 
+bkz celal kılıştaroğlanın kamal kılıçtaroğaln abim değil demesi
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ bkz geniş omuzluymuş ama
 bkz kemal kılıçtaroğlanın alevilere kısa kürekli  demesi
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
