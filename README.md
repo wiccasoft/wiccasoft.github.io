@@ -1,5 +1,6 @@
 <!-- 
 bkz medyum memişin işleri büyütmesi
+bkz medyum memiş deyince malafatın kalkması
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz şakkadanak
 bkz devlet bahçeli vs kk vs kanye west
 bkz johny sins vs berat albayrak
