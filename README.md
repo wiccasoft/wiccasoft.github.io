@@ -1,16 +1,8 @@
 <!-- 
 bkz merale pattes marreme soğan nası koydu ama tayberdoğan oooooooooo
 bkz devlet bahcelinin kim jonh un la kim kardashian ı karıştırması
-bkz kanye westin devlet bahçeli denen bunka kk nın götü etmez demesi
 bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
 bkz millet hizmet beklerken kk nın osura osura uyuması
-bkz devlet bahçelinin kakaya verdiği ayar
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz admaın hammadesi
-bkz 3 mayıs minnak cücüler günü
-bkz kim jong jungun kozmik odayı açması
-bkz rte nin damada azıyla penis yüzüğü taktığı iddaları
-bkz fettullak gülen hoca efendi hazretlerinin recebi affetmesi
-bkz minnak filozok atakanın büyünce ekşide entry girecem demesi
 bkz filozok atakanaın tutunanamayanları 1 dk da okuması
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak dahi filozok
 bkz gelinim mutfakta 109. bölümdeki mantık hatası
