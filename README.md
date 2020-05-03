@@ -1,9 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
-
-
 <!--
-bkz ibnelerin tek derdinin erkek olması
+bkz ibnelerin tek derdinin erkek olması sorundalı
 bkz tek derdi erkek olan ibneler
 bkz çok dedikodu yapan oğlanları bekleyen felaket
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/
