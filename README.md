@@ -1,4 +1,5 @@
 <!-- 
+bkz damadın penis yüzüğümü kayın baba takıyor demesi
 bkz tayyip damada azıyla peniz yüzüğü takıyor iddaları
 bkz tc cumburlop sitesinin çökmesi
 bkz tcmmb.gov.tr ye girip vekilleri öpen kamalcı
