@@ -2,6 +2,7 @@
 
 
 <!--
+bkz erkek deyince akla gelen ilk erkek sorundalı
 bkz 13. cumburlop adayı kaka
 bkz millet hizmet beklerken kaka nın osura osura uyuması
 bkz ulus cebeci çankaya mansur yavaşla abnkara bambaşkaaaa
