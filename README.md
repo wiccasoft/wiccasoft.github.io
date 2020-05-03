@@ -1,4 +1,5 @@
 <!--
+bkz yarramın üstünde top görmek istemiyorum
 bkz türklerin top olduğu iddaları
 bkz türklerde zeka olduğunu sanmak
 bkz yarramın tepesinde top görmek istemiyorum
