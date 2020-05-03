@@ -1,4 +1,5 @@
 <!-- 
+bkz kadiri tarikatının çok bozması
 bkz carbohydarate medium ketone ilişkisi
 yüdüp sayfamız dakip edmeyi unudmayın selam ve dua ile
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw 
