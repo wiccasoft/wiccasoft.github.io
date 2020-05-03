@@ -1,5 +1,5 @@
 <!--
-bkz barutgane pilavcısının ekşiye reklam vermesi
+bkz baruthane pilavcısının ekşiye reklam vermesi
 bkz caner erkin sırıtışı vs czn burak sırıtışı
 bkz caner erkin in şükran ovalının götü nasıl paylaşımı
 bkz fathi tezcana ufaktan yanık olmak
