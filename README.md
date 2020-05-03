@@ -1,5 +1,5 @@
 <!-- 
-bkz göktürkler vs kendini türk sanan kığçak boyları
+bkz göktürkler vs kendini türk sanan devşirmeler
 bkz gök yüzüne altın harflerle türk yazağız oç ları utansın diye
 bkz türklüğü susturamaycaksınız
 bkz susturmazsınız türkleriiiiiiii 
