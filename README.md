@@ -1,6 +1,6 @@
 <!-- 
 bkz celal kılıçtaroğlanın yerim uzun adamın yanıdır paylaşımı
-bkz celal kılıçtaroğlanın paylaştığı necip fasıl uzukürek paylaşımı
+bkz celal kılıçtaroğlanın paylaştığı necip fasıl uzunkürek paylaşımı
 bkz celal kılıçtaroğlanın kk yı abilikten reddetmesi
 bkz necip fasıl kısakürek hüseyin nihal atsız dosluğu
 bkz kamal kılıçtaroğlanın mezarlıkta mum yakması
