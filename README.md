@@ -1,4 +1,5 @@
 <!-- 
+bkz osman göt.ekin çekeceği göte isim önerileri
 bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
 https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz feödncü dakımı cincon
 https://www.uludagsozluk.com/k/ambulans-helikoptere-izin-vermeyen-samsunlu/ bkz oç
