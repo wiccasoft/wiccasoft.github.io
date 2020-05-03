@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz olm sabahda yersiniz lan
 bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
 https://www.uludagsozluk.com/k/8-baklaval%C4%B1-erkekler/ bkz koca yusuf
 https://www.uludagsozluk.com/k/koca-yusuf/&w=bg bkz kuyucaklı yusuf çık kuyudan yusuf
