@@ -1,6 +1,7 @@
 <!--
 bkz ibnelerde zeka aramak
 bkz atacücü ismet inöcü dosluğu
+bkz atacücü ismet inöcüye sakso çekerdi iddaları
 bkz atacücü diyaneti cücük pipli diye kurdu iddaları
 bkz atacücü nün pipisi cücük gibiydi iddaları
 https://www.uludagsozluk.com/k/ekrem-vs-butler/
