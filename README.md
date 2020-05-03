@@ -1,5 +1,5 @@
 <!-- 
-bkz göt çek 31 yaz kızılay a gönder
+bkz göt çek 31 yaz kızılhaç a gönder
 bkz osman göt.ekin çekeceği göte isim önerileri
 bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz fedöncü medium keto
