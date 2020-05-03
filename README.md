@@ -1,5 +1,6 @@
 <!-- 
 bkz ekşcici vs ulucu
+bkz 100000 entry girmeyip adamım diye gezen tipler
 bkz yütüp remium hesabı olmayıp adamaım diye gezmek
 bkz iş ilanına 88000 entry nick altım temiz diyen forumcu
 bkz bekçi depğil entry giren diyeceksiniz
