@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/%C3%BClkemde-mini-etekli-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=gd
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-ya%C5%9Fay%C4%B1p-oru%C3%A7-tutmamak/&w=bg
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
