@@ -1,4 +1,5 @@
 <!-- 
+bkz halk için göt verirmisin sorundalı
 bkz vadan için göt verirmisin sorundalı
 bkz vadan sevgini 3 kelimetyle entrylere sığdır imgele
 bkz vadan hayını deyince ilk imgelenen isim
