@@ -1,4 +1,5 @@
 <!-- 
+bkz damadın peniz yüzüğün koruması için bekçilere çift maaş yazması
 bkz damadın penis yüzüğümü kayın baba takıyor demesi
 bkz tayyip damada azıyla peniz yüzüğü takıyor iddaları
 bkz tc cumburlop sitesinin çökmesi
