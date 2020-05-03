@@ -1,3 +1,5 @@
+<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/ bkz son pezevenk bükücü imparator -->
+
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!--
