@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/gerard-butler-in-altinda-inlemek-isteyen-yazarlar/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-havaliman%C4%B1-na-hastane-ni%C3%A7in-yap%C4%B1l%C4%B1yor/ sizin için
 bkz düz yolda iq nun 200 e basması 
 https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
