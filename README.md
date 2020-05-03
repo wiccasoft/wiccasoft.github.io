@@ -1,4 +1,5 @@
 <!-- 
+bkz ulucuların ulucu ünvanı iyi demesi
 bkz yütüp remium hesabı olmayıp adamaım diye gezmek
 bkz iş ilanına 88000 entry bick altım temiz diyen ulucu 
 bkz bekçi depğil entry giren diyeceksiniz
