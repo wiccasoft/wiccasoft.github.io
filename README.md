@@ -1,7 +1,8 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
-bkz damad değil peratör doktor damad bey diyeceksiniz
+bkz gelin hanumu sikebüğsünüz diyeceksiniz pezevenkler
+bkz damad değil operatör doktor damad bey diyeceksiniz
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/ bkz gelin hamını sikebilüğsünüz
 https://www.uludagsozluk.com/k/i-yazarken-noktay%C4%B1-yuvarlak-yapmak/ bkz ibnelik alametleri
