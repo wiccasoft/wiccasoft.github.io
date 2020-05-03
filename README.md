@@ -1,5 +1,6 @@
 <!--
 bkz ülkemden siktirol git lan
+bkz ülkemde oç görmek istemiyorum
 bkz atacücü niye kendi adını ülkeye verdi sorundalı
 bkz erdoğanın ülkesinde yaşayıp annesini erdoğana siktirmemek
 bkz erdoğan anamın üstünde yakalansa orospuluk anamdadır diyen tekelci dayı
