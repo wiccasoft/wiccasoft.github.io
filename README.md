@@ -1,4 +1,5 @@
 <!--
+bkz atacücü sayanora da rakı içmezdi iddaları
 bkz kamalcılara inkılap tarihi dersi vermek
 bkz atacücü kuşatma sonraı diyaneti kurdu iddaları
 bkz atacücü kuşatma altına facebook profilini sildi iddası
