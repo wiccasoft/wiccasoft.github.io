@@ -1,4 +1,5 @@
 <!--
+bkz necip fazıl uzunkürek rakı içmezdi iddaları
 https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
 bkz 190 mercedesle gezerim bennnn dokunursun yumruğu yersin hemen
 bkz 13. cumburlop maaşına göz dikmek
