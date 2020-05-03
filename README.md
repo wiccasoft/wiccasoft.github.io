@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz feödncü dakımı cincon
 https://www.uludagsozluk.com/k/ambulans-helikoptere-izin-vermeyen-samsunlu/ bkz oç
 https://www.uludagsozluk.com/k/osman-g%C3%B6k%C3%A7ek-gibi-bir-o%C4%9Flunuz-olsayd%C4%B1/ evlat olsa seviliri tatliş bişi
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
