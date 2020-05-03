@@ -1,6 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 https://space.stackexchange.com/ 
+bkz ez oglim vadanine göz diken sez oglimmmmmmmmmmmmmmmm
 bkz x deyince akla gelen imgelenmeler bütünseli sorundalı
 bkz yütüp premium hesabı olmayıp adamım diye gezmek
 bkz cv sine 88000 entry nick altım temiz diyen ulucu
