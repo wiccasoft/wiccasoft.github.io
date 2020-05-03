@@ -1,4 +1,5 @@
 <!-- 
+bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
 bkz 3 mayıs minnak cücüler günü
 bkz kim jong jungun kozmik odayı açması
 bkz rte nin damada azıyla penis yüzüğü taktığı iddaları
