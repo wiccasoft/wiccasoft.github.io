@@ -1,5 +1,8 @@
 <!-- 
 bkz ekşcici vs ulucu
+bkz alattin çakıcı vs abdullah çatlı
+bkz aslan akbey duran emmiyi emikledi mi sorunsalı
+https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg
 https://space.stackexchange.com/ 
 bkz ez oglim vadanine göz diken sez oglimmmmmmmmmmmmmmmm
 bkz x deyince akla gelen imgelenmeler bütünseli sorundalı
