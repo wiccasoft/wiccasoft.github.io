@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+https://oytunkaran.uludagsozluk.com bu ibne uyud mu lan dürtün bakim
+https://www.uludagsozluk.com/k/zall-%C3%B6l%C3%BCnce-s%C3%B6zl%C3%BCk-kime-kalacak-sorunsal%C4%B1/&w=bg
 https://berkecan-bin-selman.uludagsozluk.com/ bkz fotolarıma mı asılıyon lan gece gece
 https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/  oğlan daha yakışıklı kankağ
 https://www.uludagsozluk.com/k/kel-ve-g%C3%B6bekli-erkek/&w=bg bkz ben 
