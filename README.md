@@ -1,8 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
-bkz ulucuların ulucu ünvanı iyi demesi
 bkz yütüp remium hesabı olmayıp adamaım diye gezmek
-bkz iş ilanına 88000 entry bick altım temiz diyen ulucu 
+bkz iş ilanına 88000 entry nick altım temiz diyen forumcu
 bkz bekçi depğil entry giren diyeceksiniz
 bkz vadan hayını olmadığını entry ile anlat
 bkz vadan hayını deyince akla gelen ilk isim sorundalı
