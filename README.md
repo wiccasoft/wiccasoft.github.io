@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/behzat-%C3%A7-deki-tespihli-k%C3%BCf%C3%BCrbaz-alkolik-kaba-adam/&w=bg ay kaba şey
 bkz ben senin sikemem diyen erkek
 https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/
 bkz erkek deyince akla gelen ilk erkek sorundalı
