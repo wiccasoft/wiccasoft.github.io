@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/e/43277161/ o değil de nasıl göt bu kankağğğğğğğğğğ kalktı yine
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
 bkz moralinizi bomazk istemem genşler ama 18 cm
