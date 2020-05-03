@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz ibrahim kopgelgünahlarındaoğlu
+bkz ez oglimmmmm vadanine göz dikeni sez oglimmmmmmmmmmmmmm
+https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg
 bkz amınoğlu ekrem
 bkz ibnelerde zeka aramak
 bkz neyseki sizi sikleyen yok ibneler
