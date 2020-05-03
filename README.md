@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/akp-gençlik-kolları-üyesinden-chp-ye-açık-tehdit/
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular
 https://www.uludagsozluk.com/k/berat-albayrak/&w=gd bkz şokomelli damad
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
