@@ -2,17 +2,6 @@
 bkz ibbnin kürekçilere maaş bağlaması
 bkz kılıçtaroğlanın paylaştığı uzunkürek hanedanı
 bkz ez oglimmmmmmmm vadanine göz dikeniiiiii sez oglimmmmmmmmmmmm
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/ bkz kısakürek vs uzunkürek
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
-https://www.uludagsozluk.com/  bkz olm ben sizin köye bağlı değilim yanlış kişiyi takip ediyosunuz
-https://www.uludagsozluk.com/ bkz o değil de siz niye beni takip ediyosunuz ibneler
-bkz türklerin beni kk db vs sanması
-https://www.pinterest.com/wiccasoft/pins/  bkz devlet bahçeliden necip fasıl uzukürek paylaşımı
-https://www.pinterest.com/wiccasoft/pins/ bkz devlet bahçelnini kk dikelsin anca paylaşımı
-https://www.pinterest.com/wiccasoft/pins/ bkz kk nın kılıçtarlar soyundan geliyoruz paylaşımı
-https://www.uludagsozluk.com/ bkz yazılım firmamı db sanan 50 ig lu organizmalar
-https://www.uludagsozluk.com/ bkz yazılım firmamı kk sanan 50 iq lu organizmalar
-bkz sanki siz yanlış kişiyi takip ediyorsunu
 https://www.pinterest.com/wiccasoft/pins/ bkz celal kışıştaroğan paylaşımı
 bkz kemal kılıçtaroğlan mezarlık paylaşımı
 bkz necip fasıl kısakürek deyince beyinde olan  ilk imgelenme
