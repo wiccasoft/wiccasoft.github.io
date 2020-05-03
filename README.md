@@ -1,3 +1,6 @@
+<!--
+bkz kknın paylaştığı uzukürek fotosu
+https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz kk -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
