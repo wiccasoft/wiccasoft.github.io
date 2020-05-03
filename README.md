@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/dj-dikkat/&w=bg
 https://www.uludagsozluk.com/k/fesli-maymun-vs-gerard-butler/ 
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerindeki-gerard-butler-a%C5%9Fk%C4%B1/
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
 -->
 
