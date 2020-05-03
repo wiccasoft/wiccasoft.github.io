@@ -1,4 +1,5 @@
 <!--
+https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
 bkz baruthane pilavcısının ekşiye reklam vermesi
 bkz caner erkin sırıtışı vs czn burak sırıtışı
 bkz caner erkin in şükran ovalının götü nasıl paylaşımı
