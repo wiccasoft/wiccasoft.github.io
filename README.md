@@ -1,4 +1,5 @@
 <!-- 
+bkz ırkçılar vs ümmetçiler
 bkz ırkçıların baya bi aptal olması
 bkz türklüğü inkar edenlerin gafalarını geseceğiz
 bkz 1881 atacücü 18+81 = 99 - 81 bilayet - batman = cobid19
