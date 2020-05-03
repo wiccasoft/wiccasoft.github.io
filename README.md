@@ -1,6 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
+https://www.uludagsozluk.com/k/thomas-shelby/&w=bg ay ıstırırım bunu ayol
 bkz thomas shelby ile hızlı bir gece polat alemdarla romantik bir gece
 https://www.uludagsozluk.com/k/thomas-shelby/&w=bg ay çok haşin bu ayol
 bkz gelin hanumu sikebüğsünüz diyeceksiniz pezevenkler
