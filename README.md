@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ bkz karının götü nasıl
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
 bkz baruthane pilavcısının ekşiye reklam vermesi
 bkz caner erkin sırıtışı vs czn burak sırıtışı
