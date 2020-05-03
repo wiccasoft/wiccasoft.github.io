@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Fu/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg buralar değerlenir
 bkz baruthane pilavcısının ekşiye verdiği reklam
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular eywolle brolar yine gelin
