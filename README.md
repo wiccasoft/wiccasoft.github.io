@@ -1,6 +1,7 @@
 <!-- 
 bkz ırkçıların baya bi aptal olması
 bkz türklüğü inkar edenlerin gafalarını geseceğiz
+bkz 1881 atacücü 18+81 = 99 - 81 bilayet - batman = cobid19
 https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
 https://hulagukhan.uludagsozluk.com bkz hulagu sultan boyu
 https://kahraman-zorbey.uludagsozluk.com bkz gerçek türk oğlu türk
