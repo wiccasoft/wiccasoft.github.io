@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/&w=bg
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/&w=gd
 bkz alper potuk ali koç karısıyla aşk yaşıyor iddaları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alik koç başkan
