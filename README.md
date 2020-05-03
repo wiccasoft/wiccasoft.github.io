@@ -1,4 +1,5 @@
 <!--
+https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular
 https://www.uludagsozluk.com/k/berat-albayrak/&w=gd bkz şokomelli damad
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
 https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
