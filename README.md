@@ -1,4 +1,5 @@
 <!-- 
+bkz akınsoftun vadana döz dikeni sezen robot yapması
 bkz ez oglimmmmm vadanina göz dikeni sez oglimmmmmmmmmm
 bkz millet hizmet beklerken kk nın dikelmesi
 bkz tayyip damada azıyla peniz yüzüğü takıyor iddaları
