@@ -3,7 +3,6 @@
 
 <!--
 bkz baruthane pilavcısının ekşiye verdiği reklam
-
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular eywolle brolar yine gelin
 https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/&w=bg say lan
 https://www.uludagsozluk.com/k/dj-dikkat/&w=bg
