@@ -1,6 +1,7 @@
 <!-- 
+https://hulagukhan.uludagsozluk.com bkz hulagu sultan boyu
+https://kahraman-zorbey.uludagsozluk.com bkz gerçek türk oğlu türk
 https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ bkz oğuzların mongol boyu
-https://hulagukhan.uludagsozluk.com bkz uyuyon mu lan ergen
 https://milliyetci-ataturkcu.uludagsozluk.com/ bkz gerçek atacücücü
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-kumar-masas%C4%B1ndaki-son-s%C3%B6z%C3%BC/&w=bg
 bkz hüseyin bihal atsızın üstüne at atıp kaçmak
