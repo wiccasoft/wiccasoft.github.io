@@ -1,4 +1,5 @@
 <!--
+bkz yarramın tepesinde yaşayıp üstüne oturmamak
 https://www.uludagsozluk.com/k/lozan-antla%C5%9Fmas%C4%B1/&w=bg bkz ismet inöbü şener şen benzerliği
 bkz rte nni telefoncu gavatı sikelemesi
 bkz rte nni paylaştığı uzun kürek paylaşımı
