@@ -1,7 +1,6 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-https://www.uludagsozluk.com/k/ezandan-rahats%C4%B1z-olmak/&w=bg bkz atacücünün kurduğu diyanetten rahatsız olmak
 bkz ibnelerde zeka aramak
 bkz neyseki sizi sikleyen yok ibneler
 bkz deep turksih webte ergen başına 10 anayasal suç işlenmesi
@@ -12,6 +11,7 @@ bkz celal kılıçdaroğlunun necip fazıl uzunkürek güzellemesi
 bkz celal kılıçdaroğlunun yerim uzun adamın yanıdır demesi
 bkz rte nin kuşatma altında macrona verdiği ayar
 bkz rte ikinci atacücü olduğua göre üçüncü rte kim sorundalı
+https://www.uludagsozluk.com/k/ezandan-rahats%C4%B1z-olmak/&w=bg bkz atacücünün kurduğu diyanetten rahatsız olmak
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 bkz cv sine nick altım temiz değil 88000 entry girdim yazan ibne
 bkz entry girerek hayata tututan ibneler
