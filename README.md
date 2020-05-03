@@ -1,4 +1,5 @@
 <!-- 
+bkz ismet inöcü atacücüye sakso çekiyormuydu sorundalı
 bkz atacücük neden fransız yarrağı emiyordu sorundalı
 bkz atacücünün kuşatma altına fransız yarrağı emmesi
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ oyşş göte gel
