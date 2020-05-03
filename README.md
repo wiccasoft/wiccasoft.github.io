@@ -1,4 +1,5 @@
 <!-- 
+bkz ez oglimmm vadanina göz dikenee sezzzzz oglimmmmmmmmmmmm
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz malum oç
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ geniş omuzlu diyollaa amma bilmem
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz tayybin kızını tokmaklayan
