@@ -1,4 +1,6 @@
 <!--
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-facebook-%C5%9Fifren-ne/&w=bg
 https://www.uludagsozluk.com/k/gerard-butler-in-altinda-inlemek-isteyen-yazarlar/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-havaliman%C4%B1-na-hastane-ni%C3%A7in-yap%C4%B1l%C4%B1yor/ sizin için
 bkz düz yolda iq nun 200 e basması 
