@@ -32,19 +32,7 @@ https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-en-karizmatik-foto%C4%9Fraf%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 https://www.uludagsozluk.com/k/hain-tun%C3%A7-soyer/ bkz gözleriynen soymak
-https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/&w=bg bkz çavuşioğlan
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını veren erkekler
-https://www.uludagsozluk.com/k/fatih-tezcana-do%C4%9Fum-g%C3%BCn%C3%BCnde-prezervatif-almak/ buralar değerlenir
-bkz ekşicilerin köfteci yusuf diye baruthane pilavcısına siktirmesi
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz rtenin iettden arkadaşı
-bkz baruthane pilavcısının fahrettin kocaya  açık açık kamyoncu demesi
-bkz fahrettin kocanın kamyoncular odası başkanına işine bak demesi
-bkz fatih tezcana doğum günüde prezervatifi azıyla takmak
 https://www.uludagsozluk.com/k/fatih-tezcana-do%C4%9Fum-g%C3%BCn%C3%BCnde-prezervatif-almak/
-bkz baruthane pilavcısının açık açık ekşicileri tehdit etmesi
-https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
-https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
 https://eksisozluk.com/telefon-numarasini-hic-degistirmemis-insan--4128756?a=popular bkz tayyip
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular
@@ -52,61 +40,7 @@ https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-ya
 https://www.uludagsozluk.com/k/4-hesaptan-ayn%C4%B1-anda-s%C3%B6zl%C3%BC%C4%9Fe-giren-cuckold/
 https://www.uludagsozluk.com/k/tengir-e-ayar-entrylerine-s%C3%BCrekli-gelen-4-eksi/&w=bg
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/&w=bg
-https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/&w=gd
-bkz alper potuk ali koç karısıyla aşk yaşıyor iddaları
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alik koç başkan
-bkz kral arthur yaşasaydı atacücüye götünü sildirmezdi iddaları
-https://www.uludagsozluk.com/k/kral-arthur/&w=bg bkz kral adamdı atacücü gibi
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg ali koç başkan caner şampi
-bkz üç isimli erkek karizması
-bkz ez oglimm vadanine göz koyani sez oglimmmmmmmm
-bkz tayyip ikinci atacücü olduğuna göre üçüncü rte kim olacak sorundalı
-bkz önder savın mehdinin mehdi değilim diyecek zaten savı
-bkz tayyibin kuşatma altında macrona verdiği ayar
-https://www.uludagsozluk.com/k/tayyipin-ku%C5%9Fatmadan-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/
-bkz necip fazıl kısakürekin kuşatma altında örtülü ödeneki tırıklaması
-https://www.uludagsozluk.com/k/%C3%B6nder-sav-peygamber-mi/&w=bg
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-%C3%B6rt%C3%BCl%C3%BC-%C3%B6dene%C4%9Fi-t%C4%B1rt%C4%B1klamas%C4%B1/
-bkz recep tayyip erdoğan mustafa kemak atacücü necip fazıl kısakürek hüseyin bihak atsız
-bkz necip fazıl kısakürek hüzeyin bihal atsız dosluğu
-bkz ismet inöcü atacücünün gölgesinde kaldı yalanı
-bkz necip fazıl uzunkürek rakı içmezdi iddaları
-https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
-bkz 190 mercedesle gezerim bennnn dokunursun yumruğu yersin hemen
-bkz 13. cumburlop maaşına göz dikmek
-bkz atacücü cumburlop maaşını almadı iddaları
-bkz atacücü sayanora da keyif yaptı iddaları
-bkz atacücü sayanora da rakı içmezdi iddaları
-bkz kamalcılara inkılap tarihi dersi vermek
-bkz atacücü kuşatma sonraı diyaneti kurdu iddaları
-bkz atacücü kuşatma altına facebook profilini sildi iddası
-bkz osmanlının ayak sesleri vs atacücünün ayak sesi
-bkz atacücü kuşatma altında osmanlı torunu olduğu iddaları
-bkz osmanlı torunularının atacücüst olması
-bkz atacücü vs osmanlı
-bkz atacücü vahdettini dövdü mü sorundalı
-bkz osmanlının gümbür gümbür gelmesi
-bkz ez oglimmmmmm vadanine göz digeni sez oglimmmmmmmmmm
-bkz rte ikinci atacücü mü sorundalı
-bkz atacücü kuşatma altında çarşaf giyip kaçtı iddaları
-bkz atacücü neden sivas kongresinden londros mutakeresi yapmadı sorudalı
-bkz atacücü süper bi subaydı iddaları
-bkz atacücünün subaylık diploması
-bkz atacünün 167 boyla nasıl subay oldu sorundalı
-bkz atacününü türk subayı en asil subnaydır demesi
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-deniz-lisesinden-at%C4%B1lma-sebebi/&w=bg
-bkz atacücnün kuşatma altında ingiliz muhrip cemiyetine katılması
-bkz atacücünün yunanları denize dökmeye hazırlanması
-bkz atacücünün kuşatma altında ak gençlik kollarına katılması
-bkz atacücünnü kışatma altında fransızlara götten vurdurması
-bkz ateş toprak hava selülöz
-bkz selülöz tabi zoruna mı gitti
-bkz tarihte yaşayanları gerçeklerle sikeriz ltd.şti
-bkz moralinizi bozmak istemem genşler ama 18 cm
-bkz şaka maka şükra ovalının totosunun kaldırması
-bkz necip fazıl kısakürek vs hüzeyin bihal atsız
-bkz kakan ın yerim necip fazıl uzunkürekin yanıdır paylaşımı
-bkz necip fazıl kısakürekin örtülü ödeneği tırklayıp kaçması
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz yarrak kürrek işler
 https://www.uludagsozluk.com/e/43277161/ o değil de bu nasıl göt bu kankağğğğğğğğğğ kalktı yine
