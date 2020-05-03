@@ -1,4 +1,5 @@
 <!-- 
+bkz devlet bahçeli vs kk vs kanye west
 bkz johny sins vs berat albayrak
 bkz kızıl haçın kızılaya kan göndermesi
 bkz nestlenin şokomelli işler bakanlığına 10 koli şokomel yollaması
