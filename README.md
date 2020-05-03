@@ -2,6 +2,7 @@
 
 
 <!--
+https://dinsiz-kitapsiz-kafir.uludagsozluk.com/ bkz işe gitmeyen oğlanlar
 bkz oyrun karanın işe gitmeyecek olması
 bkz ihihihihi diye gülen erkek
 https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/
