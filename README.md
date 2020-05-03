@@ -1,4 +1,5 @@
 <!-- 
+bkz kadri deyince beynin kanartan olaylar silsilesi imgelenmesi  sorundalı
 bkz kadri deyince zihinde beliren ilk imge sorundalı
 bkz kadiri tarikatının çok bozması
 bkz carbohydarate medium ketone ilişkisi
