@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz o değil de gece gece hakkı bulut fotolarını nerden buldun ibneni evladı
+bkz o değil de gece gece hakkı bulut fotolarını nerden buldun ibnenin evladı
 https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ haydi söyleee nasıl yakışıklı oldumu
 https://domestik-ev-hanimi.uludagsozluk.com/ yenge sen de az orospu değilsin hani 
 https://vexillarius-of-theodopolis.uludagsozluk.com bu ibne ne kafası yaşıyo lan
