@@ -1,4 +1,5 @@
 <!-- 
+bkz türk olmadığı halde türküm diyen oçları
 bkz göktürkler vs kendini türk sanan devşirmeler
 bkz gök yüzüne altın harflerle türk yazağız oç ları utansın diye
 bkz türklüğü susturamaycaksınız
