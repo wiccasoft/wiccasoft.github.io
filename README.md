@@ -1,5 +1,5 @@
 <!-- 
-https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz fedöncü keto
+https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz fedöncü medium keto
 https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz fedöncü dakımı cincon
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
