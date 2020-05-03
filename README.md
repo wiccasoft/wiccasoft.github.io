@@ -1,4 +1,5 @@
 <!-- 
+bkz vadan hayını deyince ilk imgelenen isim
 bkz devlet bahçeli dendiğinde beyinde oluşan ilk imgelenme
 bkz sağcı dendiğinde ilk imge
 bkz karıyı çalıştırmayan gavatlar
