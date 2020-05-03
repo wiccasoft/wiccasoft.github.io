@@ -1,4 +1,5 @@
 <!--
+bkz atatürkün kurduğu diyanete saldıran it soyları
 bkz chpli itlerin faacebook ak gençlik sayfamıza saldırması
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/orhan-gence-bye/ bkz orhan bence gay
