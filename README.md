@@ -1,5 +1,6 @@
 <!-- 
 bökz 3 mayıs minnak cücüler günü
+bkz fettullak gülen hoca efendi hazretlerinin tayyibi affetmesi
 bkz minnak filozok atakanın büyünce ekşide entry girecem demesi
 bkz filozok atakanaın tutunanamayanları 1 dk da okuması
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak dahi filozok
