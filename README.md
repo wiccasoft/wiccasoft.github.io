@@ -1,4 +1,6 @@
 <!-- 
+bkz necip fazıl kısa kürek vs hüseyin bigal atsız dostluğu
+https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg
 bkz atacücük öldü kankağ deyince ağlayan kamalcı
 bkz endüstri devrimi bitti kankağ geldik
 bkz höt deyince atacücüüne sığınan kamalcı
