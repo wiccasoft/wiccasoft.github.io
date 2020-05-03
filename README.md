@@ -1,4 +1,5 @@
 <!-- 
+https://kahraman-zorbey.uludagsozluk.com/ bkz halk kahramanı
 https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/&w=bg 19 mayısı bekleyin söpriz ilaç önerilerim olçek
 https://www.uludagsozluk.com/k/soner-sar%C4%B1kabaday%C4%B1/&w=bg bkz kelliğin yakıştığı kabadayılar
 bkz akınsoftun vadana döz dikeni sezen robot yapması
