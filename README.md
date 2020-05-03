@@ -1,44 +1,11 @@
-<!-- 
-bkz tarihte yaşayanları gerçeklerle sikeriz ltd.şti
-bkz necip fazıl kısa kürek vs hüseyin bigal atsız dostluğu
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg
-bkz atacücük öldü kankağ deyince ağlayan kamalcı
-bkz endüstri devrimi bitti kankağ geldik
-bkz höt deyince atacücüüne sığınan kamalcı
-bkz bi virüsün koca ulus devletleri ite çevirmesi
-bkz ulus devletleri minnak bi virüsle parçalamak
-bkz neo atacücülükün bitmesi
-bkz ulus debletlerin halkın götünde patlaması
-https://www.uludagsozluk.com/k/neo-osmanl%C4%B1c%C4%B1l%C4%B1k-ve-t%C3%BCrkiye-diplomasisi/
-bkz atacücük kuşatma altında ismete vurduruyordu iddaları
-bkz atacücük diyaneti bamya pipili diye kurdu iddaları
-https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
-bkz atacücük kuşatma altında ingilizlere siktiriyordu iddası
-bkz ismet inöcü atacücüye sakso çekiyormuydu sorundalı
-bkz atacücük neden fransız yarrağı emiyordu sorundalı
-bkz atacücünün kuşatma altına fransız yarrağı emmesi
-https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ oyşş göte gel
-bkz 1 mayıs patlıcan bayramı vs 3 mayıs bamya pipililer bayramı
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-deniz-lisesinden-at%C4%B1lma-sebebi/&w=bg bkz kızları sikmesi
-https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
-bkz atacücünün diyaneti küçük pipili diye kurması
-bkz atacücünün kuşatma altında yunana yarrağı emmesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg bkz geyse için karıyı satarım
-https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya pipi
-https://www.uludagsozluk.com/e/43277161/ bu cücükler bunları mı sikiyo lan
+<!--
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
-bkz moralinizi bomazk istemem genşler ama 18 cm
+bkz tarihte yaşayanları gerçeklerle sikeriz ltd.şti
+bkz moralinizi bozmak istemem genşler ama 18 cm
 bkz şaka maka şükra ovalının totosunun kaldırması
 https://www.uludagsozluk.com/e/43277161/ o değil de bu nasıl göt bu kankağğğğğğğğğğ kalktı yine
-https://www.uludagsozluk.com/k/ali-taran/&w=bg bu kim lan tarramın filozofu mu yine
-bkz şaka maka şükran ovalının götütnün taş gibi olması
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-%C5%9Feyh-naz%C4%B1m-k%C4%B1br%C4%B1si-mi6-ba%C4%9Flant%C4%B1s%C4%B1/&w=bg bkz mission kadir possible
-https://www.uludagsozluk.com/k/telefon-konu%C5%9Fmas%C4%B1n%C4%B1-uzatan-insan/ bkz graham bell
-https://www.uludagsozluk.com/k/merve-kavak%C3%A7%C4%B1-n%C4%B1n-meclisten-kovulmas%C4%B1/&w=bg bu hanıma haddini bildirin
-https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ off göte bak kankağ
-https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/&w=gd
+https://www.uludagsozluk.com/k/yahudilerin-d%C3%BCnyaya-hakim-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
