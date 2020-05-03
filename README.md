@@ -1,4 +1,5 @@
 <!-- 
+bkz devlet bahçeli deyince akla gelen ilk imge sorundalı bütünü
 bkz ez oglimmm vadanina göz dikenee sezzzzz oglimmmmmmmmmmmm
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz malum oç
 https://www.uludagsozluk.com/k/devletin-vatanda%C5%9F%C4%B1n%C4%B1-memurundan-daha-%C3%A7ok-korumas%C4%B1/
