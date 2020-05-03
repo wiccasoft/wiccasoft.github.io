@@ -1,5 +1,6 @@
 <!--
 bkz ibnelerde zeka aramak
+bkz atacücü diyaneti cücük gbiydi diye kurdu iddaları
 bkz atacücü latife hanımı ismete siktirdi iddaları
 https://www.uludagsozluk.com/k/ekrem-vs-butler/
 bkz atacücü ismet inöcüye vurduruyordu iddaları
