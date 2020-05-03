@@ -1,5 +1,5 @@
 <!-- 
-https://www.youtube.com/watch?v=FqDSaTKtQYA saldır koçum
+https://www.youtube.com/watch?v=FqDSaTKtQYA 
 bkz konyada minnak filozok atakan dolaşan kız
 bkz e devlet kayı boyu olduğunu öğrenen hamur suratlı ergen
 bkz moralinizi bozmak istemem ama 18 cm genşler
