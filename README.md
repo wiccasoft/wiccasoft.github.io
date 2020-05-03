@@ -1,6 +1,7 @@
 <!-- 
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
+https://www.uludagsozluk.com/k/merve-kavak%C3%A7%C4%B1-n%C4%B1n-meclisten-kovulmas%C4%B1/&w=bg bu hanıma haddini bildirin
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ off göte bak kankağ
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/&w=gd
 -->
