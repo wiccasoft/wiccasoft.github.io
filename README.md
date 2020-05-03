@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz rte nin kuşatma altında macrona verdiği ayar
+bkz rte ikinci atacücü olduğua göre üçüncü rte kim sorundalı
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 bkz cv sine nick altım temiz değil 88000 entry girdim yazan ibne
 bkz entry girerek hayata tututan ibneler
 bkz ibnelerin çalışma gibi dertlerinin de olmaması
