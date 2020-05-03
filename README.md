@@ -1,5 +1,5 @@
 <!--
-bkz atacücü kuşatma altına facebook profilin sildi iddası
+bkz atacücü kuşatma altına facebook profilini sildi iddası
 bkz osmanlının ayak sesleri vs atacücünün ayak sesi
 bkz atacücü kuşatma altında osmanlı torunu olduğu iddaları
 bkz osmanlı torunularının atacücüst olması
