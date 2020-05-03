@@ -1,4 +1,5 @@
 <!-- 
+bkz kk nın beyin kanartan vadanı nı sez oglim paylaşımı
 bkz x deyince akla gelen ilk isim sorundalı
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/
 https://www.uludagsozluk.com/k/ortalama-bir-akp-linin-zekas%C4%B1/ bkz 90 kamalcıların 190
