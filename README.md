@@ -1,5 +1,6 @@
 <!--
 bkz ibnelerde zeka aramak
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/gerard-butler-in-altinda-inlemek-isteyen-yazarlar/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/ronaldonun-irina-shayk-%C4%B1-aldatmas%C4%B1/ irin shayk mı kaldı ibne
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
