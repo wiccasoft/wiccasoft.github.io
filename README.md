@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz türklerin oğlu soyadlı olması ilginç evet
 bkz ibnelerde zeka aramak
 bkz neyseki sizi sikleyen yok ibneler
 bkz deep turksih webte ergen başına 10 anayasal suç işlenmesi
