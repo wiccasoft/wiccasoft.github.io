@@ -1,5 +1,5 @@
 <!-- 
-bkz bahçelinin millet hizmet bekliy  kk dikeliy demesi
+bkz bahçelinin millet hizmet bekliy kk dikeliy demesi
 bkz kılıçtaroğlanın paylaştığı uzunkürek hanedanı soy ağacı
 bkz ez oglimmmmmmmm vadanine göz dikeniiiiii sez oglimmmmmmmmmmmm
 https://www.pinterest.com/wiccasoft/pins/ bkz celal kışıştaroğan paylaşımı
