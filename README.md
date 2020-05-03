@@ -1,4 +1,6 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-en-karizmatik-foto%C4%9Fraf%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/latife-hanım-atatürk-ü-neden-boşadı/ bkz bamya
 https://www.uludagsozluk.com/k/murat-%C3%B6zar%C4%B1/&w=bg bkz arı vız vız vız
 bkz türklerdeki gavatlık geni
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ bkz karının götü nasıl
