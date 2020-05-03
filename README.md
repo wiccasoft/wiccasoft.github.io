@@ -1,4 +1,5 @@
 <!--
+bkz erdoğanın karizmatik  fotoları tıklağ kankağ
 bkz 3 mayıs toplar günü
 bkz atacücünün bamyası vs erdoğanın patlıcanı
 bkz erdoğanın yarrağı vs sedat pekerin yararğı
