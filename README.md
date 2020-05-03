@@ -2,6 +2,7 @@
 
 
 <!--
+bkz tek derdi erkek olan ibneler 
 https://dinsiz-kitapsiz-kafir.uludagsozluk.com/ bkz işe gitmeyen oğlanlar
 bkz oyrun karanın işe gitmeyecek olması
 bkz ihihihihi diye gülen erkek
