@@ -3,14 +3,14 @@
 
 <!--
 bkz baruthane pilavcısının ekşiye verdiği reklam
-bkz şaka maka iyi reklam yapmamız
+
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular eywolle brolar yine gelin
 https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/&w=bg say lan
 https://www.uludagsozluk.com/k/dj-dikkat/&w=bg
 https://www.uludagsozluk.com/k/fesli-maymun-vs-gerard-butler/ 
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerindeki-gerard-butler-a%C5%9Fk%C4%B1/
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
-https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular 
+https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz şaka maka iyi reklam yapmamız
 -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
