@@ -1,4 +1,5 @@
 <!-- 
+bkz gelinim mutfakta 109. bölümdeki mantık hatası
 https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-g%C3%BCn%C3%BC/ yeahh şapppiiiii
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/ bkz son pezevenk bükücü imparator -->
 
