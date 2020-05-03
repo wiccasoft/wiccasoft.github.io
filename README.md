@@ -1,5 +1,5 @@
 <!--
-bkz receğ tayyiğ erdoğanın kuşatma altında emineyi tokmaklaması
+bkz receğ tayyiğ erdoğanın kuşatma altında macrona verdiği ayar
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg
 bkz caner erkinni kuşatma altında şükran ovalıyı sikmesi
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/
