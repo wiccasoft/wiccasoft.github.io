@@ -1,4 +1,5 @@
 <!--
+bkz erdoğan anamın üstünde yakalansa orospuluk anamdadır diyen tekelci dayı
 bkz erdoğanın ülkesinde yaşayıp osurmamak
 bkz celal kılıştaroğlanın yerşin uzunkürekçinin yanıdır paylaşımı
 bkz özarı aşiretinmni murat mzarıyı evlatlıktan reddetmesi
