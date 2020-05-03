@@ -1,5 +1,6 @@
 <!--
 bkz ibnelerde zeka aramak
+bkz atacücü nün pipisi cücük gibiydi iddaları
 https://www.uludagsozluk.com/k/ekrem-vs-butler/
 bkz atacücü ismet inöcüye vurduruyordu iddaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-haf%C4%B1z-olmas%C4%B1/&w=bg
