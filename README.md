@@ -1,4 +1,5 @@
 <!-- 
+bkz atacücünün diyaneti küçük pipili diye kurması
 bkz atacücünün kuşatma altında yunana yarrağı emmesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg bkz geyse için karıyı satarım
