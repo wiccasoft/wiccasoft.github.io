@@ -1,6 +1,7 @@
 <!-- 
-bökz 3 mayıs minnak cücüler günü
+bkz 3 mayıs minnak cücüler günü
 bkz kim jong jungun kozmik odayı açması
+bkz rtenin damada aızyla penis yüzüğü taktığı iddaları
 bkz fettullak gülen hoca efendi hazretlerinin recebi affetmesi
 bkz minnak filozok atakanın büyünce ekşide entry girecem demesi
 bkz filozok atakanaın tutunanamayanları 1 dk da okuması
