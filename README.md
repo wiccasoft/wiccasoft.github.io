@@ -2,6 +2,7 @@
 
 
 <!--
+bkz oyrun karanın işe gitmeyecek olması
 bkz ihihihihi diye gülen erkek
 https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/
 https://oytunkaran.uludagsozluk.com/ bkz kaba erkek sevmeyen oğlan
