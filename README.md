@@ -1,7 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
-https://www.uludagsozluk.com/k/netflix/ bkz eşcinsellerin övdüğü vasat vakit kaybı
+https://www.uludagsozluk.com/k/netflix/ bkz pasif eşcinsellerin övdüğü vasat vakit kaybı
 https://www.uludagsozluk.com/k/thomas-shelby/&w=bg polat alemdar vol 2 ayol
 https://www.uludagsozluk.com/k/thomas-shelby/&w=bg ay ıstırırım bunu ayol
 bkz thomas shelby ile hızlı bir gece polat alemdarla romantik bir gece
