@@ -1,5 +1,6 @@
 <!--
 bkz üç isimli erkek karizması
+bkz ez oglimm vadanine göz koyani sez oglimmmmmmmm
 bkz tayyip ikinci atacücü olduğuna göre üçüncü rte kim olacak sorundalı
 bkz önder savın mehdinin mehdi değilim diyecek zaten savı
 bkz tayyibin kuşatma altında macrona verdiği ayar
