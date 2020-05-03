@@ -1,4 +1,6 @@
 <!--
+bkz caner erkinin şükranın totosu nasıl paylaşımı
+https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/
 https://www.uludagsozluk.com/k/telefon-konu%C5%9Fmas%C4%B1n%C4%B1-uzatan-insan/ bkz insan mı
 bkz tarramın tepesinde yaşayıp üstüne oturmayan ibneler
 https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz ağır top 2
