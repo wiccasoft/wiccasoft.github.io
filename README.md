@@ -1,14 +1,12 @@
 <!-- 
-https://www.uludagsozluk.com/k/k%C3%BCrt-s%C3%B6zl%C3%BC%C4%9F%C3%BCne-isim-%C3%B6nerileri/&w=bg türklütfen.com
-ezanlarımız sudurmacanız
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/k%C3%BCrt-s%C3%B6zl%C3%BC%C4%9F%C3%BCne-isim-%C3%B6nerileri/&w=bg bkz türklütfen.com
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
 https://www.uludagsozluk.com/k/ezanlar%C4%B1m%C4%B1z%C4%B1-susturamayacaks%C4%B1n%C4%B1z/&w=bg
 bkz kızıl ay yaz 3119 a gönder
 bkz osman göt.ekin çekeceği göte isim önerileri
 bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
 https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz feödncü dakımı cincon
-https://www.uludagsozluk.com/k/ambulans-helikoptere-izin-vermeyen-samsunlu/ bkz oç
-https://www.uludagsozluk.com/k/osman-g%C3%B6k%C3%A7ek-gibi-bir-o%C4%9Flunuz-olsayd%C4%B1/ evlat olsa seviliri tatliş bişi
+https://www.uludagsozluk.com/k/ambulans-helikoptere-izin-vermeyen-samsunlu/ bkz adam gibi adam
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
