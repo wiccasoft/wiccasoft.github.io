@@ -1,4 +1,5 @@
 <!-- 
+bkz 1 mayıs pkk bayramını kutlayıp türkün btürkçülük bayramını kutlamayan hdpkklılar
 bkz atatürkün kurduğu diyanetin askerleriyiz
 bkz türkün ezanına dokunanın kellesini keseriz
 https://www.youtube.com/watch?v=EfAsNffCjsM susturamayacaksınız
