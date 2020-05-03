@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/kral-arthur/&w=bg bkz lkral adamdı atacücü gibi
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg ali koç başkan caner şampi
 bkz üç isimli erkek karizması
 bkz ez oglimm vadanine göz koyani sez oglimmmmmmmm
