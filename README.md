@@ -1,5 +1,6 @@
 <!--
 bkz ibnelerde zeka aramak
+bkz atacücü ismet inöcüye vurduruyordu iddaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-haf%C4%B1z-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
