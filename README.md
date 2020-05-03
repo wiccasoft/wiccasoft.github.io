@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg adam oç kürt beyler
 https://milliyetci-ataturkcu.uludagsozluk.com/ bkz dakikada 10 anayasal suç işleyen ergen
 bkz dep türkish web te ırkçı ergen başına 10 anayasal suç işlenmesi
 https://www.uludagsozluk.com/e/43275874/ bkz deep webi bok götürmesi
