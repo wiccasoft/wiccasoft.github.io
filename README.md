@@ -11,6 +11,7 @@ bkz celal kılıçdaroğlunun necip fazıl uzunkürek güzellemesi
 bkz celal kılıçdaroğlunun yerim uzun adamın yanıdır demesi
 bkz rte nin kuşatma altında macrona verdiği ayar
 bkz rte ikinci atacücü olduğua göre üçüncü rte kim sorundalı
+https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=gd bkz komik soyisimler
 https://www.uludagsozluk.com/k/ezandan-rahats%C4%B1z-olmak/&w=bg bkz atacücünün kurduğu diyanetten rahatsız olmak
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 bkz cv sine nick altım temiz değil 88000 entry girdim yazan ibne
