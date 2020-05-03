@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/hain-tun%C3%A7-soyer/ bkz gözleriynen soymak
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/&w=bg bkz çavuşioğlan
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını veren erkekler
 https://www.uludagsozluk.com/k/fatih-tezcana-do%C4%9Fum-g%C3%BCn%C3%BCnde-prezervatif-almak/ buralar değerlenir
