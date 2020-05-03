@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz ibnelerde zeka aramak
+bkz neyseki sizi sikleyen yok ibneler
+bkz deep turksih webte ergen başına 10 anaysal suç işlenmesi
 bkz atacücünün kurduğu diyanetten rahatsız olan köpek soyları
 bkz rte nin ikinci atacücü olması
 bkz atacücünün diyaneti kurması
