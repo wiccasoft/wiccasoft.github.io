@@ -1,4 +1,5 @@
 <!--
+bkz emret komtanım tahir yüzbaşının emcükleri sulandırması
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg göt verilesi subay
 bkz caner erkinin şükranın götü nasıl kankağ paylaşımı
 bkz ülkemden siktirol git lan
