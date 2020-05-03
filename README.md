@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/amerika-s%C4%B1rna%C5%9F%C4%B1k-devlet-bah%C3%A7elileri/&w=bg lol
 https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/&w=gd sik kankağ biz bakmiyik
 bkz atatürkün kurduğu diyanete saldıran it soyları
 bkz chpli itlerin faacebook ak gençlik sayfamıza saldırması
