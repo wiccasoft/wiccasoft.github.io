@@ -3,6 +3,7 @@
 <!--
 bkz şaka maka iyi reklam yapmak
 bkz bedeve reklem yanında kayısı
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular bedeve reklam 
 https://www.uludagsozluk.com/k/bir-gerard-u%C4%9Fruna-ya-rab-ne-aktroller-%C4%B1slan%C4%B1yor/ kim la o karılar
 https://www.uludagsozluk.com/k/geceye-islami-bir-deney-b%C4%B1rak/ bırak kankağ sabah bakarlar
