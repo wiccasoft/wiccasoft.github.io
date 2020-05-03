@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
