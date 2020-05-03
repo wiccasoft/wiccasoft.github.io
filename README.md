@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/hayvanlarda-zeka-oldu%C4%9Funu-sanmak/&w=bg
 bkz erdoğanın karizmatik  fotoları tıklağ kankağ
 bkz 3 mayıs toplar günü
 bkz atacücünün bamyası vs erdoğanın patlıcanı
