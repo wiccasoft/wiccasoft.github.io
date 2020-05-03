@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-https://vexillarius-of-theodopolis.uludagsozluk.com bu theodopolis ibnesi ne kafası yaşıyo lan
+https://vexillarius-of-theodopolis.uludagsozluk.com bu ibne ne kafası yaşıyo lan
 https://berkecan-bin-selman.uludagsozluk.com/ bkz fotolarıma mı asılıyon lan ibnenin evladı
 https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ oğlan daha yakışıklı kankağ
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg angelina jolie fotosu at kankağ
