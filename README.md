@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/akp-gençlik-kolları-üyesinden-chp-ye-açık-tehdit/
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular
 https://www.uludagsozluk.com/k/berat-albayrak/&w=gd bkz şokomelli damad
