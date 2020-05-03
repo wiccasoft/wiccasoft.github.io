@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz czn burak vs köfteci yusuf
 bkz koca yusuf vs köfteci yusuf
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz koca yusuf
 bkz burak özçivitin beyaz show da oynadığı zeybek
