@@ -1,5 +1,6 @@
 <!-- 
-bkz türkün üstün zekası 
+bkz necip fasıl kısakürek deyince beyinde olan  ilk imgelenme
+https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg
 bkz üstün zekalı olup bütün gün entry girmek
 https://www.uludagsozluk.com/k/ortalama-bir-akp-linin-zekas%C4%B1/
 bkz halk için göt verseydin ilk kime verirdin sorundalı
