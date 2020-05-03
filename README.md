@@ -1,4 +1,6 @@
 <!-- 
+bkz entry girerken akla beyin kanartan imgeler gelmesi sorundalı
+https://www.uludagsozluk.com/k/bek%C3%A7i-de%C4%9Fil-muhaf%C4%B1z-diyeceksiniz/
 bkz oğuzların kayı boyunun çok zeki olma sebepleri
 https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğuzların kayı boyu
 bkz ercüment obalını 19 mayısı bekleyni süprüzü
