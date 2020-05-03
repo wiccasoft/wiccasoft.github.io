@@ -1,4 +1,5 @@
 <!--
+bkz caner erkin in şükran ovalının götü nasıl paylaşımı
 bkz fathi tezcana ufaktan yanık olmak
 bkz fatih tezcana prezervatif almak
 bkz önder sav nerede sorundalı
