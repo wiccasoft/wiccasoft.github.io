@@ -1,4 +1,5 @@
 <!-- 
+bkz devlet bahcelinin kim jonh un la kim kardashian ı karıştırması
 bkz kanye westin devlet bahçeli denen bunka kk nın götü etmez demesi
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz devlet bahçelinin kakaya verdiği ayar
