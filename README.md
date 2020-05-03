@@ -1,4 +1,5 @@
 <!-- 
+bkz oğuzların kayı boyu olmayanları devşirme türk olması
 bkz türklüğü dünyay yayacağı racon kesmiyoz lan kafa kesiyoz o.ç ları
 bkz bütün dünyayı türk yapacağız inkar edenlerin kafasını keseceğiz
 https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz yunanistan türkleri
