@@ -1,4 +1,6 @@
 <!--
+bkz atacücü vahdettini dövdü mü sorundalı
+bkz osmanlının gümbür gümbür gelmesi
 bkz ez oglimmmmmm vadanine göz digeni sez oglimmmmmmmmmm
 bkz rte ikinci atacücü mü sorundalı
 bkz atacücü kuşatma altında çarşaf giyip kaçtı iddaları
