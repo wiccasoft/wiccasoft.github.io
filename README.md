@@ -1,5 +1,6 @@
 <!--
-bkz emre komtanım tahir yüzbaşıya göt vermek
+bkz atacücü 167 boyla nasıl subay oldu sorundalı
+bkz emret komtanım tahir yüzbaşıya göt vermek
 https://vexillarius-of-theodopolis.uludagsozluk.com/ adam yunan beyler
 bkz emret komtanım tahir yüzbaşının emcükleri sulandırması
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg göt verilesi subay
