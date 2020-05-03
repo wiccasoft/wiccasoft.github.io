@@ -1,4 +1,5 @@
 <!--
+bkz atacücü niye kendi adını ülkeye verdi sorundalı
 bkz erdoğanın ülkesinde yaşayıp annesini erdoğana siktirmemek
 bkz erdoğan anamın üstünde yakalansa orospuluk anamdadır diyen tekelci dayı
 bkz celal kılıştaroğlanın yerşin uzunkürekçinin yanıdır paylaşımı
