@@ -1,5 +1,6 @@
 <!-- 
 bkz türkün üstün zekası 
+bkz üstün zekalı olup bütün gün entry girmek
 https://www.uludagsozluk.com/k/ortalama-bir-akp-linin-zekas%C4%B1/
 bkz halk için göt verseydin ilk kime verirdin sorundalı
 bkz halk için göt verirmisin sorundalı
