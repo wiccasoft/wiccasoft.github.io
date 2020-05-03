@@ -1,4 +1,5 @@
 <!-- 
+bkz vadan hayını olmadığını entry ile anlat
 bkz vadan hayını deyince akla gelen ilk isim sorundalı
 bkz entr girmeyenlerin oç olması sorundalı
 bkz entry girerken akla beyin kanartan imgeler gelmesi sorundalı
