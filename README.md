@@ -1,4 +1,5 @@
 <!--
+bkz ülke kimin sorundalı
 bkz tayyibin ülkemden mini etekli görmek istemiyorum demesi
 https://www.uludagsozluk.com/k/%C3%BClkemde-mini-etekli-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=gd
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-ya%C5%9Fay%C4%B1p-oru%C3%A7-tutmamak/&w=bg
