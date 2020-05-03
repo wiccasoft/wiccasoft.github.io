@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-en-karizmatik-foto%C4%9Fraf%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/latife-hanım-atatürk-ü-neden-boşadı/ bkz bamya
 https://www.uludagsozluk.com/k/murat-%C3%B6zar%C4%B1/&w=bg bkz arı vız vız vız
