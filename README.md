@@ -1,4 +1,5 @@
 <!-- 
+bkz bütün dünyayı türk yapacağız inkar edenlerin kafasını keseceğiz
 https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz yunanistan türkleri
 https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l/&w=bg bkz orozbunu sıçtığı türk düşmanı kürekçi
