@@ -2,6 +2,7 @@
 
 
 <!--
+bkz neyse ki sizi sikleyen yok ibneler
 bkz deep türkish webteki ergen ibne başına 10 anayasal suç düşmesi
 bkz önder savuın ortalarda görükmemesi sorundalı iddaları
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Fu/&w=bg
