@@ -2,6 +2,7 @@
 bkz göt çek 31 yaz kızılay a gönder
 bkz osman göt.ekin çekeceği göte isim önerileri
 bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ susturmayacanız
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz fedöncü medium keto
 https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz fedöncü dakımı cincon
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
