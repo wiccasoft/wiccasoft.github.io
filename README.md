@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/orhan-gence-bye/ bkz orhan bence gay
 https://www.pinterest.com/wiccasoft/pins/ bkz üllümünütü ak gençlik kolları başkanından kkya açık tehdid
 bkz millet himzet beklerkene kk nın dikelmesi
 bkz üllümünütü ak gençlik kollarının paylaştığı uzunkürek fotosu
