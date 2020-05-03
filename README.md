@@ -1,4 +1,6 @@
 <!-- 
+bkz ateş topak hava selülöz
+bkz selülöz tabi zoruna mı gitti
 bkz kakanın kürekçileri açık açık tehdit etmesi
 bkz kakanın yerim uzun kürekin yanıdır paylaşımı
 bkz millet hizmet beklerkene kk nın dikelmesi
