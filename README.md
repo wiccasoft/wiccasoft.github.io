@@ -1,4 +1,5 @@
 <!--
+bkz üç isimli erkek karizması
 bkz necip fazıl kısakürek hüzeyin bihal atsız dosluğu
 bkz ismet inöcü atacücünün gölgesinde kaldı yalanı
 bkz necip fazıl uzunkürek rakı içmezdi iddaları
