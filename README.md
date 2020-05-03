@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/osman-g%C3%B6k%C3%A7ek-gibi-bir-o%C4%9Flunuz-olsayd%C4%B1/ evlat olsa seviliri tatliş bişi
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
