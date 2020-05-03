@@ -1,4 +1,5 @@
 <!-- 
+bkz endüstri devrimi bitti kankağ geldik
 bkz höt deyince atacücüüne sığınan kamalcı
 bkz bi virüsün koca ulus devletleri ite çevirmesi
 bkz ulus devletleri minnak bi virüsle parçalamak
