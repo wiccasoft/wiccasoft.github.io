@@ -1,4 +1,6 @@
 <!-- 
+bkz medyum memişin işleri büyütmesi
+https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz şakkadanak
 bkz devlet bahçeli vs kk vs kanye west
 bkz johny sins vs berat albayrak
 bkz kızıl haçın kızılaya kan göndermesi
