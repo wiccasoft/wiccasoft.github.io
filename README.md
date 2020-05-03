@@ -1,4 +1,5 @@
 <!-- 
+bkz necip fazıl kısakürek in ölürsem kabrime gelme demesi
 https://www.youtube.com/watch?v=FqDSaTKtQYA 
 bkz konyada minnak filozok atakan dolaşan kız
 bkz e devlet kayı boyu olduğunu öğrenen hamur suratlı ergen
