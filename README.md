@@ -1,4 +1,5 @@
 <!-- 
+bkz oğuzların kayı boyunun çok zeki olma sebepleri
 https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğuzların kayı boyu
 bkz ercüment obalını 19 mayısı bekleyni süprüzü
 bkz ercüment obalının dornaz alfayı türk gençliğine armağan etmesi
