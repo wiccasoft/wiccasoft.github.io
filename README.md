@@ -1,4 +1,6 @@
 <!-- 
+bkz kemal kılıçtaroğlanın alevilere kısa kürekli  demesi
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg bkz şerefsiz oç
 bkz bir olacaz diri olacaz iri olacaz
 bkz göktürklere göt türkler diyen şerefesiz oç ları
