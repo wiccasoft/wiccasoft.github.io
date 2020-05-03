@@ -1,5 +1,6 @@
 <!-- 
-bkz devlet bahçelinin tayyibe verdiği ayar
+bkz millet hizmet beklerken kk nın osura osura uyuması
+bkz devlet bahçelinin kakaya verdiği ayar
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz admaın hammadesi
 bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
 bkz 3 mayıs minnak cücüler günü
