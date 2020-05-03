@@ -2,6 +2,7 @@
 
 
 <!--
+https://oytunkaran.uludagsozluk.com/ bkz kaba erkek sevmeyen oğlan
 bkz emret komtanımdaki yüzbaşı
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/behzat-%C3%A7-deki-tespihli-k%C3%BCf%C3%BCrbaz-alkolik-kaba-adam/&w=bg ay kaba şey
