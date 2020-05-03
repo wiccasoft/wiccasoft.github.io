@@ -1,4 +1,5 @@
 <!-- 
+bkz moldova türkleri
 bkz kan girsin kızıl çıksın 
 bkz türk olmadığı halde türküm diyen oçları
 bkz göktürkler vs kendini türk sanan devşirmeler
