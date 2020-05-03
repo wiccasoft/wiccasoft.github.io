@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz atacücünnü kurduğu d.iyanetten rahatsız olan köpek soyları
 bkz rte nin ikinci atacücü olması
 bkz atacücünü diyaneti kurması
 bkz celal kılıçdaroğlunun necip fazıl uzunkürek güzellemesi
