@@ -1,5 +1,6 @@
 <!--
 bkz ibnelerde zeka aramak
+bkz neyseki sizi sikleyen yok ibneler
 bkz deep turksih webte ergen başına 10 anaysal suç işlenmesi
 bkz atacücü diyaneti cücük gbiydi diye kurdu iddaları
 bkz atacücü latife hanımı ismete siktirdi iddaları
