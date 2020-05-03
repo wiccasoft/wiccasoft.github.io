@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğuzların kayı boyu
 bkz ercüment obalını 19 mayısı bekleyni süprüzü
 bkz ercüment obalının dornaz alfayı türk gençliğine armağan etmesi
 bkz kk nın beyin kanartan vadanı nı sez oglim paylaşımı
