@@ -1,18 +1,15 @@
 <!-- 
+bkz ez oglimmmmm vadanina göz dikeni sez oglimmmmmmmmmm
 bkz millet hizmet beklerken kk nın dikelmesi
 bkz tayyip damada azıyla peniz yüzüğü takıyor iddaları
 bkz devlet bahçeli deyince akla gelen ilk imge sorundalı bütünü
 bkz ez oglimmm vadanina göz dikenee sezzzzz oglimmmmmmmmmmmm
+bkz merale pattes marreme soğan nası koydu ama tayberdoğan oooooooooo
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz malum oç
 https://www.uludagsozluk.com/k/devletin-vatanda%C5%9F%C4%B1n%C4%B1-memurundan-daha-%C3%A7ok-korumas%C4%B1/
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ geniş omuzlu diyollaa amma bilmem
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz tayybin kızını tokmaklayan
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz uzunkürek
+https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ geniş omuzluymuş diyollaa amma
 https://www.uludagsozluk.com/k/solcu-dendi%C4%9Finde-zihinde-olu%C5%9Fan-ilk-imge/&w=gd böle puşt gibin bi imge
-https://www.uludagsozluk.com/k/bek%C3%A7i-de%C4%9Fil-muhaf%C4%B1z-diyeceksiniz/ muhafız eyi sorun yoğ
-bkz celal kılıçtaroğlan vs kemal kılıçtaroğlan
-bkz celal kılıştaroğlanın kamal kılıçtaroğaln abim değil demesi
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ bkz geniş omuzluymuş ama
+https://www.uludagsozluk.com/k/bek%C3%A7i-de%C4%9Fil-muhaf%C4%B1z-diyeceksiniz/ muhafız eyi promlem yok 
 bkz kemal kılıçtaroğlanın alevilere kısa kürekli  demesi
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg bkz şerefsiz oç
@@ -23,72 +20,7 @@ bkz atatürkün kurduğu diyanetin askerleriyiz
 bkz türkün ezanına dokunanın kellesini keseriz
 https://www.youtube.com/watch?v=EfAsNffCjsM susturamayacaksınız
 bkz bekçi robotlara ünvan önerileri 
-bkz moldova türkleri
-bkz kan girsin kızıl çıksın 
-bkz türk olmadığı halde türküm diyen oçları
-bkz göktürkler vs kendini türk sanan devşirmeler
-bkz gök yüzüne altın harflerle türk yazağız oç ları utansın diye
-bkz türklüğü susturamaycaksınız
-bkz susturmazsınız türkleriiiiiiii 
 https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz barbados türkleri
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg bkz türklüğü kaldırmak isteyen kürt
-https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
-https://www.uludagsozluk.com/k/chp-ter%C3%B6ristlerle-ittifak-yap%C4%B1yor/
-bkz barış atayın türklüğü meclisten kaldıralım tezkeresine onay vermesi
-bkz sevdiceği telefona şokolettalı sevdicek diye kaydeden erkek
-https://www.uludagsozluk.com/k/sevgilisini-telefonuna-%C3%B6mr%C3%BCm-diye-kaydeden-erkek/&w=bg
-bkz necip fazıl a uzu kürek atmak
-bmz neci fazıl kısakürekin torunları
-bkz necip fazıl kıskürekin son sözü türklüğü yayın olması
-bkz oğuzların kayı boyu olmayanları devşirme türk olması
-bkz türklüğü dünyay yayacağı racon kesmiyoz lan kafa kesiyoz o.ç ları
-bkz bütün dünyayı türk yapacağız inkar edenlerin kafasını keseceğiz
-https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz yunanistan türkleri
-https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l/&w=bg bkz orozbunu sıçtığı türk düşmanı kürekçi
-bkz rihann türktür türk kalacaktır
-bkz oç rihanna nın türklüğü inkar etmesi
-https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz barbados türkleri
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg adam oç kürt beyler
-https://milliyetci-ataturkcu.uludagsozluk.com/ bkz dakikada 10 anayasal suç işleyen ergen
-bkz dep türkish web te ırkçı ergen başına 10 anayasal suç işlenmesi
-https://www.uludagsozluk.com/e/43275874/ bkz deep webi bok götürmesi
-https://www.uludagsozluk.com/k/h%C3%BCda-par-vs-hdp/&w=bg
-https://www.uludagsozluk.com/k/varsak-t%C3%BCrkmenleri/&w=bg bkz varsak faşoları
-bkz ırkçılar vs ümmetçiler
-bkz ırkçıların baya bi aptal olması
-bkz türklüğü inkar edenlerin gafalarını geseceğiz
-bkz 1881 atacücü 18+81 = 99 - 81 bilayet - batman = cobid19
-https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
-https://hulagukhan.uludagsozluk.com bkz hulagu sultan boyu
-https://kahraman-zorbey.uludagsozluk.com bkz gerçek türk oğlu türk
-https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ bkz oğuzların mongol boyu
-https://milliyetci-ataturkcu.uludagsozluk.com/ bkz gerçek atacücücü
-https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-kumar-masas%C4%B1ndaki-son-s%C3%B6z%C3%BC/&w=bg
-bkz hüseyin bihal atsızın üstüne at atıp kaçmak
-bkz müslüm gürsesin ölürsem sevemezsem seni demesi
-bkz necip fazıl kısakürek in ölürsem kabrime gelme demesi
-https://www.youtube.com/watch?v=FqDSaTKtQYA 
-bkz konyada minnak filozok atakan dolaşan kız
-bkz e devlet kayı boyu olduğunu öğrenen hamur suratlı ergen
-bkz moralinizi bozmak istemem ama 18 cm genşler
-https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=bg
-bkz kamalcı vs ümreci deyince kavga etmeleri
-bkz ümreci deyince zihinde oluşan imgeler sorundalı
-bkz penis deyince zihinde olulşna imgeler sorundalı
-https://www.uludagsozluk.com/k/uzun-ince-penis-vs-orta-boy-kal%C4%B1n-penis/
-bkz kadri deyince beynin kanartan olaylar silsilesi imgelenmesi  sorundalı
-bkz kadri deyince zihinde beliren ilk imge sorundalı
-bkz kadiri tarikatının çok bozması
-bkz carbohydarate medium ketone ilişkisi
-yüdüp sayfamız dakip edmeyi unudmayın selam ve dua ile
-https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw 
-bkz göt çek 31 yaz kızılay a gönder
-bkz osman göt.ekin çekeceği göte isim önerileri
-bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ susturmayacanız
-https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz fedöncü medium keto
-https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz fedöncü dakımı cincon
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
@@ -98,13 +30,6 @@ https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-%C4%B1n-kan-stoklar%C4%B1n%C4%B
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-hoca-efendi-hazretleri/&w=bg hazretleri diyeceksiniz
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd lol
 bkz merale pattes marreme soğan nası koydu ama tayberdoğan oooooooooo
-bkz devlet bahcelinin kim jonh un la kim kardashian ı karıştırması
-bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
-bkz millet hizmet beklerken kk nın osura osura uyuması
-bkz filozok atakanaın tutunanamayanları 1 dk da okuması
-bkz jons sins filozok atakan taklidi asdadasa
-bkz ata demirer vs atacan kayakan
-bkz johny sinsin yaran atacan kayalar taklidi
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak dahi filozok
 bkz rt nin damadın penis yüzüğün azıyla takıyor iddası yalanı
 https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-g%C3%BCn%C3%BC/ yeahh şapppiiiii
