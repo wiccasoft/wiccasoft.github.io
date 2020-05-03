@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya pipi
 https://www.uludagsozluk.com/e/43277161/ bu cücükler bunları mı sikiyo lan
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
