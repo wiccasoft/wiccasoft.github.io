@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
-<!-- https://www.uludagsozluk.com/k/kel-ve-g%C3%B6bekli-erkek/&w=bg bkz ben 
+<!--
+https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ benim oğlan daha yakışıklı o kadar değil
+https://www.uludagsozluk.com/k/kel-ve-g%C3%B6bekli-erkek/&w=bg bkz ben 
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n%C4%B1-zevkten-a%C4%9Flatabilen-erkek/  bkz ben
 -->
 
