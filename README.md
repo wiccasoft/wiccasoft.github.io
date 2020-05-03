@@ -1,5 +1,5 @@
 <!-- 
-yüdüp sayfamız takip edmeyi unudmayın selam ve dua ile
+yüdüp sayfamız dakip edmeyi unudmayın selam ve dua ile
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw 
 bkz göt çek 31 yaz kızılay a gönder
 bkz osman göt.ekin çekeceği göte isim önerileri
