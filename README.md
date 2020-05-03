@@ -1,6 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
+https://www.uludagsozluk.com/k/thomas-shelby/&w=bg ay çok haşin bu ayol
 bkz gelin hanumu sikebüğsünüz diyeceksiniz pezevenkler
 bkz damad değil operatör doktor damad bey diyeceksiniz
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
