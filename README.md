@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz malum oç
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ geniş omuzlu diyollaa amma bilmem
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz tayybin kızını tokmaklayan
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz uzunkürek
