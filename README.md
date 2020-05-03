@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz seni abdulhamdi yalnızlığında bırakacam diyen erkek
+https://www.uludagsozluk.com/k/seni-leonidas-%C4%B1n-yaln%C4%B1zl%C4%B1%C4%9F%C4%B1na-b%C4%B1rakmayaca%C4%9F%C4%B1z/
 bkz kuşatma altında erkek altında inlemek
 bkz recep tayyip erdoğanın kuşatma altında macrona verdiği ayar
 bkz recep tayyip erdoğan vs mustafa kemak atacücü
