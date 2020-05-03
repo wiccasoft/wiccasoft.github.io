@@ -1,4 +1,5 @@
 <!-- 
+bkz millet hizmet beklerkene kknın dikelmesi
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw selam ve dua ile
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
