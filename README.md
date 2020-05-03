@@ -1,6 +1,6 @@
 <!-- 
 bkz ibbnin kürekçilere maaş bağlaması
-bkz kılıçtaroğlanın paylaştığı uzunkürek hanedanı
+bkz kılıçtaroğlanın paylaştığı uzunkürek hanedanı soy ağacı
 bkz ez oglimmmmmmmm vadanine göz dikeniiiiii sez oglimmmmmmmmmmmm
 https://www.pinterest.com/wiccasoft/pins/ bkz celal kışıştaroğan paylaşımı
 bkz kemal kılıçtaroğlan mezarlık paylaşımı
