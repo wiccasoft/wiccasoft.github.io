@@ -1,5 +1,7 @@
 <!--
 bkz üç isimli erkek karizması
+bkz tayybni kuşatma altında macrona verdiği ayar
+https://www.uludagsozluk.com/k/tayyipin-ku%C5%9Fatmadan-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/
 bkz necip fazıl kısakürekin kuşatma altında örtülü ödeneki tırıklaması
 https://www.uludagsozluk.com/k/%C3%B6nder-sav-peygamber-mi/&w=bg
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-%C3%B6rt%C3%BCl%C3%BC-%C3%B6dene%C4%9Fi-t%C4%B1rt%C4%B1klamas%C4%B1/
