@@ -1,4 +1,5 @@
 <!-- 
+bkz e devlet e girip ekrenı okşamak
 bkz devlet bahçeli deyince akla gelen ilk imge sorundalı bütünü
 bkz ez oglimmm vadanina göz dikenee sezzzzz oglimmmmmmmmmmmm
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz malum oç
