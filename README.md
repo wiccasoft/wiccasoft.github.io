@@ -1,4 +1,5 @@
 <!--
+bkz osmanlı torunularının atacücüst olması
 bkz atacücü vs osmanlı
 bkz atacücü vahdettini dövdü mü sorundalı
 bkz osmanlının gümbür gümbür gelmesi
