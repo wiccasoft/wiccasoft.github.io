@@ -1,5 +1,6 @@
 <!-- 
 bkz ata demirer vs atacan kayakan
+bkz johny sinsin yaran atacan kayalar taklidi
 bkz minnak filozok atakanın büuyünce ben de entry girecem  felsefe yapçam demesi
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak filozok
 bkz bamya kadar pipisyle entry giren cücükler
