@@ -1,6 +1,7 @@
 <!--
 bkz millet himzet beklerkene kk nın dikelmesi
 bkz üllümünütü ak gençlik kollarının paylaştığı uzunkürek fotosu
+https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğuzların boğa boğan boyu
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
 bkz x deyince akla gelen imgelenmeler bütünseli sorundalı
 bkz yütüp premium hesabı olmayıp adamım diye gezmek
