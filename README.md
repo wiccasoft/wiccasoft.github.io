@@ -1,4 +1,5 @@
 <!--
+bkz atacücü kuşatma altında çarşaf giyip kaçtı iddaları
 bkz atacücü neden sivas kongresinden londros mutakeresi yapmadı sorudalı
 bkz atacücü süper bi subaydı iddaları
 bkz atacücünün subaylık diploması
