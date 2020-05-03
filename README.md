@@ -1,4 +1,5 @@
 <!-- 
+bkz rihann türktür türk kalacaktır
 bkz oç rihanna nın türklüğü inkar etmesi
 https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz barbados türkleri
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg adam oç kürt beyler
