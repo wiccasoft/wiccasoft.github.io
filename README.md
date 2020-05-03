@@ -4,7 +4,7 @@ bkz selülöz tabi zoruna mı gitti
 bkz tarihte yaşayanları gerçeklerle sikeriz ltd.şti
 bkz moralinizi bozmak istemem genşler ama 18 cm
 bkz şaka maka şükra ovalının totosunun kaldırması
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz yarrak kürrek işler
 https://www.uludagsozluk.com/e/43277161/ o değil de bu nasıl göt bu kankağğğğğğğğğğ kalktı yine
 https://www.uludagsozluk.com/k/yahudilerin-d%C3%BCnyaya-hakim-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
