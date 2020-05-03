@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ortalama-bir-akp-linin-zekas%C4%B1/ bkz 90 kamalcıların 190
 bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
 https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/&w=bg
 bkz kk nın türklüğü anayasadan çıkarcağız demesi
