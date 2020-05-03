@@ -29,8 +29,8 @@ bkz barış ataydan doğan  vs receğ tayyiğden doğan
 https://www.uludagsozluk.com/k/8-cm-i-%C3%A7%C4%B1kar%C4%B1p-masaya-%C5%9Flep-%C5%9Flep-vurmak/
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd
 https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-bayram%C4%B1/&w=bg
-https://kahraman-zorbey.uludagsozluk.com 
-https://hulagukhan.uludagsozluk.com
+https://kahraman-zorbey.uludagsozluk.com  bkz yazık la kimmi çocuysa
+https://hulagukhan.uludagsozluk.com bkz yazık la kimmi çocuysa
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
