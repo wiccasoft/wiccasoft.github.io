@@ -1,6 +1,8 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
+bkz damad değil peratör doktor damad bey diyeceksiniz
+https://www.uludagsozluk.com/k/bek%C3%A7i-de%C4%9Fil-muhaf%C4%B1z-diyeceksiniz/
 https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/ sok kankağ sok bakmıyoz biz amğ
 https://www.uludagsozluk.com/k/terazi-erke%C4%9Fi/&w=bg bkz alaattin çakıcı
 bkz aslan akbey duran emmiyi emikledi mi sorunsalı
