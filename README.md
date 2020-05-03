@@ -2,7 +2,8 @@
 
 <!--
 bkz celal kılıçdaroğlanın rte ye yanaşması
-bkz celal kılıçdaroğlunun yerim uzun kürekçi adamın yanıdır paylaşımı
+bkz celal kılıçdaroğlunun necip fazıl uzunkürek güzellemesi
+bkz celal kılıçdaroğlunun yerim uzun adamın yanıdır paylaşımı
 bkz rte nin kuşatma altında macrona verdiği ayar
 bkz rte ikinci atacücü olduğua göre üçüncü rte kim sorundalı
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
