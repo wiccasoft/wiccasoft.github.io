@@ -1,4 +1,5 @@
 <!--
+bkz fathi tezcana ufaktan yanık olmak
 bkz fatih tezcana prezervatif almak
 bkz önder sav nerede sorundalı
 bkz barış özcan şanışer dosluğu
