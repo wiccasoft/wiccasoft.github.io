@@ -3,7 +3,7 @@
 <!--
 bkz ibnelerde zeka aramak
 bkz neyseki sizi sikleyen yok ibneler
-bkz deep turksih webte ergen başına 10 anaysal suç işlenmesi
+bkz deep turksih webte ergen başına 10 anayasal suç işlenmesi
 bkz atacücünün kurduğu diyanetten rahatsız olan köpek soyları
 bkz rte nin ikinci atacücü olması
 bkz atacücünün diyaneti kurması
