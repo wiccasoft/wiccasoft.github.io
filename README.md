@@ -1,4 +1,5 @@
 <!--
+https://www.pinterest.com/wiccasoft/pins/ bkz ak gençlik kolları başkanından kkya açık tehdid
 bkz millet himzet beklerkene kk nın dikelmesi
 bkz üllümünütü ak gençlik kollarının paylaştığı uzunkürek fotosu
 https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğuzların boğa boğan boyu
