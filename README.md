@@ -3,6 +3,7 @@
 
 
 <!--
+bkz ibnelerin tek derdinin erkek olması
 bkz tek derdi erkek olan ibneler
 bkz çok dedikodu yapan oğlanları bekleyen felaket
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/
