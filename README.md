@@ -1,4 +1,5 @@
 <!--
+bkz osmanlının ayak sesleri vs atacücünün ayak sesi
 bkz atacücü kuşatma altında osmanlı torunu olduğu iddaları
 bkz osmanlı torunularının atacücüst olması
 bkz atacücü vs osmanlı
