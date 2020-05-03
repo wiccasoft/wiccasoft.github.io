@@ -1,4 +1,6 @@
 <!--
+bkz erdoğanın yarrağında yaşayıp emmemek
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-ya%C5%9Fay%C4%B1p-oru%C3%A7-tutmamak/&w=bg
 https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz telefoncu top 2
 bkz yarramın üstünde top görmek istemiyorum
 bkz türklerin top olduğu iddaları
