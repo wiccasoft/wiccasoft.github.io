@@ -1,7 +1,6 @@
 <!--
-bkz erdoğanın ülkesinde yaşayıpğ annesini erdoğana siktirmemek
+bkz erdoğanın ülkesinde yaşayıp annesini erdoğana siktirmemek
 bkz erdoğan anamın üstünde yakalansa orospuluk anamdadır diyen tekelci dayı
-bkz erdoğanın ülkesinde yaşayıp osurmamak
 bkz celal kılıştaroğlanın yerşin uzunkürekçinin yanıdır paylaşımı
 bkz özarı aşiretinmni murat mzarıyı evlatlıktan reddetmesi
 https://www.uludagsozluk.com/k/murat-%C3%B6zar%C4%B1/&w=bg bkz arı vız vız vız
