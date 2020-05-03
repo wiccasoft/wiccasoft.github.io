@@ -1,4 +1,5 @@
 <!-- 
+vkz vadan sevgini 3 kelimetyle entrylere sığdır imgele
 bkz vadan hayını deyince ilk imgelenen isim
 bkz devlet bahçeli dendiğinde beyinde oluşan ilk imgelenme
 bkz sağcı dendiğinde ilk imge
