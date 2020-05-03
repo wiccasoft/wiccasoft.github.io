@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/ bkz yazılım firmamı kk sanan 50 iq lu organizmalar
 bkz sanki siz yanlış kişiyi takip ediyorsunu
 https://www.pinterest.com/wiccasoft/pins/ bkz celal kışıştaroğan paylaşımı
 bkz kemal kılıçtaroğlan mezarlık paylaşımı
