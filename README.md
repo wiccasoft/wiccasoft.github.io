@@ -1,5 +1,6 @@
 <!--
-bkz tyrramın tepesinde yaşayıp üstüne oturmayan ibneler
+https://www.uludagsozluk.com/k/telefon-konu%C5%9Fmas%C4%B1n%C4%B1-uzatan-insan/ bkz insan mı
+bkz tarramın tepesinde yaşayıp üstüne oturmayan ibneler
 https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz ağır top 2
 https://www.uludagsozluk.com/ bkz iğrençsiniz lan ibneler
 bkz emret komtanım tahir yüzbaşı seksiliği
