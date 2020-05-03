@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg buralar değerlenir
 bkz baruthane pilavcısının ekşiye verdiği reklam
 https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular eywolle brolar yine gelin
 https://www.uludagsozluk.com/k/t%C3%BCrkan-saylan/&w=bg say lan
