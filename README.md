@@ -1,4 +1,6 @@
 <!--
+bkz atacücü neden sivas kongresinden londros mutakeresi yapmadı sorudalı
+bkz atacücü süper bi subaydı iddaları
 bkz atacücünün subaylık diploması
 bkz atacünün 167 boyla nasıl subay oldu sorundalı
 bkz atacününü türk subayı en asil subnaydır demesi
