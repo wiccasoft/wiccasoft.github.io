@@ -1,4 +1,6 @@
 <!-- 
+bkz neo atacücülükün bitmesi
+https://www.uludagsozluk.com/k/neo-osmanl%C4%B1c%C4%B1l%C4%B1k-ve-t%C3%BCrkiye-diplomasisi/
 bkz atacücük kuşatma altında ismete vurduruyordu iddaları
 bkz atacücük diyaneti bamya pipili diye kurdu iddaları
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
