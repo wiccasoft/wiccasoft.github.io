@@ -1,6 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
+bkz herşeyi bırakıp erzuruma yerleşmek
 bkz fettullak gülenin erzuruma dönme sinyalleri yakması
 https://www.uludagsozluk.com/k/instagram-da-ekledi%C4%9Fi-halde-konu%C5%9Fmayan-k%C4%B1z/ bkz feysten ekle kankağ
 https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/&w=gd sok kankağ bakmiyiz biz
