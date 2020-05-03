@@ -1,4 +1,6 @@
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
+https://www.uludagsozluk.com/k/chp-ter%C3%B6ristlerle-ittifak-yap%C4%B1yor/
 bkz barış atayın türklüğü meclisten kaldıralım tezkeresine onay vermesi
 bkz sevdiceği telefona şokolettalı sevdicek diye kaydeden erkek
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-%C3%B6mr%C3%BCm-diye-kaydeden-erkek/&w=bg
