@@ -1,5 +1,6 @@
 <!--
 bkz üç isimli erkek karizması
+bkz önder savın mehdinin mehdi değilim diyecek zaten savı
 bkz tayyibin kuşatma altında macrona verdiği ayar
 https://www.uludagsozluk.com/k/tayyipin-ku%C5%9Fatmadan-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/
 bkz necip fazıl kısakürekin kuşatma altında örtülü ödeneki tırıklaması
