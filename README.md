@@ -2,9 +2,8 @@
 bkz ekşcici vs ulucu
 https://space.stackexchange.com/ 
 bkz x deyince akla gelen imgelenmeler bütünseli sorundalı
-bkz yütüp remium hesabı olmayıp adamaım diye gezmek
-bkz iş ilanına 88000 entry nick altım temiz diyen forumcu
-bkz bekçi depğil entry giren diyeceksiniz
+bkz yütüp premium hesabı olmayıp adamım diye gezmek
+bkz cv sine 88000 entry nick altım temiz diyen ulucu
 bkz vadan hayını olmadığını entry ile anlat
 bkz vadan hayını deyince akla gelen ilk isim sorundalı
 bkz entr girmeyenlerin oç olması sorundalı
