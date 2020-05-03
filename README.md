@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/varsak-t%C3%BCrkmenleri/&w=bg bkz varsak faşoları
 bkz ırkçılar vs ümmetçiler
 bkz ırkçıların baya bi aptal olması
 bkz türklüğü inkar edenlerin gafalarını geseceğiz
