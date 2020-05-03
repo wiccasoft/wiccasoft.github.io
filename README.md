@@ -1,5 +1,5 @@
 <!-- 
-bkz moralinix bozmak istemem ama 18 cm genşler
+bkz moralinizi bozmak istemem ama 18 cm genşler
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=bg
 bkz kamalcı vs ümreci deyince kavga etmeleri
 bkz ümreci deyince zihinde oluşan imgeler sorundalı
