@@ -1,4 +1,5 @@
 <!-- 
+https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw yüdüp sayfamız takip edmeyi unudmayın selam ve dua ile
 bkz göt çek 31 yaz kızılay a gönder
 bkz osman göt.ekin çekeceği göte isim önerileri
 bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
