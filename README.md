@@ -1,6 +1,6 @@
 <!-- 
 bkz ekşcici vs ulucu
-https://space.stackexchange.com/
+https://space.stackexchange.com/ bkz amerikanın forumları
 bkz x deyince akla gelen imgelenmeler bütünseli sorundalı
 bkz yütüp remium hesabı olmayıp adamaım diye gezmek
 bkz iş ilanına 88000 entry nick altım temiz diyen forumcu
