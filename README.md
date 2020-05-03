@@ -1,6 +1,7 @@
 <!-- 
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
+bkz şaka maka şükra ovalının totosunun kaldırması
 https://www.uludagsozluk.com/k/ali-taran/&w=bg bu kim lan tarramın filozofu mu yine
 bkz şaka maka şükran ovalının götütnün taş gibi olması
 https://www.uludagsozluk.com/k/merve-kavak%C3%A7%C4%B1-n%C4%B1n-meclisten-kovulmas%C4%B1/&w=bg bu hanıma haddini bildirin
