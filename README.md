@@ -1,4 +1,5 @@
 <!-- 
+bkz dep türkish web te ırkçı ergen başına 10 anayasal suç işlenmesi
 https://www.uludagsozluk.com/e/43275874/ bkz deep webi bok götürmesi
 https://www.uludagsozluk.com/k/h%C3%BCda-par-vs-hdp/&w=bg
 https://www.uludagsozluk.com/k/varsak-t%C3%BCrkmenleri/&w=bg bkz varsak faşoları
