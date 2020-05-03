@@ -1,4 +1,5 @@
 <!-- 
+bkz kakanın uzukürekçi olması
 bkz millet hizmet beklerkene kknın dikelmesi
 bkz kakanın mezarlıkta mumla dikelmesi
 bkz kakanın paylaştığı uzukürek paylaşımı
