@@ -4,6 +4,7 @@ bkz selülöz tabi zoruna mı gitti
 bkz tarihte yaşayanları gerçeklerle sikeriz ltd.şti
 bkz moralinizi bozmak istemem genşler ama 18 cm
 bkz şaka maka şükra ovalının totosunun kaldırması
+bkz necip fazıl kısakürek vs hüzeyin bihal atsız
 bkz necip fazıl kısakürekin örtülü ödeneği tırklayıp kaçması
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz yarrak kürrek işler
