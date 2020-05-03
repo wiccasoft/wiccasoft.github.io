@@ -2,6 +2,7 @@
 
 
 <!--
+https://min-son.uludagsozluk.com/ bkz işsiz ibne
 bkz neyse ki sizi sikleyen yok ibneler
 bkz deep türkish webteki ergen ibne başına 10 anayasal suç düşmesi
 bkz önder savuın ortalarda görükmemesi sorundalı iddaları
