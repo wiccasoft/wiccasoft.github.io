@@ -1,4 +1,6 @@
 <!-- 
+bkz kamal kılıçtaroğlanın mezarlıkta mum yakması
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
 bkz moraliniz bozmak istemem gençler ama kasıktan dize kadar
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz kısa pipili
 https://kahraman-zorbey.uludagsozluk.com/ bkz kahraman deyince akla gelen ilk bey
