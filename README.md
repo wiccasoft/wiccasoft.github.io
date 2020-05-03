@@ -1,5 +1,5 @@
 <!-- 
-https://milliyetci-ataturkcu.uludagsozluk.com/ bkz saniyede 10 anayasal suç işleyen ergen
+https://milliyetci-ataturkcu.uludagsozluk.com/ bkz dakikada 10 anayasal suç işleyen ergen
 bkz dep türkish web te ırkçı ergen başına 10 anayasal suç işlenmesi
 https://www.uludagsozluk.com/e/43275874/ bkz deep webi bok götürmesi
 https://www.uludagsozluk.com/k/h%C3%BCda-par-vs-hdp/&w=bg
