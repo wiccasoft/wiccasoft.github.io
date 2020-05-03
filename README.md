@@ -1,4 +1,5 @@
 <!-- 
+bkz rusya türkleri vs çin kürtleri
 bkz barbados kürtleri vs bulgaristan türkleri
 bkz celal kılıçtaroğlanın yerim uzun adamın yanıdır paylaşımı
 bkz celal kılıçtaroğlanın paylaştığı necip fasıl uzunkürek paylaşımı
