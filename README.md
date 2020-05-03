@@ -3,7 +3,7 @@
 <!--
 bkz atacücünün kurduğu diyanetten rahatsız olan köpek soyları
 bkz rte nin ikinci atacücü olması
-bkz atacücünü diyaneti kurması
+bkz atacücünün diyaneti kurması
 bkz celal kılıçdaroğlunun necip fazıl uzunkürek güzellemesi
 bkz celal kılıçdaroğlunun yerim uzun adamın yanıdır demesi
 bkz rte nin kuşatma altında macrona verdiği ayar
