@@ -1,6 +1,7 @@
 <!-- 
 bkz johny sins vs berat albayrak
 bkz kızıl haçın kızılaya kan göndermesi
+bkz nestlenin şokomelli işler bakanlığına 10 koli şokomel yollaması
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-%C4%B1n-kan-stoklar%C4%B1n%C4%B1n-azalmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-hoca-efendi-hazretleri/&w=bg hazretleri diyeceksiniz
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd lol
