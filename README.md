@@ -3,6 +3,7 @@
 
 
 <!--
+bkz tek derdi erkek olan ibneler
 bkz çok dedikodu yapan oğlanları bekleyen felaket
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/
 https://www.uludagsozluk.com/k/rize-%C3%A7omar%C4%B1/ bkz sedat peker rte
