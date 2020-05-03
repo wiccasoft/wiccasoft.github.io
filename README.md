@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/rize-valisi-nin-yeni-makam-arabas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-en-karizmatik-foto%C4%9Fraf%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 https://www.uludagsozluk.com/k/hain-tun%C3%A7-soyer/ bkz gözleriynen soymak
