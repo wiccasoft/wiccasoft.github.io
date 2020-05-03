@@ -1,4 +1,5 @@
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/  bkz devlet bahçeliden necip fasıl uzukürek paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz devlet bahçelnini kk dikelsin anca paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz kk nın kılıçtarlar soyundan geliyoruz paylaşımı
 https://www.uludagsozluk.com/ bkz yazılım firmamı db sanan 50 ig lu organizmalar
