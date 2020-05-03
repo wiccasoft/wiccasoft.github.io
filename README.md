@@ -1,4 +1,6 @@
-<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/ bkz son pezevenk bükücü imparator -->
+<!-- 
+https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-g%C3%BCn%C3%BC/ yeahh şapppiiiii
+https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/ bkz son pezevenk bükücü imparator -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
