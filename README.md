@@ -2,6 +2,7 @@
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
 bkz damad değil peratör doktor damad bey diyeceksiniz
+https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/ bkz gelin hamını sikebilüğsünüz
 https://www.uludagsozluk.com/k/i-yazarken-noktay%C4%B1-yuvarlak-yapmak/ bkz ibnelik alametleri
 https://www.uludagsozluk.com/k/bek%C3%A7i-de%C4%9Fil-muhaf%C4%B1z-diyeceksiniz/
 https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/ sok kankağ sok bakmıyoz biz amğ
