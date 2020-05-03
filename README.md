@@ -1,9 +1,10 @@
 <!-- 
-https://www.uludagsozluk.com/e/43277161/ o değil de nasıl göt bu kankağğğğğğğğğğ kalktı yine
+
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
 bkz moralinizi bomazk istemem genşler ama 18 cm
 bkz şaka maka şükra ovalının totosunun kaldırması
+https://www.uludagsozluk.com/e/43277161/ o değil de bu nasıl göt bu kankağğğğğğğğğğ kalktı yine
 https://www.uludagsozluk.com/k/ali-taran/&w=bg bu kim lan tarramın filozofu mu yine
 bkz şaka maka şükran ovalının götütnün taş gibi olması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-%C5%9Feyh-naz%C4%B1m-k%C4%B1br%C4%B1si-mi6-ba%C4%9Flant%C4%B1s%C4%B1/&w=bg bkz mission kadir possible
