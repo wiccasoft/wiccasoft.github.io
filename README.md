@@ -1,4 +1,5 @@
 <!--
+bkz 13. cumburlop maaşına göz dikmek
 bkz atacücü cumburlop maaşını almadı iddaları
 bkz atacücü sayanora da keyif yaptı iddaları
 bkz atacücü sayanora da rakı içmezdi iddaları
