@@ -1,4 +1,5 @@
 <!-- 
+bkz biomoleculer iş ilanına nick altım temiz diyen türkçü
 bkz bekçi depğil entry giren diyeceksiniz
 bkz vadan hayını olmadığını entry ile anlat
 bkz vadan hayını deyince akla gelen ilk isim sorundalı
