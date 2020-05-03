@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/bek%C3%A7i-de%C4%9Fil-muhaf%C4%B1z-diyeceksiniz/ muhafız eyi sorun yoğ
 bkz celal kılıçtaroğlan vs kemal kılıçtaroğlan
 bkz celal kılıştaroğlanın kamal kılıçtaroğaln abim değil demesi
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-in-fiziksel-%C3%B6zellikleri/ bkz geniş omuzluymuş ama
