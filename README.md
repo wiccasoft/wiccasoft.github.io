@@ -1,5 +1,5 @@
 <!-- 
-bkz jons sins filozok atakan taklidi
+bkz jons sins filozok atakan taklidi asdadasa
 bkz ata demirer vs atacan kayakan
 bkz johny sinsin yaran atacan kayalar taklidi
 bkz minnak filozok atakanın büuyünce ben de entry girecem  felsefe yapçam demesi
