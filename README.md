@@ -1,4 +1,5 @@
 <!-- 
+bkz bekçi depğil entry giren diyeceksiniz
 bkz vadan hayını olmadığını entry ile anlat
 bkz vadan hayını deyince akla gelen ilk isim sorundalı
 bkz entr girmeyenlerin oç olması sorundalı
