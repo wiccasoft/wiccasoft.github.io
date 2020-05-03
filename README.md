@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz diriliş ertuğrul koca yusuf
 bkz burak özçivitin koca yusufu oynayabilirm demesi
 bkz gerard butler vs ömer döngeloğlan
 bkz köroğlan vs karacaoğlan
