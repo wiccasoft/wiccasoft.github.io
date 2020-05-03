@@ -1,5 +1,6 @@
 <!-- 
 bkz johny sins vs berat albayrak
+https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-hoca-efendi-hazretleri/&w=bg hazretleri diyeceksiniz
 https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd lol
 bkz merale pattes marreme soğan nası koydu ama tayberdoğan oooooooooo
 bkz devlet bahcelinin kim jonh un la kim kardashian ı karıştırması
