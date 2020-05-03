@@ -1,4 +1,5 @@
 <!--
+bkz düz yolda iq nun 200 e basması 
 https://www.uludagsozluk.com/k/hayvanlarda-zeka-oldu%C4%9Funu-sanmak/&w=bg
 bkz erdoğanın karizmatik  fotoları tıklağ kankağ
 bkz 3 mayıs toplar günü
