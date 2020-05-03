@@ -1,6 +1,6 @@
 <!--
-bkz recep tayyip erdoğan mustafa kemak atacücü necip fazıl kısakürek hüseyin bihak atsız
 bkz üç isimli erkek karizması
+bkz recep tayyip erdoğan mustafa kemak atacücü necip fazıl kısakürek hüseyin bihak atsız
 bkz necip fazıl kısakürek hüzeyin bihal atsız dosluğu
 bkz ismet inöcü atacücünün gölgesinde kaldı yalanı
 bkz necip fazıl uzunkürek rakı içmezdi iddaları
