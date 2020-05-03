@@ -1,4 +1,5 @@
 <!--
+bkz emret komtanım tahir yüzbaşı seksiliği
 bkz atacücü 167 boyla nasıl subay oldu sorundalı
 bkz emret komtanım tahir yüzbaşıya göt vermek
 https://vexillarius-of-theodopolis.uludagsozluk.com/ adam yunan beyler
