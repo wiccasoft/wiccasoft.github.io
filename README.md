@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını veren erkekler
 https://www.uludagsozluk.com/k/fatih-tezcana-do%C4%9Fum-g%C3%BCn%C3%BCnde-prezervatif-almak/ buralar değerlenir
 bkz ekşicilerin köfteci yusuf diye baruthane pilavcısına siktirmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz rtenin iettden arkadaşı
