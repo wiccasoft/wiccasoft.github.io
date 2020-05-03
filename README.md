@@ -1,4 +1,5 @@
 <!--
+bkz caner erkinin şükranın götü nasıl kankağ paylaşımı
 bkz ülkemden siktirol git lan
 bkz ülkemde oç görmek istemiyorum
 bkz atacücü niye kendi adını ülkeye verdi sorundalı
