@@ -1,5 +1,6 @@
 <!-- 
-bkz dsevdiceği telewffon şokolettalı sevdicek diye kaydeden erkek
+bkz barış atayın p.tesi meclise gelmeyecem demesi
+bkz sevdiceği telefona şokolettalı sevdicek diye kaydeden erkek
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-%C3%B6mr%C3%BCm-diye-kaydeden-erkek/&w=bg
 bkz necip fazıl a uzu kürek atmak
 bmz neci fazıl kısakürekin torunları
