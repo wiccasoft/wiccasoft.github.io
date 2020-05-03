@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+https://www.uludagsozluk.com/k/turan-dursun/&w=bg bkz yobakların düşmanı
 https://www.uludagsozluk.com/k/8-baklaval%C4%B1-erkekler/ bkz mustafa kamak atacücü
 bkz mustafa kamak atacücünün kurduğu diyanetten rahatsız olan köpek soyları
 bkz mustafa kamak atacücünnü diyaneti kurması
