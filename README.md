@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay/&w=bg bkz şerefsiz oç
 bkz bir olacaz diri olacaz iri olacaz
 bkz göktürklere göt türkler diyen şerefesiz oç ları
 bkz 1 mayıs pkk bayramını kutlayıp türkün bayramını kutlamayan hdpkklılar
