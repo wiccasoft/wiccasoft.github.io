@@ -1,4 +1,5 @@
 <!-- 
+bkz ercüment obalının dornaz alfayı türk gençliğine armağan etmesi
 bkz kk nın beyin kanartan vadanı nı sez oglim paylaşımı
 bkz x deyince akla gelen ilk isim sorundalı
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/
