@@ -1,6 +1,7 @@
 <!-- 
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
+bkz moralinizi bomazk istemem genşler ama 18 cm
 bkz şaka maka şükra ovalının totosunun kaldırması
 https://www.uludagsozluk.com/k/ali-taran/&w=bg bu kim lan tarramın filozofu mu yine
 bkz şaka maka şükran ovalının götütnün taş gibi olması
