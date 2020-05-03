@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz mustafa kamak atacücünün kurduğu diyanetten rahatsız olan köpek soyları
 bkz mustafa kamak atacücünnü diyaneti kurması
 bkz recep tayip erdoğanın atacücünnü kurduğu diyaneti susturamazsınız demesi
 bkz recep tayyip erdoğanın ikinci atacücü olması
