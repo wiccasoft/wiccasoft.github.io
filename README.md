@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/&w=gd sik kankağ biz bakmiyik
 bkz atatürkün kurduğu diyanete saldıran it soyları
 bkz chpli itlerin faacebook ak gençlik sayfamıza saldırması
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
