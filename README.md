@@ -1,4 +1,6 @@
 <!-- 
+bkz türklüğü inkar edenlerin gafalarını geseceğiz
+https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
 https://hulagukhan.uludagsozluk.com bkz hulagu sultan boyu
 https://kahraman-zorbey.uludagsozluk.com bkz gerçek türk oğlu türk
 https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ bkz oğuzların mongol boyu
