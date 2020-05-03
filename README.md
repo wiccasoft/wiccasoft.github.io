@@ -1,4 +1,5 @@
 <!--
+bkz rte nni paylaştığı uzun kürek paylaşımı
 https://www.uludagsozluk.com/k/dik-dur-e%C4%9Filme-kamburun-%C3%A7%C4%B1k%C4%B1yor/&w=bg
 bkz caner erkinin şükranın totosu nasıl paylaşımı
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/
