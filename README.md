@@ -1,5 +1,6 @@
 <!--
 bkz osman götçekin göt sevdası
+bkz ulus cebeci çankayaaaaaaaa mansur yavaşla ankara bambaşkaaaaaaaaaaaa
 https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ekin-dinazor-tak%C4%B1nt%C4%B1s%C4%B1/
 bkz receğ tayyiğ erdoğanın kuşatma altında macrona verdiği ayar
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg
