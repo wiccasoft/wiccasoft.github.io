@@ -1,5 +1,6 @@
 <!-- 
 bkz bir olacaz diri olacaz iri olacaz
+bkz göktürklere göt türkler diyen şerefesiz oç ları
 bkz 1 mayıs pkk bayramını kutlayıp türkün bayramını kutlamayan hdpkklılar
 bkz atatürkün kurduğu diyanetin askerleriyiz
 bkz türkün ezanına dokunanın kellesini keseriz
