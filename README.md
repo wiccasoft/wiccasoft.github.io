@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz adam gibi adam
 https://www.uludagsozluk.com/  bkz olm ben sizin köye bağlı değilim yanlış kişiyi takip ediyosunuz
 https://www.uludagsozluk.com/  bkz parası neyse verim siyasi liderlerinizin sosyal medya hesaplarını takip edin
 https://www.uludagsozluk.com/ bkz o değil de siz niye beni takip ediyosunuz ibneler
