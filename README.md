@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz şaka maka iyi reklam yapmak
+https://eksisozluk.com/baruthane-pilavcisinin-yaptigi-pilav--6502750?a=popular
 https://www.uludagsozluk.com/k/bir-gerard-u%C4%9Fruna-ya-rab-ne-aktroller-%C4%B1slan%C4%B1yor/ kim la o karılar
 https://www.uludagsozluk.com/k/geceye-islami-bir-deney-b%C4%B1rak/ bırak kankağ sabah bakarlar
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg gelin kakağ aile salon var
