@@ -1,4 +1,5 @@
 <!--
+https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz top
 bkz yarramın üstünde top görmek istemiyorum
 bkz türklerin top olduğu iddaları
 bkz türklerde zeka olduğunu sanmak
