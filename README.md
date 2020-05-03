@@ -2,6 +2,7 @@
 
 
 <!--
+bkz 13. cumburlop adayı kaka
 bkz millet hizmet beklerken kaka nın osura osura uyuması
 bkz ulus cebeci çankaya mansur yavaşla abnkara bambaşkaaaa
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd
