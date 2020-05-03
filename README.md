@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6zar%C4%B1/&w=bg bkz arı vız vız vız
 bkz ülke kimin sorundalı
 bkz tayyibin ülkemden mini etekli görmek istemiyorum demesi
 https://www.uludagsozluk.com/k/%C3%BClkemde-mini-etekli-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=gd
