@@ -1,4 +1,5 @@
 <!-- 
+https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
 https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
 bkz jons sins filozok atakan taklidi asdadasa
