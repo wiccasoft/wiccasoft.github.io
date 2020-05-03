@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/necip-faz%C4%B1l/&w=bg bkz orozbunu sıçtığı türk düşmanı kürekçi
 bkz rihann türktür türk kalacaktır
 bkz oç rihanna nın türklüğü inkar etmesi
 https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz barbados türkleri
