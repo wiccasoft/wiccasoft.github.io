@@ -1,5 +1,5 @@
 <!--
-bkz kamalcılara inkılap tarhih dersi vermek
+bkz kamalcılara inkılap tarihi dersi vermek
 bkz atacücü kuşatma sonraı diyaneti kurdu iddaları
 bkz atacücü kuşatma altına facebook profilini sildi iddası
 bkz osmanlının ayak sesleri vs atacücünün ayak sesi
