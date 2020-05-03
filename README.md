@@ -1,7 +1,10 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 
+
 <!--
+https://www.uludagsozluk.com/k/rize-%C3%A7omar%C4%B1/ bkz sedat peker rte
+https://www.uludagsozluk.com/k/hi%C3%A7bir-devlet-memurunun-benimsemedi%C4%9Fi-y%C3%B6netici/ bkz rte
 https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/ bkz vurduruyordur
 bkz tek derdi erkek olan ibneler 
 bkz ibnelerin çalışma gibi dertleri olmaması
