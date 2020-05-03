@@ -1,4 +1,6 @@
 <!-- 
+bkz osman göt.ekin çekeceği göte isim önerileri
+bkz osman göt.ek gibi bi oğlunuz olsaydı nabardınız sorundalı iddaları
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz fedöncü medium keto
 https://www.uludagsozluk.com/k/fetocu-gaysaray/&w=bg bkz fedöncü dakımı cincon
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
