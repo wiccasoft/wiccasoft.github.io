@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz devlet deep turkish web i incelese yarsı hapse girer amk
+bkz devlet deep turkish web i incelese yarısı hapse girer amk
 bkz camiye molotof atak mı kankağ
 https://www.uludagsozluk.com/k/geceye-islami-bir-deney-b%C4%B1rak/
 https://www.uludagsozluk.com/k/cem-toker/&w=bg bkz tokerin diyanet güzellemesi
