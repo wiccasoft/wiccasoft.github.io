@@ -1,4 +1,5 @@
 <!--
+bkz barış özcan şanışer dosluğu
 bkz osman götçekin göt sevdası
 bkz osman götçekin ankaralı kızların götünü çekmesi
 bkz herşeyi bırakıp keçiörene yerleşmek
