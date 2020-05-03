@@ -2,9 +2,6 @@
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
 https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
-bkz jons sins filozok atakan taklidi asdadasa
-bkz ata demirer vs atacan kayakan
-bkz johny sinsin yaran atacan kayalar taklidi
 https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz komik soyadları
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz şakkadanak
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-%C4%B1n-kan-stoklar%C4%B1n%C4%B1n-azalmas%C4%B1/&w=bg
@@ -15,6 +12,9 @@ bkz devlet bahcelinin kim jonh un la kim kardashian ı karıştırması
 bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz filozok atakanaın tutunanamayanları 1 dk da okuması
+bkz jons sins filozok atakan taklidi asdadasa
+bkz ata demirer vs atacan kayakan
+bkz johny sinsin yaran atacan kayalar taklidi
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak dahi filozok
 bkz rt nin damadın penis yüzüğün azıyla takıyor iddası yalanı
 https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-g%C3%BCn%C3%BC/ yeahh şapppiiiii
