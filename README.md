@@ -1,4 +1,6 @@
 <!-- 
+bkz ercüment ovalının dornaz alfayı türk gençliğine armağan etmesi
+https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/&w=bg
 bkz kk nın türklüğü anayasadan çıkarcağız demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz kemal kılıçdaroğlu'nun mezarlıkta mum yakması
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
