@@ -1,4 +1,5 @@
 <!-- 
+bkz sağcı dendiğinde ilk imge
 bkz karıyı çalıştırmayan gavatlar
 bkz uzun adamın eşim arap ben de gürcüyüm zaten problem yok demesi
 bkz celal kılıçtaroğlanın yerim uzun adamın yanıdır paylaşımı
