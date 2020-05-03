@@ -1,4 +1,5 @@
 <!--
+bkz atacücünnü kışatma altında götten vurdurması
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
 bkz tarihte yaşayanları gerçeklerle sikeriz ltd.şti
