@@ -1,4 +1,5 @@
 <!--
+bkz atacücü vs osmanlı
 bkz atacücü vahdettini dövdü mü sorundalı
 bkz osmanlının gümbür gümbür gelmesi
 bkz ez oglimmmmmm vadanine göz digeni sez oglimmmmmmmmmm
