@@ -1,4 +1,5 @@
 <!-- 
+bkz kamalcı vs ümreci deyince kavga etmeleri
 bkz ümreci deyince zihinde oluşan imgeler sorundalı
 bkz penis deyince zihinde olulşna imgeler sorundalı
 https://www.uludagsozluk.com/k/uzun-ince-penis-vs-orta-boy-kal%C4%B1n-penis/
