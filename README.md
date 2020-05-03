@@ -1,4 +1,5 @@
 <!-- 
+bkz minnak filozok atakanın büyünce ekşide entry girecem demesi
 bkz filozok atakanaın tutunanamayanları 1 dk da okuması
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak dahi filozok
 bkz gelinim mutfakta 109. bölümdeki mantık hatası
