@@ -1,4 +1,5 @@
 <!--
+bkz baruthane pilavcısının fahrettin kocaya  açık açık kamyoncu demesi
 bkz fahrettin kocanın kamyoncular odası başkanına işine bak demesi
 bkz fatih tezcana doğum günüde prezervatifi azıyla takmak
 https://www.uludagsozluk.com/k/fatih-tezcana-do%C4%9Fum-g%C3%BCn%C3%BCnde-prezervatif-almak/
