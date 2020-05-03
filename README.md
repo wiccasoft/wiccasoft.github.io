@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/12-cm-penisi-olan-erkek/&w=gd lol
 bkz merale pattes marreme soğan nası koydu ama tayberdoğan oooooooooo
 bkz devlet bahcelinin kim jonh un la kim kardashian ı karıştırması
 bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
