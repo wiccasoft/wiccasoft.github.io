@@ -1,4 +1,6 @@
 <!--
+bkz fatih tezcana prezervatif almak
+bkz önder sav nerede sorundalı
 bkz barış özcan şanışer dosluğu
 bkz osman götçekin göt sevdası
 bkz osman götçekin ankaralı kızların götünü çekmesi
