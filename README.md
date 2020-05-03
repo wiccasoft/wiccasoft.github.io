@@ -1,4 +1,5 @@
 <!-- 
+bkz 1 mayıs patlıcan bayramı vs 3 mayıs bamya pipililer bayramı
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-deniz-lisesinden-at%C4%B1lma-sebebi/&w=bg bkz kızları sikmesi
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
 bkz atacücünün diyaneti küçük pipili diye kurması
