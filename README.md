@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/ bkz o değil de siz niye beni takip ediyosunuz ibneler
 bkz türklerin beni kk db vs sanması
 https://www.pinterest.com/wiccasoft/pins/  bkz devlet bahçeliden necip fasıl uzukürek paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz devlet bahçelnini kk dikelsin anca paylaşımı
