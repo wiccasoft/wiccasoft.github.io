@@ -2,6 +2,8 @@
 
 
 <!--
+bkz ulus cebeci çankaya mansur yavaşla abnkara bambaşkaaaa
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd
 bkz ibnelerin hayalerde yaşama sebepleri
 https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/ bkz ruhsuz ve hain erkek
 https://min-son.uludagsozluk.com/ bkz işsiz ibne
