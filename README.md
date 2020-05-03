@@ -1,4 +1,5 @@
 <!-- 
+bkz atacücük kuşatma altında ingilizlere siktiriyordu iddası
 bkz ismet inöcü atacücüye sakso çekiyormuydu sorundalı
 bkz atacücük neden fransız yarrağı emiyordu sorundalı
 bkz atacücünün kuşatma altına fransız yarrağı emmesi
