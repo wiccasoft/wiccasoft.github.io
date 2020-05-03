@@ -1,9 +1,5 @@
 <!--
 https://www.uludagsozluk.com/ bkz iğrençsiniz lan ibneler
-https://www.uludagsozluk.com/k/telefoncu-ekrem-ii/&w=bg bkz erdoğanın prezervatifi
-bkz erdoğanın en karizmatik fotosu
-bkz erdoğanın ülkesinde yaşayıp göt siktirmemek
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-benim-%C3%BClkemde-ya%C5%9Famas%C4%B1/
 bkz emret komtanım tahir yüzbaşı seksiliği
 bkz atacücü 167 boyla nasıl subay oldu sorundalı
 bkz emret komtanım tahir yüzbaşıya göt vermek
