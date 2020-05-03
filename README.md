@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı yi oku kankağ yaş 41
 https://www.uludagsozluk.com/k/titanik-batarken-filikaya-binebilen-erkek/ zuahhahahahaha
 https://www.uludagsozluk.com/k/%C5%9Fehirli-homoseks%C3%BCele-caz-yapan-ta%C5%9Fral%C4%B1-ibine/ zuahhahaha
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağ
