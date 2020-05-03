@@ -1,10 +1,10 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz olm sabahda yersiniz lan
+bkz olm sabah da yersiniz lan
 bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
 https://www.uludagsozluk.com/k/8-baklaval%C4%B1-erkekler/ bkz koca yusuf
-https://www.uludagsozluk.com/k/koca-yusuf/&w=bg bkz kuyucaklı yusuf çık kuyudan yusuf
+https://www.uludagsozluk.com/k/koca-yusuf/&w=bg bkz kuyucaklı yusuf 
 bkz devlet deep turkish web i incelese yarısı hapse girer amk
 bkz camiye molotof atak mı kankağ
 https://www.uludagsozluk.com/k/geceye-islami-bir-deney-b%C4%B1rak/
