@@ -1,5 +1,7 @@
 <!-- 
 bkz kk nın türklüğü anayasadan çıkarcağız demesi
+https://www.pinterest.com/wiccasoft/pins/ bkz kemal kılıçdaroğlu'nun mezarlıkta mum yakması
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkl%C3%BC%C4%9F%C3%BC-anayasadan-kald%C4%B1raca%C4%9F%C4%B1z/&w=bg
 bkz bahçelinin millet hizmet bekliy kk dikeliy demesi
 bkz kılıçtaroğlanın paylaştığı uzunkürek hanedanı soy ağacı
