@@ -1,4 +1,5 @@
 <!-- 
+bkz atacücük diyaneti bamya pipili diye kurdu iddaları
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-atat%C3%BCrk-%C3%BC-neden-bo%C5%9Fad%C4%B1/ bkz bamya
 bkz atacücük kuşatma altında ingilizlere siktiriyordu iddası
 bkz ismet inöcü atacücüye sakso çekiyormuydu sorundalı
