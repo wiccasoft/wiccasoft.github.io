@@ -1,6 +1,7 @@
 <!--
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/%C3%B6nder-sav-nerede-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-en-karizmatik-foto%C4%9Fraf%C4%B1/&w=bg
 https://eksisozluk.com/telefon-numarasini-hic-degistirmemis-insan--4128756?a=popular
