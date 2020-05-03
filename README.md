@@ -1,5 +1,6 @@
 <!-- 
 bkz neo atacücülükün bitmesi
+bkz ulus debletlerin halkın götünde patlaması
 https://www.uludagsozluk.com/k/neo-osmanl%C4%B1c%C4%B1l%C4%B1k-ve-t%C3%BCrkiye-diplomasisi/
 bkz atacücük kuşatma altında ismete vurduruyordu iddaları
 bkz atacücük diyaneti bamya pipili diye kurdu iddaları
