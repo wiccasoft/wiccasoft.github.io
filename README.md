@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/&w=bg
