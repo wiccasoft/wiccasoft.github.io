@@ -1,4 +1,5 @@
 <!--
+bkz atacücnün kuşatma altında ingiliz muhrip cemiyetine katılması
 bkz atacücünün yunanları denize dökmeye hazırlanması
 bkz atacücünün kuşatma altında ak gençlik kollarına katılması
 bkz atacücünnü kışatma altında fransızlara götten vurdurması
