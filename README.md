@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz döngeloğulları
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg bkz adam adam
 bkz kknın paylaştığı uzukürek fotosu
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz kk -->
