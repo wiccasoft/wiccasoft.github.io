@@ -1,4 +1,5 @@
 <!--
+bkz atacücünün bamyası vs erdoğanın patlıcanı
 bkz erdoğanın yarrağı vs sedat pekerin yararğı
 bkz erdoğanın yarrağında yaşayıp emmemek
 bkz adamı madam yaparız madam
