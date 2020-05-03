@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz caner erkinin şükranın göt nasıl paylaşımı
 bkz o değilde şükran ovalının göt ne öyle ya
 bkz genşler moraliniz bozmak istemem ama 18 cm
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg öp kız yumuşak yumuşak
