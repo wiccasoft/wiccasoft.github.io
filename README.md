@@ -5,7 +5,7 @@ bkz ez oglimmm vadanine göz dikene sez oglimmmmmmmmmmmmmm
 bkz millet hizmet beklerken kk nın osura osura uyuması
 bkz filozok atakanaın tutunanamayanları 1 dk da okuması
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz minnak dahi filozok
-bkz gelinim mutfakta 109. bölümdeki mantık hatası
+bkz rt nin damadın penis yüzüğün azıyla takıyor iddası yalanı
 https://www.uludagsozluk.com/k/3-may%C4%B1s-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk-g%C3%BCn%C3%BC/ yeahh şapppiiiii
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/ bkz son pezevenk bükücü imparator -->
 
