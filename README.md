@@ -1,4 +1,5 @@
 <!-- 
+https://milliyetci-ataturkcu.uludagsozluk.com/ bkz gerçek atacücücü
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-kumar-masas%C4%B1ndaki-son-s%C3%B6z%C3%BC/&w=bg
 bkz hüseyin bihal atsızın üstüne at atıp kaçmak
 bkz müslüm gürsesin ölürsem sevemezsem seni demesi
