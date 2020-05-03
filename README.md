@@ -1,8 +1,7 @@
 <!-- 
 bkz kakanın kürekçileri açık açık tehdit etmesi
 bkz kakanın yerim uzun kürekin yanıdır paylaşımı
-bkz millet hizmet beklerkene kknın dikelmesi
-bkz kakanın mezarlıkta mumla dikelmesi
+bkz millet hizmet beklerkene kk nın dikelmesi
 bkz kakanın paylaştığı uzukürek paylaşımı
 https://www.pinterest.com/wiccasoft/pins/
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/
