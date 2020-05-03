@@ -1,5 +1,5 @@
 <!-- 
-https://www.uludagsozluk.com/k/k%C3%BCrt-s%C3%B6zl%C3%BC%C4%9F%C3%BCne-isim-%C3%B6nerileri/&w=bg kürtlütfen.com
+https://www.uludagsozluk.com/k/k%C3%BCrt-s%C3%B6zl%C3%BC%C4%9F%C3%BCne-isim-%C3%B6nerileri/&w=bg türklütfen.com
 ezanlarımız sudurmacanız
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/ezanlar%C4%B1m%C4%B1z%C4%B1-susturamayacaks%C4%B1n%C4%B1z/&w=bg
