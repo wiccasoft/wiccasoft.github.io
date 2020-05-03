@@ -1,6 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
+https://www.uludagsozluk.com/k/terazi-erke%C4%9Fi/&w=bg bkz alaattin çakıcı
 bkz aslan akbey duran emmiyi emikledi mi sorunsalı
 https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğzuların kayı boyu kılıştar hanedanı
 https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg
