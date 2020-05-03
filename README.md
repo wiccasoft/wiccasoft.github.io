@@ -1,4 +1,5 @@
 <!--
+bkz caner erkinni kuşatma altında şükran ovalıyı sikmesi
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-en-karizmatik-foto%C4%9Fraf%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg
