@@ -3,7 +3,7 @@
 <!--
 https://vexillarius-of-theodopolis.uludagsozluk.com bu theodopolis ibnesi ne kafası yaşıyo lan
 https://berkecan-bin-selman.uludagsozluk.com/ bkz fotolarıma mı asılıyon lan ibnenin evladı
-https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/  oğlan daha yakışıklı kankağ
+https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ oğlan daha yakışıklı kankağ
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg angelina jolie fotosu at kankağ
 https://oytunkaran.uludagsozluk.com bu ibne uyudu mu lan dürtün bakim
 https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/  oğlan daha yakışıklı kankağ
