@@ -1,4 +1,5 @@
 <!--
+bkz atacünün 167 boyla nasıl subay oldu sorundalı
 bkz atacününü türk subayı en asil subnaydır demesi
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-deniz-lisesinden-at%C4%B1lma-sebebi/&w=bg
 bkz atacücnün kuşatma altında ingiliz muhrip cemiyetine katılması
