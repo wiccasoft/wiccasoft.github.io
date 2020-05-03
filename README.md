@@ -1,4 +1,5 @@
 <!--
+bkz erdoğanın yarrağı vs sedat pekerin yararğı
 bkz erdoğanın yarrağında yaşayıp emmemek
 bkz adamı madam yaparız madam
 https://www.uludagsozluk.com/k/o%C4%9Flum-size-ne-oldu-sizi-kim-k%C3%B6pek-gibi-kudurttu/
