@@ -2,6 +2,7 @@
 
 <!--
 bkz kim siktiriyo lan bana ben niye hissetmedim
+bkz deep turkish webte yine  birilerini eze eze sikmem
 https://www.uludagsozluk.com/k/gerard-butler-e-siktirip-delikanl%C4%B1l%C4%B1k-taslamak/ kim lan o 
 bkz ben gürcüyüm eşim arap o yüzden problem yok
 bkz türkler ve komik soy isimleri
