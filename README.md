@@ -1,4 +1,5 @@
 <!-- 
+bkz devlet bahçeli dendiğinde beyinde oluşan ilk imgelenme
 bkz sağcı dendiğinde ilk imge
 bkz karıyı çalıştırmayan gavatlar
 bkz uzun adamın eşim arap ben de gürcüyüm zaten problem yok demesi
