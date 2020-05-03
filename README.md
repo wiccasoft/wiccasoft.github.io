@@ -1,4 +1,6 @@
 <!--
+bkz fatih tezcana doğum günüde prezervatifi azıyla takmak
+https://www.uludagsozluk.com/k/fatih-tezcana-do%C4%9Fum-g%C3%BCn%C3%BCnde-prezervatif-almak/
 bkz baruthane pilavcısının açık açık ekşicileri tehdit etmesi
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
