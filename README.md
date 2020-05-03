@@ -1,4 +1,5 @@
 <!-- 
+bkz atacücünün kuşatma altına fransız yarrağı emmesi
 https://www.uludagsozluk.com/k/caner-erkin-ve-%C5%9F%C3%BCkran-oval%C4%B1-n%C4%B1n-a%C5%9Fk-pozu/ oyşş göte gel
 bkz 1 mayıs patlıcan bayramı vs 3 mayıs bamya pipililer bayramı
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-%C4%B1n-deniz-lisesinden-at%C4%B1lma-sebebi/&w=bg bkz kızları sikmesi
