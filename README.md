@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg angelina jolie fotosu at kankağ
 https://oytunkaran.uludagsozluk.com bu ibne uyud mu lan dürtün bakim
 https://www.uludagsozluk.com/k/zall-%C3%B6l%C3%BCnce-s%C3%B6zl%C3%BCk-kime-kalacak-sorunsal%C4%B1/&w=bg
 https://berkecan-bin-selman.uludagsozluk.com/ bkz fotolarıma mı asılıyon lan gece gece
