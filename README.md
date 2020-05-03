@@ -1,5 +1,5 @@
 <!--
-bkz telefon kullanmayan insan
+bkz telefon kullanmayan insan kafam raad kankağğğğğğğğğğğ
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
