@@ -1,4 +1,5 @@
 <!-- 
+bkz hüseyin bihal atsızın üstüne at atıp kaçmak
 bkz müslüm gürsesin ölürsem sevemezsem seni demesi
 bkz necip fazıl kısakürek in ölürsem kabrime gelme demesi
 https://www.youtube.com/watch?v=FqDSaTKtQYA 
