@@ -1,4 +1,5 @@
 <!-- 
+bkz moraliniz bozmak istemem gençler ama kasıktan dize kadar
 https://www.uludagsozluk.com/k/necip-faz%C4%B1l-k%C4%B1sak%C3%BCrek/&w=bg bkz kısa pipili
 https://kahraman-zorbey.uludagsozluk.com/ bkz kahraman deyince akla gelen ilk bey
 https://www.uludagsozluk.com/k/erc%C3%BCment-oval%C4%B1/&w=bg 19 mayısı bekleyin söpriz ilaç önerilerim olçek
