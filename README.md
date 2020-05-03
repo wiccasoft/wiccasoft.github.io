@@ -1,11 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-https://www.uludagsozluk.com/k/butler-the-telefoncu-bender/ sikerler olm hepinizi sikerler
-bkz ömer döngeloğlu vs gerard butler
-https://www.uludagsozluk.com/k/gerard-butler/&w=bg zuahhahaa
 bkz amınoğlu ekrem
-bkz türklerin oğlu soyadlı olması ilginç evet
 bkz ibnelerde zeka aramak
 bkz neyseki sizi sikleyen yok ibneler
 bkz deep turksih webte ergen başına 10 anayasal suç işlenmesi
@@ -16,6 +12,7 @@ bkz celal kılıçdaroğlunun necip fazıl uzunkürek güzellemesi
 bkz celal kılıçdaroğlunun yerim uzun adamın yanıdır demesi
 bkz rte nin kuşatma altında macrona verdiği ayar
 bkz rte ikinci atacücü olduğua göre üçüncü rte kim sorundalı
+https://www.uludagsozluk.com/k/gerard-butler/&w=bg zuahhahaa
 https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=gd bkz komik soyisimler
 https://www.uludagsozluk.com/k/ezandan-rahats%C4%B1z-olmak/&w=bg bkz atacücünün kurduğu diyanetten rahatsız olmak
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
