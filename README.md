@@ -1,6 +1,7 @@
 <!-- 
 bkz ekşcici vs ulucu
 bkz alattin çakıcı vs abdullah çatlı
+https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/&w=gd açacağın başlığı sikeyim oç
 https://www.uludagsozluk.com/k/netflix/ bkz pasif eşcinsellerin övdüğü vasat vakit kaybı
 https://www.uludagsozluk.com/k/thomas-shelby/&w=bg polat alemdar vol 2 ayol
 https://www.uludagsozluk.com/k/thomas-shelby/&w=bg ay çok haşin bu ayol
