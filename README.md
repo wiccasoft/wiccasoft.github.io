@@ -1,21 +1,3 @@
-<!--
-https://www.uludagsozluk.com/k/amerika-s%C4%B1rna%C5%9F%C4%B1k-devlet-bah%C3%A7elileri/&w=bg lol
-https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/&w=gd sik kankağ biz bakmiyik
-bkz atatürkün kurduğu diyanete saldıran it soyları
-bkz chpli itlerin faacebook ak gençlik sayfamıza saldırması
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/orhan-gence-bye/ bkz orhan bence gay
-https://www.pinterest.com/wiccasoft/pins/ bkz üllümünütü ak gençlik kolları başkanından kkya açık tehdid
-bkz millet himzet beklerkene kk nın dikelmesi
-bkz üllümünütü ak gençlik kollarının paylaştığı uzunkürek fotosu
-https://www.uludagsozluk.com/k/mensup-oldu%C4%9Funuz-t%C3%BCrk-boyu/ oğuzların boğa boğan boyu
-https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
-bkz x deyince akla gelen imgelenmeler bütünseli sorundalı
-bkz yütüp premium hesabı olmayıp adamım diye gezmek
-https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz döngeloğulları
-https://www.uludagsozluk.com/k/alaattin-%C3%A7ak%C4%B1c%C4%B1/&w=bg bkz adam adam
-bkz kknın paylaştığı uzukürek fotosu
-https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz kk -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
