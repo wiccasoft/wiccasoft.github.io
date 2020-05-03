@@ -1,4 +1,5 @@
 <!-- 
+bkz gök yüzüne altın harflerle türk yazağız oç ları utansın diye
 bkz türklüğü susturamaycaksınız
 bkz susturmazsınız türkleriiiiiiii 
 https://www.uludagsozluk.com/k/bulgaristan-t%C3%BCrkleri/&w=bg bkz barbados türkleri
