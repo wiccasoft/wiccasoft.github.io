@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ihihihi-diye-g%C3%BClen-erkek/ bkz ruhsuz ve hain erkek
 https://min-son.uludagsozluk.com/ bkz işsiz ibne
 bkz neyse ki sizi sikleyen yok ibneler
 bkz deep türkish webteki ergen ibne başına 10 anayasal suç düşmesi
