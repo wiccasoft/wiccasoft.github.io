@@ -1,4 +1,5 @@
 <!-- 
+bkz necip fasıl kısakürek hüseyin nihal atsız dosluğu
 bkz kamal kılıçtaroğlanın mezarlıkta mum yakması
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
 bkz moraliniz bozmak istemem gençler ama kasıktan dize kadar
