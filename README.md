@@ -1,4 +1,5 @@
 <!-- 
+bkz ulus devletleri minnak bi virüsle parçalamak
 bkz neo atacücülükün bitmesi
 bkz ulus debletlerin halkın götünde patlaması
 https://www.uludagsozluk.com/k/neo-osmanl%C4%B1c%C4%B1l%C4%B1k-ve-t%C3%BCrkiye-diplomasisi/
