@@ -1,5 +1,6 @@
 <!-- 
-bkz bekçi bulgar robotlara ünvan önerileri 
+https://www.youtube.com/watch?v=EfAsNffCjsM susturamayacaksınız
+bkz bekçi robotlara ünvan önerileri 
 bkz moldova türkleri
 bkz kan girsin kızıl çıksın 
 bkz türk olmadığı halde türküm diyen oçları
