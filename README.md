@@ -4,6 +4,7 @@ bkz alattin çakıcı vs abdullah çatlı
 bkz herşeyi bırakıp erzuruma yerleşmek
 bkz fettullak gülenin erzuruma dönme sinyalleri yakması
 bkz fedöye ne istediyse vermek halkına nanik yapmak
+https://www.uludagsozluk.com/k/fetullah-hoca-efendi-vs-fetullah-vs-fet%C3%B6/&w=bg hoca efendi diyeceksiniz oç ları
 https://www.uludagsozluk.com/k/vatan-haini-denince-akla-gelen-ilk-isim/ bkz ben
 https://www.uludagsozluk.com/k/ortalama-bir-akp-linin-zekas%C4%B1/&w=gd bkz 130 yokuş aşşa 160 kanartır
 https://www.uludagsozluk.com/k/instagram-da-ekledi%C4%9Fi-halde-konu%C5%9Fmayan-k%C4%B1z/ bkz feysten ekle kankağ
