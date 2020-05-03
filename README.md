@@ -1,6 +1,6 @@
 <!-- 
 bkz yütüp remium hesabı olmayıp adamaım diye gezmek
-bkz iş ilanına nick altım temiz diyen ulucu ergen
+bkz iş ilanına nick 8000 entry altım temiz diyen ulucu ergen
 bkz bekçi depğil entry giren diyeceksiniz
 bkz vadan hayını olmadığını entry ile anlat
 bkz vadan hayını deyince akla gelen ilk isim sorundalı
