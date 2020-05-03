@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz celal kılıçdaroğlunun yerim uzun kürekçi adamın yanıdır paylaşımı
 bkz rte nin kuşatma altında macrona verdiği ayar
 bkz rte ikinci atacücü olduğua göre üçüncü rte kim sorundalı
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
