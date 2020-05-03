@@ -1,6 +1,6 @@
 <!-- 
-https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://eksisozluk.com/senin-allahin-olmaya-geliyom--4148168 zuahhahaha
+https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alala neden acaba
 https://www.uludagsozluk.com/k/do%C4%9Fan-c%C3%BCcelo%C4%9Flu/&w=bg bkz cücük
 https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz komik soyadları
 https://www.uludagsozluk.com/k/medyum-memi%C5%9F-ve-nedyum-keto-kavgas%C4%B1/ bkz şakkadanak
