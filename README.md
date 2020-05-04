@@ -1,6 +1,8 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://vexillarius-of-theodopolis.uludagsozluk.com bkz atamın izinde bir yunan
+https://www.uludagsozluk.com/k/satoshi-nakamoto/&w=gd bkz atamın izinde bir japon 
 https://www.uludagsozluk.com/k/komutan%C4%B1n-y%C3%BCz%C3%BCne-kar%C5%9F%C4%B1-allah-muhammed-s%C3%B6ven-er/ 
 bkz yine ulusa sesleniyor iki gözümün çiçeği
 bkz devlet bahçeli nin tespihi
