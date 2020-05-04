@@ -1,5 +1,6 @@
 <!--
 https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
+https://www.uludagsozluk.com/k/fesli-bilge-adam/
 https://www.uludagsozluk.com/k/z-ku%C5%9Fa%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/
