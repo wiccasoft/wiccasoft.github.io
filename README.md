@@ -1,26 +1,13 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg bkz olayı doğru okumak lazım
-bkz imamoğlanın yeni bir ilişkiye kapalıyım demesi
-bkz sözü gazetesi rte süper bir lider köşe yazısı
-https://www.uludagsozluk.com/k/kel-ve-g%C3%B6bekli-erkek/&w=bg bkz ben 
-bkz şaka maka ramazan ayağı 50 kilo daha almam 
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg bkz olayı doğru okumak lazım
-bkz sözcü gazetesi yozdil  rte süper bir lider yazısı
-bkz geceye tarihi bir erkek fotosu bırak
-bkz sevdicek istemeyen erkeğinin yüreciğine sevgi koyan ulucu kızlar
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağ
-bkz guardianın rte süper bi lider yazısı
-https://www.uludagsozluk.com/k/cumhuriyet-gazetesi/&w=bg bkz mit tırları yazısı
 bkz olm sabah da yersiniz lan
+bkz imamoğlanın yeni bir ilişkiye kapalıyım demesi
 bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
-https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ haydi söyleee nasıl yakışıklı oldumu
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru okumak lazım
+https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ haydi söyleee
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ 
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
-bkz yüreciğime sevgi koyan ilk kızı roma tatiline gönderecem aşkolar
-bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaparsınız bile katılırız
 https://www.uludagsozluk.com/k/uzun-boylu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-pi%C3%A7-olmayan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu okumak lazım kankağ
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg olayı doğu oku kankağğ
