@@ -1,5 +1,6 @@
 <!--
 https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
+https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/&w=bg
 https://www.uludagsozluk.com/k/burada-benim-s%C3%B6z%C3%BCm-ge%C3%A7er-diyen-k%C3%BCpeli-erkek/ 
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg lol
 https://www.uludagsozluk.com/k/maske-da%C4%9F%C4%B1tmay%C4%B1-beceremeyen-d%C3%BCnya-lideri/ lol
