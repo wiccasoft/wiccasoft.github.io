@@ -3,6 +3,7 @@
 bkz burak özçivit vs murat boz
 bkz hapisteki erkek çekiciliği
 bkz 5 suçtan aranan erkek çekiciliği
+bkz hapiste belalı sevdiceği olmayıp adamım diyen gezen ezikler
 bkz belalı mafya babalarının adamın büzüğünü büzmesi
 https://www.uludagsozluk.com/k/adnan-oktar/&w=bg bkz kedicikler
 https://www.uludagsozluk.com/k/en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erke%C4%9Fi-burak-%C3%B6z%C3%A7ivit-olan-%C3%BClke/
