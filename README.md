@@ -1,4 +1,6 @@
 <!-- 
+https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=bg bkz aslan parçası
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/&w=bg bkz malum ırk
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
