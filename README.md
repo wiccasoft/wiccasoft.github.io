@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz elin oğlu entryin değil diplomana bakar
+bkz elin oğlu girdiğin entrye değil nick altına bakar
 bkz elin oğlu diplomana değil yaptığın pilava bakar
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/t%C4%B1p-okuyan-erkek-%C3%A7ekicili%C4%9Fi/
