@@ -1,6 +1,5 @@
 <!--
-bkz meryemin veledi zinayı hazreti diye kakalaması
-bkz isa tanrının oğluysa meryemin tam bir orospu olması
+bkz meryemin veledi zinayı tanrının oğlu diye kakalaması
 bkz atacücük cücükmüydü sorundalı
 bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
