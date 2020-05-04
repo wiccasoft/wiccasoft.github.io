@@ -1,4 +1,5 @@
 <!--
+bkz cüneyt cüreklibaturun enes batur un babası olması
 bkz atacücükün muhtaç olduğu cücük annenin götündedir lafı
 bkz atacücük cücükler en cücük cücüleri cücüsüdür lafı
 bkz cücüklerin atası vardı noldu ona sorundalı
