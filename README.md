@@ -1,32 +1,10 @@
 <!--
 https://chance-boudreaux.uludagsozluk.com/  bkz murat övünçüne sokayım oç
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdataçüçükizle.com
-bkz çen atacücükçü müçün çen haniç ataçüçük
-bkz kürtcell kullanmam diyen atacücükcü
-bkz atacücükcü gaye büyünce ne olacan demek
-bkz atacücükcü gaylerin agresifleşmesi
-bkz atacücükün cücüklükten aldığı keyf
 bkz atacücükün eşcinsel cücüklere bakışı neydi sorundalı
 bkz atacücükü öldü diye ağlayan velde gelişine vurmak
-bkz çenin atacücükün mü öldü lan top kıyamam şana
-bkz atacücükü öldü diye ağlayan top
-bkz atacücükün mü öldü senin haniç atacücükü
-bkz atacücük önde atacücük ileri adasdasdad
-bkz atacücük öldümü ıssız acun kaldı mı imdi ürek ırtılır
-bkz türklerin atrasının güldürmesi evet
-bkz atacücük ne lan atacücük diye isim mi olur
-bkz atacücükün uzun boylulara bakış açısı
 https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
 https://berkecan-bin-selman.uludagsozluk.com/ bkz jülyen bir top hatta topi top
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/ lol
-bkz 161 boyundaki cücüke ata diyen malum ırk
-bkz atacücük yakala olm
-bkz köpeğe atacücük adını vermek
-bkz şaka maka oç atacücükün gebermesi
-bkz oç atacücünün 161 boyunda gebermesi
-bkz şaka maka atacücükün gebermesi
-bkz denize rte mi düşse sikersin atacücük mü
-bkz denize ataccük mü düşse siktirirsin rte mi muhammed mi
 https://diskapininmandali.uludagsozluk.com/ bkz yazık la kimin velediyse vol 999
 https://www.uludagsozluk.com/k/denize-rte-mi-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-hz-muhammed-mi/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd bkz atacücük
