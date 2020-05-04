@@ -1,4 +1,5 @@
 <!--
+bkz atacücük cücükler en cücük cücüleri cücüsüdür ladı
 bkz cücüklerin atası vardı noldu ona sorundalı
 bkz cücüklerin atası vs cücüklerin efendisi
 bkz denize cücük mü düşse kurtarırsın atacücükmü
