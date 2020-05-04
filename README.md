@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/sabiha-g%C3%B6k%C3%A7en-in-bombalar%C4%B1y%C4%B1z/&w=bg
 bkz dersim katlaimını bilale anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği destan
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşıya bas 1 /10
