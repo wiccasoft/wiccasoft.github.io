@@ -1,5 +1,6 @@
 
 <!-- 
+https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz atamın milleyetçi bekçisi
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
 https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg atamın izinde çağdaş türk kadını
