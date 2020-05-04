@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/bulut-aras/&w=bg bkz hakan urasın yakışıklı oğlu
 bkz seviştiği kızı herkese anlatıp sonra evlenen genç
 https://www.uludagsozluk.com/k/sevi%C5%9Fti%C4%9Fi-k%C4%B1z%C4%B1-herkese-anlat%C4%B1p-sonra-evlenen-gen%C3%A7/&w=bg bkz ben
 bkz murat övüçün türk övüç güven çalış demesi
