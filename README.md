@@ -1,6 +1,6 @@
 <!-- 
 bkz atatürkün diyaneti iyi ki kurması
-bkz atatürk atatürk iyi ki kurdun türkiyeyi atatürk
+bkz atatürk atatürk iyi ki kurdun türkiyeyi atatürk en yücesin atatürk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz liderlerin şahı kralı
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/ ezanları susuturmayın 
