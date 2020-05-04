@@ -1,6 +1,6 @@
 <!-- https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/ -->
 
-[![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/6459/scarlett-johansson-sports-reporter-interracial-blowbang)
+[![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/)
 
 <!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
 
