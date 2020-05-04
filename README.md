@@ -1,18 +1,10 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaprsına bile katılırız
+bkz yüreciğime sevgi koyan ilk kızı roma tatiline götürecem
+bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaparsınız bile katılırız
 https://www.uludagsozluk.com/k/uzun-boylu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-pi%C3%A7-olmayan-erkek/&w=bg
-bkz sevdicek isteyen erkek
-bkz olm dayınla evlenip napacan
-bkz ulucu kızların çocuğum yaşında olması
-bkz ulucu kızların erkek kavgası yapması
-bkz sevgili istemeyen erkeği paylaşamayn kızlar
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu okumak lazım kankağ
-bkz olm sabah da yersiniz lan
-bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
-bkz kızlar kızlar gelemmmi yanağız dan öpem mi
-bkz sevgi sitemeyen erkeğini yüreciğine aşk sokan ulcu kızlar
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg olayı doğu oku kankağğ
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu oku kankağğ
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg ölü takldi yapıyodur kankağ 
