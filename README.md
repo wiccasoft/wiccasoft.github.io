@@ -1,5 +1,6 @@
 
 <!-- 
+bkz merve boğulurun yüzmeyi öğrenmesi
 bkz merve boğulur alper potuk aşkı iddası
 bkz kevin prince boateg seksiliği
 bkz merve boğulurun caner erkin aşkı dedikoduları yalanlaması
