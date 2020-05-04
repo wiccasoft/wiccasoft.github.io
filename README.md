@@ -1,4 +1,6 @@
-<!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
+<!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/ lol
+-->
 
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
