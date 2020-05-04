@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
-https://min-son.uludagsozluk.com bkz eşcinsel 
+https://min-son.uludagsozluk.com bkz yazık la kimin oğluysa
 https://diskapininmandali.uludagsozluk.com/ bkz tayyibi ayar manyağ yapan adam gibi mandal
 https://www.uludagsozluk.com/k/dans%C3%B6zl%C3%BC%C4%9F%C3%BC-liderlik-zanneden-%C3%A7omar/
 https://www.uludagsozluk.com/k/iki-koyun-g%C3%BCdemezler-deyip-%C3%BC%C3%A7-maske-da%C4%9F%C4%B1tamamak/
