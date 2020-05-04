@@ -4,6 +4,7 @@ bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
 bkz denize yunan düşse kurtatır mısın sorundalı
+bkz türkler güçlendikçe saldırganlaşan malum ırk
 bkz üstü başı toplam 100 tl yi geçmeyen rezil tip
 https://www.youtube.com/watch?v=BSzFIAXtXmk 
 https://www.uludagsozluk.com/k/%C3%A7%C3%B6z%C3%BCm-s%C3%BCreci/&w=bg bkz malum ırkın çözülme süreci
