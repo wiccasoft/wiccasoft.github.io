@@ -16,6 +16,7 @@ bkz köfteci yusufu ibrahim gökçeke köfte yollaması
 bkz konser vermeyen ibrahim gökçekin saldırganlaşması
 bkz avrupa avrupa duy sesimizi bu gelen türklerin ayak sesleri
 bkz dinlenme oranı düşen grup yorumun saldırganlaşması
+https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/
 https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg bkz atamın izimnde demir lady
 https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz donunu düşünen altına sıçmaz
 https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=bg bkz çıkarmadan 10 posta
