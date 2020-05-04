@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
 bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
 https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
