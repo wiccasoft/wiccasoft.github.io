@@ -1,5 +1,6 @@
 
 <!--
+bkz fatih ürekin murat önüçün kocası da kocamı demesi
 bkz murat övünçün kocasının belalı çıkması
 bkz hazreti isanın gökten beyaz inip siyah çıkması
 https://www.uludagsozluk.com/k/hz-isa-beyaz-de%C4%9Fildir-esmerdir/&w=bg
