@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz alıcı gözüyle bakılan yazarların tırt çıkması
 bkz elin oğlu girdiğin entrye değil nick altına bakar
 bkz elin oğlu diplomana değil yaptığın pilava bakar
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg
