@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+bkz bahçeli devlet vs bahçesiz devlet
 bkz yine ulusa sesleniyor iki gözümün çiçeği
 bkz devlet bahçeli nin tespihi
 bkz köftesi yusuf vs sörfayfır yunus 
