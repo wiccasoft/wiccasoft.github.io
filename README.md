@@ -1,5 +1,6 @@
 
 <!--
+bkz sevdicek arayınca ponçiktoş arıyor yazması
 bkz sevdiceği yanlışlıkla telefona ponçiktoş diye kaydetmek
 bkz fatih ürekin murat önüçün kocası da kocamı demesi
 bkz murat övünçün kocasının belalı çıkması
