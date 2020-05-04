@@ -2,6 +2,8 @@
 bkz türklerin atrasının güldürmesi evet
 bkz atacücük ne lan atacücük diye isim mi olur
 bkz atacücükün uzun boylulara bakış açısı
+https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
+https://berkecan-bin-selman.uludagsozluk.com/ bkz jülyen bir top hatta topi top
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/ lol
 bkz 161 boyundaki cücüke ata diyen malum ırk
 bkz atacücük yakala olm
