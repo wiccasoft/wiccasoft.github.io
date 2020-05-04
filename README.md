@@ -1,5 +1,7 @@
 
 <!--
+bkz bartu küçükçağlauyanın canlı yayında resmen geğirmesi
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 bkz mustafa kemal atatürk ün türkler en güzel geğirien millettir lafı
 bkz bartu küçükçağlayanın canlı yayında osurup geğirmesi
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
