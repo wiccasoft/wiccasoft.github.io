@@ -1,5 +1,6 @@
 
 <!--
+bkz bartu kçükçağlayan gülse birsel aşkı idddaları
 bkz bartu küçükçağlayan ın saçını 3 e vurması
 bkz bartu küçükçağlayan vs mustafa kemal atatürk
 bkz mustafa kemal atatürk
