@@ -1,4 +1,5 @@
 <!--
+bkz denize ataccük mü düşse siktirirsin rte mi muhammed mi
 https://diskapininmandali.uludagsozluk.com/ bkz yazık la kimin velediyse vol 999
 https://www.uludagsozluk.com/k/denize-rte-mi-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-hz-muhammed-mi/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd bkz atacücük
