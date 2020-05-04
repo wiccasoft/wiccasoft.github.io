@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=bg bkz çıkarmadan 10 posta
 bkz odinlenme oranı düşen grup yorumun saldırganlaşması
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
