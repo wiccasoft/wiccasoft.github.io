@@ -1,4 +1,5 @@
 <!--
+bkz atacücükcü gaye büyünce ne olacan demek
 bkz atacücükcü gaylerin agresifleşmesi
 bkz atacücükün cücüklükten aldığı keyf
 bkz atacücükün eşcinsel cücüklere bakışı neydi sorundalı
