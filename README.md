@@ -1,8 +1,8 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
-bkz oy oranı düştükçe akp nin havlaması
-https://www.uludagsozluk.com/k/oy-oran%C4%B1-d%C3%BC%C5%9Fen-akp-nin-sald%C4%B1rganla%C5%9Fmas%C4%B1/&w=gd
+bkz oy oranı düştükçe akp nin ezanları açması
+https://acele-etme-papaz-efendi.uludagsozluk.com bkz papazların acele ettiğini düşünen biri
 https://min-son.uludagsozluk.com bkz yazık la kimin oğluysa
 https://diskapininmandali.uludagsozluk.com/ bkz tayyibi ayar manyağ yapan adam gibi mandal
 https://www.uludagsozluk.com/k/dans%C3%B6zl%C3%BC%C4%9F%C3%BC-liderlik-zanneden-%C3%A7omar/
