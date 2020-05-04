@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C4%B1p-okuyan-erkek-%C3%A7ekicili%C4%9Fi/&w=gd bkz tr nin geri kalma sebepleri
 bkz savcı yüzbaşı erkek seksiliğ
 bkz dedesi köyde eşek siken milletin akıl vermesi
 bkz elin oğlu girdiğin entrye değil nick altına bakar
