@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz yüreciğime sevgi koyan ilk kızı roma tatiline götürecem
+bkz yüreciğime sevgi koyan ilk kıza kahvaltı hazırlayacam aşkolar
 bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaparsınız bile katılırız
 https://www.uludagsozluk.com/k/uzun-boylu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-pi%C3%A7-olmayan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu okumak lazım kankağ
