@@ -21,6 +21,7 @@ bkz naçiz vücudum illebet toprak olacaktır ama bu ezanlar yurdumun üstünde 
 bkz beni övme sözlerini bırakınız en hakik mürşit ilimdir - mka
 bkz sözlerim ilimle çelişirse ilimi seçin - mustaf kemal atatürk
 bkz bartu minnakçağalayanın gerğimesi
+https://www.uludagsozluk.com/k/adam-%C3%B6ld%C3%BCrece%C4%9Fim-diyor-bunun-neyini-affedeceksiniz/
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 bkz mustafa kemal atatürk varken google kullanmak
 bkz mustafa kemal atatürk varken duckduckgo kullanmak
