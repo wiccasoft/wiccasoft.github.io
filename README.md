@@ -1,5 +1,7 @@
 
 <!-- 
+https://www.uludagsozluk.com/k/yılmaz-özdil/&w=bg bkz atamın izinde yılmaz bir kürt
+https://www.uludagsozluk.com/k/a-haber/&w=bg bkz atamın izinde bir haber
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-bekar-erkek/&w=bg bkz 30 yaşında evi arabası olan erkek
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı -->
 
