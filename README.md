@@ -3,6 +3,7 @@
 <!-- 
 bkz yine ulusa sesleniyor iki gözümün çiçeği
 bkz devlet bahçeli nin tespihi
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-bana-gerizekal%C4%B1-demesi/&w=gd bkz yapay zeka
 https://vexillarius-of-theodopolis.uludagsozluk.com bkz atamın izinde bir yunan
 https://www.uludagsozluk.com/k/satoshi-nakamoto/&w=gd bkz atamın izinde bir japon 
 https://www.uludagsozluk.com/k/komutan%C4%B1n-y%C3%BCz%C3%BCne-kar%C5%9F%C4%B1-allah-muhammed-s%C3%B6ven-er/ 
