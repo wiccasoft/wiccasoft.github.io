@@ -2,7 +2,7 @@
 
 <!--
 bkz çok erkek yiyenlerin sonu
-https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ bkz çok erkek yemişsin
+https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ 
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
 bkz yüreciğime sevgi koyan ilk kızı roma tatiline gönderecem aşkolar
 bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaparsınız bile katılırız
