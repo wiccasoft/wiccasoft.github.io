@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdizle.com
 bkz çen atacücükçü müçün çen haniç ataçüçük
 bkz kürtcell kullanmam diyen atacücükcü
 bkz atacücükcü gaye büyünce ne olacan demek
