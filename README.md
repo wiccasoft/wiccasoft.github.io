@@ -1,4 +1,5 @@
 <!--
+bkz murat övüçün türk övüç güven çalış demesi
 https://www.uludagsozluk.com/k/talat-bulut/&w=bg bkz hakkı bulutun abisi
 bkz cüneyt arkının hala saçlarının dökülmemesi z kuşağının üzülmesi
 https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n%C4%B1n-sa%C3%A7%C4%B1n%C4%B1n-hala-d%C3%B6k%C3%BClmemi%C5%9F-olmas%C4%B1/&w=bg
