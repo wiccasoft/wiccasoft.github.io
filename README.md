@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/&w=gd ne güzel sesleniyo iki gözimün çiçeği
 bkz bartu küçükçağlayanın führer ulusa seslenirken geğirmesi
 bkz bahçeli devlet vs bahçesiz devlet
 bkz yine ulusa sesleniyor iki gözümün çiçeği
