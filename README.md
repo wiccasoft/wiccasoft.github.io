@@ -1,5 +1,7 @@
 
 <!--
+bkz bartu kü,çükçağlayanın canlı yayında osurup geğirmesi
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 bkz bartu kçükçağlayan gülse birsel aşkı idddaları
 bkz bartu küçükçağlayan ın saçını 3 e vurması
 bkz bartu küçükçağlayan vs mustafa kemal atatürk
