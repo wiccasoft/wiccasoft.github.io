@@ -1,5 +1,6 @@
 
 <!-- 
+bkz mustaf kemal atatürk deyince akla gelenler
 bkz recep tayyip erdoğan ikinci mustafa kemal atatürk olması
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz üç isimli erkek karizması
