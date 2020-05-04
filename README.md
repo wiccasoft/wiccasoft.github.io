@@ -1,9 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz çok erkek yiyenlerin sonu
 bkz olm sabah da yersiniz lan
 bkz hadi ben yatar genşler fazla yemeyin
+bkz çok erkek yiyenlerin sonu
 bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ 
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
