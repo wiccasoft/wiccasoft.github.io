@@ -5,6 +5,7 @@ bkz bahçeli devlet vs bahçesiz devlet
 bkz yine ulusa sesleniyor iki gözümün çiçeği
 bkz devlet bahçeli nin tespihi
 bkz köftesi yusuf vs sörfayfır yunus 
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz atanın izinde gerçek türkçü lider
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz yunus yusuf isimli erkek çekiciliği
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-bana-gerizekal%C4%B1-demesi/&w=gd bkz yapay zeka
