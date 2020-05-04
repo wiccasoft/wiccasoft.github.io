@@ -1,5 +1,6 @@
 
 <!--
+bkz mustafa kemal atatürk varken google kullanmak
 bkz mustafa kemal atatürk varken duckduckgo kullanmak
 bkz günde 8 saat atatürk okurum diyen tekelci
 bkz eve mustafa kemal atatürk heykeli yaptırmak
