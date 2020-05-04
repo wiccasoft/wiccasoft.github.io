@@ -1,7 +1,4 @@
 <!-- 
-https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz donunu düşünen altına sıçmaz
-https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=bg bkz çıkarmadan 10 posta
-bkz odinlenme oranı düşen grup yorumun saldırganlaşması
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
@@ -18,6 +15,10 @@ https://www.youtube.com/watch?v=BSzFIAXtXmk
 bkz köfteci yusufu ibrahim gökçeke köfte yollaması
 bkz konser vermeyen ibrahim gökçekin saldırganlaşması
 bkz avrupa avrupa duy sesimizi bu gelen türklerin ayak sesleri
+bkz dinlenme oranı düşen grup yorumun saldırganlaşması
+https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg bkz atamın izimnde demir lady
+https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz donunu düşünen altına sıçmaz
+https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=bg bkz çıkarmadan 10 posta
 https://www.uludagsozluk.com/k/%C3%A7%C3%B6z%C3%BCm-s%C3%BCreci/&w=bg bkz malum ırkın çözülme süreci
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=gd bkz malum ırk
 https://www.uludagsozluk.com/k/telefon-tutmaktan-bileklerin-a%C4%9Fr%C4%B1mas%C4%B1/ lol
