@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz top
 bkz sevdicek arayınca ponçiktoş arıyor yazması
 bkz sevdiceği yanlışlıkla telefona ponçiktoş diye kaydetmek
 bkz fatih ürekin murat önüçün kocası da kocamı demesi
