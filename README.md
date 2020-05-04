@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd bkz atacücük
 https://berkecan-bin-selman.uludagsozluk.com/ bkz jülyen bir top hatta topi top
 https://www.uludagsozluk.com/k/istiklal-mahkemelerinde-as%C4%B1lanlar/&w=bg bkz islam şehitlerimiz
 https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
