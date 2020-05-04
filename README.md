@@ -1,6 +1,8 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=gd bkz malum ırkın katliam dediği destan
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz atanın izinde türk oğlu türk
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın bekçisi aydın kürt gastacı
 https://eksisozluk.com/21-yasinda-hala-bilgisayar-oyunu-oynayan-ezik--2506402?a=popular 23 den gün aldım abi vurma abi
 https://eksisozluk.com/cankaya-is-kur-onunde-cay-satan-yusuf-abi--6504247?a=popular bkz kuşçu yusuf -->
