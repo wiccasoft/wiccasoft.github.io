@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg atamın izinde çağdaş türk kadınıu
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği destan
 https://www.uludagsozluk.com/k/laiklik/&w=bg bkz atatürk ilke ve inkılapları
 https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz atamın izinde bir oğlan
