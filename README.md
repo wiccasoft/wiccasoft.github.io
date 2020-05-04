@@ -1,4 +1,4 @@
-[![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
+[![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0)
 
 <!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
 
