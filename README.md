@@ -1,4 +1,5 @@
 <!-- 
+bkz atam izindeyiz
 bkz atatürke benzeyen adam vs atatürk
 https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kandemir-kalbi-uzaklarda-bir-adam-var-remix/ bkz atatürk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=gd bkz adamın ham maddesi
