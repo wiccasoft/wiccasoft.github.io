@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/kendini-bir-bok-sanmak/&w=bg b kz atamın izinde laik çağdaş türk insanı
 https://www.uludagsozluk.com/k/ahmet-%C5%9F%C4%B1k/&w=bg bkz atamın izinde aydın laik çağdaş yazarı
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi kürt
 https://www.uludagsozluk.com/k/t%C4%B1p-okuyan-erkek-%C3%A7ekicili%C4%9Fi/&w=gd bkz tr nin geri kalma sebepleri
