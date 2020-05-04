@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz savcı yüzbaşı erkek seksiliğ
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
 bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
 https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse evet
