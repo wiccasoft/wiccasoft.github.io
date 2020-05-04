@@ -1,4 +1,5 @@
 <!--
+bkz şaka maka atacücükün gebermesi
 bkz denize rte mi düşse sikersin atacücük mü
 bkz denize ataccük mü düşse siktirirsin rte mi muhammed mi
 https://diskapininmandali.uludagsozluk.com/ bkz yazık la kimin velediyse vol 999
