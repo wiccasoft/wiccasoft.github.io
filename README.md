@@ -5,9 +5,6 @@
 bkz savcı yüzbaşı erkek seksiliğ
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
 bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
-https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse evet
-https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
-https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/ bkz hangi kanal kankağ
 bkz alıcı gözüyle bakılan yazarların tırt çıkması
 bkz elin oğlu girdiğin entrye değil nick altına bakar
 bkz elin oğlu diplomana değil yaptığın pilava bakar
@@ -18,6 +15,8 @@ https://www.uludagsozluk.com/k/be%C5%9Far-esad-devlet-ter%C3%B6r%C3%BC-estiren-b
 https://www.uludagsozluk.com/k/ibrahim-%C3%B6l%C3%BCyor-ya%C5%9Fat/
 https://www.uludagsozluk.com/k/twittere-sex-twiti-giren-ibrahim-tatl%C4%B1ses/
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği destan
+https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse evet
+https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/)
