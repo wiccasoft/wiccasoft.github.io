@@ -1,39 +1,5 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
-<!-- 
-bkz aktrollerin oç olması
-bkz oç aktrollerin uğramadığı başlıklar
-bkz donuza alına aktrolün hesabını silmesi
-https://www.uludagsozluk.com/k/tc-iyesta-sert/ bkz aktroll
-https://www.uludagsozluk.com/k/kemalizm-ezikli%C4%9Finden-muzdarip-erdo%C4%9Fanc%C4%B1/&w=bg bkz tc iyesta
-https://www.uludagsozluk.com/k/aktroll-omurgas%C4%B1zl%C4%B1%C4%9F%C4%B1/
-bkz oy oranı düştükçe akp nin ezanları açması
-https://acele-etme-papaz-efendi.uludagsozluk.com bkz papazların acele ettiğini düşünen biri
-https://min-son.uludagsozluk.com bkz yazık la kimin oğluysa
-https://diskapininmandali.uludagsozluk.com/ bkz tayyibi ayar manyağ yapan adam gibi mandal
-https://www.uludagsozluk.com/k/dans%C3%B6zl%C3%BC%C4%9F%C3%BC-liderlik-zanneden-%C3%A7omar/
-https://www.uludagsozluk.com/k/iki-koyun-g%C3%BCdemezler-deyip-%C3%BC%C3%A7-maske-da%C4%9F%C4%B1tamamak/
-https://www.uludagsozluk.com/k/ak-partinin-iktidardan-indi%C4%9Fi-g%C3%BCn/&w=bg bkz rte öldüğü gün
-https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg ufak atta ümreciler yesin
-https://www.uludagsozluk.com/k/akp-nin-%C3%BC%C3%A7-kuru%C5%9Fluk-maskeyi-bile-da%C4%9F%C4%B1tamamas%C4%B1/&w=bg bkz oçakp
-https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz dünyanın en iyi partisi
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-%C3%A7ocu%C4%9Fu-yerde-s%C3%BCr%C3%BCkleyen-maymun/ bkz tayyip
-bkz ne güzel sesleniyo ulusa iki gözümün çiçeği
-https://www.uludagsozluk.com/k/sus-kız-birgül-orospusu/&w=bg lol
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ lol
-https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/&w=gd 
-bkz bartu küçükçağlayanın führer ulusa seslenirken geğirmesi
-https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz atanın izinde gerçek türkçü lider
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz yunus yusuf isimli erkek çekiciliği
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-bana-gerizekal%C4%B1-demesi/&w=gd bkz yapay zeka
-https://vexillarius-of-theodopolis.uludagsozluk.com bkz atamın izinde bir yunan
-https://www.uludagsozluk.com/k/satoshi-nakamoto/&w=gd bkz atamın izinde bir japon 
-https://www.uludagsozluk.com/k/komutan%C4%B1n-y%C3%BCz%C3%BCne-kar%C5%9F%C4%B1-allah-muhammed-s%C3%B6ven-er/ 
-https://www.uludagsozluk.com/k/11-may%C4%B1sta-kuaf%C3%B6rler/&w=gd lol
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=gd bkz malum ırkın katliam dediği destan
- -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
