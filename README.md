@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/hz-isa-n%C4%B1n-hz-muhammed-den-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd lol
 https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
 https://www.uludagsozluk.com/k/fesli-bilge-adam/
