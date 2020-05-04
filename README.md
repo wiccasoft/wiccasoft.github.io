@@ -1,5 +1,6 @@
 <!-- 
 bkz gece sikici bakışlı erkek bırak
+bkz hababam sınıfınfa gaza gelen atamın izinde tarih hocası
 https://www.uludagsozluk.com/k/star-wars/&w=bg bkz atamın izinde yıldız savaşları
 https://gercekturkvatansever.uludagsozluk.com/ bkz atamın izinde bir yazar
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşı iyi siker
