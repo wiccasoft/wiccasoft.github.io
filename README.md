@@ -1,5 +1,6 @@
 <!--
-bkz denize cücük mü süşse kurtarırsın atacücükmü
+bkz cücüklerin atasının 161 boyunda olması
+bkz denize cücük mü düşse kurtarırsın atacücükmü
 bkz cücüklerin atası cücük olmayanları deniz döktü yalanı
 bkz cücüklerin suda çıkardığı ses
 bkz cücüklerin atası olduğunu idda eden cücük
