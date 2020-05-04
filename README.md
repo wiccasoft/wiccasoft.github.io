@@ -1,4 +1,5 @@
 <!--
+bkz enes batur cünet cüreklibatur dostluğu
 bkz atacücük içip içip ismet inöcükü arıyordu iddaları
 bkz ismet inöcükün atacücükten uzun olması
 bkz atacücük cumburlop maaşınu rakıya mı yatırıyor sorundalı
