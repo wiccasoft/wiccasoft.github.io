@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz akp tokatlayan
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atanın izinde bir kürt
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz seyfo dayı
 https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz donun düşünen atacücü olamaz
