@@ -1,17 +1,11 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
-<!-- ,
-https://www.youtube.com/watch?v=EfAsNffCjsM ne güzel sesleniy
-bkz söfayfır yunus vs sorfayfır emre
+<!-- 
 bkz ne güzel sesleniyo ulusa iki gözümün çiçeği
 https://www.uludagsozluk.com/k/sus-kız-birgül-orospusu/&w=bg lol
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ lol
 https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/&w=gd 
 bkz bartu küçükçağlayanın führer ulusa seslenirken geğirmesi
-bkz bahçeli devlet vs bahçesiz devlet
-bkz yine ulusa sesleniyor iki gözümün çiçeği
-bkz devlet bahçeli nin tespihi
-bkz köftesi yusuf vs sörfayfır yunus 
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz atanın izinde gerçek türkçü lider
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz yunus yusuf isimli erkek çekiciliği
@@ -22,10 +16,7 @@ https://www.uludagsozluk.com/k/komutan%C4%B1n-y%C3%BCz%C3%BCne-kar%C5%9F%C4%B1-a
 https://www.uludagsozluk.com/k/11-may%C4%B1sta-kuaf%C3%B6rler/&w=gd lol
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=gd bkz malum ırkın katliam dediği destan
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz atanın izinde türk oğlu türk
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın bekçisi aydın kürt gastacı
-https://eksisozluk.com/21-yasinda-hala-bilgisayar-oyunu-oynayan-ezik--2506402?a=popular 23 den gün aldım abi vurma abi
-https://eksisozluk.com/cankaya-is-kur-onunde-cay-satan-yusuf-abi--6504247?a=popular bkz kuşçu yusuf -->
+ -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
