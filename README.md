@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg bkz patlak kızın suda çıakrdığı ses
 https://www.uludagsozluk.com/k/dersim-de-ter%C3%B6ristler-imha-oldu-diye-kuduran-g%C3%BCruh/ bkz malum ırk
 https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz atamın izinde bir mafya karakteri
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atzmın izinde bir kürt
