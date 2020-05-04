@@ -1,5 +1,6 @@
 
 <!--
+bkz adndan oktar vs polat alemdar
 https://www.uludagsozluk.com/k/eski-kolonya-markalar%C4%B1/&w=bg bkz eyüp sabri tunver
 bkz elin oğlu diplomana değil yaptığın pilava bakar
 bkz ya davulcu ya zurnacıya varmak
