@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ülke-kurup-kendine-ata-ismini-koymak/&w=bg dünyanın en komik ülkesi evet
 bkz 5 yaşındaki çocuk zekası va kamalcı zekası
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz atamın yaptığı süper olay
 bkz atatürkün diyaneti iyi ki kurması
