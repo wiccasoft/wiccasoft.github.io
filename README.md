@@ -1,4 +1,6 @@
 <!--
+https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün topitop basın danışmanı
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-nur-yerlita%C5%9F-%C4%B1n-mezar%C4%B1nda-a%C4%9Flamas%C4%B1/
 bkz fesli bunağın paylaştığı taşşaklık ataçüçük karikatürü
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdataçüçükizle.com
 bkz çen atacücükçü müçün çen haniç ataçüçük
