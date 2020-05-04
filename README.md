@@ -1,5 +1,6 @@
 
 <!--
+bkz murat övüçün canlı yayında türk övüç çalış güven demesi
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz kocişkom
 https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1n%C4%B1-ge%C3%A7ipte-hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-ezik/ bkz ben
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz atamın izinden bir koca
