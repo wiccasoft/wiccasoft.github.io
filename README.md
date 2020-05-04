@@ -1,4 +1,5 @@
 <!--
+bkz cücüklerin atası atacücükse cücükler cücük gibi o zaman
 bkz cücüklerin atası atacücük mü sorudnalı
 bkz cücüklerin atası olduğunu idda eden cücük boylu adam
 bkz mustafa kamal atacücük vs recep tayyipten doğan
