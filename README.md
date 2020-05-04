@@ -1,5 +1,7 @@
 
 <!-- 
+bkz kevin prince boateg seksiliği
+https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg bkz patlak kızın suda çıkardığı ses
 https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz atamın milleyetçi bekçisi
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
