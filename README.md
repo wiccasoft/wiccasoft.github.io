@@ -3,7 +3,8 @@ bkz atam izindeyiz
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
-bkz denize yunan düşse kurtatırr msıın sorundalı
+bkz denize yunan düşse kurtatır mısın sorundalı
+bkz üstü başı toplam 100 tl yi geçmeyen rezil tip
 https://www.youtube.com/watch?v=BSzFIAXtXmk 
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg oytun up la
 https://www.uludagsozluk.com/k/%C3%A7akma-giyinenler/&w=bg 
