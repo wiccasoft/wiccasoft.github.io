@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/a-haber/&w=bg bkz atamın izinde bir kanal
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz ayarmatör
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atanın yılmaz bekçisi
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz akp tokatlayan
