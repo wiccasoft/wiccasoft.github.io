@@ -1,5 +1,7 @@
 <!--
-bkz atacücül 161 deyince boyu değil işlevi diyen cücük
+bkz cüneyt arkının hala saçlarının dökülmemesi z kuşağının üzülmesi
+https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n%C4%B1n-sa%C3%A7%C4%B1n%C4%B1n-hala-d%C3%B6k%C3%BClmemi%C5%9F-olmas%C4%B1/&w=bg
+bkz atacücük 161 deyince boyu değil işlevi diyen cücük
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz cücük
 bkz kral süleymanın isa mammed kadar popüler olamaması
 bkz isayı arayıp hacı sen hani mehdi olarak zühur eyleyecektin noldu o iş demek
