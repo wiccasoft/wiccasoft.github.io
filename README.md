@@ -1,4 +1,5 @@
 <!--
+bkz atacücük cücükmüydü sorundalı
 bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
 https://www.uludagsozluk.com/k/philippe-faraut/ bkz kemalsit kişilik bozukluğu
