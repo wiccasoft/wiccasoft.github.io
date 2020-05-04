@@ -1,5 +1,7 @@
 <!--
 https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg lol
+https://www.uludagsozluk.com/k/2023-de-osmanl%C4%B1-n%C4%B1n-geri-gelecek-olmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/ lol
 -->
