@@ -1,5 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
+<!-- https://eksisozluk.com/cankaya-is-kur-onunde-cay-satan-yusuf-abi--6504247?a=popular napalım abi keçiören işler vasat -->
+
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
 <!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
