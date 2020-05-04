@@ -1,6 +1,7 @@
 
 <!-- 
 bkz kevin prince boateg seksiliği
+bkz merve boğulurun caner erkin aşkı dedikoduları yalanlaması
 bkz merve boğulur kevin prince boateg ilişkisi
 bkz caner erkinin şükranın götü nasıl kanka paylaşımı
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg bkz patlak kızın suda çıkardığı ses
