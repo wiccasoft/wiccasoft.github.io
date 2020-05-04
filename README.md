@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz imamaoğlanın yeni bir ilişkiye kapalıyım demesi
+https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg bkz olayı doğru okumak lazım
+bkz imamoğlanın yeni bir ilişkiye kapalıyım demesi
 bkz sözü gazetesi rte süper bir lider köşe yazısı
 https://www.uludagsozluk.com/k/kel-ve-g%C3%B6bekli-erkek/&w=bg bkz ben 
 bkz şaka maka ramazan ayağı 50 kilo daha almam 
