@@ -1,28 +1,3 @@
-<!-- https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/ -->
-
-
-<!-- 
-https://www.uludagsozluk.com/k/r%C3%BCyada-fenerbah%C3%A7e-nin-%C5%9Fampiyon-oldu%C4%9Funu-g%C3%B6rmek/ oytun senmisin lan
-https://www.uludagsozluk.com/k/kendini-bir-bok-sanmak/&w=bg b kz atamın izinde laik çağdaş türk insanı
-https://www.uludagsozluk.com/k/ahmet-%C5%9F%C4%B1k/&w=bg bkz atamın izinde aydın laik çağdaş yazarı
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi kürt
-https://www.uludagsozluk.com/k/t%C4%B1p-okuyan-erkek-%C3%A7ekicili%C4%9Fi/&w=gd bkz tr nin geri kalma sebepleri
-bkz savcı yüzbaşı erkek seksiliğ
-bkz dedesi köyde eşek siken milletin akıl vermesi
-bkz elin oğlu girdiğin entrye değil nick altına bakar
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
-bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
-bkz alıcı gözüyle bakılan yazarların tırt çıkması
-bkz elin oğlu diplomana değil yaptığın pilava bakar
-https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/t%C4%B1p-okuyan-erkek-%C3%A7ekicili%C4%9Fi/
-https://www.uludagsozluk.com/k/be%C5%9Far-esad-devlet-ter%C3%B6r%C3%BC-estiren-bir-ter%C3%B6risttir/&w=bg
-https://www.uludagsozluk.com/k/ibrahim-%C3%B6l%C3%BCyor-ya%C5%9Fat/
-https://www.uludagsozluk.com/k/twittere-sex-twiti-giren-ibrahim-tatl%C4%B1ses/
-https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği destan
-https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse evet
-https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
--->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/)
 
