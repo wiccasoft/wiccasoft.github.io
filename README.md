@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+bkz lan tayyip ufak atta ümreciler yesin
 bkz akp nin eşşeğin amına su kaçırması
 bkz yavaş dön resis amın görüküyo
 https://www.uludagsozluk.com/k/iki-koyun-g%C3%BCdemezler-deyip-%C3%BC%C3%A7-maske-da%C4%9F%C4%B1tamamak/
