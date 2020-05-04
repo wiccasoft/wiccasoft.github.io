@@ -3,6 +3,7 @@ bkz atam izindeyiz
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
+bkz türkün gücü arttıkça saldırganlaşan kesim
 bkz denize yunan düşse kurtatır mısın sorundalı
 bkz türkler güçlendikçe saldırganlaşan malum ırk
 bkz üstü başı toplam 100 tl yi geçmeyen rezil tip
