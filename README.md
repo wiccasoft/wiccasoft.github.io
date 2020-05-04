@@ -1,5 +1,6 @@
 
 <!--
+bkz poalt alemdar yakışıklığ mı sorundalı
 bkz adnan oktar vs adnan polat
 bkz burak özçivit vs murat boz
 bkz hapisteki erkek çekiciliği
