@@ -2,6 +2,7 @@
 https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
 https://www.uludagsozluk.com/k/z-ku%C5%9Fa%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/&w=bg
 https://www.uludagsozluk.com/k/burada-benim-s%C3%B6z%C3%BCm-ge%C3%A7er-diyen-k%C3%BCpeli-erkek/ 
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg lol
