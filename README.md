@@ -3,10 +3,10 @@
 
 <!-- 
 bkz savcı yüzbaşı erkek seksiliğ
+bkz elin oğlu girdiğin entrye değil nick altına bakar
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
 bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
 bkz alıcı gözüyle bakılan yazarların tırt çıkması
-bkz elin oğlu girdiğin entrye değil nick altına bakar
 bkz elin oğlu diplomana değil yaptığın pilava bakar
 bkz dedeis köyde eşek siken ırkın akıl vermesi
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg
