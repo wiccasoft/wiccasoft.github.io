@@ -1,27 +1,3 @@
-<!--
-bkz seferioğulları vs tellioğulları 
-bkz seferioğullarının malum partiye oy vermesi
-bkz tellioğullarının büyük resmi görmesi
-bkz merale pattes marrame soğan nası koydu ama tayberdoğan oooooooo
-https://www.uludagsozluk.com/k/yazarlar%C4%B1n-asla-oy-vermedi%C4%9Fi-partiler/&w=gd bkz atamın partisi
-https://www.uludagsozluk.com/k/akp-giderse-20-milyon-koyun-kesilcek-olmas%C4%B1/  koyun dediler koyduk
-https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşı siker ona bas kankağ
-https://www.uludagsozluk.com/k/sabiha-g%C3%B6k%C3%A7en-in-bombalar%C4%B1y%C4%B1z/&w=bg
-bkz dersim katlaimını bilale anlatır gibi anlatmak
-https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği destan
-https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşıya bas 1 /10
-https://min-son.uludagsozluk.com/ bkz ganyoncu ismetin oğlu
-bkz gece sikici bakışlı erkek bırak
-https://acele-etme-papaz-efendi.uludagsozluk.com bkz atamın izinde akpsavar
-bkz hababam sınıfında çabuk gaza gelen atamın izinde tarih hocası
-https://www.uludagsozluk.com/k/star-wars/&w=bg bkz atamın izinde yıldız savaşları
-https://gercekturkvatansever.uludagsozluk.com/ bkz atamın izinde bir yazar
-https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşı iyi siker
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
-https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı
-https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg bkz meret komtanım tahir yüzbaşu
-https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz top -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/6459/scarlett-johansson-sports-reporter-interracial-blowbang)
 
