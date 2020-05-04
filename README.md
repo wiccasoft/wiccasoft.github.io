@@ -1,10 +1,8 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://min-son.uludagsozluk.com bkz eşcinsel 
 https://diskapininmandali.uludagsozluk.com/ bkz tayyibi ayar manyağ yapan adam gibi mandal
-bkz lan tayyip ufak atta ümreciler yesin
-bkz akp nin eşşeğin amına su kaçırması
-bkz yavaş dön resis amın görüküyo
 https://www.uludagsozluk.com/k/dans%C3%B6zl%C3%BC%C4%9F%C3%BC-liderlik-zanneden-%C3%A7omar/
 https://www.uludagsozluk.com/k/iki-koyun-g%C3%BCdemezler-deyip-%C3%BC%C3%A7-maske-da%C4%9F%C4%B1tamamak/
 https://www.uludagsozluk.com/k/ak-partinin-iktidardan-indi%C4%9Fi-g%C3%BCn/&w=bg bkz rte öldüğü gün
@@ -12,7 +10,6 @@ https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yeti%C5%9Femi
 https://www.uludagsozluk.com/k/akp-nin-%C3%BC%C3%A7-kuru%C5%9Fluk-maskeyi-bile-da%C4%9F%C4%B1tamamas%C4%B1/&w=bg bkz oçakp
 https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz dünyanın en iyi partisi
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-%C3%A7ocu%C4%9Fu-yerde-s%C3%BCr%C3%BCkleyen-maymun/ bkz tayyip
-https://www.uludagsozluk.com/k/kurt-cobain-in-intihar-sebebi/&w=bg bkz karı meselesi
 bkz ne güzel sesleniyo ulusa iki gözümün çiçeği
 https://www.uludagsozluk.com/k/sus-kız-birgül-orospusu/&w=bg lol
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ lol
