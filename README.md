@@ -1,4 +1,6 @@
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
+https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg bkz meret komtanım tahir yüzbaşu
 https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz top -->
