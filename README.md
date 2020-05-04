@@ -1,5 +1,6 @@
 
 <!-- 
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam gibi adam
 bkz merve boğulurun yüzmeyi öğrenmesi
 bkz merve boğulur alper potuk aşkı iddası
 bkz kevin prince boateg seksiliği
