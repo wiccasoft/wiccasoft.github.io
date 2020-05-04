@@ -1,5 +1,6 @@
 <!-- 
 bkz gece sikici bakışlı erkek bırak
+https://acele-etme-papaz-efendi.uludagsozluk.com bkz atamın izinde akpsavar
 bkz hababam sınıfında çabuk gaza gelen atamın izinde tarih hocası
 https://www.uludagsozluk.com/k/star-wars/&w=bg bkz atamın izinde yıldız savaşları
 https://gercekturkvatansever.uludagsozluk.com/ bkz atamın izinde bir yazar
