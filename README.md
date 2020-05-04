@@ -1,4 +1,17 @@
 
+<!-- 
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz atamın milleyetçi bekçisi
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
+https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg atamın izinde çağdaş türk kadını
+https://www.uludagsozluk.com/k/merve-boluğur/&w=bg bkz patlak kızın suda çıkardığı ses
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-bekar-erkek/&w=bg bkz yalanası erkek
+https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz hırtlar vadisi
+https://www.uludagsozluk.com/k/bir-akp-liye-ahlak-%C3%B6%C4%9Fretmek/&w=bg bkz malum ırk
+https://www.uludagsozluk.com/k/yılmaz-özdil/&w=bg bkz atamın izinde yılmaz bir kürt
+https://www.uludagsozluk.com/k/a-haber/&w=bg bkz atatürkün a sı
+https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı -->
+
+
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/6459/scarlett-johansson-sports-reporter-interracial-blowbang)
 
 <!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
