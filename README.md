@@ -1,5 +1,6 @@
 <!--
 bkz seferioğulları vs tellioğulları 
+https://www.uludagsozluk.com/k/yazarlar%C4%B1n-asla-oy-vermedi%C4%9Fi-partiler/&w=gd bkz atamın partisi
 https://www.uludagsozluk.com/k/akp-giderse-20-milyon-koyun-kesilcek-olmas%C4%B1/  koyun dediler koyduk
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşı siker ona bas kankağ
 https://www.uludagsozluk.com/k/sabiha-g%C3%B6k%C3%A7en-in-bombalar%C4%B1y%C4%B1z/&w=bg
