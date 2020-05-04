@@ -1,4 +1,5 @@
 <!--
+bkz cücüklerin atası cücük olmayanları deniz döktü yalanı
 bkz cücüklerin suda çıkardığı ses
 bkz cücüklerin atası olduğunu idda eden cücük
 https://acele-etme-papaz-efendi.uludagsozluk.com bkz papaz efendinin acele ettiğini sanan bir cücük
