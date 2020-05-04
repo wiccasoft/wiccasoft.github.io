@@ -1,4 +1,5 @@
 <!--
+bkz cücüklerin atasına büyüne ne oalcan demek
 bkz cücüklerin atasının 161 boyunda olması
 bkz denize cücük mü düşse kurtarırsın atacücükmü
 bkz cücüklerin atası cücük olmayanları deniz döktü yalanı
