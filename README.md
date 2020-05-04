@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
-<!-- 
+<!-- ,
+https://www.youtube.com/watch?v=EfAsNffCjsM ne güzel sesleniy
 bkz söfayfır yunus vs sorfayfır emre
 bkz ne güzel sesleniyo ulusa iki gözümün çiçeği
 https://www.uludagsozluk.com/k/sus-kız-birgül-orospusu/&w=bg lol
