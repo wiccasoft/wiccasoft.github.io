@@ -1,4 +1,5 @@
 <!--
+https://berkecan-bin-selman.uludagsozluk.com/ bkz jülyen bir top hatta topi top
 https://www.uludagsozluk.com/k/istiklal-mahkemelerinde-as%C4%B1lanlar/&w=bg bkz islam şehitlerimiz
 https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/&w=bg
