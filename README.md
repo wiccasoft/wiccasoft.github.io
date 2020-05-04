@@ -1,6 +1,8 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+bkz aktrollerin oç olması
+https://www.uludagsozluk.com/k/aktroll-omurgas%C4%B1zl%C4%B1%C4%9F%C4%B1/
 bkz oy oranı düştükçe akp nin ezanları açması
 https://acele-etme-papaz-efendi.uludagsozluk.com bkz papazların acele ettiğini düşünen biri
 https://min-son.uludagsozluk.com bkz yazık la kimin oğluysa
