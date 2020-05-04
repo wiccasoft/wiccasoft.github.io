@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki cücüke ata diyen malum ırk
 bkz atacücük yakala olm
 bkz köpeğe atacücük adını vermek
 bkz şaka maka oç atacücükün gebermesi
