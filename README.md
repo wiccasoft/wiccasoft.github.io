@@ -1,4 +1,5 @@
-<!--
+<!--,
+https://chance-boudreaux.uludagsozluk.com/ bkz murat öbüçüde sikeyim seni de oç
 https://chance-boudreaux.uludagsozluk.com/ bkz nur topu gibi bir top
 https://berkecan-bin-selman.uludagsozluk.com/ bkz top 
 https://www.uludagsozluk.com/k/hazreti-isa-n%C4%B1n-kalpleri-%C4%B1s%C4%B1tan-g%C3%BCl%C3%BCmsemesi/&w=bg
