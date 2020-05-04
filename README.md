@@ -1,4 +1,5 @@
 <!--
+bkz atacücükü öldü diye ağlayan velde gelişine vurmak
 bkz çenin atacücükün mü öldü lan top kıyamam şana
 bkz atacücükü öldü diye ağlayan top
 bkz atacücükün mü öldü senin haniç atacücükü
