@@ -1,4 +1,5 @@
 <!-- 
+bkz konser vermeyen ibrahim gökçekin saldırganlaşması
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
