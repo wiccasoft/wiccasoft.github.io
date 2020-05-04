@@ -1,6 +1,6 @@
 <!--
 bkz cücüklerin atası olduğunu idda eden cücük
-https://acele-etme-papaz-efendi.uludagsozluk.com bkz papaz efendinin acele ettiğini sanan bir top
+https://acele-etme-papaz-efendi.uludagsozluk.com bkz papaz efendinin acele ettiğini sanan bir cücük
 https://www.uludagsozluk.com/k/recep-tayyip-erdoğan-vs-mustafa-kemal-atatürk/&w=bg
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-vs-tayyip-erdo%C4%9Fan/&w=bg
 bkz atacücükün cücük gibi boyu olması
