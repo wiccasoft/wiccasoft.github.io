@@ -1,6 +1,8 @@
 
 <!--
-https://www.uludagsozluk.com/k/ramazan-davulcusu/&w=bg bkz ya davulcu ya zurnacıya varmak
+bkz elin oğlu diplomana değil yaptığın pilava bakar
+bkz ya davulcu ya zurnacıya varmak
+https://www.uludagsozluk.com/k/ramazan-davulcusu/&w=bg 
 bkz poalt alemdar yakışıklığ mı sorundalı
 bkz adnan oktar vs adnan polat
 bkz burak özçivit vs murat boz
