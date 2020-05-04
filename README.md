@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/r%C3%BCyada-fenerbah%C3%A7e-nin-%C5%9Fampiyon-oldu%C4%9Funu-g%C3%B6rmek/ oytun senmisin lan
 https://www.uludagsozluk.com/k/kendini-bir-bok-sanmak/&w=bg b kz atamın izinde laik çağdaş türk insanı
 https://www.uludagsozluk.com/k/ahmet-%C5%9F%C4%B1k/&w=bg bkz atamın izinde aydın laik çağdaş yazarı
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi kürt
