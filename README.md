@@ -1,4 +1,5 @@
 <!--
+bkz köpeğe atacücük adını vermek
 bkz atacücük yakala olm
 bkz şaka maka oç atacücükün gebermesi
 bkz oç atacücünün 161 boyunda gebermesi
