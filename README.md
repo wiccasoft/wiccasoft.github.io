@@ -1,5 +1,6 @@
 <!-- 
 bkz gece sikici bakışlı erkek bırak
+https://gercekturkvatansever.uludagsozluk.com/ bkz atamın izinde bir yazar
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşı iyi siker
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı
