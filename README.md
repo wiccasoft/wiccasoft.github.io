@@ -5,6 +5,8 @@ bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
 bkz denize yunan düşse kurtatırr msıın sorundalı
 https://www.youtube.com/watch?v=BSzFIAXtXmk 
+https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg oytun up la
+https://www.uludagsozluk.com/k/%C3%A7akma-giyinenler/&w=bg 
 https://www.uludagsozluk.com/k/erciyes-%C3%BCniversitesi/&w=bg bkz atamın kurduüu üniversite
 https://www.uludagsozluk.com/k/tansu-%C3%A7iller/&w=bg bkz atamın izinde çağdaş türk kadını
 https://www.uludagsozluk.com/k/oy-oran%C4%B1-d%C3%BC%C5%9Fen-akp-nin-sald%C4%B1rganla%C5%9Fmas%C4%B1/ bkz atatürkiye
