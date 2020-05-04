@@ -2,6 +2,7 @@
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
+bk akp oy oranı düştükçe saldırması
 bkz türkün gücü arttıkça saldırganlaşan kesim
 bkz denize yunan düşse kurtatır mısın sorundalı
 bkz türkler güçlendikçe saldırganlaşan malum ırk
