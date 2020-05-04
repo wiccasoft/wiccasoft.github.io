@@ -1,8 +1,5 @@
 <!--
-bkz cücüklerin atası atacücükse cücükler cücük gibi o zaman
-bkz cücüklerin atası atacücük mü sorudnalı
-bkz cücüklerin atası olduğunu idda eden cücük boylu adam
-bkz mustafa kamal atacücük vs recep tayyipten doğan
+bkz cücüklerin atası olduğunu idda eden cücük
 https://acele-etme-papaz-efendi.uludagsozluk.com bkz papaz efendinin acele ettiğini sanan bir top
 https://www.uludagsozluk.com/k/recep-tayyip-erdoğan-vs-mustafa-kemal-atatürk/&w=bg
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-vs-tayyip-erdo%C4%9Fan/&w=bg
