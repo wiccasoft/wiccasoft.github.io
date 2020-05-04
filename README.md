@@ -1,9 +1,11 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://diskapininmandali.uludagsozluk.com/ bkz tayyibi ayar manyağ yapan adam gibi mandal
 bkz lan tayyip ufak atta ümreciler yesin
 bkz akp nin eşşeğin amına su kaçırması
 bkz yavaş dön resis amın görüküyo
+https://www.uludagsozluk.com/k/dans%C3%B6zl%C3%BC%C4%9F%C3%BC-liderlik-zanneden-%C3%A7omar/
 https://www.uludagsozluk.com/k/iki-koyun-g%C3%BCdemezler-deyip-%C3%BC%C3%A7-maske-da%C4%9F%C4%B1tamamak/
 https://www.uludagsozluk.com/k/ak-partinin-iktidardan-indi%C4%9Fi-g%C3%BCn/&w=bg bkz rte öldüğü gün
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg ufak atta ümreciler yesin
