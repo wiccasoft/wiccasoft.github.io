@@ -1,4 +1,5 @@
 <!--
+bkz atacücük cumburlop maaşınu rakıya mı yatırıyor sorundalı
 bkz atacücük 161 boyundaysa nasıl subay oldu sorundalı
 bkz atacücük yunanları denzi döktü yalanı
 bkz atacücükün 161 boyunda olması
