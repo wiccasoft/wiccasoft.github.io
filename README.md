@@ -1,6 +1,8 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
-<!-- https://eksisozluk.com/cankaya-is-kur-onunde-cay-satan-yusuf-abi--6504247?a=popular napalım abi keçiören işler vasat -->
+<!-- 
+https://eksisozluk.com/21-yasinda-hala-bilgisayar-oyunu-oynayan-ezik--2506402?a=popular 23 den gün aldım abi vurma abi
+https://eksisozluk.com/cankaya-is-kur-onunde-cay-satan-yusuf-abi--6504247?a=popular bkz kuşçu yusuf -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
