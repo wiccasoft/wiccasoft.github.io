@@ -1,4 +1,5 @@
 <!--
+bkz içip içip eski sevdiceki arayup nabıyon lan amk demek
 https://chance-boudreaux.uludagsozluk.com/  bkz murat övünçüne sokayım oç
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdataçüçükizle.com
 bkz atacücükün eşcinsel cücüklere bakışı neydi sorundalı
