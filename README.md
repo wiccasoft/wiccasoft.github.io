@@ -1,4 +1,6 @@
 <!--
+https://www.uludagsozluk.com/k/philippe-faraut/ bkz kemalsit küşilik bozukluğu
+https://www.uludagsozluk.com/k/talat-bulut/&w=bg bkz adam adam
 bkz zübeyde ananın atacückten uzun olması
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-annesi-ile-yanyana-foto%C4%9Fraf%C4%B1/
 bkz isayı arayıp sen şimdi oç musun demek
