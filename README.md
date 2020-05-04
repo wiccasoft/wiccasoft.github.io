@@ -1,4 +1,5 @@
 <!--
+bkz atacücükü öldü diye ağlayan top
 bkz atacücükün mü öldü senin haniç atacücükü
 bkz atacücük önde atacücük ileri adasdasdad
 bkz atacücük öldümü ıssız acun kaldı mı imdi ürek ırtılır
