@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://www.uludagsozluk.com/k/komutan%C4%B1n-y%C3%BCz%C3%BCne-kar%C5%9F%C4%B1-allah-muhammed-s%C3%B6ven-er/ 
 bkz yine ulusa sesleniyor iki gözümün çiçeği
 bkz devlet bahçeli nin tespihi
 https://www.uludagsozluk.com/k/11-may%C4%B1sta-kuaf%C3%B6rler/&w=gd lol
