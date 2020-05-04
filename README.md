@@ -1,5 +1,7 @@
 
 <!--
+bkz bartu minnakçağalayanın gerğimesi
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 bkz mustafa kemal atatürk varken google kullanmak
 bkz mustafa kemal atatürk varken duckduckgo kullanmak
 bkz günde 8 saat atatürk okurum diyen tekelci
