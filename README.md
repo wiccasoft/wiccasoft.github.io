@@ -3,6 +3,7 @@ bkz atam izindeyiz
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
+bkz denize yunan düşse kurtatırr msıın sorundalı
 https://www.youtube.com/watch?v=BSzFIAXtXmk 
 https://www.uludagsozluk.com/k/erciyes-%C3%BCniversitesi/&w=bg bkz atamın kurduüu üniversite
 https://www.uludagsozluk.com/k/tansu-%C3%A7iller/&w=bg bkz atamın izinde çağdaş türk kadını
