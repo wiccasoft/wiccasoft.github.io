@@ -2,6 +2,7 @@
 bkz atam izindeyiz
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
+https://www.uludagsozluk.com/k/erciyes-%C3%BCniversitesi/&w=bg bkz atamın kurduüu üniversite
 https://www.uludagsozluk.com/k/tansu-%C3%A7iller/&w=bg bkz atamın izinde çağdaş türk kadını
 https://www.uludagsozluk.com/k/oy-oran%C4%B1-d%C3%BC%C5%9Fen-akp-nin-sald%C4%B1rganla%C5%9Fmas%C4%B1/ bkz atatürkiye
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg bkz atamın denize döktüğü malum ırk
