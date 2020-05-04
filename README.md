@@ -1,5 +1,7 @@
 
-<!-- 
+<!--
+bkz bartu küçükçağlayan ın saçını 3 e vurması
+bkz bartu küçükçağlayan vs mustafa kemal atatürk
 bkz mustafa kemal atatürk
 bkz mustafa kemal atatürk ün yüzyılın lideri olması
 bkz mustaf kemal atatürk deyince akla gelenler
