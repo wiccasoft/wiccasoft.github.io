@@ -1,14 +1,14 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
 bkz yüreciğime sevgi koyan ilk kızı roma tatiline gönderecem aşkolar
 bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaparsınız bile katılırız
 https://www.uludagsozluk.com/k/uzun-boylu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-pi%C3%A7-olmayan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu okumak lazım kankağ
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg olayı doğu oku kankağğ
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu oku kankağğ
+https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg ölü takldi yapıyodur kankağ 
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu oku kankağğ
 bkz sevdicek istemeyen erkeğinin yüreciğine aşk koyan ulucu kızlar
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=gd tecavüz et kankağğ zorla biraz
 https://www.uludagsozluk.com/k/mahmut-tuncer-ile-sahur-vakti/ bkz tırşıkla iyi gider
