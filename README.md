@@ -1,4 +1,7 @@
-<!-- https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz top -->
+<!-- 
+https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg bkz meret komtanım tahir yüzbaşu
+https://www.uludagsozluk.com/k/emret-komutan%C4%B1m-tahir-y%C3%BCzba%C5%9F%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz top -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/6459/scarlett-johansson-sports-reporter-interracial-blowbang)
 
