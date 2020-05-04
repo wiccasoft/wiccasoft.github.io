@@ -9,6 +9,7 @@ bkz türkün gücü arttıkça saldırganlaşan kesim
 bkz denize yunan düşse kurtatır mısın sorundalı
 bkz türkler güçlendikçe saldırganlaşan malum ırk
 bkz üstü başı toplam 100 tl yi geçmeyen rezil tip
+bkz şaka mamak grup vitaminin tek kişi kalması
 https://www.youtube.com/watch?v=BSzFIAXtXmk 
 bkz avrupa avrupa duy sesimizi bu gelen türklerin ayak sesleri
 https://www.uludagsozluk.com/k/%C3%A7%C3%B6z%C3%BCm-s%C3%BCreci/&w=bg bkz malum ırkın çözülme süreci
