@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz evet kızlar piç değilim ama yüreciğime sevgi koyarsanız aşkım yaprsına bile katılırız
+https://www.uludagsozluk.com/k/uzun-boylu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-pi%C3%A7-olmayan-erkek/&w=bg
 bkz sevdicek isteyen erkek
 bkz olm dayınla evlenip napacan
 bkz ulucu kızların çocuğum yaşında olması
