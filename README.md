@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-kocas%C4%B1/&w=bg bkz atamın izinden bir koca
 https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kandemir-kalbi-uzaklarda-bir-adam-var-remix/ bkz atama adanmış remix
 https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=gd bkz atamın izinde çağdaş yiğit türk insanı
 https://www.uludagsozluk.com/k/eren-erdem/&w=bg bkz atamın izinde aydın erdemli bi yazar
