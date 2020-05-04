@@ -1,5 +1,6 @@
 
 <!-- 
+bkz mustafa kemal atatürk
 bkz mustafa kemal atatürk ün yüzyılın lideri olması
 bkz mustaf kemal atatürk deyince akla gelenler
 bkz recep tayyip erdoğan ikinci mustafa kemal atatürk olması
