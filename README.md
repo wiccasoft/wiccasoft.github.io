@@ -1,6 +1,7 @@
 
 <!--
 bkz günde 8 saat atatürk okurum diyen tekelci
+bkz eve mustafa kemal atatürk heykeli yaptırmak
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz yücelerin yücesi ulu önder atatürk
 https://www.uludagsozluk.com/k/1-ayda-10-kitap-okudum-de%C4%9Fi%C5%9Fim-hissetmiyorum/ bkz demek ki atatürk okumamışsın
 bkz bartu küçükçağlauyanın canlı yayında resmen geğirmesi
