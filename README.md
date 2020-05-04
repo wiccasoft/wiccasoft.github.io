@@ -1,35 +1,5 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
-<!--
-bkz olm sabah da yersiniz lan
-bkz imamoğlanın yeni bir ilişkiye kapalıyım demesi
-bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru okumak lazım
-https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ haydi söyleee
-https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ 
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
-https://www.uludagsozluk.com/k/uzun-boylu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-pi%C3%A7-olmayan-erkek/&w=bg
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu okumak lazım kankağ
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg olayı doğu oku kankağğ
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg ölü takldi yapıyodur kankağ 
-bkz sevdicek istemeyen erkeğinin yüreciğine aşk koyan ulucu kızlar
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=gd tecavüz et kankağğ zorla biraz
-https://www.uludagsozluk.com/k/mahmut-tuncer-ile-sahur-vakti/ bkz tırşıkla iyi gider
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=gd bkz hakkı bulut
-bkz o değil de gece gece hakkı bulut fotolarını nerden buldun ibnenin evladı
-https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ haydi söyleee nasıl yakışıklı oldumu
-https://domestik-ev-hanimi.uludagsozluk.com/ yenge sen de az orospu değilsin hani 
-https://vexillarius-of-theodopolis.uludagsozluk.com bu ibne ne kafası yaşıyo lan
-https://berkecan-bin-selman.uludagsozluk.com/ bkz fotolarıma mı asılıyon lan ibnenin evladı
-https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ oğlan daha yakışıklı kankağ
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg angelina jolie fotosu at kankağ
-https://oytunkaran.uludagsozluk.com bu ibne uyudu mu lan dürtün bakim
-https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/  oğlan daha yakışıklı kankağ
-https://www.uludagsozluk.com/k/kel-ve-g%C3%B6bekli-erkek/&w=bg bkz ben 
-https://www.uludagsozluk.com/k/bir-kad%C4%B1n%C4%B1-zevkten-a%C4%9Flatabilen-erkek/  bkz ben
--->
-
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
 <!--
