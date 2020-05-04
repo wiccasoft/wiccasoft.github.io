@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz atamın izinde bir mafya karakteri
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atzmın izinde bir kürt
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg bkz patlak kızın suda çıakrdığı ses
 https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg bkz atamın izinde olan demir lady
