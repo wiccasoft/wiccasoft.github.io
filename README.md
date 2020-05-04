@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/ramazan-davulcusu/&w=bg bkz ya davulcu ya zurnacıya varmak
 bkz poalt alemdar yakışıklığ mı sorundalı
 bkz adnan oktar vs adnan polat
 bkz burak özçivit vs murat boz
