@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/laiklik/&w=bg bkz atatürk ilke ve inkılapları
 https://www.uludagsozluk.com/k/%C3%B6mer-d%C3%B6ngelo%C4%9Flu/&w=bg bkz atamın izinde bir oğlan
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın yılmaz bekçisi
 https://www.uludagsozluk.com/k/a-haber/&w=bg bkz atamın izinde bir kanal
