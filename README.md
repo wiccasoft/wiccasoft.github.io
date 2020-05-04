@@ -1,4 +1,5 @@
 <!--
+bkz atacücük diye isim mi olur amk
 bkz atacücükün cücük gibi boyu olması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/bulut-aras/&w=bg bkz hakan urasın yakışıklı oğlu
