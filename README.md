@@ -1,7 +1,10 @@
 <!-- https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/ -->
 
 
-<!-- https://www.uludagsozluk.com/k/twittere-sex-twiti-giren-ibrahim-tatl%C4%B1ses/ -->
+<!-- 
+https://www.uludagsozluk.com/k/ibrahim-%C3%B6l%C3%BCyor-ya%C5%9Fat/
+https://www.uludagsozluk.com/k/twittere-sex-twiti-giren-ibrahim-tatl%C4%B1ses/
+-->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/)
 
