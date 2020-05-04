@@ -1,4 +1,5 @@
 <!--
+bkz atacücük öldümü ıssız acun kaldı mı imdi ürek ırtılır
 bkz türklerin atrasının güldürmesi evet
 bkz atacücük ne lan atacücük diye isim mi olur
 bkz atacücükün uzun boylulara bakış açısı
