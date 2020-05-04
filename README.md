@@ -6,6 +6,7 @@ bkz merve boğulur vs latife hanım
 bkz denize yunan düşse kurtatır mısın sorundalı
 bkz üstü başı toplam 100 tl yi geçmeyen rezil tip
 https://www.youtube.com/watch?v=BSzFIAXtXmk 
+https://www.uludagsozluk.com/k/%C3%A7%C3%B6z%C3%BCm-s%C3%BCreci/&w=bg bkz malum ırkın çözülme süreci
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=gd bkz malum ırk
 https://www.uludagsozluk.com/k/telefon-tutmaktan-bileklerin-a%C4%9Fr%C4%B1mas%C4%B1/ lol
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg oytun up la
