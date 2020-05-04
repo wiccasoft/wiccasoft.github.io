@@ -3,7 +3,7 @@
 
 <!-- 
 bkz savcı yüzbaşı erkek seksiliğ
-bkz dedesi köyde eşek siken ırkın akıl vermesi
+bkz dedesi köyde eşek siken milletin akıl vermesi
 bkz elin oğlu girdiğin entrye değil nick altına bakar
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
 bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
