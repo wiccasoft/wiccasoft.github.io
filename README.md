@@ -1,5 +1,6 @@
 
 <!--
+bkz mustafa kemal atatürk varken duckduckgo kullanmak
 bkz günde 8 saat atatürk okurum diyen tekelci
 bkz eve mustafa kemal atatürk heykeli yaptırmak
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz yücelerin yücesi ulu önder atatürk
