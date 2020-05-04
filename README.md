@@ -1,4 +1,6 @@
 <!--
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/&w=bg
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz cücük makarnası
 https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
 https://www.uludagsozluk.com/k/hazreti-muhammed-in-simas%C4%B1/ lol
 https://www.uludagsozluk.com/k/hz-isa-n%C4%B1n-hz-muhammed-den-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg lol
