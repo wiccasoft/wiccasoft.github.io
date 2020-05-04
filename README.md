@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+bkz bartu küçükçağlayanın führer ulusa seslenirken geğirmesi
 bkz bahçeli devlet vs bahçesiz devlet
 bkz yine ulusa sesleniyor iki gözümün çiçeği
 bkz devlet bahçeli nin tespihi
