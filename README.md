@@ -2,6 +2,9 @@
 
 
 <!-- 
+https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse
+https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
+https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/ bkz hangi kanal kankağ
 bkz alıcı gözüyle bakılan yazarların tırt çıkması
 bkz elin oğlu girdiğin entrye değil nick altına bakar
 bkz elin oğlu diplomana değil yaptığın pilava bakar
