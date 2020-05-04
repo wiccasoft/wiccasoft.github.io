@@ -1,4 +1,6 @@
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşıya bas 1 /10
+https://min-son.uludagsozluk.com/ bkz ganyoncu ismetin oğlu
 bkz gece sikici bakışlı erkek bırak
 https://acele-etme-papaz-efendi.uludagsozluk.com bkz atamın izinde akpsavar
 bkz hababam sınıfında çabuk gaza gelen atamın izinde tarih hocası
