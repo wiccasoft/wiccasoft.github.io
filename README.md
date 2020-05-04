@@ -1,5 +1,7 @@
 
 <!-- 
+bkz bartu küçükçağlayan merve boğulur aşkı
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz nerde kalmıştık
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam gibi adam
 bkz merve boğulurun yüzmeyi öğrenmesi
