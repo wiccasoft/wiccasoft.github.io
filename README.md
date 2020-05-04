@@ -1,5 +1,6 @@
 
 <!-- 
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-bekar-erkek/&w=bg bkz yalanası erkek
 bkz 30 yaşında evi arabası olan ama bilmezmisni gülom anam beni sana vermez be diyen erkek
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz hırtlar vadisi
 https://www.uludagsozluk.com/k/bir-akp-liye-ahlak-%C3%B6%C4%9Fretmek/&w=bg bkz malum ırk
