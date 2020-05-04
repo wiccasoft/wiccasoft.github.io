@@ -1,4 +1,5 @@
 <!--
+bkz cücükleri patlatıp terk eden yahudi
 bkz cücüklerin atası olduğunu idda eden cücük
 https://acele-etme-papaz-efendi.uludagsozluk.com bkz papaz efendinin acele ettiğini sanan bir cücük
 https://www.uludagsozluk.com/k/recep-tayyip-erdoğan-vs-mustafa-kemal-atatürk/&w=bg
