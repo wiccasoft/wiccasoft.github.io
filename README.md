@@ -4,7 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd bkz atamın yılmaz bekçisi kürt
 bkz atacücük ulusa seleniş ivs rte cücük ulusa selenişi
-https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse
+https://oytunkaran.uludagsozluk.com/ bkz yazık la kimin velediyse evet
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
 https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/ bkz hangi kanal kankağ
 bkz alıcı gözüyle bakılan yazarların tırt çıkması
