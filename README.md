@@ -1,4 +1,5 @@
 <!--
+bkz fesli bunağın paylaştığı taşşaklık ataçüçük karikatürü
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdataçüçükizle.com
 bkz çen atacücükçü müçün çen haniç ataçüçük
 bkz kürtcell kullanmam diyen atacücükcü
