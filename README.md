@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği destan
 https://www.uludagsozluk.com/k/savc%C4%B1-vs-y%C3%BCzba%C5%9F%C4%B1/&w=bg yüzbaşıya bas 1 /10
 https://min-son.uludagsozluk.com/ bkz ganyoncu ismetin oğlu
 bkz gece sikici bakışlı erkek bırak
