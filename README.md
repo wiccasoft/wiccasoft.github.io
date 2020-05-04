@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kandemir-kalbi-uzaklarda-bir-adam-var-remix/ bkz atatürk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=gd bkz adamın ham maddesi
 bkz her gün atatürk şiiri okuyan mminnak filozok
 https://www.uludagsozluk.com/k/ülke-kurup-kendine-ata-ismini-koymak/&w=bg dünyanın en komik ülkesi evet
