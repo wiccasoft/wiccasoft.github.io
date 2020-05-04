@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://www.uludagsozluk.com/k/akp-nin-%C3%BC%C3%A7-kuru%C5%9Fluk-maskeyi-bile-da%C4%9F%C4%B1tamamas%C4%B1/&w=bg bkz oçakp
 https://www.uludagsozluk.com/k/adalet-ve-kalk%C4%B1nma-partisi/&w=bg bkz dünyanın en iyi partisi
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-%C3%A7ocu%C4%9Fu-yerde-s%C3%BCr%C3%BCkleyen-maymun/ bkz tayyip
 https://www.uludagsozluk.com/k/kurt-cobain-in-intihar-sebebi/&w=bg bkz karı meselesi
