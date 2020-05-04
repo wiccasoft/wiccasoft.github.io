@@ -1,4 +1,5 @@
 <!--
+bkz oç atacücünün 161 boyunda gebermesi
 bkz şaka maka atacücükün gebermesi
 bkz denize rte mi düşse sikersin atacücük mü
 bkz denize ataccük mü düşse siktirirsin rte mi muhammed mi
