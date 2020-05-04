@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz atamın yaptığı süper olay
 bkz atatürkün diyaneti iyi ki kurması
 bkz atatürk atatürk iyi ki kurdun türkiyeyi atatürk en yücesin atatürk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz liderlerin şahı kralı
