@@ -3,6 +3,7 @@
 <!--
 bkz olm sabah da yersiniz lan
 bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
+https://www.uludagsozluk.com/k/hakk%C4%B1-bulut-ve-eski-kasa-bmw-benzerli%C4%9Fi/ haydi söyleee nasıl yakışıklı oldumu
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru okumak lazım
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ 
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
