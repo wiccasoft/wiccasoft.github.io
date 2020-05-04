@@ -1,5 +1,5 @@
 <!--
-bkz hz süleymanın isa mammed kadar popüler olamaması
+bkz kral süleymanın isa mammed kadar popüler olamaması
 bkz isayı arayıp hacı sen hani mehdi olarak zühur eyleyecektin noldu o iş demek
 bkz meryemin veledi zinayı tanrının oğlu diye kakalaması
 bkz isayı arayıp sen şimdi oç musun demek
