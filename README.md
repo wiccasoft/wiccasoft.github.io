@@ -2,6 +2,7 @@
 bkz atam izindeyiz
 bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-%C3%BClkeye-olan-faydalar%C4%B1/&w=bg bkz 0
 https://www.uludagsozluk.com/k/dersim-de-ter%C3%B6ristler-imha-oldu-diye-kuduran-g%C3%BCruh/ bkz malum ırk
 https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kandemir-kalbi-uzaklarda-bir-adam-var-remix/ bkz atatürk
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=gd bkz adamın ham maddesi
