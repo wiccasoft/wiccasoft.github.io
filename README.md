@@ -1,6 +1,5 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/6459/scarlett-johansson-sports-reporter-interracial-blowbang)
 
-<!--https://www.uludagsozluk.com/k/bir-akp-liye-ahlak-%C3%B6%C4%9Fretmek/&w=bg boş iş bkz malum ırk-->
 <!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
