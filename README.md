@@ -3,6 +3,7 @@
 <!--
 bkz olm sabah da yersiniz lan
 bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-g%C3%B6zleri/&w=bg olayı doğu oku kankağğ
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu oku kankağğ
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg ölü takldi yapıyodur kankağ 
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğu oku kankağğ
