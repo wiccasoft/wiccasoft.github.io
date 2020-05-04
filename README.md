@@ -1,4 +1,6 @@
 <!--
+bkz zübeyde ananın atacückten uzun olması
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-annesi-ile-yanyana-foto%C4%9Fraf%C4%B1/
 bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
 bkz içip içip eski sevdiceki arayıp atacücük nalları dikti ya la demek
