@@ -6,6 +6,7 @@ bkz kevin prince boateg seksiliği
 bkz merve boğulurun caner erkin aşkı dedikoduları yalanlaması
 bkz merve boğulur kevin prince boateg ilişkisi
 bkz caner erkinin şükranın götü nasıl kanka paylaşımı
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-tan%C4%B1nm%C4%B1%C5%9F-insan%C4%B1/&w=bg bkz merve boğulur
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg bkz patlak kızın suda çıkardığı ses
 https://www.uludagsozluk.com/k/kevin-prince-boateng-in-g%C3%BCnde-10-kez-seks-yapmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz atamın milleyetçi bekçisi
