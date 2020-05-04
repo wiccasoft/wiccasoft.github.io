@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+bkz akp nin eşşeğin amına su kaçırması
 https://www.uludagsozluk.com/k/ak-partinin-iktidardan-indi%C4%9Fi-g%C3%BCn/&w=bg bkz rte öldüğü gün
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg ufak atta ümreciler yesin
 https://www.uludagsozluk.com/k/akp-nin-%C3%BC%C3%A7-kuru%C5%9Fluk-maskeyi-bile-da%C4%9F%C4%B1tamamas%C4%B1/&w=bg bkz oçakp
