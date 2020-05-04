@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
+bkz çok erkek yiyenlerin sonu
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ bkz çok erkek yemişsin
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
 bkz yüreciğime sevgi koyan ilk kızı roma tatiline gönderecem aşkolar
