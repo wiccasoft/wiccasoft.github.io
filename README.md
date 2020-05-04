@@ -2,6 +2,7 @@
 
 <!--
 bkz sevdicek istemeyen erkek
+bkz sevdicek istemeyn erkeğin yüreciğine aşk koyan ulucu kızlar
 bkz bi kamyon erkek ısmarlim size kankağ
 bkz uludaki ibnelere erkek atıp sakin olun demek
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=gd tecavüz et kankağğ zorla biraz
