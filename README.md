@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-%C3%A7ocu%C4%9Fu-yerde-s%C3%BCr%C3%BCkleyen-maymun/ bkz tayyip
 https://www.uludagsozluk.com/k/kurt-cobain-in-intihar-sebebi/&w=bg bkz karı meselesi
 bkz ne güzel sesleniyo ulusa iki gözümün çiçeği
 https://www.uludagsozluk.com/k/sus-kız-birgül-orospusu/&w=bg lol
