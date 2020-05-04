@@ -1,4 +1,7 @@
 <!--
+https://chance-boudreaux.uludagsozluk.com/ bkz nur topu gibi bir top
+https://berkecan-bin-selman.uludagsozluk.com/ bkz top 
+https://www.uludagsozluk.com/k/hazreti-isa-n%C4%B1n-kalpleri-%C4%B1s%C4%B1tan-g%C3%BCl%C3%BCmsemesi/&w=bg
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün topitop basın danışmanı
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-nur-yerlita%C5%9F-%C4%B1n-mezar%C4%B1nda-a%C4%9Flamas%C4%B1/
 bkz fesli bunağın paylaştığı taşşaklık ataçüçük karikatürü
