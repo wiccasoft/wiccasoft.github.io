@@ -1,4 +1,5 @@
 <!--
+bkz isayı arayıp hacı sen hani mehdi olarak zühur eyleyecektin noldu o iş demek
 bkz meryemin veledi zinayı tanrının oğlu diye kakalaması
 bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
