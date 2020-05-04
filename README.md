@@ -1,4 +1,5 @@
 <!--
+bkz atacücükcü gaylerin agresifleşmesi
 bkz atacücükün cücüklükten aldığı keyf
 bkz atacücükün eşcinsel cücüklere bakışı neydi sorundalı
 bkz atacücükü öldü diye ağlayan velde gelişine vurmak
