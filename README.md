@@ -1,5 +1,6 @@
 <!-- 
-https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz seyfo dayı polat ilişkisi
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz seyfo dayı
+https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz donun düşünen atacücü olamaz
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz atamın izinde bir kürt
 https://www.uludagsozluk.com/k/merve-bolu%C4%9Fur/&w=bg  bkz patlak kızın suda çıakrdığı ses
 https://www.uludagsozluk.com/k/gelin-han%C4%B1m%C4%B1-skebilirsiniz/&w=bg sik kankağ bakmiyik biz
