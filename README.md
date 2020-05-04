@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/eren-erdem/&w=bg bkz atamın izinde aydın erdemli bi yazar
 https://www.uludagsozluk.com/k/kahraman-zorbey/&w=bg bkz atamın izinde değerli bir yazar
 https://www.uludagsozluk.com/k/milliyetci-ataturkcu/&w=bg bkz atamın değerini bilen aydın çağdaş bir yazar
 bkz atatürkü unutan cahil halk
