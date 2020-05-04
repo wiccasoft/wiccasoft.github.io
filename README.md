@@ -19,6 +19,7 @@ bkz dinlenme oranı düşen grup yorumun saldırganlaşması
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/thomas-shelby-vs-polat-alemdar/
 https://www.uludagsozluk.com/k/bir-vatan-haini-olarak-polat-alemdar/
+https://www.uludagsozluk.com/k/dersim-de-ter%C3%B6ristler-imha-oldu-diye-kuduran-g%C3%BCruh/ bkz malum ırk
 https://www.uludagsozluk.com/k/4-may%C4%B1s-2020-rte-nin-ulusa-sesleni%C5%9Fi/ hangi kanal veriyo kankağ
 https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg bkz atamın izimnde demir lady
 https://www.uludagsozluk.com/k/polat-alemdar/&w=bg bkz donunu düşünen altına sıçmaz
