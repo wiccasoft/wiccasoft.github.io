@@ -3,15 +3,7 @@ bkz meryemin veledi zinayı tanrının oğlu diye kakalaması
 bkz atacücük cücükmüydü sorundalı
 bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
-https://www.uludagsozluk.com/k/philippe-faraut/ bkz kemalsit kişilik bozukluğu
-https://www.uludagsozluk.com/k/talat-bulut/&w=bg bkz adam adam
-bkz zübeyde ananın atacückten uzun olması
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-annesi-ile-yanyana-foto%C4%9Fraf%C4%B1/
-bkz isayı arayıp sen şimdi oç musun demek
-bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
-bkz içip içip eski sevdiceki arayıp atacücük nalları dikti ya la demek
-https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n%C4%B1n-sa%C3%A7%C4%B1n%C4%B1n-hala-d%C3%B6k%C3%BClmemi%C5%9F-olmas%C4%B1/&w=bg
-bkz içip içip eski sevdiceki arayup nabıyon lan amk demek
+https://www.uludagsozluk.com/k/philippe-faraut/ bkz kemalist kişilik bozukluğu
 https://chance-boudreaux.uludagsozluk.com/  bkz murat övünçüne sokayım oç
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdataçüçükizle.com
 bkz atacücükün eşcinsel cücüklere bakışı neydi sorundalı
@@ -19,14 +11,8 @@ bkz atacücükü öldü diye ağlayan velde gelişine vurmak
 https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
 https://berkecan-bin-selman.uludagsozluk.com/ bkz jülyen bir top hatta topi top
 https://diskapininmandali.uludagsozluk.com/ bkz yazık la kimin velediyse vol 999
-https://www.uludagsozluk.com/k/denize-rte-mi-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-hz-muhammed-mi/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd bkz atacücük
-https://berkecan-bin-selman.uludagsozluk.com/ bkz jülyen bir top hatta topi top
-https://www.uludagsozluk.com/k/istiklal-mahkemelerinde-as%C4%B1lanlar/&w=bg bkz islam şehitlerimiz
-https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
-https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz cücük makarnası
-https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir gay 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz cücük 
+https://berkecan-bin-selman.uludagsozluk.com/ bkz nur topu gibi bir top
 https://www.uludagsozluk.com/k/hazreti-muhammed-in-simas%C4%B1/ lol
 https://www.uludagsozluk.com/k/hz-isa-n%C4%B1n-hz-muhammed-den-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd lol
