@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+bkz yine ulusa sesleniyor iki gözümün çiçeği
 https://www.uludagsozluk.com/k/11-may%C4%B1sta-kuaf%C3%B6rler/&w=gd lol
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=gd bkz malum ırkın katliam dediği destan
