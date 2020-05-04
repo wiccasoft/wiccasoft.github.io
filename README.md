@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd lol
 https://www.youtube.com/watch?v=ThJ0DZj5wiE lol 
 https://www.uludagsozluk.com/k/fesli-bilge-adam/
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg
