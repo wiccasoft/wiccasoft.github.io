@@ -2,6 +2,7 @@
 <!--
 bkz burak özçivit vs murat boz
 bkz hapisteki erkek çekiciliği
+bkz belalı mafya babalarının adamın büzüğünü büzmesi
 https://www.uludagsozluk.com/k/adnan-oktar/&w=bg bkz kedicikler
 https://www.uludagsozluk.com/k/en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erke%C4%9Fi-burak-%C3%B6z%C3%A7ivit-olan-%C3%BClke/
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz top
