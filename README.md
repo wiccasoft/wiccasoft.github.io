@@ -1,5 +1,6 @@
 
 <!-- 
+https://www.uludagsozluk.com/k/margaret-thatcher/&w=bg atamın izinde çağdaş türk kadını
 https://www.uludagsozluk.com/k/merve-boluğur/&w=bg bkz patlak kızın suda çıkardığı ses
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-bekar-erkek/&w=bg bkz yalanası erkek
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz hırtlar vadisi
