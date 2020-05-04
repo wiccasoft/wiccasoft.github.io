@@ -1,5 +1,5 @@
 <!--
-https://acele-etme-papaz-efendi.uludagsozluk.com bkz papazların acele ettiğin sanan bir top
+https://acele-etme-papaz-efendi.uludagsozluk.com bkz papazın acele ettiğini sanan bir top
 https://www.uludagsozluk.com/k/recep-tayyip-erdoğan-vs-mustafa-kemal-atatürk/&w=bg
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-vs-tayyip-erdo%C4%9Fan/&w=bg
 bkz atacücükün cücük gibi boyu olması
