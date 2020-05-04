@@ -1,4 +1,5 @@
 <!--
+bkz çen atacücükçü müçün çen haniç ataçüçük
 bkz kürtcell kullanmam diyen atacücükcü
 bkz atacücükcü gaye büyünce ne olacan demek
 bkz atacücükcü gaylerin agresifleşmesi
