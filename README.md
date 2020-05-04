@@ -1,5 +1,7 @@
 
-<!-- https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı -->
+<!-- 
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-bekar-erkek/&w=bg bkz 30 yaşında evi arabası olan erkek
+https://www.uludagsozluk.com/k/dersim-katliam%C4%B1/&w=bg bkz malum ırkın katliam dediği türk destanı -->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://mrdeepfakes.com/video/6459/scarlett-johansson-sports-reporter-interracial-blowbang)
 
