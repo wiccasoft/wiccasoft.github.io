@@ -1,10 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular)
 
 <!--
-bkz sevdicek istemeyen erkek
-bkz sevdicek istemeyn erkeğin yüreciğine aşk koyan ulucu kızlar
-bkz bi kamyon erkek ısmarlim size kankağ
-bkz uludaki ibnelere erkek atıp sakin olun demek
+bkz sevdicek istemeyen erkeğinin yüreciğine aşk koyan ulucu kızlar
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=gd tecavüz et kankağğ zorla biraz
 https://www.uludagsozluk.com/k/mahmut-tuncer-ile-sahur-vakti/ bkz tırşıkla iyi gider
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=gd bkz hakkı bulut
