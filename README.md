@@ -2,6 +2,8 @@
 
 <!--
 bkz çok erkek yiyenlerin sonu
+bkz olm sabah da yersiniz lan
+bkz gecey bırakılan erkeğin pixellerini yalayan ergenler
 https://www.uludagsozluk.com/k/%C3%A7ok-hak-yiyen-insanlar%C4%B1n-ba%C5%9F%C4%B1na-gelecek-felaket/ 
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg olayı doğru oku kankağğ
 bkz yüreciğime sevgi koyan ilk kızı roma tatiline gönderecem aşkolar
