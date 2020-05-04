@@ -1,4 +1,5 @@
 <!--
+bkz cücüklerin atası vardı noldu ona sorundalı
 bkz cücüklerin atası vs cücüklerin efendisi
 bkz denize cücük mü düşse kurtarırsın atacücükmü
 bkz cücüklerin atası cücük olmayanları deniz döktü yalanı
