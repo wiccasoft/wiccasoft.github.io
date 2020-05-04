@@ -1,4 +1,6 @@
 <!--
+bkz atacücükün uzun boylulara bakış açısı
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-e%C5%9Fcinsellere-bak%C4%B1%C5%9F-a%C3%A7%C4%B1s%C4%B1/ lol
 bkz 161 boyundaki cücüke ata diyen malum ırk
 bkz atacücük yakala olm
 bkz köpeğe atacücük adını vermek
