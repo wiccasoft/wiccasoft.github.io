@@ -1,4 +1,5 @@
 <!--
+bkz türklerin atrasının güldürmesi evet
 bkz atacücükü öldü diye ağlayan top
 bkz atacücükün mü öldü senin haniç atacücükü
 bkz atacücük önde atacücük ileri adasdasdad
