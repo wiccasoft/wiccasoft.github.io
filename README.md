@@ -3,6 +3,8 @@
 <!-- 
 bkz aktrollerin oç olması
 bkz oç aktrollerin uğramadığı başlıklar
+bkz donuza alına aktrolün hesabını silmesi
+https://www.uludagsozluk.com/k/tc-iyesta-sert/ bkz aktroll
 https://www.uludagsozluk.com/k/aktroll-omurgas%C4%B1zl%C4%B1%C4%9F%C4%B1/
 bkz oy oranı düştükçe akp nin ezanları açması
 https://acele-etme-papaz-efendi.uludagsozluk.com bkz papazların acele ettiğini düşünen biri
