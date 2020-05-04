@@ -1,4 +1,6 @@
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdoğan-vs-mustafa-kemal-atatürk/&w=bg
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-vs-tayyip-erdo%C4%9Fan/&w=bg
 bkz atacücükün cücük gibi boyu olması
 https://www.uludagsozluk.com/k/%C5%9Feyh-pir/&w=bg bkz şeyhlere biyaz ederiz
 bkz atacücük diye isim mi olur amk
