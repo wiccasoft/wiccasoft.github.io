@@ -1,5 +1,6 @@
 
 <!--
+bkz bu ezanlarki şehadet temeli yurdumun üstünde inlemeli -mka
 bkz naçiz vücudum illebet toprak olacaktır ama bu ezanlar yurdumun üstünde inlemeli -mka
 bkz beni övme sözlerini bırakınız en hakik mürşit ilimdir - mka
 bkz sözlerim ilimle çelişirse ilimi seçin - mustaf kemal atatürk
