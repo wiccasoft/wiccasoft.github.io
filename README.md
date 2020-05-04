@@ -1,4 +1,5 @@
 <!--
+bkz isa tanrının oğluysa meryemin tam bir orospu olması
 bkz atacücük cücükmüydü sorundalı
 bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
