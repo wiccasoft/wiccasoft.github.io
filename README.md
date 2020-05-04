@@ -1,6 +1,6 @@
 
 <!-- 
-bkz 30 yaşında evi arabası olan ama anam beni sana vermez be diyen erkek
+bkz 30 yaşında evi arabası olan ama bilmezmisni gülom anam beni sana vermez be diyen erkek
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz hırtlar vadisi
 https://www.uludagsozluk.com/k/bir-akp-liye-ahlak-%C3%B6%C4%9Fretmek/&w=bg bkz malum ırk
 https://www.uludagsozluk.com/k/yılmaz-özdil/&w=bg bkz atamın izinde yılmaz bir kürt
