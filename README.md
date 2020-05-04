@@ -1,5 +1,6 @@
 
 <!--
+bkz abdullah çatlı vs abdullah öcalan
 bkz adndan oktar vs polat alemdar
 bkz bura özçivitin keskin bakışları altında ezilmek
 https://www.uludagsozluk.com/k/eski-kolonya-markalar%C4%B1/&w=bg bkz eyüp sabri tunver
