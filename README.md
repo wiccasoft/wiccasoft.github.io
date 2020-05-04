@@ -3,6 +3,7 @@ bkz atanın bilinmeyen fotoları
 bkz atatürke benzeyen adam vs atatürk
 bkz merve boğulur vs latife hanım
 bk akp oy oranı düştükçe saldırması
+bkz grup yorumun vs grup vitamin
 bkz ibrahim gökçekin osman gökçek güzellemesi
 bkz dersim de bizi katlettniz diye zırlayan kürt
 bkz türkün gücü arttıkça saldırganlaşan kesim
