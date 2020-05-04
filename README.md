@@ -1,5 +1,6 @@
 <!--
-bk zatacücük yunanları denzi döktü yalanı
+bkz atacücük 161 boyundaysa nasıl subay oldu sorundalı
+bkz atacücük yunanları denzi döktü yalanı
 bkz atacücükün 161 boyunda olması
 bkz cüneyt cüreklibaturun enes batur un babası olması
 bkz atacücükün muhtaç olduğu cücük annenin götündedir lafı
