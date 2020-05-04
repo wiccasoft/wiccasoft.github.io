@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=ThJ0DZj5wiE lol -->
 
 <!-- 
+https://www.uludagsozluk.com/k/kurt-cobain-in-intihar-sebebi/&w=bg bkz karı meselesi
 bkz ne güzel sesleniyo ulusa iki gözümün çiçeği
 https://www.uludagsozluk.com/k/sus-kız-birgül-orospusu/&w=bg lol
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ lol
