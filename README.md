@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz cücük
 bkz kral süleymanın isa mammed kadar popüler olamaması
 bkz isayı arayıp hacı sen hani mehdi olarak zühur eyleyecektin noldu o iş demek
 bkz meryemin veledi zinayı tanrının oğlu diye kakalaması
