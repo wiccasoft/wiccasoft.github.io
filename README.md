@@ -1,4 +1,5 @@
 <!--
+bkz isayı arayıp sen şimdi oç musun demek
 bkz muhammedi arayıp hacı mekkeli müşrikler hakkaten putlara mı tapıyodu demek
 bkz içip içip eski sevdiceki arayıp atacücük nalları dikti ya la demek
 https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n%C4%B1n-sa%C3%A7%C4%B1n%C4%B1n-hala-d%C3%B6k%C3%BClmemi%C5%9F-olmas%C4%B1/&w=bg
