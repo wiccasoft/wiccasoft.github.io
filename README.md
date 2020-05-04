@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n%C4%B1n-sa%C3%A7%C4%B1n%C4%B1n-hala-d%C3%B6k%C3%BClmemi%C5%9F-olmas%C4%B1/&w=bg
 bkz içip içip eski sevdiceki arayup nabıyon lan amk demek
 https://chance-boudreaux.uludagsozluk.com/  bkz murat övünçüne sokayım oç
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhdataçüçükizle.com
