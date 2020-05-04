@@ -1,5 +1,6 @@
 
 <!--
+bkz adnan oktar vs adnan polat
 bkz burak özçivit vs murat boz
 bkz hapisteki erkek çekiciliği
 bkz 5 suçtan aranan erkek çekiciliği
