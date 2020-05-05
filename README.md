@@ -1,4 +1,5 @@
 <!-- 
+bkz ata cücükün çizgili mayosu
 bkz necip fazıl kısakürekin ata cücükten uzun olması
 bkz ata cücük 161 boyla nasıl ulusa seslinyor sorundalı
 bkz adnan oktar mehdi ise niye hapiste sorundalı
