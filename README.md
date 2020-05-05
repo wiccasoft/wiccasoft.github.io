@@ -1,4 +1,5 @@
 <!-- 
+bkz trumpın fox çu olması
 bkz fox tv ana haber bülteni
 bkz yeni dünya düzenini nereye kursam sorundalı
 bkz macun kaplıcalının gavat mıyım lan ben demesi
