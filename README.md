@@ -1,4 +1,5 @@
 <!--
+bkz dennis ritche vs dennis voyager
 bkz denzel washington adam mıdrı sorundalı
 bkz düşün ki deniz gezmiş yadıklarını okuyore
 bkz 60 iq ile hayata tutunmaya çalışan ulucu ibneler
