@@ -1,4 +1,5 @@
 <!--
+bkz fetullak gülenin elazığ dan villa arazisi bakması
 bkz oğlunun sikerek uyandıran tiktokçu baba
 bkz yılmaz yozdilin atacücük 161 diyenlere boyu değil işlevi yazısı
 https://www.youtube.com/watch?v=2KErN9bMrwM  lol
