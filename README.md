@@ -1,4 +1,5 @@
 <!--
+bkz 33 mülüyün yürü verip ramosu alsak mı sorundalı
 bkz ramos adam mıdır sorundalı
 bkz adamın karekökü
 bkz adamlık aş yönetim kurulu bşk
