@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/1-dolar-10-tl/ bkz beni zengin edecek mükemmel olay
 bkz devlet bahçelinin yanına uzanıp uyudun mu demek
 bkz kemal kılışdaroğlan uyumuş mudur sorundalı
 bkz deniz gezmişe entry girerkene devlet bahçeli akla gelmesi sorundalı
