@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg bkz 171 boyunda başka bir cücük
 https://www.uludagsozluk.com/k/alperen-kekilli/&w=bg bkz atacücük izinde alperen ocakları bşk
 bkz 161 boyunda ata mı olur lan oç ları
 bkz atacükükün uzun göstersin diye çizgili mayo giymesi
