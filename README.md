@@ -1,4 +1,5 @@
 <!--
+bkz necmettin erbakan 3 kelime ile anlat
 bkz necmettin erbakan mı recep tayyip erdoğan mı sorundalı
 bkz devlet bahçeli mi recp tayyip erdoğan mı sorundalı
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
