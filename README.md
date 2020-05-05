@@ -1,18 +1,9 @@
 <!--
 bkz cücük gibi adama ata diyen malum ırk
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg zuahhahaha
-bkz atacücünün 161 boyla nası lsubay olması sorundalı
-bkz cücülerin atacücüyle 161 diye  dalga geçmesi
-bkz atacücü 161 olması
-bkz 161 lik adam adam mıdrı sorundalı
-bkz adam gibi adam deyince adam mıdır sorundalı
-bkz erkek adamın erkek sevgilisi mi olmalı sorundalı
-bkz erkek deyince handi admalar akla geliyor sorundalı
-bkz küpe takan erkek adam mıdır sorundalı
-bkz 18 cm le işeyen erkek adam mıdır sorundalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BC-d%C3%BC%C5%9F%C3%BCnce/&w=bg
-bkz nede kaldık küpe takan erkek adam mıdır sorundalı
-bkz sabah bir atacücük bırak ana ezan okunuyomuş
+bkz nerde kaldık küpe takan erkek adam mıdır sorundalı
+bkz sabah bir atacücük bırak sabah olmuş zaten atacücüke geçelim
 bkz atacücük 161 boyla eşcinsellere nasıl bakıyordu sarundalı
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg bkz toptur
 bkz diyanet ezan çalıştayı başkanının 180 olması
