@@ -1,4 +1,5 @@
 <!--
+bkz rte nin ikinci atacücük benim demesi
 bkz cücüklerin atacücükü çok büyütmesi
 bkz cücükler yunanları denzie döktür yalanı
 bkz cücüklerin tarihle kafayı bozması
