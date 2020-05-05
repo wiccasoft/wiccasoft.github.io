@@ -1,4 +1,5 @@
 <!--
+bkz atcücükün suda çıkardığı ses
 bkz soğan cücüğü vs atacücük
 bkz yılmaz yozdilin boyu değil cücüklüğü önemli yazısı
 bkz ikinci atacücük rte ise üçüncü atacücük kim sorundalı
