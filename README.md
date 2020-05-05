@@ -1,4 +1,5 @@
 <!--
+https://eksisozluk.com/iliski-istemeyen-erkek--1446392 bkz top
 bkz kemal kılışdaroğlan uyumuş mudur sorundalı
 bkz necmettin erbakan saadet partisini görseydi ne derdi sorundalı
 bkz devlet bahçelinin yanına uzanıp uyudun mu demek
