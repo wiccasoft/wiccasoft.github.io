@@ -1,7 +1,7 @@
 
 <!--
 bkz yaşasa götünü sildirmeyeceği adamlara entryi giren ezik ibneler
-bkz it bağlasan durmaz odasında fetulah gülen erdoğana sanki ahbabıymış gibi entrti giren ergen
+bkz it bağlasan durmaz odasında 500m yaklaşamyağı adamalra ahbabıymış gibi entrti giren ergen
 bkz coca cola içeyken deniz gezmişe entyi giymek
 bkz deniz gezmişe entyi giyeyken babanı odaya giymesi
 bkz biy eykeğ sırf sana benziyoy diye entyi giymek
