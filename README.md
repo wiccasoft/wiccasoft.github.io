@@ -1,4 +1,5 @@
 <!--
+bkz biochemistry from beginng to atacücük adlı kitabım henüz türkçeye çevrilmedi
 bkz tokatlı hemşerilerim için yazdığım bell labs from lab to innovation adlı kitabım yayınevlerinde
 bkz turabi çamkıranın linux history with ken thompson kitabı yakında yayınevlerinde
 bkz turabi çamkıranın terli kasık kasları
