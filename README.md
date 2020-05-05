@@ -1,4 +1,5 @@
 <!--
+bkz deniz gezmiş(6) yoh mu artıran
 bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır demesi
 bkz millet hizmet beklerken kakanın osura osura uyuması
 bkz deniz gezmişin yeni ilişkiye hazır değilim demesi
