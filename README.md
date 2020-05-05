@@ -1,4 +1,5 @@
 <!--
+bkz devlet bahçeli nin efso ayarı
 bkz tayberdoan kuşatma altında çarşaf giydi kaçtı yalanı
 bkz atacücük yunanları denize döktü yalanı
 bkz 161 boyundaki adama ata diyen ümmet
