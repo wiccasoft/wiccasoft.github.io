@@ -1,4 +1,5 @@
 <!--
+bkz cücülerin atacücüyle 161 diye  dalga geçmesi
 bkz atacücü 161 olması
 bkz 161 lik adam adam mıdrı sorundalı
 bkz adam gibi adam deyince adam mıdır sorundalı
