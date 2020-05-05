@@ -1,6 +1,6 @@
 <!--
 https://www.uludagsozluk.com/k/fesli-maymun/&w=bg lol 
-bkz atacücüklük yan gelip yamt yeri değildir
+bkz atacücüklük yan gelip yatma yeri değildir
 bkz millet hizmet bekliye bay kamal hizmet
 bkz millet sakso beklerken atacücükün yatması
 bkz atacücükün yan gelip yatması
