@@ -1,5 +1,7 @@
 <!--
 bkz devlet bahçeli nin efso ayarı
+bkz tayberdoanın bilinmeyen fotoları
+bkz tayberdoğanı neden seviyorum sorundalı
 bkz tayberdoan kuşatma altında çarşaf giydi kaçtı yalanı
 bkz atacücük yunanları denize döktü yalanı
 bkz 161 boyundaki adama ata diyen ümmet
