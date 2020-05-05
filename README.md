@@ -1,4 +1,5 @@
 <!--
+bkz kerem alışıkı arayıp babanı da sevmezdim itoğlu demek
 bkz cüneyt arkını arayıp olm sen hala ölmedin mi lan demek
 bkz cüneyt cüreklibaturun hala nalları dikmemiş olması
 bkz hitler vs ataführer
