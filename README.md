@@ -1,5 +1,6 @@
 <!-- 
-bkz mustafa cengizin bağırsaklarında çıkan sarı kırmızı vibratör
+bkz adnan oktar mehdi ise neden hapiste sorundalı
+bkz mustafa cengizin bağırsaklarından çıkan sarı kırmızı vibratör
 bkz o değile meral pattes marrem soğan nası kodu ama tayberdoan ooooooooooooo
 bkz dünya liderine muhalefet etmek
 bkz muhalefetin sıkışan darbe söylemleri iddası
