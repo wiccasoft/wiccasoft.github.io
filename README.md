@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki adama ulu önder demek
 bkz atacücük maymunların lideri mi sorundalı
 bkz ilk maymun türk müydü sorundalı
 bkz ilk maymun adam mıdır sorundalı
