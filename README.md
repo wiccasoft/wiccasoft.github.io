@@ -1,4 +1,5 @@
 <!--
+bkz cücük gibi adama ata demek
 bkz 161 boyundaki cücüke ata demek
 bkz atacücük niye cücük gibi lan
 bkz mustafa sandal ın 171 olması
