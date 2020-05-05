@@ -1,7 +1,7 @@
 <!-- 
 bkz yeni dünya düzenini nereye kursam sorundalı
 bkz türklerin güneşi kendi etraflarında döndüğünü sanmaları
-bkz 1978 li veletler
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz bakışlarıyla şifreli meşajlar veren fatih
 https://www.uludagsozluk.com/k/2000-li-veletler/ bkz aleyne yilki
 https://www.uludagsozluk.com/k/fox-tv-ana-haber-b%C3%BClteni/&w=bg bkz esnaf kan ağliy kan
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
