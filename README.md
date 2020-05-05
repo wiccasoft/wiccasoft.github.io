@@ -1,4 +1,5 @@
 <!-- 
+bkz adanan oktarın sitesi hala duruyo mu sorundalı
 bkz atacücük 161 boyla nasıl cücüklere sesleniyor sorundalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz ata cücük
 bkz selahattin demirtaşın adnana oktara yazdığı mektup
