@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün cücükleri siklemdiği gerçeği
 bkz atacücük cücükleri siklemiyor mu sorundalı
 bzk atacücükün hiç ulusa seslenmemesi 
 bkz 161 boyundaki adama ulu önder demek
