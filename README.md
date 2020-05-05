@@ -1,4 +1,5 @@
 <!--
+bkz ilk maymun adam mıdır sorundalı
 bkz fatih tezcan ilk maymun cücüktü tezi
 bkz madem atacücükten geldik maymunlar cücük olmuyor
 bkz yılmaz yozdil boyu değil işlevi yazısı
