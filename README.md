@@ -1,5 +1,6 @@
 
 <!--
+bkz coca cola içeyken deniz gezmişe entyi giymek
 bkz deniz gezmişe entyi giyeyken babanı odaya giymesi
 bkz biy eykeğ sırf sana benziyoy diye entyi giymek
 bkz deniz gezmişe aşık olmak
