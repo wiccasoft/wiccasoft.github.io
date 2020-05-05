@@ -1,6 +1,5 @@
 <!--
 bkz imamoğlanla romantik bir akşam vs mansur yavaşla hızlı bir gece
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz imamoğlunun daha samimi olması
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/ bkz top
 bkz deniz gezmiş(6) yoh mu artıran
 bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır demesi
