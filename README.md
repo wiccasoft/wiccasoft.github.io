@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki cücüke ata demek
 bkz atacücük niye cücük gibi lan
 bkz mustafa sandal ın 171 olması
 bkz mustafa kamal atacüük niye öle kısa lan
