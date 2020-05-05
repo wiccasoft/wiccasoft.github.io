@@ -1,4 +1,5 @@
 <!-- 
+bkz adnan oktarın adanan polatı hainlikle suçlaması
 bkz ekremin gözle görülür bi hizmeti olmaması
 bkz millet hizmet beklerken kakaknın osura osura uyuması
 bkz sörfayfır yunus emre mi sörfafır berke can mıs sorundalı
