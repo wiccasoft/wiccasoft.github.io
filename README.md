@@ -1,4 +1,5 @@
 <!-- 
+bkz millet himzet beklerken kakaknın osura osura uyuması
 bkz sörfayfır yunus emre mi sörfafır berke can mıs sorundalı
 bkz sörfayfır yusuf un sörfayfır ekreme göt aoğlanı demesi
 bkz ekremin tam bi göt oğlanı çıkması
