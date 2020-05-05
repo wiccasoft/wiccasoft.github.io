@@ -1,4 +1,5 @@
 <!--
+bkz atacücük taklidi yapan tiktokçu
 bkz ümmet reisi varken atacücüke tapmak
 bkz atacücükün hiç cücüklere seslenmemesi
 bkz o değil de cücük gibi adama ata demek
