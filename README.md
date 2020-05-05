@@ -1,4 +1,5 @@
 <!--
+bkz eşccücüksel deyince akla gelenler
 bkz atacücükün eşcücüksellere bakışı
 bkz yunus emre vs sörfyafor yunus emre
 bkz tayyibi arayıp kaçak windows kullanan bulursam sikerim dalağını demek
