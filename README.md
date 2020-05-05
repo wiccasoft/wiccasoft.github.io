@@ -1,4 +1,5 @@
 <!--
+bkz yeni dünya düzenin nereye kursam sorundalı
 bkz tayberdoanın yeni dünya düzenini kurmam için yolu açması
 bkz ya o değil de tayberdoan iyi koydu cücülere
 bkz caner taslaman cuma namazı kuran da var iddası
