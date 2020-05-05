@@ -1,5 +1,5 @@
 <!--
-bkz atacücükün eşcücüklere bakışı
+bkz atacücükün eşcücüksellere bakışı
 bkz yunus emre vs sörfyafor yunus emre
 bkz tayyibi arayıp kaçak windows kullanan bulursam sikerim dalağını demek
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhddiziizle.com
