@@ -1,4 +1,5 @@
 <!--
+bkz sevdicek istemeyn erkek adam mıdır sorundalı
 bkz deniz gezmiş in gezdiği iddaları
 bkz deniz gezmiş geziyo mudur sorundalı
 bkz karısını döven adam adam mıdır sorundalı
