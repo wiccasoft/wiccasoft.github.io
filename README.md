@@ -1,5 +1,5 @@
 <!-- 
-bkz macun kaplıcalı vs ata cücük
+bkz sörfayfır macun kaplıcalı vs sörfayır ata cücük
 bkz sörfayfur yunu emre vs ata cücük
 bkz ak ata cücük kardeşliği
 bkz ata cücükü mikroskopla incelemek
