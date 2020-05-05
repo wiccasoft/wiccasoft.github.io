@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz ata cücük
 https://www.uludagsozluk.com/k/%C5%9Feytan-t%C3%BCrk%C3%A7e-yi-nerden-biliyor-sorunsal%C4%B1/ bkz google translate
 https://www.uludagsozluk.com/k/t%C3%BCrklerle-dalga-ge%C3%A7enler/ bkz ben
 https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg bkz 171 boyunda başka bir cücük
