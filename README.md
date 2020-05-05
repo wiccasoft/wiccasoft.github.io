@@ -1,4 +1,5 @@
 <!--
+bkz halk fakirken atacücükün zevk sefa içinde yaşaması
 bkz atacücükün mayo giymesine izin veren gavat
 bkz atacücükün çizgili mayosu
 bkz atacücükün suda çıkardığı ses
