@@ -1,4 +1,5 @@
 <!-- 
+bkz mustafa cengizin bağırsaklarından sarı kırmızısı vibratör çıkması
 bkz ulus cebeci çankaya mansur yavaşla ankara bambaşkaaaaaaaaaa
 bkz osman gökçekin keçiörene yaptırdığı gökçek heykeli
 bkz mustaf sandalın 171 olması
