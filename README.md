@@ -1,5 +1,6 @@
 <!--
 bkz bill gatesin mit tırları yazısı
+bkz tayyibni tırlarla ppkeya kaçak windows yollması
 bkz kaçak windows kullanırsanız sikerim dalağınız ha
 bkz 5 mayıs 2020 yozdilin boyu değil işlevi önmeli yazısı
 bkz yozdil villasına yıkım kararı nası koydu ama tayberdoana ooooooooo
