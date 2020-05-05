@@ -1,5 +1,5 @@
 <!--
-bkz ademin 3 m olması
+bkz celal bayarın 167 olması
 bkz necip fazıl kısakürekin atacücükten uzun olması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg zuahahhaaha
 bkz tayyipin tam bi kezban olması
