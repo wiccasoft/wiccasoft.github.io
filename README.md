@@ -1,5 +1,5 @@
 <!-- 
-bkz dünya liderinin doları 10 lira yapacam sözü vermesi
+bkz o değile meral pattes marrem soğan nası kodu ama tayberdoan ooooooooooooo
 bkz dünya liderine muhalefet etmek
 bkz muhalefetin sıkışan darbe söylemleri iddası
 bkz stalinin atacücükten daha kalın olması
