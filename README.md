@@ -1,4 +1,5 @@
 <!--
+bkz malum ırkın beni atacücük sanması
 bkz atacücükün cücükleri siklemdiği gerçeği
 bkz atacücük cücükleri siklemiyor mu sorundalı
 bzk atacücükün hiç ulusa seslenmemesi 
