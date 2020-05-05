@@ -1,6 +1,8 @@
 <!--
 bkz deniz gezmiş(6)
-bkz recep tayyip erdoğan (3)
+bkz recep tayyip erdoğan (29)
+bkz devlet bahçeli mi recp tayyip erdoğan mı sorundalı
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz rte(3) oldu yoh mu 
 bkz imamoğlanla romantik bir akşam vs mansur yavaşla hızlı bir gece
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/ bkz top
