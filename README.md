@@ -1,4 +1,5 @@
 <!--
+bkz necmettin erbakanın reisle olan efso fotoları
 bkz tayberdoğanı niçin seviyorum sorundalı
 bkz akp nin darbe den eppek çıkarması
 bkz erdonun kuşağına ısırıp şapşik demek
