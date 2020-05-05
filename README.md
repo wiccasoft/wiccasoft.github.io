@@ -1,4 +1,5 @@
 <!--
+bkz ya o değil de tayberdoan iyi koydu cücülere
 bkz caner taslaman cuma namazı kuran da var iddası
 bkz o değil de meral pattes marrem soğan nası koydu ama tayberdoan ooooooooooooooooooooooooo
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
