@@ -1,6 +1,6 @@
 
 <!--
-bkz ibnenin evlatları adıma başlık açında aanneiz sötten sikeyim
+bkz ibnenin evlatları adıma başlık açında annenizi götten sikeyim
 bkz türkler internetin virüsleri mi sorundalı
 bkz ultrageyselilerin twitterdan ekşiye geçmesi
 bkz yaşasa götünü sildirmeyeceği adamlara entryi giren ezik ibneler
