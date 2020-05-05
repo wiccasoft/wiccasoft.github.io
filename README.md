@@ -1,4 +1,5 @@
 <!--
+bkz yılamz özdil 173 olması
 bkz mesut yılmaz 171 iddaları
 bkz celal bayarın 167 olması
 bkz necip fazıl kısakürekin atacücükten uzun olması
