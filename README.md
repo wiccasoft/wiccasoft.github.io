@@ -1,78 +1,13 @@
 <!--
-https://www.uludagsozluk.com/k/1-dolar-10-tl/ bkz beni zengin edecek mükemmel olay
 bkz devlet bahçelinin yanına uzanıp uyudun mu demek
 bkz kemal kılışdaroğlan uyumuş mudur sorundalı
 bkz deniz gezmişe entry girerkene devlet bahçeli akla gelmesi sorundalı
 bkz deniz gezmiş yazdıklarımız okumuyo mudur sorundalı
 bkz yunan jetinin erdoğanın odasına girmesi
 bkz erdoğanın arayıp lan olm sen oruç tutmuyon mu sorundalı demek
-bkz erdoğan oruç tutmuyormu sorundalı
-bkz atacücükü neden sevmiyorum anlatıyorum okuyun
-bkz atacücük ile devlet bahçeli arasında kalmak
-bkz devlet bahçeli nin pornosunu aramak
-bkz sabah ter içinde uyanıp devlet bahçeli demek
-bkz hoşlaşılan devlet adamının fotosunu öpüp uyumak
-bkz necmettin erbakanın reisle olan efso fotoları
-bkz tayberdoğanı niçin seviyorum sorundalı
-bkz akp nin darbe den eppek çıkarması
-bkz erdonun kuşağına ısırıp şapşik demek
-bkz erdo napıyodur şimdi sorundalı
-bkz devlet bahçelinin tespihi
-bkz devlet bahçeli nin efso ayarı
-bkz tayberdoanın bilinmeyen fotoları
-bkz tayberdoğanı neden seviyorum sorundalı
-bkz tayberdoan kuşatma altında çarşaf giydi kaçtı yalanı
-bkz atacücük yunanları denize döktü yalanı
-bkz 161 boyundaki adama ata diyen ümmet
-bkz atacücüye neden kırgının anlatıyorum beyler
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-neden-sevmiyorum/&w=bg bkz 161 boy
-bkz necmettin erbakan saadet partisini görse ne derdi sorundalı
-bkz necmettin erbakan mı recep tayyip erdoğan mı sorundalı
-bkz devlet bahçeli mi recp tayyip erdoğan mı sorundalı
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz rte(3) oldu yoh mu 
-bkz imamoğlanla romantik bir akşam vs mansur yavaşla hızlı bir gece
-https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/ bkz top
-bkz deniz gezmiş(6) yoh mu artıran
-bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır demesi
-bkz millet hizmet beklerken kakanın osura osura uyuması
-bkz deniz gezmişin yeni ilişkiye hazır değilim demesi
-bkz dennis ritche vs dennis voyager
-bkz denzel washington adam mıdrı sorundalı
-bkz düşün ki deniz gezmiş yadıklarını okuyore
-bkz 60 iq ile hayata tutunmaya çalışan ulucu ibneler
-bkz ölü erkeğe entry girmek sevap mıdır sorundalı
-bkz deniz gezmiş yazdıklarımızı okuyo mudur sorundalı
-bkz sen bize iş mi koyuyon repliği
-bkz sevdicek istemeyn erkek adam mıdır sorundalı
-bkz deniz gezmiş in gezdiği iddaları
-bkz deniz gezmiş geziyo mudur sorundalı
-bkz karısını döven adam adam mıdır sorundalı
-bkz mahri çayan vs deniz gezmiş
-bkz deniz gezmiş asılmadı mı sorundalı
-bkz diyanet ezan öçalıştayı harıl harıl çalışırken kakanın uyuması
-bkz diyanetin makata üvey torunla evlilik helaldir fetvası
-bkz çok gezen mi bilir çok gememiş mi sorundalı
-bkz deniz gezmiş vs mejdat gezen
-bkz nekrofili vs pedofili
-bkz deniz baykal vs dennis ritche
-bkz dennis ritchie vs deniz gezmiş
-bkz deniz gezmiş nereyi gezmiş sorundalı
-bkz deniz gezmiş gezmiş midir sorundalı
-bkz tayyip niye deniz gezmişi asmıyo sorundalı
-bkz bu siteye ulaşılamıyor niye zorluyosun oç
-bkz diyanet ezan çalıştayının beyin kanartan vidyosu
-bkz diyanetin makata su kaçması helaldir fetvası
-bkz günlük 3 liraya entry giren karının oğlu
-bkz ilber ortaçgil vs celal şenför
-bkz müjdat gezen vs deniz gezen
-bkz mahir çayan vs deniz gezmemiş
-bkz adnan oktar mehdi ise niye hapiste
-bkz deniz gezmişin gemediği yerler
-bkz karısını çalıştırmayan gavat
-bkz günlük 3 liraya entry giren engelli karı ifşası
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo hug
 bkz yeni dünya düzenini nereye kursam sorundalı
+https://www.uludagsozluk.com/k/1-dolar-10-tl/ bkz beni zengin edecek mükemmel olay
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
 https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz bkz sikin birbirinizi göte para vermeyin
 https://www.uludagsozluk.com/k/do%C4%9Fum-tarihli-entry-numaras%C4%B1/ aboo çocuğum yaşında la bunlar
