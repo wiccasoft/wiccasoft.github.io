@@ -1,4 +1,5 @@
 <!--
+bkz kemal kılışdaroğlan uyumuş mudur sorundalı
 bkz deniz gezmişe entry girerkene devlet bahçeli akla gelmesi sorundalı
 bkz deniz gezmiş yazdıklarımız okumuyo mudur sorundalı
 bkz yunan jetinin erdoğanın odasına girmesi
