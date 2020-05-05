@@ -1,6 +1,7 @@
 <!--
 bkz sen anlat dinliyorum diyip uyuyan ruhsuz erkek
 bkz devlet bahçeli rte anlatılan erkeğin uyuyakalması
+bkz millet hizmet beklerken kk nın uyuması
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1-ni%C3%A7in-seviyorum/ anlat pampa
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-neden-sevmiyorum/&w=bg anlat pampa
 https://eksisozluk.com/iliski-istemeyen-erkek--1446392 bkz top
