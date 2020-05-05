@@ -1,5 +1,6 @@
 <!--
-bkz ruptşy news ana haber bülteni vs fox & friends
+bkz rt news in rte ci olması
+bkz ruptly news ana haber bülteni vs fox & friends
 bkz fox & friends ın trump a yanlaması
 bkz trumpın fox çu olması
 bkz fox tv ana haber bülteni
