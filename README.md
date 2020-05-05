@@ -1,4 +1,5 @@
 <!--
+bkz ölmüş kişilere entry girmek nedir yahu
 bkz deniz baykal vs dennis ritche
 bkz dennis ritchie vs deniz gezmiş
 bkz deniz gezmiş nereyi gezmiş sorundalı
