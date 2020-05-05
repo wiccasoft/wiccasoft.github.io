@@ -1,4 +1,5 @@
 <!--
+bkz atacücükü 161 olması
 bkz mert akkaşın şikşokçulara küfr etmesi
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/6-may%C4%B1s-2020-tff-nin-a%C3%A7%C4%B1klamalar%C4%B1/
