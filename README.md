@@ -1,5 +1,5 @@
 <!--
-bkz karısını döven adam
+bkz adnan oktar mehdi ise niye hapiste
 bkz deniz gezmişin gemediği yerler
 bkz karısını çalıştırmayan gavat
 bkz günlük 3 liraya entry giren engelli karı ifşası
