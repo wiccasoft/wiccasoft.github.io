@@ -1,5 +1,6 @@
 <!--
-bkz mahir çayan vs deniz gemziş
+bkz müjdat gezen vs deniz gezen
+bkz mahir çayan vs deniz gezmemiş
 bkz adnan oktar mehdi ise niye hapiste
 bkz deniz gezmişin gemediği yerler
 bkz karısını çalıştırmayan gavat
