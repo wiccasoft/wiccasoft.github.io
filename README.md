@@ -1,4 +1,5 @@
 <!--
+bkz oç atacücükün oç cücükleri övmesi
 bkz oç atacücük ve cücükler
 bkz atacücükün cücükleri övmesi
 bkz yılmaz yozdilin 171 boyunda olması
