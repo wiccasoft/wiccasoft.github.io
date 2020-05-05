@@ -1,5 +1,6 @@
 <!--
-bkz düşün ki denzi gezmiş yadıklarını okuyore
+bkz denzel washington adam mıdrı sorundalı
+bkz düşün ki deniz gezmiş yadıklarını okuyore
 bkz 60 iq ile hayata tutunmaya çalışan ulucu ibneler
 bkz ölü erkeğe entry girmek sevap mıdır sorundalı
 bkz deniz gezmiş yazdıklarımızı okuyo mudur sorundalı
