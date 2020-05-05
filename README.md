@@ -1,4 +1,5 @@
 <!--
+bkz allak ın 171 olması
 bkz aktrollerin atacücükü zeki göstermek 161 iq demesi
 bkz atacücük 161 iq olduğu yalanı
 bkz atacücük 161 olması
