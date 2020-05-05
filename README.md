@@ -1,6 +1,6 @@
 
 <!--
-bkz tayyibe güvenen ibnenin evlatları döve döve sikmek
+bkz tayyibe güvenen ibnenin evlatlarını döve döve sikmek
 bkz ibnenin evlatları adıma başlık açında annenizi götten sikeyim
 bkz türkler internetin virüsleri mi sorundalı
 bkz ultrageyselilerin twitterdan ekşiye geçmesi
