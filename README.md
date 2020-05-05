@@ -1,5 +1,5 @@
 <!-- 
-bkz ata cücükün hiç ismet inöcüyle namaz kıalrken fotosu olmaması
+bkz necip fazıl kısakürekin ata cücükten uzun olması
 bkz ata cücük 161 boyla nasıl ulusa seslinyor sorundalı
 bkz adnan oktar mehdi ise niye hapiste sorundalı
 bkz atacücük 161 boyla nasıl cücüklere sesleniyor sorundalı
