@@ -1,8 +1,9 @@
 
-<!--bkz gün ay yıl klasörünün this day in history olması
+<!--
+bkz gün ay yıl klasörünün this day in history olması
 bkz 7 mayıs 1939 londor mondros mütakeresi
 bkz 4 mayıs 1947 dersim destanı
-bkz 3 mayıs türkçülük bayramı kutlamak varken 1 mauıs pkk bayramı kutlamak
+bkz 3 mayıs türkçülük bayramı kutlamak varken 1 mauys pkk bayramı kutlamak
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/ bkz gebermiş 
 bkz ibnenin evlatları adıma başlık açında annenizi götten sikeyim
 https://www.uludagsozluk.com/k/galatasaray-taraftar%C4%B1/&w=bg bkz ultra geyler
