@@ -1,4 +1,5 @@
 <!--
+bkz erdoğan uyumuş mudur sorundalı
 bkz sen anlat dinliyorum diyip uyuyan ruhsuz erkek
 bkz devlet bahçeli rte anlatılan erkeğin uyuyakalması
 bkz millet hizmet beklerken kk nın uyuması
