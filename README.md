@@ -1,4 +1,5 @@
 <!-- 
+bkz muhalefetin sıkışan darbe söylemleri iddası
 bkz stalinin atacücükten daha kalın olması
 bkz öcü gibi korkuyorlar mao zeong yoldaşımdan
 bkz mao nun pezevenk olması
