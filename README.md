@@ -1,4 +1,5 @@
 <!-- 
+bkz ulus cebeci çankaya mansur yavaşla ankara bambaşkaaaaaaaaaa
 bkz osman gökçekin keçiörene yaptırdığı gökçek heykeli
 bkz mustaf sandalın 171 olması
 bkz osman gökçek havay kaldırıp hanimiş kimin oğluymuş demek
