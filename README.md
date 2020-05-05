@@ -1,4 +1,5 @@
 <!-- 
+bkz sevda tarramın ucundaki gay bakkal
 bkz sörfayfır daki gay
 bkz fatih portaklın şifreli konuşması
 https://www.uludagsozluk.com/k/survivordaki-gay/ bkz yunus emre
