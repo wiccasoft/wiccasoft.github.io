@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki cücükün yunanlıları denize döktüğüne inanmak
 bkz cücükler yunanları denzie döktür yalanı
 bkz cücüklerin tarihle kafayı bozması
 bkz recep cücükün soya değil ecdada bakar ecdadaaaa demesi
