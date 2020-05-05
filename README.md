@@ -1,4 +1,5 @@
 <!--
+bkz ramos adam mıdır sorundalı
 bkz adamın karekökü
 bkz adamlık aş yönetim kurulu bşk
 bkz geceye bırakılan adamı yiyen maymunlar
