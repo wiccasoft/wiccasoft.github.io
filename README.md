@@ -1,5 +1,6 @@
 
 <!--
+bkz deniz gezmişe aşık olmak
 bkz deniz gezmiş neden gezmiş sorundalı
 bkz deniz gezmiş nereyi gezmiş sorundalı
 bkz deniz gezmiş gezmiş mi sorundalı
