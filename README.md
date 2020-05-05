@@ -1,7 +1,7 @@
 
 <!--
 bkz türkler internetin virüsleri mi sorundalı
-bkz ultrageyselilerin ekşiye gitmesi
+bkz ultrageyselilerin twitterdan ekşiye geçmesi
 bkz yaşasa götünü sildirmeyeceği adamlara entryi giren ezik ibneler
 bkz it bağlasan durmaz odasında 500m yaklaşamyağı adamalra ahbabıymış gibi entrti giren ergen
 bkz coca cola içeyken deniz gezmişe entyi giymek
