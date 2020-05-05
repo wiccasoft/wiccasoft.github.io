@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/e/43283504/ lol
 https://www.uludagsozluk.com/k/fesli-maymun/&w=bg lol 
 bkz atacücüklük yan gelip yatma yeri değildir
 bkz millet hizmet bekliye bay kamal hizmet
