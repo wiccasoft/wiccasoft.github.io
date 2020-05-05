@@ -1,4 +1,6 @@
 <!--
+bkz çok gezen mi bilir çok gememiş mi sorundalı
+bkz deniz gezmiş vs mejdat gezen
 bkz nekrofili vs pedofili
 bkz deniz baykal vs dennis ritche
 bkz dennis ritchie vs deniz gezmiş
