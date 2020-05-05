@@ -1,4 +1,5 @@
 <!--
+bkz deniz gezmiş yazdıklarımız okumuyo mudur sorundalı
 bkz yunan jetinin erdoğanın odasına girmesi
 bkz erdoğanın arayıp lan olm sen oruç tutmuyon mu sorundalı demek
 bkz erdoğan oruç tutmuyormu sorundalı
