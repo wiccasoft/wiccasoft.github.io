@@ -1,4 +1,5 @@
 <!--
+bkz atacücük bu maymunları niye övdü sorundalı
 bkz recepcücünün 2071 malazgirt 100. yılına hazırlanması
 bkz 1881 atacücük 1881+161 = 2042 +30 272 malazgirt zaferi 100.yılı
 bkz 1881 atacücük 18+81 = 99 - 81 vilayet -batman = covid19
