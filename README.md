@@ -1,4 +1,6 @@
 <!--
+bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır demesi
+bkz millet hizmet beklerken kakanın osura osura uyuması
 bkz deniz gezmişin yeni ilişkiye hazır değilim demesi
 bkz dennis ritche vs dennis voyager
 bkz denzel washington adam mıdrı sorundalı
