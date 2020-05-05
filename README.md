@@ -1,4 +1,5 @@
 <!--
+bkz yılmaz yozdilin boyu değil ilevi yazısı
 https://www.youtube.com/watch?v=2KErN9bMrwM  lol
 bkz erdoğan uyumuş mudur sorundalı
 bkz sen anlat dinliyorum diyip uyuyan ruhsuz erkek
