@@ -1,4 +1,5 @@
 <!--
+bkz devlet bahçeli nin pornosunu aramak
 bkz sabah ter içinde uyanıp devlet bahçeli demek
 bkz hoşlaşılan devlet adamının fotosunu öpüp uyumak
 bkz necmettin erbakanın reisle olan efso fotoları
