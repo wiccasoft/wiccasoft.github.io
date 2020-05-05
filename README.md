@@ -1,5 +1,6 @@
 
 <!--
+bkz sala çaça rumba yapabilen 185 boyunda ülkücü erkek
 bkz atacücük 161 boyla nasıl londros mondros şaptı
 bkz gün ay yıl klasörünün this day in history olması
 bkz 7 mayıs 1939 londor mondros mütakeresi
