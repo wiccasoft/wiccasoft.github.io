@@ -1,4 +1,5 @@
 <!--
+bkz o değil de atacücükün 161 boyuda olması
 bkz aktrolleri dolar 10 lira oluncaya kadar kızıştırmak
 bkz aktrollerin tayberdoana muhalif olduumu sanmaları asdasdasd
 bkz yeni dünya düzenin nereye kursam sorundalı
