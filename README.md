@@ -1,4 +1,5 @@
 <!--
+bkz sabah ter içinde uyanıp devlet bahçeli demek
 bkz hoşlaşılan devlet adamının fotosunu öpüp uyumak
 bkz necmettin erbakanın reisle olan efso fotoları
 bkz tayberdoğanı niçin seviyorum sorundalı
