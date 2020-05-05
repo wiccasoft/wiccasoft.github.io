@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1-i%C3%A7in-organlar%C4%B1n%C4%B1-sat%C4%B1%C5%9Fa-%C3%A7%C4%B1karan-baba/
 https://www.uludagsozluk.com/k/allah-var-ulan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/muhalefetin-s%C4%B1kla%C5%9Fan-darbe-s%C3%B6ylemleri/&w=gd
