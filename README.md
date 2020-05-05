@@ -1,4 +1,5 @@
 <!--
+bkz necmettin erbakan saadet partisin görseydi ne derdi sorundalı
 bkz devlet bahçelinin yanına uzanıp uyudun mu demek
 bkz kemal kılışdaroğlan uyumuş mudur sorundalı
 bkz deniz gezmişe entry girerkene devlet bahçeli akla gelmesi sorundalı
