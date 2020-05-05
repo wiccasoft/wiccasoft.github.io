@@ -1,5 +1,5 @@
 <!--
-bkz 1881 atacücük 1881+161 = 1892 vlad
+bkz 1881 atacücük 1881+161 = 2042 +30 272 malazgirt zaferi 100.yılı
 bkz 1881 atacücük 18+81 = 99 - 81 vilayet -batman = covid19
 bkz malum ırkın beni atacücük sanması
 bkz atacücükün cücükleri siklemdiği gerçeği
