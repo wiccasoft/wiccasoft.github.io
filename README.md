@@ -1,4 +1,5 @@
 <!--
+vkz 161 boyunda ata mı olur lan oç ları
 bkz atacükükün uzun göstersin diye çizgili mayo giymesi
 bkz atacücükün çizgili mayosu
 bkz 161 boyundaki adamın cücüklerin atasıyım demesi
