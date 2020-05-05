@@ -1,4 +1,5 @@
 <!--
+bkz gee gece devlet bahçelinin akla gelmesi sorundalı
 bkz deniz gezmiş yazdıklarımız okumuyo mudur sorundalı
 bkz yunan jetinin erdoğanın odasına girmesi
 bkz erdoğanın arayıp lan olm sen oruç tutmuyon mu sorundalı demek
