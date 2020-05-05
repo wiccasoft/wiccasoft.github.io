@@ -4,13 +4,6 @@ https://www.uludagsozluk.com/k/fesli-maymun/&w=bg lol
 bkz atacücüklük yan gelip yatma yeri değildir
 bkz millet hizmet bekliye bay kamal hizmet
 bkz millet sakso beklerken atacücükün yatması
-bkz atacücükün yan gelip yatması
-bkz ataccüükistana gidip atam yanıan yatam demek
-bkz bunu atacücüke sorsana delihuanlı
-bkz eşcücüksellerin atacücüke bakışı
-bkz eşccücüksel deyince akla gelenler
-bkz atacücükün eşcücüksellere bakışı
-bkz yunus emre vs sörfyafor yunus emre
 bkz tayyibi arayıp kaçak windows kullanan bulursam sikerim dalağını demek
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhddiziizle.com
 bkz tayyibi arayıp kaçak netfiliz izleyen ulusuna sokarım demek
