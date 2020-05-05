@@ -1,68 +1,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz bkz sikin birbirinizi göte para vermeyin
-bkz fatih portaklın şifreli  senden hoşlanıyorum iması yapması
-bkz macun kaplıcalının gavat mıyım lan ben demesi
-bkz seyfo dayı duran emmiyi niye hoplattı sorundalı
-bkz sevda tarramın ucundaki gay bakkal
-bkz sörfayfır daki gay
-bkz fatih portaklın şifreli konuşması
-https://www.uludagsozluk.com/k/survivordaki-gay/ bkz yunus emre
 https://www.uludagsozluk.com/k/do%C4%9Fum-tarihli-entry-numaras%C4%B1/ aboo çocuğum yaşında la bunlar
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
-https://www.uludagsozluk.com/k/tarih-%C3%B6%C4%9Fretmeni/&w=bg bkz serdar ortaçgil
-https://www.uludagsozluk.com/k/fox-tv-ana-haber-b%C3%BClteni/&w=bg bkz esnaf kan ağliy
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-%C5%9Fifreli-darbe-imas%C4%B1/ bkz ortalık karışacak beyler
-https://www.uludagsozluk.com/k/survivordaki-gay/ bkz yunus emre
-bkz minnak berat kayanın takım elbisesi
-https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/
-https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/&w=bg bkz minnak berat
-bkz fettullak gülenin elazığdan yalı arazisi alması
-bkz ortadoğulu maymunların hala adıma entry girememesi
-bkz ortadoğulu maymunların ilişki kurma çabası
-https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bkz ben
-bkz adnan oktar mehdi ise neden hapiste sorundalı
-bkz mustafa cengizin bağırsaklarından çıkan sarı kırmızı vibratör
-bkz o değile meral pattes marrem soğan nası kodu ama tayberdoan ooooooooooooo
-bkz dünya liderine muhalefet etmek
-bkz muhalefetin sıkışan darbe söylemleri iddası
-bkz stalinin atacücükten daha kalın olması
-bkz öcü gibi korkuyorlar mao zeong yoldaşımdan
-bkz mao nun pezevenk olması
-bkz sörfayfır macun kaplıcalı vs sörfayır ata cücük
-bkz sörfayfur yunu emre vs ata cücük
-bkz ak ata cücük kardeşliği
-bkz ata cücükü mikroskopla incelemek
-bkz ata cücükün çizgili mayosu
-bkz necip fazıl kısakürekin ata cücükten uzun olması
-bkz ata cücük 161 boyla nasıl ulusa seslinyor sorundalı
-bkz adnan oktar mehdi ise niye hapiste sorundalı
-bkz atacücük 161 boyla nasıl cücüklere sesleniyor sorundalı
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz ata cücük
-bkz selahattin demirtaşın adnana oktara yazdığı mektup
-bkz adnan oktarın adanan polatı hainlikle suçlaması
-bkz ekremin gözle görülür bi hizmeti olmaması
-bkz millet hizmet beklerken kakaknın osura osura uyuması
-bkz sörfayfır yunus emre mi sörfafır berke can mıs sorundalı
-bkz sörfayfır yusuf un sörfayfır ekreme göt aoğlanı demesi
-bkz ekremin tam bi göt oğlanı çıkması
-bkz osman gökçekin keçiörene melik gökçek heykeli yaptıralım önerisi
-bkz ilber ortaçgil vs celak şengör
-bkz mustafa cengizin bağırsaklarından sarı kırmızı vibratör çıkması
-bkz ulus cebeci çankaya mansur yavaşla ankara bambaşkaaaaaaaaaa
-bkz osman gökçekin keçiörene yaptırdığı gökçek heykeli
-bkz mustaf sandalın 171 olması
-bkz osman gökçek havay kaldırıp hanimiş kimin oğluymuş demek
-bkz berat kayayı kucağa alıp hoppidik hoppidik yapmak
-bkz berat kaya ya evlat büyünce ne olcan sen demek
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz hz yunus
-https://www.uludagsozluk.com/k/berat-kaya/&w=bg bkz minnak filozok berat asdasdasda
-https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
-bkz isayı arayıp hani zühur eyleyecektin oç demek
-bkz imamaoğlan mehdi as mı sorundalı
-https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/ bu bebe kim lan
-https://www.uludagsozluk.com/k/hz-mehdi-inmi%C5%9Ftir/&w=bg bkz zühur eylediyse sorun yok
-https://www.uludagsozluk.com/k/tayyip-in-bana-darbe-yapic%C3%BCkler-goygoyu/ bkz ufak at tayyip 
-https://www.uludagsozluk.com/k/imamo%C4%9Flunun-erdo%C4%9Fandan-g%C3%BCvenilir-olmas%C4%B1/&w=bg bkz imamınoğlı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd bkz ata cücük 
 -->
 
