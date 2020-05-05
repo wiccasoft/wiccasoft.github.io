@@ -1,19 +1,11 @@
 <!--
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz cücük 
+bkz necip fazıl kısakürekin atacücükten uzun olması
 bkz yılmaz yozdilin cücük kadar adamı savunması
 bkz yılmaz yozdil boyu değil işlevi yazısı
 bkz cücük kadar adamı ata ilan etmek
 bkz cücüke kadar adama ata demek
 bkz 161 boyundaki cücüke ata demem için tek sebep söyleyin
 bkz 161 boyla cücüklerin atasıyım diyen cücüğü ciddiye alamamak
-bkz atacücükün 161 boyla cücüklerin atasıyım demesi
-bkz atacücükün 161 olması
-bkz 161 boyundaki cücüke ata demek
-https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1l%C4%B1k/&w=bg bkz oç atacücük
-bkz oç atacücükün oç cücükleri övmesi
-bkz oç atacücük ve cücükler
-bkz atacücükün cücükleri övmesi
-bkz yılmaz yozdilin 171 boyunda olması
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bunun boyu kaç lan
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ zuhahahahahaha
 bkz cücük gibi adama ata demek
