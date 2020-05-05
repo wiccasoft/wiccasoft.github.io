@@ -2,6 +2,7 @@
 bkz yeni dünya düzenini nereye kursam sorundalı
 bkz türklerin güneşi kendi etraflarında döndüğünü sanmaları
 bkz fatih portakalın aptala anlatır gibi anlatması
+bkz fatih portaklın bi daha anlatim mi pozu
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz bakışlarıyla şifreli meşajlar veren fatih
 https://www.uludagsozluk.com/k/2000-li-veletler/ bkz aleyne yilki
 https://www.uludagsozluk.com/k/fox-tv-ana-haber-b%C3%BClteni/&w=bg bkz esnaf kan ağliy kan
