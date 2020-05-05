@@ -1,4 +1,5 @@
 <!-- 
+bkz fatih portaklın şifreli konuşması
 https://www.uludagsozluk.com/k/survivordaki-gay/ bkz yunus emre
 https://www.uludagsozluk.com/k/do%C4%9Fum-tarihli-entry-numaras%C4%B1/ aboo çocuğum yaşında la bunlar
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
