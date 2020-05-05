@@ -1,4 +1,5 @@
 <!--
+bkz deniz gezmişin yeni ilişkiye hazır değilim demesi
 bkz dennis ritche vs dennis voyager
 bkz denzel washington adam mıdrı sorundalı
 bkz düşün ki deniz gezmiş yadıklarını okuyore
