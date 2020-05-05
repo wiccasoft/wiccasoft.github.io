@@ -1,4 +1,5 @@
 <!--
+bkz aktrollerin tayberdoana muhalif olduumu sanmaları asdasdasd
 bkz yeni dünya düzenin nereye kursam sorundalı
 bkz o deil de bi cesaret madalyssı daha mı versek
 bkz tayberdoanın yeni dünya düzenini kurmam için yolu açması
