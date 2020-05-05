@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün cücükleri çok abarttığı gerçeği
 bkz atacücük ün cücükleri niye bu kadar abartması
 bkz atacücük bu maymunları niye övdü sorundalı
 bkz recepcücünün 2071 malazgirt 100. yılına hazırlanması
