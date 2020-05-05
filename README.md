@@ -1,5 +1,7 @@
 <!--
-bkz neder kaldık küpe takan adam mıdır sorundalı
+bkz 18 cm le işeyen erkek adam mıdır sorundalı
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BC-d%C3%BC%C5%9F%C3%BCnce/&w=bg
+bkz nede kaldık küpe takan erkek adam mıdır sorundalı
 bkz sabah bir atacücük bırak ana ezan okunuyomuş
 bkz atacücük 161 boyla eşcinsellere nasıl bakıyordu sarundalı
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg bkz toptur
