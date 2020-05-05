@@ -1,4 +1,5 @@
 <!-- 
+bkz ortadoğulu maymunların ilişki kurma çabası
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bkz ben
 bkz adnan oktar mehdi ise neden hapiste sorundalı
 bkz mustafa cengizin bağırsaklarından çıkan sarı kırmızı vibratör
