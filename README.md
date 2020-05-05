@@ -1,4 +1,5 @@
 <!--
+bkz cüneyt arkını hala nalları dikmemiş olması
 bkz hitler vs ataführer
 bkz führerin uluslara seslenmesi
 bkz atacücükün hiç cücüklere seslenmemesi
