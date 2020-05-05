@@ -1,4 +1,5 @@
 <!--
+bkz minnak filozok atakan vs atacücük
 bkz çaycı hüseyin vs atacücük
 bkz atacücükün 161 boyunda olması
 bkz cücük gibi adama ata diyen malum ırk
