@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
 https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz bkz sikin birbirinizi göte para vermeyin
 https://www.uludagsozluk.com/k/do%C4%9Fum-tarihli-entry-numaras%C4%B1/ aboo çocuğum yaşında la bunlar
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
