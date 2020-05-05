@@ -1,6 +1,6 @@
 
 <!--
-bkz atacücük 161 boyla nasıl londro mondros şaptı
+bkz atacücük 161 boyla nasıl londros mondros şaptı
 bkz gün ay yıl klasörünün this day in history olması
 bkz 7 mayıs 1939 londor mondros mütakeresi
 bkz 4 mayıs 1947 dersim destanı
