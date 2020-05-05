@@ -1,6 +1,5 @@
 <!--
-bkz atacücükün 161 boyunu uzun göstermek için çizgili mayo giymesi
-bkz madem atacücük uzundu niye çicgili mayo giyiyor
+bkz atacücükün mayo giymesine izin veren gavat
 bkz atacücükün çizgili mayosu
 bkz atacücükün suda çıkardığı ses
 bkz soğan cücüğü vs atacücük
