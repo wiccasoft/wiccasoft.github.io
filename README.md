@@ -1,4 +1,5 @@
 <!--
+bkz deniz gezmiş gezmiş midir sorundalı
 bkz tayyip niye deniz gezmişi asmıyo sorundalı
 bkz bu siteye ulaşılamıyor niye zorluyosun oç
 bkz diyanet ezan çalıştayının beyin kanartan vidyosu
