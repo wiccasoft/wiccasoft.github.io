@@ -1,5 +1,5 @@
 <!--
-bkz yozdilin boyu değil işlevi önmeli yazısı
+bkz 5 mayıs 2020 yozdilin boyu değil işlevi önmeli yazısı
 bkz yozdil villasına yıkım kararı nası koydu ama tayberdoana ooooooooo
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-villas%C4%B1na-y%C4%B1k%C4%B1m-karar%C4%B1-%C3%A7%C4%B1kmas%C4%B1/&w=gd zuzuahhaha
 bkz atacücükün yaptıracağı yeni saray
