@@ -1,4 +1,6 @@
 <!--
+bkz yozdil villasına yıkım kararı nası koydu ama tayberdoana ooooooooo
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil-in-villas%C4%B1na-y%C4%B1k%C4%B1m-karar%C4%B1-%C3%A7%C4%B1kmas%C4%B1/&w=gd zuzuahhaha
 bkz atacücükün yaptıracağı yeni saray
 bkz meral pattes marreme soğan nası koydu amaa tayberdoan oooooooo
 bkz antalya rakı şiş kebap çok güzel arazi alacak ben
