@@ -1,4 +1,5 @@
 <!--
+bkz antalya şiş kebap çok güzel arazi alacak ben
 bkz atacücükün yaptıracağı yeni saray
 bkz halk fakirken atacücükün zevk sefa içinde yaşaması
 bkz atacücükün mayo giymesine izin veren gavat
