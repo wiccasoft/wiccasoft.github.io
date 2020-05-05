@@ -1,5 +1,6 @@
 
 <!--
+bkz deniz gezmiş nereyi gezmiş sorundalı
 bkz deniz gezmiş gezmiş mi sorundalı
 bkz deniz gezmiş vs müjdat gezmiş
 bkz amerikanın deniz gezmişi verin fetulakı alın demesi
