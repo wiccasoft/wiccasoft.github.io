@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün 161 boyunu uzun göstermek için çizgili mayo giymesi
 bkz madem atacücük uzundu niye çicgili mayo giyiyor
 bkz atacücükün çizgili mayosu
 bkz atacücükün suda çıkardığı ses
