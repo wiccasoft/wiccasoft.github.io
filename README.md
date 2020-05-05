@@ -1,4 +1,5 @@
 <!--
+bkz ilber ortaçgil vs celal şenför
 bkz müjdat gezen vs deniz gezen
 bkz mahir çayan vs deniz gezmemiş
 bkz adnan oktar mehdi ise niye hapiste
