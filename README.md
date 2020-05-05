@@ -1,4 +1,5 @@
 <!--
+bkz bell labs from lab to  innovation  adlı kitabım tokat erbağ kitap evinde
 bkz turabi çamkıranın linux history with ken thompson kitabı yakında yayınevlerinde
 bkz turabi çamkıranın terli kasık kasları
 bkz yeni kitabım boyu değil işlevi işlevi nitelik değil nicelik yakında doğan yayınevinde
