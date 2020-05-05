@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/berat-kaya/&w=bg bkz minnak filozok
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 bkz isayı arayıp hani zühur eyleyecektin oç demek
 bkz imamaoğlan mehdi as mı sorundalı
