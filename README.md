@@ -1,4 +1,5 @@
 <!--
+bkz küpe takan erkek adam mıdır sorundalı
 bkz 18 cm le işeyen erkek adam mıdır sorundalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BC-d%C3%BC%C5%9F%C3%BCnce/&w=bg
 bkz nede kaldık küpe takan erkek adam mıdır sorundalı
