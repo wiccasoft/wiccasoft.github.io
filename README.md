@@ -1,4 +1,5 @@
 <!--
+bkz hoşlaşılan devlet adamının fotosunu öpüp uyumak
 bkz necmettin erbakanın reisle olan efso fotoları
 bkz tayberdoğanı niçin seviyorum sorundalı
 bkz akp nin darbe den eppek çıkarması
