@@ -1,4 +1,5 @@
 <!--
+bkz erdoğan emineyle nasıl sevişiyodur sorundalı
 bkz akp nin darbe den eppek çıkarması
 bkz erdonun kuşağına ısırıp şapşik demek
 bkz erdo napıyodur şimdi sorundalı
