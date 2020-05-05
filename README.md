@@ -1,4 +1,5 @@
 <!--
+bkz cücüklerin tarihle kafayı bozması
 bkz recep cücükün soya değil ecdada bakar ecdadaaaa demesi
 bkz atacücükün cücüklerin damarlarında asil kan falan var demesi
 bkz atacücükün cücükleri çok abarttığı gerçeği
