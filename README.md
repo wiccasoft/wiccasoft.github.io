@@ -1,4 +1,5 @@
 <!--
+bkz mka 161 boyunda nasıl atacücük oludu sorundalı
 bkz atacücük neden cücüklerin atası sorundalı
 bkz atacücük 161 ise nasıl suvay oldu sorundalı
 bkz atacücükün 161 boyunda bir cüce olması
