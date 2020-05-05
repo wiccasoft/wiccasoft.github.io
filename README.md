@@ -1,5 +1,7 @@
 <!--
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg lol
+https://www.uludagsozluk.com/k/t%C3%BCrk%C3%BCm-demekten-cekinmeyin-hayk%C4%B1r%C4%B1n/
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg
