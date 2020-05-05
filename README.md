@@ -1,4 +1,5 @@
 <!--
+bkz atacükükün uzun göstersin diye çizgili mayo giymesi
 bkz atacücükün çizgili mayosu
 bkz 161 boyundaki adamın cücüklerin atasıyım demesi
 bkz cücüklerin 161 boyundaki adama ata demesi
