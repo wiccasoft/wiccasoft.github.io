@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki cücüke ata demem için tek sebep söyleyin
 bkz 161 boyla cücüklerin atasıyım diyen cücüğü ciddiye alamamak
 bkz atacücükün 161 boyla cücüklerin atasıyım demesi
 bkz atacücükün 161 olması
