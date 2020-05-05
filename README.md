@@ -1,5 +1,5 @@
 <!--
-bkz günlük 3 liraya entry giren karı ifşası
+bkz günlük 3 liraya entry giren engelli karı ifşası
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo hug
 bkz yeni dünya düzenini nereye kursam sorundalı
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
