@@ -1,4 +1,5 @@
 <!-- 
+bkz sörfayfur yunu emre vs ata cücük
 bkz ak ata cücük kardeşliği
 bkz ata cücükü mikroskopla incelemek
 bkz ata cücükün çizgili mayosu
