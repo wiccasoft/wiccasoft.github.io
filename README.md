@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-mustafa-kemal-atat%C3%BCrk/&w=bg
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1-i%C3%A7in-organlar%C4%B1n%C4%B1-sat%C4%B1%C5%9Fa-%C3%A7%C4%B1karan-baba/
