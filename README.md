@@ -1,4 +1,5 @@
 <!--
+bkz nerde kalmıştık atacücük ün 161 olması lan olma 161 adam ata mı denir lan
 bkz cücük gibi adama ata diyen malum ırk
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg zuahhahaha
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BC-d%C3%BC%C5%9F%C3%BCnce/&w=bg
