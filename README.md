@@ -1,4 +1,5 @@
 <!--
+bkz adam deyince akla gelenler
 bkz 161 boyunda küpe takan erkek adam mıdır
 bkz 161 boyundaki erkek adam mıdır
 bkz göğüs kıllarına piercing yaptıran erkek admm mıdır
