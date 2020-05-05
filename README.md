@@ -1,4 +1,5 @@
 <!--
+bkz diyaneti 161 boyla kurmak
 bkz 161 boyundaki adama ata demek
 bkz atacücük 161 boyla nasıl diyaneti kurdu sorundalı
 bkz ismet inöcükün atacücükten uzun olması
