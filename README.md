@@ -1,5 +1,5 @@
 <!-- 
-bkz berat kayayı havaya atıp hoppidik hoppidik yapmak
+bkz berat kayayı kucağa alıp hoppidik hoppidik yapmak
 bkz berat kaya ya evlat büyünce ne olcan sen demek
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz hz yunus
 https://www.uludagsozluk.com/k/berat-kaya/&w=bg bkz minnak filozok berat asdasdasda
