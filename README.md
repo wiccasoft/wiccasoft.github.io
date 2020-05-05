@@ -1,4 +1,5 @@
 <!-- 
+bkz fox & friends ın trump a yanlaması
 bkz trumpın fox çu olması
 bkz fox tv ana haber bülteni
 bkz yeni dünya düzenini nereye kursam sorundalı
