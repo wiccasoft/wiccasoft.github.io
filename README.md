@@ -1,4 +1,5 @@
 <!--
+bkz genşler moralinizi bomzak istemem ama 180 boy 60 kilo 18 cm kafası dahil
 bkz tayyipin tam bi kezban olması
 bkz kaslarım şişser diye ağırlık çalışmayan tayyip
 bkz tayyibin 4.6 milyon liralık villa ney lan demesi
