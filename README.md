@@ -1,4 +1,5 @@
 <!--
+bkz atacücük 161 iq olduğu yalanı
 bkz atacücük 161 olması
 bkz mert akkaşın şikşokçulara küfr etmesi
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
