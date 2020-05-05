@@ -1,4 +1,5 @@
 <!--
+bkz madem atacücük uzundu niye çicgili mayo giyiyor
 bkz atacücükün çizgili mayosu
 bkz atacücükün suda çıkardığı ses
 bkz soğan cücüğü vs atacücük
