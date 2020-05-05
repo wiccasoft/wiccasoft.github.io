@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün 161 olması sorundalı
 bkz atacücükü koruma kanunu cücük diye mi çıkarıldı sorundalı
 bkz mka 161 boyunda nasıl atacücük oludu sorundalı
 bkz atacücük neden cücüklerin atası sorundalı
