@@ -1,4 +1,5 @@
 <!--
+bkz millet hizmet bekliye bay kamal hizmet
 bkz millet sakso beklerken atacücükün yatması
 bkz atacücükün yan gelip yatması
 bkz ataccüükistana gidip atam yanıan yatam demek
