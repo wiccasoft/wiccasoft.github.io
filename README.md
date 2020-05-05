@@ -1,5 +1,5 @@
 <!--
-bkz aktrollerin dolar 10 lira oluncaya kadar kızdırmak
+bkz aktrolleri dolar 10 lira oluncaya kadar kızıştırmak
 bkz aktrollerin tayberdoana muhalif olduumu sanmaları asdasdasd
 bkz yeni dünya düzenin nereye kursam sorundalı
 bkz o deil de bi cesaret madalyssı daha mı versek
