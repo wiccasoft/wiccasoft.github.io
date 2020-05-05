@@ -1,4 +1,5 @@
 <!--
+bkz o değil de meral pattes marrem soğan nası koydu ama tayberdoan ooooooooooooooooooooooooo
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
 bkz evolution from beginng to atacücük adlı kitabım henüz türkçeye çevrilmedi
 bkz tokatlı hemşerilerim için yazdığım bell labs from lab to innovation adlı kitabım yayınevlerinde
