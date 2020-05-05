@@ -1,8 +1,7 @@
 <!--
 bkz ademin 3 m olması
-bkz necip hhazıl kısakürekin atacükten uzun olması
+bkz necip fazıl kısakürekin atacücükten uzun olması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg zuahahhaaha
-bkz genşler moralinizi bomzak istemem ama 180 boy 60 kilo 18 cm kafası dahil
 bkz tayyipin tam bi kezban olması
 bkz kaslarım şişser diye ağırlık çalışmayan tayyip
 bkz tayyibin 4.6 milyon liralık villa ney lan demesi
