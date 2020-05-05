@@ -1,4 +1,5 @@
 <!--
+bkz oç atacücük ve cücükler
 bkz atacücükün cücükleri övmesi
 bkz yılmaz yozdilin 171 boyunda olması
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bunun boyu kaç lan
