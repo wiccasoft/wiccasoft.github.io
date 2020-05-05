@@ -2,7 +2,7 @@
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 bkz isayı arayıp hani zühur eyleyecektin oç demek
 https://www.uludagsozluk.com/k/hz-mehdi-inmi%C5%9Ftir/&w=bg bkz zühur eylediyse sorun yok
-https://www.uludagsozluk.com/k/tayyip-in-bana-darbe-yapic%C3%BCkler-goygoyu/ bkz ufak at tayyip civciler goygoylasın
+https://www.uludagsozluk.com/k/tayyip-in-bana-darbe-yapic%C3%BCkler-goygoyu/ bkz ufak at tayyip 
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-erdo%C4%9Fandan-g%C3%BCvenilir-olmas%C4%B1/&w=bg bkz imamınoğlı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=gd bkz ata cücük 
 -->
