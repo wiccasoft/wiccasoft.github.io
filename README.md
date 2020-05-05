@@ -1,4 +1,5 @@
 <!-- 
+bkz osman gökçek havay kaldırıp hanimiş kimin oğluymuş demek
 bkz berat kayayı kucağa alıp hoppidik hoppidik yapmak
 bkz berat kaya ya evlat büyünce ne olcan sen demek
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz hz yunus
