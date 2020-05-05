@@ -1,4 +1,5 @@
 <!--
+bkz yeni kitabım boyu değil işlevi işlevi nitelik değil nicelik yakında doğan yayınevinde
 https://www.uludagsozluk.com/k/turabi-%C3%A7amk%C4%B1ran/&w=bg bkz tangacı reis
 bkz yozdilin yeni kitabı boy değil işlev
 bkz yozdil boyu değil villa işlevi önemi yazısı
