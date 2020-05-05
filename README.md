@@ -1,19 +1,6 @@
 <!--
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahhahahaha
-bkz rt news in rte ci olması
-bkz ruptly news ana haber bülteni vs fox & friends
-bkz fox & friends ın trump a yanlaması
-bkz trumpın fox çu olması
-bkz fox tv ana haber bülteni
 bkz yeni dünya düzenini nereye kursam sorundalı
-bkz macun kaplıcalının gavat mıyım lan ben demesi
-bkz günde 3 lira ile geçinen karı ifşası
-bkz türklerin güneşi kendi etraflarında döndüğünü sanmaları
-bkz fatih portakalın bi daha anlatim mi pozu
-bkz fatih portakalın aptala anlatır gibi anlatması
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz bakışlarıyla şifreli meşajlar veren fatih
-https://www.uludagsozluk.com/k/2000-li-veletler/ bkz aleyne yilki
-https://www.uludagsozluk.com/k/fox-tv-ana-haber-b%C3%BClteni/&w=bg bkz esnaf kan ağliy kan
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
 https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz bkz sikin birbirinizi göte para vermeyin
 https://www.uludagsozluk.com/k/do%C4%9Fum-tarihli-entry-numaras%C4%B1/ aboo çocuğum yaşında la bunlar
