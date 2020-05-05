@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bunun boyu kaç lan
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ zuhahahahahaha
 bkz cücük gibi adama ata demek
 bkz 161 boyundaki cücüke ata demek
