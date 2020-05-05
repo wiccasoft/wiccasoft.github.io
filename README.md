@@ -1,5 +1,6 @@
 <!--
-bkz ezdiyanet ezan çalıştayı başkanının 180 olması
+https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg bkz toptur
+bkz diyanet ezan çalıştayı başkanının 180 olması
 bkz atacücükün 161 boyla boyundan büyük işlere girişmesi
 bkz diyaneti 161 boyla kurmak
 bkz 161 boyundaki adama ata demek
