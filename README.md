@@ -1,5 +1,5 @@
 <!--
-bkz günlük 3 liraya entry giren karı
+bkz günlük 3 liraya entry giren karının oğlu
 bkz ilber ortaçgil vs celal şenför
 bkz müjdat gezen vs deniz gezen
 bkz mahir çayan vs deniz gezmemiş
