@@ -1,4 +1,5 @@
 <!--
+bkz erdoğan oruç tutmuyormu sorundalı
 bkz atacücükü neden sevmiyorum anlatıyorum okuyun
 bkz atacücük ile devlet bahçeli arasında kalmak
 bkz devlet bahçeli nin pornosunu aramak
