@@ -1,4 +1,5 @@
 <!--
+bkz erkek adamın erkek sevgilisi mi olmalı sorundalı
 bkz erkek deyince handi admalar akla geliyor sorundalı
 bkz küpe takan erkek adam mıdır sorundalı
 bkz 18 cm le işeyen erkek adam mıdır sorundalı
