@@ -1,4 +1,5 @@
 <!--
+bkz slim gömlek giyen erkek adam mıdrı
 bkz kızları patlatıp kaçan erkek adam mıdır
 bkz adam gibi adam deyince adkla gelen ilk adam
 bkz cem yılmaz adam mıdır sorundalı
