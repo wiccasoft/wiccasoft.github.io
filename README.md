@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/allah-var-ulan-orospu-%C3%A7ocuklar%C4%B1/&w=bg hayallerde yaşıyor bazı ibneler
 bkz 161 ne lan cücük gibi
 bkz allak ın 171 olması
 bkz aktrollerin atacücükü zeki göstermek 161 iq demesi
