@@ -1,4 +1,5 @@
 <!--
+bkz dennis ritchie vs deniz gezmiş
 bkz deniz gezmiş nereyi gezmiş sorundalı
 bkz deniz gezmiş gezmiş midir sorundalı
 bkz tayyip niye deniz gezmişi asmıyo sorundalı
