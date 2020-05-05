@@ -1,4 +1,5 @@
 <!--
+bkkz ataccüükistana gidip atam yanıan yatam demek
 bkz bunu atacücüke sorsana delihuanlı
 bkz eşcücüksellerin atacücüke bakışı
 bkz eşccücüksel deyince akla gelenler
