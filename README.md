@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/alperen-kekilli/&w=bg bkz sibel kekillinin abisi
 bkz necip fazıl kısakürekin atacücükten 20 santim uzun olması
 bkz çaycı hüseyin vs atacücük vs minnak filozok atacan
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ zuahhahahaha cüce ve ölü
