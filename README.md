@@ -1,6 +1,6 @@
 <!--
-bkz necip fazıl kısakürekin atacücükten uzun olması
 bkz yılmaz yozdilin cücük kadar adamı savunması
+bkz necip fazıl kısakürekin atacücükten uzun olması
 bkz yılmaz yozdil boyu değil işlevi yazısı
 bkz cücük kadar adamı ata ilan etmek
 bkz cücüke kadar adama ata demek
