@@ -1,4 +1,5 @@
 <!--
+bkz yozdil boyu değil villa işlevi önemi yazısı
 bkz bill gatesin mit tırları yazısı
 bkz tayyibin tırlarla ppkya kaçak windows yollması
 bkz kaçak windows kullanırsanız sikerim dalağınız ha
