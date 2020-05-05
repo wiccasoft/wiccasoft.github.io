@@ -1,4 +1,5 @@
 <!--
+bkz mahri çayan vs deniz gezmiş
 bkz deniz gezmiş asılmadı mı sorundalı
 bkz diyanet ezan öçalıştayı harıl harıl çalışırken kakanın uyuması
 bkz diyanetin makata üvey torunla evlilik helaldir fetvası
