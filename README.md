@@ -1,4 +1,5 @@
 <!--
+bkz erdo fettullak üleni affetim dese olacaklar
 bkz blowfish algoristması vs fatih portakal
 bkz swordfish teki mantık hatası
 bkz fatih portakal vs mehmet ali erbil
