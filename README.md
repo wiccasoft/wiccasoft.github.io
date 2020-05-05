@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/k/galatasaray-taraftar%C4%B1/&w=bg bkz ultra geyler
 bkz tayyibe güvenen ibnenin evlatlarını döve döve sikmek
 bkz ibnenin evlatları adıma başlık açında annenizi götten sikeyim
 bkz türkler internetin virüsleri mi sorundalı
