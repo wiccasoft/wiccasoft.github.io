@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz peygamber
 bkz tayyibi arayıp kaçak windows kullanan bulursam sikerim dalağı demek
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhddiziizle.com
 bkz tayyibi arayıp kaçak netfiliz izleyen ulusuna sokarım demek
