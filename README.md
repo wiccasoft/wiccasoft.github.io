@@ -1,4 +1,5 @@
 <!-- 
+bkz ekremin tam bi göt oğlanı çıkması
 bkz osman gökçekin keçiörene melik gökçek heykeli yaptıralım önerisi
 bkz ilber ortaçgil vs celak şengör
 bkz mustafa cengizin bağırsaklarından sarı kırmızı vibratör çıkması
