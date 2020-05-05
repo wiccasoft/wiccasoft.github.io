@@ -1,4 +1,5 @@
 <!-- 
+bkz seyfo dayı duran emmiyi niye hoplattı sorundalı
 bkz sevda tarramın ucundaki gay bakkal
 bkz sörfayfır daki gay
 bkz fatih portaklın şifreli konuşması
