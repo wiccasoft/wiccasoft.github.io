@@ -1,5 +1,6 @@
 <!-- 
 bkz yeni dünya düzenini nereye kursam sorundalı
+bkz macun kaplıcalının gavat mıyım lan ben demesi
 bkz türklerin güneşi kendi etraflarında döndüğünü sanmaları
 bkz fatih portakalın bi daha anlatim mi pozu
 bkz fatih portakalın aptala anlatır gibi anlatması
