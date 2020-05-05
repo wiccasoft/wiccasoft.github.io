@@ -1,4 +1,5 @@
 <!--
+bkz fetulak gülen yaşıyo mudur sorundalı
 bkz erdo fettullak üleni affetim dese olacaklar
 bkz blowfish algoristması vs fatih portakal
 bkz swordfish teki mantık hatası
