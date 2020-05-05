@@ -1,7 +1,7 @@
 <!--
-bkz necmettin erbakan saadet partisin görseydi ne derdi sorundalı
-bkz devlet bahçelinin yanına uzanıp uyudun mu demek
 bkz kemal kılışdaroğlan uyumuş mudur sorundalı
+bkz necmettin erbakan saadet partisini görseydi ne derdi sorundalı
+bkz devlet bahçelinin yanına uzanıp uyudun mu demek
 bkz deniz gezmişe entry girerkene devlet bahçeli akla gelmesi sorundalı
 bkz deniz gezmiş yazdıklarımız okumuyo mudur sorundalı
 bkz yunan jetinin erdoğanın odasına girmesi
