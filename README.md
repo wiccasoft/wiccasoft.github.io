@@ -1,4 +1,5 @@
 <!--
+bkz küçük filozok atakan vs atacücük
 bkz atacücük taklidi yapan tiktokçu
 bkz ümmet reisi varken atacücüke tapmak
 bkz atacücükün hiç cücüklere seslenmemesi
