@@ -1,4 +1,6 @@
+
 <!--
+bkz am ağacında üç fidan vs duman avcıları
 bkz trump ın f-35 yerine f-22 raptor çekeyim abime demesi
 bkz erdonun parası neyse fettulak güleni alalım demesi
 bkz amerika futullak gülen veriyorum dese olacaklar
