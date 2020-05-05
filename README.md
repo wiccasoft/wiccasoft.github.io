@@ -1,5 +1,5 @@
 <!--
-bkz deniz gezmiş ibne mi sorundalı
+bkz tayyip niye deniz gezmişi asmıyo sorundalı
 bkz bu siteye ulaşılamıyor niye zorluyosun oç
 bkz diyanet ezan çalıştayının beyin kanartan vidyosu
 bkz diyanetin makata su kaçması helaldir fetvası
