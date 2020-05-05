@@ -1,4 +1,5 @@
 <!--
+bkz deniz baykal vs dennis ritche
 bkz dennis ritchie vs deniz gezmiş
 bkz deniz gezmiş nereyi gezmiş sorundalı
 bkz deniz gezmiş gezmiş midir sorundalı
