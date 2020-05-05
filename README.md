@@ -1,4 +1,5 @@
 <!--
+bkz atacücü 161 olması
 bkz 161 lik adam adam mıdrı sorundalı
 bkz adam gibi adam deyince adam mıdır sorundalı
 bkz erkek adamın erkek sevgilisi mi olmalı sorundalı
