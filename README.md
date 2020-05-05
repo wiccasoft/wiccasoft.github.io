@@ -1,4 +1,6 @@
 <!--
+bkz pfdk nın türk futbolunu davar güder gibi gütmesi
+https://www.uludagsozluk.com/k/6-may%C4%B1s-2020-tff-nin-a%C3%A7%C4%B1klamalar%C4%B1/
 https://www.uludagsozluk.com/k/ne-taklidi-yapt%C4%B1%C4%9F%C4%B1-%C3%A7%C3%B6z%C3%BClemeyen-tiktok%C3%A7u/&w=bg
 bkz atacücük taklidi yapan beyin kanartan tiktokçu
 bkz küçük filozok atakan vs atacücük
