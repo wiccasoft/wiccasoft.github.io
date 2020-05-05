@@ -1,5 +1,6 @@
 <!--
-bkz deniz gezmişiın asıldığı karıya asılmak
+bkz deniz gezmiş asılırken ne düşündü acaba sorundalı
+bkz deniz gezmişin asıldığı karıya asılmak
 bkz deniz gezmiş asılmamış mıdır sorundalı
 bkz 20 sene önce facebook ta kakatürk kavgası yapan cahiller napıyodur acaba sorundalı
 bkz sene olmuş 2020 hala kakatürk muhabbeti 
