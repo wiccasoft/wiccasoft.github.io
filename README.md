@@ -1,4 +1,5 @@
 <!--
+bkz mustafa sandal ın 171 olması
 bkz mustafa kamal atacüük niye öle kısa lan
 bkz yılmaz erdoğanın 187 olması
 bkz yılamz özdil 173 olması
