@@ -1,4 +1,5 @@
 <!--
+bkz çaycı hüseyi vs atacücük vs minnak filozok atacan
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ zuahhahahaha cüce ve ölü
 https://www.uludagsozluk.com/k/allah-var-ulan-orospu-%C3%A7ocuklar%C4%B1/&w=bg hayallerde yaşıyor bazı ibneler
 bkz mert akkaşın şikşokçulara küfr etmesi
