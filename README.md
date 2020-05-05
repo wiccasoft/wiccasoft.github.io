@@ -7,21 +7,11 @@ bkz 3 mayıs türkçülük bayramı kutlamak varken 1 mauys pkk bayramı kutlama
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/ bkz gebermiş 
 bkz ibnenin evlatları adıma başlık açında annenizi götten sikeyim
 https://www.uludagsozluk.com/k/galatasaray-taraftar%C4%B1/&w=bg bkz ultra geyler
-bkz tayyibe güvenen ibnenin evlatlarını döve döve sikmek
 bkz ibnenin evlatları adıma başlık açında annenizi götten sikeyim
 bkz türkler internetin virüsleri mi sorundalı
 bkz ultrageyselilerin twitterdan ekşiye geçmesi
 bkz yaşasa götünü sildirmeyeceği adamlara entryi giren ezik ibneler
 bkz it bağlasan durmaz odasında 500m yaklaşamyağı adamalra ahbabıymış gibi entrti giren ergen
-bkz coca cola içeyken deniz gezmişe entyi giymek
-bkz deniz gezmişe entyi giyeyken babanı odaya giymesi
-bkz biy eykeğ sırf sana benziyoy diye entyi giymek
-bkz deniz gezmişe aşık olmak
-bkz deniz gezmiş neden gezmiş sorundalı
-bkz deniz gezmiş nereyi gezmiş sorundalı
-bkz deniz gezmiş gezmiş mi sorundalı
-bkz deniz gezmiş vs müjdat gezmiş
-bkz amerikanın deniz gezmişi verin fetulakı alın demesi
 bkz trumpın fedönün siyasi ayağı yunan şarkıcı fedön demesi
 bkz amerikanın fetullak gülene ne istediyse verdik demesi
 bkz amerikanın fetulak gülenle adnan oktarı takas edelim önerisi
