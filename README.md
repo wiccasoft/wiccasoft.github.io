@@ -1,5 +1,6 @@
 <!--
-bkz yılamz yozdilin boyu değil cücüklüğü önemli yazısı
+bkz soğan cücüğü vs atacücük
+bkz yılmaz yozdilin boyu değil cücüklüğü önemli yazısı
 bkz ikinci atacücük rte ise üçüncü atacücük kim sorundalı
 bkz en atacücük kim sorundalı
 bkz rte nin ikinci atacücük benim demesi
