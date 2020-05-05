@@ -1,5 +1,6 @@
 
 <!--
+bkz ibnenin evlatları
 bkz türkler internetin virüsleri mi sorundalı
 bkz ultrageyselilerin twitterdan ekşiye geçmesi
 bkz yaşasa götünü sildirmeyeceği adamlara entryi giren ezik ibneler
