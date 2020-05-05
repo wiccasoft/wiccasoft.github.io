@@ -1,4 +1,5 @@
 <!--
+bzk atacücükün hiç uluss seslenmemesi 
 bkz 161 boyundaki adama ulu önder demek
 bkz atacücük maymunların lideri mi sorundalı
 bkz ilk maymun türk müydü sorundalı
