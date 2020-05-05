@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/survivordaki-gay/ bkz yunus emre
 bkz minnak berat kayanın takım elbisesi
 https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/
 https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/&w=bg bkz minnak berat
