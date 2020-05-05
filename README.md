@@ -1,4 +1,5 @@
 <!--
+bkz swordfish teki mantık hatası
 bkz fatih portakal vs mehmet ali erbil
 bkz yılmaz özdil vs uğur mumcu
 bkz deniz gezmiş asılırken ne düşündü acaba sorundalı
