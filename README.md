@@ -1,4 +1,5 @@
 <!--
+bkz yılamz yodiliin cücük kadar adamı savunması
 bkz yılmaz yozdil boyu değil işlevi yazısı
 bkz cücük kadar adamı ata ilan etmek
 bkz cücüke kadar adama ata demek
