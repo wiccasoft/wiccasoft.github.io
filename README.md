@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki cücüke ata demek
 https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1l%C4%B1k/&w=bg bkz oç atacücük
 bkz oç atacücükün oç cücükleri övmesi
 bkz oç atacücük ve cücükler
