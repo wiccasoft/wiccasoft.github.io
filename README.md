@@ -1,4 +1,5 @@
 <!--
+bkz diyanetin makata üvey torunla evlilik helaldir fetvası
 bkz çok gezen mi bilir çok gememiş mi sorundalı
 bkz deniz gezmiş vs mejdat gezen
 bkz nekrofili vs pedofili
