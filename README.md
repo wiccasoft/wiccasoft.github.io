@@ -1,4 +1,5 @@
 <!--
+bkz fatih portakılıon 256 bit encryption la anlatması
 bkz fatih portakalı şifre kırıcı ile izlemek
 bkz fatih portakalın şifreli darbe iması
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo hug adasda
