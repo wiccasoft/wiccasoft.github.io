@@ -1,4 +1,5 @@
 <!--
+bkz cücük kadar adamı ata ilan etmek
 bkz cücüke kadar adama ata demek
 bkz 161 boyundaki cücüke ata demem için tek sebep söyleyin
 bkz 161 boyla cücüklerin atasıyım diyen cücüğü ciddiye alamamak
