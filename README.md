@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/tarih-%C3%B6%C4%9Fretmeni/&w=bg bkz serdar ortaçgil
 https://www.uludagsozluk.com/k/fox-tv-ana-haber-b%C3%BClteni/&w=bg bkz esnaf kan ağliy
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-%C5%9Fifreli-darbe-imas%C4%B1/ bkz ortalık karışacak beyler
 https://www.uludagsozluk.com/k/survivordaki-gay/ bkz yunus emre
