@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/allah-var-ulan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/muhalefetin-s%C4%B1kla%C5%9Fan-darbe-s%C3%B6ylemleri/&w=gd
 https://www.uludagsozluk.com/k/grup-yorumu-%C5%9Firinle%C5%9Ftiren-sahte-atat%C3%BCrkc%C3%BCler/
 https://www.uludagsozluk.com/k/alperen-kekilli/&w=bg bkz sibel kekillinin abisi
