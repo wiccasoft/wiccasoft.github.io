@@ -1,4 +1,5 @@
 <!-- 
+bkz dünya liderinin doları 10 lira yapacam sözü vermesi
 bkz dünya liderine muhalefet etmek
 bkz muhalefetin sıkışan darbe söylemleri iddası
 bkz stalinin atacücükten daha kalın olması
