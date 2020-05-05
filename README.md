@@ -1,4 +1,5 @@
 <!--
+bkz adam gibi adam deyince adkla gelen ilk adam
 bkz cem yılmaz adam mıdır sorundalı
 bkz cem yılamzın atacücükle geçtiği efso taşşak
 bkz minnak filozok atakan vs atacücük
