@@ -1,4 +1,5 @@
 <!--
+bkz yılmaz özdil vs uğur mumcu
 bkz deniz gezmiş asılırken ne düşündü acaba sorundalı
 bkz deniz gezmişin asıldığı karıya asılmak
 bkz deniz gezmiş asılmamış mıdır sorundalı
