@@ -1,4 +1,5 @@
 <!--
+bkz amerika futullak gülen veriyorum dese olacaklar
 bkz fetulak gülen yaşıyo mudur sorundalı
 bkz erdo fettullak üleni affetim dese olacaklar
 bkz blowfish algoristması vs fatih portakal
