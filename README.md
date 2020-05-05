@@ -1,8 +1,6 @@
 
 <!--
-bkz deniz gezmiş ve oç üç fidan
-bkz deniz gezmiş 161 di iddaları
-bkz deniz gezmişin oç olduğu gerçeği
+bkz deniz gezmiş vs müjdat gezmiş
 bkz amerikanın deniz gezmişi verin fetulakı alın demesi
 bkz trumpın fedönün siyasi ayağı yunan şarkıcı fedön demesi
 bkz amerikanın fetullak gülene ne istediyse verdik demesi
