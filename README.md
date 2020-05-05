@@ -1,4 +1,5 @@
 <!--
+bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
 bkz erdoğanın yozdile ecdad boya değil soya bakar soya demesi
 bkz fetullak gülenin elazığ dan villa arazisi bakması
 bkz oğlunun sikerek uyandıran tiktokçu baba
