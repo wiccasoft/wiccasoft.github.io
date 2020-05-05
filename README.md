@@ -1,4 +1,5 @@
 <!--
+bkz bu siteye ulaşılamıyor niye zorluyosun oç
 bkz diyanet ezan çalıştayının beyin kanartan vidyosu
 bkz diyanetin makata su kaçması helaldir fetvası
 bkz günlük 3 liraya entry giren karının oğlu
