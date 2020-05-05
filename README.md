@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrt-%C4%B1rkc%C4%B1l%C4%B1%C4%9F%C4%B1-ve-fa%C5%9Fizminin-%C3%B6nlenemez-y%C3%BCkseli%C5%9Fi/
 https://www.uludagsozluk.com/k/allah-var-ulan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/muhalefetin-s%C4%B1kla%C5%9Fan-darbe-s%C3%B6ylemleri/&w=gd
 https://www.uludagsozluk.com/k/grup-yorumu-%C5%9Firinle%C5%9Ftiren-sahte-atat%C3%BCrkc%C3%BCler/
