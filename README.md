@@ -2,6 +2,7 @@
 bkz adamın karekökü
 bkz adamlık aş yönetim kurulu bşk
 bkz geceye bırakılan adamı yiyen maymunlar
+bkz mansur yavaş imamaoğlandan göt istedi iddası
 bkz kena imirzalıoğlu varken 161 lik cücük gibi adam atam demek
 bkz burak öçzçivit adam mıdır
 bkz erkek deyince akla gelen adam
