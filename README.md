@@ -1,4 +1,5 @@
 <!-- 
+bkz sörfayfır yunus emre mi sörfafır berke can mıs sorundalı
 bkz sörfayfır yusuf un sörfayfır ekreme göt aoğlanı demesi
 bkz ekremin tam bi göt oğlanı çıkması
 bkz osman gökçekin keçiörene melik gökçek heykeli yaptıralım önerisi
