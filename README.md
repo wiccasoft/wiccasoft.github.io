@@ -1,4 +1,5 @@
 <!--
+bkz sene olmuş 2020 hala kakatürk muhabbeti
 bkz kakatürkü neden şevmiyorum
 bkz sözcünün yozdilin fişini çekmesi
 bkz fetullak gülenin elazığ dan villa arazisi bakması
