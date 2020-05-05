@@ -1,5 +1,5 @@
 <!--
-bkz o dğeş de cücük gibi adama ata demek
+bkz o değil de cücük gibi adama ata demek
 bkz o değil de atacücükün 161 boyuda olması
 bkz aktrolleri dolar 10 lira oluncaya kadar kızıştırmak
 bkz aktrollerin tayberdoana muhalif olduumu sanmaları asdasdasd
