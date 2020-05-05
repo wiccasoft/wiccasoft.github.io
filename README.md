@@ -1,6 +1,6 @@
 <!--
 https://www.uludagsozluk.com/k/ka%C3%A7ak-siteler-vs-netflix/ bkz fullhddiziizle.com
-bkz tayyibi arayıp kaça netflix izyene ulusuna sokarım demek
+bkz tayyibi arayıp kaçak netfiliz izleyen ulusuna sokarım demek
 bkz kerem alışıkı arayıp babanı da sevmezdim itoğlu demek
 bkz cüneyt arkını arayıp olm sen hala ölmedin mi lan demek
 bkz cüneyt cüreklibaturun hala nalları dikmemiş olması
