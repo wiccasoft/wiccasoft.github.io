@@ -1,4 +1,5 @@
 <!-- 
+bkz ak ata cücük kardeşliği
 bkz ata cücükü mikroskopla incelemek
 bkz ata cücükün çizgili mayosu
 bkz necip fazıl kısakürekin ata cücükten uzun olması
