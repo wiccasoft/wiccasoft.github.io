@@ -1,4 +1,5 @@
 <!--
+bkz 1881 atacücük 18+81 = 99 - 81 vilayet -batman = covid19
 bkz malum ırkın beni atacücük sanması
 bkz atacücükün cücükleri siklemdiği gerçeği
 bkz atacücük cücükleri siklemiyor mu sorundalı
