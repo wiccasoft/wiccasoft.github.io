@@ -1,4 +1,5 @@
 <!-- 
+bkz osman gökçekin keçiörene yaptırdığı gökçek heykeli
 bkz mustaf sandalın 171 olması
 bkz osman gökçek havay kaldırıp hanimiş kimin oğluymuş demek
 bkz berat kayayı kucağa alıp hoppidik hoppidik yapmak
