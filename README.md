@@ -1,4 +1,5 @@
 <!--
+bkz eşcücüksellerin atacücüke bakışı
 bkz eşccücüksel deyince akla gelenler
 bkz atacücükün eşcücüksellere bakışı
 bkz yunus emre vs sörfyafor yunus emre
