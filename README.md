@@ -1,5 +1,6 @@
 <!--
-bkz cüneyt arkını hala nalları dikmemiş olması
+bkz cüneyt arkını arayıp olm sen hala ölmedin mi lan demek
+bkz cüneyt cüreklibaturun hala nalları dikmemiş olması
 bkz hitler vs ataführer
 bkz führerin uluslara seslenmesi
 bkz atacücükün hiç cücüklere seslenmemesi
