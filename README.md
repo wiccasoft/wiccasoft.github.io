@@ -1,4 +1,5 @@
 <!--
+bkz kızlar soruyor com da ki küpe takan erkek adam mıdır kavgası
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=gd bkz toptur
 bkz kena imirzalıoğlu varken 161 lik cücük gibi adam atam demek
 bkz burak öçzçivit adam mıdır
