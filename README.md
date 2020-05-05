@@ -1,4 +1,5 @@
-<!--bkz atacücükün cücüklerin damarlarında asil kan falan var demesi
+<!--
+bkz atacücükün cücüklerin damarlarında asil kan falan var demesi
 bkz atacücükün cücükleri çok abarttığı gerçeği
 bkz atacücük ün cücükleri niye bu kadar abartması
 bkz atacücük bu maymunları niye övdü sorundalı
