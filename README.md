@@ -1,5 +1,6 @@
 
 <!--
+bkz salsa rumba çaça yapabilen bi erkeği üzmek
 bkz salsa yapan erke vs salça yapabilen erkek
 bkz am ağacında üç fidan vs duman avcıları
 bkz trump ın f-35 yerine f-22 raptor çekeyim abime demesi
