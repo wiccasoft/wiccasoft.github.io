@@ -1,5 +1,6 @@
 <!--
-bkz diyanert ezan öçalıştayı harıl harıl çalışırken kakanın uyuması
+bkz deniz gezmiş asılmadı mı sorundalı
+bkz diyanet ezan öçalıştayı harıl harıl çalışırken kakanın uyuması
 bkz diyanetin makata üvey torunla evlilik helaldir fetvası
 bkz çok gezen mi bilir çok gememiş mi sorundalı
 bkz deniz gezmiş vs mejdat gezen
