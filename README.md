@@ -1,4 +1,5 @@
 <!--
+bkz fatih tezcan ilk maymun cücüktü tezi
 bkz madem atacücükten geldik maymunlar cücük olmuyor
 bkz yılmaz yozdil boyu değil işlevi yazısı
 bkz yılmaz yozdilin cücük kadar adamı savunması
