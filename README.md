@@ -1,5 +1,6 @@
 <!-- 
 bkz yeni dünya düzenini nereye kursam sorundalı
+bkz türklerin güneşi kendi etraflarında döndüğünü sanmaları
 https://www.uludagsozluk.com/k/fox-tv-ana-haber-b%C3%BClteni/&w=bg bkz esnaf kan ağliy kan
 https://www.uludagsozluk.com/k/dolar-%C4%B1-1-tl-ye-d%C3%BC%C5%9F%C3%BCrecek-efsanevi-taktik/ lol
 https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz bkz sikin birbirinizi göte para vermeyin
