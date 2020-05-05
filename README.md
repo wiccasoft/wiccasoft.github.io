@@ -1,4 +1,5 @@
 <!-- 
+bkz ilber ortaçgil vs celak şengör
 bkz mustafa cengizin bağırsaklarından sarı kırmızı vibratör çıkması
 bkz ulus cebeci çankaya mansur yavaşla ankara bambaşkaaaaaaaaaa
 bkz osman gökçekin keçiörene yaptırdığı gökçek heykeli
