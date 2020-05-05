@@ -1,4 +1,5 @@
 <!--
+bkz bunu atacücüke sorsana delihuanlı
 bkz eşcücüksellerin atacücüke bakışı
 bkz eşccücüksel deyince akla gelenler
 bkz atacücükün eşcücüksellere bakışı
