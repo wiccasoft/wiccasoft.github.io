@@ -1,4 +1,5 @@
 <!-- 
+bkz fettullak gülenin elzığdan yalı arazisi alması
 bkz ortadoğulu maymunların hala adıma entry girememesi
 bkz ortadoğulu maymunların ilişki kurma çabası
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bkz ben
