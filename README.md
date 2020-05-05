@@ -1,4 +1,5 @@
 <!--
+bkz 161 boyundaki adam atam atam demek
 bkz atacücükün 161 boyunda olması
 bkz cücük gibi adama ata diyen malum ırk
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg zuahhahaha
