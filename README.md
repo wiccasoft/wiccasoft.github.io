@@ -1,5 +1,5 @@
 <!-- 
-https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz sikin birbiriniz göte para vermeyin
+https://www.uludagsozluk.com/k/ak-trollerin-aktifle%C5%9Fmesi/&w=bgbkz bkz sikin birbirinizi göte para vermeyin
 bkz fatih portaklın şifreli  senden hoşlanıyorum iması yapması
 bkz macun kaplıcalının gavat mıyım lan ben demesi
 bkz seyfo dayı duran emmiyi niye hoplattı sorundalı
