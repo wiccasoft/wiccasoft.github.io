@@ -1,4 +1,5 @@
 <!--
+bkz kena imirzalıoğlu varken 161 lik cücük gibi adam atam demek
 bkz burak öçzçivit adam mıdır
 bkz erkek deyince akla gelen adam
 bkz adam deyince akla gelenler
