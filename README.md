@@ -1,5 +1,6 @@
 <!--
 bkz cücüklerin 161 boyundaki adama ata demesi
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/grup-yorumu-%C5%9Firinle%C5%9Ftiren-sahte-atat%C3%BCrkc%C3%BCler/ lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz atacücük
 https://www.uludagsozluk.com/k/hayk%C4%B1rarak-s%C3%B6yl%C3%BCyorum-ben-t%C3%BCrk%C3%BCm-zorunuza-gitmesin/ bkz cücü
