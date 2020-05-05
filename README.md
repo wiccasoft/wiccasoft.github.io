@@ -1,4 +1,5 @@
 <!--
+bkz deniz gezmiş yazdıklarımızı okuyo mudur sorundalı
 bkz sen bize iş mi koyuyon repliği
 bkz sevdicek istemeyn erkek adam mıdır sorundalı
 bkz deniz gezmiş in gezdiği iddaları
