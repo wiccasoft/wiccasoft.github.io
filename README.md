@@ -1,4 +1,5 @@
 <!--
+bkz atacücüye neden kırgının anlatıyorum beyler
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-neden-sevmiyorum/&w=bg bkz 161 boy
 bkz necmettin erbakan saadet partisini görse ne derdi sorundalı
 bkz necmettin erbakan mı recep tayyip erdoğan mı sorundalı
