@@ -1,5 +1,6 @@
 
 <!--
+bkz deniz gezmiş ve oç üç fidan
 bkz deniz gezmiş 161 di iddaları
 bkz deniz gezmişin oç olduğu gerçeği
 bkz amerikanın deniz gezmişi verin fetulakı alın demesi
