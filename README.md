@@ -1,4 +1,5 @@
 <!--
+bkz atacücük neden cücüklerin atası sorundalı
 bkz atacücük 161 ise nasıl suvay oldu sorundalı
 bkz atacücükün 161 boyunda bir cüce olması
 https://www.uludagsozluk.com/e/43283504/ lol
