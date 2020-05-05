@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün çizgili mayosu
 bkz 161 boyundaki adamın cücüklerin atasıyım demesi
 bkz cücüklerin 161 boyundaki adama ata demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg lol
