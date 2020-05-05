@@ -1,5 +1,5 @@
 <!--
-bkz erdoğanın arayıp lan olm sen oruç tutmuyp nmu sorundalı demek
+bkz erdoğanın arayıp lan olm sen oruç tutmuyon mu sorundalı demek
 bkz erdoğan oruç tutmuyormu sorundalı
 bkz atacücükü neden sevmiyorum anlatıyorum okuyun
 bkz atacücük ile devlet bahçeli arasında kalmak
