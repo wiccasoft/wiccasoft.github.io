@@ -1,5 +1,6 @@
 <!--
 bkz atacücükün yaptıracağı yeni saray
+bkz meral pattes marreme soğan nası koydu amaa tayberdoan oooooooo
 bkz antalya rakı şiş kebap çok güzel arazi alacak ben
 bkz halk fakirken atacücükün zevk sefa içinde yaşaması
 bkz atacücükün mayo giymesine izin veren gavat
