@@ -1,5 +1,5 @@
 <!--
-bkz trump ın f-35 yerine f-22 rapor çekeyim abime demesi
+bkz trump ın f-35 yerine f-22 raptor çekeyim abime demesi
 bkz erdonun parası neyse fettulak güleni alalım demesi
 bkz amerika futullak gülen veriyorum dese olacaklar
 bkz fetulak gülen yaşıyo mudur sorundalı
