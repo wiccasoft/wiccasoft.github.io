@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün 161 boyunda bir cüce olması
 https://www.uludagsozluk.com/e/43283504/ lol
 https://www.uludagsozluk.com/k/fesli-maymun/&w=bg lol 
 bkz atacücüklük yan gelip yatma yeri değildir
