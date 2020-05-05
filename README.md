@@ -1,5 +1,6 @@
 
 <!--
+bkz trumpın fedönün siyasi ayağı yunan şarkıcı fedödn demesi
 bkz amerikanın fetullak gülene ne istediyse verdik demesi
 bkz amerikanın fetulak gülenle adnan oktarı takas edelim önerisi
 bkz salsa rumba çaça yapabilen bi erkeği üzmek
