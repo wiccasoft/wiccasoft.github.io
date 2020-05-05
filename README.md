@@ -1,5 +1,6 @@
 <!--
-bkz atacücük yunanları denzie döktü yalanı
+bkz tayberdoan kuşatma altında kaçtı yalanı
+bkz atacücük yunanları denize döktü yalanı
 bkz 161 boyundaki adama ata diyen ümmet
 bkz atacücüye neden kırgının anlatıyorum beyler
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-neden-sevmiyorum/&w=bg bkz 161 boy
