@@ -1,4 +1,5 @@
 <!--
+bkz atacücük taklidi yapan beyin kanartan tiktokçu
 bkz küçük filozok atakan vs atacücük
 bkz atacücük taklidi yapan tiktokçu
 bkz ümmet reisi varken atacücüke tapmak
