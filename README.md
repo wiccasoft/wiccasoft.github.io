@@ -1,6 +1,6 @@
 <!--
-bkz antalya rakı şiş kebap çok güzel arazi alacak ben
 bkz atacücükün yaptıracağı yeni saray
+bkz antalya rakı şiş kebap çok güzel arazi alacak ben
 bkz halk fakirken atacücükün zevk sefa içinde yaşaması
 bkz atacücükün mayo giymesine izin veren gavat
 bkz atacücükün çizgili mayosu
