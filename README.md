@@ -1,5 +1,5 @@
 <!--
-bkz tayyibin 100 milyar dolar parar mı lan it demesi
+bkz tayyibin 4.6 milyon liralık villa ney lan demesi
 bkz 33 mülüyün yürü verip ramosu alsak mı sorundalı
 bkz ramos adam mıdır sorundalı
 bkz adamın karekökü
