@@ -1,4 +1,5 @@
 <!--
+bkz atacücükün boy uzatma ameliyatı olması
 bkz 161 boyundaki adama atam sen kalk ben yatam demek
 bkz atacücükün 161 boyunda olması
 bkz cücük gibi adama ata diyen malum ırk
