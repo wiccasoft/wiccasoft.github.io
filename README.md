@@ -1,4 +1,5 @@
 <!--
+bkz deniz gezmiş in gezdiği iddaları
 bkz deniz gezmiş geziyo mudur sorundalı
 bkz karısını döven adam adam mıdır sorundalı
 bkz mahri çayan vs deniz gezmiş
