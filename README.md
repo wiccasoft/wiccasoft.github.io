@@ -1,4 +1,5 @@
 <!--
+bkz devlet bahçelinin tespihi
 bkz devlet bahçeli nin efso ayarı
 bkz tayberdoanın bilinmeyen fotoları
 bkz tayberdoğanı neden seviyorum sorundalı
