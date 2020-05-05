@@ -1,5 +1,5 @@
 <!--
-bkz madem atacücükten geldik maymunar cücük olmuyor
+bkz madem atacücükten geldik maymunlar cücük olmuyor
 bkz yılmaz yozdil boyu değil işlevi yazısı
 bkz yılmaz yozdilin cücük kadar adamı savunması
 bkz necip fazıl kısakürekin atacücükten uzun olması
