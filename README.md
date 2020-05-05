@@ -1,5 +1,5 @@
 <!--
-bkz macun kaplıcalının gavta mıyım lan ben iması
+bkz macun kaplıcalının yılın gavatı ben miyim lan iması
 bkz fatih portakılın 256 bit encryption la anlatması
 bkz fatih portakalı şifre kırıcı ile izlemek
 bkz fatih portakalın şifreli darbe iması
