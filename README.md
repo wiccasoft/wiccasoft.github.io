@@ -1,4 +1,5 @@
 <!-- 
+bkz öcü gibi korkuyorlar mao zeong yoldaşımdan
 bkz mao nun pezevenk olması
 bkz sörfayfır macun kaplıcalı vs sörfayır ata cücük
 bkz sörfayfur yunu emre vs ata cücük
