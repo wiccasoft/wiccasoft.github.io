@@ -1,4 +1,5 @@
 <!--
+bkz sözcünün yozdilin fişini çekmesi
 bkz fetullak gülenin elazığ dan villa arazisi bakması
 bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
 bkz erdoğanın yozdile ecdad boya değil soya bakar soya demesi
