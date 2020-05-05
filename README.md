@@ -1,4 +1,5 @@
 <!--
+https://www.youtube.com/watch?v=2KErN9bMrwM zuahhahahaha
 bkz rt news in rte ci olması
 bkz ruptly news ana haber bülteni vs fox & friends
 bkz fox & friends ın trump a yanlaması
