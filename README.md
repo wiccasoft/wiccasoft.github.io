@@ -1,4 +1,5 @@
 <!--
+bkz sabah bir atacücük bırak ana ezan okunuyomuş
 bkz atacücük 161 boyla eşcinsellere nasıl bakıyordu sarundalı
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg bkz toptur
 bkz diyanet ezan çalıştayı başkanının 180 olması
