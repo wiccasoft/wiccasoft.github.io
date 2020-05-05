@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg zuahhahaha
 bkz atacücünün 161 boyla nası lsubay olması sorundalı
 bkz cücülerin atacücüyle 161 diye  dalga geçmesi
 bkz atacücü 161 olması
