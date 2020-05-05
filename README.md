@@ -1,4 +1,5 @@
 <!--
+bkz heil führer
 bkz führerin uluslara seslenmesi
 bkz atacücükün hiç cücüklere seslenmemesi
 bkz ben senin bokunu yerim bokunu diyen bi topu üzmek
