@@ -1,4 +1,5 @@
 <!--
+bkz cem yılmaz adam mıdır sorundalı
 bkz cem yılamzın atacücükle geçtiği efso taşşak
 bkz minnak filozok atakan vs atacücük
 bkz çaycı hüseyin vs atacücük
