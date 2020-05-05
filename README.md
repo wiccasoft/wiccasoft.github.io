@@ -1,5 +1,6 @@
 
 <!--
+bkz 7 mayıs 1939 londor mondros mütakeresi
 bkz 4 mayıs 1947 dersim destanı
 bkz 3 mayıs türkçülük bayramı kutlamak varken 1 mauıs pkk bayramı kutlamak
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/ bkz gebermiş 
