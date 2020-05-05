@@ -1,10 +1,5 @@
 <!--
 https://www.uludagsozluk.com/k/allah-var-ulan-orospu-%C3%A7ocuklar%C4%B1/&w=bg hayallerde yaşıyor bazı ibneler
-bkz 161 ne lan cücük gibi
-bkz allak ın 171 olması
-bkz aktrollerin atacücükü zeki göstermek 161 iq demesi
-bkz atacücük 161 iq olduğu yalanı
-bkz atacücük 161 olması
 bkz mert akkaşın şikşokçulara küfr etmesi
 bkz pfdk nın türk futbolunu davar güder gibi gütmesi
 https://www.uludagsozluk.com/k/6-may%C4%B1s-2020-tff-nin-a%C3%A7%C4%B1klamalar%C4%B1/
