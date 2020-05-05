@@ -1,4 +1,5 @@
 <!--
+bkz atacücükü neden sevmiyorum anlatıyorum okuyun
 bkz atacücük ile devlet bahçeli arasında kalmak
 bkz devlet bahçeli nin pornosunu aramak
 bkz sabah ter içinde uyanıp devlet bahçeli demek
