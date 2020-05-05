@@ -1,4 +1,5 @@
 <!--
+bkz diyanetin makata su kaçması helaldir fetvası
 bkz günlük 3 liraya entry giren karının oğlu
 bkz ilber ortaçgil vs celal şenför
 bkz müjdat gezen vs deniz gezen
