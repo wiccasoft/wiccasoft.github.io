@@ -1,4 +1,5 @@
 <!-- 
+bkz macun kaplıcalının gavat mıyım lan ben demesi
 bkz seyfo dayı duran emmiyi niye hoplattı sorundalı
 bkz sevda tarramın ucundaki gay bakkal
 bkz sörfayfır daki gay
