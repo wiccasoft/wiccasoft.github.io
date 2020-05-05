@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz cücük 
 bkz yılmaz yozdilin cücük kadar adamı savunması
 bkz yılmaz yozdil boyu değil işlevi yazısı
 bkz cücük kadar adamı ata ilan etmek
