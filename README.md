@@ -1,5 +1,6 @@
 <!--
 bkz karısını döven adam
+bkz karısını çalıştırmayan gavat
 bkz günlük 3 liraya entry giren engelli karı ifşası
 https://www.youtube.com/watch?v=2KErN9bMrwM erdo hug
 bkz yeni dünya düzenini nereye kursam sorundalı
