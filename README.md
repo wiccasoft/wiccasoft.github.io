@@ -1,4 +1,5 @@
 <!--
+bkz 60 iq ile hayat tutunmaya çalışan uucu ibneler
 bkz ölü erkeğe entry girmek sevap mıdır sorundalı
 bkz deniz gezmiş yazdıklarımızı okuyo mudur sorundalı
 bkz sen bize iş mi koyuyon repliği
