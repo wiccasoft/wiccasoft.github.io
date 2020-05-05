@@ -1,4 +1,5 @@
 <!--
+bkz kakatürkü neden şevmiyorum
 bkz sözcünün yozdilin fişini çekmesi
 bkz fetullak gülenin elazığ dan villa arazisi bakması
 bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
