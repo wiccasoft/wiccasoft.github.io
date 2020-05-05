@@ -1,4 +1,5 @@
 <!--
+bkz şeytanın 5 feet 11 inch olması
 bkz atacücük 161 boyunda iddaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/&w=bg bkz ata cücük
 https://www.uludagsozluk.com/k/%C5%9Feytan-t%C3%BCrk%C3%A7e-yi-nerden-biliyor-sorunsal%C4%B1/ bkz google translate
