@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-neden-sevmiyorum/&w=bg neden abi anlat
 https://eksisozluk.com/iliski-istemeyen-erkek--1446392 bkz top
 bkz kemal kılışdaroğlan uyumuş mudur sorundalı
 bkz necmettin erbakan saadet partisini görseydi ne derdi sorundalı
