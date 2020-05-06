@@ -9,6 +9,7 @@ bkz serdar06 babanı sgötten sikerim  genç
 bkz serdar06 nın trumpla çine savaş açması
 bkz serdar06 ne kafası yaşıyor sorundalı
 bkz lorius karius un merve toya yürümesi
+https://www.uludagsozluk.com/k/sahurday%C4%B1z-uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=gd bkz iğrenösiniz lan ibneler
 bkz deniz gezmiş te yazdıklarınızı okuyorm udur sorundalı
 bkz deep turkish webteki homoseksüel ergenlerin beni akranı sanması
 bkz genşler moralinizi bozmak istemem ama yaş 42 kafası dahi 18 cm l boy 180 
