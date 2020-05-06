@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=2KErN9bMrwM lol
 bkz millet oya değil soya bakar soyaaaaaaaa bayyyyyyy kemal
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 https://www.youtube.com/watch?v=aeytLBm62eo lol
+bkz ayrıca fahreddin koca nın tayyibin iettden arkadaşı olmadığına emin misiniz 
 https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz siyasal islamın mimarı
 bkz yozdilin siktiriboktan villası vs tayyibin serveti
 bkz oğlunu sikerek uyandıran tiktokçu baba
