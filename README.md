@@ -7,6 +7,7 @@
 https://nesgayfe.uludagsozluk.com/ lol
 bkz berat albayyrak niye para basmıyor sorundalı
 bkz berat albayrak doları niye 2 liraya indirmiyor sorundalı
+bkz erdoğan gibi bi kamyon şöfrüne damad olmak iğrenç amk
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz berat albayrak
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz bakın burası şokomelli
 https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
