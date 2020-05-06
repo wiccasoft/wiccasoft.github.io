@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
-bkz türkiyedekile ne kafası yaşıyor sorundalı
+bkz türkiyedekiler ne kafası yaşıyor sorundalı
 bkz cumburlop maaşına göz dikecek kadar düşmek
 bkz oğlunu sikerek uyandıran tiktokçu baba
 bkz tarihte yaşayanları gerçeklerle sikerler
