@@ -5,7 +5,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz ben
-https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/ bkz ben
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 bkz dolar 10 lira olunca dolar milyarderi olacağım gerçeği
 https://www.uludagsozluk.com/k/memati-ba%C5%9F/&w=bg bkz ustasının köpeği
