@@ -3,6 +3,7 @@
 
 <!-- 
 bkz atacücükün çizgili mayosu
+https://www.uludagsozluk.com/k/dayanamam%C4%B1%C5%9Fsa-orucunu-han%C4%B1m%C4%B1yla-da-a%C3%A7abilir/ bkz iğrençsiniz amk
 https://eksisozluk.com/cok-ozlemisse-orucunu-esiyle-acabilir--6505852?a=popular lol
 https://eksisozluk.com/sevgilisinin-bikini-giymesine-izin-vermeyen-erkek--1201456?a=popular lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ lol
