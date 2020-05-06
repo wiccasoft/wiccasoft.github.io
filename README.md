@@ -5,6 +5,7 @@
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
 https://www.uludagsozluk.com/k/berat-kaya-tutuklans%C4%B1n/&w=gd bkz damadın minnak hali
+https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol 
 https://www.uludagsozluk.com/k/dolar-10-lira-da-olsa-ezanlar-susmayacak/ bkz dolar artıkça damadın ezanı köklemesi
 https://www.uludagsozluk.com/k/g%C3%BCniz-akku%C5%9F-un-sedat-peker-e-posta-koymas%C4%B1/ lol -->
 
