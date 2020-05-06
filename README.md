@@ -9,6 +9,11 @@ https://www.youtube.com/watch?v=h6Q9id4Q_js
 https://www.youtube.com/watch?v=aeytLBm62eo lol
 bkz yozdilin siktiriboktan villası vs tayyibin serveti
 bkz oğlunu sikerek uyandıran tiktokçu baba
+bkz yeni dünya düzenini nereye kursam sorundalı
+bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
+bkz tarihte yaşayanları gerçeklerle sikerler
+bkz cumburlop maaşına göz dikecek kadar düşmek
+bkz dedesi köyde eşşek siken milletin akıl vermesi
 https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz tayyipi ülkenize bela eden adam
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-helin-b%C3%B6lek-e-ihanet-etmesi/ çok skimdeydi amk-->
