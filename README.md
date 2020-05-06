@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
 <!-- 
+bkz ezan dinlemenin verdiği huzur dolar molar unutuyosun hacı
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz ben
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 bkz dolar 10 lira olunca dolar milyarderi olacağım gerçeği
