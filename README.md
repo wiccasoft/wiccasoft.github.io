@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
+bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 https://www.youtube.com/watch?v=aeytLBm62eo lol
