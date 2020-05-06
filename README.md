@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
 <!-- 
+https://www.youtube.com/watch?v=h6Q9id4Q_js bunları bilmeyen yok sanırım
 https://nesgayfe.uludagsozluk.com/ lol
 ben para pul anlamam yani umrumda deil ama ülkeye döviz sokmazsanız dolar artar tabi
 ama şu ezanı köklemeleri çekilir gibi deil en sonunda cari açık fazlası neyse verecem damada
