@@ -4,7 +4,8 @@
 
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
-https://www.uludagsozluk.com/k/dolar-saltanat%C4%B1-y%C4%B1k%C4%B1l%C4%B1yor/&w=gd ben para pul anlamam yani umrumda deil
+ben para pul anlamam yani umrumda deil ama ülkeye döviz sokmazsanız dolar artar tabi
+https://www.uludagsozluk.com/k/dolar-saltanat%C4%B1-y%C4%B1k%C4%B1l%C4%B1yor/&w=gd 
 https://www.uludagsozluk.com/k/berat-kaya-tutuklans%C4%B1n/&w=gd bkz damadın minnak hali
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol 
 https://www.uludagsozluk.com/k/dolar-10-lira-da-olsa-ezanlar-susmayacak/ bkz dolar artıkça damadın ezanı köklemesi
