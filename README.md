@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
+bkz dedesi köyde eşşek siken milletin akıl vermesi
 https://www.youtube.com/watch?v=ox93sf0-tPQ bkz türklerin özeti 
 bkz osman götçek göt mü çekiyo sorundalı
 bkz yazdığım yapay zekanın türklerden zeki olması
