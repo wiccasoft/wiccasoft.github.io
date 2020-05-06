@@ -5,6 +5,7 @@
 
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
+bkz berat albayyrak niye para basmıyor sorundalı
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz bakın burası şokomelli
 https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iett den arkadaşı
