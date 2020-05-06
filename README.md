@@ -5,6 +5,7 @@
 <!-- 
 bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
+bkz türkyediki %90 lık kesimin yaşdığını sanması
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 https://www.youtube.com/watch?v=aeytLBm62eo lol
 https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz siyasal islamın mimarı
