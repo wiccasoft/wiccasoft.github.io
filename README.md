@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
+bkz devlet bahçeli kulislerde osurdu iddası sorundalı
 bkz dedesi köyde eşşek siken milletin akıl vermesi
 https://www.youtube.com/watch?v=ox93sf0-tPQ bkz türklerin özeti 
 bkz ulus cebeci çankaya mansurla yavaşla ankara bambaşkaaaaaaaaa
