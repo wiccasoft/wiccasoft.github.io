@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
 <!-- 
+bkz dolar 10 lira olunca dolar milyarderi olacağım gerçeği
 https://www.uludagsozluk.com/k/memati-ba%C5%9F/&w=bg bkz ustasının köpeği
 https://nesgayfe.uludagsozluk.com/ lol
 bkz ezan sesini açınca doların imana gelmesi
