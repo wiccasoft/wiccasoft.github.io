@@ -3,6 +3,8 @@
 
 <!-- 
 bkz türklerin en pis ve ahlaksız millet olması
+bkz tarihte yaşayanları gerçeklerle sikerler
+bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
 https://eksisozluk.com/cok-ozlemisse-orucunu-esiyle-acabilir--6505852?a=popular lol
 https://eksisozluk.com/sevgilisinin-bikini-giymesine-izin-vermeyen-erkek--1201456?a=popular lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ lol
