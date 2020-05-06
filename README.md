@@ -5,10 +5,7 @@
 
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
-bkz berat albayyrak niye para basmıyor sorundalı
-bkz ezan sesnin açınca doların imana gelmesi
-bkz berat albayrak doları niye 2 liraya indirmiyor sorundalı
-bkz erdoğan gibi bi kamyon şöförüne damad olmak ya da tam tersi 
+bkz ezan sesini açınca doların imana gelmesi
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz berat albayrak
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz bakın burası şokomelli
