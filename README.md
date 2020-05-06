@@ -6,6 +6,7 @@
 bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
 bkz türkyediki %90 lık kesimin yaşdığını sanması
+bkz fakirleştikçe recebimi yedirmem diyen akboylar
 bkz millet soya değil oya bakar oyaaaaaaaa bayyyyyyy kemal
 bkz şaka maka imama hatiplinin türkiyeyi batırması
 bkz bi madalya daha mı versek acaba
