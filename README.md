@@ -3,11 +3,11 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz siyasal islamın mimarı
 bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 https://www.youtube.com/watch?v=aeytLBm62eo lol
+https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz siyasal islamın mimarı
 bkz yozdilin siktiriboktan villası vs tayyibin serveti
 bkz oğlunu sikerek uyandıran tiktokçu baba
 bkz yeni dünya düzenini nereye kursam sorundalı
