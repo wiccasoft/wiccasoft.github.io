@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/k/travestiyle-ili%C5%9Fkiye-giren-travestidir/ 
 https://eksisozluk.com/hugoda-kufreden-cocuk--998540?a=popular bkz oç
 https://www.uludagsozluk.com/k/galatasaray/ bkz sarayın takımı
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz berat albayrakın kayınçosu
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz bilalin kayınço dediği übermech
 https://eksisozluk.com/esini-aldatmayan-erkek--6507452?a=popular bkz  bkz bilal erdoğan
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular canım övdüm diyorum ısrar etme
