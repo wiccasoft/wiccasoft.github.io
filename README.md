@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
 <!-- 
+https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
 https://nesgayfe.uludagsozluk.com/ lol
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iett den arkadaşı
 ben para pul anlamam yani umrumda deil ama ülkeye döviz sokmazsanız dolar artar tabi
