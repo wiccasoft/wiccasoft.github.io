@@ -5,12 +5,10 @@
 
 <!-- 
 neyse hacıtlar enough internet today 
-https://www.uludagsozluk.com/k/g%C3%B6mle%C4%9Fi-kaslar%C4%B1yla-patlatan-tiktok%C3%A7u/ bkz ben
+https://www.uludagsozluk.com/k/g%C3%B6mle%C4%9Fi-kaslar%C4%B1yla-patlatan-tiktok%C3%A7u/ lol
 bkz ezan dinlemenin verdiği huzur dolar molar unutuyosun hacı
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz ben
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
-bkz dolar 10 lira olunca dolar milyarderi olacağım gerçeği
-https://www.uludagsozluk.com/k/memati-ba%C5%9F/&w=bg bkz ustasının köpeği
 https://nesgayfe.uludagsozluk.com/ lol
 bkz ezan sesini açınca doların imana gelmesi
 bkz diyanetin dolara ezan dinletebilirsiniz fetvası
