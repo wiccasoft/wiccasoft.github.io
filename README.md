@@ -5,7 +5,7 @@
 
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz şokomelli açıklamalar
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz bakın burası şokomelli
 https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iett den arkadaşı
 ben para pul anlamam yani umrumda deil ama ülkeye döviz sokmazsanız dolar artar tabi
