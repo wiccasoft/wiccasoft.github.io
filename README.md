@@ -1,6 +1,11 @@
 
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)](https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
+
+<!-- https://eksisozluk.com/elon-musk-tarzi-cocuk-ismi-onerileri--6506564?a=popular&p=2 lol 
+https://www.uludagsozluk.com/k/g%C3%BCniz-akku%C5%9F-un-sedat-peker-e-posta-koymas%C4%B1/ lol 
+-->
+
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
