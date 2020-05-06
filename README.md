@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
-https://www.youtube.com/watch?v=ox93sf0-tPQ bkz iğrenç türklerin özeti sahne
+https://www.youtube.com/watch?v=ox93sf0-tPQ bkz türklerin özeti 
 bkz osman götçek göt mü çekiyo sorundalı
 bkz yazdığım yapay zekanın türklerden zeki olması
 bkz ulus cebeci çankaya mansur yavaşla ankara bambaşkaaaaaaaaaa
