@@ -3,6 +3,7 @@
 
 <!-- 
 bkz oğlunu sikerek uyandıran tiktokçu baba
+bkz yeni dünya düzenini nereye kursam sorundalı
 bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
 bkz tarihte yaşayanları gerçeklerle sikerler
 bkz cumburlop maaşına göz dikecek kadar düşmek
