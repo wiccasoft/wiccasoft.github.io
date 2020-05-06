@@ -4,6 +4,8 @@
 <!-- 
 bkz dolar 10 lira olunca haber verin 
 bkz tarihte yaşayanları gerçeklerle sikerler
+bkz cumburlop maaşına göz dikecek kadar düşmek
+bkz oğlunu sikerek uyandıran tiktokçu baba
 bkz dedesi köyde eşşek siken milletin akıl vermesi
 https://www.youtube.com/watch?v=ox93sf0-tPQ bkz türklerin özeti 
 bkz ulus cebeci çankaya mansurla yavaşla ankara bambaşkaaaaaaaaa
