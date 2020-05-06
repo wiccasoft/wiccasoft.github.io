@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
+bkz türkiyedekile ne kafası yaşıyor sorundalı
 bkz cumburlop maaşına göz dikecek kadar düşmek
 bkz oğlunu sikerek uyandıran tiktokçu baba
 bkz tarihte yaşayanları gerçeklerle sikerler
@@ -10,7 +11,7 @@ bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
 bkz türklerin en pis ve ahlaksız millet olması
 bkz isayı arayıp hacı sen hani mehdi olarak zühur eyleyecektin noldu o iş demek
 bkz meryemin veledi zinayı tanrının oğlu diye kakalaması
-bkz ulus cebeci çankaya mansurla yavaşla ankra bambaşkaaaaaaaaa
+bkz ulus cebeci çankaya mansurla yavaşla ankara bambaşkaaaaaaaaa
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
 https://eksisozluk.com/cok-ozlemisse-orucunu-esiyle-acabilir--6505852?a=popular lol
 https://eksisozluk.com/sevgilisinin-bikini-giymesine-izin-vermeyen-erkek--1201456?a=popular lol
