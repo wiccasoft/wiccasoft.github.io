@@ -4,6 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
+https://www.uludagsozluk.com/k/abdli-belediye-ba%C5%9Fkan%C4%B1n%C4%B1n-k%C3%BCrdistan-logolu-maskesi/&w=bg 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum 
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460 bkz orhan bencegay
 https://eksisozluk.com/biyikli-diktator-denilince-akla-gelen-kisi--6506638?a=popular bkz stalin
