@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
+bkz fahreddin koca iett şöförü olmadığına emin mi sorundalı
 bkz tıp okumayanları ciddiye alamamak
 bkz türkiyedekiler ne kafası yaşıyor sorundalı
 bkz cumburlop maaşına göz dikecek kadar düşmek
