@@ -5,6 +5,7 @@
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/k/travestiyle-ili%C5%9Fkiye-giren-travestidir/ 
+https://eksisozluk.com/hugoda-kufreden-cocuk--998540?a=popular bkz oç
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular canım övdüm diyorum ısrar etme
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744/photo/1
 https://www.uludagsozluk.com/k/g%C3%B6mle%C4%9Fi-kaslar%C4%B1yla-patlatan-tiktok%C3%A7u/ 
