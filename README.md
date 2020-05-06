@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
-bkz dolar 10 lira olunca haber verin 
+bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
 bkz tarihte yaşayanları gerçeklerle sikerler
 bkz cumburlop maaşına göz dikecek kadar düşmek
 bkz oğlunu sikerek uyandıran tiktokçu baba
