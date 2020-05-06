@@ -2,29 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
-<!-- 
-bkz meral pattes marrem soğan
-bkz nası koydu ama tayberdoan ooooooooooo
-bkz türkyediki %90 lık kesimin yaşadığını sanması
-bkz tencerenin deviremediği iktidar yoktur s.demirel 
-bkz have you heard about ak party voters h.kissinger
-https://www.youtube.com/watch?v=2KErN9bMrwM lol
-bkz millet oya değil soya bakar soyaaaaaaaa bayyyyyyy kemal
-https://www.youtube.com/watch?v=h6Q9id4Q_js 
-https://www.youtube.com/watch?v=aeytLBm62eo lol
-https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz siyasal islamın mimarı
-bkz yozdilin siktiriboktan villası vs tayyibin serveti
-bkz oğlunu sikerek uyandıran tiktokçu baba
-bkz yeni dünya düzenini nereye kursam sorundalı
-bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
-bkz tarihte yaşayanları gerçeklerle sikerler
-bkz cumburlop maaşına göz dikecek kadar düşmek
-bkz dedesi köyde eşşek siken milletin akıl vermesi
-https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-helin-b%C3%B6lek-e-ihanet-etmesi/ çok skimdeydi amk
-bkz ayrıca fahreddin koca nın tayyibin iettden arkadaşı olmadığına emin misiniz bana kamyon şöförü gibi geldi de
--->
-
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
