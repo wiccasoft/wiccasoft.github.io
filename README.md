@@ -9,7 +9,7 @@ bkz türkyediki %90 lık kesimin yaşadığını sanması
 bkz tencerenin deviremediği iktidar yoktur s.demirel 
 bkz have you heard about ak party voters h.kissinger
 https://www.youtube.com/watch?v=2KErN9bMrwM lol
-bkz millet soya değil oya bakar oyaaaaaaaa bayyyyyyy kemal
+bkz millet oya değil soya bakar soyaaaaaaaa bayyyyyyy kemal
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 https://www.youtube.com/watch?v=aeytLBm62eo lol
 https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz siyasal islamın mimarı
