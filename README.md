@@ -1,29 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
-<!-- 
-bkz meral pattes marrem soğan
-bkz nası koydu ama tayberdoan ooooooooooo
-https://www.youtube.com/watch?v=h6Q9id4Q_js 
-https://www.youtube.com/watch?v=aeytLBm62eo lol
-bkz yozdilin siktiriboktan villası vs tayyibin serveti
-bkz oğlunu sikerek uyandıran tiktokçu baba
-bkz yeni dünya düzenini nereye kursam sorundalı
-bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
-bkz tarihte yaşayanları gerçeklerle sikerler
-bkz cumburlop maaşına göz dikecek kadar düşmek
-bkz dedesi köyde eşşek siken milletin akıl vermesi
-bkz diyanetin hanımı sahurda lavaş ekmeğiyen yiyebilünüz açıklaması
-https://www.youtube.com/watch?v=ox93sf0-tPQ bkz türklerin özeti 
-bkz ulus cebeci çankaya mansurla yavaşla ankara bambaşkaaaaaaaaa
-https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
-https://eksisozluk.com/cok-ozlemisse-orucunu-esiyle-acabilir--6505852?a=popular lol
-https://eksisozluk.com/sevgilisinin-bikini-giymesine-izin-vermeyen-erkek--1201456?a=popular lol
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-1-61-boyunda-olmas%C4%B1/ lol
-https://eksisozluk.com/s-harfinin-isme-kadinlik-kazandirmasi--6506320?a=popular lol
-https://www.uludagsozluk.com/k/oğlunu-hayvan-gibi-uyandıran-tiktokçu-baba/&w=gd lol
-https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259?a=popular lol
--->
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
