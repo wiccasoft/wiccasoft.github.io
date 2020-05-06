@@ -3,29 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
-<!-- 
-neyse hacıtlar enough internet today 
-https://www.uludagsozluk.com/k/g%C3%B6mle%C4%9Fi-kaslar%C4%B1yla-patlatan-tiktok%C3%A7u/ lol
-bkz ezan dinlemenin verdiği huzur dolar molar unutuyosun hacı
-https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz ben
-https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
-https://nesgayfe.uludagsozluk.com/ lol
-bkz ezan sesini açınca doların imana gelmesi
-bkz diyanetin dolara ezan dinletebilirsiniz fetvası
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/hamile-e%C5%9Fini-aldatan-erkek/ bkz berat albayrak
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz bakın burası şokomelli
-https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iett den arkadaşı
-ben para pul anlamam yani umrumda deil ama ülkeye döviz sokmazsanız dolar artar tabi
-ama şu ezanı köklemeleri çekilir gibi deil en sonunda cari açık fazlası neyse verecem damada
-https://www.uludagsozluk.com/k/albayrak-s%C3%B6zl%C3%BCkte-olsa-nicki-ne-olurdu/ bkz yüzüklerin efendisi
-https://www.uludagsozluk.com/k/dolar-saltanat%C4%B1-y%C4%B1k%C4%B1l%C4%B1yor/&w=gd 
-https://www.uludagsozluk.com/k/berat-kaya-tutuklans%C4%B1n/&w=gd bkz damadın minnak hali
-https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol 
-https://www.uludagsozluk.com/k/dolar-10-lira-da-olsa-ezanlar-susmayacak/ bkz dolar artıkça damadın ezanı köklemesi
-https://www.uludagsozluk.com/k/g%C3%BCniz-akku%C5%9F-un-sedat-peker-e-posta-koymas%C4%B1/ lol -->
-
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
