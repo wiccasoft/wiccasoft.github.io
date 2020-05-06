@@ -4,6 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
+https://www.uludagsozluk.com/k/7-may%C4%B1s-2020-t%C3%BCrk-liras%C4%B1na-yap%C4%B1lan-sald%C4%B1r%C4%B1/&w=gd yav he he
 https://eksisozluk.com/askida-fuckbuddy--6507821?a=popular bkz melik bayraktar
 https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259 bkz oç
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
