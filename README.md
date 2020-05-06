@@ -4,6 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz canım övdüm diyorum
 https://www.uludagsozluk.com/k/travestiyle-ili%C5%9Fkiye-giren-travestidir/ 
 https://eksisozluk.com/hugoda-kufreden-cocuk--998540?a=popular bkz oç
 https://www.uludagsozluk.com/k/galatasaray/ bkz sarayın takımı
