@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
-bkz atın intikamı adlı yeni kitabımın türkçe çevirileri yakında kitapçılarda
 bkz tarihte yaşayanları gerçeklerle sikerler
+bkz atın intikamı adlı yeni kitabımın yakında kitapçılarda
 bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
 bkz türklerin en pis ve ahlaksız millet olması
 https://eksisozluk.com/cok-ozlemisse-orucunu-esiyle-acabilir--6505852?a=popular lol
