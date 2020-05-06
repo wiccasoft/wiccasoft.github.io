@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/necmettin-erbakan/&w=bg bkz tayyipi ülkenize bela eden adam
 bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
