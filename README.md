@@ -8,6 +8,7 @@ bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
 bkz tarihte yaşayanları gerçeklerle sikerler
 bkz cumburlop maaşına göz dikecek kadar düşmek
 bkz dedesi köyde eşşek siken milletin akıl vermesi
+bkz diyanetin hanımı sahurda lavaş ekmeğiyen yiyebilünüz açıklaması
 https://www.youtube.com/watch?v=ox93sf0-tPQ bkz türklerin özeti 
 bkz ulus cebeci çankaya mansurla yavaşla ankara bambaşkaaaaaaaaa
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
