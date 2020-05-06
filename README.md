@@ -4,7 +4,6 @@
 <!--
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
-https://www.uludagsozluk.com/k/g%C3%BCnl%C3%BCk-3-lira-ile-ge%C3%A7inmeye-%C3%A7al%C4%B1%C5%9Fan-kad%C4%B1n/&w=bg lol
 https://www.uludagsozluk.com/k/travestiyle-ili%C5%9Fkiye-giren-travestidir/ 
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular canım övdüm diyorum ısrar etme
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744/photo/1
