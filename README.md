@@ -4,7 +4,7 @@
 <!-- 
 bkz oğlunu sikerek uyandıran tiktokçu baba
 bkz tarihte yaşayanları gerçeklerle sikerler
-bkz atın intikamı adlı yeni kitabımın yakında kitapçılarda
+bkz atın intikamı adlı yeni kitabım yakında kitapçılarda
 bkz dolar 10 tl olunca dolar milyarderi olacağım gerçeği
 bkz türklerin en pis ve ahlaksız millet olması
 https://www.uludagsozluk.com/k/ortado%C4%9Fu-nun-kazanan%C4%B1/ bir bilmecem var çocuklay haydi soy soy
