@@ -4,7 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
-https://eksisozluk.com/askida-fuckbuddy--6507821?a=popular bkz selçuk bayraktar
+https://eksisozluk.com/askida-fuckbuddy--6507821?a=popular bkz melik bayraktar
 https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259 bkz oç
 https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
 https://www.uludagsozluk.com/k/abdli-belediye-ba%C5%9Fkan%C4%B1n%C4%B1n-k%C3%BCrdistan-logolu-maskesi/&w=bg 
