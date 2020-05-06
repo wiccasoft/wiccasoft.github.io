@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/g%C3%BCniz-akku%C5%9F-un-sedat-peker-e-posta-koym
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
-[![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
+[![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.youtube.com/watch?v=BnZb5c5W9GM )
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
