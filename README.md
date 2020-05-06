@@ -4,6 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
+https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
 https://www.uludagsozluk.com/k/abdli-belediye-ba%C5%9Fkan%C4%B1n%C4%B1n-k%C3%BCrdistan-logolu-maskesi/&w=bg 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum 
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460 bkz orhan bencegay
