@@ -1,18 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
-<!-- 
-https://www.youtube.com/watch?v=2KErN9bMrwM lol 
-https://www.youtube.com/watch?v=EfAsNffCjsM  lol
-bkz serdar06 ne kafası yaşıyor sorundalı
-bkz siksokçu babanın serdar06 ya sokarak uyandırması
-https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-na-sorulacak-alternatif-sorular/ sor amınoğlu sor 
-https://www.uludagsozluk.com/k/sahurday%C4%B1z-uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=gd bkz iğrençsiniz lan ibneler
-https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/ lol
-https://www.uludagsozluk.com/k/o%C4%9Flunu-hayvan-gibi-uyand%C4%B1ran-tiktok%C3%A7u-baba/&w=gd lol
-https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259?a=popular lol 
-https://www.online-xxx-show.com/ money machine -->
-
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
 <!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
