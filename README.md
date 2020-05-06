@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/k/g%C3%B6mle%C4%9Fi-kaslar%C4%B1yla-patlatan-tiktok%C3%A7u/ 
 https://eksisozluk.com/elon-musk-tarzi-cocuk-ismi-onerileri--6506564?a=popular&p=2 lol 
