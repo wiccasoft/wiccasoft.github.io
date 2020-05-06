@@ -4,10 +4,8 @@
 https://www.youtube.com/watch?v=2KErN9bMrwM lol 
 https://www.youtube.com/watch?v=EfAsNffCjsM  lol
 bkz serdar06 ne kafası yaşıyor sorundalı
-bkz çok şükür ve botokslu pembe teskerili değilim
-bkz gele adıma başlık açında annenizi götten sikeyim oç ları sizi
 bkz siksokçu babanın serdar06 ya sokarak uyandırması
-https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-na-sorulacak-alternatif-sorular/ sor amınoğlu ayı ikiye yardı işte
+https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-na-sorulacak-alternatif-sorular/ sor amınoğlu sor 
 https://www.uludagsozluk.com/k/sahurday%C4%B1z-uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=gd bkz iğrençsiniz lan ibneler
 bkz genşler moralinizi bozmak istemem ama yaş 42 kafası dahil 18 cm boy 180 ve heteroyum 
 https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/ lol
