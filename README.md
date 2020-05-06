@@ -3,6 +3,7 @@
 <!-- 
 https://www.youtube.com/watch?v=2KErN9bMrwM lol 
 https://www.youtube.com/watch?v=EfAsNffCjsM  lol
+https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/ lol
 https://www.uludagsozluk.com/k/o%C4%9Flunu-hayvan-gibi-uyand%C4%B1ran-tiktok%C3%A7u-baba/&w=gd lol
 https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259?a=popular lol 
 https://www.online-xxx-show.com/ money machine -->
