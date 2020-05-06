@@ -6,7 +6,7 @@
 bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
 bkz türkyediki %90 lık kesimin yaşdığını sanması
-bkz şaka maka tayyipin türkiyeyi batırması
+bkz şaka maka imama hatiplinin türkiyeyi batırması
 bkz bi madalya daha mı versek acaba
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 https://www.youtube.com/watch?v=aeytLBm62eo lol
