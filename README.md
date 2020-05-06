@@ -6,7 +6,7 @@
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
 bkz berat albayyrak niye para basmıyor sorundalı
-bkz ezan sesnin açınca doların biraz sakinleşmesi
+bkz ezan sesnin açınca doların imana gelmesi
 bkz berat albayrak doları niye 2 liraya indirmiyor sorundalı
 bkz erdoğan gibi bi kamyon şöförüne damad olmak ya da tam tersi 
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
