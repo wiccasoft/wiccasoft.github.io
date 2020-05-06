@@ -2,7 +2,8 @@
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol -->
+<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-helin-b%C3%B6lek-e-ihanet-etmesi/ çok skimdeydi amk-->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
