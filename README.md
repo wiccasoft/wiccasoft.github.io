@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=EfAsNffCjsM  lol
 bkz peki deniz gezmiş de entryleri okucak mı
 bkz annesizi göttten sikerim genşler götten
 bkz serdar06 babanı sgötten sikerim  genç
+bkz serdar06 nın trumpla çine savaş açması
 https://www.uludagsozluk.com/k/jandarmadan-ka%C3%A7arken-kalp-krizi-ge%C3%A7iren-gen%C3%A7/ bkz oç genç
 https://www.uludagsozluk.com/k/s%C4%B1pay%C4%B1-k%C3%B6peklere-par%C3%A7alatan-%C5%9Fah%C4%B1s/ lol
 https://www.uludagsozluk.com/k/o%C4%9Flunu-hayvan-gibi-uyand%C4%B1ran-tiktok%C3%A7u-baba/&w=gd lol
