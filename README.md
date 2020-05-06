@@ -5,6 +5,7 @@
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum 
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460 bkz orhan bencegay
 https://eksisozluk.com/biyikli-diktator-denilince-akla-gelen-kisi--6506638?a=popular bkz stalin
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz canım övdüm diyorum
 https://www.uludagsozluk.com/k/travestiyle-ili%C5%9Fkiye-giren-travestidir/ 
