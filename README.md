@@ -6,6 +6,8 @@
 bkz meral pattes marrem soğan
 bkz nası koydu ama tayberdoan ooooooooooo
 bkz türkyediki %90 lık kesimin yaşadığını sanması
+bkz tencerenin deviremediği iktidar yoktur s.demirel 
+bkz have you heard about ak party voters
 https://www.youtube.com/watch?v=2KErN9bMrwM lol
 bkz millet soya değil oya bakar oyaaaaaaaa bayyyyyyy kemal
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
