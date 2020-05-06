@@ -4,6 +4,7 @@
 
 <!-- 
 https://nesgayfe.uludagsozluk.com/ lol
+https://www.uludagsozluk.com/k/dolar-10-lira-da-olsa-ezanlar-susmayacak/ bkz dolar artıkça damadın ezanı köklemesi
 https://www.uludagsozluk.com/k/g%C3%BCniz-akku%C5%9F-un-sedat-peker-e-posta-koymas%C4%B1/ lol -->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
