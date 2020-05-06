@@ -4,12 +4,13 @@
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
 
 <!-- 
-https://www.uludagsozluk.com/k/albayrak-s%C3%B6zl%C3%BCkte-olsa-nicki-ne-olurdu/ bkz yüzüklerin efendisi
-https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
+
 https://nesgayfe.uludagsozluk.com/ lol
+https://www.uludagsozluk.com/e/43289150/ bu adamın doktor olduğuna emin misinz?
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz tayyibin iett den arkadaşı
 ben para pul anlamam yani umrumda deil ama ülkeye döviz sokmazsanız dolar artar tabi
 ama şu ezanı köklemeleri çekilir gibi deil en sonunda cari açık fazlası neyse verecem damada
+https://www.uludagsozluk.com/k/albayrak-s%C3%B6zl%C3%BCkte-olsa-nicki-ne-olurdu/ bkz yüzüklerin efendisi
 https://www.uludagsozluk.com/k/dolar-saltanat%C4%B1-y%C4%B1k%C4%B1l%C4%B1yor/&w=gd 
 https://www.uludagsozluk.com/k/berat-kaya-tutuklans%C4%B1n/&w=gd bkz damadın minnak hali
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-batmak-%C3%BCzere-olmas%C4%B1&w=gd/4/ lol 
