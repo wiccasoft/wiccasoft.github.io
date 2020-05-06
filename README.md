@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)]( https://www.online-xxx-show.com/ )
 
 <!-- 
+bkz yodizlin siktiriboktan villası vs tayyibin serveti
 bkz oğlunu sikerek uyandıran tiktokçu baba
 bkz yeni dünya düzenini nereye kursam sorundalı
 bkz 1 dolar 10 lira olunca haber verin 1 koyup 10 alacam
