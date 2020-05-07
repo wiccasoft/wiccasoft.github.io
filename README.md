@@ -10,6 +10,7 @@ bkz berat ın ezan çalıştayını düzene sokması
 bkz bi gülüşü var kankağ hihihih hohohohohoo 
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
+https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bi koydum fırladı
 https://www.uludagsozluk.com/k/pkk-ya-maske-g%C3%B6ndermek/&w=gd kuzenim yollamış kankağ 
 https://twitter.com/dokuz8news/status/1234419477674168321/photo/1 zuhahhahaha
 https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ kankağ dolarla kazanıyok
