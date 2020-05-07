@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+bkz ha bi de fatih tezcan kim amk
 bkz işte bunlar hep hırtlar vadisi izlemekten
 bkz olm ne içiyonuz lan sosyal medya kullanan botokslu mafya mı olur
 bkz türkiyenin mafya dediği karakterleri colombiyalılar görse götüyle güler amk
