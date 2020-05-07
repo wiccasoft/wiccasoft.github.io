@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ben kefilim adamdır
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula adam heralde
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
