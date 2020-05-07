@@ -3,6 +3,7 @@
 
 <!-- 
 bkz barzo dili ve edebiyatı
+https://www.uludagsozluk.com/k/kolye-takan-erkek/&w=bg vurduruyodur kankağğğ
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/e/43291801/ lol
 https://www.uludagsozluk.com/e/43292038/ lol
