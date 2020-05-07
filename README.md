@@ -11,7 +11,7 @@ bkz bi gülüşü var kankağ hihihih hohohohohoo
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
 bkz çalışmadan zengin olacağını sanan çomarlar
-bkz kapitalisime hoşgeldiniz çomarlar serbest piyasa ekonomisi budur 
+bkz kapitalisme hoşgeldiniz çomarlar serbest piyasa ekonomisi budur 
 bkz kötü haber hiç bir devlet memuru sizi kurtarmayacak
 bkz atamın dediği gibi komunizm parayı feminizm kocayı bulana kadardır
 bkz yattığı yerden doları düşürün yeaa diyen muhalif
