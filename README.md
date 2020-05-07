@@ -4,6 +4,7 @@
 <!-- 
 bkz barzo dili ve edebiyatı
 bkz murat cemcir vs ahmet kural
+bkz o değil de yeni dünya düzenini nerey kursam sorundalı
 bkz ezan lobisi iş başına yetişin minnaklaaaaaaaa 
 bkz bi gülüşü var sanırsın sana gülüyo kankağ asdasdasdasdsadadad
 bkz ezanlarımız susturamaycaksınız oçları
