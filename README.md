@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+bkz ata türk ne içiyodu sorundalı
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz türk oğlu türk
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz gözleri adam şeklinde gülen adam
