@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/e/43291801/ lol
 https://www.uludagsozluk.com/e/43292038/ lol
+https://eksisozluk.com/entry/106742397 lol
 bkz barzo dili ve edebiyatı hihihihohohohoho
 bkz siyonizm başliyo yetişin komşulağğğğğğğğğğ
 bkz sen kim köpek siyonizme hizmet etmiyosun
