@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+bkz ekonomistlerin biraz salak olamsı
 bkz bakın bakın keynesgen ekonomi modeliyle doları 1 lira yapacam
 bkz yok mu doları keskin bakışlarıyla eritecek yiğido
 bkz burak özçivitin bakışlarıyla doları eritmesi
