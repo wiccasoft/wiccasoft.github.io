@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz adam deyince yavaşça beliren simalar
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz adamlığına doyulamayan adamlar
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavaş mavaş ama adam
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg adamdır adam
