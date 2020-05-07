@@ -11,6 +11,7 @@ bkz bi gülüşü var kankağ hihihih hohohohohoo
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
 bkz çalışmadan zengin olacağını sanan çomarlar
+bkz dedesi köyde eşşek siken milletin akıl vermesi
 bkz kapitalisme hoşgeldiniz çomarlar serbest piyasa ekonomisi budur 
 bkz size yardım edene tekme atmasaydınız zamanında belki daya iyi olurdu sonunuz oç ları sizi
 bkz kötü haber hiç bir devlet memuru sizi kurtarmayacak
