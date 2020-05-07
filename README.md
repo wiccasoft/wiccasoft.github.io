@@ -4,8 +4,6 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
-https://www.uludagsozluk.com/k/atatürk-ün-1-61-boyunda-olması/&w=bg
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/&w=bg
 https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q
 bkz yok mu doları keskin bakışlarıyla eritecek yiğido
 bkz burak özçivitin bakışlarıyla doları eritmesi
