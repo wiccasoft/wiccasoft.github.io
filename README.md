@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg olm ölmüş ya la bu
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
 https://www.uludagsozluk.com/k/rall-frank-lucas-telefoncu-ekrem-agca-iyesta-sert/ adam gibi adamlar
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinden-memnun-olan-or%C3%A7o-muhalif/ bkz amınoğlu ekrem
