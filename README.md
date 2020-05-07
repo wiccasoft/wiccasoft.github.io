@@ -5,6 +5,7 @@
 bkz barzo dili ve edebiyatı
 bkz murat cemcir vs ahmet kural
 bkz bi gülüşü var sanırsın sana gülüyo kankağ
+https://www.uludagsozluk.com/k/ingiltere-nin-rte-nin-yard%C4%B1m%C4%B1n%C4%B1-geri-g%C3%B6ndermesi/ lol
 https://serdarsl06.uludagsozluk.com/ bkz yazık la kimin çocuysa
 https://serdarsl06.uludagsozluk.com/ bu velet trumpçıydı di mi hadi bakalım
 https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi gülüşü var kankağ yaşaman lazım
