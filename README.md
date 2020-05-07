@@ -1,66 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
-<!-- 
-bkz barzo dili ve edebiyatı
-bkz murat cemcir vs ahmet kural
-bkz tayyipin mgk yı toğlaması
-bkz ali ihsan yavuz un ortaya çıkması
-bkz berat ın ezan çalıştayını düzene sokması
-bkz bi gülüşü var kankağ hihihih hohohohohoo 
-bkz tayyipin dolar artıyo diye sevinmesi
-bkz ali ihsan yavuzun zühur eylemesi
-bkz çalışmadan zengin olacağını sanan çomarlar
-bkz dedesi köyde eşşek siken milletin akıl vermesi
-bkz kapitalisme hoşgeldiniz çomarlar serbest piyasa ekonomisi budur 
-bkz size yardım edene tekme atmasaydınız zamanında belki daya iyi olurdu sonunuz oç ları sizi
-bkz kötü haber hiç bir devlet memuru sizi kurtarmayacak
-bkz atamın dediği gibi komunizm parayı feminizm kocayı bulana kadardır
-bkz yattığı yerden doları düşürün yeaa diyen muhalif
-bkz türklerin dünyanın en tembel milleti olması
-merale pattes marreme soğan nası koydu ama tayberdoan oooooooooooo ooooooooooooooo
-https://www.uludagsozluk.com/k/muhaliflerin-sanki-birazc%C4%B1k-hakl%C4%B1-olmas%C4%B1/ zuhahahaha
-https://www.uludagsozluk.com/k/dolara-yeni-isim-bulal%C4%B1m/ dolsa nolur accık dolsun işte
-https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bi koydum fırladı
-https://www.uludagsozluk.com/k/pkk-ya-maske-g%C3%B6ndermek/&w=gd kuzenim yollamış kankağ 
-https://twitter.com/dokuz8news/status/1234419477674168321/photo/1 zuhahhahaha
-https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ kankağ dolarla kazanıyok
-https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihohohoho
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-yeni-mesle%C4%9Fi/ bkz serbest raaad kebap yani
-https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihihihi
-bkz o değil de cumburlop maaşına zam mı yapsam lan ne diyonuz kankağlaa
-bkz trumpa 5 kamyon daha maske mi yollasak la arayı sıcak tutar he miiii
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-yeni-mesle%C4%9Fi/ new world order
-bkz o değil de yeni dünya düzenini nerey kursam sorundalı
-bkz ezan lobisi iş başına yetişin minnaklaaaaaaaa 
-bkz bi gülüşü var sanırsın sana gülüyo kankağ asdasdasdasdsadadad
-bkz ezanlarımız susturamaycaksınız oçları
-bkz yılan eti yiyileeee fare kanı içiyleeeeeeee
-https://www.uludagsozluk.com/k/pkk-ya-maske-g%C3%B6ndermek/ bkz dış minnakların işi
-https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-ortaya-%C3%A7%C4%B1kmas%C4%B1/&w=bg nerelerdesin be mübarrek
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/merkez-bankas%C4%B1-dolar-bass%C4%B1n/ lol
-https://www.uludagsozluk.com/k/ingiltere-nin-rte-nin-yard%C4%B1m%C4%B1n%C4%B1-geri-g%C3%B6ndermesi/ lol
-https://serdarsl06.uludagsozluk.com/ bu velet trumpçıydı di mi 
-https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi gülüşü var kankağ yaşaman lazım
-https://www.uludagsozluk.com/k/küpe-takan-erkek-adam-mıdır/ adamdır kankağ ben kefilim
-https://www.uludagsozluk.com/k/tugay-mercan-murat-cemcir-benzerli%C4%9Fi/ bkz tıpkısının aynısı lan işte
-https://www.uludagsozluk.com/k/g%C3%BCl%C3%BC%C5%9F%C3%BC-g%C3%BCzel-erkek/ bkz ahmet kural
-https://www.uludagsozluk.com/k/kolye-takan-erkek/&w=bg vurduruyodur kankağğğ
-https://www.uludagsozluk.com/k/uzun-sa%C3%A7l%C4%B1-erkek/&w=bg bkz top
-https://www.uludagsozluk.com/e/43289150/ lol
-https://www.uludagsozluk.com/e/43291801/ lol
-https://www.uludagsozluk.com/e/43292038/ lol
-https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
-https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdasda 
-https://www.uludagsozluk.com/k/fatih-terim-heykeli/ bkz taşşaklarına beton yetmz kankağğğğğğğğ
-https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi güşlüşü var sanırsın sana gülüyo
-https://www.uludagsozluk.com/k/murat-cemcir-g%C3%BCl%C3%BC%C5%9F%C3%BC/ hele yarrama bak hele
-https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak hele
-https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
-https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinin-faydalar%C4%B1/
--->
-
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
