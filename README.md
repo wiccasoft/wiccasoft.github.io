@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/e/43289150/ lol
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdasda 
 -->
