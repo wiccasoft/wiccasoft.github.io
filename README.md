@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
 https://www.uludagsozluk.com/k/yakas%C4%B1nda-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-amblemi-ta%C5%9F%C4%B1yan-m%C3%BCzisyen/
 https://www.uludagsozluk.com/k/fatih-tezcan-a-g%C3%B6nderilen-tehdit-dolu-e-posta/ bkz dış minnaklar
 https://eksisozluk.com/bir-erkegi-kaybetmenin-en-kisa-yolu--5923534?a=popular içine al kankağ
