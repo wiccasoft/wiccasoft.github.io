@@ -1,6 +1,11 @@
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
+<!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz adamın ham maddesi 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz adamın karekökü
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz droneların efendisi 
+--->
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
