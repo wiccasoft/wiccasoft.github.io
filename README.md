@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+https://www.uludagsozluk.com/k/necmettin-bat%C4%B1rel/&w=bg bkz adamın şakkadanak hali
+https://www.uludagsozluk.com/k/kemal-dervi%C5%9F/&w=bg bkz adamın kemale ermiş hali
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
 https://www.uludagsozluk.com/k/khontkar/&w=bg adamın adamantuyumlu hali
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz adamın askıda kalmış hali
