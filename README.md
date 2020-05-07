@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/e/43292038/ lol
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdasda 
 https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak hele
+https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinin-faydalar%C4%B1/
 -->
 
