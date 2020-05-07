@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/e/43291801/ lol
 https://www.uludagsozluk.com/e/43292038/ lol
-bkz barzo dili ve edebiyatı
+bkz barzo dili ve edebiyatı hihihihohohohoho
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdsadfa
 https://serdarsl06.uludagsozluk.com/ bkz yılan eti yiyileeeee yarasa kanı içileeeeeeeeeeeee
