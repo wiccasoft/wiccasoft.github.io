@@ -11,8 +11,6 @@ bkz siyonizm başliyo yetişin komşulağğğğğğğğğğ
 bkz sen kim köpek siyonizme hizmet etmiyosun
 bkz vur vur kafasına kafasına çivi gibi çivi gibi çak çak çak
 https://www.uludagsozluk.com/k/covid-19-%C5%9Feklinde-ekmek/ lol
-https://www.uludagsozluk.com/k/dedi%C4%9Fini-yapt%C4%B1rmak-i%C3%A7in-%C3%B6l%C3%BCm-orucu-tutmak/ bkz soros
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz siyonizmin kuklası
 bkz keynesgen ekonomiye hoşgeldiniz çomarlar sörfayfır başlıyor ar yuuuuuu rediiiii
 https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ bkz sen kim köpek 
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
@@ -25,11 +23,6 @@ https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak he
 https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinin-faydalar%C4%B1/
 https://eksisozluk.com/tl-deger-kaybini-akpye-baglayan-tip--6508312?a=popular lol
-https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz bi koydum fırladı,
-https://eksisozluk.com/evli-bir-erkege-asik-olmak--1553911?a=popular bkz berat mı kız kaptırmam kız saha ohuuuu
-https://www.uludagsozluk.com/k/kenan-imirzal%C4%B1o%C4%9Flu-na-benzeyen-adam/ nasılım kızlar
-https://www.uludagsozluk.com/k/hz-mehdi-istanbul-da-zuhur-etmi%C5%9Ftir/&w=bg duhüldür o zühur olsa duramazsın
-https://www.uludagsozluk.com/k/skandal-%C3%A7ocuk-damat-videosu/ ortadoğuda sıradan bir gün
 -->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
