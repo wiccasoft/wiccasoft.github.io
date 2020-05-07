@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz adamın askıda kalmış hali
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ismine bağlı kankağ
 bkz öyle bi isim söyle ki adamlar adamlığından utansın kankağ
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
