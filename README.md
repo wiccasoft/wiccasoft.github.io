@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak he
 https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinin-faydalar%C4%B1/
 https://eksisozluk.com/tl-deger-kaybini-akpye-baglayan-tip--6508312?a=popular lol
+https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz bi koydum fırladı
 -->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
