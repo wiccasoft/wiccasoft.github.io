@@ -13,15 +13,10 @@
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
-<!--https://mrdeepfakes.com/video/7350/due-lipa-finish-him-2-dfl-2-0 -->
 
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
 
-<!--
-https://mrdeepfakes.com/video/6307/aleyna-tilki-proves-a-handful-of-skills
-https://mrdeepfakes.com/video/7525/seyma-subasi-is-still-hungry-for-hot-cum
-https://mrdeepfakes.com/video/7422/aleyna-tilki-gives-a-bj-with-happy-ending
--->
+
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
