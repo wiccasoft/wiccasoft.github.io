@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg yiğit bulut adam mıdır sorundalı
 bkz bilim adamları adam mıdır sorundalı
 bkz gelinim olur musun caner adam mıdır sorundalı
 bkz o değil de caner tülin vardı noldu onlara
