@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+https://nesgayfe.uludagsozluk.com/ lol
 https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
 bkz ateş toprak hava selülöz
