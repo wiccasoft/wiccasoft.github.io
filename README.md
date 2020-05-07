@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg iftira atma oç
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ben kefilim adamdır
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula adam heralde
