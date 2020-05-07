@@ -4,7 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavaş mavaş ama adam
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg adamdır adam
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz adam diyince akla gelen ilk adam
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz drone diyince akla gelen ilk adam
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz imamoğlu ekrem bey diyeceksiniz
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz her türk asker doğarın karşlığı er
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri/&w=bg bkz adamın harman olduğu yerden gelen erkler
@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz adamlığın kitabını ye
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz adamın karekökü
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz droneların efendisi 
 --->
+
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
