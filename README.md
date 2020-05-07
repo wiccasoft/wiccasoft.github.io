@@ -9,6 +9,7 @@ bkz ali ihsan yavuz un ortaya çıkması
 bkz berat ın ezan çalıştayını düzene sokması
 bkz bi gülüşü var kankağ hihihih hohohohohoo 
 bkz tayyipin dolar artıyo diye sevinmesi
+bkz ali ihsan yavuzun zühur eylemesi
 https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihohohoho
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-yeni-mesle%C4%9Fi/ bkz serbest raaad kebap yani
 https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihihihi
