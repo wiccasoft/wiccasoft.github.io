@@ -11,6 +11,7 @@ bkz bi gülüşü var kankağ hihihih hohohohohoo
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
 merale pattes marreme soğan nası koydu ama tayberdoan oooooooooooo ooooooooooooooo
+https://www.uludagsozluk.com/k/muhaliflerin-sanki-birazc%C4%B1k-hakl%C4%B1-olmas%C4%B1/ zuhahahaha
 https://www.uludagsozluk.com/k/dolara-yeni-isim-bulal%C4%B1m/ dolsa nolur accık dolsun işte
 https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bi koydum fırladı
 https://www.uludagsozluk.com/k/pkk-ya-maske-g%C3%B6ndermek/&w=gd kuzenim yollamış kankağ 
