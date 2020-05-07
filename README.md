@@ -13,10 +13,7 @@
 
 [![Image](prototype/Screenshot_2020-05-03_17-14-13.png)]( https://www.youtube.com/watch?v=ThJ0DZj5wiE )
 
-
 [![Image](prototype/Screenshot_2020-04-19_01-48-21.png)]( https://www.youtube.com/watch?v=TlzB3sI7Ghw )
-
-
 
 [![Image](prototype/Screenshot_2020-04-28_07-40-33.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
