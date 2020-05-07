@@ -2,8 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
-https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 asdasdadad
-https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdasda -->
+https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
+https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdasda 
+-->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
