@@ -2,14 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz ata türk adam mıdır sorundalı
-https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg yiğit bulut adam mıdır sorundalı
-bkz bilim adamları adam mıdır sorundalı
-bkz gelinim olur musun caner adam mıdır sorundalı
-bkz o değil de caner tülin vardı noldu onlara
-bkz kafasına bardak kıran caner miydi lan
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=b bkz ata türk ne içiyodu sorundalı
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz türk oğlu türk
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz gözleri adam şeklinde gülen adam
