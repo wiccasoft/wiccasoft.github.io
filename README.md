@@ -4,6 +4,7 @@
 <!-- 
 bkz barzo dili ve edebiyatı
 bkz murat cemcir vs ahmet kural
+bkz ezan lobisi iş başına yetişin minnaklaaaaaaaa
 bkz bi gülüşü var sanırsın sana gülüyo kankağ
 bkz ezanlarımız susturamaycaksınız oçları
 bkz yılaz eti yiyile fare kanı içiyleeeeeeee
