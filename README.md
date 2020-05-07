@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula amınoğlu heralde
 https://www.uludagsozluk.com/k/kediler-dile-gelse-s%C3%B6yleyecekleri-ilk-s%C3%B6z/&w=bg  bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-%C3%BClkeler-neden-geli%C5%9Femiyor/ bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinden-memnun-olan-or%C3%A7o-muhalif/ bkz amınoğlu ekrem
