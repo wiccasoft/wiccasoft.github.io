@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.uludagsozluk.com/k/fatih-tezcan-a-g%C3%B6nderilen-tehdit-dolu-e-posta/ bkz dış minnaklar
 https://eksisozluk.com/bir-erkegi-kaybetmenin-en-kisa-yolu--5923534?a=popular içine al kankağ
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 https://www.uludagsozluk.com/k/hazreti-isa-n%C4%B1n-kalpleri-%C4%B1s%C4%B1tan-g%C3%BCl%C3%BCmsemesi/&w=bg
