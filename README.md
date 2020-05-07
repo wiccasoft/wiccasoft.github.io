@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/&w=bg
 https://www.uludagsozluk.com/k/derste-yaz%C4%B1yormu%C5%9F-gibi-yapan-%C3%B6%C4%9Frenci/ bkz oç
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg iftira atma oç
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/
