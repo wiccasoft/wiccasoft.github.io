@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/behzat-%C3%A7-harun/&w=bg
+https://eksisozluk.com/bir-erkegi-kaybetmenin-en-kisa-yolu--5923534?a=popular içine al kankağ
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ bkz iftira atma oç
 https://www.uludagsozluk.com/k/hazreti-isa-n%C4%B1n-kalpleri-%C4%B1s%C4%B1tan-g%C3%BCl%C3%BCmsemesi/&w=bg
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkx azalan marjinal fayda teorisi
