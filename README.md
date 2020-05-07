@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.youtube.com/watch?v=bTlT15f0X2o bana bırak kankağ
 https://www.uludagsozluk.com/e/43292061/ 10 olunca tokadı basacam aşkım bana bırak
 https://www.uludagsozluk.com/e/43292038/ bkz peşin alan vs peşin veren
 https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin adam olmuş hali
