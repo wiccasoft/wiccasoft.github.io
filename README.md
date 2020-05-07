@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=bTlT15f0X2o bana bırak kankağ
 https://www.uludagsozluk.com/e/43292061/ 10 olunca tokadı basacam aşkım bana bırak
 https://www.uludagsozluk.com/e/43292038/ bkz peşin alan vs peşin veren
-https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin adam olmuş hali
+https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin harman olmuş hali
 https://www.uludagsozluk.com/e/20680902/ bkz ata nın orospu anası semra
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/ bkz yavşak 
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-kendine-a%C5%9F%C4%B1k-etmenin-yollar%C4%B1/ annesine cadı demek
