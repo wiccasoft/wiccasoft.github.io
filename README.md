@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
-https://giydirmek-bedava.uludagsozluk.com/ lol
 https://www.uludagsozluk.com/k/ak-parti-kemalizmin-son-meyvesidir/
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu-tayyip%C3%A7idir/
 https://www.uludagsozluk.com/k/fahrettin-koca-n%C4%B1n-b%C4%B1y%C4%B1%C4%9F%C4%B1-korona-yuvas%C4%B1d%C4%B1r/
