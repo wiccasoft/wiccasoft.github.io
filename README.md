@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavaş mavaş ama adam
+https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg adamdır adam
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz adam diyince akla gelen ilk adam
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz imamoğlu ekrem bey diyeceksiniz
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz her türk asker doğarın karşlığı er
