@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/k/murat-cemcir-g%C3%BCl%C3%BC%C5%9F%C3%BC/ hele yar
 https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak hele
 https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinin-faydalar%C4%B1/
-https://eksisozluk.com/tl-deger-kaybini-akpye-baglayan-tip--6508312?a=popular
+https://eksisozluk.com/tl-deger-kaybini-akpye-baglayan-tip--6508312?a=popular lol
 -->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
