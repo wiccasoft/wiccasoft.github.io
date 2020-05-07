@@ -6,7 +6,7 @@ bkz barzo dili ve edebiyatı
 bkz murat cemcir vs ahmet kural
 bkz bi gülüşü var sanırsın sana gülüyo kankağ
 bkz ezanlarımız susturamaycaksınız oçları
-bkz yılna eti yiyile fare kanı içiyler
+bkz yılaz eti yiyile fare kanı içiyleeeeeeee
 https://www.uludagsozluk.com/k/pkk-ya-maske-g%C3%B6ndermek/ bkz dış minnakların işi
 https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-ortaya-%C3%A7%C4%B1kmas%C4%B1/&w=bg nerelerdesin be mübarrek
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
