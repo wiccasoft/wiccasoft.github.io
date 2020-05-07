@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+bkz yok mu doları keskin bakışlarıyla eritecek yiğido
 bkz burak özçivitin bakışlarıyla doları eritmesi
 bkz iki yiğit çıktı meydane ikisi de birbirinde merdane
 bkz yok mu bi babayiğit doları 1 lira yapacak
