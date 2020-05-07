@@ -7,6 +7,7 @@ bkz murat cemcir vs ahmet kural
 bkz tayyipin mgk yı toğlaması
 bkz ali ihsan yavuz un ortaya çıkması
 bkz berat ın ezan çalıştayını düzene sokması
+https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihohohoho
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-yeni-mesle%C4%9Fi/ bkz serbest raaad kebap yani
 https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihihihi
 bkz o değil de cumburlop maaşına zam mı yapsam lan ne diyonuz kankağlaa
