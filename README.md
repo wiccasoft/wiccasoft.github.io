@@ -11,7 +11,7 @@ bkz sen kim köpek siyonizme hizmet etmiyosun
 https://www.uludagsozluk.com/k/dedi%C4%9Fini-yapt%C4%B1rmak-i%C3%A7in-%C3%B6l%C3%BCm-orucu-tutmak/ bkz soros
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz siyonizmin kuklası
 bkz keynesgen ekonomiye hoşgeldiniz çomarlar sörfayfır başlıyor ar yuuuuuu rediiiii
-https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ bkz sen kim köpek söz veriyosun
+https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ bkz sen kim köpek 
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdsadfa
 https://serdarsl06.uludagsozluk.com/ bkz yılan eti yiyileeeee yarasa kanı içileeeeeeeeeeeee
