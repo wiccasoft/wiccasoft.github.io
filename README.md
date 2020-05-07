@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/ak-parti-kemalizmin-son-meyvesidir/
 https://www.uludagsozluk.com/k/canan-kaftanc%C4%B1o%C4%9Flu-tayyip%C3%A7idir/
 https://www.uludagsozluk.com/k/fahrettin-koca-n%C4%B1n-b%C4%B1y%C4%B1%C4%9F%C4%B1-korona-yuvas%C4%B1d%C4%B1r/
+https://eksisozluk.com/sinema-tarihinin-en-yakisikli-erkegi--5277017?a=popular
 -->
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
