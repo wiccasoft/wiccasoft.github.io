@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q
 bkz yok mu doları keskin bakışlarıyla eritecek yiğido
 bkz burak özçivitin bakışlarıyla doları eritmesi
 bkz iki yiğit çıktı meydane ikisi de birbirinde merdane
