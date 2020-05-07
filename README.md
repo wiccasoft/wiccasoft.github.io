@@ -10,6 +10,7 @@ bkz berat ın ezan çalıştayını düzene sokması
 bkz bi gülüşü var kankağ hihihih hohohohohoo 
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
+https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ kankağ dolarla kazanıyok
 https://twitter.com/dokuz8news/status/1234419477674168321/photo/1 zuhahhahaha
 https://www.uludagsozluk.com/k/emekli-cumhurba%C5%9Fkan%C4%B1/ hihihohohoho
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-yeni-mesle%C4%9Fi/ bkz serbest raaad kebap yani
