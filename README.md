@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+bkz caner adam mıdır sorundalı
 bkz ata türk ne içiyodu sorundalı
 bkz o değil de caner tülin vardı noldu onlara
 bkz kafasına bardak kıran caner miydi lan
