@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/e/43291801/ lol
 https://www.uludagsozluk.com/e/43292038/ lol
 bkz barzo dili ve edebiyatı hihihihohohohoho
 bkz keynesgen ekonomiye hoşgeldiniz çomarlar sörfayfır başlıyor ar yuuuuuu rediiiii
+https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ bkz sen kim köpek söz veriyosun
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdsadfa
 https://serdarsl06.uludagsozluk.com/ bkz yılan eti yiyileeeee yarasa kanı içileeeeeeeeeeeee
