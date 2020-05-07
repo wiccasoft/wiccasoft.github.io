@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
-bkz olm ne içiyonuz lan botokslu mafya mı olur
+bkz olm ne içiyonuz lan sosyal medya kullanan botokslu mafya mı olur
 bkz türkiyenin mafya dediği karakterleri colombiyalılar görse götüyle güler amk
 https://www.uludagsozluk.com/k/2020-t%C3%BCrkiye-deki-b%C3%BCy%C3%BCk-mafya-hesapla%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/fatih-tezcan-a-g%C3%B6nderilen-tehdit-dolu-e-posta/&w=bg
