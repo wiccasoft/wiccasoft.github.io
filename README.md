@@ -12,6 +12,7 @@ bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
 bkz yattıpı yerden doları düşürün yeaa diyen muhalif
 bkz çalışmadan zengin olacağını sanan çomarlar
+bkz türklerin dünyanın en tembel milleti olması
 merale pattes marreme soğan nası koydu ama tayberdoan oooooooooooo ooooooooooooooo
 https://www.uludagsozluk.com/k/muhaliflerin-sanki-birazc%C4%B1k-hakl%C4%B1-olmas%C4%B1/ zuhahahaha
 https://www.uludagsozluk.com/k/dolara-yeni-isim-bulal%C4%B1m/ dolsa nolur accık dolsun işte
