@@ -2,10 +2,10 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
-https://www.uludagsozluk.com/k/dolar%C4%B1n-usul-usul-8-e-gitmesi/&w=bg bkz türkiye niye dolar basmıyor sorundalı
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
-https://www.uludagsozluk.com/k/necmettin-bat%C4%B1rel/&w=bg bkz adamın hammaddesi
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/  görecelidir
+https://www.uludagsozluk.com/k/necmettin-bat%C4%B1rel/&w=bg bkz adamın hammaddesi
+https://www.uludagsozluk.com/k/dolar%C4%B1n-usul-usul-8-e-gitmesi/&w=bg bkz türkiye niye dolar basmıyor sorundalı
 https://www.uludagsozluk.com/k/reisi-seven-30-milyon-ki%C5%9Fi-ar%C4%B1yoruz/&w=bg +1 
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/&w=bg
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=gd bkz yavşak
