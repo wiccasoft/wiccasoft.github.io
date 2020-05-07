@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinden-memnun-olan-or%C3%A7o-muhalif/ bkz amınoğlu ekrem
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bk adamın adamantuyumla güçlendirilmiş hali
 https://www.uludagsozluk.com/k/aa-n%C4%B1n-tl-ye-atak-haberini-ingilizceye-%C3%A7evirmemesi/ bkz oç aa
 https://www.uludagsozluk.com/e/20680917/ lan olm bu gelinim olur musun ata espriyi anlamamışlar
