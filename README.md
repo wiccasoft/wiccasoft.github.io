@@ -2,8 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
-bkz adama bakarım adammı diye lafa bakarım laf mı diye
-https://www.uludagsozluk.com/k/bilim-adam%C4%B1-olsayd%C4%B1n%C4%B1z-ne-icat-ederdiniz/ bkz adam 
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz türk oğlu türk
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz gözleri adam şeklinde gülen adam
