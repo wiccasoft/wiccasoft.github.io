@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular  bkz adamın su katılmamış hali
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam diye aratınca karşıma çıkan ilk adam
 https://www.uludagsozluk.com/k/necmettin-erbakan/ bkz adamın ham maddesi
 https://www.uludagsozluk.com/k/%C5%9Fener-%C5%9Fen/ bkz imamoğlu şener şen benzerliği
