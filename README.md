@@ -3,6 +3,7 @@
 
 <!-- 
 bkz barzo dili ve edebiyatı
+https://www.uludagsozluk.com/k/tugay-mercan-murat-cemcir-benzerli%C4%9Fi/ bkz tıpkısın aynısı lan işte
 https://www.uludagsozluk.com/k/g%C3%BCl%C3%BC%C5%9F%C3%BC-g%C3%BCzel-erkek/ bkz ahmet kural
 https://www.uludagsozluk.com/k/kolye-takan-erkek/&w=bg vurduruyodur kankağğğ
 https://www.uludagsozluk.com/k/uzun-sa%C3%A7l%C4%B1-erkek/&w=bg bkz top
