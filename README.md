@@ -7,7 +7,7 @@ bkz murat cemcir vs ahmet kural
 bkz tayyipin mgk yı toğlaması
 bkz ali ihsan yavuz un ortaya çıkması
 bkz berat ın ezan çalıştayını düzene sokması
-bkz trumpa 5 kamyon daha maske mi yollasak la
+bkz trumpa 5 kamyon daha maske mi yollasak la arayı sıcak tutar he
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-yeni-mesle%C4%9Fi/ new world order
 bkz o değil de yeni dünya düzenini nerey kursam sorundalı
 bkz ezan lobisi iş başına yetişin minnaklaaaaaaaa 
