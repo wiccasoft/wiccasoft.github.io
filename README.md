@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=BnZb5c5W9GM
 https://www.uludagsozluk.com/e/43289150/ lol
 bkz ateş toprak hava selülöz
 bkz selülöz tabi zoruna mı gitti
+https://www.uludagsozluk.com/k/izmir-de-okumu%C5%9F-instagram-kullanan-k%C4%B1z/ lol
 https://www.uludagsozluk.com/k/7-may%C4%B1s-2020-t%C3%BCrk-liras%C4%B1na-yap%C4%B1lan-sald%C4%B1r%C4%B1/&w=gd yav he he
 https://eksisozluk.com/askida-fuckbuddy--6507821?a=popular bkz melik bayraktar
 https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259 bkz oç
