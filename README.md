@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/e/43291801/ lol
+https://www.uludagsozluk.com/k/necmettin-bat%C4%B1rel/&w=bg şakkadanak olm kankağ da işim var
 https://www.uludagsozluk.com/k/derste-yaz%C4%B1yormu%C5%9F-gibi-yapan-%C3%B6%C4%9Frenci/ bkz zall
 https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdasda 
