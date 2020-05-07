@@ -1,7 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
-<!-- ,
+<!-- 
+https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=b bkz ananı da sevmezdim sütoğlan
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz az oç deildi rahmetsiz oç
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg olm ölmüş ya la bu 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
