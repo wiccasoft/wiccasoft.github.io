@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+bkz 3 adam deyince akla gelen ilk isimler: imamoğlu rte mansur yavaş
 https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz 2pac
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ görecelidir
 https://www.uludagsozluk.com/k/eski-sevgiliyi-an%C4%B1msatan-foto%C4%9Fraf-b%C4%B1rak/ bkz imamoğlu
