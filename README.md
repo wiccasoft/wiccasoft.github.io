@@ -1,7 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
-<!-- 
+<!-- ,
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamdır
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ görecelidir
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz adamın adamnatuyumla güçlendirilmiş hali
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz adam deyince akla ilk gelen
