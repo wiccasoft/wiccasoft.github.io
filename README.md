@@ -5,10 +5,8 @@
 https://www.uludagsozluk.com/k/khontkar/&w=bg adamın adamantuyumlu hali
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ adamdır kefilim 
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-%C5%9Fu-an-dinledi%C4%9Fi-%C5%9Fark%C4%B1lar/&w=bg adam var adam gibi
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 alex
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamın ham maddesi
-https://www.uludagsozluk.com/k/berat-albayrak-%C4%B1n-ge%C3%A7en-y%C4%B1lki-dolar-a%C3%A7%C4%B1klamas%C4%B1/ 
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular adamın drone ile güçlendirilmiş ham maddesi
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular adamın adamantuyum ile güçlendirilmiş ham maddesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu
 https://eksisozluk.com/hugoda-kufreden-cocuk--998540?a=popular bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-%C3%BClkeler-neden-geli%C5%9Femiyor/ bkz amınoğlu ekrem
