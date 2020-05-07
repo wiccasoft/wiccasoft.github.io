@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamın ham maddesi
 https://www.uludagsozluk.com/k/berat-albayrak-%C4%B1n-ge%C3%A7en-y%C4%B1lki-dolar-a%C3%A7%C4%B1klamas%C4%B1/ 
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular adamın drone ile güçlendirilmiş ham maddesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu
