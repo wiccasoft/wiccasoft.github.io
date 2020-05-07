@@ -3,7 +3,8 @@
 
 <!-- 
 bkz ata türk ne içiyodu sorundalı
-bkz o değil de  caner tülin vardı noldu onlara
+bkz o değil de caner tülin vardı noldu onlara
+bkz kafasına bardak kıran caner miydi lan
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=b bkz ananı da sevmezdim sütoğlan
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
