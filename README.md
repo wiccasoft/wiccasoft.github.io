@@ -1,42 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
-<!-- 
-iyi güldük genşler hadi ben kaçar
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz kefilim adamdır
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ben kefilim adamdır
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/&w=bg
-https://www.uludagsozluk.com/k/derste-yaz%C4%B1yormu%C5%9F-gibi-yapan-%C3%B6%C4%9Frenci/ bkz zall
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg iftira atma oç
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ben kefilim adamdır
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula adam heralde
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
-https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz türk oğlu türk
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ bkz adamdır kefilim
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz gözleri adam şeklinde gülen adam
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-bir-keko-repli%C4%9Fi-b%C4%B1rak/&w=bg 
-https://www.uludagsozluk.com/k/kilo-vermek-i%C3%A7in-grup-yoruma-kat%C4%B1lmak/ gel kankağ semra kaynana da var
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula adam heralde
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=b bkz ananı da sevmezdim sütoğlan
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg olm ölmüş ya la bu 
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
-https://www.uludagsozluk.com/k/rall-frank-lucas-telefoncu-ekrem-agca-iyesta-sert/ adam gibi adamlar
-https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinden-memnun-olan-or%C3%A7o-muhalif/ bkz amınoğlu ekrem
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bk adamın adamantuyumla güçlendirilmiş hali
-https://www.uludagsozluk.com/k/aa-n%C4%B1n-tl-ye-atak-haberini-ingilizceye-%C3%A7evirmemesi/ bkz oç aa
-https://www.uludagsozluk.com/e/20680917/ lan olm bu gelinim olur musun ata espriyi anlamamışlar
-https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bakarız sonra 1 lira yaparım doları söz vermim 
-https://www.youtube.com/watch?v=bTlT15f0X2o bana bırak kankağ
-https://www.uludagsozluk.com/e/43292061/ 10 olunca tokadı basacam aşkım bana bırak
-https://www.uludagsozluk.com/e/43292038/ bkz peşin alan vs peşin veren
-https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin harman olmuş hali
-https://www.uludagsozluk.com/e/20680902/ bkz ata nın orospu anası semra
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/ bkz yavşak 
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-kendine-a%C5%9F%C4%B1k-etmenin-yollar%C4%B1/ annesine cadı demek
--->
-
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
