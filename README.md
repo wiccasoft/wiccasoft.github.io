@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+,https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adamın sözlük karşılığı
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz adamlığın kitabını yeniden yazmak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz adamın karekökü
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz droneların efendisi 
