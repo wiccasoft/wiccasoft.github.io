@@ -3,7 +3,7 @@
 
 <!-- 
 bkz bilim adamları adam mıdır sorundalı
-bkz caner adam mıdır sorundalı
+bkz gelinim olur musun caner adam mıdır sorundalı
 bkz ata türk ne içiyodu sorundalı
 bkz o değil de caner tülin vardı noldu onlara
 bkz kafasına bardak kıran caner miydi lan
