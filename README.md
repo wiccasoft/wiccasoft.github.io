@@ -6,7 +6,6 @@ https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ bkz a
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/ bkz yavşak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz adamın askıda kalmış hali
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ismine bağlı kankağ
-bkz öyle bi isim söyle ki adamlar adamlığından utansın kankağ
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
 https://www.uludagsozluk.com/k/bo%C4%9Fa%C3%A7han-talha-peker/&w=bg bkz batlamyus
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/  görecelidir
