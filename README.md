@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular adamın drone ile güçlendirilmiş ham maddesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu
 https://eksisozluk.com/hugoda-kufreden-cocuk--998540?a=popular bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-%C3%BClkeler-neden-geli%C5%9Femiyor/ bkz amınoğlu ekrem
