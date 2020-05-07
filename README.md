@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/20680902/ bkz ata nın orospu anası semra
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/ bkz yavşak 
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-kendine-a%C5%9F%C4%B1k-etmenin-yollar%C4%B1/ annesine cadı demek
 -->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
