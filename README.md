@@ -1,6 +1,14 @@
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
+<!-- 
+https://www.uludagsozluk.com/e/43289150/ lol
+https://www.uludagsozluk.com/e/43291801/ lol
+https://www.uludagsozluk.com/e/43292038/ lol
+https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
+https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdsadfa
+-->
+
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
