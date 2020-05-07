@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/ana-kuzusu-erkekler/ bkz ata türk
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz türk oğlu türk
+https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ bkz adamdır kefilim
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz gözleri adam şeklinde gülen adam
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-bir-keko-repli%C4%9Fi-b%C4%B1rak/&w=bg 
 https://www.uludagsozluk.com/k/kilo-vermek-i%C3%A7in-grup-yoruma-kat%C4%B1lmak/ gel kankağ semra kaynana da var
