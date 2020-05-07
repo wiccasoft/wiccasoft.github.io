@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/aa-n%C4%B1n-tl-ye-atak-haberini-ingilizceye-%C3%A7evirmemesi/ bkz oç aa
 https://www.uludagsozluk.com/e/20680917/ lan olm bu gelinim olur musun ata espriyi anlamamışlar
 https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bakarız sonra 1 lira yaprım doları söz vermim 
 https://www.youtube.com/watch?v=bTlT15f0X2o bana bırak kankağ
