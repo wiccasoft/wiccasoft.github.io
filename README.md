@@ -3,30 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
-<!-- 
-https://www.uludagsozluk.com/e/43289150/ lol
-https://www.uludagsozluk.com/e/43291801/ lol
-https://www.uludagsozluk.com/e/43292038/ lol
-https://eksisozluk.com/entry/106742397 lol
-bkz barzo dili ve edebiyatı hihihihohohohoho
-bkz siyonizm başliyo yetişin komşulağğğğğğğğğğ
-bkz sen kim köpek siyonizme hizmet etmiyosun
-bkz vur vur kafasına kafasına çivi gibi çivi gibi çak çak çak
-https://www.uludagsozluk.com/k/covid-19-%C5%9Feklinde-ekmek/ lol
-bkz keynesgen ekonomiye hoşgeldiniz çomarlar sörfayfır başlıyor ar yuuuuuu rediiiii
-https://www.uludagsozluk.com/k/dolar%C4%B1-3-tl-yapmay%C4%B1-vaad-edip-7-tl-yapmak/ bkz sen kim köpek 
-https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1 
-https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdsadfa
-https://serdarsl06.uludagsozluk.com/ bkz yılan eti yiyileeeee yarasa kanı içileeeeeeeeeeeee
-htps://www.uludagsozluk.com/k/tugay-mercan-murat-cemcir-benzerli%C4%9Fi/ bkz tıpkısının aynısı lan işte
-https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi gülüşü var sanırsın sana gülüyo
-https://www.uludagsozluk.com/k/murat-cemcir-g%C3%BCl%C3%BC%C5%9F%C3%BC/ hele yarrama bak hele
-https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak hele
-https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
-https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinin-faydalar%C4%B1/
-https://eksisozluk.com/tl-deger-kaybini-akpye-baglayan-tip--6508312?a=popular lol
--->
-
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
