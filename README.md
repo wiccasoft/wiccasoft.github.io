@@ -10,7 +10,7 @@ https://mobile.twitter.com/hicetikdegill/status/1257601529709723648/photo/1
 https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 asdsadfa
 https://serdarsl06.uludagsozluk.com/ bkz yılan eti yiyileeeee yarasa kanı içileeeeeeeeeeeee
 htps://www.uludagsozluk.com/k/tugay-mercan-murat-cemcir-benzerli%C4%9Fi/ bkz tıpkısının aynısı lan işte
-https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi güşlüşü var sanırsın sana gülüyo
+https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi gülüşü var sanırsın sana gülüyo
 https://www.uludagsozluk.com/k/murat-cemcir-g%C3%BCl%C3%BC%C5%9F%C3%BC/ hele yarrama bak hele
 https://www.uludagsozluk.com/k/d%C4%B1%C5%9F-minno%C5%9Flar/ hele yarrama bak hele
 https://www.uludagsozluk.com/k/sinirli-agresif-kaba-insan/&w=bg hele yarrama bak hele
