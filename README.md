@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin adam şeklinde hali
+https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg bkz top
+https://www.uludagsozluk.com/k/sadece-erkeklerin-bildi%C4%9Fi-%C5%9Feyler/&w=bg bkz erkek adam
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-kendine-a%C5%9F%C4%B1k-etmenin-yollar%C4%B1/&w=bg bkz adam gib adam
 https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-dolar-yorumu/&w=bg bkz adam
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/1/
