@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz kizitoğlu ekrem bey 
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz adam diyince akla gelen ilk adam
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz imamoğlu ekrem bey diyeceksiniz
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz her türk asker doğarın karşlığı er
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri/&w=bg bkz adamın harman olduğu yerden gelen erkler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam diye aratınca karşıma çıkan adam
