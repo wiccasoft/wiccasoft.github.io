@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz mansur kadar ciğer sökemesede haşin bi erkek
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavaş ciğerimi söktün ciğerimi
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz 13. cumburlop başkanı
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ kimine göre adam kimine göre madam
