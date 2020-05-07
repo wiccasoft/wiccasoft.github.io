@@ -11,6 +11,7 @@ bkz bi gülüşü var kankağ hihihih hohohohohoo
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
 bkz çalışmadan zengin olacağını sanan çomarlar
+bkz kapitalisime hoşgeldiniz çomarlar serbest piyasa ekonomisi budur
 bkz yattığı yerden doları düşürün yeaa diyen muhalif
 bkz türklerin dünyanın en tembel milleti olması
 merale pattes marreme soğan nası koydu ama tayberdoan oooooooooooo ooooooooooooooo
