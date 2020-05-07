@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+bkz imamaoğlu adamsa diğerleri ne amk
 bkz imamaoğlu deyince akla gelenler
 bkz ekrem imamoğlu adam mıdır sorundalı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg adamdır kefilim
