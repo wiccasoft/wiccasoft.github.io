@@ -2,13 +2,11 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
-https://www.uludagsozluk.com/k/eski-sevgiliyi-an%C4%B1msatan-foto%C4%9Fraf-b%C4%B1rak/ bkz imamoğlu
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ görecelidir
+https://www.uludagsozluk.com/k/eski-sevgiliyi-an%C4%B1msatan-foto%C4%9Fraf-b%C4%B1rak/ bkz imamoğlu
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavaş ciğerimi söktün deyince akla gelen erkek
 https://www.uludagsozluk.com/k/%C5%9Fener-%C5%9Fen/ imamoğluna benzerliği olan erkek
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz mansur kadar ciğer sökemesede haşin bi erkek
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavaş ciğerimi söktün ciğerimi
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz 13. cumburlop başkanı
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ kimine göre adam kimine göre madam
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz adamlık deyince akla gelen ilk sima
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz adam deyince yavaşça beliren simalar
