@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ adam adam
 https://www.uludagsozluk.com/k/khontkar/&w=bg adamın adamantuyumlu hali
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz adamın askıda kalmış hali
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ adamdır kefilim 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=gd bkz yavşak
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-%C5%9Fu-an-dinledi%C4%9Fi-%C5%9Fark%C4%B1lar/&w=bg adam var adam gibi
