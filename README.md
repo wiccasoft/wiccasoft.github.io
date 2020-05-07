@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
+https://www.uludagsozluk.com/k/bo%C4%9Fa%C3%A7han-talha-peker/&w=bg bkz batlamyus
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/  görecelidir
 https://www.uludagsozluk.com/k/necmettin-bat%C4%B1rel/&w=bg bkz adamın hammaddesi
 https://www.uludagsozluk.com/k/dolar%C4%B1n-usul-usul-8-e-gitmesi/&w=bg bkz türkiye niye dolar basmıyor sorundalı
