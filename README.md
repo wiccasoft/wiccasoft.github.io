@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
-https://www.uludagsozluk.com/e/43292061/ 10 olunca tokadı bsasacam bekliyorum aşkım
+https://www.uludagsozluk.com/e/43292061/ 10 olunca tokadı basacam aşkım bana bırak
 https://www.uludagsozluk.com/e/43292038/ bkz peşin alan vs peşin veren
 https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin adam olmuş hali
 https://www.uludagsozluk.com/e/20680902/ bkz ata nın orospu anası semra
