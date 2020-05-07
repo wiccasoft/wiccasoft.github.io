@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+bkz barzo dili ve edebiyatı
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/e/43291801/ lol
 https://www.uludagsozluk.com/e/43292038/ lol
