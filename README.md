@@ -10,8 +10,8 @@ bkz berat ın ezan çalıştayını düzene sokması
 bkz bi gülüşü var kankağ hihihih hohohohohoo 
 bkz tayyipin dolar artıyo diye sevinmesi
 bkz ali ihsan yavuzun zühur eylemesi
-bkz yattıpı yerden doları düşürün yeaa diyen muhalif
 bkz çalışmadan zengin olacağını sanan çomarlar
+bkz yattığı yerden doları düşürün yeaa diyen muhalif
 bkz türklerin dünyanın en tembel milleti olması
 merale pattes marreme soğan nası koydu ama tayberdoan oooooooooooo ooooooooooooooo
 https://www.uludagsozluk.com/k/muhaliflerin-sanki-birazc%C4%B1k-hakl%C4%B1-olmas%C4%B1/ zuhahahaha
