@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
-bkz öyle bi isim söyle ki adamlar adamlığında utansın kankağ
+bkz öyle bi isim söyle ki adamlar adamlığından utansın kankağ
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
 https://www.uludagsozluk.com/k/bo%C4%9Fa%C3%A7han-talha-peker/&w=bg bkz batlamyus
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/  görecelidir
