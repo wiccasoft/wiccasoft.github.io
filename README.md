@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/yazarlar%C4%B1n-%C5%9Fu-an-dinledi%C4%9Fi-%C5%9Fark%C4%B1lar/&w=bg adam var adam gibi
 https://www.uludagsozluk.com/k/khontkar/&w=bg adamın adamantuyumlu hali
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 alex
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamın ham maddesi
