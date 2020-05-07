@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamdır
+https://www.uludagsozluk.com/k/yazarlar%C4%B1n-%C5%9Fu-an-dinledi%C4%9Fi-%C5%9Fark%C4%B1lar/ ismail türüt adam var adam gibi
 https://www.uludagsozluk.com/k/geceye-bir-s%C3%B6z-b%C4%B1rak/&w=bg adam mısın lan sen
 https://www.uludagsozluk.com/k/ben-bat%C4%B1yorum-s%C3%B6zl%C3%BCk-bir-%C5%9Fey-diyor-musun/ adamsın
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg ben kefilim adamdır
