@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ olm murat övüçün üstüne koyar üstüste sikerim ikinizi de
 https://chance-boudreaux.uludagsozluk.com/ bu eleman beni murat övüç zannediyo amk
 https://chance-boudreaux.uludagsozluk.com/ sosyam medya menejerim
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
