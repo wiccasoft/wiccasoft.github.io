@@ -2,10 +2,10 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz adamın ciğerini söken adamlar
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula adam heralde
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz gözleri adam şeklinde gülen adam
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz adamlığın su katılmamış hali
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=gd bkz adamın ciğerini söken adamlar
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz bunlar babadan oğula adam heralde
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz yavaş mavaş ama adam
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz adamın ham maddesi
