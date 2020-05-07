@@ -13,7 +13,6 @@ https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-bir-keko-repli%C4%9Fi-b%C4
 https://www.uludagsozluk.com/k/kilo-vermek-i%C3%A7in-grup-yoruma-kat%C4%B1lmak/ gel kankağ semra kaynana da var
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ bkz bunlar babadan oğula adam heralde
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=b bkz ananı da sevmezdim sütoğlan
-https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz az oç deildi rahmetsiz oç
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg olm ölmüş ya la bu 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
 https://www.uludagsozluk.com/k/rall-frank-lucas-telefoncu-ekrem-agca-iyesta-sert/ adam gibi adamlar
