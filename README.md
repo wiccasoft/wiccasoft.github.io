@@ -1,6 +1,6 @@
 
 
-[![Image](prototype/Screenshot_2020-05-06_22-40-32.png)] (https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
+[![Image](prototype/Screenshot_2020-05-06_22-40-32.png) (https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)(https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
