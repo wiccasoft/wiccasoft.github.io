@@ -3,6 +3,7 @@
 
 <!-- 
 bkz imamaoğlu deyince akla gelenler
+bkz ekrem imamoğlu adam mıdır sorundalı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg adamdır kefilim
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamdır
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ adamdır ben kefilim
