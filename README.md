@@ -13,6 +13,7 @@ bkz ali ihsan yavuzun zühur eylemesi
 bkz çalışmadan zengin olacağını sanan çomarlar
 bkz kapitalisime hoşgeldiniz çomarlar serbest piyasa ekonomisi budur 
 bkz kötü haber hiç bir devlet memuru sizi kurtarmayacak
+bkz atamın dediği gibi komunizm parayı bulana feminizm kocayı bulana kadardır
 bkz yattığı yerden doları düşürün yeaa diyen muhalif
 bkz türklerin dünyanın en tembel milleti olması
 merale pattes marreme soğan nası koydu ama tayberdoan oooooooooooo ooooooooooooooo
