@@ -19,6 +19,7 @@ https://eksisozluk.com/tl-deger-kaybini-akpye-baglayan-tip--6508312?a=popular lo
 https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz bi koydum fırladı,
 https://eksisozluk.com/evli-bir-erkege-asik-olmak--1553911?a=popular bkz berat mı kız kaptırmam kız saha ohuuuu
 https://www.uludagsozluk.com/k/kenan-imirzal%C4%B1o%C4%9Flu-na-benzeyen-adam/ nasılım kızlar
+https://www.uludagsozluk.com/k/hz-mehdi-istanbul-da-zuhur-etmi%C5%9Ftir/&w=bg duhüldür o zühul olsa duramazsın
 -->
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
