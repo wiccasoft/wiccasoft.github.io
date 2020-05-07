@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavşak mavşak ama adam
+https://www.uludagsozluk.com/k/rall-frank-lucas-telefoncu-ekrem-agca-iyesta-sert/ adam gibi adamlar
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinden-memnun-olan-or%C3%A7o-muhalif/ bkz amınoğlu ekrem
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bk adamın adamantuyumla güçlendirilmiş hali
 https://www.uludagsozluk.com/k/aa-n%C4%B1n-tl-ye-atak-haberini-ingilizceye-%C3%A7evirmemesi/ bkz oç aa
