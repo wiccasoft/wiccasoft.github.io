@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamdır
+https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkselmesinden-memnun-olan-or%C3%A7o-muhalif/ bkz ben
 https://www.uludagsozluk.com/k/bilim-adam%C4%B1-olsayd%C4%B1n%C4%B1z-ne-icat-ederdiniz/ adam icat ederdim
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-%C5%9Fu-an-dinledi%C4%9Fi-%C5%9Fark%C4%B1lar/ ismail türüt adam var adam gibi
 https://www.uludagsozluk.com/k/geceye-bir-s%C3%B6z-b%C4%B1rak/&w=bg adam mısın lan sen
