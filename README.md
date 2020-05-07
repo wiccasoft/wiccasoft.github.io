@@ -8,6 +8,8 @@ https://www.uludagsozluk.com/e/43292038/ lol
 bkz barzo dili ve edebiyatı hihihihohohohoho
 bkz siyonizm başliyo yetişin komşulağğğğğğğğğğ
 bkz sen kim köpek siyonizme hizmet etmiyosun
+bkz vur ha vur ha vur ha vur mitralyözle vur ha vur
+bkz vur vur kafasına kafasına çivi gibi çak çak çak
 https://www.uludagsozluk.com/k/dedi%C4%9Fini-yapt%C4%B1rmak-i%C3%A7in-%C3%B6l%C3%BCm-orucu-tutmak/ bkz soros
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz siyonizmin kuklası
 bkz keynesgen ekonomiye hoşgeldiniz çomarlar sörfayfır başlıyor ar yuuuuuu rediiiii
