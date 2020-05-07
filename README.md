@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg adamdır kefilim
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg adamdır
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ adamdır ben kefilim
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ adamdır ben kefilim
