@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
+https://www.uludagsozluk.com/k/ata-t%C3%BCrk-%C3%BCn-a%C5%9F%C4%B1r%C4%B1-dozda-uyu%C5%9Fturucudan-%C3%B6lmesi/&w=bg
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=gd bkz yavşak
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ adamdır kefilim
 https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin harman olduğu yerden gelen adam
