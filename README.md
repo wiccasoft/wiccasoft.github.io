@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin adam olmuş hali
 https://www.uludagsozluk.com/e/20680902/ bkz ata nın orospu anası semra
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/ bkz yavşak 
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-kendine-a%C5%9F%C4%B1k-etmenin-yollar%C4%B1/ annesine cadı demek
