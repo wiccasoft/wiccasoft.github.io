@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz adam bakarım adam mı diye lafa bakarım laf mı diye
 https://www.uludagsozluk.com/k/yi%C4%9Fit-bulut/&w=bg bkz yiğidin adam şeklinde hali
 https://www.uludagsozluk.com/k/sevgili-istemeyen-erkek/&w=bg bkz top
 https://www.uludagsozluk.com/k/sadece-erkeklerin-bildi%C4%9Fi-%C5%9Feyler/&w=bg bkz erkek adam
