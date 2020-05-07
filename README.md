@@ -14,8 +14,7 @@ https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz ikinci atatürk
 https://www.uludagsozluk.com/k/bilim-adam%C4%B1-olsayd%C4%B1n%C4%B1z-ne-icat-ederdiniz/ bkz adam
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/&w=bg bkz görecelidir
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-%C3%BClkeler-neden-geli%C5%9Femiyor/ bkz adam çıkmaması
-bkz 3 adam deyince akla gelen ilk isimler: imamoğlu rte mansur yavaş
-https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz 2pac
+https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg bkz berat albayrak
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ görecelidir
 https://www.uludagsozluk.com/k/eski-sevgiliyi-an%C4%B1msatan-foto%C4%9Fraf-b%C4%B1rak/ bkz imamoğlu
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/ bkz yavaş ciğerimi söktün deyince akla gelen erkek
