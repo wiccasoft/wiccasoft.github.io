@@ -4,8 +4,8 @@
 <!-- 
 bkz barzo dili ve edebiyatı
 bkz murat cemcir vs ahmet kural
-bkz ezan lobisi iş başına yetişin minnaklaaaaaaaa
-bkz bi gülüşü var sanırsın sana gülüyo kankağ
+bkz ezan lobisi iş başına yetişin minnaklaaaaaaaa 
+bkz bi gülüşü var sanırsın sana gülüyo kankağ asdasdasdasdsadadad
 bkz ezanlarımız susturamaycaksınız oçları
 bkz yılaz eti yiyile fare kanı içiyleeeeeeee
 https://www.uludagsozluk.com/k/pkk-ya-maske-g%C3%B6ndermek/ bkz dış minnakların işi
