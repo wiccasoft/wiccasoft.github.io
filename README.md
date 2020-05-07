@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
 https://www.uludagsozluk.com/k/s%C3%BCmer-tilma%C3%A7/&w=bg
 https://eksisozluk.com/cenk-celikin-sedat-pekere-meydan-okumasi--6509196?a=popular
 https://www.uludagsozluk.com/k/ak-parti-kemalizmin-son-meyvesidir/
