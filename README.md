@@ -2,8 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 <!-- 
-bkz semra kaynana vs semra özal
-bkz semra kaynanaya gelin olurmuydun sorundalı
 iyi güldük genşler hadi ben kaçar
 https://www.uludagsozluk.com/k/ata-t%C3%BCrk/&w=bg bkz kefilim adamdır
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ ben kefilim adamdır
