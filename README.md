@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
 <!--
+bkz türkiye niye dolar basmıyor sorundalı
 https://www.uludagsozluk.com/k/khontkar/&w=bg adam gibi adam
 https://www.uludagsozluk.com/k/necmettin-bat%C4%B1rel/&w=bg bkz adamın hammaddesi
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/  görecelidir
