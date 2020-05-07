@@ -11,8 +11,7 @@ https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-ortaya-%C3%A7%C4%B1kmas%C4%B1/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/merkez-bankas%C4%B1-dolar-bass%C4%B1n/ lol
 https://www.uludagsozluk.com/k/ingiltere-nin-rte-nin-yard%C4%B1m%C4%B1n%C4%B1-geri-g%C3%B6ndermesi/ lol
-https://serdarsl06.uludagsozluk.com/ bkz yazık la kimin çocuysa
-https://serdarsl06.uludagsozluk.com/ bu velet trumpçıydı di mi hadi bakalım
+https://serdarsl06.uludagsozluk.com/ bu velet trumpçıydı di mi 
 https://www.uludagsozluk.com/k/czn-burak-g%C3%BCl%C3%BC%C5%9F%C3%BC/ bkz bi gülüşü var kankağ yaşaman lazım
 https://www.uludagsozluk.com/k/küpe-takan-erkek-adam-mıdır/ adamdır kankağ ben kefilim
 https://www.uludagsozluk.com/k/tugay-mercan-murat-cemcir-benzerli%C4%9Fi/ bkz tıpkısının aynısı lan işte
