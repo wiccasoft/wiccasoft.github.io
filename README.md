@@ -1,38 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
 
-<!--
-https://nesgayfe.uludagsozluk.com/ lol
-https://www.youtube.com/watch?v=BnZb5c5W9GM
-https://www.uludagsozluk.com/e/43289150/ lol
-bkz ateş toprak hava selülöz
-bkz selülöz tabi zoruna mı gitti
-https://www.uludagsozluk.com/k/izmir-de-okumu%C5%9F-instagram-kullanan-k%C4%B1z/ lol
-https://www.uludagsozluk.com/k/7-may%C4%B1s-2020-t%C3%BCrk-liras%C4%B1na-yap%C4%B1lan-sald%C4%B1r%C4%B1/&w=gd yav he he
-https://eksisozluk.com/askida-fuckbuddy--6507821?a=popular bkz melik bayraktar
-https://eksisozluk.com/sedat-pekere-sakaryaya-gel-beni-ara-diyen-adam--6506259 bkz oç
-https://www.uludagsozluk.com/k/akp-gen%C3%A7lik-kollar%C4%B1-%C3%BCyesinden-chp-ye-a%C3%A7%C4%B1k-tehdit/
-https://www.uludagsozluk.com/k/abdli-belediye-ba%C5%9Fkan%C4%B1n%C4%B1n-k%C3%BCrdistan-logolu-maskesi/&w=bg 
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum 
-https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460 bkz orhan bencegay
-https://eksisozluk.com/biyikli-diktator-denilince-akla-gelen-kisi--6506638?a=popular bkz stalin
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz canım övdüm diyorum
-https://www.uludagsozluk.com/k/travestiyle-ili%C5%9Fkiye-giren-travestidir/ 
-https://eksisozluk.com/esini-aldatmayan-erkek--6507452?a=popular bkz berat albayraktar
-https://eksisozluk.com/hugoda-kufreden-cocuk--998540?a=popular bkz oç
-https://www.uludagsozluk.com/k/galatasaray/ bkz sarayın takımı
-https://eksisozluk.com/berat-albayrak--5223133 bkz canım övdüm diyorum ısrar etme
-https://www.uludagsozluk.com/k/serdar-kuzulo%C4%9Flu/&w=bg bkz kırmızı çorap giyen adam
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz berat albayrakın kayınçosu
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz übermench
-https://eksisozluk.com/esini-aldatmayan-erkek--6507452?a=popular bkz  bkz bilal erdoğan
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz canım övdüm diyorum ısrar etme
-https://mobile.twitter.com/hicetikdegill/status/1240009792871071744/photo/1
-https://www.uludagsozluk.com/k/g%C3%B6mle%C4%9Fi-kaslar%C4%B1yla-patlatan-tiktok%C3%A7u/ 
-https://eksisozluk.com/elon-musk-tarzi-cocuk-ismi-onerileri--6506564?a=popular&p=2 lol 
-https://www.uludagsozluk.com/k/g%C3%BCniz-akku%C5%9F-un-sedat-peker-e-posta-koymas%C4%B1/ lol 
--->
-
 [![Image](prototype/Screenshot_2020-05-06_07-06-09.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](prototype/Screenshot_2020-04-06_13-24-25.png)](https://www.youtube.com/watch?v=CoLAfdyZHQk )
