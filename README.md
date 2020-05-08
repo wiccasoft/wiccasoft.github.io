@@ -3,6 +3,7 @@
 
 <!--
 bkz murat övüçün seksi paylaşımı
+https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim
 https://www.uludagsozluk.com/k/mangal-yakamayan-erkek/&w=bg bkz murat övüç
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=bg bkz murat övüç
 https://eksisozluk.com/sinema-tarihinin-en-yakisikli-erkegi--5277017?a=popular bkz murat övüç
@@ -11,7 +12,6 @@ https://www.uludagsozluk.com/k/mangal-yakamayan-erkek/&w=bg bkz murat övüç
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 murat övüç
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=bg bkz murat övüç
 https://www.uludagsozluk.com/k/mangal-yakamayan-erkek/&w=bg  bkz murat övüç
-https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
 https://www.uludagsozluk.com/k/yakas%C4%B1nda-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-amblemi-ta%C5%9F%C4%B1yan-m%C3%BCzisyen/
 https://www.uludagsozluk.com/k/fatih-tezcan-a-g%C3%B6nderilen-tehdit-dolu-e-posta/ bkz dış minnaklar
