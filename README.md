@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://www.uludagsozluk.com/k/g%C3%BClerek-ben-felsefeden-anlamam-ki-diyen-k%C4%B1z/&w=bg bkz atacan sen misin lan
 https://www.uludagsozluk.com/k/payitaht-abdulhamid/&w=bg bkz abdulhamdi ne lan
 https://eksisozluk.com/yazarlarin-bizzat-gordugu-siyasetciler--6510559?a=popular bkz sean connery benzetmesi
 bkz tangır budun doğanın kalkışma olmasın diye tankın içine girmesi
