@@ -5,8 +5,6 @@
 <!--
 bkz facebook un açığını bulan mersinli genç
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/  bkz hayallerde yaşıyor bazı ibneler 
-https://eksisozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://eksisozluk.com/bir-erkegi-kaybetmenin-en-kisa-yolu--5923534?a=popular içine sok kankağ
 https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular link at oç
