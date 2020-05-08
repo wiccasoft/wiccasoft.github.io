@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 
-<!--bkz ben fero mu norm endermi sorundalı ayol
+<!--
+https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg bkz kapağı koymuş ayol
+bkz ben fero mu norm endermi sorundalı ayol
 bkz murat övüçün türk övüç çalıç güveç ayol demesi
 bkz ulus vebeci çankaya mansur başkanla ankara bambaşkaaaaaaaaaa
 https://www.uludagsozluk.com/k/chp-belediyecili%C4%9Fi/&w=bg bkz keçiören de çamur içiyoduk çamur
