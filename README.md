@@ -1,7 +1,10 @@
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
-<!-- https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd -->
+<!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd 
+https://www.instagram.com/muratovucofficiall/
+-->
 
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
