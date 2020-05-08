@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://www.uludagsozluk.com/k/s%C3%BCleyman-seba/&w=bg
 https://www.uludagsozluk.com/k/al-pacino/&w=bg
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/
