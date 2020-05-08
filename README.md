@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/
 bkz idari bilimler diplomasını çıkarıp masaya vuran erkek
 https://www.uludagsozluk.com/e/43289150/ lol
 https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg
