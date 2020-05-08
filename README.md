@@ -5,6 +5,7 @@
 
 <!-- 
 bkz barış özcan vs murat övüç
+bkz ruhi çenet türkünün steve jobs'ıysa barış özcan elon muskıdır
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg  https://www.youtube.com/watch?v=pCp9DnATi5k
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-neden-sevmiyorum/&w=bg https://www.youtube.com/watch?v=pCp9DnATi5k
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg
