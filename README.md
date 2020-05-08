@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fe-yav%C5%9Fayan-k%C4%B1z/&w=bg ay kim o ayol
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ meme videosu attım aldınız mı
 https://www.instagram.com/muratovucofficiall/ kızlar snapchat açıyom meme açacam gelin
 https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim minnoşum pezevengim benim 
