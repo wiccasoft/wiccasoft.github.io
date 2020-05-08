@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/ bkz beratın paylaştığı dolar molar bana ne koyar paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz pintereste türk parasını yakan fetöcü genç
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığının bulan genç
 https://eksisozluk.com/applein-acigini-bulup-1-5-tl-alan-mersinli-genc--6510581?a=popular bkz mersinli cihangir
