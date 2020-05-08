@@ -3,9 +3,6 @@
 
 <!--
 bkz badem bıyıklıların kızlarına koyduğu skimsonik isimler
-bkz beratın karısının adı neydi sorundalı rümeyse mı sümeyye mi rabia mı
-bkz jonhy sinsin beratın odaya kamera koyması
-bkz jonhy sinsin berata attığı ahlaksız email
 bkz jonhy sinsin tayyipin damadı ben olaydım hoplatırdım bunları demesi
 bkz tayyip selçuk a doğum gününde penis yüzüğü aldı iddaları
 bkz selçuk bayraktarın sümeyye ye uçan araba yapacam demesi
