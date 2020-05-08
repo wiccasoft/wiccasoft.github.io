@@ -3,6 +3,8 @@
 
 <!--
 bkz murat övüç ün paylaştığı seksi poz
+https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim minnoşum benim
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz murat övüçün seksi paylaşımı
 https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim 
 https://eksisozluk.com/sinema-tarihinin-en-yakisikli-erkegi--5277017?a=popular bkz murat övüç
