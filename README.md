@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz beratın karısın adı neydi sorundalı
+bkz beratın karısının adı neydi sorundalı
 bkz jonhy sinsin beratın odaya kamera koyması
 bkz jonhy sinsin berata attığı ahlaksız email
 bkz jonhy sinsin tayyipin damadı ben olaydım hoplatırdım bunları demesi
