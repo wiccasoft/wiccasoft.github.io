@@ -3,6 +3,7 @@
 
 
 <!--
+bkz murat övüçün o kadar yakışıklı olmadığı gerçeği
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd nerde kalmıştık kızlar
 bkz beratın oğlunun babişkosundan yakışıklı olacağı gerçeği
 bkz beratın penis yüzüğünü tayyip azıyla takıyor yalanı
