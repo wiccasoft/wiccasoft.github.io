@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz tengir budun doğanın hdpli belediyelere yaptığı kapak
 bkz bahçelinin türk bayrağını öpüp alnına koyması
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
