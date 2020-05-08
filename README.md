@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz badem bıyıklıların kızlarına koyduğu skimsonik isimler
 bkz beratın karısının adı neydi sorundalı rümeyse mı sümeeyye mi rabia mı
 bkz jonhy sinsin beratın odaya kamera koyması
 bkz jonhy sinsin berata attığı ahlaksız email
