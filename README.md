@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/
+https://eksisozluk.com/bir-erkegi-kaybetmenin-en-kisa-yolu--5923534?a=popular
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=bg
 https://www.uludagsozluk.com/k/albert-camus/&w=bg
 https://www.uludagsozluk.com/k/berat-albayrak/
