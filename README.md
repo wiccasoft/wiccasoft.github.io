@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  nerde kaldık yakışıklı şeyler
 https://www.instagram.com/muratovucofficiall/ kankağ bu fake hesap bunlara girme fake sahte yani
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  nerde kalmıştık yakışıklı şeyler
 https://www.uludagsozluk.com/k/behzat-%C3%A7-harun/&w=bg bkz hoşgeldin harun abi
