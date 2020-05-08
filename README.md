@@ -7,6 +7,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
+https://eksisozluk.com/fatih-terimin-gercek-rezalet-sicili--6184650
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/
