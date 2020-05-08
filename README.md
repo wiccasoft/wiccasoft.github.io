@@ -3,11 +3,13 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/esmer-%C3%A7iftten-d%C3%BCnyaya-gelen-sar%C4%B1-sa%C3%A7l%C4%B1-%C3%A7ocuk/ bkz oç
+https://www.uludagsozluk.com/k/peygamberin-9-ya%C5%9F%C4%B1nda-k%C4%B1zla-evlenmesi/&w=bg
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg
 bkz bilala erdoğanın tayyibten olma ihtimali
 https://www.youtube.com/watch?v=W23-Fz9_ELM
 bkz bill gates in oğlu can ıtır
 bkz zenci çiftten doğan sarışın çocuk
-https://www.uludagsozluk.com/k/esmer-%C3%A7iftten-d%C3%BCnyaya-gelen-sar%C4%B1-sa%C3%A7l%C4%B1-%C3%A7ocuk/ bkz oç
 bkz fedönünüb internete sızması
 bkz fedöncü facebook hesaplarını cimere şikayet ediyoruz kampanyası
 bkz türkler internetin virüsü değildir iddaları
