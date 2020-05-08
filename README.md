@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/gerdekten-s%C3%BCr%C3%BCnerek-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/
 bkz ozan kabak vs vedat mürüçü
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg bkz iyi top koşturan velet
