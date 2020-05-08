@@ -3,6 +3,7 @@
 
 
 <!--
+bkz ülkücülerin  gay olma sebepleri
 bkz erkan oğurun eski fotolarını arayan totoş
 bkz erkan oğurun eski fotoları
 bkz devlet bahçelini türk bayrağına götünü silmesi
