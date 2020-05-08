@@ -4,7 +4,7 @@
 <!-- 
 https://chance-boudreaux.uludagsozluk.com/ bkz sosyal medya pezevengim 
 https://chance-boudreaux.uludagsozluk.com/ kankağ yükledinmi videoları
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  kız yedi kocalı hürmüze döndüm 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd ay topum ayol kalkmıyo suç mu ayol top olmak
 https://www.instagram.com/muratovucofficiall/
 -->
 
