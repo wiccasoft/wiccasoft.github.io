@@ -3,6 +3,7 @@
 
 
 <!--
+bkz ulus cebeci çankaya kardaş deriz kankayaaaaaaaaaaa
 bkz keçiören belediyesinin suları kesmesi
 bkz mansur yavaşın keçiören de ki melik gökçek heykelini kaldırması
 bkz mansur yavaş mı berat albayrak mı sorundalı
