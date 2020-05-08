@@ -3,7 +3,8 @@
 
 
 <!--
-bkz murat övüçü memelerine şokomel döküp emmek
+bkz murat övüçün memeleriyle övünmesi
+bkz murat övüçün memelerine şokomel döküp emmek
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg ay bu da çok tatlış ayol
 bkz bera albayrakın opamuk gibi beyaz götünü ısırma isteği
 bkz berat albayrakın üstünü şokomel döküp yalamak
