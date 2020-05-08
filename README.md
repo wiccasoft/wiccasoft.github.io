@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/fet%C3%B6n%C3%BCn-sosyal-medyaya-sinsice-s%C4%B1zmas%C4%B1/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/almanc%C4%B1-k%C4%B1zlar/&w=bg bkz crazy eso
 https://www.uludagsozluk.com/k/fetocu/&w=bg bkz risalei nurcular
