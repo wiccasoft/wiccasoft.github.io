@@ -2,19 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz armalara adanmış hayatlar
-bkz giritli gencin tc cumhurbaşkanlığı armasını öpmesi
-bkz imamoğlunun tc istanbul belediyesi tabelesını astırması
-bkz facebook twitter profilinin başına tc koymayan vatan hainleri
-bkz mansur yavaşın keçiören beldeyisine tc keçiören yazdırması
-bkz bahçelininin silahımı alır kars belediyesini basarım demesi
-bkz melig gökçekin bayrak ı öpüp alnına koyması
-bkz mansur yavaşın bayrak dağıtması
-bkz keçiören belediyesinin melihin fışkiyesini kaldırması
 bkz sümeyye erdoğana suikast düzenleyecekler iddaları
 bkz selçuk bayraktarın sümeyyeyi korumak için 3 drone daha alması
 https://eksisozluk.com/hdpnin-turk-bayrakli-tabelayi-tuvalete-koymasi--6510516?a=popular
-bkz tengir budun doğan vs mersinli cihangir
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığını bulan genç
