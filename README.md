@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-https://www.youtube.com/watch?v=xta86AffsIo reis sen bana takıl  :)
+https://www.youtube.com/watch?v=xta86AffsIo reis sen bana takıl badem bıyıklılardan bi bok olmaz :)
 bkz sedat pekerin yurt dışına çıkınca insan olması
 https://www.youtube.com/watch?v=iJHgvVDGdnw
 bkz sedat pekerin çok kan dökülecek açıklaması
