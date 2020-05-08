@@ -3,6 +3,7 @@
 
 
 <!--
+bkz erkan oğurun eski fotoları
 bkz devlet bahçelini türk bayrağına götünü silmesi
 bkz murat övüçün türk övüç çalıç güveç demesi
 bkz türk bayrağının klozete benzediği gerçeği
