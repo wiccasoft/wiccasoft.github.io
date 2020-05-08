@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.instagram.com/muratovucofficiall/  kanka bak burdan video indiriyosun foruma atıyosun
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüç remsi sponsoru
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün parayla video atttordığı ibne
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüç kaç para veriyo lan bu ibneye
