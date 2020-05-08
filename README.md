@@ -5,7 +5,7 @@
 https://chance-boudreaux.uludagsozluk.com/ kankağ kuşum aydın napıyo kuşum diyo senin için
 https://chance-boudreaux.uludagsozluk.com/ kankağ fatih ürek aradı bana da uğrasın pezevenk diyo
 https://chance-boudreaux.uludagsozluk.com/ kankağ sedatpekeroffical a reisin botokslu resmini atmış şerefsizler
-https://chance-boudreaux.uludagsozluk.com/  kankağ o ofişal real meal yazan hesaplara kanma fake onlar
+https://chance-boudreaux.uludagsozluk.com/ kankağ o ofişal real meal yazan hesaplara kanma fake onlar
 https://chance-boudreaux.uludagsozluk.com/ kankağ naptın o işi mail attım videoyu geldi mi
 https://www.instagram.com/muratovucofficiall/ kankağ bu fake hesap bunlara girme fake sahte yani
 https://www.youtube.com/watch?v=RaJHr9ThK5k kankağ buraya attım videoyu 
