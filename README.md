@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz sedat pekerin yurt dışına çıkınca insan olması demeki suç sizde oç ları
+bkz sedat pekerin yurt dışına çıkınca insan olması demekki suç sizde oç ları
 https://www.youtube.com/watch?v=xta86AffsIo reis sen bana takıl badem bıyıklılardan bi bok olmaz :)
 bkz sevda noyanın en iyi türk ölü türktür açıklaması
 https://eksisozluk.com/sevda-noyan--6503022?a=popular bkz iç savaş öncesi ortalığı karıştırmak
