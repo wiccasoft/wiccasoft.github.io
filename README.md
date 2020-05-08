@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
-https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim minnoşum benim ban bi tokmakçı bulacak inşallah
+https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim minnoşum pezevengim benim 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  ay yok mu vuran 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd ayol gay olma suç mu
 https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim minnoşum
