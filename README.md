@@ -3,41 +3,6 @@
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
-<!-- 
-https://www.uludagsozluk.com/k/behzat-%C3%A7-harun/&w=bg bkz oytun karanın aşık olduğu dizi karakterleri
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7&w=bg/2 bkz kerimcan durmaz vol 2
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7&w=bg/2/ abi süper herif yaaaa
-https://www.instagram.com/muratovucofficiall/  kankağ snapchate geçti reis
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg zuhahahahhahaa
-https://www.uludagsozluk.com/e/34664517/ abi çok komik yaaaaaaaaaa
-https://www.uludagsozluk.com/k/behzat-%C3%A7-harun/&w=bg bkz erkeğin göbeklisi
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd nerde kalmıştık
-https://chance-boudreaux.uludagsozluk.com/ kankağ meme açtım canlı yayında kaydettinmi
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  nerde kaldık yakışıklı şeyler
-https://www.instagram.com/muratovucofficiall/ kankağ bu fake hesap bunlara girme fake sahte yani
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  nerde kalmıştık yakışıklı şeyler
-https://www.uludagsozluk.com/k/behzat-%C3%A7-harun/&w=bg bkz hoşgeldin harun abi
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd ay yine başlık ayol noldu yine
-https://chance-boudreaux.uludagsozluk.com/ kankağ kuşum aydın napıyo kuşum diyo senin için
-https://chance-boudreaux.uludagsozluk.com/ kankağ fatih ürek aradı bana da uğrasın pezevenk diyo
-https://chance-boudreaux.uludagsozluk.com/ kankağ sedatpekeroffical a reisin botokslu resmini atmış şerefsizler
-https://chance-boudreaux.uludagsozluk.com/ kankağ o ofişal real meal yazan hesaplara kanma fake onlar
-https://chance-boudreaux.uludagsozluk.com/ kankağ naptın o işi mail attım videoyu geldi mi
-https://www.instagram.com/muratovucofficiall/ kankağ bu fake hesap bunlara girme fake sahte yani
-https://www.youtube.com/watch?v=RaJHr9ThK5k kankağ buraya attım videoyu 
-https://chance-boudreaux.uludagsozluk.com/ bkz kankağ yükledinmi videoları canlı yayın bitti
-https://www.uludagsozluk.com/k/canan-kaftancıoğlu-tayyipçidir/ lol
-https://www.uludagsozluk.com/k/ak-parti-kemalizmin-son-meyvesidir/ lol
-https://www.uludagsozluk.com/k/fahrettin-koca-n%C4%B1n-b%C4%B1y%C4%B1%C4%9F%C4%B1-korona-yuvas%C4%B1d%C4%B1r/
-https://www.instagram.com/muratovucofficiall/
-https://chance-boudreaux.uludagsozluk.com/ kız gel canlı yayında meme açacam
-https://chance-boudreaux.uludagsozluk.com/ bkz sosyal medya pezevengim 
-https://chance-boudreaux.uludagsozluk.com/ bkz kankağ yükledinmi videoları
-https://chance-boudreaux.uludagsozluk.com/ bkz yan sekmede kaslı tiktokçu videoları izlemek
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd bkz topum ayol kalkmıyo suç mu ayol top olmak
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=bg
--->
-
 [![Image](prototype/Screenshot_2020-05-06_22-40-32.png)](https://www.youtube.com/channel/UCJEzfyorQwES0hyNpqhym_Q)
 
 [![Image](prototype/Screenshot_2020-05-05_21-11-14.png)](https://mobile.twitter.com/hicetikdegill/status/1240009792871071744 )
