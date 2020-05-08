@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/almanc%C4%B1-k%C4%B1zlar/&w=bg bkz crazy eso
 https://www.uludagsozluk.com/k/fetocu/&w=bg bkz risalei nurcular
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkseli%C5%9Fini-akp-iktidar%C4%B1na-ba%C4%9Flayan-tip/
