@@ -3,6 +3,7 @@
 
 
 <!--
+bkz bilalin selçuka enişte pompiş nasıldı diye sorması
 bkz bilal gavat mı sorundalı
 bkz bilal erdoğan vs selçuk bayraktar
 bkz beyler selçuk enişteyi övüyoruz kayınçodan göre eyi be abe ya
