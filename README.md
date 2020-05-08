@@ -3,6 +3,7 @@
 
 
 <!--
+bkz murat övüçün türk övüç çalıç güveç demesi
 bkz murat övüçün sakina cansız en iyi kürt ölü kürttür demesi
 https://www.uludagsozluk.com/k/sakine-cans%C4%B1z/&w=bgbkz en iyi kürt ölü kürttür
 bkz murat övüçün kadın gör mek  is  te mi yo rum demesi
