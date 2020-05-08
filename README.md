@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/gerdekten-topallayarak-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/ bkz kürtçü terörik hoğlatan
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
 https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg
