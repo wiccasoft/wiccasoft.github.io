@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz jonhy sinsin berata attığı ahlaksız email
 bkz jonhy sinsin tayyipin damadı ben olaydım hoplatırdım bunları demesi
 bkz tayyip selçuk a doğum gününde penis yüzüğü aldı iddaları
 bkz selçuk bayraktarın sümeyye ye uçan araba yapacam demesi
