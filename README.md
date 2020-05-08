@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=gd bkz sümeyye hoplatan
 https://www.uludagsozluk.com/k/gerdekten-topallayarak-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
