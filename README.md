@@ -2,17 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz tengir budun doğanın hdpli belediyelere yaptığı kapak
-bkz bahçelinin türk bayrağını öpüp alnına koyması
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
-bkz rte nin yere düşen türk bayrağını öpmesi
-bkz tengir budun doğanın ülkeye faydası
-bkz ülkücülerin ülkeye faydası sorunsalı
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
-bkz dedesi köyde eşek siken milletin akıl vermesi
-bkz türklerin yazacağı facebook a isim önerileri
-bkz türklerin instagram facebok twitterı en çok kullanan millet olması
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığını bulan genç
 bkz facebook un açığını bulan mersinli cihangir
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
