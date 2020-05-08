@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg bkz tengir budun doğan
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz sümeyye hoplatan
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
