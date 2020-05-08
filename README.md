@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz devlet bahçeli beka sorunsalı
 bkz selçuk bayraktarın sümeyyeyi korumak için 3 drone daha alması
 bkz illümunati sümeyye erdoğana suikast düzenleyecek iddaları
 bkz tengir budun doğan vs mersinli cihangir
