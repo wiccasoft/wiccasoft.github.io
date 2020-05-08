@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz siyasal islam
 https://www.flickr.com/photos/porahov/2305066314/in/photostream/ bkz oç
 https://www.flickr.com/photos/porahov/402127825/in/photostream/ bkz oç
 https://www.flickr.com/photos/porahov/402127832 bkz oç
