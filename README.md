@@ -3,6 +3,7 @@
 
 
 <!--
+bkz kamalcıların selçuk bayrakter sevgisi sebebi
 bkz bilal gavat mı sorundalı
 bkz türklerdeki gavatlık geni
 bkz macun kaplıcalının yılın gavta ödülünü alması
