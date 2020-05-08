@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz imama oğlunun tc istnmbul belediyesi tabelesini astırması
+bkz imamoğlunun tc istanbul belediyesi tabelesini astırması
 bkz facebook twitter profilinin başına tc koymayan vatan hainleri
 bkz mansur yavaşın keçiören beldeyisine tc keçiören yazdırması
 bkz bahçelininin silahımı alır kars belediyesini basarım demesi
