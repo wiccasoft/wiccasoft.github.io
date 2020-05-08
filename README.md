@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz ppklıların beştepeye sızması
 bkz kalkışma olmasın diye beştepe önünde bekleyen aktroller
 bkz burak özçivitin joker karakterini oynarım abi demesi
 bkz sörfayfor yunun emre yakışıklı mı sorundalı
