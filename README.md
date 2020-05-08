@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/irem-derici-nin-seksi-payla%C5%9F%C4%B1m%C4%B1/&w=gd
 bkz murat övüçün irem serici derici diyen bana demesi n demesi
 bkz irem dericinin seksi paylaşımı vs hadise seksi paylaşımı
 https://www.uludagsozluk.com/k/%C3%B6zkan-u%C4%9Fur/&w=bg
