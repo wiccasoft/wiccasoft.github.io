@@ -4,6 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
+https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular link at oç
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığını bulan genç
 https://eksisozluk.com/applein-acigini-bulup-1-5-tl-alan-mersinli-genc--6510581?a=popular bkz mersinli cihangir
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
