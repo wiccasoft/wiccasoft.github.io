@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!-- 
+https://chance-boudreaux.uludagsozluk.com/ kankağ kuşum aydın napıyo kuşum diyo senin için
 https://chance-boudreaux.uludagsozluk.com/ kankağ fatih ürek aradı bana da uğrasın pezevenk diyo
 https://chance-boudreaux.uludagsozluk.com/ kankağ sedatpekeroffical a reisin botokslu resmini atmış şerefsizler
 https://chance-boudreaux.uludagsozluk.com/  kankağ o ofişal real meal yazan hesaplara kanma fake onlar
