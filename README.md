@@ -1,8 +1,9 @@
 
-[![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en)
+[![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 
 <!--
+https://www.youtube.com/watch?v=W23-Fz9_ELM
 bkz bill gates in oğlu can ıtır
 bkz zenci çiftten doğan sarışın çocuk
 https://www.uludagsozluk.com/k/esmer-%C3%A7iftten-d%C3%BCnyaya-gelen-sar%C4%B1-sa%C3%A7l%C4%B1-%C3%A7ocuk/ bkz oç
