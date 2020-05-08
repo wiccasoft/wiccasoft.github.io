@@ -4,6 +4,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-vs-naz%C4%B1m-hikmet-ran/&w=bg
 https://eksisozluk.com/fatih-terimin-gercek-rezalet-sicili--6184650
 https://eksisozluk.com/andrea-pirlonun-fatih-terim-hakkinda-yazdiklari--5133493
