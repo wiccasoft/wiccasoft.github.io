@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/peygamberin-9-ya%C5%9F%C4%B1nda-k%C4%B1zla-evlenmesi/&w=bg
 https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz canım övdüm de geldim 
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz tayyip ibo dosluğu
