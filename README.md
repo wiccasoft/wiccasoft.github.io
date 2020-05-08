@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!-- 
-https://chance-boudreaux.uludagsozluk.com/ bkz kankağ neler kaçırdın neler murat ablan meme açtı
+https://chance-boudreaux.uludagsozluk.com/ bkz kankağ yükledinmi videoları murat ablan attı
 https://www.uludagsozluk.com/k/canan-kaftancıoğlu-tayyipçidir/ lol
 https://www.uludagsozluk.com/k/ak-parti-kemalizmin-son-meyvesidir/ lol
 https://www.uludagsozluk.com/k/fahrettin-koca-n%C4%B1n-b%C4%B1y%C4%B1%C4%9F%C4%B1-korona-yuvas%C4%B1d%C4%B1r/
