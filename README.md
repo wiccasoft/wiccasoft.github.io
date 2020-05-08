@@ -4,9 +4,8 @@
 
 <!--
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığının bulan genç
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
-https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığını bulan diyarbakırlı genç
 https://eksisozluk.com/applein-acigini-bulup-1-5-tl-alan-mersinli-genc--6510581?a=popular bkz mersinli cihangir
+https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-is-te-mi-yo-ruz/
 -->
 
