@@ -3,6 +3,7 @@
 
 
 <!--
+https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz totoş
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo tayyip dosluğu
 bkz ülkücülerin  gay olma sebepleri
 bkz erkan oğurun eski fotolarını arayan totoş
