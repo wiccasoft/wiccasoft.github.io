@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+bkz tayber doanın iibf diploması
 https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg bkz iibf diplomasisi
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg
 https://www.uludagsozluk.com/e/43298815/ adam totoş çıktı beyler
