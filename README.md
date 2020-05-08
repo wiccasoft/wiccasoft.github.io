@@ -3,7 +3,7 @@
 
 
 <!--
-https://www.pinterest.com/wiccasoft/pins/ bkz instagramda türk parasını yakan bekçi genç
+https://www.pinterest.com/wiccasoft/pins/ bkz pintereste türk parasını yakan fetöcü genç
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığının bulan genç
 https://eksisozluk.com/applein-acigini-bulup-1-5-tl-alan-mersinli-genc--6510581?a=popular bkz mersinli cihangir
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
