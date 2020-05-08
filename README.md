@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ gel kız yeni video atacam
 https://www.uludagsozluk.com/k/k%C4%B1z-olsam-ilk-sana-verirdim/&w=bg hayallerde yaşıyo bazı ibneler
 https://chance-boudreaux.uludagsozluk.com/ gel kız yeni video atacam
 https://www.instagram.com/muratovucofficiall/ kızlar snapchat açıyom meme açacam gelin
