@@ -7,6 +7,7 @@
 https://www.uludagsozluk.com/k/ciguli/&w=bg
 https://www.uludagsozluk.com/k/mehmet-ali-birand/&w=bg
 https://www.uludagsozluk.com/k/dolar-art%C4%B1nca-20-y%C4%B1ll%C4%B1k-konsolun-fiyat%C4%B1-da-artmas%C4%B1/
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-bakiresin-de%C4%9Fil-mi-diye-soran-erkek/&w=bg
 https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-vs-naz%C4%B1m-hikmet-ran/&w=bg
