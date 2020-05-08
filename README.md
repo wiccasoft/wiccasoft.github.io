@@ -3,6 +3,7 @@
 
 
 <!--
+bkz keçiören belediyesinin suları kesmesi
 bkz mansur yavaşın keçiören de ki melik gökçek heykelini kaldırması
 bkz mansur yavaş mı berat albayrak mı sorundalı
 https://www.uludagsozluk.com/k/cennet-vatan-varken-hawai-adalar%C4%B1na-giden-t%C3%BCrk%C3%A7%C3%BC/ türk önde türk ileri
