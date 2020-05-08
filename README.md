@@ -3,6 +3,7 @@
 
 
 <!--
+bkz murat övüçün kadın gör mek  is  te mi yo rum demesi
 bkz heceleyerek konuşan gay iticiliği
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-is-te-mi-yo-ruz/
 bkz murat övüçün türk övüç çalıç güveç açıklaması
