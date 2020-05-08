@@ -3,6 +3,7 @@
 
 
 <!--
+bkz berat albayrak penis yüzüğünü tayyip azıyla takıyor yalanı
 bkz herşeyi bırakıp keçiörenden ev almak
 bkz ulus cebeci çankaya kardaş deriz kankayaaaaaaaaaaa
 bkz keçiören belediyesinin suları kesmesi
