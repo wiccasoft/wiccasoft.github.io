@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/irem-derici-nin-seksi-payla%C5%9F%C4%B1m%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/nurcu-vs-fet%C3%B6c%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/fet%C3%B6n%C3%BCn-sosyal-medyaya-sinsice-s%C4%B1zmas%C4%B1/
 https://www.uludagsozluk.com/k/esmer-%C3%A7iftten-d%C3%BCnyaya-gelen-sar%C4%B1-sa%C3%A7l%C4%B1-%C3%A7ocuk/ bkz oç
