@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/e/43298815/ adam totoş çıktı beyler
 bkz gss prim borcu
 bkz osman gökçek ibrahim gökçek 
 bkz yılmaz yozdil vs müzdat gezmiş
