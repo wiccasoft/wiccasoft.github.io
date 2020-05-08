@@ -3,7 +3,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg  oğlum varmış ayol yapmayın
-https://chance-boudreaux.uludagsozluk.com/ bkz videolarımı sözlüğü atarak büyük amme hizmeti yapan yazar
 https://chance-boudreaux.uludagsozluk.com/ ay kız videolarımı atma yedi kocalı hürmüze döndüm ayol
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg ay kısmetler birikte yine
 https://chance-boudreaux.uludagsozluk.com/ ayol murat abüç videolarımıu çalıyoar yetişimn ayollllllll
