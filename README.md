@@ -3,7 +3,7 @@
 
 <!--
 bkz selçuk bayraktarın sümeyyeyi korumak için 3 drone daha alması
-bkz illümunati sümeyye erdoğana suikast düzenleyecek iddaları
+bkz sümeyye erdoğana suikast düzenleyecekler iddaları
 bkz tengir budun doğan vs mersinli cihangir
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
