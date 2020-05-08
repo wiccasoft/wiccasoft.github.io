@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/fahrettin-koca/21/ asdasdasda
 https://www.uludagsozluk.com/e/43289150/ lol
 bkz iibf mezunu olmayp adamım diye gezen tipler
 bkz burahn altıntopun idari bilimler diplaması
