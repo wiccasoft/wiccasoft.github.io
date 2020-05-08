@@ -3,6 +3,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-a-suikast-yap%C4%B1lmas%C4%B1/ 
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-cenazesinde-gerginlik/
 https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-%C4%B1n-araplarla-petrus-%C5%9Farap-i%C3%A7mesi/&w=bg
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
