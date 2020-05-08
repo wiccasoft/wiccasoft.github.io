@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!-- 
-https://www.instagram.com/muratovucofficiall/ kankağ bu fake hesap bunlara girme
+https://www.instagram.com/muratovucofficiall/ kankağ bu fake hesap bunlara girme fake sahte yani
 https://www.youtube.com/watch?v=RaJHr9ThK5k kankağ buraya attım videoyu 
 https://chance-boudreaux.uludagsozluk.com/ bkz kankağ yükledinmi videoları canlı yayın bitti
 https://www.uludagsozluk.com/k/canan-kaftancıoğlu-tayyipçidir/ lol
