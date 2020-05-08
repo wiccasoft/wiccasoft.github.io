@@ -3,6 +3,7 @@
 
 <!--
 bkz murat övüçün seksi paylaşımı
+https://eksisozluk.com/sinema-tarihinin-en-yakisikli-erkegi--5277017?a=popular bkz murat övüç
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ adamdır kankağ ben kefilim
 https://www.uludagsozluk.com/k/mangal-yakamayan-erkek/&w=bg bkz murat övüç
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 murat övüç
