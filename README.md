@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/43289150/
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 
 https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
+https://www.uludagsozluk.com/k/devletin-y%C3%BCzde-y%C3%BCz-bedava-olarak-sundu%C4%9Fu-hizmetler/ e devlet soy sorgulama
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
