@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular
 https://www.uludagsozluk.com/k/survivor-yasinin-rahatl%C4%B1%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/nick-alt%C4%B1n%C4%B1-kapatan-gay/&w=bg ben saldırıyorum beyler
 https://www.uludagsozluk.com/k/%C3%B6zkan-u%C4%9Fur/&w=bg adam totoş beyler
