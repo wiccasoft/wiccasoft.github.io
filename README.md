@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/volkan-giritli/&w=bg bkz iyi top koşturan velet
 bkz kamalcıların selçuk bayrakter sevgisi sebebi
 bkz bilal gavat mı sorundalı
 bkz türklerdeki gavatlık geni
