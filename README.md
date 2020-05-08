@@ -7,6 +7,7 @@
 
 <!-- 
 https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 lol
+https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-iyi-tc-cumhurba%C5%9Fkan%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/
 https://www.uludagsozluk.com/k/luka-doncic/&w=bg
