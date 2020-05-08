@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://eksisozluk.com/fatih-terimin-gercek-rezalet-sicili--6184650
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg
