@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular
 https://eksisozluk.com/fatih-terimin-gercek-rezalet-sicili--6184650
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
