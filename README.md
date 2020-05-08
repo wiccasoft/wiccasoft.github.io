@@ -3,8 +3,7 @@
 
 
 <!--
-bkz sümyeye erdoğana suikast yapıalcağı iddaları
-https://www.instagram.com/beratalbayrak/
+bkz sümeyye erdoğana suikast yapılacağı iddaları
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=gd
 https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-a-suikast-yap%C4%B1lmas%C4%B1/ 
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-cenazesinde-gerginlik/
