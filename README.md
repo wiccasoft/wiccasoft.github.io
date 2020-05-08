@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-ne-i%C5%9Fe-yar%C4%B1yor/
 https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz cemil ipekçi
 https://www.uludagsozluk.com/k/gerdekten-s%C3%BCr%C3%BCnerek-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
