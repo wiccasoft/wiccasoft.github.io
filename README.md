@@ -3,6 +3,7 @@
 
 
 <!--
+https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığının bulan genç
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığını bulan diyarbakırlı genç
 bk< apple ın açığını bulan mersinli genç
