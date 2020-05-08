@@ -6,6 +6,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+bkz türklerin konuşsarak zengin ettiği karakterler
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg 
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular
