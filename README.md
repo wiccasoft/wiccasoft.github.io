@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz bahçelininin silahımı alır kars belediyesini basarım demesi
 bkz melig gökçekin bayrak ı öpüp alnın koyması
 bkz mansur yavaşın bayrak dağıtması
 bkz keçiören belediyesinin melihin fışkiyesini kaldırması
