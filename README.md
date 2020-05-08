@@ -3,6 +3,7 @@
 
 
 <!--
+bkz bilal gavat mı sorundalı
 bkz bilal erdoğan vs selçuk bayraktar
 bkz beyler selçuk enişteyi övüyoruz kayınçodan göre eyi be abe ya
 bkz sümeyye erdoğana suikast yapılacağı iddaları
