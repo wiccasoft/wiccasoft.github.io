@@ -3,6 +3,7 @@
 
 
 <!--
+bkz beratın oğlunun babişkosundan yakışıklı olacağı gerçeği
 bkz beratın penis yüzüğünü tayyip azıyla takıyor yalanı
 bkz berat albayrak yahuşuhluluğu
 bkz yavaşla hoızlı bir gece vs imamaoğlanla romntik bir gece
