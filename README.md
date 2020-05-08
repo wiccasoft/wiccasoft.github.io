@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz heceleyerek konuşan gay iticiliği
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-is-te-mi-yo-ruz/
 bkz ülkeleri batarken tabelayla uğraşan vasıfsızlar
 https://eksisozluk.com/hdpnin-turk-bayrakli-tabelayi-tuvalete-koymasi--6510516?a=popular
 bkz devlet bahçeli beka sorunsalı
