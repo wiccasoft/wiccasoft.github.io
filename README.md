@@ -3,6 +3,7 @@
 
 
 <!--
+bkz berat albayrak yahuşuhluluğu
 bkz yavaşla hoızlı bir gece vs imamaoğlanla romntik bir gece
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/
 bkz damadın tayyibin kızını hoplattığı gerçeği
