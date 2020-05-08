@@ -3,7 +3,8 @@
 
 
 <!--
-bkz kamalcıalrın insanların yatak odalarına girme sebepleri
+https://www.uludagsozluk.com/k/volkan-giritli/&w=gd bkz ozan kabakın liseden arkadaşı
+bkz kamalcıların insanların yatak odalarına girme sebepleri
 https://www.uludagsozluk.com/k/peygamberin-9-ya%C5%9F%C4%B1nda-k%C4%B1zla-evlenmesi/&w=bg
 https://www.uludagsozluk.com/k/gerdekten-s%C3%BCr%C3%BCnerek-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/
