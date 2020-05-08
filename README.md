@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg
 https://www.uludagsozluk.com/k/damat-berat%C4%B1n-asl%C4%B1nda-sempatik-olmas%C4%B1/
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
