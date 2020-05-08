@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-iyi-tc-cumhurba%C5%9Fkan%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/
 https://www.uludagsozluk.com/k/luka-doncic/&w=bg
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/ bkz rte
