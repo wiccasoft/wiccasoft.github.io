@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ sosyal medya mejerim videoları nerden buluyo fiç bi fikrim yok
 https://chance-boudreaux.uludagsozluk.com/ yeni video mu alınca at sözlüğe izlesin garibanlar
 https://chance-boudreaux.uludagsozluk.com/ kız yeni video attım aldın mı
 https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg ay ben topum ayol demem öle şey
