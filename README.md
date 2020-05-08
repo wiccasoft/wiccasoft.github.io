@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.instagram.com/muratovucofficiall/ meme aç orospu
 bkz murat övüçün memeleriyle övünmesi
 bkz murat övüçün memelerine şokomel döküp emmek
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg ay bu da çok tatlış ayol
