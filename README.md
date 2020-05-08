@@ -3,6 +3,7 @@
 
 <!--
 bkz murat övüçün seksi paylaşımı
+https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/ adamdır kankağ ben kefilim
 https://www.uludagsozluk.com/k/mangal-yakamayan-erkek/&w=bg bkz murat övüç
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 murat övüç
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=bg bkz murat övüç
