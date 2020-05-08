@@ -1,6 +1,12 @@
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=NXQJ9iR5BkA)
 
+
+<!--
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg
+https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-a-suikast-yap%C4%B1lmas%C4%B1/ 
+-->
+
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=xta86AffsIo)
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
