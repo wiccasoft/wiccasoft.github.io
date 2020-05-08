@@ -3,6 +3,7 @@
 
 
 <!--
+https://eksisozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular link at oç
 https://eksisozluk.com/murat-ovucun-reklam-basina-20-bin-tl-almasi--6509787?a=popular izleyen ibneler düşünsün
