@@ -1,7 +1,10 @@
 
+[![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=pCp9DnATi5k)
+
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.youtube.com/watch?v=pCp9DnATi5k
 https://www.uludagsozluk.com/k/galatasaray/
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://www.uludagsozluk.com/k/s%C3%BCleyman-seba/&w=bg
