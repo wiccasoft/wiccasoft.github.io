@@ -3,6 +3,7 @@
 
 
 <!--
+https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular adam totoş beyler
 bkz murat övüçün türk olmakla övüçmesi
 bkz murat övüçün türk övüç çalıç güveç demesi
 bkz murat övüçün sakina cansız en iyi kürt ölü kürttür demesi
