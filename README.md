@@ -3,6 +3,7 @@
 
 
 <!--
+bkz facebook un açığını bulan mersinli genç
 https://www.uludagsozluk.com/  bkz hayallerde yaşıyor bazı ibneler 
 https://eksisozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
