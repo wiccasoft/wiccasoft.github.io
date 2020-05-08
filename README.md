@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/
 bkz ozan kabak vs vedat mürüçü
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg bkz iyi top koşturan velet
 bkz bilal gavat mı sorundalı
