@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.instagram.com/muratovucofficiall/
+https://www.uludagsozluk.com/k/canan-kaftancıoğlu-tayyipçidir/ lol
 https://chance-boudreaux.uludagsozluk.com/ kız gel canlı yayında meme açacam
 https://chance-boudreaux.uludagsozluk.com/ bkz sosyal medya pezevengim 
 https://chance-boudreaux.uludagsozluk.com/ bkz kankağ yükledinmi videoları
