@@ -3,11 +3,11 @@
 
 
 <!--
+bkz bilal gavat mı sorundalı
 bkz türklerdeki gavatlık geni
 bkz macun kaplıcalının yılın gavta ödülünü alması
 bkz kızlarını başka erkkelere siktirecek kadar gavat olmak
 bkz bilalin selçuka enişte pompiş nasıldı diye sorması
-bkz bilal gavat mı sorundalı
 bkz bilal erdoğan vs selçuk bayraktar
 bkz beyler selçuk enişteyi övüyoruz kayınçodan göre eyi be abe ya
 bkz sümeyye erdoğana suikast yapılacağı iddaları
