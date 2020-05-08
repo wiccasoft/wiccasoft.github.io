@@ -4,9 +4,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz siyasal islam
-https://www.flickr.com/photos/porahov/2305066314/in/photostream/ bkz oç
-https://www.flickr.com/photos/porahov/402127825/in/photostream/ bkz oç
-https://www.flickr.com/photos/porahov/402127832 bkz oç
 https://www.uludagsozluk.com/k/esmer-%C3%A7iftten-d%C3%BCnyaya-gelen-sar%C4%B1-sa%C3%A7l%C4%B1-%C3%A7ocuk/ bkz oç
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
 https://www.uludagsozluk.com/k/allah-kemalistlerin-%C3%B6mr%C3%BCnden-als%C4%B1n-erdo%C4%9Fana-versin/&w=bg
