@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz cemil ipekçi
 https://www.uludagsozluk.com/k/gerdekten-s%C3%BCr%C3%BCnerek-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
 https://www.uludagsozluk.com/k/volkan-giritli/&w=gd bkz ozan kabakın liseden arkadaşı
 bkz kamalcıların insanların yatak odalarına girme sebepleri
