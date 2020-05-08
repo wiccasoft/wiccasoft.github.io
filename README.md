@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd  ay yok ayol bunda erkek olmaz
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd ayol top bu 
 https://www.uludagsozluk.com/k/and%C4%B1m%C4%B1z/&w=bg bkz top önde top ileri
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd yop bu ayol uzak durun kızlar
