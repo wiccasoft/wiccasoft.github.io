@@ -3,6 +3,7 @@
 
 
 <!--
+bkz murat övüçün türk övüç çalıç güveç ayol demesi
 bkz ulus vebeci çankaya mansur başkanla ankara bambaşkaaaaaaaaaa
 https://www.uludagsozluk.com/k/chp-belediyecili%C4%9Fi/&w=bg bkz keçiören de çamur içiyoduk çamur
 bkz murat övüçün o kadar yakışıklı olmadığı gerçeği
