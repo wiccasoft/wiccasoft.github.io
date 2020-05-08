@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ ay kız videolarımı atma yedi kocalı hürmüze döndüm ayol
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg ay kısmetler birikte yine
-https://chance-boudreaux.uludagsozluk.com/ ayol videolarımı atma yedi kocalı hürmüze döndüm ayol
 https://chance-boudreaux.uludagsozluk.com/ ayol murat abüç videolarımıu çalıyoar yetişimn ayollllllll
 https://chance-boudreaux.uludagsozluk.com/  kız sen benim videoları nerden buluyo nde bakem hele
 bkz murat öbüçe bi iftira da sen at ayol
