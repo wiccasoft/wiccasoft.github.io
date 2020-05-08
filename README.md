@@ -14,21 +14,9 @@ https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/ bkz rte
 https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/
 bkz idari bilimler diplomasını çıkarıp masaya vuran erkek
-https://www.uludagsozluk.com/e/43289150/ lol
-https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/fahrettin-koca/21/ asdasdasda
-bkz iibf mezunu olmayp adamım diye gezen tipler
-bkz burahn altıntopun idari bilimler diplaması
-bkz imamaoğlunun ingilizçe işletme diploması
-bkz tayber doanın iibf diploması
-bkz tayber doan iibf bitirmek klay mı lan demesi
 https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg bkz iibf diplomasisi
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg
 https://www.uludagsozluk.com/e/43298815/ adam totoş çıktı beyler
-bkz gss prim borcu
-bkz osman gökçek ibrahim gökçek 
-bkz yılmaz yozdil vs müzdat gezmiş
-bkz yılmaz yozdil vs yılmaz morgül
 bkz jeff bezos vs macun kaplıcalı
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz 8 kere döşemiş reis
 https://www.uludagsozluk.com/k/%C3%B6zkan-u%C4%9Fur/&w=bg adam totoş çıktı beyler
