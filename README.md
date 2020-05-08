@@ -5,6 +5,7 @@
 <!--
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular link at oç
+https://eksisozluk.com/murat-ovucun-reklam-basina-20-bin-tl-almasi--6509787?a=popular izleyen ibneler düşünsün
 https://eksisozluk.com/youtuber-kazancina-38-vergi-gelmesi--6510244?a=popular hohohohoho enes batur düşünsün
 https://eksisozluk.com/ozkan-ugurun-genclik-fotografi--6510571?a=popular bkz instagramın açığını bulan genç
 https://eksisozluk.com/applein-acigini-bulup-1-5-tl-alan-mersinli-genc--6510581?a=popular bkz mersinli cihangir
