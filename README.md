@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz tangır budun doğanın kalkışma olmasın diye tankın içine girmesi
 bkz atacücük 161 boyla nasıl hilafeti kaldırdı sorundalı
 https://www.uludagsozluk.com/k/hilafeti-kald%C4%B1ran-adama-m%C3%BCsl%C3%BCman-demek/&w=bg
 bkz ppklıların beştepeye sızması
