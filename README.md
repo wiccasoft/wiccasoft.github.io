@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz sümeyye erdoğan suikast iddaları
 bkz elif can yetimin selçukla berat arasında kalması
 bkz tengir budun doğan vs mersinli cihangir
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
