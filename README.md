@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1-n%C4%B1n-%C3%A7%C4%B1karaca%C4%9F%C4%B1-kitaba-isim-%C3%B6nerileri/
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/
