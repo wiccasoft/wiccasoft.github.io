@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.uludagsozluk.com/k/and%C4%B1m%C4%B1z/&w=bg bkz top önde top ileri
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd yop bu ayol uzak durun kızlar
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd ayol bu sikemez
 bkz yakışıklı deyince akla gelen ilk erkek sorundalı
