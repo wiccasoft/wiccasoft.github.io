@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz ben saldırıyorum beyler
 bkz ben devletimi korurum diyen ergene yürü koçum kim tutar seni demek
 https://www.uludagsozluk.com/k/g%C3%BClerek-ben-felsefeden-anlamam-ki-diyen-k%C4%B1z/&w=bg bkz atacan sen misin lan
