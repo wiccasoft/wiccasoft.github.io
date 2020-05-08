@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular
 https://www.uludagsozluk.com/k/hendek-operasyonlar%C4%B1/ bkz mümbiçi ddolaşte gez oglimmmmmmm
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz ben saldırıyorum beyler
