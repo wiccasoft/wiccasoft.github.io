@@ -4,6 +4,7 @@
 <!--
 bkz murat övüçün seksi paylaşımı
 https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim 
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fe-yav%C5%9Fayan-k%C4%B1z/&w=bg bkz murat övüç
 https://www.uludagsozluk.com/k/k%C4%B1z-olsam-ilk-sana-verirdim/&w=bg bkz murat övüç
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fe-yav%C5%9Fayan-k%C4%B1z/&w=bg  bkz murat övüç
 https://eksisozluk.com/sinema-tarihinin-en-yakisikli-erkegi--5277017?a=popular bkz murat övüç
