@@ -6,6 +6,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/galatasaray/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://eksisozluk.com/sedat-pekerin-berat-albayrak-aciklamasi--6509744?a=popular
 https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular
 https://eksisozluk.com/fatih-terimin-gercek-rezalet-sicili--6184650
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
