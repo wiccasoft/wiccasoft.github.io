@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!-- 
-bkz genşler ben  toopum benden size koca olmaz baştan söylim de
 https://chance-boudreaux.uludagsozluk.com/ kız gel canlı yayında meme açacam
 https://chance-boudreaux.uludagsozluk.com/ bkz sosyal medya pezevengim 
 https://chance-boudreaux.uludagsozluk.com/ kankağ yükledinmi videoları
