@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+bkz irem dericinin seksi paylaşımı vs hadise seksi paylaşımı
 https://www.uludagsozluk.com/k/%C3%B6zkan-u%C4%9Fur/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=gd
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd
