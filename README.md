@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/inci-s%C3%B6zl%C3%BCk-de-hakk%C4%B1m%C4%B1zda-yaz%C4%B1lanlar/
 https://eksisozluk.com/mansur-yavasin-melih-gokceke-bos-damacana-demesi--6510137?a=popular
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg
