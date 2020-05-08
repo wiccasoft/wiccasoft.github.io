@@ -3,6 +3,7 @@
 
 
 <!--
+bkz erkan oğurun eski fotolarını arayan totoş
 bkz erkan oğurun eski fotoları
 bkz devlet bahçelini türk bayrağına götünü silmesi
 bkz murat övüçün türk övüç çalıç güveç demesi
