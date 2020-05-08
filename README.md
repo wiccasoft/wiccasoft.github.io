@@ -3,7 +3,7 @@
 
 
 <!--
-bkz devley bahçelini tuvalete düşen türk bayrağına götünü silmesi
+bkz devlet bahçelini türk bayrağına götünü silmesi
 bkz murat övüçün türk övüç çalıç güveç demesi
 bkz türk bayrağının klozete benzediği gerçeği
 https://www.uludagsozluk.com/k/chp-belediyecili%C4%9Fi/&w=bg
