@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+bkz imamaoğlunun ingilizçe işletme diploması
 bkz tayber doanın iibf diploması
 bkz tayber doan iibf bitirmek klay mı lan demesi
 https://www.uludagsozluk.com/k/diplomas%C4%B1z-cumhurba%C5%9Fkan%C4%B1/&w=bg bkz iibf diplomasisi
