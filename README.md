@@ -2,9 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz sümeyye erdoğana suikast düzenleyecekler iddaları
 bkz selçuk bayraktarın sümeyyeyi korumak için 3 drone daha alması
 https://eksisozluk.com/hdpnin-turk-bayrakli-tabelayi-tuvalete-koymasi--6510516?a=popular
-bkz sümeyye erdoğana suikast düzenleyecekler iddaları
 bkz tengir budun doğan vs mersinli cihangir
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
