@@ -3,6 +3,7 @@
 
 
 <!--
+bkz bilala erdoğanın tayyibten olma ihtimali
 https://www.youtube.com/watch?v=W23-Fz9_ELM
 bkz bill gates in oğlu can ıtır
 bkz zenci çiftten doğan sarışın çocuk
