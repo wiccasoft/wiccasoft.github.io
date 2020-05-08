@@ -6,6 +6,7 @@
 https://www.uludagsozluk.com/  bkz hayallerde yaşıyor bazı ibneler 
 https://eksisozluk.com/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
+https://eksisozluk.com/bir-erkegi-kaybetmenin-en-kisa-yolu--5923534?a=popular içine sok kankağ
 https://eksisozluk.com/tartistigi-vatandasi-vuran-bekcinin-goruntuleri--6509899?a=popular link at oç
 https://eksisozluk.com/murat-ovucun-reklam-basina-20-bin-tl-almasi--6509787?a=popular izleyen ibneler düşünsün
 https://eksisozluk.com/youtuber-kazancina-38-vergi-gelmesi--6510244?a=popular hohohohoho enes batur düşünsün
