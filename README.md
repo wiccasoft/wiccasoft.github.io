@@ -3,6 +3,7 @@
 
 
 <!--
+bkz damadın tayyibin kızını hoplattığı gerçeği
 bkz hoşlaşılan damadı türbanlıya kaptırmak
 https://www.uludagsozluk.com/k/berat-albayrak-yak%C4%B1%C5%9F%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
