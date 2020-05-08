@@ -3,7 +3,7 @@
 
 <!--
 bkz armalara adanmış hayatlar
-bkz suriyeli gencin tc cumhurbaşkanlığı armasını öpmesi
+bkz giritli gencin tc cumhurbaşkanlığı armasını öpmesi
 bkz imamoğlunun tc istanbul belediyesi tabelesını astırması
 bkz facebook twitter profilinin başına tc koymayan vatan hainleri
 bkz mansur yavaşın keçiören beldeyisine tc keçiören yazdırması
