@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-vs-naz%C4%B1m-hikmet-ran/&w=bg
 bkz yılmaz morgül vs yılmaz özdil vs yılmaz güney vs yılmaz erdoğan vs cem yılmaz vs serra yılmaz
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg
 o değil de gençler bu yazı murat övüç ablanızla geçireceksiniz
