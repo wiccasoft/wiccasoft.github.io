@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+bkz osman gökçek ibrahim gökçek 
 bkz yılmaz yozdil vs müzdat gezmiş
 bkz yılmaz yozdil vs yılmaz morgül
 bkz jeff bezos vs macun kaplıcalı
