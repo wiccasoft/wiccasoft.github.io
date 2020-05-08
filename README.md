@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
-bkz murat övüçün seksi paylaşımı
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz murat övüçün seksi paylaşımı
 https://chance-boudreaux.uludagsozluk.com/ sosyal medya menejerim 
 https://eksisozluk.com/sinema-tarihinin-en-yakisikli-erkegi--5277017?a=popular bkz murat övüç
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=bg bkz murat övüç
