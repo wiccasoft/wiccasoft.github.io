@@ -8,6 +8,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
+https://www.uludagsozluk.com/k/laiklerin-%C3%B6l%C3%BCden-medet-ummas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg
 https://www.uludagsozluk.com/k/peygamberin-9-ya%C5%9F%C4%B1nda-k%C4%B1zla-evlenmesi/&w=bg
 https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg
