@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ kankağ yükledinmi videoları
 bkz murat övüçün instagram videolarını foruma yükleme işi
 https://www.instagram.com/muratovucofficiall/  kanka bak burdan video indiriyosun foruma atıyosun
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüç remsi sponsoru
