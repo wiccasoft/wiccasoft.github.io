@@ -3,6 +3,7 @@
 
 
 <!--
+bkz murat övüçün türk övüç çalıç güveç demesi
 bkz türk bayrağının klozete benzediği gerçeği
 https://www.uludagsozluk.com/k/chp-belediyecili%C4%9Fi/&w=bg
 https://eksisozluk.com/hdpnin-turk-bayrakli-tabelayi-tuvalete-koymasi--6510516?a=popular
