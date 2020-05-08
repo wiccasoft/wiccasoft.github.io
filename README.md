@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6zkan-u%C4%9Fur/&w=bg adam totoş beyler
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/dhkpc-lilerin-cenaze-t%C3%B6reni/
 https://www.uludagsozluk.com/k/ahmet-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
