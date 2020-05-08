@@ -6,10 +6,10 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
+https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
 https://www.uludagsozluk.com/e/43289150/ 
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 
