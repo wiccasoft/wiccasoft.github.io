@@ -3,6 +3,7 @@
 
 
 <!--
+bkz macun kapılcalının yılın gavta ödülünü alması
 bkz kızlarını başka erkkelere siktirecek kadar gavat olmak
 bkz bilalin selçuka enişte pompiş nasıldı diye sorması
 bkz bilal gavat mı sorundalı
