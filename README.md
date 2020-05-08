@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg
 https://www.uludagsozluk.com/k/galatasaray/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://eksisozluk.com/sedat-pekerin-berat-albayrak-aciklamasi--6509744?a=popular
