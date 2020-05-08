@@ -6,11 +6,10 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/e/43289150/ lol
 https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 lol
 https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-iyi-tc-cumhurba%C5%9Fkan%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/
-https://www.uludagsozluk.com/k/luka-doncic/&w=bg
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/ bkz rte
 https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/
