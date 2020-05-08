@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://www.instagram.com/muratovucofficiall/ ay burdan buçluyomuş ayol sahte bu rela murat övüç burda ayoıl
 https://chance-boudreaux.uludagsozluk.com/ sosyal medya mejerim videoları nerden buluyo fiç bi fikrim yok
 https://chance-boudreaux.uludagsozluk.com/ yeni video mu alınca at sözlüğe izlesin garibanlar
 https://chance-boudreaux.uludagsozluk.com/ kız yeni video attım aldın mı
