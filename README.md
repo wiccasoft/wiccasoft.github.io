@@ -6,10 +6,10 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
-https://www.uludagsozluk.com/e/43289150/ lol
+https://www.uludagsozluk.com/e/43289150/ 
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
-https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 lol
-https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ lol
+https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 
+https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
