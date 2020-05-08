@@ -9,12 +9,6 @@ https://chance-boudreaux.uludagsozluk.com/ kankağ yükledinmi videoları
 bkz murat övüçün instagram videolarını foruma yükleme işi
 https://www.instagram.com/muratovucofficiall/  kanka bak burdan video indiriyosun foruma atıyosun
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüç remsi sponsoru
-https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün parayla video atttordığı ibne
-https://chance-boudreaux.uludagsozluk.com/ bkz murat övüç kaç para veriyo lan bu ibneye
-https://chance-boudreaux.uludagsozluk.com/ kız git bi bak yeni video atmış mı murat amcan
-https://www.instagram.com/muratovucofficiall/ ay burdan buluyomuş ayol sahte bu real murat övüç burda ayoıl
-https://chance-boudreaux.uludagsozluk.com/ sosyal medya mejerim videoları nerden buluyo fiç bi fikrim yok
-https://chance-boudreaux.uludagsozluk.com/ yeni video mu alınca at sözlüğe izlesin garibanlar
 https://chance-boudreaux.uludagsozluk.com/ kız yeni video attım aldın mı
 https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg ay ben topum ayol demem öle şey
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg ay resmne marka oldum ayol
