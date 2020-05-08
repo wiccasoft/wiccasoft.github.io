@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/fetocu/&w=bg bkz risalei nurcular
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 https://www.uludagsozluk.com/k/dolar%C4%B1n-y%C3%BCkseli%C5%9Fini-akp-iktidar%C4%B1na-ba%C4%9Flayan-tip/
 https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/
