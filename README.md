@@ -3,6 +3,7 @@
 
 
 <!--
+bkz türkler internetin virüsü değildir iddaları
 https://www.uludagsozluk.com/k/almanc%C4%B1-k%C4%B1zlar/&w=bg bkz crazy eso
 https://twitter.com/yusufyakub1453/status/1121347541361152000?lang=en
 https://www.uludagsozluk.com/k/fet%C3%B6n%C3%BCn-sosyal-medyaya-sinsice-s%C4%B1zmas%C4%B1/
