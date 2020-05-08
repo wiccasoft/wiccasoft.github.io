@@ -3,6 +3,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/esmer-%C3%A7iftten-d%C3%BCnyaya-gelen-sar%C4%B1-sa%C3%A7l%C4%B1-%C3%A7ocuk/
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg
 https://www.uludagsozluk.com/k/aleyna-tilki-vs-ajdar/&w=bg
 https://www.uludagsozluk.com/k/peygamberin-9-ya%C5%9F%C4%B1nda-k%C4%B1zla-evlenmesi/&w=gd
 https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
