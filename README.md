@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ bkz murat övüçün parayla video atttordığı ibne
 https://chance-boudreaux.uludagsozluk.com/ bkz murat övüç kaç para veriyo lan bu ibneye
 https://chance-boudreaux.uludagsozluk.com/ kız git bi bak yeni video atmış mı murat amcan
 https://www.instagram.com/muratovucofficiall/ ay burdan buluyomuş ayol sahte bu real murat övüç burda ayoıl
