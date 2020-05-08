@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo tayyip dosluğu
 bkz ülkücülerin  gay olma sebepleri
 bkz erkan oğurun eski fotolarını arayan totoş
 bkz erkan oğurun eski fotoları
