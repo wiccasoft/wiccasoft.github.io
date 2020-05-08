@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/al-pacino/&w=bg
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-diye-yutturulan-%C3%BCnl%C3%BCler/&w=gd
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://www.uludagsozluk.com/k/behzat-%C3%A7-harun/&w=bg
