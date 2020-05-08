@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
 <!--
+thtps://chance-boudreaux.uludagsozluk.com/ o değil de bi murat övüç vardı noldu ona kankağğğ
 https://chance-boudreaux.uludagsozluk.com/  bkz gömleğini yırtan genç tiktokçu videosu bulsana kankağ
 https://chance-boudreaux.uludagsozluk.com/ kankağ yükledinmi videoları
 bkz murat övüçün instagram videolarını foruma yükleme işi
