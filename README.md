@@ -3,6 +3,7 @@
 
 
 <!--
+bkz berat albayrakın üstünü şokomel döküp yalamak
 bkz ben fero seksi mi sorundalı
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg bkz kapağı koymuş ayol
 bkz ben fero mu norm endermi sorundalı ayol
