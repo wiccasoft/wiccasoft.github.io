@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg
 https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
