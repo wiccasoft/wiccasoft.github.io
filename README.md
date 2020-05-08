@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz sörfayfor yunun emre yakışıklı mı sorundalı
 https://www.uludagsozluk.com/k/joker-karakterini-oynayabilecek-t%C3%BCrk-akt%C3%B6r/&w=bg burak özçivit
 bkz götün yiyosa pes atalım diyen ppklı
 bkz lol de eline veririm diyen ppklı
