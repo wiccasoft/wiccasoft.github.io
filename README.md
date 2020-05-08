@@ -4,6 +4,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
 
 <!-- 
+https://www.uludagsozluk.com/k/berkant-g%C3%B6ktan/&w=bg
 bkz alper potuk vs selçuk şahin
 bkz barış özcan vs murat övüç
 bkz ruhi çenet türkünün steve jobs'ıysa barış özcan elon muskıdır
