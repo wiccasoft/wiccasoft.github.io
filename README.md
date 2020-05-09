@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz bahçeli tersten saplar
+bkz bahçeli tersten saplar victory day olur adı
 bkz aldınız mı bilali verdiniz hilali 
 bkz bilezik gibi geçirdi anlamı da çıkabilir
 bkz şaka maka bahçelinin boru gibi saplaması
