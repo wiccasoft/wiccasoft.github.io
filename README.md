@@ -4,74 +4,9 @@
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
-<!--
-bkz aldınız mı bilali verdiniz hilali 
-bkz bilezik gibi geçirdi anlamı da çıkabilir
-bkz bahçeli tersten saplar victory day olur adı
-bkz şaka maka bahçelinin boru gibi saplaması
-bkz 9 mayıs victor day parade manidar bahçeli saplaması 
-bkz havalandın mı bahçeli tersten çakar sana olursun victory parade
-bkz cartelin de dediği gibi boş konuşursan bahçeli tersten saplar sana
-https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
-https://www.uludagsozluk.com/k/9-may%C4%B1s-2020-devlet-bah%C3%A7eli-nin-kazan-kald%C4%B1rmas%C4%B1/
--->
-
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=xta86AffsIo)
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=bftp50LDLYY)
-
-<!-- 
-https://www.uludagsozluk.com/k/s%C3%BCmeyye-erdo%C4%9Fan-a-suikast-yap%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg
-https://www.uludagsozluk.com/k/hakan-t%C3%BCrk/&w=bg
-https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1-n%C4%B1n-%C3%A7%C4%B1karaca%C4%9F%C4%B1-kitaba-isim-%C3%B6nerileri/
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
-https://www.uludagsozluk.com/k/laiklerin-%C3%B6l%C3%BCden-medet-ummas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg
-https://www.uludagsozluk.com/k/peygamberin-9-ya%C5%9F%C4%B1nda-k%C4%B1zla-evlenmesi/&w=bg
-https://www.uludagsozluk.com/k/sik-am%C4%B1n%C4%B1-be-ya-diyen-psikolog/&w=bg
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz canım övdüm de geldim 
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz tayyip ibo dosluğu
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=gd bkz sümeyye hoplatan
-https://www.uludagsozluk.com/k/gerdekten-topallayarak-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
-https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.uludagsozluk.com/k/volkan-giritli/&w=bg bkz tengir budun doğan
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz sümeyye hoplatan
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
-https://www.uludagsozluk.com/k/gerdekten-topallayarak-%C3%A7%C4%B1kan-k%C4%B1z/ bkz sümeyye erdoğan
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/ bkz kürtçü terörik hoğlatan
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg bkz ibo rte dosluğu
-https://www.uludagsozluk.com/k/yakışıklı-olgun-erkekler/&w=bg
-https://www.uludagsozluk.com/k/yakışıklı-diye-yutturulan-ünlüler/&w=bg
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkeklerin-gay-olu%C5%9Fu/&w=bg
-https://www.uludagsozluk.com/k/%C3%B6zkan-u%C4%9Fur/&w=bg adam totoş beyler
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/dhkpc-lilerin-cenaze-t%C3%B6reni/
-https://www.uludagsozluk.com/k/ahmet-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
-https://www.uludagsozluk.com/k/sümeyye-erdoğan-ın-araplarla-petrus-şarap-içmesi/&w=bg
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg
-https://www.uludagsozluk.com/k/volkan-giritli/&w=bg
-https://www.uludagsozluk.com/k/gay-vs-pezevenk/
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-cenazesinde-gerginlik/&w=gd
-https://eksisozluk.com/fatih-terimin-gercek-rezalet-sicili--6184650
-https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/
-https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-bo%C4%9Farak-%C3%B6ld%C3%BCren-futbolcu/
-https://www.uludagsozluk.com/e/43289150/ 
-https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
-https://eksisozluk.com/puanim-yetiyordu-ama-tip-yazmadim--2399713 
-https://www.uludagsozluk.com/k/3-ayl%C4%B1k-e%C4%9Fitimle-doktor-olunabilece%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
-https://www.uludagsozluk.com/k/grup-yorum-%C3%BCyesi-ibrahim-g%C3%B6k%C3%A7ek-in-%C3%B6lmesi/
-https://www.uludagsozluk.com/k/devletin-y%C3%BCzde-y%C3%BCz-bedava-olarak-sundu%C4%9Fu-hizmetler/ e devlet soy sorgulama
--->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=uhyTV5OJm-8)
 
