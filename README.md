@@ -6,6 +6,7 @@ bkz jacinda ardern vs tayberdoan
 bkz sevda tarramın ucunda ömer vs behzat ç faruk
 bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
+bkz yiyin birbirinizi ete para vermeyinin ingilizcesi
 bkz sümeyye erdoğana suikast iddaları söylentileri 
 bkz bi kamalcının kulağına devletin nerde deyip kaçmak
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
