@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-https://eksisozluk.com/sevda-noyan--6503022?a=popular link açılmıyo kankağ 
+https://eksisozluk.com/sevda-noyan--6503022?a=popular link açılmıyo kankağ yedeğ link atın
 bkz jacinda ardern vs tayberdoan
 bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
