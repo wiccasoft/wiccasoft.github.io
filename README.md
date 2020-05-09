@@ -3,6 +3,7 @@
 
 <!--
 bkz aldınız mı bilali verdiniz hilali
+bkz şaka maka bahçelinin boru gibi saplaması
 bkz yeni tanıştığı kızları patlatıp kaçan erkek
 https://www.uludagsozluk.com/k/9-may%C4%B1s-2020-devlet-bah%C3%A7eli-nin-kazan-kald%C4%B1rmas%C4%B1/
 bkz mao zedong yaşasa size götünü sildirmezdi olm
