@@ -4,6 +4,8 @@
 <!--
 bkz aldınız mı bilali verdiniz hilali 
 bkz şaka maka bahçelinin boru gibi saplaması
+bkz 9 mayıs victoray parade bahçeli saplaması 
+bkz bilezik gibi geçirdim anlamıda çıkabilir
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=xta86AffsIo)
