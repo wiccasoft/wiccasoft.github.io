@@ -9,6 +9,7 @@ bkz şaka maka bahçelinin boru gibi saplaması
 bkz 9 mayıs victor day parade manidar bahçeli saplaması 
 bkz havalandın mı bahçeli tersten çakar sana
 https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
+https://www.uludagsozluk.com/k/9-may%C4%B1s-2020-devlet-bah%C3%A7eli-nin-kazan-kald%C4%B1rmas%C4%B1/
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=xta86AffsIo)
