@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://www.uludagsozluk.com/k/9-may%C4%B1s-2020-devlet-bah%C3%A7eli-nin-kazan-kald%C4%B1rmas%C4%B1/
 bkz mao zedong yaşasa size götünü sildirmezdi olm
 bkz mao zedong un karıncayı incitmeden sikerim meşajı
 bkz 9 mayıs 2020 db çıkarıp resmen masaya vurması amk
