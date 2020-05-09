@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 bkz boş yapma kral alırlar aklını aynen
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
