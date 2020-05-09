@@ -3,7 +3,7 @@
 
 <!--
 bkz jacinda ardern vs tayberdoan
-bkz primci oç  bunak tangır budun doanın ekşiden çaldığı entrylerle para kazanması
+bkz primci mersicli cihangir kılıklı fetöcü oç bunak tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/k/muharrem-ince-nin-camide-trakt%C3%B6r-s%C3%BCrmesi/&w=bg 
 https://www.uludagsozluk.com/k/salg%C4%B1n-s%C4%B1ras%C4%B1nda-maske-satan-sosyal-devlet/ bkz new world order
 https://www.uludagsozluk.com/k/amerika-daki-al%C4%B1m-g%C3%BCc%C3%BC-vs-t%C3%BCrkiye-deki-al%C4%B1m-g%C3%BCc%C3%BC/ bkz 20x
