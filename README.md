@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz atara atar gidere gider gayrettepe çocuyuz biz
 bkz boş yapma kral alırlar aklını aynen
 bkz 9 mayıs 2020 sümeyye erdoğana suikast iddaları
 bkz şaka maka sümeyyenin tam emcüklenmelik hatun olması
