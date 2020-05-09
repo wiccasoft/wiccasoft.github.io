@@ -8,6 +8,7 @@ bkz bilezik gibi geçirdi anlamı da çıkabilir
 bkz şaka maka bahçelinin boru gibi saplaması
 bkz 9 mayıs victor day parade manidar bahçeli saplaması 
 bkz havalandın mı bahçeli tersten çakar sana
+bkz cartelin de dediği gibi boş konuşursan bahçeli saplar sana
 https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
 https://www.uludagsozluk.com/k/9-may%C4%B1s-2020-devlet-bah%C3%A7eli-nin-kazan-kald%C4%B1rmas%C4%B1/
 -->
