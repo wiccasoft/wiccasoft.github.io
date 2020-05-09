@@ -3,10 +3,10 @@
 
 <!--
 bkz 9 mayıs bahçeli efso çarkı
+bkz 9 mayıs 2020 devlet bahçeli geri vitesi
 https://twitter.com/dbdevletbahceli/status/1233067489183006720?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
 bkz volkan giritli vs ozan kabak
 bkz 9 mayıs 2020 bahçeli mhp grup toplantısı efso konuşması
-bkz 9 mayıs 2020 devlet bahçeli geri vitesi
 https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz dava adamı
 bkz hoşlaşılan bakanı türbanlıya kaptırmak
