@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://eksisozluk.com/birlige-sizmaya-calisan-aluminyum-folyolu-pkklilar--6511277?a=popular bkz commandos mu oynuton kankağ
 https://eksisozluk.com/esra-elonu--1406474?a=popular bkz sümeyeninin kankası
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 bkz boş yapma kral alırlar aklını aynen
