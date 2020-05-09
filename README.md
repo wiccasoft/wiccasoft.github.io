@@ -3,6 +3,7 @@
 
 <!--
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
+https://eksisozluk.com/birlige-sizmaya-calisan-alumunyum-folyolu-pkklilar--6511060?a=popular bkz ben saldırıom kankağ
 https://eksisozluk.com/yazarlarin-bizzat-gordugu-siyasetciler--6510559?a=popular bkz reise deme attım bi kere kankağ
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular bkz mansur adam mıdır 
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
