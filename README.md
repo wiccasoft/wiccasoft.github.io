@@ -3,6 +3,7 @@
 
 <!--
 bkz jacinda ardern vs tayberdoan
+bkz sevda tarramın ucunda ömer vs behzat ç faruk
 bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
 bkz sümeyye erdoğana suikast iddaları söylentileri 
