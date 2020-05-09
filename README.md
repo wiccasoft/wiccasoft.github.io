@@ -4,6 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
+https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz kralsın kankağ
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=gd bkz ibro rte dosluğu
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz sis atma oç
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular
