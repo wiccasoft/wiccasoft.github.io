@@ -11,6 +11,7 @@ bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz anarko kapitalizme giriş 101 boş yapan ülkücüleri bekleyen acı son
 bkz tangır budun doanın kulağına bursalı cihangir diyip kaçmak
+bkz cartelin de bi şarkısında dediği gibi boş konuşan avcunu yalar bu dünyada
 https://eksisozluk.com/sevda-noyan--6503022?a=popular link açılmıyo kankağ 
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
