@@ -7,8 +7,10 @@ bkz vatanseverlik korkakların sığınağıdır
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz 1 mayıs pkk bayramı 3 mayıs türk bayramı
+bkz josef stalin vs fahreddin koca
 bkz bi çuval parayla tuvalet kağıdı alınca ülkücü değil komunist olacaksınız :)))
 bkz anarko kapitalizme giriş 101 fakir ülkücüleri bekleyen acı son
+https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
 https://eksisozluk.com/ulkuculerin-pkklilardan-farki--6511330?a=popular bkz abdullah çatlı terörist mi oç
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
@@ -18,7 +20,6 @@ https://www.uludagsozluk.com/k/amerika-daki-al%C4%B1m-g%C3%BCc%C3%BC-vs-t%C3%BCr
 https://www.uludagsozluk.com/k/tarafl%C4%B1-tarafs%C4%B1z-herkesin-g%C3%B6nl%C3%BCn%C3%BC-kazanan-siyasi/ tayberdoan
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz falcao 
-bkz josef stalin vs fahreddin koca
 https://www.uludagsozluk.com/k/josef-stalin-in-kar%C4%B1ncay%C4%B1-bile-incitmedi%C4%9Fi-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/johnny-sins-in-t%C3%BCrk-yemeklerini-tatmas%C4%B1/ bkz topkek şokomel yine gelecek ben
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz iibf mezunu adam gibi adam
