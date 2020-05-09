@@ -8,6 +8,7 @@ bkz atara atar gidere gider gayrettepe çocuyuz biz
 bkz boş yapma kral alırlar aklını aynen
 bkz 9 mayıs 2020 sümeyye erdoğana suikast iddaları
 bkz şaka maka sümeyyenin tam emcüklenmelik hatun olması
+https://www.uludagsozluk.com/k/bek%C3%A7inin-sopayla-kendisine-sald%C4%B1ran-ki%C5%9Fiyi-vurmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/al%C3%BCminyum-folyolu-orospu-%C3%A7ocuklar%C4%B1/ asdasdadas olm bu nedir ya
 https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz baldız baldan datlıdır
 https://www.uludagsozluk.com/k/kim-yo-jong/&w=bg bkz beratın japonya seyahatinde hoplattığı kız
