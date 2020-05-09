@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-https://twitter.com/dbdevletbahceli/status/1233067489183006720?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
 bkz 9 mayıs bahçeli efso çarkı
+https://twitter.com/dbdevletbahceli/status/1233067489183006720?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
 bkz volkan giritli vs ozan kabak
 bkz 9 mayıs mhp grup toplantısı
 bkz 9 mayıs 2020 devlet bahçeli geri vitesi
