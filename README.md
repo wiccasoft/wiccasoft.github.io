@@ -5,6 +5,7 @@
 bkz aldınız mı bilali verdiniz hilali 
 bkz şaka maka bahçelinin boru gibi saplaması
 bkz 9 mayıs victor day parade manidar bahçeli saplaması 
+bkz bahçeli tersten saplar havalandın mı bahçeli çakar sana
 bkz bilezik gibi geçirdim anlamı da çıkabilir
 -->
 
