@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 https://eksisozluk.com/yaktigi-kopegi-instagramda-paylasan-genc--6511103?a=popular adres ver kankağ amuğa goyah
 https://eksisozluk.com/birlige-sizmaya-calisan-alumunyum-folyolu-pkklilar--6511060?a=popular bkz ben saldırıom kankağ
