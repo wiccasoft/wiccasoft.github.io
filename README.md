@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz sümeyye erdoğanın yazacağı kitaba isim önerileri
 bkz sümeyye erdoğan suikast iddaları sorundalı
 https://jsfiddle.net/Areson/z2rsyhow/ sen nasıl bi kralsın yaaaaaaa öpücük öpücük sevdim seni genç
 bkz hdpkklı stackoverflow ölücüleri
