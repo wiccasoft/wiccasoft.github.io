@@ -3,6 +3,7 @@
 
 <!--
 bkz 9 mayıs 2020 sümeyye erdoğana suikast iddaları
+https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz baldız baldan datlıdır
 https://www.uludagsozluk.com/k/kim-yo-jong/&w=bg bkz beratın japonya seyahatinde hoplattığı kız
 bkz 9 mayıs 2020 tayyip beratın penis yüzüğünü azıyla takıyor yalanı
 https://www.uludagsozluk.com/e/43289150/ zuuhahahahhahahaha
