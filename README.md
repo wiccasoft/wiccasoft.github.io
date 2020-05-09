@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-https://jsfiddle.net/Areson/z2rsyhow/ aga sen nasıl bi kralsın
+https://jsfiddle.net/Areson/z2rsyhow/ sen nasıl bi kralsın yaaaaaaa 
 bkz hdpkklı stackoverflow ölücüleri
 https://stackoverflow.com/questions/51105775/plotting-huge-trees-with-vis-js
 bkz jacinda ardern vs tayberdoan
