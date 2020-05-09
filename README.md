@@ -4,7 +4,7 @@
 <!--
 bkz aldınız mı bilali verdiniz hilali 
 bkz şaka maka bahçelinin boru gibi saplaması
-bkz 9 mayıs victoray parade bahçeli saplaması 
+bkz 9 mayıs victoray parade manidar bahçeli saplaması 
 bkz bilezik gibi geçirdim anlamıda çıkabilir
 -->
 
