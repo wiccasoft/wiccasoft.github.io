@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/43289150/ zuuhahahahhahahaha
-https://www.uludagsozluk.com/k/fahrettin-koca-ve-ziya-sel%C3%A7uk/ bkz dahrettin siker atar kankağ
+https://www.uludagsozluk.com/k/fahrettin-koca-ve-ziya-sel%C3%A7uk/ bkz fahrettin siker atar kankağ
 https://eksisozluk.com/mansur-yavas-ozur-dilesin-kampanyasi--6511292?a=popular özür dile olay kanapsın it oğlu
 https://www.uludagsozluk.com/k/modern-%C3%A7a%C4%9F%C4%B1n-hastal%C4%B1%C4%9F%C4%B1/&w=gd bkz bordo klavyelilik
 https://eksisozluk.com/osmanli-devletinin-en-agir-yenilgisi--6511246?a=popular bkz mercübadık muuharebesi
