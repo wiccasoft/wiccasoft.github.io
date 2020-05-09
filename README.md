@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://eksisozluk.com/mansur-yavas-ozur-dilesin-kampanyasi--6511292?a=popular özür dile olay kanapsın it oğlu
 https://www.uludagsozluk.com/k/modern-%C3%A7a%C4%9F%C4%B1n-hastal%C4%B1%C4%9F%C4%B1/&w=gd bkz bordo klavyelilik
 https://eksisozluk.com/osmanli-devletinin-en-agir-yenilgisi--6511246?a=popular bkz mercübadık muuharebesi
 https://www.uludagsozluk.com/k/hendek-operasyonlar%C4%B1/ bkz bordo klavyeliler strikes back
