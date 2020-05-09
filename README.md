@@ -4,7 +4,7 @@
 <!--
 bkz jacinda ardern vs tayberdoan
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
-https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz reghouli hagi selçuk alper potok
+https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz falcao 
 https://www.uludagsozluk.com/k/johnny-sins-in-t%C3%BCrk-yemeklerini-tatmas%C4%B1/ bkz topkek şokomel yine gelecek ben
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz iibf mezunu adam gibi adam
 https://www.uludagsozluk.com/k/fahrettin-koca-n%C4%B1n-b%C4%B1y%C4%B1%C4%9F%C4%B1-korona-yuvas%C4%B1d%C4%B1r/
