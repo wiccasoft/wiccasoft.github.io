@@ -4,13 +4,6 @@
 <!--
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
-https://eksisozluk.com/yaktigi-kopegi-instagramda-paylasan-genc--6511103?a=popular adres ver kankağ amuğa goyah
-https://eksisozluk.com/birlige-sizmaya-calisan-alumunyum-folyolu-pkklilar--6511060?a=popular bkz ben saldırıom kankağ
-https://eksisozluk.com/yazarlarin-bizzat-gordugu-siyasetciler--6510559?a=popular bkz reise deme attım bi kere kankağ
-https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular bkz mansur adam mıdır 
-bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
-https://www.uludagsozluk.com/k/hilafeti-kald%C4%B1ran-adama-m%C3%BCsl%C3%BCman-demek/&w=bg
-https://eksisozluk.com/yaktigi-kopegi-instagramda-paylasan-genc--6511103?a=popular
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz sis atma oç
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular
 https://www.uludagsozluk.com/k/hendek-operasyonlar%C4%B1/ bkz mümbiçi ddolaşte gez oglimmmmmmm
