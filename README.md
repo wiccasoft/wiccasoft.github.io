@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz sevda tarramın ucunda ömer berat albayrak benzerliği
 bkz hoşlaşılan bakanı türbanlıya kaptırmak
+bkz sevda tarramın ucunda ömer berat albayrak benzerliği
 bkz tayyip beratın penis yüzüğünü azıyla takıyor iddaları
 bkz berat albayrakın baldız baldan tatlıdır demesi
 bkz ulus cebeci çangaya gardaş derizzz gangayaaaaaaa
