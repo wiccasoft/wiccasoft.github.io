@@ -4,6 +4,7 @@
 <!--
 bkz jacinda ardern vs tayberdoan
 bkz vatanseverlik korkakların sığınağıdır
+bkz ulus cebeci çankaya gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz 1 mayıs pkk bayramı 3 mayıs türk bayramı
 bkz bi çuval parayla tuvalet kağıdı alınca ülkücü değil komunist olacaksınız :)))
