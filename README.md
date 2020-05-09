@@ -10,10 +10,10 @@ bkz bi kamalcının kulağına devletin nerde deyip kaçmak
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz anarko kapitalizme giriş 101 boş yapan ülkücüleri bekleyen acı son
+bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
 https://eksisozluk.com/ulkuculerin-pkklilardan-farki--6511330?a=popular bkz abdullah çatlı terörist mi oç
-bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/k/muharrem-ince-nin-camide-trakt%C3%B6r-s%C3%BCrmesi/&w=bg 
 https://www.uludagsozluk.com/k/salg%C4%B1n-s%C4%B1ras%C4%B1nda-maske-satan-sosyal-devlet/ bkz new world order
 https://www.uludagsozluk.com/k/amerika-daki-al%C4%B1m-g%C3%BCc%C3%BC-vs-t%C3%BCrkiye-deki-al%C4%B1m-g%C3%BCc%C3%BC/ bkz 20x
