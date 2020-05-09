@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-https://www.uludagsozluk.com/k/kim-yo-jong/&w=bg bkz beratın japınya seyahatinde hoplattığı kız
+https://www.uludagsozluk.com/k/kim-yo-jong/&w=bg bkz beratın japonya seyahatinde hoplattığı kız
 bkz 9 mayıs 2020 tayyip beratın penis yüzüğünü azıyla takıyor yalanı
 https://www.uludagsozluk.com/e/43289150/ zuuhahahahhahahaha
 https://www.uludagsozluk.com/k/fahrettin-koca-ve-ziya-sel%C3%A7uk/ bkz fahrettin siker atar kankağ
