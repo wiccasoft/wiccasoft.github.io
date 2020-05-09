@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://eksisozluk.com/esra-elonu--1406474?a=popular bkz sümeyeninin kankası
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
 bkz boş yapma kral alırlar aklını aynen
 https://www.youtube.com/watch?v=EfAsNffCjsM
@@ -9,7 +10,6 @@ bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 bkz ulus cebeci çankayaaaaa gardaş deriz gangayaaaaaaaaaaa
 https://eksisozluk.com/9-mayis-2020-telefon-fiyatlarinin-ucmasi--6511358?a=popular bkz kullanmadığım için siklemediğim durum
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular bkz adam mısın lan sen
-https://eksisozluk.com/esra-elonu--1406474?a=popular bkz sümeyyenin kankası
 https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz sümeyyem gizli aşkım
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz kralsın kankağ
 https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=gd bkz ibro rte dosluğu
