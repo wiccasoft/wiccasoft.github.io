@@ -5,11 +5,11 @@
 bkz aldınız mı bilali verdiniz hilali
 bkz şaka maka bahçelinin boru gibi saplaması
 bkz yeni tanıştığı kızları patlatıp kaçan erkek
+bkz 9 mayıs 2020 db çıkarıp resmen masaya vurması amk
+bkz 9 mayıs db 2023 tek başıma iktidardayım meşazı vermesi 
 https://www.uludagsozluk.com/k/9-may%C4%B1s-2020-devlet-bah%C3%A7eli-nin-kazan-kald%C4%B1rmas%C4%B1/
 bkz mao zedong yaşasa size götünü sildirmezdi olm
 bkz mao zedong un karıncayı incitmeden sikerim meşajı
-bkz 9 mayıs 2020 db çıkarıp resmen masaya vurması amk
-bkz 9 mayıs db 2023 tek başıma iktidardayım meşazı vermesi 
 bkz 9 mayıs bahçeli efso çarkı
 bkz 9 mayıs 2020 devlet bahçeli geri vitesi
 https://twitter.com/dbdevletbahceli/status/1233067489183006720?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
