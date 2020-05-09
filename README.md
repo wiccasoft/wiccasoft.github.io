@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://www.uludagsozluk.com/k/xenofobik-halk/
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 bkz atara atar gidere gider gayrettepe çocuyuz biz
 bkz boş yapma kral alırlar aklını aynen
