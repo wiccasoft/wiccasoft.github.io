@@ -5,6 +5,7 @@
 bkz jacinda ardern vs tayberdoan
 bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
+bkz sümeyye erdoğana suikast iddaları söylentileri 
 bkz bi kamalcının kulağına devletin nerde deyip kaçmak
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
