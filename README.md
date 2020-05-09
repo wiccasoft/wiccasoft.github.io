@@ -4,7 +4,7 @@
 <!--
 bkz jacinda ardern vs tayberdoan
 bkz yeni dünya düzeninde boş yapanların acı sonu
-bkz kapitalizme girişi 101 fakir ülkücüleri bekleyen acı son
+bkz kapitalizme giriş 101 fakir ülkücüleri bekleyen acı son
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
 https://eksisozluk.com/ulkuculerin-pkklilardan-farki--6511330?a=popular bkz abdullah çatlı terörist mi oç
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
