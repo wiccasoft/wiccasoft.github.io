@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz 9 mayıs mhp grup toplantısı
 bkz 9 mayıs 2020 devlet bahçeli geri vitesi
 https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=gd bkz dava adamı
