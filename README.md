@@ -3,6 +3,7 @@
 
 <!--
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
+https://www.uludagsozluk.com/k/hilafeti-kald%C4%B1ran-adama-m%C3%BCsl%C3%BCman-demek/&w=bg
 https://eksisozluk.com/yaktigi-kopegi-instagramda-paylasan-genc--6511103?a=popular
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz sis atma oç
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular
