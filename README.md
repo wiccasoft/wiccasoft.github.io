@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz boş yapma kral alırlar aklını
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 bkz ulus cebeci çankayaaaaa gardaş deriz gangayaaaaaaaaaaa
