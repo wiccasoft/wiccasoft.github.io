@@ -3,6 +3,7 @@
 
 <!--
 bkz jacinda ardern vs tayberdoan
+https://eksisozluk.com/ulkuculerin-pkklilardan-farki--6511330?a=popular 
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/k/muharrem-ince-nin-camide-trakt%C3%B6r-s%C3%BCrmesi/&w=bg 
 https://www.uludagsozluk.com/k/salg%C4%B1n-s%C4%B1ras%C4%B1nda-maske-satan-sosyal-devlet/ bkz new world order
