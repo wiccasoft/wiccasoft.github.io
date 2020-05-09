@@ -5,17 +5,6 @@
 https://jsfiddle.net/Areson/z2rsyhow/ sen nasıl bi kralsın yaaaaaaa öpücük öpücük sevdim seni genç
 bkz hdpkklı stackoverflow ölücüleri
 https://stackoverflow.com/questions/51105775/plotting-huge-trees-with-vis-js
-bkz jacinda ardern vs tayberdoan
-bkz sevda tarramın ucunda ömer vs behzat ç faruk
-bkz what can i do sometimesssssssssss in the tabela
-bkz vatanseverlik korkakların sığınağıdır
-bkz yiyin birbirinizi ete para vermeyinin ingilizcesi
-bkz sümeyye erdoğana suikast iddaları söylentileri 
-bkz bi kamalcının kulağına devletin nerde deyip kaçmak
-bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
-bkz yeni dünya düzeninde boş yapanların acı sonu 
-bkz anarko kapitalizme giriş 101 boş yapan ülkücüleri bekleyen acı son
-bkz tangır budun doanın kulağına bursalı cihangir diyip kaçmak
 bkz cartelin de bi şarkısında dediği gibi boş konuşan avcunu yalar bu dünyada
 https://eksisozluk.com/sevda-noyan--6503022?a=popular link açılmıyo kankağ 
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
