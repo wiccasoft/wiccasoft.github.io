@@ -4,6 +4,7 @@
 <!--
 bkz 9 mayıs 2020 sümeyye erdoğana suikast iddaları
 bkz şaka maka sümeyyenin tam emcüklenmelik hatun olması
+https://www.uludagsozluk.com/k/al%C3%BCminyum-folyolu-orospu-%C3%A7ocuklar%C4%B1/ asdasdadas olm bu nedir ya
 https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz baldız baldan datlıdır
 https://www.uludagsozluk.com/k/kim-yo-jong/&w=bg bkz beratın japonya seyahatinde hoplattığı kız
 bkz 9 mayıs 2020 tayyip beratın penis yüzüğünü azıyla takıyor yalanı
