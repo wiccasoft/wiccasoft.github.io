@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz mao zedong yaşasa size götünüzü sildirmezdi olm
+bkz mao zedong yaşasa size götünü sildirmezdi olm
 bkz mao zedong un karıncayı incitmeden sikerim meşajı
 bkz 9 mayıs 2020 db çıkarıp resmen masaya vurması amk
 bkz 9 mayıs db 2023 tek başıma iktidardayım meşazı vermesi 
