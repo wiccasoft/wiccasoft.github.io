@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz ulus cebeci çangaya gardaş derizzz gangayaaaaaaa
 bkz dincilerin kızlarına verdikleri skimsonik isimler
 bkz sümeyye erdoğanın yazacağı kitaba isim önerileri 
 bkz sümeyye erdoğan suikast iddaları sorundalı
