@@ -5,6 +5,7 @@
 bkz jacinda ardern vs tayberdoan
 bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
+bkz bi kamalcının kulağına devletin nerde deyip kaçmak
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz 1 mayıs pkk bayramı 3 mayıs türk bayramı
