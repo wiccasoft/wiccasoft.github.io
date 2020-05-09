@@ -14,7 +14,6 @@ https://www.uludagsozluk.com/k/hendek-operasyonlar%C4%B1/ bkz mümbiçi ddolaşt
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz ben saldırıyorum beyler
 bkz ben devletimi korurum diyen ergene yürü koçum kim tutar seni demek
 https://www.uludagsozluk.com/k/g%C3%BClerek-ben-felsefeden-anlamam-ki-diyen-k%C4%B1z/&w=bg bkz atacan sen misin lan
-https://www.uludagsozluk.com/k/payitaht-abdulhamid/&w=bg bkz abdulhamdi ne lan
 https://eksisozluk.com/yazarlarin-bizzat-gordugu-siyasetciler--6510559?a=popular bkz sean connery benzetmesi
 bkz tangır budun doğanın kalkışma olmasın diye tankın içine girmesi
 bkz atacücük 161 boyla nasıl hilafeti kaldırdı sorundalı
