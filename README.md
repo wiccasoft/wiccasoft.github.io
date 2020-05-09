@@ -3,6 +3,7 @@
 
 <!--
 bkz jacinda ardern vs tayberdoan
+https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular boş yapanların sonu
 https://eksisozluk.com/ulkuculerin-pkklilardan-farki--6511330?a=popular abdullah çatlı terörist mi oç
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/k/muharrem-ince-nin-camide-trakt%C3%B6r-s%C3%BCrmesi/&w=bg 
