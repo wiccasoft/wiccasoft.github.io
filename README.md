@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+bkz boş yapma kral alırlar aklını aynen
 bkz 9 mayıs 2020 sümeyye erdoğana suikast iddaları
 bkz şaka maka sümeyyenin tam emcüklenmelik hatun olması
 https://www.uludagsozluk.com/k/al%C3%BCminyum-folyolu-orospu-%C3%A7ocuklar%C4%B1/ asdasdadas olm bu nedir ya
@@ -17,7 +18,6 @@ https://www.uludagsozluk.com/k/hendek-operasyonlar%C4%B1/ bkz bordo klavyeliler 
 https://eksisozluk.com/birlige-sizmaya-calisan-aluminyum-folyolu-pkklilar--6511277?a=popular bkz commandos mu oynuton kankağ
 https://eksisozluk.com/esra-elonu--1406474?a=popular bkz sümeyeninin kankası
 https://www.uludagsozluk.com/k/belediyeye-kapak-atmak/&w=bg
-bkz boş yapma kral alırlar aklını aynen
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 bkz ulus cebeci çankayaaaaa gardaş deriz gangayaaaaaaaaaaa
