@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz 9 mayıs db 2023 tek başıma iktidardayım meşazı vermesi
+bkz 9 mayıs 2020 db çıkarıp resmen masaya vurması amk
+bkz 9 mayıs db 2023 tek başıma iktidardayım meşazı vermesi 
 bkz 9 mayıs bahçeli efso çarkı
 bkz 9 mayıs 2020 devlet bahçeli geri vitesi
 https://twitter.com/dbdevletbahceli/status/1233067489183006720?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
