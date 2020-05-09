@@ -3,6 +3,7 @@
 
 <!--
 bkz jacinda ardern vs tayberdoan
+https://www.uludagsozluk.com/k/muharrem-ince-nin-camide-trakt%C3%B6r-s%C3%BCrmesi/&w=bg 
 https://www.uludagsozluk.com/k/tarafl%C4%B1-tarafs%C4%B1z-herkesin-g%C3%B6nl%C3%BCn%C3%BC-kazanan-siyasi/ tayberdoan
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz falcao 
