@@ -3,11 +3,11 @@
 
 <!--
 bkz aldınız mı bilali verdiniz hilali 
+bkz bilezik gibi geçirdim anlamı da çıkabilir
 bkz şaka maka bahçelinin boru gibi saplaması
 bkz 9 mayıs victor day parade manidar bahçeli saplaması 
 bkz bahçeli tersten saplar havalandın mı bahçeli çakar sana
 https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
-bkz bilezik gibi geçirdim anlamı da çıkabilir
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=xta86AffsIo)
