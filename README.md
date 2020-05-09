@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz 9 mayıs bahçeli efso ayarı
+bkz 9 mayıs bahçeli efso çarkı
 bkz volkan giritli vs ozan kabak
 bkz 9 mayıs mhp grup toplantısı
 bkz 9 mayıs 2020 devlet bahçeli geri vitesi
