@@ -9,10 +9,7 @@ bkz sümeyye erdoğana suikast iddaları söylentileri
 bkz bi kamalcının kulağına devletin nerde deyip kaçmak
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
-bkz 1 mayıs pkk bayramı 3 mayıs türk bayramı
-bkz josef stalin vs fahreddin koca
-bkz bi çuval parayla tuvalet kağıdı alınca ülkücü değil komunist olacaksınız :)))
-bkz anarko kapitalizme giriş 101 fakir ülkücüleri bekleyen acı son
+bkz anarko kapitalizme giriş 101 ülkücüleri bekleyen acı son
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
 https://eksisozluk.com/ulkuculerin-pkklilardan-farki--6511330?a=popular bkz abdullah çatlı terörist mi oç
