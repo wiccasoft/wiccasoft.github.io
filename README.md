@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-https://eksisozluk.com/sevda-noyan--6503022?a=popular link açılmıyo kankağ yedeğ link atın
 bkz jacinda ardern vs tayberdoan
 bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
@@ -12,6 +11,7 @@ bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz anarko kapitalizme giriş 101 boş yapan ülkücüleri bekleyen acı son
 bkz tangır budun doanın kulağına bursalı cihangir diyip kaçmak
+https://eksisozluk.com/sevda-noyan--6503022?a=popular link açılmıyo kankağ 
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
