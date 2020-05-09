@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz iibf mezunu adam gibi adam
 https://www.uludagsozluk.com/k/fahrettin-koca-n%C4%B1n-b%C4%B1y%C4%B1%C4%9F%C4%B1-korona-yuvas%C4%B1d%C4%B1r/
 https://www.uludagsozluk.com/k/fahrettin-koca-ve-ziya-sel%C3%A7uk/ bkz kamyon şöförü vs diğeri biraz daha eğitimli gibi
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz iibf mezunu adam gibi adam
