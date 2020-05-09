@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
-bkz aldınız mı bilali verdiniz hilali etti mi 3 hilal 
+bkz aldınız mı bilali verdiniz hilali 
 bkz şaka maka bahçelinin boru gibi saplaması
 bkz yeni tanıştığı kızları patlatıp kaçan erkek
 bkz 9 mayıs 2020 db çıkarıp resmen masaya vurması amk
