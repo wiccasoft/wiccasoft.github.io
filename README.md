@@ -10,7 +10,7 @@ bkz bi kamalcının kulağına devletin nerde deyip kaçmak
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
 bkz anarko kapitalizme giriş 101 boş yapan ülkücüleri bekleyen acı son
-bkz tangır budun doanın kulağına mersinli cihangir diyip kaçmak
+bkz tangır budun doanın kulağına bursalı cihangir diyip kaçmak
 bkz mersinli cihangir kılıklı fetöcü oç bunak primci tangır budun doanın ekşiden çaldığı entrylerle para kazanması
 https://www.uludagsozluk.com/e/43289150/ reis moladayız geliyom reis
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
