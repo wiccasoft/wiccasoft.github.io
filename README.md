@@ -4,6 +4,7 @@
 <!--
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
+https://www.uludagsozluk.com/k/k%C3%BCrtten-dost-olur-mu-sorunsal%C4%B1/&w=gd bkz ibro rte dosluğu
 https://eksisozluk.com/birlige-sizmaya-calisan-alimunyum-folyolu-pkklilar--6510799?a=popular bkz sis atma oç
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular
 https://www.uludagsozluk.com/k/hendek-operasyonlar%C4%B1/ bkz mümbiçi ddolaşte gez oglimmmmmmm
