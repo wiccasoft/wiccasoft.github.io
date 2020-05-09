@@ -6,7 +6,8 @@ bkz aldınız mı bilali verdiniz hilali
 bkz bilezik gibi geçirdim anlamı da çıkabilir
 bkz şaka maka bahçelinin boru gibi saplaması
 bkz 9 mayıs victor day parade manidar bahçeli saplaması 
-bkz bahçeli tersten saplar havalandın mı bahçeli çakar sana
+bkz bahçeli tersten saplar
+bkz havalandın mı bahçeli tersten çakar sana
 https://eksisozluk.com/9-mayis-2020-devlet-bahcelinin-cark-etmesi--6511543?a=popular
 -->
 
