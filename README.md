@@ -5,6 +5,7 @@
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 bkz ulus cebeci çankayaaaaa gardaş deriz gangayaaaaaaaaaaa
+https://eksisozluk.com/9-mayis-2020-telefon-fiyatlarinin-ucmasi--6511358?a=popular bkz kullanmadığım için siklemediğim durum
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular bkz adam mısın lan sen
 https://eksisozluk.com/esra-elonu--1406474?a=popular bkz sümeyyenin kankası
 https://eksisozluk.com/berat-albayrakin-yazacagi-kitaba-isim-onerileri--6508266?a=popular bkz sümeyyem gizli aşkım
