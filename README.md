@@ -3,7 +3,7 @@
 
 <!--
 bkz jacinda ardern vs tayberdoan
-bkz what can i do sometimesssssssssss
+bkz what can i do sometimesssssssssss in the tabela
 bkz vatanseverlik korkakların sığınağıdır
 bkz ulus cebeci çankayaaaaaaaa gardaş deriz gangayaaaaaaaa
 bkz yeni dünya düzeninde boş yapanların acı sonu 
