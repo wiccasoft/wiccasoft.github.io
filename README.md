@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=W23-Fz9_ELM)
 
 <!--
+https://eksisozluk.com/yazarlarin-bizzat-gordugu-siyasetciler--6510559?a=popular reise deme attım bi kere kankağ
 https://eksisozluk.com/mansur-yavasin-devlet-adami-imajini-kaybetmesi--6510952?a=popular bkz mansur adam mıdır 
 bkz sez ogliimm vadaninee göz dikeni ez oglimmmmmmmmm
 https://www.uludagsozluk.com/k/hilafeti-kald%C4%B1ran-adama-m%C3%BCsl%C3%BCman-demek/&w=bg
