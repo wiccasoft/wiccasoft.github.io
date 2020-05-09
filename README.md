@@ -4,7 +4,7 @@
 <!--
 bkz jacinda ardern vs tayberdoan
 bkz yeni dünya düzeninde boş yapanların acı sonu 
-bkz 1 mayıs pkk bayramı
+bkz 1 mayıs pkk bayramı 3 mayıs türk bayramı
 bkz bi çuval parayla tuvalet kağıdı alınca ülkücü değil komunist olacaksınız :)))
 bkz anarko kapitalizme giriş 101 fakir ülkücüleri bekleyen acı son
 https://eksisozluk.com/duyar-kasma-bos-yapma-dustum-kral-aynen--6331201?a=popular bkz boş yapanların sonu
