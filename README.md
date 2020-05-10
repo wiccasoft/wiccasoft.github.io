@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://www.uludagsozluk.com/k/halid-ziya-u%C5%9Fakl%C4%B1gil/&w=bg bkz uşak
 https://giydirmek-bedava.uludagsozluk.com/ bkz nekrofili
 https://giydirmek-bedava.uludagsozluk.com/ bkz ibrahim gökçekin mezarına girip götünü dillemek
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
