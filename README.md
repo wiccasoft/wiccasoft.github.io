@@ -3,6 +3,7 @@
 <!-- 
 bkz nihat hatipoğlan vs no doubt
 bkz michael jackson vs esra elönü
+bkz amerikalıların esra elönüye türkiyeni nmichael jackson ı demesi
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erke%C4%9Fi-ciddiye-almamak/
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/&w=bg
