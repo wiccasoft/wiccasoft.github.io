@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1l-sa%C3%A7l%C4%B1-k%C4%B1zlar/&w=bg bkz patlak kızlar
 https://sekhmet07.uludagsozluk.com/ annneni götten sikeyim oç
 bkz mustafak kemak atacücük vs recep tayyip doan
 bkz halo dayı vs seyfo dayı
