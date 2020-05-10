@@ -5,6 +5,7 @@ bkz şaka maka grup vitaminin bitmesi
 bkz şaka mamak grup yorumun tek kişi kalması
 bkz şaka maka bartu küçükçağlayanın büyümesi
 bkz manuş baba vs mabel matiz
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
 https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz google search
