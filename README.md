@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz türk övüç çalıç güveç
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlayan
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular burdayım ayol
