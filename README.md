@@ -2,6 +2,7 @@
 
 <!-- 
 bkz osmanlının yok mu ayol beni sahiplenecek türk demesi
+https://eksisozluk.com/murat-ovuc-cumhurbaskani-olursa-yasanabilecekler--6513653?a=popular lol
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz ruhsuz ve kaba türk
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular buradayım ayol
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd nerde kalmıştık
