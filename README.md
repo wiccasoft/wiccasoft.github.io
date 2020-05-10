@@ -1,33 +1,7 @@
-[![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
-<!-- 
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz türk övüç çalıç güveç
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu türk torunu türk
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlayan
-https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
-https://www.uludagsozluk.com/k/sevgilisine-atk%C4%B1-%C3%B6ren-k%C4%B1z/&w=bg bkz aşkiştoya atkı örmek
-https://eksisozluk.com/tayt-giyen-erkegin-asil-amaci--3779352?a=popular ayol suç mu size ne
-https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular burdayım ayol
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-ergen-yuvas%C4%B1-olmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1-patlat%C4%B1p-terkeden-orospu-%C3%A7ocuklar%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/sevgilisine-atk%C4%B1-%C3%B6ren-k%C4%B1z/ bkz patlatılan kız hareketleri
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-ergen-yuvas%C4%B1-olmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/ 
-https://eksisozluk.com/murat-ovuc-cumhurbaskani-olursa-yasanabilecekler--6513653?a=popular lol
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz ruhsuz ve kaba türk
-https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular buradayım ayol
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd nerde kalmıştık
-https://eksisozluk.com/starlinkin-turkiyeye-odeyecegi-gecis-vergisi--6513608?a=popular lol
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk
-https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/ bkz osmanlı torunu
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
-https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/ bkz cücük 
-https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
-https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/orhan-pamuk/&w=bg bkz pkklı ermeni sevici oç
-https://pubs.acs.org/doi/pdf/10.1021/bi00131a030
-https://www.youtube.com/watch?v=Lh3LgTPegPw 
--->
+[![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
+
+[![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=etH0V2SXN_0)
 
