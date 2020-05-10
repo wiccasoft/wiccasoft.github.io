@@ -1,7 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz bartu küçükçağlar
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz oç
+https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooo versus alırım bi dal
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
 https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
