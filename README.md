@@ -3,22 +3,10 @@
 <!-- 
 bkz muhammedin ayı ikiye yarması
 bkz patlatılan türk kızın cimere şikayet etmesi
-https://www.uludagsozluk.com/k/chp-lilerin-birbirine-d%C3%BC%C5%9Fmesi/&w=bg yiyin birbiriniz oçları
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1l-sa%C3%A7l%C4%B1-k%C4%B1zlar/&w=bg bkz patlak kızlar
-https://sekhmet07.uludagsozluk.com/ annneni götten sikeyim oç 
-bkz mustafak kemak atacücük vs recep tayyip doan
-bkz halo dayı vs seyfo dayı
-bkz enes batur vs rihanna
-bkz nihat hatipoğlan vs no doubt
-bkz michael jackson vs esra elönü
-bkz şaka maka ens batur 20 tv kanalından fazla abonesi olması
-bkz nihat hatipoğlan yütüp kanalının enes baturdan az abonesi olması
-bkz amerikalıların esra elönüye türkiyeni nmichael jackson ı demesi
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erke%C4%9Fi-ciddiye-almamak/
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooooooooo fena versus
-https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1na-gelip-de-hala-s%C3%B6zl%C3%BCkte-yazan-moruk/&w=gd güldüren oç evet
+https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooooooooo fena versus 
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
 https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/orhan-pamuk/&w=bg bkz pkklı ermeni sevici oç
