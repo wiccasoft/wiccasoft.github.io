@@ -2,6 +2,7 @@
 
 <!-- 
 bkz nihat hatipoğlan vs no doubt
+bkz michael janson vs esra elönü
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooooooooo fena versus
 https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1na-gelip-de-hala-s%C3%B6zl%C3%BCkte-yazan-moruk/&w=gd güldüren oç evet
