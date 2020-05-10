@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg
+https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular burdayım ayol
 https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
 https://www.uludagsozluk.com/k/sevgilisine-atk%C4%B1-%C3%B6ren-k%C4%B1z/&w=bg bkz aşkiştoya atkı örmek
 https://eksisozluk.com/tayt-giyen-erkegin-asil-amaci--3779352?a=popular ayol suç mu size ne
