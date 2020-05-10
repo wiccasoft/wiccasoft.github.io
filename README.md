@@ -3,6 +3,7 @@
 <!-- 
 bkz muhammedin ayı ikiye yarması
 bkz patlatılan türk kızın cimere şikayet etmesi
+https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/ bkz oç mekkeli
 https://www.uludagsozluk.com/k/trinidad-ve-tobago-bayra%C4%9F%C4%B1/ bkz oç pkk lı bayrağı
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-berat-albayrak-%C4%B1-%C3%A7ok-ba%C5%9Far%C4%B1l%C4%B1-bulmas%C4%B1/ bkz türk oğlu türk
 https://www.uludagsozluk.com/k/kamer-gen%C3%A7-vs-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz kürt oçları
