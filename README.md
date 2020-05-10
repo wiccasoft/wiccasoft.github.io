@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1na-gelmi%C5%9F-k%C4%B1z-eli-tutmam%C4%B1%C5%9F-erkek/&w=bg bkz oç
 bkz şaka maka grup yorumun 1 kişi eksilmesi
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/&w=bg 
