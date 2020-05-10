@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz ahlaksız hayvan kaba şey
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz ruhsuz ve kaba erkekler
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
 https://eksisozluk.com/erkekte-elin-cok-onemli-olmasi--1533911?a=popular bkz bartu küçükçağların elleri
