@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+bkz patlatılan kızın cimere şikayet etmesi
 https://www.uludagsozluk.com/k/chp-lilerin-birbirine-d%C3%BC%C5%9Fmesi/&w=bg yiyin birbiriniz oçları
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1l-sa%C3%A7l%C4%B1-k%C4%B1zlar/&w=bg bkz patlak kızlar
 https://sekhmet07.uludagsozluk.com/ annneni götten sikeyim oç 
