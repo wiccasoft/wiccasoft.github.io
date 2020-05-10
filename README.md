@@ -2,7 +2,10 @@
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
-<!-- https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# -->
+<!-- 
+https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+-->
 
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
 
