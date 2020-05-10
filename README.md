@@ -4,6 +4,7 @@
 bkz şaka maka grup vitaminin bitmesi
 bkz şaka mamak grup yorumun tek kişi kalması
 bkz şaka maka bartu küçükçağlayanın büyümesi
+https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz google search
 https://www.uludagsozluk.com/k/patlak-kar%C4%B1yla-evlenen-bakir-erkek/&w=bg bkz cücük lan bu
 https://www.uludagsozluk.com/k/grup-yorum-vs-gazoz-kapa%C4%9F%C4%B1/
 https://eksisozluk.com/burak-ozcivit--1507237 bkz osmanlıyı oynayabilecek türk oğlu türk
