@@ -3,9 +3,11 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular
+https://eksisozluk.com/selin-cigercinin-instagram-canli-yayin-faciasi--6514045?a=popular
 -->
 
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
