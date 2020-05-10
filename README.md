@@ -1,12 +1,6 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
-bkz şaka maka grup vitaminin bitmesi
-bkz şaka mamak grup yorumun tek kişi kalması
-bkz şaka maka bartu küçükçağlayanın büyümesi
-bkz manuş baba vs mabel matiz
-bkz selin ciğerci erkek halinin şeylere benzemesi
-bkz osmanlı torunu olduğunu inkar eden erkekler
 https://www.uludagsozluk.com/k/efe-aydal/&w=bg bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
 https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/
@@ -27,13 +21,7 @@ https://www.uludagsozluk.com/k/%C3%A7%C4%B1lg%C4%B1n-t%C3%BCrbanl%C4%B1/&w=gd bk
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz ahlaksız hayvan kaba şey
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz ruhsuz ve kaba erkekler
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz türk oğlu türk
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
-https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan-%C4%B1n-canl%C4%B1-yay%C4%B1nda-ge%C4%9Firmesi/
-https://eksisozluk.com/erkekte-elin-cok-onemli-olmasi--1533911?a=popular bkz bartu küçükçağların elleri
-https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz iyi kızlar cennete kötü kızlar heryere 
-https://eksisozluk.com/iki-erkege-birden-asik-olmak--6512519?a=popular bkz türk kızına aşk acısı çektiren erkekler
-https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz bartu küçükçağlar
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz oç
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı çocuğu
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooo versus alırım bi dal
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
