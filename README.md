@@ -3,6 +3,7 @@
 <!-- 
 bkz muhammedin ayı ikiye yarması
 bkz patlatılan türk kızın cimere şikayet etmesi
+https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erke%C4%9Fi-ciddiye-almamak/
 https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/&w=bg
