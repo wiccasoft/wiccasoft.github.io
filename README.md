@@ -7,6 +7,7 @@ bkz şaka maka bartu küçükçağlayanın büyümesi
 bkz manuş baba vs mabel matiz
 bkz selin ciğerci erkek halinin şeylere benzemesi
 bkz osmanlı torunu olduğunu inkar eden erkekler
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz omsnalı torunu olduğunu inkar eden erkek
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
