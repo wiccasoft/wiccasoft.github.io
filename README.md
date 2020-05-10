@@ -2,6 +2,7 @@
 
 <!-- 
 bkz sevdiceğine tatlı yapan kız
+bkz aşkom ilk gece patlatma beni diyen kız
 bkz senin bokunu yerim lan bokunun diyen kzı tatlığı
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-ergen-yuvas%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/ 
