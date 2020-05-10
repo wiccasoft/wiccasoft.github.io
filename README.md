@@ -3,6 +3,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/efe-aydal/&w=bg bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
+https://eksisozluk.com/starlinkin-turkiyeye-odeyecegi-gecis-vergisi--6513608?a=popular lol
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular bkz instagram
 https://www.uludagsozluk.com/k/i%C3%A7kisi-kumar%C4%B1-kezosu-olmayan-erkek/&w=bg bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
