@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://eksisozluk.com/iki-erkege-birden-asik-olmak--6512519?a=popular bkz olur öyle geçer üzme kendini
 https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz bartu küçükçağlar
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz oç
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
