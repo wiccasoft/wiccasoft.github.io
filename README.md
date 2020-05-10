@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz insta yayınlarını kaçırmadığı ağır abi
 https://www.uludagsozluk.com/k/sedat-peker/
 https://www.uludagsozluk.com/k/dizi-tarihinin-en-%C5%9Ferefsiz-karakteri/&w=bg bkz kırtlar vadi duran emmi
 https://www.uludagsozluk.com/k/ibrahim-erkal/&w=bg bkz erzincalı hemşom kral adam kankağ
