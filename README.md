@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+bkz enes batur vs rihanna
 bkz nihat hatipoğlan vs no doubt
 bkz michael jackson vs esra elönü
 bkz şaka maka ens batur 20 tv kanalından fazla abonesi olması
