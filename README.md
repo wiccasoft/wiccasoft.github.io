@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlayan
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular de siktir lo
 https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1na-gelmi%C5%9F-k%C4%B1z-eli-tutmam%C4%B1%C5%9F-erkek/&w=bg bkz oç
 bkz şaka maka grup yorumun 1 kişi eksilmesi
