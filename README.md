@@ -8,7 +8,7 @@ bkz manuş baba vs mabel matiz
 bkz selin ciğerci erkek halinin şeylere benzemesi
 bkz osmanlı torunu olduğunu inkar eden erkekler
 https://www.uludagsozluk.com/k/efe-aydal/&w=bg bkz osmanlı torunu
-https://www.uludagsozluk.com/k/ya%C5%9F-ilerledik%C3%A7e-katlan%C4%B1lmas%C4%B1-zor-olan-%C5%9Feyler/ ergenler
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
 https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/
 https://eksisozluk.com/iki-erkege-birden-asik-olmak--6512519?a=popular bkz serin hikaye birader
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlar
