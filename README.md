@@ -3,10 +3,10 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/&w=bg götünü dille 
-https://www.uludagsozluk.com/k/halid-ziya-u%C5%9Fakl%C4%B1gil/&w=bg bkz uşak
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/&w=bg 
+https://www.uludagsozluk.com/k/halid-ziya-u%C5%9Fakl%C4%B1gil/&w=bg
 https://giydirmek-bedava.uludagsozluk.com/ bkz nekrofili
-https://giydirmek-bedava.uludagsozluk.com/ bkz ibrahim gökçekin mezarına girip götünü dillemek
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
 https://www.uludagsozluk.com/k/suriyeli-bir-erkekle-evlenmek/&w=gd bkz surinamlı çocuk doğurmak
 bkz osmanlının gümbür gümbür geldiği gerçeği
