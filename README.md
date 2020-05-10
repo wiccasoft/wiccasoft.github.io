@@ -1,7 +1,6 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
-https://www.uludagsozluk.com/k/efe-aydal/&w=bg bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
 https://eksisozluk.com/starlinkin-turkiyeye-odeyecegi-gecis-vergisi--6513608?a=popular lol
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular bkz instagram
@@ -11,11 +10,8 @@ https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9
 https://eksisozluk.com/iki-erkege-birden-asik-olmak--6512519?a=popular bkz serin hikaye 
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlar
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu olduğunu inkar eden türk
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
-https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz google search
-https://www.uludagsozluk.com/k/patlak-kar%C4%B1yla-evlenen-bakir-erkek/&w=bg bkz cücük lan bu
+https://www.uludagsozluk.com/k/patlak-kar%C4%B1yla-evlenen-bakir-erkek/&w=bg bkz cücük 
 https://www.uludagsozluk.com/k/grup-yorum-vs-gazoz-kapa%C4%9F%C4%B1/
 https://eksisozluk.com/burak-ozcivit--1507237 bkz osmanlıyı oynayabilecek türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
