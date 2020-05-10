@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-ergen-yuvas%C4%B1-olmas%C4%B1/&w=bg
 bkz ben senin bokunun yerim lan bokunu diyen kız tatlılığı
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz kaba erkek pis şey
 bkz erkekler biterse napacağız sorundalı
