@@ -3,21 +3,12 @@
 <!-- 
 bkz muhammedin ayı ikiye yarması
 bkz patlatılan türk kızın cimere şikayet etmesi
-https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/ bkz oç mekkeli
-https://www.uludagsozluk.com/k/trinidad-ve-tobago-bayra%C4%9F%C4%B1/ bkz oç pkk lı bayrağı
-https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-berat-albayrak-%C4%B1-%C3%A7ok-ba%C5%9Far%C4%B1l%C4%B1-bulmas%C4%B1/ bkz türk oğlu türk
-https://www.uludagsozluk.com/k/kamer-gen%C3%A7-vs-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz kürt oçları
-https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erke%C4%9Fi-ciddiye-almamak/
-https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooooooooo fena versus 
+https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooo versus alırım bi dal
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
 https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/orhan-pamuk/&w=bg bkz pkklı ermeni sevici oç
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030
 https://www.youtube.com/watch?v=Lh3LgTPegPw 
-https://www.uludagsozluk.com/k/orospu-%C3%A7ocu%C4%9Fu-abdullah-%C3%B6calan-%C4%B1n-boynu-kopar%C4%B1ls%C4%B1n/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=etH0V2SXN_0)
