@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/sevgilisine-atk%C4%B1-%C3%B6ren-k%C4%B1z/ bkz patlatılan kız hareketleri
 bkz sevdiceğine tatlı yapan kız
 bkz aşkom ilk gece patlatma beni diyen kız
 bkz senin bokunu yerim lan bokunun diyen kzı tatlığı
