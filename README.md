@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%A7%C4%B1lg%C4%B1n-t%C3%BCrbanl%C4%B1/&w=gd bkz esra albayrak
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz ahlaksız hayvan kaba şey
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz ruhsuz ve kaba erkekler
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz türk oğlu türk
