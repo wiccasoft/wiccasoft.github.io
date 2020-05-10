@@ -3,6 +3,7 @@
 <!-- 
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030
 https://www.youtube.com/watch?v=Lh3LgTPegPw 
+https://www.uludagsozluk.com/k/orospu-%C3%A7ocu%C4%9Fu-abdullah-%C3%B6calan-%C4%B1n-boynu-kopar%C4%B1ls%C4%B1n/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=etH0V2SXN_0)
