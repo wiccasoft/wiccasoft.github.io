@@ -3,7 +3,7 @@
 <!-- 
 bkz nihat hatipoğlan vs no doubt
 bkz michael jackson vs esra elönü
-bkz şaka maka ens batur 5 tv kanalından fazla abonesi olması
+bkz şaka maka ens batur 20 tv kanalından fazla abonesi olması
 bkz nihat hatipoğlan yütüp kanalının enes baturdan az abonesi olması
 bkz amerikalıların esra elönüye türkiyeni nmichael jackson ı demesi
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek-adam-m%C4%B1d%C4%B1r/
