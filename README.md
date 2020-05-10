@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+bkz selin ciğerci erkek hali vs murat çalıç övüç güven
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz verse sikmezmisin diyince konunun kapanması
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz malum soru
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-takip-eden-erkek/ ay sanane ayol
