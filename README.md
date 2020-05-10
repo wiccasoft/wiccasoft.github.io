@@ -2,6 +2,8 @@
 
 <!-- 
 bkz osmanlının yok mu ayol beni sahiplenecek türk demesi
+bkz iki erkek arasında karasız kalmak
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/ 
 https://eksisozluk.com/murat-ovuc-cumhurbaskani-olursa-yasanabilecekler--6513653?a=popular lol
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz ruhsuz ve kaba türk
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular buradayım ayol
