@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg
+https://eksisozluk.com/tayt-giyen-erkegin-asil-amaci--3779352?a=popular ayol suç mu size ne
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular burdayım ayol
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-ergen-yuvas%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1-patlat%C4%B1p-terkeden-orospu-%C3%A7ocuklar%C4%B1/&w=bg 
