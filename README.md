@@ -3,7 +3,8 @@
 <!-- 
 bkz şaka maka grup vitaminin bitmesi
 bkz şaka mamak grup yorumun tek kişi kalması
-bkz şaka maka bartu küçükçağlayanın büyümesi
+bkz şaka maka bartu küçükçağlayanın büyümesi,
+https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
 https://eksisozluk.com/iyi-erkekler-nerede-ve-onlari-nasil-buluruz--6513482?a=popular bkz google search
 https://www.uludagsozluk.com/k/patlak-kar%C4%B1yla-evlenen-bakir-erkek/&w=bg bkz cücük lan bu
 https://www.uludagsozluk.com/k/grup-yorum-vs-gazoz-kapa%C4%9F%C4%B1/
