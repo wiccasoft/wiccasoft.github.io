@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz kaba erkek pis şey
 bkz erkekler biterse napacağız sorundalı
 bkz osmanlının yok mu ayol beni sahiplenecek türk demesi
 bkz iki erkek arasında karasız kalmak
