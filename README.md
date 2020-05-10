@@ -2,7 +2,8 @@
 
 <!-- 
 bkz şaka maka grup vitaminin bitmesi
-bkz şaka mamak grup yorumun tek kişi kalması asdasdasda
+bkz şaka mamak grup yorumun tek kişi kalması
+https://www.uludagsozluk.com/k/patlak-kar%C4%B1yla-evlenen-bakir-erkek/&w=bg bkz cücük lan bu
 https://www.uludagsozluk.com/k/grup-yorum-vs-gazoz-kapa%C4%9F%C4%B1/
 https://eksisozluk.com/burak-ozcivit--1507237 bkz osmanlıyı oynayabilecek türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
