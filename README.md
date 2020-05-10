@@ -2,7 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz türk övüç çalıç güveç
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu türk oğlu türk
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu türk torunu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlayan
 https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular burdayım ayol
 https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
