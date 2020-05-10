@@ -12,21 +12,6 @@ https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sah
 https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/ bkz cücük 
 https://eksisozluk.com/iki-erkege-birden-asik-olmak--6512519?a=popular bkz serin hikaye 
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlar
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu olduğunu inkar eden türk
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
-https://www.uludagsozluk.com/k/patlak-kar%C4%B1yla-evlenen-bakir-erkek/&w=bg bkz cücük 
-https://www.uludagsozluk.com/k/grup-yorum-vs-gazoz-kapa%C4%9F%C4%B1/
-https://eksisozluk.com/burak-ozcivit--1507237 bkz osmanlıyı oynayabilecek türk oğlu türk
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
-https://www.uludagsozluk.com/k/biran%C4%B1n-2-tl-oldu%C4%9Fu-zamanlar/&w=bg bkz 2009
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular tutmayın küçük enişteyi
-https://www.uludagsozluk.com/k/%C3%A7%C4%B1lg%C4%B1n-t%C3%BCrbanl%C4%B1/&w=gd bkz esra albayrak
-https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular bkz ahlaksız hayvan kaba şey
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz ruhsuz ve kaba erkekler
-https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz türk oğlu türk
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı çocuğu
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooo versus alırım bi dal
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
 https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/orhan-pamuk/&w=bg bkz pkklı ermeni sevici oç
