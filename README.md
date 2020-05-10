@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/michael-jackson-vs-esra-el%C3%B6n%C3%BC/ ooooooooooo fena versus
 https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1na-gelip-de-hala-s%C3%B6zl%C3%BCkte-yazan-moruk/&w=gd güldüren oç evet
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
 https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
