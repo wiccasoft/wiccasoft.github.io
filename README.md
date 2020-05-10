@@ -2,11 +2,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-%C3%BCn-ergen-yuvas%C4%B1-olmas%C4%B1/&w=bg
-bkz ben senin bokunun yerim lan bokunu diyen kız tatlılığı
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz kaba erkek pis şey
-bkz erkekler biterse napacağız sorundalı
-bkz osmanlının yok mu ayol beni sahiplenecek türk demesi
-bkz iki erkek arasında karasız kalmak
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/ 
 https://eksisozluk.com/murat-ovuc-cumhurbaskani-olursa-yasanabilecekler--6513653?a=popular lol
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz ruhsuz ve kaba türk
