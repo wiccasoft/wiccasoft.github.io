@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+bkz erkekler biterse napacağız sorundalı
 bkz osmanlının yok mu ayol beni sahiplenecek türk demesi
 bkz iki erkek arasında karasız kalmak
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/ 
