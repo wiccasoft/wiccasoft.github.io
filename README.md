@@ -5,13 +5,7 @@ https://eksisozluk.com/starlinkin-turkiyeye-odeyecegi-gecis-vergisi--6513608?a=p
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk
 https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/ bkz osmanlı torunu
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
-https://eksisozluk.com/starlinkin-turkiyeye-odeyecegi-gecis-vergisi--6513608?a=popular lol
-https://eksisozluk.com/iyi-erkeklerin-nerede-oldugu-sorunsali--6513583?a=popular bkz instagram
-https://www.uludagsozluk.com/k/i%C3%A7kisi-kumar%C4%B1-kezosu-olmayan-erkek/&w=bg bkz osmanlı torunu
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk oğlu türk
 https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/ bkz cücük 
-https://eksisozluk.com/iki-erkege-birden-asik-olmak--6512519?a=popular bkz serin hikaye 
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlar
 https://www.uludagsozluk.com/k/sevda-noyan-%C4%B1-yedirtmeyiz/ sevda noyan kim oç
 https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/orhan-pamuk/&w=bg bkz pkklı ermeni sevici oç
