@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/nab%C4%B1yonuz-lan-orospu-%C3%A7ocuklar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/efe-aydal/&w=bg bkz cumhuriyetin bekçisi efe
 https://www.uludagsozluk.com/k/orhan-pamuk/&w=bg bkz pkklı
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030
