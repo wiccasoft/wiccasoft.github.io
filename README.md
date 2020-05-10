@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/sedat-peker/
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/ bkz melih gökçek
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
