@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
-<!-- https://www.youtube.com/watch?v=Lh3LgTPegPw -->
+<!-- 
+https://pubs.acs.org/doi/pdf/10.1021/bi00131a030
+https://www.youtube.com/watch?v=Lh3LgTPegPw 
+-->
 
 [![Image](prototype/Screenshot_2020-05-07_09-44-04.png)](https://www.youtube.com/watch?v=etH0V2SXN_0)
 
