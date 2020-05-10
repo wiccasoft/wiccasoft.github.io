@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://eksisozluk.com/burak-ozcivit--1507237 bkz osmanlıyı oynayabilecek türk oğlu türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
 https://www.uludagsozluk.com/k/biran%C4%B1n-2-tl-oldu%C4%9Fu-zamanlar/&w=bg bkz 2009
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular tutmayın küçük enişteyi
