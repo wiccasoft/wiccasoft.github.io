@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://www.uludagsozluk.com/k/sedat-peker/
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
