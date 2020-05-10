@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=gd nerde kalmıştık
 https://eksisozluk.com/starlinkin-turkiyeye-odeyecegi-gecis-vergisi--6513608?a=popular lol
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlıyı sahiplenen türk
 https://www.uludagsozluk.com/k/b%C3%BClent-%C3%A7olak-penn-badgley-benzerli%C4%9Fi/ bkz osmanlı torunu
