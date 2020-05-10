@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
 
 <!-- 
-bkz mustafa kemak atacücü vs recep tayyip doan
+bkz mustafak kemak atacücük vs recep tayyip doan
 bkz halo dayı vs seyfo dayı
 bkz enes batur vs rihanna
 bkz nihat hatipoğlan vs no doubt
