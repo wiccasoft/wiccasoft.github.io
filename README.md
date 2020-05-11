@@ -4,7 +4,7 @@
 <!--
 bkz kerimcan durmazın 18 cm i vs murat övüçün 3 cm i
 bkz istanbuldan pasif varsa mersomla aldırayım genşler
-bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatylı popişini senin
+bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatlı popişini senin
 bkz sweet mandarinin tatlı götüne malafatı dayamak
 bkz atacücükün sapık ismete vurdurduğu iddası
 bkz küçük pipili kaymak oğlanları sikmenenin verdiği haz
