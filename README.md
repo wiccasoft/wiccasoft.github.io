@@ -2,7 +2,7 @@
 
 <!-- 
 bkz selon muskın atacücücü olması
-bkz selon muskın virüsü roket atalım önerisi
+bkz selon muskın virüse roket atalım önerisi
 bkz selon muskın anıtkabire roket takalım uçan anıtkabir olsun önerisi
 https://www.uludagsozluk.com/k/akp-nin-dindar-bir-gen%C3%A7lik-yeti%C5%9Ftirme-siyaseti/&w=bg bkz ak siyaset
 https://www.uludagsozluk.com/k/killa-hakan/&w=bg
