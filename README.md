@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
 bkz selon musk ne içiyo sorunsalı
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
