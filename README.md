@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit/&w=bg yakışır abime
 bkz selon muskın niye sakalları çıkmıyor sorunsalı
 bkz selon muskın canlı yayında osurması
 bkz 11 mayıs 2020 çinin incilic fırkateyni vurması
