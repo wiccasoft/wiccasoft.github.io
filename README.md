@@ -1,4 +1,7 @@
 <!-- 
+https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/
+https://eksisozluk.com/kayseride-mezara-saldirmak-icin-bekleyenler--6514297?a=popular lol
 https://www.uludagsozluk.com/k/twitterda-taciz-edilen-k%C4%B1z/ link at oç
 bkz esra albayrak suikast iddaları
 https://eksisozluk.com/11-mayis-2020-nedim-senerin-suikast-uyarisi--6514431?a=popular
