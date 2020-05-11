@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/osmanli-t%C3%BCrkmenleri-sevmezdi/
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/
 https://www.uludagsozluk.com/k/aptal-orospu-%C3%A7ocu%C4%9Fu/&w=bg
 https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg 
