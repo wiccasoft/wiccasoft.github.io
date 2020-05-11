@@ -1,8 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
-https://www.uludagsozluk.com/k/essy-nin-t%C3%BCrk-kahvesi-i%C3%A7memesi/ bkz foğşik
 https://tahir33.uludagsozluk.com/ bkz ata führerin askeri
+https://www.uludagsozluk.com/k/essy-nin-t%C3%BCrk-kahvesi-i%C3%A7memesi/ bkz foğşik
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimin fatihi
 bkz rapin kralıyım rapçilere bela
 bkz tom hardy'nin osmanlı torunuyum demesi
