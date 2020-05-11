@@ -1,5 +1,6 @@
 <!-- 
 bkz selon musk beyin yakan nöron yorumu
+https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular
 https://eksisozluk.com/can-yilmazin-beyin-yakan-avm-yorumu--6514403?a=popular
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
