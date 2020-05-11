@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg bkz o biiiiiiirrrr bilgee o birrrr ceylannnn
 bkz istanbuldan pasif varsa mersomla aldırayım genşler
 https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/
 bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatlı popişini senin
