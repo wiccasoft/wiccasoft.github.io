@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak-in%C5%9Faallah/ her şey güzel zaten oç
 https://tahir33.uludagsozluk.com/ bkz ata führerin askeri
 https://www.uludagsozluk.com/k/essy-nin-t%C3%BCrk-kahvesi-i%C3%A7memesi/ bkz foğşik
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimin fatihi
