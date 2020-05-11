@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/abd-nin-t%C3%BCm-ortado%C4%9Fuyu-ruslara-satmas%C4%B1/ lol
-bkz hoşlaşılan kızın bok sineğisin demesi
+bkz hoşlaşılan kızın bok sineğisin demesi 
 https://www.uludagsozluk.com/k/fatih-tezcan-vs-bok-sine%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/fatih-tezcan-n%C4%B1n-halk%C4%B1-tehdit-etmesi/ kaynak göster oç
 bkz chpliyim atacüccüyüm kılçtay şemiyom ya bana ne yaaaaaaaaaaaaa bok
