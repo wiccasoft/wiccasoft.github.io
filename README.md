@@ -3,34 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
-bkz selon ciğerci beyin kanartan 5 yılda 5 dil öğrencez açıklaması
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi
-https://eksisozluk.com/cahil-insanlarin-en-cok-dusman-oldugu-seyler--4435319?a=popular atatürk
-https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular de siktir lo
-https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz bartu küçükçağlayan
-https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular de siktir lo
-https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1na-gelmi%C5%9F-k%C4%B1z-eli-tutmam%C4%B1%C5%9F-erkek/&w=bg bkz oç
-bkz şaka maka grup yorumun 1 kişi eksilmesi
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/&w=bg 
-https://www.uludagsozluk.com/k/halid-ziya-u%C5%9Fakl%C4%B1gil/&w=bg
-https://giydirmek-bedava.uludagsozluk.com/ bkz nekrofili
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
-https://www.uludagsozluk.com/k/suriyeli-bir-erkekle-evlenmek/&w=gd bkz surinamlı çocuk doğurmak
-bkz osmanlının gümbür gümbür geldiği gerçeği
-bkz selin ciğerci erkek hali vs murat çalıç övüç güven
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz malum soru
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-takip-eden-erkek/ ay sanane ayol
-https://www.uludagsozluk.com/k/%C5%9Fehzade-mustafan%C4%B1n-katli/ bkz paralı ibo
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/ bkz melih gökçek
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz burak özçivit
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular
-https://eksisozluk.com/selin-cigercinin-instagram-canli-yayin-faciasi--6514045?a=popular
 -->
 
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
