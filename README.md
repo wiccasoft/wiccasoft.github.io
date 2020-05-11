@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
 https://www.instagram.com/muratovucofficiall/  bkz tipik türk profili
 bkz türklerin roketlerin üstüne oturma eğilimi
 bkz 11 05 2020 çin'in dünyaya kontrolsüz düşen roketini götüne sokan türkler
