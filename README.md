@@ -1,8 +1,7 @@
 <!-- 
-bkz selon musk vs mark zuckerberg hangisi irony man sorundalı
 bkz selon muskın fazla gora izlemesi
 bkz barış özcan ın  beyninin roketini fulle demesi
-bkz selon musk beyin yakan nöron yorumu
+bkz selon musk vs mark zuckerberg hangisi irony man sorundalı
 bkz atacücükün cücükleri dünya lideri yapam mı lan demesi
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd
