@@ -1,6 +1,6 @@
 <!-- 
 blz selon musk vs mark zuckerberg 
-blz selon musk ile mark zuckerberg ikilisi
+bkz selon muskın mark zuckerbergin analama kapasitesi eksik dmeesi
 bkz mark zuckerbergin iron man olduğu iddalaarı
 https://www.uludagsozluk.com/k/elon-musk/&w=bg bkz beyin kanartan dahiler
 https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
