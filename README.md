@@ -5,7 +5,7 @@
 <!-- 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi
 https://eksisozluk.com/cahil-insanlarin-en-cok-dusman-oldugu-seyler--4435319?a=popular atatürk
-bkz elon ciğercinin iyice saçmalaması
+bkz selon ciğercinin iyice saçmalaması
 bkz selin ciğerci beyin kanartan 5 yılda 5 dil öğrencez açıklaması
 https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
