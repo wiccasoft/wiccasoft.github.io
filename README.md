@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+bkz murat övüçün paylaştığı türk övüç güvüç paylaşımı
 bkz murat övüçün oyuna gelme türküyüm türk övüç güveç demesi
 bkz sevda noyanın çok gürcü kanı dökülecek tehdidi
 bkz oç türklerin kendilerini gürcülerden üstün sanması
