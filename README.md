@@ -1,46 +1,5 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
-<!-- 
-https://www.uludagsozluk.com/k/en-sevilen-serdar-orta%C3%A7-%C5%9Fark%C4%B1s%C4%B1/ poşet 
-https://www.youtube.com/watch?v=TA6y-oRT1w0
-https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak-in%C5%9Faallah/ her şey güzel zaten oç
-https://tahir33.uludagsozluk.com/ bkz ata führerin askeri
-https://www.uludagsozluk.com/k/essy-nin-t%C3%BCrk-kahvesi-i%C3%A7memesi/ bkz foğşik
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimin fatihi
-bkz rapin kralıyım rapçilere bela
-bkz tom hardy'nin osmanlı torunuyum demesi
-bkz killa hakanın sagopayla cezayı siklememesi
-bkz i melih gökçek in oğlu ölmüş ergenler dalga geçiyor amk
-bkz i melih gökçekin ibragim gökçek cenazesinde sinir krizi geçirmesi 
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz killa hakan
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25 cm
-https://www.uludagsozluk.com/k/killa-hakan/&w=bg bkz dazlakları sikerten türk
-https://www.uludagsozluk.com/k/21-yy-da-hala-oru%C3%A7-tutan-insan/&w=bg bkz din toplumların afyonu kankağ
-bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme diyorum evladım
-bkz selon muskın tıbba roket hızıyla girmesi
-bkz selon muskın virüse roket atalım önerisi
-bkz selon muskın anıtkabire roket takalım uçan anıtkabir olsun önerisi
-https://www.uludagsozluk.com/k/akp-nin-dindar-bir-gen%C3%A7lik-yeti%C5%9Ftirme-siyaseti/&w=bg bkz ak siyaset
-https://www.uludagsozluk.com/k/killa-hakan/&w=bg
-bkz selon muskın mark zuckerberge beyin kapasitesi yetersiz demesi
-bkz selon muskın beynine benzin döküp roketlemek
-bkz mark zuckerberg mi selon musk mı sorundalı
-bkz türklerin beni küçümsemekten iş yapamaması
-https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
-https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538 bkz 25 dil boşuna mı öğrendik
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25likler gelir
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
-https://www.uludagsozluk.com/k/elon-musk-un-o%C4%9Flunun-ad%C4%B1/&w=bg bkz beyin kanartan isimler
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
-https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular hazır mıyız gençler
-https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bizim tarife aynı oç ları türklere traş yok 
-https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat-%C4%B1n-s%C4%B1f%C4%B1rlanan-422-milyon-tl-borcu/&w=bg
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/
-https://www.uludagsozluk.com/k/adolf-hitler-i-sevmeyenlerin-ortak-%C3%B6zellikleri/
-https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg
--->
-
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
