@@ -2,29 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
-<!-- 
-bkz selon musk ne içiyo sorunsalı
-bkz şaka maka iyi güldürdün selon musk enough internet today
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://eksisozluk.com/selin-cigercinin-instagram-canli-yayin-faciasi--6514045?a=popular link at oç
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
-https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
-https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular&p=45 bkz 25 dil boşuna mı biliyoz
-https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular de siktir lo
-https://www.uludagsozluk.com/k/y%C4%B1lmaz%C4%B1-meseneye-ekleyen-k%C4%B1z/&w=bg
-https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
-bkz şaka maka grup vitaminden bi oç eksilmesi
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz ikinci atacücük
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz malum soru
-https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular hagi siker
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz oç
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg 
-https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular 
--->
-
-
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
 
 [![Image](prototype/Screenshot_2020-05-07_16-44-41.png)](https://www.youtube.com/watch?v=XfAjFR8LqKA)
