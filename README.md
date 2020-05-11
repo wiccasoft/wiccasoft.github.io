@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
 bkz grup destna atabarı dinlerken çoşmak
 bkz grup destan cilveloy nanay na
 bkz grup alparslanların açlık grevine destek konseri vermesi
