@@ -4,6 +4,7 @@
 
 <!-- 
 bkz selon musk ne içiyo sorunsalı
+https://www.uludagsozluk.com/k/y%C4%B1lmaz%C4%B1-meseneye-ekleyen-k%C4%B1z/&w=bg
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
