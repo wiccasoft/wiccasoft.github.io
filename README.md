@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+blz selon musk türkleri çok sever iddası
 bkz beyin kanartan selin musk önerisi
 bkz selon muskın iyice medya maymunu olması
 bkz barış özcanın beyini selon muskla roketlemek lazım videosu
