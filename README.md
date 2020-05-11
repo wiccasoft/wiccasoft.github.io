@@ -4,10 +4,10 @@
 https://www.uludagsozluk.com/k/regl-gecikmesi/&w=bg iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
 https://www.uludagsozluk.com/k/elon-musk-un-o%C4%9Flunun-ad%C4%B1/&w=bg bkz beyin kanartan isimler
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular hazır mıyız gençler
 bkz grup yorumun yeni bateristi gökhan barutçu anne from selanik baba from pontus beşikdüzü since 1978 sülalesi raad 
 https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bizim tarife aynı oç ları türklere traş yok selon muska gidin
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/
 https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat-%C4%B1n-s%C4%B1f%C4%B1rlanan-422-milyon-tl-borcu/&w=bg
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd
