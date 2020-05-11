@@ -1,4 +1,5 @@
 <!-- 
+https://eksisozluk.com/erdoganin-kanunen-2023te-aday-olamamasi--6514306?a=popular hani ıçacaktık mübarek
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek/&w=bg bkz oç
 bkz barış özcan kim ulan bu selon musk videosu
 bkz selon muskın beyne roket yükleriz kanarta kanarta gider açıklaması
