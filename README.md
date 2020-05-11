@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/domald%C4%B1%C4%9F%C4%B1ma-bakma-kolay-lokma-de%C4%9Filim-diyen-k%C4%B1z/&w=bg 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ nerde kalmıştık
 https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/&w=gd bu da benim
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg evet  benim soruları alayım
