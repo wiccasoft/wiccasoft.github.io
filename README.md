@@ -1,4 +1,5 @@
-<!-- 
+<!--
+bkz grup vitamin vs maymun kakası
 bkz rothchild vs maymungötü
 bkz macun kaplıcalı vs maymungötü
 https://www.uludagsozluk.com/k/%C3%BCstteki-yazar%C4%B1n-mesle%C4%9Fini-tahmin-etme/&w=bg maymun götü
