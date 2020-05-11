@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz rapin kralıyım rapçilere bela
 bkz tom hardy'nin osmanlı torunuyum demesi
 bkz killa hakanın sagopayla cezayı siklememesi
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz killa hakan
