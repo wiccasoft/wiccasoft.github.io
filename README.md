@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
-bkz tom hardynin osmanlı torunuyum demesi
+bkz tom hardy'nin osmanlı torunuyum demesi
 bkz killa hakanın sagopayla cezayı siklememesi
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz killa hakan
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25 cm
