@@ -2,8 +2,6 @@
 
 <!-- 
 bkz selon muskın beynine benzin döküp roketlemek
-bkz mark zuckerberg deli mi dahi mi sorundalı
-bkz mark zuckerberg vs serkan inci
 bkz mark zuckerberg mi selon musk mı sorundalı
 https://www.uludagsozluk.com/k/regl-gecikmesi/&w=bg iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
