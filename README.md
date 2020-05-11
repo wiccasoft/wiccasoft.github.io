@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz boris jonson ın lordlar kabinesini toplaması
 bkz yılmazözdil in beynine elektrink yollamak
 bkz mark zuckerberg türkleri sevmezdi iddası
 blz selon musk türkleri çok sever iddası
