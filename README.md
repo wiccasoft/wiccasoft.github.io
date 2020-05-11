@@ -1,4 +1,5 @@
 <!-- 
+bkz selon muskı överken kendinden geçen ekşici
 selon musk beyin kanartan nöronlara bilgi yükleyecez açıklaması
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular  bkz 25 dil boşuna mı biliyoz
