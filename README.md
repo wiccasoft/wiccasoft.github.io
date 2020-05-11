@@ -1,6 +1,6 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
-<!-- https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz adam gibi adam -->
+<!-- https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz çılgın sedat -->
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
