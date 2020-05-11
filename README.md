@@ -1,5 +1,5 @@
 <!-- 
-bkz esra albyarak suikast iddaları
+bkz esra albayrak suikast iddaları
 https://eksisozluk.com/11-mayis-2020-nedim-senerin-suikast-uyarisi--6514431?a=popular
 bkz esra albyarak suikast iddaları
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz ikinci atacücük
