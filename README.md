@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/en-sevilen-serdar-orta%C3%A7-%C5%9Fark%C4%B1s%C4%B1/ poşet 
 https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak-in%C5%9Faallah/ her şey güzel zaten oç
 https://tahir33.uludagsozluk.com/ bkz ata führerin askeri
