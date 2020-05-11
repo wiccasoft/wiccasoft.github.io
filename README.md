@@ -1,4 +1,8 @@
-<!-- selon musk beyin kanartan nöronlara bilgi yükleme yorumu-->
+<!-- 
+selon musk beyin kanartan nöronlara bilgi yükleyecez açıklaması
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
+https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular  bkz 25 dil boşuna mı biliyoz
+-->
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
