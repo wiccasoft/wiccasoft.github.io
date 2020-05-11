@@ -1,6 +1,7 @@
 <!-- 
 blz selon musk vs mark zuckerberg 
-bkz selon muskın mark zuckerbergin analama kapasitesi eksik dmeesi
+bkz selon musk mark zuckerberg ego zehirlenemsi yaşaması
+bkz selon muskın mark zuckerbergin anlama kapasitesi eksik demesi
 bkz mark zuckerbergin iron man olduğu iddalaarı
 https://www.uludagsozluk.com/k/elon-musk/&w=bg bkz beyin kanartan dahiler
 https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
