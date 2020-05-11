@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
-bkz sevda noyanın tayyipe oç demesi
+bkz sevda noyanın tayyipe oç gürcü demesi
 bkz tayyip damadın penis yüzüğünü azıyla takıyor iddaları
 https://www.uludagsozluk.com/k/kiz-babasi/ bkz gavatlığa giriş 101
 https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/&w=bg meme aç orospu
