@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/ bkz ben
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz ben
 https://www.pinterest.com/wiccasoft/pins/ bkz murat öbüçün mezarlık pozu
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ nerde kalmıştık
