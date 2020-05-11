@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
-<!-- https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg -->
+<!-- 
+https://www.uludagsozluk.com/k/aptal-orospu-%C3%A7ocu%C4%9Fu/&w=bg
+https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg 
+-->
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
