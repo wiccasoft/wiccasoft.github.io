@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz kamalcıların sakallı erkek zaafı
 bkz kerimcan durmazın 18 cm i vs murat övüçün 3 cm i
 bkz istanbuldan pasif varsa mersomla aldırayım genşler
 bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatlı popişini senin
@@ -11,7 +10,7 @@ bkz atacücükün sapık ismete vurdurduğu iddası
 bkz küçük pipili kaymak oğlanları sikmenenin verdiği haz
 bkz arkadan vurdun mu önden sallanacak agaaaaaa böle bülük önden bamya gibi bızırdayacak off kankağğğğğğğğğ
 https://www.uludagsozluk.com/k/william-shakespeare/&w=bg bkz top
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-vs-kerimcan-durmaz/ bkzkerimcan siker 18 cm
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-vs-kerimcan-durmaz/ bkz kerimcan 18cm diğeri cücük olm
 https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/ oo yemişler bro yarın arabayı yıka getir
 https://nesgayfe.uludagsozluk.com/ bkz mersomu bi günlüğüne kullanan şanslı user
 bkz ekçisözlük kapatılsın da bizi mi siksinler mal amk
