@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz kamalcıların sakallı erkek zaafı
 bkz kerimcan durmazın 18 cm i vs murat övüçün 3 cm i
 bkz istanbuldan pasif varsa mersomla aldırayım genşler
 bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatlı popişini senin
