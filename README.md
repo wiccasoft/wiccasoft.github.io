@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
 bkz grup vitamin vs maymun götü
 https://www.uludagsozluk.com/k/grup-yorum-vs-tezek/
 https://www.uludagsozluk.com/k/vin-diesel/&w=bg bizden geçti kankağ
