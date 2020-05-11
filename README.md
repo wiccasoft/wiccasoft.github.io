@@ -2,6 +2,7 @@
 
 <!-- 
 bkz reynmen vs enes abi
+bkz reynmenin enes abiyi takipten çıkması
 bkz reynmen norm enderden yakışıklı olduğu iddaları
 bkz reynmeninin enes abiyle barışması
 bkz recep damada penis yüzüğünü azıyla giydiriyor yalanı
