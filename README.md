@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+11 05 2020 çin'in dünyaya kontrolsüz düşen roketini götüne sokan türkler
 bkz sörfayfor izleyen primat zekası
 bkz macun kaplıcalının ibnelerin açığını bulması
 bkz yunus isimli ibnelerin özellikleri
