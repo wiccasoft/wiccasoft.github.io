@@ -5,9 +5,9 @@
 <!-- 
 bkz selon musk ne içiyo sorunsalı
 bkz şaka maka iyi güldürdün selon musk enough internet today
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
 https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular&p=45 bkz 25 dil boşuna mı biliyoz
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular de siktir lo
 https://www.uludagsozluk.com/k/y%C4%B1lmaz%C4%B1-meseneye-ekleyen-k%C4%B1z/&w=bg
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
