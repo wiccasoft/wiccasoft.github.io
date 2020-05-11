@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/ bkz kürtleri sabun yaparak
 https://www.uludagsozluk.com/k/fesli-bunak-vs-bok-sine%C4%9Fi/ 
 bkz sweetmandarin vs şempanze boku
 bkz jack dorseyin ekşisözlük kapatılmasın demesi -->
