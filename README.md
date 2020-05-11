@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://www.uludagsozluk.com/k/fesli-bunak-vs-bok-sine%C4%9Fi/ bkz sweet mandarin vs şempanze boku
-bkz jack dorseyin ekşicsözlük kapatılmasın demesi -->
+https://www.uludagsozluk.com/k/fesli-bunak-vs-bok-sine%C4%9Fi/ bkz sweetmandarin vs şempanze boku
+bkz jack dorseyin ekşisözlük kapatılmasın demesi -->
 
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
