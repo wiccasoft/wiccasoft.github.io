@@ -5,6 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/korcan-cinemre/&w=bg
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
 bkz selon musk ne içiyo sorunsalı
