@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/kay%C4%B1-boyu-vs-spartal%C4%B1lar/&w=bg bkz oğuzların kayı boyu
 bkz sedat kapanoğlanın sedat pekeri sahiplenmesi
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz çılgın sedat 
