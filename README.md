@@ -1,4 +1,5 @@
 <!--
+bkz grup alparslanların açlık grevine destek konseri vermesi
 bkz grup latinolar jenifer lopezin açlık grevine başlaması
 bkz grup vitamin ismailin açlık grevine başlması
 https://www.uludagsozluk.com/k/%C3%BCstteki-yazar%C4%B1n-mesle%C4%9Fini-tahmin-etme/&w=bg maymun götü
