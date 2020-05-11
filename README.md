@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg evet  benim soruları alayım
 https://www.pinterest.com/wiccasoft/pins/ bkz real murat öbüç hesabı budur
 https://www.instagram.com/muratovucofficiall/ bu fake hesap ofişal yazmış bi de amk
 https://www.pinterest.com/wiccasoft/pins/ bkz murat öbüçün mezar şov yapması
