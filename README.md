@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz koca mustafa reşit paşa vs minnak mustak reşit paşa
 bkz reynmen vs recep
 bkz recep vs tayyip vs erdoğan
 bkz reynmen vs norm ender
