@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/&w=bg bkz murat övüç sen misin lan
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
 https://www.instagram.com/muratovucofficiall/  bkz tipik türk profili
 bkz türklerin roketlerin üstüne oturma eğilimi
