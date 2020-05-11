@@ -1,4 +1,5 @@
 <!-- 
+bkz barış özcan ın  beyninin roketini fulle demesi
 bkz selon musk beyin yakan nöron yorumu
 bkz atacücükün cücükleri dünya lideri yapam mı lan demesi
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular
