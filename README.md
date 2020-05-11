@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz sedat kapanoğlu sedat peker dosluğu
 bkz norm enderin reynmene azının payını vermesi
 bkz reynmenin enes abiyi takipten çıkması
 bkz reynmen norm enderden yakışıklı olduğu iddaları
