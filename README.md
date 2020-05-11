@@ -4,7 +4,9 @@
 bkz selon muskın beynine benzin döküp roketlemek
 bkz mark zuckerberg mi selon musk mı sorundalı
 https://www.uludagsozluk.com/k/regl-gecikmesi/&w=bg iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg benim 18 cm şimdi 25likler gelir
+https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
+https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538 bkz 25 dil boşuna mı öğrendik
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25likler gelir
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
 https://www.uludagsozluk.com/k/elon-musk-un-o%C4%9Flunun-ad%C4%B1/&w=bg bkz beyin kanartan isimler
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
