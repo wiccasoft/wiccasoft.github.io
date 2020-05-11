@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/killa-hakan/&w=bg
 bkz selon muskın mark zuckerberge beyin kapasitesi yetersiz demesi
 bkz selon muskın beynine benzin döküp roketlemek
 bkz mark zuckerberg mi selon musk mı sorundalı
