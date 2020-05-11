@@ -1,4 +1,4 @@
-
+<!-- selon musk beyin kanartan nöronlara bilgi yükleme yorumu-->
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
