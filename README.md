@@ -1,4 +1,5 @@
 <!-- 
+bkz selon muskın beyinleri roketleyecez açıklaması
 bkz mark zuckerbergin beyne yükleme yapacam demesi
 https://www.uludagsozluk.com/k/elon-musk-un-o%C4%9Flunun-ad%C4%B1/&w=bg bkz beyin kanartan isimler
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular hazır mıyız gençler
