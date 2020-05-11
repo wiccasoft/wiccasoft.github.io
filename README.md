@@ -4,6 +4,7 @@
 
 <!-- 
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
+https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular hagi siker
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz oç
