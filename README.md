@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
-bkz trumpın ekşisözlük kapatılmasın çığlığı
+bkz trumpın ekşisözlük kapatılmasın çığlığına ses ver
 bkz sevda noyan kim diye goooglamaya üşenmek
 bkz murat övüçün türk olmakla övüçmesi
 nkz murat övüçüün türk övüç güveç demesi
