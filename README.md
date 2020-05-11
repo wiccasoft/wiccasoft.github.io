@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz domalan anneyi sikertmek
 bkz anne domalırken entry girememek
 bkz domaldığıma bakma diyen anne
 bkz domaldığıma bakma ananın amına kooyarım diyen kız
