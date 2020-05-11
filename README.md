@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+bkz sedaty kapanoğlanın sedat pekeri sahiplenmesi
 bkz sedat pekere seni karım yapacam olm diyen trabzonlu
 bkz sedeat pekerin demeyi kapaması
 bkz sedat pekerin demeden rizelilere öpücük atması
