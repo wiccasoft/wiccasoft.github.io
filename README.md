@@ -2,6 +2,7 @@
 
 <!-- 
 bkz reynmeninin enes abiyle barışması
+bkz recep damada penis yüzüğünü azıyla giydiriyor yalanı
 https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg
 https://www.uludagsozluk.com/k/aptal-orospu-%C3%A7ocu%C4%9Fu/&w=bg
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular
