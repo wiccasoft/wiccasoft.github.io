@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz istanbuldan pasif varsa mersomla alayım 
+bkz istanbuldan pasif varsa mersomla alayım nesgayfeyi yollayım alsın gelsin
 bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatylı popişini senin
 bkz sweet mandarinin tatlı götüne malafatı dayamak
 bkz atacücükün sapık ismete vurdurduğu iddası
