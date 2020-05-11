@@ -9,17 +9,14 @@ https://www.uludagsozluk.com/k/fatih-tezcan-vs-bok-sine%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/fatih-tezcan-n%C4%B1n-halk%C4%B1-tehdit-etmesi/ kaynak göster oç
 bkz chpliyim atacüccüyüm kılçtay şemiyom ya bana ne yaaaaaaaaaaaaa bok
 https://www.uludagsozluk.com/k/iran%C4%B1n-kendi-gemisini-vurmas%C4%B1/ caps at kankağ
-https://sweetmandarine.uludagsozluk.com/ bkz sinek boku vs kılıçtar
-https://sweetmandarine.uludagsozluk.com/  bkz beyler atacücücüymüş kılıştayı şemiyomuş 
-bkz chpliyim ataücüccüyüm kılıştarı şemiyoyum bana e ya aneeeeeeeeee
 https://www.uludagsozluk.com/k/survivor-cemal-can/&w=gd bkz at boku
-https://sweetmandarine.uludagsozluk.com/ bkz yazıkla kimimn velediyse
 https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/&w=gd
 bkz sweetmandarin vs şempanze boku
 bkz deep turkish webte ergen başına 10 anayasal suç işlenmesi
 https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/ bkz kürtleri sabun yaparak
 https://www.uludagsozluk.com/k/fesli-bunak-vs-bok-sine%C4%9Fi/ 
-bkz jack dorseyin ekşisözlük kapatılmasın demesi -->
+bkz jack dorseyin ekşisözlük kapatılmasın demesi 
+-->
 
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
