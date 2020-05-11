@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+bkz sedeat pekerin demeyi kapaması
 bkz sedat pekerin demeden rizelilere öpücük atması
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg adam mıdır beyler
 bkz sedat kapanoğlu sedat peker dosluğu
