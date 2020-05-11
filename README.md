@@ -1,4 +1,5 @@
 <!-- 
+blz selon musk vs mark zuckerberg hangi yüzyılın dahisi sorundalı
 https://www.uludagsozluk.com/k/elon-musk/&w=bg bkz beyin kanartan dahiler
 https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
 https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
