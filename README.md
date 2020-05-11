@@ -1,11 +1,10 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-devlet-bah%C3%A7eli-ye-verdi%C4%9Fi-ayar/&w=bg
 bkz sedaty kapanoğlanın sedat pekeri sahiplenmesi
 bkz sedat pekere seni karım yapacam olm diyen trabzonlu
 bkz sedeat pekerin demeyi kapaması
-bkz sedat pekerin demeden rizelilere öpücük atması
-https://www.uludagsozluk.com/k/sedat-peker/&w=bg adam mıdır beyler
 bkz sedat kapanoğlu sedat peker dosluğu
 bkz selon muskın murat övüç ifşa ekşisözlük çok güzel kapmayın demesi
 bkz trumpın ekşisözlük kapatılmasın çığlığına ses ver
