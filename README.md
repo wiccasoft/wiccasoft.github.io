@@ -2,11 +2,11 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/akp-nin-dindar-bir-gen%C3%A7lik-yeti%C5%9Ftirme-siyaseti/&w=bg bkz ak siyaset
-bkz türklerin beni küçümsemekten iş yapamaması
 https://www.uludagsozluk.com/k/killa-hakan/&w=bg
 bkz selon muskın mark zuckerberge beyin kapasitesi yetersiz demesi
 bkz selon muskın beynine benzin döküp roketlemek
 bkz mark zuckerberg mi selon musk mı sorundalı
+bkz türklerin beni küçümsemekten iş yapamaması
 https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538 bkz 25 dil boşuna mı öğrendik
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25likler gelir
