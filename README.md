@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz beyin kanartan selin musk önerisi
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg aboo nolmuş buna kız
 bkz selon muskın beyne benzin dökeriz roketler önerisi
 bkz selon muskın berbelere atacücük çipi yerleştircez demesi
