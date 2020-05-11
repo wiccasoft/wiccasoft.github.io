@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/ oo yemişler bro 
+https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/ oo yemişler bro yarın arabayı yıka getir
 https://nesgayfe.uludagsozluk.com/ bkz mersomu bi günlüğüne kullanan şanslı user
 bkz ekçisözlük kapatılsın da bizi mi siksinler mal amk
 https://russian.typeit.org/ ben bunu çalarım agaaaaaaaaaaa
