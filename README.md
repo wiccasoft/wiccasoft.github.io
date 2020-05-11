@@ -1,32 +1,5 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
-<!-- 
-bkz atacücü vs murat övüç
-bkz atacücü vs ismetcücü
-bkz enver paşa vs tosun paşa
-bkz koca mustafa reşit paşa vs fahreddin koca
-bkz reynmen vs recep
-bkz recep vs tayyip vs erdoğan
-bkz reynmen vs norm ender
-bkz çılgın sedatın sessizliğini koruması
-bkz sedat kapanoğlu sedat peker dosluğu
-bkz norm enderin reynmene azının payını vermesi
-bkz reynmenin enes abiyi takipten çıkması
-bkz reynmen norm enderden yakışıklı olduğu iddaları
-bkz reynmeninin enes abiyle barışması
-bkz recep damada penis yüzüğünü azıyla giydiriyor yalanı
-https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg
-https://www.uludagsozluk.com/k/aptal-orospu-%C3%A7ocu%C4%9Fu/&w=bg
-https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular
-https://www.uludagsozluk.com/k/stalin-t%C3%BCrkleri-severdi/&w=bg
-https://www.uludagsozluk.com/k/osmanli-t%C3%BCrkmenleri-sevmezdi/
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.uludagsozluk.com/k/kay%C4%B1-boyu-vs-spartal%C4%B1lar/&w=bg 
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
-https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz çılgın sedat 
--->
-
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
