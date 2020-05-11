@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
 https://eksisozluk.com/kayseride-mezara-saldirmak-icin-bekleyenler--6514297?a=popular lol
 https://www.uludagsozluk.com/k/elon-musk-un-o%C4%9Flunun-ad%C4%B1/&w=bg bkz barış özcan
 https://eksisozluk.com/erdoganin-kanunen-2023te-aday-olamamasi--6514306?a=popular hani ıçacaktık mübarek
