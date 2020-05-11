@@ -1,4 +1,5 @@
 <!-- 
+bkz beyin kanartan selon musk vs barış özcan tipli malaklar
 bkz barış özcan ın  beyninin roketini fulle demesi
 bkz selon musk beyin yakan nöron yorumu
 bkz atacücükün cücükleri dünya lideri yapam mı lan demesi
