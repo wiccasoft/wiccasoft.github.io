@@ -1,4 +1,6 @@
-<!-- 
+<!-- ,
+bkz münevver karabulut vs maymun götü
+https://www.uludagsozluk.com/k/m%C3%BCnevver-karabulut/&w=bg
 bkz gerup yorum ibo vs maymungötü
 https://www.uludagsozluk.com/k/grup-yorum-vs-tezek/
 https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
