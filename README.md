@@ -1,3 +1,4 @@
+[![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 <!--
 bkz nalına da vur vur ha kafasına çivi gibi vur vur ha vur
 https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
