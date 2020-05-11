@@ -8,8 +8,7 @@ https://www.uludagsozluk.com/k/stalin-t%C3%BCrkleri-severdi/&w=bg
 https://www.uludagsozluk.com/k/osmanli-t%C3%BCrkmenleri-sevmezdi/
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.uludagsozluk.com/k/kay%C4%B1-boyu-vs-spartal%C4%B1lar/&w=bg bkz oğuzların kayı boyu
-bkz sedat kapanoğlanın sedat pekeri sahiplenmesi
+https://www.uludagsozluk.com/k/kay%C4%B1-boyu-vs-spartal%C4%B1lar/&w=bg 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz çılgın sedat 
 -->
