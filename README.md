@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz istanbuldan pasif varsa mersomla aldırayım genşler
+https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/
 https://eksisozluk.com/hayvan-cesedi-yiyip-doga-diye-anirmak--6515119?a=popular bkz you're what you eat
 bkz esra elönü vs ismet enönü
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg bkz o biiiiiiirrrr bilgee o birrrr ceylannnn
