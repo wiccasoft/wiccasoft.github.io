@@ -1,4 +1,6 @@
-<!-- ,
+<!-- 
+bkz münevver karabulut vs maymun götü
+https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-soyad%C4%B1/&w=bg
 bkz münevver karabulut vs maymun götü
 https://www.uludagsozluk.com/k/m%C3%BCnevver-karabulut/&w=bg
 bkz gerup yorum ibo vs maymungötü
