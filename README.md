@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz reynmen vs enes abi
 bkz reynmen norm enderden yakışıklı olduğu iddaları
 bkz reynmeninin enes abiyle barışması
 bkz recep damada penis yüzüğünü azıyla giydiriyor yalanı
