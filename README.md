@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz hoşlaşılan kızın bok sineğisin demesi
 bkz şaka maka kamalcıların yavaş yavaş hizaya gelmesi
 bkz uludaki kamalcı kızları kızıştırmak :))
 https://www.uludagsozluk.com/k/fatih-tezcan-vs-bok-sine%C4%9Fi/ lol
