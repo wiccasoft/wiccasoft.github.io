@@ -2,6 +2,7 @@
 
 <!-- 
 bkz emeneel emenike vs ananın amı
+https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?p=1 de siktir lo 
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ de siktir lo ifşa mı bu oç
 https://eksisozluk.com/kaan-bosnakin-ifsa-olmasi--6487682?a=popular link at oç
 https://www.uludagsozluk.com/k/czn-burak-if%C5%9Fas%C4%B1/ ananın amı ifşa mı bu oç
