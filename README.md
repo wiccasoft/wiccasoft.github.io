@@ -3,8 +3,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bizim tarife aynı oç ları türklere traş yok
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
-bkz grup yorumun yeni bateristi gökhan barutçu trabzon beşikdüzü since 1978 sülalesi raad
-https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/
+bkz grup yorumun yeni bateristi gökhan barutçu from trabzon beşikdüzü since 1978 sülalesi raad o
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/
 https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat-%C4%B1n-s%C4%B1f%C4%B1rlanan-422-milyon-tl-borcu/&w=bg
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd
