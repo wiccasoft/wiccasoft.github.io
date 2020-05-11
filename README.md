@@ -4,6 +4,10 @@
 bkz emeneel emenike vs ananın amı
 bkz twitterda anasının amını paylaşan ankaralı genç
 bkz ekrem amınoğlunun eşşeğin amına su kaşırması
+bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme diyorum evladım
+bkz selon muskın tıbba roket hızıyla girmesi
+bkz selon muskın virüse roket atalım önerisi
+bkz selon muskın anıtkabire roket takalım uçan anıtkabir olsun önerisi
 https://www.uludagsozluk.com/k/y%C3%B6r%C3%BCklerin-t%C3%BCrklerden-%C3%BCst%C3%BCn-olmas%C4%B1/ de siktir oç
 https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?p=1 caps at oç
 https://www.uludagsozluk.com/k/kerem-tun%C3%A7eri-if%C5%9Fa/ de siktir lo ifşa mı bu oç
