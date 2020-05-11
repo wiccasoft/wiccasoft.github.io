@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz geliyor geliyor amınoğlu geliyor
 bkz emeneel emenike vs ananın amı
 bkz twitterda anasının amını paylaşan ankaralı genç
 bkz ekrem amınoğlunun eşşeğin amına su kaşırması
