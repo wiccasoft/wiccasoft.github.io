@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz rizenin adamı dava adamı
 https://www.uludagsozluk.com/k/nuh-un-gemisine-9-milyon-t%C3%BCr-canl%C4%B1-almas%C4%B1/
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-devlet-bah%C3%A7eli-ye-verdi%C4%9Fi-ayar/&w=bg
 bkz sedaty kapanoğlanın sedat pekeri sahiplenmesi
