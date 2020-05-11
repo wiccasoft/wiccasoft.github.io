@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/21-yy-da-hala-oru%C3%A7-tutan-insan/&w=bg bkz din toplumların afyonu kankağ
 bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme
 bkz selon muskın tıbba roket hızıyla girmesi
 bkz selon muskın virüse roket atalım önerisi
