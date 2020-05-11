@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz murat övüç vs kerimcan durmaz
 bkz aşkoştoş diyen erkek
 https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/
 bkz sevdicekim aşkiştoşum diyen erkek
