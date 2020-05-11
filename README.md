@@ -2,6 +2,7 @@
 
 <!--
 bkz türklerdeki ibnelik geni
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
 https://www.uludagsozluk.com/k/hz-yusuf-dizisi/&w=bg başka bir ibne dizisi daha
 https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/&w=bg bkz murat övüç sen misin lan
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg meme açcak at fava bekle kankağ
