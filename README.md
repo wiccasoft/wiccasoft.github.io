@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme
 bkz selon muskın tıbba roket hızıyla girmesi
 bkz selon muskın virüse roket atalım önerisi
 bkz selon muskın anıtkabire roket takalım uçan anıtkabir olsun önerisi
