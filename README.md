@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/twitterda-taciz-edilen-k%C4%B1z/ link at oç
 bkz esra albayrak suikast iddaları
 https://eksisozluk.com/11-mayis-2020-nedim-senerin-suikast-uyarisi--6514431?a=popular
 bkz esra albyarak suikast iddaları
