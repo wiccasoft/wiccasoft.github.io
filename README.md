@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
-bkz emenike vs ananın amı
+bkz emeneel emenike vs ananın amı
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular
