@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bizi mtarife aynı oç ları türklere traş yok
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
 bkz grup yorumun yeni bateristi gökhan barutçu trabzon beşikdüzü since 1978 sülalesi raad
 https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/
