@@ -2,9 +2,9 @@
 
 <!-- 
 bkz endüstri devrimini özet geçerken kamalcıları atlamak
-bkz din toplumların afyonu kankağğğ atacücük kankağğ barıçş özcan kankağğ roket kankağğğğğğğ
+bkz din toplumların afyonu kankağğğ 
 https://www.uludagsozluk.com/k/21-yy-da-hala-oru%C3%A7-tutan-insan/&w=bg bkz din toplumların afyonu kankağ
-bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme
+bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme diyorum evladım
 bkz selon muskın tıbba roket hızıyla girmesi
 bkz selon muskın virüse roket atalım önerisi
 bkz selon muskın anıtkabire roket takalım uçan anıtkabir olsun önerisi
