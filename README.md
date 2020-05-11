@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz reynmen vs enes batur
 bkz çılgın sedatın sessizliğini koruması
 bkz sedat kapanoğlu sedat peker dosluğu
 bkz norm enderin reynmene azının payını vermesi
