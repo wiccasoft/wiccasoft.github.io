@@ -4,7 +4,7 @@
 <!--
 bkz chpliyim ataücüccüyüm kılıştarı şemiyoyum bana e ya aneeeeeeeeee
 https://www.uludagsozluk.com/k/survivor-cemal-can/&w=gd bkz at boku
-https://sweetmandarine.uludagsozluk.com/ bkz şempanze boku
+https://sweetmandarine.uludagsozluk.com/ bkz yazıkla kimimn velediyse
 https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/&w=gd
 bkz sweetmandarin vs şempanze boku
 bkz deep turkish webte ergen başına 10 anayasal suç işlenmesi
