@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
-bkz grup yorumun yeni bateristi gökhan barutçu trabzon beşikdüzü sülalesi raad
+bkz grup yorumun yeni bateristi gökhan barutçu trabzon beşikdüzü 1978 sülalesi raad
 https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/
 https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat-%C4%B1n-s%C4%B1f%C4%B1rlanan-422-milyon-tl-borcu/&w=bg
