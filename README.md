@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+https://www.uludagsozluk.com/k/murat-caz/ bkz murat övüç mü lan o
 https://www.uludagsozluk.com/k/karim-said-in-%C3%A7%C4%B1plak-y%C4%B1kanmas%C4%B1/ caps at kankağ kalktı valla
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz damadçı
 https://www.uludagsozluk.com/k/bilge-adam-reis/ bkz çılgın sedat
