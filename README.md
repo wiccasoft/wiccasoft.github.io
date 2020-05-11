@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
 bkz şeyh uçmaz mürit uçurur
 blz selon musk vs mark zuckerberg 
 bkz selon musk ve mark zuckerberg ego zehirlenmesi yaşaması
