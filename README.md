@@ -4,7 +4,7 @@
 bkz atacücü vs murat övüç
 bkz atacücü vs ismetcücü
 bkz enver paşa vs tosun paşa
-bkz koca mustafa reşit paşa vs minnak mustak reşit paşa
+bkz koca mustafa reşit paşa vs fahreddin koca
 bkz reynmen vs recep
 bkz recep vs tayyip vs erdoğan
 bkz reynmen vs norm ender
