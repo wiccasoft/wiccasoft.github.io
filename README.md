@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/ bkz murat övüçün türk övüç çalıç güveç paylaşımı
 https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/ bkz murat övüç
 https://www.pinterest.com/wiccasoft/pins/ reklam alınır geşler 
 https://www.instagram.com/muratovucofficiall/ bu fake hesap
