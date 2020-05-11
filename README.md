@@ -3,10 +3,10 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+bkz selon musk ne içiyo sorunsalı
 https://eksisozluk.com/bartu-kucukcaglayan--644976?a=popular bkz osmanlı torunu
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
-bkz selon musk ne içiyo sorunsalı
 bkz şaka maka grup vitaminden bi oç eksilmesi
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz ikinci atacücük
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz malum soru
