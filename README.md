@@ -4,6 +4,7 @@
 bkz rapin kralıyım rapçilere bela
 bkz tom hardy'nin osmanlı torunuyum demesi
 bkz killa hakanın sagopayla cezayı siklememesi
+bkz i melih gökçekin ibragim gökçek cenazesinde sinir krizi geçirmesi 
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz killa hakan
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25 cm
 https://www.uludagsozluk.com/k/killa-hakan/&w=bg bkz dazlakları sikerten türk
