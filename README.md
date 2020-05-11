@@ -2,6 +2,7 @@
 
 <!-- 
 bkz emeneel emenike vs ananın amı
+https://www.uludagsozluk.com/k/twitterda-taciz-edilen-k%C4%B1z/ link at oç
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/emmanuel-emenike/&w=bg
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular
