@@ -13,16 +13,6 @@ https://www.instagram.com/muratovucofficiall/ meme açıyo beyler koş koş
 bkz murat övüçün canlı yayında osurması
 bkz murat övüçün türk övüç güveç çalıç demesi
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg nerde kalmıştık
-bkz boris johnsona kırk yıllık ahbabı gibi entry giren primat
-bkz boris johnsona twitterdan yürüyen türk
-bkz türklerin roketlerin üstüne oturma eğilimi
-bkz 11 05 2020 çin'in dünyaya kontrolsüz düşen roketini götüne sokan türkler
-bkz sörfayfor izleyen primat zekası
-bkz macun kaplıcalının ibnelerin açığını bulması
-bkz yunus isimli ibnelerin özellikleri
-bkz sörfayfor 2020 yunus emrenin sanki biraz şey olması
-bkz sörfayfor 2020 yunus emreyi evlat edinmek
-bkz sörfayfor yunu emre vs sörfayfor macun kaplucalu
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz malum soru
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit/&w=bg yakışır abime
 bkz selon muskın niye sakalları çıkmıyor sorunsalı
