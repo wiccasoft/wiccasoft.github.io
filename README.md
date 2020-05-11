@@ -1,4 +1,5 @@
 <!--
+bkz sörfayfor şempanzeler vs gönüllü şempanzeler
 bkz sörfayfor yunuk yemre vs maymun
 bkz grup vitamin vs maymun kakası
 bkz grup rothchild vs maymungötü
