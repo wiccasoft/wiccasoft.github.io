@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/%C3%BCstteki-yazar%C4%B1n-mesle%C4%9Fini-tahmin-etme/&w=bg maymun götü
 bkz münevver karabulut vs maymun götü
 https://www.uludagsozluk.com/k/helin-b%C3%B6lek-in-soyad%C4%B1/&w=bg
 bkz münevver karabulut vs maymun götü
