@@ -3,6 +3,7 @@
 
 <!--
 bkz atacücükün sapık ismete vurdurduğu iddası
+bkz küçük pipili oğlanları sikmenenin verdiği haz
 bkz arkadan vurdun mu önden sallanacak agaaaaaa böle bülük önden bamya gibi bızırdayacak off kankağğğğğğğğğ
 https://www.uludagsozluk.com/k/william-shakespeare/&w=bg bkz top
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-vs-kerimcan-durmaz/ bkzkerimcan siker 18 cm
