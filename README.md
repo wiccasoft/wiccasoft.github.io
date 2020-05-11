@@ -3,7 +3,6 @@
 
 <!--
 bkz hoşlaşılan kızın bok sineğisin demesi
-bkz şaka maka kamalcıların yavaş yavaş hizaya gelmesi
 bkz uludaki kamalcı kızları kızıştırmak :))
 https://www.uludagsozluk.com/k/fatih-tezcan-vs-bok-sine%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/fatih-tezcan-n%C4%B1n-halk%C4%B1-tehdit-etmesi/ kaynak göster oç
