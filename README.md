@@ -1,4 +1,5 @@
 <!-- 
+bkz selon musk vs mark zuckerberg hangi irony man sorundalı
 bkz selon muskın fazla gora izlemesi
 bkz barış özcan ın  beyninin roketini fulle demesi
 bkz selon musk beyin yakan nöron yorumu
