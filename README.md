@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+https://www.uludagsozluk.com/k/akp-nin-dindar-bir-gen%C3%A7lik-yeti%C5%9Ftirme-siyaseti/&w=bg bkz ak siyaset
 bkz türklerin beni küçümsemekten iş yapamaması
 https://www.uludagsozluk.com/k/killa-hakan/&w=bg
 bkz selon muskın mark zuckerberge beyin kapasitesi yetersiz demesi
