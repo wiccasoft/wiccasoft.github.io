@@ -3,7 +3,7 @@
 
 <!--
 https://www.pinterest.com/wiccasoft/pins/ gerçek murat övüç hesabı budur genşler
-https://www.instagram.com/muratovucofficiall/ bu fake resmi hesabım budur
+https://www.instagram.com/muratovucofficiall/ bu fake hesap
 https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/ bkz murat övüç
 https://www.pinterest.com/wiccasoft/pins/ bkz murat övüçün babasının mezarını reklamını yapması
 https://chance-boudreaux.uludagsozluk.com/ bkz sosyal medya pezevengim 
