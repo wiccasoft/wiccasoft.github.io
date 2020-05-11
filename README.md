@@ -1,7 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
-bkz selon muskın mark zuckerberge beyinsiz demesi
+bkz selon muskın mark zuckerberge beyin kapasitesi yetersiz demesi
 bkz selon muskın beynine benzin döküp roketlemek
 bkz mark zuckerberg mi selon musk mı sorundalı
 https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
