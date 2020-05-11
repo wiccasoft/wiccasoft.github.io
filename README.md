@@ -2,6 +2,7 @@
 
 <!-- 
 bkz beyin kanartan selin musk önerisi
+bkz selon muskın iyice medya maymunu olması
 bkz barış özcanın beyini selon muskla roketlemek lazım videosu
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg aboo nolmuş buna kız
 bkz selon muskın beyne benzin dökeriz roketler önerisi
