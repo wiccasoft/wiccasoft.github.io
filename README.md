@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/elon-musk/&w=bg bkz beyin kanartan dahiler
 https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
 https://eksisozluk.com/ataturk-ve-inonunun-dugun-cikisi-kol-kola-girmesi--6512777?a=popular
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/
