@@ -5,6 +5,7 @@
 <!-- 
 bkz selon musk ne içiyo sorunsalı
 bkz şaka maka iyi güldürdün selon musk enough internet today
+https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://eksisozluk.com/selin-cigercinin-instagram-canli-yayin-faciasi--6514045?a=popular link at oç
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış selon musk torunu
 https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
