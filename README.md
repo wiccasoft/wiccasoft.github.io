@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz atacücü vs murat övüç
 bkz atacücü vs ismetcücü
 bkz enver paşa vs tosun paşa
 bkz koca mustafa reşit paşa vs minnak mustak reşit paşa
