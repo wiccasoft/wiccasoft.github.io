@@ -1,7 +1,7 @@
 <!-- 
 bkz şeyh uçmaz mürit uçurur
 blz selon musk vs mark zuckerberg 
-bkz selon musk mark zuckerberg ego zehirlenemsi yaşaması
+bkz selon musk ve mark zuckerberg ego zehirlenmesi yaşaması
 bkz selon muskın mark zuckerbergin anlama kapasitesi eksik demesi
 bkz mark zuckerbergin iron man olduğu iddalaarı
 https://www.uludagsozluk.com/k/elon-musk/&w=bg bkz beyin kanartan dahiler
