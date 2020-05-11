@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
+https://www.instagram.com/muratovucofficiall/  bkz tipik türk profili
 bkz türklerin roketlerin üstüne oturma eğilimi
 bkz 11 05 2020 çin'in dünyaya kontrolsüz düşen roketini götüne sokan türkler
 https://www.instagram.com/muratovucofficiall/ meme açıyo beyler koş koş
