@@ -1,4 +1,5 @@
 <!-- 
+bkz selon muskın beyne roket yükleriz kanarta kanarta gider açıklaması
 bkz selon muskın beyinleri %100 çalıştıracaz müjdesi
 bkz selon muskın beyinleri roketleyecez açıklaması
 bkz mark zuckerbergin beyne yükleme yapacam demesi
