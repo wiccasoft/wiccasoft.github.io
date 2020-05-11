@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz ikinci atacücük
 bkz grup yorum ibrahim vs maymun götü
 https://www.uludagsozluk.com/k/ibrahim-erkal/ bkz erzincanlı hemşom
 bkz grup vitamin vs maymun götü
