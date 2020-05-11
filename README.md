@@ -1,6 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz gel berberi berberi götüne koyam ben seni
+https://www.uludagsozluk.com/k/koronavir%C3%BCs-testi-pozitif-%C3%A7%C4%B1kan-berber/
 bkz geliyor geliyor amınoğlu geliyor
 bkz emeneel emenike vs ananın amı
 bkz twitterda anasının amını paylaşan ankaralı genç
