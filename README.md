@@ -5,6 +5,7 @@
 <!-- 
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
 bkz selon musk ne içiyo sorunsalı
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538?a=popular de siktir lo
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz ikinci atacücük
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/ bkz malum soru
