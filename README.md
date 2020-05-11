@@ -2,6 +2,7 @@
 
 <!-- 
 bkz killa hakanın sagopayla cezayı siklememesi
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25 cm
 https://www.uludagsozluk.com/k/killa-hakan/&w=bg bkz dazlakları sikerten türk
 https://www.uludagsozluk.com/k/21-yy-da-hala-oru%C3%A7-tutan-insan/&w=bg bkz din toplumların afyonu kankağ
 bkz selon muskı övüyoruz canım övdüm de geldim ısrar etme diyorum evladım
