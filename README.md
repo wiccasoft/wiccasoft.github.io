@@ -1,4 +1,5 @@
 <!--
+bkz grup destna atabarı dinlerken çoşmak
 bkz grup destan cilveloy nanay na
 bkz grup alparslanların açlık grevine destek konseri vermesi
 bkz grup latinolar jenifer lopezin açlık grevine başlaması
