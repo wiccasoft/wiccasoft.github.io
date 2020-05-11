@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/ oo yemişler bro helal
-https://nesgayfe.uludagsozluk.com/ bkz arabamı bi günlüğüne kullanan şanslı user
+https://nesgayfe.uludagsozluk.com/ bkz mersomu bi günlüğüne kullanan şanslı user
 bkz ekçisözlük kapatılsın da bizi mi siksinler mal amk
 https://russian.typeit.org/ ben bunu çalarım agaaaaaaaaaaa
 https://www.uludagsozluk.com/k/abd-nin-t%C3%BCm-ortado%C4%9Fuyu-ruslara-satmas%C4%B1/ lol
