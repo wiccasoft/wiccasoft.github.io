@@ -1,4 +1,5 @@
 <!-- 
+https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular hazır mıyız gençler
 bkz selon muskın fazla gora izlemesi
 bkz barış özcan ın beyninin roketini slon musk ile fulle demesi
 bkz selon musk vs mark zuckerberg hangisi irony man sorundalı
