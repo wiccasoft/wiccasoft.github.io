@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/ bkz ben saplı sultanıma asko derim
 bkz istanbuldan pasif varsa mersomla aldırayım genşler
 https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/
 https://eksisozluk.com/hayvan-cesedi-yiyip-doga-diye-anirmak--6515119?a=popular bkz you're what you eat
