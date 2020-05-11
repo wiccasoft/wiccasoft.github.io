@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz macun kaplıcalının ibnelerin açığını bulması
 bkz yunus isimli ibnelerin özellikleri
 bkz sörfayfor 2020 yunus emrenin sanki biraz şey olması
 bkz sörfayfor 2020 yunus emreyi evlat edinmek
