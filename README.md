@@ -1,4 +1,5 @@
 <!-- 
+bkz şeyh uçmaz mürit uçurur
 blz selon musk vs mark zuckerberg 
 bkz selon musk mark zuckerberg ego zehirlenemsi yaşaması
 bkz selon muskın mark zuckerbergin anlama kapasitesi eksik demesi
