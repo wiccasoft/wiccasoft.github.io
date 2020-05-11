@@ -2,8 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz kerimcan durmazın 18 cm i vs murat övüçün 3 cm i
 bkz istanbuldan pasif varsa mersomla aldırayım genşler
+https://www.uludagsozluk.com/k/nesgayfe-feyk-diyenlere-tokat-gibi-cevap/1/
 bkz sweet mandarin göt capsi atsana kankağğğğğğğğğğ yalarun tatlı popişini senin
 bkz sweet mandarinin tatlı götüne malafatı dayamak
 bkz atacücükün sapık ismete vurdurduğu iddası
