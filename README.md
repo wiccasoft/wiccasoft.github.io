@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi
 https://eksisozluk.com/cahil-insanlarin-en-cok-dusman-oldugu-seyler--4435319?a=popular atatürk
 bkz elon ciğercinin iyice saçmalaması
 bkz selin ciğerci beyin kanartan 5 yılda 5 dil öğrencez açıklaması
