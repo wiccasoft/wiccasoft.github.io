@@ -1,7 +1,8 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!--
-bkz murat övüçün türk omakla övüçmesi
+bkz murat övüçün türk olmakla övüçmesi
+nkz murat övüçüün türk övüç güveç demesi
 bkz tunç soyerin resmen bakışlarıynan soyması
 bkz murat övüçün paylaştığı türk övüç güvüç paylaşımı
 bkz murat övüçün oyuna gelme türküyüm türk övüç güveç demesi
