@@ -2,10 +2,10 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz uludaki kamalcı kızları kızıştırmak
+bkz uludaki kamalcı kızları kızıştırmak :))
 https://www.uludagsozluk.com/k/fatih-tezcan-vs-bok-sine%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/fatih-tezcan-n%C4%B1n-halk%C4%B1-tehdit-etmesi/ kaynak göster oç
-bkz chpliyim atacüccüyüm kılçtay .şemiyom ya bana ne yaaaaaaaaaaaaa bok
+bkz chpliyim atacüccüyüm kılçtay şemiyom ya bana ne yaaaaaaaaaaaaa bok
 https://www.uludagsozluk.com/k/iran%C4%B1n-kendi-gemisini-vurmas%C4%B1/ caps at kankağ
 https://sweetmandarine.uludagsozluk.com/ bkz sinek boku vs kılıçtar
 https://sweetmandarine.uludagsozluk.com/  bkz beyler atacücücüymüş kılıştayı şemiyomuş 
