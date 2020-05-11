@@ -5,6 +5,7 @@
 <!-- 
 https://pubs.acs.org/doi/pdf/10.1021/bi00131a030# 
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd bkz oç
 -->
 
 [![Image](prototype/Screenshot_2020-05-09_22-40-58.png)](https://www.youtube.com/watch?v=NqcvQzCC_xM)
