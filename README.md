@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz sörfayfor 2020 yunus emreyi evlat edinmek
 bkz sörfayfor yunu emre vs sörfayfor macun kaplucalu
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=bg bkz malum soru
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit/&w=bg yakışır abime
