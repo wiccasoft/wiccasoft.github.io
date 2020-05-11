@@ -1,6 +1,9 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
-<!-- https://www.uludagsozluk.com/k/adolf-hitler-i-sevmeyenlerin-ortak-%C3%B6zellikleri/ -->
+<!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/
+https://www.uludagsozluk.com/k/adolf-hitler-i-sevmeyenlerin-ortak-%C3%B6zellikleri/
+-->
 
 [![Image](prototype/Screenshot_2020-05-10_16-41-07.png)](https://www.youtube.com/watch?v=wFRWoWvV0QQ)
 
