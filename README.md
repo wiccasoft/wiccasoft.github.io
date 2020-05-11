@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://sweetmandarine.uludagsozluk.com/ bkz sinek boku vs kılıçtar
 https://sweetmandarine.uludagsozluk.com/  bkz beyler atacücücüymüş kılıştayı şemiyomuş 
 bkz chpliyim ataücüccüyüm kılıştarı şemiyoyum bana e ya aneeeeeeeeee
 https://www.uludagsozluk.com/k/survivor-cemal-can/&w=gd bkz at boku
