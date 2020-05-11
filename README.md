@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/ gerçek murat övüç hesabı budur genşler
+https://www.instagram.com/muratovucofficiall/ bu fake resmi hesabım budur
+https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/ bkz murat övüç
 https://www.pinterest.com/wiccasoft/pins/ bkz murat övüçün babasının mezarını reklamını yapması
 https://chance-boudreaux.uludagsozluk.com/ bkz sosyal medya pezevengim 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz meme açacazk bu akşam  at fava bekle
