@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz domaldığıma bakma kolay sıçmam siyen kız
 bkz sikerim ama palaksan alamam diyen erkek
 bkz kendini eşine saklayom diyen erkek
 bkz aşkoş ben cink itmim bilirsin diyen erkek
