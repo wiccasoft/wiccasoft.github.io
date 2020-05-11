@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/grup-yorum-vs-tezek/ bkz grup yorum vs maymun kakası
 bkz sörfayfor şempanzeler vs gönüllü şempanzeler
 bkz sörfayfor yunuk yemre vs maymun
 bkz grup vitamin vs maymun kakası
