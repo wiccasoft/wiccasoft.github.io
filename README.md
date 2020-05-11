@@ -3,7 +3,6 @@
 <!-- 
 bkz selon muskın beynine benzin döküp roketlemek
 bkz mark zuckerberg mi selon musk mı sorundalı
-https://www.uludagsozluk.com/k/regl-gecikmesi/&w=bg iğrençsiniz ibneler
 https://eksisozluk.com/bi-siktir-git-dedirten-elon-musk-zirvalari--6514115
 https://eksisozluk.com/bes-yil-icinde-dil-ogrenmeye-gerek-kalmayacak--6513538 bkz 25 dil boşuna mı öğrendik
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 25likler gelir
@@ -11,9 +10,7 @@ https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz atanamamış
 https://www.uludagsozluk.com/k/elon-musk-un-o%C4%9Flunun-ad%C4%B1/&w=bg bkz beyin kanartan isimler
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-neden-huber-k%C3%B6%C5%9Fk%C3%BC-ne-kapand%C4%B1/ hiç bi fikrim yok
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular hazır mıyız gençler
-bkz grup yorumun yeni bateristi gökhan barutçu anne from selanik baba from pontus beşikdüzü since 1978 sülalesi raad 
-https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bizim tarife aynı oç ları türklere traş yok selon muska gidin
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek/
+https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bizim tarife aynı oç ları türklere traş yok 
 https://www.uludagsozluk.com/k/cengiz-in%C5%9Faat-%C4%B1n-s%C4%B1f%C4%B1rlanan-422-milyon-tl-borcu/&w=bg
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-mezar%C4%B1nda-rahat-uyuyamamas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/
