@@ -1,6 +1,7 @@
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
 <!-- 
+bkz selon muskın atacücücü olması
 bkz selon muskın anıtkabire roket takalım uçan anıtkabir olsun önerisi
 https://www.uludagsozluk.com/k/akp-nin-dindar-bir-gen%C3%A7lik-yeti%C5%9Ftirme-siyaseti/&w=bg bkz ak siyaset
 https://www.uludagsozluk.com/k/killa-hakan/&w=bg
