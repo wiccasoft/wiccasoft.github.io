@@ -2,10 +2,10 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz deep turkish webte ergen başına saniyede 10 anayasal suç işlenmesi
+bkz sweetmandarin vs şempanze boku
+bkz deep turkish webte ergen başına 10 anayasal suç işlenmesi
 https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/ bkz kürtleri sabun yaparak
 https://www.uludagsozluk.com/k/fesli-bunak-vs-bok-sine%C4%9Fi/ 
-bkz sweetmandarin vs şempanze boku
 bkz jack dorseyin ekşisözlük kapatılmasın demesi -->
 
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
