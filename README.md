@@ -5,12 +5,12 @@
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
+bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
 bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki  koruyacak demesi
 https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular bkz orospular demek istemiş
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerler hepinizi
 https://www.uludagsozluk.com/k/a%C4%9Flamak-isteyip-a%C4%9Flayamamak/&w=bg ağla lan ibne ne dırdır yapıyon orospu
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız a ibneler
-bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
 bkz afyonlu katolik gay taş fırın ustaları
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din afyondur abi ondan
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular sikerler hepinizi sikerler demiş
