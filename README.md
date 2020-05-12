@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kürt vs gürcü
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
 https://www.uludagsozluk.com/k/fa%C5%9Fist-acun-un-k%C3%BCrt-ersin-korkut-u-elemesi/
