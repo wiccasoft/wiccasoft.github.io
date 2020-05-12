@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+https://www.uludagsozluk.com/k/ezan-sesinden-rahats%C4%B1z-olmak/&w=bg obeyfendiye villa yaptıralım
 bkz barda filminde nejat işlerin resmen ekşicilere ibneler demesi
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
