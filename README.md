@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg
 https://www.uludagsozluk.com/k/survivor-2020/&w=gd
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/
 https://www.uludagsozluk.com/k/ersin-korkut-un-survivor-hayat%C4%B1n%C4%B1n-bitmesi/ 
+https://www.uludagsozluk.com/k/60-senedir-banyo-yapmayan-adam/&w=bg
 https://www.uludagsozluk.com/k/acun-un-rating-i%C3%A7in-ersin-e-ecel-teri-d%C3%B6kt%C3%BCrmesi/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/arapla%C5%9Fmama-i%C3%A7in-%C3%A7ocu%C4%9Fa-t%C3%BCrk%C3%A7e-ad-koyma-kampanyas%C4%B1/
