@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz fatih tezcanın seni karım yapacam olm diye tehdit etmesi 
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
 https://www.uludagsozluk.com/k/sabaha-kadar-burday%C4%B1z-bug%C3%BCn/&w=bg
