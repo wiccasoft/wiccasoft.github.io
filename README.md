@@ -3,6 +3,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg
+https://www.uludagsozluk.com/k/atat%C3%BCrk-neden-soyad%C4%B1-kanununu-%C3%A7%C4%B1kard%C4%B1/
 https://www.uludagsozluk.com/k/benim-atam-boncuklu-deli-ibrahimdir/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 bkz siirtli kızların amcıklarının kokması
