@@ -3,6 +3,7 @@
 
 <!-- 
 bkz afyonlu katolik gay taş fırın ustaları
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
