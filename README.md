@@ -3,6 +3,9 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz johny sins tarafından vahşice sikilmek vs murat övüç
+bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
+https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
 https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular bkz eski kgb ajanı
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
 https://eksisozluk.com/sermiyan-midyatin-sevgilisini-dovdugu-iddiasi--6516152?a=popular bkz oç
