@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz kamalcıların eğitilmez olduğu gerçeği
 bkz fatih tezcan atacücük cücük değildi antitezi
 bkz geceye bi adam bırak pixelllerini emek kankağ
 https://www.uludagsozluk.com/k/sinan-cemgil/&w=bg bkz adam adam
