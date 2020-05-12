@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz gecey bir erkek bırak ibne değil amk
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ibne
 https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/&w=bg bkz efenim çok değerli bi insan
 https://www.uludagsozluk.com/k/galatasaray/&w=gd bkz fatih tezcan
