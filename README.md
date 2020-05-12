@@ -2,6 +2,12 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
+bkz kendini siktiremeyen ekşicilerin dramı
+bkz khontkarın resmen ekşicilere orospum demesi
+bkz reynmenin ekşicileri orospum yapacam imalı klibi
+bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
+bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi yapması
+bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki koruyacak demesi
 bkz johny sins tarafından vahşice sikilmek vs murat övüç
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
