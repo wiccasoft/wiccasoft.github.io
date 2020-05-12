@@ -2,10 +2,6 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=gd bkz tweetleri azaltması
-https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zlemek/&w=bg bkz çok öşlem dolmak ama aramamaak inat etmek
-https://www.uludagsozluk.com/k/halay-komutan%C4%B1/ bkz şapşik komutan
-bkz 1 eykeği kaliteli yaopn detaylay
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zlemek/&w=bg bkz acılara tutunmak 
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ hanimiş çekçi mi oldun çen
