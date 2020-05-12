@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 bkz siirtli kızların amcıklarının kokması
 bkz 90 doğumlu sivaslı kızlar vs 2000 doğumlu konyalı kızlar
 https://www.uludagsozluk.com/k/gizem-karaca/&w=bg bkz asalet nedir hemşerim diye demiyom eyidir eyi
