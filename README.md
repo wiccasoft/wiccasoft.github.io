@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz kendini şokomelle paketleyen erkek
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz ibne gibin bişi
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlı şemse kendini siktiren afgan
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg 
