@@ -2,9 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/e/43289150/ tamam reis yoldayım
 bkz berat albayrakın şokomel dökim fahreddini yalayın demesi
 bkz fahreddin kocanın zam istemiyorum demesi
-https://www.uludagsozluk.com/e/43289150/ tamam reis yoldayım
 bkz cumburlop maaşına göz dikecek kadar düşmek
 bkz jeff bezosun zam istemiyorum idare ediyoz demesi
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din gençlerin afyonudur kankağ
