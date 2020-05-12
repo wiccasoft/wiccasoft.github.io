@@ -1,35 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
-<!-- 
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=gd bkz ekşcicileri sikmekle korkutan adam
-bkz erdopanın süper güç olma yasa tasarısını imzalaması
-https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
-https://www.uludagsozluk.com/k/tuncer-ustael/&w=bg bkz mitin kullandığı şahıs
-https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular bkz eski kgb ajanı
-https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
-https://eksisozluk.com/ekrem-imamoglunun-reddit-hesabi--6516227?a=popular orayı yıkarlar kankağ
-https://eksisozluk.com/murat-ovucun-sedat-pekere-saygi-ve-sevgisi--6515700?a=popular link at izleyem kankağ
-https://eksisozluk.com/sermiyan-midyatin-sevgilisini-dovdugu-iddiasi--6516152?a=popular bkz iddalar derin bilader
-bkz fatih tezcan sikemez diyip johny sins izleyen ekşici
-bkz kendini siktiremeyen ekşicilerin dramı
-bkz khontkarın resmen ekşicilere orospum demesi
-bkz reynmenin ekşicileri orospum yapacam imalı klibi
-bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
-bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi yapması
-bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki koruyacak demesi
-bkz johny sins tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz ay siker bu ayol
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz ay ne karısı ayol
-https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz 10000 dolar maaş alan ekşiciler
-https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gay taş fırın ustaları
-https://eksisozluk.com/annenin-ilkokul-mezunu-cahil-bir-insan-olmasi--3216902?a=popular bkz imamaoğlunun annesi
--->
-
-
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
