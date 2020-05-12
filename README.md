@@ -4,6 +4,7 @@
 
 <!--
 bkz siirtlilerin arap sevgisi
+bkz eşim arap ben gürcüyüm diyen malum kişi
 https://www.uludagsozluk.com/k/k%C3%BCrt-tarihi/&w=bg bkz oç ları tarihi
 bkz hataydaki alevi araplarının türkleri asimile etme tehlikesi
 https://www.uludagsozluk.com/k/yaser-arafat/&w=bg bkz malum ırk
