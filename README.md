@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!--
+bkz johny sins vs fatih tezcan
 bkz fatih tezcan tarafından vahçice sikilmek vs murat öbüç
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
 https://eksisozluk.com/ekrem-imamoglunun-reddit-hesabi--6516227?a=popular orayı yıkarlar kankağ
