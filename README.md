@@ -5,6 +5,7 @@
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
 bkz erdoğanın türkiyeyi süper güç yapma khk sını imzalaması
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
+https://eksisozluk.com/trumpin-basin-toplantisini-terk-etmesi--6515695?a=popularbkz terk ediyorsun etme
 -->
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
