@@ -2,12 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz devlet memurları çalışmasın kampanyası
-bkz tayyipin bekçi maaşlarını düzeltecem sözü vermesi
-bkz müezzzinlerin 3000 lira para mı lan it isyanı
-bkz kamalcıların devlete götü yaslaması
+https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz fatih tezcan
 https://www.uludagsozluk.com/k/hakimleri-halk%C4%B1n-se%C3%A7mesi-gereklili%C4%9Fi/ adam haklı beyler
-https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular vermeyin kankağ
+https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular vermeyin kankağ 
 https://www.uludagsozluk.com/k/ahl-arazisinin-sagl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1na-tahsis-edilmesi/
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay delirdi ayol bu ne karısı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-havaliman%C4%B1/&w=bg bkz ata türkün gücü
