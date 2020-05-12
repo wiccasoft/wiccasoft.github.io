@@ -6,6 +6,7 @@
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg
 https://www.uludagsozluk.com/k/survivor-2020/&w=gd
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg
+https://www.uludagsozluk.com/k/hilafet-gelecek-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irece%C4%9Fiz/
 https://www.uludagsozluk.com/k/ankara-ya-ta%C5%9F%C4%B1nacaklara-bir-tavsiye-b%C4%B1rak/
 https://www.uludagsozluk.com/k/yallah-osmanl%C4%B1-ya-ve-yallah-k%C3%BCrdistan-a/
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/
