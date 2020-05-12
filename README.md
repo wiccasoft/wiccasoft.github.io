@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz murat öbüç vs kerimcan durmaz
 https://www.uludagsozluk.com/k/halil-necipo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1z-arkada%C5%9F%C4%B1n%C4%B1z%C4%B1-ba%C5%9Fka-bir-erke%C4%9Fin-alt%C4%B1nda-g%C3%B6rmek/
 https://www.uludagsozluk.com/k/co%C5%9Fkun-aral-vs-ayhan-sicimo%C4%9Flu/ bkz çoşkun orul orul siker
