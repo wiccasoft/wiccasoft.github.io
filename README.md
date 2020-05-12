@@ -1,6 +1,13 @@
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
+<!--
+https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=gd bkz ekşcicileri sikmekle korkutan adam
+https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz 10000 dolar maaş alan ekşiciler
+
+-->
+
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
