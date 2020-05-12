@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz atacan kayalay
 bkz cumburlop maaşlarının zamlanması
 bkz cumburlop maaşına göz dikecek kadar düşmek
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC-ye-milli-piyango-isabet-etmesi/&w=bg
