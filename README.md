@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/yaser-arafat/&w=bg
 https://www.uludagsozluk.com/k/ersin-korkut/&w=bg
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg
 https://www.uludagsozluk.com/k/survivor-2020/&w=gd
