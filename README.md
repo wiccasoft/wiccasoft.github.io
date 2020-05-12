@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/ bkz göt siktirilerek
 https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bkz kola koymak
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz yapacam hepinizi yapacam
 https://chance-boudreaux.uludagsozluk.com/ bkz aleyna ablanla oynadin mi ayka odada çen
