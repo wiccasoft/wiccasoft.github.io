@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://www.uludagsozluk.com/k/bir-gece-daha-bitti/ ulan negzel entry giriydik la
+https://www.uludagsozluk.com/k/bir-gece-daha-bitti/ bkz negzel entry giriydik la niye bitti la
 https://eksisozluk.com/bosa-gittigine-en-cok-uzulunen-seyler--6515473?a=popular bkz alex mi hagi mi kavgası
 https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/ bkz sabun yapılarak
 https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bkz kola koymak
