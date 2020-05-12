@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz geceye bi adam bırak pizelllerini emek kankağ
 https://www.uludagsozluk.com/k/sinan-cemgil/&w=bg bkz adam adam
 bkz celal kılıçoğlunun yerim uzun adamın yeridir paylaşımı
 bkz celal kılıçtaroğlunun kamalı abilikten reddetmesi
