@@ -6,6 +6,7 @@ bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki  koruyacak demesi
+https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular bkz orospular demek istemiş
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerler hepinizi
 https://www.uludagsozluk.com/k/a%C4%9Flamak-isteyip-a%C4%9Flayamamak/&w=bg ağla lan ibne ne dırdır yapıyon orospu
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız a ibneler
@@ -17,7 +18,6 @@ https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz ağır i
 bkz fatih tezcanın fatih terimi orospum yapcam demesi
 bkz fatih tezcanın hayırdan anlamaması
 bkz fatih tezcanının seni karım yaparım tweeti
-https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular bkz orospular demek istemiş
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam diye tweet attı napacam allam 
 bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
