@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bhz ruhi çenet vs testeredeki adam
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz ruhi çenetin çenesi
 bkz yusuf yerkel alevi olmadığı söylentileri iddaları
 bkz osman gökçek alevi iddaları sorundalı
