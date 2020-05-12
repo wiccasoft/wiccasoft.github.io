@@ -3,6 +3,7 @@
 
 <!--
 bkz müezzzinlerin 3000 lira para mı lan it isyanı
+bkz kamalcıların devlete götü yaslaması
 https://www.uludagsozluk.com/k/hakimleri-halk%C4%B1n-se%C3%A7mesi-gereklili%C4%9Fi/ adam haklı beyler
 https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular vermeyin kankağ
 https://www.uludagsozluk.com/k/ahl-arazisinin-sagl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1na-tahsis-edilmesi/
