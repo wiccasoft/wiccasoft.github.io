@@ -3,6 +3,7 @@
 
 <!--
 bkz devletler yok oluyor diye ağlayan kamalcılar
+bkz yeni dünya düzeninde bütün devletler küçülecek hadi engel olun ibneler
 https://eksisozluk.com/devletci-ekonomilerin-batmaya-mahkum-olmasi--6515736?a=popular anarko kapitalizm 101
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg götünü sürt
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz kendini şokomelle paketleyen erkek
