@@ -3,6 +3,7 @@
 
 <!--
 bkz eminemin burnu
+bkz sarı bıyık vs eminem
 https://www.uludagsozluk.com/k/eminem-i-emayn%C4%B1m-diye-okuyan-mal/&w=bg
 bkz murat övüç mü vs cübbeli ahmet hoca 
 bkz cübbeli ahmet hoca lalegül tv nin kapatılması
