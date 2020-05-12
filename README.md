@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
+https://eksisozluk.com/sermiyan-midyatin-sevgilisini-dovdugu-iddiasi--6516152?a=popular bkz iddalar derin bilader
 bkz fatih tezcan sikemez diyip johny sins izleyen ekşici
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
