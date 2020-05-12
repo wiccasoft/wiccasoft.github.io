@@ -4,8 +4,7 @@
 <!--
 bkz herkeş şevdiği şarkıyı bıraksın
 https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd bırakan çıksın geyler
-bkz kah güldük sarı bıyıkla kah eğlendik
-bkz sarı bıyıkın bıyıklarna süt döküp yalamak
+bkz kah güldük sarı bıyıkla kah eğlendik evet arkdaşlar bilrisiniz şahan zamanlarında şöyle efenim....
 bkz sarı bıyık vs çoşkun aral
 bkz erkek deyince akla gelen ilk erkek
 bkz sarı bıyık vs darth vader
