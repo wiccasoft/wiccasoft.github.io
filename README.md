@@ -7,6 +7,7 @@ https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam di
 bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
 bkz erdopanın süper güç olma yasa tasarısını imzalaması
+https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz ne günlere kaldık
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
 https://eksisozluk.com/trumpin-basin-toplantisini-terk-etmesi--6515695?a=popularbkz terk ediyorsun etme
 -->
