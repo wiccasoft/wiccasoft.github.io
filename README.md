@@ -11,9 +11,6 @@ bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
 bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi yapması
 bkz sermiyan midyatın malafatının kalkmadığı iddaları
 bkz erdoğanın süğper güç olma yasa tasarısını veto etmesi
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
-https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gay taş fırın ustaları
-https://eksisozluk.com/annenin-ilkokul-mezunu-cahil-bir-insan-olmasi--3216902?a=popular bkz imamaoğlunun annesi
 bkz murat övüçün türk övüç çalıç güveç demesi
 bkz atacücükün cücüklere hiç benzememesi sorundalı
 bkz atacücük cücük önde cücük ileri derken ne demek istedi sorundalı
@@ -30,6 +27,9 @@ https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popul
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
 https://eksisozluk.com/araplasmama-icin-cocuga-turkce-ad-koyma-kampanyasi--5587501?a=popular lol
 https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz ekşiciler
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
+https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gay taş fırın ustaları
+https://eksisozluk.com/annenin-ilkokul-mezunu-cahil-bir-insan-olmasi--3216902?a=popular bkz imamoğlunun annesi
 -->
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
