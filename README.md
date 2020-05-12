@@ -3,7 +3,7 @@
 
 <!--
 https://www.pinterest.com/wiccasoft/pins/ bkz murat öbüçün mezarlık pozu
-https://chance-boudreaux.uludagsozluk.com/ sosyal medya pezevengim reklamın iyisi kötüsü olmaz
+https://chance-boudreaux.uludagsozluk.com/ resmi sosyal medya pezevengim 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
 bkz murat öbüç vs kerimcan durmaz
 https://www.uludagsozluk.com/k/halil-necipo%C4%9Flu/&w=bg
