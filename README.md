@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/ bkz murat öbüçün türk öbüç gübeç paylaşımı
 https://www.uludagsozluk.com/k/fakirlerin-%C3%A7irkin-olmas%C4%B1/&w=bg bkz murat öbüç
 https://www.pinterest.com/wiccasoft/pins/ bkz kendini eşine saklayan bakir erkek
 https://www.pinterest.com/wiccasoft/pins/ bkz cübbeli mersinli hoca nın vaazı
