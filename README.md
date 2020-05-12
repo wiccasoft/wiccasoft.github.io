@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz kılıçtaroğlunun oğlu alevi iddaları
 bkz fatih tezcan gelip karının yanında seni sikse naparsın soundalı
 https://www.uludagsozluk.com/k/kar%C4%B1lar%C4%B1n%C4%B1z%C4%B1-bizden-nas%C4%B1l-koruyacaks%C4%B1n%C4%B1z/&w=bg nasıl?
 bkz jonhy sins vs fathi tezcan
