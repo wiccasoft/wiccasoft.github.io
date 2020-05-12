@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/sivasl%C4%B1-k%C4%B1zlar%C4%B1n-%C3%A7irkin-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg sivaslı cindy
 https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
 bkz soya değil boyaa bakar boyaaaa bay kamal
 https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-o-luk-anamdad%C4%B1r/&w=bg
