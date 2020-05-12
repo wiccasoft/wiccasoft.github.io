@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=gd
 bkz şeyma subaşı vs ismet inöcü
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ bkz asalet
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg
