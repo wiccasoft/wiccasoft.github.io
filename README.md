@@ -3,6 +3,7 @@
 
 
 <!--
+https://kemalist-24.uludagsozluk.com/ bkz malum ırkı hoplatan gerçek atatürkçü
 bkz siirtlilerin arap sevgisi
 bkz eşim arap ben gürcüyüm diyen malum kişi
 https://www.uludagsozluk.com/k/k%C3%BCrt-tarihi/&w=bg bkz oç ları tarihi
