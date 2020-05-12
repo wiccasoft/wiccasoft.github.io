@@ -2,7 +2,6 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
-https://chance-boudreaux.uludagsozluk.com/ naprın oynadın mı aleyna ablanla arka odada çen
 bkz khontkar kliplerinde resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
@@ -20,6 +19,7 @@ https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popul
 bkz erdopanın süper güç olma yasa tasarısını imzalaması
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gayler
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
+https://chance-boudreaux.uludagsozluk.com/  bu bebe nekafası yaşıyo amk
 -->
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
