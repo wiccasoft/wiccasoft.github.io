@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
-bkz kamalcıalrın kavram karmaşası yaşaması
+bkz kamalcıların kavram karmaşası yaşaması
 bkz komunizm isteyen yallah çine devletten izin almadan internete giremezsiniz
 bkz yeni dünya düzeninde bütün devletler yok hükmünde olacak sadece vergi alacaklar hadi engel olun ibneler
 https://eksisozluk.com/devletci-ekonomilerin-batmaya-mahkum-olmasi--6515736?a=popular anarko kapitalizm 101
