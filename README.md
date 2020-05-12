@@ -3,6 +3,7 @@
 
 
 <!--
+https://jdjdbdbdbdh.uludagsozluk.com/ bkz kamalcı hoplatan
 https://www.uludagsozluk.com/k/jdjdbdbdbdh/
 https://www.uludagsozluk.com/k/yaser-arafat/&w=bg
 https://www.uludagsozluk.com/k/ersin-korkut/&w=bg
