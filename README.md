@@ -3,7 +3,7 @@
 
 <!--
 bkz kendini siktiremeyen ekşicilerin dramı
-bkz khontkar kliplerinde ekşicilere orospum demesi
+bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki  koruyacak demesi
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerler hepinizi
