@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/gizem-karaca/&w=bg bkz asalet nedir
 bkz çorumlu kızlar vs çemişgezekli kızlar
 bkz şeyma subaşı vs ismet inönü
 https://www.uludagsozluk.com/k/baris-hemen-simdi/&w=bg bkz malum ırk
