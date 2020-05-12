@@ -2,21 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 
-<!-- 
-https://sekhmet07.uludagsozluk.com/ bkz anne gibi davranan sevdicek
-https://www.uludagsozluk.com/k/sevgilinin-annesi-gibi-olmak/&w=bg
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz götçü dayı
-https://eksisozluk.com/biri/rakimasasi bkz bill gates in oğlu can ıtır
-https://eksisozluk.com/biri/rakimasasi bkz lol reis
-https://eksisozluk.com/entry/107052472 bkz bir yazılımcı olarak lol2  ayol 
-https://eksisozluk.com/biri/rakimasasi bkz 50 k maaş alan lolcü
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz oğlancı
-https://www.uludagsozluk.com/k/survivor-2020/ bkz macunun gayler üzerinden yaptığı servet
-https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=gd bk gay yunus
-https://eksisozluk.com/biri/rakimasasi bkz 50k maaş alan lolcu ergen 
-bkz ekşide 50 k maaş alan htmlciler
--->
-
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
