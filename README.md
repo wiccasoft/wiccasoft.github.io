@@ -3,6 +3,7 @@
 
 <!--
 https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular
+https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular
 https://eksisozluk.com/f-tezcanin-b-arinca-kustah-sifatsiz-demesi--6515499?a=popular
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz afgan 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
