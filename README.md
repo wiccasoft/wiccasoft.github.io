@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!--
+bkz sagopa kajmer vs küçük emrah
 bkz sagopa kajmerin annesi sikilmiş veletleri gibi rap yapması
 bkz sagopa kajmerin avmli klibi
 bkz fatih tezcan obi wan kenobi benzerliği
