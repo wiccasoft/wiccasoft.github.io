@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
-bkz barda filminde nejat işlerin resmen ekşicilere ibneler demesi
+bkz barda filminde nejat işlerin resmen ekşicilere ibneler göndermesi yapılması
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
