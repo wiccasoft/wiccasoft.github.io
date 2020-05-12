@@ -3,6 +3,8 @@
 
 
 <!-- 
+https://sekhmet07.uludagsozluk.com/ bkz anne gibi davranan sevdicek
+https://www.uludagsozluk.com/k/sevgilinin-annesi-gibi-olmak/&w=bg
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz götçü dayı
 https://eksisozluk.com/biri/rakimasasi bill gates senmisin lol
 https://eksisozluk.com/biri/rakimasasi bkz lol reis
