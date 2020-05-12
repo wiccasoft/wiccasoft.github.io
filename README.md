@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/co%C5%9Fkun-aral-vs-vedat-milor/ bkz çoşkun orul orul siker
 https://www.pinterest.com/wiccasoft/pins/ bkz murat öbüçün mezarlık pozu
 https://www.pinterest.com/wiccasoft/pins/  bkz esra enönü murat öbüç kavgası
 https://www.pinterest.com/wiccasoft/pins/  murat öbüç ofişal 
