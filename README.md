@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz fatih tezcan tarafında hunharca sikiilmek vs murat öbüç
+https://www.uludagsozluk.com/k/k%C3%BCfrederek-para-kazanaca%C4%9F%C4%B1m-akl%C4%B1ma-gelmezdi/
 bkz o değil de nerde bu fatih tezcan hep haberlerde duyuyoruz ismini skandal açıklamalarını
 bkz fatih tezcanın  marka olma yolunda ilerlemesi
 bkz ikinci enes batur vakası olarak fatih tezcan
