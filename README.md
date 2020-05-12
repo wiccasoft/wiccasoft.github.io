@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-<!-- https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ bkz çen çekçi mi oldun  -->
+<!-- 
+https://www.uludagsozluk.com/k/berber-%C3%A7%C4%B1ra%C4%9F%C4%B1/&w=bg bkz sürekli malafatı sürterler
+https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ bkz çen çekçi mi oldun  -->
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
