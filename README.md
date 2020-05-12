@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz rise of murat öbüç
+bkz rise of murat skywalker öbüç
 bkz murat öbüçünü önlenemez yükselişi
 bkz her şeyi murat öbüç olarak görmeye başlamak
 https://www.pinterest.com/wiccasoft/pins/ olm bu hesap kimin fatih tezcan mı murat öbüç mü anlamdım amk
