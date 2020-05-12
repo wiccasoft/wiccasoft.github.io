@@ -1,64 +1,9 @@
 
-[![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
+[![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
-<!--
-bkz 12 mayıs orospular günü
-https://www.uludagsozluk.com/k/12-may%C4%B1s-hem%C5%9Fireler-g%C3%BCn%C3%BC/&w=bg amk orospuları
-bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine karşı koyamamak
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay deli ayol bu ne karısı
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg dadından yenmez la bu
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=gd
-https://www.uludagsozluk.com/e/43289150/ tamam reis yoldayım
-bkz berat albayrakın şokomel dökim fahreddini yalayın demesi
-bkz fahreddin kocanın zam istemiyorum demesi
-bkz cumburlop maaşına göz dikecek kadar düşmek
-bkz jeff bezosun zam istemiyorum idare ediyoz reis demesi
-https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din gençlerin afyonudur kankağ
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=gd
-https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular verme kankağ 
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz atacan kayalay
-https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC-ye-milli-piyango-isabet-etmesi/&w=bg
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz fatih tezcan
-https://www.uludagsozluk.com/k/hakimleri-halk%C4%B1n-se%C3%A7mesi-gereklili%C4%9Fi/ adam haklı beyler
-https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular vermeyin kankağ 
-https://www.uludagsozluk.com/k/ahl-arazisinin-sagl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1na-tahsis-edilmesi/
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay delirdi ayol bu ne karısı
-https://www.uludagsozluk.com/k/atat%C3%BCrk-havaliman%C4%B1/&w=bg bkz ata türkün gücü
-https://www.uludagsozluk.com/k/t%C3%BCrk%C3%BCn-t%C3%B6resi-%C3%B6zg%C3%BCrl%C3%BCkt%C3%BCr/ adam haklı beyler
-https://www.uludagsozluk.com/k/bir-gece-daha-bitti/ bkz negzel entry giriydik la niye bitti la
-https://eksisozluk.com/bosa-gittigine-en-cok-uzulunen-seyler--6515473?a=popular bkz alex mi hagi mi kavgası
-https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/ bkz sabun yapılarak
-https://www.uludagsozluk.com/k/berberlerin-zam-yapmas%C4%B1/ bkz kola koymak
-https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz yapacam hepinizi yapacam
-https://chance-boudreaux.uludagsozluk.com/ bkz aleyna ablanla oynadin mi ayka odada çen
-bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine karşı koyamamak
-https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
-https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fathi tezcandan fathi terime sert uyarı
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay bu adam delirdi ayol 
-https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular bkz jamshit
-https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/&w=gd
-https://www.uludagsozluk.com/k/sabaha-kadar-burday%C4%B1z-bug%C3%BCn/&w=bg bkz adım garavel bul beni
-https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular
-https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular
-https://eksisozluk.com/f-tezcanin-b-arinca-kustah-sifatsiz-demesi--6515499?a=popular
-https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz afgan 
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
-bkz geceye bir erkek bırak ibne değil amk
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ibne
-bkz kılıçtar vs maymun boku
-https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg
-https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/
-https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/
-https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/
-https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg
-https://www.uludagsozluk.com/k/ses-ver-kaz%C4%B1m/&w=bg
--->
+
 
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
 
