@@ -2,8 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz khontkarın resmen ekşicilere orospum demesi
-bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz bali babacanın ben sizin babanızım demesi
 bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam demesi
 bkz ilk buluşmada iibf diplomasını çıkarıp masaya vuran erkek
