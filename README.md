@@ -11,7 +11,7 @@ https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz ağır i
 bkz fatih tezcanın fatih terimi orospum yapcam demesi
 bkz fatih tezcanın hayırdan anlamaması
 bkz fatih tezcanının seni karım yaparım tweeti
-https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular ay karısı yapmasa bari
+https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular bkz orospular demek istemiş
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam diye tweet attı napacam allam 
 bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
