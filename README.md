@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz çok değerli çok sanatçı çok allah uzun ömür versin
+https://www.uludagsozluk.com/k/galatasaray/&w=gd bkz fatih tezcan
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz efenim  çok değerli çok sanatçı çok allah uzun ömür versin
 https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/&w=bg bkz efenim şöyle anlatim bu adam şöyle...
 bkz herkeş şevdiği şarkıyı bıraksın
 https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd bırakan çıksın geyler
