@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz sermiyan midyatın malafatının kalkmadığı iddaları
 bkz erdoğanın süğper güç olma yasa tasarısını veto etmesi
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
 bkz murat övüçün türk övüç çalıç güveç demesi
