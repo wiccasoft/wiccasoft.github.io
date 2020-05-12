@@ -4,6 +4,7 @@
 <!--
 bkz johny sins vs fatih tezcan
 bkz fatih tezcan tarafından vahçice sikilmek vs murat öbüç
+https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
 https://eksisozluk.com/ekrem-imamoglunun-reddit-hesabi--6516227?a=popular orayı yıkarlar kankağ
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz ay ne karısı ayol
