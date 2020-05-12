@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz sevgilisine aşko diyen erkek vs demeyen erkek
 bkz eminemin burnu
 bkz sarı bıyık vs eminem
 https://www.uludagsozluk.com/k/eminem-i-emayn%C4%B1m-diye-okuyan-mal/&w=bg
