@@ -5,7 +5,7 @@
 bkz kamalcıların kavram karmaşası yaşaması
 bkz komunizm isteyen yallah çine devletten izin almadan internete giremezsiniz
 bkz yeni dünya düzeninde bütün devletler yok hükmünde olacak sadece vergi alacaklar hadi engel olun ibneler
-https://eksisozluk.com/devletci-ekonomilerin-batmaya-mahkum-olmasi--6515736?a=popular anarko kapitalizm 101
+https://eksisozluk.com/devletci-ekonomilerin-batmaya-mahkum-olmasi--6515736?a=popular bkz anarko kapitalizm 101
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg götünü sürt
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz kendini şokomelle paketleyen erkek
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz ibne gibin bişi
