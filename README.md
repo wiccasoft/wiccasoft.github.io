@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
+https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=gd bkz ekşcicileri sikmekle korkutan adam
 bkz erdopanın süper güç olma yasa tasarısını imzalaması
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
