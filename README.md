@@ -2,12 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz bali babacanın ben sizin babanızım demesi
-bkz khontkarın resmen ekşicilere orospum demesi
-bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam demesi
-bkz ilk buluşmada iibf diplomasını çıkarıp masaya vuran erkek
-https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg
-bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi yapması
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1ra%C4%9F%C4%B1na-balon-tra%C5%9F-ettiren-berber/
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
