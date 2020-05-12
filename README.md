@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay bu adam delirdi ayol haşin walla
+https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
+https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay bu adam delirdi ayol 
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 bkz fatih tezcandan uzak durmak ama hayvani çekiciliğne kapılmak
 bkz fatih tezcanın seni karım yapacam olm diye tehdit etmesi 
