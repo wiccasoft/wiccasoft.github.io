@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/
 https://www.uludagsozluk.com/k/k%C3%BCrt-ter%C3%B6r%C3%BC-nas%C4%B1l-bitirilir/
 https://www.uludagsozluk.com/k/sevgilisine-asko-diyen-erkek/
