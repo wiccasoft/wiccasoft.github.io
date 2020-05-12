@@ -3,7 +3,7 @@
 
 <!--
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine kapılmak
+bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine karşı koyamamak
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fathi tezcandan fathi terime sert uyarı
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular bkz jamshit
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
