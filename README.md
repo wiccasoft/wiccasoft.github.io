@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz sarı bıyıkın bıyıklarna süt döküp yalamak
 bkz sarı bıyık vs çoşkun aral
 bkz erkek deyince akla gelen ilk erkek
 bkz sarı bıyık vs darth vader
