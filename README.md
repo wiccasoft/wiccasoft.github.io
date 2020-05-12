@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!--
+https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
+https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funa-arap%C3%A7a-isim-verip-t%C3%BCrk-%C3%BCm-diye-gezebilmek/ 
 bkz johny sins vs fatih tezcan
 bkz fatih tezcan tarafından vahçice sikilmek vs murat öbüç
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
