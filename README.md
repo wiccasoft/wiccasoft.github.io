@@ -3,10 +3,10 @@
 
 <!--
 bkz khontkar kliplerinde ekşicilere orospum demesi
+bkz reynmenin ekşicileri orospum yapacam imalı klibi
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerle hepinizi
 https://www.uludagsozluk.com/k/a%C4%9Flamak-isteyip-a%C4%9Flayamamak/&w=bg ağla lan ibne ne dırdır yapıyon orospu
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız a ibneler
-bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
 bkz afyonlu katolik gay taş fırın ustaları
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din afyondur abi ondan
