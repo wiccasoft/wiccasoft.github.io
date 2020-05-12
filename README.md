@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-kafa-dengi-muhabbetlik-kimseyi-bulamamak/ bkz top
 https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/ bkz top
 https://www.uludagsozluk.com/k/emoji-kullanmayan-insan/&w=bg bkz top
 https://www.uludagsozluk.com/k/1-tl-nin-7-dolar-olaca%C4%9F%C4%B1-g%C3%BCnler/ hayallerde yaşıyor bazı ibneler
