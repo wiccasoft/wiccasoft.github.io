@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+bkz reynmenin ekşicileri orospum yapcam imalı klibi
 bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
 bkz afyonlu katolik gay taş fırın ustaları
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din afyondur abi ondan
