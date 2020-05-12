@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz murat öbüç mü fatih tezcan mı sorundalı
 bkz rise of murat skywalker öbüç
 bkz murat öbüçünü önlenemez yükselişi
 bkz her şeyi murat öbüç olarak görmeye başlamak
