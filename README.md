@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz fatih tezcanın  marka olma yolunda ilerlemesi
 bkz ikinci enes batur vakası olarak fatih tezcan
 ben bu yazıyı fatih tezcan abiye yazdım abi saydılar anamı sik be abi
 bkz fatih tezcan anamın üstünde yakalansa orospuluk anamdadır
