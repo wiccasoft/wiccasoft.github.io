@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz duramn emmi aslan akbeyi sikti mi sorunsalı
 bkz deep siyaset kışıyo beyler
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-na-gusl%C3%BCn-%C5%9Fartlar%C4%B1n%C4%B1-sorsam-bilemez/&w=bg
