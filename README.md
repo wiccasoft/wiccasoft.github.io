@@ -12,6 +12,8 @@ bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi 
 bkz sermiyan midyatın malafatının kalkmadığı iddaları
 bkz erdoğanın süğper güç olma yasa tasarısını veto etmesi
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
+https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gay taş fırın ustaları
+https://eksisozluk.com/annenin-ilkokul-mezunu-cahil-bir-insan-olmasi--3216902?a=popular bkz imamaoğlunun annesi
 bkz murat övüçün türk övüç çalıç güveç demesi
 bkz atacücükün cücüklere hiç benzememesi sorundalı
 bkz atacücük cücük önde cücük ileri derken ne demek istedi sorundalı
