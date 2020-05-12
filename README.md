@@ -3,6 +3,7 @@
 
 
 <!--
+bkz siirtli kızların amcıklarının kokması
 bkz 90 doğumlu sivaslı kızlar vs 2000 doğumlu konyalı kızlar
 https://www.uludagsozluk.com/k/gizem-karaca/&w=bg bkz asalet nedir
 bkz çorumlu kızlar vs çemişgezekli kızlar
