@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7%C3%BClerin-%C3%A7ocuklar%C4%B1na-koydu%C4%9Fu-sikimsonik-isimler/
 https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-neden-soyad%C4%B1-kanununu-%C3%A7%C4%B1kard%C4%B1/
 https://www.uludagsozluk.com/k/benim-atam-boncuklu-deli-ibrahimdir/&w=bg
