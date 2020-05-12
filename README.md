@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay deli ayol bu ne karısı
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg dadından yenmez la bu
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=gd
