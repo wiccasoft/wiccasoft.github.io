@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz fatih tezcan ataccüü cücü değildi iddası
 bkz fatih tezcan vs fatih terim
 bkz fatih terim vs at boku
 bkz kılıçtar vs maymun boku
