@@ -2,7 +2,6 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
-https://www.uludagsozluk.com/k/ezan-sesinden-rahats%C4%B1z-olmak/&w=bg obeyfendiye villa yaptıralım
 bkz barda filminde nejat işlerin resmen ekşicilere ibneler demesi
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
@@ -11,6 +10,7 @@ bkz kenan imirzalıoğlunun resmen bakışlarıynan ekşicileri sikmesi
 bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
 bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki  koruyacak demesi
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz ibneleri hopur hopur hoplatan reis
+https://www.uludagsozluk.com/k/ezan-sesinden-rahats%C4%B1z-olmak/&w=bg bkz beyfendiye villa yaptıralım
 https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular bkz orospular demek istemiş
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerler hepinizi
 https://www.uludagsozluk.com/k/a%C4%9Flamak-isteyip-a%C4%9Flayamamak/&w=bg ağla lan ibne ne dırdır yapıyon orospu
