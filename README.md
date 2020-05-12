@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+bkz fatih tezcanın hayvani çekiciliği
 bkz khontkar kliplerinde resmen ekşicilere orospu demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
