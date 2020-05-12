@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz sarı bıyık vs darth vader
+https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/&w=bg
 bkz zeki müren vs fatih tezcan
 bkz zeki müren ibnemi sorundalı
 bkz peki zeki müren de bizi görecek mi sorundalı
