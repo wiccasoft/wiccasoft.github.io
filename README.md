@@ -3,6 +3,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
+https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-resimlerini-g%C3%B6r%C3%BCyoruz-b%C3%B6ylece-%C3%A7akt%C4%B1rma/
 https://www.uludagsozluk.com/k/sivasl%C4%B1-k%C4%B1zlar%C4%B1n-%C3%A7irkin-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg sivaslı cindy
 https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
 bkz soya değil boyaa bakar boyaaaa bay kamal
