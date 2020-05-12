@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz  kah füldük sarı bıyıkla kah eğlendik
+https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd bırakan çıksın geyler
+bkz kah güldük sarı bıyıkla kah eğlendik
 bkz sarı bıyıkın bıyıklarna süt döküp yalamak
 bkz sarı bıyık vs çoşkun aral
 bkz erkek deyince akla gelen ilk erkek
