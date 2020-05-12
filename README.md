@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz zeki müren ibnemi sorundalı
 bkz peki zeki müren de bizi görecek mi sorundalı
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg
 bkz fatih tezcan ataccüü cücü değildi iddası
