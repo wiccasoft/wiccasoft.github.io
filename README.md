@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz anarko kamalizme geçen kamalcılar
 bkz duran emmi aslan akbeyi sikti mi sorunsalı
 bkz deep siyaset kışıyo beyler
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
