@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://www.pinterest.com/wiccasoft/pins/ bkz kenidin eşine saklayan erkek
+https://www.pinterest.com/wiccasoft/pins/ bkz kendini eşine saklayan bakir erkek
 https://www.pinterest.com/wiccasoft/pins/ bkz cübbeli mersinli hoca nın vaazı
 https://www.pinterest.com/wiccasoft/pins/  bkz murat övbüçün türk öbüç gübüç paylaşımı
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-kafa-dengi-muhabbetlik-kimseyi-bulamamak/ bkz top
