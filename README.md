@@ -2,46 +2,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
-<!--
-https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-ahlakl%C4%B1-milleti/ bkz türkler
-bkz anarko kamalizme geçen kamalcılar
-bkz duran emmi aslan akbeyi sikti mi sorunsalı
-bkz deep siyaset kışıyo beyler
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-na-gusl%C3%BCn-%C5%9Fartlar%C4%B1n%C4%B1-sorsam-bilemez/&w=bg
-bkz atacücük sapık ismete vurduruyordu iddaları
-bkz atacücükün cücük olduğu iddaları
-https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg
-bkz imamaoğlunun iibf diplomasını çıkarıp masaya vurması
-bkz kendini siktiremeyen ekşicilerin dramı
-bkz khontkarın resmen ekşicilere orospum demesi
-bkz reynmenin ekşicileri orospum yapacam imalı klibi
-bkz fatih tezcan sikemez diyip johny sins izleyen ekşici
-bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
-bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi yapması
-bkz sermiyan midyatın malafatının kalkmadığı iddaları
-bkz erdoğanın süğper güç olma yasa tasarısını veto etmesi
-bkz murat övüçün türk övüç çalıç güveç demesi
-bkz atacücükün cücüklere hiç benzememesi sorundalı
-bkz atacücük cücük önde cücük ileri derken ne demek istedi sorundalı
-bkz türk kanı taşımayıp ismini türk yapmak
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funa-arap%C3%A7a-isim-verip-t%C3%BCrk-%C3%BCm-diye-gezebilmek/&w=gd
-bkz johny sins tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
-https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular bkz eski kgb ajanı
-https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
-https://eksisozluk.com/sermiyan-midyatin-sevgilisini-dovdugu-iddiasi--6516152?a=popular bkz oç
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz ayol ne karısı
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
-https://eksisozluk.com/araplasmama-icin-cocuga-turkce-ad-koyma-kampanyasi--5587501?a=popular lol
-https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz ekşiciler
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/
-https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gay taş fırın ustaları
-https://eksisozluk.com/annenin-ilkokul-mezunu-cahil-bir-insan-olmasi--3216902?a=popular bkz imamoğlunun annesi
--->
-
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
