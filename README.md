@@ -3,6 +3,9 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz türk kanı taşımayıp ismini türk yapmak
+https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
+https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funa-arap%C3%A7a-isim-verip-t%C3%BCrk-%C3%BCm-diye-gezebilmek/&w=gd
 bkz johny sins tarafından vahşice sikilmek vs murat övüç
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
