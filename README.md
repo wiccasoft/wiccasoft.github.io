@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular yakışır 
 bkz fatih tezcan tarafında hunharca sikiilmek vs murat öbüç
 https://www.uludagsozluk.com/k/k%C3%BCfrederek-para-kazanaca%C4%9F%C4%B1m-akl%C4%B1ma-gelmezdi/
 bkz o değil de nerde bu fatih tezcan hep haberlerde duyuyoruz ismini skandal açıklamalarını
