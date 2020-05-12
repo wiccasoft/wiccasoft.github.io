@@ -6,8 +6,6 @@
 bkz siirtlilerin arap sevgisi
 bkz hataydaki alevi araplarının türkleri asimile etme tehlikesi
 https://www.uludagsozluk.com/k/yaser-arafat/&w=bg bkz malum ırk
-https://www.uludagsozluk.com/k/ya%C4%9F%C4%B1zcan-yo%C4%9Furtlamac%C4%B1o%C4%9Fullar%C4%B1/ bkz çok büyük adam olacak çok
-https://jdjdbdbdbdh.uludagsozluk.com/ bkz kamalcı hoplatan
 https://www.uludagsozluk.com/k/jdjdbdbdbdh/
 https://www.uludagsozluk.com/k/yaser-arafat/&w=bg
 https://www.uludagsozluk.com/k/ersin-korkut/&w=bg
@@ -23,6 +21,7 @@ https://www.uludagsozluk.com/k/60-senedir-banyo-yapmayan-adam/&w=bg
 https://www.uludagsozluk.com/k/acun-un-rating-i%C3%A7in-ersin-e-ecel-teri-d%C3%B6kt%C3%BCrmesi/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/arapla%C5%9Fmama-i%C3%A7in-%C3%A7ocu%C4%9Fa-t%C3%BCrk%C3%A7e-ad-koyma-kampanyas%C4%B1/
+https://www.uludagsozluk.com/k/ya%C4%9F%C4%B1zcan-yo%C4%9Furtlamac%C4%B1o%C4%9Fullar%C4%B1/ bkz çok büyük adam olacak çok
 -->
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
