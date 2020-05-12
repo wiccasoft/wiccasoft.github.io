@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+bkz afyonlu katolik gay taş fırın ustaları
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din afyondur abi ondan
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular sikerler hepinizi sikerler
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz ağır ibne 
