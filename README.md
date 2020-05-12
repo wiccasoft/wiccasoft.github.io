@@ -4,6 +4,7 @@
 <!--
 bkz khontkar kliplerinde ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
+bkz fatih tezcanın ekşicilere ibneler sizi kim koruyacak demesi
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerler hepinizi
 https://www.uludagsozluk.com/k/a%C4%9Flamak-isteyip-a%C4%9Flayamamak/&w=bg ağla lan ibne ne dırdır yapıyon orospu
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız a ibneler
