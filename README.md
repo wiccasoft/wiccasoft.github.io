@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/12-may%C4%B1s-hem%C5%9Fireler-g%C3%BCn%C3%BC/&w=bg amk orospuları
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine karşı koyamamak
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay deli ayol bu ne karısı
