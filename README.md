@@ -1,51 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-
-<!--
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kürt vs gürcü
-https://www.uludagsozluk.com/k/berat-albayrak/&w=bg bkz adam gibi adam
-https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
-https://www.uludagsozluk.com/k/fa%C5%9Fist-acun-un-k%C3%BCrt-ersin-korkut-u-elemesi/
-https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-resimlerini-g%C3%B6r%C3%BCyoruz-b%C3%B6ylece-%C3%A7akt%C4%B1rma/
-bkz soya değil boyaa bakar boyaaaa bay kamal
-https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-o-luk-anamdad%C4%B1r/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7%C3%BClerin-%C3%A7ocuklar%C4%B1na-koydu%C4%9Fu-sikimsonik-isimler/
-https://www.uludagsozluk.com/k/%C3%BClke-kurup-kendine-ata-ismini-koymak/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk-neden-soyad%C4%B1-kanununu-%C3%A7%C4%B1kard%C4%B1/
-https://www.uludagsozluk.com/k/benim-atam-boncuklu-deli-ibrahimdir/&w=bg
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
-bkz siirtli kızların amcıklarının kokması
-bkz 90 doğumlu sivaslı kızlar vs 2000 doğumlu konyalı kızlar
-https://www.uludagsozluk.com/k/gizem-karaca/&w=bg bkz asalet nedir hemşerim diye demiyom eyidir eyi
-bkz çorumlu kızlar vs çemişgezekli kızlar
-bkz şeyma subaşı vs ismet inönü
-https://www.uludagsozluk.com/k/baris-hemen-simdi/&w=bg bkz malum ırk
-https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg bkz kürt lütfen
-https://kemalist-24.uludagsozluk.com/ bkz malum ırkı hoplatan gerçek atatürkçü
-bkz siirtlilerin arap sevgisi
-bkz eşim arap ben gürcüyüm diyen malum kişi
-https://www.uludagsozluk.com/k/k%C3%BCrt-tarihi/&w=bg bkz oç ları tarihi
-bkz hataydaki alevi araplarının türkleri asimile etme tehlikesi
-https://www.uludagsozluk.com/k/yaser-arafat/&w=bg bkz malum ırk
-https://www.uludagsozluk.com/k/jdjdbdbdbdh/
-https://www.uludagsozluk.com/k/yaser-arafat/&w=bg
-https://www.uludagsozluk.com/k/ersin-korkut/&w=bg bkz malum ırk
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg
-https://www.uludagsozluk.com/k/survivor-2020/&w=gd
-https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg
-https://www.uludagsozluk.com/k/hilafet-gelecek-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irece%C4%9Fiz/
-https://www.uludagsozluk.com/k/ankara-ya-ta%C5%9F%C4%B1nacaklara-bir-tavsiye-b%C4%B1rak/
-https://www.uludagsozluk.com/k/yallah-osmanl%C4%B1-ya-ve-yallah-k%C3%BCrdistan-a/
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/
-https://www.uludagsozluk.com/k/ersin-korkut-un-survivor-hayat%C4%B1n%C4%B1n-bitmesi/ 
-https://www.uludagsozluk.com/k/60-senedir-banyo-yapmayan-adam/&w=bg
-https://www.uludagsozluk.com/k/acun-un-rating-i%C3%A7in-ersin-e-ecel-teri-d%C3%B6kt%C3%BCrmesi/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/arapla%C5%9Fmama-i%C3%A7in-%C3%A7ocu%C4%9Fa-t%C3%BCrk%C3%A7e-ad-koyma-kampanyas%C4%B1/
-https://www.uludagsozluk.com/k/ya%C4%9F%C4%B1zcan-yo%C4%9Furtlamac%C4%B1o%C4%9Fullar%C4%B1/ bkz çok büyük adam olacak çok
--->
-
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
