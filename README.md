@@ -1,21 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-<!-- 
-bkz sevgilisinin şefatülü gübün emcüğüne karışmayan erkek
-bkz yozdil kılıştarın karısını hoplatıyor iddaları
-bkz afyonlu katolik gay taş fırın ustalarına karışmayan erkek
-bkz sevgilsiinin emcüğünü hüpürdeterek emen erkek
-bkz sermiyan midyatın karısını iyi sikemediği iddaları
-bkz tayyip damada penis yüzüğünü azıyla takıyor iddaları
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
-https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
-https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/ bkz johny sins
-https://www.uludagsozluk.com/k/berber-%C3%A7%C4%B1ra%C4%9F%C4%B1/&w=bg bkz sürekli malafatı sürter
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ bkz çen çekçi mi oldun  -->
-
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
