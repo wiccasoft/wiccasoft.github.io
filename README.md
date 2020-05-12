@@ -5,6 +5,7 @@
 bkz jeff bezosun zam istemesi
 bkz cumburlop maaşlarının zamlanması
 bkz cumburlop maaşına göz dikecek kadar düşmek
+3https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din gençlerin afyonudur kankağ
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=gd
 https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular verme kankağ 
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz atacan kayalay
