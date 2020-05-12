@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/benim-atam-boncuklu-deli-ibrahimdir/&w=bg
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan türkler
 bkz siirtli kızların amcıklarının kokması
 bkz 90 doğumlu sivaslı kızlar vs 2000 doğumlu konyalı kızlar
