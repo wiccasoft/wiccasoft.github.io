@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz afyonlu gay taş fırın ustaları
+bkz afyonlu katolik gay taş fırın ustaları
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
