@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zlemek/&w=bg bkz acılara tutunmak 
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ hanimiş çekçi mi oldun çen
 bkz barda filminde nejat işlerin resmen ekşicilere ibneler göndermesi yapılması
 bkz kendini siktiremeyen ekşicilerin dramı
