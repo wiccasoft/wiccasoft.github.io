@@ -1,48 +1,6 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
-<!--
-bkz kamalcıların kavram karmaşası yaşaması
-bkz komunizm isteyen yallah çine devletten izin almadan internete giremezsiniz
-bkz yeni dünya düzeninde bütün devletler yok hükmünde olacak sadece vergi alacaklar hadi engel olun ibneler
-https://eksisozluk.com/devletci-ekonomilerin-batmaya-mahkum-olmasi--6515736?a=popular bkz anarko kapitalizm 101
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg götünü sürt
-https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz kendini şokomelle paketleyen erkek
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz ibne gibin bişi
-https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlı şemse kendini siktiren afgan
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zlemek/&w=bg bkz acılara tutunmak 
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ hanimiş mütiç çekçi mi oldun çen
-bkz barda filminde nejat işlerin resmen ekşicilere ibneler göndermesi yapılması
-bkz kendini siktiremeyen ekşicilerin dramı
-bkz khontkarın resmen ekşicilere orospum demesi
-bkz reynmenin ekşicileri orospum yapacam imalı klibi
-bkz kenan imirzalıoğlunun resmen bakışlarıynan ekşicileri sikmesi
-bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
-bkz fatih tezcanın açık açık ekşicilere aaaaa ibneler sizi kim sikmek istiyo ki  koruyacak demesi
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz ibneleri hopur hopur hoplatan reis
-https://www.uludagsozluk.com/k/ezan-sesinden-rahats%C4%B1z-olmak/&w=bg bkz beyfendiye villa yaptıralım
-https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular bkz orospular demek istemiş
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz aa ibneler sikerler hepinizi
-https://www.uludagsozluk.com/k/a%C4%9Flamak-isteyip-a%C4%9Flayamamak/&w=bg ağla lan ibne ne dırdır yapıyon orospu
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız a ibneler
-bkz afyonlu katolik gay taş fırın ustaları
-https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din afyondur abi ondan
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular sikerler hepinizi sikerler demiş
-https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz ağır ibne 
-bkz fatih tezcanın fatih terimi orospum yapcam demesi
-bkz fatih tezcanın hayırdan anlamaması
-bkz fatih tezcanının seni karım yaparım tweeti
-https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam diye tweet attı napacam allam 
-bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
-bkz erdopanın süper güç olma yasa tasarısını imzalaması
-https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gayler
-https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
-https://chance-boudreaux.uludagsozluk.com/  çen aleyna ablanı şekşi mi buluyon çen lan 
-https://chance-boudreaux.uludagsozluk.com/ bkz aleyna aplası müthiş şekşiymiş beyler :)))))
--->
-
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 [![Image](prototype/Screenshot_2020-05-10_18-47-26.png)](https://www.youtube.com/watch?v=QpRreqwd5Jc)
