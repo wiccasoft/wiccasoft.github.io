@@ -13,30 +13,8 @@ https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a
 https://eksisozluk.com/f-tezcanin-b-arinca-kustah-sifatsiz-demesi--6515499?a=popular
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz afgan 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
-bkz murat öbüç vs zeki büren vs kerimcan duramaz
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ibne
-bkz efenim takdire şayan bir insandır kendisi
 bkz geceye bir erkek bırak ibne değil amk
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ibne
-https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/&w=bg bkz efenim çok değerli bi insan
-https://www.uludagsozluk.com/k/galatasaray/&w=gd bkz fatih tezcan
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz efenim  çok değerli çok sanatçı çok allah uzun ömür versin
-https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/&w=bg bkz efenim şöyle anlatim bu adam şöyle...
-bkz herkeş şevdiği şarkıyı bıraksın
-https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd bırakan çıksın geyler
-bkz kah güldük sarı bıyıkla kah eğlendik evet arkdaşlar bilirsiniz şahan zamanlarında şöyle efenim....
-bkz efenim şimdi gerçek kesit diye bir program vardı kah fgülerdeik kah eğlenirdik
-bkz sarı bıyık vs çoşkun aral
-bkz erkek deyince akla gelen ilk erkek
-bkz sarı bıyık vs darth vader
-https://www.uludagsozluk.com/k/sar%C4%B1-b%C4%B1y%C4%B1k/&w=bg
-bkz zeki müren vs fatih tezcan
-bkz zeki müren ibnemi sorundalı
-bkz peki zeki müren de bizi görecek mi sorundalı
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg
-bkz fatih tezcan ataccüü cücü değildi iddası
-bkz fatih tezcan vs fatih terim
-bkz fatih terim vs at boku
 bkz kılıçtar vs maymun boku
 https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg
