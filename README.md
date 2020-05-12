@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz yapacam hepinizi yapacam
 https://chance-boudreaux.uludagsozluk.com/ bkz aleyna ablanla oynadin mi ayka odada çen
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine karşı koyamamak
