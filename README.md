@@ -3,7 +3,7 @@
 
 <!-- 
 bkz fatih tezcan atacücük cücük değildi antitezi
-bkz geceye bi adam bırak pizelllerini emek kankağ
+bkz geceye bi adam bırak pixelllerini emek kankağ
 https://www.uludagsozluk.com/k/sinan-cemgil/&w=bg bkz adam adam
 bkz celal kılıçoğlunun yerim uzun adamın yeridir paylaşımı
 bkz celal kılıçtaroğlunun kamalı abilikten reddetmesi
