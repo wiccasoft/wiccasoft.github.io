@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız ibneler
+https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular nasıl koruyacaksınız a ibneler
 bkz khontkar kliplerinde resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
