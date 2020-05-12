@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
-https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz 10000 dolar maaşa alan ekşiciler
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
@@ -14,6 +13,7 @@ bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz ay siker bu ayol
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz ay ne karısı ayol
+https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz 10000 dolar maaş alan ekşiciler
 -->
 
 
