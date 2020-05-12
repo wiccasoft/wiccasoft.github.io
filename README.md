@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-alevi-olmamas%C4%B1/ çok ilginç iddalar yahu
 bkz osman gökçek alevi olduu söylentisi iddaları
 bkz ibrahim gökçek ateist olduu iddaları
 bkz jonhy sins vs fathi tezcan
