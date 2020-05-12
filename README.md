@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz hababam sınıfı cübbeli ahmet hoca
 bkz cübbeli ahmet hoca yütüp kanalı
 bkz cübbeli ahmet hoca resmi yütüp kanalı yeni video atmışmıdır sorundalı
 bkz murat öbüç yarın ne payalaşak acaba sorundalı
