@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://eksisozluk.com/f-tezcanin-b-arinca-kustah-sifatsiz-demesi--6515499?a=popular
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz afgan 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
 bkz murat öbüç vs zeki büren vs kerimcan duramaz
