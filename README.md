@@ -3,6 +3,7 @@
 
 <!--
 bkz cumburlop maaşlarının zamlanması
+bkz cumburlop maaşına göz dikecek kadar düşmek
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC-ye-milli-piyango-isabet-etmesi/&w=bg
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz fatih tezcan
 https://www.uludagsozluk.com/k/hakimleri-halk%C4%B1n-se%C3%A7mesi-gereklili%C4%9Fi/ adam haklı beyler
