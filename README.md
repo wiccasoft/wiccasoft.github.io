@@ -6,7 +6,7 @@
 https://sekhmet07.uludagsozluk.com/ bkz anne gibi davranan sevdicek
 https://www.uludagsozluk.com/k/sevgilinin-annesi-gibi-olmak/&w=bg
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz götçü dayı
-https://eksisozluk.com/biri/rakimasasi bkz 50k kazanan lol cü reyis
+https://eksisozluk.com/biri/rakimasasi bkz bill gates in oğlu can ıtır
 https://eksisozluk.com/biri/rakimasasi bkz lol reis
 https://eksisozluk.com/entry/107052472 bkz bir yazılımcı olarak lol2  ayol 
 https://eksisozluk.com/biri/rakimasasi bkz 50 k maaş alan lolcü
