@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
-<!-- bkz fatih tezcandan fatih terime işin yap uyarısı -->
+<!-- bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
+https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
+-->
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
