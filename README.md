@@ -3,6 +3,7 @@
 
 <!--
 bkz sagopa kajmer vs küçük emrah
+bkz sagopa kajmerin acıalrın çocuğuyum bakışları
 bkz sagopa kajmerin annesi sikilmiş veletleri gibi rap yapması
 bkz sagopa kajmerin avmli klibi
 bkz fatih tezcan obi wan kenobi benzerliği
