@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz eminemin burnu
+https://www.uludagsozluk.com/k/eminem-i-emayn%C4%B1m-diye-okuyan-mal/&w=bg
 bkz murat övüç mü vs cübbeli ahmet hoca 
 bkz cübbeli ahmet hoca lalegül tv nin kapatılması
 bkz cübbeli ahmet hoca yütüp kanalı
