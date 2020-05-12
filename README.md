@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popular ay karısı yapmasa bari
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam diye tweet attı napacam allam 
 bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
