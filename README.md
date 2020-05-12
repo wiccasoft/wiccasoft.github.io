@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg bkz kürt lütfen
 https://kemalist-24.uludagsozluk.com/ bkz malum ırkı hoplatan gerçek atatürkçü
 bkz siirtlilerin arap sevgisi
 bkz eşim arap ben gürcüyüm diyen malum kişi
