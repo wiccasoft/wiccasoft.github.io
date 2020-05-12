@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay delirdi ayol bu ne karısı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-havaliman%C4%B1/&w=bg bkz ata türkün gücü
 https://www.uludagsozluk.com/k/t%C3%BCrk%C3%BCn-t%C3%B6resi-%C3%B6zg%C3%BCrl%C3%BCkt%C3%BCr/ adam haklı beyler
 https://www.uludagsozluk.com/k/bir-gece-daha-bitti/ bkz negzel entry giriydik la niye bitti la
