@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlı şemse kendini siktiren afgan
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevmedi%C4%9Fini-anlaman%C4%B1n-yollar%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zlemek/&w=bg bkz acılara tutunmak 
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ hanimiş çekçi mi oldun çen
