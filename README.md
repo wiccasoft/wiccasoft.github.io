@@ -3,10 +3,10 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
-bkz fatih tezcan sikemez diyip johny sins izleyen ekşici
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
+bkz fatih tezcan sikemez diyip johny sins izleyen ekşici
 bkz norm enderin mekanın sahibi geldi ekşicileri karım yapacam göndermesi
 bkz barda filminde nejat işlerin açık açık ekşicilere ibneler göndermesi yapması
 bkz sermiyan midyatın malafatının kalkmadığı iddaları
