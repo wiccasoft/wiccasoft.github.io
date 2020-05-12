@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz götçü dayı
 https://eksisozluk.com/biri/rakimasasi bill gates senmisin lol
 https://eksisozluk.com/biri/rakimasasi bkz lol reis
 https://eksisozluk.com/entry/107052472 bkz bir yazılımcı olarak lol2  ayol 
