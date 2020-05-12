@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
-bkz fatih tezcan sikemezx diyip johny sins izleyen ekşici
+bkz fatih tezcan sikemez diyip johny sins izleyen ekşici
 bkz kendini siktiremeyen ekşicilerin dramı
 bkz khontkarın resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
