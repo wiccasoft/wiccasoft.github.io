@@ -25,7 +25,7 @@ bkz erdopanın süper güç olma yasa tasarısını imzalaması
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz afyonlu katolik gayler
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
 https://chance-boudreaux.uludagsozluk.com/  çen aleyna ablanı şekşi mi buluyon çen lan 
-https://chance-boudreaux.uludagsozluk.com/ bkz aleyna aplası çok şekşiymiş beyler :)))))
+https://chance-boudreaux.uludagsozluk.com/ bkz aleyna aplası müthiş şekşiymiş beyler :)))))
 -->
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
