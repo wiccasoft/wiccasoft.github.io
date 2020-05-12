@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz osman gökçek alevi olduu söylentisi iddaları
 bkz ibrahim gökçek ateist olduu iddaları
 bkz jonhy sins vs fathi tezcan
 bkz fathi tezcan atacücük cücük pipiliydi iddası
