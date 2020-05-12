@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimli kürt
 https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-alevi-olmamas%C4%B1/ ilginç bi idda melih hadi bunu da açıkla
 bkz johny sins sikince auuuuu  fatih tezcan sikince tu kaka
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular yakışır 
