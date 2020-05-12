@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
+
 <!-- 
+https://eksisozluk.com/entry/107052472 bkz bir yazılımcı olarak lol2  ayol 
 https://eksisozluk.com/biri/rakimasasi bkz 50 k maaş alan lolcü
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz oğlancı
 https://www.uludagsozluk.com/k/survivor-2020/ bkz macunun gayler üzerinden yaptığı servet
