@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-https://www.pinterest.com/wiccasoft/pins/ bkz muratr öbüç müthiç seksi pozu
+https://www.pinterest.com/wiccasoft/pins/ bkz muratr öbüç müthiç seksi pozu tıklağ galeriğ açılsın 
 https://www.pinterest.com/wiccasoft/pins/ bkz murat öbüçün mezarlık pozu
 https://chance-boudreaux.uludagsozluk.com/ resmi sosyal medya pezevengim 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/
