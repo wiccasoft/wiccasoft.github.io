@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
+https://www.uludagsozluk.com/k/tuncer-ustael/&w=bg bkz mitin kullandığı şahıs
 https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular bkz eski kgb ajanı
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
 https://eksisozluk.com/ekrem-imamoglunun-reddit-hesabi--6516227?a=popular orayı yıkarlar kankağ
