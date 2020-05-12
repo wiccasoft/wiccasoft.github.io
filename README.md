@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz tayyipin bekçi maaşlarını düzeltecem sözü vermesi
 bkz müezzzinlerin 3000 lira para mı lan it isyanı
 bkz kamalcıların devlete götü yaslaması
 https://www.uludagsozluk.com/k/hakimleri-halk%C4%B1n-se%C3%A7mesi-gereklili%C4%9Fi/ adam haklı beyler
