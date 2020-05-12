@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz murat övüçün türk övüç çalıç güveç demesi
 bkz atacücükün cücüklere hiç benzememesi sorundalı
 bkz atacücük cücük önde cücük ileri derken ne demek istedi sorundalı
 bkz türk kanı taşımayıp ismini türk yapmak
