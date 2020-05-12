@@ -5,7 +5,7 @@
 <!--
 bkz siirtli kızların amcıklarının kokması
 bkz 90 doğumlu sivaslı kızlar vs 2000 doğumlu konyalı kızlar
-https://www.uludagsozluk.com/k/gizem-karaca/&w=bg bkz asalet nedir
+https://www.uludagsozluk.com/k/gizem-karaca/&w=bg bkz asalet nedir hemşerim diye demiyom eyidir eyi
 bkz çorumlu kızlar vs çemişgezekli kızlar
 bkz şeyma subaşı vs ismet inönü
 https://www.uludagsozluk.com/k/baris-hemen-simdi/&w=bg bkz malum ırk
