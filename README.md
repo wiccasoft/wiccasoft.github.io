@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz sagopa kajmerin avmli klibi
 bkz fatih tezcan obi wan kenobi benzerliği
 bhz ruhi çenet vs testeredeki adam
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz ruhi çenetin çenesi
