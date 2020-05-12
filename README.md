@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+,https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ bkz asalet
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg
 https://www.uludagsozluk.com/k/esra-ceyda-karde%C5%9Fler/&w=bg
 https://www.uludagsozluk.com/k/kar%C4%B1lar%C4%B1n%C4%B1z%C4%B1-bizden-nas%C4%B1l-koruyacaks%C4%B1n%C4%B1z/&w=bg
