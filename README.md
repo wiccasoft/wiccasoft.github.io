@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz aftih tezcan tarafından hayvan gibi sikilmek
+bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
 bkz fatih tezcandan uzak durmak ama hayvani çekiciliğne kapılmak
 bkz fatih tezcanın seni karım yapacam olm diye tehdit etmesi 
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular
