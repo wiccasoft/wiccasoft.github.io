@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!--
-bkz türk oğlu türk olamktan korkmak
+bkz atacücükün ücük önden cücük ileri demesi
 bkz götünü fatih tezcana siktirmeyip türküm diye gezmek
 bkz sermiyan midyatın malafatı kaldırığ karısını sikemediği iddaları
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
