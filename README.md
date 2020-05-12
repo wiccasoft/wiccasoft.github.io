@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!--
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/&w=gd tıkladım inmiyo kankağ
 bkz erdoğanın süper güç olma yasa tasarısını veto etmesi
 https://www.uludagsozluk.com/k/k%C3%BCrt-gencinin-%C3%B6rnek-ald%C4%B1%C4%9F%C4%B1-%C3%BC%C3%A7-siyaset%C3%A7i/
 bkz atacücükün ücük önden cücük ileri demesi
