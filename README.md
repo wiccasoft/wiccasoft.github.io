@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+bkz atacücük sapık ismete vurduruyordu iddaları
 bkz atacücükün cücük olduğu iddaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=bg
 bkz imamaoğlunun iibf diplomasını çıkarıp masaya vurması
