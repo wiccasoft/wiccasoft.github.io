@@ -1,28 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
-<!--
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hatim-indiriyor/&w=gd tıkladım inmiyo kankağ
-bkz erdoğanın süper güç olma yasa tasarısını veto etmesi
-https://www.uludagsozluk.com/k/k%C3%BCrt-gencinin-%C3%B6rnek-ald%C4%B1%C4%9F%C4%B1-%C3%BC%C3%A7-siyaset%C3%A7i/
-bkz atacücükün ücük önden cücük ileri demesi
-bkz götünü fatih tezcana siktirmeyip türküm diye gezmek
-bkz sermiyan midyatın malafatı kaldırığ karısını sikemediği iddaları
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funa-arap%C3%A7a-isim-verip-t%C3%BCrk-%C3%BCm-diye-gezebilmek/ 
-bkz johny sins vs fatih tezcan
-bkz fatih tezcan tarafından vahçice sikilmek vs murat öbüç
-https://eksisozluk.com/fatih-tezcan-neye-guveniyor--6516370?a=popular bkz 18cm
-https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
-https://eksisozluk.com/ekrem-imamoglunun-reddit-hesabi--6516227?a=popular orayı yıkarlar kankağ
-https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz ay ne karısı ayol
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=gd bkz ekşcicileri sikmekle korkutan adam
-https://eksisozluk.com/10-bin-tl-maasi-hak-eden-meslekler--6516401?a=popular bkz 10000 dolar maaş alan ekşiciler
-https://eksisozluk.com/murat-ovucun-sedat-pekere-saygi-ve-sevgisi--6515700?a=popular link at izleyem kankağ
-https://eksisozluk.com/sermiyan-midyatin-sevgilisini-dovdugu-iddiasi--6516152?a=popular bkz iddalar derin bilader
--->
-
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
