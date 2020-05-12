@@ -2,12 +2,12 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
+bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine kapılmak
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fathi tezcandan fathi terime sert uyarı
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular bkz jamshit
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay bu adam delirdi ayol 
-bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine kapılmak
 https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/&w=gd
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
