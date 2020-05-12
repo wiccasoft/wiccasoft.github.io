@@ -2,7 +2,6 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
-bkz fathi tezcanın fathi terim kim amk demesi
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fathi tezcandan fathi terime sert uyarı
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular bkz jamshit
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
