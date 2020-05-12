@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fatih tezcandan fathi terime sert uyarı
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay yetişin komşular 
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular bkz jamshit
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
