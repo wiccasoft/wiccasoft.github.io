@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz osman gökçek alevi iddaları sorundalı
 bkz celal kılıçdaroğlu vs kemal kılıçdaroğlu
 https://www.uludagsozluk.com/e/43289150/ heee dinliyom reis heeeee
 bkz kılıçtaroğlunun oğlu alevi iddaları
