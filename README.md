@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz kendinni eşine saklayan erkek vs kendini eşine saklamayan erkek
 bkz cibbeli ahmet hoca vs sarı bıyıklı lütfi hoca
 bk fatih tezcan vs çoşkun aral
 bkz murat övüç deyince akla gelen ilk erkek
