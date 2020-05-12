@@ -7,8 +7,7 @@ https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=p
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz sapık ayol
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay bu adam delirdi ayol 
 bkz fatih tezcan tarafından vahşice sikilmek vs murat övüç
-bkz fatih tezcandan uzak durmak ama hayvani çekiciliğne kapılmak
-bkz fatih tezcanın seni karım yapacam olm diye tehdit etmesi 
+bkz fatih tezcandan uzak durmak ama hayvani çekiciliğine kapılmak
 https://www.uludagsozluk.com/k/chpliyim-atat%C3%BCrk%C3%A7%C3%BCy%C3%BCm-k%C4%B1l%C4%B1%C3%A7dar%C4%B1-sevmiyorum/&w=gd
 https://eksisozluk.com/gonlu-ilyasta-kalan-asyayi-kabul-eden-cemsit--6515159?a=popular
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
