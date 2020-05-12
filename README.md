@@ -3,7 +3,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/yaser-arafat/&w=bg bkz arap ve filistinli
+https://www.uludagsozluk.com/k/yaser-arafat/&w=bg bkz malum ırk
 https://www.uludagsozluk.com/k/ya%C4%9F%C4%B1zcan-yo%C4%9Furtlamac%C4%B1o%C4%9Fullar%C4%B1/ bkz çok büyük adam olacak çok
 https://jdjdbdbdbdh.uludagsozluk.com/ bkz kamalcı hoplatan
 https://www.uludagsozluk.com/k/jdjdbdbdbdh/
