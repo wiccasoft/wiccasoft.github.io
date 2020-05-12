@@ -5,7 +5,9 @@
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz oğlancı
 https://www.uludagsozluk.com/k/survivor-2020/ bkz macunun gayler üzerinden yaptığı servet
 https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=gd bk gay yunus
-https://eksisozluk.com/biri/rakimasasi bkz 50k maaş alan lolcu ergen -->
+https://eksisozluk.com/biri/rakimasasi bkz 50k maaş alan lolcu ergen 
+bkz ekşide 50 k maaş alan htmlciler
+-->
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
