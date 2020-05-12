@@ -3,6 +3,7 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-ahlakl%C4%B1-milleti/ bkz türkler
 bkz anarko kamalizme geçen kamalcılar
 bkz duran emmi aslan akbeyi sikti mi sorunsalı
 bkz deep siyaset kışıyo beyler
