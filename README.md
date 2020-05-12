@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 <!--
+https://chance-boudreaux.uludagsozluk.com/ naprın oynadın mı aleyna ablanla arka odada çen
 bkz khontkar kliplerinde resmen ekşicilere orospum demesi
 bkz reynmenin ekşicileri orospum yapacam imalı klibi
 bkz norm enderin mekanın sahibi klibinde ekşicileri karım yapacam göndermesi
