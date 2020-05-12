@@ -4,6 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
+https://www.uludagsozluk.com/k/fa%C5%9Fist-acun-un-k%C3%BCrt-ersin-korkut-u-elemesi/
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-resimlerini-g%C3%B6r%C3%BCyoruz-b%C3%B6ylece-%C3%A7akt%C4%B1rma/
 bkz soya değil boyaa bakar boyaaaa bay kamal
 https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-o-luk-anamdad%C4%B1r/&w=bg
