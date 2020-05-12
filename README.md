@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz ibrahim hökçek vs atacücük
+bkz ibrahim gökçek ateist olduu iddaları
 bkz jonhy sins vs fathi tezcan
 bkz fathi tezcan atacücük cücük pipiliydi iddası
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular ilginç
