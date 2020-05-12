@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/e/43289150/ tamam reis yoldayım
 bkz berat albayrakın şokomel dökim fahreddini yalayın demesi
 bkz fahreddin kocanın zam istemiyorum demesi
 bkz cumburlop maaşına göz dikecek kadar düşmek
-bkz jeff bezosun zam istemiyorum idare ediyoz demesi
+bkz jeff bezosun zam istemiyorum idare ediyoz reis demesi
 https://eksisozluk.com/gencler-dine-sirt-ceviriyor--6514759?a=popular bkz din gençlerin afyonudur kankağ
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=gd
 https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular verme kankağ 
