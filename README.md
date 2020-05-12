@@ -1,6 +1,12 @@
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
+<!-- 
+https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular ay siker bu ayol
+https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular ay ne karısı ayol
+-->
+
+
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
