@@ -1,50 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-<!--
-bkz sagopa kajmer vs küçük emrah
-bkz sagopa kajmerin acıların çocuğuyum bakışları
-bkz sagopa kajmerin annesi sikilmiş veletleri gibi rap yapması
-bkz sagopa kajmerin avmli klibi
-bkz fatih tezcan obi wan kenobi benzerliği
-bhz ruhi çenet vs testeredeki adam
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz ruhi çenetin çenesi
-bkz yusuf yerkel alevi olmadığı söylentileri iddaları
-bkz osman gökçek alevi iddaları sorundalı
-bkz celal kılıçdaroğlu vs kemal kılıçdaroğlu
-https://www.uludagsozluk.com/e/43289150/ heee dinliyom reis heeeee
-bkz kılıçtaroğlunun oğlu alevi iddaları
-bkz fatih tezcan gelip karının yanında seni sikse naparsın soundalı
-https://www.uludagsozluk.com/k/kar%C4%B1lar%C4%B1n%C4%B1z%C4%B1-bizden-nas%C4%B1l-koruyacaks%C4%B1n%C4%B1z/&w=bg nasıl?
-bkz jonhy sins vs fathi tezcan
-bkz fathi tezcan atacücük cücük pipiliydi iddası
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular ilginç
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-alevi-olmamas%C4%B1/ ilginç bi idda
-bkz kamalcıların eğitilmez olduğu gerçeği
-bkz fatih tezcan atacücük cücük değildi antitezi
-bkz geceye bi adam bırak pixelllerini emek kankağ
-https://www.uludagsozluk.com/k/sinan-cemgil/&w=bg bkz adam adam
-bkz celal kılıçoğlunun yerim uzun adamın yeridir paylaşımı
-bkz celal kılıçtaroğlunun kamalı abilikten reddetmesi
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimli kürt
-https://www.uludagsozluk.com/k/ibrahim-g%C3%B6k%C3%A7ek-in-alevi-olmamas%C4%B1/ ilginç bi idda melih hadi bunu da açıkla
-bkz johny sins sikince auuuuu  fatih tezcan sikince tu kaka
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular yakışır 
-bkz fatih tezcan tarafında hunharca sikiilmek vs murat öbüç
-https://www.uludagsozluk.com/k/k%C3%BCfrederek-para-kazanaca%C4%9F%C4%B1m-akl%C4%B1ma-gelmezdi/
-bkz o değil de nerde bu fatih tezcan hep haberlerde duyuyoruz ismini skandal açıklamalarını
-bkz fatih tezcanın  marka olma yolunda ilerlemesi
-bkz ikinci enes batur vakası olarak fatih tezcan
-ben bu yazıyı fatih tezcan abiye yazdım abi saydılar anamı sik be abi
-bkz fatih tezcan anamın üstünde yakalansa orospuluk anamdadır
-https://www.uludagsozluk.com/k/atat%C3%BCrk-hilafeti-ingilizlerin-iste%C4%9Fiyle-kald%C4%B1rd%C4%B1/&w=gd
-bkz şeyma subaşı vs ismet inöcü
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-m%C3%BCthi%C5%9F-seksi-pozu/ bkz asalet
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg
-https://www.uludagsozluk.com/k/esra-ceyda-karde%C5%9Fler/&w=bg
-https://www.uludagsozluk.com/k/kar%C4%B1lar%C4%B1n%C4%B1z%C4%B1-bizden-nas%C4%B1l-koruyacaks%C4%B1n%C4%B1z/&w=bg
--->
-
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
