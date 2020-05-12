@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
 
-<!-- bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
+<!--
+https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam diye tweet attı napacam allam 
+bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
 bkz erdoğanın türkiyeyi süper güç yapma khk sını imzalaması
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
