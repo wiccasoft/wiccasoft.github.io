@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+https://eksisozluk.com/hemsirelerin-3000-tl-zam-istemesi--6515376?a=popular verme kankağ bekçi mi amk bu
 https://www.uludagsozluk.com/k/kendini-e%C5%9Fine-saklayan-erkek/&w=bg bkz atacan kayalay
 bkz cumburlop maaşlarının zamlanması
 bkz cumburlop maaşına göz dikecek kadar düşmek
