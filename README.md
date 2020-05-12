@@ -6,7 +6,7 @@ https://eksisozluk.com/reynmenin-eksi-sozluk-kapatilsin-demesi--5920339?a=popula
 https://eksisozluk.com/fatih-tezcan--2485822?a=popular bkz seni karım yapcam diye tweet attı napacam allam 
 bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
-bkz erdoğanın türkiyeyi süper güç yapma khk sını imzalaması
+bkz erdopanın süper güç olma yasa tasarısını imzalaması
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
 https://eksisozluk.com/trumpin-basin-toplantisini-terk-etmesi--6515695?a=popularbkz terk ediyorsun etme
 -->
