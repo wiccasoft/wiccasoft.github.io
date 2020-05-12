@@ -4,7 +4,7 @@
 <!-- 
 bkz sevgilisinin şefatülü gübün emcüğüne karışmayan erkek
 bkz yozdil kılıştarın karısını hoplatıyor iddaları
-bkz afyonlu katolik gay taş fırın ustaları
+bkz afyonlu katolik gay taş fırın ustalarına karışmayan erkek
 bkz sevgilsiinin emcüğünü hüpürdeterek emen erkek
 bkz sermiyan midyatın karısını iyi sikemediği iddaları
 bkz tayyip damada penis yüzüğünü azıyla takıyor iddaları
