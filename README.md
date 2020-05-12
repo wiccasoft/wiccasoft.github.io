@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-11_16-15-54.png)](https://www.youtube.com/watch?v=5965voIZP90)
 
 <!--
+bkz bill gatesin beratta zam dilenmesi
 bkz berat albayrakın kendi maaşına am yapması
 bkz berat albayrakın şokomel dökim yalayın demesi
 bkz fahreddin kocanın zam istemiyorum demesi
