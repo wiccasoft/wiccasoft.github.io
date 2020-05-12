@@ -3,6 +3,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ersin-korkut/&w=gd bkz malum ırk 
 bkz soya değil boyaa bakar boyaaaa bay kamal
 https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-o-luk-anamdad%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7%C3%BClerin-%C3%A7ocuklar%C4%B1na-koydu%C4%9Fu-sikimsonik-isimler/
