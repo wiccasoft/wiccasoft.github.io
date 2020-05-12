@@ -3,6 +3,7 @@
 
 <!-- bkz fatih tezcandan fatih terime işin yap karını sikerim uyarısı 
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular 
+bkz erdoğanın türkiyeyi süper güç yapma khk sını imzalaması
 https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
 -->
 
