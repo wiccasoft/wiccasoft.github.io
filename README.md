@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz seviglisinin amcığına karışmayan erkek
 bkz yozdil kılıştarın karısını hoplatıyor iddaları
 bkz afyonlu katolik gay taş fırın ustaları
 bkz sevgilsiinin emcüğünü hüpürdeterek emen erkek
