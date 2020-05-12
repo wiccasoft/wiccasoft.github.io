@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_11-41-27.png)](https://www.youtube.com/watch?v=r-Qp9CWaba4)
 
 <!-- 
+bkz erdopanın süper güç olma yasa tasarısını imzalaması
+https://eksisozluk.com/erdoganin-turkiyeyi-lider-yapmaya-hazirlanmasi--6514351?a=popular bkz hadi hayırlısı
 https://www.uludagsozluk.com/k/tuncer-ustael/&w=bg bkz mitin kullandığı şahıs
 https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular bkz eski kgb ajanı
 https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
