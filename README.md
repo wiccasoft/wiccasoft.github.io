@@ -3,6 +3,8 @@
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
 <!--
+https://eksisozluk.com/sirri-sureyya-onder--1562176?a=popular bkz eski kgb ajanı
+https://eksisozluk.com/mevlana-celaleddin-i-rumi--1056790?a=popular bkz iranlıya vurduran afgan ibne
 https://eksisozluk.com/sermiyan-midyatin-sevgilisini-dovdugu-iddiasi--6516152?a=popular bkz oç
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular bkz ayol ne karısı
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular bkz johny sinsin malafatı
