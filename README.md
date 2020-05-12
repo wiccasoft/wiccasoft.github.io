@@ -2,7 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 
-<!--https://www.uludagsozluk.com/k/ersin-korkut-un-survivor-hayat%C4%B1n%C4%B1n-bitmesi/ 
+<!--
+https://www.uludagsozluk.com/k/survivor-2020/&w=gd
+https://www.uludagsozluk.com/k/ersin-korkut-un-survivor-hayat%C4%B1n%C4%B1n-bitmesi/ 
 https://www.uludagsozluk.com/k/acun-un-rating-i%C3%A7in-ersin-e-ecel-teri-d%C3%B6kt%C3%BCrmesi/
 -->
 
