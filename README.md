@@ -3,8 +3,8 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/k%C3%BCrt-tarihi/&w=bg bkz oç ları tarihi
 bkz siirtlilerin arap sevgisi
+https://www.uludagsozluk.com/k/k%C3%BCrt-tarihi/&w=bg bkz oç ları tarihi
 bkz hataydaki alevi araplarının türkleri asimile etme tehlikesi
 https://www.uludagsozluk.com/k/yaser-arafat/&w=bg bkz malum ırk
 https://www.uludagsozluk.com/k/jdjdbdbdbdh/
