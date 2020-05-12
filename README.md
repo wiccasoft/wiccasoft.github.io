@@ -1,7 +1,9 @@
 
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-<!-- https://eksisozluk.com/biri/rakimasasi bkz 50k maaş alan lolcu ergen -->
+<!-- 
+https://www.uludagsozluk.com/k/survivor-2020-yunus-emre/&w=gd bk gay yunus
+https://eksisozluk.com/biri/rakimasasi bkz 50k maaş alan lolcu ergen -->
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
