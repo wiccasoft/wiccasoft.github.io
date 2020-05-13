@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+https://www.uludagsozluk.com/k/rimel/&w=bg
+https://www.uludagsozluk.com/k/rujunun-tad%C4%B1na-bakt%C4%B1rmayacaks%C4%B1n-ki-rimelin-akmas%C4%B1n/&w=bg
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
