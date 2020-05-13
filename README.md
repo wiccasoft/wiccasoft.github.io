@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz kemak kılıçtaroğlunun grup toplantısı yapmaması
+bkz kemak kılıçtaroğlunun dersim katliamdır önergesini meclise sunması
 bkz kılıçtaroğlunun mezarlıkta mum yaktığı söylentileri iddaları
 bkz devlet bahçelinin sessizliğini koruması
 bkz imamoğlunun babasının kılıçtaroğluyla mum yakması
