@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz celal kılıçtaroğlunu yanım uzun adamın yanıdır demesi
+bkz celal kılıçtaroğlunu yerim uzun adamın yanıdır demesi
 bkz kemal k-lıçdaroğlu vs celal k-lıçtaroğlu
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/said-nursi/&w=bg bkz efendi hazretleri
