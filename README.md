@@ -10,6 +10,7 @@ bkz netfilizin fetullak çıkması
 bkz netfiliz yasaklansın kampanyası
 https://eksisozluk.com/spotify-mesajlasma-ozelligi-gelsin--6517324?a=popular bana bunlarla gelin genşler
 https://eksisozluk.com/demet-akalinin-gecim-sikintisi-cekmesi--6516033?a=popular&p=19
+https://www.milliyet.com.tr/demet-akalin-in-spotify-daki-double-albumunden-haberi-var-mi--molatik-14345/ bu ne lan
 -->
 
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
