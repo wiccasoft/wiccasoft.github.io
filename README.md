@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+bkz scott morisson un jacinda arderne alevi demesi
 bkz 13 mayıs 2020 jonathan piers köşe yazısı
 bkz kemak kılıçtaroğlunun dersim katliamdır önergesini meclise sunması
 bkz kılıçtaroğlunun mezarlıkta mum yaktığı söylentileri iddaları
