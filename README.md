@@ -6,6 +6,7 @@ bkz sabah ter içinde yusuf yusuf diye uyanmak
 bkz sabah sabah acaba imamoğlan da beni seviyo mudur diye çay koymaya gitmek
 bkz kahvaltı hazırlarken fahrettin de beni düşünyo mudur acaba diye dalmak
 bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
+https://eksisozluk.com/ismi-gecince-kokusu-burunda-beliren-seyler--6515966?a=popular yusuf yerkel
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe bi de yusuf yerkel
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba
 https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zledim/&w=gd özledim be yusufum yerkelim civanım  -->
