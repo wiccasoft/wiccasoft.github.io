@@ -2,10 +2,10 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz thou what you will 
 bkz gecelerin yargıcı
+bkz thou what you will 
 bkz nuriciler vs fettuklakçılar
-bkz fettuklakın syais ayağ
+bkz fettuklakın siyasi ayağ
 bkz saidi nuri yazar olsa yazacağı entryler
 bkz fettullak yazar olsa alacağı nickler
 bkz johny sinsin türk tatlısı yemesi
