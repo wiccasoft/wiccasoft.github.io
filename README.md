@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz sabah sabah akla beratla öbür damadın adı neydi onun gelmesi
+bkz sabah sabah akla beratla öbür drone cu damadın adı neydi onun gelmesi
 özledim teninini goğusun özledimmmmmmmmmmmm
 bkz dmey akalın paylaştığı yusuf yerkel fotosu
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe bi de yusuf yerkel
