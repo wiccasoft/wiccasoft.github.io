@@ -1,6 +1,8 @@
 
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
+<!-- https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba-->
+
 [![Image](prototype/Screenshot_2020-05-12_14-45-28.png)](https://www.youtube.com/watch?v=-371LmCinrY)
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
