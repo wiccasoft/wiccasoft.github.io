@@ -5,6 +5,7 @@
 bkz johny sinsin türk tatlısı yemesi
 https://lahmecun.uludagsozluk.com/ bkz barbie hewal
 bkz feministlerle gayler arasındaki farklar
+bkz feminist hayatının merkezine erkek koymaz gay koyar
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
