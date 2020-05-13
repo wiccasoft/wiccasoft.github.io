@@ -11,6 +11,7 @@ bkz fettullak yazar olsa alacağı nickler
 bkz johny sinsin türk tatlısı yemesi
 bkz feministlerle gayler arasındaki farklar
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
+bkz oğlu ile biten soyadları yazmanın çok zor olması 
 https://duckduckgo.com/?q=Do+what+thou+wilt&t=canonical&ia=web ayrıca ne bok yerseniz yiyin
 bkz gaylere önerim bu yaz bol bol kitap okuyun ikincisi insanları yargılamayı kesin
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
