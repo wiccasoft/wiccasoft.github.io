@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+https://eksisozluk.com/rtenin-atli-fotografi--5359881?p=1 link açılmıyo kankağ
+https://www.uludagsozluk.com/k/rte-nin-en-karizmatik-foto%C4%9Fraf%C4%B1/
 bkz kılıçtaroğlunun meclis kız resimlerine bakıalcak yer değildir demesi
 bkz billa gatesin erkek resimlerine bakıyoruz çaktırma demesi
 bkz dekanın erkek resimlerine bakmıyorum savunması
