@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+https://eksisozluk.com/sesine-5-saniye-bile-tahammul-edilemeyen-kisiler--6517041?a=popular&p=39 bkz rte
 https://twitter.com/DemetAkalin/status/1069538642463506437
 https://eksisozluk.com/entry/102651126 walla şok lan
 bkz netfiliz yasaklansın kampanyası
