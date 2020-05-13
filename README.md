@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+https://lahmecun.uludagsozluk.com/ hewal ne içiyosun yahu
 https://www.uludagsozluk.com/k/rimel/&w=bg
 https://www.uludagsozluk.com/k/rujunun-tad%C4%B1na-bakt%C4%B1rmayacaks%C4%B1n-ki-rimelin-akmas%C4%B1n/&w=bg
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
