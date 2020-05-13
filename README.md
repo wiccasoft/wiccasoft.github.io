@@ -4,6 +4,7 @@
 
 <!-- 
 bkz netfilizin fetullak çıkması
+bkz netfiliz yasaklansın kampanyası
 bkz fetullakın yeni zelandaya sızması 
 bkz zamanında fetulaka fetullak demediği için pişman olan kavimler
 bkz yusuf yerkelin fetullaka tekme atarken kayıp totosunu kırması
