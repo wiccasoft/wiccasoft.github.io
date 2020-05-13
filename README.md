@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+bkz kılıçtaroğlunun dersimin hesabını vereceksiniz demesi
 bkz kılıçtaroğlunun kılıçları çekmesi
 bkz jacinda ardern kılıçdaroğlu koalisyon hükümeti
 bkz scott morisson un jacinda arderne alevi demesi
