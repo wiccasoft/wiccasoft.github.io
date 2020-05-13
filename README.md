@@ -4,7 +4,7 @@
 <!--
 bkz celal kılıçtaroğlunu yerim uzun adamın yanıdır demesi
 bkz kemal k-lıçdaroğlu vs celal k-lıçtaroğlu
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg 
+bkz millet hizmet beklerken kknın osura osura uyuması
 https://www.uludagsozluk.com/k/said-nursi/&w=bg bkz efendi hazretleri
 bkz sabah ter içinde yusuf yusuf diye uyanmak
 bkz yusuf yerkelin dekanın odasına tekmeyi burup girmesi
@@ -14,7 +14,9 @@ bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun
 https://eksisozluk.com/ismi-gecince-kokusu-burunda-beliren-seyler--6515966?a=popular yusuf yerkel
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe yusuf
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba
-https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zledim/&w=gd özledim be yusufum yerkelim civanım  -->
+https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zledim/&w=gd özledim be yusufum yerkelim civanım 
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg 
+-->
 
 [![Image](prototype/Screenshot_2020-05-12_14-45-28.png)](https://www.youtube.com/watch?v=-371LmCinrY)
 
