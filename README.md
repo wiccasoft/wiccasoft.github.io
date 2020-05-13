@@ -2,7 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkzkılıçtaroğlunun mezarlıkta mum yaktığı söylentileri iddaları
+bkz kemak kılıçtaroğlunun grup toplantısı yapmaması
+bkz kılıçtaroğlunun mezarlıkta mum yaktığı söylentileri iddaları
 bkz devlet bahçelinin sessizliğini koruması
 bkz imamoğlunun babasının kılıçtaroğluyla mum yakması
 bkz k kılıçtaroğlanın oğlunun askerliğini yapmaması
