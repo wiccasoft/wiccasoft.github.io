@@ -8,7 +8,7 @@
 <!-- 
 bkz yusuf yerkel soğuktur şimdi esprisi
 bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
-bkz boş yapanları gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları :)
+bkz boş yapanların gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları 
 https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd/index.shtml aboo düşman götüne 
 https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
