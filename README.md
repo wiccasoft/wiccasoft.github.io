@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bkz yusuf yerkel in üniden arkadaşlarını özlemesi
 bkz bir tengir budun doan kolay yetişmiy
 bkz tengir budun doan nın üniden arkadaşlarını özlemediği iddaları
 https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelen
