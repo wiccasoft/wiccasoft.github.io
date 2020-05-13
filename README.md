@@ -3,6 +3,7 @@
 
 <!--
 bkz devlet bahçelinin sessizliğini koruması
+bkz kemal kılçtaroğalnın mezarlıkta mu söndü oynaması
 bkz celal kılıçtaroğlunu yerim uzun adamın yanıdır demesi
 bkz kemal k-lıçdaroğlu vs celal k-lıçtaroğlu
 bkz millet hizmet beklerken kknın osura osura uyuması
