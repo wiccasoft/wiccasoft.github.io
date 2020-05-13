@@ -3,6 +3,7 @@
 
 <!--
 bkz sabah ter içinde yusuf yusuf diye uyanmak
+bkz yusuf yerkelin dekanın odasına tekmeyi burup girmesi
 bkz sabah sabah acaba imamoğlan da beni seviyo mudur diye çay koymaya gitmek
 bkz kahvaltı hazırlarken fahrettin de beni düşünyo mudur acaba diye dalmak
 bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
