@@ -2,12 +2,12 @@
 [![Image](prototype/Screenshot_2020-05-12_14-44-39.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg
 https://www.uludagsozluk.com/k/karısı-için-vibratör-alan-erkek/
 https://eksisozluk.com/karilarinizi-bizden-nasil-koruyacaksiniz--6515381?a=popular
 https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
 https://www.uludagsozluk.com/k/johnny-sins-in-t%C3%BCrk-yemeklerini-tatmas%C4%B1/
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg
 -->
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
