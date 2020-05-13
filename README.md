@@ -9,6 +9,7 @@
 bkz yusuf yerkel soğuktur şimdi esprisi
 bkz bir tengir budun doan kolay yetişmiy
 bkz tengir budun doanın üniden arkadaşlarını özlemediği iddaları
+bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
 bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça daha da coşmaları
 https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
 https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelmeyen o kim lan 
