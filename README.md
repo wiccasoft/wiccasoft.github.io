@@ -1,63 +1,6 @@
 
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
-<!--
-bkz gecelerin yargıcı
-bkz thou what you will 
-bkz johny sinsin türk tatlısı yemesi
-bkz nuriciler vs fettuklakçılar
-bkz fettuklakın siyasi ayağ
-bkz saidi nuri yazar olsa yazacağı entryler
-bkz fettullak yazar olsa alacağı nickler
-bkz feministlerle gayler arasındaki farklar
-bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 zor bir soru gibi
-https://duckduckgo.com/?q=Do+what+thou+wilt&t=canonical&ia=web 
-https://www.uludagsozluk.com/k/said-nursi/&w=gd
-https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
-https://www.uludagsozluk.com/k/geceye-bir-adam-bırak/&w=bg
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/gazi-fen-dekan%C4%B1na-%C3%B6%C4%9Frencilerinin-sahip-%C3%A7%C4%B1kmas%C4%B1/
-https://www.uludagsozluk.com/k/johnny-sins-in-t%C3%BCrk-yemeklerini-tatmas%C4%B1/
-https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
-https://eksisozluk.com/uyuyan-yolcunun-suratina-bosalan-metro-muavini--5116345 
-https://eksisozluk.com/rtenin-galoslu-fotografi--6123955 bkz galoş bile yakışıyo adama ya
-https://eksisozluk.com/rtenin-ilkokul-fotografi--4923504?p=1 hani lan nerde yok
-https://eksisozluk.com/rtenin-atli-fotografi--5359881?p=1 link açılmıyo kankağ
-https://www.uludagsozluk.com/k/rte-nin-en-karizmatik-foto%C4%9Fraf%C4%B1/
-bkz kılıçtaroğlunun meclis kız resimlerine bakıalcak yer değildir demesi
-bkz billa gatesin erkek resimlerine bakıyoruz çaktırma demesi
-bkz dekanın erkek resimlerine bakmıyorum savunması
-https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-resimlerini-g%C3%B6r%C3%BCyoruz-b%C3%B6ylece-%C3%A7akt%C4%B1rma/
-https://www.uludagsozluk.com/k/gazi-fen-dekan%C4%B1na-%C3%B6%C4%9Frencilerinin-sahip-%C3%A7%C4%B1kmas%C4%B1/
-bkz kiziroğlu mustafa bey vs kemal kılıçtaroğlan
-bkz kılçtaroğlunun kılıçları kınına sokması
-bkz kılıçtaroğlunun dersimin hesabını vereceksiniz demesi
-bkz kılıçtaroğlunun kılıçları çekmesi
-bkz jacinda ardern kılıçdaroğlu koalisyon hükümeti
-bkz scott morisson un jacinda arderne alevi demesi
-bkz 13 mayıs 2020 jonathan piers köşe yazısı
-bkz kemak kılıçtaroğlunun dersim katliamdır önergesini meclise sunması
-bkz kılıçtaroğlunun mezarlıkta mum yaktığı söylentileri iddaları
-bkz devlet bahçelinin sessizliğini koruması
-bkz imamoğlunun babasının kılıçtaroğluyla mum yakması
-bkz k kılıçtaroğlanın oğlunun askerliğini yapmaması
-bkz kemal kılçtaroğalnın mezarlıkta mu söndü oynaması
-bkz celal kılıçtaroğlunu yerim uzun adamın yanıdır demesi
-bkz kemal k-lıçdaroğlu vs celal k-lıçtaroğlu
-bkz millet hizmet beklerken kknın osura osura uyuması
-https://www.uludagsozluk.com/k/said-nursi/&w=bg bkz efendi hazretleri
-bkz sabah ter içinde yusuf yusuf diye uyanmak
-bkz yusuf yerkelin dekanın odasına tekmeyi burup girmesi
-bkz sabah sabah acaba imamoğlan da beni seviyo mudur diye çay koymaya gitmek
-bkz kahvaltı hazırlarken fahrettin de beni düşünyo mudur acaba diye dalmak
-bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
-https://eksisozluk.com/ismi-gecince-kokusu-burunda-beliren-seyler--6515966?a=popular yusuf yerkel
-https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe yusuf
-https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece öldü sandım neyse
-https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zledim/&w=gd özledim be yusufum yerkelim civanım 
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg 
--->
 
 [![Image](prototype/Screenshot_2020-05-12_14-45-28.png)](https://www.youtube.com/watch?v=-371LmCinrY)
 
