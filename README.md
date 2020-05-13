@@ -8,6 +8,7 @@ bkz netfiliz yasaklansın kampanyası
 bkz fetullakın yeni zelandaya sızması 
 bkz zamanında fetulaka fetullak demediği için pişman olan kavimler
 bkz yusuf yerkelin fetullaka tekme atarken kayıp totosunu kırması
+https://eksisozluk.com/spotify-mesajlasma-ozelligi-gelsin--6517324?a=popular bana bunlarla gelin genşler
 -->
 
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
