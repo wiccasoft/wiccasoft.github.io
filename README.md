@@ -11,7 +11,7 @@ bkz fettullak yazar olsa alacağı nickler
 bkz johny sinsin türk tatlısı yemesi
 bkz feministlerle gayler arasındaki farklar
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
-bkz oğlu ile biten soyadları yazmanın çok zor olması 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 zor bir soru gibi
 https://duckduckgo.com/?q=Do+what+thou+wilt&t=canonical&ia=web 
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
