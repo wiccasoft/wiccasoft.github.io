@@ -9,15 +9,7 @@ bkz fettuklakın syais ayağ
 bkz saidi nuri yazar olsa yazacağı entryler
 bkz fettullak yazar olsa alacağı nickler
 bkz johny sinsin türk tatlısı yemesi
-https://lahmecun.uludagsozluk.com/ bkz barbie hewal
 bkz feministlerle gayler arasındaki farklar
-bkz feminist hayatının merkezine erkek koymaz gay koyar
-bkz feminist erkekleri yok sayar gayler de kadınları
-bkz feminist zamanını bilgiyle geçirir gay erkeklerle
-bkz aklıma futbolcu resimlerine bakıp mastubasyon yapan ergenler geldi
-bkz hiç erkek hastası feminist gördünüz mü big question mark
-bkz feminist erkeği aşağılık bir yaratık olarak görür yok sayar
-bkz gaylerin erkek takıntılı aşağılık yaratıklar olduğu gerçeği
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
 https://duckduckgo.com/?q=Do+what+thou+wilt&t=canonical&ia=web ayrıca ne bok yerseniz yiyin
 bkz gaylere önerim bu yaz bol bol kitap okuyun ikincisi insanları yargılamayı kesin
