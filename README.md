@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+bkz johny sinsin türk tatlısı yemesi
 https://lahmecun.uludagsozluk.com/ bkz barbie hewal
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
