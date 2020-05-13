@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+https://www.uludagsozluk.com/k/said-nursi/&w=bg bkz efendi hazretleri
 bkz sabah ter içinde yusuf yusuf diye uyanmak
 bkz yusuf yerkelin dekanın odasına tekmeyi burup girmesi
 bkz sabah sabah acaba imamoğlan da beni seviyo mudur diye çay koymaya gitmek
