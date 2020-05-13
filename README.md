@@ -3,6 +3,7 @@
 
 <!--
 bkz devlet bahçelinin sessizliğini koruması
+bkz imamoğlunun babasının kılıçtaroğluyla mum yakması
 bkz k kılıçtaroğlanın oğlunun askerliğini yapmaması
 bkz kemal kılçtaroğalnın mezarlıkta mu söndü oynaması
 bkz celal kılıçtaroğlunu yerim uzun adamın yanıdır demesi
