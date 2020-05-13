@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelen
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-milletin-babas%C4%B1d%C4%B1r/&w=gd
 https://eksisozluk.com/2023-cb-secimleri-icin-kehanet-birak--6518070?a=popular diploma nerde tayyip
