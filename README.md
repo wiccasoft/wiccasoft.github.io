@@ -57,7 +57,7 @@ bkz kahvaltı hazırlarken fahrettin de beni düşünyo mudur acaba diye dalmak
 bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
 https://eksisozluk.com/ismi-gecince-kokusu-burunda-beliren-seyler--6515966?a=popular yusuf yerkel
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe yusuf
-https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba
+https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece öldü sandım neyse
 https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zledim/&w=gd özledim be yusufum yerkelim civanım 
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg 
 -->
