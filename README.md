@@ -4,11 +4,11 @@
 <!--
 bkz gecelerin yargıcı
 bkz thou what you will 
+bkz johny sinsin türk tatlısı yemesi
 bkz nuriciler vs fettuklakçılar
 bkz fettuklakın siyasi ayağ
 bkz saidi nuri yazar olsa yazacağı entryler
 bkz fettullak yazar olsa alacağı nickler
-bkz johny sinsin türk tatlısı yemesi
 bkz feministlerle gayler arasındaki farklar
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 zor bir soru gibi
