@@ -3,6 +3,7 @@
 
 <!--
 bkz sabah ter içinde yusuf diye uyanmak
+bkz acaba imamoğlan da beni seviyo mudur diye uzaklara dalmak
 bkz kahvaltı hazırlarken fahrettin de beni düşünyo mudur acaba diye dalmak
 bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe bi de yusuf yerkel
