@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+https://twitter.com/DemetAkalin/status/1069538642463506437
 https://eksisozluk.com/entry/102651126 walla şok lan
 bkz netfilizin fetullak çıkması
 bkz netfiliz yasaklansın kampanyası
