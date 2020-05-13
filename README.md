@@ -3,8 +3,6 @@
 
 <!--
 bkz sabah sabah akla beratla öbür drone cu damadın adı neydi onun gelmesi
-özledim teninini goğusun özledimmmmmmmmmmmm
-bkz dmey akalın paylaştığı yusuf yerkel fotosu
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe bi de yusuf yerkel
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba
 https://www.uludagsozluk.com/k/%C3%A7ok-%C3%B6zledim/&w=gd özledim be yusufum yerkelim civanım  -->
