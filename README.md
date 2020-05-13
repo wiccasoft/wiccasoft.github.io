@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+bkz devlet bahçelinin sessizliğini koruması
 bkz celal kılıçtaroğlunu yerim uzun adamın yanıdır demesi
 bkz kemal k-lıçdaroğlu vs celal k-lıçtaroğlu
 bkz millet hizmet beklerken kknın osura osura uyuması
