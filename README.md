@@ -8,6 +8,7 @@ bkz feministlerle gayler arasındaki farklar
 bkz feminist hayatının merkezine erkek koymaz gay koyar
 bkz feminist erkekleri yok sayar gayler de kadınları
 bkz feminist zamanını bilgiyle geçirir gay erkeklerle
+bkz aklıma futbolcu resimlerine bakıp mastubasyon yapan ergenler geldi
 bkz hiç erkek hastası feminist gördünüz mü big question mark
 bkz feminist erkeği aşağılık bir yaratık olarak görür yok sayar
 bkz gaylerin erkek takıntılı aşağılık yaratıklar olduğu gerçeği
