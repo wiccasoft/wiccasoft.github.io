@@ -5,6 +5,7 @@
 bkz thou what you will 
 bkz gecelerin yargıcı
 bkz nuriciler vs fettuklakçılar
+bkz fettuklakın syais ayağ
 bkz saidi nuri yazar olsa yazacağı entryler
 bkz fettullak yazar olsa alacağı nickler
 bkz johny sinsin türk tatlısı yemesi
