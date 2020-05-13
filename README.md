@@ -8,7 +8,6 @@
 <!-- 
 https://twitter.com/DemetAkalin/status/1069538642463506437
 https://eksisozluk.com/entry/102651126 walla şok lan
-bkz netfilizin fetullak çıkması
 bkz netfiliz yasaklansın kampanyası
 https://eksisozluk.com/spotify-mesajlasma-ozelligi-gelsin--6517324?a=popular bana bunlarla gelin genşler
 https://eksisozluk.com/demet-akalinin-gecim-sikintisi-cekmesi--6516033?a=popular&p=19
