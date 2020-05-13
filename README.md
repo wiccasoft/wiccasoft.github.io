@@ -8,6 +8,7 @@
 <!-- 
 bkz yusuf yerkel soğuktur şimdi esprisi
 bkz bir tengir budun doan kolay yetişmiy
+https://www.webmd.com/mental-health/obsessive-compulsive-disorder aboo düşman götüne 
 bkz tengir budun doanın üniden arkadaşlarını özlemediği iddaları
 bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
 bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça daha da coşmaları
