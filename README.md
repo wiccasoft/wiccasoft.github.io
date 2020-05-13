@@ -1,6 +1,6 @@
 
 
-[![Image](prototype/Screenshot_2020-05-12_14-45-28.png.png)](https://www.youtube.com/watch?v=-371LmCinrY)
+[![Image](prototype/Screenshot_2020-05-12_14-45-28.png)](https://www.youtube.com/watch?v=-371LmCinrY)
 
 [![Image](prototype/Screenshot_2020-05-12_11-59-47.png)](https://www.youtube.com/watch?v=8PxwH8IHAB8)
 
