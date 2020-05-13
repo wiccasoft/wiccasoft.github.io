@@ -11,11 +11,10 @@ bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
 bkz boş yapanları gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları :)
 https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd/index.shtml aboo düşman götüne 
 https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
-https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelmeyen o kim lan 
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-milletin-babas%C4%B1d%C4%B1r/&w=gd
-https://eksisozluk.com/2023-cb-secimleri-icin-kehanet-birak--6518070?a=popular diploma nerde tayyip
-https://www.uludagsozluk.com/k/rte-nin-%C3%BCniversite-arkada%C5%9Flar%C4%B1n%C4%B1-%C3%B6zlemesi/&w=gd bkz iibf
+https://eksisozluk.com/2023-cb-secimleri-icin-kehanet-birak--6518070?a=popular bkz diploma nerde tayyip
+https://www.uludagsozluk.com/k/rte-nin-%C3%BCniversite-arkada%C5%9Flar%C4%B1n%C4%B1-%C3%B6zlemesi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece sinirlendirdi yine oç
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/sesine-5-saniye-bile-tahammul-edilemeyen-kisiler--6517041?a=popular&p=39 bkz rte
