@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz kılıçtaroğlunun meclis karı kız kesilecek yer değildir demesi
+bkz kılıçtaroğlunun meclis kız resimlerine bakıalcak yer değildir demesi
 bkz billa gatesin erkek resimlerine bakıyoruz çaktırma demesi
 bkz dekanın erkek resimlerine bakmıyorum savunması
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-resimlerini-g%C3%B6r%C3%BCyoruz-b%C3%B6ylece-%C3%A7akt%C4%B1rma/
