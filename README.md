@@ -8,11 +8,11 @@ bkz feministlerle gayler arasındaki farklar
 bkz feminist hayatının merkezine erkek koymaz gay koyar
 bkz feminist erkekleri yok sayar gayler de kadınları
 bkz feminist zamanını bilgiyle geçirir gay erkeklerle
-bkz gaylere önerim bu yaz bol bol kitap okuyun ikincisi insanları yargılamayı kesin
 bkz hiç erkek hastası feminist gördünüz mü big question mark
 bkz feminist erkeği aşağılık bir yaratık olarak görür yok sayar
 bkz gaylerin erkek takıntılı aşağılık yaratıklar olduğu gerçeği
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
+bkz gaylere önerim bu yaz bol bol kitap okuyun ikincisi insanları yargılamayı kesin
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
 https://www.uludagsozluk.com/k/geceye-bir-adam-bırak/&w=bg
