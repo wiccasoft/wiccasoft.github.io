@@ -7,7 +7,7 @@
 
 <!-- 
 bkz bir tengir budun doan kolay yetişmiy
-bkz tengir budun doan nın üniden arkadaşlarını özlemediği iddaları
+bkz tengir budun doanın üniden arkadaşlarını özlemediği iddaları
 bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça coşmaları
 https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
 https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelen
