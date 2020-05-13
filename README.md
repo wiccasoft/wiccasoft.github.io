@@ -9,6 +9,7 @@
 bkz yusuf yerkel in üniden arkadaşlarını özlemesi
 bkz bir tengir budun doan kolay yetişmiy
 bkz tengir budun doan nın üniden arkadaşlarını özlemediği iddaları
+https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
 https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelen
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-milletin-babas%C4%B1d%C4%B1r/&w=gd
