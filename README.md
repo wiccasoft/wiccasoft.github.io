@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz thou what you will
+bkz thou what you will 
 bkz johny sinsin türk tatlısı yemesi
 https://lahmecun.uludagsozluk.com/ bkz barbie hewal
 bkz feministlerle gayler arasındaki farklar
