@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+https://eksisozluk.com/uyuyan-yolcunun-suratina-bosalan-metro-muavini--5116345 yok artık daha neler gerçek mi bu
 https://eksisozluk.com/rtenin-galoslu-fotografi--6123955 bkz galoş bile yakışıyo adama ya
 https://eksisozluk.com/rtenin-ilkokul-fotografi--4923504?p=1 hani lan nerde yok
 https://eksisozluk.com/rtenin-atli-fotografi--5359881?p=1 link açılmıyo kankağ
