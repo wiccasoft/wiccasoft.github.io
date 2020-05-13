@@ -6,12 +6,11 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
-https://www.uludagsozluk.com/k/d%C3%B6vlet-bize-bakmiyir/&w=bg bana bakiy cumburlup mayışı trink
 bkz bir tengir budun doan kolay yetişmiy
 bkz tengir budun doanın üniden arkadaşlarını özlemediği iddaları
 bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça daha da coşmaları
 https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
-https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelmeyen o kim lan hakkaten
+https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelmeyen o kim lan 
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-milletin-babas%C4%B1d%C4%B1r/&w=gd
 https://eksisozluk.com/2023-cb-secimleri-icin-kehanet-birak--6518070?a=popular diploma nerde tayyip
