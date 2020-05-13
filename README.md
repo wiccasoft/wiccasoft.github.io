@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+https://eksisozluk.com/2023-cb-secimleri-icin-kehanet-birak--6518070?a=popular diploma nerde tayyip
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCniversite-arkada%C5%9Flar%C4%B1n%C4%B1-%C3%B6zlemesi/&w=gd bkz iibf
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece sinirlendirdi yine oç
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
