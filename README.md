@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+https://eksisozluk.com/entry/102651126 walla şok lan
 bkz netfilizin fetullak çıkması
 bkz netfiliz yasaklansın kampanyası
 https://eksisozluk.com/spotify-mesajlasma-ozelligi-gelsin--6517324?a=popular bana bunlarla gelin genşler
