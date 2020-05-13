@@ -8,7 +8,7 @@
 <!-- 
 bkz bir tengir budun doan kolay yetişmiy
 bkz tengir budun doanın üniden arkadaşlarını özlemediği iddaları
-bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça coşmaları
+bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça daha da sinirlenmeleri
 https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
 https://www.uludagsozluk.com/k/yusuf-yerkel/&w=gd bkz gece gece akla gelen
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
