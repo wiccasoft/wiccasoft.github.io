@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bkz yusuf yerkel soğuktur şimdi esprisi
 bkz bir tengir budun doan kolay yetişmiy
 bkz tengir budun doanın üniden arkadaşlarını özlemediği iddaları
 bkz boş yapanları gaza getirmek daha da boş yapmaları boş yaptıkça daha da coşmaları
