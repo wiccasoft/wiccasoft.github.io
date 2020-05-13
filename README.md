@@ -2,7 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
-bkz sabah ter içinde yusuf diye uyanmak
+bkz sabah ter içinde yusuf yusuf diye uyanmak
 bkz sabah sabah acaba imamoğlan da beni seviyo mudur diye çay koymaya gitmek
 bkz kahvaltı hazırlarken fahrettin de beni düşünyo mudur acaba diye dalmak
 bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
