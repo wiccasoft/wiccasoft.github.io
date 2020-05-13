@@ -14,6 +14,7 @@ bkz hiç erkek hastası feminist gördünüz mü big question mark
 bkz feminist erkeği aşağılık bir yaratık olarak görür yok sayar
 bkz gaylerin erkek takıntılı aşağılık yaratıklar olduğu gerçeği
 bkz cübbelinin kız resimlerine bakmak caiz deildir demesi
+https://duckduckgo.com/?q=Do+what+thou+wilt&t=canonical&ia=web ayrıca ne bok yerseniz yiyin
 bkz gaylere önerim bu yaz bol bol kitap okuyun ikincisi insanları yargılamayı kesin
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
