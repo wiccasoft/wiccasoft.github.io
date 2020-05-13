@@ -4,6 +4,7 @@
 <!--
 bkz thou what you will 
 bkz gecelerin yargıcı
+bkz fettullak yazar olsa alacağı nickler
 bkz johny sinsin türk tatlısı yemesi
 https://lahmecun.uludagsozluk.com/ bkz barbie hewal
 bkz feministlerle gayler arasındaki farklar
