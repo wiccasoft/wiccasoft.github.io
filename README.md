@@ -2,6 +2,8 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+https://www.uludagsozluk.com/k/johnny-sins-in-t%C3%BCrk-yemeklerini-tatmas%C4%B1/
+https://eksisozluk.com/jony-sinsin-turk-yemeklerini-denemesi--6516218?a=popular
 https://eksisozluk.com/uyuyan-yolcunun-suratina-bosalan-metro-muavini--5116345 
 https://eksisozluk.com/rtenin-galoslu-fotografi--6123955 bkz galoş bile yakışıyo adama ya
 https://eksisozluk.com/rtenin-ilkokul-fotografi--4923504?p=1 hani lan nerde yok
