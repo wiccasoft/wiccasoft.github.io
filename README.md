@@ -4,7 +4,10 @@
 <!--
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
+https://www.uludagsozluk.com/k/geceye-bir-adam-bırak/&w=bg
+https://www.uludagsozluk.com/k/geceye-bir-erkek-b%C4%B1rak/&w=bg
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-mezarl%C4%B1kta-mum-yakmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/gazi-fen-dekan%C4%B1na-%C3%B6%C4%9Frencilerinin-sahip-%C3%A7%C4%B1kmas%C4%B1/
 https://www.uludagsozluk.com/k/johnny-sins-in-t%C3%BCrk-yemeklerini-tatmas%C4%B1/
