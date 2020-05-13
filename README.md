@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+özledim teninini goğusun özledimmmmmmmmmmmm
 bkz dmey akalın paylaştığı yusuf yerkel fotosu
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe bi de yusuf yerkel
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba
