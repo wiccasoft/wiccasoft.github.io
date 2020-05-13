@@ -3,6 +3,7 @@
 
 <!--
 bkz sabah ter içinde yusuf diye uyanmak
+bkz kahvaltı hazrılarken fahrettin de beni düşünyo mudur acaba diye dalmak
 bkz sabah sabah akla beratla öbür drone cu bayrakçı damadın adı neydi onun gelmesi
 https://eksisozluk.com/tutmaktan-hoslanilan-seyler--6516801?a=popular fenerbahçe bi de yusuf yerkel
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece özletti yine napıyo acaba
