@@ -2,6 +2,9 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+bkz dekanın erkek resimlerine bakmıyorum demesi
+https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-resimlerini-g%C3%B6r%C3%BCyoruz-b%C3%B6ylece-%C3%A7akt%C4%B1rma/
+https://www.uludagsozluk.com/k/gazi-fen-dekan%C4%B1na-%C3%B6%C4%9Frencilerinin-sahip-%C3%A7%C4%B1kmas%C4%B1/
 bkz kiziroğlu mustafa bey vs kemal kılıçtaroğlan
 bkz kılçtaroğlunun kılıçları kınına sokması
 bkz kılıçtaroğlunun dersimin hesabını vereceksiniz demesi
