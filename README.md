@@ -2,7 +2,10 @@
 
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
-<!-- bkz fetullakın yeni zelandaya sızması -->
+<!-- 
+bkz fetullakın yeni zelandaya sızması 
+bkz zamanında fetulaka fetullak demediği için pişman olan kavimler
+-->
 
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
