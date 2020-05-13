@@ -2,6 +2,7 @@
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 <!--
+bkz cübbelinin kadın resimlerine bakmak caiz deildir demesi
 https://www.uludagsozluk.com/k/said-nursi/&w=gd
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular
 https://www.uludagsozluk.com/k/geceye-bir-adam-bırak/&w=bg
