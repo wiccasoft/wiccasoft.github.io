@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bkz bilal erdoanın damatlarla arasından su sızmaması
 bkz yusuf yerkel soğuktur şimdi esprisi
 bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
 bkz boş yapanların gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları 
