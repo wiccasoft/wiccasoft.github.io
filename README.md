@@ -4,6 +4,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+bkz trump ne derse he doğru diyi walla diyen kamalcı
 https://eksisozluk.com/trumpin-kuresellesmenin-bittigini-aciklamasi--6519222?a=popular zuahahhahaah
 https://www.uludagsozluk.com/e/43289150/ bkz hee moladayız reis
 bkz fesli bunak vs maymun boku
