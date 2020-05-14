@@ -4,6 +4,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+bkz fesli bunak vs maymun boku
 bkz tangır budun doğan vs receğ tangır doğan
 bkz soya bakmaz bay kamal boya bakar boyaaaaaaaaaa
 bkz recep tayyipten doğan damadın peniz yüzüğünü azıyla takıyor iddaları
