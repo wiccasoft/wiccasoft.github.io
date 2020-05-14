@@ -5,7 +5,7 @@
 bkz açın kızlar arayı salıyom kobrayı
 https://www.uludagsozluk.com/k/bay-kemal/&w=bg soya değil boya bakar boyaaaa bay kamal
 https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w=bg 
-https://www.uludagsozluk.com/k/yusuf-yerkel/&w=bg bkz davamız ak yolumuz ak alnımız ak
+https://www.uludagsozluk.com/k/yusuf-yerkel/&w=bg bkz davamız alnımız ak ak yolumuz ak 
 https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1lar%C4%B1-d%C3%BCnyaya-faydalar%C4%B1-yoktur/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd
 -->
