@@ -3,7 +3,7 @@
 
 <!--
 bkz açın kızlar arayı salıyom kobrayı
-bkz dünya çiftçiler günüymüş ya la
+bkz dünya çiftçiler günüymüş ya la anaaaaaa unuttum ya ben onu
 https://www.uludagsozluk.com/k/14-may%C4%B1s-d%C3%BCnya-%C3%A7ift%C3%A7iler-g%C3%BCn%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/bay-kemal/&w=bg soya değil boya bakar boyaaaa bay kamal
 https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w=bg 
