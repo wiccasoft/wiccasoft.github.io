@@ -2,7 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
-https://www.uludagsozluk.com/ bkz gbt nin ayakta tuttuğu platform
+https://www.uludagsozluk.com/ bkz gbt nin ayakta tuttuğu platform less is more kankağ
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz yozdil
 https://traveler-of-secret-moments.uludagsozluk.com/ bkz bi sevişsse kendie gelecek tip
 https://www.uludagsozluk.com/k/herkesle-arasi-iyi-olan-tip/  bkz fevkaladenin fevkinde tip
