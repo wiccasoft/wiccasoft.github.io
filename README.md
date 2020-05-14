@@ -2,6 +2,8 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
+bkz iki erkeği karşılaştıran boş ergenler
+https://www.uludagsozluk.com/k/jack-yufe-vs-oskar-stohr/ bilgi deryası mübarek
 https://yazar-cizer34.uludagsozluk.com/ bkz oğlak burcu dop dolu yazar çizer bir kişilik
 bkz nihat doğan vs pascal nouma
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-vs-turabi-%C3%A7amk%C4%B1ran/&w=bg
