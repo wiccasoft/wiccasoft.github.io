@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bşz aşk bodrumda yaşaniy güzelim
 bkz alper potuk buket aydın aşkı alevleniy iddaları
 bkz esra albayrak suikast iddalarının balon çıkması
 bkz bilal erdoğanın buket aydına yürümesi
