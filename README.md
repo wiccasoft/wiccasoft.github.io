@@ -4,6 +4,8 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg bkz gay
+https://www.uludagsozluk.com/k/14-may%C4%B1s-d%C3%BCnya-%C3%A7ift%C3%A7iler-g%C3%BCn%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-x-men-olmas%C4%B1/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd 
 bkz dedesi köyde eşek siken milletin kürt kültürünü küçümsemesi
