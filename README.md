@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1lar%C4%B1-d%C3%BCnyaya-faydal
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd
 bkz davamız alnımız ak ak yolumuz ak 
 bkz ne mutlu ak sevdanın çocuğuyum diyene
+bkz davası ak olanın yolu da ak olur
 -->
 
 [![Image](hive/Screenshot_2020-05-14_08-29-41.png)](https://www.youtube.com/watch?v=X-xYEOYsul0)
