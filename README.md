@@ -2,6 +2,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular bide çıkıp demiyo aga bu nedir
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 bkz soya bakmaz bay kamal boya bakar boyaaaaaaaaaa
 bkz millet hizmet beklerken kk nın osura osura uyuması 
