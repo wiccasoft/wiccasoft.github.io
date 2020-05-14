@@ -4,6 +4,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+bkz tangır budun doğan vs rece tangır doğan
 bkz recep tayyipten doğan damadın peniz yüzüğünü azıyla takıyor iddaları
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=gd sıfırlamak
 https://www.uludagsozluk.com/k/bacaklar%C4%B1na-a%C4%9Fda-yapan-erkek/ yalarun
