@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bkz alper potuk buket aydın aşkı alevleniy iddaları
 bkz esra albayrak suikast iddalarının balon çıkması
 bkz bilal erdoğanın buket aydına yürümesi
 https://eksisozluk.com/buket-aydinin-esinden-bosanmasi--6518759?a=popular yıkarlar orayı kankağğğ 
