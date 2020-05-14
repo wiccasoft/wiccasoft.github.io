@@ -4,6 +4,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd 
 bkz dedesi köyde eşek siken milletin kürt kültürünü küçümsemesi
 https://www.uludagsozluk.com/k/marangoz-ar%C4%B1/ bkz fetöcü arı
 https://www.uludagsozluk.com/k/k%C3%BCrt-k%C3%BClt%C3%BCr%C3%BC/ bkz asurlular
