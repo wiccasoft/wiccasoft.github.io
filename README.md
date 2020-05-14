@@ -6,14 +6,7 @@ https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-bur%C3%A7lar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/jack-yufe-vs-oskar-stohr/ bilgi deryası mübarek
 https://yazar-cizer34.uludagsozluk.com/ bkz oğlak burcu dop dolu yazar çizer bir kişilik 
-bkz nihat doğan vs pascal nouma
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-vs-turabi-%C3%A7amk%C4%B1ran/&w=bg
-bkz yılmaz özdilin 10 cmlik pipisi
-bkz cinsel organıyla arkadaşını döven erkek
-bkz ilk buluşmada çıkartıp masaya vuran 10 cm penisli erkek
-bkz 10 santim penisinden kobra diye bahseden erkek
-bkz sonra dedim ki iyi cinsel organım yok
-bkz en yakında arkdaşın götünü parmaklayıp gay mi diye kontrol etmek
 https://www.uludagsozluk.com/k/allah-yoksa-klavyedeki-z-tu%C5%9Funu-kim-yaratt%C4%B1/
 https://www.uludagsozluk.com/k/cinsel-d%C3%BCrt%C3%BCs%C3%BC-yokmu%C5%9F-gibi-konu%C5%9Fan-entel/ 
 https://traveler-of-secret-moments.uludagsozluk.com/ bkz bi sevişsse kendine gelecek tip
