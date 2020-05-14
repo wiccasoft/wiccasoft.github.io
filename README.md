@@ -5,37 +5,6 @@
 
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
-<!-- 
-bkz batman valisinin kırdığı pot
-bkz alper potuk buket aydın aşkı idddaları
-bşz ünlü sunucu magazin kameralımıza öyle bi yakalandı ki az sonra
-bkz cemiyet hayatının tanınan simalarının bir de tatil halini görün
-bkz alper potuk buket aydın aşkı alevleniy iddaları
-bkz esra albayrak suikast iddalarının balon çıkması
-bkz bilal erdoğanın buket aydına yürümesi
-https://eksisozluk.com/buket-aydinin-esinden-bosanmasi--6518759?a=popular yıkarlar orayı kankağ
-https://www.youtube.com/watch?v=aeytLBm62eo
-bkz yusuf yerkel soğuktur şimdi esprisi
-bkz tangır budun doğanın bilal erdoğanı özlemesi
-bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
-bkz boş yapanların gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları 
-https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd/index.shtml aboo düşman götüne 
-https://www.uludagsozluk.com/k/t%C3%BCm-antipatik-duyarc%C4%B1lar%C4%B1-eksilemem/ eksile eksile nereye kadar he nereye
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-bu-milletin-babas%C4%B1d%C4%B1r/&w=gd
-https://eksisozluk.com/2023-cb-secimleri-icin-kehanet-birak--6518070?a=popular bkz diploma nerde tayyip
-https://www.uludagsozluk.com/k/rte-nin-%C3%BCniversite-arkada%C5%9Flar%C4%B1n%C4%B1-%C3%B6zlemesi/&w=gd
-https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece sinirlendirdi yine oç
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://eksisozluk.com/sesine-5-saniye-bile-tahammul-edilemeyen-kisiler--6517041?a=popular&p=39 bkz rte
-https://twitter.com/DemetAkalin/status/1069538642463506437
-https://eksisozluk.com/entry/102651126 walla şok lan
-bkz netfiliz yasaklansın kampanyası
-https://eksisozluk.com/spotify-mesajlasma-ozelligi-gelsin--6517324?a=popular bana bunlarla gelin genşler
-https://eksisozluk.com/demet-akalinin-gecim-sikintisi-cekmesi--6516033?a=popular&p=19
-https://www.milliyet.com.tr/demet-akalin-in-spotify-daki-double-albumunden-haberi-var-mi--molatik-14345/ bu ne lan
--->
-
 [![Image](prototype/Screenshot_2020-05-12_00-14-24.png)](https://www.youtube.com/watch?v=WyyQSBZd9hI)
 
 [![Image](prototype/Screenshot_2020-05-12_14-45-28.png)](https://www.youtube.com/watch?v=-371LmCinrY)
