@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
+bkz ilk buluşmada çıakrtıp masay vuran 10 cm penisli erkek
 bkz 10 santim penisinden kobra diye bahseden erkek
 bkz sonra dedim ki iyi cinsel organım yok
 bkz en yakında arkdaşın götünü parmaklayıp gay mi diye kontrol etmek
