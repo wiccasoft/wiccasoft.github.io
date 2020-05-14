@@ -3,6 +3,7 @@
 
 <!--
 bkz açın kızlar arayı salıyom kobrayı
+bkz taksimin renkli siması cenk oturum açtı
 https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg delisi değil renkli siması
 bkz dünya çiftçiler günüymüş ya la anaaaaaa unuttum ya ben onu
 https://www.uludagsozluk.com/k/akl%C4%B1na-geldi%C4%9Finde-i%C3%A7ini-ac%C4%B1tan-tek-isim/&w=bg muhittin
