@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/ bkz samimiyetsiz oç
-https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular bide çıkıp demiyo aga bu nedir
+https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular biri de çıkıp demiyo aga bu nedir
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 bkz soya bakmaz bay kamal boya bakar boyaaaaaaaaaa
 bkz millet hizmet beklerken kk nın osura osura uyuması 
