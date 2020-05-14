@@ -7,6 +7,7 @@
 
 <!-- 
 bşz aşk bodrumda yaşaniy güzelim
+bkz cemiyet hayatının tanınan simalarının bodruma gitmesi
 bkz alper potuk buket aydın aşkı alevleniy iddaları
 bkz esra albayrak suikast iddalarının balon çıkması
 bkz bilal erdoğanın buket aydına yürümesi
