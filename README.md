@@ -4,7 +4,8 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=gd sıfırlamak yalamak
+bkz recep tayyipten doğan damadın peniz yüzüğünü azıyla takıyor iddaları
+https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=gd sıfırlamak
 https://www.uludagsozluk.com/k/bacaklar%C4%B1na-a%C4%9Fda-yapan-erkek/ yalarun
 https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular bkz ağam eğleniy bizimle
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/ bkz samimiyetsiz oç
