@@ -1,6 +1,8 @@
 
 [![Image](hive/Screenshot_2020-05-14_08-29-41.png)](https://www.youtube.com/watch?v=X-xYEOYsul0)
 
+<!-- https://eksisozluk.com/darbe-yaparlarsa-nevsin-feyza-ve-berna-benim--6519043 lol -->
+
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 [![Image](entertainment/Screenshot_2020-05-13_04-26-57.png)](https://www.youtube.com/watch?v=qwn3QzsZJGY)
