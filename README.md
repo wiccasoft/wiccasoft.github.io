@@ -1,7 +1,9 @@
 
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
-<!-- https://www.uludagsozluk.com/k/yusuf-yerkel/&w=bg bkz davamız ak yolumuz ak -->
+<!--
+https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w=bg
+https://www.uludagsozluk.com/k/yusuf-yerkel/&w=bg bkz davamız ak yolumuz ak -->
 
 [![Image](hive/Screenshot_2020-05-14_08-29-41.png)](https://www.youtube.com/watch?v=X-xYEOYsul0)
 
