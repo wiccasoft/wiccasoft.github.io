@@ -2,6 +2,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular bkz ağam eğleniy bizimle
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/ bkz samimiyetsiz oç
 https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular biri de çıkıp demiyo aga bu nedir
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
