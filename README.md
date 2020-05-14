@@ -6,7 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
-bkz  alper potuk buket aydın aşkı idddaları
+bkz alper potuk buket aydın aşkı idddaları
 bşz ünlü sunucu magazin kameralımıza öyle bi yakalandı ki az sonra
 bkz cemiyet hayatının tanınan simalarının bir de tatil halini görün
 bkz alper potuk buket aydın aşkı alevleniy iddaları
