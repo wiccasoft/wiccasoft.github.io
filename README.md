@@ -16,6 +16,7 @@ bkz bilal erdoğanın buket aydına yürümesi
 https://eksisozluk.com/buket-aydinin-esinden-bosanmasi--6518759?a=popular yıkarlar orayı kankağ
 https://www.youtube.com/watch?v=aeytLBm62eo
 bkz yusuf yerkel soğuktur şimdi esprisi
+bkz tangır budun doğanın bilal erdoğanı özlemesi
 bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
 bkz boş yapanların gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları 
 https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd/index.shtml aboo düşman götüne 
