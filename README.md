@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bkz busta ryhmes buket aydın aşkı iddaları söylentileri
 bkz buket aydının botoksları yenilemesi
 bkz fetullak gülenin yazarlık bana göre değil demesi
 bkz buket aydın arda turan röportajı
