@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
+https://www.uludagsozluk.com/k/herkesle-arasi-iyi-olan-tip/  taksimin renkli siması cenk 
 https://www.uludagsozluk.com/k/en-yak%C4%B1n-arkada%C5%9F%C4%B1n-gay-oldu%C4%9Funu-%C3%B6%C4%9Frenmek/&w=gd kankağ deme öle
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg eywallah bro
 bkz açın kızlar arayı salıyom kobrayı
