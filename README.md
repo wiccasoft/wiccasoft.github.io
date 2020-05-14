@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+bkz bukey adın fatih altaylıya verdiği efso ayar
 bkz esra albayraka suikast düzenleyecekler iddaları
 bkz tayyip berata penis yüzüğünü azıyla takıyor iddaları
 bkz bilal erdoanın damatlarla arasından su sızmaması
