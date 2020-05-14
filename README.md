@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
+https://www.uludagsozluk.com/k/e5-te-1000rr-ile-yard%C4%B1ran-k%C4%B1z%C4%B1l-sa%C3%A7l%C4%B1-squatl%C4%B1-k%C4%B1z/ lol
 https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w=gd bkz boş yapan erkek
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-bur%C3%A7lar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/jack-yufe-vs-oskar-stohr/ bilgi deryası mübarek
