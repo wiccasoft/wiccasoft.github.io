@@ -9,11 +9,12 @@ https://www.uludagsozluk.com/k/yusuf-yerkel/&w=bg bkz davamız alnımız ak ak y
 https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1lar%C4%B1-d%C3%BCnyaya-faydalar%C4%B1-yoktur/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd
 bkz davamız alnımız ak ak yolumuz ak 
+bkz sonra döndüm ve dedim ki ne mutlu ak sevdanın çocuğuyum diyene
 -->
 
 [![Image](hive/Screenshot_2020-05-14_08-29-41.png)](https://www.youtube.com/watch?v=X-xYEOYsul0)
 
-<!-- https://eksisozluk.com/darbe-yaparlarsa-nevsin-feyza-ve-berna-benim--6519043 lol -->
+<!-- https://eksisozluk.com/darbe-yaparlarsa-nevsin-feyza-ve-berna-benim--6519043 bkz kemalist kişilik bozukluğu -->
 
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
