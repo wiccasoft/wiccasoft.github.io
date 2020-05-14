@@ -3,31 +3,6 @@
 
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
-<!-- 
-https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg bkz gay
-https://www.uludagsozluk.com/k/14-may%C4%B1s-d%C3%BCnya-%C3%A7ift%C3%A7iler-g%C3%BCn%C3%BC/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-x-men-olmas%C4%B1/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd 
-bkz dedesi köyde eşek siken milletin kürt kültürünü küçümsemesi
-https://www.uludagsozluk.com/k/marangoz-ar%C4%B1/ bkz fetöcü arı
-https://www.uludagsozluk.com/k/k%C3%BCrt-k%C3%BClt%C3%BCr%C3%BC/ bkz asurlular
-https://www.uludagsozluk.com/k/15-temmuz-2016-darbe-giri%C5%9Fimi/&w=bg bkz hain darbe kalkışması
-https://www.uludagsozluk.com/k/otomatik-vites-kullanan-erkeklerin-gay-olmas%C4%B1/ adam haklı beyler
-https://eksisozluk.com/trumpin-kuresellesmenin-bittigini-aciklamasi--6519222?a=popular bkz bakim senin benzinin bitmiş
-https://www.uludagsozluk.com/e/43289150/ bkz hee moladayız reis
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-den-school-shooter-%C3%A7%C4%B1kmamas%C4%B1/
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=gd sıfırlamak
-https://www.uludagsozluk.com/k/bacaklar%C4%B1na-a%C4%9Fda-yapan-erkek/ yalarun
-https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular bkz ağam eğleniy bizimle
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/ bkz samimiyetsiz oç
-https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular biri de çıkıp demiyo aga bu nedir
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
-bkz soya bakmaz bay kamal boya bakar boyaaaaaaaaaa
-bkz millet hizmet beklerken kk nın osura osura uyuması 
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-istifas%C4%B1/&w=bg 
--->
-
 [![Image](entertainment/Screenshot_2020-05-13_04-26-57.png)](https://www.youtube.com/watch?v=qwn3QzsZJGY)
 
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
