@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w
 bkz davamız alnımız ak ak yolumuz ak 
 bkz ne mutlu ak sevdanın çocuğuyum diyene
 bkz davası ak olanın gönlü de ak olur yolu da pak olur
+bkz davamı ak yolumuz pak
 -->
 
 [![Image](hive/Screenshot_2020-05-14_08-29-41.png)](https://www.youtube.com/watch?v=X-xYEOYsul0)
