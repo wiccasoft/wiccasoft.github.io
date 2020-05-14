@@ -6,6 +6,7 @@
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 
 <!-- 
+https://www.youtube.com/watch?v=aeytLBm62eo
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=bg paraları sıfırlamak
 bkz buket aydın cnn turk 40 ta 40 izlemek
 bkz buket aydın fatih altaylıya verdiği efso ayar
