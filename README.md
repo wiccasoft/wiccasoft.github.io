@@ -12,18 +12,8 @@ bkz cemiyet hayatının tanınan simalarının bir de tatil halini görün
 bkz alper potuk buket aydın aşkı alevleniy iddaları
 bkz esra albayrak suikast iddalarının balon çıkması
 bkz bilal erdoğanın buket aydına yürümesi
-https://eksisozluk.com/buket-aydinin-esinden-bosanmasi--6518759?a=popular yıkarlar orayı kankağğğ 
-bkz busta ryhmes buket aydın aşkı iddaları söylentileri
-bkz buket aydının botoksları yenilemesi
-bkz fetullak gülenin yazarlık bana göre değil demesi
-bkz buket aydın arda turan röportajı
+https://eksisozluk.com/buket-aydinin-esinden-bosanmasi--6518759?a=popular yıkarlar orayı kankağ
 https://www.youtube.com/watch?v=aeytLBm62eo
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=bg paraları sıfırlamak
-bkz buket aydın cnn turk 40 ta 40 izlemek
-bkz buket aydın fatih altaylıya verdiği efso ayar
-bkz esra albayraka suikast düzenleyecekler iddaları
-bkz tayyip berata penis yüzüğünü azıyla takıyor iddaları
-bkz bilal erdoanın damatlarla arasından su sızmaması
 bkz yusuf yerkel soğuktur şimdi esprisi
 bkz gece gece yusuf yerkel ile hiç bir anımın olmadığını farketmek
 bkz boş yapanların gaza geldikçe daha da boş yapmaları boş yaptıkça daha da coşmaları 
