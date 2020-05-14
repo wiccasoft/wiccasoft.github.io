@@ -2,7 +2,9 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
-bkz sonra dedeim ki iyi cinsel organım yok
+bkz sonra dedim ki iyi cinsel organım yok
+bkz en yakında arkdaşın götünü parmaklayıp gay mi diye kontrol etmek
+https://www.uludagsozluk.com/k/allah-yoksa-klavyedeki-z-tu%C5%9Funu-kim-yaratt%C4%B1/
 https://www.uludagsozluk.com/k/cinsel-d%C3%BCrt%C3%BCs%C3%BC-yokmu%C5%9F-gibi-konu%C5%9Fan-entel/ 
 https://traveler-of-secret-moments.uludagsozluk.com/ bkz bi sevişsse kendine gelecek tip
 https://www.uludagsozluk.com/k/herkesle-arasi-iyi-olan-tip/  bkz fevkaladenin fevkinde tip
