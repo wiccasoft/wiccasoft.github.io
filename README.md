@@ -7,7 +7,7 @@
 
 <!-- 
 bşz ünlü sunucu magazin kameralımıza öyle bi yakalandı ki az sonra
-bkz cemiyet hayatının tanınan simalarının bodruma gitmesi
+bkz cemiyet hayatının tanınan simalarının bir de tatil halini görün
 bkz alper potuk buket aydın aşkı alevleniy iddaları
 bkz esra albayrak suikast iddalarının balon çıkması
 bkz bilal erdoğanın buket aydına yürümesi
