@@ -9,6 +9,7 @@ bkz tangır budun doğan vs receğ tangır doğan
 bkz soya bakmaz bay kamal boya bakar boyaaaaaaaaaa
 bkz recep tayyipten doğan damadın peniz yüzüğünü azıyla takıyor iddaları
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-den-school-shooter-%C3%A7%C4%B1kmamas%C4%B1/
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-ge%C3%A7im-kayna%C4%9F%C4%B1/&w=gd sıfırlamak
 https://www.uludagsozluk.com/k/bacaklar%C4%B1na-a%C4%9Fda-yapan-erkek/ yalarun
 https://eksisozluk.com/aga-diyen-insan-iticiligi--6518567?a=popular bkz ağam eğleniy bizimle
