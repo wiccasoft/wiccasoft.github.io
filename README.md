@@ -4,6 +4,7 @@
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
 <!-- 
+https://www.uludagsozluk.com/e/43289150/ bkz hee moladayız reis
 bkz fesli bunak vs maymun boku
 bkz tangır budun doğan vs receğ tangır doğan
 bkz soya bakmaz bay kamal boya bakar boyaaaaaaaaaa
