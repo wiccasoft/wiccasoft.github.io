@@ -2,7 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
-bkz nihat doğan vs pascal nouma
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-bur%C3%A7lar%C4%B1/&w=gd yok mu oğlak
 https://www.uludagsozluk.com/k/jack-yufe-vs-oskar-stohr/ bilgi deryası mübarek
 https://yazar-cizer34.uludagsozluk.com/ bkz oğlak burcu dop dolu yazar çizer bir kişilik 
 bkz nihat doğan vs pascal nouma
