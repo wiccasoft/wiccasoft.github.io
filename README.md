@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!--
+https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg eywallah bro
 bkz açın kızlar arayı salıyom kobrayı
 bkz taksimin renkli siması cenk oturum açtı
 https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg delisi değil renkli siması
