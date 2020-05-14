@@ -1,6 +1,11 @@
 
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
+<!-- 
+bkz millet hizmet beklerken kk nın osura osura uyuması 
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-istifas%C4%B1/&w=bg 
+-->
+
 [![Image](entertainment/Screenshot_2020-05-13_04-26-57.png)](https://www.youtube.com/watch?v=qwn3QzsZJGY)
 
 [![Image](prototype/Screenshot_2020-05-13_03-09-04.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
