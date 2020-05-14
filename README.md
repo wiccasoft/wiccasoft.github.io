@@ -1,38 +1,7 @@
 
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
-<!--
-https://www.uludagsozluk.com/k/e5-te-1000rr-ile-yard%C4%B1ran-k%C4%B1z%C4%B1l-sa%C3%A7l%C4%B1-squatl%C4%B1-k%C4%B1z/ lol
-https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w=gd bkz boş yapan erkek
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-bur%C3%A7lar%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/jack-yufe-vs-oskar-stohr/ bilgi deryası mübarek
-https://yazar-cizer34.uludagsozluk.com/ bkz oğlak burcu dop dolu yazar çizer bir kişilik 
-https://www.uludagsozluk.com/k/nihat-do%C4%9Fan-vs-turabi-%C3%A7amk%C4%B1ran/&w=bg
-https://www.uludagsozluk.com/k/allah-yoksa-klavyedeki-z-tu%C5%9Funu-kim-yaratt%C4%B1/
-https://www.uludagsozluk.com/k/cinsel-d%C3%BCrt%C3%BCs%C3%BC-yokmu%C5%9F-gibi-konu%C5%9Fan-entel/ 
-https://traveler-of-secret-moments.uludagsozluk.com/ bkz bi sevişsse kendine gelecek tip
-https://www.uludagsozluk.com/k/herkesle-arasi-iyi-olan-tip/  bkz fevkaladenin fevkinde tip
-https://www.uludagsozluk.com/k/herkesle-arasi-iyi-olan-tip/  bkz taksimin renkli siması cenk 
-bkz açın kızlar arayı salıyom kobrayı
-bkz taksimin renkli siması cenk oturum açtı
-https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg delisi değil renkli siması
-bkz dünya çiftçiler günüymüş ya la anaaaaaa unuttum ya ben onu
-https://www.uludagsozluk.com/k/akl%C4%B1na-geldi%C4%9Finde-i%C3%A7ini-ac%C4%B1tan-tek-isim/&w=bg muhittin
-https://www.uludagsozluk.com/k/14-may%C4%B1s-d%C3%BCnya-%C3%A7ift%C3%A7iler-g%C3%BCn%C3%BC/&w=bg
-https://www.uludagsozluk.com/k/bay-kemal/&w=bg soya değil boya bakar boyaaaa bay kamal
-https://www.uludagsozluk.com/k/10-cm-lik-penisinden-kobra-diye-bahseden-erkek/&w=bg 
-https://www.uludagsozluk.com/k/yusuf-yerkel/&w=bg bkz davamız alnımız ak ak yolumuz ak 
-https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1lar%C4%B1-d%C3%BCnyaya-faydalar%C4%B1-yoktur/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-mason-oldugu-gerce%C4%9Fi/&w=gd
-bkz davamız alnımız ak ak yolumuz ak 
-bkz ne mutlu ak sevdanın çocuğuyum diyene
-bkz davası ak olanın gönlü de ak olur yolu da pak olur
-bkz davamı ak yolumuz pak
--->
-
 [![Image](hive/Screenshot_2020-05-14_08-29-41.png)](https://www.youtube.com/watch?v=X-xYEOYsul0)
-
-<!-- https://eksisozluk.com/darbe-yaparlarsa-nevsin-feyza-ve-berna-benim--6519043 bkz kemalist kişilik bozukluğu -->
 
 [![Image](entertainment/Screenshot_2020-05-13_04-42-47.png)](https://www.youtube.com/watch?v=sGKLm50NC6c)
 
