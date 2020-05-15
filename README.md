@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-kaypakkaya/&w=bg bkz kaypak
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz ayı ikiye yarmak
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n/&w=gd bkz botoks reyiz
 THINK YOUR STRAIGHT? WATCH THIS FIRST.
