@@ -3,6 +3,7 @@
 
 <!-- 
 bkz alper potuk buket aydın aşk iddaları
+https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz alemlerin yaratılma sebebi
 https://www.uludagsozluk.com/k/kral-arthur-un-t%C3%BCrk-olmas%C4%B1/ bkz kral adam
 https://www.uludagsozluk.com/k/emir-sar%C4%B1g%C3%BCl/&w=bg bkz buket aydını siken eleman
 https://www.uludagsozluk.com/k/ibrahim-kaypakkaya/&w=bg bkz kaypak
