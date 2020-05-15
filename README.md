@@ -4,6 +4,7 @@
 <!-- 
 bkz alper potuk buket aydın aşk iddaları
 bkz arda turan buket aydını sikti iddaları
+https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamayan-ezikleri-seri-eksilemek/&w=bg bkz bastım eksiyi oç
 https://www.uludagsozluk.com/k/pedofili-denince-akla-gelen-parti/&w=bg bkz ydp
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz alemlerin yaratılma sebebi
 https://www.uludagsozluk.com/k/kral-arthur-un-t%C3%BCrk-olmas%C4%B1/ bkz kral adam
