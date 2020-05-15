@@ -5,6 +5,8 @@
 bkz alper potuk buket aydın aşk iddaları
 bkz arda turan buket aydını sikti iddaları
 bkz 15 mayıs hain darbe girişiminin yavaş yabaş unutulması
+bkz şaka maka devletlerin bitmesi
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-20-ya%C5%9F-alt%C4%B1-ergenleri-istemiyoruz/&w=bg
 https://www.uludagsozluk.com/k/ustal%C4%B1k-d%C3%B6neminde-dolar%C4%B1-7-tl-yapan-d%C3%BCnya-lideri/&w=bg
 https://www.uludagsozluk.com/k/15-may%C4%B1s-hava-%C5%9Fehitlerini-anma-g%C3%BCn%C3%BC/ bkz hain darbe
 https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamayan-ezikleri-seri-eksilemek/&w=bg bkz bastım eksiyi oç
