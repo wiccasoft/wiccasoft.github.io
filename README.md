@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!-- 
+https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/  izlemeyelim oç
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1/&w=bg bkz oğlancı
 https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/  izlemeyelim oç
 https://www.uludagsozluk.com/k/trabzonda-hastaneden-ka%C3%A7an-laz/ kaçıyo yakalayın la 
