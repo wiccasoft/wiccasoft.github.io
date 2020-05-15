@@ -5,7 +5,6 @@
 bkz alper potuk buket aydın aşk iddaları
 bkz arda turan buket aydını sikti iddaları
 bkz 15 mayıs hain darbe girişiminin yavaş yabaş unutulması
-bkz şaka maka devletlerin bitmesi
 https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/ link at oç
 https://www.uludagsozluk.com/k/trabzonda-hastaneden-ka%C3%A7an-laz/ bkz oç laz
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-20-ya%C5%9F-alt%C4%B1-ergenleri-istemiyoruz/&w=bg
