@@ -4,7 +4,7 @@
 <!-- 
 bkz alper potuk buket aydın aşk iddaları
 bkz arda turan buket aydını sikti iddaları
-bkz 15 mayıs hain darbe girişimi
+bkz 15 mayıs hain darbe girişiminin yavaş yabaş unutulması
 https://www.uludagsozluk.com/k/15-may%C4%B1s-hava-%C5%9Fehitlerini-anma-g%C3%BCn%C3%BC/ bkz hain darbe
 https://www.uludagsozluk.com/k/%C3%BCniversite-kazanamayan-ezikleri-seri-eksilemek/&w=bg bkz bastım eksiyi oç
 https://www.uludagsozluk.com/k/pedofili-denince-akla-gelen-parti/&w=bg bkz ydp
