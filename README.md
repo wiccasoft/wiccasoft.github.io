@@ -2,6 +2,7 @@
 [![Image](hive/Screenshot_2020-05-14_14-04-53.png)](https://www.youtube.com/watch?v=E505OY2vDHs)
 
 <!-- 
+bkz buket aydın 40 da 40 programı
 https://www.uludagsozluk.com/k/emir-sar%C4%B1g%C3%BCl/&w=bg bkz buket aydını siken eleman
 https://www.uludagsozluk.com/k/ibrahim-kaypakkaya/&w=bg bkz kaypak
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz ayı ikiye yarmak
