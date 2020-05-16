@@ -3,6 +3,7 @@
 
 <!--
 bkz sürekli entry girerek yaşama tutunan kamalcı oğlanlar
+bkz atacücük olmayaydı anan kimdi bilemezdin diyen velete la oğlum baban benim zaten demek
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=gd bkz enes abinin tek çocuk olması
 https://www.uludagsozluk.com/k/misafir-gelince-odas%C4%B1ndan-%C3%A7%C4%B1kmayan-tip/&w=bg bkz enes abi
 bkz haayllerde yaşayan ibneler diyince kamalcıların akla gelmesi
