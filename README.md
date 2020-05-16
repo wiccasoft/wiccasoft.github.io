@@ -1,30 +1,7 @@
 
 ![Image](brexit.png)
 
-<!-- 
-bkz fenerbahçenin paylaştığı atam izindeyiz fenerliyiz paylaşımı
-https://www.pinterest.com/wiccasoft/pins/
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-koltu%C4%9Fa-kene-gibi-yap%C4%B1%C5%9Fmas%C4%B1/&w=bg
-bkz gılıştarın myk üyelerini halk seçsin önerisini meclise sunması
-https://www.chp.org.tr/parti-yonetimi/myk-uyeleri bkz gılışatrın myk üyelerini mal mal oturması
-bkz gılıştaroğlanın oğlunun sünnetsiz olduğu iddaları
-bkz gılıştarın koltuğa yabışması
-https://www.chp.org.tr/parti-yonetimi/myk-uyeleri
-https://www.facebook.com/CHP-GENEL-MERKEZ-109953955716872/
-bkz deniz gemişin parkası vs peygameber edendinin sakalı şerifi
-bkz alper potuk ali koç aşkı iddaları
-bkz celal gışıştaroğlanın yerim uzun adamın yeridir paylaşımı
-bkz devlet bahçeli gışıştaroğlana sakso çekti yalanı iddaları
-bkz tayyip damadın peniz yüzğünü azıyla takıyor yalanı iddaları
-https://www.uludagsozluk.com/k/sokaklar%C4%B1m%C4%B1z-gen%C3%A7lerimizle-%C3%A7ok-daha-g%C3%BCzel/
-https://www.chp.org.tr/ bkz gışıştarın iyice yerleşmesi
-bkz e devlet soy ağacı sorgularken ceddin deden dinlemek
-bkz hoşlaşılan cumburlop başkanının profilini fareyle okşamak
-https://www.tccb.gov.tr/ bkz bi bakışı var sanırsın şampiyonlar ligi bilader
-bkz gılıştarın goltuğa yapışması
-bkz millet himzet beklerken gışıştarın osura osura uyuması
-https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/
-->
+
 
 ![Image](wiccanyear.png)
 
