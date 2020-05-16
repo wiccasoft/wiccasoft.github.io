@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz kürtleri sabun yapmanın gerekliliği
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-biriyle-evlenmek-istemeyen-erkek/&w=bg bkz oç kürt
 https://www.uludagsozluk.com/k/hz-ay%C5%9Fe-denince-akla-gelenler/ bkz doğuma en uygun damızlık karılar
 https://www.uludagsozluk.com/k/do%C4%9Fuma-en-uygun-s%C3%BCper-kad%C4%B1n-v%C3%BCcudu/ bkz kate middleton
