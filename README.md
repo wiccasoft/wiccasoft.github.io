@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz pedofili avcısı nekrofiller
 bkz siliviri püfür püfür serindir şimdi
 bkz erdoğana hakaret edip silivride serin serin oturma keyfi
 bkz acunun erdoğanın golü sonrası erdoğanın kulağını ısırması
