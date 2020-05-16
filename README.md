@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/bebe%C4%9Fim-diyen-erkek/&w=bg hadi hadi bebeğim yala da göreyim
 https://www.uludagsozluk.com/k/michael-jackson-vs-elvis-presley/&w=bg bkz elvis siker kankağ
 bkz nekrofili babanın ölü sikerken yakalanması
 bkz intihalci profesörün pedofilici çıkması
