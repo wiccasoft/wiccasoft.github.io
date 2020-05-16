@@ -2,27 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz ekşideki ibnelerin beni akranı sanmaları
-bkz şaka maka ekşideki ibnelerin babası yaşında olmak
-bkz ekşideki fanboylar büyüyünce ne olacaklar sorundalı
-bkz ekşideki fanboyların beni yütüpır sanması
-bkz ekşideki fanboyların enes abilerini yemek
-bkz cmylmz fanboyları zeka seviyesi
-bkz gaga bulutun imralıya fiber internet bağlatması
-https://www.pinterest.com/wiccasoft/pins/
-bkz gaga bulutun kamalcılara yahudi demesi
-bkz gaga bulutun paylaştığı türkler aşkenazi yahudi imalı paylaşımı
-https://www.pinterest.com/wiccasoft/pins/
+https://www.uludagsozluk.com/e/43341516/ rupert murdoch türk mü gerizekalı oç
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
-bkz enes abinin gaga buluta verdiği efso ayar
-https://www.uludagsozluk.com/k/ermeni/&w=bg bkz ermeni dölü
-bkz gaga bulutun ekşicilerle askerlik arkadaşı çıkması
-https://www.uludagsozluk.com/k/gaga-bulut/&w=bg bkz gaga bulutun ekşicilere yolldağı ses kaydı
-bkz rupert murdoch türk mü gerizekalı oç
-bkz üstün genlerini aktarmayan kamalcı
-bkz damarlarındaki asil türk kanını kürtlere vermeyen kamalcı
-bkz günde 20 defa e devlet soy ağacı sorgulayan kamalcı
-bkz kürt gaga bulutun türkçü ekşiciler için ses kaydı hazırlaması
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=bg bkz oç olmaları
 https://www.uludagsozluk.com/k/g%C3%BCnde-5-litre-pepsi-i%C3%A7mek/ bkz kamalcı ergenler
 https://www.uludagsozluk.com/k/cihangir-solcular%C4%B1/&w=bg bkz oç ları
