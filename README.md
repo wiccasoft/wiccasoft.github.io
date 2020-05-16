@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz gaga bulutun kamalcılara yahudi demesi
 bkz gaga bulutun paylaştığı türkler aşkenazi yahudi soyundan paylaşımı
 https://www.pinterest.com/wiccasoft/pins/
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
