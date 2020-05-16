@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz hz muhammedin 4 karı daha mı alsam la demesi
 https://www.uludagsozluk.com/k/hz-muhammed-in-kar%C4%B1lar%C4%B1/&w=gd bkz hz zübeyde hz ayşe hz esma hz rümeyse
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz uğur dündarı kullanan kamalcı
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg
