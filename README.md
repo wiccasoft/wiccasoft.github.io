@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz uğur dündarın can dündarı evlatlıktan reddetmesi
 bkz hz muhammedin mekkeli müşrikleri sikertmesi
 https://www.uludagsozluk.com/k/hz-ay%C5%9Fe-denince-akla-gelenler/ bkz hz muhammedin 3. karısı
 https://www.uludagsozluk.com/k/afet-inan-atat%C3%BCrk-%C3%BCn-nikahs%C4%B1z-first-leydisiydi/&w=bg bkz çıkarmadan 5 posta
