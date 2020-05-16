@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz fenerbahçe resmi sayfasının paylaştığı horoz
 bkz fenerbahçenin paylaştığı horoz resmi
 bkz alper potukun gassaraya gelebilrim iddaları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potuk ali koç aşkı iddaları
