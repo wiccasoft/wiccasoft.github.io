@@ -7,6 +7,8 @@ https://www.uludagsozluk.com/k/t%C3%BCrkiye-ye-niye-yat%C4%B1r%C4%B1mc%C4%B1-gel
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=gd bkz ananın amı tabi ki oç
 https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/&w=gd bkz izleyelim efenim ayol bunlar sapık
 https://www.uludagsozluk.com/k/corona-ikinci-dalga-n%C4%B1n-gelmeyecek-olmas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/fet%C3%B6-devlete-s%C4%B1zarken-akp-ne-yap%C4%B1yordu/&w=bg bkz annenin amcığını gevşetiyodu 
+https://www.uludagsozluk.com/k/solcular%C4%B1-tan%C4%B1d%C4%B1k%C3%A7a-kenan-evren-e-hak-vermek/ ananın amı oç
 -->
 
 ![Image](wiccanyear.png)
