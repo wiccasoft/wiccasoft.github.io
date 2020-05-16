@@ -6,6 +6,7 @@ bkz rupert murdoch türk mü gerizekalı oç
 bkz kemalistlerin oç oldukları gerçeği
 bkz fetö devlete sızmasın diye ağlayan kamalcı
 bkz günde 20 defa e devlet soy ağacı sorgulayan kamalcı
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=bg bkz oç olmaları
 bkz gaga bulutun ekşiciler için ses kaydı hazırlaması
 https://www.uludagsozluk.com/k/g%C3%BCnde-5-litre-pepsi-i%C3%A7mek/ bkz kamalcı ergenler
 https://www.uludagsozluk.com/k/cihangir-solcular%C4%B1/&w=bg bkz oç ları
