@@ -6,6 +6,7 @@
 bkz grup vitamin vs şempanze boku
 bkz şurp gibiyim şurrup turup gibiyip turumpppppppppp
 bkz çatlasanız da patlasanızda corona ananızı sikertecek oçları
+https://www.uludagsozluk.com/k/sweetmandarine/&w=bg toplanına beyler kızlar kavga ediyo
 https://www.uludagsozluk.com/k/trabzon-ve-rizeyi-karadenizden-silmek/ yavaş sil oç
 https://www.uludagsozluk.com/k/herkesin-kocas%C4%B1n%C4%B1n-olmas%C4%B1/ 
 https://www.uludagsozluk.com/ bkz nabıyonuz lan ibneler
