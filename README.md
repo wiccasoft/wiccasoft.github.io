@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+bkz türklerin hayallerde yaşayan azılı ibneler oldukları gerçeği
 https://eksisozluk.com bkz hayallerde yaşıyor bazı ibneler 2
 https://www.uludagsozluk.com bkz hayallerde yaşıyor bazı ibneler 1
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-denince-akla-gelenler/&w=bg
