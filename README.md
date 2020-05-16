@@ -1,11 +1,11 @@
 
-[![Image](brexit.png)](https://www.chp.org.tr/)
+[![Image](brexit.png)](https://www.merriam-webster.com/dictionary/chromatic)
 
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
 
-[![Image](myth-of-the-jewish-genome.png)](https://www.fenerbahce.org/)
+[![Image](myth-of-the-jewish-genome.png)](https://www.merriam-webster.com/dictionary/chromatic)
 
 ![Image](mediasource.png)
 
