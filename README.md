@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ak parti duckduckgo yu kaparsa olacaklar
+https://www.uludagsozluk.com/e/43342791/ bkz yüzyılın ayarı
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7enler/&w=bg bkz çeçen müteahhitler
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 https://www.uludagsozluk.com/k/%C3%B6z-k%C4%B1z%C4%B1n%C4%B1-iki-kez-hamile-b%C4%B1rakan-baba/ bkz malum ırk
