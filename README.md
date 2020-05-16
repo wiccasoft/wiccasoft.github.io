@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+bkz adana01 dizisi vs https://www.uludagsozluk.com 
 bkz adana01 dizisndeki ibnelerin entryleri
 https://www.uludagsozluk.com/k/lan-kes-lan-haydar/ pardon abi tanıyamadım
 bkz winter is coming ibnenin evlatları
