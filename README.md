@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz kapatınca oh be kafa sikiyormuş denilen ezanlar
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 bkz ak parti duckduckgo yu kaparsa olacaklar
 bkz fatih tezcandan fatih terime işin yap uyarısı
