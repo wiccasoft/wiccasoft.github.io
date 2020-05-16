@@ -1,6 +1,9 @@
 
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
+<!-- https://www.uludagsozluk.com/k/en-iyi-bilim-adam%C4%B1n%C4%B1n-celal-%C5%9Feng%C3%B6r-oldu%C4%9Fu-%C3%BClke/ 
+bkz kuzet anadol gay hattı
+-->
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
