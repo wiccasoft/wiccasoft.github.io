@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-koltu%C4%9Fa-kene-gibi-yap%C4%B1%C5%9Fmas%C4%B1/&w=bg
 bkz gılıştarın myk üyelerini halk seçsin önerisini meclise sunması
 https://www.chp.org.tr/parti-yonetimi/myk-uyeleri bkz gılışatrın myk üyelerini mal mal oturması
 bkz gılıştaroğlanın oğlunun sünnetsiz olduğu iddaları
