@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz alper potukun gassaraya gelebilrim iddaları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potuk ali koç aşkı iddaları
 https://www.uludagsozluk.com/k/senin-kokunu-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim bokunu diyen ekşici kız
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular kalecileri bilader -->
