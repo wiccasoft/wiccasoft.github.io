@@ -2,7 +2,8 @@
 ![Image](brexit.png)
 
 <!--
-bkz deeep türkish webte tayyipe ayarlar veren veletler
+https://eksisozluk.com bkz soba borusuyla konuşan veletler
+bkz deep türkish webte tayyipe ayarlar veren veletler
 https://diskapininmandali.uludagsozluk.com/ bkz tayyipin azılı düşmanı
 bkz ekşcilerin fetullak güleni trumptan istemesi
 bkz sürekli entry girerek yaşama tutunan kamalcı veletler
