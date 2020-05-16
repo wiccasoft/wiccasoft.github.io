@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-https://www.chp.org.tr/ 
+https://www.chp.org.tr/ bkz gışıştarın iyice yerleşmesi
 bkz e devlet soy ağacı sorgularken ceddin deden dinlemek
 https://www.tccb.gov.tr/ bkz bi bakışı var sanırsın şampiyonalr ligi bilader
 bkz gılıştarın goltuğa yapışması
