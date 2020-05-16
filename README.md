@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz ak parti duckduckgo yu kaparsa olacaklar
 https://www.uludagsozluk.com/k/adam-denilince-akla-gelen-ilk-ki%C5%9Fi/&w=bg bkz adam levine, hz adem
 https://www.uludagsozluk.com/k/kelebek-d%C3%B6vmesi-yapt%C4%B1ran-erkek/&w=gd bkz at yarrağıyım demenin yolları
 https://www.uludagsozluk.com/k/sevgilisine-kek-yapan-erkek/&w=bg bkz sevdiceğine topkek alan romantik akpartili
