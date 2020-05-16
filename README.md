@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz ekşideki fanboyların beni yütüpır sanması
 bkz ekşideki fanboyların enes abilerini yemek
 bkz cmylmz fanboyları zeka seviyesi
 bkz gaga bulutun imralıya fiber internet bağlatması
