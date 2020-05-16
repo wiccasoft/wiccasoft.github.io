@@ -3,7 +3,7 @@
 
 <!-- 
 bkz melo mu muslera mı sorundalı
-bkz ali koçun meloyu alaydık iyi olurdu demesi
+bkz abdurrahim dilipakın koyu gsliyim demesi
 bkz fatih tezcandan fatih terime işin yap uyarısı
 bkz abdurrahim albayrakın parası neyse ramosu alak demesi
 bkz alper potukun antrenmanda yaptığı efso hareket
