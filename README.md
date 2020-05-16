@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.chp.org.tr/ 
+bkz e devlet soy ağacı sorgularken ceddin deden dinlemek
 https://www.tccb.gov.tr/ bkz bi bakışı var sanırsın şampiyonalr ligi bilader
 bkz gılıştarın goltuğa yapışması
 bkz millet himzet beklerken gışıştarın osura osura uyuması
