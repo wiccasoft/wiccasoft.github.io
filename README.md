@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz nejat işlerin barda filmiyle resmen ekşcilere orospu demesi
 bkz khontkarın ekşcilere orospu göndermeli klibi
 bkz reynmenin ekşicilere orospu demesi
 bkz berdan mardinin kate middletonea senden çouğu olsun istiyorum demesi
