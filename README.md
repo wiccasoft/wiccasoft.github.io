@@ -9,6 +9,7 @@ bkz şaka maka devletlerin yok hükmünde olması
 bkz yeni dünya düzenini nereye kursam sorundalı
 bkz ulus devletler bitti diye ağlayan kamalcı
 bkz atacücükün diyaneti türk gençliğine armağan etmesi
+bkz atacücükün damarlarınız daki cücük kanda cücüklük var demesi
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
