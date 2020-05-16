@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz hz muhammedin allah benüm yüzüm suyum hüremetine evreni yaratıı demesi
 bkz yılmaz erdoğan cem yılmaz dosluğu
 bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
 bkz uğur dündarın can dündarı evlatlıktan reddetmesi
