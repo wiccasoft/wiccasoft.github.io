@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg bkz adam vs oç
 bkz kürtleri sabun yapmanın gerekliliği
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-biriyle-evlenmek-istemeyen-erkek/&w=bg bkz oç kürt
 https://www.uludagsozluk.com/k/hz-ay%C5%9Fe-denince-akla-gelenler/ bkz doğuma en uygun damızlık karılar
