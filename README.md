@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz adana01 dizisi ve ekşisözlük
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
