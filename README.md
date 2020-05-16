@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz şurp gibiyim şurrup turp gibiyip turupppppppppp
+bkz şurp gibiyim şurrup turp gibiyip turumpppppppppp
 https://www.uludagsozluk.com/k/herkesin-kocas%C4%B1n%C4%B1n-olmas%C4%B1/ 
 https://www.uludagsozluk.com/ bkz nabıyonuz lan ibneler
 https://kahraman-zorbey.uludagsozluk.com bkz türkish ultra gay forum
