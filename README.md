@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/senin-kokunu-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim bokunu diyen kız
 https://www.pinterest.com/wiccasoft/pins/ bkz alper potukun antrenmanda yaptığı efso hareket
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potuk ali koç aşkı iddaları
 https://www.uludagsozluk.com/k/senin-kokunu-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim bokunu diyen ekşici kız
