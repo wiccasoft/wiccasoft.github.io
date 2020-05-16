@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz aponun imralıya fiber internet bağlatması
 bkz gaga bulutun kamalcılara yahudi demesi
 bkz gaga bulutun paylaştığı türkler aşkenazi yahudi imalı paylaşımı
 https://www.pinterest.com/wiccasoft/pins/
