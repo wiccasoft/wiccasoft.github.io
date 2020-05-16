@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz adana01 dizisi vs deep türkish web
 bkz ekşisözlükün iyice ergen yuvası olması
 bkz enes abinin gaga buluta verdiği efso ayar
 bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
@@ -11,7 +12,6 @@ bkz yılmaz erdoğan cem yılmaz dosluğu
 bkz esra elöcü vs ismet inöcü
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/ amin ecmain
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg
-bkz adana01 dizisi vs deep türkish web
 bkz öcü gibi korkuyorlar mao zedong yoldaşımdan türüyorlar takım takım
 bkz selçuk bayraktarın fatih portakalın malikanesinde drone gezdirdiği iddaları
 bkz atacücük olmasaydı anan kimdi bilemezdin şerefsiz dil uzatma sebepsiz
