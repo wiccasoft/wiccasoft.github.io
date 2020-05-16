@@ -10,6 +10,7 @@ bkz atacücük olmasaydı anan kimdi bilemezdin şerefsiz dil uzatma sebepsiz
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
+https://www.uludagsozluk.com/k/kelebek-d%C3%B6vmesi-yapt%C4%B1ran-erkek/&w=gd bkz at yarrağıyım demek istiyor olabilir
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/&w=bg bkz kürt lütfen
 https://www.uludagsozluk.com/k/ocak-ay%C4%B1nda-kilitlenen-odada-%C5%9Fimdi-serinlemek/ bkz mağara soğuk mu kardeş
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/ bkz adana01
