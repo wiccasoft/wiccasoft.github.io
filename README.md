@@ -2,11 +2,10 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-https://traveler-of-secret-moments.uludagsozluk.com/ bkz bi ülkücü memur siksin la şunu
 https://kahraman-zorbey.uludagsozluk.com bkz türkish ultra gay forum
 https://kahraman-zorbey.uludagsozluk.com bkz ağır gay
 https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki ağır top
-https://chance-boudreaux.uludagsozluk.com/ bkz gay
+https://chance-boudreaux.uludagsozluk.com/ bkz hem gay hem ergen
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
 https://www.uludagsozluk.com/k/fenerli-birini-galatasarayl%C4%B1-yapmak/ bkz sike sike fenerli yaptilar
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1-n%C4%B1n-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmamas%C4%B1/
