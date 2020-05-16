@@ -4,6 +4,7 @@
 <!-- 
 bkz ak parti duckduckgo yu kaparsa olacaklar
 bkz fatih tezcandan fatih terime işin yap uyarısı
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum bilader hiç anlamam sen karar ver
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
 https://www.uludagsozluk.com/e/43342791/ bkz yüzyılın ayarı
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7enler/&w=bg bkz çeçen müteahhitler
