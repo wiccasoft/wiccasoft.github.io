@@ -3,6 +3,8 @@
 
 <!-- 
 bkz melo vs muslera mı sorundalı
+bkz ali koçun meloyu alaydık iyi olurdu demesi
+bkz abdurrahim albayrakın parası neyse ramosu alak demesi
 bkz alper potukun antrenmanda yaptığı efso hareket
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi siker bilader
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular kalecileri bilader 
