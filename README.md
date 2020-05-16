@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/ bkz nabıyonuz lan nekrofili ibneler
 https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/&w=bg bkz nekrofili
 https://www.uludagsozluk.com/e/43289150/ zuahhahaha
 bkz grup vitamin vs şempanze boku
@@ -12,7 +13,6 @@ https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamaoğlan ona hep oç der
 https://www.uludagsozluk.com/k/sweetmandarine/&w=bg toplanın beyler kızlar kavga ediyo
 https://www.uludagsozluk.com/k/trabzon-ve-rizeyi-karadenizden-silmek/ yavaş sil oç
 https://www.uludagsozluk.com/k/herkesin-kocas%C4%B1n%C4%B1n-olmas%C4%B1/ 
-https://www.uludagsozluk.com/ bkz nabıyonuz lan ibneler
 https://kahraman-zorbey.uludagsozluk.com bkz türkish ultra gay forum
 https://kahraman-zorbey.uludagsozluk.com bkz ağır gay
 https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki ağır top
