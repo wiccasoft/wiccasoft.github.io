@@ -1,10 +1,6 @@
 
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-<!-- 
-bkz teke tek izlerken guzey anadol gay hattı kırılıyormuş gibi gerilmek
--->
-
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
