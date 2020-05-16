@@ -2,17 +2,16 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6z-k%C4%B1z%C4%B1n%C4%B1-iki-kez-hamile-b%C4%B1rakan-baba/ bkz malum ırk
+https://www.uludagsozluk.com/k/adam-denilince-akla-gelen-ilk-ki%C5%9Fi/&w=bg bkz adam levine, hz adem
+https://www.uludagsozluk.com/k/kelebek-d%C3%B6vmesi-yapt%C4%B1ran-erkek/&w=gd bkz at yarrağıyım demenin yolları
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
-bkz kapatınca oh be kafa sikiyormuş denilen ezanlar
-https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
+https://www.youtube.com/watch?v=EfAsNffCjsM bkz kapatınca oh be kafa sikiyormuş denilen ezanlar
 bkz ak parti duckduckgo yu kaparsa olacaklar
-bkz fatih tezcandan fatih terime işin yap uyarısı
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
 https://www.uludagsozluk.com/e/43342791/ bkz yüzyılın ayarı
-https://www.uludagsozluk.com/k/%C3%A7e%C3%A7enler/&w=bg bkz çeçen müteahhitler
-bkz adana01 dizisi vs ekşisözlük
-https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
+https://www.uludagsozluk.com/k/%C3%A7e%C3%A7enler/&w=bg bkz çeçen müteahhitlerri bilader
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.uludagsozluk.com/k/%C3%B6z-k%C4%B1z%C4%B1n%C4%B1-iki-kez-hamile-b%C4%B1rakan-baba/ bkz malum ırk
