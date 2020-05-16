@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1-n%C4%B1n-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmamas%C4%B1/
 https://www.uludagsozluk.com/k/beyaz%C4%B1t-%C3%B6zt%C3%BCrk/&w=bg bkz annesinin kuzusu
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-insanl%C4%B1%C4%9Fa-faydalar%C4%B1/ bkz kuzey anadolu gay hattı -->
 
