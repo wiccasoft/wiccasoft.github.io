@@ -2,8 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz 3. sayfa tecavüz haberi aramayı çıktım gelecem dükkanı kapamayın bilader
-bkz pedofili avcısı nekrofiller
+bkz pedofili avcısı nekrofil
+bkz 3. sayfa tecavüz haberi aramayı çıktım gelecem
 bkz siliviri püfür püfür serindir şimdi
 bkz erdoğana hakaret edip silivride serin serin oturma keyfi
 bkz acunun erdoğanın golü sonrası erdoğanın kulağını ısırması
