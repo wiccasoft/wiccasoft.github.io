@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz cmylmz fanboyları zeka seviyesi
 bkz gaga bulutun imralıya fiber internet bağlatması
 https://www.pinterest.com/wiccasoft/pins/
 bkz gaga bulutun kamalcılara yahudi demesi
