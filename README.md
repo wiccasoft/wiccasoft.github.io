@@ -2,11 +2,11 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz enes abinin gaga buluta verdiği efso ayar
+bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
 https://www.uludagsozluk.com/k/16-may%C4%B1s-bursaspor-bayram%C4%B1/&w=bg bkz ibnelerin bayramı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-%C3%BC-sevmiyorum/ anan kimdi bilemezdin oç
 bkz yılmaz erdoğan cem yılmaz dosluğu
-bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
-bkz enes abinin gaga buluta verdiği efso ayar
 bkz esra elöcü vs ismet inöcü
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/ amin ecmain
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg
