@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz fatih altaylı celal şengör ilber ortaşgil üçgeni
 bkz ilber ortaçgil celel gılıştargör dosluğu
 bkz kuzey anadolu gay hattı kırılırsa karadenizliler napacak sorundalı
 https://www.uludagsozluk.com/k/bradley-cooper/&w=bg bkz gay
