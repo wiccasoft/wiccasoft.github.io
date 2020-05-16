@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://traveler-of-secret-moments.uludagsozluk.com/ bkz bi ülkücü memur siksin la şunu
 https://kahraman-zorbey.uludagsozluk.com bkz türkish ultra gay forum
 https://kahraman-zorbey.uludagsozluk.com bkz ağır gay
 https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki ağır top
