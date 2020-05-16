@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/sokaklar%C4%B1m%C4%B1z-gen%C3%A7lerimizle-%C3%A7ok-daha-g%C3%BCzel/
 https://www.chp.org.tr/ bkz gışıştarın iyice yerleşmesi
 bkz e devlet soy ağacı sorgularken ceddin deden dinlemek
 bkz hoşlaşılan cumburlop başkanının profilini fareyle okşamak
