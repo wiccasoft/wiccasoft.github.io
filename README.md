@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz siliviri püfür püfür serindir şimdi
 bkz acunun erdoğanın golü sonrası erdoğanın kulağını ısırması
 bkz yılmaz erdoğanın erdoğan maçında attığı efso gol
 bkz ekşisözlük vs adana01 dizisi
