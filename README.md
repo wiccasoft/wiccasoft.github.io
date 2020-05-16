@@ -3,7 +3,8 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/k/herkesin-kocas%C4%B1n%C4%B1n-olmas%C4%B1/ bkz sweet but saykonun olmaması domestikmiş lan
+bkz bomba gibiyim bomaba turp gibiyip turpppppppppp
+https://www.uludagsozluk.com/k/herkesin-kocas%C4%B1n%C4%B1n-olmas%C4%B1/ 
 https://www.uludagsozluk.com/ bkz nabıyonuz lan ibneler
 https://kahraman-zorbey.uludagsozluk.com bkz türkish ultra gay forum
 https://kahraman-zorbey.uludagsozluk.com bkz ağır gay
