@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz gaga bulutun paylaştığı yakında özgürüm paylaşımı 
+bkz gaga bulutun paylaştığı türkler aşkenazi yahudi soyundan paylaşımı
 https://www.pinterest.com/wiccasoft/pins/
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
 bkz enes abinin gaga buluta verdiği efso ayar
