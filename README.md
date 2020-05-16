@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz celal gışıştaroğlanın yerşm uzun adamın yeridir paylaşımı
 bkz devlet bahçeli gışıştaroğlana sakso çekti yalanı iddaları
 bkz tayyip damadın peniz yüzğünü azıyla takıyor yalanı iddaları
 https://www.uludagsozluk.com/k/sokaklar%C4%B1m%C4%B1z-gen%C3%A7lerimizle-%C3%A7ok-daha-g%C3%BCzel/
