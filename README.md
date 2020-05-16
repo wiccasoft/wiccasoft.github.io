@@ -3,7 +3,8 @@
 
 
 <!-- 
-vhttps://www.uludagsozluk.com/e/43289150/ zuahhahaha
+https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/&w=bg bkz pedofil
+https://www.uludagsozluk.com/e/43289150/ zuahhahaha
 bkz grup vitamin vs şempanze boku
 bkz şurp gibiyim şurrup turup gibiyip turumpppppppppp
 bkz çatlasanız da patlasanızda corona ananızı sikertecek oçları
