@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-b%C3%BCy%C3%BCkak/&w=bg eywallah bro
 https://www.uludagsozluk.com/k/trabzon-ve-rizeyi-karadenizden-silmek/ yavaş sil oç
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 -->
