@@ -1,7 +1,11 @@
 
 ![Image](brexit.png)
 
-<!-- https://www.chp.org.tr/ bkz gılıştarın goltuğa yapışması ->
+<!-- 
+https://www.chp.org.tr/ 
+bkz gılıştarın goltuğa yapışması
+bkz millet himzet beklerken gışıştarın osura osura uyuması
+->
 
 ![Image](wiccanyear.png)
 
