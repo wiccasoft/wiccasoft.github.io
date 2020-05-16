@@ -3,7 +3,7 @@
 
 <!-- 
 bkz dünyanın en aşağılık milleti
-bkz google gir tecavüz haber yaz o haberleri listele oç onsan sonra hangi millet aşağıklmış sorgula oç
+bkz bak oç evladı google gir tecavüz haber yaz o haberleri listele oç onsan sonra hangi millet aşağıklmış sorgula oç
 bkz gaziantepte sevgilisini sevgilisen tecvüz eden adanalı
 bir bilmecem var çocuklar haydi sor sor oç ları diyince hemen onların adları gelir
 bkz 13 yaşındaki kızını hamile bırırakıp ne mutlu türküm diyene diyen sinoplu
