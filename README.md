@@ -1,7 +1,7 @@
 
 ![Image](brexit.png)
 
-<!-- https://www.chp.org.tr/ bkz kılıştarın goltuğa yapışması ->
+<!-- https://www.chp.org.tr/ bkz gılıştarın goltuğa yapışması ->
 
 ![Image](wiccanyear.png)
 
