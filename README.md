@@ -3,6 +3,7 @@
 
 <!-- 
 bkz pedofili avcısı nekrofil
+bkz dexterin ava çıkması
 bkz 3. sayfa tecavüz haberi aramayı çıktım gelecem
 bkz siliviri püfür püfür serindir şimdi
 bkz erdoğana hakaret edip silivride serin serin oturma keyfi
