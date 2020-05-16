@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+bkz winter is coming ibnenin evlatları
 bkz hayalerde yaşayan ibneleri gerçeklerle sikerler
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-denince-akla-gelenler/&w=bg 
 bkz türklerin hayallerde yaşayan azılı ibneler oldukları gerçeği
