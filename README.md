@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz acunun erdoğanın golü sonrası erdoğanın kulağını ısırması
 bkz yılmaz erdoğanın erdoğan maçında attığı efso gol
 bkz ekşisözlük vs adana01 dizisi
 bkz yılmaz erdoğan telsim reklamı 
