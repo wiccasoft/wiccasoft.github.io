@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz yılamz erdoğanın erdoğan maçında attığıo gol
 bkz ekşisözlük vs adana01 dizisi
 bkz yılmaz erdoğan telsim reklamı 
 bkz yılamz erdoğan türkiyenin belmondosudur
