@@ -1,6 +1,8 @@
 
 ![Image](brexit.png)
 
+<!-- https://www.chp.org.tr/ bkz kılıştarın goltuğa yapışması ->
+
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
