@@ -2,6 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
+https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/k/papa-n%C4%B1n-keyfinin-yerinde-olmas%C4%B1/ hayat bana güzel pampa ergenler sağolsun
 bkz enes abinin gaga buluta verdiği efso ayar
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg
