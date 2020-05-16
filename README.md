@@ -2,9 +2,9 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/kelebek-d%C3%B6vmesi-yapt%C4%B1ran-erkek/&w=gd bkz at yarrağıyım demenin yolları
 https://www.uludagsozluk.com/k/%C3%B6z-k%C4%B1z%C4%B1n%C4%B1-iki-kez-hamile-b%C4%B1rakan-baba/ bkz malum ırk
 https://www.uludagsozluk.com/k/adam-denilince-akla-gelen-ilk-ki%C5%9Fi/&w=bg bkz adam levine, hz adem
-https://www.uludagsozluk.com/k/kelebek-d%C3%B6vmesi-yapt%C4%B1ran-erkek/&w=gd bkz at yarrağıyım demenin yolları
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz kapatınca oh be kafa sikiyormuş denilen ezanlar
