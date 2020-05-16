@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/ bkz pedofili
 https://www.uludagsozluk.com/k/hrant-dink/&w=bg bkz pedofili
 bkz teke tek açılış müziği
 bkz kudursanız da çatlasanız da akp pkk bitmeyecek
