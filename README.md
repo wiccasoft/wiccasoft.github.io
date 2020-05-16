@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz melo vs muslera mı sorundalı
+bkz melo mu muslera mı sorundalı
 bkz ali koçun meloyu alaydık iyi olurdu demesi
 bkz abdurrahim albayrakın parası neyse ramosu alak demesi
 bkz alper potukun antrenmanda yaptığı efso hareket
