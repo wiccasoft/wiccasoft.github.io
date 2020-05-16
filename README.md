@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz ekşideki fanboyların oğlum yaşımda olması
+bkz ekşideki fanboyların enes abilerini yemek
 bkz cmylmz fanboyları zeka seviyesi
 bkz gaga bulutun imralıya fiber internet bağlatması
 https://www.pinterest.com/wiccasoft/pins/
