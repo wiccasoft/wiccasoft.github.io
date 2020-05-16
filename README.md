@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.chp.org.tr/ 
+https://www.tccb.gov.tr/ bkz bi bakışı var sanırsın şampiyonalr ligi bilader
 bkz gılıştarın goltuğa yapışması
 bkz millet himzet beklerken gışıştarın osura osura uyuması
 ->
