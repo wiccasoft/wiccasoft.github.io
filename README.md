@@ -2,6 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz mersinli cihangir vs taksimin renkli siması cenk
+https://www.uludagsozluk.com/k/yard%C4%B1m-kolisini-par%C3%A7alay%C4%B1p-%C3%A7%C3%B6pe-atan-mersinli/
 https://www.uludagsozluk.com/k/og%C3%BCn-samast/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/bebe%C4%9Fim-diyen-erkek/&w=bg hadi hadi bebeğim yala da göreyim
 https://www.uludagsozluk.com/k/michael-jackson-vs-elvis-presley/&w=bg bkz elvis siker kankağ
