@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz enes abinin gaga buluta verdiği efso ayar
 https://www.uludagsozluk.com/k/hz-muhammed-in-9-ya%C5%9F%C4%B1ndaki-kar%C4%B1s%C4%B1/&w=bg bkz bey vay vay neler dönmüş
 bkz hz muhammedin 4 karı daha mı alsam la demesi
 https://www.uludagsozluk.com/k/hz-muhammed-in-kar%C4%B1lar%C4%B1/&w=gd bkz hz zübeyde hz ayşe hz esma hz rümeyse
