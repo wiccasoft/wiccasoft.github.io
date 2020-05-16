@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/ermeni/&w=bg bkz ermeni dölü
 bkz gaga bulutun ekşicilerle askerlik arkadaşı çıkması
 https://www.uludagsozluk.com/k/gaga-bulut/&w=bg bkz gaga bulutun ekşicilere yolldağı ses kaydı
 bkz rupert murdoch türk mü gerizekalı oç
