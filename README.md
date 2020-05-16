@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz uğur dündarı kullanan kamalcı
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg
 bkz esra elöcü vs ismet inöcü
 bkz adana01 dizisi vs deep türkish web
