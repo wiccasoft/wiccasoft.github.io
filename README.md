@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz enes abimi yedirmem diyen ekşici
 bkz nejat işlerin barda filmiyle resmen ekşcilere orospu demesi
 bkz khontkarın ekşcilere orospu göndermeli klibi
 bkz reynmenin ekşicilere orospu demesi
