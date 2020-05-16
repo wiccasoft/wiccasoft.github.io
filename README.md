@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz intihalci profesörün pedofilici çıkması
 bkz pedofili futbolculara ihraç kararı idddaları
 bkz melo mu muslera mı sorundalı
 bkz abdurrahim dilipakın koyu gsliyim demesi
