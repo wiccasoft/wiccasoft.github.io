@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz fenevlilerin ultra aslanları kısknadığı gerçeği
 bkz melo vs muslera mı sorundalı
 bkz ali koçun meloyu alaydık iyi olurdu demesi
 bkz abdurrahim albayrakın parası neyse ramosu alak demesi
