@@ -3,6 +3,7 @@
 
 <!-- 
 bkz dünyanın en aşağılık milleti
+bkz ataoç ve oçleri
 bkz atacücük denen orospu evladının bu oç larını bi de yüceltmesi
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz zall ona hep oç der
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmemek-hakk%C4%B1n-yok-orospu-%C3%A7ocu%C4%9Fu/&w=bg bkz oç
