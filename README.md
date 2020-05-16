@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+bkz adana01 dizisndeki ibneler
 https://www.uludagsozluk.com/k/lan-kes-lan-haydar/ pardon abi tanıyamadım
 bkz winter is coming ibnenin evlatları
 bkz hayalerde yaşayan ibneleri gerçeklerle sikerler
