@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCmamiral-cihat-yayc%C4%B1-n%C4%B1n-g%C3%B6revden-al%C4%B1nmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/ak-parti-hdp-yi-kapatsa-olacaklar/ bkz akp google ı kaparsa olacaklar
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
