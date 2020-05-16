@@ -1,12 +1,6 @@
 
 ![Image](brexit.png)
 
-<!--
-https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://www.uludagsozluk.com/k/trabzon-ve-rizeyi-karadenizden-silmek/ yavaş sil oç
-https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker bilader konu kilit
-https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
--->
 
 ![Image](wiccanyear.png)
 
