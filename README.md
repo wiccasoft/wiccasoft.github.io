@@ -6,6 +6,7 @@ bkz ataoç ve oçleri
 bkz dünyanın en aşağılık milleti
 bkz atacücük denen orospu evladının bu oç larını bi de yüceltmesi
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz zall ona hep oç der
+https://www.uludagsozluk.com/k/amerikan-halk%C4%B1-vs-t%C3%BCrk-halk%C4%B1/&w=bg bkz halk vs çomarlar
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmemek-hakk%C4%B1n-yok-orospu-%C3%A7ocu%C4%9Fu/&w=bg bkz oç
 bkz bak oç evladı google gir tecavüz haber yaz o haberleri listele oç onsan sonra hangi millet aşağıklmış sorgula oç
 bkz gaziantepte sevgilisini sevgilisen tecvüz eden adanalı
