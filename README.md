@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz teke tek izlerken guzey anadol gay hattı kırılıyormuş gibi gerilmek
 bkz fatih altaylı celal şengör ilber ortaşgil üçgeni
 bkz ilber ortaçgil celel gılıştargör dosluğu
 bkz kuzey anadolu gay hattı kırılırsa karadenizliler napacak sorundalı
