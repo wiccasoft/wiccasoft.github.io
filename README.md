@@ -4,6 +4,7 @@
 <!-- 
 bkz esra elöcü vs ismet inöcü
 bkz adana01 dizisi vs deep türkish web
+bkz öcü gibi korkuyorlar mao zedong yoldaşımdan
 bkz selçuk bayraktarın fatih portakalın malikanesinde drone gezdirdiği iddaları
 bkz atacücük olmasydı anan kimdi bilemezdin şerefsiz dil uzatma sebepsiz
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
