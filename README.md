@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz enes abici atatürkçü ekşiciler vs gagab ulutçu kürtçü inciciler
 bkz enes abinin gaga buluta verdiği efso ayar
 https://www.uludagsozluk.com/k/ermeni/&w=bg bkz ermeni dölü
 bkz gaga bulutun ekşicilerle askerlik arkadaşı çıkması
