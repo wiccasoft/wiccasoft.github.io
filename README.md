@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz fenerbahçenin paylaştığı atam izin deyiz fenerliyiz paylaşımı
 bkz mersinli cihangir vs taksimin renkli siması cenk
 bkz sevda kuşun kandında ömer adam mıdır sorundalı
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BC-ocaklar%C4%B1n%C4%B1n-%C3%BCniversitelerdeki-e%C5%9Fkiyal%C4%B1%C4%9F%C4%B1/&w=gd
