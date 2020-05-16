@@ -3,19 +3,8 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/ amin ecmain
-bkz hz muhammedin allah benüm yüzüm suyum hüremetine evreni yaratıı demesi
 bkz yılmaz erdoğan cem yılmaz dosluğu
 bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
-bkz uğur dündarın can dündarı evlatlıktan reddetmesi
-bkz hz muhammedin mekkeli müşrikleri sikertmesi
-https://www.uludagsozluk.com/k/hz-ay%C5%9Fe-denince-akla-gelenler/ bkz hz muhammedin 3. karısı
-https://www.uludagsozluk.com/k/afet-inan-atat%C3%BCrk-%C3%BCn-nikahs%C4%B1z-first-leydisiydi/&w=bg bkz çıkarmadan 5 posta
-https://www.uludagsozluk.com/k/%C3%A7ocuklar%C4%B1n%C4%B1n-g%C3%B6z%C3%BC-%C3%B6n%C3%BCnde-kar%C4%B1s%C4%B1-%C3%B6ld%C3%BCren-cani-koca/ bkz traveler of gayin başlığının 110.000 km den tanımak
-bkz can dündar uğur dündar yılmaz özdil dosluğu
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısı 
-https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
-https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
-https://www.uludagsozluk.com/k/papa-n%C4%B1n-keyfinin-yerinde-olmas%C4%B1/ hayat bana güzel pampa ergenler sağolsun
 bkz enes abinin gaga buluta verdiği efso ayar
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1-vs-deniz-gezmi%C5%9F/&w=bg
 bkz esra elöcü vs ismet inöcü
