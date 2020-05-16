@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi siker bilader
 https://www.uludagsozluk.com/k/%C5%9Fike-deyince-akla-ilk-gelen-futbol-tak%C4%B1m%C4%B1/&w=bg bkz şikebaçe
 https://www.uludagsozluk.com/k/senin-kokunu-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim bokunu diyen kız
 https://www.pinterest.com/wiccasoft/pins/ bkz alper potukun antrenmanda yaptığı efso hareket
