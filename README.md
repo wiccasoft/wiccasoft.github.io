@@ -1,7 +1,9 @@
 
 ![Image](brexit.png)
 
-<!-- https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular kalecileri bilader -->
+<!-- 
+https://www.uludagsozluk.com/k/senin-kokunu-seviyorum-diyen-k%C4%B1z/ bkz senin bokunu yerim bokunu diyen ekşici kız
+https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular kalecileri bilader -->
 
 ![Image](wiccanyear.png)
 
