@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz nekrofili babanın ölü sikerken yakalanması
 bkz intihalci profesörün pedofilici çıkması
 bkz pedofili futbolculara ihraç kararı idddaları
 bkz melo mu muslera mı sorundalı
