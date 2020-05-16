@@ -3,6 +3,7 @@
 
 
 <!-- 
+vhttps://www.uludagsozluk.com/e/43289150/ zuahhahaha
 bkz grup vitamin vs şempanze boku
 bkz şurp gibiyim şurrup turup gibiyip turumpppppppppp
 bkz çatlasanız da patlasanızda corona ananızı sikertecek oçları
