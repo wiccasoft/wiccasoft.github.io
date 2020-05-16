@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
 bkz ak parti duckduckgo yu kaparsa olacaklar
 bkz fatih tezcandan fatih terime işin yap uyarısı
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
