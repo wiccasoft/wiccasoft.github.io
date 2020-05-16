@@ -2,6 +2,9 @@
 ![Image](brexit.png)
 
 <!--
+https://eksisozluk.com bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-denince-akla-gelenler/&w=bg
 https://eksisozluk.com bkz soba borusuyla konuşan veletler
 bkz deep türkish webte tayyipe ayarlar veren veletler
 https://diskapininmandali.uludagsozluk.com/ bkz tayyipin azılı düşmanı
