@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/bradley-cooper/&w=bg bkz gay
 bkz kuzey anadolu gay hattının kırılma ihtimali
 https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/ bkz pedofili
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/&w=gd
