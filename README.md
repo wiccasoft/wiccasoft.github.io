@@ -2,6 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz esra elönünü ışıdlı mücahitlerele sevişme sevaptır iddası
+https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/&w=gd
 bkz adana01 dizisi vs deep türkish web
 bkz atacücükün hiç cücüklere benzememesi 
 bkz atacücük olmasydı anan kimdi bilemezdin şerefsiz dil uatma sebepsiz
