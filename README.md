@@ -3,6 +3,7 @@
 
 <!-- 
 bkz dünyanın en aşağılık milleti
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmemek-hakk%C4%B1n-yok-orospu-%C3%A7ocu%C4%9Fu/&w=bg bkz oç
 bkz bak oç evladı google gir tecavüz haber yaz o haberleri listele oç onsan sonra hangi millet aşağıklmış sorgula oç
 bkz gaziantepte sevgilisini sevgilisen tecvüz eden adanalı
 bir bilmecem var çocuklar haydi sor sor oç ları diyince hemen onların adları gelir
