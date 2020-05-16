@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+bkz ekşcilerin fetullak güleni trumptan istemesi
 bkz sürekli entry girerek yaşama tutunan kamalcı veletler
 bkz atacücük olmayaydı anan kimdi bilemezdin diyen velete la oğlum baban benim zaten demek
 https://www.uludagsozluk.com/k/ocak-ay%C4%B1nda-kilitlenen-odada-%C5%9Fimdi-serinlemek/ bkz mağara soğuk mu kardeş
