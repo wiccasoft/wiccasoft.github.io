@@ -4,7 +4,8 @@
 <!-- 
 https://www.chp.org.tr/ bkz gışıştarın iyice yerleşmesi
 bkz e devlet soy ağacı sorgularken ceddin deden dinlemek
-https://www.tccb.gov.tr/ bkz bi bakışı var sanırsın şampiyonalr ligi bilader
+bkz hoşlaşılan cumburlop başkanının profilini fareyle okşamak
+https://www.tccb.gov.tr/ bkz bi bakışı var sanırsın şampiyonlar ligi bilader
 bkz gılıştarın goltuğa yapışması
 bkz millet himzet beklerken gışıştarın osura osura uyuması
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/
