@@ -2,7 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz çatlsanız patlasanız da guzey anadol gay hattı kırılacak
+bkz kudursanız da çatlasanız da akp pkk bitmeyecek
+bkz çatlasanız patlasanız da guzey anadol gay hattı kırılacak
 bkz kuzey anadol gay hattının kırılmak üzere olduğu gerçeği
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/ bkz kuzey anadol fay hattı -->
 
