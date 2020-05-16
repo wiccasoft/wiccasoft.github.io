@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz ekşideki fanboyların 41 yaşında olduğumu öğrenmeleri
 bkz ekşideki fanboylar büyüyünce ne olacaklar sorundalı
 bkz ekşideki fanboyların beni yütüpır sanması
 bkz ekşideki fanboyların enes abilerini yemek
