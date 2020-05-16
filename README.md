@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz cmylmz fanboylarının zeka seviyesi
 bkz adana01 dizisi vs deep türkish web
 bkz ekşisözlükün iyice ergen yuvası olması
 bkz enes abinin gaga buluta verdiği efso ayar
