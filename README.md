@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz ekşisözlükün iyice ergen yuvası olması
 bkz enes abinin gaga buluta verdiği efso ayar
 bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
 https://www.uludagsozluk.com/k/16-may%C4%B1s-bursaspor-bayram%C4%B1/&w=bg bkz ibnelerin bayramı
