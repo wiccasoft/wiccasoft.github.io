@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz esra elönü vs ismet inöcü
+bkz esra elöcü vs ismet inöcü
 bkz adana01 dizisi vs deep türkish web
 bkz selçuk bayraktarın fatih portakalın malikanesinde drone gezdirdiği iddaları
 bkz atacücük olmasydı anan kimdi bilemezdin şerefsiz dil uzatma sebepsiz
