@@ -1,7 +1,9 @@
 
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
-<!-- https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/ bkz kuzey anadol fay hattı -->
+<!-- 
+bkz kuzey anadol gay hattının kırılmak üzere olduğu gerçeği
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/ bkz kuzey anadol fay hattı -->
 
 ![Image](wiccanyear.png)
 
