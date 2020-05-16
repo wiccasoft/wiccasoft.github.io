@@ -4,6 +4,7 @@
 <!-- 
 bkz esra elönü vs ismet inöcü
 bkz adana01 dizisi vs deep türkish web
+bkz selçuk bayraktarın fatih portaklın malikanesinde drone gezdirdiği iddaları
 bkz atacücük olmasydı anan kimdi bilemezdin şerefsiz dil uatma sebepsiz
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
