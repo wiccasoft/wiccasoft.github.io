@@ -5,9 +5,6 @@
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
-https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=bg bkz oç olmaları
-https://www.uludagsozluk.com/k/g%C3%BCnde-5-litre-pepsi-i%C3%A7mek/ bkz kamalcı ergenler
-https://www.uludagsozluk.com/k/cihangir-solcular%C4%B1/&w=bg bkz oç ları
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-ye-niye-yat%C4%B1r%C4%B1mc%C4%B1-gelmiyor/ 
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=gd bkz ananın amı tabi ki oç
 https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/&w=gd bkz izleyelim efenim ayol bunlar sapık
