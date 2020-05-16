@@ -1,7 +1,9 @@
 
 ![Image](brexit.png)
 
-<!--https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCleri-g%C3%B6r%C3%BCnce-alt%C4%B1na-s%C4%B1%C3%A7an-korkak-tavuklar/ -->
+<!--
+https://www.uludagsozluk.com/k/yard%C4%B1m-kolisini-par%C3%A7alay%C4%B1p-%C3%A7%C3%B6pe-atan-mersinli/
+https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCleri-g%C3%B6r%C3%BCnce-alt%C4%B1na-s%C4%B1%C3%A7an-korkak-tavuklar/ -->
 
 ![Image](wiccanyear.png)
 
