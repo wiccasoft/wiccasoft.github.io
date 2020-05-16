@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+bkz haayllerde yaşayan ibneler diyince kamalcıların akla gelmesi
 https://www.uludagsozluk.com/k/sakal%C4%B1-olmayan-erkeklerin-%C5%9Fak%C4%B1r-%C5%9Fak%C4%B1r-vurdurmas%C4%B1/
 https://www.uludagsozluk.com/k/kemalizm/&w=bg bkz anan kimdi bilemezdin şerefsizim
 bkz ekşici veletlerin firmamı gaga bulut sanması
