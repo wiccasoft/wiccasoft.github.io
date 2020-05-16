@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz üstüne genlerimi çocuğa aktarmanın vaktinin gelmesi
 bkz kürtleri sabun yapmanın gerekliliği
 bkz gaga bulutun kürt olduğu gerçeği
 https://www.uludagsozluk.com/k/pedofilinin-arabistan-da-yayg%C4%B1n-olma-nedeni/ bkz muhammed
