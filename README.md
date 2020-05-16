@@ -1,5 +1,5 @@
 
-[![Image](brexit.png)](https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-koltu%C4%9Fa-kene-gibi-yap%C4%B1%C5%9Fmas%C4%B1/&w=bg)
+[![Image](brexit.png)](https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg)
 
 ![Image](wiccanyear.png)
 
