@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz adana01 dizisi vs deep türkish web
 bkz esra elönü vs ismet inönü
 bkz adana01 dizisi vs ekşisözlük
 bkz noel baba türk mü sorundalı
@@ -15,6 +16,7 @@ https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekal�
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/&w=bg bkz kürt lütfen
 https://www.uludagsozluk.com/k/ocak-ay%C4%B1nda-kilitlenen-odada-%C5%9Fimdi-serinlemek/ bkz mağara soğuk mu kardeş
+https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/ bkz adana01
 -->
 
 ![Image](wiccanyear.png)
