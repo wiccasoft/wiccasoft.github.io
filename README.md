@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-https://www.uludagsozluk.com/k/cennet-mahallesindeki-ali%C5%9F-in-son-hali/ ay kapı gibi adamdı ayol
+https://www.uludagsozluk.com/k/cennet-mahallesindeki-ali%C5%9F-in-son-hali/ bkz ay kapı gibi adamdı ayol
 bkz fenerbahçenin paylaştığı atam izin deyiz fenerliyiz paylaşımı
 bkz mersinli cihangir vs taksimin renkli siması cenk
 bkz sevda kuşun kandında ömer adam mıdır sorundalı
