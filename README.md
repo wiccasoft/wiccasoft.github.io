@@ -4,6 +4,7 @@
 <!--
 bkz winter is coming ibnenin evlatları
 bkz hayalerde yaşayan ibneleri gerçeklerle sikerler
+https://www.uludagsozluk.com/k/sakal%C4%B1-olmayan-erkeklerin-%C5%9Fak%C4%B1r-%C5%9Fak%C4%B1r-vurdurmas%C4%B1/&w=gd lol
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-denince-akla-gelenler/&w=bg 
 bkz türklerin hayallerde yaşayan azılı ibneler oldukları gerçeği
 https://eksisozluk.com bkz hayallerde yaşıyor bazı ibneler 2
