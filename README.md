@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz teke tek açılış müziği
 bkz kudursanız da çatlasanız da akp pkk bitmeyecek
 bkz çatlasanız patlasanız da guzey anadol gay hattı kırılacak
 bkz kuzey anadol gay hattının kırılmak üzere olduğu gerçeği
