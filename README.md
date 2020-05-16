@@ -2,6 +2,8 @@
 ![Image](brexit.png)
 
 <!--
+https://www.uludagsozluk.com/k/sakal%C4%B1-olmayan-erkeklerin-%C5%9Fak%C4%B1r-%C5%9Fak%C4%B1r-vurdurmas%C4%B1/
+https://www.uludagsozluk.com/k/kemalizm/&w=bg bkz anan kimdi bilemezdin şerefsizim
 bkz ekşici veletlerin firmamı gaga bulut sanması
 bkz atacücük olmasaydı anan kimdi bilemezdin diyen ekşici veleti tokatlayıp entry girdirmek
 https://www.uludagsozluk.com/k/atat%C3%BCrk-olmasayd%C4%B1-ile-ba%C5%9Flayan-masallar/ bkz anan kimdi bilemezdin şerefsiz
