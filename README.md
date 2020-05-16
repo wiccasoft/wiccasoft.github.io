@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/16-may%C4%B1s-bursaspor-bayram%C4%B1/&w=bg bkz ibnelerin bayramı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-%C3%BC-sevmiyorum/ anan kimdi bilemezdin oç
 bkz yılmaz erdoğan cem yılmaz dosluğu
 bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
