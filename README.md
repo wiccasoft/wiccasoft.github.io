@@ -3,8 +3,8 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/ bkz nabıyonuz lan nekrofili olmuş zombi ibneler
-https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/&w=bg bkz nekrofili
+https://www.uludagsozluk.com/ bkz nabıyonuz lan nekrofili ibneler
+https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/&w=bg bkz ölü
 https://www.uludagsozluk.com/e/43289150/ zuahhahaha
 bkz grup vitamin vs şempanze boku
 bkz şurp gibiyim şurrup turup gibiyip turumpppppppppp
