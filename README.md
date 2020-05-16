@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz reynmenin ekşicilere orospu demesi
 bkz berdan mardinin kate middletonea senden çouğu olsun istiyorum demesi
 bkz 4 karısı 20 çocuğu 200 torunu olan aşiret reisi
 bkz kürtlerin 20 çocuk yapma nedenleri
