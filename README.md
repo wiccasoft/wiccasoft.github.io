@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısı 
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/k/papa-n%C4%B1n-keyfinin-yerinde-olmas%C4%B1/ hayat bana güzel pampa ergenler sağolsun
