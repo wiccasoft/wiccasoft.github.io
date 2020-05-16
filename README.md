@@ -3,7 +3,6 @@
 
 <!-- 
 bkz dünyanın en aşağılık mahlukatlarının yaşadığı malum ülke
-https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg 
 bkz dedesi köyde eşek siken milletin kenndini asil sanması
 https://www.uludagsozluk.com/k/nutuk/&w=bg bkz damarlarınızdaki asil kan
 https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/ bkz pedofili
