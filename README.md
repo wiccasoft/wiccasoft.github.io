@@ -2,6 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz gaga bulutun ekşicilerle askerlik arkadaşı çıkması
+https://www.uludagsozluk.com/k/gaga-bulut/&w=bg bkz gaga bulutun ekşicilere yolldağı ses kaydı
 bkz rupert murdoch türk mü gerizekalı oç
 bkz üstün genlerini aktarmayan kamalcı
 bkz damarlarındaki asil türk kanını kürtlere vermeyen kamalcı
