@@ -2,6 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz gaga bulutun paylaştığı yakında özgürüm paylaşımı 
+https://www.pinterest.com/wiccasoft/pins/
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
 bkz enes abinin gaga buluta verdiği efso ayar
 https://www.uludagsozluk.com/k/ermeni/&w=bg bkz ermeni dölü
