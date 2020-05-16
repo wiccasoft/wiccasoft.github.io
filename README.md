@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz can dündar uğur dündar yılmaz özdil dosluğu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısı 
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
