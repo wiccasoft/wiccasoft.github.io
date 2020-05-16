@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
 bkz kapatınca oh be kafa sikiyormuş denilen ezanlar
 https://www.youtube.com/watch?v=EfAsNffCjsM maşşallah
