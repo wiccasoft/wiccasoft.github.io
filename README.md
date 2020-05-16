@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ak parti duckduckgo yu kaparsa olacaklar
+bkz fatih tezcandan fatih terime işin yap uyarısı
 https://www.uludagsozluk.com/e/43342791/ bkz yüzyılın ayarı
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7enler/&w=bg bkz çeçen müteahhitler
 bkz adana01 dizisi vs ekşisözlük
