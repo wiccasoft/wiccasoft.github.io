@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz esra elönünü ışıdlı mücahitlerele sevişme sevaptır iddası
+bkz esra elönünü ışıdlı mücahitlerle sevişmek sevaptır iddası
 https://www.uludagsozluk.com/k/%C4%B1%C5%9F%C4%B1dli-m%C3%BCcahitlerle-sevi%C5%9Fmek-cihadd%C4%B1r/&w=gd
 bkz adana01 dizisi vs deep türkish web
 bkz atacücükün hiç cücüklere benzememesi 
