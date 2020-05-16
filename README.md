@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz ekşideki ibnelerin beni akranı sanmaları
 bkz şaka maka ekşideki ibnelerin babası yaşında olmak
 bkz ekşideki fanboylar büyüyünce ne olacaklar sorundalı
 bkz ekşideki fanboyların beni yütüpır sanması
