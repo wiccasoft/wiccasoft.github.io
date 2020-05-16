@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/afet-inan-atat%C3%BCrk-%C3%BCn-nikahs%C4%B1z-first-leydisiydi/&w=bg bkz çıkarmadan 5 posta
 https://www.uludagsozluk.com/k/%C3%A7ocuklar%C4%B1n%C4%B1n-g%C3%B6z%C3%BC-%C3%B6n%C3%BCnde-kar%C4%B1s%C4%B1-%C3%B6ld%C3%BCren-cani-koca/ bkz traveler of gayin başlığının 110.000 km den tanımak
 bkz can dündar uğur dündar yılmaz özdil dosluğu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısı 
