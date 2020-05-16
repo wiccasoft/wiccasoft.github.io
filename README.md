@@ -1,5 +1,5 @@
 
-[![Image](brexit.png)](https://www.uludagsozluk.com/k/rt%C3%BCk-ba%C5%9Fkan%C4%B1n%C4%B1n-t%C3%BCrk%C3%A7e-bilgisi/&w=gd)
+[![Image](brexit.png)](https://www.chp.org.tr/)
 
 ![Image](wiccanyear.png)
 
