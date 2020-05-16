@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz taşıyıcı anne aranıyor
 bkz üstüne genlerimi çocuğa aktarmanın vaktinin gelmesi
 bkz kürtleri sabun yapmanın gerekliliği
 bkz gaga bulutun kürt olduğu gerçeği
