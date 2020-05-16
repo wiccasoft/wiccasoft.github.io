@@ -2,7 +2,6 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz tayyip damada peniz yüzüğünü azıyla takıyor iddaları
 https://www.uludagsozluk.com/k/kemalizm-%C4%B1-bir-g%C3%B6rselle-anlat/&w=bg
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
