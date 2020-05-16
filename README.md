@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki ağır top
 https://chance-boudreaux.uludagsozluk.com/ bkz gay
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg
 https://www.uludagsozluk.com/k/fenerli-birini-galatasarayl%C4%B1-yapmak/ bkz sike sike fenerli yaptilar
