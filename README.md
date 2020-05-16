@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=bg bkz elon musk
 bkz cmylmz fanboylarının zeka seviyesi
 bkz adana01 dizisi vs deep türkish web
 bkz ekşisözlükün iyice ergen yuvası olması
