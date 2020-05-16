@@ -3,6 +3,7 @@
 
 <!-- 
 bkz kürtleri sabun yapmanın gerekliliği
+bkz gaga bulutun kürt olduğu gerçeği
 https://www.uludagsozluk.com/k/do%C4%9Fuma-en-uygun-s%C3%BCper-kad%C4%B1n-v%C3%BCcudu/ bkz kate middleton
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=bg bkz elon musk
 bkz cmylmz fanboylarının zeka seviyesi
