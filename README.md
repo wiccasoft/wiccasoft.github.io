@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz kürtlerin 20 çocuk yapma nedenleri
 bkz abdullah çatlının gaga bulat vatan haini demesi
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz adam gibi adam
 bkz taşıyıcı anne aranıyor
