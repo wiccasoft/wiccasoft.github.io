@@ -1,6 +1,8 @@
 
 ![Image](brexit.png)
 
+<!-- https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular kalecileri bilader -->
+
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
