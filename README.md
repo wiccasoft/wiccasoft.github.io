@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz zall ona hep oç derin dünyaya katkısı
 https://www.uludagsozluk.com/ bkz nabıyonuz lan nekrofili ibneler
 https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/&w=bg bkz ölü
 https://www.uludagsozluk.com/e/43289150/ zuahhahaha
