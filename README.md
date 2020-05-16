@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz grup vitamin vs şempanze boku
 bkz şurp gibiyim şurrup turup gibiyip turumpppppppppp
 https://www.uludagsozluk.com/k/herkesin-kocas%C4%B1n%C4%B1n-olmas%C4%B1/ 
 https://www.uludagsozluk.com/ bkz nabıyonuz lan ibneler
