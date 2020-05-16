@@ -4,6 +4,7 @@
 <!-- 
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum evlat hiç düşünmedim bunu
 -->
 
 ![Image](wiccanyear.png)
