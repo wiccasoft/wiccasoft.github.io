@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz çatlasanız da patlasanız da corona ananızı sikecek oç ları
+bkz çatlasanız da patlasanız da corona ananızı sikecek aşağılık oç ları
 bkz dünyanın en aşağılık mahlukatlarının yaşadığı malum ülke
 bkz dedesi köyde eşek siken milletin kenndini asil sanması
 https://www.uludagsozluk.com/k/nutuk/&w=bg bkz damarlarınızdaki asil kan
