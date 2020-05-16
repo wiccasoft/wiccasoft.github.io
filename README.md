@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ölü sevici pefofil miydi nekrofil miydi sorundalı
 https://www.uludagsozluk.com/k/ihsan-y%C3%BCce/&w=bg bkz pedofil
 https://www.uludagsozluk.com/e/43289150/ zuahhahaha
 bkz grup vitamin vs şempanze boku
