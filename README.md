@@ -2,7 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz 3. sayfa haberlerini paylaşıp ahlak bekçiliği yapanların sanki biraz şey olması
+bkz 3. sayfa tecavüz haberi aramayı çıktım gelecem dükkanı kapamayın bilader
 bkz pedofili avcısı nekrofiller
 bkz siliviri püfür püfür serindir şimdi
 bkz erdoğana hakaret edip silivride serin serin oturma keyfi
