@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz ilber ortaçgil celel gılıştargör dosluğu
 bkz kuzey anadolu gay hattı kırılırsa karadenizliler napacak sorundalı
 https://www.uludagsozluk.com/k/bradley-cooper/&w=bg bkz gay
 bkz kuzey anadolu gay hattının kırılma ihtimali
