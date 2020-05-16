@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz deniz gemişin parkası vs peygameber edendinin sakalı şerifi
 bkz alper potuk ali koç aşkı iddaları
 bkz celal gışıştaroğlanın yerim uzun adamın yeridir paylaşımı
 bkz devlet bahçeli gışıştaroğlana sakso çekti yalanı iddaları
