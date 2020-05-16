@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.chp.org.tr/parti-yonetimi/myk-uyeleri bkz gılışatrın myk üyelerini mal mal oturması
 bkz gılıştaroğlanın oğlunun sünnetsiz olduğu iddaları
 bkz gılıştarın koltuğa yabışması
 https://www.chp.org.tr/parti-yonetimi/myk-uyeleri
