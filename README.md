@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6z-k%C4%B1z%C4%B1n%C4%B1-iki-kez-hamile-b%C4%B1rakan-baba/ bkz malum ırk
 https://www.uludagsozluk.com/k/t%C3%BCmamiral-cihat-yayc%C4%B1-n%C4%B1n-g%C3%B6revden-al%C4%B1nmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/ak-parti-hdp-yi-kapatsa-olacaklar/ bkz akp google ı kaparsa olacaklar
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
