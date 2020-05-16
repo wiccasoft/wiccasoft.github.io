@@ -3,7 +3,7 @@
 
 <!-- 
 bkz gaga bulutun kamalcılara yahudi demesi
-bkz gaga bulutun paylaştığı türkler aşkenazi yahudi soyundan paylaşımı
+bkz gaga bulutun paylaştığı türkler aşkenazi yahudi imalı paylaşımı
 https://www.pinterest.com/wiccasoft/pins/
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
 bkz enes abinin gaga buluta verdiği efso ayar
