@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/&w=bg bkz kürt lütfen
-https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg adam kürtçü beyler -->
+https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg adam kürtçü oç beyler -->
 
 ![Image](wiccanyear.png)
 
