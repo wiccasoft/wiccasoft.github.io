@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz dünyanın en aşağılık milleti
+bir bilmecem var çocuklar haydi sor sor oç ları diyince hemen onların adları gelir
 https://www.uludagsozluk.com/k/13-ya%C5%9F%C4%B1ndaki-k%C4%B1z%C4%B1n%C4%B1-hamile-b%C4%B1rakan-baba/&w=bg bkz malum ırk
 bkz çatlasanız da patlasanız da corona ananızı sikecek aşağılık oç ları
 bkz dünyanın en aşağılık mahlukatlarının yaşadığı malum ülke
