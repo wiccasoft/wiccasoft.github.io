@@ -2,6 +2,9 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz gılıştarın koltuğa yabışması
+https://www.chp.org.tr/parti-yonetimi/myk-uyeleri
+https://www.facebook.com/CHP-GENEL-MERKEZ-109953955716872/
 bkz deniz gemişin parkası vs peygameber edendinin sakalı şerifi
 bkz alper potuk ali koç aşkı iddaları
 bkz celal gışıştaroğlanın yerim uzun adamın yeridir paylaşımı
