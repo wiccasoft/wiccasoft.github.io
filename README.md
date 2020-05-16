@@ -3,6 +3,8 @@
 
 <!-- 
 bkz mersinli cihangir vs taksimin renkli siması cenk
+bkz sevda kuşun kandında ömer adam mıdır sorundalı
+https://www.uludagsozluk.com/k/%C3%BClk%C3%BC-ocaklar%C4%B1n%C4%B1n-%C3%BCniversitelerdeki-e%C5%9Fkiyal%C4%B1%C4%9F%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/yard%C4%B1m-kolisini-par%C3%A7alay%C4%B1p-%C3%A7%C3%B6pe-atan-mersinli/
 https://www.uludagsozluk.com/k/og%C3%BCn-samast/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/bebe%C4%9Fim-diyen-erkek/&w=bg hadi hadi bebeğim yala da göreyim
