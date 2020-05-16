@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-geldi%C4%9Finden-beri-felaketlerin-bitmemesi/ bkz amınoğlu
 https://www.uludagsozluk.com/k/selanik-g%C3%B6%C3%A7menleri/&w=bg bkz dedem yüzerek gelmiş rahmetli
 https://www.uludagsozluk.com/k/adam-denilince-akla-gelen-ilk-ki%C5%9Fi/&w=bg bkz adam levine, hz adem
 https://www.uludagsozluk.com/k/kelebek-d%C3%B6vmesi-yapt%C4%B1ran-erkek/&w=gd bkz at yarrağıyım demenin yolları
