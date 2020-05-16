@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+bkz tayyip damada peniz yüzüğünü azıyla takıyor iddaları
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BC-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/&w=bg bkz kürt lütfen
