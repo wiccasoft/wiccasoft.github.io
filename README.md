@@ -2,7 +2,8 @@
 ![Image](brexit.png)
 
 <!-- 
-bkz yılmz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
+bkz yılmaz erdoğan cem yılmaz dosluğu
+bkz yılmaz özdil yılmaz morgül yılmaz güneyin kürt olduğu iddaları
 bkz uğur dündarın can dündarı evlatlıktan reddetmesi
 bkz hz muhammedin mekkeli müşrikleri sikertmesi
 https://www.uludagsozluk.com/k/hz-ay%C5%9Fe-denince-akla-gelenler/ bkz hz muhammedin 3. karısı
