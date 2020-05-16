@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!--
+https://www.uludagsozluk.com/k/misafir-gelince-odas%C4%B1ndan-%C3%A7%C4%B1kmayan-tip/&w=bg bkz enes abi
 bkz haayllerde yaşayan ibneler diyince kamalcıların akla gelmesi
 https://www.uludagsozluk.com/k/sakal%C4%B1-olmayan-erkeklerin-%C5%9Fak%C4%B1r-%C5%9Fak%C4%B1r-vurdurmas%C4%B1/
 https://www.uludagsozluk.com/k/kemalizm/&w=bg bkz anan kimdi bilemezdin şerefsizim
