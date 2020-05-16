@@ -3,6 +3,8 @@
 
 <!--
 bkz ekşici veletlerin firmamı gaga bulut sanması
+bkz atacücük olmasaydı anan kimdi bilemezdin diyen ekşici veleti tokatlayıp entry girdirmek
+https://www.uludagsozluk.com/k/atat%C3%BCrk-olmasayd%C4%B1-ile-ba%C5%9Flayan-masallar/ bkz anan kimdi bilemezdin şerefsiz
 https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
