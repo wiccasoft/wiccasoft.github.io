@@ -2,6 +2,7 @@
 ![Image](brexit.png)
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz gaga bulutun türkler aşkenazi yahudi iddası
 https://www.uludagsozluk.com/e/43341516/ bkz rupert murdoch türk mü gerizekalı oç
 bkz enes abici atacücücü ekşiciler vs gaga bulutçu kürtçü inciciler
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-20-%C3%A7ocuk-yapma-nedeni/&w=bg bkz oç olmaları
