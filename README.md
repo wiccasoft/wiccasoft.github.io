@@ -1,8 +1,11 @@
 
 ![Image](brexit.png)
 
-<!-- https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader-->
-,
+<!-- 
+https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
+https://eksisozluk.com/alex-de-souza-vs-gheorghe-hagi--2159708?a=popular bkz hagi siker hacı
+-->
+
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
