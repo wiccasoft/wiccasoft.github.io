@@ -1,7 +1,7 @@
 
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
-<!-- https://tahir33.uludagsozluk.com/ bkz solcuları sikerten kurt -->
+<!-- https://tahir33.uludagsozluk.com/ bkz solcuları sikerten kurt aferim kuçu  -->
 
 ![Image](wiccanyear.png)
 
