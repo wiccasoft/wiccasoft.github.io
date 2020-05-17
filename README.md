@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!-- 
+https://www.uludagsozluk.com/k/perinçek-in-40-yıldır-değişmeyen-siyasi-çizgisi/
 https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
 https://eksisozluk.com/gaga-bulutun-cezaevinden-gonderdigi-ses-kaydi--6521924?a=popular bkz şifreli darbe iması
 https://eksisozluk.com/cuneyt-ozdemir--83497?a=popular bkz hem yakışıklı hem esprili türk
