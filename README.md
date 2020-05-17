@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
 <!--
+bkz ahlak bekçiliği maaşları
 bkz akp nin ahlak bekçilerini salması
 bkz kaynanasını götten sikip size ne lan diyen adam
 bkz kızını götten sikip ekşicileri de böyle sikecem diyen baba
