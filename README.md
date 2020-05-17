@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260),
 
 <!-- 
-bkz hoşlaşılan dayının baldız baldan datlıdır yieğnim gel seni de böle sikem demesi
+bkz hoşlaşılan dayının baldız baldan datlıdır yiğenim gel seni de böle sikem demesi
 bkz hoşlaşılan dayının baldızını sikerken görmek
 bkz hoşlaşılan damadı kaynanam olurmusun da görmek
 bkz seyfo dayının baba yiğit bi dayıya benzmesi
