@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=9P18cC9Am_s)
 
 <!--
-bkz gece gece akal gelen yiğdionun sabah azdırması amk
+bkz gece gece akla gelen yiğidonun sabah azdırması amk evet
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece terleten yiğido
 https://www.uludagsozluk.com/e/43346216/ olduk be bilader napacan götü kollayacan evet
 https://www.uludagsozluk.com/e/43345776/ eywallah bro 42 yaşındayım zaten
