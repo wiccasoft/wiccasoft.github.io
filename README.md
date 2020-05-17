@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
 <!--
+bkz 3. sayfa haberlerini yorumlama işi
 bkz ahlak bekçiliği 
 bkz ahlak bekçiliği maaşları yatmamış diyen ekşici
 bkz baldızını sikerken ekşcilere yakalanan adam
