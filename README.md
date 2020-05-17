@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz de bahem wiccasoft gışdarın mı atakuşbeyinlinin mi
 bkz wiccasoftu atacücü kurdu defol diyen ergen
 bkz wiccasoft gışdarın partisi değildir -mka
 bkz millet hizmet beklerken gışdarın osura osura uyuması
