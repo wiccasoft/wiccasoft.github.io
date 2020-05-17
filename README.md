@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+bkz imamaoğlanın babasının oğlanı yollim arka odada oynayın az demesi
 https://oytunkaran.uludagsozluk.com bkz fenevbaçe maskotu evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlan ona hep oçe der o güler geçer öyle bi oçe dir
 https://modern-zaman-filozofu.uludagsozluk.com/ bkz gece gece perinçekin çızgısına ıslanan filozok
