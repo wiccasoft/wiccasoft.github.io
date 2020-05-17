@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+bkz pppk bitecek diye çıldıran ppklı
 https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg bkz yutüp kanalına abone olmayan fenerliler
 bkz imamaoğlanın babasının oğlanı yollim arka odada oynayın az demesi
 https://oytunkaran.uludagsozluk.com bkz fenevbaçe maskotu evet
