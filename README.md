@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz kelam kıçoğlanın oğlunun askerliği bedelli yapmasına ses etmeyen akitler
 bkz kemal kılçoğlunun ortalarda görükmemesi sorundalı
 bkz kemal kılıçoğlu vs osman gökçek 
 bkz siyasi polemiğine girmem diyen siyasi erkek
