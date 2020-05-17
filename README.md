@@ -1,7 +1,10 @@
 
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260),
 
-<!-- https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/ -->
+<!-- 
+https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/ 
+https://www.uludagsozluk.com/k/13-ya%C5%9F%C4%B1ndaki-k%C4%B1z%C4%B1n%C4%B1-hamile-b%C4%B1rakan-baba/&w=bg
+-->
 
 ![Image](wiccanyear.png)
 
