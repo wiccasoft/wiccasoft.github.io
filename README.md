@@ -2,7 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-vkz türklerin kel deyince hemen johny sins mi abi demeleri
+bkz abime johns sins çekeyim
+bkz türklerin kel deyince hemen johny sins mi abi demeleri
 bkz dandy d nin penisine isim önerileri
 bkz brazerstaki ulucu tabici siken kelin adı neydi
 https://www.uludagsozluk.com/k/teletabiler-adam-m%C4%B1d%C4%B1r/&w=bg bkz adamsınız ben kefilim gerizekalı oç
