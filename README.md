@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz hadi kızlar bilimsel entry girin de okuyak
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-k%C4%B1zlar%C4%B1n%C4%B1n-bilimsel-entry-girememesi/&w=bg
 bkz türklerin hagi ve alex dışında uzman olduğu konular ne sorunsalı
 https://www.uludagsozluk.com/k/bilimsel-entry-vs-magazinsel-entry/ bkz hagi vs alex
