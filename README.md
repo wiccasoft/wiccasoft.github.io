@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz bilader ordan iki kahve çek abilere
+https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 bkz sen izle bilader
 bkz hep beraber izleyelim efenim
 bkz akit tv de pedofili izleyelim
