@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260),
 
 <!-- 
+bkz ali sunalın oç olduğu iddaları sorundalı
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz imamaoğlanın zall ona hep oçe dere küsmesi
 https://www.uludagsozluk.com/k/vahdettin-in-papa-heykeli-dikmesi/ bkzdeep webin deepsiz çukuru
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-yadigar-ejder-in-%C3%B6l%C3%BCm%C3%BCne-yol-a%C3%A7mas%C4%B1/&w=bg bkz oç ali sunal -->
