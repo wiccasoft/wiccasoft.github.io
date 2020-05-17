@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz gışdarın chp ye yabışması 
 bkz atacücüke laf etme sebepsiz ananı sikerun şerefsiz
 bkz atacücünün xiomi yi türk gençliğine  armağan etmesi
 bkz wiccasoft gışdarın partisi değildir -mka
