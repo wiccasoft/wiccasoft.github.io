@@ -1,7 +1,9 @@
 
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
+<!-- https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=gd bkz türklükten aldığı tadı başka bişeyden alamamak -->
 ![Image](wiccanyear.png)
+
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
 
