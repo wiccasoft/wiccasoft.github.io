@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!-- 
+https://www.uludagsozluk.com/k/chp-gen%C3%A7lik-ba%C5%9Fkan%C4%B1n%C4%B1n-vefa-grubuna-sald%C4%B1rmas%C4%B1/
 https://www.uludagsozluk.com/k/ajdar-an%C4%B1k/&w=bg
 https://www.uludagsozluk.com/k/halk-tv-nin-tunceli-ye-dersim-demesi/&w=gd
 https://www.uludagsozluk.com/k/osman-%C3%B6calan%C4%B1-trt-ye-%C3%A7%C4%B1karmak/
