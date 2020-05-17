@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!-- 
+https://eksisozluk.com/cuneyt-ozdemir--83497?a=popular bkz hem yakışıklı hem esprili türk
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
 https://eksisozluk.com/abddeki-evlilik-programina-konuk-olan-turk--6522673?a=popular bkz türk oğlu türk -->
 
