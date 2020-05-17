@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=9P18cC9Am_s)
 
 <!--
+bkz sabah sabah yusuf yerkel bde beni seviyomudur diye kahvaltı hazırlamak
 bkz sabah sabah yusuf yerkel nabıyodur şimdi diye ter içinde uynamak
 bkz gece gece akla gelen yiğidonun sabah azdırması amk evet
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece terleten yiğido
