@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz celal gılıçoğlanın yerim uzun adamın uzunkürekin  yanıdır paylaşımı
 bkz millet hizmet beklerken çakma chpli gılışdarolanın osura osura uyuması
 https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-%C3%A7akma-chp-li-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
