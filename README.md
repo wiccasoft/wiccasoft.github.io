@@ -2,6 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/kocaelispor-un-4-att%C4%B1%C4%9F%C4%B1-arsenal-i-yenip-%C3%B6v%C3%BCnmek/
+https://www.uludagsozluk.com/k/20-senedir-uefa-kupas%C4%B1yla-%C3%B6v%C3%BCnen-tak%C4%B1m/&w=bg
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi siker bilader
 https://www.uludagsozluk.com/k/donk-falcao-onyekuru-%C3%BC%C3%A7l%C3%BCs%C3%BC/ çok tehlikeli siker kankağ
 bkz ak parti google ı kapatırsa duckduckgo ya takılıyoruz
