@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+https://ulusalci-yazar.uludagsozluk.com/ bkz kürtçüleri kudurtan yüce önder
+https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-a%C4%9Fz%C4%B1ndan-salyalar-ak%C4%B1yor/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 bkz hayallerde yaşayanları gerçeklerle sikerler 
 bkz evlat olsa sevilmeyecek ibnelerin ıslak rüyaları
