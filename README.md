@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.youtube.com/watch?v=NdW_PLmPPAk adam olun oçları
 https://www.youtube.com/watch?v=agNEuSy1aqA
 bkz geceye siyasi çızgılı erkek bırakacam yalamayın lan orospular
 bkz erkekleri versusluyok kampanyası
