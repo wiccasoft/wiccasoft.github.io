@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/&w=bg
 https://www.uludagsozluk.com/k/y%C3%BCksek-sesle-enes-batur-dolunay-dinleyen-kom%C5%9Fu/
 https://www.uludagsozluk.com/k/chp-gen%C3%A7lik-ba%C5%9Fkan%C4%B1n%C4%B1n-vefa-grubuna-sald%C4%B1rmas%C4%B1/
