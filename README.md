@@ -12,22 +12,9 @@ bkz erdoğanın 30 yıldır değişmeyen milli görüş gömleği
 bkz perinçekin 40 yıldır değişmeyen siyasi duruşu
 bkz kelam kıçoğlanın oğlunun askerliği bedelli yapmasına ses etmeyen akitler
 bkz kemal kılçoğlunun ortalarda görükmemesi sorundalı
-bkz kemal kılıçoğlu vs osman gökçek 
-bkz siyasi polemiğine girmem diyen siyasi erkek
-bkz siyasi çızgım 18 cm işine gelirise diyen erkek
-bkz siyasi çızgımı kaldırdın diyen siyahi erkek
-bkz siyasi çızgıma dokandarmam diyen erkek
-bkz bir erkeği siyasi çızgısına göre değerlendirmek
-bkz ali babacna vs davutloğlanın siyasi çızgısı
-bkz ali babacanın ben sizin babanızım demesi
-bkz osman gökçekin siyasi çızgısı vs mansur yavşakın siyasi çizgısı
-bkz kılıçoğlanın siyasi çizgısı vs perinçekin siyasi çızgısı
-bkz perinçekin 40 yıllık siyasi çizgimi bozmam demesi
-bkz perinçekin 40 yıllık siyasi çizgim var demesi
-bkz perinçekin 40 yıldır değişmeyen siyasi çızgısı
 https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/
 bkz gece akla gelen adamın sabah ıslatması
-bkz gece gece akla gelen adamlar orucu boar mı sorundalı
+bkz gece gece akla gelen adamlar orucu bozar mı sorundalı
 bkz erdoğanın milli görüş gömleğini giydim demesi
 https://www.uludagsozluk.com/k/bal%C4%B1k-ayhan/&w=bg sabah sabah akla gelen göbüğü ısıralası
 bkz erdoğanın mill görüş gömleğini koklamak
