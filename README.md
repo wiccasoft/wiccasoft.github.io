@@ -4,6 +4,7 @@
 <!-- 
 bkz gışdarın chp ye yabışması 
 bkz atacücüke laf etme sebepsiz ananı sikerun şerefsiz
+bkz ercüment ovalının dornaz alfayı türk gençliğe armağan etmesi
 bkz atacücünün xiomi yi türk gençliğine armağan etmesi
 bkz millet hizmet beklerken gışdarın osura osura uyuması
 bkz her türlü boku yiyip türklüğü yüceltebilirsiniz - mka
