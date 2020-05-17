@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+bkz ekşcilerin çok üstün zekalı olma sebepleri
 bkz deep webe girince yükselen 30 iq seviye point
 bkz pppk bitecek diye çıldıran ppklı
 https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg bkz yutüp kanalına abone olmayan fenerliler
