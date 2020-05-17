@@ -7,6 +7,7 @@ https://eksisozluk.com/17-mayis-2020-hakan-sukurun-attigi-tweet--6523042?a=popul
 bkz ak parti kürtçülerin annesini beyaza boyarsa seyreyle gümbürtüyü bilader
 bkz ak parti laikçi oçlerin annesine darbe yaparsa olacaklar
 bkz ak parti fenerbaceye el koyarsa cinconluların kuduracak olması
+https://eksisozluk.com/oz-kizini-iki-defa-hamile-birakan-adam--6521882?a=popular bkz bilezik gibi geçirmek
 https://www.uludagsozluk.com/k/kocaelispor-un-4-att%C4%B1%C4%9F%C4%B1-arsenal-i-yenip-%C3%B6v%C3%BCnmek/
 https://www.uludagsozluk.com/k/20-senedir-uefa-kupas%C4%B1yla-%C3%B6v%C3%BCnen-tak%C4%B1m/&w=bg
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 hagi siker bilader
