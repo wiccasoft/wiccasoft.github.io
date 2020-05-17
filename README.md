@@ -2,6 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ak parti google ı kapatırsa olacaklar
+https://www.uludagsozluk.com/k/ak-parti-hdp-yi-kapatsa-olacaklar/&w=gd
 bkz camiye at soktular atttttttt işediler başörtülü bacılarımın üstüne
 bkz cehabe zihniyetininin tezahürü yurdum cefak vadanıma müsdahak mı la bu
 bkz ülkücüleri toplayıp chpli dövmenin zamnın gelmesi
