@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz melonun yine fenevi trollemesi
 bkz alex in cincona süt kupası demesi
 bkz bizimkiler dunkof halis vs aile şerefi piç oktay
 bkz abime johns sins çekeyim üstüne şokomell sıcakta yalarsınız abisi
