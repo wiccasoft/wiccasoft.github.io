@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz dandy d nin penisine isim önerileri
 https://www.uludagsozluk.com/k/teletabiler-adam-m%C4%B1d%C4%B1r/&w=bg bkz adamsınız ben kefilim gerizekalı oç
 https://www.uludagsozluk.com bkz 5 yaşındaki yiğenime göstersem şu siteyi gerizekalı bunlar der
 https://www.uludagsozluk.com/k/%C3%A7ok-tatl%C4%B1-olman%C4%B1n-zorluklar%C4%B1/&w=bg bkz tatliş ibneler
