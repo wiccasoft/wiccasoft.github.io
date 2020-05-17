@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+bkz ulucauların ekşicileren 100 iq point daha zeki olması
 bkz ekşcilerin çok üstün zekalı olma sebepleri
 bkz deep webe girince yükselen 30 iq seviye point
 bkz pppk bitecek diye çıldıran ppklı
