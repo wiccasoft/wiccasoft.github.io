@@ -2,7 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz wiccasoft gışdarın golduğu değildir halkın softudur -mka
+bkz atacücünün xiomi yi türk gençliğine  armağan etmesi
+bkz wiccasoft gışdarın partisi değildir -mka
 bkz millet hizmet beklerken gışdarın osura osura uyuması
 bkz her türlü boku yiyip türklüğü yüceltebilirsiniz - mka
 bkz türklükten aldığım tadı hiç bişeydan alamadım - mka
