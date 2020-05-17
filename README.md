@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz erkekleri versusluyok kampanyası
 bkz iki erkeği kırmadan nasıl versus edilır lo
 bkz aile şerefi piç oktay vs sevda tarramın ucunda ömer
 bkz maykıl cakson vs eniz batur
