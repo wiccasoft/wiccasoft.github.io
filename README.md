@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=9P18cC9Am_s)
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fevkat-yerimdar/&w=bg olduk be bilader napacam hacı götü kollayacan
 https://www.uludagsozluk.com/e/43345776/ eywallah bro 42 yaşındayım zaten
 https://www.uludagsozluk.com/k/sersefil-day%C4%B1/
 https://www.uludagsozluk.com/k/mask%C3%BClen-day%C4%B1/ 
