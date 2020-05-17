@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/&w=bg
