@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!-- 
+https://www.uludagsozluk.com/k/ajdar-an%C4%B1k/&w=bg
 https://www.uludagsozluk.com/k/halk-tv-nin-tunceli-ye-dersim-demesi/&w=gd
 https://www.uludagsozluk.com/k/osman-%C3%B6calan%C4%B1-trt-ye-%C3%A7%C4%B1karmak/
 https://www.uludagsozluk.com/k/perinçek-in-40-yıldır-değişmeyen-siyasi-çizgisi/
