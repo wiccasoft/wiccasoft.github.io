@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ali babacanın yaşında rağmen hala dinç olması
 bkz ali babacanın babcan tavırlarının gece gece delirtmesi
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg
 bkz perinçekin 40 yıldır değişmeyen çızgısı vs celal kılıçoğaln
