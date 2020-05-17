@@ -4,7 +4,7 @@
 <!--
 bkz jazz dinleyip viski yudumlarken, çekilmeyen çomarlar
 bkz 3.sayfa gazete haberi paylaşan çomar zekası
-https://www.uludagsozluk.com/k/malatyada-alevi-ailenin-evinin-ta%C5%9Flanmas%C4%B1/&w=bg oç malatyalılar
+https://www.uludagsozluk.com/k/insanlar-%C3%BCremeyi-b%C4%B1raksa-50-seneye-her-%C5%9Fey-%C3%A7%C3%B6z%C3%BCl%C3%BCr/
 https://www.uludagsozluk.com/k/halk-tv-nin-tunceli-ye-dersim-demesi/&w=bg bkz oç kürtler
 https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg bkz yutüp kanalına abone olmayan fenerliler
 bkz imamaoğlanın babasının oğlanı yollim arka odada oynayın az demesi
