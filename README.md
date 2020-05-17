@@ -16,7 +16,7 @@ bkz sabah sabah yusuf yerkel nabıyodur şimdi diye ter içinde uynamak
 bkz gece gece akla gelen yiğidonun sabah azdırması amk evet
 https://eksisozluk.com/yusuf-yerkel--4981386?a=popular gece gece terleten yiğido
 https://www.uludagsozluk.com/e/43346216/ olduk be bilader napacan götü kollayacan evet
-https://www.uludagsozluk.com/e/43345776/ eywallah bro 42 yaşındayım zaten
+https://www.uludagsozluk.com/e/43345776/ eywallah bro 42 yaşındayım zaten de ben perinçek değilim bu arada :))
 https://www.uludagsozluk.com/k/sersefil-day%C4%B1/
 https://www.uludagsozluk.com/k/mask%C3%BClen-day%C4%B1/ 
 https://www.uludagsozluk.com/k/mucize-doktor-ali-vefa/&w=bg
