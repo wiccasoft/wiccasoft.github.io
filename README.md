@@ -3,6 +3,7 @@
 
 <!--
 bkz şimdi ananı laciverde boyadım cinconlu
+https://eksisozluk.com/17-mayis-2020-hakan-sukurun-attigi-tweet--6523042?a=popular bkz bilezik gibi geçirmek
 bkz ak parti kürtçülerin annesini beyaza boyarsa seyreyle gümbürtüyü bilader
 bkz ak parti laikçi oçlerin annesine darbe yaparsa olacaklar
 bkz ak parti fenerbaceye el koyarsa cinconluların kuduracak olması
