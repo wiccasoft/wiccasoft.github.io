@@ -1,6 +1,8 @@
 
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
+<!-- https://eksisozluk.com/abddeki-evlilik-programina-konuk-olan-turk--6522673?a=popular bkz türk oğlu türk -->
+
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.commedia/downloads/teaser_ce_buendchen.pdf)
