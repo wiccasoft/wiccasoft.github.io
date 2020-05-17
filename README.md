@@ -3,7 +3,6 @@
 
 <!--
 bkz aile şerefi piç oktay vs sevda tarramın ucunda ömer
-bkz maykıl cakson vs mansur yavaş
 bkz maykıl cakson vs eniz batur
 https://www.uludagsozluk.com/k/michael-jackson-vs-justin-bieber/&w=bg
 bkz erdoğanın 30 yıldır değişmeyen milli görüş gömleği
