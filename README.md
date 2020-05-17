@@ -5,7 +5,6 @@
 bkz abime johns sins çekeyim
 bkz türklerin kel deyince hemen johny sins mi abi demeleri
 bkz dandy d nin penisine isim önerileri
-bkz brazerstaki ulucu tabici siken kelin adı neydi
 https://www.uludagsozluk.com/k/teletabiler-adam-m%C4%B1d%C4%B1r/&w=bg bkz adamsınız ben kefilim gerizekalı oç
 https://www.uludagsozluk.com bkz 5 yaşındaki yiğenime göstersem şu siteyi gerizekalı bunlar der
 https://www.uludagsozluk.com/k/%C3%A7ok-tatl%C4%B1-olman%C4%B1n-zorluklar%C4%B1/&w=bg bkz tatliş ibneler
