@@ -5,7 +5,9 @@
 https://www.uludagsozluk.com/k/sersefil-day%C4%B1/
 https://www.uludagsozluk.com/k/mask%C3%BClen-day%C4%B1/ 
 https://www.uludagsozluk.com/k/mucize-doktor-ali-vefa/&w=bg
-https://www.uludagsozluk.com/k/altar-%C4%B1n-o%C4%9Flu-tarkan-vs-vumar-%C4%B1n-o%C4%9Flu-timar/ -->
+https://www.uludagsozluk.com/k/altar-%C4%B1n-o%C4%9Flu-tarkan-vs-vumar-%C4%B1n-o%C4%9Flu-timar/
+https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/&w=gd
+-->
 
 ![Image](wiccanyear.png)
 
