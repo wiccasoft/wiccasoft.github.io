@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz gece gece akla gelen adamlar orucu boar mı sorundalı
 bkz erdoğanın milli görüş gömleğini giydim demesi
 https://www.uludagsozluk.com/k/bal%C4%B1k-ayhan/&w=bg sabah sabah akla gelen göbüğü ısıralası
 bkz erdoğanın mill görüş gömleğini koklamak
