@@ -1,7 +1,8 @@
 
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
-<!--
+<!--,
+bkz mansur yavaşal hızlı bir gece vs imamoğlanla romantik bir gece
 bkz ali babacanın yaşında rağmen hala dinç olması
 bkz ali babacanın babcan tavırlarının gece gece delirtmesi
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg
