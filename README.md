@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz siyasi polemiğine girmem diyen siyasi erkek
 bkz siyasi çızgım 18 cm işine gelirise diyen erkek
 bkz siyasi çızgımı kaldırdın diyen siyahi erkek
 bkz siyasi çızgıma dokandarmam diyen erkek
