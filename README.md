@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz türklerin hagi ve alex dışında uzman olduğu konular ne sorunsalı
 https://www.uludagsozluk.com/k/bilimsel-entry-vs-magazinsel-entry/ bkz hagi vs alex
 bkz kamalıstların hagi mi alex mi döngüsü
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
