@@ -1,7 +1,11 @@
 
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
-<!-- https://www.uludagsozluk.com/k/nadira-kadirova/&w=gd bkz münnevver karabulut cinayeti sır perdesi -->
+<!--
+bkz irdelenmesi gereken isimler pedofili nekrofili cinayetler sır perdeleri olması
+https://www.uludagsozluk.com/k/murat-a%C4%9F%C4%B1rel-bar%C4%B1%C5%9F-pehlivan-bar%C4%B1%C5%9F-terko%C4%9Flu/&w=bg
+https://www.uludagsozluk.com/k/nadira-kadirova/&w=gd bkz münnevver karabulut cinayeti sır perdesi -->
+
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
