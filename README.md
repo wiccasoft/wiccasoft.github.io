@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/&w=bg bkz pedofili türklüğün yadıdır -mka
 bkz türklükten aldığım tadı hiç bişeydan alamadım - mustafa atatürk
 bkz türkler dünyanın en asil ırkıdır - mustafa kamak atatürk 
 bkz türklük sonu olmayan asilliktir - mustafa atatürk
