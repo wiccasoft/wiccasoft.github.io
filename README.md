@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260),
 
 <!-- 
+bkz millet hizmet beklerken kknın osura osura uyuması
 bkz gece gece akla doğu perinçekin siyasi ve kalın çızgısı gelmesi
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-tecav%C3%BCz-edip-engelli-birine-y%C4%B1kan-baba/ bkz akıllı adam
 https://www.uludagsozluk.com/k/zall-bana-hep-abi-der/&w=bg bkz kürtçü oç larını kudurtan yiğido
