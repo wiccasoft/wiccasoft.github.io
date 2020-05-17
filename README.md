@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ak parti kürtçülerin annesini beyaza boyarsa seyreyle gümbürtüyü bilader
 bkz ak parti laikçi oçlerin annesine darbe yaparsa olacaklar
 bkz ak parti fenerbaceye el koyarsa cinconluların kuduracak olması
 https://www.uludagsozluk.com/k/kocaelispor-un-4-att%C4%B1%C4%9F%C4%B1-arsenal-i-yenip-%C3%B6v%C3%BCnmek/
