@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz sen izle bilader
 bkz hep beraber izleyelim efenim
 bkz akit tv de pedofili izleyelim
 bkz atacücük mü hagi mi alex mi
