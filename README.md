@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
 <!--
+bkz musata amık doğana entry girekene ciddileşmek
 bkz ölülere entry girerekene heycanlanmak nekrofili olmak
 bkz müge amlı vs tangır budundan doğan
 bkz bünevver karabulutun cem gafamı gestiyse benimkini kesti size ne demesi
