@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=9P18cC9Am_s)
 
 <!--
+https://www.uludagsozluk.com/k/sersefil-day%C4%B1/
+https://www.uludagsozluk.com/k/mask%C3%BClen-day%C4%B1/ 
 https://www.uludagsozluk.com/k/mucize-doktor-ali-vefa/&w=bg
 https://www.uludagsozluk.com/k/altar-%C4%B1n-o%C4%9Flu-tarkan-vs-vumar-%C4%B1n-o%C4%9Flu-timar/ -->
 
