@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz kamal kılıçoğlanın dersimin hesabını vermemesi
 bkz kamal kılıçdaroğalnın oğlunun da alevi olması
 bkz şimdi ananı laciverde boyadım cinconlu
 bkz renge değil kana bakar bayyyyyy kamal 
