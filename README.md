@@ -10,7 +10,9 @@ https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine
 https://eksisozluk.com/gaga-bulutun-cezaevinden-gonderdigi-ses-kaydi--6521924?a=popular 
 https://eksisozluk.com/cuneyt-ozdemir--83497?a=popular bkz kalemi pak alnı ak yiğido
 https://eksisozluk.com/osmanliyi-sahiplenmeyen-turk--5507750?a=popular bkz oç
-https://eksisozluk.com/abddeki-evlilik-programina-konuk-olan-turk--6522673?a=popular bkz osmanlı torunu -->
+https://eksisozluk.com/abddeki-evlilik-programina-konuk-olan-turk--6522673?a=popular bkz osmanlı torunu 
+https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/&w=bg
+-->
 
 ![Image](wiccanyear.png)
 
