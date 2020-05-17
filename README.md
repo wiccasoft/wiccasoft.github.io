@@ -3,7 +3,7 @@
 
 <!--
 bkz ahlak bekçiliği maaşları
-bkz akp nin ahlak bekçilerini salması
+bkz karısının götten sikip size ne lan diyen ahlaksız adam
 bkz kaynanasını götten sikip size ne lan diyen adam
 bkz kızını götten sikip ekşicileri de böyle sikecem diyen baba
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-tecav%C3%BCz-edip-engelli-birine-y%C4%B1kan-baba/
