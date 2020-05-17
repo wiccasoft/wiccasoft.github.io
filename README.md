@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
-https://oytunkaran.uludagsozluk.com bkz fenevbavçe maskotu evet
+https://oytunkaran.uludagsozluk.com bkz fenevbaçe maskotu evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlan ona hep oçe der o güler geçer
 https://modern-zaman-filozofu.uludagsozluk.com/ bkz gece gece ıslanan filozok
 https://tahir33.uludagsozluk.com bkz solcuları kudurtan tam bir atıl kurt
