@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz kamal kılıççıoğlanın son açıklamalarıyla iyice saçmalaması 
 bkz millet hizmet beklerken kamal kılıççıooğlanın uyuması
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimli terörist
 bkz reisin kamalı ayar manyaa yapması
