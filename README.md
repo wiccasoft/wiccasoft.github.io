@@ -9,7 +9,9 @@ bkz muhtaç olduğun pedofili nekrofili her türlü pislik dmarlarındaki asil k
 bkz türklük nekrofili pedofili dinlemez illebet nekrofili kalır - mka
 bkz trafikte yaya görünce gaza basmak üstüne araba sürmek türklüğün yüceliğidir - mka
 https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/&w=bg bkz pedofili türklüğün yadıdır -mka
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=gd bkz türklükten aldığı tadı başka bişeyden alamamak -->
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=gd bkz türklükten aldığı tadı başka bişeyden alamamak
+https://www.uludagsozluk.com/k/oytunkaran-%C4%B1n-yazar-oldu%C4%9Fu-s%C3%B6zl%C3%BCkte-yazmak/&w=bg adam haklı evet
+-->
 
 ![Image](wiccanyear.png)
 
