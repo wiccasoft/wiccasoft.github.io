@@ -3,7 +3,7 @@
 
 <!--
 https://www.youtube.com/watch?v=agNEuSy1aqA
-bkz geceye erkek bırakacam yalamayın lan
+bkz geceye pijamalı erkek bırakacam yalamayın lan
 bkz erkekleri versusluyok kampanyası
 bkz iki erkeği kırmadan nasıl versus edilır lo
 bkz aile şerefi piç oktay vs sevda tarramın ucunda ömer
