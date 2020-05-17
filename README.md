@@ -2,8 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bzk celal kılıçoğlanın yerim uzun adamın yanıdır paylaşımı
-bkz kamal kılıçoğlan istifa etsin ya da biz indiririz atam izindeyiz
+bzk celal kılıçoğlanın yerim uzun adamın necip uzunkürekin yanıdır paylaşımı
 bkz hem kürt hem alevi oç nin atamın partsinde ne işi var lan 
 bkz biri de çıkıp kürdün ne işi var atanın partisinin başında demiyo bilader
 bkz kürt nihat doğanoğlanın kürt kamal kılıçoğlanı savunması
