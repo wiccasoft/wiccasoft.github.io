@@ -3,7 +3,7 @@
 
 <!--
 bkz melonun yine fenevi trollemesi
-bkz alex in cincona süt kupası demesi
+bkz alex in cincon kupasına süt kupası demesi
 bkz bizimkiler dunkof halis vs aile şerefi piç oktay
 bkz abime johns sins çekeyim üstüne şokomell sıcakta yalarsınız abisi
 bkz türklerin kel deyince hemen johny sins mi abi demeleri
