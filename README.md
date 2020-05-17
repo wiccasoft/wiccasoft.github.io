@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 <!--
 bkz ppknin apk yi siklememesi
+bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek&w=gd/6/
 bkz çıldırsanız da akp 1. parti olacak hüloğğğğğğğğğğğğğğ ppk bitecek hüloğğğğğğğğğğğ
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1ld%C4%B1rsan%C4%B1z-da-kudursan%C4%B1z-da-akp-pkk-y%C4%B1-bitirecek/&w=bg
 bkz demirtaş gaga buluta ses kaydı gönderdi tıklağğğğğlapm beylerğğğğğğğğğğ
