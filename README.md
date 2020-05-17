@@ -1,3 +1,4 @@
+[![Image](almanac/Global_Seed_Vault.jpg)](https://www.seedvault.no/)
 
 [![Image](brexit.png)]( https://stackoverflow.com/)
 
