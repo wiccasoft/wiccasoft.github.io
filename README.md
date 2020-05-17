@@ -4,6 +4,7 @@
 <!--
 bkz ahlak bekçiliği maaşları
 bkz babasına sakso çeken kız
+bkz baldız baldan tatlıdır diyen adam
 bkz üyey babasıyla gizli sikişen kızlar
 bkz bütün mahalle tren yaparken izleyen adam
 bkz kaynın götten sikip suçu kayınçosuna atan adam
