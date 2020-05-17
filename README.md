@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ırak şam islam devletiyle ak parti anlaşırsa olacaklar
 bkz ak parti google ı kaparsa duckduckgo nun uçuşa geçeceği gerçeği
 bkz ak parti zdp mdp ittifakını kaparsa olacaklar
 https://www.uludagsozluk.com/k/kocaelispor-un-4-att%C4%B1%C4%9F%C4%B1-arsenal-i-yenip-%C3%B6v%C3%BCnmek/
