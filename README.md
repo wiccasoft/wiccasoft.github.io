@@ -1,11 +1,6 @@
 
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 <!--
-https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg
-bkz demirtaşın imralı heyetiyle görüşmeye hazırım demesi
-bkz demirtaş imralı serin ne güzel dedi
-bkz gaga bulut demirtaşla eşcinsel ilişki yaşadı iddaları tıklağlım
-bkz vahdettin papa heykeline saksoğ çektiğğğğğğğğğğğğğğ tıklağğ yorumlağğğğğğğğ
 bkz demirtaş gaga buluta ses kaydı gönderdi tıklağğğğğlapm beylerğğğğğğğğğğ
 bkz izleyeğlim yorumlyağlımmm beyleğğğğğğğğğğğ kaçmaz bu linkleğğğğğğğğ
 bkz sıcağğğğğğğ 3. sayfa haberleri geldiğğğğ beyleğğğğğğğ sıcağğğğğğğğğğğğğğğğ
