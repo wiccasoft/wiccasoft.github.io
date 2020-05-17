@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
-bkz hayallerde yaşayanları gerçekler sikerler 
+bkz hayallerde yaşayanları gerçeklerle sikerler 
 bkz evlat olsa sevilmeyecek ibnelerin ıslak rüyaları
 bkz ibnlerin kulağına oğlum sevilmiyosunuz lan ibneler diyip kaçmak
 bkz ibnelerin korkunç tipler oldukları gerçeğinin farkında olmamamaları
