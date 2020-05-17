@@ -2,7 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bkz siyasi çızgımı kaldırdın diyen erkek
+bkz siyasi çızgımı kaldırdın diyen siyahi erkek
 bkz siyasi çızgıma dokandarmam diyen erkek
 bkz bir erkeği siyasi çızgısına göre değerlendirmek
 bkz ali babacna vs davutloğlanın siyasi çızgısı
