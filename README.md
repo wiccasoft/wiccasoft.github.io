@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz kılıçoğlanın siyasi çizgısı vs perinçekin siyasi çızgısı
 bkz perinçekin 40 yıllık siyasi çizgimi bozmam demesi
 bkz perinçekin 40 yıllık siyasi çizgim var demesi
 bkz perinçekin 40 yıldır değişmeyen siyasi çızgısı
