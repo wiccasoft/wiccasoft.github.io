@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz şakkadanak reis
 bkz bali babacanın üst akıl olması
 bkz bali babacnın beyin takımını toğlaması
 bkz bali babacanın fenerbaceye balicilerin takımı demesi
