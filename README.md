@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!-- 
+bkz fatih tezcanın fatih terimin kendisine yazdığı mektubu okuması
 https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
