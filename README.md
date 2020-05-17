@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ülkücüleri toplayıp chpli dövmenin zamnın gelmesi
 bkz chpnin hdpppklılarla kaveyi basması
 bkz celal gılıçoğlanın yerim uzun adamın necmi uzunkürekin  yanıdır paylaşımı
 bkz millet hizmet beklerken çakma chpli gılışdarolanın osura osura uyuması
