@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+https://modern-zaman-filozofu.uludagsozluk.com/ bkz gece gece ıslanan filozok
 https://tahir33.uludagsozluk.com bkz solcuları kudurtan tam bir atıl kurt
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz laikçileri kudurtan ak yiğido
 https://ulusalci-yazar.uludagsozluk.com/ bkz kürtçüleri kudurtan yüce önder
