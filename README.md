@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz neyse genşler ben kaçar iyi güldük
 bkz türkler hiç bok üretmeden nasıl yaşıyolar sorundalı
 bkz şakkadanak reis
 bkz bali babacanın üst akıl olması
