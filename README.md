@@ -1,7 +1,7 @@
 [![Image](hive/oath.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 
 
-[![Image](web5.0/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
+[![Image](hive/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
 
 
 [![Image](almanac/Global_Seed_Vault.jpg)](https://www.seedvault.no/)
