@@ -2,7 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
-bkz gaylerin çok boş yapıp  kafa siktiği gerçeği
+bkz partner bulamayan gaylerin saçmalaması
+bkz gaylerin çok boş yapıp kafa siktiği gerçeği
 https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr-e-suikast-d%C3%BCzenlemek/
 bkz oytunkaranın sanki biraz şey olması
 https://www.uludagsozluk.com/k/chp-gen%C3%A7lik-ba%C5%9Fkan%C4%B1n%C4%B1n-vefa-grubuna-sald%C4%B1rmas%C4%B1/
