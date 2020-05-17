@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=9P18cC9Am_s)
 
 <!--
+bkz ihsan yücenin bıyıklarına entry girerkene gerçek kesit sarı bıyıkın akla düşegelmesi
+https://www.uludagsozluk.com/k/ihsan-y%C3%BCce-nin-sigaradan-sararm%C4%B1%C5%9F-b%C4%B1y%C4%B1klar%C4%B1/&w=bg
 bkz sabah sabah yusuf yerkel de beni seviyomudur acaba diye uzaklara dalmak iki entry girmek
 bkz sabah sabah yusuf yerkel nabıyodur şimdi diye ter içinde uynamak
 bkz gece gece akla gelen yiğidonun sabah azdırması amk evet
