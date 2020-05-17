@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/e/43346883/ feridun abi daldın abi
 https://yazar-cizer34.uludagsozluk.com/ bkz entel feridun
 https://www.uludagsozluk.com/k/lord-marcus-amoralist-primeses/&w=gd bkz memet 7 yaşında arkadaşları ona premses diyi
 https://www.uludagsozluk.com/k/nani-nin-fenerbah%C3%A7e-yi-k%C3%BC%C3%A7%C3%BCmsemesi/&w=bg bkz oç nani
