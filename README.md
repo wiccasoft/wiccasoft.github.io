@@ -3,7 +3,7 @@
 
 <!-- 
 bkz türklük çok süper bişidir -mka
-bkz muhtaç olduğun pedofili nekrofili her türlü pislik dmarlarındaki asil kandadadır
+bkz muhtaç olduğun çamur pedofili nekrofili her türlü pislik dmarlarındaki asil kandadır
 bkz türklük nekrofili pedofili dinlemez illebet nekrofili kalır - mka
 https://www.uludagsozluk.com/k/akit-tv-de-pedofili-skandal%C4%B1/&w=bg bkz pedofili türklüğün yadıdır -mka
 bkz türklükten aldığım tadı hiç bişeydan alamadım - mustafa atatürk
