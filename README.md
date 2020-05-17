@@ -1,7 +1,8 @@
 
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-%C3%A7akma-chp-li-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/fatih-istanbul-u-i%C5%9Fgal-etti-diyen-akp-li-bakan/
 bkz fatih tezcanın fatih terimin kendisine yazdığı mektubu okuması
 https://www.uludagsozluk.com/k/fatih-terim-den-20-y%C4%B1l-%C3%B6nceki-kendisine-mektup/
