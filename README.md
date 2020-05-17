@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz perinçek neden topal sorundalı
 bkz perinçekin gece gece düşündürmesi
 bkz garaoğlanıın 54 yıllık siyasi çizgisi vs kılıçoğlanın ssk yı batırması
 bkz perinçekin 40 yıldır dimdik durması
