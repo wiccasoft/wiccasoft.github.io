@@ -2,7 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bkz hem kürt hem alevi oç nin atamın partsiinde ne işi var lan
+bkz hem kürt hem alevi oç nin atamın partsinde ne işi var lan 
+bkz biri de çıkıp kürdün ne işi var atanın partisinin başında demiyo bilader
 bkz kürt nihat doğanoğlanın kürt kamal kılıçoğlanı savunması
 bkz kamal kılıççıoğlanın son açıklamalarıyla iyice saçmalaması 
 bkz millet hizmet beklerken kamal kılıççıooğlanın uyuması
