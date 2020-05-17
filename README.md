@@ -2,7 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bkz bali babacanın fenerlilere balicilerin takımı demesi
+bkz bali babacanın fenerbaceye balicilerin takımı demesi
 bkz melonun yine fenevi trollemesi
 bkz alex in cincon kupasına süt kupası demesi
 bkz bizimkiler dunkof halis vs aile şerefi piç oktay
