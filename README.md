@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz amınoğlu ekrem
 bkz hayallerde yaşayanları gerçeklerle sikerler 
 bkz evlat olsa sevilmeyecek ibnelerin ıslak rüyaları
 bkz ibnlerin kulağına oğlum sevilmiyosunuz lan ibneler diyip kaçmak
