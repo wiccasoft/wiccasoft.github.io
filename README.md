@@ -4,8 +4,7 @@
 <!-- 
 bkz gışdarın chp ye yabışması 
 bkz atacücüke laf etme sebepsiz ananı sikerun şerefsiz
-bkz atacücünün xiomi yi türk gençliğine  armağan etmesi
-bkz wiccasoft gışdarın partisi değildir -mka
+bkz atacücünün xiomi yi türk gençliğine armağan etmesi
 bkz millet hizmet beklerken gışdarın osura osura uyuması
 bkz her türlü boku yiyip türklüğü yüceltebilirsiniz - mka
 bkz türklükten aldığım tadı hiç bişeydan alamadım - mka
