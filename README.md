@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
 <!--
+bkz kaynanasını götten sikip size ne lan diyen adam
 bkz kızını götten sikip ekşicileri de böyle sikecem diyen baba
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-tecav%C3%BCz-edip-engelli-birine-y%C4%B1kan-baba/
 bkz kamalcıların erkek le kadın arasına girme merakı
