@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz bay kamal çok konuşuyosun boş konuşuyosunnnn
 bkz soya değil boyaaaaaaa bakar boyaaaaa boya bay kamallllllllll
 bkz kıştaroğlanın safkan dersimli olmadığı gerçeği
 bkz l-kılştar oğlan handenlığı soyu vs süleyman kıpçak soyu
