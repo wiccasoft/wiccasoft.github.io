@@ -3,6 +3,7 @@
 
 <!--
 bkz ahlak bekçiliği maaşları
+bkz kaynın götten sikip suçu kayınçosuna atan adam
 bkz karısının götten sikip size ne lan diyen ahlaksız adam
 bkz kaynanasını götten sikip size ne lan diyen adam
 bkz kızını götten sikip ekşicileri de böyle sikecem diyen baba
