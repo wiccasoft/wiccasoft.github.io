@@ -2,7 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-bkz maykı cakson vs eniz batur
+bkz maykıl cakson vs mansur yavaş
+bkz maykıl cakson vs eniz batur
 https://www.uludagsozluk.com/k/michael-jackson-vs-justin-bieber/&w=bg
 bkz erdoğanın 30 yıldır değişmeyen milli görüş gömleği
 bkz perinçekin 40 yıldır değişmeyen siyasi duruşu
