@@ -2,7 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
-https://www.uludagsozluk.com bkz 5 yaşındaki yiğenime göstersem gerizaklı lan bunalr der
+https://www.uludagsozluk.com bkz 5 yaşındaki yiğenime göstersem gerizaklı lan bunlar der
 https://www.uludagsozluk.com/k/%C3%A7ok-tatl%C4%B1-olman%C4%B1n-zorluklar%C4%B1/&w=bg bkz tatliş ibneler
 https://lord-marcus-amoralist-primeses.uludagsozluk.com/ bkz zeka yaşı 3.5
 https://www.uludagsozluk.com/k/caillou-%C3%A7izgi-dizisindeki-kel-%C3%A7ocu%C4%9Fun-ad%C4%B1/&w=gd adasdasdadada
