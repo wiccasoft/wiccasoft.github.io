@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz kamalıstların hagi mi alex mi döngüsü
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 bkz kamalıstların küfr etikten sonra futbolculara güzellmeye geçmesi
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg
 bkz gışdarın chp ye yabışması 
