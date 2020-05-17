@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+bkz ibnlerin kulağına oğlum sevilmiyosunuz lan ibneler diyip kaçmak
 bkz ibnelerin korkunç tipler oldukları gerçeğinin farkında olmamamaları
 bkz adana01 dizisine dönen ekşisözlük ve yansanayisi uludağibneleri
 bkz partner bulamayan gaylerin nereye salça olsak la diye saçmalamaları
