@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 
 <!--
-bkz baldızını sikerken ekşcilere yakalana adam
+bkz baldızını sikerken ekşcilere yakalanan adam
 bkz ahlak bekçiliği maaşları
 bkz babasına sakso çeken kız
 bkz baldız baldan tatlıdır diyen adam
