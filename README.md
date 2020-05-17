@@ -2,6 +2,9 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260),
 
 <!-- 
+bkz perinçek niye türkçe bişeyle paylaşmıyor sorundalı
+bkz perinçekin siyasi çızgısı vs kk nın siyası çızgısı 
+bkz perinçekin yalansı bıyıkları ve siyasi çızgıları
 bkz aklgbtnin gece gece aklına geldiği ıslak rüyalar
 bkz hoşlaşılan erkeğin politik çızgısını emmek
 bkz gece gece akla gılışdarın çızgısı gelmesi
