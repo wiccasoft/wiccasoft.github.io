@@ -3,6 +3,7 @@
 
 <!--
 bkz ahlak bekçiliği maaşları
+bkz babasına sakso çeken kız
 bkz bütün mahalle tren yaparken izleyen adam
 bkz kaynın götten sikip suçu kayınçosuna atan adam
 bkz karısının götten sikip size ne lan diyen ahlaksız adam
