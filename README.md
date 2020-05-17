@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
-https://tahir33.uludagsozluk.com bkz solcuları kudurtan kurt
+https://tahir33.uludagsozluk.com bkz solcuları kudurtan tam bir atıl kurt
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz laikçileri kudurtan ak yiğido
 https://ulusalci-yazar.uludagsozluk.com/ bkz kürtçüleri kudurtan yüce önder
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-a%C4%9Fz%C4%B1ndan-salyalar-ak%C4%B1yor/&w=bg
