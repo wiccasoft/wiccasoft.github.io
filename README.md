@@ -2,6 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz perinçekin değişmeyen çızgısı vs celal kılıçoğaln
+https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/&w=gd
 bkz celal kılıçoğlanın ak partiye geçmesi
 bzk celal kılıçoğlanın yerim uzun adamın necip uzunkürekin yanıdır paylaşımı
 bkz hem kürt hem alevi oç nin atamın partsinde ne işi var lan 
