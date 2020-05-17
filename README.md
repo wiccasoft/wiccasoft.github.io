@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/donk-falcao-onyekuru-%C3%BC%C3%A7l%C3%BCs%C3%BC/ çok tehlikeli siker kankağ
 bkz ak parti google ı kapatırsa duckduckgo ya takılıyoruz
 https://www.uludagsozluk.com/k/ak-parti-hdp-yi-kapatsa-olacaklar/&w=gd
 bkz camiye at soktular atttttttt işediler başörtülü bacılarımın üstüne
