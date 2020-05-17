@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ali babacna vs davutloğlanın siyasi çızgısı
 bkz ali babacanın ben sizin babanızım demesi
 bkz osman gökçekin siyasi çızgısı vs mansur yavşakın siyasi çizgısı
 bkz kılıçoğlanın siyasi çizgısı vs perinçekin siyasi çızgısı
