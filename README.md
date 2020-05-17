@@ -2,6 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz l-kılştar oğlan handenlığı soyu vs süleyman kıpçak soyu
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Ftar-%C4%B1-elaz%C4%B1%C4%9Fi-hz/
 bkz nihat doğanın gassaray için karıyı sarı kırmızaya boyarım demesi
 bkz kamal kılıçoğlanın dersimin hesabını vermemesi
 bkz kamal kılıçdaroğalnın oğlunun da alevi olması
