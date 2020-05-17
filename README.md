@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
-bkz adana01 dizisine dönen ekşisözlük
+bkz adana01 dizisine dönen ekşisözlük ve yansanayisi uludağibneleri
 bkz partner bulamayan gaylerin nereye salça olsak la diye saçmalamaları
 bkz gaylerin çok boş yapıp kafa siktiği gerçeği
 https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr-e-suikast-d%C3%BCzenlemek/
