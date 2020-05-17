@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz millet hizmet beklerken gışdarın osura osura uyuması
 bkz her türlü boku yiyip türklüğü yüceltebilirsiniz - mka
 bkz türklükten aldığım tadı hiç bişeydan alamadım - mka
 bkz türklük çok süper bişidir öyle süper bişidir ki her boku yedirtir adama -mka
