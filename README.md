@@ -2,6 +2,8 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz kamalıstların küfr etikten sonra futbolculara güzellmeye geçmesi
+https://www.uludagsozluk.com/k/alex-de-souza/&w=bg
 bkz gışdarın chp ye yabışması 
 bkz atacücüke laf etme sebepsiz ananı sikerun şerefsiz
 bkz ercüment ovalının dornaz alfayı türk gençliğe armağan etmesi
