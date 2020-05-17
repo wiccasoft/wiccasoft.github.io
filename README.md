@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260),
 
 <!-- 
+bkz aklgbtnin gece gece aklına geldiği ıslak rüyalar
 bkz hoşlaşılan erkeğin politik çızgısını emmek
 bkz gece gece akla gılışdarın çızgısı gelmesi
 https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/
