@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
+bkz ekşisözlüğün adana01 dizisine dönmesi
 bkz bilader ordan iki kahve çek abilere
 https://eksisozluk.com/galatasarayin-en-iyi-yaptigi-is--6522549?a=popular bkz kalecileri bilader
 bkz sen izle bilader
