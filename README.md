@@ -1,9 +1,7 @@
 
 [![Image](brexit.png)](https://www.pornhub.com/view_video.php?viewkey=ph5daf2b0666260)
 <!--
-bkz amerikada evlilik programında türk dünyaya bedeldir diyen türk
-bkz amerikada evlilik programında damadın benimki 18 cm dmesi tıklağlım efenim
-bkz izmirde boşanmak istemeyen karısını bıçaklayıp götten siken adam link burda tıklağlaım
+bkz izmirde boşanmak istemeyen karısını bıçaklayıp götten siken türk link burda tıklağlaım
 bzk çorumnda kaynının götüne bisiklet sokan adam tıklayalım link burda
 bkz sakaryada oğlunun pipisini kesen adam link burada izleyelim efenim
 bkz baldızına arkadan dayayıp dayamadım diyen adam izleyelim efenim link burda tıklağ izleğ irdeleğ
