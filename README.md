@@ -2,6 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=agNEuSy1aqA)
 
 <!--
+bkz oytunkaranın sanki biraz şey olması
 https://www.uludagsozluk.com/k/chp-gen%C3%A7lik-ba%C5%9Fkan%C4%B1n%C4%B1n-vefa-grubuna-sald%C4%B1rmas%C4%B1/
 https://www.uludagsozluk.com/k/perin%C3%A7ek-in-40-y%C4%B1ld%C4%B1r-de%C4%9Fi%C5%9Fmeyen-siyasi-%C3%A7izgisi/&w=gd
 https://www.uludagsozluk.com/k/t%C3%BCmamiral-cihat-yayc%C4%B1-n%C4%B1n-g%C3%B6revden-al%C4%B1nmas%C4%B1/&w=gd
