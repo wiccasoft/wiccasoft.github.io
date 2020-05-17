@@ -2,6 +2,8 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/bah%C3%A7elinin-se%C3%A7im-kanunu-de%C4%9Fi%C5%9Fsin-yaygaras%C4%B1/ adam haklı oçları
+https://www.uludagsozluk.com/k/nani-nin-fenerbah%C3%A7e-yi-k%C3%BC%C3%A7%C3%BCmsemesi/&w=bg bkz oç
 https://www.youtube.com/watch?v=NdW_PLmPPAk adam olun oçları
 https://www.youtube.com/watch?v=agNEuSy1aqA
 bkz geceye siyasi çızgılı erkek bırakacam yalamayın lan orospular
