@@ -4,7 +4,7 @@
 <!--
 https://oytunkaran.uludagsozluk.com bkz fenevbaçe maskotu evet
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz imamoğlan ona hep oçe der o güler geçer öyle bi oçe dir
-https://modern-zaman-filozofu.uludagsozluk.com/ bkz gece gece ıslanan filozok
+https://modern-zaman-filozofu.uludagsozluk.com/ bkz gece gece perinçekin çızgısına ıslanan filozok
 https://tahir33.uludagsozluk.com bkz solcuları kudurtan tam bir atıl kurt
 https://zall-bana-hep-abi-der.uludagsozluk.com bkz laikçileri kudurtan ak yiğido
 https://ulusalci-yazar.uludagsozluk.com/ bkz kürtçüleri kudurtan yüce önder
