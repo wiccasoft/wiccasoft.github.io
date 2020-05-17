@@ -4,9 +4,7 @@
 <!--
 bkz jazz dinleyip viski yudumlarken, çekilmeyen çomarlar
 bkz 3.sayfa gazete haberi paylaşan çomar zekası
-bkz ekşcilerin çok üstün zekalı olma sebepleri
-bkz deep webe girince yükselen 30 iq seviye point
-bkz pppk bitecek diye çıldıran ppklı
+https://www.uludagsozluk.com/k/halk-tv-nin-tunceli-ye-dersim-demesi/&w=bg bkz oç kürtler
 https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg bkz yutüp kanalına abone olmayan fenerliler
 bkz imamaoğlanın babasının oğlanı yollim arka odada oynayın az demesi
 https://oytunkaran.uludagsozluk.com bkz fenevbaçe maskotu evet
