@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+https://www.uludagsozluk.com/k/caillou-%C3%A7izgi-dizisindeki-kel-%C3%A7ocu%C4%9Fun-ad%C4%B1/ sihirli perideki emrah
 https://www.uludagsozluk.com/k/tuna-kiremit%C3%A7i/&w=bg bkz oç chpkk yalakası
 bkz berat albayrakın o.ç babacana misilleme olarak mgk yı toplaması
 https://www.uludagsozluk.com/e/43346685/ de siktir lo sen de beyin mi var amınferyadı
