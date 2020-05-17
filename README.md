@@ -2,7 +2,7 @@
 [![Image](brexit.png)](https://www.youtube.com/watch?v=nJKwNuqozDw)
 
 <!-- 
-bkz türklük çok süper bişidir -mka
+bkz türklük çok süper bişidir öyle süper bişidir ki her boku yedirtir adama -mka
 bkz her türlü boku yiyip türkşüğü yüceltebilirsiniz - mka
 bkz muhtaç olduğun çamur pedofili nekrofili her türlü pislik dmarlarındaki asil kandadır
 bkz türklük nekrofili pedofili dinlemez illebet nekrofili kalır - mka
