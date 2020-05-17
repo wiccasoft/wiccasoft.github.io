@@ -2,6 +2,7 @@
 [![Image](brexit.png)](facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/)
 
 <!--
+bkz ak parti fenerbaceye el koyarsa cinconluların kuduracak olması
 bkz ırak şam islam devletiyle ak parti anlaşırsa olacaklar
 bkz ak parti google ı kaparsa duckduckgo nun uçuşa geçeceği gerçeği
 bkz ak parti zdp mdp ittifakını kaparsa olacaklar
