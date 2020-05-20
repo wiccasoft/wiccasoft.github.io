@@ -1,33 +1,6 @@
 
 [![Image](hive/oath.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 
-<!-- 
-bkz ekçici ergen bozukluğu
-bkz acun abisi ekçiye gelmedi diye ağlayan ekçici
-bkz elon musk ın ekçi hesabını silmesi
-bkz ekçicilerin ne kafası yaşaması
-bkz bill gates in oğlu can ıtır ın ekçici çıkması
-bkz bill gates in açın kızlar arayı salıyom nicki demesi
-bkz tayybin ekçicilere götün yiyosa güngörene gelsene demesi
-bkz putinin ekçiciler iyidir severim demesi
-bkz konhtkarın klibinde ekçicilere orospu demesi
-bkz seni arabamla döverim diyen ekçici
-bkz illumunatinin başındaki adamın ekçici çıkması
-bkz mağara soğuk mu ekçici kardeş
-bkz ekşici abisine atar yapar who 
-bkz dünya sağlık örgütüne bi tavsiye bırak
-bkz dünya sağlık örgütüne ekşisözlüğe gelse alacağı nick
-bkz amerikalıların ana dilde ekşici hakkı  istemesi
-bkz kızlara ekşiciyim diyip hava atmak
-bkz ekşici olmayıp adamım diye gezen totoşlar
-bkz x ekçiye gelse alacağı nick
-bkz x e yazacağı kitap tavsiyeleri
-bkz ekçiciler boş yaparken kafa dinlemek
-bkz otomatik vites kullanan erkek adam mıdır sorundalı
-bkz kılıçoğlanın kılıçı vs hz ali kılıçı
-bkz kılıçoğlan ekçiye gelse aladacağı kılıç
-bkz ekçicilerin illumunatiyi parmağında oynatması
--->
 
 [![Image](hive/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
 
