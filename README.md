@@ -11,6 +11,7 @@ bkz ekşici olmayıp adamım diye gezen totoşlar
 bkz x ural sözlüğe gelse alacağı nick
 bkz x e yazacağı kitap tavsiyeleri
 bkz ekçiciler boş yaparken kafa dinlemek
+bkz otomatik vites kullanan erkek adam mıdır sorundalı
 -->
 
 [![Image](hive/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
