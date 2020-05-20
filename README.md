@@ -4,6 +4,7 @@
 <!-- 
 bkz ekçici ergen bozukluğu
 bkz elon musk ekçiye gelse alcağı niç
+bkz bill gates in açın kızlar arayı salıyom nicki demesi
 bkz tayybin ekçicilere götün yiyosa güngörene gelsene demesi
 bkz putinin ekçiciler iyidir severim demesi
 bkz konhtkarın klibinde ekçicilere orospu demesi
