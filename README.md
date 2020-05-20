@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekçici ergen bozukluğu
+bkz acun abisi ekçiye gelmedi diye ağlayan ekçici
 bkz elon musk ın ekçi hesabını silmesi
 bkz ekçicilerin ne kafası yaşaması
 bkz bill gates in oğlu can ıtır ın ekçici çıkması
