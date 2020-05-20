@@ -8,7 +8,7 @@ bkz dünya sağlık örgütüne ekşisözlüğe gelse alacağı nick
 bkz amerikalıların ana dilde ekşici hakkı  istemesi
 bkz kızlara ekşiciyim diyip hava atmak
 bkz ekşici olmayıp adamım diye gezen totoşlar
-bkz x ural sözlüğe gelse alacağı nick
+bkz x ekçiye gelse alacağı nick
 bkz x e yazacağı kitap tavsiyeleri
 bkz ekçiciler boş yaparken kafa dinlemek
 bkz otomatik vites kullanan erkek adam mıdır sorundalı
