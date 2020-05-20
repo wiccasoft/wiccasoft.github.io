@@ -13,6 +13,7 @@ bkz x e yazacağı kitap tavsiyeleri
 bkz ekçiciler boş yaparken kafa dinlemek
 bkz otomatik vites kullanan erkek adam mıdır sorundalı
 bkz kılıçoğlanın kılıçı vs hz ali kılıçı
+bkz kılıçoğlan ekçiye gelse aladacağı kılıç
 -->
 
 [![Image](hive/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
