@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ekçici ergen bozukluğu
+bkz tayybin ekçicilere götün yiyosa güngörene gelsene demesi
 bkz putinin ekçiciler iyidir severim demesi
 bkz konhtkarın klibinde ekçicilere orospu demesi
 bkz seni arabamla döverim diyen ekçici
