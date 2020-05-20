@@ -2,7 +2,7 @@
 [![Image](hive/oath.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 
 <!-- 
-bkz ekçicilerin illumunatiyi parmağında oynatması
+bkz illumunatinin başındaki adamın ekçici çıkması
 bkz mağara soğuk mu ekçici kardeş
 bkz ekşici abisine atar yapar who 
 bkz dünya sağlık örgütüne bi tavsiye bırak
@@ -16,6 +16,7 @@ bkz ekçiciler boş yaparken kafa dinlemek
 bkz otomatik vites kullanan erkek adam mıdır sorundalı
 bkz kılıçoğlanın kılıçı vs hz ali kılıçı
 bkz kılıçoğlan ekçiye gelse aladacağı kılıç
+bkz ekçicilerin illumunatiyi parmağında oynatması
 -->
 
 [![Image](hive/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
