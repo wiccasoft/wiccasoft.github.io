@@ -2,11 +2,11 @@
 [![Image](hive/oath.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 
 <!-- 
+bkz ekşici abisine atar yapar ergen 
 bkz dünya sağlık örgütüne bi tavsiye bırak
 bkz dünya sağlık örgütüne ekşisözlüğe gelse alacağı nick
 bkz amerikalıların ana dilde ekşici hakkı  istemesi
 bkz kızlara ekşiciyim diyip hava atmak
-bkz ekşici abisine atar yapar ergen 
 bkz ekşici olmayıp adamım diye gezen totoşlar
 bkz x ural sözlüğe gelse alacağı nick
 bkz x e yazacağı kitap tavsiyeleri
