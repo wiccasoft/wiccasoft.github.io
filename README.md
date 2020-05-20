@@ -4,11 +4,11 @@
 <!-- 
 bkz dünya sağlık örgütüne ekşisözlüğe gelse alacağı nick
 bkz dünya sağlık örgütüne bi tavsiye bırak
-bkz amerikalılara ana dilde eğitim hakkı verecekmiyiz beyler
+bkz amerikalıların ana dilde ekşici hakkı  istemesi
 bkz kızlara ekşiciyim diyip hava atmak
 bkz ekşici abisine atar yapar ergen 
 bkz ekşici olmayıp adamım diye gezen totoşlar
-bkz x ural sözlüğe gelse alacağı bick
+bkz x ural sözlüğe gelse alacağı nick
 bkz x e yazacağı kitap tavsiyeleri
 -->
 
