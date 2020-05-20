@@ -2,6 +2,7 @@
 [![Image](hive/oath.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 
 <!-- 
+bkz kohtkarın klibinde ekçicilere orospu demesi
 bkz seni arabamla döverim diyen ekçici
 bkz illumunatinin başındaki adamın ekçici çıkması
 bkz mağara soğuk mu ekçici kardeş
