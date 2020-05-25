@@ -25,7 +25,7 @@
 
 ![Image](voyager.png)
 
-![Image](stone-sky.png)
+[![[Image](stone-sky.png)](https://www.youtube.com/watch?v=NX0iaeMzHyI)
 
 [![Image](aton/Screenshot_2020-05-21_00-18-41.png)](https://www.youtube.com/watch?v=EQ-CGYWQRyM)
 
