@@ -1,8 +1,3 @@
-[![Image](hive/Screenshot_2020-06-10_09-23-26.png)](https://www.youtube.com/watch?v=i0IYD33BR1)
-
-[![Image](hive/Screenshot_2020-06-06_18-30-55.png)](https://twitter.com/ozer_v/status/1270312114507386881?s=20)
-
-[![Image](hive/Screenshot_2020-06-04_19-01-18.png)](https://www.pornhub.com/view_video.php?viewkey=ph5e5d23cad301d)
 
 [![Image](aton/Screenshot_2020-05-21_18-18-41.png)](https://human.biodigital.com)
 
@@ -12,11 +7,11 @@
 
 [![Image](almanac/Global_Seed_Vault.jpg)](https://www.seedvault.no/)
 
-[![Image](brexit.png)]( https://www.pornhub.com/view_video.php?viewkey=ph5d0e9d3cac047)
+![Image](brexit.png)
 
 [![Image](wiccanyear.png)](https://www.youtube.com/watch?v=u-ghhn_IqeU)
 
-[![Image](hearthemoment.png)](https://rt.pornhub.com/view_video.php?viewkey=ph5d1fb47d0b00f)
+![Image](hearthemoment.png)(https://rt.pornhub.com/view_video.php?viewkey=ph5d1fb47d0b00f)
 
 [![Image](myth-of-the-jewish-genome.png)](https://www.merriam-webster.com/dictionary/chromatic)
 
