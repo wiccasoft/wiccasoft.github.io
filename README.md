@@ -6,9 +6,7 @@
 
 [![Image](aton/Screenshot_2020-05-21_18-18-41.png)](https://human.biodigital.com)
 
-
 [![Image](hive/oath.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
-
 
 [![Image](hive/purdue.png)](https://www.theguardian.com/us-news/2018/jan/27/universities-sackler-family-purdue-pharma-oxycontin-opioids)
 
