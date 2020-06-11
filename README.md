@@ -1,5 +1,5 @@
 
-[![Image](hive/Screenshot_2020-06-04_19-01-18.png)](https://www.timeanddate.com/eclipse/map/2020-june-5)
+[![Image](hive/Screenshot_2020-06-06_18-30-55.png)](https://www.timeanddate.com/eclipse/map/2020-june-5)
 
 [![Image](aton/Screenshot_2020-05-21_18-18-41.png)](https://human.biodigital.com)
 
