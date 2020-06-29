@@ -4,7 +4,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/sahiplenen-erkek-g%C3%B6t%C3%BC/ bkz makat maymunu götü
-bkz makatından aktroll çıkaran adam 
 -->
 
 [![Image](guardian/Screenshot_2020-06-28_14-56-27.png)](https://www.youtube.com/watch?v=iEEM0HkEkp8)
