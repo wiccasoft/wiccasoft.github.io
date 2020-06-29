@@ -5,7 +5,7 @@
 <!--
 bkz makatına kürt sokan ülkücü
 bkz makatıyla kurt uluması yapan ülkücü
-bkz makatına şişe sokup 10. yıl marşı söyleyen adam
+bkz makatına balık sokan adamın size bişey anlatması
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz taksimin renkli siması cenk
 https://www.uludagsozluk.com/k/pasif-gaylar%C4%B1n-orospu-olmas%C4%B1/&w=bg bkz makatıyla orospunum diyen erkek
 https://www.uludagsozluk.com/k/sahiplenen-erkek-g%C3%B6t%C3%BC/ bkz makat maymunu götü
