@@ -2,12 +2,12 @@
 
 [![Image](guardian/Screenshot_2020-06-29_12-22-28.png)](https://www.uludagsozluk.com/k/makat%C4%B1na-40-santimlik-bal%C4%B1k-ka%C3%A7an-vatanda%C5%9F/&w=bg)
 
-<!-- 
+<!--
 bkz makatına kürt sokan ülkücü
 bkz makatıyla kurt uluması yapan ülkücü
 bkz makatına şişe sokup 10. yıl marşı söyleyen adam
 https://www.uludagsozluk.com/k/sahiplenen-erkek-g%C3%B6t%C3%BC/ bkz makat maymunu götü
-https://www.uludagsozluk.com/k/ibnelerin-heterolar%C4%B1n-onay%C4%B1na-muhta%C3%A7-olmas%C4%B1/ bkz makatırla uluma yapan ülkücü
+https://www.uludagsozluk.com/k/ibnelerin-heterolar%C4%B1n-onay%C4%B1na-muhta%C3%A7-olmas%C4%B1/ bkz makatıyla uluma yapan ülkücü
 -->
 
 [![Image](guardian/Screenshot_2020-06-28_14-56-27.png)](https://www.youtube.com/watch?v=iEEM0HkEkp8)
