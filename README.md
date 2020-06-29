@@ -3,8 +3,7 @@
 [![Image](guardian/Screenshot_2020-06-29_12-22-28.png)](https://www.uludagsozluk.com/k/makat%C4%B1na-40-santimlik-bal%C4%B1k-ka%C3%A7an-vatanda%C5%9F/&w=bg)
 
 <!--
-bkz makatına kürt sokan ülkücü
-bkz makatına balık sokan adamın balığı çıkartması
+https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz makatına balık sokan adam
 https://siradan-siradam-vintage.uludagsozluk.com/ bkz makat maymunu
 https://www.uludagsozluk.com/k/kendini-bu-%C3%BClkenin-sahibi-sanan-zihniyet/&w=bg bkz makatına balık sokan zihniyet
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz makatına balık sokan adam
