@@ -3,6 +3,7 @@
 [![Image](guardian/Screenshot_2020-06-29_12-22-28.png)](https://www.uludagsozluk.com/k/makat%C4%B1na-40-santimlik-bal%C4%B1k-ka%C3%A7an-vatanda%C5%9F/&w=bg)
 
 <!-- 
+bkz makatına şişe sokup 10. yıl marşı söyleyen adam
 https://www.uludagsozluk.com/k/sahiplenen-erkek-g%C3%B6t%C3%BC/ bkz makat maymunu götü
 -->
 
