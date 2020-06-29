@@ -1,4 +1,8 @@
 
+
+[![Image](guardian/Screenshot_2020-06-29_12-22-28.png)](https://www.uludagsozluk.com/k/makat%C4%B1na-40-santimlik-bal%C4%B1k-ka%C3%A7an-vatanda%C5%9F/&w=bg)
+
+
 [![Image](guardian/Screenshot_2020-06-28_14-56-27.png)](https://www.youtube.com/watch?v=iEEM0HkEkp8)
 
 [![Image](guardian/Screenshot_2020-06-27_17-43-22.png)](https://www.youtube.com/watch?v=juQPE-v28es)
