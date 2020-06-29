@@ -4,7 +4,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz makatına balık sokan adam
-https://siradan-siradam-vintage.uludagsozluk.com/ bkz makat maymunu
 https://www.uludagsozluk.com/k/kendini-bu-%C3%BClkenin-sahibi-sanan-zihniyet/&w=bg bkz makatına balık sokan zihniyet
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz makatına balık sokan adam
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz taksimin renkli siması cenk
