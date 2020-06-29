@@ -4,6 +4,7 @@
 
 <!--
 bkz makatına kürt sokan ülkücü
+bkz makatına balık sokan adamın balığı çıkartması
 https://siradan-siradam-vintage.uludagsozluk.com/ bkz makat maymunu
 https://www.uludagsozluk.com/k/kendini-bu-%C3%BClkenin-sahibi-sanan-zihniyet/&w=bg bkz makatına balık sokan zihniyet
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz makatına balık sokan adam
