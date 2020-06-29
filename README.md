@@ -8,6 +8,8 @@ bkz makatıyla kurt uluması yapan ülkücü
 bkz makatına balık sokan adamın size bişey anlatması
 bkz yakında makatınıza dava açacağım gerçeği
 bkz uludaki ibnelerin makatının kaşınması
+https://siradan-siradam-vintage.uludagsozluk.com/ bkz makat maymunu
+https://www.uludagsozluk.com/k/ali-babacan-ahmet-davuto%C4%9Flu-abdullah-g%C3%BCl/&w=bg bkz makat
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg bkz taksimin renkli siması cenk
 https://www.uludagsozluk.com/k/pasif-gaylar%C4%B1n-orospu-olmas%C4%B1/&w=bg bkz makatıyla orospunum diyen erkek
 https://www.uludagsozluk.com/k/sahiplenen-erkek-g%C3%B6t%C3%BC/ bkz makat maymunu götü
