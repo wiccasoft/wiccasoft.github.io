@@ -1,7 +1,4 @@
 
-
-[![Image](guardian/Screenshot_2020-06-29_12-22-28.png)](https://www.youtube.com/watch?v=RDxn3OuKO8w)
-
 [![Image](guardian/Screenshot_2020-06-28_14-56-27.png)](https://www.youtube.com/watch?v=iEEM0HkEkp8)
 
 [![Image](guardian/Screenshot_2020-06-27_17-43-22.png)](https://www.youtube.com/watch?v=juQPE-v28es)
