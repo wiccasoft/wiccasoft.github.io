@@ -1,8 +1,6 @@
 
 
-[![Image](guardian/Screenshot_2020-07-07_09-18-08.png)](https://www.youtube.com/watch?v=ZP2YtHCXM6E)
-
-[![Image](guardian/Screenshot_2020-07-06_14-30-54.png)](https://www.youtube.com/watch?v=rPXZ2w2gEi4)
+[![Image](guardian/Screenshot_2020-07-07_14-05-19.png)](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
 
 [![Image](guardian/Screenshot_2020-07-06_14-08-52.png)](https://arcturusrx.com/)
 
