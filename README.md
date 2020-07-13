@@ -1,8 +1,6 @@
 
 [![Image](guardian/Screenshot_2020-07-13_11-16-07.png)](https://www.youtube.com/watch?v=FLaR_MrVNPM)
 
-[![Image](guardian/Screenshot_2020-07-13_14-43-07.png)](https://www.pornhub.com/view_video.php?viewkey=ph5d2489e25e92a)
-
 [![Image](guardian/Screenshot_2020-07-08_10-47-29.png)](https://www.youtube.com/watch?v=a6PeQ3Vj73gg)
 
 [![Image](guardian/Screenshot_2020-07-07_14-05-19.png)](https://www.nytimes.com/2020/07/07/health/novavax-coronavirus-vaccine-warp-speed.html)
@@ -18,8 +16,6 @@
 [![Image](guardian/Screenshot_2020-06-28_14-56-27.png)](https://www.youtube.com/watch?v=iEEM0HkEkp8)
 
 [![Image](guardian/Screenshot_2020-06-27_17-43-22.png)](https://www.youtube.com/watch?v=juQPE-v28es)
-
-[![Image](guardian/Screenshot_2020-06-27_17-43-54.png)](https://www.pornhub.com/view_video.php?viewkey=ph5ed6ed19eb09c)
 
 [![Image](hive/Screenshot_2020-06-21_12-49-54.png)](https://www.youtube.com/watch?v=-gP_Q2myNWo)
 
