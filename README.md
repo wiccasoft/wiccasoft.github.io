@@ -3,7 +3,7 @@
 [![Image](guardian/Screenshot_2020-07-20_10-31-11.png)](https://www.youtube.com/watch?v=bPEknYYYotw)
 
 
-[![Image](guardian/Screenshot_2020-07-17_20-08-35.png)](https://www.kizlarsoruyor.com/moda-stil/q5565708-babet-corabi-giyen-erkek-hakkinda-gorusleriniz-nelerdir)
+[![Image](guardian/Screenshot_2020-07-17_20-08-35.png)](https://www.youtube.com/watch?v=c7IoBRRBiX8)
 
 [![Image](guardian/Screenshot_2020-07-17_12-24-07.png)](https://www.youtube.com/watch?v=p-zJzffx3FM)
 
