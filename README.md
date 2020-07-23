@@ -1,5 +1,5 @@
 
-[![Image](guardian/Screenshot_2020-07-22_10-53-01.png)](https://www.milliyet.com.tr/milliyet-tv/kopege-tecavuz-haberi-asilsiz-cikti-video-4671760)
+[![Image](guardian/Screenshot_2020-07-22_10-53-01.png)](https://www.youtube.com/watch?v=DpAHqn9w0zA)
 
 [![Image](guardian/Screenshot_2020-07-20_10-31-11.png)](https://www.youtube.com/watch?v=bPEknYYYotw)
 
