@@ -1,4 +1,6 @@
 
+[![Image](guardian/Screenshot_2020-07-24_10-49-10.png)](https://www.theguardian.com/world/2020/jul/24/turkish-mps-vote-bill-could-block-facebook-twitter)
+
 [![Image](guardian/Screenshot_2020-07-22_10-53-01.png)](https://www.youtube.com/watch?v=DpAHqn9w0zA)
 
 [![Image](guardian/Screenshot_2020-07-20_10-31-11.png)](https://www.youtube.com/watch?v=bPEknYYYotw)
