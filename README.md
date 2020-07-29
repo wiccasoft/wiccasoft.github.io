@@ -3,8 +3,6 @@
 
 [![Image](guardian/Screenshot_2020-07-17_12-24-07.png)](https://www.youtube.com/watch?v=p-zJzffx3FM)
 
-[![Image](guardian/Screenshot_2020-07-16_10-48-06.png)](https://www.youtube.com/watch?v=2wM8ab1asLs)
-
 [![Image](guardian/Screenshot_2020-07-15_05-59-16.png)](https://www.youtube.com/watch?v=8cW8kAFbnik)
 
 [![Image](guardian/Screenshot_2020-07-15_21-11-02.png)](https://www.youtube.com/watch?v=xQP48l5fqaA)
