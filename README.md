@@ -1,4 +1,6 @@
 
+[![Image](globe/Screenshot_2020-08-04_12-23-33.png)](https://www.theguardian.com/world/2020/aug/04/missing-sailors-stranded-on-pacific-island-saved-by-giant-sos-in-the-sand)
+
 [![Image](globe/Screenshot_2020-08-03_04-43-53.png)](https://www.youtube.com/watch?v=DpAHqn9w0zA)
 
 [![Image](globe/Screenshot_2020-08-01_19-09-43.png)](https://www.youtube.com/watch?v=o6EayWHL-ag)
