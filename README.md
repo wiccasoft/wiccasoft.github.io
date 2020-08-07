@@ -4,12 +4,6 @@
 
 [![Image](globe/Screenshot_2020-08-04_12-23-33.png)](https://www.youtube.com/watch?v=z8HNeHNUr10)
 
-[![Image](globe/Screenshot_2020-08-04_12-28-09.png)](https://www.youtube.com/watch?v=TyU6q9zYJVk)
-
-[![Image](globe/Screenshot_2020-08-04_12-22-50.png)](https://www.youtube.com/watch?v=RHBoMuNszuk)
-
-[![Image](globe/Screenshot_2020-08-04_12-26-58.png)](https://www.youtube.com/watch?v=qNa38FQJftg)
-
 [![Image](globe/Screenshot_2020-08-05_03-53-51.png)](https://www.youtube.com/watch?v=FFkBaGqXLig)
 
 [![Image](globe/Screenshot_2020-08-05_14-40-40.png)](https://www.youtube.com/watch?v=QSMXjp8hc_I)
