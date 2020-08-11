@@ -1,7 +1,4 @@
 
-
-[![Image](globe/Screenshot_2020-08-11_17-53-37.png)](https://www.theguardian.com/world/2020/aug/06/beirut-explosion-how-you-can-help-lebanon-victims-fund-donate-donations-food-relief)
-
 [![Image](globe/Screenshot_2020-07-15_21-11-02.png)](https://www.youtube.com/watch?v=2q05iJ6jHu8)
 
 [![Image](globe/Screenshot_2020-07-15_21-50-42.png)](https://www.youtube.com/watch?v=22_zeb-XWic)
