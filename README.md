@@ -1,7 +1,7 @@
 
 
 
-[![Image](globe/Screenshot_2020-08-14_16-14-15.png)](https://www.dunya.com/yurttan-haberler/doktora-ogrencileri-barutcu-tekstilde-bilimsel-calisma-yapacak-haberi-458606)
+
 
 [![Image](globe/Screenshot_2020-08-14_15-34-40.png)](https://www.youtube.com/watch?v=0sE9xCDfuuU)
 
@@ -110,5 +110,5 @@
 [![Image](aton/Screenshot_2020-05-21_00-18-41.png)](https://www.youtube.com/watch?v=EQ-CGYWQRyM)
 
 
-
+[![Image](globe/Screenshot_2020-08-14_16-14-15.png)](https://www.dunya.com/yurttan-haberler/doktora-ogrencileri-barutcu-tekstilde-bilimsel-calisma-yapacak-haberi-458606)
 
