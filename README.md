@@ -1,4 +1,8 @@
 
+[![Image](globe/Screenshot_2020-08-14_16-14-15.png)](https://www.youtube.com/watch?v=hYPEarIYHEU)
+
+[![Image](globe/Screenshot_2020-08-14_11-39-49.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
+
 [![Image](globe/Screenshot_2020-08-14_11-39-49.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
 
 [![Image](globe/Screenshot_2020-08-14_15-34-40.png)](https://www.youtube.com/watch?v=0sE9xCDfuuU)
