@@ -1,5 +1,5 @@
 
-[![Image](globe/Screenshot_2020-08-19_12-12-20.png)](https://www.youtube.com/watch?v=pneoCZSiofI)
+[![Image](globe/Screenshot_2020-08-19_12-12-20.png)](https://youtu.be/pneoCZSiofI?t=2643)
 
 [![Image](globe/Screenshot_2020-08-20_09-56-12.png)](https://www.theguardian.com/australia-news/2020/aug/18/china-opens-door-to-tariffs-on-australian-wine-imports-as-trade-tensions-spiral)
 
