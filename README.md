@@ -3,18 +3,6 @@
 
 [![Image](globe/Screenshot_2020-08-22_16-58-26.png)](https://www.youtube.com/watch?&v=AeveY0aW1Qg)
 
-[![Image](globe/Screenshot_2020-08-22_13-46-11.png)](https://www.youtube.com/watch?v=z8HNeHNUr10)
-
-[![Image](globe/Screenshot_2020-08-22_05-35-26.png)](https://www.youtube.com/watch?v=2SzDVoaY8mg)
-
-[![Image](globe/Screenshot_2020-08-16_20-55-59.png)](https://www.youtube.com/watch?v=Uw2zw_L8rSk)
-
-[![Image](globe/Screenshot_2020-08-19_10-54-57.png)](https://www.youtube.com/watch?v=c7IoBRRBiX8)
-
-[![Image](globe/Screenshot_2020-08-19_11-54-56.png)](https://www.youtube.com/watch?&v=Rl7_nIyR3Ds)
-
-[![Image](globe/Screenshot_2020-08-21_08-48-31.png)](https://www.youtube.com/watch?v=otohjMymyYE)
-
 [![Image](globe/Screenshot_2020-08-19_12-12-20.png)](https://youtu.be/pneoCZSiofI)
 
 [![Image](globe/Screenshot_2020-08-16_09-36-09.png)](https://www.youtube.com/watch?v=nFicXlvJBdo)
