@@ -1,6 +1,5 @@
 [![Image](globe/Screenshot_2020-08-28_00-53-05.png)](https://www.youtube.com/watch?v=QYV7QnxSC9g)
 
-
 [![Image](globe/Screenshot_2020-08-27_06-16-00.png)](https://www.youtube.com/watch?v=k-Rg51azVlg)
 
 [![Image](globe/Screenshot_2020-08-25_16-49-43.png)](https://www.youtube.com/watch?v=8s6duvbnC0A)
