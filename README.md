@@ -1,5 +1,4 @@
 
-[![Image](globe/Screenshot_2020-08-28_01-54-23.png)](https://www.thumbzilla.com/video/ph5d5725d51ba7a/sexy-blonde-strokes-and-sucks-cock-and-balls-for-huge-cum-blasts)
 
 [![Image](globe/Screenshot_2020-08-28_00-53-05.png)](https://www.youtube.com/watch?v=QYV7QnxSC9g)
 
@@ -131,5 +130,5 @@
 [![Image](aton/Screenshot_2020-05-21_00-18-41.png)](https://www.youtube.com/watch?v=EQ-CGYWQRyM)
 
 
-[![Image](globe/Screenshot_2020-08-14_16-14-15.png)](https://www.dunya.com/yurttan-haberler/doktora-ogrencileri-barutcu-tekstilde-bilimsel-calisma-yapacak-haberi-458606)
 
+[![Image](globe/Screenshot_2020-08-28_01-54-23.png)](https://www.thumbzilla.com/video/ph5d5725d51ba7a/sexy-blonde-strokes-and-sucks-cock-and-balls-for-huge-cum-blasts)
