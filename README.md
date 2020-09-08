@@ -1,5 +1,5 @@
 
-![Image](globe/Screenshot_2020-09-07_12-33-26.png)
+[![Image](globe/Screenshot_2020-09-07_12-33-26.png)(https://www.youtube.com/watch?v=KHfMqeFoS7A&ab_channel=CBC)]
 
 [![Image](globe/Screenshot_2020-09-08_11-11-13.png)](https://www.theguardian.com/business/nils-pratley-on-finance/2020/sep/07/softbanks-4bn-profit-on-us-tech-bets-hasnt-impressed-investors)
 
