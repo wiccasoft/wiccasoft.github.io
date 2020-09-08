@@ -4,7 +4,6 @@
 [![Image](globe/Screenshot_2020-09-08_11-11-13.png)](https://www.theguardian.com/business/nils-pratley-on-finance/2020/sep/07/softbanks-4bn-profit-on-us-tech-bets-hasnt-impressed-investors)
 
 
-
 [![Image](globe/Screenshot_2020-09-05_09-30-56.png)](https://www.pornhub.com/view_video.php?viewkey=ph582aef2acdef2)
 
 [![Image](globe/Screenshot_2020-09-02_12-52-24.png)](https://www.youtube.com/watch?v=lzJfZqXsKMA)
