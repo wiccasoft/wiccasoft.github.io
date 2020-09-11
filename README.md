@@ -1,4 +1,4 @@
-[![Image](globe/Screenshot_2020-09-10_21-29-40.png)](https://www.youtube.com/watch?v=NvCSr7qzAAM&ab_channel=RT)
+
 
 [![Image](globe/Screenshot_2020-09-10_14-37-41.png)](https://www.youtube.com/watch?v=etH0V2SXN_0)
 
