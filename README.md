@@ -2,14 +2,6 @@
 
 [![Image](globe/Screenshot_2020-09-14_14-39-34.png)](https://www.youtube.com/watch?v=VfB6xynzT_E&ab_channel=FlashbackFM)
 
-[![Image](globe/Screenshot_2020-09-14_14-08-21.png)](https://www.youtube.com/watch?v=sciCG0RYGvI)
-
-[![Image](globe/Screenshot_2020-09-14_14-29-01.png)](https://www.youtube.com/watch?v=hYD4ZRa7a1M)
-
-[![Image](globe/Screenshot_2020-09-14_14-15-25.png)](https://www.youtube.com/watch?v=Hf7JGHSw4gA)
-
-[![Image](globe/Screenshot_2020-09-10_14-37-41.png)](https://www.youtube.com/watch?v=etH0V2SXN_0)
-
 [![Image](globe/Screenshot_2020-09-07_12-33-26.png)](https://www.youtube.com/watch?v=KHfMqeFoS7A&ab_channel=CBC)
 
 [![Image](globe/Screenshot_2020-09-08_11-11-13.png)](https://www.theguardian.com/business/nils-pratley-on-finance/2020/sep/07/softbanks-4bn-profit-on-us-tech-bets-hasnt-impressed-investors)
