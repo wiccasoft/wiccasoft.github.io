@@ -490,9 +490,9 @@ function animate() {
 
     if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
-  //renderer.setSize(150, 150);
-//camera.aspect = 1; // 150/150 oranı 1'dir, böylece daire ve küp yuvarlak kalır, basılmaz.
-//camera.updateProjectionMatrix();
+    renderer.setSize(150, 150);
+    camera.aspect = 1; // 150/150 oranı 1'dir, böylece daire ve küp yuvarlak kalır, basılmaz.
+    camera.updateProjectionMatrix();
 }
 
 // Motoru ateşle
