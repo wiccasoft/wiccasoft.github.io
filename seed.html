@@ -103,10 +103,17 @@ function setPoles(northName, southName) {
   camera.position.set(5, 5, 5);
   camera.lookAt(0, 0, 0);
 
-  const renderer = new THREE.WebGLRenderer({antialias:true});
-  renderer.setSize(window.innerWidth, window.innerHeight);
-  document.body.appendChild(renderer.domElement);
+const aspect = 1; // Explicit 1:1 ratio (150px / 150px)
+const d = 2;
+const camera = new THREE.OrthographicCamera(
+    -d * aspect, d * aspect, d, -d, 0.1, 1000
+);
+camera.position.set(5, 5, 5);
+camera.lookAt(0, 0, 0);
 
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(150, 150); // Explicit fixed boundary
+document.body.appendChild(renderer.domElement);
   // OrbitControls → pan ve zoom açık
   const controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.enablePan = true;
