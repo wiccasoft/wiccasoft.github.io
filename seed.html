@@ -30,12 +30,31 @@ canvas {
 // ============================================================================
 // BÖLÜM 1: SENEKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
 // ============================================================================
-const scene = new THREE.Scene(); // Önce sahne oluşturulur
-const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
+const scene = new THREE.Scene();
+const KuantumKafesi = new THREE.Group();
 scene.add(KuantumKafesi);
 
-let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
+let currentAxis;
 
+// Kamerayı 150px x 150px kare alana tam 1:1 orantıyla kilitliyoruz
+const aspect = 1; 
+const d = 2;
+const camera = new THREE.OrthographicCamera(
+    -d * aspect, d * aspect, d, -d, 0.1, 1000
+);
+camera.position.set(5, 5, 5);
+camera.lookAt(0, 0, 0);
+
+// Renderer tek bir satırda ve net olarak 150px boyuta sabitlendi
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(150, 150);
+document.body.appendChild(renderer.domElement);
+
+// OrbitControls otomatik olarak bu renderer ile bağlanır
+const controls = new THREE.OrbitControls(camera, renderer.domElement);
+controls.enablePan = true;
+controls.enableZoom = true;
+controls.enableRotate = true;
 
 function setPoles(northName, southName) {
 function setPoles(northName, southName) {
