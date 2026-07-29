@@ -1,16 +1,18 @@
 <!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Wiccasoft | All in One Browser</title><style>
-html,body{background-color:#000;width:100%;height:100%;margin:0;overflow:hidden;color:#fff;font-family:system-ui,sans-serif}
-.main-wrapper{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:1rem;box-sizing:border-box}
-.header{text-align:center;margin-bottom:1rem}
-.header h1{font-size:2.5rem;margin:0}
-.text-gradient{background:linear-gradient(45deg,#2563eb,#ef4444);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
-.iframe-wrapper{width:100%;max-width:800px;height:60vh;border-radius:12px;overflow:hidden;border:1px solid #333}
+html,body{background-color:#0d0d0d;width:100%;height:100%;margin:0;overflow:hidden;color:#fff;font-family:system-ui,-apple-system,BlinkMacSystemFont,sans-serif}
+.main-wrapper{height:100vh;display:flex;flex-direction:column}
+.navbar{z-index:100;background-color:#0d0d0d;border-bottom:1px solid #222;padding:1rem 0}
+.container{justify-content:space-between;align-items:center;max-width:1200px;margin:0 auto;padding:0 1.5rem;display:flex}
+.logo-img{height:45px}
+.nav-links{align-items:center;gap:2rem;display:flex}
+.nav-item{color:#ccc;text-decoration:none}
+.contact-btn{color:#fff;background-color:#2563eb;border-radius:8px;padding:.5rem 1.2rem}
+.hero-wrapper{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:1rem;gap:1rem}
+.iframe-wrapper{width:100%;max-width:900px;height:52vh;border-radius:16px;overflow:hidden;border:1px solid #222}
 iframe{width:100%;height:100%;border:none}
 </style></head><body>
 <div class="main-wrapper">
-  <div class="header"><h1>All in <span class="text-gradient">One Browser</span></h1></div>
-  <div class="iframe-wrapper">
-    <iframe src="./seed.html"></iframe>
-  </div>
+  <nav class="navbar"><div class="container"><a href="/"><img src="/logo.png" alt="Logo" class="logo-img"></a><div class="nav-links"><a href="/" class="nav-item">Ana Sayfa</a><a href="/iletisim" class="nav-item contact-btn">İletişim</a></div></div></nav>
+  <div class="hero-wrapper"><div class="iframe-wrapper"><iframe src="./seed.html"></iframe></div></div>
 </div>
 </body></html>
