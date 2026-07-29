@@ -127,17 +127,6 @@ const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(150, 150);
 document.body.appendChild(renderer.domElement);
 
-const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize(150, 150); // Hard locked layout viewport
-document.body.appendChild(renderer.domElement);
-
-const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize(150, 150); // Explicit fixed boundary
-document.body.appendChild(renderer.domElement);
-
-const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize(250, 250); // Explicit fixed boundary
-document.body.appendChild(renderer.domElement);
   // OrbitControls → pan ve zoom açık
   const controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.enablePan = true;
