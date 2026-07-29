@@ -41,7 +41,7 @@
             .card[data-astro-cid-lcdefpme] p[data-astro-cid-lcdefpme]{color:#737373;margin:0;font-size:1rem}
             @media (width<=768px){h1[data-astro-cid-lcdefpme]{font-size:2.5rem}.action-buttons[data-astro-cid-lcdefpme]{flex-direction:column}}
             
-            /* 🎯 150px IFRAME KAPSAYICI STİLİ */
+            /* Native Metatron 150px Canvas Box */
             .vortex-container {
                 width: 150px;
                 height: 150px;
@@ -53,21 +53,23 @@
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                position: relative;
             }
-            .vortex-container iframe {
-                width: 150px !important;
-                height: 150px !important;
-                border: none;
-                overflow: hidden;
+            .vortex-pulse {
+                animation: pulseGlow 12s linear infinite;
+            }
+            @keyframes pulseGlow {
+                0% { filter: drop-shadow(0 0 6px #ef4444); }
+                33% { filter: drop-shadow(0 0 6px #eab308); }
+                66% { filter: drop-shadow(0 0 6px #3b82f6); }
+                100% { filter: drop-shadow(0 0 6px #ef4444); }
             }
         </style>
     </head>
     <body>
         <nav class="navbar" data-astro-cid-l7arcky5>
             <div class="container" data-astro-cid-l7arcky5>
-                <!-- Sol Taraf: Logonuz -->
                 <a href="/" class="logo-link" data-astro-cid-l7arcky5><img src="/logo.png" alt="Wiccasoft Logo" class="logo-img" data-astro-cid-l7arcky5></a>
-                <!-- Sağ Taraf: Menü Linkleri -->
                 <div class="nav-links" data-astro-cid-l7arcky5><a href="/" class="nav-item active" data-astro-cid-l7arcky5>Ana Sayfa</a><a href="/hakkimizda" class="nav-item" data-astro-cid-l7arcky5>Hakkımızda</a><a href="/projeler" class="nav-item" data-astro-cid-l7arcky5>Projeler</a><a href="/iletisim" class="nav-item contact-btn" data-astro-cid-l7arcky5>İletişim</a></div>
             </div>
         </nav>
@@ -76,9 +78,15 @@
             <div class="hero-content" data-astro-cid-lcdefpme>
                 <h1 data-astro-cid-lcdefpme>All in <span class="text-gradient" data-astro-cid-lcdefpme>One Browser</span></h1>
                 
-                <!-- 🌪 BAŞLIĞIN ALTINA TAM ORTALI 150PX KORUMALI IFRAME YERLEŞTİRİLDİ -->
+                <!-- 🔮 Native, Iframe-Free Voxel Matrix Geometry -->
                 <div class="vortex-container">
-                    <iframe src="./seed.html" scrolling="no"></iframe>
+                    <svg class="w-[110px] h-[110px] text-neutral-400 vortex-pulse" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2">
+                        <polygon points="50,5 95,27.5 95,72.5 50,95 5,72.5 5,27.5" />
+                        <line x1="50" y1="5" x2="50" y2="95" />
+                        <line x1="5" y1="27.5" x2="95" y2="72.5" />
+                        <line x1="5" y1="72.5" x2="95" y2="27.5" />
+                        <polygon points="50,27.5 72.5,50 50,72.5 27.5,50" />
+                    </svg>
                 </div>
                 
                 <p data-astro-cid-lcdefpme>Browse the world at the speed of light with electron infrastructure</p>
