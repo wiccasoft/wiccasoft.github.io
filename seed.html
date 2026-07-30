@@ -480,7 +480,7 @@ spheres.forEach(s => {
     if (odaMesh && !s.isPole) {
         // 🔑 KRİTİK EKLEME: Parlama ışığı da zamanla sönmeli ki renk doygunluğu korunsun
         if (odaMesh.material.emissiveIntensity > 0.3) {
-            odaMesh.material.emissiveIntensity -= sabitDelta * 10.0;
+            odaMesh.material.emissiveIntensity -= sabitDelta * 2.0;
         }
 
         // Akıllı kademeli opaklık sönmesi (Yaşam Çiçeği formu)
