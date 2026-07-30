@@ -478,7 +478,12 @@ function animate() {
 spheres.forEach(s => {
     let odaMesh = KuantumKafesi.getObjectByName(s.name);
     if (odaMesh && !s.isPole) {
-        // Işık sönme hızı ve dinamik opacity: 0.15 seviyesine kadar kademeli düşüş
+        // 🔑 KRİTİK EKLEME: Parlama ışığı da zamanla sönmeli ki renk doygunluğu korunsun
+        if (odaMesh.material.emissiveIntensity > 0.3) {
+            odaMesh.material.emissiveIntensity -= sabitDelta * 20.0;
+        }
+
+        // Akıllı kademeli opaklık sönmesi (Yaşam Çiçeği formu)
         if (odaMesh.material.opacity > 0.15) {
             let sonmeHizi = (odaMesh.material.opacity > 0.35) ? 0.2 : 1.5;
             odaMesh.material.opacity -= sabitDelta * sonmeHizi;
