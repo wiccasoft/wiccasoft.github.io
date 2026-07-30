@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>3D Kusursuz Metatron Gök Mekanizması</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #020204;
+            overflow: hidden;
+        }
+        #canvas3d {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+    <!-- Yerel kütüphane bağlantıların aynen korunmuştur -->
+    <script src="./three.min.js"></script>
+    <script src="./OrbitControls.js"></script>
+</head>
+<body>
+
+    <div id="canvas3d"></div>
+
+<script>
+
+const scene = new THREE.Scene(); // Önce sahne oluşturulur
+const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
+scene.add(KuantumKafesi);
+
+
+
+   // ============================================================================
+// BÖLÜM 1: INVERSE SQUARE FRAKTAL METATRON GENERATÖRÜ (KUTSAL MEKANİZMA)
+// ============================================================================
+class MetatronOktav {
+    constructor(x_ofset, katmanIndex, temelBoyut, renkA, renkB) {
+        this.x_ofset = x_ofset;             // Yan yana 3 küp için X koordinatı kayması
+        this.katmanIndex = katmanIndex;     // 1, 2, 3... (Enerji Seviyesi)
+        
+        // 📐 Ters Kare Yasası (Inverse Square Law) Boyut Katsayısı
+        // Katman büyüdükçe yarıçap katlanarak genişler (r = 1, r = 2, r = 4...)
+        this.radius = temelBoyut * Math.pow(2, katmanIndex - 1); 
+        
+        // Ters kareye göre enerji yoğunluğu (1 / r²)
+        this.enerjiYogunlugu = 1.0 / Math.pow(this.radius, 2);
+
+        this.group = new THREE.Group();
+        this.group.position.x = x_ofset; // Küpün uzaydaki dikey/yatay yönü
+
+        this.renkA = renkA;
+        this.renkB = renkB;
+
+        this.initMetatronKafesi();
+    }
+
+    initMetatronKafesi() {
+        // 🔲 Katman İskeletini (Küp/Tetrahedron) Otomatik Çiz
+        const icKupGeo = new THREE.BoxGeometry(this.radius * 2, this.radius * 2, this.radius * 2);
+        // Çizgi saydamlığı da Ters Kare Yasası'na göre dışa doğru solar
+        const icKupMat = new THREE.MeshBasicMaterial({ 
+            color: this.renkA, 
+            wireframe: true, 
+            transparent: true, 
+            opacity: 0.05 * this.enerjiYogunlugu 
+        });
+        const kafesMesh = new THREE.Mesh(icKupGeo, icKupMat);
+        this.group.add(kafesMesh);
+
+        // 🪞 4 Yön Pusulası ve Zıtların Birliği (Union of Opposites) Opozit Odaları
+        // Küre konumları elle değil, vektörel olarak tam 180° karşıt aksa otomatik hesaplanır
+        const posA = new THREE.Vector3(this.radius, this.radius, this.radius);
+        const posB = posA.clone().multiplyScalar(-1); // Tam 180° kutupsallık (Aks)
+
+        // Odaların boyutları da fraktal olarak katsayıya göre ölçeklenir
+        this.odaA = this.createCamOda(this.renkA, posA, `Oda_A_Katman_${this.katmanIndex}`);
+        this.odaB = this.createCamOda(this.renkB, posB, `Oda_B_Katman_${this.katmanIndex}`);
+
+        this.group.add(this.odaA);
+        this.group.add(this.odaB);
+    }
+
+    createCamOda(color, pos, name) {
+        const geom = new THREE.SphereGeometry(this.radius * 0.18, 16, 16);
+        const mat = new THREE.MeshPhongMaterial({
+            color: color,
+            emissive: color,
+            // Kalp Atışı (Pulse) parlama şiddeti Ters Kare Yoğunluğuna bağlanır
+            emissiveIntensity: 0.4 * this.enerjiYogunlugu,
+            transparent: true,
+            opacity: 0.6,
+            depthCompass: true
+        });
+        const mesh = new THREE.Mesh(geom, mat);
+        mesh.position.copy(pos);
+        mesh.name = name;
+        return mesh;
+    }
+
+    vortexGuncelle(zamanAçısı) {
+        // 🐍 Yılan gibi sinüs dalgası çizen Ouroboros (3D Helix) hareketi
+        let sY = Math.sin(zamanAçısı) * this.radius * 0.6;
+        
+        this.odaA.position.set(this.radius * Math.cos(zamanAçısı), sY, this.radius * Math.sin(zamanAçısı));
+        this.odaB.position.set(this.radius * Math.cos(zamanAçısı + Math.PI), -sY, this.radius * Math.sin(zamanAçısı + Math.PI));
+    }
+}
+
+
+const KuantumKafesi = new THREE.Group();
+scene.add(KuantumKafesi);
+
+// 📐 Yan Yana ve İç İçe 3 Farklı Metatron Enerji Seviyesini Otomatik Üret
+const metatronMatrisi = [
+    new MetatronOktav(-0.6, 1, 0.12, 0xff0000, 0x00ff00), // 1. Küp (Sol: Kırmızı-Yeşil Çekirdek)
+    new MetatronOktav( 0.0, 2, 0.12, 0xff6600, 0x00bfff), // 2. Küp (Orta: Turuncu-Mavi Aks)
+    new MetatronOktav( 0.6, 3, 0.12, 0xffff00, 0x8a2be2)  // 3. Küp (Sağ: Satürn-Güneş Oktavı)
+];
+
+metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
+
+// Animasyon motorunda tek bir döngüde sarmalı (Ouroboros) tetikle
+function animate() {
+    requestAnimationFrame(animate);
+    let zaman = performance.now() * 0.001;
+
+    metatronMatrisi.forEach((kup, index) => {
+        // Her yön ve boyuta hafif bir faz farkı vererek yılan dalgası oluşturulur
+        kup.vortexGuncelle(zaman + (index * Math.PI / 4));
+    });
+
+    controls.update();
+    renderer.render(scene, camera);
+}
+</script>
+</body>
+</html>
