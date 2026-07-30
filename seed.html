@@ -386,6 +386,10 @@ let aktifIndexB = 0;
 // ============================================================================
 let globalDönüşHızı = 0.005; // Kararlı baseline dönüş momentumu
 
+const hedefFPS = 25;
+const kareAralığı = 1000 / hedefFPS; // 40ms
+let sonKareZamanı = performance.now();
+
 // ============================================================================
 // BÖLÜM 4: ADIM ADIM TETİKLENEN GLUON VE AŞAMALI ROTASYON MOTORU
 // ============================================================================
@@ -393,6 +397,15 @@ const clock = new THREE.Clock();
 
 function animate() {
     requestAnimationFrame(animate);
+
+      // 🛠 25 FPS Zaman Bazlı Filtreleme
+    const şimdikiZaman = performance.now();
+    const geçenSüre = şimdikiZaman - sonKareZamanı;
+
+    if (geçenSüre < kareAralığı) return; // Süre dolmadıysa kareyi atla
+    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı); 
+
+  
     const delta = clock.getDelta();
 
     // Dönen Kafes İçindeki Canlı Kutup Odalarını Yakala
