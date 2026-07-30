@@ -79,6 +79,8 @@ class MetatronOktav {
         this.renkA = renkA;
         this.renkB = renkB;
 
+        this.tersSpin = (katmanIndex % 2 === 0); // Vites yönünü otomatik katmana bağlar
+        
         // 🔑 MetatronOktav Sınıfının İçine Yeni Bir Yardımcı Fonksiyon:
         createGluonParcacik(color) {
             const geo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
@@ -121,11 +123,13 @@ class MetatronOktav {
 
         this.group.add(this.odaA);
         this.group.add(this.odaB);
+
+            //  Küpün etrafına 13 Ay/Ton Dreamspell dişli halkasını giydir
+        this.halkaGrup = new THREE.Group();
+        this.group.add(this.halkaGrup);
     }
 
-    // 🔑 EKLEMELİSİN: Küpün etrafına 13 Ay/Ton Dreamspell dişli halkasını giydir
-this.halkaGrup = new THREE.Group();
-this.group.add(this.halkaGrup);
+
 
 const halkaGeo = new THREE.RingGeometry(this.radius * 1.2, this.radius * 1.3, 13); // 13 Çentikli Dişli
 const halkaMat = new THREE.MeshBasicMaterial({ 
@@ -165,14 +169,12 @@ for (let i = 0; i < 13; i++) {
         return mesh;
     }
 
-    vortexGuncelle(zamanAçısı) {
-        //  Yılan gibi sinüs dalgası çizen Ouroboros (3D Helix) hareketi
+vortexGuncelle(zamanAçısı) {
+        // Yılan gibi sinüs dalgası çizen Ouroboros (3D Helix) hareketi
         let sY = Math.sin(zamanAçısı) * this.radius * 0.6;
-        
         this.odaA.position.set(this.radius * Math.cos(zamanAçısı), sY, this.radius * Math.sin(zamanAçısı));
         this.odaB.position.set(this.radius * Math.cos(zamanAçısı + Math.PI), -sY, this.radius * Math.sin(zamanAçısı + Math.PI));
-   
-            // 🔑 vortexGuncelle(zamanAçısı) FONKSİYONUNUN İÇİNE
+
         // Gluon İlerlemeleri
         this.gIlerleme1 += 0.008;
         this.gIlerleme2 += 0.008;
@@ -182,13 +184,12 @@ for (let i = 0; i < 13; i++) {
         // Odalar arasında sarmal LERP (Ouroboros) akışı
         this.gluon1.position.lerpVectors(this.odaA.position, this.odaB.position, this.gIlerleme1);
         this.gluon2.position.lerpVectors(this.odaB.position, this.odaA.position, this.gIlerleme2);
-    }
-// 🔑 EKLEMELİSİN: 13 Ay Çarkını kendi katman vitesine (ters/düz) göre jiro bükümüne sok
-let vitesYonu = this.tersSpin ? -0.2 : 0.2;
-this.halkaGrup.rotation.z = zamanAçısı * vitesYonu;
-this.halkaGrup.rotation.y = Math.sin(zamanAçısı * 0.5) * 0.15; // 3D Sallantı dalgası
 
-}
+        // 🔑 DOĞRU YER: 13 Ay Çarkını döndüren satırlar TAM OLARAK BURAYA, fonksiyon bitmeden hemen önce yerleşmeli!
+        let vitesYonu = this.tersSpin ? -0.2 : 0.2;
+        this.halkaGrup.rotation.z = zamanAçısı * vitesYonu;
+        this.halkaGrup.rotation.y = Math.sin(zamanAçısı * 0.5) * 0.15; // 3D Sallantı dalgası
+    }
 
 
 const KuantumKafesi = new THREE.Group();
