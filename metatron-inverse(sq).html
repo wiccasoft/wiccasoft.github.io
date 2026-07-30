@@ -185,46 +185,59 @@ metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
 
     let kalpAtisiZamani = 0;
 // Animasyon motorunda tek bir döngüde sarmalı (Ouroboros) tetikle
+// --- ⏳ GALAKTİK ZAMAN VE OUROBOROS MOTORU (BOZULMAZ OMURGA) ---
 function animate() {
+    // 1. ADIM: 1 Hz Kalp Atışı (Pulse) Zamanlayıcı Ritimleri
+    let delta = 0.016; // 60 FPS standart akış adımı
+    kalpAtisiZamani += delta;
 
+    if (kalpAtisiZamani >= 1.0) { // Her 1 Saniyede Evrenin Kalbi 1 Kez Çakar
+        kalpAtisiZamani = 0;
+        
+        // Tüm katman odalarını Ters Kare Yasasına (1/r²) göre şarj et
+        metatronMatrisi.forEach(kup => {
+            kup.odaA.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
+            kup.odaB.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
+        });
+    }
 
-// animate() döngüsünün tam içine, let zaman = ... satırından hemen sonra ekle:
-let delta = 0.016; // 60 FPS standart adım
-kalpAtisiZamani += delta;
-
-if (kalpAtisiZamani >= 1.0) { // Her 1 Saniyede 1 Pulse Çakar
-    kalpAtisiZamani = 0;
-    
-    // Tüm katmanlardaki odaların parlamasını Ters Kare Yasasına göre tetikle
+    // Cam odaların parlamasını zamanla yavaşça sönümleme (Stabilite Dengesi)
     metatronMatrisi.forEach(kup => {
-        kup.odaA.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
-        kup.odaB.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
+        if (kup.odaA.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
+            kup.odaA.material.emissiveIntensity -= delta * 2.0;
+        }
+        if (kup.odaB.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
+            kup.odaB.material.emissiveIntensity -= delta * 2.0;
+        }
     });
-}
 
-// Mevcut odaların parlamasını yavaşça sönümleme (Denge)
-metatronMatrisi.forEach(kup => {
-    if (kup.odaA.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
-        kup.odaA.material.emissiveIntensity -= delta * 2.0;
-    }
-    if (kup.odaB.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
-        kup.odaB.material.emissiveIntensity -= delta * 2.0;
-    }
-});
+    // 2. ADIM: Maya 13 Ay Dreamspell Galaktik Zaman Katsayısı
+    // Düz zaman yerine, tüm sistemi 13'lü Wavespell dalgasına bağlayan akış
+    let galaktikZaman = performance.now() * 0.0006; 
 
-    requestAnimationFrame(animate);
-    let zaman = performance.now() * 0.001;
-    
+    // 3'lü Küp ve 6 Gluon Parçacığının Ters Yönlü Girdaplarını Tetikle
     metatronMatrisi.forEach((kup, index) => {
-        kup.vortexGuncelle(zaman + (index * Math.PI / 4));
+        // Çarkların birbirini ezmemesi, Yaşam Çiçeğinin tepeden bakışta 
+        // korunması için sol ve sağ küp düz, ortadaki küp ters yönlü (Yin-Yang) döner
+        let spinYonu = (index % 2 === 0) ? 1 : -1;
+        kup.vortexGuncelle((galaktikZaman * spinYonu) + (index * Math.PI / 4));
     });
 
-    //Kontrollerin jiro yumuşatmasını her karede tetikler
+    // Ana kuantum kafesini (Uzay Gemisi Dünya) yavaşça döndürerek 3D derinliği artır
+    KuantumKafesi.rotation.y += 0.0002;
+
+    // 3. ADIM: WebGL Canlandırma ve Ekran Basıcı Bağlantıları
+    requestAnimationFrame(animate);
+
+    // OrbitControls jiro yumuşatmasını güncelle
     controls.update(); 
 
-    // Ekranı bas
+    // Sahneyi kameradan ekrana bas
     renderer.render(scene, camera);
 }
+
+// 🔑 ENERJİ VER: Dosyanın çalışması için en altta motoru tetiklemeyi unutmuyoruz
+animate();
 </script>
 </body>
 </html>
