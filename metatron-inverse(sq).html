@@ -146,9 +146,8 @@ class MetatronOktav {
         
         this.odaA.position.set(this.radius * Math.cos(zamanAçısı), sY, this.radius * Math.sin(zamanAçısı));
         this.odaB.position.set(this.radius * Math.cos(zamanAçısı + Math.PI), -sY, this.radius * Math.sin(zamanAçısı + Math.PI));
-    }
-
-    // 🔑 vortexGuncelle(zamanAçısı) FONKSİYONUNUN İÇİNE
+   
+            // 🔑 vortexGuncelle(zamanAçısı) FONKSİYONUNUN İÇİNE
         // Gluon İlerlemeleri
         this.gIlerleme1 += 0.008;
         this.gIlerleme2 += 0.008;
@@ -158,14 +157,15 @@ class MetatronOktav {
         // Odalar arasında sarmal LERP (Ouroboros) akışı
         this.gluon1.position.lerpVectors(this.odaA.position, this.odaB.position, this.gIlerleme1);
         this.gluon2.position.lerpVectors(this.odaB.position, this.odaA.position, this.gIlerleme2);
+    }
+
+
 }
 
 
 const KuantumKafesi = new THREE.Group();
 // --- GEZEGEN VE KAFES YAPILARINI SAHNEYE ONAYLI EKLEME ---
-metatronMatrisi.forEach(m => {
-    KuantumKafesi.add(m.group); // Kendi fraktal grubuna eklenir
-});
+
 // 🔑 EKLEMELİSİN: Kuantum Kafesi grubunu bütünüyle ana sahneye bağla
 scene.add(KuantumKafesi); 
 
@@ -174,14 +174,20 @@ const metatronMatrisi = [
     new MetatronOktav(-0.6, 1, 0.12, 0xff0000, 0x00ff00), // 1. Küp (Sol: Kırmızı-Yeşil Çekirdek)
     new MetatronOktav( 0.0, 2, 0.12, 0xff6600, 0x00bfff), // 2. Küp (Orta: Turuncu-Mavi Aks)
     new MetatronOktav( 0.6, 3, 0.12, 0xffff00, 0x8a2be2)  // 3. Küp (Sağ: Satürn-Güneş Oktavı)
+
+    metatronMatrisi.forEach(m => {
+    KuantumKafesi.add(m.group); // Kendi fraktal grubuna eklenir
+});
 ];
 
 metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
 
+
+    let kalpAtisiZamani = 0;
 // Animasyon motorunda tek bir döngüde sarmalı (Ouroboros) tetikle
 function animate() {
 
-    let kalpAtisiZamani = 0;
+
 // animate() döngüsünün tam içine, let zaman = ... satırından hemen sonra ekle:
 let delta = 0.016; // 60 FPS standart adım
 kalpAtisiZamani += delta;
