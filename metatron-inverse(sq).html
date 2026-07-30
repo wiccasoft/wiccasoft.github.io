@@ -141,7 +141,7 @@ class MetatronOktav {
     }
 
     vortexGuncelle(zamanAçısı) {
-        // 🐍 Yılan gibi sinüs dalgası çizen Ouroboros (3D Helix) hareketi
+        //  Yılan gibi sinüs dalgası çizen Ouroboros (3D Helix) hareketi
         let sY = Math.sin(zamanAçısı) * this.radius * 0.6;
         
         this.odaA.position.set(this.radius * Math.cos(zamanAçısı), sY, this.radius * Math.sin(zamanAçısı));
@@ -166,10 +166,10 @@ class MetatronOktav {
 const KuantumKafesi = new THREE.Group();
 // --- GEZEGEN VE KAFES YAPILARINI SAHNEYE ONAYLI EKLEME ---
 
-// 🔑 EKLEMELİSİN: Kuantum Kafesi grubunu bütünüyle ana sahneye bağla
+// Kuantum Kafesi grubunu bütünüyle ana sahneye bağla
 scene.add(KuantumKafesi); 
 
-// 📐 Yan Yana ve İç İçe 3 Farklı Metatron Enerji Seviyesini Otomatik Üret
+//  Yan Yana ve İç İçe 3 Farklı Metatron Enerji Seviyesini Otomatik Üret
 const metatronMatrisi = [
     new MetatronOktav(-0.6, 1, 0.12, 0xff0000, 0x00ff00), // 1. Küp (Sol: Kırmızı-Yeşil Çekirdek)
     new MetatronOktav( 0.0, 2, 0.12, 0xff6600, 0x00bfff), // 2. Küp (Orta: Turuncu-Mavi Aks)
@@ -219,7 +219,7 @@ metatronMatrisi.forEach(kup => {
         kup.vortexGuncelle(zaman + (index * Math.PI / 4));
     });
 
-    // 🔑 EKLEMELİSİN: Kontrollerin jiro yumuşatmasını her karede tetikler
+    //Kontrollerin jiro yumuşatmasını her karede tetikler
     controls.update(); 
 
     // Ekranı bas
