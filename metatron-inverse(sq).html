@@ -151,13 +151,15 @@ metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
 function animate() {
     requestAnimationFrame(animate);
     let zaman = performance.now() * 0.001;
-
+    
     metatronMatrisi.forEach((kup, index) => {
-        // Her yön ve boyuta hafif bir faz farkı vererek yılan dalgası oluşturulur
         kup.vortexGuncelle(zaman + (index * Math.PI / 4));
     });
 
-    controls.update();
+    // 🔑 EKLEMELİSİN: Kontrollerin jiro yumuşatmasını her karede tetikler
+    controls.update(); 
+
+    // Ekranı bas
     renderer.render(scene, camera);
 }
 </script>
