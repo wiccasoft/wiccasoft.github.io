@@ -123,6 +123,31 @@ class MetatronOktav {
         this.group.add(this.odaB);
     }
 
+    // 🔑 EKLEMELİSİN: Küpün etrafına 13 Ay/Ton Dreamspell dişli halkasını giydir
+this.halkaGrup = new THREE.Group();
+this.group.add(this.halkaGrup);
+
+const halkaGeo = new THREE.RingGeometry(this.radius * 1.2, this.radius * 1.3, 13); // 13 Çentikli Dişli
+const halkaMat = new THREE.MeshBasicMaterial({ 
+    color: this.renkB, 
+    wireframe: true, 
+    transparent: true, 
+    opacity: 0.15 * this.enerjiYogunlugu 
+});
+this.halkaMesh = new THREE.Mesh(halkaGeo, halkaMat);
+this.halkaGrup.add(this.halkaMesh);
+
+// 13 Çentik Üzerine Kozmik Kapı Noktaları (Matris Puanları) Yerleştir
+for (let i = 0; i < 13; i++) {
+    const rAci = (i * Math.PI * 2) / 13;
+    const noktaGeo = new THREE.SphereGeometry(this.radius * 0.025, 8, 8);
+    const noktaMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.6 });
+    const noktaMesh = new THREE.Mesh(noktaGeo, noktaMat);
+    
+    noktaMesh.position.set(this.radius * 1.25 * Math.cos(rAci), this.radius * 1.25 * Math.sin(rAci), 0);
+    this.halkaGrup.add(noktaMesh);
+}
+
     createCamOda(color, pos, name) {
         const geom = new THREE.SphereGeometry(this.radius * 0.18, 16, 16);
         const mat = new THREE.MeshPhongMaterial({
