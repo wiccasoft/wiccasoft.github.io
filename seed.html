@@ -488,9 +488,9 @@ function animate() {
                 if (odaMesh.material.emissiveIntensity > 0.05) {
                    odaMesh.material.emissiveIntensity -= sabitDelta * 100.0;
                 }
-                if (odaMesh.material.opacity > 0.15) {
-                    odaMesh.material.opacity -= delta * 2.5;
-                }
+               if (odaMesh.material.opacity > 0.15) {
+                odaMesh.material.opacity -= sabitDelta * 2.5;
+            }
             }
         }
     });
