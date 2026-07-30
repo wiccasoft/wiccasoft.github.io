@@ -475,18 +475,13 @@ function animate() {
     }
 
     // --- 3. DEŞARJ DÖNGÜSÜ (Güvenlik bloğunun dışına alındı, odalar her koşulda sönebilecek) ---
- spheres.forEach(s => {
-    if (!s.isPole) {
-        let odaMesh = KuantumKafesi.getObjectByName(s.name);
-        if (odaMesh) {
-            // Işık sönme hızı yavaşlatıldı (Daha uzun süre yanma)
-            if (odaMesh.material.emissiveIntensity > 0.05) {
-                odaMesh.material.emissiveIntensity -= sabitDelta * 10.0;
-            }
-            // Opaklık sönme hızı azaltılarak kürelerin daha koyu kalması sağlandı
-            if (odaMesh.material.opacity > 0.35) {
-                odaMesh.material.opacity -= sabitDelta * 0.2;
-            }
+spheres.forEach(s => {
+    let odaMesh = KuantumKafesi.getObjectByName(s.name);
+    if (odaMesh && !s.isPole) {
+        // Işık sönme hızı ve dinamik opacity: 0.15 seviyesine kadar kademeli düşüş
+        if (odaMesh.material.opacity > 0.15) {
+            let sonmeHizi = (odaMesh.material.opacity > 0.35) ? 0.2 : 1.5;
+            odaMesh.material.opacity -= sabitDelta * sonmeHizi;
         }
     }
 });
