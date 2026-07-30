@@ -309,14 +309,14 @@ const centerSphereMat = new THREE.MeshPhongMaterial({
   opacity: 0.4
 });
 
-const centerSphere = new THREE.Mesh(centerSphereGeom, centerSphereMat);
-centerSphere.position.set(0,0,0);
-scene.add(centerSphere);
+//const centerSphere = new THREE.Mesh(centerSphereGeom, centerSphereMat);
+//centerSphere.position.set(0,0,0);
+//scene.add(centerSphere);
 
 // 6 küreyi etrafına yerleştir
 const offsets = [];
 
-offsets.forEach(pos => {});
+offsets.forEach(pos => {sphere.visible = false; scene.add( sphere);});
 
 
 // Top view butonu için
