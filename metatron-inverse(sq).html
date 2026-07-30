@@ -79,6 +79,21 @@ class MetatronOktav {
         this.renkA = renkA;
         this.renkB = renkB;
 
+        // 🔑 MetatronOktav Sınıfının İçine Yeni Bir Yardımcı Fonksiyon:
+        createGluonParcacik(color) {
+            const geo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
+            const mat = new THREE.MeshBasicMaterial({ color: color, transparent: true, opacity: 0.9 });
+            return new THREE.Mesh(geo, mat);
+        }
+
+        // 🔑 constructor() İÇİNDE, İNİT FONKSİYONUNDAN HEMEN SONRA 
+            this.gluon1 = this.createGluonParcacik(this.renkA);
+            this.gluon2 = this.createGluonParcacik(this.renkB);
+            this.group.add(this.gluon1);
+            this.group.add(this.gluon2);
+            this.gIlerleme1 = 0.0;
+            this.gIlerleme2 = 0.5; // Karşıt faz dengesi (Biri giderken diğeri gelir)
+
         this.initMetatronKafesi();
     }
 
@@ -132,11 +147,27 @@ class MetatronOktav {
         this.odaA.position.set(this.radius * Math.cos(zamanAçısı), sY, this.radius * Math.sin(zamanAçısı));
         this.odaB.position.set(this.radius * Math.cos(zamanAçısı + Math.PI), -sY, this.radius * Math.sin(zamanAçısı + Math.PI));
     }
+
+    // 🔑 vortexGuncelle(zamanAçısı) FONKSİYONUNUN İÇİNE
+        // Gluon İlerlemeleri
+        this.gIlerleme1 += 0.008;
+        this.gIlerleme2 += 0.008;
+        if (this.gIlerleme1 > 1.0) this.gIlerleme1 = 0.0;
+        if (this.gIlerleme2 > 1.0) this.gIlerleme2 = 0.0;
+
+        // Odalar arasında sarmal LERP (Ouroboros) akışı
+        this.gluon1.position.lerpVectors(this.odaA.position, this.odaB.position, this.gIlerleme1);
+        this.gluon2.position.lerpVectors(this.odaB.position, this.odaA.position, this.gIlerleme2);
 }
 
 
 const KuantumKafesi = new THREE.Group();
-scene.add(KuantumKafesi);
+// --- GEZEGEN VE KAFES YAPILARINI SAHNEYE ONAYLI EKLEME ---
+metatronMatrisi.forEach(m => {
+    KuantumKafesi.add(m.group); // Kendi fraktal grubuna eklenir
+});
+// 🔑 EKLEMELİSİN: Kuantum Kafesi grubunu bütünüyle ana sahneye bağla
+scene.add(KuantumKafesi); 
 
 // 📐 Yan Yana ve İç İçe 3 Farklı Metatron Enerji Seviyesini Otomatik Üret
 const metatronMatrisi = [
