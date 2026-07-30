@@ -27,6 +27,37 @@
 const scene = new THREE.Scene(); // Önce sahne oluşturulur
 
 
+// --- 1. ADIM: SAHNE OLUŞTURULDUKTAN HEMEN SONRA ÇALIŞACAK ALTYAFI ---
+const container = document.getElementById('canvas3d');
+
+// 🎥 Perspektif Kamera (Derinlik ve 3D Projeksiyon İçin)
+const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
+camera.position.set(0.0, 0.8, 1.8); // Çapraz galaktik bakış açısı
+
+// 🖼️ WebGL Ekran Basıcı
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(window.innerWidth, window.innerHeight);
+container.appendChild(renderer.domElement);
+
+// 🕹️ OrbitControls (Fare / Ekran döndürme, yakınlaştırma)
+const controls = new THREE.OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;      // Yumuşak jiro ivmelenmesi
+controls.dampingFactor = 0.05;
+
+// 💡 Cam Odaların Fosforlu Parlaması İçin Gerekli Nükleer Işıklar
+const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
+scene.add(ambientLight);
+const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+dirLight.position.set(2, 4, 3);
+scene.add(dirLight);
+
+// Ekran Boyutu Değiştiğinde Pencereyi Otomatik Re-size Eden Sinyal
+window.addEventListener('resize', () => {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
    // ============================================================================
 // BÖLÜM 1: INVERSE SQUARE FRAKTAL METATRON GENERATÖRÜ (KUTSAL MEKANİZMA)
 // ============================================================================
