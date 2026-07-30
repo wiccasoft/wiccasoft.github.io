@@ -276,9 +276,14 @@ spheres.forEach(s => {
 const mat = new THREE.MeshPhongMaterial({
     color: s.color,
     emissive: s.color,
-    emissiveIntensity: s.isPole ? 1.0 : 0.3, // Başlangıç ışığı biraz daha parlak
+    emissiveIntensity: s.isPole ? 1.0 : 0.3,
     transparent: true,
-    opacity: s.isPole ? 1.0 : 0.6 // Başlangıç opaklığını %60'a çıkardık
+    opacity: s.isPole ? 1.0 : 0.6,
+    
+    // 🔑 KESİK GÖRÜNME SORUNUNU ÇÖZEN MATRİS AYARLARI
+    depthWrite: false,   // Kürelerin arkasındaki çizgilerin (Kafes, Tetrahedron) görünmesini sağlar, kesilmeyi bitirir.
+    depthTest: true,     // Nesnelerin derinlik algısını korur.
+    precision: "highp"   // GPU'nun piksel hesaplama hassasiyetini en üst seviyeye çıkarır.
 });
   
   const sphere = new THREE.Mesh(geom, mat);
