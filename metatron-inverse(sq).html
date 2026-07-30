@@ -183,7 +183,10 @@ for (let i = 0; i < 13; i++) {
         this.gluon1.position.lerpVectors(this.odaA.position, this.odaB.position, this.gIlerleme1);
         this.gluon2.position.lerpVectors(this.odaB.position, this.odaA.position, this.gIlerleme2);
     }
-
+// 🔑 EKLEMELİSİN: 13 Ay Çarkını kendi katman vitesine (ters/düz) göre jiro bükümüne sok
+let vitesYonu = this.tersSpin ? -0.2 : 0.2;
+this.halkaGrup.rotation.z = zamanAçısı * vitesYonu;
+this.halkaGrup.rotation.y = Math.sin(zamanAçısı * 0.5) * 0.15; // 3D Sallantı dalgası
 
 }
 
