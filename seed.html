@@ -314,21 +314,9 @@ centerSphere.position.set(0,0,0);
 scene.add(centerSphere);
 
 // 6 küreyi etrafına yerleştir
-const offsets = [
-  new THREE.Vector3(0.5,0,0),   // sağ
-  new THREE.Vector3(-0.5,0,0),  // sol
-  new THREE.Vector3(0,0.5,0),   // üst
-  new THREE.Vector3(0,-0.5,0),  // alt
-  new THREE.Vector3(0,0,0.5),   // ön
-  new THREE.Vector3(0,0,-0.5)   // arka
-];
+const offsets = [];
 
-offsets.forEach(pos => {
-  const sphereGeom = new THREE.SphereGeometry(0.3, 32, 32);
-  const sphere = new THREE.Mesh(sphereGeom, sphereMaterial.clone());
-  sphere.position.copy(pos);
-  scene.add(sphere);
-});
+offsets.forEach(pos => {});
 
 
 // Top view butonu için
