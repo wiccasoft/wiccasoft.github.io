@@ -496,6 +496,16 @@ spheres.forEach(s => {
     renderer.render(scene, camera);
 }
 
+  // 🔑 25 FPS KORUMA VE BOYUTLANDIRMA SENSÖRÜ (Tam burada, animate'ten hemen önce)
+window.addEventListener('resize', () => {
+    const yeniAspect = window.innerWidth / window.innerHeight;
+    camera.left = -d * yeniAspect;
+    camera.right = d * yeniAspect;
+    camera.top = d;
+    camera.bottom = -d;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
 // Motoru ateşle
 animate();
 </script>
