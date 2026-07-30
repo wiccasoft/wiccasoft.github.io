@@ -180,6 +180,32 @@ metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
 
 // Animasyon motorunda tek bir döngüde sarmalı (Ouroboros) tetikle
 function animate() {
+
+    let kalpAtisiZamani = 0;
+// animate() döngüsünün tam içine, let zaman = ... satırından hemen sonra ekle:
+let delta = 0.016; // 60 FPS standart adım
+kalpAtisiZamani += delta;
+
+if (kalpAtisiZamani >= 1.0) { // Her 1 Saniyede 1 Pulse Çakar
+    kalpAtisiZamani = 0;
+    
+    // Tüm katmanlardaki odaların parlamasını Ters Kare Yasasına göre tetikle
+    metatronMatrisi.forEach(kup => {
+        kup.odaA.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
+        kup.odaB.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
+    });
+}
+
+// Mevcut odaların parlamasını yavaşça sönümleme (Denge)
+metatronMatrisi.forEach(kup => {
+    if (kup.odaA.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
+        kup.odaA.material.emissiveIntensity -= delta * 2.0;
+    }
+    if (kup.odaB.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
+        kup.odaB.material.emissiveIntensity -= delta * 2.0;
+    }
+});
+
     requestAnimationFrame(animate);
     let zaman = performance.now() * 0.001;
     
