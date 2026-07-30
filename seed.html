@@ -403,9 +403,10 @@ function animate() {
     const geçenSüre = şimdikiZaman - sonKareZamanı;
 
     if (geçenSüre < kareAralığı) return; // Süre dolmadıysa kareyi atla
-    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı); 
-
-  
+    
+   // Geçen süreyi saniyeye çevirerek delta olarak kilitliyoruz (40ms = 0.04s)
+    const sabitDelta = geçenSüre / 1000; 
+    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
     const delta = clock.getDelta();
 
     // Dönen Kafes İçindeki Canlı Kutup Odalarını Yakala
@@ -455,7 +456,7 @@ function animate() {
         let turuTamamla = false;
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
-            paket.guncelle(delta);
+              paket.guncelle(sabitDelta);
 
             if (paket.ilerleme >= 1.0) {
                 let hedefData = spheres.find(o => o.id === paket.hedefId);
@@ -485,7 +486,7 @@ function animate() {
             let odaMesh = KuantumKafesi.getObjectByName(s.name);
             if (odaMesh) {
                 if (odaMesh.material.emissiveIntensity > 0.05) {
-                    odaMesh.material.emissiveIntensity -= delta * 4.0;
+                   odaMesh.material.emissiveIntensity -= sabitDelta * 100.0;
                 }
                 if (odaMesh.material.opacity > 0.15) {
                     odaMesh.material.opacity -= delta * 2.5;
