@@ -491,12 +491,12 @@ spheres.forEach(s => {
     }
 });
 
-    // --- 3. DÜZELTME: Render ve Kontroller tamamen bağımsız çalışmalı ---
+    // --- Render ve Kontroller tamamen bağımsız çalışmalı ---
     if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
 }
 
-  // 🔑 25 FPS KORUMA VE BOYUTLANDIRMA SENSÖRÜ (Tam burada, animate'ten hemen önce)
+  // 🔑 25 FPS KORUMA VE BOYUTLANDIRMA SENSÖRÜ 
 window.addEventListener('resize', () => {
     const yeniAspect = window.innerWidth / window.innerHeight;
     camera.left = -d * yeniAspect;
@@ -506,7 +506,7 @@ window.addEventListener('resize', () => {
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
-// Motoru ateşle
+// fire the engine
 animate();
 </script>
 </body>
