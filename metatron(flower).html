@@ -20,8 +20,16 @@
         const container = document.getElementById('canvas3d');
 
         // Camera setup with a diagonal perspective looking at the core geometry
-        const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
-        camera.position.set(1.5, 1.5, 2.0);
+        //const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
+        //camera.position.set(1.5, 1.5, 2.0);
+        // 📐 PERSPEKTİF IPTAL: 3B Derinlik illüzyonunu kapatıp tam teknik altıgen izleme kamerası kuruyoruz
+        const d = 1.5; // Kamera görüş alanı genişlik katsayısı
+        const camera = new THREE.OrthographicCamera(
+            -d * (window.innerWidth/window.innerHeight), 
+            d * (window.innerWidth/window.innerHeight), 
+            d, -d, 0.01, 100
+        );
+        camera.position.set(1.5, 1.5, 2.0); // Satürn aksı bakış açısı korunuyor
 
         const renderer = new THREE.WebGLRenderer({ antialias: true });
         renderer.setSize(window.innerWidth, window.innerHeight);
@@ -41,9 +49,12 @@
 
         // Viewport resize handling
         window.addEventListener('resize', () => {
-            camera.aspect = window.innerWidth / window.innerHeight;
-            camera.updateProjectionMatrix();
-            renderer.setSize(window.innerWidth, window.innerHeight);
+             const aspect = window.innerWidth / window.innerHeight;
+            camera.left = -d * aspect;
+            camera.right = d * aspect;
+            camera.top = d;
+            camera.bottom = -d;
+            camera.updateProjectionMatrix()
         });
 
         // --- THE METATRON GRID CORE CLASS ---
@@ -366,18 +377,26 @@ initMekanizma() {
             KuantumKafesi.add(saat.group);
         });
 
+// ⏳ 25 FPS KONTROL DÖNGÜSÜ (Zaman Sabitleyici)
+        let fpsZamani = performance.now();
+        const fpsAraligi = 1000 / 25; // Saniyede tam 25 kare akışı (40ms)
+
         function animate() {
             requestAnimationFrame(animate);
 
-            // Galaktik time track using high-precision performance clock
-            let galaktikZaman = performance.now() * 0.001;
+            let simdikiZaman = performance.now();
+            let gecenSure = simdikiZaman - fpsZamani;
 
-            // Trigger the 124875 vortex engine updates
-            // Tüm iç içe geçmiş katmanların vortex motorlarını aynı anda tetikle
+            // Eğer 40 milisaniye (1/25 sn) geçmediyse bu kareyi atla (Sistemi 25 FPS'e kilitler)
+            if (gecenSure < fpsAraligi) return;
+
+            // 25 FPS zaman çentiği kilitlendi, zamanı güncelle
+            fpsZamani = simdikiZaman - (gecenSure % fpsAraligi);
+
+            let galaktikZaman = simdikiZaman * 0.001;
+
+            // Tüm iç içe geçmiş katmanların vortex motorlarını 25 FPS ritmiyle tetikle
             metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
-
-            // Subtle secondary drift for structural depth observation
-            KuantumKafesi.rotation.y += 0.000;
 
             controls.update();
             renderer.render(scene, camera);
