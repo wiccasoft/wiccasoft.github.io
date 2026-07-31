@@ -152,49 +152,41 @@ initMekanizma() {
             }
 
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
+ // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
             updateVortex(galaktikZaman) {
-                // 800-year precession wave simulated via slow harmonic oscillations
-                let precessionOscillation = Math.sin(galaktikZaman * 0.05) * 0.15;
+                // Tesla 124875 serisi jiro-vites çarpanı
+                const vortexPattern = [1, 2, 4, 8, 7, 5];
                 
-                // Rotational spin inversion based on the 124875 vortex sequence sequence
-                const vortexPattern = [1,2,4,8,7,5];
-                
-                // 1️⃣ Animate Core and Outer Cubes via inverse square bükülme waves
-                this.coreCube.rotation.x = galaktikZaman * 0.15;
-                this.coreCube.rotation.y = galaktikZaman * 0.25;
-                
-                // Outer expansion cube rotates in opposition (Yin-Yang dual synchronization)
-                this.outerCube.rotation.x = -galaktikZaman * 0.10;
-                this.outerCube.rotation.z = -galaktikZaman * 0.15;
+                // 1️⃣ Küpler kütlesel dönmüyor: Tekillik stabilizasyonu korundu
+                this.coreCube.rotation.x = 0; this.coreCube.rotation.y = 0;
+                this.outerCube.rotation.x = 0; this.outerCube.rotation.z = 0;
 
-                // 2️⃣ Dynamic bükme on the Sqrt(2) Diagonal Aks Poles (Jüpiter-Satürn)
+                // 2️⃣ Sqrt(2) Diagonal Aks Odaları (Ters Kare Yasası ile Titreşim)
                 let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
-                let dynamicScale = radiusOffset + (Math.sin(galaktikZaman * 0.5) * 0.1);
+                this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
+                this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
                 
-                this.poleA.position.set(
-                    dynamicScale * Math.cos(precessionOscillation),
-                    dynamicScale,
-                    dynamicScale * Math.sin(precessionOscillation)
-                );
-                this.poleB.position.set(
-                    -dynamicScale * Math.cos(precessionOscillation),
-                    -dynamicScale,
-                    -dynamicScale * Math.sin(precessionOscillation)
-                );
+                // Emissive intensity, 0.5'ten başlayarak sinüs dalgasıyla 2.5'e kadar artar
+                this.poleA.material.emissiveIntensity = 0.5 + Math.abs(Math.sin(galaktikZaman * 3.0)) * 2.0;
+                this.poleB.material.emissiveIntensity = 0.5 + Math.abs(Math.cos(galaktikZaman * 3.0)) * 2.0;
 
-                // 3️⃣ Orbiting 13 Dreamspell Nodes following the vortex velocity sequence
+                // 3️⃣ Orbiting 13 Dreamspell Nodes following the 124875 velocity sequence
                 this.zamanOdaları.forEach((node, index) => {
                     let baseAngle = (index * Math.PI * 2) / 13;
                     
-                    // Apply Tesla's 124875 sequence to variable index-based step speeds
+                    // Tesla 124875 serisi hıza uygulanıyor
                     let stepMultiplier = vortexPattern[index % vortexPattern.length];
-                    let currentAngle = baseAngle + (galaktikZaman * 0.2 * stepMultiplier);
                     
+                    // Zaman aksı ekvatoral düzlemde akıyor
+                    let currentAngle = baseAngle + (galaktikZaman * 0.3 * stepMultiplier);
+                    
+                    // Yeşiller tam ekvator çemberinde kilitli, y=0
                     node.position.x = Math.cos(currentAngle) * this.radius * 1.3;
                     node.position.z = Math.sin(currentAngle) * this.radius * 1.3;
+                    node.position.y = 0;
                     
-                    // Inverted pyramid height wave ($\sqrt{2}$ harmonic axis)
-                    node.position.y = Math.sin(galaktikZaman + baseAngle) * 0.15 * Math.sqrt(2);
+                    // 124875 akış hızı parlama enerjisini (opasite) katlıyor
+                    node.material.opacity = 0.4 + (stepMultiplier * 0.05);
                 });
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
@@ -203,9 +195,18 @@ initMekanizma() {
         const KuantumKafesi = new THREE.Group();
         scene.add(KuantumKafesi);
 
-        // Deploy the 9-cube structured core grid
-        const metatronSaati = new MetatronGridSaati(0.6);
-        KuantumKafesi.add(metatronSaati.group);
+  // 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
+        const metatronMatrisi = [
+            new MetatronGridSaati(0.35), // İç Tohum (Çekirdek)
+            new MetatronGridSaati(0.55), // Orta Bölme (Dünya Katmanı)
+            new MetatronGridSaati(0.85)  // Dış Kalkan (192'li Kafes Çeperi)
+        ];
+
+        // Küpleri yan yana dizmek yerine, tam merkezde fraktal olarak iç içe geçiriyoruz
+        metatronMatrisi.forEach((saat, index) => {
+            saat.group.position.set(0, 0, 0);
+            KuantumKafesi.add(saat.group);
+        });
 
         function animate() {
             requestAnimationFrame(animate);
@@ -214,7 +215,8 @@ initMekanizma() {
             let galaktikZaman = performance.now() * 0.001;
 
             // Trigger the 124875 vortex engine updates
-            metatronSaati.updateVortex(galaktikZaman);
+            // Tüm iç içe geçmiş katmanların vortex motorlarını aynı anda tetikle
+            metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
 
             // Subtle secondary drift for structural depth observation
             KuantumKafesi.rotation.y += 0.001;
