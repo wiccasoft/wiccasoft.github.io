@@ -137,6 +137,43 @@ initMekanizma() {
                     this.group.add(zrMesh);
                     this.zamanOdaları.push(zrMesh);
                 }
+
+
+                               // 📐 ADIM 6: Boyutsal Ters Piramitlerin (Inverted Pyramids) Cam Duvarları
+                // İç kübün 6 yüzeyinden dış kübün 6 yüzeyine genişleyen 6 odalık koridor
+                const icYari = this.radius * 0.5;
+                const disYari = (this.radius * Math.sqrt(2)) * 0.5;
+                
+                // Kübün 6 yönündeki yüzey merkezlerini bağlayan piramit kafes çizimi
+                const yonler = [
+                    [1,0,0], [-1,0,0], [0,1,0], [0,-1,0], [0,0,1], [0,0,-1]
+                ];
+
+                yonler.forEach((y, i) => {
+                    // Her bir ters piramit için özel çizgisel geometri oluşturuluyor
+                    const pyrGeom = new THREE.BufferGeometry();
+                    
+                    // İç yüzeyin 4 köşesi ve dış yüzeyin karşılık gelen 4 köşesi
+                    // Bu noktalar arası geçiş tam aradığın inverse square kovanını oluşturur
+                    const vertices = new Float32Array([
+                        // İç taban noktaları ve dış taban noktaları çapraz kilitlenir
+                        y[0]*icYari, y[1]*icYari, y[2]*icYari,
+                        y[0]*disYari, y[1]*disYari, y[2]*disYari
+                    ]);
+                    
+                    pyrGeom.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
+                    
+                    // İçi görünür kılan yarı şeffaf cam materyal
+                    const pyrMat = new THREE.MeshBasicMaterial({
+                        color: 0xff3300,
+                        wireframe: true, // Çizgisel iskeleti belli olsun diye
+                        transparent: true,
+                        opacity: 0.18
+                    });
+                    
+                    const pyrMesh = new THREE.Mesh(pyrGeom, pyrMat);
+                    this.group.add(pyrMesh);
+                });
             }
 
 
