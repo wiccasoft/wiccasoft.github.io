@@ -65,6 +65,7 @@
 initMekanizma() {
                 // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
                 const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
+                
 
                 // 🏛️ MERKEZ TERS PİRAMİT ODALARI (Işığın çıktığı yerler saf beyaz olarak parlar)
                 const katsayi = this.radius * 0.45;
@@ -91,7 +92,7 @@ initMekanizma() {
                     color: 0x00ffff, 
                     wireframe: true, 
                     transparent: true, 
-                    opacity: 0.35 
+                    opacity: 0.00 // 🔑 KUBÜN ÇİZGİLERİ SAKLANDI
                 });
                 this.coreCube = new THREE.Mesh(coreGeo, coreMat);
                 this.group.add(this.coreCube);
