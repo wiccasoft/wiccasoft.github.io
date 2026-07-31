@@ -8,8 +8,8 @@
         #canvas3d { width: 100vw; height: 100vh; }
     </style>
     <!-- Kararlı, THREE.OrbitControls'ü destekleyen r128 sürümleri -->
-<script src="https://cdn.jsdelivr.net/npm/three@0.146/build/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/three@0.146/examples/js/controls/OrbitControls.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
 </head>
 <body>
     <div id="canvas3d"></div>
@@ -325,13 +325,15 @@ initMekanizma() {
                     // 🔑 İLLÜZYON SUSTURULDU: Opasite 0.02'ye çekilerek arka plana gizlendi
                     node.material.opacity = 0.02;
 
-                // Satürn'ün 800 yıllık salınım döngüsü Yaşam Çiçeği halkalarını ışıkla nefeslendirir
+               
+                    
+                });
+
+                 // Satürn'ün 800 yıllık salınım döngüsü Yaşam Çiçeği halkalarını ışıkla nefeslendirir
                 this.yasamCicegiHalkalari.forEach((halka, idx) => {
                     halka.material.opacity = 0.1 + Math.abs(Math.sin(galaktikZaman * 0.5 + idx)) * 0.3;
                     // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
                     halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
-                });
-                    
                 });
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
