@@ -218,7 +218,19 @@
         metatronMatrisi[1].group.position.x =  0.0;
         metatronMatrisi[2].group.position.x =  0.7;
 
-        metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
+        //metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
+
+
+        // --- Küpleri yan yana dizmek yerine, tam merkezde fraktal olarak iç içe geçiriyoruz ---
+metatronMatrisi.forEach((kup, index) => {
+    // Tüm küpleri uzayın merkezine ($0,0,0$) sabitliyoruz
+    kup.group.position.set(0, 0, 0);
+    
+    // Her oktav, Nassim Haramein ve $\sqrt{2}$ fraktal katsayısına göre 
+    // bir öncekinin çekirdek boşluğuna yerleşecek şekilde iç içe ölçeklenir
+    let fraktalMerkezÖlçeği = Math.pow(1.259921, index); // Küpkök 2 hacim katlama/bölme
+    kup.group.scale.set(fraktalMerkezÖlçeği, fraktalMerkezÖlçeği, fraktalMerkezÖlçeği);
+});
 
         // --- ⏳ GALAKTİK ZAMAN VE KALP ATIŞI (PULSE) MOTORU ---
         let kalpAtisiZamani = 0;
