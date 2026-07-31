@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>3D Kutsal Geometri: 24 Odalı Metatron Saati</title>
+    <style>
+        body { margin: 0; background-color: #020204; overflow: hidden; }
+        #canvas3d { width: 100vw; height: 100vh; }
+    </style>
+    <!-- Kararlı, THREE.OrbitControls'ü destekleyen r128 sürümleri -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+    <div id="canvas3d"></div>
+    <script>
+
+        // --- THREE.JS ENGINE INITIALIZATION ---
+        const scene = new THREE.Scene();
+        const container = document.getElementById('canvas3d');
+
+        // Camera setup with a diagonal perspective looking at the core geometry
+        //const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
+        //camera.position.set(1.5, 1.5, 2.0);
+        // 📐 PERSPEKTİF IPTAL: 3B Derinlik illüzyonunu kapatıp tam teknik altıgen izleme kamerası kuruyoruz
+        const d = 1.5; // Kamera görüş alanı genişlik katsayısı
+        const camera = new THREE.OrthographicCamera(
+            -d * (window.innerWidth/window.innerHeight), 
+            d * (window.innerWidth/window.innerHeight), 
+            d, -d, 0.01, 100
+        );
+        camera.position.set(1.5, 1.5, 2.0); // Satürn aksı bakış açısı korunuyor
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        container.appendChild(renderer.domElement);
+
+        // Orbit controls for smooth interaction
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+
+        // Balanced lighting to illuminate the 3D nodes and wireframes
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
+        scene.add(ambientLight);
+        const dirLight = new THREE.DirectionalLight(0xffffff, 0.85);
+        dirLight.position.set(4, 5, 3);
+        scene.add(dirLight);
+
+        // Viewport resize handling
+        window.addEventListener('resize', () => {
+             const aspect = window.innerWidth / window.innerHeight;
+            camera.left = -d * aspect;
+            camera.right = d * aspect;
+            camera.top = d;
+            camera.bottom = -d;
+            camera.updateProjectionMatrix()
+        });
+
+
+        
+        // --- THE METATRON GRID CORE CLASS ---
+        class MetatronGridSaati {
+            constructor(baseSize) {
+                this.group = new THREE.Group();
+                this.radius = baseSize;
+                
+                // Inverse Square Law density multiplier (1 / r²)
+                this.energyDensity = 1.0 / Math.pow(this.radius, 2);
+                
+                // Structural array arrays
+                this.internalCubes = [];
+                this.zamanOdaları = [];
+                
+                this.initMekanizma();
+                this.initIcosahedronKafesi();
+                this.initYasamCicegiVeElementler();
+            }
+
+initMekanizma() 
+{
+                // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
+                const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
+                
+
+                // 🏛️ MERKEZ TERS PİRAMİT ODALARI (Işığın çıktığı yerler saf beyaz olarak parlar)
+                const katsayi = this.radius * 0.45;
+                const koseler = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
+                    [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
+                ];
+                koseler.forEach((v) => {
+                    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
+                    const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
+                    const b_mat = new THREE.MeshPhongMaterial({
+                        color: 0xffffff,
+                        emissive: 0xffffff,
+                        emissiveIntensity: 1.5 * this.energyDensity,
+                        transparent: true,
+                        opacity: 0.85
+                    });
+                    const b_mesh = new THREE.Mesh(b_geom, b_mat);
+                    b_mesh.position.copy(pos);
+                    this.group.add(b_mesh);
+                    this.internalCubes.push(b_mesh);
+                });
+
+                const coreMat = new THREE.MeshBasicMaterial({ 
+                    color: 0x00ffff, 
+                    wireframe: true, 
+                    transparent: true, 
+                    opacity: 0.00 // 🔑 KUBÜN ÇİZGİLERİ SAKLANDI
+                });
+                this.coreCube = new THREE.Mesh(coreGeo, coreMat);
+                this.group.add(this.coreCube);
+
+             // 2️⃣ ADIM: Inverse Square Law Volume Expansion - GÖRÜNMEZ DIŞ KATMAN
+                const expandedSize = this.radius * Math.sqrt(2);
+                const outerGeo = new THREE.BoxGeometry(expandedSize, expandedSize, expandedSize, 2, 2, 2);
+                const outerMat = new THREE.MeshBasicMaterial({ 
+                    color: 0xff3300, 
+                    wireframe: true, 
+                    transparent: true, 
+                    opacity: 0.00 // 🔑 GENİŞLEME KÜBÜ SAKLANDI
+                });
+                this.outerCube = new THREE.Mesh(outerGeo, outerMat);
+                this.group.add(this.outerCube);
+
+                // 3️⃣ ADIM: Sqrt(2) Diagonal Axis Poles (Passing through opposite corner vertices)
+                const halfKup = (this.radius * Math.sqrt(2)) * 0.5;
+                const nodeGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
+                
+                // Positive Polar Node (Jüpiter-Aks A)
+                const matA = new THREE.MeshPhongMaterial({ color: 0xffaa00, emissive: 0xffaa00, emissiveIntensity: 0.5 });
+                this.poleA = new THREE.Mesh(nodeGeo, matA);
+                this.poleA.position.set(halfKup, halfKup, halfKup); // Diagonal corner vertex
+                this.group.add(this.poleA);
+
+                // Negative Polar Node (Satürn-Aks B)
+                const matB = new THREE.MeshPhongMaterial({ color: 0x8a2be2, emissive: 0x8a2be2, emissiveIntensity: 0.5 });
+                this.poleB = new THREE.Mesh(nodeGeo, matB);
+                this.poleB.position.set(-halfKup, -halfKup, -halfKup); // Opposite diagonal corner vertex
+                this.group.add(this.poleB);
+
+                // 4️⃣ ADIM: 13-Notched Dreamspell Cosmic Gear Ring
+                for (let i = 0; i < 13; i++) {
+                    const angle = (i * Math.PI * 2) / 13;
+                    const zrGeo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
+                    const zrMat = new THREE.MeshBasicMaterial({ color: 0x00ff00, transparent: true, opacity: 0.8 });
+                    const zrMesh = new THREE.Mesh(zrGeo, zrMat);
+                    
+                    // Placed on the gyro-vites plane orbiting the mechanism
+                    zrMesh.position.set(Math.cos(angle) * this.radius * 1.3, 0, Math.sin(angle) * this.radius * 1.3);
+                    this.group.add(zrMesh);
+                    this.zamanOdaları.push(zrMesh);
+                }
+
+
+                               // 📐 ADIM 6: Boyutsal Ters Piramitlerin (Inverted Pyramids) Cam Duvarları
+                // İç kübün 6 yüzeyinden dış kübün 6 yüzeyine genişleyen 6 odalık koridor
+                const icYari = this.radius * 0.5;
+                const disYari = (this.radius * Math.sqrt(2)) * 0.5;
+                
+                // Kübün 6 yönündeki yüzey merkezlerini bağlayan piramit kafes çizimi
+                const yonler = [
+                    [1,0,0], [-1,0,0], [0,1,0], [0,-1,0], [0,0,1], [0,0,-1]
+                ];
+
+                yonler.forEach((y, i) => {
+                    // Her bir ters piramit için özel çizgisel geometri oluşturuluyor
+                    const pyrGeom = new THREE.BufferGeometry();
+                    
+                    // İç yüzeyin 4 köşesi ve dış yüzeyin karşılık gelen 4 köşesi
+                    // Bu noktalar arası geçiş tam aradığın inverse square kovanını oluşturur
+                    const vertices = new Float32Array([
+                        // İç taban noktaları ve dış taban noktaları çapraz kilitlenir
+                        y[0]*icYari, y[1]*icYari, y[2]*icYari,
+                        y[0]*disYari, y[1]*disYari, y[2]*disYari
+                    ]);
+                    
+                    pyrGeom.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
+                    
+                    // İçi görünür kılan yarı şeffaf cam materyal
+                    const pyrMat = new THREE.MeshBasicMaterial({
+                        color: 0xff3300,
+                        wireframe: true, // Çizgisel iskeleti belli olsun diye
+                        transparent: true,
+                        opacity: 0.18
+                    });
+                    
+                    const pyrMesh = new THREE.Mesh(pyrGeom, pyrMat);
+                    this.group.add(pyrMesh);
+                });
+            }
+
+
+            // 🏟️ ADIM 5: ISOCOSAHEDRON (20 YÜZLÜ ENERJİ KAFESİ) TOHUMU
+            // Kütlesel olarak dönmeyen, içinden 124875 enerji akacak 12 köşe noktası
+            initIcosahedronKafesi() {
+                this.icoOdaları = [];
+                // Icosahedron geometrisini (Kutsal 20 yüzlü grid ağı)
+                // Ters piramit ($\sqrt{2}$) katsayısıyla merkez kübün dışına sabitliyoruz
+                const icoGeo = new THREE.IcosahedronGeometry(this.radius * 1.5, 0);
+                
+                // Enerji akışını çizgisel göreceğimiz kafes materyali
+                const icoMat = new THREE.MeshBasicMaterial({ 
+                    color: 0x8a2be2, 
+                    wireframe: true, 
+                    transparent: true, 
+                    opacity: 0.25 
+                });
+                this.icoKafesMesh = new THREE.Mesh(icoGeo, icoMat);
+                this.group.add(this.icoKafesMesh);
+
+                // Icosahedron'un 12 köşesine Tesla 124875 akışını bağlayacağımız enerji düğüm odaları
+                const kureGeo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
+                const pozisyonlar = icoGeo.attributes.position;
+
+                for (let i = 0; i < pozisyonlar.count; i++) {
+                    const nodeMat = new THREE.MeshBasicMaterial({ color: 0xff00ff, transparent: true, opacity: 0.7 });
+                    const nodeMesh = new THREE.Mesh(kureGeo, nodeMat);
+                    
+                    // Konumları sabit Icosahedron köşelerine kilitlenir (Dönüş yok!)
+                    nodeMesh.position.fromArray(pozisyonlar.array, i * 3);
+                    this.group.add(nodeMesh);
+                    this.icoOdaları.push(nodeMesh);
+                }
+            }
+
+
+            // 🌸 ADIM 7: TOPRAK İSKELETİNDEN FIŞKIRAN YAŞAM ÇİÇEĞİ VE 4 ELEMENT AKIŞI
+            // Kübik merkezden fışkıran 4 elementi ve 192 dairesel Yaşam Çiçeği ufkunu bağlar
+            initYasamCicegiVeElementler() {
+                this.yasamCicegiHalkalari = [];
+                this.elementCizgileri = [];
+
+                // 1️⃣ 4 ELEMENT REZONANS VEKTÖRLERİ (Merkezden fışkıran nükleer çizgiler)
+                const elementRenkleri = [
+                    0xff1100, // Ateş (Kırmızı - Jüpiter Aksı İvmesi)
+                    0xffcc00, // Toprak (Sarı - Küp Köşeleri Stabilitesi)
+                    0x00bfff, // Hava (Mavi - Ekvatoral Girdap)
+                    0x00ffcc  // Su (Aqua/Mor - Icosahedron Akışı)
+                ];
+
+                // Kübün yön katsayılarına göre merkezden dışarı fışkıran 4 ana element hattı
+                const elementYonleri = [,    // Ateş Vektörü
+                    [1, -1, -1],  // Toprak Vektörü
+                    [-1, 1, -1],  // Hava Vektörü
+                    [-1, -1, 1]   // Su Vektörü
+                ];
+
+                elementYonleri.forEach((yon, i) => {
+                    const points = [
+                        new THREE.Vector3(0, 0, 0),
+                        new THREE.Vector3(yon*this.radius*1.5, yon*this.radius*1.5, yon*this.radius*1.5)
+                    ];
+                    const elementGeo = new THREE.BufferGeometry().setFromPoints(points);
+                    const elementMat = new THREE.LineBasicMaterial({ 
+                        color: elementRenkleri[i], 
+                        transparent: true, 
+                        opacity: 0.75,
+                        linewidth: 2 
+                    });
+                    const elementLine = new THREE.Line(elementGeo, elementMat);
+                    this.group.add(elementLine);
+                    this.elementCizgileri.push(elementLine);
+                });
+
+              // 2️⃣ YAŞAM ÇİÇEĞİ DALGA UFKLARI (Icosahedron'un 12 Kutsal İskelet Köşesine Tam Kilitleme)
+                // $\phi$ (Altın Oran) matrisini kullanarak 12 çemberi 3B küresel düğümlere yerleştiriyoruz
+                const phi = (1.0 + Math.sqrt(5.0)) / 2.0;
+                
+                // Icosahedron'un uzay-zamandaki 12 ana köşe koordinat matrisi
+                const icoVertices = [
+                    [0, 1, phi], [0, -1, phi], [0, 1, -phi], [0, -1, -phi],
+                    [1, phi, 0], [-1, phi, 0], [1, -phi, 0], [-1, -phi, 0],
+                    [phi, 0, 1], [phi, 0, -1], [-1, 0, 1], [-1, 0, -1]
+                ];
+
+                for (let i = 0; i < 12; i++) {
+                    const cemberGeo = new THREE.RingGeometry(this.radius * 0.38, this.radius * 0.40, 32);
+                    const cemberMat = new THREE.MeshBasicMaterial({
+                        color: 0x8a2be2, 
+                        side: THREE.DoubleSide,
+                        transparent: true,
+                        opacity: 0.28
+                    });
+                    const yCicegiMesh = new THREE.Mesh(cemberGeo, cemberMat);
+                    
+                    // 📐 Altın oran normalizasyonu ile çemberleri mor düğüm noktalarının TAM kalbine yerleştiriyoruz
+                    const v = icoVertices[i];
+                    const normalizeFactor = this.radius * 0.95; 
+                    
+                    // Her çemberi 3B uzayda kendine ait Icosahedron düğüm köşesine çapalıyoruz
+                    yCicegiMesh.position.set(v[0], v[1], v[2]).normalize().multiplyScalar(normalizeFactor);
+                    
+                    // Çember yüzeylerinin merkeze doğru bakması için dönüş matrisi ekliyoruz
+                    yCicegiMesh.lookAt(0, 0, 0);
+                    
+                    this.group.add(yCicegiMesh);
+                    this.yasamCicegiHalkalari.push(yCicegiMesh);
+                }
+            }
+
+
+            // 🌌 ADIM 8: 13 MOON DREAMSELL (13 AY KOZMİK ZAMAN DİŞLİSİ)
+            // 28 günlük döngüleri mor Icosahedron halkalarının $\sqrt{2}$ üst ufku olarak ekler
+            init13MoonDreamspell() {
+                this.dreamspellTonlari = [];
+                
+                // 13 adet kozmik ay kapısı için gümüşi frekans materyali
+                // Balerinanın o 13 akslı eteğini maddesel olarak görünür kılıyoruz
+                for (let i = 0; i < 13; i++) {
+                    const tonGeo = new THREE.SphereGeometry(this.radius * 0.03, 8, 8);
+                    const tonMat = new THREE.MeshPhongMaterial({
+                        color: 0x00ffcc, // Aqua / Galaktik Zaman Rengi
+                        emissive: 0x00ffcc,
+                        emissiveIntensity: 0.8,
+                        transparent: true,
+                        opacity: 0.65
+                    });
+                    const tonMesh = new THREE.Mesh(tonGeo, tonMat);
+                    
+                    // 13 Kozmik Tonu, uzayda 28 günlük sarmal dalga boylarına çapalıyoruz
+                    let aci = (i * Math.PI * 2) / 13;
+                    tonMesh.position.set(
+                        Math.cos(aci) * this.radius * 1.5,
+                        0, // Ekvatoral düzlem
+                        Math.sin(aci) * this.radius * 1.5
+                    );
+                    
+                    this.group.add(tonMesh);
+                    this.dreamspellTonlari.push(tonMesh);
+                }
+            }
+// 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
+ // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
+            updateVortex(galaktikZaman) {
+                // Tesla 124875 serisi jiro-vites çarpanı
+                const vortexPattern = [1, 2, 4, 8, 7, 5];
+                
+                // 1️⃣ Küpler kütlesel dönmüyor: Tekillik stabilizasyonu korundu
+                this.coreCube.rotation.x = 0; this.coreCube.rotation.y = 0;
+                this.outerCube.rotation.x = 0; this.outerCube.rotation.z = 0;
+
+                // 2️⃣ Sqrt(2) Diagonal Aks Odaları (Ters Kare Yasası ile Titreşim)
+                let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
+                this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
+                this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
+                
+                // Emissive intensity, 0.5'ten başlayarak sinüs dalgasıyla 2.5'e kadar artar
+    // ⚡ KESKİN ANA SPİN AKSI: Aksların parlaması 5.5 kat rezonansa fırlar
+                this.poleA.material.emissiveIntensity = 1.0 + Math.abs(Math.sin(galaktikZaman * 3.0)) * 4.5;
+                this.poleB.material.emissiveIntensity = 1.0 + Math.abs(Math.cos(galaktikZaman * 3.0)) * 4.5;
+
+                // 3️⃣ Orbiting 13 Dreamspell Nodes following the 124875 velocity sequence
+                this.zamanOdaları.forEach((node, index) => {
+                    let baseAngle = (index * Math.PI * 2) / 13;
+                    
+                    // Tesla 124875 serisi hıza uygulanıyor
+                    let stepMultiplier = vortexPattern[index % vortexPattern.length];
+                    
+                    // Zaman aksı ekvatoral düzlemde akıyor
+                    let currentAngle = baseAngle + (galaktikZaman * 0.3 * stepMultiplier);
+                    
+                    /*
+                    // Yeşiller tam ekvator çemberinde kilitli, y=0
+                    node.position.x = Math.cos(currentAngle) * this.radius * 1.3;
+                    node.position.z = Math.sin(currentAngle) * this.radius * 1.3;
+                    // 🔑 OUROBOROS MOTORU: Yeşiller dönerken index ivmesine bağlı olarak 
+                    // aşağı ve yukarı sarmal sinüs dalgaları (Helix) çizer
+                    node.position.y = Math.sin(galaktikZaman * 2.0 + baseAngle) * this.radius * 0.25 * Math.sqrt(2);
+                    
+                    // 124875 akış hızı parlama enerjisini (opasite) katlıyor
+                    node.material.opacity = 0.4 + (stepMultiplier * 0.05);
+                    */
+
+                     // Yeşiller tam ekvator çemberinde kilitli, ancak görünmez illüzyon kaynağı (Hayalet)
+                    node.position.x = Math.cos(currentAngle) * this.radius * 1.3;
+                    node.position.z = Math.sin(currentAngle) * this.radius * 1.3;
+                    node.position.y = Math.sin(galaktikZaman * 2.0 + baseAngle) * this.radius * 0.15 * Math.sqrt(2);
+                    
+                    // 🔑 İLLÜZYON SUSTURULDU: Opasite 0.02'ye çekilerek arka plana gizlendi
+                    node.material.opacity = 0.02;
+
+               
+                    
+                });
+
+                 // Satürn'ün 800 yıllık salınım döngüsü Yaşam Çiçeği halkalarını ışıkla nefeslendirir
+                this.yasamCicegiHalkalari.forEach((halka, idx) => {
+                    halka.material.opacity = 0.1 + Math.abs(Math.sin(galaktikZaman * 0.5 + idx)) * 0.3;
+                    // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
+                    halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
+                });
+
+
+
+                
+            }
+        } // 🔑 MetatronGridSaati CLASS TERMINATION
+
+        // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
+        const KuantumKafesi = new THREE.Group();
+        scene.add(KuantumKafesi);
+
+  // 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
+        const metatronMatrisi = [
+            new MetatronGridSaati(0.35), // İç Tohum (Çekirdek)
+            new MetatronGridSaati(0.55), // Orta Bölme (Dünya Katmanı)
+            new MetatronGridSaati(0.85)  // Dış Kalkan (192'li Kafes Çeperi)
+        ];
+
+        // Küpleri yan yana dizmek yerine, tam merkezde fraktal olarak iç içe geçiriyoruz
+        metatronMatrisi.forEach((saat, index) => {
+            saat.group.position.set(0, 0, 0);
+            KuantumKafesi.add(saat.group);
+        });
+
+// ⏳ 25 FPS KONTROL DÖNGÜSÜ (Zaman Sabitleyici)
+        let fpsZamani = performance.now();
+        const fpsAraligi = 1000 / 25; // Saniyede tam 25 kare akışı (40ms)
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            let simdikiZaman = performance.now();
+            let gecenSure = simdikiZaman - fpsZamani;
+
+            // Eğer 40 milisaniye (1/25 sn) geçmediyse bu kareyi atla (Sistemi 25 FPS'e kilitler)
+            if (gecenSure < fpsAraligi) return;
+
+            // 25 FPS zaman çentiği kilitlendi, zamanı güncelle
+            fpsZamani = simdikiZaman - (gecenSure % fpsAraligi);
+
+            let galaktikZaman = simdikiZaman * 0.001;
+
+            // Tüm iç içe geçmiş katmanların vortex motorlarını 25 FPS ritmiyle tetikle
+            metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
+
+            controls.update();
+            renderer.render(scene, camera);
+        }
+
+        // START ENGINE
+        animate();
+    </script>
+</body>
+</html>
