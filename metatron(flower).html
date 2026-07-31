@@ -250,26 +250,37 @@ initMekanizma() {
                     this.elementCizgileri.push(elementLine);
                 });
 
-                // 2️⃣ YAŞAM ÇİÇEĞİ DALGA UFKLARI (Icosahedron içinde birbirine kilitlenen 12 çember)
-                // Her bir mor düğüm noktası etrafında $\sqrt{2}$ oranlı dairesel dalga alanları
+              // 2️⃣ YAŞAM ÇİÇEĞİ DALGA UFKLARI (Icosahedron'un 12 Kutsal İskelet Köşesine Tam Kilitleme)
+                // $\phi$ (Altın Oran) matrisini kullanarak 12 çemberi 3B küresel düğümlere yerleştiriyoruz
+                const phi = (1.0 + Math.sqrt(5.0)) / 2.0;
+                
+                // Icosahedron'un uzay-zamandaki 12 ana köşe koordinat matrisi
+                const icoVertices = [
+                    [0, 1, phi], [0, -1, phi], [0, 1, -phi], [0, -1, -phi],
+                    [1, phi, 0], [-1, phi, 0], [1, -phi, 0], [-1, -phi, 0],
+                    [phi, 0, 1], [phi, 0, -1], [-1, 0, 1], [-1, 0, -1]
+                ];
+
                 for (let i = 0; i < 12; i++) {
-                    // Icosahedron'un 12 kutsal köşesini referans alan sarmal çember geometrisi
-                    const cemberGeo = new THREE.RingGeometry(this.radius * 0.4, this.radius * 0.42, 32);
-                    const cemberMat = new THREE.MeshBasicMaterial({ 
-                        color: 0x8a2be2, // Mor Kuantum Enerji Alanı
-                        side: THREE.DoubleSide, 
-                        transparent: true, 
-                        opacity: 0.28 
+                    const cemberGeo = new THREE.RingGeometry(this.radius * 0.38, this.radius * 0.40, 32);
+                    const cemberMat = new THREE.MeshBasicMaterial({
+                        color: 0x8a2be2, 
+                        side: THREE.DoubleSide,
+                        transparent: true,
+                        opacity: 0.28
                     });
                     const yCicegiMesh = new THREE.Mesh(cemberGeo, cemberMat);
                     
-                    // Çemberleri merkezden dışarı doğru Yaşam Çiçeği matrisine kilitliyoruz
-                    let aci = (i * Math.PI * 2) / 12;
-                    yCicegiMesh.position.set(
-                        Math.cos(aci) * this.radius * 0.6,
-                        Math.sin(aci) * this.radius * 0.6,
-                        0
-                    );
+                    // 📐 Altın oran normalizasyonu ile çemberleri mor düğüm noktalarının TAM kalbine yerleştiriyoruz
+                    const v = icoVertices[i];
+                    const normalizeFactor = this.radius * 0.95; 
+                    
+                    // Her çemberi 3B uzayda kendine ait Icosahedron düğüm köşesine çapalıyoruz
+                    yCicegiMesh.position.set(v[0], v[1], v[2]).normalize().multiplyScalar(normalizeFactor);
+                    
+                    // Çember yüzeylerinin merkeze doğru bakması için dönüş matrisi ekliyoruz
+                    yCicegiMesh.lookAt(0, 0, 0);
+                    
                     this.group.add(yCicegiMesh);
                     this.yasamCicegiHalkalari.push(yCicegiMesh);
                 }
