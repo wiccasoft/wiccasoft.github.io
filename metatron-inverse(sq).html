@@ -97,15 +97,14 @@ initMekanizma() {
                 this.coreCube = new THREE.Mesh(coreGeo, coreMat);
                 this.group.add(this.coreCube);
 
-                // 2️⃣ ADIM: Inverse Square Law Volume Expansion (2x Volume via sqrt(2) Scale)
-                // Forming the nested 9-cube inverted pyramid rezonans structure
+             // 2️⃣ ADIM: Inverse Square Law Volume Expansion - GÖRÜNMEZ DIŞ KATMAN
                 const expandedSize = this.radius * Math.sqrt(2);
                 const outerGeo = new THREE.BoxGeometry(expandedSize, expandedSize, expandedSize, 2, 2, 2);
                 const outerMat = new THREE.MeshBasicMaterial({ 
                     color: 0xff3300, 
                     wireframe: true, 
                     transparent: true, 
-                    opacity: 0.15 
+                    opacity: 0.00 // 🔑 GENİŞLEME KÜBÜ SAKLANDI
                 });
                 this.outerCube = new THREE.Mesh(outerGeo, outerMat);
                 this.group.add(this.outerCube);
