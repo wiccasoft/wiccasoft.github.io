@@ -2,260 +2,283 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>3D Kusursuz Metatron Gök Mekanizması</title>
+    <title>3D Kutsal Geometri: 24 Odalı Metatron Saati</title>
     <style>
-        body {
-            margin: 0;
-            background-color: #020204;
-            overflow: hidden;
-        }
-        #canvas3d {
-            width: 100vw;
-            height: 100vh;
-        }
+        body { margin: 0; background-color: #020204; overflow: hidden; }
+        #canvas3d { width: 100vw; height: 100vh; }
     </style>
-    <!-- Yerel kütüphane bağlantıların aynen korunmuştur -->
+    <!-- Kararlı, THREE.OrbitControls'ü destekleyen r128 sürümleri -->
     <script src="./three.min.js"></script>
     <script src="./OrbitControls.js"></script>
 </head>
 <body>
-
     <div id="canvas3d"></div>
+    <script>
+        // --- 1. ADIM: SAHNE, KAMERA VE NÜKLEER IŞIKLANDIRMA ALTYAPISI ---
+        const scene = new THREE.Scene();
+        const container = document.getElementById('canvas3d');
 
-<script>
+        const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
+        camera.position.set(0.0, 1.2, 2.5); // Haramein gridini tepeden görecek bakış açısı
 
-const scene = new THREE.Scene(); // Önce sahne oluşturulur
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        container.appendChild(renderer.domElement);
 
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
 
-// --- 1. ADIM: SAHNE OLUŞTURULDUKTAN HEMEN SONRA ÇALIŞACAK ALTYAFI ---
-const container = document.getElementById('canvas3d');
+        // Gezegen odalarının fosforlu parlamasını besleyecek nükleer ışıklar
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
+        scene.add(ambientLight);
+        const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+        dirLight.position.set(2, 4, 3);
+        scene.add(dirLight);
 
-// 🎥 Perspektif Kamera (Derinlik ve 3D Projeksiyon İçin)
-const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
-camera.position.set(0.0, 0.8, 1.8); // Çapraz galaktik bakış açısı
-
-// 🖼️ WebGL Ekran Basıcı
-const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize(window.innerWidth, window.innerHeight);
-container.appendChild(renderer.domElement);
-
-// 🕹️ OrbitControls (Fare / Ekran döndürme, yakınlaştırma)
-const controls = new THREE.OrbitControls(camera, renderer.domElement);
-controls.enableDamping = true;      // Yumuşak jiro ivmelenmesi
-controls.dampingFactor = 0.05;
-
-// 💡 Cam Odaların Fosforlu Parlaması İçin Gerekli Nükleer Işıklar
-const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
-scene.add(ambientLight);
-const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
-dirLight.position.set(2, 4, 3);
-scene.add(dirLight);
-
-// Ekran Boyutu Değiştiğinde Pencereyi Otomatik Re-size Eden Sinyal
-window.addEventListener('resize', () => {
-    camera.aspect = window.innerWidth / window.innerHeight;
-    camera.updateProjectionMatrix();
-    renderer.setSize(window.innerWidth, window.innerHeight);
-});
-
-   // ============================================================================
-// BÖLÜM 1: INVERSE SQUARE FRAKTAL METATRON GENERATÖRÜ (KUTSAL MEKANİZMA)
-// ============================================================================
-class MetatronOktav {
-    constructor(x_ofset, katmanIndex, temelBoyut, renkA, renkB) {
-        this.x_ofset = x_ofset;             
-        this.katmanIndex = katmanIndex;     
-        
-        // 📐 Ters Kare Yasası Boyut Katsayısı
-        this.radius = temelBoyut * Math.pow(2, katmanIndex - 1); 
-        
-        // Ters kareye göre enerji yoğunluğu (1 / r²)
-        this.enerjiYogunlugu = 1.0 / Math.pow(this.radius, 2);
-
-        this.group = new THREE.Group();
-        this.group.position.x = x_ofset; 
-
-        this.renkA = renkA;
-        this.renkB = renkB;
-        this.tersSpin = (katmanIndex % 2 === 0); 
-        
-        // 🔑 HATA ÇÖZÜMÜ: halkaGrup tanımsız kalmasın diye initKafes'ten önce oluşturulmalı
-        this.halkaGrup = new THREE.Group();
-        this.group.add(this.halkaGrup);
-
-        // 🔑 Gluon parçacıkları constructor içindeki metod çağrısıyla oluşturuluyor
-        this.gluon1 = this.createGluonParcacik(this.renkA);
-        this.gluon2 = this.createGluonParcacik(this.renkB);
-        this.group.add(this.gluon1);
-        this.group.add(this.gluon2);
-        
-        this.gIlerleme1 = 0.0;
-        this.gIlerleme2 = 0.5; 
-
-        this.initMetatronKafesi();
-    }
-
-    // 🔑 HATA ÇÖZÜMÜ: Yardımcı fonksiyon constructor bloğunun dışına, sınıf metodu olarak taşındı
-    createGluonParcacik(color) {
-        const geo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
-        const mat = new THREE.MeshBasicMaterial({ color: color, transparent: true, opacity: 0.9 });
-        return new THREE.Mesh(geo, mat);
-    }
-
-initMetatronKafesi() {
-        // 🔲 Katman İskeletini Çiz
-        const icKupGeo = new THREE.BoxGeometry(this.radius * 2, this.radius * 2, this.radius * 2);
-        const icKupMat = new THREE.MeshBasicMaterial({ 
-            color: this.renkA, 
-            wireframe: true, 
-            transparent: true, 
-            opacity: 0.05 * this.enerjiYogunlugu 
+        // Ekran Boyutu Yeniden Boyutlandırma Sinyali
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
         });
-        const kafesMesh = new THREE.Mesh(icKupGeo, icKupMat);
-        this.group.add(kafesMesh);
 
-        // 🪞 Cam Odalar
-        const posA = new THREE.Vector3(this.radius, this.radius, this.radius);
-        const posB = posA.clone().multiplyScalar(-1); 
 
-        this.odaA = this.createCamOda(this.renkA, posA, `Oda_A_Katman_${this.katmanIndex}`);
-        this.odaB = this.createCamOda(this.renkB, posB, `Oda_B_Katman_${this.katmanIndex}`);
+          // ============================================================================
+        // 2. ADIM: HARAMEIN GRID & VENÜS REZONANSLI 24 ODALI FRAKTAL METATRON OLMURGASI
+        // ============================================================================
+        class MetatronKozmikKup {
+            constructor(temelBoyut, renkA, renkB) {
+                this.group = new THREE.Group();
+                this.radius = temelBoyut;
+                this.renkA = renkA;
+                this.renkB = renkB;
+                
+                // Ters Kare Yasası (\(1/r^2\)) Yoğunluk Sabiti
+                this.enerjiYogunlugu = 1.0 / Math.pow(this.radius, 2);
+                
+                // Odaları tek merkezden yönetmek için grup deposu
+                this.odaGrubu = new THREE.Group();
+                this.group.add(this.odaGrubu);
+                
+                this.odalar = [];
+                this.initKozmikOdalar();
+            }
 
-        this.group.add(this.odaA);
-        this.group.add(this.odaB);
+            // Yardımcı Fonksiyon: 3B Uzayda Enerji Kapıları (Cam Odalar) Oluşturur
+            createEnerjiOdası(color, pos, size, name) {
+                const geom = new THREE.SphereGeometry(size, 16, 16);
+                const mat = new THREE.MeshPhongMaterial({
+                    color: color,
+                    emissive: color,
+                    emissiveIntensity: 0.4 * this.enerjiYogunlugu,
+                    transparent: true,
+                    opacity: 0.65,
+                    depthWrite: true
+                });
+                const mesh = new THREE.Mesh(geom, mat);
+                mesh.position.copy(pos);
+                mesh.name = name;
+                this.odaGrubu.add(mesh);
+                return mesh;
+            }
 
-        // 🔮 13 Çentikli Dişli Çark Geometrisi
-        const halkaGeo = new THREE.RingGeometry(this.radius * 1.2, this.radius * 1.3, 13);
-        const halkaMat = new THREE.MeshBasicMaterial({ 
-            color: this.renkB, 
-            wireframe: true, 
-            transparent: true, 
-            opacity: 0.15 * this.enerjiYogunlugu 
-        });
-        this.halkaMesh = new THREE.Mesh(halkaGeo, halkaMat);
-        this.halkaGrup.add(this.halkaMesh);
+            initKozmikOdalar() {
+                // --- 🏛️ 1. BÖLÜM: HARAMEIN TETRAHEDRON ÇEKİRDEĞİ (1 + 8 = 9 ODA) ---
+                // 1. Kök Merkez Oda (Katman 1 - Kaynak)
+                this.merkezOda = this.createEnerjiOdası(
+                    0xffffff, 
+                    new THREE.Vector3(0, 0, 0), 
+                    this.radius * 0.16, 
+                    "Tekillik_Merkez"
+                );
 
-        // 🎴 Matris Puanları Yerleşimi
-        for (let i = 0; i < 13; i++) {
-            const rAci = (i * Math.PI * 2) / 13;
-            const noktaGeo = new THREE.SphereGeometry(this.radius * 0.025, 8, 8);
-            const noktaMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.6 });
-            const noktaMesh = new THREE.Mesh(noktaGeo, noktaMat);
+                // 2. Kübik Çevre (Katman 2 - 8 Geometrik Köşe)
+                const katsayi = this.radius * 0.45;
+                const koseler = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
+                    [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
+                ];
+                this.kupOdaları = [];
+                koseler.forEach((v, index) => {
+                    const pos = new THREE.Vector3(v[0]*katsayi, v[1]*katsayi, v[2]*katsayi);
+                    const b_oda = this.createEnerjiOdası(
+                        this.renkA, 
+                        pos, 
+                        this.radius * 0.08, 
+                        `Küp_Köşe_Oda_${index + 1}`
+                    );
+                    this.kupOdaları.push(b_oda);
+                });
+
+                // --- 🌌 2. BÖLÜM: KUTUPSAL AKS VE VENÜS 13:8 ZAMAN DİŞLİSİ (15 ODA) ---
+                // 3. Jüpiter-Satürn Aksı (2 Kutuplu Karşıt Oda)
+                // Uzaklık illüzyonuna takılmadan merkez Güneş'e TAM EŞİT mesafededirler
+                this.kutupA = this.createEnerjiOdası(
+                    this.renkB, 
+                    new THREE.Vector3(0, this.radius, 0), 
+                    this.radius * 0.12, 
+                    "Kuzey_Aks_Jüpiter"
+                );
+                this.kutupB = this.createEnerjiOdası(
+                    this.renkB, 
+                    new THREE.Vector3(0, -this.radius, 0), 
+                    this.radius * 0.12, 
+                    "Güney_Aks_Satürn"
+                );
+
+                // 4. Maya / Venüs 13'lü Zaman Odaları (13 Dişli Kapı)
+                this.zamanOdaları = [];
+                for (let i = 0; i < 13; i++) {
+                    const aci = (i * Math.PI * 2) / 13;
+                    const pos = new THREE.Vector3(
+                        Math.cos(aci) * this.radius * 0.85, 
+                        0, 
+                        Math.sin(aci) * this.radius * 0.85
+                    );
+                    const z_oda = this.createEnerjiOdası(
+                        0x00ffff, 
+                        pos, 
+                        this.radius * 0.05, 
+                        `Dreamspell_Ton_${i + 1}`
+                    );
+                    this.zamanOdaları.push(z_oda);
+                }
+            } // initKozmikOdalar Kapanışı
+
+
+
+              // ============================================================================
+        // 3. ADIM: FREKANS DÖNÜŞÜMLÜ GİRDAP (VORTEX) VE $\sqrt{2}$ TERS PİRAMİT MOTORU
+        // ============================================================================
+        vortexGuncelle(galaktikZaman, delta) {
+            // 📐 Karekök 2 Ekseninde Ters Piramit (Inverse Square) Spektral Dönüşüm
+            // Zaman geçtikçe merkez rezonansı kırmızı/turuncudan sarı/yeşile doğru kayar
+            let dalgaBoyuIlerlemesi = (Math.sin(galaktikZaman * 0.5) + 1.0) / 2.0; // 0 ile 1 arası dalgalanma
             
-            noktaMesh.position.set(this.radius * 1.25 * Math.cos(rAci), this.radius * 1.25 * Math.sin(rAci), 0);
-            this.halkaGrup.add(noktaMesh);
+            // Haramein tetrahedron çekirdeğindeki 8 odanın renk ve spektrum değişimi
+            this.kupOdaları.forEach((oda, index) => {
+                // Her oda için merkezden olan mesafenin katsayısı ($\sqrt{2}$ ekseni)
+                let katsayi = (index % 2 === 0) ? Math.sqrt(2) : 1.414213;
+                
+                // Dinamik dalga boyu değişimi: Kırmızı/Turuncudan -> Sarı/Yeşile
+                let r = 1.0 - (dalgaBoyuIlerlemesi * 0.6); // Kırmızı/Turuncu azalır
+                let g = (dalgaBoyuIlerlemesi * 0.85);      // Sarı/Yeşil dalga boyu yükselir
+                let b = 0.05; // Mavi sabit bastırılmış kalır
+                
+                oda.material.color.setRGB(r * katsayi, g * katsayi, b);
+                oda.material.emissive.setRGB(r * 0.4, g * 0.4, 0);
+            });
+
+            // 🪐 800 Yıllık Jiroskopik Kutup Salınımı (Jüpiter - Satürn Aksı)
+            let aksAci = galaktikZaman * 0.15;
+            let salinim = Math.sin(galaktikZaman * 0.05) * 0.25 * Math.sqrt(2); // $\sqrt{2}$ bükülme matrisi
+
+            this.kutupA.position.set(
+                Math.cos(aksAci) * this.radius * salinim,
+                this.radius * Math.cos(salinim),
+                Math.sin(aksAci) * this.radius * salinim
+            );
+            this.kutupB.position.set(
+                Math.cos(aksAci + Math.PI) * this.radius * salinim,
+                -this.radius * Math.cos(salinim),
+                Math.sin(aksAci + Math.PI) * this.radius * salinim
+            );
+
+            // 🌀 Venüs-Dünya 13:8 Jiro Vitesi ve Dreamspell Odaları
+            this.zamanOdaları.forEach((oda, i) => {
+                let temelAci = (i * Math.PI * 2) / 13;
+                let dinamikAci = temelAci + (galaktikZaman * 0.35);
+                
+                oda.position.x = Math.cos(dinamikAci) * this.radius * 0.85;
+                oda.position.z = Math.sin(dinamikAci) * this.radius * 0.85;
+                
+                // Yüksek sarmal (Ters piramit girdap dalgası)
+                oda.position.y = Math.sin(galaktikZaman + temelAci) * this.radius * 0.08 * Math.sqrt(2);
+            });
         }
-    } // 🔑 initMetatronKafesi fonksiyonu kapandı
-
-    createCamOda(color, pos, name) {
-        const geom = new THREE.SphereGeometry(this.radius * 0.18, 16, 16);
-        const mat = new THREE.MeshPhongMaterial({
-            color: color,
-            emissive: color,
-            emissiveIntensity: 0.4 * this.enerjiYogunlugu,
-            transparent: true,
-            opacity: 0.6,
-            depthWrite: true // 🔑 Üst sürümlerde olmayan depthCompass düzeltildi
-        });
-        const mesh = new THREE.Mesh(geom, mat);
-        mesh.position.copy(pos);
-        mesh.name = name;
-        return mesh;
-    }
-
-    vortexGuncelle(zamanAçısı) {
-        // Ouroboros 3D Helix ve gluon akış motoru
-        let sY = Math.sin(zamanAçısı) * this.radius * 0.6;
-        this.odaA.position.set(this.radius * Math.cos(zamanAçısı), sY, this.radius * Math.sin(zamanAçısı));
-        this.odaB.position.set(this.radius * Math.cos(zamanAçısı + Math.PI), -sY, this.radius * Math.sin(zamanAçısı + Math.PI));
-
-        this.gIlerleme1 = (this.gIlerleme1 + 0.008) % 1.0;
-        this.gIlerleme2 = (this.gIlerleme2 + 0.008) % 1.0;
-
-        this.gluon1.position.lerpVectors(this.odaA.position, this.odaB.position, this.gIlerleme1);
-        this.gluon2.position.lerpVectors(this.odaB.position, this.odaA.position, this.gIlerleme2);
-
-        // 13 Ay Çarkı jiro vitesi ve omurga dönüşü
-        let vitesYonu = this.tersSpin ? -0.2 : 0.2;
-        this.halkaGrup.rotation.z = zamanAçısı * vitesYonu;
-        this.halkaGrup.rotation.y = Math.sin(zamanAçısı * 0.5) * 0.15;
-    }
-} // 🔑 MetatronOktav Sınıfı Sorunsuzca Kapandı!
-const KuantumKafesi = new THREE.Group();
-// --- GEZEGEN VE KAFES YAPILARINI SAHNEYE ONAYLI EKLEME ---
-
-// Kuantum Kafesi grubunu bütünüyle ana sahneye bağla
-scene.add(KuantumKafesi); 
-
-//  Yan Yana ve İç İçe 3 Farklı Metatron Enerji Seviyesini Otomatik Üret
-const metatronMatrisi = [
-    new MetatronOktav(-0.6, 1, 0.12, 0xff0000, 0x00ff00), // 1. Küp (Sol: Kırmızı-Yeşil Çekirdek)
-    new MetatronOktav( 0.0, 2, 0.12, 0xff6600, 0x00bfff), // 2. Küp (Orta: Turuncu-Mavi Aks)
-    new MetatronOktav( 0.6, 3, 0.12, 0xffff00, 0x8a2be2)  // 3. Küp (Sağ: Satürn-Güneş Oktavı)
-
-    
-];
+    } // 🔑 MetatronKozmikKup SINIFI BURADA TAMAMEN VE SORUNSUZCA KAPANIYOR!
 
 
+            // ============================================================================
+        // 4. ADIM: 192 TETRAHEDRON REZONANSLI MATRİS VE GALAKTİK ZAMAN DÖNGÜSÜ
+        // ============================================================================
+        const KuantumKafesi = new THREE.Group();
+        scene.add(KuantumKafesi);
 
-metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
+        // 1-9-13 Mekanizmasını Haramein Grid Rezonansıyla Sahneye Bağla
+        // Yan yana 3 farklı oktav olarak 192 tetrahedron dengesini simüle eden dağılım
+        const metatronMatrisi = [
+            new MetatronKozmikKup(0.45, 0xff3300, 0x00ff00), // Sol Çekirdek (Kırmızı-Turuncu Spektrum)
+            new MetatronKozmikKup(0.45, 0xffaa00, 0x00bfff), // Orta Aks (Dünya-Venüs Denge Bölgesi)
+            new MetatronKozmikKup(0.45, 0xffff00, 0x8a2be2)  // Sağ Çekirdek (Kristalize Sarı-Yeşil Dalga)
+        ];
 
+        // Küpleri uzay simetrisine göre konumlandırıyoruz (Haramein grid eksenleri)
+        metatronMatrisi[0].group.position.x = -0.7;
+        metatronMatrisi[1].group.position.x =  0.0;
+        metatronMatrisi[2].group.position.x =  0.7;
 
-    let kalpAtisiZamani = 0;
-// Animasyon motorunda tek bir döngüde sarmalı (Ouroboros) tetikle
-// --- ⏳ GALAKTİK ZAMAN VE OUROBOROS MOTORU (BOZULMAZ OMURGA) ---
-function animate() {
-    // 1. ADIM: 1 Hz Kalp Atışı (Pulse) Zamanlayıcı Ritimleri
-    let delta = 0.016; // 60 FPS standart akış adımı
-    kalpAtisiZamani += delta;
+        metatronMatrisi.forEach(m => KuantumKafesi.add(m.group));
 
-    if (kalpAtisiZamani >= 1.0) { // Her 1 Saniyede Evrenin Kalbi 1 Kez Çakar
-        kalpAtisiZamani = 0;
-        
-        // Tüm katman odalarını Ters Kare Yasasına (1/r²) göre şarj et
-        metatronMatrisi.forEach(kup => {
-            kup.odaA.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
-            kup.odaB.material.emissiveIntensity = 4.0 * kup.enerjiYogunlugu;
-        });
-    }
+        // --- ⏳ GALAKTİK ZAMAN VE KALP ATIŞI (PULSE) MOTORU ---
+        let kalpAtisiZamani = 0;
+        let sonZaman = performance.now();
 
-    // Cam odaların parlamasını zamanla yavaşça sönümleme (Stabilite Dengesi)
-    metatronMatrisi.forEach(kup => {
-        if (kup.odaA.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
-            kup.odaA.material.emissiveIntensity -= delta * 2.0;
+        function animate() {
+            // Standart 60 FPS zaman adımı akışı ve delta zaman sabitleyici
+            let simdikiZaman = performance.now();
+            let delta = (simdikiZaman - sonZaman) * 0.001;
+            sonZaman = simdikiZaman;
+
+            // 1. ADIM: 1 Hz Kutsal Kalp Atışı (Pulse) Ritimleri
+            kalpAtisiZamani += delta;
+            if (kalpAtisiZamani >= 1.0) { 
+                kalpAtisiZamani = 0;
+                
+                // Evrenin kalbi çaktığında tüm 24 odayı Ters Kare Yasasına göre şarj et
+                metatronMatrisi.forEach(kup => {
+                    kup.merkezOda.material.emissiveIntensity = 3.5 * kup.enerjiYogunlugu;
+                    kup.kupOdaları.forEach(oda => oda.material.emissiveIntensity = 2.0 * kup.enerjiYogunlugu);
+                    kup.kutupA.material.emissiveIntensity = 2.5 * kup.enerjiYogunlugu;
+                    kup.kutupB.material.emissiveIntensity = 2.5 * kup.enerjiYogunlugu;
+                });
+            }
+
+            // Cam odaların parlamasını zamanla yavaşça sönümleme (Maddesel Rezonans Dengesi)
+            metatronMatrisi.forEach(kup => {
+                if (kup.merkezOda.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
+                    kup.merkezOda.material.emissiveIntensity -= delta * 1.5;
+                }
+                kup.kupOdaları.forEach(oda => {
+                    if (oda.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
+                        oda.material.emissiveIntensity -= delta * 2.0;
+                    }
+                });
+            });
+
+            // 2. ADIM: Maya / Venüs 13'lü Dalga Formu Zaman Katsayısı
+            let galaktikZaman = simdikiZaman * 0.0006; 
+
+            // 3'lü Küp ve 72 Kuantum Odasının (24x3) Ters Yönlü Girdaplarını Tetikle
+            metatronMatrisi.forEach((kup, index) => {
+                let spinYonu = (index % 2 === 0) ? 1 : -1;
+                // Vortex motoruna zamanı ve yönü ($\sqrt{2}$ bükülmesi) ile gönderiyoruz
+                kup.vortexGuncelle((galaktikZaman * spinYonu) + (index * Math.PI / 4), delta);
+            });
+
+            // Ana kuantum kafesini yavaşça döndürerek 3D derinliği artır
+            KuantumKafesi.rotation.y += 0.0002;
+
+            // 3. ADIM: WebGL Döngüsü ve Ekran Kontrolleri
+            requestAnimationFrame(animate);
+            controls.update(); 
+            renderer.render(scene, camera);
         }
-        if (kup.odaB.material.emissiveIntensity > 0.4 * kup.enerjiYogunlugu) {
-            kup.odaB.material.emissiveIntensity -= delta * 2.0;
-        }
-    });
 
-    // 2. ADIM: Maya 13 Ay Dreamspell Galaktik Zaman Katsayısı
-    // Düz zaman yerine, tüm sistemi 13'lü Wavespell dalgasına bağlayan akış
-    let galaktikZaman = performance.now() * 0.0006; 
-
-    // 3'lü Küp ve 6 Gluon Parçacığının Ters Yönlü Girdaplarını Tetikle
-    metatronMatrisi.forEach((kup, index) => {
-        // Çarkların birbirini ezmemesi, Yaşam Çiçeğinin tepeden bakışta 
-        // korunması için sol ve sağ küp düz, ortadaki küp ters yönlü (Yin-Yang) döner
-        let spinYonu = (index % 2 === 0) ? 1 : -1;
-        kup.vortexGuncelle((galaktikZaman * spinYonu) + (index * Math.PI / 4));
-    });
-
-    // Ana kuantum kafesini (Uzay Gemisi Dünya) yavaşça döndürerek 3D derinliği artır
-    KuantumKafesi.rotation.y += 0.0002;
-
-    // 3. ADIM: WebGL Canlandırma ve Ekran Basıcı Bağlantıları
-    requestAnimationFrame(animate);
-
-    // OrbitControls jiro yumuşatmasını güncelle
-    controls.update(); 
-
-    // Sahneyi kameradan ekrana bas
-    renderer.render(scene, camera);
-}
-
-// 🔑 ENERJİ VER: Dosyanın çalışması için en altta motoru tetiklemeyi unutmuyoruz
-animate();
-</script>
+        // 🔑 ENERJİ VER: Evrensel saati başlatan ana tetikleyici
+        animate();
+    </script>
 </body>
 </html>
+
+
