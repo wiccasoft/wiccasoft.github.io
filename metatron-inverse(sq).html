@@ -8,8 +8,8 @@
         #canvas3d { width: 100vw; height: 100vh; }
     </style>
     <!-- Kararlı, THREE.OrbitControls'ü destekleyen r128 sürümleri -->
-<script src="https://cdn.jsdelivr.net/npm/three@0.146/build/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/three@0.146/examples/js/controls/OrbitControls.js"></script>
+    <script src="./three.min.js"></script>
+    <script src="./OrbitControls.js"></script>
 </head>
 <body>
     <div id="canvas3d"></div>
@@ -84,6 +84,22 @@
             }
 
             initKozmikOdalar() {
+
+
+                 // Haramein Grid rezonansını görünür kılacak dış iskelet
+                const iskeletGeo = new THREE.BoxGeometry(this.radius * 0.9, this.radius * 0.9, this.radius * 0.9);
+                const iskeletMat = new THREE.MeshBasicMaterial({
+                    color: this.renkA,
+                    wireframe: true,
+                    transparent: true,
+                    opacity: 0.12 * this.enerjiYogunlugu
+                });
+                const kafesMesh = new THREE.Mesh(iskeletGeo, iskeletMat);
+                this.group.add(kafesMesh);
+                // --- 🌌 2. BÖLÜM: KUTUPSAL AKS VE VENÜS 13:8 ZAMAN DİŞLİSİ (15 ODA) ---
+                // (Kutup ve zaman odaları oluşturulur...)
+
+                
                 // --- 🏛️ 1. BÖLÜM: HARAMEIN TETRAHEDRON ÇEKİRDEĞİ (1 + 8 = 9 ODA) ---
                 // 1. Kök Merkez Oda (Katman 1 - Kaynak)
                 this.merkezOda = this.createEnerjiOdası(
