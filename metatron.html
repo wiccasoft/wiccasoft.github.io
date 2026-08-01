@@ -13,6 +13,11 @@
 </head>
 <body>
     <div id="canvas3d"></div>
+
+<!-- 🔑 GEÇİŞ ANAHTARI: Metatron Küplerini Karekök 2 Matrisine Bükücü Buton -->
+<button id="btnBukucu" style="position: absolute; top: 20px; left: 20px; padding: 12px 24px; background: rgba(138, 43, 226, 0.2); color: #00ffcc; border: 2px solid #00ffcc; border-radius: 8px; cursor: pointer; font-family: monospace; font-size: 14px; backdrop-filter: blur(5px); transition: all 0.3s; z-index: 999;">
+    MATRİS: VECTOR EQUILIBRIUM
+</button>
     <script>
 
         // --- THREE.JS ENGINE INITIALIZATION ---
@@ -314,6 +319,31 @@ initMekanizma() {
                 }
             }
 
+
+
+              matrisBukucu(kuantumModu) {
+        const katsayi = this.radius * 0.45;
+        const sqrt2Scale = Math.sqrt(2);
+        
+        // 8 Kuantum Köşe Noktası (9-13-21 Hiyerarşisi)
+        const koseler = [
+            [1, 1, -1], [1, -1, 1], [1, -1, -1], [-1, 1, 1],
+            [-1, 1, -1], [-1, -1, 1], [-1, -1, -1], [1, 1, 1]
+        ];
+
+        this.internalCubes.forEach((coreNode, index) => {
+            let v = koseler[index % koseler.length];
+            if (kuantumModu === "kup") {
+                // 🧱 KAREKÖK 2 SAF KÜP GEOMETRİSİ: Odaları kübün en uç sınırlarına fırlatıyoruz
+                coreNode.position.set(v[0] * katsayi * sqrt2Scale, v[1] * katsayi * sqrt2Scale, v[2] * katsayi * sqrt2Scale);
+            } else {
+                // 🌌 VECTOR EQUILIBRIUM: Orijinal kutsal dengeli çekirdek koordinatlarına geri çekiyoruz
+                coreNode.position.set(v[0] * katsayi, v[1] * katsayi, v[2] * katsayi);
+            }
+        });
+    }
+
+
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
 updateVortex(galaktikZaman) {
         // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL ZAMAN ÇENTİKLERİ
@@ -422,7 +452,28 @@ updateVortex(galaktikZaman) {
             controls.update();
             renderer.render(scene, camera);
         }
+// ⚡ BUTON KONTROL MERKEZİ
+let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
+const buton = document.getElementById("btnBukucu");
 
+if (buton) {
+    buton.addEventListener("click", () => {
+        if (mevcutMod === "ve") {
+            mevcutMod = "kup";
+            buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
+            buton.style.borderColor = "#ffaa00";
+            buton.style.color = "#ffaa00";
+        } else {
+            mevcutMod = "ve";
+            buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
+            buton.style.borderColor = "#00ffcc";
+            buton.style.color = "#00ffcc";
+        }
+        
+        // 3 farklı fraktal katmanı (0.35, 0.55, 0.85) aynı anda büküyoruz
+        metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
+    });
+}
         // START ENGINE
         animate();
     </script>
