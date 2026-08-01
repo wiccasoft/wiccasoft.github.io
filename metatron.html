@@ -23,8 +23,7 @@
         //const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.01, 100);
         //camera.position.set(1.5, 1.5, 2.0);
         // 📐 PERSPEKTİF IPTAL: 3B Derinlik illüzyonunu kapatıp tam teknik altıgen izleme kamerası kuruyoruz
-        //const d = 1.5; // Kamera görüş alanı genişlik katsayısı
-        const d = 3.5; // 🔑 Kadraj genişletildi, yörüngeler artık tam görünecek.
+        const d = 1.5; // Kamera görüş alanı genişlik katsayısı
         const camera = new THREE.OrthographicCamera(
             -d * (window.innerWidth/window.innerHeight), 
             d * (window.innerWidth/window.innerHeight), 
@@ -58,92 +57,25 @@
             camera.updateProjectionMatrix()
         });
 
-// --- THE METATRON GRID CORE CLASS (STABILIZED) ---
-class MetatronGridSaati {
-    constructor(baseSize) {
-        this.group = new THREE.Group();
-        this.radius = baseSize;
-        this.energyDensity = 1.0 / Math.pow(this.radius, 2);
         
-        // 1. Önce Dizileri Tanımla (Memory Allocation)
-        this.internalCubes = [];
-        this.zamanOdaları = [];
-        this.icoOdaları = []; 
-        this.teslaLines = []; 
-        
-        // 2. Kronolojik Sıralama (Güvenli Çağrı)
-        this.initMekanizma();
-        this.initIcosahedronKafesi(); // icoOdaları burada dolar
-        this.initTeslaAkisHatlar();   // Kafes oluştuktan sonra çağrılmalı
-        this.initYasamCicegiVeElementler();
-        this.init13MoonDreamspell();
-        this.initGalaktikGunesSistemi();
-    }
-
-    initTeslaAkisHatlar() {
-        // Güvenlik Kontrolü: Dizi boşsa işlem yapma
-        if (!this.icoOdaları || this.icoOdaları.length === 0) return;
-
-        const teslaPattern = [1, 2, 4, 8, 7, 5];
-        for (let i = 0; i < teslaPattern.length; i++) {
-            const p1Idx = teslaPattern[i] % this.icoOdaları.length;
-            const p2Idx = teslaPattern[(i + 1) % teslaPattern.length] % this.icoOdaları.length;
-            
-            const n1 = this.icoOdaları[p1Idx].position;
-            const n2 = this.icoOdaları[p2Idx].position;
-            
-            const lineGeo = new THREE.BufferGeometry().setFromPoints([n1, n2]);
-            const lineMat = new THREE.LineBasicMaterial({
-        color: 0xffaa00, // Neon Elektrik Sarısı
-        transparent: true,
-        opacity: 0.9,
-        depthWrite: false // Derinlik testi kapalı, her zaman görünür
-    });
-            
-            const teslaLine = new THREE.Line(lineGeo, lineMat);
-            this.group.add(teslaLine);
-            this.teslaLines.push(teslaLine);
-        }
-    }
-
-initGalaktikGunesSistemi() {
-    this.gezegenler = [];
-    this.yorungeler = [];
-    let seciliElementler = [];
-
-    // 🪐 KATMANLARA GÖRE GEZEGEN MATRİSİ DAĞILIMI
-    if (this.radius === 0.35) {
-        // İÇ ÇEKİRDEK: Güneş, Merkur, Venus
-        seciliElementler = [
-            { isim: "Gunes", renk: 0xffcc00, hiz: 2.0, yorungari: 1.2 },
-            { isim: "Merkur", renk: 0x888888, hiz: 3.5, yorungari: 1.6 },
-            { isim: "Venus", renk: 0xffe6a7, hiz: 2.2, yorungari: 2.0 }
-        ];
-    } else if (this.radius === 0.55) {
-        // ORTA BÖLME: Dunya, Mars
-        seciliElementler = [
-            { isim: "Dunya", renk: 0x00aaff, hiz: 1.2, yorungari: 1.7 },
-            { isim: "Mars", renk: 0xff3300, hiz: 0.9, yorungari: 2.2 }
-        ];
-    } else if (this.radius === 0.85) {
-        // DIŞ KALKAN: Jupiter, Saturn, Uranus, Neptun
-        seciliElementler = [
-            { isim: "Jupiter", renk: 0xffaa55, hiz: 0.4, yorungari: 1.4 },
-            { isim: "Saturn", renk: 0xe6c387, hiz: 0.2, yorungari: 1.8 },
-            { isim: "Uranus", renk: 0x66ccff, hiz: 0.1, yorungari: 2.2 },
-            { isim: "Neptun", renk: 0x3333ff, hiz: 0.05, yorungari: 2.6 }
-        ];
-    }
-
-    // Gezegenleri ve Yörünge Çemberlerini İnşa Et (Sadeleştirilmiş yapı)
-    seciliElementler.forEach((g, i) => {
-        // Yörünge ve Gezegen Mesh oluşturma mantığı...
-        // ... (Karakter sınırına takılmamak için döngü içi detaylar kısıtlandı)
-    });
-}
-
-initMekanizma() 
-{
+        // --- THE METATRON GRID CORE CLASS ---
+        class MetatronGridSaati {
+            constructor(baseSize) {
+                this.group = new THREE.Group();
+                this.radius = baseSize;
+                
+                // Inverse Square Law density multiplier (1 / r²)
+                this.energyDensity = 1.0 / Math.pow(this.radius, 2);
+                
+                // Structural array arrays
+                this.internalCubes = [];
+                this.zamanOdaları = [];
+                
+                this.initMekanizma();
+                this.initIcosahedronKafesi();
+                this.initYasamCicegiVeElementler();
+            }
+initMekanizma() {
                 // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
                 const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
                 
@@ -289,9 +221,6 @@ initMekanizma()
                     this.group.add(nodeMesh);
                     this.icoOdaları.push(nodeMesh);
                 }
-
-                
-                 this.initTeslaAkisHatlar(); 
             }
 
 
@@ -369,37 +298,6 @@ initMekanizma()
                 }
             }
 
-
-            // 🌌 ADIM 8: 13 MOON DREAMSELL (13 AY KOZMİK ZAMAN DİŞLİSİ)
-            // 28 günlük döngüleri mor Icosahedron halkalarının $\sqrt{2}$ üst ufku olarak ekler
-            init13MoonDreamspell() {
-                this.dreamspellTonlari = [];
-                
-                // 13 adet kozmik ay kapısı için gümüşi frekans materyali
-                // Balerinanın o 13 akslı eteğini maddesel olarak görünür kılıyoruz
-                for (let i = 0; i < 13; i++) {
-                    const tonGeo = new THREE.SphereGeometry(this.radius * 0.03, 8, 8);
-                    const tonMat = new THREE.MeshPhongMaterial({
-                        color: 0x00ffcc, // Aqua / Galaktik Zaman Rengi
-                        emissive: 0x00ffcc,
-                        emissiveIntensity: 0.8,
-                        transparent: true,
-                        opacity: 0.65
-                    });
-                    const tonMesh = new THREE.Mesh(tonGeo, tonMat);
-                    
-                    // 13 Kozmik Tonu, uzayda 28 günlük sarmal dalga boylarına çapalıyoruz
-                    let aci = (i * Math.PI * 2) / 13;
-                    tonMesh.position.set(
-                        Math.cos(aci) * this.radius * 1.5,
-                        0, // Ekvatoral düzlem
-                        Math.sin(aci) * this.radius * 1.5
-                    );
-                    
-                    this.group.add(tonMesh);
-                    this.dreamspellTonlari.push(tonMesh);
-                }
-            }
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
  // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
             updateVortex(galaktikZaman) {
@@ -460,50 +358,6 @@ initMekanizma()
                     // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
                     halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
                 });
-
-// 🌌 13 MOON DREAMSELL DİŞLİSİNİ CANLANDIR (Ekvatoral Sarmal Dalga)
-this.dreamspellTonlari.forEach((ton, index) => {
-    let baseAngle = (index * Math.PI * 2) / 13;
-    // Saat yönünde hafif ve asil bir dönüş hızı
-    let currentAngle = baseAngle - (galaktikZaman * 0.15); 
-    
-    // Yarıçapı Icosahedron'un biraz daha dış çeperine (1.6) konumlandırıyoruz
-    ton.position.x = Math.cos(currentAngle) * this.radius * 1.6;
-    ton.position.z = Math.sin(currentAngle) * this.radius * 1.6;
-    
-    // 28 günlük döngüyü simgeleyen yukarı-aşağı yumuşak dalgalanma (Satürn aksı rezonansı)
-    ton.position.y = Math.sin(galaktikZaman * 1.5 + baseAngle) * this.radius * 0.2;
-    
-    // Işığın nefes alıp vermesi (Emissive yanıp sönme efekti)
-    ton.material.emissiveIntensity = 0.5 + Math.abs(Math.sin(galaktikZaman * 2.0 + index)) * 1.5;
-});
-
- // ⚡ GÜVENLİ DURUMDA ÇALIŞAN TESLA HAT MOTORU
-        if (this.teslaLines && this.teslaLines.length > 0) {
-            this.teslaLines.forEach((line, idx) => {
-                let teslaFaz = (idx + 1) * 1.24875;
-                line.material.opacity = 0.3 + Math.abs(Math.sin(galaktikZaman * 3.5 + teslaFaz)) * 0.7;
-            });
-        }
-
-
-          // 🌌 GALAKTİK GÜNEŞ SİSTEMİ YÖRÜNGE MOTORU
-        if (this.gezegenler && this.gezegenler.length > 0) {
-            this.gezegenler.forEach((g) => {
-                // Gezegenleri kendi hız katsayılarına göre kozmik zamanda döndür
-                let guncelAci = g.aci + (galaktikZaman * 0.2 * g.hiz);
-                
-                g.mesh.position.x = Math.cos(guncelAci) * g.r;
-                g.mesh.position.z = Math.sin(guncelAci) * g.r;
-                
-                // 💃 BALERİNA DANSI: Gezegenleri de yukarı-aşağı sarmal dalgalanmaya sokuyoruz
-                g.mesh.position.y = Math.sin(galaktikZaman * 1.5 + g.r) * this.radius * 0.08;
-                
-                // Nefes alan galaktik ışık şiddeti
-                g.mesh.material.emissiveIntensity = 0.4 + Math.abs(Math.sin(galaktikZaman * g.hiz + g.r)) * 1.4;
-            });
-        }
-                
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
