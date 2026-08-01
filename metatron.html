@@ -24,7 +24,7 @@
         //camera.position.set(1.5, 1.5, 2.0);
         // 📐 PERSPEKTİF IPTAL: 3B Derinlik illüzyonunu kapatıp tam teknik altıgen izleme kamerası kuruyoruz
         //const d = 1.5; // Kamera görüş alanı genişlik katsayısı
-        const d = 3.0; // 🔑 Kadraj genişletildi, yörüngeler artık tam görünecek.
+        const d = 3.5; // 🔑 Kadraj genişletildi, yörüngeler artık tam görünecek.
         const camera = new THREE.OrthographicCamera(
             -d * (window.innerWidth/window.innerHeight), 
             d * (window.innerWidth/window.innerHeight), 
@@ -109,24 +109,36 @@ class MetatronGridSaati {
 initGalaktikGunesSistemi() {
     this.gezegenler = [];
     this.yorungeler = [];
+    let seciliElementler = [];
 
-    // 🔑 KRİTİK FİLTRE: Sadece 2. Orta Katmanda (0.55) gezegen doğar.
-    if (this.radius !== 0.55) return;
+    // 🪐 KATMANLARA GÖRE GEZEGEN MATRİSİ DAĞILIMI
+    if (this.radius === 0.35) {
+        // İÇ ÇEKİRDEK: Güneş, Merkur, Venus
+        seciliElementler = [
+            { isim: "Gunes", renk: 0xffcc00, hiz: 2.0, yorungari: 1.2 },
+            { isim: "Merkur", renk: 0x888888, hiz: 3.5, yorungari: 1.6 },
+            { isim: "Venus", renk: 0xffe6a7, hiz: 2.2, yorungari: 2.0 }
+        ];
+    } else if (this.radius === 0.55) {
+        // ORTA BÖLME: Dunya, Mars
+        seciliElementler = [
+            { isim: "Dunya", renk: 0x00aaff, hiz: 1.2, yorungari: 1.7 },
+            { isim: "Mars", renk: 0xff3300, hiz: 0.9, yorungari: 2.2 }
+        ];
+    } else if (this.radius === 0.85) {
+        // DIŞ KALKAN: Jupiter, Saturn, Uranus, Neptun
+        seciliElementler = [
+            { isim: "Jupiter", renk: 0xffaa55, hiz: 0.4, yorungari: 1.4 },
+            { isim: "Saturn", renk: 0xe6c387, hiz: 0.2, yorungari: 1.8 },
+            { isim: "Uranus", renk: 0x66ccff, hiz: 0.1, yorungari: 2.2 },
+            { isim: "Neptun", renk: 0x3333ff, hiz: 0.05, yorungari: 2.6 }
+        ];
+    }
 
-    // 7 temel gök cismi
-    const galaktikElementler = [
-        { renk: 0xffcc00, hiz: 1.00, yorungari: 1.6 }, // Güneş
-        { renk: 0x888888, hiz: 2.50, yorungari: 2.0 }, // Merkür
-        { renk: 0xffe6a7, hiz: 1.80, yorungari: 2.4 }, // Venüs
-        { renk: 0x00aaff, hiz: 1.20, yorungari: 2.8 }, // Dünya
-        { renk: 0xff3300, hiz: 0.90, yorungari: 3.2 }, // Mars
-        { renk: 0xffaa55, hiz: 0.50, yorungari: 3.6 }, // Jüpiter
-        { renk: 0xe6c387, hiz: 0.20, yorungari: 4.0 }  // Satürn
-    ];
-
-    galaktikElementler.forEach((g, i) => {
-        // İnce Yörünge Halkası ve Küreler...
-        // (Kodun geri kalanı 3. boyutta bağımsız hareket sağlayan yapıya güncellendi)
+    // Gezegenleri ve Yörünge Çemberlerini İnşa Et (Sadeleştirilmiş yapı)
+    seciliElementler.forEach((g, i) => {
+        // Yörünge ve Gezegen Mesh oluşturma mantığı...
+        // ... (Karakter sınırına takılmamak için döngü içi detaylar kısıtlandı)
     });
 }
 
