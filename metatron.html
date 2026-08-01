@@ -65,21 +65,20 @@
         
         // --- THE METATRON GRID CORE CLASS ---
         class MetatronGridSaati {
-            constructor(baseSize) {
-                this.group = new THREE.Group();
-                this.radius = baseSize;
-                
-                // Inverse Square Law density multiplier (1 / r²)
-                this.energyDensity = 1.0 / Math.pow(this.radius, 2);
-                
-                // Structural array arrays
-                this.internalCubes = [];
-                this.zamanOdaları = [];
-                
-                this.initMekanizma();
-                this.initIcosahedronKafesi();
-                this.initYasamCicegiVeElementler();
-            }
+   constructor(baseSize) {
+        this.group = new THREE.Group();
+        this.radius = baseSize;
+        this.energyDensity = 1.0 / Math.pow(this.radius, 2);
+        this.internalCubes = [];
+        this.zamanOdaları = [];
+        
+        // 🔒 SISTEMIN SİLEMEMESİ İÇİN BURAYA KİLİTLEDİK (UNUTMA DERDİ BİTTİ)
+        this.vortexPattern =;
+
+        this.initMekanizma();
+        this.initIcosahedronKafesi();
+        this.initYasamCicegiVeElementler();
+    }
 initMekanizma() {
                 // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
                 const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
