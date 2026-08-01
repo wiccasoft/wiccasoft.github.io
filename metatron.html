@@ -192,36 +192,56 @@ initMekanizma() {
 
             // 🏟️ ADIM 5: ISOCOSAHEDRON (20 YÜZLÜ ENERJİ KAFESİ) TOHUMU
             // Kütlesel olarak dönmeyen, içinden 124875 enerji akacak 12 köşe noktası
-            initIcosahedronKafesi() {
-                this.icoOdaları = [];
-                // Icosahedron geometrisini (Kutsal 20 yüzlü grid ağı)
-                // Ters piramit ($\sqrt{2}$) katsayısıyla merkez kübün dışına sabitliyoruz
-                const icoGeo = new THREE.IcosahedronGeometry(this.radius * 1.5, 0);
-                
-                // Enerji akışını çizgisel göreceğimiz kafes materyali
-                const icoMat = new THREE.MeshBasicMaterial({ 
-                    color: 0x8a2be2, 
-                    wireframe: true, 
-                    transparent: true, 
-                    opacity: 0.25 
-                });
-                this.icoKafesMesh = new THREE.Mesh(icoGeo, icoMat);
-                this.group.add(this.icoKafesMesh);
+  initIcosahedronKafesi() {
+        this.icoOdaları = []; // Eski updateVortex kodları kırılmasın diye dizi adını koruyoruz
+        this.kupIskeletleri = [];
 
-                // Icosahedron'un 12 köşesine Tesla 124875 akışını bağlayacağımız enerji düğüm odaları
-                const kureGeo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
-                const pozisyonlar = icoGeo.attributes.position;
+        // Karekök 2 (1.4142) aks boyut çarpanı ile saf küp ölçeklemesi
+        const sqrt2Scale = Math.sqrt(2);
+        const boxSize = this.radius * sqrt2Scale;
 
-                for (let i = 0; i < pozisyonlar.count; i++) {
-                    const nodeMat = new THREE.MeshBasicMaterial({ color: 0xff00ff, transparent: true, opacity: 0.7 });
-                    const nodeMesh = new THREE.Mesh(kureGeo, nodeMat);
-                    
-                    // Konumları sabit Icosahedron köşelerine kilitlenir (Dönüş yok!)
-                    nodeMesh.position.fromArray(pozisyonlar.array, i * 3);
-                    this.group.add(nodeMesh);
-                    this.icoOdaları.push(nodeMesh);
-                }
-            }
+        // 1⃣ $\sqrt{2}$ AKS KÜPÜNÜN TEL KAFES (WIREFRAME) İSKELETİ
+        const kupGeo = new THREE.BoxGeometry(boxSize, boxSize, boxSize);
+        const kupMat = new THREE.MeshBasicMaterial({
+            color: 0x8a2be2, // Asil Mor Metatron İskelet Çizgileri
+            wireframe: true,
+            transparent: true,
+            opacity: 0.25
+        });
+        const kupMesh = new THREE.Mesh(kupGeo, kupMat);
+        this.group.add(kupMesh);
+        this.kupIskeletleri.push(kupMesh);
+
+        // 2⃣ 6 YÖNSEL EKSEN KÖŞESİ (Kuantum Seed Küreleri)
+        // [X, Y, Z] koordinat matrisi (Doğu, Batı, Kuzey, Güney, Ön, Arka Kapıları)
+        const eksenler = [,  // +X (Doğu)
+            [-1, 0, 0], // -X (Batı),  // +Y (Kuzey Kutbu)
+            [0, -1, 0], // -Y (Güney Kutbu),  // +Z (Ön Aks)
+            [0, 0, -1]  // -Z (Arka Aks)
+        ];
+
+        const kureGeo = new THREE.SphereGeometry(this.radius * 0.05, 16, 16);
+
+        eksenler.forEach((e) => {
+            // Her bir tohum küresine bağımsız ve parlayan PhongMaterial tanımlıyoruz
+            const nodeMat = new THREE.MeshPhongMaterial({
+                color: 0xff00ff,
+                emissive: 0xff00ff,
+                emissiveIntensity: 0.8,
+                transparent: true,
+                opacity: 0.75
+            });
+            const nodeMesh = new THREE.Mesh(kureGeo, nodeMat);
+            
+            // Küreleri tam yüzey merkezlerinin sınırına konumlandırıyoruz
+            nodeMesh.position.set(e[0] * (boxSize / 2), e[1] * (boxSize / 2), e[2] * (boxSize / 2));
+            this.group.add(nodeMesh);
+            
+            // Orijinal konum vektörünü dalgalanma motoru okusun diye hafızaya kilitliyoruz
+            nodeMesh.userData = { basePos: nodeMesh.position.clone() };
+            this.icoOdaları.push(nodeMesh);
+        });
+    }
 
 
             // 🌸 ADIM 7: TOPRAK İSKELETİNDEN FIŞKIRAN YAŞAM ÇİÇEĞİ VE 4 ELEMENT AKIŞI
@@ -300,7 +320,7 @@ initMekanizma() {
 
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
  // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
-            updateVortex(galaktikZaman) {
+updateVortex(galaktikZaman) {
                 // Tesla 124875 serisi jiro-vites çarpanı
                 const vortexPattern = [1, 2, 4, 8, 7, 5];
                 
@@ -313,71 +333,50 @@ initMekanizma() {
                 this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
                 this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
                 
-                // Emissive intensity, 0.5'ten başlayarak sinüs dalgasıyla 2.5'e kadar artar
-    // ⚡ KESKİN ANA SPİN AKSI: Aksların parlaması 5.5 kat rezonansa fırlar
+                // ⚡ KESKİN ANA SPİN AKSI: Aksların parlaması 5.5 kat rezonansa fırlar
                 this.poleA.material.emissiveIntensity = 1.0 + Math.abs(Math.sin(galaktikZaman * 3.0)) * 4.5;
                 this.poleB.material.emissiveIntensity = 1.0 + Math.abs(Math.cos(galaktikZaman * 3.0)) * 4.5;
 
                 // 3️⃣ Orbiting 13 Dreamspell Nodes following the 124875 velocity sequence
                 this.zamanOdaları.forEach((node, index) => {
                     let baseAngle = (index * Math.PI * 2) / 13;
-                    
-                    // Tesla 124875 serisi hıza uygulanıyor
                     let stepMultiplier = vortexPattern[index % vortexPattern.length];
-                    
-                    // Zaman aksı ekvatoral düzlemde akıyor
                     let currentAngle = baseAngle + (galaktikZaman * 0.3 * stepMultiplier);
                     
-                    /*
-                    // Yeşiller tam ekvator çemberinde kilitli, y=0
-                    node.position.x = Math.cos(currentAngle) * this.radius * 1.3;
-                    node.position.z = Math.sin(currentAngle) * this.radius * 1.3;
-                    // 🔑 OUROBOROS MOTORU: Yeşiller dönerken index ivmesine bağlı olarak 
-                    // aşağı ve yukarı sarmal sinüs dalgaları (Helix) çizer
-                    node.position.y = Math.sin(galaktikZaman * 2.0 + baseAngle) * this.radius * 0.25 * Math.sqrt(2);
-                    
-                    // 124875 akış hızı parlama enerjisini (opasite) katlıyor
-                    node.material.opacity = 0.4 + (stepMultiplier * 0.05);
-                    */
-
-                     // Yeşiller tam ekvator çemberinde kilitli, ancak görünmez illüzyon kaynağı (Hayalet)
                     node.position.x = Math.cos(currentAngle) * this.radius * 1.3;
                     node.position.z = Math.sin(currentAngle) * this.radius * 1.3;
                     node.position.y = Math.sin(galaktikZaman * 2.0 + baseAngle) * this.radius * 0.15 * Math.sqrt(2);
                     
                     // 🔑 İLLÜZYON SUSTURULDU: Opasite 0.02'ye çekilerek arka plana gizlendi
                     node.material.opacity = 0.02;
-
-               
-                    
                 });
 
-                 // Satürn'ün 800 yıllık salınım döngüsü Yaşam Çiçeği halkalarını ışıkla nefeslendirir
+                // Satürn'ün 800 yıllık salınım döngüsü Yaşam Çiçeği halkalarını ışıkla nefeslendirir
                 this.yasamCicegiHalkalari.forEach((halka, idx) => {
                     halka.material.opacity = 0.1 + Math.abs(Math.sin(galaktikZaman * 0.5 + idx)) * 0.3;
                     // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
                     halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
                 });
 
+                // 🌊 ICOSAHEDRON 124875 EVRESEL WAVESPELL MOTORU (Eklenen Güvenli Blok)
+                let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
 
-                // 🌌 ICOSAHEDRON 124875 EVRESEL WAVESPELL MOTORU
-const vortexPattern =[1,2,4,8,7,5];
-let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
-
-if (this.icoOdaları && this.icoOdaları.length > 0) {
-    this.icoOdaları.forEach((node, index) => {
-        let stepMultiplier = vortexPattern[index % vortexPattern.length];
-        
-        // 💃 BALERİNA ADIMI: Orijinal Icosahedron odaları yerinden kopmaz,
-        // Kutuplar (5+5) ve Ekvator (2) aksları kendi koordinatlarında pulsarlar gibi mikro titrer
-        let pulse = Math.sin(galaktikZaman * stepMultiplier + index);
-        node.scale.setScalar(1.0 + wavespellIvme * pulse * 0.3);
-        
-        // Tesla 124875 frekans parlama dalgası
-        node.material.emissiveIntensity = 0.5 + Math.abs(wavespellIvme * stepMultiplier) * 1.5;
-        node.material.opacity = 0.4 + Math.abs(wavespellIvme) * 0.4;
-    });
-}
+                if (this.icoOdaları && this.icoOdaları.length > 0) {
+                    this.icoOdaları.forEach((node, index) => {
+                        let stepMultiplier = vortexPattern[index % vortexPattern.length];
+                        
+                        // 💃 BALERİNA ADIMI: Orijinal Icosahedron odaları yerinden kopmaz,
+                        // Kutuplar ve Ekvator aksları kendi koordinatlarında pulsarlar gibi mikro genişler
+                        let pulse = Math.sin(galaktikZaman * stepMultiplier + index);
+                        node.scale.setScalar(1.0 + wavespellIvme * pulse * 0.3);
+                        
+                        // Parlamaların canlanması (initIcosahedronKafesi'nde MeshPhongMaterial kullanıldıysa tetiklenir)
+                        if (node.material && node.material.emissiveIntensity !== undefined) {
+                            node.material.emissiveIntensity = 0.5 + Math.abs(wavespellIvme * stepMultiplier) * 1.5;
+                            node.material.opacity = 0.4 + Math.abs(wavespellIvme) * 0.4;
+                        }
+                    });
+                }
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
