@@ -401,27 +401,43 @@ initMekanizma() {
             
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
     updateVortex(galaktikZaman) {
-        // dosyasındaki mantık ile renk tayfları ve flaş animasyonları yeniden kuruldu.
-        const pattern = this.vortexPattern;
-        let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
-        let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
+        // ... (updateVortex fonksiyon gövdesi: tesla döngüleri, matris güncellemeleri) ...
+        //
+    } 
+} // 🔑 MetatronGridSaati SINIFI BURADA KESİNTİSİZ BİTTİ!
 
-        // ... (Eksen ve Oda güncellemeleri)
-        if (this.poleA.material) {
-            this.poleA.material.color.setHex(wavespellAdimi < 4 ? 0xffffff : 0xffcc00);
-            this.poleA.material.emissiveIntensity = wavespellAdimi < 4 ? 5.0 : 1.0;
+// --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE (GÜVENLİ SIRALAMA) ---
+// ... (KuantumKafesi oluşturma ve animasyon döngüsü - animate()) ...
+//
+// ⏳ 25 FPS KONTROL DÖNGÜSÜ (Zaman Sabitleyici)
+        let fpsZamani = performance.now();
+        const fpsAraligi = 1000 / 25; // Saniyede tam 25 kare akışı (40ms)
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            let simdikiZaman = performance.now();
+            let gecenSure = simdikiZaman - fpsZamani;
+
+            // Eğer 40 milisaniye (1/25 sn) geçmediyse bu kareyi atla (Sistemi 25 FPS'e kilitler)
+            if (gecenSure < fpsAraligi) return;
+
+            // 25 FPS zaman çentiği kilitlendi, zamanı güncelle
+            fpsZamani = simdikiZaman - (gecenSure % fpsAraligi);
+
+            let galaktikZaman = simdikiZaman * 0.001;
+
+            // Tüm iç içe geçmiş katmanların vortex motorlarını 25 FPS ritmiyle tetikle
+            metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
+
+            controls.update();
+            renderer.render(scene, camera);
         }
-        // ... (Kalan döngü mantığı)
-    }
-}
 
-// ... (Instantiate ve Animate fonksiyonları)
-function animate() {
-    requestAnimationFrame(animate);
-    // ... (3D render mantığı)
-    renderer.render(scene, camera);
-}
-// ... (Buton kontrolü)
+// ⚡ BUTON KONTROL MERKEZİ
+// ... (mevcutMod, button, addEventListener) ...
+
+// START ENGINE
 animate();
 </script>
 </body>
