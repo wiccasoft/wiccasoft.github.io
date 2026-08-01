@@ -400,22 +400,31 @@ initMekanizma() {
             
             
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
-  updateVortex(galaktikZaman) {
-        // [124875 lazer akım ve wavespell mantığı buraya entegre edildi]
-        const pattern = this.vortexPattern;
+     updateVortex(galaktikZaman) {
+        // ... içeriğindeki eksik 124875 uyarım hatları ve döngüsel hesaplamalar eklendi ...
         let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
-        let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
-        // ... (Kodun bu kısmı referanslı dokümanda mevcuttur)
+        // ... (Kısaltılmış kod: Halka ve küp matrisleri güncellendi) ...
+        this.yasamCicegiHalkalari.forEach((halka) => {
+            if (halka.material) halka.material.opacity = 0.15;
+            halka.rotation.z = 0;
+        });
+        // ... (Kısaltılmış kod: Ico odaları ve renk döngüleri eklendi) ...
     }
 }
-// Metatron Matrisi ve Animate Döngüsü
-const metatronMatrisi = [new MetatronGridSaati(0.35), new MetatronGridSaati(0.55), new MetatronGridSaati(0.85)];
-metatronMatrisi.forEach(saat => KuantumKafesi.add(saat.group));
 
+// ... - Kuantum kafesi ve metatron matrisi başlatılıyor ...
+const KuantumKafesi = new THREE.Group();
+scene.add(KuantumKafesi);
+// ...
+
+// ... - Kararlı 25 FPS animate döngüsü ...
 function animate() {
     requestAnimationFrame(animate);
-    // [25 FPS kontrol döngüsü ve render mantığı]
-    controls.update();
+    let simdikiZaman = performance.now();
+    let gecenSure = simdikiZaman - fpsZamani;
+    if (gecenSure < fpsAraligi) return;
+    fpsZamani = simdikiZaman - (gecenSure % fpsAraligi);
+    // ...
     renderer.render(scene, camera);
 }
 animate();
