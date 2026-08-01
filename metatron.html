@@ -192,7 +192,7 @@ initMekanizma() {
 
             // 🏟️ ADIM 5: ISOCOSAHEDRON (20 YÜZLÜ ENERJİ KAFESİ) TOHUMU
             // Kütlesel olarak dönmeyen, içinden 124875 enerji akacak 12 köşe noktası
-            initIcosahedronKafesi() {
+           initIcosahedronKafesi() {
                 this.icoOdaları = [];
                 // Icosahedron geometrisini (Kutsal 20 yüzlü grid ağı)
                 // Ters piramit ($\sqrt{2}$) katsayısıyla merkez kübün dışına sabitliyoruz
@@ -208,17 +208,33 @@ initMekanizma() {
                 this.icoKafesMesh = new THREE.Mesh(icoGeo, icoMat);
                 this.group.add(this.icoKafesMesh);
 
+                // 🎨 KATMANLARA GÖRE SAF RENK SPEKTRUMU TAYİNİ (1:9:13 Matrisi)
+                let katmanRengi = 0xff00ff; // Varsayılan pembe
+                if (this.radius === 0.35) katmanRengi = 0xff0000; // 🟥 İç Tohum: Saf Kırmızı
+                if (this.radius === 0.55) katmanRengi = 0x00ff00; // 🟩 Orta Dünya: Saf Yeşil
+                if (this.radius === 0.85) katmanRengi = 0x00aaff; // 🟦 Dış Kalkan: Parlak Mavi
+
                 // Icosahedron'un 12 köşesine Tesla 124875 akışını bağlayacağımız enerji düğüm odaları
                 const kureGeo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
                 const pozisyonlar = icoGeo.attributes.position;
 
                 for (let i = 0; i < pozisyonlar.count; i++) {
-                    const nodeMat = new THREE.MeshBasicMaterial({ color: 0xff00ff, transparent: true, opacity: 0.7 });
+                    // MeshBasicMaterial yerine ışık akımını destekleyen MeshPhongMaterial kuruyoruz
+                    const nodeMat = new THREE.MeshPhongMaterial({ 
+                        color: katmanRengi, 
+                        emissive: katmanRengi,
+                        emissiveIntensity: 0.8,
+                        transparent: true, 
+                        opacity: 0.7 
+                    });
                     const nodeMesh = new THREE.Mesh(kureGeo, nodeMat);
                     
                     // Konumları sabit Icosahedron köşelerine kilitlenir (Dönüş yok!)
                     nodeMesh.position.fromArray(pozisyonlar.array, i * 3);
                     this.group.add(nodeMesh);
+                    
+                    // 🔑 AKIM BELLEĞİ: Orijinal renkleri hafızaya alıyoruz ki akım geçince beyaza bükülebilsinler
+                    nodeMesh.userData = { originalColor: katmanRengi };
                     this.icoOdaları.push(nodeMesh);
                 }
             }
