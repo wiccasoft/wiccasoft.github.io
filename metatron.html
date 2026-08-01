@@ -73,7 +73,7 @@
         this.zamanOdaları = [];
         
         // 🔒 SISTEMIN SİLEMEMESİ İÇİN BURAYA KİLİTLEDİK (UNUTMA DERDİ BİTTİ)
-        this.vortexPattern =;
+        this.vortexPattern =[1, 2, 4, 8, 7, 5];
 
         this.initMekanizma();
         this.initIcosahedronKafesi();
@@ -266,11 +266,9 @@ initMekanizma() {
         }
     }
 
-    matrisBukucu(kuantumModu) {
+     matrisBukucu(kuantumModu) {
         const sqrt2Scale = Math.sqrt(2);
         const boxSize = this.radius * sqrt2Scale;
-
-        // 🔑 DÜZELTME 2: Boşluklar dolduruldu, 6 yönsel eksen matrisi eksiksiz tanımlandı.
         const eksenler = [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]];
 
         if (kuantumModu === "kup") {
@@ -280,11 +278,20 @@ initMekanizma() {
                 this.icoKafesMesh.geometry = new THREE.BoxGeometry(boxSize, boxSize, boxSize);
             }
             
-            // 6 Yönsel Kuantum Odasını Kübün Yüzey Merkezlerine Tam Kilitle
             if (this.icoOdaları) {
                 this.icoOdaları.forEach((node, idx) => {
-                    let e = eksenler[idx % eksenler.length];
-                    node.position.set(e[0] * (boxSize / 2), e[1] * (boxSize / 2), e[2] * (boxSize / 2));
+                    // Eğer en dış katmandaki (0.85) son 8 Magenta odadaysak kübün uç köşelerine kilitle
+                    if (this.radius === 0.85 && idx >= 6) {
+                        const koseler21 = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
+                            [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
+                        ];
+                        let k = koseler21[(idx - 6) % koseler21.length];
+                        node.position.set(k[0] * (boxSize / 2), k[1] * (boxSize / 2), k[2] * (boxSize / 2));
+                    } else {
+                        // İlk 6 odayı (Kırmızı, Yeşil, Mavi) kübün yüzey merkezlerine kilitle
+                        let e = eksenler[idx % eksenler.length];
+                        node.position.set(e[0] * (boxSize / 2), e[1] * (boxSize / 2), e[2] * (boxSize / 2));
+                    }
                     node.userData.basePos = node.position.clone();
                 });
             }
@@ -295,16 +302,24 @@ initMekanizma() {
                 this.icoKafesMesh.geometry = new THREE.IcosahedronGeometry(this.radius * 1.5, 0);
             }
             
-            // 6 Odayı Elimizdeki 6 Eksenli Başlangıç Konumlarına Geri Çapa (Güvenli Alan)
             if (this.icoOdaları) {
                 this.icoOdaları.forEach((node, idx) => {
-                    let e = eksenler[idx % eksenler.length];
-                    node.position.set(e[0] * this.radius * 0.95, e[1] * this.radius * 0.95, e[2] * this.radius * 0.95);
+                    if (this.radius === 0.85 && idx >= 6) {
+                        // Magenta odaları orijinal küresel çeper konumuna geri çekiyoruz
+                        const koseler21 = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
+                            [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
+                        ];
+                        let k = koseler21[(idx - 6) % koseler21.length];
+                        node.position.set(k[0] * this.radius * 1.25, k[1] * this.radius * 1.25, k[2] * this.radius * 1.25);
+                    } else {
+                        // 6 yönsel odayı mor iskelet çizgilerinin bir tık önüne (1.08) çekerek görünür kılıyoruz
+                        let e = eksenler[idx % eksenler.length];
+                        node.position.set(e[0] * this.radius * 1.08, e[1] * this.radius * 1.08, e[2] * this.radius * 1.08);
+                    }
                     node.userData.basePos = node.position.clone();
                 });
             }
         }
-    }
 
 
             // 🌸 ADIM 7: TOPRAK İSKELETİNDEN FIŞKIRAN YAŞAM ÇİÇEĞİ VE 4 ELEMENT AKIŞI
