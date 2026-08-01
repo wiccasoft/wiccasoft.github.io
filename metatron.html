@@ -20,21 +20,6 @@
 </button>
     <script>
 
-        // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
-const KuantumKafesi = new THREE.Group();
-scene.add(KuantumKafesi);
-
-// 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
-const metatronMatrisi = [
-    new MetatronGridSaati(0.35),
-    new MetatronGridSaati(0.55),
-    new MetatronGridSaati(0.85)
-];
-
-metatronMatrisi.forEach((saat) => {
-    saat.group.position.set(0, 0, 0);
-    KuantumKafesi.add(saat.group);
-});
 
         // --- THREE.JS ENGINE INITIALIZATION ---
         const scene = new THREE.Scene();
@@ -466,6 +451,21 @@ updateVortex(galaktikZaman) {
             controls.update();
             renderer.render(scene, camera);
         }
+
+const KuantumKafesi = new THREE.Group();// 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
+const metatronMatrisi = [
+    new MetatronGridSaati(0.35),
+    new MetatronGridSaati(0.55),
+    new MetatronGridSaati(0.85)
+];
+
+metatronMatrisi.forEach((saat) => {
+    saat.group.position.set(0, 0, 0);
+    KuantumKafesi.add(saat.group);
+});
+
+scene.add(KuantumKafesi);
+
 
 
         // ⚡ BUTON KONTROL MERKEZİ
