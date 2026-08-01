@@ -467,23 +467,26 @@ initMekanizma() {
         }
     } // 🔑 Fonksiyon doğru kapatıldı
 } // 🔑 Sınıf doğru kapatıldı
+  } // Fonksiyon doğru kapatıldı
+} // Sınıf doğru kapatıldı (Mevcut kodundaki class kapanışı)
 
 // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE (GÜVENLİ SIRALAMA) ---
+
+// 🔑 GÜVENLİ ALAN: Her şey tanımlandıktan sonra motoru burada ateşliyoruz!
 const KuantumKafesi = new THREE.Group();
 scene.add(KuantumKafesi);
 
-// 🧱 HARAMEIN GRID: Önce matris dizisi kuruluyor (Hata çözüldü)
+// 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
 const metatronMatrisi = [
-    new MetatronGridSaati(0.35),
-    new MetatronGridSaati(0.55),
-    new MetatronGridSaati(0.85)
+    new MetatronGridSaati(0.35), // İç Tohum: Kırmızı
+    new MetatronGridSaati(0.55), // Orta Dünya: Yeşil
+    new MetatronGridSaati(0.85)  // Dış Kalkan: Mavi + Magenta 21 Köşeleri
 ];
 
 metatronMatrisi.forEach((saat) => {
     saat.group.position.set(0, 0, 0);
     KuantumKafesi.add(saat.group);
 });
-
 // ⏳ 25 FPS KONTROL DÖNGÜSÜ
 let fpsZamani = performance.now();
 const fpsAraligi = 1000 / 25;
@@ -526,9 +529,5 @@ buton.addEventListener("click", () => {
 // START ENGINE
 animate();
 </script>
-</body>
-</html>
-Use code with caution.
-    </script>
 </body>
 </html>
