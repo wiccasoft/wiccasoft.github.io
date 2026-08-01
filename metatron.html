@@ -13,6 +13,11 @@
 </head>
 <body>
     <div id="canvas3d"></div>
+
+<!-- 🔑 GEÇİŞ ANAHTARI: Sistemleri tek tıkla bükücek kuantum butonu -->
+<button id="btnBukucu" style="position: absolute; top: 20px; left: 20px; padding: 12px 24px; background: rgba(138, 43, 226, 0.2); color: #00ffcc; border: 2px solid #00ffcc; border-radius: 8px; cursor: pointer; font-family: monospace; font-size: 14px; backdrop-filter: blur(5px); transition: all 0.3s; z-family: 999;">
+    MATRİS: VECTOR EQUILIBRIUM
+</button>
     <script>
 
         // --- THREE.JS ENGINE INITIALIZATION ---
@@ -133,10 +138,18 @@ initMekanizma() {
                 this.group.add(this.poleA);
 
                 // Negative Polar Node (Satürn-Aks B)
-                const matB = new THREE.MeshPhongMaterial({ color: 0x8a2be2, emissive: 0x8a2be2, emissiveIntensity: 0.5 });
-                this.poleB = new THREE.Mesh(nodeGeo, matB);
-                this.poleB.position.set(-halfKup, -halfKup, -halfKup); // Opposite diagonal corner vertex
-                this.group.add(this.poleB);
+ // Negative Polar Node (Satürn-Aks B) - 🔑 GRİ REZONANS GÜNCELLEMESİ
+        // Emissive özelliği kapatılarak tamamen ışığı emen mat/metalik bir kül grisine çekildi
+        const matB = new THREE.MeshPhongMaterial({ 
+            color: 0x555555,      // Saf Asil Kurşun Grisi
+            specular: 0x333333,   // Metalik loş yansıma
+            shininess: 30,        // Mat yüzey dokusu
+            transparent: true,
+            opacity: 0.85
+        });
+        this.poleB = new THREE.Mesh(nodeGeo, matB);
+        this.poleB.position.set(-halfKup, -halfKup, -halfKup);
+        this.group.add(this.poleB);
 
                 // 4️⃣ ADIM: 13-Notched Dreamspell Cosmic Gear Ring
                 for (let i = 0; i < 13; i++) {
@@ -193,54 +206,73 @@ initMekanizma() {
             // 🏟️ ADIM 5: ISOCOSAHEDRON (20 YÜZLÜ ENERJİ KAFESİ) TOHUMU
             // Kütlesel olarak dönmeyen, içinden 124875 enerji akacak 12 köşe noktası
   initIcosahedronKafesi() {
-        this.icoOdaları = []; // Eski updateVortex kodları kırılmasın diye dizi adını koruyoruz
+        this.icoOdaları = [];
         this.kupIskeletleri = [];
-
-        // Karekök 2 (1.4142) aks boyut çarpanı ile saf küp ölçeklemesi
         const sqrt2Scale = Math.sqrt(2);
         const boxSize = this.radius * sqrt2Scale;
 
-        // 1⃣ $\sqrt{2}$ AKS KÜPÜNÜN TEL KAFES (WIREFRAME) İSKELETİ
-        const kupGeo = new THREE.BoxGeometry(boxSize, boxSize, boxSize);
-        const kupMat = new THREE.MeshBasicMaterial({
-            color: 0x8a2be2, // Asil Mor Metatron İskelet Çizgileri
-            wireframe: true,
-            transparent: true,
-            opacity: 0.25
-        });
-        const kupMesh = new THREE.Mesh(kupGeo, kupMat);
-        this.group.add(kupMesh);
-        this.kupIskeletleri.push(kupMesh);
+        // 1️⃣ İcosahedron İskeleti
+        const icoGeo = new THREE.IcosahedronGeometry(this.radius * 1.5, 0);
+        const icoMat = new THREE.MeshBasicMaterial({ color: 0x8a2be2, wireframe: true, transparent: true, opacity: 0.25 });
+        this.icoKafesMesh = new THREE.Mesh(icoGeo, icoMat);
+        this.group.add(this.icoKafesMesh);
 
-        // 2⃣ 6 YÖNSEL EKSEN KÖŞESİ (Kuantum Seed Küreleri)
-        // [X, Y, Z] koordinat matrisi (Doğu, Batı, Kuzey, Güney, Ön, Arka Kapıları)
-        const eksenler = [,  // +X (Doğu)
-            [-1, 0, 0], // -X (Batı),  // +Y (Kuzey Kutbu)
-            [0, -1, 0], // -Y (Güney Kutbu),  // +Z (Ön Aks)
-            [0, 0, -1]  // -Z (Arka Aks)
-        ];
-
+        // 2️⃣ 6 Yönsel Eksen (Doğu, Batı, Kuzey, Güney, Ön, Arka)
+        const eksenler = [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]];
         const kureGeo = new THREE.SphereGeometry(this.radius * 0.05, 16, 16);
 
         eksenler.forEach((e) => {
-            // Her bir tohum küresine bağımsız ve parlayan PhongMaterial tanımlıyoruz
-            const nodeMat = new THREE.MeshPhongMaterial({
-                color: 0xff00ff,
-                emissive: 0xff00ff,
-                emissiveIntensity: 0.8,
-                transparent: true,
-                opacity: 0.75
-            });
+            const nodeMat = new THREE.MeshPhongMaterial({ color: 0xff00ff, emissive: 0xff00ff, emissiveIntensity: 0.8, transparent: true, opacity: 0.75 });
             const nodeMesh = new THREE.Mesh(kureGeo, nodeMat);
             
-            // Küreleri tam yüzey merkezlerinin sınırına konumlandırıyoruz
+            // DÜZELTME: Konumlandırma e[0], e[1], e[2] ile düzeltildi
             nodeMesh.position.set(e[0] * (boxSize / 2), e[1] * (boxSize / 2), e[2] * (boxSize / 2));
             this.group.add(nodeMesh);
-            
-            // Orijinal konum vektörünü dalgalanma motoru okusun diye hafızaya kilitliyoruz
             nodeMesh.userData = { basePos: nodeMesh.position.clone() };
             this.icoOdaları.push(nodeMesh);
         });
+
+
+ matrisBukucu(kuantumModu) {
+        const sqrt2Scale = Math.sqrt(2);
+        const boxSize = this.radius * sqrt2Scale;
+
+        if (kuantumModu === "kup") {
+            // 🧱 KAREKÖK 2 SAF KÜP FORMUNA BÜK
+            if (this.icoKafesMesh) {
+                this.icoKafesMesh.geometry.dispose();
+                this.icoKafesMesh.geometry = new THREE.BoxGeometry(boxSize, boxSize, boxSize);
+            }
+            
+            // 6 Yönsel Kuantum Odasını Kübün Yüzey Merkezlerine Tam Kilitle
+            const eksenler = [, [-1, 0, 0],, [0, -1, 0],, [0, 0, -1]];
+            if (this.icoOdaları) {
+                this.icoOdaları.forEach((node, idx) => {
+                    let e = eksenler[idx % eksenler.length];
+                    node.position.set(e[0] * (boxSize / 2), e[1] * (boxSize / 2), e[2] * (boxSize / 2));
+                    node.userData.basePos = node.position.clone(); // Hafızayı güncelle
+                });
+            }
+        } else {
+            // 🌌 ORIGINAL VECTOR EQUILIBRIUM / ICOSAHEDRON FORMUNA PÜRÜZSÜZ GERİ BÜK
+            if (this.icoKafesMesh) {
+                this.icoKafesMesh.geometry.dispose();
+                this.icoKafesMesh.geometry = new THREE.IcosahedronGeometry(this.radius * 1.5, 0);
+            }
+            
+            // 6 Odayı Elimizdeki 6 Eksenli Başlangıç Konumlarına Geri Çapa (Güvenli Alan)
+            const eksenler = [, [-1, 0, 0],, [0, -1, 0],, [0, 0, -1]];
+            if (this.icoOdaları) {
+                this.icoOdaları.forEach((node, idx) => {
+                    let e = eksenler[idx % eksenler.length];
+                    // Küreleri orijinal dairesel/küresel denge konumuna geri çekiyoruz
+                    node.position.set(e[0] * this.radius * 0.95, e[1] * this.radius * 0.95, e[2] * this.radius * 0.95);
+                    node.userData.basePos = node.position.clone();
+                });
+            }
+        }
+    }
+        
     }
 
 
@@ -321,59 +353,49 @@ initMekanizma() {
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
  // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
 updateVortex(galaktikZaman) {
-                // Tesla 124875 serisi jiro-vites çarpanı
-                const vortexPattern = [1, 2, 4, 8, 7, 5];
+                // 🔒 TÜM DİNAMİK ANİMASYONLAR VE GLUON AKIŞLARI SUSTURULDU
+                // Sistem saf, durağan kutsal geometri başlangıç matrisine kilitlendi.
                 
-                // 1️⃣ Küpler kütlesel dönmüyor: Tekillik stabilizasyonu korundu
+                // 1️⃣ Küpler ve Kafesler Durağan Statüde Kilitli
                 this.coreCube.rotation.x = 0; this.coreCube.rotation.y = 0;
                 this.outerCube.rotation.x = 0; this.outerCube.rotation.z = 0;
 
-                // 2️⃣ Sqrt(2) Diagonal Aks Odaları (Ters Kare Yasası ile Titreşim)
+                // 2️⃣ Sqrt(2) Diagonal Ana Spin Aksı Sabitlendi
                 let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
                 this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
                 this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
                 
-                // ⚡ KESKİN ANA SPİN AKSI: Aksların parlaması 5.5 kat rezonansa fırlar
-                this.poleA.material.emissiveIntensity = 1.0 + Math.abs(Math.sin(galaktikZaman * 3.0)) * 4.5;
-                this.poleB.material.emissiveIntensity = 1.0 + Math.abs(Math.cos(galaktikZaman * 3.0)) * 4.5;
+                // Işık şiddetleri kararlı ve durağan bir temel neon seviyesine çekildi
+                if (this.poleA.material) this.poleA.material.emissiveIntensity = 1.0;
+                if (this.poleB.material) this.poleB.material.emissiveIntensity = 1.0;
 
-                // 3️⃣ Orbiting 13 Dreamspell Nodes following the 124875 velocity sequence
+                // 3️⃣ Ekvatoral Odalar Sabit Başlangıç Koordinatlarında Kilitli
                 this.zamanOdaları.forEach((node, index) => {
                     let baseAngle = (index * Math.PI * 2) / 13;
-                    let stepMultiplier = vortexPattern[index % vortexPattern.length];
-                    let currentAngle = baseAngle + (galaktikZaman * 0.3 * stepMultiplier);
-                    
-                    node.position.x = Math.cos(currentAngle) * this.radius * 1.3;
-                    node.position.z = Math.sin(currentAngle) * this.radius * 1.3;
-                    node.position.y = Math.sin(galaktikZaman * 2.0 + baseAngle) * this.radius * 0.15 * Math.sqrt(2);
-                    
-                    // 🔑 İLLÜZYON SUSTURULDU: Opasite 0.02'ye çekilerek arka plana gizlendi
-                    node.material.opacity = 0.02;
+                    node.position.x = Math.cos(baseAngle) * this.radius * 1.3;
+                    node.position.z = Math.sin(baseAngle) * this.radius * 1.3;
+                    node.position.y = 0;
+                    if (node.material) node.material.opacity = 0.02; // İllüzyon hayaleti arka planda kararlı
                 });
 
-                // Satürn'ün 800 yıllık salınım döngüsü Yaşam Çiçeği halkalarını ışıkla nefeslendirir
-                this.yasamCicegiHalkalari.forEach((halka, idx) => {
-                    halka.material.opacity = 0.1 + Math.abs(Math.sin(galaktikZaman * 0.5 + idx)) * 0.3;
-                    // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
-                    halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
+                // 4️⃣ Yaşam Çiçeği Ufukları Sabitlendi
+                this.yasamCicegiHalkalari.forEach((halka) => {
+                    if (halka.material) halka.material.opacity = 0.15;
+                    halka.rotation.z = 0;
                 });
 
-                // 🌊 ICOSAHEDRON 124875 EVRESEL WAVESPELL MOTORU (Eklenen Güvenli Blok)
-                let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
-
+                // 5️⃣ Icosahedron 12 Mor Odası Saf Başlangıç Noktasına Mühürlendi
                 if (this.icoOdaları && this.icoOdaları.length > 0) {
-                    this.icoOdaları.forEach((node, index) => {
-                        let stepMultiplier = vortexPattern[index % vortexPattern.length];
+                    this.icoOdaları.forEach((node) => {
+                        let base = node.userData.basePos;
+                        if (base) {
+                            node.position.copy(base); // Tüm hareket durduruldu, orijinal vektöre dönüldü
+                        }
+                        node.scale.setScalar(1.0); // Ölçek daralması kapatıldı
                         
-                        // 💃 BALERİNA ADIMI: Orijinal Icosahedron odaları yerinden kopmaz,
-                        // Kutuplar ve Ekvator aksları kendi koordinatlarında pulsarlar gibi mikro genişler
-                        let pulse = Math.sin(galaktikZaman * stepMultiplier + index);
-                        node.scale.setScalar(1.0 + wavespellIvme * pulse * 0.3);
-                        
-                        // Parlamaların canlanması (initIcosahedronKafesi'nde MeshPhongMaterial kullanıldıysa tetiklenir)
-                        if (node.material && node.material.emissiveIntensity !== undefined) {
-                            node.material.emissiveIntensity = 0.5 + Math.abs(wavespellIvme * stepMultiplier) * 1.5;
-                            node.material.opacity = 0.4 + Math.abs(wavespellIvme) * 0.4;
+                        if (node.material) {
+                            node.material.emissiveIntensity = 0.8; // Kararlı parlatma sabiti
+                            node.material.opacity = 0.6; // Görünür netlik
                         }
                     });
                 }
@@ -422,6 +444,27 @@ updateVortex(galaktikZaman) {
             renderer.render(scene, camera);
         }
 
+
+        // ⚡ BUTON KONTROL MERKEZİ
+let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
+const buton = document.getElementById("btnBukucu");
+
+buton.addEventListener("click", () => {
+    if (mevcutMod === "ve") {
+        mevcutMod = "kup";
+        buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
+        buton.style.borderColor = "#ffaa00";
+        buton.style.color = "#ffaa00";
+    } else {
+        mevcutMod = "ve";
+        buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
+        buton.style.borderColor = "#00ffcc";
+        buton.style.color = "#00ffcc";
+    }
+    
+    // Tüm iç içe kilitlenmiş fraktal katmanları aynı anda büküyoruz
+    metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
+});
         // START ENGINE
         animate();
     </script>
