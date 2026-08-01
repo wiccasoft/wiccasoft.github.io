@@ -358,6 +358,26 @@ initMekanizma() {
                     // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
                     halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
                 });
+
+
+                // 🌌 ICOSAHEDRON 124875 EVRESEL WAVESPELL MOTORU
+const vortexPattern =[1,2,4,8,7,5];
+let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
+
+if (this.icoOdaları && this.icoOdaları.length > 0) {
+    this.icoOdaları.forEach((node, index) => {
+        let stepMultiplier = vortexPattern[index % vortexPattern.length];
+        
+        // 💃 BALERİNA ADIMI: Orijinal Icosahedron odaları yerinden kopmaz,
+        // Kutuplar (5+5) ve Ekvator (2) aksları kendi koordinatlarında pulsarlar gibi mikro titrer
+        let pulse = Math.sin(galaktikZaman * stepMultiplier + index);
+        node.scale.setScalar(1.0 + wavespellIvme * pulse * 0.3);
+        
+        // Tesla 124875 frekans parlama dalgası
+        node.material.emissiveIntensity = 0.5 + Math.abs(wavespellIvme * stepMultiplier) * 1.5;
+        node.material.opacity = 0.4 + Math.abs(wavespellIvme) * 0.4;
+    });
+}
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
