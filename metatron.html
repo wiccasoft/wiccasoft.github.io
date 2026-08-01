@@ -512,6 +512,23 @@ this.dreamspellTonlari.forEach((ton, index) => {
             });
         }
 
+
+          // 🌌 GALAKTİK GÜNEŞ SİSTEMİ YÖRÜNGE MOTORU
+        if (this.gezegenler && this.gezegenler.length > 0) {
+            this.gezegenler.forEach((g) => {
+                // Gezegenleri kendi hız katsayılarına göre kozmik zamanda döndür
+                let guncelAci = g.aci + (galaktikZaman * 0.2 * g.hiz);
+                
+                g.mesh.position.x = Math.cos(guncelAci) * g.r;
+                g.mesh.position.z = Math.sin(guncelAci) * g.r;
+                
+                // 💃 BALERİNA DANSI: Gezegenleri de yukarı-aşağı sarmal dalgalanmaya sokuyoruz
+                g.mesh.position.y = Math.sin(galaktikZaman * 1.5 + g.r) * this.radius * 0.08;
+                
+                // Nefes alan galaktik ışık şiddeti
+                g.mesh.material.emissiveIntensity = 0.4 + Math.abs(Math.sin(galaktikZaman * g.hiz + g.r)) * 1.4;
+            });
+        }
                 
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
