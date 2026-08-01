@@ -131,6 +131,73 @@ function drawMetatronAxes(ctx, centerX, centerY, n, baseRadius) {
     });
 }
 
+
+// 🌌 GÜVENLİ 4 ELEMENT VE ÇİFT KUTUP AKS ALGORİTMASI (Siyah Ekran Hatası Çözümü)
+initElementKutuplari() {
+    const elementAkslari = [
+        { c1: 0xffff00, c2: 0xff00ff, name: "Sarı - Pembe (Hava/Toprak)" },
+        { c1: 0x111111, c2: 0xffffff, name: "Siyah - Beyaz (Ateş/Su)" },
+        { c1: 0xff0000, c2: 0x00ff00, name: "Kırmızı - Yeşil (Aktif/Pasif)" },
+        { c1: 0x0000ff, c2: 0xffa500, name: "Mavi - Turuncu (Eter/Merkez)" }
+    ];
+
+    // Üç boyutlu uzayda yön vektörleri
+    const yonler = [
+        new THREE.Vector3(1, 1, 1).normalize(),
+        new THREE.Vector3(1, -1, 1).normalize(),
+        new THREE.Vector3(-1, 1, 1).normalize(),
+        new THREE.Vector3(-1, -1, 1).normalize()
+    ];
+
+    const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
+    kureGeo.scale(1.2, 1.2, 1.2); 
+
+    const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1;
+
+    elementAkslari.forEach((aks, index) => {
+        const vYon = yonler[index];
+
+        // Konumları önceden matematiksel olarak hesaplayalım (Referans hatasını önler)
+        const posA = vYon.clone().multiplyScalar(aksGenisligi);
+        const posB = vYon.clone().multiplyScalar(-aksGenisligi);
+
+        // --- KUTUP A ---
+        const matA = new THREE.MeshPhongMaterial({ 
+            color: aks.c1, 
+            emissive: aks.c1, 
+            emissiveIntensity: 0.6 
+        });
+        if(aks.c1 === 0x111111) {
+            matA.specular = new THREE.Color(0xffffff);
+            matA.shininess = 100;
+        }
+        const meshA = new THREE.Mesh(kureGeo, matA);
+        meshA.position.copy(posA);
+        this.group.add(meshA);
+
+        // --- KUTUP B ---
+        const matB = new THREE.MeshPhongMaterial({ 
+            color: aks.c2, 
+            emissive: aks.c2, 
+            emissiveIntensity: 0.6 
+        });
+        const meshB = new THREE.Mesh(kureGeo, matB);
+        meshB.position.copy(posB);
+        this.group.add(meshB);
+
+        // --- MATRİS BAĞLANTI ÇİZGİSİ ---
+        const cizgiNoktalari = [posA, posB];
+        const cizgiGeo = new THREE.BufferGeometry().setFromPoints(cizgiNoktalari);
+        const cizgiMat = new THREE.LineBasicMaterial({ 
+            color: aks.c1,
+            transparent: true, 
+            opacity: 0.3
+        });
+        const aksCizgisi = new THREE.Line(cizgiGeo, cizgiMat);
+        this.group.add(aksCizgisi);
+    });
+}
+
         // --- THE METATRON GRID CORE CLASS ---
         class MetatronGridSaati {
             constructor(baseSize) {
@@ -147,6 +214,8 @@ function drawMetatronAxes(ctx, centerX, centerY, n, baseRadius) {
                 this.initMekanizma();
                 this.initIcosahedronKafesi();
                 this.initYasamCicegiVeElementler();
+
+                this.initElementKutuplari(); 
             }
 
 
