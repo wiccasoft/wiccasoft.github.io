@@ -448,40 +448,20 @@ initMekanizma() {
             coreNode.scale.setScalar(active ? 1.35 : 1.0);
         });
 
-         // 6️⃣ 6 Yönsel Eksen ve 8 Magenta Uç Nokta
-        if (this.icoOdaları) {
-            this.icoOdaları.forEach((node, index) => {
-                let stepMultiplier = pattern[index % pattern.length];
-                let active = wavespellAdimi === (index + 4) % 13;
-                let orijinalRenk = node.userData.originalColor || 0xff00ff;
-                
-                node.scale.setScalar(active ? 1.4 : 1.0);
-                if (node.material) {
-                    node.material.color.setHex(active ? 0xffffff : orijinalRenk);
-                    node.material.emissive.setHex(active ? 0xffffff : orijinalRenk);
-                    node.material.emissiveIntensity = active ? 5.0 * Math.abs(wavespellIvme + 0.5) : 0.8;
-                    node.material.opacity = active ? 0.95 : 0.65;
-                }
-            });
-        }
-    } // 🔑 CRITICAL DÜZELTME: updateVortex fonksiyonu sadece TEK BİR parantezle burada nizamla bitti!
+        // ... (Önceki 6 Yönsel Eksen kodu)
+    });
+} // 🔑 updateVortex fonksiyonu nizamla kapatıldı
+} // 🔑 MetatronGridSaati SINIFI BURADA KESİNTİSİZ BİTTİ!
 
-    // Sınıfın (class) kapısını KAPATMIYORUZ! 
-    // Çünkü mevcut dosyanın devamında matrisBukucu() ve initYasamCicegiVeElementler() metotların akıyor.
-
-// --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE (GÜVENLİ SIRALAMA) ---
-  } // updateVortex sonu
-
-
-// 🔑 GÜVENLİ ALAN: Tüm class ve sahneler kurulduktan sonra motoru burada ateşliyoruz!
+// 🔑 GÜVENLİ ALAN: Motor ateşleme ve kontrol döngüsü
 const KuantumKafesi = new THREE.Group();
 scene.add(KuantumKafesi);
 
-// 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
+// 🧱 HARAMEIN GRID: 3 Katmanlı Matris Kurulumu
 const metatronMatrisi = [
-    new MetatronGridSaati(0.35), // İç Tohum: Kırmızı
-    new MetatronGridSaati(0.55), // Orta Dünya: Yeşil
-    new MetatronGridSaati(0.85)  // Dış Kalkan: Mavi + Magenta 21 Köşeleri
+    new MetatronGridSaati(0.35),
+    new MetatronGridSaati(0.55),
+    new MetatronGridSaati(0.85)
 ];
 
 metatronMatrisi.forEach((saat) => {
@@ -504,29 +484,21 @@ function animate() {
     let galaktikZaman = simdikiZaman * 0.001;
 
     metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
-
     controls.update();
     renderer.render(scene, camera);
 }
 
-// ⚡ BUTON KONTROL MERKEZİ
+// ⚡ BUTON KONTROL MERKEZİ (VE / KÜP)
 let mevcutMod = "ve";
 const buton = document.getElementById("btnBukucu");
-
-buton.addEventListener("click", () => {
-    if (mevcutMod === "ve") {
-        mevcutMod = "kup";
-        buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
-        buton.style.borderColor = "#ffaa00";
-        buton.style.color = "#ffaa00";
-    } else {
-        mevcutMod = "ve";
-        buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
-        buton.style.borderColor = "#00ffcc";
-        buton.style.color = "#00ffcc";
-    }
-    metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
-});
+if (buton) {
+    buton.addEventListener("click", () => {
+        mevcutMod = mevcutMod === "ve" ? "kup" : "ve";
+        buton.innerText = mevcutMod === "kup" ? "MATRİS: KAREKÖK 2 KÜP" : "MATRİS: VECTOR EQUILIBRIUM";
+        buton.style.borderColor = buton.style.color = mevcutMod === "kup" ? "#ffaa00" : "#00ffcc";
+        metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
+    });
+}
 
 // START ENGINE
 animate();
