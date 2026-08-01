@@ -282,7 +282,7 @@ initMekanizma() {
                 this.icoOdaları.forEach((node, idx) => {
                     // Eğer en dış katmandaki (0.85) son 8 Magenta odadaysak kübün uç köşelerine kilitle
                     if (this.radius === 0.85 && idx >= 6) {
-                        const koseler21 = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
+                        const koseler21 = [[1, 1, 1], [1, 1, -1], [1, -1, 1], [1, -1, -1],
                             [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
                         ];
                         let k = koseler21[(idx - 6) % koseler21.length];
@@ -306,7 +306,7 @@ initMekanizma() {
                 this.icoOdaları.forEach((node, idx) => {
                     if (this.radius === 0.85 && idx >= 6) {
                         // Magenta odaları orijinal küresel çeper konumuna geri çekiyoruz
-                        const koseler21 = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
+                        const koseler21 = [[1, 1, 1], [1, 1, -1], [1, -1, 1], [1, -1, -1],
                             [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
                         ];
                         let k = koseler21[(idx - 6) % koseler21.length];
@@ -319,6 +319,8 @@ initMekanizma() {
                     node.userData.basePos = node.position.clone();
                 });
             }
+        }
+    }
         }
 
 
