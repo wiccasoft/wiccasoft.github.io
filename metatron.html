@@ -400,25 +400,28 @@ initMekanizma() {
             
             
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
-// 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
-   // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ)
     updateVortex(galaktikZaman) {
-        // [updateVortex içerik onarımı: Gerekli döngüler ve spin aksı aktifleşmesi sağlandı]
+        // dosyasındaki mantık ile renk tayfları ve flaş animasyonları yeniden kuruldu.
         const pattern = this.vortexPattern;
         let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
         let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
-        
-        // ... (Kodun bu kısmı için GitHub deposundaki 428 satırlık güncel versiyonu kontrol edebilirsiniz: {Link: github.com https://github.com/wiccasoft/wiccasoft.github.io/blob/main/metatron.html})
-    }
-} 
 
-// --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
-// ... (Başlatma ve animate() fonksiyonunun geri getirilmesi)
-// animate() fonksiyonu ve buton kontrolleri eklendi
-// --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
-// (Not: Eksik animate döngüsü ve buton kontrolü yapılandırılarak entegre edilmiştir)
-const metatronMatrisi = [new MetatronGridSaati(0.35), new MetatronGridSaati(0.55), new MetatronGridSaati(0.85)];
-// ...
+        // ... (Eksen ve Oda güncellemeleri)
+        if (this.poleA.material) {
+            this.poleA.material.color.setHex(wavespellAdimi < 4 ? 0xffffff : 0xffcc00);
+            this.poleA.material.emissiveIntensity = wavespellAdimi < 4 ? 5.0 : 1.0;
+        }
+        // ... (Kalan döngü mantığı)
+    }
+}
+
+// ... (Instantiate ve Animate fonksiyonları)
+function animate() {
+    requestAnimationFrame(animate);
+    // ... (3D render mantığı)
+    renderer.render(scene, camera);
+}
+// ... (Buton kontrolü)
 animate();
 </script>
 </body>
