@@ -80,6 +80,8 @@
                 this.initIcosahedronKafesi();
                 this.initYasamCicegiVeElementler();
             }
+
+            
 initMekanizma() {
                 // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
                 const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
@@ -347,11 +349,11 @@ initMekanizma() {
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
 updateVortex(galaktikZaman) {
         // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL ZAMAN ÇENTİKLERİ
-        const vortexPattern =[1,2,4,8,7,5]; // 🔑 Boşluk dolduruldu, hata çözüldü!
-         let wavespellAdimi = Math.floor(galaktikZaman * 3.5) % 13;
+        const vortexPattern = [1, 2, 4, 8, 7, 5];
+        let wavespellAdimi = Math.floor(galaktikZaman * 3.5) % 13;
         let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
 
-        // 1️⃣ Küpler Kütlesel Olarak Durağan (Tekillik Dengesi)
+        // 1️⃣ Küpler Kütlesel Olarak Durağan (Tekillik Dengesi Korundu)
         this.coreCube.rotation.set(0, 0, 0);
         this.outerCube.rotation.set(0, 0, 0);
 
@@ -366,20 +368,18 @@ updateVortex(galaktikZaman) {
             this.poleB.material.emissiveIntensity = 1.0;
         }
 
-        // 3️⃣ 🧠 ASIL METATRON KÜPLERİ: ÇEKİRDEK ODALARININ 124875 UYARIMI
+        // 3️⃣ 🧠 ASIL METATRON KÜPLERİ: 9 - 13 - 21 FİBONACCİ ÇEKİRDEK ODALARININ UYARIMI
+        // Artık döngü dinamik oda sayısına (9, 13, 21) tam senkronize çalışır, çökme yapmaz!
         this.internalCubes.forEach((coreNode, index) => {
-            // Tesla vites çarpanını kilitli seriden okuyoruz
             let stepMultiplier = vortexPattern[index % vortexPattern.length];
-            
-            // Sinyal o anki iç odadayken odayı parlat ve boyutunu genişlet!
             let active = wavespellAdimi === (index * stepMultiplier) % 13;
 
             coreNode.scale.setScalar(active ? 1.45 : 1.0);
             if (coreNode.material) {
-                // Akım tam bu Metatron küp odasından geçerken nükleer beyaz bir flaş patlar!
-                coreNode.material.emissive.setHex(active ? 0xffffff : 0x333333); // Pasifken loş parlar
+                // Akım tam bu odadan geçerken pırlanta beyazı parlar, yoksa asil gri renginde bekler
+                coreNode.material.emissive.setHex(active ? 0xffffff : 0x222222);
                 coreNode.material.emissiveIntensity = active ? 6.5 * Math.abs(wavespellIvme + 0.5) : 1.0;
-                coreNode.material.opacity = active ? 0.98 : 0.45;
+                coreNode.material.opacity = active ? 0.98 : 0.60;
             }
         });
 
