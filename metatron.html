@@ -473,8 +473,10 @@ initMekanizma() {
         // } // Sınıf doğru kapatıldı -> SİLİNDİ
 
 // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE (GÜVENLİ SIRALAMA) ---
+  } // updateVortex sonu
+} // MetatronGridSaati Sınıf Sonu
 
-// 🔑 GÜVENLİ ALAN: Her şey tanımlandıktan sonra motoru burada ateşliyoruz!
+// 🔑 GÜVENLİ ALAN: Tüm class ve sahneler kurulduktan sonra motoru burada ateşliyoruz!
 const KuantumKafesi = new THREE.Group();
 scene.add(KuantumKafesi);
 
@@ -489,6 +491,7 @@ metatronMatrisi.forEach((saat) => {
     saat.group.position.set(0, 0, 0);
     KuantumKafesi.add(saat.group);
 });
+
 // ⏳ 25 FPS KONTROL DÖNGÜSÜ
 let fpsZamani = performance.now();
 const fpsAraligi = 1000 / 25;
