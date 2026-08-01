@@ -383,94 +383,58 @@ initMekanizma() {
 
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
  // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
- updateVortex(galaktikZaman) {
-                // 🌀 Tesla 124875 Jiro-Vites Dizilimi Tam Olarak Tanımlandı
-                const vortexPattern = [1, 2, 4, 8, 7, 5];
-                
-                // 13 Wavespell zaman çentikleri ve evrensel sinüs ivmesi
-                let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
-                let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
+  updateVortex(galaktikZaman) {
+        // 🔑 KİLİT BAĞLANTISI: Constructor'daki kilitli dizi (this.vortexPattern) kullanıldı.
+        const pattern = this.vortexPattern;
+        
+        let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
+        let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
 
-                // 1️⃣ Küpler ve Kafesler Durağan Statüde Kilitli (Tekillik Koruması)
-                this.coreCube.rotation.x = 0; this.coreCube.rotation.y = 0;
-                this.outerCube.rotation.x = 0; this.outerCube.rotation.z = 0;
+        // 1️⃣ Sabit Durağan Kilitler
+        this.coreCube.rotation.set(0,0,0);
+        this.outerCube.rotation.set(0,0,0);
 
-                // 2️⃣ Sqrt(2) Diagonal Ana Spin Aksı Sabitlendi
-                let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
-                this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
-                this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
-                
-                // ⚡ EKSEN RENK AKIMI: Dalga iç çekirdekteyken ana spin aksı BEYAZ parlar, yoksa sarı/gri kalır
-                if (this.poleA.material && this.poleB.material) {
-                    if (wavespellAdimi < 4) {
-                        // Akım geçiyor: Lazer Beyazı
-                        this.poleA.material.color.setHex(0xffffff);
-                        this.poleA.material.emissive.setHex(0xffffff);
-                        this.poleA.material.emissiveIntensity = 5.0;
-                    } else {
-                        // Kararlı Durum: Orijinal Güneş Sarısı ve Satürn Grisi
-                        this.poleA.material.color.setHex(0xffcc00);
-                        this.poleA.material.emissive.setHex(0xffcc00);
-                        this.poleA.material.emissiveIntensity = 1.0;
-                    }
+        // 2️⃣ Sqrt(2) Diagonal Ana Spin Aksı
+        let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
+        this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
+        this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
+        
+        // ⚡ Renk Akım Kontrolü
+        if (this.poleA.material) {
+            let active = wavespellAdimi < 4;
+            this.poleA.material.color.setHex(active ? 0xffffff : 0xffcc00);
+            this.poleA.material.emissive.setHex(active ? 0xffffff : 0xffcc00);
+            this.poleA.material.emissiveIntensity = active ? 5.0 : 1.0;
+        }
+
+        // 3️⃣ & 4️⃣ Ekvatoral Odalar ve Yaşam Çiçeği
+        this.zamanOdaları.forEach((node, index) => {
+            let baseAngle = (index * Math.PI * 2) / 13;
+            node.position.set(Math.cos(baseAngle) * this.radius * 1.3, 0, Math.sin(baseAngle) * this.radius * 1.3);
+            if (node.material) node.material.opacity = 0.02;
+        });
+
+        this.yasamCicegiHalkalari.forEach(h => { if(h.material) h.material.opacity = 0.15; h.rotation.z = 0; });
+
+        // 5️⃣ & 6️⃣ Tesla Spiralsal Motor ve IcoOdaları Uyarımı
+        this.internalCubes.forEach((coreNode, index) => {
+            let active = wavespellAdimi === index % 6;
+            coreNode.material.emissiveIntensity = active ? 4.0 : 1.0;
+            coreNode.scale.setScalar(active ? 1.35 : 1.0);
+        });
+
+        if (this.icoOdaları) {
+            this.icoOdaları.forEach((node, index) => {
+                let active = wavespellAdimi === (index + 4) % 13;
+                node.scale.setScalar(active ? 1.4 : 1.0);
+                if (node.material) {
+                    node.material.color.setHex(active ? 0xffffff : (node.userData.originalColor || 0xff00ff));
+                    node.material.emissiveIntensity = active ? 5.0 * Math.abs(wavespellIvme + 0.5) : 0.8;
+                    node.material.opacity = active ? 0.95 : 0.65;
                 }
-
-                // 3️⃣ Ekvatoral Odalar Sabit Başlangıç Koordinatlarında Kilitli
-                this.zamanOdaları.forEach((node, index) => {
-                    let baseAngle = (index * Math.PI * 2) / 13;
-                    node.position.x = Math.cos(baseAngle) * this.radius * 1.3;
-                    node.position.z = Math.sin(baseAngle) * this.radius * 1.3;
-                    node.position.y = 0;
-                    if (node.material) node.material.opacity = 0.02; // Hayalet illüzyon susturuldu
-                });
-
-                // 4️⃣ Yaşam Çiçeği Ufukları Sabitlendi
-                this.yasamCicegiHalkalari.forEach((halka) => {
-                    if (halka.material) halka.material.opacity = 0.15;
-                    halka.rotation.z = 0;
-                });
-
-                // 5️⃣ SEÇENEK A: TESLA SPİRALSAL GEZGİN IŞIK MOTORU
-                // İç Çekirdek Beyaz Piramit Odalarının Uyarımı
-                this.internalCubes.forEach((coreNode, index) => {
-                    if (wavespellAdimi === index % 6) {
-                        coreNode.material.emissiveIntensity = 4.0;
-                        coreNode.scale.setScalar(1.35);
-                    } else {
-                        coreNode.material.emissiveIntensity = 1.0;
-                        coreNode.scale.setScalar(1.0);
-                    }
-                });
-
-                // 6 Yönsel Eksen (Kırmızı, Yeşil, Mavi) ve 8 Magenta Uç Noktanın Uyarımı
-                if (this.icoOdaları && this.icoOdaları.length > 0) {
-                    this.icoOdaları.forEach((node, index) => {
-                        let stepMultiplier = vortexPattern[index % vortexPattern.length];
-                        let orijinalRenk = node.userData.originalColor || 0xff00ff;
-                        
-                        // Sinyal odanın üzerindeyken odayı parlat
-                        if (wavespellAdimi === (index + 4) % 13) {
-                            node.scale.setScalar(1.4);
-                            if (node.material) {
-                                // 🔑 Akım tam bu odayı geçerken rengini anlık BEYAZ yapar!
-                                node.material.color.setHex(0xffffff);
-                                node.material.emissive.setHex(0xffffff);
-                                node.material.emissiveIntensity = 5.0 * Math.abs(wavespellIvme + 0.5);
-                                node.material.opacity = 0.95;
-                            }
-                        } else {
-                            // Akım odadan çıktığında oda kendi orijinal asil rengine geri bükülür
-                            node.scale.setScalar(1.0);
-                            if (node.material) {
-                                node.material.color.setHex(orijinalRenk);
-                                node.material.emissive.setHex(orijinalRenk);
-                                node.material.emissiveIntensity = 0.8;
-                                node.material.opacity = 0.65;
-                            }
-                        }
-                    });
-                }
-            }
+            });
+        }
+    }
 
 // ⏳ 25 FPS KONTROL DÖNGÜSÜ (Zaman Sabitleyici)
         let fpsZamani = performance.now();
