@@ -93,10 +93,11 @@ class MetatronGridSaati {
             
             const lineGeo = new THREE.BufferGeometry().setFromPoints([n1, n2]);
             const lineMat = new THREE.LineBasicMaterial({
-                color: 0xffaa00,
-                transparent: true,
-                opacity: 0.8
-            });
+        color: 0xffaa00, // Neon Elektrik Sarısı
+        transparent: true,
+        opacity: 0.9,
+        depthWrite: false // Derinlik testi kapalı, her zaman görünür
+    });
             
             const teslaLine = new THREE.Line(lineGeo, lineMat);
             this.group.add(teslaLine);
@@ -107,11 +108,63 @@ class MetatronGridSaati {
     // ... (initMekanizma, initIcosahedronKafesi, initYasamCicegiVeElementler, init13MoonDreamspell fonksiyonları)
     // ... (Not: initIcosahedronKafesi içindeki eski hatalı çağrı kaldırıldı)
 
-    initGalaktikGunesSistemi() {
-        // ... (Kodun geri kalanı için'teki revize edilmiş yapıyı inceleyebilirsiniz)
+initGalaktikGunesSistemi() {
         this.gezegenler = [];
         this.yorungeler = [];
-        // ... (Planet init logic)
+
+        // 13 Zaman Aksı Gezegen Verileri (Metatron dış çeper koordinat çarpanları ve hızlar)
+        const galaktikElementler = [
+            { renk: 0xffcc00, hiz: 1.00, yorungari: 1.8 },  // Helios Çekirdeği
+            { renk: 0x888888, hiz: 4.15, yorungari: 2.1 },  // Merkür Aksı
+            { renk: 0xffe6a7, hiz: 1.62, yorungari: 2.4 },  // Venüs Aksı
+            { renk: 0x00aaff, hiz: 1.00, yorungari: 2.7 },  // Dünya Aksı
+            { renk: 0xff3300, hiz: 0.53, yorungari: 3.0 },  // Mars Aksı
+            { renk: 0xffaa55, hiz: 0.08, yorungari: 3.3 },  // Jüpiter Aksı
+            { renk: 0xe6c387, hiz: 0.03, yorungari: 3.6 },  // Satürn Aksı
+            { renk: 0x66ccff, hiz: 0.011, yorungari: 3.9 }, // Uranüs Aksı
+            { renk: 0x3333ff, hiz: 0.006, yorungari: 4.2 }, // Neptün Aksı
+            { renk: 0x7755aa, hiz: 0.004, yorungari: 4.5 }, // Plüton Aksı
+            { renk: 0xffffff, hiz: 13.00, yorungari: 4.8 }, // Luna (Ay Döngüsü)
+            { renk: 0x00ffaa, hiz: 0.75, yorungari: 5.1 },  // Chiron Kapısı
+            { renk: 0xff00ff, hiz: 0.25, yorungari: 5.4 }   // Hunab Ku (Merkez Aksı)
+        ];
+
+        galaktikElementler.forEach((g, i) => {
+            // 1⃣ İnce Gezegen Yörünge Halkaları (Zarif Metatron Dış Çeper Çemberleri)
+            const yorungeGeo = new THREE.RingGeometry(this.radius * g.yorungari, this.radius * (g.yorungari + 0.015), 64);
+            const yorungeMat = new THREE.MeshBasicMaterial({
+                color: g.renk,
+                side: THREE.DoubleSide,
+                transparent: true,
+                opacity: 0.07,
+                depthWrite: false
+            });
+            const yorungeMesh = new THREE.Mesh(yorungeGeo, yorungeMat);
+            yorungeMesh.rotation.x = Math.PI / 2; // Ekvatora yatır
+            this.group.add(yorungeMesh);
+            this.yorungeler.push(yorungeMesh);
+
+            // 2⃣ Gezegen Kristal Odaları
+            const gezegenGeo = new THREE.SphereGeometry(this.radius * 0.035, 16, 16);
+            const gezegenMat = new THREE.MeshPhongMaterial({
+                color: g.renk,
+                emissive: g.renk,
+                emissiveIntensity: 0.7,
+                transparent: true,
+                opacity: 0.85
+            });
+            const gezegenMesh = new THREE.Mesh(gezegenGeo, gezegenMat);
+            
+            gezegenMesh.position.set(this.radius * g.yorungari, 0, 0);
+            this.group.add(gezegenMesh);
+            
+            this.gezegenler.push({
+                mesh: gezegenMesh,
+                hiz: g.hiz,
+                r: this.radius * g.yorungari,
+                aci: (i * Math.PI * 2) / 13 // 13 eşit parça başlangıç açısı
+            });
+        });
     }
 
 
