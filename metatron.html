@@ -400,7 +400,6 @@ initMekanizma() {
             
             
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
- // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
  updateVortex(galaktikZaman) {
         // 🔑 DÜZELTME: 'vortexPattern' referansı 'pattern' ile güncellendi
         const pattern = this.vortexPattern;
@@ -449,32 +448,30 @@ initMekanizma() {
             coreNode.scale.setScalar(active ? 1.35 : 1.0);
         });
 
-        // 6️⃣ 6 Yönsel Eksen ve 8 Magenta Uç Nokta
-                if (this.icoOdaları) {
-                    this.icoOdaları.forEach((node, index) => {
-                        let stepMultiplier = pattern[index % pattern.length];
-                        let active = wavespellAdimi === (index + 4) % 13;
-                        let orijinalRenk = node.userData.originalColor || 0xff00ff;
-                        
-                        node.scale.setScalar(active ? 1.4 : 1.0);
-                        if (node.material) {
-                            node.material.color.setHex(active ? 0xffffff : orijinalRenk);
-                            node.material.emissive.setHex(active ? 0xffffff : orijinalRenk);
-                            node.material.emissiveIntensity = active ? 5.0 * Math.abs(wavespellIvme + 0.5) : 0.8;
-                            node.material.opacity = active ? 0.95 : 0.65;
-                        }
-                    });
+         // 6️⃣ 6 Yönsel Eksen ve 8 Magenta Uç Nokta
+        if (this.icoOdaları) {
+            this.icoOdaları.forEach((node, index) => {
+                let stepMultiplier = pattern[index % pattern.length];
+                let active = wavespellAdimi === (index + 4) % 13;
+                let orijinalRenk = node.userData.originalColor || 0xff00ff;
+                
+                node.scale.setScalar(active ? 1.4 : 1.0);
+                if (node.material) {
+                    node.material.color.setHex(active ? 0xffffff : orijinalRenk);
+                    node.material.emissive.setHex(active ? 0xffffff : orijinalRenk);
+                    node.material.emissiveIntensity = active ? 5.0 * Math.abs(wavespellIvme + 0.5) : 0.8;
+                    node.material.opacity = active ? 0.95 : 0.65;
                 }
-            } // 🔑 updateVortex fonksiyonu nizamla kapatıldı
-        } // 🔑 MetatronGridSaati SINIFI BURADA KESİNTİSİZ BİTTİ!
+            });
+        }
+    } // 🔑 CRITICAL DÜZELTME: updateVortex fonksiyonu sadece TEK BİR parantezle burada nizamla bitti!
 
-        // ⚠️ DIKKAT: Aşağıdaki mükerrer satırlar tamamen temizlendi:
-        // } // Fonksiyon doğru kapatıldı -> SİLİNDİ
-        // } // Sınıf doğru kapatıldı -> SİLİNDİ
+    // Sınıfın (class) kapısını KAPATMIYORUZ! 
+    // Çünkü mevcut dosyanın devamında matrisBukucu() ve initYasamCicegiVeElementler() metotların akıyor.
 
 // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE (GÜVENLİ SIRALAMA) ---
   } // updateVortex sonu
-} // MetatronGridSaati Sınıf Sonu
+
 
 // 🔑 GÜVENLİ ALAN: Tüm class ve sahneler kurulduktan sonra motoru burada ateşliyoruz!
 const KuantumKafesi = new THREE.Group();
