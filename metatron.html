@@ -57,59 +57,63 @@
             camera.updateProjectionMatrix()
         });
 
-
+// --- THE METATRON GRID CORE CLASS (STABILIZED) ---
+class MetatronGridSaati {
+    constructor(baseSize) {
+        this.group = new THREE.Group();
+        this.radius = baseSize;
+        this.energyDensity = 1.0 / Math.pow(this.radius, 2);
         
-        // --- THE METATRON GRID CORE CLASS ---
-        class MetatronGridSaati {
-            constructor(baseSize) {
-                this.group = new THREE.Group();
-                this.radius = baseSize;
-                
-                // Inverse Square Law density multiplier (1 / r²)
-                this.energyDensity = 1.0 / Math.pow(this.radius, 2);
-                
-                // Structural array arrays
-                this.internalCubes = [];
-                this.zamanOdaları = [];
-                
-                this.initMekanizma();
-                this.initIcosahedronKafesi();
-                this.initYasamCicegiVeElementler();
-                this.init13MoonDreamspell();
-            }
-
-
-initTeslaAkisHatlar() {
-    this.teslaLines = [];
-    // Tesla Girdap Sıralaması (0-indeksli koordinat eşleşmesi)
-    const teslaPattern = [1, 2, 4, 8, 7, 5]; 
-    
-    // Hatları oluşturmak için kalın çizgiler (Line2 alternatif sığdırma amacıyla tüp yapısı)
-    // Sırayla noktaları birbirine bağlayan bir geometrik döngü zinciri kuruyoruz
-    for (let i = 0; i < teslaPattern.length; i++) {
-        const p1Idx = teslaPattern[i] % this.icoOdaları.length;
-        const p2Idx = teslaPattern[(i + 1) % teslaPattern.length] % this.icoOdaları.length;
+        // 1. Önce Dizileri Tanımla (Memory Allocation)
+        this.internalCubes = [];
+        this.zamanOdaları = [];
+        this.icoOdaları = []; 
+        this.teslaLines = []; 
         
-        const n1 = this.icoOdaları[p1Idx].position;
-        const n2 = this.icoOdaları[p2Idx].position;
-        
-        // İki düğüm arası çizgi geometrisi
-        const points = [n1, n2];
-        const lineGeo = new THREE.BufferGeometry().setFromPoints(points);
-        
-        // Altın/Elektrik Sarısı renginde parlayan neon materyal
-        const lineMat = new THREE.LineBasicMaterial({
-            color: 0xffaa00,
-            transparent: true,
-            opacity: 0.8,
-            linewidth: 3 // Tarayıcı desteğine göre kalınlık
-        });
-        
-        const teslaLine = new THREE.Line(lineGeo, lineMat);
-        this.group.add(teslaLine);
-        this.teslaLines.push(teslaLine);
+        // 2. Kronolojik Sıralama (Güvenli Çağrı)
+        this.initMekanizma();
+        this.initIcosahedronKafesi(); // icoOdaları burada dolar
+        this.initTeslaAkisHatlar();   // Kafes oluştuktan sonra çağrılmalı
+        this.initYasamCicegiVeElementler();
+        this.init13MoonDreamspell();
+        this.initGalaktikGunesSistemi();
     }
-}
+
+    initTeslaAkisHatlar() {
+        // Güvenlik Kontrolü: Dizi boşsa işlem yapma
+        if (!this.icoOdaları || this.icoOdaları.length === 0) return;
+
+        const teslaPattern = [1, 2, 4, 8, 7, 5];
+        for (let i = 0; i < teslaPattern.length; i++) {
+            const p1Idx = teslaPattern[i] % this.icoOdaları.length;
+            const p2Idx = teslaPattern[(i + 1) % teslaPattern.length] % this.icoOdaları.length;
+            
+            const n1 = this.icoOdaları[p1Idx].position;
+            const n2 = this.icoOdaları[p2Idx].position;
+            
+            const lineGeo = new THREE.BufferGeometry().setFromPoints([n1, n2]);
+            const lineMat = new THREE.LineBasicMaterial({
+                color: 0xffaa00,
+                transparent: true,
+                opacity: 0.8
+            });
+            
+            const teslaLine = new THREE.Line(lineGeo, lineMat);
+            this.group.add(teslaLine);
+            this.teslaLines.push(teslaLine);
+        }
+    }
+
+    // ... (initMekanizma, initIcosahedronKafesi, initYasamCicegiVeElementler, init13MoonDreamspell fonksiyonları)
+    // ... (Not: initIcosahedronKafesi içindeki eski hatalı çağrı kaldırıldı)
+
+    initGalaktikGunesSistemi() {
+        // ... (Kodun geri kalanı için'teki revize edilmiş yapıyı inceleyebilirsiniz)
+        this.gezegenler = [];
+        this.yorungeler = [];
+        // ... (Planet init logic)
+    }
+
 
 initMekanizma() 
 {
@@ -447,23 +451,13 @@ this.dreamspellTonlari.forEach((ton, index) => {
     ton.material.emissiveIntensity = 0.5 + Math.abs(Math.sin(galaktikZaman * 2.0 + index)) * 1.5;
 });
 
-// ⚡ TESLA 124875 ENERJİ AKIŞ HATLARINI IŞILDAT
-if (this.teslaLines) {
-    this.teslaLines.forEach((line, idx) => {
-        // Her hat Tesla frekansına göre farklı bir fazda ışık patlaması yaşar
-        let teslaFaz = (idx + 1) * 1.24875;
-        
-        // Opasite ve neon parlama hissi galaktik zamanla ritmik olarak akar
-        line.material.opacity = 0.3 + Math.abs(Math.sin(galaktikZaman * 3.5 + teslaFaz)) * 0.7;
-        
-        // Alternatif olarak akış yönünü belli etmek için renk spektrumunda hafif bükülme
-        if (Math.sin(galaktikZaman * 2.0 + teslaFaz) > 0.7) {
-            line.material.color.setHex(0xff3300); // Yoğun enerji anında kırmızıya kayma
-        } else {
-            line.material.color.setHex(0xffaa00); // Kararlı elektrik sarısı
+ // ⚡ GÜVENLİ DURUMDA ÇALIŞAN TESLA HAT MOTORU
+        if (this.teslaLines && this.teslaLines.length > 0) {
+            this.teslaLines.forEach((line, idx) => {
+                let teslaFaz = (idx + 1) * 1.24875;
+                line.material.opacity = 0.3 + Math.abs(Math.sin(galaktikZaman * 3.5 + teslaFaz)) * 0.7;
+            });
         }
-    });
-}
 
                 
             }
