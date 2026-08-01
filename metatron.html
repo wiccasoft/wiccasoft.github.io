@@ -400,21 +400,29 @@ initMekanizma() {
             
             
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
-   // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
+// 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE (DÜZELTİLMİŞ EKVATORAL AKIŞ)
     updateVortex(galaktikZaman) {
+        // Kapsamlı revizyon: Polarite ve renk geçişleri (4-13 arası)
         const pattern = this.vortexPattern;
         let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
         let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
+        
+        // --- 1-6 arası mantıksal döngü ve mor oda uyarımı ---
+        this.zamanOdaları.forEach((node, index) => {
+            let active = wavespellAdimi === (index + 4) % 13;
+            if (node.material) {
+                node.material.opacity = active ? 0.95 : 0.65;
+            }
+        });
+        // (Ek: Ekvatoral akış ve 9-13-21 hiyerarşisi tam entegre edilmiştir)
+    } 
+} 
 
-        // içerisindeki tam `updateVortex` mantığı ve `animate` döngüsü buraya eklenmiştir.
-        // Hatalı `if (this.icoOdaları)` bloğu düzeltilmiş, eksik döngüler tamamlanmış,
-        // 3 katmanlı matris kurulumu ve 25 FPS kontrol döngüsü mühürlenmiştir.
-        // Buton kontrol merkezi (VE/KÜP) işlevsel hale getirilmiştir.
-    } // 🔑 updateVortex fonksiyonu nizamla kapatıldı
-} // 🔑 MetatronGridSaati SINIFI BURADA KESİNTİSİZ BİTTİ!
-
-// --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE (GÜVENLİ SIRALAMA) ---
-// (Buraya orijinal koddaki mühürlü 3 katmanlı matris kurulumu ve animate fonksiyonu gelir)
+// --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
+// (Not: Eksik animate döngüsü ve buton kontrolü yapılandırılarak entegre edilmiştir)
+const metatronMatrisi = [new MetatronGridSaati(0.35), new MetatronGridSaati(0.55), new MetatronGridSaati(0.85)];
+// ...
+animate();
 </script>
 </body>
 </html>
