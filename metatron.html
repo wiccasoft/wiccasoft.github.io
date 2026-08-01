@@ -63,6 +63,74 @@
         });
 
         
+
+        // 1. ADIM: AYARLARI GLOBAL ALANDA TANIMLA (initMekanizma'nın Dışında, En Üstte)
+const axesConfig = [
+    { name: "Hava / Toprak", color1: "yellow", color2: "magenta", sizeMultiplier: 1.2 },
+    { name: "Ateş / Su", color1: "black",  color2: "white",   sizeMultiplier: 1.2 }, // Boyutları sarı-pembe gibi 1.2 yapıldı
+    { name: "Aktif / Pasif", color1: "red",    color2: "green",   sizeMultiplier: 1.2 },
+    { name: "Eter / Merkez", color1: "blue",   color2: "orange",  sizeMultiplier: 1.2 }
+];
+
+function getSphereSize(baseSize, sizeMultiplier, n) {
+    return baseSize * sizeMultiplier * (1 + n * 0.1);
+}
+
+// Eksik çizim hatası vermemesi için boş fonksiyon (Eğer projenizde çizgi çizme kodu zaten varsa bunu eklemeyin)
+function drawAxisLine(ctx, x1, y1, x2, y2, c1, c2) {
+    if (typeof ctx.createLinearGradient === "function") {
+        let grad = ctx.createLinearGradient(x1, y1, x2, y2);
+        grad.addColorStop(0, c1);
+        grad.addColorStop(1, c2);
+        ctx.strokeStyle = grad;
+    } else {
+        ctx.strokeStyle = c1;
+    }
+    ctx.beginPath();
+    ctx.moveTo(x1, y1);
+    ctx.lineTo(x2, y2);
+    ctx.lineWidth = 1;
+    ctx.stroke();
+    ctx.closePath();
+}
+
+function drawSphere(ctx, x, y, radius, color) {
+    ctx.beginPath();
+    ctx.arc(x, y, radius, 0, Math.PI * 2);
+    ctx.fillStyle = color;
+    if(color === "black" || color === "#000000") {
+        ctx.strokeStyle = "rgba(255,255,255,0.4)"; // Siyahın görünmesi için beyaz kontur
+        ctx.stroke();
+    }
+    ctx.fill();
+    ctx.closePath();
+}
+
+
+// 2. ADIM: MEVCUT DRAW VEYA RENDER DÖNGÜNÜN İÇİNE EKLE
+function drawMetatronAxes(ctx, centerX, centerY, n, baseRadius) {
+    const angleStep = Math.PI / 4; 
+
+    axesConfig.forEach((axis, index) => {
+        let angle1 = index * angleStep;
+        let angle2 = angle1 + Math.PI; 
+
+        let distance = baseRadius * (1 + n * 0.5);
+
+        let x1 = centerX + Math.cos(angle1) * distance;
+        let y1 = centerY + Math.sin(angle1) * distance;
+        let size1 = getSphereSize(15, axis.sizeMultiplier, n);
+        drawSphere(ctx, x1, y1, size1, axis.color1);
+
+        let x2 = centerX + Math.cos(angle2) * distance;
+        let y2 = centerY + Math.sin(angle2) * distance;
+        let size2 = getSphereSize(15, axis.sizeMultiplier, n);
+        drawSphere(ctx, x2, y2, size2, axis.color2);
+        
+        drawAxisLine(ctx, x1, y1, x2, y2, axis.color1, axis.color2);
+    });
+}
+
         // --- THE METATRON GRID CORE CLASS ---
         class MetatronGridSaati {
             constructor(baseSize) {
@@ -81,6 +149,8 @@
                 this.initYasamCicegiVeElementler();
             }
 
+
+            
             
 initMekanizma() {
                 // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
@@ -322,6 +392,68 @@ initMekanizma() {
             }
 
 
+            // 🔑 KOZMİK FİBONACCİ ÇEKİRDEK JENARATÖRÜ (9 - 13 - 21 ORAN MOTORU)
+    initFibonacciOmurgasi() {
+        // Eğer önceden yaratılmış dinamik odalar varsa hafızayı temizle (Hücre Koruması)
+        if (this.dinamikCubes) {
+            this.dinamikCubes.forEach(node => this.group.remove(node));
+        }
+        this.dinamikCubes = [];
+
+        // Katmana göre evrensel Fibonacci oda sayısı: 0.35 -> 9, 0.55 -> 13, 0.85 -> 21
+        let odaAdedi = this.radius === 0.35 ? 9 : (this.radius === 0.55 ? 13 : 21);
+        const sqrt2Scale = Math.sqrt(2);
+        const kureGeo = new THREE.SphereGeometry(this.radius * 0.035, 12, 12);
+
+        // Sabit küp köşeleri matrisi (Karekök 2 aks çeperleri için)
+        const koseler = [
+            [1, 1, -1], [1, -1, 1], [1, -1, -1], [-1, 1, 1],
+            [-1, 1, -1], [-1, -1, 1], [-1, -1, -1], [1, 1, 1]
+        ];
+
+        for (let i = 0; i < odaAdedi; i++) {
+            // Tam gönderdiğin resimdeki asil gri/füme renginde MeshPhongMaterial mühürleniyor
+            const iskeletMat = new THREE.MeshPhongMaterial({
+                color: 0x555555,
+                emissive: 0x111111,
+                transparent: true,
+                opacity: 0.75
+            });
+            const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
+
+            // 🌀 ALTIN ORAN PİRAMİT SPİRAL DAĞILIMI
+            let aci = i * (Math.PI * 2 * 0.618033); // Altın oran bükümü
+            let yukseklik = (i / odaAdedi) * (this.radius * sqrt2Scale) - (this.radius * sqrt2Scale * 0.5);
+            let yaricap = Math.sqrt(Math.max(0, (this.radius * this.radius * 2) - (yukseklik * yukseklik))) * 0.40;
+
+            // VE modundaki dairesel sarmal konumu
+            let vePos = new THREE.Vector3(
+                Math.cos(aci) * yaricap,
+                yukseklik,
+                Math.sin(aci) * yaricap
+            );
+
+            // Küp modunda fırlayacağı o perfect keskin köşe konumu
+            let v = koseler[i % koseler.length];
+            let katsayi = this.radius * 0.45;
+            let kupPos = new THREE.Vector3(
+                v[0] * katsayi * sqrt2Scale,
+                v[1] * katsayi * sqrt2Scale,
+                v[2] * katsayi * sqrt2Scale
+            );
+
+            // Koordinatları oda hafızasına (userData) çapa kilidiyle mühürlüyoruz
+            nodeMesh.position.copy(vePos);
+            nodeMesh.userData = {
+                vePosition: vePos.clone(),
+                kupPosition: kupPos.clone(),
+                originalColor: 0x555555
+            };
+
+            this.group.add(nodeMesh);
+            this.dinamikCubes.push(nodeMesh);
+        }
+    }
 
               matrisBukucu(kuantumModu) {
         const katsayi = this.radius * 0.45;
@@ -452,6 +584,8 @@ updateVortex(galaktikZaman) {
             controls.update();
             renderer.render(scene, camera);
         }
+
+        
 // ⚡ BUTON KONTROL MERKEZİ
 let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
 const buton = document.getElementById("btnBukucu");
