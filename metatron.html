@@ -374,6 +374,29 @@ initMekanizma() {
                     // $\sqrt{2}$ ekseninde hafifçe bükülerek element akışına rezonans verir
                     halka.rotation.z = galaktikZaman * 0.05 * (idx % 2 === 0 ? 1 : -1);
                 });
+                 // 🌊 ICOSAHEDRON 124875 EVRESEL WAVESPELL MOTORU
+        let wavespellAdimi = Math.floor(galaktikZaman * 3.0) % 13;
+        let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
+
+        if (this.icoOdaları) {
+            this.icoOdaları.forEach((node, index) => {
+                // Tesla girdap serisinden vites çarpanını okuyoruz
+                let stepMultiplier = vortexPattern[index % vortexPattern.length];
+                
+                // Akım adımı dairesel değil, Tesla'nın sarmal girdap frekansıyla odaları uyarır
+                let active = wavespellAdimi === (index * stepMultiplier + 4) % 13;
+                let orijinalRenk = node.userData.originalColor || 0xff00ff;
+                
+                node.scale.setScalar(active ? 1.4 : 1.0);
+                if (node.material) {
+                    // Akım odanın üzerindeyken rengini anlık BEYAZ lazer flaşı yapar!
+                    node.material.color.setHex(active ? 0xffffff : orijinalRenk);
+                    node.material.emissive.setHex(active ? 0xffffff : orijinalRenk);
+                    node.material.emissiveIntensity = active ? 5.0 * Math.abs(wavespellIvme + 0.5) : 0.8;
+                    node.material.opacity = active ? 0.95 : 0.70;
+                }
+            });
+        }
             }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
