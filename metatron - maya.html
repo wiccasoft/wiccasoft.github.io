@@ -443,19 +443,26 @@ initElementKutuplari() {
     const kureGeoDış = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
     const merkezNoktasi = new THREE.Vector3(0, 0, 0);
     const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1; 
+// 🧱 TAM 0.0.0 NOKTASINA SABİT 4 ELEMENT MERKEZ KÜRESİ
+// Renkler: Ateş (0xff1100), Toprak (0xffcc00), Hava (0x00bfff), Su (0x00ffcc)
+const merkezRenkleri = [0xff1100, 0xffcc00, 0x00bfff, 0x00ffcc];
 
-// 🧱 TAM 0.0.0 NOKTASINA SABİT 6 ADET MERKEZ KÜRESİ
-    const merkezRenkleri = [0x111111, 0xffffff, 0xffff00, 0xff00ff, 0xff0000, 0x00ff00];
-    merkezRenkleri.forEach((renkKodu) => {
-        const merkezMat = new THREE.MeshPhongMaterial({ color: renkKodu, emissive: renkKodu, emissiveIntensity: 0.6 });
-        const mMesh = new THREE.Mesh(kureGeoDış, merkezMat);
-        mMesh.position.copy(merkezNoktasi);
-        mMesh.scale.set(1.2, 1.2, 1.2);
-        
-        // 🔒 ANİMASYON KİLİDİ: updateVortex bu küreyi oynatmasın diye işaretliyoruz
-        mMesh.userData = { isMerkez: true, originalPos: merkezNoktasi.clone() }; 
-        this.group.add(mMesh);
+merkezRenkleri.forEach((renkKodu) => {
+    const merkezMat = new THREE.MeshPhongMaterial({ 
+        color: renkKodu, 
+        emissive: renkKodu, 
+        emissiveIntensity: 0.8,
+        transparent: true,
+        opacity: 0.9
     });
+    const mMesh = new THREE.Mesh(kureGeoDış, merkezMat);
+    mMesh.position.copy(merkezNoktasi);
+    mMesh.scale.set(1.4, 1.4, 1.4); // Görünürlük için boyutlandırıldı
+
+    // 🔒 ANİMASYON KİLİDİ: updateVortex'in etkilememesi için işaretle
+    mMesh.userData = { isMerkez: true, originalPos: merkezNoktasi.clone() };
+    this.group.add(mMesh);
+});
 
     // 🧱 2️⃣ ADIM: DIŞ KUTUPLARIN VE BAĞLANTI AKS ÇİZGİLERİNEN YERLEŞTİRİLMESİ
     elementAkslari.forEach((aks) => {
@@ -597,6 +604,13 @@ initElementKutuplari() {
         this.group.children.forEach((mesh, index) => {
             if (mesh.isMesh && mesh.geometry.type === "SphereGeometry") {
                 
+
+
+                // 🛡️ MERKEZ KORUMASI: Pozisyonu sabitle ve döngüyü atla
+        if (mesh.userData && mesh.userData.isMerkez) {
+            mesh.position.copy(mesh.userData.originalPos);
+            return; 
+        }
                 // Güvenli akış zaman çizgisi
                 let akisZamani = galaktikZaman * n * 1.0;
                 
