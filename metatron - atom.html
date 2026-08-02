@@ -602,18 +602,25 @@ initElementKutuplari() {
 
 
 // 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
- updateVortex(galaktikZaman) {
-        let n = 1.0; // Galaktik frekans çarpanı
+   updateVortex(galaktikZaman) {
+        // 🔑 n PARAMETRESİ CANLI OLARAK 10 YAPILDI (Güvenli Kuantum Boşluğu Modu)
+        let n = 0.1; 
 
-        // 🌀 GALAKTİK DÖNÜŞ: Tüm sistem kendi dikey aksında asilce dönüyor
-        this.group.rotation.y = galaktikZaman * 0.08 * n;
-        this.coreCube.rotation.y = galaktikZaman * 0.04 * n;
-        this.outerCube.rotation.y = -galaktikZaman * 0.04 * n;
+        // Galaktik dönüş hızını n parametresine göre optimize edelim (Çılgınca dönmesin)
+        let yavaslatilmisZaman = galaktikZaman * (n * 0.1);
 
-        // 1. MERKEZDEKİ 9'LU ODANIN TETRAHEDRAL SİNÜS DALGALANMASI (Kök Akış)
+        // Kozmik iskelet dönüyor
+        this.group.rotation.y = yavaslatilmisZaman * 0.08;
+        this.coreCube.rotation.y = yavaslatilmisZaman * 0.04;
+        this.outerCube.rotation.y = -yavaslatilmisZaman * 0.04;
+
+        if (this.poleA && this.poleA.material) this.poleA.material.emissiveIntensity = 0.5;
+        if (this.poleB && this.poleB.material) this.poleB.material.emissiveIntensity = 0.5;
+
+        // 1. MERKEZDEKİ 9'LU ODANIN TETRAHEDRAL SİNÜS DALGALANMASI
         this.group.children.forEach((mesh, index) => {
             if (mesh.isMesh && mesh.geometry.type === "SphereGeometry" && mesh.scale.x > 1.0) {
-                let akisZamani = galaktikZaman * n * 1.2;
+                let akisZamani = galaktikZaman * 1.2;
                 let galaktikFaz = index * (Math.PI / 2);
                 let dalgaAcisi = akisZamani + galaktikFaz;
                 let dikeyYön = (index % 2 === 0) ? 1 : -1;
@@ -633,52 +640,47 @@ initElementKutuplari() {
             }
         });
 
-        // 🪐 2. MERKEZDEN YAYILAN DALGANIN ICOSAHEDRON KÖŞELERİNDE BINARY GEZEGENLERİ DOĞURMASI
+        // 🪐 2. KAMERA SINIRLARINI AŞMAYAN GÜVENLİ BINARY GEZEGEN YÖRÜNGESİ
         if (this.binaryGezegenler) {
             this.binaryGezegenler.forEach((sistem) => {
-                // Merkezden dışarıya doğru saniyede yayılan kozmik dalga boyu frekansı
-                let yayilmaDalgasi = galaktikZaman * n * 1.5 + sistem.fazOfseti;
-                
-                // Icosahedron köşesine ulaşan dalganın o andaki şiddeti (Nefes alış ritmi)
+                let yayilmaDalgasi = galaktikZaman * 1.5 + sistem.fazOfseti;
                 let dalgaEtkisi = Math.sin(yayilmaDalgasi);
 
-                // Binary Gezegenlerin ortak köşe etrafındaki dönüş yarıçapı (Mevsimsel genişleme)
-                let yorungeYaricapi = this.radius * 0.06 * (1.0 + dalgaEtkisi * 0.2);
+                // 🔑 KESİN ÇÖZÜM: n=10 için kameradan taşmayacak logaritmik veya yumuşatılmış çarpan
+                // n büyüdükçe boşluk hissi artar ama maksimum sınır (this.radius * 0.18) baremini aşamaz.
+                let guvenliBoslukCarpi = 1.0 + (Math.log10(n) * 1.5); // n=10 için çarpan tam 2.5 olur, kameradan taşmaz
+                let yorungeYaricapi = this.radius * 0.06 * guvenliBoslukCarpi * (1.0 + dalgaEtkisi * 0.15);
 
-                // 🔑 BINARY SISTEMIN MATEMATİKSEL EMRİ (Zıt Yönlü Girdap / 0 ve 1)
-                // Aktif ve Pasif yıldızlar, köşenin kütle çekim merkezinde birbirini 180 derece açıyla kovalar
-                let aci1 = galaktikZaman * 2.0 + sistem.fazOfseti; // Aktif olan saat yönü
-                let aci2 = aci1 + Math.PI;                         // Pasif olan tam karşısında (Zıt kutup)
+                // Binary Spin Ritimleri (0 ve 1)
+                let aci1 = galaktikZaman * 1.5 + sistem.fazOfseti;
+                let aci2 = aci1 + Math.PI;
 
-                // Aktif Yıldızın (1) Konum Hesabı (Köşe etrafında 3B dairesel dönüş)
+                // Aktif Yıldız (1)
                 sistem.aktifYildiz.position.set(
                     sistem.merkezKose.x + Math.cos(aci1) * yorungeYaricapi,
                     sistem.merkezKose.y + Math.sin(aci1) * yorungeYaricapi,
-                    sistem.merkezKose.z + Math.sin(aci1 * 0.5) * yorungeYaricapi * 0.3 // Derinlik bükümü
+                    sistem.merkezKose.z + Math.sin(aci1 * 0.5) * yorungeYaricapi * 0.2
                 );
 
-                // Pasif Yıldızın (0) Konum Hesabı (Tam ters fazda kovalama)
+                // Pasif Yıldız (0)
                 sistem.pasifYildiz.position.set(
                     sistem.merkezKose.x + Math.cos(aci2) * yorungeYaricapi,
                     sistem.merkezKose.y + Math.sin(aci2) * yorungeYaricapi,
-                    sistem.merkezKose.z + Math.sin(aci2 * 0.5) * yorungeYaricapi * 0.3
+                    sistem.merkezKose.z + Math.sin(aci2 * 0.5) * yorungeYaricapi * 0.2
                 );
 
-                // 💗 KORONA PARLAMASI VE REZONANS:
-                // Merkezden gelen dalga köşeye her vurduğunda binary gezegenler parlak yıldız kümelerine dönüşür
+                // Parlama ve Boyut Rezonansı
                 if (sistem.aktifYildiz.material) {
                     sistem.aktifYildiz.material.emissiveIntensity = 0.3 + Math.abs(dalgaEtkisi) * 0.7;
                     sistem.pasifYildiz.material.emissiveIntensity = 0.2 + Math.abs(Math.sin(yayilmaDalgasi + Math.PI)) * 0.5;
                 }
 
-                // Yıldızların dalgayla senkronize mikroskobik büyüme ritmi
-                let yildizBoyu = 1.0 + dalgaEtkisi * 0.15;
+                let yildizBoyu = 1.0 + dalgaEtkisi * 0.1;
                 sistem.aktifYildiz.scale.set(yildizBoyu, yildizBoyu, yildizBoyu);
                 sistem.pasifYildiz.scale.set(yildizBoyu, yildizBoyu, yildizBoyu);
             });
         }
 
-        // Arka plandaki Yaşam Çiçeği dokusu, bu muazzam doğumun asil fonu olarak loş kalıyor
         this.zamanOdaları.forEach(node => { if (node.material) node.material.opacity = 0.02; });
         this.yasamCicegiHalkalari.forEach(halka => { if (halka.material) halka.material.opacity = 0.04; });
     }
