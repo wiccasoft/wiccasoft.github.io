@@ -547,14 +547,15 @@ initElementKutuplari() {
     }
 
 
-// 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
+// 🌀 VORTEX MATHEMATICAL ENGINE
  updateVortex(galaktikZaman) {
-        // n parametresi: Akışın frekansını ve dalga hızını kontrol eden ana çarpan
-        let n = 1.2; 
-
-        // Ana kozmik iskeleti sabit tutuyoruz
-        this.coreCube.rotation.set(0, 0, 0);
-        this.outerCube.rotation.set(0, 0, 0);
+    // 🔑 n PARAMETRESİ CANLI OLARAK 0.1 YAPILDI (Güvenli Kuantum Boşluğu Modu)
+    let n = 0.1;
+    let yavaslatilmisZaman = galaktikZaman * (n * 0.1);
+ // 🔒 KÜTLESEL DÖNÜŞLER KAPATILDI: Icosahedron ve ana kafes tamamen durağanlaştırıldı
+    this.group.rotation.set(0, 0, 0);
+    this.coreCube.rotation.set(0, 0, 0);
+    this.outerCube.rotation.set(0, 0, 0);
 
         // 🌌 GEOMETRİNİN EMRİ: KONUMU KORUYAN VE GERÇEKTEN DALGALANAN ENERJİ AKIŞI
         this.group.children.forEach((mesh, index) => {
