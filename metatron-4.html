@@ -408,6 +408,9 @@ const elementAkslari = [
             { c1: 0xffa500, c2: 0x0000ff, yon: new THREE.Vector3(-1, -1, 1).normalize(), name: "Turuncu - Mavi (Merkez/Eter)" }
         ];
 
+
+        
+
         const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
         kureGeo.scale(1.2, 1.2, 1.2); 
 
@@ -420,6 +423,8 @@ const elementAkslari = [
             // Konumları önceden matematiksel olarak hesaplayalım
             const posA = vYon.clone().multiplyScalar(aksGenisligi);
             const posB = vYon.clone().multiplyScalar(-aksGenisligi);
+
+            
 
             // --- KUTUP A ---
             const matA = new THREE.MeshPhongMaterial({ 
@@ -544,14 +549,11 @@ const elementAkslari = [
     }
 
 
-// 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
-updateVortex(galaktikZaman) {
-        // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL ZAMAN ÇENTİKLERİ
-        const vortexPattern = [1, 2, 4, 8, 7, 5];
-        let wavespellAdimi = Math.floor(galaktikZaman * 3.5) % 13;
-        let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
 
-        // 1️⃣ Küpler Kütlesel Olarak Durağan (Tekillik Dengesi Korundu)
+updateVortex(galaktikZaman) {
+        // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL MOTORU DURDURULDU (SABİT DENGE)
+        
+        // 1️⃣ Küpler Kütlesel Olarak Durağan
         this.coreCube.rotation.set(0, 0, 0);
         this.outerCube.rotation.set(0, 0, 0);
 
@@ -560,40 +562,34 @@ updateVortex(galaktikZaman) {
         this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
         this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
         
-        // Aks Işımaları Sabitlendi
         if (this.poleA.material && this.poleB.material) {
             this.poleA.material.emissiveIntensity = 1.0;
             this.poleB.material.emissiveIntensity = 1.0;
         }
 
-        // 3️⃣ 🧠 ASIL METATRON KÜPLERİ: 9 - 13 - 21 FİBONACCİ ÇEKİRDEK ODALARININ UYARIMI
-        // Artık döngü dinamik oda sayısına (9, 13, 21) tam senkronize çalışır, çökme yapmaz!
-        this.internalCubes.forEach((coreNode, index) => {
-            let stepMultiplier = vortexPattern[index % vortexPattern.length];
-            let active = wavespellAdimi === (index * stepMultiplier) % 13;
-
-            coreNode.scale.setScalar(active ? 1.45 : 1.0);
+        // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI (Işık patlamaları kapatıldı, asil görünüm korundu)
+        this.internalCubes.forEach((coreNode) => {
+            coreNode.scale.setScalar(1.0);
             if (coreNode.material) {
-                // Akım tam bu odadan geçerken pırlanta beyazı parlar, yoksa asil gri renginde bekler
-                coreNode.material.emissive.setHex(active ? 0xffffff : 0x222222);
-                coreNode.material.emissiveIntensity = active ? 6.5 * Math.abs(wavespellIvme + 0.5) : 1.0;
-                coreNode.material.opacity = active ? 0.98 : 0.60;
+                coreNode.material.emissive.setHex(0x222222);
+                coreNode.material.emissiveIntensity = 1.0;
+                coreNode.material.opacity = 0.70;
             }
         });
 
-        // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Durağanlaştırıldı
+        // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
         this.zamanOdaları.forEach((node, index) => {
             let baseAngle = (index * Math.PI * 2) / 13;
             node.position.set(Math.cos(baseAngle) * this.radius * 1.3, 0, Math.sin(baseAngle) * this.radius * 1.3);
-            if (node.material) node.material.opacity = 0.02; // Hayalet illüzyon susturuldu
+            if (node.material) node.material.opacity = 0.15; // Görünürlük hafif artırılarak sabitlendi
         });
 
         this.yasamCicegiHalkalari.forEach((halka) => {
-            if (halka.material) halka.material.opacity = 0.15; // Loş kalkan
+            if (halka.material) halka.material.opacity = 0.20;
             halka.rotation.z = 0;
         });
 
-        // 5️⃣ Dış Icosahedron Kabuğu Kararlı Durağan Renk Spektrumuna Kilitlendi
+        // 5️⃣ Dış Icosahedron Kabuğu Renk Spektrumu Sabitlendi
         if (this.icoOdaları) {
             this.icoOdaları.forEach((node) => {
                 let orijinalRenk = node.userData.originalColor || 0xff00ff;
@@ -613,69 +609,56 @@ updateVortex(galaktikZaman) {
         const KuantumKafesi = new THREE.Group();
         scene.add(KuantumKafesi);
 
-  // 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
+        // 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
         const metatronMatrisi = [
             new MetatronGridSaati(0.35), // İç Tohum (Çekirdek)
             new MetatronGridSaati(0.55), // Orta Bölme (Dünya Katmanı)
             new MetatronGridSaati(0.85)  // Dış Kalkan (192'li Kafes Çeperi)
         ];
 
-        // Küpleri yan yana dizmek yerine, tam merkezde fraktal olarak iç içe geçiriyoruz
+        // Küpleri tam merkezde fraktal olarak iç içe geçiriyoruz
         metatronMatrisi.forEach((saat, index) => {
             saat.group.position.set(0, 0, 0);
             KuantumKafesi.add(saat.group);
         });
 
-// ⏳ 25 FPS KONTROL DÖNGÜSÜ (Zaman Sabitleyici)
-        let fpsZamani = performance.now();
-        const fpsAraligi = 1000 / 25; // Saniyede tam 25 kare akışı (40ms)
-
+        // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
         function animate() {
             requestAnimationFrame(animate);
 
-            let simdikiZaman = performance.now();
-            let gecenSure = simdikiZaman - fpsZamani;
-
-            // Eğer 40 milisaniye (1/25 sn) geçmediyse bu kareyi atla (Sistemi 25 FPS'e kilitler)
-            if (gecenSure < fpsAraligi) return;
-
-            // 25 FPS zaman çentiği kilitlendi, zamanı güncelle
-            fpsZamani = simdikiZaman - (gecenSure % fpsAraligi);
-
-            let galaktikZaman = simdikiZaman * 0.001;
-
-            // Tüm iç içe geçmiş katmanların vortex motorlarını 25 FPS ritmiyle tetikle
-            metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
+            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
+            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
 
             controls.update();
             renderer.render(scene, camera);
         }
 
-        
-// ⚡ BUTON KONTROL MERKEZİ
-let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
-const buton = document.getElementById("btnBukucu");
+        // ⚡ BUTON KONTROL MERKEZİ
+        let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
+        const buton = document.getElementById("btnBukucu");
 
-if (buton) {
-    buton.addEventListener("click", () => {
-        if (mevcutMod === "ve") {
-            mevcutMod = "kup";
-            buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
-            buton.style.borderColor = "#ffaa00";
-            buton.style.color = "#ffaa00";
-        } else {
-            mevcutMod = "ve";
-            buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
-            buton.style.borderColor = "#00ffcc";
-            buton.style.color = "#00ffcc";
+        if (buton) {
+            buton.addEventListener("click", () => {
+                if (mevcutMod === "ve") {
+                    mevcutMod = "kup";
+                    buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
+                    buton.style.borderColor = "#ffaa00";
+                    buton.style.color = "#ffaa00";
+                } else {
+                    mevcutMod = "ve";
+                    buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
+                    buton.style.borderColor = "#00ffcc";
+                    buton.style.color = "#00ffcc";
+                }
+                
+                // 3 farklı fraktal katmanı aynı anda büküyoruz
+                metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
+            });
         }
-        
-        // 3 farklı fraktal katmanı (0.35, 0.55, 0.85) aynı anda büküyoruz
-        metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
-    });
-}
         // START ENGINE
         animate();
+
+
     </script>
 </body>
 </html>
