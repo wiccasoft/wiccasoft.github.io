@@ -412,41 +412,55 @@ initElementKutuplari() {
         { c1: 0x8a2be2, c2: 0xba55d3, yon: new THREE.Vector3(-1, 1, 0).normalize(),   name: "Mor - Koyu Pembe (Dikey Enerji Omurgası)" }
     ];
     
-    const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
-    kureGeo.scale(1.2, 1.2, 1.2); 
+    // 🔒 DIŞ VE MERKEZ KÜRELER İÇİN TEK TİP PARALEL GEOMETRİ SİSTEMİ
+    const kureGeoDış = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
+    const merkezNoktasi = new THREE.Vector3(0, 0, 0);
+    const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1; 
 
-    const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1;
+    // 🧱 1️⃣ ADIM: TAM 0.0.0 NOKTASINA DIŞARIDAKİLERİN AYNISI OLAN TAM 6 ADET MERKEZ KÜRESİ
+    const merkezRenkleri = [0x111111, 0xffffff, 0xffff00, 0xff00ff, 0xff0000, 0x00ff00];
+    merkezRenkleri.forEach((renkKodu) => {
+        const merkezMat = new THREE.MeshPhongMaterial({ 
+            color: renkKodu, 
+            emissive: renkKodu, 
+            emissiveIntensity: 0.6 
+        });
+        if(renkKodu === 0x111111) {
+            merkezMat.specular = new THREE.Color(0xffffff);
+            merkezMat.shininess = 100;
+        }
+        const mMesh = new THREE.Mesh(kureGeoDış, merkezMat);
+        mMesh.position.copy(merkezNoktasi);
+        mMesh.scale.set(1.2, 1.2, 1.2); // Dışarıdaki kürelerle tam birebir ölçek kilitlendi
+        this.group.add(mMesh);
+    });
 
+    // 🧱 2️⃣ ADIM: DIŞ KUTUPLARIN VE BAĞLANTI AKS ÇİZGİLERİNEN YERLEŞTİRİLMESİ
     elementAkslari.forEach((aks) => {
-        // Her aks, kendi içinde tanımlanmış olan 'yon' vektörünü doğrudan okur
         const vYon = aks.yon;
 
-        // Konumları önceden matematiksel olarak hesaplayalım
         const posA = vYon.clone().multiplyScalar(aksGenisligi);
         const posB = vYon.clone().multiplyScalar(-aksGenisligi);
 
-        // --- KUTUP A ---
-        const matA = new THREE.MeshPhongMaterial({ 
-            color: aks.c1, 
-            emissive: aks.c1, 
-            emissiveIntensity: 0.6 
-        });
+        // --- MATERYAL TANIMLAMALARI ---
+        const matA = new THREE.MeshPhongMaterial({ color: aks.c1, emissive: aks.c1, emissiveIntensity: 0.6 });
+        const matB = new THREE.MeshPhongMaterial({ color: aks.c2, emissive: aks.c2, emissiveIntensity: 0.6 });
+
         if(aks.c1 === 0x111111) {
             matA.specular = new THREE.Color(0xffffff);
             matA.shininess = 100;
         }
-        const meshA = new THREE.Mesh(kureGeo, matA);
+
+        // --- 🔵 DIŞ KUTUP A YERLEŞİMİ ---
+        const meshA = new THREE.Mesh(kureGeoDış, matA);
         meshA.position.copy(posA);
+        meshA.scale.set(1.2, 1.2, 1.2); 
         this.group.add(meshA);
 
-        // --- KUTUP B ---
-        const matB = new THREE.MeshPhongMaterial({ 
-            color: aks.c2, 
-            emissive: aks.c2, 
-            emissiveIntensity: 0.6 
-        });
-        const meshB = new THREE.Mesh(kureGeo, matB);
+        // --- 🔵 DIŞ KUTUP B YERLEŞİMİ ---
+        const meshB = new THREE.Mesh(kureGeoDış, matB);
         meshB.position.copy(posB);
+        meshB.scale.set(1.2, 1.2, 1.2); 
         this.group.add(meshB);
 
         // --- MATRİS BAĞLANTI ÇİZGİSİ ---
