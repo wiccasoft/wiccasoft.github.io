@@ -158,119 +158,146 @@ function drawMetatronAxes(ctx, centerX, centerY, n, baseRadius) {
             
             
 initMekanizma() {
-                // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
-                const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
-                
+    // 1️⃣ ADIM: 8-Segmented Core Wireframe Cube (2,2,2)
+    const coreGeo = new THREE.BoxGeometry(this.radius, this.radius, this.radius, 2, 2, 2);
+    
+    // 🏛️ MERKEZ TERS PİRAMİT ODALARI (Işığın çıktığı yerler saf beyaz olarak parlar)
+    const katsayi = this.radius * 0.45;
+    const koseler = [,   [1, 1, -1],  [1, -1, 1],  [1, -1, -1],
+        [-1, 1, 1],  [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
+    ];
+    koseler.forEach((v) => {
+        const pos = new THREE.Vector3(v[0]*katsayi, v[1]*katsayi, v[2]*katsayi);
+        const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
+        const b_mat = new THREE.MeshPhongMaterial({
+            color: 0xffffff,
+            emissive: 0xffffff,
+            emissiveIntensity: 1.5 * this.energyDensity,
+            transparent: true,
+            opacity: 0.85
+        });
+        const b_mesh = new THREE.Mesh(b_geom, b_mat);
+        b_mesh.position.copy(pos);
+        this.group.add(b_mesh);
+        this.internalCubes.push(b_mesh);
+    });
 
-                // 🏛️ MERKEZ TERS PİRAMİT ODALARI (Işığın çıktığı yerler saf beyaz olarak parlar)
-                const katsayi = this.radius * 0.45;
-                const koseler = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
-                    [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
-                ];
-                koseler.forEach((v) => {
-                    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
-                    const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
-                    const b_mat = new THREE.MeshPhongMaterial({
-                        color: 0xffffff,
-                        emissive: 0xffffff,
-                        emissiveIntensity: 1.5 * this.energyDensity,
-                        transparent: true,
-                        opacity: 0.85
-                    });
-                    const b_mesh = new THREE.Mesh(b_geom, b_mat);
-                    b_mesh.position.copy(pos);
-                    this.group.add(b_mesh);
-                    this.internalCubes.push(b_mesh);
-                });
+    const coreMat = new THREE.MeshBasicMaterial({ 
+        color: 0x00ffff, 
+        wireframe: true, 
+        transparent: true, 
+        opacity: 0.35 // 🔑 AKS AÇILDI: İç çekirdek çizgileri görünür yapıldı
+    });
+    this.coreCube = new THREE.Mesh(coreGeo, coreMat);
+    this.group.add(this.coreCube);
 
-                const coreMat = new THREE.MeshBasicMaterial({ 
-                    color: 0x00ffff, 
-                    wireframe: true, 
-                    transparent: true, 
-                    opacity: 0.00 // 🔑 KUBÜN ÇİZGİLERİ SAKLANDI
-                });
-                this.coreCube = new THREE.Mesh(coreGeo, coreMat);
-                this.group.add(this.coreCube);
+    // 2️⃣ ADIM: Inverse Square Law Volume Expansion - DIŞ KATMAN KATALİZÖRÜ
+    const expandedSize = this.radius * Math.sqrt(2);
+    const outerGeo = new THREE.BoxGeometry(expandedSize, expandedSize, expandedSize, 2, 2, 2);
+    const outerMat = new THREE.MeshBasicMaterial({ 
+        color: 0xff3300, 
+        wireframe: true, 
+        transparent: true, 
+        opacity: 0.20 // 🔑 AKS AÇILDI: Dış genişleme çizgileri görünür yapıldı
+    });
+    this.outerCube = new THREE.Mesh(outerGeo, outerMat);
+    this.group.add(this.outerCube);
 
-             // 2️⃣ ADIM: Inverse Square Law Volume Expansion - GÖRÜNMEZ DIŞ KATMAN
-                const expandedSize = this.radius * Math.sqrt(2);
-                const outerGeo = new THREE.BoxGeometry(expandedSize, expandedSize, expandedSize, 2, 2, 2);
-                const outerMat = new THREE.MeshBasicMaterial({ 
-                    color: 0xff3300, 
-                    wireframe: true, 
-                    transparent: true, 
-                    opacity: 0.00 // 🔑 GENİŞLEME KÜBÜ SAKLANDI
-                });
-                this.outerCube = new THREE.Mesh(outerGeo, outerMat);
-                this.group.add(this.outerCube);
+    // 3️⃣ ADIM: Sqrt(2) Diagonal Axis Poles (Passing through opposite corner vertices)
+    const halfKup = (this.radius * Math.sqrt(2)) * 0.5;
+    const nodeGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
+    
+    // Positive Polar Node (Jüpiter-Aks A)
+    const matA = new THREE.MeshPhongMaterial({ color: 0xffaa00, emissive: 0xffaa00, emissiveIntensity: 0.5 });
+    this.poleA = new THREE.Mesh(nodeGeo, matA);
+    this.poleA.position.set(halfKup, halfKup, halfKup); 
+    this.group.add(this.poleA);
 
-                // 3️⃣ ADIM: Sqrt(2) Diagonal Axis Poles (Passing through opposite corner vertices)
-                const halfKup = (this.radius * Math.sqrt(2)) * 0.5;
-                const nodeGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
-                
-                // Positive Polar Node (Jüpiter-Aks A)
-                const matA = new THREE.MeshPhongMaterial({ color: 0xffaa00, emissive: 0xffaa00, emissiveIntensity: 0.5 });
-                this.poleA = new THREE.Mesh(nodeGeo, matA);
-                this.poleA.position.set(halfKup, halfKup, halfKup); // Diagonal corner vertex
-                this.group.add(this.poleA);
+    // Negative Polar Node (Satürn-Aks B)
+    const matB = new THREE.MeshPhongMaterial({ color: 0x8a2be2, emissive: 0x8a2be2, emissiveIntensity: 0.5 });
+    this.poleB = new THREE.Mesh(nodeGeo, matB);
+    this.poleB.position.set(-halfKup, -halfKup, -halfKup); 
+    this.group.add(this.poleB);
 
-                // Negative Polar Node (Satürn-Aks B)
-                const matB = new THREE.MeshPhongMaterial({ color: 0x8a2be2, emissive: 0x8a2be2, emissiveIntensity: 0.5 });
-                this.poleB = new THREE.Mesh(nodeGeo, matB);
-                this.poleB.position.set(-halfKup, -halfKup, -halfKup); // Opposite diagonal corner vertex
-                this.group.add(this.poleB);
+    // 4️⃣ ADIM: 13-Notched Dreamspell Cosmic Gear Ring
+    for (let i = 0; i < 13; i++) {
+        const angle = (i * Math.PI * 2) / 13;
+        const zrGeo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
+        const zrMat = new THREE.MeshBasicMaterial({ color: 0x00ff00, transparent: true, opacity: 0.8 });
+        const zrMesh = new THREE.Mesh(zrGeo, zrMat);
+        
+        zrMesh.position.set(Math.cos(angle) * this.radius * 1.3, 0, Math.sin(angle) * this.radius * 1.3);
+        this.group.add(zrMesh);
+        this.zamanOdaları.push(zrMesh);
+    }
 
-                // 4️⃣ ADIM: 13-Notched Dreamspell Cosmic Gear Ring
-                for (let i = 0; i < 13; i++) {
-                    const angle = (i * Math.PI * 2) / 13;
-                    const zrGeo = new THREE.SphereGeometry(this.radius * 0.04, 8, 8);
-                    const zrMat = new THREE.MeshBasicMaterial({ color: 0x00ff00, transparent: true, opacity: 0.8 });
-                    const zrMesh = new THREE.Mesh(zrGeo, zrMat);
-                    
-                    // Placed on the gyro-vites plane orbiting the mechanism
-                    zrMesh.position.set(Math.cos(angle) * this.radius * 1.3, 0, Math.sin(angle) * this.radius * 1.3);
-                    this.group.add(zrMesh);
-                    this.zamanOdaları.push(zrMesh);
-                }
+    // 📐 ADIM 6: Boyutsal Ters Piramitlerin (Inverted Pyramids) Cam Duvarları
+    const icYari = this.radius * 0.5;
+    const disYari = (this.radius * Math.sqrt(2)) * 0.5;
+    
+    const yonlerMatrisi = [
+        { x: 1,  y: 0,  z: 0  }, // Sağ Yüzey
+        { x: -1, y: 0,  z: 0  }, // Sol Yüzey
+        { x: 0,  y: 1,  z: 0  }, // Üst Yüzey
+        { x: 0,  y: -1, z: 0  }, // Alt Yüzey
+        { x: 0,  y: 0,  z: 1  }, // Ön Yüzey
+        { x: 0,  y: 0,  z: -1 }  // Arka Yüzey
+    ];
 
+    const verticesList = [];
 
-                               // 📐 ADIM 6: Boyutsal Ters Piramitlerin (Inverted Pyramids) Cam Duvarları
-                // İç kübün 6 yüzeyinden dış kübün 6 yüzeyine genişleyen 6 odalık koridor
-                const icYari = this.radius * 0.5;
-                const disYari = (this.radius * Math.sqrt(2)) * 0.5;
-                
-                // Kübün 6 yönündeki yüzey merkezlerini bağlayan piramit kafes çizimi
-                const yonler = [
-                    [1,0,0], [-1,0,0], [0,1,0], [0,-1,0], [0,0,1], [0,0,-1]
-                ];
+    yonlerMatrisi.forEach((dir) => {
+        // Kare tabanların 4 köşe varyasyonu koordinatları
+        const katsayilar = [[1, 1], [1, -1], [-1, -1], [-1, 1]];
 
-                yonler.forEach((y, i) => {
-                    // Her bir ters piramit için özel çizgisel geometri oluşturuluyor
-                    const pyrGeom = new THREE.BufferGeometry();
-                    
-                    // İç yüzeyin 4 köşesi ve dış yüzeyin karşılık gelen 4 köşesi
-                    // Bu noktalar arası geçiş tam aradığın inverse square kovanını oluşturur
-                    const vertices = new Float32Array([
-                        // İç taban noktaları ve dış taban noktaları çapraz kilitlenir
-                        y[0]*icYari, y[1]*icYari, y[2]*icYari,
-                        y[0]*disYari, y[1]*disYari, y[2]*disYari
-                    ]);
-                    
-                    pyrGeom.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
-                    
-                    // İçi görünür kılan yarı şeffaf cam materyal
-                    const pyrMat = new THREE.MeshBasicMaterial({
-                        color: 0xff3300,
-                        wireframe: true, // Çizgisel iskeleti belli olsun diye
-                        transparent: true,
-                        opacity: 0.18
-                    });
-                    
-                    const pyrMesh = new THREE.Mesh(pyrGeom, pyrMat);
-                    this.group.add(pyrMesh);
-                });
+        katsayilar.forEach((kose, idx) => {
+            let xİç, yİç, zİç;
+            let xDış, yDış, zDış;
+
+            if (dir.x !== 0) {
+                xİç = dir.x * icYari;   yİç = kose[0] * icYari;   zİç = kose[1] * icYari;
+                xDış = dir.x * disYari; yDış = kose[0] * disYari; zDış = kose[1] * disYari;
+            } else if (dir.y !== 0) {
+                xİç = kose[0] * icYari;   yİç = dir.y * icYari;   zİç = kose[1] * icYari;
+                xDış = kose[0] * disYari; yDış = dir.y * disYari; zDış = kose[1] * disYari;
+            } else {
+                xİç = kose[0] * icYari;   yİç = kose[1] * icYari;   zİç = dir.z * icYari;
+                xDış = kose[0] * disYari; yDış = kose[1] * disYari; zDış = dir.z * disYari;
             }
 
+            // İç kovan köşesinden dış kovan köşesine uzanan tünel çizgisi (4 derinlik çizgisi)
+            verticesList.push(xİç, yİç, zİç, xDış, yDış, zDış);
+
+            // Dış tabandaki kare çerçeveyi kapatmak için bir sonraki köşeyi hesapla
+            let sonrakiKose = katsayilar[(idx + 1) % 4];
+            let nXDış, nYDış, nZDış;
+
+            if (dir.x !== 0) {
+                nXDış = dir.x * disYari; nYDış = sonrakiKose[0] * disYari; nZDış = sonrakiKose[1] * disYari;
+            } else if (dir.y !== 0) {
+                nXDış = sonrakiKose[0] * disYari; nYDış = dir.y * disYari; nZDış = sonrakiKose[1] * disYari;
+            } else {
+                nXDış = sonrakiKose[0] * disYari; nYDış = sonrakiKose[1] * disYari; nZDış = dir.z * disYari;
+            }
+
+            // Dış taban karesinin kenar çizgisi (4 kapatma çizgisi)
+            verticesList.push(xDış, yDış, zDış, nXDış, nYDış, nZDış);
+        });
+    });
+
+    const pyrGeom = new THREE.BufferGeometry();
+    pyrGeom.setAttribute('position', new THREE.Float32BufferAttribute(verticesList, 3));
+    
+    const pyrMat = new THREE.LineBasicMaterial({
+        color: 0xff3300,
+        transparent: true,
+        opacity: 0.40, // Enerji koridorlarının görünürlüğü optimize edildi
+        blending: THREE.AdditiveBlending
+    });
+    
+    const pyrLines = new THREE.LineSegments(pyrGeom, pyrMat);
+    this.group.add(pyrLines);
+}
 
             // 🏟️ ADIM 5: ISOCOSAHEDRON (20 YÜZLÜ ENERJİ KAFESİ) TOHUMU
             // Kütlesel olarak dönmeyen, içinden 124875 enerji akacak 12 köşe noktası
@@ -417,21 +444,16 @@ initElementKutuplari() {
     const merkezNoktasi = new THREE.Vector3(0, 0, 0);
     const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1; 
 
-    // 🧱 1️⃣ ADIM: TAM 0.0.0 NOKTASINA DIŞARIDAKİLERİN AYNISI OLAN TAM 6 ADET MERKEZ KÜRESİ
+// 🧱 TAM 0.0.0 NOKTASINA SABİT 6 ADET MERKEZ KÜRESİ
     const merkezRenkleri = [0x111111, 0xffffff, 0xffff00, 0xff00ff, 0xff0000, 0x00ff00];
     merkezRenkleri.forEach((renkKodu) => {
-        const merkezMat = new THREE.MeshPhongMaterial({ 
-            color: renkKodu, 
-            emissive: renkKodu, 
-            emissiveIntensity: 0.6 
-        });
-        if(renkKodu === 0x111111) {
-            merkezMat.specular = new THREE.Color(0xffffff);
-            merkezMat.shininess = 100;
-        }
+        const merkezMat = new THREE.MeshPhongMaterial({ color: renkKodu, emissive: renkKodu, emissiveIntensity: 0.6 });
         const mMesh = new THREE.Mesh(kureGeoDış, merkezMat);
         mMesh.position.copy(merkezNoktasi);
-        mMesh.scale.set(1.2, 1.2, 1.2); // Dışarıdaki kürelerle tam birebir ölçek kilitlendi
+        mMesh.scale.set(1.2, 1.2, 1.2);
+        
+        // 🔒 ANİMASYON KİLİDİ: updateVortex bu küreyi oynatmasın diye işaretliyoruz
+        mMesh.userData = { isMerkez: true, originalPos: merkezNoktasi.clone() }; 
         this.group.add(mMesh);
     });
 
