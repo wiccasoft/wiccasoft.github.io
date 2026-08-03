@@ -45,12 +45,6 @@
         controls.enableDamping = true;
         controls.dampingFactor = 0.05;
 
-        // 🔒 DİKEY DÖNÜŞÜ KİLİTLE (Fareyle sağa-sola sürükleyince sadece siyah-beyaz dikey Y aksında döner)
-// minPolarAngle ve maxPolarAngle değerlerini birbirine eşitleyerek yukarı-aşağı esnemeyi tamamen kapatıyoruz.
-const guncelPolarAci = controls.getPolarAngle(); 
-controls.minPolarAngle = guncelPolarAci;
-controls.maxPolarAngle = guncelPolarAci;
-
         // Balanced lighting to illuminate the 3D nodes and wireframes
         const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
         scene.add(ambientLight);
@@ -58,8 +52,6 @@ controls.maxPolarAngle = guncelPolarAci;
         dirLight.position.set(4, 5, 3);
         scene.add(dirLight);
 
-
-        
         // Viewport resize handling
         window.addEventListener('resize', () => {
              const aspect = window.innerWidth / window.innerHeight;
@@ -407,82 +399,65 @@ initMekanizma() {
 
             // 🌌 GÜVENLİ 4 ELEMENT VE ÇİFT KUTUP AKS ALGORİTMASI (Siyah Ekran Hatası Çözümü)
 initElementKutuplari() {
-    // 🔑 4 ANA AKS: TÜM RENKLER VE GEOMETRİK YÖNLER EKSİKSİZ VE SIRALI TANIMLANDI
-    const elementAkslari = [
-        { c1: 0x111111, c2: 0xffffff, yon: new THREE.Vector3(1, 1, 1).normalize(),    name: "Siyah - Beyaz (Ateş/Su)" },
-        { c1: 0xffff00, c2: 0xff00ff, yon: new THREE.Vector3(1, -1, 1).normalize(),   name: "Sarı - Pembe (Hava/Toprak)" },
-        { c1: 0xff0000, c2: 0x00ff00, yon: new THREE.Vector3(-1, 1, 1).normalize(),  name: "Kırmızı - Yeşil (Aktif/Pasif)" },
-        { c1: 0xff7f00, c2: 0x0000ff, yon: new THREE.Vector3(-1, -1, 1).normalize(), name: "Turuncu - Mavi (Merkez/Eter)" }
-    ];
+        // 🔑 4 ANA AKS: TÜM RENKLER VE GEOMETRİK YÖNLER EKSİKSİZ VE SIRALI TANIMLANDI
+const elementAkslari = [
+            { c1: 0x111111, c2: 0xffffff, yon: new THREE.Vector3(1, 1, 1).normalize(),    name: "Siyah - Beyaz (Ateş/Su)" },
+            // 🔑 SARI VE PEMBENİN RENK KODLARI BİRBİRİYLE TAKAS EDİLDİ (c1: sarı, c2: pembe yapıldı)
+            { c1: 0xffff00, c2: 0xff00ff, yon: new THREE.Vector3(1, -1, 1).normalize(),   name: "Sarı - Pembe (Hava/Toprak)" },
+            { c1: 0xff0000, c2: 0x00ff00, yon: new THREE.Vector3(-1, 1, 1).normalize(),  name: "Kırmızı - Yeşil (Aktif/Pasif)" },
+            { c1: 0xffa500, c2: 0x0000ff, yon: new THREE.Vector3(-1, -1, 1).normalize(), name: "Turuncu - Mavi (Merkez/Eter)" }
+        ];
 
-    const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
-    kureGeo.scale(1.2, 1.2, 1.2); 
+        const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
+        kureGeo.scale(1.2, 1.2, 1.2); 
 
-    const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1;
-    // 🌀 MERKEZE YAKIN İÇ KÜRELERİN KONUM KATSAYISI (Dış kürelerin tam yarısı mesafede)
-    const icAksGenisligi = aksGenisligi * 0.1; 
+        const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1;
 
-    elementAkslari.forEach((aks) => {
-        // Her aks, kendi içinde tanımlanmış olan 'yon' vektörünü doğrudan okur
-        const vYon = aks.yon;
+        elementAkslari.forEach((aks) => {
+            // Her aks, kendi içinde tanımlanmış olan 'yon' vektörünü doğrudan okur (Kayma ihtimali sıfır)
+            const vYon = aks.yon;
 
-        // Dış Kutup Konumları
-        const posA = vYon.clone().multiplyScalar(aksGenisligi);
-        const posB = vYon.clone().multiplyScalar(-aksGenisligi);
+            // Konumları önceden matematiksel olarak hesaplayalım
+            const posA = vYon.clone().multiplyScalar(aksGenisligi);
+            const posB = vYon.clone().multiplyScalar(-aksGenisligi);
 
-        // 🎯 Yeni Eklenen Merkeze Yakın İç Kutup Konumları
-        const posIcA = vYon.clone().multiplyScalar(icAksGenisligi);
-        const posIcB = vYon.clone().multiplyScalar(-icAksGenisligi);
+            // --- KUTUP A ---
+            const matA = new THREE.MeshPhongMaterial({ 
+                color: aks.c1, 
+                emissive: aks.c1, 
+                emissiveIntensity: 0.6 
+            });
+            if(aks.c1 === 0x111111) {
+                matA.specular = new THREE.Color(0xffffff);
+                matA.shininess = 100;
+            }
+            const meshA = new THREE.Mesh(kureGeo, matA);
+            meshA.position.copy(posA);
+            this.group.add(meshA);
 
-        // --- MATERYAL TANIMLAMALARI ---
-        const matA = new THREE.MeshPhongMaterial({ 
-            color: aks.c1, 
-            emissive: aks.c1, 
-            emissiveIntensity: 0.6 
+            // --- KUTUP B ---
+            const matB = new THREE.MeshPhongMaterial({ 
+                color: aks.c2, 
+                emissive: aks.c2, 
+                emissiveIntensity: 0.6 
+            });
+            const meshB = new THREE.Mesh(kureGeo, matB);
+            meshB.position.copy(posB);
+            this.group.add(meshB);
+
+            // --- MATRİS BAĞLANTI ÇİZGİSİ ---
+            const cizgiNoktalari = [posA, posB];
+            const cizgiGeo = new THREE.BufferGeometry().setFromPoints(cizgiNoktalari);
+            const cizgiMat = new THREE.LineBasicMaterial({ 
+                color: aks.c1,
+                transparent: true, 
+                opacity: 0.3
+            });
+            const aksCizgisi = new THREE.Line(cizgiGeo, cizgiMat);
+            this.group.add(aksCizgisi);
         });
-        if(aks.c1 === 0x111111) {
-            matA.specular = new THREE.Color(0xffffff);
-            matA.shininess = 100;
-        }
+    }
 
-        const matB = new THREE.MeshPhongMaterial({ 
-            color: aks.c2, 
-            emissive: aks.c2, 
-            emissiveIntensity: 0.6 
-        });
-
-        // --- DIŞ KUTUP A ---
-        const meshA = new THREE.Mesh(kureGeo, matA);
-        meshA.position.copy(posA);
-        this.group.add(meshA);
-
-        // 🌟 İÇ KUTUP A (Merkeze yakın taraftaki yeni küre)
-        const meshIcA = new THREE.Mesh(kureGeo, matA);
-        meshIcA.position.copy(posIcA);
-        this.group.add(meshIcA);
-
-        // --- DIŞ KUTUP B ---
-        const meshB = new THREE.Mesh(kureGeo, matB);
-        meshB.position.copy(posB);
-        this.group.add(meshB);
-
-        // 🌟 İÇ KUTUP B (Merkeze yakın taraftaki yeni küre)
-        const meshIcB = new THREE.Mesh(kureGeo, matB);
-        meshIcB.position.copy(posIcB);
-        this.group.add(meshIcB);
-
-        // --- MATRİS BAĞLANTI ÇİZGİSİ (Boydan boya tüm küreleri keser)
-        const cizgiNoktalari = [posA, posB];
-        const cizgiGeo = new THREE.BufferGeometry().setFromPoints(cizgiNoktalari);
-        const cizgiMat = new THREE.LineBasicMaterial({ 
-            color: aks.c1,
-            transparent: true, 
-            opacity: 0.3
-        });
-        const aksCizgisi = new THREE.Line(cizgiGeo, cizgiMat);
-        this.group.add(aksCizgisi);
-    });
-}
             // 🔑 KOZMİK FİBONACCİ ÇEKİRDEK JENARATÖRÜ (9 - 13 - 21 ORAN MOTORU)
     initFibonacciOmurgasi() {
         // Eğer önceden yaratılmış dinamik odalar varsa hafızayı temizle (Hücre Koruması)
@@ -569,11 +544,14 @@ initElementKutuplari() {
     }
 
 
-
+// 🌀 124875 TESLA/VORTEX MATHEMATICAL ENGINE
 updateVortex(galaktikZaman) {
-        // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL MOTORU DURDURULDU (SABİT DENGE)
-        
-        // 1️⃣ Küpler Kütlesel Olarak Durağan
+        // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL ZAMAN ÇENTİKLERİ
+        const vortexPattern = [1, 2, 4, 8, 7, 5];
+        let wavespellAdimi = Math.floor(galaktikZaman * 3.5) % 13;
+        let wavespellIvme = Math.sin((galaktikZaman * Math.PI) / 13);
+
+        // 1️⃣ Küpler Kütlesel Olarak Durağan (Tekillik Dengesi Korundu)
         this.coreCube.rotation.set(0, 0, 0);
         this.outerCube.rotation.set(0, 0, 0);
 
@@ -582,34 +560,40 @@ updateVortex(galaktikZaman) {
         this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
         this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
         
+        // Aks Işımaları Sabitlendi
         if (this.poleA.material && this.poleB.material) {
             this.poleA.material.emissiveIntensity = 1.0;
             this.poleB.material.emissiveIntensity = 1.0;
         }
 
-        // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI (Işık patlamaları kapatıldı, asil görünüm korundu)
-        this.internalCubes.forEach((coreNode) => {
-            coreNode.scale.setScalar(1.0);
+        // 3️⃣ 🧠 ASIL METATRON KÜPLERİ: 9 - 13 - 21 FİBONACCİ ÇEKİRDEK ODALARININ UYARIMI
+        // Artık döngü dinamik oda sayısına (9, 13, 21) tam senkronize çalışır, çökme yapmaz!
+        this.internalCubes.forEach((coreNode, index) => {
+            let stepMultiplier = vortexPattern[index % vortexPattern.length];
+            let active = wavespellAdimi === (index * stepMultiplier) % 13;
+
+            coreNode.scale.setScalar(active ? 1.45 : 1.0);
             if (coreNode.material) {
-                coreNode.material.emissive.setHex(0x222222);
-                coreNode.material.emissiveIntensity = 1.0;
-                coreNode.material.opacity = 0.70;
+                // Akım tam bu odadan geçerken pırlanta beyazı parlar, yoksa asil gri renginde bekler
+                coreNode.material.emissive.setHex(active ? 0xffffff : 0x222222);
+                coreNode.material.emissiveIntensity = active ? 6.5 * Math.abs(wavespellIvme + 0.5) : 1.0;
+                coreNode.material.opacity = active ? 0.98 : 0.60;
             }
         });
 
-        // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
+        // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Durağanlaştırıldı
         this.zamanOdaları.forEach((node, index) => {
             let baseAngle = (index * Math.PI * 2) / 13;
             node.position.set(Math.cos(baseAngle) * this.radius * 1.3, 0, Math.sin(baseAngle) * this.radius * 1.3);
-            if (node.material) node.material.opacity = 0.15; // Görünürlük hafif artırılarak sabitlendi
+            if (node.material) node.material.opacity = 0.02; // Hayalet illüzyon susturuldu
         });
 
         this.yasamCicegiHalkalari.forEach((halka) => {
-            if (halka.material) halka.material.opacity = 0.20;
+            if (halka.material) halka.material.opacity = 0.15; // Loş kalkan
             halka.rotation.z = 0;
         });
 
-        // 5️⃣ Dış Icosahedron Kabuğu Renk Spektrumu Sabitlendi
+        // 5️⃣ Dış Icosahedron Kabuğu Kararlı Durağan Renk Spektrumuna Kilitlendi
         if (this.icoOdaları) {
             this.icoOdaları.forEach((node) => {
                 let orijinalRenk = node.userData.originalColor || 0xff00ff;
@@ -629,56 +613,69 @@ updateVortex(galaktikZaman) {
         const KuantumKafesi = new THREE.Group();
         scene.add(KuantumKafesi);
 
-        // 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
+  // 🧱 HARAMEIN GRID: İç içe kilitlenen 3 farklı fraktal katman (Oktav Matrisi)
         const metatronMatrisi = [
             new MetatronGridSaati(0.35), // İç Tohum (Çekirdek)
             new MetatronGridSaati(0.55), // Orta Bölme (Dünya Katmanı)
             new MetatronGridSaati(0.85)  // Dış Kalkan (192'li Kafes Çeperi)
         ];
 
-        // Küpleri tam merkezde fraktal olarak iç içe geçiriyoruz
+        // Küpleri yan yana dizmek yerine, tam merkezde fraktal olarak iç içe geçiriyoruz
         metatronMatrisi.forEach((saat, index) => {
             saat.group.position.set(0, 0, 0);
             KuantumKafesi.add(saat.group);
         });
 
-        // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
+// ⏳ 25 FPS KONTROL DÖNGÜSÜ (Zaman Sabitleyici)
+        let fpsZamani = performance.now();
+        const fpsAraligi = 1000 / 25; // Saniyede tam 25 kare akışı (40ms)
+
         function animate() {
             requestAnimationFrame(animate);
 
-            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
-            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
+            let simdikiZaman = performance.now();
+            let gecenSure = simdikiZaman - fpsZamani;
+
+            // Eğer 40 milisaniye (1/25 sn) geçmediyse bu kareyi atla (Sistemi 25 FPS'e kilitler)
+            if (gecenSure < fpsAraligi) return;
+
+            // 25 FPS zaman çentiği kilitlendi, zamanı güncelle
+            fpsZamani = simdikiZaman - (gecenSure % fpsAraligi);
+
+            let galaktikZaman = simdikiZaman * 0.001;
+
+            // Tüm iç içe geçmiş katmanların vortex motorlarını 25 FPS ritmiyle tetikle
+            metatronMatrisi.forEach(saat => saat.updateVortex(galaktikZaman));
 
             controls.update();
             renderer.render(scene, camera);
         }
 
-        // ⚡ BUTON KONTROL MERKEZİ
-        let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
-        const buton = document.getElementById("btnBukucu");
+        
+// ⚡ BUTON KONTROL MERKEZİ
+let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
+const buton = document.getElementById("btnBukucu");
 
-        if (buton) {
-            buton.addEventListener("click", () => {
-                if (mevcutMod === "ve") {
-                    mevcutMod = "kup";
-                    buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
-                    buton.style.borderColor = "#ffaa00";
-                    buton.style.color = "#ffaa00";
-                } else {
-                    mevcutMod = "ve";
-                    buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
-                    buton.style.borderColor = "#00ffcc";
-                    buton.style.color = "#00ffcc";
-                }
-                
-                // 3 farklı fraktal katmanı aynı anda büküyoruz
-                metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
-            });
+if (buton) {
+    buton.addEventListener("click", () => {
+        if (mevcutMod === "ve") {
+            mevcutMod = "kup";
+            buton.innerText = "MATRİS: KAREKÖK 2 KÜP";
+            buton.style.borderColor = "#ffaa00";
+            buton.style.color = "#ffaa00";
+        } else {
+            mevcutMod = "ve";
+            buton.innerText = "MATRİS: VECTOR EQUILIBRIUM";
+            buton.style.borderColor = "#00ffcc";
+            buton.style.color = "#00ffcc";
         }
+        
+        // 3 farklı fraktal katmanı (0.35, 0.55, 0.85) aynı anda büküyoruz
+        metatronMatrisi.forEach(saat => saat.matrisBukucu(mevcutMod));
+    });
+}
         // START ENGINE
         animate();
-
-
     </script>
 </body>
 </html>
