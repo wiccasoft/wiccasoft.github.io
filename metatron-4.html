@@ -45,6 +45,12 @@
         controls.enableDamping = true;
         controls.dampingFactor = 0.05;
 
+        // 🔒 DİKEY DÖNÜŞÜ KİLİTLE (Fareyle sağa-sola sürükleyince sadece siyah-beyaz dikey Y aksında döner)
+// minPolarAngle ve maxPolarAngle değerlerini birbirine eşitleyerek yukarı-aşağı esnemeyi tamamen kapatıyoruz.
+const guncelPolarAci = controls.getPolarAngle(); 
+controls.minPolarAngle = guncelPolarAci;
+controls.maxPolarAngle = guncelPolarAci;
+
         // Balanced lighting to illuminate the 3D nodes and wireframes
         const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
         scene.add(ambientLight);
@@ -52,6 +58,8 @@
         dirLight.position.set(4, 5, 3);
         scene.add(dirLight);
 
+
+        
         // Viewport resize handling
         window.addEventListener('resize', () => {
              const aspect = window.innerWidth / window.innerHeight;
@@ -399,70 +407,82 @@ initMekanizma() {
 
             // 🌌 GÜVENLİ 4 ELEMENT VE ÇİFT KUTUP AKS ALGORİTMASI (Siyah Ekran Hatası Çözümü)
 initElementKutuplari() {
-        // 🔑 4 ANA AKS: TÜM RENKLER VE GEOMETRİK YÖNLER EKSİKSİZ VE SIRALI TANIMLANDI
-const elementAkslari = [
-            { c1: 0x111111, c2: 0xffffff, yon: new THREE.Vector3(1, 1, 1).normalize(),    name: "Siyah - Beyaz (Ateş/Su)" },
-            // 🔑 SARI VE PEMBENİN RENK KODLARI BİRBİRİYLE TAKAS EDİLDİ (c1: sarı, c2: pembe yapıldı)
-            { c1: 0xffff00, c2: 0xff00ff, yon: new THREE.Vector3(1, -1, 1).normalize(),   name: "Sarı - Pembe (Hava/Toprak)" },
-            { c1: 0xff0000, c2: 0x00ff00, yon: new THREE.Vector3(-1, 1, 1).normalize(),  name: "Kırmızı - Yeşil (Aktif/Pasif)" },
-            { c1: 0xffa500, c2: 0x0000ff, yon: new THREE.Vector3(-1, -1, 1).normalize(), name: "Turuncu - Mavi (Merkez/Eter)" }
-        ];
+    // 🔑 4 ANA AKS: TÜM RENKLER VE GEOMETRİK YÖNLER EKSİKSİZ VE SIRALI TANIMLANDI
+    const elementAkslari = [
+        { c1: 0x111111, c2: 0xffffff, yon: new THREE.Vector3(1, 1, 1).normalize(),    name: "Siyah - Beyaz (Ateş/Su)" },
+        { c1: 0xffff00, c2: 0xff00ff, yon: new THREE.Vector3(1, -1, 1).normalize(),   name: "Sarı - Pembe (Hava/Toprak)" },
+        { c1: 0xff0000, c2: 0x00ff00, yon: new THREE.Vector3(-1, 1, 1).normalize(),  name: "Kırmızı - Yeşil (Aktif/Pasif)" },
+        { c1: 0xff7f00, c2: 0x0000ff, yon: new THREE.Vector3(-1, -1, 1).normalize(), name: "Turuncu - Mavi (Merkez/Eter)" }
+    ];
 
+    const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
+    kureGeo.scale(1.2, 1.2, 1.2); 
 
-        
+    const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1;
+    // 🌀 MERKEZE YAKIN İÇ KÜRELERİN KONUM KATSAYISI (Dış kürelerin tam yarısı mesafede)
+    const icAksGenisligi = aksGenisligi * 0.1; 
 
-        const kureGeo = new THREE.SphereGeometry(this.radius * 0.08, 16, 16);
-        kureGeo.scale(1.2, 1.2, 1.2); 
+    elementAkslari.forEach((aks) => {
+        // Her aks, kendi içinde tanımlanmış olan 'yon' vektörünü doğrudan okur
+        const vYon = aks.yon;
 
-        const aksGenisligi = (this.radius * Math.sqrt(2)) * 1.1;
+        // Dış Kutup Konumları
+        const posA = vYon.clone().multiplyScalar(aksGenisligi);
+        const posB = vYon.clone().multiplyScalar(-aksGenisligi);
 
-        elementAkslari.forEach((aks) => {
-            // Her aks, kendi içinde tanımlanmış olan 'yon' vektörünü doğrudan okur (Kayma ihtimali sıfır)
-            const vYon = aks.yon;
+        // 🎯 Yeni Eklenen Merkeze Yakın İç Kutup Konumları
+        const posIcA = vYon.clone().multiplyScalar(icAksGenisligi);
+        const posIcB = vYon.clone().multiplyScalar(-icAksGenisligi);
 
-            // Konumları önceden matematiksel olarak hesaplayalım
-            const posA = vYon.clone().multiplyScalar(aksGenisligi);
-            const posB = vYon.clone().multiplyScalar(-aksGenisligi);
-
-            
-
-            // --- KUTUP A ---
-            const matA = new THREE.MeshPhongMaterial({ 
-                color: aks.c1, 
-                emissive: aks.c1, 
-                emissiveIntensity: 0.6 
-            });
-            if(aks.c1 === 0x111111) {
-                matA.specular = new THREE.Color(0xffffff);
-                matA.shininess = 100;
-            }
-            const meshA = new THREE.Mesh(kureGeo, matA);
-            meshA.position.copy(posA);
-            this.group.add(meshA);
-
-            // --- KUTUP B ---
-            const matB = new THREE.MeshPhongMaterial({ 
-                color: aks.c2, 
-                emissive: aks.c2, 
-                emissiveIntensity: 0.6 
-            });
-            const meshB = new THREE.Mesh(kureGeo, matB);
-            meshB.position.copy(posB);
-            this.group.add(meshB);
-
-            // --- MATRİS BAĞLANTI ÇİZGİSİ ---
-            const cizgiNoktalari = [posA, posB];
-            const cizgiGeo = new THREE.BufferGeometry().setFromPoints(cizgiNoktalari);
-            const cizgiMat = new THREE.LineBasicMaterial({ 
-                color: aks.c1,
-                transparent: true, 
-                opacity: 0.3
-            });
-            const aksCizgisi = new THREE.Line(cizgiGeo, cizgiMat);
-            this.group.add(aksCizgisi);
+        // --- MATERYAL TANIMLAMALARI ---
+        const matA = new THREE.MeshPhongMaterial({ 
+            color: aks.c1, 
+            emissive: aks.c1, 
+            emissiveIntensity: 0.6 
         });
-    }
+        if(aks.c1 === 0x111111) {
+            matA.specular = new THREE.Color(0xffffff);
+            matA.shininess = 100;
+        }
 
+        const matB = new THREE.MeshPhongMaterial({ 
+            color: aks.c2, 
+            emissive: aks.c2, 
+            emissiveIntensity: 0.6 
+        });
+
+        // --- DIŞ KUTUP A ---
+        const meshA = new THREE.Mesh(kureGeo, matA);
+        meshA.position.copy(posA);
+        this.group.add(meshA);
+
+        // 🌟 İÇ KUTUP A (Merkeze yakın taraftaki yeni küre)
+        const meshIcA = new THREE.Mesh(kureGeo, matA);
+        meshIcA.position.copy(posIcA);
+        this.group.add(meshIcA);
+
+        // --- DIŞ KUTUP B ---
+        const meshB = new THREE.Mesh(kureGeo, matB);
+        meshB.position.copy(posB);
+        this.group.add(meshB);
+
+        // 🌟 İÇ KUTUP B (Merkeze yakın taraftaki yeni küre)
+        const meshIcB = new THREE.Mesh(kureGeo, matB);
+        meshIcB.position.copy(posIcB);
+        this.group.add(meshIcB);
+
+        // --- MATRİS BAĞLANTI ÇİZGİSİ (Boydan boya tüm küreleri keser)
+        const cizgiNoktalari = [posA, posB];
+        const cizgiGeo = new THREE.BufferGeometry().setFromPoints(cizgiNoktalari);
+        const cizgiMat = new THREE.LineBasicMaterial({ 
+            color: aks.c1,
+            transparent: true, 
+            opacity: 0.3
+        });
+        const aksCizgisi = new THREE.Line(cizgiGeo, cizgiMat);
+        this.group.add(aksCizgisi);
+    });
+}
             // 🔑 KOZMİK FİBONACCİ ÇEKİRDEK JENARATÖRÜ (9 - 13 - 21 ORAN MOTORU)
     initFibonacciOmurgasi() {
         // Eğer önceden yaratılmış dinamik odalar varsa hafızayı temizle (Hücre Koruması)
