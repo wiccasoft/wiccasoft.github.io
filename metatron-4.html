@@ -642,16 +642,18 @@ updateVortex(galaktikZaman) {
             KuantumKafesi.add(saat.group);
         });
 
-        // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
-        function animate() {
-            requestAnimationFrame(animate);
+       function animate() {
+    requestAnimationFrame(animate);
 
-            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
-            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
+    // 🔑 updateVortex fonksiyonunu çağırarak opaklık kurallarını devreye alıyoruz:
+    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
 
-            controls.update();
-            renderer.render(scene, camera);
-        }
+    // 🏆 2 SATIRLIK KESİN ÇÖZÜM: Çekirdek nesnesinin (children dizisinin) içine sızıp her karede opaklığı sıfırlıyoruz
+    if (metatronMatrisi[0]) metatronMatrisi[0].group.traverse(obj => { if (obj.material) { obj.material.transparent = true; obj.material.opacity = 0.0; } });
+
+    controls.update();
+    renderer.render(scene, camera);
+}
 
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
