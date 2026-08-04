@@ -379,9 +379,9 @@ class KuantumPaketi {
 
  guncelle(delta) {
         // 🚀 ASYMMETRIC FIELD SPEEDS: Stream A runs standard, Stream B spins with a fractional velocity offset
-        let hizKatsayisi = this.tip === "A" ? 2.5 : 3.2;
-        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
-        this.ilerleme += delta * dalgaliIvme;
+ // 🔑 FREKANS MODÜLASYONU: Hızlar düşürülerek parçacıkların havada kalma ömrü uzatılır, 4 binary sarmal netleşir!
+        let hizKatsayisi = this.tip === "A" ? 0.35 : 0.42; 
+        let dalgaliIvme = 0.4 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
 
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
