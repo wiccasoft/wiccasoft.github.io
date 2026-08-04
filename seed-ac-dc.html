@@ -409,76 +409,72 @@ function animate() {
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
     const sabitDelta = 1 / hedefFPS; // Sabit 0.04s
 
-    // 1. KAFES DÖNÜŞÜ
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
-
-    if (beyazKutupObj && siyahKutupObj) {
-        //const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
-        // KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı); // 🔑 Ana spin kapatıldı
-        //KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
-    }
 
     // === ⚡ 3 VE 6 KUTUPSAL (+ / -) ELEKTROMANYETİK DÖNGÜSÜ ===
     const zamanSinyali = performance.now() * 0.005; // Döngü hızı
 
-    // DOUBLE VORTEX DÖNGÜSÜ (A/B KANALLARI)
-if (beyazKutupObj && siyahKutupObj) {
-
-
-   // 3 (Beyaz Kutup) -> (+) Fazı (0.3 ile 1.5 yoğunluk arasında dalgalanır)
+    if (beyazKutupObj && siyahKutupObj) {
+        // 3 (Beyaz Kutup) -> (+) Fazı
         beyazKutupObj.material.emissiveIntensity = 0.9 + Math.sin(zamanSinyali) * 0.6;
         beyazKutupObj.material.opacity = 0.6 + Math.sin(zamanSinyali) * 0.3;
 
-   // 6 (Siyah Kutup) -> (-) Fazı (Tam zıt açıyla, Math.cos veya -Math.sin ile çalışır)
+        // 6 (Siyah Kutup) -> (-) Fazı
         siyahKutupObj.material.emissiveIntensity = 0.9 - Math.sin(zamanSinyali) * 0.6;
         siyahKutupObj.material.opacity = 0.6 - Math.sin(zamanSinyali) * 0.3;
 
-        if (aktifPaketler.length === 0) {
         // === ⚡ SWASTIKA VE BAĞIMSIZ ÇİFT YÖNLÜ AC ATESLEME MOTORU ===
-        [
-            { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
-            { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length }
-        ].forEach(p => {
-            // Havada o akım türünden (A veya B) paket yoksa yenisini fırlat
-            if (!aktifPaketler.some(x => x.tip === p.t)) { 
-                let kData = spheres.find(o => o.id === p.dizi[p.idx]);
-                let hData = spheres.find(o => o.id === p.dizi[(p.idx + 1) % p.dizi.length]);
-                
-                if (kData && hData) {
-                    let mK = KuantumKafesi.getObjectByName(kData.name);
-                    let mH = KuantumKafesi.getObjectByName(hData.name);
+        if (aktifPaketler.length === 0) {
+            [
+                { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
+                { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length }
+            ].forEach(p => {
+                if (!aktifPaketler.some(x => x.tip === p.t)) { 
+                    let kData = spheres.find(o => o.id === p.dizi[p.idx]);
+                    let hData = spheres.find(o => o.id === p.dizi[(p.idx + 1) % p.dizi.length]);
+                    
+                    if (kData && hData) {
+                        let mK = KuantumKafesi.getObjectByName(kData.name);
+                        let mH = KuantumKafesi.getObjectByName(hData.name);
 
-                    if (mK && mH) {
-                        let paket = new KuantumPaketi(mK, mH, hData.color);
-                        paket.hedefId = hData.id; 
-                        paket.tip = p.t;
-                        aktifPaketler.push(paket); // Parçacık doğdu
-                        p.nextIdx(); // İndeks 8 düğümünü beklemeden bağımsız ilerler
+                        if (mK && mH) {
+                            let paket = new KuantumPaketi(mK, mH, hData.color);
+                            paket.hedefId = hData.id; 
+                            paket.tip = p.t;
+                            aktifPaketler.push(paket); // Parçacık doğdu
+                            p.nextIdx(); // İndeks bağımsız ilerler
+                        }
                     }
                 }
-            }
-        });
-        // Parçacık Güncelleme
+            });
+        }
+
+        // --- 🚀 PARÇACIK GÜNCELLEME (KİLİT PARANTEZLERİNDEN KURTARILDI) ---
         let turuTamamla = false;
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
             paket.guncelle(sabitDelta); 
             if (paket.ilerleme >= 1.0) {
                 let hData = spheres.find(o => o.id === paket.hedefId);
-                let hMesh = KuantumKafesi.getObjectByName(hData.name);
-                if (hMesh) { hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; }
+                if (hData) {
+                    let hMesh = KuantumKafesi.getObjectByName(hData.name);
+                    if (hMesh) { 
+                        hMesh.material.emissiveIntensity = 4.0; 
+                        hMesh.material.opacity = 1.0; 
+                    }
+                }
                 KuantumKafesi.remove(paket.mesh);
                 aktifPaketler.splice(i, 1);
                 turuTamamla = true;
             }
         }
+        
+        // Temizlik sonrası kontrol
         if (turuTamamla && aktifPaketler.length === 0) {
-            aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-            aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
+            // İndeksler yukarıda ateşlendiği an arttığı için burası güvenli kapatmadır
         }
     }
-
     // 3. DEŞARJ DÖNGÜSÜ
     spheres.forEach(s => {
         let odaMesh = KuantumKafesi.getObjectByName(s.name);
