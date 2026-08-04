@@ -364,7 +364,7 @@ class KuantumPaketi {
          // 🔑 FREKANS AYRIŞTIRICI: Renkleri odalardan koparıp akım tipine (A/B) mühürler, kayıp vortexi görünür kılar!
         const neonRengi = this.tip === "A" ? 0x00ffff : 0xff0055; // A: Neon Turkuaz, B: Elektrik Pembesi/Kırmızısı
         const pMat = new THREE.MeshBasicMaterial({ color: neonRengi });
-        
+
         this.mesh = new THREE.Mesh(pGeom, pMat);
         
         // İlk doğuş pozisyonu
@@ -467,12 +467,23 @@ function animate() {
 
   if (meshKA && meshHA && meshKB && meshHB) {
                 // 🔑 Clear of any foreign artifacts, pure symmetric AC multi-vortex firing
+ // ⚡ MULTI-LAYER ZIT FAZLI AC ATESLEME MOTORU
                 [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
-                    ["UP", "CENTER", "DOWN"].forEach(katman => {
-                        let paket = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman);
-                        paket.hedefId = p.d.id; 
-                        aktifPaketler.push(paket);
-                    });
+                    // 🔑 FAZ SENSÖRÜ: B akımına 4 karelik (180 derece) faz farkı ekleyerek renk çakışmasını ve dalga nötrlemesini kökten kırar!
+                    const fazRölesi = p.t === "A" ? 0 : 4;
+                    const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
+
+                    if (kanalRitmi) {
+                        ["UP", "CENTER", "DOWN"].forEach(katman => {
+                            let paket = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman);
+                            paket.hedefId = p.d.id; 
+                            aktifPaketler.push(paket);
+                        });
+                        
+                        // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
+                        if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
+                        if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+                    }
                 });
 
                 // 🔑 SEKANSI SERBEST BIRAK: Paketler fırlatıldığı AN indeksler bağımsız kayar!
