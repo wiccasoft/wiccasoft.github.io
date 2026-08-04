@@ -513,7 +513,7 @@ initElementKutuplari() {
 
              // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35) materyali klonla ve opaklığını sıfırla!
     if (this.radius === 0.35) { iskeletMat.transparent = true; iskeletMat.opacity = 0.0; }
-    
+
             const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
 
             // 🌀 ALTIN ORAN PİRAMİT SPİRAL DAĞILIMI
@@ -626,6 +626,30 @@ updateVortex(galaktikZaman) {
                 }
             });
         }
+
+         // 🔑 OBJE İÇİ SAF MÜHÜRLENME: Çekirdek (0.35) katmanının saniyede 60 kez ezilmesini kesin olarak engelliyoruz
+    if (this.radius === 0.35) {
+        // Çekirdek nesne grubunun altındaki tüm kılcal damarları (çizgiler, odalar, kafesler) tarar
+        this.group.traverse((altObje) => {
+            if (altObje.material) {
+                altObje.material.transparent = true;
+                altObje.material.opacity = 0.0; // 💡 Her karede zorla TAMAMEN SAYDAM yapar!
+                if (altObje.material.emissiveIntensity !== undefined) {
+                    altObje.material.emissiveIntensity = 0.0; // İç plazma ışımalarını da söndürür
+                }
+            }
+        });
+        
+        // Harici referans dizisinde tutulan 9'lu omurga odalarını da kesin olarak sıfırlar
+        if (this.dinamikCubes) {
+            this.dinamikCubes.forEach(kure => {
+                if (kure.material) {
+                    kure.material.transparent = true;
+                    kure.material.opacity = 0.0;
+                }
+            });
+        }
+    }
     }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
