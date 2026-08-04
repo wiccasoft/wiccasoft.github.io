@@ -24,6 +24,7 @@ canvas {
 
 <script src="./three.min.js"></script>
 <script src="./OrbitControls.js"></script>
+  
 <script>
 
 
@@ -95,13 +96,13 @@ function setPoles(northName, southName) {
   scene.add(currentAxis);
 }
   // Ortografik kamera
-  const aspect = window.innerWidth / window.innerHeight;
-  const d = 2;
-  const camera = new THREE.OrthographicCamera(
+const aspect = window.innerWidth / window.innerHeight;
+const d = 0.5; // Kadraj görünüm oranı 150px'e tam oturtuldu
+const camera = new THREE.OrthographicCamera(
     -d * aspect, d * aspect, d, -d, 0.1, 1000
-  );
-  camera.position.set(5, 5, 5);
-  camera.lookAt(0, 0, 0);
+);
+camera.position.set(5, 5, 5);
+camera.lookAt(0, 0, 0);
 
   const renderer = new THREE.WebGLRenderer({antialias:true});
   renderer.setSize(window.innerWidth, window.innerHeight);
@@ -272,13 +273,18 @@ spheres.forEach(s => {
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
   
   // Siyah ve Beyaz kutup mili kalıcı parlar, diğer odalar (124875) başlangıçta loş ve saydamdır
-  const mat = new THREE.MeshPhongMaterial({
+const mat = new THREE.MeshPhongMaterial({
     color: s.color,
     emissive: s.color,
-    emissiveIntensity: s.isPole ? 1.0 : 0.05, // Başlangıçta neredeyse sıfır emisyon
+    emissiveIntensity: s.isPole ? 1.0 : 0.3,
     transparent: true,
-    opacity: s.isPole ? 1.0 : 0.15           // Başlangıçta %15 alfa (yarı saydam cam kafes)
-  });
+    opacity: s.isPole ? 1.0 : 0.45, 
+    
+    // 🔑 KESİK GÖRÜNME SORUNUNU ÇÖZEN MATRİS AYARLARI
+    depthWrite: false,   // Kürelerin arkasındaki çizgilerin (Kafes, Tetrahedron) görünmesini sağlar, kesilmeyi bitirir.
+    depthTest: true,     // Nesnelerin derinlik algısını korur.
+    precision: "highp"   // GPU'nun piksel hesaplama hassasiyetini en üst seviyeye çıkarır.
+});
   
   const sphere = new THREE.Mesh(geom, mat);
   sphere.position.copy(s.pos);
@@ -287,42 +293,31 @@ spheres.forEach(s => {
 });
 
 // Küre materyali (saydam)
-const sphereMaterial = new THREE.MeshPhongMaterial({
+/*const sphereMaterial = new THREE.MeshPhongMaterial({
   color: 0xffffff,
   transparent: true,
   opacity: 0.25
 });
+*/
 
 // Merkezde ana küre
-const centerSphereGeom = new THREE.SphereGeometry(0.3, 32, 32);
-const centerSphereMat = new THREE.MeshPhongMaterial({
+//const centerSphereGeom = new THREE.SphereGeometry(0.3, 32, 32);
+/*const centerSphereMat = new THREE.MeshPhongMaterial({
   color: 0xffffff,
   emissive: 0xff00ff,
   emissiveIntensity: 0.6,
   transparent: true,
   opacity: 0.4
 });
-
-const centerSphere = new THREE.Mesh(centerSphereGeom, centerSphereMat);
-centerSphere.position.set(0,0,0);
-scene.add(centerSphere);
+*/
+//const centerSphere = new THREE.Mesh(centerSphereGeom, centerSphereMat);
+//centerSphere.position.set(0,0,0);
+//scene.add(centerSphere);
 
 // 6 küreyi etrafına yerleştir
-const offsets = [
-  new THREE.Vector3(0.5,0,0),   // sağ
-  new THREE.Vector3(-0.5,0,0),  // sol
-  new THREE.Vector3(0,0.5,0),   // üst
-  new THREE.Vector3(0,-0.5,0),  // alt
-  new THREE.Vector3(0,0,0.5),   // ön
-  new THREE.Vector3(0,0,-0.5)   // arka
-];
+//const offsets = [];
 
-offsets.forEach(pos => {
-  const sphereGeom = new THREE.SphereGeometry(0.3, 32, 32);
-  const sphere = new THREE.Mesh(sphereGeom, sphereMaterial.clone());
-  sphere.position.copy(pos);
-  scene.add(sphere);
-});
+//offsets.forEach(pos => {sphere.visible = false; scene.add( sphere);});
 
 
 // Top view butonu için
@@ -382,7 +377,12 @@ let aktifIndexB = 0;
 // ============================================================================
 // BÖLÜM 2: JROSKOPİK DÖNÜŞ MOTORU VE ANİMASYON DÖNGÜSÜ (Satır 312 - SONU)
 // ============================================================================
+// ============================================================================
 let globalDönüşHızı = 0.005; // Kararlı baseline dönüş momentumu
+
+const hedefFPS = 25;
+const kareAralığı = 1000 / hedefFPS; // 40ms
+let sonKareZamanı = performance.now();
 
 // ============================================================================
 // BÖLÜM 4: ADIM ADIM TETİKLENEN GLUON VE AŞAMALI ROTASYON MOTORU
@@ -391,17 +391,34 @@ const clock = new THREE.Clock();
 
 function animate() {
     requestAnimationFrame(animate);
+
+      // 🛠 25 FPS Zaman Bazlı Filtreleme
+    const şimdikiZaman = performance.now();
+    const geçenSüre = şimdikiZaman - sonKareZamanı;
+
+    if (geçenSüre < kareAralığı) return; // Süre dolmadıysa kareyi atla
+    
+   // Geçen süreyi saniyeye çevirerek delta olarak kilitliyoruz (40ms = 0.04s)
+    const sabitDelta = geçenSüre / 1000; 
+    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
     const delta = clock.getDelta();
 
     // Dönen Kafes İçindeki Canlı Kutup Odalarını Yakala
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
 
+    // 1. DÜZELTME: Kararlı baseline dönüş momentumunu aktif et (Kafes sürekli dönsün)
+    if (beyazKutupObj && siyahKutupObj) {
+        const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
+        //KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
+    }
+
+    // 2. DÜZELTME: Güvenlik kontrolü aralığını daralttık. 
+    // Sadece paket fırlatırken ve hareket ettirirken kontrollü koruma sağlıyoruz.
     if (beyazKutupObj && siyahKutupObj) {
         
         // --- 1. ÇİFT GLUON TETİKLEME (Saat Yönü ve Ters Yön Aynı Anda) ---
         if (aktifPaketler.length === 0) {
-            // A Tarafı: Saat Yönünün Tersi Akış (1->2->4->8->7->5)
             let mevcutIdA = rodinDizisiA[aktifIndexA];
             let sonrakiIdA = rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length];
             let kaynakDataA = spheres.find(o => o.id === mevcutIdA);
@@ -409,7 +426,6 @@ function animate() {
             let canlıKaynakMeshA = KuantumKafesi.getObjectByName(kaynakDataA.name);
             let canlıHedefMeshA = KuantumKafesi.getObjectByName(hedefDataA.name);
 
-            // B Tarafı: Saat Yönü Ters Pompa Akış (5->7->8->4->2->1)
             let mevcutIdB = rodinDizisiB[aktifIndexB];
             let sonrakiIdB = rodinDizisiB[(aktifIndexB + 1) % rodinDizisiB.length];
             let kaynakDataB = spheres.find(o => o.id === mevcutIdB);
@@ -418,13 +434,11 @@ function animate() {
             let canlıHedefMeshB = KuantumKafesi.getObjectByName(hedefDataB.name);
 
             if (canlıKaynakMeshA && canlıHedefMeshA && canlıKaynakMeshB && canlıHedefMeshB) {
-                // Gluon A fırlatılıyor (Hedef odanın öz renginde)
                 let yeniPaketA = new KuantumPaketi(canlıKaynakMeshA, canlıHedefMeshA, hedefDataA.color);
                 yeniPaketA.hedefId = sonrakiIdA;
                 yeniPaketA.tip = "A";
                 aktifPaketler.push(yeniPaketA);
 
-                // Gluon B fırlatılıyor (Ters yön, hedef odanın öz renginde)
                 let yeniPaketB = new KuantumPaketi(canlıKaynakMeshB, canlıHedefMeshB, hedefDataB.color);
                 yeniPaketB.hedefId = sonrakiIdB;
                 yeniPaketB.tip = "B";
@@ -436,9 +450,8 @@ function animate() {
         let turuTamamla = false;
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
-            paket.guncelle(delta);
+              paket.guncelle(sabitDelta);
 
-            // Parçacıklardan herhangi biri odasına tam ulaştığında
             if (paket.ilerleme >= 1.0) {
                 let hedefData = spheres.find(o => o.id === paket.hedefId);
                 let hedefMesh = KuantumKafesi.getObjectByName(hedefData.name);
@@ -454,38 +467,46 @@ function animate() {
             }
         }
 
-        // Eğer paketler hedeflerine ulaştıysa kalbi bir tık attır ve sonraki odalara geç
         if (turuTamamla && aktifPaketler.length === 0) {
-            // Beyaz-Siyah mili üzerinden aşamalı tek bir tık bükülme dönüşü
-            const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
-            //KuantumKafesi.rotateOnAxis(anaAksVektoru, 0.15);
-
             // İki bağımsız döngü indeksini de bir adım ileri kaydır
             aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
             aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
         }
-
-        // --- 3. DEŞARJ DÖNGÜSÜ (Odaların sönmesi ve şeffaflaşması) ---
-        spheres.forEach(s => {
-            if (!s.isPole) {
-                let odaMesh = KuantumKafesi.getObjectByName(s.name);
-                if (odaMesh) {
-                    if (odaMesh.material.emissiveIntensity > 0.05) {
-                        odaMesh.material.emissiveIntensity -= delta * 4.0;
-                    }
-                    if (odaMesh.material.opacity > 0.15) {
-                        odaMesh.material.opacity -= delta * 2.5;
-                    }
-                }
-            }
-        });
     }
 
+    // --- 3. DEŞARJ DÖNGÜSÜ (Güvenlik bloğunun dışına alındı, odalar her koşulda sönebilecek) ---
+spheres.forEach(s => {
+    let odaMesh = KuantumKafesi.getObjectByName(s.name);
+    if (odaMesh && !s.isPole) {
+        // 🔑 KRİTİK EKLEME: Parlama ışığı da zamanla sönmeli ki renk doygunluğu korunsun
+        if (odaMesh.material.emissiveIntensity > 0.3) {
+            odaMesh.material.emissiveIntensity -= sabitDelta * 20.0;
+        }
+
+        // Akıllı kademeli opaklık sönmesi (Yaşam Çiçeği formu)
+        if (odaMesh.material.opacity > 0.15) {
+            let sonmeHizi = (odaMesh.material.opacity > 0.35) ? 0.2 : 1.5;
+            odaMesh.material.opacity -= sabitDelta * sonmeHizi;
+        }
+    }
+});
+
+    // --- Render ve Kontroller tamamen bağımsız çalışmalı ---
     if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
 }
 
-// Motoru ateşle
+  // 🔑 25 FPS KORUMA VE BOYUTLANDIRMA SENSÖRÜ 
+window.addEventListener('resize', () => {
+    const yeniAspect = window.innerWidth / window.innerHeight;
+    camera.left = -d * yeniAspect;
+    camera.right = d * yeniAspect;
+    camera.top = d;
+    camera.bottom = -d;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
+// fire the engine
 animate();
 </script>
 </body>
