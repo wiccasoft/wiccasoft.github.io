@@ -660,18 +660,20 @@ updateVortex(galaktikZaman) {
 function animate() {
     requestAnimationFrame(animate);
 
-    // 1️⃣ updateVortex fonksiyonunu çağırarak temel sistemi tetikliyoruz
+    // 1️⃣ Run the base engine loop to keep everything synchronized
     metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
 
-    // 🏆 SEED MANTIĞI: Sadece merkezdeki isimlendirdiğimiz topları yakalayıp opaklığını 0 yapıyoruz
-    if (metatronMatrisi[0]) {
+    // 🏆 2️⃣ SEED-BASED TARGETED OPACITY CONTROL (0.35 Core Only)
+    // We isolate the core instance safely at index [0] to prevent black screen errors
+    if (metatronMatrisi && metatronMatrisi[0]) {
         metatronMatrisi[0].group.traverse((obj) => {
-            // Sadece etiketlediğimiz o merkez odalarını hedef alıyoruz, diğer hiçbir şeye dokunmuyoruz
+            // Target only the specific white spheres we tagged as "cekirdek_odasi"
             if (obj.name === "cekirdek_odasi" && obj.material) {
                 obj.material.transparent = true;
-                obj.material.opacity = 0.0; // 🔑 Sadece merkez toplar tamamen saydam ve görünmez kalır!
+                obj.material.opacity = 0.0; // 🔑 Perfect vacant center transparency
+                
                 if (obj.material.emissiveIntensity !== undefined) {
-                    obj.material.emissiveIntensity = 0.0; // İç ışık patlamasını da söndürür
+                    obj.material.emissiveIntensity = 0.0; // Shuts off internal plasma glow leakage
                 }
             }
         });
