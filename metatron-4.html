@@ -150,6 +150,9 @@ function drawMetatronAxes(ctx, centerX, centerY, n, baseRadius) {
                 
                 // Inverse Square Law density multiplier (1 / r²)
                 this.energyDensity = 1.0 / Math.pow(this.radius, 2);
+
+                    // 🔑 ÇEKİRDEK KONTROLÜ: Sadece en iç katman (0.35) çekirdektir
+                 this.isCore = (baseSize === 0.35); 
                 
                 // Structural array arrays
                 this.internalCubes = [];
