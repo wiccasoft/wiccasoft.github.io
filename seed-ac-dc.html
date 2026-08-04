@@ -468,20 +468,23 @@ function animate() {
   if (meshKA && meshHA && meshKB && meshHB) {
                 // 🔑 Clear of any foreign artifacts, pure symmetric AC multi-vortex firing
  // ⚡ MULTI-LAYER ZIT FAZLI AC ATESLEME MOTORU
-               [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
-                    
-                    // 🔑 İŞTE SİSTEMİ AÇAN O 4 SATIR (Binary Kutuplama):
-                    let katman1 = p.t === "A" ? "UP" : "DOWN";
-                    let paket1 = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman1); paket1.hedefId = p.d.id; aktifPaketler.push(paket1);
-                    let katman2 = p.t === "A" ? "DOWN" : "UP";
-                    let paket2 = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman2); paket2.hedefId = p.d.id; aktifPaketler.push(paket2);
+                [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
+                    // 🔑 FAZ SENSÖRÜ: B akımına 4 karelik (180 derece) faz farkı ekleyerek renk çakışmasını ve dalga nötrlemesini kökten kırar!
+                    const fazRölesi = p.t === "A" ? 0 : 4;
+                    const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
+                    if (kanalRitmi) {
+                        ["UP", "CENTER", "DOWN"].forEach(katman => {
+                            let paket = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman);
+                            paket.hedefId = p.d.id; 
+                            aktifPaketler.push(paket);
+                        });
+                        
+                        // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
+                        if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
+                        if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+                    }
                 });
-
-                // İndeksleri bağımsız kaydır (Mükerrer artışlar olmadan, tekil ve kararlı)
-                aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-                aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
-            }
 
                 // 🔑 SEKANSI SERBEST BIRAK: Paketler fırlatıldığı AN indeksler bağımsız kayar!
  // 🔑 SEKANSI SERBEST BIRAK: A namlusu ileri kayarken, B namlusu matematiksel olarak geriye kayar!
