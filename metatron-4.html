@@ -179,13 +179,13 @@ initMekanizma() {
                     const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
                     const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
                     // Çekirdeğin içindeki odaları (küreleri) saydamlaştıran materyal ayarı:
-const b_mat = new THREE.MeshPhongMaterial({
-    color: this.isCore ? 0xffffff : 0xffffff,       // Çekirdek odaları beyaz tabanlı kalır
-    emissive: this.isCore ? 0x444444 : 0xffffff,    // Işıma şiddeti çekirdekte azaltılır
-    transparent: true,                              // 🔑 Saydamlık modunu aktif eder
-    opacity: this.isCore ? 0.20 : 0.85,             // 🔑 Çekirdek odalarını %20 görünür (aşırı saydam) yapar
-    blending: THREE.NormalBlending                  // Işık geçirgenliği rezonansı
-});
+                    // Çekirdeğin içindeki küreleri tamamen saydam yapan yeni materyal ayarı:
+                  // Karmaşık ışık ayarları kaldırıldı, sadece saf şeffaflık (opacity) kontrolü:
+            const b_mat = new THREE.MeshBasicMaterial({
+                color: 0xffffff,      // Saf renksiz nötr taban
+                transparent: true,    // Şeffaflık modunu açar
+                opacity: 0.15         // Sadece bu değeri değiştirerek görünürlüğü ayarlayabilirsin
+            });
                     const b_mesh = new THREE.Mesh(b_geom, b_mat);
                     b_mesh.position.copy(pos);
                     this.group.add(b_mesh);
@@ -572,58 +572,70 @@ initElementKutuplari() {
 
 
 updateVortex(galaktikZaman) {
-        // 🌀 TESLA 124875 VE GALAKTİK WAVESPELL MOTORU DURDURULDU (SABİT DENGE)
-        
-        // 1️⃣ Küpler Kütlesel Olarak Durağan
-        this.coreCube.rotation.set(0, 0, 0);
-        this.outerCube.rotation.set(0, 0, 0);
+    // 🌀 TESLA GALAKTİK WAVESPELL MOTORU DİNAMİK AKIM MODU
+    
+    // 1️⃣ Küpler Kütlesel Olarak Durağan
+    this.coreCube.rotation.set(0, 0, 0);
+    this.outerCube.rotation.set(0, 0, 0);
+    
+    // 2️⃣ Sqrt(2) Diagonal Aks Kilitleri
+    let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
+    this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
+    this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
+    if (this.poleA.material && this.poleB.material) {
+        this.poleA.material.emissiveIntensity = 1.0;
+        this.poleB.material.emissiveIntensity = 1.0;
+    }
+    
+    // 3️⃣ 🧠 ÇEKİRDEK ODALARI SERBEST BIRAKILDI
+    // Bu bloğun içindeki zoraki opacity ve emissive renk ezmeleri tamamen silindi!
+    this.internalCubes.forEach((coreNode) => {
+        coreNode.scale.setScalar(1.0);
+        // Artık initMekanizma'da verdiğin opacity: 0.15 değeri asla ezilmez, sabit kalır.
+    });
 
-        // 2️⃣ Sqrt(2) Diagonal Aks Kilitleri
-        let radiusOffset = this.radius * Math.sqrt(2) * 0.5;
-        this.poleA.position.set(radiusOffset, radiusOffset, radiusOffset);
-        this.poleB.position.set(-radiusOffset, -radiusOffset, -radiusOffset);
-        
-        if (this.poleA.material && this.poleB.material) {
-            this.poleA.material.emissiveIntensity = 1.0;
-            this.poleB.material.emissiveIntensity = 1.0;
-        }
-
-        // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI (Işık patlamaları kapatıldı, asil görünüm korundu)
-        this.internalCubes.forEach((coreNode) => {
-            coreNode.scale.setScalar(1.0);
-            if (coreNode.material) {
-                coreNode.material.emissive.setHex(0x222222);
-                coreNode.material.emissiveIntensity = 1.0;
-                coreNode.material.opacity = 0.70;
+    // ⚡ 4️⃣ AKS AKIM MOTORU: Ateş Sola (Saat Yönü Tersi), Toprak Sağa (Saat Yönü) Dönüyor
+    // initElementKutuplari'nda yaratılan spinElemanlari üzerinde tork yönlerini uyguluyoruz
+    if (this.spinElemanlari) {
+        const akimHizi = 0.015; // Akım dönüş hızını buradan ayarlayabilirsin
+        this.spinElemanlari.forEach((eleman) => {
+            const vYon = eleman.userData.aksVektoru;
+            
+            if (eleman.userData.isAnaAks) { 
+                // Kırmızı (Ateş) aksı sola (Pozitif tork) döner
+                eleman.rotateOnAxis(vYon, akimHizi); 
+            } else if (eleman.userData.aksVektoru.x === 1) { 
+                // Sarı (Toprak) aksı tam tersi yöne, sağa (Negatif tork) döner
+                eleman.rotateOnAxis(vYon, -akimHizi); 
             }
         });
-
-        // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
-        this.zamanOdaları.forEach((node, index) => {
-            let baseAngle = (index * Math.PI * 2) / 13;
-            node.position.set(Math.cos(baseAngle) * this.radius * 1.3, 0, Math.sin(baseAngle) * this.radius * 1.3);
-            if (node.material) node.material.opacity = 0.15; // Görünürlük hafif artırılarak sabitlendi
-        });
-
-        this.yasamCicegiHalkalari.forEach((halka) => {
-            if (halka.material) halka.material.opacity = 0.20;
-            halka.rotation.z = 0;
-        });
-
-        // 5️⃣ Dış Icosahedron Kabuğu Renk Spektrumu Sabitlendi
-        if (this.icoOdaları) {
-            this.icoOdaları.forEach((node) => {
-                let orijinalRenk = node.userData.originalColor || 0xff00ff;
-                node.scale.setScalar(1.0);
-                if (node.material) {
-                    node.material.color.setHex(orijinalRenk);
-                    node.material.emissive.setHex(orijinalRenk);
-                    node.material.emissiveIntensity = 0.8;
-                    node.material.opacity = 0.70;
-                }
-            });
-        }
     }
+    
+    // 5️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
+    this.zamanOdaları.forEach((node, index) => {
+        let baseAngle = (index * Math. PI * 2) / 13;
+        node.position.set(Math.cos(baseAngle) * this.radius * 1.3, 0, Math.sin(baseAngle) * this.radius * 1.3);
+        if (node.material) node.material.opacity = 0.15;
+    });
+    this.yasamCicegiHalkalari.forEach((halka) => {
+        if (halka.material) halka.material.opacity = 0.20;
+        halka.rotation.z = 0;
+    });
+    
+    // 6️⃣ Dış Icosahedron Kabuğu Renk Spektrumu Sabitlendi
+    if (this.icoOdaları) {
+        this.icoOdaları.forEach((node) => {
+            let orijinalRenk = node.userData.originalColor || 0xff00ff;
+            node.scale.setScalar(1.0);
+            if (node.material) {
+                node.material.color.setHex(orijinalRenk);
+                node.material.emissive.setHex(orijinalRenk);
+                node.material.emissiveIntensity = 0.8;
+                node.material.opacity = 0.70;
+            }
+        });
+    }
+}
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
         // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
