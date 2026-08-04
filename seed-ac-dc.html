@@ -457,11 +457,11 @@ function animate() {
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
 
             if (meshKA && meshHA && meshKB && meshHB) {
-                [ {s: meshKA, h: meshHA, d: hedefA, t: "A"}, {s: meshKB, h: meshHB, d: hedefB, t: "B"} ].forEach(p => {
-                    let paket = new KuantumPaketi(p.s, p.h, p.d.color);
-                    paket.hedefId = p.d.id; paket.tip = p.t;
-                    aktifPaketler.push(paket);
-                });
+              [ { s: meshKA, h: meshHA, d: hedefA, t: "A"}, { s: meshKB, h: meshHB, d: hedefB, t: "B"} ]. forEach( p => {
+    let paket = new KuantumPaketi( p. s, p. h, p. d. color);
+    paket. hedefId = p. d. id; paket. tip = p. t;
+    aktifPaketler. push( paket);
+});
             }
         }
 
