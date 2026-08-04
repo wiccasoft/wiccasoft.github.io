@@ -412,53 +412,46 @@ function animate() {
     if (geçenSüre < kareAralığı) return; 
 
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
-    const sabitDelta = 1 / hedefFPS; // Sabit 0.04s
+    const sabitDelta = 1 / hedefFPS; 
 
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
-
-    // === ⚡ 3 VE 6 KUTUPSAL (+ / -) ELEKTROMANYETİK DÖNGÜSÜ ===
-    const zamanSinyali = performance.now() * 0.005; // Döngü hızı
+    const zamanSinyali = performance.now() * 0.005; 
 
     if (beyazKutupObj && siyahKutupObj) {
-        // 3 (Beyaz Kutup) -> (+) Fazı
+        // === ⚡ 3 VE 6 KUTUPSAL (+ / -) ELEKTROMANYETİK OSİLASYONU ===
         beyazKutupObj.material.emissiveIntensity = 0.9 + Math.sin(zamanSinyali) * 0.6;
         beyazKutupObj.material.opacity = 0.6 + Math.sin(zamanSinyali) * 0.3;
 
-        // 6 (Siyah Kutup) -> (-) Fazı
         siyahKutupObj.material.emissiveIntensity = 0.9 - Math.sin(zamanSinyali) * 0.6;
         siyahKutupObj.material.opacity = 0.6 - Math.sin(zamanSinyali) * 0.3;
 
         // === ⚡ SWASTIKA VE BAĞIMSIZ ÇİFT YÖNLÜ AC ATESLEME MOTORU ===
-        if (aktifPaketler.length === 0) {
-            [
+        [
             { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
-            { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length } // 🔑 { EKLENDİ
+            { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length }
         ].forEach(p => {
-                if (!aktifPaketler.some(x => x.tip === p.t)) { 
-                        let kData = spheres.find(o => o.id === p.dizi[p.idx]);
-    
-    // 🔑 İŞTE O BÜYÜLÜ 2 SATIR: B akımının hedefini matematiksel olarak geriye mühürle!
-    let sonrakiSira = p.t === "A" ? (p.idx + 1) % p.dizi.length : (p.idx - 1 + p.dizi.length) % p.dizi.length;
-    let hData = spheres.find(o => o.id === p.dizi[sonrakiSira]);
-                    
-                    if (kData && hData) {
-                        let mK = KuantumKafesi.getObjectByName(kData.name);
-                        let mH = KuantumKafesi.getObjectByName(hData.name);
+            if (!aktifPaketler.some(x => x.tip === p.t)) { 
+                let kData = spheres.find(o => o.id === p.dizi[p.idx]);
+                let sonrakiSira = p.t === "A" ? (p.idx + 1) % p.dizi.length : (p.idx - 1 + p.dizi.length) % p.dizi.length;
+                let hData = spheres.find(o => o.id === p.dizi[sonrakiSira]);
+                
+                if (kData && hData) {
+                    let mK = KuantumKafesi.getObjectByName(kData.name);
+                    let mH = KuantumKafesi.getObjectByName(hData.name);
 
-                        if (mK && mH) {
-                            let paket = new KuantumPaketi(mK, mH, hData.color);
-                            paket.hedefId = hData.id; 
-                            paket.tip = p.t;
-                            aktifPaketler.push(paket); // Parçacık doğdu
-                            p.nextIdx(); // İndeks bağımsız ilerler
-                        }
+                    if (mK && mH) {
+                        let paket = new KuantumPaketi(mK, mH, hData.color);
+                        paket.hedefId = hData.id; 
+                        paket.tip = p.t;
+                        aktifPaketler.push(paket); 
+                        p.nextIdx(); 
                     }
                 }
-            });
-        }
+            }
+        });
 
-        // --- 🚀 PARÇACIK GÜNCELLEME (KİLİT PARANTEZLERİNDEN KURTARILDI) ---
+        // --- 🚀 PARÇACIK GÜNCELLEME MOTORU ---
         let turuTamamla = false;
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
@@ -478,14 +471,12 @@ function animate() {
             }
         }
         
-// === ⚡ AYNA SİMETRİSİ ENKAPSÜLASYONU ===
-if (turuTamamla && aktifPaketler.length === 0) {
-    aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-    
-    // 🔑 B'nin namlusunu da matematiksel olarak geriye mühürle!
-    aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
-}
+        // === ⚡ AYNA SİMETRİSİ ENKAPSÜLASYONU ===
+        if (turuTamamla && aktifPaketler.length === 0) {
+            // İndeksler yukarıda p.nextIdx() ile zaten doğru yönlerde güncelleniyor.
+        }
     }
+
     // 3. DEŞARJ DÖNGÜSÜ
     spheres.forEach(s => {
         let odaMesh = KuantumKafesi.getObjectByName(s.name);
