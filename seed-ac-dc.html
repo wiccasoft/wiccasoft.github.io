@@ -345,12 +345,13 @@ function setTopView(camera, controls) {
 }
 
 // ============================================================================
-// BÖLÜM 3: 124875 GİRDAP VERİ PAKETİ SINIFI (Satır 309 - 312 ARASI)
+// DOBLE VORTEX DATA SET
 // ============================================================================
 class KuantumPaketi {
-     constructor(kaynakMesh, hedefMesh, renk) {
-        this.kaynak = kaynakMesh; this.hedef = hedefMesh;
-        this.ilerleme = 0.0;
+    constructor(kaynakMesh, hedonMesh, renk) {
+        this.kaynak = kaynakMesh; this.hedef = hedonMesh;
+        this.ilerleme = 0.0; this.tip = "A"; this.hedefId = null;
+        // Parçacık geometrisi ve materyali
         const pGeom = new THREE.SphereGeometry(0.04, 8, 8);
         const pMat = new THREE.MeshBasicMaterial({ color: renk });
         this.mesh = new THREE.Mesh(pGeom, pMat);
@@ -358,16 +359,24 @@ class KuantumPaketi {
         KuantumKafesi.add(this.mesh);
     }
     guncelle(delta) {
-        this.ilerleme += delta * 1.5; // Hız ayarı
-        this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, this.ilerleme);
+        // 🚀 KEPPLER İVMELENMESİ & 🌀 SWASTIKA MİKRO SARMALI
+        let dinamikIvme = 1.8 + Math.sin(this.ilerleme * Math.PI) * 1.5;
+        this.ilerleme += delta * dinamikIvme;
+        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.12; 
+        let yonKatsayisi = this.tip === "A" ? 1 : -1;
+        // Bükümlü yörünge hesaplaması
+        this.mesh.position.set(
+            merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
+            merkezPos.y + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu,
+            merkezPos.z + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi
+        );
     }
 }
 
 
-
-
 // ============================================================================
-// BÖLÜM 4: DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
+// DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
 // ============================================================================
 // Global veri paket takibi dizisi ve Rodin dizilimi
 let aktifPaketler = [];
