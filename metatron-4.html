@@ -181,9 +181,13 @@ initMekanizma() {
                 koseler.forEach((v) => {
                     const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
                     const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
-                    // Çekirdeğin içindeki odaları (küreleri) saydamlaştıran materyal ayarı:
-                    // Çekirdeğin içindeki küreleri tamamen saydam yapan yeni materyal ayarı:
-                  // Karmaşık ışık ayarları kaldırıldı, sadece saf şeffaflık (opacity) kontrolü:
+                       // 🔑 Sadece en içteki çekirdek katmanını (0.35) saydam, diğerlerini opak yapıyoruz
+    if (this.radius === 0.35) { 
+        b_mat = new THREE.MeshBasicMaterial({ opacity: 0.15, transparent: true });
+    } else {
+        b_mat = new THREE.MeshPhongMaterial({ opacity: 0.85, transparent: true });
+    }
+
             const b_mat = new THREE.MeshBasicMaterial({
                 color: 0xffffff,      // Saf renksiz nötr taban
                 transparent: true,    // Şeffaflık modunu açar
@@ -592,27 +596,24 @@ updateVortex(galaktikZaman) {
     
     // 3️⃣ 🧠 ÇEKİRDEK ODALARI SERBEST BIRAKILDI
     // Bu bloğun içindeki zoraki opacity ve emissive renk ezmeleri tamamen silindi!
-    this.internalCubes.forEach((coreNode) => {
-        coreNode.scale.setScalar(1.0);
-        // Artık initMekanizma'da verdiğin opacity: 0.15 değeri asla ezilmez, sabit kalır.
-    });
+   this.internalCubes.forEach((coreNode) => {
+    // ... ölçekleme işlemleri ...
+    if (coreNode.material) {
+        // Çekirdeğin saydamlığı korunsun, dış katmanlar opak kalsın
+        coreNode.material.opacity = (this.radius === 0.35) ? 0.15 : 0.70; 
+    }
+});
 
     // ⚡ 4️⃣ AKS AKIM MOTORU: Ateş Sola (Saat Yönü Tersi), Toprak Sağa (Saat Yönü) Dönüyor
     // initElementKutuplari'nda yaratılan spinElemanlari üzerinde tork yönlerini uyguluyoruz
-    if (this.spinElemanlari) {
-        const akimHizi = 0.015; // Akım dönüş hızını buradan ayarlayabilirsin
-        this.spinElemanlari.forEach((eleman) => {
-            const vYon = eleman.userData.aksVektoru;
-            
-            if (eleman.userData.isAnaAks) { 
-                // Kırmızı (Ateş) aksı sola (Pozitif tork) döner
-                eleman.rotateOnAxis(vYon, akimHizi); 
-            } else if (eleman.userData.aksVektoru.x === 1) { 
-                // Sarı (Toprak) aksı tam tersi yöne, sağa (Negatif tork) döner
-                eleman.rotateOnAxis(vYon, -akimHizi); 
-            }
-        });
-    }
+if (this.spinElemanlari) {
+    const akimHizi = 0.015;
+    this.spinElemanlari.forEach((eleman) => {
+        // Ana aks (Ateş) sola, diğer aks (Toprak) sağa döner
+        const yon = eleman.userData.isAnaAks ? 1 : -1;
+        eleman.rotateOnAxis(eleman.userData.aksVektoru, akimHizi * yon);
+    });
+}
     
     // 5️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
     this.zamanOdaları.forEach((node, index) => {
