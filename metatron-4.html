@@ -185,7 +185,7 @@ initMekanizma() {
                         transparent: true,
                         opacity: 0.85
                     });
-                    const b_mesh = new THREE.Mesh(b_geom, b_mat);
+                    const b_mesh = new THREE.Mesh(b_geom, b_mat.clone());
                     b_mesh.position.copy(pos);
 
                     // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35), küreleri sahneye HİÇ EKLEME!
@@ -648,15 +648,15 @@ this.internalCubes.forEach((coreNode) => {
         });
 
         // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
-        function animate() {
-            requestAnimationFrame(animate);
+function animate() {
+    requestAnimationFrame(animate);
 
-            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
-            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
+    // 🔑 updateVortex fonksiyonunu çağırarak opaklık kurallarını devreye alıyoruz:
+    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
 
-            controls.update();
-            renderer.render(scene, camera);
-        }
+    controls.update();
+    renderer.render(scene, camera);
+}
 
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
