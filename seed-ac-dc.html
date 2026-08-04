@@ -493,15 +493,26 @@ if (meshKA && meshHA && meshKB && meshHB) {
                     const fazRölesi = p.t === "A" ? 0 : 4;
                     const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
-                    if (kanalRitmi) {
-                        // 🔑 TEKİL BİNARY GLUON: Katman yığınları tamamen kazındı!
-                        // Sahnede sadece 1 adet İleri (A) ve 1 adet Geri (B) akan saf tekil kuanta dolaşır.
+if (kanalRitmi) {
+                        // 🔑 GLUON UYKU MODU: Parçacık üretimi tamamen kapatıldı.
+                        // Sahnede mermi koşturmak yerine sadece odaların kendi öz frekans döngüleri izlenir!
+                        
+                        /* -- Gluon fırlatma motoru şimdilik kapatıldı --
                         let katmanSaf = "CENTER"; 
                         let paketSaf = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katmanSaf); 
                         paketSaf.hedefId = p.d.id; 
                         aktifPaketler.push(paketSaf);
+                        ------------------------------------------------- */
 
-                        // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
+                        // ⚡ GEZEGEN PERİYOT FREKANSI: Odaları doğrudan bu ritimle şarj et!
+                        // A akımı (Kırmızı-Sarı-Mavi) odasına dokunduğu AN o odayı parlatır
+                        let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
+                        if (odaMesh) {
+                            odaMesh.material.emissiveIntensity = 4.0;
+                            odaMesh.material.opacity = 1.0;
+                        }
+
+                        // İndeksler (Gezegen yörünge çarkları) arka planda dönmeye devam eder
                         if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
                         if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
                     }
