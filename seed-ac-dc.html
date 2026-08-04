@@ -394,34 +394,36 @@ class KuantumPaketi {
         KuantumKafesi.add(this.mesh);
     }
 
- guncelle(delta) {
-        // 🚀 ASYMMETRIC FIELD SPEEDS: Stream A runs standard, Stream B spins with a fractional velocity offset
-        // 🚀 10 KAT ZAMAN YAVAŞLATICI (Kozmik Ağır Çekim Mühürü)
-        // Hız katsayıları yumuşatıldı ve delta zamanı 0.1 ile çarpılarak sistem 10 kat yavaşlatıldı!
-        let hizKatsayisi = this.tip === "A" ? 1.2 : 1.5;
+guncelle(delta) {
+        // 🔑 ABSOLUTE SYMMETRY UNIFICATION: Both streams now share the exact same speed limits
+        let hizKatsayisi = 1.6; // Fully unified velocity constant
         let dalgaliIvme = 0.5 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
         
-        // 🔑 İŞTE O YAVAŞLATAN ÇİVİ: delta * 0.1 çarpanı kuantaları ağır çekime alır
-        this.ilerleme += (delta * 0.1) * dalgaliIvme;
+        // Fluid speed pacing: 0.6 ensures they move beautifully without dragging or blinking away
+        this.ilerleme += (delta * 0.6) * dalgaliIvme;
 
-        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
+        let p = Math.min(this.ilerleme, 1.0);
+        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, p);
         
-        // 🚀 RADIAL ORBIT OFFSET: Broadens Stream A outward and tightens Stream B inward to separate tracks completely
-        let genlikKatsayisi = this.tip === "A" ? 0.38 : 0.24;
-        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * genlikKatsayisi; 
-        let yonKatsayisi = this.tip === "A" ? 1 : -1;
+        // 🔑 PERFECTLY MIRRORED RADIAL CONSTANT: Broadens both orbits equally to match your logo's wheel
+        let yorungeCap = 0.38; // Shared unified radius
+        let dalgaBoyu = Math.sin(p * Math.PI) * yorungeCap; 
+        let yonKatsayisi = this.tip === "A" ? 1 : -1; // Handled purely by the inverted compass direction
 
-        let cekimKuvveti = 1.0 - Math.sin(this.ilerleme * Math.PI) * 0.45;
+        // Symmetric polar gravity draw
+        let cekimKuvveti = 1.0 - Math.sin(p * Math.PI) * 0.45;
         dalgaBoyu *= cekimKuvveti;
 
+        // Unified 3D depth wave path tracking
         let layerKavisY = 0;
-        if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
-        if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
+        if (this.layer === "UP") layerKavisY = Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
+        if (this.layer === "DOWN") layerKavisY = -Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
 
+        // The absolute spatial position: Fully symmetric, fluid, and perfectly mirrored
         this.mesh.position.set(
-            merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
+            merkezPos.x + Math.cos(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + layerKavisY,
-            merkezPos.z + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi
+            merkezPos.z + Math.sin(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi
         );
     }
 }
