@@ -425,29 +425,30 @@ function animate() {
         siyahKutupObj.material.opacity = 0.6 - Math.sin(zamanSinyali) * 0.3;
 
         // === ⚡ SWASTIKA VE BAĞIMSIZ ÇİFT YÖNLÜ AC ATESLEME MOTORU ===
-        if (aktifPaketler.length === 0) {
-            [
-                { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
-                { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length }
-            ].forEach(p => {
-                if (!aktifPaketler.some(x => x.tip === p.t)) { 
-                    let kData = spheres.find(o => o.id === p.dizi[p.idx]);
-                    let hData = spheres.find(o => o.id === p.dizi[(p.idx + 1) % p.dizi.length]);
-                    
-                    if (kData && hData) {
-                        let mK = KuantumKafesi.getObjectByName(kData.name);
-                        let mH = KuantumKafesi.getObjectByName(hData.name);
+   // 🔑 KIRILAN KİLİT: `if (aktifPaketler.length === 0)` şartı kaldırıldı, 
+// her akım kanalı (A/B) bağımsız çalışır.
+[
+    { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
+    { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length }
+].forEach(p => {
+    // 🛡️ GÜVENLİ FREKANS FRENE: İlgili akım kanalında (A veya B) havada parçacık yoksa ateşle.
+    if (!aktifPaketler.some(x => x.tip === p.t)) { 
+        let kData = spheres.find(o => o.id === p.dizi[p.idx]);
+        let hData = spheres.find(o => o.id === p.dizi[(p.idx + 1) % p.dizi.length]);
+        
+        if (kData && hData) {
+            let mK = KuantumKafesi.getObjectByName(kData.name);
+            let mH = KuantumKafesi.getObjectByName(hData.name);
 
-                        if (mK && mH) {
-                            let paket = new KuantumPaketi(mK, mH, hData.color);
-                            paket.hedefId = hData.id; 
-                            paket.tip = p.t;
-                            aktifPaketler.push(paket); // Parçacık doğdu
-                            p.nextIdx(); // İndeks bağımsız ilerler
-                        }
-                    }
-                }
-            });
+            if (mK && mH) {
+                let paket = new KuantumPaketi(mK, mH, hData.color);
+                paket.tip = p.t;
+                aktifPaketler.push(paket); 
+                p.nextIdx(); // 8 düğümünde bağımsız ilerleme
+            }
+        }
+    }
+});
         }
 
         // --- 🚀 PARÇACIK GÜNCELLEME (KİLİT PARANTEZLERİNDEN KURTARILDI) ---
