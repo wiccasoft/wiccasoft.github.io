@@ -510,6 +510,10 @@ initElementKutuplari() {
                 transparent: true,
                 opacity: 0.75
             });
+
+             // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35) materyali klonla ve opaklığını sıfırla!
+    if (this.radius === 0.35) { iskeletMat.transparent = true; iskeletMat.opacity = 0.0; }
+    
             const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
 
             // 🌀 ALTIN ORAN PİRAMİT SPİRAL DAĞILIMI
