@@ -179,20 +179,27 @@ initMekanizma() {
                     [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
                 ];
                 koseler.forEach((v) => {
-                    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
+                    const pos = new THREE.Vector3(v * katsayi, v * katsayi, v * katsayi);
                     const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
-                       // 🔑 Sadece en içteki çekirdek katmanını (0.35) saydam, diğerlerini opak yapıyoruz
-    if (this.radius === 0.35) { 
-        b_mat = new THREE.MeshBasicMaterial({ opacity: 0.15, transparent: true });
-    } else {
-        b_mat = new THREE.MeshPhongMaterial({ opacity: 0.85, transparent: true });
-    }
+                    
+                    let b_mat;
+                    // 🔑 Eğer katman çekirdekse (0.35) saf şeffaflık ver, dış katmanlarsa (0.55 ve 0.85) parlak materyal ver
+                    if (this.radius === 0.35) {
+                        b_mat = new THREE.MeshBasicMaterial({
+                            color: 0xffffff,      // Saf renksiz nötr taban
+                            transparent: true,    // Şeffaflık modunu açar
+                            opacity: 0.15         // Çekirdeği %15 görünürlükte aşırı saydam yapar
+                        });
+                    } else {
+                        b_mat = new THREE.MeshPhongMaterial({
+                            color: 0xffffff,
+                            emissive: 0xffffff,
+                            emissiveIntensity: 1.5 * this.energyDensity,
+                            transparent: true,
+                            opacity: 0.85
+                        });
+                    }
 
-            const b_mat = new THREE.MeshBasicMaterial({
-                color: 0xffffff,      // Saf renksiz nötr taban
-                transparent: true,    // Şeffaflık modunu açar
-                opacity: 0.15         // Sadece bu değeri değiştirerek görünürlüğü ayarlayabilirsin
-            });
                     const b_mesh = new THREE.Mesh(b_geom, b_mat);
                     b_mesh.position.copy(pos);
                     this.group.add(b_mesh);
