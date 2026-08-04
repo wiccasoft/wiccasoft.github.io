@@ -676,20 +676,51 @@ updateVortex(galaktikZaman) {
 function animate() {
     requestAnimationFrame(animate);
 
-    // 1️⃣ Run the base engine loop to keep everything synchronized
+    // 1️⃣ Maintain deep state clock synchronization for standard layer behaviors
     metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
 
-    // 🏆 2️⃣ SEED-BASED TARGETED OPACITY CONTROL (0.35 Core Only)
-    // We isolate the core instance safely at index [0] to prevent black screen errors
+    // 🏆 2️⃣ SEED-BASED CORE GHOSTING PROTOCOL (0.35 Layer Override Lock)
     if (metatronMatrisi && metatronMatrisi[0]) {
         metatronMatrisi[0].group.traverse((obj) => {
-            // Target only the specific white spheres we tagged as "cekirdek_odasi"
             if (obj.name === "cekirdek_odasi" && obj.material) {
                 obj.material.transparent = true;
-                obj.material.opacity = 0.0; // 🔑 Perfect vacant center transparency
-                
+                obj.material.opacity = 0.0; // Enforces absolute vacancy at the geometric center
                 if (obj.material.emissiveIntensity !== undefined) {
-                    obj.material.emissiveIntensity = 0.0; // Shuts off internal plasma glow leakage
+                    obj.material.emissiveIntensity = 0.0;
+                }
+            }
+        });
+    }
+
+    // ⚡ 3️⃣ ELEMENT AXIS THERMAL SPEED IGNITION LOOP (Red to Green Spectrum)
+    // We isolate and calculate scalar spin-up metrics using pure trigonometric waves
+    const timeClock = Date.now() * 0.001; 
+    const currentSpinSpeed = Math.abs(Math.sin(timeClock * 0.4)); // Fluctuates seamlessly between 0.0 and 1.0
+    
+    // Scale emissive bloom output linearly based on virtual rotational velocity
+    const thermalEmissiveIntensity = currentSpinSpeed * 3.5; 
+
+    // Spectral Interpolation: (Red channel locked high, green channel climbs proportionally with velocity)
+    const activePlasmaColor = new THREE.Color(1.0, currentSpinSpeed, 0.0);
+
+    if (metatronMatrisi && metatronMatrisi[0]) {
+        metatronMatrisi[0].group.children.forEach((mesh) => {
+            // Isolate only the explicit element nodes (Black, White, Yellow, Magenta vector terminals)
+            if (mesh && mesh.material && mesh.material.color && typeof mesh.material.color.getHex === 'function') {
+                const vectorHexColor = mesh.material.color.getHex();
+
+                // Match element markers specifically within the core layer topology
+                if (vectorHexColor === 0x111111 || vectorHexColor === 0xffffff || vectorHexColor === 0xffff00 || vectorHexColor === 0xff00ff) {
+                    
+                    // Maintain standard transparency until field ignition forces opacity outward
+                    mesh.material.transparent = true;
+                    mesh.material.opacity = 0.20 + (currentSpinSpeed * 0.80); 
+
+                    // Inject the localized thermal shifts directly into the node state vectors
+                    if (mesh.material.emissiveIntensity !== undefined) {
+                        mesh.material.emissive.copy(activePlasmaColor); 
+                        mesh.material.emissiveIntensity = thermalEmissiveIntensity; 
+                    }
                 }
             }
         });
