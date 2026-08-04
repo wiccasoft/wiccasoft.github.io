@@ -184,22 +184,12 @@ initMekanizma() {
                     
                     let b_mat;
                     // 🔑 Eğer katman çekirdekse (0.35) saf şeffaflık ver, dış katmanlarsa (0.55 ve 0.85) parlak materyal ver
-                    if (this.radius === 0.35) {
-                        b_mat = new THREE.MeshBasicMaterial({
-                            color: 0xffffff,      // Saf renksiz nötr taban
-                            transparent: true,    // Şeffaflık modunu açar
-                            opacity: 0.15         // Çekirdeği %15 görünürlükte aşırı saydam yapar
-                        });
-                    } else {
-                        b_mat = new THREE.MeshPhongMaterial({
-                            color: 0xffffff,
-                            emissive: 0xffffff,
-                            emissiveIntensity: 1.5 * this.energyDensity,
-                            transparent: true,
-                            opacity: 0.85
-                        });
-                    }
-
+                    // 🔑 En iç çekirdek (0.35) için saydam, diğerleri için parlak materyal tanımlaması
+                        if (this.radius === 0.35) {
+                            b_mat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.15 });
+                        } else {
+                            b_mat = new THREE.MeshPhongMaterial({ color: 0xffffff, emissive: 0xffffff, emissiveIntensity: 1.5 * this.energyDensity, transparent: true, opacity: 0.85 });
+                        }
                     const b_mesh = new THREE.Mesh(b_geom, b_mat);
                     b_mesh.position.copy(pos);
                     this.group.add(b_mesh);
@@ -485,6 +475,14 @@ initElementKutuplari() {
         const meshIcB = new THREE.Mesh(kureGeo, matB);
         meshIcB.position.copy(posIcB);
         this.group.add(meshIcB);
+
+        // Elemanların aks takibi için userData mühürlenmesi
+[meshA, meshB, meshIcA, meshIcB].forEach(m => {
+    m.userData = { aksVektoru: vYon.clone(), isAnaAks: aks.name.includes("Ateş") };
+});
+// Dönen motor dizisine ekleme
+if(!this.spinElemanlari) this.spinElemanlari = [];
+this.spinElemanlari.push(meshA, meshB, meshIcA, meshIcB);
 
         // --- MATRİS BAĞLANTI ÇİZGİSİ (Boydan boya tüm küreleri keser)
         const cizgiNoktalari = [posA, posB];
