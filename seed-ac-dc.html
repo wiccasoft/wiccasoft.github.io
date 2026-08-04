@@ -372,23 +372,28 @@ class KuantumPaketi {
         KuantumKafesi.add(this.mesh);
     }
 
-    guncelle(delta) {
+  guncelle(delta) {
         // 🚀 SAF AÇISAL İVMELENME
         let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * 2.5;
         this.ilerleme += delta * dalgaliIvme;
 
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
-        // 🌀 SWASTIKA MİKRO GİRDAP FREKANSI: Görsel kavisler odanın dışına taşsın diye esnetildi
+        // 🌀 SWASTIKA MİKRO GİRDAP FREKANSI
         let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.35; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
 
+        // 🔑 İŞTE SEÇENEK 1: KUTUPSAL MANYETİK ÇEKİM ÇARPANI (Implosion Modülatörü)
+        // Parçacık yörüngenin tam ortasına (0.5) geldikçe, kavis dışarı doğru değil merkeze doğru bükülür
+        let cekimKuvveti = 1.0 - Math.sin(this.ilerleme * Math.PI) * 0.45;
+        dalgaBoyu *= cekimKuvveti;
+
         // Üç boyutlu katman büküm vektörü (Toroid alanı simülasyonu)
         let layerKavisY = 0;
-        if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15;
-        if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15;
+        if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
+        if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
 
-        // Bükümlü yörünge: Katmanlarına ve akım tiplerine göre uzayda çapraz sarmallar çizer!
+        // Bükümlü yörünge: Çekim kuvvetiyle bir elma çekirdeği/toroid formu çizerek akarlar
         this.mesh.position.set(
             merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + layerKavisY,
