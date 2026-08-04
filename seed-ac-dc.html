@@ -428,7 +428,7 @@ function animate() {
         if (aktifPaketler.length === 0) {
             [
                 { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
-                { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length }
+                 dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length }
             ].forEach(p => {
                 if (!aktifPaketler.some(x => x.tip === p.t)) { 
                         let kData = spheres.find(o => o.id === p.dizi[p.idx]);
@@ -473,10 +473,13 @@ function animate() {
             }
         }
         
-        // Temizlik sonrası kontrol
-        if (turuTamamla && aktifPaketler.length === 0) {
-            // İndeksler yukarıda ateşlendiği an arttığı için burası güvenli kapatmadır
-        }
+// === ⚡ AYNA SİMETRİSİ ENKAPSÜLASYONU ===
+if (turuTamamla && aktifPaketler.length === 0) {
+    aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
+    
+    // 🔑 B'nin namlusunu da matematiksel olarak geriye mühürle!
+    aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+}
     }
     // 3. DEŞARJ DÖNGÜSÜ
     spheres.forEach(s => {
