@@ -264,23 +264,28 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 // 8 küre objesi (renkler doğru eşleşme ile)
 // ============================================================================
-// ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ (Satır 223)
+// AKUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ
 // ============================================================================
 // Kutsal girdap matrisine uygun olarak id'ler ve Türkçe isimler güncellendi.
 // 3 (Beyaz) ve 6 (Siyah) manyetik kutup olarak işaretlendi.
-const spheres = [
-  { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false },
-  { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff6600, isPole: false },
-  { id: 4, name: "SARI_ITICI_ODA",       pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
-  { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false },
-  { id: 7, name: "MAVI_KALKAN_ODASI",    pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false },
-  { id: 5, name: "MOR_KABUK_ODASI",      pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x660099, isPole: false },
-  { id: 3, name: "BEYAZ_KUTUP_ODASI",    pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true },
-  { id: 6, name: "SIYAH_KUTUP_ODASI",    pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true }
-];
+// - Odalar elementAkslari vektörlerine çivilendi,userData mühürlendi
+const kutupVektoru = elementAkslari[2].yon; // Kırmızı-Yeşil Aksonu
+const emiciVektör = elementAkslari[3].yon;  // Turuncu-Mavi Aksonu
+const iticiVektör = elementAkslari[1].yon;  // Sarı-Pembe Aksonu
+const polarVektör = elementAkslari[0].yon;  // Siyah-Beyaz Aksonu
 
+const spheres = [
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: kutupVektoru.clone().multiplyScalar(aksGenisligi), color: 0xff0000, isPole: false },
+    { id: 8, name: "YESIL_ENERJI_ODASI", pos: kutupVektoru.clone().multiplyScalar(-aksGenisligi), color: 0x00ff00, isPole: false },
+    { id: 2, name: "TURUNCU_EMICI_ODA", pos: emiciVektör.clone().multiplyScalar(aksGenisligi), color: 0xff6600, isPole: false },
+    { id: 7, name: "MAVI_KALKAN_ODASI", pos: emiciVektör.clone().multiplyScalar(-aksGenisligi), color: 0x0000ff, isPole: false },
+    { id: 4, name: "SARI_ITICI_ODA", pos: iticiVektör.clone().multiplyScalar(aksGenisligi), color: 0xffff00, isPole: false },
+    { id: 5, name: "MOR_KABUK_ODASI", pos: iticiVektör.clone().multiplyScalar(-aksGenisligi), color: 0x660099, isPole: false },
+    { id: 3, name: "BEYAZ_KUTUP_ODASI", pos: polarVektör.clone().multiplyScalar(aksGenisligi), color: 0xffffff, isPole: true },
+    { id: 6, name: "SIYAH_KUTUP_ODASI", pos: polarVektör.clone().multiplyScalar(-aksGenisligi), color: 0x222222, isPole: true }
+];
 // ============================================================================
-// ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 245 - 258)
+// ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 288>)
 // ============================================================================
 spheres.forEach(s => {
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
