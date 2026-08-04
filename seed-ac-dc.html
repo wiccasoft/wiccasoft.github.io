@@ -105,8 +105,11 @@ camera.lookAt(0, 0, 0);
 
 
 const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize(window.innerWidth, window.innerHeight);
-document.body.appendChild(renderer.domElement);
+renderer.setSize( window.innerWidth, window. innerHeight);
+document.body.appendChild( renderer.domElement);
+
+// 🔑 BEYAZ PERDEYİ ANINDA YIRTAN TEK SATIR: WebGL başlangıç tuvalini kalıcı kozmik siyaha kilitler!
+renderer.setClearColor(0x000000, 1);
 
 const controls = new THREE.OrbitControls(camera, renderer.domElement);
 scene.add(new THREE.AmbientLight(0xffffff));
