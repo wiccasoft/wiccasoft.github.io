@@ -29,7 +29,7 @@ canvas {
 
 
 // ============================================================================
-// BÖLÜM 1: SENEKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
+// BÖLÜM 1: SENKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
 // ============================================================================
 const scene = new THREE.Scene(); // Önce sahne oluşturulur
 const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
@@ -98,15 +98,15 @@ function setPoles(northName, southName) {
   // Ortografik kamera
 const aspect = window.innerWidth / window.innerHeight;
 const d = 0.5; // Kadraj görünüm oranı 150px'e tam oturtuldu
-const camera = new THREE.OrthographicCamera(
-    -d * aspect, d * aspect, d, -d, 0.1, 1000
-);
-camera.position.set(5, 5, 5);
+const camera = new THREE.OrthographicCamera(-0.5, 0.5, 0.5, -0.5, 0.1, 1000);
+camera.position.set(2, 2, 2);
 camera.lookAt(0, 0, 0);
 
-  const renderer = new THREE.WebGLRenderer({antialias:true});
-  renderer.setSize(window.innerWidth, window.innerHeight);
-  document.body.appendChild(renderer.domElement);
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement);
+new THREE.OrbitControls(camera, renderer.domElement);
+scene.add(new THREE.AmbientLight(0x404040));
 
   // OrbitControls → pan ve zoom açık
   const controls = new THREE.OrbitControls(camera, renderer.domElement);
@@ -335,27 +335,21 @@ function setTopView(camera, controls) {
 // BÖLÜM 3: 124875 GİRDAP VERİ PAKETİ SINIFI (Satır 309 - 312 ARASI)
 // ============================================================================
 class KuantumPaketi {
-    constructor(kaynakMesh, hedefMesh, renk) {
-        this.kaynak = kaynakMesh; // Canlı dönen odanın kendisine mühürlendi
-        this.hedef = hedefMesh;
+     constructor(kaynakMesh, hedefMesh, renk) {
+        this.kaynak = kaynakMesh; this.hedef = hedefMesh;
         this.ilerleme = 0.0;
-        
-        // Akış esnasında çıplak gözle izlenecek plazma ışık noktası
-        const pGeom = new THREE.SphereGeometry(0.04, 16, 16);
+        const pGeom = new THREE.SphereGeometry(0.04, 8, 8);
         const pMat = new THREE.MeshBasicMaterial({ color: renk });
         this.mesh = new THREE.Mesh(pGeom, pMat);
         this.mesh.position.copy(this.kaynak.position);
-        
-        // Paket de dönen kilitli kafese eklenmeli ki koordinatları şaşmasın!
         KuantumKafesi.add(this.mesh);
     }
-
     guncelle(delta) {
-        this.ilerleme += delta * 2.0; // Enerji akış hızı
-        // Dönen odaların anlık pozisyonları arasında sarmal takip hesaplaması
+        this.ilerleme += delta * 1.5; // Hız ayarı
         this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, this.ilerleme);
     }
 }
+
 
 
 
@@ -375,7 +369,7 @@ let aktifIndexB = 0;
 
 
 // ============================================================================
-// BÖLÜM 2: JROSKOPİK DÖNÜŞ MOTORU VE ANİMASYON DÖNGÜSÜ (Satır 312 - SONU)
+// FPS LİMİTLEYİCİ VE ANİMASYON DÖNGÜSÜ (Satır 312 - SONU)
 // ============================================================================
 // ============================================================================
 let globalDönüşHızı = 0.005; // Kararlı baseline dönüş momentumu
