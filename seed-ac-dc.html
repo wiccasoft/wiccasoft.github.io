@@ -413,9 +413,9 @@ class KuantumPaketi {
 let aktifPaketler = [];
 //const rodinDizisi =[1,2,4,8,7,5];
 // 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
-const rodinDizisiA = [1, 2, 4, 8, 7, 5]; // Saat Yönü Tersi
-const rodinDizisiB = [8, 7, 5, 1, 2, 4]; // Saat Yönü (Ters Pompa)
 
+const rodinDizisiA = [1, 4, 7, 8, 5, 2]; 
+const rodinDizisiB = [7, 4, 1, 5, 8, 2]; 
 let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 
 //let aktifDiziIndex = 0;
@@ -458,7 +458,8 @@ function animate() {
             let kaynakA = spheres.find(o => o.id === rodinDizisiA[aktifIndexA]);
             let hedefA = spheres.find(o => o.id === rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length]);
             let kaynakB = spheres.find(o => o.id === rodinDizisiB[aktifIndexB]);
-            let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length]);
+            // 🔑 B mermisinin hedefini dizideki bir sonraki (+1) elemana senkronize eder:
+let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB + 1) % rodinDizisiB.length]);
 
             let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
@@ -480,7 +481,7 @@ function animate() {
                         
                         // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
                         if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-                        if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+                        if (p.t === "B") aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
                     }
                 });
 
