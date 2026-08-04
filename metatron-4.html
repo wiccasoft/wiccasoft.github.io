@@ -175,21 +175,30 @@ initMekanizma() {
                 const koseler = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
                     [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
                 ];
-                koseler.forEach((v) => {
-                    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
-                    const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
-                    const b_mat = new THREE.MeshPhongMaterial({
-                        color: 0xffffff,
-                        emissive: 0xffffff,
-                        emissiveIntensity: 1.5 * this.energyDensity,
-                        transparent: true,
-                        opacity: 0.85
-                    });
-                    const b_mesh = new THREE.Mesh(b_geom, b_mat);
-                    b_mesh.position.copy(pos);
-                    this.group.add(b_mesh);
-                    this.internalCubes.push(b_mesh);
-                });
+      koseler.forEach((v) => {
+    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
+    const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
+    
+    // Her katmanın materyal nesnesi .clone() ile birbirinden tamamen ayrılıyor
+    const b_mat = new THREE.MeshPhongMaterial({
+        color: 0xffffff,
+        emissive: 0xffffff,
+        emissiveIntensity: 1.5 * this.energyDensity,
+        transparent: true,
+        opacity: 0.85
+    }).clone(); // 🔑 MATERYAL BAĞIMSIZLAŞTIRILDI
+
+    const b_mesh = new THREE.Mesh(b_geom, b_mat);
+    b_mesh.position.copy(pos);
+
+    // 🔑 KATMANINA GÖRE JAVASCRIPT ISIM MÜHÜRLEMESI
+    if (this.radius === 0.35) b_mesh.name = "cekirdek_odasi";
+    else if (this.radius === 0.55) b_mesh.name = "orta_dunya_odasi";
+    else if (this.radius === 0.85) b_mesh.name = "dis_kalkan_odasi";
+
+    this.group.add(b_mesh);
+    this.internalCubes.push(b_mesh);
+});
 
                 const coreMat = new THREE.MeshBasicMaterial({ 
                     color: 0x00ffff, 
@@ -502,15 +511,20 @@ initElementKutuplari() {
             [-1, 1, -1], [-1, -1, 1], [-1, -1, -1], [1, 1, 1]
         ];
 
-        for (let i = 0; i < odaAdedi; i++) {
-            // Tam gönderdiğin resimdeki asil gri/füme renginde MeshPhongMaterial mühürleniyor
-            const iskeletMat = new THREE.MeshPhongMaterial({
-                color: 0x555555,
-                emissive: 0x111111,
-                transparent: true,
-                opacity: 0.75
-            });
-            const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
+for (let i = 0; i < odaAdedi; i++) {
+    const iskeletMat = new THREE.MeshPhongMaterial({
+        color: 0x555555,
+        emissive: 0x111111,
+        transparent: true,
+        opacity: 0.75
+    }).clone(); // 🔑 MATERYAL BAĞIMSIZLAŞTIRILDI
+
+    const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
+
+    // 🔑 KATMANINA GÖRE 9'LU, 13'LÜ, 21'Lİ ODA ISIM MÜHÜRLEMESI
+    if (this.radius === 0.35) nodeMesh.name = "cekirdek_dokuzlu_oda";
+    else if (this.radius === 0.55) nodeMesh.name = "orta_onuc_oda";
+    else if (this.radius === 0.85) nodeMesh.name = "dis_yirmibir_oda";
 
             // 🌀 ALTIN ORAN PİRAMİT SPİRAL DAĞILIMI
             let aci = i * (Math.PI * 2 * 0.618033); // Altın oran bükümü
