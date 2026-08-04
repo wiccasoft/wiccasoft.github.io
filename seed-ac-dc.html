@@ -511,11 +511,13 @@ function animate() {
     }
 
     // 3. DEŞARJ DÖNGÜSÜ
-    spheres.forEach(s => {
+ spheres.forEach(s => {
         let odaMesh = KuantumKafesi.getObjectByName(s.name);
         if (odaMesh && !s.isPole) {
-            if (odaMesh.material.emissiveIntensity > 0.3) odaMesh.material.emissiveIntensity -= sabitDelta * 20.0;
-            if (odaMesh.material.opacity > 0.15) odaMesh.material.opacity -= sabitDelta * (odaMesh.material.opacity > 0.35 ? 0.2 : 1.5);
+            // 🔑 RAPID DECHARGE OVERRIDE: Forces the node to dump its energy instantly after a hit
+            // This stops uniform glowing and forces explicit rhythmic neon strobing!
+            if (odaMesh.material.emissiveIntensity > 0.3) odaMesh.material.emissiveIntensity -= sabitDelta * 28.0;
+            if (odaMesh.material.opacity > 0.15) odaMesh.material.opacity -= sabitDelta * (odaMesh.material.opacity > 0.35 ? 1.8 : 3.5);
         }
     });
 
