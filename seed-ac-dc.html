@@ -271,16 +271,20 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 // ============================================================================
 // Kutsal girdap matrisine uygun olarak id'ler ve Türkçe isimler güncellendi.
 // 3 (Beyaz) ve 6 (Siyah) manyetik kutup olarak işaretlendi.
-const spheres = [
-  { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false },
-  { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff6600, isPole: false },
-  { id: 4, name: "SARI_ITICI_ODA",       pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
-  { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false },
-  { id: 7, name: "MAVI_KALKAN_ODASI",    pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false },
-  { id: 5, name: "MOR_KABUK_ODASI",      pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x660099, isPole: false },
-  { id: 3, name: "BEYAZ_KUTUP_ODASI",    pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true },
-  { id: 6, name: "SIYAH_KUTUP_ODASI",    pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true }
-];
+ // ============================================================================
+        // ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ
+        // ============================================================================
+        // 🔑 DİKEY OMURGA MÜHÜRÜ: Centers the 3 and 6 poles on the clean Y-axis to square the Toroid paths perfectly
+        const spheres = [
+            { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25, 0,  0.25), color: 0xff0000, isPole: false },
+            { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25, 0, -0.25), color: 0xff6600, isPole: false },
+            { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0,    0, -0.35), color: 0xffff00, isPole: false },
+            { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, 0, -0.25), color: 0x00ff00, isPole: false },
+            { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, 0,  0.25), color: 0x0000ff, isPole: false },
+            { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3( 0,    0,  0.35), color: 0x660099, isPole: false },
+            { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3( 0,  0.35,    0), color: 0xffffff, isPole: true  }, // 🌟 ABSOLUTE APEX (NORTH)
+            { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0, -0.35,    0), color: 0x222222, isPole: true  }  // 🌟 ABSOLUTE BASE (SOUTH)
+        ];
 
 // ============================================================================
 // ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 245 - 258)
