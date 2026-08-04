@@ -363,14 +363,20 @@ class KuantumPaketi {
         this.mesh.position.copy(this.kaynak.position);
         KuantumKafesi.add(this.mesh);
     }
-    guncelle(delta) {
-        // 🚀 KEPPLER İVMELENMESİ & 🌀 SWASTIKA MİKRO SARMALI
-        let dinamikIvme = 1.8 + Math.sin(this.ilerleme * Math.PI) * 1.5;
-        this.ilerleme += delta * dinamikIvme;
+ guncelle(delta) {
+        // 🚀 SAF AÇISAL İVMELENME (Tesla / Kepler Sapan Etkisi)
+        // Sabit ilerleme hızı yerine, yörünge konumuna bağlı dinamik dalgalı hız çarpanı
+        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * 2.8;
+        this.ilerleme += delta * dalgaliIvme;
+
+        // Doğrusal merkez hattı
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
-        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.12; 
+        
+        // 🌀 SWASTIKA MİKRO GİRDAP DERİNLİĞİ (Görsel bükümü belirginleştirmek için esnetildi)
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.18; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
-        // Bükümlü yörünge hesaplaması
+
+        // Bükümlü yörünge hesaplaması: Parçacıklar uzayda tam bir sarmal spiral çizer, çakışmayı bitirir!
         this.mesh.position.set(
             merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu,
@@ -447,38 +453,22 @@ function animate() {
             }
         }
 
-  
- // --- 🚀 GÜVENLİ PARÇACIK GÜNCELLEME VE SAYAÇLI İMHA MOTORU ---
+        // Parçacık Güncelleme
         let turuTamamla = false;
-        
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
             paket.guncelle(sabitDelta); 
-            
-            if (paket.ilerleme >= 1.0) {
-                // Hedef odayı parlat
-                let hData = spheres.find(o => o.id === paket.hedefId);
-                if (hData) {
-                    let hMesh = KuantumKafesi.getObjectByName(hData.name);
-                    if (hMesh) { 
-                        hMesh.material.emissiveIntensity = 4.0; 
-                        hMesh.material.opacity = 1.0; 
-                    }
-                }
-
-                KuantumKafesi.remove(paket.mesh);
-                
-                // 🔑 DÖNGÜ GÜVENLİĞİ: filter yerine splice kullanarak diziyi bozmadan sadece o indeksi sileriz
-                aktifPaketler.splice(i, 1); 
-                turuTamamla = true; // Kilit açıldı, sıradaki odaya geçiş izni verildi
-            }
+if (paket.ilerleme >= 1.0) {
+    KuantumKafesi.remove(paket.mesh);
+    // Diziden sadece ve sadece o benzersiz sayaç kimliğine sahip parçacık silinir
+    aktifPaketler = aktifPaketler.filter(p => p.uuid !== paket.uuid); 
+}
         }
-        
-        // Tüm paketler bittiğinde sıradaki Rodin adımına güvenle geç
         if (turuTamamla && aktifPaketler.length === 0) {
             aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
             aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
         }
+    }
 
     // 3. DEŞARJ DÖNGÜSÜ
     spheres.forEach(s => {
