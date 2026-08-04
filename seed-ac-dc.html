@@ -427,9 +427,9 @@ function animate() {
         // === ⚡ SWASTIKA VE BAĞIMSIZ ÇİFT YÖNLÜ AC ATESLEME MOTORU ===
         if (aktifPaketler.length === 0) {
             [
-                { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
-                 dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length }
-            ].forEach(p => {
+            { dizi: rodinDizisiA, idx: aktifIndexA, t: "A", nextIdx: () => aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length },
+            { dizi: rodinDizisiB, idx: aktifIndexB, t: "B", nextIdx: () => aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length } // 🔑 { EKLENDİ
+        ].forEach(p => {
                 if (!aktifPaketler.some(x => x.tip === p.t)) { 
                         let kData = spheres.find(o => o.id === p.dizi[p.idx]);
     
