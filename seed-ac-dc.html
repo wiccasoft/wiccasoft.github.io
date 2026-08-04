@@ -348,38 +348,50 @@ function setTopView(camera, controls) {
 // DOBLE VORTEX DATA SET
 // ============================================================================
 class KuantumPaketi {
-    constructor(kaynakMesh, hedefMesh, renk) {
+    constructor(kaynakMesh, hedefMesh, renk, tip, layer) { // 🔑 tip ve layer eklendi
         this.kaynak = kaynakMesh;
         this.hedef = hedefMesh;
         this.ilerleme = 0.0;
+        this.tip = tip;       // 🔑 "A" veya "B" mühürü içeri alındı
+        this.layer = layer;   // 🔑 "UP", "CENTER", "DOWN" katmanı çakıldı
 
-        // 🔑 İŞTE ÇAKIŞMAYI ENGELLEYEN SAYAÇ MÜHÜRÜ:
         paketSayaci++; 
         this.uuid = paketSayaci; 
-        // Parçacık geometrisi ve materyali
-        const pGeom = new THREE.SphereGeometry(0.04, 8, 8);
+        
+        const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
         const pMat = new THREE.MeshBasicMaterial({ color: renk });
         this.mesh = new THREE.Mesh(pGeom, pMat);
+        
+        // İlk doğuş pozisyonu
         this.mesh.position.copy(this.kaynak.position);
+        
+        // 🚀 3 AŞAMALI KAYNAK ANTENİ: Katmanına göre dikey eksende ilk kırılmayı başlatır
+        if (this.layer === "UP") this.mesh.position.y += 0.08;
+        if (this.layer === "DOWN") this.mesh.position.y -= 0.08;
+
         KuantumKafesi.add(this.mesh);
     }
- guncelle(delta) {
-        // 🚀 SAF AÇISAL İVMELENME (Tesla / Kepler Sapan Etkisi)
-        // Sabit ilerleme hızı yerine, yörünge konumuna bağlı dinamik dalgalı hız çarpanı
-        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * 2.8;
+
+    guncelle(delta) {
+        // 🚀 SAF AÇISAL İVMELENME
+        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * 2.5;
         this.ilerleme += delta * dalgaliIvme;
 
-        // Doğrusal merkez hattı
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
-        // 🌀 SWASTIKA MİKRO GİRDAP DERİNLİĞİ (Görsel bükümü belirginleştirmek için esnetildi)
-        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.18; 
+        // 🌀 SWASTIKA MİKRO GİRDAP FREKANSI: Görsel kavisler odanın dışına taşsın diye esnetildi
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.35; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
 
-        // Bükümlü yörünge hesaplaması: Parçacıklar uzayda tam bir sarmal spiral çizer, çakışmayı bitirir!
+        // Üç boyutlu katman büküm vektörü (Toroid alanı simülasyonu)
+        let layerKavisY = 0;
+        if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15;
+        if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15;
+
+        // Bükümlü yörünge: Katmanlarına ve akım tiplerine göre uzayda çapraz sarmallar çizer!
         this.mesh.position.set(
             merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
-            merkezPos.y + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu,
+            merkezPos.y + layerKavisY,
             merkezPos.z + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi
         );
     }
