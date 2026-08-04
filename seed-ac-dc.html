@@ -359,12 +359,13 @@ class KuantumPaketi {
         this.uuid = paketSayaci; 
         
         const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
-        //const pMat = new THREE.MeshBasicMaterial({ color: renk });
-
-         // 🔑 FREKANS AYRIŞTIRICI: Renkleri odalardan koparıp akım tipine (A/B) mühürler, kayıp vortexi görünür kılar!
-        const neonRengi = this.tip === "A" ? 0x00ffff : 0xff0055; // A: Neon Turkuaz, B: Elektrik Pembesi/Kırmızısı
-        const pMat = new THREE.MeshBasicMaterial({ color: neonRengi });
-
+  // 🔑 WebGL KATMAN MÜHÜRÜ: neonRengi hatasını çözer, zıt akımları Turkuaz ve Pembe olarak ayırır!
+        const pMat = new THREE.MeshBasicMaterial({ 
+            color: this.tip === "A" ? 0x00ffff : 0xff0055, // A akımı Turkuaz, B akımı Pembe parlar
+            transparent: true, opacity: 0.95,
+            depthWrite: false, // Zıt izlerin birbirini derinlik katmanında maskelemesini engeller
+            blending: THREE.AdditiveBlending // Çarpışma anında element haçında plazma parlaması yaratır
+        });
         this.mesh = new THREE.Mesh(pGeom, pMat);
         
         // İlk doğuş pozisyonu
@@ -515,9 +516,13 @@ let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB + 1) % rodinDi
         }
     });
 
-    // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
-    renderer.autoClear = false; 
-    renderer.clearDepth(); 
+ // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
+    renderer.autoClear = false; // Otomatik temizliği kapat, izlerin üst üste binmesini sağla
+    
+    // 🔑 KOZMİK SİYAH MÜHÜRÜ: Beyaz perdeyi yırtar, her karede eski izleri %5 saydamlıkla yavaşça sönümler!
+    renderer.setClearColor(0x000000, 0.05); 
+    renderer.clearColor(); // Sadece renk katmanını hafifçe temizler, hafızayı şişirmez
+    renderer.clearDepth(); // 3D derinlik tamponunu sıfırlayarak GPU'yu tamamen rahatlatır
 
     if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
