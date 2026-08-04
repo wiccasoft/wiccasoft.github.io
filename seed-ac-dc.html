@@ -473,12 +473,12 @@ function animate() {
                     const fazRölesi = p.t === "A" ? 0 : 4;
                     const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
-                    if (kanalRitmi) {
-                        ["UP", "CENTER", "DOWN"].forEach(katman => {
-                            let paket = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman);
-                            paket.hedefId = p.d.id; 
-                            aktifPaketler.push(paket);
-                        });
+         if (kanalRitmi) {
+                        // 🔑 SİSTEMİ ÖZGÜR BIRAKAN SAF 4 SATIRLI BİNARY GEZEGEN MOTORU
+                        let katman1 = p.t === "A" ? "UP" : "DOWN";
+                        let paket1 = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman1); paket1.hedefId = p.d.id; aktifPaketler.push(paket1);
+                        let katman2 = p.t === "A" ? "DOWN" : "UP";
+                        let paket2 = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman2); paket2.hedefId = p.d.id; aktifPaketler.push(paket2);
                         
                         // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
                         if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
