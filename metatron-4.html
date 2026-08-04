@@ -601,16 +601,14 @@ updateVortex(galaktikZaman) {
         this.poleB.material.emissiveIntensity = 1.0;
     }
     
-    // 3️⃣ 🧠 ÇEKİRDEK ODALARI SERBEST BIRAKILDI
-    // Bu bloğun içindeki zoraki opacity ve emissive renk ezmeleri tamamen silindi!
-   this.internalCubes.forEach((coreNode) => {
-    // ... ölçekleme işlemleri ...
+// 3️⃣ 🧠 ÇEKİRDEK ODALARI SERBEST BIRAKILDI
+this.internalCubes.forEach((coreNode) => {
+    coreNode.scale.setScalar(1.0);
     if (coreNode.material) {
-        // Çekirdeğin saydamlığı korunsun, dış katmanlar opak kalsın
-        coreNode.material.opacity = (this.radius === 0.35) ? 0.15 : 0.70; 
+        // 🔑 Çekirdek odalarının opaklığını %15'te koru, dış katmanları orijinal opaklığında bırak
+        coreNode.material.opacity = (this.radius === 0.35) ? 0.15 : 0.70;
     }
 });
-
     // ⚡ 4️⃣ AKS AKIM MOTORU: Ateş Sola (Saat Yönü Tersi), Toprak Sağa (Saat Yönü) Dönüyor
     // initElementKutuplari'nda yaratılan spinElemanlari üzerinde tork yönlerini uyguluyoruz
 if (this.spinElemanlari) {
