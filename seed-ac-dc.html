@@ -378,33 +378,37 @@ class KuantumPaketi {
     }
 
  guncelle(delta) {
-        // 🚀 ASYMMETRIC FIELD SPEEDS: Stream A runs standard, Stream B spins with a fractional velocity offset
- // 🔑 FREKANS MODÜLASYONU: Hızlar düşürülerek parçacıkların havada kalma ömrü uzatılır, 4 binary sarmal netleşir!
-        let hizKatsayisi = this.tip === "A" ? 0.35 : 0.42; 
-        let dalgaliIvme = 0.4 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
+        // 🚀 ORTA ÇEYREK YOLDA 2'YE KATLANAN HIZ (Kepler Sapan Etkisi)
+        // Her akım tipinin hız çarpanı asimetrik hale getirildi (Phase Shift)
+        let temelHiz = this.tip === "A" ? 0.38 : 0.46;
+        // Tam orta yolda (ilerleme 0.5 iken sinüs zirve yapar) hız ikiye katlanır
+        let dalgaliIvme = 0.4 + Math.sin(this.ilerleme * Math.PI) * temelHiz * 2.0;
+        this.ilerleme += delta * dalgaliIvme;
 
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
-        // 🚀 RADIAL ORBIT OFFSET: Broadens Stream A outward and tightens Stream B inward to separate tracks completely
-        let genlikKatsayisi = this.tip === "A" ? 0.38 : 0.24;
-        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * genlikKatsayisi; 
+        // 🪐 ASİMETRİK ÇEMBER GENLİĞİ (Biri büyük, diğeri küçük çember çizer)
+        // A katmanı geniş kavis çizerken, B katmanı daha dar bir yörüngeden akar
+        let yorungeCapKatsayisi = this.tip === "A" ? 0.44 : 0.22; 
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * yorungeCapKatsayisi; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
 
+        // Kutupsal manyetik implosion bükümü
         let cekimKuvveti = 1.0 - Math.sin(this.ilerleme * Math.PI) * 0.45;
         dalgaBoyu *= cekimKuvveti;
 
+        // Dikey eksen düzlemi
         let layerKavisY = 0;
         if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
         if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
 
+        // Bükümlü Yörünge Hesaplaması: Artık üst üste binemezler, 4 gezegen de doğrusal düzlemde ayrışır!
         this.mesh.position.set(
             merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + layerKavisY,
             merkezPos.z + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi
         );
     }
-}
-
 
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
