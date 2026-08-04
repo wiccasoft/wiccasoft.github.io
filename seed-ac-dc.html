@@ -359,7 +359,12 @@ class KuantumPaketi {
         this.uuid = paketSayaci; 
         
         const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
-        const pMat = new THREE.MeshBasicMaterial({ color: renk });
+        //const pMat = new THREE.MeshBasicMaterial({ color: renk });
+
+         // 🔑 FREKANS AYRIŞTIRICI: Renkleri odalardan koparıp akım tipine (A/B) mühürler, kayıp vortexi görünür kılar!
+        const neonRengi = this.tip === "A" ? 0x00ffff : 0xff0055; // A: Neon Turkuaz, B: Elektrik Pembesi/Kırmızısı
+        const pMat = new THREE.MeshBasicMaterial({ color: neonRengi });
+        
         this.mesh = new THREE.Mesh(pGeom, pMat);
         
         // İlk doğuş pozisyonu
@@ -451,7 +456,7 @@ function animate() {
         const ateslemeRitmi = Math.floor(zamanSinyali * 20) % 8 === 0;
 
         // GÜVENLİK FİLTRESİ: Bellek taşmasını engellemek için havada en fazla 36 paket tutar
-        if ((ateslemeRitmi && aktifPaketler.length < 36) || aktifPaketler.length === 0) {
+          if (ateslemeRitmi && aktifPaketler.length < 36) {
             let kaynakA = spheres.find(o => o.id === rodinDizisiA[aktifIndexA]);
             let hedefA = spheres.find(o => o.id === rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length]);
             let kaynakB = spheres.find(o => o.id === rodinDizisiB[aktifIndexB]);
