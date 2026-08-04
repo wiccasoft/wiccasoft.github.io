@@ -503,16 +503,21 @@ function animate() {
             if (odaMesh.material.opacity > 0.15) odaMesh.material.opacity -= sabitDelta * (odaMesh.material.opacity > 0.35 ? 0.2 : 1.5);
         }
     });
-
-    if (typeof controls !== 'undefined') controls.update();
-      // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
-    renderer.autoClear = false; 
     
-    // Sadece derinlik tamponunu temizleyerek 3D çizgilerin birbirini kesmesini önler ve GPU'yu rahatlatır
-    renderer.clearDepth(); 
-
-    if (typeof controls !== 'undefined') controls.update();
+if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
+} // 🔑 1. PARANTEZ: animate() fonksiyonu burada güvenle kapanır, kilit kırılır!
+
+// 🔑 GÜVENLİ RESIZE (Artık animate dışında, global alanda bağımsız çalışır)
+window.addEventListener('resize', () => {
+    const yeniAspect = window.innerWidth / window.innerHeight;
+    camera.left = -d * yeniAspect; camera.right = d * yeniAspect;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+// Sistem ateşlemesi (İlk ve tek tetikleme)
+animate();
 
 // 🔑 GÜVENLİ RESIZE
 window.addEventListener('resize', () => {
