@@ -495,8 +495,14 @@ initElementKutuplari() {
         }
         this.dinamikCubes = [];
 
+           // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35) omurga odalarını hiç oluşturma!
+    if (this.radius === 0.35) return; 
+
+      let odaAdedi = this.radius === 0.55 ? 13 : 21;
+
+
         // Katmana göre evrensel Fibonacci oda sayısı: 0.35 -> 9, 0.55 -> 13, 0.85 -> 21
-        let odaAdedi = this.radius === 0.35 ? 9 : (this.radius === 0.55 ? 13 : 21);
+       // let odaAdedi = this.radius === 0.35 ? 9 : (this.radius === 0.55 ? 13 : 21);
         const sqrt2Scale = Math.sqrt(2);
         const kureGeo = new THREE.SphereGeometry(this.radius * 0.035, 12, 12);
 
@@ -602,6 +608,30 @@ this.internalCubes.forEach((coreNode) => {
     }
 });
 
+
+// ⚡ 4️⃣ AKS AKIM MOTORU VE ENERJİ TRANSTRÖMÜ
+// Bilgi ateş aksından (Siyah/Ateş) sola akarken, toprak aksı (Sarı/Toprak) ters yönde (sağa) bükülür
+const akimHizi = 0.015;
+const donusEkseni = new THREE.Vector3(-1, -1, -1).normalize(); // Temel rezonans mili
+
+if (this.radius !== 0.35) { // Dış çeperler kararlı dönmeye devam eder
+    this.coreCube.rotateOnAxis(donusEkseni, akimHizi);
+} else {
+    // 🔑 ÇEKİRDEK AKIMI: Ateş aksını sola çevirip ilk bilgiyi yolluyoruz
+    // Sahnede Ateş ve Toprak olarak işaretlenmiş element kutuplarının zıt bükülmesi:
+    this.group.children.forEach((mesh) => {
+        if (mesh.material && mesh.material.color) {
+            // Ateş kutbu (Siyah/Beyaz akslar - Pozitif tork)
+            if (mesh.material.color.getHex() === 0x111111 || mesh.material.color.getHex() === 0xffffff) {
+                mesh.rotateOnAxis(donusEkseni, akimHizi); 
+            }
+            // Toprak kutbu (Sarı/Pembe akslar - Negatif ters tork)
+            if (mesh.material.color.getHex() === 0xffff00 || mesh.material.color.getHex() === 0xff00ff) {
+                mesh.rotateOnAxis(donusEkseni, -akimHizi); 
+            }
+        }
+    });
+}
         // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
         this.zamanOdaları.forEach((node, index) => {
             let baseAngle = (index * Math.PI * 2) / 13;
