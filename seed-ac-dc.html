@@ -457,11 +457,15 @@ function animate() {
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
 
             if (meshKA && meshHA && meshKB && meshHB) {
-              [ { s: meshKA, h: meshHA, d: hedefA, t: "A"}, { s: meshKB, h: meshHB, d: hedefB, t: "B"} ]. forEach( p => {
-    let paket = new KuantumPaketi( p. s, p. h, p. d. color);
-    paket. hedefId = p. d. id; paket. tip = p. t;
-    aktifPaketler. push( paket);
-});
+                // ⚡ MULTI-LAYER (UP - CENTER - DOWN) ANTEN ATEŞLEME MOTORU
+                [ { s: meshKA, h: meshHA, d: hedefA, t: "A"}, { s: meshKB, h: meshHB, d: hedefB, t: "B"} ].forEach(p => {
+                    // Tek bir mermi yerine dikey eksende 3'lü (UP, CENTER, DOWN) donmuş ışık demeti fırlatılır
+                    ["UP", "CENTER", "DOWN"].forEach(katman => {
+                        let paket = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman);
+                        paket.hedefId = p.d.id; 
+                        aktifPaketler.push(paket);
+                    });
+                });
             }
         }
 
