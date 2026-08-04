@@ -348,9 +348,14 @@ function setTopView(camera, controls) {
 // DOBLE VORTEX DATA SET
 // ============================================================================
 class KuantumPaketi {
-    constructor(kaynakMesh, hedonMesh, renk) {
-        this.kaynak = kaynakMesh; this.hedef = hedonMesh;
-        this.ilerleme = 0.0; this.tip = "A"; this.hedefId = null;
+    constructor(kaynakMesh, hedefMesh, renk) {
+        this.kaynak = kaynakMesh;
+        this.hedef = hedefMesh;
+        this.ilerleme = 0.0;
+
+        // 🔑 İŞTE ÇAKIŞMAYI ENGELLEYEN SAYAÇ MÜHÜRÜ:
+        paketSayaci++; 
+        this.uuid = paketSayaci; 
         // Parçacık geometrisi ve materyali
         const pGeom = new THREE.SphereGeometry(0.04, 8, 8);
         const pMat = new THREE.MeshBasicMaterial({ color: renk });
@@ -384,6 +389,8 @@ let aktifPaketler = [];
 // 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
 const rodinDizisiA = [1, 2, 4, 8, 7, 5]; // Saat Yönü Tersi
 const rodinDizisiB = [8, 7, 5, 1, 2, 4]; // Saat Yönü (Ters Pompa)
+
+let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 
 //let aktifDiziIndex = 0;
 let aktifIndexA = 0;
@@ -440,25 +447,38 @@ function animate() {
             }
         }
 
-        // Parçacık Güncelleme
+  
+ // --- 🚀 GÜVENLİ PARÇACIK GÜNCELLEME VE SAYAÇLI İMHA MOTORU ---
         let turuTamamla = false;
+        
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
             paket.guncelle(sabitDelta); 
+            
             if (paket.ilerleme >= 1.0) {
+                // Hedef odayı parlat
                 let hData = spheres.find(o => o.id === paket.hedefId);
-                let hMesh = KuantumKafesi.getObjectByName(hData.name);
-                if (hMesh) { hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; }
+                if (hData) {
+                    let hMesh = KuantumKafesi.getObjectByName(hData.name);
+                    if (hMesh) { 
+                        hMesh.material.emissiveIntensity = 4.0; 
+                        hMesh.material.opacity = 1.0; 
+                    }
+                }
+
                 KuantumKafesi.remove(paket.mesh);
-                aktifPaketler.splice(i, 1);
-                turuTamamla = true;
+                
+                // 🔑 DÖNGÜ GÜVENLİĞİ: filter yerine splice kullanarak diziyi bozmadan sadece o indeksi sileriz
+                aktifPaketler.splice(i, 1); 
+                turuTamamla = true; // Kilit açıldı, sıradaki odaya geçiş izni verildi
             }
         }
+        
+        // Tüm paketler bittiğinde sıradaki Rodin adımına güvenle geç
         if (turuTamamla && aktifPaketler.length === 0) {
             aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
             aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
         }
-    }
 
     // 3. DEŞARJ DÖNGÜSÜ
     spheres.forEach(s => {
