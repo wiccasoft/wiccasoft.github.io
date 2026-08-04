@@ -458,11 +458,20 @@ function animate() {
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
             paket.guncelle(sabitDelta); 
-if (paket.ilerleme >= 1.0) {
-    KuantumKafesi.remove(paket.mesh);
-    // Diziden sadece ve sadece o benzersiz sayaç kimliğine sahip parçacık silinir
-    aktifPaketler = aktifPaketler.filter(p => p.uuid !== paket.uuid); 
-}
+ if (paket.ilerleme >= 1.0) {
+                // 🔑 1. ADIM: Hedef odanın parlamasını tetikle
+                let hData = spheres.find(o => o.id === paket.hedefId);
+                if (hData) {
+                    let hMesh = KuantumKafesi.getObjectByName(hData.name);
+                    if (hMesh) { hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; }
+                }
+
+                KuantumKafesi.remove(paket.mesh);
+                
+                // 🔑 2. ADIM: Döngü güvenliği için filter yerine splice ile o indexi temizle
+                aktifPaketler.splice(i, 1); 
+                turuTamamla = true; // Kilit kırıldı, sıradaki odaya geçiş izni verildi!
+            }
         }
         if (turuTamamla && aktifPaketler.length === 0) {
             aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
