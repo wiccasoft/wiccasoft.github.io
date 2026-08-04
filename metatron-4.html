@@ -185,14 +185,10 @@ initMekanizma() {
                         transparent: true,
                         opacity: 0.85
                     });
-                    const b_mesh = new THREE.Mesh(b_geom, b_mat.clone());
+                    const b_mesh = new THREE.Mesh(b_geom, b_mat);
                     b_mesh.position.copy(pos);
-
-                    // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35), küreleri sahneye HİÇ EKLEME!
-                    if (this.radius !== 0.35) {
-                        this.group.add(b_mesh);
-                    }
-                    this.internalCubes.push(b_mesh); // Hafıza hatası vermemesi için dizide kalabilir
+                    this.group.add(b_mesh);
+                    this.internalCubes.push(b_mesh);
                 });
 
                 const coreMat = new THREE.MeshBasicMaterial({ 
@@ -256,17 +252,17 @@ initMekanizma() {
                     [1,0,0], [-1,0,0], [0,1,0], [0,-1,0], [0,0,1], [0,0,-1]
                 ];
 
-                // 📐 ADIM 6: Boyutsal Ters Piramitlerin Cam Duvarları döngüsünü bulun
                 yonler.forEach((y, i) => {
-                    // 🔑 KESİN ÇÖZÜM: Çekirdek (0.35) katmanında ters piramit duvarlarını çizmeyi atla!
-                    if (this.radius === 0.35) return;
-
+                    // Her bir ters piramit için özel çizgisel geometri oluşturuluyor
                     const pyrGeom = new THREE.BufferGeometry();
+                    
+                    // İç yüzeyin 4 köşesi ve dış yüzeyin karşılık gelen 4 köşesi
+                    // Bu noktalar arası geçiş tam aradığın inverse square kovanını oluşturur
                     const vertices = new Float32Array([
-                        y[0]* icYari, y[1]* icYari, y[2]* icYari,
-                        y[0]* disYari, y[1]* disYari, y[2]* disYari
+                        // İç taban noktaları ve dış taban noktaları çapraz kilitlenir
+                        y[0]*icYari, y[1]*icYari, y[2]*icYari,
+                        y[0]*disYari, y[1]*disYari, y[2]*disYari
                     ]);
-                    // ... (kodun geri kalanı aynı kalıyor)
                     
                     pyrGeom.setAttribute('position', new THREE.BufferAttribute(vertices, 3));
                     
@@ -495,14 +491,8 @@ initElementKutuplari() {
         }
         this.dinamikCubes = [];
 
-           // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35) omurga odalarını hiç oluşturma!
-    if (this.radius === 0.35) return; 
-
-      let odaAdedi = this.radius === 0.55 ? 13 : 21;
-
-
         // Katmana göre evrensel Fibonacci oda sayısı: 0.35 -> 9, 0.55 -> 13, 0.85 -> 21
-       // let odaAdedi = this.radius === 0.35 ? 9 : (this.radius === 0.55 ? 13 : 21);
+        let odaAdedi = this.radius === 0.35 ? 9 : (this.radius === 0.55 ? 13 : 21);
         const sqrt2Scale = Math.sqrt(2);
         const kureGeo = new THREE.SphereGeometry(this.radius * 0.035, 12, 12);
 
@@ -597,43 +587,16 @@ updateVortex(galaktikZaman) {
             this.poleB.material.emissiveIntensity = 1.0;
         }
 
- // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI
-this.internalCubes.forEach((coreNode) => {
-    coreNode.scale.setScalar(1.0);
-    // 🔑 Çekirdek katmanındakileri tamamen görünmez ve ışıksız yapıyoruz
-    if (this.radius === 0.35 && coreNode.material) {
-        coreNode.material.opacity = 0.0;
-        coreNode.material.transparent = true;
-        coreNode.material.emissiveIntensity = 0.0;
-    }
-});
-
-
-// ⚡ 4️⃣ AKS AKIM MOTORU VE ENERJİ TRANSTRÖMÜ
-// Bilgi ateş aksından (Siyah/Ateş) sola akarken, toprak aksı (Sarı/Toprak) ters yönde (sağa) bükülür
-const akimHizi = 0.015;
-const donusEkseni = new THREE.Vector3(-1, -1, -1).normalize(); // Temel rezonans mili
-
-if (this.radius !== 0.35) { // Dış çeperler kararlı dönmeye devam eder
-    this.coreCube.rotateOnAxis(donusEkseni, akimHizi);
-} else {
-    // 🔑 ÇEKİRDEK AKIMI: Ateş aksını sola çevirip ilk bilgiyi yolluyoruz
-    // Sahnede Ateş ve Toprak olarak işaretlenmiş element kutuplarının zıt bükülmesi:
-  this.group.children.forEach((mesh) => {
-        // Materyal ve renk kontrolü güvenli hale getirildi
-        if (mesh && mesh.material && mesh.material.color && typeof mesh.material.color.getHex === 'function') {
-            const hexColor = mesh.material.color.getHex();
-            // Ateş kutbu (Siyah/Beyaz akslar - Pozitif tork sola)
-            if (hexColor === 0x111111 || hexColor === 0xffffff) {
-                mesh.rotateOnAxis(donusEkseni, akimHizi);
+        // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI (Işık patlamaları kapatıldı, asil görünüm korundu)
+        this.internalCubes.forEach((coreNode) => {
+            coreNode.scale.setScalar(1.0);
+            if (coreNode.material) {
+                coreNode.material.emissive.setHex(0x222222);
+                coreNode.material.emissiveIntensity = 1.0;
+                coreNode.material.opacity = 0.70;
             }
-            // Toprak kutbu (Sarı/Pembe akslar - Negatif ters tork sağa)
-            if (hexColor === 0xffff00 || hexColor === 0xff00ff) {
-                mesh.rotateOnAxis(donusEkseni, -akimHizi);
-            }
-        }
-    });
-}
+        });
+
         // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
         this.zamanOdaları.forEach((node, index) => {
             let baseAngle = (index * Math.PI * 2) / 13;
@@ -680,15 +643,15 @@ if (this.radius !== 0.35) { // Dış çeperler kararlı dönmeye devam eder
         });
 
         // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
-function animate() {
-    requestAnimationFrame(animate);
+        function animate() {
+            requestAnimationFrame(animate);
 
-    // 🔑 updateVortex fonksiyonunu çağırarak opaklık kurallarını devreye alıyoruz:
-    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
+            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
+            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
 
-    controls.update();
-    renderer.render(scene, camera);
-}
+            controls.update();
+            renderer.render(scene, camera);
+        }
 
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
