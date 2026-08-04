@@ -369,139 +369,98 @@ let aktifIndexB = 0;
 
 
 // ============================================================================
-// FPS LİMİTLEYİCİ VE ANİMASYON DÖNGÜSÜ (Satır 312 - SONU)
+// FPS LİMİTLEYİCİ VE ANİMASYON DÖNGÜSÜ (TAM VE SIZINTISIZ SÜRÜM)
 // ============================================================================
-// ============================================================================
-let globalDönüşHızı = 0.005; // Kararlı baseline dönüş momentumu
-
+let globalDönüşHızı = 0.005; 
 const hedefFPS = 25;
 const kareAralığı = 1000 / hedefFPS; // 40ms
 let sonKareZamanı = performance.now();
 
-// ============================================================================
-// BÖLÜM 4: ADIM ADIM TETİKLENEN GLUON VE AŞAMALI ROTASYON MOTORU
-// ============================================================================
-const clock = new THREE.Clock();
-
 function animate() {
     requestAnimationFrame(animate);
 
-      // 🛠 25 FPS Zaman Bazlı Filtreleme
+    // 🛠 25 FPS Zaman Kilidi
     const şimdikiZaman = performance.now();
     const geçenSüre = şimdikiZaman - sonKareZamanı;
+    if (geçenSüre < kareAralığı) return; 
 
-    if (geçenSüre < kareAralığı) return; // Süre dolmadıysa kareyi atla
-    
-   // Geçen süreyi saniyeye çevirerek delta olarak kilitliyoruz (40ms = 0.04s)
-    const sabitDelta = geçenSüre / 1000; 
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
-    const delta = clock.getDelta();
+    const sabitDelta = 1 / hedefFPS; // Sabit 0.04s
 
-    // Dönen Kafes İçindeki Canlı Kutup Odalarını Yakala
+    // 1. KAFES DÖNÜŞÜ
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
-
-    // 1. DÜZELTME: Kararlı baseline dönüş momentumunu aktif et (Kafes sürekli dönsün)
     if (beyazKutupObj && siyahKutupObj) {
         const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
-        //KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
+        KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
     }
 
-    // 2. DÜZELTME: Güvenlik kontrolü aralığını daralttık. 
-    // Sadece paket fırlatırken ve hareket ettirirken kontrollü koruma sağlıyoruz.
+    // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
     if (beyazKutupObj && siyahKutupObj) {
-        
-        // --- 1. ÇİFT GLUON TETİKLEME (Saat Yönü ve Ters Yön Aynı Anda) ---
         if (aktifPaketler.length === 0) {
-            let mevcutIdA = rodinDizisiA[aktifIndexA];
-            let sonrakiIdA = rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length];
-            let kaynakDataA = spheres.find(o => o.id === mevcutIdA);
-            let hedefDataA = spheres.find(o => o.id === sonrakiIdA);
-            let canlıKaynakMeshA = KuantumKafesi.getObjectByName(kaynakDataA.name);
-            let canlıHedefMeshA = KuantumKafesi.getObjectByName(hedefDataA.name);
+            // A Kanalı
+            let kaynakA = spheres.find(o => o.id === rodinDizisiA[aktifIndexA]);
+            let hedefA = spheres.find(o => o.id === rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length]);
+            // B Kanalı
+            let kaynakB = spheres.find(o => o.id === rodinDizisiB[aktifIndexB]);
+            let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB + 1) % rodinDizisiB.length]);
 
-            let mevcutIdB = rodinDizisiB[aktifIndexB];
-            let sonrakiIdB = rodinDizisiB[(aktifIndexB + 1) % rodinDizisiB.length];
-            let kaynakDataB = spheres.find(o => o.id === mevcutIdB);
-            let hedefDataB = spheres.find(o => o.id === sonrakiIdB);
-            let canlıKaynakMeshB = KuantumKafesi.getObjectByName(kaynakDataB.name);
-            let canlıHedefMeshB = KuantumKafesi.getObjectByName(hedefDataB.name);
+            let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
+            let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
 
-            if (canlıKaynakMeshA && canlıHedefMeshA && canlıKaynakMeshB && canlıHedefMeshB) {
-                let yeniPaketA = new KuantumPaketi(canlıKaynakMeshA, canlıHedefMeshA, hedefDataA.color);
-                yeniPaketA.hedefId = sonrakiIdA;
-                yeniPaketA.tip = "A";
-                aktifPaketler.push(yeniPaketA);
-
-                let yeniPaketB = new KuantumPaketi(canlıKaynakMeshB, canlıHedefMeshB, hedefDataB.color);
-                yeniPaketB.hedefId = sonrakiIdB;
-                yeniPaketB.tip = "B";
-                aktifPaketler.push(yeniPaketB);
+            if (meshKA && meshHA && meshKB && meshHB) {
+                [ {s: meshKA, h: meshHA, d: hedefA, t: "A"}, {s: meshKB, h: meshHB, d: hedefB, t: "B"} ].forEach(p => {
+                    let paket = new KuantumPaketi(p.s, p.h, p.d.color);
+                    paket.hedefId = p.d.id; paket.tip = p.t;
+                    aktifPaketler.push(paket);
+                });
             }
         }
 
-        // --- 2. ÇİFT PARÇACIKLI HAREKET VE SENKRONİZE VURUŞ ---
+        // Parçacık Güncelleme
         let turuTamamla = false;
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
-              paket.guncelle(sabitDelta);
-
+            paket.guncelle(sabitDelta); 
             if (paket.ilerleme >= 1.0) {
-                let hedefData = spheres.find(o => o.id === paket.hedefId);
-                let hedefMesh = KuantumKafesi.getObjectByName(hedefData.name);
-                
-                if (hedefMesh) {
-                    hedefMesh.material.emissiveIntensity = 4.0;
-                    hedefMesh.material.opacity = 1.0;
-                }
-                
+                let hData = spheres.find(o => o.id === paket.hedefId);
+                let hMesh = KuantumKafesi.getObjectByName(hData.name);
+                if (hMesh) { hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; }
                 KuantumKafesi.remove(paket.mesh);
                 aktifPaketler.splice(i, 1);
                 turuTamamla = true;
             }
         }
-
         if (turuTamamla && aktifPaketler.length === 0) {
-            // İki bağımsız döngü indeksini de bir adım ileri kaydır
             aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
             aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
         }
     }
 
-    // --- 3. DEŞARJ DÖNGÜSÜ (Güvenlik bloğunun dışına alındı, odalar her koşulda sönebilecek) ---
-spheres.forEach(s => {
-    let odaMesh = KuantumKafesi.getObjectByName(s.name);
-    if (odaMesh && !s.isPole) {
-        // 🔑 KRİTİK EKLEME: Parlama ışığı da zamanla sönmeli ki renk doygunluğu korunsun
-        if (odaMesh.material.emissiveIntensity > 0.3) {
-            odaMesh.material.emissiveIntensity -= sabitDelta * 20.0;
+    // 3. DEŞARJ DÖNGÜSÜ
+    spheres.forEach(s => {
+        let odaMesh = KuantumKafesi.getObjectByName(s.name);
+        if (odaMesh && !s.isPole) {
+            if (odaMesh.material.emissiveIntensity > 0.3) odaMesh.material.emissiveIntensity -= sabitDelta * 20.0;
+            if (odaMesh.material.opacity > 0.15) odaMesh.material.opacity -= sabitDelta * (odaMesh.material.opacity > 0.35 ? 0.2 : 1.5);
         }
+    });
 
-        // Akıllı kademeli opaklık sönmesi (Yaşam Çiçeği formu)
-        if (odaMesh.material.opacity > 0.15) {
-            let sonmeHizi = (odaMesh.material.opacity > 0.35) ? 0.2 : 1.5;
-            odaMesh.material.opacity -= sabitDelta * sonmeHizi;
-        }
-    }
-});
-
-    // --- Render ve Kontroller tamamen bağımsız çalışmalı ---
     if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
 }
 
-  // 🔑 25 FPS KORUMA VE BOYUTLANDIRMA SENSÖRÜ 
+// 🔑 GÜVENLİ RESIZE
 window.addEventListener('resize', () => {
     const yeniAspect = window.innerWidth / window.innerHeight;
-    camera.left = -d * yeniAspect;
-    camera.right = d * yeniAspect;
-    camera.top = d;
-    camera.bottom = -d;
+    camera.left = -d * yeniAspect; camera.right = d * yeniAspect;
+    camera.top = d; camera.bottom = -d;
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
-// fire the engine
+
 animate();
+
 </script>
 </body>
 </html>
