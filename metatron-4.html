@@ -187,8 +187,12 @@ initMekanizma() {
                     });
                     const b_mesh = new THREE.Mesh(b_geom, b_mat);
                     b_mesh.position.copy(pos);
-                    this.group.add(b_mesh);
-                    this.internalCubes.push(b_mesh);
+
+                    // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35), küreleri sahneye HİÇ EKLEME!
+                    if (this.radius !== 0.35) {
+                        this.group.add(b_mesh);
+                    }
+                    this.internalCubes.push(b_mesh); // Hafıza hatası vermemesi için dizide kalabilir
                 });
 
                 const coreMat = new THREE.MeshBasicMaterial({ 
@@ -587,15 +591,16 @@ updateVortex(galaktikZaman) {
             this.poleB.material.emissiveIntensity = 1.0;
         }
 
-        // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI (Işık patlamaları kapatıldı, asil görünüm korundu)
-        this.internalCubes.forEach((coreNode) => {
-            coreNode.scale.setScalar(1.0);
-            if (coreNode.material) {
-                coreNode.material.emissive.setHex(0x222222);
-                coreNode.material.emissiveIntensity = 1.0;
-                coreNode.material.opacity = 0.70;
-            }
-        });
+ // 3️⃣ 🧠 ÇEKİRDEK ODALARI DURAĞANLAŞTIRILDI
+this.internalCubes.forEach((coreNode) => {
+    coreNode.scale.setScalar(1.0);
+    // 🔑 Çekirdek katmanındakileri tamamen görünmez ve ışıksız yapıyoruz
+    if (this.radius === 0.35 && coreNode.material) {
+        coreNode.material.opacity = 0.0;
+        coreNode.material.transparent = true;
+        coreNode.material.emissiveIntensity = 0.0;
+    }
+});
 
         // 4️⃣ Yaşam Çiçeği Ufukları ve Dış Zaman Odaları Sabitlendi
         this.zamanOdaları.forEach((node, index) => {
