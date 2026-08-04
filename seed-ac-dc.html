@@ -361,11 +361,15 @@ class KuantumPaketi {
         const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
         //const pMat = new THREE.MeshBasicMaterial({ color: renk });
 
-         // 🔑 FREKANS AYRIŞTIRICI: Renkleri odalardan koparıp akım tipine (A/B) mühürler, kayıp vortexi görünür kılar!
-        const neonRengi = this.tip === "A" ? 0x00ffff : 0xff0055; // A: Neon Turkuaz, B: Elektrik Pembesi/Kırmızısı
-        const pMat = new THREE.MeshBasicMaterial({ color: neonRengi });
-
+ // 🔑 WebGL KATMAN KİLİDİ: Maskelemeyi kırar, kayıp diğer 2 paketi ekranda görünür kılar!
+        const pMat = new THREE.MeshBasicMaterial({ 
+            color: neonRengi,
+            transparent: true, opacity: 0.95,
+            depthWrite: false, // Zıt izlerin birbirini kesmesini ve saklamasını engeller
+            blending: THREE.AdditiveBlending // Zıt renkler kesiştiğinde plazma neon parlaması yaratır
+        });
         this.mesh = new THREE.Mesh(pGeom, pMat);
+
         
         // İlk doğuş pozisyonu
         this.mesh.position.copy(this.kaynak.position);
@@ -415,14 +419,15 @@ class KuantumPaketi {
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
 // ============================================================================
 // Global veri paket takibi dizisi ve Rodin dizilimi
-let aktifPaketler = [];
+aktifPaketler = [];
 //const rodinDizisi =[1,2,4,8,7,5];
-// 🌪️ ÇİFT GİRDAP DİZİLİMLERİ
-        // 🔑 4 ELEKTRON BİNARY AÇILIŞI: Renk ayrışmasını tam söylediğin Kırmızı-Mavi eksenine kilitler!
-        const rodinDizisiA = [1, 4, 7, 8, 5, 2]; // Kırmızı (1) -> Sarı (4) -> Mavi (7) Yönü
-        const rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Mavi (7) -> Sarı (4) -> Kırmızı (1) Yönü (Zıt Pompa)
+// 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
+     // 🔑 4 ELEKTRON BİNARY AÇILIŞI: Renk ayrışmasını tam söylediğin Kırmızı-Mavi eksenine kilitler!
+     // 🔑 BİNARY ORBİT MOTORU: Beyaz ekranı kırar, akımı tam söylediğin Kırmızı-Mavi zıtlığına kilitler!
+        rodinDizisiA = [1, 4, 7, 8, 5, 2]; // Kırmızı (1) -> Sarı (4) -> Mavi (7) Yönü
+        rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Mavi (7) -> Sarı (4) -> Kırmızı (1) Yönü (Zıt Pompa)
 
-let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
+paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 
 //let aktifDiziIndex = 0;
 let aktifIndexA = 0;
