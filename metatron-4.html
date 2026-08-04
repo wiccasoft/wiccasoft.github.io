@@ -637,18 +637,20 @@ updateVortex(galaktikZaman) {
             });
         }
         // updateVortex fonksiyonunun içindeki 5️⃣ numaralı döngünün bittiği yere, fonksiyon kapanmadan HEMEN ÖNCE ekleyin:
-
     // 🔑 JAVASCRIPT KESİN MÜHÜR: Çekirdek (0.35) katmanının saniyede 60 kez ezilmesini tamamen engelliyoruz
     if (this.radius === 0.35) {
         this.group.traverse((obj) => {
-            // Sadece etiketlediğimiz o merkez odalarını yakalayıp her karede zorla saydam yapıyoruz
-            if (obj.name === "cekirdek_odasi" && obj.material) {
+            // 🏆 9'LU ODA VE MERKEZ KÜRELERİN TAMAMINI KAPSAYAN SAF SAYDAMLIK FILTRESI
+            if (obj.material && (obj.name === "cekirdek_odasi" || obj.name === "cekirdek_dokuzlu_oda")) {
                 obj.material.transparent = true;
-                obj.material.opacity = 0.0; // Zorla tamamen saydam yapar
-                if (obj.material.emissiveIntensity !== undefined) obj.material.emissiveIntensity = 0.0;
+                obj.material.opacity = 0.0; // Zorla her karede tamamen saydam yapar
+                if (obj.material.emissiveIntensity !== undefined) {
+                    obj.material.emissiveIntensity = 0.0; // İç ışık sızıntılarını söndürür
+                }
             }
         });
     }
+
 } // <-- updateVortex Fonksiyonunun Kapanışı
         
         } // 🔑 MetatronGridSaati CLASS TERMINATION
