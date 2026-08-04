@@ -175,30 +175,21 @@ initMekanizma() {
                 const koseler = [, [1, 1, -1], [1, -1, 1], [1, -1, -1],
                     [-1, 1, 1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]
                 ];
-      koseler.forEach((v) => {
-    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
-    const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
-    
-    // Her katmanın materyal nesnesi .clone() ile birbirinden tamamen ayrılıyor
-    const b_mat = new THREE.MeshPhongMaterial({
-        color: 0xffffff,
-        emissive: 0xffffff,
-        emissiveIntensity: 1.5 * this.energyDensity,
-        transparent: true,
-        opacity: 0.85
-    }).clone(); // 🔑 MATERYAL BAĞIMSIZLAŞTIRILDI
-
-    const b_mesh = new THREE.Mesh(b_geom, b_mat);
-    b_mesh.position.copy(pos);
-
-    // 🔑 KATMANINA GÖRE JAVASCRIPT ISIM MÜHÜRLEMESI
-    if (this.radius === 0.35) b_mesh.name = "cekirdek_odasi";
-    else if (this.radius === 0.55) b_mesh.name = "orta_dunya_odasi";
-    else if (this.radius === 0.85) b_mesh.name = "dis_kalkan_odasi";
-
-    this.group.add(b_mesh);
-    this.internalCubes.push(b_mesh);
-});
+                koseler.forEach((v) => {
+                    const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
+                    const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
+                    const b_mat = new THREE.MeshPhongMaterial({
+                        color: 0xffffff,
+                        emissive: 0xffffff,
+                        emissiveIntensity: 1.5 * this.energyDensity,
+                        transparent: true,
+                        opacity: 0.85
+                    });
+                    const b_mesh = new THREE.Mesh(b_geom, b_mat);
+                    b_mesh.position.copy(pos);
+                    this.group.add(b_mesh);
+                    this.internalCubes.push(b_mesh);
+                });
 
                 const coreMat = new THREE.MeshBasicMaterial({ 
                     color: 0x00ffff, 
@@ -511,20 +502,15 @@ initElementKutuplari() {
             [-1, 1, -1], [-1, -1, 1], [-1, -1, -1], [1, 1, 1]
         ];
 
-for (let i = 0; i < odaAdedi; i++) {
-    const iskeletMat = new THREE.MeshPhongMaterial({
-        color: 0x555555,
-        emissive: 0x111111,
-        transparent: true,
-        opacity: 0.75
-    }).clone(); // 🔑 MATERYAL BAĞIMSIZLAŞTIRILDI
-
-    const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
-
-    // 🔑 KATMANINA GÖRE 9'LU, 13'LÜ, 21'Lİ ODA ISIM MÜHÜRLEMESI
-    if (this.radius === 0.35) nodeMesh.name = "cekirdek_dokuzlu_oda";
-    else if (this.radius === 0.55) nodeMesh.name = "orta_onuc_oda";
-    else if (this.radius === 0.85) nodeMesh.name = "dis_yirmibir_oda";
+        for (let i = 0; i < odaAdedi; i++) {
+            // Tam gönderdiğin resimdeki asil gri/füme renginde MeshPhongMaterial mühürleniyor
+            const iskeletMat = new THREE.MeshPhongMaterial({
+                color: 0x555555,
+                emissive: 0x111111,
+                transparent: true,
+                opacity: 0.75
+            });
+            const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
 
             // 🌀 ALTIN ORAN PİRAMİT SPİRAL DAĞILIMI
             let aci = i * (Math.PI * 2 * 0.618033); // Altın oran bükümü
@@ -636,23 +622,7 @@ updateVortex(galaktikZaman) {
                 }
             });
         }
-        // updateVortex fonksiyonunun içindeki 5️⃣ numaralı döngünün bittiği yere, fonksiyon kapanmadan HEMEN ÖNCE ekleyin:
-    // 🔑 JAVASCRIPT KESİN MÜHÜR: Çekirdek (0.35) katmanının saniyede 60 kez ezilmesini tamamen engelliyoruz
-    if (this.radius === 0.35) {
-        this.group.traverse((obj) => {
-            // 🏆 9'LU ODA VE MERKEZ KÜRELERİN TAMAMINI KAPSAYAN SAF SAYDAMLIK FILTRESI
-            if (obj.material && (obj.name === "cekirdek_odasi" || obj.name === "cekirdek_dokuzlu_oda")) {
-                obj.material.transparent = true;
-                obj.material.opacity = 0.0; // Zorla her karede tamamen saydam yapar
-                if (obj.material.emissiveIntensity !== undefined) {
-                    obj.material.emissiveIntensity = 0.0; // İç ışık sızıntılarını söndürür
-                }
-            }
-        });
     }
-
-} // <-- updateVortex Fonksiyonunun Kapanışı
-        
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
         // --- INSTANTIATE MECHANISM & START GALAKTİK TIME CYCLE ---
@@ -673,63 +643,15 @@ updateVortex(galaktikZaman) {
         });
 
         // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
-function animate() {
-    requestAnimationFrame(animate);
+        function animate() {
+            requestAnimationFrame(animate);
 
-    // 1️⃣ Maintain deep state clock synchronization for standard layer behaviors
-    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
+            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
+            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
 
-    // 🏆 2️⃣ SEED-BASED CORE GHOSTING PROTOCOL (0.35 Layer Override Lock)
-    if (metatronMatrisi && metatronMatrisi[0]) {
-        metatronMatrisi[0].group.traverse((obj) => {
-            if (obj.name === "cekirdek_odasi" && obj.material) {
-                obj.material.transparent = true;
-                obj.material.opacity = 0.0; // Enforces absolute vacancy at the geometric center
-                if (obj.material.emissiveIntensity !== undefined) {
-                    obj.material.emissiveIntensity = 0.0;
-                }
-            }
-        });
-    }
-
-    // ⚡ 3️⃣ ELEMENT AXIS THERMAL SPEED IGNITION LOOP (Red to Green Spectrum)
-    // We isolate and calculate scalar spin-up metrics using pure trigonometric waves
-    const timeClock = Date.now() * 0.001; 
-    const currentSpinSpeed = Math.abs(Math.sin(timeClock * 0.4)); // Fluctuates seamlessly between 0.0 and 1.0
-    
-    // Scale emissive bloom output linearly based on virtual rotational velocity
-    const thermalEmissiveIntensity = currentSpinSpeed * 3.5; 
-
-    // Spectral Interpolation: (Red channel locked high, green channel climbs proportionally with velocity)
-    const activePlasmaColor = new THREE.Color(1.0, currentSpinSpeed, 0.0);
-
-    if (metatronMatrisi && metatronMatrisi[0]) {
-        metatronMatrisi[0].group.children.forEach((mesh) => {
-            // Isolate only the explicit element nodes (Black, White, Yellow, Magenta vector terminals)
-            if (mesh && mesh.material && mesh.material.color && typeof mesh.material.color.getHex === 'function') {
-                const vectorHexColor = mesh.material.color.getHex();
-
-                // Match element markers specifically within the core layer topology
-                if (vectorHexColor === 0x111111 || vectorHexColor === 0xffffff || vectorHexColor === 0xffff00 || vectorHexColor === 0xff00ff) {
-                    
-                    // Maintain standard transparency until field ignition forces opacity outward
-                    mesh.material.transparent = true;
-                    mesh.material.opacity = 0.20 + (currentSpinSpeed * 0.80); 
-
-                    // Inject the localized thermal shifts directly into the node state vectors
-                    if (mesh.material.emissiveIntensity !== undefined) {
-                        mesh.material.emissive.copy(activePlasmaColor); 
-                        mesh.material.emissiveIntensity = thermalEmissiveIntensity; 
-                    }
-                }
-            }
-        });
-    }
-
-    controls.update();
-    renderer.render(scene, camera);
-}
-
+            controls.update();
+            renderer.render(scene, camera);
+        }
 
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
