@@ -359,13 +359,18 @@ class KuantumPaketi {
         KuantumKafesi.add(this.mesh);
     }
     guncelle(delta) {
-        // 🚀 KEPPLER İVMELENMESİ & 🌀 SWASTIKA MİKRO SARMALI
-        let dinamikIvme = 1.8 + Math.sin(this.ilerleme * Math.PI) * 1.5;
-        this.ilerleme += delta * dinamikIvme;
+        // 🚀 GERÇEK AC KEPLER İVMELENMESİ (Kutuplara yaklaştıkça sapan etkisi yaratır)
+        // Sabit 1.8 hızı yerine, ilerleme durumuna bağlı sinüs dalgalı değişken hız çarpanı
+        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * 2.8;
+        this.ilerleme += delta * dalgaliIvme;
+
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
-        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.12; 
+        
+        // 🌀 SWASTIKA MİKRO GİRDAP DERİNLİĞİ (Görsel bükümü belirginleştirmek için 0.12'den 0.18'e yükseltildi)
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.18; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
-        // Bükümlü yörünge hesaplaması
+
+        // Bükümlü yörünge hesaplaması (Parçacıklar uzayda tam bir sarmal spiral çizer)
         this.mesh.position.set(
             merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu,
