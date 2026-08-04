@@ -455,8 +455,9 @@ function animate() {
             let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
 
-            if (meshKA && meshHA && meshKB && meshHB) {
-                [ { s: meshKA, h: meshHA, d: hedefA, t: "A"}, { s: meshKB, h: meshHB, d:毀 hedefB, t: "B"} ].forEach(p => {
+  if (meshKA && meshHA && meshKB && meshHB) {
+                // 🔑 Clear of any foreign artifacts, pure symmetric AC multi-vortex firing
+                [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
                     ["UP", "CENTER", "DOWN"].forEach(katman => {
                         let paket = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman);
                         paket.hedefId = p.d.id; 
