@@ -459,8 +459,8 @@ function animate() {
             let kaynakA = spheres.find(o => o.id === rodinDizisiA[aktifIndexA]);
             let hedefA = spheres.find(o => o.id === rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length]);
             let kaynakB = spheres.find(o => o.id === rodinDizisiB[aktifIndexB]);
-            // 🔑 B mermisinin hedefini dizideki bir sonraki (+1) elemana senkronize eder:
-let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB + 1) % rodinDizisiB.length]);
+ // 🔑 GERÇEK REVERSE PUMP: B mermisinin hedefini matematiksel olarak geriye doğru okutur
+            let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length]);
 
             let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
@@ -482,7 +482,7 @@ let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB + 1) % rodinDi
                         
                         // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
                         if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-                        if (p.t === "B") aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
+                        if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
                     }
                 });
 
