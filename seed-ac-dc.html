@@ -5,12 +5,14 @@
   <title>Küp + İç Piramitler + Plus + Tetrahedronlar</title>
   <style>
 /* seed.html içindeki style etiketinin içine ekleyin */
-html, body { 
-    margin: 0; 
+/* 🔑 BEYAZ PERDEYİ ANINDA YIRTAN CSS MÜHÜRÜ: HTML gövdesini kalıcı kozmik siyaha boyar! */
+html, body {
+    margin: 0;
     padding: 0;
     width: 100%;
     height: 100%;
-    overflow: hidden !important; /* Kaydırmayı zorla kapatır */
+    background: #000000 !important; /* 🌟 İŞTE O SATIR! */
+    overflow: hidden !important; 
 }
 canvas { 
     display: block; 
@@ -541,11 +543,16 @@ function animate() {
     });
 
  // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
-    renderer.autoClear = false; // Otomatik temizliği kapat, izlerin üst üste binmesini sağla
+    // 🔑 KOZMİK SİYAH AÇILIŞI: Beyaz Alpha katmanını anında yırtar, gluonları kapatmadan arkadaki derin karanlık matrisi açar!
+    if (renderer.autoClear === true || performance.now() < 2000) {
+        renderer.setClearColor(0x000000, 1);
+        renderer.clear(); // İlk karelerde beyaz buffer katmanını tamamen kazır ve simsiyah yapar
+        renderer.autoClear = false;
+    }
     
-    // 🔑 KOZMİK SİYAH MÜHÜRÜ: Beyaz perdeyi yırtar, her karede eski izleri %5 saydamlıkla yavaşça sönümler!
-    renderer.setClearColor(0x000000, 0.05); 
-    renderer.clearColor(); // Sadece renk katmanını hafifçe temizler, hafızayı şişirmez
+    // Her karede eski neon izlerini %5 sönümleyerek havada asılı kalan Yaşam Çiçeği tüplerini örer
+    renderer.setClearColor(0x000000, 0.05);
+    renderer.clearColor(); 
     renderer.clearDepth(); // 3D derinlik tamponunu sıfırlayarak GPU'yu tamamen rahatlatır
 
     if (typeof controls !== 'undefined') controls.update();
