@@ -202,13 +202,14 @@ scene.add(new THREE.AmbientLight(0xffffff));
 
 
 
-// Beyaz ve siyah kürelerin pozisyonları
-const whitePos = new THREE.Vector3(-0.25, 0.25, -0.25);
-const blackPos = new THREE.Vector3(0.25, -0.25, 0.25);
+// Beyaz ve siyah kürelerin yeni dikey omurga pozisyonları
+const whitePos = new THREE. Vector3( 0,  0.35, 0); // 🔑 Beyaz tam dikey Kuzey
+const blackPos = new THREE. Vector3( 0, -0.35, 0); // 🔑 Siyah tam dikey Güney
+
+// Yeşil eksen: dikey beyaz ve siyah kutup odalarını tam ortadan birleştiren çizgi
+addAxis( 0x00ff00, blackPos, whitePos);
 
 
-// Yeşil eksen: beyaz ve siyah küreleri birleştiren çizgi
-addAxis(0x00ff00, blackPos, whitePos);
 
 
 
