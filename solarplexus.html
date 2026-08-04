@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Kusursuz Girdap Gök Mekanizması</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #050508;
+            color: #fff;
+            font-family: monospace;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        canvas {
+            background: #000;
+            box-shadow: 0 0 40px rgba(0, 191, 255, 0.15);
+            border-radius: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <canvas id="vortexSolarSystem" width="900" height="900"></canvas>
+
+<script>
+    const canvas = document.getElementById('vortexSolarSystem');
+    const ctx = canvas.getContext('2d');
+
+    const cx = canvas.width / 2;
+    const cy = canvas.height / 2;
+
+    // --- GEOMETRİK ÖLÇÜLER (Fraktal 2 Kat Hacim/Yarıçap İlkesi) ---
+    const R1 = 70;         // 1. Çekirdek (Mars-Merkür)
+    const R2 = R1 * 2;     // 2. Çekirdek (Venüs-Dünya)
+    const R3 = R1 * 3.5;   // 3. Kabuk / Küp Kenarı (Uranüs-Neptün)
+    const R_Zodiac = R1 * 4.5; // En dış Zodyak çemberi
+
+    // --- ORTALAMA BAŞLANGIÇ AÇILARI ---
+    let angle1 = 0;        // 1. İç Çekirdek (Sıcak Triad)
+    let angle2 = 0;        // 2. Orta Çekirdek (Soğuk Triad)
+    let J_S_Aks = 0;       // Jüpiter-Satürn Metronomu
+    let pentagramShift = 0;// Zodyaktaki geometrik kayma
+
+    // Küpün Zodyak İçi 8 Köşesi (Takozlar / Küp Projeksiyonu)
+    const cubeVertices = [];
+    for (let i = 0; i < 8; i++) {
+        cubeVertices.push((i * Math.PI / 4)); 
+    }
+
+    function drawSacredGeometry() {
+        // Yumuşak Torus İzi için hafif temizleme (25-60 FPS akış dostu)
+        ctx.fillStyle = 'rgba(5, 5, 8, 0.08)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        // --- YAŞAM ÇIÇEĞİ / KAFES ÇİZİMİ ---
+        ctx.strokeStyle = 'rgba(255, 255, 255, 0.03)';
+        ctx.lineWidth = 1;
+        
+        // Ana Çemberler
+        [R1, R2, R3, R_Zodiac].forEach(r => {
+            ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.stroke();
+        });
+
+        // --- 3. KATMAN: KABUK VE ZODYAK KÜPÜ KÖŞELERİ ---
+        ctx.strokeStyle = 'rgba(255, 255, 255, 0.1)';
+        cubeVertices.forEach((vertexAngle, index) => {
+            let x = cx + R3 * Math.cos(vertexAngle + pentagramShift * 0.1);
+            let y = cy + R3 * Math.sin(vertexAngle + pentagramShift * 0.1);
+            
+            // Küpün köşelerini işaretle
+            ctx.beginPath(); ctx.arc(x, y, 3, 0, Math.PI * 2);
+            ctx.fillStyle = (index % 2 === 0) ? '#4b0082' : '#00cecb'; // İndigo ve Turkuaz kabuk
+            ctx.fill();
+
+            // Merkez ile olan yapısal bağlar (Metatron ağ bağlantıları)
+            ctx.beginPath(); ctx.moveTo(cx, cy); ctx.lineTo(x, y); ctx.stroke();
+        });
+
+        // KABUK GEZEGENLERİ: URANÜS (5) & NEPTÜN (7)
+        let uranusX = cx + R3 * Math.cos(angle2 * 0.2);
+        let uranusY = cy + R3 * Math.sin(angle2 * 0.2);
+        let neptunX = cx + R3 * Math.cos((angle2 * 0.2) + Math.PI); // 180 derece karşıtı
+        let neptunY = cy + R3 * Math.sin((angle2 * 0.2) + Math.PI);
+
+        ctx.beginPath(); ctx.arc(uranusX, uranusY, 5, 0, Math.PI * 2); ctx.fillStyle = '#8a2be2'; ctx.fill(); // Mor (5)
+        ctx.beginPath(); ctx.arc(neptunX, neptunY, 5, 0, Math.PI * 2); ctx.fillStyle = '#4169e1'; ctx.fill(); // Mavi (7)
+
+
+        // --- 1. ÇEKİRDEK (İÇ): MARS (1) & MERKÜR (2) BINARY ---
+        let marsX = cx + R1 * Math.cos(angle1);
+        let marsY = cy + R1 * Math.sin(angle1);
+        let mercuryX = cx + R1 * Math.cos(angle1 + Math.PI); // Tam Karşıtı
+        let mercuryY = cy + R1 * Math.sin(angle1 + Math.PI);
+
+        // Gezegenleri çiz
+        ctx.beginPath(); ctx.arc(marsX, marsY, 5.5, 0, Math.PI * 2); ctx.fillStyle = '#ff3333'; ctx.fill(); // Kırmızı (1)
+        ctx.beginPath(); ctx.arc(mercuryX, mercuryY, 4.5, 0, Math.PI * 2); ctx.fillStyle = '#ffa500'; ctx.fill(); // Turuncu (2)
+        
+        // İç aksı bağla
+        ctx.strokeStyle = 'rgba(255, 69, 0, 0.35)';
+        ctx.beginPath(); ctx.moveTo(marsX, marsY); ctx.lineTo(mercuryX, mercuryY); ctx.stroke();
+
+
+        // --- 2. ÇEKİRDEK (ORTA): VENÜS (4) & DÜNYA (8) BINARY ---
+        // Bu katman iç çekirdeğin tam 2 katı hacmindedir (R2)
+        let venusX = cx + R2 * Math.cos(angle2 + pentagramShift);
+        let venusY = cy + R2 * Math.sin(angle2 + pentagramShift);
+        let earthX = cx + R2 * Math.cos(angle2 + Math.PI + pentagramShift); // Tam Karşıtı
+        let earthY = cy + R2 * Math.sin(angle2 + Math.PI + pentagramShift);
+
+// SARI Venüs (Solar Pleksus - 4)
+ctx.beginPath(); ctx.arc(venusX, venusY, 6.5, 0, Math.PI * 2); 
+ctx.fillStyle = '#ffff00'; ctx.fill(); // Sarı renge büküldü 💛
+
+// YEŞİL Dünya (Kalp Çakrası - 8)
+ctx.beginPath(); ctx.arc(earthX, earthY, 7.5, 0, Math.PI * 2); 
+ctx.fillStyle = '#00ff00'; ctx.fill(); // Yeşil renge büküldü 💚Açık Mavi (8)
+
+        // Pentagram/Maddesel bağ hattı
+        ctx.strokeStyle = 'rgba(0, 255, 136, 0.25)';
+        ctx.beginPath(); ctx.moveTo(venusX, venusY); ctx.lineTo(earthX, earthY); ctx.stroke();
+
+
+        // --- JÜPİTER (3) & SATÜRN (6) METRONOM AKSINI GÖSTER ---
+        // 3-6 Manyetik Sarkacı kabuk ile çekirdek arasında vites geçişi yapar
+        let jupiterX = cx + R3 * Math.cos(J_S_Aks);
+        let jupiterY = cy + R3 * Math.sin(J_S_Aks);
+        let saturnX = cx + R3 * Math.cos(J_S_Aks + Math.PI);
+        let saturnY = cy + R3 * Math.sin(J_S_Aks + Math.PI);
+
+        ctx.strokeStyle = 'rgba(138, 43, 226, 0.15)';
+        ctx.beginPath(); ctx.moveTo(jupiterX, jupiterY); ctx.lineTo(saturnX, saturnY); ctx.stroke();
+
+
+        // --- DÖNGÜ SÜRELERİ VE HIZ GÜNCELLEMELERİ (Rodin/Vortex Oranları) ---
+        angle1 += 0.015;               // İç çekirdek hızı (Mars-Merkür 1 Yıllık Ana Sarkaç)
+        angle2 -= 0.009;               // Orta çekirdek (Venüs-Dünya, ters yönlü denge)
+        J_S_Aks += 0.002;              // Jüpiter-Satürn (En yavaş vites / Metronom)
+        pentagramShift += 0.0004;      // Geometrik yapının Zodyakta kaymasını sağlayan tetikleyici
+
+        requestAnimationFrame(drawSacredGeometry);
+    }
+
+    // Döngüyü Başlat
+    drawSacredGeometry();
+</script>
+</body>
+</html>
