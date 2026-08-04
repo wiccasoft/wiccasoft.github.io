@@ -205,11 +205,16 @@ scene.add(new THREE.AmbientLight(0xffffff));
 
 
 // Beyaz ve siyah kürelerin yeni dikey omurga pozisyonları
-const whitePos = new THREE. Vector3( 0,  0.35, 0); // 🔑 Beyaz tam dikey Kuzey
-const blackPos = new THREE. Vector3( 0, -0.35, 0); // 🔑 Siyah tam dikey Güney
+//const whitePos = new THREE. Vector3( 0,  0.35, 0); // 🔑 Beyaz tam dikey Kuzey
+//const blackPos = new THREE. Vector3( 0, -0.35, 0); // 🔑 Siyah tam dikey Güney
+
+// 🔑 ÇAPRAZ OMURGA MÜHÜRÜ: Yeşil mili tam \(\sqrt{2}\) köşegen aksından geçirir
+const whitePos = new THREE.Vector3(-0.25,  0.25, -0.25); 
+const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
+addAxis(0x00ff00, blackPos, whitePos);
 
 // Yeşil eksen: dikey beyaz ve siyah kutup odalarını tam ortadan birleştiren çizgi
-addAxis( 0x00ff00, blackPos, whitePos);
+//addAxis( 0x00ff00, blackPos, whitePos);
 
 
 
@@ -275,20 +280,21 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 // Kutsal girdap matrisine uygun olarak id'ler ve Türkçe isimler güncellendi.
 // 3 (Beyaz) ve 6 (Siyah) manyetik kutup olarak işaretlendi.
  // ============================================================================
-        // ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ
-        // ============================================================================
-        // 🔑 DİKEY OMURGA MÜHÜRÜ: Centers the 3 and 6 poles on the clean Y-axis to square the Toroid paths perfectly
-        const spheres = [
-            { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25, 0,  0.25), color: 0xff0000, isPole: false },
-            { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25, 0, -0.25), color: 0xff6600, isPole: false },
-            { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0,    0, -0.35), color: 0xffff00, isPole: false },
-            { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, 0, -0.25), color: 0x00ff00, isPole: false },
-            { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, 0,  0.25), color: 0x0000ff, isPole: false },
-            { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3( 0,    0,  0.35), color: 0x660099, isPole: false },
-            { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3( 0,  0.35,    0), color: 0xffffff, isPole: true  }, // 🌟 ABSOLUTE APEX (NORTH)
-            { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0, -0.35,    0), color: 0x222222, isPole: true  }  // 🌟 ABSOLUTE BASE (SOUTH)
-        ];
-
+// ============================================================================
+// ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ
+// ============================================================================
+// 🔑 \(\sqrt{2}\) KUTSAL PUSULA MÜHÜRÜ: Beyaz ve Siyah tam \(\sqrt{2}\) çapraz köşegen aksına geri taşındı! 
+// Atomun o yavaşlatılmış kabuğu kırıldı, gerçek bükümlü implosion alanı serbest bırakıldı!
+const spheres = [
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, // Kırmızı Köşe
+    { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff6600, isPole: false },
+    { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false }, // Yeşil Karşı Köşe
+    { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false }, // Mavi Oposite
+    { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x660099, isPole: false },
+    { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true  }, // 🌟 \(\sqrt{2}\) ÇAPRAZ KUTUP (KUZEYBATI)
+    { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true  }  // 🌟 \(\sqrt{2}\) ÇAPRAZ TABAN (GÜNEYDOĞU)
+];
 // ============================================================================
 // ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 245 - 258)
 // ============================================================================
@@ -423,7 +429,7 @@ class KuantumPaketi {
 // Global veri paket takibi dizisi ve Rodin dizilimi
 let aktifPaketler = [];
 //const rodinDizisi =[1,2,4,8,7,5];
-// 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
+// 🌪️ ÇİFT GİRDAP DİZİLİMLERİ 
 
 const rodinDizisiA = [1, 4, 7, 8, 5, 2]; 
 const rodinDizisiB = [7, 4, 1, 5, 8, 2]; 
