@@ -641,15 +641,53 @@ updateVortex(galaktikZaman) {
             saat.group.position.set(0, 0, 0);
             KuantumKafesi.add(saat.group);
         });
-
-       function animate() {
+function animate() {
     requestAnimationFrame(animate);
 
     // 🔑 updateVortex fonksiyonunu çağırarak opaklık kurallarını devreye alıyoruz:
     metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
 
-    // 🏆 2 SATIRLIK KESİN ÇÖZÜM: Çekirdek nesnesinin (children dizisinin) içine sızıp her karede opaklığı sıfırlıyoruz
-    if (metatronMatrisi[0]) metatronMatrisi[0].group.traverse(obj => { if (obj.material) { obj.material.transparent = true; obj.material.opacity = 0.0; } });
+    // 🏆 1. ADIM: 9'LU REFERANS DIZISININ OPACITY DEĞERLERINI JAVASCRIPT ILE SIFIRLA
+    if (metatronMatrisi[0] && metatronMatrisi[0].dinamikCubes) {
+        metatronMatrisi[0].dinamikCubes.forEach(obj => {
+            if (obj.material) {
+                obj.material.transparent = true;
+                obj.material.opacity = 0.0; // 💡 9'lu odanın gri kürelerini her karede zorla saydam yapar
+            }
+        });
+    }
+
+    // 🏆 2. ADIM: ÇEKİRDEK GRUBUNDAKİ DİĞER TÜM BİLEŞENLERİ SIFIRLA
+    if (metatronMatrisi[0]) {
+        metatronMatrisi[0].group.traverse(obj => { 
+            if (obj.material) { 
+                obj.material.transparent = true; 
+                obj.material.opacity = 0.0; 
+            } 
+        });
+    }
+
+    // ⚡ 3. ADIM: ATEŞ (SOLA) VE TOPRAK (SAĞA) ZIT YÖNLÜ REZONANS MOTORU
+    const akimHizi = 0.015;
+    const donusEkseni = new THREE.Vector3(-1, -1, -1).normalize(); // Kutsal rezonans mili
+
+    if (metatronMatrisi[0]) {
+        metatronMatrisi[0].group.children.forEach((mesh) => {
+            if (mesh && mesh.material && mesh.material.color && typeof mesh.material.color.getHex === 'function') {
+                const hexColor = mesh.material.color.getHex();
+
+                // 🟥 ATEŞ AKSI (Siyah veya Beyaz bileşenler) -> Bilgiyi SOLA (Pozitif tork) büküyoruz
+                if (hexColor === 0x111111 || hexColor === 0xffffff) {
+                    mesh.rotateOnAxis(donusEkseni, akimHizi);
+                }
+
+                // 🟨 TOPRAK AKSI (Sarı veya Pembe bileşenler) -> Tam tersi açıda SAĞA (Negatif tork) büküyoruz
+                if (hexColor === 0xffff00 || hexColor === 0xff00ff) {
+                    mesh.rotateOnAxis(donusEkseni, -akimHizi);
+                }
+            }
+        });
+    }
 
     controls.update();
     renderer.render(scene, camera);
