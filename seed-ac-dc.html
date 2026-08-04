@@ -264,28 +264,23 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 // 8 küre objesi (renkler doğru eşleşme ile)
 // ============================================================================
-// AKUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ
+// ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ (Satır 223)
 // ============================================================================
 // Kutsal girdap matrisine uygun olarak id'ler ve Türkçe isimler güncellendi.
 // 3 (Beyaz) ve 6 (Siyah) manyetik kutup olarak işaretlendi.
-// - Odalar elementAkslari vektörlerine çivilendi,userData mühürlendi
-const kutupVektoru = elementAkslari[2].yon; // Kırmızı-Yeşil Aksonu
-const emiciVektör = elementAkslari[3].yon;  // Turuncu-Mavi Aksonu
-const iticiVektör = elementAkslari[1].yon;  // Sarı-Pembe Aksonu
-const polarVektör = elementAkslari[0].yon;  // Siyah-Beyaz Aksonu
-
 const spheres = [
-    { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: kutupVektoru.clone().multiplyScalar(aksGenisligi), color: 0xff0000, isPole: false },
-    { id: 8, name: "YESIL_ENERJI_ODASI", pos: kutupVektoru.clone().multiplyScalar(-aksGenisligi), color: 0x00ff00, isPole: false },
-    { id: 2, name: "TURUNCU_EMICI_ODA", pos: emiciVektör.clone().multiplyScalar(aksGenisligi), color: 0xff6600, isPole: false },
-    { id: 7, name: "MAVI_KALKAN_ODASI", pos: emiciVektör.clone().multiplyScalar(-aksGenisligi), color: 0x0000ff, isPole: false },
-    { id: 4, name: "SARI_ITICI_ODA", pos: iticiVektör.clone().multiplyScalar(aksGenisligi), color: 0xffff00, isPole: false },
-    { id: 5, name: "MOR_KABUK_ODASI", pos: iticiVektör.clone().multiplyScalar(-aksGenisligi), color: 0x660099, isPole: false },
-    { id: 3, name: "BEYAZ_KUTUP_ODASI", pos: polarVektör.clone().multiplyScalar(aksGenisligi), color: 0xffffff, isPole: true },
-    { id: 6, name: "SIYAH_KUTUP_ODASI", pos: polarVektör.clone().multiplyScalar(-aksGenisligi), color: 0x222222, isPole: true }
+  { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false },
+  { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff6600, isPole: false },
+  { id: 4, name: "SARI_ITICI_ODA",       pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
+  { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false },
+  { id: 7, name: "MAVI_KALKAN_ODASI",    pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false },
+  { id: 5, name: "MOR_KABUK_ODASI",      pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x660099, isPole: false },
+  { id: 3, name: "BEYAZ_KUTUP_ODASI",    pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true },
+  { id: 6, name: "SIYAH_KUTUP_ODASI",    pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true }
 ];
+
 // ============================================================================
-// ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 288>)
+// ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 245 - 258)
 // ============================================================================
 spheres.forEach(s => {
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
@@ -309,8 +304,6 @@ const mat = new THREE.MeshPhongMaterial({
   sphere.name = s.name; 
   KuantumKafesi.add(sphere);
 });
-
-
 
 // Küre materyali (saydam)
 /*const sphereMaterial = new THREE.MeshPhongMaterial({
@@ -351,21 +344,6 @@ function setTopView(camera, controls) {
   controls.update();
 }
 
-
-// ============================================================================
-// DOUBLE VORTEX (SWASTIKA) VE KUTSAL KAN POMPALAMA MOTORU
-// ============================================================================
-// Global veri paket takibi dizisi ve Rodin dizilimi
-let aktifPaketler = [];
-//const rodinDizisi =[1,2,4,8,7,5];
-// 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
-const rodinDizisiA = [1, 2, 4, 8, 7, 5]; // Saat Yönü Tersi
-const rodinDizisiB = [8, 7, 5, 1, 2, 4]; // Saat Yönü (Ters Pompa)
-
-//let aktifDiziIndex = 0;
-let aktifIndexA = 0;
-
-
 // ============================================================================
 // DOBLE VORTEX DATA SET
 // ============================================================================
@@ -397,7 +375,18 @@ class KuantumPaketi {
 }
 
 
+// ============================================================================
+// DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
+// ============================================================================
+// Global veri paket takibi dizisi ve Rodin dizilimi
+let aktifPaketler = [];
+//const rodinDizisi =[1,2,4,8,7,5];
+// 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
+const rodinDizisiA = [1, 2, 4, 8, 7, 5]; // Saat Yönü Tersi
+const rodinDizisiB = [8, 7, 5, 1, 2, 4]; // Saat Yönü (Ters Pompa)
 
+//let aktifDiziIndex = 0;
+let aktifIndexA = 0;
 let aktifIndexB = 0;
 
 
@@ -409,59 +398,81 @@ const hedefFPS = 25;
 const kareAralığı = 1000 / hedefFPS; // 40ms
 let sonKareZamanı = performance.now();
 
-// Animasyon döngüsü (rodinDizisiA ve B'yi kullanarak KuantumPaketi'ni yönetir)
 function animate() {
     requestAnimationFrame(animate);
-    // uyarınca hatalı yorum blokları temizlendi, paket üretim motoru aktif edildi.
-    // Deşarj Döngüsü ve Swastika sarmal akışı entegre edildi.
-  // === 🌀 GERÇEK AC MULTI-VORTEX MULTIPLEXER MOTORU ===
-    let pData = [
-        { dizi: rodinDizisiA, idx: aktifIndexA, t: "A" },
-        { dizi: rodinDizisiB, idx: aktifIndexB, t: "B" }
-    ];
-    
-    pData.forEach(p => {
-        // 🚀 KİLİT KALDIRILDI: Havada parçacık olsa bile her karede yeni dalga tetiklenir!
-        let kData = spheres.find(o => o.id === p.dizi[p.idx]);
-        let hData = spheres.find(o => o.id === p.dizi[(p.idx + 1) % p.dizi.length]);
-        let mK = KuantumKafesi.getObjectByName(kData.name);
-        let mH = KuantumKafesi.getObjectByName(hData.name);
 
-        if (mK && mH) {
-            let paket = new KuantumPaketi(mK, mH, hData.color);
-            paket.hedefId = hData.id; 
-            paket.tip = p.t;
-            aktifPaketler.push(paket);
+    // 🛠 25 FPS Zaman Kilidi
+    const şimdikiZaman = performance.now();
+    const geçenSüre = şimdikiZaman - sonKareZamanı;
+    if (geçenSüre < kareAralığı) return; 
 
-            // Akım frekansını katlayarak ileri fırlat
-            if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-            if (p.t === "B") aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
-        }
-    });
-    
-    pData.forEach(p => {
-        // Havada o tipten (A veya B) parçacık yoksa double ateşleme tetiklenir
-        if (!aktifPaketler.some(x => x.tip === p.t)) { 
-            let kData = spheres.find(o => o.id === p.dizi[p.idx]);
-            let hData = spheres.find(o => o.id === p.dizi[(p.idx + 1) % p.dizi.length]);
-            let mK = KuantumKafesi.getObjectByName(kData.name);
-            let mH = KuantumKafesi.getObjectByName(hData.name);
+    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
+    const sabitDelta = 1 / hedefFPS; // Sabit 0.04s
 
-            if (mK && mH) {
-                let paket = new KuantumPaketi(mK, mH, hData.color);
-                paket.hedefId = hData.id; 
-                paket.tip = p.t;
-                aktifPaketler.push(paket);
+    // 1. KAFES DÖNÜŞÜ
+    const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
+    const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
+    if (beyazKutupObj && siyahKutupObj) {
+        //const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
+        // KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı); // 🔑 Ana spin kapatıldı
+        //KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
+    }
 
-                // 2. DOKUNUŞ: ATEŞLENDİĞİ AN SIRADAKİ NOKTAYA ÇİVİLE! (2 satır kod)
-                if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-                if (p.t === "B") aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
+    // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
+    if (beyazKutupObj && siyahKutupObj) {
+        if (aktifPaketler.length === 0) {
+            // A Kanalı
+            let kaynakA = spheres.find(o => o.id === rodinDizisiA[aktifIndexA]);
+            let hedefA = spheres.find(o => o.id === rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length]);
+            // B Kanalı
+            let kaynakB = spheres.find(o => o.id === rodinDizisiB[aktifIndexB]);
+            let hedefB = spheres.find(o => o.id === rodinDizisiB[(aktifIndexB + 1) % rodinDizisiB.length]);
+
+            let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
+            let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
+
+            if (meshKA && meshHA && meshKB && meshHB) {
+                [ {s: meshKA, h: meshHA, d: hedefA, t: "A"}, {s: meshKB, h: meshHB, d: hedefB, t: "B"} ].forEach(p => {
+                    let paket = new KuantumPaketi(p.s, p.h, p.d.color);
+                    paket.hedefId = p.d.id; paket.tip = p.t;
+                    aktifPaketler.push(paket);
+                });
             }
         }
+
+        // Parçacık Güncelleme
+        let turuTamamla = false;
+        for (let i = aktifPaketler.length - 1; i >= 0; i--) {
+            let paket = aktifPaketler[i];
+            paket.guncelle(sabitDelta); 
+            if (paket.ilerleme >= 1.0) {
+                let hData = spheres.find(o => o.id === paket.hedefId);
+                let hMesh = KuantumKafesi.getObjectByName(hData.name);
+                if (hMesh) { hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; }
+                KuantumKafesi.remove(paket.mesh);
+                aktifPaketler.splice(i, 1);
+                turuTamamla = true;
+            }
+        }
+        if (turuTamamla && aktifPaketler.length === 0) {
+            aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
+            aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
+        }
+    }
+
+    // 3. DEŞARJ DÖNGÜSÜ
+    spheres.forEach(s => {
+        let odaMesh = KuantumKafesi.getObjectByName(s.name);
+        if (odaMesh && !s.isPole) {
+            if (odaMesh.material.emissiveIntensity > 0.3) odaMesh.material.emissiveIntensity -= sabitDelta * 20.0;
+            if (odaMesh.material.opacity > 0.15) odaMesh.material.opacity -= sabitDelta * (odaMesh.material.opacity > 0.35 ? 0.2 : 1.5);
+        }
     });
-    // ...
+
+    if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
 }
+
 // 🔑 GÜVENLİ RESIZE
 window.addEventListener('resize', () => {
     const yeniAspect = window.innerWidth / window.innerHeight;
