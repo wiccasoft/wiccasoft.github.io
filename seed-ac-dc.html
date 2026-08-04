@@ -396,9 +396,13 @@ class KuantumPaketi {
 
  guncelle(delta) {
         // 🚀 ASYMMETRIC FIELD SPEEDS: Stream A runs standard, Stream B spins with a fractional velocity offset
-        let hizKatsayisi = this.tip === "A" ? 2.5 : 3.2;
-        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
-        this.ilerleme += delta * dalgaliIvme;
+        // 🚀 10 KAT ZAMAN YAVAŞLATICI (Kozmik Ağır Çekim Mühürü)
+        // Hız katsayıları yumuşatıldı ve delta zamanı 0.1 ile çarpılarak sistem 10 kat yavaşlatıldı!
+        let hizKatsayisi = this.tip === "A" ? 1.2 : 1.5;
+        let dalgaliIvme = 0.5 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
+        
+        // 🔑 İŞTE O YAVAŞLATAN ÇİVİ: delta * 0.1 çarpanı kuantaları ağır çekime alır
+        this.ilerleme += (delta * 0.1) * dalgaliIvme;
 
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
@@ -481,29 +485,25 @@ function animate() {
             let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
 
-  if (meshKA && meshHA && meshKB && meshHB) {
-                // 🔑 Clear of any foreign artifacts, pure symmetric AC multi-vortex firing
- // ⚡ MULTI-LAYER ZIT FAZLI AC ATESLEME MOTORU
+if (meshKA && meshHA && meshKB && meshHB) {
+                // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
                 [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
-                    // 🔑 FAZ SENSÖRÜ: B akımına 4 karelik (180 derece) faz farkı ekleyerek renk çakışmasını ve dalga nötrlemesini kökten kırar!
                     const fazRölesi = p.t === "A" ? 0 : 4;
                     const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
-         if (kanalRitmi) {
-                        // 🔑 SİSTEMİ ÖZGÜR BIRAKAN SAF 4 SATIRLI BİNARY GEZEGEN MOTORU
-                        let katman1 = p.t === "A" ? "UP" : "DOWN";
-                        let paket1 = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman1); paket1.hedefId = p.d.id; aktifPaketler.push(paket1);
-                        let katman2 = p.t === "A" ? "DOWN" : "UP";
-                        let paket2 = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katman2); paket2.hedefId = p.d.id; aktifPaketler.push(paket2);
-                        
+                    if (kanalRitmi) {
+                        // 🔑 TEKİL BİNARY GLUON: Katman yığınları tamamen kazındı!
+                        // Sahnede sadece 1 adet İleri (A) ve 1 adet Geri (B) akan saf tekil kuanta dolaşır.
+                        let katmanSaf = "CENTER"; 
+                        let paketSaf = new KuantumPaketi(p.s, p.h, p.d.color, p.t, katmanSaf); 
+                        paketSaf.hedefId = p.d.id; 
+                        aktifPaketler.push(paketSaf);
+
                         // İndeksler sadece ilgili kanal gerçekten ateşlendiğinde bağımsız kayar
                         if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
                         if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
                     }
                 });
-
-                // 🔑 SEKANSI SERBEST BIRAK: Paketler fırlatıldığı AN indeksler bağımsız kayar!
-
             }
         }
 
