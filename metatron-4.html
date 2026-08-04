@@ -660,16 +660,12 @@ if (this.spinElemanlari) {
         });
 
         // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
-        function animate() {
-            requestAnimationFrame(animate);
-
-            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
-            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
-
-            controls.update();
-            renderer.render(scene, camera);
-        }
-
+    function animate() {
+    requestAnimationFrame(animate);
+    // 🔑 Akım motorunu tetikliyoruz
+    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
+    renderer.render(scene, camera);
+}
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
         const buton = document.getElementById("btnBukucu");
