@@ -361,15 +361,11 @@ class KuantumPaketi {
         const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
         //const pMat = new THREE.MeshBasicMaterial({ color: renk });
 
- // 🔑 WebGL KATMAN KİLİDİ: Maskelemeyi kırar, kayıp diğer 2 paketi ekranda görünür kılar!
-        const pMat = new THREE.MeshBasicMaterial({ 
-            color: neonRengi,
-            transparent: true, opacity: 0.95,
-            depthWrite: false, // Zıt izlerin birbirini kesmesini ve saklamasını engeller
-            blending: THREE.AdditiveBlending // Zıt renkler kesiştiğinde plazma neon parlaması yaratır
-        });
-        this.mesh = new THREE.Mesh(pGeom, pMat);
+         // 🔑 FREKANS AYRIŞTIRICI: Renkleri odalardan koparıp akım tipine (A/B) mühürler, kayıp vortexi görünür kılar!
+        const neonRengi = this.tip === "A" ? 0x00ffff : 0xff0055; // A: Neon Turkuaz, B: Elektrik Pembesi/Kırmızısı
+        const pMat = new THREE.MeshBasicMaterial({ color: neonRengi });
 
+        this.mesh = new THREE.Mesh(pGeom, pMat);
         
         // İlk doğuş pozisyonu
         this.mesh.position.copy(this.kaynak.position);
@@ -382,52 +378,45 @@ class KuantumPaketi {
     }
 
  guncelle(delta) {
-        // 🚀 BÖLÜNMELİ MOMENTUM MOTORU (Tesla / Kepler Alan Dinamiği)
-        // Matematiksel türev (Math.sin'in karesi) sayesinde parçacık orta yola kadar katlanarak hızlanır, 
-        // tam orta çeyrek kesişim noktasını (0.5) geçtiği AN ivmesi bölünerek logaritmik olarak yavaşlar.
-        let ivmeEgrisi = Math.sin(this.ilerleme * Math.PI);
-        let anlikHiz = (this.tip === "A" ? 1.5 : 2.2) * (0.3 + ivmeEgrisi * 3.5); 
-        
-        this.ilerleme += delta * anlikHiz;
+        // 🚀 ASYMMETRIC FIELD SPEEDS: Stream A runs standard, Stream B spins with a fractional velocity offset
+        let hizKatsayisi = this.tip === "A" ? 2.5 : 3.2;
+        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
+        this.ilerleme += delta * dalgaliIvme;
 
-        let p = Math.min(this.ilerleme, 1.0);
-        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, p);
+        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
-        // 🪐 ASİMETRİK BİNARY GEZEGEN YÖRÜNGELERİ (Çember Genişlikleri)
-        let yorungeCap = this.tip === "A" ? 0.44 : 0.24; 
-        let dalgaBoyu = Math.sin(p * Math.PI) * yorungeCap; 
+        // 🚀 RADIAL ORBIT OFFSET: Broadens Stream A outward and tightens Stream B inward to separate tracks completely
+        let genlikKatsayisi = this.tip === "A" ? 0.38 : 0.24;
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * genlikKatsayisi; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
 
-        // Kutupsal manyetik implosion bükümü (Orta yolda kavisleri içeri büker)
-        let cekimKuvveti = 1.0 - Math.sin(p * Math.PI) * 0.45;
+        let cekimKuvveti = 1.0 - Math.sin(this.ilerleme * Math.PI) * 0.45;
         dalgaBoyu *= cekimKuvveti;
 
-        // 3 Boyutlu dikey katman bükümü
         let layerKavisY = 0;
-        if (this.layer === "UP") layerKavisY = Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
-        if (this.layer === "DOWN") layerKavisY = -Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
+        if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
+        if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
 
-        // Vektörlerin nihai uzamsal konumu: Tam ortada hız patlaması yapıp, bölünerek yavaşlarlar!
         this.mesh.position.set(
-            merkezPos.x + Math.cos(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
+            merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + layerKavisY,
-            merkezPos.z + Math.sin(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi
+            merkezPos.z + Math.sin(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi
         );
     }
+}
+
 
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
 // ============================================================================
 // Global veri paket takibi dizisi ve Rodin dizilimi
-aktifPaketler = [];
+let aktifPaketler = [];
 //const rodinDizisi =[1,2,4,8,7,5];
 // 🌪️ ÇİFT GİRDAP DİZİLİMLERİ (Örnek Rodin dizilimi)
-     // 🔑 4 ELEKTRON BİNARY AÇILIŞI: Renk ayrışmasını tam söylediğin Kırmızı-Mavi eksenine kilitler!
-     // 🔑 BİNARY ORBİT MOTORU: Beyaz ekranı kırar, akımı tam söylediğin Kırmızı-Mavi zıtlığına kilitler!
-        rodinDizisiA = [1, 4, 7, 8, 5, 2]; // Kırmızı (1) -> Sarı (4) -> Mavi (7) Yönü
-        rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Mavi (7) -> Sarı (4) -> Kırmızı (1) Yönü (Zıt Pompa)
+const rodinDizisiA = [1, 2, 4, 8, 7, 5]; // Saat Yönü Tersi
+const rodinDizisiB = [8, 7, 5, 1, 2, 4]; // Saat Yönü (Ters Pompa)
 
-paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
+let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 
 //let aktifDiziIndex = 0;
 let aktifIndexA = 0;
