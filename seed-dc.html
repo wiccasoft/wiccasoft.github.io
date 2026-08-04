@@ -107,7 +107,7 @@ const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 new THREE.OrbitControls(camera, renderer.domElement);
-scene.add(new THREE.AmbientLight(0x404040));
+//scene.add(new THREE.AmbientLight(0x404040));
 
   // OrbitControls → pan ve zoom açık
   const controls = new THREE.OrbitControls(camera, renderer.domElement);
@@ -392,7 +392,7 @@ function animate() {
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
     if (beyazKutupObj && siyahKutupObj) {
-        const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
+        //const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
         // KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı); // 🔑 Ana spin kapatıldı
         //KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
     }
@@ -456,7 +456,6 @@ function animate() {
 window.addEventListener('resize', () => {
     const yeniAspect = window.innerWidth / window.innerHeight;
     camera.left = -d * yeniAspect; camera.right = d * yeniAspect;
-    camera.top = d; camera.bottom = -d;
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
