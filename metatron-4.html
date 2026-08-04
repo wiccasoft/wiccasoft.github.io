@@ -510,10 +510,6 @@ initElementKutuplari() {
                 transparent: true,
                 opacity: 0.75
             });
-
-             // 🔑 KESİN ÇÖZÜM: Eğer bu katman çekirdekse (0.35) materyali klonla ve opaklığını sıfırla!
-    if (this.radius === 0.35) { iskeletMat.transparent = true; iskeletMat.opacity = 0.0; }
-
             const nodeMesh = new THREE.Mesh(kureGeo, iskeletMat);
 
             // 🌀 ALTIN ORAN PİRAMİT SPİRAL DAĞILIMI
@@ -626,30 +622,6 @@ updateVortex(galaktikZaman) {
                 }
             });
         }
-
-         // 🔑 OBJE İÇİ SAF MÜHÜRLENME: Çekirdek (0.35) katmanının saniyede 60 kez ezilmesini kesin olarak engelliyoruz
-    if (this.radius === 0.35) {
-        // Çekirdek nesne grubunun altındaki tüm kılcal damarları (çizgiler, odalar, kafesler) tarar
-        this.group.traverse((altObje) => {
-            if (altObje.material) {
-                altObje.material.transparent = true;
-                altObje.material.opacity = 0.0; // 💡 Her karede zorla TAMAMEN SAYDAM yapar!
-                if (altObje.material.emissiveIntensity !== undefined) {
-                    altObje.material.emissiveIntensity = 0.0; // İç plazma ışımalarını da söndürür
-                }
-            }
-        });
-        
-        // Harici referans dizisinde tutulan 9'lu omurga odalarını da kesin olarak sıfırlar
-        if (this.dinamikCubes) {
-            this.dinamikCubes.forEach(kure => {
-                if (kure.material) {
-                    kure.material.transparent = true;
-                    kure.material.opacity = 0.0;
-                }
-            });
-        }
-    }
     }
         } // 🔑 MetatronGridSaati CLASS TERMINATION
 
@@ -669,57 +641,17 @@ updateVortex(galaktikZaman) {
             saat.group.position.set(0, 0, 0);
             KuantumKafesi.add(saat.group);
         });
-function animate() {
-    requestAnimationFrame(animate);
 
-    // 🔑 updateVortex fonksiyonunu çağırarak opaklık kurallarını devreye alıyoruz:
-    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
+        // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
+        function animate() {
+            requestAnimationFrame(animate);
 
-    // 🏆 1. ADIM: 9'LU REFERANS DIZISININ OPACITY DEĞERLERINI JAVASCRIPT ILE SIFIRLA
-    if (metatronMatrisi[0] && metatronMatrisi[0].dinamikCubes) {
-        metatronMatrisi[0].dinamikCubes.forEach(obj => {
-            if (obj.material) {
-                obj.material.transparent = true;
-                obj.material.opacity = 0.0; // 💡 9'lu odanın gri kürelerini her karede zorla saydam yapar
-            }
-        });
-    }
+            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
+            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
 
-    // 🏆 2. ADIM: ÇEKİRDEK GRUBUNDAKİ DİĞER TÜM BİLEŞENLERİ SIFIRLA
-    if (metatronMatrisi[0]) {
-        metatronMatrisi[0].group.traverse(obj => { 
-            if (obj.material) { 
-                obj.material.transparent = true; 
-                obj.material.opacity = 0.0; 
-            } 
-        });
-    }
-
-    // ⚡ 3. ADIM: ATEŞ (SOLA) VE TOPRAK (SAĞA) ZIT YÖNLÜ REZONANS MOTORU
-    const akimHizi = 0.015;
-    const donusEkseni = new THREE.Vector3(-1, -1, -1).normalize(); // Kutsal rezonans mili
-
-    if (metatronMatrisi[0]) {
-        metatronMatrisi[0].group.children.forEach((mesh) => {
-            if (mesh && mesh.material && mesh.material.color && typeof mesh.material.color.getHex === 'function') {
-                const hexColor = mesh.material.color.getHex();
-
-                // 🟥 ATEŞ AKSI (Siyah veya Beyaz bileşenler) -> Bilgiyi SOLA (Pozitif tork) büküyoruz
-                if (hexColor === 0x111111 || hexColor === 0xffffff) {
-                    mesh.rotateOnAxis(donusEkseni, akimHizi);
-                }
-
-                // 🟨 TOPRAK AKSI (Sarı veya Pembe bileşenler) -> Tam tersi açıda SAĞA (Negatif tork) büküyoruz
-                if (hexColor === 0xffff00 || hexColor === 0xff00ff) {
-                    mesh.rotateOnAxis(donusEkseni, -akimHizi);
-                }
-            }
-        });
-    }
-
-    controls.update();
-    renderer.render(scene, camera);
-}
+            controls.update();
+            renderer.render(scene, camera);
+        }
 
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
