@@ -377,28 +377,26 @@ class KuantumPaketi {
         KuantumKafesi.add(this.mesh);
     }
 
-  guncelle(delta) {
-        // 🚀 SAF AÇISAL İVMELENME
-        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * 2.5;
+ guncelle(delta) {
+        // 🚀 ASYMMETRIC FIELD SPEEDS: Stream A runs standard, Stream B spins with a fractional velocity offset
+        let hizKatsayisi = this.tip === "A" ? 2.5 : 3.2;
+        let dalgaliIvme = 1.0 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
         this.ilerleme += delta * dalgaliIvme;
 
         let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, Math.min(this.ilerleme, 1.0));
         
-        // 🌀 SWASTIKA MİKRO GİRDAP FREKANSI
-        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * 0.35; 
+        // 🚀 RADIAL ORBIT OFFSET: Broadens Stream A outward and tightens Stream B inward to separate tracks completely
+        let genlikKatsayisi = this.tip === "A" ? 0.38 : 0.24;
+        let dalgaBoyu = Math.sin(this.ilerleme * Math.PI) * genlikKatsayisi; 
         let yonKatsayisi = this.tip === "A" ? 1 : -1;
 
-        // 🔑 İŞTE SEÇENEK 1: KUTUPSAL MANYETİK ÇEKİM ÇARPANI (Implosion Modülatörü)
-        // Parçacık yörüngenin tam ortasına (0.5) geldikçe, kavis dışarı doğru değil merkeze doğru bükülür
         let cekimKuvveti = 1.0 - Math.sin(this.ilerleme * Math.PI) * 0.45;
         dalgaBoyu *= cekimKuvveti;
 
-        // Üç boyutlu katman büküm vektörü (Toroid alanı simülasyonu)
         let layerKavisY = 0;
         if (this.layer === "UP") layerKavisY = Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
         if (this.layer === "DOWN") layerKavisY = -Math.sin(this.ilerleme * Math.PI) * 0.15 * cekimKuvveti;
 
-        // Bükümlü yörünge: Çekim kuvvetiyle bir elma çekirdeği/toroid formu çizerek akarlar
         this.mesh.position.set(
             merkezPos.x + Math.cos(this.ilerleme * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
             merkezPos.y + layerKavisY,
@@ -487,9 +485,7 @@ function animate() {
                 });
 
                 // 🔑 SEKANSI SERBEST BIRAK: Paketler fırlatıldığı AN indeksler bağımsız kayar!
- // 🔑 SEKANSI SERBEST BIRAK: A namlusu ileri kayarken, B namlusu matematiksel olarak geriye kayar!
-                aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-                aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+
             }
         }
 
