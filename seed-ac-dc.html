@@ -498,11 +498,25 @@ function animate() {
         for (let i = aktifPaketler.length - 1; i >= 0; i--) {
             let paket = aktifPaketler[i];
             paket.guncelle(sabitDelta); 
-            if (paket.ilerleme >= 1.0) {
+     if (paket.ilerleme >= 1.0) {
                 let hData = spheres.find(o => o.id === paket.hedefId);
                 if (hData) {
                     let hMesh = KuantumKafesi.getObjectByName(hData.name);
-                    if (hMesh) { hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; }
+                    if (hMesh) { 
+                        hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; 
+                        
+                        // 🔑 İŞTE O ANTINODE MOTORU: Tam söylediğin 3 ve 6 kutupsal rezonansını açar!
+                        // A akımı (Turkuaz) hedefe vardığında 3 (Beyaz) düğüm kutbunu şarj eder ve parlatır.
+                        if (paket.tip === "A") {
+                            let pole3 = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
+                            if (pole3) pole3.material.emissiveIntensity = 5.0;
+                        }
+                        // B akımı (Pembe) hedefe vardığında 6 (Siyah) antinode kutbunu tetikler ve parlatır.
+                        if (paket.tip === "B") {
+                            let pole6 = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
+                            if (pole6) pole6.material.emissiveIntensity = 5.0;
+                        }
+                    }
                 }
                 KuantumKafesi.remove(paket.mesh);
                 aktifPaketler.splice(i, 1); 
