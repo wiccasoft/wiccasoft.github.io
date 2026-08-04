@@ -657,15 +657,30 @@ updateVortex(galaktikZaman) {
         });
 
         // ⏳ DURAĞAN KONTROL DÖNGÜSÜ (Sadece Kamera ve Matris Bükümü Aktif)
-        function animate() {
-            requestAnimationFrame(animate);
+function animate() {
+    requestAnimationFrame(animate);
 
-            // Hareket mekanizması (updateVortex) çağrısı kaldırıldı, sistem tamamen durduruldu.
-            // Sadece buton tetiklendiğinde matrisBukucu fonksiyonu çalışmaya devam eder.
+    // 1️⃣ updateVortex fonksiyonunu çağırarak temel sistemi tetikliyoruz
+    metatronMatrisi.forEach(saat => saat.updateVortex(Date.now() * 0.001));
 
-            controls.update();
-            renderer.render(scene, camera);
-        }
+    // 🏆 SEED MANTIĞI: Sadece merkezdeki isimlendirdiğimiz topları yakalayıp opaklığını 0 yapıyoruz
+    if (metatronMatrisi[0]) {
+        metatronMatrisi[0].group.traverse((obj) => {
+            // Sadece etiketlediğimiz o merkez odalarını hedef alıyoruz, diğer hiçbir şeye dokunmuyoruz
+            if (obj.name === "cekirdek_odasi" && obj.material) {
+                obj.material.transparent = true;
+                obj.material.opacity = 0.0; // 🔑 Sadece merkez toplar tamamen saydam ve görünmez kalır!
+                if (obj.material.emissiveIntensity !== undefined) {
+                    obj.material.emissiveIntensity = 0.0; // İç ışık patlamasını da söndürür
+                }
+            }
+        });
+    }
+
+    controls.update();
+    renderer.render(scene, camera);
+}
+
 
         // ⚡ BUTON KONTROL MERKEZİ
         let mevcutMod = "ve"; // ve: Vector Equilibrium, kup: Sqrt(2) Cube
