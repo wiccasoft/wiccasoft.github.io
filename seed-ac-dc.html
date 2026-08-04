@@ -446,6 +446,12 @@ function animate() {
     // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
     if (beyazKutupObj && siyahKutupObj) {
         if (aktifPaketler.length === 0) {
+           // === ⚡ AC FREKANS MODÜLASYONU VE TESLA RİTİM KİLİDİ ===
+        const zamanSinyali = performance.now() * 0.005;
+        const ateslemeRitmi = Math.floor(zamanSinyali * 20) % 8 === 0;
+
+        // GÜVENLİK FİLTRESİ: Havada toplam 36 paketten fazla yoksa ve ritim zamanı geldiyse ateşi serbest bırakır (Sonsuz loop engeli)
+        if ((ateslemeRitmi && aktifPaketler.length < 36) || aktifPaketler.length === 0) {
             // A Kanalı
             let kaynakA = spheres.find(o => o.id === rodinDizisiA[aktifIndexA]);
             let hedefA = spheres.find(o => o.id === rodinDizisiA[(aktifIndexA + 1) % rodinDizisiA.length]);
@@ -466,6 +472,12 @@ function animate() {
                         aktifPaketler.push(paket);
                     });
                 });
+
+                // 🔑 SEKANSI SERBEST BIRAK: Paketler fırlatıldığı AN indeksler bağımsız olarak bir sonraki odaya kayar!
+                aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
+                aktifIndexB = (aktifIndexB + 1) % rodinDizisiB.length;
+            }
+        
             }
         }
 
@@ -503,8 +515,14 @@ function animate() {
             if (odaMesh.material.opacity > 0.15) odaMesh.material.opacity -= sabitDelta * (odaMesh.material.opacity > 0.35 ? 0.2 : 1.5);
         }
     });
+
+ // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
+    renderer.autoClear = false; // Otomatik temizliği kapat, izlerin üst üste binmesini sağla
     
-if (typeof controls !== 'undefined') controls.update();
+    // Sadece derinlik tamponunu temizleyerek 3D çizgilerin birbirini kesmesini önler ve GPU'yu tamamen rahatlatır
+    renderer.clearDepth(); 
+
+    if (typeof controls !== 'undefined') controls.update();
     renderer.render(scene, camera);
 } // 🔑 1. PARANTEZ: animate() fonksiyonu burada güvenle kapanır, kilit kırılır!
 
@@ -516,8 +534,6 @@ window.addEventListener('resize', () => {
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
 
-// Sistem ateşlemesi (İlk ve tek tetikleme)
-animate();
 
 // 🔑 GÜVENLİ RESIZE
 window.addEventListener('resize', () => {
