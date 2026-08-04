@@ -178,13 +178,14 @@ initMekanizma() {
                 koseler.forEach((v) => {
                     const pos = new THREE.Vector3(v*katsayi, v*katsayi, v*katsayi);
                     const b_geom = new THREE.SphereGeometry(this.radius * 0.06, 16, 16);
-                    const b_mat = new THREE.MeshPhongMaterial({
-                        color: 0xffffff,
-                        emissive: 0xffffff,
-                        emissiveIntensity: 1.5 * this.energyDensity,
-                        transparent: true,
-                        opacity: 0.85
-                    });
+                    // Çekirdeğin içindeki odaları (küreleri) saydamlaştıran materyal ayarı:
+const b_mat = new THREE.MeshPhongMaterial({
+    color: this.isCore ? 0xffffff : 0xffffff,       // Çekirdek odaları beyaz tabanlı kalır
+    emissive: this.isCore ? 0x444444 : 0xffffff,    // Işıma şiddeti çekirdekte azaltılır
+    transparent: true,                              // 🔑 Saydamlık modunu aktif eder
+    opacity: this.isCore ? 0.20 : 0.85,             // 🔑 Çekirdek odalarını %20 görünür (aşırı saydam) yapar
+    blending: THREE.NormalBlending                  // Işık geçirgenliği rezonansı
+});
                     const b_mesh = new THREE.Mesh(b_geom, b_mat);
                     b_mesh.position.copy(pos);
                     this.group.add(b_mesh);
