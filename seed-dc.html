@@ -393,7 +393,8 @@ function animate() {
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
     if (beyazKutupObj && siyahKutupObj) {
         const anaAksVektoru = new THREE.Vector3().subVectors(beyazKutupObj.position, siyahKutupObj.position).normalize();
-        KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
+        // KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı); // 🔑 Ana spin kapatıldı
+        //KuantumKafesi.rotateOnAxis(anaAksVektoru, globalDönüşHızı);
     }
 
     // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
