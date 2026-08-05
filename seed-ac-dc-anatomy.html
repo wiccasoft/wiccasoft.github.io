@@ -72,7 +72,7 @@ const loader = new THREE.TextureLoader();
 // 🔓 CORS SHIELD CRACKER: Forces the browser to authorize the image download directly into the WebGL buffer
 loader.setCrossOrigin('anonymous');
 // İnternet bağlantısı olan herhangi bir şeffaf neon Vitruvian Man veya çizim URL'si kullanılabilir
-const daVinciDokusu = loader.load('https://wikimedia.org');
+const daVinciDokusu = loader.load('https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruvian_Man_traced.svg');
 
 const daVinciGeom = new THREE.PlaneGeometry(1.2, 1.2);
 const daVinciMat = new THREE.MeshBasicMaterial({
