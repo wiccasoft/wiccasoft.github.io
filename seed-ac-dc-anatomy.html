@@ -521,7 +521,8 @@ function animate() {
 
             // [Refer to source file 1.1 for full implementation of this unified module]
 if (meshKA && meshHA && meshKB && meshHB) {
-    [ { s: meshKA, h: meshHA, d: rgbA, t: "A" }, { s: meshKB, h: meshHB, d: rgbB, t: "B" } ].forEach(p => {
+      // 🔑 FREKANS AYRIŞTIRICI MÜHÜR: rgbA ve rgbB hatasını kökten çözer, paneli serbest bırakır!
+                [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
         const fazRölesi = p.t === "A" ? 0 : 4;
         const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
