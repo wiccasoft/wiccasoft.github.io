@@ -40,10 +40,21 @@ canvas {
 </head>
 <body>
 
+    <!-- 🔑 AY FREKANSI VE ÇAKRA GÖSTERGELERİ PANELİN EN ÜSTÜNE EKLENDİ -->
+<div id="zodyak-saati">
+    <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
+    <div id="ay-fazi" style="color:#00ffff; font-size:12px; font-weight:bold; margin-bottom:5px;">🌙 AY FAZI: YENİAY (Taban Deşarj)</div>
+    <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:10px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
+    <!-- 12 Burç Satırları Aşağıda Aynen Kalıyor -->
+
 <!-- 🔑 12'Lİ ZODYAK-ANATOMİ BİYOLOJİK SAAT PANELİ -->
 <div id="zodyak-saati">
     <div style="color:#888; font-size:11px; margin-bottom:10px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
-    <div id="b-koc" class="burç-satırı">♈ KOÇ - BAŞ / BEYİN (Tepe)</div>
+    
+    
+    <div id="b-balik" class="burç-satırı">♓ BALIK - TEPE ÇAKRA / BEYİN (BOS Zirvesi)</div>
+    
+    
     <div id="b-boga" class="burç-satırı">♉ BOĞA - BOYUN / BOĞAZ</div>
     <div id="b-ikizler" class="burç-satırı">♊ İKİZLER - AKCİĞERLER</div>
     <div id="b-yengec" class="burç-satırı">♋ YENGEÇ - GÖĞÜS KAFESİ</div>
@@ -54,7 +65,8 @@ canvas {
     <div id="b-yay" class="burç-satırı">♐ YAY - UYLUKLAR / KALÇA</div>
     <div id="b-oglak" class="burç-satırı">♑ OĞLAK - İSKELET / KEMİKLER</div>
     <div id="b-kova" class="burç-satırı">♒ KOVA - KAN DOLAŞIMI</div>
-    <div id="b-balik" class="burç-satırı">♓ BALIK - AYAKLAR (Taban)</div>
+    
+   <div id="b-koc" class="burç-satırı">♈ KOÇ - ÜREME / SAKRAL ÇAKRA (Tohum)</div>
 </div>
 <script src="./three.min.js"></script>
 <script src="./OrbitControls.js"></script>
@@ -500,6 +512,9 @@ function animate() {
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
 
+
+    
+
     // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
     if (beyazKutupObj && siyahKutupObj) {
         
@@ -535,14 +550,40 @@ function animate() {
                             // 🔑 PANEL HAVAİ FİŞEK TETİKLEYİCİSİ: Tüm eski sınıfları temizler, anlık konumu parlatır!
                             document.querySelectorAll('.burç-satırı').forEach(el => el.className = 'burç-satırı');
                             
-                            let marsFazı = rodinDizisiA[aktifIndexA];
+                            // 🔑 PANEL HAVAİ FİŞEK TETİKLEYİCİSİ: Tüm eski sınıfları temizler, anlık konumu parlatır!
+                            document.querySelectorAll('.burç-satırı').forEach(el => el.className = 'burç-satırı');
                             
-                            // 1. Ateş / Tepe Fazı -> Koç (Tepe) ve Aslan (Merkez Kalp) Havai Fişek Gibi Parlar
+                            // 🚀 28 GÜNLÜK MAKRO AY VE 7 GÜNLÜK ÇAKRA DÖNGÜSÜ SİMÜLASYONU
+                            // Zaman sinyalinin üst oktavından 28 basamaklı fraktal bir Ay takvimi türetilir
+                            let ayGünü = Math.floor(zamanSinyali * 2) % 28 + 1; 
+                            let ayFaziText = "";
+                            let cakraText = "";
+
+                            if (ayGünü <= 7) {
+                                ayFaziText = "🌙 YENİAY (Sıvı Tabanda / Birikim)";
+                                cakraText = "🫵 ÇAKRA: KÖK - REZONANS BAŞLANGICI";
+                            } else if (ayGünü <= 14) {
+                                ayFaziText = "🌓 İLK DÖRDÜN (Sıvı Omurgada / İniş Aksı)";
+                                cakraText = "🌞 ÇAKRA: SOLAR PLEXUS - SAPAN İVMELENMESİ";
+                            } else if (ayGünü <= 21) {
+                                ayFaziText = "🌕 DOLUNAY (Sıvı Beyinde / Tepe Patlaması)";
+                                cakraText = "🧠 ÇAKRA: TEPE / KOÇ - BİLİNÇ AKTİVASYONU";
+                            } else {
+                                ayFaziText = "🌗 SON DÖRDÜN (Sıvı Süzülüyor / Çıkış Aksı)";
+                                cakraText = "🫀 ÇAKRA: KALP - ENERJİ DEŞARJI";
+                            }
+
+                            document.getElementById("ay-fazi").innerHTML = "🌙 AY GÜNÜ: " + ayGünü + " | " + ayFaziText;
+                            document.getElementById("aktif-cakra").innerHTML = cakraText;
+
+let marsFazı = rodinDizisiA[aktifIndexA];
+                            
+                            // 1. Ateş / Tohum Fazı -> Koç (Üreme/Sakral) ve Aslan (Kalp) Parlar
                             if (marsFazı === 1) {
                                 document.getElementById("b-koc").className = "burç-satırı aktif-ates";
                                 document.getElementById("b-aslan").className = "burç-satırı aktif-ates";
                             }
-                            // 2. Toprak / Merkezkaç Fazı -> Başak ve Oğlak Tetiklenir
+                            // 2. Toprak / Merkezkaç Fazı -> Başak (Solar Plexus) ve Oğlak (İskelet) Tetiklenir
                             else if (marsFazı === 4) {
                                 document.getElementById("b-basak").className = "burç-satırı aktif-toprak";
                                 document.getElementById("b-oglak").className = "burç-satırı aktif-toprak";
@@ -552,9 +593,9 @@ function animate() {
                                 document.getElementById("b-ikizler").className = "burç-satırı aktif-hava";
                                 document.getElementById("b-kova").className = "burç-satırı aktif-hava";
                             }
-                            // 4. Su / Taban Deşarj Fazı -> Akrep (Solar Plexus) ve Balık (Taban) Tetiklenir
+                            // 4. Su / Tepe Deşarj Fazı -> Terazi (Kalp) ve BALIK (Tepe Çakra / Beyin) Parlar!
                             else {
-                                document.getElementById("b-akrep").className = "burç-satırı aktif-su";
+                                document.getElementById("b-terazi").className = "burç-satırı aktif-su"; // 🔑 Terazi ve Balık aksı mühürlendi!
                                 document.getElementById("b-balik").className = "burç-satırı aktif-su";
                             }
                         }
@@ -633,6 +674,7 @@ function animate() {
     if (marsFazı === 1) console.log("🪐 Mars Koç/Aslan Aksında - Yüksek Basınç Çekirdeği");
     if (marsFazı === 4) console.log("🪐 Mars Terazi/Akrep Aksında - Solar Plexus Sapanı");
     if (marsFazı === 7) console.log("🪐 Mars Boğa/Değişken Aksta - Çıkış Sarmalı");
+    
 
  // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
     // 🔑 KOZMİK SİYAH AÇILIŞI: Beyaz Alpha katmanını anında yırtar, gluonları kapatmadan arkadaki derin karanlık matrisi açar!
