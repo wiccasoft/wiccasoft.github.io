@@ -81,6 +81,24 @@ const scene = new THREE.Scene(); // Önce sahne oluşturulur
 const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
 scene.add(KuantumKafesi);
 
+
+// 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
+// Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
+const loader = new THREE.TextureLoader();
+// İnternet bağlantısı olan herhangi bir şeffaf neon Vitruvian Man veya çizim URL'si kullanılabilir
+const daVinciDokusu = loader.load('https://wikimedia.org');
+
+const daVinciGeom = new THREE.PlaneGeometry(1.2, 1.2);
+const daVinciMat = new THREE.MeshBasicMaterial({
+    map: daVinciDokusu,
+    transparent: true,
+    opacity: 0.15, // Arka planda loş ve asil durması için %15 saydamlık
+    blending: THREE.AdditiveBlending, // Plazma parlamalarıyla WebGL seviyesinde kaynaşır
+    depthWrite: false
+});
+const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
+daVinciMesh.position.set(0, 0, -0.1); // Odaların hafifçe arkasına hizalanır
+scene.add(daVinciMesh);
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
 
 
@@ -543,60 +561,36 @@ function animate() {
 
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
-                        if (odaMesh) {
-                            odaMesh.material.emissiveIntensity = 4.0;
+  if (odaMesh) {
+                            odaMesh.material.emissiveIntensity = 5.0; // İsabet anında oda havai fişek gibi patlar
                             odaMesh.material.opacity = 1.0;
 
-                            // 🔑 PANEL HAVAİ FİŞEK TETİKLEYİCİSİ: Tüm eski sınıfları temizler, anlık konumu parlatır!
-                            document.querySelectorAll('.burç-satırı').forEach(el => el.className = 'burç-satırı');
+                            // 🔑 DA VINCI ANATOMİK ÇAKRA GEZGİNİ:
+                            // Enerji artık düz yazılarda değil, Da Vinci'nin gövdesindeki odalar arasında zigzaglar çizer!
+                            let marsFazı = rodinDizisiA[aktifIndexA];
                             
-                            // 🔑 PANEL HAVAİ FİŞEK TETİKLEYİCİSİ: Tüm eski sınıfları temizler, anlık konumu parlatır!
-                            document.querySelectorAll('.burç-satırı').forEach(el => el.className = 'burç-satırı');
-                            
-                            // 🚀 28 GÜNLÜK MAKRO AY VE 7 GÜNLÜK ÇAKRA DÖNGÜSÜ SİMÜLASYONU
-                            // Zaman sinyalinin üst oktavından 28 basamaklı fraktal bir Ay takvimi türetilir
-                            let ayGünü = Math.floor(zamanSinyali * 2) % 28 + 1; 
-                            let ayFaziText = "";
-                            let cakraText = "";
-
-                            if (ayGünü <= 7) {
-                                ayFaziText = "🌙 YENİAY (Sıvı Tabanda / Birikim)";
-                                cakraText = "🫵 ÇAKRA: KÖK - REZONANS BAŞLANGICI";
-                            } else if (ayGünü <= 14) {
-                                ayFaziText = "🌓 İLK DÖRDÜN (Sıvı Omurgada / İniş Aksı)";
-                                cakraText = "🌞 ÇAKRA: SOLAR PLEXUS - SAPAN İVMELENMESİ";
-                            } else if (ayGünü <= 21) {
-                                ayFaziText = "🌕 DOLUNAY (Sıvı Beyinde / Tepe Patlaması)";
-                                cakraText = "🧠 ÇAKRA: TEPE / KOÇ - BİLİNÇ AKTİVASYONU";
-                            } else {
-                                ayFaziText = "🌗 SON DÖRDÜN (Sıvı Süzülüyor / Çıkış Aksı)";
-                                cakraText = "🫀 ÇAKRA: KALP - ENERJİ DEŞARJI";
-                            }
-
-                            document.getElementById("ay-fazi").innerHTML = "🌙 AY GÜNÜ: " + ayGünü + " | " + ayFaziText;
-                            document.getElementById("aktif-cakra").innerHTML = cakraText;
-
-let marsFazı = rodinDizisiA[aktifIndexA];
-                            
-                            // 1. Ateş / Tohum Fazı -> Koç (Üreme/Sakral) ve Aslan (Kalp) Parlar
+                            // 1. Koç Fazı -> Enerji üreme/sakral çakrasında (Kök ve Sakral odaları deli gibi parlar)
                             if (marsFazı === 1) {
-                                document.getElementById("b-koc").className = "burç-satırı aktif-ates";
-                                document.getElementById("b-aslan").className = "burç-satırı aktif-ates";
+                                let kocOda = KuantumKafesi.getObjectByName("KIRMIZI_ENERJI_ODASI");
+                                if (kocOda) kocOda.material.emissiveIntensity = 6.0;
                             }
-                            // 2. Toprak / Merkezkaç Fazı -> Başak (Solar Plexus) ve Oğlak (İskelet) Tetiklenir
+                            // 2. Başak Fazı -> Enerji tam göbekte, Solar Plexus (Sarı oda) sapanında ışık hızına katlanır!
                             else if (marsFazı === 4) {
-                                document.getElementById("b-basak").className = "burç-satırı aktif-toprak";
-                                document.getElementById("b-oglak").className = "burç-satırı aktif-toprak";
+                                let basakOda = KuantumKafesi.getObjectByName("SARI_ITICI_ODA");
+                                if (basakOda) {
+                                    basakOda.material.emissiveIntensity = 6.0;
+                                    daVinciMesh.material.opacity = 0.35; // Solar Plexus patladığında Da Vinci gövdesi de parlar!
+                                }
                             }
-                            // 3. Hava / Sarmal Geçiş Fazı -> İkizler (Akciğerler) ve Kova Tetiklenir
+                            // 3. Hava Fazı -> Enerji akciğerler ve dolaşımda (Mavi ve Yeşil odaları sarmal çizer)
                             else if (marsFazı === 7) {
-                                document.getElementById("b-ikizler").className = "burç-satırı aktif-hava";
-                                document.getElementById("b-kova").className = "burç-satırı aktif-hava";
+                                let kovaOda = KuantumKafesi.getObjectByName("MAVI_KALKAN_ODASI");
+                                if (kovaOda) kovaOda.material.emissiveIntensity = 6.0;
                             }
-                            // 4. Su / Tepe Deşarj Fazı -> Terazi (Kalp) ve BALIK (Tepe Çakra / Beyin) Parlar!
+                            // 4. Balık Fazı -> Cerebrospinal fluid beyne ulaştı! Tepe Çakra (Mor oda) havai fişek gibi patlar!
                             else {
-                                document.getElementById("b-terazi").className = "burç-satırı aktif-su"; // 🔑 Terazi ve Balık aksı mühürlendi!
-                                document.getElementById("b-balik").className = "burç-satırı aktif-su";
+                                let balikOda = KuantumKafesi.getObjectByName("MOR_KABUK_ODASI");
+                                if (balikOda) balikOda.material.emissiveIntensity = 7.0;
                             }
                         }
 
