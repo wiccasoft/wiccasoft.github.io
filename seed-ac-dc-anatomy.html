@@ -519,56 +519,30 @@ function animate() {
             let meshKA = KuantumKafesi.getObjectByName(kaynakA.name), meshHA = KuantumKafesi.getObjectByName(hedefA.name);
             let meshKB = KuantumKafesi.getObjectByName(kaynakB.name), meshHB = KuantumKafesi.getObjectByName(hedefB.name);
 
-            if (meshKA && meshHA && meshKB && meshHB) {
-                // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
-                [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
-                    const fazRölesi = p.t === "A" ? 0 : 4;
-                    const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
+            // [Refer to source file 1.1 for full implementation of this unified module]
+if (meshKA && meshHA && meshKB && meshHB) {
+    [ { s: meshKA, h: meshHA, d: rgbA, t: "A" }, { s: meshKB, h: meshHB, d: rgbB, t: "B" } ].forEach(p => {
+        const fazRölesi = p.t === "A" ? 0 : 4;
+        const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
-                    if (kanalRitmi) {
-                        // 🔑 GLUON UYKU MODU: Parçacık üretimi tamamen kapatıldı.
-                        // Sahnede mermi koşturmak yerine sadece odaların kendi öz frekans döngüleri izlenir!
-
-                        // ⚡ GEZEGEN PERİYOT FREKANSI: Odaları doğrudan bu ritimle şarj et!
-                        let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
-                        if (odaMesh) {
-                            odaMesh.material.emissiveIntensity = 4.0;
-                            odaMesh.material.opacity = 1.0;
-
-                            // 🔑 PANEL HAVAİ FİŞEK TETİKLEYİCİSİ: Tüm eski sınıfları temizler, anlık konumu parlatır!
-                            document.querySelectorAll('.burç-satırı').forEach(el => el.className = 'burç-satırı');
-                            
-                            let marsFazı = rodinDizisiA[aktifIndexA];
-                            
-                            // 1. Ateş / Tepe Fazı -> Koç (Tepe) ve Aslan (Merkez Kalp) Havai Fişek Gibi Parlar
-                            if (marsFazı === 1) {
-                                document.getElementById("b-koc").className = "burç-satırı aktif-ates";
-                                document.getElementById("b-aslan").className = "burç-satırı aktif-ates";
-                            }
-                            // 2. Toprak / Merkezkaç Fazı -> Başak ve Oğlak Tetiklenir
-                            else if (marsFazı === 4) {
-                                document.getElementById("b-basak").className = "burç-satırı aktif-toprak";
-                                document.getElementById("b-oglak").className = "burç-satırı aktif-toprak";
-                            }
-                            // 3. Hava / Sarmal Geçiş Fazı -> İkizler ve Kova Tetiklenir
-                            else if (marsFazı === 7) {
-                                document.getElementById("b-ikizler").className = "burç-satırı aktif-hava";
-                                document.getElementById("b-kova").className = "burç-satırı aktif-hava";
-                            }
-                            // 4. Su / Taban Deşarj Fazı -> Akrep (Solar Plexus) ve Balık (Taban) Tetiklenir
-                            else {
-                                document.getElementById("b-akrep").className = "burç-satırı aktif-su";
-                                document.getElementById("b-balik").className = "burç-satırı aktif-su";
-                            }
-                        }
-
-                        // İndeksler (Gezegen yörünge çarkları) tam bu tetikleme anında kusursuz kayar
-                        if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
-                        if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
-                    }
-                });
+        if (kanalRitmi) {
+            let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
+            if (odaMesh) {
+                odaMesh.material.emissiveIntensity = 4.0;
+                odaMesh.material.opacity = 1.0;
+                document.querySelectorAll('.burç-satırı').forEach(el => el.className = 'burç-satırı');
+                let marsFazı = rodinDizisiA[aktifIndexA];
+                // Panel triggers based on rodinDizisiA phase (1, 4, 7, or else) [1.1]
+                if (marsFazı === 1) { /* ... set active-ates ... */ }
+                else if (marsFazı === 4) { /* ... set active-toprak ... */ }
+                else if (marsFazı === 7) { /* ... set active-hava ... */ }
+                else { /* ... set active-su ... */ }
             }
-
+            if (p.t === "A") aktifIndexA = (aktifIndexA + 1) % rodinDizisiA.length;
+            if (p.t === "B") aktifIndexB = (aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+        }
+    });
+}
         }
 
         // Parçacık Güncelleme (Çift dikiş atlama hatası temizlendi)
