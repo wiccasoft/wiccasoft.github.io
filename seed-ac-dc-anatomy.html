@@ -49,24 +49,7 @@ canvas {
 
 <!-- 🔑 12'Lİ ZODYAK-ANATOMİ BİYOLOJİK SAAT PANELİ -->
 <div id="zodyak-saati">
-    <div style="color:#888; font-size:11px; margin-bottom:10px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
-    
-    
-    <div id="b-balik" class="burç-satırı">♓ BALIK - TEPE ÇAKRA / BEYİN (BOS Zirvesi)</div>
-    
-    
-    <div id="b-boga" class="burç-satırı">♉ BOĞA - BOYUN / BOĞAZ</div>
-    <div id="b-ikizler" class="burç-satırı">♊ İKİZLER - AKCİĞERLER</div>
-    <div id="b-yengec" class="burç-satırı">♋ YENGEÇ - GÖĞÜS KAFESİ</div>
-    <div id="b-aslan" class="burç-satırı">♌ ASLAN - KALP (Merkez)</div>
-    <div id="b-basak" class="burç-satırı">♍ BAŞAK - SİNDİRİM SİSTEMİ</div>
-    <div id="b-terazi" class="burç-satırı">♎ TERAZİ - BÖBREKLER</div>
-    <div id="b-akrep" class="burç-satırı">♏ AKREP - SOLAR PLEXUS (Sapan)</div>
-    <div id="b-yay" class="burç-satırı">♐ YAY - UYLUKLAR / KALÇA</div>
-    <div id="b-oglak" class="burç-satırı">♑ OĞLAK - İSKELET / KEMİKLER</div>
-    <div id="b-kova" class="burç-satırı">♒ KOVA - KAN DOLAŞIMI</div>
-    
-   <div id="b-koc" class="burç-satırı">♈ KOÇ - ÜREME / SAKRAL ÇAKRA (Tohum)</div>
+
 </div>
 <script src="./three.min.js"></script>
 <script src="./OrbitControls.js"></script>
@@ -85,6 +68,9 @@ scene.add(KuantumKafesi);
 // 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
 // Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
 const loader = new THREE.TextureLoader();
+
+// 🔓 CORS SHIELD CRACKER: Forces the browser to authorize the image download directly into the WebGL buffer
+loader.setCrossOrigin('anonymous');
 // İnternet bağlantısı olan herhangi bir şeffaf neon Vitruvian Man veya çizim URL'si kullanılabilir
 const daVinciDokusu = loader.load('https://wikimedia.org');
 
@@ -96,9 +82,11 @@ const daVinciMat = new THREE.MeshBasicMaterial({
     blending: THREE.AdditiveBlending, // Plazma parlamalarıyla WebGL seviyesinde kaynaşır
     depthWrite: false
 });
+
 const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
 daVinciMesh.position.set(0, 0, -0.1); // Odaların hafifçe arkasına hizalanır
 scene.add(daVinciMesh);
+
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
 
 
