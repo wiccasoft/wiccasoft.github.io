@@ -40,15 +40,18 @@ canvas {
 </head>
 <body>
 
-    <!-- 🔑 AY FREKANSI VE ÇAKRA GÖSTERGELERİ PANELİN EN ÜSTÜNE EKLENDİ -->
+<!-- 🔑 PARLAYAN ASTRO-ANATOMİ PANELİ VE CANLI FREKANS METRELERİ -->
 <div id="zodyak-saati">
     <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
     <div id="ay-fazi" style="color:#00ffff; font-size:12px; font-weight:bold; margin-bottom:5px;">🌙 AY FAZI: YENİAY (Taban Deşarj)</div>
-    <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:10px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
-    <!-- 12 Burç Satırları Aşağıda Aynen Kalıyor -->
-
-<!-- 🔑 12'Lİ ZODYAK-ANATOMİ BİYOLOJİK SAAT PANELİ -->
-<div id="zodyak-saati">
+    <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
+    
+    <!-- 📊 CANLI ENERJİ SİNYALİZASYONU -->
+    <div style="margin-top:10px; font-size:11px; font-family:monospace; line-height: 1.4;">
+        <div style="color:#ffaa00;">🌀 MADDİ MATRİS: <span id="rodin-sinyali" style="font-weight:bold;">1</span> (432 Hz DC)</div>
+        <div style="color:#ff3300;">🫁 KALP REZONANSI: <span id="kalp-sinyali" style="font-weight:bold;">174 Hz</span> (AC)</div>
+    </div>
+</div>
 
 </div>
 <script src="./three.min.js"></script>
@@ -670,6 +673,38 @@ if (daVinciMat) {
     daVinciMat.opacity = 0.65;          // 🔑 Her karede siyah boyanın üstünü yırtar
     daVinciMat.needsUpdate = true;      // 🔑 GPU buffer'ını zorla yenileyerek statik görünmezliği bitirir!
 }
+
+// === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU ===
+const milisaniyeZamani = performance.now();
+const saniyeZamani = milisaniyeZamani * 0.001;
+
+// 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
+const rodinDizisi = [1, 2, 4, 8, 7, 5];
+const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length; // 432 Hz oktav hızında kayma
+const aktifRodinDegeri = rodinDizisi[rodinIndeks];
+
+// 2. Alternatif Akım (AC) Kalp Titreşimi (174 Hz ve 852 Hz Girişimi)
+const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
+const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
+// Dalga şiddetini pozitif bir gürültüye çevirip arayüze basıyoruz
+const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
+
+// 3. ARAYÜZE (UI) ANLIK YAZDIRMA MÜHÜRÜ
+const rodinElement = document.getElementById("rodin-sinyali");
+const kalpElement = document.getElementById("kalp-sinyali");
+
+if (rodinElement) rodinElement.innerText = aktifRodinDegeri;
+if (kalpElement) {
+    kalpElement.innerText = anlikKalpSinyali + " Hz";
+    // Kalp frekansı 174 vuruş ritmine yaklaştıkça yazı havai fişek gibi kırmızı parlar
+    kalpElement.style.textShadow = `0 0 ${Math.abs(kalpDalga174) * 15}px #ff3300`;
+}
+
+// 4. Parçacıklara (KuantumPaketi) Kalp Rezonansı Enjekte Etme
+aktifPaketler.forEach(paket => {
+    // 174 Hz ve 852 Hz frekansları akım mermilerinde anlık ışık patlaması yaratır
+    paket.mesh.material.emissiveIntensity = 1.5 + (kalpDalga174 * 0.8) + (kalpDalga852 * 0.4);
+});
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
 renderer.setClearColor(0x000000, 0.05);
