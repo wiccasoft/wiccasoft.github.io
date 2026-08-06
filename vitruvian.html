@@ -2,16 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Küp + İç Piramitler + Plus + Tetrahedronlar</title>
+  <title>Da Vinci Base64 İzole Test Sahnesi</title>
   <style>
-/* seed.html içindeki style etiketinin içine ekleyin */
 /* 🔑 BEYAZ PERDEYİ ANINDA YIRTAN CSS MÜHÜRÜ: HTML gövdesini kalıcı kozmik siyaha boyar! */
 html, body {
     margin: 0;
     padding: 0;
     width: 100%;
     height: 100%;
-    background: #000000 !important; /* 🌟 İŞTE O SATIR! */
+    background: #000000 !important; 
     overflow: hidden !important; 
 }
 canvas { 
@@ -27,91 +26,71 @@ canvas {
     padding: 15px; border-radius: 10px;
     border: 1px solid #111; font-family: monospace; z-index: 999;
 }
-.burç-satırı {
-    color: #444; font-size: 13px; margin: 4px 0;
-    transition: all 0.1s ease; text-transform: uppercase;
-}
-/* Tetiklenen burçların havai fişek neon renkleri */
-.burç-satırı.aktif-ates { color: #ff3300; font-weight: bold; text-shadow: 0 0 10px #ff3300; }
-.burç-satırı.aktif-toprak { color: #ffaa00; font-weight: bold; text-shadow: 0 0 10px #ffaa00; }
-.burç-satırı.aktif-hava { color: #00ffff; font-weight: bold; text-shadow: 0 0 10px #00ffff; }
-.burç-satırı.aktif-su { color: #ff0055; font-weight: bold; text-shadow: 0 0 10px #ff0055; }
   </style>
 </head>
 <body>
 
-    <!-- 🔑 AY FREKANSI VE ÇAKRA GÖSTERGELERİ PANELİN EN ÜSTÜNE EKLENDİ -->
 <div id="zodyak-saati">
     <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
     <div id="ay-fazi" style="color:#00ffff; font-size:12px; font-weight:bold; margin-bottom:5px;">🌙 AY FAZI: YENİAY (Taban Deşarj)</div>
     <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:10px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
-    <!-- 12 Burç Satırları Aşağıda Aynen Kalıyor -->
-
-<!-- 🔑 12'Lİ ZODYAK-ANATOMİ BİYOLOJİK SAAT PANELİ -->
-<div id="zodyak-saati">
-
 </div>
+
+<!-- Three.js ve OrbitControls yüklemeleri -->
 <script src="./three.min.js"></script>
 <script src="./OrbitControls.js"></script>
   
 <script>
-
-
 // ============================================================================
-// BÖLÜM 1: SENKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
+// BÖLÜM 1: GEOMETRİ SİSTEMİ VE SAHNE KURULUMU
 // ============================================================================
-const scene = new THREE.Scene(); // Önce sahne oluşturulur
-const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
-scene.add(KuantumKafesi);
-
-let daVinciMat; // 🔑 KÜRESEL BELLEK MÜHÜRÜ:
-
+const scene = new THREE.Scene();
 
 // 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
-// Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
-
 const loader = new THREE.TextureLoader();
+
 // Kürelerin arkasından patlayacak özel Neon Kırmızı Vitruvian Man Base64 kodu
 const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
 
 const daVinciDokusu = loader.load(daVinciDataURI);
 const daVinciGeom = new THREE.PlaneGeometry(2.2, 2.2);
 
- daVinciMat = new THREE.MeshBasicMaterial({
+const daVinciMat = new THREE.MeshBasicMaterial({
   map: daVinciDokusu,
   transparent: true,
-  opacity: 0.65, 
-  blending: THREE.AdditiveBlending,
-  depthWrite: false,
+  opacity: 1.0, // Boş sahnede parlamayı tam görmek için 1.0 yapıldı
   side: THREE.DoubleSide
 });
 
 const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
 
-daVinciMesh.rotation.set(-0.615, 0.785, 0); // 📐 Kamera açısına dik rotasyon
-daVinciMesh.rotation.set(-Math.PI / 4, Math.PI / 4, 0); 
+// 📐 Ortografik (5,5,5) kameranın baktığı çapraza dik hizalama mühürü
+daVinciMesh.rotation.set(-0.615, 0.785, 0); 
 daVinciMesh.position.set(0, 0, 0); 
-
-// 🔑 GRUP YERİNE SAHNEYE EKLEME: Döngüden bağımsız hale getirdik
 scene.add(daVinciMesh); 
-
-
-let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
-
 
 // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
 const aspect = window.innerWidth / window.innerHeight;
-const d = 1.5; // 🔑 KESİN ÇÖZÜM: Kadraj ölçeği 0.5'ten 1.5'e çıkarılarak kırpma engeli yırtıldı!
+const d = 1.5; 
 const camera = new THREE.OrthographicCamera(- d * aspect, d * aspect, d, - d, 0.1, 1000);
 camera.position.set(5, 5, 5);
 camera.lookAt(0, 0, 0);
 
 const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize( window.innerWidth, window. innerHeight);
-document.body.appendChild( renderer.domElement);
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setClearColor(0x000000, 1);
+document.body.appendChild(renderer.domElement);
 
+const controls = new THREE.OrbitControls(camera, renderer.domElement);
 
-// 🔑 GÜVENLİ RESIZE (Tekil ve dışarıda)
+// 🔑 EKSİK OLAN ENERJİ VEREN RENDERING DÖNGÜSÜ ENJEKTE EDİLDİ
+function animate() {
+    requestAnimationFrame(animate);
+    controls.update();
+    renderer.render(scene, camera);
+}
+
+// 🔑 GÜVENLİ RESIZE
 window.addEventListener('resize', () => {
     const yeniAspect = window.innerWidth / window.innerHeight;
     camera.left = -d * yeniAspect; camera.right = d * yeniAspect;
@@ -119,10 +98,7 @@ window.addEventListener('resize', () => {
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
 
-animate();
-
+animate(); // Döngüyü ateşle
 </script>
 </body>
-</html>
-
 </html>
