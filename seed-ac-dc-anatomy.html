@@ -535,28 +535,29 @@ const kareAralığı = 1000 / hedefFPS; // 40ms
 let sonKareZamanı = performance.now();
 
 function animate() {
- requestAnimationFrame(animate);
+    requestAnimationFrame(animate);
 
-    // 🛠 25 FPS Zaman Kilidi (Hata düzeltildi)
+    // 🛠 25 FPS Zaman Kilidi
     const şimdikiZaman = performance.now();
     const geçenSüre = şimdikiZaman - sonKareZamanı;
-    if (geçenSüre < kareAralığı) return;
-    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
+    if (geçenSüre < kareAralığı) return; 
 
-    // 🔑 74 BPM RİTMİK MOTOR
-    const saniyeZamani = new Date().getSeconds() + (new Date().getMilliseconds() / 1000); 
-    const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
-    // let ile yeniden atama yapılarak kilitlenme önlendi
-    let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+    sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
+    const sabitDelta = 1 / hedefFPS; 
 
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
-// ... (KuantumKafesi kontrolü ve ateslemeRitmi ile mermi enjeksiyon döngünüz)
+
+
+    
 
     // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
     if (beyazKutupObj && siyahKutupObj) {
         
         // === ⚡ AC FREKANS MODÜLASYONU VE TESLA RİTİM KİLİDİ ===
+        // 🔑 `aktifPaketler.length === 0` prangası tamamen kırıldı!
+        const zamanSinyali = performance.now() * 0.005;
+        const ateslemeRitmi = Math.floor(zamanSinyali * 20) % 8 === 0;
 
         // GÜVENLİK FİLTRESİ: Bellek taşmasını engellemek için havada en fazla 36 paket tutar
           if (ateslemeRitmi && aktifPaketler.length < 36) {
@@ -574,7 +575,7 @@ function animate() {
                 // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
                 [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
                     const fazRölesi = p.t === "A" ? 0 : 4;
-                    const kanalRitmi = (Math.floor(saniyeZamani * 20) + fazRölesi) % 8 === 0;
+                    const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
 
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
@@ -686,9 +687,8 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
 
 
 // === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU ===
-//const milisaniyeZamani = performance.now();
-//const saniyeZamani = milisaniyeZamani * 0.001;
-
+const milisaniyeZamani = performance.now();
+const saniyeZamani = milisaniyeZamani * 0.001;
 
 // 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
 const rodinDizisi = [1, 2, 4, 8, 7, 5];
@@ -719,43 +719,51 @@ aktifPaketler.forEach(paket => {
 });
 
 
-// === ⏳ SİSTEM SAATİNE KİLİTLİ AY FAZI VE ÇAKRA MOTORU ===
-// Ay fazı her dakikada bir (gerçek zamanlı) evrilir
-const anlikFazIndeks = dakika % ayFazlariListesi.length;
-// Çakra her saat başında bir kademe atlar (Biyolojik saat ritmi)
-const anlikCakraIndeks = saat % cakraListesi.length;
+// === ⏳ OTOMAN AY FAZI VE ÇAKRA DÖNGÜ MOTORU ===
+// Saniye zamanını kullanarak dizilerin indekslerini dinamik olarak hesaplıyoruz
+const fazSuresi = 8; // Her evre 8 saniyede bir otomatik döner
+const anlikFazIndeks = Math.floor(saniyeZamani / fazSuresi) % ayFazlariListesi.length;
+const anlikCakraIndeks = Math.floor(saniyeZamani / (fazSuresi * 1.5)) % cakraListesi.length; // Çakralar biraz daha yavaş evrilir
 
-// 🔑 ÇÖZÜM: Eksik olan DOM eleman tanımları döngü içerisine enjekte edildi!
+// DOM Elemanlarını Yakala ve Canlı Enjekte Et
 const ayFaziElement = document.getElementById("ay-fazi");
 const aktifCakraElement = document.getElementById("aktif-cakra");
 
 if (ayFaziElement) {
     ayFaziElement.innerText = ayFazlariListesi[anlikFazIndeks];
-    if (anlikFazIndeks === 4) { 
-        ayFaziElement.style.color = "#00ffff"; 
-        ayFaziElement.style.textShadow = "0 0 12px #00ffff"; 
-    } else { 
-        ayFaziElement.style.color = "#888"; 
-        ayFaziElement.style.textShadow = "none"; 
+    // Dolunay evresinde yazı kozmik turkuaz renginde havai fişek gibi parlar
+    if (anlikFazIndeks === 4) {
+        ayFaziElement.style.color = "#00ffff";
+        ayFaziElement.style.textShadow = "0 0 12px #00ffff";
+    } else {
+        ayFaziElement.style.color = "#888";
+        ayFaziElement.style.textShadow = "none";
     }
 }
 
 if (aktifCakraElement) {
     aktifCakraElement.innerText = cakraListesi[anlikCakraIndeks];
+    // Çakra değiştikçe rengi Kök Kırmızıdan Tepe Moruna doğru siberpunk neon geçiş yapar
     const cakraRenkleri = ["#ff0055", "#ff7700", "#ffaa00", "#00ff55", "#00ffff", "#0055ff", "#9900ff"];
     aktifCakraElement.style.color = cakraRenkleri[anlikCakraIndeks];
     aktifCakraElement.style.textShadow = `0 0 10px ${cakraRenkleri[anlikCakraIndeks]}`;
 }
-// === ♈ GERÇEK SANİYEYE KİLİTLİ ZODYAK MOTORU ===
-// 60 saniyeyi 12 burca böldüğümüzde, her burç tam 5 gerçek saniyede bir parlar!
-const aktifBurcIndeks = Math.floor(saniyeZamani / 5) % 12; // saniye -> saniyeZamani
+
+
+// === ♈ 12'Lİ ZODYAK SATIR PARLAMA MOTORU ===
+const zodyakGecisHizi = 6; // Her astrolojik burç ekranda 6 saniye kalır
+const aktifBurcIndeks = Math.floor(saniyeZamani / zodyakGecisHizi) % 12;
+
+// Elementlerin CSS sınıfları (Ateş, Toprak, Hava, Su döngüsü)
 const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
 
 for (let z = 0; z < 12; z++) {
     const burcElementi = document.getElementById("zod-" + z);
     if (burcElementi) {
+        // Eğer sıra bu burçtaysa element rengini neon basar, değilse sönük (#444) tutar
         if (z === aktifBurcIndeks) {
-            burcElementi.className = "burç-satırı " + elementRenkSiniflari[z % 4];
+            const elementTipi = z % 4; // Döngüsel element tespiti
+            burcElementi.className = "burç-satırı " + elementRenkSiniflari[elementTipi];
         } else {
             burcElementi.className = "burç-satırı";
         }
@@ -785,3 +793,4 @@ animate();
 </body>
 </html>
 
+</html>
