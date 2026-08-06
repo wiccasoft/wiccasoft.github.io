@@ -579,7 +579,7 @@ function animate() {
                 // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
                 [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
                     const fazRölesi = p.t === "A" ? 0 : 4;
-                    
+                    const kanalRitmi = (Math.floor(saniyeZamani * 20) + fazRölesi) % 8 === 0;
 
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
@@ -747,7 +747,7 @@ if (aktifCakraElement) {
 
 // === ♈ GERÇEK SANİYEYE KİLİTLİ ZODYAK MOTORU ===
 // 60 saniyeyi 12 burca böldüğümüzde, her burç tam 5 gerçek saniyede bir parlar!
-const aktifBurcIndeks = Math.floor(saniye / 5) % 12;
+const aktifBurcIndeks = Math.floor(saniyeZamani / 5) % 12; // saniye -> saniyeZamani
 const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
 
 for (let z = 0; z < 12; z++) {
