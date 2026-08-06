@@ -804,11 +804,27 @@ if (aktifCakraElement) {
 const zodyakGecisHizi = 6; // Her astrolojik burç ekranda 6 saniye kalır
 //const aktifBurcIndeks = Math.floor(saniyeZamani / zodyakGecisHizi) % 12;
 
-const aktifBurcIndeks = Math.floor(saniyeZamani / 5) % 12; 
-//const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
+// ============================================================================
+// ♈ 12'Lİ ZODYAK PANELİ - ENJEKTÖR METRONOMLU CANLI KİLİTLENME
+// ============================================================================
+// Eski saniyeli const aktifBurcIndeks satırı silindi! 
+// Panel artık doğrudan 3D odaların o anki gerçek kuantum fazını (marsFazı) okuyor!
+const aktifBurcIndeks = (marsFazı - 1 + 12) % 12; 
 
-// Elementlerin CSS sınıfları (Ateş, Toprak, Hava, Su döngüsü)
 const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
+
+for (let z = 0; z < 12; z++) {
+    const burcElementi = document.getElementById("zod-" + z);
+    if (burcElementi) {
+        // Eğer mermi tam o burcun odasını tetiklediyse neon ışığını yakar, yoksa sönük tutar
+        if (z === aktifBurcIndeks) {
+            const elementTipi = z % 4; // Döngüsel element tespiti (Ateş, Toprak, Hava, Su)
+            burcElementi.className = "burç-satırı " + elementRenkSiniflari[elementTipi];
+        } else {
+            burcElementi.className = "burç-satırı";
+        }
+    }
+}
 
 for (let z = 0; z < 12; z++) {
     const burcElementi = document.getElementById("zod-" + z);
