@@ -41,64 +41,33 @@ canvas {
 <script src="./OrbitControls.js"></script>
   
 <script>
-// ============================================================================
-// BÖLÜM 1: GEOMETRİ SİSTEMİ VE SAHNE KURULUMU
-// ============================================================================
+// Sahne ve Kamera
 const scene = new THREE.Scene();
-
-// 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
-const loader = new THREE.TextureLoader();
-
-// Kürelerin arkasından patlayacak özel Neon Kırmızı Vitruvian Man Base64 kodu
-const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
-
-const daVinciDokusu = loader.load(daVinciDataURI);
-const daVinciGeom = new THREE.PlaneGeometry(2.2, 2.2);
-
-const daVinciMat = new THREE.MeshBasicMaterial({
-  map: daVinciDokusu,
-  transparent: true,
-  opacity: 1.0, // Boş sahnede parlamayı tam görmek için 1.0 yapıldı
-  side: THREE.DoubleSide
-});
-
-const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
-
-// 📐 Ortografik (5,5,5) kameranın baktığı çapraza dik hizalama mühürü
-daVinciMesh.rotation.set(-0.615, 0.785, 0); 
-daVinciMesh.position.set(0, 0, 0); 
-scene.add(daVinciMesh); 
-
-// --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
-const aspect = window.innerWidth / window.innerHeight;
-const d = 1.5; 
-const camera = new THREE.OrthographicCamera(- d * aspect, d * aspect, d, - d, 0.1, 1000);
-camera.position.set(5, 5, 5);
-camera.lookAt(0, 0, 0);
+const camera = new THREE.PerspectiveCamera(60, window.innerWidth/window.innerHeight, 0.1, 1000);
+camera.position.z = 3;
 
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
-renderer.setClearColor(0x000000, 1);
 document.body.appendChild(renderer.domElement);
 
-const controls = new THREE.OrbitControls(camera, renderer.domElement);
+// 🔑 GPU UYUMLU, KATIDOLGULU YENİ DA VINCI VEKTÖR MÜHÜRÜ (BASE64)
+const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+CiAgPCEtLSBOZW9uIEvEsXJtxLF6xLEgQW5hIEhhbGthIC0tPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMiIvPgogIDwhLS0gw6dhcHJheiBLdXRuY2EgdmUgS2FmZXMgRG9sZ3VsYXLEMSAtLT4KICA8cmVjdCB4PSIzMCIgeT0iMzAiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDwhLS0gVml0cnV2aWFuIE1hbiBHw7Z2ZGUgdmUgS29sbGFyIMWeZWtsaSAtLT4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjMwIiByPSI0IiBmaWxsPSIjZmYzMzAwIi8+CiAgPHJlY3QgeD0iNDgiIHk9IjM0IiB3aWR0aD0iNCIgaGVpZ2h0PSIyNSIgZmlsbD0iI2ZmMzMwMCIvPgogIDxyZWN0IHg9IjI1IiB5PSIzNyIgd2lkdGg9IjUwIiBoZWlnaHQ9IjMiIGZpbGw9IiNmZjMzMDAiLz4KICA8IS0tIEJhY2FrbGFyIC0tPgogIDxwb2x5Z29uIHBvaW50cz0iNDgsNTkgNDIsODAgNDYsODAgNTAsNjUgbG9jYWwiIGZpbGw9IiNmZjMzMDAiLz4KICA8cG9seWdvbiBwb2ludHM9IjUyLDU5IDU4LDgwIDU0LDgwIDUwLDY1IGxvY2FsIiBmaWxsPSIjZmYzMzAwIi8+Cjwvc3ZnPg==";
 
-// 🔑 EKSİK OLAN ENERJİ VEREN RENDERING DÖNGÜSÜ ENJEKTE EDİLDİ
+// Doku ve Materyal
+const loader = new THREE.TextureLoader();
+const daVinciDokusu = loader.load(daVinciDataURI);
+const daVinciMat = new THREE.MeshBasicMaterial({ map: daVinciDokusu, transparent: true, side: THREE.DoubleSide });
+const daVinciMesh = new THREE.Mesh(new THREE.PlaneGeometry(2, 2), daVinciMat);
+scene.add(daVinciMesh);
+
+// Animasyon ve Kontrol
+new THREE.OrbitControls(camera, renderer.domElement);
 function animate() {
     requestAnimationFrame(animate);
-    controls.update();
+    daVinciMesh.rotation.y += 0.005;
     renderer.render(scene, camera);
 }
-
-// 🔑 GÜVENLİ RESIZE
-window.addEventListener('resize', () => {
-    const yeniAspect = window.innerWidth / window.innerHeight;
-    camera.left = -d * yeniAspect; camera.right = d * yeniAspect;
-    camera.updateProjectionMatrix();
-    renderer.setSize(window.innerWidth, window.innerHeight);
-});
-
-animate(); // Döngüyü ateşle
+animate();
 </script>
 </body>
 </html>
