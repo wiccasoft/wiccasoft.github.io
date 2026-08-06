@@ -890,6 +890,38 @@ odalarListesi.forEach(odaInfo => {
 
 
 // ============================================================================
+// 🌙 REAL-TIME KOZMİK AY FAZI MOTORU (CEREBROSPINAL FLUID DOLUMU)
+// ============================================================================
+// Ay fazları statik donmaktan kurtarılıyor, merminin anlık odasına kelepçeleniyor!
+let dinamikFazIndeks = 0; // 0: Yeniay (Taban Deşarj)
+
+if (marsFazı === 1) {
+    dinamikFazIndeks = 0; // 🌙 YENİAY - Akım en dip kökte (Aries)
+} else if (marsFazı === 2 || marsFazı === 4) {
+    dinamikFazIndeks = 1; // 🌙 HİLAL / İLK DÖRDÜN - Sıvı yükseliyor (Taurus/Leo)
+} else if (marsFazı === 8 || marsFazı === 7) {
+    dinamikFazIndeks = 3; // 🌙 BÜYÜYEN AY - Göğüs kafesi geçişi (Virgo/Scorpio)
+} else if (marsFazı === 5) {
+    // 🔑 KUTSAL 28 GÜNLÜK TRANSMUTATION MÜHÜRÜ: 
+    // Sıvı en tepeye (Pisces - Pineal Bez) ulaştığı an sistem anlık olarak DOLUNAY'a kilitlenir!
+    dinamikFazIndeks = 4; // 🌕 DOLUNAY (Maksimum Tepe Akım / Cerebrospinal Dolum)
+}
+
+const ayFaziElement = document.getElementById("ay-fazi");
+if (ayFaziElement) {
+    ayFaziElement.innerText = ayFazlariListesi[dinamikFazIndeks];
+    
+    // Dolunay anında üst beyin iyonizasyonunu simüle eden neon turkuaz parlama
+    if (dinamikFazIndeks === 4) {
+        ayFaziElement.style.color = "#00ffff";
+        ayFaziElement.style.textShadow = "0 0 15px #00ffff";
+    } else {
+        ayFaziElement.style.color = "#888";
+        ayFaziElement.style.textShadow = "none";
+    }
+}
+
+// ============================================================================
 // 🌌 KUTSALTERAZİ AURA GLOW VE KAFES MODÜLASYON MOTORU (DONMASIZ SÜRÜM)
 // ============================================================================
 // THREE.LinePositions kaldırıldı, kilit tamamen açıldı!
