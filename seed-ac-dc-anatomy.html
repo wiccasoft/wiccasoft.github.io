@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <title>Küp + İç Piramitler + Plus + Tetrahedronlar</title>
   <style>
-/* seed.html içindeki style etiketinin içine ekleyin */
-/* 🔑 BEYAZ PERDEYİ ANINDA YIRTAN CSS MÜHÜRÜ: HTML gövdesini kalıcı kozmik siyaha boyar! */
+
 html, body {
     margin: 0;
     padding: 0;
@@ -40,15 +39,34 @@ canvas {
 </head>
 <body>
 
-    <!-- 📊 CANLI ENERJİ SİNYALİZASYONU -->
-    <div style="margin-top:10px; font-size:11px; font-family:monospace; line-height: 1.4;">
+<!-- 🔑 SIFIR SIZINTILI CANLI ASTRO-ANATOMİ MONITORÜ (TEK ÇATI ALTINDA BİRLEŞTİRİLDİ) -->
+<div id="zodyak-saati">
+    
+    <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px; letter-spacing: 1px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
+    
+    <!-- 🌙 ASTRO-ENERJİ EVRELERİ -->
+    <div id="ay-fazi" style="color:#00ffff; font-size:12px; font-weight:bold; margin-bottom:5px;">🌙 AY FAZI: YENİAY (Taban Deşarj)</div>
+    <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
+    
+    <!-- 📊 TESLA METRONOM TELEMETRİSİ -->
+    <div style="margin-top:10px; font-size:11px; font-family:monospace; line-height: 1.5; border-bottom:1px solid #222; padding-bottom:8px;">
         <div style="color:#ffaa00;">🌀 MADDİ MATRİS: <span id="rodin-sinyali" style="font-weight:bold;">1</span> (432 Hz DC)</div>
         <div style="color:#ff3300;">🫁 KALP REZONANSI: <span id="kalp-sinyali" style="font-weight:bold;">174 Hz</span> (AC)</div>
+        <div style="color:#00ffff;">⚡ PINEAL TRANSMISSION: <span id="pineal-gecikme" style="font-weight:bold; color:#9900ff;">0 ms</span></div>
     </div>
-    <!-- 🔑 PARLAYAN ASTRO-ANATOMİ PANELİ (TEK KUTUDA BİRLEŞTİRİLDİ) -->
-<div id="zodyak-saati">
+
+    <!-- 🫁 CANLI ORGAN ENERJİ FREKANSLARI (VOLTMETRE PANELİ) -->
+    <div style="margin-top:10px; font-size:11px; font-family:monospace; line-height: 1.5; border-bottom:1px solid #222; padding-bottom:8px;">
+        <div style="color:#ff4444;">🔴 ARIES (Üreme): <span id="v-kirmizi">0.3</span>v</div>
+        <div style="color:#ff9933;">🟠 TAURUS (Tiroid): <span id="v-turuncu">0.3</span>v</div>
+        <div style="color:#ffff44;">🟡 LEO (Solar Plexus): <span id="v-sari">0.3</span>v</div>
+        <div style="color:#44ff44;">🟢 VIRGO (Bağırsak): <span id="v-yesil">0.3</span>v</div>
+        <div style="color:#4444ff;">🔵 SCORPIO (Akciğer): <span id="v-mavi">0.3</span>v</div>
+        <div style="color:#cc33ff;">🟣 PISCES (Pineal): <span id="v-mor">0.3</span>v</div>
+    </div>
+
     <!-- 🔑 SİBERPUNK KOZMİK ZODYAK TAKVİM SATIRLARI -->
-    <div id="burc-listesi" style="margin-top: 15px; border-top: 1px solid #222; padding-top: 10px;">
+    <div id="burc-listesi" style="margin-top: 10px; max-height: 250px; overflow-y: auto;">
         <div id="zod-0" class="burç-satırı">Aries ♈ KOC (Ateş)</div>
         <div id="zod-1" class="burç-satırı">Taurus ♉ BOGA (Toprak)</div>
         <div id="zod-2" class="burç-satırı">Gemini ♊ IKIZLER (Hava)</div>
@@ -61,21 +79,6 @@ canvas {
         <div id="zod-9" class="burç-satırı">Capricorn ♑ OGLAK (Toprak)</div>
         <div id="zod-10" class="burç-satırı">Aquarius ♒ KOVA (Hava)</div>
         <div id="zod-11" class="burç-satırı">Pisces ♓ BALIK (Su)</div>
-    </div>
-</div>
-   
-</div>
-
-<!-- 🔑 PARLAYAN ASTRO-ANATOMİ PANELİ VE CANLI FREKANS METRELERİ -->
-<div id="zodyak-saati">
-    <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
-    <div id="ay-fazi" style="color:#00ffff; font-size:12px; font-weight:bold; margin-bottom:5px;">🌙 AY FAZI: YENİAY (Taban Deşarj)</div>
-    <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
-    
-    <!-- 📊 CANLI ENERJİ SİNYALİZASYONU -->
-    <div style="margin-top:10px; font-size:11px; font-family:monospace; line-height: 1.4;">
-        <div style="color:#ffaa00;">🌀 MADDİ MATRİS: <span id="rodin-sinyali" style="font-weight:bold;">1</span> (432 Hz DC)</div>
-        <div style="color:#ff3300;">🫁 KALP REZONANSI: <span id="kalp-sinyali" style="font-weight:bold;">174 Hz</span> (AC)</div>
     </div>
 </div>
 
