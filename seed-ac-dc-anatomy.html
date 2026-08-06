@@ -422,15 +422,15 @@ function setTopView(camera, controls) {
 // DOBLE VORTEX DATA SET
 // ============================================================================
 class KuantumPaketi {
-    constructor(kaynakMesh, hedefMesh, renk, tip, layer) { // 🔑 tip ve layer eklendi
-        this.kaynak = kaynakMesh;
-        this.hedef = hedefMesh;
-        this.ilerleme = 0.0;
-        this.tip = tip;       // 🔑 "A" veya "B" mühürü içeri alındı
-        this.layer = layer;   // 🔑 "UP", "CENTER", "DOWN" katmanı çakıldı
-
-        paketSayaci++; 
-        this.uuid = paketSayaci; 
+  constructor(kaynakMesh, hedefMesh, renk, tip, layer) { 
+    this.kaynak = kaynakMesh;
+    this.hedef = hedefMesh;
+    this.hedefId = hedefMesh.id; // 🔑 EN KRİTİK HATAYI ÇÖZEN SATIR: Hedefin ID mühürünü mermiye kilitler!
+    this.ilerleme = 0.0;
+    this.tip = tip; 
+    this.layer = layer; 
+    paketSayaci++;
+    this.uuid = paketSayaci;
         
         const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
   // 🔑 WebGL KATMAN MÜHÜRÜ: neonRengi hatasını çözer, zıt akımları Turkuaz ve Pembe olarak ayırır!
@@ -598,34 +598,32 @@ function animate() {
             }
         }
 
-        // Parçacık Güncelleme (Çift dikiş atlama hatası temizlendi)
-        for (let i = aktifPaketler.length - 1; i >= 0; i--) {
-            let paket = aktifPaketler[i];
-            paket.guncelle(sabitDelta); 
-     if (paket.ilerleme >= 1.0) {
-                let hData = spheres.find(o => o.id === paket.hedefId);
-                if (hData) {
-                    let hMesh = KuantumKafesi.getObjectByName(hData.name);
-                    if (hMesh) { 
-                        hMesh.material.emissiveIntensity = 4.0; hMesh.material.opacity = 1.0; 
-                        
-                        // 🔑 İŞTE O ANTINODE MOTORU: Tam söylediğin 3 ve 6 kutupsal rezonansını açar!
-                        // A akımı (Turkuaz) hedefe vardığında 3 (Beyaz) düğüm kutbunu şarj eder ve parlatır.
-                        if (paket.tip === "A") {
-                            let pole3 = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
-                            if (pole3) pole3.material.emissiveIntensity = 5.0;
-                        }
-                        // B akımı (Pembe) hedefe vardığında 6 (Siyah) antinode kutbunu tetikler ve parlatır.
-                        if (paket.tip === "B") {
-                            let pole6 = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
-                            if (pole6) pole6.material.emissiveIntensity = 5.0;
-                        }
-                    }
-                }
-                KuantumKafesi.remove(paket.mesh);
-                aktifPaketler.splice(i, 1); 
-            }
+for (let i = aktifPaketler.length - 1; i >= 0; i--) {
+  let paket = aktifPaketler[i];
+  paket.guncelle(sabitDelta);
+  
+  if (paket.ilerleme >= 1.0) {
+    let hData = spheres.find(o => o.id === paket.hedefId); // 🔑 Artık patlamayacak!
+    if (hData) {
+      let hMesh = KuantumKafesi.getObjectByName(hData.name);
+      if (hMesh) {
+        hMesh.material.emissiveIntensity = 4.0; 
+        hMesh.material.opacity = 1.0;
+        
+        if (paket.tip === "A") {
+          let pole3 = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
+          if (pole3) pole3.material.emissiveIntensity = 5.0;
         }
+        if (paket.tip === "B") {
+          let pole6 = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
+          if (pole6) pole6.material.emissiveIntensity = 5.0;
+        }
+      }
+    }
+    KuantumKafesi.remove(paket.mesh);
+    aktifPaketler.splice(i, 1);
+  }
+}
     }
 
 // 3. DEŞARJ DÖNGÜSÜ (GEZEGEN ENERJİ ALANLARI VE ASİMETRİK FREKANS BAĞLANTISI)
