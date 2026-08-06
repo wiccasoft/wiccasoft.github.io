@@ -557,7 +557,7 @@ const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
 
     // Biyolojik Kalp Ritmi (Dakikada 74 Atım -> 74 BPM)
-    const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
+    //const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
     
     // let tanımlaması ile hafıza kilitlenmeleri tamamen önlendi
     let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
