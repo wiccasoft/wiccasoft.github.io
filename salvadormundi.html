@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3D Heykelsi Siberpunk İnsan Modelleme</title>
+  <style>
+/* 🔑 SIFIR CPU/GPU YÜKÜ BİNDİREN SALVATOR MUNDI KUTSAL GEOMETRİ ARKA PLANI */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    /* Da Vinci'nin altın oran analizli Salvator Mundi görselini doğrudan fona kilitler */
+    background-image: url('https://wikimedia.org') !important;
+    background-color: #000000 !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important; /* Ekranın tam ortasına hizala */
+    background-size: contain !important; /* Görselin en-boy oranını bozmadan ekrana sığdırır */
+    overflow: hidden !important; 
+}
+
+/* Three.js kanvasının arka plan rengini tamamen şeffaf yaparak arkadaki resmi görünür kılıyoruz */
+canvas { 
+    display: block; 
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    top: 0; left: 0;
+    z-index: 1; /* Panellerin arkasında, resmin önünde kalır */
+}
+  </style>
+</head>
+<body>
+
+<!-- 🔑 Sabitlenmiş Kütüphane Bağlantıları -->
+<script src="./three.min.js"></script>
+<script src="./OrbitControls.js"></script>
+
+<script>
+// --- Şeffaf Renderer Yapılandırması ---
+const renderer = new THREE.WebGLRenderer({ 
+    antialias: true, 
+    alpha: true // 🔑 KRİTİK MÜHÜR: Kanvasın içini boşaltarak arkadaki Salvator Mundi'yi gösterir!
+});
+renderer.setSize(window.innerWidth, window.innerHeight);
+// autoClear ve sönümleme motoru ayarlarınız aşağıda aynen kalabilir
+
+// --- Kamera Bakış Açısını Karşıdan Kilitleme ---
+camera.position.set(0, 0, 5); // Tam karşıdan (Z ekseni) bakış açısı
+camera.lookAt(0, 0, 0);
+
+// --- OrbitControls Dönüş Kilidi ---
+const controls = new THREE.OrbitControls(camera, renderer.domElement);
+controls.enableRotate = false; // 🔒 Kullanıcının sahneyi fareyle çevirmesini engeller
+controls.enableZoom = false;   // 🔒 Yakınlaştırmayı kapatır
+controls.enablePan = false;    // 🔒 Sağa/sola kaydırmayı yasaklar
+controls.update();
+// Animasyon Döngüsü
+function animate() {
+    requestAnimationFrame(animate);
+    
+    // Heykelin her detayını görmek için yavaş kozmik dönüş
+    person.rotation.y += 0.005; 
+    
+    controls.update();
+    renderer.render(scene, camera);
+}
+
+// Güvenli Resize
+window.addEventListener('resize', () => {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+animate();
+</script>
+</body>
