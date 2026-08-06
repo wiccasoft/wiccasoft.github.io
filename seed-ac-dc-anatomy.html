@@ -537,30 +537,24 @@ let sonKareZamanı = performance.now();
 function animate() {
     requestAnimationFrame(animate);
 
-    // 🛠 25 FPS Zaman Kilidi
+    // 🛠 25 FPS Zaman Kilidi (Mevcut kararlı yapınız)
     const şimdikiZaman = performance.now();
     const geçenSüre = şimdikiZaman - sonKareZamanı;
-    if (geçenSüre < kareAralığı) return; 
-
+    if (geçenSüre < kareAralığı) return;
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
-    const sabitDelta = 1 / hedefFPS; 
 
-const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
-    const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
+    const sabitDelta = 1 / hedefFPS;
 
-    // 🔑 GERÇEK KOZMİK ZAMAN VE SİSTEM SAATİ MÜHÜRÜ
+    // 🔑 74 BPM BİYOLOJİK MOTOR: Zaman çarpanı ve anteni yeniden aktifleştirildi!
     const simdikiTarih = new Date();
-    const saat = simdikiTarih.getHours();
-    const dakika = simdikiTarih.getMinutes();
-    
-    // Sürekli akan, hassas ve gerçeğe kilitli saniye zamanı
     const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
-
-    // Biyolojik Kalp Ritmi (Dakikada 74 Atım -> 74 BPM)
-    //const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
     
-    // let tanımlaması ile hafıza kilitlenmeleri tamamen önlendi
+    // Kapatılan hayati kalp anteni tekrar devreye alındı
+    const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
     let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+
+    const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
+    const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
 
 
 
