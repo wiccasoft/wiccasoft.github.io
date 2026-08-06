@@ -545,11 +545,24 @@ function animate() {
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
     const sabitDelta = 1 / hedefFPS; 
 
-    const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
+const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
 
-
+    // 🔑 GERÇEK KOZMİK ZAMAN VE SİSTEM SAATİ MÜHÜRÜ
+    const simdikiTarih = new Date();
+    const saat = simdikiTarih.getHours();
+    const dakika = simdikiTarih.getMinutes();
     
+    // Sürekli akan, hassas ve gerçeğe kilitli saniye zamanı
+    const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
+
+    // Biyolojik Kalp Ritmi (Dakikada 74 Atım -> 74 BPM)
+    const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
+    
+    // let tanımlaması ile hafıza kilitlenmeleri tamamen önlendi
+    let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+
+
 
     // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
     if (beyazKutupObj && siyahKutupObj) {
@@ -688,7 +701,7 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
 
 // === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU ===
 const milisaniyeZamani = performance.now();
-const saniyeZamani = milisaniyeZamani * 0.001;
+//const saniyeZamani = milisaniyeZamani * 0.001;
 
 // 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
 const rodinDizisi = [1, 2, 4, 8, 7, 5];
@@ -752,7 +765,10 @@ if (aktifCakraElement) {
 
 // === ♈ 12'Lİ ZODYAK SATIR PARLAMA MOTORU ===
 const zodyakGecisHizi = 6; // Her astrolojik burç ekranda 6 saniye kalır
-const aktifBurcIndeks = Math.floor(saniyeZamani / zodyakGecisHizi) % 12;
+//const aktifBurcIndeks = Math.floor(saniyeZamani / zodyakGecisHizi) % 12;
+
+const aktifBurcIndeks = Math.floor(saniyeZamani / 5) % 12; 
+//const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
 
 // Elementlerin CSS sınıfları (Ateş, Toprak, Hava, Su döngüsü)
 const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
