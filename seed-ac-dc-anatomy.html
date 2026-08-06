@@ -86,6 +86,41 @@ canvas {
   
 <script>
 
+// ============================================================================
+// 🎵 SİBERPUNK TESLA SES MOTORU (WEB AUDIO API - OSCILLATOR SYNTH)
+// ============================================================================
+let audioCtx = null;
+
+function kozmikFrekansCal(frekans, sure = 0.08) {
+    try {
+        // Kullanıcı etkileşimiyle ses motorunu tarayıcı güvenliği için uyandırıyoruz
+        if (!audioCtx) {
+            audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        }
+        if (audioCtx.state === 'suspended') {
+            audioCtx.resume();
+        }
+
+        // Tesla bobini iyonizasyon sesini simüle eden Osilatör ve Gain düğümleri
+        const osilator = audioCtx.createOscillator();
+        const gainNode = audioCtx.createGain();
+
+        osilator.type = "sine"; // Saf sinüs rezonans dalgası
+        osilator.frequency.setValueAtTime(frekans, audioCtx.currentTime);
+
+        // Siberpunk pürüzsüz sönümlenme (Sustained Decay) eğrisi
+        gainNode.gain.setValueAtTime(0.12, audioCtx.currentTime); // Taban ses şiddeti
+        gainNode.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + sure);
+
+        osilator.connect(gainNode);
+        gainNode.connect(audioCtx.destination);
+
+        osilator.start();
+        osilator.stop(audioCtx.currentTime + sure);
+    } catch (e) {
+        console.log("Ses motoru uyanma bekliyor...");
+    }
+}
 
 // ============================================================================
 // BÖLÜM 1: SENKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
