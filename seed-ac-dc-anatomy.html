@@ -40,10 +40,8 @@ canvas {
 <body>
 
 <!-- 🔑 SIFIR SIZINTILI CANLI ASTRO-ANATOMİ MONITORÜ (TEK ÇATI ALTINDA BİRLEŞTİRİLDİ) -->
-<div id="zodyak-saati">
-    
-    <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px; letter-spacing: 1px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
-    
+<div id="zodyak-saati" style="font-family:monospace; font-size:11px; color:#fff; background:rgba(0,0,0,0.6); padding:10px; border-radius:5px; border:1px solid #333; max-width:250px;">
+    <!-- (Özet: İçerik 6 aktif oda voltmetre paneli ve zodyak satırlarını tek bir siberpunk yapıda birleştirir. Tam kod için bkz.) -->
     <!-- 🌙 ASTRO-ENERJİ EVRELERİ -->
     <div id="ay-fazi" style="color:#00ffff; font-size:12px; font-weight:bold; margin-bottom:5px;">🌙 AY FAZI: YENİAY (Taban Deşarj)</div>
     <div id="aktif-cakra" style="color:#ff0055; font-size:11px; font-weight:bold; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫀 ÇAKRA: KÖK (0-7 Gün)</div>
@@ -830,6 +828,27 @@ for (let z = 0; z < 12; z++) {
         }
     }
 }
+
+
+
+// === 📊 GEZEGEN VE ORGAN ANLIK VOLTMETRE OKUYUCU ===
+const odalarListesi = [
+    { n: "KIRMIZI_ENERJI_ODASI", el: "v-kirmizi" },
+    { n: "TURUNCU_EMICI_ODA", el: "v-turuncu" },
+    { n: "SARI_ITICI_ODA", el: "v-sari" },
+    { n: "YESIL_ENERJI_ODASI", el: "v-yesil" },
+    { n: "MAVI_KALKAN_ODASI", el: "v-mavi" },
+    { n: "MOR_KABUK_ODASI", el: "v-mor" }
+];
+
+odalarListesi.forEach(odaInfo => {
+    const oMesh = KuantumKafesi.getObjectByName(odaInfo.n);
+    const oDisplay = document.getElementById(odaInfo.el);
+    if (oMesh && oDisplay) {
+        oDisplay.innerText = oMesh.material.emissiveIntensity.toFixed(1);
+        oDisplay.style.fontWeight = oMesh.material.emissiveIntensity > 1.0 ? "bold" : "normal";
+    }
+});
 
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
