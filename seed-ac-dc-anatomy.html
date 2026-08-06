@@ -67,6 +67,8 @@ const scene = new THREE.Scene(); // Önce sahne oluşturulur
 const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
 scene.add(KuantumKafesi);
 
+
+
 let daVinciMat; // 🔑 KÜRESEL BELLEK MÜHÜRÜ:
 
 
@@ -101,6 +103,26 @@ scene.add(daVinciMesh);
 
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
 
+// 🌙 KOZMİK EVRE DİZİLERİ MÜHÜRÜ
+const ayFazlariListesi = [
+    "🌙 AY FAZI: YENİAY (Taban Deşarj)",
+    "🌙 AY FAZI: HİLAL (Akım Toplama)",
+    "🌙 AY FAZI: İLK DÖRDÜN (Kafes Dengesi)",
+    "🌙 AY FAZI: BÜYÜYEN AY (Sinyal Yükselişi)",
+    "🌕 AY FAZI: DOLUNAY (Maksimum Tepe Akım)",
+    "🌙 AY FAZI: KÜÇÜLEN AY (Yavaş Sönümleme)",
+    "🌙 AY FAZI: SON DÖRDÜN (Kutup Ayrışması)"
+];
+
+const cakraListesi = [
+    "🫀 ÇAKRA: KÖK (Muladhara - 174 Hz Base)",
+    "🫁 ÇAKRA: SAKRAL (Svadhisthana - 285 Hz)",
+    "🔥 ÇAKRA: SOLAR PLEXUS (Manipura - 396 Hz)",
+    "💚 ÇAKRA: KALP (Anahata - 432 Hz DC)",
+    "🗣️ ÇAKRA: BOĞAZ (Vishuddha - 741 Hz)",
+    "👁️ ÇAKRA: ÜÇÜNCÜ GÖZ (Ajna - 852 Hz)",
+    "👑 ÇAKRA: TEPE (Sahasrara - 963 Hz)"
+];
 
 function setPoles(northName, southName) {
 function setPoles(northName, southName) {
@@ -705,6 +727,37 @@ aktifPaketler.forEach(paket => {
     // 174 Hz ve 852 Hz frekansları akım mermilerinde anlık ışık patlaması yaratır
     paket.mesh.material.emissiveIntensity = 1.5 + (kalpDalga174 * 0.8) + (kalpDalga852 * 0.4);
 });
+
+
+// === ⏳ OTOMAN AY FAZI VE ÇAKRA DÖNGÜ MOTORU ===
+// Saniye zamanını kullanarak dizilerin indekslerini dinamik olarak hesaplıyoruz
+const fazSuresi = 8; // Her evre 8 saniyede bir otomatik döner
+const anlikFazIndeks = Math.floor(saniyeZamani / fazSuresi) % ayFazlariListesi.length;
+const anlikCakraIndeks = Math.floor(saniyeZamani / (fazSuresi * 1.5)) % cakraListesi.length; // Çakralar biraz daha yavaş evrilir
+
+// DOM Elemanlarını Yakala ve Canlı Enjekte Et
+const ayFaziElement = document.getElementById("ay-fazi");
+const aktifCakraElement = document.getElementById("aktif-cakra");
+
+if (ayFaziElement) {
+    ayFaziElement.innerText = ayFazlariListesi[anlikFazIndeks];
+    // Dolunay evresinde yazı kozmik turkuaz renginde havai fişek gibi parlar
+    if (anlikFazIndeks === 4) {
+        ayFaziElement.style.color = "#00ffff";
+        ayFaziElement.style.textShadow = "0 0 12px #00ffff";
+    } else {
+        ayFaziElement.style.color = "#888";
+        ayFaziElement.style.textShadow = "none";
+    }
+}
+
+if (aktifCakraElement) {
+    aktifCakraElement.innerText = cakraListesi[anlikCakraIndeks];
+    // Çakra değiştikçe rengi Kök Kırmızıdan Tepe Moruna doğru siberpunk neon geçiş yapar
+    const cakraRenkleri = ["#ff0055", "#ff7700", "#ffaa00", "#00ff55", "#00ffff", "#0055ff", "#9900ff"];
+    aktifCakraElement.style.color = cakraRenkleri[anlikCakraIndeks];
+    aktifCakraElement.style.textShadow = `0 0 10px ${cakraRenkleri[anlikCakraIndeks]}`;
+}
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
 renderer.setClearColor(0x000000, 0.05);
