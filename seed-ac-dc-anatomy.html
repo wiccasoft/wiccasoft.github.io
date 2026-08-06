@@ -813,18 +813,7 @@ const aktifBurcIndeks = (marsFazı - 1 + 12) % 12;
 
 const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
 
-for (let z = 0; z < 12; z++) {
-    const burcElementi = document.getElementById("zod-" + z);
-    if (burcElementi) {
-        // Eğer mermi tam o burcun odasını tetiklediyse neon ışığını yakar, yoksa sönük tutar
-        if (z === aktifBurcIndeks) {
-            const elementTipi = z % 4; // Döngüsel element tespiti (Ateş, Toprak, Hava, Su)
-            burcElementi.className = "burç-satırı " + elementRenkSiniflari[elementTipi];
-        } else {
-            burcElementi.className = "burç-satırı";
-        }
-    }
-}
+
 
 for (let z = 0; z < 12; z++) {
     const burcElementi = document.getElementById("zod-" + z);
