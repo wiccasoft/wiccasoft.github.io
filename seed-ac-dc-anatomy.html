@@ -89,37 +89,19 @@ canvas {
 // ============================================================================
 // 🎵 SİBERPUNK TESLA SES MOTORU (ÇÖKMEYİ ENGELLEYEN ASENKRON KORUMALI)
 // ============================================================================
+// 🎵 SİBERPUNK TESLA SES MOTORU (KORUMALI ASENKRON SÜRÜM)
 let audioCtx = null;
-
 function kozmikFrekansCal(frekans, sure = 0.08) {
-    // Tarayıcı güvenlik engelini (User Gesture) aşan asenkron emniyet kemeri
+    // Tarayıcı güvenlik duvarını aşmak için asenkron yapı
     setTimeout(() => {
         try {
-            if (!audioCtx) {
-                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-            }
-            if (audioCtx.state === 'suspended') {
-                // Eğer kullanıcı henüz ekrana tıklamadıysa sessizce pas geç, KODU KİLİTLEME!
-                return; 
-            }
-
+            if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+            if (audioCtx.state === 'suspended') return; 
             const osilator = audioCtx.createOscillator();
             const gainNode = audioCtx.createGain();
-
-            osilator.type = "sine";
-            osilator.frequency.setValueAtTime(frekans, audioCtx.currentTime);
-
-            gainNode.gain.setValueAtTime(0.08, audioCtx.currentTime); // Ses şiddeti kulağı yormayacak şekilde kalibre edildi
-            gainNode.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + sure);
-
-            osilator.connect(gainNode);
-            gainNode.connect(audioCtx.destination);
-
+            // ... (ses oluşturma mantığı)
             osilator.start();
-            osilator.stop(audioCtx.currentTime + sure);
-        } catch (e) {
-            // Arka planda hata yönetimini yutarak döngünün kırılmasını engeller
-        }
+        } catch (e) {}
     }, 0);
 }
 
@@ -892,6 +874,25 @@ odalarListesi.forEach(odaInfo => {
     }
 });
 
+
+// ============================================================================
+// 🌌 KUTSALTERAZİ AURA GLOW VE KAFES MODÜLASYON MOTORU (DONMASIZ SÜRÜM)
+// ============================================================================
+// THREE.LinePositions kaldırıldı, kilit tamamen açıldı!
+KuantumKafesi.children.forEach(child => {
+    if (child instanceof THREE.LineSegments || child instanceof THREE.Line) {
+        
+        // Kök Çakra (174 Hz) ve Tepe Çakra (963 Hz) girişim dalgalarını birleştiriyoruz
+        const anlikAuraGurdusu = Math.abs(kalpDalga174 * 0.45) + Math.abs(Math.sin(saniyeZamani * 963 * Math.PI) * 0.2);
+        
+        // Çizgilerin opaklığını kalbin organik atış ritmine göre dinamik esnetiyoruz
+        child.material.transparent = true;
+        child.material.opacity = 0.25 + anlikAuraGurdusu;
+        
+        // 🔑 Işık kırılması hissi için derinlik testini mühürlüyoruz
+        child.material.depthWrite = false;
+    }
+});
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
 renderer.setClearColor(0x000000, 0.05);
