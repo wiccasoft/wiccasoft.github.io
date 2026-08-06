@@ -907,34 +907,45 @@ odalarListesi.forEach(odaInfo => {
 
 
 // ============================================================================
-// 🌙 REAL-TIME KOZMİK AY FAZI MOTORU (CEREBROSPINAL FLUID DOLUMU)
+// 🌙 REAL-TIME KOZMİK AY FAZI MOTORU (PÜRÜZSÜZ CEREBROSPINAL AKÜMÜLATÖR)
 // ============================================================================
-// Ay fazları statik donmaktan kurtarılıyor, merminin anlık odasına kelepçeleniyor!
-let dinamikFazIndeks = 0; // 0: Yeniay (Taban Deşarj)
+// Küresel alanda (fonksiyon dışında) tanımlı değilse, yumuşak geçiş için statik hafıza köprüsü kuruyoruz
+if (typeof globalAyGlowSuresi === 'undefined') {
+    window.globalAyGlowSuresi = 0;
+}
 
-if (marsFazı === 1) {
-    dinamikFazIndeks = 0; // 🌙 YENİAY - Akım en dip kökte (Aries)
-} else if (marsFazı === 2 || marsFazı === 4) {
-    dinamikFazIndeks = 1; // 🌙 HİLAL / İLK DÖRDÜN - Sıvı yükseliyor (Taurus/Leo)
-} else if (marsFazı === 8 || marsFazı === 7) {
-    dinamikFazIndeks = 3; // 🌙 BÜYÜYEN AY - Göğüs kafesi geçişi (Virgo/Scorpio)
-} else if (marsFazı === 5) {
-    // 🔑 KUTSAL 28 GÜNLÜK TRANSMUTATION MÜHÜRÜ: 
-    // Sıvı en tepeye (Pisces - Pineal Bez) ulaştığı an sistem anlık olarak DOLUNAY'a kilitlenir!
-    dinamikFazIndeks = 4; // 🌕 DOLUNAY (Maksimum Tepe Akım / Cerebrospinal Dolum)
+// Mermiler Mor Odayı (ID:5 - Pisces/Pineal) her gümlettiğinde akümülatör şarj olur!
+if (marsFazı === 5) {
+    window.globalAyGlowSuresi = 1.0; // Dolunay enerjisi %100 dolduruldu
+} else {
+    // Mermi diğer odalardayken dolunay enerjisi Walter Russell deşarj eğrisiyle yavaşça azalır
+    window.globalAyGlowSuresi -= sabitDelta * 1.2; 
+    if (window.globalAyGlowSuresi < 0) window.globalAyGlowSuresi = 0;
+}
+
+// Akümülatörün doluluk oranına göre pürüzsüz Ay Fazı tespiti
+let pürüzsüzFazIndeks = 0; // Yeniay (Taban)
+if (window.globalAyGlowSuresi > 0.75) {
+    pürüzsüzFazIndeks = 4; // 🌕 DOLUNAY (Sıvı tepeye doldu, doyum noktası)
+} else if (window.globalAyGlowSuresi > 0.4) {
+    pürüzsüzFazIndeks = 3; // 🌙 BÜYÜYEN AY (Sıvı yukarı doğru tırmanıyor)
+} else if (window.globalAyGlowSuresi > 0.1) {
+    pürüzsüzFazIndeks = 1; // 🌙 HİLAL (Akım dipten toplandı)
 }
 
 const ayFaziElement = document.getElementById("ay-fazi");
 if (ayFaziElement) {
-    ayFaziElement.innerText = ayFazlariListesi[dinamikFazIndeks];
+    ayFaziElement.innerText = ayFazlariListesi[pürüzsüzFazIndeks];
     
-    // Dolunay anında üst beyin iyonizasyonunu simüle eden neon turkuaz parlama
-    if (dinamikFazIndeks === 4) {
+    // Dolunay evresinde üst beyin rezonansını simüle eden parıltı şiddeti akümülatöre bağlanıyor
+    if (pürüzsüzFazIndeks === 4) {
         ayFaziElement.style.color = "#00ffff";
-        ayFaziElement.style.textShadow = "0 0 15px #00ffff";
+        ayFaziElement.style.textShadow = `0 0 ${10 + window.globalAyGlowSuresi * 10}px #00ffff`;
+        ayFaziElement.style.fontWeight = "bold";
     } else {
-        ayFaziElement.style.color = "#888";
+        ayFaziElement.style.color = "#666";
         ayFaziElement.style.textShadow = "none";
+        ayFaziElement.style.fontWeight = "normal";
     }
 }
 
