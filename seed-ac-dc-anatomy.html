@@ -596,30 +596,69 @@ function animate() {
 
                             // 🔑 DA VINCI ANATOMİK ÇAKRA GEZGİNİ:
                             // Enerji artık düz yazılarda değil, Da Vinci'nin gövdesindeki odalar arasında zigzaglar çizer!
-                            let marsFazı = rodinDizisiA[aktifIndexA];
-                            
-                            // 1. Koç Fazı -> Enerji üreme/sakral çakrasında (Kök ve Sakral odaları deli gibi parlar)
-                            if (marsFazı === 1) {
-                                let kocOda = KuantumKafesi.getObjectByName("KIRMIZI_ENERJI_ODASI");
-                                if (kocOda) kocOda.material.emissiveIntensity = 6.0;
-                            }
-                            // 2. Başak Fazı -> Enerji tam göbekte, Solar Plexus (Sarı oda) sapanında ışık hızına katlanır!
-                            else if (marsFazı === 4) {
-                                let basakOda = KuantumKafesi.getObjectByName("SARI_ITICI_ODA");
-                                if (basakOda) {
-                                    basakOda.material.emissiveIntensity = 6.0;
-                                }
-                            }
-                            // 3. Hava Fazı -> Enerji akciğerler ve dolaşımda (Mavi ve Yeşil odaları sarmal çizer)
-                            else if (marsFazı === 7) {
-                                let kovaOda = KuantumKafesi.getObjectByName("MAVI_KALKAN_ODASI");
-                                if (kovaOda) kovaOda.material.emissiveIntensity = 6.0;
-                            }
-                            // 4. Balık Fazı -> Cerebrospinal fluid beyne ulaştı! Tepe Çakra (Mor oda) havai fişek gibi patlar!
-                            else {
-                                let balikOda = KuantumKafesi.getObjectByName("MOR_KABUK_ODASI");
-                                if (balikOda) balikOda.material.emissiveIntensity = 7.0;
-                            }
+                           // ============================================================================
+// 🌊 🪨 🌬️ 🔥 NİHAİ SİBERPUNK 4-ELEMENT MASTER MOTORU (SU -> TOPRAK -> HAVA -> ATEŞ)
+// ============================================================================
+let marsFazı = rodinDizisiA[aktifIndexA];
+
+if (odaMesh) {
+    
+    // 🍼 1. SU KRALLIĞI: URINARY GİRİŞ KAPISI (Koç - Üreme / Faz: 1)
+    // Oda: Kırmızı Enerji Odası -> 174 Hz AC Kök Nabız Kilidi
+    if (marsFazı === 1) {
+        if (odaMesh.name === "KIRMIZI_ENERJI_ODASI") {
+            let suTabanPuls = 7.0 + (Math.abs(kalpDalga174) * 4.5);
+            odaMesh.material.emissiveIntensity = suTabanPuls;
+            odaMesh.material.opacity = 1.0;
+        }
+    }
+    
+    // 🪐 2. SU KRALLIĞI: DIGESTIVE İŞLEME KAPISI (Boğa - Karaciğer / Faz: 2 & Aslan - Pankreas / Faz: 4)
+    // Odalar: Turuncu ve Sarı (Solar Plexus) -> 432 Hz DC Kararlı Akış
+    else if (marsFazı === 2 || marsFazı === 4) {
+        if (odaMesh.name === "TURUNCU_EMICI_ODA" || odaMesh.name === "SARI_ITICI_ODA") {
+            odaMesh.material.emissiveIntensity = (odaMesh.name === "SARI_ITICI_ODA") ? 6.5 : 6.0;
+            odaMesh.material.opacity = 0.9;
+        }
+    }
+    
+    // 🪨 3. TOPRAK KRALLIĞI: SKELETAL SYSTEM (Satürnyen İskelet Yapısı / Faz: 8)
+    // Oda: Yeşil Enerji Odası -> Başak/Oğlak Kemik Aksı (Walter Russell Yavaş Deşarj)
+    else if (marsFazı === 8) {
+        if (odaMesh.name === "YESIL_ENERJI_ODASI") {
+            odaMesh.material.emissiveIntensity = 5.5; 
+            odaMesh.material.opacity = 0.85;
+        }
+    }
+    
+    // 🌬️ 4. HAVA KRALLIĞI: PULMONARY SHIELD (Akciğer & Kalp Dengesi / Faz: 7)
+    // Oda: Mavi Kalkan Odası -> Terazi/Akrep Solunum Cidarısı & 852 Hz Üst Dalga Modülasyonu
+    else if (marsFazı === 7) {
+        if (odaMesh.name === "MAVI_KALKAN_ODASI") {
+            odaMesh.material.emissiveIntensity = 6.8 + (kalpDalga852 * 1.5);
+            odaMesh.material.opacity = 0.95;
+        }
+    }
+    
+    // 🔑 🔥 5. ATEŞ KRALLIĞI: NERVOUS SYSTEM & BRAIN LIGHTNING (Balık-Pineal & Kova / Faz: 5)
+    // Odalar: Mor Kabuk Odası (Pineal) & Beyaz Kutup Odası (Nöral Akım Direği)
+    // Ritim: 963 Hz Kozmik Akor Genliğiyle (kalpDalga963 türevi) sinaptik yıldırım patlaması!
+    else if (marsFazı === 5) {
+        // En üst beyin frekansı olan 963 Hz'i anlık simüle eden saf sinüs dalgası
+        const sinapsDalgasi963 = Math.sin(saniyeZamani * 963 * Math.PI);
+        
+        if (odaMesh.name === "MOR_KABUK_ODASI" || odaMesh.name === "BEYAZ_KUTUP_ODASI") {
+            if (odaMesh.name === "MOR_KABUK_ODASI") {
+                // 🧠 PINEAL TRANSMUTATION EXPLOSION: En yüksek voltajla ve çılgınca parlar!
+                odaMesh.material.emissiveIntensity = 8.5 + (Math.abs(sinapsDalgasi963) * 3.5);
+                odaMesh.material.opacity = 1.0;
+            } else {
+                // Beyaz şah damarı / omurilik nöral hattı ateş anında şimşek gibi parlar
+                odaMesh.material.emissiveIntensity = 7.0 + (sinapsDalgasi963 * 1.5);
+            }
+        }
+    }
+}
                         }
 
                         // İndeksler (Gezegen yörünge çarkları) tam bu tetikleme anında kusursuz kayar
