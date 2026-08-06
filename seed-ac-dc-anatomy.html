@@ -803,34 +803,34 @@ aktifPaketler.forEach(paket => {
 });
 
 
-// === ⏳ OTOMAN AY FAZI VE ÇAKRA DÖNGÜ MOTORU ===
-// Saniye zamanını kullanarak dizilerin indekslerini dinamik olarak hesaplıyoruz
-const fazSuresi = 8; // Her evre 8 saniyede bir otomatik döner
-const anlikFazIndeks = Math.floor(saniyeZamani / fazSuresi) % ayFazlariListesi.length;
-const anlikCakraIndeks = Math.floor(saniyeZamani / (fazSuresi * 1.5)) % cakraListesi.length; // Çakralar biraz daha yavaş evrilir
+// ============================================================================
+// 🫀 REAL-TIME ORGANIC CHAKRA SYNC (LAG ELIMINATED)
+// ============================================================================
+// We bypass the slow timer and bind directly to the active 3D node wave (marsFazı)
+let anlikCakraIndeks = 0; 
 
-// DOM Elemanlarını Yakala ve Canlı Enjekte Et
-const ayFaziElement = document.getElementById("ay-fazi");
-const aktifCakraElement = document.getElementById("aktif-cakra");
-
-if (ayFaziElement) {
-    ayFaziElement.innerText = ayFazlariListesi[anlikFazIndeks];
-    // Dolunay evresinde yazı kozmik turkuaz renginde havai fişek gibi parlar
-    if (anlikFazIndeks === 4) {
-        ayFaziElement.style.color = "#00ffff";
-        ayFaziElement.style.textShadow = "0 0 12px #00ffff";
-    } else {
-        ayFaziElement.style.color = "#888";
-        ayFaziElement.style.textShadow = "none";
-    }
+if (marsFazı === 1) {
+    anlikCakraIndeks = 0; // KÖK (Muladhara) - Aries Base Gate
+} else if (marsFazı === 2) {
+    anlikCakraIndeks = 1; // SAKRAL (Svadhisthana) - Taurus Fluids
+} else if (marsFazı === 4) {
+    anlikCakraIndeks = 2; // SOLAR PLEXUS (Manipura) - Leo Solar Matrix
+} else if (marsFazı === 7) {
+    anlikCakraIndeks = 3; // KALP (Anahata) - Libra/Scorpio Pulmonary Balance
+} else if (marsFazı === 8) {
+    anlikCakraIndeks = 4; // BOĞAZ (Vishuddha) - Virgo Thyroid Censer
+} else if (marsFazı === 5) {
+    // When energy strikes the Mor Kabuk (Node 5), it triggers BOTH higher centers simultaneously!
+    // We alternate between Third Eye and Crown based on the 963 Hz neural wave
+    anlikCakraIndeks = (Math.sin(saniyeZamani * 963 * Math.PI) > 0) ? 5 : 6; // ÜÇÜNCÜ GÖZ / TEPE
 }
 
+const aktifCakraElement = document.getElementById("aktif-cakra");
 if (aktifCakraElement) {
     aktifCakraElement.innerText = cakraListesi[anlikCakraIndeks];
-    // Çakra değiştikçe rengi Kök Kırmızıdan Tepe Moruna doğru siberpunk neon geçiş yapar
     const cakraRenkleri = ["#ff0055", "#ff7700", "#ffaa00", "#00ff55", "#00ffff", "#0055ff", "#9900ff"];
     aktifCakraElement.style.color = cakraRenkleri[anlikCakraIndeks];
-    aktifCakraElement.style.textShadow = `0 0 10px ${cakraRenkleri[anlikCakraIndeks]}`;
+    aktifCakraElement.style.textShadow = `0 0 12px ${cakraRenkleri[anlikCakraIndeks]}`;
 }
 
 
