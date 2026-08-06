@@ -426,30 +426,22 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 // ============================================================================
 // Sarı ve Kırmızı odalar yukarda (Y: 0.25), Siyah ve Beyaz kutuplar aşağıda (Y: -0.25)
 // Jüpiter ve Satürn yörünge kararlılığı tam olarak yeniden mühürlendi!
+// ============================================================================
+// 🔮 PROFİL UYARLI SAF GEOMETRİK EL KİLİTLENMESİ (KUTUPLAR SIRTTAN KURTARILDI)
+// ============================================================================
+// Sarı ve Kırmızı odalar yukarda (0.25), Siyah ve Beyaz kutuplar sırt ve göbekten 
+// sökülerek tam olarak İsa'nın tablodaki el koordinatlarına geri çivilendi!
+
+
 const spheres = [
-  // 🔴 1. KIRMIZI ENERJİ ODASI (Üst Ön Sağ Köşe - Ateş/Voltaj Üst Kilidi)
-  { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false },
-  
-  // 🟠 2. TURUNCU EMİCİ ODA (Üst Ön Sol Köşe)
-  { id: 2, name: "TURUNCU_EMICI_ODA", pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0xff6600, isPole: false },
-  
-  // 🟡 4. SARI ITİCİ ODA (Üst Arka Sol Köşe - Güneş/Pankreas Üst Kilidi)
-  { id: 4, name: "SARI_ITICI_ODA", pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffff00, isPole: false },
-  
-  // 🟢 8. YEŞİL ENERJİ ODASI (Alt Ön Sağ Köşe)
-  { id: 8, name: "YESIL_ENERJI_ODASI", pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x00ff00, isPole: false },
-  
-  // 🔵 7. MAVİ KALKAN ODASI (Alt Ön Sol Köşe)
-  { id: 7, name: "MAVI_KALKAN_ODASI", pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false },
-  
-  // 🟣 5. MOR KABUK ODASI (Üst Arka Sağ Köşe - Girişim Çekirdeği)
-  { id: 5, name: "MOR_KABUK_ODASI", pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0x660099, isPole: false },
-  
-  // ⚪🔮 BEYAZ KUTUP ODASI (Alt Arka Sol Köşe - Jüpiter Vakum Yatağı - ID: 3)
-  { id: 3, name: "BEYAZ_KUTUP_ODASI", pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0xffffff, isPole: true },
-  
-  // ⚫🔱 SİYAH KUTUP ODASI (Alt Arka Sağ Köşe - Satürn Sınır Şaftı - ID: 6)
-  { id: 6, name: "SIYAH_KUTUP_ODASI", pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0x222222, isPole: true }
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, // Kırmızı Köşe
+    { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff6600, isPole: false },
+    { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false }, // Yeşil Karşı Köşe
+    { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false }, // Mavi Oposite
+    { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x660099, isPole: false },
+    { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true  }, // 🌟 \(\sqrt{2}\) ÇAPRAZ KUTUP (KUZEYBATI)
+    { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true  }  // 🌟 \(\sqrt{2}\) ÇAPRAZ TABAN (GÜNEYDOĞU)
 ];
 // ============================================================================
 // ADIM 5: ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (Satır 245 - 258)
