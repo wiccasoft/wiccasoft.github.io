@@ -64,19 +64,20 @@ const scene = new THREE.Scene(); // Önce sahne oluşturulur
 const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
 scene.add(KuantumKafesi);
 
+let daVinciMat; // 🔑 KÜRESEL BELLEK MÜHÜRÜ:
+
 
 // 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
 // Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
-// 🔑 DEVAZASA ÖLÇEKLİ NEON KIRMIZI DA VINCI MÜHÜRÜ
-// 🔑 SENKRONE ORTOGRAFİK DA VINCI MÜHÜRÜ
-// 🔑 SENKRONE ORTOGRAFİK DA VINCI MÜHÜRÜ
+
 const loader = new THREE.TextureLoader();
 // Kürelerin arkasından patlayacak özel Neon Kırmızı Vitruvian Man Base64 kodu
 const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
 
 const daVinciDokusu = loader.load(daVinciDataURI);
 const daVinciGeom = new THREE.PlaneGeometry(2.2, 2.2);
-const daVinciMat = new THREE.MeshBasicMaterial({
+
+ daVinciMat = new THREE.MeshBasicMaterial({
   map: daVinciDokusu,
   transparent: true,
   opacity: 0.65, 
@@ -86,7 +87,8 @@ const daVinciMat = new THREE.MeshBasicMaterial({
 });
 
 const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
-// Kameraya dik duruş ve merkezleme
+
+daVinciMesh.rotation.set(-0.615, 0.785, 0); // 📐 Kamera açısına dik rotasyon
 daVinciMesh.rotation.set(-Math.PI / 4, Math.PI / 4, 0); 
 daVinciMesh.position.set(0, 0, 0); 
 
@@ -664,17 +666,17 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
     
 
 // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU KORUMASI ===
-if (typeof daVinciMesh !== 'undefined') {
-    daVinciMesh.material.opacity = 0.65; // Plazma izlerinin şablonu karartmasını engeller
+if (daVinciMat) {
+    daVinciMat.opacity = 0.65;          // 🔑 Her karede siyah boyanın üstünü yırtar
+    daVinciMat.needsUpdate = true;      // 🔑 GPU buffer'ını zorla yenileyerek statik görünmezliği bitirir!
 }
-    
-    // Her karede eski neon izlerini %5 sönümleyerek havada asılı kalan Yaşam Çiçeği tüplerini örer
-    renderer.setClearColor(0x000000, 0.05);
-    renderer.clearColor(); 
-    renderer.clearDepth(); // 3D derinlik tamponunu sıfırlayarak GPU'yu tamamen rahatlatır
 
-    if (typeof controls !== 'undefined') controls.update();
-    renderer.render(scene, camera);
+// Neon izlerini %5 sönümleyerek sahneyi render et
+renderer.setClearColor(0x000000, 0.05);
+renderer.clearColor();
+renderer.clearDepth(); 
+if (typeof controls !== 'undefined') controls.update();
+renderer.render(scene, camera);
 } // 🔑 animate fonksiyon kapanışı
 
 // 🔑 GÜVENLİ RESIZE (Tekil ve dışarıda)
