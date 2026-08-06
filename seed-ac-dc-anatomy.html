@@ -40,6 +40,29 @@ canvas {
 </head>
 <body>
 
+    <!-- 📊 CANLI ENERJİ SİNYALİZASYONU -->
+    <div style="margin-top:10px; font-size:11px; font-family:monospace; line-height: 1.4;">
+        <div style="color:#ffaa00;">🌀 MADDİ MATRİS: <span id="rodin-sinyali" style="font-weight:bold;">1</span> (432 Hz DC)</div>
+        <div style="color:#ff3300;">🫁 KALP REZONANSI: <span id="kalp-sinyali" style="font-weight:bold;">174 Hz</span> (AC)</div>
+    </div>
+    
+    <!-- 🔑 SİBERPUNK KOZMİK ZODYAK TAKVİM SATIRLARI -->
+    <div id="burc-listesi" style="margin-top: 15px; border-top: 1px solid #222; padding-top: 10px;">
+        <div id="zod-0" class="burç-satırı">Aries ♈ KOC (Ateş)</div>
+        <div id="zod-1" class="burç-satırı">Taurus ♉ BOGA (Toprak)</div>
+        <div id="zod-2" class="burç-satırı">Gemini ♊ IKIZLER (Hava)</div>
+        <div id="zod-3" class="burç-satırı">Cancer ♋ YENGEC (Su)</div>
+        <div id="zod-4" class="burç-satırı">Leo ♌ ASLAN (Ateş)</div>
+        <div id="zod-5" class="burç-satırı">Virgo ♍ BASAK (Toprak)</div>
+        <div id="zod-6" class="burç-satırı">Libra ♎ TERAZI (Hava)</div>
+        <div id="zod-7" class="burç-satırı">Scorpio ♏ AKREP (Su)</div>
+        <div id="zod-8" class="burç-satırı">Sagittarius ♐ YAY (Ateş)</div>
+        <div id="zod-9" class="burç-satırı">Capricorn ♑ OGLAK (Toprak)</div>
+        <div id="zod-10" class="burç-satırı">Aquarius ♒ KOVA (Hava)</div>
+        <div id="zod-11" class="burç-satırı">Pisces ♓ BALIK (Su)</div>
+    </div>
+</div>
+
 <!-- 🔑 PARLAYAN ASTRO-ANATOMİ PANELİ VE CANLI FREKANS METRELERİ -->
 <div id="zodyak-saati">
     <div style="color:#888; font-size:11px; margin-bottom:5px; border-bottom:1px solid #222; padding-bottom:5px;">🫖 KUANTUM BİYOLOJİK SAAT</div>
@@ -722,6 +745,28 @@ if (aktifCakraElement) {
     aktifCakraElement.style.color = cakraRenkleri[anlikCakraIndeks];
     aktifCakraElement.style.textShadow = `0 0 10px ${cakraRenkleri[anlikCakraIndeks]}`;
 }
+
+
+// === ♈ 12'Lİ ZODYAK SATIR PARLAMA MOTORU ===
+const zodyakGecisHizi = 6; // Her astrolojik burç ekranda 6 saniye kalır
+const aktifBurcIndeks = Math.floor(saniyeZamani / zodyakGecisHizi) % 12;
+
+// Elementlerin CSS sınıfları (Ateş, Toprak, Hava, Su döngüsü)
+const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
+
+for (let z = 0; z < 12; z++) {
+    const burcElementi = document.getElementById("zod-" + z);
+    if (burcElementi) {
+        // Eğer sıra bu burçtaysa element rengini neon basar, değilse sönük (#444) tutar
+        if (z === aktifBurcIndeks) {
+            const elementTipi = z % 4; // Döngüsel element tespiti
+            burcElementi.className = "burç-satırı " + elementRenkSiniflari[elementTipi];
+        } else {
+            burcElementi.className = "burç-satırı";
+        }
+    }
+}
+
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
 renderer.setClearColor(0x000000, 0.05);
