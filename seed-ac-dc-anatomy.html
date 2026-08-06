@@ -537,19 +537,22 @@ let sonKareZamanı = performance.now();
 function animate() {
     requestAnimationFrame(animate);
 
-    // 🛠 25 FPS Zaman Kilidi
+    // 🛠 25 FPS Zaman Kilidi (Önceki kare ile farkı hesapla)
     const şimdikiZaman = performance.now();
     const geçenSüre = şimdikiZaman - sonKareZamanı;
     if (geçenSüre < kareAralığı) return;
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
 
-    // 🔑 KOZMİK ZAMAN VE SİSTEM SAATİ (Değişkenler üste alındı, Scope hataları giderildi)
+    // 🔑 KESİN ÇÖZÜM: Saat/Dakika (scope hatası için) ve Nabız için gerekli değişkenleri üste çekin
     const simdikiTarih = new Date();
+    const saat = simdikiTarih.getHours();
+    const dakika = simdikiTarih.getMinutes();
     const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
 
-    // Biyolojik Kalp Ritmi (74 BPM)
+    // Biyolojik Kalp Ritmi (74 BPM) Tesla Ateşleme
     const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
     const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+
 
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
