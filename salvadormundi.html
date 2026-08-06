@@ -31,17 +31,21 @@
 
     /* If you have a specific background container for the Salvator Mundi portrait, 
    upscale it by 1.15x or 1.2x to fill the Metatron grid lines perfectly */
-#bg-image, .salvador-canvas {
+/* 🎨 BAĞIMSIZ SALVATOR MUNDI KATMANI (EN-BOY ORANI KORUMALI FİTLENMİŞ) */
+#bg-image {
     position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: 1;
+    top: 50%; left: 50%;
     
-    /* 👑 UP-SCALE MATRIX: Expands Jesus so the spinal cord locks into KuantumKafesi */
-    transform: scale(1.0); 
+    /* 📐 KESİN ORAN KİLİDİ: Resmin kalitesini bozmadan dikey yüksekliğe sabitler */
+    height: 100vh !important;
+    width: auto !important;
+    object-fit: contain;
+    
+    /* 👑 UP-SCALE MATRIX: İsa'yı tam senin istediğin oranda büyütür ve ekranı ortalar */
+    transform: translate(-50%, -50%) scale(1.15);
     transform-origin: center center;
+    z-index: 1;
+    pointer-events: none;
 }
 
     /* 🔑 AC-DC MOTOR ENJEKTÖRÜ: seed-ac-dc-anatomy.html dosyasını çağırır */
