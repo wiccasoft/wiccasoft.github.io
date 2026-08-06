@@ -89,12 +89,14 @@ canvas {
 // ============================================================================
 // BÖLÜM 1: SENKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
 // ============================================================================
-const scene = new THREE.Scene(); // Önce sahne oluşturulur
-const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye eklenir
+const scene = new THREE.Scene(); 
+const KuantumKafesi = new THREE.Group(); 
+
+// 🔑 ANATOMİK AÇI MÜHÜRÜ: Küpü ve odaları 45 derece çevirerek 
+// Beyazı tam öne (göğse), Siyahı arkaya (omurgaya) kilitler ve Kırmızı-Yeşil profilini kurtarır!
+KuantumKafesi.rotation.y = Math.PI / 4; 
+
 scene.add(KuantumKafesi);
-
-
-const loader = new THREE.TextureLoader();
 
 
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
