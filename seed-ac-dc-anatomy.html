@@ -581,10 +581,12 @@ function animate() {
 
             // [Refer to source file 1.1 for full implementation of this unified module]
   if (meshKA && meshHA && meshKB && meshHB) {
-                // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
-                [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
-                    const fazRölesi = p.t === "A" ? 0 : 4;
-                    const kanalRitmi = (Math.floor(sabitDelta * 20) + fazRölesi) % 8 === 0;
+// ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
+[ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
+    const fazRölesi = p.t === "A" ? 0 : 4;
+    
+    // 🫀 KALP RİTMİ KİLİDİ: İstediğin o muazzam "güm güm" nabzını veren orijinal formül mühürlendi!
+    const kanalRitmi = (Math.floor(sabitDelta * 20) + fazRölesi) % 8 === 0;
 
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
