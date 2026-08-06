@@ -87,39 +87,40 @@ canvas {
 <script>
 
 // ============================================================================
-// 🎵 SİBERPUNK TESLA SES MOTORU (WEB AUDIO API - OSCILLATOR SYNTH)
+// 🎵 SİBERPUNK TESLA SES MOTORU (ÇÖKMEYİ ENGELLEYEN ASENKRON KORUMALI)
 // ============================================================================
 let audioCtx = null;
 
 function kozmikFrekansCal(frekans, sure = 0.08) {
-    try {
-        // Kullanıcı etkileşimiyle ses motorunu tarayıcı güvenliği için uyandırıyoruz
-        if (!audioCtx) {
-            audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    // Tarayıcı güvenlik engelini (User Gesture) aşan asenkron emniyet kemeri
+    setTimeout(() => {
+        try {
+            if (!audioCtx) {
+                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+            }
+            if (audioCtx.state === 'suspended') {
+                // Eğer kullanıcı henüz ekrana tıklamadıysa sessizce pas geç, KODU KİLİTLEME!
+                return; 
+            }
+
+            const osilator = audioCtx.createOscillator();
+            const gainNode = audioCtx.createGain();
+
+            osilator.type = "sine";
+            osilator.frequency.setValueAtTime(frekans, audioCtx.currentTime);
+
+            gainNode.gain.setValueAtTime(0.08, audioCtx.currentTime); // Ses şiddeti kulağı yormayacak şekilde kalibre edildi
+            gainNode.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + sure);
+
+            osilator.connect(gainNode);
+            gainNode.connect(audioCtx.destination);
+
+            osilator.start();
+            osilator.stop(audioCtx.currentTime + sure);
+        } catch (e) {
+            // Arka planda hata yönetimini yutarak döngünün kırılmasını engeller
         }
-        if (audioCtx.state === 'suspended') {
-            audioCtx.resume();
-        }
-
-        // Tesla bobini iyonizasyon sesini simüle eden Osilatör ve Gain düğümleri
-        const osilator = audioCtx.createOscillator();
-        const gainNode = audioCtx.createGain();
-
-        osilator.type = "sine"; // Saf sinüs rezonans dalgası
-        osilator.frequency.setValueAtTime(frekans, audioCtx.currentTime);
-
-        // Siberpunk pürüzsüz sönümlenme (Sustained Decay) eğrisi
-        gainNode.gain.setValueAtTime(0.12, audioCtx.currentTime); // Taban ses şiddeti
-        gainNode.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + sure);
-
-        osilator.connect(gainNode);
-        gainNode.connect(audioCtx.destination);
-
-        osilator.start();
-        osilator.stop(audioCtx.currentTime + sure);
-    } catch (e) {
-        console.log("Ses motoru uyanma bekliyor...");
-    }
+    }, 0);
 }
 
 // ============================================================================
@@ -627,8 +628,12 @@ function animate() {
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
   if (odaMesh) {
+
+    
                             odaMesh.material.emissiveIntensity = 5.0; // İsabet anında oda havai fişek gibi patlar
                             odaMesh.material.opacity = 1.0;
+
+                            
 
                             // 🔑 DA VINCI ANATOMİK ÇAKRA GEZGİNİ:
                             // Enerji artık düz yazılarda değil, Da Vinci'nin gövdesindeki odalar arasında zigzaglar çizer!
@@ -638,6 +643,8 @@ function animate() {
 let marsFazı = rodinDizisiA[aktifIndexA];
 
 if (odaMesh) {
+
+
     
     // 🍼 1. SU KRALLIĞI: URINARY GİRİŞ KAPISI (Koç - Üreme / Faz: 1)
     // Oda: Kırmızı Enerji Odası -> 174 Hz AC Kök Nabız Kilidi
