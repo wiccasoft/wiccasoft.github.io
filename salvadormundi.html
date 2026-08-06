@@ -25,7 +25,24 @@
         height: 90vh;           /* Ekran yüksekliğinin %90'ını kaplasın (Kasmaması için optimize boyut) */
         z-index: 1;             /* En arkada kalır */
         pointer-events: none;
+
+        
     }
+
+    /* If you have a specific background container for the Salvator Mundi portrait, 
+   upscale it by 1.15x or 1.2x to fill the Metatron grid lines perfectly */
+#bg-image, .salvador-canvas {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    
+    /* 👑 UP-SCALE MATRIX: Expands Jesus so the spinal cord locks into KuantumKafesi */
+    transform: scale(1.0); 
+    transform-origin: center center;
+}
 
     /* 🔑 AC-DC MOTOR ENJEKTÖRÜ: seed-ac-dc-anatomy.html dosyasını çağırır */
     iframe {
@@ -45,7 +62,7 @@
 <body>
 
   <!-- 🎨 TABLO BAĞIMSIZ ELEMAN OLARAK EN ARKEYA GÖMÜLDÜ -->
-  <img id="arka-plan-tablo" src="./salvador-mundi.jpg" alt="Salvator Mundi">
+  <img id="bg-image" src="./salvador-mundi.jpg" alt="Salvator Mundi">
 
   <!-- ⚡ AC-DC ANATOMY MOTORU ÖNE BİNDİRİLDİ -->
   <iframe src="./seed-ac-dc-anatomy.html"></iframe>
