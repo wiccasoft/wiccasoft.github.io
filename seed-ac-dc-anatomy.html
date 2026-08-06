@@ -615,14 +615,23 @@ function animate() {
                             odaMesh.material.emissiveIntensity = 5.0; // İsabet anında oda havai fişek gibi patlar
                             odaMesh.material.opacity = 1.0;
 
-                            
+                            // 🔑 KRİTİK SIRALAMA DÜZELTMESİ: marsFazı tüm motorlardan önce belleğe mühürlendi!
+                            let marsFazı = rodinDizisiA[aktifIndexA];
+
+                            // 🔑 AKILLI ELEMAN FREKANS SES ENJEKTÖRÜ (Gecikmesiz Güvenli Bölge)
+                            if (typeof kozmikFrekansCal === 'function') {
+                                if (marsFazı === 1 || marsFazı === 5) kozmikFrekansCal(174, 0.12);       // 🌊 SU (174 Hz)
+                                else if (marsFazı === 2 || marsFazı === 4) kozmikFrekansCal(432, 0.08); // 🌊🪐 SU-Maddi Matris (432 Hz)
+                                else if (marsFazı === 8) kozmikFrekansCal(528, 0.15);                  // 🪨 TOPRAK (528 Hz)
+                                else if (marsFazı === 7) kozmikFrekansCal(852, 0.10);                  // 🌬️ HAVA (852 Hz)
+                            }
 
                             // 🔑 DA VINCI ANATOMİK ÇAKRA GEZGİNİ:
                             // Enerji artık düz yazılarda değil, Da Vinci'nin gövdesindeki odalar arasında zigzaglar çizer!
                            // ============================================================================
 // 🌊 🪨 🌬️ 🔥 NİHAİ SİBERPUNK 4-ELEMENT MASTER MOTORU (SU -> TOPRAK -> HAVA -> ATEŞ)
 // ============================================================================
-let marsFazı = rodinDizisiA[aktifIndexA];
+
 
 
 
@@ -909,6 +918,15 @@ window.addEventListener('resize', () => {
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
+
+// 🔑 SES SİSTEMİNİ KULLANICI DOKUNUŞUYLA AKTİFLEŞTİREN KOZMİK TETİKLEYİCİ
+window.addEventListener('click', () => {
+    if (audioCtx && audioCtx.state === 'suspended') {
+        audioCtx.resume().then(() => console.log("🔊 Tesla Ses Jeneratörü Uyarildi."));
+    }
+});
+
+
 
 animate();
 
