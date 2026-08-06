@@ -539,6 +539,7 @@ function animate() {
 
     // 🛠 25 FPS Zaman Kilidi
     const şimdikiZaman = performance.now();
+
     const geçenSüre = şimdikiZaman - sonKareZamanı;
     if (geçenSüre < kareAralığı) return; 
 
@@ -549,7 +550,17 @@ function animate() {
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
 
 
-    
+    javascript// ... ( animate fonksiyonunun başı ve 25 FPS zaman kilidi bloğu buraya gelecek )
+// 🔑 ÇÖZÜM: Değişkenleri Rodin/Ateşleme öncesi tanımla
+const simdikiTarih = new Date();
+const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
+
+// Kalp atış hızı (74 BPM) ve Ateşleme Ritmi
+const biyolojikBPM = 74;
+const kalpAteslemeSinyali = (saniyeZamani * (biyolojikBPM / 60));
+const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+
+// ... (KuantumKafesi kontrolü ve ateslemeRitmi ile mermi enjeksiyon döngünüz)
 
     // 2. ÇİFT RODİN DÖNGÜSÜ (A/B KANALLARI)
     if (beyazKutupObj && siyahKutupObj) {
@@ -690,21 +701,6 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
 // === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU ===
 //const milisaniyeZamani = performance.now();
 //const saniyeZamani = milisaniyeZamani * 0.001;
-
-// === ⚡ GERÇEK ZAMAN VE KOZMİK SİSTEM SAATİ MÜHÜRÜ ===
-const simdikiTarih = new Date();
-const saat = simdikiTarih.getHours();
-const dakika = simdikiTarih.getMinutes();
-const saniye = simdikiTarih.getSeconds();
-const milisaniye = simdikiTarih.getMilliseconds();
-
-// Sürekli akan, gerçeğe kilitli hassas zaman sinyali (Sistem Saati)
-const sistemSaniyeZamani = saniye + (milisaniye / 1000); 
-
-// Kalp atış hızı (Örn: Dakikada 74 atım - Biyolojik Kalp Ritmi)
-const biyolojikBPM = 74; 
-const kalpAteslemeSinyali = (sistemSaniyeZamani * (biyolojikBPM / 60));
-
 
 
 // 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
