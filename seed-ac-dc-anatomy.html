@@ -562,10 +562,6 @@ function animate() {
     if (beyazKutupObj && siyahKutupObj) {
         
         // === ⚡ AC FREKANS MODÜLASYONU VE TESLA RİTİM KİLİDİ ===
-        // 🔑 `aktifPaketler.length === 0` prangası tamamen kırıldı!
-        const zamanSinyali = performance.now() * 0.005;
-        // Odanın ateşleme motorunun içindeki ateslemeRitmi satırını bulun ve bununla değiştirin:
-const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
 
         // GÜVENLİK FİLTRESİ: Bellek taşmasını engellemek için havada en fazla 36 paket tutar
           if (ateslemeRitmi && aktifPaketler.length < 36) {
@@ -583,7 +579,7 @@ const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
                 // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
                 [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
                     const fazRölesi = p.t === "A" ? 0 : 4;
-                    const kanalRitmi = (Math.floor(zamanSinyali * 20) + fazRölesi) % 8 === 0;
+                    
 
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
