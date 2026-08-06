@@ -10,7 +10,6 @@ html, body {
     padding: 0;
     width: 100%;
     height: 100%;
-    position: absolute; top: 25px; left: 0px;
     background: #000000 !important; /* 🌟 İŞTE O SATIR! */
     overflow: hidden !important; 
 }
@@ -32,7 +31,7 @@ canvas {
     
     padding: 10px; border-radius: 0px;
     font-family: monospace; z-index: 999;
-    max-width: 320px;
+    max-width: 240px;
     
     /* Panelin arkasındaki 3D model parlamalarını hafifçe süzmesi için cam efekti */
     backdrop-filter: blur(2px); 
@@ -130,10 +129,7 @@ const KuantumKafesi = new THREE.Group();
 
 // 🔑 ANATOMİK AÇI MÜHÜRÜ: Küpü ve odaları 45 derece çevirerek 
 // Beyazı tam öne (göğse), Siyahı arkaya (omurgaya) kilitler ve Kırmızı-Yeşil profilini kurtarır!
-//KuantumKafesi.rotation.y = Math.PI / 4; 
-
-// 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
-KuantumKafesi.rotation.y = Math.PI / 2; 
+KuantumKafesi.rotation.y = Math.PI / 4; 
 
 scene.add(KuantumKafesi);
 
