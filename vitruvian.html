@@ -27,53 +27,82 @@ document.body.appendChild(renderer.domElement);
 
 const controls = new THREE.OrbitControls(camera, renderer.domElement);
 
-// 3D Model Grubu (Yontulmuş Geometrik İnsan)
+// ============================================================================
+// 🛠️ GELİŞMİŞ SİBERPUNK HEYKEL VE ÇAKRA ENJEKSİYONU
+// ============================================================================
 const person = new THREE.Group();
 
-// Neon Çizgi Malzemesi (Wireframe)
-const neonMat = new THREE.MeshBasicMaterial({ 
-    color: 0xff3300, 
-    wireframe: true, 
-    transparent: true, 
-    opacity: 0.7 
+// 1. Neon Çizgi Malzemesi (Ana İskelet Tel Kafesi)
+const neonMat = new THREE.MeshBasicMaterial({
+    color: 0xff3300,
+    wireframe: true,
+    transparent: true,
+    opacity: 0.5
 });
 
-// 🛠️ HEYKEL TRAŞLAMA MATRİSİ: Segment sayıları azaltılarak köşeli/keskin hatlar verildi
-// Kafa (Az segmentli küre - Kristalize kafa yapısı)
-const head = new THREE.Mesh(new THREE.SphereGeometry(0.18, 6, 6), neonMat);
+// 2. Çakra Enerji Merkezleri İçin Parlayan Malzeme (Kırmızı/Turuncu Kor)
+const cakraMat = new THREE.MeshBasicMaterial({
+    color: 0xffaa00,
+    wireframe: true,
+    transparent: true,
+    opacity: 0.9
+});
+
+// --- BAŞ VE BOYUN ---
+const head = new THREE.Mesh(new THREE.SphereGeometry(0.16, 6, 6), neonMat);
 head.position.y = 1.8;
 
-// Gövde (Üstü geniş, altı dar yontulmuş göğüs kafesi)
-const torso = new THREE.Mesh(new THREE.CylinderGeometry(0.28, 0.12, 0.6, 6, 3), neonMat);
-torso.position.y = 1.3;
+const neck = new THREE.Mesh(new THREE.CylinderGeometry(0.04, 0.05, 0.12, 5), neonMat);
+neck.position.y = 1.62;
 
-// Kollar (Da Vinci / Vitruvian Man gibi iki yana dümdüz açılan kollar)
-const armGeo = new THREE.CylinderGeometry(0.03, 0.02, 0.65, 4, 1);
+// --- GÖĞÜS KAFESİ VE OMURGA (Traşlanmış Kristalize Toraks) ---
+const thorax = new THREE.Mesh(new THREE.CylinderGeometry(0.26, 0.18, 0.45, 6, 2), neonMat);
+thorax.position.y = 1.35;
 
-const leftArm = new THREE.Mesh(armGeo, neonMat);
-leftArm.position.set(-0.5, 1.45, 0); 
-leftArm.rotation.z = Math.PI / 2; // 90 derece tam yana açıldı
+// Pelvis (Leğen Kemiği Altlığı)
+const pelvis = new THREE.Mesh(new THREE.CylinderGeometry(0.16, 0.22, 0.2, 6, 1), neonMat);
+pelvis.position.y = 0.95;
 
-const rightArm = new THREE.Mesh(armGeo, neonMat);
-rightArm.position.set(0.5, 1.45, 0); 
-rightArm.rotation.z = -Math.PI / 2; // 90 derece tam yana açıldı
+// --- EKLEMLER VE KOLLAR (Vitruvian Duruşu) ---
+const jointGeo = new THREE.SphereGeometry(0.04, 4, 4);
+const armGeo = new THREE.CylinderGeometry(0.03, 0.02, 0.55, 4);
 
-// Bacaklar (Vitruvian Man duruşuna uygun, iki yana hafifçe açılan asil bacaklar)
-const legGeo = new THREE.CylinderGeometry(0.04, 0.02, 0.8, 4, 2);
+// Sol Kol Kompleksi
+const leftShoulder = new THREE.Mesh(jointGeo, neonMat); leftShoulder.position.set(-0.28, 1.5, 0);
+const leftArm = new THREE.Mesh(armGeo, neonMat); leftArm.position.set(-0.58, 1.5, 0); leftArm.rotation.z = Math.PI / 2;
 
-const leftLeg = new THREE.Mesh(legGeo, neonMat);
-leftLeg.position.set(-0.25, 0.5, 0);
-leftLeg.rotation.z = Math.PI / 16; // Dışa doğru hafif açı
+// Sağ Kol Kompleksi
+const rightShoulder = new THREE.Mesh(jointGeo, neonMat); rightShoulder.position.set(0.28, 1.5, 0);
+const rightArm = new THREE.Mesh(armGeo, neonMat); rightArm.position.set(0.58, 1.5, 0); rightArm.rotation.z = -Math.PI / 2;
 
-const rightLeg = new THREE.Mesh(legGeo, neonMat);
-rightLeg.position.set(0.25, 0.5, 0);
-rightLeg.rotation.z = -Math.PI / 16; // Dışa doğru hafif açı
+// --- BACAKLAR ---
+const legGeo = new THREE.CylinderGeometry(0.04, 0.02, 0.75, 4);
 
-// Parçaları Heykel Grubuna Birleştir
-person.add(head, torso, leftArm, rightArm, leftLeg, rightLeg);
-person.position.y = -0.8; // Sahne merkezine oturtma
+const leftLeg = new THREE.Mesh(legGeo, neonMat); leftLeg.position.set(-0.2, 0.5, 0); leftLeg.rotation.z = Math.PI / 14;
+const rightLeg = new THREE.Mesh(legGeo, neonMat); rightLeg.position.set(0.2, 0.5, 0); rightLeg.rotation.z = -Math.PI / 14;
+
+// --- 🔱 ANATOMİK ÇAKRA SARKACI (Dikey Enerji Hattı) ---
+const cakraGeo = new THREE.SphereGeometry(0.035, 5, 5);
+
+// Boğaz Çakrası
+const cakraBogaz = new THREE.Mesh(cakraGeo, cakraMat); cakraBogaz.position.set(0, 1.58, 0.05);
+// Kalp Çakrası
+const cakraKalp = new THREE.Mesh(cakraGeo, cakraMat); cakraKalp.position.set(0, 1.35, 0.05);
+// Solar Plexus Çakrası
+const cakraSolar = new THREE.Mesh(cakraGeo, cakraMat); cakraSolar.position.set(0, 1.15, 0.05);
+// Sakral Çakra
+const cakraSakral = new THREE.Mesh(cakraGeo, cakraMat); cakraSakral.position.set(0, 0.95, 0.05);
+
+// Tüm Parçaları Heykel Grubuna Çivile
+person.add(
+    head, neck, thorax, pelvis, 
+    leftShoulder, leftArm, rightShoulder, rightArm, 
+    leftLeg, rightLeg,
+    cakraBogaz, cakraKalp, cakraSolar, cakraSakral
+);
+
+person.position.y = -0.8; // Sahne dengelemesi
 scene.add(person);
-
 // Animasyon Döngüsü
 function animate() {
     requestAnimationFrame(animate);
