@@ -21,20 +21,37 @@ canvas {
 
 /* 🔑 PARLAYAN ASTRO-ANATOMİ PANELİ CSS MÜHÜRÜ */
 #zodyak-saati {
-    position: absolute; top: 20px; left: 20px;
-    background: rgba(0, 0, 0, 0.75);
-    padding: 15px; border-radius: 10px;
-    border: 1px solid #111; font-family: monospace; z-index: 999;
+    position: absolute; top: 15px; left: 15px;
+    
+    /* ✂️ Kaba gri çerçeve çizgisi (border) tamamen yok edildi! */
+    border: none !important; 
+    
+    /* Arka plan tamamen şeffaflaştırıldı, sadece hafif bir eterik gölge bırakıldı */
+    background: rgba(0, 0, 0, 0.45) !important; 
+    
+    padding: 10px; border-radius: 0px;
+    font-family: monospace; z-index: 999;
+    max-width: 240px;
+    
+    /* Panelin arkasındaki 3D model parlamalarını hafifçe süzmesi için cam efekti */
+    backdrop-filter: blur(2px); 
 }
 .burç-satırı {
-    color: #444; font-size: 13px; margin: 4px 0;
-    transition: all 0.1s ease; text-transform: uppercase;
+    color: #666; font-size: 11px; margin: 1px 0;
+    text-transform: uppercase;
 }
-/* Tetiklenen burçların havai fişek neon renkleri */
-.burç-satırı.aktif-ates { color: #ff3300; font-weight: bold; text-shadow: 0 0 10px #ff3300; }
-.burç-satırı.aktif-toprak { color: #ffaa00; font-weight: bold; text-shadow: 0 0 10px #ffaa00; }
-.burç-satırı.aktif-hava { color: #00ffff; font-weight: bold; text-shadow: 0 0 10px #00ffff; }
-.burç-satırı.aktif-su { color: #ff0055; font-weight: bold; text-shadow: 0 0 10px #ff0055; }
+/* Neon renkler */
+.burç-satırı.aktif-ates { color: #ff4500; font-weight: bold; }
+.burç-satırı.aktif-toprak { color: #daa520; font-weight: bold; }
+.burç-satırı.aktif-hava { color: #00ced1; font-weight: bold; }
+.burç-satırı.aktif-su { color: #ff1493; font-weight: bold; }
+
+/* ✂️ BURÇ LİSTESİ SCROLL ENGELLEYİCİ */
+#burc-listesi {
+    margin-top: 5px; 
+    max-height: 220px;
+    overflow: hidden !important; /* 🔑 Scroll çubuğunu kalıcı olarak yok eder! */
+}
   </style>
 </head>
 <body>
