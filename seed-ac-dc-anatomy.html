@@ -535,24 +535,19 @@ const kareAralığı = 1000 / hedefFPS; // 40ms
 let sonKareZamanı = performance.now();
 
 function animate() {
-    requestAnimationFrame(animate);
+ requestAnimationFrame(animate);
 
-    // 🛠 25 FPS Zaman Kilidi (Önceki kare ile farkı hesapla)
+    // 🛠 25 FPS Zaman Kilidi (Hata düzeltildi)
     const şimdikiZaman = performance.now();
     const geçenSüre = şimdikiZaman - sonKareZamanı;
     if (geçenSüre < kareAralığı) return;
     sonKareZamanı = şimdikiZaman - (geçenSüre % kareAralığı);
 
-    // 🔑 KESİN ÇÖZÜM: Saat/Dakika (scope hatası için) ve Nabız için gerekli değişkenleri üste çekin
-    const simdikiTarih = new Date();
-    const saat = simdikiTarih.getHours();
-    const dakika = simdikiTarih.getMinutes();
-    const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
-
-    // Biyolojik Kalp Ritmi (74 BPM) Tesla Ateşleme
+    // 🔑 74 BPM RİTMİK MOTOR
+    const saniyeZamani = new Date().getSeconds() + (new Date().getMilliseconds() / 1000); 
     const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
-    const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
-
+    // let ile yeniden atama yapılarak kilitlenme önlendi
+    let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
 
     const beyazKutupObj = KuantumKafesi.getObjectByName("BEYAZ_KUTUP_ODASI");
     const siyahKutupObj = KuantumKafesi.getObjectByName("SIYAH_KUTUP_ODASI");
@@ -724,9 +719,6 @@ aktifPaketler.forEach(paket => {
 });
 
 
-// === ⏳ OTOMAN AY FAZI VE ÇAKRA DÖNGÜ MOTORU ===
-// Saniye zamanını kullanarak dizilerin indekslerini dinamik olarak hesaplıyoruz
-// === ⏳ SİSTEM SAATİNE KİLİTLİ AY FAZI VE ÇAKRA MOTORU ===
 // === ⏳ SİSTEM SAATİNE KİLİTLİ AY FAZI VE ÇAKRA MOTORU ===
 // Ay fazı her dakikada bir (gerçek zamanlı) evrilir
 const anlikFazIndeks = dakika % ayFazlariListesi.length;
@@ -793,4 +785,3 @@ animate();
 </body>
 </html>
 
-</html>
