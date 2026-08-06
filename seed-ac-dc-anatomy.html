@@ -77,7 +77,7 @@ canvas {
     <div style="color:#ffff44;">🟡 LEO (Pankreas): <span id="v-sari">0.3</span>v</div>
     <div style="color:#44ff44;">🟢 VIRGO (Bağırsak): <span id="v-yesil">0.3</span>v</div>
     <div style="color:#4444ff;">🔵 SCORPIO (Akciğer): <span id="v-mavi">0.3</span>v</div>
-    <div style="color:#cc33ff;">🟣 PISCES (Lenf): <span id="v-mor">0.3</span>v</div>
+    <div style="color:#cc33ff; font-size:11px; font-family:monospace; margin-top:3px;">💧 CSF ACCUMULATION: <span id="csf-sayaç" style="font-weight:bold; color:#00ff55;">0.0000</span> mg</div>
 </div>
     <!-- 🔑 SİBERPUNK KOZMİK ZODYAK TAKVİM SATIRLARI -->
     <div id="burc-listesi" style="margin-top: 10px; max-height: 250px; overflow-y: auto;">
@@ -905,6 +905,44 @@ odalarListesi.forEach(odaInfo => {
     }
 });
 
+
+
+// ============================================================================
+// 🧠 CEREBROSPINAL FLUID (CSF) DİNAMİK BİRİKİM VE ŞARJ MOTORU
+// ============================================================================
+// Fonksiyon dışında tanımlı değilse, sıvının anlık miligram hafızasını kuruyoruz
+if (typeof window.csfMiligramBirikimi === 'undefined') {
+    window.csfMiligramBirikimi = 0.0;
+}
+
+// 🔑 EZBERİ YIKAN FİZYOLOJİK TETİKLEYİCİ:
+// Mermiler ne zaman Mor Oda'ya (ID:5 - Pineal) vurup 963 Hz şimşeğini çaktırırsa,
+// Kalbin o anki sıkıştırma gücüyle (kalpDalga174 rezonansıyla) doğru orantılı olarak 
+// omurilik sıvısı beyne mikro-miligram düzeyinde birikerek damlar!
+if (marsFazı === 5) {
+    // Kalp atış gücüne bağlı dinamik hidrolik dolum (Ezber /28 tamamen imha edildi)
+    window.csfMiligramBirikimi += 0.0001 * (1.0 + Math.abs(kalpDalga174));
+}
+
+// 28 mg sınırına ulaşıldığında (Tıbbi kutsal yağ kotası) sıvı deşarj olur ve sıfırlanır
+if (window.csfMiligramBirikimi > 28.0) {
+    window.csfMiligramBirikimi = 0.0; // Transmutasyon tamamlandı, yeni 28 günlük döngü başlar
+}
+
+const csfSayacElement = document.getElementById("csf-sayaç");
+if (csfSayacElement) {
+    // Ekranda milisaniyede akan o muazzam akışkan damlamayı virgülden sonra 4 hane olarak gösterir
+    csfSayacElement.innerText = window.csfMiligramBirikimi.toFixed(4);
+    
+    // Sıvı birikimi dolunaya ve doymaya yaklaştıkça gösterge yeşilden neon mor aoraya evrilir
+    if (window.csfMiligramBirikimi > 20.0) {
+        csfSayacElement.style.color = "#9900ff";
+        csfSayacElement.style.textShadow = "0 0 10px #9900ff";
+    } else {
+        csfSayacElement.style.color = "#00ff55";
+        csfSayacElement.style.textShadow = "none";
+    }
+}
 
 // ============================================================================
 // 🌙 REAL-TIME KOZMİK AY FAZI MOTORU (PÜRÜZSÜZ CEREBROSPINAL AKÜMÜLATÖR)
