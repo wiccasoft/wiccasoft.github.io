@@ -582,7 +582,7 @@ function animate() {
                 // ⚡ SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU
                 [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
                     const fazRölesi = p.t === "A" ? 0 : 4;
-                    const kanalRitmi = (Math.floor(saniyeZamani * 20) + fazRölesi) % 8 === 0;
+                    const kanalRitmi = (Math.floor(sabitDelta * 20) + fazRölesi) % 8 === 0;
 
                     if (kanalRitmi) {
                         let odaMesh = KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
