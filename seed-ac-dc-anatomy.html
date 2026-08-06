@@ -75,24 +75,23 @@ const loader = new THREE.TextureLoader();
 const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
 
 const daVinciDokusu = loader.load(daVinciDataURI);
-
-const daVinciGeom = new THREE.PlaneGeometry(1.6, 1.6);
+const daVinciGeom = new THREE.PlaneGeometry(2.2, 2.2);
 const daVinciMat = new THREE.MeshBasicMaterial({
   map: daVinciDokusu,
   transparent: true,
-  opacity: 0.5, 
+  opacity: 0.65, 
   blending: THREE.AdditiveBlending,
   depthWrite: false,
   side: THREE.DoubleSide
 });
 
 const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
-daVinciMesh.position.set(0, 0, -0.35);
+// Kameraya dik duruş ve merkezleme
+daVinciMesh.rotation.set(-Math.PI / 4, Math.PI / 4, 0); 
+daVinciMesh.position.set(0, 0, 0); 
 
-// 🔄 AÇI MATRİSİ: Şablonu kameranın profil açısına dik gelecek şekilde Y ekseninde büküyoruz
-daVinciMesh.rotation.y = Math.PI / 4; // 45 derecelik çapraz omurga hizası
-
-KuantumKafesi.add(daVinciMesh);
+// 🔑 GRUP YERİNE SAHNEYE EKLEME: Döngüden bağımsız hale getirdik
+scene.add(daVinciMesh); 
 
 
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
@@ -664,13 +663,10 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
     if (marsFazı === 7) console.log("🪐 Mars Boğa/Değişken Aksta - Çıkış Sarmalı");
     
 
- // === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU ===
-    // 🔑 KOZMİK SİYAH AÇILIŞI: Beyaz Alpha katmanını anında yırtar, gluonları kapatmadan arkadaki derin karanlık matrisi açar!
-    if (renderer.autoClear === true || performance.now() < 2000) {
-        renderer.setClearColor(0x000000, 1);
-        renderer.clear(); // İlk karelerde beyaz buffer katmanını tamamen kazır ve simsiyah yapar
-        renderer.autoClear = false;
-    }
+// === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU KORUMASI ===
+if (typeof daVinciMesh !== 'undefined') {
+    daVinciMesh.material.opacity = 0.65; // Plazma izlerinin şablonu karartmasını engeller
+}
     
     // Her karede eski neon izlerini %5 sönümleyerek havada asılı kalan Yaşam Çiçeği tüplerini örer
     renderer.setClearColor(0x000000, 0.05);
