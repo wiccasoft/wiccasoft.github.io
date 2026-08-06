@@ -834,20 +834,26 @@ if (aktifCakraElement) {
 }
 
 
-// === ♈ 12'Lİ ZODYAK SATIR PARLAMA MOTORU ===
-const zodyakGecisHizi = 6; // Her astrolojik burç ekranda 6 saniye kalır
-//const aktifBurcIndeks = Math.floor(saniyeZamani / zodyakGecisHizi) % 12;
+// ============================================================================
+// ♈ 12'Lİ ZODYAK PANELİ - PISCES PINEAL GLAND KİLİTLENMESİ
+// ============================================================================
+let aktifBurcIndeks = (marsFazı - 1 + 12) % 12;
 
-// ============================================================================
-// ♈ 12'Lİ ZODYAK PANELİ - ENJEKTÖR METRONOMLU CANLI KİLİTLENME
-// ============================================================================
-// Eski saniyeli const aktifBurcIndeks satırı silindi! 
-// Panel artık doğrudan 3D odaların o anki gerçek kuantum fazını (marsFazı) okuyor!
-const aktifBurcIndeks = (marsFazı - 1 + 12) % 12; 
+// 🔑 TEPE ÇAKRA PISCES ENJEKSİYONU: 
+// Eğer marsFazı 5 ise (Mermiler Mor odaya/Pineal Beze vurduysa), 
+// Sol üst paneldeki doğrusal döngüyü kır ve direkt PISCES (İndeks: 11) satırını siberpunk neon yak!
+if (marsFazı === 5) {
+    aktifBurcIndeks = 11; // Direkt Pisces ♓ BALIK (Ateş/Sinir tepe noktası)
+} 
+// Eğer marsFazı 7 ise (Mavi Oda), burayı da solunum cidarında LIBRA / SCORPIO aksına kelepçeleyebilirsiniz:
+else if (marsFazı === 7) {
+    aktifBurcIndeks = 6;  // Direkt Libra ♎ TERAZI (Kalp/Nefes dengesi)
+}
+else if (marsFazı === 8) {
+    aktifBurcIndeks = 5;  // Direkt Virgo ♍ BASAK (Sağ Bağırsak asimilasyonu)
+}
 
 const elementRenkSiniflari = ["aktif-ates", "aktif-toprak", "aktif-hava", "aktif-su"];
-
-
 
 for (let z = 0; z < 12; z++) {
     const burcElementi = document.getElementById("zod-" + z);
