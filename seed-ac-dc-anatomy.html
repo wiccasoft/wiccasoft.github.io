@@ -727,15 +727,25 @@ aktifPaketler.forEach(paket => {
 // === ⏳ OTOMAN AY FAZI VE ÇAKRA DÖNGÜ MOTORU ===
 // Saniye zamanını kullanarak dizilerin indekslerini dinamik olarak hesaplıyoruz
 // === ⏳ SİSTEM SAATİNE KİLİTLİ AY FAZI VE ÇAKRA MOTORU ===
+// === ⏳ SİSTEM SAATİNE KİLİTLİ AY FAZI VE ÇAKRA MOTORU ===
 // Ay fazı her dakikada bir (gerçek zamanlı) evrilir
 const anlikFazIndeks = dakika % ayFazlariListesi.length;
 // Çakra her saat başında bir kademe atlar (Biyolojik saat ritmi)
 const anlikCakraIndeks = saat % cakraListesi.length;
 
+// 🔑 ÇÖZÜM: Eksik olan DOM eleman tanımları döngü içerisine enjekte edildi!
+const ayFaziElement = document.getElementById("ay-fazi");
+const aktifCakraElement = document.getElementById("aktif-cakra");
+
 if (ayFaziElement) {
     ayFaziElement.innerText = ayFazlariListesi[anlikFazIndeks];
-    if (anlikFazIndeks === 4) { ayFaziElement.style.color = "#00ffff"; ayFaziElement.style.textShadow = "0 0 12px #00ffff"; }
-    else { ayFaziElement.style.color = "#888"; ayFaziElement.style.textShadow = "none"; }
+    if (anlikFazIndeks === 4) { 
+        ayFaziElement.style.color = "#00ffff"; 
+        ayFaziElement.style.textShadow = "0 0 12px #00ffff"; 
+    } else { 
+        ayFaziElement.style.color = "#888"; 
+        ayFaziElement.style.textShadow = "none"; 
+    }
 }
 
 if (aktifCakraElement) {
@@ -744,7 +754,6 @@ if (aktifCakraElement) {
     aktifCakraElement.style.color = cakraRenkleri[anlikCakraIndeks];
     aktifCakraElement.style.textShadow = `0 0 10px ${cakraRenkleri[anlikCakraIndeks]}`;
 }
-
 // === ♈ GERÇEK SANİYEYE KİLİTLİ ZODYAK MOTORU ===
 // 60 saniyeyi 12 burca böldüğümüzde, her burç tam 5 gerçek saniyede bir parlar!
 const aktifBurcIndeks = Math.floor(saniyeZamani / 5) % 12; // saniye -> saniyeZamani
