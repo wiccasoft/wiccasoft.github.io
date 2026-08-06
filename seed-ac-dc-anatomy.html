@@ -68,37 +68,7 @@ const KuantumKafesi = new THREE.Group(); // Sonra grup açılır ve sahneye ekle
 scene.add(KuantumKafesi);
 
 
-
-let daVinciMat; // 🔑 KÜRESEL BELLEK MÜHÜRÜ:
-
-
-// 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
-// Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
-
 const loader = new THREE.TextureLoader();
-// Kürelerin arkasından patlayacak özel Neon Kırmızı Vitruvian Man Base64 kodu
-const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
-
-const daVinciDokusu = loader.load(daVinciDataURI);
-const daVinciGeom = new THREE.PlaneGeometry(2.2, 2.2);
-
- daVinciMat = new THREE.MeshBasicMaterial({
-  map: daVinciDokusu,
-  transparent: true,
-  opacity: 0.65, 
-  blending: THREE.AdditiveBlending,
-  depthWrite: false,
-  side: THREE.DoubleSide
-});
-
-const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
-
-daVinciMesh.rotation.set(-0.615, 0.785, 0); // 📐 Kamera açısına dik rotasyon
-daVinciMesh.rotation.set(-Math.PI / 4, Math.PI / 4, 0); 
-daVinciMesh.position.set(0, 0, 0); 
-
-// 🔑 GRUP YERİNE SAHNEYE EKLEME: Döngüden bağımsız hale getirdik
-scene.add(daVinciMesh); 
 
 
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
@@ -601,7 +571,7 @@ function animate() {
                                 let basakOda = KuantumKafesi.getObjectByName("SARI_ITICI_ODA");
                                 if (basakOda) {
                                     basakOda.material.emissiveIntensity = 6.0;
-                                    daVinciMesh.material.opacity = 0.35; // Solar Plexus patladığında Da Vinci gövdesi de parlar!
+                                    //daVinciMesh.material.opacity = 0.35; // Solar Plexus patladığında Da Vinci gövdesi de parlar!
                                 }
                             }
                             // 3. Hava Fazı -> Enerji akciğerler ve dolaşımda (Mavi ve Yeşil odaları sarmal çizer)
@@ -690,11 +660,6 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
     if (marsFazı === 7) console.log("🪐 Mars Boğa/Değişken Aksta - Çıkış Sarmalı");
     
 
-// === 🌀 NEON TRAIL (PLAZMA İZ BIRAKMA) MOTORU KORUMASI ===
-if (daVinciMat) {
-    daVinciMat.opacity = 0.65;          // 🔑 Her karede siyah boyanın üstünü yırtar
-    daVinciMat.needsUpdate = true;      // 🔑 GPU buffer'ını zorla yenileyerek statik görünmezliği bitirir!
-}
 
 // === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU ===
 const milisaniyeZamani = performance.now();
