@@ -69,28 +69,29 @@ scene.add(KuantumKafesi);
 // Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
 // 🔑 DEVAZASA ÖLÇEKLİ NEON KIRMIZI DA VINCI MÜHÜRÜ
 // 🔑 SENKRONE ORTOGRAFİK DA VINCI MÜHÜRÜ
+// 🔑 SENKRONE ORTOGRAFİK DA VINCI MÜHÜRÜ
 const loader = new THREE.TextureLoader();
-// (Base64 daVinciDataURI verisi buraya gelecek)
-
 // Kürelerin arkasından patlayacak özel Neon Kırmızı Vitruvian Man Base64 kodu
 const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
 
 const daVinciDokusu = loader.load(daVinciDataURI);
 
-// Kamera d=1.5 ölçeğine uygun boyutlandırma
 const daVinciGeom = new THREE.PlaneGeometry(1.6, 1.6);
 const daVinciMat = new THREE.MeshBasicMaterial({
   map: daVinciDokusu,
   transparent: true,
-  opacity: 0.5, // Arka plan etkisi için %50 şeffaflık
+  opacity: 0.5, 
   blending: THREE.AdditiveBlending,
   depthWrite: false,
   side: THREE.DoubleSide
 });
 
 const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
-// Odaların arkasına yerleştirme (Z-offset)
 daVinciMesh.position.set(0, 0, -0.35);
+
+// 🔄 AÇI MATRİSİ: Şablonu kameranın profil açısına dik gelecek şekilde Y ekseninde büküyoruz
+daVinciMesh.rotation.y = Math.PI / 4; // 45 derecelik çapraz omurga hizası
+
 KuantumKafesi.add(daVinciMesh);
 
 
