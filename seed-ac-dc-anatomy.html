@@ -557,7 +557,8 @@ function animate() {
         // === ⚡ AC FREKANS MODÜLASYONU VE TESLA RİTİM KİLİDİ ===
         // 🔑 `aktifPaketler.length === 0` prangası tamamen kırıldı!
         const zamanSinyali = performance.now() * 0.005;
-        const ateslemeRitmi = Math.floor(zamanSinyali * 20) % 8 === 0;
+        // Odanın ateşleme motorunun içindeki ateslemeRitmi satırını bulun ve bununla değiştirin:
+const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
 
         // GÜVENLİK FİLTRESİ: Bellek taşmasını engellemek için havada en fazla 36 paket tutar
           if (ateslemeRitmi && aktifPaketler.length < 36) {
