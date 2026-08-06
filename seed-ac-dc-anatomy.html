@@ -67,31 +67,32 @@ scene.add(KuantumKafesi);
 
 // 🔑 DA VINCI VITRUVIAN MAN ARKAPLAN TUVALİ MÜHÜRÜ
 // Sahnenin tam merkezine, \(\sqrt{2}\) aksının arkasına saydam, parlayan Da Vinci şablonu yerleştirilir
+// 🔑 DEVAZASA ÖLÇEKLİ NEON KIRMIZI DA VINCI MÜHÜRÜ
 const loader = new THREE.TextureLoader();
 
-// 🔓 CORS SHIELD CRACKER: Forces the browser to authorize the image download directly into the WebGL buffer
-loader.setCrossOrigin('anonymous');
-// İnternet bağlantısı olan herhangi bir şeffaf neon Vitruvian Man veya çizim URL'si kullanılabilir
-//const daVinciDokusu = loader.load('./Da_Vinci_Vitruvian_Man_traced.svg');
+// Kürelerin arkasından patlayacak özel Neon Kırmızı Vitruvian Man Base64 kodu
+const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+Cgk8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYzMzAwIiBzdHJva2Utd2lkdGg9IjAuNzUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiNmZjMzMDAiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPCEtLSBLb2xsYXIgdmUgQmFjYW5ha2xhciAtLTk+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjIwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjM1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjY1IiB5Mj0iOTAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9Ijc1IiB5Mj0iODUiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIwLjc1Ii8+Cjwvc3ZnPg==";
 
-
-// Dosya yolu yerine doğrudan Base64 data URI formatı basılır
-const daVinciDataURI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTEyIiBoZWlnaHQ0PSI1MTIiPgoJPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KCTxyZWN0IHg9IjE1IiB5PSIxNSIgd2lkdGg9IjcwIiBoZWlnaHQ9IjcwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8+Cgk8IS0tIEdvdmRlIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSI1MCIgeTI9IjcwIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iMzAiIHgyPSI3MCIgeTI9IjMwIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iMC43NSIvPgoJPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSI3MCIgeTI9IjQwIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8+Cgk8IS0tIEtvbGxhciB2ZSBCYWNhbmFrbGFyIC0tPgoJPGxpbmUgeDE9IjUwIiB5MT0iMTUiIHgyPSIyMCIgeTI9IjMwIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSIxNSIgeDI9IjgwIiB5Mj0iMzAiIHN0cm9rZT0iIzAwZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KCTxsaW5lIHgxPSI1MCIgeTE9IjcwIiB4Mj0iMzUiIHkyPSI5MCIgc3Ryb2tlPSIjMDBmZmZmIiBzdHJva2Utd2lkdGg9IjAuNSIvPgoJPGxpbmUgeDE9IjUwIiB5MT0iNzAiIHgyPSI2NSIgeTI9IjkwIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8+Cgk8bGluZSB4MT0iNTAiIHkxPSI3MCIgeDI9IjI1IiB5Mj0iODUiIHN0cm9rZT0iIzAwZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KCTxsaW5lIHgxPSI1MCIgeTE9IjcwIiB4Mj0iNzUiIHkyPSI4NSIgc3Ryb2tlPSIjMDBmZmZmIiBzdHJva2Utd2lkdGg9IjAuNSIvPgo8L3N2Zz4="
 const daVinciDokusu = loader.load(daVinciDataURI);
 
-const daVinciGeom = new THREE.PlaneGeometry(1.2, 1.2);
+// 📐 ÖLÇEK MÜHÜRÜ: Ekranınızdaki devasa kürelere meydan okumak için boyut 1.2'den 4.5'e çıkarıldı!
+const daVinciGeom = new THREE.PlaneGeometry(4.5, 4.5); 
 const daVinciMat = new THREE.MeshBasicMaterial({
-    map: daVinciDokusu,
-    transparent: true,
-    opacity: 0.15, // Arka planda loş ve asil durması için %15 saydamlık
-    blending: THREE.AdditiveBlending, // Plazma parlamalarıyla WebGL seviyesinde kaynaşır
-    depthWrite: false
+  map: daVinciDokusu,
+  transparent: true,
+  opacity: 0.8,                     // Siyah arka planda parlaması için opaklık %80'e çekildi
+  blending: THREE.AdditiveBlending, // Plazma etkisi
+  depthWrite: false,
+  side: THREE.DoubleSide            // Her açıdan görünüm garanti
 });
 
 const daVinciMesh = new THREE.Mesh(daVinciGeom, daVinciMat);
-daVinciMesh.position.set(0, 0, -0.1); // Odaların hafifçe arkasına hizalanır
-scene.add(daVinciMesh);
 
+// Z ekseninde -1.5 geriye çekerek kürelerin tamamen arkasındaki fona çiviliyoruz
+daVinciMesh.position.set(0, 0, -1.5); 
+
+// Sahne yerine doğrudan KuantumKafesi grubuna mühürleniyor
+KuantumKafesi.add(daVinciMesh);
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
 
 
