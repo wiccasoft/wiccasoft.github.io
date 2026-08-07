@@ -891,6 +891,96 @@ let vortexZamanDislisi = 0;
 
 
 
+// ============================================================================
+// PHASE 3: TRI-MODULE QUANTUM CORE & Z-AXIS CHARGE PIPELINE (Day 5 - Launch)
+// ============================================================================
+
+// Global Modül Voltaj Kapıları
+window.heartAcVoltage = 176.0;
+window.brainCpuVoltage = 963.0;
+window.solarPlexusDcVoltage = 639.0;
+let zAksFrekansGirdabi = 0;
+
+function guncelleTriModuleZSarj(zaman) {
+  const ALTIN_ORAN = 1.61803398875;
+  zAksFrekansGirdabi += 0.02;
+
+  // 1️⃣ BRAIN MODULE (Tepe Alıcı / Master CPU - 963 Hz)
+  // Tepede alıcı olması için, Beyaz Kutup Odası ve Mor Kabuk Odası'nın tam ortasına
+  // Z ekseninde parlayan yeni bir mikro "Nöral Alıcı Kafesi" (Neural Receiver Bridge) simüle ediyoruz.
+  let brainSinyalPiki = Math.sin(zAksFrekansGirdabi * (window.brainCpuVoltage / 100.0));
+
+  // 2️⃣ HEART MODULE (Merkez Jeneratör / AC Çapa - 176 Hz)
+  // Kalbin 176 Hz'lik AC dalgası, sistemin ana saat hızı (Clock Speed) olarak çalışır.
+  let heartAcDalga = Math.sin(zaman * window.heartAcVoltage);
+
+  // 3️⃣ SOLAR-PLEXUS MODULE (Taban Bataryası / Bethlehem - 639 Hz)
+  // Alttan organ girişlerini (Karaciğer, Bağırsak) toplayan kaba DC akım deposu.
+  let solarPlexusDCDalga = Math.cos(zAksFrekansGirdabi * (window.solarPlexusDcVoltage / 100.0));
+
+  // ============================================================================
+  // ⚡ Z-EKSENLİ ELEKTRİKSEL ŞARJ KİLİTLENMESİ (THE COZMIC SWITCH)
+  // ============================================================================
+  // Enerji düz hatta gitmez; Z ekseninde (+Z Ön Göbek / -Z Arka Sırt) 
+  // ikiye ters katlanarak manyetik şaftı şarj eder.
+  let zElektrikAksHatti = Math.sin(zAksFrekansGirdabi) * ALTIN_ORAN;
+
+  if (typeof scene !== 'undefined') {
+    // Sahnedeki odaları (küreleri) Z-Aksına göre elektriksel şarja zorla
+    scene.traverse(function (object) {
+      if (object.isMesh && object.material) {
+        let zPos = object.position.z;
+        let yPos = object.position.y;
+
+        // 🧠 TEPEDE ALICI KİLİDİ (Brain Module): Yüksek frekans yön verileri burada işlenir
+        if (yPos > 0.20 && Math.abs(zPos) < 0.3) {
+          // Tepe odaları ışık hızındaki veriyi almak için alıcı moduna geçer
+          object.material.emissiveIntensity = 1.5 + (Math.abs(brainSinyalPiki) * 4.5);
+          
+          // Sol üst paneldeki "PINEAL TRANSMISSION" gecikmesini canlıya bağla
+          const pinealGecikmeDisplay = document.getElementById("pineal-gecikme");
+          if (pinealGecikmeDisplay) {
+            let anlikGecikme = Math.floor(Math.max(0, brainSinyalPiki * 12));
+            pinealGecikmeDisplay.textContent = `${anlikGecikme} ms`;
+          }
+        }
+
+        // 🫀 MERKEZ KİLİDİ (Heart Module): Yeşil-Kırmızı kaba akışı Sarı-Mor aksına katlar
+        if (Math.abs(yPos) < 0.1) {
+          object.material.emissiveIntensity = 2.0 + (heartAcDalga * 3.5);
+        }
+
+        // 🟡 TABAN BATARYASI KİLİDİ (Solar-Plexus Module): Toprak deşarj filtresi
+        if (yPos < -0.20) {
+          // Gece/Gündüz fazına göre uykuda ters akış moduna geçer
+          if (window.uykuModuAktif) {
+            object.material.emissiveIntensity = 1.0 + (solarPlexusDCDalga * ALTIN_ORAN);
+          } else {
+            object.material.emissiveIntensity = 1.0 + (Math.max(0, solarPlexusDCDalga) * 2.0);
+          }
+        }
+      }
+    });
+  }
+
+  // ============================================================================
+  // 📈 CANLI PANEL DOĞRULAMA VERİLERİ (Görselindeki Siberpunk Değerler)
+  // ============================================================================
+  // Görselindeki "ARIES: 2.1v" ve "TAURUS: -0.4v" gibi anlık voltajları 
+  // Z-Elektrik şarj motoruna direkt bağlıyoruz aga:
+  const vKirmizi = document.getElementById("v-kirmizi");
+  const vTuruncu = document.getElementById("v-turuncu");
+  const vSari = document.getElementById("v-sari");
+  const vMavi = document.getElementById("v-mavi");
+
+  if (vKirmizi)   vKirmizi.textContent = (2.1 + (heartAcDalga * 0.4)).toFixed(1);
+  if (vTuruncu)  vTuruncu.textContent = (-0.4 + (solarPlexusDCDalga * 0.2)).toFixed(1);
+  if (vSari)     vSari.textContent = (-0.4 + (zElektrikAksHatti * 0.3)).toFixed(1);
+  if (vMavi)     vMavi.textContent = (-0.0 + (brainSinyalPiki * 0.1)).toFixed(1);
+}
+
+// Biyo-Takvim ve Z-Şarj motorunu sürekli çalışması için döngünün sonuna gömüyoruz aga:
+guncelleTriModuleZSarj(performance.now() * 0.001);
 
 // ============================================================================
 // MATERIAL MATRIX UI DRIVER & VOLTAGE LOCK (Day 3 - Launch Track)
@@ -1015,6 +1105,397 @@ odalarListesi.forEach(odaInfo => {
 });
 
 
+
+// ============================================================================
+// PHASE 3: THREE-LAYER FRACTAL METATRON MODULATION (Day 5 - Master Track)
+// ============================================================================
+
+function guncelleMetatronFraktalMotoru(zaman) {
+  const ALTIN_ORAN = 1.61803398875;
+  
+  // Kalbin açık kalan 174 Hz (AC) ana üretici devresi
+  const kalpBase = 174.0;
+  let kalpMetronomu = Math.sin(acDcZamanDislisi * (kalpBase / 100.0));
+  
+  // Ters kare kanununa göre yukarıda katlanan 963 Hz beyin sinyali
+  let beyinCpuSinyali = Math.sin(acDcZamanDislisi * 3.0) * (1.0 / (0.45 * 0.45));
+
+  // Sahnedeki tek KuantumKafesi'ni (Metatron'u) parçalamadan, 3 modülü aynı anda çalıştırıyoruz:
+  if (typeof KuantumKafesi !== 'undefined') {
+    
+    // 🫀 1. MEZO-KATMAN (Heart Module - Rotasyon): Kalp 174 Hz ile ana şaftı döndürür
+    KuantumKafesi.rotation.y += globalDönüşHızı * rodinHiziCarpani;
+
+    // ⚡ 2. MİKRO-KATMAN (Brain Module - Pulsasyon / Titreşim):
+    // Kalp yukarı bağlandığında, kafadaki açık uçların kısa devre yapmaması için
+    // Metatron'un en üst noktaları (Kafaya giden hatlar) 963 Hz ters kare katlanmasıyla titrer!
+    if (Math.abs(beyinCpuSinyali) > 3.0) {
+      // Tepe alıcısı ışık hızında bükülerek Z-Şarj akımını üzerine çeker
+      KuantumKafesi.scale.set(
+        1.3 + Math.sin(zaman * 9.63) * 0.05,
+        1.3 + Math.cos(zaman * 9.63) * 0.05,
+        1.3
+      );
+    }
+
+    // 🟡 3. MAKRO-KATMAN (Solar Plexus Module - Deşarj / Esneme):
+    // Uykuda veya dolunay anında, kaba DC akım bağırsak askısı üzerinden topraklanırken,
+    // Metatron'un alt köşeleri (Sacrum barajı) genişleyerek hidrolik sıvıyı (500 ml) içeri vakumlar.
+    if (window.solarPlexusVoltajPiki) {
+      KuantumKafesi.position.z = Math.sin(zaman * 6.39) * 0.02 * ALTIN_ORAN; // Z-Eksenli şarj esnemesi!
+    } else {
+      KuantumKafesi.position.z = 0;
+    }
+  }
+}
+
+// BU MODÜLÜ DE O SIFIRDAN İNŞA ETTİĞİMİZ `coreAcDcAnatomyEngine` İÇİNE, 
+// IŞIK GÜNCELLEMELERİNİN HEMEN ALTINA ENJEKTE ET AGA:
+// guncelleMetatronFraktalMotoru(performance.now() * 0.001);
+
+// ============================================================================
+// SOLAR PLEXUS DETAIL ISOLATION MATRIX (Day 6 - Launch Track)
+// ============================================================================
+
+window.plexusFocusMode = false; // Toggle with keyboard "P"
+
+function guncellePlexusDetayFiltresi() {
+  if (typeof scene === 'undefined') return;
+
+  scene.traverse(function (object) {
+    if (object.isMesh && object.material) {
+      let name = object.name || "";
+      
+      if (window.plexusFocusMode) {
+        // 🔍 ZOOM IN FOCUS: Dampen everything else so the background wiring is crystal clear
+        object.material.opacity = 0.15;
+        
+        // 🔥 Explode the illumination of the exact junction behind the heart
+        if (name.includes("SARI_ITICI_ODA") || name.includes("TURUNCU_EMICI_ODA")) {
+          object.material.opacity = 1.0;
+          object.material.emissiveIntensity = 8.0; // Deep Solar Plexus ignition
+        }
+        if (name.includes("YESIL_ENERJI_ODASI")) {
+          object.material.opacity = 0.9;
+          object.material.emissiveIntensity = 5.0; // Live mesenteric grounding line
+        }
+      } else {
+        // ☀️ Restore normal, unified Vitruvian balance when focus is off
+        if (!object.isPole) {
+          object.material.opacity = 0.45;
+        }
+      }
+    }
+  });
+}
+
+// 🎛️ KEYBOARD CONTROLLER FOR THE LAUNCH PRESENTATION
+window.addEventListener('keydown', function(e) {
+  if (e.key === 'p' || e.key === 'P') {
+    window.plexusFocusMode = !window.plexusFocusMode;
+    console.log("⚡ SOLAR PLEXUS DETAY ODAĞI:", window.plexusFocusMode ? "AKTİF" : "KAPALI");
+  }
+});
+
+
+// ============================================================================
+// DUAL-METATRON SYNCHRONIZATION ENGINE (Day 6 - Launch Track)
+// ============================================================================
+
+let brainMetatronGirdabi = 0;
+
+function guncelleDualMetatronSistemi(zaman, isSleeping) {
+  const ALTIN_ORAN = 1.61803398875;
+  brainMetatronGirdabi += 0.02;
+
+  // 🫀 HEART METATRON (Current KuantumKafesi - Horizontal Plane)
+  if (typeof KuantumKafesi !== 'undefined') {
+    if (!isSleeping) {
+      // Waking: Heart spins the chest matrix normally to drive organ voltage
+      KuantumKafesi.rotation.y = zaman * (176.0 / 1000.0);
+      KuantumKafesi.scale.set(1.3, 1.3, 1.3);
+    } else {
+      // Sleeping: Heart slows down, pulling its torus fields inward
+      KuantumKafesi.rotation.y *= 0.95; 
+      KuantumKafesi.scale.set(1.1, 1.1, 1.1);
+    }
+  }
+
+  // ============================================================================
+  // 🧠 BRAIN METATRON (The Hidden Vertical Grid - 963 Hz Master CPU)
+  // ============================================================================
+  // We use the exact same structural nodes, but we intercept their rendering
+  // phase to create a 90-degree tilted high-frequency projection in the Head Node
+  if (typeof scene !== 'undefined') {
+    scene.traverse(function (object) {
+      if (object.isMesh && object.material) {
+        let name = object.name || "";
+        
+        // Target the Tepe Alıcı Odaları (Brain Module: Mor Kabuk ve Beyaz Kutup)
+        if (name.includes("MOR_KABUK_ODASI") || name.includes("BEYAZ_KUTUP_ODASI")) {
+          
+          if (isSleeping) {
+            // 🌌 NIGHT OVERDRIVE: The Brain's internal Metatron takes over!
+            // It begins to pulse violently at the 963 Hz master processor scale,
+            // compressing the 500 ml CSF line into the 28 mg Sacrum core.
+            let cpuFrekansi = Math.sin(brainMetatronGirdabi * 9.63) * ALTIN_ORAN;
+            
+            // The nodes tilt 90 degrees to drive the vertical hydraulic pump
+            object.rotation.x = Math.PI / 2; 
+            object.material.emissiveIntensity = 8.5 + (Math.abs(cpuFrekansi) * 5.0);
+            
+            // Accelerate the Christ Oil accumulation reading on the UI panel
+            window.csfMiligramBirikimi += 0.001 * ALTIN_ORAN;
+          } else {
+            // ☀️ DAY STANDBY: Brain grid runs standard processing, waiting for the heart
+            object.rotation.x = 0;
+            object.material.emissiveIntensity = 1.5;
+          }
+        }
+      }
+    });
+  }
+
+  // 📊 SOL TELEMETRİ PANELİNE LUNAR VERİYİ BAS
+  const csfSayaç = document.getElementById("csf-sayaç");
+  if (csfSayaç && typeof window.csfMiligramBirikimi !== 'undefined') {
+    csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4) + " mg";
+  }
+}
+
+// GÖMMEN GEREKEN YER: Bu dual-sync motorunu `coreAcDcAnatomyEngine` fonksiyonunun
+// en alt satırına, DOM güncellemelerinin hemen yanına yerleştir aga:
+// guncelleDualMetatronSistemi(performance.now() * 0.001, window.uykuModuAktif);
+
+// ============================================================================
+// TRI-METATRON TRINITY SYNCHRONIZATION ENGINE (Day 6 - Launch Track)
+// ============================================================================
+
+let trinityGirdapSaati = 0;
+
+function guncelleTriMetatronSistemi(zaman, isSleeping) {
+  const ALTIN_ORAN = 1.61803398875;
+  trinityGirdapSaati += 0.02;
+
+  if (typeof scene !== 'undefined') {
+    scene.traverse(function (object) {
+      if (object.isMesh && object.material) {
+        let name = object.name || "";
+        let yPos = object.position.y;
+        let zPos = object.position.z;
+
+        // 🧠 1. MODÜL: BRAIN METATRON (Master CPU - 963 Hz - Tilted Sagittal)
+        if (name.includes("MOR_KABUK_ODASI") || name.includes("BEYAZ_KUTUP_ODASI")) {
+          if (isSleeping) {
+            let brainPuls = Math.sin(trinityGirdapSaati * 9.63) * ALTIN_ORAN;
+            object.rotation.x = Math.PI / 2; // 90 Degree vertical axis shift
+            object.material.emissiveIntensity = 8.5 + (Math.abs(brainPuls) * 4.0);
+          } else {
+            object.rotation.x = 0;
+            object.material.emissiveIntensity = 1.5;
+          }
+        }
+
+        // 🫀 2. MODÜL: HEART METATRON (AC Generator - 176 Hz - Horizontal Plane)
+        else if (Math.abs(yPos) < 0.15 && !object.name.includes("KUTUP")) {
+          // Heart drives the horizontal torus rotation across the chest grid
+          let heartWave = Math.sin(trinityGirdapSaati * 1.76);
+          object.rotation.y = zaman * (176.0 / 100.0);
+          object.material.emissiveIntensity = 2.5 + (heartWave * 3.5);
+        }
+
+        // 🟡 3. MODÜL: SOLAR PLEXUS / SACRUM METATRON (DC Battery - 639 Hz - Coronal Plane)
+        // This is your lower engine, completely genderless, processing raw grounding voltage!
+        else if (yPos < -0.15) {
+          let plexusWave = Math.cos(trinityGirdapSaati * 6.39);
+          
+          // Shifts 90 degrees onto the Coronal plane to map the mesentery ön askı line
+          object.rotation.z = Math.PI / 2; 
+          
+          if (isSleeping) {
+            // Charging phase: Pulling fluid down to the 28 mg Sacrum core
+            object.material.emissiveIntensity = 4.0 + (plexusWave * ALTIN_ORAN);
+            window.csfMiligramBirikimi += 0.0008 * ALTIN_ORAN;
+          } else {
+            // Discharging phase: Stabilizing the organ network at baseline voltage
+            object.material.emissiveIntensity = 1.0 + Math.max(0, plexusWave);
+          }
+        }
+      }
+    });
+  }
+
+  // 📊sol panel telemetrisini tıkır tıkır yazdır
+  const csfSayaç = document.getElementById("csf-sayaç");
+  if (csfSayaç) {
+    csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4) + " mg";
+  }
+}
+
+// WIRES DIRECTLY HERE: Replace your old dual-sync call inside `coreAcDcAnatomyEngine`
+// with this complete Tri-Metatron Trinity driver:
+// guncelleTriMetatronSistemi(performance.now() * 0.001, window.uykuModuAktif);
+
+// ============================================================================
+// HEMISPHERIC COUNTER-ROTATING FREQUENCY ENGINE (Day 7 - Launch Track)
+// ============================================================================
+
+let beyinHemisferGirdabi = 0;
+
+function guncelleBeyinHemisferDöngüleri(zaman, isSleeping) {
+  const ALTIN_ORAN = 1.61803398875;
+  beyinHemisferGirdabi += 0.02;
+
+  // Master CPU frequency scale (963 Hz)
+  const cpuBase = 963.0;
+  let masterCpuWave = Math.sin(beyinHemisferGirdabi * (cpuBase / 100.0));
+
+  if (typeof scene !== 'undefined') {
+    scene.traverse(function (object) {
+      if (object.isMesh && object.material) {
+        let name = object.name || "";
+        let xPos = object.position.x; // Left (-) vs Right (+) spatial tracking
+        let yPos = object.position.y; // Height tracking
+
+        // Target the Cranial/Brain Node regions at the very top of the shaft
+        if (yPos > 0.25) {
+          
+          // 🔵 SOL BEYİN DÖNGÜSÜ (Left Hemisphere - X < 0) -> Forward Phase Loop
+          if (xPos < -0.02) {
+            // Spinning clockwise on the horizontal plane
+            object.rotation.y = zaman * 2.5 * rodinHiziCarpani;
+            object.material.emissiveIntensity = 2.0 + (masterCpuWave * 3.0);
+          }
+          
+          // 🔴 SAĞ BEYİN DÖNGÜSÜ (Right Hemisphere - X > 0) -> Reverse Phase Loop
+          else if (xPos > 0.02) {
+            // Counter-rotating in the exact opposite direction to balance the torus!
+            object.rotation.y = -(zaman * 2.5 * rodinHiziCarpani);
+            // Phase-shifted by the Golden Ratio so they never hit a dead zone
+            let sagCpuWave = Math.cos(beyinHemisferGirdabi * (cpuBase / 100.0) * ALTIN_ORAN);
+            object.material.emissiveIntensity = 2.0 + (Math.abs(sagCpuWave) * 3.0);
+          }
+          
+          // 🟣 THE CENTRAL BRIDGE (Corpus Callosum / Center Line - X approx 0)
+          else {
+            // Standing wave stabilization node that merges the dual currents
+            object.material.emissiveIntensity = 4.0 + (Math.sin(zaman * 5.0) * 1.5);
+          }
+        }
+      }
+    });
+  }
+}
+
+// WIRES DIRECTLY HERE: Inject this hemispheric driver right into the bottom loop
+// of your master anatomy engine, running alongside your Tri-Metatron parameters:
+// guncelleBeyinHemisferDöngüleri(performance.now() * 0.001, window.uykuModuAktif);
+
+// 🪐 COZMIC TUNING & COEFFICIENT ENGINE (Day 7 - Unification Track)
+function guncelleKozmikAkortSeviyesi(zaman, saftTemizlikKatsayisi) {
+  const ALTIN_ORAN = 1.61803398875;
+  
+  // 🎛️ HERKES AYNI FREKANS KODUNUN İÇİNDE (Ana Çark Sabit)
+  const masterKodSaati = 174.0; 
+  
+  // ⚡ AMA HERKES AYNI FREKANSTA ÇALIŞMIYOR (Kişisel Akort Farkı!)
+  // saftTemizlikKatsayisi: 1.0 (Tam Karanlık/Saf İletken) ile 0.1 (Yapay Işık/Parazit) arası
+  window.anlikSistemVerimi = masterKodSaati * saftTemizlikKatsayisi;
+
+  if (window.uykuModuAktif) {
+    // Gece modunda ters kare katlanması, şaftın temizliğine göre tepeyi besler
+    // Eğer şaft temizse (1.0), 174 Hz tam altın oranla katlanıp 963 Hz işlemciyi ateşler!
+    window.kalpMetronomu = window.anlikSistemVerimi * ALTIN_ORAN;
+    window.csfMiligramBirikimi += 0.0004 * saftTemizlikKatsayisi * ALTIN_ORAN;
+  } else {
+    window.kalpMetronomu = window.anlikSistemVerimi;
+  }
+}
+
+// ============================================================================
+// STREAMLINED MASTER TRINITY INTERFACE (Day 10 - THE LAUNCH BLUEPRINT)
+// ============================================================================
+
+function coreAcDcAnatomyEngine(zaman) {
+  // Completely bypassed the 7 localized chakra calculations to maximize CPU speed.
+  // The system now computes strictly along the 3 master hardware junctions.
+  
+  vortexZamanDislisi += 0.02;
+  const ALTIN_ORAN = 1.61803398875;
+
+  if (window.uykuModuAktif) {
+    // 🌌 NIGHT REBOOT TRINITY: Turuncu (Plexus) -> Mavi (Nexus) -> Mor (Sexus)
+    window.epifizIsinimi   = 963.0 * ALTIN_ORAN; // Turuncu Phase Output
+    window.kalpMetronomu   = 174.0 * ALTIN_ORAN; // Mavi Fluid Modulation Phase
+    window.solarPlexusGucu = 639.0 / ALTIN_ORAN; // Mor Accumulator Phase
+
+    // Directly distill the 500ml daily CSF into the 28mg Sacrum core
+    window.csfMiligramBirikimi += 0.0012 * ALTIN_ORAN;
+
+    // 💡 Driving the 3 Core Light Injectors on the strict Trinity Axis
+    if (typeof scene !== 'undefined') {
+      if (typeof eterIsigi   !== 'undefined' && eterIsigi)   eterIsigi.intensity   = 12.0; // Top Node: Turuncu Glow
+      if (typeof suIsigi      !== 'undefined' && suIsigi)      suIsigi.intensity      = 10.0; // Center Node: Mavi Flow
+      if (typeof toprakIsigi  !== 'undefined' && toprakIsigi)  toprakIsigi.intensity  = 18.0; // Base Node: Mor Spark
+    }
+  } else {
+    // ☀️ DAYTIME EXECUTION MATRIX (Waking Polarity Loop)
+    window.kalpMetronomu   = 174.0;
+    window.solarPlexusGucu = 639.0;
+    window.epifizIsinimi   = 963.0;
+  }
+
+  // 28 mg loop cycle protection boundary
+  if (window.csfMiligramBirikimi >= 28.0) window.csfMiligramBirikimi = 0.0037;
+
+  // 📊 Direct, un-fragmented UI Telemetry Push
+  const csfSayaç = document.getElementById("csf-sayaç");
+  if (csfSayaç) csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4);
+}
+
+// ============================================================================
+// TURUNCU -> MAVİ -> MOR COZMIC INVERSION MOTORU (Day 9 - Final Track)
+// ============================================================================
+
+function guncelleTuruncuMaviMorAkisi(zaman) {
+  const ALTIN_ORAN = 1.61803398875;
+  
+  if (window.uykuModuAktif) {
+    // 🌌 GECE FAZI AKTİF: Akım Turuncu -> Mavi -> Mor aksında aşağı akıyor!
+    let akisMetronomu = Math.sin(acDcZamanDislisi * 1.74);
+    
+    // 1. PLEXUS (Tepe) -> TURUNCU: Yüksek frekans veri çıkışı
+    window.epifizIsinimi = 963.0 * ALTIN_ORAN;
+    if (typeof eterIsigi !== 'undefined' && eterIsigi) {
+      eterIsigi.color.setHex(0xffaa00); // Mor oda sönüyor, TURUNCU alıcı parlıyor!
+      eterIsigi.intensity = 12.0;
+    }
+
+    // 2. NEXUS (Merkez) -> MAVİ: Kalp rezonansı akımı sıvıya mühürlüyor
+    window.kalpMetronomu = 174.0 * ALTIN_ORAN;
+    if (typeof suIsigi !== 'undefined' && suIsigi) {
+      suIsigi.color.setHex(0x00ffff); // MAVİ hidrolik nehir tsunamisi
+      suIsigi.intensity = 8.0 + Math.sin(zaman * 5.0) * 3.0;
+    }
+
+    // 3. SEXUS (Taban) -> MOR: Sacrum barajı 28 mg kutsal yağı MOR vitesle şarj ediyor!
+    window.solarPlexusGucu = 639.0 / ALTIN_ORAN;
+    if (typeof toprakIsigi !== 'undefined' && toprakIsigi) {
+      toprakIsigi.color.setHex(0x9900ff); // Alt sarnıç MOR parlamaya başladı!
+      toprakIsigi.intensity = 15.0 * ALTIN_ORAN;
+    }
+
+    // Sol paneldeki yazıları zorla bu yeni element düzenine göre güncelle
+    const vKirmizi = document.getElementById("v-kirmizi");
+    const vTuruncu = document.getElementById("v-turuncu");
+    const vYesil = document.getElementById("v-yesil");
+
+    if (vTuruncu) vTuruncu.innerHTML = `🟠 PLEXUS (Tepe CPU): <span style="color:#ffaa00; font-weight:bold;">DATA TRANSMITTING</span>`;
+    if (vKirmizi) vKirmizi.innerHTML = `🔵 NEXUS (Merkez AC): <span style="color:#00ffff; font-weight:bold;">FLUID MODULATING</span>`;
+    if (vYesil)   vYesil.innerHTML   = `🟣 SEXUS (Taban Depo): <span style="color:#9900ff; font-weight:bold;">CHRIST OIL DISTILLING</span>`;
+
+  }
+}
 
 // ============================================================================
 // FLOWER OF LIFE AXIAL ROUTER (Day 5 - System Architecture)
