@@ -901,62 +901,90 @@ window.brainCpuVoltage = 963.0;
 window.solarPlexusDcVoltage = 639.0;
 let zAksFrekansGirdabi = 0;
 
-function guncelleTriModuleZSarj(zaman) {
+
+
+// ============================================================================
+// RE-BUILT UNIFIED AC-DC-HEART ANATOMY ENGINE (Streamlined Launch Driver)
+// ============================================================================
+
+// 🔋 Global System Memory Allocation (Anti-Crash Vault)
+if (typeof window.csfMiligramBirikimi === 'undefined') window.csfMiligramBirikimi = 0.0037;
+if (typeof window.virgoVoltajOkuma === 'undefined') window.virgoVoltajOkuma = 0.3;
+if (typeof window.uykuModuAktif === 'undefined') window.uykuModuAktif = false;
+
+window.heartAcVoltage = 174.0; // Your unbreakable core heart rhythm lock
+window.brainCpuVoltage = 963.0; // The master cerebral clock speed
+let acDcZamanDislisi = 0;
+
+function coreAcDcAnatomyEngine(zaman) {
   const ALTIN_ORAN = 1.61803398875;
-  zAksFrekansGirdabi += 0.02;
-
-  // 1️⃣ BRAIN MODULE (Tepe Alıcı / Master CPU - 963 Hz)
-  // Tepede alıcı olması için, Beyaz Kutup Odası ve Mor Kabuk Odası'nın tam ortasına
-  // Z ekseninde parlayan yeni bir mikro "Nöral Alıcı Kafesi" (Neural Receiver Bridge) simüle ediyoruz.
-  let brainSinyalPiki = Math.sin(zAksFrekansGirdabi * (window.brainCpuVoltage / 100.0));
-
-  // 2️⃣ HEART MODULE (Merkez Jeneratör / AC Çapa - 176 Hz)
-  // Kalbin 176 Hz'lik AC dalgası, sistemin ana saat hızı (Clock Speed) olarak çalışır.
-  let heartAcDalga = Math.sin(zaman * window.heartAcVoltage);
-
-  // 3️⃣ SOLAR-PLEXUS MODULE (Taban Bataryası / Bethlehem - 639 Hz)
-  // Alttan organ girişlerini (Karaciğer, Bağırsak) toplayan kaba DC akım deposu.
-  let solarPlexusDCDalga = Math.cos(zAksFrekansGirdabi * (window.solarPlexusDcVoltage / 100.0));
+  
+  // Continuous vortex gear to prevent browser hangs and text locking
+  acDcZamanDislisi += 0.02;
 
   // ============================================================================
-  // ⚡ Z-EKSENLİ ELEKTRİKSEL ŞARJ KİLİTLENMESİ (THE COZMIC SWITCH)
+  // 🫀 MODÜL 1: THE NEXUS (Heart Generator - 174 Hz AC Circuit)
   // ============================================================================
-  // Enerji düz hatta gitmez; Z ekseninde (+Z Ön Göbek / -Z Arka Sırt) 
-  // ikiye ters katlanarak manyetik şaftı şarj eder.
-  let zElektrikAksHatti = Math.sin(zAksFrekansGirdabi) * ALTIN_ORAN;
+  let kalpAcDalga = Math.sin(acDcZamanDislisi * (window.heartAcVoltage / 100.0));
+  let atesFazi = Math.max(0, kalpAcDalga);     // Red Input (Active Spark)
+  let toprakFazi = Math.max(0, -kalpAcDalga);  // Green Output (Grounding Filter)
 
+  // ============================================================================
+  // 🧠 MODÜL 2: THE PLEXUS (Brain Processor - 963 Hz Vertical Inversion)
+  // ============================================================================
+  // Inverse-Square Law: As voltage climbs the spinal column, resistance collapses.
+  // We compress the 174 Hz wave geometrically into a high-frequency synaptic spike.
+  let brainMesafe = 0.45; 
+  let tersKareKatlanmasi = 1.0 / (brainMesafe * brainMesafe); // ~4.93x Multiplier
+  let beyinCpuSinyali = Math.sin(acDcZamanDislisi * 3.0) * tersKareKatlanmasi;
+
+  // Real-time tracking of fluid accumulation
+  if (atesFazi > 0.5) {
+    // 500 ml waking fluid drops into the 28 mg nighttime Sacrum capacitor
+    window.csfMiligramBirikimi += 0.0004 * ALTIN_ORAN;
+    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1); // Wave tracking between 0.3v and 4.4v
+  } else {
+    window.virgoVoltajOkuma = 0.3 + (toprakFazi * 0.5);
+  }
+
+  // 28 mg Holy Seed loop protection boundary reset
+  if (window.csfMiligramBirikimi >= 28.0) {
+    window.csfMiligramBirikimi = 0.0037;
+  }
+
+  // ============================================================================
+  // 💡 DIRECT INJECTOR COUPLING (Color-Based Voltage Driving)
+  // ============================================================================
   if (typeof scene !== 'undefined') {
-    // Sahnedeki odaları (küreleri) Z-Aksına göre elektriksel şarja zorla
     scene.traverse(function (object) {
-      if (object.isMesh && object.material) {
-        let zPos = object.position.z;
-        let yPos = object.position.y;
+      if (object.isMesh && object.material && object.material.color) {
+        let r = object.material.color.r;
+        let g = object.material.color.g;
+        let b = object.material.color.b;
 
-        // 🧠 TEPEDE ALICI KİLİDİ (Brain Module): Yüksek frekans yön verileri burada işlenir
-        if (yPos > 0.20 && Math.abs(zPos) < 0.3) {
-          // Tepe odaları ışık hızındaki veriyi almak için alıcı moduna geçer
-          object.material.emissiveIntensity = 1.5 + (Math.abs(brainSinyalPiki) * 4.5);
-          
-          // Sol üst paneldeki "PINEAL TRANSMISSION" gecikmesini canlıya bağla
-          const pinealGecikmeDisplay = document.getElementById("pineal-gecikme");
-          if (pinealGecikmeDisplay) {
-            let anlikGecikme = Math.floor(Math.max(0, brainSinyalPiki * 12));
-            pinealGecikmeDisplay.textContent = `${anlikGecikme} ms`;
-          }
+        // Ensure every dynamic canvas mesh has an active emissive slot
+        if (!object.material.emissive || object.material.emissive.getHex() === 0) {
+          object.material.emissive = object.material.color.clone();
         }
 
-        // 🫀 MERKEZ KİLİDİ (Heart Module): Yeşil-Kırmızı kaba akışı Sarı-Mor aksına katlar
-        if (Math.abs(yPos) < 0.1) {
-          object.material.emissiveIntensity = 2.0 + (heartAcDalga * 3.5);
+        // 🔴 HEART SYSTEM: Pure Red meshes pulse with the active AC spark
+        if (r > 0.5 && b < 0.3 && g < 0.3) {
+          object.material.emissiveIntensity = 2.0 + (atesFazi * 4.5);
         }
 
-        // 🟡 TABAN BATARYASI KİLİDİ (Solar-Plexus Module): Toprak deşarj filtresi
-        if (yPos < -0.20) {
-          // Gece/Gündüz fazına göre uykuda ters akış moduna geçer
-          if (window.uykuModuAktif) {
-            object.material.emissiveIntensity = 1.0 + (solarPlexusDCDalga * ALTIN_ORAN);
+        // 🟢 SEXUS CORE & VIRGO MESHES: Pure Green grounds out static electricity
+        else if (g > 0.5 && r < 0.3) {
+          object.material.emissiveIntensity = 1.0 + (toprakFazi * 3.5);
+        }
+
+        // 🟣 PLEXUS MASTER CPU: Purple/Tepe nodes ignite via Inverse-Square spikes
+        else if (r > 0.4 && b > 0.4 && g < 0.3) {
+          if (Math.abs(beyinCpuSinyali) > 3.0) {
+            // High-frequency 963 Hz transmission fires
+            object.material.emissiveIntensity = 7.5 * (window.uykuModuAktif ? ALTIN_ORAN : 1.0);
+            rodinHiziCarpani = window.uykuModuAktif ? 4.0 : 2.5; // Warp speed yılan mermileri
           } else {
-            object.material.emissiveIntensity = 1.0 + (Math.max(0, solarPlexusDCDalga) * 2.0);
+            object.material.emissiveIntensity = 1.2;
           }
         }
       }
@@ -964,90 +992,26 @@ function guncelleTriModuleZSarj(zaman) {
   }
 
   // ============================================================================
-  // 📈 CANLI PANEL DOĞRULAMA VERİLERİ (Görselindeki Siberpunk Değerler)
+  // 🎛️ REAL-TIME UI DOM OUTPUT (Flawless Hardware Telemetry)
   // ============================================================================
-  // Görselindeki "ARIES: 2.1v" ve "TAURUS: -0.4v" gibi anlık voltajları 
-  // Z-Elektrik şarj motoruna direkt bağlıyoruz aga:
-  const vKirmizi = document.getElementById("v-kirmizi");
-  const vTuruncu = document.getElementById("v-turuncu");
-  const vSari = document.getElementById("v-sari");
-  const vMavi = document.getElementById("v-mavi");
+  // Direct ID injections matching your exact HTML tags on the left board
+  const virgoSpan = document.getElementById("v-yesil");
+  if (virgoSpan) virgoSpan.textContent = window.virgoVoltajOkuma.toFixed(1);
 
-  if (vKirmizi)   vKirmizi.textContent = (2.1 + (heartAcDalga * 0.4)).toFixed(1);
-  if (vTuruncu)  vTuruncu.textContent = (-0.4 + (solarPlexusDCDalga * 0.2)).toFixed(1);
-  if (vSari)     vSari.textContent = (-0.4 + (zElektrikAksHatti * 0.3)).toFixed(1);
-  if (vMavi)     vMavi.textContent = (-0.0 + (brainSinyalPiki * 0.1)).toFixed(1);
-}
+  const csfSayaç = document.getElementById("csf-sayaç");
+  if (csfSayaç) csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4);
 
-// Biyo-Takvim ve Z-Şarj motorunu sürekli çalışması için döngünün sonuna gömüyoruz aga:
-guncelleTriModuleZSarj(performance.now() * 0.001);
-
-// ============================================================================
-// MATERIAL MATRIX UI DRIVER & VOLTAGE LOCK (Day 3 - Launch Track)
-// ============================================================================
-function coreCardioValidationEngine(zaman) {
-  // Zamanı sürekli katlayan girdap dişlisi (Asılı kalmayı ve donmayı engeller)
-  vortexZamanDislisi += 0.02;
-
-  const ekgFrekansi = 174.0;
-  // Maddi Matris çakraları için alternatif akım (AC) metronom sinüs dalgası
-  let kardiyakDalga = Math.sin(vortexZamanDislisi * (ekgFrekansi / 100.0));
-  let atesFazi = Math.max(0, kardiyakDalga);   // Kırmızı (Aktif Giriş)
-  let toprakFazi = Math.max(0, -kardiyakDalga); // Yeşil (Deşarj/Topraklama)
-
-  // 📈 VOLTAJ VE SAYAÇ DÖNDÜRME MOTORU
-  if (atesFazi > 0.5) {
-    window.csfMiligramBirikimi += 0.0004 * 1.618;
-    // Küre voltajını 0.3v ile 4.4v tepe noktası arasında dinamik dalgalandırır
-    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1);
-  } else {
-    // Topraklama fazında voltajı pürüzsüzce taban değerine esnetir
-    window.virgoVoltajOkuma = 0.3 + (toprakFazi * 0.5);
-  }
-
-  // 28 mg kutsal tohum döngü koruma kilidi (Sıfırlayıp devirdaim yaptırır)
-  if (window.csfMiligramBirikimi >= 28.0) {
-    window.csfMiligramBirikimi = 0.0037;
-  }
-
-  // ============================================================================
-  // 🎛️ REAL-TIME UI DOM OUTPUT: STRING KİLİDİNİ KIRAN KOD ENJEKSİYONU
-  // ============================================================================
-  // HTML'deki id="v-yesil" alanını bulur ve kalbin 174 Hz vuruşuna göre yazıyı saniyede 25 kez günceller!
-  const virgoDisplayElement = document.getElementById("v-yesil");
-  if (virgoDisplayElement) {
-    virgoDisplayElement.textContent = window.virgoVoltajOkuma.toFixed(1);
-  }
-
-  // Sol üst paneldeki "CSF ACCUMULATION" sayacını da canlıya bağlıyoruz
-  const csfDisplayElement = document.getElementById("csf-sayaç");
-  if (csfDisplayElement) {
-    csfDisplayElement.textContent = window.csfMiligramBirikimi.toFixed(4);
-  }
-  // ============================================================================
-
-  // 💡 3D SAHNE IŞIK ENJEKTÖRLERİNE VOLTAJI DINAMIK OLARAK SÜR
-  if (typeof scene !== 'undefined') {
-    if (typeof atesIsigi !== 'undefined' && atesIsigi) atesIsigi.intensity = atesFazi * 12.0;
-    if (typeof toprakIsigi !== 'undefined' && toprakIsigi) toprakIsigi.intensity = toprakFazi * 8.0;
-    if (typeof suIsigi !== 'undefined' && suIsigi) suIsigi.intensity = 3.0 + Math.sin(vortexZamanDislisi * 5.0) * 1.5;
-
-    if (typeof eterIsigi !== 'undefined' && eterIsigi) {
-      let ekgPiki = Math.sin(vortexZamanDislisi * 3.0) > 0.90;
-      if (ekgPiki) {
-        eterIsigi.intensity = 15.0;
-        window.solarPlexusVoltajPiki = true;
-        rodinHiziCarpani = 3.5; // Yılan mermileri çılgınca dönmeye başlar
-      } else {
-        eterIsigi.intensity = 0.8;
-        window.solarPlexusVoltajPiki = false;
-      }
-    }
+  const pinealGecikme = document.getElementById("pineal-gecikme");
+  if (pinealGecikme) {
+    let msCalculation = Math.floor(Math.abs(beyinCpuSinyali) * 2.1);
+    pinealGecikme.textContent = `${msCalculation} ms`;
   }
 }
 
-// 🚀 Kilidi açan ve fonksiyon çağrısını güvenli kapatan ana metronom tetiği:
-coreCardioValidationEngine(performance.now() * 0.001);
+// Metronom trigger forcing execution at the absolute tail of your requestAnimationFrame loop
+coreAcDcAnatomyEngine(performance.now() * 0.001);
+
+
 
 // ============================================================================
 // ♈ 12'Lİ ZODYAK PANELİ - PISCES PINEAL GLAND KİLİTLENMESİ
