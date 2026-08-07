@@ -1642,6 +1642,38 @@ window.addEventListener('click', () => {
 });
 
 
+// ============================================================================
+// PHASE 4: GLOBAL MATRIX INPUT CONTROLLER (Launch Presentation Layer)
+// ============================================================================
+
+window.addEventListener('keydown', function(e) {
+  // 🔑 THE COZMIC SWITCH: Pressing "S" toggles Sleep/Night Mode instantly
+  if (e.key === 's' || e.key === 'S') {
+    window.uykuModuAktif = !window.uykuModuAktif;
+    
+    const ayFaziDisplay = document.getElementById("ay-fazi");
+    const cakraDisplay = document.getElementById("aktif-cakra");
+
+    if (window.uykuModuAktif) {
+      console.log("🌌 GECE FAZI DEVREDE: Su -> Ateş Ters Akış Şarjı");
+      if (ayFaziDisplay) {
+        ayFaziDisplay.innerHTML = `🌑 AY FAZI: <span style="color: #ffff00; text-shadow: 0 0 10px #ffff00; font-weight: bold;">DOLUNAY (Tepe Akımı)</span>`;
+      }
+      if (cakraDisplay) {
+        cakraDisplay.innerHTML = `👑 ÇAKRA: PLEXUS INVERSION (<span style="color:#9900ff;">963 Hz * 1.618</span>)`;
+      }
+    } else {
+      console.log("☀️ GÜNDÜZ FAZI DEVREDE: Ateş -> Su Olağan Akış");
+      if (ayFaziDisplay) {
+        ayFaziDisplay.innerHTML = `🌙 AY FAZI: YENİAY (Taban Deşarj)`;
+      }
+      if (cakraDisplay) {
+        cakraDisplay.innerHTML = `🫀 ÇAKRA: KÖK (174 Hz Base Waking)`;
+      }
+    }
+  }
+});
+
 
 animate();
 
