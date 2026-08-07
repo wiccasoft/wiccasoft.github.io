@@ -889,55 +889,65 @@ if (typeof window.csfMiligramBirikimi === 'undefined') window.csfMiligramBirikim
 
 let vortexZamanDislisi = 0;
 
+
+
+
+// ============================================================================
+// MATERIAL MATRIX UI DRIVER & VOLTAGE LOCK (Day 3 - Launch Track)
+// ============================================================================
 function coreCardioValidationEngine(zaman) {
-  // Continuous vortex gear to keep numbers moving pürüzsüzce
-  vortexZamanDislisi += 0.02; 
-  
+  // Zamanı sürekli katlayan girdap dişlisi (Asılı kalmayı ve donmayı engeller)
+  vortexZamanDislisi += 0.02;
+
   const ekgFrekansi = 174.0;
-  // Stable harmonic sine wave mapping the alternative current (AC)
+  // Maddi Matris çakraları için alternatif akım (AC) metronom sinüs dalgası
   let kardiyakDalga = Math.sin(vortexZamanDislisi * (ekgFrekansi / 100.0));
-  
-  let atesFazi = Math.max(0, kardiyakDalga);   // Red (Active Input)
-  let toprakFazi = Math.max(0, -kardiyakDalga); // Green (Earth/Discharge)
+  let atesFazi = Math.max(0, kardiyakDalga);   // Kırmızı (Aktif Giriş)
+  let toprakFazi = Math.max(0, -kardiyakDalga); // Yeşil (Deşarj/Topraklama)
 
   // 📈 VOLTAJ VE SAYAÇ DÖNDÜRME MOTORU
   if (atesFazi > 0.5) {
-    window.csfMiligramBirikimi += 0.0004 * 1.618; 
-    
-    // Updates the global variable dynamically between 0.3v and 4.4v
-    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1); 
+    window.csfMiligramBirikimi += 0.0004 * 1.618;
+    // Küre voltajını 0.3v ile 4.4v tepe noktası arasında dinamik dalgalandırır
+    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1);
   } else {
-    // Smoothly flex back down to baseline during grounding phase
+    // Topraklama fazında voltajı pürüzsüzce taban değerine esnetir
     window.virgoVoltajOkuma = 0.3 + (toprakFazi * 0.5);
   }
 
-  // 28 mg loop cycle protection reset
+  // 28 mg kutsal tohum döngü koruma kilidi (Sıfırlayıp devirdaim yaptırır)
   if (window.csfMiligramBirikimi >= 28.0) {
-    window.csfMiligramBirikimi = 0.0037; 
+    window.csfMiligramBirikimi = 0.0037;
   }
 
   // ============================================================================
-  // 🎛️ REAL-TIME UI DOM OUTPUT: BREAKING THE STRING LOCK
+  // 🎛️ REAL-TIME UI DOM OUTPUT: STRING KİLİDİNİ KIRAN KOD ENJEKSİYONU
   // ============================================================================
-  // This looks for your specific HTML element ID and pushes the calculated value instantly.
+  // HTML'deki id="v-yesil" alanını bulur ve kalbin 174 Hz vuruşuna göre yazıyı saniyede 25 kez günceller!
   const virgoDisplayElement = document.getElementById("v-yesil");
   if (virgoDisplayElement) {
     virgoDisplayElement.textContent = window.virgoVoltajOkuma.toFixed(1);
   }
+
+  // Sol üst paneldeki "CSF ACCUMULATION" sayacını da canlıya bağlıyoruz
+  const csfDisplayElement = document.getElementById("csf-sayaç");
+  if (csfDisplayElement) {
+    csfDisplayElement.textContent = window.csfMiligramBirikimi.toFixed(4);
+  }
   // ============================================================================
 
-  // 💡 3D LIGHT SOURCE VOLTAGE ENJECTION
+  // 💡 3D SAHNE IŞIK ENJEKTÖRLERİNE VOLTAJI DINAMIK OLARAK SÜR
   if (typeof scene !== 'undefined') {
     if (typeof atesIsigi !== 'undefined' && atesIsigi) atesIsigi.intensity = atesFazi * 12.0;
     if (typeof toprakIsigi !== 'undefined' && toprakIsigi) toprakIsigi.intensity = toprakFazi * 8.0;
     if (typeof suIsigi !== 'undefined' && suIsigi) suIsigi.intensity = 3.0 + Math.sin(vortexZamanDislisi * 5.0) * 1.5;
-    
+
     if (typeof eterIsigi !== 'undefined' && eterIsigi) {
       let ekgPiki = Math.sin(vortexZamanDislisi * 3.0) > 0.90;
       if (ekgPiki) {
         eterIsigi.intensity = 15.0;
         window.solarPlexusVoltajPiki = true;
-        rodinHiziCarpani = 3.5;
+        rodinHiziCarpani = 3.5; // Yılan mermileri çılgınca dönmeye başlar
       } else {
         eterIsigi.intensity = 0.8;
         window.solarPlexusVoltajPiki = false;
@@ -946,7 +956,8 @@ function coreCardioValidationEngine(zaman) {
   }
 }
 
-coreCardioValidationEngine(zaman) 
+// 🚀 Kilidi açan ve fonksiyon çağrısını güvenli kapatan ana metronom tetiği:
+coreCardioValidationEngine(performance.now() * 0.001);
 
 // ============================================================================
 // ♈ 12'Lİ ZODYAK PANELİ - PISCES PINEAL GLAND KİLİTLENMESİ
