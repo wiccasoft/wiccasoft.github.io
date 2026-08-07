@@ -1017,6 +1017,60 @@ odalarListesi.forEach(odaInfo => {
 
 
 // ============================================================================
+// FLOWER OF LIFE AXIAL ROUTER (Day 5 - System Architecture)
+// ============================================================================
+
+let yasamCicegiAcisi = 0;
+
+function coreYasamCicegiAksKoprusu(zaman) {
+  const ALTIN_ORAN = 1.61803398875;
+  const ekgFrekansi = 176.0; // Görselindeki net 176 Hz AC metronomu
+
+  // 1. TEPEDEKİ YAŞAM ÇİÇEĞİ DÖNÜŞ MOTORU (963 Hz Kozmik İşlemci)
+  // Yaşam çiçeği her karede pürüzsüzce dönerek kuantum faz açısı üretiyor
+  yasamCicegiAcisi += 0.03; 
+
+  // 🎯 2. AKSAL GEOMETRİK DAĞILIM (12 Burç Adreslemesini Sıfırlayan Çözüm)
+  // Aslan-Kova Aksı (Ateş-Hava): Sinüs bileşeni Mars'ı (Akciğer) ateşler
+  let aslanKovaAksi = Math.sin(yasamCicegiAcisi); 
+  
+  // Boğa-Akrep Aksı (Toprak-Su): Kosinüs bileşeni Venüs'ü (Karaciğer-Pankreas) topraıklar
+  let bogaAkrepAksi = Math.cos(yasamCicegiAcisi);
+
+  // ⚡ 3. KALPIN 176 Hz AC POMPASIYLA IŞIK HIZINDA AŞAĞI İNİŞ
+  let kalpAtisi = Math.sin(zaman * (ekgFrekansi / 100.0));
+  let aktifDecharj = Math.max(0, kalpAtisi);
+
+  if (aktifDecharj > 0.5) {
+    // 🔴 MARS (Akciğer/Ateş): Aslan-Kova aksından gelen yüksek frekanslı sinyal
+    // Görselindeki "ARIES (Üreme): 2.1v" tabanını bu aks canlandırıyor
+    window.ariesVoltaj = 2.1 + (Math.max(0, aslanKovaAksi) * 2.3);
+
+    // 🟢 VENÜS (Karaciğer-Pankreas/Toprak): Boğa-Akrep aksından gelen veri
+    // Görselindeki "VIRGO (toprak): 1.2v" değerini 4.4v tepe noktasına tırmandırır
+    window.virgoVoltajOkuma = 1.2 + (Math.abs(bogaAkrepAksi) * 3.2);
+
+    // 🔵 CSF AKIŞI (Su): Geometrik haç tam oturduğunda Sacrum barajına damıtma başlar
+    if (Math.abs(aslanKovaAksi * bogaAkrepAksi) > 0.4) {
+      window.csfMiligramBirikimi += 0.0004 * ALTIN_ORAN;
+    }
+  }
+
+  // ============================================================================
+  // 🎛️ REAL-TIME UI PANEL UPDATE (Görselindeki Canlı Kimlikler)
+  // ============================================================================
+  const vYesilElement = document.getElementById("v-yesil");
+  if (vYesilElement) {
+    vYesilElement.textContent = window.virgoVoltajOkuma.toFixed(1) + "v";
+  }
+
+  // Görselindeki CSF ACCUMULATION sayacını güncelle
+  const csfSayaç = document.getElementById("csf-sayaç");
+  if (csfSayaç) {
+    csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4) + " mg";
+  }
+}
+// ============================================================================
 // 🧠 CEREBROSPINAL FLUID (CSF) DİNAMİK BİRİKİM VE ŞARJ MOTORU
 // ============================================================================
 // Fonksiyon dışında tanımlı değilse, sıvının anlık miligram hafızasını kuruyoruz
