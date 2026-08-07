@@ -596,6 +596,8 @@ let aktifIndexA = 0;
 let aktifIndexB = 0;
 
 
+
+
 // ============================================================================
 // FPS LİMİTLEYİCİ VE ANİMASYON DÖNGÜSÜ (TAM VE SIZINTISIZ SÜRÜM)
 // ============================================================================
@@ -807,11 +809,11 @@ for (let i = aktifPaketler.length - 1; i >= 0; i--) {
     });
 
 
-        // 🔑 MARS ZODYAK PUSULASI: Mars'ın (Kırmızı Oda) anlık hangi enerji alanında olduğunu konsola veya ekrana basar
-    let marsFazı = rodinDizisiA[aktifIndexA];
-    if (marsFazı === 1) console.log("🪐 Mars Koç/Aslan Aksında - Yüksek Basınç Çekirdeği");
-    if (marsFazı === 4) console.log("🪐 Mars Terazi/Akrep Aksında - Solar Plexus Sapanı");
-    if (marsFazı === 7) console.log("🪐 Mars Boğa/Değişken Aksta - Çıkış Sarmalı");
+    // 🔑 MARS ZODYAK PUSULASI: Mars'ın (Kırmızı Oda) anlık hangi enerji alanında olduğunu konsola veya ekrana basar
+    //let marsFazı = rodinDizisiA[aktifIndexA];
+    //if (marsFazı === 1) console.log("🪐 Mars Koç/Aslan Aksında - Yüksek Basınç Çekirdeği");
+    //if (marsFazı === 4) console.log("🪐 Mars Terazi/Akrep Aksında - Solar Plexus Sapanı");
+    //if (marsFazı === 7) console.log("🪐 Mars Boğa/Değişken Aksta - Çıkış Sarmalı");
     
 
 
@@ -878,6 +880,40 @@ if (aktifCakraElement) {
     aktifCakraElement.style.textShadow = `0 0 12px ${cakraRenkleri[anlikCakraIndeks]}`;
 }
 
+
+// ============================================================================
+// REAL-TIME ELEMENTAL RADAR LOOP (Day 10)
+// ============================================================================
+const radarDisplay = document.getElementById("radar-durum");
+
+if (radarDisplay) {
+  if (marsFazı === 1 || marsFazı === 5) {
+    radarDisplay.innerHTML = `<span style="color:#00ffff; text-shadow: 0 0 10px #00ffff;">🌊 SU ELEMENTİ</span>`;
+  } else if (marsFazı === 2 || marsFazı === 4) {
+    radarDisplay.innerHTML = `<span style="color:#ffaa00; text-shadow: 0 0 10px #ffaa00;">🔥 ATEŞ ELEMENTİ</span>`;
+  } else if (marsFazı === 8) {
+    radarDisplay.innerHTML = `<span style="color:#00ff55; text-shadow: 0 0 10px #00ff55;">🪨 TOPRAK ELEMENTİ</span>`;
+  } else if (marsFazı === 7) {
+    radarDisplay.innerHTML = `<span style="color:#ff0055; text-shadow: 0 0 10px #ff0055;">🌬 HAVA ELEMENTİ</span>`;
+  }
+}
+
+// ============================================================================
+// ELEMENTAL FLOW RADAR (Day 10 - Clutter-Free UI)
+// ============================================================================
+const ayFaziDisplay = document.getElementById("ay-fazi");
+
+if (ayFaziDisplay) {
+  if (marsFazı === 1 || marsFazı === 5) {
+    ayFaziDisplay.innerHTML = `🌊 AKIŞ: <span style="color:#00ffff; font-weight:bold;">SU ELEMENTİ (CSF Süzülme)</span>`;
+  } else if (marsFazı === 2 || marsFazı === 4) {
+    ayFaziDisplay.innerHTML = `🔥 AKIŞ: <span style="color:#ffaa00; font-weight:bold;">ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
+  } else if (marsFazı === 8) {
+    ayFaziDisplay.innerHTML = `🪨 AKIŞ: <span style="color:#00ff55; font-weight:bold;">TOPRAK ELEMENTİ (Sexus Depolama)</span>`;
+  } else if (marsFazı === 7) {
+    ayFaziDisplay.innerHTML = `正面 AKIŞ: <span style="color:#ff0055; font-weight:bold;">HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
+  }
+}
 
 // ============================================================================
 // MATERIAL MATRIX UI DRIVER & VOLTAGE LOCK (Day 3 - Launch Track)
