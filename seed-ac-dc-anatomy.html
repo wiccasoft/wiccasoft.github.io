@@ -76,7 +76,7 @@ canvas {
     <div style="color:#ff4444;">🔴 ARIES (Üreme): <span id="v-kirmizi">0.3</span>v</div>
     <div style="color:#ff9933;">🟠 TAURUS (Karaciğer): <span id="v-turuncu">0.3</span>v</div>
     <div style="color:#ffff44;">🟡 LEO (Pankreas): <span id="v-sari">0.3</span>v</div>
-    <div style="color:#44ff44;">🟢 VIRGO (Bağırsak): <span id="v-yesil">0.3</span>v</div>
+    <div style="color:#44ff44;">🟢 VIRGO (toprak): <span id="v-yesil">0.3</span>v</div>
     <div style="color:#4444ff;">🔵 SCORPIO (Akciğer): <span id="v-mavi">0.3</span>v</div>
     <div style="color:#cc33ff; font-size:11px; font-family:monospace; margin-top:3px;">💧 CSF ACCUMULATION: <span id="csf-sayaç" style="font-weight:bold; color:#00ff55;">0.0000</span> mg</div>
 </div>
@@ -103,6 +103,8 @@ canvas {
   
 <script>
 
+// ⚡ Maddi Matris Topraklama Voltajı (Global Değişken)
+window.virgoVoltajOkuma = 0.3; 
 // ============================================================================
 // 🎵 SİBERPUNK TESLA SES MOTORU (ÇÖKMEYİ ENGELLEYEN ASENKRON KORUMALI)
 // ============================================================================
@@ -680,10 +682,6 @@ function animate() {
 // ============================================================================
 
 
-
-
-
-    
     // 🍼 1. SU KRALLIĞI: URINARY GİRİŞ KAPISI (Koç - Üreme / Faz: 1)
     // Oda: Kırmızı Enerji Odası -> 174 Hz AC Kök Nabız Kilidi
     if (marsFazı === 1) {
@@ -880,6 +878,75 @@ if (aktifCakraElement) {
     aktifCakraElement.style.textShadow = `0 0 12px ${cakraRenkleri[anlikCakraIndeks]}`;
 }
 
+
+// ============================================================================
+// MATERIAL MATRIX UI DRIVER & VOLTAGE LOCK (Day 3 - Launch Track)
+// ============================================================================
+
+// Make sure the variable is initialized globally
+if (typeof window.virgoVoltajOkuma === 'undefined') window.virgoVoltajOkuma = 0.3;
+if (typeof window.csfMiligramBirikimi === 'undefined') window.csfMiligramBirikimi = 0.0037;
+
+let vortexZamanDislisi = 0;
+
+function coreCardioValidationEngine(zaman) {
+  // Continuous vortex gear to keep numbers moving pürüzsüzce
+  vortexZamanDislisi += 0.02; 
+  
+  const ekgFrekansi = 174.0;
+  // Stable harmonic sine wave mapping the alternative current (AC)
+  let kardiyakDalga = Math.sin(vortexZamanDislisi * (ekgFrekansi / 100.0));
+  
+  let atesFazi = Math.max(0, kardiyakDalga);   // Red (Active Input)
+  let toprakFazi = Math.max(0, -kardiyakDalga); // Green (Earth/Discharge)
+
+  // 📈 VOLTAJ VE SAYAÇ DÖNDÜRME MOTORU
+  if (atesFazi > 0.5) {
+    window.csfMiligramBirikimi += 0.0004 * 1.618; 
+    
+    // Updates the global variable dynamically between 0.3v and 4.4v
+    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1); 
+  } else {
+    // Smoothly flex back down to baseline during grounding phase
+    window.virgoVoltajOkuma = 0.3 + (toprakFazi * 0.5);
+  }
+
+  // 28 mg loop cycle protection reset
+  if (window.csfMiligramBirikimi >= 28.0) {
+    window.csfMiligramBirikimi = 0.0037; 
+  }
+
+  // ============================================================================
+  // 🎛️ REAL-TIME UI DOM OUTPUT: BREAKING THE STRING LOCK
+  // ============================================================================
+  // This looks for your specific HTML element ID and pushes the calculated value instantly.
+  const virgoDisplayElement = document.getElementById("v-yesil");
+  if (virgoDisplayElement) {
+    virgoDisplayElement.textContent = window.virgoVoltajOkuma.toFixed(1);
+  }
+  // ============================================================================
+
+  // 💡 3D LIGHT SOURCE VOLTAGE ENJECTION
+  if (typeof scene !== 'undefined') {
+    if (typeof atesIsigi !== 'undefined' && atesIsigi) atesIsigi.intensity = atesFazi * 12.0;
+    if (typeof toprakIsigi !== 'undefined' && toprakIsigi) toprakIsigi.intensity = toprakFazi * 8.0;
+    if (typeof suIsigi !== 'undefined' && suIsigi) suIsigi.intensity = 3.0 + Math.sin(vortexZamanDislisi * 5.0) * 1.5;
+    
+    if (typeof eterIsigi !== 'undefined' && eterIsigi) {
+      let ekgPiki = Math.sin(vortexZamanDislisi * 3.0) > 0.90;
+      if (ekgPiki) {
+        eterIsigi.intensity = 15.0;
+        window.solarPlexusVoltajPiki = true;
+        rodinHiziCarpani = 3.5;
+      } else {
+        eterIsigi.intensity = 0.8;
+        window.solarPlexusVoltajPiki = false;
+      }
+    }
+  }
+}
+
+coreCardioValidationEngine(zaman) 
 
 // ============================================================================
 // ♈ 12'Lİ ZODYAK PANELİ - PISCES PINEAL GLAND KİLİTLENMESİ
