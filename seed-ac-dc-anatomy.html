@@ -1009,7 +1009,7 @@ function coreAcDcAnatomyEngine(zaman) {
 }
 
 // Metronom trigger forcing execution at the absolute tail of your requestAnimationFrame loop
-coreAcDcAnatomyEngine(performance.now() * 0.001);
+//coreAcDcAnatomyEngine(performance.now() * 0.001);
 
 
 
@@ -1615,6 +1615,8 @@ KuantumKafesi.children.forEach(child => {
         child.material.depthWrite = false;
     }
 });
+
+ coreAcDcAnatomyEngine(performance.now() * 0.001);
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
 renderer.setClearColor(0x000000, 0.05);
