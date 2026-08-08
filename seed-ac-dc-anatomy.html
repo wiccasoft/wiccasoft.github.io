@@ -1060,37 +1060,135 @@ if (window.antiBakteriModu && vYesilElement) {
   toprakIsigi.color.setHex(0x00ff55); // Restore beautiful regular Virgo green when down
 }
 
-
-
 // ============================================================================
-// STREAMLINED UI TELEMETRY DISPATCHER (English ID Migration Phase)
+// SALVATOR-MONA LISA SOLAR-LUNAR TRANSITION MATRIX (Day 10 - Launch Ready)
 // ============================================================================
-try {
-  // Direct, high-speed DOM binding node locks
-  const vKirmizi = document.getElementById("v-kirmizi");
-  const vTuruncu = document.getElementById("v-turuncu");
-  const vMavi    = document.getElementById("v-mavi");
-  const vYesil   = document.getElementById("v-yesil");
-  
-  // 🔑 CLEAN ENGLISH REGISTRATION: The special character trap is completely bypassed
-  const csfDisplay = document.getElementById("csf-accumulation");
 
-  // Push values instantly into the HTML tree if nodes exist
-  if (vKirmizi) vKirmizi.textContent = (2.1 + (atesFazi * 2.3)).toFixed(1);
-  if (vTuruncu) vTuruncu.textContent = (0.3 + (toprakFazi * 4.1)).toFixed(1);
-  
-  // Checking active vortex time indices
-  let activeTimeFrame = (typeof acDcZamanDislisi !== 'undefined') ? acDcZamanDislisi : zaman;
-  if (vMavi)    vMavi.textContent    = (1.5 + Math.sin(activeTimeFrame * 5.0) * 0.5).toFixed(1);
-  if (vYesil)   vYesil.textContent   = (typeof window.virgoVoltajOkuma !== 'undefined') ? window.virgoVoltajOkuma.toFixed(1) : "0.3";
+// Global opacity tracking registers for smooth cross-fading (Anti-Glitch Vault)
+let sunPlaneOpacity = 1.0;
+let moonPlaneOpacity = 0.0;
 
-  // Real-time tracking of the distilled 28 mg Christ Oil
-  if (csfDisplay && typeof window.csfMiligramBirikimi !== 'undefined') {
-    csfDisplay.textContent = window.csfMiligramBirikimi.toFixed(4);
+function coreAcDcAnatomyEngine(zaman) {
+  const ALTIN_ORAN = 1.61803398875;
+  acDcZamanDislisi += 0.02;
+
+  // 🫀 MASTER CLOCK GENERATION (174 Hz Base Waking AC Circuit)
+  let kalpAcDalga = Math.sin(acDcZamanDislisi * (window.heartAcVoltage / 100.0));
+  let atesFazi = Math.max(0, kalpAcDalga);     // Red Input (Active Waking Fire)
+  let toprakFazi = Math.max(0, -kalpAcDalga);  // Green Output (Grounding Earth Filter)
+
+  // Inverse-Square Law Sinyal Sıkıştırması (Brain CPU Overdrive Tracker)
+  let tersKareKatlanmasi = 1.0 / (0.45 * 0.45); 
+  let beyinCpuSinyali = Math.sin(acDcZamanDislisi * 3.0) * tersKareKatlanmasi;
+
+  // ============================================================================
+  // 🧲 SOLAR-LUNAR OPACITY INTERPOLATION (The Yin-Yang Cross-Fade Loop)
+  // ============================================================================
+  const fadeSpeed = 0.03; // Smooth transition pacing coefficient
+  
+  if (window.uykuModuAktif) {
+    // 🌌 NIGHT MODE ENGAGED (Moon Phase / Mona Lisa / Su -> Ateş)
+    if (sunPlaneOpacity > 0.0)  sunPlaneOpacity -= fadeSpeed;
+    if (moonPlaneOpacity < 1.0) moonPlaneOpacity += fadeSpeed;
+
+    // Invert master Solfej frequencies across the Golden Ratio matrix
+    window.epifizIsinimi   = 963.0 * ALTIN_ORAN; // Turuncu Output
+    window.kalpMetronomu   = 174.0 * ALTIN_ORAN; // Mavi Fluid Modulation
+    window.solarPlexusGucu = 639.0 / ALTIN_ORAN; // Mor Sexus Accumulator
+    
+    // Accumulate the distilled 28 mg Christ Oil in the lower base capacitor
+    window.csfMiligramBirikimi += 0.0012 * ALTIN_ORAN;
+  } else {
+    // ☀️ DAY MODE ENGAGED (Sun Phase / Salvator Mundi / Ateş -> Su)
+    if (sunPlaneOpacity < 1.0)  sunPlaneOpacity += fadeSpeed;
+    if (moonPlaneOpacity > 0.0) moonPlaneOpacity -= fadeSpeed;
+
+    window.kalpMetronomu   = 174.0;
+    window.solarPlexusGucu = 639.0;
+    window.epifizIsinimi   = 963.0;
+
+    if (atesFazi > 0.5) {
+      window.csfMiligramBirikimi += 0.0004 * ALTIN_ORAN;
+    }
   }
-} catch (hardwareCollision) {
-  // Safety Valve: Intercept failures smoothly, keeping the 174 Hz engine running
-  // console.warn("Telemetry stream isolated safely:", hardwareCollision.message);
+
+  // Clamping strict limits to ensure opacity parameters never overrun bounds
+  sunPlaneOpacity  = Math.max(0.0, Math.min(1.0, sunPlaneOpacity));
+  moonPlaneOpacity = Math.max(0.0, Math.min(1.0, moonPlaneOpacity));
+
+  // Directly applying the voltage blend to your background planes if named in the setup
+  if (typeof salvatorMesh !== 'undefined' && typeof monaLisaMesh !== 'undefined') {
+    salvatorMesh.material.opacity = sunPlaneOpacity;
+    monaLisaMesh.material.opacity = moonPlaneOpacity;
+  }
+
+  // ============================================================================
+  // 💡 DIRECT MESH VOLTAGE COUPLING (Color-Wavelength Matrix Inversion)
+  // ============================================================================
+  if (typeof scene !== 'undefined') {
+    scene.traverse(function (object) {
+      if (object.isMesh && object.material && object.material.color) {
+        let r = object.material.color.r;
+        let g = object.material.color.g;
+        let b = object.material.color.b;
+
+        if (!object.material.emissive || object.material.emissive.getHex() === 0) {
+          object.material.emissive = object.material.color.clone();
+        }
+
+        // 🔴 RED MESHES: Pulse with active cardiac sparks
+        if (r > 0.5 && b < 0.3 && g < 0.3) {
+          object.material.emissiveIntensity = 2.0 + (atesFazi * 4.5);
+        }
+        // 🟢 GREEN MESHES: Grounding lines
+        else if (g > 0.5 && r < 0.3) {
+          object.material.emissiveIntensity = 1.0 + (toprakFazi * 3.5);
+        }
+        // 🟣 PURPLE/TEPE NODES: Ignite via Inverse-Square spikes
+        else if (r > 0.4 && b > 0.4 && g < 0.3) {
+          if (Math.abs(beyinCpuSinyali) > 3.0) {
+            object.material.emissiveIntensity = 7.5 * (window.uykuModuAktif ? ALTIN_ORAN : 1.0);
+            rodinHiziCarpani = window.uykuModuAktif ? -1.8 : 1.0; // The magnetic reversal!
+          } else {
+            object.material.emissiveIntensity = 1.2;
+          }
+        }
+      }
+    });
+  }
+
+  // ============================================================================
+  // 🎛️ BULLETPROOF DOM DISPATCH VALVE (Anti-Crash Telemetry)
+  // ============================================================================
+  try {
+    const vKirmizi   = document.getElementById("v-kirmizi");
+    const vTuruncu   = document.getElementById("v-turuncu");
+    const vMavi      = document.getElementById("v-mavi");
+    const vYesil     = document.getElementById("v-yesil");
+    const csfDisplay = document.getElementById("csf-accumulation");
+    const radarDisplay = document.getElementById("radar-durum");
+
+    if (vKirmizi) vKirmizi.textContent = (2.1 + (atesFazi * 2.3)).toFixed(1);
+    if (vTuruncu) vTuruncu.textContent = (0.3 + (toprakFazi * 4.1)).toFixed(1);
+    if (vMavi)    vMavi.textContent    = (1.5 + Math.sin(acDcZamanDislisi * 5.0) * 0.5).toFixed(1);
+    if (vYesil)   vYesil.textContent   = window.virgoVoltajOkuma.toFixed(1);
+
+    if (csfDisplay) csfDisplay.textContent = window.csfMiligramBirikimi.toFixed(4);
+
+    // Dynamic Element Radar updates the text box based on the active Rodin metrics
+    if (radarDisplay && typeof aktifRodinDegeri !== 'undefined') {
+      if (window.uykuModuAktif) {
+        radarDisplay.innerHTML = `<span style="color:#9900ff; text-shadow:0 0 10px #9900ff; font-weight:bold; animation:pulse 1s infinite;">📶 INFINITE SUPPER: REVERSE FLUID SHARD</span>`;
+      } else {
+        if (aktifRodinDegeri === 1 || aktifRodinDegeri === 5)      radarDisplay.innerHTML = `<span style="color:#00ffff;">🌊 SU ELEMENTİ (CSF Süzülme)</span>`;
+        else if (aktifRodinDegeri === 2 || aktifRodinDegeri === 4) radarDisplay.innerHTML = `<span style="color:#ffaa00;">🔥 ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
+        else if (aktifRodinDegeri === 8)                           radarDisplay.innerHTML = `<span style="color:#00ff55;">🪨 TOPRAK ELEMENTİ (Sexus Depo)</span>`;
+        else if (aktifRodinDegeri === 7)                           radarDisplay.innerHTML = `<span style="color:#ff0055;">🌬 HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
+      }
+    }
+  } catch (domException) {}
+  
+  if (window.csfMiligramBirikimi >= 28.0) window.csfMiligramBirikimi = 0.0037;
 }
 
   // ============================================================================
@@ -1619,6 +1717,30 @@ function coreYasamCicegiAksKoprusu(zaman) {
     csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4) + " mg";
   }
 }
+
+
+// ============================================================================
+// WAKING FLUID DRAINAGE & DELAY CALCULATOR (Day 10 - Launch Track)
+// ============================================================================
+function hesaplaUyaniklikFrekansYukselisi(gecenUyaniklikSaati) {
+  const ALTIN_ORAN = 1.61803398875;
+  
+  // ⏱️ THE 5-HOUR HARDWARE TRANSITION LOOP
+  // As time moves toward the 5-hour mark, fluid impedance drops and frequency climbs
+  let siviDirenci = Math.max(0.0, 1.0 - (gecenUyaniklikSaati / 5.0)); 
+  
+  if (window.uykuModuAktif) {
+    // Gece Modu: Baseline fluid tracking
+    window.csfIletkenlikKatsayisi = 0.3;
+  } else {
+    // Gündüz Modu: As fluid drains over 5 hours, conductivity scales exponentially across the Golden Ratio!
+    window.csfIletkenlikKatsayisi = 1.618 * (1.0 + (1.0 - siviDirenci));
+    
+    // The Heart's 174 Hz AC voltage seamlessly penetrates the top CPU node
+    window.virgoVoltajOkuma = 0.3 + ((1.0 - siviDirenci) * 4.1); // Climbs beautifully to 4.4v!
+  }
+}
+
 // ============================================================================
 // 🧠 CEREBROSPINAL FLUID (CSF) DİNAMİK BİRİKİM VE ŞARJ MOTORU
 // ============================================================================
