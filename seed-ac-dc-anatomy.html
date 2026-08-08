@@ -1019,6 +1019,45 @@ function coreAcDcAnatomyEngine(zaman) {
     });
   }
 
+
+  // ============================================================================
+// HOCA'S BACTERIAL CIRCUIT & FREQUENCY CLEANSE MODULE (Launch Ready)
+// ============================================================================
+if (typeof window.bakteriModu === 'undefined') window.bakteriModu = false;
+if (typeof window.antiBakteriModu === 'undefined') window.antiBakteriModu = false;
+
+const vYesilElement = document.getElementById("v-yesil");
+
+// 🔬 1. REGULAR BACTERIAL SYNC MODE ("B" KEY)
+if (window.bakteriModu && vYesilElement) {
+  // Capture gut bacteria current and synchronize it via the active 432 Hz DC clock
+  let microbialVoltage = 0.3 + (Math.abs(Math.sin(acDcZamanDislisi * 6.39)) * 1.5);
+  let humanVoltage = window.virgoVoltajOkuma;
+  let syncPercentage = ((microbialVoltage / humanVoltage) * 100).toFixed(0);
+
+  vYesilElement.style.color = "#00ffff"; // Shifting Virgo to high-conductivity Cyan
+  vYesilElement.style.textShadow = "0 0 10px #00ffff";
+  vYesilElement.innerHTML = `🟢 BACTERIA SYNC: <strong>${microbialVoltage.toFixed(1)}v</strong> (SYNC: ${syncPercentage}%)`;
+}
+
+// 🛡️ 2. ANTI-BACTERIAL SHIELD MODE ("A" KEY)
+if (window.antiBakteriModu && vYesilElement) {
+  // Direct 180-degree destructive interference wave to neutralize deviations
+  window.virgoVoltajOkuma = 4.4; // Forced baseline lock
+  rodinHiziCarpani = 4.5; // Acceleration purge
+  
+  vYesilElement.style.color = "#ff0055"; // High energy sterilization Pink
+  vYesilElement.style.textShadow = "0 0 15px #ff0055";
+  vYesilElement.innerHTML = `🛡️ ANTI-BAKTERİ: <span style="font-weight:bold; animation:flash 0.2s infinite;">SHIELD OVERDRIVE (STERILE)</span>`;
+  
+  if (typeof scene !== 'undefined' && typeof toprakIsigi !== 'undefined' && toprakIsigi) {
+    toprakIsigi.color.setHex(0xff0055); // Flash the base light to match the shield execution
+    toprakIsigi.intensity = 20.0;
+  }
+} else if (!window.antiBakteriModu && typeof toprakIsigi !== 'undefined' && toprakIsigi) {
+  toprakIsigi.color.setHex(0x00ff55); // Restore beautiful regular Virgo green when down
+}
+
   // ============================================================================
   // 🎛️ REAL-TIME UI DOM OUTPUT (Flawless Hardware Telemetry)
   // ============================================================================
@@ -1694,6 +1733,29 @@ window.addEventListener('keydown', function(e) {
   }
 });
 
+
+// Expand your existing keydown controller to wire the sub-routines
+window.addEventListener('keydown', function(e) {
+  // Sleep / Inversion Mod (Existing S Key)
+  if (e.key === 's' || e.key === 'S') {
+    window.uykuModuAktif = !window.uykuModuAktif;
+    // ... (keep your existing S-key logic perfectly intact)
+  }
+  
+  // 🔑 BACTERIA MODE TOGGLE: Press "B"
+  if (e.key === 'b' || e.key === 'B') {
+    window.bakteriModu = !window.bakteriModu;
+    if (window.bakteriModu) window.antiBakteriModu = false; // Safety lock
+    console.log("🔬 MICROBIAL MATRIX:", window.bakteriModu ? "ACTIVE" : "STANDBY");
+  }
+
+  // 🔑 ANTI-BACTERIA SHIELD TOGGLE: Press "A"
+  if (e.key === 'a' || e.key === 'A') {
+    window.antiBakteriModu = !window.antiBakteriModu;
+    if (window.antiBakteriModu) window.bakteriModu = false; // Safety lock
+    console.log("🛡️ ANTI-BACTERIAL PURGE FIELD:", window.antiBakteriModu ? "ENGAGED" : "OFF");
+  }
+});
 
 animate();
 
