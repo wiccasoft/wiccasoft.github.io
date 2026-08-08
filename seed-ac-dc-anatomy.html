@@ -1262,10 +1262,13 @@ function coreAcDcAnatomyEngine(zaman) {
     const radarDisplay = document.getElementById("radar-durum");
 
     // ⚡ 4 Element Canlı Voltmetre Göstergelerini Push Et
-    if (vKirmizi) vKirmizi.textContent = (2.1 + (atesFazi * 2.3)).toFixed(1);
-    if (vTuruncu) vTuruncu.textContent = (0.3 + (toprakFazi * 4.1)).toFixed(1);
-    if (vMavi)    vMavi.textContent    = (1.5 + Math.sin(acDcZamanDislisi * 5.0) * 0.5).toFixed(1);
-    if (vYesil)   vYesil.textContent   = window.virgoVoltajOkuma.toFixed(1);
+ // Voltmetreleri ve CSF Birikimini Sabit Genişlikle Güncelle
+if (vKirmizi) vKirmizi.innerHTML = `🔴 ATEŞ AKIMI (Akciğer Giriş): <span style="font-weight:bold; color:#ff4444;">${(2.1 + (atesFazi * 2.3)).toFixed(1)}</span> v`;
+if (vTuruncu) vTuruncu.innerHTML = `🟠 HAVA KÖPRÜSÜ (Solar Plexus): <span style="font-weight:bold; color:#ff9933;">${(0.3 + (toprakFazi * 4.1)).toFixed(1)}</span> v`;
+if (vMavi)    vMavi.innerHTML    = `🔵 SU HİDROLİĞİ (Spinal CSF): <span style="font-weight:bold; color:#00ffff;">${(1.5 + Math.sin(acDcZamanDislisi * 5.0) * 0.5).toFixed(1)}</span> v`;
+if (vYesil)   vYesil.innerHTML   = `🟢 TOPRAK HATTI (Mesentery): <span style="font-weight:bold; color:#44ff44;">${window.virgoVoltajOkuma.toFixed(1)}</span> v`;
+
+if (csfDisplay) csfDisplay.innerHTML = `💧 KUTSAL EMİLİM: <span style="font-weight:bold; color:#00ff55;">${window.csfMiligramBirikimi.toFixed(4)}</span> mg`;
 
     if (csfDisplay) csfDisplay.textContent = window.csfMiligramBirikimi.toFixed(4);
 
