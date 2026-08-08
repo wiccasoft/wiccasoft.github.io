@@ -20,6 +20,11 @@ canvas {
     height: 100% !important;
 }
 
+
+#csf-accumulation {
+    min-width: 75px !important; /* CSF miligram alanı daha uzun olduğu için koruma anteni */
+}
+
 /* 🔑 PARLAYAN ASTRO-ANATOMİ PANELİ CSS MÜHÜRÜ */
 #zodyak-saati {
     position: absolute; top: 15px; left: 15px;
@@ -36,6 +41,15 @@ canvas {
     
     /* Panelin arkasındaki 3D model parlamalarını hafifçe süzmesi için cam efekti */
     backdrop-filter: blur(2px); 
+
+     white-space: nowrap !important; /* Satırın aşağı kaymasını engeller */
+}
+
+#zodyak-saati span {
+    display: inline-block;
+    min-width: 45px;          /* Voltaj sayıları için sabit bir kutu alanı açar */
+    text-align: right;        /* Sayıları hizalar, yazıyı titretmez */
+    font-variant-numeric: tabular-nums; /* Her rakamın genişliğini eşitler (Tesla Metodu) */
 }
 .burç-satırı {
     color: #666; font-size: 11px; margin: 1px 0;
