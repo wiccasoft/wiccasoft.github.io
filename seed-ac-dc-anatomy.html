@@ -71,15 +71,16 @@ canvas {
         <div style="color:#00ffff;">⚡ PINEAL TRANSMISSION: <span id="pineal-gecikme" style="font-weight:bold; color:#9900ff;">0 ms</span></div>
     </div>
 
-    <!-- 🫁 CANLI ORGAN ENERJİ FREKANSLARI (DİNAMİK VOLTMETRE) -->
-    <div style="font-family:monospace; line-height: 1.5; font-size:11px; border-bottom:1px solid #222; padding-bottom:8px;">
-        <div style="color:#ff4444;">🔴 ARIES (Üreme): <span id="v-kirmizi">0.3</span>v</div>
-        <div style="color:#ff9933;">🟠 TAURUS (Karaciğer): <span id="v-turuncu">0.3</span>v</div>
-        <div style="color:#ffff44;">🟡 LEO (Pankreas): <span id="v-sari">0.3</span>v</div>
-        <div style="color:#44ff44;">🟢 VIRGO (toprak): <span id="v-yesil">0.3</span>v</div>
-        <div style="color:#4444ff;">🔵 SCORPIO (Akciğer): <span id="v-mavi">0.3</span>v</div>
-        <div style="color:#cc33ff; font-size:11px; font-family:monospace; margin-top:3px;">💧 CSF ACCUMULATION: <span id="csf-sayaç" style="font-weight:bold; color:#00ff55;">0.0000</span> mg</div>
-    </div>
+<!-- 🫁 CANLI ELEMENTAL ORGAN VOLTMETRE PANELİ (Day 10) -->
+<div style="font-family:monospace; line-height: 1.6; font-size:11px;">
+    <div style="color:#ff4444;">🔴 ATEŞ AKIMI (Akciğer Giriş): <span id="v-kirmizi">0.3</span>v</div>
+    <div style="color:#ff9933;">🟠 HAVA KÖPRÜSÜ (Solar Plexus): <span id="v-turuncu">0.3</span>v</div>
+    <div style="color:#00ffff;">🔵 SU HİDROLİĞİ (Spinal CSF): <span id="v-mavi">0.3</span>v</div>
+    <div style="color:#44ff44;">🟢 TOPRAK HATTI (Mesentery): <span id="v-yesil">0.3</span>v</div>
+  <div style="color:#cc33ff; font-size:11px; font-family:monospace; margin-top:5px; border-top:1px solid #222; padding-top:4px;">
+    💧 KUTSAL EMİLİM: <span id="csf-accumulation" style="font-weight:bold; color:#00ff55;">0.0037</span> mg
+</div>
+</div>
 
     <!-- 📡 DİNAMİK ELEMENT RADARI (12 SATIRLIK BURÇ LİSTESİNİ SIFIRLAYAN YENİ GEZGİN) -->
     <div style="margin-top: 8px; font-family:monospace; font-size:11px; line-height:1.5;">
@@ -950,6 +951,7 @@ function coreAcDcAnatomyEngine(zaman) {
   // Continuous vortex gear to prevent browser hangs and text locking
   acDcZamanDislisi += 0.02;
 
+  
   // ============================================================================
   // 🫀 MODÜL 1: THE NEXUS (Heart Generator - 174 Hz AC Circuit)
   // ============================================================================
@@ -1056,6 +1058,39 @@ if (window.antiBakteriModu && vYesilElement) {
   }
 } else if (!window.antiBakteriModu && typeof toprakIsigi !== 'undefined' && toprakIsigi) {
   toprakIsigi.color.setHex(0x00ff55); // Restore beautiful regular Virgo green when down
+}
+
+
+
+// ============================================================================
+// STREAMLINED UI TELEMETRY DISPATCHER (English ID Migration Phase)
+// ============================================================================
+try {
+  // Direct, high-speed DOM binding node locks
+  const vKirmizi = document.getElementById("v-kirmizi");
+  const vTuruncu = document.getElementById("v-turuncu");
+  const vMavi    = document.getElementById("v-mavi");
+  const vYesil   = document.getElementById("v-yesil");
+  
+  // 🔑 CLEAN ENGLISH REGISTRATION: The special character trap is completely bypassed
+  const csfDisplay = document.getElementById("csf-accumulation");
+
+  // Push values instantly into the HTML tree if nodes exist
+  if (vKirmizi) vKirmizi.textContent = (2.1 + (atesFazi * 2.3)).toFixed(1);
+  if (vTuruncu) vTuruncu.textContent = (0.3 + (toprakFazi * 4.1)).toFixed(1);
+  
+  // Checking active vortex time indices
+  let activeTimeFrame = (typeof acDcZamanDislisi !== 'undefined') ? acDcZamanDislisi : zaman;
+  if (vMavi)    vMavi.textContent    = (1.5 + Math.sin(activeTimeFrame * 5.0) * 0.5).toFixed(1);
+  if (vYesil)   vYesil.textContent   = (typeof window.virgoVoltajOkuma !== 'undefined') ? window.virgoVoltajOkuma.toFixed(1) : "0.3";
+
+  // Real-time tracking of the distilled 28 mg Christ Oil
+  if (csfDisplay && typeof window.csfMiligramBirikimi !== 'undefined') {
+    csfDisplay.textContent = window.csfMiligramBirikimi.toFixed(4);
+  }
+} catch (hardwareCollision) {
+  // Safety Valve: Intercept failures smoothly, keeping the 174 Hz engine running
+  // console.warn("Telemetry stream isolated safely:", hardwareCollision.message);
 }
 
   // ============================================================================
