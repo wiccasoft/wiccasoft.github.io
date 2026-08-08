@@ -71,6 +71,18 @@ canvas {
 </head>
 <body>
 
+
+    <!-- 🌌 METATRONIC BOUNDARY SHIELD (ISKELET KAFESİ) -->
+<div style="position:absolute; bottom:15px; left:15px; font-family:monospace; font-size:10px; color:#555; border:1px solid #222; padding:6px; background:rgba(0,0,0,0.85);">
+    <div style="text-align:center; border-bottom:1px dashed #333; padding-bottom:3px; color:#aaa; font-weight:bold;">🩻 MATRIX BOUNDARY</div>
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:6px; margin-top:4px;">
+        <div id="node-taurus" style="color:#44ff44;">♉ TAURUS (EARTH)</div>
+        <div id="node-aquarius" style="color:#ffffff;">♒ AQUARIUS (AIR)</div>
+        <div id="node-leo" style="color:#ff4444;">♌ LEO (FIRE)</div>
+        <div id="node-scorpio" style="color:#9900ff;">♏ SCORPIO (WATER)</div>
+    </div>
+</div>
+
 <!-- 🔑 SIFIR SIZINTILI CANLI ASTRO-ANATOMİ MONITORÜ (TEK ÇATI ALTINDA BİRLEŞTİRİLDİ) -->
 <div id="zodyak-saati" style="font-family:monospace; font-size:11px; color:#fff; background:rgba(0,0,0,0.6); padding:10px; border-radius:5px; border:1px solid #333; max-width:250px;">
     
@@ -1304,6 +1316,21 @@ if (csfDisplay) csfDisplay.innerHTML = `💧 KUTSAL EMİLİM: <span style="font-
         let correctedVenusDegree = (venusDegree + 172) % 360; 
         let venusZodiacIdx = Math.floor(correctedVenusDegree / 30);
 
+
+
+            // 📦 FIXED CROSS: ANATOMİK İSKELET SINIR SİGORTALARI
+const bogaIskelet  = document.getElementById("node-taurus");
+const kovaIskelet  = document.getElementById("node-aquarius");
+const aslanIskelet = document.getElementById("node-leo");
+const akrepIskelet = document.getElementById("node-scorpio");
+
+// Kalp atışı ve akım dalgasına göre iskelet köşelerinin anlık parlaması
+if (aslanIskelet) aslanIskelet.style.textShadow = `0 0 ${10 + (atesFazi * 15)}px #ff4444`;
+if (kovaIskelet)  kovaIskelet.style.textShadow  = `0 0 ${10 + (atesFazi * 15)}px #ffffff`;
+
+if (bogaIskelet)  bogaIskelet.style.textShadow  = `0 0 ${10 + (toprakFazi * 15)}px #44ff44`;
+if (akrepIskelet) akrepIskelet.style.textShadow = `0 0 ${10 + (toprakFazi * 15)}px #9900ff`;
+
         // 🎛️ EKRANA SİBERPUNK COZMIC RADARI BAS
         radarDisplay.innerHTML = `
          <div style="margin-bottom: 5px; padding-bottom: 3px; border-bottom: 1px dashed #333; font-size:11px; color:#00ffff; text-shadow:0 0 5px #00ffff;">
@@ -1320,7 +1347,11 @@ if (csfDisplay) csfDisplay.innerHTML = `💧 KUTSAL EMİLİM: <span style="font-
   </div>
         `;
       }
+
+      
     }
+
+
   } catch (domException) {
     // Emniyet sübobı: Herhangi bir HTML yüklenme gecikmesinde kalbin 174 Hz motorunun durmasını engeller
   }
