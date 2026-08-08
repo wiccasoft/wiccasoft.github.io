@@ -138,6 +138,42 @@ KuantumKafesi.scale.set(1.3, 1.3, 1.3);
 scene.add(KuantumKafesi);
 
 
+
+
+// ============================================================================
+// REAL-TIME SOLAR SYSTEM ZODIAC ROUTER (Day 10 - Grand Launch)
+// ============================================================================
+function hesaplaGezegenZodyakPozisyonlari() {
+  const bugun = new Date();
+  // J2000.0 Astronomik Zaman Başlangıcı (Kozmik Koordinat Çapa Noktası)
+  const j2000Epoch = new Date(Date.UTC(2000, 0, 1, 12, 0, 0));
+  let gecenGun = (bugun.getTime() - j2000Epoch.getTime()) / (1000 * 60 * 60 * 24);
+
+  // 1️⃣ MARS AKSI (Akciğer / Ateş): 687 günlük yörünge çarkı
+  // Bugün (7 Ağustos 2026) Mars gökyüzünde gerçekte İKİZLER (Gemini) burcundadır!
+  let marsDerecesi = (gecenGun * (360 / 687.0)) % 360;
+  let marsZodyakIndeksi = Math.floor(marsDerecesi / 30); // 12 burçtan hangisi?
+
+  // 2️⃣ VENÜS AKSI (Pankreas / Toprak): 224.7 günlük yörünge çarkı
+  // Bugün Venüs gökyüzünde tam olarak BAŞAK (Virgo) burcundadır!
+  let venüsDerecesi = (gecenGun * (360 / 224.7)) % 360;
+  let venüsZodyakIndeksi = Math.floor(venüsDerecesi / 30);
+
+  // 🎛️ BU CANLI VERİLERİ SOL PANELDEKİ ELEMENTLERE IŞIK HIZIYLA BASIYORUZ:
+  const vKirmizi = document.getElementById("v-kirmizi"); // Mars/Ateş
+  const vYesil   = document.getElementById("v-yesil");   // Venüs/Toprak
+
+  const burclar = ["Aries ♈", "Taurus ♉", "Gemini ♊", "Cancer ♋", "Leo ♌", "Virgo ♍", 
+                   "Libra ♎", "Scorpio ♏", "Sagittarius ♐", "Capricorn ♑", "Aquarius ♒", "Pisces ♓"];
+
+  if (vKirmizi) {
+    vKirmizi.innerHTML = `🔴 MARS (Ateş / Akciğer): <span style="color:#ff4444; font-weight:bold;">${burclar[marsZodyakIndeksi]}</span> - Poz: ${marsDerecesi.toFixed(0)}°`;
+  }
+  if (vYesil) {
+    vYesil.innerHTML = `🟢 VENÜS (Toprak / Pankreas): <span style="color:#44ff44; font-weight:bold;">${burclar[venüsZodyakIndeksi]}</span> - Poz: ${venüsDerecesi.toFixed(0)}°`;
+  }
+}
+
 let currentAxis; // Sahnedeki aktif elektromanyetik eksen mili
 
 // 🌙 KOZMİK EVRE DİZİLERİ MÜHÜRÜ
@@ -951,7 +987,50 @@ function coreAcDcAnatomyEngine(zaman) {
   // Continuous vortex gear to prevent browser hangs and text locking
   acDcZamanDislisi += 0.02;
 
-  
+  // ============================================================================
+// REAL-TIME GEZEGENSEL REZONANS RADARI (Day 10 - Launch Specification)
+// ============================================================================
+const radarDisplay = document.getElementById("radar-durum");
+
+if (radarDisplay) {
+  if (window.uykuModuAktif) {
+    // 🌌 NIGHT REVERSE MODE: Lock the overlay to the infinite supper state
+    radarDisplay.innerHTML = `<span style="color:#9900ff; text-shadow:0 0 10px #9900ff; font-weight:bold; animation:pulse 1s infinite;">📶 INFINITE SUPPER: REVERSE PUMP</span>`;
+  } else {
+    // ☀️ DAYTIME HELIOCENTRIC CALCULATION ENGINE
+    const bugun = new Date();
+    const j2000Epoch = new Date(Date.UTC(2000, 0, 1, 12, 0, 0));
+    let gecenGun = (bugun.getTime() - j2000Epoch.getTime()) / (1000 * 60 * 60 * 24);
+
+    // Astronomical Constellation Array Registers
+    const burclar = ["Aries ♈", "Taurus ♉", "Gemini ♊", "Cancer ♋", "Leo ♌", "Virgo ♍", 
+                     "Libra ♎", "Scorpio ♏", "Sagittarius ♐", "Capricorn ♑", "Aquarius ♒", "Pisces ♓"];
+
+    // 🌞 1. SALVATOR MUNDI (SUN) POSITION: ~365.25 Day Orbit Wheel
+    let sunDegree = (gecenGun * (360.0 / 365.25636)) % 360;
+    // Offset correction to align the solar coordinate to the celestial grid
+    let correctedSunDegree = (sunDegree + 280) % 360; 
+    let sunZodiacIdx = Math.floor(correctedSunDegree / 30);
+
+    // 🔴 2. MARS POSITION (Akciğer / Ateş): ~687 Day Orbit Wheel
+    let marsDegree = (gecenGun * (360.0 / 686.98)) % 360;
+    let correctedMarsDegree = (marsDegree + 332) % 360; // Actual August 2026 Gemini tracking anchor
+    let marsZodiacIdx = Math.floor(correctedMarsDegree / 30);
+
+    // 🟢 3. VENÜS POSITION (Pankreas / Toprak): ~224.7 Day Orbit Wheel
+    let venusDegree = (gecenGun * (360.0 / 224.701)) % 360;
+    let correctedVenusDegree = (venusDegree + 172) % 360; // Actual August 2026 Virgo tracking anchor
+    let venusZodiacIdx = Math.floor(correctedVenusDegree / 30);
+
+    // 🎛️ FLASHING THE UNIFIED REAL-TIME TELEMETRY PACKET
+    // Your signature catchphrase is now structurally mühürlendi, aga!
+    radarDisplay.innerHTML = `
+      <div style="color:#ffff44; margin-top:4px; font-size:11px; text-shadow:0 0 5px #ffff00;">☀️ ${burclar[sunZodiacIdx].toUpperCase()}</div>
+      <div style="color:#ff4444; margin-top:2px; font-size:10px;">🔴 MARS (Ateş): ${burclar[marsZodiacIdx]}</div>
+      <div style="color:#44ff44; margin-top:2px; font-size:10px;">🟢 VENÜS (Toprak): ${burclar[venusZodiacIdx]}</div>
+    `;
+  }
+}
   // ============================================================================
   // 🫀 MODÜL 1: THE NEXUS (Heart Generator - 174 Hz AC Circuit)
   // ============================================================================
