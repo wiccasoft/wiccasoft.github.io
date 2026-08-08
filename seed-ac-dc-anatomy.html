@@ -1659,7 +1659,16 @@ renderer.clearColor();
 renderer.clearDepth(); 
 if (typeof controls !== 'undefined') controls.update();
 renderer.render(scene, camera);
-} // 🔑 animate fonksiyon kapanışı
+
+
+ // ============================================================================
+  // ⚡ ENERJİ ENJEKTÖRÜ: CORE ENGINE IS DRIVEN HERE EVERY FRAME
+  // ============================================================================
+  if (typeof coreAcDcAnatomyEngine === 'function') {
+    coreAcDcAnatomyEngine(performance.now());
+  }
+} // 🔑 This is the closing brace of function animate()
+
 
 // 🔑 GÜVENLİ RESIZE (Tekil ve dışarıda)
 window.addEventListener('resize', () => {
