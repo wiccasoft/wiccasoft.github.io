@@ -1007,348 +1007,61 @@ window.heartAcVoltage = 174.0; // Your unbreakable core heart rhythm lock
 window.brainCpuVoltage = 963.0; // The master cerebral clock speed
 let acDcZamanDislisi = 0;
 
+
 function coreAcDcAnatomyEngine(zaman) {
+  // --- SENKRONİZE AC/DC ANATOMY ENGINE v3.1 ---
   const ALTIN_ORAN = 1.61803398875;
-  
-  // Continuous vortex gear to prevent browser hangs and text locking
+  if (typeof acDcZamanDislisi === 'undefined') acDcZamanDislisi = 0;
   acDcZamanDislisi += 0.02;
 
-  // ============================================================================
-// REAL-TIME GEZEGENSEL REZONANS RADARI (Day 10 - Launch Specification)
-// ============================================================================
-const radarDisplay = document.getElementById("radar-durum");
+  // 🫀 Hesaplamalar (Heart/Spinal Frequencies)
+  let kalpAcDalga = Math.sin(acDcZamanDislisi * ((window.heartAcVoltage || 174.0) / 100.0));
+  let atesFazi = Math.max(0, kalpAcDalga);     
+  let toprakFazi = Math.max(0, -kalpAcDalga);  
 
-if (radarDisplay) {
-  if (window.uykuModuAktif) {
-    // 🌌 NIGHT REVERSE MODE: Lock the overlay to the infinite supper state
-    radarDisplay.innerHTML = `<span style="color:#9900ff; text-shadow:0 0 10px #9900ff; font-weight:bold; animation:pulse 1s infinite;">📶 INFINITE SUPPER: REVERSE PUMP</span>`;
-  } else {
-    // ☀️ DAYTIME HELIOCENTRIC CALCULATION ENGINE
-    const bugun = new Date();
-    const j2000Epoch = new Date(Date.UTC(2000, 0, 1, 12, 0, 0));
-    let gecenGun = (bugun.getTime() - j2000Epoch.getTime()) / (1000 * 60 * 60 * 24);
+  // CSF ve Virgos Voltaj Güncellemesi
+  if (typeof window.csfMiligramBirikimi === 'undefined') window.csfMiligramBirikimi = 0.0037;
+  if (typeof window.virgoVoltajOkuma === 'undefined') window.virgoVoltajOkuma = 0.3;
 
-    // Astronomical Constellation Array Registers
-    const burclar = ["Aries ♈", "Taurus ♉", "Gemini ♊", "Cancer ♋", "Leo ♌", "Virgo ♍", 
-                     "Libra ♎", "Scorpio ♏", "Sagittarius ♐", "Capricorn ♑", "Aquarius ♒", "Pisces ♓"];
-
-    // 🌞 1. SALVATOR MUNDI (SUN) POSITION: ~365.25 Day Orbit Wheel
-    let sunDegree = (gecenGun * (360.0 / 365.25636)) % 360;
-    // Offset correction to align the solar coordinate to the celestial grid
-    let correctedSunDegree = (sunDegree + 280) % 360; 
-    let sunZodiacIdx = Math.floor(correctedSunDegree / 30);
-
-    // 🔴 2. MARS POSITION (Akciğer / Ateş): ~687 Day Orbit Wheel
-    let marsDegree = (gecenGun * (360.0 / 686.98)) % 360;
-    let correctedMarsDegree = (marsDegree + 332) % 360; // Actual August 2026 Gemini tracking anchor
-    let marsZodiacIdx = Math.floor(correctedMarsDegree / 30);
-
-    // 🟢 3. VENÜS POSITION (Pankreas / Toprak): ~224.7 Day Orbit Wheel
-    let venusDegree = (gecenGun * (360.0 / 224.701)) % 360;
-    let correctedVenusDegree = (venusDegree + 172) % 360; // Actual August 2026 Virgo tracking anchor
-    let venusZodiacIdx = Math.floor(correctedVenusDegree / 30);
-
-    // 🎛️ FLASHING THE UNIFIED REAL-TIME TELEMETRY PACKET
-    // Your signature catchphrase is now structurally mühürlendi, aga!
-    radarDisplay.innerHTML = `
-      <div style="color:#ffff44; margin-top:4px; font-size:11px; text-shadow:0 0 5px #ffff00;">☀️ ${burclar[sunZodiacIdx].toUpperCase()}</div>
-      <div style="color:#ff4444; margin-top:2px; font-size:10px;">🔴 MARS (Ateş): ${burclar[marsZodiacIdx]}</div>
-      <div style="color:#44ff44; margin-top:2px; font-size:10px;">🟢 VENÜS (Toprak): ${burclar[venusZodiacIdx]}</div>
-    `;
-  }
-}
-  // ============================================================================
-  // 🫀 MODÜL 1: THE NEXUS (Heart Generator - 174 Hz AC Circuit)
-  // ============================================================================
-  let kalpAcDalga = Math.sin(acDcZamanDislisi * (window.heartAcVoltage / 100.0));
-  let atesFazi = Math.max(0, kalpAcDalga);     // Red Input (Active Spark)
-  let toprakFazi = Math.max(0, -kalpAcDalga);  // Green Output (Grounding Filter)
-
-  // ============================================================================
-  // 🧠 MODÜL 2: THE PLEXUS (Brain Processor - 963 Hz Vertical Inversion)
-  // ============================================================================
-  // Inverse-Square Law: As voltage climbs the spinal column, resistance collapses.
-  // We compress the 174 Hz wave geometrically into a high-frequency synaptic spike.
-  let brainMesafe = 0.45; 
-  let tersKareKatlanmasi = 1.0 / (brainMesafe * brainMesafe); // ~4.93x Multiplier
-  let beyinCpuSinyali = Math.sin(acDcZamanDislisi * 3.0) * tersKareKatlanmasi;
-
-  // Real-time tracking of fluid accumulation
   if (atesFazi > 0.5) {
-    // 500 ml waking fluid drops into the 28 mg nighttime Sacrum capacitor
     window.csfMiligramBirikimi += 0.0004 * ALTIN_ORAN;
-    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1); // Wave tracking between 0.3v and 4.4v
+    window.virgoVoltajOkuma = 0.3 + (atesFazi * 4.1); 
   } else {
     window.virgoVoltajOkuma = 0.3 + (toprakFazi * 0.5);
   }
-
-  // 28 mg Holy Seed loop protection boundary reset
-  if (window.csfMiligramBirikimi >= 28.0) {
-    window.csfMiligramBirikimi = 0.0037;
-  }
-
-  // ============================================================================
-  // 💡 DIRECT INJECTOR COUPLING (Color-Based Voltage Driving)
-  // ============================================================================
-  if (typeof scene !== 'undefined') {
-    scene.traverse(function (object) {
-      if (object.isMesh && object.material && object.material.color) {
-        let r = object.material.color.r;
-        let g = object.material.color.g;
-        let b = object.material.color.b;
-
-        // Ensure every dynamic canvas mesh has an active emissive slot
-        if (!object.material.emissive || object.material.emissive.getHex() === 0) {
-          object.material.emissive = object.material.color.clone();
-        }
-
-        // 🔴 HEART SYSTEM: Pure Red meshes pulse with the active AC spark
-        if (r > 0.5 && b < 0.3 && g < 0.3) {
-          object.material.emissiveIntensity = 2.0 + (atesFazi * 4.5);
-        }
-
-        // 🟢 SEXUS CORE & VIRGO MESHES: Pure Green grounds out static electricity
-        else if (g > 0.5 && r < 0.3) {
-          object.material.emissiveIntensity = 1.0 + (toprakFazi * 3.5);
-        }
-
-        // 🟣 PLEXUS MASTER CPU: Purple/Tepe nodes ignite via Inverse-Square spikes
-        else if (r > 0.4 && b > 0.4 && g < 0.3) {
-          if (Math.abs(beyinCpuSinyali) > 3.0) {
-            // High-frequency 963 Hz transmission fires
-            object.material.emissiveIntensity = 7.5 * (window.uykuModuAktif ? ALTIN_ORAN : 1.0);
-            rodinHiziCarpani = window.uykuModuAktif ? 4.0 : 2.5; // Warp speed yılan mermileri
-          } else {
-            object.material.emissiveIntensity = 1.2;
-          }
-        }
-      }
-    });
-  }
-
-
-  // ============================================================================
-// HOCA'S BACTERIAL CIRCUIT & FREQUENCY CLEANSE MODULE (Launch Ready)
-// ============================================================================
-if (typeof window.bakteriModu === 'undefined') window.bakteriModu = false;
-if (typeof window.antiBakteriModu === 'undefined') window.antiBakteriModu = false;
-
-const vYesilElement = document.getElementById("v-yesil");
-
-// 🔬 1. REGULAR BACTERIAL SYNC MODE ("B" KEY)
-if (window.bakteriModu && vYesilElement) {
-  // Capture gut bacteria current and synchronize it via the active 432 Hz DC clock
-  let microbialVoltage = 0.3 + (Math.abs(Math.sin(acDcZamanDislisi * 6.39)) * 1.5);
-  let humanVoltage = window.virgoVoltajOkuma;
-  let syncPercentage = ((microbialVoltage / humanVoltage) * 100).toFixed(0);
-
-  vYesilElement.style.color = "#00ffff"; // Shifting Virgo to high-conductivity Cyan
-  vYesilElement.style.textShadow = "0 0 10px #00ffff";
-  vYesilElement.innerHTML = `🟢 BACTERIA SYNC: <strong>${microbialVoltage.toFixed(1)}v</strong> (SYNC: ${syncPercentage}%)`;
-}
-
-// 🛡️ 2. ANTI-BACTERIAL SHIELD MODE ("A" KEY)
-if (window.antiBakteriModu && vYesilElement) {
-  // Direct 180-degree destructive interference wave to neutralize deviations
-  window.virgoVoltajOkuma = 4.4; // Forced baseline lock
-  rodinHiziCarpani = 4.5; // Acceleration purge
-  
-  vYesilElement.style.color = "#ff0055"; // High energy sterilization Pink
-  vYesilElement.style.textShadow = "0 0 15px #ff0055";
-  vYesilElement.innerHTML = `🛡️ ANTI-BAKTERİ: <span style="font-weight:bold; animation:flash 0.2s infinite;">SHIELD OVERDRIVE (STERILE)</span>`;
-  
-  if (typeof scene !== 'undefined' && typeof toprakIsigi !== 'undefined' && toprakIsigi) {
-    toprakIsigi.color.setHex(0xff0055); // Flash the base light to match the shield execution
-    toprakIsigi.intensity = 20.0;
-  }
-} else if (!window.antiBakteriModu && typeof toprakIsigi !== 'undefined' && toprakIsigi) {
-  toprakIsigi.color.setHex(0x00ff55); // Restore beautiful regular Virgo green when down
-}
-
-// ============================================================================
-// SALVATOR-MONA LISA SOLAR-LUNAR TRANSITION MATRIX (Day 10 - Launch Ready)
-// ============================================================================
-
-// Global opacity tracking registers for smooth cross-fading (Anti-Glitch Vault)
-let sunPlaneOpacity = 1.0;
-let moonPlaneOpacity = 0.0;
-
-function coreAcDcAnatomyEngine(zaman) {
-  const ALTIN_ORAN = 1.61803398875;
-  acDcZamanDislisi += 0.02;
-
-  // 🫀 MASTER CLOCK GENERATION (174 Hz Base Waking AC Circuit)
-  let kalpAcDalga = Math.sin(acDcZamanDislisi * (window.heartAcVoltage / 100.0));
-  let atesFazi = Math.max(0, kalpAcDalga);     // Red Input (Active Waking Fire)
-  let toprakFazi = Math.max(0, -kalpAcDalga);  // Green Output (Grounding Earth Filter)
-
-  // Inverse-Square Law Sinyal Sıkıştırması (Brain CPU Overdrive Tracker)
-  let tersKareKatlanmasi = 1.0 / (0.45 * 0.45); 
-  let beyinCpuSinyali = Math.sin(acDcZamanDislisi * 3.0) * tersKareKatlanmasi;
-
-  // ============================================================================
-  // 🧲 SOLAR-LUNAR OPACITY INTERPOLATION (The Yin-Yang Cross-Fade Loop)
-  // ============================================================================
-  const fadeSpeed = 0.03; // Smooth transition pacing coefficient
-  
-  if (window.uykuModuAktif) {
-    // 🌌 NIGHT MODE ENGAGED (Moon Phase / Mona Lisa / Su -> Ateş)
-    if (sunPlaneOpacity > 0.0)  sunPlaneOpacity -= fadeSpeed;
-    if (moonPlaneOpacity < 1.0) moonPlaneOpacity += fadeSpeed;
-
-    // Invert master Solfej frequencies across the Golden Ratio matrix
-    window.epifizIsinimi   = 963.0 * ALTIN_ORAN; // Turuncu Output
-    window.kalpMetronomu   = 174.0 * ALTIN_ORAN; // Mavi Fluid Modulation
-    window.solarPlexusGucu = 639.0 / ALTIN_ORAN; // Mor Sexus Accumulator
-    
-    // Accumulate the distilled 28 mg Christ Oil in the lower base capacitor
-    window.csfMiligramBirikimi += 0.0012 * ALTIN_ORAN;
-  } else {
-    // ☀️ DAY MODE ENGAGED (Sun Phase / Salvator Mundi / Ateş -> Su)
-    if (sunPlaneOpacity < 1.0)  sunPlaneOpacity += fadeSpeed;
-    if (moonPlaneOpacity > 0.0) moonPlaneOpacity -= fadeSpeed;
-
-    window.kalpMetronomu   = 174.0;
-    window.solarPlexusGucu = 639.0;
-    window.epifizIsinimi   = 963.0;
-
-    if (atesFazi > 0.5) {
-      window.csfMiligramBirikimi += 0.0004 * ALTIN_ORAN;
-    }
-  }
-
-  // Clamping strict limits to ensure opacity parameters never overrun bounds
-  sunPlaneOpacity  = Math.max(0.0, Math.min(1.0, sunPlaneOpacity));
-  moonPlaneOpacity = Math.max(0.0, Math.min(1.0, moonPlaneOpacity));
-
-  // Directly applying the voltage blend to your background planes if named in the setup
-  if (typeof salvatorMesh !== 'undefined' && typeof monaLisaMesh !== 'undefined') {
-    salvatorMesh.material.opacity = sunPlaneOpacity;
-    monaLisaMesh.material.opacity = moonPlaneOpacity;
-  }
-
-  // ============================================================================
-  // 💡 DIRECT MESH VOLTAGE COUPLING (Color-Wavelength Matrix Inversion)
-  // ============================================================================
-  if (typeof scene !== 'undefined') {
-    scene.traverse(function (object) {
-      if (object.isMesh && object.material && object.material.color) {
-        let r = object.material.color.r;
-        let g = object.material.color.g;
-        let b = object.material.color.b;
-
-        if (!object.material.emissive || object.material.emissive.getHex() === 0) {
-          object.material.emissive = object.material.color.clone();
-        }
-
-        // 🔴 RED MESHES: Pulse with active cardiac sparks
-        if (r > 0.5 && b < 0.3 && g < 0.3) {
-          object.material.emissiveIntensity = 2.0 + (atesFazi * 4.5);
-        }
-        // 🟢 GREEN MESHES: Grounding lines
-        else if (g > 0.5 && r < 0.3) {
-          object.material.emissiveIntensity = 1.0 + (toprakFazi * 3.5);
-        }
-        // 🟣 PURPLE/TEPE NODES: Ignite via Inverse-Square spikes
-        else if (r > 0.4 && b > 0.4 && g < 0.3) {
-          if (Math.abs(beyinCpuSinyali) > 3.0) {
-            object.material.emissiveIntensity = 7.5 * (window.uykuModuAktif ? ALTIN_ORAN : 1.0);
-            rodinHiziCarpani = window.uykuModuAktif ? -1.8 : 1.0; // The magnetic reversal!
-          } else {
-            object.material.emissiveIntensity = 1.2;
-          }
-        }
-      }
-    });
-  }
-
- // ============================================================================
-  // 🎛️ BULLETPROOF DOM DISPATCH VALVE (Salvator Mundi Helyosantrik Zodyak Radarı)
-  // ============================================================================
- // ============================================================================
-  // 🎛️ BİRLEŞTİRİLMİŞ SİBERPUNK DOM DISPATCH VALVE & KUTSAL İSKELET MOTORU
-  // ============================================================================
-  try {
-    const vKirmizi   = document.getElementById("v-kirmizi");
-    const vTuruncu   = document.getElementById("v-turuncu");
-    const vMavi      = document.getElementById("v-mavi");
-    const vYesil     = document.getElementById("v-yesil");
-    const csfDisplay = document.getElementById("csf-accumulation");
-    const radarDisplay = document.getElementById("radar-durum");
-
-    // 📦 FIXED CROSS: ANATOMİK İSKELET SINIR SİGORTALARI (HTML İkon Bağlantıları)
-    const bogaIskelet  = document.getElementById("node-taurus");
-    const kovaIskelet  = document.getElementById("node-aquarius");
-    const aslanIskelet = document.getElementById("node-leo");
-    const akrepIskelet = document.getElementById("node-scorpio");
-
-    // ⚡ 4 Element Canlı Voltmetre Göstergelerini Metinleri Silmeden Güncelle
-    if (vKirmizi) vKirmizi.innerHTML = `🔴 ATEŞ AKIMI (Akciğer Giriş): <span style="font-weight:bold; color:#ff4444;">${(2.1 + (atesFazi * 2.3)).toFixed(1)}</span> v`;
-    if (vTuruncu) vTuruncu.innerHTML = `🟠 HAVA KÖPRÜSÜ (Solar Plexus): <span style="font-weight:bold; color:#ff9933;">${(0.3 + (toprakFazi * 4.1)).toFixed(1)}</span> v`;
-    if (vMavi)    vMavi.innerHTML    = `🔵 SU HİDROLİĞİ (Spinal CSF): <span style="font-weight:bold; color:#00ffff;">${(1.5 + Math.sin(acDcZamanDislisi * 5.0) * 0.5).toFixed(1)}</span> v`;
-    if (vYesil)   vYesil.innerHTML   = `🟢 TOPRAK HATTI (Mesentery): <span style="font-weight:bold; color:#44ff44;">${window.virgoVoltajOkuma.toFixed(1)}</span> v`;
-
-    if (csfDisplay) csfDisplay.innerHTML = `💧 KUTSAL EMİLİM: <span style="font-weight:bold; color:#00ff55;">${window.csfMiligramBirikimi.toFixed(4)}</span> mg`;
-
-    // 🪐 RİTMİK İSKELET TAKLASI: Kalp ve akım dalgasına göre ikon parlamaları
-    if (aslanIskelet) aslanIskelet.style.textShadow = `0 0 ${10 + (atesFazi * 15)}px #ff4444`;
-    if (kovaIskelet)  kovaIskelet.style.textShadow  = `0 0 ${10 + (atesFazi * 15)}px #ffffff`;
-    if (bogaIskelet)  bogaIskelet.style.textShadow  = `0 0 ${10 + (toprakFazi * 15)}px #44ff44`;
-    if (akrepIskelet) akrepIskelet.style.textShadow = `0 0 ${10 + (toprakFazi * 15)}px #9900ff`;
-
-    // 🪐 HUMAN PLANET STATE & HELYOSANTRİK RADAR ENJEKTÖRÜ
-    if (radarDisplay) {
-      if (window.uykuModuAktif) {
-        radarDisplay.innerHTML = `<span style="color:#9900ff; text-shadow:0 0 10px #9900ff; font-weight:bold; animation:pulse 1s infinite;">📶 INFINITE SUPPER: REVERSE FLUID SHARD</span>`;
-      } else {
-        // --- A) Aktif Rodin Değerine Göre Çalışan Canlı Biometric Cell Stream ---
-        let elementText = "INITIALIZING...";
-        if (typeof aktifRodinDegeri !== 'undefined') {
-          if (aktifRodinDegeri === 1 || aktifRodinDegeri === 5) elementText = `<span style="color:#00ffff; text-shadow: 0 0 5px #00ffff;">🌊 SU ELEMENTİ (CSF Süzülme)</span>`;
-          else if (aktifRodinDegeri === 2 || aktifRodinDegeri === 4) elementText = `<span style="color:#ffaa00; text-shadow: 0 0 5px #ffaa00;">🔥 ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
-          else if (aktifRodinDegeri === 8) elementText = `<span style="color:#00ff55; text-shadow: 0 0 5px #00ff55;">🪨 TOPRAK ELEMENTİ (Sexus Depo)</span>`;
-          else if (aktifRodinDegeri === 7) elementText = `<span style="color:#ff0055; text-shadow: 0 0 5px #ff0055;">🌬 HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
-        }
-
-        // --- B) Gerçek Zamanlı Astronomik Yörünge Çarkı Hesaplamaları ---
-        const bugun = new Date(), j2000Epoch = new Date(Date.UTC(2000, 0, 1, 12, 0, 0)), gecenGun = (bugun.getTime() - j2000Epoch.getTime()) / (1000 * 60 * 60 * 24);
-        const burclar = ["Aries ♈", "Taurus ♉", "Gemini ♊", "Cancer ♋", "Leo ♌", "Virgo ♍", "Libra ♎", "Scorpio ♏", "Sagittarius ♐", "Capricorn ♑", "Aquarius ♒", "Pisces ♓"];
-        
-        let sunZodiacIdx = Math.floor(((gecenGun * (360.0 / 365.25636)) % 360 + 280) % 360 / 30);
-        let marsZodiacIdx = Math.floor(((gecenGun * (360.0 / 686.98)) % 360 + 332) % 360 / 30);
-        let venusZodiacIdx = Math.floor(((gecenGun * (360.0 / 224.701)) % 360 + 172) % 360 / 30);
-
-        // Birleştirilmiş Nihai Çıktı
-        radarDisplay.innerHTML = `
-          <div style="margin-bottom: 6px; padding-bottom: 4px; border-bottom: 1px dashed #333; font-size:11px; color:#00ffff;">🧬 BIOMETRIC FLOW: ${elementText}</div>
-          <div style="color:#ffff44; font-size:11px; text-shadow:0 0 5px #ffff00; font-weight:bold;">☀️ CEREBRAL CLOCK (SUN): ${burclar[sunZodiacIdx].toUpperCase()}</div>
-          <div style="color:#ff4444; margin-top:2px; font-size:10px; font-weight:bold;">🔴 PULMONARY INTAKE (MARS): ${burclar[marsZodiacIdx]}</div>
-          <div style="color:#44ff44; margin-top:2px; font-size:10px; font-weight:bold;">🟢 ENDOCRINE GROUND (VENUS): ${burclar[venusZodiacIdx]}</div>
-        `;
-      }
-    }
-  } catch (domException) {
-    // Emniyet kilidi: Gecikmelerde motor kilitlenmesini önler
-  }
-  
   if (window.csfMiligramBirikimi >= 28.0) window.csfMiligramBirikimi = 0.0037;
-}
 
-  // ============================================================================
-  // 🎛️ REAL-TIME UI DOM OUTPUT (Flawless Hardware Telemetry)
-  // ============================================================================
-  // Direct ID injections matching your exact HTML tags on the left board
-  const virgoSpan = document.getElementById("v-yesil");
-  if (virgoSpan) virgoSpan.textContent = window.virgoVoltajOkuma.toFixed(1);
-
-  const csfSayaç = document.getElementById("csf-sayaç");
-  if (csfSayaç) csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4);
-
-  const pinealGecikme = document.getElementById("pineal-gecikme");
-  if (pinealGecikme) {
-    let msCalculation = Math.floor(Math.abs(beyinCpuSinyali) * 2.1);
-    pinealGecikme.textContent = `${msCalculation} ms`;
+  // 💡 3D Model Emissive Injection
+  if (typeof scene !== 'undefined') {
+    scene.traverse(function (object) {
+      if (object.isMesh && object.material && object.material.color) {
+        if (!object.material.emissive || object.material.emissive.getHex() === 0) {
+          object.material.emissive = object.material.color.clone();
+        }
+        if (object.material.color.r > 0.5 && object.material.color.b < 0.3) object.material.emissiveIntensity = 2.0 + (atesFazi * 4.5);
+      }
+    });
   }
+
+  // 🎛️ DOM Dispatcher (Canlı Arayüz Güncelleme)
+  try {
+    const el = {
+      kirmizi: document.getElementById("v-kirmizi"),
+      turuncu: document.getElementById("v-turuncu"),
+      csf: document.getElementById("csf-accumulation"),
+      radar: document.getElementById("radar-durum")
+    };
+
+    if (el.kirmizi) el.kirmizi.innerHTML = `🔴 ATEŞ: ${(2.1 + (atesFazi * 2.3)).toFixed(1)} v`;
+    if (el.csf) el.csf.innerHTML = `💧 CSF: ${window.csfMiligramBirikimi.toFixed(4)} mg`;
+
+    // 🪐 Human Planet State Telemetrisi
+    if (el.radar && !window.uykuModuAktif) {
+      const g = (new Date().getTime() - new Date(Date.UTC(2000, 0, 1)).getTime()) / (1000 * 60 * 60 * 24);
+      let sunZodiacIdx = Math.floor(((g * (360.0 / 365.25)) % 360 + 280) % 360 / 30);
+      el.radar.innerHTML = `☀️ CLOCK: ${["Koç ♈", "Boğa ♉", "İkizler ♊", "Yengeç ♋", "Aslan ♌", "Başak ♍", "Terazi ♎", "Akrep ♏", "Yay ♐", "Oğlak ♑", "Kova ♒", "Balık ♓"][sunZodiacIdx]}`;
+    }
+  } catch (e) {}
 }
 
 // Metronom trigger forcing execution at the absolute tail of your requestAnimationFrame loop
