@@ -72,14 +72,14 @@ canvas {
 <body>
 
 
-    <!-- 🌌 METATRONIC BOUNDARY SHIELD (ISKELET KAFESİ) -->
-<div style="position:absolute; bottom:15px; left:15px; font-family:monospace; font-size:10px; color:#555; border:1px solid #222; padding:6px; background:rgba(0,0,0,0.85);">
-    <div style="text-align:center; border-bottom:1px dashed #333; padding-bottom:3px; color:#aaa; font-weight:bold;">🩻 MATRIX BOUNDARY</div>
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:6px; margin-top:4px;">
-        <div id="node-taurus" style="color:#44ff44;">♉ TAURUS (EARTH)</div>
-        <div id="node-aquarius" style="color:#ffffff;">♒ AQUARIUS (AIR)</div>
-        <div id="node-leo" style="color:#ff4444;">♌ LEO (FIRE)</div>
-        <div id="node-scorpio" style="color:#9900ff;">♏ SCORPIO (WATER)</div>
+<!-- 🌌 METATRONIC BOUNDARY SHIELD (ISKELET KAFESİ - Z-INDEX KİLİTLİ) -->
+<div style="position:absolute; bottom:15px; left:15px; font-family:monospace; font-size:10px; color:#555; border:1px solid #222; padding:6px; background:rgba(0,0,0,0.85); z-index:99999; backdrop-filter:blur(3px); border-radius:3px; box-shadow:0 0 10px rgba(0,0,0,0.75);">
+    <div style="text-align:center; border-bottom:1px dashed #333; padding-bottom:3px; color:#aaa; font-weight:bold; letter-spacing:1px;">🩻 MATRIX BOUNDARY</div>
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:8px; margin-top:5px; white-space:nowrap;">
+        <div id="node-taurus" style="color:#44ff44; text-shadow:0 0 5px #00ff00;">♉ TAURUS (EARTH)</div>
+        <div id="node-aquarius" style="color:#ffffff; text-shadow:0 0 5px #ffffff;">♒ AQUARIUS (AIR)</div>
+        <div id="node-leo" style="color:#ff4444; text-shadow:0 0 5px #ff0000;">♌ LEO (FIRE)</div>
+        <div id="node-scorpio" style="color:#9900ff; text-shadow:0 0 5px #cc00ff;">♏ SCORPIO (WATER)</div>
     </div>
 </div>
 
@@ -1048,6 +1048,22 @@ function coreAcDcAnatomyEngine(zaman) {
     });
   }
 
+  // 🎛️ FIXED CROSS NEON SÜRÜCÜSÜ (Anti-Crash Vault)
+try {
+  const nodes = {
+    taurus: document.getElementById("node-taurus"),
+    aquarius: document.getElementById("node-aquarius"),
+    leo: document.getElementById("node-leo"),
+    scorpio: document.getElementById("node-scorpio")
+  };
+
+  // Güvenli parlatma (Element varsa parlat)
+  if (nodes.leo) nodes.leo.style.textShadow = `0 0 ${10 + Math.max(0, kalpAcDalga) * 20}px #ff4444`;
+  if (nodes.aquarius) nodes.aquarius.style.textShadow = `0 0 ${10 + Math.max(0, kalpAcDalga) * 20}px #ffffff`;
+  if (nodes.taurus) nodes.taurus.style.textShadow = `0 0 ${10 + Math.max(0, -kalpAcDalga) * 20}px #44ff44`;
+  if (nodes.scorpio) nodes.scorpio.style.textShadow = `0 0 ${10 + Math.max(0, -kalpAcDalga) * 20}px #9900ff`;
+} catch (e) {}
+
   // 🎛️ DOM Dispatcher (Canlı Arayüz Güncelleme)
   try {
     const el = {
@@ -1057,7 +1073,7 @@ function coreAcDcAnatomyEngine(zaman) {
       radar: document.getElementById("radar-durum")
     };
 
-    if (el.kirmizi) el.kirmizi.innerHTML = `🔴 ATEŞ: ${(2.1 + (atesFazi * 2.3)).toFixed(1)} v`;
+    if (el.kirmizi) el.kirmizi.innerHTML = `${(2.1 + (atesFazi * 2.3)).toFixed(1)} v`;
     if (el.csf) el.csf.innerHTML = `💧 CSF: ${window.csfMiligramBirikimi.toFixed(4)} mg`;
 
     // 🪐 Human Planet State Telemetrisi
