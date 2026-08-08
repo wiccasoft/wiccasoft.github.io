@@ -873,22 +873,22 @@ if (aktifCakraElement) {
 
 
 // ============================================================================
-// REAL-TIME ELEMENTAL RADAR LOOP (Day 10 - Absolute Fix)
+// REAL-TIME ELEMENTAL RADAR LOOP (Day 10 - Pure Time-Based Fixed Stream)
 // ============================================================================
+// marsFazı'na bağımlı kalmadan, saniyede dönen aktifRodinDegeri üzerinden 
+// çakışmasız ve ışık hızında çalışan element radarı!
 const radarDisplay = document.getElementById("radar-durum");
-if (radarDisplay) {
-  // marsFazı durumuna göre tek bir kutuya (radar-durum) elementleri pürüzsüz basar, çakışma yapmaz!
-  if (marsFazı === 1 || marsFazı === 5) {
+if (radarDisplay && typeof aktifRodinDegeri !== 'undefined') {
+  if (aktifRodinDegeri === 1 || aktifRodinDegeri === 5) {
     radarDisplay.innerHTML = `<span style="color:#00ffff; text-shadow: 0 0 10px #00ffff;">🌊 SU ELEMENTİ (CSF Süzülme)</span>`;
-  } else if (marsFazı === 2 || marsFazı === 4) {
+  } else if (aktifRodinDegeri === 2 || aktifRodinDegeri === 4) {
     radarDisplay.innerHTML = `<span style="color:#ffaa00; text-shadow: 0 0 10px #ffaa00;">🔥 ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
-  } else if (marsFazı === 8) {
+  } else if (aktifRodinDegeri === 8) {
     radarDisplay.innerHTML = `<span style="color:#00ff55; text-shadow: 0 0 10px #00ff55;">🪨 TOPRAK ELEMENTİ (Sexus Depo)</span>`;
-  } else if (marsFazı === 7) {
+  } else if (aktifRodinDegeri === 7) {
     radarDisplay.innerHTML = `<span style="color:#ff0055; text-shadow: 0 0 10px #ff0055;">🌬 HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
   }
 }
-
 
 // ============================================================================
 // ELEMENTAL FLOW RADAR (Day 10 - Clutter-Free UI)
@@ -1674,8 +1674,10 @@ window.addEventListener('click', () => {
 // PHASE 4: GLOBAL MATRIX INPUT CONTROLLER (Launch Presentation Layer)
 // ============================================================================
 
+// ============================================================================
+// PHASE 4: GLOBAL MATRIX INPUT CONTROLLER (Presentation Layer)
+// ============================================================================
 window.addEventListener('keydown', function(e) {
-  // 🔑 THE COZMIC SWITCH: Pressing "S" toggles Sleep/Night Mode instantly
   if (e.key === 's' || e.key === 'S') {
     window.uykuModuAktif = !window.uykuModuAktif;
     
@@ -1683,21 +1685,11 @@ window.addEventListener('keydown', function(e) {
     const cakraDisplay = document.getElementById("aktif-cakra");
 
     if (window.uykuModuAktif) {
-      console.log("🌌 GECE FAZI DEVREDE: Su -> Ateş Ters Akış Şarjı");
-      if (ayFaziDisplay) {
-        ayFaziDisplay.innerHTML = `🌑 AY FAZI: <span style="color: #ffff00; text-shadow: 0 0 10px #ffff00; font-weight: bold;">DOLUNAY (Tepe Akımı)</span>`;
-      }
-      if (cakraDisplay) {
-        cakraDisplay.innerHTML = `👑 ÇAKRA: PLEXUS INVERSION (<span style="color:#9900ff;">963 Hz * 1.618</span>)`;
-      }
+      if (ayFaziDisplay) ayFaziDisplay.innerHTML = `🌑 AY FAZI: <span style="color:#ffff00; font-weight:bold; text-shadow:0 0 10px #ffff00;">DOLUNAY (Tepe Akımı)</span>`;
+      if (cakraDisplay) cakraDisplay.innerHTML = `👑 ÇAKRA: PLEXUS INVERSION (963 Hz * 1.618)`;
     } else {
-      console.log("☀️ GÜNDÜZ FAZI DEVREDE: Ateş -> Su Olağan Akış");
-      if (ayFaziDisplay) {
-        ayFaziDisplay.innerHTML = `🌙 AY FAZI: YENİAY (Taban Deşarj)`;
-      }
-      if (cakraDisplay) {
-        cakraDisplay.innerHTML = `🫀 ÇAKRA: KÖK (174 Hz Base Waking)`;
-      }
+      if (ayFaziDisplay) ayFaziDisplay.innerHTML = `🌙 AY FAZI: YENİAY (Taban Deşarj)`;
+      if (cakraDisplay) cakraDisplay.innerHTML = `🫀 ÇAKRA: KÖK (174 Hz Base Waking)`;
     }
   }
 });
