@@ -1236,8 +1236,8 @@ function coreAcDcAnatomyEngine(zaman) {
     });
   }
 
-  // ============================================================================
-  // 🎛️ BULLETPROOF DOM DISPATCH VALVE (Anti-Crash Telemetry)
+ // ============================================================================
+  // 🎛️ BULLETPROOF DOM DISPATCH VALVE (Salvator Mundi Helyosantrik Zodyak Radarı)
   // ============================================================================
   try {
     const vKirmizi   = document.getElementById("v-kirmizi");
@@ -1247,6 +1247,7 @@ function coreAcDcAnatomyEngine(zaman) {
     const csfDisplay = document.getElementById("csf-accumulation");
     const radarDisplay = document.getElementById("radar-durum");
 
+    // ⚡ 4 Element Canlı Voltmetre Göstergelerini Push Et
     if (vKirmizi) vKirmizi.textContent = (2.1 + (atesFazi * 2.3)).toFixed(1);
     if (vTuruncu) vTuruncu.textContent = (0.3 + (toprakFazi * 4.1)).toFixed(1);
     if (vMavi)    vMavi.textContent    = (1.5 + Math.sin(acDcZamanDislisi * 5.0) * 0.5).toFixed(1);
@@ -1254,18 +1255,49 @@ function coreAcDcAnatomyEngine(zaman) {
 
     if (csfDisplay) csfDisplay.textContent = window.csfMiligramBirikimi.toFixed(4);
 
-    // Dynamic Element Radar updates the text box based on the active Rodin metrics
-    if (radarDisplay && typeof aktifRodinDegeri !== 'undefined') {
+    // ============================================================================
+    // 🪐 GEZEGENSEL REZONANS RADARI - REAL TIME LUNAR-SOLAR ENJEKTÖRÜ
+    // ============================================================================
+    if (radarDisplay) {
       if (window.uykuModuAktif) {
+        // 🌌 GECE FAZI (Mona Lisa Modu): Akım terse büküldüğünde sonsuz akşam yemeği başlar!
         radarDisplay.innerHTML = `<span style="color:#9900ff; text-shadow:0 0 10px #9900ff; font-weight:bold; animation:pulse 1s infinite;">📶 INFINITE SUPPER: REVERSE FLUID SHARD</span>`;
       } else {
-        if (aktifRodinDegeri === 1 || aktifRodinDegeri === 5)      radarDisplay.innerHTML = `<span style="color:#00ffff;">🌊 SU ELEMENTİ (CSF Süzülme)</span>`;
-        else if (aktifRodinDegeri === 2 || aktifRodinDegeri === 4) radarDisplay.innerHTML = `<span style="color:#ffaa00;">🔥 ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
-        else if (aktifRodinDegeri === 8)                           radarDisplay.innerHTML = `<span style="color:#00ff55;">🪨 TOPRAK ELEMENTİ (Sexus Depo)</span>`;
-        else if (aktifRodinDegeri === 7)                           radarDisplay.innerHTML = `<span style="color:#ff0055;">🌬 HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
+        // ☀️ GÜNDÜZ FAZI (Salvator Mundi Modu): Gerçek zamanlı astronomik çark hesaplaması
+        const bugun = new Date();
+        const j2000Epoch = new Date(Date.UTC(2000, 0, 1, 12, 0, 0));
+        let gecenGun = (bugun.getTime() - j2000Epoch.getTime()) / (1000 * 60 * 60 * 24);
+
+        // 12 Kozmik Zodyak Dilim Sicilleri
+        const burclar = ["Aries ♈", "Taurus ♉", "Gemini ♊", "Cancer ♋", "Leo ♌", "Virgo ♍", 
+                         "Libra ♎", "Scorpio ♏", "Sagittarius ♐", "Capricorn ♑", "Aquarius ♒", "Pisces ♓"];
+
+        // 🌞 1. SALVATOR MUNDI (GÜNEŞ) KOORDİNATI: ~365.25 Günlük Çark (Leo Kilitli)
+        let sunDegree = (gecenGun * (360.0 / 365.25636)) % 360;
+        let correctedSunDegree = (sunDegree + 280) % 360; 
+        let sunZodiacIdx = Math.floor(correctedSunDegree / 30);
+
+        // 🔴 2. MARS POZİSYONU (Ateş / Akciğer): ~687 Günlük Yörünge Çarkı
+        let marsDegree = (gecenGun * (360.0 / 686.98)) % 360;
+        let correctedMarsDegree = (marsDegree + 332) % 360; 
+        let marsZodiacIdx = Math.floor(correctedMarsDegree / 30);
+
+        // 🟢 3. VENÜS POZİSYONU (Toprak / Pankreas): ~224.7 Günlük Yörünge Çarkı
+        let venusDegree = (gecenGun * (360.0 / 224.701)) % 360;
+        let correctedVenusDegree = (venusDegree + 172) % 360; 
+        let venusZodiacIdx = Math.floor(correctedVenusDegree / 30);
+
+        // 🎛️ EKRANA SİBERPUNK COZMIC RADARI BAS
+        radarDisplay.innerHTML = `
+          <div style="color:#ffff44; margin-top:2px; font-size:11px; text-shadow:0 0 5px #ffff00; font-weight:bold;">☀️ SALVATOR MUNDI IN ${burclar[sunZodiacIdx].toUpperCase()}</div>
+          <div style="color:#ff4444; margin-top:2px; font-size:10px;">🔴 MARS (Ateş): ${burclar[marsZodiacIdx]}</div>
+          <div style="color:#44ff44; margin-top:2px; font-size:10px;">🟢 VENÜS (Toprak): ${burclar[venusZodiacIdx]}</div>
+        `;
       }
     }
-  } catch (domException) {}
+  } catch (domException) {
+    // Emniyet sübobı: Herhangi bir HTML yüklenme gecikmesinde kalbin 174 Hz motorunun durmasını engeller
+  }
   
   if (window.csfMiligramBirikimi >= 28.0) window.csfMiligramBirikimi = 0.0037;
 }
