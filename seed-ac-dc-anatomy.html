@@ -71,15 +71,15 @@ canvas {
         <div style="color:#00ffff;">⚡ PINEAL TRANSMISSION: <span id="pineal-gecikme" style="font-weight:bold; color:#9900ff;">0 ms</span></div>
     </div>
 
-<!-- 🫁 CANLI ELEMENTAL ORGAN VOLTMETRE PANELİ (Day 10) -->
+<!-- 🫁 CANLI ELEMENTAL ORGAN VOLTMETRE PANELİ -->
 <div style="font-family:monospace; line-height: 1.6; font-size:11px;">
-    <div style="color:#ff4444;">🔴 ATEŞ AKIMI (Akciğer Giriş): <span id="v-kirmizi">0.3</span>v</div>
-    <div style="color:#ff9933;">🟠 HAVA KÖPRÜSÜ (Solar Plexus): <span id="v-turuncu">0.3</span>v</div>
-    <div style="color:#00ffff;">🔵 SU HİDROLİĞİ (Spinal CSF): <span id="v-mavi">0.3</span>v</div>
-    <div style="color:#44ff44;">🟢 TOPRAK HATTI (Mesentery): <span id="v-yesil">0.3</span>v</div>
+  <div style="color:#ff4444;">🔴 ATEŞ AKIMI (Akciğer Giriş): <span id="v-kirmizi" style="font-weight:bold;">0.0</span> v</div>
+  <div style="color:#ff9933;">🟠 HAVA KÖPRÜSÜ (Solar Plexus): <span id="v-turuncu" style="font-weight:bold;">0.0</span> v</div>
+  <div style="color:#00ffff;">🔵 SU HİDROLİĞİ (Spinal CSF): <span id="v-mavi" style="font-weight:bold;">0.0</span> v</div>
+  <div style="color:#44ff44;">🟢 TOPRAK HATTI (Mesentery): <span id="v-yesil" style="font-weight:bold;">0.0</span> v</div>
   <div style="color:#cc33ff; font-size:11px; font-family:monospace; margin-top:5px; border-top:1px solid #222; padding-top:4px;">
     💧 KUTSAL EMİLİM: <span id="csf-accumulation" style="font-weight:bold; color:#00ff55;">0.0037</span> mg
-</div>
+  </div>
 </div>
 
     <!-- 📡 DİNAMİK ELEMENT RADARI (12 SATIRLIK BURÇ LİSTESİNİ SIFIRLAYAN YENİ GEZGİN) -->
@@ -914,16 +914,16 @@ if (aktifCakraElement) {
 // ============================================================================
 // marsFazı'na bağımlı kalmadan, saniyede dönen aktifRodinDegeri üzerinden 
 // çakışmasız ve ışık hızında çalışan element radarı!
-const radarDisplay = document.getElementById("radar-durum");
-if (radarDisplay && typeof aktifRodinDegeri !== 'undefined') {
+const HumanState = document.getElementById("human-state");
+if (HumanState && typeof aktifRodinDegeri !== 'undefined') {
   if (aktifRodinDegeri === 1 || aktifRodinDegeri === 5) {
-    radarDisplay.innerHTML = `<span style="color:#00ffff; text-shadow: 0 0 10px #00ffff;">🌊 SU ELEMENTİ (CSF Süzülme)</span>`;
+    HumanState.innerHTML = `<span style="color:#00ffff; text-shadow: 0 0 10px #00ffff;">🌊 SU ELEMENTİ (CSF Süzülme)</span>`;
   } else if (aktifRodinDegeri === 2 || aktifRodinDegeri === 4) {
-    radarDisplay.innerHTML = `<span style="color:#ffaa00; text-shadow: 0 0 10px #ffaa00;">🔥 ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
+    HumanState.innerHTML = `<span style="color:#ffaa00; text-shadow: 0 0 10px #ffaa00;">🔥 ATEŞ ELEMENTİ (Solar Jeneratör)</span>`;
   } else if (aktifRodinDegeri === 8) {
-    radarDisplay.innerHTML = `<span style="color:#00ff55; text-shadow: 0 0 10px #00ff55;">🪨 TOPRAK ELEMENTİ (Sexus Depo)</span>`;
+    HumanState.innerHTML = `<span style="color:#00ff55; text-shadow: 0 0 10px #00ff55;">🪨 TOPRAK ELEMENTİ (Sexus Depo)</span>`;
   } else if (aktifRodinDegeri === 7) {
-    radarDisplay.innerHTML = `<span style="color:#ff0055; text-shadow: 0 0 10px #ff0055;">🌬 HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
+    HumanState.innerHTML = `<span style="color:#ff0055; text-shadow: 0 0 10px #ff0055;">🌬 HAVA ELEMENTİ (Nexus Köprüsü)</span>`;
   }
 }
 
@@ -1289,9 +1289,18 @@ function coreAcDcAnatomyEngine(zaman) {
 
         // 🎛️ EKRANA SİBERPUNK COZMIC RADARI BAS
         radarDisplay.innerHTML = `
-          <div style="color:#ffff44; margin-top:2px; font-size:11px; text-shadow:0 0 5px #ffff00; font-weight:bold;">☀️ SALVATOR MUNDI IN ${burclar[sunZodiacIdx].toUpperCase()}</div>
-          <div style="color:#ff4444; margin-top:2px; font-size:10px;">🔴 MARS (Ateş): ${burclar[marsZodiacIdx]}</div>
-          <div style="color:#44ff44; margin-top:2px; font-size:10px;">🟢 VENÜS (Toprak): ${burclar[venusZodiacIdx]}</div>
+         <div style="margin-bottom: 5px; padding-bottom: 3px; border-bottom: 1px dashed #333; font-size:11px; color:#00ffff; text-shadow:0 0 5px #00ffff;">
+    🧬 BIOMETRIC CELLULAR STREAM: ${elementText}
+  </div>
+  <div style="color:#ffff44; font-size:11px; text-shadow:0 0 5px #ffff00; font-weight:bold;">
+    ☀️ CEREBRAL CLOCK (SUN): ${burclar[sunZodiacIdx].toUpperCase()}
+  </div>
+  <div style="color:#ff4444; margin-top:2px; font-size:10px; font-weight:bold;">
+    🔴 PULMONARY INTAKE (MARS): ${burclar[marsZodiacIdx]}
+  </div>
+  <div style="color:#44ff44; margin-top:2px; font-size:10px; font-weight:bold;">
+    🟢 ENDOCRINE GROUND (VENUS): ${burclar[venusZodiacIdx]}
+  </div>
         `;
       }
     }
@@ -1691,42 +1700,7 @@ function guncelleKozmikAkortSeviyesi(zaman, saftTemizlikKatsayisi) {
 // STREAMLINED MASTER TRINITY INTERFACE (Day 10 - THE LAUNCH BLUEPRINT)
 // ============================================================================
 
-function coreAcDcAnatomyEngine(zaman) {
-  // Completely bypassed the 7 localized chakra calculations to maximize CPU speed.
-  // The system now computes strictly along the 3 master hardware junctions.
-  
-  vortexZamanDislisi += 0.02;
-  const ALTIN_ORAN = 1.61803398875;
 
-  if (window.uykuModuAktif) {
-    // 🌌 NIGHT REBOOT TRINITY: Turuncu (Plexus) -> Mavi (Nexus) -> Mor (Sexus)
-    window.epifizIsinimi   = 963.0 * ALTIN_ORAN; // Turuncu Phase Output
-    window.kalpMetronomu   = 174.0 * ALTIN_ORAN; // Mavi Fluid Modulation Phase
-    window.solarPlexusGucu = 639.0 / ALTIN_ORAN; // Mor Accumulator Phase
-
-    // Directly distill the 500ml daily CSF into the 28mg Sacrum core
-    window.csfMiligramBirikimi += 0.0012 * ALTIN_ORAN;
-
-    // 💡 Driving the 3 Core Light Injectors on the strict Trinity Axis
-    if (typeof scene !== 'undefined') {
-      if (typeof eterIsigi   !== 'undefined' && eterIsigi)   eterIsigi.intensity   = 12.0; // Top Node: Turuncu Glow
-      if (typeof suIsigi      !== 'undefined' && suIsigi)      suIsigi.intensity      = 10.0; // Center Node: Mavi Flow
-      if (typeof toprakIsigi  !== 'undefined' && toprakIsigi)  toprakIsigi.intensity  = 18.0; // Base Node: Mor Spark
-    }
-  } else {
-    // ☀️ DAYTIME EXECUTION MATRIX (Waking Polarity Loop)
-    window.kalpMetronomu   = 174.0;
-    window.solarPlexusGucu = 639.0;
-    window.epifizIsinimi   = 963.0;
-  }
-
-  // 28 mg loop cycle protection boundary
-  if (window.csfMiligramBirikimi >= 28.0) window.csfMiligramBirikimi = 0.0037;
-
-  // 📊 Direct, un-fragmented UI Telemetry Push
-  const csfSayaç = document.getElementById("csf-sayaç");
-  if (csfSayaç) csfSayaç.textContent = window.csfMiligramBirikimi.toFixed(4);
-}
 
 // ============================================================================
 // TURUNCU -> MAVİ -> MOR COZMIC INVERSION MOTORU (Day 9 - Final Track)
