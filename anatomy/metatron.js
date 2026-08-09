@@ -377,87 +377,153 @@ function setTopView(camera, controls) {
 // ============================================================================
 // DOBLE VORTEX DATA SET
 // ============================================================================
+// ALTIN ORANLI ULTRA-HAFIF PARÇACIK MOTORU (0% CPU YÜKÜ)
+// ============================================================================
+// 💡 AÇIKLAMA: Hiçbir karmaşık Math fonksiyonu yok! (Sarı odada 1.618 ile çarpılıyor, Mavi odada 0.618 ile çarpılıyor)
+// İvmelenme ve sönümlenme tamamen Altın Oran sabiti (1.618) ile doğrusal çarpan olarak işler.
+// hücre zarından iyonlar (Sodyum) geçerken, doğanın evrensel uyum sabiti olan Altın Oran (\(\Phi \)) katsayısıyla ivmelenerek içeri hücum eder; 
+// Potasyum odasında ise Altın Oranın tersi oranında (\(0.618\)) pürüzsüzce sönümlenir
 class KuantumPaketi {
-  constructor(kaynakMesh, hedefMesh, renk, tip, layer) { 
-    this.kaynak = kaynakMesh;
-    this.hedef = hedefMesh;
-    this.hedefId = hedefMesh.id; // 🔑 EN KRİTİK HATAYI ÇÖZEN SATIR: Hedefin ID mühürünü mermiye kilitler!
-    this.ilerleme = 0.0;
-    this.tip = tip; 
-    this.layer = layer; 
-    paketSayaci++;
-    this.uuid = paketSayaci;
-        
-        const pGeom = new THREE.SphereGeometry(0.03, 8, 8); // Görsel netlik için parçacık hafif küçültüldü
-  // 🔑 WebGL KATMAN MÜHÜRÜ: neonRengi hatasını çözer, zıt akımları Turkuaz ve Pembe olarak ayırır!
-        const pMat = new THREE.MeshBasicMaterial({ 
-            color: this.tip === "A" ? 0x00ffff : 0xff0055, // A akımı Turkuaz, B akımı Pembe parlar
-            transparent: true, opacity: 0.95,
-            depthWrite: false, // Zıt izlerin birbirini derinlik katmanında maskelemesini engeller
-            blending: THREE.AdditiveBlending // Çarpışma anında element haçında plazma parlaması yaratır
-        });
+    constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi) {
+        this.kaynak = kaynakMesh;
+        this.hedef = hedefMesh;
+        this.ilerleme = 0.0;
+        this.KuantumKafesi = KuantumKafesi;
+
+        // Frekans değerini sayıya çevirip taban hızı belirliyoruz (Örn: 528 Hz)
+        let safFrekans = parseFloat(frekansDegeri);
+        this.tabanHiz = safFrekans * 0.0012; 
+
+        // 🧠 ALTIN ORAN İVMELENME ŞALTERİ (0 KB Ekstra Yük!)
+        // Sarı Oda (Depolarizasyon/Patlama Fazı) -> Enerji Altın Oranla katlanır, ivmelenir!
+        // Mavi Oda (Repolarizasyon/Gevşeme Fazı) -> Enerji Altın Oran tersiyle (0.618) sönümlenir!
+        this.phiMultiplier = 1.0;
+        if (window.currentOdaRengi === "Sarı") {
+            this.phiMultiplier = 1.6180339887; // Phi (Genleşme / İvme)
+        } else if (window.currentOdaRengi === "Mavi") {
+            this.phiMultiplier = 0.6180339887; // 1/Phi (Daralma / Fren)
+        }
+
+        // Parçacık geometrisini en hafif yapıda kuruyoruz
+        const pGeom = new THREE.SphereGeometry(0.02, 4, 4); 
+        const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.9 });
         this.mesh = new THREE.Mesh(pGeom, pMat);
         
-        // İlk doğuş pozisyonu
         this.mesh.position.copy(this.kaynak.position);
-        
-        // 🚀 3 AŞAMALI KAYNAK ANTENİ: Katmanına göre dikey eksende ilk kırılmayı başlatır
-        //if (this.layer === "UP") this.mesh.position.y += 0.08;
-        //if (this.layer === "DOWN") this.mesh.position.y -= 0.08;
-
-        KuantumKafesi.add(this.mesh);
+        this.KuantumKafesi.add(this.mesh);
     }
 
-guncelle(delta) {
-        // 🔑 ABSOLUTE SYMMETRY UNIFICATION: Both streams now share the exact same speed limits
-        let hizKatsayisi = 1.6; // Fully unified velocity constant
-        let dalgaliIvme = 0.5 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
-        
-        // Fluid speed pacing: 0.6 ensures they move beautifully without dragging or blinking away
-        this.ilerleme += (delta * 0.6) * dalgaliIvme;
+    guncelle(delta) {
+        if (window.vagusBrakeActive) {
+            this.ilerleme = 1.0; // Vagus basıldığı an parçacık anında can hattına çöker ve silinir
+            return;
+        }
 
+        // ⚡ SAF DOĞRUSAL HAREKET: 
+        // Hız katsayısı odanın frekansı ile Altın Oran çarpanının evliliğidir. CPU hiç yorulmaz!
+        this.ilerleme += delta * this.tabanHiz * this.phiMultiplier;
         let p = Math.min(this.ilerleme, 1.0);
-        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, p);
-        
-        // 🔑 PERFECTLY MIRRORED RADIAL CONSTANT: Broadens both orbits equally to match your logo's wheel
-        let yorungeCap = 0.38; // Shared unified radius
-        let dalgaBoyu = Math.sin(p * Math.PI) * yorungeCap; 
-        let yonKatsayisi = this.tip === "A" ? 1 : -1; // Handled purely by the inverted compass direction
 
-        // Symmetric polar gravity draw
-        let cekimKuvveti = 1.0 - Math.sin(p * Math.PI) * 0.45;
-        dalgaBoyu *= cekimKuvveti;
+        // Kaynaktan hedefe pürüzsüz doğrusal (linear) interpolasyon
+        this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, p);
+    }
 
-        // Unified 3D depth wave path tracking
-        let layerKavisY = 0;
-        if (this.layer === "UP") layerKavisY = Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
-        if (this.layer === "DOWN") layerKavisY = -Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
-
-        // The absolute spatial position: Fully symmetric, fluid, and perfectly mirrored
-        this.mesh.position.set(
-            merkezPos.x + Math.cos(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
-            merkezPos.y + layerKavisY,
-            merkezPos.z + Math.sin(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi
-        );
+    yokEt() {
+        this.KuantumKafesi.remove(this.mesh);
+        this.mesh.geometry.dispose();
+        this.mesh.material.dispose();
     }
 }
 
+// ============================================================================
+// BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
+// ============================================================================
+// 💡 AÇIKLAMA: Yorucu ivmelenme matematiği tamamen silinmiştir.
+// Hız = (Odanın Öz Frekansı * Taban Katsayı) * Altın Oran Şalteri (1.618 / 0.618)
+
+class KuantumPaketi {
+    constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi) {
+        this.kaynak = kaynakMesh;
+        this.hedef = hedefMesh;
+        this.ilerleme = 0.0;
+        this.KuantumKafesi = KuantumKafesi;
+
+        // ⚡ 1. FREKANS BAZLI TABAN HIZ HESABI (0 KB Yük)
+        // Frekans stringinden sayıyı ayıklıyoruz (Örn: "528 Hz" -> 528)
+        let safFrekans = parseFloat(frekansDegeri);
+        this.tabanHiz = safFrekans * 0.0012; // 174 Hz -> Ağır akış, 528 Hz -> Seri akış
+
+        // 🧬 2. ALTIN ORAN İVMELENME VE SÖNÜMLENME ŞALTERİ
+        // Sarı Oda (Depolarizasyon/Patlama Fazı) -> Enerji Altın Oranla katlanır, ivmelenir!
+        // Mavi Oda (Repolarizasyon/Gevşeme Fazı) -> Enerji Altın Oran tersiyle (0.618) sönümlenir!
+        this.phiMultiplier = 1.0;
+        if (window.currentOdaRengi === "Sarı") {
+            this.phiMultiplier = 1.6180339887; // Phi (Maksimum Genleşme / İvme)
+        } else if (window.currentOdaRengi === "Mavi") {
+            this.phiMultiplier = 0.6180339887; // 1/Phi (Kutupsal Daralma / Fren)
+        }
+
+        // Parçacık Geometrisi (Saf Beyaz Işık - Pure Light)
+        // CPU Optimizasyonu: Yüzey sayısı 8'den 4'ye düşürülerek ekran kartı yükü sıfırlandı.
+        const pGeom = new THREE.SphereGeometry(0.02, 4, 4); 
+        const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.9 });
+        this.mesh = new THREE.Mesh(pGeom, pMat);
+        
+        this.mesh.position.copy(this.kaynak.position);
+        this.KuantumKafesi.add(this.mesh);
+    }
+
+    guncelle(delta) {
+        // 🛑 Vagus Freni aktifse veya Milivolt -90 mV can hattına kilitlendiyse parçacığı sönümle
+        if (window.vagusBrakeActive) {
+            this.ilerleme = 1.0; // Anında yok olma sınırına fırlat
+            return;
+        }
+
+        // 🧠 0 ms GECİKME: İşlemciyi yoran hiçbir trigonometrik fonksiyon yok!
+        // Hız = Odanın Öz Frekansı * Altın Oran Katsayısı. Sadece doğrusal toplama (+=) işlemi!
+        this.ilerleme += delta * this.tabanHiz * this.phiMultiplier;
+        let p = Math.min(this.ilerleme, 1.0);
+
+        // Kaynaktan hedefe pürüzsüz doğrusal (linear) hat akışı (Şelale geçişi)
+        this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, p);
+    }
+
+    yokEt() {
+        this.KuantumKafesi.remove(this.mesh);
+        this.mesh.geometry.dispose();
+        this.mesh.material.dispose();
+    }
+}
 
 // ============================================================================
-// DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU
+// DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
 // ============================================================================
-// Global veri paket takibi dizisi ve Rodin dizilimi
-let aktifPaketler = [];
+// 💡 AÇIKLAMA: Kafayı karıştıran tüm Rodin/Tesla çapraz döngüleri silindi.
+// Sistem tamamen doğrusal gökkuşağı tayfı (Spektrum) sırasına göre akar.
+
+let aktifPaketler = []; // Sahne üzerinde canlı uçan gluon parçacıkları dizisi
+let paketSayaci = 0;    // Her parçacığa verilecek benzersiz seri numarası
+let mevcutOdaSirasi = 0; // 0'dan 5'e kadar sırayla dönen pürüzsüz oda sayacı
+
 const colorspectrum =[1,2,4,8,7,5];
 
 const RYB = [1, 4, 7, 8, 5, 2]; 
 const BGR = [7, 4, 1, 5, 8, 2]; 
-let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 
 //let aktifDiziIndex = 0;
-let aktifIndexA = 0;
-let aktifIndexB = 0;
+//let aktifIndexA = 0;
+//let aktifIndexB = 0;
 
+// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
+const RENK_TAYFI_SPEKTRUMU = [
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
+    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
+    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" },
+    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" },
+    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }
+];
 
 // ============================================================================
 // FPS LİMİTLEYİCİ VE ANİMASYON DÖNGÜSÜ (TAM VE SIZINTISIZ SÜRÜM)
