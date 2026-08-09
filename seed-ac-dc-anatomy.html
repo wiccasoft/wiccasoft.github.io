@@ -820,7 +820,7 @@ function coreSpinalBreathingAndNeutralization(zamanDislisi) {
 const aspect = window.innerWidth / window.innerHeight;
 const d = 1.6; // 🔑 KESİN ÇÖZÜM: Kadraj ölçeği 0.5'ten 1.5'e çıkarılarak kırpma engeli yırtıldı!
 const camera = new THREE.OrthographicCamera(- d * aspect, d * aspect, d, - d, 0.1, 1000);
-camera.position.set(1, 1, 1);
+camera.position.set(5, 5, 5);
 camera.lookAt(0, 0, 0);
 
 const renderer = new THREE.WebGLRenderer({ antialias: true });
@@ -842,16 +842,28 @@ const elementAkslari = [
 ];
 
 // 🏟 Icosahedron Kaburgasını Oluşturacak Aks Çizgilerinin Görünür Kılınması
+// 🏟 Icosahedron Kaburgasını Oluşturacak Aks Çizgilerinin Görünür Kılınması
 const aksGenisligi = 0.35 * Math.sqrt(2) * 1.1; 
+const canlıAksCizgileri = []; // 👈 Güncelleme döngüsü için referans dizisi
+
 elementAkslari.forEach(aks => {
     const posA = aks.yon.clone().multiplyScalar(aksGenisligi);
     const posB = aks.yon.clone().multiplyScalar(-aksGenisligi);
     const cizgiGeo = new THREE.BufferGeometry().setFromPoints([posA, posB]);
+    
     const cizgiMat = new THREE.LineBasicMaterial({
         color: aks.c1 === 0x111111 ? 0xffffff : aks.c1,
-        transparent: true, opacity: 0.35, linewidth: 2
+        transparent: true, 
+        opacity: 0.25, // 👈 Gözü yormayacak kararlı, sönük bir siber kalkan saydamlığı
+        linewidth: 2,
+        depthWrite: false
     });
-    KuantumKafesi.add(new THREE.Line(cizgiGeo, cizgiMat));
+    
+    const lineMesh = new THREE.Line(cizgiGeo, cizgiMat);
+    lineMesh.name = aks.name; // Fonksiyonel erişim için isim kilidi
+    
+    KuantumKafesi.add(lineMesh);
+    canlıAksCizgileri.push(lineMesh); // Referansı içeriye çivile
 });
 
 // Küp köşeleri ve yüzeyleri
@@ -1955,45 +1967,7 @@ function guncelleKozmikAkortSeviyesi(zaman, saftTemizlikKatsayisi) {
 // TURUNCU -> MAVİ -> MOR COZMIC INVERSION MOTORU (Day 9 - Final Track)
 // ============================================================================
 
-function guncelleTuruncuMaviMorAkisi(zaman) {
-  const ALTIN_ORAN = 1.61803398875;
-  
-  if (window.uykuModuAktif) {
-    // 🌌 GECE FAZI AKTİF: Akım Turuncu -> Mavi -> Mor aksında aşağı akıyor!
-    let akisMetronomu = Math.sin(acDcZamanDislisi * 1.74);
-    
-    // 1. PLEXUS (Tepe) -> TURUNCU: Yüksek frekans veri çıkışı
-    window.epifizIsinimi = 963.0 * ALTIN_ORAN;
-    if (typeof eterIsigi !== 'undefined' && eterIsigi) {
-      eterIsigi.color.setHex(0xffaa00); // Mor oda sönüyor, TURUNCU alıcı parlıyor!
-      eterIsigi.intensity = 12.0;
-    }
 
-    // 2. NEXUS (Merkez) -> MAVİ: Kalp rezonansı akımı sıvıya mühürlüyor
-    window.kalpMetronomu = 174.0 * ALTIN_ORAN;
-    if (typeof suIsigi !== 'undefined' && suIsigi) {
-      suIsigi.color.setHex(0x00ffff); // MAVİ hidrolik nehir tsunamisi
-      suIsigi.intensity = 8.0 + Math.sin(zaman * 5.0) * 3.0;
-    }
-
-    // 3. SEXUS (Taban) -> MOR: Sacrum barajı 28 mg kutsal yağı MOR vitesle şarj ediyor!
-    window.solarPlexusGucu = 639.0 / ALTIN_ORAN;
-    if (typeof toprakIsigi !== 'undefined' && toprakIsigi) {
-      toprakIsigi.color.setHex(0x9900ff); // Alt sarnıç MOR parlamaya başladı!
-      toprakIsigi.intensity = 15.0 * ALTIN_ORAN;
-    }
-
-    // Sol paneldeki yazıları zorla bu yeni element düzenine göre güncelle
-    const vKirmizi = document.getElementById("v-kirmizi");
-    const vTuruncu = document.getElementById("v-turuncu");
-    const vYesil = document.getElementById("v-yesil");
-
-    if (vTuruncu) vTuruncu.innerHTML = `🟠 PLEXUS (Tepe CPU): <span style="color:#ffaa00; font-weight:bold;">DATA TRANSMITTING</span>`;
-    if (vKirmizi) vKirmizi.innerHTML = `🔵 NEXUS (Merkez AC): <span style="color:#00ffff; font-weight:bold;">FLUID MODULATING</span>`;
-    if (vYesil)   vYesil.innerHTML   = `🟣 SEXUS (Taban Depo): <span style="color:#9900ff; font-weight:bold;">CHRIST OIL DISTILLING</span>`;
-
-  }
-}
 
 // ============================================================================
 // FLOWER OF LIFE AXIAL ROUTER (Day 5 - System Architecture)
@@ -2155,24 +2129,7 @@ if (ayFaziElement) {
     }
 }
 
-// ============================================================================
-// 🌌 KUTSALTERAZİ AURA GLOW VE KAFES MODÜLASYON MOTORU (DONMASIZ SÜRÜM)
-// ============================================================================
-// THREE.LinePositions kaldırıldı, kilit tamamen açıldı!
-KuantumKafesi.children.forEach(child => {
-    if (child instanceof THREE.LineSegments || child instanceof THREE.Line) {
-        
-        // Kök Çakra (174 Hz) ve Tepe Çakra (963 Hz) girişim dalgalarını birleştiriyoruz
-        const anlikAuraGurdusu = Math.abs(kalpDalga174 * 0.45) + Math.abs(Math.sin(saniyeZamani * 963 * Math.PI) * 0.2);
-        
-        // Çizgilerin opaklığını kalbin organik atış ritmine göre dinamik esnetiyoruz
-        child.material.transparent = true;
-        child.material.opacity = 0.25 + anlikAuraGurdusu;
-        
-        // 🔑 Işık kırılması hissi için derinlik testini mühürlüyoruz
-        child.material.depthWrite = false;
-    }
-});
+
 
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
