@@ -16,6 +16,7 @@ window.scene = null;
 window.camera = null;
 window.renderer = null;
 
+
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
 // ============================================================================
@@ -108,32 +109,13 @@ class KuantumPaketi {
 }
 
 
-// metatron.js içinde durum okuma motoru
-/**
- * Metatron odalarındaki anlık frekans ve tıbbi milivolt (mV) durumunu verir.
- * @param {number} anlikOdaIndex - 0 ile 5 arasında akan oda sırası
- * @returns {Object} Sadece frekans, mV akımı ve renk bilgisini taşıyan paket
- */
-function getMetatronFrequencyState(anlikOdaIndex) {
-    // 🩻 6 Odalı Solfej Frekansları ve Akademik Akım Matrisi
-    const ODALAR = [
-        { frekans: "174 Hz", mv: -90, renk: "Kırmızı", akımTipi: "Diyastolik Dinlenme" },
-        { frekans: "285 Hz", mv: -70, renk: "Turuncu", akımTipi: "Uyarılma Eşiği" },
-        { frekans: "396 Hz", mv:  20, renk: "Sarı",    akımTipi: "Hızlı Depolarizasyon" },
-        { frekans: "528 Hz", mv:   0, renk: "Yeşil",   akımTipi: "Kasılma Plato Fazı" },
-        { frekans: "741 Hz", mv: -60, renk: "Mavi",    akımTipi: "Hızlı Repolarizasyon" },
-        { frekans: "852 Hz", mv: -90, renk: "Mor",     akımTipi: "Hiperpolarizasyon" }
-    ];
 
-    // Dizinin taşmasını önleyen güvenli kilit
-    const index = Math.abs(anlikOdaIndex) % ODALAR.length;
-    return ODALAR[index];
-}
-
-
-
-let sonUretimZamani = 0; // Bu değişkeni fonksiyonun dışına, üstüne koy
+// 🎛 3. ŞALTERLER KİLİTLENİYOR
+let sonUretimZamani = 0;
 window.mevcutOdaSirasi = 0;
+
+
+
 /**
  * Milivolt (mV) ve Vagus sinyallerine göre parçacıkları ve Metatron'u günceller.
  * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
@@ -200,6 +182,35 @@ function updateMetatronLoop() {
     // Siyah perdeyi ve her şeyi ekrana çizdir
     window.renderer.render(window.scene, window.camera);
 }
+
+
+
+
+
+// metatron.js içinde durum okuma motoru
+/**
+ * Metatron odalarındaki anlık frekans ve tıbbi milivolt (mV) durumunu verir.
+ * @param {number} anlikOdaIndex - 0 ile 5 arasında akan oda sırası
+ * @returns {Object} Sadece frekans, mV akımı ve renk bilgisini taşıyan paket
+ */
+function getMetatronFrequencyState(anlikOdaIndex) {
+    // 🩻 6 Odalı Solfej Frekansları ve Akademik Akım Matrisi
+    const ODALAR = [
+        { frekans: "174 Hz", mv: -90, renk: "Kırmızı", akımTipi: "Diyastolik Dinlenme" },
+        { frekans: "285 Hz", mv: -70, renk: "Turuncu", akımTipi: "Uyarılma Eşiği" },
+        { frekans: "396 Hz", mv:  20, renk: "Sarı",    akımTipi: "Hızlı Depolarizasyon" },
+        { frekans: "528 Hz", mv:   0, renk: "Yeşil",   akımTipi: "Kasılma Plato Fazı" },
+        { frekans: "741 Hz", mv: -60, renk: "Mavi",    akımTipi: "Hızlı Repolarizasyon" },
+        { frekans: "852 Hz", mv: -90, renk: "Mor",     akımTipi: "Hiperpolarizasyon" }
+    ];
+
+    // Dizinin taşmasını önleyen güvenli kilit
+    const index = Math.abs(anlikOdaIndex) % ODALAR.length;
+    return ODALAR[index];
+}
+
+
+
 
 
 /**
