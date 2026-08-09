@@ -60,14 +60,16 @@ let sonUretimZamani = 0; // Bu değişkeni fonksiyonun dışına, üstüne koy
     //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
     let sonUretimZamani = 0;
 
-function updateMetatronLoop() {
-
+unction updateMetatronLoop() {
     if (!window.scene || !window.camera || !window.renderer) return;
 
     const KuantumKafesi = window.scene.getObjectByName("MERKEZI_METATRON");
     if (!KuantumKafesi) return;
 
     const sabitDelta = 1 / 25; // 25 FPS taban zaman adımı
+
+    // Sayaç henüz başlamadıysa ilk karede 0 olarak mühürle (Undefined Hatasını Önler)
+    if (window.mevcutOdaSirasi === undefined) window.mevcutOdaSirasi = 0;
 
     // 🌊 KESİNTİSİZ ŞELALE AKIŞ MOTORU (Kutuplar Döndüğünde Ters Akabilen Sürüm)
     if (!window.vagusBrakeActive && (performance.now() - sonUretimZamani > 150)) {
@@ -76,30 +78,32 @@ function updateMetatronLoop() {
         // Mavi odada (-60 mV) zamanı ve akış yönünü ters büküyoruz (Kutup Döngüsü)
         let akisYonu = (window.currentMv === -60) ? -1 : 1;
 
-        let kaynakOdaVerisi = RENK_TAYFI_SPEKTRUMU[mevcutOdaSirasi];
-        let sonrakiOdaIndex = (mevcutOdaSirasi + akisYonu + RENK_TAYFI_SPEKTRUMU.length) % RENK_TAYFI_SPEKTRUMU.length;
-        let hedefOdaVerisi = RENK_TAYFI_SPEKTRUMU[sonrakiOdaIndex];
+        // 🔑 PENCERE REFERANSLARI: Aşağıdaki sözlüğe window katmanından ışık hızıyla erişiyoruz
+        let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+        let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
+        let hedefOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[sonrakiOdaIndex];
 
-        let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
-        let hedefMesh = KuantumKafesi.getObjectByName(hedefOdaVerisi.name);
+        if (kaynakOdaVerisi && hedefOdaVerisi) {
+            let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
+            let hedefMesh = KuantumKafesi.getObjectByName(hedefOdaVerisi.name);
 
-        if (kaynakMesh && hedefMesh) {
-            // Şelale parçacığını odanın frekansıyla fırlat
-            let yeniGluon = new KuantumPaketi(kaynakMesh, hedefMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
-            aktifPaketler.push(yeniGluon);
+            if (kaynakMesh &&地形 Mesh) {
+                // Şelale parçacığını odanın frekansıyla fırlat
+                let yeniGluon = new KuantumPaketi(kaynakMesh, hedefMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
+                aktifPaketler.push(yeniGluon);
+            }
+
+            // Global pencereleri besleme
+            window.currentMv = kaynakOdaVerisi.mv * akisYonu;
+            window.currentOdaRengi = kaynakOdaVerisi.renk;
         }
-
-        // Global pencereleri besleme
-        window.currentMv = kaynakOdaVerisi.mv * akisYonu;
-        window.currentOdaRengi = kaynakOdaVerisi.renk;
 
         window.mevcutOdaSirasi = sonrakiOdaIndex;
     }
 
-    // Uçan canlı parçacıkların pürüzsüz yürütülmesi ve RAM temizliği
+    // Uçan canlı parçacıkların pürüzsüz yürütülmesi ve RAM temizliği (Döngü burada yaşıyor)
     for (let i = aktifPaketler.length - 1; i >= 0; i--) {
         aktifPaketler[i].guncelle(sabitDelta);
-
         if (aktifPaketler[i].ilerleme >= 1.0 || window.vagusBrakeActive) {
             aktifPaketler[i].yokEt();
             aktifPaketler.splice(i, 1);
@@ -111,8 +115,7 @@ function updateMetatronLoop() {
 
     // Siyah perdeyi ve her şeyi ekrana çizdir
     window.renderer.render(window.scene, window.camera);
-}
-
+} // 👈 Eksik olan fonksiyon kapatma mühürü çakıldı!
 
 
 /**
