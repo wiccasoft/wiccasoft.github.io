@@ -26,8 +26,6 @@ dunyaOmurgaSelalesi.name = "OMURGA_SELALESI";
 KuantumKafesi.add(dunyaOmurgaSelalesi); 
 
 
-
-
 // metatron.js içinde durum okuma motoru
 /**
  * Metatron odalarındaki anlık frekans ve tıbbi milivolt (mV) durumunu verir.
@@ -490,7 +488,9 @@ function animate() {
     const simdikiTarih = new Date();
     const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
 
-    
+       // 🛠 KROMAZOM KİLİDİ: 25 FPS zaman sınırlamasını ve delta hesaplarını 
+    // doğrudan metatron.js'in ana döngüsüne paslıyoruz
+    updateMetatronLoop();
 
     // 📏 Ekran Boyutu Değiştiğinde Kadrajı Koruyan Dinleyici (Resize Motoru)
     window.addEventListener('resize', () => {
