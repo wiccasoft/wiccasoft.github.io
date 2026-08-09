@@ -79,9 +79,10 @@ function updateMetatronLoop() {
         let akisYonu = (window.currentMv === -60) ? -1 : 1;
 
         // 🔑 PENCERE REFERANSLARI: Aşağıdaki sözlüğe window katmanından ışık hızıyla erişiyoruz
-        let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
-        let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
-        let hedefOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[sonrakiOdaIndex];
+
+
+let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
 
         if (kaynakOdaVerisi && hedefOdaVerisi) {
             let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
