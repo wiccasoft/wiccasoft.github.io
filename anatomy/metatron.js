@@ -486,7 +486,7 @@ const BGR = [7, 4, 1, 5, 8, 2];
 //let aktifIndexB = 0;
 
 // 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
-const RENK_TAYFI_SPEKTRUMU = [
+window.RENK_TAYFI_SPEKTRUMU = [
     { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
     { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
     { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
