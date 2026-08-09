@@ -182,7 +182,19 @@
             iframe.contentWindow.postMessage({ action: "TRIGGER_ACADEMIC_ORACLE" }, "*");
         }
     }
+
+
+
+    // main.html içine eklenecek dinleyici:
+window.addEventListener("message", (event) => {
+    if (event.data.komut === "EKRAN_GUNCELLE") {
+        document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${event.data.mv.toFixed(0)} mV`;
+        document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
+    }
+});
   </script>
+
+
 
 </body>
 </html>
