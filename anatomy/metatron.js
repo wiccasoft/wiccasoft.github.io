@@ -128,7 +128,7 @@ function initMetatronEngine() {
 
     // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
     const aspect = window.innerWidth / window.innerHeight;
-    const d = 1.6; // 🔑 KESİN ÇÖZÜM
+    window.d = 1.6; // 🔑 KESİN ÇÖZÜM
     window.camera = new THREE.OrthographicCamera(- d * aspect, d * aspect, d, - d, 0.1, 1000);
     window.camera.position.set(5, 5, 5);
     window.camera.lookAt(0, 0, 0);
