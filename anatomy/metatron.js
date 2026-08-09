@@ -330,41 +330,42 @@ const spheres = [
     { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true  }, // 🌟 \(\sqrt{2}\) ÇAPRAZ KUTUP (KUZEYBATI)
     { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true  }  // 🌟 \(\sqrt{2}\) ÇAPRAZ TABAN (GÜNEYDOĞU)
 ];
+
+
 // ============================================================================
 // ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME 
 // ============================================================================
+// ============================================================================
+// ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME
+// ============================================================================
 spheres.forEach(s => {
-const particleCount = 1200; // 1 MB altı ultra-hafif gluon şelalesi sayısı
-const particleGeo = new THREE.BufferGeometry();
-
-  const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
-  
-  // Siyah ve Beyaz kutup mili kalıcı parlar, diğer odalar (124875) başlangıçta loş ve saydamdır
-const mat = new THREE.MeshPhongMaterial({
-    color: s.color,
-    emissive: s.color,
-    emissiveIntensity: s.isPole ? 1.0 : 0.3,
-    transparent: true,
-    opacity: s.isPole ? 1.0 : 0.45, 
+    const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
     
-    // 🔑 KESİK GÖRÜNME SORUNUNU ÇÖZEN MATRİS AYARLARI
-    depthWrite: false,   // Kürelerin arkasındaki çizgilerin (Kafes, Tetrahedron) görünmesini sağlar, kesilmeyi bitirir.
-    depthTest: true,     // Nesnelerin derinlik algısını korur.
-    precision: "highp"   // GPU'nun piksel hesaplama hassasiyetini en üst seviyeye çıkarır.
-});
-  
-  const sphere = new THREE.Mesh(geom, mat);
-  sphere.position.copy(s.pos);
-  sphere.name = s.name; 
-  KuantumKafesi.add(sphere);
-});
+    const mat = new THREE.MeshPhongMaterial({
+        color: s.color,
+        emissive: s.color,
+        emissiveIntensity: s.isPole ? 1.0 : 0.3,
+        transparent: true,
+        opacity: s.isPole ? 1.0 : 0.45, 
+        depthWrite: false,   
+        depthTest: true,     
+        precision: "highp"   
+    });
     
+    const sphere = new THREE.Mesh(geom, mat);
+    sphere.position.copy(s.pos);
+    sphere.name = s.name; 
+    KuantumKafesi.add(sphere);
+}); // 👈 Döngü burada pürüzsüzce bitti!
+    
+// 🌊 1200 PARÇACIKLI GERÇEK GLUON OMURGA ŞELALESİ İNŞASI (Yeri düzeltildi, kilitlendi!)
+window.particleCount = 1200; // 🔑 Kapsam dışına çıkartıp window düzeyine bağladık
+window.particleGeo = new THREE.BufferGeometry();
 
+const particlePositions = new Float32Array(window.particleCount * 3);
+const particleColors = new Float32Array(window.particleCount * 3);
 
-const particlePositions = new Float32Array(particleCount * 3);
-const particleColors = new Float32Array(particleCount * 3);
-
-for(let i = 0; i < particleCount * 3; i += 3) {
+for(let i = 0; i < window.particleCount * 3; i += 3) {
     particlePositions[i] = (Math.random() - 0.5) * 0.5;
     particlePositions[i+1] = (Math.random() - 0.5) * 2.0; // Dikey omurga hattı
     particlePositions[i+2] = (Math.random() - 0.5) * 0.5;
@@ -372,8 +373,8 @@ for(let i = 0; i < particleCount * 3; i += 3) {
     particleColors[i] = 1.0; particleColors[i+1] = 1.0; particleColors[i+2] = 1.0;
 }
 
-particleGeo.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
-particleGeo.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
+window.particleGeo.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
+window.particleGeo.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
 
 const particleMat = new THREE.PointsMaterial({
     size: 0.015,
@@ -383,23 +384,18 @@ const particleMat = new THREE.PointsMaterial({
     depthWrite: false
 });
 
-const omurgaSelalesi = new THREE.Points(particleGeo, particleMat);
-omurgaSelalesi.name = "OMURGA_SELALESI"; 
-KuantumKafesi.add(omurgaSelalesi);
+// 🔑 OMURGA_SELALESI Adreslemesini pencere düzeyine çıkartıp mühürlüyoruz
+window.omurgaSelalesi = new THREE.Points(window.particleGeo, particleMat);
+window.omurgaSelalesi.name = "OMURGA_SELALESI"; 
+KuantumKafesi.add(window.omurgaSelalesi);
 
-    
-    // Top view butonu için
+// Top view butonu fonksiyonun
 function setTopView(camera, controls) {
-  // Kamerayı yukarıya sabitle
-  camera.position.set(0, 10, 0); 
-  camera.lookAt(0, 0, 0);
-
-  // Eğer OrbitControls kullanıyorsan:
-  controls.target.set(0, 0, 0);
-  controls.update();
-
+    camera.position.set(0, 10, 0); 
+    camera.lookAt(0, 0, 0);
+    controls.target.set(0, 0, 0);
+    controls.update();
 }
-
 
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
