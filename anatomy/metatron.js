@@ -57,7 +57,7 @@ let sonUretimZamani = 0; // Bu değişkeni fonksiyonun dışına, üstüne koy
  * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
  */
 
-    const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
+    //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
     let sonUretimZamani = 0;
 
 function updateMetatronLoop() {
@@ -526,10 +526,13 @@ function animate() {
 
 window.addEventListener('resize', () => {
     const currentAspect = window.innerWidth / window.innerHeight;
+    
+    // 🔑 KADRAJ ESNEKLİK KİLİDİ: Pencere değiştikçe ortografik sınırları yeniden hesapla
     window.camera.left = - window.d * currentAspect;
     window.camera.right = window.d * currentAspect;
     window.camera.top = window.d;
     window.camera.bottom = - window.d;
+    
     window.camera.updateProjectionMatrix();
     window.renderer.setSize(window.innerWidth, window.innerHeight);
 }, false);
