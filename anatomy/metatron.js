@@ -1,6 +1,6 @@
-// ============================================================================
+// ==================================================================================
 // metatron.js - SAHNE OMURGASI VE MERKEZİ (Salvator Orb / Çekirdek) GEOMETRİ MOTORU
-// ============================================================================
+// ==================================================================================
 //Küp + İç Piramitler + Plus + Tetrahedronlar ("Altın Oranlı Gluon Bölünmesi ve Entropi Kontrolü")
 //Ana sayfada erişmek isteyebileceğimiz global referansları window nesnesine bağlıyoruz
 //metatron.js içindeki o merkez nokta (Salvator Orb / Çekirdek), galaktik merkezden akan enerjiyi pürüzsüz bir dikey hat (True Spine) üzerinden alır.
@@ -20,7 +20,7 @@ window.renderer = null;
 //const dunyaOmurgaSelalesi = new THREE.Points(geometry, material);
 
 // 🔑 İSİM MÜHRÜ: Nesnenin kendisine bu string ismi veriyoruz
-dunyaOmurgaSelalesi.name = "OMURGA_SELALESI"; 
+//dunyaOmurgaSelalesi.name = "OMURGA_SELALESI"; 
 
 // Sahneye değil, senin ana grubuna ekliyorsun:
 //KuantumKafesi.add(dunyaOmurgaSelalesi); 
@@ -145,9 +145,9 @@ function initMetatronEngine() {
     controls.maxPolarAngle = Infinity;
     controls.minAzimuthAngle = -Infinity;
     controls.maxAzimuthAngle = Infinity;
-    window.scene.add(new THREE.AmbientLight(0xffffff));
+    window.scene.add(new THREE.AmbientLight(0xffffff))};
 
-}
+
 
 
     // ============================================================================
@@ -334,6 +334,12 @@ const spheres = [
 // ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME 
 // ============================================================================
 spheres.forEach(s => {
+
+    // Buraya optimize edilmiş particleGeo ve omurgaSelalesi kodlarını ekle
+const particleCount = 1200;
+const particleGeo = new THREE.BufferGeometry();
+// ... (pos/color tanımları ve mühürleme)
+KuantumKafesi.add(omurgaSelalesi); // OMURGA_SELALESI mühürü
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
   
   // Siyah ve Beyaz kutup mili kalıcı parlar, diğer odalar (124875) başlangıçta loş ve saydamdır
@@ -521,7 +527,6 @@ function animate() {
 
    
 }
-
 
 
 
