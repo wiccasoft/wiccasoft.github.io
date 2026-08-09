@@ -17,13 +17,13 @@ window.camera = null;
 window.renderer = null;
 
 // metatron.js içinde, parçacık sistemini kurduğun yer:
-const dunyaOmurgaSelalesi = new THREE.Points(geometry, material);
+//const dunyaOmurgaSelalesi = new THREE.Points(geometry, material);
 
 // 🔑 İSİM MÜHRÜ: Nesnenin kendisine bu string ismi veriyoruz
 dunyaOmurgaSelalesi.name = "OMURGA_SELALESI"; 
 
 // Sahneye değil, senin ana grubuna ekliyorsun:
-KuantumKafesi.add(dunyaOmurgaSelalesi); 
+//KuantumKafesi.add(dunyaOmurgaSelalesi); 
 
 
 // metatron.js içinde durum okuma motoru
@@ -356,10 +356,35 @@ const mat = new THREE.MeshPhongMaterial({
   KuantumKafesi.add(sphere);
 });
     
+// initMetatronEngine() içinde spheres.forEach bittikten hemen sonra (Satır 270 civarı):
+const particleCount = 1200; // 1 MB altı ultra-hafif gluon şelalesi sayısı
+const particleGeo = new THREE.BufferGeometry();
+const particlePositions = new Float32Array(particleCount * 3);
+const particleColors = new Float32Array(particleCount * 3);
+
+for(let i = 0; i < particleCount * 3; i += 3) {
+    particlePositions[i] = (Math.random() - 0.5) * 0.5;
+    particlePositions[i+1] = (Math.random() - 0.5) * 2.0; // Dikey omurga hattı
+    particlePositions[i+2] = (Math.random() - 0.5) * 0.5;
+    
+    particleColors[i] = 1.0; particleColors[i+1] = 1.0; particleColors[i+2] = 1.0;
+}
+
+particleGeo.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
+particleGeo.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
+
+const particleMat = new THREE.PointsMaterial({
+    size: 0.015,
+    vertexColors: true,
+    transparent: true,
+    opacity: 0.75,
+    depthWrite: false
+});
+
+const omurgaSelalesi = new THREE.Points(particleGeo, particleMat);
+omurgaSelalesi.name = "OMURGA_SELALESI"; // 🔑 İSİM MÜHRÜ BURADA ÇAKILDI
+KuantumKafesi.add(omurgaSelalesi);
     // ... [Orijinal Metatron Geometrileriniz ve Parçacıklarınız] ...
-
-
-
 
     
     // Top view butonu için
@@ -503,10 +528,7 @@ function animate() {
  // 📏 Ekran Boyutu Değiştiğinde Kadrajı Koruyan Dinleyici (Resize Motoru)
     window.addEventListener('resize', () => {
         const currentAspect = window.innerWidth / window.innerHeight;
-        window.camera.left = -d * currentAspect;
-        window.camera.right = d * currentAspect;
-        window.camera.top = d;
-        window.camera.bottom = -d;
+    
         window.camera.updateProjectionMatrix();
         window.renderer.setSize(window.innerWidth, window.innerHeight);
     }, false);
