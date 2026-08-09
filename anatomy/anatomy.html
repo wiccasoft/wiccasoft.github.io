@@ -44,6 +44,18 @@
         }
     }
     animate();
+
+
+    // anatomy.html (veya bio-engine.js) içinde worker mesaj alıcısının sonuna ekleyin:
+window.parent.postMessage({
+    komut: "EKRAN_GUNCELLE",
+    bpm: data.kalp.bpm,
+    mv: data.kalp.mv,
+    mod: data.sistemModu
+}, "*");
+
+
 </script>
 </body>
+
 </html>
