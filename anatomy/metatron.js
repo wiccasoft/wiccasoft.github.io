@@ -51,7 +51,7 @@ function getMetatronFrequencyState(anlikOdaIndex) {
 
 
 let sonUretimZamani = 0; // Bu değişkeni fonksiyonun dışına, üstüne koy
-
+window.mevcutOdaSirasi = 0;
 /**
  * Milivolt (mV) ve Vagus sinyallerine göre parçacıkları ve Metatron'u günceller.
  * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
