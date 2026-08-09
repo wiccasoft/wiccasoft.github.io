@@ -1,65 +1,65 @@
-// ============================================================================
-// metatron.js - SAHNE OMURGASI VE MERKEZİ GEOMETRİ MOTORU
-// ============================================================================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Siber-Biyolojik Kardiyak Elektrofizyoloji Simülatörü</title>
+    <style>
+        html, body { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #000; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
 
-// Ana sayfada erişmek isteyebileceğimiz global referansları window nesnesine bağlıyoruz
-window.scene = null;
-window.camera = null;
-window.renderer = null;
+<script src="./three.min.js"></script>
+<script src="./OrbitControls.js"></script>
+<script src="./metatron.js"></script>
 
-/**
- * Tüm Three.js ekosistemini (Sahne, Kamera, Renderer, Kontroller ve Metatron) sıfırdan kurar.
- */
-function initMetatronEngine() {
-    // 1. Ana Sahne ve Grup Kurulumu
-    window.scene = new THREE.Scene(); 
-    const KuantumKafesi = new THREE.Group(); 
-    KuantumKafesi.name = "MERKEZI_METATRON";
+<script>
 
-    // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
-    KuantumKafesi.rotation.y = Math.PI / 2; 
-    KuantumKafesi.position.y = 0.0;
-    KuantumKafesi.position.x = 0.0;
-    KuantumKafesi.scale.set(1.3, 1.3, 1.3);
-    window.scene.add(KuantumKafesi);
+// 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER
+        window.currentMv = -90.0;
+        window.currentOdaRengi = "Kırmızı";
+        window.vagusBrakeActive = false;
+        const biyoWorker = new Worker('neural-worker.js');
 
-    // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
-    const aspect = window.innerWidth / window.innerHeight;
-    const d = 1.6; // 🔑 KESİN ÇÖZÜM
-    window.camera = new THREE.OrthographicCamera(- d * aspect, d * aspect, d, - d, 0.1, 1000);
-    window.camera.position.set(5, 5, 5);
-    window.camera.lookAt(0, 0, 0);
+        // 📡 2. VERİ HATTINI İÇERİYE ALARAK "data is not defined" HATASI ÇÖZÜLDÜ
+        biyoWorker.onmessage = function(e) {
+            if (e.data.komut === "BİYOLOJİK_TELEMETRİ") {
+                const data = e.data;
+                window.currentMv = data.kalp.mv;
+                window.currentOdaRengi = data.kalp.renk;
+                window.vagusBrakeActive = data.vagusEffort >= 0.8;
 
-    // 🖥️ Renderer ve Siyah Perde Kilidi
-    window.renderer = new THREE.WebGLRenderer({ antialias: true });
-    window.renderer.setSize(window.innerWidth, window.innerHeight);
-    document.body.appendChild(window.renderer.domElement);
-    window.renderer.setClearColor(0x000000, 1);
+                // 📯 ÜST PENCEREYE MESAJ KÖPRÜSÜ
+                window.parent.postMessage({
+                    komut: "EKRAN_GUNCELLE",
+                    bpm: data.kalp.bpm,
+                    mv: data.kalp.mv,
+                    mod: data.sistemModu
+                }, "*");
+            }
+        };
 
-    // Kontroller ve Işıklar
-    const controls = new THREE.OrbitControls(window.camera, window.renderer.domElement);
-    controls.minPolarAngle = -Infinity;
-    controls.maxPolarAngle = Infinity;
-    controls.minAzimuthAngle = -Infinity;
-    controls.maxAzimuthAngle = Infinity;
-    window.scene.add(new THREE.AmbientLight(0xffffff));
+        // 🔄 3. ÇİZİM DÖNGÜSÜ (Parçacık Manipülasyonu)
+  // anatomy.html içindeki animate() döngüsü:
+function animate() {
+    requestAnimationFrame(animate);
 
-    // ============================================================================
-    // 🧬 GEOMETRİK İNŞA VE DOUBLE VORTEX ÇEKİRDEK KODLARINIZ (Akslar, Köşeler, Faces)
-    // ============================================================================
-    // 600 satırlık element aksları, corners, faces.forEach döngüsü ve 200 satırlık girdap motorunuz
-    // KuantumKafesi grubuna eklenecek şekilde burada yaşayacak.
-    
-    // ... [Orijinal Metatron Geometrileriniz ve Parçacıklarınız] ...
-
-    // 📏 Ekran Boyutu Değiştiğinde Kadrajı Koruyan Dinleyici (Resize Motoru)
-    window.addEventListener('resize', () => {
-        const currentAspect = window.innerWidth / window.innerHeight;
-        window.camera.left = -d * currentAspect;
-        window.camera.right = d * currentAspect;
-        window.camera.top = d;
-        window.camera.bottom = -d;
-        window.camera.updateProjectionMatrix();
-        window.renderer.setSize(window.innerWidth, window.innerHeight);
-    }, false);
+    if (window.scene && window.camera && window.renderer) {
+        // Sahne üzerinden ismiyle yerel olarak yakalıyoruz (Globale gerek kalmadan)
+        const dunyaOmurgaSelalesi = window.scene.getObjectByName("OMURGA_SELALESI");
+        
+        if (dunyaOmurgaSelalesi) {
+            // Sinyallere (mV) göre parçacıkları dalgalandırma kodların...
+        }
+    }
 }
+
+        // 🪐 4. MOTORU TEK KEZ BAŞLAT
+        window.addEventListener('DOMContentLoaded', () => {
+            initMetatronEngine(); 
+            animate();
+        });
+    </script>
+</body>
+</html>
