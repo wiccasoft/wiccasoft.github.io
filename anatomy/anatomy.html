@@ -31,26 +31,66 @@
             // Gösterge paneli güncellemelerini de buraya yazabilirsiniz...
         }
     };
+// 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER
+        window.currentMv = -90.0;
+        window.currentOdaRengi = "Kırmızı";
+        window.vagusBrakeActive = false;
+        const biyoWorker = new Worker('neural-worker.js');
 
-    // 🔄 4. O HAFİF VE PÜRÜZSÜZ ÇİZİM DÖNGÜSÜ
-    function animate() {
-        requestAnimationFrame(animate);
+        // 📡 2. VERİ HATTINI İÇERİYE ALARAK "data is not defined" HATASI ÇÖZÜLDÜ
+        biyoWorker.onmessage = function(e) {
+            if (e.data.komut === "BİYOLOJİK_TELEMETRİ") {
+                const data = e.data;
+                window.currentMv = data.kalp.mv;
+                window.currentOdaRengi = data.kalp.renk;
+                window.vagusBrakeActive = data.vagusEffort >= 0.8;
 
-        // metatron.js içinden window nesnesine pasladığımız sahneleri çiziyoruz
-        if (window.scene && window.camera && window.renderer) {
-            
-            // ... [mV verisine göre parçacık şelalenizin dalgalanma veya dikey çizgiye kilitlenme kodları] ...
+                // 📯 ÜST PENCEREYE MESAJ KÖPRÜSÜ
+                window.parent.postMessage({
+                    komut: "EKRAN_GUNCELLE",
+                    bpm: data.kalp.bpm,
+                    mv: data.kalp.mv,
+                    mod: data.sistemModu
+                }, "*");
+            }
+        };
 
-            window.renderer.render(window.scene, window.camera);
+        // 🔄 3. ÇİZİM DÖNGÜSÜ (Parçacık Manipülasyonu)
+        function animate() {
+            requestAnimationFrame(animate);
+            if (window.scene && window.camera && window.renderer) {
+                const dunyaOmurgaSelalesi = window.scene.getObjectByName("OMURGA_SELALESI");
+                if (dunyaOmurgaSelalesi) {
+                    const positions = dunyaOmurgaSelalesi.geometry.attributes.position.array;
+                    const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
+                    const zaman = performance.now() * 0.001;
+
+                    // ⚡ mV bazlı dinamik parçacık hareketi
+                    let sacilimGucu = Math.max(0.1, (window.currentMv + 90) * 0.02);
+                    for (let i = 0; i < positions.length; i += 3) {
+                        let id = i / 3;
+                        let sin = Math.sin(zaman * 6 + id * 0.1);
+                        positions[i] += sin * 0.01 * sacilimGucu;
+                        positions[i + 2] += Math.cos(zaman * 6 + id * 0.1) * 0.01 * sacilimGucu;
+                        positions[i + 1] -= 0.005; 
+                        if (positions[i + 1] < -1.0) positions[i + 1] = 1.0;
+                        // Renk eşleştirmeleri...
+                    }
+                    dunyaOmurgaSelalesi.geometry.attributes.position.needsUpdate = true;
+                    dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
+                }
+                window.renderer.render(window.scene, window.camera);
+            }
         }
-    }
-    animate();
 
-// anatomy.html script alanı içinde
-window.addEventListener('DOMContentLoaded', () => {
-    // metatron.js içindeki devasa sahne kurucuyu ateşliyoruz
-    initMetatronEngine(); 
-});
+        // 🪐 4. MOTORU TEK KEZ BAŞLAT
+        window.addEventListener('DOMContentLoaded', () => {
+            initMetatronEngine(); 
+            animate();
+        });
+    </script>
+</body>
+</html>
 
 
     // anatomy.html (veya bio-engine.js) içinde worker mesaj alıcısının sonuna ekleyin:
