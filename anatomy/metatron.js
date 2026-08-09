@@ -56,7 +56,12 @@ let sonUretimZamani = 0; // Bu değişkeni fonksiyonun dışına, üstüne koy
  * Milivolt (mV) ve Vagus sinyallerine göre parçacıkları ve Metatron'u günceller.
  * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
  */
+
+    const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
+    let sonUretimZamani = 0;
+
 function updateMetatronLoop() {
+
     if (!window.scene || !window.camera || !window.renderer) return;
 
     const KuantumKafesi = window.scene.getObjectByName("MERKEZI_METATRON");
@@ -519,12 +524,12 @@ function animate() {
    
 }
 
-
-
- // 📏 Ekran Boyutu Değiştiğinde Kadrajı Koruyan Dinleyici (Resize Motoru)
-    window.addEventListener('resize', () => {
-        const currentAspect = window.innerWidth / window.innerHeight;
-    
-        window.camera.updateProjectionMatrix();
-        window.renderer.setSize(window.innerWidth, window.innerHeight);
-    }, false);
+window.addEventListener('resize', () => {
+    const currentAspect = window.innerWidth / window.innerHeight;
+    window.camera.left = - window.d * currentAspect;
+    window.camera.right = window.d * currentAspect;
+    window.camera.top = window.d;
+    window.camera.bottom = - window.d;
+    window.camera.updateProjectionMatrix();
+    window.renderer.setSize(window.innerWidth, window.innerHeight);
+}, false);
