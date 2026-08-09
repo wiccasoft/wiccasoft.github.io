@@ -334,10 +334,10 @@ const spheres = [
 // ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME 
 // ============================================================================
 spheres.forEach(s => {
-const particleCount = 1200;
+const particleCount = 1200; // 1 MB altı ultra-hafif gluon şelalesi sayısı
 const particleGeo = new THREE.BufferGeometry();
-
-KuantumKafesi.add(omurgaSelalesi); // OMURGA_SELALESI mühürü
+omurgaSelalesi.name = "OMURGA_SELALESI"; // 🔑 İSİM MÜHRÜ BURADA ÇAKILDI
+KuantumKafesi.add(omurgaSelalesi);
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
   
   // Siyah ve Beyaz kutup mili kalıcı parlar, diğer odalar (124875) başlangıçta loş ve saydamdır
