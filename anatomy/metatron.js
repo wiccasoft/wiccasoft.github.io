@@ -4,7 +4,8 @@
 //Küp + İç Piramitler + Plus + Tetrahedronlar
 // Ana sayfada erişmek isteyebileceğimiz global referansları window nesnesine bağlıyoruz
 //metatron.js içindeki o merkez nokta (Salvator Orb / Çekirdek), galaktik merkezden akan enerjiyi pürüzsüz bir dikey hat (True Spine) üzerinden alır.
-//Enerji durağan kalamayacağı için dönmeye başlar ve dışa doğru bir Torus (Double Vortex) alanı yaratır. İşte o dönen alan, senin saniyede 6 kez turlayan 6 odalı renk tayfını ve akademinin bildiği o milivolt dalgalanmalarını doğuran ana jeneratördür
+//Enerji durağan kalamayacağı için dönmeye başlar ve dışa doğru bir Torus (Double Vortex) alanı yaratır.
+//İşte o dönen alan, senin saniyede 6 kez turlayan 6 odalı renk tayfını ve akademinin bildiği o milivolt dalgalanmalarını doğuran ana jeneratördür
 
 window.scene = null;
 window.camera = null;
@@ -143,7 +144,7 @@ function initMetatronEngine() {
 
 
 
-    
+
     // ============================================================================
     // 🧬 GEOMETRİK İNŞA VE DOUBLE VORTEX ÇEKİRDEK KODLARINIZ (Akslar, Köşeler, Faces)
     // ============================================================================
