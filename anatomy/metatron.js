@@ -336,8 +336,7 @@ const spheres = [
 spheres.forEach(s => {
 const particleCount = 1200; // 1 MB altı ultra-hafif gluon şelalesi sayısı
 const particleGeo = new THREE.BufferGeometry();
-omurgaSelalesi.name = "OMURGA_SELALESI"; // 🔑 İSİM MÜHRÜ BURADA ÇAKILDI
-KuantumKafesi.add(omurgaSelalesi);
+
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
   
   // Siyah ve Beyaz kutup mili kalıcı parlar, diğer odalar (124875) başlangıçta loş ve saydamdır
@@ -360,9 +359,8 @@ const mat = new THREE.MeshPhongMaterial({
   KuantumKafesi.add(sphere);
 });
     
-// initMetatronEngine() içinde spheres.forEach bittikten hemen sonra (Satır 270 civarı):
-const particleCount = 1200; // 1 MB altı ultra-hafif gluon şelalesi sayısı
-const particleGeo = new THREE.BufferGeometry();
+
+
 const particlePositions = new Float32Array(particleCount * 3);
 const particleColors = new Float32Array(particleCount * 3);
 
@@ -386,9 +384,8 @@ const particleMat = new THREE.PointsMaterial({
 });
 
 const omurgaSelalesi = new THREE.Points(particleGeo, particleMat);
-omurgaSelalesi.name = "OMURGA_SELALESI"; // 🔑 İSİM MÜHRÜ BURADA ÇAKILDI
+omurgaSelalesi.name = "OMURGA_SELALESI"; 
 KuantumKafesi.add(omurgaSelalesi);
-    // ... [Orijinal Metatron Geometrileriniz ve Parçacıklarınız] ...
 
     
     // Top view butonu için
