@@ -93,7 +93,7 @@ function updateMetatronLoop() {
         window.currentMv = kaynakOdaVerisi.mv * akisYonu;
         window.currentOdaRengi = kaynakOdaVerisi.renk;
 
-        mevcutOdaSirasi = sonrakiOdaIndex;
+        window.mevcutOdaSirasi = sonrakiOdaIndex;
     }
 
     // Uçan canlı parçacıkların pürüzsüz yürütülmesi ve RAM temizliği
@@ -471,7 +471,7 @@ class KuantumPaketi {
 
 let aktifPaketler = []; // Sahne üzerinde canlı uçan gluon parçacıkları dizisi
 let paketSayaci = 0;    // Her parçacığa verilecek benzersiz seri numarası
-let mevcutOdaSirasi = 0; // 0'dan 5'e kadar sırayla dönen pürüzsüz oda sayacı
+//let mevcutOdaSirasi = 0; // 0'dan 5'e kadar sırayla dönen pürüzsüz oda sayacı
 
 const colorspectrum =[1,2,4,8,7,5];
 
