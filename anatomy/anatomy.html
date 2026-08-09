@@ -45,6 +45,12 @@
     }
     animate();
 
+// anatomy.html script alanı içinde
+window.addEventListener('DOMContentLoaded', () => {
+    // metatron.js içindeki devasa sahne kurucuyu ateşliyoruz
+    initMetatronEngine(); 
+});
+
 
     // anatomy.html (veya bio-engine.js) içinde worker mesaj alıcısının sonuna ekleyin:
 window.parent.postMessage({
