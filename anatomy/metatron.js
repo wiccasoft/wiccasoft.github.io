@@ -374,66 +374,6 @@ function setTopView(camera, controls) {
 
 }
 
-// ============================================================================
-// DOBLE VORTEX DATA SET
-// ============================================================================
-// ALTIN ORANLI ULTRA-HAFIF PARÇACIK MOTORU (0% CPU YÜKÜ)
-// ============================================================================
-// 💡 AÇIKLAMA: Hiçbir karmaşık Math fonksiyonu yok! (Sarı odada 1.618 ile çarpılıyor, Mavi odada 0.618 ile çarpılıyor)
-// İvmelenme ve sönümlenme tamamen Altın Oran sabiti (1.618) ile doğrusal çarpan olarak işler.
-// hücre zarından iyonlar (Sodyum) geçerken, doğanın evrensel uyum sabiti olan Altın Oran (\(\Phi \)) katsayısıyla ivmelenerek içeri hücum eder; 
-// Potasyum odasında ise Altın Oranın tersi oranında (\(0.618\)) pürüzsüzce sönümlenir
-class KuantumPaketi {
-    constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi) {
-        this.kaynak = kaynakMesh;
-        this.hedef = hedefMesh;
-        this.ilerleme = 0.0;
-        this.KuantumKafesi = KuantumKafesi;
-
-        // Frekans değerini sayıya çevirip taban hızı belirliyoruz (Örn: 528 Hz)
-        let safFrekans = parseFloat(frekansDegeri);
-        this.tabanHiz = safFrekans * 0.0012; 
-
-        // 🧠 ALTIN ORAN İVMELENME ŞALTERİ (0 KB Ekstra Yük!)
-        // Sarı Oda (Depolarizasyon/Patlama Fazı) -> Enerji Altın Oranla katlanır, ivmelenir!
-        // Mavi Oda (Repolarizasyon/Gevşeme Fazı) -> Enerji Altın Oran tersiyle (0.618) sönümlenir!
-        this.phiMultiplier = 1.0;
-        if (window.currentOdaRengi === "Sarı") {
-            this.phiMultiplier = 1.6180339887; // Phi (Genleşme / İvme)
-        } else if (window.currentOdaRengi === "Mavi") {
-            this.phiMultiplier = 0.6180339887; // 1/Phi (Daralma / Fren)
-        }
-
-        // Parçacık geometrisini en hafif yapıda kuruyoruz
-        const pGeom = new THREE.SphereGeometry(0.02, 4, 4); 
-        const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.9 });
-        this.mesh = new THREE.Mesh(pGeom, pMat);
-        
-        this.mesh.position.copy(this.kaynak.position);
-        this.KuantumKafesi.add(this.mesh);
-    }
-
-    guncelle(delta) {
-        if (window.vagusBrakeActive) {
-            this.ilerleme = 1.0; // Vagus basıldığı an parçacık anında can hattına çöker ve silinir
-            return;
-        }
-
-        // ⚡ SAF DOĞRUSAL HAREKET: 
-        // Hız katsayısı odanın frekansı ile Altın Oran çarpanının evliliğidir. CPU hiç yorulmaz!
-        this.ilerleme += delta * this.tabanHiz * this.phiMultiplier;
-        let p = Math.min(this.ilerleme, 1.0);
-
-        // Kaynaktan hedefe pürüzsüz doğrusal (linear) interpolasyon
-        this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, p);
-    }
-
-    yokEt() {
-        this.KuantumKafesi.remove(this.mesh);
-        this.mesh.geometry.dispose();
-        this.mesh.material.dispose();
-    }
-}
 
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
