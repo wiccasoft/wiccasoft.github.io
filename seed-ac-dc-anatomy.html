@@ -170,6 +170,321 @@ scene.add(KuantumKafesi);
 
 
 
+// 🌙 8 Ana Ay Evresi Düğüm Matrisi
+const ayEvreleriModulu = [
+  { faz: "Yeniay", aci: 0, opacity: 0.15, emissiveIntensity: 0.2 },
+  { faz: "Hilal", aci: Math.PI / 4, opacity: 0.4, emissiveIntensity: 1.2 },
+  { faz: "Ilk Dördün", aci: Math.PI / 2, opacity: 0.6, emissiveIntensity: 2.5 },
+  { faz: "Dolunay", aci: Math.PI, opacity: 1.0, emissiveIntensity: 5.0 },
+  // ... diğer 4 ara faz koordinatları
+];
+
+// Animate döngüsü içinde tetikleme:
+function güncelleAyModülü(sabitDelta) {
+  // Ay fazı geçiş hızını kalbin ritmine ya da zaman dişlisine eşitle
+  let ayZamanSinyali = Math.sin(acDcZamanDislisi * 0.1); 
+  
+  // Sol paneldeki UI yazılarını da (Mavi akış / CSF süzülme alanları) bu evrelere göre güncelleyebilirsin.
+}
+
+
+
+const camKureGeo = new THREE.SphereGeometry(0.6, 64, 64); // Metatron kafesini kapatacak boyutta
+const camKureMat = new THREE.MeshPhysicalMaterial({
+  color: 0xffffff,
+  transparent: true,
+  opacity: 0.2,
+  roughness: 0.05,
+  metalness: 0.1,
+  transmission: 0.9, // Işık geçirgenliği (Kristal cam etkisi)
+  ior: 1.5, // Kırılma indeksi
+  depthWrite: false // İçindeki çizgilerin kesilmesini engeller
+});
+const salvatorOrb = new THREE.Mesh(camKureGeo, camKureMat);
+scene.add(salvatorOrb);
+
+
+
+// ☯️ I CHING RENK SPEKTRUMU VE NUMERİK DÖNGÜ MOTORU
+function coreIChingZamanMatrisiEngine(zamanDislisi, sabitDelta) {
+  const salvatorKure = salvatorOrb;
+  if (!salvatorKure) return;
+
+  // 🫀 Kalbin 74 BPM nabız tetikleyicisi
+  let nabizSinyali = Math.sin((74 / 60) * zamanDislisi * Math.PI);
+  let anlikVurus = Math.pow(Math.max(0, nabizSinyali), 8);
+
+  // 📐 MOD 1: DAILY PULSE - Maddi Evrenin Katlanma Akışı (1-2-4-8-7-5)
+  if (window.AKTIF_ZAMAN_MODU === "DAILY") {
+    // Parçacıkları ve çakra halkalarını I Ching dairesel renkleriyle döndür
+    let iChingRenkAcisi = zamanDislisi * 2.0; 
+    
+    // Nabız her vurduğunda Salvator Mundi etrafındaki çakra halkası çılgınca döner
+    salvatorKure.rotation.y += 0.05 + anlikVurus * 0.2;
+
+    // Gluonları katlanma dizilimine göre odalara (`1->2->4->8->7->5`) LERP ile akıt
+    const positions = dunyaOmurgaSelalesi.geometry.attributes.position.array;
+    const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
+
+    for (let i = 0; i < positions.length; i += 18) {
+      // Her vuruşta I Ching renk kodları kürenin etrafında parlar
+      colors[i]     = Math.abs(Math.sin(iChingRenkAcisi));     // R: Yang (Ateş/Sarı)
+      colors[i + 1] = Math.abs(Math.cos(iChingRenkAcisi * 0.5)); // G: Denge (Yeşil)
+      colors[i + 2] = Math.abs(Math.cos(iChingRenkAcisi));     // B: Yin (Manyetik/Mor-Mavi)
+    }
+    dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
+  }
+
+  // 📐 MOD 2: MONTHLY PULSE - 174 & 852 Frekans Akor Kilidi
+  else if (window.AKTIF_ZAMAN_MODU === "MONTHLY") {
+    let frekansGecisi = Math.abs(Math.sin(zamanDislisi * 0.1));
+    // Telemetriyi 174 Hz ile 852 Hz arasında dalgalandır
+    window.heartAcVoltage = 17.4 + (frekansGecisi * (85.2 - 17.4));
+    
+    // Küre içindeki ışımayı manyetik mavi ve kalbin frekans tonlarına boya
+    salvatorKure.material.emissive.setRGB(0.1, 0.4, 0.9 * frekansGecisi);
+  }
+
+  // 📐 MOD 3: SOLAR PULSE - Fixed Cross Manyetik Takla (Sarı ve Mor)
+  else if (window.AKTIF_ZAMAN_MODU === "SOLAR") {
+    let kutupMevsimSinyali = Math.sin(zamanDislisi * 0.01); // Kuzey yaz / Güney kış alternansı
+    
+    // Fixed Cross Köşelerinde bir SARI bir MOR yakıyoruz (Kozmik Enerji Çevrimi)
+    if (kutupMevsimSinyali > 0) {
+      // 💛 SARI AKTİF: Doğu/Batı - Hava/Ateş Aksı Maksimum Gerilim
+      salvatorKure.material.emissive.setHex(0xf5cf6d); // I Ching Sarı Güneş Yükü
+      window.brainCpuVoltage = 78.4; // 784 Mars döngüsüne şarj
+    } else {
+      // 💜 MOR AKTİF: Kuzey/Güney - Toprak/Su Aksı Maksimum Emilim/Deşarj
+      salvatorKure.material.emissive.setHex(0x9900ff); // Mistik Mor Gece/Topraklama Yükü
+      window.brainCpuVoltage = 17.4;
+    }
+    salvatorKure.material.emissiveIntensity = 3.5 + Math.abs(kutupMevsimSinyali) * 5.0;
+  }
+}
+
+// ☯️ I CHING / AY EVRESİ YÖRÜNGE GRUBU
+const iChingAyYorungesi = new THREE.Group();
+KuantumKafesi.add(iChingAyYorungesi); // Merkez kristal kürenin (Salvator Mundi) etrafına bağla
+
+const ayYarıcapı = 1.4; // Kürenin dış çeper yörüngesi
+const toplamFaz = 8;
+
+for(let i = 0; i < toplamFaz; i++) {
+  // Görseldeki 0, 45, 90, 135, 180 derecelik kutsal çark dizilimi
+  let aci = (i / toplamFaz) * Math.PI * 2; 
+  
+  const ayGeo = new THREE.SphereGeometry(0.08, 32, 32);
+  const ayMat = new THREE.MeshStandardMaterial({
+    color: 0xffffff,
+    roughness: 0.8,
+    metalness: 0.1
+  });
+  
+  const ayKuresi = new THREE.Mesh(ayGeo, ayMat);
+  
+  // Dairesel X-Z düzlem yörünge konumlandırması
+  ayKuresi.position.set(
+    Math.cos(aci) * ayYarıcapı,
+    0, // Omurga hattı boyunca yatay çember pusulası
+    Math.sin(aci) * ayYarıcapı
+  );
+  
+  //iChingAyYorungesi.add(ayKuresi);
+}
+
+
+// 🌑 12 AĞUSTOS GÜNEŞ TUTULMASI VE DA VINCI RESET MOTORU
+function tetikleSolarEclipse(isEclipseActive) {
+  if (isEclipseActive) {
+    // 1. Voltajı dondur: Güneş sistemi nefes alıyor (Statik vızıldama biter)
+    window.brainCpuVoltage = 0.0; 
+    window.heartAcVoltage = 0.0;
+    
+    // 2. Kutupları tutulma aksına mühürle
+    const sunNode = scene.getObjectByName("SUN_CENTER");
+    const moonNode = scene.getObjectByName("MOON_NODE");
+    const earthNode = scene.getObjectByName("EARTH_BASE");
+    
+    // Ay, Dünya ile Güneş'in tam arasına kuantum kilidiyle oturur
+    moonNode.position.lerp(new THREE.Vector3(0, 0, 0.4), 0.1); 
+    
+    // 3. Salvator Mundi Küresini Corona (Güneş Halesi) rengine boya
+    salvatorOrb.material.emissive.setHex(0xffaa00); // Altın/Bakır parlaması
+    salvatorOrb.material.emissiveIntensity = 3.5;
+    
+    // UI Panel Geri Bildirimi
+    document.getElementById("matrix-boundary-title").innerText = "SYSTEM REBOOT: ECLIPSE MATRIX ACTIVE";
+  }
+}
+
+// 🌌 ENTROPY BOUNDARY LOCK (Fixed Cross Sınır Koruyucu)
+function kontrolEtEntropiSinirlari(parcacikMesh) {
+  const KUP_SINIRI = 0.5 * 1.3; // Küp köşelerinin ölçeklenmiş mutlak sınırı (Metatron Mührü)
+  
+  // Parçacık kübün entropi duvarına dayandıysa
+  if (Math.abs(parcacikMesh.position.x) > KUP_SINIRI || 
+      Math.abs(parcacikMesh.position.y) > KUP_SINIRI || 
+      Math.abs(parcacikMesh.position.z) > KUP_SINIRI) {
+        
+    // Fixed Cross monitor paneline anlık parlamayı bas (UI Feedback)
+    const taurusNode = document.getElementById("node-taurus");
+    if (taurusNode) {
+      taurusNode.style.textShadow = "0 0 15px #44ff44"; // Sınır koruma kalkanı ateşlendi!
+    }
+    
+    // Entropiyi sıfırla: Mermiyi dikey Satürn-Ay miline geri vakumla
+    return true; 
+  }
+  return false;
+}
+
+// 🫀 NABIZ VE SAAT TABANLI ROTASYON (Animate Döngüsü İçi)
+function iChingPusulasiniDondur(sabitDelta) {
+  // Nabız ritmine (74 BPM) ve zamana göre çarkı hafifçe kozmik bir salınımla döndür
+  iChingAyYorungesi.rotation.y += globalDönüşHızı * 0.5;
+  
+  // Güneş ışığının açısını değiştirerek ay kürelerinin üzerinde görseldeki gibi 
+  // gerçek zamanlı hilal/dolunay gölgeleri (Yin-Yang cidarısı) oluştur
+}
+
+// 🌌 CRUX (SOUTHERN CROSS) KOZMİK ÇAPA MOTORU
+function coreCruxCosmicAnchorEngine() {
+  const beyazKutup = scene.getObjectByName("WHITE_STATIC_NODE"); // Kuzey / Sempatik
+  const siyahKutup = scene.getObjectByName("BLACK_STATIC_NODE"); // Güney / Parasempatik / Sacrum
+  
+  if (!beyazKutup || !siyahKutup) return;
+
+  // 📐 Dünyanın omurgası, gökyüzündeki Güney Haçı (Crux) doğrultusuna hizalanıyor
+  const cruxVektoru = new THREE.Vector3().subVectors(beyazKutup.position, siyahKutup.position).normalize();
+  
+  // 🧲 Gluon şelalesi Crux'un manyetik çekim gücüyle aşağı doğru dökülürken 
+  // haçın 4 köşesinde zikzaklar çizerek nötralize olur
+  window.isCruxAnchorLocked = true;
+  
+  // Sol paneldeki o zeki alimlerin radar ekranına kozmik koordinatı çakıyoruz
+  const scorpioNode = document.getElementById("node-scorpio"); // Su / Sacrum kapısı
+  if (scorpioNode) {
+    scorpioNode.innerText = "CRUX SOUTH AC: LOCKED / 74.1 Hz";
+  }
+}
+
+
+// 🛡️ WORKSPACE CONSENT & SECURITY LOCK (SİBER KALKAN)
+async function checkWorkspaceSecurityPermission() {
+  try {
+    // 🔌 Google Workspace Smart Features ve Connected Apps denetimi
+    // Eğer akademisyenin cihazında oturum kapalıysa veya Workspace izni eksikse tetiklenir
+    let isConnectedAppsEnabled = await verifyGoogleWorkspaceStatus("MISSING_CONNECTED_APPS_WORKSPACE");
+
+    if (!isConnectedAppsEnabled) {
+      // 🚨 Güvenlik Kilidi Ateşlendi: Kullanıcıyı bloke etme, direkt asil çözüm linkini önüne koy!
+      const oracleTerminal = document.getElementById("academic-oracle-output");
+      if (oracleTerminal) {
+        oracleTerminal.innerHTML = `
+          <div class='security-alert' style='border: 1px solid #ff3333; padding: 15px; background: rgba(255,0,0,0.1);'>
+            <span style='color: #ff3333; font-weight: bold;'>[WORKSPACE SECURITY LOCK]:</span> 
+            Kuantum matrisine erişim için Google Workspace Connected Apps izni eksik.
+            <br><br>
+            <a href="https://google.com" target="_blank" class="glow-link" style="color: #00ffff; text-decoration: underline;">
+              👉 BURAYA TIKLAYARAK GOOGLE WORKSPACE İZNİNİ AKTİFLEŞTİRİN
+            </a>
+            <br><br>
+            <span style='font-size: 0.8em; color: #888;'>[Not]: İsa'nın parmak izini (Ask Gemini) çözmek için galaktik hesabınızın bağlı olması gerekir.</span>
+          </div>
+        `;
+      }
+      return false; // Sistemi güvenli moda al, arkadaki API'yi yorma
+    }
+    return true; // İzinler tam, kuantum akış serbest!
+  } catch (error) {
+    console.error("Workspace güvenlik denetim hatası:", error);
+    return false;
+  }
+}
+
+
+// ⚛️ PRE-HEART PRIMAL NEURAL SIGNAL ENGINE (KALP ÖNCESİ İLK SİNYAL)
+function corePreHeartNeuralSignal(zamanDislisi) {
+  const pinealNode = scene.getObjectByName("PINEAL_RECEPTOR_NODE");
+  const dunyaOmurga = dunyaOmurgaSelalesi;
+  
+  if (!pinealNode) return;
+
+  // 📐 Kalp atışı henüz tetiklenmedi (Simülasyon başlangıç fazı veya Kuantum Reset)
+  let isHeartBeatingYet = false; 
+
+  if (!isHeartBeatingYet) {
+    // Kalp atmıyorken bile epifiz odası galaktik çekirdekten gelen sinyalle saniyede binlerce kez parıldar
+    let galaktikKılavuzDalga = Math.abs(Math.sin(zamanDislisi * 0.5));
+    
+    pinealNode.material.emissive.setHex(0x9900ff); // Mutlak Mor Oda Işıması aktif
+    pinealNode.material.emissiveIntensity = 1.5 + galaktikKılavuzDalga * 3.0;
+
+    // Gluon şelalesi yukarıdan aşağı düz akmaz; daha kalp pompası yokken epifizin etrafında 
+    // manyetik bir girdap (Walter Russell spirali) halinde toplanır
+    const positions = dunyaOmurga.geometry.attributes.position.array;
+    const colors = dunyaOmurga.geometry.attributes.color.array;
+
+    for (let i = 0; i < 900; i += 3) {
+      let y = positions[i+1];
+      if (y > 0.7) { // Sadece Epifiz / Beyin bölgesi
+        // Kalp yokken bile hücreler elektriksel olarak can hattına bağlıdır
+        colors[i] = 0.0; colors[i+1] = 0.5 * galaktikKılavuzDalga; colors[i+2] = 1.0; // Kozmik Mavi Işıma
+      }
+    }
+    dunyaOmurga.geometry.attributes.color.needsUpdate = true;
+    
+    // Sol paneldeki alimlerin ekranına ilk can ikazını çakıyoruz
+    window.heartAcVoltage = 0.0; // Kalp sıfır!
+    window.brainCpuVoltage = 9.0 + (galaktikKılavuzDalga * 15.0); // Ama beyin ve epifiz çoktan canlı!
+  }
+}
+
+// 🧠 PINEAL GLAND HIGH-FREQUENCY RESONANCE GOVERNOR (EPİFİZ ODASI MOTORU)
+function corePinealGlandResonanceEngine(zamanDislisi) {
+  const pinealNode = scene.getObjectByName("PINEAL_RECEPTOR_NODE");
+  if (!pinealNode) return;
+
+  // 🫀 Kalbin Altın Oranlı (1.618) 74 BPM Dalga Fonksiyonu
+  const PHI = 1.61803398875;
+  let kalpAtisHizi = (74 / 60) * zamanDislisi;
+  
+  // Kalpten çıkan o yüksek frekanslı altın oranlı dikey şok dalgası
+  let altınOranNabiz = Math.pow(Math.max(0, Math.sin(kalpAtisHizi * Math.PI)), 8) * PHI;
+
+  // 📐 Epifiz bezi dönmez; o kımıldamayan bir kristal çapadır. 
+  // Ancak kalpten gelen dalga vurduğu an Emissive (İç Işıma) gücü tepe noktasına fırlar!
+  if (altınOranNabiz > 0.5) {
+    // 💜 Kalbin turuncu ateşi epifiz odasına ulaştığı an anlık mor kuantum sıçrama yapar!
+    pinealNode.material.emissive.setHex(0x9900ff); // Tepe Çakra / Galaktik Çekirdek Moru
+    pinealNode.material.emissiveIntensity = 3.0 * altınOranNabiz;
+    
+    // Gluon şelalesinin en üst segmentini (Beyin CPU bölgesini) anında altın sarısı ve mor elektronlara boya
+    const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
+    for(let i = 0; i < 300; i += 3) {
+      colors[i] = 0.6; colors[i+1] = 0.0; colors[i+2] = 1.0; // Mor yükleme
+    }
+    dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
+  } else {
+    // Dinlenme halinde sönük, kımıldamayan, pürüzsüz kalsit beyazı/gri potansiyel
+    pinealNode.material.emissive.setHex(0x221133);
+    pinealNode.material.emissiveIntensity = 0.3;
+  }
+}
+
+// 🧠 GÜNCELLENMİŞ ACADEMIC ORACLE MOTORU (GİRİŞİ KİLİTLİ)
+async function askGeminiAcademic(akademisyenSorusu) {
+  // 🔑 Önce Güvenlik ve İzin Kilidini Kontrol Et! Başımız belaya girmesin aga!
+  const isSecure = await checkWorkspaceSecurityPermission();
+  if (!isSecure) return; // İzin yoksa arkadaki ana devreyi çalıştırma, terminal kilitli kalır
+
+  const oracleTerminal = document.getElementById("academic-oracle-output");
+  oracleTerminal.innerHTML = "<span class='glow-text'>[LOGOS]: Manyetik akslar ve kuantum odaları taranıyor...</span>";
+
+  // ... (Geri kalan anlık Three.js telemetri verileri ve Gemini API Fetch akışı aynen devam eder)
+}
+
 
 // ============================================================================
 // REAL-TIME SOLAR SYSTEM ZODIAC ROUTER (Day 10 - Grand Launch)
@@ -229,36 +544,10 @@ const cakraListesi = [
 ];
 
 function setPoles(northName, southName) {
-function setPoles(northName, southName) {
+  // 1. Clear previous electromagnetic axis from the scene
   if (currentAxis) scene.remove(currentAxis);
 
-  const northSphere = scene.getObjectByName(northName);
-  const southSphere = scene.getObjectByName(southName);
-  if (!northSphere || !southSphere) return;
-
-  const northPos = northSphere.position;
-  const southPos = southSphere.position;
-
-  const direction = new THREE.Vector3().subVectors(northPos, southPos).normalize();
-  const centerPos = new THREE.Vector3().addVectors(northPos, southPos).multiplyScalar(0.5);
-
-  const length = 10;
-  const from = centerPos.clone().add(direction.clone().multiplyScalar(-length));
-  const to   = centerPos.clone().add(direction.clone().multiplyScalar(length));
-
-  const axisGeom = new THREE.BufferGeometry().setFromPoints([from,to]);
-  const axisMat = new THREE.LineBasicMaterial({color:0x00ff00});
-  currentAxis = new THREE.Line(axisGeom, axisMat);
-  scene.add(currentAxis);
-
-  // 🔑 Kamerayı yeni eksene hizala
-  camera.position.copy(centerPos.clone().add(direction.clone().multiplyScalar(10)));
-  camera.lookAt(centerPos);
-  controls.target.copy(centerPos);
-  controls.update();
-}
-
-  // Kutup kürelerini bul
+  // 2. Fetch specific polar quantum nodes
   const northSphere = scene.getObjectByName(northName);
   const southSphere = scene.getObjectByName(southName);
 
@@ -267,31 +556,271 @@ function setPoles(northName, southName) {
     return;
   }
 
-  // Pozisyonları al
+  // 3. Extract coordinates
   const northPos = northSphere.position;
   const southPos = southSphere.position;
 
-  // Çizgiyi uzatmak için doğrultu ve merkez
+  // 4. Calculate vector direction and center point
   const direction = new THREE.Vector3().subVectors(northPos, southPos).normalize();
   const centerPos = new THREE.Vector3().addVectors(northPos, southPos).multiplyScalar(0.5);
 
+  // 5. Expand axis bounds uniformly (Infinite grid alignment matrix)
   const length = 10;
   const from = centerPos.clone().add(direction.clone().multiplyScalar(-length));
   const to   = centerPos.clone().add(direction.clone().multiplyScalar(length));
 
-  // Yeni ekseni çiz
-  const axisGeom = new THREE.BufferGeometry().setFromPoints([from,to]);
-  const axisMat = new THREE.LineBasicMaterial({color:0x00ff00});
+  // 6. Generate and render the new green alignment axis line
+  const axisGeom = new THREE.BufferGeometry().setFromPoints([from, to]);
+  const axisMat = new THREE.LineBasicMaterial({ color: 0x00ff00 });
   currentAxis = new THREE.Line(axisGeom, axisMat);
   scene.add(currentAxis);
+
+  // 7. 🔑 Camera lock: Align view matrix perfectly with the active polar vector
+  camera.position.copy(centerPos.clone().add(direction.clone().multiplyScalar(10)));
+  camera.lookAt(centerPos);
+  
+  // 8. Sync OrbitControls constraints to prevent structural snapping
+  controls.target.copy(centerPos);
+  controls.update();
 }
 
 
+// ⚛️ INSTANTANEOUS GALACTIC LINK (IŞIK HIZINI YIKAN ANLIK BAĞLANTI MOTORU)
+function coreGalacticInstantEntanglement(zamanDislisi) {
+  if (!salvatorOrb) return;
+
+  // 🫀 Kalbin 74 BPM ritmi tetiklendiği an (Saniye dolmadan!)
+  let anlıkNabizVurusu = Math.pow(Math.max(0, Math.sin((74 / 60) * zamanDislisi * Math.PI)), 16);
+
+  // 📐 Işık hızını (300.000 km/s) tamamen baypas eden anlık kuantum sıçrama dalgası
+  if (anlıkNabizVurusu > 0.8) {
+    // 🔮 Merkezdeki Salvator Mundi kristal küresi (9 Numaralı Tesla Çekirdeği) anında Mor Işıma yapar
+    salvatorOrb.material.emissive.setHex(0x9900ff); // Tepe Çakra / Galaktik Çekirdek Moru
+    salvatorOrb.material.emissiveIntensity = 8.0;   // Saniyeler falan yok, anlık şok!
+
+    // 🌊 Omurganın arkasındaki gluon şelalesi ışık hızını yırtarak anında renk değiştirir
+    const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
+    const positions = dunyaOmurgaSelalesi.geometry.attributes.position.array;
+
+    for (let i = 0; i < colors.length; i += 3) {
+      // Parçacıkların tamamı mesafeleri yok sayarak galaktik merkez rezonansına kilitlenir
+      colors[i]     = 0.6; // Kuantum Mor Geçiş Yükleri
+      colors[i + 1] = 0.0;
+      colors[i + 2] = 1.0;
+      
+      // X ve Z koordinatları dikey mil hattına (`True Spine`) anlık olarak çöker (Dolanıklık Çöküşü)
+      positions[i]     *= 0.05; 
+      positions[i + 2] *= 0.05;
+    }
+    dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
+    dunyaOmurgaSelalesi.geometry.attributes.position.needsUpdate = true;
+
+    // 🎛️ Sol paneldeki o sığ alimlerin voltmetre ekranlarına galaktik kilidi çakıyoruz
+    window.heartAcVoltage = 74.1; // Sabit kısıtlamalar yıkıldı
+    window.brainCpuVoltage = 96.3; // 963 Hz Nöral Şimşek Frekansı anında aktif!
+    
+    // Akademik Konsola İllüzyonun Yırtıldığını İlan Et
+    const oracleTerminal = document.getElementById("academic-oracle-output");
+    if (oracleTerminal && Math.random() > 0.9) {
+      oracleTerminal.innerHTML = "<span class='glow-text' style='color: #9900ff;'>[GALACTIC CORE ENTANGLEMENT]: Işık hızı bariyeri aşıldı. Omurga doğrudan merkeze bağlı!</span>";
+    }
+  }
+}
+
+
+// 🌍 GLOBAL ZAMAN MODU AYARLARI
+let AKTIF_ZAMAN_MODU = "DAILY"; // "DAILY", "MONTHLY", "SOLAR"
+let zamanCarpanı = 1.0;
+
+function setZamanModu(modAdi) {
+  AKTIF_ZAMAN_MODU = modAdi;
+  if (modAdi === "DAILY") zamanCarpanı = 1.0;
+  if (modAdi === "MONTHLY") zamanCarpanı = 5000.0;
+  if (modAdi === "SOLAR") zamanCarpanı = 500000.0;
+  
+  // UI panel başlığını güncelle (Hoca hangi boyutta olduğunu görsün)
+  document.getElementById("matrix-boundary-title").innerText = `MATRIX BOUNDARY - TIME SCALE: ${modAdi}`;
+}
+
+// 🎛️ ANA ANIMATE DÖNGÜSÜ İÇİNDEKİ GÜNCELLEME
+function animate() {
+  requestAnimationFrame(animate);
+  
+  // Sabit delta zamanını seçilen modun çarpanıyla genişletiyoruz
+  let dinamikDelta = sabitDelta * zamanCarpanı;
+  acDcZamanDislisi += dinamikDelta;
+
+  // 1. Ay ve Manyetik Pusula Dönüşü (Seçilen moda göre hızlanır)
+  ayPusulaGrup.rotation.y += 0.01 * zamanCarpanı;
+
+  // 2. Satürn ve Sabit Haçın Dönüşü (Sadece Solar modda görünür hale gelir)
+  if (AKTIF_ZAMAN_MODU === "SOLAR") {
+    saturnAksGrup.rotation.y += 0.001 * (zamanCarpanı * 0.01);
+    // 12 Ağustos hizalanma kontrolü
+    kontrolEtSolarEclipseHizalanmasi();
+  }
+
+  // 🫀 Salvator Mundi'nin kalp atışı motorunu sür
+  salvatorKalpAtisMotoru(acDcZamanDislisi, dinamikDelta);
+  
+  renderer.render(scene, camera);
+}
+
+// 🔮 SALVATOR MUNDI REAL-TIME KALP ATIŞI VE AMBİYANS JENERATÖRÜ
+function salvatorKalpAtisMotoru(zamanDislisi, sabitDelta) {
+  if (!salvatorOrb) return;
+
+  // 🫀 74 BPM Kalp Ritmi Simülasyonu (Double-Pulse: Kasılma ve Gevşeme)
+  let nabizFrekansi = (74 / 60) * zamanDislisi;
+  let ilkVurus = Math.pow(Math.max(0, Math.sin(nabizFrekansi * Math.PI)), 10);
+  let ikinciVurus = Math.pow(Math.max(0, Math.sin(nabizFrekansi * Math.PI - 0.25)), 12) * 0.4;
+  let toplamKalpDalgasi = ilkVurus + ikinciVurus;
+
+  // ⚡ 12 Ağustos Eclipse Yakınlaştıkça Kalp Ritminin Manyetik Şoka Girmesi
+  let eclipseHizalanmaEtkisi = Math.abs(Math.sin(acDcZamanDislisi * 0.05)); // Tutulma aksı gerilimi
+  
+  // 🎨 Kristal Kürenin Emissive (İç Işıma) Değerini Kalp Atışıyla Sürüyoruz
+  salvatorOrb.material.emissive.setHex(0x00ffff); // Siberpunk Turkuaz / CSF Akış Rengi
+  salvatorOrb.material.emissiveIntensity = 0.2 + (toplamKalpDalgasi * 2.5) * (1.0 + eclipseHizalanmaEtkisi);
+
+  // 📏 Boyutsal Solunum: Küre her kalp atışında mikro düzeyde genişleyip daralır (İllüzyonun Nefes Alması)
+  let kureOlcegi = 0.6 + (toplamKalpDalgasi * 0.02);
+  salvatorOrb.scale.set(kureOlcegi, kureOlcegi, kureOlcegi);
+  
+  // 🔌 UI Voltaj Panellerini Kalp Dalgalanmasına Eşitle (Doktorların Ekranı)
+  window.heartAcVoltage = 12.0 + (toplamKalpDalgasi * 24.5);
+}
+
+// 🔮 SALVATOR MUNDI TRUE AXIS ENJEKSİYONU (setPoles Fonksiyonunun Kalbi)
+function setSalvatorMundiAxis() {
+  // Kuzey Sempatik (Beyaz) ve Güney Parasempatik (Siyah) kutupları arasından geçen o kutsal mil
+  const beyazKutup = scene.getObjectByName("WHITE_STATIC_NODE");
+  const siyahKutup = scene.getObjectByName("BLACK_STATIC_NODE");
+  
+  if (!beyazKutup || !siyahKutup) return;
+
+  // Akımı çeviren o dikey aksın vektörel doğrultusunu çıkarıyoruz
+  const northPos = beyazKutup.position;
+  const southPos = siyahKutup.position;
+  
+  const direction = new THREE.Vector3().subVectors(northPos, southPos).normalize();
+  const centerPos = new THREE.Vector3().addVectors(northPos, southPos).multiplyScalar(0.5);
+
+  // 📐 Küp sınırlarından (entropiden) kaçan enerjiyi bu aksın üzerine geri büküyoruz
+  // Gluon şelalesi (`coreKutupAkımCeviriciIllüzyon`) bu aksın etrafında manyetik bir girdap oluşturuyor
+  camera.lookAt(centerPos);
+  controls.target.copy(centerPos);
+  controls.update();
+}
+
+
+// 🔮 THE COMMUTATOR ILLUSION & ENTROPY NEUTRALIZATION ENGINE
+function coreKutupAkımCeviriciIllüzyon(zamanDislisi, sabitDelta) {
+  const siyahKure = scene.getObjectByName("BLACK_STATIC_NODE");
+  const beyazKure = scene.getObjectByName("WHITE_STATIC_NODE");
+  
+  if (!siyahKure || !beyazKure) return;
+
+  // 🫀 Kalbin 74 BPM ritmine bağlı dinamik alternatif akım salınımı
+  let acDovusu = Math.sin((74 / 60) * zamanDislisi * Math.PI);
+
+  // 📐 AKIMI ÇEVİREN MATRİS: Fiziksel olarak kımıldamasalar bile, 
+  // shader ve yüzey normalleri bazında zıt yönlü bir manyetik dönüş (illüzyon) matrisi hesaplıyoruz
+  beyazKure.rotation.y += 0.04 * (1.0 + Math.abs(acDovusu)); // Saat yönü (Giriş Akorlama)
+  siyahKure.rotation.y -= 0.04 * (1.0 + Math.abs(acDovusu)); // Saat yönünün tersi (Tahliye Emme)
+
+  // 📐 Küpten kaçamayan sınır enerjisini (Entropiyi) tam bu kutuplarda sıfırlıyoruz (Neutralization)
+  const positions = dunyaOmurgaSelalesi.geometry.attributes.position.array;
+  const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
+
+  for(let i = 0; i < positions.length; i += 3) {
+    let yPozisyonu = positions[i + 1];
+
+    // Üst kutba (Beyaz) dayanan parçacık akımı yön değiştirip aşağı bükülür
+    if (yPozisyonu > 0.9) {
+      positions[i] *= 0.9; // Merkez dikey omurgaya sıkıştırma
+      colors[i] = 1.0; colors[i+1] = 0.6; colors[i+2] = 0.0; // Akımı Kor Turuncuya çevir
+    }
+    // Alt kutba (Siyah) çarpan parçacık akımı nötralize olup toprağı şarj eder
+    else if (yPozisyonu < -0.9) {
+      positions[i] *= 0.9;
+      colors[i] = 0.0; colors[i+1] = 0.9; colors[i+2] = 0.3; // Akımı Toprak Yeşil anyonuna çevir
+    }
+  }
+  
+  dunyaOmurgaSelalesi.geometry.attributes.position.needsUpdate = true;
+  dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
+}
+
+
+// 🪐 SATURN MATRİX GOVERNOR (SABİTLEME VE ENPROPİ BARİYERİ)
+function coreSaturnMatrixGovernor(zamanDislisi) {
+  const saturnMesh = scene.getObjectByName("SATURN_NODE");
+  if (!saturnMesh) return;
+
+  // 📐 Satürn 4 Element Pusulasının mutlak KUZEY_TOPRAK kapısına çivili durur
+  // Sadece SOLAR PULSE modunda galaktik zamanı bükerek milimetrik zikzaklar çizer
+  if (window.AKTIF_ZAMAN_MODU === "SOLAR") {
+    let galaktikSalınım = Math.sin(zamanDislisi * 0.001); // 29.5 yıllık makro döngü simülasyonu
+    saturnMesh.position.x += galaktikSalınım * 0.02; // Omurgayı esneten mikro manyetik bükülme
+    
+    // Satürn omurgasından tırmanan o mor aydınlanma cila voltajı
+    saturnMesh.material.emissive.setHex(0x9900ff); 
+    saturnMesh.material.emissiveIntensity = 2.0 + Math.abs(galaktikSalınım) * 5.0;
+  } else {
+    // Günlük ve Aylık modda sistemi kaskatı ve kararlı tutan ağır toprak matrisi
+    saturnMesh.position.set(0, 1.2, -0.55); // Kuzey omurga çivisi
+    saturnMesh.material.emissive.setHex(0x221100);
+    saturnMesh.material.emissiveIntensity = 0.4;
+  }
+}
+
+// 🌊🔥 THE HOLY NEUTRALIZATION & BREATHING ENGINE
+function coreSpinalBreathingAndNeutralization(zamanDislisi) {
+  const positions = dunyaOmurgaSelalesi.geometry.attributes.position.array;
+  const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
+
+  // 🫀 74 BPM Kalp ve Nefes Ritmi (Sistol/Ateş ve Diyastol/Su dengesi)
+  let nefesSinyali = Math.sin((74 / 60) * zamanDislisi * Math.PI);
+  
+  // Eline döktüğün o soğuk suyun nötralize etme (dengeleme) katsayısı
+  let neutralizerFactor = Math.abs(nefesSinyali);
+
+  for(let i = 0; i < positions.length; i += 3) {
+    let y = positions[i + 1];
+
+    if (nefesSinyali > 0) {
+      // 🔥 TURUNCU AKIM: Kaynar suyun/ateşin hücreyi yaktığı, genleştirdiği an
+      positions[i] += (Math.random() - 0.5) * 0.02; // Mikro entropi/yanma saçılımı
+      
+      colors[i]     = 1.0 * neutralizerFactor; // Kor Turuncu
+      colors[i + 1] = 0.4 * neutralizerFactor;
+      colors[i + 2] = 0.0;
+    } 
+    else {
+      // 🔵 MAVİ NÖTRALİZASYON: Eline döktüğün o soğuk suyun sistemi hayata döndürdüğü an!
+      // Kaos ve yanma anında durur, parçacıklar dikey aksa geri vakumlanır (Hücresel Tamir)
+      positions[i] *= 0.95; 
+      
+      colors[i]     = 0.0;
+      colors[i + 1] = 0.5 * (1.0 - neutralizerFactor); // Toprağı elektrikleyen yeşil cila
+      colors[i + 2] = 1.0 * (1.0 - neutralizerFactor); // Kurtarıcı Manyetik Mavi Su
+    }
+  }
+
+  dunyaOmurgaSelalesi.geometry.attributes.position.needsUpdate = true;
+  dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
+
+  // 🎛️ Telemetriyi bu "yakarak hayat veren" nöral dengeye kilitliyoruz
+  window.heartAcVoltage = 12.0 + (Math.max(0, nefesSinyali) * 24.0);
+  window.brainCpuVoltage = 6.0 + (Math.max(0, -nefesSinyali) * 20.0); // Soğuk su vurduğunda beyin nötralize olur
+}
+
 // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
 const aspect = window.innerWidth / window.innerHeight;
-const d = 1.5; // 🔑 KESİN ÇÖZÜM: Kadraj ölçeği 0.5'ten 1.5'e çıkarılarak kırpma engeli yırtıldı!
+const d = 1.6; // 🔑 KESİN ÇÖZÜM: Kadraj ölçeği 0.5'ten 1.5'e çıkarılarak kırpma engeli yırtıldı!
 const camera = new THREE.OrthographicCamera(- d * aspect, d * aspect, d, - d, 0.1, 1000);
-camera.position.set(5, 5, 5);
+camera.position.set(1, 1, 1);
 camera.lookAt(0, 0, 0);
 
 const renderer = new THREE.WebGLRenderer({ antialias: true });
