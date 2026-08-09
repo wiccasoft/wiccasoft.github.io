@@ -147,7 +147,7 @@ function initMetatronEngine() {
     controls.maxAzimuthAngle = Infinity;
     window.scene.add(new THREE.AmbientLight(0xffffff));
 
-
+}
 
 
     // ============================================================================
@@ -497,7 +497,7 @@ function animate() {
    
 }
 
-}
+
 
 
  // 📏 Ekran Boyutu Değiştiğinde Kadrajı Koruyan Dinleyici (Resize Motoru)
