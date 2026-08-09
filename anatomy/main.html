@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Salvator Mundi + AC-DC Kuantum Motoru Entegrasyonu</title>
+  <style>
+    /* 🔑 KOZMİK ALTLIK */
+    html, body {
+        margin: 20;
+        padding: 20;
+        width: 80%;
+        height: 80%;
+        background: #000000 !important;
+        overflow: hidden !important; 
+    }
+
+    /* 🎨 BAĞIMSIZ SALVATOR MUNDI KATMANI */
+    #arka-plan-tablo {
+
+        position: absolute;
+        /* 📐 KALP HİZALAMA MÜHÜRÜ: Buradaki değerlerle oynayarak resmi milimetrik kaydırabilirsiniz */
+        top: 35%;               /* Ekranın dikey konumu (Yukarı almak için azaltın, aşağı için artırın) */
+        left: 50%;              /* Yatayda tam ortalama */
+        transform: translate(-50%, -50%); /* Tam merkezleme pivotu */
+        width: auto;
+        height: 60vh;           /* Ekran yüksekliğinin %90'ını kaplasın (Kasmaması için optimize boyut) */
+        z-index: 1;             /* En arkada kalır */
+        pointer-events: none;
+
+        
+    }
+    
+
+    /* 🎛️ SİBERPUNK INTERFACE KONTROL PANELI */
+#matrix-control-panel {
+    position: absolute;
+    border-top-left-radius: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+    /* 👑 MUTLAK EN ÖN KATMAN MÜHÜRÜ */
+    z-index: 999999 !important;      /* 👈 Sayfanın en tepesine çiviledik */
+    pointer-events: auto !important; /* 👈 Tıklamaları doğrudan kendine çeksin */
+    
+    display: flex;
+    gap: 15px;
+}
+
+    /* Tabloyu siyah-beyaz yapacak o sihirli kuantum filtresi */
+.matrix-grayscale {
+    filter: grayscale(100%) contrast(110%) brightness(90%) !important;
+    transition: filter 0.8s ease-in-out; /* Yumuşak bir geçiş şovu için */
+}
+
+.matrix-color {
+    filter: grayscale(0%) contrast(100%) brightness(100%) !important;
+    transition: filter 0.8s ease-in-out;
+}
+    /* If you have a specific background container for the Salvator Mundi portrait, 
+   upscale it by 1.15x or 1.2x to fill the Metatron grid lines perfectly */
+/* 🎨 BAĞIMSIZ SALVATOR MUNDI KATMANI (EN-BOY ORANI KORUMALI FİTLENMİŞ) */
+#bg-image {
+    position: absolute;
+    top: 30%; left: 50%;
+    
+    /* 📐 KESİN ORAN KİLİDİ: Resmin kalitesini bozmadan dikey yüksekliğe sabitler */
+    height: 100vh !important;
+    width: auto !important;
+    object-fit: contain;
+    
+    /* 👑 UP-SCALE MATRIX: İsa'yı tam senin istediğin oranda büyütür ve ekranı ortalar */
+    transform: translate(-50%, -50%) scale(1.15);
+    transform-origin: center center;
+    z-index: 1;
+    pointer-events: none;
+}
+
+    /* 🔑 AC-DC MOTOR ENJEKTÖRÜ: seed-ac-dc-anatomy.html dosyasını çağırır */
+    iframe {
+        position: absolute;
+        top: 50;
+        left: 50;
+        width: 100%;
+        height: 100%;
+        border: none;
+        z-index: 50;            /* Tablonun önünde, panellerin arkasında kalır */
+        background: transparent !important;
+        mix-blend-mode: screen; /* Siyah arka planı eritip sadece neonları parlatır */
+        pointer-events: none; 
+    }
+
+
+    .cyber-btn {
+        background: rgba(0, 0, 0, 0.75);
+        color: #ff7f00; /* Turuncu Hava Köprüsü Rengi */
+        border: 1px solid #ff7f00;
+        padding: 10px 10px;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: x-small;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        box-shadow: 0 0 5px rgba(255, 127, 0, 0.2);
+        transition: all 0.3s ease;
+    }
+
+    .cyber-btn:hover {
+        background: #ff7f00;
+        color: #000000;
+        box-shadow: 0 0 10px rgba(255, 127, 0, 0.6);
+        text-shadow: none;
+    }
+
+    /* 🔮 CHRIST AMONG DOCTORS: ASK GEMINI ACADEMIC BUTTON */
+    .oracle-btn {
+        color: #9900ff; /* Mistik Mor Kuantum Reset Rengi */
+        border: 1px solid #9900ff;
+        box-shadow: 0 0 5px rgba(153, 0, 255, 0.2);
+    }
+    .oracle-btn:hover {
+        background: #9900ff;
+        color: #ffffff;
+        box-shadow: 0 0 10px rgba(153, 0, 255, 0.6);
+    }
+  </style>
+</head>
+<body>
+
+
+    <!-- 🎨 TABLO BAĞIMSIZ ELEMAN OLARAK EN ARKEYA GÖMÜLDÜ -->
+  <img id="bg-image" class="matrix-color" src="./Salvator_Mundi_oil_on_walnut.jpg" alt="Salvator Mundi">
+
+
+  <!-- ⚡ AC-DC ANATOMY MOTORU ÖNE BİNDİRİLDİ -->
+  <iframe id="anatomy-engine" src="./seed-ac-dc-anatomy.html"></iframe>
+
+
+<!-- 🎛️ AKADEMİSYENLERİ HİPNOZ EDECEK INTERFACE PANELİ -->
+  <div id="matrix-control-panel">
+      <!-- Mod Değiştirici Buton (Ten rengi gürültüsünü siler, turuncu küreyi parlatır) -->
+      <button id="toggle-filter-btn" class="cyber-btn" onclick="toggleMatrixIllusionFilter()">
+          Matrix: Original Illusion
+      </button>
+      
+      <!-- Christ Among Doctors El İşareti (Gemini Akademik Modülü Tetikler) -->
+      <button class="cyber-btn oracle-btn" onclick="triggerGeminiAcademicOracle()">
+          🔮 Ask Gemini: Academic Oracle
+      </button>
+  </div>
+
+
+  <script>
+    let isGrayscaleMode = false;
+
+    // 🎨 TABLO RENK/KONTRAST FİLTRE GEÇİŞ MOTORU
+    function toggleMatrixIllusionFilter() {
+        const bgImage = document.getElementById("bg-image");
+        const filterBtn = document.getElementById("toggle-filter-btn");
+        
+        isGrayscaleMode = !isGrayscaleMode;
+        
+        if (bgImage) {
+            if (isGrayscaleMode) {
+                bgImage.className = "matrix-grayscale";
+                filterBtn.innerText = "Matrix: Desaturated (True Eye)";
+                filterBtn.style.color = "#00ffff"; // Manyetik Mavi Su Rengine bükülür
+                filterBtn.style.borderColor = "#00ffff";
+            } else {
+                bgImage.className = "matrix-color";
+                filterBtn.innerText = "Matrix: Original Illusion";
+                filterBtn.style.color = "#ff7f00"; // Hava Köprüsü Turuncusuna geri döner
+                filterBtn.style.borderColor = "#ff7f00";
+            }
+        }
+    }
+
+    // 🧠 IFRAME İÇİNDEKİ YAPAY ZEKA MOTORUYLA HABERLEŞME HATTI
+    function triggerGeminiAcademicOracle() {
+        const iframe = document.getElementById("anatomy-engine");
+        if (iframe && iframe.contentWindow) {
+            // İllüzyonu yırtan el işaretine basıldığında iframe'in içine sinyali asenkron fırlatır
+            iframe.contentWindow.postMessage({ action: "TRIGGER_ACADEMIC_ORACLE" }, "*");
+        }
+    }
+  </script>
+
+</body>
+</html>
