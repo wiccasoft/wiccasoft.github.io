@@ -1,5 +1,5 @@
 // ============================================================================
-// metatron.js - SAHNE OMURGASI VE MERKEZİ GEOMETRİ MOTORU
+// metatron.js - SAHNE OMURGASI VE MERKEZİ (Salvator Orb / Çekirdek) GEOMETRİ MOTORU
 // ============================================================================
 //Küp + İç Piramitler + Plus + Tetrahedronlar ("Altın Oranlı Gluon Bölünmesi ve Entropi Kontrolü")
 //Ana sayfada erişmek isteyebileceğimiz global referansları window nesnesine bağlıyoruz
