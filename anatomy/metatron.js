@@ -60,7 +60,7 @@ let sonUretimZamani = 0; // Bu değişkeni fonksiyonun dışına, üstüne koy
     //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
     let sonUretimZamani = 0;
 
-unction updateMetatronLoop() {
+function updateMetatronLoop() {
     if (!window.scene || !window.camera || !window.renderer) return;
 
     const KuantumKafesi = window.scene.getObjectByName("MERKEZI_METATRON");
@@ -87,7 +87,7 @@ unction updateMetatronLoop() {
             let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
             let hedefMesh = KuantumKafesi.getObjectByName(hedefOdaVerisi.name);
 
-            if (kaynakMesh &&地形 Mesh) {
+            if (kaynakMesh && hedefMesh) {
                 // Şelale parçacığını odanın frekansıyla fırlat
                 let yeniGluon = new KuantumPaketi(kaynakMesh, hedefMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
                 aktifPaketler.push(yeniGluon);
