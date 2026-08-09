@@ -41,32 +41,19 @@
         };
 
         // 🔄 3. ÇİZİM DÖNGÜSÜ (Parçacık Manipülasyonu)
-        function animate() {
-            requestAnimationFrame(animate);
-            if (window.scene && window.camera && window.renderer) {
-                const dunyaOmurgaSelalesi = window.scene.getObjectByName("OMURGA_SELALESI");
-                if (dunyaOmurgaSelalesi) {
-                    const positions = dunyaOmurgaSelalesi.geometry.attributes.position.array;
-                    const colors = dunyaOmurgaSelalesi.geometry.attributes.color.array;
-                    const zaman = performance.now() * 0.001;
+  // anatomy.html içindeki animate() döngüsü:
+function animate() {
+    requestAnimationFrame(animate);
 
-                    // ⚡ mV bazlı dinamik parçacık hareketi
-                    let sacilimGucu = Math.max(0.1, (window.currentMv + 90) * 0.02);
-                    for (let i = 0; i < positions.length; i += 3) {
-                        let id = i / 3;
-                        let sin = Math.sin(zaman * 6 + id * 0.1);
-                        positions[i] += sin * 0.01 * sacilimGucu;
-                        positions[i + 2] += Math.cos(zaman * 6 + id * 0.1) * 0.01 * sacilimGucu;
-                        positions[i + 1] -= 0.005; 
-                        if (positions[i + 1] < -1.0) positions[i + 1] = 1.0;
-                        // Renk eşleştirmeleri...
-                    }
-                    dunyaOmurgaSelalesi.geometry.attributes.position.needsUpdate = true;
-                    dunyaOmurgaSelalesi.geometry.attributes.color.needsUpdate = true;
-                }
-                window.renderer.render(window.scene, window.camera);
-            }
+    if (window.scene && window.camera && window.renderer) {
+        // Sahne üzerinden ismiyle yerel olarak yakalıyoruz (Globale gerek kalmadan)
+        const dunyaOmurgaSelalesi = window.scene.getObjectByName("OMURGA_SELALESI");
+        
+        if (dunyaOmurgaSelalesi) {
+            // Sinyallere (mV) göre parçacıkları dalgalandırma kodların...
         }
+    }
+}
 
         // 🪐 4. MOTORU TEK KEZ BAŞLAT
         window.addEventListener('DOMContentLoaded', () => {
