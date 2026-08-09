@@ -22,15 +22,7 @@
     // 🪐 2. METATRON VE SAHNE EKOSİSTEMİNİ TEK TIKLA ATEŞLE
     initMetatronEngine();
 
-    // 📡 3. ARKA PLAN İŞLEMCİSİNDEN GELEN ANALİZLERİ OKU
-    biyoWorker.onmessage = function(e) {
-        if (e.data.komut === "BİYOLOJİK_TELEMETRİ") {
-            window.currentMv = e.data.kalp.mv;
-            window.currentOdaRengi = e.data.kalp.renk;
-            window.vagusBrakeActive = e.data.vagusEffort >= 0.8;
-            // Gösterge paneli güncellemelerini de buraya yazabilirsiniz...
-        }
-    };
+
 // 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER
         window.currentMv = -90.0;
         window.currentOdaRengi = "Kırmızı";
@@ -90,19 +82,4 @@
         });
     </script>
 </body>
-</html>
-
-
-    // anatomy.html (veya bio-engine.js) içinde worker mesaj alıcısının sonuna ekleyin:
-window.parent.postMessage({
-    komut: "EKRAN_GUNCELLE",
-    bpm: data.kalp.bpm,
-    mv: data.kalp.mv,
-    mod: data.sistemModu
-}, "*");
-
-
-</script>
-</body>
-
 </html>
