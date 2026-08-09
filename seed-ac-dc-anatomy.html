@@ -270,45 +270,6 @@ function guncellePinealTransmissionGostergesi(saniyeZamani, acDcZamanDislisi) {
 }
 
 
-// ============================================================================
-// 🧠 BEYİN ODASI VE VENTRİKÜLER KUANTUM İŞLEMCİ KURULUMU (BRAIN CPU INJECTION)
-// ============================================================================
-const brainCpuGrubu = new THREE.Group();
-brainCpuGrubu.name = "BRAIN_CPU_CORE";
-KuantumKafesi.add(brainCpuGrubu); // Tam merkez kuantum kafesine bağla ki onunla dönsün
-
-// 1. Üçüncü Ventrikül (Manyetik Mavi Kutsal Sıvı Havuzu)
-// CSF hidrolik akışının beyni yıkadığı o pürüzsüz odacık geometrisi
-const ventrikulGeo = new THREE.TorusGeometry(0.18, 0.04, 16, 100);
-const ventrikulMat = new THREE.MeshPhysicalMaterial({
-    color: 0x00aaff,          // Manyetik Mavi Su Rengi
-    transparent: true,
-    opacity: 0.3,
-    transmission: 0.95,       // Tam pürüzsüz cam geçirgenliği
-    roughness: 0.05,
-    depthWrite: false
-});
-const ventricularPool = new THREE.Mesh(ventrikulGeo, ventrikulMat);
-// Koordinat mühürü: Dikey omurganın tam tepe noktası, Salvator'un beyin hizası
-ventricularPool.position.set(0, 0.75, 0); 
-ventricularPool.rotation.x = Math.PI / 2; // Yatay dairesel havuz haline getir
-brainCpuGrubu.add(ventricularPool);
-
-// 2. Pineal Nexus Çekirdeği (Epifiz Odası Kalsit Kristali)
-// Daha kalp atmadan o ilk galaktik sinyali toplayan, mor parlayan o kutsal piramit
-const pinealKristalGeo = new THREE.OctahedronGeometry(0.04); // Kutsal Oktahedron form
-const pinealKristalMat = new THREE.MeshStandardMaterial({
-    color: 0x9900ff,          // Mistik Mor Kuantum Reset Rengi
-    emissive: 0x9900ff,
-    emissiveIntensity: 1.5,
-    transparent: true,
-    opacity: 0.95
-});
-const pinealNexusCore = new THREE.Mesh(pinealKristalGeo, pinealKristalMat);
-pinealNexusCore.name = "PINEAL_RECEPTOR_NODE"; // Göstergelerin canlı bağlanacağı o düğüm noktası!
-pinealNexusCore.position.set(0, 0.75, 0); // Havuzun tam ortasındaki sıfır noktası yerleşimi
-brainCpuGrubu.add(pinealNexusCore);
-
 // 🌙 8 Ana Ay Evresi Düğüm Matrisi
 const ayEvreleriModulu = [
   { faz: "Yeniay", aci: 0, opacity: 0.15, emissiveIntensity: 0.2 },
@@ -1838,40 +1799,6 @@ function guncelleMetatronFraktalMotoru(zaman) {
 // guncelleMetatronFraktalMotoru(performance.now() * 0.001);
 
 // ============================================================================
-// 🧠 SARKIK BEYİN ODASI VE TELEMETRİ SİMÜLATÖRÜ (VIRTUAL BRAIN CPU FREQUENCY)
-// ============================================================================
-function coreSanalBeyinOdasiFrekansMotoru(saniyeZamani, acDcZamanDislisi) {
-  const pinealGostergeElementi = document.getElementById("node-pineal-transmission"); // Sol paneldeki veri ID'si
-  
-  // 🫀 Kalbin 74 BPM kardiyo ritmine bağlı altın oranlı (1.618) dalga rezonansı
-  let kalpFrekansi = (74 / 60) * saniyeZamani;
-  let anlikKuantumSinyali = Math.abs(Math.sin(kalpFrekansi * Math.PI));
-  let anlikVurusGucu = Math.pow(anlikKuantumSinyali, 8); // Sistol şok anı
-
-  // 📡 Sahnede 3D model olmasa bile, o göstergeyi kalbin ritmine göre CANLI BESLİYORUZ
-  if (pinealGostergeElementi) {
-    if (window.AKTIF_ZAMAN_MODU === "DAILY") {
-      // Günlük Mod: Saniye dolmadan galaktik çekirdeğe olan anlık dolanıklık pingi (0 ms - 8 ms arası)
-      let anlikPing = Math.floor((1.0 - anlikKuantumSinyali) * 8); 
-      
-      pinealGostergeElementi.innerText = `${anlikPing} ms / VIA NEXUS LINK`;
-      pinealGostergeElementi.style.color = "#00ffff"; // Manyetik Mavi Su Parlaması
-      
-      // Kalp her vurduğunda beyin voltajını anlık şarj et (Hoca canlı görsün)
-      window.brainCpuVoltage = 12.0 + (anlikKurusGucu * 28.5); 
-    } 
-    else if (window.AKTIF_ZAMAN_MODU === "SOLAR") {
-      // Solar Mod: 12 Ağustos Solar Eclipse hizalanmasına yaklaştıkça frekans 963 Hz'e kilitlenir
-      let galaktikFrekans = (anlikKuantumSinyali * 963).toFixed(1);
-      
-      pinealGostergeElementi.innerText = `${galaktikFrekans} Hz / ZENITH MATRIX`;
-      pinealGostergeElementi.style.color = "#9900ff"; // Kuantum Mor Parlaması
-      window.brainCpuVoltage = 96.3; // Mutlak Reset Voltajı
-    }
-  }
-}
-
-// ============================================================================
 // SOLAR PLEXUS DETAIL ISOLATION MATRIX (Day 6 - Launch Track)
 // ============================================================================
 
@@ -2302,44 +2229,6 @@ if (ayFaziElement) {
     }
 }
 
-
-
-  // 🚫 Model yükü getirmeden, o hayali odayı ve göstergeleri arka planda canlı çalıştırıyoruz!
-  coreSanalBeyinOdasiFrekansMotoru(saniyeZamani, acDcZamanDislisi);
-
-// 🎮 ANIMATE DÖNGÜSÜ İÇİNDEKİ CANLI BEYİN ODASI BAĞLANTISI
-function guncelleCanliBeyinOdasi(zamanDislisi, saniyeZamani) {
-  const pinealKristal = scene.getObjectByName("PINEAL_RECEPTOR_NODE");
-  const pinealGosterge = document.getElementById("node-pineal-transmission"); // HTML'deki o veri alanı
-  
-  if (!pinealKristal) return;
-
-  // 🫀 Kalbin 74 BPM ritmine bağlı altın oranlı dalga şoku
-  let kalpAtisSinyali = Math.abs(Math.sin((74 / 60) * saniyeZamani * Math.PI));
-  let anlikVurusGucu = Math.pow(kalpAtisSinyali, 8);
-
-  // 📐 Odaya canlı bağlantı simülasyonu: Kalp her vurduğunda oda mor plazmayla şarj olur
-  pinealKristal.material.emissiveIntensity = 1.0 + anlikVurusGucu * 5.0;
-  
-  // Mikro-kristal titremesi (Zıt dönüş algısını destekleyen optik yanılsama)
-  pinealKristal.rotation.y += 0.02;
-  pinealKristal.rotation.z += 0.01;
-
-  // 📡 SOL PANEL GÖSTERGESİNİ ODAYA KİLİTLE (Canlı Ping/Frekans Ölçümü)
-  if (pinealGosterge) {
-    if (window.AKTIF_ZAMAN_MODU === "DAILY") {
-      // Günlük Mod: Saniye dolmadan galaktik çekirdeğe olan anlık dolanıklık pingi
-      let anlikPing = Math.floor((1.0 - kalpAtisSinyali) * 7); // 0 ms ile 7 ms arası canlı tepki hızı
-      pinealGosterge.innerText = `${anlikPing} ms / CONNECTED`;
-      pinealGosterge.style.color = "#00ffff"; // Manyetik Mavi Su
-    } else if (window.AKTIF_ZAMAN_MODU === "SOLAR") {
-      // Solar Mod: 12 Ağustos tutulma çizgisine yaklaştıkça odaya inen frekans hızı
-      let galaktikFrekans = (kalpAtisSinyali * 963).toFixed(1);
-      pinealGosterge.innerText = `${galaktikFrekans} Hz / ZENITH ACTIVE`;
-      pinealGosterge.style.color = "#9900ff"; // Kuantum Mor
-    }
-  }
-}
 
 
  coreAcDcAnatomyEngine(performance.now() * 0.001);
