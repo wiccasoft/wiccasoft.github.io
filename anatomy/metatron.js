@@ -57,8 +57,8 @@ window.mevcutOdaSirasi = 0;
  * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
  */
 
-    //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
-    let sonUretimZamani = 0;
+//const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
+
 
 function updateMetatronLoop() {
     if (!window.scene || !window.camera || !window.renderer) return;
@@ -78,11 +78,12 @@ function updateMetatronLoop() {
         // Mavi odada (-60 mV) zamanı ve akış yönünü ters büküyoruz (Kutup Döngüsü)
         let akisYonu = (window.currentMv === -60) ? -1 : 1;
 
-        // 🔑 PENCERE REFERANSLARI: Aşağıdaki sözlüğe window katmanından ışık hızıyla erişiyoruz
-
-
-let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
-let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
+         // 🔑 PENCERE REFERANSLARI: Aşağıdaki sözlüğe window katmanından ışık hızıyla erişiyoruz
+        let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+        let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
+        
+        // 🛠 EKSİK OLAN BAĞLANTI HATTI BURAYA ENJEKTE EDİLDİ VE KİLİTLENDİ!
+        let hedefOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[sonrakiOdaIndex];
 
         if (kaynakOdaVerisi && hedefOdaVerisi) {
             let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
@@ -116,7 +117,7 @@ let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPE
 
     // Siyah perdeyi ve her şeyi ekrana çizdir
     window.renderer.render(window.scene, window.camera);
-} // 👈 Eksik olan fonksiyon kapatma mühürü çakıldı!
+}
 
 
 /**
