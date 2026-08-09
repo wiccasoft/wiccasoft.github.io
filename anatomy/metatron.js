@@ -1,8 +1,8 @@
 // ============================================================================
 // metatron.js - SAHNE OMURGASI VE MERKEZİ GEOMETRİ MOTORU
 // ============================================================================
-//Küp + İç Piramitler + Plus + Tetrahedronlar
-// Ana sayfada erişmek isteyebileceğimiz global referansları window nesnesine bağlıyoruz
+//Küp + İç Piramitler + Plus + Tetrahedronlar ("Altın Oranlı Gluon Bölünmesi ve Entropi Kontrolü")
+//Ana sayfada erişmek isteyebileceğimiz global referansları window nesnesine bağlıyoruz
 //metatron.js içindeki o merkez nokta (Salvator Orb / Çekirdek), galaktik merkezden akan enerjiyi pürüzsüz bir dikey hat (True Spine) üzerinden alır.
 //Enerji durağan kalamayacağı için dönmeye başlar ve dışa doğru bir Torus (Double Vortex) alanı yaratır.
 //İşte o dönen alan, senin saniyede 6 kez turlayan 6 odalı renk tayfını ve akademinin bildiği o milivolt dalgalanmalarını doğuran ana jeneratördür
@@ -452,8 +452,6 @@ let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 //let aktifDiziIndex = 0;
 let aktifIndexA = 0;
 let aktifIndexB = 0;
-
-
 
 
 // ============================================================================
