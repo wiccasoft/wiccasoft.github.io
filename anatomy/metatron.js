@@ -334,11 +334,9 @@ const spheres = [
 // ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME 
 // ============================================================================
 spheres.forEach(s => {
-
-    // Buraya optimize edilmiş particleGeo ve omurgaSelalesi kodlarını ekle
 const particleCount = 1200;
 const particleGeo = new THREE.BufferGeometry();
-// ... (pos/color tanımları ve mühürleme)
+
 KuantumKafesi.add(omurgaSelalesi); // OMURGA_SELALESI mühürü
   const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
   
