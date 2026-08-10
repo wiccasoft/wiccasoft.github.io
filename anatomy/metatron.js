@@ -463,37 +463,12 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
         window.KuantumKafesi.add(sphere);
     }); // 👈 Döngü burada pürüzsüzce bitti!
         
-    // 🌊 1200 PARÇACIKLI GERÇEK GLUON OMURGA ŞELALESİ İNŞASI (Yeri düzeltildi, kilitlendi!)
-    window.particleCount = 1200; 
-    window.particleGeo = new THREE.BufferGeometry();
-
-    const particlePositions = new Float32Array(window.particleCount * 3);
-    const particleColors = new Float32Array(window.particleCount * 3);
-
-    for(let i = 0; i < window.particleCount * 3; i += 3) {
-        particlePositions[i] = (Math.random() - 0.5) * 0.5;
-        particlePositions[i+1] = (Math.random() - 0.5) * 2.0; // Dikey omurga hattı
-        particlePositions[i+2] = (Math.random() - 0.5) * 0.5;
-        
-        particleColors[i] = 1.0; particleColors[i+1] = 1.0; particleColors[i+2] = 1.0;
-    }
-
-    window.particleGeo.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
-    window.particleGeo.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
-
-    const particleMat = new THREE.PointsMaterial({
-        size: 0.015,
-        vertexColors: true,
-        transparent: true,
-        opacity: 0.75,
-        depthWrite: false
-    });
 
     // 🔑 SON NİHAİ MÜHÜRLEME SATIRLARI (Ateşleme Anı!):
     // 📯 OMURGA_SELALESI Adreslemesini ve nesnesini pencere düzeyine çıkartıp ana gruba kenetliyoruz!
     window.omurgaSelalesi = new THREE.Points(window.particleGeo, particleMat);
     window.omurgaSelalesi.name = "OMURGA_SELALESI"; 
-    window.KuantumKafesi.add(window.omurgaSelalesi);
+    //window.KuantumKafesi.add(window.omurgaSelalesi);
 
 } // 👈 BÜYÜK AMİRAL GEMİSİ 'window.initMetatronEngine' İŞTE TAM BURADA GÜVENLE KAPANDI AGA!
 
