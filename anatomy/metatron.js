@@ -61,52 +61,55 @@ window.KuantumPaketi = class KuantumPaketi {
         let safFrekans = parseFloat(frekansDegeri) || 174;
         this.tabanHiz = safFrekans * 0.0022; // Kararlı taban hızı adımı
 
-        // 3D Gluon Parçacık Yapılandırması
-        const pGeom = new THREE.SphereGeometry(0.02, 4, 4);
-        const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.9 });
+        // 💎 BÜYÜK GLUON GEOMETRİSİ: Boyutu 0.02'den 0.05'e çıkararak o eski heybetli büyük parçacıkları geri getiriyoruz!
+        const pGeom = new THREE.SphereGeometry(0.05, 8, 8); 
+        const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.95 });
         this.mesh = new THREE.Mesh(pGeom, pMat);
 
-        // ⚡ YÖN KİLİDİ: Yön -1 ise parçacık uzaysal olarak hedef odanın koordinatında doğar! (Gerçek Çapraz Akım)
-        if (this.yon === -1) {
-            this.mesh.position.copy(this.hedef.position);
-        } else {
-            this.mesh.position.copy(this.kaynak.position);
-        }
+        // İlk konumlandırma her zaman kaynaktan başlar, lerpVectors yönü tayin eder
+        this.mesh.position.copy(this.kaynak.position);
 
         this.KuantumKafesi.add(this.mesh);
         this.surtunmeTetiklendi = false;
     }
 
     guncelle(sabitDelta) {
-        if (window.vagusBrakeActive) {
-            this.ilerleme = 1.0;
-            return;
-        }
+        if (window.vagusBrakeActive) { this.ilerleme = 1.0; return; }
 
-        // 🧬 ALGORİTMA: Ortadaki odada buluşana kadar hızlanır, buluştuktan sonra Altın Oranda (0.618) yavaşlar!
-        let ivmeKatsayisi = 1.0;
-        if (this.ilerleme < 0.5) {
-            // Çıkış Fazı: Merkeze (0.5 buluşma çizgisine) yaklaştıkça Altın Oran (1.618) gücüyle üstel ivmelenir
-            ivmeKatsayisi = Math.pow(1.6180339887, this.ilerleme * 2.5);
-        } else {
-            // Varış Fazı: Ortadaki odada kesiştikten sonra 1/Phi (0.618) gücüyle üstel olarak yavaşlar/frenlenir
-            ivmeKatsayisi = Math.pow(0.6180339887, (this.ilerleme - 0.5) * 2.5);
-        }
-
-        // İlerlemeyi yön işareti ve dinamik hız katsayısına göre güvenle ekliyoruz
-        this.ilerleme += this.tabanHiz * ivmeKatsayisi * sabitDelta;
-
+        // 🧬 1. ALTIN ORANDA İVME VE HIZ ENVELOPU
+        let anlikHizCarpar = (this.ilerleme < 0.5) ? 1.6180339887 : 0.6180339887;
+        this.ilerleme += this.tabanHiz * anlikHizCarpar * sabitDelta;
         if (this.ilerleme > 1.0) this.ilerleme = 1.0;
 
-        // Vektörel doğrusal uçuş interpolasyonu (Donmayı engelleyen mutlak koruma)
-        if (this.kaynak && this.hedef) {
-            if (this.yon === -1) {
-                // Ters yönlü akım hedef koordinattan kaynak koordinata doğru pürüzsüzce bükülür
-                this.mesh.position.lerpVectors(this.hedef.position, this.kaynak.position, this.ilerleme);
+        // 🧬 2. MERKEZE GELİNDİĞİNDE BÜYÜYEN VE ÇOĞALAN PLAZMA MOTORU
+        if (this.mesh && this.mesh.material) {
+            if (this.ilerleme < 0.5) {
+                // MERKEZE YAKLAŞTIKÇA: Altın oranda katlanarak büyür ve devasa bir plazma topuna dönüşür!
+                let cogalmaKatsayisi = Math.pow(1.6180339887, this.ilerleme * 4);
+                this.mesh.scale.setScalar(cogalmaKatsayisi * 2.0); // Ekstra büyük ölçek kilidi
+                this.mesh.material.opacity = Math.min(0.95 * cogalmaKatsayisi, 1.0);
             } else {
-                // İleri yönlü akım kaynaktan hedefe doğru düz bir hatta akar
-                this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, this.ilerleme);
+                // MERKEZDİ BULUŞMADAN SONRA: Altın oranda bölünerek küçülür, havada seyrelip yok olur!
+                let bolunmeKatsayisi = Math.pow(0.6180339887, (this.ilerleme - 0.5) * 4);
+                this.mesh.scale.setScalar(bolunmeKatsayisi * 3.2); // Bölünerek ufalanma eğrisi
+                this.mesh.material.opacity = 0.95 * bolunmeKatsayisi;
             }
+        }
+
+        // 🧬 3. 🌊 SİNÜS DALGASI VE YÖNLÜ ÇAPRAZ AKIŞ ALGORİTMASI
+        if (this.kaynak && this.hedef) {
+            // Parçacıklar tam merkeze yaklaştığında sinüs dalgasının en tepesine ulaşır
+            let sinusGenligi = Math.sin(this.ilerleme * Math.PI) * 0.25; // Dalga bükülme derinliği artırıldı
+
+            // +1 ve -1 yön kilitlerine göre uzamsal doğrultuyu hesapla
+            let t = (this.yon === -1) ? (1.0 - this.ilerleme) : this.ilerleme;
+
+            // Doğrusal hattı çiz
+            this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, t);
+
+            // 🎯 SİNÜS DALGASI BÜKÜMÜ: Gluonlar bir spiral gibi kıvrılarak merkeze akar
+            this.mesh.position.y += sinusGenligi;
+            this.mesh.position.x += sinusGenligi * 0.5;
         }
     }
 };
@@ -129,7 +132,7 @@ window.RENK_TAYFI_SPEKTRUMU = [
 // 🎛 3. ŞALTERLER KİLİTLENİYOR
 window.sonUretimZamani = 0;
 window.mevcutOdaSirasi = 0;
-window.frameSayaci = 0; // Lagı sıfırlayan kare sayacını da globale alıyoruz
+window.frameSayaci = 0; 
 
 /**
  * Milivolt (mV) ve Vagus sinyallerine göre parçacıkları ve Metatron'u günceller.
@@ -144,18 +147,24 @@ window.frameSayaci = 0; // Lagı sıfırlayan kare sayacını da globale alıyor
 if (window.sequencePointer === undefined) window.sequencePointer = 0;
 if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
 
+// ============================================================================
+// METATRON SAF KUTUPSAL TERS AKIM ODA YAKMA MOTORU (SIFIR PARÇACIK / SIFIR LAG)
+// ============================================================================
+if (window.sequencePointer === undefined) window.sequencePointer = 0;
+if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
+
 window.updateMetatronLoop = function() {
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
 
-    const deltaFrame = 1 / 25; 
     window.KuantumKafesi.rotation.y = Math.PI / 2; // Perspektif Kilidi
 
     if (!window.vagusBrakeActive) {
         window.frameSayaci++;
 
+        // ⏱️ RİTİM KİLİDİ: Her 12 karede bir odaları ters akımla yakar ve vites değiştirir
         if (window.frameSayaci % 12 === 0) {
             
-            // Tüm odaları loş moda çek (Karartma)
+            // 1. ADIM: Tüm odaları başlangıçta loş cam moduna çek (Karartma)
             window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
                 let nodeMesh = window.KuantumKafesi.getObjectByName(oda.name);
                 if (nodeMesh && nodeMesh.material) {
@@ -164,51 +173,53 @@ window.updateMetatronLoop = function() {
                 }
             });
 
-            // 🔑 Değişkenler burada temizce tanımlanıyor
+            // 2. ADIM: RYB ve BYR matris dizilerinden ters akım çiftlerini çekiyoruz
             let currentIdA = 1;
             let currentIdB = 7;
 
+            // Dosyanın en üstündeki orijinal const dizilerine doğrudan güvenli bağlantı
+            let rybDizisi = (typeof RYB !== 'undefined') ? RYB : (window.RYB || [1, 4, 7, 8, 5, 2]);
+            let byrDizisi = (typeof BYR !== 'undefined') ? BYR : (window.BYR || [7, 4, 1, 5, 8, 2]);
+
+            // Motor moduna göre tersine akım ID eşleştirmesi
             if (window.activeMatrixMode === "RYB") {
-                currentIdA = window.RYB[window.sequencePointer];
-                currentIdB = window.BYR[window.sequencePointer]; 
+                // Tur 1: RYB[0] -> 1 (Kırmızı) ve BYR[0] -> 7 (Mavi) TERSİNE AKIMLA YANAR!
+                currentIdA = rybDizisi[window.sequencePointer];
+                currentIdB = byrDizisi[window.sequencePointer]; 
             } else if (window.activeMatrixMode === "BYR") {
-                currentIdA = window.BYR[window.sequencePointer];
-                currentIdB = window.RYB[window.sequencePointer];
+                currentIdA = byrDizisi[window.sequencePointer];
+                currentIdB = rybDizisi[window.sequencePointer];
             } else {
-                currentIdA = window.colorspectrum[window.sequencePointer];
+                let spektrumDizisi = (typeof colorspectrum !== 'undefined') ? colorspectrum : (window.colorspectrum || [1, 2, 4, 8, 7, 5]);
+                currentIdA = spektrumDizisi[window.sequencePointer];
                 let inversePointer = (window.sequencePointer + 3) % 6;
-                currentIdB = window.colorspectrum[inversePointer];
+                currentIdB = spektrumDizisi[inversePointer];
             }
 
+            // 3. ADIM: Sözlükten odaları bul ve AYNI ANDA neon gibi patlatarak yak!
             let dictA = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === currentIdA);
             let dictB = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === currentIdB);
 
             if (dictA && dictB) {
-                let meshSource = window.KuantumKafesi.getObjectByName(dictA.name);
-                let meshTarget = window.KuantumKafesi.getObjectByName(dictB.name);
+                let meshA = window.KuantumKafesi.getObjectByName(dictA.name);
+                let meshB = window.KuantumKafesi.getObjectByName(dictB.name);
 
-                if (meshSource && meshTarget) {
-                    // ⚡ +1 VE -1 KUTUP KİLİTLİ ÇİFT GLUON AKIŞ ENJEKSİYONU
-                    let gluonAlpha = new window.KuantumPaketi(meshSource, meshTarget, dictA.frekans, window.KuantumKafesi, 1);
-                    
-                    // 🎯 KESİNTİSİZ GERÇEK KESİŞİM MAPLEMESİ (Değişkenlerin tam altında, korumalı alanda)
-                    let kesisimHaritasiMatrisi = {
-                        "1-7": 4, "7-1": 4, "4-4": 4, "2-2": 2,
-                        "8-5": 8, "5-8": 8, "1-8": 4, "8-1": 4,
-                        "7-5": 8, "5-7": 8
-                    };
-                    let anahtarKodu = currentIdA + "-" + currentIdB;
-                    gluonAlpha.intersectionId = kesisimHaritasiMatrisi[anahtarKodu] || 4;
-                    
-                    aktifPaketler.push(gluonAlpha);
-
-                    // Gluon Beta: Negatif/Ters Yön (-1) ile tam zıt uçtan doğarak fırlatılır
-                    let gluonBeta = new window.KuantumPaketi(meshSource, meshTarget, dictB.frekans, window.KuantumKafesi, -1);
-                    gluonBeta.intersectionId = gluonAlpha.intersectionId;
-                    aktifPaketler.push(gluonBeta);
+                // Ters akım çiftleri doğrudan yüksek voltaj parlaklığına ulaşır
+                if (meshA && meshA.material) {
+                    meshA.material.emissiveIntensity = 4.5; // Neon Işıması
+                    meshA.material.opacity = 1.0;
                 }
+                if (meshB && meshB.material) {
+                    meshB.material.emissiveIntensity = 4.5; // Neon Işıması
+                    meshB.material.opacity = 1.0;
+                }
+
+                // HUD panel göstergeleri için anlık veri sinyalini dışarıya fırlat
+                window.currentMv = dictA.mv;
+                window.currentOdaRengi = dictA.renk;
             }
 
+            // 4. ADIM: İndeksi ilerlet ve her 6 adımda bir matris modunu (vitesi) otomatik değiştir
             window.sequencePointer = (window.sequencePointer + 1) % 6;
             if (window.sequencePointer === 0) {
                 if (window.activeMatrixMode === "RYB") window.activeMatrixMode = "BYR";
@@ -218,40 +229,10 @@ window.updateMetatronLoop = function() {
         }
     }
 
-    // Parçacık uçuş ve sürtünmeyle oda yakma döngüsü
-    for (let i = aktifPaketler.length - 1; i >= 0; i--) {
-        let packet = aktifPaketler[i];
-        packet.guncelle(deltaFrame); 
-
-        // 💥 SÜRTÜNME VE KESİŞİM: Parçacıklar tam orta odanın içinde kafa kafaya buluştuğu an
-        if (packet.ilerleme >= 0.5 && !packet.surtunmeTetiklendi) {
-            packet.surtunmeTetiklendi = true; 
-            
-            let targetDict = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === packet.intersectionId);
-            if (targetDict) {
-                let kesisimMesh = window.KuantumKafesi.getObjectByName(targetDict.name);
-                if (kesisimMesh && kesisimMesh.material) {
-                    // İki zıt gluonun sürtünme dalgası ortadaki odayı neon gibi yakar!
-                    kesisimMesh.material.emissiveIntensity = 4.5; 
-                    kesisimMesh.material.opacity = 1.0;
-                    
-                    window.currentMv = targetDict.mv;
-                    window.currentOdaRengi = targetDict.renk;
-                }
-            }
-        }
-
-        // Güvenli imha kilidi (Donmayı çözen tahliye)
-        if (packet.ilerleme >= 1.0) {
-            if (packet.mesh) {
-                window.KuantumKafesi.remove(packet.mesh);
-            }
-            aktifPaketler.splice(i, 1);
-        }
-    }
-
+    // Ekranı çizdir
     window.renderer.render(window.scene, window.camera);
 };
+
 // ============================================================================
 // METATRON CANLI DURUM OKUMA VE DIŞARIYA SİNYAL VERME MOTORU
 // ============================================================================
