@@ -29,6 +29,34 @@
 
         
     }
+
+
+    /* main.html içindeki arayüz overlay kapsayıcısı */
+#ui-container {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none; /* Tıklamaların arkadaki iframe/3D sahneye düşmesini sağlar */
+}
+
+/* Kapsayıcı içindeki butonlar ve text alanları yeniden tıklanabilir olmalı */
+button, input, .panel-kartlari {
+    pointer-events: auto; 
+}
+
+    /* main.html içindeki UI kapsayıcı paneli */
+#ui-overlay-container {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none; /* Mouse tıklamalarının arkadaki 3D sahneye geçmesini sağlar */
+    z-index: 10;
+}
+
+/* Panel içindeki butonlar ve yazı kutuları yeniden tıklanabilir olmalı */
+.interactive-panel, button, input {
+    pointer-events: auto; 
+}
     
 
     /* 🎛️ SİBERPUNK INTERFACE KONTROL PANELI */
@@ -132,7 +160,7 @@
 
 
   <!-- ⚡ AC-DC ANATOMY MOTORU ÖNE BİNDİRİLDİ -->
-  <iframe id="anatomy-engine" src="./anatomy.html"></iframe>
+ <iframe id="anatomy-engine" src="./anatomy.html?v=2"></iframe>
 
 
 <!-- 🎛️ AKADEMİSYENLERİ HİPNOZ EDECEK INTERFACE PANELİ -->
@@ -184,6 +212,11 @@
     }
 
 
+    // main.html içindeki buton tetikleyicisi:
+function modDegistir(yeniMod) {
+    const iframe = document.getElementById("anatomy-viewport"); // iframe id'niz
+    iframe.contentWindow.postMessage({ komut: "MOD_TETIKLE", mod: yeniMod }, "*");
+}
 
     // main.html içine eklenecek dinleyici:
 window.addEventListener("message", (event) => {
