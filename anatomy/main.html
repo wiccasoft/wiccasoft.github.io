@@ -163,6 +163,7 @@ button, input, .panel-kartlari {
  <iframe id="anatomy-engine" src="./anatomy.html?v=2"></iframe>
 
 
+ 
 <!-- 🎛️ AKADEMİSYENLERİ HİPNOZ EDECEK INTERFACE PANELİ -->
   <div id="matrix-control-panel">
       <!-- Mod Değiştirici Buton (Ten rengi gürültüsünü siler, turuncu küreyi parlatır) -->
@@ -175,6 +176,148 @@ button, input, .panel-kartlari {
           🔮 Ask Gemini: Academic Oracle
       </button>
   </div>
+
+
+
+  <!-- 🪟 SLIDE MENU TETİKLEYİCİ ŞERİT (Ekranın en solunda incecik mor bir çizgi olarak pusuda bekler) -->
+<div id="slideMenuTrigger" onclick="toggleSlideMenu()" style="
+    position: absolute;
+    top: 0; left: 0; width: 8px; height: 100vh;
+    background: linear-gradient(to bottom, #660099, #111, #660099);
+    cursor: pointer; z-index: 1001; opacity: 0.7;
+    transition: opacity 0.3s ease, width 0.3s ease;
+" onmouseover="this.style.width='15px'; this.style.opacity='1';" onmouseout="this.style.width='8px'; this.style.opacity='0.7';">
+    <!-- İçine çok zarif dikey bir ok veya sembol koyulabilir -->
+    <div style="color: #fff; position: absolute; top: 50%; left: 2px; font-size: 10px; transform: translateY(-50%); font-weight: bold;">❯</div>
+</div>
+
+<!-- 🎛️ MASTER ACADEMIC SLIDE CONTROL DECK (YANDAN KAYAN GİZLİ PANEL) -->
+<div id="academicControlDeck" style="
+    position: absolute;
+    top: 0;
+    left: -300px; /* 🔑 KESİN ÇÖZÜM: İlk açılışta ekranın tamamen dışında, gizli durur! */
+    width: 260px;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.92); /* Arkadaki resmi hafif süzmesi için şeffaf karartı */
+    border-right: 2px solid #660099;
+    padding: 20px 15px;
+    z-index: 1000;
+    font-family: monospace;
+    box-shadow: 5px 0 25px rgba(102, 0, 153, 0.5);
+    transition: left 0.4s cubic-bezier(0.1, 0.9, 0.2, 1); /* Pürüzsüz uzay gemisi kapısı akışı */
+    display: flex;
+    flex-direction: column;
+">
+    <!-- Paneli Geri Kapatma Butonu -->
+    <div style="text-align: right; margin-bottom: 15px;">
+        <button onclick="toggleSlideMenu()" style="background:none; border:none; color:#660099; cursor:pointer; font-size:16px; font-weight:bold;">❮ CLOSE</button>
+    </div>
+
+    <!-- 🗂️ ÇİFT TABLI GEÇİŞ SEKME ALANI -->
+    <div style="display: flex; gap: 5px; margin-bottom: 20px; border-bottom: 1px solid #222; padding-bottom: 10px;">
+        <button id="tabSalvador" onclick="switchAcademicTab('salvador')" style="
+            flex: 1; padding: 8px; background: #660099; color: #fff; 
+            border: none; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 11px;
+        ">SALVADOR</button>
+        
+        <button id="tabDoctors" onclick="switchAcademicTab('doctors')" style="
+            flex: 1; padding: 8px; background: #111; color: #888; 
+            border: 1px solid #222; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 10px;
+        ">DOCTORS</button>
+    </div>
+
+    <!-- 📊 ANLIK TELEMETRİ BİLGİ EKRANI -->
+    <div id="telemetryScreen" style="color: #00ff00; font-size: 11px; margin-bottom: 25px; height: 50px; line-height: 1.5; border: 1px solid #222; padding: 8px; background: #050505;">
+        MODE: ORIGINAL ILLUSION<br>CORE: CALIBRATION METRIC
+    </div>
+
+    <!-- 🔳 MİNİK KARE İKONLU KONTROL BUTONLARI -->
+    <div style="display: flex; gap: 8px; justify-content: space-between; margin-top: auto; padding-bottom: 30px;">
+        <!-- Buton 1: İskelet Şalteri (Görünürlük Toggle) -->
+        <button onclick="toggleSkeletonButton()" title="İskelet Şalteri (🩻)" style="
+            width: 45px; height: 45px; background: #222; border: 1px solid #660099; 
+            color: #ffff00; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
+        ">🩻</button>
+
+        <!-- Buton 2: RGB Milleri (Kalibrasyon Cetveli Toggle) -->
+        <button id="btnAxes" onclick="toggleAxesButton()" title="RGB Eksen Milleri (🧭)" style="
+            width: 45px; height: 45px; background: #660099; border: 1px solid #fff; 
+            color: #00ff00; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
+        ">🧭</button>
+
+        <!-- Buton 3: 4 Element Aynalama Filtresi -->
+        <button onclick="toggleMirrorButton()" title="4 Element Aynalama Modu (🪞)" style="
+            width: 45px; height: 45px; background: #222; border: 1px solid #222; 
+            color: #ff00ff; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
+        ">🪞</button>
+
+        <!-- Buton 4: Kuantum Kalp Nabız Şalteri -->
+        <button onclick="toggleHeartButton()" title="Kuantum Kalp Atış Şalteri (❤️)" style="
+            width: 45px; height: 45px; background: #222; border: 1px solid #222; 
+            color: #ff0000; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
+        ">❤️</button>
+    </div>
+</div>
+
+<script>
+// 🔓 SLIDE PANEL AÇMA / KAPAMA ALGORITMASI
+let menuOpen = false;
+function toggleSlideMenu() {
+    menuOpen = !menuOpen;
+    const deck = document.getElementById("academicControlDeck");
+    // Eğer kapalıysa ekranın sol kenarına sıfırlanarak kayar, açıksa sola doğru gizlenir
+    deck.style.left = menuOpen ? "0px" : "-300px";
+}
+
+// 🗂️ TAB GEÇİŞ ALGORİTMASI
+function switchAcademicTab(targetTab) {
+    const tabSal = document.getElementById("tabSalvador");
+    const tabDoc = document.getElementById("tabDoctors");
+    const telemetry = document.getElementById("telemetryScreen");
+    
+    if (targetTab === 'salvador') {
+        tabSal.style.background = "#660099"; tabSal.style.color = "#fff"; tabSal.style.border = "none";
+        tabDoc.style.background = "#111"; tabDoc.style.color = "#888"; tabDoc.style.border = "1px solid #222";
+        telemetry.innerHTML = "MODE: SALVADOR MUNDI<br>CORE: TOROIDAL POLARITY ACTIVE";
+    } else {
+        tabDoc.style.background = "#660099"; tabDoc.style.color = "#fff"; tabDoc.style.border = "none";
+        tabSal.style.background = "#111"; tabSal.style.color = "#888"; tabSal.style.border = "1px solid #222";
+        telemetry.innerHTML = "MODE: CHRIST AMONG DOCTORS<br>CORE: TEMPLE DISCIPLINE ACTIVE";
+    }
+}
+
+// 🔳 MESSAGING TETİKLEYİCİLERİ
+let axesState = true;
+function toggleAxesButton() {
+    axesState = !axesState;
+    const btn = document.getElementById("btnAxes");
+    btn.style.background = axesState ? "#660099" : "#222";
+    btn.style.border = axesState ? "1px solid #fff" : "1px solid #222";
+
+    const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
+    if (metatronIframe && metatronIframe.contentWindow) {
+        metatronIframe.contentWindow.postMessage({ komut: "EKSEN_DURUMU_DEGISTIR", durum: axesState }, "*");
+    }
+}
+
+function toggleSkeletonButton() {
+    const metatronIframe = document.getElementById("metatronIframeId");
+    if (metatronIframe && metatronIframe.contentWindow) {
+        metatronIframe.contentWindow.postMessage({ komut: "SKELETON_TOGGLE" }, "*");
+    }
+}
+
+function toggleHeartButton() {
+    const metatronIframe = document.getElementById("metatronIframeId");
+    if (metatronIframe && metatronIframe.contentWindow) {
+        metatronIframe.contentWindow.postMessage({ komut: "HEART_TOGGLE" }, "*");
+    }
+}
+
+function toggleMirrorButton() {
+    alert("4 Element Aynalama Modu Aktif Cetvelleri Hazırlanıyor!");
+}
+</script>
 
 
   <script>
@@ -222,6 +365,21 @@ function modDegistir(yeniMod) {
 window.addEventListener("message", (event) => {
     if (event.data.komut === "EKRAN_GUNCELLE") {
         document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${event.data.mv.toFixed(0)} mV`;
+        document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
+    }
+});
+
+
+// 🔒 AUTHORITATIVE ORIGIN REGEX SHIELD
+const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasoft\.github\.io/;
+
+window.addEventListener("message", (event) => {
+    // Drop execution blocks if context origin fails integrity verification
+    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+
+    // Route message safely into UI DOM trees
+    if (event.data && event.data.komut === "EKRAN_GUNCELLE") {
+        document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${Number(event.data.mv).toFixed(0)} mV`;
         document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
     }
 });
