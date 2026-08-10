@@ -37,6 +37,70 @@ const BYR = [7, 4, 1, 5, 8, 2];
 //let aktifIndexB = 0;
 
 
+// ============================================================================
+// 🧭 DETACHED RGB AXES CORE ENGINE (DİNAMIK BUTON UYUMLU EKSEN FONKSİYONU)
+// ============================================================================
+window.createMetatronAxes = function(isAxisVisible) {
+    // 🔑 Eğer eksen millerimiz hafızada zaten varsa, init gibi sıfırdan çizim yapma!
+    // Sadece butonun yolladığı true/false emrine göre görünürlüğünü dinamik değiştir.
+    if (window.currentAxisX && window.currentAxisY && window.currentAxisZ) {
+        window.currentAxisX.visible = isAxisVisible;
+        window.currentAxisY.visible = isAxisVisible;
+        window.currentAxisZ.visible = isAxisVisible;
+        console.log(`[AXES PROTOCOL] Miller Hafızadan Değiştirildi. Görünürlük: ${isAxisVisible}`);
+        return;
+    }
+
+    // 🚀 [BURASI SADECE İLK AÇILIŞTA 1 KEZ ÇALIŞIR] ➔ Milleri ilk kez hafızada doğurur
+    const axisLength = 0.5; // İskelet sınırlarında kalacak altın oran uzunluğu
+
+    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Aynalama Mili)
+    const geomX = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(-axisLength, 0, 0), 
+        new THREE.Vector3(axisLength, 0, 0)
+    ]);
+    const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
+    window.currentAxisX = new THREE.Line(geomX, matX);
+    window.currentAxisX.name = "AXIS_X";
+    window.currentAxisX.visible = isAxisVisible;
+
+    // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
+    const geomY = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(0, -axisLength, 0), 
+        new THREE.Vector3(0, axisLength, 0)
+    ]);
+    const matY = new THREE.LineBasicMaterial({ color: 0x00ff00, linewidth: 2 });
+    window.currentAxisY = new THREE.Line(geomY, matY);
+    window.currentAxisY.name = "AXIS_Y";
+    window.currentAxisY.visible = isAxisVisible;
+
+    // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
+    const geomZ = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(0, 0, -axisLength), 
+        new THREE.Vector3(0, 0, axisLength)
+    ]);
+    const matZ = new THREE.LineBasicMaterial({ color: 0x0000ff, linewidth: 2 });
+    window.currentAxisZ = new THREE.Line(geomZ, matZ);
+    window.currentAxisZ.name = "AXIS_Z";
+    window.currentAxisZ.visible = isAxisVisible;
+
+    // Miller doğrudan büyük KuantumKafesi grubuna kilitlenir
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(window.currentAxisX);
+        window.KuantumKafesi.add(window.currentAxisY);
+        window.KuantumKafesi.add(window.currentAxisZ);
+    }
+    
+    console.log(`[AXES PROTOCOL] Miller İlk Kez Yaratıldı. Görünürlük: ${isAxisVisible}`);
+};
+
+
+   // ============================================================================
+    // 🧭 INTEGRATED RGB AXES (MÜKERRER KODLARI BİTİREN TEK MERKEZ ÇAĞRISI)
+    // ============================================================================
+    // 🔑 KESİN ÇÖZÜM: 'true' olan parametreyi 'false' yapıyoruz!
+    // Böylece konsolda "Görünürlük: false" yazacak ve ilk açılışta ekran pürüzsüzce temiz kalacak.
+    window.createMetatronAxes(false); 
 
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
@@ -240,7 +304,7 @@ window.initMetatronEngine = function() {
     window.KuantumKafesi = new THREE.Group(); 
     window.KuantumKafesi.name = "MERKEZI_METATRON";
 
-    window.KuantumKafesi.visible = false; 
+    window.KuantumKafesi.visible = true; 
 
     // ============================================================================
     // 🧭 INTEGRATED RGB AXES (MODÜLER FONKSİYONEL ÇAĞRI)
@@ -249,35 +313,7 @@ window.initMetatronEngine = function() {
     // İleride 4 element aynalama modunda bu fonksiyonu 'true' ile özgürce çağırabiliriz.
     window.createMetatronAxes(true); 
 
-    const axisLength = 0.5; // İskeletin içinde kalacak tam altın oran uzunluğu
-    
-    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Mili)
-    const geomX = new THREE.BufferGeometry().setFromPoints([
-        new THREE.Vector3(-axisLength, 0, 0), 
-        new THREE.Vector3(axisLength, 0, 0)
-    ]);
-    const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
-    const currentAxisX = new THREE.Line(geomX, matX);
-    window.KuantumKafesi.add(currentAxisX);
-
-    // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
-    const geomY = new THREE.BufferGeometry().setFromPoints([
-        new THREE.Vector3(0, -axisLength, 0), 
-        new THREE.Vector3(0, axisLength, 0)
-    ]);
-    const matY = new THREE.LineBasicMaterial({ color: 0x00ff00, linewidth: 2 });
-    const currentAxisY = new THREE.Line(geomY, matY);
-    window.KuantumKafesi.add(currentAxisY);
-
-    // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
-    const geomZ = new THREE.BufferGeometry().setFromPoints([
-        new THREE.Vector3(0, 0, -axisLength), 
-        new THREE.Vector3(0, 0, axisLength)
-    ]);
-    const matZ = new THREE.LineBasicMaterial({ color: 0x0000ff, linewidth: 2 });
-    const currentAxisZ = new THREE.Line(geomZ, matZ);
-    window.KuantumKafesi.add(currentAxisZ);
-    
+  
 
     // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
     window.KuantumKafesi.rotation.y = Math.PI / 2; 
@@ -315,6 +351,7 @@ window.initMetatronEngine = function() {
     // 💡 AÇIKLAMA: Yerel sızıntıların hepsi global window nesnesine kenetlenmiştir.
 
     // ⚡ 4 ANA ELEMENT AKS MATRİSİ (Ateş, Toprak, Hava, Su Vektörleri)
+    //Metatron İskeletinin Kutsal Çapraz Kaburgası ve 4 Element Omurgasıdır.
     const elementAkslari = [
         { c1: 0x111111, c2: 0xffffff, yon: new THREE.Vector3(-1, -1, -1).normalize(), name: "Siyah_Beyaz_Ates_Su" },
         { c1: 0xffff00, c2: 0xff00ff, yon: new THREE.Vector3(1, -1, 1).normalize(),   name: "Sari_Pembe_Hava_Toprak" },
@@ -325,7 +362,8 @@ window.initMetatronEngine = function() {
     // 🏟 Icosahedron Kaburgasını Oluşturacak Aks Çizgilerinin Görünür Kılınması
     const aksGenisligi = 0.35 * Math.sqrt(2) * 1.1; 
     const canlıAksCizgileri = []; // 👈 Güncelleme döngüsü için referans dizisi
-
+  // burası tam anlamıyla 4 Ana Element Aksını (Ateş, Toprak, Hava, Su) matematiksel vektörlerden çıkarıp, 
+  // 3D sahnede et ve kemiğe büründüren, yani çizgisel kaburgaları çizen Kutsal Döngüdür. 
     elementAkslari.forEach(aks => {
         const posA = aks.yon.clone().multiplyScalar(aksGenisligi);
         const posB = aks.yon.clone().multiplyScalar(-aksGenisligi);
@@ -348,6 +386,7 @@ window.initMetatronEngine = function() {
     });
 
     // Küp corners dizisi lokal kalabilir, çünkü dışarıdan çağrılmıyor
+    //burası da tam anlamıyla Metatron Küpünün 8 Kutsal Köşebaşı (corners) ve Kamera Özgürlük Kalkanıdır.
     const corners = [
         new THREE.Vector3( 0.5,  0.5,  0.5), new THREE.Vector3( 0.5,  0.5, -0.5),
         new THREE.Vector3( 0.5, -0.5,  0.5), new THREE.Vector3( 0.5, -0.5, -0.5),
@@ -363,7 +402,8 @@ window.initMetatronEngine = function() {
 
     // window.scene zaten yukarıda global yapılmıştı, kararlılık korundu
     window.scene.add(new THREE.AmbientLight(0xffffff));
-    // Yüzeyler: köşeler + merkez + normal (Lokal matris kalsın, hafızayı şişirmesin)
+    // Yüzeyler: köşeler + merkez + normal 
+    // Metatron Küpünün 3 Boyutlu Uzay Sınırlarını Belirleyen 6 Kutsal Yüzey (faces) Matrisidir.
     const faces = [
         {corners:[corners[0], corners[2], corners[3], corners[1]], center:new THREE.Vector3(0.5,0,0), normal:new THREE.Vector3(1,0,0)},
         {corners:[corners[4], corners[6], corners[7], corners[5]], center:new THREE.Vector3(-0.5,0,0), normal:new THREE.Vector3(-1,0,0)},
@@ -374,6 +414,7 @@ window.initMetatronEngine = function() {
     ];
 
     // Sarı kareler + gri “+” işaretleri
+    //Metatron Küpünün Dış Geometrik Zırhını (Sarı Kareler) ve İç Denge Akslarını (Gri Artı İşaretleri) Sahnede Canlandıran Döngüdür.
     faces.forEach(f=>{
         const squareVertices = [];
         for (let i=0; i<f.corners.length; i++) {
@@ -410,18 +451,23 @@ window.initMetatronEngine = function() {
         window.scene.add(new THREE.Line(axisGeom, axisMat));
     };
     
- // addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
- // addAxis(0x00ff00, new THREE.Vector3(0,-10,0), new THREE.Vector3(0,10,0));
- // addAxis(0x0000ff, new THREE.Vector3(0,0,-10), new THREE.Vector3(0,0,10));
+    
+  //addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
+  //addAxis(0x00ff00, new THREE.Vector3(0,-10,0), new THREE.Vector3(0,10,0));
+  //addAxis(0x0000ff, new THREE.Vector3(0,0,-10), new THREE.Vector3(0,0,10));
 
 
 
-// Beyaz ve siyah kürelerin yeni dikey omurga pozisyonları
-//const whitePos = new THREE. Vector3( 0,  0.35, 0); // 🔑 Beyaz tam dikey Kuzey
-//const blackPos = new THREE. Vector3( 0, -0.35, 0); // 🔑 Siyah tam dikey Güney
 // 🔑 ÇAPRAZ OMURGA MÜHÜRÜ: Yeşil mili tam \(\sqrt{2}\) köşegen aksından geçirir
+// Salvador Mundi portresinin kalbine Da Vinci’nin gizlediği o en meşhur, 
+// o en kadim "Kutsal Merkez Piramitleri" (The Inner Core Pyramids) ve
+//  Merkezden Köşelere Genleşen Işın Vektörleri geometrisidir.
     const whitePos = new THREE.Vector3(-0.25,  0.25, -0.25); 
     const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
+
+    // burası kübün tam 0,0,0 mutlak sıfır noktasından (Tekillikten) doğup, 
+    // 8 ana köşeye (corners) doğru bir patlama (Big Bang) şeklinde genleşen
+    // o ilk iç içe geçmiş göksel ve yersel piramit şasisidir.
     
     // 🔑 GLOBAL FONKSİYON ÇAĞRISI: addAxis artık window düzeyinden çağrılıyor!
     //window.addAxis(0x00ff00, blackPos, whitePos);
@@ -437,8 +483,11 @@ window.initMetatronEngine = function() {
     pyramidGeom.setAttribute('position', new THREE.Float32BufferAttribute(pyramidVertices,3));
     const pyramidMat = new THREE.LineBasicMaterial({color:0xffffff});
     
+    // ============================================================================
     // 🔑 GLOBAL GRUP KİLİDİ: Merkez piramit hatları doğrudan küresel kafese mühürlendi!
-    window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat));
+    window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat));        // fire in the middle
+    // ============================================================================
+
 
     // ============================================================================
     // AKSA HİZALI KUTSAL MERKABA KÖŞELERİ (Lokal kalabilir, dışarıdan çağrılmıyor)
@@ -588,3 +637,83 @@ window.addEventListener('resize', () => {
     window.camera.updateProjectionMatrix();
     window.renderer.setSize(window.innerWidth, window.innerHeight);
 }, false);
+
+
+
+
+// ============================================================================
+// 📢 HARİCİ BUTON ŞALTER DİNLEYİCİSİ (AŞAĞIDAKİ GEOMETRİYİ ASLA ETKİLEMEZ)
+// ============================================================================
+window.addEventListener("message", (event) => {
+    if (event.data && event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
+        let butonGelenDurum = event.data.durum; // true veya false sinyali gelir
+        
+        if (window.createMetatronAxes) {
+            // init motoruna dokunmadan sadece harici fonksiyonu tetikler
+            window.createMetatronAxes(butonGelenDurum); 
+        }
+    }
+});
+
+
+
+// ============================================================================
+// 📢 CONTROL DECK RECEIVER BRIDGE (HARİCİ KARE BUTONLARDAN GELEN EMİR MOTORU)
+// ============================================================================
+window.addEventListener("message", (event) => {
+    if (!event.data) return;
+
+    // 🔴 1. Eksen Milleri Aç/Kapat Tetiği (Senin init içinde bilerek uyanık açtığın miller)
+    if (event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
+        let butonGelenDurum = event.data.durum; // true veya false sinyali gelir
+        if (window.createMetatronAxes) {
+            window.createMetatronAxes(butonGelenDurum); 
+        }
+    }
+
+    // 🟡 2. İskelet Görünürlük Tetiği (Toggle Switch)
+    if (event.data.komut === "SKELETON_TOGGLE") {
+        if (window.KuantumKafesi) {
+            window.KuantumKafesi.visible = !window.KuantumKafesi.visible;
+            // Eksen milleri iskeletle senkronize hareket etsin kafa karışmasın
+            if (window.currentAxisX) window.currentAxisX.visible = window.KuantumKafesi.visible;
+            if (window.currentAxisY) window.currentAxisY.visible = window.KuantumKafesi.visible;
+            if (window.currentAxisZ) window.currentAxisZ.visible = window.KuantumKafesi.visible;
+            console.log(`[DECK PROTOCOL] Skeleton Visible Toggled To: ${window.KuantumKafesi.visible}`);
+        }
+    }
+
+    // 🛑 3. Kuantum Kalp Atış Şalteri
+    if (event.data.komut === "HEART_TOGGLE") {
+        window.akademikKalpAktif = !window.akademikKalpAktif;
+        if (window.metatronAydinlanmaAsamasi < 3) window.metatronAydinlanmaAsamasi = 3;
+        console.log(`[DECK PROTOCOL] Kuantum Kalp Durumu Değiştirildi: ${window.akademikKalpAktif}`);
+    }
+});
+
+
+
+// ============================================================================
+// 📡 CORE METATRON TELEMETRY RECEIVER (YANDAN KAYAN PANEL İÇİN VERİ AKIŞI)
+// ============================================================================
+window.addEventListener("message", (event) => {
+    if (!event.data) return;
+    
+    const telemetry = document.getElementById("telemetryScreen");
+    if (!telemetry) return;
+
+    // 1. Genel Durum Güncellemeleri (Aşama Geçiş Sinyalleri)
+    if (event.data.komut === "EKRAN_GUNCELLE") {
+        telemetry.innerHTML = `MODE: ${event.data.mod}<br>CORE: CALIBRATION METRIC`;
+    }
+
+    // 2. Parçacık Üst Kutba (Beyne / Crux Nexus'una) Vardığında Galaktik Saat Tetiklenir
+    if (event.data.komut === "KOZMIK_SAAT_GUNCELLE") {
+        telemetry.innerHTML = `<span style="color:#fff;">[${event.data.durak}]</span><br><span style="color:#ff00ff;">${event.data.takvim}</span><br>FREKANS: ACTIVE ESİR`;
+    }
+
+    // 3. Parçacık Alt Kutba (Sacrum Kâsesine) İnip U-Dönüşü Yaptığında I Ching Kodlanır
+    if (event.data.komut === "ICHING_KOD_GUNCELLE") {
+        telemetry.innerHTML = `<span style="color:#fff;">[${event.data.durak}]</span><br><span style="color:#ffff00;">${event.data.binary}</span> | ${event.data.hekzagram}`;
+    }
+});
