@@ -126,33 +126,57 @@ window.updateMetatronLoop = function() {
     const sabitDelta = 1 / 25; // 25 FPS
     if (window.mevcutOdaSirasi === undefined) window.mevcutOdaSirasi = 0;
 
-    // 🌊 LAGSIZ ŞELALE AKIŞ MOTORU (Küresel Sayaçlara Bağlı)
+    // 🌊 SIRA TABANLI PARLAMA VE DOĞRUSAL AKIŞ MOTORU
     if (!window.vagusBrakeActive) {
         window.frameSayaci++;
 
-        // ⏱ RİTİM KİLİDİ: 4 karede bir aksiyon
-        if (window.frameSayaci % 4 === 0) {
+        // ⏱ RİTİM KİLİDİ: Her 12 karede bir (yaklaşık yarım saniye) bir sonraki odayı yak
+        if (window.frameSayaci % 12 === 0) {
             let akisYonu = (window.currentMv === -60) ? -1 : 1;
-            let mevcutVeri = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+            
+            // 🛑 1. GEÇEN ODAYI ESKİ HALİNE SÖNDÜR (Yarı saydam cam modu)
+            let eskiVeri = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+            if (eskiVeri) {
+                let eskiMesh = window.KuantumKafesi.getObjectByName(eskiVeri.name);
+                if (eskiMesh && eskiMesh.material) {
+                    eskiMesh.material.emissiveIntensity = 0.3; // Sönük cam gücü
+                    eskiMesh.material.opacity = 0.45;           // Varsayılan yarı saydamlık
+                }
+            }
+
+            // Dizi üzerinde indeks ilerletme (Doğrusal renk tayfı sırası)
             let sonrakiIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
-            let hedefVeri = window.RENK_TAYFI_SPEKTRUMU[sonrakiIndex];
+            let mevcutVeri = window.RENK_TAYFI_SPEKTRUMU[sonrakiIndex];
+            
+            let sonrakiHedefIndex = (sonrakiIndex + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
+            let hedefVeri = window.RENK_TAYFI_SPEKTRUMU[sonrakiHedefIndex];
 
             if (mevcutVeri && hedefVeri) {
+                // 💡 2. YENİ AKTİF KÜREYİ NEON GİBİ PARLAT
+                let aktifMesh = window.KuantumKafesi.getObjectByName(mevcutVeri.name);
+                if (aktifMesh && aktifMesh.material) {
+                    aktifMesh.material.emissiveIntensity = 3.0; // Güçlü neon ışıması
+                    aktifMesh.material.opacity = 1.0;           // Tam opaklık
+                }
+
+                // Parçacıkları ateşleme hattı
                 let kaynakMesh = window.KuantumKafesi.getObjectByName(mevcutVeri.name);
                 let hedefMesh = window.KuantumKafesi.getObjectByName(hedefVeri.name);
-
                 if (kaynakMesh && hedefMesh) {
                     let yeniGluon = new window.KuantumPaketi(kaynakMesh, hedefMesh, mevcutVeri.frekans, window.KuantumKafesi);
                     aktifPaketler.push(yeniGluon);
                 }
+
+                // Voltaj ve oda renk durumunu güncelle
                 window.currentMv = mevcutVeri.mv * akisYonu;
                 window.currentOdaRengi = mevcutVeri.renk;
             }
+
             window.mevcutOdaSirasi = sonrakiIndex;
         }
     }
 
-    // Parçacık Yönetimi
+    // Parçacık (Gluon) uçuş döngüsü
     for (let i = aktifPaketler.length - 1; i >= 0; i--) {
         aktifPaketler[i].guncelle(sabitDelta);
         if (aktifPaketler[i].ilerleme >= 1.0 || window.vagusBrakeActive) {
@@ -161,10 +185,10 @@ window.updateMetatronLoop = function() {
         }
     }
 
-    if (!window.vagusBrakeActive) window.KuantumKafesi.rotation.y += 0.005;
+    // 🛑 DÖNÜŞ KODU TAMAMEN SİLİNDİ!
+    // KuantumKafesi, initMetatronEngine içindeki 'Math.PI / 2' açısında çakılı kalır ve dönmez.
     window.renderer.render(window.scene, window.camera);
 };
-
 
 // ============================================================================
 // METATRON CANLI DURUM OKUMA VE DIŞARIYA SİNYAL VERME MOTORU
@@ -550,3 +574,5 @@ window.addEventListener('resize', () => {
 // 🔑 SON ATEŞLEME: Dosya tarayıcı tarafından ilk yüklendiğinde, ortografik ekran 
 // hesaplamalarını bir kez tetikleyerek kaymaları sıfırlıyoruz!
 window.dispatchEvent(new Event('resize'));
+
+
