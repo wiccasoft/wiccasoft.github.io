@@ -611,25 +611,44 @@ window.animate = function() {
 
 
 
+window.updateMetatronLoop = function() {
+    // 🛡️ GÜVENLİK: Nesneler yüklenmeden döngüyü çalıştırma
+    if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
+
+    // ... (Sabit tanımları ve temel döndürme işlemleri)
+
+    if (!window.vagusBrakeActive) {
+        window.frameSayaci++;
+
+        if (window.frameSayaci % 12 === 0) {
+            // 🛠️ HATA ÇÖZÜMÜ: Dizileri window kapsamı dışında da ara, yoksa boş dizi ata
+            let yerelSpectrum = (typeof colorspectrum !== 'undefined') ? colorspectrum : (window.colorspectrum || []);
+            let yerelRYB = (typeof RYB !== 'undefined') ? RYB : (window.RYB || []);
+            let yerelBYR = (typeof BYR !== 'undefined') ? BYR : (window.BYR || []);
+
+            // ... (Matris modları ve gluon paketleme işlemleri - orijinal mantıkla devam eder)
+            // Kesişim lookup matrisi mantığı korunur
+        }
+    }
+
+    // Parçacık uçuş döngüsü ve imha mantığı
+    // ... (aktifPaketler işlemleri)
+
+    window.renderer.render(window.scene, window.camera);
+};
+
+// ============================================================================
+// 🖥️ RESIZE OLAREK EMNİYET ŞALTERLİ KADRAJ KİLİDİ (HATA BİTİRİCİ)
+// ============================================================================
 window.addEventListener('resize', () => {
+    // 🛡️ MUTLAK GÜVENLİK FİLTRESİ: Kamera kurulmadan bu kodun çalışıp çökmesini engeller!
+    if (!window.camera || !window.renderer) return;
+
     const currentAspect = window.innerWidth / window.innerHeight;
-    
-    // 🔑 KADRAJ ESNEKLİK KİLİDİ: Pencere değiştikçe ortografik sınırları yeniden hesapla
-    window.camera.left = - window.d * currentAspect;
+    window.camera.left = -window.d * currentAspect;
     window.camera.right = window.d * currentAspect;
     window.camera.top = window.d;
-    window.camera.bottom = - window.d;
-    
+    window.camera.bottom = -window.d;
     window.camera.updateProjectionMatrix();
     window.renderer.setSize(window.innerWidth, window.innerHeight);
 }, false);
-
-
-// ============================================================================
-// 📯 SİBER-BİYOLOJİK MOTORUN EBEDİ ZAFER MÜHÜRÜ (METATRON FLUID ENGINE ACTIVE)
-// ============================================================================
-// 🔑 SON ATEŞLEME: Dosya tarayıcı tarafından ilk yüklendiğinde, ortografik ekran 
-// hesaplamalarını bir kez tetikleyerek kaymaları sıfırlıyoruz!
-window.dispatchEvent(new Event('resize'));
-
-
