@@ -105,6 +105,52 @@ window.KuantumPaketi = class KuantumPaketi {
     }
 };
 
+
+
+// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
+window.RENK_TAYFI_SPEKTRUMU = [
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
+    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
+    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" },
+    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" },
+    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }
+];
+
+
+
+// 🎯 EZBERSIZ DOĞRU KESİŞİM MATRİSİ: İki kutup odasının ortasındaki gerçek odayı bulur
+let kesisimHaritasi = {
+    "1-7": 4, "7-1": 4, // Kırmızı ve Mavi buluşursa -> SARI (4) yanar
+    "4-4": 4,           // Sarı ve Sarı buluşursa -> SARI (4) yanar
+    "2-2": 2,           // Turuncu ve Turuncu buluşursa -> TURUNCU (2) yanar
+    "8-5": 8, "5-8": 8, // Yeşil ve Mor buluşursa -> YEŞİL (8) yanar (Topraklama fazı!)
+    "1-8": 4, "8-1": 4, // Kırmızı ve Yeşil buluşursa -> SARI (4) yanar
+    "7-5": 8, "5-7": 8  // Mavi ve Mor buluşursa -> YEŞİL (8) yanar
+};
+let anahtar = currentIdA + "-" + currentIdB;
+gluonAlpha.intersectionId = kesisimHaritasi[anahtar] || 4; // Bulamazsa Sarı varsayılan kalır
+
+
+// 🎛 3. ŞALTERLER KİLİTLENİYOR
+window.sonUretimZamani = 0;
+window.mevcutOdaSirasi = 0;
+window.frameSayaci = 0; // Lagı sıfırlayan kare sayacını da globale alıyoruz
+
+/**
+ * Milivolt (mV) ve Vagus sinyallerine göre parçacıkları ve Metatron'u günceller.
+ * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
+ */
+
+//const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
+
+// ============================================================================
+// METATRON SÜRTÜNME VE KESİŞİM MOTORU (SIFIR KİLİTLENME / GERÇEK REFERANS)
+// ============================================================================
+if (window.sequencePointer === undefined) window.sequencePointer = 0;
+if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
+
+
 window.updateMetatronLoop = function() {
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
 
@@ -125,6 +171,7 @@ window.updateMetatronLoop = function() {
                 }
             });
 
+            // 🔑 Değişkenleri burada 'let' ile temizce tanımlıyoruz ki tarayıcı scope hatası vermesin
             let currentIdA = 1;
             let currentIdB = 7;
 
@@ -151,7 +198,7 @@ window.updateMetatronLoop = function() {
                     // ⚡ +1 VE -1 KUTUP KİLİTLİ ÇİFT GLUON AKIŞ ENJEKSİYONU
                     let gluonAlpha = new window.KuantumPaketi(meshSource, meshTarget, dictA.frekans, window.KuantumKafesi, 1);
                     
-                    // 🎯 KİLİTLENMEYİ ÖNLENEN GERÇEK KESİŞİM MAPLEMESİ
+                    // 🎯 KİLİTLENMEYİ ÖNLENEN GERÇEK KESİŞİM MAPLEMESİ (Parantez içi emniyeti)
                     let kesisimHaritasi = {
                         "1-7": 4, "7-1": 4, "4-4": 4, "2-2": 2,
                         "8-5": 8, "5-8": 8, "1-8": 4, "8-1": 4,
@@ -202,149 +249,6 @@ window.updateMetatronLoop = function() {
         }
 
         // Güvenli imha kilidi (Donmayı çözen ve sonraki turlara akışı salise sektirmeyen tahliye)
-        if (packet.ilerleme >= 1.0) {
-            if (packet.mesh) {
-                window.KuantumKafesi.remove(packet.mesh);
-            }
-            aktifPaketler.splice(i, 1);
-        }
-    }
-
-    window.renderer.render(window.scene, window.camera);
-};
-
-// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
-window.RENK_TAYFI_SPEKTRUMU = [
-    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
-    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
-    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
-    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" },
-    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" },
-    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }
-];
-
-
-
-// 🎯 EZBERSIZ DOĞRU KESİŞİM MATRİSİ: İki kutup odasının ortasındaki gerçek odayı bulur
-let kesisimHaritasi = {
-    "1-7": 4, "7-1": 4, // Kırmızı ve Mavi buluşursa -> SARI (4) yanar
-    "4-4": 4,           // Sarı ve Sarı buluşursa -> SARI (4) yanar
-    "2-2": 2,           // Turuncu ve Turuncu buluşursa -> TURUNCU (2) yanar
-    "8-5": 8, "5-8": 8, // Yeşil ve Mor buluşursa -> YEŞİL (8) yanar (Topraklama fazı!)
-    "1-8": 4, "8-1": 4, // Kırmızı ve Yeşil buluşursa -> SARI (4) yanar
-    "7-5": 8, "5-7": 8  // Mavi ve Mor buluşursa -> YEŞİL (8) yanar
-};
-let anahtar = currentIdA + "-" + currentIdB;
-gluonAlpha.intersectionId = kesisimHaritasi[anahtar] || 4; // Bulamazsa Sarı varsayılan kalır
-
-
-// 🎛 3. ŞALTERLER KİLİTLENİYOR
-window.sonUretimZamani = 0;
-window.mevcutOdaSirasi = 0;
-window.frameSayaci = 0; // Lagı sıfırlayan kare sayacını da globale alıyoruz
-
-/**
- * Milivolt (mV) ve Vagus sinyallerine göre parçacıkları ve Metatron'u günceller.
- * anatomy.html içindeki animate() döngüsünde tek satırda çağrılır.
- */
-
-//const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
-
-// ============================================================================
-// METATRON SÜRTÜNME VE KESİŞİM MOTORU (SIFIR KİLİTLENME / GERÇEK REFERANS)
-// ============================================================================
-if (window.sequencePointer === undefined) window.sequencePointer = 0;
-if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
-
-window.updateMetatronLoop = function() {
-    if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
-
-    const deltaFrame = 1 / 25; 
-    window.KuantumKafesi.rotation.y = Math.PI / 2; // Perspektif Kilidi
-
-    if (!window.vagusBrakeActive) {
-        window.frameSayaci++;
-
-        if (window.frameSayaci % 12 === 0) {
-            
-            // Tüm odaları loş moda çek
-            window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
-                let nodeMesh = window.KuantumKafesi.getObjectByName(oda.name);
-                if (nodeMesh && nodeMesh.material) {
-                    nodeMesh.material.emissiveIntensity = 0.2;
-                    nodeMesh.material.opacity = 0.3;
-                }
-            });
-
-            let currentIdA = 1;
-            let currentIdB = 7;
-
-            if (window.activeMatrixMode === "RYB") {
-                currentIdA = window.RYB[window.sequencePointer];
-                currentIdB = window.BYR[window.sequencePointer]; 
-            } else if (window.activeMatrixMode === "BYR") {
-                currentIdA = window.BYR[window.sequencePointer];
-                currentIdB = window.RYB[window.sequencePointer];
-            } else {
-                currentIdA = window.colorspectrum[window.sequencePointer];
-                let inversePointer = (window.sequencePointer + 3) % 6;
-                currentIdB = window.colorspectrum[inversePointer];
-            }
-
-            let dictA = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === currentIdA);
-            let dictB = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === currentIdB);
-
-            if (dictA && dictB) {
-                let meshSource = window.KuantumKafesi.getObjectByName(dictA.name);
-                let meshTarget = window.KuantumKafesi.getObjectByName(dictB.name);
-
-                if (meshSource && meshTarget) {
-                    // ⚡ +1 VE -1 YÖNLERİYLE ÇİFT GLUON FIRLATILIYOR
-                    // Gluon Alpha: Pozitif Yön (+1) ile fırlatılır
-                    let gluonAlpha = new window.KuantumPaketi(meshSource, meshTarget, dictA.frekans, window.KuantumKafesi, 1);
-                    let hesaplananId = Math.round((currentIdA + currentIdB) / 2);
-                    gluonAlpha.intersectionId = (hesaplananId === 6) ? 8 : hesaplananId; 
-                    aktifPaketler.push(gluonAlpha);
-
-                    // Gluon Beta: Negatif/Ters Yön (-1) ile fırlatılır
-                    let gluonBeta = new window.KuantumPaketi(meshTarget, meshSource, dictB.frekans, window.KuantumKafesi, -1);
-                    gluonBeta.intersectionId = gluonAlpha.intersectionId;
-                    aktifPaketler.push(gluonBeta);
-                }
-            }
-
-            window.sequencePointer = (window.sequencePointer + 1) % 6;
-            if (window.sequencePointer === 0) {
-                if (window.activeMatrixMode === "RYB") window.activeMatrixMode = "BYR";
-                else if (window.activeMatrixMode === "BYR") window.activeMatrixMode = "colorspectrum";
-                else window.activeMatrixMode = "RYB";
-            }
-        }
-    }
-
-    // Parçacık uçuş ve sürtünmeyle oda yakma döngüsü
-    for (let i = aktifPaketler.length - 1; i >= 0; i--) {
-        let packet = aktifPaketler[i];
-        packet.guncelle(deltaFrame); 
-
-        // 💥 SÜRTÜNME VE KESİŞİM: Parçacıklar tam orta noktadan geçerken aradaki odayı yakar
-        if (packet.ilerleme >= 0.5 && !packet.surtunmeTetiklendi) {
-            packet.surtunmeTetiklendi = true; 
-            
-            let targetDict = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === packet.intersectionId);
-            if (targetDict) {
-                let kesisimMesh = window.KuantumKafesi.getObjectByName(targetDict.name);
-                if (kesisimMesh && kesisimMesh.material) {
-                    kesisimMesh.material.emissiveIntensity = 4.5; 
-                    kesisimMesh.material.opacity = 1.0;
-                    
-                    window.currentMv = targetDict.mv;
-                    window.currentOdaRengi = targetDict.renk;
-                }
-            }
-        }
-
-        // Güvenli imha kilidi (Donmayı çözen kritik VRAM boşaltımı)
         if (packet.ilerleme >= 1.0) {
             if (packet.mesh) {
                 window.KuantumKafesi.remove(packet.mesh);
