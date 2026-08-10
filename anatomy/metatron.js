@@ -143,7 +143,6 @@ function updateMetatronLoop() {
         frameSayaci++;
 
         // ⏱ RİTİM KİLİDİ: Her 4 karede bir (yani tam 160ms'de bir) pürüzsüz mermi fırlatır.
-        // performance.now() gürültüsü ve asenkron takılmalar tamamen yok edildi!
         if (frameSayaci % 4 === 0) {
             let akisYonu = (window.currentMv === -60) ? -1 : 1;
 
@@ -155,9 +154,10 @@ function updateMetatronLoop() {
                 let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
                 let hedefMesh = KuantumKafesi.getObjectByName(hedefOdaVerisi.name);
 
+                // 🔑 KELİME DÜZELTİLDİ: headerMesh hatası kalıcı olarak silindi, hedefMesh bağlandı!
                 if (kaynakMesh && hedefMesh) {
                     // Şelale parçacığını odanın frekansıyla ve Altın Oran hızıyla fırlat
-                    let yeniGluon = new KuantumPaketi(kaynakMesh, headerMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
+                    let yeniGluon = new KuantumPaketi(kaynakMesh, hedefMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
                     aktifPaketler.push(yeniGluon);
                 }
 
@@ -184,7 +184,6 @@ function updateMetatronLoop() {
     // Her kareyi ekrana pürüzsüzce çizdir
     window.renderer.render(window.scene, window.camera);
 }
-
 
 
 // metatron.js içinde durum okuma motoru
