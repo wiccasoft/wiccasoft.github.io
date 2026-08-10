@@ -51,23 +51,21 @@ window.KuantumPaketi = class KuantumPaketi {
         this.ilerleme = 0.0;
         this.KuantumKafesi = KuantumKafesi;
 
-        // ⚡ 1. FREKANS BAZLI TABAN HIZ HESABI (0 KB Yük)
+        // ⚡ TABAN HIZ MOTORU (Güncellendi)
         let safFrekans = parseFloat(frekansDegeri);
-        this.tabanHiz = safFrekans * 0.0012; 
+        this.tabanHiz = safFrekans * 0.003; 
 
-        // 🧬 2. ALTIN ORAN İVMELENME VE SÖNÜMLENME ŞALTERİ
+        // 🧬 ALTIN ORAN: Yeşil oda akışı için güncellendi
         this.phiMultiplier = 1.0;
         if (window.currentOdaRengi === "Sarı") {
-            this.phiMultiplier = 1.6180339887; 
-        } else if (window.currentOdaRengi === "Mavi") {
-            this.phiMultiplier = 0.6180339887; 
+            this.phiMultiplier = 1.6180339887;
+        } else if (window.currentOdaRengi === "Mavi" || window.currentOdaRengi === "Yeşil") {
+            this.phiMultiplier = 1.2; // Mavi ve Yeşil eşitlendi
         }
 
-        // Parçacık Geometrisi (Saf Beyaz Işık - Pure Light)
-        const pGeom = new THREE.SphereGeometry(0.02, 4, 4); 
+        const pGeom = new THREE.SphereGeometry(0.02, 4, 4);
         const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.9 });
         this.mesh = new THREE.Mesh(pGeom, pMat);
-        
         this.mesh.position.copy(this.kaynak.position);
         this.KuantumKafesi.add(this.mesh);
     }
@@ -126,57 +124,60 @@ window.updateMetatronLoop = function() {
     const sabitDelta = 1 / 25; // 25 FPS
     if (window.mevcutOdaSirasi === undefined) window.mevcutOdaSirasi = 0;
 
-    // 🌊 SIRA TABANLI PARLAMA VE DOĞRUSAL AKIŞ MOTORU
+    // 🌊 SADECE MAVİ VE YEŞİL ODA HEDEFLİ GLUON AKIŞ MOTORU
     if (!window.vagusBrakeActive) {
         window.frameSayaci++;
 
-        // ⏱ RİTİM KİLİDİ: Her 12 karede bir (yaklaşık yarım saniye) bir sonraki odayı yak
+        // ⏱ RİTİM KİLİDİ: Her 12 karede bir odalar arası geçiş yap ve gluon fırlat
         if (window.frameSayaci % 12 === 0) {
-            let akisYonu = (window.currentMv === -60) ? -1 : 1;
             
-            // 🛑 1. GEÇEN ODAYI ESKİ HALİNE SÖNDÜR (Yarı saydam cam modu)
-            let eskiVeri = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
-            if (eskiVeri) {
-                let eskiMesh = window.KuantumKafesi.getObjectByName(eskiVeri.name);
-                if (eskiMesh && eskiMesh.material) {
-                    eskiMesh.material.emissiveIntensity = 0.3; // Sönük cam gücü
-                    eskiMesh.material.opacity = 0.45;           // Varsayılan yarı saydamlık
+            // Tüm odaların parlaklığını önce bir sıfırlayalım (Cam modu)
+            window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
+                let mesh = window.KuantumKafesi.getObjectByName(oda.name);
+                if (mesh && mesh.material) {
+                    mesh.material.emissiveIntensity = 0.3;
+                    mesh.material.opacity = 0.45;
                 }
+            });
+
+            // Sadece Mavi (İndeks: 4) ve Yeşil (İndeks: 3) odaları sırayla döndür
+            // Sıra: Yeşil -> Mavi -> Yeşil -> Mavi...
+            if (window.mevcutOdaSirasi !== 3 && window.mevcutOdaSirasi !== 4) {
+                window.mevcutOdaSirasi = 3; // Başlangıç Yeşil olsun
+            } else {
+                window.mevcutOdaSirasi = (window.mevcutOdaSirasi === 3) ? 4 : 3; // Aralarında geçiş
             }
 
-            // Dizi üzerinde indeks ilerletme (Doğrusal renk tayfı sırası)
-            let sonrakiIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
-            let mevcutVeri = window.RENK_TAYFI_SPEKTRUMU[sonrakiIndex];
-            
-            let sonrakiHedefIndex = (sonrakiIndex + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
-            let hedefVeri = window.RENK_TAYFI_SPEKTRUMU[sonrakiHedefIndex];
+            let mevcutVeri = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
 
-            if (mevcutVeri && hedefVeri) {
-                // 💡 2. YENİ AKTİF KÜREYİ NEON GİBİ PARLAT
+            if (mevcutVeri) {
+                // 💡 AKTİF KÜREYİ (MAVİ VEYA YEŞİL) NEON GİBİ PARLAT
                 let aktifMesh = window.KuantumKafesi.getObjectByName(mevcutVeri.name);
                 if (aktifMesh && aktifMesh.material) {
                     aktifMesh.material.emissiveIntensity = 3.0; // Güçlü neon ışıması
                     aktifMesh.material.opacity = 1.0;           // Tam opaklık
                 }
 
-                // Parçacıkları ateşleme hattı
-                let kaynakMesh = window.KuantumKafesi.getObjectByName(mevcutVeri.name);
-                let hedefMesh = window.KuantumKafesi.getObjectByName(hedefVeri.name);
-                if (kaynakMesh && hedefMesh) {
-                    let yeniGluon = new window.KuantumPaketi(kaynakMesh, hedefMesh, mevcutVeri.frekans, window.KuantumKafesi);
+                // 🎯 MERKEZE DOĞRU GLUON ATEŞLEME MATRIXI
+                // Merkez için sanal bir hedef mesh oluşturuyoruz (Pozisyonu 0,0,0)
+                let sanalMerkezMesh = {
+                    position: new THREE.Vector3(0, 0, 0)
+                };
+
+                if (aktifMesh) {
+                    // KuantumPaketi'ni kaynaktan (Oda) -> hedefe (Merkez) fırlatıyoruz
+                    let yeniGluon = new window.KuantumPaketi(aktifMesh, sanalMerkezMesh, mevcutVeri.frekans, window.KuantumKafesi);
                     aktifPaketler.push(yeniGluon);
                 }
 
-                // Voltaj ve oda renk durumunu güncelle
-                window.currentMv = mevcutVeri.mv * akisYonu;
+                // Global arayüz ekran değerlerini güncelle
+                window.currentMv = mevcutVeri.mv;
                 window.currentOdaRengi = mevcutVeri.renk;
             }
-
-            window.mevcutOdaSirasi = sonrakiIndex;
         }
     }
 
-    // Parçacık (Gluon) uçuş döngüsü
+    // Parçacık (Gluon) uçuş döngüsü (Merkeze varan parçacıklar yok edilir)
     for (let i = aktifPaketler.length - 1; i >= 0; i--) {
         aktifPaketler[i].guncelle(sabitDelta);
         if (aktifPaketler[i].ilerleme >= 1.0 || window.vagusBrakeActive) {
@@ -185,8 +186,7 @@ window.updateMetatronLoop = function() {
         }
     }
 
-    // 🛑 DÖNÜŞ KODU TAMAMEN SİLİNDİ!
-    // KuantumKafesi, initMetatronEngine içindeki 'Math.PI / 2' açısında çakılı kalır ve dönmez.
+    // 🛑 GEOMETRİ TAMAMEN SABİTTİR, DÖNÜŞ TETİKLENMEZ
     window.renderer.render(window.scene, window.camera);
 };
 
