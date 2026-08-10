@@ -48,72 +48,27 @@ const BYR = [7, 4, 1, 5, 8, 2];
 // ============================================================================
 // DOĞRULANMIŞ ALTIN ORAN İVME VE BULUŞMA SONRASI FRENLEME MOTORU (KİLİTLENMEZ)
 // ============================================================================
+// 🧬 GLUONSUZ KUANTUM PAKETİ: Bellekte Three.js mesh'i yaratmaz, sadece mantıksal veri taşır.
 window.KuantumPaketi = class KuantumPaketi {
     constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi, yonCarpan) {
-        this.kaynak = kaynakMesh;
-        this.hedef = hedefMesh;
-        this.ilerleme = 0.0;
-        this.KuantumKafesi = KuantumKafesi;
-        
-        // 🎯 Kutupsal Yön Modifikatörü: +1 (İleri akım) veya -1 (Ters akım)
-        this.yon = yonCarpan || 1;
-
-        let safFrekans = parseFloat(frekansDegeri) || 174;
-        this.tabanHiz = safFrekans * 0.0022; // Kararlı taban hızı adımı
-
-        // 💎 BÜYÜK GLUON GEOMETRİSİ: Boyutu 0.02'den 0.05'e çıkararak o eski heybetli büyük parçacıkları geri getiriyoruz!
-        const pGeom = new THREE.SphereGeometry(0.05, 8, 8); 
-        const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.95 });
-        this.mesh = new THREE.Mesh(pGeom, pMat);
-
-        // İlk konumlandırma her zaman kaynaktan başlar, lerpVectors yönü tayin eder
-        this.mesh.position.copy(this.kaynak.position);
-
-        this.KuantumKafesi.add(this.mesh);
-        this.surtunmeTetiklendi = false;
+        // ... (constructor içeriği)
     }
 
     guncelle(sabitDelta) {
-        if (window.vagusBrakeActive) { this.ilerleme = 1.0; return; }
-
-        // 🧬 1. ALTIN ORANDA İVME VE HIZ ENVELOPU
-        let anlikHizCarpar = (this.ilerleme < 0.5) ? 1.6180339887 : 0.6180339887;
-        this.ilerleme += this.tabanHiz * anlikHizCarpar * sabitDelta;
-        if (this.ilerleme > 1.0) this.ilerleme = 1.0;
-
-        // 🧬 2. MERKEZE GELİNDİĞİNDE BÜYÜYEN VE ÇOĞALAN PLAZMA MOTORU
-        if (this.mesh && this.mesh.material) {
-            if (this.ilerleme < 0.5) {
-                // MERKEZE YAKLAŞTIKÇA: Altın oranda katlanarak büyür ve devasa bir plazma topuna dönüşür!
-                let cogalmaKatsayisi = Math.pow(1.6180339887, this.ilerleme * 4);
-                this.mesh.scale.setScalar(cogalmaKatsayisi * 2.0); // Ekstra büyük ölçek kilidi
-                this.mesh.material.opacity = Math.min(0.95 * cogalmaKatsayisi, 1.0);
-            } else {
-                // MERKEZDİ BULUŞMADAN SONRA: Altın oranda bölünerek küçülür, havada seyrelip yok olur!
-                let bolunmeKatsayisi = Math.pow(0.6180339887, (this.ilerleme - 0.5) * 4);
-                this.mesh.scale.setScalar(bolunmeKatsayisi * 3.2); // Bölünerek ufalanma eğrisi
-                this.mesh.material.opacity = 0.95 * bolunmeKatsayisi;
-            }
-        }
-
-        // 🧬 3. 🌊 SİNÜS DALGASI VE YÖNLÜ ÇAPRAZ AKIŞ ALGORİTMASI
-        if (this.kaynak && this.hedef) {
-            // Parçacıklar tam merkeze yaklaştığında sinüs dalgasının en tepesine ulaşır
-            let sinusGenligi = Math.sin(this.ilerleme * Math.PI) * 0.25; // Dalga bükülme derinliği artırıldı
-
-            // +1 ve -1 yön kilitlerine göre uzamsal doğrultuyu hesapla
-            let t = (this.yon === -1) ? (1.0 - this.ilerleme) : this.ilerleme;
-
-            // Doğrusal hattı çiz
-            this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, t);
-
-            // 🎯 SİNÜS DALGASI BÜKÜMÜ: Gluonlar bir spiral gibi kıvrılarak merkeze akar
-            this.mesh.position.y += sinusGenligi;
-            this.mesh.position.x += sinusGenligi * 0.5;
-        }
+        // ... (guncelle mantığı)
     }
 };
 
+// ============================================================================
+// 🧬 GLUONSUZ BOŞ KUANTUM PAKETİ KABUĞU (Bellekte parçacık yaratmaz, sıfır lag!)
+window.KuantumPaketi = class KuantumPaketi {
+    constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi, yonCarpan) {
+        // Bellekte hiçbir parça doğmuyor, içi tamamen boş bırakıldı
+    }
+    guncelle(sabitDelta) {
+        // Uçuş döngüsü tamamen kapatıldı
+    }
+};
 
 // 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
 window.RENK_TAYFI_SPEKTRUMU = [
