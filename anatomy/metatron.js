@@ -36,15 +36,6 @@ const BGR = [7, 4, 1, 5, 8, 2];
 //let aktifIndexA = 0;
 //let aktifIndexB = 0;
 
-// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
-window.RENK_TAYFI_SPEKTRUMU = [
-    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
-    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
-    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
-    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" },
-    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" },
-    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }
-];
 
 
 // ============================================================================
@@ -107,6 +98,18 @@ class KuantumPaketi {
         this.mesh.material.dispose();
     }
 }
+
+// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
+window.RENK_TAYFI_SPEKTRUMU = [
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
+    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
+    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" },
+    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" },
+    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }
+];
+
+
 
 
 
@@ -248,7 +251,9 @@ function initMetatronEngine() {
     controls.maxPolarAngle = Infinity;
     controls.minAzimuthAngle = -Infinity;
     controls.maxAzimuthAngle = Infinity;
-    window.scene.add(new THREE.AmbientLight(0xffffff))};
+    window.scene.add(new THREE.AmbientLight(0xffffff))
+
+
 
 
 
@@ -488,9 +493,12 @@ const particleMat = new THREE.PointsMaterial({
 });
 
 // 🔑 OMURGA_SELALESI Adreslemesini pencere düzeyine çıkartıp mühürlüyoruz
+// Dosyadaki parçacık şelalesinin bittiği yer:
 window.omurgaSelalesi = new THREE.Points(window.particleGeo, particleMat);
-window.omurgaSelalesi.name = "OMURGA_SELALESI"; 
+window.omurgaSelalesi.name = "OMURGA_SELALESI";
 KuantumKafesi.add(window.omurgaSelalesi);
+
+} // 👈 İŞTE BURAYA BU TEK PARANTEZİ ÇAK AGA! initMetatronEngine burada bitiyor.
 
 // Top view butonu fonksiyonun
 function setTopView(camera, controls) {
