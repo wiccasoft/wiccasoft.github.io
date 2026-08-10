@@ -119,17 +119,6 @@ window.RENK_TAYFI_SPEKTRUMU = [
 
 
 
-// 🎯 EZBERSIZ DOĞRU KESİŞİM MATRİSİ: İki kutup odasının ortasındaki gerçek odayı bulur
-let kesisimHaritasi = {
-    "1-7": 4, "7-1": 4, // Kırmızı ve Mavi buluşursa -> SARI (4) yanar
-    "4-4": 4,           // Sarı ve Sarı buluşursa -> SARI (4) yanar
-    "2-2": 2,           // Turuncu ve Turuncu buluşursa -> TURUNCU (2) yanar
-    "8-5": 8, "5-8": 8, // Yeşil ve Mor buluşursa -> YEŞİL (8) yanar (Topraklama fazı!)
-    "1-8": 4, "8-1": 4, // Kırmızı ve Yeşil buluşursa -> SARI (4) yanar
-    "7-5": 8, "5-7": 8  // Mavi ve Mor buluşursa -> YEŞİL (8) yanar
-};
-let anahtar = currentIdA + "-" + currentIdB;
-gluonAlpha.intersectionId = kesisimHaritasi[anahtar] || 4; // Bulamazsa Sarı varsayılan kalır
 
 
 // 🎛 3. ŞALTERLER KİLİTLENİYOR
@@ -149,7 +138,6 @@ window.frameSayaci = 0; // Lagı sıfırlayan kare sayacını da globale alıyor
 // ============================================================================
 if (window.sequencePointer === undefined) window.sequencePointer = 0;
 if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
-
 
 window.updateMetatronLoop = function() {
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
@@ -171,7 +159,7 @@ window.updateMetatronLoop = function() {
                 }
             });
 
-            // 🔑 Değişkenleri burada 'let' ile temizce tanımlıyoruz ki tarayıcı scope hatası vermesin
+            // 🔑 Değişkenler burada temizce tanımlanıyor
             let currentIdA = 1;
             let currentIdB = 7;
 
@@ -198,14 +186,14 @@ window.updateMetatronLoop = function() {
                     // ⚡ +1 VE -1 KUTUP KİLİTLİ ÇİFT GLUON AKIŞ ENJEKSİYONU
                     let gluonAlpha = new window.KuantumPaketi(meshSource, meshTarget, dictA.frekans, window.KuantumKafesi, 1);
                     
-                    // 🎯 KİLİTLENMEYİ ÖNLENEN GERÇEK KESİŞİM MAPLEMESİ (Parantez içi emniyeti)
-                    let kesisimHaritasi = {
+                    // 🎯 KESİNTİSİZ GERÇEK KESİŞİM MAPLEMESİ (Değişkenlerin tam altında, korumalı alanda)
+                    let kesisimHaritasiMatrisi = {
                         "1-7": 4, "7-1": 4, "4-4": 4, "2-2": 2,
                         "8-5": 8, "5-8": 8, "1-8": 4, "8-1": 4,
                         "7-5": 8, "5-7": 8
                     };
-                    let anahtar = currentIdA + "-" + currentIdB;
-                    gluonAlpha.intersectionId = kesisimHaritasi[anahtar] || 4;
+                    let anahtarKodu = currentIdA + "-" + currentIdB;
+                    gluonAlpha.intersectionId = kesisimHaritasiMatrisi[anahtarKodu] || 4;
                     
                     aktifPaketler.push(gluonAlpha);
 
@@ -248,7 +236,7 @@ window.updateMetatronLoop = function() {
             }
         }
 
-        // Güvenli imha kilidi (Donmayı çözen ve sonraki turlara akışı salise sektirmeyen tahliye)
+        // Güvenli imha kilidi (Donmayı çözen tahliye)
         if (packet.ilerleme >= 1.0) {
             if (packet.mesh) {
                 window.KuantumKafesi.remove(packet.mesh);
