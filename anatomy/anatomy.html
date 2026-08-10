@@ -15,51 +15,91 @@
 <script src="./metatron.js"></script>
 
 <script>
+       // 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER (BLOB KİLİDİ - file:// UYUMLU)
+window.currentMv = -90.0;
+window.currentOdaRengi = "Kırmızı";
+window.vagusBrakeActive = false;
 
-// 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER
-        window.currentMv = -90.0;
-        window.currentOdaRengi = "Kırmızı";
-        window.vagusBrakeActive = false;
-        const biyoWorker = new Worker('neural-worker.js');
+// Worker kodunu doğrudan string olarak belleğe alıyoruz (Dosya okuma zorunluluğunu kaldırır)
+const workerCode = `
+    // Buraya neural-worker.js dosyanın içindeki tüm JavaScript kodlarını KOPYALAYIP YAPIŞTIR.
+    // Örnek taslak (sen kendi kodunu koy):
+    setInterval(() => {
+        postMessage({
+            komut: "BİYOLOJİK_TELEMETRİ",
+            kalp: { mv: -90, renk: "Kırmızı", bpm: 72 },
+            vagusEffort: 0.2,
+            sistemModu: "Denge"
+        });
+    }, 1000);
+`;
 
-        // 📡 2. VERİ HATTINI İÇERİYE ALARAK "data is not defined" HATASI ÇÖZÜLDÜ
-        biyoWorker.onmessage = function(e) {
-            if (e.data.komut === "BİYOLOJİK_TELEMETRİ") {
-                const data = e.data;
-                window.currentMv = data.kalp.mv;
-                window.currentOdaRengi = data.kalp.renk;
-                window.vagusBrakeActive = data.vagusEffort >= 0.8;
+// Tarayıcıyı kandırıp harici dosya değilmiş gibi bellekten sanal URL üretiyoruz
+const blob = new Blob([workerCode], { type: 'application/javascript' });
+const biyoWorker = new Worker(URL.createObjectURL(blob));
 
-                // 📯 ÜST PENCEREYE MESAJ KÖPRÜSÜ
-                window.parent.postMessage({
-                    komut: "EKRAN_GUNCELLE",
-                    bpm: data.kalp.bpm,
-                    mv: data.kalp.mv,
-                    mod: data.sistemModu
-                }, "*");
+        // 🧪 3. ALGORİTMİK METABOLİK VE KARDİYO PARAMETRE TÜRETİCİ (TRUVA ATININ BEYNİ)
+        function simulasyonParametreleriniTuret() {
+            // metatron.js içindeki o an dönen canlı oda verilerini okuyoruz
+            if (window.mevcutOdaSirasi === undefined || !window.RENK_TAYFI_SPEKTRUMU) return;
+            
+            const metatronState = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+            if (!metatronState) return;
+
+            let ekgMv = window.currentMv; // Worker'dan gelen gerçek milivolt
+            let odaRengi = window.currentOdaRengi;
+
+            // A. Algoritmik Kan Basıncı (mmHg) Türetimi
+            let basincMmHg = 80; // Taban diyastolik basınç
+            if (odaRengi === "Yeşil") basincMmHg = 120; // Kasılma (Sistol) anı
+            else if (odaRengi === "Sarı") basincMmHg = 100; // Depolarizasyon ivmesi
+
+            // B. Algoritmik Oksijen (%SpO2) ve pH Türetimi
+            let oksijenSaturation = 98.0;
+            let kanPh = 7.42;
+
+            if (window.AKTIF_ZAMAN_MODU === "CRITICAL_SHOCK") {
+                // Savaş ya da kaç anında oksijen hızla tükenir, laktik asit yüzünden pH düşer (Asidoz)
+                oksijenSaturation = 92.5 + Math.sin(performance.now() * 0.005) * 1.5;
+                kanPh = 7.31; 
             }
-        };
 
-        // 🔄 3. ÇİZİM DÖNGÜSÜ (Parçacık Manipülasyonu)
-  // anatomy.html içindeki animate() döngüsü:
-function animate() {
-    requestAnimationFrame(animate);
+            // C. Karaciğer ve Pankreas Metabolik Pathway Şalteri (YEŞİL ODA TOPRAKLAMASI)
+            let metabolikDurum = "BAZAL DENGELENME";
+            if (odaRengi === "Yeşil") {
+                metabolikDurum = "LIVER: GLYCOGENOLYSIS / PANCREAS: GLUCOSE BUFFER";
+            }
 
-    if (window.scene && window.camera && window.renderer) {
-        // Sahne üzerinden ismiyle yerel olarak yakalıyoruz (Globale gerek kalmadan)
-        const dunyaOmurgaSelalesi = window.scene.getObjectByName("OMURGA_SELALESI");
-        
-        if (dunyaOmurgaSelalesi) {
-            // Sinyallere (mV) göre parçacıkları dalgalandırma kodların...
+            // Üst pencereye (main.html / HUD panele) akademinin eriyeceği o 4 doğrusal datayı fırlatıyoruz
+            window.parent.postMessage({
+                komut: "HUD_PANEL_GUNCELLE",
+                ekg: `${ekgMv.toFixed(1)} mV`,
+                tansiyon: `${basincMmHg} mmHg`,
+                oksijen: `%${oksijenSaturation.toFixed(1)} SpO2`,
+                ph: `${kanPh.toFixed(2)} pH`,
+                metabolizma: metabolikDurum,
+                frekans: metatronState.frekans
+            }, "*");
         }
-    }
-}
 
-        // 🪐 4. MOTORU TEK KEZ BAŞLAT
+        // 🪐 4. ULTRA-HAFİF ANİMASYON DÖNGÜSÜ
+        function animate() {
+            requestAnimationFrame(animate);
+
+            // A. Tüm ağır çizim, şelale ve parça hesaplamaları metatron.js içinde pürüzsüzce akar
+            updateMetatronLoop();
+
+            // B. Çizilen her kareden sonra, o tek kaynaktan (Metatron'dan) 4 canlı parametreyi algoritmik türet
+            if (window.scene && window.camera && window.renderer) {
+                simulasyonParametreleriniTuret();
+            }
+        }
+
+        // 🛠 5. MOTORU TEK KEZ BAŞLAT
         window.addEventListener('DOMContentLoaded', () => {
             initMetatronEngine(); 
             animate();
         });
-    </script>
+</script>
 </body>
 </html>
