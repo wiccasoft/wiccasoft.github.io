@@ -87,11 +87,6 @@ window.frameSayaci = 0;
 
 //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
 
-// ============================================================================
-// METATRON SÜRTÜNME VE KESİŞİM MOTORU (SIFIR KİLİTLENME / GERÇEK REFERANS)
-// ============================================================================
-if (window.sequencePointer === undefined) window.sequencePointer = 0;
-if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
 
 // ============================================================================
 // METATRON SAF KUTUPSAL TERS AKIM ODA YAKMA MOTORU (SIFIR PARÇACIK / SIFIR LAG)
@@ -100,85 +95,18 @@ if (window.sequencePointer === undefined) window.sequencePointer = 0;
 if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
 
 window.updateMetatronLoop = function() {
+    // 🛡️ SAHNE GÜVENLİK FİLTRESİ
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
 
-    window.KuantumKafesi.rotation.y = Math.PI / 2; // Perspektif Kilidi
+    // 🕊️ Kuantum Kafesi Sabit Perspektif Kilidi
+    //window.KuantumKafesi.rotation.y = Math.PI / 2;
 
-    if (!window.vagusBrakeActive) {
-        window.frameSayaci++;
+    // 💡 AÇIKLAMA: Odaları yakan, parlatan ve renklerini değiştiren tüm eski kodlar silindi.
+    // Küreler ilk başta nasıl sönük kurulduysa simülasyon boyunca o şekilde karanlık kalır.
 
-        // ⏱️ RİTİM KİLİDİ: Her 12 karede bir odaları ters akımla yakar ve vites değiştirir
-        if (window.frameSayaci % 12 === 0) {
-            
-            // 1. ADIM: Tüm odaları başlangıçta loş cam moduna çek (Karartma)
-            window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
-                let nodeMesh = window.KuantumKafesi.getObjectByName(oda.name);
-                if (nodeMesh && nodeMesh.material) {
-                    nodeMesh.material.emissiveIntensity = 0.2;
-                    nodeMesh.material.opacity = 0.3;
-                }
-            });
-
-            // 2. ADIM: RYB ve BYR matris dizilerinden ters akım çiftlerini çekiyoruz
-            let currentIdA = 1;
-            let currentIdB = 7;
-
-            // Dosyanın en üstündeki orijinal const dizilerine doğrudan güvenli bağlantı
-            let rybDizisi = (typeof RYB !== 'undefined') ? RYB : (window.RYB || [1, 4, 7, 8, 5, 2]);
-            let byrDizisi = (typeof BYR !== 'undefined') ? BYR : (window.BYR || [7, 4, 1, 5, 8, 2]);
-
-            // Motor moduna göre tersine akım ID eşleştirmesi
-            if (window.activeMatrixMode === "RYB") {
-                // Tur 1: RYB[0] -> 1 (Kırmızı) ve BYR[0] -> 7 (Mavi) TERSİNE AKIMLA YANAR!
-                currentIdA = rybDizisi[window.sequencePointer];
-                currentIdB = byrDizisi[window.sequencePointer]; 
-            } else if (window.activeMatrixMode === "BYR") {
-                currentIdA = byrDizisi[window.sequencePointer];
-                currentIdB = rybDizisi[window.sequencePointer];
-            } else {
-                let spektrumDizisi = (typeof colorspectrum !== 'undefined') ? colorspectrum : (window.colorspectrum || [1, 2, 4, 8, 7, 5]);
-                currentIdA = spektrumDizisi[window.sequencePointer];
-                let inversePointer = (window.sequencePointer + 3) % 6;
-                currentIdB = spektrumDizisi[inversePointer];
-            }
-
-            // 3. ADIM: Sözlükten odaları bul ve AYNI ANDA neon gibi patlatarak yak!
-            let dictA = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === currentIdA);
-            let dictB = window.RENK_TAYFI_SPEKTRUMU.find(item => item.id === currentIdB);
-
-            if (dictA && dictB) {
-                let meshA = window.KuantumKafesi.getObjectByName(dictA.name);
-                let meshB = window.KuantumKafesi.getObjectByName(dictB.name);
-
-                // Ters akım çiftleri doğrudan yüksek voltaj parlaklığına ulaşır
-                if (meshA && meshA.material) {
-                    meshA.material.emissiveIntensity = 4.5; // Neon Işıması
-                    meshA.material.opacity = 1.0;
-                }
-                if (meshB && meshB.material) {
-                    meshB.material.emissiveIntensity = 4.5; // Neon Işıması
-                    meshB.material.opacity = 1.0;
-                }
-
-                // HUD panel göstergeleri için anlık veri sinyalini dışarıya fırlat
-                window.currentMv = dictA.mv;
-                window.currentOdaRengi = dictA.renk;
-            }
-
-            // 4. ADIM: İndeksi ilerlet ve her 6 adımda bir matris modunu (vitesi) otomatik değiştir
-            window.sequencePointer = (window.sequencePointer + 1) % 6;
-            if (window.sequencePointer === 0) {
-                if (window.activeMatrixMode === "RYB") window.activeMatrixMode = "BYR";
-                else if (window.activeMatrixMode === "BYR") window.activeMatrixMode = "colorspectrum";
-                else window.activeMatrixMode = "RYB";
-            }
-        }
-    }
-
-    // Ekranı çizdir
+    // Sadece 3D sahneyi ve çizgileri tarayıcıda pürüzsüzce çizdirmeye devam eder
     window.renderer.render(window.scene, window.camera);
 };
-
 // ============================================================================
 // METATRON CANLI DURUM OKUMA VE DIŞARIYA SİNYAL VERME MOTORU
 // ============================================================================
@@ -202,6 +130,31 @@ window.getMetatronFrequencyState = function(anlikOdaIndex) {
 };
 
 
+
+// ============================================================================
+// ODALARI AÇILIŞTA TAMAMEN MAT, SÖNÜK VE KARANLIK BAŞLATAN KİLİT
+// ============================================================================
+spheres.forEach(s => {
+    const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
+    
+    // 🔑 KESİN ÇÖZÜM: Kürelerin kendi renklerini ve öz ışıklarını tamamen karartıyoruz!
+    const mat = new THREE.MeshPhongMaterial({
+        color: 0x111111,            // ❌ Orijinal s.color yerine mat, koyu gri/siyah sabit renk
+        emissive: 0x050505,         // ❌ Öz ışık (neon) rengini tamamen karanlığa mühürle
+        emissiveIntensity: 0.0,     // ❌ Işıma gücünü sıfıra çivile (Tamamen sönük)
+        transparent: false,         // ❌ Saydamlık oyunlarını tamamen kapat, derinlik hatası bitsin
+        opacity: 1.0,
+        depthWrite: true,
+        depthTest: true,
+        precision: "highp"
+    });
+
+    const sphere = new THREE.Mesh(geom, mat);
+    sphere.position.copy(s.pos);
+    sphere.name = s.name;
+
+    window.KuantumKafesi.add(sphere);
+});
 
 // ============================================================================
 // TÜM THREE.JS EKOSİSTEMİNİ VE METATRON GRUBUNU SIFIRDAN KURAN ANA MOTOR
