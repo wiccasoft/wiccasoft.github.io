@@ -157,7 +157,8 @@ function updateMetatronLoop() {
                 // 🔑 KELİME DÜZELTİLDİ: headerMesh hatası kalıcı olarak silindi, hedefMesh bağlandı!
                 if (kaynakMesh && hedefMesh) {
                     // Şelale parçacığını odanın frekansıyla ve Altın Oran hızıyla fırlat
-                    let yeniGluon = new KuantumPaketi(kaynakMesh, hedefMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
+                   
+                    let yeniGluon = new KuantumPaketi( kaynakMesh, hedefMesh, kaynakOdaVerisi. frekans, KuantumKafesi);
                     aktifPaketler.push(yeniGluon);
                 }
 
