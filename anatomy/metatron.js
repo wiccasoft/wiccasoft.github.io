@@ -118,7 +118,7 @@ window.frameSayaci = 0; // Lagı sıfırlayan kare sayacını da globale alıyor
 
 //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
 
-let frameSayaci = 0; 
+ 
 
 window.updateMetatronLoop = function() {
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
