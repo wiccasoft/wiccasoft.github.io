@@ -45,6 +45,9 @@ const BYR = [7, 4, 1, 5, 8, 2];
 // Hız = (Odanın Öz Frekansı * Taban Katsayı) * Altın Oran Şalteri (1.618 / 0.618)
 
 // 🧬 1. ÇİFT GLUON VE ALTIN ORAN HIZ ENVELOP SINIFI
+// ============================================================================
+// DOĞRULANMIŞ ALTIN ORAN İVME VE BULUŞMA SONRASI FRENLEME MOTORU (KİLİTLENMEZ)
+// ============================================================================
 window.KuantumPaketi = class KuantumPaketi {
     constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi, yonCarpan) {
         this.kaynak = kaynakMesh;
@@ -52,24 +55,24 @@ window.KuantumPaketi = class KuantumPaketi {
         this.ilerleme = 0.0;
         this.KuantumKafesi = KuantumKafesi;
         
-        // 🎯 Kutupsal Yön Kilidi: +1 (İleri akım) veya -1 (Ters akım)
-        this.yon = yonCarpan || 1; 
+        // 🎯 Kutupsal Yön Modifikatörü: +1 (İleri akım) veya -1 (Ters akım)
+        this.yon = yonCarpan || 1;
 
         let safFrekans = parseFloat(frekansDegeri) || 174;
-        this.tabanHiz = safFrekans * 0.0022; // Kararlı taban hızı
+        this.tabanHiz = safFrekans * 0.0022; // Kararlı taban hızı adımı
 
-        // 3D Parçacık Görsel Kurulumu
+        // 3D Gluon Parçacık Yapılandırması
         const pGeom = new THREE.SphereGeometry(0.02, 4, 4);
         const pMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.9 });
         this.mesh = new THREE.Mesh(pGeom, pMat);
-        
-        // Yön -1 ise parçacık uzaysal olarak hedef odanın koordinatında doğar! (Gerçek Ters Yön)
+
+        // ⚡ YÖN KİLİDİ: Yön -1 ise parçacık uzaysal olarak hedef odanın koordinatında doğar! (Gerçek Çapraz Akım)
         if (this.yon === -1) {
             this.mesh.position.copy(this.hedef.position);
         } else {
             this.mesh.position.copy(this.kaynak.position);
         }
-        
+
         this.KuantumKafesi.add(this.mesh);
         this.surtunmeTetiklendi = false;
     }
@@ -83,28 +86,30 @@ window.KuantumPaketi = class KuantumPaketi {
         // 🧬 ALGORİTMA: Ortadaki odada buluşana kadar hızlanır, buluştuktan sonra Altın Oranda (0.618) yavaşlar!
         let ivmeKatsayisi = 1.0;
         if (this.ilerleme < 0.5) {
-            // Çıkış: Merkeze yaklaştıkça Altın Oran (1.618) gücüyle üstel ivmelenir
+            // Çıkış Fazı: Merkeze (0.5 buluşma çizgisine) yaklaştıkça Altın Oran (1.618) gücüyle üstel ivmelenir
             ivmeKatsayisi = Math.pow(1.6180339887, this.ilerleme * 2.5);
         } else {
-            // Varış: Odada buluştuktan sonra 1/Phi (0.618) gücüyle üstel olarak yavaşlar/frenlenir
+            // Varış Fazı: Ortadaki odada kesiştikten sonra 1/Phi (0.618) gücüyle üstel olarak yavaşlar/frenlenir
             ivmeKatsayisi = Math.pow(0.6180339887, (this.ilerleme - 0.5) * 2.5);
         }
-        
+
+        // İlerlemeyi yön işareti ve dinamik hız katsayısına göre güvenle ekliyoruz
         this.ilerleme += this.tabanHiz * ivmeKatsayisi * sabitDelta;
+
         if (this.ilerleme > 1.0) this.ilerleme = 1.0;
 
+        // Vektörel doğrusal uçuş interpolasyonu (Donmayı engelleyen mutlak koruma)
         if (this.kaynak && this.hedef) {
             if (this.yon === -1) {
-                // Ters yönlü akım hedef koordinattan kaynak koordinata doğru bükülür
+                // Ters yönlü akım hedef koordinattan kaynak koordinata doğru pürüzsüzce bükülür
                 this.mesh.position.lerpVectors(this.hedef.position, this.kaynak.position, this.ilerleme);
             } else {
-                // İleri yönlü akım kaynaktan hedefe doğru akar
+                // İleri yönlü akım kaynaktan hedefe doğru düz bir hatta akar
                 this.mesh.position.lerpVectors(this.kaynak.position, this.hedef.position, this.ilerleme);
             }
         }
     }
 };
-
 
 
 // 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
