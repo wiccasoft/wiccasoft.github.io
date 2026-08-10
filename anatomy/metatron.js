@@ -59,16 +59,7 @@ window.KuantumPaketi = class KuantumPaketi {
     }
 };
 
-// ============================================================================
-// 🧬 GLUONSUZ BOŞ KUANTUM PAKETİ KABUĞU (Bellekte parçacık yaratmaz, sıfır lag!)
-window.KuantumPaketi = class KuantumPaketi {
-    constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi, yonCarpan) {
-        // Bellekte hiçbir parça doğmuyor, içi tamamen boş bırakıldı
-    }
-    guncelle(sabitDelta) {
-        // Uçuş döngüsü tamamen kapatıldı
-    }
-};
+
 
 // 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
 window.RENK_TAYFI_SPEKTRUMU = [
