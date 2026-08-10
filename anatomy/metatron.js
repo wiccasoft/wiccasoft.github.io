@@ -126,6 +126,7 @@ window.mevcutOdaSirasi = 0;
 
 //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
 
+let frameSayaci = 0; // Bu sayacı fonksiyonun tamamen dışına, üstüne koy aga
 
 function updateMetatronLoop() {
     if (!window.scene || !window.camera || !window.renderer) return;
@@ -135,42 +136,40 @@ function updateMetatronLoop() {
 
     const sabitDelta = 1 / 25; // 25 FPS taban zaman adımı
 
-    // Sayaç henüz başlamadıysa ilk karede 0 olarak mühürle (Undefined Hatasını Önler)
     if (window.mevcutOdaSirasi === undefined) window.mevcutOdaSirasi = 0;
 
-    // 🌊 KESİNTİSİZ ŞELALE AKIŞ MOTORU (Kutuplar Döndüğünde Ters Akabilen Sürüm)
-    if (!window.vagusBrakeActive && (performance.now() - sonUretimZamani > 150)) {
-        sonUretimZamani = performance.now();
+    // 🌊 LAGSIZ KESİNTİSİZ ŞELALE AKIŞ MOTORU (Kare Sayıcıya Bağlandı!)
+    if (!window.vagusBrakeActive) {
+        frameSayaci++;
 
-        // Mavi odada (-60 mV) zamanı ve akış yönünü ters büküyoruz (Kutup Döngüsü)
-        let akisYonu = (window.currentMv === -60) ? -1 : 1;
+        // ⏱ RİTİM KİLİDİ: Her 4 karede bir (yani tam 160ms'de bir) pürüzsüz mermi fırlatır.
+        // performance.now() gürültüsü ve asenkron takılmalar tamamen yok edildi!
+        if (frameSayaci % 4 === 0) {
+            let akisYonu = (window.currentMv === -60) ? -1 : 1;
 
-         // 🔑 PENCERE REFERANSLARI: Aşağıdaki sözlüğe window katmanından ışık hızıyla erişiyoruz
-        let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
-        let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
-        
-        // 🛠 EKSİK OLAN BAĞLANTI HATTI BURAYA ENJEKTE EDİLDİ VE KİLİTLENDİ!
-        let hedefOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[sonrakiOdaIndex];
+            let kaynakOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
+            let sonrakiOdaIndex = (window.mevcutOdaSirasi + akisYonu + window.RENK_TAYFI_SPEKTRUMU.length) % window.RENK_TAYFI_SPEKTRUMU.length;
+            let hedefOdaVerisi = window.RENK_TAYFI_SPEKTRUMU[sonrakiOdaIndex];
 
-        if (kaynakOdaVerisi && hedefOdaVerisi) {
-            let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
-            let hedefMesh = KuantumKafesi.getObjectByName(hedefOdaVerisi.name);
+            if (kaynakOdaVerisi && hedefOdaVerisi) {
+                let kaynakMesh = KuantumKafesi.getObjectByName(kaynakOdaVerisi.name);
+                let hedefMesh = KuantumKafesi.getObjectByName(hedefOdaVerisi.name);
 
-            if (kaynakMesh && hedefMesh) {
-                // Şelale parçacığını odanın frekansıyla fırlat
-                let yeniGluon = new KuantumPaketi(kaynakMesh, hedefMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
-                aktifPaketler.push(yeniGluon);
+                if (kaynakMesh && hedefMesh) {
+                    // Şelale parçacığını odanın frekansıyla ve Altın Oran hızıyla fırlat
+                    let yeniGluon = new KuantumPaketi(kaynakMesh, headerMesh, kaynakOdaVerisi.frekans, KuantumKafesi);
+                    aktifPaketler.push(yeniGluon);
+                }
+
+                window.currentMv = kaynakOdaVerisi.mv * akisYonu;
+                window.currentOdaRengi = kaynakOdaVerisi.renk;
             }
 
-            // Global pencereleri besleme
-            window.currentMv = kaynakOdaVerisi.mv * akisYonu;
-            window.currentOdaRengi = kaynakOdaVerisi.renk;
+            window.mevcutOdaSirasi = sonrakiOdaIndex;
         }
-
-        window.mevcutOdaSirasi = sonrakiOdaIndex;
     }
 
-    // Uçan canlı parçacıkların pürüzsüz yürütülmesi ve RAM temizliği (Döngü burada yaşıyor)
+    // Uçan canlı parçacıkların pürüzsüz yürütülmesi ve RAM temizliği (Yağ gibi akar)
     for (let i = aktifPaketler.length - 1; i >= 0; i--) {
         aktifPaketler[i].guncelle(sabitDelta);
         if (aktifPaketler[i].ilerleme >= 1.0 || window.vagusBrakeActive) {
@@ -179,14 +178,12 @@ function updateMetatronLoop() {
         }
     }
 
-    // Kutsal kafesi hafifçe evrensel eksende döndür (İsteğe bağlı)
+    // Kutsal kafesi hafifçe evrensel eksende döndür
     if (!window.vagusBrakeActive) KuantumKafesi.rotation.y += 0.005;
 
-    // Siyah perdeyi ve her şeyi ekrana çizdir
+    // Her kareyi ekrana pürüzsüzce çizdir
     window.renderer.render(window.scene, window.camera);
 }
-
-
 
 
 
