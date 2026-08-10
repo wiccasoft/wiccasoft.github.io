@@ -165,6 +165,66 @@ window.spheres.forEach(s => {
     sphere.name = s.name;
     if (window.KuantumKafesi) window.KuantumKafesi.add(sphere);
 });
+
+
+
+// ============================================================================
+// 🧭 DETACHED RGB AXES CORE ENGINE (BAĞIMSIZ BOYUT MİLİ FONKSİYONU)
+// ============================================================================
+window.createMetatronAxes = function(isAxisVisible) {
+    // 🛠️ Eğer sahnede veya grupta eski eksenler kalmışsa pürüzsüzce imha et
+    ["currentAxisX", "currentAxisY", "currentAxisZ"].forEach(axisName => {
+        if (window[axisName]) {
+            if (window.KuantumKafesi) window.KuantumKafesi.remove(window[axisName]);
+            window.scene.remove(window[axisName]);
+            window[axisName].geometry.dispose();
+            window[axisName].material.dispose();
+            window[axisName] = null;
+        }
+    });
+
+    const axisLength = 0.5; // İskelet sınırlarında kalacak altın oran uzunluğu
+
+    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Aynalama Mili)
+    const geomX = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(-axisLength, 0, 0), 
+        new THREE.Vector3(axisLength, 0, 0)
+    ]);
+    const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
+    window.currentAxisX = new THREE.Line(geomX, matX);
+    window.currentAxisX.name = "AXIS_X";
+    window.currentAxisX.visible = isAxisVisible; // 🔑 İçeride dinamik görünürlük kilidi
+
+    // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
+    const geomY = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(0, -axisLength, 0), 
+        new THREE.Vector3(0, axisLength, 0)
+    ]);
+    const matY = new THREE.LineBasicMaterial({ color: 0x00ff00, linewidth: 2 });
+    window.currentAxisY = new THREE.Line(geomY, matY);
+    window.currentAxisY.name = "AXIS_Y";
+    window.currentAxisY.visible = isAxisVisible;
+
+    // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
+    const geomZ = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(0, 0, -axisLength), 
+        new THREE.Vector3(0, 0, axisLength)
+    ]);
+    const matZ = new THREE.LineBasicMaterial({ color: 0x0000ff, linewidth: 2 });
+    window.currentAxisZ = new THREE.Line(geomZ, matZ);
+    window.currentAxisZ.name = "AXIS_Z";
+    window.currentAxisZ.visible = isAxisVisible;
+
+    // 🔑 Miller doğrudan KuantumKafesi grubuna mühürlenir
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(window.currentAxisX);
+        window.KuantumKafesi.add(window.currentAxisY);
+        window.KuantumKafesi.add(window.currentAxisZ);
+    }
+    
+    console.log(`[AXES PROTOCOL] Miller Yeniden İnşa Edildi. Görünürlük: ${isAxisVisible}`);
+};
+
 // ============================================================================
 // TÜM THREE.JS EKOSİSTEMİNİ VE METATRON GRUBUNU SIFIRDAN KURAN ANA MOTOR
 // ============================================================================
@@ -172,6 +232,7 @@ window.spheres.forEach(s => {
 // dış panellerden ve frame döngülerinden tam zamanlı erişilebilir yapıldı!
 
 window.initMetatronEngine = function() {
+
     // 1. Ana Sahne Kurulumu
     window.scene = new THREE.Scene(); 
     
@@ -179,7 +240,44 @@ window.initMetatronEngine = function() {
     window.KuantumKafesi = new THREE.Group(); 
     window.KuantumKafesi.name = "MERKEZI_METATRON";
 
-      window.KuantumKafesi.visible = false; 
+    window.KuantumKafesi.visible = false; 
+
+    // ============================================================================
+    // 🧭 INTEGRATED RGB AXES (MODÜLER FONKSİYONEL ÇAĞRI)
+    // ============================================================================
+    // İlk açılışta kapalı gelmesi için parametreyi 'false' olarak fırlatıyoruz!
+    // İleride 4 element aynalama modunda bu fonksiyonu 'true' ile özgürce çağırabiliriz.
+    window.createMetatronAxes(true); 
+
+    const axisLength = 0.5; // İskeletin içinde kalacak tam altın oran uzunluğu
+    
+    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Mili)
+    const geomX = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(-axisLength, 0, 0), 
+        new THREE.Vector3(axisLength, 0, 0)
+    ]);
+    const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
+    const currentAxisX = new THREE.Line(geomX, matX);
+    window.KuantumKafesi.add(currentAxisX);
+
+    // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
+    const geomY = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(0, -axisLength, 0), 
+        new THREE.Vector3(0, axisLength, 0)
+    ]);
+    const matY = new THREE.LineBasicMaterial({ color: 0x00ff00, linewidth: 2 });
+    const currentAxisY = new THREE.Line(geomY, matY);
+    window.KuantumKafesi.add(currentAxisY);
+
+    // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
+    const geomZ = new THREE.BufferGeometry().setFromPoints([
+        new THREE.Vector3(0, 0, -axisLength), 
+        new THREE.Vector3(0, 0, axisLength)
+    ]);
+    const matZ = new THREE.LineBasicMaterial({ color: 0x0000ff, linewidth: 2 });
+    const currentAxisZ = new THREE.Line(geomZ, matZ);
+    window.KuantumKafesi.add(currentAxisZ);
+    
 
     // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
     window.KuantumKafesi.rotation.y = Math.PI / 2; 
@@ -311,6 +409,7 @@ window.initMetatronEngine = function() {
         const axisMat = new THREE.LineBasicMaterial({color:color});
         window.scene.add(new THREE.Line(axisGeom, axisMat));
     };
+    
  // addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
  // addAxis(0x00ff00, new THREE.Vector3(0,-10,0), new THREE.Vector3(0,10,0));
  // addAxis(0x0000ff, new THREE.Vector3(0,0,-10), new THREE.Vector3(0,0,10));
@@ -325,7 +424,7 @@ window.initMetatronEngine = function() {
     const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
     
     // 🔑 GLOBAL FONKSİYON ÇAĞRISI: addAxis artık window düzeyinden çağrılıyor!
-    window.addAxis(0x00ff00, blackPos, whitePos);
+    //window.addAxis(0x00ff00, blackPos, whitePos);
 
     // Merkezden köşelere çizgiler (beyaz)
     const center = new THREE.Vector3(0,0,0);
