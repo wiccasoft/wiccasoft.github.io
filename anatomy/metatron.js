@@ -542,3 +542,11 @@ window.addEventListener('resize', () => {
     window.camera.updateProjectionMatrix();
     window.renderer.setSize(window.innerWidth, window.innerHeight);
 }, false);
+
+
+// ============================================================================
+// 📯 SİBER-BİYOLOJİK MOTORUN EBEDİ ZAFER MÜHÜRÜ (METATRON FLUID ENGINE ACTIVE)
+// ============================================================================
+// 🔑 SON ATEŞLEME: Dosya tarayıcı tarafından ilk yüklendiğinde, ortografik ekran 
+// hesaplamalarını bir kez tetikleyerek kaymaları sıfırlıyoruz!
+window.dispatchEvent(new Event('resize'));
