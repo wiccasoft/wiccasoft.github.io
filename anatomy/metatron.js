@@ -146,27 +146,25 @@ window.getMetatronFrequencyState = function(anlikOdaIndex) {
 // ODALARI AÇILIŞTA TAMAMEN MAT, SÖNÜK VE KARANLIK BAŞLATAN KİLİT
 // ============================================================================
 window.spheres.forEach(s => {
-    const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
+    const t_radius = 0.08; 
+    const geom = new THREE.SphereGeometry(t_radius, 32, 32);
     
-    // 🔑 KESİN ÇÖZÜM: Kürelerin kendi renklerini ve öz ışıklarını tamamen karartıyoruz!
+    // 🔑 Kürelerin kendi renklerini ve öz ışıklarını tamamen karartıyoruz!
     const mat = new THREE.MeshPhongMaterial({
-        color: 0x111111,            // ❌ Orijinal s.color yerine mat, koyu gri/siyah sabit renk
-        emissive: 0x050505,         // ❌ Öz ışık (neon) rengini tamamen karanlığa mühürle
-        emissiveIntensity: 0.0,     // ❌ Işıma gücünü sıfıra çivile (Tamamen sönük)
-        transparent: false,         // ❌ Saydamlık oyunlarını tamamen kapat, derinlik hatası bitsin
+        color: 0x111111,
+        emissive: 0x050505,
+        emissiveIntensity: 0.0,
+        transparent: false,
         opacity: 1.0,
         depthWrite: true,
-        depthTest: true,
-        precision: "highp"
+        depthTest: true
     });
 
     const sphere = new THREE.Mesh(geom, mat);
     sphere.position.copy(s.pos);
     sphere.name = s.name;
-
-    window.KuantumKafesi.add(sphere);
+    if (window.KuantumKafesi) window.KuantumKafesi.add(sphere);
 });
-
 // ============================================================================
 // TÜM THREE.JS EKOSİSTEMİNİ VE METATRON GRUBUNU SIFIRDAN KURAN ANA MOTOR
 // ============================================================================
@@ -180,6 +178,8 @@ window.initMetatronEngine = function() {
     // 🔑 GRUP REFERANSI GLOBALE ALINDI: updateMetatronLoop artık bunu anında görecek
     window.KuantumKafesi = new THREE.Group(); 
     window.KuantumKafesi.name = "MERKEZI_METATRON";
+
+      window.KuantumKafesi.visible = false; 
 
     // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
     window.KuantumKafesi.rotation.y = Math.PI / 2; 
@@ -383,30 +383,6 @@ window.initMetatronEngine = function() {
 const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
-    // ============================================================================
-    // ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME
-    // ============================================================================
-    spheres.forEach(s => {
-        const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
-        
-        const mat = new THREE.MeshPhongMaterial({
-            color: s.color,
-            emissive: s.color,
-            emissiveIntensity: s.isPole ? 1.0 : 0.3,
-            transparent: true,
-            opacity: s.isPole ? 1.0 : 0.45, 
-            depthWrite: false,   
-            depthTest: true,     
-            precision: "highp"   
-        });
-        
-        const sphere = new THREE.Mesh(geom, mat);
-        sphere.position.copy(s.pos);
-        sphere.name = s.name; 
-        
-        // 🔑 GLOBAL GRUP KİLİDİ: Cam küre odacıkları doğrudan küresel kafese mühürlendi!
-        window.KuantumKafesi.add(sphere);
-    }); // 👈 Döngü burada pürüzsüzce bitti!
         
 
     // 🔑 SON NİHAİ MÜHÜRLEME SATIRLARI (Ateşleme Anı!):
