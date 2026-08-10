@@ -16,6 +16,8 @@ window.scene = null;
 window.camera = null;
 window.renderer = null;
 
+// Eksen milleri iskeletle senkronize hareket etsin kafa karışmasın
+if (window.currentAxisX) window.currentAxisX.visible = gelenDurum; // 👈 İskelet
 
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
@@ -37,32 +39,40 @@ const BYR = [7, 4, 1, 5, 8, 2];
 //let aktifIndexB = 0;
 
 
+
+
 // ============================================================================
-// 🧭 DETACHED RGB AXES CORE ENGINE (DİNAMIK BUTON UYUMLU EKSEN FONKSİYONU)
+// 🧭 INTEGRATED RGB AXES ENGINE (İSKELET İÇİNDE KALAN KİLİTLİ VE GÜVENLİ SÜRÜM)
 // ============================================================================
 window.createMetatronAxes = function(isAxisVisible) {
-    // 🔑 Eğer eksen millerimiz hafızada zaten varsa, init gibi sıfırdan çizim yapma!
-    // Sadece butonun yolladığı true/false emrine göre görünürlüğünü dinamik değiştir.
-    if (window.currentAxisX && window.currentAxisY && window.currentAxisZ) {
-        window.currentAxisX.visible = isAxisVisible;
-        window.currentAxisY.visible = isAxisVisible;
-        window.currentAxisZ.visible = isAxisVisible;
-        console.log(`[AXES PROTOCOL] Miller Hafızadan Değiştirildi. Görünürlük: ${isAxisVisible}`);
-        return;
-    }
+    // 🛠️ Eğer sahnede veya grupta eski eksenler kalmışsa pürüzsüzce imha et
+    ["currentAxisX", "currentAxisY", "currentAxisZ"].forEach(axisName => {
+        if (window[axisName]) {
+            if (window.KuantumKafesi) window.KuantumKafesi.remove(window[axisName]);
+            if (window.scene) window.scene.remove(window[axisName]);
+            window[axisName].geometry.dispose();
+            window[axisName].material.dispose();
+            window[axisName] = null;
+        }
+    });
 
-    // 🚀 [BURASI SADECE İLK AÇILIŞTA 1 KEZ ÇALIŞIR] ➔ Milleri ilk kez hafızada doğurur
-    const axisLength = 0.5; // İskelet sınırlarında kalacak altın oran uzunluğu
-
-    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Aynalama Mili)
+    const axisLength = 0.5; // İskeletin içinde kalacak tam altın oran uzunluğu
+    
+    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Mili)
     const geomX = new THREE.BufferGeometry().setFromPoints([
         new THREE.Vector3(-axisLength, 0, 0), 
         new THREE.Vector3(axisLength, 0, 0)
     ]);
     const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
     window.currentAxisX = new THREE.Line(geomX, matX);
-    window.currentAxisX.name = "AXIS_X";
-    window.currentAxisX.visible = isAxisVisible;
+    window.currentAxisX.name = "AXIS_X"; 
+    window.currentAxisX.visible = isAxisVisible; // Butondan gelen net true/false emri
+    
+    // 🔑 KESİN ÇÖZÜM KALKANI: Sayfa ilk açıldığında KuantumKafesi henüz doğmadıysa (null ise) 
+    // add() yapıp motoru çökertmesini engelliyoruz! Doğduğu an otomatik gruba kilitlenir.
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(window.currentAxisX); 
+    }
 
     // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
     const geomY = new THREE.BufferGeometry().setFromPoints([
@@ -73,6 +83,10 @@ window.createMetatronAxes = function(isAxisVisible) {
     window.currentAxisY = new THREE.Line(geomY, matY);
     window.currentAxisY.name = "AXIS_Y";
     window.currentAxisY.visible = isAxisVisible;
+    
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(window.currentAxisY);
+    }
 
     // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
     const geomZ = new THREE.BufferGeometry().setFromPoints([
@@ -83,25 +97,83 @@ window.createMetatronAxes = function(isAxisVisible) {
     window.currentAxisZ = new THREE.Line(geomZ, matZ);
     window.currentAxisZ.name = "AXIS_Z";
     window.currentAxisZ.visible = isAxisVisible;
-
-    // Miller doğrudan büyük KuantumKafesi grubuna kilitlenir
+    
     if (window.KuantumKafesi) {
-        window.KuantumKafesi.add(window.currentAxisX);
-        window.KuantumKafesi.add(window.currentAxisY);
         window.KuantumKafesi.add(window.currentAxisZ);
     }
     
-    console.log(`[AXES PROTOCOL] Miller İlk Kez Yaratıldı. Görünürlük: ${isAxisVisible}`);
+    console.log(`[AXES PROTOCOL] Miller İskelet Grubuna Bağlandı. Görünürlük: ${isAxisVisible}`);
 };
 
+// ============================================================================
+// ☯️ FIVE-FOLD ELEMENTAL CORE ENGINE (5-FOLD ÇEMBER VE VEKTÖR MOTORU)
+// ============================================================================
+window.createFiveFoldCore = function(isCoreVisible) {
+    // 🛠️ Eski 5-Fold kalıntıları varsa bellekten pürüzsüzce temizle
+    if (window.FiveFoldGrubu) {
+        if (window.KuantumKafesi) window.KuantumKafesi.remove(window.FiveFoldGrubu);
+        window.scene.remove(window.FiveFoldGrubu);
+        window.FiveFoldGrubu.traverse(child => {
+            if (child.geometry) child.geometry.dispose();
+            if (child.material) child.material.dispose();
+        });
+        window.FiveFoldGrubu = null;
+    }
 
-   // ============================================================================
-    // 🧭 INTEGRATED RGB AXES (MÜKERRER KODLARI BİTİREN TEK MERKEZ ÇAĞRISI)
-    // ============================================================================
-    // 🔑 KESİN ÇÖZÜM: 'true' olan parametreyi 'false' yapıyoruz!
-    // Böylece konsolda "Görünürlük: false" yazacak ve ilk açılışta ekran pürüzsüzce temiz kalacak.
-    window.createMetatronAxes(false); 
+    // Eğer buton kapalıysa (false) çizim yapmadan direkt çık
+    if (!isCoreVisible) return;
 
+    window.FiveFoldGrubu = new THREE.Group();
+    window.FiveFoldGrubu.name = "FIVE_FOLD_CORE_GROUP";
+
+    const cemberYaricapi = 0.25; // Altın oran ölçeğinde element halkaları çapı
+    const segments = 64;         // Çemberlerin pürüzsüzlük kalitesi
+
+    // 🌀 4 ELEMENT ÇEMBERLERİNİN KOORDİNAT MATRİSİ (Ateş, Su, Hava, Toprak)
+    const elementMerkezleri = [
+        { x: 0,  y:  cemberYaricapi, z: 0, renk: 0xff0000, name: "CEMBER_FIRE" },  // 🔴 ÜST: Ateş
+        { x: 0,  y: -cemberYaricapi, z: 0, renk: 0x0000ff, name: "CEMBER_WATER" }, // 🔵 ALT: Su
+        { x: -cemberYaricapi, y: 0,  z: 0, renk: 0xffffff, name: "CEMBER_AIR" },   // ⚪ SOL: Hava
+        { x:  cemberYaricapi, y: 0,  z: 0, renk: 0x964b00, name: "CEMBER_EARTH" }  // 🟤 SAĞ: Toprak
+    ];
+
+    elementMerkezleri.forEach(el => {
+        const geom = new THREE.RingGeometry(cemberYaricapi - 0.005, cemberYaricapi + 0.005, segments);
+        const mat = new THREE.MeshBasicMaterial({ color: 0xffffff, side: THREE.DoubleSide, transparent: true, opacity: 0.4 });
+        const cemberMesh = new THREE.Mesh(geom, mat);
+        cemberMesh.position.set(el.x, el.y, el.z);
+        cemberMesh.name = el.name;
+        window.FiveFoldGrubu.add(cemberMesh);
+
+        // 🔴 Kırmızı Düğüm Noktaları (Şemadaki o 4 kritik kesişim bilyesi)
+        const nodGeom = new THREE.SphereGeometry(0.012, 16, 16);
+        const nodMat = new THREE.MeshBasicMaterial({ color: 0xff0000 }); // Saf Kırmızı Düğüm
+        const nodMesh = new THREE.Mesh(nodGeom, nodMat);
+        // Kırmızı noktaları şemadaki gibi tam dış mavi çemberin (kesişim hatlarının) üstüne çiviliyoruz
+        nodMesh.position.set(el.x * 2, el.y * 2, el.z * 2);
+        window.FiveFoldGrubu.add(nodMesh);
+    });
+
+    // 🔵 MAVİ ESİR ÇEMBERİ (Ether / Merkez Manyetik Kalkan Hattı)
+    const maviGeom = new THREE.RingGeometry(cemberYaricapi * 1.414 - 0.006, cemberYaricapi * 1.414 + 0.006, segments);
+    const maviMat = new THREE.MeshBasicMaterial({ color: 0x0077ff, side: THREE.DoubleSide });
+    const maviCember = new THREE.Mesh(maviGeom, maviMat);
+    maviCember.name = "CEMBER_ETHER_SHIELD";
+    window.FiveFoldGrubu.add(maviCember);
+
+    // ⚫ MUTLAK SIFIR NOKTASI FREKANSI (Merkez Kara Delik Düğümü)
+    const merkezGeom = new THREE.SphereGeometry(0.018, 16, 16);
+    const merkezMat = new THREE.MeshBasicMaterial({ color: 0x000000 });
+    const merkezMesh = new THREE.Mesh(merkezGeom, merkezMat);
+    merkezMesh.name = "NODE_ETHER_SINGULARITY";
+    window.FiveFoldGrubu.add(merkezMesh);
+
+    // 🔑 5-Fold Yapısı Doğrudan İskelet Grubunun Göbeğine Kenetlenir!
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(window.FiveFoldGrubu);
+    }
+    console.log(`[FIVE-FOLD PROTOCOL] 5-Fold Element Çekirdeği İskelete Giydirildi.`);
+};
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
 // ============================================================================
@@ -230,10 +302,8 @@ window.spheres.forEach(s => {
     if (window.KuantumKafesi) window.KuantumKafesi.add(sphere);
 });
 
-
-
 // ============================================================================
-// 🧭 DETACHED RGB AXES CORE ENGINE (BAĞIMSIZ BOYUT MİLİ FONKSİYONU)
+// 🧭 DETACHED RGB AXES CORE ENGINE (BAĞIMSIZ BOYUT MİLİ FONKSİYONU - SAF SÜRÜM)
 // ============================================================================
 window.createMetatronAxes = function(isAxisVisible) {
     // 🛠️ Eğer sahnede veya grupta eski eksenler kalmışsa pürüzsüzce imha et
@@ -247,17 +317,21 @@ window.createMetatronAxes = function(isAxisVisible) {
         }
     });
 
-    const axisLength = 0.5; // İskelet sınırlarında kalacak altın oran uzunluğu
-
-    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Aynalama Mili)
+    const axisLength = 0.5; // İskeletin içinde kalacak tam altın oran uzunluğu
+    
+    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Mili)
     const geomX = new THREE.BufferGeometry().setFromPoints([
         new THREE.Vector3(-axisLength, 0, 0), 
         new THREE.Vector3(axisLength, 0, 0)
     ]);
     const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
     window.currentAxisX = new THREE.Line(geomX, matX);
-    window.currentAxisX.name = "AXIS_X";
-    window.currentAxisX.visible = isAxisVisible; // 🔑 İçeride dinamik görünürlük kilidi
+    window.currentAxisX.name = "AXIS_X"; 
+    
+    // 🔑 KESİN ÇÖZÜM: Butondan fırlatılan dinamik parametreyi (true/false) doğrudan mühürlüyoruz!
+    window.currentAxisX.visible = isAxisVisible; 
+    
+    if (window.KuantumKafesi) window.KuantumKafesi.add(window.currentAxisX);
 
     // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
     const geomY = new THREE.BufferGeometry().setFromPoints([
@@ -267,7 +341,11 @@ window.createMetatronAxes = function(isAxisVisible) {
     const matY = new THREE.LineBasicMaterial({ color: 0x00ff00, linewidth: 2 });
     window.currentAxisY = new THREE.Line(geomY, matY);
     window.currentAxisY.name = "AXIS_Y";
+    
+    // 🔑 KESİN ÇÖZÜM
     window.currentAxisY.visible = isAxisVisible;
+    
+    if (window.KuantumKafesi) window.KuantumKafesi.add(window.currentAxisY);
 
     // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
     const geomZ = new THREE.BufferGeometry().setFromPoints([
@@ -277,14 +355,11 @@ window.createMetatronAxes = function(isAxisVisible) {
     const matZ = new THREE.LineBasicMaterial({ color: 0x0000ff, linewidth: 2 });
     window.currentAxisZ = new THREE.Line(geomZ, matZ);
     window.currentAxisZ.name = "AXIS_Z";
+    
+    // 🔑 KESİN ÇÖZÜM
     window.currentAxisZ.visible = isAxisVisible;
-
-    // 🔑 Miller doğrudan KuantumKafesi grubuna mühürlenir
-    if (window.KuantumKafesi) {
-        window.KuantumKafesi.add(window.currentAxisX);
-        window.KuantumKafesi.add(window.currentAxisY);
-        window.KuantumKafesi.add(window.currentAxisZ);
-    }
+    
+    if (window.KuantumKafesi) window.KuantumKafesi.add(window.currentAxisZ);
     
     console.log(`[AXES PROTOCOL] Miller Yeniden İnşa Edildi. Görünürlük: ${isAxisVisible}`);
 };
@@ -313,7 +388,7 @@ window.initMetatronEngine = function() {
     // İleride 4 element aynalama modunda bu fonksiyonu 'true' ile özgürce çağırabiliriz.
     window.createMetatronAxes(true); 
 
-  
+  window.createFiveFoldCore(true)
 
     // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
     window.KuantumKafesi.rotation.y = Math.PI / 2; 
@@ -462,8 +537,8 @@ window.initMetatronEngine = function() {
 // Salvador Mundi portresinin kalbine Da Vinci’nin gizlediği o en meşhur, 
 // o en kadim "Kutsal Merkez Piramitleri" (The Inner Core Pyramids) ve
 //  Merkezden Köşelere Genleşen Işın Vektörleri geometrisidir.
-    const whitePos = new THREE.Vector3(-0.25,  0.25, -0.25); 
-    const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
+    //const whitePos = new THREE.Vector3(-0.25,  0.25, -0.25); 
+    //const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
 
     // burası kübün tam 0,0,0 mutlak sıfır noktasından (Tekillikten) doğup, 
     // 8 ana köşeye (corners) doğru bir patlama (Big Bang) şeklinde genleşen
@@ -596,31 +671,27 @@ window.animate = function() {
 
 
 
-window.updateMetatronLoop = function() {
-    // 🛡️ GÜVENLİK: Nesneler yüklenmeden döngüyü çalıştırma
-    if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
-
-    // ... (Sabit tanımları ve temel döndürme işlemleri)
-
-    if (!window.vagusBrakeActive) {
-        window.frameSayaci++;
-
-        if (window.frameSayaci % 12 === 0) {
-            // 🛠️ HATA ÇÖZÜMÜ: Dizileri window kapsamı dışında da ara, yoksa boş dizi ata
-            let yerelSpectrum = (typeof colorspectrum !== 'undefined') ? colorspectrum : (window.colorspectrum || []);
-            let yerelRYB = (typeof RYB !== 'undefined') ? RYB : (window.RYB || []);
-            let yerelBYR = (typeof BYR !== 'undefined') ? BYR : (window.BYR || []);
-
-            // ... (Matris modları ve gluon paketleme işlemleri - orijinal mantıkla devam eder)
-            // Kesişim lookup matrisi mantığı korunur
+function toggleSkeletonButton() {
+    if (window.skeletonState === undefined) window.skeletonState = true;
+    window.skeletonState = !window.skeletonState;
+    
+    console.log(`[DECK] Iskelet Butonu Tetiklendi. Yeni Sinyal: ${window.skeletonState}`);
+    
+    // 🔑 KESİN ÇÖZÜM: Başına window. ekleyerek parantez hapishanelerini tamamen delip geçiyoruz!
+    // Böylece fonksiyon içeride hapsolmuş olsa bile tarayıcı global adresten bu vericiyi çalıştırır.
+    if (typeof window.firlatSinyal === 'function') {
+        window.firlatSinyal({ komut: "SKELETON_TOGGLE", durum: window.skeletonState });
+    } else if (typeof firlatSinyal === 'function') {
+        firlatSinyal({ komut: "SKELETON_TOGGLE", durum: window.skeletonState });
+    } else {
+        // 📡 Alternatif Kalkan: Eğer fonksiyon bir yerlere hapsolduysa, iframe'i doğrudan buradan uyar
+        const metatronIframe = document.getElementById("metatronIframeId") || document.querySelector("iframe");
+        if (metatronIframe && metatronIframe.contentWindow) {
+            metatronIframe.contentWindow.postMessage({ komut: "SKELETON_TOGGLE", durum: window.skeletonState }, "*");
+            console.log("[DECK BACKUP] İskelet emri doğrudan iframe'e fırlatıldı.");
         }
     }
-
-    // Parçacık uçuş döngüsü ve imha mantığı
-    // ... (aktifPaketler işlemleri)
-
-    window.renderer.render(window.scene, window.camera);
-};
+}
 
 // ============================================================================
 // 🖥️ RESIZE OLAREK EMNİYET ŞALTERLİ KADRAJ KİLİDİ (HATA BİTİRİCİ)
@@ -693,27 +764,77 @@ window.addEventListener("message", (event) => {
 
 
 
+
 // ============================================================================
-// 📡 CORE METATRON TELEMETRY RECEIVER (YANDAN KAYAN PANEL İÇİN VERİ AKIŞI)
+// 📢 THE NATIVE MASTER IFRAME RECEIVER (METATRON.JS - TEK VE MUTLAK ALICI KAPISI)
 // ============================================================================
 window.addEventListener("message", (event) => {
-    if (!event.data) return;
-    
-    const telemetry = document.getElementById("telemetryScreen");
-    if (!telemetry) return;
+    if (!event.data || !event.data.komut) return;
 
-    // 1. Genel Durum Güncellemeleri (Aşama Geçiş Sinyalleri)
-    if (event.data.komut === "EKRAN_GUNCELLE") {
-        telemetry.innerHTML = `MODE: ${event.data.mod}<br>CORE: CALIBRATION METRIC`;
+    // 🔴 EMİR 1: RGB Eksen Milleri (Mükerrer Çağrıları Bitiren Tek Merkez Kontrolü)
+    if (event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
+        let gelenDurum = event.data.durum; // main.html'den gelen net true/false durumu
+        
+        // 🔑 KESİN ÇÖZÜM: Fonksiyonu sadece burada tek bir kez çağırıyoruz!
+        if (window.createMetatronAxes) {
+            window.createMetatronAxes(gelenDurum);
+        }
+
+        // Küresel pointer görünürlüklerini de direkt burada garanti altına alıyoruz
+        if (window.currentAxisX) window.currentAxisX.visible = gelenDurum;
+        if (window.currentAxisY) window.currentAxisY.visible = gelenDurum;
+        if (window.currentAxisZ) window.currentAxisZ.visible = gelenDurum;
+
+        console.log(`[CORE BRIDGE] RGB Kalibrasyon Milleri Doğrudan Tetiklendi. Görünürlük: ${gelenDurum}`);
     }
 
-    // 2. Parçacık Üst Kutba (Beyne / Crux Nexus'una) Vardığında Galaktik Saat Tetiklenir
-    if (event.data.komut === "KOZMIK_SAAT_GUNCELLE") {
-        telemetry.innerHTML = `<span style="color:#fff;">[${event.data.durak}]</span><br><span style="color:#ff00ff;">${event.data.takvim}</span><br>FREKANS: ACTIVE ESİR`;
+    // 🟡 EMİR 2: Büyük İskelet Kafesi (Toggle Kilit Çözümü)
+    if (event.data.komut === "SKELETON_TOGGLE") {
+        let gelenDurum = event.data.durum; // main.html'den gelen net true/false durumu
+        
+        // Büyük Kuantum Kafesi grubunu ve tüm çocuklarını tek tıkla kapat/aç
+        if (window.KuantumKafesi) {
+            window.KuantumKafesi.visible = gelenDurum;
+            window.KuantumKafesi.children.forEach(child => {
+                child.visible = gelenDurum;
+            });
+        }
+
+        // RGB kalibrasyon millerini kendi bağımsız buton şalterinde (window.axesState) koru
+        let eksenDurumu = window.axesState !== false;
+        if (window.currentAxisX) window.currentAxisX.visible = eksenDurumu;
+        if (window.currentAxisY) window.currentAxisY.visible = eksenDurumu;
+        if (window.currentAxisZ) window.currentAxisZ.visible = eksenDurumu;
+
+        console.log(`[CORE BRIDGE] Metatron Skeleton Visibility Moved To: ${gelenDurum}`);
     }
 
-    // 3. Parçacık Alt Kutba (Sacrum Kâsesine) İnip U-Dönüşü Yaptığında I Ching Kodlanır
-    if (event.data.komut === "ICHING_KOD_GUNCELLE") {
-        telemetry.innerHTML = `<span style="color:#fff;">[${event.data.durak}]</span><br><span style="color:#ffff00;">${event.data.binary}</span> | ${event.data.hekzagram}`;
+    // 🛑 EMİR 3: Kuantum Kalp Atış Şalteri (Double Vortex Jeneratörü)
+    if (event.data.komut === "HEART_TOGGLE") {
+        let gelenDurum = event.data.durum; 
+        window.akademikKalpAktif = gelenDurum;
+        window.metatronAydinlanmaAsamasi = gelenDurum ? 3 : 1;
+        
+        console.log(`[CORE BRIDGE] Kuantum Kalp Motoru Durumu: ${gelenDurum ? 'ACTIVE_FLUX' : 'STATIC_SKELETON'}`);
+
+        // Eğer kalp kapatıldıysa havadaki tüm uçan gluon paketlerini anında imha et
+        if (!gelenDurum) {
+            for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
+                window.KuantumKafesi.remove(window.aktifPaketler[i].mesh);
+                window.aktifPaketler[i].mesh.geometry.dispose();
+                window.aktifPaketler[i].mesh.material.dispose();
+            }
+            window.aktifPaketler = [];
+
+            // Tüm odaları karartarak o sönük mat 0x111111 şasisine geri kilitle
+            window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
+                let nodeMesh = window.KuantumKafesi.getObjectByName(oda.name);
+                if (nodeMesh && nodeMesh.material) {
+                    nodeMesh.material.emissiveIntensity = 0.0;
+                    nodeMesh.material.color.setHex(0x111111);
+                    nodeMesh.material.emissive.setHex(0x111111);
+                }
+            });
+        }
     }
-});
+}); // 🔑 PARANTEZ KİLİDİ: Master dinleyicinin ucu burada hatasız mühürleniyor!
