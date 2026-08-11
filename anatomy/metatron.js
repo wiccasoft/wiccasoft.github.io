@@ -246,6 +246,79 @@ window.frameSayaci = 0;
 
 //const RENK_TAYFI_SPEKTRUMU = [1,2,4,8,7,5];
 
+window.vortexPointer = 0;
+window.akimZamanlayici = null;
+const MATTER_SEQUENCE = [1,2,4,8,7,5];
+
+// 🚀 Sadece buton tetiklendiğinde çalışan bağımsız akım üreteci
+window.startVortexFlux = function() {
+    if (window.akimZamanlayici) clearInterval(window.akimZamanlayici);
+
+    window.akimZamanlayici = setInterval(() => {
+        if (!window.akademikKalpAktif) return;
+
+        let mevcutId = MATTER_SEQUENCE[window.vortexPointer];
+        let sonrakiId = MATTER_SEQUENCE[(window.vortexPointer + 1) % MATTER_SEQUENCE.length];
+
+        // Odaların isim eşleşmelerine göre mesh nesnelerini hafızadan direkt çek
+        const kaynakMesh = window.KuantumKafesi.children.find(c => c.name && c.name.includes(`ID_${mevcutId}`));
+        const hedefMesh = window.KuantumKafesi.children.find(c => c.name && c.name.includes(`ID_${sonrakiId}`));
+
+        if (kaynakMesh && hedefMesh) {
+            // Akademik milivolt durumunu fonksiyonumuzdan tek seferlik çekiyoruz
+            const odaVerisi = window.getMetatronFrequencyState(window.vortexPointer);
+            
+            // Işık parlama tetikleyicisi
+            if (kaynakMesh.material) {
+                kaynakMesh.material.emissiveIntensity = odaVerisi.mv > 0 ? 2.5 : 1.2;
+            }
+
+
+            // 🔴 PARÇACIK GÖRSEL KATMANI: Ekranda görünecek pembe akım küresi
+            const paketGeometri = new THREE.SphereGeometry(0.04, 8, 8); // Küçük hafif bir gluon
+            const paketMateryal = new THREE.MeshBasicMaterial({
+                color: 0xff00ff, // Pembe Akım Rengi
+                transparent: true,
+                opacity: 0.9
+            });
+            const meshParcacik = new THREE.Mesh(paketGeometri, paketMateryal);
+            meshParcacik.position.copy(kaynakMesh.position);
+
+            // Fiziksel parçacığı ana gruba veya sahneye ekle ki ekranda gözüksün!
+            window.KuantumKafesi.add(meshParcacik);
+
+            // Altın oran hız katsayısı hesabı olay anında 1 kez yapılır
+            let hizKatsayisi = 0.05;
+            if (odaVerisi.mv > 0) hizKatsayisi *= 1.618;
+            if (odaVerisi.mv < 0) hizKatsayisi *= 0.618;
+
+            // Parçacığı canlı listeye ekle
+            window.paketSayaci++;
+            window.aktifPaketler.push({
+                id: window.paketSayaci,
+                kaynak: kaynakMesh.position.clone(),
+                hedef: hedefMesh.position.clone(),
+                ilerleme: 0,
+                hiz: hizKatsayisi,
+                mesh: meshParcacik // 👈 Güncelleme için bu referansı ekledik!
+            });
+        }
+        
+
+        window.vortexPointer = (window.vortexPointer + 1) % MATTER_SEQUENCE.length;
+    }, 300); // 300ms zamanlama kilidi
+};
+
+// 🛑 Akımı ve zamanlayıcıyı tamamen kapatan fonksiyon
+window.stopVortexFlux = function() {
+    if (window.akimZamanlayici) {
+        clearInterval(window.akimZamanlayici);
+        window.akimZamanlayici = null;
+    }
+    // Havadaki tüm paketleri anında ve temizce bellekten uçur
+    window.aktifPaketler = [];
+};
+
 
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
@@ -260,12 +333,12 @@ window.updateMetatronLoop = function() {
     //Sistemin Matematiksel Çalışma Mekanizması:
     // Diyastolik Dinlenme (Kırmızı -90 mV): Enerji en düşük potansiyelde sönük ve sakin başlar. 
     // Parçacık hızı yavaştır (0.618).Hızlı Depolarizasyon (Sarı +20 mV): Akım bu odaya ulaştığında emissiveIntensity 2.5 katına çıkarak
-    //  sahnede anlık bir parlama patlaması yaratır ve gluon hızı Altın Oran katsayısıyla (1.618) katlanarak çevre çeperlere fırlar.
+    // sahnede anlık bir parlama patlaması yaratır ve gluon hızı Altın Oran katsayısıyla (1.618) katlanarak çevre çeperlere fırlar.
     // Kasılma Plato Fazı (Yeşil 0 mV): Karaciğer ve pankreas dengesini simüle eden bu evrede hız normalleşir ve enerji topraklanır.
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
 
     const simdikiZaman = performance.now();
-
+    
     // ⚡ 1. KALP AKTİFSE PARÇACIK (GLUON) ÜRETİM JENERATÖRÜ
     if (window.akademikKalpAktif) {
         // Her 350ms'de bir doğrusal spektrum sırasına göre yeni bir akım dalgası fırlat
@@ -316,22 +389,47 @@ window.updateMetatronLoop = function() {
         }
     }
 
-    // 🌀 2. SAHNEDEKİ PARÇACIKLARIN POZİSYONLARINI VE SOĞUMA EFEKTLERİNİ GÜNCELLE
-    for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
-        let p = window.aktifPaketler[i];
-        p.ilerleme += p.hiz;
+// 🌀 2. SAHNEDEKİ PARÇACIKLARIN POZİSYONLARINI VE SOĞUMA EFEKTLERİNİ GÜNCELLE
 
-        // Eğer parçacık hedefe ulaştıysa bellekten pürüzsüzce imha et
-        if (p.ilerleme >= 1.0) {
-            window.aktifPaketler.splice(i, 1);
-        }
+// 🌀 Aktif paketleri güncelle, fiziksel olarak yürüt ve hedefe ulaşanları sil
+// 🌀 Sahnede uçan pembe küreleri KAVİSLİ/YAY şeklinde yürüt
+for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
+    let p = window.aktifPaketler[i];
+    p.ilerleme += p.hiz;
+
+    if (p.mesh) {
+        // 1. Önce doğrusal taban pozisyonunu hesapla
+        const geciciPozisyon = new THREE.Vector3();
+        geciciPozisyon.lerpVectors(p.kaynak, p.hedef, p.ilerleme);
+
+        // 2. Kuantum Bombesi: Yolun tam ortasında maksimuma ulaşan bir sinüs dalgası üret (0 -> 1 -> 0)
+        // Math.sin(Math.PI * 0.5) = 1 (Yolun ortasında tepe yapar)
+        let dalgaYuksekligi = Math.sin(p.ilerleme * Math.PI) * 0.25; // 0.25 kavis miktarıdır, istersen artır
+
+        // 3. Parçacığı Y ekseninde (veya Z ekseninde) yukarı doğru bükerek kavis ver
+        geciciPozisyon.y += dalgaYuksekligi; 
+        geciciPozisyon.z += dalgaYuksekligi * 0.5; // Hafif derinlik kavisi
+
+        // Fiziksel kürenin pozisyonunu bu kavisli konuma eşitle
+        p.mesh.position.copy(geciciPozisyon);
     }
 
+    // Hedefe ulaştıysa imha et
+    if (p.ilerleme >= 1.0) {
+        if (p.mesh) {
+            window.KuantumKafesi.remove(p.mesh);
+            p.mesh.geometry.dispose();
+            p.mesh.material.dispose();
+        }
+        window.aktifPaketler.splice(i, 1);
+    }
+}
+
     // Odaların aşırı parlayıp patlamasını önleyen zaman bazlı pürüzsüz soğuma kalkanı
-    window.spheres.forEach(s => {
-        const nodeMesh = window.KuantumKafesi.getObjectByName(s.name);
-        if (nodeMesh && nodeMesh.material && nodeMesh.material.emissiveIntensity > 0.5) {
-            nodeMesh.material.emissiveIntensity -= 0.02; // Sönümlenme eğrisi
+ window.spheres.forEach(s => {
+        const node = window.KuantumKafesi.getObjectByName(s.name);
+        if (node?.material && node.material.emissiveIntensity > 0.5) {
+            node.material.emissiveIntensity -= 0.02;
         }
     });
 
@@ -738,6 +836,20 @@ window.animate = function() {
 
 
 
+// Pembe buton (HEART_TOGGLE) dinleyicisi
+window.addEventListener("message", (event) => {
+    if (!event.data || !event.data.komut) return;
+
+    if (event.data.komut === "HEART_TOGGLE") {
+        window.akademikKalpAktif = event.data.durum;
+        // Akımı başlat veya durdur
+        event.data.durum ? window.startVortexFlux() : window.stopVortexFlux();
+    }
+});
+
+
+
+
 function toggleSkeletonButton() {
     if (window.skeletonState === undefined) window.skeletonState = true;
     window.skeletonState = !window.skeletonState;
@@ -759,6 +871,9 @@ function toggleSkeletonButton() {
         }
     }
 }
+
+
+
 
 // ============================================================================
 // 🖥️ RESIZE OLAREK EMNİYET ŞALTERLİ KADRAJ KİLİDİ (HATA BİTİRİCİ)
@@ -794,6 +909,9 @@ window.addEventListener("message", (event) => {
 
 
 // ============================================================================
+// 📢 THE NATIVE MASTER IFRAME RECEIVER (METATRON.JS - KALP ATALET ŞALTERİ)
+// ============================================================================
+// ============================================================================
 // 📢 CONTROL DECK RECEIVER BRIDGE (HARİCİ KARE BUTONLARDAN GELEN EMİR MOTORU)
 // ============================================================================
 window.addEventListener("message", (event) => {
@@ -820,10 +938,36 @@ window.addEventListener("message", (event) => {
     }
 
     // 🛑 3. Kuantum Kalp Atış Şalteri
+     // 🛑 EMİR: Kuantum Kalp Atış Şalteri (Double Vortex Başlatıcı)
     if (event.data.komut === "HEART_TOGGLE") {
-        window.akademikKalpAktif = !window.akademikKalpAktif;
-        if (window.metatronAydinlanmaAsamasi < 3) window.metatronAydinlanmaAsamasi = 3;
-        console.log(`[DECK PROTOCOL] Kuantum Kalp Durumu Değiştirildi: ${window.akademikKalpAktif}`);
+        let gelenDurum = event.data.durum; // Pembe butondan gelen net true/false sinyali
+        
+        window.akademikKalpAktif = gelenDurum;
+        
+        // Akım ve Aydınlanma aşamalarını senkronize et
+        window.metatronAydinlanmaAsamasi = gelenDurum ? 3 : 1;
+
+        if (gelenDurum) {
+            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Ateşlendi: ACTIVE_FLUX ⚡");
+            // Akım ilk başladığında odaların sırasını sıfırdan pürüzsüz başlat
+            window.mevcutOdaSirasi = 0; 
+            window.sonUretimZamani = performance.now();
+        } else {
+            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Kapatıldı: STATIC_SKELETON 🛑");
+            
+            // 🛡️ BELLEK SIZINTI KALKANI: Akım kapatıldıysa havadaki tüm uçan gluon paketlerini anında imha et
+            if (window.aktifPaketler && window.aktifPaketler.length > 0) {
+                window.aktifPaketler = [];
+            }
+
+            // Tüm odaların parlamasını anında kes ve sönük baz durumuna eşitle
+            window.spheres.forEach(s => {
+                const nodeMesh = window.KuantumKafesi.getObjectByName(s.name);
+                if (nodeMesh && nodeMesh.material) {
+                    nodeMesh.material.emissiveIntensity = 0.5; // Başlangıçtaki mat, sakin seviye
+                }
+            });
+        }
     }
 });
 
@@ -874,30 +1018,49 @@ window.addEventListener("message", (event) => {
 
     // 🛑 EMİR 3: Kuantum Kalp Atış Şalteri (Double Vortex Jeneratörü)
     if (event.data.komut === "HEART_TOGGLE") {
-        let gelenDurum = event.data.durum; 
+        let gelenDurum = event.data.durum;
         window.akademikKalpAktif = gelenDurum;
         window.metatronAydinlanmaAsamasi = gelenDurum ? 3 : 1;
-        
-        console.log(`[CORE BRIDGE] Kuantum Kalp Motoru Durumu: ${gelenDurum ? 'ACTIVE_FLUX' : 'STATIC_SKELETON'}`);
 
-        // Eğer kalp kapatıldıysa havadaki tüm uçan gluon paketlerini anında imha et
-        if (!gelenDurum) {
-            for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
-                window.KuantumKafesi.remove(window.aktifPaketler[i].mesh);
-                window.aktifPaketler[i].mesh.geometry.dispose();
-                window.aktifPaketler[i].mesh.material.dispose();
+        if (gelenDurum) {
+            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Ateşlendi: ACTIVE_FLUX ⚡");
+            window.mevcutOdaSirasi = 0;
+            window.sonUretimZamani = performance.now();
+            
+            // Eğer setInterval mimarisi kullanıyorsan akım üretecini burada tetikle
+            if (typeof window.startVortexFlux === "function") {
+                window.startVortexFlux();
             }
-            window.aktifPaketler = [];
-/*
-            // Tüm odaları karartarak o sönük mat 0x111111 şasisine geri kilitle
-            window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
-                let nodeMesh = window.KuantumKafesi.getObjectByName(oda.name);
-                if (nodeMesh && nodeMesh.material) {
-                    nodeMesh.material.emissiveIntensity = 0.0;
-                    nodeMesh.material.color.setHex(0x111111);
-                    nodeMesh.material.emissive.setHex(0x111111);
-                }
-            });*/
+        } else {
+            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Kapatıldı: STATIC_SKELETON 🛑");
+
+            // 🌟 1. KRİTİK ÇÖZÜM: Arka plandaki zamanlayıcıyı BIÇAK GİBİ KES (Yeni paket üretimini durdurur)
+            if (window.akimZamanlayici) {
+                clearInterval(window.akimZamanlayici);
+                window.akimZamanlayici = null;
+            }
+
+            // 🛡️ 2. BELLEK VE SAHNE TEMİZLİĞİ: Havada asılı kalan tüm yetim parçacıkları imha et
+            if (window.aktifPaketler && window.aktifPaketler.length > 0) {
+                window.aktifPaketler.forEach(p => {
+                    if (p.mesh) {
+                        window.KuantumKafesi.remove(p.mesh); // Sahneden sök
+                        if (p.mesh.geometry) p.mesh.geometry.dispose(); // Geometriyi erit
+                        if (p.mesh.material) p.mesh.material.dispose(); // Materyali erit
+                    }
+                });
+                window.aktifPaketler = []; // Diziyi tamamen sıfırla
+            }
+
+            // ❄️ 3. ODA SOĞUTMA: Tüm odaların parlama yoğunluğunu baz seviyeye çek
+            if (window.spheres) {
+                window.spheres.forEach(s => {
+                    const nodeMesh = window.KuantumKafesi.getObjectByName(s.name);
+                    if (nodeMesh && nodeMesh.material) {
+                        nodeMesh.material.emissiveIntensity = 0.5; 
+                    }
+                });
+            }
         }
     }
 }); // 🔑 PARANTEZ KİLİDİ: Master dinleyicinin ucu burada hatasız mühürleniyor!
