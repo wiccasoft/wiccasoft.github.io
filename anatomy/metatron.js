@@ -1038,6 +1038,17 @@ window.addEventListener("message", (event) => {
         }
     }
 
+
+      // ============================================================================
+    // 📢 MASTER RECEIVER BRIDGE - EMİR 4: KUZEY IŞIĞI TEPEDEN BAKIŞ AKTİFLEYİCİ
+    // ============================================================================
+    if (event.data.komut === "SET_TOP_VIEW") {
+        if (typeof window.setTopView === "function") {
+            window.setTopView();
+            console.log("[OPTICAL BRIDGE] Kamera Kuzey Işığı Kutup Aksına Sabitlendi: TOP_VIEW 👁️");
+        }
+    }
+
     // 🛑 3. Kuantum Kalp Atış Şalteri
      // 🛑 EMİR: Kuantum Kalp Atış Şalteri (Double Vortex Başlatıcı)
     if (event.data.komut === "HEART_TOGGLE") {
@@ -1072,95 +1083,3 @@ window.addEventListener("message", (event) => {
     }
 });
 
-
-// ============================================================================
-// 📢 THE NATIVE MASTER IFRAME RECEIVER (METATRON.JS - TEK VE MUTLAK ALICI KAPISI)
-// ============================================================================
-window.addEventListener("message", (event) => {
-    if (!event.data || !event.data.komut) return;
-
-    // 🔴 EMİR 1: RGB Eksen Milleri (Mükerrer Çağrıları Bitiren Tek Merkez Kontrolü)
-    if (event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
-        let gelenDurum = event.data.durum; // main.html'den gelen net true/false durumu
-        
-        // 🔑 KESİN ÇÖZÜM: Fonksiyonu sadece burada tek bir kez çağırıyoruz!
-        if (window.createMetatronAxes) {
-            window.createMetatronAxes(gelenDurum);
-        }
-
-        // Küresel pointer görünürlüklerini de direkt burada garanti altına alıyoruz
-        if (window.currentAxisX) window.currentAxisX.visible = gelenDurum;
-        if (window.currentAxisY) window.currentAxisY.visible = gelenDurum;
-        if (window.currentAxisZ) window.currentAxisZ.visible = gelenDurum;
-
-        console.log(`[CORE BRIDGE] RGB Kalibrasyon Milleri Doğrudan Tetiklendi. Görünürlük: ${gelenDurum}`);
-    }
-
-    // 🟡 EMİR 2: Büyük İskelet Kafesi (Toggle Kilit Çözümü)
-    if (event.data.komut === "SKELETON_TOGGLE") {
-        let gelenDurum = event.data.durum; // main.html'den gelen net true/false durumu
-        
-        // Büyük Kuantum Kafesi grubunu ve tüm çocuklarını tek tıkla kapat/aç
-        if (window.KuantumKafesi) {
-            window.KuantumKafesi.visible = gelenDurum;
-            window.KuantumKafesi.children.forEach(child => {
-                child.visible = gelenDurum;
-            });
-        }
-
-        // RGB kalibrasyon millerini kendi bağımsız buton şalterinde (window.axesState) koru
-        let eksenDurumu = window.axesState !== false;
-        if (window.currentAxisX) window.currentAxisX.visible = eksenDurumu;
-        if (window.currentAxisY) window.currentAxisY.visible = eksenDurumu;
-        if (window.currentAxisZ) window.currentAxisZ.visible = eksenDurumu;
-
-        console.log(`[CORE BRIDGE] Metatron Skeleton Visibility Moved To: ${gelenDurum}`);
-    }
-
-    // 🛑 EMİR 3: Kuantum Kalp Atış Şalteri (Double Vortex Jeneratörü)
-    if (event.data.komut === "HEART_TOGGLE") {
-        let gelenDurum = event.data.durum;
-        window.akademikKalpAktif = gelenDurum;
-        window.metatronAydinlanmaAsamasi = gelenDurum ? 3 : 1;
-
-        if (gelenDurum) {
-            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Ateşlendi: ACTIVE_FLUX ⚡");
-            window.mevcutOdaSirasi = 0;
-            window.sonUretimZamani = performance.now();
-            
-            // Eğer setInterval mimarisi kullanıyorsan akım üretecini burada tetikle
-            if (typeof window.startVortexFlux === "function") {
-                window.startVortexFlux();
-            }
-        } } else {
-    console.log("[CORE BRIDGE] Kuantum Kalp Motoru Kapatıldı: STATIC_SKELETON 🛑");
-
-    // 🌟 Zamanlayıcıyı sustur
-    if (window.akimZamanlayici) {
-        clearInterval(window.akimZamanlayici);
-        window.akimZamanlayici = null;
-    }
-
-    // 🛡️ Havada kalan parçacıkları WebGL belleğinden kazı
-    if (window.aktifPaketler && window.aktifPaketler.length > 0) {
-        window.aktifPaketler.forEach(p => {
-            if (p.mesh) {
-                window.KuantumKafesi.remove(p.mesh);
-                if (p.mesh.geometry) p.mesh.geometry.dispose();
-                if (p.mesh.material) p.mesh.material.dispose();
-            }
-        });
-        window.aktifPaketler = [];
-    }
-
-    // 🖤 TÜM ODALARI KARART: Sönük mat şasiye (0x111111) geri kilitleme!
-    window.spheres.forEach(s => {
-        const nodeMesh = window.KuantumKafesi.getObjectByName(`ID_${s.id}`);
-        if (nodeMesh && nodeMesh.material) {
-            nodeMesh.material.emissiveIntensity = 0.0; // Parlama sıfır
-            nodeMesh.material.color.setHex(0x111111);       // Mat siyah şasi rengi
-            nodeMesh.material.emissive.setHex(0x111111);    // Mat iç ışık
-        }
-    });
-}
-}); // 🔑 PARANTEZ KİLİDİ: Master dinleyicinin ucu burada hatasız mühürleniyor!
