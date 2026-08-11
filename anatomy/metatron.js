@@ -126,6 +126,10 @@ window.createFiveFoldCore = function(isCoreVisible) {
     window.FiveFoldGrubu = new THREE.Group();
     window.FiveFoldGrubu.name = "FIVE_FOLD_CORE_GROUP";
 
+    window.FiveFoldGrubu.rotation.z = 90 * (Math.PI / 180); 
+
+    
+
     const cemberYaricapi = 0.25; // Altın oran ölçeğinde element halkaları çapı
     const segments = 64;         // Çemberlerin pürüzsüzlük kalitesi
 
@@ -170,12 +174,15 @@ window.createFiveFoldCore = function(isCoreVisible) {
         window.FiveFoldGrubu.add(nodMesh);
     });
 
-    // 🔵 MAVİ ESİR ÇEMBERİ (Ether / Merkez Manyetik Kalkan Hattı)
-    // Şemadaki tüm yapıyı dıştan kuşatan pürüzsüz sınır halkası
+// 🔵 MAVİ ESİR ÇEMBERİ (Ether / Merkez Manyetik Kalkan Hattı)
     const maviGeom = new THREE.RingGeometry(cemberYaricapi * 1.414 - 0.006, cemberYaricapi * 1.414 + 0.006, segments);
     const maviMat = new THREE.MeshBasicMaterial({ color: 0x0077ff, side: THREE.DoubleSide });
     const maviCember = new THREE.Mesh(maviGeom, maviMat);
     maviCember.name = "CEMBER_ETHER_SHIELD";
+    
+    // 🔑 KİLİT: Görsel sadelik ve derinlik netliği için mavi kalkanı gizliyoruz
+    maviCember.visible = false; 
+    
     window.FiveFoldGrubu.add(maviCember);
 
     // ⚫ MUTLAK SIFIR NOKTASI FREKANSI (Merkez Kara Delik Düğümü)
@@ -224,18 +231,15 @@ window.spheres = [
         { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true  }  
     ];
 
-
-// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Müfredatla Tam Uyumlu)
+// 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Yeni Enerji Akış Sırasına Göre Senkronize)
 window.RENK_TAYFI_SPEKTRUMU = [
-    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" }, // Denge / Topraklama
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" }, // İçe Çekilme / Dinlenme
+    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" }, // Depolarizasyon / Genleşme
+    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }, // Hiperpolarizasyon
     { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
-    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" },
-    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" },
-    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" },
-    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }
+    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" }
 ];
-
-
 
 
 
@@ -295,29 +299,6 @@ window.getMetatronFrequencyState = function(anlikOdaIndex) {
 
 
 
-// ============================================================================
-// ODALARI AÇILIŞTA TAMAMEN MAT, SÖNÜK VE KARANLIK BAŞLATAN KİLİT
-// ============================================================================
-window.spheres.forEach(s => {
-    const t_radius = 0.08; 
-    const geom = new THREE.SphereGeometry(t_radius, 32, 32);
-    
-    // 🔑 Kürelerin kendi renklerini ve öz ışıklarını tamamen karartıyoruz!
-    const mat = new THREE.MeshPhongMaterial({
-        color: 0x111111,
-        emissive: 0x050505,
-        emissiveIntensity: 0.0,
-        transparent: false,
-        opacity: 1.0,
-        depthWrite: true,
-        depthTest: true
-    });
-
-    const sphere = new THREE.Mesh(geom, mat);
-    sphere.position.copy(s.pos);
-    sphere.name = s.name;
-    if (window.KuantumKafesi) window.KuantumKafesi.add(sphere);
-});
 
 // ============================================================================
 // 🧭 DETACHED RGB AXES CORE ENGINE (BAĞIMSIZ BOYUT MİLİ FONKSİYONU - SAF SÜRÜM)
@@ -405,11 +386,31 @@ window.initMetatronEngine = function() {
     // İleride 4 element aynalama modunda bu fonksiyonu 'true' ile özgürce çağırabiliriz.
     window.createMetatronAxes(true); 
 
-  window.createFiveFoldCore(true)
+    window.createFiveFoldCore(true)
 
-    // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
+    // --- KUTSAL ENERJİ ODALARI (8 KÜRE) ---
+// Artık KuantumKafesi kesinlikle ayakta olduğu için güvenle ekliyoruz.
+window.spheres.forEach(s => {
+    const sphere = new THREE.Mesh(
+        new THREE.SphereGeometry(0.05, 32, 32),
+        new THREE.MeshPhongMaterial({
+            color: s.color, emissive: s.color, emissiveIntensity: 0.5,
+            transparent: true, opacity: 0.85
+        })
+    );
+    sphere.position.copy(s.pos);
+    window.KuantumKafesi.add(sphere); // Doğrudan gruba ekle
+});
+// -------------------------------------
+
+ // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
     window.KuantumKafesi.rotation.y = Math.PI / 2; 
-    window.KuantumKafesi.position.y = 0.0;
+
+    // 🌍 EKSEN EĞİKLİĞİ: Yan bakış profilinde ekran düzleminde tam karşıdan 23 derece sağa (saat yönüne) döndürme kilidi
+    //window.KuantumKafesi.rotation.z = 0 * (Math.PI / 180); 
+    window.KuantumKafesi.rotation.z = 0 * (Math.PI / 180); // Saat yönünde tam 45 derece sarmal kayma
+
+    window.KuantumKafesi.position.y = -0.6;
     window.KuantumKafesi.position.x = 0.0;
     window.KuantumKafesi.scale.set(1.3, 1.3, 1.3);
     window.scene.add(window.KuantumKafesi);
@@ -842,7 +843,7 @@ window.addEventListener("message", (event) => {
                 window.aktifPaketler[i].mesh.material.dispose();
             }
             window.aktifPaketler = [];
-
+/*
             // Tüm odaları karartarak o sönük mat 0x111111 şasisine geri kilitle
             window.RENK_TAYFI_SPEKTRUMU.forEach(oda => {
                 let nodeMesh = window.KuantumKafesi.getObjectByName(oda.name);
@@ -851,7 +852,7 @@ window.addEventListener("message", (event) => {
                     nodeMesh.material.color.setHex(0x111111);
                     nodeMesh.material.emissive.setHex(0x111111);
                 }
-            });
+            });*/
         }
     }
 }); // 🔑 PARANTEZ KİLİDİ: Master dinleyicinin ucu burada hatasız mühürleniyor!
