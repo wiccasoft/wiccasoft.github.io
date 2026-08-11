@@ -38,6 +38,45 @@ const BYR = [7, 4, 1, 5, 8, 2];
 //let aktifIndexA = 0;
 //let aktifIndexB = 0;
 
+
+window.sonsuzlukCizgisi = null;
+window.sonsuzlukZamani = 0;
+
+window.createDseedInfinityBackground = function() {
+    // Varsa eski çizgiyi sahneden uçur
+    if (window.sonsuzlukCizgisi) {
+        window.scene.remove(window.sonsuzlukCizgisi);
+        window.sonsuzlukCizgisi.geometry.dispose();
+        window.sonsuzlukCizgisi.material.dispose();
+    }
+
+    const curvePoints = [];
+    const segments = 120;
+    
+    // Sonsuzluk (∞) matematiksel eğri döngüsü
+    for (let i = 0; i <= segments; i++) {
+        let t = (i / segments) * Math.PI * 2;
+        let scale = 1.6; // Metatron'un arkasında kalacak şekilde altın oran ölçeği
+        let x = (scale * Math.cos(t)) / (1 + Math.sin(t) * Math.sin(t));
+        let y = (scale * Math.sin(t) * Math.cos(t)) / (1 + Math.sin(t) * Math.sin(t));
+        
+        // Z ekseninde hafifçe arkaya (-0.4) iterek derinlik veriyoruz
+        curvePoints.push(new THREE.Vector3(x, y, -0.4));
+    }
+
+    const geometry = new THREE.BufferGeometry().setFromPoints(curvePoints);
+    const material = new THREE.LineBasicMaterial({
+        color: 0xff00ff,          // Pembe Tonu
+        transparent: true,
+        opacity: 0.1,             // Gözü yormayacak hafif bir gizli sis önizlemesi
+        blending: THREE.AdditiveBlending
+    });
+
+    window.sonsuzlukCizgisi = new THREE.Line(geometry, material);
+    window.sonsuzlukCizgisi.name = "DSEED_INFINITY_LINE";
+    window.scene.add(window.sonsuzlukCizgisi);
+};
+
 // ============================================================================
 // 🧭 INTEGRATED RGB AXES ENGINE (İSKELET İÇİNDE KALAN KİLİTLİ VE GÜVENLİ SÜRÜM)
 // ============================================================================
@@ -268,11 +307,19 @@ window.startVortexFlux = function() {
             // Akademik milivolt durumunu fonksiyonumuzdan tek seferlik çekiyoruz
             const odaVerisi = window.getMetatronFrequencyState(window.vortexPointer);
             
-            // Işık parlama tetikleyicisi
+            // ============================================================================
+            // 🔥 ODA ATEŞLEME VE VOLTAJ PARLAMASI (MÜKERRER SATIR TEMİZLENDİ)
+            // ============================================================================
             if (kaynakMesh.material) {
-                kaynakMesh.material.emissiveIntensity = odaVerisi.mv > 0 ? 2.5 : 1.2;
+                // 💡 Sarı oda (+20 mV Depolarizasyon) ise 3.5 katı devasa bir patlama yarat!
+                // Dinlenme odalarında (-90 mV) ise daha sakin, loş (1.5) bir parlama ver.
+                kaynakMesh.material.emissiveIntensity = odaVerisi.mv > 0 ? 3.5 : 1.5;
+                
+                // Kürenin rengini karartılmış mat halinden kendi saf enerjisel rengine geri döndür!
+                const orijinalRenk = window.spheres.find(s => `ID_${s.id}` === kaynakMesh.name)?.color || 0xffffff;
+                kaynakMesh.material.color.setHex(orijinalRenk);
+                kaynakMesh.material.emissive.setHex(orijinalRenk);
             }
-
 
             // 🔴 PARÇACIK GÖRSEL KATMANI: Ekranda görünecek pembe akım küresi
             const paketGeometri = new THREE.SphereGeometry(0.04, 8, 8); // Küçük hafif bir gluon
@@ -304,7 +351,6 @@ window.startVortexFlux = function() {
             });
         }
         
-
         window.vortexPointer = (window.vortexPointer + 1) % MATTER_SEQUENCE.length;
     }, 300); // 300ms zamanlama kilidi
 };
@@ -425,11 +471,21 @@ for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
     }
 }
 
-    // Odaların aşırı parlayıp patlamasını önleyen zaman bazlı pürüzsüz soğuma kalkanı
- window.spheres.forEach(s => {
-        const node = window.KuantumKafesi.getObjectByName(s.name);
-        if (node?.material && node.material.emissiveIntensity > 0.5) {
-            node.material.emissiveIntensity -= 0.02;
+  // ============================================================================
+    // ❄️ ODALARIN AKIM SONRASI KADEMELİ SOĞUMA VE KARARMA KALKANI
+    // ============================================================================
+    window.spheres.forEach(s => {
+        const node = window.KuantumKafesi.getObjectByName(`ID_${s.id}`);
+        if (node?.material) {
+            // Eğer oda hala parlaksa her karede hafifçe parlaklığını azalt
+            if (node.material.emissiveIntensity > 0.3) {
+                node.material.emissiveIntensity -= 0.04; // Soğuma/Sönme hızı
+            } else if (!window.akademikKalpAktif) {
+                // 🖤 Kalp kapatıldıysa odaları tamamen 0x111111 mat şasisine geri göm!
+                node.material.emissiveIntensity = 0.0;
+                node.material.color.setHex(0x111111);
+                node.material.emissive.setHex(0x111111);
+            }
         }
     });
 
