@@ -385,11 +385,11 @@ window.initMetatronEngine = function() {
 
     window.createFiveFoldCore(true)
 
-    // --- KUTSAL ENERJİ ODALARI (8 KÜRE) ---
-// Artık KuantumKafesi kesinlikle ayakta olduğu için güvenle ekliyoruz.
+// --- KUTSAL ENERJİ ODALARI (8 KÜRE) ---
+
 window.spheres.forEach(s => {
     const sphere = new THREE.Mesh(
-        new THREE.SphereGeometry(0.05, 32, 32),
+        new THREE.SphereGeometry(0.22, 32, 32),
         new THREE.MeshPhongMaterial({
             color: s.color, emissive: s.color, emissiveIntensity: 0.5,
             transparent: true, opacity: 0.85
