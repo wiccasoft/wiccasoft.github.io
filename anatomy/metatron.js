@@ -445,22 +445,64 @@ for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
     let p = window.aktifPaketler[i];
     p.ilerleme += p.hiz;
 
-    if (p.mesh) {
-        // 1. Önce doğrusal taban pozisyonunu hesapla
-        const geciciPozisyon = new THREE.Vector3();
-        geciciPozisyon.lerpVectors(p.kaynak, p.hedef, p.ilerleme);
+// 🌀 KUVANTA BÜKÜMÜ: Sol taraf Ateş (Genişleyen), Sağ taraf Su (İçe Çekilen)
+// ============================================================================
+// 🌀 MONA LISA AYNALI KUVANTA BÜKÜMÜ (MÜHÜRLENDİ)
+// ============================================================================
+// ============================================================================
+// 🌌 KOZMİK REDSHIFT: MAVİDEN KIRMIZIYA KIZILÖTESİ KAYMA MOTORU
+// ============================================================================
+// ============================================================================
+// 🌀 REZONANS KİLİDİ: FAZ KARŞITLIĞI VE TERS SİNÜS DALGASI MOTORU
+// ============================================================================
+if (p.mesh) {
+    const geciciPozisyon = new THREE.Vector3();
+    geciciPozisyon.lerpVectors(p.kaynak, p.hedef, p.ilerleme);
 
-        // 2. Kuantum Bombesi: Yolun tam ortasında maksimuma ulaşan bir sinüs dalgası üret (0 -> 1 -> 0)
-        // Math.sin(Math.PI * 0.5) = 1 (Yolun ortasında tepe yapar)
-        let dalgaYuksekligi = Math.sin(p.ilerleme * Math.PI) * 0.25; // 0.25 kavis miktarıdır, istersen artır
+    // 🔑 TERS SİNÜS ŞALTERİ: Yolun ilk yarısında (0 -> 0.5) normal dalga yükselir,
+    // Yolun ikinci yarısında (0.5 -> 1.0) yani odaya girerken dalga TAM TERSİNE (-1) bükülür!
+    let dalgaYonu = p.ilerleme < 0.5 ? 1.0 : -1.0;
+    
+    // Yolun ortasında ve odaya giriş anında kırılma yapan çift fazlı sinüs dalgası
+    let dalgaYuksekligi = Math.sin(p.ilerleme * Math.PI) * 0.28 * dalgaYonu;
 
-        // 3. Parçacığı Y ekseninde (veya Z ekseninde) yukarı doğru bükerek kavis ver
-        geciciPozisyon.y += dalgaYuksekligi; 
-        geciciPozisyon.z += dalgaYuksekligi * 0.5; // Hafif derinlik kavisi
-
-        // Fiziksel kürenin pozisyonunu bu kavisli konuma eşitle
-        p.mesh.position.copy(geciciPozisyon);
+    // ⚡ SAĞ EL / SOL EL KUTUPSAL ELEKTROMANYETİZMA ŞALTERİ (Aynalı Nizam)
+    if (geciciPozisyon.x < 0) {
+        // 🔴 SOL EL: Odadan çıkarken yükselen, odaya girerken ters dalgayla dibe çöken alev
+        geciciPozisyon.x -= dalgaYuksekligi * 0.5;
+        geciciPozisyon.y += dalgaYuksekligi;
+        geciciPozisyon.z += dalgaYuksekligi * 0.3; 
+    } else {
+        // 🔵 SAĞ EL: Giriş anında ters sarmalla içeri emilen dişil su girdabı
+        geciciPozisyon.x += dalgaYuksekligi * 0.3;
+        geciciPozisyon.y += dalgaYuksekligi * 0.7;
+        geciciPozisyon.z -= dalgaYuksekligi * 0.2; 
     }
+
+    // Fiziksel parçacığın 3D konumunu mühürle
+    p.mesh.position.copy(geciciPozisyon);
+}
+
+// ============================================================================
+// 🌈 SPEKTRAL REZONANS: FRENLENMİŞ HIZ BAZLI RENK EŞİKLERİ
+// ============================================================================
+if (p.mesh && p.mesh.material) {
+    
+    // Parçacık en kısa yolu seçip hızlandığı için, yüksek enerji renk sınırını (0.02'den 0.035'e) yukarı çekiyoruz!
+    if (p.hiz > 0.035) {
+        // 🔮 KUVANTUM MORU / ULTRA FREKANS: Sadece en çılgın hız patlamalarında mor/turkuaz yansısın
+        p.mesh.material.color.setHex(0x660099); 
+    } else if (p.hiz > 0.022) {
+        // 🔥 ELEKTRİK MAVİSİ / DEPOLARIZASYON: Sarı odanın o meşhur yıldırım çakma anı
+        p.mesh.material.color.setHex(0x00ffff); 
+    } else if (p.hiz < 0.015) {
+        // 🚨 KOZMİK REDSHIFT / KIZILÖTESİ: Yavaşlayıp Kırmızı dinlenmeye girerken kor kırmızısı
+        p.mesh.material.color.setHex(0xff1100); 
+    } else {
+        // 💧 ZÜMRÜT YEŞİLİ / DENGE FAZI: Çarkın sağındaki pürüzsüz su topraklaması
+        p.mesh.material.color.setHex(0x00ff00); 
+    }
+}
 
     // Hedefe ulaştıysa imha et
     if (p.ilerleme >= 1.0) {
@@ -612,7 +654,7 @@ window.initMetatronEngine = function() {
 
 window.spheres.forEach(s => {
     const sphere = new THREE.Mesh(
-        new THREE.SphereGeometry(0.16, 32, 32),
+        new THREE.SphereGeometry(0.18, 32, 32),
         new THREE.MeshPhongMaterial({
             color: s.color, emissive: s.color, emissiveIntensity: 0.5,
             transparent: true, opacity: 0.85
