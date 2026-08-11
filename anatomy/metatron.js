@@ -561,7 +561,8 @@ window.spheres.forEach(s => {
         })
     );
     sphere.position.copy(s.pos);
-    window.KuantumKafesi.add(sphere); // Doğrudan gruba ekle
+    sphere.name = `ID_${s.id}`; // 🔑 KESİN ÇÖZÜM: ID'leri mühürledik!
+    window.KuantumKafesi.add(sphere); 
 });
 // -------------------------------------
 
@@ -1031,36 +1032,35 @@ window.addEventListener("message", (event) => {
             if (typeof window.startVortexFlux === "function") {
                 window.startVortexFlux();
             }
-        } else {
-            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Kapatıldı: STATIC_SKELETON 🛑");
+        } } else {
+    console.log("[CORE BRIDGE] Kuantum Kalp Motoru Kapatıldı: STATIC_SKELETON 🛑");
 
-            // 🌟 1. KRİTİK ÇÖZÜM: Arka plandaki zamanlayıcıyı BIÇAK GİBİ KES (Yeni paket üretimini durdurur)
-            if (window.akimZamanlayici) {
-                clearInterval(window.akimZamanlayici);
-                window.akimZamanlayici = null;
-            }
-
-            // 🛡️ 2. BELLEK VE SAHNE TEMİZLİĞİ: Havada asılı kalan tüm yetim parçacıkları imha et
-            if (window.aktifPaketler && window.aktifPaketler.length > 0) {
-                window.aktifPaketler.forEach(p => {
-                    if (p.mesh) {
-                        window.KuantumKafesi.remove(p.mesh); // Sahneden sök
-                        if (p.mesh.geometry) p.mesh.geometry.dispose(); // Geometriyi erit
-                        if (p.mesh.material) p.mesh.material.dispose(); // Materyali erit
-                    }
-                });
-                window.aktifPaketler = []; // Diziyi tamamen sıfırla
-            }
-
-            // ❄️ 3. ODA SOĞUTMA: Tüm odaların parlama yoğunluğunu baz seviyeye çek
-            if (window.spheres) {
-                window.spheres.forEach(s => {
-                    const nodeMesh = window.KuantumKafesi.getObjectByName(s.name);
-                    if (nodeMesh && nodeMesh.material) {
-                        nodeMesh.material.emissiveIntensity = 0.5; 
-                    }
-                });
-            }
-        }
+    // 🌟 Zamanlayıcıyı sustur
+    if (window.akimZamanlayici) {
+        clearInterval(window.akimZamanlayici);
+        window.akimZamanlayici = null;
     }
+
+    // 🛡️ Havada kalan parçacıkları WebGL belleğinden kazı
+    if (window.aktifPaketler && window.aktifPaketler.length > 0) {
+        window.aktifPaketler.forEach(p => {
+            if (p.mesh) {
+                window.KuantumKafesi.remove(p.mesh);
+                if (p.mesh.geometry) p.mesh.geometry.dispose();
+                if (p.mesh.material) p.mesh.material.dispose();
+            }
+        });
+        window.aktifPaketler = [];
+    }
+
+    // 🖤 TÜM ODALARI KARART: Sönük mat şasiye (0x111111) geri kilitleme!
+    window.spheres.forEach(s => {
+        const nodeMesh = window.KuantumKafesi.getObjectByName(`ID_${s.id}`);
+        if (nodeMesh && nodeMesh.material) {
+            nodeMesh.material.emissiveIntensity = 0.0; // Parlama sıfır
+            nodeMesh.material.color.setHex(0x111111);       // Mat siyah şasi rengi
+            nodeMesh.material.emissive.setHex(0x111111);    // Mat iç ışık
+        }
+    });
+}
 }); // 🔑 PARANTEZ KİLİDİ: Master dinleyicinin ucu burada hatasız mühürleniyor!
