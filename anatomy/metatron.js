@@ -248,24 +248,97 @@ window.frameSayaci = 0;
 
 
 // ============================================================================
-// METATRON SAF KUTUPSAL TERS AKIM ODA YAKMA MOTORU (SIFIR PARÇACIK / SIFIR LAG)
+// DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
 // ============================================================================
-if (window.sequencePointer === undefined) window.sequencePointer = 0;
-if (window.activeMatrixMode === undefined) window.activeMatrixMode = "RYB";
+window.aktifPaketler = []; // Sahne üzerinde canlı uçan gluon parçacıkları
+window.paketSayaci = 0;    // Benzersiz parçacık kimliği
+window.mevcutOdaSirasi = 0; // Doğrusal spektrumda o an aktif olan oda indisi
+window.sonUretimZamani = 0; // İki parçacık üretimi arasındaki zaman kilidi
 
 window.updateMetatronLoop = function() {
-    // 🛡️ SAHNE GÜVENLİK FİLTRESİ
+
+    //Sistemin Matematiksel Çalışma Mekanizması:
+    // Diyastolik Dinlenme (Kırmızı -90 mV): Enerji en düşük potansiyelde sönük ve sakin başlar. 
+    // Parçacık hızı yavaştır (0.618).Hızlı Depolarizasyon (Sarı +20 mV): Akım bu odaya ulaştığında emissiveIntensity 2.5 katına çıkarak
+    //  sahnede anlık bir parlama patlaması yaratır ve gluon hızı Altın Oran katsayısıyla (1.618) katlanarak çevre çeperlere fırlar.
+    // Kasılma Plato Fazı (Yeşil 0 mV): Karaciğer ve pankreas dengesini simüle eden bu evrede hız normalleşir ve enerji topraklanır.
     if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
 
-    // 🕊️ Kuantum Kafesi Sabit Perspektif Kilidi
-    //window.KuantumKafesi.rotation.y = Math.PI / 2;
+    const simdikiZaman = performance.now();
 
-    // 💡 AÇIKLAMA: Odaları yakan, parlatan ve renklerini değiştiren tüm eski kodlar silindi.
-    // Küreler ilk başta nasıl sönük kurulduysa simülasyon boyunca o şekilde karanlık kalır.
+    // ⚡ 1. KALP AKTİFSE PARÇACIK (GLUON) ÜRETİM JENERATÖRÜ
+    if (window.akademikKalpAktif) {
+        // Her 350ms'de bir doğrusal spektrum sırasına göre yeni bir akım dalgası fırlat
+        if (simdikiZaman - window.sonUretimZamani > 350) {
+            window.sonUretimZamani = simdikiZaman;
 
-    // Sadece 3D sahneyi ve çizgileri tarayıcıda pürüzsüzce çizdirmeye devam eder
+            // Mevcut odanın akademik ve frekans verilerini oku
+            const mevcutOdaVerisi = window.getMetatronFrequencyState(window.mevcutOdaSirasi);
+            const sonrakiOdaVerisi = window.getMetatronFrequencyState(window.mevcutOdaSirasi + 1);
+
+            // Sahnedeki Three.js Mesh nesnelerini isimlerine göre yakala
+            const kaynakMesh = window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_ENERJI_ODASI`) || 
+                               window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_ITICI_ODA`) ||
+                               window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_KALKAN_ODASI`) ||
+                               window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_KABUK_ODASI`);
+
+            const hedefMesh = window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_ENERJI_ODASI`) || 
+                              window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_ITICI_ODA`) ||
+                              window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_KALKAN_ODASI`) ||
+                              window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_KABUK_ODASI`);
+
+            if (kaynakMesh && hedefMesh) {
+                // Enerji akışı başlarken kaynak odanın ışık yoğunluğunu (Aydınlanmasını) patlat
+                if (kaynakMesh.material) {
+                    kaynakMesh.material.emissiveIntensity = mevcutOdaVerisi.mv > 0 ? 2.5 : 1.2; 
+                }
+
+                // Altın Oranlı Gluon Bölünmesi: Sarı Odada (+20mV) enerji katlanır, hızı 1.618 ile çarpılır
+                let hizKatsayisi = 0.05;
+                if (mevcutOdaVerisi.mv > 0) hizKatsayisi *= 1.618; // Depolarizasyon Genleşmesi
+                if (mevcutOdaVerisi.mv === 0) hizKatsayisi *= 1.0; // Topraklama Fazı
+                if (mevcutOdaVerisi.mv < 0) hizKatsayisi *= 0.618; // Gevşeme ve Sönümlenme
+
+                // Mantıksal kuantum paketini oluştur ve diziye fırlat
+                window.paketSayaci++;
+                window.aktifPaketler.push({
+                    id: window.paketSayaci,
+                    kaynak: kaynakMesh.position.clone(),
+                    hedef: hedefMesh.position.clone(),
+                    ilerleme: 0,
+                    hiz: hizKatsayisi,
+                    renkHex: kaynakMesh.material.color.getHex()
+                });
+            }
+
+            // Bir sonraki odaya pürüzsüz doğrusal geçiş yap (Saniyede 6 odalı renk tayfı)
+            window.mevcutOdaSirasi = (window.mevcutOdaSirasi + 1) % 6;
+        }
+    }
+
+    // 🌀 2. SAHNEDEKİ PARÇACIKLARIN POZİSYONLARINI VE SOĞUMA EFEKTLERİNİ GÜNCELLE
+    for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
+        let p = window.aktifPaketler[i];
+        p.ilerleme += p.hiz;
+
+        // Eğer parçacık hedefe ulaştıysa bellekten pürüzsüzce imha et
+        if (p.ilerleme >= 1.0) {
+            window.aktifPaketler.splice(i, 1);
+        }
+    }
+
+    // Odaların aşırı parlayıp patlamasını önleyen zaman bazlı pürüzsüz soğuma kalkanı
+    window.spheres.forEach(s => {
+        const nodeMesh = window.KuantumKafesi.getObjectByName(s.name);
+        if (nodeMesh && nodeMesh.material && nodeMesh.material.emissiveIntensity > 0.5) {
+            nodeMesh.material.emissiveIntensity -= 0.02; // Sönümlenme eğrisi
+        }
+    });
+
+    // 🖥 Ekrana Çizim Motoru
     window.renderer.render(window.scene, window.camera);
 };
+
 // ============================================================================
 // METATRON CANLI DURUM OKUMA VE DIŞARIYA SİNYAL VERME MOTORU
 // ============================================================================
