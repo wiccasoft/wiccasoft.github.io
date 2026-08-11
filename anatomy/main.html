@@ -241,6 +241,13 @@ button, input, .panel-kartlari {
             width: 45px; height: 45px; background: #222; border: 1px solid #222; 
             color: #ff0000; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
         ">❤️</button>
+
+
+      <!-- Buton 5: görünüm açısı (perspektik görünüm butonu) -->
+        <button id="btnAngle" onclick="toggleAngleButton()" title="Görünüm Açısı (🧭)" style="
+            width: 45px; height: 45px; background: #660099; border: 1px solid #fff; 
+            color: #00ff00; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
+        ">🧭</button>
     </div>
 </div>
 
@@ -271,6 +278,9 @@ function switchAcademicTab(targetTab) {
     }
 }
 
+
+
+
 // 🔳 MESSAGING TETİKLEYİCİLERİ
 let axesState = true;
 function toggleAxesButton() {
@@ -281,7 +291,20 @@ function toggleAxesButton() {
 
     const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
     if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "EKSEN_DURUMU_DEGISTIR", durum: axesState }, "*");
+        metatronIframe.contentWindow.postMessage({ komut: "EKSEN_DURUMU_DEGISTIR", durum: angleState }, "*");
+    }
+}
+
+let angleState = true;
+function toggleAngleButton() {
+    anglesState = !angleState;
+    const btn = document.getElementById("btnAngle");
+    btn.style.background = angleState ? "#660099" : "#222";
+    btn.style.border = angleState ? "1px solid #fff" : "1px solid #222";
+
+    const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
+    if (metatronIframe && metatronIframe.contentWindow) {
+        metatronIframe.contentWindow.postMessage({ komut: "SET_TOP_VIEW", durum: angleState }, "*");
     }
 }
 
@@ -432,6 +455,23 @@ window.toggleHeartButton = function() {
     console.log(`[DECK DIRECT] Kalp Butonu Tetiklendi. Yeni Sinyal: ${window.heartState}`);
 
     const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
+    if (iframe && iframe.contentWindow) {
+        iframe.contentWindow.postMessage({ 
+            komut: "HEART_TOGGLE", 
+            durum: window.heartState 
+        }, "*");
+    }
+};
+
+
+// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE)
+window.toggleAngle = function() {
+    if (window.angleState === undefined) window.angleState = false;
+    window.angleState = (window.angleState === true) ? false : true;
+    
+    console.log(`[DECK DIRECT] Angle Butonu Tetiklendi. Yeni Sinyal: ${window.angleState}`);
+
+    //const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
     if (iframe && iframe.contentWindow) {
         iframe.contentWindow.postMessage({ 
             komut: "HEART_TOGGLE", 
