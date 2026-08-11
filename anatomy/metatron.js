@@ -125,8 +125,6 @@ window.createFiveFoldCore = function(isCoreVisible) {
 
     window.FiveFoldGrubu.rotation.z = 90 * (Math.PI / 180); 
 
-    
-
     const cemberYaricapi = 0.25; // Altın oran ölçeğinde element halkaları çapı
     const segments = 64;         // Çemberlerin pürüzsüzlük kalitesi
 
@@ -509,7 +507,7 @@ window.spheres.forEach(s => {
         }
         const squareGeom = new THREE.BufferGeometry();
         squareGeom.setAttribute('position', new THREE.Float32BufferAttribute(squareVertices,3));
-        const squareMat = new THREE.LineBasicMaterial({color:0xffff00});
+        const squareMat = new THREE.LineBasicMaterial({color:0x333300});
         
         // 🔑 GLOBAL GRUP KİLİDİ: Yerel KuantumKafesi söküldü, window.KuantumKafesi bağlandı!
         window.KuantumKafesi.add(new THREE.LineSegments(squareGeom, squareMat));
