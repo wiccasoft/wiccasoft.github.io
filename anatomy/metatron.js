@@ -296,23 +296,28 @@ window.startVortexFlux = function() {
     window.akimZamanlayici = setInterval(() => {
         if (!window.akademikKalpAktif) return;
 
+        // 🌟 KESİN ÇÖZÜM: Akademik milivolt durumunu en başta çekiyoruz ki tüm fonksiyon görebilsin!
+        const odaVerisi = window.getMetatronFrequencyState(window.vortexPointer);
+
         let mevcutId = MATTER_SEQUENCE[window.vortexPointer];
         let sonrakiId = MATTER_SEQUENCE[(window.vortexPointer + 1) % MATTER_SEQUENCE.length];
+
+        // 🔑 1. VİDA: Frenlenmiş taban hız katsayısı (Yukarı alınan odaVerisi ile sarsılmaz uyumda)
+        let hizKatsayisi = 0.018; 
+        if (odaVerisi.mv > 0) hizKatsayisi *= 1.618; // Sarı odada ivmelenme çarpanı
+        if (odaVerisi.mv < 0) hizKatsayisi *= 0.618; // Dinlenme odalarında yavaşlama
 
         // Odaların isim eşleşmelerine göre mesh nesnelerini hafızadan direkt çek
         const kaynakMesh = window.KuantumKafesi.children.find(c => c.name && c.name.includes(`ID_${mevcutId}`));
         const hedefMesh = window.KuantumKafesi.children.find(c => c.name && c.name.includes(`ID_${sonrakiId}`));
 
         if (kaynakMesh && hedefMesh) {
-            // Akademik milivolt durumunu fonksiyonumuzdan tek seferlik çekiyoruz
-            const odaVerisi = window.getMetatronFrequencyState(window.vortexPointer);
             
             // ============================================================================
-            // 🔥 ODA ATEŞLEME VE VOLTAJ PARLAMASI (MÜKERRER SATIR TEMİZLENDİ)
+            // 🔥 ODA ATEŞLEME VE VOLTAJ PARLAMASI
             // ============================================================================
             if (kaynakMesh.material) {
                 // 💡 Sarı oda (+20 mV Depolarizasyon) ise 3.5 katı devasa bir patlama yarat!
-                // Dinlenme odalarında (-90 mV) ise daha sakin, loş (1.5) bir parlama ver.
                 kaynakMesh.material.emissiveIntensity = odaVerisi.mv > 0 ? 3.5 : 1.5;
                 
                 // Kürenin rengini karartılmış mat halinden kendi saf enerjisel rengine geri döndür!
@@ -331,13 +336,10 @@ window.startVortexFlux = function() {
             const meshParcacik = new THREE.Mesh(paketGeometri, paketMateryal);
             meshParcacik.position.copy(kaynakMesh.position);
 
-            // Fiziksel parçacığı ana gruba veya sahneye ekle ki ekranda gözüksün!
+            // Fiziksel parçacığı ana gruba ekle ki ekranda gözüksün!
             window.KuantumKafesi.add(meshParcacik);
 
-            // Altın oran hız katsayısı hesabı olay anında 1 kez yapılır
-            let hizKatsayisi = 0.05;
-            if (odaVerisi.mv > 0) hizKatsayisi *= 1.618;
-            if (odaVerisi.mv < 0) hizKatsayisi *= 0.618;
+            // 🔑 MÜKERRER HIZ TANIMI KALDIRILDI: Yukarıda hesaplanan dinamik hizKatsayisi direkt kullanılıyor!
 
             // Parçacığı canlı listeye ekle
             window.paketSayaci++;
@@ -347,12 +349,12 @@ window.startVortexFlux = function() {
                 hedef: hedefMesh.position.clone(),
                 ilerleme: 0,
                 hiz: hizKatsayisi,
-                mesh: meshParcacik // 👈 Güncelleme için bu referansı ekledik!
+                mesh: meshParcacik
             });
         }
         
         window.vortexPointer = (window.vortexPointer + 1) % MATTER_SEQUENCE.length;
-    }, 300); // 300ms zamanlama kilidi
+    }, 480); // 🔑 2. VİDA: 480ms sakin biyolojik ritim kilidi
 };
 
 // 🛑 Akımı ve zamanlayıcıyı tamamen kapatan fonksiyon
