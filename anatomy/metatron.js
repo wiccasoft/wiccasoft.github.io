@@ -38,9 +38,6 @@ const BYR = [7, 4, 1, 5, 8, 2];
 //let aktifIndexA = 0;
 //let aktifIndexB = 0;
 
-
-
-
 // ============================================================================
 // 🧭 INTEGRATED RGB AXES ENGINE (İSKELET İÇİNDE KALAN KİLİTLİ VE GÜVENLİ SÜRÜM)
 // ============================================================================
@@ -438,7 +435,7 @@ window.spheres.forEach(s => {
     window.scene.add(new THREE.AmbientLight(0xffffff));
 
 
- // ============================================================================
+    // ============================================================================
     // 🧬 GEOMETRİK İNŞA VE DOUBLE VORTEX ÇEKİRDEK KODLARINIZ (Akslar, Köşeler, Faces)
     // ============================================================================
     // 💡 AÇIKLAMA: Yerel sızıntıların hepsi global window nesnesine kenetlenmiştir.
@@ -543,29 +540,24 @@ window.spheres.forEach(s => {
         const axisMat = new THREE.LineBasicMaterial({color:color});
         window.scene.add(new THREE.Line(axisGeom, axisMat));
     };
-    
-    
-  //addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
-  //addAxis(0x00ff00, new THREE.Vector3(0,-10,0), new THREE.Vector3(0,10,0));
-  //addAxis(0x0000ff, new THREE.Vector3(0,0,-10), new THREE.Vector3(0,0,10));
 
-
-
-// 🔑 ÇAPRAZ OMURGA MÜHÜRÜ: Yeşil mili tam \(\sqrt{2}\) köşegen aksından geçirir
-// Salvador Mundi portresinin kalbine Da Vinci’nin gizlediği o en meşhur, 
-// o en kadim "Kutsal Merkez Piramitleri" (The Inner Core Pyramids) ve
-//  Merkezden Köşelere Genleşen Işın Vektörleri geometrisidir.
     //const whitePos = new THREE.Vector3(-0.25,  0.25, -0.25); 
     //const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
+    //window.addAxis(0x00ff00, blackPos, whitePos);
 
+   //addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
+   //addAxis(0x00ff00, new THREE.Vector3(0,-10,0), new THREE.Vector3(0,10,0));
+   //addAxis(0x0000ff, new THREE.Vector3(0,0,-10), new THREE.Vector3(0,0,10));
+
+   // 🔑 ÇAPRAZ OMURGA MÜHÜRÜ: Yeşil mili tam \(\sqrt{2}\) köşegen aksından geçirir
+   // Salvador Mundi portresinin kalbine Da Vinci’nin gizlediği o en meşhur, 
+   // o en kadim "Kutsal Merkez Piramitleri" (The Inner Core Pyramids) ve
+   // Merkezden Köşelere Genleşen Işın Vektörleri geometrisidir.
+   
     // burası kübün tam 0,0,0 mutlak sıfır noktasından (Tekillikten) doğup, 
     // 8 ana köşeye (corners) doğru bir patlama (Big Bang) şeklinde genleşen
     // o ilk iç içe geçmiş göksel ve yersel piramit şasisidir.
     
-    // 🔑 GLOBAL FONKSİYON ÇAĞRISI: addAxis artık window düzeyinden çağrılıyor!
-    //window.addAxis(0x00ff00, blackPos, whitePos);
-
-    // Merkezden köşelere çizgiler (beyaz)
     const center = new THREE.Vector3(0,0,0);
     const pyramidVertices = [];
     corners.forEach(c=>{
@@ -580,7 +572,6 @@ window.spheres.forEach(s => {
     // 🔑 GLOBAL GRUP KİLİDİ: Merkez piramit hatları doğrudan küresel kafese mühürlendi!
     window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat));        // fire in the middle
     // ============================================================================
-
 
     // ============================================================================
     // AKSA HİZALI KUTSAL MERKABA KÖŞELERİ (Lokal kalabilir, dışarıdan çağrılmıyor)
@@ -624,16 +615,7 @@ window.spheres.forEach(s => {
 const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
-        
-
-    // 🔑 SON NİHAİ MÜHÜRLEME SATIRLARI (Ateşleme Anı!):
-    // 📯 OMURGA_SELALESI Adreslemesini ve nesnesini pencere düzeyine çıkartıp ana gruba kenetliyoruz!
-    //window.omurgaSelalesi = new THREE.Points(window.particleGeo, particleMat);
-    //window.omurgaSelalesi.name = "OMURGA_SELALESI"; 
-    //window.KuantumKafesi.add(window.omurgaSelalesi);
-
-} // 👈 BÜYÜK AMİRAL GEMİSİ 'window.initMetatronEngine' İŞTE TAM BURADA GÜVENLE KAPANDI AGA!
-
+} // 👈 BÜYÜK AMİRAL GEMİSİ 'window.initMetatronEngine' 
 
 
 // ============================================================================
@@ -729,7 +711,6 @@ window.addEventListener('resize', () => {
 
 
 
-
 // ============================================================================
 // 📢 HARİCİ BUTON ŞALTER DİNLEYİCİSİ (AŞAĞIDAKİ GEOMETRİYİ ASLA ETKİLEMEZ)
 // ============================================================================
@@ -743,7 +724,6 @@ window.addEventListener("message", (event) => {
         }
     }
 });
-
 
 
 // ============================================================================
@@ -779,8 +759,6 @@ window.addEventListener("message", (event) => {
         console.log(`[DECK PROTOCOL] Kuantum Kalp Durumu Değiştirildi: ${window.akademikKalpAktif}`);
     }
 });
-
-
 
 
 // ============================================================================
