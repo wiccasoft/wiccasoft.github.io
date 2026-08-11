@@ -5,15 +5,14 @@
   <title>Salvator Mundi + AC-DC Kuantum Motoru Entegrasyonu</title>
   <style>
     /* 🔑 KOZMİK ALTLIK */
-    html, body {
-        margin: 20;
-        padding: 20;
-        width: 80%;
-        height: 80%;
-        background: #000000 !important;
-        overflow: hidden !important; 
-    }
-
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background: #000000 !important;
+    overflow: hidden !important;
+}
 
 
     /* main.html içindeki arayüz overlay kapsayıcısı */
@@ -89,18 +88,17 @@ button, input, .panel-kartlari {
 }
 
     /* 🔑 AC-DC MOTOR ENJEKTÖRÜ: anatomy.html dosyasını çağırır */
-    iframe {
-        position: absolute;
-        top: 30;
-        left: 50;
-        width: 100%;
-        height: 100%;
-        border: none;
-        z-index: 50;            /* Tablonun önünde, panellerin arkasında kalır */
-        background: transparent !important;
-        mix-blend-mode: screen; /* Siyah arka planı eritip sadece neonları parlatır */
-        pointer-events: none; 
-    }
+iframe {
+    position: absolute;
+    top: 10%; left: 10%; /* Ekranı %10 içeriden başlatır */
+    width: 80% !important;  /* Genişliği %80 yapar */
+    height: 80% !important; /* Yüksekliği %80 yapar */
+    border: none;
+    z-index: 50;
+    background: transparent !important;
+    mix-blend-mode: screen;
+    pointer-events: none;
+}
 
 
     .cyber-btn {
@@ -258,8 +256,7 @@ button, input, .panel-kartlari {
 <!-- ============================================================================ -->
 <!-- 🎛️ ALT PANEL CONTROL DECK (İŞLEVSEL KARE İKON RIHTIMI SÜRÜMÜ) -->
 <!-- ============================================================================ -->
-<div id="luiniControlDock" style="display: flex !important; position: fixed !important; bottom: 0px !important; left: 0px !important; width: 100% !important; height: 45px !important; background: linear-gradient(to top, rgba(10, 5, 20, 0.98), rgba(15, 5, 25, 0.9)) !important; border-top: 1px solid rgba(255, 0, 255, 0.3) !important; padding: 5px 15px !important; z-index: 999999 !important; align-items: center !important; justify-content: space-between !important; box-shadow: 0px -5px 25px rgba(0,0,0,0.9) !important; transition: all 0.3s cubic-bezier(0.1, 0.8, 0.3, 1) !important; opacity: 1 !important; visibility: visible !important;">
-    
+<div id="luiniControlDock" style="display: flex !important; position: fixed !important; bottom: 0px !important; left: 0px !important; right: 0px !important; width: 100% !important; height: 45px !important; box-sizing: border-box !important; background: linear-gradient(to top, rgba(10, 5, 20, 0.98), rgba(15, 5, 25, 0.9)) !important; border-top: 1px solid rgba(255, 0, 255, 0.3) !important; padding: 5px 15px !important; z-index: 999999 !important; align-items: center !important; justify-content: space-between !important; box-shadow: 0px -5px 25px rgba(0,0,0,0.9) !important; transition: all 0.3s cubic-bezier(0.1, 0.8, 0.3, 1) !important; opacity: 1 !important; visibility: visible !important;"
     <!-- 📐 SOL AKS (İşlevsel Kare Butonlar) -->
     <div style="display: flex; gap: 8px; flex: 1; justify-content: flex-start;">
         <!-- Buton 1: İskelet Şalteri (Görünürlük Toggle Bağlandı) -->
