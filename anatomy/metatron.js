@@ -885,23 +885,28 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
 // ============================================================================
-// SİMÜLASYON ÜST BAKIŞ (TOP VIEW) KADRAJ KİLİTLEME MOTORU
+// SİMÜLASYON ÜST BAKIŞ (TOP VIEW) KADRAJ KİLİTLEME MOTORU (KESİN ÇÖZÜM)
 // ============================================================================
-// 🔑 DIŞ ERİŞİM KİLİDİ: Fonksiyon window katmanına bağlanarak dış ana HUD panelindeki 
-// butondan tek bir tıkla uzaktan kamerayı 90 derece dikey eksene çiviler!
-
 window.setTopView = function() {
     if (!window.camera) return;
 
-    // Kamerayı tam üst dikey aksa (Kuzey Işığı Hattına) sabitle
-    window.camera.position.set(0, 10, 0); 
+    // 🔑 KESİN ÇÖZÜM: Kamerayı tam tepeden (Y ekseninden) aşağıya (0,0,0 merkezine) baktırıyoruz!
+    // Üstteki Orthographic matrisin kilitlenmemesi için pozisyonu tam tepeye dikiyoruz.
+    window.camera.position.set(0, 15, 0); 
+    
+    // Kameranın üst yön (up) vektörünü Z eksenine eşitlemeliyiz ki tepe bakışında kamera baş aşağı dönmesin!
+    window.camera.up.set(0, 0, -1);
+    
+    // Tam merkezdeki 5-Fold ve plazma şelalesinin kalbine baksın
     window.camera.lookAt(0, 0, 0);
 
-    // OrbitControls kolları yukarıda global yapıldığı için doğrudan güncelleniyor
+    // OrbitControls kollarının hedefini tam merkeze çivile ve güncelleyerek fare hareketini buraya kilitle!
     if (window.controls) {
         window.controls.target.set(0, 0, 0);
         window.controls.update();
     }
+    
+    console.log("[CORE OPTICS] Kamera Tam Üst Bakış (Kuzey Işığı Hattı) Nizamına Çivilendi. 👁️");
 };
 
 // ============================================================================
@@ -937,43 +942,6 @@ window.animate = function() {
 
 
 
-// Pembe buton (HEART_TOGGLE) dinleyicisi
-window.addEventListener("message", (event) => {
-    if (!event.data || !event.data.komut) return;
-
-    if (event.data.komut === "HEART_TOGGLE") {
-        window.akademikKalpAktif = event.data.durum;
-        // Akımı başlat veya durdur
-        event.data.durum ? window.startVortexFlux() : window.stopVortexFlux();
-    }
-});
-
-
-
-
-function toggleSkeletonButton() {
-    if (window.skeletonState === undefined) window.skeletonState = true;
-    window.skeletonState = !window.skeletonState;
-    
-    console.log(`[DECK] Iskelet Butonu Tetiklendi. Yeni Sinyal: ${window.skeletonState}`);
-    
-    // 🔑 KESİN ÇÖZÜM: Başına window. ekleyerek parantez hapishanelerini tamamen delip geçiyoruz!
-    // Böylece fonksiyon içeride hapsolmuş olsa bile tarayıcı global adresten bu vericiyi çalıştırır.
-    if (typeof window.firlatSinyal === 'function') {
-        window.firlatSinyal({ komut: "SKELETON_TOGGLE", durum: window.skeletonState });
-    } else if (typeof firlatSinyal === 'function') {
-        firlatSinyal({ komut: "SKELETON_TOGGLE", durum: window.skeletonState });
-    } else {
-        // 📡 Alternatif Kalkan: Eğer fonksiyon bir yerlere hapsolduysa, iframe'i doğrudan buradan uyar
-        const metatronIframe = document.getElementById("metatronIframeId") || document.querySelector("iframe");
-        if (metatronIframe && metatronIframe.contentWindow) {
-            metatronIframe.contentWindow.postMessage({ komut: "SKELETON_TOGGLE", durum: window.skeletonState }, "*");
-            console.log("[DECK BACKUP] İskelet emri doğrudan iframe'e fırlatıldı.");
-        }
-    }
-}
-
-
 
 
 // ============================================================================
@@ -994,19 +962,6 @@ window.addEventListener('resize', () => {
 
 
 
-// ============================================================================
-// 📢 HARİCİ BUTON ŞALTER DİNLEYİCİSİ (AŞAĞIDAKİ GEOMETRİYİ ASLA ETKİLEMEZ)
-// ============================================================================
-window.addEventListener("message", (event) => {
-    if (event.data && event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
-        let butonGelenDurum = event.data.durum; // true veya false sinyali gelir
-        
-        if (window.createMetatronAxes) {
-            // init motoruna dokunmadan sadece harici fonksiyonu tetikler
-            window.createMetatronAxes(butonGelenDurum); 
-        }
-    }
-});
 
 
 // ============================================================================
@@ -1017,6 +972,17 @@ window.addEventListener("message", (event) => {
 // ============================================================================
 window.addEventListener("message", (event) => {
     if (!event.data) return;
+
+    
+    // ============================================================================
+    // 📢 MASTER RECEIVER BRIDGE - EMİR 4: KUZEY IŞIĞI TEPEDEN BAKIŞ AKTİFLEYİCİ
+    // ============================================================================
+    if (event.data.komut === "SET_TOP_VIEW") {
+        if (typeof window.setTopView === "function") {
+            window.setTopView();
+            console.log("[OPTICAL BRIDGE] Kamera Kuzey Işığı Kutup Aksına Sabitlendi: TOP_VIEW 👁️");
+        }
+    }
 
     // 🔴 1. Eksen Milleri Aç/Kapat Tetiği (Senin init içinde bilerek uyanık açtığın miller)
     if (event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
@@ -1038,48 +1004,11 @@ window.addEventListener("message", (event) => {
         }
     }
 
-
-      // ============================================================================
-    // 📢 MASTER RECEIVER BRIDGE - EMİR 4: KUZEY IŞIĞI TEPEDEN BAKIŞ AKTİFLEYİCİ
-    // ============================================================================
-    if (event.data.komut === "SET_TOP_VIEW") {
-        if (typeof window.setTopView === "function") {
-            window.setTopView();
-            console.log("[OPTICAL BRIDGE] Kamera Kuzey Işığı Kutup Aksına Sabitlendi: TOP_VIEW 👁️");
-        }
-    }
-
-    // 🛑 3. Kuantum Kalp Atış Şalteri
      // 🛑 EMİR: Kuantum Kalp Atış Şalteri (Double Vortex Başlatıcı)
     if (event.data.komut === "HEART_TOGGLE") {
-        let gelenDurum = event.data.durum; // Pembe butondan gelen net true/false sinyali
-        
-        window.akademikKalpAktif = gelenDurum;
-        
-        // Akım ve Aydınlanma aşamalarını senkronize et
-        window.metatronAydinlanmaAsamasi = gelenDurum ? 3 : 1;
-
-        if (gelenDurum) {
-            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Ateşlendi: ACTIVE_FLUX ⚡");
-            // Akım ilk başladığında odaların sırasını sıfırdan pürüzsüz başlat
-            window.mevcutOdaSirasi = 0; 
-            window.sonUretimZamani = performance.now();
-        } else {
-            console.log("[CORE BRIDGE] Kuantum Kalp Motoru Kapatıldı: STATIC_SKELETON 🛑");
-            
-            // 🛡️ BELLEK SIZINTI KALKANI: Akım kapatıldıysa havadaki tüm uçan gluon paketlerini anında imha et
-            if (window.aktifPaketler && window.aktifPaketler.length > 0) {
-                window.aktifPaketler = [];
-            }
-
-            // Tüm odaların parlamasını anında kes ve sönük baz durumuna eşitle
-            window.spheres.forEach(s => {
-                const nodeMesh = window.KuantumKafesi.getObjectByName(s.name);
-                if (nodeMesh && nodeMesh.material) {
-                    nodeMesh.material.emissiveIntensity = 0.5; // Başlangıçtaki mat, sakin seviye
-                }
-            });
-        }
+        window.akademikKalpAktif = event.data.durum;
+        // Akımı başlat veya durdur
+        event.data.durum ? window.startVortexFlux() : window.stopVortexFlux();
     }
 });
 
