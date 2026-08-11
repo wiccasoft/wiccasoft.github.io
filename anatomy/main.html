@@ -256,16 +256,18 @@ button, input, .panel-kartlari {
 
 
 <!-- ============================================================================ -->
-<!-- 🎛️ ALT PANEL CONTROL DECK (AÇILIŞTA ASLA KAYBOLMAYAN KARE İKON RIHTIMI) -->
+<!-- 🎛️ ALT PANEL CONTROL DECK (İŞLEVSEL KARE İKON RIHTIMI SÜRÜMÜ) -->
 <!-- ============================================================================ -->
-<!-- Bu rıhtım `display: flex !important` ve `bottom: 0px !important` ile doğduğu için CSS engellerine takılamaz! -->
 <div id="luiniControlDock" style="display: flex !important; position: fixed !important; bottom: 0px !important; left: 0px !important; width: 100% !important; height: 45px !important; background: linear-gradient(to top, rgba(10, 5, 20, 0.98), rgba(15, 5, 25, 0.9)) !important; border-top: 1px solid rgba(255, 0, 255, 0.3) !important; padding: 5px 15px !important; z-index: 999999 !important; align-items: center !important; justify-content: space-between !important; box-shadow: 0px -5px 25px rgba(0,0,0,0.9) !important; transition: all 0.3s cubic-bezier(0.1, 0.8, 0.3, 1) !important; opacity: 1 !important; visibility: visible !important;">
     
-    <!-- 📐 SOL AKS (Telefon İkonu Tarzı Kare Butonlar) -->
+    <!-- 📐 SOL AKS (İşlevsel Kare Butonlar) -->
     <div style="display: flex; gap: 8px; flex: 1; justify-content: flex-start;">
-        <button title="Skeleton Mode" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">☠️</button>
-        <button title="Vortex Flux" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🌀</button>
-        <button title="Calibration Metric" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">📐</button>
+        <!-- Buton 1: İskelet Şalteri (Görünürlük Toggle Bağlandı) -->
+        <button onclick="window.toggleSkeletonButton()" title="Skeleton Mode" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">☠️</button>
+        <!-- Buton 2: Vortex Flux (Aynalama Filtresi Bağlandı) -->
+        <button onclick="window.toggleMirrorButton()" title="Vortex Flux" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🌀</button>
+        <!-- Buton 3: Calibration Metric (Eksen Milleri Toggle Bağlandı) -->
+        <button onclick="window.toggleAxesButton()" title="Calibration Metric" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">📐</button>
     </div>
 
     <!-- 🔮 MERKEZ AMİRAL GEMİSİ (Oracle Tetikleyici Şalter) -->
@@ -275,10 +277,12 @@ button, input, .panel-kartlari {
         </button>
     </div>
 
-    <!-- ⚡ SAĞ AKS (Telefon İkonu Tarzı Kare Butonlar) -->
+    <!-- ⚡ SAĞ AKS (İşlevsel Kare Butonlar) -->
     <div style="display: flex; gap: 8px; flex: 1; justify-content: flex-end;">
-        <button title="ECG Monitor" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🫀</button>
-        <button title="Frequency Spectrum" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🔊</button>
+        <!-- Buton 4: ECG Monitor (Kuantum Kalp Atış Şalteri Tam Entegre Edildi) -->
+        <button onclick="window.toggleHeartButton()" title="ECG Monitor" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🫀</button>
+        <!-- Buton 5: Frequency Spectrum (Açı/Perspektif Görünüm Şalteri Bağlandı) -->
+        <button onclick="window.toggleAngleButton()" title="Frequency Spectrum" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🔊</button>
         <button title="Doppler Shift" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">📡</button>
     </div>
 </div>
@@ -286,8 +290,8 @@ button, input, .panel-kartlari {
 <!-- ============================================================================ -->
 <!-- 🔮 POPUP ORACLE COGNITIVE PANEL (MUTLAK FIXED SLIDE ŞASİSİ) -->
 <!-- ============================================================================ -->
+<!-- 🔮 POPUP ORACLE COGNITIVE PANEL (DOĞRU GÖRSEL LİNKLİ SÜRÜM) -->
 <div id="luiniOraclePanel" style="position: fixed !important; bottom: -600px; left: 50%; transform: translateX(-50%); width: 550px; height: 420px; background-image: linear-gradient(to bottom, rgba(10, 5, 20, 0.95), rgba(15, 5, 25, 0.98)), url('https://github.io'); background-size: cover; background-position: center; border: 2px solid #ff00ff; border-radius: 12px; padding: 20px; box-shadow: 0 0 40px rgba(255,0,255,0.4); transition: bottom 0.5s cubic-bezier(0.1, 0.8, 0.3, 1); z-index: 1000000 !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #fff; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden;">
-    
     <!-- HEADER AREA -->
     <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255, 0, 255, 0.4); padding-bottom: 10px;">
         <div style="display: flex; flex-direction: column;">
