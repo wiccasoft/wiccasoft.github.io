@@ -129,32 +129,49 @@ window.createFiveFoldCore = function(isCoreVisible) {
     const cemberYaricapi = 0.25; // Altın oran ölçeğinde element halkaları çapı
     const segments = 64;         // Çemberlerin pürüzsüzlük kalitesi
 
-    // 🌀 4 ELEMENT ÇEMBERLERİNİN KOORDİNAT MATRİSİ (Ateş, Su, Hava, Toprak)
-    const elementMerkezleri = [
-        { x: 0,  y:  cemberYaricapi, z: 0, renk: 0xff0000, name: "CEMBER_FIRE" },  // 🔴 ÜST: Ateş
-        { x: 0,  y: -cemberYaricapi, z: 0, renk: 0x0000ff, name: "CEMBER_WATER" }, // 🔵 ALT: Su
-        { x: -cemberYaricapi, y: 0,  z: 0, renk: 0xffffff, name: "CEMBER_AIR" },   // ⚪ SOL: Hava
-        { x:  cemberYaricapi, y: 0,  z: 0, renk: 0x964b00, name: "CEMBER_EARTH" }  // 🟤 SAĞ: Toprak
+    // 🌀 4 ANA ÇEMBERİN DOĞRU ÇAPRAZ KOORDİNAT MATRİSİ (45'er Derecelik Aks Kayması)
+    // Şemadaki Beltane, Lughnasadh, Samhain ve Imbolc merkezleri
+    const d = cemberYaricapi * 0.707; // Math.cos(45) veya Math.sin(45) çarpanı
+
+    const dogruMerkezler = [
+        { x:  d, y:  d, z: 0, name: "CEMBER_BELTANE" },     // ↗ (Beltane Açısı)
+        { x:  d, y: -d, z: 0, name: "CEMBER_LUGHNASADH" },  // ↘ (Lughnasadh Açısı)
+        { x: -d, y: -d, z: 0, name: "CEMBER_SAMHAIN" },    // ↙ (Samhain Açısı)
+        { x: -d, y:  d, z: 0, name: "CEMBER_IMBOLC" }       // ↖ (Imbolc Açısı)
     ];
 
-    elementMerkezleri.forEach(el => {
+    // 🔑 KRİTİK DÜZELTME: Artık 'dogruMerkezler' dizisini dönüyoruz!
+    dogruMerkezler.forEach(el => {
         const geom = new THREE.RingGeometry(cemberYaricapi - 0.005, cemberYaricapi + 0.005, segments);
         const mat = new THREE.MeshBasicMaterial({ color: 0xffffff, side: THREE.DoubleSide, transparent: true, opacity: 0.4 });
         const cemberMesh = new THREE.Mesh(geom, mat);
         cemberMesh.position.set(el.x, el.y, el.z);
         cemberMesh.name = el.name;
         window.FiveFoldGrubu.add(cemberMesh);
+    });
 
-        // 🔴 Kırmızı Düğüm Noktaları (Şemadaki o 4 kritik kesişim bilyesi)
-        const nodGeom = new THREE.SphereGeometry(0.012, 16, 16);
-        const nodMat = new THREE.MeshBasicMaterial({ color: 0xff0000 }); // Saf Kırmızı Düğüm
+    // 🔴 4 KRİTİK KESİŞİM BİLYESİ (Şemadaki Litha, Yule, Ostara, Mabon noktaları)
+    // Çemberler çaprazlara kayınca, birbirlerini tam olarak ana dikey ve yatay haç eksenlerinde keserler.
+    const nodGeom = new THREE.SphereGeometry(0.012, 16, 16);
+    const nodMat = new THREE.MeshBasicMaterial({ color: 0xff0000 }); // Saf Kırmızı Düğüm
+
+    // Şemadaki tam kesişim noktalarının geometrik konumları:
+    const semaDugumleri = [
+        { x: 0,  y:  cemberYaricapi, z: 0, name: "NODE_LITHA" },   // ⬆ Gündönümü (Üst)
+        { x: 0,  y: -cemberYaricapi, z: 0, name: "NODE_YULE" },    // ⬇ Gündönümü (Alt)
+        { x: -cemberYaricapi, y: 0,  z: 0, name: "NODE_OSTARA" },  // ⬅ Ekinoks (Sol)
+        { x:  cemberYaricapi, y: 0,  z: 0, name: "NODE_MABON" }   // ➡ Ekinoks (Sağ)
+    ];
+
+    semaDugumleri.forEach(nod => {
         const nodMesh = new THREE.Mesh(nodGeom, nodMat);
-        // Kırmızı noktaları şemadaki gibi tam dış mavi çemberin (kesişim hatlarının) üstüne çiviliyoruz
-        nodMesh.position.set(el.x * 2, el.y * 2, el.z * 2);
+        nodMesh.position.set(nod.x, nod.y, nod.z);
+        nodMesh.name = nod.name;
         window.FiveFoldGrubu.add(nodMesh);
     });
 
     // 🔵 MAVİ ESİR ÇEMBERİ (Ether / Merkez Manyetik Kalkan Hattı)
+    // Şemadaki tüm yapıyı dıştan kuşatan pürüzsüz sınır halkası
     const maviGeom = new THREE.RingGeometry(cemberYaricapi * 1.414 - 0.006, cemberYaricapi * 1.414 + 0.006, segments);
     const maviMat = new THREE.MeshBasicMaterial({ color: 0x0077ff, side: THREE.DoubleSide });
     const maviCember = new THREE.Mesh(maviGeom, maviMat);
@@ -172,7 +189,7 @@ window.createFiveFoldCore = function(isCoreVisible) {
     if (window.KuantumKafesi) {
         window.KuantumKafesi.add(window.FiveFoldGrubu);
     }
-    console.log(`[FIVE-FOLD PROTOCOL] 5-Fold Element Çekirdeği İskelete Giydirildi.`);
+    console.log(`[FIVE-FOLD PROTOCOL] 5-Fold Çapraz Yıl Çarkı Düzeni İskelete Giydirildi.`);
 };
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
