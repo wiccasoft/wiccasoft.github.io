@@ -41,7 +41,7 @@ const BYR = [7, 4, 1, 5, 8, 2];
 // ============================================================================
 // 🧭 INTEGRATED RGB AXES ENGINE (İSKELET İÇİNDE KALAN KİLİTLİ VE GÜVENLİ SÜRÜM)
 // ============================================================================
-window.createMetatronAxes = function(isAxisVisible) {
+window.createAxes = function(isAxisVisible) {
     // 🛠️ Eğer sahnede veya grupta eski eksenler kalmışsa pürüzsüzce imha et
     ["currentAxisX", "currentAxisY", "currentAxisZ"].forEach(axisName => {
         if (window[axisName]) {
@@ -375,7 +375,7 @@ window.initMetatronEngine = function() {
     // ============================================================================
     // İlk açılışta kapalı gelmesi için parametreyi 'false' olarak fırlatıyoruz!
     // İleride 4 element aynalama modunda bu fonksiyonu 'true' ile özgürce çağırabiliriz.
-    window.createMetatronAxes(true); 
+    window.createAxes(true); 
 
     window.createFiveFoldCore(true)
 
