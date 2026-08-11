@@ -198,12 +198,8 @@ window.createFiveFoldCore = function(isCoreVisible) {
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
 // ============================================================================
-// 💡 AÇIKLAMA: Yorucu ivmelenme matematiği tamamen silinmiştir.
 // Hız = (Odanın Öz Frekansı * Taban Katsayı) * Altın Oran Şalteri (1.618 / 0.618)
 
-// 🧬 1. ÇİFT GLUON VE ALTIN ORAN HIZ ENVELOP SINIFI
-// ============================================================================
-// DOĞRULANMIŞ ALTIN ORAN İVME VE BULUŞMA SONRASI FRENLEME MOTORU (KİLİTLENMEZ)
 // ============================================================================
 // 🧬 GLUONSUZ KUANTUM PAKETİ: Bellekte Three.js mesh'i yaratmaz, sadece mantıksal veri taşır.
 window.KuantumPaketi = class KuantumPaketi {
@@ -389,7 +385,7 @@ window.initMetatronEngine = function() {
 
 window.spheres.forEach(s => {
     const sphere = new THREE.Mesh(
-        new THREE.SphereGeometry(0.22, 32, 32),
+        new THREE.SphereGeometry(0.16, 32, 32),
         new THREE.MeshPhongMaterial({
             color: s.color, emissive: s.color, emissiveIntensity: 0.5,
             transparent: true, opacity: 0.85
