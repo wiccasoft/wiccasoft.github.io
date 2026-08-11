@@ -463,19 +463,24 @@ window.toggleHeartButton = function() {
     }
 };
 
+// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE - KÖPRÜ DÜZELTİLDİ)
+window.toggleAngleButton = function() {
 
-// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE)
-window.toggleAngle = function() {
     if (window.angleState === undefined) window.angleState = false;
     window.angleState = (window.angleState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Angle Butonu Tetiklendi. Yeni Sinyal: ${window.angleState}`);
 
-    //const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
+    // Projendeki iframe ID'lerine göre tam korumalı yakalama hattı
+    const iframe = document.getElementById("anatomy-viewport") || 
+                   document.getElementById("metatronIframeId") || 
+                   document.querySelector("iframe");
+                   
     if (iframe && iframe.contentWindow) {
+        // 🔑 KESİN ÇÖZÜM: Doğru komutu (SET_TOP_VIEW) ve doğru şalter durumunu (angleState) fırlatıyoruz!
         iframe.contentWindow.postMessage({ 
-            komut: "HEART_TOGGLE", 
-            durum: window.heartState 
+            komut: "SET_TOP_VIEW", 
+            durum: window.angleState 
         }, "*");
     }
 };
