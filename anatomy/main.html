@@ -562,6 +562,54 @@ window.toggleAngleButton = function() {
     }
 };
 
+
+window.luiniPanelAcikMi = false;
+
+window.toggleLuiniOracle = function() {
+    const panel = document.getElementById("luiniOraclePanel");
+    const dock = document.getElementById("luiniControlDock");
+    const buton = document.getElementById("luiniTabButon");
+    if (!panel) return;
+
+    if (!window.luiniPanelAcikMi) {
+        // 🚀 SLIDE AÇILIŞ: Üst mor panel ekrana %90 genişlikle jilet gibi yayılır
+        panel.style.position = "fixed";
+        panel.style.bottom = "0px";
+        panel.style.left = "50%";
+        panel.style.transform = "translateX(-50%)";
+        panel.style.width = "90vw";      // Ekran genişliğinin %90'ı
+        panel.style.maxWidth = "540px";  // Büyük ekranda taşma sınırı
+        panel.style.height = "65vh";     // Ekran yüksekliğinin %65'i (Asla dikeyde taşmaz)
+        window.luiniPanelAcikMi = true;
+        
+        // Alt rıhtım aşağı kaçar
+        if (dock) {
+            dock.style.bottom = "-100px";
+            dock.style.opacity = "0";
+            dock.style.pointerEvents = "none"; 
+        }
+        if (buton) buton.innerHTML = "▼ CLOSE";
+        console.log("[ORACLE DECK] Panel açıldı, responsive nizam sağlandı.");
+    } else {
+        // 📉 SLIDE KAPANIŞ: Panel yerin dibine gizlenir
+        panel.style.bottom = "-100vh"; // Ekran yüksekliği kadar aşağı gömülür
+        window.luiniPanelAcikMi = false;
+        
+        // 🎛️ ALT RIHTIM GERİ GELİŞ: Ekrana milimetrik oturtma kilidi!
+        if (dock) {
+            dock.style.bottom = "0px";
+            dock.style.left = "0px";
+            dock.style.right = "0px";
+            dock.style.width = "100%"; // 🔑 İŞTE ARADIĞIN KİLİT! Barı yatayda tam %100 genişliğe zorlar.
+            dock.style.boxSizing = "border-box"; // Sağdan soldan taşmayı engeller.
+            dock.style.opacity = "1";
+            dock.style.pointerEvents = "auto";
+            dock.style.zIndex = "1000002";
+        }
+        if (buton) buton.innerHTML = "▲ ASK ORACLE";
+    }
+};
+
 // 🪞 BUTON 4: 4 ELEMENT AYNALAMA FİLTRESİ
 window.toggleMirrorButton = function() {
     alert("4 Element Aynalama Modu Aktif! Kılavuz RGB Milleri Referans Alınıyor.");
