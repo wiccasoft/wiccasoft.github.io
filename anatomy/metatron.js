@@ -243,20 +243,34 @@ window.spheres = [
     ];
 
 // 🩻 Akademik Gösterge ve Renk Spektrumu Sözlüğü (Yeni Enerji Akış Sırasına Göre Senkronize)
+// 🌈 SPEKTRAL REZONANS SÖZLÜĞÜ (Termodinamik ve Solfeggio Tam Senkronizasyon)
 window.RENK_TAYFI_SPEKTRUMU = [
-    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" }, // Denge / Topraklama
-    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" }, // İçe Çekilme / Dinlenme
-    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" }, // Depolarizasyon / Genleşme
-    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }, // Hiperpolarizasyon
-    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" },
-    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" }
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", frekans: "174 Hz" }, // 🔥 Başlangıç / Isınma / Dinlenme tetiği
+    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", frekans: "285 Hz" }, // 🔥 İvmelenme / Voltaj tırmanışı
+    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    frekans: "396 Hz" }, // 🔥 Depolarizasyon / Genleşme (Tepe Isı Girişi)
+    // 🪐 [963 Hz - MERKEZ ÇEKİRDEK RESMİ ODA DEĞİLDİR, GEÇİŞ GİRDABIDIR!]
+    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   frekans: "528 Hz" }, // 💧 Denge / Topraklama / Kalp (Orta Frekans)
+    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    frekans: "741 Hz" }, // 💧 Soğuma / Koruma / Akış yavaşlaması
+    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     frekans: "852 Hz" }  // 💧 Deep State / Hiperpolarizasyon / Büzüşme
 ];
 
 
+// 🌈 SPEKTRAL REZONANS SÖZLÜĞÜ (Altın Oran Sistol/Diyastol Fraktal Döngüsü)
+// Enerji sol aks boyunca katlanır (Maksimum Tepe: Sarı), sağ aks boyunca bölünerek söner!
+window.RENK_TAYFI_SPEKTRUMU = [
+    // 🔥 YÜKSELEN AKS (Isınma / Genleşme / Sistol): Çarpılarak Katlanır (* 1.618)
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", mv: -90, renk: "Kırmızı", fKatsayi: 1.0 },     // 🧊 Taban (Phi^0)
+    { id: 2, name: "TURUNCU_EMICI_ODA",    mv: -70, renk: "Turuncu", fKatsayi: 1.618 },   // 🚀 İvme Başlangıcı (Phi^1)
+    { id: 4, name: "SARI_ITICI_ODA",       mv:  20, renk: "Sarı",    fKatsayi: 2.618 },   // ⚡ ZİRVE ISI / TEPE ENERJİ (Phi^2)
+    // 💧 SÖNÜMLENEN AKS (Soğuma / Büzüşme / Diyastol): Bölünerek Azalır (/ 1.618 veya * 0.618)
+    { id: 8, name: "YESIL_ENERJI_ODASI",   mv:   0, renk: "Yeşil",   fKatsayi: 1.618 },   // 🟢 Denge / Kalp Topraklaması (2.618 / 1.618)
+    { id: 7, name: "MAVI_KALKAN_ODASI",    mv: -60, renk: "Mavi",    fKatsayi: 1.0 },     // 💧 Soğuma Koridoru (1.618 / 1.618)
+    { id: 5, name: "MOR_KABUK_ODASI",      mv: -90, renk: "Mor",     fKatsayi: 0.618 }    // 🧊 Deep State / Mutlak Sakinlik (1.0 / 1.618)
+];
 
 // 🎛 3. ŞALTERLER KİLİTLENİYOR
 window.sonUretimZamani = 0;
-window.mevcutOdaSirasi = 0;
+window.mevcutOdaSirasi = 1;
 window.frameSayaci = 0; 
 
 /**
@@ -473,7 +487,7 @@ if (p.mesh) {
 // ============================================================================
 if (p.mesh && p.mesh.material) {
     
-    // Parçacık en kısa yolu seçip hızlandığı için, yüksek enerji renk sınırını (0.02'den 0.035'e) yukarı çekiyoruz!
+    // Parçacık en kısa yolu seçip hızlandığı için, yüksek enerji renk sınırını yukarı çekiyoruz!
     if (p.hiz > 0.035) {
         // 🔮 KUVANTUM MORU / ULTRA FREKANS: Sadece en çılgın hız patlamalarında mor/turkuaz yansısın
         p.mesh.material.color.setHex(0x660099); 
@@ -484,8 +498,13 @@ if (p.mesh && p.mesh.material) {
         // 🚨 KOZMİK REDSHIFT / KIZILÖTESİ: Yavaşlayıp Kırmızı dinlenmeye girerken kor kırmızısı
         p.mesh.material.color.setHex(0xff1100); 
     } else {
-        // 💧 ZÜMRÜT YEŞİLİ / DENGE FAZI: Çarkın sağındaki pürüzsüz su topraklaması
-        p.mesh.material.color.setHex(0x00ff00); 
+        // 🧬 DENGE FAZI KİLİDİ: p.id yerine doğrudan hedef odanın kimliğine göre cinsiyet tayini!
+        // Eğer gluon Eril koridora (Kırmızı, Sarı, Turuncu) akıyorsa Turkuaz, diğer durumlarda Pembe!
+        if (p.hedefId === 1 || p.hedefId === 4 || p.hedefId === 2) {
+            p.mesh.material.color.setHex(0x00f5ff); // 🪐 ERİL: Kuantum Turkuaz koridoru
+        } else {
+            p.mesh.material.color.setHex(0xff00bb); // 🪐 DİŞİL: Kozmik Pembe koridoru
+        }
     }
 }
 
