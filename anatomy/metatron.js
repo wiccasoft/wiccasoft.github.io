@@ -438,49 +438,34 @@ for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
 // ============================================================================
 // 🌀 ŞEMAYA UYGUN ASİMETRİK TORUS AKIŞ MOTORU (Görseldeki sarmal yapı)
 // ⚡ REKTEFE EDİLMİŞ KIRMIZI-SARI KUVANTUM MOTORU
+// 🪐 BINARY PLANETS RETROGRADE YÖRÜNGE MOTORU
 if (p.mesh) {
     const geciciPozisyon = new THREE.Vector3();
-    let efektifIlerleme = p.ilerleme;
+    // Odalar arası ana taşıyıcı kuantum koridoru
+    geciciPozisyon.lerpVectors(p.kaynak, p.hedef, p.ilerleme);
 
-    // 🚀 KIRMIZIDA DELİ GİBİ HIZLANMA KİLİDİ
-    // Eğer hedef Sarı Oda (ID 4) ise, parçacık Kırmızı'dan (ID 1) çıkıp 
-    // Sarı'ya doğru yaklaşırken hızı (ilerlemesi) üstel olarak katlanır!
-    if (p.hedefId === 4) {
-        // İlerleme hızını baştan dikleştirip sonuna doğru ivmelendiriyoruz
-        efektifIlerleme = Math.sin(p.ilerleme * Math.PI * 0.5); 
-    }
+    // 🔑 GEZEGENSEL FAZ KİLİDİ: Eş merkezli ikili gezegenlerin (Binary) ortak kütleçekim dönüşü
+    // Frekansı 3 katına çıkartarak şemadaki o iç içe geçen daire yaylarını (ilmekleri) çizdiriyoruz
+    let binaryAci = p.ilerleme * Math.PI * 3; 
+    
+    // Yolun ortasında ve odaya giriş/çıkış anlarında sönümlenen pürüzsüz retrograde genliği
+    let retroGenlik = Math.sin(p.ilerleme * Math.PI) * 0.25;
 
-    // Odalar arası hattı güncellenmiş ivme eğrisiyle hesapla
-    geciciPozisyon.lerpVectors(p.kaynak, p.hedef, efektifIlerleme);
-
-    // 🌀 SARI ODA ZİRVE DÖNGÜ VE SPIN FREKANSI (En Sıcak Merkez)
-    // Parçacık Sarı oda (ID 4) hedefine kilitlendiyse 16 kat çılgın bir spin atar!
-    let tepeFrekans = p.hedefId === 4 ? 16.0 : 3.0;
-    let spinAci = efektifIlerleme * Math.PI * tepeFrekans; 
-    let spinGenlik = Math.sin(efektifIlerleme * Math.PI) * 0.38;
-
-    // Binary Planets (Kutsal Şemadaki İkili Gezegen Dengesi)
+    // 🔄 ŞEMADAKİ KARŞILIKLI EŞ MERKEZLİ DÖNÜŞ (Eril ve Dişil Kilitli Yörünge)
+    // Parçacığın kimliğine veya kaynak odasına göre (Tek/Çift ID) ikili gezegen simetrisini kuruyoruz
     if (p.id % 2 === 0) {
-        geciciPozisyon.x += Math.cos(spinAci) * spinGenlik;
-        geciciPozisyon.y += Math.sin(spinAci) * spinGenlik;
-        geciciPozisyon.z += Math.sin(spinAci) * spinGenlik * 0.5;
+        // 🪐 1. GEZEGEN (Eril Aks - Saat Yönü): Odada geriye bükülerek dış yörünge yayı çizer
+        geciciPozisyon.x += Math.cos(binaryAci) * retroGenlik;
+        geciciPozisyon.y += Math.sin(binaryAci) * retroGenlik;
+        geciciPozisyon.z += Math.sin(binaryAci) * retroGenlik * 0.5;
     } else {
-        geciciPozisyon.x -= Math.cos(spinAci) * spinGenlik;
-        geciciPozisyon.y -= Math.sin(spinAci) * spinGenlik;
-        geciciPozisyon.z -= Math.sin(spinAci) * spinGenlik * 0.5;
+        // 🪐 2. GEZEGEN (Dişil Aks - Anti-Saat Yönü): Tam karşıt fazda iç yörünge yayını (retrograde) tamamlar
+        geciciPozisyon.x -= Math.cos(binaryAci) * retroGenlik;
+        geciciPozisyon.y -= Math.sin(binaryAci) * retroGenlik;
+        geciciPozisyon.z -= Math.sin(binaryAci) * retroGenlik * 0.5;
     }
 
-    // 🔥 SARI ODA "ANLIK YAKMA" VE PLAZMA EFEKTİ
-    if (p.hedefId === 4 && p.ilerleme > 0.3) {
-        const sariOdaMesh = window.metatronOdalar ? window.metatronOdalar : null;
-        if (sariOdaMesh) {
-            // Sarı oda, içine giren gluonların çılgın dönüşüyle parlar ve ısınır
-            let isiParlamasi = Math.sin(p.ilerleme * Math.PI * 8) * 3.0;
-            sariOdaMesh.material.color.setHex(0xffaa00).multiplyScalar(2.0 + isiParlamasi);
-            sariOdaMesh.scale.setScalar(1.0 + isiParlamasi * 0.1); // Isı genleşmesi/titremesi
-        }
-    }
-
+    // Parçacığın 3D konumunu Binary Kutsal Geometri hattına mühürle
     p.mesh.position.copy(geciciPozisyon);
 }
 // ============================================================================
