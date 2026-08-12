@@ -141,13 +141,13 @@ window.createAxes = function(isAxisVisible) {
     console.log(`[AXES PROTOCOL] Miller İskelet Grubuna Bağlandı. Görünürlük: ${isAxisVisible}`);
 };
 
+
 // ============================================================================
-// ☯️ FIVE-FOLD ELEMENTAL CORE ENGINE (5-FOLD ÇEMBER VE VEKTÖR MOTORU)
+// 🪐 TRUE ZERO-POINT AXIS ENGINE: 90° SAF VE MERKEZLİ 4 KÜRE ŞASİSİ
 // ============================================================================
 window.createFiveFoldCore = function(isCoreVisible) {
-    // 🛠️ Eski 5-Fold kalıntıları varsa bellekten pürüzsüzce temizle
+    // 🛠️ Bellek sızıntılarını ve eski kalıntıları pürüzsüzce temizle
     if (window.FiveFoldGrubu) {
-        if (window.KuantumKafesi) window.KuantumKafesi.remove(window.FiveFoldGrubu);
         window.scene.remove(window.FiveFoldGrubu);
         window.FiveFoldGrubu.traverse(child => {
             if (child.geometry) child.geometry.dispose();
@@ -156,81 +156,62 @@ window.createFiveFoldCore = function(isCoreVisible) {
         window.FiveFoldGrubu = null;
     }
 
-    // Eğer buton kapalıysa (false) çizim yapmadan direkt çık
     if (!isCoreVisible) return;
 
+    // 📐 Tek bir merkez grup oluşturuyoruz kanka
     window.FiveFoldGrubu = new THREE.Group();
     window.FiveFoldGrubu.name = "FIVE_FOLD_CORE_GROUP";
+    
+    // 🔑 GRUBUN KENDİSİNİ TAM MERKEZE REZONANSA ALIYORUZ
+    window.FiveFoldGrubu.position.set(0, 0, 0);
+    window.FiveFoldGrubu.rotation.set(0, 0, 0); 
 
-    window.FiveFoldGrubu.rotation.z = 90 * (Math.PI / 180); 
+    const cemberYaricapi = 0.23; // Küre boyutu
+    const r = 0.26;              // 📐 Eksen kaçıklığı (Merkezden uzaklaşma mesafesi)
 
-    const cemberYaricapi = 0.25; // Altın oran ölçeğinde element halkaları çapı
-    const segments = 64;         // Çemberlerin pürüzsüzlük kalitesi
-
-    // 🌀 4 ANA ÇEMBERİN DOĞRU ÇAPRAZ KOORDİNAT MATRİSİ (45'er Derecelik Aks Kayması)
-    // Şemadaki Beltane, Lughnasadh, Samhain ve Imbolc merkezleri
-    const d = cemberYaricapi * 0.707; // Math.cos(45) veya Math.sin(45) çarpanı
-
-    const dogruMerkezler = [
-        { x:  d, y:  d, z: 0, name: "CEMBER_BELTANE" },     // ↗ (Beltane Açısı)
-        { x:  d, y: -d, z: 0, name: "CEMBER_LUGHNASADH" },  // ↘ (Lughnasadh Açısı)
-        { x: -d, y: -d, z: 0, name: "CEMBER_SAMHAIN" },    // ↙ (Samhain Açısı)
-        { x: -d, y:  d, z: 0, name: "CEMBER_IMBOLC" }       // ↖ (Imbolc Açısı)
+    // 🪐 TAM 90° KARŞIT MATRİS (KÜPÜN İÇİNDEKİ ODACIKLARA ÇAKILI NİZAM)
+    // Sapmalar tamamen sıfırlandı. Yeşil Üstte, Turuncu Altta, Sarı Solda, Mavi Sağda.
+    const elementToplari = [
+        { x: 0,  y: r,  z: 0, color: 0x00ff00, name: "PURE_YESIL_TOP" },     // ⬆️ YEŞİL (Tam Üst / +Y)
+        { x: 0,  y: -r, z: 0, color: 0xff7f00, name: "PURE_TURUNCU_BOTTOM" }, // ⬇️ TURUNCU (Tam Aşağı / -Y)
+        { x: -r, y: 0,  z: 0, color: 0xffff00, name: "PURE_SARI_LEFT" },     // ⬅️ SARI (Tam Sol / -X)
+        { x: 0,  y: 0,  z: r, color: 0x0077ff, name: "PURE_MAVI_RIGHT" }    // ➡️ MAVİ (Tam Sağ / +X)
+     
     ];
 
-    // 🔑 KRİTİK DÜZELTME: Artık 'dogruMerkezler' dizisini dönüyoruz!
-    dogruMerkezler.forEach(el => {
-        const geom = new THREE.RingGeometry(cemberYaricapi - 0.005, cemberYaricapi + 0.005, segments);
-        const mat = new THREE.MeshBasicMaterial({ color: 0xffffff, side: THREE.DoubleSide, transparent: true, opacity: 0.4 });
-        const cemberMesh = new THREE.Mesh(geom, mat);
-        cemberMesh.position.set(el.x, el.y, el.z);
-        cemberMesh.name = el.name;
-        window.FiveFoldGrubu.add(cemberMesh);
+    elementToplari.forEach((el, index) => {
+        // Pürüzsüz küre şasisi
+        const kureGeom = new THREE.SphereGeometry(cemberYaricapi, 32, 32);
+        
+        // Görünürlük zırhı: Katmanların birbirini silmesini engelleyen kesin ayar
+        const kureMat = new THREE.MeshBasicMaterial({ 
+            color: el.color,
+            transparent: true,
+            opacity: 0.5,             
+            depthWrite: false,        // 🚨 Kürelerin arka arkaya bindiğinde kaybolmasını engeller
+            depthTest: true,
+            side: THREE.DoubleSide
+        });
+        
+        const anaKureMesh = new THREE.Mesh(kureGeom, kureMat);
+        anaKureMesh.position.set(el.x, el.y, el.z);
+        anaKureMesh.name = el.name;
+        
+        // Çizim sırası önceliği
+        anaKureMesh.renderOrder = index + 1;
+
+        // Küreyi ana gruba ekle
+        //window.FiveFoldGrubu.add(anaKureMesh);
     });
 
-    // 🔴 4 KRİTİK KESİŞİM BİLYESİ (Şemadaki Litha, Yule, Ostara, Mabon noktaları)
-    // Çemberler çaprazlara kayınca, birbirlerini tam olarak ana dikey ve yatay haç eksenlerinde keserler.
-    const nodGeom = new THREE.SphereGeometry(0.012, 16, 16);
-    const nodMat = new THREE.MeshBasicMaterial({ color: 0xff0000 }); // Saf Kırmızı Düğüm
-
-    // Şemadaki tam kesişim noktalarının geometrik konumları:
-    const semaDugumleri = [
-        { x: 0,  y:  cemberYaricapi, z: 0, name: "NODE_LITHA" },   // ⬆ Gündönümü (Üst)
-        { x: 0,  y: -cemberYaricapi, z: 0, name: "NODE_YULE" },    // ⬇ Gündönümü (Alt)
-        { x: -cemberYaricapi, y: 0,  z: 0, name: "NODE_OSTARA" },  // ⬅ Ekinoks (Sol)
-        { x:  cemberYaricapi, y: 0,  z: 0, name: "NODE_MABON" }   // ➡ Ekinoks (Sağ)
-    ];
-
-    semaDugumleri.forEach(nod => {
-        const nodMesh = new THREE.Mesh(nodGeom, nodMat);
-        nodMesh.position.set(nod.x, nod.y, nod.z);
-        nodMesh.name = nod.name;
-        window.FiveFoldGrubu.add(nodMesh);
-    });
-
-// 🔵 MAVİ ESİR ÇEMBERİ (Ether / Merkez Manyetik Kalkan Hattı)
-    const maviGeom = new THREE.RingGeometry(cemberYaricapi * 1.414 - 0.006, cemberYaricapi * 1.414 + 0.006, segments);
-    const maviMat = new THREE.MeshBasicMaterial({ color: 0x0077ff, side: THREE.DoubleSide });
-    const maviCember = new THREE.Mesh(maviGeom, maviMat);
-    maviCember.name = "CEMBER_ETHER_SHIELD";
-    
-    // 🔑 KİLİT: Görsel sadelik ve derinlik netliği için mavi kalkanı gizliyoruz
-    maviCember.visible = false; 
-    
-    window.FiveFoldGrubu.add(maviCember);
-
-    // ⚫ MUTLAK SIFIR NOKTASI FREKANSI (Merkez Kara Delik Düğümü)
-    const merkezGeom = new THREE.SphereGeometry(0.018, 16, 16);
-    const merkezMat = new THREE.MeshBasicMaterial({ color: 0x000000 });
-    const merkezMesh = new THREE.Mesh(merkezGeom, merkezMat);
-    merkezMesh.name = "NODE_ETHER_SINGULARITY";
-    window.FiveFoldGrubu.add(merkezMesh);
-
-    // 🔑 5-Fold Yapısı Doğrudan İskelet Grubunun Göbeğine Kenetlenir!
+    // Grubu ana sahneye ya da kuantum kafesine mühürle
     if (window.KuantumKafesi) {
         window.KuantumKafesi.add(window.FiveFoldGrubu);
+    } else {
+        window.scene.add(window.FiveFoldGrubu);
     }
-    console.log(`[FIVE-FOLD PROTOCOL] 5-Fold Çapraz Yıl Çarkı Düzeni İskelete Giydirildi.`);
+
+    console.log("[ZERO-POINT-FIX] 4 küre haçı tam (0,0,0) merkezine çivilendi! 🪐⚔️");
 };
 // ============================================================================
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
@@ -455,34 +436,36 @@ for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
 // ============================================================================
 // 🌀 REZONANS KİLİDİ: FAZ KARŞITLIĞI VE TERS SİNÜS DALGASI MOTORU
 // ============================================================================
+// 🌀 ŞEMAYA UYGUN ASİMETRİK TORUS AKIŞ MOTORU (Görseldeki sarmal yapı)
 if (p.mesh) {
     const geciciPozisyon = new THREE.Vector3();
+    // Odalar arası ana taşıyıcı kuantum koridoru
     geciciPozisyon.lerpVectors(p.kaynak, p.hedef, p.ilerleme);
 
-    // 🔑 TERS SİNÜS ŞALTERİ: Yolun ilk yarısında (0 -> 0.5) normal dalga yükselir,
-    // Yolun ikinci yarısında (0.5 -> 1.0) yani odaya girerken dalga TAM TERSİNE (-1) bükülür!
-    let dalgaYonu = p.ilerleme < 0.5 ? 1.0 : -1.0;
+    // 🔑 GEZEGENSEL FAZ KİLİDİ: Eş merkezli ikili gezegenlerin (Binary) ortak kütleçekim dönüşü
+    // Frekansı 3 katına çıkartarak şemadaki o iç içe geçen daire yaylarını (ilmekleri) çizdiriyoruz
+    let binaryAci = p.ilerleme * Math.PI * 3; 
     
-    // Yolun ortasında ve odaya giriş anında kırılma yapan çift fazlı sinüs dalgası
-    let dalgaYuksekligi = Math.sin(p.ilerleme * Math.PI) * 0.28 * dalgaYonu;
+    // Yolun ortasında ve odaya giriş/çıkış anlarında sönümlenen pürüzsüz retrograde genliği
+    let retroGenlik = Math.sin(p.ilerleme * Math.PI) * 0.25;
 
-    // ⚡ SAĞ EL / SOL EL KUTUPSAL ELEKTROMANYETİZMA ŞALTERİ (Aynalı Nizam)
-    if (geciciPozisyon.x < 0) {
-        // 🔴 SOL EL: Odadan çıkarken yükselen, odaya girerken ters dalgayla dibe çöken alev
-        geciciPozisyon.x -= dalgaYuksekligi * 0.5;
-        geciciPozisyon.y += dalgaYuksekligi;
-        geciciPozisyon.z += dalgaYuksekligi * 0.3; 
+    // 🔄 ŞEMADAKİ KARŞILIKLI EŞ MERKEZLİ DÖNÜŞ (Eril ve Dişil Kilitli Yörünge)
+    // Parçacığın kimliğine veya kaynak odasına göre (Tek/Çift ID) ikili gezegen simetrisini kuruyoruz
+    if (p.id % 2 === 0) {
+        // 🪐 1. GEZEGEN (Eril Aks - Saat Yönü): Odada geriye bükülerek dış yörünge yayı çizer
+        geciciPozisyon.x += Math.cos(binaryAci) * retroGenlik;
+        geciciPozisyon.y += Math.sin(binaryAci) * retroGenlik;
+        geciciPozisyon.z += Math.sin(binaryAci) * retroGenlik * 0.5;
     } else {
-        // 🔵 SAĞ EL: Giriş anında ters sarmalla içeri emilen dişil su girdabı
-        geciciPozisyon.x += dalgaYuksekligi * 0.3;
-        geciciPozisyon.y += dalgaYuksekligi * 0.7;
-        geciciPozisyon.z -= dalgaYuksekligi * 0.2; 
+        // 🪐 2. GEZEGEN (Dişil Aks - Anti-Saat Yönü): Tam karşıt fazda iç yörünge yayını (retrograde) tamamlar
+        geciciPozisyon.x -= Math.cos(binaryAci) * retroGenlik;
+        geciciPozisyon.y -= Math.sin(binaryAci) * retroGenlik;
+        geciciPozisyon.z -= Math.sin(binaryAci) * retroGenlik * 0.5;
     }
 
-    // Fiziksel parçacığın 3D konumunu mühürle
+    // Parçacığın 3D konumunu Binary Kutsal Geometri hattına mühürle
     p.mesh.position.copy(geciciPozisyon);
 }
-
 // ============================================================================
 // 🌈 SPEKTRAL REZONANS: FRENLENMİŞ HIZ BAZLI RENK EŞİKLERİ
 // ============================================================================
@@ -514,6 +497,25 @@ if (p.mesh && p.mesh.material) {
         window.aktifPaketler.splice(i, 1);
     }
 }
+
+
+
+// ============================================================================
+    // 🌬️ INFINITY PULSE: RİTMİK NEFES ALMA VE PARLAMA SİMÜLASYONU
+    // ============================================================================
+    if (window.sonsuzlukCizgisi && window.sonsuzlukCizgisi.material) {
+        window.sonsuzlukZamani += 0.03; // Nefes hızı katsayısı
+        
+        if (window.akademikKalpAktif) {
+            // Kalp aktifken akımla senkronize dalgalanan parıltı (0.08 ile 0.35 arası)
+            window.sonsuzlukCizgisi.material.opacity = 0.12 + Math.sin(window.sonsuzlukZamani) * 0.18;
+        } else {
+            // Kalp kapatıldığında pürüzsüzce sönerek baz loşluğuna (`0.05`) geri çekilsin
+            if (window.sonsuzlukCizgisi.material.opacity > 0.05) {
+                window.sonsuzlukCizgisi.material.opacity -= 0.01;
+            }
+        }
+    }
 
   // ============================================================================
     // ❄️ ODALARIN AKIM SONRASI KADEMELİ SOĞUMA VE KARARMA KALKANI
@@ -940,9 +942,57 @@ window.animate = function() {
     }
 };
 
+// ============================================================================
+// 🌀 BACKSTAGE QUANTUM INFINITY: BERNOULLI LEMNISCATE SIS ÇİZGİSİ (ZIRHLI SÜRÜM)
+// ============================================================================
+window.sonsuzlukCizgisi = null;
+window.sonsuzlukZamani = 0;
 
+window.createDseedInfinityBackground = function() {
+    // 🛡️ MUTLAK GÜVENLİK BARİYERİ: Eğer Kuantum Kafesi henüz hafızada yoksa çökme, kibarca geri dön!
+    if (!window.KuantumKafesi) {
+        console.log("[CORE OPTICS] Kuantum Kafesi henüz hazır değil, çizgi güvenliğe alındı. 🛡️");
+        return;
+    }
 
+    // Varsa eski çizgiyi sahneden uçur ki hafıza şişmesin
+    if (window.sonsuzlukCizgisi) {
+        window.KuantumKafesi.remove(window.sonsuzlukCizgisi);
+        if (window.sonsuzlukCizgisi.geometry) window.sonsuzlukCizgisi.geometry.dispose();
+        if (window.sonsuzlukCizgisi.material) window.sonsuzlukCizgisi.material.dispose();
+    }
 
+    const curvePoints = [];
+    const segments = 144; // Altın oran bölümlendirmesi
+    
+    // Sonsuzluk (∞) matematiksel Bernoulli Lemniscate döngüsü
+    for (let i = 0; i <= segments; i++) {
+        let t = (i / segments) * Math.PI * 2;
+        let scale = 1.35; // 5-Fold çemberlerinin tam arkasını kaplayacak altın ölçek
+        
+        let x = (scale * Math.cos(t)) / (1 + Math.sin(t) * Math.sin(t));
+        let y = (scale * Math.sin(t) * Math.cos(t)) / (1 + Math.sin(t) * Math.sin(t));
+        
+        // Z ekseninde parçacıkların ve kürelerin hafifçe arkasına (-0.25) itiyoruz
+        curvePoints.push(new THREE.Vector3(x, y, -0.25));
+    }
+
+    const geometry = new THREE.BufferGeometry().setFromPoints(curvePoints);
+    const material = new THREE.LineBasicMaterial({
+        color: 0xff00ff,          // Kuantum Pembesi
+        transparent: true,
+        opacity: 0.12,            // Gözü yormayacak hafif bir gizli sis tabanı
+        blending: THREE.AdditiveBlending,
+        linewidth: 1.5
+    });
+
+    window.sonsuzlukCizgisi = new THREE.Line(geometry, material);
+    window.sonsuzlukCizgisi.name = "DSEED_INFINITY_LINE";
+    
+    // Çizgiyi iskelet grubuna bağlıyoruz
+    window.KuantumKafesi.add(window.sonsuzlukCizgisi);
+    console.log("[CORE GEOMETRY] Sonsuzluk (∞) Sis Çizgisi 5-Fold Arkasına Mühürlendi. 🌀");
+};
 
 // ============================================================================
 // 🖥️ RESIZE OLAREK EMNİYET ŞALTERLİ KADRAJ KİLİDİ (HATA BİTİRİCİ)
