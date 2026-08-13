@@ -350,14 +350,6 @@ window.stopVortexFlux = function() {
     });
     console.log("[VORTEX] Kuantum Akım Motoru Kapatıldı.");
 };
-// 🛑 Akımı ve zamanlayıcıyı tamamen kapatan fonksiyon
-window.stopVortexFlux = function() {
-    if (window.akimZamanlayici) {
-        clearInterval(window.akimZamanlayici);
-        window.akimZamanlayici = null;
-    }
-    window.aktifPaketler = [];
-};
 
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
@@ -613,25 +605,31 @@ window.updateMetatronLoop = function() {
             // 🔑 KİLİT TAMİR 2: MAVİ VE DİĞER ODALARI KURTARAN GLUON YAKLAŞMA ENJEKSİYONU
             // ============================================================================
             // Odalar sönmeden önce, o odaya doğru fırlatılmış canlı bir gluon varsa voltajı besler!
-            window.aktifPaketler.forEach(p => {
-                if (p.hedefId === s.id) {
-                    // Mavi oda (7) hızlı deşarja kurban gitmesin diye üs katsayısı pürüzsüzleştirildi
-                    let usKatsayisi = (s.id === 7) ? 1.5 : 3.0;
-                    let uyarilmaVoltaji = Math.pow(p.ilerleme, usKatsayisi) * 12; 
-                    
-                    odaMesh.material.emissive.setHex(s.color); // Odanın öz spektrum rengi
-                    odaMesh.material.emissiveIntensity = Math.max(odaMesh.material.emissiveIntensity, uyarilmaVoltaji);
-                    odaMesh.material.opacity = Math.max(odaMesh.material.opacity, 0.5 + (p.ilerleme * 0.5));
-                }
-            });
+                    // 🔑 KİLİT TAMİR: Akıllı Materyal Kontrolü
+                window.aktifPaketler.forEach(p => {
+                    if (p.hedefId === s.id) {
+                        let uyarilma = Math.pow(p.ilerleme, 2) * 10;
+                        
+                        // Emissive var mı kontrol et, yoksa hata verme, rengi değiştir
+                        if (odaMesh.material.emissive) {
+                            odaMesh.material.emissive.setHex(s.color);
+                            odaMesh.material.emissiveIntensity = uyarilma;
+                        } else {
+                            // MeshBasicMaterial için güvenli renk güncellemesi
+                            odaMesh.material.color.setHex(s.color);
+                        }
+                        odaMesh.material.opacity = Math.max(0.3, p.ilerleme);
+                    }
+                });
 
             // 🔑 Orijinal Walter Russell Doğal Homeostasis Azalımı (Senin Yazdığın Deşarj Filtresi)
-            if (odaMesh.material.emissiveIntensity > 0.3) {
-                odaMesh.material.emissiveIntensity -= delta * gezegenEnerjiAlani;
-            }
-            if (odaMesh.material.opacity > 0.15) {
-                odaMesh.material.opacity -= delta * (odaMesh.material.opacity > 0.35 ? (gezegenEnerjiAlani * 0.06) : (gezegenEnerjiAlani * 0.12));
-            }
+      // 🔑 Walter Russell Azalımı (Güvenli Sürüm)
+if (odaMesh.material.emissiveIntensity !== undefined) {
+    odaMesh.material.emissiveIntensity *= 0.95;
+} else {
+    // BasicMaterial için yumuşak renk sönümlemesi
+    odaMesh.material.color.lerp(new THREE.Color(0x111111), 0.05);
+}
         }
     });
 
