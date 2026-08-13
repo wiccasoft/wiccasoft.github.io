@@ -421,11 +421,13 @@ window.updateMetatronLoop = function() {
     const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
 
 
-    // 🌊 1. Odaların parlaklığını pürüzsüzce söndür (Gecikmesiz plazma sönümü)
-    window.spheres.forEach(s => {
-        const node = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}`);
-        if (node && node.material) {
-            node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.12);
+    // 🌊 1. ODALARI ÖNCE LERP İLE YUMUŞAKÇA SÖNDÜR
+    
+     window.spheres.forEach(s => {
+        // 🔑 KİLİT DÜZELTME: Hem ID hem de String isim varyasyonlarını tarayan akıllı kalkan!
+        let odaMesh = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}` || c.name === s.name);
+        if (odaMesh && odaMesh.material) {
+            odaMesh.material.emissiveIntensity = THREE.MathUtils.lerp(odaMesh.material.emissiveIntensity, 0.2, 0.15);
         }
     });
 
@@ -1054,57 +1056,7 @@ window.animate = function() {
     }
 };
 
-// ============================================================================
-// 🌀 BACKSTAGE QUANTUM INFINITY: BERNOULLI LEMNISCATE SIS ÇİZGİSİ (ZIRHLI SÜRÜM)
-// ============================================================================
-window.sonsuzlukCizgisi = null;
-window.sonsuzlukZamani = 0;
 
-window.createDseedInfinityBackground = function() {
-    // 🛡️ MUTLAK GÜVENLİK BARİYERİ: Eğer Kuantum Kafesi henüz hafızada yoksa çökme, kibarca geri dön!
-    if (!window.KuantumKafesi) {
-        console.log("[CORE OPTICS] Kuantum Kafesi henüz hazır değil, çizgi güvenliğe alındı. 🛡️");
-        return;
-    }
-
-    // Varsa eski çizgiyi sahneden uçur ki hafıza şişmesin
-    if (window.sonsuzlukCizgisi) {
-        window.KuantumKafesi.remove(window.sonsuzlukCizgisi);
-        if (window.sonsuzlukCizgisi.geometry) window.sonsuzlukCizgisi.geometry.dispose();
-        if (window.sonsuzlukCizgisi.material) window.sonsuzlukCizgisi.material.dispose();
-    }
-
-    const curvePoints = [];
-    const segments = 144; // Altın oran bölümlendirmesi
-    
-    // Sonsuzluk (∞) matematiksel Bernoulli Lemniscate döngüsü
-    for (let i = 0; i <= segments; i++) {
-        let t = (i / segments) * Math.PI * 2;
-        let scale = 1.35; // 5-Fold çemberlerinin tam arkasını kaplayacak altın ölçek
-        
-        let x = (scale * Math.cos(t)) / (1 + Math.sin(t) * Math.sin(t));
-        let y = (scale * Math.sin(t) * Math.cos(t)) / (1 + Math.sin(t) * Math.sin(t));
-        
-        // Z ekseninde parçacıkların ve kürelerin hafifçe arkasına (-0.25) itiyoruz
-        curvePoints.push(new THREE.Vector3(x, y, -0.25));
-    }
-
-    const geometry = new THREE.BufferGeometry().setFromPoints(curvePoints);
-    const material = new THREE.LineBasicMaterial({
-        color: 0xff00ff,          // Kuantum Pembesi
-        transparent: true,
-        opacity: 0.12,            // Gözü yormayacak hafif bir gizli sis tabanı
-        blending: THREE.AdditiveBlending,
-        linewidth: 1.5
-    });
-
-    window.sonsuzlukCizgisi = new THREE.Line(geometry, material);
-    window.sonsuzlukCizgisi.name = "DSEED_INFINITY_LINE";
-    
-    // Çizgiyi iskelet grubuna bağlıyoruz
-    window.KuantumKafesi.add(window.sonsuzlukCizgisi);
-    console.log("[CORE GEOMETRY] Sonsuzluk (∞) Sis Çizgisi 5-Fold Arkasına Mühürlendi. 🌀");
-};
 
 // ============================================================================
 // 🖥️ RESIZE OLAREK EMNİYET ŞALTERLİ KADRAJ KİLİDİ (HATA BİTİRİCİ)
@@ -1122,9 +1074,8 @@ window.addEventListener('resize', () => {
     window.renderer.setSize(window.innerWidth, window.innerHeight);
 }, false);
 
-
 // ============================================================================
-// 📢 MASTER RECEIVER BRIDGE - EXECUTION MATRIX
+// 📢 Master Master Receiver Bridge - Senkronize Sürüm
 // ============================================================================
 window.addEventListener("message", (event) => {
     if (!event.data || !event.data.komut) return;
@@ -1132,14 +1083,15 @@ window.addEventListener("message", (event) => {
     // 📢 MASTER RECEIVER BRIDGE - EMİR 4: KUZEY IŞIĞI TEPEDEN BAKIŞ AKTİFLEYİCİ
     if (event.data.komut === "SET_TOP_VIEW") {
         if (typeof window.setTopView === "function") {
-            window.setTopView();
+            // 🔑 KİLİT DÜZELTME: metatron.js içindeki parametre bekleyen yapıya global kollar paslanıyor
+            window.setTopView(window.camera, window.controls);
             console.log("[OPTICAL BRIDGE] Kamera Kuzey Işığı Kutup Aksına Sabitlendi: TOP_VIEW 👁️");
         }
     }
 
     // 🔴 1. Eksen Milleri Aç/Kapat Tetiği
     if (event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
-        let butonGelenDurum = event.data.durum; // true veya false sinyali gelir
+        let butonGelenDurum = event.data.durum;
         if (typeof window.createMetatronAxes === "function") {
             window.createMetatronAxes(butonGelenDurum); 
         }
@@ -1149,7 +1101,6 @@ window.addEventListener("message", (event) => {
     if (event.data.komut === "SKELETON_TOGGLE") {
         if (window.KuantumKafesi) {
             window.KuantumKafesi.visible = !window.KuantumKafesi.visible;
-            // Eksen milleri iskeletle senkronize hareket etsin kafa karışmasın
             if (window.currentAxisX) window.currentAxisX.visible = window.KuantumKafesi.visible;
             if (window.currentAxisY) window.currentAxisY.visible = window.KuantumKafesi.visible;
             if (window.currentAxisZ) window.currentAxisZ.visible = window.KuantumKafesi.visible;
@@ -1162,28 +1113,26 @@ window.addEventListener("message", (event) => {
         window.akademikKalpAktif = event.data.durum;
         
         if (event.data.durum) {
-            // 🚀 Start the fluid vortex flow from step 0
             if (typeof window.startVortexFlux === "function") {
                 window.startVortexFlux();
             }
         } else {
-            // 🛑 Stop timer and purge stuck packets to prevent red-blue misfires on relaunch
             if (typeof window.stopVortexFlux === "function") {
                 window.stopVortexFlux();
 
                 window.parent.postMessage({
-                        komut: "METATRON_HUD_UPDATE",
-                        data: {
-                            id: 0,
-                            renk: "Nötr",
-                            frekans: "0 Hz",
-                            mv: -90,
-                            akimTipi: "Diyastolik Dinlenme"
-                        }
-                    }, "*");
+                    komut: "METATRON_HUD_UPDATE",
+                    data: {
+                        id: 0,
+                        renk: "Nötr",
+                        frekans: "0 Hz",
+                        mv: -90,
+                        akimTipi: "Diyastolik Dinlenme"
+                    }
+                }, "*");
             }
             
-            // Flush mid-flight quantum packet meshes out of memory
+            // Havada uçan kuantum mermilerini hafızadan temizle
             if (window.aktifPaketler && window.aktifPaketler.length > 0) {
                 for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
                     let p = window.aktifPaketler[i];
@@ -1196,17 +1145,17 @@ window.addEventListener("message", (event) => {
                 window.aktifPaketler = []; 
             }
             
-            // Instantly kill emissive leakage on all structural nodes
-            if (window.spheres) {
+            // 🔑 KİLİT DÜZELTME: Sızıntıyı Önleyen Çift İsim Filtreli Oda Söndürücü
+            if (window.spheres && window.KuantumKafesi) {
                 window.spheres.forEach(s => {
-                    const nodeMesh = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}`);
+                    const nodeMesh = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}` || c.name === s.name);
                     if (nodeMesh && nodeMesh.material) {
-                        nodeMesh.material.emissiveIntensity = 0.0;
+                        nodeMesh.material.emissiveIntensity = s.isPole ? 1.0 : 0.0; // Kutuplar hariç odaları sıfırla
+                        nodeMesh.material.opacity = s.isPole ? 1.0 : 0.45;
                     }
                 });
             }
             
-            // Force reset sequence pointer to initial yellow fusion alignment
             window.vortexPointer = 0;
             console.log("[HEART_TOGGLE] Quantum engine reset and purged to baseline state.");
         }
