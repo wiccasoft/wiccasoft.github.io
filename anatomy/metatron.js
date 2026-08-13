@@ -120,4 +120,8 @@ window.MetatronEngine = function() {
 };
 
 // Start the core engine
-injectMetatronMetabolism();
+//injectMetatronMetabolism();
+
+
+// 📯 MASTER CORE TRIGGER: Metatron executes the skeleton engine right upon loading
+if (typeof window.initSkelaton === "function") window.initSkelaton()
