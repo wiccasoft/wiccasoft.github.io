@@ -425,11 +425,11 @@ window.updateMetatronLoop = function() {
     
     // 🔑 MUTLAK FREKANS KİLİDİ: 
     // Mermi fırlatma ritmi, 432 Hz oktav hızıyla (1.5 çarpanıyla) %100 eşitlendi.
-    let saniyeZamani = performance.now() * 0.001;
-    let hamRitim = Math.floor(saniyeZamani * 1.5);
+    //let saniyeZamani = performance.now() * 0.001;
+    //let hamRitim = Math.floor(saniyeZamani * 1.5);
         
         // 🔑 RİTMİK ZAMAN KİLİDİ: Her 24 karede bir (Yaklaşık 400ms - Kalp Ritmi) kesin olarak ateşle!
-        window.vortexFrameCounter++;
+        //window.vortexFrameCounter++;
         const canalRitmi = (window.vortexFrameCounter % 24 === 0);
 
         
