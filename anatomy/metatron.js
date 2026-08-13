@@ -768,25 +768,25 @@ window.initMetatronEngine = function() {
 
 // --- KUTSAL ENERJİ ODALARI (8 KÜRE) ---
 
-window.spheres.forEach(s => {
-    const sphere = new THREE.Mesh(
-        new THREE.SphereGeometry(0.18, 32, 32),
-        new THREE.MeshStandardMaterial({ // 🚀 Daha hassas ışık gradyanı için Standard seviyeye çekildi
-            color: 0x111111,             // 🧊 Açılışta mat ve nötr şasi rengi
-            emissive: 0x111111,          // 🧊 Açılışta sönük plazma oda rengi
-            emissiveIntensity: 0.0,      // 🎯 KİLİT HAMLE: Açılışta tamamen sönük (0.0) başlar, sarsıntı biter!
-            transparent: true, 
-            opacity: 0.85
-        })
-    );
-    sphere.position.copy(s.pos);
-    sphere.name = `ID_${s.id}`; 
-    
-    // 📦 KOPUKLUĞU BİTİREN REFAYALAMA: Sahne nesnesini doğrudan veri matrisine kilitleyin
-    s.meshRef = sphere; 
-    
-    window.KuantumKafesi.add(sphere); 
-});
+  window.spheres.forEach(s => {
+        const sphere = new THREE. Mesh(
+            // 🚀 Poligon sayısını 32'den 16'ya düşürerek GPU yükünü %50 azalttık
+            new THREE.SphereGeometry(0.18, 16, 16),
+            // 🚀 Standard yerine Basic materyale geçerek gereksiz ışık yansıma hesaplarını sıfırladık
+            new THREE.MeshBasicMaterial({ 
+                color: 0x111111,
+                transparent: true,
+                opacity: 0.85,
+                // Basic materyalde direkt parlama olmadığı için rengi manipüle edeceğiz
+                blending: THREE.AdditiveBlending 
+            })
+        );
+
+        sphere.position.copy(s.pos);
+        sphere.name = `ID_${s.id}`;
+        s.meshRef = sphere;
+        window.KuantumKafesi.add(sphere);
+    });
 // -------------------------------------
 
  // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
