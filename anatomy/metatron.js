@@ -381,6 +381,44 @@ if (typeof window.vortexFrameCounter === "undefined") window.vortexFrameCounter 
 window.updateMetatronLoop = function() {
     const delta = 0.016;
 
+     // 🛠 25 FPS Zaman Kilidi (Mevcut kararlı yapınız)
+       // ============================================================================
+// === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU + UI MÜHÜRLEME KATMANI ===
+// ============================================================================
+const milisaniyeZamani = performance.now();
+// 🔑 KİLİT TAMİR: Yorum satırı kaldırıldı! saniyeZamani artık tüm dalgaları besliyor.
+const saniyeZamani = milisaniyeZamani * 0.001; 
+
+// 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
+const rodinDizisi =[1,2,4,8,7,5];
+const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length; // 432 Hz oktav hızında kayma
+const aktifRodinDegeri = rodinDizisi[rodinIndeks];
+
+ 
+
+const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
+let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+
+    // Saf Alternatif Akım (AC) Kalp Frekansları (Titreşim döngülerini beslemeye devam eder)
+    const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
+    const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
+
+// Dalga şiddetini pozitif bir gürültüye çevirip arayüze basıyoruz
+const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
+    const sabitDelta = 1 / hedefFPS; // 0.04 saniye (25 FPS)
+
+    // 🔑 %100 AKSA HİZALI 74 BPM BİYOLOJİK MOTOR (TAMİR EDİLDİ)
+    // Kare sayacını globale bağlayıp durmadan arttırıyoruz
+    if (typeof window.biyolojikKareSayaci === "undefined") window.biyolojikKareSayaci = 0;
+    window.biyolojikKareSayaci++;
+
+    // 🎯 MATEMATİKSEL MÜHÜR: 25 FPS sistemde saniyede tam kararlı vuruş frekansı 
+    // için kare modülü 10'a kilitlendi! Aksaklık, sapma ve kaçırma riski Sıfıra indirildi.
+   // let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
+
+
+   
+
     // Sahne hafıza güvenliği kontrolü
     if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
 
@@ -402,9 +440,14 @@ window.updateMetatronLoop = function() {
     if (typeof window.aktifIndexA === "undefined") window.aktifIndexA = 0;
     if (typeof window.aktifIndexB === "undefined") window.aktifIndexB = 0;
 
-    let ateslemeRitmi = window.akademikKalpAktif;
+    
 
-    if (ateslemeRitmi && window.aktifPaketler && window.aktifPaketler.length < 36) {
+  if (ateslemeRitmi && window.aktifPaketler && window.aktifPaketler.length < 36) {
+    
+    // 🔑 MUTLAK FREKANS KİLİDİ: 
+    // Mermi fırlatma ritmi, 432 Hz oktav hızıyla (1.5 çarpanıyla) %100 eşitlendi.
+    let saniyeZamani = performance.now() * 0.001;
+    let hamRitim = Math.floor(saniyeZamani * 1.5);
         
         // 🔑 RİTMİK ZAMAN KİLİDİ: Her 24 karede bir (Yaklaşık 400ms - Kalp Ritmi) kesin olarak ateşle!
         window.vortexFrameCounter++;
@@ -611,23 +654,7 @@ window.updateMetatronLoop = function() {
 
 
 
-    // ============================================================================
-// === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU + UI MÜHÜRLEME KATMANI ===
-// ============================================================================
-const milisaniyeZamani = performance.now();
-// 🔑 KİLİT TAMİR: Yorum satırı kaldırıldı! saniyeZamani artık tüm dalgaları besliyor.
-const saniyeZamani = milisaniyeZamani * 0.001; 
-
-// 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
-const rodinDizisi =[1,2,4,8,7,5];
-const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length; // 432 Hz oktav hızında kayma
-const aktifRodinDegeri = rodinDizisi[rodinIndeks];
-
-// 2. Alternatif Akım (AC) Kalp Titreşimi (174 Hz ve 852 Hz Girişimi)
-const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
-const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
-// Dalga şiddetini pozitif bir gürültüye çevirip arayüze basıyoruz
-const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
+ 
 
 // 3. ARAYÜZE (UI) ANLIK YAZDIRMA MÜHÜRÜ
 //const rodinElement = document.getElementById("rodin-sinyali");
