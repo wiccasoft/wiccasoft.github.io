@@ -377,29 +377,34 @@ let aktifIndexB = 0;
 if (typeof window.vortexFrameCounter === "undefined") window.vortexFrameCounter = 0;
 
 
-window.updateMetatronLoop = function() {
+window.updateMetatronLoop = function() { 
+    
+    // Eğer temel Three.js nesneleri henüz sahnede yoksa döngüden güvenle çık (Hata fırlatmaz)
+    if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
+
     // 🛡️ OTOMATİK DOĞUŞ ZIRHI: Eğer saat henüz yaratılmadıysa, tam şu an yarat ve hata vermesini engelle!
-    if (!window.metatronClock) {
-        window.metatronClock = new THREE.Clock();
-    }
+    if (!window.metatronClock) {window.metatronClock = new THREE.Clock();    }
     
     // 🎯 Gerçek zamanı milisaniyelik güvenle oku
     const delta = window.metatronClock.getDelta();
 
     const milisaniyeZamani = performance.now();
 
-    // 1. Gerçek zamanlı 74 BPM Antenini güncelleme döngüsüne taşıyoruz
-const simdikiTarih = new Date();
-const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
-const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
+    // 🔑 74 BPM Biyolojik Kalp Anteni
+    const simdikiTarih = new Date();
+    const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
+    const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
+    let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;// ⚡ "GÜM GÜM" VURUŞ ŞALTERİ:
 
-// ⚡ "GÜM GÜM" VURUŞ ŞALTERİ: Kalp atım hızına göre ateşleme ritmini kilitliyoruz
-let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
-    
-    // Eğer temel Three.js nesneleri henüz sahnede yoksa döngüden güvenle çık (Hata fırlatmaz)
-    if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
+     // 🧭 Kristal Zamanlama ve Rodin İndeksleme (6'lık Nizam)
+    if (typeof window.biyolojikKareSayaci === "undefined") window.biyolojikKareSayaci = 0;
+    window.biyolojikKareSayaci++;
+   
+    // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
+    let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
+    window.aktifIndexA = hamIndex % rodinDizisiA.length;
+    window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
-    
     // ============================================================================
     // 🫀 2. MADDE MATRİSİ AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU (PARÇACIK DOĞUMU)
     // ============================================================================
@@ -414,20 +419,6 @@ let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
     const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
     const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
     const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
-
-    // --- 🛠 🔑 %100 AKSA HİZALI 74 BPM BİYOLOJİK MOTOR ---
-    if (typeof window.biyolojikKareSayaci === "undefined") window.biyolojikKareSayaci = 0;
-    window.biyolojikKareSayaci++;
-
-// --- 🛠 🔑 %100 AKSA HİZALI 74 BPM BİYOLOJİK MOTOR ---
-// (Bu kısım, kare sayacından bağımsız çalışan indeks mekanizmasıyla zaman kaymasını önler)
-//let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
-
-
-// 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
-let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
-window.aktifIndexA = hamIndex % rodinDizisiA.length;
-window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
 
     // 🌊 1. Odaların parlaklığını pürüzsüzce söndür (Gecikmesiz plazma sönümü)
