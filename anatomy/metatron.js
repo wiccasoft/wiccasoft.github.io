@@ -476,7 +476,14 @@ window.updateMetatronLoop = function() {
             }
         }
         // Cleanup
-        if (p.ilerleme >= 1.0) { /* dispose mesh */ }
+        if (p.ilerleme >= 1.0) { 
+    if (p.mesh && window.KuantumKafesi) {
+        window.KuantumKafesi.remove(p.mesh);
+        if (p.mesh.geometry) p.mesh.geometry.dispose();
+        if (p.mesh.material) p.mesh.material.dispose();
+    }
+    window.aktifPaketler.splice(i, 1);
+}
     }
     window.renderer.render(window.scene, window.camera);
 };
