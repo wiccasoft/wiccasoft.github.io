@@ -1,493 +1,111 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Salvator Mundi + AC-DC Kuantum Motoru Entegrasyonu</title>
-  <style>
-    /* 🔑 KOZMİK ALTLIK */
-    html, body {
-        margin: 20;
-        padding: 20;
-        width: 80%;
-        height: 80%;
-        background: #000000 !important;
-        overflow: hidden !important; 
-    }
-
-
-
-    /* main.html içindeki arayüz overlay kapsayıcısı */
-#ui-container {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    pointer-events: none; /* Tıklamaların arkadaki iframe/3D sahneye düşmesini sağlar */
-}
-
-/* Kapsayıcı içindeki butonlar ve text alanları yeniden tıklanabilir olmalı */
-button, input, .panel-kartlari {
-    pointer-events: auto; 
-}
-
-    /* main.html içindeki UI kapsayıcı paneli */
-#ui-overlay-container {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    pointer-events: none; /* Mouse tıklamalarının arkadaki 3D sahneye geçmesini sağlar */
-    z-index: 10;
-}
-
-/* Panel içindeki butonlar ve yazı kutuları yeniden tıklanabilir olmalı */
-.interactive-panel, button, input {
-    pointer-events: auto; 
-}
-    
-
-    /* 🎛️ SİBERPUNK INTERFACE KONTROL PANELI */
-#matrix-control-panel {
-    position: absolute;
-    border-top-left-radius: 25px;
-    left: 50%;
-    transform: translateX(-50%);
-    
-    /* 👑 MUTLAK EN ÖN KATMAN MÜHÜRÜ */
-    z-index: 999999 !important;      /* 👈 Sayfanın en tepesine çiviledik */
-    pointer-events: auto !important; /* 👈 Tıklamaları doğrudan kendine çeksin */
-    
-    display: flex;
-    gap: 15px;
-}
-
-    /* Tabloyu siyah-beyaz yapacak o sihirli kuantum filtresi */
-.matrix-grayscale {
-    filter: grayscale(100%) contrast(110%) brightness(90%) !important;
-    transition: filter 0.8s ease-in-out; /* Yumuşak bir geçiş şovu için */
-}
-
-.matrix-color {
-    filter: grayscale(0%) contrast(100%) brightness(100%) !important;
-    transition: filter 0.8s ease-in-out;
-}
-    /* If you have a specific background container for the Salvator Mundi portrait, 
-   upscale it by 1.15x or 1.2x to fill the Metatron grid lines perfectly */
-/* 🎨 BAĞIMSIZ SALVATOR MUNDI KATMANI (EN-BOY ORANI KORUMALI FİTLENMİŞ) */
-#bg-image {
-    position: absolute;
-    top: 45%; left: 51%;
-    
-    /* 📐 KESİN ORAN KİLİDİ: Resmin kalitesini bozmadan dikey yüksekliğe sabitler */
-    height: 100vh !important;
-    width: auto !important;
-    object-fit: contain;
-    
-    /* 👑 UP-SCALE MATRIX: İsa'yı tam senin istediğin oranda büyütür ve ekranı ortalar */
-    transform: translate(-50%, -50%) scale(1);
-    transform-origin: center center;
-    z-index: 1;
-    pointer-events: none;
-}
-
-    /* 🔑 AC-DC MOTOR ENJEKTÖRÜ: anatomy.html dosyasını çağırır */
-    iframe {
-        position: absolute;
-        top: 30;
-        left: 50;
-        width: 100%;
-        height: 100%;
-        border: none;
-        z-index: 50;            /* Tablonun önünde, panellerin arkasında kalır */
-        background: transparent !important;
-        mix-blend-mode: screen; /* Siyah arka planı eritip sadece neonları parlatır */
-        pointer-events: none; 
-    }
-
-
-    .cyber-btn {
-        background: rgba(0, 0, 0, 0.75);
-        color: #ff7f00; /* Turuncu Hava Köprüsü Rengi */
-        border: 1px solid #ff7f00;
-        padding: 10px 10px;
-        cursor: pointer;
-        font-weight: bold;
-        font-size: x-small;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        box-shadow: 0 0 5px rgba(255, 127, 0, 0.2);
-        transition: all 0.3s ease;
-    }
-
-    .cyber-btn:hover {
-        background: #ff7f00;
-        color: #000000;
-        box-shadow: 0 0 10px rgba(255, 127, 0, 0.6);
-        text-shadow: none;
-    }
-
-    /* 🔮 CHRIST AMONG DOCTORS: ASK GEMINI ACADEMIC BUTTON */
-    .oracle-btn {
-        color: #9900ff; /* Mistik Mor Kuantum Reset Rengi */
-        border: 1px solid #9900ff;
-        box-shadow: 0 0 5px rgba(153, 0, 255, 0.2);
-    }
-    .oracle-btn:hover {
-        background: #9900ff;
-        color: #ffffff;
-        box-shadow: 0 0 10px rgba(153, 0, 255, 0.6);
-    }
-  </style>
-</head>
-<body>
-
-
-    <!-- 🎨 TABLO BAĞIMSIZ ELEMAN OLARAK EN ARKEYA GÖMÜLDÜ -->
-  <img id="bg-image" class="matrix-color" src="./Salvator_Mundi_oil_on_walnut.jpg" alt="Salvator Mundi">
-
-
-  <!-- ⚡ AC-DC ANATOMY MOTORU ÖNE BİNDİRİLDİ -->
- <iframe id="anatomy-engine" src="./anatomy.html?v=2"></iframe>
-
-
- 
-<!-- 🎛️ AKADEMİSYENLERİ HİPNOZ EDECEK INTERFACE PANELİ -->
-  <div id="matrix-control-panel">
-      <!-- Mod Değiştirici Buton (Ten rengi gürültüsünü siler, turuncu küreyi parlatır) -->
-      <button id="toggle-filter-btn" class="cyber-btn" onclick="toggleMatrixIllusionFilter()">
-          Matrix: Original Illusion
-      </button>
-      
-      <!-- Christ Among Doctors El İşareti (Gemini Akademik Modülü Tetikler) -->
-      <button class="cyber-btn oracle-btn" onclick="triggerGeminiAcademicOracle()">
-          🔮 Ask Gemini: Academic Oracle
-      </button>
-  </div>
-
-
-
-  <!-- 🪟 SLIDE MENU TETİKLEYİCİ ŞERİT (Ekranın en solunda incecik mor bir çizgi olarak pusuda bekler) -->
-<div id="slideMenuTrigger" onclick="toggleSlideMenu()" style="
-    position: absolute;
-    top: 0; left: 0; width: 8px; height: 100vh;
-    background: linear-gradient(to bottom, #660099, #111, #660099);
-    cursor: pointer; z-index: 1001; opacity: 0.7;
-    transition: opacity 0.3s ease, width 0.3s ease;
-" onmouseover="this.style.width='15px'; this.style.opacity='1';" onmouseout="this.style.width='8px'; this.style.opacity='0.7';">
-    <!-- İçine çok zarif dikey bir ok veya sembol koyulabilir -->
-    <div style="color: #fff; position: absolute; top: 50%; left: 2px; font-size: 10px; transform: translateY(-50%); font-weight: bold;">❯</div>
-</div>
-
-<!-- 🎛️ MASTER ACADEMIC SLIDE CONTROL DECK (YANDAN KAYAN GİZLİ PANEL) -->
-<div id="academicControlDeck" style="
-    position: absolute;
-    top: 0;
-    left: -300px; /* 🔑 KESİN ÇÖZÜM: İlk açılışta ekranın tamamen dışında, gizli durur! */
-    width: 260px;
-    height: 100vh;
-    background: rgba(0, 0, 0, 0.92); /* Arkadaki resmi hafif süzmesi için şeffaf karartı */
-    border-right: 2px solid #660099;
-    padding: 20px 15px;
-    z-index: 1000;
-    font-family: monospace;
-    box-shadow: 5px 0 25px rgba(102, 0, 153, 0.5);
-    transition: left 0.4s cubic-bezier(0.1, 0.9, 0.2, 1); /* Pürüzsüz uzay gemisi kapısı akışı */
-    display: flex;
-    flex-direction: column;
-">
-    <!-- Paneli Geri Kapatma Butonu -->
-    <div style="text-align: right; margin-bottom: 15px;">
-        <button onclick="toggleSlideMenu()" style="background:none; border:none; color:#660099; cursor:pointer; font-size:16px; font-weight:bold;">❮ CLOSE</button>
-    </div>
-
-    <!-- 🗂️ ÇİFT TABLI GEÇİŞ SEKME ALANI -->
-    <div style="display: flex; gap: 5px; margin-bottom: 20px; border-bottom: 1px solid #222; padding-bottom: 10px;">
-        <button id="tabSalvador" onclick="switchAcademicTab('salvador')" style="
-            flex: 1; padding: 8px; background: #660099; color: #fff; 
-            border: none; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 11px;
-        ">SALVADOR</button>
-        
-        <button id="tabDoctors" onclick="switchAcademicTab('doctors')" style="
-            flex: 1; padding: 8px; background: #111; color: #888; 
-            border: 1px solid #222; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 10px;
-        ">DOCTORS</button>
-    </div>
-
-    <!-- 📊 ANLIK TELEMETRİ BİLGİ EKRANI -->
-    <div id="telemetryScreen" style="color: #00ff00; font-size: 11px; margin-bottom: 25px; height: 50px; line-height: 1.5; border: 1px solid #222; padding: 8px; background: #050505;">
-        MODE: ORIGINAL ILLUSION<br>CORE: CALIBRATION METRIC
-    </div>
-
-    <!-- 🔳 MİNİK KARE İKONLU KONTROL BUTONLARI -->
-    <div style="display: flex; gap: 8px; justify-content: space-between; margin-top: auto; padding-bottom: 30px;">
-        <!-- Buton 1: İskelet Şalteri (Görünürlük Toggle) -->
-        <button onclick="toggleSkeletonButton()" title="İskelet Şalteri (🩻)" style="
-            width: 45px; height: 45px; background: #222; border: 1px solid #660099; 
-            color: #ffff00; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
-        ">🩻</button>
-
-        <!-- Buton 2: RGB Milleri (Kalibrasyon Cetveli Toggle) -->
-        <button id="btnAxes" onclick="toggleAxesButton()" title="RGB Eksen Milleri (🧭)" style="
-            width: 45px; height: 45px; background: #660099; border: 1px solid #fff; 
-            color: #00ff00; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
-        ">🧭</button>
-
-        <!-- Buton 3: 4 Element Aynalama Filtresi -->
-        <button onclick="toggleMirrorButton()" title="4 Element Aynalama Modu (🪞)" style="
-            width: 45px; height: 45px; background: #222; border: 1px solid #222; 
-            color: #ff00ff; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
-        ">🪞</button>
-
-        <!-- Buton 4: Kuantum Kalp Nabız Şalteri -->
-        <button onclick="toggleHeartButton()" title="Kuantum Kalp Atış Şalteri (❤️)" style="
-            width: 45px; height: 45px; background: #222; border: 1px solid #222; 
-            color: #ff0000; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
-        ">❤️</button>
-
-
-      <!-- Buton 5: görünüm açısı (perspektik görünüm butonu) -->
-        <button id="btnAngle" onclick="toggleAngleButton()" title="Görünüm Açısı (🧭)" style="
-            width: 45px; height: 45px; background: #660099; border: 1px solid #fff; 
-            color: #00ff00; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 16px;
-        ">🧭</button>
-    </div>
-</div>
-
-<script>
-// 🔓 SLIDE PANEL AÇMA / KAPAMA ALGORITMASI
-let menuOpen = false;
-function toggleSlideMenu() {
-    menuOpen = !menuOpen;
-    const deck = document.getElementById("academicControlDeck");
-    // Eğer kapalıysa ekranın sol kenarına sıfırlanarak kayar, açıksa sola doğru gizlenir
-    deck.style.left = menuOpen ? "0px" : "-300px";
-}
-
-// 🗂️ TAB GEÇİŞ ALGORİTMASI
-function switchAcademicTab(targetTab) {
-    const tabSal = document.getElementById("tabSalvador");
-    const tabDoc = document.getElementById("tabDoctors");
-    const telemetry = document.getElementById("telemetryScreen");
-    
-    if (targetTab === 'salvador') {
-        tabSal.style.background = "#660099"; tabSal.style.color = "#fff"; tabSal.style.border = "none";
-        tabDoc.style.background = "#111"; tabDoc.style.color = "#888"; tabDoc.style.border = "1px solid #222";
-        telemetry.innerHTML = "MODE: SALVADOR MUNDI<br>CORE: TOROIDAL POLARITY ACTIVE";
-    } else {
-        tabDoc.style.background = "#660099"; tabDoc.style.color = "#fff"; tabDoc.style.border = "none";
-        tabSal.style.background = "#111"; tabSal.style.color = "#888"; tabSal.style.border = "1px solid #222";
-        telemetry.innerHTML = "MODE: CHRIST AMONG DOCTORS<br>CORE: TEMPLE DISCIPLINE ACTIVE";
-    }
-}
-
-
-
-
-// 🔳 MESSAGING TETİKLEYİCİLERİ
-let axesState = true;
-function toggleAxesButton() {
-    axesState = !axesState;
-    const btn = document.getElementById("btnAxes");
-    btn.style.background = axesState ? "#660099" : "#222";
-    btn.style.border = axesState ? "1px solid #fff" : "1px solid #222";
-
-    const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "EKSEN_DURUMU_DEGISTIR", durum: angleState }, "*");
-    }
-}
-
-let angleState = true;
-function toggleAngleButton() {
-    anglesState = !angleState;
-    const btn = document.getElementById("btnAngle");
-    btn.style.background = angleState ? "#660099" : "#222";
-    btn.style.border = angleState ? "1px solid #fff" : "1px solid #222";
-
-    const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "SET_TOP_VIEW", durum: angleState }, "*");
-    }
-}
-
-function toggleSkeletonButton() {
-    const metatronIframe = document.getElementById("metatronIframeId");
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "SKELETON_TOGGLE" }, "*");
-    }
-}
-
-function toggleHeartButton() {
-    const metatronIframe = document.getElementById("metatronIframeId");
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "HEART_TOGGLE" }, "*");
-    }
-}
-
-function toggleMirrorButton() {
-    alert("4 Element Aynalama Modu Aktif Cetvelleri Hazırlanıyor!");
-}
-</script>
-
-
-
-
-  <script>
-    let isGrayscaleMode = false;
-
-    // 🎨 TABLO RENK/KONTRAST FİLTRE GEÇİŞ MOTORU
-    function toggleMatrixIllusionFilter() {
-        const bgImage = document.getElementById("bg-image");
-        const filterBtn = document.getElementById("toggle-filter-btn");
-        
-        isGrayscaleMode = !isGrayscaleMode;
-        
-        if (bgImage) {
-            if (isGrayscaleMode) {
-                bgImage.className = "matrix-grayscale";
-                filterBtn.innerText = "Matrix: Desaturated (True Eye)";
-                filterBtn.style.color = "#00ffff"; // Manyetik Mavi Su Rengine bükülür
-                filterBtn.style.borderColor = "#00ffff";
-            } else {
-                bgImage.className = "matrix-color";
-                filterBtn.innerText = "Matrix: Original Illusion";
-                filterBtn.style.color = "#ff7f00"; // Hava Köprüsü Turuncusuna geri döner
-                filterBtn.style.borderColor = "#ff7f00";
-            }
-        }
-    }
-
-    // 🧠 IFRAME İÇİNDEKİ YAPAY ZEKA MOTORUYLA HABERLEŞME HATTI
-    function triggerGeminiAcademicOracle() {
-        const iframe = document.getElementById("anatomy-engine");
-        if (iframe && iframe.contentWindow) {
-            // İllüzyonu yırtan el işaretine basıldığında iframe'in içine sinyali asenkron fırlatır
-            iframe.contentWindow.postMessage({ action: "TRIGGER_ACADEMIC_ORACLE" }, "*");
-        }
-    }
-
-
-    // main.html içindeki buton tetikleyicisi:
-function modDegistir(yeniMod) {
-    const iframe = document.getElementById("anatomy-viewport"); // iframe id'niz
-    iframe.contentWindow.postMessage({ komut: "MOD_TETIKLE", mod: yeniMod }, "*");
-}
-
-    // main.html içine eklenecek dinleyici:
-window.addEventListener("message", (event) => {
-    if (event.data.komut === "EKRAN_GUNCELLE") {
-        document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${event.data.mv.toFixed(0)} mV`;
-        document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
-    }
-});
-
-
-// 🔒 AUTHORITATIVE ORIGIN REGEX SHIELD
-const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasoft\.github\.io/;
-
-window.addEventListener("message", (event) => {
-    // Drop execution blocks if context origin fails integrity verification
-    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
-
-    // Route message safely into UI DOM trees
-    if (event.data && event.data.komut === "EKRAN_GUNCELLE") {
-        document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${Number(event.data.mv).toFixed(0)} mV`;
-        document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
-    }
-});
-
-
-
 // ============================================================================
-// 🔳 THE ULTIMATE PARAMETERLESS TOGGLE DECK (SÜREKLİ TRUE/FALSE KİLİDİNİ KIRAN MOTOR)
+// 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE
 // ============================================================================
 
-// 🩻 BUTON 1: SARI İSKELET ŞALTERİ (KUSURSUZ TOGGLE)
-window.toggleSkeletonButton = function() {
-    // 🔑 KESİN ÇÖZÜM: window nesnesindeki durumu kontrol et ve mutlak olarak tersine çevir
-    if (window.skeletonState === undefined) window.skeletonState = true;
-    window.skeletonState = (window.skeletonState === true) ? false : true;
-    
-    console.log(`[DECK DIRECT] Iskelet Butonu Tetiklendi. Yeni Sinyal: ${window.skeletonState}`);
+// 🔑 Pure universal spectrum data model with absolute Salvator Mundi spatial vectors
+window.COLOR_SPECTRUM_MODEL = [
+    // 🌸💛 Z-AXIS DEPTH ALIGNMENT (Pink in front, Yellow directly behind on Z)
+    { id: 3, name: "PINK_RESONANCE_CHAMBER", mv: -10, color: "Pink",   fqn: 1.618, opposition: "Yellow", x:  0.0,  y:  0.0,  z:  0.3 }, // Front view anchor
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", fqn: 2.618, opposition: "Pink",   x:  0.0,  y:  0.0,  z: -0.3 }, // Directly behind Pink
 
-    const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "SKELETON_TOGGLE", 
-            durum: window.skeletonState 
-        }, "*");
+    // 🧡💙 VERTICAL AXIS (Top - Bottom Polarity)
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", fqn: 1.618, opposition: "Blue",   x:  0.0,  y:  0.5,  z:  0.0 }, // Top
+    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   fqn: 1.0,   opposition: "Orange", x:  0.0,  y: -0.5,  z:  0.0 }, // Bottom
+
+    // 💚❤️ HORIZONTAL AXIS (East - West Mirroring Alignment)
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  fqn: 1.618, opposition: "Red",    x:  0.5,  y:  0.0,  z:  0.0 }, // East (Right side)
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    fqn: 1.0,   opposition: "Green",  x: -0.5,  y:  0.0,  z:  0.0 }, // West (Left side)
+    
+    // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
+    { id: 9, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  fqn: 3.141, opposition: "Black",  x: -0.35, y:  0.35, z:  0.1 }, // Left hand: blessing the air
+    { id: 10,name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  fqn: 0.0,   opposition: "White",  x:  0.35, y: -0.35, z:  0.1 }  // Right hand: holding the earthly orb
+];
+
+window.chambers = {}; // Global dictionary mapping chamber IDs to meshes
+
+// 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
+window.QuantumPacket = class QuantumPacket {
+    constructor(sourceId, targetId, frequencyValue, directionMultiplier) {
+        this.sourceId = sourceId;
+        this.targetId = targetId;
+        this.frequency = frequencyValue;
+        this.dirMultiplier = directionMultiplier;
+        this.progress = 0;
+        this.isActive = true;
+    }
+
+    update(fixedDelta) {
+        if (!this.isActive) return;
+        // Pure mathematical scale entirely independent from PC clock/refresh cycles
+        const baseSpeed = this.frequency * 0.01;
+        this.progress += baseSpeed * this.dirMultiplier * fixedDelta;
+        if (this.progress >= 1.0) {
+            this.progress = 1.0;
+            this.isActive = false;
+        }
     }
 };
 
+// 🫀 INJECTING CHAMBERS ONTO SKELETON'S QUANTUM CAGE
+function injectMetatronMetabolism() {
+    // 📯 Önce skeleton.js içindeki büyük amiral gemisi sahneyi ve iskeleti kurar
+    window.initMetatronEngine(); //
 
-// main.html içindeki o inatçı döngü tuzağı:
-if (window.axesState === undefined) window.axesState = true;
-window.axesState = (window.axesState === true) ? false : true; 
+    const colorHexMap = {
+        "Red": 0xff0000, "Orange": 0xff7f00, "Yellow": 0xffff00,
+        "Green": 0x00ff00, "Blue": 0x0000ff, "Pink": 0xffc0cb, 
+        "White": 0xffffff, "Black": 0x111111, "Violet": 0x8b00ff
+    };
 
+    // 🔮 Solid translucent chambers reading spatial metrics directly from model
+    window.COLOR_SPECTRUM_MODEL.forEach((chamber) => {
+        const geometry = new THREE.SphereGeometry(0.22, 32, 32);
+        const material = new THREE.MeshBasicMaterial({
+            color: colorHexMap[chamber.color],
+            transparent: true,
+            opacity: 0.35,
+            wireframe: false // Solid translucent lock
+        });
+        
+        const chamberMesh = new THREE.Mesh(geometry, material);
+        
+        // 📐 Direct coordinate injection from global matrix data
+        chamberMesh.position.set(chamber.x, chamber.y, chamber.z);
 
-// 🧭 BUTON 2: RGB EKSEN MİLLERİ ŞALTERİ (KUSURSUZ TOGGLE)
-window.toggleAxesButton = function() {
-    if (window.axesState === undefined) window.axesState = true;
-    window.axesState = (window.axesState === true) ? false : true;
+        // Kilit Adres: skeleton.js'in yarattığı window.KuantumKafesi'ne kenetlenme
+        if (window.KuantumKafesi) {
+            window.KuantumKafesi.add(chamberMesh);
+        }
+        
+        window.chambers[chamber.id] = chamberMesh;
+    });
+
+    // Ana animasyon döngüsünü tetikle
+    runMetatronPipeline();
+}
+
+function runMetatronPipeline() {
+    requestAnimationFrame(runMetatronPipeline);
     
+    // Direct routing to your mathematical counter-current calculations
+    window.updateMetatronLoop();
 
+    if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
+    }
+}
+
+// ============================================================================
+// 🌊 RESERVED METABOLIC CORE (YOUR LIVE VECTOR FLOWS GO HERE)
+// ============================================================================
+window.MetatronEngine = function() {
+    // Structural cage and skeleton data are isolated safely inside skeleton.js.
+    // Chambers are perfectly injected onto the matrix vectors from model metadata.
     
-    console.log(`[DECK DIRECT] Eksen Butonu Tetiklendi. Yeni Sinyal: ${window.axesState}`);
-
-    const btn = document.getElementById("btnAxes");
-    if(btn) {
-        btn.style.background = window.axesState ? "#660099" : "#111";
-        btn.style.border = window.axesState ? "1px solid #fff" : "1px solid #222";
-    }
-
-    const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "EKSEN_DURUMU_DEGISTIR", 
-            durum: window.axesState 
-        }, "*");
-    }
+    // Ready for your exact 20-line pure polarity loop:
+    // 1. Red ↔ Blue meeting at Yellow with Phi multiplier acceleration.
+    // 2. Red ↔ Green meeting at Yellow to instantiate electromagnetic pole.
 };
 
-// ❤️ BUTON 3: KUANTUM KALP ATİŞ ŞALTERİ (KUSURSUZ TOGGLE)
-window.toggleHeartButton = function() {
-    if (window.heartState === undefined) window.heartState = false;
-    window.heartState = (window.heartState === true) ? false : true;
-    
-    console.log(`[DECK DIRECT] Kalp Butonu Tetiklendi. Yeni Sinyal: ${window.heartState}`);
-
-    const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "HEART_TOGGLE", 
-            durum: window.heartState 
-        }, "*");
-    }
-};
-
-
-// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE)
-window.toggleAngle = function() {
-    if (window.angleState === undefined) window.angleState = false;
-    window.angleState = (window.angleState === true) ? false : true;
-    
-    console.log(`[DECK DIRECT] Angle Butonu Tetiklendi. Yeni Sinyal: ${window.angleState}`);
-
-    //const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "HEART_TOGGLE", 
-            durum: window.heartState 
-        }, "*");
-    }
-};
-
-// 🪞 BUTON 4: 4 ELEMENT AYNALAMA FİLTRESİ
-window.toggleMirrorButton = function() {
-    alert("4 Element Aynalama Modu Aktif! Kılavuz RGB Milleri Referans Alınıyor.");
-};
-
-  </script>
-
-
-
-</body>
-</html>
+// Start the core engine
+injectMetatronMetabolism();
