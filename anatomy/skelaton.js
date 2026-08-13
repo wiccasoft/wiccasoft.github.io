@@ -293,12 +293,4 @@ window.initMetatronEngine = function() {
 const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
-        
-
-    // 🔑 SON NİHAİ MÜHÜRLEME SATIRLARI (Ateşleme Anı!):
-    // 📯 OMURGA_SELALESI Adreslemesini ve nesnesini pencere düzeyine çıkartıp ana gruba kenetliyoruz!
-    //window.omurgaSelalesi = new THREE.Points(window.particleGeo, particleMat);
-    //window.omurgaSelalesi.name = "OMURGA_SELALESI"; 
-    //window.KuantumKafesi.add(window.omurgaSelalesi);
-
 } // 👈 BÜYÜK AMİRAL GEMİSİ 'window.initMetatronEngine' İŞTE TAM BURADA GÜVENLE KAPANDI GERİZEKALI OÇ!
