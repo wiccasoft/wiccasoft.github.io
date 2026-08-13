@@ -51,6 +51,10 @@ window.KuantumPaketi = class KuantumPaketi {
         this.ilerleme = 0.0;
         this.tip = tip; 
         this.layer = layer; 
+
+        if (typeof window.paketSayaci === "undefined") window.paketSayaci = 0;
+        window.paketSayaci++;
+        this.uuid = window.paketSayaci;
         
         const pGeom = new THREE.SphereGeometry(0.03, 8, 8);
         const pMat = new THREE.MeshBasicMaterial({ 
@@ -268,18 +272,6 @@ window.createFiveFoldCore = function(isCoreVisible) {
 // BİRLEŞİK ALTIN ORAN & FREKANS BAZLI ULTRA-HAFİF PARÇACIK MOTORU (0% CPU YÜKÜ)
 // ============================================================================
 // Hız = (Odanın Öz Frekansı * Taban Katsayı) * Altın Oran Şalteri (1.618 / 0.618)
-
-// ============================================================================
-// 🧬 GLUONSUZ KUANTUM PAKETİ: Bellekte Three.js mesh'i yaratmaz, sadece mantıksal veri taşır.
-window.KuantumPaketi = class KuantumPaketi {
-    constructor(kaynakMesh, hedefMesh, frekansDegeri, KuantumKafesi, yonCarpan) {
-        // ... (constructor içeriği)
-    }
-
-    guncelle(sabitDelta) {
-        // ... (guncelle mantığı)
-    }
-};
 
 
 window.spheres = [
