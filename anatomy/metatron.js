@@ -1167,11 +1167,15 @@ window.addEventListener("message", (event) => {
             // 🔑 KİLİT DÜZELTME: Sızıntıyı Önleyen Çift İsim Filtreli Oda Söndürücü
             if (window.spheres && window.KuantumKafesi) {
                 window.spheres.forEach(s => {
-                    const nodeMesh = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}` || c.name === s.name);
-                    if (nodeMesh && nodeMesh.material) {
-                        nodeMesh.material.emissiveIntensity = s.isPole ? 1.0 : 0.0; // Kutuplar hariç odaları sıfırla
-                        nodeMesh.material.opacity = s.isPole ? 1.0 : 0.45;
-                    }
+
+                    // 🔑 SIFIR CPU YÜKÜ: Doğrudan referans kullanımı!
+                    let odaMesh = s.meshRef;
+
+
+                     if (odaMesh && odaMesh.material) {
+            odaMesh.material.emissiveIntensity = THREE.MathUtils.lerp(odaMesh.material.emissiveIntensity, 0.2, 0.15);
+        }
+        
                 });
             }
             
