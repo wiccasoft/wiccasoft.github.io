@@ -809,8 +809,15 @@ window.initMetatronEngine = function() {
     window.camera.lookAt(0, 0, 0);
 
     // 🖥️ Renderer ve Siyah Perde Kilidi
-    window.renderer = new THREE.WebGLRenderer({ antialias: true });
+     // 🖥 Renderer ve Siyah Perde Kilidi
+    window.renderer = new THREE.WebGLRenderer({ 
+        antialias: true, 
+        powerPreference: "high-performance", // 🚀 Tarayıcıya ekran kartını tam güç kullanmasını emret
+        alpha: false 
+    });
     window.renderer.setSize(window.innerWidth, window.innerHeight);
+    // 🚀 4K ekranlarda çözünürlüğü makul seviyede sınırlayarak donmayı engeller
+    window.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2)); 
     document.body.appendChild(window.renderer.domElement);
     window.renderer.setClearColor(0x000000, 1);
 
