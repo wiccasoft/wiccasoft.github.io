@@ -378,9 +378,19 @@ if (typeof window.vortexFrameCounter === "undefined") window.vortexFrameCounter 
 
 
 window.updateMetatronLoop = function() {
-    const delta = 0.016;
+    // 🛡️ OTOMATİK DOĞUŞ ZIRHI: Eğer saat henüz yaratılmadıysa, tam şu an yarat ve hata vermesini engelle!
+    if (!window.metatronClock) {
+        window.metatronClock = new THREE.Clock();
+    }
+    
+    // 🎯 Gerçek zamanı milisaniyelik güvenle oku
+    const delta = window.metatronClock.getDelta();
+
     const milisaniyeZamani = performance.now();
-    const saniyeZamani = milisaniyeZamani * 0.001; 
+    const saniyeZamani = milisaniyeZamani * 0.001;
+    
+    // Eğer temel Three.js nesneleri henüz sahnede yoksa döngüden güvenle çık (Hata fırlatmaz)
+    if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
 
     // --- RODIN & AC KALBİ (GÜNCELLENMİŞ) ---
     const rodinDizisi = [1,2,4,8,7,5]; // Dizi tamamlandı
@@ -398,7 +408,6 @@ window.updateMetatronLoop = function() {
     // 🎯 MATEMATİKSEL MÜHÜR: Küsüratlı yapı kaldırıldı, 25 FPS'te tam 10 karede bir vuruş.
     let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
 
-    if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
 
     // 🌊 1. Odaların parlaklığını pürüzsüzce söndür (Gecikmesiz plazma sönümü)
     window.spheres.forEach(s => {
@@ -428,13 +437,8 @@ window.updateMetatronLoop = function() {
     //let saniyeZamani = performance.now() * 0.001;
     //let hamRitim = Math.floor(saniyeZamani * 1.5);
         
-        // 🔑 RİTMİK ZAMAN KİLİDİ: Her 24 karede bir (Yaklaşık 400ms - Kalp Ritmi) kesin olarak ateşle!
-        //window.vortexFrameCounter++;
-        const canalRitmi = (window.vortexFrameCounter % 24 === 0);
 
-        
 
-        if (canalRitmi) {
             let kaynakA = window.spheres.find(o => o.id === rodinDizisiA[window.aktifIndexA]);
             let hedefA = window.spheres.find(o => o.id === rodinDizisiA[(window.aktifIndexA + 1) % rodinDizisiA.length]);
             
@@ -534,7 +538,7 @@ window.updateMetatronLoop = function() {
                     window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
                 }
             }
-        }
+        
     }
 
     // ============================================================================
