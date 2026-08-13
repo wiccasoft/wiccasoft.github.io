@@ -42,6 +42,57 @@ const BYR = [7, 4, 1, 5, 8, 2];
 window.sonsuzlukCizgisi = null;
 window.sonsuzlukZamani = 0;
 
+
+window.KuantumPaketi = class KuantumPaketi {
+    constructor(kaynakMesh, hedefMesh, renk, tip, layer) { 
+        this.kaynak = kaynakMesh;
+        this.hedef = hedefMesh;
+        this.hedefId = hedefMesh.id; 
+        this.ilerleme = 0.0;
+        this.tip = tip; 
+        this.layer = layer; 
+        
+        const pGeom = new THREE.SphereGeometry(0.03, 8, 8);
+        const pMat = new THREE.MeshBasicMaterial({ 
+            color: this.tip === "A" ? 0x00ffff : 0xff0055, // Eril Turkuaz, Dişil Pembe
+            transparent: true, 
+            opacity: 0.95,
+            depthWrite: false, 
+            blending: THREE.AdditiveBlending 
+        });
+        this.mesh = new THREE.Mesh(pGeom, pMat);
+        this.mesh.position.copy(this.kaynak.position);
+
+        window.KuantumKafesi.add(this.mesh);
+    }
+
+    guncelle(delta) {
+        let hizKatsayisi = 1.6; 
+        let dalgaliIvme = 0.5 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
+        this.ilerleme += (delta * 0.6) * dalgaliIvme;
+
+        let p = Math.min(this.ilerleme, 1.0);
+        let merkezPos = new THREE.Vector3().lerpVectors(this.kaynak.position, this.hedef.position, p);
+        
+        let yorungeCap = 0.38; // Tekerlek genişliği altın oran dengesi
+        let dalgaBoyu = Math.sin(p * Math.PI) * yorungeCap; 
+        let yonKatsayisi = this.tip === "A" ? 1 : -1; 
+
+        let cekimKuvveti = 1.0 - Math.sin(p * Math.PI) * 0.45;
+        dalgaBoyu *= cekimKuvveti;
+
+        let layerKavisY = 0;
+        if (this.layer === "UP") layerKavisY = Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
+        if (this.layer === "DOWN") layerKavisY = -Math.sin(p * Math.PI) * 0.15 * cekimKuvveti;
+
+        this.mesh.position.set(
+            merkezPos.x + Math.cos(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi,
+            merkezPos.y + layerKavisY,
+            merkezPos.z + Math.sin(p * Math.PI * 2) * dalgaBoyu * yonKatsayisi
+        );
+    }
+};
+
 window.createDseedInfinityBackground = function() {
     // Varsa eski çizgiyi sahneden uçur
     if (window.sonsuzlukCizgisi) {
