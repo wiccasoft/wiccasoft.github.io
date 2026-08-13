@@ -418,7 +418,7 @@ let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
 
 
 // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
-let hamIndex = Math.floor(window.biyolojikKareSayaci / 10);
+let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
 window.aktifIndexA = hamIndex % rodinDizisiA.length;
 window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
@@ -617,7 +617,7 @@ window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
                 if (p.hedefId === s.id) {
                     // Mavi oda (7) hızlı deşarja kurban gitmesin diye üs katsayısı pürüzsüzleştirildi
                     let usKatsayisi = (s.id === 7) ? 1.5 : 3.0;
-                    let uyarilmaVoltaji = Math.pow(p.ilerleme, usKatsayisi) * 7.5; 
+                    let uyarilmaVoltaji = Math.pow(p.ilerleme, usKatsayisi) * 12; 
                     
                     odaMesh.material.emissive.setHex(s.color); // Odanın öz spektrum rengi
                     odaMesh.material.emissiveIntensity = Math.max(odaMesh.material.emissiveIntensity, uyarilmaVoltaji);
