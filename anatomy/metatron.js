@@ -93,10 +93,10 @@ function injectMetatronMetabolism() {
     });
 
     // Ana animasyon döngüsünü tetikle
-    runMetatronPipeline();
+    MetatronPipeline();
 }
 
-function runMetatronPipeline() {
+function MetatronPipeline() {
     requestAnimationFrame(runMetatronPipeline);
     
     // Direct routing to your mathematical counter-current calculations
