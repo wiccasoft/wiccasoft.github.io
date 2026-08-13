@@ -387,7 +387,14 @@ window.updateMetatronLoop = function() {
     const delta = window.metatronClock.getDelta();
 
     const milisaniyeZamani = performance.now();
-    const saniyeZamani = milisaniyeZamani * 0.001;
+
+    // 1. Gerçek zamanlı 74 BPM Antenini güncelleme döngüsüne taşıyoruz
+const simdikiTarih = new Date();
+const saniyeZamani = simdikiTarih.getSeconds() + (simdikiTarih.getMilliseconds() / 1000); 
+const kalpAteslemeSinyali = (saniyeZamani * (74 / 60));
+
+// ⚡ "GÜM GÜM" VURUŞ ŞALTERİ: Kalp atım hızına göre ateşleme ritmini kilitliyoruz
+let ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
     
     // Eğer temel Three.js nesneleri henüz sahnede yoksa döngüden güvenle çık (Hata fırlatmaz)
     if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
@@ -414,7 +421,7 @@ window.updateMetatronLoop = function() {
 
 // --- 🛠 🔑 %100 AKSA HİZALI 74 BPM BİYOLOJİK MOTOR ---
 // (Bu kısım, kare sayacından bağımsız çalışan indeks mekanizmasıyla zaman kaymasını önler)
-let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
+//let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
 
 
 // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
