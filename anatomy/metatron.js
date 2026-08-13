@@ -88,7 +88,7 @@ function runMetatronPipeline() {
     requestAnimationFrame(runMetatronPipeline);
     
     // Direct routing to your mathematical counter-current calculations
-    window.updateMetatronLoop();
+    window.MetatronEngine();
 
     if (window.renderer && window.scene && window.camera) {
         window.renderer.render(window.scene, window.camera);
