@@ -71,7 +71,7 @@ window.KuantumPaketi = class KuantumPaketi {
     }
 
     guncelle(delta) {
-        let hizKatsayisi = 1.6; 
+        let hizKatsayisi = 1.0; 
         let dalgaliIvme = 0.5 + Math.sin(this.ilerleme * Math.PI) * hizKatsayisi;
         this.ilerleme += (delta * 0.6) * dalgaliIvme;
 
@@ -418,7 +418,7 @@ let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
 
 
 // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
-let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
+let hamIndex = Math.floor(window.biyolojikKareSayaci / 10);
 window.aktifIndexA = hamIndex % rodinDizisiA.length;
 window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
