@@ -418,7 +418,7 @@ let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
 
 
 // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
-let hamIndex = Math.floor(window.biyolojikKareSayaci / 10);
+let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
 window.aktifIndexA = hamIndex % rodinDizisiA.length;
 window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
