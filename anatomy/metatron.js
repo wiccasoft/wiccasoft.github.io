@@ -292,20 +292,25 @@ window.MATTER_SEQUENCE = [1,4,7,8,5,2];
 window.startVortexFlux = function() {
     if (window.akimZamanlayici) clearInterval(window.akimZamanlayici);
 
-    // 🫀 O en baştaki kusursuz, sarsılmaz 480ms biyolojik kalp ritmi
+    // 🫀 Sarsılmaz 480ms biyolojik rezonans döngüsü
     window.akimZamanlayici = setInterval(() => {
         if (!window.akademikKalpAktif) return;
 
         // 🌀 174 HZ İKİLİ KUTUP REZONANS DİZİLİMLERİ (Eril ve Dişil Akor)
-
-
+        // Karşılıklı indekslerde buluşma analizi:
+        // ptr=0: Eril 1->4 (Hedef 4), Dişil 7->4 (Hedef 4)  ==> BULUŞMA: SARI ODA (ID: 4) 🌟
+        // ptr=1: Eril 4->7 (Hedef 7), Dişil 4->1 (Hedef 1)  ==> BULUŞMA YOK (Ayrı yönler)
+        // ptr=2: Eril 7->8 (Hedef 8), Dişil 1->5 (Hedef 5)  ==> BULUŞMA YOK (Ayrı yönler)
+        // ptr=3: Eril 8->5 (Hedef 5), Dişil 5->8 (Hedef 8)  ==> BULUŞMA YOK (Ayrı yönler)
+        // ptr=4: Eril 5->2 (Hedef 2), Dişil 8->2 (Hedef 2)  ==> BULUŞMA: TURUNCU ODA (ID: 2) 🌟
+        // ptr=5: Eril 2->1 (Hedef 1), Dişil 2->7 (Hedef 7)  ==> BULUŞMA YOK (Ayrı yönler)
         const ERIL_SEQUENCE = [1,4,7,8,5,2]; // Saat yönü (RYB Türevi)
         const DISIL_SEQUENCE =[7,4,1,5,8,2]; // Ters saat yönü (BYR Türevi)
 
         let pointer = window.vortexPointer % ERIL_SEQUENCE.length;
 
         // ============================================================================
-        // ⚡ WAVE 1: ERIL AKIM DALGASI (İleri Hat)
+        // ⚡ WAVE 1: ERIL AKIM DOĞUMU (İleri Hat - Tip: A)
         // ============================================================================
         let eMevcutId = ERIL_SEQUENCE[pointer];
         let eSonrakiId = ERIL_SEQUENCE[(pointer + 1) % ERIL_SEQUENCE.length];
@@ -314,7 +319,7 @@ window.startVortexFlux = function() {
         const eHedef = window.KuantumKafesi.children.find(c => c.name === `ID_${eSonrakiId}`);
 
         // ============================================================================
-        // ⚡ WAVE 2: DİŞİL AKIM DALGASI (Geri Hat - Eşzamanlı Simetri)
+        // ⚡ WAVE 2: DİŞİL AKIM DOĞUMU (Geri Hat - Tip: B)
         // ============================================================================
         let dMevcutId = DISIL_SEQUENCE[pointer];
         let dSonrakiId = DISIL_SEQUENCE[(pointer + 1) % DISIL_SEQUENCE.length];
@@ -322,61 +327,47 @@ window.startVortexFlux = function() {
         const dKaynak = window.KuantumKafesi.children.find(c => c.name === `ID_${dMevcutId}`);
         const dHedef = window.KuantumKafesi.children.find(c => c.name === `ID_${dSonrakiId}`);
 
-        // --- 1. ERİL PARÇACIK DOĞUMU ---
+        // ❌ [ESKİ PARAMETRİK IŞIK TETİKLERİ TAMAMEN SİLİNDİ]
+        // Odalar artık doğuş anında parlamayacak, sadece parçacıklar oluşacak.
+
+        // --- 1. ERİL PARÇACIK DOĞUMU (Tip A) ---
         if (eKaynak && eHedef) {
             const eRenk = window.spheres.find(s => s.id === eMevcutId)?.color || 0xffffff;
             
-            // Odaya anlık ilk vuruş darbesi
-            if (eKaynak.material) {
-                let darbe = (eMevcutId === 2 || eMevcutId === 4) ? 3.5 : 1.5;
-                eKaynak.material.emissiveIntensity = darbe;
-            }
-
-            const pGeometri = new THREE.SphereGeometry(0.04, 8, 8);
-            const pMateryal = new THREE.MeshBasicMaterial({ color: eRenk, transparent: true, opacity: 0.9 });
-            const meshEril = new THREE.Mesh(pGeometri, pMateryal);
-            meshEril.position.copy(eKaynak.position);
-            window.KuantumKafesi.add(meshEril);
-
-            window.paketSayaci++;
+            // Sizin yazdığınız KuantumPaketi sınıf yapısı tetikleniyor
+            const paketEril = new KuantumPaketi(eKaynak, eHedef, eRenk, "A", "UP");
+            
+            // updateMetatronLoop motorunun okuması için nesne formatında diziye mühürleme
             window.aktifPaketler.push({
-                id: window.paketSayaci,
+                id: paketEril.uuid,
+                instance: paketEril, // Sınıf örneğini taşıyoruz
                 kaynak: eKaynak.position.clone(),
                 hedef: eHedef.position.clone(),
                 ilerleme: 0,
-                hiz: 0.0174, // 174 Hz Mutlak Dalga Boyu Hızı
-                mesh: meshEril,
+                hiz: 0.0174, 
+                mesh: paketEril.mesh,
                 hedefId: eSonrakiId,
-                renkHex: eRenk,
+                renkHex: 0x00ffff, // WebGL Mühür Rengi (Turkuaz)
                 yon: "ERIL"
             });
         }
 
-        // --- 2. DİŞİL PARÇACIK DOĞUMU (Aynı milisaniyede tam karşı kutupta!) ---
+        // --- 2. DİŞİL PARÇACIK DOĞUMU (Tip B) ---
         if (dKaynak && dHedef) {
             const dRenk = window.spheres.find(s => s.id === dMevcutId)?.color || 0xffffff;
             
-            if (dKaynak.material) {
-                let darbe = (dMevcutId === 2 || dMevcutId === 4) ? 3.5 : 1.5;
-                dKaynak.material.emissiveIntensity = darbe;
-            }
-
-            const pGeometri = new THREE.SphereGeometry(0.04, 8, 8);
-            const pMateryal = new THREE.MeshBasicMaterial({ color: dRenk, transparent: true, opacity: 0.9 });
-            const meshDisil = new THREE.Mesh(pGeometri, pMateryal);
-            meshDisil.position.copy(dKaynak.position);
-            window.KuantumKafesi.add(meshDisil);
-
-            window.paketSayaci++;
+            const paketDisil = new KuantumPaketi(dKaynak, dHedef, dRenk, "B", "DOWN");
+            
             window.aktifPaketler.push({
-                id: window.paketSayaci,
+                id: paketDisil.uuid,
+                instance: paketDisil, // Sınıf örneğini taşıyoruz
                 kaynak: dKaynak.position.clone(),
                 hedef: dHedef.position.clone(),
                 ilerleme: 0,
-                hiz: 0.0174, // 174 Hz Mutlak Dalga Boyu Hızı
-                mesh: meshDisil,
+                hiz: 0.0174, 
+                mesh: paketDisil.mesh,
                 hedefId: dSonrakiId,
-                renkHex: dRenk,
+                renkHex: 0xff0055, // WebGL Mühür Rengi (Pembe)
                 yon: "DISIL"
             });
         }
@@ -384,7 +375,6 @@ window.startVortexFlux = function() {
         window.vortexPointer = (window.vortexPointer + 1) % ERIL_SEQUENCE.length;
     }, 480);
 };
-
 // 🛑 Akımı ve zamanlayıcıyı tamamen kapatan fonksiyon
 window.stopVortexFlux = function() {
     if (window.akimZamanlayici) {
@@ -403,217 +393,43 @@ window.mevcutOdaSirasi = 0; // Doğrusal spektrumda o an aktif olan oda indisi
 window.sonUretimZamani = 0; // İki parçacık üretimi arasındaki zaman kilidi
 
 window.updateMetatronLoop = function() {
+    // ... Scene validation ...
+    const delta = 0.016; 
 
-    //Sistemin Matematiksel Çalışma Mekanizması:
-    // Diyastolik Dinlenme (Kırmızı -90 mV): Enerji en düşük potansiyelde sönük ve sakin başlar. 
-    // Parçacık hızı yavaştır (0.618).Hızlı Depolarizasyon (Sarı +20 mV): Akım bu odaya ulaştığında emissiveIntensity 2.5 katına çıkarak
-    // sahnede anlık bir parlama patlaması yaratır ve gluon hızı Altın Oran katsayısıyla (1.618) katlanarak çevre çeperlere fırlar.
-    // Kasılma Plato Fazı (Yeşil 0 mV): Karaciğer ve pankreas dengesini simüle eden bu evrede hız normalleşir ve enerji topraklanır.
-    if (!window.scene || !window.camera || !window.renderer || !window.KuantumKafesi) return;
-
-    const simdikiZaman = performance.now();
-    
-    // ⚡ 1. KALP AKTİFSE PARÇACIK (GLUON) ÜRETİM JENERATÖRÜ
-    if (window.akademikKalpAktif) {
-        // Her 350ms'de bir doğrusal spektrum sırasına göre yeni bir akım dalgası fırlat
-        if (simdikiZaman - window.sonUretimZamani > 350) {
-            window.sonUretimZamani = simdikiZaman;
-
-            // Mevcut odanın akademik ve frekans verilerini oku
-            const mevcutOdaVerisi = window.getMetatronFrequencyState(window.mevcutOdaSirasi);
-            const sonrakiOdaVerisi = window.getMetatronFrequencyState(window.mevcutOdaSirasi + 1);
-
-            // Sahnedeki Three.js Mesh nesnelerini isimlerine göre yakala
-            const kaynakMesh = window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_ENERJI_ODASI`) || 
-                               window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_ITICI_ODA`) ||
-                               window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_KALKAN_ODASI`) ||
-                               window.KuantumKafesi.getObjectByName(`${mevcutOdaVerisi.renk.toUpperCase()}_KABUK_ODASI`);
-
-            const hedefMesh = window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_ENERJI_ODASI`) || 
-                              window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_ITICI_ODA`) ||
-                              window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_KALKAN_ODASI`) ||
-                              window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_KABUK_ODASI`);
-
-           if (kaynakMesh && hedefMesh) {
-                // 🎯 DÜZELTME 1: Statik sabitleme kaldırıldı! 
-                // Odanın ışığını pat diye eşitlemek yerine, mevcuttaki parlama değerinin üzerine 
-                // odanın milivolt/altın oran gücüne göre anlık bir uyarılma enerjisi (+darbe) ekliyoruz.
-                if (kaynakMesh.material) {
-                    let darbeGucu = mevcutOdaVerisi.mv > 0 ? 3 : 3;
-                    kaynakMesh.material.emissiveIntensity += darbeGucu; 
-                }
-
-                // Altın Oranlı Gluon Bölünmesi: Hız katsayısını doğrudan spektrumdaki fKatsayi ve altın oranla çarpıyoruz
-                let hizKatsayisi = 0.2; // Taban hızı sabitledik
-                
-                // Senin şaşmaz altın oranlı tırmanma ve sönümlenme kuralların:
-                if (mevcutOdaVerisi.mv > 0) hizKatsayisi *= 1.618; // 🚀 Sarı/Turuncu: Çarpılarak hızlanır
-                if (mevcutOdaVerisi.mv === 0) hizKatsayisi *= 1.0; // 🟢 Yeşil: Dengelenir
-                if (mevcutOdaVerisi.mv < 0) hizKatsayisi *= 0.618; // 🧊 Kırmızı/Mavi/Mor: Bölünerek yavaşlar
-
-                // 🎯 DÜZELTME 2: Parçacığın rengini odanın o anki (değişmiş olabilecek) renginden değil,
-                // doğrudan window.RENK_TAYFI_SPEKTRUMU sözlüğündeki akademinin mutlak ham renginden çekiyoruz!
-                let orijinalOdaRengi = 0xffffff;
-                if (mevcutOdaVerisi && mevcutOdaVerisi.renk) {
-                    // Sözlükteki renk ismine göre hex kodunu eşleştir
-                    const renkHaritasi = {
-                        "Kırmızı": 0xff1100, "Turuncu": 0xff5500, "Sarı": 0xffee00,
-                        "Yeşil": 0x00ff00, "Mavi": 0x0000ff, "Mor": 0x660099
-                    };
-                    orijinalOdaRengi = renkHaritasi[mevcutOdaVerisi.renk] || 0xffffff;
-                }
-
-                // Mantıksal kuantum paketini oluştur ve diziye fırlat
-                window.paketSayaci++;
-                window.aktifPaketler.push({
-                    id: window.paketSayaci,
-                    kaynak: kaynakMesh.position.clone(),
-                    hedef: hedefMesh.position.clone(),
-                    ilerleme: 0,
-                    hiz: hizKatsayisi,
-                    renkHex: orijinalOdaRengi, // Temiz, mutlak akademik renk kodlandı!
-                    hedefId: sonrakiOdaVerisi.id // Alt döngülerin hedefi doğru bulması için ID mühürlendi
-                });
-            }
-
-            // Bir sonraki odaya pürüzsüz doğrusal geçiş yap (Saniyede 6 odalı renk tayfı)
-            window.mevcutOdaSirasi = (window.mevcutOdaSirasi + 1) % 6;        }
-    }
-
-    
-// 🌀 KUVANTA BÜKÜMÜ: Sol taraf Ateş (Genişleyen), Sağ taraf Su (İçe Çekilen)
-// ============================================================================
-
-for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
-    let p = window.aktifPaketler[i];
-    p.ilerleme += p.hiz;
-
-
-// 🪐 BINARY PLANETS RETROGRADE YÖRÜNGE MOTORU
-if (p.mesh) {
-    const geciciPozisyon = new THREE.Vector3();
-    // Odalar arası ana taşıyıcı kuantum koridoru
-    geciciPozisyon.lerpVectors(p.kaynak, p.hedef, p.ilerleme);
-
-    // 🔑 GEZEGENSEL FAZ KİLİDİ: Eş merkezli ikili gezegenlerin (Binary) ortak kütleçekim dönüşü
-    // Frekansı 3 katına çıkartarak şemadaki o iç içe geçen daire yaylarını (ilmekleri) çizdiriyoruz
-    let binaryAci = p.ilerleme * Math.PI * 3; 
-    
-    // Yolun ortasında ve odaya giriş/çıkış anlarında sönümlenen pürüzsüz retrograde genliği
-    let retroGenlik = Math.sin(p.ilerleme * Math.PI) * 0.20;
-
-    // 🔄 ŞEMADAKİ KARŞILIKLI EŞ MERKEZLİ DÖNÜŞ (Eril ve Dişil Kilitli Yörünge)
-    // Parçacığın kimliğine veya kaynak odasına göre (Tek/Çift ID) ikili gezegen simetrisini kuruyoruz
-    if (p.id % 2 === 0) {
-        // 🪐 1. GEZEGEN (Eril Aks - Saat Yönü): Odada geriye bükülerek dış yörünge yayı çizer
-        geciciPozisyon.x += Math.cos(binaryAci) * retroGenlik;
-        geciciPozisyon.y += Math.sin(binaryAci) * retroGenlik;
-        geciciPozisyon.z += Math.sin(binaryAci) * retroGenlik * 0.5;
-    } else {
-        // 🪐 2. GEZEGEN (Dişil Aks - Anti-Saat Yönü): Tam karşıt fazda iç yörünge yayını (retrograde) tamamlar
-        geciciPozisyon.x -= Math.cos(binaryAci) * retroGenlik;
-        geciciPozisyon.y -= Math.sin(binaryAci) * retroGenlik;
-        geciciPozisyon.z -= Math.sin(binaryAci) * retroGenlik * 0.5;
-    }
-
-    // Parçacığın 3D konumunu Binary Kutsal Geometri hattına mühürle
-    p.mesh.position.copy(geciciPozisyon);
-}
-// ============================================================================
-// 🌈 SPEKTRAL REZONANS: FRENLENMİŞ HIZ BAZLI RENK EŞİKLERİ
-// ============================================================================
-if (p.mesh && p.mesh.material) {
-    
-    // Parçacık en kısa yolu seçip hızlandığı için, yüksek enerji renk sınırını yukarı çekiyoruz!
-    if (p.hiz > 0.035) {
-        // 🔮 KUVANTUM MORU / ULTRA FREKANS: Sadece en çılgın hız patlamalarında mor/turkuaz yansısın
-        p.mesh.material.color.setHex(0x660099); 
-    } else if (p.hiz > 0.022) {
-        // 🔥 ELEKTRİK MAVİSİ / DEPOLARIZASYON: Sarı odanın o meşhur yıldırım çakma anı
-        p.mesh.material.color.setHex(0x00ffff); 
-    } else if (p.hiz < 0.015) {
-        // 🚨 KOZMİK REDSHIFT / KIZILÖTESİ: Yavaşlayıp Kırmızı dinlenmeye girerken kor kırmızısı
-        p.mesh.material.color.setHex(0xff1100); 
-    } else {
-        // 🧬 DENGE FAZI KİLİDİ: p.id yerine doğrudan hedef odanın kimliğine göre cinsiyet tayini!
-        // Eğer gluon Eril koridora (Kırmızı, Sarı, Turuncu) akıyorsa Turkuaz, diğer durumlarda Pembe!
-        if (p.hedefId === 1 || p.hedefId === 4 || p.hedefId === 2) {
-            //p.mesh.material.color.setHex(0x00f5ff); // 🪐 ERİL: Kuantum Turkuaz koridoru
-        } else {
-            //p.mesh.material.color.setHex(0xff00bb); // 🪐 DİŞİL: Kozmik Pembe koridoru
-        }
-    }
-}
-
-    // Hedefe ulaştıysa imha et
-    if (p.ilerleme >= 1.0) {
-        if (p.mesh) {
-            window.KuantumKafesi.remove(p.mesh);
-            p.mesh.geometry.dispose();
-            p.mesh.material.dispose();
-        }
-        window.aktifPaketler.splice(i, 1);
-    }
-}
-
-  
- // ============================================================================
-    // ❄️ DOUBLE VORTEX DOĞAL SÖNÜMLENME VE ARINMA MOTORU
-    // ============================================================================
+    // Passive decay to zero
     window.spheres.forEach(s => {
         const node = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}`);
-        
-        if (node?.material) {
-            if (window.akademikKalpAktif) {
-                // Her karede ışığı pürüzsüzce sıfıra doğru altın oran tümleyeni ile erit
-                node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.382);
-                
-                // Renkleri anında orijinal haline kilitle, kayma olmasın
-                node.material.color.setHex(s.color);
-                node.material.emissive.setHex(s.color);
-            } else {
-                // İlk açılışta ve kapanışta mat şasi temizliği
-                node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.382);
-                if (node.material.emissiveIntensity < 0.01) {
-                    node.material.emissiveIntensity = 0.0;
-                    node.material.color.setHex(0x111111);
-                    node.material.emissive.setHex(0x111111);
+        if (node) node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.236);
+    });
+
+    // Packet dynamics and collision check
+    for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
+        let p = window.aktifPaketler[i];
+        p.instance.guncelle(delta);
+        p.ilerleme = p.instance.ilerleme;
+
+        // Collision detection (>0.93 threshold)
+        if (p.ilerleme >= 0.93) {
+            const collisionDetected = window.aktifPaketler.some(digerPaket => 
+                digerPaket.id !== p.id && digerPaket.hedefId === p.hedefId && digerPaket.yon !== p.yon
+            );
+
+            // Activate chamber ONLY on head-on collision
+            if (collisionDetected) {
+                const targetChamber = window.KuantumKafesi.children.find(c => c.name === `ID_${p.hedefId}`);
+                if (targetChamber && window.akademikKalpAktif) {
+                    const color = window.spheres.find(s => s.id === p.hedefId)?.color;
+                    targetChamber.material.color.setHex(color);
+                    targetChamber.material.emissiveIntensity = (p.hedefId === 4) ? 6.0 : 4.5;
                 }
             }
         }
-    });
-
-    // Canlı gluonlar hedefe yaklaştıkça odayı uyarır
-    window.aktifPaketler.forEach(p => {
-        if (p.ilerleme > 0.85 && p.ilerleme < 1.0) {
-            const aktifOda = window.KuantumKafesi.children.find(c => c.name === `ID_${p.hedefId}`);
-            if (aktifOda?.material && window.akademikKalpAktif) {
-                let tavanGucu = (p.hedefId === 2 || p.hedefId === 4) ? 4.5 : 2.0;
-                aktifOda.material.emissiveIntensity = THREE.MathUtils.lerp(aktifOda.material.emissiveIntensity, tavanGucu, 0.618);
-            }
-        }
-    });
-
-  // ============================================================================
-    // 🔥 GLUON AKIMI ODAYA ULAŞTIĞINDA ANI YAKMA TETİĞİ (Milimetrik Çarpışma)
-    // ============================================================================
-    window.aktifPaketler.forEach(p => {
-        // 🎯 DÜZELTME: Tam çarpmadan hemen önce (%90 ilerlemede) odayı patlat!
-        if (p.ilerleme > 0.90 && p.ilerleme < 1.0) {
-            const aktifOda = window.KuantumKafesi.children.find(c => c.name === `ID_${p.hedefId}`);
-            if (aktifOda?.material && window.akademikKalpAktif) {
-                aktifOda.material.color.setHex(p.renkHex || 0xffffff);
-                aktifOda.material.emissive.setHex(p.renkHex || 0xffffff);
-                
-                // Senin o meşhur uyarılma çarpanın devrede
-                //aktifOda.material.emissiveIntensity = THREE.MathUtils.lerp(aktifOda.material.emissiveIntensity, 4.5, 0.618);
-            }
-        }
-    });
-
-    // 🖥 Ekrana Çizim Motoru
+        // Cleanup
+        if (p.ilerleme >= 1.0) { /* dispose mesh */ }
+    }
     window.renderer.render(window.scene, window.camera);
 };
+
 // ============================================================================
 // METATRON CANLI DURUM OKUMA VE DIŞARIYA SİNYAL VERME MOTORU
 // ============================================================================
@@ -1102,13 +918,13 @@ window.addEventListener('resize', () => {
 // ============================================================================
 // 📢 CONTROL DECK RECEIVER BRIDGE (HARİCİ KARE BUTONLARDAN GELEN EMİR MOTORU)
 // ============================================================================
+// ============================================================================
+// 📢 MASTER RECEIVER BRIDGE - EXECUTION MATRIX
+// ============================================================================
 window.addEventListener("message", (event) => {
-    if (!event.data) return;
+    if (!event.data || !event.data.komut) return;
 
-    
-    // ============================================================================
     // 📢 MASTER RECEIVER BRIDGE - EMİR 4: KUZEY IŞIĞI TEPEDEN BAKIŞ AKTİFLEYİCİ
-    // ============================================================================
     if (event.data.komut === "SET_TOP_VIEW") {
         if (typeof window.setTopView === "function") {
             window.setTopView();
@@ -1116,10 +932,10 @@ window.addEventListener("message", (event) => {
         }
     }
 
-    // 🔴 1. Eksen Milleri Aç/Kapat Tetiği (Senin init içinde bilerek uyanık açtığın miller)
+    // 🔴 1. Eksen Milleri Aç/Kapat Tetiği
     if (event.data.komut === "EKSEN_DURUMU_DEGISTIR") {
         let butonGelenDurum = event.data.durum; // true veya false sinyali gelir
-        if (window.createMetatronAxes) {
+        if (typeof window.createMetatronAxes === "function") {
             window.createMetatronAxes(butonGelenDurum); 
         }
     }
@@ -1136,11 +952,47 @@ window.addEventListener("message", (event) => {
         }
     }
 
-     // 🛑 EMİR: Kuantum Kalp Atış Şalteri (Double Vortex Başlatıcı)
+    // 🛑 EMİR: Kuantum Kalp Atış Şalteri (Double Vortex Başlatıcı & Temizleyici)
     if (event.data.komut === "HEART_TOGGLE") {
         window.akademikKalpAktif = event.data.durum;
-        // Akımı başlat veya durdur
-        event.data.durum ? window.startVortexFlux() : window.stopVortexFlux();
+        
+        if (event.data.durum) {
+            // 🚀 Start the fluid vortex flow from step 0
+            if (typeof window.startVortexFlux === "function") {
+                window.startVortexFlux();
+            }
+        } else {
+            // 🛑 Stop timer and purge stuck packets to prevent red-blue misfires on relaunch
+            if (typeof window.stopVortexFlux === "function") {
+                window.stopVortexFlux();
+            }
+            
+            // Flush mid-flight quantum packet meshes out of memory
+            if (window.aktifPaketler && window.aktifPaketler.length > 0) {
+                for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
+                    let p = window.aktifPaketler[i];
+                    if (p.mesh) {
+                        window.KuantumKafesi.remove(p.mesh);
+                        if (p.mesh.geometry) p.mesh.geometry.dispose();
+                        if (p.mesh.material) p.mesh.material.dispose();
+                    }
+                }
+                window.aktifPaketler = []; 
+            }
+            
+            // Instantly kill emissive leakage on all structural nodes
+            if (window.spheres) {
+                window.spheres.forEach(s => {
+                    const nodeMesh = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}`);
+                    if (nodeMesh && nodeMesh.material) {
+                        nodeMesh.material.emissiveIntensity = 0.0;
+                    }
+                });
+            }
+            
+            // Force reset sequence pointer to initial yellow fusion alignment
+            window.vortexPointer = 0;
+            console.log("[HEART_TOGGLE] Quantum engine reset and purged to baseline state.");
+        }
     }
 });
-
