@@ -392,6 +392,13 @@ window.updateMetatronLoop = function() {
     // Eğer temel Three.js nesneleri henüz sahnede yoksa döngüden güvenle çık (Hata fırlatmaz)
     if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
 
+    
+    // ============================================================================
+    // 🫀 2. MADDE MATRİSİ AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU (PARÇACIK DOĞUMU)
+    // ============================================================================
+    const rodinDizisiA = [1, 4, 7, 8, 5, 2]; // Eril Akış Hattı (Saat Yönü İleri)
+    const rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Dişil Akış Hattı (Ters Saat Yönü Geri)
+
     // --- RODIN & AC KALBİ (GÜNCELLENMİŞ) ---
     const rodinDizisi = [1,2,4,8,7,5]; // Dizi tamamlandı
     const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length;
@@ -405,8 +412,15 @@ window.updateMetatronLoop = function() {
     if (typeof window.biyolojikKareSayaci === "undefined") window.biyolojikKareSayaci = 0;
     window.biyolojikKareSayaci++;
 
-    // 🎯 MATEMATİKSEL MÜHÜR: Küsüratlı yapı kaldırıldı, 25 FPS'te tam 10 karede bir vuruş.
-    let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
+// --- 🛠 🔑 %100 AKSA HİZALI 74 BPM BİYOLOJİK MOTOR ---
+// (Bu kısım, kare sayacından bağımsız çalışan indeks mekanizmasıyla zaman kaymasını önler)
+let ateslemeRitmi = (window.biyolojikKareSayaci % 10 === 0);
+
+
+// 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
+let hamIndex = Math.floor(window.biyolojikKareSayaci / 10);
+window.aktifIndexA = hamIndex % rodinDizisiA.length;
+window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
 
     // 🌊 1. Odaların parlaklığını pürüzsüzce söndür (Gecikmesiz plazma sönümü)
@@ -418,26 +432,12 @@ window.updateMetatronLoop = function() {
     });
 
 
-    // ============================================================================
-    // 🫀 2. MADDE MATRİSİ AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU (PARÇACIK DOĞUMU)
-    // ============================================================================
-    const rodinDizisiA = [1, 4, 7, 8, 5, 2]; // Eril Akış Hattı (Saat Yönü İleri)
-    const rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Dişil Akış Hattı (Ters Saat Yönü Geri)
-
-
     if (typeof window.aktifIndexA === "undefined") window.aktifIndexA = 0;
     if (typeof window.aktifIndexB === "undefined") window.aktifIndexB = 0;
 
-    
 
   if (ateslemeRitmi && window.aktifPaketler && window.aktifPaketler.length < 36) {
     
-    // 🔑 MUTLAK FREKANS KİLİDİ: 
-    // Mermi fırlatma ritmi, 432 Hz oktav hızıyla (1.5 çarpanıyla) %100 eşitlendi.
-    //let saniyeZamani = performance.now() * 0.001;
-    //let hamRitim = Math.floor(saniyeZamani * 1.5);
-        
-
 
             let kaynakA = window.spheres.find(o => o.id === rodinDizisiA[window.aktifIndexA]);
             let hedefA = window.spheres.find(o => o.id === rodinDizisiA[(window.aktifIndexA + 1) % rodinDizisiA.length]);
