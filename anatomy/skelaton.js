@@ -57,7 +57,7 @@ window.createMetatronAxes = function(isAxisVisible) {
 };
 
 
-window.initMetatronEngine = function() {
+window.initSkelaton = function() {
 
     // 1. Ana Sahne Kurulumu
     window.scene = new THREE.Scene(); 
@@ -293,4 +293,4 @@ window.initMetatronEngine = function() {
 const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
-} // 👈 BÜYÜK AMİRAL GEMİSİ 'window.initMetatronEngine' İŞTE TAM BURADA GÜVENLE KAPANDI GERİZEKALI OÇ!
+} // 👈 BÜYÜK AMİRAL GEMİSİ 'window.initMetatronEngine' DIŞARDA GÜVENLE KAPANDI GERİZEKALI OÇ!
