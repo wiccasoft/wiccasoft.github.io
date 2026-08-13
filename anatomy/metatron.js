@@ -291,13 +291,13 @@ window.startVortexFlux = function() {
     window.akimZamanlayici = setInterval(() => {
         if (!window.akademikKalpAktif) return;
 
-        // 🌟 KESİN ÇÖZÜM: Akademik milivolt durumunu en başta çekiyoruz ki tüm fonksiyon görebilsin!
+        // Akademik milivolt durumunu en başta çekiyoruz
         const odaVerisi = window.getMetatronFrequencyState(window.vortexPointer);
 
         let mevcutId = MATTER_SEQUENCE[window.vortexPointer];
         let sonrakiId = MATTER_SEQUENCE[(window.vortexPointer + 1) % MATTER_SEQUENCE.length];
 
-        // 🔑 1. VİDA: Frenlenmiş taban hız katsayısı (Yukarı alınan odaVerisi ile sarsılmaz uyumda)
+        // Frenlenmiş taban hız katsayısı (Altın oran sürekliliği)
         let hizKatsayisi = 0.018; 
         if (odaVerisi.mv > 0) hizKatsayisi *= 1.618; // Sarı odada ivmelenme çarpanı
         if (odaVerisi.mv < 0) hizKatsayisi *= 0.618; // Dinlenme odalarında yavaşlama
@@ -309,32 +309,32 @@ window.startVortexFlux = function() {
         if (kaynakMesh && hedefMesh) {
             
             // ============================================================================
-            // 🔥 ODA ATEŞLEME VE VOLTAJ PARLAMASI
+            // 🔥 ODA ATEŞLEME VE VOLTAJ PARLAMASI (Dinamik Darbe Modeli)
             // ============================================================================
             if (kaynakMesh.material) {
-                // 💡 Sarı oda (+20 mV Depolarizasyon) ise 3.5 katı devasa bir patlama yarat!
-                kaynakMesh.material.emissiveIntensity = odaVerisi.mv > 0 ? 3.5 : 1.5;
+                // 🎯 DÜZELTME 1: Işığı doğrudan eşitlemek yerine anlık bir darbe gücü ekliyoruz.
+                // Alt taraftaki sönme kalkanı bu darbeyi her karede eritecek!
+                let darbeGucu = odaVerisi.mv > 0 ? 3.5 : 1.5;
+                kaynakMesh.material.emissiveIntensity = darbeGucu;
                 
-                // Kürenin rengini karartılmış mat halinden kendi saf enerjisel rengine geri döndür!
                 const orijinalRenk = window.spheres.find(s => `ID_${s.id}` === kaynakMesh.name)?.color || 0xffffff;
                 kaynakMesh.material.color.setHex(orijinalRenk);
                 kaynakMesh.material.emissive.setHex(orijinalRenk);
             }
 
-            // 🔴 PARÇACIK GÖRSEL KATMANI: Ekranda görünecek pembe akım küresi
-            const paketGeometri = new THREE.SphereGeometry(0.04, 8, 8); // Küçük hafif bir gluon
+            // 🔴 PARÇACIK GÖRSEL KATMANI: Sabit pembe yerine, odanın kendi orijinal rengini alsın!
+            const orijinalRenk = window.spheres.find(s => `ID_${s.id}` === kaynakMesh.name)?.color || 0xffffff;
+
+            const paketGeometri = new THREE.SphereGeometry(0.04, 8, 8); 
             const paketMateryal = new THREE.MeshBasicMaterial({
-                color: 0xff00ff, // Pembe Akım Rengi
+                color: orijinalRenk, // 🎯 DÜZELTME: Sabit pembe (0xff00ff) silindi, orijinal oda rengi çivilendi!
                 transparent: true,
                 opacity: 0.9
             });
             const meshParcacik = new THREE.Mesh(paketGeometri, paketMateryal);
             meshParcacik.position.copy(kaynakMesh.position);
 
-            // Fiziksel parçacığı ana gruba ekle ki ekranda gözüksün!
             window.KuantumKafesi.add(meshParcacik);
-
-            // 🔑 MÜKERRER HIZ TANIMI KALDIRILDI: Yukarıda hesaplanan dinamik hizKatsayisi direkt kullanılıyor!
 
             // Parçacığı canlı listeye ekle
             window.paketSayaci++;
@@ -344,12 +344,15 @@ window.startVortexFlux = function() {
                 hedef: hedefMesh.position.clone(),
                 ilerleme: 0,
                 hiz: hizKatsayisi,
-                mesh: meshParcacik
+                mesh: meshParcacik,
+                hedefId: sonrakiId,
+                kaynakId: mevcutId,
+                renkHex: orijinalRenk // 🎯 DÜZELTME: Alt döngülerin okuması için temiz renk mühürlendi
             });
         }
         
         window.vortexPointer = (window.vortexPointer + 1) % MATTER_SEQUENCE.length;
-    }, 480); // 🔑 2. VİDA: 480ms sakin biyolojik ritim kilidi
+    }, 480); 
 };
 
 // 🛑 Akımı ve zamanlayıcıyı tamamen kapatan fonksiyon
@@ -358,10 +361,8 @@ window.stopVortexFlux = function() {
         clearInterval(window.akimZamanlayici);
         window.akimZamanlayici = null;
     }
-    // Havadaki tüm paketleri anında ve temizce bellekten uçur
     window.aktifPaketler = [];
 };
-
 
 // ============================================================================
 // DOUBLE VORTEX VE KUTSAL KAN POMPALAMA MOTORU (DOĞRUSAL RENK TAYFI FAZI)
@@ -403,17 +404,34 @@ window.updateMetatronLoop = function() {
                               window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_KALKAN_ODASI`) ||
                               window.KuantumKafesi.getObjectByName(`${sonrakiOdaVerisi.renk.toUpperCase()}_KABUK_ODASI`);
 
-            if (kaynakMesh && hedefMesh) {
-                // Enerji akışı başlarken kaynak odanın ışık yoğunluğunu (Aydınlanmasını) patlat
+           if (kaynakMesh && hedefMesh) {
+                // 🎯 DÜZELTME 1: Statik sabitleme kaldırıldı! 
+                // Odanın ışığını pat diye eşitlemek yerine, mevcuttaki parlama değerinin üzerine 
+                // odanın milivolt/altın oran gücüne göre anlık bir uyarılma enerjisi (+darbe) ekliyoruz.
                 if (kaynakMesh.material) {
-                    kaynakMesh.material.emissiveIntensity = mevcutOdaVerisi.mv > 0 ? 2.5 : 1.2; 
+                    let darbeGucu = mevcutOdaVerisi.mv > 0 ? 0.01 : 0.01;
+                    kaynakMesh.material.emissiveIntensity += darbeGucu; 
                 }
 
-                // Altın Oranlı Gluon Bölünmesi: Sarı Odada (+20mV) enerji katlanır, hızı 1.618 ile çarpılır
-                let hizKatsayisi = 0.05;
-                if (mevcutOdaVerisi.mv > 0) hizKatsayisi *= 1.618; // Depolarizasyon Genleşmesi
-                if (mevcutOdaVerisi.mv === 0) hizKatsayisi *= 1.0; // Topraklama Fazı
-                if (mevcutOdaVerisi.mv < 0) hizKatsayisi *= 0.618; // Gevşeme ve Sönümlenme
+                // Altın Oranlı Gluon Bölünmesi: Hız katsayısını doğrudan spektrumdaki fKatsayi ve altın oranla çarpıyoruz
+                let hizKatsayisi = 0.02; // Taban hızı sabitledik
+                
+                // Senin şaşmaz altın oranlı tırmanma ve sönümlenme kuralların:
+                if (mevcutOdaVerisi.mv > 0) hizKatsayisi *= 1.618; // 🚀 Sarı/Turuncu: Çarpılarak hızlanır
+                if (mevcutOdaVerisi.mv === 0) hizKatsayisi *= 1.0; // 🟢 Yeşil: Dengelenir
+                if (mevcutOdaVerisi.mv < 0) hizKatsayisi *= 0.618; // 🧊 Kırmızı/Mavi/Mor: Bölünerek yavaşlar
+
+                // 🎯 DÜZELTME 2: Parçacığın rengini odanın o anki (değişmiş olabilecek) renginden değil,
+                // doğrudan window.RENK_TAYFI_SPEKTRUMU sözlüğündeki akademinin mutlak ham renginden çekiyoruz!
+                let orijinalOdaRengi = 0xffffff;
+                if (mevcutOdaVerisi && mevcutOdaVerisi.renk) {
+                    // Sözlükteki renk ismine göre hex kodunu eşleştir
+                    const renkHaritasi = {
+                        "Kırmızı": 0xff1100, "Turuncu": 0xff5500, "Sarı": 0xffee00,
+                        "Yeşil": 0x00ff00, "Mavi": 0x0000ff, "Mor": 0x660099
+                    };
+                    orijinalOdaRengi = renkHaritasi[mevcutOdaVerisi.renk] || 0xffffff;
+                }
 
                 // Mantıksal kuantum paketini oluştur ve diziye fırlat
                 window.paketSayaci++;
@@ -423,35 +441,24 @@ window.updateMetatronLoop = function() {
                     hedef: hedefMesh.position.clone(),
                     ilerleme: 0,
                     hiz: hizKatsayisi,
-                    renkHex: kaynakMesh.material.color.getHex()
+                    renkHex: orijinalOdaRengi, // Temiz, mutlak akademik renk kodlandı!
+                    hedefId: sonrakiOdaVerisi.id // Alt döngülerin hedefi doğru bulması için ID mühürlendi
                 });
             }
 
             // Bir sonraki odaya pürüzsüz doğrusal geçiş yap (Saniyede 6 odalı renk tayfı)
-            window.mevcutOdaSirasi = (window.mevcutOdaSirasi + 1) % 6;
-        }
+            window.mevcutOdaSirasi = (window.mevcutOdaSirasi + 1) % 6;        }
     }
 
-// 🌀 2. SAHNEDEKİ PARÇACIKLARIN POZİSYONLARINI VE SOĞUMA EFEKTLERİNİ GÜNCELLE
+    
+// 🌀 KUVANTA BÜKÜMÜ: Sol taraf Ateş (Genişleyen), Sağ taraf Su (İçe Çekilen)
+// ============================================================================
 
-// 🌀 Aktif paketleri güncelle, fiziksel olarak yürüt ve hedefe ulaşanları sil
-// 🌀 Sahnede uçan pembe küreleri KAVİSLİ/YAY şeklinde yürüt
 for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
     let p = window.aktifPaketler[i];
     p.ilerleme += p.hiz;
 
-// 🌀 KUVANTA BÜKÜMÜ: Sol taraf Ateş (Genişleyen), Sağ taraf Su (İçe Çekilen)
-// ============================================================================
-// 🌀 MONA LISA AYNALI KUVANTA BÜKÜMÜ (MÜHÜRLENDİ)
-// ============================================================================
-// ============================================================================
-// 🌌 KOZMİK REDSHIFT: MAVİDEN KIRMIZIYA KIZILÖTESİ KAYMA MOTORU
-// ============================================================================
-// ============================================================================
-// 🌀 REZONANS KİLİDİ: FAZ KARŞITLIĞI VE TERS SİNÜS DALGASI MOTORU
-// ============================================================================
-// 🌀 ŞEMAYA UYGUN ASİMETRİK TORUS AKIŞ MOTORU (Görseldeki sarmal yapı)
-// ⚡ REKTEFE EDİLMİŞ KIRMIZI-SARI KUVANTUM MOTORU
+
 // 🪐 BINARY PLANETS RETROGRADE YÖRÜNGE MOTORU
 if (p.mesh) {
     const geciciPozisyon = new THREE.Vector3();
@@ -519,39 +526,45 @@ if (p.mesh && p.mesh.material) {
     }
 }
 
-
-
+  
 // ============================================================================
-    // 🌬️ INFINITY PULSE: RİTMİK NEFES ALMA VE PARLAMA SİMÜLASYONU
-    // ============================================================================
-    if (window.sonsuzlukCizgisi && window.sonsuzlukCizgisi.material) {
-        window.sonsuzlukZamani += 0.03; // Nefes hızı katsayısı
-        
-        if (window.akademikKalpAktif) {
-            // Kalp aktifken akımla senkronize dalgalanan parıltı (0.08 ile 0.35 arası)
-            window.sonsuzlukCizgisi.material.opacity = 0.12 + Math.sin(window.sonsuzlukZamani) * 0.18;
-        } else {
-            // Kalp kapatıldığında pürüzsüzce sönerek baz loşluğuna (`0.05`) geri çekilsin
-            if (window.sonsuzlukCizgisi.material.opacity > 0.05) {
-                window.sonsuzlukCizgisi.material.opacity -= 0.01;
-            }
-        }
-    }
-
-  // ============================================================================
-    // ❄️ ODALARIN AKIM SONRASI KADEMELİ SOĞUMA VE KARARMA KALKANI
+    // ❄️ ODALARIN AKIM SONRASI KADEMELİ SOĞUMA VE KARARMA KALKANI (Kuvvetli Uyum)
     // ============================================================================
     window.spheres.forEach(s => {
-        const node = window.KuantumKafesi.getObjectByName(`ID_${s.id}`);
+        // Hafızadaki odaların ham referansını doğrudan çek (Arama yükü sıfırlandı)
+        const node = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}`);
+        
         if (node?.material) {
-            // Eğer oda hala parlaksa her karede hafifçe parlaklığını azalt
-            if (node.material.emissiveIntensity > 0.3) {
-                node.material.emissiveIntensity -= 0.04; // Soğuma/Sönme hızı
-            } else if (!window.akademikKalpAktif) {
-                // 🖤 Kalp kapatıldıysa odaları tamamen 0x111111 mat şasisine geri göm!
-                node.material.emissiveIntensity = 0.0;
-                node.material.color.setHex(0x111111);
-                node.material.emissive.setHex(0x111111);
+            if (window.akademikKalpAktif) {
+                // Koşulsuz olarak her karede mutlak sıfıra (0.0) doğru altın oran tümleyeni ile pürüzsüz erit
+                node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.382);
+                
+                // Oda soğurken renkleri pürüzsüzce orijinal rengine geri döndür
+                node.material.color.lerp(new THREE.Color(s.color), 0.1);
+                node.material.emissive.lerp(new THREE.Color(s.color), 0.1);
+            } else {
+                // Kalp kapatıldıysa veya ilk açılışta tamamen karart
+                node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.382);
+                if (node.material.emissiveIntensity < 0.01) {
+                    node.material.emissiveIntensity = 0.0;
+                    node.material.color.setHex(0x111111);
+                    node.material.emissive.setHex(0x111111);
+                }
+            }
+        }
+    });
+
+    // Eğer o odanın içinden canlı bir parçacık geçiyorsa, sönme eğrisini anlık ez ve odayı parlat!
+    window.aktifPaketler.forEach(p => {
+        if (p.ilerleme > 0.80 && p.ilerleme < 1.0) {
+            const aktifOda = window.KuantumKafesi.children.find(c => c.name === `ID_${p.hedefId}`);
+            if (aktifOda?.material && window.akademikKalpAktif) {
+                // 🎯 DÜZELTME: Oda parladığı salisede parçacığın getirdiği temiz akademik rengi giyer
+                aktifOda.material.color.setHex(p.renkHex || 0xffffff);
+                aktifOda.material.emissive.setHex(p.renkHex || 0xffffff);
+                
+                // Altın oran parlaması tavan yapar
+                aktifOda.material.emissiveIntensity = THREE.MathUtils.lerp(aktifOda.material.emissiveIntensity, 3.0, 0.618);
             }
         }
     });
@@ -559,7 +572,6 @@ if (p.mesh && p.mesh.material) {
     // 🖥 Ekrana Çizim Motoru
     window.renderer.render(window.scene, window.camera);
 };
-
 // ============================================================================
 // METATRON CANLI DURUM OKUMA VE DIŞARIYA SİNYAL VERME MOTORU
 // ============================================================================
@@ -678,13 +690,20 @@ window.initMetatronEngine = function() {
 window.spheres.forEach(s => {
     const sphere = new THREE.Mesh(
         new THREE.SphereGeometry(0.18, 32, 32),
-        new THREE.MeshPhongMaterial({
-            color: s.color, emissive: s.color, emissiveIntensity: 0.5,
-            transparent: true, opacity: 0.85
+        new THREE.MeshStandardMaterial({ // 🚀 Daha hassas ışık gradyanı için Standard seviyeye çekildi
+            color: 0x111111,             // 🧊 Açılışta mat ve nötr şasi rengi
+            emissive: 0x111111,          // 🧊 Açılışta sönük plazma oda rengi
+            emissiveIntensity: 0.0,      // 🎯 KİLİT HAMLE: Açılışta tamamen sönük (0.0) başlar, sarsıntı biter!
+            transparent: true, 
+            opacity: 0.85
         })
     );
     sphere.position.copy(s.pos);
-    sphere.name = `ID_${s.id}`; // 🔑 KESİN ÇÖZÜM: ID'leri mühürledik!
+    sphere.name = `ID_${s.id}`; 
+    
+    // 📦 KOPUKLUĞU BİTİREN REFAYALAMA: Sahne nesnesini doğrudan veri matrisine kilitleyin
+    s.meshRef = sphere; 
+    
     window.KuantumKafesi.add(sphere); 
 });
 // -------------------------------------
