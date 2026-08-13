@@ -368,147 +368,163 @@ window.mevcutOdaSirasi = 0; // Doğrusal spektrumda o an aktif olan oda indisi
 window.sonUretimZamani = 0; // İki parçacık üretimi arasındaki zaman kilidi
  
 
-let paketSayaci = 0; // Her parçacığa verilecek benzersiz seri numarası
 
 //let aktifDiziIndex = 0;
 let aktifIndexA = 0;
 let aktifIndexB = 0;
 
+
+if (typeof window.vortexFrameCounter === "undefined") window.vortexFrameCounter = 0;
+
 window.updateMetatronLoop = function() {
     const delta = 0.016;
 
-    // 🌊 1. Odaların parlaklığını pürüzsüzce söndür (Mevcut kararlı yapınız)
+    // Sahne hafıza güvenliği kontrolü
+    if (!window.scene || !window.renderer || !window.camera || !window.KuantumKafesi) return;
+
+    // 🌊 1. Odaların parlaklığını pürüzsüzce söndür (Gecikmesiz plazma sönümü)
     window.spheres.forEach(s => {
         const node = window.KuantumKafesi.children.find(c => c.name === `ID_${s.id}`);
-        if (node) {
-            // Işığın hafızada daha pürüzsüz kalması için sönüm hızı 0.12'ye çekildi
+        if (node && node.material) {
             node.material.emissiveIntensity = THREE.MathUtils.lerp(node.material.emissiveIntensity, 0.0, 0.12);
         }
     });
 
     // ============================================================================
-    // 🫀 2. SAF AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU (PARÇACIK DOĞUMU & ODALARI ILK YAKMA)
+    // 🫀 2. MADDE MATRİSİ AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU (PARÇACIK DOĞUMU)
     // ============================================================================
-    const rodinDizisiA = [1, 4, 7, 8, 5, 2];  // Madde Matrisi Eril
-    const rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Madde Matrisi Dişil (Ters Akış)
+    const rodinDizisiA = [1, 4, 7, 8, 5, 2]; // Eril Akış Hattı (Saat Yönü İleri)
+    const rodinDizisiB = [7, 4, 1, 5, 8, 2]; // Dişil Akış Hattı (Ters Saat Yönü Geri)
+
 
     if (typeof window.aktifIndexA === "undefined") window.aktifIndexA = 0;
     if (typeof window.aktifIndexB === "undefined") window.aktifIndexB = 0;
 
     let ateslemeRitmi = window.akademikKalpAktif;
 
-    if (ateslemeRitmi && window.aktifPaketler.length < 36) {
-        let kaynakA = window.spheres.find(o => o.id === rodinDizisiA[window.aktifIndexA]);
-        let hedefA = window.spheres.find(o => o.id === rodinDizisiA[(window.aktifIndexA + 1) % rodinDizisiA.length]);
+    if (ateslemeRitmi && window.aktifPaketler && window.aktifPaketler.length < 36) {
         
-        let kaynakB = window.spheres.find(o => o.id === rodinDizisiB[window.aktifIndexB]);
-        let hedefB = window.spheres.find(o => o.id === rodinDizisiB[(window.aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length]);
+        // 🔑 RİTMİK ZAMAN KİLİDİ: Her 24 karede bir (Yaklaşık 400ms - Kalp Ritmi) kesin olarak ateşle!
+        window.vortexFrameCounter++;
+        const canalRitmi = (window.vortexFrameCounter % 24 === 0);
 
-        let meshKA = window.KuantumKafesi.getObjectByName(kaynakA.name), meshHA = window.KuantumKafesi.getObjectByName(hedefA.name);
-        let meshKB = window.KuantumKafesi.getObjectByName(kaynakB.name), meshHB = window.KuantumKafesi.getObjectByName(hedefB.name);
+        if (canalRitmi) {
+            let kaynakA = window.spheres.find(o => o.id === rodinDizisiA[window.aktifIndexA]);
+            let hedefA = window.spheres.find(o => o.id === rodinDizisiA[(window.aktifIndexA + 1) % rodinDizisiA.length]);
+            
+            let kaynakB = window.spheres.find(o => o.id === rodinDizisiB[window.aktifIndexB]);
+            let hedefB = window.spheres.find(o => o.id === rodinDizisiB[(window.aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length]);
 
-        if (meshKA && meshHA && meshKB && meshHB) {
-            [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
-                const fazRölesi = p.t === "A" ? 0 : 4;
-                let sabitDelta = performance.now() * 0.001;
-                const canalRitmi = (Math.floor(sabitDelta * 20) + fazRölesi) % 8 === 0;
+            if (kaynakA && hedefA && kaynakB && hedefB) {
+                let meshKA = window.KuantumKafesi.getObjectByName(kaynakA.name);
+                let meshHA = window.KuantumKafesi.getObjectByName(hedefA.name);
+                let meshKB = window.KuantumKafesi.getObjectByName(kaynakB.name);
+                let meshHB = window.KuantumKafesi.getObjectByName(hedefB.name);
 
-                if (canalRitmi) {
-                    let odaMesh = window.KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
-                    if (odaMesh) {
-                        // 🚀 Parçacığı canlandır ve sahneye sal
-                        const yeniPaket = new window.KuantumPaketi(p.s, p.h, p.d.color, p.t, p.t === "A" ? "UP" : "DOWN");
-                        window.aktifPaketler.push({
-                            id: yeniPaket.uuid,
-                            instance: yeniPaket,
-                            hedefId: p.d.id,
-                            yon: p.t === "A" ? "ERIL" : "DISIL",
-                            ilerleme: 0
-                        });
-
-                        // 🔥 SİZİN ORİJİNAL 4-ELEMENT MASTER MOTORU FREKANS TETİKLEMESİ
-                        let marsFazı = rodinDizisiA[window.aktifIndexA];
-                        let saniyeZamani = sabitDelta;
-                        let kalpDalga174 = Math.sin(saniyeZamani * 1.74);
-                        let kalpDalga852 = Math.sin(saniyeZamani * 8.52);
-
-                        // Ses Enjektörü Köprüsü
-                        if (typeof window.kozmikFrekansCal === 'function') {
-                            if (marsFazı === 1 || marsFazı === 5) window.kozmikFrekansCal(174, 0.12);
-                            else if (marsFazı === 2 || marsFazı === 4) window.kozmikFrekansCal(432, 0.08);
-                            else if (marsFazı === 8) window.kozmikFrekansCal(528, 0.15);
-                            else if (marsFazı === 7) window.kozmikFrekansCal(852, 0.10);
-                        }
-
-                        // Element Odası Voltaj Atamaları
-                        if (marsFazı === 1 && odaMesh.name === "KIRMIZI_ENERJI_ODASI") {
-                            odaMesh.material.emissiveIntensity = 7.0 + (Math.abs(kalpDalga174) * 4.5);
-                        } else if ((marsFazı === 2 || marsFazı === 4) && (odaMesh.name === "TURUNCU_EMICI_ODA" || odaMesh.name === "SARI_ITICI_ODA")) {
-                            odaMesh.material.emissiveIntensity = (odaMesh.name === "SARI_ITICI_ODA") ? 6.5 : 6.0;
-                        } else if (marsFazı === 8 && odaMesh.name === "YESIL_ENERJI_ODASI") {
-                            odaMesh.material.emissiveIntensity = 5.5;
-                        } else if (marsFazı === 7 && odaMesh.name === "MAVI_KALKAN_ODASI") {
-                            odaMesh.material.emissiveIntensity = 6.8 + (kalpDalga852 * 1.5);
-                        } else if (marsFazı === 5 && (odaMesh.name === "MOR_KABUK_ODASI" || odaMesh.name === "BEYAZ_KUTUP_ODASI")) {
-                            const sinapsDalgasi963 = Math.sin(saniyeZamani * 9.63 * Math.PI);
-                            if (odaMesh.name === "MOR_KABUK_ODASI") {
-                                odaMesh.material.emissiveIntensity = 8.5 + (Math.abs(sinapsDalgasi963) * 3.5);
-                            } else {
-                                odaMesh.material.emissiveIntensity = 7.0 + (sinapsDalgasi963 * 1.5);
+                if (meshKA && meshHA && meshKB && meshHB) {
+                    
+                    // ⚡ ERİL VE DİŞİL PARÇACIKLARI AYNI ANDA DOĞUR
+                    [ { s: meshKA, h: meshHA, d: hedefA, t: "A" }, { s: meshKB, h: meshHB, d: hedefB, t: "B" } ].forEach(p => {
+                        let odaMesh = window.KuantumKafesi.getObjectByName(p.t === "A" ? meshHA.name : meshHB.name);
+                        
+                        if (odaMesh && odaMesh.material) {
+                            // Sınıfı çağır ve parçacığı canlandır
+                            if (typeof window.KuantumPaketi === "function") {
+                                const yeniPaket = new window.KuantumPaketi(p.s, p.h, p.d.color, p.t, p.t === "A" ? "UP" : "DOWN");
+                                window.aktifPaketler.push({
+                                    id: yeniPaket.uuid,
+                                    instance: yeniPaket,
+                                    hedefId: p.d.id,
+                                    yon: p.t === "A" ? "ERIL" : "DISIL",
+                                    ilerleme: 0
+                                });
                             }
-                        }
-                        odaMesh.material.opacity = 1.0;
-                    }
 
-                    // Madde Matrisi yörünge indeks vagonlarını kaydır
-                    if (p.t === "A") window.aktifIndexA = (window.aktifIndexA + 1) % rodinDizisiA.length;
-                    if (p.t === "B") window.aktifIndexB = (window.aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+                            // 🔑 ORİJİNAL 4-ELEMENT MASTER MOTORU FREKANS TETİKLEMESİ
+                            let marsFazı = rodinDizisiA[window.aktifIndexA];
+                            let saniyeZamani = performance.now() * 0.001;
+                            let kalpDalga174 = Math.sin(saniyeZamani * 1.74);
+                            let kalpDalga852 = Math.sin(saniyeZamani * 8.52);
+
+                            // Ses Köprüsü
+                            if (typeof window.kozmikFrekansCal === 'function') {
+                                if (marsFazı === 1 || marsFazı === 5) window.kozmikFrekansCal(174, 0.12);
+                                else if (marsFazı === 2 || marsFazı === 4) window.kozmikFrekansCal(432, 0.08);
+                                else if (marsFazı === 8) window.kozmikFrekansCal(528, 0.15);
+                                else if (marsFazı === 7) window.kozmikFrekansCal(852, 0.10);
+                            }
+
+                            // Element Voltaj Dağıtımı (İlk Ateşleme)
+                            if (marsFazı === 1 && odaMesh.name === "KIRMIZI_ENERJI_ODASI") {
+                                odaMesh.material.emissiveIntensity = 7.0 + (Math.abs(kalpDalga174) * 4.5);
+                            } else if ((marsFazı === 2 || marsFazı === 4) && (odaMesh.name === "TURUNCU_EMICI_ODA" || odaMesh.name === "SARI_ITICI_ODA")) {
+                                odaMesh.material.emissiveIntensity = (odaMesh.name === "SARI_ITICI_ODA") ? 6.5 : 6.0;
+                            } else if (marsFazı === 8 && odaMesh.name === "YESIL_ENERJI_ODASI") {
+                                odaMesh.material.emissiveIntensity = 5.5;
+                            } else if (marsFazı === 7 && odaMesh.name === "MAVI_KALKAN_ODASI") {
+                                odaMesh.material.emissiveIntensity = 6.8 + (kalpDalga852 * 1.5);
+                            } else if (marsFazı === 5 && (odaMesh.name === "MOR_KABUK_ODASI" || odaMesh.name === "BEYAZ_KUTUP_ODASI")) {
+                                const sinapsDalgasi963 = Math.sin(saniyeZamani * 9.63 * Math.PI);
+                                if (odaMesh.name === "MOR_KABUK_ODASI") {
+                                    odaMesh.material.emissiveIntensity = 8.5 + (Math.abs(sinapsDalgasi963) * 3.5);
+                                } else {
+                                    odaMesh.material.emissiveIntensity = 7.0 + (sinapsDalgasi963 * 1.5);
+                                }
+                            }
+                            odaMesh.material.opacity = 1.0;
+                        }
+                    });
+
+                    // 🧭 Vagon indekslerini senkronize kaydır (++ ve -- yönü)
+                    window.aktifIndexA = (window.aktifIndexA + 1) % rodinDizisiA.length;
+                    window.aktifIndexB = (window.aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
                 }
-            });
+            }
         }
     }
 
     // ============================================================================
-    // 🌀 3. PARÇACIK DİNAMİKLERİ VE HASSAS HEDEF ÇARPIŞMA KONTROLÜ (ODALARI İKİNCİ KEZ YAKMA)
+    // 🌀 3. PARÇACIK DİNAMİKLERİ VE HASSAS HEDEF ÇARPIŞMA KONTROLÜ
     // ============================================================================
-    for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
-        let p = window.aktifPaketler[i];
-        p.instance.guncelle(delta);
-        p.ilerleme = p.instance.ilerleme;
+    if (window.aktifPaketler && window.aktifPaketler.length > 0) {
+        for (let i = window.aktifPaketler.length - 1; i >= 0; i--) {
+            let p = window.aktifPaketler[i];
+            if (!p || !p.instance) continue;
+            
+            p.instance.guncelle(delta);
+            p.ilerleme = p.instance.ilerleme;
 
-        // Hassas hedef eşiği (>0.93)
-        if (p.ilerleme >= 0.93) {
-            // Sadece AYNI hedef odaya giden ve ZIT yönden gelen parçacığı denetle
-            const collisionDetected = window.aktifPaketler.some(digerPaket =>
-                digerPaket.id !== p.id && 
-                digerPaket.hedefId === p.hedefId && 
-                digerPaket.yon !== p.yon &&         
-                digerPaket.ilerleme >= 0.93         
-            );
+            if (p.ilerleme >= 0.93) {
+                const collisionDetected = window.aktifPaketler.some(digerPaket =>
+                    digerPaket &&
+                    digerPaket.id !== p.id && 
+                    digerPaket.hedefId === p.hedefId && 
+                    digerPaket.yon !== p.yon &&         
+                    digerPaket.ilerleme >= 0.93         
+                );
 
-            // Odaları İKİNCİ KEZ, Gerçek Çarpışma Anında Plazma Parlamasıyla Şokla!
-            if (collisionDetected) {
-                const targetChamber = window.KuantumKafesi.children.find(c => c.name === `ID_${p.hedefId}`);
-                if (targetChamber && window.akademikKalpAktif) {
-                    const color = window.spheres.find(s => s.id === p.hedefId)?.color;
-                    targetChamber.material.color.setHex(color);
-                    
-                    // Çarpışmanın gerçekleştiği odayı anlık rezonans şokuyla tepe noktaya fırlat
-                    if (p.hedefId === 4) targetChamber.material.emissiveIntensity = 9.0; // Sarı tepe uyarılma
-                    else if (p.hedefId === 2) targetChamber.material.emissiveIntensity = 7.5; // Turuncu absorbe
-                    else targetChamber.material.emissiveIntensity = 5.0; // Diğer odaların çarpışma anı
+                if (collisionDetected) {
+                    const targetChamber = window.KuantumKafesi.children.find(c => c.name === `ID_${p.hedefId}`);
+                    if (targetChamber && targetChamber.material && window.akademikKalpAktif) {
+                        const color = window.spheres.find(s => s.id === p.hedefId)?.color;
+                        if (color) targetChamber.material.color.setHex(color);
+                        
+                        if (p.hedefId === 4) targetChamber.material.emissiveIntensity = 9.0; 
+                        else if (p.hedefId === 2) targetChamber.material.emissiveIntensity = 7.5; 
+                        else targetChamber.material.emissiveIntensity = 5.0; 
+                    }
                 }
             }
-        }
 
-        // Bellek Temizliği (Cleanup)
-        if (p.ilerleme >= 1.0) {
-            if (p.mesh && window.KuantumKafesi) {
-                window.KuantumKafesi.remove(p.mesh);
-                if (p.mesh.geometry) p.mesh.geometry.dispose();
-                if (p.mesh.material) p.mesh.material.dispose();
+            // Temizlik (Cleanup)
+            if (p.ilerleme >= 1.0) {
+                if (p.instance.mesh && window.KuantumKafesi) {
+                    window.KuantumKafesi.remove(p.instance.mesh);
+                    if (p.instance.mesh.geometry) p.instance.mesh.geometry.dispose();
+                    if (p.instance.mesh.material) p.instance.mesh.material.dispose();
+                }
+                window.aktifPaketler.splice(i, 1);
             }
-            window.aktifPaketler.splice(i, 1);
         }
     }
 
