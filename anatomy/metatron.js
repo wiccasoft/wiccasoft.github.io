@@ -399,11 +399,6 @@ window.updateMetatronLoop = function() {
      // 🧭 Kristal Zamanlama ve Rodin İndeksleme (6'lık Nizam)
     if (typeof window.biyolojikKareSayaci === "undefined") window.biyolojikKareSayaci = 0;
     window.biyolojikKareSayaci++;
-   
-    // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
-    let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
-    window.aktifIndexA = hamIndex % rodinDizisiA.length;
-    window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
     // ============================================================================
     // 🫀 2. MADDE MATRİSİ AC MULTI-VORTEX TEKİL ENJEKSİYON MOTORU (PARÇACIK DOĞUMU)
@@ -415,6 +410,11 @@ window.updateMetatronLoop = function() {
     const rodinDizisi = [1,2,4,8,7,5]; // Dizi tamamlandı
     const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length;
     const aktifRodinDegeri = rodinDizisi[rodinIndeks];
+
+     // 🧭 Kristal Zamanlama Kilidi: İndeksleri doğrudan kare sayacına mühürlüyoruz.
+    let hamIndex = Math.floor(window.biyolojikKareSayaci / 6);
+    window.aktifIndexA = hamIndex % rodinDizisiA.length;
+    window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
 
     const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
     const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
