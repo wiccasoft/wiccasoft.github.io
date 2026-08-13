@@ -637,11 +637,20 @@ window.updateMetatronLoop = function() {
 
 
 
- 
-
-// 3. ARAYÜZE (UI) ANLIK YAZDIRMA MÜHÜRÜ
-//const rodinElement = document.getElementById("rodin-sinyali");
-//const kalpElement = document.getElementById("kalp-sinyali");
+  // ============================================================================
+    // 🧭 PERSPEKTİF UYARLI ELEMAN AKSI HOMEOSTASIS SÖNÜMLEME FİLTRESİ
+    // ============================================================================
+    const elementAksIsimleri = ["Siyah_Beyaz_Ates_Su", "Sari_Pembe_Hava_Toprak", "Kirmizi_Yesil_Aktif_Pasif", "Turuncu_Mavi_Merkez_Eter"];
+    
+    // Eğer kamera tepeden bakış açısını (Y: 10, X: 0, Z: 0) kaybettiyse, opasiteleri yumuşakça eski haline getir
+    const tepedenBakiliyorMu = Math.abs(window.camera.position.x) < 0.1 && Math.abs(window.camera.position.z) < 0.1;
+    
+    window.KuantumKafesi.children.forEach(child => {
+        if (elementAksIsimleri.includes(child.name) && child.material) {
+            let hedefOpasite = tepedenBakiliyorMu ? 0.85 : 0.25;
+            child.material.opacity = THREE.MathUtils.lerp(child.material.opacity, hedefOpasite, 0.1);
+        }
+    });
 
     window.renderer.render(window.scene, window.camera);
 };
@@ -1001,28 +1010,38 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
 // ============================================================================
-// SİMÜLASYON ÜST BAKIŞ (TOP VIEW) KADRAJ KİLİTLEME MOTORU (KESİN ÇÖZÜM)
+// 📢 KUZEY IŞIĞI TEPEDEN BAKIŞ VE ELEMAN AKSI PARLATICI MOTORU
 // ============================================================================
-window.setTopView = function() {
-    if (!window.camera) return;
+window.setTopView = function(camera, controls) {
+    if (!camera || !controls || !window.KuantumKafesi) return;
 
-    // 🔑 KESİN ÇÖZÜM: Kamerayı tam tepeden (Y ekseninden) aşağıya (0,0,0 merkezine) baktırıyoruz!
-    // Üstteki Orthographic matrisin kilitlenmemesi için pozisyonu tam tepeye dikiyoruz.
-    window.camera.position.set(0, 15, 0); 
-    
-    // Kameranın üst yön (up) vektörünü Z eksenine eşitlemeliyiz ki tepe bakışında kamera baş aşağı dönmesin!
-    window.camera.up.set(0, 0, -1);
-    
-    // Tam merkezdeki 5-Fold ve plazma şelalesinin kalbine baksın
-    window.camera.lookAt(0, 0, 0);
+    // 1. Kamerayı tam dikey Kuzey Kutup aksına (Kuzey Işığı) kilitliyoruz
+    camera.position.set(0, 10, 0);
+    camera.lookAt(0, 0, 0);
 
-    // OrbitControls kollarının hedefini tam merkeze çivile ve güncelleyerek fare hareketini buraya kilitle!
-    if (window.controls) {
-        window.controls.target.set(0, 0, 0);
-        window.controls.update();
-    }
-    
-    console.log("[CORE OPTICS] Kamera Tam Üst Bakış (Kuzey Işığı Hattı) Nizamına Çivilendi. 👁️");
+    // OrbitControls hedef noktasını sıfırlayıp matrisi senkronize et
+    controls.target.set(0, 0, 0);
+    controls.update();
+
+    // 2. 🌌 2D KOZMİK ZODYAK HARİTASI PARLAMA EFEKTİ
+    // Sahnede bulunan 4 Ana Element Aks çizgisini bulup opasitelerini arttırıyoruz
+    const elementAksIsimleri = [
+        "Siyah_Beyaz_Ates_Su", 
+        "Sari_Pembe_Hava_Toprak", 
+        "Kirmizi_Yesil_Aktif_Pasif", 
+        "Turuncu_Mavi_Merkez_Eter"
+    ];
+
+    window.KuantumKafesi.children.forEach(child => {
+        if (elementAksIsimleri.includes(child.name) && child.material) {
+            // Normalde 0.25 olan eterik opasiteyi tam karşıdan bakıldığında 
+            // 2D Zodyak kadranı gibi parlaması için 0.85 seviyesine çıkartıyoruz!
+            child.material.opacity = 0.85;
+            if(child.material.linewidth) child.material.linewidth = 3; 
+        }
+    });
+
+    console.log("[OPTICAL ENGINE] 2D Zodyak Matrisi Aktif: Element Kaburgaları Parlatıldı! 👁️✨");
 };
 
 // ============================================================================
