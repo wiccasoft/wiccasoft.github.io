@@ -376,6 +376,8 @@ let aktifIndexB = 0;
 
 if (typeof window.vortexFrameCounter === "undefined") window.vortexFrameCounter = 0;
 
+
+
 window.updateMetatronLoop = function() {
     const delta = 0.016;
 
@@ -408,6 +410,8 @@ window.updateMetatronLoop = function() {
         window.vortexFrameCounter++;
         const canalRitmi = (window.vortexFrameCounter % 24 === 0);
 
+        
+
         if (canalRitmi) {
             let kaynakA = window.spheres.find(o => o.id === rodinDizisiA[window.aktifIndexA]);
             let hedefA = window.spheres.find(o => o.id === rodinDizisiA[(window.aktifIndexA + 1) % rodinDizisiA.length]);
@@ -416,10 +420,10 @@ window.updateMetatronLoop = function() {
             let hedefB = window.spheres.find(o => o.id === rodinDizisiB[(window.aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length]);
 
             if (kaynakA && hedefA && kaynakB && hedefB) {
-                let meshKA = window.KuantumKafesi.getObjectByName(kaynakA.name);
-                let meshHA = window.KuantumKafesi.getObjectByName(hedefA.name);
-                let meshKB = window.KuantumKafesi.getObjectByName(kaynakB.name);
-                let meshHB = window.KuantumKafesi.getObjectByName(hedefB.name);
+                let meshKA = window.KuantumKafesi.getObjectByName(`ID_${kaynakA.id}`);
+                let meshHA = window.KuantumKafesi.getObjectByName(`ID_${hedefA.id}`);
+                let meshKB = window.KuantumKafesi.getObjectByName(`ID_${kaynakB.id}`);
+                let meshHB = window.KuantumKafesi.getObjectByName(`ID_${hedefB.id}`);
 
                 if (meshKA && meshHA && meshKB && meshHB) {
                     
@@ -440,44 +444,72 @@ window.updateMetatronLoop = function() {
                                 });
                             }
 
-                            // 🔑 ORİJİNAL 4-ELEMENT MASTER MOTORU FREKANS TETİKLEMESİ
-                            let marsFazı = rodinDizisiA[window.aktifIndexA];
+                            // 🔑 MAVİ'Yİ KURTARAN KİLİT: marsFazı artık merminin Tipine göre (A/B) özgürleşti!
+                            let marsFazı = p.t === "A" ? rodinDizisiA[window.aktifIndexA] : rodinDizisiB[window.aktifIndexB];
                             let saniyeZamani = performance.now() * 0.001;
                             let kalpDalga174 = Math.sin(saniyeZamani * 1.74);
                             let kalpDalga852 = Math.sin(saniyeZamani * 8.52);
 
-                            // Ses Köprüsü
-                            if (typeof window.kozmikFrekansCal === 'function') {
-                                if (marsFazı === 1 || marsFazı === 5) window.kozmikFrekansCal(174, 0.12);
-                                else if (marsFazı === 2 || marsFazı === 4) window.kozmikFrekansCal(432, 0.08);
-                                else if (marsFazı === 8) window.kozmikFrekansCal(528, 0.15);
-                                else if (marsFazı === 7) window.kozmikFrekansCal(852, 0.10);
+                            // 🔑 AKILLI ELEMAN FREKANS SES ENJEKTÖRÜ
+                            if (typeof kozmikFrekansCal === 'function') {
+                                if (marsFazı === 1 || marsFazı === 5) kozmikFrekansCal(174, 0.12);
+                                else if (marsFazı === 2 || marsFazı === 4) kozmikFrekansCal(432, 0.08);
+                                else if (marsFazı === 8) kozmikFrekansCal(528, 0.15);
+                                else if (marsFazı === 7) kozmikFrekansCal(852, 0.10);
                             }
-
-                            // Element Voltaj Dağıtımı (İlk Ateşleme)
-                            if (marsFazı === 1 && odaMesh.name === "KIRMIZI_ENERJI_ODASI") {
-                                odaMesh.material.emissiveIntensity = 7.0 + (Math.abs(kalpDalga174) * 4.5);
-                            } else if ((marsFazı === 2 || marsFazı === 4) && (odaMesh.name === "TURUNCU_EMICI_ODA" || odaMesh.name === "SARI_ITICI_ODA")) {
-                                odaMesh.material.emissiveIntensity = (odaMesh.name === "SARI_ITICI_ODA") ? 6.5 : 6.0;
-                            } else if (marsFazı === 8 && odaMesh.name === "YESIL_ENERJI_ODASI") {
-                                odaMesh.material.emissiveIntensity = 5.5;
-                            } else if (marsFazı === 7 && odaMesh.name === "MAVI_KALKAN_ODASI") {
-                                odaMesh.material.emissiveIntensity = 6.8 + (kalpDalga852 * 1.5);
-                            } else if (marsFazı === 5 && (odaMesh.name === "MOR_KABUK_ODASI" || odaMesh.name === "BEYAZ_KUTUP_ODASI")) {
-                                const sinapsDalgasi963 = Math.sin(saniyeZamani * 9.63 * Math.PI);
-                                if (odaMesh.name === "MOR_KABUK_ODASI") {
-                                    odaMesh.material.emissiveIntensity = 8.5 + (Math.abs(sinapsDalgasi963) * 3.5);
-                                } else {
-                                    odaMesh.material.emissiveIntensity = 7.0 + (sinapsDalgasi963 * 1.5);
+  // ============================================================================
+                            // 🌊 🪨 🌬️ 🔥 SİZİN ORİJİNAL 4-ELEMENT MASTER MOTORUNUZ (STRING İSİMLERİ KORUNDU)
+                            // ============================================================================
+                            
+                            // 🍼 1. SU KRALLIĞI: URINARY GİRİŞ KAPISI (Faz: 1)
+                            if (marsFazı === 1) {
+                                if (odaMesh.name === "KIRMIZI_ENERJI_ODASI") {
+                                    let suTabanPuls = 7.0 + (Math.abs(kalpDalga174) * 4.5);
+                                    odaMesh.material.emissiveIntensity = suTabanPuls;
+                                    odaMesh.material.opacity = 1.0;
                                 }
                             }
-                            odaMesh.material.opacity = 1.0;
-                        }
-                    });
+                            // 🪐 2. SU KRALLIĞI: DIGESTIVE İŞLEME KAPISI (Faz: 2 & 4)
+                            else if (marsFazı === 2 || marsFazı === 4) {
+                                if (odaMesh.name === "TURUNCU_EMICI_ODA" || odaMesh.name === "SARI_ITICI_ODA") {
+                                    odaMesh.material.emissiveIntensity = (odaMesh.name === "SARI_ITICI_ODA") ? 6.5 : 6.0;
+                                    odaMesh.material.opacity = 0.9;
+                                }
+                            }
+                            // 🪨 3. TOPRAK KRALLIĞI: SKELETAL SYSTEM (Faz: 8)
+                            else if (marsFazı === 8) {
+                                if (odaMesh.name === "YESIL_ENERJI_ODASI") {
+                                    odaMesh.material.emissiveIntensity = 5.5; 
+                                    odaMesh.material.opacity = 0.85;
+                                }
+                            }
+                            // 🌬️ 4. HAVA KRALLIĞI: PULMONARY SHIELD (Faz: 7)
+                            // 🔑 MAVİ ODA BURADA KURTARILDI: Dişil mermi Faz 7 olduğunda bu string kapısını başarıyla açar!
+                            else if (marsFazı === 7) {
+                                if (odaMesh.name === "MAVI_KALKAN_ODASI") {
+                                    odaMesh.material.emissiveIntensity = 6.8 + (kalpDalga852 * 1.5);
+                                    odaMesh.material.opacity = 0.95;
+                                }
+                            }
+                            // 🔑 🔥 5. ATEŞ KRALLIĞI: NERVOUS SYSTEM & BRAIN LIGHTNING (Faz: 5)
+                            else if (marsFazı === 5) {
+                                const sinapsDalgasi963 = Math.sin(saniyeZamani * 963 * Math.PI);
+                                if (odaMesh.name === "MOR_KABUK_ODASI" || odaMesh.name === "BEYAZ_KUTUP_ODASI") {
+                                    if (odaMesh.name === "MOR_KABUK_ODASI") {
+                                        odaMesh.material.emissiveIntensity = 8.5 + (Math.abs(sinapsDalgasi963) * 3.5);
+                                        odaMesh.material.opacity = 1.0;
+                                    } else {
+                                        odaMesh.material.emissiveIntensity = 7.0 + (sinapsDalgasi963 * 1.5);
+                                    }
+                                }
+                            }
+                        } // <-- if (odaMesh && odaMesh.material) kapanışı
+                    }); // <-- Enjeksiyon forEach döngüsünün kapanışı
 
-                    // 🧭 Vagon indekslerini senkronize kaydır (++ ve -- yönü)
+                    // 🧭 Kutsal Omurga Aks Kilidi: Eril ileri giderken, 
+                    // Dişil otomatik olarak onun 6'lı çark nizamındaki tam 180 derece karşısına kilitlenir!
                     window.aktifIndexA = (window.aktifIndexA + 1) % rodinDizisiA.length;
-                    window.aktifIndexB = (window.aktifIndexB - 1 + rodinDizisiB.length) % rodinDizisiB.length;
+                    window.aktifIndexB = (window.aktifIndexA + 3) % rodinDizisiB.length;
                 }
             }
         }
@@ -527,6 +559,79 @@ window.updateMetatronLoop = function() {
             }
         }
     }
+
+
+// 3. DEŞARJ DÖNGÜSÜ (GEZEGEN ENERJİ ALANLARI VE ASİMETRİK FREKANS BAĞLANTISI - TAMİR EDİLDİ)
+      spheres.forEach(s => {
+        // 🔑 KİLİT TAMİR 1: Bilgisayarın odayı bulması için isim şablonu düzeltildi!
+        let odaMesh = KuantumKafesi.getObjectByName(`ID_${s.id}`);
+        
+        if (odaMesh && !s.isPole && odaMesh.material) {
+            // 🪐 GEZEGEN ENERJİ FREKANS MATRİSİ: Deşarj hızları Walter Russell iniş-çıkış aksına bağlı!
+            let gezegenEnerjiAlani = 28.0; 
+
+            // 1. Kırmızı (1) ve Yeşil (8) -> Deli gibi yanan, enerjiyi tutan kutup ikiye bölen aks
+            if (s.id === 1 || s.id === 8) {
+                gezegenEnerjiAlani = 8.0; // Çok yavaş söner, ışığı uzun süre tutar!
+            }
+            // 2. Turuncu (2) ve Sarı (4) -> İniş frekansı (Merkeze emilen ve sapan gibi boşalan alan)
+            else if (s.id === 2 || s.id === 4) {
+                gezegenEnerjiAlani = 45.0; // Yıldırım hızıyla deşarj olur, anlık havai fişek patlaması verir!
+            }
+            // 3. Mavi (7) ve Mor (5) -> Çıkış frekansı (Kinetik enerjinin yukarı tırmandığı alan)
+            else if (s.id === 7 || s.id === 5) {
+                gezegenEnerjiAlani = 18.0; // Orta hızda süzülerek söner.
+            }
+
+            // ============================================================================
+            // 🔑 KİLİT TAMİR 2: MAVİ VE DİĞER ODALARI KURTARAN GLUON YAKLAŞMA ENJEKSİYONU
+            // ============================================================================
+            // Odalar sönmeden önce, o odaya doğru fırlatılmış canlı bir gluon varsa voltajı besler!
+            window.aktifPaketler.forEach(p => {
+                if (p.hedefId === s.id) {
+                    // Mavi oda (7) hızlı deşarja kurban gitmesin diye üs katsayısı pürüzsüzleştirildi
+                    let usKatsayisi = (s.id === 7) ? 1.5 : 3.0;
+                    let uyarilmaVoltaji = Math.pow(p.ilerleme, usKatsayisi) * 7.5; 
+                    
+                    odaMesh.material.emissive.setHex(s.color); // Odanın öz spektrum rengi
+                    odaMesh.material.emissiveIntensity = Math.max(odaMesh.material.emissiveIntensity, uyarilmaVoltaji);
+                    odaMesh.material.opacity = Math.max(odaMesh.material.opacity, 0.5 + (p.ilerleme * 0.5));
+                }
+            });
+
+            // 🔑 Orijinal Walter Russell Doğal Homeostasis Azalımı (Senin Yazdığın Deşarj Filtresi)
+            if (odaMesh.material.emissiveIntensity > 0.3) {
+                odaMesh.material.emissiveIntensity -= delta * gezegenEnerjiAlani;
+            }
+            if (odaMesh.material.opacity > 0.15) {
+                odaMesh.material.opacity -= delta * (odaMesh.material.opacity > 0.35 ? (gezegenEnerjiAlani * 0.06) : (gezegenEnerjiAlani * 0.12));
+            }
+        }
+    });
+
+
+
+    // ============================================================================
+// === ⚡ KOZMİK FREKANS VE RODIN MATRİS MOTORU + UI MÜHÜRLEME KATMANI ===
+// ============================================================================
+const milisaniyeZamani = performance.now();
+// 🔑 KİLİT TAMİR: Yorum satırı kaldırıldı! saniyeZamani artık tüm dalgaları besliyor.
+const saniyeZamani = milisaniyeZamani * 0.001; 
+
+// 1. Doğru Akım (DC) Rodin Döngüsü: 1-2-4-8-7-5 saniyede bir kayar
+const rodinDizisi =[1,2,4,8,7,5];
+const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length; // 432 Hz oktav hızında kayma
+const aktifRodinDegeri = rodinDizisi[rodinIndeks];
+
+// 2. Alternatif Akım (AC) Kalp Titreşimi (174 Hz ve 852 Hz Girişimi)
+const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
+const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
+// Dalga şiddetini pozitif bir gürültüye çevirip arayüze basıyoruz
+const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
+
+// 3. ARAYÜZE (UI) ANLIK YAZDIRMA MÜHÜRÜ
+//const rodinElement = document.getElementById("rodin-sinyali");
+//const kalpElement = document.getElementById("kalp-sinyali");
 
     window.renderer.render(window.scene, window.camera);
 };
@@ -916,7 +1021,7 @@ window.setTopView = function() {
 // 🔑 COUPLING DIRECTLY TO WINDOW CONTEXT: Time variables and the animate loop 
 // are anchored globally to prevent frame-skipping and temporal desync inside the browser engine.
 
-window.globalDönüşHızı = 0.005; 
+window.globalDönüşHızı = 0.001; 
 const hedefFPS = 25;
 const kareAralığı = 1000 / hedefFPS; // 40ms
 window.sonKareZamanı = performance.now();
