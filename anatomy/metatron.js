@@ -352,7 +352,7 @@ window.startVortexFlux = function() {
         }
         
         window.vortexPointer = (window.vortexPointer + 1) % MATTER_SEQUENCE.length;
-    }, 480); 
+    }, 240); 
 };
 
 // 🛑 Akımı ve zamanlayıcıyı tamamen kapatan fonksiyon
