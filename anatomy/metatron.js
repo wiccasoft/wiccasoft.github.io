@@ -131,17 +131,39 @@ function MetatronPipeline() {
 }
 
 // ============================================================================
-// 🌊 RESERVED METABOLIC CORE (YOUR LIVE VECTOR FLOWS GO HERE)
+// 🌊 SKELETON.JS - METATRON LIVE POLARITY VECTOR FLOWS (20 Lines)
 // ============================================================================
 window.MetatronEngine = function() {
-    // Structural cage and skeleton data are isolated safely inside skeleton.js.
-    // Chambers are perfectly injected onto the matrix vectors from model metadata.
-    
-    // Ready for your exact 20-line pure polarity loop:
-    // 1. Red ↔ Blue meeting at Yellow with Phi multiplier acceleration.
-    // 2. Red ↔ Green meeting at Yellow to instantiate electromagnetic pole.
-};
+    if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
+    window.activePackets = window.activePackets || [];
 
+    // 1. Tüm Spektrum Odalarının Sönümlenme ve Skaler Nefes Alma Döngüsü
+    window.METATRON_SPECTRUM_MODEL.forEach((ch, idx) => {
+        const mesh = window.KuantumKafesi.children[idx]; if (!mesh) return;
+        const burnRatePerSec = ch.e * Phi; // e verisiyle saniyedeki yakma sayısı
+        const decayMs = 999 - ch.q;        // q verisiyle ms bazlı sönme süresi
+        
+        // Tetikleme Algoritması: Kırmızı(1) merkez akışı başlatırken, Mor(5) ters kutup dalgası üretir
+        if (Math.floor(now * (burnRatePerSec / 1000)) % 15 === 0 && window.activePackets.length < 12) {
+            if (ch.id === 1) { // Giriş Akışı (Sistol): Red, Blue, Green -> Yellow
+                window.activePackets.push(new window.QuantumPacket(1, 4, ch.q, Phi));
+                window.activePackets.push(new window.QuantumPacket(7, 4, 741, 1.0));
+                window.activePackets.push(new window.QuantumPacket(8, 4, 528, Phi));
+            } else if (ch.id === 5) { // Çıkış/Ters Polarite Akışı (Diyastol): Mor odadan dışa savrulma
+                window.activePackets.push(new window.QuantumPacket(4, 5, ch.q, 1 / Phi)); // Yellow -> Violet
+            }
+        }
+        // Doğrudan modelden gelen e ve q verisiyle anlık Opacity ve Scale yönetimi
+        mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
+        mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
+    });
+
+    // 2. Aktif Kuantum Paketlerinin İlerletilmesi ve Kafes Polarite Rotasyonu
+    window.activePackets.forEach(p => p.update(dt));
+    window.activePackets = window.activePackets.filter(p => p.isActive);
+    window.KuantumKafesi.rotation.y += 0.005 * Phi;
+};
 // Start the core engine
 //injectMetatronMetabolism();
 
