@@ -10,6 +10,7 @@ const RIGHT= [1,2,4]
 const LEFT = [8,7,5]
 
 const CENTER = [2,7]
+const NORTHSOUTH = [1,8]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
