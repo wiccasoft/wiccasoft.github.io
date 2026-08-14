@@ -3,16 +3,21 @@
 // ============================================================================
 
 
-const UP = [1,4,7]   // 3 
-const DOWN = [2,5,8] // 6 
+const UP  = [1,4,7]   // 3 
+const DOWN = [2,8,5]  // 6 
 
 const RIGHT= [1,2,4]
-const LEFT= [8,7,5]
+const LEFT = [8,7,5]
+
+const CENTER = [2,7]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
 solfeggio = [174,285,396,417,528,639,741,852,963];//3,6,9 RGB-(123456789)
 
+//174,285,396  R
+//417,528,639  G
+//741,852,963  B
 
 window.COLOR_SPECTRUM_MODEL = [
 
@@ -32,8 +37,7 @@ window.COLOR_SPECTRUM_MODEL = [
 
 
 
-
-window.chambers = {}; // Global dictionary mapping chamber IDs to meshes
+window.chambers = {}; 
 
 // 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
 window.QuantumPacket = class QuantumPacket {
