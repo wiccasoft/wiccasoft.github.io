@@ -7,6 +7,7 @@ const M_DOWN = [2,8,5]   // DOWN
 
 const SPINE = [2,7]
 const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
+const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
 const M_direction= [{east:1},{west:8}]
 
@@ -35,7 +36,6 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:
 //9*6 orange   54 108 216 432                                
 //9*7 green    63 7*9  (7*6 - 7*3 )
 
-const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
 //colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn COLOR_SPECTRUM_MODEL.frekans verisiyle ms de söner
 
