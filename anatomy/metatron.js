@@ -2,7 +2,6 @@
 // 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE (432hz)
 // ============================================================================
 
-
 const UP  = [1,4,7]   // 3 
 const DOWN = [2,8,5]  // 6 
 
@@ -36,9 +35,7 @@ window.COLOR_SPECTRUM_MODEL = [
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", fqn: 0.618, hz: 852, oid: "4" }  // fire starter (1.0 / 1.618)
 ];
 
-
-
-window.chambers = {}; 
+window.chambers = {core:[174,285,396],cytoplasm:[417,528,639],shell:[741,852,963]}; 
 
 // 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
 window.QuantumPacket = class QuantumPacket {
