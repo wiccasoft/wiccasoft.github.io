@@ -8,8 +8,7 @@ const DOWN = [2,8,5]  // 6
 const RIGHT= [1,2,4]
 const LEFT = [8,7,5]
 
-const CENTER = [2,7]
-const NORTHSOUTH = [1,8]
+const EASTWEST= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
@@ -31,6 +30,9 @@ solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //9*5 magenta  45  90 180 360          
 //9*6 orange   54 108 216 432               
 //9*7 green    63 7*9  (7*6 - 7*3 ) 
+
+const CENTER = [2,7]
+const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
 
 //colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
 
