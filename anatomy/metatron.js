@@ -11,6 +11,7 @@ const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
 const M_direction= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
+const solfeggio = [1, 4, 7, 2, 5, 8];
 
 //SOLFEGGIO 1-4-7-2-5-8
 solfeggio = {core:{r:174,y:285,b:369},middle:{r:417,y:528,b:936},shell:{r:741,y:852,b:693}}; //  3,6,9 RYB-(147285)
