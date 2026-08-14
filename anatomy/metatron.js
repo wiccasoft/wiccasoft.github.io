@@ -18,7 +18,7 @@ const colorspectrum = [1, 2, 4, 8, 7, 5];
 
 solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //  396(45) red - 639(72) blue - 963(108) yellow
-//  (174 285 (396)) RGB -  528 is solar plexus  // 3 sarı(beyaz-) 6 mavi(siyah+)
+//  (174 285 (396)) RGB -  528 is solar plexus  // 3(-) sarı(beyaz) 6(+) mavi(siyah)
 
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
