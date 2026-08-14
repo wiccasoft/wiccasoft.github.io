@@ -14,9 +14,9 @@ const colorspectrum = [1, 2, 4, 8, 7, 5];
 const solfeggio = [1, 7, 4, 2, 8, 5];
 
 //SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive
-solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:852,s:693}}; //  3,6,9 YBR-(147285)
+solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:852,s:693}}; //  3,6,9 
 
-// stilness actually yellowness in RYB solfeggio model
+// stilness actually yellowness in solfeggio model
 // (174 285 (369)) RYB : 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
 
 //solfegio.middle.d/solfegio.niddle.u = 1.26
