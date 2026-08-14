@@ -17,7 +17,7 @@ const solfeggio = [1, 4, 7, 2, 5, 8];
 solfeggio = {core:{y:174,b:285,r:369},middle:{y:417,b:528,r:936},shell:{y:741,b:852,r:693}}; //  3,6,9 YBR-(147285)
 
 // stilness actually yellowness in RYB solfeggio model
-//  (174 285 (369)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
+// (174 285 (369)) RYB : 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
 
 //solfegio.core.r/solfegio.core.y = 1.63
 //solfegio.middle.r/solfegio.niddle.y = 1.26
