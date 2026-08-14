@@ -36,7 +36,7 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:
 
 const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
-//colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.frekans verisiyle ms de söner
+//colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn COLOR_SPECTRUM_MODEL.frekans verisiyle ms de söner
 
 window.COLOR_SPECTRUM_MODEL = [
 //  777 breath in                                                                         
