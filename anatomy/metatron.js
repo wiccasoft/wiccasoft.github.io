@@ -55,7 +55,7 @@ window.COLOR_SPECTRUM_MODEL = [
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, frequency: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
 ];
 
-window.chambers = {core:[174,285,396],cytoplasm:[417,528,639],shell:[741,852,963]}; 
+window.chambers = {core:[174,285,369],cytoplasm:[417,528,936],shell:[741,852,693]}; 
 
 // 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
 window.QuantumPacket = class QuantumPacket {
