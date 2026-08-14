@@ -1,5 +1,5 @@
 // ============================================================================
-// 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE
+// 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE (432hz)
 // ============================================================================
 
 
