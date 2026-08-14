@@ -33,7 +33,7 @@ const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
 //colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
 
 window.COLOR_SPECTRUM_MODEL = [
-//777
+//777 breath in
     { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 174, oid: "8" }, // (Phi^0)
     { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, frequency: 285, oid: "7" }, // (Phi^1)
     { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 417, oid: "5" }, // (Phi^2)
@@ -41,7 +41,7 @@ window.COLOR_SPECTRUM_MODEL = [
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
     { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 963, oid: "6"}, // Left hand: blessing the air
     { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, frequency:   0, oid: "3"}, // Right hand: holding the earthly orb
-//222
+//222 breath out
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)
     { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 528, oid: "1" }, // (Phi^2)/(Phi)   
     { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, frequency: 741, oid: "2" }, // ((Phi)/(Phi))
