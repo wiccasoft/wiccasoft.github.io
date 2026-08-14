@@ -14,7 +14,7 @@ const colorspectrum = [1, 2, 4, 8, 7, 5];
 const solfeggio = [1, 4, 7, 2, 5, 8];
 
 //SOLFEGGIO 1-4-7-2-5-8 (RED YELLOW BLUE MODEL) subtractive
-solfeggio = {core:{y:174,b:285,r:369},middle:{y:417,b:528,r:936},shell:{y:741,b:852,r:693}}; //  3,6,9 RYB-(147285)
+solfeggio = {core:{y:174,b:285,r:369},middle:{y:417,b:528,r:936},shell:{y:741,b:852,r:693}}; //  3,6,9 YBR-(147285)
 
 //  (174 285 (369)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
 
