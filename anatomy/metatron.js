@@ -12,22 +12,20 @@ const M_direction= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
-//magenta =    0   0    100  
-//yellow  =  100  100     0 
+solfeggio = {core:{r:174,g:285,b:396},middle:{r:417,g:528,b:639},shell:{r:741,g:852,b:963}}; //  3,6,9 RGB-(123456789)
 
-solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //  396(45) red - 639(72) blue - 963(108) yellow
 //  (174 285 (396)) RGB -  528 is solar plexus  // 3(-)(beyaz) <-> magenta 6(+)(siyah)
 
-//174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)
+//174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
 //741,852,963  B 3. shell            // magenta :  9, 45, 90, 180, 360   (9)
 
 // The universe is built on vibrations. Even objects that appear to be stationary are in fact vibrating, 
 // oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 turuncu - 7 mavi (below 9)
 
-//9*4 cyan     36  72 144 288          
-//9*5 magenta  45  90 180 360          
+//9*4 cyan     36  72 144 288                                //magenta =    0   0    100    
+//9*5 magenta  45  90 180 360                                //yellow  =  100  100     0 
 //9*6 orange   54 108 216 432               
 //9*7 green    63 7*9  (7*6 - 7*3 ) 
 
