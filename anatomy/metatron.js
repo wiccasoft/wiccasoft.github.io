@@ -37,7 +37,7 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:
 //9*7 green    63 7*9  (7*6 - 7*3 )
 
 
-// colorspectrum dizisi, METATRON_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn 999 - COLOR_SPECTRUM_MODEL.q verisiyle ms de söner
+// colorspectrum dizisi, METATRON_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn (999 - COLOR_SPECTRUM_MODEL.q) verisiyle ms de söner
 
 window.METATRON_SPECTRUM_MODEL = [
 //  777 breath in                                                                         
