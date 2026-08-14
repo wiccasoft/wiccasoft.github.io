@@ -2,8 +2,8 @@
 // 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE (432hz)
 // ============================================================================
 
-const M_UP  = [1,4,7]   // 3 
-const M_DOWN = [2,8,5]  // 6 
+const M_UP   = [1,4,7]   // 3 
+const M_DOWN = [2,8,5]   // 6 
 
 const METATRON = {right:[1,2,4],LEFT:[8,7,5]}
 
