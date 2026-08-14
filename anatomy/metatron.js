@@ -54,7 +54,7 @@ window.COLOR_SPECTRUM_MODEL = [
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)                           222 
     { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 528, oid: "1" }, // (Phi^2)/(Phi)   
     { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, frequency: 741, oid: "2" }, // ((Phi)/(Phi))
-    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, frequency: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
+    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, frequency: 852, oid: "4" }  // fire starter (1.0 / 1.618) + 0.6 
 ];
 
 window.chambers = {core:[174,285,369],cytoplasm:[417,528,936],shell:[741,852,693]}; 
