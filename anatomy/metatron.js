@@ -2,13 +2,12 @@
 // 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE (432hz)
 // ============================================================================
 
-const UP  = [1,4,7]   // 3 
-const DOWN = [2,8,5]  // 6 
+const M_UP  = [1,4,7]   // 3 
+const M_DOWN = [2,8,5]  // 6 
 
-const RIGHT= [1,2,4]
-const LEFT = [8,7,5]
+const METATRON = {right:[1,2,4],LEFT:[8,7,5]}
 
-const LEFTRIGHT= [{east:1},{west:8}]
+const M_direction= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
