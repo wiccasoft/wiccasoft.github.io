@@ -13,7 +13,7 @@ const M_direction= [{east:1},{west:8}]
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 const solfeggio = [1, 4, 7, 2, 5, 8];
 
-//SOLFEGGIO 1-4-7-2-5-8
+//SOLFEGGIO 1-4-7-2-5-8 (RED YELLOW BLUE MODEL)
 solfeggio = {core:{r:174,y:285,b:369},middle:{r:417,y:528,b:936},shell:{r:741,y:852,b:693}}; //  3,6,9 RYB-(147285)
 
 //  (174 285 (369)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
