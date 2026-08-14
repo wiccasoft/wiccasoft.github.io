@@ -44,7 +44,7 @@ window.COLOR_SPECTRUM_MODEL = [
     { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 417, oid: "5" }, // (Phi^2)
 
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
-    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 963, oid: "6"}, // Left hand: blessing the air
+    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 936, oid: "6"}, // Left hand: blessing the air
     { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, frequency:   0, oid: "3"}, // Right hand: holding the earthly orb
 // 222 breath out
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)
