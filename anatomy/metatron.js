@@ -14,7 +14,7 @@ const colorspectrum = [1, 2, 4, 8, 7, 5];
 
 solfeggio = {core:{r:174,y:285,b:369},middle:{r:417,y:528,b:639},shell:{r:741,y:852,b:963}}; //  3,6,9 RYB-(174285)
 
-//  (174 285 (396)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
+//  (174 285 (369)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
 
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
@@ -33,17 +33,17 @@ const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
 //colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
 
 window.COLOR_SPECTRUM_MODEL = [
-
-    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 369, oid: "8" }, // (Phi^0)
-    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, frequency: 417, oid: "7" }, // (Phi^1)
-    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 528, oid: "5" }, // (Phi^2)
+//777
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 174, oid: "8" }, // (Phi^0)
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, frequency: 285, oid: "7" }, // (Phi^1)
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 417, oid: "5" }, // (Phi^2)
 
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
     { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 963, oid: "6"}, // Left hand: blessing the air
     { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, frequency:   0, oid: "3"}, // Right hand: holding the earthly orb
-
+//222
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)
-    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 639, oid: "1" }, // (Phi^2)/(Phi)   
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 528, oid: "1" }, // (Phi^2)/(Phi)   
     { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, frequency: 741, oid: "2" }, // ((Phi)/(Phi))
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, frequency: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
 ];
