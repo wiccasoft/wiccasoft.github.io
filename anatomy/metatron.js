@@ -6,7 +6,7 @@ const M_UP   = [1,4,7]   // 3
 const M_DOWN = [2,8,5]   // 6 
 
 const SPINE = [2,7]
-const METATRON = {right:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
+const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
 
 const M_direction= [{east:1},{west:8}]
 
