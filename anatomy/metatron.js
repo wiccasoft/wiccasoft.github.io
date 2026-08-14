@@ -13,19 +13,26 @@ const NORTHSOUTH = [1,8]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
-solfeggio = [174,285,396,417,528,639,741,852,963];//3,6,9 RGB-(123456789)
+//magenta =    0   0    100  
+//yellow  =  100  100     0 
 
-//174,285,396  R 1. core
-//417,528,639  G 2. cytoplasm
-//741,852,963  B 3. shell
+solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
+//  396(45) red - 639(72) blue - 963(108) yellow
+//  (174285(396)) RGB -  528 is solar plexus
+
+//174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  
+//417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256, 
+//741,852,963  B 3. shell            // magenta :  9, 45, 90, 180, 360 
 
 // The universe is built on vibrations. 
-// Even objects that appear to be stationary are in fact vibrating, oscillating, and resonating at various frequencies.
+// Even objects that appear to be stationary are in fact vibrating, 
+// oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 sarı - 7 mavi (below 9)
 
-// You may have noticed that there are 6 Solfeggio Frequencies and 7 Chakras.
-// This is because there are officially 6 frequencies, but 3 more have been identified since the scale was developed.
-// The three newer frequencies are 174 Hz, 285 Hz, and 963 Hz.
-// 528 Hz is known as the ‘love frequency' and is therefore often linked to the Heart Chakra too.
+//9*4 cyan     36  72 144 288          
+//9*5 magenta  45  90 180 360          
+//9*6 orange   54 108 216 432               
+//9*7 green    63 7*9  (7*6 -  7*3 ) 
+
 
 window.COLOR_SPECTRUM_MODEL = [
 
