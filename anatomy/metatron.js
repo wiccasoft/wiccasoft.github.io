@@ -37,18 +37,18 @@ const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
 
 window.COLOR_SPECTRUM_MODEL = [
 
-    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, hz: 396, oid: "8" }, // (Phi^0)
-    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, hz: 417, oid: "7" }, // (Phi^1)
-    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, hz: 528, oid: "5" }, // (Phi^2)
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 396, oid: "8" }, // (Phi^0)
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, frequency: 417, oid: "7" }, // (Phi^1)
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 528, oid: "5" }, // (Phi^2)
 
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
-    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, hz: 963, oid: "6"}, // Left hand: blessing the air
-    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, hz:   0, oid: "3"}, // Right hand: holding the earthly orb
+    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 963, oid: "6"}, // Left hand: blessing the air
+    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, frequency:   0, oid: "3"}, // Right hand: holding the earthly orb
 
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)
-    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, hz: 639, oid: "1" }, // (Phi^2)/(Phi)   
-    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, hz: 741, oid: "2" }, // ((Phi)/(Phi))
-    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, hz: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 639, oid: "1" }, // (Phi^2)/(Phi)   
+    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, frequency: 741, oid: "2" }, // ((Phi)/(Phi))
+    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, frequency: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
 ];
 
 window.chambers = {core:[174,285,396],cytoplasm:[417,528,639],shell:[741,852,963]}; 
