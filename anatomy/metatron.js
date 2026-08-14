@@ -11,17 +11,16 @@ const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
 const M_direction= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
-const solfeggio = [1, 4, 7, 2, 5, 8];
+const solfeggio = [1, 7, 4, 2, 8, 5];
 
-//SOLFEGGIO 1-4-7-2-5-8 (RED YELLOW BLUE MODEL) subtractive
-solfeggio = {core:{y:174,b:285,r:369},middle:{y:417,b:528,r:936},shell:{y:741,b:852,r:693}}; //  3,6,9 YBR-(147285)
+//SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive
+solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:852,s:693}}; //  3,6,9 YBR-(147285)
 
 // stilness actually yellowness in RYB solfeggio model
 // (174 285 (369)) RYB : 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
 
-//solfegio.core.r/solfegio.core.y = 1.63
-//solfegio.middle.r/solfegio.niddle.y = 1.26
-//solfegio.shell.r/solfegio.shell.y = 1.1
+//solfegio.middle.d/solfegio.niddle.u = 1.26
+
 
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
@@ -32,8 +31,7 @@ solfeggio = {core:{y:174,b:285,r:369},middle:{y:417,b:528,r:936},shell:{y:741,b:
 
 //9*4 cyan     36  72 144 288                                //magenta =    0   0    100    
 //9*5 magenta  45  90 180 360                                //yellow  =  100  100     0 
-//9*6 orange   54 108 216 432               
-//9*7 green    63 7*9  (7*6 - 7*3 ) 
+//9*6 orange   54 108 216 432                                //9*7 green    63 7*9  (7*6 - 7*3 )
 
 const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
