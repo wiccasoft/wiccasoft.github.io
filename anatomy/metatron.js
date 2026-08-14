@@ -30,9 +30,9 @@ solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //9*4 cyan     36  72 144 288          
 //9*5 magenta  45  90 180 360          
 //9*6 orange   54 108 216 432               
-//9*7 green    63 7*9  (7*6 -  7*3 ) 
+//9*7 green    63 7*9  (7*6 - 7*3 ) 
 
-//colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
+//colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
 
 window.COLOR_SPECTRUM_MODEL = [
 
