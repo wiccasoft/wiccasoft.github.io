@@ -12,9 +12,13 @@ const M_direction= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
-solfeggio = {core:{r:174,y:285,b:369},middle:{r:417,y:528,b:639},shell:{r:741,y:852,b:963}}; //  3,6,9 RYB-(174285)
+solfeggio = {core:{r:174,y:285,b:369},middle:{r:417,y:528,b:936},shell:{r:741,y:852,b:693}}; //  3,6,9 RYB-(174285)
 
 //  (174 285 (369)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
+
+//solfegio.core.r/solfegio.core.y = 1.63
+//solfegio.middle.r/solfegio.niddle.y = 1.26
+//solfegio.shell.r/solfegio.shell.y = 1.1
 
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
