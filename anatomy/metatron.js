@@ -25,7 +25,7 @@ solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //741,852,963  B 3. shell            // magenta :  9, 45, 90, 180, 360   (9)
 
 // The universe is built on vibrations. Even objects that appear to be stationary are in fact vibrating, 
-// oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 sarı - 7 mavi (below 9)
+// oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 turuncu - 7 mavi (below 9)
 
 //9*4 cyan     36  72 144 288          
 //9*5 magenta  45  90 180 360          
