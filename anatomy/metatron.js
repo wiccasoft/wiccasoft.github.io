@@ -19,7 +19,8 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:
 // stilness actually yellowness in solfeggio model
 // (174 285 (369)) RYB : 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
 
-//solfegio.middle.d/solfegio.niddle.u = 1.26
+//solfegio.middle.d+solfegio.middle.u = mod9{solfegio.middle.d/solfegio.niddle.s}
+//solfegio.middle.d/solfegio.middle.u = 1.26
 
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
 //417,528,636  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
