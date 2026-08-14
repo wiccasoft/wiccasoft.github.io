@@ -2,9 +2,10 @@
 // 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE
 // ============================================================================
 
-const colorspectrum =[1,2,4,8,7,5];
+const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
-const RGB = [1, 4, 7, 8, 5, 2]; 
+const UP = [1,4,7]
+const DOWN = [2,5,8]
 
 
 window.COLOR_SPECTRUM_MODEL = [
@@ -23,11 +24,6 @@ window.COLOR_SPECTRUM_MODEL = [
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", fqn: 1.618, hz: 852, oid: "4" }  
 ];
 
-window.HORIZON = [
-    // 💚❤️ HORIZONTAL AXIS (East - West Mirroring Alignment)
-    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  fqn: 0.618, opposition: "WEST"}, // East (Right side)
-    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    fqn: 1.0,   opposition: "EAST"}  // West (Left side)
-];
 
 window.chambers = {}; // Global dictionary mapping chamber IDs to meshes
 
