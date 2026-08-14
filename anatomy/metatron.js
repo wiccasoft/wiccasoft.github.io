@@ -28,7 +28,7 @@ solfeggio = {core:{r:174,y:285,b:369},middle:{r:417,y:528,b:639},shell:{r:741,y:
 //9*6 orange   54 108 216 432               
 //9*7 green    63 7*9  (7*6 - 7*3 ) 
 
-const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
+const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
 //colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
 
