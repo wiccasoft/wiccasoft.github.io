@@ -19,20 +19,28 @@ solfeggio = [174,285,396,417,528,639,741,852,963];//3,6,9 RGB-(123456789)
 //417,528,639  G 2. cytoplasm
 //741,852,963  B 3. shell
 
+// The universe is built on vibrations. 
+// Even objects that appear to be stationary are in fact vibrating, oscillating, and resonating at various frequencies.
+
+// You may have noticed that there are 6 Solfeggio Frequencies and 7 Chakras.
+// This is because there are officially 6 frequencies, but 3 more have been identified since the scale was developed.
+// The three newer frequencies are 174 Hz, 285 Hz, and 963 Hz.
+// 528 Hz is known as the ‘love frequency' and is therefore often linked to the Heart Chakra too.
+
 window.COLOR_SPECTRUM_MODEL = [
 
-    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    fqn: 1.000, hz: 396, oid: "8" }, // (Phi^0)
-    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", fqn: 1.618, hz: 417, oid: "7" }, // (Phi^1)
-    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", fqn: 2.618, hz: 528, oid: "5" }, // (Phi^2)
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, hz: 396, oid: "8" }, // (Phi^0)
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, hz: 417, oid: "7" }, // (Phi^1)
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, hz: 528, oid: "5" }, // (Phi^2)
 
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
-    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  fqn: 3.141, hz: 963, oid: "6"}, // Left hand: blessing the air
-    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  fqn: 0.000, hz:   0, oid: "3"}, // Right hand: holding the earthly orb
+    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, hz: 963, oid: "6"}, // Left hand: blessing the air
+    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, hz:   0, oid: "3"}, // Right hand: holding the earthly orb
 
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)
-    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  fqn: 1.618, hz: 639, oid: "1" }, // (Phi^2)/(Phi)   
-    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   fqn: 1.000, hz: 741, oid: "2" }, // ((Phi)/(Phi))
-    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", fqn: 0.618, hz: 852, oid: "4" }  // fire starter (1.0 / 1.618)
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, hz: 639, oid: "1" }, // (Phi^2)/(Phi)   
+    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, hz: 741, oid: "2" }, // ((Phi)/(Phi))
+    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, hz: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
 ];
 
 window.chambers = {core:[174,285,396],cytoplasm:[417,528,639],shell:[741,852,963]}; 
