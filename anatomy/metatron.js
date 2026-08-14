@@ -46,7 +46,7 @@ window.COLOR_SPECTRUM_MODEL = [
   //                                                                                      -396- 
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)                666 fire in the midddle
     { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 936, oid: "6"}, // Left hand: blessing the air
-    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, frequency: 639, oid: "3"}, // Right hand: holding the earthly orb
+    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 2.618, frequency: 639, oid: "3"}, // Right hand: holding the earthly orb
 // 222 breath out                                                                         -369-                     
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)                           222 
     { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 528, oid: "1" }, // (Phi^2)/(Phi)   
