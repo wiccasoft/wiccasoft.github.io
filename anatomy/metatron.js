@@ -34,7 +34,7 @@ const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
 
 window.COLOR_SPECTRUM_MODEL = [
 
-    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 396, oid: "8" }, // (Phi^0)
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 369, oid: "8" }, // (Phi^0)
     { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, frequency: 417, oid: "7" }, // (Phi^1)
     { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 528, oid: "5" }, // (Phi^2)
 
