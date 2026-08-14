@@ -8,7 +8,7 @@ const DOWN = [2,8,5]  // 6
 const RIGHT= [1,2,4]
 const LEFT = [8,7,5]
 
-const EASTWEST= [{east:1},{west:8}]
+const LEFTRIGHT= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
 
