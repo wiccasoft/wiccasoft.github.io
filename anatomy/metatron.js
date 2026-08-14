@@ -32,7 +32,8 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:
 
 //9*4 cyan     36  72 144 288                                //magenta =    0   0    100    
 //9*5 magenta  45  90 180 360                                //yellow  =  100  100     0 
-//9*6 orange   54 108 216 432                                //9*7 green    63 7*9  (7*6 - 7*3 )
+//9*6 orange   54 108 216 432                                
+//9*7 green    63 7*9  (7*6 - 7*3 )
 
 const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
