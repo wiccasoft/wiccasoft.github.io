@@ -21,10 +21,9 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:
 
 //solfegio.middle.d/solfegio.niddle.u = 1.26
 
-
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
-//417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
-//741,852,963  B 3. shell            // magenta :  9, 45, 90, 180, 360   (9)
+//417,528,636  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
+//741,852,693  B 3. shell            // magenta :  9, 45, 90, 180, 360   (9)
 
 // The universe is built on vibrations. Even objects that appear to be stationary are in fact vibrating, 
 // oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 turuncu - 7 mavi (below 9)
