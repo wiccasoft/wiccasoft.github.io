@@ -1,296 +1,149 @@
-
 // ============================================================================
-// 🧭 DETACHED RGB AXES CORE ENGINE (BAĞIMSIZ BOYUT MİLİ FONKSİYONU)
+// 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE (432hz)
 // ============================================================================
-window.createMetatronAxes = function(isAxisVisible) {
-    // 🛠️ Eğer sahnede veya grupta eski eksenler kalmışsa pürüzsüzce imha et
-    ["currentAxisX", "currentAxisY", "currentAxisZ"].forEach(axisName => {
-        if (window[axisName]) {
-            if (window.KuantumKafesi) window.KuantumKafesi.remove(window[axisName]);
-            window.scene.remove(window[axisName]);
-            window[axisName].geometry.dispose();
-            window[axisName].material.dispose();
-            window[axisName] = null;
-        }
-    });
 
-    const axisLength = 0.5; // İskelet sınırlarında kalacak altın oran uzunluğu
+const M_UP   = [1,4,7]   // 3 
+const M_DOWN = [2,8,5]   // 6 
 
-    // 🔴 1. KIRMIZI AKS (X Ekseni - Yatay Doğu-Batı Aynalama Mili)
-    const geomX = new THREE.BufferGeometry().setFromPoints([
-        new THREE.Vector3(-axisLength, 0, 0), 
-        new THREE.Vector3(axisLength, 0, 0)
-    ]);
-    const matX = new THREE.LineBasicMaterial({ color: 0xff0000, linewidth: 2 });
-    window.currentAxisX = new THREE.Line(geomX, matX);
-    window.currentAxisX.name = "AXIS_X";
-    window.currentAxisX.visible = isAxisVisible; // 🔑 İçeride dinamik görünürlük kilidi
+const SPINE = [2,7]
+const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
 
-    // 🟢 2. YEŞİL AKS (Y Ekseni - Dikey Kutupsal Mil / Crux-Sacrum Koridoru)
-    const geomY = new THREE.BufferGeometry().setFromPoints([
-        new THREE.Vector3(0, -axisLength, 0), 
-        new THREE.Vector3(0, axisLength, 0)
-    ]);
-    const matY = new THREE.LineBasicMaterial({ color: 0x00ff00, linewidth: 2 });
-    window.currentAxisY = new THREE.Line(geomY, matY);
-    window.currentAxisY.name = "AXIS_Y";
-    window.currentAxisY.visible = isAxisVisible;
+const M_direction= [{east:1},{west:8}]
 
-    // 🔵 3. MAVİ AKS (Z Ekseni - Derinlik / Ön-Arka Ölçü Mili)
-    const geomZ = new THREE.BufferGeometry().setFromPoints([
-        new THREE.Vector3(0, 0, -axisLength), 
-        new THREE.Vector3(0, 0, axisLength)
-    ]);
-    const matZ = new THREE.LineBasicMaterial({ color: 0x0000ff, linewidth: 2 });
-    window.currentAxisZ = new THREE.Line(geomZ, matZ);
-    window.currentAxisZ.name = "AXIS_Z";
-    window.currentAxisZ.visible = isAxisVisible;
+const colorspectrum = [1, 2, 4, 8, 7, 5]; 
+const solfeggio = [1, 4, 7, 2, 5, 8];
 
-    // 🔑 Miller doğrudan KuantumKafesi grubuna mühürlenir
-    if (window.KuantumKafesi) {
-        window.KuantumKafesi.add(window.currentAxisX);
-        window.KuantumKafesi.add(window.currentAxisY);
-        window.KuantumKafesi.add(window.currentAxisZ);
+//SOLFEGGIO 1-4-7-2-5-8 (RED YELLOW BLUE MODEL) subtractive
+solfeggio = {core:{y:174,b:285,r:369},middle:{y:417,b:528,r:936},shell:{y:741,b:852,r:693}}; //  3,6,9 RYB-(147285)
+
+//  (174 285 (369)) RYB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
+
+//solfegio.core.r/solfegio.core.y = 1.63
+//solfegio.middle.r/solfegio.niddle.y = 1.26
+//solfegio.shell.r/solfegio.shell.y = 1.1
+
+//174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)       
+//417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
+//741,852,963  B 3. shell            // magenta :  9, 45, 90, 180, 360   (9)
+
+// The universe is built on vibrations. Even objects that appear to be stationary are in fact vibrating, 
+// oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 turuncu - 7 mavi (below 9)
+
+//9*4 cyan     36  72 144 288                                //magenta =    0   0    100    
+//9*5 magenta  45  90 180 360                                //yellow  =  100  100     0 
+//9*6 orange   54 108 216 432               
+//9*7 green    63 7*9  (7*6 - 7*3 ) 
+
+const ELEMENTS = {earth:8,air:2,water:7,fire:1}
+
+//colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
+
+window.COLOR_SPECTRUM_MODEL = [
+//  777 breath in
+// 🔥 YÜKSELEN AKS (Isınma / Genleşme / Sistol): Çarpılarak Katlanır (* 1.618)
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, frequency: 174, oid: "8" }, // (Phi^0)
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, frequency: 285, oid: "7" }, // (Phi^1)
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, frequency: 417, oid: "5" }, // (Phi^2)
+
+    // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)
+    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, frequency: 936, oid: "6"}, // Left hand: blessing the air
+    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 0.000, frequency:   0, oid: "3"}, // Right hand: holding the earthly orb
+// 222 breath out
+    // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, frequency: 528, oid: "1" }, // (Phi^2)/(Phi)   
+    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, frequency: 741, oid: "2" }, // ((Phi)/(Phi))
+    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, frequency: 852, oid: "4" }  // fire starter (1.0 / 1.618) +0.6 
+];
+
+window.chambers = {core:[174,285,396],cytoplasm:[417,528,639],shell:[741,852,963]}; 
+
+// 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
+window.QuantumPacket = class QuantumPacket {
+    constructor(sourceId, targetId, frequencyValue, directionMultiplier) {
+        this.sourceId = sourceId;
+        this.targetId = targetId;
+        this.frequency = frequencyValue;
+        this.dirMultiplier = directionMultiplier;
+        this.progress = 0;
+        this.isActive = true;
     }
-    
-    console.log(`[AXES PROTOCOL] Miller Yeniden İnşa Edildi. Görünürlük: ${isAxisVisible}`);
+
+    update(fixedDelta) {
+        if (!this.isActive) return;
+        // Pure mathematical scale entirely independent from PC clock/refresh cycles
+        const baseSpeed = this.frequency * 0.01;
+        this.progress += baseSpeed * this.dirMultiplier * fixedDelta;
+        if (this.progress >= 1.0) {
+            this.progress = 1.0;
+            this.isActive = false;
+        }
+    }
 };
 
+// 🫀 INJECTING CHAMBERS ONTO SKELETON'S QUANTUM CAGE
+function injectMetatronMetabolism() {
+    // 📯 Önce skeleton.js içindeki büyük amiral gemisi sahneyi ve iskeleti kurar
+    window.initMetatronEngine(); //
 
-window.initSkelaton = function() {
-
-    // 1. Ana Sahne Kurulumu
-    window.scene = new THREE.Scene(); 
-    
-    // 🔑 GRUP REFERANSI GLOBALE ALINDI: updateMetatronLoop artık bunu anında görecek
-    window.KuantumKafesi = new THREE.Group(); 
-    window.KuantumKafesi.name = "MERKEZI_METATRON";
-
-    window.KuantumKafesi.visible = false; 
-
-    // ============================================================================
-    // 🧭 INTEGRATED RGB AXES (MODÜLER FONKSİYONEL ÇAĞRI)
-    // ============================================================================
-    // İlk açılışta kapalı gelmesi için parametreyi 'false' olarak fırlatıyoruz!
-    // İleride 4 element aynalama modunda bu fonksiyonu 'true' ile özgürce çağırabiliriz.
-    window.createMetatronAxes(true); 
-
-  
-
-    // 🔑 22.5 DERECE KUTSAL SEKİZGEN PERSPEKTİF KİLİDİ
-    window.KuantumKafesi.rotation.y = Math.PI / 2; 
-    window.KuantumKafesi.position.y = 0.0;
-    window.KuantumKafesi.position.x = 0.0;
-    window.KuantumKafesi.scale.set(1.3, 1.3, 1.3);
-    window.scene.add(window.KuantumKafesi);
-
-    // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
-    const aspect = window.innerWidth / window.innerHeight;
-    window.d = 1.6; // 🔑 KESİN ÇÖZÜM
-    window.camera = new THREE.OrthographicCamera(- window.d * aspect, window.d * aspect, window.d, - window.d, 0.1, 1000);
-    window.camera.position.set(5, 5, 5);
-    window.camera.lookAt(0, 0, 0);
-
-    // 🖥️ Renderer ve Siyah Perde Kilidi
-    window.renderer = new THREE.WebGLRenderer({ antialias: true });
-    window.renderer.setSize(window.innerWidth, window.innerHeight);
-    document.body.appendChild(window.renderer.domElement);
-    window.renderer.setClearColor(0x000000, 1);
-
-    // 🔑 KONTROLLER GLOBALE ALINDI: setTopView artık bu kolları doğrudan kontrol edebilir
-    window.controls = new THREE.OrbitControls(window.camera, window.renderer.domElement);
-    window.controls.minPolarAngle = -Infinity;
-    window.controls.maxPolarAngle = Infinity;
-    window.controls.minAzimuthAngle = -Infinity;
-    window.controls.maxAzimuthAngle = Infinity;
-    
-    window.scene.add(new THREE.AmbientLight(0xffffff));
-
-
- // ============================================================================
-    // 🧬 GEOMETRİK İNŞA VE DOUBLE VORTEX ÇEKİRDEK KODLARINIZ (Akslar, Köşeler, Faces)
-    // ============================================================================
-    // 💡 AÇIKLAMA: Yerel sızıntıların hepsi global window nesnesine kenetlenmiştir.
-
-    // ⚡ 4 ANA ELEMENT AKS MATRİSİ (Ateş, Toprak, Hava, Su Vektörleri)
-    //Metatron İskeletinin Kutsal Çapraz Kaburgası ve 4 Element Omurgasıdır.
-    const elementAkslari = [
-        { c1: 0x111111, c2: 0xffffff, yon: new THREE.Vector3(-1, -1, -1).normalize(), name: "Siyah_Beyaz_Ates_Su" },
-        { c1: 0xffff00, c2: 0xff00ff, yon: new THREE.Vector3(1, -1, 1).normalize(),   name: "Sari_Pembe_Hava_Toprak" },
-        { c1: 0xff0000, c2: 0x00ff00, yon: new THREE.Vector3(-1, 1, 1).normalize(),  name: "Kirmizi_Yesil_Aktif_Pasif" },
-        { c1: 0xff7f00, c2: 0x0000ff, yon: new THREE.Vector3(-1, -1, 1).normalize(), name: "Turuncu_Mavi_Merkez_Eter" }
-    ];
-
-    // 🏟 Icosahedron Kaburgasını Oluşturacak Aks Çizgilerinin Görünür Kılınması
-    const aksGenisligi = 0.35 * Math.sqrt(2) * 1.1; 
-    const canlıAksCizgileri = []; // 👈 Güncelleme döngüsü için referans dizisi
-  // burası tam anlamıyla 4 Ana Element Aksını (Ateş, Toprak, Hava, Su) matematiksel vektörlerden çıkarıp, 
-  // 3D sahnede et ve kemiğe büründüren, yani çizgisel kaburgaları çizen Kutsal Döngüdür. 
-    elementAkslari.forEach(aks => {
-        const posA = aks.yon.clone().multiplyScalar(aksGenisligi);
-        const posB = aks.yon.clone().multiplyScalar(-aksGenisligi);
-        const cizgiGeo = new THREE.BufferGeometry().setFromPoints([posA, posB]);
-        
-        const cizgiMat = new THREE.LineBasicMaterial({
-            color: aks.c1 === 0x111111 ? 0xffffff : aks.c1,
-            transparent: true, 
-            opacity: 0.25, 
-            linewidth: 2,
-            depthWrite: false
-        });
-        
-        const lineMesh = new THREE.Line(cizgiGeo, cizgiMat);
-        lineMesh.name = aks.name; 
-        
-        // 🔑 GLOBAL ADRESE BAĞLANDI: Yerel KuantumKafesi yerine window.KuantumKafesi kullanılıyor!
-        window.KuantumKafesi.add(lineMesh);
-        canlıAksCizgileri.push(lineMesh); 
-    });
-
-    // Küp corners dizisi lokal kalabilir, çünkü dışarıdan çağrılmıyor
-    //burası da tam anlamıyla Metatron Küpünün 8 Kutsal Köşebaşı (corners) ve Kamera Özgürlük Kalkanıdır.
-    const corners = [
-        new THREE.Vector3( 0.5,  0.5,  0.5), new THREE.Vector3( 0.5,  0.5, -0.5),
-        new THREE.Vector3( 0.5, -0.5,  0.5), new THREE.Vector3( 0.5, -0.5, -0.5),
-        new THREE.Vector3(-0.5,  0.5,  0.5), new THREE.Vector3(-0.5,  0.5, -0.5),
-        new THREE.Vector3(-0.5, -0.5,  0.5), new THREE.Vector3(-0.5, -0.5, -0.5)
-    ];
-
-    // 🔑 GLOBAL CONTROLS KİLİDİ: controls. yerine window.controls. olarak mühürlendi!
-    window.controls.minPolarAngle = -Infinity;
-    window.controls.maxPolarAngle = Infinity;
-    window.controls.minAzimuthAngle = -Infinity;
-    window.controls.maxAzimuthAngle = Infinity;
-
-    // window.scene zaten yukarıda global yapılmıştı, kararlılık korundu
-    window.scene.add(new THREE.AmbientLight(0xffffff));
-    // Yüzeyler: köşeler + merkez + normal 
-    // Metatron Küpünün 3 Boyutlu Uzay Sınırlarını Belirleyen 6 Kutsal Yüzey (faces) Matrisidir.
-    const faces = [
-        {corners:[corners[0], corners[2], corners[3], corners[1]], center:new THREE.Vector3(0.5,0,0), normal:new THREE.Vector3(1,0,0)},
-        {corners:[corners[4], corners[6], corners[7], corners[5]], center:new THREE.Vector3(-0.5,0,0), normal:new THREE.Vector3(-1,0,0)},
-        {corners:[corners[0], corners[4], corners[5], corners[1]], center:new THREE.Vector3(0,0.5,0), normal:new THREE.Vector3(0,1,0)},
-        {corners:[corners[2], corners[6], corners[7], corners[3]], center:new THREE.Vector3(0,-0.5,0), normal:new THREE.Vector3(0,-1,0)},
-        {corners:[corners[0], corners[2], corners[6], corners[4]], center:new THREE.Vector3(0,0,0.5), normal:new THREE.Vector3(0,0,1)},
-        {corners:[corners[1], corners[3], corners[7], corners[5]], center:new THREE.Vector3(0,0,-0.5), normal:new THREE.Vector3(0,0,-1)}
-    ];
-
-    // Sarı kareler + gri “+” işaretleri
-    //Metatron Küpünün Dış Geometrik Zırhını (Sarı Kareler) ve İç Denge Akslarını (Gri Artı İşaretleri) Sahnede Canlandıran Döngüdür.
-    faces.forEach(f=>{
-        const squareVertices = [];
-        for (let i=0; i<f.corners.length; i++) {
-            squareVertices.push(...f.corners[i].toArray());
-            squareVertices.push(...f.corners[(i+1)%4].toArray());
-        }
-        const squareGeom = new THREE.BufferGeometry();
-        squareGeom.setAttribute('position', new THREE.Float32BufferAttribute(squareVertices,3));
-        const squareMat = new THREE.LineBasicMaterial({color:0xffff00});
-        
-        // 🔑 GLOBAL GRUP KİLİDİ: Yerel KuantumKafesi söküldü, window.KuantumKafesi bağlandı!
-        window.KuantumKafesi.add(new THREE.LineSegments(squareGeom, squareMat));
-
-        const u = new THREE.Vector3(f.normal.y, f.normal.z, f.normal.x).normalize();
-        const v = new THREE.Vector3().crossVectors(f.normal, u).normalize();
-        const plusVertices = [];
-        plusVertices.push(...f.center.clone().add(u.clone().multiplyScalar(0.5)).toArray());
-        plusVertices.push(...f.center.clone().add(u.clone().multiplyScalar(-0.5)).toArray());
-        plusVertices.push(...f.center.clone().add(v.clone().multiplyScalar(0.5)).toArray());
-        plusVertices.push(...f.center.clone().add(v.clone().multiplyScalar(-0.5)).toArray());
-        const plusGeom = new THREE.BufferGeometry();
-        plusGeom.setAttribute('position', new THREE.Float32BufferAttribute(plusVertices,3));
-        const plusMat = new THREE.LineBasicMaterial({color:0xaaaaaa});
-        
-        // 🔑 GLOBAL GRUP KİLİDİ: Gri artı işaretleri de doğrudan küresel kafese mühürlendi!
-        window.KuantumKafesi.add(new THREE.LineSegments(plusGeom, plusMat));
-    });
-
-    // 🎛 EKSENLERİ DOĞRUDAN DIŞARIYA VE GLOBALE AÇAN MOTOR
-    // 🔑 FONKSİYON KİLİDİ: addAxis artık pencere düzeyinde bir küresel şalterdir!
-    window.addAxis = function(color, from, to) {
-        const axisGeom = new THREE.BufferGeometry().setFromPoints([from,to]);
-        const axisMat = new THREE.LineBasicMaterial({color:color});
-        window.scene.add(new THREE.Line(axisGeom, axisMat));
+    const colorHexMap = {
+        "Red": 0xff0000, "Orange": 0xff7f00, "Yellow": 0xffff00,
+        "Green": 0x00ff00, "Blue": 0x0000ff, "Pink": 0xffc0cb, 
+        "White": 0xffffff, "Black": 0x111111, "Violet": 0x8b00ff
     };
-    
-    
-  //addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
-  //addAxis(0x00ff00, new THREE.Vector3(0,-10,0), new THREE.Vector3(0,10,0));
-  //addAxis(0x0000ff, new THREE.Vector3(0,0,-10), new THREE.Vector3(0,0,10));
 
-
-
-// 🔑 ÇAPRAZ OMURGA MÜHÜRÜ: Yeşil mili tam \(\sqrt{2}\) köşegen aksından geçirir
-// Salvador Mundi portresinin kalbine Da Vinci’nin gizlediği o en meşhur, 
-// o en kadim "Kutsal Merkez Piramitleri" (The Inner Core Pyramids) ve
-//  Merkezden Köşelere Genleşen Işın Vektörleri geometrisidir.
-    const whitePos = new THREE.Vector3(-0.25,  0.25, -0.25); 
-    const blackPos = new THREE.Vector3( 0.25, -0.25,  0.25); 
-
-    // burası kübün tam 0,0,0 mutlak sıfır noktasından (Tekillikten) doğup, 
-    // 8 ana köşeye (corners) doğru bir patlama (Big Bang) şeklinde genleşen
-    // o ilk iç içe geçmiş göksel ve yersel piramit şasisidir.
-    
-    // 🔑 GLOBAL FONKSİYON ÇAĞRISI: addAxis artık window düzeyinden çağrılıyor!
-    //window.addAxis(0x00ff00, blackPos, whitePos);
-
-    // Merkezden köşelere çizgiler (beyaz)
-    const center = new THREE.Vector3(0,0,0);
-    const pyramidVertices = [];
-    corners.forEach(c=>{
-        pyramidVertices.push(...center.toArray());
-        pyramidVertices.push(...c.toArray());
-    });
-    const pyramidGeom = new THREE.BufferGeometry();
-    pyramidGeom.setAttribute('position', new THREE.Float32BufferAttribute(pyramidVertices,3));
-    const pyramidMat = new THREE.LineBasicMaterial({color:0xffffff});
-    
-    // ============================================================================
-    // 🔑 GLOBAL GRUP KİLİDİ: Merkez piramit hatları doğrudan küresel kafese mühürlendi!
-    window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat));        // fire in the middle
-    // ============================================================================
-
-
-    // ============================================================================
-    // AKSA HİZALI KUTSAL MERKABA KÖŞELERİ (Lokal kalabilir, dışarıdan çağrılmıyor)
-    // ============================================================================
-    // Tetrahedron 1: Beyaz Kutup merkezli göksel enerji piramidi
-    const tetra1 = [
-        new THREE.Vector3(-0.25,  0.25, -0.25), // topBackLeft -> BEYAZ KUTUP (Tepe)
-        new THREE.Vector3( 0.25,  0.25,  0.25), // topFrontRight -> KIRMIZI
-        new THREE.Vector3( 0.25, -0.25, -0.25), // bottomBackRight -> TURUNCU
-        new THREE.Vector3(-0.25, -0.25,  0.25)  // bottomFrontLeft -> MOR
-    ];
-
-    // Tetrahedron 2: Siyah Kutup merkezli yersel manyetik piramit
-    const tetra2 = [
-        new THREE.Vector3( 0.25, -0.25,  0.25), // bottomFrontRight -> SİYAH KUTUP (Taban)
-        new THREE.Vector3(-0.25, -0.25, -0.25), // bottomBackLeft -> YEŞİL
-        new THREE.Vector3( 0.25,  0.25, -0.25), // topBackRight -> SARI
-        new THREE.Vector3(-0.25,  0.25,  0.25)  // topFrontLeft -> MAVİ
-    ];
-
-    // 🔑 YARDIMCI FONKSİYON KORUMASI: Sadece bu inşada kullanıldığı için içeride kalabilir
-    function addTetrahedron(vertices, color) {
-        const edges = [[0,1],[0,2],[0,3],[1,2],[1,3],[2,3]];
-        const tetraVertices = [];
-        edges.forEach(e=>{
-            tetraVertices.push(...vertices[e[0]].toArray());
-            tetraVertices.push(...vertices[e[1]].toArray());
+    // 🔮 Solid translucent chambers reading spatial metrics directly from model
+    window.COLOR_SPECTRUM_MODEL.forEach((chamber) => {
+        const geometry = new THREE.SphereGeometry(0.22, 32, 32);
+        const material = new THREE.MeshBasicMaterial({
+            color: colorHexMap[chamber.color],
+            transparent: true,
+            opacity: 0.35,
+            wireframe: false // Solid translucent lock
         });
-        const geom = new THREE.BufferGeometry();
-        geom.setAttribute('position', new THREE.Float32BufferAttribute(tetraVertices,3));
-        const mat = new THREE.LineBasicMaterial({color:color});
         
-        // 🔑 GLOBAL GRUP KİLİDİ: Merkaba çizgileri de doğrudan küresel kafese mühürlendi!
-        window.KuantumKafesi.add(new THREE.LineSegments(geom, mat));
+        const chamberMesh = new THREE.Mesh(geometry, material);
+        
+        // 📐 Direct coordinate injection from global matrix data
+        chamberMesh.position.set(chamber.x, chamber.y, chamber.z);
+
+        // Kilit Adres: skeleton.js'in yarattığı window.KuantumKafesi'ne kenetlenme
+        if (window.KuantumKafesi) {
+            window.KuantumKafesi.add(chamberMesh);
+        }
+        
+        window.chambers[chamber.id] = chamberMesh;
+    });
+
+    // Ana animasyon döngüsünü tetikle
+    MetatronPipeline();
+}
+
+function MetatronPipeline() {
+    requestAnimationFrame(runMetatronPipeline);
+    
+    // Direct routing to your mathematical counter-current calculations
+    window.MetatronEngine();
+
+    if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
     }
+}
 
-    // Beyaz ve gri tetrahedron (Merkaba Yıldızı) ekle
-    addTetrahedron(tetra1, 0xffffff);
-    addTetrahedron(tetra2, 0xaaaaaa); // Küre materyali (saydam)
-  
-const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
+// ============================================================================
+// 🌊 RESERVED METABOLIC CORE (YOUR LIVE VECTOR FLOWS GO HERE)
+// ============================================================================
+window.MetatronEngine = function() {
+    // Structural cage and skeleton data are isolated safely inside skeleton.js.
+    // Chambers are perfectly injected onto the matrix vectors from model metadata.
+    
+    // Ready for your exact 20-line pure polarity loop:
+    // 1. Red ↔ Blue meeting at Yellow with Phi multiplier acceleration.
+    // 2. Red ↔ Green meeting at Yellow to instantiate electromagnetic pole.
+};
+
+// Start the core engine
+//injectMetatronMetabolism();
 
 
-} 
+// 📯 MASTER CORE TRIGGER: Metatron executes the skeleton engine right upon loading
+if (typeof window.initSkelaton === "function") window.initSkelaton()
