@@ -2,11 +2,14 @@
 // 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE
 // ============================================================================
 
+
+const UP = [1,4,7]   // 3
+const DOWN = [2,5,8] // 6
+
+const RIGHT= [1,2,4]
+const LEFT= [8,7,5]
+
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
-
-const UP = [1,4,7]
-const DOWN = [2,5,8]
-
 
 window.COLOR_SPECTRUM_MODEL = [
     // 🔥 RISING AXIS (Expansion / Systole / Core Warmth)
