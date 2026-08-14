@@ -24,8 +24,7 @@ solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
 //741,852,963  B 3. shell            // magenta :  9, 45, 90, 180, 360   (9)
 
-// The universe is built on vibrations. 
-// Even objects that appear to be stationary are in fact vibrating, 
+// The universe is built on vibrations. Even objects that appear to be stationary are in fact vibrating, 
 // oscillating, and resonating at various frequencies. 64/24 = 2.6 (33*16) ; 4 sarı - 7 mavi (below 9)
 
 //9*4 cyan     36  72 144 288          
