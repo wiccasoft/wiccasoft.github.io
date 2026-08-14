@@ -5,7 +5,8 @@
 const M_UP   = [1,4,7]   // 3 
 const M_DOWN = [2,8,5]   // 6 
 
-const METATRON = {right:[1,2,4],LEFT:[8,7,5]}
+const SPINE = [2,7]
+const METATRON = {right:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
 
 const M_direction= [{east:1},{west:8}]
 
@@ -16,7 +17,7 @@ const colorspectrum = [1, 2, 4, 8, 7, 5];
 
 solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //  396(45) red - 639(72) blue - 963(108) yellow
-//  (174 285 (396)) RGB -  528 is solar plexus  // 3(-)(beyaz)sarı <-> magenta 6(+)(siyah)
+//  (174 285 (396)) RGB -  528 is solar plexus  // 3(-)(beyaz) <-> magenta 6(+)(siyah)
 
 //174,285,396  R 1. core             // orange  :  6, 12, 24, 48,   96,  (3-6)
 //417,528,639  G 2. cytoplasm        // green   :  8, 16, 32, 64,  256,  
@@ -30,7 +31,6 @@ solfeggio = [174,285,396,417,528,639,741,852,963]; //3,6,9 RGB-(123456789)
 //9*6 orange   54 108 216 432               
 //9*7 green    63 7*9  (7*6 - 7*3 ) 
 
-const SPINE = [2,7]
 const ELEMENTS = [{earth:8,air:2,water:7,fire:1}]
 
 //colorspectrum dizisi, COLOR_SPECTRUM_MODEL.e verisi ni sn de metatronu yakar COLOR_SPECTRUM_MODEL.hz verisiyle ms de söner
