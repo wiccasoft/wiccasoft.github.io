@@ -2,17 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Salvator Mundi + AC-DC Quantum Engine</title>
+  <title>Salvator Mundi + AC-DC Kuantum Motoru Entegrasyonu</title>
   <style>
     /* 🔑 KOZMİK ALTLIK */
-html, body {
-    margin: 0 !important;
-    padding: 0 !important;
-    width: 100% !important;
-    height: 100% !important;
-    background: #000000 !important;
-    overflow: hidden !important;
-}
+    html, body {
+        margin: 20;
+        padding: 20;
+        width: 80%;
+        height: 80%;
+        background: #000000 !important;
+        overflow: hidden !important; 
+    }
+
 
 
     /* main.html içindeki arayüz overlay kapsayıcısı */
@@ -88,17 +89,18 @@ button, input, .panel-kartlari {
 }
 
     /* 🔑 AC-DC MOTOR ENJEKTÖRÜ: anatomy.html dosyasını çağırır */
-iframe {
-    position: absolute;
-    top: 10%; left: 10%; /* Ekranı %10 içeriden başlatır */
-    width: 80% !important;  /* Genişliği %80 yapar */
-    height: 80% !important; /* Yüksekliği %80 yapar */
-    border: none;
-    z-index: 50;
-    background: transparent !important;
-    mix-blend-mode: screen;
-    pointer-events: none;
-}
+    iframe {
+        position: absolute;
+        top: 30;
+        left: 50;
+        width: 100%;
+        height: 100%;
+        border: none;
+        z-index: 50;            /* Tablonun önünde, panellerin arkasında kalır */
+        background: transparent !important;
+        mix-blend-mode: screen; /* Siyah arka planı eritip sadece neonları parlatır */
+        pointer-events: none; 
+    }
 
 
     .cyber-btn {
@@ -137,8 +139,6 @@ iframe {
 </head>
 <body>
 
-<!-- 🔮 ACADEMIC AI ORACLE COGNITIVE MODULE -->
-<script src="oracle.js"></script>
 
     <!-- 🎨 TABLO BAĞIMSIZ ELEMAN OLARAK EN ARKEYA GÖMÜLDÜ -->
   <img id="bg-image" class="matrix-color" src="./Salvator_Mundi_oil_on_walnut.jpg" alt="Salvator Mundi">
@@ -153,12 +153,12 @@ iframe {
   <div id="matrix-control-panel">
       <!-- Mod Değiştirici Buton (Ten rengi gürültüsünü siler, turuncu küreyi parlatır) -->
       <button id="toggle-filter-btn" class="cyber-btn" onclick="toggleMatrixIllusionFilter()">
-          Matrix
+          Matrix: Original Illusion
       </button>
       
       <!-- Christ Among Doctors El İşareti (Gemini Akademik Modülü Tetikler) -->
       <button class="cyber-btn oracle-btn" onclick="triggerGeminiAcademicOracle()">
-          🔮 Academic Oracle
+          🔮 Ask Gemini: Academic Oracle
       </button>
   </div>
 
@@ -251,78 +251,6 @@ iframe {
     </div>
 </div>
 
-
-
-<!-- ============================================================================ -->
-<!-- 🎛️ ALT PANEL CONTROL DECK (İŞLEVSEL KARE İKON RIHTIMI SÜRÜMÜ) -->
-<!-- ============================================================================ -->
-<div id="luiniControlDock" style="display: flex !important; position: fixed !important; bottom: 0px !important; left: 0px !important; right: 0px !important; width: 100% !important; height: 45px !important; box-sizing: border-box !important; background: linear-gradient(to top, rgba(10, 5, 20, 0.98), rgba(15, 5, 25, 0.9)) !important; border-top: 1px solid rgba(255, 0, 255, 0.3) !important; padding: 5px 15px !important; z-index: 999999 !important; align-items: center !important; justify-content: space-between !important; box-shadow: 0px -5px 25px rgba(0,0,0,0.9) !important; transition: all 0.3s cubic-bezier(0.1, 0.8, 0.3, 1) !important; opacity: 1 !important; visibility: visible !important;"
-    <!-- 📐 SOL AKS (İşlevsel Kare Butonlar) -->
-    <div style="display: flex; gap: 8px; flex: 1; justify-content: flex-start;">
-        <!-- Buton 1: İskelet Şalteri (Görünürlük Toggle Bağlandı) -->
-        <button onclick="window.toggleSkeletonButton()" title="Skeleton Mode" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">☠️</button>
-        <!-- Buton 2: Vortex Flux (Aynalama Filtresi Bağlandı) -->
-        <button onclick="window.toggleMirrorButton()" title="Vortex Flux" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🌀</button>
-        <!-- Buton 3: Calibration Metric (Eksen Milleri Toggle Bağlandı) -->
-        <button onclick="window.toggleAxesButton()" title="Calibration Metric" style="width: 32px; height: 32px; background: rgba(0,255,255,0.05); color: #00ffff; border: 1px solid rgba(0,255,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">📐</button>
-    </div>
-
-    <!-- 🔮 MERKEZ AMİRAL GEMİSİ (Oracle Tetikleyici Şalter) -->
-    <div style="flex: 0 0 auto;">
-        <button id="luiniTabButon" onclick="window.toggleLuiniOracle()" style="padding: 6px 16px; font-family: 'Courier New', monospace; font-size: 11px; background: #110022; color: #ff00ff; border: 1px solid #ff00ff; cursor: pointer; font-weight: bold; letter-spacing: 0.5px; box-shadow: 0 0 12px rgba(255,0,255,0.3); border-radius: 6px; height: 32px; transition: all 0.3s ease;">
-            ▲ ASK ORACLE
-        </button>
-    </div>
-
-    <!-- ⚡ SAĞ AKS (İşlevsel Kare Butonlar) -->
-    <div style="display: flex; gap: 8px; flex: 1; justify-content: flex-end;">
-        <!-- Buton 4: ECG Monitor (Kuantum Kalp Atış Şalteri Tam Entegre Edildi) -->
-        <button onclick="window.toggleHeartButton()" title="ECG Monitor" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🫀</button>
-        <!-- Buton 5: Frequency Spectrum (Açı/Perspektif Görünüm Şalteri Bağlandı) -->
-        <button onclick="window.toggleAngleButton()" title="Frequency Spectrum" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">🔊</button>
-        <button title="Doppler Shift" style="width: 32px; height: 32px; background: rgba(255,0,255,0.05); color: #ff00ff; border: 1px solid rgba(255,0,255,0.4); border-radius: 6px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;">📡</button>
-    </div>
-</div>
-
-<!-- ============================================================================ -->
-<!-- 🔮 POPUP ORACLE COGNITIVE PANEL (MUTLAK FIXED SLIDE ŞASİSİ) -->
-<!-- ============================================================================ -->
-<!-- 🔮 POPUP ORACLE COGNITIVE PANEL (DOĞRU GÖRSEL LİNKLİ SÜRÜM) -->
-<div id="luiniOraclePanel" style="position: fixed !important; bottom: -600px; left: 50%; transform: translateX(-50%); width: 550px; height: 420px; background-image: linear-gradient(to bottom, rgba(10, 5, 20, 0.95), rgba(15, 5, 25, 0.98)), url('https://github.io'); background-size: cover; background-position: center; border: 2px solid #ff00ff; border-radius: 12px; padding: 20px; box-shadow: 0 0 40px rgba(255,0,255,0.4); transition: bottom 0.5s cubic-bezier(0.1, 0.8, 0.3, 1); z-index: 1000000 !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #fff; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden;">
-    <!-- HEADER AREA -->
-    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255, 0, 255, 0.4); padding-bottom: 10px;">
-        <div style="display: flex; flex-direction: column;">
-            <span style="color: #00ffff; font-family: 'Courier New', monospace; font-weight: bold; font-size: 13px; letter-spacing: 1px;">METABOLIC PATHWAYS & BIOPHYSICAL ANALYSIS</span>
-            <span style="color: #888; font-size: 9px; font-family: monospace; text-transform: uppercase; margin-top: 2px;">Bernardino Luini Spectrum Co-Registration</span>
-        </div>
-        <div onclick="window.toggleLuiniOracle()" style="color: #ff00ff; cursor: pointer; font-weight: bold; font-size: 24px; line-height: 1; font-family: monospace;" onmouseover="this.style.color='#00ffff'" onmouseout="this.style.color='#ff00ff'">×</div>
-    </div>
-    
-    <!-- VERİ VE GÖRSEL REZONANS ALANI -->
-    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 15px; margin: 15px 0; background: rgba(10, 5, 20, 0.8); border: 1px dashed rgba(0, 255, 255, 0.2); border-radius: 6px; box-shadow: inset 0 0 15px rgba(0,0,0,0.5);">
-        <div style="font-family: 'Courier New', monospace; font-size: 10px; color: #ffcc00; letter-spacing: 1px; font-weight: bold; text-transform: uppercase; margin-bottom: 5px;">
-            ⚠️ QUANTUM TELEMETRY GATEWAY ACTIVE
-        </div>
-        <div style="font-size: 11px; color: #ccc; text-align: center; line-height: 1.5; font-family: monospace; max-width: 90%;">
-            Tepeden bakış modu aktifken (<span style="color:#00ffff;">TOP VIEW</span>), Luini tablosundaki aks açıları ile 3D plazma akış hızı çapraz eş zamanlanır.
-        </div>
-    </div>
-
-    <!-- FOOTER INPUT AREA -->
-    <div style="background: rgba(15, 5, 25, 0.95); border: 1px solid rgba(255,0,255,0.3); padding: 15px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
-        <label style="color: #ffcc00; font-family: 'Courier New', monospace; font-size: 11px; display: block; margin-bottom: 8px; letter-spacing: 0.5px; font-weight: bold; text-transform: uppercase;">
-            📡 ACADEMIC QUERY TERMINAL (Ateş / Su / Hava / Toprak Rezonansı):
-        </label>
-        <div style="display: flex; gap: 10px;">
-            <input type="text" id="oracleSoruInput" placeholder="Mavi akım neyi dengeler? Sarı oda milivolt yükü nedir?..." style="flex: 1; background: #05020a; border: 1px solid #00ffff; color: #fff; padding: 12px; font-family: 'Courier New', monospace; font-size: 12px; border-radius: 6px; outline: none; box-shadow: inset 0 0 8px rgba(0,255,255,0.15);">
-            <button onclick="window.fırlatOracleSoruyu()" style="background: #ff00ff; color: #000; border: none; padding: 0 25px; font-family: 'Courier New', monospace; font-weight: bold; cursor: pointer; border-radius: 6px; font-size: 12px; box-shadow: 0 0 15px rgba(255,0,255,0.4);">
-                SEND
-            </button>
-        </div>
-    </div>
-</div>
-    
-</div>
 <script>
 // 🔓 SLIDE PANEL AÇMA / KAPAMA ALGORITMASI
 let menuOpen = false;
@@ -331,12 +259,6 @@ function toggleSlideMenu() {
     const deck = document.getElementById("academicControlDeck");
     // Eğer kapalıysa ekranın sol kenarına sıfırlanarak kayar, açıksa sola doğru gizlenir
     deck.style.left = menuOpen ? "0px" : "-300px";
-}
-
-
-// 🔑 ÖRNEK: Salvador veya Doctors butonuna tıklandığında çalışan kod bloğunun EN BAŞINA:
-if (typeof window.closeOraclePanelDirectly === "function") {
-    window.closeOraclePanelDirectly();
 }
 
 // 🗂️ TAB GEÇİŞ ALGORİTMASI
@@ -355,6 +277,7 @@ function switchAcademicTab(targetTab) {
         telemetry.innerHTML = "MODE: CHRIST AMONG DOCTORS<br>CORE: TEMPLE DISCIPLINE ACTIVE";
     }
 }
+
 
 
 
@@ -540,73 +463,20 @@ window.toggleHeartButton = function() {
     }
 };
 
-// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE - KÖPRÜ DÜZELTİLDİ)
-window.toggleAngleButton = function() {
 
+// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE)
+window.toggleAngle = function() {
     if (window.angleState === undefined) window.angleState = false;
     window.angleState = (window.angleState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Angle Butonu Tetiklendi. Yeni Sinyal: ${window.angleState}`);
 
-    // Projendeki iframe ID'lerine göre tam korumalı yakalama hattı
-    const iframe = document.getElementById("anatomy-viewport") || 
-                   document.getElementById("metatronIframeId") || 
-                   document.querySelector("iframe");
-                   
+    //const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
     if (iframe && iframe.contentWindow) {
-        // 🔑 KESİN ÇÖZÜM: Doğru komutu (SET_TOP_VIEW) ve doğru şalter durumunu (angleState) fırlatıyoruz!
         iframe.contentWindow.postMessage({ 
-            komut: "SET_TOP_VIEW", 
-            durum: window.angleState 
+            komut: "HEART_TOGGLE", 
+            durum: window.heartState 
         }, "*");
-    }
-};
-
-
-window.luiniPanelAcikMi = false;
-
-window.toggleLuiniOracle = function() {
-    const panel = document.getElementById("luiniOraclePanel");
-    const dock = document.getElementById("luiniControlDock");
-    const buton = document.getElementById("luiniTabButon");
-    if (!panel) return;
-
-    if (!window.luiniPanelAcikMi) {
-        // 🚀 SLIDE AÇILIŞ: Üst mor panel ekrana %90 genişlikle jilet gibi yayılır
-        panel.style.position = "fixed";
-        panel.style.bottom = "0px";
-        panel.style.left = "50%";
-        panel.style.transform = "translateX(-50%)";
-        panel.style.width = "90vw";      // Ekran genişliğinin %90'ı
-        panel.style.maxWidth = "540px";  // Büyük ekranda taşma sınırı
-        panel.style.height = "65vh";     // Ekran yüksekliğinin %65'i (Asla dikeyde taşmaz)
-        window.luiniPanelAcikMi = true;
-        
-        // Alt rıhtım aşağı kaçar
-        if (dock) {
-            dock.style.bottom = "-100px";
-            dock.style.opacity = "0";
-            dock.style.pointerEvents = "none"; 
-        }
-        if (buton) buton.innerHTML = "▼ CLOSE";
-        console.log("[ORACLE DECK] Panel açıldı, responsive nizam sağlandı.");
-    } else {
-        // 📉 SLIDE KAPANIŞ: Panel yerin dibine gizlenir
-        panel.style.bottom = "-100vh"; // Ekran yüksekliği kadar aşağı gömülür
-        window.luiniPanelAcikMi = false;
-        
-        // 🎛️ ALT RIHTIM GERİ GELİŞ: Ekrana milimetrik oturtma kilidi!
-        if (dock) {
-            dock.style.bottom = "0px";
-            dock.style.left = "0px";
-            dock.style.right = "0px";
-            dock.style.width = "100%"; // 🔑 İŞTE ARADIĞIN KİLİT! Barı yatayda tam %100 genişliğe zorlar.
-            dock.style.boxSizing = "border-box"; // Sağdan soldan taşmayı engeller.
-            dock.style.opacity = "1";
-            dock.style.pointerEvents = "auto";
-            dock.style.zIndex = "1000002";
-        }
-        if (buton) buton.innerHTML = "▲ ASK ORACLE";
     }
 };
 
