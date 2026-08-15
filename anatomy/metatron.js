@@ -95,73 +95,64 @@ function injectMetatronMetabolism() {
     const radius = 0.5; 
 
     // 🔮 Solid translucent chambers reading spatial metrics directly from model
-    window.METATRON_SPECTRUM_MODEL.forEach((chamber, idx) => {
-        const geometry = new THREE.SphereGeometry(0.22, 32, 32);
-        const material = new THREE.MeshBasicMaterial({
-            color: colorHexMap[chamber.color],
-            transparent: true,
-            opacity: 0.35,
-            wireframe: false // Solid translucent lock
-        });
-        
-        const chamberMesh = new THREE.Mesh(geometry, material);
-        chamberMesh.name = `CHAMBER_${chamber.id}`; // İsme göre yakalama filtresi için mühürlendiler
+    let halkaIdx = 0; // 🎯 Çember üzerindeki 6 oda için bağımsız simetri sayacı
 
-        // 📐 KUTSAL GEOMETRİ KOORDİNAT TÜRETİMİ (x, y, z yokluğunu çözen altın oran akışı)
-        // Eğer modelde x, y, z yoksa indekslerine göre 3D uzayda harmonik olarak dağıtıyoruz:
-        let posX = 0, posY = 0, posZ = 0;
-        
-        if (chamber.id === 3) {
-            // Beyaz oda üst merkez kutbuna yerleşir
-            posX = 0; posY = 0.4; posZ = 0;
-        } else if (chamber.id === 6) {
-            // Siyah oda alt merkez kutbuna yerleşir
-            posX = 0; posY = -0.4; posZ = 0;
-        } else {
-            // Diğer renk odaları (Red, Orange, Yellow, Green, Blue, Violet) dairesel halkaya dizilir
-            const angle = (idx / (window.METATRON_SPECTRUM_MODEL.length - 2)) * Math.PI * 2;
-            posX = Math.cos(angle) * radius;
-            posY = 0;
-            posZ = Math.sin(angle) * radius;
-        }
-        
-        // Güvenli pozisyon enjeksiyonu (Artık NaN değil!)
-        chamberMesh.position.set(posX, posY, posZ);
-
-        // Kilit Adres: skeleton.js'in yarattığı window.KuantumKafesi'ne kenetlenme
-        if (window.KuantumKafesi) {
-            window.KuantumKafesi.add(chamberMesh);
-        }
-        
-        window.chambers[chamber.id] = chamberMesh;
+    // 🔮 Solid translucent chambers reading spatial metrics directly from model
+    window.METATRON_SPECTRUM_MODEL.forEach((chamber) => {
+    const geometry = new THREE.SphereGeometry(0.22, 32, 32);
+    const material = new THREE.MeshBasicMaterial({
+        color: colorHexMap[chamber.color],
+        transparent: true,
+        opacity: 0.35,
+        wireframe: false // Solid translucent lock
     });
+    
+    const chamberMesh = new THREE.Mesh(geometry, material);
+    chamberMesh.name = `CHAMBER_${chamber.id}`; // İsme göre filtre mühürü
 
-    // Odalar güvenle dizildikten sonra boru hattını (pipeline) tetikliyoruz
-    if (typeof MetatronPipeline === "function") {
-        MetatronPipeline();
+    let posX = 0, posY = 0, posZ = 0;
+    
+    if (chamber.id === 3) {
+        // Beyaz oda üst merkez kutbuna yerleşir
+        posX = 0; posY = 0.4; posZ = 0;
+    } else if (chamber.id === 6) {
+        // Siyah oda alt merkez kutbuna yerleşir
+        posX = 0; posY = -0.4; posZ = 0;
+    } else {
+        // 📐 KUSURSUZ ARALIKLI ÇEMBER DİZİLİMİ: 
+        // Toplam 6 oda halkaya gireceği için tam 6'ya bölerek 60 derecelik kusursuz açılar elde ediyoruz
+        const angle = (halkaIdx / 6) * Math.PI * 2;
+        posX = Math.cos(angle) * radius;
+        posY = 0;
+        posZ = Math.sin(angle) * radius;
+        
+        halkaIdx++; // Sadece halkaya oda yerleştikçe sayacı ilerlet!
     }
+    
+    // Güvenli pozisyon enjeksiyonu (Simetrik ve Stabil)
+    chamberMesh.position.set(posX, posY, posZ);
+
+    // Kilit Adres: skeleton.js'in yarattığı window.KuantumKafesi'ne kenetlenme
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(chamberMesh);
+    }
+    
+    window.chambers[chamber.id] = chamberMesh;
+});
+
 }
     
 
-window.MetatronPipeline = function() {
-    console.log("[PIPELINE PROTOCOL] Metatron Akış Hattı Başarıyla Tetiklendi.");
-    
-    // Eğer metatron.js yüklenmişse onun içindeki metabolizmayı hemen başlat
-    if (typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
-};
-
-// Ana animasyon döngüsünü tetikle
-    MetatronPipeline();
-
-
 window.MetatronEngine = function() {
-    if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    
     const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
+    
+    // 🛡️ KUANTUM PAKET GÜVENLİK KALKANI: Dizi hafızada yoksa anında yarat, çökmeyi engelle!
+    window.activePackets = window.activePackets || [];
 
-    METATRON_SPECTRUM_MODEL.forEach((ch, idx) => {
-         const mesh = window.chambers ? window.chambers[ch.id] : null; 
+    window.METATRON_SPECTRUM_MODEL.forEach((ch, idx) => {
+        const mesh = window.chambers ? window.chambers[ch.id] : null; 
         if (!mesh) return; 
         const burnRatePerSec = ch.e * Phi, decayMs = 999 - ch.q;
         
@@ -174,7 +165,9 @@ window.MetatronEngine = function() {
                 window.activePackets.push(new window.QuantumPacket(4, 5, ch.q, 1 / Phi));
             }
         }
-        mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
+        if (mesh.material) {
+            mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
+        }
         mesh.scale.setScalar(0.22 * (window.heartAnimationActive !== false ? (1 + Math.sin(now * 0.001 * ch.e) * 0.15) : 1));
     });
 
@@ -187,6 +180,7 @@ window.MetatronEngine = function() {
         window.renderer.render(window.scene, window.camera);
     }
 };
+
 // Start the core engine
 injectMetatronMetabolism();
 
