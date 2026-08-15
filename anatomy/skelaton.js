@@ -294,3 +294,45 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
 } 
+
+
+
+
+// ============================================================================
+// 🌊 SKELETON.JS - METATRON ENGINE INITIALIZATION & LOOP (20 Lines)
+// ============================================================================
+window.initMetatronEngine = function() {
+    window.activePackets = window.activePackets || [];
+    console.log("Metatron Engine Initialized successfully.");
+};
+
+window.MetatronEngine = function() {
+    if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
+
+    // 1. Iterate through ALL rooms in the color spectrum array
+    window.COLOR_SPECTRUM_MODEL.forEach((ch, idx) => {
+        const mesh = window.KuantumKafesi.children[idx]; if (!mesh) return;
+        const burnRatePerSec = ch.e * Phi; // Fire/pulse rate powered by 'e'
+        const decayMs = 999 - ch.q;        // Ms cooldown period powered by 'q'
+        
+        // Quantum injection logic: pulses packets based on individual room firing rates
+        if (Math.floor(now * (burnRatePerSec / 1000)) % 15 === 0 && window.activePackets.length < 15) {
+            if (ch.id === 1) { // Red (1) initiates inflow (Systole) to Yellow (4)
+                window.activePackets.push(new window.QuantumPacket(1, 4, ch.q, Phi));
+                window.activePackets.push(new window.QuantumPacket(7, 4, 741, 1.0)); // Blue -> Yellow
+                window.activePackets.push(new window.QuantumPacket(8, 4, 528, Phi)); // Green -> Yellow
+            } else if (ch.id === 5) { // Violet (5) manages polarity outflow (Diastole)
+                window.activePackets.push(new window.QuantumPacket(4, 5, ch.q, 1 / Phi)); // Yellow -> Violet
+            }
+        }
+        // Millisecond fading (Opacity) and scale oscillations handled perfectly via static data
+        mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
+        mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
+    });
+
+    // 2. Drive active packets forward and rotate the matrix cage
+    window.activePackets.forEach(p => p.update(dt));
+    window.activePackets = window.activePackets.filter(p => p.isActive);
+    window.KuantumKafesi.rotation.y += 0.005 * Phi;
+};
