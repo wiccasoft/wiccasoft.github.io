@@ -18,18 +18,92 @@
 <script src="skeleton.js"></script>
 
 <script>
-// 🧠 1. GLOBAL BELLEK KİLİTLERİ (Three.js Sahne Elemanları)
+
+// 🧠 1. GLOBAL KİLİTLER VE SİNYAL ALTYAPISI
 window.scene = window.scene || null;
 window.camera = window.camera || null;
 window.renderer = window.renderer || null;
 
-// ... (Biyofeedback Worker Kodu) ...
+window.currentMv = -90.0;
+window.currentOdaRengi = "Kırmızı";
+window.vagusBrakeActive = false;
 
-// 🧪 3. ALGORİTMİK METABOLİK VE PARAMETRE TÜRETİCİ
+// ⚡ NEURAL WORKER BLOB ENJEKTÖRÜ
+const workerCode = `
+    setInterval(() => {
+        postMessage({
+            komut: "BİYOLOJİK_TELEMETRİ",
+            kalp: { mv: -90, renk: "Kırmızı", bpm: 72 },
+            vagusEffort: 0.2,
+            sistemModu: "Denge"
+        });
+    }, 1000);
+`;
+const blob = new Blob([workerCode], { type: 'application/javascript' });
+const biyoWorker = new Worker(URL.createObjectURL(blob));
+
+biyoWorker.onmessage = function(e) {
+    if (e.data && e.data.komut === "BİYOLOJİK_TELEMETRİ") {
+        // İleride worker'dan gelen verileri buradaki global hafızaya bağlayacağız tatlım
+    }
+};
+
+// 🧪 2. ALGORİTMİK METABOLİK VE ELEMENTER PARAMETRE TÜRETİCİ
 function simulasyonParametreleriniTuret() {
-    // Kaynağındaki gibi nesne kontrolleri ve veri hesaplamaları burada yapılır.
     if (!window.METATRON_SPECTRUM_MODEL || !window.chambers) return;
-    // ... (Hesaplama mantığı) ...
+
+    // 🎯 KUSURSUZ ENTEGRASYON: Sahnede o an en parlak / baskın olan odayı buluyoruz
+    let dominantChamber = null;
+    let maxWave = -1;
+
+    window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
+        const mesh = window.chambers[ch.id];
+        if (mesh && mesh.userData && mesh.userData.currentWave > maxWave) {
+            maxWave = mesh.userData.currentWave;
+            dominantChamber = ch;
+        }
+    });
+
+    if (!dominantChamber) return;
+
+    const waveValue = maxWave;
+    const odaRengi = dominantChamber.colorName || "Kırmızı";
+
+    // A. Kuantum Milivolt (EKG) -> Odalar parladıkça aksiyon potansiyeli fırlar
+    let ekgMv = -90.0 + (waveValue * 120.0);
+
+    // B. Algoritmik Kan Basıncı (mmHg) -> Kırmızı (Ateş) ve Yeşil (Toprak) odalarında basınç fırlar
+    let basincMmHg = 80; 
+    if (dominantChamber.id === 1) basincMmHg = Math.round(110 + (waveValue * 10)); // Ateş Akımı
+    else if (dominantChamber.id === 8) basincMmHg = Math.round(100 + (waveValue * 20)); // Toprak Sıkıştırması
+    else if (dominantChamber.id === 2) basincMmHg = Math.round(85 + (waveValue * 15)); // Hava Dolaşımı
+
+    // C. Oksijen ve pH Yoğunluğu
+    let oksijenSaturation = 98.0;
+    let kanPh = 7.42;
+    if (window.AKTIF_ZAMAN_MODU === "CRITICAL_SHOCK") {
+        oksijenSaturation = 92.5 + Math.sin(performance.now() * 0.005) * 1.5;
+        kanPh = 7.31; 
+    }
+
+    // D. Metabolik Şebeke Şalteri
+    let metabolikDurum = "BAZAL REZONANS";
+    if (dominantChamber.id === 8) {
+        metabolikDurum = "LIVER: GLYCOGENOLYSIS / PANCREAS: GLUCOSE BUFFER";
+    }
+
+    // 📡 Üst penceredeki (main.html) HUD kontrol paneline şifreli akımı basıyoruz
+    window.parent.postMessage({
+        komut: "HUD_PANEL_GUNCELLE",
+        ekg: `${ekgMv.toFixed(1)} mV`,
+        tansiyon: `${basincMmHg} mmHg`,
+        oksijen: `%${oksijenSaturation.toFixed(1)} SpO2`,
+        ph: `${kanPh.toFixed(2)} pH`,
+        metabolizma: metabolikDurum,
+        frekans: `${dominantChamber.q} Hz`,
+        element: dominantChamber.id === 1 ? "FIRE" : (dominantChamber.id === 8 ? "EARTH" : (dominantChamber.id === 7 ? "WATER" : "AIR")),
+        wave: waveValue
+    }, "*");
 }
 
 // 🪐 3. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (RENDER MATRIX)
@@ -64,102 +138,6 @@ window.addEventListener('DOMContentLoaded', () => {
     }
     animate();
 });
-
-</script>
-
-<script>
-       // 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER (BLOB KİLİDİ - file:// UYUMLU)
-window.currentMv = -90.0;
-window.currentOdaRengi = "Kırmızı";
-window.vagusBrakeActive = false;
-
-// Worker kodunu doğrudan string olarak belleğe alıyoruz (Dosya okuma zorunluluğunu kaldırır)
-const workerCode = `
-    // Buraya neural-worker.js dosyanın içindeki tüm JavaScript kodlarını KOPYALAYIP YAPIŞTIR.
-    // Örnek taslak (sen kendi kodunu koy):
-    setInterval(() => {
-        postMessage({
-            komut: "BİYOLOJİK_TELEMETRİ",
-            kalp: { mv: -90, renk: "Kırmızı", bpm: 72 },
-            vagusEffort: 0.2,
-            sistemModu: "Denge"
-        });
-    }, 1000);
-`;
-
-// Tarayıcıyı kandırıp harici dosya değilmiş gibi bellekten sanal URL üretiyoruz
-const blob = new Blob([workerCode], { type: 'application/javascript' });
-const biyoWorker = new Worker(URL.createObjectURL(blob));
-
-        // 🧪 3. ALGORİTMİK METABOLİK VE KARDİYO PARAMETRE TÜRETİCİ (TRUVA ATININ BEYNİ)
-        function simulasyonParametreleriniTuret() {
-            // metatron.js içindeki o an dönen canlı oda verilerini okuyoruz
-            if (window.mevcutOdaSirasi === undefined || !window.RENK_TAYFI_SPEKTRUMU) return;
-            
-            const metatronState = window.RENK_TAYFI_SPEKTRUMU[window.mevcutOdaSirasi];
-            if (!metatronState) return;
-
-            let ekgMv = window.currentMv; // Worker'dan gelen gerçek milivolt
-            let odaRengi = window.currentOdaRengi;
-
-            // A. Algoritmik Kan Basıncı (mmHg) Türetimi
-            let basincMmHg = 80; // Taban diyastolik basınç
-            if (odaRengi === "Yeşil") basincMmHg = 120; // Kasılma (Sistol) anı
-            else if (odaRengi === "Sarı") basincMmHg = 100; // Depolarizasyon ivmesi
-
-            // B. Algoritmik Oksijen (%SpO2) ve pH Türetimi
-            let oksijenSaturation = 98.0;
-            let kanPh = 7.42;
-
-            if (window.AKTIF_ZAMAN_MODU === "CRITICAL_SHOCK") {
-                // Savaş ya da kaç anında oksijen hızla tükenir, laktik asit yüzünden pH düşer (Asidoz)
-                oksijenSaturation = 92.5 + Math.sin(performance.now() * 0.005) * 1.5;
-                kanPh = 7.31; 
-            }
-
-            // C. Karaciğer ve Pankreas Metabolik Pathway Şalteri (YEŞİL ODA TOPRAKLAMASI)
-            let metabolikDurum = "BAZAL DENGELENME";
-            if (odaRengi === "Yeşil") {
-                metabolikDurum = "LIVER: GLYCOGENOLYSIS / PANCREAS: GLUCOSE BUFFER";
-            }
-
-            // Üst pencereye (main.html / HUD panele) akademinin eriyeceği o 4 doğrusal datayı fırlatıyoruz
-            window.parent.postMessage({
-                komut: "HUD_PANEL_GUNCELLE",
-                ekg: `${ekgMv.toFixed(1)} mV`,
-                tansiyon: `${basincMmHg} mmHg`,
-                oksijen: `%${oksijenSaturation.toFixed(1)} SpO2`,
-                ph: `${kanPh.toFixed(2)} pH`,
-                metabolizma: metabolikDurum,
-                frekans: metatronState.frekans
-            }, "*");
-        }
-
-        // 🪐 4. ULTRA-HAFİF ANİMASYON DÖNGÜSÜ
-        function animate() {
-            requestAnimationFrame(animate);
-
-
-             if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
-
-      // 📺 Ekranı tazeleyen ve sahneyi çizen nihai emrin
-    if (typeof renderer !== "undefined" && renderer && scene && camera) {
-        renderer.render(scene, camera);
-    }
-
-            // A. Tüm ağır çizim, şelale ve parça hesaplamaları metatron.js içinde pürüzsüzce akar
-            window.updateMetatronLoop = window.updateMetatronLoop || function() {
-    // Motorlar tamamen yüklenene kadar bu boş kareyi döner, çökmeyi engeller.
-};
-            // B. Çizilen her kareden sonra, o tek kaynaktan (Metatron'dan) 4 canlı parametreyi algoritmik türet
-            if (window.scene && window.camera && window.renderer) {
-                simulasyonParametreleriniTuret();
-            }
-        }
-
-
 </script>
 </body>
 </html>
