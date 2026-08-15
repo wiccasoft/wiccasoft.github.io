@@ -57,6 +57,61 @@ window.createMetatronAxes = function(isAxisVisible) {
 };
 
 
+
+
+
+// ============================================================================
+// 🔮 MODÜLER KÜRE ENJEKSİYON MOTORU (initMagicSpheres)
+// ============================================================================
+window.initMagicSpheres = function() {
+    if (!window.KuantumKafesi) {
+        console.warn("[MAGIC SPHERES] KuantumKafesi henüz hazır değil, enjeksiyon ertelendi.");
+        return;
+    }
+
+    const spheres = [
+        { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, 
+        { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff7f00, isPole: false },
+        { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
+        { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false }, 
+        { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false }, 
+        { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x8b00ff, isPole: false },
+        { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true  }, 
+        { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x111111, isPole: true  }  
+    ];
+
+   const sphereRadius = 0.28; // 💡 0.08'den 0.28'e çıkarıldı! Çizgilerin köşesinde şak diye belirir.
+window.chambers = window.chambers || {}; 
+
+spheres.forEach(s => {
+    // 32 segment kalarak kusursuz pürüzsüzlük korunuyor
+    const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
+    
+    // Işık aramayan parıltılı mat yapı
+    const mat = new THREE.MeshBasicMaterial({
+        color: s.color,
+        transparent: true,
+        // Siyah oda (id:6) arka planda kaybolmasın diye görünürlüğünü arttırıyoruz, loş odaları da parlatıyoruz
+        opacity: s.isPole ? 0.95 : 0.65, 
+        depthWrite: false, // Çizgilerin arkadan sızmasını sağlayan kutsal ayar kalıyor
+        depthTest: true,     
+        precision: "highp"   
+    });
+    
+    const sphereMesh = new THREE.Mesh(geom, mat);
+    sphereMesh.position.copy(s.pos);
+    sphereMesh.name = `CHAMBER_${s.id}`; 
+
+    if (window.KuantumKafesi) {
+        window.KuantumKafesi.add(sphereMesh);
+    }
+    
+    window.chambers[s.id] = sphereMesh;
+});
+
+    console.log("[MAGIC SPHERES] Kuantum odaları iskelet nizamına başarıyla enjekte edildi.");
+};
+
 window.initSkelaton = function() {
 
     // 1. Ana Sahne Kurulumu
@@ -290,8 +345,8 @@ window.initSkelaton = function() {
     addTetrahedron(tetra1, 0xffffff);
     addTetrahedron(tetra2, 0xaaaaaa); // Küre materyali (saydam)
   
-const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
-
+    //const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
+ window.initMagicSpheres();
 
 } 
 
@@ -319,18 +374,15 @@ window.updateMetatronLoop = function() {
 // 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
 // anatomy.html içindeki animate() fonksiyonu her karede burayı çağırır.
 // ============================================================================
-// 🫀 SKELETON MESH SCALER (KUSURSUZ ENJEKSİYON HATTI)
+// 🫀 SKELETON MESH SCALER (DENGELENMİŞ ENJEKSİYON HATTI)
 // ============================================================================
 window.metatronMeshScaler = function(mesh, now, ch) {
-    // 🎯 KESİN ÇÖZÜM: Hata fırlatan o serseri satır artık bu fonksiyonun İÇİNE mühürlendi!
-    // Parametre olarak gelen 'now' ve 'ch' değişkenlerini hatasız bir şekilde okur.
     const heartMultiplier = window.heartAnimationActive !== false ? (1 + Math.sin(now * 0.001 * ch.e) * 0.15) : 1;
     
-    // Nihai ölçek çarpanı odanın (kürenin) üzerine enjekte ediliyor
-    mesh.scale.setScalar(0.22 * heartMultiplier);
+    // 🎯 REKALİBRASYON: 3.8 olan çarpan 0.3 katına düşürüldü.
+    // Artık odalar iskeleti yutmayacak, tam köşelerde şık boncuklar olarak parlayacak.
+    mesh.scale.setScalar(0.3 * heartMultiplier);
 };
-
-
 // ============================================================================
 // 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
 // ============================================================================
