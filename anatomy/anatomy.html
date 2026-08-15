@@ -91,8 +91,9 @@ const biyoWorker = new Worker(URL.createObjectURL(blob));
             requestAnimationFrame(animate);
 
             // A. Tüm ağır çizim, şelale ve parça hesaplamaları metatron.js içinde pürüzsüzce akar
-            updateMetatronLoop();
-
+            window.updateMetatronLoop = window.updateMetatronLoop || function() {
+    // Motorlar tamamen yüklenene kadar bu boş kareyi döner, çökmeyi engeller.
+};
             // B. Çizilen her kareden sonra, o tek kaynaktan (Metatron'dan) 4 canlı parametreyi algoritmik türet
             if (window.scene && window.camera && window.renderer) {
                 simulasyonParametreleriniTuret();
