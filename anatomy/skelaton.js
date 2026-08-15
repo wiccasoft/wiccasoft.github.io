@@ -3,7 +3,7 @@
 // 🧭 DETACHED RGB AXES CORE ENGINE (BAĞIMSIZ BOYUT MİLİ FONKSİYONU)
 // ============================================================================
 window.createMetatronAxes = function(isAxisVisible) {
-    // 🛠️ Eğer sahnede veya grupta eski eksenler kalmışsa pürüzsüzce imha et
+
     ["currentAxisX", "currentAxisY", "currentAxisZ"].forEach(axisName => {
         if (window[axisName]) {
             if (window.KuantumKafesi) window.KuantumKafesi.remove(window[axisName]);
@@ -296,6 +296,8 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 } 
 
 
+// 🚀 BAŞLATICI
+if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 // ============================================================================
 // 🌊 SKELETON.JS - METATRON ENGINE COUPLING & ANIMATION LOOP
@@ -385,3 +387,30 @@ window.addEventListener("message", function(event) {
         }
     }
 });
+
+
+
+
+// ============================================================================
+// 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON & ENGINE ENJEKSİYONU)
+// ============================================================================
+window.initAllMetatronSystems = function() {
+    console.log("[METATRON BOOT] Sistemler sırayla ayağa kaldırılıyor...");
+    
+    // 1. Önce Three.js dünyasını, kamerayı, ışıkları ve Kuantum Kafesini kur
+    if (typeof window.initSkelaton === "function") {
+        window.initSkelaton();
+    }
+    
+    // 2. İskelet ayağa kalktıktan sonra Kuantum Motorunu ateşle
+    if (typeof window.initMetatronEngine === "function") {
+        window.initMetatronEngine();
+    }
+};
+
+// anatomy.html içindeki DOMContentLoaded veya doğrudan script çağrıları için tetikleyici
+if (document.readyState === "loading") {
+    window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
+} else {
+    window.initAllMetatronSystems();
+}
