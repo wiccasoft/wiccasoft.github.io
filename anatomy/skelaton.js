@@ -70,12 +70,12 @@ window.initMagicSpheres = function() {
     }
 
 const spheres = [
-    { id: 1, name: "RED_ENERGY_CHAMBER",   pos: new THREE.Vector3( 0.5,  0.5,  0.5), color: 0xff0000, isPole: false }, // Sağ Üst Ön
+    { id: 1, name: "RED_ENERGY_CHAMBER",    pos: new THREE.Vector3( 0.5,  0.5,  0.5), color: 0xff0000, isPole: false }, // Sağ Üst Ön
     { id: 2, name: "ORANGE_VORTEX",         pos: new THREE.Vector3( 0.5,  0.5, -0.5), color: 0xff7f00, isPole: false }, // Sağ Üst Arka
     { id: 4, name: "YELLOW_RESONATOR",      pos: new THREE.Vector3( 0.5, -0.5, -0.5), color: 0xffff00, isPole: false }, // Sağ Alt Arka
-    { id: 8, name: "VIOLET_CROWN_NODE",     pos: new THREE.Vector3(-0.5, -0.5, -0.5), color: 0x8b00ff, isPole: false }, // Sol Alt Arka
+    { id: 5, name: "VIOLET_CROWN_NODE",     pos: new THREE.Vector3(-0.5, -0.5, -0.5), color: 0x8b00ff, isPole: false }, // Sol Alt Arka
     { id: 7, name: "BLUE_ETHER_CHAMBER",    pos: new THREE.Vector3(-0.5, -0.5,  0.5), color: 0x0000ff, isPole: false }, // Sol Alt Ön
-    { id: 5, name: "GREEN_BALANCE_POINT",   pos: new THREE.Vector3(-0.5,  0.5,  0.5), color: 0x00ff00, isPole: false }, // Sol Üst Ön
+    { id: 8, name: "GREEN_BALANCE_POINT",   pos: new THREE.Vector3(-0.5,  0.5,  0.5), color: 0x00ff00, isPole: false }, // Sol Üst Ön
     
     // Kutsal Miller (Akslar - Dalga dışında sabit duran merkez kutuplar)
     { id: 3, name: "WHITE_LIGHT_KNOT",      pos: new THREE.Vector3(-0.5,  0.5, -0.5), color: 0xffffff, isPole: true  }, // Sol Üst Arka
@@ -348,10 +348,79 @@ window.initSkelaton = function() {
     addTetrahedron(tetra2, 0xaaaaaa); // Küre materyali (saydam)
   
     //const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
- window.initMagicSpheres();
+    
+    
+const sphereRadius = 0.3; // küçük küreler küpün içine sığacak
 
+const spheres = [
+    { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, // Kırmızı Köşe
+    { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xFF7F00, isPole: false },
+    { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
+    { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false }, // Yeşil Karşı Köşe
+    { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false }, // Mavi Oposite
+    { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x660099, isPole: false },
+    { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true  }, // 🌟 \(\sqrt{2}\) ÇAPRAZ KUTUP (KUZEYBATI)
+    { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x222222, isPole: true  }  // 🌟 \(\sqrt{2}\) ÇAPRAZ TABAN (GÜNEYDOĞU)
+];
+// ============================================================================
+// ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME 
+// ============================================================================
+// ============================================================================
+// ODALARI BAŞLANGIÇTA YARI SAYDAM CAMA DÖNÜŞTÜRME (AÇILIŞTA RENKSİZ NÖTR CAM)
+// ============================================================================
+spheres.forEach(s => {
+  const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
+  
+  // 🎯 KESİN ÇÖZÜM: İlk açılışta materyalin rengini doğrudan nötr gri (cam) yapıyoruz,
+  // ama asıl rengini kaybetmesin diye 's.color' kimliğini buraya gömüyoruz!
+  const mat = new THREE.MeshPhongMaterial({
+    color: s.isPole ? s.color : 0x444444, // Açılışta loş gri cam tonu
+    emissive: s.isPole ? s.color : 0x222222,
+    emissiveIntensity: s.isPole ? 1.0 : 0.1, 
+    transparent: true,
+    opacity: s.isPole ? 0.9 : 0.20, // Harika bir açılış saydamlığı
+    
+    depthWrite: false,   
+    depthTest: true,     
+    precision: "highp"   
+  });
+  
+  const sphere = new THREE.Mesh(geom, mat);
+  sphere.position.copy(s.pos);
+  sphere.name = s.name; 
+  
+  // 🔑 KİLİT NOKTA: Odanın asıl rengini motorun okuyabilmesi için mesh üzerine mühürle!
+  sphere.userData = { originalColor: s.color };
+
+  KuantumKafesi.add(sphere);
+
+  window.chambers = window.chambers || {};
+  window.chambers[s.id] = sphere;
+});
+
+ //window.initMagicSpheres();
+ 
 } 
 
+
+
+// ============================================================================
+// 🪐 LOCAL ANIMATION MATRIX LOOP (ZİNCİRLEME WEBGL TETİKLEYİCİSİ)
+// ============================================================================
+function animateSkelatonMatrix() {
+    // Tarayıcının ekran yenileme hızında (60 FPS) bu fonksiyonu sürekli döndür
+    requestAnimationFrame(animateSkelatonMatrix);
+
+    // 🎯 ORKESTRA ŞEFİNİ BURADA HER KAREDE ZORLA İLERİYE SÜRÜYORUZ!
+    // Böylece şef, motor kapalıyken 'else' koluna düşüp iskeleti pürüzsüzce çizecek.
+    if (typeof window.updateMetatronLoop === "function") {
+        window.updateMetatronLoop();
+    }
+}
+
+// 🚀 İSKELET VE MOTOR KURULDUĞU AN ANIMASYON ÇARKINI DÖNDÜRMEYE BAŞLA
+animateSkelatonMatrix();
+console.log("[ANIMATION MATRIX] Yerel WebGL döngüsü başarıyla kenetlendi.");
 // ============================================================================
 // 🌊 SKELETON.JS - METATRON ENGINE COUPLING & SINGLE BRIDGE SOURCE
 // ============================================================================
@@ -360,16 +429,32 @@ window.initMetatronEngine = function() {
     console.log("Metatron Engine Initialized successfully.");
 };
 
-// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE) - EKSİK OLAN KİLİT GÖVDE GERİ EKLENDİ!
-// anatomy.html içindeki animate() döngüsü her karede bu köprüyü tetikler.
+// ============================================================================
+// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE) - NİHAİ KİLİT ÇÖZÜM!
+// ============================================================================
 window.updateMetatronLoop = function() {
-    // 1. Eğer metatron.js yüklendiyse onun içindeki gerçek ana metabolizma motorunu tetikle
-    if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
-        window.MetatronEngine();
+    
+    // 🎯 1. DURUM: Eğer şalter true ise motoru tamamen özgür bırak, aksın!
+    if (window.heartAnimationActive === true) {
+        if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
+            window.MetatronEngine(); // Renk spektrumu ve rotasyon ateşlenir!
+        } else if (window.renderer && window.scene && window.camera) {
+            window.renderer.render(window.scene, window.camera);
+        }
     } 
-    // 2. Güvenli Fallback: metatron motoru uyanana kadar sahneyi siyah bırakma, iskeleti çiz
-    else if (window.renderer && window.scene && window.camera) {
-        window.renderer.render(window.scene, window.camera);
+    
+    // 💤 2. DURUM (AÇILIŞ & UYKU MODU): Şalter kapalıyken motoru tamamen DURDUR, 
+    // ama iskeletin ekrandan gitmemesi için ana WebGL render emrini vermeye devam et!
+    else {
+        // İskeletin kendi ekseninde hafifçe salınması için iskelet rotasyonunu burada güvenle yürütebilirsin
+        if (window.KuantumKafesi) {
+           // window.KuantumKafesi.rotation.y += 0.001; // Açılışta çok hafif, mistik bir dönüş
+        }
+        
+        // 🔮 İSKELETİ GERİ GETİREN CAN DAMARI SATIRLAR!
+        if (window.renderer && window.scene && window.camera) {
+            window.renderer.render(window.scene, window.camera);
+        }
     }
 };
 
@@ -378,12 +463,18 @@ window.updateMetatronLoop = function() {
 // ============================================================================
 // 🫀 SKELETON MESH SCALER (DENGELENMİŞ ENJEKSİYON HATTI)
 // ============================================================================
+// ============================================================================
+// 🫀 SKELETON MESH SCALER (NİHAİ DENGELENMİŞ BOYUT KİLİDİ)
+// ============================================================================
 window.metatronMeshScaler = function(mesh, now, ch) {
+    // Kalp şalterini dinler (Butona basınca nefes efekti dondurulsun diye)
     const heartMultiplier = window.heartAnimationActive !== false ? (1 + Math.sin(now * 0.001 * ch.e) * 0.15) : 1;
     
-    // 🎯 REKALİBRASYON: 3.8 olan çarpan 0.3 katına düşürüldü.
-    // Artık odalar iskeleti yutmayacak, tam köşelerde şık boncuklar olarak parlayacak.
-    mesh.scale.setScalar(0.3 * heartMultiplier);
+    // 🎯 KESİN ÇÖZÜM: Çarpanı tam olarak 1.0 yapıyoruz!
+    // Böylece motor küreleri yakaladığında boyutlarını bozup ezemeyecek,
+    // Küreler senin skeleton.js'te yarattığın o kusursuz orijinal boyutunu (0.2 yarıçapını) 
+    // birebir korurken sadece üzerine kalp atışı ritmini ve renk spektrumu parıltısını alacak!
+    //mesh.scale.setScalar(1.0 * heartMultiplier);
 };
 // ============================================================================
 // 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
@@ -395,7 +486,7 @@ window.initAllMetatronSystems = function() {
     }
     // Eğer metatron motoru yüklendiyse döngüyü uyandır
     if (typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
+        //window.MetatronEngine();
     }
 };
 
@@ -405,8 +496,6 @@ if (document.readyState === "loading") {
 } else {
     window.initAllMetatronSystems();
 }
-
-
 
 
 // ============================================================================
@@ -461,7 +550,9 @@ window.addEventListener("message", function(event) {
     // 3. KUANTUM KALP ATIŞ ŞALTERİ (Nefes alma efektini dondurma/açma kilidi)
     else if (komut === "HEART_TOGGLE") {
         // Bu durumu global yapıyoruz ki updateMetatronLoop içinde animasyonu durdurabilelim
-        window.heartAnimationActive = durum; 
+          //window.heartAnimationActive = durum; 
+          //window.heartAnimationActive = msg.value;
+          window.heartAnimationActive = durum; 
     }
 
     // 4. KUANTUM AÇI ŞALTERİ (Üstten Görünüm / Kamera Kilidi)
