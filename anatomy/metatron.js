@@ -6,13 +6,13 @@ const M_UP   = [1,4,7]   // UP
 const M_DOWN = [2,8,5]   // DOWN
 
 const SPINE = [2,7]
-//const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
-//const ELEMENTS = {earth:8,air:2,water:7,fire:1}
+const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
+const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
-//const M_direction= [{east:1},{west:8}]
+const M_direction= [{east:1},{west:8}]
 
-//const colorspectrum = [1, 2, 4, 8, 7, 5]; 
-//const solfeggiospec = [1, 7, 4, 2, 8, 5];
+window.colorspectrum = [1, 2, 4, 8, 7, 5]; 
+window.solfeggiospec = [1, 7, 4, 2, 8, 5];
 
 //SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive RAINBOW
 //solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,d:852,s:693}]}; //  3,6,9 
@@ -166,112 +166,51 @@ function injectMetatronMetabolism() {
 }
     
 window.MetatronEngine = function() {
-    // 🛡️ GÜVENLİK KALKANI: Giriş kontrolleri ve paket hafıza kilidi
+    // 🛡️ GÜVENLİK KALKANI: Giriş kontrolleri
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
-    window.activePackets = window.activePackets || [];
     
-    const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
-
-    // 🔮 ODALARIN DÖNGÜ İÇİ GÜNCELLEME METABOLİZMASI
+    const now = Date.now(), Phi = 1.61803398875;
+    
+    // 🎨 COLOR SPECTRUM (1-2-4-8-7-5) KUTSAL AKIŞ SIRALAMASI
+    // Odalar artık senin belirttiğin bu sıra nizamına göre ardışık parlayacak!
+    const spectrumOrder = window.colorspectrum
+    
+    // 🔮 ODALARIN DÖNGÜ İÇİ ENERJİ METABOLİZMASI
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
-        if (!mesh) return; // Oda henüz sahnede inşa edilmediyse çökme, sonraki kareyi bekle
+        if (!mesh) return; 
 
-        const burnRatePerSec = ch.e * Phi, decayMs = 999 - ch.q;
+        // 🌊 SPEKTRUM DALGASI (YAKMA MEKANİZMASI)
+        let wave = 0;
         
-        // 🛰️ Kuantum paket fırlatma metabolizması
-        if (Math.floor(now * (burnRatePerSec / 1000)) % 15 === 0 && window.activePackets.length < 15) {
-            if (ch.id === 1) {
-                window.activePackets.push(new window.QuantumPacket(1, 4, ch.q, Phi));
-                window.activePackets.push(new window.QuantumPacket(7, 4, 741, 1.0));
-                window.activePackets.push(new window.QuantumPacket(8, 4, 528, Phi));
-            } else if (ch.id === 5) {
-                window.activePackets.push(new window.QuantumPacket(4, 5, ch.q, 1 / Phi));
+        if (spectrumOrder.includes(ch.id)) {
+            const orderIndex = spectrumOrder.indexOf(ch.id);
+            // Renk spektrumu sırasına göre aralarına altın oran (0.618) faz kayması ekliyoruz.
+            // Bu sayede ışık 1'den başlayıp sırayla 2, 4, 8, 7, 5 yönünde bir nehir gibi akacak.
+            wave = Math.sin((now * 0.0025) - (orderIndex * 0.618));
+        }
+
+        // Opaklık Ayarı (Beyaz ve Siyah eksen odaları parlar, diğerleri renk sırasına göre söner/yanar)
+        if (mesh.material) {
+            if (ch.id === 3 || ch.id === 6) {
+                mesh.material.opacity = 0.85; // Kutup milleri kalıcı aydınlık kalır
+            } else {
+                // Taban loşluğu 0.20, dalga parıltısı zirvesi 0.85 olacak şekilde yumuşak geçiş
+                mesh.material.opacity = 0.20 + (Math.max(0, wave) * 0.65); 
             }
         }
 
-        // Opaklık (Sönümlenme) Ataması
-        if (mesh.material) {
-            mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
-        }
-
         // 🫀 KALP ATIŞI VE ÖLÇEKLENDİRME (KÖPRÜ ENJEKSİYONU)
-        // Döngünün İÇİNDE olduğumuz için mesh, now ve ch hatasız fırlatılır!
         if (typeof window.metatronMeshScaler === "function") {
             window.metatronMeshScaler(mesh, now, ch);
         }
-    }); // 👈 DÖNGÜ BURADA BİTİYOR!
-
-    // ============================================================================
-    // 🌪️ PAKET SİMÜLASYONU & ODALAR ARASI CANLI BAĞLANTI HATLARI
-    // ============================================================================
-    
-    // Eski geçici bağlantı çizgilerini sahneden temizle (Her karede taze çizim için)
-    if (window.KuantumBaglantiHatlari) {
-        window.KuantumKafesi.remove(window.KuantumBaglantiHatlari);
-        window.KuantumBaglantiHatlari.geometry.dispose();
-        if (Array.isArray(window.KuantumBaglantiHatlari.material)) {
-            window.KuantumBaglantiHatlari.material.forEach(m => m.dispose());
-        } else {
-            window.KuantumBaglantiHatlari.material.dispose();
-        }
-        window.KuantumBaglantiHatlari = null;
-    }
-
-    const linePoints = [];
-    const lineColors = [];
-
-    // Aktif paketlerin uçtuğu yolları dinamik ışık köprülerine dönüştür
-    window.activePackets.forEach(p => {
-        p.update(dt); // Paketi yürüt
-
-        // Paket hangi odadan hangi odaya gidiyorsa o koordinatları yakala
-        const kaynakMesh = window.chambers[p.sourceId];
-        const hedefMesh = window.chambers[p.targetId];
-
-        if (kaynakMesh && hedefMesh) {
-            // Canlı koordinatları al
-            const pStart = kaynakMesh.position;
-            const pEnd = hedefMesh.position;
-
-            // Paket ilerlemesine göre (p.progress 0 ile 1 arasıdır) anlık ışık noktasını bul
-            const pCurrent = new THREE.Vector3().lerpVectors(pStart, pEnd, p.progress || 0);
-
-            // Odadan çıkan ışık süzmesi çizgisi hattı
-            linePoints.push(pStart.clone(), pCurrent.clone());
-
-            // Paketin rengine göre kuantum ışık hattı rengi enjekte et (Örn: Red, Green vb.)
-            const cBase = kaynakMesh.material.color;
-            lineColors.push(cBase.r, cBase.g, cBase.b);
-            lineColors.push(cBase.r * 0.5, cBase.g * 0.5, cBase.b * 0.5); // Sönümlenen uç
-        }
     });
 
-    // Eğer uçuşan aktif paket varsa dinamik bağ çizgilerini oluştur ve kafese çak!
-    if (linePoints.length > 0) {
-        const lineGeom = new THREE.BufferGeometry().setFromPoints(linePoints);
-        lineGeom.setAttribute('color', new THREE.Float32BufferAttribute(lineColors, 3));
+    // 🌪️ Altın oran ivmesiyle iskelet rotasyonu
+    window.KuantumKafesi.rotation.y += 0.003 * Phi;
 
-        const lineMat = new THREE.LineBasicMaterial({
-            vertexColors: true,
-            transparent: true,
-            opacity: 0.75,
-            blending: THREE.AdditiveBlending, // Işıkların üst üste bindiğinde parlamasını sağlar
-            linewidth: 2
-        });
-
-        window.KuantumBaglantiHatlari = new THREE.LineSegments(lineGeom, lineMat);
-        window.KuantumBaglantiHatlari.name = "KUANTUM_BAGLANTI_HATLARI";
-        window.KuantumKafesi.add(window.KuantumBaglantiHatlari);
-    }
-
-    // Aktif olmayan paketleri temizle
-    window.activePackets = window.activePackets.filter(p => p.isActive);
-    
-    // Altın oran rotasyonu devam ediyor
-    window.KuantumKafesi.rotation.y += 0.005 * Phi;
-
-    // 🖥️ WebGL Render Tetikleyicisi
+      // 🖥️ WebGL Render Tetikleyicisi - 🎯 İSKELETİ GERİ GETİREN KİLİT SATIRLAR!
+    // Bu kalkan, ekranın donmasını engeller ve iskelet ile odaları senkronize çizer.
     if (window.renderer && window.scene && window.camera) {
         window.renderer.render(window.scene, window.camera);
     }
