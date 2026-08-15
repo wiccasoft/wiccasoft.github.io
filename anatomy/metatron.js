@@ -39,6 +39,7 @@ solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,
 
 // colorspectrum dizisi, METATRON_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn (999 - COLOR_SPECTRUM_MODEL.q) verisiyle ms de söner
 
+/*
 window.METATRON_SPECTRUM_MODEL = [
 //  777 breath in                                                                         
 // 🔥 YÜKSELEN AKS (Isınma / Genleşme / Sistol): Çarpılarak Katlanır (* 1.618)     777        
@@ -55,11 +56,27 @@ window.METATRON_SPECTRUM_MODEL = [
     { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, q: 741, oid: "2" }, // ((Phi)/(Phi))
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, q: 852, oid: "4" }  // fire starter (1.0 / 1.618) + 0.6 
 ];
+*/
+
+// ============================================================================
+// 🔮 METATRON CORE SPECTRUM MODEL & QUANTUM CHAMBERS
+// ============================================================================
+window.METATRON_SPECTRUM_MODEL = [
+    { id: 1, name: "RED_ENERGY_CHAMBER", mv: -90, color: "Red", e: 1.000, q: 174, oid: "8" },
+    { id: 2, name: "ORANGE_VORTEX", mv: -45, color: "Orange", e: 1.125, q: 285, oid: "9" },
+    { id: 3, name: "WHITE_LIGHT_KNOT", mv: 0, color: "White", e: 1.200, q: 396, oid: "1" },
+    { id: 4, name: "YELLOW_RESONATOR", mv: 45, color: "Yellow", e: 1.350, q: 417, oid: "2" },
+    { id: 5, name: "GREEN_BALANCE_POINT", mv: 90, color: "Green", e: 1.500, q: 528, oid: "3" },
+    { id: 6, name: "BLACK_VOID_CENTER", mv: 135, color: "Black", e: 1.618, q: 639, oid: "4" },
+    { id: 7, name: "BLUE_ETHER_CHAMBER", mv: 180, color: "Blue", e: 1.800, q: 741, oid: "5" },
+    { id: 8, name: "VIOLET_CROWN_NODE", mv: 225, color: "Violet", e: 2.000, q: 852, oid: "6" }
+];
+
+//window.chambers = {core:[174,285,396],cytoplasm:[417,528,936],shell:[741,852,693]}; 
 
 
-
-
-window.chambers = {core:[174,285,396],cytoplasm:[417,528,936],shell:[741,852,693]}; 
+window.chambers = window.chambers || {};
+window.activePackets = window.activePackets || [];
 
 // 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
 window.QuantumPacket = class QuantumPacket {
@@ -258,10 +275,13 @@ window.MetatronEngine = function() {
 };
 
 // Start the core engine
-injectMetatronMetabolism();
+//injectMetatronMetabolism();
 
 
 //if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
 
-// 📯 MASTER CORE TRIGGER: Metatron executes the skeleton engine right upon loading
-if (typeof window.initSkelaton === "function") window.initSkelaton()
+    // 📯 MASTER CORE TRIGGER
+// Önce iskelet ve küreler kurulur, ardından animasyon döngüsü (updateMetatronLoop) motoru ileriye sürer.
+if (typeof window.initSkelaton === "function") {
+    window.initSkelaton();
+}
