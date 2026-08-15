@@ -69,18 +69,20 @@ window.initMagicSpheres = function() {
         return;
     }
 
-    const spheres = [
-        { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, 
-        { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xff7f00, isPole: false },
-        { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
-        { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false }, 
-        { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false }, 
-        { id: 5, name: "MOR_KABUK_ODASI",     pos: new THREE.Vector3(-0.25,  0.25,  0.25), color: 0x8b00ff, isPole: false },
-        { id: 3, name: "BEYAZ_KUTUP_ODASI",   pos: new THREE.Vector3(-0.25,  0.25, -0.25), color: 0xffffff, isPole: true  }, 
-        { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x111111, isPole: true  }  
-    ];
+const spheres = [
+    { id: 1, name: "RED_ENERGY_CHAMBER",   pos: new THREE.Vector3( 0.5,  0.5,  0.5), color: 0xff0000, isPole: false }, // Sağ Üst Ön
+    { id: 2, name: "ORANGE_VORTEX",         pos: new THREE.Vector3( 0.5,  0.5, -0.5), color: 0xff7f00, isPole: false }, // Sağ Üst Arka
+    { id: 4, name: "YELLOW_RESONATOR",      pos: new THREE.Vector3( 0.5, -0.5, -0.5), color: 0xffff00, isPole: false }, // Sağ Alt Arka
+    { id: 8, name: "VIOLET_CROWN_NODE",     pos: new THREE.Vector3(-0.5, -0.5, -0.5), color: 0x8b00ff, isPole: false }, // Sol Alt Arka
+    { id: 7, name: "BLUE_ETHER_CHAMBER",    pos: new THREE.Vector3(-0.5, -0.5,  0.5), color: 0x0000ff, isPole: false }, // Sol Alt Ön
+    { id: 5, name: "GREEN_BALANCE_POINT",   pos: new THREE.Vector3(-0.5,  0.5,  0.5), color: 0x00ff00, isPole: false }, // Sol Üst Ön
+    
+    // Kutsal Miller (Akslar - Dalga dışında sabit duran merkez kutuplar)
+    { id: 3, name: "WHITE_LIGHT_KNOT",      pos: new THREE.Vector3(-0.5,  0.5, -0.5), color: 0xffffff, isPole: true  }, // Sol Üst Arka
+    { id: 6, name: "BLACK_VOID_CENTER",     pos: new THREE.Vector3( 0.5, -0.5,  0.5), color: 0x111111, isPole: true  }  // Sağ Alt Ön
+];
 
-   const sphereRadius = 1; // 💡 0.08'den 0.28'e çıkarıldı! Çizgilerin köşesinde şak diye belirir.
+   const sphereRadius = 0.5; // 💡 0.08'den 0.28'e çıkarıldı! Çizgilerin köşesinde şak diye belirir.
 window.chambers = window.chambers || {}; 
 
 spheres.forEach(s => {
