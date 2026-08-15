@@ -131,10 +131,13 @@ function animate() {
     }
 }
 
-// 🛠 4. MOTORU GÜVENLİ BAŞLATMA ŞALTERİ
-window.addEventListener('DOMContentLoaded', () => {
+indow.addEventListener('DOMContentLoaded', () => {
+    // Eğer sistem yerel döngüyle başlamadıysa zorla ayağa kaldırıyoruz:
+    if (typeof window.initSkelaton === "function") {
+        window.initSkelaton();
+    }
     if (typeof initMetatronEngine === "function") {
-        initMetatronEngine(); 
+        initMetatronEngine();
     }
     animate();
 });
