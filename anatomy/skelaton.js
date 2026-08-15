@@ -302,6 +302,8 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 // 🌊 SKELETON.JS - METATRON ENGINE COUPLING & ANIMATION LOOP (20 Lines)
 // ============================================================================
 window.initMetatronEngine = function() {
+    
+
     window.activePackets = window.activePackets || [];
     console.log("Metatron Engine Initialized successfully.");
 };
