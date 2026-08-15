@@ -90,6 +90,16 @@ const biyoWorker = new Worker(URL.createObjectURL(blob));
         function animate() {
             requestAnimationFrame(animate);
 
+
+             if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
+
+      // 📺 Ekranı tazeleyen ve sahneyi çizen nihai emrin
+    if (typeof renderer !== "undefined" && renderer && scene && camera) {
+        renderer.render(scene, camera);
+    }
+
             // A. Tüm ağır çizim, şelale ve parça hesaplamaları metatron.js içinde pürüzsüzce akar
             window.updateMetatronLoop = window.updateMetatronLoop || function() {
     // Motorlar tamamen yüklenene kadar bu boş kareyi döner, çökmeyi engeller.
