@@ -299,14 +299,15 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
 // ============================================================================
-// 🌊 SKELETON.JS - METATRON ENGINE INITIALIZATION & LOOP (20 Lines)
+// 🌊 SKELETON.JS - METATRON ENGINE COUPLING & ANIMATION LOOP (20 Lines)
 // ============================================================================
 window.initMetatronEngine = function() {
     window.activePackets = window.activePackets || [];
     console.log("Metatron Engine Initialized successfully.");
 };
 
-window.MetatronEngine = function() {
+// Aliasing the engine runner to match your HTML's ultra-lightweight loop call
+window.updateMetatronLoop = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
 
