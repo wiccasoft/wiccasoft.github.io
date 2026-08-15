@@ -93,7 +93,7 @@ function injectMetatronMetabolism() {
     };
 
     // 🔮 Solid translucent chambers reading spatial metrics directly from model
-    window.COLOR_SPECTRUM_MODEL.forEach((chamber) => {
+    window.METATRON_SPECTRUM_MODEL.forEach((chamber) => {
         const geometry = new THREE.SphereGeometry(0.22, 32, 32);
         const material = new THREE.MeshBasicMaterial({
             color: colorHexMap[chamber.color],
@@ -119,16 +119,14 @@ function injectMetatronMetabolism() {
     MetatronPipeline();
 }
 
-function MetatronPipeline() {
-    requestAnimationFrame(runMetatronPipeline);
+window.MetatronPipeline = function() {
+    console.log("[PIPELINE PROTOCOL] Metatron Akış Hattı Başarıyla Tetiklendi.");
     
-    // Direct routing to your mathematical counter-current calculations
-    window.MetatronEngine();
-
-    if (window.renderer && window.scene && window.camera) {
-        window.renderer.render(window.scene, window.camera);
+    // Eğer metatron.js yüklenmişse onun içindeki metabolizmayı hemen başlat
+    if (typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
     }
-}
+};
 
 window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
