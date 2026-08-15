@@ -188,8 +188,10 @@ window.MetatronEngine = function() {
     }
 };
 // Start the core engine
-//injectMetatronMetabolism();
+injectMetatronMetabolism();
 
+
+//if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
 
 // 📯 MASTER CORE TRIGGER: Metatron executes the skeleton engine right upon loading
-//if (typeof window.initSkelaton === "function") window.initSkelaton()
+if (typeof window.initSkelaton === "function") window.initSkelaton()
