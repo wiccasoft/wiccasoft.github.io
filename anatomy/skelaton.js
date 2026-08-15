@@ -308,34 +308,73 @@ window.initMetatronEngine = function() {
     console.log("Metatron Engine Initialized successfully.");
 };
 
-// Aliasing the engine runner to match your HTML's ultra-lightweight loop call
-window.updateMetatronLoop = function() {
-    if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
-    const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
-
-    // 1. Iterate through ALL rooms in the color spectrum array
-    window.COLOR_SPECTRUM_MODEL.forEach((ch, idx) => {
-        const mesh = window.KuantumKafesi.children[idx]; if (!mesh) return;
-        const burnRatePerSec = ch.e * Phi; // Fire/pulse rate powered by 'e'
-        const decayMs = 999 - ch.q;        // Ms cooldown period powered by 'q'
-        
-        // Quantum injection logic: pulses packets based on individual room firing rates
-        if (Math.floor(now * (burnRatePerSec / 1000)) % 15 === 0 && window.activePackets.length < 15) {
-            if (ch.id === 1) { // Red (1) initiates inflow (Systole) to Yellow (4)
-                window.activePackets.push(new window.QuantumPacket(1, 4, ch.q, Phi));
-                window.activePackets.push(new window.QuantumPacket(7, 4, 741, 1.0)); // Blue -> Yellow
-                window.activePackets.push(new window.QuantumPacket(8, 4, 528, Phi)); // Green -> Yellow
-            } else if (ch.id === 5) { // Violet (5) manages polarity outflow (Diastole)
-                window.activePackets.push(new window.QuantumPacket(4, 5, ch.q, 1 / Phi)); // Yellow -> Violet
-            }
-        }
-        // Millisecond fading (Opacity) and scale oscillations handled perfectly via static data
-        mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
+// 2. Senin istediğin gibi temiz, ayarlanabilir ve scope hatası vermeyen Kalp Şalteri fonksiyonu:
+window.metatronMeshScaler = function(mesh, now, ch) {
+    if (window.heartAnimationActive !== false) {
+        // Kalp atışı aktifse normal nefes alsın
         mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
-    });
-
-    // 2. Drive active packets forward and rotate the matrix cage
-    window.activePackets.forEach(p => p.update(dt));
-    window.activePackets = window.activePackets.filter(p => p.isActive);
-    window.KuantumKafesi.rotation.y += 0.005 * Phi;
+    } else {
+        // Kalp atışı kapatıldıysa odaları statik kilitle
+        mesh.scale.setScalar(0.22); 
+    }
 };
+
+// 3. HTML içindeki animate() fonksiyonunun doğrudan tetiklediği ana köprü
+window.updateMetatronLoop = window.MetatronEngine;
+// ============================================================================
+// 📡 SKELETON.JS - METATRON INTER-FRAME COMMAND LISTENER
+// ============================================================================
+window.addEventListener("message", function(event) {
+    // Güvenlik veya veri kontrolü (Gelen veri boşsa işlem yapma)
+    if (!event.data || !event.data.komut) return;
+
+    const komut = event.data.komut;
+    const durum = event.data.durum; // true veya false sinyali gelir
+
+    console.log(`[METATRON SKELETON] Mesaj yakalandı -> Komut: ${komut}, Durum: ${durum}`);
+
+    // 1. SARI İSKELET ŞALTERİ (Görünürlük Kontrolü)
+    if (komut === "SKELETON_TOGGLE") {
+        if (window.KuantumKafesi) {
+            window.KuantumKafesi.visible = durum;
+            // İsteğe bağlı: İçindeki tüm mesh yapılarını da tek tek gezerek gizle/göster yapabilirsin
+            window.KuantumKafesi.children.forEach(mesh => {
+                if(mesh.material) mesh.material.visible = durum;
+            });
+        }
+    }
+
+    // 2. RGB EKSEN MİLLERİ ŞALTERİ
+    else if (komut === "EKSEN_DURUMU_DEGISTIR") {
+        // Üçüncü parti veya senin eklediğin THREE.AxesHelper nesnesini sahneden bul ve gizle/aç
+        if (window.scene) {
+            window.scene.traverse(function(object) {
+                if (object.isAxesHelper || (object.name && object.name.toLowerCase().includes("axis"))) {
+                    object.visible = durum;
+                }
+            });
+        }
+    }
+
+    // 3. KUANTUM KALP ATIŞ ŞALTERİ (Nefes alma efektini dondurma/açma kilidi)
+    else if (komut === "HEART_TOGGLE") {
+        // Bu durumu global yapıyoruz ki updateMetatronLoop içinde animasyonu durdurabilelim
+        window.heartAnimationActive = durum; 
+    }
+
+    // 4. KUANTUM AÇI ŞALTERİ (Üstten Görünüm / Kamera Kilidi)
+    else if (komut === "SET_TOP_VIEW") {
+        if (window.camera) {
+            if (durum === true) {
+                // Kamera tam tepeden (Top View) baksın
+                window.camera.position.set(0, 50, 0); 
+                window.camera.lookAt(0, 0, 0);
+            } else {
+                // Kamera normal perspektif/açılı konumuna geri dönsün
+                window.camera.position.set(15, 20, 25); 
+                window.camera.lookAt(0, 0, 0);
+            }
+            if(window.camera.updateProjectionMatrix) window.camera.updateProjectionMatrix();
+        }
+    }
+});
