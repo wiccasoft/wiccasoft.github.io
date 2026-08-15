@@ -197,8 +197,9 @@ window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     if (window.heartAnimationActive !== true) return;
 
-    const baseSpectrum = window.colorspectrum //|| [];
-    const spectrumOrder = [...baseSpectrum].reverse(); 
+    // 🎯 REPO TASHİHİ: baseSpectrum solfeggiospec ile güncellendi ve hata giderildi
+    const baseSpectrum = window.solfeggiospec || [];
+    const spectrumOrder = [...baseSpectrum].reverse();
     
     // 🎯 1 SANİYE MASTER CLOCK (60 FPS rezonans hızı)
     const currentSpeed = window.metatronPulseSpeed || 0.1047; 
