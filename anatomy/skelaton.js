@@ -80,7 +80,7 @@ window.initMagicSpheres = function() {
         { id: 6, name: "SIYAH_KUTUP_ODASI",   pos: new THREE.Vector3( 0.25, -0.25,  0.25), color: 0x111111, isPole: true  }  
     ];
 
-   const sphereRadius = 0.28; // 💡 0.08'den 0.28'e çıkarıldı! Çizgilerin köşesinde şak diye belirir.
+   const sphereRadius = 1; // 💡 0.08'den 0.28'e çıkarıldı! Çizgilerin köşesinde şak diye belirir.
 window.chambers = window.chambers || {}; 
 
 spheres.forEach(s => {
