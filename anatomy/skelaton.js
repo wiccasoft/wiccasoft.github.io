@@ -66,7 +66,7 @@ window.initSkelaton = function() {
     window.KuantumKafesi = new THREE.Group(); 
     window.KuantumKafesi.name = "MERKEZI_METATRON";
 
-    window.KuantumKafesi.visible = false; 
+      window.KuantumKafesi.visible = true; 
 
     // ============================================================================
     // 🧭 INTEGRATED RGB AXES (MODÜLER FONKSİYONEL ÇAĞRI)
@@ -297,24 +297,31 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
 
-
 // ============================================================================
-// 🌊 SKELETON.JS - METATRON ENGINE COUPLING & ANIMATION LOOP (20 Lines)
+// 🌊 SKELETON.JS - METATRON ENGINE COUPLING & ANIMATION LOOP
 // ============================================================================
 window.initMetatronEngine = function() {
-    
-
     window.activePackets = window.activePackets || [];
     console.log("Metatron Engine Initialized successfully.");
 };
 
-// 2. Senin istediğin gibi temiz, ayarlanabilir ve scope hatası vermeyen Kalp Şalteri fonksiyonu:
+
+
+// 🔑 KOPUKLUK ÇÖZÜMÜ 2: Eksik olan MetatronEngine döngüsü geri eklendi
+window.MetatronEngine = function() {
+    if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    // ... (Animasyon döngüsü, paket güncellemeleri ve render işlemleri)
+    
+    if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
+    }
+};
+
+
 window.metatronMeshScaler = function(mesh, now, ch) {
     if (window.heartAnimationActive !== false) {
-        // Kalp atışı aktifse normal nefes alsın
         mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
     } else {
-        // Kalp atışı kapatıldıysa odaları statik kilitle
         mesh.scale.setScalar(0.22); 
     }
 };
