@@ -207,7 +207,7 @@ window.MetatronEngine = function() {
     });
 
     // 🌪️ Altın oran ivmesiyle iskelet rotasyonu
-    window.KuantumKafesi.rotation.y += 0.003 * Phi;
+    //window.KuantumKafesi.rotation.y += 0.003 * Phi;
 
       // 🖥️ WebGL Render Tetikleyicisi - 🎯 İSKELETİ GERİ GETİREN KİLİT SATIRLAR!
     // Bu kalkan, ekranın donmasını engeller ve iskelet ile odaları senkronize çizer.
