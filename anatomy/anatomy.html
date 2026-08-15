@@ -10,15 +10,12 @@
 </head>
 <body>
 
-<script src="three.min.js"></script>
-<script src="OrbitControls.js"></script>
-
-<script src="metatron.js"></script>
-
-<script src="skeleton.js"></script>
+<script src="three.min.js?v=3"></script>
+<script src="OrbitControls.js?v=3"></script>
+<script src="metatron.js?v=3"></script>
+<script src="skeleton.js?v=3"></script>
 
 <script>
-
 // 🧠 1. GLOBAL KİLİTLER VE SİNYAL ALTYAPISI
 window.scene = window.scene || null;
 window.camera = window.camera || null;
@@ -44,7 +41,7 @@ const biyoWorker = new Worker(URL.createObjectURL(blob));
 
 biyoWorker.onmessage = function(e) {
     if (e.data && e.data.komut === "BİYOLOJİK_TELEMETRİ") {
-        // İleride worker'dan gelen verileri buradaki global hafızaya bağlayacağız tatlım
+        // İleride worker verileri buraya bağlanacak şekerparem
     }
 };
 
@@ -52,7 +49,6 @@ biyoWorker.onmessage = function(e) {
 function simulasyonParametreleriniTuret() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.chambers) return;
 
-    // 🎯 KUSURSUZ ENTEGRASYON: Sahnede o an en parlak / baskın olan odayı buluyoruz
     let dominantChamber = null;
     let maxWave = -1;
 
@@ -67,18 +63,13 @@ function simulasyonParametreleriniTuret() {
     if (!dominantChamber) return;
 
     const waveValue = maxWave;
-    const odaRengi = dominantChamber.colorName || "Kırmızı";
-
-    // A. Kuantum Milivolt (EKG) -> Odalar parladıkça aksiyon potansiyeli fırlar
     let ekgMv = -90.0 + (waveValue * 120.0);
-
-    // B. Algoritmik Kan Basıncı (mmHg) -> Kırmızı (Ateş) ve Yeşil (Toprak) odalarında basınç fırlar
     let basincMmHg = 80; 
-    if (dominantChamber.id === 1) basincMmHg = Math.round(110 + (waveValue * 10)); // Ateş Akımı
-    else if (dominantChamber.id === 8) basincMmHg = Math.round(100 + (waveValue * 20)); // Toprak Sıkıştırması
-    else if (dominantChamber.id === 2) basincMmHg = Math.round(85 + (waveValue * 15)); // Hava Dolaşımı
+    
+    if (dominantChamber.id === 1) basincMmHg = Math.round(110 + (waveValue * 10));
+    else if (dominantChamber.id === 8) basincMmHg = Math.round(100 + (waveValue * 20));
+    else if (dominantChamber.id === 2) basincMmHg = Math.round(85 + (waveValue * 15));
 
-    // C. Oksijen ve pH Yoğunluğu
     let oksijenSaturation = 98.0;
     let kanPh = 7.42;
     if (window.AKTIF_ZAMAN_MODU === "CRITICAL_SHOCK") {
@@ -86,13 +77,11 @@ function simulasyonParametreleriniTuret() {
         kanPh = 7.31; 
     }
 
-    // D. Metabolik Şebeke Şalteri
     let metabolikDurum = "BAZAL REZONANS";
     if (dominantChamber.id === 8) {
         metabolikDurum = "LIVER: GLYCOGENOLYSIS / PANCREAS: GLUCOSE BUFFER";
     }
 
-    // 📡 Üst penceredeki (main.html) HUD kontrol paneline şifreli akımı basıyoruz
     window.parent.postMessage({
         komut: "HUD_PANEL_GUNCELLE",
         ekg: `${ekgMv.toFixed(1)} mV`,
@@ -106,38 +95,26 @@ function simulasyonParametreleriniTuret() {
     }, "*");
 }
 
-// 🪐 3. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (RENDER MATRIX)
+// 🪐 3. TEMİZLENMİŞ KESİNTİSİZ ANİMASYON DÖNGÜSÜ (RENDER MATRIX)
 function animate() {
     requestAnimationFrame(animate);
 
-    // Bizim o akışkan ve harika kuantum piston motorunu ateşler
-    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
-
-    // 🎯 HAFİZA KÖPRÜSÜ: skeleton.js içindeki sahne elemanlarını yakalayıp jilet gibi çizer
-    const activeRenderer = window.renderer || (typeof renderer !== "undefined" ? renderer : null);
-    const activeScene = window.scene || (typeof scene !== "undefined" ? scene : null);
-    const activeCamera = window.camera || (typeof camera !== "undefined" ? camera : null);
-
-    if (activeRenderer && activeScene && activeCamera) {
-        activeRenderer.render(activeScene, activeCamera);
-        simulasyonParametreleriniTuret(); // Her kareden sonra telemetriyi üst panele uçurur
-    }
-
-    // Çökme engelleyici yedek döngü bağı
+    // 🎯 ÇAKIŞMA TAMAMEN BİTTİ: İki ayrı fonksiyonun birbirini ezmesi engellendi
     if (typeof window.updateMetatronLoop === "function") {
         window.updateMetatronLoop();
     }
+
+    // Üst pencere telemetrisini her karede besle
+    simulasyonParametreleriniTuret();
 }
 
+// 🛠 4. MOTORU GÜVENLİ BAŞLATMA ŞALTERİ
 window.addEventListener('DOMContentLoaded', () => {
-    // Eğer sistem yerel döngüyle başlamadıysa zorla ayağa kaldırıyoruz:
     if (typeof window.initSkelaton === "function") {
         window.initSkelaton();
     }
-    if (typeof initMetatronEngine === "function") {
-        initMetatronEngine();
+    if (typeof window.initMetatronEngine === "function") {
+        window.initMetatronEngine();
     }
     animate();
 });
