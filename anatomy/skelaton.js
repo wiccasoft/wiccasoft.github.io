@@ -297,8 +297,7 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 
 // 🚀 BAŞLATICI
-if (typeof window.initSkelaton === "function") window.initSkelaton();
-
+//if (typeof window.initSkelaton === "function") window.initSkelaton();
 // ============================================================================
 // 🌊 SKELETON.JS - METATRON ENGINE COUPLING & SINGLE BRIDGE SOURCE
 // ============================================================================
@@ -307,12 +306,24 @@ window.initMetatronEngine = function() {
     console.log("Metatron Engine Initialized successfully.");
 };
 
-// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE):
-// anatomy.html içindeki animate() fonksiyonu her karede "updateMetatronLoop()" çağırır.
-// Kod kalabalığı yapmıyoruz; çağrıyı doğrudan metatron.js'teki gerçek ana motora paslıyoruz!
+// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
+// anatomy.html içindeki animate() fonksiyonu her karede burayı çağırır.
 window.updateMetatronLoop = function() {
+    // 1. Eğer metatron.js yüklenmişse onun içindeki gerçek ana motoru tetikle
     if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
         window.MetatronEngine();
+    } 
+    // 2. Güvenli Fallback: metatron.js henüz yüklenmediyse bile sahneyi siyah bırakma, iskeleti çiz!
+    else if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
+    }
+};
+
+window.metatronMeshScaler = function(mesh, now, ch) {
+    if (window.heartAnimationActive !== false) {
+        mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
+    } else {
+        mesh.scale.setScalar(0.22);
     }
 };
 
@@ -320,35 +331,23 @@ window.updateMetatronLoop = function() {
 // 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
 // ============================================================================
 window.initAllMetatronSystems = function() {
-    console.log("[METATRON BOOT] Sistemler sırayla ayağa kaldırılıyor...");
-    
-    // 1. Önce Three.js dünyasını, kamerayı, ışıkları ve Kuantum Kafesini kur
-    if (typeof window.initSkelaton === "function") {
+    // initSkelaton'ın mükerrer/çift tetiklenmesini engellemek için koruma
+    if (typeof window.initSkelaton === "function" && !window.scene) {
         window.initSkelaton();
     }
-    
-    // 2. İskelet ayağa kalktıktan sonra Kuantum Motor referansını ateşle
     if (typeof window.initMetatronEngine === "function") {
         window.initMetatronEngine();
     }
 };
 
-// Sayfa yüklenme durumuna göre tetikleyiciyi tam korumalı çalıştır
+// Sayfa yüklenme durumuna göre tetikleyiciyi çalıştır
 if (document.readyState === "loading") {
     window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
 } else {
     window.initAllMetatronSystems();
 }
-window.metatronMeshScaler = function(mesh, now, ch) {
-    if (window.heartAnimationActive !== false) {
-        mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
-    } else {
-        mesh.scale.setScalar(0.22); 
-    }
-};
 
-// 3. HTML içindeki animate() fonksiyonunun doğrudan tetiklediği ana köprü
-window.updateMetatronLoop = window.MetatronEngine;
+// 💥 KRİTİK DÜZELTME: Buradaki "window.updateMetatronLoop = window.MetatronEngine;" satırı tamamen silindi!
 // ============================================================================
 // 📡 SKELETON.JS - METATRON INTER-FRAME COMMAND LISTENER
 // ============================================================================
@@ -408,28 +407,3 @@ window.addEventListener("message", function(event) {
 });
 
 
-
-
-// ============================================================================
-// 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON & ENGINE ENJEKSİYONU)
-// ============================================================================
-window.initAllMetatronSystems = function() {
-    console.log("[METATRON BOOT] Sistemler sırayla ayağa kaldırılıyor...");
-    
-    // 1. Önce Three.js dünyasını, kamerayı, ışıkları ve Kuantum Kafesini kur
-    if (typeof window.initSkelaton === "function") {
-        window.initSkelaton();
-    }
-    
-    // 2. İskelet ayağa kalktıktan sonra Kuantum Motorunu ateşle
-    if (typeof window.initMetatronEngine === "function") {
-        window.initMetatronEngine();
-    }
-};
-
-// anatomy.html içindeki DOMContentLoaded veya doğrudan script çağrıları için tetikleyici
-if (document.readyState === "loading") {
-    window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
-} else {
-    window.initAllMetatronSystems();
-}
