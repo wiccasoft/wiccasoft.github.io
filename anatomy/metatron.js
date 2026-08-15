@@ -173,7 +173,7 @@ window.MetatronEngine = function() {
     
     // 🎨 COLOR SPECTRUM (1-2-4-8-7-5) KUTSAL AKIŞ SIRALAMASI
     // Odalar artık senin belirttiğin bu sıra nizamına göre ardışık parlayacak!
-    const spectrumOrder = window.colorspectrum
+    const spectrumOrder = window.colorspectrum;
     
     // 🔮 ODALARIN DÖNGÜ İÇİ ENERJİ METABOLİZMASI
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
