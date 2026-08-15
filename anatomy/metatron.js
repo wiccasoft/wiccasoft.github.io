@@ -83,8 +83,7 @@ window.QuantumPacket = class QuantumPacket {
 
 // 🫀 INJECTING CHAMBERS ONTO SKELETON'S QUANTUM CAGE
 function injectMetatronMetabolism() {
-    // 📯 Önce skeleton.js içindeki büyük amiral gemisi sahneyi ve iskeleti kurar
-    window.MetatronEngine(); //
+    // 📯 Girişteki çökme tehlikesi yaratan hatalı window.MetatronEngine() çağrısı kaldırıldı!
 
     const colorHexMap = {
         "Red": 0xff0000, "Orange": 0xff7f00, "Yellow": 0xffff00,
@@ -92,8 +91,11 @@ function injectMetatronMetabolism() {
         "White": 0xffffff, "Black": 0x111111, "Violet": 0x8b00ff
     };
 
+    // Odaları dairesel/sekizgen düzende kutsal geometri nizamına oturtmak için yarıçap yarıçapı
+    const radius = 0.5; 
+
     // 🔮 Solid translucent chambers reading spatial metrics directly from model
-    window.METATRON_SPECTRUM_MODEL.forEach((chamber) => {
+    window.METATRON_SPECTRUM_MODEL.forEach((chamber, idx) => {
         const geometry = new THREE.SphereGeometry(0.22, 32, 32);
         const material = new THREE.MeshBasicMaterial({
             color: colorHexMap[chamber.color],
@@ -103,9 +105,28 @@ function injectMetatronMetabolism() {
         });
         
         const chamberMesh = new THREE.Mesh(geometry, material);
+        chamberMesh.name = `CHAMBER_${chamber.id}`; // İsme göre yakalama filtresi için mühürlendiler
+
+        // 📐 KUTSAL GEOMETRİ KOORDİNAT TÜRETİMİ (x, y, z yokluğunu çözen altın oran akışı)
+        // Eğer modelde x, y, z yoksa indekslerine göre 3D uzayda harmonik olarak dağıtıyoruz:
+        let posX = 0, posY = 0, posZ = 0;
         
-        // 📐 Direct coordinate injection from global matrix data
-        chamberMesh.position.set(chamber.x, chamber.y, chamber.z);
+        if (chamber.id === 3) {
+            // Beyaz oda üst merkez kutbuna yerleşir
+            posX = 0; posY = 0.4; posZ = 0;
+        } else if (chamber.id === 6) {
+            // Siyah oda alt merkez kutbuna yerleşir
+            posX = 0; posY = -0.4; posZ = 0;
+        } else {
+            // Diğer renk odaları (Red, Orange, Yellow, Green, Blue, Violet) dairesel halkaya dizilir
+            const angle = (idx / (window.METATRON_SPECTRUM_MODEL.length - 2)) * Math.PI * 2;
+            posX = Math.cos(angle) * radius;
+            posY = 0;
+            posZ = Math.sin(angle) * radius;
+        }
+        
+        // Güvenli pozisyon enjeksiyonu (Artık NaN değil!)
+        chamberMesh.position.set(posX, posY, posZ);
 
         // Kilit Adres: skeleton.js'in yarattığı window.KuantumKafesi'ne kenetlenme
         if (window.KuantumKafesi) {
@@ -115,9 +136,12 @@ function injectMetatronMetabolism() {
         window.chambers[chamber.id] = chamberMesh;
     });
 
-    // Ana animasyon döngüsünü tetikle
-    MetatronPipeline();
+    // Odalar güvenle dizildikten sonra boru hattını (pipeline) tetikliyoruz
+    if (typeof MetatronPipeline === "function") {
+        MetatronPipeline();
+    }
 }
+    
 
 window.MetatronPipeline = function() {
     console.log("[PIPELINE PROTOCOL] Metatron Akış Hattı Başarıyla Tetiklendi.");
@@ -128,6 +152,10 @@ window.MetatronPipeline = function() {
     }
 };
 
+// Ana animasyon döngüsünü tetikle
+    MetatronPipeline();
+
+    
 window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
