@@ -32,32 +32,39 @@ function simulasyonParametreleriniTuret() {
     // ... (Hesaplama mantığı) ...
 }
 
-// 🪐 4. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (RENDER LOOP)
+// 🪐 3. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (RENDER MATRIX)
 function animate() {
     requestAnimationFrame(animate);
 
+    // Bizim o akışkan ve harika kuantum piston motorunu ateşler
     if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
         window.MetatronEngine();
     }
 
-    // 🎯 KRİTİK TAMİR: skeleton.js içindeki yerel nesneleri yakalayıp ekrana basar
+    // 🎯 HAFİZA KÖPRÜSÜ: skeleton.js içindeki sahne elemanlarını yakalayıp jilet gibi çizer
     const activeRenderer = window.renderer || (typeof renderer !== "undefined" ? renderer : null);
     const activeScene = window.scene || (typeof scene !== "undefined" ? scene : null);
     const activeCamera = window.camera || (typeof camera !== "undefined" ? camera : null);
 
     if (activeRenderer && activeScene && activeCamera) {
         activeRenderer.render(activeScene, activeCamera);
-        simulasyonParametreleriniTuret();
+        simulasyonParametreleriniTuret(); // Her kareden sonra telemetriyi üst panele uçurur
+    }
+
+    // Çökme engelleyici yedek döngü bağı
+    if (typeof window.updateMetatronLoop === "function") {
+        window.updateMetatronLoop();
     }
 }
 
-// 🛠 5. MOTORU TEK KEZ BAŞLAT
+// 🛠 4. MOTORU GÜVENLİ BAŞLATMA ŞALTERİ
 window.addEventListener('DOMContentLoaded', () => {
     if (typeof initMetatronEngine === "function") {
-        initMetatronEngine();
+        initMetatronEngine(); 
     }
     animate();
 });
+
 </script>
 
 <script>
