@@ -295,15 +295,25 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 } 
 
-
-// 🚀 BAŞLATICI
-//if (typeof window.initSkelaton === "function") window.initSkelaton();
 // ============================================================================
 // 🌊 SKELETON.JS - METATRON ENGINE COUPLING & SINGLE BRIDGE SOURCE
 // ============================================================================
 window.initMetatronEngine = function() {
     window.activePackets = window.activePackets || [];
     console.log("Metatron Engine Initialized successfully.");
+};
+
+// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE) - EKSİK OLAN KİLİT GÖVDE GERİ EKLENDİ!
+// anatomy.html içindeki animate() döngüsü her karede bu köprüyü tetikler.
+window.updateMetatronLoop = function() {
+    // 1. Eğer metatron.js yüklendiyse onun içindeki gerçek ana metabolizma motorunu tetikle
+    if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
+        window.MetatronEngine();
+    } 
+    // 2. Güvenli Fallback: metatron motoru uyanana kadar sahneyi siyah bırakma, iskeleti çiz
+    else if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
+    }
 };
 
 // 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
@@ -319,25 +329,6 @@ window.metatronMeshScaler = function(mesh, now, ch) {
     // Nihai ölçek çarpanı odanın (kürenin) üzerine enjekte ediliyor
     mesh.scale.setScalar(0.22 * heartMultiplier);
 };
-
-// ============================================================================
-// 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
-// ============================================================================
-window.initAllMetatronSystems = function() {
-    if (typeof window.initSkelaton === "function" && !window.scene) {
-        window.initSkelaton();
-    }
-    if (typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
-};
-
-// Sayfa yüklenme durumuna göre başlatıcıyı çalıştır
-if (document.readyState === "loading") {
-    window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
-} else {
-    window.initAllMetatronSystems();
-}
 
 
 // ============================================================================
