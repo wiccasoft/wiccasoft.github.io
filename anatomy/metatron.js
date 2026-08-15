@@ -12,10 +12,10 @@ const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 const M_direction= [{east:1},{west:8}]
 
 const colorspectrum = [1, 2, 4, 8, 7, 5]; 
-const solfeggio = [1, 7, 4, 2, 8, 5];
+const solfeggiospec = [1, 7, 4, 2, 8, 5];
 
 //SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive RAINBOW
-solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,s:936},shell:{u:741,d:852,s:693}}; //  3,6,9 
+solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,d:852,s:693}]}; //  3,6,9 
 
 // 174-417-741 (RYB) 528hz is green (solar plexus)
 // stilness actually yellowness in solfeggio model
