@@ -155,13 +155,14 @@ window.MetatronPipeline = function() {
 // Ana animasyon döngüsünü tetikle
     MetatronPipeline();
 
-    
+
 window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
 
-    window.COLOR_SPECTRUM_MODEL.forEach((ch, idx) => {
-        const mesh = window.KuantumKafesi.children[idx]; if (!mesh) return;
+    METATRON_SPECTRUM_MODEL.forEach((ch, idx) => {
+         const mesh = window.chambers ? window.chambers[ch.id] : null; 
+        if (!mesh) return; 
         const burnRatePerSec = ch.e * Phi, decayMs = 999 - ch.q;
         
         if (Math.floor(now * (burnRatePerSec / 1000)) % 15 === 0 && window.activePackets.length < 15) {
@@ -187,7 +188,7 @@ window.MetatronEngine = function() {
     }
 };
 // Start the core engine
-injectMetatronMetabolism();
+//injectMetatronMetabolism();
 
 
 // 📯 MASTER CORE TRIGGER: Metatron executes the skeleton engine right upon loading
