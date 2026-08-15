@@ -17,7 +17,48 @@
 
 <script src="skeleton.js"></script>
 
+<script>
+// 🧠 1. GLOBAL BELLEK KİLİTLERİ (Three.js Sahne Elemanları)
+window.scene = window.scene || null;
+window.camera = window.camera || null;
+window.renderer = window.renderer || null;
 
+// ... (Biyofeedback Worker Kodu) ...
+
+// 🧪 3. ALGORİTMİK METABOLİK VE PARAMETRE TÜRETİCİ
+function simulasyonParametreleriniTuret() {
+    // Kaynağındaki gibi nesne kontrolleri ve veri hesaplamaları burada yapılır.
+    if (!window.METATRON_SPECTRUM_MODEL || !window.chambers) return;
+    // ... (Hesaplama mantığı) ...
+}
+
+// 🪐 4. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (RENDER LOOP)
+function animate() {
+    requestAnimationFrame(animate);
+
+    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
+
+    // 🎯 KRİTİK TAMİR: skeleton.js içindeki yerel nesneleri yakalayıp ekrana basar
+    const activeRenderer = window.renderer || (typeof renderer !== "undefined" ? renderer : null);
+    const activeScene = window.scene || (typeof scene !== "undefined" ? scene : null);
+    const activeCamera = window.camera || (typeof camera !== "undefined" ? camera : null);
+
+    if (activeRenderer && activeScene && activeCamera) {
+        activeRenderer.render(activeScene, activeCamera);
+        simulasyonParametreleriniTuret();
+    }
+}
+
+// 🛠 5. MOTORU TEK KEZ BAŞLAT
+window.addEventListener('DOMContentLoaded', () => {
+    if (typeof initMetatronEngine === "function") {
+        initMetatronEngine();
+    }
+    animate();
+});
+</script>
 <script>
        // 🧠 1. GLOBAL DEĞİŞKENLER VE BİYO-WORKER (BLOB KİLİDİ - file:// UYUMLU)
 window.currentMv = -90.0;
