@@ -350,7 +350,7 @@ window.initSkelaton = function() {
     //const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
     
     
-const sphereRadius = 0.3; // küçük küreler küpün içine sığacak
+const sphereRadius = 0.26; // küçük küreler küpün içine sığacak
 
 const spheres = [
     { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, // Kırmızı Köşe
@@ -461,21 +461,33 @@ window.updateMetatronLoop = function() {
 // 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
 // anatomy.html içindeki animate() fonksiyonu her karede burayı çağırır.
 // ============================================================================
-// 🫀 SKELETON MESH SCALER (DENGELENMİŞ ENJEKSİYON HATTI)
-// ============================================================================
-// ============================================================================
 // 🫀 SKELETON MESH SCALER (NİHAİ DENGELENMİŞ BOYUT KİLİDİ)
 // ============================================================================
 window.metatronMeshScaler = function(mesh, now, ch) {
-    // Kalp şalterini dinler (Butona basınca nefes efekti dondurulsun diye)
-    const heartMultiplier = window.heartAnimationActive !== false ? (1 + Math.sin(now * 0.001 * ch.e) * 0.15) : 1;
-    
-    // 🎯 KESİN ÇÖZÜM: Çarpanı tam olarak 1.0 yapıyoruz!
-    // Böylece motor küreleri yakaladığında boyutlarını bozup ezemeyecek,
-    // Küreler senin skeleton.js'te yarattığın o kusursuz orijinal boyutunu (0.2 yarıçapını) 
-    // birebir korurken sadece üzerine kalp atışı ritmini ve renk spektrumu parıltısını alacak!
-    //mesh.scale.setScalar(1.0 * heartMultiplier);
+    // 🎯 ATOMİK KİLİT: Fiziksel şişme tamamen kapatıldı. 
+    // İşlemci sıfır yükle sadece taban boyutu mühürler.
+    // Enerji içeriden dışarıya saf ışık ve opaklık frekansı olarak zangır zangır akar!
+    mesh.scale.setScalar(1.0);
 };
+
+// ============================================================================
+// 🪐 ORKESTRA ŞEFİ KÖPRÜSÜ (ANA DÖNGÜ TARAFINDAN BESLENEN TEMİZ ŞASİ)
+// ============================================================================
+
+// 🎯 KELİMEYİ BİTİREN REFORM: Eski 'animateSkelatonMatrix' yerel döngüsü ve 
+// 'requestAnimationFrame' kalıntıları çift başlılık yaratmasın diye TAMAMEN SİLİNDİ!
+// Çünkü artık orkestra şefi gücünü doğrudan projenin kendi ana animate() kalbinden alıyor.
+
+window.lastMatrixFrameTimeGlobal = Date.now();
+
+// Ana döngü içerisinden çağrılan taptaze temiz köprü fonksiyonun
+window.updateMetatronLoop = function() {
+    if (typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
+};
+
+console.log("[ATOMİK MODEL] Çift döngü kalıntıları temizlendi, saf atomik titreşim mühürlendi. ⚛️");
 // ============================================================================
 // 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
 // ============================================================================
