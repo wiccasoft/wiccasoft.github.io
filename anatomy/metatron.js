@@ -56,6 +56,9 @@ window.METATRON_SPECTRUM_MODEL = [
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, q: 852, oid: "4" }  // fire starter (1.0 / 1.618) + 0.6 
 ];
 
+
+
+
 window.chambers = {core:[174,285,396],cytoplasm:[417,528,936],shell:[741,852,693]}; 
 
 // 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
@@ -142,20 +145,21 @@ function injectMetatronMetabolism() {
 
 }
     
-
 window.MetatronEngine = function() {
+    // 🛡️ GÜVENLİK KALKANI: Giriş kontrolleri ve paket hafıza kilidi
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    window.activePackets = window.activePackets || [];
     
     const now = Date.now(), dt = 0.016, Phi = 1.61803398875;
-    
-    // 🛡️ KUANTUM PAKET GÜVENLİK KALKANI: Dizi hafızada yoksa anında yarat, çökmeyi engelle!
-    window.activePackets = window.activePackets || [];
 
-    window.METATRON_SPECTRUM_MODEL.forEach((ch, idx) => {
+    // 🔮 ODALARIN DÖNGÜ İÇİ GÜNCELLEME METABOLİZMASI
+    window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
-        if (!mesh) return; 
+        if (!mesh) return; // Oda henüz sahnede inşa edilmediyse çökme, sonraki kareyi bekle
+
         const burnRatePerSec = ch.e * Phi, decayMs = 999 - ch.q;
         
+        // 🛰️ Kuantum paket fırlatma metabolizması
         if (Math.floor(now * (burnRatePerSec / 1000)) % 15 === 0 && window.activePackets.length < 15) {
             if (ch.id === 1) {
                 window.activePackets.push(new window.QuantumPacket(1, 4, ch.q, Phi));
@@ -165,17 +169,89 @@ window.MetatronEngine = function() {
                 window.activePackets.push(new window.QuantumPacket(4, 5, ch.q, 1 / Phi));
             }
         }
+
+        // Opaklık (Sönümlenme) Ataması
         if (mesh.material) {
             mesh.material.opacity = 0.35 * Math.max(0, 1 - ((now % decayMs) / decayMs));
         }
-        mesh.scale.setScalar(0.22 * (window.heartAnimationActive !== false ? (1 + Math.sin(now * 0.001 * ch.e) * 0.15) : 1));
+
+        // 🫀 KALP ATIŞI VE ÖLÇEKLENDİRME (KÖPRÜ ENJEKSİYONU)
+        // Döngünün İÇİNDE olduğumuz için mesh, now ve ch hatasız fırlatılır!
+        if (typeof window.metatronMeshScaler === "function") {
+            window.metatronMeshScaler(mesh, now, ch);
+        }
+    }); // 👈 DÖNGÜ BURADA BİTİYOR!
+
+    // ============================================================================
+    // 🌪️ PAKET SİMÜLASYONU & ODALAR ARASI CANLI BAĞLANTI HATLARI
+    // ============================================================================
+    
+    // Eski geçici bağlantı çizgilerini sahneden temizle (Her karede taze çizim için)
+    if (window.KuantumBaglantiHatlari) {
+        window.KuantumKafesi.remove(window.KuantumBaglantiHatlari);
+        window.KuantumBaglantiHatlari.geometry.dispose();
+        if (Array.isArray(window.KuantumBaglantiHatlari.material)) {
+            window.KuantumBaglantiHatlari.material.forEach(m => m.dispose());
+        } else {
+            window.KuantumBaglantiHatlari.material.dispose();
+        }
+        window.KuantumBaglantiHatlari = null;
+    }
+
+    const linePoints = [];
+    const lineColors = [];
+
+    // Aktif paketlerin uçtuğu yolları dinamik ışık köprülerine dönüştür
+    window.activePackets.forEach(p => {
+        p.update(dt); // Paketi yürüt
+
+        // Paket hangi odadan hangi odaya gidiyorsa o koordinatları yakala
+        const kaynakMesh = window.chambers[p.sourceId];
+        const hedefMesh = window.chambers[p.targetId];
+
+        if (kaynakMesh && hedefMesh) {
+            // Canlı koordinatları al
+            const pStart = kaynakMesh.position;
+            const pEnd = hedefMesh.position;
+
+            // Paket ilerlemesine göre (p.progress 0 ile 1 arasıdır) anlık ışık noktasını bul
+            const pCurrent = new THREE.Vector3().lerpVectors(pStart, pEnd, p.progress || 0);
+
+            // Odadan çıkan ışık süzmesi çizgisi hattı
+            linePoints.push(pStart.clone(), pCurrent.clone());
+
+            // Paketin rengine göre kuantum ışık hattı rengi enjekte et (Örn: Red, Green vb.)
+            const cBase = kaynakMesh.material.color;
+            lineColors.push(cBase.r, cBase.g, cBase.b);
+            lineColors.push(cBase.r * 0.5, cBase.g * 0.5, cBase.b * 0.5); // Sönümlenen uç
+        }
     });
 
-    window.activePackets.forEach(p => p.update(dt));
+    // Eğer uçuşan aktif paket varsa dinamik bağ çizgilerini oluştur ve kafese çak!
+    if (linePoints.length > 0) {
+        const lineGeom = new THREE.BufferGeometry().setFromPoints(linePoints);
+        lineGeom.setAttribute('color', new THREE.Float32BufferAttribute(lineColors, 3));
+
+        const lineMat = new THREE.LineBasicMaterial({
+            vertexColors: true,
+            transparent: true,
+            opacity: 0.75,
+            blending: THREE.AdditiveBlending, // Işıkların üst üste bindiğinde parlamasını sağlar
+            linewidth: 2
+        });
+
+        window.KuantumBaglantiHatlari = new THREE.LineSegments(lineGeom, lineMat);
+        window.KuantumBaglantiHatlari.name = "KUANTUM_BAGLANTI_HATLARI";
+        window.KuantumKafesi.add(window.KuantumBaglantiHatlari);
+    }
+
+    // Aktif olmayan paketleri temizle
     window.activePackets = window.activePackets.filter(p => p.isActive);
+    
+    // Altın oran rotasyonu devam ediyor
     window.KuantumKafesi.rotation.y += 0.005 * Phi;
 
-    // 🔑 İŞTE EKSİK OLAN KİLİT SATIRLAR (RENDER TETİKLEYİCİSİ):
+    // 🖥️ WebGL Render Tetikleyicisi
     if (window.renderer && window.scene && window.camera) {
         window.renderer.render(window.scene, window.camera);
     }
