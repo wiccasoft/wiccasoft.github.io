@@ -6,13 +6,13 @@ const M_UP   = [1,4,7]   // UP
 const M_DOWN = [2,8,5]   // DOWN
 
 const SPINE = [2,7]
-const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
-const ELEMENTS = {earth:8,air:2,water:7,fire:1}
+//const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
+//const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
-const M_direction= [{east:1},{west:8}]
+//const M_direction= [{east:1},{west:8}]
 
-const colorspectrum = [1, 2, 4, 8, 7, 5]; 
-const solfeggiospec = [1, 7, 4, 2, 8, 5];
+//const colorspectrum = [1, 2, 4, 8, 7, 5]; 
+//const solfeggiospec = [1, 7, 4, 2, 8, 5];
 
 //SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive RAINBOW
 //solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,d:852,s:693}]}; //  3,6,9 
