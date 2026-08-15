@@ -6,6 +6,7 @@ const M_UP   = [1,4,7]   // UP
 const M_DOWN = [2,8,5]   // DOWN
 
 const SPINE = [2,7]
+const ROOT_TWO = Math.sqrt(2); 
 const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
 const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
@@ -39,39 +40,57 @@ window.solfeggiospec = [1, 7, 4, 2, 8, 5];
 
 // colorspectrum dizisi, METATRON_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn (999 - COLOR_SPECTRUM_MODEL.q) verisiyle ms de söner
 
-/*
+
 window.METATRON_SPECTRUM_MODEL = [
 //  777 breath in                                                                         
-// 🔥 YÜKSELEN AKS (Isınma / Genleşme / Sistol): Çarpılarak Katlanır (* 1.618)     777        
-    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, q: 174, oid: "8" }, // (Phi^0)
-    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, q: 285, oid: "7" }, // (Phi^1)
-    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.618, q: 417, oid: "5" }, // (Phi^2)
+// 🔥 YÜKSELEN AKS (Isınma / Genleşme / Sistol): eklenerek Katlanır (* 1.618)     777        
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, q: 174, oid: "8" }, // (+Phi^0)
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, q: 285, oid: "7" }, // (+Phi^1)
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.238, q: 417, oid: "5" }, // (+Phi^1)
   //                                                                              -396- 
     // 🤍🖤 THE SACRED HANDS MATRIX (Jesus' Hand Gestures & Orb Placement)        666 fire in the midddle
-    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 3.141, q: 936, oid: "6"}, // Left hand: blessing the air
-    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 2.618, q: 639, oid: "3"}, // Right hand: holding the earthly orb
+    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 2.856, q: 936, oid: "6"}, // Left hand: blessing the air
+    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 2.256, q: 639, oid: "3"}, // Right hand: holding the earthly orb
 // 222 breath out                                                                 -369-                     
     // 💧 DECAYING AXIS (Contraction / Diastole / Absolute Calm)                   222 
-    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, q: 528, oid: "1" }, // (Phi^2)/(Phi)   
-    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, q: 741, oid: "2" }, // ((Phi)/(Phi))
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, q: 528, oid: "1" }, // (-Phi)   
+    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, q: 741, oid: "2" }, // (-Phi)
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, q: 852, oid: "4" }  // fire starter (1.0 / 1.618) + 0.6 
 ];
-*/
 
+
+window.METATRON_SPECTRUM_MODEL = [
+    { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, q: 174, oid: "8" },
+    { id: 2, name: "ORANGE_ABSORB_CHAMBER", mv: -70, color: "Orange", e: 1.618, q: 285, oid: "7" },
+    { id: 4, name: "YELLOW_PROPEL_CHAMBER", mv:  20, color: "Yellow", e: 2.238, q: 417, oid: "5" },
+    { id: 3, name: "WHITE_LIGHT_CHAMBER",   mv: 100, color: "White",  e: 2.856, q: 936, oid: "6" },
+    { id: 6, name: "BLACK_VOID_CHAMBER",    mv: -100,color: "Black",  e: 2.256, q: 639, oid: "3" },
+    { id: 8, name: "GREEN_ENERGY_CHAMBER",  mv:   0, color: "Green",  e: 1.618, q: 528, oid: "1" },
+    { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, q: 741, oid: "2" },
+    { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, q: 852, oid: "4" }
+];
+
+
+// ============================================================================ 
+// 174,285,932,528,741,255                           2915
+// 1.0,1.6,2.2,1.6,1.0,0,6    2673 Mhz WHITE  (+)    1391
+// 174,461,933,854,741,511    1441 Mhz BLACK  (-)    1524
+//   R  +   Y -  G  B   -   = 1232 Mhz energy flow    133 hz start
 // ============================================================================
 // 🔮 METATRON CORE SPECTRUM MODEL & QUANTUM CHAMBERS
 // ============================================================================
+/*
 window.METATRON_SPECTRUM_MODEL = [
     { id: 1, name: "RED_ENERGY_CHAMBER", mv: -90, color: "Red", e: 1.000, q: 174, oid: "8" },
-    { id: 2, name: "ORANGE_VORTEX", mv: -45, color: "Orange", e: 1.125, q: 285, oid: "9" },
+    { id: 2, name: "ORANGE_VORTEX", mv: -45, color: "Orange", e: 1.625, q: 285, oid: "9" },
     { id: 3, name: "WHITE_LIGHT_KNOT", mv: 0, color: "White", e: 1.200, q: 396, oid: "1" },
-    { id: 4, name: "YELLOW_RESONATOR", mv: 45, color: "Yellow", e: 1.350, q: 417, oid: "2" },
+    { id: 4, name: "YELLOW_RESONATOR", mv: 45, color: "Yellow", e: 2.650, q: 417, oid: "2" },
     { id: 5, name: "GREEN_BALANCE_POINT", mv: 90, color: "Green", e: 1.500, q: 528, oid: "3" },
     { id: 6, name: "BLACK_VOID_CENTER", mv: 135, color: "Black", e: 1.618, q: 639, oid: "4" },
     { id: 7, name: "BLUE_ETHER_CHAMBER", mv: 180, color: "Blue", e: 1.800, q: 741, oid: "5" },
     { id: 8, name: "VIOLET_CROWN_NODE", mv: 225, color: "Violet", e: 2.000, q: 852, oid: "6" }
 ];
-
+*/
 //window.chambers = {core:[174,285,396],cytoplasm:[417,528,936],shell:[741,852,693]}; 
 
 
@@ -126,8 +145,8 @@ function injectMetatronMetabolism() {
     const material = new THREE.MeshBasicMaterial({
         color: colorHexMap[chamber.color],
         transparent: true,
-        opacity: 0.35,
-        wireframe: false // Solid translucent lock
+        opacity: 0.22,
+        wireframe: true // Solid translucent lock
     });
     
     const chamberMesh = new THREE.Mesh(geometry, material);
@@ -164,56 +183,131 @@ function injectMetatronMetabolism() {
 });
 
 }
-    
+
+
+// ⚡ DİNAMİK NABIZ: Eğer dışarıdan bir slider ile kontrol etmek istersen, 
+// window.metatronPulseSpeed değerini değiştirmen yeterli! 
+// Taban değer olarak yine o cuk oturan 0.045 (74 BPM) çizgimizi mühürlüyoruz.
+/// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
+// 0.045 değeri 74 BPM insan dinlenme kalbiyle tam uyumludur.
+window.metatronPulseSpeed = window.metatronPulseSpeed || 0.045;
+
+// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
 window.MetatronEngine = function() {
-    // 🛡️ GÜVENLİK KALKANI: Giriş kontrolleri
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
+    if (window.heartAnimationActive !== true) return;
+
+    const baseSpectrum = window.colorspectrum //|| [];
+    const spectrumOrder = [...baseSpectrum].reverse(); 
     
-    const now = Date.now(), Phi = 1.61803398875;
-    
-    // 🎨 COLOR SPECTRUM (1-2-4-8-7-5) KUTSAL AKIŞ SIRALAMASI
-    // Odalar artık senin belirttiğin bu sıra nizamına göre ardışık parlayacak!
-    const spectrumOrder = window.colorspectrum;
-    
-    // 🔮 ODALARIN DÖNGÜ İÇİ ENERJİ METABOLİZMASI
+    // 🎯 1 SANİYE MASTER CLOCK (60 FPS rezonans hızı)
+    const currentSpeed = window.metatronPulseSpeed || 0.1047; 
+
+    window.chambersTimers = window.chambersTimers || {};
+
+    // 🎯 KARŞIT ODA EŞLEŞME MATRİSİ (Opposite Mapping)
+    const oppositeMap = {
+        1: 8, // Kırmızı -> Yeşil
+        8: 1, // Yeşil -> Kırmızı
+        2: 7, // Turuncu -> Mavi
+        7: 2  // Mavi -> Turuncu
+    };
+
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
         if (!mesh) return; 
 
-        // 🌊 SPEKTRUM DALGASI (YAKMA MEKANİZMASI)
-        let wave = 0;
-        
-        if (spectrumOrder.includes(ch.id)) {
-            const orderIndex = spectrumOrder.indexOf(ch.id);
-            // Renk spektrumu sırasına göre aralarına altın oran (0.618) faz kayması ekliyoruz.
-            // Bu sayede ışık 1'den başlayıp sırayla 2, 4, 8, 7, 5 yönünde bir nehir gibi akacak.
-            wave = Math.sin((now * 0.0025) - (orderIndex * 0.618));
-        }
-
-        // Opaklık Ayarı (Beyaz ve Siyah eksen odaları parlar, diğerleri renk sırasına göre söner/yanar)
-        if (mesh.material) {
-            if (ch.id === 3 || ch.id === 6) {
-                mesh.material.opacity = 0.85; // Kutup milleri kalıcı aydınlık kalır
-            } else {
-                // Taban loşluğu 0.20, dalga parıltısı zirvesi 0.85 olacak şekilde yumuşak geçiş
-                mesh.material.opacity = 0.20 + (Math.max(0, wave) * 0.65); 
+        if (mesh.material && mesh.userData && mesh.userData.originalColor) {
+            if (ch.id !== 3 && ch.id !== 6) {
+                mesh.material.color.setHex(mesh.userData.originalColor);
+                if (mesh.material.emissive) mesh.material.emissive.setHex(mesh.userData.originalColor);
             }
         }
 
-        // 🫀 KALP ATIŞI VE ÖLÇEKLENDİRME (KÖPRÜ ENJEKSİYONU)
+        let wave = 0;
+        
+        if (spectrumOrder.includes(ch.id)) {
+            if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
+            
+            // 📐 ANLIK FAZ VE TÜREV TESPİTİ (Önce kabaca zaman hesaplanır)
+            const checkTime = window.chambersTimers[ch.id];
+            const checkWaveTime = checkTime - (spectrumOrder.indexOf(ch.id) * 0.1618 * Math.PI);
+            const isInitiallyDecaying = Math.sin(checkWaveTime) > 0; // Akım karşıt odaya mı gidiyor?
+
+            // 🚀 ALTIN ORANDA YAVAŞLAMA ALGORİTMASI
+            // Akım karşıt odaya doğru akıyorsa (sönme fazı), hız Altın Orana (1.618) bölünerek yavaşlar!
+            let dynamicSpeed = currentSpeed * Number(ch.e);
+            if (isInitiallyDecaying) {
+                dynamicSpeed = dynamicSpeed / 1.61803398875; // Yoğunlaşma ve frenleme dalgası
+            }
+
+            // Bağımsız zaman hücresine dinamik hızın enjekte edilmesi
+            window.chambersTimers[ch.id] += dynamicSpeed;
+            window.chambersTimers[ch.id] %= (Math.PI * 2);
+
+            const localTime = window.chambersTimers[ch.id];
+            
+            // Karşıt odaların (1-8 ve 2-7) zaman nehrindeki 180 derece (π) zıt kutup yerleşimi
+            let waveTime = localTime;
+            if (ch.id === 8 || ch.id === 7) {
+                waveTime = localTime - Math.PI; 
+            } else if (ch.id !== 1 && ch.id !== 2) {
+                waveTime = localTime - (spectrumOrder.indexOf(ch.id) * 0.1618 * Math.PI);
+            }
+            
+            // Saf trigonometrik enerji dalgası
+            const rawWave = (Math.cos(waveTime) + 1) * 0.5;
+            
+            // 🎯 SÖNMEME VE TERS AKIM TRANSFERİ GARANTİSİ
+            const isDecaying = Math.sin(waveTime) > 0;
+
+            if (isDecaying) {
+                // Sönme fazında, odanın enerjisi tamamen yok olmaz. 
+                // Karşıt odanın (opposite) o anki potansiyeline bağlanarak taban ışığı korunur.
+                const oppositeId = oppositeMap[ch.id];
+                const oppositeChamber = window.METATRON_SPECTRUM_MODEL.find(c => c.id === oppositeId);
+                const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
+                
+                // Odalar asla sönmesin diye minimum %20 ila %35 arası bir taban sıcak akım (bias) kilitlenir
+                wave = (rawWave * 0.7) + oppositeWeight;
+            } else {
+                wave = rawWave;
+            }
+            
+            // Kesin sönmeme kelepçesi (Taban mutlak olarak 0.20'ye çekildi, asla karanlık kalmaz)
+            wave = Math.max(0.20, Math.min(1, wave));
+            
+        } else {
+            // KUTUP ODALARI (3 ve 6) - Sabit Taşıyıcı Merkez
+            if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
+            window.chambersTimers[ch.id] += currentSpeed * ch.e;
+            window.chambersTimers[ch.id] %= (Math.PI * 2);
+            wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5; // Sürekli canlı
+        }
+
+        // 🦴 SAF VERİ TRANSFERİ
+        mesh.userData = mesh.userData || {};
+        mesh.userData.currentWave = wave;
+
+        // 🎨 HAM RENDERER BAĞLANTISI (Görsel efekt değil, sadece görünürlük köprüsü)
+        if (mesh.material) {
+            mesh.material.transparent = true;
+            if (ch.id === 3 || ch.id === 6) {
+                mesh.material.opacity = 0.85;
+                if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
+            } else {
+                // Odalar asla sıfıra düşmediği için opaklık da her zaman görünür seviyede kalır
+                mesh.material.opacity = 0.25 + (wave * 0.65); 
+                if (mesh.material.emissiveIntensity !== undefined) {
+                    mesh.material.emissiveIntensity = wave * 2.0; 
+                }
+            }
+        }
+
         if (typeof window.metatronMeshScaler === "function") {
-            window.metatronMeshScaler(mesh, now, ch);
+            window.metatronMeshScaler(mesh, null, ch);
         }
     });
-
-    // 🌪️ Altın oran ivmesiyle iskelet rotasyonu
-    //window.KuantumKafesi.rotation.y += 0.003 * Phi;
-
-      // 🖥️ WebGL Render Tetikleyicisi - 🎯 İSKELETİ GERİ GETİREN KİLİT SATIRLAR!
-    // Bu kalkan, ekranın donmasını engeller ve iskelet ile odaları senkronize çizer.
-    if (window.renderer && window.scene && window.camera) {
-        window.renderer.render(window.scene, window.camera);
-    }
 };
 
 // Start the core engine
