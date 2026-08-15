@@ -300,26 +300,45 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 // ============================================================================
-// 🌊 SKELETON.JS - METATRON ENGINE COUPLING & ANIMATION LOOP
+// 🌊 SKELETON.JS - METATRON ENGINE COUPLING & SINGLE BRIDGE SOURCE
 // ============================================================================
 window.initMetatronEngine = function() {
     window.activePackets = window.activePackets || [];
     console.log("Metatron Engine Initialized successfully.");
 };
 
-
-
-// 🔑 KOPUKLUK ÇÖZÜMÜ 2: Eksik olan MetatronEngine döngüsü geri eklendi
-window.MetatronEngine = function() {
-    if (!window.METATRON_SPECTRUM_MODEL || !window.COLOR_SPECTRUM_MODEL || !window.KuantumKafesi) return;
-    // ... (Animasyon döngüsü, paket güncellemeleri ve render işlemleri)
-    
-    if (window.renderer && window.scene && window.camera) {
-        window.renderer.render(window.scene, window.camera);
+// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE):
+// anatomy.html içindeki animate() fonksiyonu her karede "updateMetatronLoop()" çağırır.
+// Kod kalabalığı yapmıyoruz; çağrıyı doğrudan metatron.js'teki gerçek ana motora paslıyoruz!
+window.updateMetatronLoop = function() {
+    if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
+        window.MetatronEngine();
     }
 };
 
+// ============================================================================
+// 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
+// ============================================================================
+window.initAllMetatronSystems = function() {
+    console.log("[METATRON BOOT] Sistemler sırayla ayağa kaldırılıyor...");
+    
+    // 1. Önce Three.js dünyasını, kamerayı, ışıkları ve Kuantum Kafesini kur
+    if (typeof window.initSkelaton === "function") {
+        window.initSkelaton();
+    }
+    
+    // 2. İskelet ayağa kalktıktan sonra Kuantum Motor referansını ateşle
+    if (typeof window.initMetatronEngine === "function") {
+        window.initMetatronEngine();
+    }
+};
 
+// Sayfa yüklenme durumuna göre tetikleyiciyi tam korumalı çalıştır
+if (document.readyState === "loading") {
+    window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
+} else {
+    window.initAllMetatronSystems();
+}
 window.metatronMeshScaler = function(mesh, now, ch) {
     if (window.heartAnimationActive !== false) {
         mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
