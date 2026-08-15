@@ -308,24 +308,37 @@ window.initMetatronEngine = function() {
 
 // 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
 // anatomy.html içindeki animate() fonksiyonu her karede burayı çağırır.
-window.updateMetatronLoop = function() {
-    // 1. Eğer metatron.js yüklenmişse onun içindeki gerçek ana motoru tetikle
-    if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
+// ============================================================================
+// 🫀 SKELETON MESH SCALER (KUSURSUZ ENJEKSİYON HATTI)
+// ============================================================================
+window.metatronMeshScaler = function(mesh, now, ch) {
+    // 🎯 KESİN ÇÖZÜM: Hata fırlatan o serseri satır artık bu fonksiyonun İÇİNE mühürlendi!
+    // Parametre olarak gelen 'now' ve 'ch' değişkenlerini hatasız bir şekilde okur.
+    const heartMultiplier = window.heartAnimationActive !== false ? (1 + Math.sin(now * 0.001 * ch.e) * 0.15) : 1;
+    
+    // Nihai ölçek çarpanı odanın (kürenin) üzerine enjekte ediliyor
+    mesh.scale.setScalar(0.22 * heartMultiplier);
+};
+
+// ============================================================================
+// 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
+// ============================================================================
+window.initAllMetatronSystems = function() {
+    if (typeof window.initSkelaton === "function" && !window.scene) {
+        window.initSkelaton();
+    }
+    if (typeof window.MetatronEngine === "function") {
         window.MetatronEngine();
-    } 
-    // 2. Güvenli Fallback: metatron.js henüz yüklenmediyse bile sahneyi siyah bırakma, iskeleti çiz!
-    else if (window.renderer && window.scene && window.camera) {
-        window.renderer.render(window.scene, window.camera);
     }
 };
 
-window.metatronMeshScaler = function(mesh, now, ch) {
-    if (window.heartAnimationActive !== false) {
-        mesh.scale.setScalar(0.22 * (1 + Math.sin(now * 0.001 * ch.e) * 0.15));
-    } else {
-        mesh.scale.setScalar(0.22);
-    }
-};
+// Sayfa yüklenme durumuna göre başlatıcıyı çalıştır
+if (document.readyState === "loading") {
+    window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
+} else {
+    window.initAllMetatronSystems();
+}
+
 
 // ============================================================================
 // 🚀 KUSURSUZ ZİNCİRLEME BAŞLATICI (SKELETON BOOT)
@@ -335,17 +348,34 @@ window.initAllMetatronSystems = function() {
     if (typeof window.initSkelaton === "function" && !window.scene) {
         window.initSkelaton();
     }
+    // Eğer metatron motoru yüklendiyse döngüyü uyandır
     if (typeof window.MetatronEngine === "function") {
         window.MetatronEngine();
     }
 };
 
-// Sayfa yüklenme durumuna göre tetikleyiciyi çalıştır
+// Sayfa yüklenme durumuna göre tetikleyiciyi güvenle çalıştır
 if (document.readyState === "loading") {
     window.addEventListener("DOMContentLoaded", window.initAllMetatronSystems);
 } else {
     window.initAllMetatronSystems();
 }
+
+
+
+
+// ============================================================================
+// ❌ HATALI GEÇİŞ TAMAMEN SİLİNDİ (now is not defined hatasını çözer)
+// ============================================================================
+/*
+window.metatronMeshScaler = function( mesh, now, ch) {
+    if ( window. heartAnimationActive !== false) {
+        mesh. scale. setScalar( 0.22 * ( 1 + Math. sin( now * 0.001 * ch. e) * 0.15));
+    } else {
+        mesh. scale. setScalar( 0.22);
+    }
+};
+*/
 
 // 💥 KRİTİK DÜZELTME: Buradaki "window.updateMetatronLoop = window.MetatronEngine;" satırı tamamen silindi!
 // ============================================================================
