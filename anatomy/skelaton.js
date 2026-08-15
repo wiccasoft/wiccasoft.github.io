@@ -335,8 +335,8 @@ window.initAllMetatronSystems = function() {
     if (typeof window.initSkelaton === "function" && !window.scene) {
         window.initSkelaton();
     }
-    if (typeof window.initMetatronEngine === "function") {
-        window.initMetatronEngine();
+    if (typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
     }
 };
 
