@@ -15,7 +15,7 @@ const colorspectrum = [1, 2, 4, 8, 7, 5];
 const solfeggiospec = [1, 7, 4, 2, 8, 5];
 
 //SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive RAINBOW
-solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,d:852,s:693}]}; //  3,6,9 
+//solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,d:852,s:693}]}; //  3,6,9 
 
 // 174-417-741 (RYB) 528hz is green (solar plexus)
 // stilness actually yellowness in solfeggio model
@@ -79,6 +79,7 @@ window.chambers = window.chambers || {};
 window.activePackets = window.activePackets || [];
 
 // 🧬 PURE LOGICAL TELEMETRY CARRIER (0% CPU OVERHEAD)
+// 🧬 PURE LOGICAL TELEMETRY CARRIER (OPTIMIZED FOR VISUAL LASER TRACKS)
 window.QuantumPacket = class QuantumPacket {
     constructor(sourceId, targetId, frequencyValue, directionMultiplier) {
         this.sourceId = sourceId;
@@ -88,19 +89,21 @@ window.QuantumPacket = class QuantumPacket {
         this.progress = 0;
         this.isActive = true;
     }
-
     update(fixedDelta) {
         if (!this.isActive) return;
-        // Pure mathematical scale entirely independent from PC clock/refresh cycles
-        const baseSpeed = this.frequency * 0.01;
+        
+        // 🎯 KESİN ÇÖZÜM: Devasa hız çarpanı (0.01) düşürüldü (0.00025)! 
+        // Böylece paketler odalar arasında ışık hızıyla kaybolmayacak, 
+        // çizgiler saniyeler boyunca ekranda süzülerek netçe görülebilecek.
+        const baseSpeed = this.frequency * 0.00025;
         this.progress += baseSpeed * this.dirMultiplier * fixedDelta;
+        
         if (this.progress >= 1.0) {
             this.progress = 1.0;
             this.isActive = false;
         }
     }
 };
-
 // 🫀 INJECTING CHAMBERS ONTO SKELETON'S QUANTUM CAGE
 function injectMetatronMetabolism() {
     // 📯 Girişteki çökme tehlikesi yaratan hatalı window.MetatronEngine() çağrısı kaldırıldı!
