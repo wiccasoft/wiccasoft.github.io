@@ -5,17 +5,18 @@
 const M_UP   = [1,4,7]   
 const M_DOWN = [2,8,5]   
 
-const SPINE = [2,7]
-const ROOT_TWO = Math.sqrt(2); 
-const METATRON = {RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7}
-const ELEMENTS = {earth:8,air:2,water:7,fire:1}
+const UPDOWN = [2,7]
+const LEFTRIGHT = [1,8]
+const FORWARDBACKWARD = [5,4]
 
-const M_direction= [{east:1},{west:8}]
+const ROOT_TWO = Math.sqrt(2); 
+const METATRON = {SPINE:[2,7],RIGHT:[1,2,4],LEFT:[8,7,5],UP:2,BOTTOM:7,EAST:1,WEST:8,FRONT:5,BACK:4}
+const ELEMENTS = {earth:8,air:2,water:7,fire:1}
 
 window.colorspectrum = [1, 2, 4, 8, 7, 5]; 
 window.solfeggiospec = [1, 7, 4, 2, 8, 5];
 
-//SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) subtractive RAINBOW
+//SOLFEGGIO 1-7-4-2-8-5 (RED YELLOW BLUE MODEL) addictive-subtractive RAINBOW
 //solfeggio = {core:{u:174,d:285,s:369},middle:{u:417,d:528,ss:936},shell:[{u:741,d:852,s:693}]}; //  3,6,9 
 
 // 174-417-741 (RYB) 528hz is green (solar plexus)
@@ -233,7 +234,7 @@ window.MetatronEngine = function() {
             
             // 📐 ANLIK FAZ VE TÜREV TESPİTİ (Önce kabaca zaman hesaplanır)
             const checkTime = window.chambersTimers[ch.id];
-            const checkWaveTime = checkTime - (spectrumOrder.indexOf(ch.id) * 0.1618 * Math.PI);
+            const checkWaveTime = checkTime - (spectrumOrder.indexOf(ch.id) * 0.618 * Math.PI);
             const isInitiallyDecaying = Math.sin(checkWaveTime) > 0; // Akım karşıt odaya mı gidiyor?
 
             // 🚀 ALTIN ORANDA YAVAŞLAMA ALGORİTMASI
@@ -252,9 +253,9 @@ window.MetatronEngine = function() {
             // Karşıt odaların (1-8 ve 2-7) zaman nehrindeki 180 derece (π) zıt kutup yerleşimi
             let waveTime = localTime;
             if (ch.id === 8 || ch.id === 7) {
-                waveTime = localTime - Math.PI; 
+                waveTime = localTime - Math.PI*0.61; 
             } else if (ch.id !== 1 && ch.id !== 2) {
-                waveTime = localTime - (spectrumOrder.indexOf(ch.id) * 0.1618 * Math.PI);
+                waveTime = localTime - (spectrumOrder.indexOf(ch.id) * 1.618 * Math.PI);
             }
             
             // Saf trigonometrik enerji dalgası
@@ -271,7 +272,7 @@ window.MetatronEngine = function() {
                 const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
                 
                 // Odalar asla sönmesin diye minimum %20 ila %35 arası bir taban sıcak akım (bias) kilitlenir
-                wave = (rawWave * 0.7) + oppositeWeight;
+                wave = (rawWave * 0.6) + oppositeWeight;
             } else {
                 wave = rawWave;
             }
@@ -299,7 +300,7 @@ window.MetatronEngine = function() {
                 if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
             } else {
                 // Odalar asla sıfıra düşmediği için opaklık da her zaman görünür seviyede kalır
-                mesh.material.opacity = 0.35 + (wave * 0.61); 
+                mesh.material.opacity = 0.34 + (wave * 0.64); 
                 if (mesh.material.emissiveIntensity !== undefined) {
                     mesh.material.emissiveIntensity = wave * 2.0; 
                 }
