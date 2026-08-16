@@ -2,8 +2,8 @@
 // 🪐 METATRON CORE ENGINE - METABOLIC PATHWAY & PURE HEART CORE (432hz)  (c) 2026 wiccasoft
 // ==========================================================================================
 
-const M_UP   = [1,4,7]   // UP 
-const M_DOWN = [2,8,5]   // DOWN
+const M_UP   = [1,4,7]   
+const M_DOWN = [2,8,5]   
 
 const SPINE = [2,7]
 const ROOT_TWO = Math.sqrt(2); 
@@ -40,7 +40,7 @@ window.solfeggiospec = [1, 7, 4, 2, 8, 5];
 
 // colorspectrum dizisi, METATRON_SPECTRUM_MODEL.e verisi metatronu yakma sayısı/sn (999 - COLOR_SPECTRUM_MODEL.q) verisiyle ms de söner
 
-
+/*
 window.METATRON_SPECTRUM_MODEL = [
 //  777 breath in                                                                         
 // 🔥 YÜKSELEN AKS (Isınma / Genleşme / Sistol): eklenerek Katlanır (* 1.618)     777        
@@ -57,7 +57,7 @@ window.METATRON_SPECTRUM_MODEL = [
     { id: 7, name: "BLUE_SHIELD_CHAMBER",   mv: -60, color: "Blue",   e: 1.000, q: 741, oid: "2" }, // (-Phi)
     { id: 5, name: "VIOLET_SHELL_CHAMBER",  mv: -90, color: "Violet", e: 0.618, q: 852, oid: "4" }  // fire starter (1.0 / 1.618) + 0.6 
 ];
-
+*/
 
 window.METATRON_SPECTRUM_MODEL = [
     { id: 1, name: "RED_ENERGY_CHAMBER",    mv: -90, color: "Red",    e: 1.000, q: 174, oid: "8" },
@@ -185,18 +185,19 @@ function injectMetatronMetabolism() {
 }
 
 
-// ⚡ DİNAMİK NABIZ: Eğer dışarıdan bir slider ile kontrol etmek istersen, 
-// window.metatronPulseSpeed değerini değiştirmen yeterli! 
-// Taban değer olarak yine o cuk oturan 0.045 (74 BPM) çizgimizi mühürlüyoruz.
 /// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
 // 0.045 değeri 74 BPM insan dinlenme kalbiyle tam uyumludur.
-window.metatronPulseSpeed = window.metatronPulseSpeed || 0.045;
-
+window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
+//ız Sabitlemesi (metatronPulseSpeed): Bir tam kosinüs turu \(2\pi \approx 6.28\) radyandır. 
+// 60 FPS ekran yenileme hızında, döngünün ortalama 3 saniye (180 frame) sürmesi için
+//  window.metatronPulseSpeed değerinin tam olarak 0.035 olarak ayarlanması gerekir (\(6.28 / 180 \approx 0.035\)).
 // ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
 window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     if (window.heartAnimationActive !== true) return;
-
+// ⚡ DİNAMİK NABIZ: Eğer dışarıdan bir slider ile kontrol etmek istersen, 
+// window.metatronPulseSpeed değerini değiştirmen yeterli! 
+// Taban değer olarak yine o cuk oturan 0.045 (74 BPM) çizgimizi mühürlüyoruz.
     // 🎯 REPO TASHİHİ: baseSpectrum solfeggiospec ile güncellendi ve hata giderildi
     const baseSpectrum = window.solfeggiospec || [];
     const spectrumOrder = [...baseSpectrum].reverse();
@@ -298,7 +299,7 @@ window.MetatronEngine = function() {
                 if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
             } else {
                 // Odalar asla sıfıra düşmediği için opaklık da her zaman görünür seviyede kalır
-                mesh.material.opacity = 0.25 + (wave * 0.65); 
+                mesh.material.opacity = 0.35 + (wave * 0.61); 
                 if (mesh.material.emissiveIntensity !== undefined) {
                     mesh.material.emissiveIntensity = wave * 2.0; 
                 }

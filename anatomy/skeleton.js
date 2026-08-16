@@ -58,62 +58,6 @@ window.createMetatronAxes = function(isAxisVisible) {
 
 
 
-
-
-// ============================================================================
-// 🔮 MODÜLER KÜRE ENJEKSİYON MOTORU (initMagicSpheres)
-// ============================================================================
-window.initMagicSpheres = function() {
-    if (!window.KuantumKafesi) {
-        console.warn("[MAGIC SPHERES] KuantumKafesi henüz hazır değil, enjeksiyon ertelendi.");
-        return;
-    }
-
-const spheres = [
-    { id: 1, name: "RED_ENERGY_CHAMBER",    pos: new THREE.Vector3( 0.5,  0.5,  0.5), color: 0xff0000, isPole: false }, // Sağ Üst Ön
-    { id: 2, name: "ORANGE_VORTEX",         pos: new THREE.Vector3( 0.5,  0.5, -0.5), color: 0xff7f00, isPole: false }, // Sağ Üst Arka
-    { id: 4, name: "YELLOW_RESONATOR",      pos: new THREE.Vector3( 0.5, -0.5, -0.5), color: 0xffff00, isPole: false }, // Sağ Alt Arka
-    { id: 5, name: "VIOLET_CROWN_NODE",     pos: new THREE.Vector3(-0.5, -0.5, -0.5), color: 0x8b00ff, isPole: false }, // Sol Alt Arka
-    { id: 7, name: "BLUE_ETHER_CHAMBER",    pos: new THREE.Vector3(-0.5, -0.5,  0.5), color: 0x0000ff, isPole: false }, // Sol Alt Ön
-    { id: 8, name: "GREEN_BALANCE_POINT",   pos: new THREE.Vector3(-0.5,  0.5,  0.5), color: 0x00ff00, isPole: false }, // Sol Üst Ön
-    
-    // Kutsal Miller (Akslar - Dalga dışında sabit duran merkez kutuplar)
-    { id: 3, name: "WHITE_LIGHT_KNOT",      pos: new THREE.Vector3(-0.5,  0.5, -0.5), color: 0xffffff, isPole: true  }, // Sol Üst Arka
-    { id: 6, name: "BLACK_VOID_CENTER",     pos: new THREE.Vector3( 0.5, -0.5,  0.5), color: 0x111111, isPole: true  }  // Sağ Alt Ön
-];
-
-   const sphereRadius = 0.5; // 💡 0.08'den 0.28'e çıkarıldı! Çizgilerin köşesinde şak diye belirir.
-window.chambers = window.chambers || {}; 
-
-spheres.forEach(s => {
-    // 32 segment kalarak kusursuz pürüzsüzlük korunuyor
-    const geom = new THREE.SphereGeometry(sphereRadius, 32, 32);
-    
-    // Işık aramayan parıltılı mat yapı
-    const mat = new THREE.MeshBasicMaterial({
-        color: s.color,
-        transparent: true,
-        // Siyah oda (id:6) arka planda kaybolmasın diye görünürlüğünü arttırıyoruz, loş odaları da parlatıyoruz
-        opacity: s.isPole ? 0.95 : 0.65, 
-        depthWrite: false, // Çizgilerin arkadan sızmasını sağlayan kutsal ayar kalıyor
-        depthTest: true,     
-        precision: "highp"   
-    });
-    
-    const sphereMesh = new THREE.Mesh(geom, mat);
-    sphereMesh.position.copy(s.pos);
-    sphereMesh.name = `CHAMBER_${s.id}`; 
-
-    if (window.KuantumKafesi) {
-        window.KuantumKafesi.add(sphereMesh);
-    }
-    
-    window.chambers[s.id] = sphereMesh;
-});
-
-    console.log("[MAGIC SPHERES] Kuantum odaları iskelet nizamına başarıyla enjekte edildi.");
-};
-
 window.initSkelaton = function() {
 
     // 1. Ana Sahne Kurulumu
@@ -148,11 +92,11 @@ window.initSkelaton = function() {
     window.camera.position.set(5, 5, 5);
     window.camera.lookAt(0, 0, 0);
 
-    // 🖥️ Renderer ve Siyah Perde Kilidi
-    window.renderer = new THREE.WebGLRenderer({ antialias: true });
-    window.renderer.setSize(window.innerWidth, window.innerHeight);
-    document.body.appendChild(window.renderer.domElement);
-    window.renderer.setClearColor(0x000000, 1);
+// 🖥 Renderer ve Siyah Perdeyi Kaldırma Transparan Maskesi
+window.renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true }); // alpha: true eklendi tatlım!
+window.renderer.setSize(window.innerWidth, window.innerHeight);
+window.renderer.setClearColor(0x000000, 0); // 1 olan değer 0 yapıldı, siyah fon tamamen yok edildi!
+document.body.appendChild(window.renderer.domElement);
 
     // 🔑 KONTROLLER GLOBALE ALINDI: setTopView artık bu kolları doğrudan kontrol edebilir
     window.controls = new THREE.OrbitControls(window.camera, window.renderer.domElement);
@@ -164,7 +108,7 @@ window.initSkelaton = function() {
     window.scene.add(new THREE.AmbientLight(0xffffff));
 
 
- // ============================================================================
+    // ============================================================================
     // 🧬 GEOMETRİK İNŞA VE DOUBLE VORTEX ÇEKİRDEK KODLARINIZ (Akslar, Köşeler, Faces)
     // ============================================================================
     // 💡 AÇIKLAMA: Yerel sızıntıların hepsi global window nesnesine kenetlenmiştir.
@@ -242,7 +186,7 @@ window.initSkelaton = function() {
         }
         const squareGeom = new THREE.BufferGeometry();
         squareGeom.setAttribute('position', new THREE.Float32BufferAttribute(squareVertices,3));
-        const squareMat = new THREE.LineBasicMaterial({color:0xffff00});
+        const squareMat = new THREE.LineBasicMaterial({color:0x333333});/// METATRON CORNERS
         
         // 🔑 GLOBAL GRUP KİLİDİ: Yerel KuantumKafesi söküldü, window.KuantumKafesi bağlandı!
         window.KuantumKafesi.add(new THREE.LineSegments(squareGeom, squareMat));
@@ -256,7 +200,7 @@ window.initSkelaton = function() {
         plusVertices.push(...f.center.clone().add(v.clone().multiplyScalar(-0.5)).toArray());
         const plusGeom = new THREE.BufferGeometry();
         plusGeom.setAttribute('position', new THREE.Float32BufferAttribute(plusVertices,3));
-        const plusMat = new THREE.LineBasicMaterial({color:0xaaaaaa});
+        const plusMat = new THREE.LineBasicMaterial({color:0x666666});//// ROOMS
         
         // 🔑 GLOBAL GRUP KİLİDİ: Gri artı işaretleri de doğrudan küresel kafese mühürlendi!
         window.KuantumKafesi.add(new THREE.LineSegments(plusGeom, plusMat));
@@ -300,11 +244,11 @@ window.initSkelaton = function() {
     });
     const pyramidGeom = new THREE.BufferGeometry();
     pyramidGeom.setAttribute('position', new THREE.Float32BufferAttribute(pyramidVertices,3));
-    const pyramidMat = new THREE.LineBasicMaterial({color:0xffffff});
+    const pyramidMat = new THREE.LineBasicMaterial({color:0xff00ff});
     
     // ============================================================================
     // 🔑 GLOBAL GRUP KİLİDİ: Merkez piramit hatları doğrudan küresel kafese mühürlendi!
-    window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat));        // fire in the middle
+    window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat)); // fire in the middle
     // ============================================================================
 
 
@@ -344,17 +288,21 @@ window.initSkelaton = function() {
     }
 
     // Beyaz ve gri tetrahedron (Merkaba Yıldızı) ekle
-    addTetrahedron(tetra1, 0xffffff);
-    addTetrahedron(tetra2, 0xaaaaaa); // Küre materyali (saydam)
+    addTetrahedron(tetra1, 0x0000ff);
+    addTetrahedron(tetra2, 0xff0000); // Küre materyali (saydam)
   
     //const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
+
     
+    // ============================================================================
+    // METATRON MAGIC SPHERES
+    // ============================================================================
     
-const sphereRadius = 0.24; // küçük küreler küpün içine sığacak
+const sphereRadius = 0.26; // küçük küreler küpün içine sığacak
 
 const spheres = [
     { id: 1, name: "KIRMIZI_ENERJI_ODASI", pos: new THREE.Vector3( 0.25,  0.25,  0.25), color: 0xff0000, isPole: false }, // Kırmızı Köşe
-    { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xFF7F00, isPole: false },
+    { id: 2, name: "TURUNCU_EMICI_ODA",    pos: new THREE.Vector3( 0.25,  0.25, -0.25), color: 0xFF4500, isPole: false },
     { id: 4, name: "SARI_ITICI_ODA",      pos: new THREE.Vector3( 0.25, -0.25, -0.25), color: 0xffff00, isPole: false },
     { id: 8, name: "YESIL_ENERJI_ODASI",   pos: new THREE.Vector3(-0.25, -0.25, -0.25), color: 0x00ff00, isPole: false }, // Yeşil Karşı Köşe
     { id: 7, name: "MAVI_KALKAN_ODASI",   pos: new THREE.Vector3(-0.25, -0.25,  0.25), color: 0x0000ff, isPole: false }, // Mavi Oposite
@@ -429,34 +377,7 @@ window.initMetatronEngine = function() {
     console.log("Metatron Engine Initialized successfully.");
 };
 
-// ============================================================================
-// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE) - NİHAİ KİLİT ÇÖZÜM!
-// ============================================================================
-window.updateMetatronLoop = function() {
-    
-    // 🎯 1. DURUM: Eğer şalter true ise motoru tamamen özgür bırak, aksın!
-    if (window.heartAnimationActive === true) {
-        if (typeof window.MetatronEngine === "function" && window.MetatronEngine !== window.updateMetatronLoop) {
-            window.MetatronEngine(); // Renk spektrumu ve rotasyon ateşlenir!
-        } else if (window.renderer && window.scene && window.camera) {
-            window.renderer.render(window.scene, window.camera);
-        }
-    } 
-    
-    // 💤 2. DURUM (AÇILIŞ & UYKU MODU): Şalter kapalıyken motoru tamamen DURDUR, 
-    // ama iskeletin ekrandan gitmemesi için ana WebGL render emrini vermeye devam et!
-    else {
-        // İskeletin kendi ekseninde hafifçe salınması için iskelet rotasyonunu burada güvenle yürütebilirsin
-        if (window.KuantumKafesi) {
-           // window.KuantumKafesi.rotation.y += 0.001; // Açılışta çok hafif, mistik bir dönüş
-        }
-        
-        // 🔮 İSKELETİ GERİ GETİREN CAN DAMARI SATIRLAR!
-        if (window.renderer && window.scene && window.camera) {
-            window.renderer.render(window.scene, window.camera);
-        }
-    }
-};
+
 
 // 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
 // anatomy.html içindeki animate() fonksiyonu her karede burayı çağırır.
@@ -523,20 +444,6 @@ if (document.readyState === "loading") {
 }
 
 
-// ============================================================================
-// ❌ HATALI GEÇİŞ TAMAMEN SİLİNDİ (now is not defined hatasını çözer)
-// ============================================================================
-/*
-window.metatronMeshScaler = function( mesh, now, ch) {
-    if ( window. heartAnimationActive !== false) {
-        mesh. scale. setScalar( 0.22 * ( 1 + Math. sin( now * 0.001 * ch. e) * 0.15));
-    } else {
-        mesh. scale. setScalar( 0.22);
-    }
-};
-*/
-
-// 💥 KRİTİK DÜZELTME: Buradaki "window.updateMetatronLoop = window.MetatronEngine;" satırı tamamen silindi!
 // ============================================================================
 // 📡 SKELETON.JS - METATRON INTER-FRAME COMMAND LISTENER
 // ============================================================================
