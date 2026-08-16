@@ -210,13 +210,14 @@ window.MetatronEngine = function() {
 
     // 🎯 KARŞIT ODA EŞLEŞME MATRİSİ (Opposite Mapping)
     const oppositeMap = {
-        1: 8, // Kırmızı -> Yeşil
-        8: 1, // Yeşil -> Kırmızı
-        2: 7, // Turuncu -> Mavi
-        7: 2  // Mavi -> Turuncu
+        1: 8,  // Kırmızı -> Yeşil
+        8: 1,  // Yeşil -> Kırmızı
+        2: 7,  // Turuncu -> Mavi
+        7: 2,  // Mavi -> Turuncu
+        4: 5,  // Sarı -> Mor/Pembe (FORWARDBACKWARD: Al Atışını Tamamlayan Aks)
+        5: 4   // Mor/Pembe -> Sarı
     };
-
-    window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
+     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
         if (!mesh) return; 
 
@@ -250,11 +251,11 @@ window.MetatronEngine = function() {
 
             const localTime = window.chambersTimers[ch.id];
             
-            // Karşıt odaların (1-8 ve 2-7) zaman nehrindeki 180 derece (π) zıt kutup yerleşimi
+            // Karşıt odaların zaman nehrindeki 180 derece (π) zıt kutup yerleşimi - 5 NUMARA DAHİL EDİLDİ
             let waveTime = localTime;
-            if (ch.id === 8 || ch.id === 7) {
-                waveTime = localTime - Math.PI*0.61; 
-            } else if (ch.id !== 1 && ch.id !== 2) {
+            if (ch.id === 8 || ch.id === 7 || ch.id === 5) {
+                waveTime = localTime - Math.PI * 0.61; 
+            } else if (ch.id !== 1 && ch.id !== 2 && ch.id !== 4) { // 4 NUMARA MUAF TUTULDU
                 waveTime = localTime - (spectrumOrder.indexOf(ch.id) * 1.618 * Math.PI);
             }
             
@@ -312,7 +313,6 @@ window.MetatronEngine = function() {
         }
     });
 };
-
 // Start the core engine
 //injectMetatronMetabolism();
 
