@@ -200,7 +200,7 @@ document.body.appendChild(window.renderer.domElement);
         plusVertices.push(...f.center.clone().add(v.clone().multiplyScalar(-0.5)).toArray());
         const plusGeom = new THREE.BufferGeometry();
         plusGeom.setAttribute('position', new THREE.Float32BufferAttribute(plusVertices,3));
-        const plusMat = new THREE.LineBasicMaterial({color:0x666666});//// ROOMS
+        const plusMat = new THREE.LineBasicMaterial({color:0x666666});//// ROOMS CORNERS
         
         // 🔑 GLOBAL GRUP KİLİDİ: Gri artı işaretleri de doğrudan küresel kafese mühürlendi!
         window.KuantumKafesi.add(new THREE.LineSegments(plusGeom, plusMat));
@@ -236,6 +236,7 @@ document.body.appendChild(window.renderer.domElement);
     //window.addAxis(0x00ff00, blackPos, whitePos);
 
     // Merkezden köşelere çizgiler (beyaz)
+      // =========================== PYRO (ROOT_TWO) ========================================
     const center = new THREE.Vector3(0,0,0);
     const pyramidVertices = [];
     corners.forEach(c=>{
@@ -244,12 +245,12 @@ document.body.appendChild(window.renderer.domElement);
     });
     const pyramidGeom = new THREE.BufferGeometry();
     pyramidGeom.setAttribute('position', new THREE.Float32BufferAttribute(pyramidVertices,3));
-    const pyramidMat = new THREE.LineBasicMaterial({color:0xff00ff});
+    const pyramidMat = new THREE.LineBasicMaterial({color:0x666666});
     
-    // ============================================================================
+    // =====================================================================================
     // 🔑 GLOBAL GRUP KİLİDİ: Merkez piramit hatları doğrudan küresel kafese mühürlendi!
     window.KuantumKafesi.add(new THREE.LineSegments(pyramidGeom, pyramidMat)); // fire in the middle
-    // ============================================================================
+    // =====================================================================================
 
 
     // ============================================================================
@@ -288,8 +289,8 @@ document.body.appendChild(window.renderer.domElement);
     }
 
     // Beyaz ve gri tetrahedron (Merkaba Yıldızı) ekle
-    addTetrahedron(tetra1, 0x0000ff);
-    addTetrahedron(tetra2, 0xff0000); // Küre materyali (saydam)
+    addTetrahedron(tetra1, 0xffffff);  // up tetrahedron
+    addTetrahedron(tetra2, 0xffffff);  // down tetrahedron Küre materyali (saydam)
   
     //const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
