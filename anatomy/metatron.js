@@ -204,7 +204,7 @@ window.MetatronEngine = function() {
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
 
     const upOrder   =[1,4,7]; // Yükselen Akış
-    const downOrder =[2,8,5]; // Alçalan Akış
+    const downOrder =[8,5,2]; // Alçalan Akış
 
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
@@ -232,7 +232,12 @@ window.MetatronEngine = function() {
 
             // 🕰️ TAMAMEN BİREYSEL ZAMAN VE HIZ HESABI
             const checkTime = window.chambersTimers[ch.id];
-            const checkWaveTime = checkTime - (groupIndex * 0.1618 * Math.PI);
+            //const checkWaveTime = checkTime - (groupIndex * 0.1618 * Math.PI);
+
+            // 🕰 TIBBİ FAZ ZAMANLAMASI: 0.1618 (Altın Oran) ile PR aralığı simülasyonu
+            const checkWaveTime = window.chambersTimers[ch.id] - (groupIndex * 0.1618 * Math.PI);
+            
+            
             const isInitiallyDecaying = Math.sin(checkWaveTime) > 0;
 
             // Her oda sadece kendi saf ch.e ivme çarpanını kullanır, ortak maxPairE çöpe atıldı!
@@ -248,7 +253,10 @@ window.MetatronEngine = function() {
             const localTime = window.chambersTimers[ch.id];
             
             // ⚡ ÖZGÜR FAZ KAYMASI: Odalar üst üste binebilir ama tamamen kendi groupIndex sürelerine göre akar
-            const waveTime = localTime - (groupIndex * 0.1618 * Math.PI);
+            //const waveTime = localTime - (groupIndex * 0.1618 * Math.PI);
+            // ⚡ EKG SINIFLANDIRILMIŞ FAZ KAYMASI: 
+            // Odalar arası iletim (P-QRS) zamanlaması (0.1618 * PI gecikme)
+            const waveTime = window.chambersTimers[ch.id] - (groupIndex * 0.1618 * Math.PI);
 
             const rawWave = (Math.cos(waveTime) + 1) * 0.5;
             const isDecaying = Math.sin(waveTime) > 0;
@@ -296,6 +304,41 @@ window.MetatronEngine = function() {
 // Start the core engine
 //injectMetatronMetabolism();
 
+   // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI)
+        window.MetatronTelemetry = window.MetatronTelemetry || {};
+        window.MetatronTelemetry[ch.id] = {
+            energy: wave,                       // Güç Spektrumu için anlık dalga gücü
+            timer: localTime,                   // Poincaré Kaos grafiği için saf zaman
+            speed: dynamicSpeed,                // Altın Oran sönümleme takibi için anlık hız
+            isDecaying: isDecaying              // Ejeksiyon Fraksiyonu için kasılma durumu
+        };
+    // ========================================================================
+            // 🎓 AKADEMİK BİYOFİZİK TELEMETRİ ENJEKSİYONU (Hz, mV & ms)
+            // ========================================================================
+            window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
+            
+            // 1. ANLIK ELEKTRİKSEL GERİLİM (mV Hesaplaması)
+            // ch.mv taban değerini (-90mV) alır, wave gücüne göre hücre patlamasını simüle eder.
+            // Hücre uyarılınca -90mV'tan +25mV seviyelerine fırlar (Aksiyon Potansiyeli Faz 0).
+            const restPotential = Number(ch.mv); // Örn: -90
+            const actionPotentialRange = 115; // -90'dan +25'e olan biyofiziksel menzil
+            const currentMV = restPotential + (wave * actionPotentialRange);
+
+            // 2. ANLIK REZONANS FREKANSI (Hz Hesaplaması)
+            // Solfeggio baz frekansını (ch.q), odanın anlık hızına göre mikro-dalgalandırır.
+            const currentHZ = Number(ch.q) * (1.0 + (isDecaying ? -0.01618 : 0.01618));
+
+            // 3. TELEMETRİ HAVUZUNA MÜHÜRLENME
+            window.MetatronAcademicTelemetry[ch.id] = {
+                name: ch.name,
+                color: ch.color,
+                frequencyHz: currentHZ.toFixed(2),     // FFT Spektrum göstergesi için Hz
+                voltageMV: currentMV.toFixed(1),        // Aksiyon Potansiyeli ve EKG göstergesi için mV
+                mechanicalWave: wave.toFixed(3),        // Kasılma gücü (% Genleşme)
+                phaseState: isDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
+                timestampMS: performance.now()          // Poincaré Kaos grafiği için zaman damgası
+            };
+            // ========================================================================
 
 //if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
 
