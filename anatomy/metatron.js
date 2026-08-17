@@ -235,12 +235,14 @@ window.MetatronEngine = function() {
             groupIndex = downOrder.indexOf(ch.id);
         }
 
-        // Ortak saatin ilk kurulumu
+ // Ortak saatin ilk kurulumu
         if (window.chambersTimers[pairMinId] === undefined) window.chambersTimers[pairMinId] = 0;
 
-        // 🧠 HIZ HESABI: Mevcut ortak saate göre sönme fazı kontrolü
+        // 🧠 HIZ HESABI: Bireysel grupIndex yerine ortak pairIndex kullanıyoruz!
+        // Böylece 1 ve 8 döngüye girdiğinde aynı checkWaveTime sonucunu bulur, 
+        // sağ kanat saati ileri sararken sol kanadın sönme (decay) durumunu da hesaba katar.
         const checkTime = window.chambersTimers[pairMinId];
-        const checkWaveTime = checkTime - (groupIndex * 0.1618 * Math.PI);
+        const checkWaveTime = checkTime - (pairIndex * 0.1618 * Math.PI);
         const isInitiallyDecaying = Math.sin(checkWaveTime) > 0;
 
         let dynamicSpeed = currentSpeed * Number(ch.e);
