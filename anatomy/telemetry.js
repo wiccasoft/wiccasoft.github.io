@@ -84,16 +84,29 @@
         2: { short: "VMY", full: "Ventricular Myocardium (Ana Pompa Motor Kası)" }
     };
 
+        // 🎯 25 FPS SABİTLEME MOTORU (ZAMANSAL FİLTRE)
+    let fpsInterval = 1000 / 25; // Saniyede tam 25 kare (Her kare arası tam 40ms nefes alma süresi)
+    let lastDrawTime = performance.now();
+
     function updateTelemetryPanel() {
+        // Tarayıcıdan bir sonraki render karesini talep et
         requestAnimationFrame(updateTelemetryPanel);
         
+        // 🚨 TITREME SAVAR SAAT: Geçen süreyi ölçüyoruz, 40ms dolmadıysa bu kareyi pas geç!
+        const now = performance.now();
+        const elapsed = now - lastDrawTime;
+        
+        if (elapsed < fpsInterval) return; // Henüz 40ms olmadı, ekranı erkenden yorup titretme!
+        
+        // 40ms dolduğu an saati güncelle ve çizime başla (Kalan milisaniyelik kaymaları da rezonansa eşle)
+        lastDrawTime = now - (elapsed % fpsInterval);
+
         const data = window.MetatronAcademicTelemetry;
         if (!data) return;
 
         const listContainer = document.getElementById('telemetry-chambers-list');
         let html = '';
         
-        // 🔒 TANIMLAMA KORUMASI: Tüm sayaç ve hesaplama değişkenleri döngünün en üstünde kilitlendi!
         let totalHZ = 0;
         let activeCount = 0;
         let maxCurrentHZ = 174;
@@ -102,7 +115,7 @@
         let totalWave = 0;
 
         // 6 ana odayı girdap sırasıyla dön
-        [1, 2, 4, 8, 7, 5].forEach((id) => {
+       [1,2,4,8,7,5].forEach((id) => {
             const ch = data[id];
             if (!ch) return;
 
@@ -129,9 +142,7 @@
                 </div>
             `;
         });
-        
-        
-  listContainer.innerHTML = html;
+        listContainer.innerHTML = html;
 
         // 🎯 TÜM HESAPLAMALAR VE ÇİZİMLER GÜVENLİ `activeCount > 0` BLOĞUNUN İÇİNDE!
         if (activeCount > 0) {
