@@ -354,38 +354,34 @@ spheres.forEach(s => {
 
 
 // ============================================================================
-// 🪐 3D SKELETON MASTER CLOCK - 25 FPS SİNEMATİK SABİTLEME MOTORU (%100 SENKRON)
+// 🪐 ULTRA-LIGHT requestAnimationFrame MATRIX LOOP (VAHŞİ RİTM - SIFIR YÜK)
 // ============================================================================
-let skelFpsInterval = 1000 / 25; // Saniyede tam 25 kare (Her kare arası tam 40ms nefes alma)
-let skelLastDrawTime = performance.now();
-
-//============================================================================
-// 🪐 HARDWARE-TIED 25 FPS CORE ENGINE (KASILMA VE AĞIRLIK SAVAR YALIN MOTOR)
-// ============================================================================
-
-// ❌ Çift başlılık ve işlemci şişmesi yaratan tüm requestAnimationFrame kalıntıları lağvedilmiştir.
+// Eski setInterval barajı ve kilit yaratan tüm zamanlayıcılar lağvedilmiştir.
 if (window.skelTimerClock) {
     clearInterval(window.skelTimerClock);
 }
 
-// 🎯 DONANIMSAL SAAT: Tarayıcıyı yormadan, tam her 40 milisaniyede bir (25 FPS) uyanır!
-window.skelTimerClock = setInterval(function() {
-    
-    // 🎯 1. DURUM: Kuantum kalp şalteri aktifse ana motoru (metatron.js) ateşle
+function animateSkelatonMatrix() {
+    // Tarayıcının en saf ve en yüksek hızında (Monitörün kaç Hz ise o hızda) döner!
+    requestAnimationFrame(animateSkelatonMatrix);
+
+    // Kuantum şalter aktifse motoru hiçbir yapay engele takılmadan doğrudan ateşle!
     if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
         window.MetatronEngine();
     } 
-    // 💤 2. DURUM: Kalp durmuşken iskeletin o asil, yavaş kozmik dönüşü
     else if (window.KuantumKafesi) {
-        //window.KuantumKafesi.rotation.y += 0.002;
+       // window.KuantumKafesi.rotation.y += 0.002;
     }
 
-    // 🔮 SİYAH PERDEYİ YIRTAN MUTLAK CAN DAMARI (WebGL Çizim Emri)
+    // WebGL Çizim Emri (İşlemciye doğrudan takozsuz hat)
     if (window.renderer && window.scene && window.camera) {
         window.renderer.render(window.scene, window.camera);
     }
+}
 
-}, 1000 / 25); // Tam 25 FPS Sinematik Akış Frekansı
+// Döngüyü özgürce başlat!
+animateSkelatonMatrix();
+console.log("[WILD ENGINE] Kalp yapay kafesten çıkartıldı, en saf ve hırçın hızına kavuştu! ⚛️");
 
 console.log("[HARDWARE CORE] 3D render motoru donanımsal 25 FPS saatine bağlandı. Ağırlık temizlendi! ⚛️");
 // ============================================================================
