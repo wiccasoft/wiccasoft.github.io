@@ -261,6 +261,9 @@ window.MetatronEngine = function() {
             // Karşıt odaların (Diastol/Sönme kanadı) zaman nehrindeki 180 derece (π) zıt kutup yerleşimi
             if (ch.id === 8 || ch.id === 7 || ch.id === 5) {
                 waveTime = (localTime - Math.PI) - (groupIndex * 0.1618 * Math.PI); 
+            }else { 
+                // DÜZELTME: 4 ve diğer sağ kanat odaları için ortak zamanlama
+                waveTime = localTime - (pairIndex * 0.1618 * Math.PI);
             }
 
             const rawWave = (Math.cos(waveTime) + 1) * 0.5;
