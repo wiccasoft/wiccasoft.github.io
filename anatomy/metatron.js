@@ -196,120 +196,101 @@ window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     if (window.heartAnimationActive !== true) return;
 
-    const baseSpectrum = window.solfeggiospec //|| [];
+    const baseSpectrum = window.solfeggiospec;
     const spectrumOrder = [...baseSpectrum].reverse();
     const currentSpeed = window.metatronPulseSpeed || 0.1047; 
 
     window.chambersTimers = window.chambersTimers || {};
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
 
-    // 🪐 METATRON MASTER FIRING ORDERS (Üçlü Akış Sıraları)
-    const upOrder   =[1,4,7]; // Kırmızı -> Sarı -> Mavi (Yükselen Aks)
-    const downOrder =[2,8,5]; // Turuncu -> Yeşil -> Mor (Ters Akış Grubu)const M_UP   = [1,4,7]   
-
+    const upOrder   =[1,4,7]; // Yükselen Akış
+    const downOrder =[2,8,5]; // Alçalan Akış
 
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
-    const mesh = window.chambers ? window.chambers[ch.id] : null; 
-    if (!mesh) return; 
+        const mesh = window.chambers ? window.chambers[ch.id] : null; 
+        if (!mesh) return; 
 
-    if (mesh.material && mesh.userData && mesh.userData.originalColor) {
-        if (ch.id !== 3 && ch.id !== 6) {
-            mesh.material.color.setHex(mesh.userData.originalColor);
-            if (mesh.material.emissive) mesh.material.emissive.setHex(mesh.userData.originalColor);
-        }
-    }
-
-    let wave = 0;
-    
-    if (spectrumOrder.includes(ch.id)) {
-        // Karşıt odaların (1-8, 2-7, 4-5) paralel çalışması için ortak zaman tabanı keys
-        const oppositeId = oppositeMap[ch.id];
-        const pairMinId = Math.min(ch.id, oppositeId);
-        const pairIndex = spectrumOrder.indexOf(pairMinId);
-
-        // 🎯 groupIndex BURADA ŞART: Akımın odalar arasında (Kırmızı->Sarı->Mavi) akmasını sağlar
-        let groupIndex = 0;
-        if (upOrder.includes(ch.id)) {
-            groupIndex = upOrder.indexOf(ch.id);
-        } else if (downOrder.includes(ch.id)) {
-            groupIndex = downOrder.indexOf(ch.id);
-        }
-
- // Ortak saatin ilk kurulumu
-        if (window.chambersTimers[pairMinId] === undefined) window.chambersTimers[pairMinId] = 0;
-
-        // 🧠 HIZ HESABI: Bireysel grupIndex yerine ortak pairIndex kullanıyoruz!
-        // Böylece 1 ve 8 döngüye girdiğinde aynı checkWaveTime sonucunu bulur, 
-        // sağ kanat saati ileri sararken sol kanadın sönme (decay) durumunu da hesaba katar.
-        const checkTime = window.chambersTimers[pairMinId];
-        const checkWaveTime = checkTime - (pairIndex * 0.1618 * Math.PI);
-        const isInitiallyDecaying = Math.sin(checkWaveTime) > 0;
-
-        let dynamicSpeed = currentSpeed * Number(ch.e);
-        if (isInitiallyDecaying) {
-            dynamicSpeed /= 1.61803398875; 
-        }
-
-        // 🚨 KESİN TAMİR: Çifte tetiklemeyi engellemek için ortak saati sadece SAĞ kanat odaları (1, 2, 4) işlerken güncelliyoruz!
-        // Sol kanat odaları (8, 7, 5) bu güncellenmiş saati direkt ortak havuzdan hazır tüketir.
-        if (ch.id === 1 || ch.id === 2 || ch.id === 4) {
-            window.chambersTimers[pairMinId] += dynamicSpeed;
-            window.chambersTimers[pairMinId] %= (Math.PI * 2);
-        }
-
-        const localTime = window.chambersTimers[pairMinId];
-        let waveTime = localTime;
-        
-        // ⚡ KUTUPSAL ASİMETRİ YERLEŞİMİ
-        if (ch.id === 8 || ch.id === 7 || ch.id === 5) {
-            // Sol kanat odaları sağdaki ikizinden tam 180 derece (Math.PI) zıt fazda ve kendi grup kaymasıyla doğar
-            waveTime = (localTime - Math.PI) - (groupIndex * 0.1618 * Math.PI); 
-        } else { 
-            // Sağ kanat odaları gruptaki sırasına göre altın oranda gecikir
-            waveTime = localTime - (groupIndex * 0.1618 * Math.PI);
-        }
-
-        const rawWave = (Math.cos(waveTime) + 1) * 0.5;
-        const isDecaying = Math.sin(waveTime) > 0;
-
-        if (isDecaying) {
-            const oppositeChamber = window.METATRON_SPECTRUM_MODEL.find(c => c.id === oppositeId);
-            const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
-            wave = (rawWave * 0.7) + oppositeWeight;
-        } else {
-            wave = rawWave;
-        }
-        
-        wave = Math.max(0.20, Math.min(1, wave));
-        
-    } else {
-        // KUTUP ODALARI (3 ve 6) - Sabit Taşıyıcı Merkez
-        if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
-        window.chambersTimers[ch.id] += currentSpeed * ch.e;
-        window.chambersTimers[ch.id] %= (Math.PI * 2);
-        wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5; 
-    }
-
-    mesh.userData = mesh.userData || {};
-    mesh.userData.currentWave = wave;
-
-    if (mesh.material) {
-        mesh.material.transparent = true;
-        if (ch.id === 3 || ch.id === 6) {
-            mesh.material.opacity = 0.85;
-            if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
-        } else {
-            mesh.material.opacity = 0.35 + (wave * 0.65); 
-            if (mesh.material.emissiveIntensity !== undefined) {
-                mesh.material.emissiveIntensity = wave * 2.0; 
+        if (mesh.material && mesh.userData && mesh.userData.originalColor) {
+            if (ch.id !== 3 && ch.id !== 6) {
+                mesh.material.color.setHex(mesh.userData.originalColor);
+                if (mesh.material.emissive) mesh.material.emissive.setHex(mesh.userData.originalColor);
             }
         }
-    }
 
-    if (typeof window.metatronMeshScaler === "function") {
-        window.metatronMeshScaler(mesh, null, ch);
-    }
-});
+        let wave = 0;
+        
+        if (spectrumOrder.includes(ch.id)) {
+            // 🔓 TWIN LOCK KAPATILDI: Her oda için bağımsız zaman hücresi (ch.id) aktif!
+            if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
+
+            let groupIndex = 0;
+            if (upOrder.includes(ch.id)) {
+                groupIndex = upOrder.indexOf(ch.id);
+            } else if (downOrder.includes(ch.id)) {
+                groupIndex = downOrder.indexOf(ch.id);
+            }
+
+            // 🕰️ TAMAMEN BİREYSEL ZAMAN VE HIZ HESABI
+            const checkTime = window.chambersTimers[ch.id];
+            const checkWaveTime = checkTime - (groupIndex * 0.1618 * Math.PI);
+            const isInitiallyDecaying = Math.sin(checkWaveTime) > 0;
+
+            // Her oda sadece kendi saf ch.e ivme çarpanını kullanır, ortak maxPairE çöpe atıldı!
+            let dynamicSpeed = currentSpeed * Number(ch.e); 
+            if (isInitiallyDecaying) {
+                dynamicSpeed /= 1.61803398875; 
+            }
+
+            // 🚨 KORUMA KALDIRILDI: Her oda kendi saatini kendisi günceller (Çifte tetiklenme tehlikesi yok çünkü saatler ayrıldı)
+            window.chambersTimers[ch.id] += dynamicSpeed;
+            window.chambersTimers[ch.id] %= (Math.PI * 2);
+
+            const localTime = window.chambersTimers[ch.id];
+            
+            // ⚡ ÖZGÜR FAZ KAYMASI: Odalar üst üste binebilir ama tamamen kendi groupIndex sürelerine göre akar
+            const waveTime = localTime - (groupIndex * 0.1618 * Math.PI);
+
+            const rawWave = (Math.cos(waveTime) + 1) * 0.5;
+            const isDecaying = Math.sin(waveTime) > 0;
+
+            if (isDecaying) {
+                const oppositeId = oppositeMap[ch.id];
+                const oppositeChamber = window.METATRON_SPECTRUM_MODEL.find(c => c.id === oppositeId);
+                const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
+                wave = (rawWave * 0.7) + oppositeWeight;
+            } else {
+                wave = rawWave;
+            }
+            
+            wave = Math.max(0.20, Math.min(1, wave));
+            
+        } else {
+            if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
+            window.chambersTimers[ch.id] += currentSpeed * ch.e;
+            window.chambersTimers[ch.id] %= (Math.PI * 2);
+            wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5; 
+        }
+
+        mesh.userData = mesh.userData || {};
+        mesh.userData.currentWave = wave;
+
+        if (mesh.material) {
+            mesh.material.transparent = true;
+            if (ch.id === 3 || ch.id === 6) {
+                mesh.material.opacity = 0.85;
+                if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
+            } else {
+                mesh.material.opacity = 0.35 + (wave * 0.65); 
+                if (mesh.material.emissiveIntensity !== undefined) {
+                    mesh.material.emissiveIntensity = wave * 2.0; 
+                }
+            }
+        }
+
+        if (typeof window.metatronMeshScaler === "function") {
+            window.metatronMeshScaler(mesh, null, ch);
+        }
+    });
 };
 
 // Start the core engine
