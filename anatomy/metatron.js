@@ -299,26 +299,20 @@ window.MetatronEngine = function() {
             window.metatronMeshScaler(mesh, null, ch);
         }
 
-
         // ========================================================================
         // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI - GÜVENLİ)
         // ========================================================================
-        
-        // KİLİT KONTROL: Kutup odalarında (3 ve 6) localTime oluşmadığı için 
-        // çökme yaşanmaması adına güvenli zaman tabanını validLocalTime ile seçiyoruz.
         const validLocalTime = (typeof localTime !== 'undefined') ? localTime : window.chambersTimers[ch.id];
 
-        // 🚨 HATA TAMİRİ: Kutup odalarında dynamicSpeed ve isDecaying tanımlı olmadığı için
-        // ReferenceError fırlatmasını bu satırlarla engelliyoruz.
         const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
         const safeSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : (currentSpeed * ch.e);
 
         window.MetatronTelemetry = window.MetatronTelemetry || {};
         window.MetatronTelemetry[ch.id] = {
-            energy: wave,                       // Güç Spektrumu için anlık dalga gücü
-            timer: validLocalTime,              // Poincaré Kaos grafiği için saf zaman
-            speed: safeSpeed,                   // Altın Oran sönümleme takibi için güvenli hız
-            isDecaying: safeDecaying            // Ejeksiyon Fraksiyonu için güvenli kasılma durumu
+            energy: wave,                       
+            timer: validLocalTime,              
+            speed: safeSpeed,                   
+            isDecaying: safeDecaying            
         };
         
         // ========================================================================
@@ -326,35 +320,41 @@ window.MetatronEngine = function() {
         // ========================================================================
         window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
         
-        // 1. ANLIK ELEKTRİKSEL GERİLİM (mV Hesaplaması)
-        const restPotential = Number(ch.mv); // Örn: -90
-        const actionPotentialRange = 115;    // -90'dan +25'e olan biyofiziksel menzil
-        const currentMV = restPotential + (wave * actionPotentialRange);
+        // 1. GERÇEK ANLIK ELEKTRİKSEL GERİLİM (Sıfır Hile - Tam Dinamik Mod)
+        const baseMV = Number(ch.mv);
+        let currentMV = baseMV;
 
-        // 2. ANLIK REZONANS FREKANSI (Hz Hesaplaması)
-        // 🚨 HATA TAMİRİ: ch.id = 3 ve 6 için patlayan isDecaying yerine safeDecaying kullanıldı!
-        const currentHZ = Number(ch.q) * (1.0 + (safeDecaying ? -0.01618 : 0.01618));
+        if (safeDecaying) {
+            // Sönümlenirken (Diyastol) voltajı odanın karakterine göre aşağı çekiyoruz
+            currentMV = baseMV - ((1.0 - wave) * 45); 
+        } else {
+            // Parlarken (Sistol) tepe noktasına fırlatıyoruz
+            currentMV = baseMV + (wave * 35);
+        }
+
+        // 2. ANLIK REZONANS FREKANSI (Voltaja Bağlı Dinamik Frekans Modülasyonu)
+        // 🎯 İŞTE ARANAN GÜNCELLEME: Sabit Solfeggio frekansını (ch.q), 
+        // odanın anlık parlamasına (wave) ve kasılma durumuna göre %100 canlı titretiyoruz!
+        // Hücre kasıldıkça (wave arttıkça) frekans yukarı fırlar, söndükçe taban rezonansa geri oturur.
+        const baseHZ = Number(ch.q);
+        const frequencyShiftRange = baseHZ * 0.05; // Frekansın kendi değerine göre %5 esneme payı (Mikro salınım)
+        const currentHZ = baseHZ + (wave * frequencyShiftRange) * (safeDecaying ? -0.618 : 1.618);
 
         // 3. TELEMETRİ HAVUZUNA MÜHÜRLENME
         window.MetatronAcademicTelemetry[ch.id] = {
             name: ch.name,
             color: ch.color,
-            frequencyHz: currentHZ.toFixed(2),     // FFT Spektrum göstergesi için Hz
-            voltageMV: currentMV.toFixed(1),        // Aksiyon Potansiyeli ve EKG göstergesi için mV
-            mechanicalWave: wave.toFixed(3),        // Kasılma gücü (% Genleşme)
-            // 🚨 NET TAMİR: ch.id = 3 ve 6 odalarının ReferenceError vermemesi için buraya da safeDecaying entegre edildi!
+            frequencyHz: currentHZ.toFixed(2),     // Sağ taraftaki listede artık dinamik akacak!
+            voltageMV: currentMV.toFixed(1),        // Anlık voltaj akışı
+            mechanicalWave: wave.toFixed(3),        // Kasılma gücü
             phaseState: safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
-            timestampMS: performance.now()          // Poincaré Kaos grafiği için zaman damgası
+            timestampMS: performance.now()          
         };
         // ========================================================================
 
     }); // 🎯 KUTSAL KAPANIŞ 1: METATRON_SPECTRUM_MODEL.forEach Döngüsünün Gerçek Sonu!
 }; // 🎯 KUTSAL KAPANIŞ 2: window.MetatronEngine = function() Ana Gövdesinin Gerçek Sonu!
 
-// Start the core engine
-//injectMetatronMetabolism();
-
-// 📯 MASTER CORE TRIGGER
 if (typeof window.initSkelaton === "function") {
     window.initSkelaton();
 }
