@@ -1,8 +1,8 @@
 // ==========================================================================================
-// 📊 METATRON QUANTUM TELEMETRY DASHBOARD - (c) 2026 wiccasoft
+// 📊 METATRON ADVANCED QUANTUM TELEMETRY DASHBOARD - (c) 2026 wiccasoft
 // ==========================================================================================
 (function() {
-    // 1. UI ve CSS Kurulumu (Ekranın sağ köşesine yapışan şık bilimsel panel)
+    // 1. UI ve CSS Kurulumu (Ekranın sağ köşesine yapışan şık tıbbi kontrol paneli)
     const style = document.createElement('style');
     style.textContent = `
         #quantum-telemetry-dashboard {
@@ -13,7 +13,7 @@
             padding: 15px; z-index: 9999; font-size: 11px; pointer-events: auto;
         }
         .telemetry-title { text-align: center; font-weight: bold; border-bottom: 1px dashed #1a365d; padding-bottom: 5px; margin-bottom: 10px; color: #ffffff; }
-        .chamber-row { display: flex; justify-content: space-between; margin: 4px 0; padding: 2px 5px; border-radius: 3px; }
+        .chamber-row { display: flex; justify-content: space-between; margin: 4px 0; padding: 2px 5px; border-radius: 3px; cursor: help; }
         .canvas-container { margin-top: 15px; border-top: 1px dashed #1a365d; padding-top: 10px; }
         canvas { background: #050a12; border: 1px solid #112244; display: block; margin-top: 5px; }
     `;
@@ -25,49 +25,66 @@
         <div class="telemetry-title">🪐 METATRON BIOPHYSICS METRICS</div>
         <div id="telemetry-chambers-list"></div>
         <div class="canvas-container">
-            <div>📡 ACTION POTENTIAL (mV Osiloskop)</div>
+            <div>📡 SINGLE-CELL ACTION POTENTIAL (Lead V5 Focused / mV)</div>
             <canvas id="mvOscilloscope" width="290" height="80"></canvas>
         </div>
         <div class="canvas-container">
-            <div>🌀 RESONANCE FFT POWER SPECTRUM (Hz)</div>
-            <canvas id="hzSpectrum" width="290" height="80"></canvas>
+            <div>🌀 DYNAMIC RESONANCE FREQUENCY TRACKER (Hz / Kırmızı Kanal)</div>
+            <canvas id="hzOscilloscope" width="290" height="80"></canvas>
         </div>
     `;
     document.body.appendChild(dashboard);
 
     const oscCanvas = document.getElementById('mvOscilloscope');
     const oscCtx = oscCanvas.getContext('2d');
-    const specCanvas = document.getElementById('hzSpectrum');
-    const specCtx = specCanvas.getContext('2d');
+    const hzCanvas = document.getElementById('hzOscilloscope');
+    const hzCtx = hzCanvas.getContext('2d');
 
-    let historyMV = []; // Osiloskop çizgi hafızası
+    let historyMV = []; // Üst Kanal: Voltaj hafıza havuzu
+    let historyHZ = []; // Alt Kanal: Dinamik frekans hafıza havuzu
 
-    // 2. Canlı Güncelleme Döngüsü (Three.js'i yormadan bağımsız çalışır)
+    // 🪐 AKADEMİK İLETİM SİSTEMİ EŞLEŞTİRME MATRİSİ (Tıp Terimleri)
+    const academicNames = {
+        1: { short: "SAN", full: "SA Node (Doğal Kalp Pili)" },
+        8: { short: "AMY", full: "Atrial Myocardium (Kulakçık Kası)" },
+        4: { short: "AVN", full: "AV Node (Elektriksel Emniyet Rölesi)" },
+        5: { short: "HIS", full: "His Bundle (İletim Demetleri)" },
+        7: { short: "PUR", full: "Purkinje Fibers (Kılcal İletim Lifleri)" },
+        2: { short: "VMY", full: "Ventricular Myocardium (Ana Pompa Motor Kası)" }
+    };
+
+    // 2. Canlı Güncelleme ve Çizim Döngüsü
     function updateTelemetryPanel() {
         requestAnimationFrame(updateTelemetryPanel);
         
+        // metatron.js'ten gelen global veriyi oku
         const data = window.MetatronAcademicTelemetry;
         if (!data) return;
 
         const listContainer = document.getElementById('telemetry-chambers-list');
         let html = '';
-        let totalMV = 0;
+        
+        // 🚨 KESİN TAMİR: Döngü içerisinde kullanılacak olan sayaç ve toplam değişkenlerini sıfırlayarak en tepede tanımlıyoruz!
+        let totalHZ = 0;
         let activeCount = 0;
 
-        // 6 ana odayı listele ve anlık verileri bas
+        // 6 ana odayı kutsal girdap sıralamasına göre listele
         [1, 2, 4, 8, 7, 5].forEach((id) => {
             const ch = data[id];
             if (!ch) return;
 
-            totalMV += parseFloat(ch.voltageMV);
+            totalHZ += parseFloat(ch.frequencyHz);
             activeCount++;
 
-            // Hücre durumuna göre renk atanması
+            // Hücrenin anlık kasılma durumuna göre satır arka plan parlaması
             const rowColor = ch.phaseState.includes("SYSTOLE") ? "rgba(0,255,200,0.1)" : "rgba(255,0,100,0.05)";
             
+            // Akademik tıp ismini çek, yoksa varsayılanı kullan
+            const medical = academicNames[id] || { short: ch.name.substring(0,3), full: ch.name };
+
             html += `
-                <div class="chamber-row" style="background: ${rowColor}">
-                    <span style="color: ${ch.color}">${ch.name.substring(0,3)}</span>
+                <div class="chamber-row" style="background: ${rowColor}" title="${medical.full}">
+                    <span style="color: ${ch.color}; font-weight: bold;">${medical.short}</span>
                     <span>${ch.voltageMV} mV</span>
                     <span>${ch.frequencyHz} Hz</span>
                 </div>
@@ -75,46 +92,83 @@
         });
         listContainer.innerHTML = html;
 
-        // 3. mV Osiloskop Çizimi
         if (activeCount > 0) {
-            let avgMV = totalMV / activeCount;
-            historyMV.push(avgMV);
+            // ========================================================================
+            // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Yeşil)
+            // ========================================================================
+            let leadV5Voltage = data[4] ? parseFloat(data[4].voltageMV) : -90; // Kalbin motoru olan AV Node (Sarı) odaklı hücresel dalga
+            historyMV.push(leadV5Voltage); 
             if (historyMV.length > oscCanvas.width) historyMV.shift();
 
             oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
+            
+            // Yeşil kanal için hafif tıbbi arka plan ızgarası (Grid)
+            oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.2)';
+            oscCtx.lineWidth = 0.5;
+            for(let g = 0; g < oscCanvas.width; g += 20) {
+                oscCtx.beginPath(); oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height); oscCtx.stroke();
+                oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
+            }
+
             oscCtx.strokeStyle = '#00ffcc';
             oscCtx.lineWidth = 1.5;
             oscCtx.beginPath();
-            
             for (let i = 0; i < historyMV.length; i++) {
-                // -90mV ile +25mV arasını Canvas yüksekliğine (80px) sığdırıyoruz
-                const y = oscCanvas.height - (((historyMV[i] + 90) / 115) * oscCanvas.height);
+                const y = oscCanvas.height - (((historyMV[i] + 90) / 210) * oscCanvas.height);
                 if (i === 0) oscCtx.moveTo(i, y);
                 else oscCtx.lineTo(i, y);
             }
             oscCtx.stroke();
-        }
 
-        // 4. HZ FFT Spektrum Çizimi (Barlar)
-        specCtx.clearRect(0, 0, specCanvas.width, specCanvas.height);
-        const barWidth = specCanvas.width / 6;
-        let barIdx = 0;
-
-        [1, 2, 4, 8, 7, 5].forEach((id) => {
-            const ch = data[id];
-            if (!ch) return;
-
-            const waveEnergy = parseFloat(ch.mechanicalWave); // 0.20 - 1.0 arası
-            const barHeight = waveEnergy * specCanvas.height;
-
-            // Gradyan bar rengi (Kasılma şiddetine göre parlar)
-            specCtx.fillStyle = ch.phaseState.includes("SYSTOLE") ? `rgba(0, 255, 200, ${waveEnergy})` : `rgba(0, 100, 255, ${waveEnergy})`;
-            specCtx.fillRect(barIdx * barWidth, specCanvas.height - barHeight, barWidth - 4, barHeight);
+      // ========================================================================
+            // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU (Tam Dinamik Kuantum)
+            // ========================================================================
+            let maxCurrentHZ = 174; // Solfeggio taban frekansı
             
-            barIdx++;
-        });
+            // 🎯 İŞTE ARANAN DİZİ: 6 ana odanın ID'lerini tek tek dönüp o anki en yüksek Hz'i buluyoruz
+            [1, 2, 4, 8, 7, 5].forEach((id) => {
+                const ch = data[id];
+                if (ch) {
+                    const hzVal = parseFloat(ch.frequencyHz);
+                    if (hzVal > maxCurrentHZ) {
+                        maxCurrentHZ = hzVal;
+                    }
+                }
+            });
+
+            historyHZ.push(maxCurrentHZ);
+            if (historyHZ.length > hzCanvas.width) historyHZ.shift();
+
+            hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
+            
+            // Kırmızı kanal için hafif tıbbi arka plan ızgarası (Grid)
+            hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.2)';
+            hzCtx.lineWidth = 0.5;
+            for(let g = 0; g < hzCanvas.width; g += 20) {
+                hzCtx.beginPath(); hzCtx.moveTo(g, 0); hzCtx.lineTo(g, hzCanvas.height); hzCtx.stroke();
+                hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
+            }
+
+            hzCtx.strokeStyle = '#ff0066';
+            hzCtx.lineWidth = 1.5;
+            hzCtx.beginPath();
+
+            // 174Hz ile 900Hz arasındaki fırlama menzili
+            const minScaleHz = 150; 
+            const maxScaleHz = 900;
+            const hzScaleRange = maxScaleHz - minScaleHz;
+
+            for (let i = 0; i < historyHZ.length; i++) {
+                const normalizedY = (historyHZ[i] - minScaleHz) / hzScaleRange;
+                const safeY = hzCanvas.height - (normalizedY * hzCanvas.height);
+                
+                if (i === 0) hzCtx.moveTo(i, safeY);
+                else hzCtx.lineTo(i, safeY);
+            }
+            hzCtx.stroke();
+        }
     }
 
-    // Döngüyü başlat
+    // Telemetri motorunu ateşle
     updateTelemetryPanel();
 })();
