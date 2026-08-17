@@ -298,52 +298,63 @@ window.MetatronEngine = function() {
         if (typeof window.metatronMeshScaler === "function") {
             window.metatronMeshScaler(mesh, null, ch);
         }
-    });
-};
+
+
+        // ========================================================================
+        // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI - GÜVENLİ)
+        // ========================================================================
+        
+        // KİLİT KONTROL: Kutup odalarında (3 ve 6) localTime oluşmadığı için 
+        // çökme yaşanmaması adına güvenli zaman tabanını validLocalTime ile seçiyoruz.
+        const validLocalTime = (typeof localTime !== 'undefined') ? localTime : window.chambersTimers[ch.id];
+
+        // 🚨 HATA TAMİRİ: Kutup odalarında dynamicSpeed ve isDecaying tanımlı olmadığı için
+        // ReferenceError fırlatmasını bu satırlarla engelliyoruz.
+        const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
+        const safeSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : (currentSpeed * ch.e);
+
+        window.MetatronTelemetry = window.MetatronTelemetry || {};
+        window.MetatronTelemetry[ch.id] = {
+            energy: wave,                       // Güç Spektrumu için anlık dalga gücü
+            timer: validLocalTime,              // Poincaré Kaos grafiği için saf zaman
+            speed: safeSpeed,                   // Altın Oran sönümleme takibi için güvenli hız
+            isDecaying: safeDecaying            // Ejeksiyon Fraksiyonu için güvenli kasılma durumu
+        };
+        
+        // ========================================================================
+        // 🎓 AKADEMİK BİYOFİZİK TELEMETRİ ENJEKSİYONU (Hz, mV & ms)
+        // ========================================================================
+        window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
+        
+        // 1. ANLIK ELEKTRİKSEL GERİLİM (mV Hesaplaması)
+        const restPotential = Number(ch.mv); // Örn: -90
+        const actionPotentialRange = 115;    // -90'dan +25'e olan biyofiziksel menzil
+        const currentMV = restPotential + (wave * actionPotentialRange);
+
+        // 2. ANLIK REZONANS FREKANSI (Hz Hesaplaması)
+        // 🚨 HATA TAMİRİ: ch.id = 3 ve 6 için patlayan isDecaying yerine safeDecaying kullanıldı!
+        const currentHZ = Number(ch.q) * (1.0 + (safeDecaying ? -0.01618 : 0.01618));
+
+        // 3. TELEMETRİ HAVUZUNA MÜHÜRLENME
+        window.MetatronAcademicTelemetry[ch.id] = {
+            name: ch.name,
+            color: ch.color,
+            frequencyHz: currentHZ.toFixed(2),     // FFT Spektrum göstergesi için Hz
+            voltageMV: currentMV.toFixed(1),        // Aksiyon Potansiyeli ve EKG göstergesi için mV
+            mechanicalWave: wave.toFixed(3),        // Kasılma gücü (% Genleşme)
+            // 🚨 NET TAMİR: ch.id = 3 ve 6 odalarının ReferenceError vermemesi için buraya da safeDecaying entegre edildi!
+            phaseState: safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
+            timestampMS: performance.now()          // Poincaré Kaos grafiği için zaman damgası
+        };
+        // ========================================================================
+
+    }); // 🎯 KUTSAL KAPANIŞ 1: METATRON_SPECTRUM_MODEL.forEach Döngüsünün Gerçek Sonu!
+}; // 🎯 KUTSAL KAPANIŞ 2: window.MetatronEngine = function() Ana Gövdesinin Gerçek Sonu!
 
 // Start the core engine
 //injectMetatronMetabolism();
 
-   // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI)
-        window.MetatronTelemetry = window.MetatronTelemetry || {};
-        window.MetatronTelemetry[ch.id] = {
-            energy: wave,                       // Güç Spektrumu için anlık dalga gücü
-            timer: localTime,                   // Poincaré Kaos grafiği için saf zaman
-            speed: dynamicSpeed,                // Altın Oran sönümleme takibi için anlık hız
-            isDecaying: isDecaying              // Ejeksiyon Fraksiyonu için kasılma durumu
-        };
-    // ========================================================================
-            // 🎓 AKADEMİK BİYOFİZİK TELEMETRİ ENJEKSİYONU (Hz, mV & ms)
-            // ========================================================================
-            window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
-            
-            // 1. ANLIK ELEKTRİKSEL GERİLİM (mV Hesaplaması)
-            // ch.mv taban değerini (-90mV) alır, wave gücüne göre hücre patlamasını simüle eder.
-            // Hücre uyarılınca -90mV'tan +25mV seviyelerine fırlar (Aksiyon Potansiyeli Faz 0).
-            const restPotential = Number(ch.mv); // Örn: -90
-            const actionPotentialRange = 115; // -90'dan +25'e olan biyofiziksel menzil
-            const currentMV = restPotential + (wave * actionPotentialRange);
-
-            // 2. ANLIK REZONANS FREKANSI (Hz Hesaplaması)
-            // Solfeggio baz frekansını (ch.q), odanın anlık hızına göre mikro-dalgalandırır.
-            const currentHZ = Number(ch.q) * (1.0 + (isDecaying ? -0.01618 : 0.01618));
-
-            // 3. TELEMETRİ HAVUZUNA MÜHÜRLENME
-            window.MetatronAcademicTelemetry[ch.id] = {
-                name: ch.name,
-                color: ch.color,
-                frequencyHz: currentHZ.toFixed(2),     // FFT Spektrum göstergesi için Hz
-                voltageMV: currentMV.toFixed(1),        // Aksiyon Potansiyeli ve EKG göstergesi için mV
-                mechanicalWave: wave.toFixed(3),        // Kasılma gücü (% Genleşme)
-                phaseState: isDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
-                timestampMS: performance.now()          // Poincaré Kaos grafiği için zaman damgası
-            };
-            // ========================================================================
-
-//if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
-
-    // 📯 MASTER CORE TRIGGER
-// Önce iskelet ve küreler kurulur, ardından animasyon döngüsü (updateMetatronLoop) motoru ileriye sürer.
+// 📯 MASTER CORE TRIGGER
 if (typeof window.initSkelaton === "function") {
     window.initSkelaton();
 }
