@@ -195,25 +195,18 @@ window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
 window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     if (window.heartAnimationActive !== true) return;
-// ⚡ DİNAMİK NABIZ: Eğer dışarıdan bir slider ile kontrol etmek istersen, 
-// window.metatronPulseSpeed değerini değiştirmen yeterli! 
-// Taban değer olarak yine o cuk oturan 0.045 (74 BPM) çizgimizi mühürlüyoruz.
-    // 🎯 REPO TASHİHİ: baseSpectrum solfeggiospec ile güncellendi ve hata giderildi
-    const baseSpectrum = window.solfeggiospec || [];
+
+    const baseSpectrum = window.solfeggiospec //|| [];
     const spectrumOrder = [...baseSpectrum].reverse();
-    
-    // 🎯 1 SANİYE MASTER CLOCK (60 FPS rezonans hızı)
     const currentSpeed = window.metatronPulseSpeed || 0.1047; 
 
     window.chambersTimers = window.chambersTimers || {};
+    const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
 
-    // 🎯 KARŞIT ODA EŞLEŞME MATRİSİ (Opposite Mapping)
-    const oppositeMap = {
-        1: 8, // Kırmızı -> Yeşil
-        8: 1, // Yeşil -> Kırmızı
-        2: 7, // Turuncu -> Mavi
-        7: 2  // Mavi -> Turuncu
-    };
+    // 🪐 METATRON MASTER FIRING ORDERS (Üçlü Akış Sıraları)
+    const upOrder   =[1,4,7]; // Kırmızı -> Sarı -> Mavi (Yükselen Aks)
+    const downOrder =[2,8,5]; // Turuncu -> Yeşil -> Mor (Ters Akış Grubu)const M_UP   = [1,4,7]   
+
 
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
@@ -231,52 +224,56 @@ window.MetatronEngine = function() {
         if (spectrumOrder.includes(ch.id)) {
             if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
             
-            // 📐 ANLIK FAZ VE TÜREV TESPİTİ (Önce kabaca zaman hesaplanır)
-            const checkTime = window.chambersTimers[ch.id];
-            const checkWaveTime = checkTime - (spectrumOrder.indexOf(ch.id) * 0.1618 * Math.PI);
-            const isInitiallyDecaying = Math.sin(checkWaveTime) > 0; // Akım karşıt odaya mı gidiyor?
-
-            // 🚀 ALTIN ORANDA YAVAŞLAMA ALGORİTMASI
-            // Akım karşıt odaya doğru akıyorsa (sönme fazı), hız Altın Orana (1.618) bölünerek yavaşlar!
-            let dynamicSpeed = currentSpeed * Number(ch.e);
-            if (isInitiallyDecaying) {
-                dynamicSpeed = dynamicSpeed / 1.61803398875; // Yoğunlaşma ve frenleme dalgası
+            // 🎯 SAF FAZ KAYMASI (PHASESHIFT) MATRİSİ:
+            // Odanın ait olduğu üçlü gruptaki sırasını (0, 1, 2) buluyoruz.
+            let groupIndex = 0;
+            if (upOrder.includes(ch.id)) {
+                groupIndex = upOrder.indexOf(ch.id);
+            } else if (downOrder.includes(ch.id)) {
+                groupIndex = downOrder.indexOf(ch.id);
             }
 
-            // Bağımsız zaman hücresine dinamik hızın enjekte edilmesi
+            // Karşıt odaların (1-8, 2-7, 4-5) paralel çalışması için ortak zaman tabanı
+            const oppositeId = oppositeMap[ch.id];
+            const pairMinId = Math.min(ch.id, oppositeId);
+            const pairIndex = spectrumOrder.indexOf(pairMinId);
+
+            // 🧠 ANA PHASESHIFT ENJEKSİYONU:
+            // Zaman nehrini odanın gruptaki 'groupIndex' sırasına göre altın oranda (0.1618 * PI) kaydırıyoruz!
+            const checkTime = window.chambersTimers[ch.id];
+            const checkWaveTime = checkTime - (groupIndex * 0.1618 * Math.PI);
+            const isInitiallyDecaying = Math.sin(checkWaveTime) > 0;
+
+            // Ters akım altın oranda (1.618) yavaşlamalı kuralı
+            let dynamicSpeed = currentSpeed * Number(ch.e);
+            if (isInitiallyDecaying) {
+                dynamicSpeed /= 1.61803398875; 
+            }
+
             window.chambersTimers[ch.id] += dynamicSpeed;
             window.chambersTimers[ch.id] %= (Math.PI * 2);
 
             const localTime = window.chambersTimers[ch.id];
             
-            // Karşıt odaların (1-8 ve 2-7) zaman nehrindeki 180 derece (π) zıt kutup yerleşimi
-            let waveTime = localTime;
-            if (ch.id === 8 || ch.id === 7) {
-                waveTime = localTime - Math.PI; 
-            } else if (ch.id !== 1 && ch.id !== 2) {
-                waveTime = localTime - (spectrumOrder.indexOf(ch.id) * 0.1618 * Math.PI);
+            // ⚡ UYARLANMIŞ PARALEL ZAMAN: 'let' ile tanımlı, çakışma ve çökme yok!
+            let waveTime = localTime - (groupIndex * 0.1618 * Math.PI);
+            
+            // Karşıt odaların (Diastol/Sönme kanadı) zaman nehrindeki 180 derece (π) zıt kutup yerleşimi
+            if (ch.id === 8 || ch.id === 7 || ch.id === 5) {
+                waveTime = (localTime - Math.PI) - (groupIndex * 0.1618 * Math.PI); 
             }
-            
-            // Saf trigonometrik enerji dalgası
+
             const rawWave = (Math.cos(waveTime) + 1) * 0.5;
-            
-            // 🎯 SÖNMEME VE TERS AKIM TRANSFERİ GARANTİSİ
             const isDecaying = Math.sin(waveTime) > 0;
 
             if (isDecaying) {
-                // Sönme fazında, odanın enerjisi tamamen yok olmaz. 
-                // Karşıt odanın (opposite) o anki potansiyeline bağlanarak taban ışığı korunur.
-                const oppositeId = oppositeMap[ch.id];
                 const oppositeChamber = window.METATRON_SPECTRUM_MODEL.find(c => c.id === oppositeId);
                 const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
-                
-                // Odalar asla sönmesin diye minimum %20 ila %35 arası bir taban sıcak akım (bias) kilitlenir
                 wave = (rawWave * 0.7) + oppositeWeight;
             } else {
                 wave = rawWave;
             }
             
-            // Kesin sönmeme kelepçesi (Taban mutlak olarak 0.20'ye çekildi, asla karanlık kalmaz)
             wave = Math.max(0.20, Math.min(1, wave));
             
         } else {
@@ -284,21 +281,18 @@ window.MetatronEngine = function() {
             if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
             window.chambersTimers[ch.id] += currentSpeed * ch.e;
             window.chambersTimers[ch.id] %= (Math.PI * 2);
-            wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5; // Sürekli canlı
+            wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5; 
         }
 
-        // 🦴 SAF VERİ TRANSFERİ
         mesh.userData = mesh.userData || {};
         mesh.userData.currentWave = wave;
 
-        // 🎨 HAM RENDERER BAĞLANTISI (Görsel efekt değil, sadece görünürlük köprüsü)
         if (mesh.material) {
             mesh.material.transparent = true;
             if (ch.id === 3 || ch.id === 6) {
                 mesh.material.opacity = 0.85;
                 if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
             } else {
-                // Odalar asla sıfıra düşmediği için opaklık da her zaman görünür seviyede kalır
                 mesh.material.opacity = 0.35 + (wave * 0.65); 
                 if (mesh.material.emissiveIntensity !== undefined) {
                     mesh.material.emissiveIntensity = wave * 2.0; 
