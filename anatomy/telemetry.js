@@ -104,6 +104,19 @@
         const data = window.MetatronAcademicTelemetry;
         if (!data) return;
 
+/*
+        // Yarın yazacağımız o kutsal yön şeması:
+const isDaytime = (hours >= 6 && hours < 18);
+
+if (isDaytime) {
+    // 🎨 MONA LISA MODU: Su ve enerji aşağı aksa, toprağa ve metabolik tamponlara akar.
+    lunarMultiplier = (ch.id === 4 || ch.id === 5) ? 1.333 : 0.85; 
+} else {
+    // 🎨 SALVATOR MUNDI MODU: CSF ve voltaj yukarı kraniale, tepe odalara fırlatılır.
+    lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 1.618 : 0.618;
+}
+
+*/
         const listContainer = document.getElementById('telemetry-chambers-list');
         let html = '';
         
