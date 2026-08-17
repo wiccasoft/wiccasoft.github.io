@@ -236,7 +236,7 @@ document.body.appendChild(window.renderer.domElement);
     //window.addAxis(0x00ff00, blackPos, whitePos);
 
     // Merkezden köşelere çizgiler (beyaz)
-      // =========================== PYRO (ROOT_TWO) ========================================
+    // =========================== PYRO (ROOT_TWO) ========================================
     const center = new THREE.Vector3(0,0,0);
     const pyramidVertices = [];
     corners.forEach(c=>{
@@ -354,73 +354,41 @@ spheres.forEach(s => {
 
 
 // ============================================================================
-// 🪐 LOCAL ANIMATION MATRIX LOOP (ZİNCİRLEME WEBGL TETİKLEYİCİSİ)
+// 🪐 3D SKELETON MASTER CLOCK - 25 FPS SİNEMATİK SABİTLEME MOTORU (%100 SENKRON)
 // ============================================================================
-function animateSkelatonMatrix() {
-    // Tarayıcının ekran yenileme hızında (60 FPS) bu fonksiyonu sürekli döndür
-    requestAnimationFrame(animateSkelatonMatrix);
+let skelFpsInterval = 1000 / 25; // Saniyede tam 25 kare (Her kare arası tam 40ms nefes alma)
+let skelLastDrawTime = performance.now();
 
-    // 🎯 ORKESTRA ŞEFİNİ BURADA HER KAREDE ZORLA İLERİYE SÜRÜYORUZ!
-    // Böylece şef, motor kapalıyken 'else' koluna düşüp iskeleti pürüzsüzce çizecek.
-    if (typeof window.updateMetatronLoop === "function") {
-        window.updateMetatronLoop();
-    }
+//============================================================================
+// 🪐 HARDWARE-TIED 25 FPS CORE ENGINE (KASILMA VE AĞIRLIK SAVAR YALIN MOTOR)
+// ============================================================================
+
+// ❌ Çift başlılık ve işlemci şişmesi yaratan tüm requestAnimationFrame kalıntıları lağvedilmiştir.
+if (window.skelTimerClock) {
+    clearInterval(window.skelTimerClock);
 }
 
-// 🚀 İSKELET VE MOTOR KURULDUĞU AN ANIMASYON ÇARKINI DÖNDÜRMEYE BAŞLA
-animateSkelatonMatrix();
-console.log("[ANIMATION MATRIX] Yerel WebGL döngüsü başarıyla kenetlendi.");
-// ============================================================================
-// 🌊 SKELETON.JS - METATRON ENGINE COUPLING & SINGLE BRIDGE SOURCE
-// ============================================================================
-window.initMetatronEngine = function() {
-    window.activePackets = window.activePackets || [];
-    console.log("Metatron Engine Initialized successfully.");
-};
-
-
-
-// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE)
-// anatomy.html içindeki animate() fonksiyonu her karede burayı çağırır.
-// ============================================================================
-// 🫀 SKELETON MESH SCALER (NİHAİ DENGELENMİŞ BOYUT KİLİDİ)
-// ============================================================================
-window.metatronMeshScaler = function(mesh, now, ch) {
-    // 🎯 ATOMİK KİLİT: Fiziksel şişme tamamen kapatıldı. 
-    // İşlemci sıfır yükle sadece taban boyutu mühürler.
-    // Enerji içeriden dışarıya saf ışık ve opaklık frekansı olarak zangır zangır akar!
-    mesh.scale.setScalar(1.0);
-};
-
-// ============================================================================
-// 🪐 ORKESTRA ŞEFİ KÖPRÜSÜ (ANA DÖNGÜ TARAFINDAN BESLENEN TEMİZ ŞASİ)
-// ============================================================================
-
-// 🎯 KELİMEYİ BİTİREN REFORM: Eski 'animateSkelatonMatrix' yerel döngüsü ve 
-// 'requestAnimationFrame' kalıntıları çift başlılık yaratmasın diye TAMAMEN SİLİNDİ!
-// Çünkü artık orkestra şefi gücünü doğrudan projenin kendi ana animate() kalbinden alıyor.
-
-window.lastMatrixFrameTimeGlobal = Date.now();
-
-// ============================================================================
-// 🧠 ORKESTRA ŞEFİ KÖPRÜSÜ (MASTER LOOP BRIDGE) - NİHAİ KİLİT ÇÖZÜM!
-// ============================================================================
-window.updateMetatronLoop = function() {
-    // 🎯 1. DURUM: Kuantum kalp şalteri aktifse motoru koştur!
+// 🎯 DONANIMSAL SAAT: Tarayıcıyı yormadan, tam her 40 milisaniyede bir (25 FPS) uyanır!
+window.skelTimerClock = setInterval(function() {
+    
+    // 🎯 1. DURUM: Kuantum kalp şalteri aktifse ana motoru (metatron.js) ateşle
     if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
         window.MetatronEngine();
     } 
-    // 💤 2. DURUM: Şalter kapalıyken asilce dön
+    // 💤 2. DURUM: Kalp durmuşken iskeletin o asil, yavaş kozmik dönüşü
     else if (window.KuantumKafesi) {
         //window.KuantumKafesi.rotation.y += 0.002;
     }
 
-    // 🔮 SİYAH PERDEYİ YIRTAN MUTLAK CAN DAMARI (Asla durmaz!)
+    // 🔮 SİYAH PERDEYİ YIRTAN MUTLAK CAN DAMARI (WebGL Çizim Emri)
     if (window.renderer && window.scene && window.camera) {
         window.renderer.render(window.scene, window.camera);
     }
-};
 
+}, 1000 / 25); // Tam 25 FPS Sinematik Akış Frekansı
+
+console.log("[HARDWARE CORE] 3D render motoru donanımsal 25 FPS saatine bağlandı. Ağırlık temizlendi! ⚛️");
+// ============================================================================
 
 console.log("[ATOMİK MODEL] Çift döngü kalıntıları temizlendi, saf atomik titreşim mühürlendi. ⚛️");
 // ============================================================================
