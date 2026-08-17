@@ -185,6 +185,8 @@ function injectMetatronMetabolism() {
 }
 
 
+
+
 /// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
 // 0.045 değeri 74 BPM insan dinlenme kalbiyle tam uyumludur.
 window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
@@ -299,13 +301,26 @@ window.MetatronEngine = function() {
             window.metatronMeshScaler(mesh, null, ch);
         }
 
-        // ========================================================================
+
+// ========================================================================
         // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI - GÜVENLİ)
         // ========================================================================
         const validLocalTime = (typeof localTime !== 'undefined') ? localTime : window.chambersTimers[ch.id];
-
         const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
-        const safeSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : (currentSpeed * ch.e);
+        
+        // 🎯 LUNAR MULTIPLIER: Paneldeki canlı Ay durumunu okuyup hızı dinamik büküyoruz
+        const lunarElement = document.getElementById('lunar-phase');
+        const lunarPhaseText = lunarElement ? lunarElement.innerText : "DENGELİ";
+        
+        let lunarMultiplier = 1.0;
+        if (lunarPhaseText.includes("DOLUNAY")) {
+            lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 1.618 : 0.618;
+        } else if (lunarPhaseText.includes("YENİ AY")) {
+            lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 0.618 : 1.333;
+        }
+
+        const baseSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e;
+        const safeSpeed = safeDecaying ? (baseSpeed / lunarMultiplier) : baseSpeed;
 
         window.MetatronTelemetry = window.MetatronTelemetry || {};
         window.MetatronTelemetry[ch.id] = {
@@ -325,28 +340,24 @@ window.MetatronEngine = function() {
         let currentMV = baseMV;
 
         if (safeDecaying) {
-            // Sönümlenirken (Diyastol) voltajı odanın karakterine göre aşağı çekiyoruz
             currentMV = baseMV - ((1.0 - wave) * 45); 
         } else {
-            // Parlarken (Sistol) tepe noktasına fırlatıyoruz
             currentMV = baseMV + (wave * 35);
         }
 
-        // 2. ANLIK REZONANS FREKANSI (Voltaja Bağlı Dinamik Frekans Modülasyonu)
-        // 🎯 İŞTE ARANAN GÜNCELLEME: Sabit Solfeggio frekansını (ch.q), 
-        // odanın anlık parlamasına (wave) ve kasılma durumuna göre %100 canlı titretiyoruz!
-        // Hücre kasıldıkça (wave arttıkça) frekans yukarı fırlar, söndükçe taban rezonansa geri oturur.
+        // 2. ANLIK REZONANS FREKANSI (Gerçek Biyofiziksel Volt-Frekans Modülasyonu)
         const baseHZ = Number(ch.q);
-        const frequencyShiftRange = baseHZ * 0.05; // Frekansın kendi değerine göre %5 esneme payı (Mikro salınım)
-        const currentHZ = baseHZ + (wave * frequencyShiftRange) * (safeDecaying ? -0.618 : 1.618);
+        const deltaVoltage = currentMV - baseMV; 
+        const sensitivity = 0.0015; 
+        const currentHZ = baseHZ * (1.0 + (deltaVoltage * sensitivity));
 
         // 3. TELEMETRİ HAVUZUNA MÜHÜRLENME
         window.MetatronAcademicTelemetry[ch.id] = {
             name: ch.name,
             color: ch.color,
-            frequencyHz: currentHZ.toFixed(2),     // Sağ taraftaki listede artık dinamik akacak!
-            voltageMV: currentMV.toFixed(1),        // Anlık voltaj akışı
-            mechanicalWave: wave.toFixed(3),        // Kasılma gücü
+            frequencyHz: currentHZ.toFixed(2),     
+            voltageMV: currentMV.toFixed(1),        
+            mechanicalWave: wave.toFixed(3),        
             phaseState: safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
             timestampMS: performance.now()          
         };
