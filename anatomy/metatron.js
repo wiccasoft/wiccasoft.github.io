@@ -198,9 +198,15 @@ window.MetatronEngine = function() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
     if (window.heartAnimationActive !== true) return;
 
+  
+    window.chambersTimers = window.chambersTimers || {};
+
     const baseSpectrum = window.solfeggiospec;
     const spectrumOrder = [...baseSpectrum].reverse();
-    const currentSpeed = window.metatronPulseSpeed || 0.1047; 
+    //const currentSpeed = window.metatronPulseSpeed || 0.1047; 
+
+      // 🎯 25 FPS Adaptasyonu: 60 FPS'ten 25'e düşüş için hızı ~2.4x oranında ölçekliyoruz.
+    const currentSpeed = (window.metatronPulseSpeed || 0.035) * 2.4; 
 
     window.chambersTimers = window.chambersTimers || {};
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
