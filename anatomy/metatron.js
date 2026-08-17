@@ -208,7 +208,7 @@ window.MetatronEngine = function() {
 
      //const currentSpeed = (window.metatronPulseSpeed || 0.035); 
       // 🎯 25 FPS Adaptasyonu: 60 FPS'ten 25'e düşüş için hızı ~2.4x oranında ölçekliyoruz.
-    const currentSpeed = (window.metatronPulseSpeed || 0.035) * 2.4;  
+    const currentSpeed = (window.metatronPulseSpeed || 0.035) * 1.2;  
     //const currentSpeed = (window.metatronPulseSpeed || 0.035) * 4.8;
 
 
