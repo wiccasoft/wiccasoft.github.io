@@ -615,6 +615,50 @@ window.toggleMirrorButton = function() {
     alert("4 Element Aynalama Modu Aktif! Kılavuz RGB Milleri Referans Alınıyor.");
 };
 
+
+// 📡 anatomy.html'den gelen 74 BPM ve HUD verilerini ekrana basan kararlı dinleyici
+window.addEventListener("message", (event) => {
+    // Güvenlik Duvarı Kontrolü (Mevcut Regex Şifrelemeniz)
+    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+
+    if (event.data && event.data.komut === "HUD_PANEL_GUNCELLE") {
+        const telemetryBox = document.getElementById("telemetryScreen");
+        if (telemetryBox) {
+            telemetryBox.innerHTML = `
+                <span style="color: #ff00ff;">BPM: 74 (SYNCHRONIZED)</span><br>
+                EKG: ${event.data.ekg} | FQ: ${event.data.frekans}<br>
+                TANSİYON: ${event.data.tansiyon} | pH: ${event.data.ph}<br>
+                ELEMENT: ${event.data.element}
+            `;
+        }
+    }
+});
+
+
+// 📡 anatomy.html'den gelen Canlı HUD verilerini ekrana basan esnek dinleyici
+window.addEventListener("message", (event) => {
+    // Güvenlik Duvarı Kontrolü (Mevcut Regex Şifrelemeniz)
+    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+
+    if (event.data && event.data.komut === "HUD_PANEL_GUNCELLE") {
+        const telemetryBox = document.getElementById("telemetryScreen");
+        if (telemetryBox) {
+            // Sinyal içindeki gerçek bpm verisini okur, gelmezse yedek olarak '74 BPM' basar
+            const liveBpm = event.data.bpm || "74 BPM";
+            
+            telemetryBox.innerHTML = `
+                <span style="color: #ff00ff; font-weight: bold;">BPM: ${liveBpm} (SYNCHRONIZED)</span><br>
+                EKG: ${event.data.ekg} | FQ: ${event.data.frekans}<br>
+                TANSİYON: ${event.data.tansiyon} | pH: ${event.data.ph}<br>
+                ELEMENT: ${event.data.element}
+            `;
+        }
+    }
+});
+
+
+
+
   </script>
 
 
