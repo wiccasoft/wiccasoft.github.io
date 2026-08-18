@@ -14,6 +14,7 @@
             font-family: 'Courier New', monospace; color: #00ffcc;
             padding: 15px; z-index: 9999; font-size: 11px; pointer-events: auto;
         }
+            
         .telemetry-title { text-align: center; font-weight: bold; border-bottom: 1px dashed #1a365d; padding-bottom: 5px; margin-bottom: 10px; color: #ffffff; }
         .chamber-row { display: flex; justify-content: space-between; margin: 4px 0; padding: 2px 5px; border-radius: 3px; cursor: help; }
         .canvas-container { margin-top: 12px; border-top: 1px dashed #1a365d; padding-top: 8px; }
@@ -31,6 +32,7 @@
             <span>Gerçek Ritim:</span>
             <span id="telemetry-live-ms">Hesaplanıyor...</span>
         </div>
+        
         
         <div style="background: rgba(255,255,255,0.03); padding: 7px; border-radius: 4px; border: 1px solid #1a365d; margin-bottom: 10px;">
             <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;">🧠 SIRKA-LÜNAR HYDRO-CSF SYNC</div>
