@@ -181,28 +181,68 @@
         oscCtx.strokeStyle = '#00ffcc';
         oscCtx.lineWidth = 1.5;
         oscCtx.beginPath();
+
+
+// ========================================================================
+        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Hastane Tipi Sağa Akış)
+        // ========================================================================
+        leadV5Voltage = data ? (parseFloat(data.voltageMV) || parseFloat(data[1]?.voltageMV) || -90) : -90;
+        historyMV.push(leadV5Voltage);
+        if (historyMV.length > oscCanvas.width) historyMV.shift();
+
+        oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
+        oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.2)';
+        oscCtx.lineWidth = 0.5;
+        for (let g = 0; g < oscCanvas.width; g += 20) {
+            oscCtx.beginPath(); oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height); oscCtx.stroke();
+            oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
+        }
+
+        oscCtx.strokeStyle = '#00ffcc';
+        oscCtx.lineWidth = 1.5;
+        oscCtx.beginPath();
         for (let i = 0; i < historyMV.length; i++) {
             const x = oscCanvas.width - (historyMV.length - i);
             const y = oscCanvas.height - (((historyMV[i] + 90) / 210) * oscCanvas.height);
-            if (i === 0) oscCtx.moveTo(x, y);else oscCtx.lineTo(x, y);}oscCtx.stroke();
-            // ========================================================================//,
-            //  🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU
-            // // ========================================================================
-            // 
-            hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
-            hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.2)';hzCtx.lineWidth = 0.5;
-            for (let g = 0; g < hzCanvas.width; g += 20) {hzCtx.beginPath(); hzCtx.moveTo(g, 0);
-                 hzCtx.lineTo(g, hzCanvas.height); hzCtx.stroke();hzCtx.beginPath();
-                  hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();}
-                  
-                  const minScaleHz = 130;const maxScaleHz = 2600;
-                  const hzScaleRange = maxScaleHz - minScaleHz;hzCtx.strokeStyle = '#ff0066'; 
-                  hzCtx.lineWidth = 1.5; hzCtx.beginPath();
-                  for (let i = 0; i < historyHZ.length; i++) {const normalizedY = (historyHZ[i] - minScaleHz) / hzScaleRange;
-                    const safeY = hzCanvas.height - (normalizedY * hzCanvas.height);
-                    if (i === 0) hzCtx.moveTo(i, safeY);else hzCtx.lineTo(i, safeY);}hzCtx.stroke();}
-                    // 🔄 MOTORU CANLI TUTAN RENDER DÖNGÜSÜ// 
-                    function renderLoop() {updateTelemetryPanel();
-                        requestAnimationFrame(renderLoop);}renderLoop();
-            // 
-            window.updateTelemetryPanel = updateTelemetryPanel;})();
+            if (i === 0) oscCtx.moveTo(x, y); else oscCtx.lineTo(x, y);
+        } 
+        oscCtx.stroke();
+
+        // ========================================================================
+        // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU
+        // ========================================================================
+        hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
+        hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.2)'; 
+        hzCtx.lineWidth = 0.5;
+        for (let g = 0; g < hzCanvas.width; g += 20) { 
+            hzCtx.beginPath(); hzCtx.moveTo(g, 0); hzCtx.lineTo(g, hzCanvas.height); hzCtx.stroke(); 
+            hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
+        }
+
+        // Değişkenler döngüden ÖNCE tanımlandı (ReferenceError Çözüldü)
+        const minScaleHz = 130; 
+        const maxScaleHz = 2600;
+        const hzScaleRange = maxScaleHz - minScaleHz; 
+
+        hzCtx.strokeStyle = '#ff0066';
+        hzCtx.lineWidth = 1.5; 
+        hzCtx.beginPath();
+        for (let i = 0; i < historyHZ.length; i++) { 
+            // x koordinatı sağa akacak şekilde optimize edildi (Yıldırım yığılması çözüldü)
+            const x = hzCanvas.width - (historyHZ.length - i);
+            const normalizedY = (historyHZ[i] - minScaleHz) / hzScaleRange;
+            const safeY = hzCanvas.height - (normalizedY * hzCanvas.height);
+            if (i === 0) hzCtx.moveTo(x, safeY); else hzCtx.lineTo(x, safeY);
+        } 
+        hzCtx.stroke();
+    } // updateTelemetryPanel fonksiyonunun gerçek kapanış parantezi
+
+    // 🔄 MOTORU CANLI TUTAN RENDER DÖNGÜSÜ
+    function renderLoop() { 
+        updateTelemetryPanel();
+        requestAnimationFrame(renderLoop);
+    } 
+    renderLoop();
+
+    window.updateTelemetryPanel = updateTelemetryPanel;
+})();
