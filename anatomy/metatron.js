@@ -250,11 +250,19 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     } 
     else if (ch.id === 2 || ch.id === 4) {
         // ⚡ SARI VE PEMBE ODALAR: Sadece QRS anında (200-400ms) şimşek gibi çaksınlar!
-        if (globalClock >= 200 && globalClock < 400) {
+       if (globalClock >= 200 && globalClock < 400) {
             const qrsProgress = (globalClock - 200) / 200;
-            customWave = 0.25 + Math.sin(qrsProgress * Math.PI) * 0.70;
+            
+            if (ch.id === 4) {
+                // 🟠 TURUNCU ODA (Ana Motor): 3 kat akım ve voltaj piki! 
+                // Math.pow ile uyarımı dikleştiriyoruz; süzülerek değil, şimşek gibi anlık fırlasın!
+                customWave = 0.20 + Math.pow(Math.sin(qrsProgress * Math.PI), 0.5) * 2.8 * Number(ch.e);
+            } else {
+                // 🟡 Sarı Oda (Yatay Geçiş): Eski nizami şimşek kıvamında kalır
+                customWave = 0.25 + Math.sin(qrsProgress * Math.PI) * 0.70;
+            }
         } else {
-            customWave = 0.20; // Döngü haricinde taban sönük dinlenme fazı
+            customWave = ch.id === 4 ? 0.12 : 0.20; // Turuncu beklemede tam sönerek o ani patlamaya şarj olur
         }
     } 
     else if (ch.id === 5) {
