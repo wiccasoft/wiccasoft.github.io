@@ -221,123 +221,85 @@ window.MetatronEngine = function() {
     const upOrder   =[1,4,7]; 
     const downOrder =[8,5,2]; 
 
-    window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
-        const mesh = window.chambers ? window.chambers[ch.id] : null; 
-        if (!mesh) return; 
+window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
+    const mesh = window.chambers ? window.chambers[ch.id] : null;
+    if (!mesh) return;
 
-        if (mesh.material && mesh.userData && mesh.userData.originalColor) {
-            if (ch.id !== 3 && ch.id !== 6) {
-                mesh.material.color.setHex(mesh.userData.originalColor);
-                if (mesh.material.emissive) mesh.material.emissive.setHex(mesh.userData.originalColor);
-            }
+    if (mesh.material && mesh.userData && mesh.userData.originalColor) {
+        if (ch.id !== 3 && ch.id !== 6) {
+            mesh.material.color.setHex(mesh.userData.originalColor);
+            if (mesh.material.emissive) mesh.material.emissive.setHex(mesh.userData.originalColor);
         }
-
-        let wave = 0;
-        
-        if (spectrumOrder.includes(ch.id)) {
-            // 🔓 TWIN LOCK KAPATILDI: Her oda için bağımsız zaman hücresi (ch.id) aktif!
-            if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
-
-            let groupIndex = 0;
-            if (upOrder.includes(ch.id)) {
-                groupIndex = upOrder.indexOf(ch.id);
-            } else if (downOrder.includes(ch.id)) {
-                groupIndex = downOrder.indexOf(ch.id);
-            }
-
-            // 🕰️ TAMAMEN BİREYSEL ZAMAN VE HIZ HESABI
-            const checkTime = window.chambersTimers[ch.id];
-            //const checkWaveTime = checkTime - (groupIndex * 0.1618 * Math.PI);
-
-            // 🕰 TIBBİ FAZ ZAMANLAMASI: 0.1618 (Altın Oran) ile PR aralığı simülasyonu
-            const checkWaveTime = window.chambersTimers[ch.id] - (groupIndex * 0.1618 * Math.PI);
-            
-            
-            const isInitiallyDecaying = Math.sin(checkWaveTime) > 0;
-
-            // Her oda sadece kendi saf ch.e ivme çarpanını kullanır, ortak maxPairE çöpe atıldı!
-            let dynamicSpeed = currentSpeed * Number(ch.e); 
-            if (isInitiallyDecaying) {
-                dynamicSpeed /= 1.60; 
-            }
-
-            // 🚨 KORUMA KALDIRILDI: Her oda kendi saatini kendisi günceller (Çifte tetiklenme tehlikesi yok çünkü saatler ayrıldı)
-            window.chambersTimers[ch.id] += dynamicSpeed;
-            window.chambersTimers[ch.id] %= (Math.PI * 2);
-
-            const localTime = window.chambersTimers[ch.id];
-            
-            // ⚡ ÖZGÜR FAZ KAYMASI: Odalar üst üste binebilir ama tamamen kendi groupIndex sürelerine göre akar
-            //const waveTime = localTime - (groupIndex * 0.1618 * Math.PI);
-            // ⚡ EKG SINIFLANDIRILMIŞ FAZ KAYMASI: 
-            // Odalar arası iletim (P-QRS) zamanlaması (0.1618 * PI gecikme)
-            const waveTime = window.chambersTimers[ch.id] - (groupIndex * 0.1618 * Math.PI);
-
-            const rawWave = (Math.cos(waveTime) + 1) * 0.5;
-            const isDecaying = Math.sin(waveTime) > 0;
-
-            if (isDecaying) {
-                const oppositeId = oppositeMap[ch.id];
-                const oppositeChamber = window.METATRON_SPECTRUM_MODEL.find(c => c.id === oppositeId);
-                const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
-                wave = (rawWave * 0.5) + oppositeWeight;
-            } else {
-                wave = rawWave;
-            }
-            
-            wave = Math.max(0.20, Math.min(1, wave));
-            
-        }  else {
-    // 🌐 KÜRESEL ENTEGRASYON: Telemetriden gelen 800ms'lik master saati yakalıyoruz
-    const globalClock = window.MetatronMasterClock || 0;
-
-    if (ch.id === 3) {
-        // 🤍 BEYAŻ ODA (Merkez Üst Kutup): Tam QRS vuruş anında (200-400ms) parlasın!
-        if (globalClock >= 200 && globalClock < 400) {
-            const progress = (globalClock - 200) / 200;
-            wave = 0.5 + Math.sin(progress * Math.PI) * 0.5; // Maksimum ışık genleşmesi
-        } else {
-            wave = 0.3 + Math.abs(Math.sin((globalClock / 800) * Math.PI * 2)) * 0.2; // Sakin nefes
-        }
-    } else if (ch.id === 6) {
-        // 🖤 SİYAH ODA (Merkez Alt Kutup): Tam S çukurunda / Ters akım anında (400ms'e girerken) patlasın!
-        if (globalClock >= 300 && globalClock < 500) {
-            const progress = (globalClock - 300) / 200;
-            wave = 0.1 + Math.sin(progress * Math.PI) * 0.9; // Derin girdap kanyon parlaması
-        } else {
-            wave = 0.4 - Math.abs(Math.cos((globalClock / 800) * Math.PI * 2)) * 0.2; // Nötr emilim fayı
-        }
-    } else {
-        // Diğer ara odalar kalırsa eski nizam korunsun
-        if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
-        window.chambersTimers[ch.id] += currentSpeed * ch.e;
-        window.chambersTimers[ch.id] %= (Math.PI * 2);
-        wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5;
     }
-}
 
-        mesh.userData = mesh.userData || {};
-        mesh.userData.currentWave = wave;
+   // ========================================================================
+    // 🌐 ULTRA REZONANS MOTORU: SARI, PEMBE, MOR KAPILAMALI ŞİMŞEK MATRİSİ
+    // ========================================================================
+    const globalClock = window.MetatronMasterClock || 0;
+    
+    // 74 BPM / 800 ms nizamına kilitli ana radyan çarkı
+    const basePhase = (globalClock / 800) * Math.PI * 2;
 
-        if (mesh.material) {
-            mesh.material.transparent = true;
-            if (ch.id === 3 || ch.id === 6) {
-                mesh.material.opacity = 0.85;
-                if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = 1.5;
-            } else {
-                mesh.material.opacity = 0.35 + (wave * 0.65); 
-                if (mesh.material.emissiveIntensity !== undefined) {
-                    mesh.material.emissiveIntensity = wave * 2.0; 
-                }
+    let delayFactor = 0;
+    let customWave = null;
+
+    // 🚀 ODA FAZ HARİTASI VE ÖZEL ZAMAN KORİDORLARI
+    if (ch.id === 1) {
+        // Kırmızı Oda: 200ms lagını söken tam ters faz dengesi
+        delayFactor = -0.5 * Math.PI; 
+    } 
+    else if (ch.id === 2 || ch.id === 4) {
+        // ⚡ SARI VE PEMBE ODALAR: Sadece QRS anında (200-400ms) şimşek gibi çaksınlar!
+        if (globalClock >= 200 && globalClock < 400) {
+            const qrsProgress = (globalClock - 200) / 200;
+            customWave = 0.25 + Math.sin(qrsProgress * Math.PI) * 0.70;
+        } else {
+            customWave = 0.20; // Döngü haricinde taban sönük dinlenme fazı
+        }
+    } 
+    else if (ch.id === 5) {
+        // 🟣 MOR ODA: İlk 400ms dinlenir, son 400ms (T Dalgası) pürüzsüz yükselir
+        if (globalClock >= 400) {
+            const morProgress = (globalClock - 400) / 400;
+            customWave = 0.20 + Math.sin(morProgress * Math.PI) * 0.65;
+        } else {
+            customWave = 0.22; // Taban dinlenme enerjisi
+        }
+    }
+    else if (ch.id === 3 || ch.id === 6) {
+        // 🤍🖤 PARAMEDİKAL REZONANS HATTI (Merkez Kutuplar):
+        // Osiloskop dalgasıyla tam senkronize dikey aks salınımı
+        customWave = 0.25 + Math.abs(Math.sin(basePhase)) * 0.55;
+    }
+
+    // Eğer özel kapılama yoksa saf AC kosinüs dalgası (Mavi ve Yeşil odalar için)
+    let wave = (customWave !== null) ? customWave : (((Math.cos(basePhase + delayFactor) + 1) * 0.38) + 0.24);
+
+    wave = Math.max(0.15, Math.min(1.0, wave));
+    // Veri havuzunu güncelleme
+    mesh.userData = mesh.userData || {};
+    mesh.userData.currentWave = wave;
+
+    // Görsel Opaklık ve Emissive Ayarları (Anlık Şimşek Tepkisi)
+    if (mesh.material) {
+        mesh.material.transparent = true;
+        if (ch.id === 3 || ch.id === 6) {
+            mesh.material.opacity = 0.35 + (wave * 0.50);
+            if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = wave * 2.5;
+        } else {
+            mesh.material.opacity = 0.20 + (wave * 0.80); 
+            if (mesh.material.emissiveIntensity !== undefined) {
+                mesh.material.emissiveIntensity = wave * 3.0; 
             }
         }
+    }
 
-        if (typeof window.metatronMeshScaler === "function") {
-            window.metatronMeshScaler(mesh, null, ch);
-        }
+    if (typeof window.metatronMeshScaler === "function") {
+        window.metatronMeshScaler(mesh, null, ch);
+    }
 
- // ⚡ GERÇEK 74 BPM MOTOR DEVRİ: 0.035 * 4 = 0.14
-window.metatronPulseSpeed = window.metatronPulseSpeed || 0.35;       
+    // ⚡ GERÇEK MOTOR DEVRİ SABİTLEMESİ
+    window.metatronPulseSpeed = window.metatronPulseSpeed || 0.35;     
 
 // ========================================================================
         // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI - GÜVENLİ)
