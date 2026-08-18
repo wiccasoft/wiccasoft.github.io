@@ -246,6 +246,34 @@ function updateTelemetryPanel() {
             if (i === 0) oscCtx.moveTo(x, y); else oscCtx.lineTo(x, y);
         } 
         oscCtx.stroke();
+
+
+
+         oscCtx.stroke();
+
+        // ========================================================================
+        // 🔴 KUVVETLİ BLIP: Çift Girdap Dalgalanmasını Takip Eden Neon Nokta
+        // ========================================================================
+        if (historyMV.length > 0) {
+            const lastIdx = historyMV.length - 1;
+            const blipX = lastIdx;
+            const blipY = oscCanvas.height - (((historyMV[lastIdx] + 120) / 160) * oscCanvas.height);
+
+            // Dış Parlama Efekti (Neon Koruma)
+            oscCtx.shadowBlur = 8;
+            oscCtx.shadowColor = "#ff3333";
+
+            // Merkez Kırmızı Çekirdek Nokta
+            oscCtx.beginPath();
+            oscCtx.arc(blipX, blipY, 4, 0, Math.PI * 2);
+            oscCtx.fillStyle = "#ff3333"; // Parlak Kırmızı
+            oscCtx.fill();
+
+            // Efekti temizle (Diğer çizimleri bozmasın)
+            oscCtx.shadowBlur = 0;
+        }
+
+        
         // ========================================================================
         // 📊 3 BANT SABİT BİYO-EKOLAYZIR MOTORU (P->QRS->T Akış Sıralaması)
         // ========================================================================
