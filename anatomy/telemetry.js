@@ -98,11 +98,18 @@
     let fireScore = 0, airScore = 0, waterScore = 0, earthScore = 0;
     let leadV5Voltage = -90;
 
-    function updateTelemetryPanel() {
+function updateTelemetryPanel() {
         if (!oscCtx || !hzCtx || !listContainer) return;
 
         const data = window.MetatronAcademicTelemetry;
         if (!data) return;
+
+        // ========================================================================
+        // 📊 MERKEZİ ZAMAN MOTORU (Zaman Tanımları En Üste Alındı)
+        // ========================================================================
+        const loopTime = (Date.now()) % 800; 
+        window.MetatronMasterClock = loopTime; // Küresel havuz
+        const nowTime = (loopTime / 800) * Math.PI * 2; 
 
         if (data.lunarPhase) document.getElementById('lunar-phase').innerText = data.lunarPhase;
         if (data.circadianTime) document.getElementById('circadian-clock').innerText = data.circadianTime;
@@ -119,7 +126,7 @@
         let maxMV = -999;
         let minMV = 999;
 
-        // ⚡ SAF KORUMALI ÇÖZÜM: Girdap dizisi filtreyi aşacak şekilde Array.from ile açıkça bağlandı!
+        // ⚡ SAF KORUMALI ÇÖZÜM: Girdap dizisi [1, 2, 4, 8, 7, 5] eksiksiz mühürlendi!
         [1, 2, 4, 8, 7, 5].forEach((id) => {
             const ch = data[id];
             if (!ch) return;
@@ -139,21 +146,45 @@
             historyHZ.push(hzVal);
             if (historyHZ.length > hzCanvas.width) historyHZ.shift();
 
-            const rowColor = ch.phaseState && ch.phaseState.includes("SYSTOLE") ? "rgba(0,255,200,0.1)" : "rgba(255,0,100,0.05)";
+            // ========================================================================
+            // 💡 ODALARI ALTTAN GELEN BAR RİTMİNE GÖRE ANLIK IŞIKLANDIRMA MOTORU
+            // ========================================================================
+            let rowColor = "rgba(255,255,255,0.02)"; 
+            
+            // 🟣 İlk 200ms -> Mor Bar (P) parladığında SAN (1) ve AVN (2) odalarını yak
+            if (loopTime < 200 && (id === 1 || id === 2)) {
+                rowColor = "rgba(153, 51, 255, 0.25)"; 
+            }
+            // 🟠 200-400ms -> Turuncu Bar (QRS) parladığında AVP (4) odasını patlat
+            else if (loopTime >= 200 && loopTime < 400 && id === 4) {
+                rowColor = "rgba(255, 153, 51, 0.35)"; 
+            }
+            // 🟢 400-800ms -> Yeşil Bar (T) parladığında VSS (5) odasını yak
+            else if (loopTime >= 400 && id === 5) {
+                rowColor = "rgba(51, 204, 51, 0.2)"; 
+            }
+            // Diğer sistol/diyastol odaları için varsayılan hafif siberpunk koruma
+            else if (ch.phaseState && ch.phaseState.includes("SYSTOLE")) {
+                rowColor = "rgba(0,255,200,0.1)";
+            } else {
+                rowColor = "rgba(255,0,100,0.05)";
+            }
+
             const medical = academicNames[id] || { short: ch.name ? ch.name.substring(0, 3) : "CH", full: ch.name || "Chamber" };
 
             html += `
-                <div class="chamber-row" style="background: ${rowColor}" title="${medical.full}">
+                <div class="chamber-row" style="background: ${rowColor}; transition: background 0.1s ease;" title="${medical.full}">
                     <span style="color: ${ch.color || '#fff'}; font-weight: bold;">${medical.short}</span>
                     <span>${ch.voltageMV || 0} mV</span>
                     <span>${ch.frequencyHz || 0} Hz</span>
                 </div>
             `;
         });
+
         listContainer.innerHTML = html;
 
         // ========================================================================
-        // 🔥 4 ELEMENT VE METABOLİK YOLAK HESAPLARI
+        // 🔥 4 ELEMENT VE METABOLİK YOLAK HESAPLARI (Döngü Sonrası Güvenli Alan)
         // ========================================================================
         fireScore = Math.max(0, Math.min(100, ((maxMV + 90) / 210) * 100));
         airScore = Math.max(0, Math.min(100, (1.0 - Math.abs((totalHZ / (activeCount || 1)) - 510) / 250) * 100));
@@ -165,69 +196,35 @@
         document.getElementById('water-idx').innerHTML = `💧 SU (Hemodinamik Akış):   %${waterScore.toFixed(0)}`;
         document.getElementById('earth-idx').innerHTML = `🌱 TOPRAK (Hücresel Tampon): %${earthScore.toFixed(0)}`;
 
-         // ========================================================================
-        // 🧮 AKADEMİK MATEMATİKSEL MATRİS: RİTMİK SİNÜS DALGASI (60-80 BPM SİMÜLASYONU)
+     // ========================================================================
+        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Her Vuruşta Tek Bir PQRST)
         // ========================================================================
-        // Math.random() yerine zamana bağlı (time-based) periyodik ritim motoru
-        const now = Date.now() * 0.004; // Zaman katsayısı (Hızı belirler)
-        
-        // Odaların fizyolojik sıraya göre faz kaymalı (Phase-shifted) sinüs tetiklenmeleri
-        const sanPhase = Math.sin(now);                         // Ana Pil (0 Derece)
-        const avnPhase = Math.sin(now - 0.4);                   // Köprü (Gecikmeli)
-        const avpPhase = Math.sin(now - 0.8) * Math.cos(now);   // Hızlı Otoban
-        const escPhase = Math.sin(now * 0.5) * 0.3;             // Yedek Sigorta (Sakin)
-        const vssPhase = Math.sin(now - 1.2);                   // Kılcallar
+        let p_Wave = 0;
+        let qrs_Complex = 0;
+        let t_Wave = 0;
 
-        // Hücre zarı mV değerlerinin fizyolojik sınırlara göre simüle edilmesi (-90 mV ile +30 mV arası)
-        const calculatedSAN = -60 + (sanPhase * 30);
-        const calculatedAVN = -55 + (avnPhase * 35);
-        const calculatedAVP = -40 + (avpPhase * 70); // Kasılma anında pozitife fırlar
-        const calculatedESC = -70 + (escPhase * 20);
-        const calculatedVSS = -85 + (vssPhase * 40);
-
-        // Ekrandaki sol paneli beslemek için veriyi güncelle (Eğer arayüz değişkenleriniz varsa)
-        if (data) {
-            data.sanMV = calculatedSAN.toFixed(1);
-            data.avnMV = calculatedAVN.toFixed(1);
-            data.avpMV = calculatedAVP.toFixed(1);
-            data.escMV = calculatedESC.toFixed(1);
-            data.vssMV = calculatedVSS.toFixed(1);
+        // ⏱️ Fizyolojik Zaman Kapılaması: Enerji sadece kendi evresinde akım çevirir
+        if (loopTime < 200) {
+            // 🟣 0 - 200ms: Sadece P Dalgası akar (SAN aktif)
+            p_Wave = Math.sin((loopTime / 200) * Math.PI) * 12; 
+        } 
+        else if (loopTime >= 200 && loopTime < 400) {
+            // 🟠 200 - 400ms: Keskin QRS Kompleksi patlar (AVP aktif)
+            const qrsProgress = (loopTime - 200) / 200;
+            // Çift tepe ve derin S çukuru oluşturan keskin sodyum patlaması
+            qrs_Complex = Math.sin(qrsProgress * Math.PI * 2) * 55 - Math.sin(qrsProgress * Math.PI) * 15;
+        } 
+        else {
+            // 🟢 400 - 800ms: Yumuşak T Dalgası sönümlenir (VSS aktif)
+            t_Wave = Math.sin(((loopTime - 400) / 400) * Math.PI) * 18;
         }
 
- // ========================================================================
-        // 🛡️ ANTI-FLICKER: GLOBAL HAZIR DEĞİŞKENLER VE REZONANS SINIRLARI
-        // ========================================================================
-        // Değişkenleri döngü dışına taşıyarak Garbage Collector titremesini engelliyoruz
-        const minScaleHz = 900;   // 🔍 Yakalanan efsane büyüteç filtresi
-        const maxScaleHz = 1600;  
-        const hzScaleRange = maxScaleHz - minScaleHz; 
+        // Tüm fazların fizyolojik toplamı (Gereksiz ara akımlar temizlendi)
+        leadV5Voltage = -60 + p_Wave + qrs_Complex + t_Wave;
 
-        // 🎨 GRADYAN HAFIZALAMA: Renkleri her karede sıfırdan YARATMIYORUZ, bir kez hafızaya alıyoruz
-        // Bu hamle işlemci yükünü sıfırlayarak anlık takılmaları (flicker) bitirir
-        if (!window.topGrad) {
-            window.topGrad = oscCtx.createLinearGradient(0, 0, oscCanvas.width, 0);
-            window.topGrad.addColorStop(0, '#00ffcc');
-            window.topGrad.addColorStop(0.5, '#00bcff');
-            window.topGrad.addColorStop(1, '#00ffcc');
-        }
-        if (!window.bottomGrad) {
-            window.bottomGrad = hzCtx.createLinearGradient(0, 0, hzCanvas.width, 0);
-            window.bottomGrad.addColorStop(0, '#ff3333');   // 🔴 SAN
-            window.bottomGrad.addColorStop(0.2, '#ff9933'); // 🟠 AVN
-            window.bottomGrad.addColorStop(0.4, '#ffff33'); // 🟡 AVP
-            window.bottomGrad.addColorStop(0.6, '#33cc33'); // 🟢 ESC
-            window.bottomGrad.addColorStop(0.8, '#3399ff'); // 🔵 VSS
-            window.bottomGrad.addColorStop(1, '#9933ff');   // 🟣 CSF
-        }
-
-        // ========================================================================
-        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Ritmik PQRST)
-        // ========================================================================
-        leadV5Voltage = (calculatedSAN * 0.4) + (calculatedAVN * 0.2) + (calculatedAVP * 0.6);
         historyMV.push(leadV5Voltage);
         if (historyMV.length > oscCanvas.width) historyMV.shift();
 
-        // Çizimi tamamen sıfırlayıp hayalet pikselleri arındırıyoruz
         oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
         
         // Sabit Arka Plan Izgarası
@@ -238,50 +235,43 @@
             oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
         }
 
-        oscCtx.strokeStyle = window.topGrad;
+        // Osiloskop Çizgisi (PQRST Dalgası)
+        oscCtx.strokeStyle = window.topGrad || '#00ffcc';
         oscCtx.lineWidth = 1.8;
-        oscCtx.beginPath(); // Titremeyi önleyen yeni yol açma
+        oscCtx.beginPath(); 
         for (let i = 0; i < historyMV.length; i++) {
-            const x = oscCanvas.width - (historyMV.length - i);
-            const y = oscCanvas.height - (((historyMV[i] + 90) / 210) * oscCanvas.height);
+            const x = i; 
+            // -120 mV ile +40 mV arasını canvas yüksekliğine güvenle oranlıyoruz
+            const y = oscCanvas.height - (((historyMV[i] + 120) / 160) * oscCanvas.height);
             if (i === 0) oscCtx.moveTo(x, y); else oscCtx.lineTo(x, y);
         } 
         oscCtx.stroke();
-
         // ========================================================================
-        // 📊 3 BANT SABİT BİYO-EKOLAYZIR MOTORU (Akmayan, Göz Yormayan Sistem)
+        // 📊 3 BANT SABİT BİYO-EKOLAYZIR MOTORU (P->QRS->T Akış Sıralaması)
         // ========================================================================
-        // Toplam kalp döngüsü: 200ms (P) + 200ms (QRS) + 400ms (T) = 800ms
-        const loopTime = (Date.now()) % 800; // 800 ms'lik sürekli dönen zaman çarkı
+        let p_Height = 0;   
+        let qrs_Height = 0; 
+        let t_Height = 0;   
 
-        let p_Height = 0;   // Mor Bar Genliği
-        let qrs_Height = 0; // Kırmızı-Turuncu-Sarı Bar Genliği
-        let t_Height = 0;   // Yeşil-Mavi Bar Genliği
-
-        // ⏱️ FİZYOLOJİK ZAMAN DİLİMLEMESİ (Milisaniye Tabanlı Tetiklenme)
         if (loopTime < 200) {
-            // 🟣 1. BANT: MOR (P Dalgası) - İlk 200 ms (Hafif dalgalanma)
             const progress = loopTime / 200;
             p_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.4); 
-            qrs_Height = Math.sin(now) * 5; // Arka plan dip gürültüsü
-            t_Height = Math.cos(now) * 3;
+            qrs_Height = Math.sin(nowTime) * 5; 
+            t_Height = Math.cos(nowTime) * 3;
         } 
         else if (loopTime >= 200 && loopTime < 400) {
-            // 🔴🟠🟡 2. BANT: QRS (Zirve Patlama) - Sonraki 200 ms (Keskin tavan vuruşu)
             const progress = (loopTime - 200) / 200;
-            qrs_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.95); // Neredeyse tavan yapar
-            p_Height = Math.sin(now) * 4;
-            t_Height = Math.cos(now) * 3;
+            qrs_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.95); 
+            p_Height = Math.sin(nowTime) * 4;
+            t_Height = Math.cos(nowTime) * 3;
         } 
         else {
-            // 🟢🔵 3. BANT: TEK (Yumuşak Sönüş) - Son 400 ms (Uzun ve pürüzsüz iniş)
             const progress = (loopTime - 400) / 400;
             t_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.55);
-            p_Height = Math.cos(now) * 3;
-            qrs_Height = Math.sin(now) * 5;
+            p_Height = Math.cos(nowTime) * 3;
+            qrs_Height = Math.sin(nowTime) * 5;
         }
 
-        // Alt kanalı temizle
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
         
         // Sabit Arka Plan Izgarası
@@ -292,34 +282,32 @@
             hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
         }
 
-        // 🎨 3 AYRI BAĞIMSIZ GÖRSEL BARIN ÇİZİMİ
-        const barWidth = hzCanvas.width / 4; // Barların genişliği
-        const spacing = hzCanvas.width / 8; // Barlar arası boşluk
+        const barWidth = hzCanvas.width / 4; 
+        const spacing = hzCanvas.width / 8; 
 
-        // 🟩 Bar 1: Yeşil + Mavi (T Segmenti)
-        let gradT = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - t_Height);
-        gradT.addColorStop(0, '#3399ff'); // 🔵 Mavi
-        gradT.addColorStop(1, '#33cc33'); // 🟢 Yeşil
-        hzCtx.fillStyle = gradT;
-        hzCtx.fillRect(spacing, hzCanvas.height - t_Height, barWidth, t_Height);
+        // 🟪 Bar 1: Mor (P Segmenti) -> En sol
+        let gradP = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - p_Height);
+        gradP.addColorStop(0, '#6600cc'); 
+        gradP.addColorStop(1, '#9933ff'); 
+        hzCtx.fillStyle = gradP;
+        hzCtx.fillRect(spacing, hzCanvas.height - p_Height, barWidth, p_Height);
 
-        // 🟥 Bar 2: Kırmızı + Turuncu + Sarı (QRS Zirve)
+        // 🟥 Bar 2: Kırmızı + Turuncu + Sarı (QRS Zirve) -> Orta
         let gradQRS = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - qrs_Height);
-        gradQRS.addColorStop(0, '#ff3333');   // 🔴 Kırmızı
-        gradQRS.addColorStop(0.5, '#ff9933'); // 🟠 Turuncu
-        gradQRS.addColorStop(1, '#ffff33');   // 🟡 Sarı
+        gradQRS.addColorStop(0, '#ff3333');   
+        gradQRS.addColorStop(0.5, '#ff9933'); 
+        gradQRS.addColorStop(1, '#ffff33');   
         hzCtx.fillStyle = gradQRS;
         hzCtx.fillRect(spacing * 2 + barWidth, hzCanvas.height - qrs_Height, barWidth, qrs_Height);
 
-        // 🟪 Bar 3: Mor (P Segmenti)
-        let gradP = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - p_Height);
-        gradP.addColorStop(0, '#6600cc'); // Derin mor
-        gradP.addColorStop(1, '#9933ff'); // 🟣 Parlak mor
-        hzCtx.fillStyle = gradP;
-        hzCtx.fillRect(spacing * 3 + barWidth * 2, hzCanvas.height - p_Height, barWidth, p_Height);
+        // 🟩 Bar 3: Yeşil + Mavi (T Segmenti) -> En sağ
+        let gradT = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - t_Height);
+        gradT.addColorStop(0, '#3399ff'); 
+        gradT.addColorStop(1, '#33cc33'); 
+        hzCtx.fillStyle = gradT;
+        hzCtx.fillRect(spacing * 3 + barWidth * 2, hzCanvas.height - t_Height, barWidth, t_Height);
 
     } // updateTelemetryPanel fonksiyonu bitti
-
 
    // ========================================================================
     // 🔮 ACADEMIC ORACLE: INTERACTIVE MODAL & GÖSTERGE GİZLEME (TOGGLE) MOTORU
