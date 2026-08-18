@@ -287,12 +287,34 @@ window.MetatronEngine = function() {
             
             wave = Math.max(0.20, Math.min(1, wave));
             
+        }  else {
+    // 🌐 KÜRESEL ENTEGRASYON: Telemetriden gelen 800ms'lik master saati yakalıyoruz
+    const globalClock = window.MetatronMasterClock || 0;
+
+    if (ch.id === 3) {
+        // 🤍 BEYAŻ ODA (Merkez Üst Kutup): Tam QRS vuruş anında (200-400ms) parlasın!
+        if (globalClock >= 200 && globalClock < 400) {
+            const progress = (globalClock - 200) / 200;
+            wave = 0.5 + Math.sin(progress * Math.PI) * 0.5; // Maksimum ışık genleşmesi
         } else {
-            if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
-            window.chambersTimers[ch.id] += currentSpeed * ch.e;
-            window.chambersTimers[ch.id] %= (Math.PI * 2);
-            wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5; 
+            wave = 0.3 + Math.abs(Math.sin((globalClock / 800) * Math.PI * 2)) * 0.2; // Sakin nefes
         }
+    } else if (ch.id === 6) {
+        // 🖤 SİYAH ODA (Merkez Alt Kutup): Tam S çukurunda / Ters akım anında (400ms'e girerken) patlasın!
+        if (globalClock >= 300 && globalClock < 500) {
+            const progress = (globalClock - 300) / 200;
+            wave = 0.1 + Math.sin(progress * Math.PI) * 0.9; // Derin girdap kanyon parlaması
+        } else {
+            wave = 0.4 - Math.abs(Math.cos((globalClock / 800) * Math.PI * 2)) * 0.2; // Nötr emilim fayı
+        }
+    } else {
+        // Diğer ara odalar kalırsa eski nizam korunsun
+        if (window.chambersTimers[ch.id] === undefined) window.chambersTimers[ch.id] = 0;
+        window.chambersTimers[ch.id] += currentSpeed * ch.e;
+        window.chambersTimers[ch.id] %= (Math.PI * 2);
+        wave = ((Math.cos(window.chambersTimers[ch.id]) + 1) * 0.3) + 0.5;
+    }
+}
 
         mesh.userData = mesh.userData || {};
         mesh.userData.currentWave = wave;
