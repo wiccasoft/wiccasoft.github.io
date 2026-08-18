@@ -165,43 +165,61 @@
         document.getElementById('water-idx').innerHTML = `💧 SU (Hemodinamik Akış):   %${waterScore.toFixed(0)}`;
         document.getElementById('earth-idx').innerHTML = `🌱 TOPRAK (Hücresel Tampon): %${earthScore.toFixed(0)}`;
 
+         // ========================================================================
+        // 🧮 AKADEMİK MATEMATİKSEL MATRİS: RİTMİK SİNÜS DALGASI (60-80 BPM SİMÜLASYONU)
         // ========================================================================
-        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Hastane Tipi Sağa Akış)
+        // Math.random() yerine zamana bağlı (time-based) periyodik ritim motoru
+        const now = Date.now() * 0.004; // Zaman katsayısı (Hızı belirler)
+        
+        // Odaların fizyolojik sıraya göre faz kaymalı (Phase-shifted) sinüs tetiklenmeleri
+        const sanPhase = Math.sin(now);                         // Ana Pil (0 Derece)
+        const avnPhase = Math.sin(now - 0.4);                   // Köprü (Gecikmeli)
+        const avpPhase = Math.sin(now - 0.8) * Math.cos(now);   // Hızlı Otoban
+        const escPhase = Math.sin(now * 0.5) * 0.3;             // Yedek Sigorta (Sakin)
+        const vssPhase = Math.sin(now - 1.2);                   // Kılcallar
+
+        // Hücre zarı mV değerlerinin fizyolojik sınırlara göre simüle edilmesi (-90 mV ile +30 mV arası)
+        const calculatedSAN = -60 + (sanPhase * 30);
+        const calculatedAVN = -55 + (avnPhase * 35);
+        const calculatedAVP = -40 + (avpPhase * 70); // Kasılma anında pozitife fırlar
+        const calculatedESC = -70 + (escPhase * 20);
+        const calculatedVSS = -85 + (vssPhase * 40);
+
+        // Ekrandaki sol paneli beslemek için veriyi güncelle (Eğer arayüz değişkenleriniz varsa)
+        if (data) {
+            data.sanMV = calculatedSAN.toFixed(1);
+            data.avnMV = calculatedAVN.toFixed(1);
+            data.avpMV = calculatedAVP.toFixed(1);
+            data.escMV = calculatedESC.toFixed(1);
+            data.vssMV = calculatedVSS.toFixed(1);
+        }
+
         // ========================================================================
-        leadV5Voltage = data ? parseFloat(data.voltageMV) : -90;
+        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Ritmik PQRST)
+        // ========================================================================
+        // Odaların kolektif toplamından bir PQRST voltaj çıktısı üretiyoruz
+        leadV5Voltage = (calculatedSAN * 0.4) + (calculatedAVN * 0.2) + (calculatedAVP * 0.6);
         historyMV.push(leadV5Voltage);
         if (historyMV.length > oscCanvas.width) historyMV.shift();
 
         oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
-        oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.2)';
+        
+        // Arka plan ızgarası
+        oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.15)';
         oscCtx.lineWidth = 0.5;
         for (let g = 0; g < oscCanvas.width; g += 20) {
             oscCtx.beginPath(); oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height); oscCtx.stroke();
             oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
         }
 
-        oscCtx.strokeStyle = '#00ffcc';
-        oscCtx.lineWidth = 1.5;
-        oscCtx.beginPath();
+        // 🎨 GRADYAN DALGALANMA: Üst kanal için yeşilden maviye ışıldayan gradyan
+        let topGrad = oscCtx.createLinearGradient(0, 0, oscCanvas.width, 0);
+        topGrad.addColorStop(0, '#00ffcc');
+        topGrad.addColorStop(0.5, '#00bcff');
+        topGrad.addColorStop(1, '#00ffcc');
 
-
-// ========================================================================
-        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Hastane Tipi Sağa Akış)
-        // ========================================================================
-        leadV5Voltage = data ? (parseFloat(data.voltageMV) || parseFloat(data[1]?.voltageMV) || -90) : -90;
-        historyMV.push(leadV5Voltage);
-        if (historyMV.length > oscCanvas.width) historyMV.shift();
-
-        oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
-        oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.2)';
-        oscCtx.lineWidth = 0.5;
-        for (let g = 0; g < oscCanvas.width; g += 20) {
-            oscCtx.beginPath(); oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height); oscCtx.stroke();
-            oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
-        }
-
-        oscCtx.strokeStyle = '#00ffcc';
-        oscCtx.lineWidth = 1.5;
+        oscCtx.strokeStyle = topGrad;
+        oscCtx.lineWidth = 1.8;
         oscCtx.beginPath();
         for (let i = 0; i < historyMV.length; i++) {
             const x = oscCanvas.width - (historyMV.length - i);
@@ -211,33 +229,46 @@
         oscCtx.stroke();
 
         // ========================================================================
-        // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU
+        // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU (Akademik Renkli Gradyan)
         // ========================================================================
+        // Hücre çekirdeği atomik frekansını voltaj dalgasına senkronize bağlıyoruz
+        const baseHz = 1000 + (sanPhase * 400) + (avpPhase * 600);
+        historyHZ.push(baseHz);
+        if (historyHZ.length > hzCanvas.width) historyHZ.shift();
+
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
-        hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.2)'; 
+        
+        // Izgara çizimi
+        hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.15)'; 
         hzCtx.lineWidth = 0.5;
         for (let g = 0; g < hzCanvas.width; g += 20) { 
             hzCtx.beginPath(); hzCtx.moveTo(g, 0); hzCtx.lineTo(g, hzCanvas.height); hzCtx.stroke(); 
             hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
         }
 
-        // Değişkenler döngüden ÖNCE tanımlandı (ReferenceError Çözüldü)
         const minScaleHz = 130; 
         const maxScaleHz = 2600;
         const hzScaleRange = maxScaleHz - minScaleHz; 
 
-        hzCtx.strokeStyle = '#ff0066';
-        hzCtx.lineWidth = 1.5; 
+        // 🎨 AKADEMİK PQRST RENKLERİYLE GRADYAN DALGALANMA (Kırmızı -> Turuncu -> Sarı)
+        // İstediğiniz akademik renk şelalesini doğrudan çizgi gradyanına bağlıyoruz
+        let bottomGrad = hzCtx.createLinearGradient(0, 0, hzCanvas.width, 0);
+        bottomGrad.addColorStop(0, '#ff3333');   // 🔴 SAN Kırmızısı (Başlangıç)
+        bottomGrad.addColorStop(0.4, '#ff9933'); // 🟠 AVN Turuncusu (Köprü)
+        bottomGrad.addColorStop(0.7, '#ffff33'); // 🟡 AVP Sarısı (Zirve Vuruş)
+        bottomGrad.addColorStop(1, '#ff3333');   // Döngü sonu rezonans geri çekilmesi
+
+        hzCtx.strokeStyle = bottomGrad;
+        hzCtx.lineWidth = 2.0; // Çizgiyi biraz daha belirginleştirdik
         hzCtx.beginPath();
         for (let i = 0; i < historyHZ.length; i++) { 
-            // x koordinatı sağa akacak şekilde optimize edildi (Yıldırım yığılması çözüldü)
             const x = hzCanvas.width - (historyHZ.length - i);
             const normalizedY = (historyHZ[i] - minScaleHz) / hzScaleRange;
             const safeY = hzCanvas.height - (normalizedY * hzCanvas.height);
             if (i === 0) hzCtx.moveTo(x, safeY); else hzCtx.lineTo(x, safeY);
         } 
         hzCtx.stroke();
-    } // updateTelemetryPanel fonksiyonunun gerçek kapanış parantezi
+    } // updateTelemetryPanel fonksiyonu bitti
 
     // 🔄 MOTORU CANLI TUTAN RENDER DÖNGÜSÜ
     function renderLoop() { 
