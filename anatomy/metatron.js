@@ -218,8 +218,8 @@ window.MetatronEngine = function() {
     window.chambersTimers = window.chambersTimers || {};
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
 
-    const upOrder   =[1,4,7]; // Yükselen Akış
-    const downOrder =[8,5,2]; // Alçalan Akış
+    const upOrder   =[1,4,7]; 
+    const downOrder =[8,5,2]; 
 
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers ? window.chambers[ch.id] : null; 
@@ -258,7 +258,7 @@ window.MetatronEngine = function() {
             // Her oda sadece kendi saf ch.e ivme çarpanını kullanır, ortak maxPairE çöpe atıldı!
             let dynamicSpeed = currentSpeed * Number(ch.e); 
             if (isInitiallyDecaying) {
-                dynamicSpeed /= 1.61803398875; 
+                dynamicSpeed /= 1.60; 
             }
 
             // 🚨 KORUMA KALDIRILDI: Her oda kendi saatini kendisi günceller (Çifte tetiklenme tehlikesi yok çünkü saatler ayrıldı)
@@ -280,7 +280,7 @@ window.MetatronEngine = function() {
                 const oppositeId = oppositeMap[ch.id];
                 const oppositeChamber = window.METATRON_SPECTRUM_MODEL.find(c => c.id === oppositeId);
                 const oppositeWeight = oppositeChamber ? Number(oppositeChamber.e) * 0.2 : 0.2;
-                wave = (rawWave * 0.7) + oppositeWeight;
+                wave = (rawWave * 0.5) + oppositeWeight;
             } else {
                 wave = rawWave;
             }
@@ -315,7 +315,7 @@ window.MetatronEngine = function() {
         }
 
  // ⚡ GERÇEK 74 BPM MOTOR DEVRİ: 0.035 * 4 = 0.14
-window.metatronPulseSpeed = window.metatronPulseSpeed || 0.11;       
+window.metatronPulseSpeed = window.metatronPulseSpeed || 0.35;       
 
 // ========================================================================
         // 🔮 ACADEMIC TELEMETRY CARRIER (GÖSTERGELER İÇİN VERİ ÇIKIŞI - GÜVENLİ)
