@@ -249,20 +249,39 @@
         oscCtx.stroke();
 
         // ========================================================================
-        // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU (Büyüteçli & Kararlı)
+        // 📊 3 BANT SABİT BİYO-EKOLAYZIR MOTORU (Akmayan, Göz Yormayan Sistem)
         // ========================================================================
-        const currentSAN_Hz = calculatedSAN ? (1000 + (Math.sin(now) * 400)) : 202;
-        const currentAVN_Hz = calculatedAVN ? (1000 + (Math.sin(now - 0.4) * 300)) : 396;
-        const currentAVP_Hz = calculatedAVP ? (1000 + (Math.sin(now - 0.8) * 600)) : 550;
-        const currentESC_Hz = calculatedESC ? (1000 + (Math.sin(now * 0.5) * 150)) : 676;
-        const currentVSS_Hz = calculatedVSS ? (1000 + (Math.sin(now - 1.2) * 500)) : 1080; 
-        const currentCSF_Hz = 1200 + (Math.cos(now) * 350);                                
+        // Toplam kalp döngüsü: 200ms (P) + 200ms (QRS) + 400ms (T) = 800ms
+        const loopTime = (Date.now()) % 800; // 800 ms'lik sürekli dönen zaman çarkı
 
-        const fullHarmonicHz = (currentSAN_Hz * 0.20) + (currentAVN_Hz * 0.15) + (currentAVP_Hz * 0.30) + (currentESC_Hz * 0.10) + (currentVSS_Hz * 0.15) + (currentCSF_Hz * 0.10);
-        
-        historyHZ.push(fullHarmonicHz);
-        if (historyHZ.length > hzCanvas.width) historyHZ.shift();
+        let p_Height = 0;   // Mor Bar Genliği
+        let qrs_Height = 0; // Kırmızı-Turuncu-Sarı Bar Genliği
+        let t_Height = 0;   // Yeşil-Mavi Bar Genliği
 
+        // ⏱️ FİZYOLOJİK ZAMAN DİLİMLEMESİ (Milisaniye Tabanlı Tetiklenme)
+        if (loopTime < 200) {
+            // 🟣 1. BANT: MOR (P Dalgası) - İlk 200 ms (Hafif dalgalanma)
+            const progress = loopTime / 200;
+            p_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.4); 
+            qrs_Height = Math.sin(now) * 5; // Arka plan dip gürültüsü
+            t_Height = Math.cos(now) * 3;
+        } 
+        else if (loopTime >= 200 && loopTime < 400) {
+            // 🔴🟠🟡 2. BANT: QRS (Zirve Patlama) - Sonraki 200 ms (Keskin tavan vuruşu)
+            const progress = (loopTime - 200) / 200;
+            qrs_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.95); // Neredeyse tavan yapar
+            p_Height = Math.sin(now) * 4;
+            t_Height = Math.cos(now) * 3;
+        } 
+        else {
+            // 🟢🔵 3. BANT: TEK (Yumuşak Sönüş) - Son 400 ms (Uzun ve pürüzsüz iniş)
+            const progress = (loopTime - 400) / 400;
+            t_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.55);
+            p_Height = Math.cos(now) * 3;
+            qrs_Height = Math.sin(now) * 5;
+        }
+
+        // Alt kanalı temizle
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
         
         // Sabit Arka Plan Izgarası
@@ -273,19 +292,31 @@
             hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
         }
 
-        hzCtx.strokeStyle = window.bottomGrad;
-        hzCtx.lineWidth = 2.0; 
-        hzCtx.beginPath(); // Titremeyi önleyen yeni yol açma
-        for (let i = 0; i < historyHZ.length; i++) { 
-            const x = hzCanvas.width - (historyHZ.length - i);
-            let clampedHz = Math.max(minScaleHz, Math.min(maxScaleHz, historyHZ[i]));
-            const normalizedY = (clampedHz - minScaleHz) / hzScaleRange;
-            const safeY = hzCanvas.height - (normalizedY * hzCanvas.height);
-            
-            if (i === 0) hzCtx.moveTo(x, safeY); else hzCtx.lineTo(x, safeY);
-        } 
-        hzCtx.stroke();
+        // 🎨 3 AYRI BAĞIMSIZ GÖRSEL BARIN ÇİZİMİ
+        const barWidth = hzCanvas.width / 4; // Barların genişliği
+        const spacing = hzCanvas.width / 8; // Barlar arası boşluk
 
+        // 🟩 Bar 1: Yeşil + Mavi (T Segmenti)
+        let gradT = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - t_Height);
+        gradT.addColorStop(0, '#3399ff'); // 🔵 Mavi
+        gradT.addColorStop(1, '#33cc33'); // 🟢 Yeşil
+        hzCtx.fillStyle = gradT;
+        hzCtx.fillRect(spacing, hzCanvas.height - t_Height, barWidth, t_Height);
+
+        // 🟥 Bar 2: Kırmızı + Turuncu + Sarı (QRS Zirve)
+        let gradQRS = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - qrs_Height);
+        gradQRS.addColorStop(0, '#ff3333');   // 🔴 Kırmızı
+        gradQRS.addColorStop(0.5, '#ff9933'); // 🟠 Turuncu
+        gradQRS.addColorStop(1, '#ffff33');   // 🟡 Sarı
+        hzCtx.fillStyle = gradQRS;
+        hzCtx.fillRect(spacing * 2 + barWidth, hzCanvas.height - qrs_Height, barWidth, qrs_Height);
+
+        // 🟪 Bar 3: Mor (P Segmenti)
+        let gradP = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - p_Height);
+        gradP.addColorStop(0, '#6600cc'); // Derin mor
+        gradP.addColorStop(1, '#9933ff'); // 🟣 Parlak mor
+        hzCtx.fillStyle = gradP;
+        hzCtx.fillRect(spacing * 3 + barWidth * 2, hzCanvas.height - p_Height, barWidth, p_Height);
 
     } // updateTelemetryPanel fonksiyonu bitti
 
