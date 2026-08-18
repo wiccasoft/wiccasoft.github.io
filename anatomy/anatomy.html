@@ -12,10 +12,35 @@
 
 <script src="three.min.js"></script>
 <script src="OrbitControls.js"></script>
+
 <script src="metatron.js"></script>
+
 <script src="skeleton.js"></script>
+
 <script src="telemetry.js"></script>
+
 <script>
+
+
+// ⏱️ Küresel zaman saati tanımı (anatomy.html)
+window.metatronClock = new THREE.Clock();
+
+function animate() {
+    requestAnimationFrame(animate);
+
+    if (window.heartAnimationActive === true) {
+        // Delta zaman bazlı 74 BPM hesaplaması
+        const delta = window.metatronClock.getDelta();
+        window.metatronPulseSpeed = 7.7492 * delta; // 74 BPM için (~1.23Hz * 2π)
+        if (typeof window.MetatronEngine === "function") window.MetatronEngine();
+    }
+
+    // Render ve Telemetri Yayını
+    if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
+        simulasyonParametreleriniTuret(); // Telemetriyi üst panele gönderir
+    }
+}
 
 // 🧠 1. GLOBAL KİLİTLER VE SİNYAL ALTYAPISI
 window.scene = window.scene || null;
@@ -26,17 +51,16 @@ window.currentMv = -90.0;
 window.currentOdaRengi = "Kırmızı";
 window.vagusBrakeActive = false;
 
-// ⚡ NEURAL WORKER BLOB ENJEKTÖRÜ
+// ⚡ NEURAL WORKER BLOB ENJEKTÖRÜ (74 BPM Güncellemesi)
 const workerCode = `
-    setInterval(() => {
-        postMessage({
-            komut: "BİYOLOJİK_TELEMETRİ",
-            kalp: { mv: -90, renk: "Kırmızı", bpm: 72 },
-            vagusEffort: 0.2,
-            sistemModu: "Denge"
-        });
-    }, 1000);
+setInterval(() => {
+postMessage({
+komut: "BİYOLOJİK_TELEMETRİ",
+kalp: { mv: -90, renk: "Kırmızı", bpm: 74 }, // 72 değeri 74 olarak güncellendi
+});
+}, 1000);
 `;
+
 const blob = new Blob([workerCode], { type: 'application/javascript' });
 const biyoWorker = new Worker(URL.createObjectURL(blob));
 
@@ -46,6 +70,34 @@ biyoWorker.onmessage = function(e) {
     }
 };
 
+
+// ⏱️ 1. Küresel zaman ve dinamik süre tanımları (anatomy.html)
+window.metatronClock = new THREE.Clock();
+window.HEART_CYCLE_MS = 800; // 🎯 İSTEDİĞİNİZ SÜRE (Burayı değiştirince her şey değişir!)
+
+function animate() {
+    requestAnimationFrame(animate);
+
+    if (window.heartAnimationActive === true) {
+        const delta = window.metatronClock.getDelta();
+        
+        // DİNAMİK BPM HESABI: 60000ms / 800ms = 75 BPM yapar.
+        // Formül: (2 * Math.PI) / (Target_MS / 1000) -> Saniyedeki radyan hızı
+        const targetSeconds = window.HEART_CYCLE_MS / 1000;
+        const radiansPerSecond = (2 * Math.PI) / targetSeconds;
+        
+        // Hızı delta zamanı ile çarparak saniyeye sabitliyoruz
+        window.metatronPulseSpeed = radiansPerSecond * delta; 
+        
+        if (typeof window.MetatronEngine === "function") window.MetatronEngine();
+    }
+
+    if (window.renderer && window.scene && window.camera) {
+        window.renderer.render(window.scene, window.camera);
+        simulasyonParametreleriniTuret(); 
+    }
+}
+
 // 🧪 2. ALGORİTMİK METABOLİK VE ELEMENTER PARAMETRE TÜRETİCİ
 function simulasyonParametreleriniTuret() {
     if (!window.METATRON_SPECTRUM_MODEL || !window.chambers) return;
@@ -53,6 +105,8 @@ function simulasyonParametreleriniTuret() {
     // 🎯 KUSURSUZ ENTEGRASYON: Sahnede o an en parlak / baskın olan odayı buluyoruz
     let dominantChamber = null;
     let maxWave = -1;
+
+    
 
     window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         const mesh = window.chambers[ch.id];
@@ -100,7 +154,8 @@ function simulasyonParametreleriniTuret() {
         metabolizma: metabolikDurum,
         frekans: `${dominantChamber.q} Hz`,
         element: dominantChamber.id === 1 ? "FIRE" : (dominantChamber.id === 8 ? "EARTH" : (dominantChamber.id === 7 ? "WATER" : "AIR")),
-        wave: waveValue
+        wave: waveValue,
+        bpm: "74 BPM" // 🔑 İŞTE ARADIĞIN KİLİT SİNYAL ENJEKSİYONU!
     }, "*");
 }
 
