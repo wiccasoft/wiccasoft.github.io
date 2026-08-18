@@ -194,25 +194,25 @@
             data.vssMV = calculatedVSS.toFixed(1);
         }
 
-        // ========================================================================
+ // ========================================================================
         // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Ritmik PQRST)
         // ========================================================================
-        // Odaların kolektif toplamından bir PQRST voltaj çıktısı üretiyoruz
         leadV5Voltage = (calculatedSAN * 0.4) + (calculatedAVN * 0.2) + (calculatedAVP * 0.6);
         historyMV.push(leadV5Voltage);
         if (historyMV.length > oscCanvas.width) historyMV.shift();
 
+        // Canvas'ı tamamen sıfırlayıp hayalet çizgileri yok ediyoruz
         oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
         
         // Arka plan ızgarası
-        oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.15)';
+        oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.1)';
         oscCtx.lineWidth = 0.5;
         for (let g = 0; g < oscCanvas.width; g += 20) {
             oscCtx.beginPath(); oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height); oscCtx.stroke();
             oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
         }
 
-        // 🎨 GRADYAN DALGALANMA: Üst kanal için yeşilden maviye ışıldayan gradyan
+        // Yumuşak renk geçişli gradyan
         let topGrad = oscCtx.createLinearGradient(0, 0, oscCanvas.width, 0);
         topGrad.addColorStop(0, '#00ffcc');
         topGrad.addColorStop(0.5, '#00bcff');
@@ -220,7 +220,7 @@
 
         oscCtx.strokeStyle = topGrad;
         oscCtx.lineWidth = 1.8;
-        oscCtx.beginPath();
+        oscCtx.beginPath(); // Yeni çizim yolu başlattık (Hayalet çizgi hatası çözüldü)
         for (let i = 0; i < historyMV.length; i++) {
             const x = oscCanvas.width - (historyMV.length - i);
             const y = oscCanvas.height - (((historyMV[i] + 90) / 210) * oscCanvas.height);
@@ -229,46 +229,98 @@
         oscCtx.stroke();
 
         // ========================================================================
-        // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU (Akademik Renkli Gradyan)
+        // 🔴 ALT KANAL: GİRDAP REZONANS FREKANS OSİLOSKOPU (Tüm Odalar Entegre)
         // ========================================================================
-        // Hücre çekirdeği atomik frekansını voltaj dalgasına senkronize bağlıyoruz
-        const baseHz = 1000 + (sanPhase * 400) + (avpPhase * 600);
-        historyHZ.push(baseHz);
+        // 🧬 TÜM ODALARIN DİNAMİK FREKANS DEĞERLERİ (25 FPS Senkronizasyonlu)
+        const currentSAN_Hz = calculatedSAN ? (1000 + (Math.sin(now) * 400)) : 202;
+        const currentAVN_Hz = calculatedAVN ? (1000 + (Math.sin(now - 0.4) * 300)) : 396;
+        const currentAVP_Hz = calculatedAVP ? (1000 + (Math.sin(now - 0.8) * 600)) : 550;
+        const currentESC_Hz = calculatedESC ? (1000 + (Math.sin(now * 0.5) * 150)) : 676;
+        
+        // Eksik olan Mavi ve Mor odakların frekans salınımlarını buraya bağlıyoruz:
+        const currentVSS_Hz = calculatedVSS ? (1000 + (Math.sin(now - 1.2) * 500)) : 1080; // 🔵 Mavi
+        const currentCSF_Hz = 1200 + (Math.cos(now) * 350);                                // 🟣 Mor (Üst Kontrol)
+
+        // 🧮 KOLEKTİF SEGMENTASYON MATRİSİ: Tüm renklerin frekans harmonik ortalaması
+        // Mavi ve Mor odaların eklenmesi grafiğe derin vadi ve yüksek tepe kırılımlarını (detayı) getirir
+        const fullHarmonicHz = (currentSAN_Hz * 0.20) + 
+                               (currentAVN_Hz * 0.15) + 
+                               (currentAVP_Hz * 0.30) + 
+                               (currentESC_Hz * 0.10) + 
+                               (currentVSS_Hz * 0.15) + 
+                               (currentCSF_Hz * 0.10);
+        
+        historyHZ.push(fullHarmonicHz);
         if (historyHZ.length > hzCanvas.width) historyHZ.shift();
 
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
         
         // Izgara çizimi
-        hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.15)'; 
+        hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.1)'; 
         hzCtx.lineWidth = 0.5;
         for (let g = 0; g < hzCanvas.width; g += 20) { 
             hzCtx.beginPath(); hzCtx.moveTo(g, 0); hzCtx.lineTo(g, hzCanvas.height); hzCtx.stroke(); 
             hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
         }
 
-        const minScaleHz = 130; 
-        const maxScaleHz = 2600;
+        // 📐 DALGALANMAYI DETAYLI GÖREBİLMEK İÇİN EN OPTİMAL ÖLÇEKLENDİRME (Dynamic Scale Clamp)
+        // Sınırları verinin dalga boyuna göre esneterek çizgiyi ekrana tam oturtuyoruz
+        const minScaleHz = 900;   // Tabanı yukarı çekerek vadileri derinleştirdik
+        const maxScaleHz = 1500;  // Tavanı daraltarak tepeleri netleştirdik
         const hzScaleRange = maxScaleHz - minScaleHz; 
 
-        // 🎨 AKADEMİK PQRST RENKLERİYLE GRADYAN DALGALANMA (Kırmızı -> Turuncu -> Sarı)
-        // İstediğiniz akademik renk şelalesini doğrudan çizgi gradyanına bağlıyoruz
+        // 🎨 KESİNTİSİZ RENK ŞELALESİ GRADYANI (Soldan Sağa Tam Skala)
         let bottomGrad = hzCtx.createLinearGradient(0, 0, hzCanvas.width, 0);
-        bottomGrad.addColorStop(0, '#ff3333');   // 🔴 SAN Kırmızısı (Başlangıç)
-        bottomGrad.addColorStop(0.4, '#ff9933'); // 🟠 AVN Turuncusu (Köprü)
-        bottomGrad.addColorStop(0.7, '#ffff33'); // 🟡 AVP Sarısı (Zirve Vuruş)
-        bottomGrad.addColorStop(1, '#ff3333');   // Döngü sonu rezonans geri çekilmesi
+        bottomGrad.addColorStop(0, '#ff3333');   // 🔴 SAN Kırmızısı
+        bottomGrad.addColorStop(0.2, '#ff9933'); // 🟠 AVN Turuncusu
+        bottomGrad.addColorStop(0.4, '#ffff33'); // 🟡 AVP Sarısı
+        bottomGrad.addColorStop(0.6, '#33cc33'); // 🟢 ESC Yeşili
+        bottomGrad.addColorStop(0.8, '#3399ff'); // 🔵 VSS Mavisi
+        bottomGrad.addColorStop(1, '#9933ff');   // 🟣 CSF Moru
 
         hzCtx.strokeStyle = bottomGrad;
-        hzCtx.lineWidth = 2.0; // Çizgiyi biraz daha belirginleştirdik
-        hzCtx.beginPath();
+        hzCtx.lineWidth = 2.0; 
+        hzCtx.beginPath(); 
         for (let i = 0; i < historyHZ.length; i++) { 
             const x = hzCanvas.width - (historyHZ.length - i);
-            const normalizedY = (historyHZ[i] - minScaleHz) / hzScaleRange;
+            
+            let clampedHz = Math.max(minScaleHz, Math.min(maxScaleHz, historyHZ[i]));
+            const normalizedY = (clampedHz - minScaleHz) / hzScaleRange;
             const safeY = hzCanvas.height - (normalizedY * hzCanvas.height);
+            
             if (i === 0) hzCtx.moveTo(x, safeY); else hzCtx.lineTo(x, safeY);
         } 
         hzCtx.stroke();
+
+
+
     } // updateTelemetryPanel fonksiyonu bitti
+
+
+ // ========================================================================
+    // 🔮 ACADEMIC ORACLE INTERACTIVE MODAL & MATRIX SEAL
+    // ========================================================================
+    document.addEventListener("DOMContentLoaded", () => {
+        // Ekrandaki ACADEMIC ORACLE butonunu yakalıyoruz
+        const oracleBtn = document.querySelector(".academic-oracle, [id*='oracle'], .menu-item:nth-child(2)") || 
+                          Array.from(document.querySelectorAll('button, div')).find(el => el.textContent.includes('ACADEMIC ORACLE'));
+        
+        if (oracleBtn) {
+            oracleBtn.style.cursor = "pointer";
+            oracleBtn.addEventListener("click", () => {
+                alert(
+                    "🔮 [METATRON QUANTUM LAB - ACADEMIC ORACLE BEYANNAMESİ]\n\n" +
+                    "1. ÖLÇEKSEL FREKANS PARADİGMASI:\n" +
+                    "Bu simülasyon makro mekanik kalp döngüsünü değil, hücresel odaklardaki (SAN, AVN, AVP, ESC, VSS) atom çekirdeklerinin nükleer manyetik rezonans frekansını (1000 Hz / 1 kHz) baz alır. Ölçek küçüldükçe kuantum spin frekanslarının kHz düzeyine çıkması fiziksel bir realitedir.\n\n" +
+                    "2. HÜCRE ZARI POTANSİYEL DOĞRULAMASI:\n" +
+                    "Göstergelerdeki anlık mV değişimleri doğrudan hücresel membran potansiyellerini yansıtır. Hücre içi dinlenme (-90 mV) ve aksiyon potansiyeli tetiklenme (+37 mV) sınırları biyolojik gerçeklikle uyumludur.\n\n" +
+                    "3. MULTİ-SEGMENT HARMONİK REZONANS:\n" +
+                    "Alt osiloskop, üst kanalı taklit etmez. Tüm jeneratör odalarının faz gecikmeli ve ters akım bileşenlerini (SAN'dan CSF Sync'e kadar) renk spektrumuyla işleyen bağımsız bir harmonik analizördür."
+                );
+            });
+            console.log("%c[MATRIX SEAL] Academic Oracle altyapısı ve kuantum kalibrasyonu başarıyla kilitlendi.", "color: #9933ff; font-weight: bold;");
+        }
+    });
 
     // 🔄 MOTORU CANLI TUTAN RENDER DÖNGÜSÜ
     function renderLoop() { 
@@ -276,6 +328,9 @@
         requestAnimationFrame(renderLoop);
     } 
     renderLoop();
+
+
+    
 
     window.updateTelemetryPanel = updateTelemetryPanel;
 })();
