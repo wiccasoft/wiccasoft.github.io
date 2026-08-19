@@ -57,13 +57,7 @@ window.togglePerformanceMode = function() {
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
 
-        <!-- 🔋 ECO PERFORMANCE MATRIX -->
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 4px; background: rgba(255,255,255,0.02); border-radius: 4px; position: relative; z-index: 1000000; pointer-events: auto;">
-            <span style="color: #888; font-size: 0.8em; font-weight: bold; font-family: monospace;">ENGINE PERFORMANCE:</span>
-            <button id="perf-toggle-btn" onclick="window.togglePerformanceMode()" style="background: #111; color: #33ffff; border: 1px solid #33ffff; padding: 2px 8px; font-family: monospace; font-size: 0.8em; cursor: pointer; border-radius: 3px; box-shadow: 0 0 5px rgba(51,255,255,0.2); position: relative; z-index: 2000000; pointer-events: auto !important;">
-                60 FPS (TURBO)
-            </button>
-        </div>
+    
 
         <!-- ODA LİSTESİ -->
         <div id="telemetry-chambers-list"></div>
@@ -503,6 +497,24 @@ function updateTelemetryPanel() {
         requestAnimationFrame(renderLoop);
     } 
     renderLoop();
+
+
+
+    // 📡 MAIN.HTML'DEN GELEN PERFORMANS SİNYALİNİ HAVADA YAKALAYAN KULAKLIK
+window.addEventListener("message", (event) => {
+    if (event.data && event.data.komut === "SET_TARGET_FPS") {
+        const targetFPS = event.data.fps;
+        window.metatronTargetFPS = targetFPS;
+        
+        if (targetFPS === 25) {
+            window.metatronPulseSpeed = 0.035 * 1.2; // Senin o efsanevi 25 FPS çarpanın
+            console.log("[TELEMETRY CORE] Engine throttled down to 25 FPS Eco Mode.");
+        } else {
+            window.metatronPulseSpeed = 0.035; // Orijinal saf 60 FPS akış hızı
+            console.log("[TELEMETRY CORE] Engine cranked up to 60 FPS Turbo Mode.");
+        }
+    }
+});
 
 
     window.togglePerformanceMode = function() {
