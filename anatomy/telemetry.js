@@ -28,11 +28,11 @@
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
 
-          <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
+       <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
             <span>Live Rhythm:</span>
             <div>
-                <span id="telemetry-bpm" style="margin-right: 8px;">74 BPM</span>
-                <span id="telemetry-live-ms" style="font-size: 0.85em; opacity: 0.8;"></span>
+                <span id="telemetry-bpm" style="margin-right: 8px;">74 BPM (1.23 Hz)</span>
+                <span id="telemetry-live-ms" style="font-size: 0.85em; opacity: 0.8;">16 ms</span>
             </div>
         </div>
         
@@ -104,13 +104,12 @@ function updateTelemetryPanel() {
         if (!oscCtx || !hzCtx || !listContainer) return;
 
 
-         // 🩺 Live Rhythm ve Asystole (Kalp Durma) Durum Yönetimi
+  // 🩺 Live Rhythm ve Asystole (Kalp Durma) Durum Yönetimi
         const bpmEl = document.getElementById('telemetry-bpm');
         if (bpmEl) {
-            bpmEl.innerText = window.heartAnimationActive ? "74 BPM" : "0 BPM";
-            bpmEl.style.color = window.heartAnimationActive ? "#ff00ff" : "#ff3333";
+            bpmEl.innerText = window.heartAnimationActive ? "74 BPM (1.23 Hz)" : "0 BPM (0.00 Hz)";
+            bpmEl.style.color = window.heartAnimationActive ? "#ff00ff" : "#ff3333"; // Durunca ölüm kırmızısı
         }
-
 
         //if (data.cycleTimeMs) document.getElementById('telemetry-live-ms').innerText = data.cycleTimeMs + " ms"
         //document.getElementById('live-rhythm-val').innerText = window.heartAnimationActive ? "74 BPM" : "0 BPM (Asystole)";
