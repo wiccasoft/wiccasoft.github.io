@@ -315,8 +315,8 @@ function updateTelemetryPanel() {
         }
 
         
-  // ========================================================================
-        // 📊 3-BAND BIOMECHANICAL EQUALIZER (Saf Turuncu Akım & Dengeli T-Barı)
+         // ========================================================================
+        // 📊 3-BAND BIOMECHANICAL EQUALIZER (En Sevilen Dengeli Kuantum Sürümü)
         // ========================================================================
         let p_RawEnergy = 0;   
         let qrs_RawEnergy = 0; 
@@ -349,8 +349,6 @@ function updateTelemetryPanel() {
         }
 
         // 🩺 SAF AKADEMİK NORMALİZASYON (Katsayısız Evrensel Matrix Ölçekleme)
-        // T barındaki oda yükü dengelendiği için evrensel tavan sınırını 
-        // tüm barlar için tam rezonans değeri olan 4.5 birime çekiyoruz.
         const energyCeiling = 4.5; 
 
         let p_Height   = (p_RawEnergy / energyCeiling) * hzCanvas.height;
@@ -363,7 +361,6 @@ function updateTelemetryPanel() {
         t_Height   = Math.max(10, Math.min(hzCanvas.height - 10, t_Height));
 
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
-
         const hzTitle = document.getElementById('hz-title');
         if (hzTitle) hzTitle.innerText = "🌀 VORTEX RESONANCE FREQUENCY OSCILLOSCOPE (Hz)";
         
@@ -375,31 +372,30 @@ function updateTelemetryPanel() {
             hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
         }
 
-        const barWidth = hzCanvas.width / 4; 
-        const spacing = hzCanvas.width / 8; 
+          // ========================================================================
+        // 🎨 SAHA ORTALAMA MOTORU: 3 BANLI BIOMECHANICAL EQUALIZER ÇİZİM ALANI
+        // ========================================================================
+        hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
 
-        // 🟪 Bar 1: Mor (P Segmenti) -> En sol
-        let gradP = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - p_Height);
-        gradP.addColorStop(0, '#6600cc'); 
-        gradP.addColorStop(1, '#9933ff'); 
-        hzCtx.fillStyle = gradP;
-        hzCtx.fillRect(spacing, hzCanvas.height - p_Height, barWidth, p_Height);
+        // Canvas genişliğine göre barları tam ortalayan dinamik ölçüler
+        const barWidth = 32;       // Her bir barın ideal fütüristik genişliği
+        const barSpacing = 16;     // Barların arasındaki asil boşluk
+        const totalWidth = (barWidth * 3) + (barSpacing * 2); // Toplam matris genişliği
+        
+        // İlk barın başlayacağı sol koordinat (Canvası tam ortadan böler)
+        const startX = (hzCanvas.width - totalWidth) / 2;
 
-        // 🟥 Bar 2: Kırmızı + Turuncu + Sarı (QRS Zirve) -> Orta
-        let gradQRS = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - qrs_Height);
-        gradQRS.addColorStop(0, '#ff3333');   
-        gradQRS.addColorStop(0.5, '#ff9933'); 
-        gradQRS.addColorStop(1, '#ffff33');   
-        hzCtx.fillStyle = gradQRS;
-        hzCtx.fillRect(spacing * 2 + barWidth, hzCanvas.height - qrs_Height, barWidth, qrs_Height);
+        // 🟣 Bar 1: P BAR (Atrial / Mor)
+        hzCtx.fillStyle = "#ff00ff";
+        hzCtx.fillRect(startX, hzCanvas.height - p_Height, barWidth, p_Height);
 
-        // 🟩 Bar 3: Yeşil + Mavi (T Segmenti) -> En sağ
-        let gradT = hzCtx.createLinearGradient(0, hzCanvas.height, 0, hzCanvas.height - t_Height);
-        gradT.addColorStop(0, '#3399ff'); 
-        gradT.addColorStop(1, '#33cc33'); 
-        hzCtx.fillStyle = gradT;
-        hzCtx.fillRect(spacing * 3 + barWidth * 2, hzCanvas.height - t_Height, barWidth, t_Height);
+        // 🟠 Bar 2: QRS BAR (Turuncu Şok / Şimşek)
+        hzCtx.fillStyle = "#ff9900";
+        hzCtx.fillRect(startX + barWidth + barSpacing, hzCanvas.height - qrs_Height, barWidth, qrs_Height);
 
+        // 🟢 Bar 3: T BAR (Repolarization / Yeşil-Mavi)
+        hzCtx.fillStyle = "#33ff33";
+        hzCtx.fillRect(startX + (barWidth * 2) + (barSpacing * 2), hzCanvas.height - t_Height, barWidth, t_Height);
     } // updateTelemetryPanel fonksiyonu bitti
 
    // ========================================================================
