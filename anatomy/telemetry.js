@@ -315,31 +315,52 @@ function updateTelemetryPanel() {
         }
 
         
+  // ========================================================================
+        // 📊 3-BAND BIOMECHANICAL EQUALIZER (Saf Turuncu Akım & Dengeli T-Barı)
         // ========================================================================
-        // 📊 3-BAND FIXED BIO-EQUALIZER (P->QRS->T Conduction Engine Titles)
-        // ========================================================================
-        let p_Height = 0;   
-        let qrs_Height = 0; 
-        let t_Height = 0;   
+        let p_RawEnergy = 0;   
+        let qrs_RawEnergy = 0; 
+        let t_RawEnergy = 0;   
 
-        if (loopTime < 200) {
-            const progress = loopTime / 200;
-            p_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.4); 
-            qrs_Height = Math.sin(nowTime) * 5; 
-            t_Height = Math.cos(nowTime) * 3;
-        } 
-        else if (loopTime >= 200 && loopTime < 400) {
-            const progress = (loopTime - 200) / 200;
-            qrs_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.95); 
-            p_Height = Math.sin(nowTime) * 4;
-            t_Height = Math.cos(nowTime) * 3;
-        } 
-        else {
-            const progress = (loopTime - 400) / 400;
-            t_Height = Math.sin(progress * Math.PI) * (hzCanvas.height * 0.55);
-            p_Height = Math.cos(nowTime) * 3;
-            qrs_Height = Math.sin(nowTime) * 5;
+        if (window.METATRON_SPECTRUM_MODEL && window.chambers) {
+            window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
+                const mesh = window.chambers[ch.id];
+                const currentWave = (mesh && mesh.userData && mesh.userData.currentWave) !== undefined 
+                                    ? mesh.userData.currentWave 
+                                    : 0.2;
+
+                // 🌟 SAF REEL ENERJİ: Odanın öz ivmesi (ch.e) ile canlı dalganın hilesiz çarpımı
+                const rawEnergy = Number(ch.e) * currentWave;
+
+                if (ch.id === 1) {
+                    // 🟣 P BAR (Atrial Shock): Tek oda (Kırmızı)
+                    p_RawEnergy += rawEnergy; 
+                } 
+                else if (ch.id === 4 || ch.id === 3) {
+                    // 🟠 QRS BAR (Asıl Turuncu Pompa & Beyaz Aks): 2 odanın saf toplamı
+                    qrs_RawEnergy += rawEnergy; 
+                } 
+                else if (ch.id === 5 || ch.id === 6 || ch.id === 8 || ch.id === 7) {
+                    // 🟢 T BAR (Repolarization): 4 odanın (Mor, Siyah, Yeşil, Mavi) yığılmasını engellemek,
+                    // fazla odayı absorbe etmek için toplam enerjiyi oda sayısı olan 4'e bölüyoruz!
+                    t_RawEnergy += rawEnergy / 4; 
+                }
+            });
         }
+
+        // 🩺 SAF AKADEMİK NORMALİZASYON (Katsayısız Evrensel Matrix Ölçekleme)
+        // T barındaki oda yükü dengelendiği için evrensel tavan sınırını 
+        // tüm barlar için tam rezonans değeri olan 4.5 birime çekiyoruz.
+        const energyCeiling = 4.5; 
+
+        let p_Height   = (p_RawEnergy / energyCeiling) * hzCanvas.height;
+        let qrs_Height = (qrs_RawEnergy / energyCeiling) * hzCanvas.height;
+        let t_Height   = (t_RawEnergy / energyCeiling) * hzCanvas.height;
+
+        // 🛡️ Canvas Sınır Koruyucuları (Sıvı gibi pürüzsüz limit koruması)
+        p_Height   = Math.max(10, Math.min(hzCanvas.height - 10, p_Height));
+        qrs_Height = Math.max(10, Math.min(hzCanvas.height - 10, qrs_Height));
+        t_Height   = Math.max(10, Math.min(hzCanvas.height - 10, t_Height));
 
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
 
