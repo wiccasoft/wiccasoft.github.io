@@ -149,8 +149,14 @@ iframe {
 
 
  
-<!-- 🎛️ AKADEMİSYENLERİ HİPNOZ EDECEK INTERFACE PANELİ -->
-  <div id="matrix-control-panel">
+<!-- 🎛️ SİBERPUNK INTERFACE KONTROL PANELI -->
+  <div id="matrix-control-panel" style="display: flex; gap: 15px; align-items: center; background: rgba(0,0,0,0.5); padding: 5px 15px; border-radius: 0 0 15px 15px; border: 1px solid rgba(51,255,255,0.1); border-top: none;">
+      
+      <!-- 🔋 ECO PERFORMANCE SWITCH (Direct main.html Engine Key) -->
+      <button id="perf-toggle-btn" class="cyber-btn" onclick="toggleMainPerformanceMode()" style="color: #33ffff; border-color: #33ffff; box-shadow: 0 0 5px rgba(51,255,255,0.2);">
+          60 FPS (TURBO)
+      </button>
+
       <!-- Mod Değiştirici Buton (Ten rengi gürültüsünü siler, turuncu küreyi parlatır) -->
       <button id="toggle-filter-btn" class="cyber-btn" onclick="toggleMatrixIllusionFilter()">
           Matrix
@@ -161,8 +167,6 @@ iframe {
           🔮 Academic Oracle
       </button>
   </div>
-
-
 
   <!-- 🪟 SLIDE MENU TETİKLEYİCİ ŞERİT (Ekranın en solunda incecik mor bir çizgi olarak pusuda bekler) -->
 <div id="slideMenuTrigger" onclick="toggleSlideMenu()" style="
@@ -356,6 +360,37 @@ function switchAcademicTab(targetTab) {
     }
 }
 
+
+// 🔋 ECO ENGINE KÖPRÜ SÜRÜCÜSÜ (main.html -> anatomy.html Iframe Postman)
+window.mainTargetFPS = 60;
+
+function toggleMainPerformanceMode() {
+    const btn = document.getElementById('perf-toggle-btn');
+    const iframe = document.getElementById("anatomy-engine");
+    if (!btn || !iframe || !iframe.contentWindow) return;
+
+    if (window.mainTargetFPS === 60) {
+        // ECO MOD SİNYALİ
+        window.mainTargetFPS = 25;
+        btn.innerText = "25 FPS (ECO)";
+        btn.style.color = "#99ff33"; // Çevre dostu eko yeşili
+        btn.style.borderColor = "#99ff33";
+        btn.style.boxShadow = "0 0 8px rgba(153,255,51,0.3)";
+        
+        // Iframe içerisindeki telemetry.js ve metatron.js'i tetikle
+        iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: 25 }, "*");
+    } else {
+        // TURBO MOD SİNYALİ
+        window.mainTargetFPS = 60;
+        btn.innerText = "60 FPS (TURBO)";
+        btn.style.color = "#33ffff"; // Siber punk neon mavi
+        btn.style.borderColor = "#33ffff";
+        btn.style.boxShadow = "0 0 8px rgba(51,255,255,0.3)";
+        
+        // Iframe içerisindeki telemetry.js ve metatron.js'i tetikle
+        iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: 60 }, "*");
+    }
+}
 
 
 // 🔳 MESSAGING TETİKLEYİCİLERİ
