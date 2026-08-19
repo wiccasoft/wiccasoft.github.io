@@ -29,8 +29,8 @@
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
 
         <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
-            <span>Gerçek Ritim:</span>
-            <span id="telemetry-live-ms">Hesaplanıyor...</span>
+            <span>Live Rhythm:</span>
+            <span id="telemetry-live-ms">Calculating...</span>
         </div>
         
         
@@ -38,16 +38,16 @@
             <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;">🧠 SIRKA-LÜNAR HYDRO-CSF SYNC</div>
             <div style="display:flex; flex-direction:column; gap:4px; line-height: 14px;">
                 <div style="display:flex; justify-content:space-between;">
-                    <span>Kozmik Evre: <span id="lunar-phase" style="font-weight:bold;">-</span></span>
+                    <span>Cosmic Phase: <span id="lunar-phase" style="font-weight:bold;">-</span></span>
                 </div>
                 <div style="display:flex; justify-content:space-between;">
-                    <span>Beden Saati:  <span id="circadian-clock" style="font-weight:bold;">-</span></span>
+                    <span>Circadian Clock:  <span id="circadian-clock" style="font-weight:bold;">-</span></span>
                 </div>
                 <div style="display:flex; justify-content:space-between;">
-                    <span>CSF Basınç:  <span id="csf-pressure" style="font-weight:bold;">-</span></span>
+                    <span>CSF Pressure:  <span id="csf-pressure" style="font-weight:bold;">-</span></span>
                 </div>
                 <div style="display:flex; justify-content:space-between;">
-                    <span>Metabolizma: <span id="metabolic-mode" style="font-weight:bold;">-</span></span>
+                    <span>Metabolism: <span id="metabolic-mode" style="font-weight:bold;">-</span></span>
                 </div>
             </div>
         </div>
@@ -55,13 +55,13 @@
         <!-- ODA LİSTESİ -->
         <div id="telemetry-chambers-list"></div>
         
-        <!-- 🌱 4 ELEMENT & METABOLİK MATRİS -->
+   <!-- 🌱 4 ELEMENTS & METABOLIC MATRIX -->
         <div class="canvas-container">
             <div style="color:#fff; font-weight:bold; margin-bottom:5px;">🌱 METABOLIC & ELEMENTAL MATRIX</div>
-            <div id="fire-idx" class="element-row" style="color:#ff3333">🔥 ATEŞ (Aksiyon Potansiyeli): %0</div>
-            <div id="air-idx" class="element-row" style="color:#33ffff">💨 HAVA (Rezonans İletimi): %0</div>
-            <div id="water-idx" class="element-row" style="color:#3399ff">💧 SU (Hemodinamik Akış): %0</div>
-            <div id="earth-idx" class="element-row" style="color:#99ff33">🌱 TOPRAK (Hücresel Tampon): %0</div>
+            <div id="fire-idx" class="element-row" style="color:#ff3333">🔥 FIRE (Action Potential): %0</div>
+            <div id="air-idx" class="element-row" style="color:#33ffff">💨 AIR (Resonance Conduction): %0</div>
+            <div id="water-idx" class="element-row" style="color:#3399ff">💧 WATER (Hemodynamic Flow): %0</div>
+            <div id="earth-idx" class="element-row" style="color:#99ff33">🌱 EARTH (Cellular Buffer): %0</div>
         </div>
 
         <div class="canvas-container">
@@ -69,7 +69,7 @@
             <canvas id="mvOscilloscope" width="290" height="70"></canvas>
         </div>
         <div class="canvas-container">
-            <div>🌀 GİRDAP REZONANS FREKANS OSİLOSKOPU (Hz)</div>
+            <div>🌀 VORTEX RESONANCE FREQUENCY OSCILLOSCOPE (Hz)</div>
             <canvas id="hzOscilloscope" width="290" height="70"></canvas>
         </div>
     `;
@@ -107,15 +107,25 @@ function updateTelemetryPanel() {
         // ========================================================================
         // 📊 MERKEZİ ZAMAN MOTORU (Zaman Tanımları En Üste Alındı)
         // ========================================================================
-        const loopTime = (Date.now()) % 800; 
-        window.MetatronMasterClock = loopTime; // Küresel havuz
-        const nowTime = (loopTime / 800) * Math.PI * 2; 
+let loopTime = 0;
+        
+        // 🩺 Eğer Metatron Kalbi aktifse zamanı akıt, durdurulduysa zamanı sıfırla (Düz Çizgi)
+        if (window.heartAnimationActive === true) {
+            loopTime = (Date.now()) % 800; 
+            window.MetatronMasterClock = loopTime; // Küresel havuzu besle
+        } else {
+            loopTime = 0;
+            window.MetatronMasterClock = 0; // Küresel havuzu ölüm çizgisine kilitle
+        }
+        
+        const nowTime = (loopTime / 800) * Math.PI * 2;
 
         if (data.lunarPhase) document.getElementById('lunar-phase').innerText = data.lunarPhase;
         if (data.circadianTime) document.getElementById('circadian-clock').innerText = data.circadianTime;
         if (data.csfPressure) document.getElementById('csf-pressure').innerText = data.csfPressure + " mmHg";
         if (data.metabolicMode) document.getElementById('metabolic-mode').innerText = data.metabolicMode;
         if (data.cycleTimeMs) document.getElementById('telemetry-live-ms').innerText = data.cycleTimeMs + " ms";
+
 
         let html = "";
         let totalHZ = 0;
@@ -183,18 +193,19 @@ function updateTelemetryPanel() {
 
         listContainer.innerHTML = html;
 
-        // ========================================================================
-        // 🔥 4 ELEMENT VE METABOLİK YOLAK HESAPLARI (Döngü Sonrası Güvenli Alan)
+   // ========================================================================
+        // 🔥 4 ELEMENTS & METABOLIC PATHWAY (Academic English Translation)
         // ========================================================================
         fireScore = Math.max(0, Math.min(100, ((maxMV + 90) / 210) * 100));
         airScore = Math.max(0, Math.min(100, (1.0 - Math.abs((totalHZ / (activeCount || 1)) - 510) / 250) * 100));
         waterScore = Math.max(0, Math.min(100, (totalWave / (activeCount || 1)) * 100));
         earthScore = Math.max(0, Math.min(100, (Math.abs(minMV) / 90) * 100));
 
-        document.getElementById('fire-idx').innerHTML  = `🔥 ATEŞ (Aksiyon Potansiyeli): %${fireScore.toFixed(0)}`;
-        document.getElementById('air-idx').innerHTML   = `💨 HAVA (Rezonans İletimi):  %${airScore.toFixed(0)}`;
-        document.getElementById('water-idx').innerHTML = `💧 SU (Hemodinamik Akış):   %${waterScore.toFixed(0)}`;
-        document.getElementById('earth-idx').innerHTML = `🌱 TOPRAK (Hücresel Tampon): %${earthScore.toFixed(0)}`;
+        document.getElementById('fire-idx').innerHTML  = `🔥 FIRE (Action Potential): %${fireScore.toFixed(0)}`;
+        document.getElementById('air-idx').innerHTML   = `💨 AIR (Resonance Conduction): %${airScore.toFixed(0)}`;
+        document.getElementById('water-idx').innerHTML = `💧 WATER (Hemodynamic Flow): %${waterScore.toFixed(0)}`;
+        document.getElementById('earth-idx').innerHTML = `🌱 EARTH (Cellular Buffer): %${earthScore.toFixed(0)}`;
+
 
      // ========================================================================
         // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Her Vuruşta Tek Bir PQRST)
@@ -249,8 +260,6 @@ function updateTelemetryPanel() {
 
 
 
-         oscCtx.stroke();
-
         // ========================================================================
         // 🔴 KUVVETLİ BLIP: Çift Girdap Dalgalanmasını Takip Eden Neon Nokta
         // ========================================================================
@@ -275,7 +284,7 @@ function updateTelemetryPanel() {
 
         
         // ========================================================================
-        // 📊 3 BANT SABİT BİYO-EKOLAYZIR MOTORU (P->QRS->T Akış Sıralaması)
+        // 📊 3-BAND FIXED BIO-EQUALIZER (P->QRS->T Conduction Engine Titles)
         // ========================================================================
         let p_Height = 0;   
         let qrs_Height = 0; 
@@ -301,6 +310,9 @@ function updateTelemetryPanel() {
         }
 
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
+
+        const hzTitle = document.getElementById('hz-title');
+        if (hzTitle) hzTitle.innerText = "🌀 VORTEX RESONANCE FREQUENCY OSCILLOSCOPE (Hz)";
         
         // Sabit Arka Plan Izgarası
         hzCtx.strokeStyle = 'rgba(93, 26, 54, 0.08)'; 
