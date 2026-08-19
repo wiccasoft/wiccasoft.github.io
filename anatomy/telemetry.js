@@ -6,13 +6,14 @@
 
     // 1. UI ve Tıbbi Kontrol Paneli CSS Kurulumu
     const style = document.createElement('style');
-    style.textContent = `
+    style.textContent =style.textContent = `
         #quantum-telemetry-dashboard {
             position: fixed; top: 10px; right: 10px; width: 320px;
-            background: rgba(10, 16, 26, 0.85); border: 1px solid #1a365d;
-            box-shadow: 0 0 20px rgba(0, 255, 255, 0.1); border-radius: 8px;
+            background: rgba(10, 16, 26, 0.92); border: 1px solid #1a365d;
+            box-shadow: 0 0 25px rgba(0, 255, 255, 0.15); border-radius: 8px;
             font-family: 'Courier New', monospace; color: #00ffcc;
-            padding: 15px; z-index: 9999; font-size: 11px; pointer-events: auto;
+            padding: 15px; z-index: 999999 !important; font-size: 11px; 
+            pointer-events: auto !important;
         }
             
         .telemetry-title { text-align: center; font-weight: bold; border-bottom: 1px dashed #1a365d; padding-bottom: 5px; margin-bottom: 10px; color: #ffffff; }
@@ -20,6 +21,12 @@
         .canvas-container { margin-top: 12px; border-top: 1px dashed #1a365d; padding-top: 8px; }
         canvas { background: #050a12; border: 1px solid #112244; display: block; margin-top: 5px; }
         .element-row { display: flex; justify-content: space-between; margin: 3px 0; font-weight: bold; }
+        
+        /* Butonun hover anında tam bir siberpunk parlaması yapması için mikro glif */
+        #perf-toggle-btn:hover {
+            background: #222 !important;
+            filter: brightness(1.2);
+        }
     `;
     document.head.appendChild(style);
 
@@ -27,6 +34,14 @@
     dashboard.id = 'quantum-telemetry-dashboard';
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
+
+ <!-- 🔋 ECO PERFORMANCE MATRIX (Kırılmaz Tıklama Kilitleri Entegre Edildi) -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 4px; background: rgba(255,255,255,0.02); border-radius: 4px; position: relative; z-index: 1000000; pointer-events: auto;">
+            <span style="color: #888; font-size: 0.8em; font-weight: bold; font-family: monospace;">ENGINE PERFORMANCE:</span>
+            <button id="perf-toggle-btn" onclick="if(window.togglePerformanceMode) window.togglePerformanceMode(); else console.error('Engine core missing!');" style="background: #111; color: #33ffff; border: 1px solid #33ffff; padding: 2px 8px; font-family: monospace; font-size: 0.8em; cursor: pointer; border-radius: 3px; box-shadow: 0 0 5px rgba(51,255,255,0.2); position: relative; z-index: 2000000; pointer-events: auto !important;">
+                60 FPS (TURBO)
+            </button>
+        </div>
         <div style="background: rgba(255,255,255,0.03); padding: 7px; border-radius: 4px; border: 1px solid #1a365d; margin-bottom: 10px;">
             <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;"></div>
             <div style="display:flex; flex-direction:column; gap:4px; line-height: 14px;">
@@ -84,6 +99,10 @@
     `;
     document.body.appendChild(dashboard);
 
+
+    window.metatronTargetFPS = window.metatronTargetFPS || 60; // Varsayılan turbo mod
+let lastTelemetryTime = performance.now();
+
     const oscCanvas = document.getElementById("mvOscilloscope");
     const oscCtx = oscCanvas ? oscCanvas.getContext("2d") : null;
     const hzCanvas = document.getElementById("hzOscilloscope");
@@ -110,6 +129,17 @@
 function updateTelemetryPanel() {
         if (!oscCtx || !hzCtx || !listContainer) return;
 
+
+
+        // 🔋 KINETIC ENGINE THROTTLING (Ekran Kartı ve Pil Koruyucu Baraj)
+        const simdi = performance.now();
+        const gecenSure = simdi - lastTelemetryTime;
+        const gerekenInterval = window.metatronTargetFPS === 25 ? 40 : 16.66; // 25 FPS için 40ms, 60 FPS için 16.6ms Barajı
+
+        if (gecenSure < gerekenInterval) {
+            return; // Ekran kartı henüz dinleniyor, renderı pas geç, işlemciyi yorma!
+        }
+        lastTelemetryTime = simdi - (gecenSure % gerekenInterval);
 
   // 🩺 Live Rhythm ve Asystole (Kalp Durma) Durum Yönetimi
         const bpmEl = document.getElementById('telemetry-bpm');
@@ -470,7 +500,30 @@ function updateTelemetryPanel() {
     renderLoop();
 
 
-    
+    window.togglePerformanceMode = function() {
+    const btn = document.getElementById('perf-toggle-btn');
+    if (!btn) return;
+
+    if (window.metatronTargetFPS === 60) {
+        // 🔋 ECO MODA GEÇİŞ (25 FPS)
+        window.metatronTargetFPS = 25;
+        window.metatronPulseSpeed = 0.035 * 1.2; // Senin o yukarıda keşfettiğin 25 FPS rezonans çarpanı!
+        btn.innerText = "25 FPS (ECO)";
+        btn.style.color = "#99ff33"; // Çevre dostu eko yeşili
+        btn.style.borderColor = "#99ff33";
+        btn.style.boxShadow = "0 0 5px rgba(153,255,51,0.2)";
+    } else {
+        // 🚀 TURBO MODA GEÇİŞ (60 FPS)
+        window.metatronTargetFPS = 60;
+        window.metatronPulseSpeed = 0.035; // Orijinal 60 FPS akış hızı
+        btn.innerText = "60 FPS (TURBO)";
+        btn.style.color = "#33ffff"; // Siber punk neon mavi
+        btn.style.borderColor = "#33ffff";
+        btn.style.boxShadow = "0 0 5px rgba(51,255,255,0.2)";
+    }
+};
 
     window.updateTelemetryPanel = updateTelemetryPanel;
 })();
+
+
