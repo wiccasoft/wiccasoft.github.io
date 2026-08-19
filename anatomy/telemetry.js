@@ -1,12 +1,38 @@
 // ==========================================================================================
 // 📊 METATRON ADVANCED QUANTUM TELEMETRY DASHBOARD WITH LUNAR & CSF ENGINE - (c) 2026
 // ==========================================================================================
+
+// 🔋 GLOBAL ECO PERFORMANCE ENGINE (Kilitlenmeyi Kökten Çözen En Tepe Mühür)
+window.metatronTargetFPS = window.metatronTargetFPS || 60; 
+window.metatronPulseSpeed = 0.035;
+
+window.togglePerformanceMode = function() {
+    const btn = document.getElementById('perf-toggle-btn');
+    if (!btn) return;
+
+    if (window.metatronTargetFPS === 60) {
+        window.metatronTargetFPS = 25;
+        window.metatronPulseSpeed = 0.035 * 1.2; // 25 FPS Adaptasyon Çarpanı
+        btn.innerText = "25 FPS (ECO)";
+        btn.style.color = "#99ff33"; 
+        btn.style.borderColor = "#99ff33";
+        btn.style.boxShadow = "0 0 5px rgba(153,255,51,0.2)";
+    } else {
+        window.metatronTargetFPS = 60;
+        window.metatronPulseSpeed = 0.035; 
+        btn.innerText = "60 FPS (TURBO)";
+        btn.style.color = "#33ffff"; 
+        btn.style.borderColor = "#33ffff";
+        btn.style.boxShadow = "0 0 5px rgba(51,255,255,0.2)";
+    }
+};
+
 (function() {
     "use strict";
 
     // 1. UI ve Tıbbi Kontrol Paneli CSS Kurulumu
     const style = document.createElement('style');
-    style.textContent =style.textContent = `
+    style.textContent = `
         #quantum-telemetry-dashboard {
             position: fixed; top: 10px; right: 10px; width: 320px;
             background: rgba(10, 16, 26, 0.92); border: 1px solid #1a365d;
@@ -22,11 +48,7 @@
         canvas { background: #050a12; border: 1px solid #112244; display: block; margin-top: 5px; }
         .element-row { display: flex; justify-content: space-between; margin: 3px 0; font-weight: bold; }
         
-        /* Butonun hover anında tam bir siberpunk parlaması yapması için mikro glif */
-        #perf-toggle-btn:hover {
-            background: #222 !important;
-            filter: brightness(1.2);
-        }
+        #perf-toggle-btn:hover { background: #222 !important; filter: brightness(1.2); }
     `;
     document.head.appendChild(style);
 
@@ -35,29 +57,12 @@
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
 
- <!-- 🔋 ECO PERFORMANCE MATRIX (Kırılmaz Tıklama Kilitleri Entegre Edildi) -->
+        <!-- 🔋 ECO PERFORMANCE MATRIX -->
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 4px; background: rgba(255,255,255,0.02); border-radius: 4px; position: relative; z-index: 1000000; pointer-events: auto;">
             <span style="color: #888; font-size: 0.8em; font-weight: bold; font-family: monospace;">ENGINE PERFORMANCE:</span>
-            <button id="perf-toggle-btn" onclick="if(window.togglePerformanceMode) window.togglePerformanceMode(); else console.error('Engine core missing!');" style="background: #111; color: #33ffff; border: 1px solid #33ffff; padding: 2px 8px; font-family: monospace; font-size: 0.8em; cursor: pointer; border-radius: 3px; box-shadow: 0 0 5px rgba(51,255,255,0.2); position: relative; z-index: 2000000; pointer-events: auto !important;">
+            <button id="perf-toggle-btn" onclick="window.togglePerformanceMode()" style="background: #111; color: #33ffff; border: 1px solid #33ffff; padding: 2px 8px; font-family: monospace; font-size: 0.8em; cursor: pointer; border-radius: 3px; box-shadow: 0 0 5px rgba(51,255,255,0.2); position: relative; z-index: 2000000; pointer-events: auto !important;">
                 60 FPS (TURBO)
             </button>
-        </div>
-        <div style="background: rgba(255,255,255,0.03); padding: 7px; border-radius: 4px; border: 1px solid #1a365d; margin-bottom: 10px;">
-            <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;"></div>
-            <div style="display:flex; flex-direction:column; gap:4px; line-height: 14px;">
-                <div style="display:flex; justify-content:space-between;">
-                    <span>Cosmic Phase: <span id="lunar-phase" style="font-weight:bold;">-</span></span>
-                </div>
-                <div style="display:flex; justify-content:space-between;">
-                    <span>Circadian Clock:  <span id="circadian-clock" style="font-weight:bold;">-</span></span>
-                </div>
-                <div style="display:flex; justify-content:space-between;">
-                    <span>CSF Pressure:  <span id="csf-pressure" style="font-weight:bold;">-</span></span>
-                </div>
-                <div style="display:flex; justify-content:space-between;">
-                    <span>Metabolism: <span id="metabolic-mode" style="font-weight:bold;">-</span></span>
-                </div>
-            </div>
         </div>
 
         <!-- ODA LİSTESİ -->
