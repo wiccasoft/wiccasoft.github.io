@@ -28,13 +28,7 @@
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
 
-       <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
-            <span>Live Rhythm:</span>
-            <div>
-                <span id="telemetry-bpm" style="margin-right: 8px;">74 BPM (1.23 Hz)</span>
-                <span id="telemetry-live-ms" style="font-size: 0.85em; opacity: 0.8;">16 ms</span>
-            </div>
-        </div>
+    
         
         <div style="background: rgba(255,255,255,0.03); padding: 7px; border-radius: 4px; border: 1px solid #1a365d; margin-bottom: 10px;">
             <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;">🧠 SIRKA-LÜNAR HYDRO-CSF SYNC</div>
@@ -59,13 +53,19 @@
         
    <!-- 🌱 4 ELEMENTS & METABOLIC MATRIX -->
         <div class="canvas-container">
-            <div style="color:#fff; font-weight:bold; margin-bottom:5px;">🌱 METABOLIC & ELEMENTAL MATRIX</div>
-            <div id="fire-idx" class="element-row" style="color:#ff3333">🔥 FIRE (Action Potential): </div>
-            <div id="air-idx" class="element-row" style="color:#33ffff">💨 AIR (Resonance Conduction):</div>
-            <div id="water-idx" class="element-row" style="color:#3399ff">💧 WATER (Hemodynamic Flow): </div>
-            <div id="earth-idx" class="element-row" style="color:#99ff33">🌱 EARTH (Cellular Buffer): </div>
+            <div style="color:#fff; font-weight:bold; margin-bottom:5px;">METABOLIC & ELEMENTAL MATRIX</div>
+            <div id="fire-idx" class="element-row" style="color:#ff3333">FIRE (Action Potential): </div>
+            <div id="air-idx" class="element-row" style="color:#FFA500">AIR (Resonance Conduction):</div>
+            <div id="water-idx" class="element-row" style="color:#3399ff">WATER (Hemodynamic Flow): </div>
+            <div id="earth-idx" class="element-row" style="color:#99ff33">EARTH (Cellular Buffer): </div>
         </div>
-
+   <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
+            <span>Live Rhythm:</span>
+            <div>
+                <span id="telemetry-bpm" style="margin-right: 8px;">74 BPM (1.23 Hz)</span>
+                <span id="telemetry-live-ms" style="font-size: 0.85em; opacity: 0.8;">16 ms</span>
+            </div>
+        </div>
         <div class="canvas-container">
             <div>📡  LEAD V5 FOCUS (Single-Cell Action Potential)</div>
             <canvas id="mvOscilloscope" width="290" height="70"></canvas>
@@ -219,10 +219,10 @@ function updateTelemetryPanel() {
         const elWater = document.getElementById('water-idx');
         const elEarth = document.getElementById('earth-idx');
 
-        if (elFire)  elFire.innerHTML  = `🔥 FIRE (Action Potential): %${fireScore.toFixed(0)}`;
-        if (elAir)   elAir.innerHTML   = `💨 AIR (Resonance Conduction): %${airScore.toFixed(0)}`;
-        if (elWater) elWater.innerHTML = `💧 WATER (Hemodynamic Flow): %${waterScore.toFixed(0)}`;
-        if (elEarth) elEarth.innerHTML = `🌱 EARTH (Cellular Buffer): %${earthScore.toFixed(0)}`;
+        if (elFire)  elFire.innerHTML  = `FIRE (Action Potential): %${fireScore.toFixed(0)}`;
+        if (elAir)   elAir.innerHTML   = `AIR (Resonance Conduction): %${airScore.toFixed(0)}`;
+        if (elWater) elWater.innerHTML = `WATER (Hemodynamic Flow): %${waterScore.toFixed(0)}`;
+        if (elEarth) elEarth.innerHTML = `EARTH (Cellular Buffer): %${earthScore.toFixed(0)}`;
 
         // ========================================================================
         // ⏱️ GÜVENLİ MİLİSANİYE MOTORU (data.cycleTimeMs Bypass Alanı)
