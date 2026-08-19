@@ -27,11 +27,8 @@
     dashboard.id = 'quantum-telemetry-dashboard';
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
-
-    
-        
         <div style="background: rgba(255,255,255,0.03); padding: 7px; border-radius: 4px; border: 1px solid #1a365d; margin-bottom: 10px;">
-            <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;">🧠 SIRKA-LÜNAR HYDRO-CSF SYNC</div>
+            <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;"></div>
             <div style="display:flex; flex-direction:column; gap:4px; line-height: 14px;">
                 <div style="display:flex; justify-content:space-between;">
                     <span>Cosmic Phase: <span id="lunar-phase" style="font-weight:bold;">-</span></span>
@@ -51,14 +48,24 @@
         <!-- ODA LİSTESİ -->
         <div id="telemetry-chambers-list"></div>
         
-   <!-- 🌱 4 ELEMENTS & METABOLIC MATRIX -->
+ <!-- 🌱 4 ELEMENTS & METABOLIC MATRIX (TABULAR ACADEMIC MODE) -->
         <div class="canvas-container">
-            <div style="color:#fff; font-weight:bold; margin-bottom:5px;">METABOLIC & ELEMENTAL MATRIX</div>
-            <div id="fire-idx" class="element-row" style="color:#ff3333">FIRE (Action Potential): </div>
-            <div id="air-idx" class="element-row" style="color:#FFA500">AIR (Resonance Conduction):</div>
-            <div id="water-idx" class="element-row" style="color:#3399ff">WATER (Hemodynamic Flow): </div>
-            <div id="earth-idx" class="element-row" style="color:#99ff33">EARTH (Cellular Buffer): </div>
+            <div style="color:#fff; font-weight:bold; margin-bottom:6px; font-size: 0.9em; letter-spacing: 0.5px;"></div>
+            
+            <!-- Başlık Satırı -->
+            <div class="chamber-row" style="background: rgba(255,255,255,0.05); font-weight: bold; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 4px;">
+                <span style="color: #aaa;">MATRIX</span>
+                <span style="color: #aaa;">VOLTAGE</span>
+                <span style="color: #aaa;">RESONANCE</span>
+            </div>
+
+            <!-- Canlı Tablo Satırları (JS Buraya Doğrudan innerHTML Çakacak) -->
+            <div id="elemental-table-body">
+                <!-- Canlı Veriler Buraya Akacak -->
+            </div>
         </div>
+
+
    <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
             <span>Live Rhythm:</span>
             <div>
@@ -205,25 +212,47 @@ function updateTelemetryPanel() {
 
         listContainer.innerHTML = html;
 
-  // ========================================================================
-        // 🔥 4 ELEMENTS & METABOLIC PATHWAY (Kusursuz Karakter ve Güvenlik Kilidi)
+         // ========================================================================
+        // 🔥 4 ELEMENTS & METABOLIC PATHWAY (Hizalı Tablo & Voltaj Katmanı Motoru)
         // ========================================================================
         fireScore = Math.max(0, Math.min(100, ((maxMV + 90) / 210) * 100));
         airScore = Math.max(0, Math.min(100, (1.0 - Math.abs((totalHZ / (activeCount || 1)) - 510) / 250) * 100));
         waterScore = Math.max(0, Math.min(100, (totalWave / (activeCount || 1)) * 100));
         earthScore = Math.max(0, Math.min(100, (Math.abs(minMV) / 90) * 100));
 
-        // Bozuk karakterleri engellemek için doğrudan temiz string formatı kullanıyoruz
-        const elFire = document.getElementById('fire-idx');
-        const elAir = document.getElementById('air-idx');
-        const elWater = document.getElementById('water-idx');
-        const elEarth = document.getElementById('earth-idx');
+        // 🩺 İlk Versiyondaki Canlı Voltaj ve İletkenlik Akor Hesaplamaları (Geri Döndü!)
+        // Elementlerin biyofiziksel gerilim karşılıkları
+        const fireVoltage  = maxMV.toFixed(1);                            // En tepe aksiyon potansiyeli voltajı
+        const airResonance = (totalHZ / (activeCount || 1)).toFixed(1);   // Ortalama sistem frekans iletimi
+        const waterFlow    = (totalWave * 10).toFixed(1);                 // Hemodinamik akış dalga genliği
+        const earthBuffer  = minMV.toFixed(1);                            // Hücresel taban tampon voltajı
 
-        if (elFire)  elFire.innerHTML  = `FIRE (Action Potential): %${fireScore.toFixed(0)}`;
-        if (elAir)   elAir.innerHTML   = `AIR (Resonance Conduction): %${airScore.toFixed(0)}`;
-        if (elWater) elWater.innerHTML = `WATER (Hemodynamic Flow): %${waterScore.toFixed(0)}`;
-        if (elEarth) elEarth.innerHTML = `EARTH (Cellular Buffer): %${earthScore.toFixed(0)}`;
-
+        // Tabloyu tamamen hizalı ve fütüristik renk koduyla inşa ediyoruz
+        const tableBody = document.getElementById('elemental-table-body');
+        if (tableBody) {
+            tableBody.innerHTML = `
+                <div class="chamber-row" style="background: rgba(255, 51, 51, 0.08); margin-bottom: 2px;">
+                    <span style="color:#ff3333; font-weight: bold;">FIRE</span>
+                    <span style="color:#ff5555;">${fireVoltage} mV</span>
+                    <span style="color:#ff7777;">%${fireScore.toFixed(0)} ACT</span>
+                </div>
+                <div class="chamber-row" style="background: rgba(51, 255, 255, 0.08); margin-bottom: 2px;">
+                    <span style="color:#33ffff; font-weight: bold;">AIR</span>
+                    <span style="color:#55ffff;">${airResonance} Hz</span>
+                    <span style="color:#77ffff;">%${airScore.toFixed(0)} CND</span>
+                </div>
+                <div class="chamber-row" style="background: rgba(51, 153, 255, 0.08); margin-bottom: 2px;">
+                    <span style="color:#3399ff; font-weight: bold;">WATER</span>
+                    <span style="color:#55aaff;">${waterFlow} fW</span>
+                    <span style="color:#77bbyy;">%${waterScore.toFixed(0)} FLW</span>
+                </div>
+                <div class="chamber-row" style="background: rgba(153, 255, 51, 0.08); margin-bottom: 2px;">
+                    <span style="color:#99ff33; font-weight: bold;">EARTH</span>
+                    <span style="color:#aaff55;">${earthBuffer} mV</span>
+                    <span style="color:#bbff77;">%${earthScore.toFixed(0)} BUF</span>
+                </div>
+            `;
+        }
         // ========================================================================
         // ⏱️ GÜVENLİ MİLİSANİYE MOTORU (data.cycleTimeMs Bypass Alanı)
         // ========================================================================
