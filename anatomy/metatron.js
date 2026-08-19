@@ -218,8 +218,15 @@ window.MetatronEngine = function() {
     window.chambersTimers = window.chambersTimers || {};
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
 
-    const upOrder   =[1,4,7]; 
-    const downOrder =[8,5,2]; 
+// 🔲 MASTER KİLİT: TELEMETRİ KOPMA KORUMASI 
+    if (window.MetatronMasterClock === undefined) {
+        window.MetatronMasterClock = (Date.now()) % 800;
+    }
+
+    // ========================================================================
+    // 🌐 KÜRESEL SAAT YAKALAYICI (Data her salise değiştikçe buradan taze akacak)
+    // ========================================================================
+    const globalClock = window.MetatronMasterClock || 0;
 
 window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     const mesh = window.chambers ? window.chambers[ch.id] : null;
@@ -236,6 +243,8 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     // 🌐 ULTRA REZONANS MOTORU: SARI, PEMBE, MOR KAPILAMALI ŞİMŞEK MATRİSİ
     // ========================================================================
     const globalClock = window.MetatronMasterClock || 0;
+
+
     
     // 74 BPM / 800 ms nizamına kilitli ana radyan çarkı
     const basePhase = (globalClock / 800) * Math.PI * 2;
@@ -375,6 +384,23 @@ const anlikRenderSapmasi = (performance.now() % 4) - 2;
 // Böylece gösterge ile ekran kartı (Three.js) tam uyumlu olarak birbirine kilitlenir!
 const safDinamikMS = (window.HEART_CYCLE_MS || 800) + anlikRenderSapmasi;
 
+
+  // 💀 ASYSTOLE KORUMASI: Kalp durdurulduğunda heykel gibi donmasın, tüm odalar sessizce sönsün
+    if (window.heartAnimationActive !== true) {
+        window.MetatronMasterClock = 0; // Saati sıfırla
+        window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
+            const mesh = window.chambers ? window.chambers[ch.id] : null;
+            if (mesh && mesh.material) {
+                // Tüm odaların opaklığını ve parlaklığını minimum ölüm çizgisine çek
+                mesh.material.opacity = Math.max(0.1, mesh.material.opacity - 0.02);
+                if (mesh.material.emissiveIntensity) {
+                    mesh.material.emissiveIntensity = Math.max(0, mesh.material.emissiveIntensity - 0.05);
+                }
+            }
+        });
+        return; // Sönümlenmeyi yap ve çizimi durdur
+    }
+    
 // 3. TELEMETRİ HAVUZUNA TERTEMİZ MÜHÜRLENME
 window.MetatronAcademicTelemetry[ch.id] = {
     name: ch.name,
