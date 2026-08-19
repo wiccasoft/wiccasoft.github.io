@@ -28,11 +28,13 @@
     dashboard.innerHTML = `
         <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
 
-        <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
+          <div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
             <span>Live Rhythm:</span>
-            <span id="telemetry-live-ms">Calculating...</span>
+            <div>
+                <span id="telemetry-bpm" style="margin-right: 8px;">74 BPM</span>
+                <span id="telemetry-live-ms" style="font-size: 0.85em; opacity: 0.8;"></span>
+            </div>
         </div>
-        
         
         <div style="background: rgba(255,255,255,0.03); padding: 7px; border-radius: 4px; border: 1px solid #1a365d; margin-bottom: 10px;">
             <div style="color:#fff; font-weight:bold; text-align:center; margin-bottom:5px; border-bottom: 1px dashed #1a365d; padding-bottom:3px;">🧠 SIRKA-LÜNAR HYDRO-CSF SYNC</div>
@@ -58,18 +60,18 @@
    <!-- 🌱 4 ELEMENTS & METABOLIC MATRIX -->
         <div class="canvas-container">
             <div style="color:#fff; font-weight:bold; margin-bottom:5px;">🌱 METABOLIC & ELEMENTAL MATRIX</div>
-            <div id="fire-idx" class="element-row" style="color:#ff3333">🔥 FIRE (Action Potential): %0</div>
-            <div id="air-idx" class="element-row" style="color:#33ffff">💨 AIR (Resonance Conduction): %0</div>
-            <div id="water-idx" class="element-row" style="color:#3399ff">💧 WATER (Hemodynamic Flow): %0</div>
-            <div id="earth-idx" class="element-row" style="color:#99ff33">🌱 EARTH (Cellular Buffer): %0</div>
+            <div id="fire-idx" class="element-row" style="color:#ff3333">🔥 FIRE (Action Potential): </div>
+            <div id="air-idx" class="element-row" style="color:#33ffff">💨 AIR (Resonance Conduction):</div>
+            <div id="water-idx" class="element-row" style="color:#3399ff">💧 WATER (Hemodynamic Flow): </div>
+            <div id="earth-idx" class="element-row" style="color:#99ff33">🌱 EARTH (Cellular Buffer): </div>
         </div>
 
         <div class="canvas-container">
-            <div>📡 LEAD V5 FOCUS (Single-Cell Action Potential / mV)</div>
+            <div>📡  LEAD V5 FOCUS (Single-Cell Action Potential)</div>
             <canvas id="mvOscilloscope" width="290" height="70"></canvas>
         </div>
         <div class="canvas-container">
-            <div>🌀 VORTEX RESONANCE FREQUENCY OSCILLOSCOPE (Hz)</div>
+            <div>🌀 VORTEX RESONANCE FREQUENCY OSCILLOSCOPE</div>
             <canvas id="hzOscilloscope" width="290" height="70"></canvas>
         </div>
     `;
@@ -101,13 +103,23 @@
 function updateTelemetryPanel() {
         if (!oscCtx || !hzCtx || !listContainer) return;
 
-        const data = window.MetatronAcademicTelemetry;
-        if (!data) return;
 
+         // 🩺 Live Rhythm ve Asystole (Kalp Durma) Durum Yönetimi
+        const bpmEl = document.getElementById('telemetry-bpm');
+        if (bpmEl) {
+            bpmEl.innerText = window.heartAnimationActive ? "74 BPM" : "0 BPM";
+            bpmEl.style.color = window.heartAnimationActive ? "#ff00ff" : "#ff3333";
+        }
+
+
+        //if (data.cycleTimeMs) document.getElementById('telemetry-live-ms').innerText = data.cycleTimeMs + " ms"
+        //document.getElementById('live-rhythm-val').innerText = window.heartAnimationActive ? "74 BPM" : "0 BPM (Asystole)";
+   
+        const data = window.MetatronAcademicTelemetry; if (!data) return;
         // ========================================================================
         // 📊 MERKEZİ ZAMAN MOTORU (Zaman Tanımları En Üste Alındı)
         // ========================================================================
-let loopTime = 0;
+        let loopTime = 0;
         
         // 🩺 Eğer Metatron Kalbi aktifse zamanı akıt, durdurulduysa zamanı sıfırla (Düz Çizgi)
         if (window.heartAnimationActive === true) {
@@ -125,6 +137,7 @@ let loopTime = 0;
         if (data.csfPressure) document.getElementById('csf-pressure').innerText = data.csfPressure + " mmHg";
         if (data.metabolicMode) document.getElementById('metabolic-mode').innerText = data.metabolicMode;
         if (data.cycleTimeMs) document.getElementById('telemetry-live-ms').innerText = data.cycleTimeMs + " ms";
+
 
 
         let html = "";
@@ -193,20 +206,40 @@ let loopTime = 0;
 
         listContainer.innerHTML = html;
 
-   // ========================================================================
-        // 🔥 4 ELEMENTS & METABOLIC PATHWAY (Academic English Translation)
+  // ========================================================================
+        // 🔥 4 ELEMENTS & METABOLIC PATHWAY (Kusursuz Karakter ve Güvenlik Kilidi)
         // ========================================================================
         fireScore = Math.max(0, Math.min(100, ((maxMV + 90) / 210) * 100));
         airScore = Math.max(0, Math.min(100, (1.0 - Math.abs((totalHZ / (activeCount || 1)) - 510) / 250) * 100));
         waterScore = Math.max(0, Math.min(100, (totalWave / (activeCount || 1)) * 100));
         earthScore = Math.max(0, Math.min(100, (Math.abs(minMV) / 90) * 100));
 
-        document.getElementById('fire-idx').innerHTML  = `🔥 FIRE (Action Potential): %${fireScore.toFixed(0)}`;
-        document.getElementById('air-idx').innerHTML   = `💨 AIR (Resonance Conduction): %${airScore.toFixed(0)}`;
-        document.getElementById('water-idx').innerHTML = `💧 WATER (Hemodynamic Flow): %${waterScore.toFixed(0)}`;
-        document.getElementById('earth-idx').innerHTML = `🌱 EARTH (Cellular Buffer): %${earthScore.toFixed(0)}`;
+        // Bozuk karakterleri engellemek için doğrudan temiz string formatı kullanıyoruz
+        const elFire = document.getElementById('fire-idx');
+        const elAir = document.getElementById('air-idx');
+        const elWater = document.getElementById('water-idx');
+        const elEarth = document.getElementById('earth-idx');
 
+        if (elFire)  elFire.innerHTML  = `🔥 FIRE (Action Potential): %${fireScore.toFixed(0)}`;
+        if (elAir)   elAir.innerHTML   = `💨 AIR (Resonance Conduction): %${airScore.toFixed(0)}`;
+        if (elWater) elWater.innerHTML = `💧 WATER (Hemodynamic Flow): %${waterScore.toFixed(0)}`;
+        if (elEarth) elEarth.innerHTML = `🌱 EARTH (Cellular Buffer): %${earthScore.toFixed(0)}`;
 
+        // ========================================================================
+        // ⏱️ GÜVENLİ MİLİSANİYE MOTORU (data.cycleTimeMs Bypass Alanı)
+        // ========================================================================
+        const msEl = document.getElementById('telemetry-live-ms');
+        if (msEl) {
+            if (window.heartAnimationActive === true) {
+                // Eğer data.cycleTimeMs sorunluysa alternatifi olan metatronLiveMs değerini dene, o da yoksa 16ms bas
+                let tazeMS = data.cycleTimeMs || data.metatronLiveMs || "16";
+                // Eğer gelen verinin içinde zaten "ms" yazısı varsa mükerrer ekleme yapma
+                let stringMS = String(tazeMS);
+                msEl.innerText = stringMS.includes("ms") ? stringMS : (stringMS + " ms");
+            } else {
+                msEl.innerText = "0 ms"; // Kalp durduğunda net sıfır çizgisi
+            }
+        }
      // ========================================================================
         // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Her Vuruşta Tek Bir PQRST)
         // ========================================================================
