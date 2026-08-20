@@ -197,6 +197,8 @@ iframe {
     display: flex;
     flex-direction: column;
 ">
+
+
     <!-- Paneli Geri Kapatma Butonu -->
     <div style="text-align: right; margin-bottom: 15px;">
         <button onclick="toggleSlideMenu()" style="background:none; border:none; color:#660099; cursor:pointer; font-size:16px; font-weight:bold;">❮ CLOSE</button>
@@ -219,6 +221,13 @@ iframe {
     <div id="telemetryScreen" style="color: #00ff00; font-size: 11px; margin-bottom: 25px; height: 50px; line-height: 1.5; border: 1px solid #222; padding: 8px; background: #050505;">
         MODE: ORIGINAL ILLUSION<br>CORE: CALIBRATION METRIC
     </div>
+
+    <!-- Sol Panel - Mevcut Verilerin Altına Eklenecek Kısım -->
+<div class="neuro-cardiac-axis" style="color: #00ff00; font-family: monospace; line-height: 1.5; margin-top: 15px;">
+    <div>RESP: <span id="ui-resp">20.0</span> BrPM</div>
+    <div>PRQ RATIO: <span id="ui-prq">3.70</span> / 4.00</div>
+    <div>CRC PHASE: <span id="ui-crc-status" style="color: #ff3333;">ASYNC (DEVIATED)</span></div>
+</div>
 
     <!-- 🔳 MİNİK KARE İKONLU KONTROL BUTONLARI -->
     <div style="display: flex; gap: 8px; justify-content: space-between; margin-top: auto; padding-bottom: 30px;">
@@ -361,7 +370,11 @@ function switchAcademicTab(targetTab) {
 }
 
 
+
+
 // 🔋 ECO ENGINE KÖPRÜ SÜRÜCÜSÜ (main.html -> anatomy.html Iframe Postman)
+
+//https://www.imaios.com/en/e-anatomy/anatomical-structures/cardiac-plexus-1557867012#
 window.mainTargetFPS = 60;
 
 function toggleMainPerformanceMode() {
@@ -392,6 +405,49 @@ function toggleMainPerformanceMode() {
     }
 }
 
+
+
+// Akademik Kardiyorespiratuar Kuplaj (CRC) Motoru
+function updateMetatronAxis(currentBPM, currentResp) {
+    const IDEAL_PRQ = 4.0; // Akademik Altın Oran (4 Kalp : 1 Nefes)
+    const BASE_LAG = 198;  // Yeşil Oda'nın ideal taban gecikmesi (ms)
+
+    // 1. Mevcut Pulse-Respiration Quotient (PRQ) Oranını Hesapla
+    let actualPRQ = currentBPM / currentResp;
+    
+    // 2. Akademik İdeal Değerden Sapmayı Bul
+    let deviation = Math.abs(IDEAL_PRQ - actualPRQ);
+    
+    // 3. Sapmaya Göre Dinamik İşlemci Gecikmesini (Lag) Hesapla
+    // Sapma arttıkça sağ panelle senkronizasyon yükü biner ve lag artar
+    let calculatedLag = BASE_LAG + (deviation * 145); 
+
+    // 4. Arayüz Elemanlarını Güncelle
+    document.getElementById("ui-resp").innerText = currentResp.toFixed(1);
+    document.getElementById("ui-prq").innerText = actualPRQ.toFixed(2);
+    
+    let crcStatusDOM = document.getElementById("ui-crc-status");
+
+    if (deviation < 0.1) {
+        // Sistem ideal 4:1 oranına kilitlendiğinde
+        crcStatusDOM.innerText = "LOCKED (4:1)";
+        crcStatusDOM.style.color = "#00ff00"; // Yeşil neon
+    } else {
+        // Sistem asenkron çalışıp lag ürettiğinde
+        crcStatusDOM.innerText = `ASYNC (+${Math.round(calculatedLag - BASE_LAG)}ms LAG)`;
+        crcStatusDOM.style.color = "#ff3333"; // Kırmızı alarm neonu
+    }
+
+    // Sağ paneldeki veya sistemdeki genel LAG göstergesini beslemek için döndür
+    return {
+        lag: Math.round(calculatedLag),
+        prq: actualPRQ
+    };
+}
+
+// Test ve Başlatma: Resimdeki 74 BPM ve 20 Nefes değerleri ile tetikliyoruz
+// Bu fonksiyonu her kalp atışında veya saniyede bir çalıştırabilirsin
+updateMetatronAxis(74, 20);
 
 // 🔳 MESSAGING TETİKLEYİCİLERİ
 let axesState = true;
