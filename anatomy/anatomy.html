@@ -14,9 +14,7 @@
 <script src="OrbitControls.js"></script>
 
 <script src="metatron.js"></script>
-
 <script src="skeleton.js"></script>
-
 <script src="telemetry.js"></script>
 
 <script>
@@ -143,6 +141,49 @@ function simulasyonParametreleriniTuret() {
     if (dominantChamber.id === 8) {
         metabolikDurum = "LIVER: GLYCOGENOLYSIS / PANCREAS: GLUCOSE BUFFER";
     }
+
+
+
+    // Kardiyorespiratuar Kuplaj (CRC) Algoritması
+function calculateMetatronRespiration(heartRate) {
+    const idealRatio = 4.0; // Akademik Altın Oran (4:1)
+    
+    // Anlık solunum hızını kalp ritmine göre hesapla
+    let currentRespRate = heartRate / idealRatio; 
+    
+    // Sol panel ve Sağ panel senkronizasyonu için faz kilitleme (Phase-Locking)
+    let dynamicLag = 200; // Baz gecikme (ms)
+    let currentRatio = heartRate / 20; // Şu anki durum (3.7)
+    
+    if (currentRatio !== idealRatio) {
+        // Eğer oran 4:1 değilse işlemci yükü ve lag artar!
+        let deviation = Math.abs(idealRatio - currentRatio);
+        dynamicLag += deviation * 150; // Sapma miktarına göre lag ekle
+    }
+    
+    return {
+        targetRespiratoryRate: currentRespRate, // Olması gereken: 18.5
+        systemLag: dynamicLag,                  // Matematiksel sapma lagı
+        couplingState: currentRatio === idealRatio ? "LOCKED (4:1)" : "ASYNC (3.7:1)"
+    };
+}
+
+
+    const metatronMatrix = {
+    chambers: {
+        purple: { name: "Beyin Kökü", nerve: "CN X", status: "Input Port", voltage: "High" },
+        blue: { name: "Parasempatik Fren", nerve: "Plexus Cardiacus", function: "Diastole", status: "Active" },
+        red: { name: "Sempatik Gaz", nerve: "Truncus Sympathicus", function: "Systole", status: "Standby" },
+        yellow: { name: "Solar Plexus", nerve: "Plexus Coeliacus", output: "ATP / Cellular Energy" },
+        orange: { name: "Biyomanyetik Filtre", asset: "Splenic Arter / Fe2+", filtering: true },
+        green: { name: "Merkezi Topraklama", asset: "LCA & Pancreas Zinc", groundingLag: "200ms" }
+    },
+    respiratoryAxial: {
+        phrenicNerve: "C3-C5 Spine Connection",
+        diaphragmStatus: "Synchronized with Yellow Chamber",
+        pulmonaryPlexus: "Connected to Blue/Red Wings"
+    }
+};
 
     // 📡 Üst penceredeki (main.html) HUD kontrol paneline şifreli akımı basıyoruz
     window.parent.postMessage({
