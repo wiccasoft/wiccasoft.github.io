@@ -519,33 +519,44 @@ if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
 
 
   // 5. DOM PANEL GÜNCELLEMESİ (PERFORMANCE CACHE INTEGRATION)
-    // Bir önceki aşamada eklediğimiz önbellek (cache) kontrolü sayesinde, 
-    // gereksiz iç metin (innerText) baskıları durdurularak CPU tamamen rahatlatılmıştır.
-    const yeniRespText = liveResp.toFixed(1);
-    if (respDOM && respDOM.innerText !== yeniRespText) {
-        respDOM.innerText = yeniRespText;
-    }
+    window.cachedCRCDOM = window.cachedCRCDOM || {
+        resp: document.getElementById("dyn-resp"),
+        prq: document.getElementById("dyn-prq"),
+        status: document.getElementById("dyn-crc-status")
+    };
 
-    const yeniPRQText = actualPRQ.toFixed(2);
-    if (prqDOM && prqDOM.innerText !== yeniPRQText) {
-        prqDOM.innerText = yeniPRQText;
-    }
+    const respDOM = window.cachedCRCDOM.resp;
+    const prqDOM = window.cachedCRCDOM.prq;
+    const statusDOM = window.cachedCRCDOM.status;
 
-    if (statusDOM) {
-        if (deviation < 0.05) {
-            if (statusDOM.innerText !== "LOCKED (4:1)") {
-                statusDOM.innerText = "LOCKED (4:1)";
-                statusDOM.style.color = "#00ff00"; // Kusursuz kuplaj yeşili
-            }
-        } else {
-            const yeniStatusText = `ASYNC (+${addedLag}ms LAG)`;
-            if (statusDOM.innerText !== yeniStatusText) {
-                statusDOM.innerText = yeniStatusText;
-                statusDOM.style.color = "#ff00ff"; // Wiccasoft Magenta/Pembe alarm estetiği
+    // Sadece veriler değiştiyse DOM'u tetikle (CPU Koruma Kalkanı)
+    if (typeof liveResp !== 'undefined' && typeof actualPRQ !== 'undefined') {
+        const yeniRespText = liveResp.toFixed(1);
+        if (respDOM && respDOM.innerText !== yeniRespText) {
+            respDOM.innerText = yeniRespText;
+        }
+
+        const yeniPRQText = actualPRQ.toFixed(2);
+        if (prqDOM && prqDOM.innerText !== yeniPRQText) {
+            prqDOM.innerText = yeniPRQText;
+        }
+
+        if (statusDOM && typeof deviation !== 'undefined' && typeof addedLag !== 'undefined') {
+            if (deviation < 0.05) {
+                if (statusDOM.innerText !== "LOCKED (4:1)") {
+                    statusDOM.innerText = "LOCKED (4:1)";
+                    statusDOM.style.color = "#00ff00";
+                }
+            } else {
+                const yeniStatusText = `ASYNC (+${addedLag} ms LAG)`;
+                if (statusDOM.innerText !== yeniStatusText) {
+                    statusDOM.innerText = yeniStatusText;
+                    statusDOM.style.color = "#ff00ff";
+                }
             }
         }
     }
-}
+} // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 
 // 🪐 ULTRA-LIGHT TELEMETRY WATCHDOG (60 FPS)
