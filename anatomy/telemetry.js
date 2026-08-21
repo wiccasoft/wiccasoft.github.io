@@ -55,7 +55,7 @@ window.togglePerformanceMode = function() {
     const dashboard = document.createElement('div');
     dashboard.id = 'quantum-telemetry-dashboard';
     dashboard.innerHTML = `
-        <div class="telemetry-title">🪐 METATRON QUANTUM LAB</div>
+        <div class="telemetry-title">electrocardiogram</div>
 
     
 
@@ -99,8 +99,8 @@ window.togglePerformanceMode = function() {
     document.body.appendChild(dashboard);
 
 
-    window.metatronTargetFPS = window.metatronTargetFPS || 60; // Varsayılan turbo mod
-let lastTelemetryTime = performance.now();
+    window.metatronTargetFPS = window.metatronTargetFPS || 25; // Varsayılan  mod
+    let lastTelemetryTime = performance.now();
 
     const oscCanvas = document.getElementById("mvOscilloscope");
     const oscCtx = oscCanvas ? oscCanvas.getContext("2d") : null;
@@ -396,16 +396,21 @@ function updateTelemetryPanel() {
                 } 
                 else if (ch.id === 4 || ch.id === 3) {
                     // 🟠 QRS BAR (Asıl Turuncu Pompa & Beyaz Aks): 2 odanın saf toplamı
+                    //635 Hz / 30 mV'luk asıl devasa kinetik gücü üreten 2 odanın saf toplam enerjisi 
                     qrs_RawEnergy += rawEnergy; 
                 } 
                 else if (ch.id === 5 || ch.id === 6 || ch.id === 8 || ch.id === 7) {
                     // 🟢 T BAR (Repolarization): 4 odanın (Mor, Siyah, Yeşil, Mavi) yığılmasını engellemek,
                     // fazla odayı absorbe etmek için toplam enerjiyi oda sayısı olan 4'e bölüyoruz!
+                    // İşte burası o kutsal merkez, yani 528 Hz'lik sönümleyici ve dengeleyici girdap!.
                     t_RawEnergy += rawEnergy / 4; 
                 }
             });
         }
 
+
+window.LIVE_QRS_ENERGY = qrs_RawEnergy; // 635 Hz'lik asıl pompa deşarjı
+window.LIVE_T_ENERGY = t_RawEnergy;     // 528 Hz'lik kutsal dengeleyici merkez
         // 🩺 SAF AKADEMİK NORMALİZASYON (Katsayısız Evrensel Matrix Ölçekleme)
         const energyCeiling = 4.5; 
 
@@ -430,7 +435,7 @@ function updateTelemetryPanel() {
             hzCtx.beginPath(); hzCtx.moveTo(0, g); hzCtx.lineTo(hzCanvas.width, g); hzCtx.stroke();
         }
 
-          // ========================================================================
+        // ========================================================================
         // 🎨 SAHA ORTALAMA MOTORU: 3 BANLI BIOMECHANICAL EQUALIZER ÇİZİM ALANI
         // ========================================================================
         hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
@@ -454,7 +459,44 @@ function updateTelemetryPanel() {
         // 🟢 Bar 3: T BAR (Repolarization / Yeşil-Mavi)
         hzCtx.fillStyle = "#33ff33";
         hzCtx.fillRect(startX + (barWidth * 2) + (barSpacing * 2), hzCanvas.height - t_Height, barWidth, t_Height);
+
+
+    // 1. Her kalp atışında pompalanan doğal kan miktarı (Stroke Volume)
+    // Turuncu odaların (ch.id 3 ve 4) ürettiği qrs_RawEnergy tavan yaptıkça mL miktarı doğal olarak 85mL sınırına fırlar!
+    let liveQrs = window.LIVE_QRS_ENERGY || 0.2;
+    
+    // Güvenlik ve Kararlılık: liveQrs değerinin 0 ile 1 arasında kalmasını garanti altına alıyoruz (Clamping)
+    liveQrs = Math.max(0, Math.min(1, liveQrs));
+    
+    // 55mL (gevşeme) ile 100mL (maksimum pompa) arası doğal salınım
+    let strokeVolume = 55.0 + (liveQrs * 45.0); 
+
+    // 2. Dakikada pompalanan toplam kan hacmi (Cardiac Output = SV * BPM / 1000)
+    // Sistemdeki anlık BPM değerini çekiyoruz, yoksa varsayılan 72 akademi standardıdır
+    let currentBPM = window.metatronCurrentBPM || window.currentBPM || 72; 
+    let cardiacOutput = (strokeVolume * currentBPM) / 1000; // Litre cinsinden net debi
+
+    // 🚀 Ana ekrana (main.html) sızdırmak için küresel belleğe mühürle!
+    // Arayüzde düzgün görünmesi için virgülden sonraki basamakları sabitliyoruz (.toFixed)
+    window.LIVE_STROKE_VOLUME = Number(strokeVolume.toFixed(1));
+    window.LIVE_CARDIAC_OUTPUT = Number(cardiacOutput.toFixed(2));
+
+    // 🔒 GÜVENLİK GÜNCELLEMESİ: Verinin sadece kendi ana alan adınıza gitmesini sağlayın
+    // Projenizin ana ekran adresi neyse (örn: "https://metatron-sistem.local" veya mevcut konum) onu yazın.
+    const TARGET_ORIGIN = window.location.origin; 
+
+    if (window.parent && window.parent.postMessage) {
+        window.parent.postMessage({
+            type: "METATRON_HYDRAULICS",
+            strokeVolume: window.LIVE_STROKE_VOLUME,
+            cardiacOutput: window.LIVE_CARDIAC_OUTPUT
+        }, TARGET_ORIGIN); // '*' yerine TARGET_ORIGIN kullanılarak veri sızıntısı önlendi.
+    }
+
     } // updateTelemetryPanel fonksiyonu bitti
+
+
+
 
    // ========================================================================
     // 🔮 ACADEMIC ORACLE: INTERACTIVE MODAL & GÖSTERGE GİZLEME (TOGGLE) MOTORU
@@ -493,7 +535,9 @@ function updateTelemetryPanel() {
 
     // 🔄 MOTORU CANLI TUTAN RENDER DÖNGÜSÜ
     function renderLoop() { 
-        updateTelemetryPanel();
+
+         updateTelemetryPanel();
+         
         requestAnimationFrame(renderLoop);
     } 
     renderLoop();
@@ -515,6 +559,7 @@ window.addEventListener("message", (event) => {
         }
     }
 });
+
 
 
     window.togglePerformanceMode = function() {
@@ -542,5 +587,4 @@ window.addEventListener("message", (event) => {
 
     window.updateTelemetryPanel = updateTelemetryPanel;
 })();
-
 
