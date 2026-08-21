@@ -228,16 +228,20 @@ function updateTelemetryPanel() {
                 rowColor = "rgba(255,0,100,0.05)";
             }
 
-            const medical = academicNames[id] || { short: ch.name ? ch.name.substring(0, 3) : "CH", full: ch.name || "Chamber" };
+ const medical = academicNames[id] || { short: ch.name ? ch.name.substring(0, 3) : "CH", full: ch.name || "Chamber" };
 
-            html += `
-                <div class="chamber-row" style="background: ${rowColor}; transition: background 0.1s ease;" title="${medical.full}">
-                    <span style="color: ${ch.color || '#fff'}; font-weight: bold;">${medical.short}</span>
-                    <span>${ch.voltageMV.toFixed(1) || 0} mV</span>
-                    <span>${ch.frequencyHz.toFixed(1) || 0} Hz</span>
-                </div>
-            `;
-        });
+        // 🚀 KESİN ÇÖZÜM: Veri tipi kontrolü ve korumalı basamak sabitleyici (Crash Prevention)
+        const voltSayi = (ch.voltageMV !== undefined && ch.voltageMV !== null) ? parseFloat(ch.voltageMV) : 0;
+        const freqSayi = (ch.frequencyHz !== undefined && ch.frequencyHz !== null) ? parseFloat(ch.frequencyHz) : 0;
+
+        html += `
+            <div class="chamber-row" style="background: ${rowColor}; transition: background 0.1s ease;" title="${medical.full}">
+                <span style="color: ${ch.color || '#fff'}; font-weight: bold;">${medical.short}</span>
+                <span>${voltSayi.toFixed(1)} mV</span>
+                <span>${freqSayi.toFixed(1)} Hz</span>
+            </div>
+        `;
+    });
 
         listContainer.innerHTML = html;
 
