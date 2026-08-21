@@ -478,41 +478,33 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 
 // 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
 // Motoru çalıştırıp kalp vuruşlarını konsola basan marş kablosu
-  // 5. DOM PANEL GÜNCELLEMESİ (PERFORMANCE CACHE INTEGRATION)
+    // ========================================================================
+    // 5. DOM PANEL GÜNCELLEMESİ (MUTLAK GÜVENLİK KALKANI)
+    // ========================================================================
     window.cachedCRCDOM = window.cachedCRCDOM || {
         resp: document.getElementById("dyn-resp"),
         prq: document.getElementById("dyn-prq"),
         status: document.getElementById("dyn-crc-status")
     };
 
-    const respDOM = window.cachedCRCDOM.resp;
-    const prqDOM = window.cachedCRCDOM.prq;
-    const statusDOM = window.cachedCRCDOM.status;
+    const { resp, prq, status } = window.cachedCRCDOM;
 
+    // KESİN ÇÖZÜM: Eleman varlıkları 'if' ile mühürlendi, null hatası imkansızlaştırıldı! [image_muvkW4.png]
     if (typeof liveResp !== 'undefined' && typeof actualPRQ !== 'undefined') {
-        const yeniRespText = liveResp.toFixed(1);
-        if (respDOM && respDOM.innerText !== yeniRespText) respDOM.innerText = yeniRespText;
-
-        const yeniPRQText = actualPRQ.toFixed(2);
-        if (prqDOM && prqDOM.innerText !== yeniPRQText) prqDOM.innerText = yeniPRQText;
-
-        if (statusDOM && typeof deviation !== 'undefined' && typeof addedLag !== 'undefined') {
+        if (resp) resp.innerText = liveResp.toFixed(1);
+        if (prq) prq.innerText = actualPRQ.toFixed(2);
+        
+        if (status && typeof deviation !== 'undefined' && typeof addedLag !== 'undefined') {
             if (deviation < 0.05) {
-                if (statusDOM.innerText !== "LOCKED (4:1)") {
-                    statusDOM.innerText = "LOCKED (4:1)";
-                    statusDOM.style.color = "#00ff00";
-                }
+                status.innerText = "LOCKED (4:1)";
+                status.style.color = "#00ff00";
             } else {
-                const yeniStatusText = `ASYNC (+${addedLag} ms LAG)`;
-                if (statusDOM.innerText !== yeniStatusText) {
-                    statusDOM.innerText = yeniStatusText;
-                    statusDOM.style.color = "#ff00ff";
-                }
+                status.innerText = `ASYNC (+${addedLag} ms LAG)`;
+                status.style.color = "#ff00ff";
             }
         }
     }
-}; // ◄ 🎯 İŞTE ANA MOTOR BURADA GÜVENLE KAPANDI! (Süslü parantez ve noktalı virgül tam yeri)
-
+}; // ◄ 🎯 ANA MOTOR BURADA GÜVENLE KAPANDI!
 
 // ========================================================================
 // 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
