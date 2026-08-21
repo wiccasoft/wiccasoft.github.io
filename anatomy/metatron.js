@@ -434,36 +434,28 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 }; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 WATCHDOG & ENGINE KICKSTARTER (GERÇEK PANEL KİMLİĞİ BAĞLANTISI)
+// 🪐 NİHAİ KONTROL: MONİTÖR REZONANSLI DOĞAL DOĞAL DÖNGÜ (NO FLICKER)
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 window.sonVurusZamani = window.sonVurusZamani || performance.now();
 window.dalgaTepesinde = window.dalgaTepesinde || false;
 
+// KESİN ÇÖZÜM: setInterval söküldü! Yerine monitörün Hz hızına kilitlenen RAF geldi.
+function metatronGozcuDongusu() {
+    // Eğer kalp uykudaysa veya buton basılmadıysa boşuna matematik döndürme
+    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
+    
+    // Tarayıcı hazır olduğu bir sonraki karede (tam 60Hz/144Hz eşzamanlı) tekrar çağırır
+    requestAnimationFrame(metatronGozcuDongusu);
+}
+
+// Döngüyü sadece bir kez tetikle
 if (!window.metatronLoopActive) {
     window.metatronLoopActive = true;
-    
-    setInterval(() => {
-        // GERÇEK KİMLİK: GitHub projesindeki asıl tablo id'si 'telemetryTable' mühürlendi!
-        window.cachedTelemetryPanel = window.cachedTelemetryPanel || document.getElementById("telemetryTable");
-
-        // 🛑 SLEEP MODE: Kalp durduysa veya ilk açılışsa paneli tamamen sakla
-        if (window.heartAnimationActive !== true) {
-            if (window.cachedTelemetryPanel && window.cachedTelemetryPanel.style.display !== "none") {
-                window.cachedTelemetryPanel.style.display = "none";
-            }
-            return; 
-        }
-
-        // 🟢 AWAKE MODE: Kalp çalışıyorsa paneli görünür kıl (Görsel tablo nizamı için 'table')
-        if (window.cachedTelemetryPanel && window.cachedTelemetryPanel.style.display === "none") {
-            window.cachedTelemetryPanel.style.display = "table"; 
-        }
-
-        // Ana motoru ateşle
-        if (typeof window.MetatronEngine === "function") {
-            window.MetatronEngine();
-        }
-    }, 16);
+    requestAnimationFrame(metatronGozcuDongusu);
 }
+
+// 🪐 metatron.js Sonu - Zaman kaymaları ve göz kırpmaları tamamen yok edildi.
