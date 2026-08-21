@@ -233,8 +233,8 @@ function updateTelemetryPanel() {
             html += `
                 <div class="chamber-row" style="background: ${rowColor}; transition: background 0.1s ease;" title="${medical.full}">
                     <span style="color: ${ch.color || '#fff'}; font-weight: bold;">${medical.short}</span>
-                    <span>${ch.voltageMV || 0} mV</span>
-                    <span>${ch.frequencyHz || 0} Hz</span>
+                    <span>${ch.voltageMV.toFixed(1) || 0} mV</span>
+                    <span>${ch.frequencyHz.toFixed(1) || 0} Hz</span>
                 </div>
             `;
         });
@@ -575,6 +575,7 @@ sendTelemetryReadySignal();
 // Garanti olsun diye DOM bittiğinde bir kez daha ateşle (Ağ gecikmesine karşı mühür)
 window.addEventListener("DOMContentLoaded", sendTelemetryReadySignal);
 
+ window.metatronTargetFPS = 25;
 
 window.parent.postMessage({ komut: "TELEMETRY_ENGINE_READY" }, "*");
 
