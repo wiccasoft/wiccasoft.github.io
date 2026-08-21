@@ -355,34 +355,34 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         localDominantChamber = ch;
     }
 
-    // ========================================================================
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (TAM UYUM & SIFIR REFERANS HATASI)
+// ========================================================================
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (TEKİL & HAFİF YAPILANDIRMA)
     // ========================================================================
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
     window.MetatronTelemetry = window.MetatronTelemetry || {};
     
-    // telemetry.js'in çökmesini engelleyen hafif statik string mühürleri
+    // Yüksek frekansta string oluşturmayı engelleyen statik durum
     const sabitMetinDurumu = (globalClock >= 400) ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)";
 
-    // 1. Yeni Akademik Telemetri Havuzunun Beslenmesi
+    // Tekil ve optimize edilmiş veri beslemesi (Sızıntı giderildi)
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
-        frequencyHz: currentHZ,     // Saf sayı
-        voltageMV: currentMV,       // Saf sayı
-        mechanicalWave: wave,       // Saf sayı
-        phaseState: sabitMetinDurumu, // telemetry.js:225 .includes() kontrolü için tam uyum
+        frequencyHz: currentHZ,
+        voltageMV: currentMV,
+        mechanicalWave: wave,
+        phaseState: sabitMetinDurumu,
         timestampMS: performance.now()
     };
 
-    // 2. Eski Telemetri Yapısının Senkronizasyonu (Çakışan kopyalar söküldü, temiz eşleme yapıldı)
+    // Eski yapının senkronizasyonu
     window.MetatronTelemetry[ch.id] = {
         energy: wave,
         phaseState: sabitMetinDurumu,
         frequencyHz: currentHZ,
         voltageMV: currentMV
     };
-}); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü başarıyla bitti.
+}); // ◄ 🎯 KUTSAL KAPANIŞ 1: Döngü başarıyla bitti.
 // 🏆 MASTER MOTOR KÖPRÜSÜ & 🧬 CRC MOTORU (Tekil Kapanış)
 // ========================================================================
 if (localDominantChamber) {
