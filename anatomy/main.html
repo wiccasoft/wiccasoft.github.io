@@ -659,7 +659,6 @@ window.toggleMirrorButton = function() {
 
 
 
-
 // 📡 anatomy.html'den gelen Canlı HUD verilerini Akıllı Parçalayıcı ile İşleyen Kararlı Dinleyici
 
 // 🪐 MAKALE ODAKLI PHRENIC OSİLATÖRÜ (main.html içinde dinleyicinin en üst dış alanına koyun)
@@ -682,7 +681,21 @@ window.addEventListener("message", (event) => {
             const deltaTime = (simdi - window.lastFrameTime) / 1000; 
             window.lastFrameTime = simdi;
 
-            const liveWave = parseFloat(event.data.wave) || 0.5;
+            // 🌀 1 mV = 40 Hz KUTSAL REZONANS MOTORU
+            // anatomy.html'den gelen canlı wave dalgasını (0.0 ile 1.0 arası) baz alıyoruz
+            const liveWave = parseFloat(event.data.wave) || 0.0;
+
+            // 1. Kalp kasıldıkça voltaj jilet gibi tam +30.0 mV sınırına tavan yapar
+            let currentEkgMv = liveWave * 30.0; 
+
+            // 2. Senin o efsane dâhi formülün: Her 1 mV için frekansı 40 Hz kırbaçlıyoruz!
+            // Voltaj 30 mV olduğunda frekans tam 1200.00 Hz (BXN) olarak mühürlenir.
+            let currentMetatronHz = currentEkgMv * 40.0; 
+
+
+            // HUD Ekranı için formatlama (Örn: EKG: 30.0 mV | FQ: 1200.00 Hz)
+            let formatEkg = `${currentEkgMv.toFixed(1)} mV`;
+            let formatHz = `${currentMetatronHz.toFixed(2)} Hz`;
 
             // 2. SAĞ TABLO KİLİTLİ DINAMİK VERİLER
             let dynamicBPM = 74.0 + (Math.sin(liveWave * Math.PI) * 1.5);
@@ -695,6 +708,9 @@ window.addEventListener("message", (event) => {
 
             let breathHtml = "";
             let scaleFactor = 0.5;
+
+
+            
 
             if (phaseProgress < (period / 2)) {
                 breathHtml = '<span style="color: #ffaa00; font-weight: bold; text-shadow: 0 0 5px #ffaa00;">INHALATION</span>';
@@ -777,6 +793,8 @@ try {
             let dynamicTansiyonText = `${finalSystolic.toFixed(0)}/${finalDiastolic.toFixed(0)} mmHg`;
 
 
+            
+
 // 🎛️ 7. NÖRO-KARDİYAK AKS TABLO SENKRONİZASYON MOTORU (Gerçek Renk Kalibrasyonlu)
 // AVP odası kırmızıdan, ortadaki modelle birebir uyumlu Siber Turuncu (#ffaa00) rengine çekildi!
 
@@ -815,7 +833,7 @@ let arrowIcon = "<span style='color:#004400; font-size:8px;'>➔</span>";
 telemetryBox.innerHTML = `
     <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px;">
         <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">BPM: ${dynamicBPM.toFixed(0)} BPM (RESONANCE)</span><br>
-        EKG: ${event.data.ekg || "-25.8 mV"} | FQ: ${realMetatronFQ.toFixed(2)} Hz (BXN)<br>
+        EKG: <span style="color: #33ffff; font-weight: bold;">${formatEkg}</span> | FQ: <span style="color: #ffaa00;">${formatHz}</span> (BXN)<br>
         TANSİYON: <span style="color: #00ff00;">${dynamicTansiyonText}</span> | pH: ${event.data.ph || "7.42 pH"}<br>
         METABOLİZMA: <span style="color: #00ff00; text-transform: uppercase; font-size: 10.5px;">${dynamicMetabolizmaText}</span><br>
         OKSİJEN: <span style="color: #00ff00;">${event.data.oksijen || "%98.0 SpO2"}</span> | ELM: <span style="color: ${elementColor}; font-weight: bold;">${liveElement}</span>
