@@ -347,45 +347,42 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", timestampMS: performance.now()
     };
 
-  // ========================================================================
-    // 🔮 ACADEMIC TELEMETRY CARRIER & LUNAR INJECTION (OPTİMİZELİ)
+   // ========================================================================
+    // 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ İÇİ)
     // ========================================================================
-
-   
-
-    // Telemetri ve hız hesaplama (Orijinal yapı korunarak optimize edildi)
-    window.MetatronTelemetry = window.MetatronTelemetry || {};
-    window.MetatronTelemetry[ch.id] = {
-        energy: wave,
-        speed: safeDecaying ? ((typeof dynamicSpeed !== 'undefined' ? dynamicSpeed : ch.e) / lunarMultiplier) : (typeof dynamicSpeed !== 'undefined' ? dynamicSpeed : ch.e),
-        isDecaying: safeDecaying
-    };
-
-    // 🪐 ULTRA PERFORMANCE KÖPRÜSÜ (DÖNGÜ İÇİ): En parlak odayı havada yakalıyoruz
-  // 🪐 PERFORMANS KÖPRÜSÜ
     if (wave > maxWaveValue) {
         maxWaveValue = wave;
         localDominantChamber = ch;
     }
 
     // ========================================================================
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (ULTRA-LIGHT CPU SAVER)
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (TAM UYUM & SIFIR REFERANS HATASI)
     // ========================================================================
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
+    window.MetatronTelemetry = window.MetatronTelemetry || {};
     
-    // Ağır string dönüşümleri ve Ay fazı yükleri tamamen söküldü!
-    // Sadece projenin çalışması için zorunlu olan ham sayısal veriler mühürleniyor.
+    // telemetry.js'in çökmesini engelleyen hafif statik string mühürleri
+    const sabitMetinDurumu = (globalClock >= 400) ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)";
+
+    // 1. Yeni Akademik Telemetri Havuzunun Beslenmesi
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
-        frequencyHz: currentHZ,     // Saf float sayı
-        voltageMV: currentMV,       // Saf float sayı
-        mechanicalWave: wave,       // Saf float sayı
-        phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", // telemetry.js için hafif statik string
+        frequencyHz: currentHZ,     // Saf sayı
+        voltageMV: currentMV,       // Saf sayı
+        mechanicalWave: wave,       // Saf sayı
+        phaseState: sabitMetinDurumu, // telemetry.js:225 .includes() kontrolü için tam uyum
         timestampMS: performance.now()
     };
-}); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü bitti.
-// ========================================================================
+
+    // 2. Eski Telemetri Yapısının Senkronizasyonu (Çakışan kopyalar söküldü, temiz eşleme yapıldı)
+    window.MetatronTelemetry[ch.id] = {
+        energy: wave,
+        phaseState: sabitMetinDurumu,
+        frequencyHz: currentHZ,
+        voltageMV: currentMV
+    };
+}); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü başarıyla bitti.
 // 🏆 MASTER MOTOR KÖPRÜSÜ & 🧬 CRC MOTORU (Tekil Kapanış)
 // ========================================================================
 if (localDominantChamber) {
