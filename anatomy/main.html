@@ -673,8 +673,14 @@ window.isLightningLocked = window.isLightningLocked || false; // Çift dönmeyi 
 
 
  // DÜZELTME: Güncel küresel hafızadaki değerleri anlık olarak çekiyoruz
-            let strokeVol = (window.LIVE_STROKE_VOLUME || 70.0).toFixed(1);
-            let cardOutput = (window.LIVE_CARDIAC_OUTPUT || 5.0).toFixed(2);
+         //   let strokeVol = (window.LIVE_STROKE_VOLUME || 70.0).toFixed(1);
+         //   let cardOutput = (window.LIVE_CARDIAC_OUTPUT || 5.0).toFixed(2);
+
+
+         // 🪐 KÜRESEL SAYAÇLAR (Dinleyicinin en dış üst alanında dursun, sıfırlanmasın)
+window.KUMULATIF_KAN_HACMI = window.KUMULATIF_KAN_HACMI || 0;
+window.VUCUT_DOLAŞIM_TURU = window.VUCUT_DOLAŞIM_TURU || 0;
+
 
 window.addEventListener("message", (event) => {
     if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
@@ -716,15 +722,30 @@ window.addEventListener("message", (event) => {
 
             let breathHtml = "";
             let scaleFactor = 0.5;
+        // 2. 🫀 ANLIK POMPALANAN (Piston Hareketi)
+        // Sabit duran strokeVol yerine dalgayı çarparak kalbin içindeki kanın boşalma anını simüle ediyoruz.
+        // Kalp kasıldığında (liveWave = 1) tam 70 mL damara fırlar, gevşediğinde 0'a doğru çekilir.
+        let targetStrokeVol = parseFloat(window.LIVE_STROKE_VOLUME || 70.0);
+        let anlikAtimMiktari = liveWave * targetStrokeVol
 
-     // DÜZELTME: Güncel küresel hafızadaki değerleri tam bu işlem anında çekiyoruz!
-            let strokeVol = (window.LIVE_STROKE_VOLUME || 70.0).toFixed(1);
-            let cardOutput = (window.LIVE_CARDIAC_OUTPUT || 5.0).toFixed(2);
+
+        // 3. ⏱️ 1 DAKİKADA 5 LİTREYE KOŞAN KÜRESEL SAYAÇ
+        // Her milisaniyede akan kanı debiye (L/dk) göre üst üste biriktiriyoruz
+        let cardOutput = parseFloat(window.LIVE_CARDIAC_OUTPUT || 5.0);
+        window.KUMULATIF_KAN_HACMI += (cardOutput * 1000 / 60) * deltaTime; // mL cinsinden sürekli ekler
 
             // ÖRNEK ANALİZ: Zaman dilimi içindeki akış (Litre/saniye hesabı veya FPS ölçümü için)
             // İki güncelleme arası geçen süre (deltaTime) çok uzunsa kare atlaması (stuttering) tespiti yapabilirsiniz.
             const anlikAkisHizi = (cardOutput / 60) * deltaTime; // Bu frame'de akan tahmini litre
-            
+             // 4. 🔄 5 LİTREDE BİR TÜM VÜCUDU GEZME KİLİDİ
+        // Kan miktarı 5000 mL (5 Litre) olduğunda tam 1 dakika geçmiş ve tüm vücut dönmüş demektir.
+        if (window.KUMULATIF_KAN_HACMI >= 5000) {
+            window.KUMULATIF_KAN_HACMI -= 5000; // Sayacı sıfırlamadan devret
+            window.VUCUT_DOLAŞIM_TURU += 1;    // Bütün vücudu dolaşma turunu 1 artır
+        }
+
+        // Toplam akan kanı Litre formatına çeviriyoruz
+        let toplamAkanLitre = (window.VUCUT_DOLAŞIM_TURU * 5.0) + (window.KUMULATIF_KAN_HACMI / 1000);
 
             if (phaseProgress < (period / 2)) {
                 breathHtml = '<span style="color: #ffaa00; font-weight: bold; text-shadow: 0 0 5px #ffaa00;">INHALATION</span>';
@@ -848,12 +869,39 @@ telemetryBox.innerHTML = `
     <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px;">
         <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">BPM: ${dynamicBPM.toFixed(0)} BPM (RESONANCE)</span><br>
         EKG: <span style="color: #33ffff; font-weight: bold;">${formatEkg}</span> | FQ: <span style="color: #ffaa00;">${formatHz}</span> (BXN)<br>
-                     SV: <span style="color: #ff9900; font-weight: bold;">${strokeVol} mL</span>/beat (PUMP VOL)<br>
-                CO: <span style="color: #33ffff; font-weight: bold;">${cardOutput} L</span>/min (CARDIAC OUTPUT)<br>
-                <small style="color: #666; font-size: 11px;">Simülasyon Gecikmesi: ${(deltaTime * 1000).toFixed(1)} ms</small>
-        METABOLİZMA: <span style="color: #00ff00; text-transform: uppercase; font-size: 10.5px;">${dynamicMetabolizmaText}</span><br>
-        OKSİJEN: <span style="color: #00ff00;">${event.data.oksijen || "%98.0 SpO2"}</span> | ELM: <span style="color: ${elementColor}; font-weight: bold;">${liveElement}</span>
-    </div>
+                    <div style="font-size: 12px; white-space: nowrap; line-height: 1.5; width: 100%; overflow: hidden; letter-spacing: -0.2px; font-family: monospace; padding: 5px;">
+            <div style="font-size: 11px; white-space: nowrap; line-height: 1.5; font-family: monospace; padding: 2px;">
+            
+ <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px; font-family: monospace;">
+                
+                <!-- Heart Rate -->
+                <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">
+                    💓 HEART RATE: ${dynamicBPM.toFixed(0)} BPM
+                </span><br>
+                
+            
+                <!-- Active Systolic Ejection (Dynamic Piston Motion) -->
+                💧 STROKE VOLUME: <span style="color: #ff9900; font-weight: bold;">${anlikAtimMiktari.toFixed(1)} mL</span> / beat<br>
+                
+                <!-- Cardiac Output Volume Tracker -->
+                📊 CARDIAC OUTPUT: <span style="color: #33ffff; font-weight: bold;">${cardOutput.toFixed(2)} L</span> / min<br>
+                
+                <!-- 5L hard reset gauge -->
+                <div style="border-top: 1px dashed #004400; margin-top: 4px; padding-top: 4px; color: #00ff00;">
+                    TOTAL VOL PERMUTED: <span style="font-weight: bold; color: #fff;">${(window.KUMULATIF_KAN_HACMI / 1000).toFixed(3)} L</span> / 5.000 L
+                </div>
+                
+                <!-- Systemic circulation closed loop counter -->
+                <div style="color: #ffff00; font-weight: bold; margin-top: 2px;">
+                    🔄 SYSTEMIC CYCLES: ${window.VUCUT_DOLAŞIM_TURU} LAP
+                </div>
+                
+            
+            </div>
+            
+        </div>
+        METABOLISM: <span style="color: #00ff00; text-transform: uppercase; font-size: 10.5px;">${dynamicMetabolizmaText}</span><br>
+        SATURATION: <span style="color: #00ff00;">${event.data.oksijen || "98.0% SpO2"}</span> | ELM: <span style="color: ${elementColor}; font-weight: bold;">${liveElement}</span>
     <div style="border-top: 1px dashed #004400; margin-top: 5px; padding-top: 5px; font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.2px;">
         RESP: <span style="color: #00ff00;">${liveResp.toFixed(1)}</span> BrPM | MODE: ${breathHtml}<br>
         PRQ RATIO: <span style="color: #00ff00;">${actualPRQ.toFixed(2)}</span> / 4.00<br>
