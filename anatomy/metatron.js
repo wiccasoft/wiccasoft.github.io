@@ -191,32 +191,36 @@ function injectMetatronMetabolism() {
 
 
 /// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
-// 0.045 değeri 74 BPM insan dinlenme kalbiyle tam uyumludur.
 window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
-//ız Sabitlemesi (metatronPulseSpeed): Bir tam kosinüs turu \(2\pi \approx 6.28\) radyandır. 
-// 60 FPS ekran yenileme hızında, döngünün ortalama 3 saniye (180 frame) sürmesi için
-//  window.metatronPulseSpeed değerinin tam olarak 0.035 olarak ayarlanması gerekir (\(6.28 / 180 \approx 0.035\)).
-// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
+
+/// ⚡ DİNAMİK NABIZ VE MOTOR BAŞLANGICI
+window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
+
 window.MetatronEngine = function() {
-    if (!window.METATRON_SPECTRUM_MODEL || !window.KuantumKafesi) return;
-    if (window.heartAnimationActive !== true) return;
+    // 🔲 MARŞ KİLİDİ: Model hazır değilse bekle
+    if (!window.METATRON_SPECTRUM_MODEL) return;
+    
+    // ⚡ FORCE MOTOR START: Animasyonu zorla aktif et
+    window.heartAnimationActive = true;
 
-  
+    // 🌐 SAAT VE HIZ AYARI
+    if (window.MetatronMasterClock === undefined) window.MetatronMasterClock = 0;
+    const currentSpeed = (window.metatronPulseSpeed || 0.035) * 1.2;  
+    window.MetatronMasterClock = (window.MetatronMasterClock + (currentSpeed * 25)) % 800;
+
+    // 🔍 PANEL BAĞLANTI LOGU
+    console.log("🫀 MOTOR ATEŞLENDİ! Saat:", Math.round(window.MetatronMasterClock));
+
+    // Odalar ve Spektrum ayarları
     window.chambersTimers = window.chambersTimers || {};
-
     const baseSpectrum = window.solfeggiospec;
     const spectrumOrder = [...baseSpectrum].reverse();
-    //const currentSpeed = window.metatronPulseSpeed || 0.1047; 
-
-
-     //const currentSpeed = (window.metatronPulseSpeed || 0.035); 
-      // 🎯 25 FPS Adaptasyonu: 60 FPS'ten 25'e düşüş için hızı ~2.4x oranında ölçekliyoruz.
-    const currentSpeed = (window.metatronPulseSpeed || 0.035) * 1.2;  
-    //const currentSpeed = (window.metatronPulseSpeed || 0.035) * 4.8;
-
-
-    window.chambersTimers = window.chambersTimers || {};
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
+
+    const globalClock = window.MetatronMasterClock || 0;
+    let wave = 0;
+    let maxWaveValue = -1;
+    let localDominantChamber = null;
 
 // 🔲 MASTER KİLİT: TELEMETRİ KOPMA KORUMASI 
     if (window.MetatronMasterClock === undefined) {
@@ -599,27 +603,28 @@ if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
     }
 }
 
-if (typeof window.initSkelaton === "function") {
-    window.initSkelaton();
-}
-
-// Global izleme kronometrelerinin hafıza ilklendirmeleri
-window.sonVurusZamani = window.sonVurusZamani || performance.now();
-window.dalgaTepesinde = window.dalgaTepesinde || false;
 
 // 🪐 ULTRA-LIGHT TELEMETRY WATCHDOG (60 FPS)
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
-// Kronometre değişkenleri
+// Kronometre hafıza değişkenlerini sağlama alıyoruz
 window.sonVurusZamani = window.sonVurusZamani || performance.now();
 window.dalgaTepesinde = window.dalgaTepesinde || false;
+window.canliGecenSureMS = window.canliGecenSureMS || 800;
 
-// 🪐 ULTRA-LIGHT WATCHDOG (60 FPS / ~16ms)
+// 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
 setInterval(() => {
-    // Performans için kontrol
-    if (window.heartAnimationActive !== true || !window.MetatronAcademicTelemetry?.[1]) return;
+    // 🚀 MARŞ KABLOSU: Motoru her şeyden önce zorla çağırıyoruz ki veri üretsin!
+    if (typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
 
-    // ◄ KESİN ÇÖZÜM: .wave tanımsızlığı giderildi! mekanikWave okundu.
+    // Performans ve Veri Kontrolü (Motor çalıştıktan sonra veriyi güvenle kontrol edebiliriz)
+    if (window.heartAnimationActive !== true || !window.MetatronAcademicTelemetry?.[1]) {
+        return;
+    }
+
+    // ◄ KESİN ÇÖZÜM: Mekanik dalga verisi artık yukarıdaki çağrı sayesinde tıkır tıkır okunur
     const currentWave = parseFloat(window.MetatronAcademicTelemetry[1].mechanicalWave || 0);
     
     // Zirve tespiti ve BPM hesabı
@@ -640,9 +645,5 @@ setInterval(() => {
 }, 16);
 
 // 🪐 metatron.js Sonu - Tüm kuantum matris akışı jilet gibi senkronize edildi.
-// Kronometre hafıza değişkenlerini metatron.js küresel alanında başlatıyoruz
-window.sonVurusZamani = window.sonVurusZamani || performance.now();
-window.dalgaTepesinde = window.dalgaTepesinde || false;
-window.canliGecenSureMS = window.canliGecenSureMS || 800;
 
 
