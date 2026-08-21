@@ -289,17 +289,29 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     else if (ch.id === 3 || ch.id === 6) {
         customWave = 0.25 + Math.abs(Math.sin(basePhase)) * 0.55;
     }
- // 🎯 DALGA HESAPLAMA, EMISSIVE GÜNCELLEMELER VE TELEMETRİ ENJEKSİYONU
+
+    
+     // 🎯 DALGA HESAPLAMA, EMISSIVE GÜNCELLEMELER (ULTRA CPU SAVER MODEL)
     wave = (customWave !== null) ? customWave : (((Math.cos(basePhase + delayFactor) + 1) * 0.38) + 0.24);
     wave = Math.max(0.15, Math.min(1.0, wave));
 
     if (mesh.material) {
         mesh.userData = mesh.userData || {};
-        mesh.userData.currentWave = wave;
-        mesh.material.transparent = true;
-        const isCenter = ch.id === 3 || ch.id === 6;
-        mesh.material.opacity = isCenter ? 0.35 + (wave * 0.50) : 0.20 + (wave * 0.80);
-        if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = wave * (isCenter ? 2.5 : 3.0);
+        
+        // KESİN ÇÖZÜM: Değişim eşiği (Threshold) kontrolü!
+        // Eğer dalga değişimi 0.015'ten küçükse, boşuna WebGL ve GPU güncellemesi yapma!
+        const prevWave = mesh.userData.currentWave || 0;
+        if (Math.abs(wave - prevWave) > 0.015) {
+            mesh.userData.currentWave = wave;
+            mesh.material.transparent = true;
+            
+            const isCenter = ch.id === 3 || ch.id === 6;
+            mesh.material.opacity = isCenter ? 0.35 + (wave * 0.50) : 0.20 + (wave * 0.80);
+            
+            if (mesh.material.emissiveIntensity !== undefined) {
+                mesh.material.emissiveIntensity = wave * (isCenter ? 2.5 : 3.0);
+            }
+        }
     }
 
     if (typeof window.metatronMeshScaler === "function") window.metatronMeshScaler(mesh, null, ch);
@@ -359,22 +371,34 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         localDominantChamber = ch;
     }
 
- // YERİNE BUNU YAPIŞTIR:
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (ULTRA-LIGHT CPU OPTİMİZELİ)
+    // ========================================================================
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (TAM UYUM ENJEKSİYONU)
+    // ========================================================================
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
+    window.MetatronTelemetry = window.MetatronTelemetry || {};
     
+    // telemetry.js'in içeride .includes() arayıp çökmesini önleyecek ham kelime yapısı
+    const sabitMetinDurumu = safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)";
+
+    // 1. Akademik Telemetri Havuzunun Mühürlenmesi
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
-        frequencyHz: currentHZ,     
-        voltageMV: currentMV,       
-        mechanicalWave: wave,       
-        phaseState: safeDecaying ? 0 : 1, 
+        frequencyHz: currentHZ,     // CPU dostu saf float sayı
+        voltageMV: currentMV,       // CPU dostu saf float sayı
+        mechanicalWave: wave,       // CPU dostu saf float sayı
+        phaseState: sabitMetinDurumu, // telemetry.js:225 satırının aradığı evrensel .includes mühürü!
         timestampMS: performance.now()
     };
 
+    // 2. Eski Telemetri Nesnesine de senkronizasyon (telemetry.js'in diğer yan dalları için koruma)
+    window.MetatronTelemetry[ch.id] = {
+        energy: wave,
+        phaseState: sabitMetinDurumu,
+        frequencyHz: currentHZ,
+        voltageMV: currentMV
+    };
 }); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü bitti.
-
 // ========================================================================
 // 🏆 MASTER MOTOR KÖPRÜSÜ & 🧬 CRC MOTORU (Tekil Kapanış)
 // ========================================================================
@@ -399,8 +423,9 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
         status: document.getElementById("dyn-crc-status")
     };
 
-    const dom = window.cachedCRCDOM;
+  const dom = window.cachedCRCDOM;
     if (dom) {
+        // Hesaplamaları ve basamakları sadece ekran çıktısı alırken mühürlüyoruz
         const txtResp = liveResp.toFixed(1);
         const txtRatio = ratio.toFixed(2);
         
@@ -431,13 +456,13 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 // KESİN ÇÖZÜM: Tüm mükerrer çift döngüler temizlendi, tek bir hafif zamanlayıcı!
-if (!window.metatronLoopActive) {
-    window.metatronLoopActive = true;
-    setInterval(() => {
-        if (typeof window.MetatronEngine === "function") {
-            window.MetatronEngine();
-        }
-    }, 16);
-}
+// 🚀 RAM DOSTU ENGINE KICKSTARTER
+setInterval(() => {
+    if (typeof window.MetatronEngine === "function") window.MetatronEngine();
+
+    // 🛑 Çözüm: Hafıza sızıntısı yaratan konsol logları kaldırıldı.
+    // 🛑 Çözüm: Paket dizisi zorla boşaltılıyor (Garbage Collector'a yardımcı).
+    if (window.activePackets) window.activePackets.length = 0; 
+}, 16);
 
 // 🪐 metatron.js Sonu - Sızıntılar temizlendi, akış %100 senkronize.
