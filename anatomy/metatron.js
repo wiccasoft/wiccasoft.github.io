@@ -415,6 +415,59 @@ window.MetatronAcademicTelemetry[ch.id] = {
     metatronLiveMs: `${safDinamikMS.toFixed(0)} ms`
 };
     }); // 🎯 KUTSAL KAPANIŞ 1: METATRON_SPECTRUM_MODEL.forEach Döngüsünün Gerçek Sonu!
+
+
+    // ========================================================================
+// 🧬 CANLI METATRON KARDİYORESPİRATUAR KUPLAJ (CRC) MOTORU ENJEKSİYONU
+// ========================================================================
+// Kırmızı ve Mavi odaların dalga enerjisini sarsıntı referansı olarak çekiyoruz
+if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
+    const kirmiziOda = window.MetatronAcademicTelemetry[1]; // Red Chamber (Systole)
+    const maviOda = window.MetatronAcademicTelemetry[7];    // Blue Chamber (Diastole)
+    
+    // Odaların mikro voltaj ve mekanik dalga salınımından anlık biyolojik gürültü üretiyoruz
+    let mekanikDalga = parseFloat(kirmiziOda.mechanicalWave || 0.5);
+    let anlikBPMHiri = (mekanikDalga - 0.5) * 1.8; 
+
+    // 1. Dinamik Kalp Hızı (74 BPM merkezli canlı esneme)
+    let liveBPM = 74.0 + anlikBPMHiri;
+    
+    // 2. Dinamik Solunum Hızı (20 BrPM merkezli, mavi odanın gevşeme fazına duyarlı salınım)
+    let maviDalga = parseFloat(maviOda ? maviOda.mechanicalWave : 0.5);
+    let liveResp = 20.0 + (maviDalga - 0.5) * 0.4;
+
+    // 3. Akademik Altın Oran (4:1) ve Sapma Hesaplama
+    const IDEAL_PRQ = 4.0;
+    let actualPRQ = liveBPM / liveResp;
+    let deviation = Math.abs(IDEAL_PRQ - actualPRQ);
+
+    // 4. Yeşil Oda Topraklama Lagının Dinamik Hesabı
+    const BASE_GREEN_LAG = 198;
+    let calculatedLag = BASE_GREEN_LAG + (deviation * 143.5);
+    let addedLag = Math.round(calculatedLag - BASE_GREEN_LAG);
+
+    // 5. DOM Panel Güncellemesi (Sol Panel)
+    const respDOM = document.getElementById("dyn-resp");
+    const prqDOM = document.getElementById("dyn-prq");
+    const statusDOM = document.getElementById("dyn-crc-status");
+
+    // Projende eğer BPM id'si varsa ana kalp hızını da canlı titretebilirsin:
+    // const bpmDOM = document.getElementById("ui-bpm"); if(bpmDOM) bpmDOM.innerText = Math.round(liveBPM) + " BPM";
+
+    if (respDOM) respDOM.innerText = liveResp.toFixed(1);
+    if (prqDOM) prqDOM.innerText = actualPRQ.toFixed(2);
+
+    if (statusDOM) {
+        if (deviation < 0.05) {
+            statusDOM.innerText = "LOCKED (4:1)";
+            statusDOM.style.color = "#00ff00"; // Kusursuz kuplaj yeşili
+        } else {
+            // Sapma arttıkça sağ panele binen yük milisaniye cinsinden canlı akar
+            statusDOM.innerText = `ASYNC (+${addedLag}ms LAG)`;
+            statusDOM.style.color = "#ff00ff"; // Wiccasoft Magenta/Pembe alarm estetiği
+        }
+    }
+}
 }; // 🎯 KUTSAL KAPANIŞ 2: window.MetatronEngine = function() Ana Gövdesinin Gerçek Sonu!
 
 if (typeof window.initSkelaton === "function") {
