@@ -185,18 +185,16 @@ function calculateMetatronRespiration(heartRate) {
     }
 };
 
-    // 📡 Üst penceredeki (main.html) HUD kontrol paneline şifreli akımı basıyoruz
+    // 📡 Üst penceredeki (main.html) HUD kontrol paneline Sadece SAF / HAM verileri basıyoruz
     window.parent.postMessage({
         komut: "HUD_PANEL_GUNCELLE",
         ekg: `${ekgMv.toFixed(1)} mV`,
-        tansiyon: `${basincMmHg} mmHg`,
         oksijen: `%${oksijenSaturation.toFixed(1)} SpO2`,
         ph: `${kanPh.toFixed(2)} pH`,
         metabolizma: metabolikDurum,
         frekans: `${dominantChamber.q} Hz`,
-        element: dominantChamber.id === 1 ? "FIRE" : (dominantChamber.id === 8 ? "EARTH" : (dominantChamber.id === 7 ? "WATER" : "AIR")),
-        wave: waveValue,
-        bpm: "74 BPM" // 🔑 İŞTE ARADIĞIN KİLİT SİNYAL ENJEKSİYONU!
+        element_id: dominantChamber.id, // Baskın oda ID'sini direkt ham gönderiyoruz
+        wave: waveValue
     }, "*");
 }
 
@@ -224,6 +222,9 @@ function animate() {
         window.updateMetatronLoop();
     }
 }
+
+
+
 
 // 🛠 4. MOTORU GÜVENLİ BAŞLATMA ŞALTERİ
 window.addEventListener('DOMContentLoaded', () => {
