@@ -484,36 +484,6 @@ function toggleMatrixIllusionFilter() {
 }
 
 
-    // main.html içindeki buton tetikleyicisi:
-function modDegistir(yeniMod) {
-    const iframe = document.getElementById("anatomy-viewport"); // iframe id'niz
-    iframe.contentWindow.postMessage({ komut: "MOD_TETIKLE", mod: yeniMod }, "*");
-}
-
-    // main.html içine eklenecek dinleyici:
-window.addEventListener("message", (event) => {
-    if (event.data.komut === "EKRAN_GUNCELLE") {
-        document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${event.data.mv.toFixed(0)} mV`;
-        document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
-    }
-});
-
-
-
-
-// 🔒 AUTHORITATIVE ORIGIN REGEX SHIELD
-const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasoft\.github\.io/;
-
-window.addEventListener("message", (event) => {
-    // Drop execution blocks if context origin fails integrity verification
-    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
-
-    // Route message safely into UI DOM trees
-    if (event.data && event.data.komut === "EKRAN_GUNCELLE") {
-        document.getElementById("kalp-sinyali").innerText = `${event.data.bpm} BPM / ${Number(event.data.mv).toFixed(0)} mV`;
-        document.getElementById("human-state").innerText = `DURUM: ${event.data.mod}`;
-    }
-});
 
 
 
@@ -924,26 +894,67 @@ telemetryBox.innerHTML = `
 
 
 
-document.addEventListener("DOMContentLoaded", () => {
-    const iframe = document.getElementById("anatomy-engine");
-    const btn = document.getElementById('perf-toggle-btn');
-    
-    // HTML'deki buton stilini ve metnini de açılışta yeşil ECO olarak senkronize ediyoruz
-    if (btn) {
-        btn.innerText = "25 FPS (ECO)";
-        btn.style.color = "#99ff33"; // Çevre dostu eko yeşili
-        btn.style.borderColor = "#99ff33";
-        btn.style.boxShadow = "0 0 8px rgba(153,255,51,0.3)";
+
+
+// 🔒 AUTHORITATIVE ORIGIN REGEX SHIELD (GITHUB + XYZ ENTEGRASYONU)
+const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasoft\.github\.io|^https:\/\/wiccasoft\.xyz/;
+
+// 🔋 Küresel hedef FPS durumunu takip eden değişken (Yoksa tanımlayalım)
+window.mainTargetFPS = window.mainTargetFPS || 25;
+
+// 🔮 TÜM TELEMETRİ VE KONTROL AKIŞINI YÖNETEN TEK AMİRAL GEMİSİ DİNLEYİCİ
+window.addEventListener("message", (event) => {
+    // 1. GÜVENLİK KALKANI: Köken doğrulaması başarısızsa infazı durdur
+    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+
+    // Emniyet kilidi: Gelen veri boş veya tanımsızsa işlem yapma
+    if (!event.data) return;
+
+    // 🚀 A) ALTTAN GELEN HANDSHAKE (EL SIKIŞMA) SİNYALİ
+    if (event.data.komut === "TELEMETRY_ENGINE_READY") {
+        console.log("[METATRON KÖPRÜSÜ] .XYZ üzerinden el sıkışma alındı. FPS emri gönderiliyor...");
+        
+        // Sayfada kullanılan tüm olası iframe ID'lerini güvenli yakalama hattı
+        const iframe = document.getElementById("anatomy-engine") || 
+                       document.getElementById("anatomy-viewport") || 
+                       document.getElementById("metatronIframeId");
+                       
+        if (iframe && iframe.contentWindow) {
+            // Motorun beklediği "SET_TARGET_FPS" sinyalini mevcut küresel duruma göre fırlat
+            iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: window.mainTargetFPS }, "*");
+        }
+        return; // Handshake işlendi, alt satırlara bakmaya gerek yok
     }
 
-    if (iframe) {
-        iframe.onload = () => {
-            console.log("[METATRON KÖPRÜSÜ] Iframe hazır. 25 FPS ECO kilidi vuruluyor...");
-            iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: 25 }, "*");
-        };
+    // 📈 B) EKRAN GÜNCELLEME SİNYALİ (BPM VE MV VERİ HATTI)
+    if (event.data.komut === "EKRAN_GUNCELLE") {
+        const kalpSinyali = document.getElementById("kalp-sinyali");
+        const humanState = document.getElementById("human-state");
+        
+        if (kalpSinyali) {
+            const mvValue = Number(event.data.mv);
+            kalpSinyali.innerText = `${event.data.bpm} BPM / ${isNaN(mvValue) ? 0 : mvValue.toFixed(0)} mV`;
+        }
+        if (humanState) {
+            humanState.innerText = `DURUM: ${event.data.mod}`;
+        }
     }
+
+    // NOT: Eğer hud panel güncelleme mantığın varsa, onun "HUD_PANEL_GUNCELLE" if bloğu da tam buraya, bunun altına gelmeli!
 });
 
+// 🔳 ANA SAYFADAKİ MOD DEĞİŞTİRİCİ BUTON FONKSİYONU (ID UYUMLU GÜVENLİ SÜRÜM)
+function modDegistir(yeniMod) {
+    const iframe = document.getElementById("anatomy-engine") || 
+                   document.getElementById("anatomy-viewport") || 
+                   document.getElementById("metatronIframeId");
+                   
+    if (iframe && iframe.contentWindow) {
+        iframe.contentWindow.postMessage({ komut: "MOD_TETIKLE", mod: yeniMod }, "*");
+    } else {
+        console.error("[METATRON ERROR] Mod değiştirilemedi, hedef iframe bulunamadı.");
+    }
+}
 
   </script>
 
