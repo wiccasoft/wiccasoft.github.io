@@ -401,6 +401,8 @@ function toggleMainPerformanceMode() {
 }
 
 
+
+
 function toggleMirrorButton() {
     alert("4 Element Aynalama Modu Aktif Cetvelleri Hazırlanıyor!");
 }
@@ -445,35 +447,31 @@ function toggleMatrixIllusionFilter() {
 
 
 
-
 // ============================================================================
-// 🔳 THE ULTIMATE PARAMETERLESS TOGGLE DECK (SÜREKLİ TRUE/FALSE KİLİDİNİ KIRAN MOTOR)
+// 🔳 THE ULTIMATE PARAMETERLESS TOGGLE DECK (KESİN SİNYAL FIRLATAN PARALEL HAT)
 // ============================================================================
 
-// 🩻 BUTON 1: SARI İSKELET ŞALTERİ (KUSURSUZ TOGGLE)
+// 🩻 BUTON 1: SARI İSKELET ŞALTERİ (KUSURSUZ TOGGLE & TRANSMIT)
 window.toggleSkeletonButton = function() {
-    // 🔑 KESİN ÇÖZÜM: window nesnesindeki durumu kontrol et ve mutlak olarak tersine çevir
     if (window.skeletonState === undefined) window.skeletonState = true;
     window.skeletonState = (window.skeletonState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Iskelet Butonu Tetiklendi. Yeni Sinyal: ${window.skeletonState}`);
 
-   // ✂️ Mevcut arama hattını sil ve yerine doğrudan bunu çak aga:
-const iframe = document.getElementById("anatomy-engine");
+    const iframe = document.getElementById("anatomy-engine");
+    if (iframe && iframe.contentWindow) {
+        // 🚀 SİNYAL ATEŞLENDİ: Alt taraftaki skeleton.js bu komutu bekliyor!
+        iframe.contentWindow.postMessage({ 
+            komut: "ISKELET_DURUMU_DEGISTIR", 
+            durum: window.skeletonState 
+        }, "*");
+    }
 };
 
-
-// main.html içindeki o inatçı döngü tuzağı:
-if (window.axesState === undefined) window.axesState = true;
-window.axesState = (window.axesState === true) ? false : true; 
-
-
-// 🧭 BUTON 2: RGB EKSEN MİLLERİ ŞALTERİ (KUSURSUZ TOGGLE)
+// 🧭 BUTON 2: RGB EKSEN MİLLERİ ŞALTERİ (KUSURSUZ TOGGLE & TRANSMIT)
 window.toggleAxesButton = function() {
     if (window.axesState === undefined) window.axesState = true;
     window.axesState = (window.axesState === true) ? false : true;
-    
-
     
     console.log(`[DECK DIRECT] Eksen Butonu Tetiklendi. Yeni Sinyal: ${window.axesState}`);
 
@@ -483,32 +481,42 @@ window.toggleAxesButton = function() {
         btn.style.border = window.axesState ? "1px solid #fff" : "1px solid #222";
     }
 
-   // ✂️ Mevcut arama hattını sil ve yerine doğrudan bunu çak aga:
-const iframe = document.getElementById("anatomy-engine");
+    const iframe = document.getElementById("anatomy-engine");
+    if (iframe && iframe.contentWindow) {
+        // 🚀 SİNYAL ATEŞLENDİ: Alt taraftaki skeleton.js bu komutu bekliyor!
+        iframe.contentWindow.postMessage({ 
+            komut: "EKSEN_DURUMU_DEGISTIR", 
+            durum: window.axesState 
+        }, "*");
+    }
 };
 
-// ❤️ BUTON 3: KUANTUM KALP ATİŞ ŞALTERİ (KUSURSUZ TOGGLE)
+// ❤️ BUTON 3: KUANTUM KALP ATİŞ ŞALTERİ (KUSURSUZ TOGGLE & TRANSMIT)
 window.toggleHeartButton = function() {
     if (window.heartState === undefined) window.heartState = false;
     window.heartState = (window.heartState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Kalp Butonu Tetiklendi. Yeni Sinyal: ${window.heartState}`);
-// ✂️ Mevcut arama hattını sil ve yerine doğrudan bunu çak aga:
-const iframe = document.getElementById("anatomy-engine");
+
+    const iframe = document.getElementById("anatomy-engine");
+    if (iframe && iframe.contentWindow) {
+        // 🚀 SİNYAL ATEŞLENDİ: Alt taraftaki metatron.js bu komutu bekliyor!
+        iframe.contentWindow.postMessage({ 
+            komut: "KALP_DURUMU_DEGISTIR", 
+            durum: window.heartState 
+        }, "*");
+    }
 };
 
-// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE - KÖPRÜ DÜZELTİLDİ)
+// ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE - KORUMALI)
 window.toggleAngleButton = function() {
-
     if (window.angleState === undefined) window.angleState = false;
     window.angleState = (window.angleState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Angle Butonu Tetiklendi. Yeni Sinyal: ${window.angleState}`);
 
-    // Projendeki iframe ID'lerine göre tam korumalı yakalama hattı
-    const iframe = document.getElementById("anatomy-viewport") || 
-                   document.getElementById("metatronIframeId") || 
-                   document.querySelector("iframe");
+    // Karmaşık ID yapılarını doğrudan tekil amiral gemisi ID'sine indirgedik
+    const iframe = document.getElementById("anatomy-engine");
                    
     if (iframe && iframe.contentWindow) {
         // 🔑 KESİN ÇÖZÜM: Doğru komutu (SET_TOP_VIEW) ve doğru şalter durumunu (angleState) fırlatıyoruz!
@@ -594,246 +602,6 @@ window.isLightningLocked = window.isLightningLocked || false; // Çift dönmeyi 
 window.KUMULATIF_KAN_HACMI = window.KUMULATIF_KAN_HACMI || 0;
 window.VUCUT_DOLAŞIM_TURU = window.VUCUT_DOLAŞIM_TURU || 0;
 
-
-window.addEventListener("message", (event) => {
-    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
-
-
-    if (event.data && event.data.komut === "HUD_PANEL_GUNCELLE") {
-        const telemetryBox = document.getElementById("telemetryScreen");
-        if (telemetryBox) {
-            
-            // 1. ZAMAN VE SAF SAYISAL VERİ ANALİZİ
-            const simdi = performance.now();
-            const deltaTime = (simdi - window.lastFrameTime) / 1000; 
-            window.lastFrameTime = simdi;
-
-            // 🌀 1 mV = 40 Hz KUTSAL REZONANS MOTORU
-            // anatomy.html'den gelen canlı wave dalgasını (0.0 ile 1.0 arası) baz alıyoruz
-            const liveWave = parseFloat(event.data.wave) || 0.0;
-
-            // 1. Kalp kasıldıkça voltaj jilet gibi tam +30.0 mV sınırına tavan yapar
-            let currentEkgMv = liveWave * 30.0; 
-
-            // 2. Senin o efsane dâhi formülün: Her 1 mV için frekansı 40 Hz kırbaçlıyoruz!
-            // Voltaj 30 mV olduğunda frekans tam 1200.00 Hz (BXN) olarak mühürlenir.
-            let currentMetatronHz = currentEkgMv * 40.0; 
-
-
-            // HUD Ekranı için formatlama (Örn: EKG: 30.0 mV | FQ: 1200.00 Hz)
-            let formatEkg = `${currentEkgMv.toFixed(1)} mV`;
-            let formatHz = `${currentMetatronHz.toFixed(2)} Hz`;
-
-            // 2. SAĞ TABLO KİLİTLİ DINAMİK VERİLER
-            let dynamicBPM = 74.0 + (Math.sin(liveWave * Math.PI) * 1.5);
-            let realMetatronFQ = 221.21 + (liveWave * 15.6);
-
-            // 3. SOLUNUM MOTORU (4:1 Altın Oran Korumalı)
-            window.metatronPhrenicClock += deltaTime * (1.0 + (liveWave - 0.5) * 0.15);
-            const period = 3.8; 
-            const phaseProgress = (window.metatronPhrenicClock % period);
-
-            let breathHtml = "";
-            let scaleFactor = 0.5;
-        // 2. 🫀 ANLIK POMPALANAN (Piston Hareketi)
-        // Sabit duran strokeVol yerine dalgayı çarparak kalbin içindeki kanın boşalma anını simüle ediyoruz.
-        // Kalp kasıldığında (liveWave = 1) tam 70 mL damara fırlar, gevşediğinde 0'a doğru çekilir.
-        let targetStrokeVol = parseFloat(window.LIVE_STROKE_VOLUME || 70.0);
-        let anlikAtimMiktari = liveWave * targetStrokeVol
-
-
-        // 3. ⏱️ 1 DAKİKADA 5 LİTREYE KOŞAN KÜRESEL SAYAÇ
-        // Her milisaniyede akan kanı debiye (L/dk) göre üst üste biriktiriyoruz
-        let cardOutput = parseFloat(window.LIVE_CARDIAC_OUTPUT || 5.0);
-        window.KUMULATIF_KAN_HACMI += (cardOutput * 1000 / 60) * deltaTime; // mL cinsinden sürekli ekler
-
-            // ÖRNEK ANALİZ: Zaman dilimi içindeki akış (Litre/saniye hesabı veya FPS ölçümü için)
-            // İki güncelleme arası geçen süre (deltaTime) çok uzunsa kare atlaması (stuttering) tespiti yapabilirsiniz.
-            const anlikAkisHizi = (cardOutput / 60) * deltaTime; // Bu frame'de akan tahmini litre
-             // 4. 🔄 5 LİTREDE BİR TÜM VÜCUDU GEZME KİLİDİ
-        // Kan miktarı 5000 mL (5 Litre) olduğunda tam 1 dakika geçmiş ve tüm vücut dönmüş demektir.
-        if (window.KUMULATIF_KAN_HACMI >= 5000) {
-            window.KUMULATIF_KAN_HACMI -= 5000; // Sayacı sıfırlamadan devret
-            window.VUCUT_DOLAŞIM_TURU += 1;    // Bütün vücudu dolaşma turunu 1 artır
-        }
-
-        // Toplam akan kanı Litre formatına çeviriyoruz
-        let toplamAkanLitre = (window.VUCUT_DOLAŞIM_TURU * 5.0) + (window.KUMULATIF_KAN_HACMI / 1000);
-
-            if (phaseProgress < (period / 2)) {
-                breathHtml = '<span style="color: #ffaa00; font-weight: bold; text-shadow: 0 0 5px #ffaa00;">INHALATION</span>';
-                scaleFactor = phaseProgress / (period / 2);
-            } else {
-                breathHtml = '<span style="color: #ffaa00; font-weight: bold; text-shadow: 0 0 5px #ffaa00;">EXHALATION</span>';
-                scaleFactor = 1.0 - ((phaseProgress - (period / 2)) / (period / 2));
-            }
-
-            // 4. CRC KİLİTLENME DEĞERLERİ
-            let liveResp = (dynamicBPM / 4.0) + (scaleFactor - 0.5) * 1.8; 
-            let actualPRQ = dynamicBPM / liveResp;
-            
-            const IDEAL_PRQ = 4.0;
-            let deviation = Math.abs(IDEAL_PRQ - actualPRQ);
-
-            const BASE_GREEN_LAG = 198;
-            let calculatedLag = BASE_GREEN_LAG + (deviation * 143.5);
-            let addedLag = Math.round(calculatedLag - BASE_GREEN_LAG);
-
-            let statusColor = "#ff00ff"; 
-            let statusText = `ASYNC (+${addedLag}ms LAG)`;
-            if (deviation < 0.05) {
-                statusColor = "#00ff00";
-                statusText = "LOCKED (4:1)";
-            }
-
-// ⚡ 5. METABOLİZMA PARÇALAMA MOTORU (Kalp Atışına Duyarlı Glikojen Tüketimi)
-// Biyokimya Kanunu: Kalp her kasıldığında (liveWave yükseldiğinde) glikojen harcanır ve azalır!
-let dynamicMetabolizmaText = "LIV: STANDBY / RESP: STABLE";
-try {
-    if (scaleFactor > 0.5) {
-        // INHALATION (Nefes Alma): Oksijen sentezi ve hücresel enerji üretimi aktif
-        let atpProgress = Math.round(85 + (scaleFactor * 14));
-        dynamicMetabolizmaText = `LIV: STORAGE / RESP: OXIDATIVE ${atpProgress}%`;
-    } else {
-        // EXHALATION (Nefes Verme): Kalp dalgasına (liveWave) bağlı dinamik glikojen tüketimi.
-        // liveWave tepeye vurdukça (kasılmada) glikojen seviyesi %70'lere kadar düşer (harcanır),
-        // liveWave tabana indikçe (gevşemede) depo %90'a doğru geri şarj olur!
-        let liverGlycogen = Math.round(90 - (liveWave * 20)); 
-        dynamicMetabolizmaText = `LIV: GLYCOGEN ${liverGlycogen}% / RESP: BUFFER`;
-    }
-} catch (e) {
-    dynamicMetabolizmaText = "LIV: ACTIVE / RESP: DYNAMIC";
-}
-
-           // 🎨 6. ELEMENT YÖNETİMİ (Mevcut kodunuz aynen kalıyor)
-            let rawElementId = parseInt(event.data.element_id) || 1;
-            let rawMetabolizma = event.data.metabolizma || "";
-            let liveElement = "AIR"; 
-            if (rawElementId === 8 || rawMetabolizma.includes("PANCREAS") || rawMetabolizma.includes("LIVER")) {
-                liveElement = "EARTH";
-            }
-            let elementColor = (liveElement === "EARTH") ? "#00ff00" : "#ffaa00";
-
-            // 🩺 6.B MAIN PANEL KİLİTLİ CANLI KLİNİK TANSİYON MOTORU
-            // Artık nefes fazına (scaleFactor) ve o anki oda türüne göre %100 otonom hesaplanıyor!
-            let baseSystolic = 115.0;
-            let baseDiastolic = 75.0;
-
-            if (rawElementId === 1) { // 🟥 ATEŞ ODASI (Sempatik Şok)
-                baseSystolic = 120.0 + (liveWave * 12.0);
-                baseDiastolic = 78.0 + (liveWave * 4.0);
-            } else if (rawElementId === 8) { // 🟩 TOPRAK ODASI (Viseral Sıkıştırma)
-                baseSystolic = 112.0 + (liveWave * 6.0);
-                baseDiastolic = 82.0 + (liveWave * 10.0);
-            } else if (rawElementId === 2) { // 🟧 HAVA ODASI (Dengeli Akış)
-                baseSystolic = 114.0 + (liveWave * 8.0);
-                baseDiastolic = 75.0 + (liveWave * 5.0);
-            } else { // 🔵 SAKİN / VAGAL ODALAR
-                baseSystolic = 108.0 + (liveWave * 4.0);
-                baseDiastolic = 70.0 + (liveWave * 3.0);
-            }
-
-            // 🫁 SOLUNUMSAL VARYASYON BÜKÜMÜ: Nefes alırken (scaleFactor artarken) tansiyon pürüzsüzce 
-            // çok hafif gevşer, nefes verirken deşarj basıncıyla hafifçe yükselir.
-            let finalSystolic = baseSystolic + ((1.0 - scaleFactor) * 4.5);
-            let finalDiastolic = baseDiastolic + ((1.0 - scaleFactor) * 2.0);
-
-            let dynamicTansiyonText = `${finalSystolic.toFixed(0)}/${finalDiastolic.toFixed(0)} mmHg`;
-
-
-            
-
-// 🎛️ 7. NÖRO-KARDİYAK AKS TABLO SENKRONİZASYON MOTORU (Gerçek Renk Kalibrasyonlu)
-// AVP odası kırmızıdan, ortadaki modelle birebir uyumlu Siber Turuncu (#ffaa00) rengine çekildi!
-
-let nodeBXN = "<span style='color:#005555;'>BXN</span>";
-let nodeAVN = "<span style='color:#005555;'>AVN</span>";
-let nodeAVP = "<span style='color:#005555;'>AVP</span>";
-let nodeCEL = "<span style='color:#005555;'>CEL</span>";
-let nodeVFF = "<span style='color:#005555;'>VFF</span>";
-let nodeVSS = "<span style='color:#005555;'>VSS</span>";
-
-// Kalp dalgası yükseldikçe odalar modeldeki gerçek renk tonlarıyla sırayla çakar:
-if (liveWave > 0.12 && liveWave <= 0.28) {
-    nodeBXN = "<span style='color:#ff00ff; text-shadow:0 0 8px #ff00ff; font-weight:bold;'>BXN ⚡</span>"; // Mor/Pembe Oda
-} else if (liveWave > 0.28 && liveWave <= 0.44) {
-    nodeAVN = "<span style='color:#0022ff; text-shadow:0 0 8px #0022ff; font-weight:bold;'>AVN ⚡</span>"; // Lacivert Oda
-} else if (liveWave > 0.44 && liveWave <= 0.58) {
-    nodeAVP = "<span style='color:#ffaa00; text-shadow:0 0 8px #ffaa00; font-weight:bold;'>AVP ⚡</span>"; // 🟠 GERÇEK TURUNCU ODA!
-} else if (liveWave > 0.58 && liveWave <= 0.72) {
-    nodeCEL = "<span style='color:#ffff00; text-shadow:0 0 8px #ffff00; font-weight:bold;'>CEL ⚡</span>"; // Sarı Oda
-} else if (liveWave > 0.72 && liveWave <= 0.86) {
-    nodeVFF = "<span style='color:#00ff00; text-shadow:0 0 8px #00ff00; font-weight:bold;'>VFF ⚡</span>"; // Yeşil Oda
-} else if (liveWave > 0.86) {
-    nodeVSS = "<span style='color:#00ffff; text-shadow:0 0 8px #00ffff; font-weight:bold;'>VSS ⚡</span>"; // Siber Mavi
-} else {
-    // Dinlenme fazında loş siber-mavi bekleyiş
-    nodeBXN = "<span style='color:#008888;'>BXN</span>";
-    nodeAVN = "<span style='color:#008888;'>AVN</span>";
-    nodeAVP = "<span style='color:#008888;'>AVP</span>";
-    nodeCEL = "<span style='color:#008888;'>CEL</span>";
-    nodeVFF = "<span style='color:#008888;'>VFF</span>";
-    nodeVSS = "<span style='color:#008888;'>VSS</span>";
-}
-
-let arrowIcon = "<span style='color:#004400; font-size:8px;'>➔</span>";
-// 8. HUD MASTER PANEL BASIMI (Metabolik Mod Taşmasını Önleyen Jilet Hizalı Nihai Tasarım)
-telemetryBox.innerHTML = `
-    <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px;">
-        <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">BPM: ${dynamicBPM.toFixed(0)} BPM (RESONANCE)</span><br>
-        EKG: <span style="color: #33ffff; font-weight: bold;">${formatEkg}</span> | FQ: <span style="color: #ffaa00;">${formatHz}</span> (BXN)<br>
-                    <div style="font-size: 12px; white-space: nowrap; line-height: 1.5; width: 100%; overflow: hidden; letter-spacing: -0.2px; font-family: monospace; padding: 5px;">
-            <div style="font-size: 11px; white-space: nowrap; line-height: 1.5; font-family: monospace; padding: 2px;">
-            
- <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px; font-family: monospace;">
-                
-                <!-- Heart Rate -->
-                <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">
-                    💓 HEART RATE: ${dynamicBPM.toFixed(0)} BPM
-                </span><br>
-                
-            
-                <!-- Active Systolic Ejection (Dynamic Piston Motion) -->
-                💧 STROKE VOLUME: <span style="color: #ff9900; font-weight: bold;">${anlikAtimMiktari.toFixed(1)} mL</span> / beat<br>
-                
-                <!-- Cardiac Output Volume Tracker -->
-                📊 CARDIAC OUTPUT: <span style="color: #33ffff; font-weight: bold;">${cardOutput.toFixed(2)} L</span> / min<br>
-                
-                <!-- 5L hard reset gauge -->
-                <div style="border-top: 1px dashed #004400; margin-top: 4px; padding-top: 4px; color: #00ff00;">
-                    TOTAL VOL PERMUTED: <span style="font-weight: bold; color: #fff;">${(window.KUMULATIF_KAN_HACMI / 1000).toFixed(3)} L</span> / 5.000 L
-                </div>
-                
-                <!-- Systemic circulation closed loop counter -->
-                <div style="color: #ffff00; font-weight: bold; margin-top: 2px;">
-                    🔄 SYSTEMIC CYCLES: ${window.VUCUT_DOLAŞIM_TURU} LAP
-                </div>
-                
-            
-            </div>
-            
-        </div>
-        METABOLISM: <span style="color: #00ff00; text-transform: uppercase; font-size: 10.5px;">${dynamicMetabolizmaText}</span><br>
-        SATURATION: <span style="color: #00ff00;">${event.data.oksijen || "98.0% SpO2"}</span> | ELM: <span style="color: ${elementColor}; font-weight: bold;">${liveElement}</span>
-    <div style="border-top: 1px dashed #004400; margin-top: 5px; padding-top: 5px; font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.2px;">
-        RESP: <span style="color: #00ff00;">${liveResp.toFixed(1)}</span> BrPM | MODE: ${breathHtml}<br>
-        PRQ RATIO: <span style="color: #00ff00;">${actualPRQ.toFixed(2)}</span> / 4.00<br>
-        CRC PHASE: <span style="color: ${statusColor}; font-weight: bold;">${statusText}</span>
-    </div>
-    <div style="border-top: 1px dashed #004400; margin-top: 5px; padding-top: 5px; font-size: 10.5px; font-family: monospace; color: #008888; text-align: center; letter-spacing: 0px;">
-        NEURO-CARDIAC AXIS PIPELINE<br>
-        <div style="font-size: 9.5px; margin-top: 4px; font-weight: bold; display: flex; justify-content: center; gap: 3px; align-items: center; white-space: nowrap; width: 100%;">
-            ${nodeBXN} <span style="color:#004400; font-size:8px;">➔</span> 
-            ${nodeAVN} <span style="color:#004400; font-size:8px;">➔</span> 
-            ${nodeAVP} <span style="color:#004400; font-size:8px;">➔</span> 
-            ${nodeCEL} <span style="color:#004400; font-size:8px;">➔</span> 
-            ${nodeVFF} <span style="color:#004400; font-size:8px;">➔</span> 
-            ${nodeVSS}
-        </div>
-    </div>
-`;    }
-    }
-});
 
 
 
