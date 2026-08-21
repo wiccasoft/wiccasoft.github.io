@@ -195,8 +195,9 @@ window.metatronPulseSpeed = 0.035;
 // Gözcü zaman kontrol değişkenleri (Motor fonksiyonunun hemen dışına, üstüne yerleştirin)
 window.lastMetatronFrameTime = window.lastMetatronFrameTime || 0;
 
-window.MetatronEngine = function () {
-    const simdi = performance.now();
+// ⚡ SAF PERFORMANS GİRİŞİ: Dışarıdan gelen zaman damgası çarka bağlanıyor
+window.MetatronEngine = function (simdiGelen) {
+    const simdi = simdiGelen || performance.now();
     
     // HIZ KORUMA KALKANI: Eğer son çalışmanın üzerinden 15ms geçmediyse,
     // bu mükerrer bir tetiklemedir. Hesaplamayı es geç, CPU'yu koru!
