@@ -282,45 +282,46 @@ function updateTelemetryPanel() {
                 </div>
             `;
         }
-        // ========================================================================
-        // ⏱️ GÜVENLİ MİLİSANİYE MOTORU (data.cycleTimeMs Bypass Alanı)
+      // ========================================================================
+        // ⏱️ GÜVENLİ MİLİSANİYE MOTORU (DOM REFLOW KALKANI)
         // ========================================================================
         const msEl = document.getElementById('telemetry-live-ms');
         if (msEl) {
+            let hedefMetin = "0 ms";
+            
             if (window.heartAnimationActive === true) {
-                // Eğer data.cycleTimeMs sorunluysa alternatifi olan metatronLiveMs değerini dene, o da yoksa 16ms bas
-                let tazeMS = data.cycleTimeMs || data.metatronLiveMs || "16";
-                // Eğer gelen verinin içinde zaten "ms" yazısı varsa mükerrer ekleme yapma
-                let stringMS = String(tazeMS);
-                msEl.innerText = stringMS.includes("ms") ? stringMS : (stringMS + " ms");
-            } else {
-                msEl.innerText = "0 ms"; // Kalp durduğunda net sıfır çizgisi
+                // Eğer data.cycleTimeMs sorunluysa alternatif havuzları dene
+                const tazeMS = data.cycleTimeMs || data.metatronLiveMs || "16";
+                const stringMS = String(tazeMS);
+                hedefMetin = stringMS.includes("ms") ? stringMS : (stringMS + " ms");
+            }
+
+            // KORUMA: Sadece veri gerçekten değiştiğinde DOM güncellemesi yap, CPU'yu koru!
+            if (msEl.innerText !== hedefMetin) {
+                msEl.innerText = hedefMetin;
             }
         }
-     // ========================================================================
-        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Her Vuruşta Tek Bir PQRST)
+
+        // ========================================================================
+        // 🟢 ÜST KANAL: SAF VOLTAJ OSİLOSKOPU (Lead V5 - Ultra GPU Optimize)
         // ========================================================================
         let p_Wave = 0;
         let qrs_Complex = 0;
         let t_Wave = 0;
 
-        // ⏱️ Fizyolojik Zaman Kapılaması: Enerji sadece kendi evresinde akım çevirir
+        // ⏱️ Fizyolojik Zaman Kapılaması: Enerji dalga fazlarına göre dağıtılır
         if (loopTime < 200) {
-            // 🟣 0 - 200ms: Sadece P Dalgası akar (SAN aktif)
             p_Wave = Math.sin((loopTime / 200) * Math.PI) * 12; 
         } 
         else if (loopTime >= 200 && loopTime < 400) {
-            // 🟠 200 - 400ms: Keskin QRS Kompleksi patlar (AVP aktif)
-            const qrsProgress = (loopTime - 200) / 200;
-            // Çift tepe ve derin S çukuru oluşturan keskin sodyum patlaması
+            const qrsProgress = (loopTime - 200) * 0.005; // 1/200 bölme yükü çarpmaya çevrildi
             qrs_Complex = Math.sin(qrsProgress * Math.PI * 2) * 55 - Math.sin(qrsProgress * Math.PI) * 15;
         } 
         else {
-            // 🟢 400 - 800ms: Yumuşak T Dalgası sönümlenir (VSS aktif)
-            t_Wave = Math.sin(((loopTime - 400) / 400) * Math.PI) * 18;
+            t_Wave = Math.sin(((loopTime - 400) * 0.0025) * Math.PI) * 18; // 1/400 yerine 0.0025
         }
 
-        // Tüm fazların fizyolojik toplamı (Gereksiz ara akımlar temizlendi)
+        // Tüm fazların fizyolojik voltaj toplamı
         leadV5Voltage = -60 + p_Wave + qrs_Complex + t_Wave;
 
         historyMV.push(leadV5Voltage);
@@ -328,26 +329,30 @@ function updateTelemetryPanel() {
 
         oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
         
-        // Sabit Arka Plan Izgarası
+        // 🚀 KESİN ÇÖZÜM: Tekil Yol (Single-Path) Izgara Motoru
         oscCtx.strokeStyle = 'rgba(26, 54, 93, 0.08)';
         oscCtx.lineWidth = 0.5;
+        oscCtx.beginPath(); // Döngü içindeki yüzlerce başlama/bitirme çağrısı tek merkeze alındı
         for (let g = 0; g < oscCanvas.width; g += 20) {
-            oscCtx.beginPath(); oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height); oscCtx.stroke();
-            oscCtx.beginPath(); oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g); oscCtx.stroke();
+            oscCtx.moveTo(g, 0); oscCtx.lineTo(g, oscCanvas.height);
+            oscCtx.moveTo(0, g); oscCtx.lineTo(oscCanvas.width, g);
         }
+        oscCtx.stroke(); // Izgara tek kalemde GPU'da çizilir!
 
-        // Osiloskop Çizgisi (PQRST Dalgası)
+        // Osiloskop Çizgisi (PQRST Biyofizik Dalgası)
         oscCtx.strokeStyle = window.topGrad || '#00ffcc';
         oscCtx.lineWidth = 1.8;
         oscCtx.beginPath(); 
-        for (let i = 0; i < historyMV.length; i++) {
-            const x = i; 
-            // -120 mV ile +40 mV arasını canvas yüksekliğine güvenle oranlıyoruz
-            const y = oscCanvas.height - (((historyMV[i] + 120) / 160) * oscCanvas.height);
-            if (i === 0) oscCtx.moveTo(x, y); else oscCtx.lineTo(x, y);
+        
+        const hLength = historyMV.length;
+        const cHeight = oscCanvas.height;
+        
+        for (let i = 0; i < hLength; i++) {
+            // -120 mV ile +40 mV aralığını canvas yüksekliğine matematiksel oranlama
+            const y = cHeight - (((historyMV[i] + 120) * 0.00625) * cHeight); // 1/160 = 0.00625
+            if (i === 0) oscCtx.moveTo(i, y); else oscCtx.lineTo(i, y);
         } 
         oscCtx.stroke();
-
 
 
         // ========================================================================
