@@ -499,6 +499,8 @@ window.addEventListener("message", (event) => {
 });
 
 
+
+
 // 🔒 AUTHORITATIVE ORIGIN REGEX SHIELD
 const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasoft\.github\.io/;
 
@@ -669,8 +671,14 @@ window.spinalAnimFrame = window.spinalAnimFrame || 0;
 window.lightningFlashTimer = window.lightningFlashTimer || 0;
 window.isLightningLocked = window.isLightningLocked || false; // Çift dönmeyi engelleyen ana kilit bayrağı
 
+
+ // DÜZELTME: Güncel küresel hafızadaki değerleri anlık olarak çekiyoruz
+            let strokeVol = (window.LIVE_STROKE_VOLUME || 70.0).toFixed(1);
+            let cardOutput = (window.LIVE_CARDIAC_OUTPUT || 5.0).toFixed(2);
+
 window.addEventListener("message", (event) => {
     if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+
 
     if (event.data && event.data.komut === "HUD_PANEL_GUNCELLE") {
         const telemetryBox = document.getElementById("telemetryScreen");
@@ -709,7 +717,13 @@ window.addEventListener("message", (event) => {
             let breathHtml = "";
             let scaleFactor = 0.5;
 
+     // DÜZELTME: Güncel küresel hafızadaki değerleri tam bu işlem anında çekiyoruz!
+            let strokeVol = (window.LIVE_STROKE_VOLUME || 70.0).toFixed(1);
+            let cardOutput = (window.LIVE_CARDIAC_OUTPUT || 5.0).toFixed(2);
 
+            // ÖRNEK ANALİZ: Zaman dilimi içindeki akış (Litre/saniye hesabı veya FPS ölçümü için)
+            // İki güncelleme arası geçen süre (deltaTime) çok uzunsa kare atlaması (stuttering) tespiti yapabilirsiniz.
+            const anlikAkisHizi = (cardOutput / 60) * deltaTime; // Bu frame'de akan tahmini litre
             
 
             if (phaseProgress < (period / 2)) {
@@ -834,7 +848,9 @@ telemetryBox.innerHTML = `
     <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px;">
         <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">BPM: ${dynamicBPM.toFixed(0)} BPM (RESONANCE)</span><br>
         EKG: <span style="color: #33ffff; font-weight: bold;">${formatEkg}</span> | FQ: <span style="color: #ffaa00;">${formatHz}</span> (BXN)<br>
-        TANSİYON: <span style="color: #00ff00;">${dynamicTansiyonText}</span> | pH: ${event.data.ph || "7.42 pH"}<br>
+                     SV: <span style="color: #ff9900; font-weight: bold;">${strokeVol} mL</span>/beat (PUMP VOL)<br>
+                CO: <span style="color: #33ffff; font-weight: bold;">${cardOutput} L</span>/min (CARDIAC OUTPUT)<br>
+                <small style="color: #666; font-size: 11px;">Simülasyon Gecikmesi: ${(deltaTime * 1000).toFixed(1)} ms</small>
         METABOLİZMA: <span style="color: #00ff00; text-transform: uppercase; font-size: 10.5px;">${dynamicMetabolizmaText}</span><br>
         OKSİJEN: <span style="color: #00ff00;">${event.data.oksijen || "%98.0 SpO2"}</span> | ELM: <span style="color: ${elementColor}; font-weight: bold;">${liveElement}</span>
     </div>
