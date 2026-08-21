@@ -230,13 +230,9 @@ window.MetatronEngine = function() {
     // ========================================================================
     // 🌐 KÜRESEL SAAT YAKALAYICI (Data her salise değiştikçe buradan taze akacak)
     // ========================================================================
-    const globalClock = window.MetatronMasterClock || 0;
+    //const globalClock = window.MetatronMasterClock || 0;
 
-// 🎯 HATA ÖNLEYİCİ KİLİT: 'wave' değişkenini ve entegrasyon sayaçlarını 
-// döngünün hemen başında (let koymadan) ortak havuz için hazırlıyoruz.
-let wave = 0;
-let maxWaveValue = -1;
-let localDominantChamber = null;
+
 
 window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     const mesh = window.chambers ? window.chambers[ch.id] : null;
@@ -300,49 +296,45 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     wave = (customWave !== null) ? customWave : (((Math.cos(basePhase + delayFactor) + 1) * 0.38) + 0.24);
     wave = Math.max(0.15, Math.min(1.0, wave));
     
-    // Veri havuzunu güncelleme
-    mesh.userData = mesh.userData || {};
-    mesh.userData.currentWave = wave;
-
-    // 🪐 ULTRA PERFORMANCE KÖPRÜSÜ: Sahnede o an en parlak / baskın olan odayı havada yakalıyoruz.
-    // Bu sayede anatomy.html her karede 8 odayı birden sil baştan aramak zorunda kalmayacak!
-    if (wave > maxWaveValue) {
-        maxWaveValue = wave;
-        localDominantChamber = ch;
-    }
-  // Görsel Opaklık ve Emissive Ayarları (Anlık Şimşek Tepkisi)
+   // Veri havuzunu ve görsel özellikleri güncelleme
     if (mesh.material) {
+        mesh.userData = mesh.userData || {};
+        mesh.userData.currentWave = wave;
         mesh.material.transparent = true;
-        if (ch.id === 3 || ch.id === 6) {
-            mesh.material.opacity = 0.35 + (wave * 0.50);
-            if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = wave * 2.5;
-        } else {
-            mesh.material.opacity = 0.20 + (wave * 0.80); 
-            if (mesh.material.emissiveIntensity !== undefined) {
-                mesh.material.emissiveIntensity = wave * 3.0; 
-            }
+        
+        // Şimşek tepkisi (Opaklık ve Emissive)
+        const isCenter = ch.id === 3 || ch.id === 6;
+        mesh.material.opacity = isCenter ? 0.35 + (wave * 0.50) : 0.20 + (wave * 0.80);
+        if (mesh.material.emissiveIntensity !== undefined) {
+            mesh.material.emissiveIntensity = wave * (isCenter ? 2.5 : 3.0);
         }
     }
 
+    // Geometri Ölçeklemesi
     if (typeof window.metatronMeshScaler === "function") {
         window.metatronMeshScaler(mesh, null, ch);
     }
 
-   if (typeof window.metatronMeshScaler === "function") {
+    // Akademik Telemetri Mührü
+    window.MetatronTelemetry = window.MetatronTelemetry || {};
+    window.MetatronTelemetry[ch.id] = {
+        energy: wave,
+        timer: (typeof localTime !== 'undefined') ? localTime : (window.chambersTimers ? window.chambersTimers[ch.id] : 0),
+        speed: (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e
+    };
+
+      // 📐 Geometri Ölçeklemesi (Tekil Çağrı)
+    if (typeof window.metatronMeshScaler === "function") {
         window.metatronMeshScaler(mesh, null, ch);
     }
 
-    // ⚡ GERÇEK MOTOR DEVRİ SABİTLEMESİ
-    window.metatronPulseSpeed = window.metatronPulseSpeed || 0.35;
-
-  // ========================================================================
-    // 🔮 ACADEMIC TELEMETRY CARRIER (DÖNGÜ İÇİNE ALINDI & SIRALAMA DÜZELTİLDİ)
     // ========================================================================
-    // 1. Önce tüm bağımlı değişkenleri hesaplayıp hafızaya alıyoruz (KESİN ÇÖZÜM!)
+    // 🔮 ACADEMIC TELEMETRY CARRIER & LUNAR INJECTION
+    // ========================================================================
     const validLocalTime = (typeof localTime !== 'undefined') ? localTime : (window.chambersTimers ? window.chambersTimers[ch.id] : 0);
     const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
     
-    // PERFORMANCE KİLİDİ: Lunar Element kontrolü
+    // Performance Cache: DOM element okuma optimizasyonu
     const lunarPhaseText = window.cachedLunarPhase || (document.getElementById('lunar-phase') ? document.getElementById('lunar-phase').innerText : "DENGELİ");
     window.cachedLunarPhase = lunarPhaseText; 
     
@@ -356,56 +348,13 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     const baseSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e;
     const safeSpeed = safeDecaying ? (baseSpeed / lunarMultiplier) : baseSpeed;
 
-    // 2. Şimdi yukarıda ilklendirilmiş (initialized) olan temiz verileri güvenle havuza yazıyoruz
-    window.MetatronTelemetry = window.MetatronTelemetry || {};
-    window.MetatronTelemetry[ch.id] = {
-        energy: wave,                       
-        timer: validLocalTime,   // ◄ Artık hafızada hazır olduğu için asla hata veremez!
-        speed: safeSpeed,                   
-        isDecaying: safeDecaying            
-    };
-
+     // ========================================================================
+    // 🪐 ULTRA PERFORMANCE KÖPRÜSÜ (DÖNGÜ İÇİ): En parlak odayı havada yakalıyoruz
     // ========================================================================
-    // 🎓 AKADEMİK BİYOFİZİK TELEMETRİ ENJEKSİYONU (Hz, mV & ms)
-    // ========================================================================
-// ========================================================================
-// 🏆 MASTER MOTOR KÖPRÜSÜ: EN PARLAK ODAYI GLOBAL HAFIZAYA MÜHÜRLÜYORUZ
-// ========================================================================
-// Döngü bittiği için 'wave is not defined' hatası vermeden, içeride süzülen 
-// en dominant odayı ve wave değerini anatomy.html okusun diye globale yazıyoruz.
-if (localDominantChamber) {
-    window.activeDominantChamber = localDominantChamber;
-    window.activeDominantWave = maxWaveValue;
-}
-
- // ========================================================================
-    // 🔮 ACADEMIC TELEMETRY CARRIER (DÖNGÜNÜN İÇİNE ALINDI - HATA VE CPU KİLİTLİ)
-    // ========================================================================
-    // NOT: ch nesnesine erişimi kaybetmemek için Kutsal Kapanışı (});) buraya henüz koymadık.
-    const validLocalTime = (typeof localTime !== 'undefined') ? localTime : window.chambersTimers[ch.id];
-    const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
-    
-    // PERFORMANCE KİLİDİ: Saniyede 144 kez DOM'dan element okumak yerine önbellek (cache) kullanıyoruz.
-    const lunarPhaseText = window.cachedLunarPhase || (document.getElementById('lunar-phase') ? document.getElementById('lunar-phase').innerText : "DENGELİ");
-    window.cachedLunarPhase = lunarPhaseText; 
-    
-    let lunarMultiplier = 1.0;
-    if (lunarPhaseText.includes("DOLUNAY")) {
-        lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 1.618 : 0.618;
-    } else if (lunarPhaseText.includes("YENİ AY")) {
-        lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 0.618 : 1.333;
+    if (wave > maxWaveValue) {
+        maxWaveValue = wave;
+        localDominantChamber = ch;
     }
-
-    const baseSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e;
-    const safeSpeed = safeDecaying ? (baseSpeed / lunarMultiplier) : baseSpeed;
-
-    window.MetatronTelemetry = window.MetatronTelemetry || {};
-    window.MetatronTelemetry[ch.id] = {
-        energy: wave, // Üst scopetan gelen ortak wave verisi güvenle mühürleniyor                      
-        timer: validLocalTime,              
-        speed: safeSpeed,                   
-        isDecaying: safeDecaying            
-    };
     
     // ========================================================================
     // 🎓 AKADEMİK BİYOFİZİK TELEMETRİ ENJEKSİYONU (Hz, mV & ms)
@@ -441,11 +390,12 @@ if (localDominantChamber) {
     const anlikRenderSapmasi = (performance.now() % 4) - 2; 
     const safDinamikMS = (window.HEART_CYCLE_MS || 800) + anlikRenderSapmasi;
 
-    // 3. TELEMETRİ HAVUZUNA TERTEMİZ MÜHÜRLENME (Hâlâ döngü içindeyiz, ch.id güvende!)
+
+       // 3. TELEMETRİ HAVUZUNA TERTEMİZ MÜHÜRLENME (Hâlâ döngü içindeyiz, ch.id güvende!)
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
-        frequencyHz: currentHZ.toFixed(2), // Üst scopetaki wave sayesinde hata verme şansı sıfır!
+        frequencyHz: currentHZ.toFixed(2),
         voltageMV: currentMV.toFixed(1),
         mechanicalWave: wave.toFixed(3),
         phaseState: safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
@@ -453,7 +403,8 @@ if (localDominantChamber) {
         metatronLiveMs: `${safDinamikMS.toFixed(0)} ms`
     };
 
-}); // ◄ 🎯 İŞTE KUTSAL KAPANIŞ 1 BURASI! Odaların tüm döngü işleri bitti ve güvenle kapandı.
+}); // ◄ 🎯 İŞTE KUTSAL KAPANIŞ BURASI! Odaların tüm döngü işleri bitti ve güvenle kapandı.
+
 
 // ========================================================================
 // 🏆 MASTER MOTOR KÖPRÜSÜ: EN PARLAK ODAYI GLOBAL HAFIZAYA MÜHÜRLÜYORUZ
@@ -464,52 +415,43 @@ if (localDominantChamber) {
     window.activeDominantWave = maxWaveValue;
 }
 
-// 1. ASYSTOLE KORUMASI: Fonksiyonun başında çalışır, animasyon durunca odaları söndürür.
-if (window.heartAnimationActive !== true) {
-    window.MetatronMasterClock = 0;
-    window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
-        const mesh = window.chambers ? window.chambers[ch.id] : null;
-        if (mesh && mesh.material) {
-            mesh.material.opacity = Math.max(0.1, mesh.material.opacity - 0.02);
-            if (mesh.material.emissiveIntensity) {
-                mesh.material.emissiveIntensity = Math.max(0, mesh.material.emissiveIntensity - 0.05);
-            }
-        }
-    });
-    // 'return' kaldırıldı; kalp dursa bile telemetri 0 verisiyle güncellenmeye devam eder.
-}
 
-// 2. SALVATOR NİZAMI: Delta motoru ve telemetri hesaplamaları.
-window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
-const baseMV = Number(ch.mv);
-let currentMV = safeDecaying ? baseMV - ((1.0 - wave) * 45) : baseMV + (wave * 35);
-const baseHZ = Number(ch.q);
-const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
-
-const safeDinamikMS = (window.HEART_CYCLE_MS || 800) + ((performance.now() % 4) - 2);
-
-// 3. TELEMETRİ HAVUZUNA MÜHÜRLENME (Döngü içinde, 'ch' erişilebilir durumda)
-window.MetatronAcademicTelemetry[ch.id] = {
-    name: ch.name,
-    color: ch.color,
-    frequencyHz: currentHZ.toFixed(2),
-    voltageMV: currentMV.toFixed(1),
-    mechanicalWave: wave.toFixed(3),
-    phaseState: safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
-    timestampMS: performance.now(),
-    metatronLiveMs: `${safeDinamikMS.toFixed(0)} ms`
-};
-
-
-
-// 4. MASTER MOTOR KÖPRÜSÜ: Döngü dışı, baskın oda değişkenlerini mühürler.
-if (localDominantChamber) {
-    window.activeDominantChamber = localDominantChamber;
-    window.activeDominantWave = maxWaveValue;
-}
- // ========================================================================
+// ========================================================================
 // 🧬 CANLI METATRON KARDİYORESPİRATUAR KUPLAJ (CRC) MOTORU ENJEKSİYONU
 // ========================================================================
+// Red ve Blue odaların verileriyle solunum/kalp hızı analizi (BPM, BrPM)
+if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
+    const kirmiziOda = window.MetatronAcademicTelemetry[1];
+    const maviOda = window.MetatronAcademicTelemetry[7];
+
+    let mekanikDalga = parseFloat(kirmiziOda.mechanicalWave || 0.5);
+    let anlikBPMHiri = (mekanikDalga - 0.5) * 1.8;
+
+    // 1. Dinamik Hızlar
+    let liveBPM = 74.0 + anlikBPMHiri;
+    let maviDalga = parseFloat(maviOda ? maviOda.mechanicalWave : 0.5);
+    let liveResp = 20.0 + (maviDalga - 0.5) * 0.4;
+
+    // 2. Akedemik 4:1 Altın Oran Analizi
+    const deviation = Math.abs(4.0 - (liveBPM / liveResp));
+
+    // 3. Performans Korumalı DOM Güncellemesi
+    window.cachedCRCDOM = window.cachedCRCDOM || {
+        resp: document.getElementById("dyn-resp"),
+        prq: document.getElementById("dyn-prq"),
+        status: document.getElementById("dyn-crc-status")
+    };
+
+    if (window.cachedCRCDOM.resp) window.cachedCRCDOM.resp.innerText = liveResp.toFixed(1);
+    if (window.cachedCRCDOM.prq) window.cachedCRCDOM.prq.innerText = (liveBPM / liveResp).toFixed(2);
+
+    if (window.cachedCRCDOM.status) {
+        window.cachedCRCDOM.status.innerText = deviation < 0.05 ? "LOCKED (4:1)" : "ASYNC";
+        window.cachedCRCDOM.status.style.color = deviation < 0.05 ? "#00ff00" : "#ff00ff";
+    }
+}
+
+
 // Kırmızı ve Mavi odaların dalga enerjisini sarsıntı referansı olarak çekiyoruz
 if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
     const kirmiziOda = window.MetatronAcademicTelemetry[1]; // Red Chamber (Systole)
@@ -573,7 +515,9 @@ if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
             }
         }
     }
-}
+} // ◄ 🎯
+
+
   // 5. DOM PANEL GÜNCELLEMESİ (PERFORMANCE CACHE INTEGRATION)
     // Bir önceki aşamada eklediğimiz önbellek (cache) kontrolü sayesinde, 
     // gereksiz iç metin (innerText) baskıları durdurularak CPU tamamen rahatlatılmıştır.
