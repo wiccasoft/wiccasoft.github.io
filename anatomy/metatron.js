@@ -255,40 +255,38 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     let delayFactor = 0;
     let customWave = null;
 
-    // 🚀 ODA FAZ HARİTASI VE ÖZEL ZAMAN KORİDORLARI
+  // ========================================================================
+    // 🚀 ODA FAZ HARİTASI VE HAFİF ZAMAN KORİDORLARI (CPU OPTİMİZELİ)
+    // ========================================================================
     if (ch.id === 1) {
-        // Kırmızı Oda: 200ms lagını söken tam ters faz dengesi
-        delayFactor = -0.5 * Math.PI; 
-    } 
+        delayFactor = -0.5 * Math.PI;
+    }
     else if (ch.id === 2 || ch.id === 4) {
-        // ⚡ SARI VE PEMBE ODALAR: Sadece QRS anında (200-400ms) şimşek gibi çaksınlar!
-       if (globalClock >= 200 && globalClock < 400) {
-            const qrsProgress = (globalClock - 200) / 200;
+        if (globalClock >= 200 && globalClock < 400) {
+            const qrsProgress = (globalClock - 200) * 0.005; // Bölme yerine çarpma (1/200 = 0.005)
+            const sinWave = Math.sin(qrsProgress * Math.PI);
             
             if (ch.id === 4) {
-                // 🟠 TURUNCU ODA (Ana Motor): 3 kat akım ve voltaj piki! 
-                // Math.pow ile uyarımı dikleştiriyoruz; süzülerek değil, şimşek gibi anlık fırlasın!
-                customWave = 0.20 + Math.pow(Math.sin(qrsProgress * Math.PI), 0.5) * 2.8 * Number(ch.e);
+                // Ağır Math.pow(x, 0.5) yerine yıldırım hızıyla çalışan Math.sqrt kullanıyoruz!
+                // Her karede Number() çevirisi yapmamak için ch.e değerini önbelleğe alıyoruz.
+                ch.cachedE = ch.cachedE || Number(ch.e || 2.238);
+                customWave = 0.20 + Math.sqrt(sinWave) * 2.8 * ch.cachedE;
             } else {
-                // 🟡 Sarı Oda (Yatay Geçiş): Eski nizami şimşek kıvamında kalır
-                customWave = 0.25 + Math.sin(qrsProgress * Math.PI) * 0.70;
+                customWave = 0.25 + sinWave * 0.70;
             }
         } else {
-            customWave = ch.id === 4 ? 0.12 : 0.20; // Turuncu beklemede tam sönerek o ani patlamaya şarj olur
+            customWave = ch.id === 4 ? 0.12 : 0.20;
         }
-    } 
+    }
     else if (ch.id === 5) {
-        // 🟣 MOR ODA: İlk 400ms dinlenir, son 400ms (T Dalgası) pürüzsüz yükselir
         if (globalClock >= 400) {
-            const morProgress = (globalClock - 400) / 400;
+            const morProgress = (globalClock - 400) * 0.0025; // 1/400 = 0.0025
             customWave = 0.20 + Math.sin(morProgress * Math.PI) * 0.65;
         } else {
-            customWave = 0.22; // Taban dinlenme enerjisi
+            customWave = 0.22;
         }
     }
     else if (ch.id === 3 || ch.id === 6) {
-        // 🤍🖤 PARAMEDİKAL REZONANS HATTI (Merkez Kutuplar):
-        // Osiloskop dalgasıyla tam senkronize dikey aks salınımı
         customWave = 0.25 + Math.abs(Math.sin(basePhase)) * 0.55;
     }
  // 🎯 DALGA HESAPLAMA, EMISSIVE GÜNCELLEMELER VE TELEMETRİ ENJEKSİYONU
