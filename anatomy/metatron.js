@@ -427,28 +427,31 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 }; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 NİHAİ KONTROL: MONİTÖR REZONANSLI DOĞAL DOĞAL DÖNGÜ (60 FPS - 0 FLICKER)
+// 🪐 NİHAİ KONTROL: ÇİFT TETİKLEMEYİ ENGELLEYEN TEKİL MOTOR (60 FPS - %9 CPU)
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 window.sonVurusZamani = window.sonVurusZamani || performance.now();
 window.dalgaTepesinde = window.dalgaTepesinde || false;
 
-// KESİN ÇÖZÜM: setInterval ve RAM sızıntısı söküldü! Yerine pürüzsüz RAF geldi.
-function metatronGozcuDongusu(simdi) {
-    // Eğer kalp uykudaysa veya buton basılmadıysa boşuna matematik döndürme, CPU'yu koru!
-    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-        window.MetatronEngine(simdi);
-    }
-    
-    // Tarayıcı hazır olduğu bir sonraki karede (tam 60Hz eşzamanlı) tekrar çağırır
-    requestAnimationFrame(metatronGozcuDongusu);
+// Eğer hafızada kazara kalmış eski bir döngü id'si varsa onu tamamen iptal et
+if (window.metatronLoopId) {
+    cancelAnimationFrame(window.metatronLoopId);
 }
 
-// Döngüyü sadece bir kez emniyetli şekilde tetikle
+// 🚀 KESİN ÇÖZÜM: Zamanlama çakışmasını önleyen temiz tekil döngü
+function metatronGozcuDongusu(simdi) {
+    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+        window.MetatronEngine(simdi); 
+    }
+    // Kuyruk birikmesini önlemek için bir sonraki kareyi güvenli kimlikle çağırıyoruz
+    window.metatronLoopId = requestAnimationFrame(metatronGozcuDongusu);
+}
+
+// Çift marş basılmasını kesin olarak engelleyen mutlak kilit
 if (!window.metatronLoopActive) {
     window.metatronLoopActive = true;
-    requestAnimationFrame(metatronGozcuDongusu);
+    window.metatronLoopId = requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// 🪐 metatron.js Sonu - Tüm hafıza kaçakları kurutuldu ve %9 nizamı geri getirildi.
+// 🪐 metatron.js Sonu - Çift tetikleme tümörü kurutuldu, %9 nizamı mühürlendi.
