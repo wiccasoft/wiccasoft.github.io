@@ -382,136 +382,38 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     };
 }); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü bitti.
 
-  // ========================================================================
-    // 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ DIŞI - MOTOR İÇİ)
-    // ========================================================================
-    if (localDominantChamber) {
-        window.activeDominantChamber = localDominantChamber;
-        window.activeDominantWave = maxWaveValue;
-    }
-
-    // ========================================================================
-    // 🧬 CANLI METATRON KARDİYORESPİRATUAR KUPLAJ (CRC) MOTORU ENJEKSİYONU
-    // ========================================================================
-    if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[7]) {
-        const kirmizi = window.MetatronAcademicTelemetry[1];
-        const mavi = window.MetatronAcademicTelemetry[7];
-        
-        const liveResp = 20.0 + (parseFloat(mavi.mechanicalWave || 0.5) - 0.5) * 0.4;
-        const liveBPM = 74.0 + (parseFloat(kirmizi.mechanicalWave || 0.5) - 0.5) * 1.8;
-        const ratio = liveBPM / liveResp;
-        const deviation = Math.abs(4.0 - ratio);
-
-        window.cachedCRCDOM = window.cachedCRCDOM || {
-            resp: document.getElementById("dyn-resp"),
-            prq: document.getElementById("dyn-prq"),
-            status: document.getElementById("dyn-crc-status")
-        };
-
-        if (window.cachedCRCDOM.resp) window.cachedCRCDOM.resp.innerText = liveResp.toFixed(1);
-        if (window.cachedCRCDOM.prq) window.cachedCRCDOM.prq.innerText = ratio.toFixed(2);
-        
-        if (window.cachedCRCDOM.status) {
-            if (deviation < 0.05) {
-                window.cachedCRCDOM.status.innerText = "LOCKED (4:1)";
-                window.cachedCRCDOM.status.style.color = "#00ff00";
-            } else {
-                window.cachedCRCDOM.status.innerText = `ASYNC (${ratio.toFixed(2)})`;
-                window.cachedCRCDOM.status.style.color = "#ff00ff";
-            }
-        }
-    }
-}; // ◄ 🎯 DOĞRU KAPANIŞ BURASI! window.MetatronEngine fonksiyonu tüm kodları içine alarak burada bitti.
-
 // ========================================================================
-// 🪐 WATCHDOG & ENGINE KICKSTARTER (60 FPS - MOTOR DIŞI GLOBAL ALAN)
+// 🏆 MASTER MOTOR KÖPRÜSÜ & 🧬 CRC MOTORU (Tekil Kapanış)
 // ========================================================================
-if (typeof window.initSkelaton === "function") window.initSkelaton();
+if (localDominantChamber) {
+    window.activeDominantChamber = localDominantChamber;
+    window.activeDominantWave = maxWaveValue;
+}
 
-window.sonVurusZamani = window.sonVurusZamani || performance.now();
-window.dalgaTepesinde = window.dalgaTepesinde || false;
+// Performans için sadece veri değiştiğinde DOM güncellemesi yapan CRC motoru
+if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[7]) {
+    const kirmizi = window.MetatronAcademicTelemetry[1];
+    const mavi = window.MetatronAcademicTelemetry[7];
+    
+    const liveResp = 20.0 + (parseFloat(mavi.mechanicalWave || 0.5) - 0.5) * 0.4;
+    const liveBPM = 74.0 + (parseFloat(kirmizi.mechanicalWave || 0.5) - 0.5) * 1.8;
+    const ratio = liveBPM / liveResp;
+    const deviation = Math.abs(4.0 - ratio);
 
-setInterval(() => {
-    if (typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
-}, 16);
-
-// 🪐 metatron.js Sonu - Tüm kuantum matris akışı sıfır hatayla mühürlendi.
-
-// 🪐 WATCHDOG & ENGINE KICKSTARTER (60 FPS)
-if (typeof window.initSkelaton === "function") window.initSkelaton();
-
-// Zamanlayıcıları başlat ve periyodik motor çağrısını (16ms = ~60 FPS) yap
-window.sonVurusZamani = window.sonVurusZamani || performance.now();
-window.dalgaTepesinde = window.dalgaTepesinde || false;
-
-setInterval(() => {
-    if (typeof window.MetatronEngine === "function") window.MetatronEngine();
-}, 16);
-
-// 🪐 metatron.js Sonu - Tüm akış sıfır hatayla mühürlendi.
-
-// ========================================================================
-// 🧬 CANLI METATRON KARDİYORESPİRATUAR KUPLAJ (CRC) MOTORU ENJEKSİYONU
-// ========================================================================
-// Red ve Blue odaların verileriyle solunum/kalp hızı analizi (BPM, BrPM)
-if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
-    const kirmiziOda = window.MetatronAcademicTelemetry[1];
-    const maviOda = window.MetatronAcademicTelemetry[7];
-
-    let mekanikDalga = parseFloat(kirmiziOda.mechanicalWave || 0.5);
-    let anlikBPMHiri = (mekanikDalga - 0.5) * 1.8;
-
-    // 1. Dinamik Hızlar
-    let liveBPM = 74.0 + anlikBPMHiri;
-    let maviDalga = parseFloat(maviOda ? maviOda.mechanicalWave : 0.5);
-    let liveResp = 20.0 + (maviDalga - 0.5) * 0.4;
-
-    // 2. Akedemik 4:1 Altın Oran Analizi
-    const deviation = Math.abs(4.0 - (liveBPM / liveResp));
-
-    // 3. Performans Korumalı DOM Güncellemesi
     window.cachedCRCDOM = window.cachedCRCDOM || {
         resp: document.getElementById("dyn-resp"),
         prq: document.getElementById("dyn-prq"),
         status: document.getElementById("dyn-crc-status")
     };
 
-    if (window.cachedCRCDOM.resp) window.cachedCRCDOM.resp.innerText = liveResp.toFixed(1);
-    if (window.cachedCRCDOM.prq) window.cachedCRCDOM.prq.innerText = (liveBPM / liveResp).toFixed(2);
-
-    if (window.cachedCRCDOM.status) {
-        window.cachedCRCDOM.status.innerText = deviation < 0.05 ? "LOCKED (4:1)" : "ASYNC";
-        window.cachedCRCDOM.status.style.color = deviation < 0.05 ? "#00ff00" : "#ff00ff";
-    }
-
-
-
-// ========================================================================
-// 🪐 KORUMALI ORAN ANALİZİ VE TOPRAKLAMA LAG HESAPLAYICI (DÖNGÜ DIŞI)
-// ========================================================================
-// Önceki hesaplamaları genişletip, DOM güncellemelerini optimize ediyoruz.
-if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[7]) {
-    const kirmiziOda = window.MetatronAcademicTelemetry[1];
-    const maviOda = window.MetatronAcademicTelemetry[7];
-    
-    // Performans analizi: Oran sapması (deviation) ve gecikme (lag) hesabı
-    let liveBPM = 74.0 + (parseFloat(kirmiziOda.mechanicalWave || 0.5) - 0.5) * 1.8;
-    let liveResp = 20.0 + (parseFloat(maviOda.mechanicalWave || 0.5) - 0.5) * 0.4;
-    
-    let deviation = Math.abs(4.0 - (liveBPM / liveResp));
-    let addedLag = Math.round((198 + (deviation * 143.5)) - 198);
-
-    // PERFORMANCE CACHE: Sadece veri değiştiyse DOM'u güncelle (CPU Dostu)
     const dom = window.cachedCRCDOM;
     if (dom) {
-        const newResp = liveResp.toFixed(1);
-        const newPrq = (liveBPM / liveResp).toFixed(2);
+        const txtResp = liveResp.toFixed(1);
+        const txtRatio = ratio.toFixed(2);
         
-        if (dom.resp?.innerText !== newResp) dom.resp.innerText = newResp;
-        if (dom.prq?.innerText !== newPrq) dom.prq.innerText = newPrq;
-
+        if (dom.resp && dom.resp.innerText !== txtResp) dom.resp.innerText = txtResp;
+        if (dom.prq && dom.prq.innerText !== txtRatio) dom.prq.innerText = txtRatio;
+        
         if (dom.status) {
             if (deviation < 0.05) {
                 if (dom.status.innerText !== "LOCKED (4:1)") {
@@ -519,74 +421,30 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
                     dom.status.style.color = "#00ff00";
                 }
             } else {
-                const newStatus = `ASYNC (+${addedLag} ms LAG)`;
-                if (dom.status.innerText !== newStatus) {
-                    dom.status.innerText = newStatus;
+                const txtStatus = `ASYNC (${txtRatio})`;
+                if (dom.status.innerText !== txtStatus) {
+                    dom.status.innerText = txtStatus;
                     dom.status.style.color = "#ff00ff";
                 }
             }
         }
     }
 }
-} // ◄ 🎯 TEKİL VE GÜVENLİ window.MetatronEngine MOTOR KAPANIŞI
-
-// 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
-// Motoru çalıştırıp kalp vuruşlarını konsola basan marş kablosu
-    // ========================================================================
-    // 5. DOM PANEL GÜNCELLEMESİ (MUTLAK GÜVENLİK KALKANI)
-    // ========================================================================
-    window.cachedCRCDOM = window.cachedCRCDOM || {
-        resp: document.getElementById("dyn-resp"),
-        prq: document.getElementById("dyn-prq"),
-        status: document.getElementById("dyn-crc-status")
-    };
-
-    const { resp, prq, status } = window.cachedCRCDOM;
-
-    // KESİN ÇÖZÜM: Eleman varlıkları 'if' ile mühürlendi, null hatası imkansızlaştırıldı! [image_muvkW4.png]
-    if (typeof liveResp !== 'undefined' && typeof actualPRQ !== 'undefined') {
-        if (resp) resp.innerText = liveResp.toFixed(1);
-        if (prq) prq.innerText = actualPRQ.toFixed(2);
-        
-        if (status && typeof deviation !== 'undefined' && typeof addedLag !== 'undefined') {
-            if (deviation < 0.05) {
-                status.innerText = "LOCKED (4:1)";
-                status.style.color = "#00ff00";
-            } else {
-                status.innerText = `ASYNC (+${addedLag} ms LAG)`;
-                status.style.color = "#ff00ff";
-            }
-        }
-    }
-
+}; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
+// 🪐 WATCHDOG & ENGINE KICKSTARTER (60 FPS - TEKİL)
 // ========================================================================
-// Motor fonksiyonunun tamamen dışında, sistemi sonsuz döngüde besleyen marş kablosu!
-setInterval(() => {
-    if (typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
+if (typeof window.initSkelaton === "function") window.initSkelaton();
 
-    if (window.heartAnimationActive === true && window.MetatronAcademicTelemetry?.[1]) {
-        const currentWave = parseFloat(window.MetatronAcademicTelemetry[1].mechanicalWave || 0);
-        
-        // Zirve tespiti ile BPM hesaplama ve loglama
-        if (currentWave > 0.98 && !window.dalgaTepesinde) { 
-            const simdi = performance.now();
-            const gecenSureMS = simdi - (window.sonVurusZamani || simdi); 
-            if (gecenSureMS < 3000 && gecenSureMS > 100) { 
-                console.log(`💓 Darbe | ${gecenSureMS.toFixed(0)} ms | ${(60000 / gecenSureMS).toFixed(2)} BPM`);
-            }
-            window.sonVurusZamani = simdi;
-            window.dalgaTepesinde = true;
-        } else if (currentWave < 0.50) { 
-            window.dalgaTepesinde = false; 
+// KESİN ÇÖZÜM: Tüm mükerrer çift döngüler temizlendi, tek bir hafif zamanlayıcı!
+if (!window.metatronLoopActive) {
+    window.metatronLoopActive = true;
+    setInterval(() => {
+        if (typeof window.MetatronEngine === "function") {
+            window.MetatronEngine();
         }
-    }
-}, 16);
+    }, 16);
+}
 
-// 🪐 metatron.js Sonu - Tüm kuantum matris akışı sıfır hatayla senkronize edildi.
-
-
+// 🪐 metatron.js Sonu - Sızıntılar temizlendi, akış %100 senkronize.
