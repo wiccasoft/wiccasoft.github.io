@@ -190,7 +190,7 @@ function injectMetatronMetabolism() {
 /// ⚡ DİNAMİK NABIZ VE MOTOR BAŞLANGICI
 //window.metatronPulseSpeed = 
 
-window.metatronPulseSpeed = 0.015;
+window.metatronPulseSpeed = 0.035;
 
 // Gözcü zaman kontrol değişkenleri (Motor fonksiyonunun hemen dışına, üstüne yerleştirin)
 window.lastMetatronFrameTime = window.lastMetatronFrameTime || 0;
@@ -337,13 +337,6 @@ if (mesh.material) {
     const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
 
 
-    // ✂️ SADECE BU NESNE ATAMA KISMINI TAMAMEN SİLİN:
-window.MetatronTelemetry = window.MetatronTelemetry || {};
-window.MetatronTelemetry[ch.id] = {
-    name: ch.name, color: ch.color, frequencyHz: currentHZ.toFixed(2),
-    voltageMV: currentMV.toFixed(1), mechanicalWave: wave.toFixed(3),
-    phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", timestampMS: performance.now()
-};
 
    // ========================================================================
     // 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ İÇİ)
@@ -353,16 +346,16 @@ window.MetatronTelemetry[ch.id] = {
         localDominantChamber = ch;
     }
 
-// ========================================================================
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (TEKİL & HAFİF YAPILANDIRMA)
+   // ========================================================================
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (SAF SAYISAL - %0 RAM YÜKÜ)
     // ========================================================================
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
     window.MetatronTelemetry = window.MetatronTelemetry || {};
-    
-    // Yüksek frekansta string oluşturmayı engelleyen statik durum
+
+    // Saniyede 60 kez string üretilmesini engelleyen statik hafıza koruması
     const sabitMetinDurumu = (globalClock >= 400) ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)";
 
-    // Tekil ve optimize edilmiş veri beslemesi (Sızıntı giderildi)
+    // TEKİL VE OPTİMİZE VERİ BESLEMESİ: Nesne klonlaması ve string tümörleri kurutuldu!
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
@@ -370,17 +363,18 @@ window.MetatronTelemetry[ch.id] = {
         voltageMV: currentMV,
         mechanicalWave: wave,
         phaseState: sabitMetinDurumu,
-        timestampMS: performance.now()
+        timestampMS: simdi
     };
 
-    // Eski yapının senkronizasyonu
+    // Eski kod bileşenleriyle tam uyumluluk sağlayan saf sayısal köprü
     window.MetatronTelemetry[ch.id] = {
         energy: wave,
         phaseState: sabitMetinDurumu,
         frequencyHz: currentHZ,
         voltageMV: currentMV
     };
-}); // ◄ 🎯 KUTSAL KAPANIŞ 1: Döngü başarıyla bitti.
+
+}); // ◄ 🎯 KUTSAL KAPANIŞ 1: Döngü sıfır kayıpla nihayete erdi.
 // 🏆 MASTER MOTOR KÖPRÜSÜ & 🧬 CRC MOTORU (Tekil Kapanış)
 // ========================================================================
 if (localDominantChamber) {
