@@ -369,6 +369,7 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     //const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
     const safDinamikMS = (window.HEART_CYCLE_MS || 800) + ((performance.now() % 4) - 2);
 
+    // 3. TELEMETRİ HAVUZUNA TERTEMİZ MÜHÜRLENME (Döngü İçi)
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
@@ -379,24 +380,77 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         timestampMS: performance.now(),
         metatronLiveMs: `${safDinamikMS.toFixed(0)} ms`
     };
+}); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü bitti.
 
-}); // ◄ 🎯 GERÇEK NİHAİ KUTSAL KAPANIŞ BURASI! Tüm odaların işi bitti ve döngü güvenle kapandı.
+  // ========================================================================
+    // 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ DIŞI - MOTOR İÇİ)
+    // ========================================================================
+    if (localDominantChamber) {
+        window.activeDominantChamber = localDominantChamber;
+        window.activeDominantWave = maxWaveValue;
+    }
 
-// 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ DIŞI)
-if (localDominantChamber) {
-    window.activeDominantChamber = localDominantChamber;
-    window.activeDominantWave = maxWaveValue;
-}
+    // ========================================================================
+    // 🧬 CANLI METATRON KARDİYORESPİRATUAR KUPLAJ (CRC) MOTORU ENJEKSİYONU
+    // ========================================================================
+    if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[7]) {
+        const kirmizi = window.MetatronAcademicTelemetry[1];
+        const mavi = window.MetatronAcademicTelemetry[7];
+        
+        const liveResp = 20.0 + (parseFloat(mavi.mechanicalWave || 0.5) - 0.5) * 0.4;
+        const liveBPM = 74.0 + (parseFloat(kirmizi.mechanicalWave || 0.5) - 0.5) * 1.8;
+        const ratio = liveBPM / liveResp;
+        const deviation = Math.abs(4.0 - ratio);
+
+        window.cachedCRCDOM = window.cachedCRCDOM || {
+            resp: document.getElementById("dyn-resp"),
+            prq: document.getElementById("dyn-prq"),
+            status: document.getElementById("dyn-crc-status")
+        };
+
+        if (window.cachedCRCDOM.resp) window.cachedCRCDOM.resp.innerText = liveResp.toFixed(1);
+        if (window.cachedCRCDOM.prq) window.cachedCRCDOM.prq.innerText = ratio.toFixed(2);
+        
+        if (window.cachedCRCDOM.status) {
+            if (deviation < 0.05) {
+                window.cachedCRCDOM.status.innerText = "LOCKED (4:1)";
+                window.cachedCRCDOM.status.style.color = "#00ff00";
+            } else {
+                window.cachedCRCDOM.status.innerText = `ASYNC (${ratio.toFixed(2)})`;
+                window.cachedCRCDOM.status.style.color = "#ff00ff";
+            }
+        }
+    }
+}; // ◄ 🎯 DOĞRU KAPANIŞ BURASI! window.MetatronEngine fonksiyonu tüm kodları içine alarak burada bitti.
 
 // ========================================================================
-// 🏆 MASTER MOTOR KÖPRÜSÜ: EN PARLAK ODAYI GLOBAL HAFIZAYA MÜHÜRLÜYORUZ
+// 🪐 WATCHDOG & ENGINE KICKSTARTER (60 FPS - MOTOR DIŞI GLOBAL ALAN)
 // ========================================================================
-// Döngü dışındayız. anatomy.html'in tarama yükünü sıfırlayan ana değişkenleri mühürlüyoruz.
-if (localDominantChamber) {
-    window.activeDominantChamber = localDominantChamber;
-    window.activeDominantWave = maxWaveValue;
-}
+if (typeof window.initSkelaton === "function") window.initSkelaton();
 
+window.sonVurusZamani = window.sonVurusZamani || performance.now();
+window.dalgaTepesinde = window.dalgaTepesinde || false;
+
+setInterval(() => {
+    if (typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
+}, 16);
+
+// 🪐 metatron.js Sonu - Tüm kuantum matris akışı sıfır hatayla mühürlendi.
+
+// 🪐 WATCHDOG & ENGINE KICKSTARTER (60 FPS)
+if (typeof window.initSkelaton === "function") window.initSkelaton();
+
+// Zamanlayıcıları başlat ve periyodik motor çağrısını (16ms = ~60 FPS) yap
+window.sonVurusZamani = window.sonVurusZamani || performance.now();
+window.dalgaTepesinde = window.dalgaTepesinde || false;
+
+setInterval(() => {
+    if (typeof window.MetatronEngine === "function") window.MetatronEngine();
+}, 16);
+
+// 🪐 metatron.js Sonu - Tüm akış sıfır hatayla mühürlendi.
 
 // ========================================================================
 // 🧬 CANLI METATRON KARDİYORESPİRATUAR KUPLAJ (CRC) MOTORU ENJEKSİYONU
@@ -504,7 +558,7 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
             }
         }
     }
-}; // ◄ 🎯 ANA MOTOR BURADA GÜVENLE KAPANDI!
+
 
 // ========================================================================
 // 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
@@ -534,47 +588,5 @@ setInterval(() => {
 }, 16);
 
 // 🪐 metatron.js Sonu - Tüm kuantum matris akışı sıfır hatayla senkronize edildi.
-
-// 🪐 ULTRA-LIGHT TELEMETRY WATCHDOG (60 FPS)
-if (typeof window.initSkelaton === "function") window.initSkelaton();
-
-// Kronometre hafıza değişkenlerini sağlama alıyoruz
-window.sonVurusZamani = window.sonVurusZamani || performance.now();
-window.dalgaTepesinde = window.dalgaTepesinde || false;
-window.canliGecenSureMS = window.canliGecenSureMS || 800;
-
-// 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
-setInterval(() => {
-    // 🚀 MARŞ KABLOSU: Motoru her şeyden önce zorla çağırıyoruz ki veri üretsin!
-    if (typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
-
-    // Performans ve Veri Kontrolü (Motor çalıştıktan sonra veriyi güvenle kontrol edebiliriz)
-    if (window.heartAnimationActive !== true || !window.MetatronAcademicTelemetry?.[1]) {
-        return;
-    }
-
-    // ◄ KESİN ÇÖZÜM: Mekanik dalga verisi artık yukarıdaki çağrı sayesinde tıkır tıkır okunur
-    const currentWave = parseFloat(window.MetatronAcademicTelemetry[1].mechanicalWave || 0);
-    
-    // Zirve tespiti ve BPM hesabı
-    if (currentWave > 0.98) { 
-        if (!window.dalgaTepesinde) {
-            const simdi = performance.now();
-            const gecenSureMS = simdi - window.sonVurusZamani; 
-            
-            if (gecenSureMS < 3000) {
-                console.log(`💓 Darbe | ${gecenSureMS.toFixed(0)}ms | ${(60000 / gecenSureMS).toFixed(2)} BPM`);
-            }
-            window.sonVurusZamani = simdi;
-            window.dalgaTepesinde = true;
-        }
-    } else if (currentWave < 0.50) { 
-        window.dalgaTepesinde = false; 
-    }
-}, 16);
-
-// 🪐 metatron.js Sonu - Tüm kuantum matris akışı jilet gibi senkronize edildi.
 
 
