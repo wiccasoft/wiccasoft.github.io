@@ -437,18 +437,39 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 }; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 WATCHDOG & ENGINE KICKSTARTER (60 FPS - TEKİL)
+// 🪐 WATCHDOG & ENGINE KICKSTARTER (BUTONA KİLİTLİ PANEL & MOTOR)
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
-// KESİN ÇÖZÜM: Tüm mükerrer çift döngüler temizlendi, tek bir hafif zamanlayıcı!
-// 🚀 RAM DOSTU ENGINE KICKSTARTER
-setInterval(() => {
-    if (typeof window.MetatronEngine === "function") window.MetatronEngine();
+window.sonVurusZamani = window.sonVurusZamani || performance.now();
+window.dalgaTepesinde = window.dalgaTepesinde || false;
 
-    // 🛑 Çözüm: Hafıza sızıntısı yaratan konsol logları kaldırıldı.
-    // 🛑 Çözüm: Paket dizisi zorla boşaltılıyor (Garbage Collector'a yardımcı).
-    if (window.activePackets) window.activePackets.length = 0; 
-}, 16);
+if (!window.metatronLoopActive) {
+    window.metatronLoopActive = true;
+    
+    setInterval(() => {
+        // Telemetri panel elemanını akıllı hafızaya alıyoruz (DOM sorgu koruması)
+        window.cachedTelemetryPanel = window.cachedTelemetryPanel || document.getElementById("telemetry-panel") || document.querySelector(".telemetry-container");
 
-// 🪐 metatron.js Sonu - Sızıntılar temizlendi, akış %100 senkronize.
+        // 🛑 SLEEP MODE: Eğer kalp butonuna basılmadıysa her şeyi durdur
+        if (window.heartAnimationActive !== true) {
+            // Kalp durduysa veya henüz açılmadıysa telemetri panelini gizliyoruz
+            if (window.cachedTelemetryPanel && window.cachedTelemetryPanel.style.display !== "none") {
+                window.cachedTelemetryPanel.style.display = "none";
+            }
+            return; 
+        }
+
+        // 🟢 AWAKE MODE: Kalp çalışıyorsa paneli otomatik görünür yap!
+        if (window.cachedTelemetryPanel && window.cachedTelemetryPanel.style.display === "none") {
+            window.cachedTelemetryPanel.style.display = "block"; // Veya tasarıma göre "flex"
+        }
+
+        // Ana matematik motorunu ateşle
+        if (typeof window.MetatronEngine === "function") {
+            window.MetatronEngine();
+        }
+    }, 16);
+}
+
+// 🪐 metatron.js Sonu - Tüm sistem ve arayüz pürüzsüzce mühürlendi.
