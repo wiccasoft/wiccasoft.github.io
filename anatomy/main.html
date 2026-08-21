@@ -61,9 +61,9 @@ button, input, .panel-kartlari {
     /* Tabloyu siyah-beyaz yapacak o sihirli kuantum filtresi */
 .matrix-grayscale {
     filter: grayscale(100%) contrast(110%) brightness(90%) !important;
-    transition: filter 0.8s ease-in-out; /* Yumuşak bir geçiş şovu için */
+    -webkit-filter: grayscale(100%) contrast(110%) brightness(90%) !important; /* Eski tarayıcı emniyeti */
+    transition: filter 0.8s ease-in-out;
 }
-
 .matrix-color {
     filter: grayscale(0%) contrast(100%) brightness(100%) !important;
     transition: filter 0.8s ease-in-out;
@@ -141,8 +141,9 @@ iframe {
 <script src="oracle.js"></script>
 
     <!-- 🎨 TABLO BAĞIMSIZ ELEMAN OLARAK EN ARKEYA GÖMÜLDÜ -->
-  <img id="bg-image" class="matrix-color" src="./Salvator_Mundi_oil_on_walnut.jpg" alt="Salvator Mundi">
-
+  
+<!-- 🎨 TABLO: Sınıfı doğrudan grayscale başladığı için hiçbir şeye tıklamadan simsiyah-beyaz açılır! -->
+<img id="bg-image" class="matrix-grayscale" src="./Salvator_Mundi_oil_on_walnut.jpg" alt="Salvator Mundi">
 
   <!-- ⚡ AC-DC ANATOMY MOTORU ÖNE BİNDİRİLDİ -->
  <iframe id="anatomy-engine" src="anatomy.html"></iframe>
@@ -369,7 +370,7 @@ function switchAcademicTab(targetTab) {
 // 🔋 ECO ENGINE KÖPRÜ SÜRÜCÜSÜ (main.html -> anatomy.html Iframe Postman)
 
 //https://www.imaios.com/en/e-anatomy/anatomical-structures/cardiac-plexus-1557867012#
-window.mainTargetFPS = 60;
+//window.mainTargetFPS = 60;
 
 function toggleMainPerformanceMode() {
     const btn = document.getElementById('perf-toggle-btn');
@@ -450,38 +451,37 @@ function toggleMirrorButton() {
 
 
   <script>
-    let isGrayscaleMode = false;
+    let isGrayscaleMode = true;
 
     // 🎨 TABLO RENK/KONTRAST FİLTRE GEÇİŞ MOTORU
-    function toggleMatrixIllusionFilter() {
-        const bgImage = document.getElementById("bg-image");
-        const filterBtn = document.getElementById("toggle-filter-btn");
-        
-        isGrayscaleMode = !isGrayscaleMode;
-        
-        if (bgImage) {
-            if (isGrayscaleMode) {
-                bgImage.className = "matrix-grayscale";
+
+function toggleMatrixIllusionFilter() {
+    const bgImage = document.getElementById("bg-image");
+    const filterBtn = document.getElementById("toggle-filter-btn");
+    
+    // Her tıklamada durumu tersine büker
+    isGrayscaleMode = !isGrayscaleMode;
+    
+    if (bgImage) {
+        if (isGrayscaleMode) {
+            // Siyah-Beyaz (True Eye) Modu Aktifleştiğinde
+            bgImage.className = "matrix-grayscale";
+            if (filterBtn) {
                 filterBtn.innerText = "Matrix: Desaturated (True Eye)";
                 filterBtn.style.color = "#00ffff"; // Manyetik Mavi Su Rengine bükülür
                 filterBtn.style.borderColor = "#00ffff";
-            } else {
-                bgImage.className = "matrix-color";
+            }
+        } else {
+            // Orijinal Renkli İllüzyon Moduna Geri Döndüğünde
+            bgImage.className = "matrix-color";
+            if (filterBtn) {
                 filterBtn.innerText = "Matrix: Original Illusion";
                 filterBtn.style.color = "#ff7f00"; // Hava Köprüsü Turuncusuna geri döner
                 filterBtn.style.borderColor = "#ff7f00";
             }
         }
     }
-
-    // 🧠 IFRAME İÇİNDEKİ YAPAY ZEKA MOTORUYLA HABERLEŞME HATTI
-    function triggerGeminiAcademicOracle() {
-        const iframe = document.getElementById("anatomy-engine");
-        if (iframe && iframe.contentWindow) {
-            // İllüzyonu yırtan el işaretine basıldığında iframe'in içine sinyali asenkron fırlatır
-            iframe.contentWindow.postMessage({ action: "TRIGGER_ACADEMIC_ORACLE" }, "*");
-        }
-    }
+}
 
 
     // main.html içindeki buton tetikleyicisi:
@@ -839,6 +839,30 @@ telemetryBox.innerHTML = `
 `;    }
     }
 });
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+    const iframe = document.getElementById("anatomy-engine");
+    const btn = document.getElementById('perf-toggle-btn');
+    
+    // HTML'deki buton stilini ve metnini de açılışta yeşil ECO olarak senkronize ediyoruz
+    if (btn) {
+        btn.innerText = "25 FPS (ECO)";
+        btn.style.color = "#99ff33"; // Çevre dostu eko yeşili
+        btn.style.borderColor = "#99ff33";
+        btn.style.boxShadow = "0 0 8px rgba(153,255,51,0.3)";
+    }
+
+    if (iframe) {
+        iframe.onload = () => {
+            console.log("[METATRON KÖPRÜSÜ] Iframe hazır. 25 FPS ECO kilidi vuruluyor...");
+            iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: 25 }, "*");
+        };
+    }
+});
+
+
   </script>
 
 
