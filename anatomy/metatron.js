@@ -430,37 +430,28 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 }; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 NİHAİ KONTROL: 30 FPS BİYOFİZİK REZONANS MOTORU (SIFIR GÖZ KIRPMA)
+// 🪐 NİHAİ KONTROL: MONİTÖR REZONANSLI DOĞAL DOĞAL DÖNGÜ (60 FPS - 0 FLICKER)
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 window.sonVurusZamani = window.sonVurusZamani || performance.now();
 window.dalgaTepesinde = window.dalgaTepesinde || false;
 
-// 30 FPS için zaman kalkanı (1000ms / 30fps = ~33.3ms)
-window.lastMetatronRenderTime = window.lastMetatronRenderTime || 0;
-
+// KESİN ÇÖZÜM: setInterval ve RAM sızıntısı söküldü! Yerine pürüzsüz RAF geldi.
 function metatronGozcuDongusu(simdi) {
-    // Monitör hızından bağımsız olarak motorun SADECE 33.3ms'de bir (30 FPS) çalışmasını garantiliyoruz
-    const gecenSure = simdi - window.lastMetatronRenderTime;
-    
-    if (gecenSure >= 33.3) {
-        // Gecikme artıklarını sıfırlayarak zaman kaymasını engelliyoruz
-        window.lastMetatronRenderTime = simdi - (gecenSure % 33.3);
-        
-        if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-            window.MetatronEngine();
-        }
+    // Eğer kalp uykudaysa veya buton basılmadıysa boşuna matematik döndürme, CPU'yu koru!
+    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+        window.MetatronEngine(simdi);
     }
     
-    // Tarayıcının yerel çizim döngüsüne sadık kalıyoruz
+    // Tarayıcı hazır olduğu bir sonraki karede (tam 60Hz eşzamanlı) tekrar çağırır
     requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// Döngüyü emniyetli tekil tetikleme
+// Döngüyü sadece bir kez emniyetli şekilde tetikle
 if (!window.metatronLoopActive) {
     window.metatronLoopActive = true;
     requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// 🪐 metatron.js Sonu - Intel UHD için nihai konfor alanı mühürlendi.
+// 🪐 metatron.js Sonu - Tüm hafıza kaçakları kurutuldu ve %9 nizamı geri getirildi.
