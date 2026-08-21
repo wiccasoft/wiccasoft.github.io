@@ -198,32 +198,63 @@ function calculateMetatronRespiration(heartRate) {
     }, "*");
 }
 
-// 🪐 3. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (RENDER MATRIX)
+// 🪐 3. KESİNTİSİZ ULTRA-HAFİF ANİMASYON DÖNGÜSÜ (OPTIMIZED RENDER MATRIX)
+let lastPostTime = 0;
+
 function animate() {
     requestAnimationFrame(animate);
 
-    // Bizim o akışkan ve harika kuantum piston motorunu ateşler
-    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    }
+    // 1. Durum: Eğer animasyon aktifse, motoru çalıştır ve HER KAREDE render et
+    if (window.heartAnimationActive === true) {
+        // Delta zaman bazlı dinamik hız hesaplama köprüsü
+        if (window.metatronClock) {
+            const delta = window.metatronClock.getDelta();
+            const targetSeconds = (window.HEART_CYCLE_MS || 800) / 1000;
+            const radiansPerSecond = (2 * Math.PI) / targetSeconds;
+            window.metatronPulseSpeed = radiansPerSecond * delta;
+        }
 
-    // 🎯 HAFİZA KÖPRÜSÜ: skeleton.js içindeki sahne elemanlarını yakalayıp jilet gibi çizer
+        if (typeof window.MetatronEngine === "function") {
+            window.MetatronEngine();
+        }
+
+        // WebGL Sahnesini jilet gibi çiz
+        executeRenderPipeline();
+    }
+    // 2. Durum: Animasyon kapalıysa hiçbir şey yapma (CPU derin uykuda %0-1)
+}
+
+// 🎯 Sahneyi ekran kartına yollayan ve telemetriyi limitleyen güvenli çizim hattı
+function executeRenderPipeline() {
     const activeRenderer = window.renderer || (typeof renderer !== "undefined" ? renderer : null);
     const activeScene = window.scene || (typeof scene !== "undefined" ? scene : null);
     const activeCamera = window.camera || (typeof camera !== "undefined" ? camera : null);
 
     if (activeRenderer && activeScene && activeCamera) {
         activeRenderer.render(activeScene, activeCamera);
-        simulasyonParametreleriniTuret(); // Her kareden sonra telemetriyi üst panele uçurur
-    }
-
-    // Çökme engelleyici yedek döngü bağı
-    if (typeof window.updateMetatronLoop === "function") {
-        window.updateMetatronLoop();
+        
+        // PERFORMANCE KİLİDİ: Saniyede 144 kere main.html'e postMessage atmayı engelliyoruz!
+        // Telemetri gönderimini saniyede ~20 kez (50ms ara ile) sınırla. CPU nefes alsın.
+        const now = performance.now();
+        if (now - lastPostTime >= 50) {
+            simulasyonParametreleriniTuret();
+            lastPostTime = now;
+        }
     }
 }
 
+// 📐 Butonlara basıldığında (Açı değişimi, İskelet gizleme vb.) tek bir kare çizmesi için dışarı açılan kapı
+window.requestSingleFrame = function() {
+    if (window.heartAnimationActive !== true) {
+        executeRenderPipeline();
+    }
+};
 
+
+// Değişiklik yapıldıktan hemen sonra sahneyi sadece 1 kare güncelle
+if (typeof window.requestSingleFrame === "function") {
+    window.requestSingleFrame();
+}
 
 
 // 🛠 4. MOTORU GÜVENLİ BAŞLATMA ŞALTERİ
