@@ -575,6 +575,9 @@ sendTelemetryReadySignal();
 // Garanti olsun diye DOM bittiğinde bir kez daha ateşle (Ağ gecikmesine karşı mühür)
 window.addEventListener("DOMContentLoaded", sendTelemetryReadySignal);
 
+
+window.parent.postMessage({ komut: "TELEMETRY_ENGINE_READY" }, "*");
+
     window.togglePerformanceMode = function() {
     const btn = document.getElementById('perf-toggle-btn');
     if (!btn) return;
