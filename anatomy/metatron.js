@@ -209,7 +209,7 @@ window.MetatronEngine = function() {
     window.MetatronMasterClock = (window.MetatronMasterClock + (currentSpeed * 25)) % 800;
 
     // 🔍 PANEL BAĞLANTI LOGU
-    console.log("🫀 MOTOR ATEŞLENDİ! Saat:", Math.round(window.MetatronMasterClock));
+    //console.log("🫀 MOTOR ATEŞLENDİ! Saat:", Math.round(window.MetatronMasterClock));
 
     // Odalar ve Spektrum ayarları
     window.chambersTimers = window.chambersTimers || {};
@@ -359,25 +359,20 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         localDominantChamber = ch;
     }
 
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (DÖNGÜ İÇİ)
+ // YERİNE BUNU YAPIŞTIR:
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (ULTRA-LIGHT CPU OPTİMİZELİ)
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
-    //const baseMV = Number(ch.mv);
-    //let currentMV = safeDecaying ? baseMV - ((1.0 - wave) * 45) : baseMV + (wave * 35);
-    //const baseHZ = Number(ch.q);
-    //const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
-    const safDinamikMS = (window.HEART_CYCLE_MS || 800) + ((performance.now() % 4) - 2);
-
-    // 3. TELEMETRİ HAVUZUNA TERTEMİZ MÜHÜRLENME (Döngü İçi)
+    
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
-        frequencyHz: currentHZ.toFixed(2),
-        voltageMV: currentMV.toFixed(1),
-        mechanicalWave: wave.toFixed(3),
-        phaseState: safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)",
-        timestampMS: performance.now(),
-        metatronLiveMs: `${safDinamikMS.toFixed(0)} ms`
+        frequencyHz: currentHZ,     
+        voltageMV: currentMV,       
+        mechanicalWave: wave,       
+        phaseState: safeDecaying ? 0 : 1, 
+        timestampMS: performance.now()
     };
+
 }); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü bitti.
 
 // ========================================================================
