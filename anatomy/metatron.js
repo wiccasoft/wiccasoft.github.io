@@ -196,7 +196,18 @@ window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
 /// ⚡ DİNAMİK NABIZ VE MOTOR BAŞLANGICI
 window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
 
-window.MetatronEngine = function() {
+// Gözcü zaman kontrol değişkenleri (Motor fonksiyonunun hemen dışına, üstüne yerleştirin)
+window.lastMetatronFrameTime = window.lastMetatronFrameTime || 0;
+
+window.MetatronEngine = function () {
+    const simdi = performance.now();
+    
+    // HIZ KORUMA KALKANI: Eğer son çalışmanın üzerinden 15ms geçmediyse,
+    // bu mükerrer bir tetiklemedir. Hesaplamayı es geç, CPU'yu koru!
+    if (simdi - window.lastMetatronFrameTime < 15) {
+        return; 
+    }
+    window.lastMetatronFrameTime = simdi;
     // 🔲 MARŞ KİLİDİ: Model hazır değilse bekle
     if (!window.METATRON_SPECTRUM_MODEL) return;
     
@@ -336,67 +347,42 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", timestampMS: performance.now()
     };
 
- // ========================================================================
-    // 🔮 ACADEMIC TELEMETRY CARRIER & LUNAR INJECTION (DÖNGÜ İÇİ)
+  // ========================================================================
+    // 🔮 ACADEMIC TELEMETRY CARRIER & LUNAR INJECTION (OPTİMİZELİ)
     // ========================================================================
-    const validLocalTime = (typeof localTime !== 'undefined') ? localTime : (window.chambersTimers ? window.chambersTimers[ch.id] : 0);
-    //const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
-    
-    // Performance Cache: DOM element okuma optimizasyonu
-    const lunarPhaseText = window.cachedLunarPhase || (document.getElementById('lunar-phase') ? document.getElementById('lunar-phase').innerText : "DENGELİ");
-    window.cachedLunarPhase = lunarPhaseText; 
-    
-    let lunarMultiplier = 1.0;
-    if (lunarPhaseText.includes("DOLUNAY")) {
-        lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 1.618 : 0.618;
-    } else if (lunarPhaseText.includes("YENİ AY")) {
-        lunarMultiplier = (ch.id === 1 || ch.id === 2) ? 0.618 : 1.333;
-    }
 
-    const baseSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e;
-    const safeSpeed = safeDecaying ? (baseSpeed / lunarMultiplier) : baseSpeed;
+   
 
-    // Akademik Telemetri Mührü
+    // Telemetri ve hız hesaplama (Orijinal yapı korunarak optimize edildi)
     window.MetatronTelemetry = window.MetatronTelemetry || {};
     window.MetatronTelemetry[ch.id] = {
         energy: wave,
-        timer: validLocalTime,
-        speed: safeSpeed,
+        speed: safeDecaying ? ((typeof dynamicSpeed !== 'undefined' ? dynamicSpeed : ch.e) / lunarMultiplier) : (typeof dynamicSpeed !== 'undefined' ? dynamicSpeed : ch.e),
         isDecaying: safeDecaying
     };
 
     // 🪐 ULTRA PERFORMANCE KÖPRÜSÜ (DÖNGÜ İÇİ): En parlak odayı havada yakalıyoruz
+  // 🪐 PERFORMANS KÖPRÜSÜ
     if (wave > maxWaveValue) {
         maxWaveValue = wave;
         localDominantChamber = ch;
     }
 
     // ========================================================================
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (TAM UYUM ENJEKSİYONU)
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (ULTRA-LIGHT CPU SAVER)
     // ========================================================================
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
-    window.MetatronTelemetry = window.MetatronTelemetry || {};
     
-    // telemetry.js'in içeride .includes() arayıp çökmesini önleyecek ham kelime yapısı
-    const sabitMetinDurumu = safeDecaying ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)";
-
-    // 1. Akademik Telemetri Havuzunun Mühürlenmesi
+    // Ağır string dönüşümleri ve Ay fazı yükleri tamamen söküldü!
+    // Sadece projenin çalışması için zorunlu olan ham sayısal veriler mühürleniyor.
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
-        frequencyHz: currentHZ,     // CPU dostu saf float sayı
-        voltageMV: currentMV,       // CPU dostu saf float sayı
-        mechanicalWave: wave,       // CPU dostu saf float sayı
-        phaseState: sabitMetinDurumu, // telemetry.js:225 satırının aradığı evrensel .includes mühürü!
+        frequencyHz: currentHZ,     // Saf float sayı
+        voltageMV: currentMV,       // Saf float sayı
+        mechanicalWave: wave,       // Saf float sayı
+        phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", // telemetry.js için hafif statik string
         timestampMS: performance.now()
-    };
-
-    // 2. Eski Telemetri Nesnesine de senkronizasyon (telemetry.js'in diğer yan dalları için koruma)
-    window.MetatronTelemetry[ch.id] = {
-        energy: wave,
-        phaseState: sabitMetinDurumu,
-        frequencyHz: currentHZ,
-        voltageMV: currentMV
     };
 }); // ◄ 🎯 KUTSAL KAPANIŞ 1: window.METATRON_SPECTRUM_MODEL.forEach döngüsü bitti.
 // ========================================================================
