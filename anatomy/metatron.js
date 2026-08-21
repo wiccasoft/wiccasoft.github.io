@@ -336,12 +336,14 @@ if (mesh.material) {
     const baseHZ = Number(ch.q);
     const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
 
-    window.MetatronTelemetry = window.MetatronTelemetry || {};
-    window.MetatronTelemetry[ch.id] = {
-        name: ch.name, color: ch.color, frequencyHz: currentHZ.toFixed(2),
-        voltageMV: currentMV.toFixed(1), mechanicalWave: wave.toFixed(3),
-        phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", timestampMS: performance.now()
-    };
+
+    // ✂️ SADECE BU NESNE ATAMA KISMINI TAMAMEN SİLİN:
+window.MetatronTelemetry = window.MetatronTelemetry || {};
+window.MetatronTelemetry[ch.id] = {
+    name: ch.name, color: ch.color, frequencyHz: currentHZ.toFixed(2),
+    voltageMV: currentMV.toFixed(1), mechanicalWave: wave.toFixed(3),
+    phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", timestampMS: performance.now()
+};
 
    // ========================================================================
     // 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ İÇİ)
