@@ -370,7 +370,7 @@ function switchAcademicTab(targetTab) {
 // 🔋 ECO ENGINE KÖPRÜ SÜRÜCÜSÜ (main.html -> anatomy.html Iframe Postman)
 
 //https://www.imaios.com/en/e-anatomy/anatomical-structures/cardiac-plexus-1557867012#
-//window.mainTargetFPS = 60;
+window.mainTargetFPS = 25;
 
 function toggleMainPerformanceMode() {
     const btn = document.getElementById('perf-toggle-btn');
@@ -894,8 +894,6 @@ telemetryBox.innerHTML = `
 
 
 
-
-
 // 🔒 AUTHORITATIVE ORIGIN REGEX SHIELD (GITHUB + XYZ ENTEGRASYONU)
 const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasoft\.github\.io|^https:\/\/wiccasoft\.xyz/;
 
@@ -907,17 +905,15 @@ window.addEventListener("message", (event) => {
     // 1. GÜVENLİK KALKANI: Köken doğrulaması başarısızsa infazı durdur
     if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
 
-    // Emniyet kilidi: Gelen veri boş veya tanımsızsa işlem yapma
-    if (!event.data) return;
+    // Emniyet kilidi: Gelen veri gövdesi boşsa alt katmanları tarama, çöküşü engelle
+    if (!event.data || typeof event.data !== 'object') return;
 
     // 🚀 A) ALTTAN GELEN HANDSHAKE (EL SIKIŞMA) SİNYALİ
     if (event.data.komut === "TELEMETRY_ENGINE_READY") {
         console.log("[METATRON KÖPRÜSÜ] .XYZ üzerinden el sıkışma alındı. FPS emri gönderiliyor...");
         
-        // Sayfada kullanılan tüm olası iframe ID'lerini güvenli yakalama hattı
-        const iframe = document.getElementById("anatomy-engine") || 
-                       document.getElementById("anatomy-viewport") || 
-                       document.getElementById("metatronIframeId");
+        // Sayfadaki gerçek iframe kimliğine doğrudan nokta atışı kilitlenme
+        const iframe = document.getElementById("anatomy-engine");
                        
         if (iframe && iframe.contentWindow) {
             // Motorun beklediği "SET_TARGET_FPS" sinyalini mevcut küresel duruma göre fırlat
@@ -938,21 +934,46 @@ window.addEventListener("message", (event) => {
         if (humanState) {
             humanState.innerText = `DURUM: ${event.data.mod}`;
         }
+        return;
     }
 
-    // NOT: Eğer hud panel güncelleme mantığın varsa, onun "HUD_PANEL_GUNCELLE" if bloğu da tam buraya, bunun altına gelmeli!
+    // 🪐 C) HUD PANEL GENİŞLETİLMİŞ GÜNCELLEME SİNYALİ
+    if (event.data.komut === "HUD_PANEL_GUNCELLE") {
+        // Alt kısımlarda tanımlı olan devasa HUD tablosu render motorunu çalıştırır
+        if (typeof window.executeExtendedHudRender === "function") {
+            window.executeExtendedHudRender(event.data);
+        }
+    }
 });
 
-// 🔳 ANA SAYFADAKİ MOD DEĞİŞTİRİCİ BUTON FONKSİYONU (ID UYUMLU GÜVENLİ SÜRÜM)
+
+document.addEventListener("DOMContentLoaded", () => {
+    // ... [Önceki kod] ...
+    // Butonu ve iframe'i yakalayıp 25 FPS ECO moduna (yeşil renk) zorla
+    const btn = document.getElementById('perf-toggle-btn');
+    if (btn) {
+        btn.innerText = "25 FPS (ECO)";
+        btn.style.color = "#99ff33"; 
+        btn.style.borderColor = "#99ff33";
+    }
+
+    const iframe = document.getElementById("anatomy-engine");
+    if (iframe) {
+        iframe.onload = () => {
+            iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: 25 }, "*");
+        };
+    }
+});
+
+// 🔳 ANA SAYFADAKİ MOD DEĞİŞTİRİCİ BUTON FONKSİYONU (KUSURSUZ ID UYUMLU SÜRÜM)
 function modDegistir(yeniMod) {
-    const iframe = document.getElementById("anatomy-engine") || 
-                   document.getElementById("anatomy-viewport") || 
-                   document.getElementById("metatronIframeId");
+    // DOM üzerindeki gerçek element olan "anatomy-engine" ID'sine bağlandı
+    const iframe = document.getElementById("anatomy-engine");
                    
     if (iframe && iframe.contentWindow) {
         iframe.contentWindow.postMessage({ komut: "MOD_TETIKLE", mod: yeniMod }, "*");
     } else {
-        console.error("[METATRON ERROR] Mod değiştirilemedi, hedef iframe bulunamadı.");
+        console.error("[METATRON ERROR] Mod değiştirilemedi, 'anatomy-engine' iframe bulunamadı.");
     }
 }
 
