@@ -168,16 +168,20 @@ iframe {
       </button>
   </div>
 
-  <!-- 🪟 SLIDE MENU TETİKLEYİCİ ŞERİT (Ekranın en solunda incecik mor bir çizgi olarak pusuda bekler) -->
+<!-- 🪟 SLIDE MENU TETİKLEYİCİ ŞERİT (Ekranın en solunda etli mor bir çizgi olarak pusuda bekler) -->
 <div id="slideMenuTrigger" onclick="toggleSlideMenu()" style="
     position: absolute;
-    top: 0; left: 0; width: 8px; height: 100vh;
+    top: 0; left: 0; 
+    width: 14px; /* 🔑 Taban kalınlık artırıldı, yakalaması artık çok daha kolay! */
+    height: 100vh;
     background: linear-gradient(to bottom, #660099, #111, #660099);
-    cursor: pointer; z-index: 1001; opacity: 0.7;
+    cursor: pointer; 
+    z-index: 999; /* 🔑 PANELİN ARTIK KESİNLİKLE ARKASINDA KALIR: Panel 1000 olduğu için açılınca mor çizgi arkada kalır, pürüz çıkarmaz! */
+    opacity: 0.75;
     transition: opacity 0.3s ease, width 0.3s ease;
-" onmouseover="this.style.width='15px'; this.style.opacity='1';" onmouseout="this.style.width='8px'; this.style.opacity='0.7';">
-    <!-- İçine çok zarif dikey bir ok veya sembol koyulabilir -->
-    <div style="color: #fff; position: absolute; top: 50%; left: 2px; font-size: 10px; transform: translateY(-50%); font-weight: bold;">❯</div>
+" onmouseover="this.style.width='22px'; this.style.opacity='1';" onmouseout="this.style.width='14px'; this.style.opacity='0.75';">
+    <!-- İçindeki çok zarif siber ok sembolü -->
+    <div style="color: #fff; position: absolute; top: 50%; left: 4px; font-size: 11px; transform: translateY(-50%); font-weight: bold; text-shadow: 0 0 5px #ff00ff;">❯</div>
 </div>
 
 <!-- 🎛️ MASTER ACADEMIC SLIDE CONTROL DECK (YANDAN KAYAN GİZLİ PANEL) -->
@@ -193,7 +197,7 @@ iframe {
     border-bottom: 2px solid #660099; /* Alt kapak siber çizgisi */
     border-radius: 0 8px 8px 0; /* Sağ köşelere şık bir askeri HUD kavisi */
     padding: 20px 15px;
-    z-index: 1000;
+    z-index: 1000; /* 🔑 Tetikleyiciden büyük olduğu için pürüzsüzce üstünü örter */
     font-family: monospace;
     box-shadow: 5px 5px 25px rgba(102, 0, 153, 0.4);
     transition: left 0.4s cubic-bezier(0.1, 0.9, 0.2, 1); /* Pürüzsüz uzay gemisi kapısı akışı */
@@ -807,16 +811,16 @@ if (liveWave > 0.12 && liveWave <= 0.28) {
 }
 
 let arrowIcon = "<span style='color:#004400; font-size:8px;'>➔</span>";
-// 8. HUD MASTER PANEL BASIMI (Sarkmaları ve Üst Üste Binmeleri Önleyen Nihai Kalibrasyon)
+// 8. HUD MASTER PANEL BASIMI (Metabolik Mod Taşmasını Önleyen Jilet Hizalı Nihai Tasarım)
 telemetryBox.innerHTML = `
-    <div style="font-size: 11.5px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.2px;">
-        <span style="color: #ff00ff; font-weight: bold; font-size: 12.5px;">BPM: ${dynamicBPM.toFixed(0)} BPM (RESONANCE)</span><br>
+    <div style="font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.3px;">
+        <span style="color: #ff00ff; font-weight: bold; font-size: 12px;">BPM: ${dynamicBPM.toFixed(0)} BPM (RESONANCE)</span><br>
         EKG: ${event.data.ekg || "-25.8 mV"} | FQ: ${realMetatronFQ.toFixed(2)} Hz (BXN)<br>
         TANSİYON: <span style="color: #00ff00;">${dynamicTansiyonText}</span> | pH: ${event.data.ph || "7.42 pH"}<br>
-        METABOLİZMA: <span style="color: #00ff00; text-transform: uppercase;">${dynamicMetabolizmaText}</span><br>
+        METABOLİZMA: <span style="color: #00ff00; text-transform: uppercase; font-size: 10.5px;">${dynamicMetabolizmaText}</span><br>
         OKSİJEN: <span style="color: #00ff00;">${event.data.oksijen || "%98.0 SpO2"}</span> | ELM: <span style="color: ${elementColor}; font-weight: bold;">${liveElement}</span>
     </div>
-    <div style="border-top: 1px dashed #004400; margin-top: 5px; padding-top: 5px; font-size: 11.5px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.2px;">
+    <div style="border-top: 1px dashed #004400; margin-top: 5px; padding-top: 5px; font-size: 11px; white-space: nowrap; line-height: 1.4; width: 100%; overflow: hidden; letter-spacing: -0.2px;">
         RESP: <span style="color: #00ff00;">${liveResp.toFixed(1)}</span> BrPM | MODE: ${breathHtml}<br>
         PRQ RATIO: <span style="color: #00ff00;">${actualPRQ.toFixed(2)}</span> / 4.00<br>
         CRC PHASE: <span style="color: ${statusColor}; font-weight: bold;">${statusText}</span>
@@ -832,7 +836,7 @@ telemetryBox.innerHTML = `
             ${nodeVSS}
         </div>
     </div>
-`;     }
+`;    }
     }
 });
   </script>
