@@ -401,47 +401,6 @@ function toggleMainPerformanceMode() {
 }
 
 
-// 🔳 MESSAGING TETİKLEYİCİLERİ
-let axesState = true;
-function toggleAxesButton() {
-    axesState = !axesState;
-    const btn = document.getElementById("btnAxes");
-    btn.style.background = axesState ? "#660099" : "#222";
-    btn.style.border = axesState ? "1px solid #fff" : "1px solid #222";
-
-    const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "EKSEN_DURUMU_DEGISTIR", durum: angleState }, "*");
-    }
-}
-
-let angleState = true;
-function toggleAngleButton() {
-    anglesState = !angleState;
-    const btn = document.getElementById("btnAngle");
-    btn.style.background = angleState ? "#660099" : "#222";
-    btn.style.border = angleState ? "1px solid #fff" : "1px solid #222";
-
-    const metatronIframe = document.getElementById("metatronIframeId"); // Kendi iframe ID'ni kontrol et kanka
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "SET_TOP_VIEW", durum: angleState }, "*");
-    }
-}
-
-function toggleSkeletonButton() {
-    const metatronIframe = document.getElementById("metatronIframeId");
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "SKELETON_TOGGLE" }, "*");
-    }
-}
-
-function toggleHeartButton() {
-    const metatronIframe = document.getElementById("metatronIframeId");
-    if (metatronIframe && metatronIframe.contentWindow) {
-        metatronIframe.contentWindow.postMessage({ komut: "HEART_TOGGLE" }, "*");
-    }
-}
-
 function toggleMirrorButton() {
     alert("4 Element Aynalama Modu Aktif Cetvelleri Hazırlanıyor!");
 }
@@ -499,13 +458,8 @@ window.toggleSkeletonButton = function() {
     
     console.log(`[DECK DIRECT] Iskelet Butonu Tetiklendi. Yeni Sinyal: ${window.skeletonState}`);
 
-    const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "SKELETON_TOGGLE", 
-            durum: window.skeletonState 
-        }, "*");
-    }
+   // ✂️ Mevcut arama hattını sil ve yerine doğrudan bunu çak aga:
+const iframe = document.getElementById("anatomy-engine");
 };
 
 
@@ -529,13 +483,8 @@ window.toggleAxesButton = function() {
         btn.style.border = window.axesState ? "1px solid #fff" : "1px solid #222";
     }
 
-    const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "EKSEN_DURUMU_DEGISTIR", 
-            durum: window.axesState 
-        }, "*");
-    }
+   // ✂️ Mevcut arama hattını sil ve yerine doğrudan bunu çak aga:
+const iframe = document.getElementById("anatomy-engine");
 };
 
 // ❤️ BUTON 3: KUANTUM KALP ATİŞ ŞALTERİ (KUSURSUZ TOGGLE)
@@ -544,14 +493,8 @@ window.toggleHeartButton = function() {
     window.heartState = (window.heartState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Kalp Butonu Tetiklendi. Yeni Sinyal: ${window.heartState}`);
-
-    const iframe = document.getElementById("anatomy-viewport") || document.getElementById("metatronIframeId") || document.querySelector("iframe");
-    if (iframe && iframe.contentWindow) {
-        iframe.contentWindow.postMessage({ 
-            komut: "HEART_TOGGLE", 
-            durum: window.heartState 
-        }, "*");
-    }
+// ✂️ Mevcut arama hattını sil ve yerine doğrudan bunu çak aga:
+const iframe = document.getElementById("anatomy-engine");
 };
 
 // ❤️ BUTON 5: KUANTUM AÇI ŞALTERİ (KUSURSUZ TOGGLE - KÖPRÜ DÜZELTİLDİ)
