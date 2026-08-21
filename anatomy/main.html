@@ -491,16 +491,16 @@ window.toggleAxesButton = function() {
     }
 };
 
-// ❤️ BUTON 3: KUANTUM KALP ATİŞ ŞALTERİ (KUSURSUZ TOGGLE & TRANSMIT)
+// ❤️ BUTON 3: KUANTUM KALP ATİŞ ŞALTERİ (AÇILIŞTA TEK TIKLAMA EMRE KİLİTLENDİ)
 window.toggleHeartButton = function() {
-    if (window.heartState === undefined) window.heartState = false;
+    // 🔑 KESİN ÇÖZÜM: İlk açılışta tanımsızsa true yapıyoruz ki ilk basışta false'a pürüzsüz dönsün!
+    if (window.heartState === undefined) window.heartState = true;
     window.heartState = (window.heartState === true) ? false : true;
     
     console.log(`[DECK DIRECT] Kalp Butonu Tetiklendi. Yeni Sinyal: ${window.heartState}`);
 
     const iframe = document.getElementById("anatomy-engine");
     if (iframe && iframe.contentWindow) {
-        // 🚀 SİNYAL ATEŞLENDİ: Alt taraftaki metatron.js bu komutu bekliyor!
         iframe.contentWindow.postMessage({ 
             komut: "KALP_DURUMU_DEGISTIR", 
             durum: window.heartState 
@@ -642,6 +642,45 @@ function modDegistir(yeniMod) {
         console.error("[METATRON ERROR] Mod değiştirilemedi, 'anatomy-engine' iframe bulunamadı.");
     }
 }
+
+
+
+// ============================================================================
+// 🔮 TÜM TELEMETRİSİ VE KONTROL AKIŞINI YÖNETEN NİHAİ AMİRAL GEMİSİ DİNLEYİCİ
+// ============================================================================
+window.addEventListener("message", (event) => {
+    // Güvenlik kalkanı yerel disk ve canlı senkronizasyonu
+    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+
+    // 1. KANAL: ALT TARAFTAN GELEN CANLI HİDROLİK VERİLERİ (STROKE VOL & CARDIAC OUT)
+    if (event.data && event.data.type === "METATRON_HYDRAULICS") {
+        window.sonHidrolikMetni = `MODE: ORIGINAL ILLUSION<br>
+                                   STROKE VOL: ${(event.data.strokeVolume || 100.0).toFixed(1)} mL<br>
+                                   CARDIAC OUT: ${(event.data.cardiacOutput || 7.20).toFixed(2)} L/min<br><br>`;
+        window.guncelGövdeyiYaz();
+    }
+
+    // 2. KANAL: METATRON.JS İÇİNDEKİ ODALARIN TÜM BİYOFİZİKSEL DETAY TABLOSU
+    if (event.data && event.data.komut === "HUD_PANEL_GUNCELLE") {
+        // Eğer alt taraftan doğrudan hazırlanmış dinamik bir metin akışı geliyorsa
+        if (event.data.metin) {
+            window.sonOdaTablosuMetni = event.data.metin;
+            window.guncelGövdeyiYaz();
+        }
+    }
+});
+
+// 🚀 ENJEKSİYON: İki farklı kanaldan gelen veriyi sol ekranda birleştiren akıllı motor
+window.sonHidrolikMetni = window.sonHidrolikMetni || "MODE: ORIGINAL ILLUSION<br>STROKE VOL: 100.0 mL<br>CARDIAC OUT: 7.20 L/min<br><br>";
+window.sonOdaTablosuMetni = window.sonOdaTablosuMetni || "";
+
+window.guncelGövdeyiYaz = function() {
+    const telemetryBox = document.getElementById("telemetryScreen");
+    if (telemetryBox) {
+        // İki veriyi alt alta birleştirip sol frame'e tek seferde (pürüzsüz) basıyoruz!
+        telemetryBox.innerHTML = window.sonHidrolikMetni + window.sonOdaTablosuMetni;
+    }
+};
 
   </script>
 
