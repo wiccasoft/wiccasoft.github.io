@@ -493,20 +493,21 @@ window.LIVE_T_ENERGY = t_RawEnergy;     // 528 Hz'lik kutsal dengeleyici merkez
     window.LIVE_STROKE_VOLUME = Number(strokeVolume.toFixed(1));
     window.LIVE_CARDIAC_OUTPUT = Number(cardiacOutput.toFixed(2));
 
-    // 🔒 GÜVENLİK GÜNCELLEMESİ: Verinin sadece kendi ana alan adınıza gitmesini sağlayın
-    // Projenizin ana ekran adresi neyse (örn: "https://metatron-sistem.local" veya mevcut konum) onu yazın.
-    const TARGET_ORIGIN = window.location.origin; 
+  // 🛡️ LOCAL-SAFE TELEMETRY FIRLATICISI (ÇÖKMEYİ ENGELEYEN PARALEL HAT)
+    // Eğer yerel diskte çalışıyorsak (file:// veya null), tarayıcı blokajını aşmak için "*" jokerini kullanıyoruz.
+    const TARGET_ORIGIN = (window.location.origin === "file://" || window.location.origin === "null") 
+                          ? "*" 
+                          : window.location.origin;
 
     if (window.parent && window.parent.postMessage) {
         window.parent.postMessage({
             type: "METATRON_HYDRAULICS",
             strokeVolume: window.LIVE_STROKE_VOLUME,
             cardiacOutput: window.LIVE_CARDIAC_OUTPUT
-        }, TARGET_ORIGIN); // '*' yerine TARGET_ORIGIN kullanılarak veri sızıntısı önlendi.
+        }, TARGET_ORIGIN); // ◄ Sızıntı koruması yerelde "*" jokerine, canlıda güvenli kökene otomatik bükülür!
     }
 
-    } // updateTelemetryPanel fonksiyonu bitti
-
+} // updateTelemetryPanel fonksiyonu bitti
 
 
 
