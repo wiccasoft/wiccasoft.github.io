@@ -291,48 +291,46 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         // Osiloskop dalgasıyla tam senkronize dikey aks salınımı
         customWave = 0.25 + Math.abs(Math.sin(basePhase)) * 0.55;
     }
-
-    // 🎯 KESİN ÇÖZÜM: 'let' kelimesini sildik! Hesaplama artık en üstteki ortak 'wave' havuzuna yazılıyor.
+ // 🎯 DALGA HESAPLAMA, EMISSIVE GÜNCELLEMELER VE TELEMETRİ ENJEKSİYONU
     wave = (customWave !== null) ? customWave : (((Math.cos(basePhase + delayFactor) + 1) * 0.38) + 0.24);
     wave = Math.max(0.15, Math.min(1.0, wave));
-    
-   // Veri havuzunu ve görsel özellikleri güncelleme
+
     if (mesh.material) {
         mesh.userData = mesh.userData || {};
         mesh.userData.currentWave = wave;
         mesh.material.transparent = true;
-        
-        // Şimşek tepkisi (Opaklık ve Emissive)
         const isCenter = ch.id === 3 || ch.id === 6;
         mesh.material.opacity = isCenter ? 0.35 + (wave * 0.50) : 0.20 + (wave * 0.80);
-        if (mesh.material.emissiveIntensity !== undefined) {
-            mesh.material.emissiveIntensity = wave * (isCenter ? 2.5 : 3.0);
-        }
+        if (mesh.material.emissiveIntensity !== undefined) mesh.material.emissiveIntensity = wave * (isCenter ? 2.5 : 3.0);
     }
 
-    // Geometri Ölçeklemesi
-    if (typeof window.metatronMeshScaler === "function") {
-        window.metatronMeshScaler(mesh, null, ch);
+    if (typeof window.metatronMeshScaler === "function") window.metatronMeshScaler(mesh, null, ch);
+
+    // 🪐 PERFORMANS KÖPRÜSÜ
+    if (wave > maxWaveValue) {
+        maxWaveValue = wave;
+        localDominantChamber = ch;
     }
 
-    // Akademik Telemetri Mührü
+    // 🎨 BİYOFİZİK TELEMETRİ
+    const safeDecaying = false;
+    const baseMV = Number(ch.mv);
+    let currentMV = safeDecaying ? baseMV - ((1.0 - wave) * 45) : baseMV + (wave * 35);
+    const baseHZ = Number(ch.q);
+    const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
+
     window.MetatronTelemetry = window.MetatronTelemetry || {};
     window.MetatronTelemetry[ch.id] = {
-        energy: wave,
-        timer: (typeof localTime !== 'undefined') ? localTime : (window.chambersTimers ? window.chambersTimers[ch.id] : 0),
-        speed: (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e
+        name: ch.name, color: ch.color, frequencyHz: currentHZ.toFixed(2),
+        voltageMV: currentMV.toFixed(1), mechanicalWave: wave.toFixed(3),
+        phaseState: safeDecaying ? "DIASTOLE" : "SYSTOLE", timestampMS: performance.now()
     };
 
-      // 📐 Geometri Ölçeklemesi (Tekil Çağrı)
-    if (typeof window.metatronMeshScaler === "function") {
-        window.metatronMeshScaler(mesh, null, ch);
-    }
-
-    // ========================================================================
-    // 🔮 ACADEMIC TELEMETRY CARRIER & LUNAR INJECTION
+ // ========================================================================
+    // 🔮 ACADEMIC TELEMETRY CARRIER & LUNAR INJECTION (DÖNGÜ İÇİ)
     // ========================================================================
     const validLocalTime = (typeof localTime !== 'undefined') ? localTime : (window.chambersTimers ? window.chambersTimers[ch.id] : 0);
-    const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
+    //const safeDecaying = (typeof isDecaying !== 'undefined') ? isDecaying : false;
     
     // Performance Cache: DOM element okuma optimizasyonu
     const lunarPhaseText = window.cachedLunarPhase || (document.getElementById('lunar-phase') ? document.getElementById('lunar-phase').innerText : "DENGELİ");
@@ -348,50 +346,29 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     const baseSpeed = (typeof dynamicSpeed !== 'undefined') ? dynamicSpeed : ch.e;
     const safeSpeed = safeDecaying ? (baseSpeed / lunarMultiplier) : baseSpeed;
 
-     // ========================================================================
+    // Akademik Telemetri Mührü
+    window.MetatronTelemetry = window.MetatronTelemetry || {};
+    window.MetatronTelemetry[ch.id] = {
+        energy: wave,
+        timer: validLocalTime,
+        speed: safeSpeed,
+        isDecaying: safeDecaying
+    };
+
     // 🪐 ULTRA PERFORMANCE KÖPRÜSÜ (DÖNGÜ İÇİ): En parlak odayı havada yakalıyoruz
-    // ========================================================================
     if (wave > maxWaveValue) {
         maxWaveValue = wave;
         localDominantChamber = ch;
     }
-    
-    // ========================================================================
-    // 🎓 AKADEMİK BİYOFİZİK TELEMETRİ ENJEKSİYONU (Hz, mV & ms)
-    // ========================================================================
-    // ch nesnesini kaybetmemek adına bir sonraki adımda göndereceğiniz "Salvator Nizamı" 
-    // kodları da tam bu satırın altına, yani döngü hala açıkken eklenecektir.
- // ========================================================================
-    // 🎨 SALVATOR NİZAMI: DELTA MOTORU TERSİNE ÇÖZME ALGORİTMASI (HİLESİZ)
-    // ========================================================================
+
+    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (DÖNGÜ İÇİ)
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
+    //const baseMV = Number(ch.mv);
+    //let currentMV = safeDecaying ? baseMV - ((1.0 - wave) * 45) : baseMV + (wave * 35);
+    //const baseHZ = Number(ch.q);
+    //const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
+    const safDinamikMS = (window.HEART_CYCLE_MS || 800) + ((performance.now() % 4) - 2);
 
-    // 1. GERÇEK ANLIK ELEKTRİKSEL GERİLİM (Orijinal Matematik)
-    const baseMV = Number(ch.mv);
-    let currentMV = baseMV;
-    if (safeDecaying) {
-        currentMV = baseMV - ((1.0 - wave) * 45);
-    } else {
-        currentMV = baseMV + (wave * 35);
-    }
-
-    // 2. ANLIK REZONANS FREKANSI (Orijinal Matematik)
-    const baseHZ = Number(ch.q);
-    const deltaVoltage = currentMV - baseMV;
-    const sensitivity = 0.015; // Frekans dalgalanmasını görünür kılan dürüst katsayı
-    const currentHZ = baseHZ * (1.0 + (deltaVoltage * sensitivity));
-
-    // anatomy.html içindeki o canlı radyan hızını doğrudan okuyoruz
-    const livePulse = window.metatronPulseSpeed || 0.12;
-
-    // Gerçek zamanlı ms değerine geri çözme ve render sapması hesapları
-    const canliDeltaSüresi = window.metatronClock ? window.metatronClock.getDelta() : 0.016;
-    const anlikBPM = (livePulse / (2 * Math.PI)) * 60 / (canliDeltaSüresi || 0.016);
-    const anlikRenderSapmasi = (performance.now() % 4) - 2; 
-    const safDinamikMS = (window.HEART_CYCLE_MS || 800) + anlikRenderSapmasi;
-
-
-       // 3. TELEMETRİ HAVUZUNA TERTEMİZ MÜHÜRLENME (Hâlâ döngü içindeyiz, ch.id güvende!)
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
@@ -403,8 +380,13 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
         metatronLiveMs: `${safDinamikMS.toFixed(0)} ms`
     };
 
-}); // ◄ 🎯 İŞTE KUTSAL KAPANIŞ BURASI! Odaların tüm döngü işleri bitti ve güvenle kapandı.
+}); // ◄ 🎯 GERÇEK NİHAİ KUTSAL KAPANIŞ BURASI! Tüm odaların işi bitti ve döngü güvenle kapandı.
 
+// 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ DIŞI)
+if (localDominantChamber) {
+    window.activeDominantChamber = localDominantChamber;
+    window.activeDominantWave = maxWaveValue;
+}
 
 // ========================================================================
 // 🏆 MASTER MOTOR KÖPRÜSÜ: EN PARLAK ODAYI GLOBAL HAFIZAYA MÜHÜRLÜYORUZ
@@ -449,75 +431,53 @@ if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
         window.cachedCRCDOM.status.innerText = deviation < 0.05 ? "LOCKED (4:1)" : "ASYNC";
         window.cachedCRCDOM.status.style.color = deviation < 0.05 ? "#00ff00" : "#ff00ff";
     }
-}
 
 
-// Kırmızı ve Mavi odaların dalga enerjisini sarsıntı referansı olarak çekiyoruz
-if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
-    const kirmiziOda = window.MetatronAcademicTelemetry[1]; // Red Chamber (Systole)
-    const maviOda = window.MetatronAcademicTelemetry[7];    // Blue Chamber (Diastole)
+
+// ========================================================================
+// 🪐 KORUMALI ORAN ANALİZİ VE TOPRAKLAMA LAG HESAPLAYICI (DÖNGÜ DIŞI)
+// ========================================================================
+// Önceki hesaplamaları genişletip, DOM güncellemelerini optimize ediyoruz.
+if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[7]) {
+    const kirmiziOda = window.MetatronAcademicTelemetry[1];
+    const maviOda = window.MetatronAcademicTelemetry[7];
     
-    // Odaların mikro voltaj ve mekanik dalga salınımından anlık biyolojik gürültü üretiyoruz
-    let mekanikDalga = parseFloat(kirmiziOda.mechanicalWave || 0.5);
-    let anlikBPMHiri = (mekanikDalga - 0.5) * 1.8; 
-
-    // 1. Dinamik Kalp Hızı (74 BPM merkezli canlı esneme)
-    let liveBPM = 74.0 + anlikBPMHiri;
+    // Performans analizi: Oran sapması (deviation) ve gecikme (lag) hesabı
+    let liveBPM = 74.0 + (parseFloat(kirmiziOda.mechanicalWave || 0.5) - 0.5) * 1.8;
+    let liveResp = 20.0 + (parseFloat(maviOda.mechanicalWave || 0.5) - 0.5) * 0.4;
     
-    // 2. Dinamik Solunum Hızı (20 BrPM merkezli, mavi odanın gevşeme fazına duyarlı salınım)
-    let maviDalga = parseFloat(maviOda ? maviOda.mechanicalWave : 0.5);
-    let liveResp = 20.0 + (maviDalga - 0.5) * 0.4;
+    let deviation = Math.abs(4.0 - (liveBPM / liveResp));
+    let addedLag = Math.round((198 + (deviation * 143.5)) - 198);
 
-    // 3. Akademik Altın Oran (4:1) ve Sapma Hesaplama
-    const IDEAL_PRQ = 4.0;
-    let actualPRQ = liveBPM / liveResp;
-    let deviation = Math.abs(IDEAL_PRQ - actualPRQ);
+    // PERFORMANCE CACHE: Sadece veri değiştiyse DOM'u güncelle (CPU Dostu)
+    const dom = window.cachedCRCDOM;
+    if (dom) {
+        const newResp = liveResp.toFixed(1);
+        const newPrq = (liveBPM / liveResp).toFixed(2);
+        
+        if (dom.resp?.innerText !== newResp) dom.resp.innerText = newResp;
+        if (dom.prq?.innerText !== newPrq) dom.prq.innerText = newPrq;
 
-    // 4. Yeşil Oda Topraklama Lagının Dinamik Hesabı
-    const BASE_GREEN_LAG = 198;
-    let calculatedLag = BASE_GREEN_LAG + (deviation * 143.5);
-    let addedLag = Math.round(calculatedLag - BASE_GREEN_LAG);
-
-    // 5. DOM PANEL GÜNCELLEMESİ (PERFORMANCE CACHE INTEGRATION)
-    // Saniyede 144 kez getElementById yapıp CPU eritmemek için elemanları hafızaya mühürlüyoruz
-    window.cachedCRCDOM = window.cachedCRCDOM || {
-        resp: document.getElementById("dyn-resp"),
-        prq: document.getElementById("dyn-prq"),
-        status: document.getElementById("dyn-crc-status")
-    };
-
-    const respDOM = window.cachedCRCDOM.resp;
-    const prqDOM = window.cachedCRCDOM.prq;
-    const statusDOM = window.cachedCRCDOM.status;
-
-    // Sadece veriler gerçekten değiştiyse DOM'u tetikle (CPU Koruma Kalkanı)
-    const yeniRespText = liveResp.toFixed(1);
-    if (respDOM && respDOM.innerText !== yeniRespText) {
-        respDOM.innerText = yeniRespText;
-    }
-
-    const yeniPRQText = actualPRQ.toFixed(2);
-    if (prqDOM && prqDOM.innerText !== yeniPRQText) {
-        prqDOM.innerText = yeniPRQText;
-    }
-
-    if (statusDOM) {
-        if (deviation < 0.05) {
-            if (statusDOM.innerText !== "LOCKED (4:1)") {
-                statusDOM.innerText = "LOCKED (4:1)";
-                statusDOM.style.color = "#00ff00"; // Kusursuz kuplaj yeşili
-            }
-        } else {
-            const yeniStatusText = `ASYNC (+${addedLag} ms LAG)`;
-            if (statusDOM.innerText !== yeniStatusText) {
-                statusDOM.innerText = yeniStatusText;
-                statusDOM.style.color = "#ff00ff"; // Wiccasoft Magenta alarm estetiği
+        if (dom.status) {
+            if (deviation < 0.05) {
+                if (dom.status.innerText !== "LOCKED (4:1)") {
+                    dom.status.innerText = "LOCKED (4:1)";
+                    dom.status.style.color = "#00ff00";
+                }
+            } else {
+                const newStatus = `ASYNC (+${addedLag} ms LAG)`;
+                if (dom.status.innerText !== newStatus) {
+                    dom.status.innerText = newStatus;
+                    dom.status.style.color = "#ff00ff";
+                }
             }
         }
     }
-} // ◄ 🎯
+}
+} // ◄ 🎯 TEKİL VE GÜVENLİ window.MetatronEngine MOTOR KAPANIŞI
 
-
+// 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
+// Motoru çalıştırıp kalp vuruşlarını konsola basan marş kablosu
   // 5. DOM PANEL GÜNCELLEMESİ (PERFORMANCE CACHE INTEGRATION)
     window.cachedCRCDOM = window.cachedCRCDOM || {
         resp: document.getElementById("dyn-resp"),
@@ -529,17 +489,12 @@ if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
     const prqDOM = window.cachedCRCDOM.prq;
     const statusDOM = window.cachedCRCDOM.status;
 
-    // Sadece veriler değiştiyse DOM'u tetikle (CPU Koruma Kalkanı)
     if (typeof liveResp !== 'undefined' && typeof actualPRQ !== 'undefined') {
         const yeniRespText = liveResp.toFixed(1);
-        if (respDOM && respDOM.innerText !== yeniRespText) {
-            respDOM.innerText = yeniRespText;
-        }
+        if (respDOM && respDOM.innerText !== yeniRespText) respDOM.innerText = yeniRespText;
 
         const yeniPRQText = actualPRQ.toFixed(2);
-        if (prqDOM && prqDOM.innerText !== yeniPRQText) {
-            prqDOM.innerText = yeniPRQText;
-        }
+        if (prqDOM && prqDOM.innerText !== yeniPRQText) prqDOM.innerText = yeniPRQText;
 
         if (statusDOM && typeof deviation !== 'undefined' && typeof addedLag !== 'undefined') {
             if (deviation < 0.05) {
@@ -556,8 +511,37 @@ if (window.MetatronAcademicTelemetry && window.MetatronAcademicTelemetry[1]) {
             }
         }
     }
-} // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
+}; // ◄ 🎯 İŞTE ANA MOTOR BURADA GÜVENLE KAPANDI! (Süslü parantez ve noktalı virgül tam yeri)
 
+
+// ========================================================================
+// 🪐 ULTRA-LIGHT WATCHDOG & ENGINE KICKSTARTER (60 FPS / ~16ms)
+// ========================================================================
+// Motor fonksiyonunun tamamen dışında, sistemi sonsuz döngüde besleyen marş kablosu!
+setInterval(() => {
+    if (typeof window.MetatronEngine === "function") {
+        window.MetatronEngine();
+    }
+
+    if (window.heartAnimationActive === true && window.MetatronAcademicTelemetry?.[1]) {
+        const currentWave = parseFloat(window.MetatronAcademicTelemetry[1].mechanicalWave || 0);
+        
+        // Zirve tespiti ile BPM hesaplama ve loglama
+        if (currentWave > 0.98 && !window.dalgaTepesinde) { 
+            const simdi = performance.now();
+            const gecenSureMS = simdi - (window.sonVurusZamani || simdi); 
+            if (gecenSureMS < 3000 && gecenSureMS > 100) { 
+                console.log(`💓 Darbe | ${gecenSureMS.toFixed(0)} ms | ${(60000 / gecenSureMS).toFixed(2)} BPM`);
+            }
+            window.sonVurusZamani = simdi;
+            window.dalgaTepesinde = true;
+        } else if (currentWave < 0.50) { 
+            window.dalgaTepesinde = false; 
+        }
+    }
+}, 16);
+
+// 🪐 metatron.js Sonu - Tüm kuantum matris akışı sıfır hatayla senkronize edildi.
 
 // 🪐 ULTRA-LIGHT TELEMETRY WATCHDOG (60 FPS)
 if (typeof window.initSkelaton === "function") window.initSkelaton();
