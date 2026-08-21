@@ -434,21 +434,20 @@ if (typeof window.initSkelaton === "function") window.initSkelaton();
 window.sonVurusZamani = window.sonVurusZamani || performance.now();
 window.dalgaTepesinde = window.dalgaTepesinde || false;
 
-// Eğer hafızada kazara kalmış eski bir döngü id'si varsa onu tamamen iptal et
 if (window.metatronLoopId) {
     cancelAnimationFrame(window.metatronLoopId);
 }
 
-// 🚀 KESİN ÇÖZÜM: Zamanlama çakışmasını önleyen temiz tekil döngü
+// 🚀 ÇİFT EMNİYET: Yukarıdan gelen hem heartAnimationActive hem de heartState bayraklarını dinler
 function metatronGozcuDongusu(simdi) {
-    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+    const kalpAktifMi = (window.heartAnimationActive === true || window.heartState === true);
+    
+    if (kalpAktifMi && typeof window.MetatronEngine === "function") {
         window.MetatronEngine(simdi); 
     }
-    // Kuyruk birikmesini önlemek için bir sonraki kareyi güvenli kimlikle çağırıyoruz
     window.metatronLoopId = requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// Çift marş basılmasını kesin olarak engelleyen mutlak kilit
 if (!window.metatronLoopActive) {
     window.metatronLoopActive = true;
     window.metatronLoopId = requestAnimationFrame(metatronGozcuDongusu);
