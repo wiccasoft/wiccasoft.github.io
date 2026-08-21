@@ -228,9 +228,9 @@ function updateTelemetryPanel() {
                 rowColor = "rgba(255,0,100,0.05)";
             }
 
- const medical = academicNames[id] || { short: ch.name ? ch.name.substring(0, 3) : "CH", full: ch.name || "Chamber" };
+const medical = academicNames[id] || { short: ch.name ? ch.name.substring(0, 3) : "CH", full: ch.name || "Chamber" };
 
-        // 🚀 KESİN ÇÖZÜM: Veri tipi kontrolü ve korumalı basamak sabitleyici (Crash Prevention)
+        // 🚀 SAF SAYISAL DÖNÜŞÜM: voltageMV ve frequencyHz tanımsız (undefined) gelse bile çökmesini önler
         const voltSayi = (ch.voltageMV !== undefined && ch.voltageMV !== null) ? parseFloat(ch.voltageMV) : 0;
         const freqSayi = (ch.frequencyHz !== undefined && ch.frequencyHz !== null) ? parseFloat(ch.frequencyHz) : 0;
 
@@ -243,7 +243,10 @@ function updateTelemetryPanel() {
         `;
     });
 
+    // Ekrana basma işleminde reflow kalkanı: Sadece içerik değiştiğinde DOM'u tetikle
+    if (listContainer.innerHTML !== html) {
         listContainer.innerHTML = html;
+    }
 
          // ========================================================================
         // 🔥 4 ELEMENTS & METABOLIC PATHWAY (Hizalı Tablo & Voltaj Katmanı Motoru)
