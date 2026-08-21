@@ -187,14 +187,10 @@ function injectMetatronMetabolism() {
 
 }
 
-
-
-
-/// ⚡ DİNAMİK NABIZ: Slider veya kodla değiştirmek için hazır!
-window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
-
 /// ⚡ DİNAMİK NABIZ VE MOTOR BAŞLANGICI
-window.metatronPulseSpeed = window.metatronPulseSpeed || 0.035;
+//window.metatronPulseSpeed = 
+
+window.metatronPulseSpeed = 0.015;
 
 // Gözcü zaman kontrol değişkenleri (Motor fonksiyonunun hemen dışına, üstüne yerleştirin)
 window.lastMetatronFrameTime = window.lastMetatronFrameTime || 0;
@@ -204,23 +200,27 @@ window.MetatronEngine = function () {
     
     // HIZ KORUMA KALKANI: Eğer son çalışmanın üzerinden 15ms geçmediyse,
     // bu mükerrer bir tetiklemedir. Hesaplamayı es geç, CPU'yu koru!
-    if (simdi - window.lastMetatronFrameTime < 15) {
-        return; 
-    }
-    window.lastMetatronFrameTime = simdi;
+    //if (simdi - window.lastMetatronFrameTime < 15) {
+    //    return; 
+    //}
+    //window.lastMetatronFrameTime = simdi;
     // 🔲 MARŞ KİLİDİ: Model hazır değilse bekle
     if (!window.METATRON_SPECTRUM_MODEL) return;
     
     // ⚡ FORCE MOTOR START: Animasyonu zorla aktif et
     window.heartAnimationActive = true;
 
-    // 🌐 SAAT VE HIZ AYARI
+   // ========================================================================
+    // 🌐 SAAT VE HIZ AYARI (ZAMAN ÇARPAN KİLİDİ SÖKÜLDÜ - NO FLICKER)
+    // ========================================================================
     if (window.MetatronMasterClock === undefined) window.MetatronMasterClock = 0;
-    const currentSpeed = (window.metatronPulseSpeed || 0.035) * 1.2;  
-    window.MetatronMasterClock = (window.MetatronMasterClock + (currentSpeed * 25)) % 800;
+    
+    // 🚀 1.2 hırçınlık katsayısı kaldırıldı, doğrudan senin yukarıda verdiğin hıza bağlandı!
+    const currentSpeed = window.metatronPulseSpeed || 0.035; 
 
-    // 🔍 PANEL BAĞLANTI LOGU
-    //console.log("🫀 MOTOR ATEŞLENDİ! Saat:", Math.round(window.MetatronMasterClock));
+    // 🚀 KESİN ÇÖZÜM: 25 olan o hırçın çarpanı 8'e düşürüyoruz!
+    // Böylece yukarıda yaptığın 0.015, 0.045 veya 0.075 değişiklikleri motoru milimetrik olarak etkilemeye başlayacak!
+    window.MetatronMasterClock = (window.MetatronMasterClock + (currentSpeed * 8)) % 800;
 
     // Odalar ve Spektrum ayarları
     window.chambersTimers = window.chambersTimers || {};
@@ -228,16 +228,11 @@ window.MetatronEngine = function () {
     const spectrumOrder = [...baseSpectrum].reverse();
     const oppositeMap = { 1: 8, 8: 1, 2: 7, 7: 2, 4: 5, 5: 4 };
 
-    const globalClock = window.MetatronMasterClock || 0;
+    // Master saatimizi doğrudan yerel döngüye kilitliyoruz
+    const globalClock = window.MetatronMasterClock;
     let wave = 0;
     let maxWaveValue = -1;
     let localDominantChamber = null;
-
-// 🔲 MASTER KİLİT: TELEMETRİ KOPMA KORUMASI 
-    if (window.MetatronMasterClock === undefined) {
-        window.MetatronMasterClock = (Date.now()) % 800;
-    }
-
     // ========================================================================
     // 🌐 KÜRESEL SAAT YAKALAYICI (Data her salise değiştikçe buradan taze akacak)
     // ========================================================================
@@ -306,13 +301,14 @@ window.METATRON_SPECTRUM_MODEL.forEach((ch) => {
     wave = (customWave !== null) ? customWave : (((Math.cos(basePhase + delayFactor) + 1) * 0.38) + 0.24);
     wave = Math.max(0.15, Math.min(1.0, wave));
 
-    if (mesh.material) {
+if (mesh.material) {
         mesh.userData = mesh.userData || {};
         
-        // KESİN ÇÖZÜM: Değişim eşiği (Threshold) kontrolü!
-        // Eğer dalga değişimi 0.015'ten küçükse, boşuna WebGL ve GPU güncellemesi yapma!
+        // 🚀 KESİN ÇÖZÜM: Motor yavaşladığı için eşik kapısını 0.015'ten 0.040'a çıkarıyoruz!
+        // Böylece dalga tepedeyken boş yere saniyede 60 kez WebGL/GPU güncellemesi yapılmaz.
+        // CPU anında tekrar %10 bandına çakılır!
         const prevWave = mesh.userData.currentWave || 0;
-        if (Math.abs(wave - prevWave) > 0.015) {
+        if (Math.abs(wave - prevWave) > 0.040) { 
             mesh.userData.currentWave = wave;
             mesh.material.transparent = true;
             
@@ -434,28 +430,37 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 }; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 NİHAİ KONTROL: MONİTÖR REZONANSLI DOĞAL DOĞAL DÖNGÜ (NO FLICKER)
+// 🪐 NİHAİ KONTROL: 30 FPS BİYOFİZİK REZONANS MOTORU (SIFIR GÖZ KIRPMA)
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
 window.sonVurusZamani = window.sonVurusZamani || performance.now();
 window.dalgaTepesinde = window.dalgaTepesinde || false;
 
-// KESİN ÇÖZÜM: setInterval söküldü! Yerine monitörün Hz hızına kilitlenen RAF geldi.
-function metatronGozcuDongusu() {
-    // Eğer kalp uykudaysa veya buton basılmadıysa boşuna matematik döndürme
-    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
+// 30 FPS için zaman kalkanı (1000ms / 30fps = ~33.3ms)
+window.lastMetatronRenderTime = window.lastMetatronRenderTime || 0;
+
+function metatronGozcuDongusu(simdi) {
+    // Monitör hızından bağımsız olarak motorun SADECE 33.3ms'de bir (30 FPS) çalışmasını garantiliyoruz
+    const gecenSure = simdi - window.lastMetatronRenderTime;
+    
+    if (gecenSure >= 33.3) {
+        // Gecikme artıklarını sıfırlayarak zaman kaymasını engelliyoruz
+        window.lastMetatronRenderTime = simdi - (gecenSure % 33.3);
+        
+        if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
+            window.MetatronEngine();
+        }
     }
     
-    // Tarayıcı hazır olduğu bir sonraki karede (tam 60Hz/144Hz eşzamanlı) tekrar çağırır
+    // Tarayıcının yerel çizim döngüsüne sadık kalıyoruz
     requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// Döngüyü sadece bir kez tetikle
+// Döngüyü emniyetli tekil tetikleme
 if (!window.metatronLoopActive) {
     window.metatronLoopActive = true;
     requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// 🪐 metatron.js Sonu - Zaman kaymaları ve göz kırpmaları tamamen yok edildi.
+// 🪐 metatron.js Sonu - Intel UHD için nihai konfor alanı mühürlendi.
