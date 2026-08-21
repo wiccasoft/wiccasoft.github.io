@@ -900,51 +900,6 @@ const ALLOWED_ORIGIN_REGEX = /^file:\/\/|^http:\/\/localhost|^https:\/\/wiccasof
 // 🔋 Küresel hedef FPS durumunu takip eden değişken (Yoksa tanımlayalım)
 window.mainTargetFPS = window.mainTargetFPS || 25;
 
-// 🔮 TÜM TELEMETRİ VE KONTROL AKIŞINI YÖNETEN TEK AMİRAL GEMİSİ DİNLEYİCİ
-window.addEventListener("message", (event) => {
-    // 1. GÜVENLİK KALKANI: Köken doğrulaması başarısızsa infazı durdur
-    if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
-
-    // Emniyet kilidi: Gelen veri gövdesi boşsa alt katmanları tarama, çöküşü engelle
-    if (!event.data || typeof event.data !== 'object') return;
-
-    // 🚀 A) ALTTAN GELEN HANDSHAKE (EL SIKIŞMA) SİNYALİ
-    if (event.data.komut === "TELEMETRY_ENGINE_READY") {
-        console.log("[METATRON KÖPRÜSÜ] .XYZ üzerinden el sıkışma alındı. FPS emri gönderiliyor...");
-        
-        // Sayfadaki gerçek iframe kimliğine doğrudan nokta atışı kilitlenme
-        const iframe = document.getElementById("anatomy-engine");
-                       
-        if (iframe && iframe.contentWindow) {
-            // Motorun beklediği "SET_TARGET_FPS" sinyalini mevcut küresel duruma göre fırlat
-            iframe.contentWindow.postMessage({ komut: "SET_TARGET_FPS", fps: window.mainTargetFPS }, "*");
-        }
-        return; // Handshake işlendi, alt satırlara bakmaya gerek yok
-    }
-
-    // 📈 B) EKRAN GÜNCELLEME SİNYALİ (BPM VE MV VERİ HATTI)
-    if (event.data.komut === "EKRAN_GUNCELLE") {
-        const kalpSinyali = document.getElementById("kalp-sinyali");
-        const humanState = document.getElementById("human-state");
-        
-        if (kalpSinyali) {
-            const mvValue = Number(event.data.mv);
-            kalpSinyali.innerText = `${event.data.bpm} BPM / ${isNaN(mvValue) ? 0 : mvValue.toFixed(0)} mV`;
-        }
-        if (humanState) {
-            humanState.innerText = `DURUM: ${event.data.mod}`;
-        }
-        return;
-    }
-
-    // 🪐 C) HUD PANEL GENİŞLETİLMİŞ GÜNCELLEME SİNYALİ
-    if (event.data.komut === "HUD_PANEL_GUNCELLE") {
-        // Alt kısımlarda tanımlı olan devasa HUD tablosu render motorunu çalıştırır
-        if (typeof window.executeExtendedHudRender === "function") {
-            window.executeExtendedHudRender(event.data);
-        }
-    }
-});
 
 
 document.addEventListener("DOMContentLoaded", () => {
