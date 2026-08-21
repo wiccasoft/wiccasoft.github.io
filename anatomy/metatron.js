@@ -437,7 +437,7 @@ if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[
 }; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
 
 // ========================================================================
-// 🪐 WATCHDOG & ENGINE KICKSTARTER (BUTONA KİLİTLİ PANEL & MOTOR)
+// 🪐 WATCHDOG & ENGINE KICKSTARTER (GERÇEK PANEL KİMLİĞİ BAĞLANTISI)
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
@@ -448,28 +448,25 @@ if (!window.metatronLoopActive) {
     window.metatronLoopActive = true;
     
     setInterval(() => {
-        // Telemetri panel elemanını akıllı hafızaya alıyoruz (DOM sorgu koruması)
-        window.cachedTelemetryPanel = window.cachedTelemetryPanel || document.getElementById("telemetry-panel") || document.querySelector(".telemetry-container");
+        // GERÇEK KİMLİK: GitHub projesindeki asıl tablo id'si 'telemetryTable' mühürlendi!
+        window.cachedTelemetryPanel = window.cachedTelemetryPanel || document.getElementById("telemetryTable");
 
-        // 🛑 SLEEP MODE: Eğer kalp butonuna basılmadıysa her şeyi durdur
+        // 🛑 SLEEP MODE: Kalp durduysa veya ilk açılışsa paneli tamamen sakla
         if (window.heartAnimationActive !== true) {
-            // Kalp durduysa veya henüz açılmadıysa telemetri panelini gizliyoruz
             if (window.cachedTelemetryPanel && window.cachedTelemetryPanel.style.display !== "none") {
                 window.cachedTelemetryPanel.style.display = "none";
             }
             return; 
         }
 
-        // 🟢 AWAKE MODE: Kalp çalışıyorsa paneli otomatik görünür yap!
+        // 🟢 AWAKE MODE: Kalp çalışıyorsa paneli görünür kıl (Görsel tablo nizamı için 'table')
         if (window.cachedTelemetryPanel && window.cachedTelemetryPanel.style.display === "none") {
-            window.cachedTelemetryPanel.style.display = "block"; // Veya tasarıma göre "flex"
+            window.cachedTelemetryPanel.style.display = "table"; 
         }
 
-        // Ana matematik motorunu ateşle
+        // Ana motoru ateşle
         if (typeof window.MetatronEngine === "function") {
             window.MetatronEngine();
         }
     }, 16);
 }
-
-// 🪐 metatron.js Sonu - Tüm sistem ve arayüz pürüzsüzce mühürlendi.
