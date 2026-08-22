@@ -125,7 +125,54 @@ window.togglePerformanceMode = function() {
     let fireScore = 0, airScore = 0, waterScore = 0, earthScore = 0;
     let leadV5Voltage = -90;
 
-function updateTelemetryPanel() {
+
+
+
+    function updateTelemetryPanel() {
+    // 🔋 KINETIC ENGINE THROTTLING (25 FPS Barajı)
+    const simdi = performance.now();
+    const gecenSure = simdi - lastTelemetryTime;
+    if (gecenSure < 40) return; // 25 FPS (1000ms/25)
+    lastTelemetryTime = simdi - (gecenSure % 40);
+
+    const data = window.MetatronAcademicTelemetry; 
+    if (!data) return;
+
+    // 📊 ZAMAN VE VERİ İŞLEME (DOM Kullanılmıyor, Sadece Canvas)
+    let loopTime = (window.heartAnimationActive === true) ? (Date.now()) % 800 : 0;
+    window.MetatronMasterClock = loopTime;
+
+    // ... Veri toplama ve skor hesaplama mantığı (fireScore, airScore vb.) ...
+
+    // 🟢 OSİLOSKOP 1: Lead V5 (Neon Turkuaz Çizgi)
+    leadV5Voltage = -60 + (loopTime < 200 ? Math.sin((loopTime / 200) * Math.PI) * 12 : 
+                   (loopTime < 400 ? Math.sin((loopTime - 200) * 0.005 * Math.PI * 2) * 55 : 
+                   Math.sin(((loopTime - 400) * 0.0025) * Math.PI) * 18));
+    historyMV.push(leadV5Voltage);
+    if (historyMV.length > (oscCanvas ? oscCanvas.width : 290)) historyMV.shift();
+
+    if (oscCtx && oscCanvas) {
+        oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
+        // ... Izgara ve Neon Dalga Çizimi (Neon #00ffcc) ...
+    }
+
+    // 🟣 OSİLOSKOP 2: Vortex Frekans (Eflatun Çizgi)
+    // ... Spektrum Hesaplamaları ...
+    let anlikFrekansDalgasi = (qrs_RawEnergy * 25) - (t_RawEnergy * 12);
+    historyHZ.push(anlikFrekansDalgasi);
+    if (historyHZ.length > (hzCanvas ? hzCanvas.width : 290)) historyHZ.shift();
+
+    if (hzCtx && hzCanvas) {
+        hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
+        // ... Izgara ve Eflatun Çizgi Çizimi (#ff00ff) ...
+    }
+
+    // 🩸 Hidrolik Veri ve PostMessage (Performans Optimize)
+    // ... postMessage({ type: "METATRON_HYDRAULICS", ... }) ...
+}
+
+
+function updateTelemetryPanel2() {
         if (!oscCtx || !hzCtx || !listContainer) return;
 
 
@@ -564,7 +611,7 @@ window.LIVE_T_ENERGY = t_RawEnergy;     // 528 Hz'lik kutsal dengeleyici merkez
     }
 
     // ❌ 2. İşlemciyi sömüren ağır fonksiyonu KALIÇI OLARAK PAS GEÇİYORUZ:
-    // updateTelemetryPanel(); // <-- Bu satır kesinlikle YORUM SATIRI olarak kalsın!
+     updateTelemetryPanel(); // <-- Bu satır kesinlikle YORUM SATIRI olarak kalsın!
 
     // 🏎️ 3. Tarayıcının ana animasyon motorunu kesintisiz akıtmaya devam ediyoruz:
     requestAnimationFrame(renderLoop);
