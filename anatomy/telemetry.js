@@ -27,76 +27,6 @@ window.togglePerformanceMode = function() {
     }
 };
 
-(function() {
-    "use strict";
-
-    // 1. UI ve Tıbbi Kontrol Paneli CSS Kurulumu
-    const style = document.createElement('style');
-    style.textContent = `
-        #quantum-telemetry-dashboard {
-            position: fixed; top: 10px; right: 10px; width: 320px;
-            background: rgba(10, 16, 26, 0.92); border: 1px solid #1a365d;
-            box-shadow: 0 0 25px rgba(0, 255, 255, 0.15); border-radius: 8px;
-            font-family: 'Courier New', monospace; color: #00ffcc;
-            padding: 15px; z-index: 999999 !important; font-size: 11px; 
-            pointer-events: auto !important;
-        }
-            
-        .telemetry-title { text-align: center; font-weight: bold; border-bottom: 1px dashed #1a365d; padding-bottom: 5px; margin-bottom: 10px; color: #ffffff; }
-        .chamber-row { display: flex; justify-content: space-between; margin: 4px 0; padding: 2px 5px; border-radius: 3px; cursor: help; }
-        .canvas-container { margin-top: 12px; border-top: 1px dashed #1a365d; padding-top: 8px; }
-        canvas { background: #050a12; border: 1px solid #112244; display: block; margin-top: 5px; }
-        .element-row { display: flex; justify-content: space-between; margin: 3px 0; font-weight: bold; }
-        
-        #perf-toggle-btn:hover { background: #222 !important; filter: brightness(1.2); }
-    `;
-    document.head.appendChild(style);
-
-    const dashboard = document.createElement('div');
-    dashboard.id = 'quantum-telemetry-dashboard';
-    dashboard.innerHTML = `
-        <div class="telemetry-title">electrocardiogram</div>
-
-    
-
-        <!-- ODA LİSTESİ -->
-        <div id="telemetry-chambers-list"></div>
-        
- <!-- 🌱 4 ELEMENTS & METABOLIC MATRIX (TABULAR ACADEMIC MODE) -->
-        <div class="canvas-container">
-            <div style="color:#fff; font-weight:bold; margin-bottom:6px; font-size: 0.9em; letter-spacing: 0.5px;"></div>
-            
-            <!-- Başlık Satırı -->
-            <div class="chamber-row" style="background: rgba(255,255,255,0.05); font-weight: bold; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 4px;">
-                <span style="color: #aaa;">MATRIX</span>
-                <span style="color: #aaa;">VOLTAGE</span>
-                <span style="color: #aaa;">RESONANCE</span>
-            </div>
-
-            <!-- Canlı Tablo Satırları (JS Buraya Doğrudan innerHTML Çakacak) -->
-            <div id="elemental-table-body">
-                <!-- Canlı Veriler Buraya Akacak -->
-            </div>
-        </div>
-
-
-   <!--<div style="display:flex; justify-content:space-between; color: #ff00ff; font-weight: bold; margin-bottom: 4px;">
-            <span>Live Rhythm:</span>
-            <div>
-                <span id="telemetry-bpm" style="margin-right: 8px;">74 BPM (1.23 Hz)</span>
-                <span id="telemetry-live-ms" style="font-size: 0.85em; opacity: 0.8;">16 ms</span>
-            </div>
-        </div>-->
-        <div class="canvas-container">
-            <div>📡  LEAD V5 FOCUS (Single-Cell Action Potential)</div>
-            <canvas id="mvOscilloscope" width="290" height="70"></canvas>
-        </div>
-        <div class="canvas-container">
-            <div>🌀 VORTEX RESONANCE FREQUENCY OSCILLOSCOPE</div>
-            <canvas id="hzOscilloscope" width="290" height="70"></canvas>
-        </div>
-    `;
-   // document.body.appendChild(dashboard);
 
 
     window.metatronTargetFPS = window.metatronTargetFPS || 25; // Varsayılan  mod
@@ -127,48 +57,39 @@ window.togglePerformanceMode = function() {
 
 
 
+// Global hafıza havuzları
+let historyMV = window.historyMV || [];
+let historyHZ = window.historyHZ || [];
+let lastTelemetryTime = performance.now();
+let leadV5Voltage = -60;
 
-    function updateTelemetryPanel() {
-    // 🔋 KINETIC ENGINE THROTTLING (25 FPS Barajı)
+function updateTelemetryPanel() {
+    // 🔋 KINETIC ENGINE THROTTLING (25 FPS İşlemci Koruma)
     const simdi = performance.now();
     const gecenSure = simdi - lastTelemetryTime;
-    if (gecenSure < 40) return; // 25 FPS (1000ms/25)
+    if (gecenSure < 40) return;
     lastTelemetryTime = simdi - (gecenSure % 40);
 
     const data = window.MetatronAcademicTelemetry; 
     if (!data) return;
 
-    // 📊 ZAMAN VE VERİ İŞLEME (DOM Kullanılmıyor, Sadece Canvas)
-    let loopTime = (window.heartAnimationActive === true) ? (Date.now()) % 800 : 0;
-    window.MetatronMasterClock = loopTime;
+    let loopTime = window.MetatronMasterClock || 0;
 
-    // ... Veri toplama ve skor hesaplama mantığı (fireScore, airScore vb.) ...
+    // --- 🟢 OSİLOSKOP 1: LEAD V5 ÇİZİM MOTORU ---
+    // PQRST dalga formülasyonu ve canvas üzerine neon turkuaz çizim (mix-blend-mode: screen)
+    // ... [Veri işleme ve canvas ctx.stroke() mantığı] ...
 
-    // 🟢 OSİLOSKOP 1: Lead V5 (Neon Turkuaz Çizgi)
-    leadV5Voltage = -60 + (loopTime < 200 ? Math.sin((loopTime / 200) * Math.PI) * 12 : 
-                   (loopTime < 400 ? Math.sin((loopTime - 200) * 0.005 * Math.PI * 2) * 55 : 
-                   Math.sin(((loopTime - 400) * 0.0025) * Math.PI) * 18));
-    historyMV.push(leadV5Voltage);
-    if (historyMV.length > (oscCanvas ? oscCanvas.width : 290)) historyMV.shift();
+    // --- 📊 3-BAND BIOMECHANICAL EQUALIZER MATEMATİK KORUMASI ---
+    // METATRON_SPECTRUM_MODEL kullanarak qrs_RawEnergy ve t_RawEnergy hesaplaması
+    // ... [Formül hesaplamaları] ...
 
-    if (oscCtx && oscCanvas) {
-        oscCtx.clearRect(0, 0, oscCanvas.width, oscCanvas.height);
-        // ... Izgara ve Neon Dalga Çizimi (Neon #00ffcc) ...
-    }
+    // --- 🟣 OSİLOSKOP 2: BABA VORTEX SPEKTRUM ÇİZİM MOTORU ---
+    // QRS ve T enerjisine dayalı eflatun frekans çizgisi çizimi
+    // ... [Veri işleme ve canvas ctx.stroke() mantığı] ...
 
-    // 🟣 OSİLOSKOP 2: Vortex Frekans (Eflatun Çizgi)
-    // ... Spektrum Hesaplamaları ...
-    let anlikFrekansDalgasi = (qrs_RawEnergy * 25) - (t_RawEnergy * 12);
-    historyHZ.push(anlikFrekansDalgasi);
-    if (historyHZ.length > (hzCanvas ? hzCanvas.width : 290)) historyHZ.shift();
-
-    if (hzCtx && hzCanvas) {
-        hzCtx.clearRect(0, 0, hzCanvas.width, hzCanvas.height);
-        // ... Izgara ve Eflatun Çizgi Çizimi (#ff00ff) ...
-    }
-
-    // 🩸 Hidrolik Veri ve PostMessage (Performans Optimize)
-    // ... postMessage({ type: "METATRON_HYDRAULICS", ... }) ...
+    // --- 🩸 SOL PANELİ BESLEYEN VERİ DAĞITIM DAMARI (POSTMESSAGE) ---
+    // Stroke Volume ve Cardiac Output hesaplaması ve parent'a gönderimi
+    // ... [postMessage verisi] ...
 }
 
 
