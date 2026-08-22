@@ -96,7 +96,7 @@ window.togglePerformanceMode = function() {
             <canvas id="hzOscilloscope" width="290" height="70"></canvas>
         </div>
     `;
-    document.body.appendChild(dashboard);
+   // document.body.appendChild(dashboard);
 
 
     window.metatronTargetFPS = window.metatronTargetFPS || 25; // Varsayılan  mod
@@ -549,15 +549,76 @@ window.LIVE_T_ENERGY = t_RawEnergy;     // 528 Hz'lik kutsal dengeleyici merkez
         }
     });
 
+
+
     // 🔄 MOTORU CANLI TUTAN RENDER DÖNGÜSÜ
     function renderLoop() { 
 
-         updateTelemetryPanel();
-         
-        requestAnimationFrame(renderLoop);
+ // 🟢 1. Zamanı ve hafıza havuzunu beslemek için sadece zaman kodunu çalıştırıyoruz:
+    let loopTime = 0;
+    if (window.heartAnimationActive === true) {
+        loopTime = (Date.now()) % 800;
+        window.MetatronMasterClock = loopTime; // Üst katman zaman motorunu canlı tutar
+    } else {
+        window.MetatronMasterClock = 0;
+    }
+
+    // ❌ 2. İşlemciyi sömüren ağır fonksiyonu KALIÇI OLARAK PAS GEÇİYORUZ:
+    // updateTelemetryPanel(); // <-- Bu satır kesinlikle YORUM SATIRI olarak kalsın!
+
+    // 🏎️ 3. Tarayıcının ana animasyon motorunu kesintisiz akıtmaya devam ediyoruz:
+    requestAnimationFrame(renderLoop);
     } 
     renderLoop();
 
+
+    // telemetry.js - ARAYÜZ OLUŞTURUCUYU SADECE 2 OSİLOSKOPA İNDİRGİYORUZ
+function initTelemetryLayout() {
+    // Eğer panel zaten varsa tekrar oluşturma
+    if (document.getElementById('quantum-telemetry-dashboard')) return;
+
+    const dashboard = document.createElement('div');
+    dashboard.id = 'quantum-telemetry-dashboard';
+    
+    // ⚙️ GÖRSEL KİLİT: Sağ paneli tamamen transparan yapıp sadece iki dalgayı havada asılı tutuyoruz
+    dashboard.style.cssText = `
+        position: absolute;
+        top: 10%; right: 2%;
+        width: 300px;
+        height: 75vh;
+        z-index: 100000;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        pointer-events: none;
+    `;
+
+    // 🎛 Sadece iki ana ve baba osiloskopun şasisi kalıyor, ara yazılar tamamen uçtu!
+    dashboard.innerHTML = `
+        <!-- 🫀 ANA OSİLOSKOP: LEAD V5 KALP RİTMİ -->
+        <div style="background: rgba(0,0,0,0.2); border: 1px solid rgba(51,255,255,0.1); padding: 5px; border-radius: 6px;">
+            <div style="color: #00ffff; font-family: monospace; font-size: 9px; margin-bottom: 3px; letter-spacing: 1px;">⚡ MAIN OSCILLOSCOPE (LEAD V5)</div>
+            <canvas id="leadV5Canvas" width="290" height="120" style="display: block; mix-blend-mode: screen;"></canvas>
+        </div>
+
+        <!-- 🔊 BABA OSİLOSKOP: FREKANS SPEKTRUMU / REZONANS DALGASI -->
+        <div style="background: rgba(0,0,0,0.2); border: 1px solid rgba(255,0,255,0.1); padding: 5px; border-radius: 6px;">
+            <div style="color: #ff00ff; font-family: monospace; font-size: 9px; margin-bottom: 3px; letter-spacing: 1px;">📡 FREQUENCY SPECTRUM (BXN AXIS)</div>
+            <canvas id="frequencyCanvas" width="290" height="120" style="display: block; mix-blend-mode: screen;"></canvas>
+        </div>
+    `;
+
+    document.body.appendChild(dashboard);
+    
+    // Global canvas context referanslarını bağlıyoruz
+    window.oscCanvas = document.getElementById("leadV5Canvas");
+    window.oscCtx = window.oscCanvas ? window.oscCanvas.getContext("2d") : null;
+    
+    window.hzCanvas = document.getElementById("frequencyCanvas");
+    window.hzCtx = window.hzCanvas ? window.hzCanvas.getContext("2d") : null;
+    
+    console.log("[SYSTEM] Sadece Ana ve Baba osiloskoplar aktif tutuldu, metin kirliliği temizlendi.");
+}
 
 
     // 📡 MAIN.HTML'DEN GELEN PERFORMANS SİNYALİNİ HAVADA YAKALAYAN KULAKLIK
