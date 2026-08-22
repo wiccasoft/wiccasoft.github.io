@@ -57,41 +57,64 @@ window.togglePerformanceMode = function() {
 
 
 
-// Global hafıza havuzları
-let historyMV = window.historyMV || [];
-let historyHZ = window.historyHZ || [];
-let lastTelemetryTime = performance.now();
+// ========================================================================
+// 🌊 ULTRA OPTİMİZE SAF OSİLOSKOP VE VERİ MOTORU (v5.0)
+// ========================================================================
+let historyMV = [], historyHZ = [], lastTelemetryTime = performance.now();
 let leadV5Voltage = -60;
 
 function updateTelemetryPanel() {
-    // 🔋 KINETIC ENGINE THROTTLING (25 FPS İşlemci Koruma)
-    const simdi = performance.now();
-    const gecenSure = simdi - lastTelemetryTime;
-    if (gecenSure < 40) return;
-    lastTelemetryTime = simdi - (gecenSure % 40);
+    // 🔋 25 FPS Kinetik Motor
+    const now = performance.now();
+    if (now - lastTelemetryTime < 40) return;
+    lastTelemetryTime = now;
 
-    const data = window.MetatronAcademicTelemetry; 
+    const data = window.MetatronAcademicTelemetry;
     if (!data) return;
 
-    let loopTime = window.MetatronMasterClock || 0;
+    // 🫀 Zaman Senkronizasyonu
+    const loopTime = (window.heartAnimationActive === true) ? (Date.now() % 800) : 0;
+    window.MetatronMasterClock = loopTime;
 
-    // --- 🟢 OSİLOSKOP 1: LEAD V5 ÇİZİM MOTORU ---
-    // PQRST dalga formülasyonu ve canvas üzerine neon turkuaz çizim (mix-blend-mode: screen)
-    // ... [Veri işleme ve canvas ctx.stroke() mantığı] ...
+    // 🧮 PQRST Dalga Üretimi
+    let p_Wave = 0, qrs_Complex = 0, t_Wave = 0;
+    if (loopTime < 200) p_Wave = Math.sin((loopTime / 200) * Math.PI) * 12;
+    else if (loopTime < 400) {
+        const qrs = (loopTime - 200) * 0.005;
+        qrs_Complex = Math.sin(qrs * Math.PI * 2) * 55 - Math.sin(qrs * Math.PI) * 15;
+    } else t_Wave = Math.sin(((loopTime - 400) * 0.0025) * Math.PI) * 18;
 
-    // --- 📊 3-BAND BIOMECHANICAL EQUALIZER MATEMATİK KORUMASI ---
-    // METATRON_SPECTRUM_MODEL kullanarak qrs_RawEnergy ve t_RawEnergy hesaplaması
-    // ... [Formül hesaplamaları] ...
+    leadV5Voltage = -60 + p_Wave + qrs_Complex + t_Wave;
+    
+    // 🟢 CANVAS ÇİZİMİ (Kısa Yoldan Ekrana Basım)
+    const renderWave = (ctx, cvs, history, color, isOsc = false) => {
+        if (!ctx || !cvs) return;
+        history.push(isOsc ? leadV5Voltage : (qrs_Complex * 0.5));
+        if (history.length > cvs.width) history.shift();
+        
+        ctx.clearRect(0, 0, cvs.width, cvs.height);
+        ctx.strokeStyle = color;
+        ctx.lineWidth = 1.5;
+        ctx.beginPath();
+        history.forEach((v, i) => {
+            const y = isOsc ? cvs.height - (((v + 120) * 0.00625) * cvs.height) : (cvs.height/2) - v;
+            i === 0 ? ctx.moveTo(i, y) : ctx.lineTo(i, y);
+        });
+        ctx.stroke();
+    };
 
-    // --- 🟣 OSİLOSKOP 2: BABA VORTEX SPEKTRUM ÇİZİM MOTORU ---
-    // QRS ve T enerjisine dayalı eflatun frekans çizgisi çizimi
-    // ... [Veri işleme ve canvas ctx.stroke() mantığı] ...
+    renderWave(window.oscCtx, window.oscCanvas, historyMV, '#00ffff', true);
+    renderWave(window.hzCtx, window.hzCanvas, historyHZ, '#ff00ff', false);
 
-    // --- 🩸 SOL PANELİ BESLEYEN VERİ DAĞITIM DAMARI (POSTMESSAGE) ---
-    // Stroke Volume ve Cardiac Output hesaplaması ve parent'a gönderimi
-    // ... [postMessage verisi] ...
+    // 🩸 Veri İletimi (PostMessage)
+    if (window.parent && window.parent.postMessage) {
+        window.parent.postMessage({
+            type: "METATRON_HYDRAULICS",
+            leadV5: leadV5Voltage,
+            bpm: window.metatronCurrentBPM || 72
+        }, "*");
+    }
 }
-
 
 function updateTelemetryPanel2() {
         if (!oscCtx || !hzCtx || !listContainer) return;
@@ -625,5 +648,3 @@ window.parent.postMessage({ komut: "TELEMETRY_ENGINE_READY" }, "*");
 
 // ✂️ ARTIK BURADAKİ O DONAN SAF MEDİKAL DATA POSTMESSAGE BLOKLARINI KÖKTEN KAZIDIK!
 
-window.updateTelemetryPanel = updateTelemetryPanel;
-})();
