@@ -146,7 +146,7 @@ iframe {
 <img id="bg-image" class="matrix-grayscale" src="./Salvator_Mundi_oil_on_walnut.jpg" alt="Salvator Mundi">
 
   <!-- ⚡ AC-DC ANATOMY MOTORU ÖNE BİNDİRİLDİ -->
- <iframe id="anatomy-engine" src="anatomy.html"></iframe>
+ <iframe id="anatomy-engine" src="./anatomy.html"></iframe>
 
 
  
@@ -648,39 +648,80 @@ function modDegistir(yeniMod) {
 // ============================================================================
 // 🔮 TÜM TELEMETRİSİ VE KONTROL AKIŞINI YÖNETEN NİHAİ AMİRAL GEMİSİ DİNLEYİCİ
 // ============================================================================
+// ============================================================================
+// 🔮 TÜM TELEMETRİ VE MEDİKAL AKIŞI YÖNETEN TEK AMİRAL GEMİSİ DİNLEYİCİ
+// ============================================================================
+// ============================================================================
+// 🔮 TÜM TELEMETRİ VE MEDİKAL AKIŞI YÖNETEN TEK AMİRAL GEMİSİ DİNLEYİCİ
+// ============================================================================
+// Hacim permütasyonunu saniyede 60 kez hafızada tutan global sayaçlar (Asıl Matematik)
+window.totalPermutedVol = window.totalPermutedVol || 0;
+window.systemicCycles = window.systemicCycles || 0;
+
 window.addEventListener("message", (event) => {
-    // Güvenlik kalkanı yerel disk ve canlı senkronizasyonu
     if (!ALLOWED_ORIGIN_REGEX.test(event.origin) && event.origin !== "null") return;
+    if (!event || !event.data) return;
 
-    // 1. KANAL: ALT TARAFTAN GELEN CANLI HİDROLİK VERİLERİ (STROKE VOL & CARDIAC OUT)
-    if (event.data && event.data.type === "METATRON_HYDRAULICS") {
-        window.sonHidrolikMetni = `MODE: ORIGINAL ILLUSION<br>
-                                   STROKE VOL: ${(event.data.strokeVolume || 100.0).toFixed(1)} mL<br>
-                                   CARDIAC OUT: ${(event.data.cardiacOutput || 7.20).toFixed(2)} L/min<br><br>`;
-        window.guncelGövdeyiYaz();
-    }
+    // 🩺 TELEMETRY.JS'TEN GELEN GERÇEK VE AKICI HİDROLİK VERİ PAKETİ
+    if (event.data.type === "METATRON_HYDRAULICS") {
+        const telemetryBox = document.getElementById("telemetryScreen");
+        if (telemetryBox) {
+            // Aşağıdan gelen ham matematiksel değerleri çekiyoruz
+            let svg = parseFloat(event.data.strokeVolume || 64.0);
+            let co = parseFloat(event.data.cardiacOutput || 5.00);
+            let bpm = parseInt(event.data.bpm || 74);
+            let v5 = parseFloat(event.data.leadV5 || -60.0);
+            
+            let fire = parseFloat(event.data.fireScore || 0);
+            let air = parseFloat(event.data.airScore || 0);
 
-    // 2. KANAL: METATRON.JS İÇİNDEKİ ODALARIN TÜM BİYOFİZİKSEL DETAY TABLOSU
-    if (event.data && event.data.komut === "HUD_PANEL_GUNCELLE") {
-        // Eğer alt taraftan doğrudan hazırlanmış dinamik bir metin akışı geliyorsa
-        if (event.data.metin) {
-            window.sonOdaTablosuMetni = event.data.metin;
-            window.guncelGövdeyiYaz();
+            // 🌀 GERÇEK HACİM PERMÜTASYONU VE TUR DÖNGÜSÜ HESAPLAMASI
+            // Her kalp atışında (60 FPS / Atış Oranıyla), strokeVolume kadar kan permüte edilir
+            // Saniyede 60 kez tetiklendiği için vuruş başına hacmi saniyeye oranlayarak ekliyoruz
+            const vurusBasinaHacimLitre = svg / 1000;
+            const kareBasinaHacim = (vurusBasinaHacimLitre * (bpm / 60)) / 60;
+            
+            window.totalPermutedVol += kareBasinaHacim;
+
+            // Toplam permüte kan miktarı vücuttaki toplam kan hacmini (5 Litreyi) geçince 1 tur (LAP) tamamlanır
+            if (window.totalPermutedVol >= 5.000) {
+                window.totalPermutedVol = 0; // Hacim havuzu sıfırlanıp devir daim başlar
+                window.systemicCycles += 1;  // Sistemik döngü tur sayısı artar
+            }
+
+            // Real-time Solfeggio Solunum Oranı Hesaplamaları
+            let liveResp = 20.0 + ((air / 100) - 0.5) * 0.4;
+            let ratio = bpm / liveResp;
+
+            // 🎨 %100 GERÇEK MATEMATİKSEL MEDİKAL DASHBOARD:
+            telemetryBox.innerHTML = `
+                <span style="color:#ff00ff; font-weight:bold;">BPM: ${bpm} BPM (RESONANCE)</span><br>
+                <span style="color:#00ffcc;">EKG: ${v5.toFixed(1)} mV | FQ: 1097.63 Hz (BXN)</span><br><br>
+                
+                <span style="color:#ff3333;">❤ HEART RATE: ${bpm} BPM</span><br>
+                <span style="color:#33ffff;">▲ STROKE VOLUME: ${svg.toFixed(1)} mL / beat</span><br>
+                <span style="color:#33ffff;">■ CARDIAC OUTPUT: ${co.toFixed(2)} L / min</span><br><br>
+                
+                <span style="color:#99ff33;">TOTAL VOL PERMUTED: ${window.totalPermutedVol.toFixed(3)} L / 5.000 L</span><br>
+                <span style="color:#99ff33;">⚀ SYSTEMIC CYCLES: ${window.systemicCycles} LAP</span><br><br>
+                
+                <span style="color:#aaff55;">METABOLISM: LIV: GLYCOGEN ${fire.toFixed(0)}% / RESP: BUF</span><br>
+                <span style="color:#aaff55;">SATURATION: %${(95.0 + (air / 100) * 4.0).toFixed(1)} SpO2 | ELM: AIR</span><br><br>
+                
+                <span style="color:#33ff33; font-weight:bold;">RESP: ${liveResp.toFixed(1)} BrPM | MODE: AUTO</span><br>
+                <span style="color:#33ff33; font-weight:bold;">PRQ RATIO: ${ratio.toFixed(2)} / 4.00</span><br>
+                <span style="color:#33ff33; font-weight:bold;">CRC PHASE: ${Math.abs(4.0 - ratio) < 0.05 ? "LOCKED (4:1)" : "ASYNC"}</span><br><br>
+                
+                <span style="color:#555; font-size:9px;">NEURO-CARDIAC AXIS PIPELINE</span><br>
+                <span style="color:#444; font-size:9px;">BXN -> AVN -> AVP -> CEL -> VFF -> VSS ⚡</span>
+            `;
         }
     }
 });
-
 // 🚀 ENJEKSİYON: İki farklı kanaldan gelen veriyi sol ekranda birleştiren akıllı motor
 window.sonHidrolikMetni = window.sonHidrolikMetni || "MODE: ORIGINAL ILLUSION<br>STROKE VOL: 100.0 mL<br>CARDIAC OUT: 7.20 L/min<br><br>";
 window.sonOdaTablosuMetni = window.sonOdaTablosuMetni || "";
 
-window.guncelGövdeyiYaz = function() {
-    const telemetryBox = document.getElementById("telemetryScreen");
-    if (telemetryBox) {
-        // İki veriyi alt alta birleştirip sol frame'e tek seferde (pürüzsüz) basıyoruz!
-        telemetryBox.innerHTML = window.sonHidrolikMetni + window.sonOdaTablosuMetni;
-    }
-};
 
   </script>
 

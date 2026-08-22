@@ -472,8 +472,7 @@ window.LIVE_T_ENERGY = t_RawEnergy;     // 528 Hz'lik kutsal dengeleyici merkez
         hzCtx.fillStyle = "#33ff33";
         hzCtx.fillRect(startX + (barWidth * 2) + (barSpacing * 2), hzCanvas.height - t_Height, barWidth, t_Height);
 
-
-    // 1. Her kalp atışında pompalanan doğal kan miktarı (Stroke Volume)
+ // 1. Her kalp atışında pompalanan doğal kan miktarı (Stroke Volume)
     // Turuncu odaların (ch.id 3 ve 4) ürettiği qrs_RawEnergy tavan yaptıkça mL miktarı doğal olarak 85mL sınırına fırlar!
     let liveQrs = window.LIVE_QRS_ENERGY || 0.2;
     
@@ -489,26 +488,30 @@ window.LIVE_T_ENERGY = t_RawEnergy;     // 528 Hz'lik kutsal dengeleyici merkez
     let cardiacOutput = (strokeVolume * currentBPM) / 1000; // Litre cinsinden net debi
 
     // 🚀 Ana ekrana (main.html) sızdırmak için küresel belleğe mühürle!
-    // Arayüzde düzgün görünmesi için virgülden sonraki basamakları sabitliyoruz (.toFixed)
     window.LIVE_STROKE_VOLUME = Number(strokeVolume.toFixed(1));
     window.LIVE_CARDIAC_OUTPUT = Number(cardiacOutput.toFixed(2));
 
-  // 🛡️ LOCAL-SAFE TELEMETRY FIRLATICISI (ÇÖKMEYİ ENGELEYEN PARALEL HAT)
-    // Eğer yerel diskte çalışıyorsak (file:// veya null), tarayıcı blokajını aşmak için "*" jokerini kullanıyoruz.
-    const TARGET_ORIGIN = (window.location.origin === "file://" || window.location.origin === "null") 
-                          ? "*" 
-                          : window.location.origin;
-
+    // 🚀 CANLI VE AKICI MEDİKAL DATA ENJEKSİYONU: Her render döngüsünde (60 FPS) tüm verileri yukarı fırlatır!
     if (window.parent && window.parent.postMessage) {
+        const SAFE_TARGET_ORIGIN = (window.location.origin === "file://" || window.location.origin === "null") 
+                              ? "*" 
+                              : window.location.origin;
+
         window.parent.postMessage({
             type: "METATRON_HYDRAULICS",
             strokeVolume: window.LIVE_STROKE_VOLUME,
-            cardiacOutput: window.LIVE_CARDIAC_OUTPUT
-        }, TARGET_ORIGIN); // ◄ Sızıntı koruması yerelde "*" jokerine, canlıda güvenli kökene otomatik bükülür!
+            cardiacOutput: window.LIVE_CARDIAC_OUTPUT,
+            // 🩺 İşte saniyede 60 kez akacak olan o taze medikal hücreler:
+            bpm: window.metatronCurrentBPM || window.currentBPM || 74,
+            leadV5: typeof leadV5Voltage !== 'undefined' ? leadV5Voltage : -60,
+            fireScore: typeof fireScore !== 'undefined' ? fireScore : 0,
+            airScore: typeof airScore !== 'undefined' ? airScore : 0,
+            waterScore: typeof waterScore !== 'undefined' ? waterScore : 0,
+            earthScore: typeof earthScore !== 'undefined' ? earthScore : 0
+        }, SAFE_TARGET_ORIGIN); 
     }
 
 } // updateTelemetryPanel fonksiyonu bitti
-
 
 
    // ========================================================================
@@ -573,7 +576,6 @@ window.addEventListener("message", (event) => {
     }
 });
 
-
 // 🚀 PRODUCTION READY HANDSHAKE SIGNALLER
 function sendTelemetryReadySignal() {
     if (window.parent && window.parent !== window) {
@@ -588,33 +590,11 @@ sendTelemetryReadySignal();
 // Garanti olsun diye DOM bittiğinde bir kez daha ateşle (Ağ gecikmesine karşı mühür)
 window.addEventListener("DOMContentLoaded", sendTelemetryReadySignal);
 
- window.metatronTargetFPS = 25;
+window.metatronTargetFPS = 25;
 
 window.parent.postMessage({ komut: "TELEMETRY_ENGINE_READY" }, "*");
 
-    window.togglePerformanceMode = function() {
-    const btn = document.getElementById('perf-toggle-btn');
-    if (!btn) return;
+// ✂️ ARTIK BURADAKİ O DONAN SAF MEDİKAL DATA POSTMESSAGE BLOKLARINI KÖKTEN KAZIDIK!
 
-    if (window.metatronTargetFPS === 60) {
-        // 🔋 ECO MODA GEÇİŞ (25 FPS)
-        window.metatronTargetFPS = 25;
-        window.metatronPulseSpeed = 0.035 * 1.2; // Senin o yukarıda keşfettiğin 25 FPS rezonans çarpanı!
-        btn.innerText = "25 FPS (ECO)";
-        btn.style.color = "#99ff33"; // Çevre dostu eko yeşili
-        btn.style.borderColor = "#99ff33";
-        btn.style.boxShadow = "0 0 5px rgba(153,255,51,0.2)";
-    } else {
-        // 🚀 TURBO MODA GEÇİŞ (60 FPS)
-        window.metatronTargetFPS = 60;
-        window.metatronPulseSpeed = 0.035; // Orijinal 60 FPS akış hızı
-        btn.innerText = "60 FPS (TURBO)";
-        btn.style.color = "#33ffff"; // Siber punk neon mavi
-        btn.style.borderColor = "#33ffff";
-        btn.style.boxShadow = "0 0 5px rgba(51,255,255,0.2)";
-    }
-};
-
-    window.updateTelemetryPanel = updateTelemetryPanel;
+window.updateTelemetryPanel = updateTelemetryPanel;
 })();
-

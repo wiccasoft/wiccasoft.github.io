@@ -85,25 +85,35 @@ window.initSkelaton = function() {
     window.KuantumKafesi.scale.set(1.3, 1.3, 1.3);
     window.scene.add(window.KuantumKafesi);
 
-    // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
+  // --- Ortografik Kamera En-Boy Oranı Düzeltmesi ---
     const aspect = window.innerWidth / window.innerHeight;
     window.d = 1.6; // 🔑 KESİN ÇÖZÜM
     window.camera = new THREE.OrthographicCamera(- window.d * aspect, window.d * aspect, window.d, - window.d, 0.1, 1000);
     window.camera.position.set(5, 5, 5);
     window.camera.lookAt(0, 0, 0);
 
-// 🖥 Renderer ve Siyah Perdeyi Kaldırma Transparan Maskesi
-window.renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true }); // alpha: true eklendi tatlım!
-window.renderer.setSize(window.innerWidth, window.innerHeight);
-window.renderer.setClearColor(0x000000, 0); // 1 olan değer 0 yapıldı, siyah fon tamamen yok edildi!
-document.body.appendChild(window.renderer.domElement);
+    // 🖥 Renderer ve Siyah Perdeyi Kaldırma Transparan Maskesi (INTEL UHD ULTRA SAVER MODEL)
+    window.renderer = new THREE.WebGLRenderer({ 
+        antialias: true,             // Çizgilerin tırtıklanmasını ve titremesini donanım seviyesinde engeller
+        alpha: true,                 // Transparan arka plan maskesi aktif
+        powerPreference: "high-performance", // Intel UHD kartının gerçek performans çekirdeklerini tetikler
+        precision: "mediump"         // Entegre kartlarda sonsuz basamak taşma titremesini sıfırlar
+    }); 
+    
+    // Tarayıcının 29 inçlik ekranda DPI'ı gereksiz şişirip kartı yormasını engelleme kalkanı
+    window.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    window.renderer.setSize(window.innerWidth, window.innerHeight);
+    window.renderer.setClearColor(0x000000, 0); // Siyah fon tamamen yok edildi!
+    document.body.appendChild(window.renderer.domElement);
 
-    // 🔑 KONTROLLER GLOBALE ALINDI: setTopView artık bu kolları doğrudan kontrol edebilir
+    // 🔑 KONTROLLER GLOBALE ALINDI (Göz Kırpması Yaratan -Infinity Tümörü Temizlendi!)
     window.controls = new THREE.OrbitControls(window.camera, window.renderer.domElement);
-    window.controls.minPolarAngle = -Infinity;
-    window.controls.maxPolarAngle = Infinity;
-    window.controls.minAzimuthAngle = -Infinity;
-    window.controls.maxAzimuthAngle = Infinity;
+    
+    // OrbitControls'un ham matematik sınırları rezonansa uyarlandı (Sonsuzluk kaldırıldı)
+    window.controls.minPolarAngle = 0;
+    window.controls.maxPolarAngle = Math.PI; 
+    window.controls.minAzimuthAngle = -Math.PI * 2;
+    window.controls.maxAzimuthAngle = Math.PI * 2;
     
     window.scene.add(new THREE.AmbientLight(0xffffff));
 
@@ -357,30 +367,30 @@ spheres.forEach(s => {
 // 🪐 ULTRA-LIGHT requestAnimationFrame MATRIX LOOP (VAHŞİ RİTM - SIFIR YÜK)
 // ============================================================================
 // Eski setInterval barajı ve kilit yaratan tüm zamanlayıcılar lağvedilmiştir.
-if (window.skelTimerClock) {
-    clearInterval(window.skelTimerClock);
+  
+/*
+// skeleton.js içindeki fonksiyonu bu şekilde güncelleyin:
+function animateSkelatonMatrix() {
+  requestAnimationFrame( animateSkelatonMatrix);
+  
+  // Sadece animasyon aktifse HER KAREDE çizim yap
+  if (window.heartAnimationActive === true) {
+      if (typeof window.MetatronEngine === "function") window.MetatronEngine();
+      if (window.renderer && window.scene && window.camera) {
+          window.renderer.render(window.scene, window.camera);
+      }
+  }
 }
 
-function animateSkelatonMatrix() {
-    // Tarayıcının en saf ve en yüksek hızında (Monitörün kaç Hz ise o hızda) döner!
-    requestAnimationFrame(animateSkelatonMatrix);
-
-    // Kuantum şalter aktifse motoru hiçbir yapay engele takılmadan doğrudan ateşle!
-    if (window.heartAnimationActive === true && typeof window.MetatronEngine === "function") {
-        window.MetatronEngine();
-    } 
-    else if (window.KuantumKafesi) {
-       // window.KuantumKafesi.rotation.y += 0.002;
-    }
-
-    // WebGL Çizim Emri (İşlemciye doğrudan takozsuz hat)
-    if (window.renderer && window.scene && window.camera) {
+// Ekranın sabit kalıp butonlara basılınca güncellenmesi için tetikçi fonksiyon:
+window.requestSingleFrame = function() {
+    if (window.heartAnimationActive !== true && window.renderer && window.scene && window.camera) {
         window.renderer.render(window.scene, window.camera);
     }
-}
-
+};
+*/
 // Döngüyü özgürce başlat!
-animateSkelatonMatrix();
+//animateSkelatonMatrix();
 console.log("[WILD ENGINE] Kalp yapay kafesten çıkartıldı, en saf ve hırçın hızına kavuştu! ⚛️");
 
 console.log("[HARDWARE CORE] 3D render motoru donanımsal 25 FPS saatine bağlandı. Ağırlık temizlendi! ⚛️");
@@ -409,32 +419,31 @@ if (document.readyState === "loading") {
 }
 
 
+
 // ============================================================================
-// 📡 SKELETON.JS - METATRON INTER-FRAME COMMAND LISTENER
+// 📡 SKELETON.JS - METATRON INTER-FRAME COMMAND LISTENER (NİHAİ TEK HAT)
 // ============================================================================
 window.addEventListener("message", function(event) {
-    // Güvenlik veya veri kontrolü (Gelen veri boşsa işlem yapma)
-    if (!event.data || !event.data.komut) return;
+    // 🔑 EMNİYET KİLİDİ: Gelen veri veya komut boşsa tarayıcı çökmesini önle
+    if (!event || !event.data || !event.data.komut) return;
 
     const komut = event.data.komut;
     const durum = event.data.durum; // true veya false sinyali gelir
 
-    console.log(`[METATRON SKELETON] Mesaj yakalandı -> Komut: ${komut}, Durum: ${durum}`);
+    console.log(`[METATRON SKELETON NATIVE] Komut Yakalandı -> ${komut}: ${durum}`);
 
-    // 1. SARI İSKELET ŞALTERİ (Görünürlük Kontrolü)
-    if (komut === "SKELETON_TOGGLE") {
+    // 🩻 1. SARI İSKELET ŞALTERİ (main.html ile tam uyumlu)
+    if (komut === "ISKELET_DURUMU_DEGISTIR" || komut === "SKELETON_TOGGLE") {
         if (window.KuantumKafesi) {
             window.KuantumKafesi.visible = durum;
-            // İsteğe bağlı: İçindeki tüm mesh yapılarını da tek tek gezerek gizle/göster yapabilirsin
             window.KuantumKafesi.children.forEach(mesh => {
                 if(mesh.material) mesh.material.visible = durum;
             });
         }
     }
 
-    // 2. RGB EKSEN MİLLERİ ŞALTERİ
+    // 🧭 2. RGB EKSEN MİLLERİ ŞALTERİ (main.html ile tam uyumlu)
     else if (komut === "EKSEN_DURUMU_DEGISTIR") {
-        // Üçüncü parti veya senin eklediğin THREE.AxesHelper nesnesini sahneden bul ve gizle/aç
         if (window.scene) {
             window.scene.traverse(function(object) {
                 if (object.isAxesHelper || (object.name && object.name.toLowerCase().includes("axis"))) {
@@ -444,23 +453,20 @@ window.addEventListener("message", function(event) {
         }
     }
 
-    // 3. KUANTUM KALP ATIŞ ŞALTERİ (Nefes alma efektini dondurma/açma kilidi)
-    else if (komut === "HEART_TOGGLE") {
-        // Bu durumu global yapıyoruz ki updateMetatronLoop içinde animasyonu durdurabilelim
-          //window.heartAnimationActive = durum; 
-          //window.heartAnimationActive = msg.value;
-          window.heartAnimationActive = durum; 
+    // 🫀 3. KUANTUM KALP ATIŞ ŞALTERİ (Açılışta tek tıkla motoru ateşleyen kusursuz kilit)
+    else if (komut === "KALP_DURUMU_DEGISTIR" || komut === "HEART_TOGGLE") {
+        // Çelişen tüm değişken hatlarını tek bir emirde birleştiriyoruz!
+        window.heartState = durum;
+        window.heartAnimationActive = durum; 
     }
 
-    // 4. KUANTUM AÇI ŞALTERİ (Üstten Görünüm / Kamera Kilidi)
+    // 📐 4. KUANTUM AÇI ŞALTERİ (Üstten Görünüm / Kamera Kilidi)
     else if (komut === "SET_TOP_VIEW") {
         if (window.camera) {
             if (durum === true) {
-                // Kamera tam tepeden (Top View) baksın
                 window.camera.position.set(0, 50, 0); 
                 window.camera.lookAt(0, 0, 0);
             } else {
-                // Kamera normal perspektif/açılı konumuna geri dönsün
                 window.camera.position.set(15, 20, 25); 
                 window.camera.lookAt(0, 0, 0);
             }
@@ -468,5 +474,3 @@ window.addEventListener("message", function(event) {
         }
     }
 });
-
-

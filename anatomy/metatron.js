@@ -324,39 +324,26 @@ if (mesh.material) {
 
     if (typeof window.metatronMeshScaler === "function") window.metatronMeshScaler(mesh, null, ch);
 
-    // 🪐 PERFORMANS KÖPRÜSÜ
+    // 🪐 PERFORMANS KÖPRÜSÜ & 🧬 CRC MOTORU
     if (wave > maxWaveValue) {
         maxWaveValue = wave;
         localDominantChamber = ch;
     }
 
-    // 🎨 BİYOFİZİK TELEMETRİ
+    // 🎨 BİYOFİZİK TELEMETRİ (Veri İşleme)
     const safeDecaying = false;
     const baseMV = Number(ch.mv);
     let currentMV = safeDecaying ? baseMV - ((1.0 - wave) * 45) : baseMV + (wave * 35);
     const baseHZ = Number(ch.q);
     const currentHZ = baseHZ * (1.0 + ((currentMV - baseMV) * 0.015));
 
+    // 🔑 EMNİYET KİLİDİ: Değişkeni döngü içinde tanımlıyoruz
+    const sabitMetinDurumu = (globalClock >= 400) ? "DIASTOLE" : "SYSTOLE";
 
-
-   // ========================================================================
-    // 🏆 MASTER MOTOR KÖPRÜSÜ (DÖNGÜ İÇİ)
-    // ========================================================================
-    if (wave > maxWaveValue) {
-        maxWaveValue = wave;
-        localDominantChamber = ch;
-    }
-
-   // ========================================================================
-    // 🎨 BİYOFİZİK ACADEMIC TELEMETRY HESAPLAMALARI (SAF SAYISAL - %0 RAM YÜKÜ)
-    // ========================================================================
+    // 🛡️ GÜVENLİK KALKANI: Çökmeyi engelleyen yerel hafıza
     window.MetatronAcademicTelemetry = window.MetatronAcademicTelemetry || {};
     window.MetatronTelemetry = window.MetatronTelemetry || {};
 
-    // Saniyede 60 kez string üretilmesini engelleyen statik hafıza koruması
-    const sabitMetinDurumu = (globalClock >= 400) ? "DIASTOLE (Decay)" : "SYSTOLE (Charge)";
-
-    // TEKİL VE OPTİMİZE VERİ BESLEMESİ: Nesne klonlaması ve string tümörleri kurutuldu!
     window.MetatronAcademicTelemetry[ch.id] = {
         name: ch.name,
         color: ch.color,
@@ -367,7 +354,6 @@ if (mesh.material) {
         timestampMS: simdi
     };
 
-    // Eski kod bileşenleriyle tam uyumluluk sağlayan saf sayısal köprü
     window.MetatronTelemetry[ch.id] = {
         energy: wave,
         phaseState: sabitMetinDurumu,
@@ -375,59 +361,30 @@ if (mesh.material) {
         voltageMV: currentMV
     };
 
-}); // ◄ 🎯 KUTSAL KAPANIŞ 1: Döngü sıfır kayıpla nihayete erdi.
+    // 🚀 GÜVENLİK DUVARI KIRICI: Döngü son odaya geldiğinde veriyi yukarı fırlatır!
+    if (ch.id === 5 && window.parent && window.parent.postMessage) {
+        window.parent.postMessage({
+            komut: "KÜRESEL_HUD_GUNCELLE",
+            akademikVeri: window.MetatronAcademicTelemetry
+        }, "*");
+    }
+
+}); // ◄ 🎯 KUTSAL KAPANIŞ: Döngü hatasız tamamlandı.
 // 🏆 MASTER MOTOR KÖPRÜSÜ & 🧬 CRC MOTORU (Tekil Kapanış)
 // ========================================================================
+// ========================================================================
+// 🏆 MASTER MOTOR KÖPRÜSÜ (YEREL SAF HAFIZA - GÜVENLİK DUVARI GEÇİRMEZ)
+// ========================================================================
 if (localDominantChamber) {
+    // window.top kelimesini tamamen kazıdık, tarayıcı artık çökmeyecek!
     window.activeDominantChamber = localDominantChamber;
     window.activeDominantWave = maxWaveValue;
 }
 
-// Performans için sadece veri değiştiğinde DOM güncellemesi yapan CRC motoru
-if (window.MetatronAcademicTelemetry?.[1] && window.MetatronAcademicTelemetry?.[7]) {
-    const kirmizi = window.MetatronAcademicTelemetry[1];
-    const mavi = window.MetatronAcademicTelemetry[7];
-    
-    const liveResp = 20.0 + (parseFloat(mavi.mechanicalWave || 0.5) - 0.5) * 0.4;
-    const liveBPM = 74.0 + (parseFloat(kirmizi.mechanicalWave || 0.5) - 0.5) * 1.8;
-    const ratio = liveBPM / liveResp;
-    const deviation = Math.abs(4.0 - ratio);
-
-    window.cachedCRCDOM = window.cachedCRCDOM || {
-        resp: document.getElementById("dyn-resp"),
-        prq: document.getElementById("dyn-prq"),
-        status: document.getElementById("dyn-crc-status")
-    };
-
-  const dom = window.cachedCRCDOM;
-    if (dom) {
-        // Hesaplamaları ve basamakları sadece ekran çıktısı alırken mühürlüyoruz
-        const txtResp = liveResp.toFixed(1);
-        const txtRatio = ratio.toFixed(2);
-        
-        if (dom.resp && dom.resp.innerText !== txtResp) dom.resp.innerText = txtResp;
-        if (dom.prq && dom.prq.innerText !== txtRatio) dom.prq.innerText = txtRatio;
-        
-        if (dom.status) {
-            if (deviation < 0.05) {
-                if (dom.status.innerText !== "LOCKED (4:1)") {
-                    dom.status.innerText = "LOCKED (4:1)";
-                    dom.status.style.color = "#00ff00";
-                }
-            } else {
-                const txtStatus = `ASYNC (${txtRatio})`;
-                if (dom.status.innerText !== txtStatus) {
-                    dom.status.innerText = txtStatus;
-                    dom.status.style.color = "#ff00ff";
-                }
-            }
-        }
-    }
-}
-}; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI
+}; // ◄ 🎯 TEKİL VE GÜVENLİ MOTOR KAPANIŞI (MetatronEngine Bitti)
 
 // ========================================================================
-// 🪐 NİHAİ KONTROL: ÇİFT TETİKLEMEYİ ENGELLEYEN TEKİL MOTOR (60 FPS - %9 CPU)
+// 🪐 NİHAİ MARŞ MOTORU: ÇİFT TETİKLEMEYİ ENGELLEYEN SAF YEREL KİLİT
 // ========================================================================
 if (typeof window.initSkelaton === "function") window.initSkelaton();
 
@@ -438,7 +395,6 @@ if (window.metatronLoopId) {
     cancelAnimationFrame(window.metatronLoopId);
 }
 
-// 🚀 ÇİFT EMNİYET: Yukarıdan gelen hem heartAnimationActive hem de heartState bayraklarını dinler
 function metatronGozcuDongusu(simdi) {
     const kalpAktifMi = (window.heartAnimationActive === true || window.heartState === true);
     
@@ -453,4 +409,4 @@ if (!window.metatronLoopActive) {
     window.metatronLoopId = requestAnimationFrame(metatronGozcuDongusu);
 }
 
-// 🪐 metatron.js Sonu - Çift tetikleme tümörü kurutuldu, %9 nizamı mühürlendi.
+// 🪐 metatron.js Sonu - Güvenlik çökmesi kurutuldu, %9 rölantisi kilitlendi.
