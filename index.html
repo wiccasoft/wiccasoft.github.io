@@ -28,19 +28,27 @@
         ::-webkit-scrollbar-thumb { background: rgba(168, 85, 247, 0.2); border-radius: 4px; }
 
 
-        .brand-logo { 
-            height: 35px; 
-            width: auto; 
-            filter: brightness(0); 
+        /* 🩻 BRAND LOGO: TOMOGRAFİ TARAMA MODU */
+        .brand-logo {
+            height: 35px;
+            width: auto;
+            filter: none; /* 🌈 Açılışta kendi orijinal renkleriyle yüklenir */
             opacity: 0.9;
-            transition: all 0.3s ease;
-        }
-        .brand-logo:hover {
-            opacity: 1;
-            filter: drop-shadow(0 0 8px rgba(168, 85, 247, 0.6)) brightness(0) invert(1); /* Hover'da mor neon parlama */
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Akıcı geçiş */
         }
 
-        .logo-link { display: flex; align-items: center; text-decoration: none; }
+        .brand-logo:hover {
+            opacity: 1;
+            /* 🩺 X-Ray / Tomografi Efekti: Renkleri ters yüz edip, medikal yeşil/mavi siber ışık basar */
+            filter: invert(1) hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 12px #00ffcc);
+            transform: scale(1.03); /* Hafif bir nabız/büyüme hareketi */
+        }
+
+        .logo-link { 
+            display: flex; 
+            align-items: center; 
+            text-decoration: none; 
+        }
         
         /* 👑 HEADER *invert(0.5); /* 🌟 Renkli logoyu saf premium beyaza çevirir */
         header { position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: rgba(5, 5, 5, 0.85); backdrop-filter: blur(8px); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; z-index: 10; border-bottom: 1px solid rgba(168, 85, 247, 0.1); }
