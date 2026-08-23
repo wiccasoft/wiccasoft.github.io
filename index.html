@@ -9,8 +9,24 @@
     
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body, html { width: 100%; height: 100%; overflow: hidden; font-family: system-ui, -apple-system, sans-serif; background-color: #050505; color: #ffffff; display: flex; flex-direction: column; }
+        
+        /* 🌊 ASTRO SMOOTH SCROLL & BODY CONFIG */
+        body, html { 
+            width: 100%; 
+            min-height: 100vh; 
+            overflow-x: hidden; 
+            overflow-y: auto; /* Aşağı kaymayı açtık */
+            scroll-behavior: smooth; /* Astro tarzı akıcı geçiş */
+            font-family: system-ui, -apple-system, sans-serif; 
+            background-color: #050505; 
+            color: #ffffff; 
+        }
 
+        /* 🍿 WEBKIT SCROLLBAR */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #000000; }
+        ::-webkit-scrollbar-thumb { background: rgba(168, 85, 247, 0.2); border-radius: 4px; }
+        
         /* 👑 HEADER */
         header { position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: rgba(5, 5, 5, 0.85); backdrop-filter: blur(8px); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; z-index: 10; border-bottom: 1px solid rgba(168, 85, 247, 0.1); }
         .brand-logo { height: 35px; width: auto; }
@@ -18,17 +34,17 @@
         nav a { color: #cccccc; text-decoration: none; font-size: 0.95rem; font-weight: 500; transition: color 0.3s; }
         nav a:hover { color: #a855f7; }
 
-        /* 🏗️ ANA VİEWPORT */
-        .main-viewport { position: absolute; top: 70px; bottom: 50px; left: 0; width: 100vw; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
+        /* 🏗️ ANA VİEWPORT (İlk Ekran Bölümü) */
+        .main-viewport { position: relative; width: 100vw; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
 
-        /* 🖼️ ORIGINAL SALVADOR: Filtreler çöpe gitti, orijinal renkler geri geldi! */
+        /* 🖼️ ORIGINAL SALVADOR */
         .salvador-image { position: absolute; height: 150%; width: auto; top: -50%; object-fit: contain; z-index: 1; }
 
-        /* 🛸 METATRON 3D ÇEKİRDEK: Boyutu tekrar büyüttük, butonların arkasından kurtardık! */
+        /* 🛸 METATRON 3D ÇEKİRDEK */
         .metatron-three-iframe-holder { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
         .metatron-iframe { width: 100%; height: 100%; border: none; }
 
-        /* 🌌 SİBERPUNK MASK TABAKASI: Yazıların arkasını karartan o sihirli tül perde! */
+        /* 🌌 SİBERPUNK MASK TABAKASI */
         .cyber-dark-overlay {
             position: absolute;
             top: 0;
@@ -36,40 +52,52 @@
             width: 100%;
             height: 100%;
             background: radial-gradient(circle, rgba(5, 5, 5, 0.4) 25%, rgba(5, 5, 5, 0.85) 75%);
-            z-index: 3; /* Resim ve motorun üstüne, yazının altına serdik! */
+            z-index: 3;
             pointer-events: none;
         }
 
         /* 👑 ÖN PLAN KATMANI */
-        .hero-content-layer { position: relative; z-index: 4; text-align: center; max-width: 650px; padding: 20px; pointer-events: auto; }
+        .hero-content-layer { position: relative; z-index: 4; text-align: center; max-width: 650px; padding: 20px; pointer-events: auto; margin-top: 70px; }
 
-        /* 🎯 BAŞLIK KİLİDİ: Kararmayı önlemek için saf opak renk ve net gölge verdik! */
+        /* 🎯 BAŞLIK KİLİDİ */
         h1 { 
             font-size: 3.6rem; 
             font-weight: 900; 
-            color: #ffffff; /* Siyahlığı bitiren saf beyaz taban */
+            color: #ffffff; 
             margin-bottom: 15px; 
             letter-spacing: -1px;
-            text-shadow: 0 0 20px rgba(168, 85, 247, 0.6), 0 4px 10px rgba(0, 0, 0, 0.9); /* Mor parlamalı siber gölge */
+            text-shadow: 0 0 20px rgba(168, 85, 247, 0.6), 0 4px 10px rgba(0, 0, 0, 0.9); 
         }
-        h1 span { color: #a855f7; } /* Kelimenin bir kısmını mor parlatmak için */
+        h1 span { color: #a855f7; }
 
         p { font-size: 1.15rem; color: #e2e8f0; margin-bottom: 35px; line-height: 1.6; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9); }
 
-/* 🕹️ BUTONLAR (PARASEMPATİK SİBERPUNK GÜNCELLEMESİ) */
-.btn-container { display: flex; gap: 15px; justify-content: center; }
-.btn { padding: 12px 28px; font-size: 1rem; font-weight: 600; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; }
+        /* 🕹️ BUTONLAR */
+        .btn-container { display: flex; gap: 15px; justify-content: center; }
+        .btn { padding: 12px 28px; font-size: 1rem; font-weight: 600; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; }
 
-/* Features Butonu: Parasempatik Derin Mor */
-.btn-features { background-color: #a855f7; color: white; }
-.btn-features:hover { background-color: #9333ea; box-shadow: 0 0 15px rgba(168, 85, 247, 0.6); }
+        /* Features Butonu */
+        .btn-features { background-color: #a855f7; color: white; }
+        .btn-features:hover { background-color: #9333ea; box-shadow: 0 0 15px rgba(168, 85, 247, 0.6); }
 
-/* Download Butonu: Minimalist Beyaz */
-.btn-download { background: transparent; color: white; border: 1px solid #ffffff; }
-.btn-download:hover { background-color: #ffffff; color: #000000; box-shadow: 0 0 15px rgba(255, 255, 255, 0.6); }
+        /* Download Butonu */
+        .btn-download { background: transparent; color: white; border: 1px solid #ffffff; }
+        .btn-download:hover { background-color: #ffffff; color: #000000; box-shadow: 0 0 15px rgba(255, 255, 255, 0.6); }
+
+        /* 🖤 FEATURES SECTION (PARASEMPATİK RE-DESIGN) */
+        .features-section { background-color: #000000; min-height: 100vh; padding: 120px 40px; display: flex; flex-direction: column; align-items: center; justify-content: center; border-top: 1px solid rgba(168, 85, 247, 0.1); }
+        .features-title { font-size: 2.8rem; font-weight: 800; margin-bottom: 60px; color: #fff; text-shadow: 0 0 15px rgba(168, 85, 247, 0.3); }
+        .features-title span { color: #a855f7; }
+
+        /* 🏗️ TRIPLE GRID */
+        .features-grid { display: flex; gap: 30px; max-width: 1200px; width: 100%; flex-wrap: wrap; justify-content: center; }
+        .feature-card { background: rgba(5, 5, 5, 0.8); border: 1px solid rgba(168, 85, 247, 0.1); padding: 40px; border-radius: 12px; flex: 1; min-width: 300px; max-width: 360px; transition: 0.4s ease; text-align: left; }
+        .feature-card:hover { transform: translateY(-8px); border-color: rgba(168, 85, 247, 0.4); box-shadow: 0 10px 30px rgba(168, 85, 247, 0.05); }
+        .feature-card h3 { font-size: 1.4rem; color: #fff; margin-bottom: 15px; font-weight: 700; text-transform: capitalize; }
+        .feature-card p { color: #94a3b8; line-height: 1.6; font-size: 1rem; text-shadow: none; margin-bottom: 0; }
 
         /* 👣 FOOTER */
-        footer { position: fixed; bottom: 0; left: 0; width: 100%; height: 50px; background: rgba(5, 5, 5, 0.9); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; font-size: 0.85rem; color: #666666; z-index: 10; border-top: 1px solid rgba(168, 85, 247, 0.05); }
+        footer { width: 100%; height: 60px; background: rgba(5, 5, 5, 0.95); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; font-size: 0.85rem; color: #666666; border-top: 1px solid rgba(168, 85, 247, 0.05); }
         footer a { color: #888888; text-decoration: none; transition: color 0.3s; }
         footer a:hover { color: #ffffff; }
     </style>
@@ -79,72 +107,48 @@
     <header>
         <img src="logo.png" alt="Wiccasoft Logo" class="brand-logo" />
         <nav>
-
-            <a href="#">about</a>
-            <!--<a href="#">contact</a>-->
+            <a href="#features">about</a>
         </nav>
     </header>
 
+    <!-- 🌌 İlk Katman: Kahraman Alanı -->
     <main class="main-viewport">
-        <!-- 1. Katman: Orijinal Salvador -->
         <img src="salvador_mundi.jpg" alt="Salvador Mundi Art" class="salvador-image" />
         
-        <!-- 2. Katman: Haşmetli Metatron Girdabı -->
         <div class="metatron-three-iframe-holder">
             <iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true"></iframe>
         </div>
 
-        <!-- 3. Katman: Yazıyı Okutan Gizli Siber Perde -->
         <div class="cyber-dark-overlay"></div>
 
-        <!-- 4. Katman: Ön Plan Elemanları -->
         <div class="hero-content-layer">
             <h1>All in One <span>Browser</span></h1>
             <p>Browse the world at the speed of light with electron infrastructure</p>
             <div class="btn-container">
-                <a href="#" class="btn btn-features">features</a>
+                <a href="#features" class="btn btn-features">features</a>
                 <a href="#" class="btn btn-download">get for desktop</a>
             </div>
         </div>
     </main>
 
-    <script>
-
-   document.addEventListener("DOMContentLoaded", () => {
-        const downloadBtn = document.querySelector(".btn-download");
-        const userAgent = window.navigator.userAgent.toLowerCase();
-        
-        let osName = "desktop";
-        let downloadUrl = "#"; // İleride indirme linklerini buraya ekleyebilirsin
-
-        // 📱 MOBİL PLATFORMLAR
-        if (userAgent.includes("android")) {
-            osName = "Android";
-            downloadUrl = "#android-link"; // Google Play linki için
-        } else if (userAgent.includes("iphone") || userAgent.includes("ipad") || userAgent.includes("ipod")) {
-            osName = "iOS";
-            downloadUrl = "#ios-link"; // App Store linki için
-        } 
-        // 💻 MASAÜSTÜ PLATFORMLAR
-        else if (userAgent.includes("win")) {
-            osName = "Windows";
-            downloadUrl = "#windows-link"; 
-        } else if (userAgent.includes("mac")) {
-            // macOS cihazları bazen kendini macos olarak tanıtabilir, "mac" hepsini yakalar
-            osName = "Mac";
-            downloadUrl = "#mac-link";
-        } else if (userAgent.includes("linux")) {
-            osName = "Linux";
-            downloadUrl = "#linux-link";
-        }
-
-        // Sayfa yüklendiğinde "get for desktop" yazısını "get for Windows", "get for Android" vb. yapar
-        downloadBtn.textContent = `get for ${osName}`;
-        downloadBtn.href = downloadUrl;
-    });
-
-    </script>
-</script>
+    <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Tam İstediğin 3 Ana Hat) -->
+    <section id="features" class="features-section">
+        <h2 class="features-title">Core <span>Features</span></h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <h3>hybrid decentralized</h3>
+                <p>Maksimum egemenlik için yeni nesil Web5 altyapısı üzerine inşa edilmiş merkeziyetsiz veri ve kimlik katmanı.</p>
+            </div>
+            <div class="feature-card">
+                <h3>cardio metatron engine</h3>
+                <p>Gözü ve donanımı yormayan, parasempatik sisteme uyumlu, ultra optimize siber motor mimarisi.</p>
+            </div>
+            <div class="feature-card">
+                <h3>no track user data</h3>
+                <p>Sıfır izleme politikası. Verileriniz reklam şirketlerine değil, tamamen sizin kendi yerel cihaz bilincinize aittir.</p>
+            </div>
+        </div>
+    </section>
 
     <footer>
         <div>&copy; 2026 Wiccasoft</div>
@@ -155,5 +159,41 @@
         </div>
     </footer>
 
+    <!-- 🚀 EKSİKSİZ, KAPATILMIŞ DİNAMİK SCRIPT -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const downloadBtn = document.querySelector(".btn-download");
+            const userAgent = window.navigator.userAgent.toLowerCase();
+            
+            let osName = "desktop";
+            let downloadUrl = "#";
+
+            // 📱 MOBİL PLATFORMLAR
+            if (userAgent.includes("android")) {
+                osName = "Android";
+                downloadUrl = "#android-link";
+            } else if (userAgent.includes("iphone") || userAgent.includes("ipad") || userAgent.includes("ipod")) {
+                osName = "iOS";
+                downloadUrl = "#ios-link";
+            }
+            // 💻 MASAÜSTÜ PLATFORMLAR
+            else if (userAgent.includes("win")) {
+                osName = "Windows";
+                downloadUrl = "#windows-link"; 
+            } else if (userAgent.includes("mac")) {
+                osName = "Mac";
+                downloadUrl = "#mac-link";
+            } else if (userAgent.includes("linux")) {
+                osName = "Linux";
+                downloadUrl = "#linux-link";
+            }
+
+            downloadBtn.textContent = `get for ${osName}`;
+            downloadBtn.href = downloadUrl;
+        });
+    </script>
+
+    
 </body>
 </html>
+Use code with caution.
