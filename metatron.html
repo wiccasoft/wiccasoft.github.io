@@ -330,8 +330,15 @@ scene.add(new THREE.AmbientLight(0xffffff));
     }
     const squareGeom = new THREE.BufferGeometry();
     squareGeom.setAttribute('position', new THREE.Float32BufferAttribute(squareVertices,3));
-    const squareMat = new THREE.LineBasicMaterial({color:0xffff00});
-    //scene.add(new THREE.LineSegments(squareGeom, squareMat));
+    //const squareMat = new THREE.LineBasicMaterial({color:0xffff00});
+    const squareMat = new THREE.LineBasicMaterial({ 
+    color: 0x666666,      /* 👵 Saf siberpunk mat gri (Gözü yormaz) */
+    transparent: true,
+    opacity: 0.4,         /* Hafif saydam eterik doku */
+    depthWrite: false,    /* 🔑 Üst üste binip yanıp sönmesini (Z-Fighting) kesin olarak engeller! */
+    depthTest: true
+});
+    scene.add(new THREE.LineSegments(squareGeom, squareMat));
     KuantumKafesi.add(new THREE.LineSegments(squareGeom, squareMat));
 
     const u = new THREE.Vector3(f.normal.y, f.normal.z, f.normal.x).normalize();
@@ -343,7 +350,12 @@ scene.add(new THREE.AmbientLight(0xffffff));
     plusVertices.push(...f.center.clone().add(v.clone().multiplyScalar(-0.5)).toArray());
     const plusGeom = new THREE.BufferGeometry();
     plusGeom.setAttribute('position', new THREE.Float32BufferAttribute(plusVertices,3));
-    const plusMat = new THREE.LineBasicMaterial({color:0xaaaaaa});
+    //const plusMat = new THREE.LineBasicMaterial({color:0xaaaaaa});
+    const plusMat = new THREE.LineBasicMaterial({ 
+    color: 0xaaaaaa,
+    depthWrite: false, // 🔑 Çizgilerin birbiriyle çatışıp titremesini engeller
+    depthTest: true
+});
     //scene.add(new THREE.LineSegments(plusGeom, plusMat));
     KuantumKafesi.add(new THREE.LineSegments(plusGeom, plusMat));
   });
@@ -351,7 +363,12 @@ scene.add(new THREE.AmbientLight(0xffffff));
   // Eksenler
   function addAxis(color, from, to) {
     const axisGeom = new THREE.BufferGeometry().setFromPoints([from,to]);
-    const axisMat = new THREE.LineBasicMaterial({color:color});
+     const axisMat = new THREE.LineBasicMaterial({ 
+        color: 0x555555,      /* 👵 İstediğin gibi pürüzsüz asil gri */
+        transparent: false,   /* Saydamlığı kapatıyoruz ki kırpışma bitsin */
+        depthWrite: false,
+        depthTest: false      /* 🔑 Kesin Çözüm: Derinlik testini çöpe at, çatışmayı bitir! */
+    });
     scene.add(new THREE.Line(axisGeom, axisMat));
   }
  // addAxis(0xff0000, new THREE.Vector3(-10,0,0), new THREE.Vector3(10,0,0));
@@ -431,35 +448,12 @@ const sphereRadius = 0.2; // küçük küreler küpün içine sığacak
 
 // 8 küre objesi (renkler doğru eşleşme ile)
 // ============================================================================
-// ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ (Satır 223)
-// ============================================================================
-// Kutsal girdap matrisine uygun olarak id'ler ve Türkçe isimler güncellendi.
-// 3 (Beyaz) ve 6 (Siyah) manyetik kutup olarak işaretlendi.
- // ============================================================================
-// ============================================================================
 // ADIM 2: KUTSAL MATEMATİK VE ENERJİ UYUMLU ODA KİMLİKLERİ
 // ============================================================================
 // 🔑 \(\sqrt{2}\) KUTSAL PUSULA MÜHÜRÜ: Beyaz ve Siyah tam \(\sqrt{2}\) çapraz köşegen aksına geri taşındı! 
 // Atomun o yavaşlatılmış kabuğu kırıldı, gerçek bükümlü implosion alanı serbest bırakıldı!
 // ============================================================================
-// 🔮 DA VINCI BOYUTSAL PERSPEKTİF MATRİSİ (EL VE X MÜHÜRÜ SENKRONU)
-// ============================================================================
-// Mor oda göğüsteki X'in arkasına gömüldü (Z: -0.20), Beyaz Küre ise eline uzandı (Z: 0.48)
-// ============================================================================
-// 🔮 90 DERECE PROFİL UYARLI AYNALANMIŞ ODA MATRİSİ (EL VE KÜRE TAM KİLİT)
-// ============================================================================
-// X ve Z kutupları, İsa'nın sağ elindeki parmaklar (Solda) ve sol elindeki küre (Sağda)
-// olacak şekilde dikey profil düzlemine göre milimetrik olarak yeniden dengelendi!
-// ============================================================================
-// 🪐 GEZEGENSEL REZONANS MATRİSİ (ORİJİNAL \sqrt{2} KİLİDİNE GERİ DÖNÜŞ)
-// ============================================================================
-// Sarı ve Kırmızı odalar yukarda (Y: 0.25), Siyah ve Beyaz kutuplar aşağıda (Y: -0.25)
-// Jüpiter ve Satürn yörünge kararlılığı tam olarak yeniden mühürlendi!
-// ============================================================================
-// 🔮 PROFİL UYARLI SAF GEOMETRİK EL KİLİTLENMESİ (KUTUPLAR SIRTTAN KURTARILDI)
-// ============================================================================
-// Sarı ve Kırmızı odalar yukarda (0.25), Siyah ve Beyaz kutuplar sırt ve göbekten 
-// sökülerek tam olarak İsa'nın tablodaki el koordinatlarına geri çivilendi!
+
 
 
 const spheres = [
@@ -484,12 +478,12 @@ const mat = new THREE.MeshPhongMaterial({
     emissive: s.color,
     emissiveIntensity: s.isPole ? 1.0 : 0.3,
     transparent: true,
-    opacity: s.isPole ? 1.0 : 0.45, 
+    opacity: s.isPole ? 1.0 : 0.45,
     
-    // 🔑 KESİK GÖRÜNME SORUNUNU ÇÖZEN MATRİS AYARLARI
-    depthWrite: false,   // Kürelerin arkasındaki çizgilerin (Kafes, Tetrahedron) görünmesini sağlar, kesilmeyi bitirir.
-    depthTest: true,     // Nesnelerin derinlik algısını korur.
-    precision: "highp"   // GPU'nun piksel hesaplama hassasiyetini en üst seviyeye çıkarır.
+    // 🔑 TİTREMEYİ BİTİREN KRİTİK DEĞİŞİKLİK:
+    depthWrite: true,   /* 🌟 False olan değeri true yaptık! Küre derinliği mühürlendi. */
+    depthTest: true,
+    precision: "highp"
 });
   
   const sphere = new THREE.Mesh(geom, mat);
@@ -1931,24 +1925,7 @@ if (ayFaziElement) {
     }
 }
 
-// ============================================================================
-// 🌌 KUTSALTERAZİ AURA GLOW VE KAFES MODÜLASYON MOTORU (DONMASIZ SÜRÜM)
-// ============================================================================
-// THREE.LinePositions kaldırıldı, kilit tamamen açıldı!
-KuantumKafesi.children.forEach(child => {
-    if (child instanceof THREE.LineSegments || child instanceof THREE.Line) {
-        
-        // Kök Çakra (174 Hz) ve Tepe Çakra (963 Hz) girişim dalgalarını birleştiriyoruz
-        const anlikAuraGurdusu = Math.abs(kalpDalga174 * 0.45) + Math.abs(Math.sin(saniyeZamani * 963 * Math.PI) * 0.2);
-        
-        // Çizgilerin opaklığını kalbin organik atış ritmine göre dinamik esnetiyoruz
-        child.material.transparent = true;
-        child.material.opacity = 0.25 + anlikAuraGurdusu;
-        
-        // 🔑 Işık kırılması hissi için derinlik testini mühürlüyoruz
-        child.material.depthWrite = false;
-    }
-});
+
 
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
