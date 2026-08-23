@@ -104,6 +104,44 @@
         </div>
     </main>
 
+    <script>
+
+   document.addEventListener("DOMContentLoaded", () => {
+        const downloadBtn = document.querySelector(".btn-download");
+        const userAgent = window.navigator.userAgent.toLowerCase();
+        
+        let osName = "desktop";
+        let downloadUrl = "#"; // İleride indirme linklerini buraya ekleyebilirsin
+
+        // 📱 MOBİL PLATFORMLAR
+        if (userAgent.includes("android")) {
+            osName = "Android";
+            downloadUrl = "#android-link"; // Google Play linki için
+        } else if (userAgent.includes("iphone") || userAgent.includes("ipad") || userAgent.includes("ipod")) {
+            osName = "iOS";
+            downloadUrl = "#ios-link"; // App Store linki için
+        } 
+        // 💻 MASAÜSTÜ PLATFORMLAR
+        else if (userAgent.includes("win")) {
+            osName = "Windows";
+            downloadUrl = "#windows-link"; 
+        } else if (userAgent.includes("mac")) {
+            // macOS cihazları bazen kendini macos olarak tanıtabilir, "mac" hepsini yakalar
+            osName = "Mac";
+            downloadUrl = "#mac-link";
+        } else if (userAgent.includes("linux")) {
+            osName = "Linux";
+            downloadUrl = "#linux-link";
+        }
+
+        // Sayfa yüklendiğinde "get for desktop" yazısını "get for Windows", "get for Android" vb. yapar
+        downloadBtn.textContent = `get for ${osName}`;
+        downloadBtn.href = downloadUrl;
+    });
+    
+    </script>
+</script>
+
     <footer>
         <div>&copy; 2026 Wiccasoft</div>
         <div>
