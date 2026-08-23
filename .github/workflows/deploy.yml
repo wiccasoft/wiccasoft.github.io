@@ -1,0 +1,51 @@
+name: Deploy Astro to GitHub Pages
+
+on:
+  push:
+    branches: [ main ] # 🟢 Sen main branch'ine kodu attığın an bu robot uyanır
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build Astro
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro website
+        run: npm run build # 🏁 İşte o hayalini kurduğumuz dist klasörü burada üretiliyor!
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist # 🚀 Üretilen dist klasörünü GitHub bulutuna fırlatıyoruz
+
+  deploy:
+    name: Deploy to Live
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # 🌍 Ve sitemiz wiccasoft.xyz adresinde canlı!

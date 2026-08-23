@@ -1,0 +1,95 @@
+---
+// src/components/Navbar.astro - Wiccasoft Fixed JSX Layout
+---
+<nav class="navbar">
+  <div class="container">
+    <!-- Sol Taraf: Logonuz -->
+    <a href="/" class="logo-link">
+      <img src="/logo.png" alt="Wiccasoft Logo" class="logo-img" />
+    </a>
+
+    <!-- Sağ Taraf: Menü Linkleri -->
+    <div class="nav-links">
+      <!-- 🎯 Kapanış etiketleri milimetrik olarak kilitlenmiş tam bağlantı -->
+      <a href="https://github.com/wiccasoft/wiccasoft.github.io/tree/main" target="_blank" class="nav-item">GitHub</a>
+    
+    </div> <!-- nav-links kapanışı -->
+
+  </div> <!-- 🎯 İŞTE COMPILER'IN ARADIĞI BÜYÜLÜ CONTAINER KAPANIŞ ETİKETİ BURASI AGA! -->
+</nav>
+
+<style>
+  /* Genel Navbar Yapısı */
+.navbar {
+    background-color: #0d0d0d;
+    border-bottom: 1px solid #222;
+    padding: 1rem 0;
+    
+    /* Menünün üstte sabit kalmasını sağlayan kritik 3 satır */
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* Logo Boyutlandırma */
+  .logo-link {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-img {
+    height: 45px; /* Logonuzun yatayda şık durması için ideal yükseklik */
+    width: auto;
+  }
+
+  /* Linklerin Stili */
+  .nav-links {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+  }
+
+  .nav-item {
+    color: #cccccc;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.2s ease;
+  }
+
+  .nav-item:hover, .nav-item.active {
+    color: #ffffff; /* Üzerine gelince beyaz olsun */
+  }
+
+  /* Logonuzun Mavi Tonundan Esinlenilmiş İletişim Butonu */
+  .contact-btn {
+    background-color: #2563eb; 
+    color: #ffffff;
+    padding: 0.5rem 1.2rem;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+  }
+
+  .contact-btn:hover {
+    background-color: #1d4ed8;
+    color: #ffffff;
+  }
+
+  /* Mobil Ekranlar İçin Uyumluluk */
+  @media (max-width: 768px) {
+    .nav-links {
+      gap: 1rem;
+    }
+    .nav-item {
+      font-size: 0.9rem;
+    }
+  }
+</style>

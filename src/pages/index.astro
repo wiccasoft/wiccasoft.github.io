@@ -1,0 +1,196 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+---
+
+<Layout title="Wiccasoft | Modern Web Çözümleri">
+	<Navbar />
+	
+	<!-- 🪐 KATMANLI HERO GÖVDESİ -->
+	<main class="hero-section">
+		
+		<!-- 🖼️ ARKA PLAN KATMANI: Salvador Tablosu -->
+		<div class="salvador-art-background">
+			<img src="/salvador_mundi.jpg" alt="Salvador Mundi Art" class="salvador-image" />
+			
+			<!-- 🛸 IFRAME GÖMÜLÜ 3D METATRON ÇEKİRDEĞİ -->
+			<div class="metatron-three-iframe-holder">
+				<!-- 🎯 Repondaki hazır Three.js sayfasına doğrudan kapı açıyoruz -->
+				<iframe 
+					src="/seed-ac-dc.html" 
+					title="Wiccasoft 3D Metatron Engine" 
+					class="metatron-iframe"
+					scrolling="no" 
+					frameborder="0"
+				></iframe>
+			</div>
+		</div>
+
+		<!-- 🎯 ÖN PLAN KATMANI: Yazılar ve Butonlar -->
+		<div class="hero-content">
+			<div class="glow-back-fog"></div>
+			<h1>All in <span class="text-gradient">One Browser</span></h1>
+			<p class="hero-description">Browse the world at the speed of light with electron infrastructure</p>
+			<div class="action-buttons">
+	<a href="#servisler" class="btn-primary">features</a>
+	<!-- 🎯 ID'yi temizledik, artık doğrudan aşağıdaki akıllı JS motoru butona hükmedecek -->
+	<a href="#" id="smart-download-btn" target="_blank" class="btn-secondary">download</a>
+</div>
+		</div>
+	</main>
+
+
+<!-- 🛸 AKILLI CİHAZ TESPİT MOTORU -->
+<script is:inline>
+	document.addEventListener('DOMContentLoaded', () => {
+		const downloadBtn = document.getElementById('smart-download-btn');
+		if (downloadBtn) {
+			const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+			// 🤖 1. Durum: Kullanıcı Android Telefondan Giriş Yaptıysa
+			if (/android/i.test(userAgent)) {
+				downloadBtn.href = "https://google.com";
+				downloadBtn.innerText = "get it on google play";
+			} 
+			// 🍏 2. Durum: Kullanıcı iPhone/iOS Cihazdan Giriş Yaptıysa
+			else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+				downloadBtn.href = "https://apple.com";
+				downloadBtn.innerText = "download on app store";
+			} 
+			// 💻 3. Durum: Kullanıcı Masaüstünden (Windows/Mac) Giriş Yaptıysa
+			else {
+				// Doğrudan GitHub repondaki ana kod ağacına ve manifestoya uçurur
+				downloadBtn.href = "https://github.com";
+				downloadBtn.innerText = "download for desktop";
+			}
+		}
+	});
+</script>
+
+	<!-- Yeni Servislerimiz / Özellikler Bölümü -->
+	<section id="servisler" class="services-section">
+		<div class="services-container">
+			<div class="card card-green">
+				<div class="card-icon">⚡</div>
+				<h3>Light-Speed Performance</h3>
+				<p>Pages load instantly thanks to Astro's next-gen "Zero-JavaScript" architecture.</p>
+			</div>
+			<div class="card card-blue">
+				<div class="card-icon">🎯</div>
+				<h3>Hybrid Decentralized Service</h3>
+				<p>A resilient dual-layer architecture combining high-speed execution with local decentralized node synchronization.</p>
+			</div>
+			<div class="card card-yellow">
+				<div class="card-icon">💎</div>
+				<h3>Built-in Cardio Engine</h3>
+				<p>"A living 3D metatron core synchronized with Zodiac frequencies and alternating AC/DC vortex currents."</p>
+			</div>
+
+
+			<!-- 📁 4. YENİ KART: Gelişmiş Dosya Yöneticisi Özelliği -->
+			<div class="card card-purple">
+				<div class="card-icon">📁</div>
+				<h3>Encrypted File Manager Matrix</h3>
+				<p>Manage, encapsulate, and structure your local downloads through an isolated local filesystem tree. Every binary asset passed through the client architecture undergoes secure sandboxing, protecting your infrastructure from local operating system vulnerabilities.</p>
+			</div>
+		</div>
+	</section>
+
+
+
+	<!-- 🛡️ ADSENSE'İN AŞKLA ARADIĞI ZORUNLU FOOTER ALANI -->
+	<footer class="adsense-footer">
+		<div class="footer-container">
+			<p>&copy; 2026 Wiccasoft. All Rights Reserved.</p>
+			<div class="footer-links">
+				<a href="/about">About & Manifesto</a>
+				<a href="/privacy">Privacy Policy</a>
+				<a href="/terms">Terms of Service</a>
+			</div>
+		</div>
+	</footer>
+</Layout>
+
+
+<!-- 🛸 AKILLI CİHAZ TESPİT MOTORU SCRIPTİ -->
+<script is:inline>
+	document.addEventListener('DOMContentLoaded', () => {
+		const downloadBtn = document.getElementById('smart-download-btn');
+		if (downloadBtn) {
+			const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+			if (/android/i.test(userAgent)) {
+				downloadBtn.href = "https://google.com";
+				downloadBtn.innerText = "get it on google play";
+			} else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+				downloadBtn.href = "https://apple.com";
+				downloadBtn.innerText = "download on app store";
+			} else {
+				downloadBtn.href = "https://github.com";
+				downloadBtn.innerText = "download for desktop";
+			}
+		}
+	});
+</script>
+
+<style>
+
+body { background-color: #0d0d0d; color: #ffffff; font-family: system-ui, sans-serif; margin: 0; }
+	.hero-section { position: relative; display: flex; justify-content: center; align-items: center; min-height: 80vh; padding: 2rem 1rem; text-align: center; overflow: hidden; }
+	.salvador-art-background { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; max-width: 650px; z-index: 1; opacity: 0.35; pointer-events: none; }
+	.salvador-image { width: 100%; height: auto; display: block; border-radius: 16px; box-shadow: 0 0 60px rgba(37, 99, 235, 0.15); }
+	.metatron-three-iframe-holder { position: absolute; bottom: -40px; left: 50%; transform: translateX(-50%); width: 600px; height: 550px; z-index: 2; overflow: hidden; pointer-events: none; filter: drop-shadow(0 0 25px rgba(34, 197, 94, 0.4)); }
+	.metatron-iframe { width: 100%; height: 100%; background: transparent; border: none; overflow: hidden; }
+	.hero-content { position: relative; z-index: 3; width: 100%; max-width: 800px; }
+	.glow-back-fog { position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); width: 120%; height: 160px; background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, rgba(37,99,235,0.03) 50%, rgba(0,0,0,0) 100%); z-index: -1; pointer-events: none; filter: blur(10px); }
+	h1 { font-size: 3.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 1.5rem; letter-spacing: -1px; text-shadow: none !important; }
+	.text-gradient { background-image: linear-gradient(45deg, #2563eb, #ef4444, #eab308, #22c55e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 400%; display: inline-block; }
+	.hero-description { font-size: 1.25rem; color: #a3a3a3; margin-bottom: 2.5rem; line-height: 1.5; text-shadow: 0 2px 10px rgba(0,0,0,0.8); }
+	.action-buttons { display: flex; gap: 1rem; justify-content: center; align-items: center; }
+	.btn-primary, .btn-secondary { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; padding: 0.8rem 2rem; border-radius: 8px; font-weight: 600; white-space: nowrap; transition: all 0.2s ease; }
+	.btn-primary { background-color: #2563eb; color: white; }
+	.btn-primary:hover { background-color: #1d4ed8; box-shadow: 0 0 15px rgba(37, 99, 235, 0.3); }
+	.btn-secondary { border: 1px solid #404040; color: white; background-color: rgba(13, 13, 13, 0.8); }
+	.btn-secondary:hover { border-color: #ffffff; background-color: rgba(255,255,255,0.05); }
+
+	.services-section { padding: 4rem 1.5rem; background-color: #0a0a0a; position: relative; z-index: 4; }
+	.services-container { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }
+	
+	.card { background-color: #121212; border: 1px solid #1a1a1a; padding: 2.5rem; border-radius: 12px; transition: transform 0.2s, border-color 0.2s; }
+	.card:hover { transform: translateY(-5px); }
+	.card-green:hover { border-color: #22c55e; }
+	.card-blue:hover { border-color: #2563eb; }
+	.card-yellow:hover { border-color: #eab308; }
+	.card-purple:hover { border-color: #a855f7; } /* Yeni kart kenarlık rengi */
+	.card-icon { font-size: 2rem; margin-bottom: 1rem; }
+	.card h3 { font-size: 1.5rem; margin-bottom: 0.75rem; }
+	.card p { font-size: 1rem; color: #737373; margin: 0; line-height: 1.5; }
+
+	/* 🛡️ ADSENSE FOOTER STILLERI */
+	.adsense-footer {
+		background-color: #060606;
+		padding: 3rem 1.5rem;
+		border-top: 1px solid #1a1a1a;
+		text-align: center;
+		position: relative;
+		z-index: 5;
+		font-size: 0.9rem;
+		color: #525252;
+	}
+	.footer-container { max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+	.footer-links { display: flex; justify-content: center; gap: 2rem; }
+	.footer-links a { color: #a3a3a3; text-decoration: none; transition: color 0.2s; }
+	.footer-links a:hover { color: #ffffff; }
+
+	@media (max-width: 768px) {
+		h1 { font-size: 2.3rem; line-height: 1.3; }
+		.hero-description { font-size: 1.1rem; margin-bottom: 2rem; }
+		.action-buttons { flex-direction: column; width: 100%; max-width: 320px; margin: 0 auto; gap: 1.2rem !important; }
+		.btn-primary, .btn-secondary { width: 100%; }
+		.salvador-art-background { max-width: 340px; top: 45%; }
+		.card { padding: 2rem 1.5rem; }
+		.glow-back-fog { height: 100px; width: 140%; }
+		.metatron-three-iframe-holder { width: 360px; height: 360px; bottom: -20px; overflow: visible; }
+		.metatron-iframe { transform: scale(1.6); transform-origin: center center; }
+		.footer-links { flex-direction: column; gap: 1rem; }
+	}
+</style>
