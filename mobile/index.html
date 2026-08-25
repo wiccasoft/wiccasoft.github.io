@@ -57,22 +57,15 @@
 
     <script>
         let mevcutKlasörYolu = "";
-
-        // 🧭 COMPASS (PUSULA) DONANIMINI OKUYAN SİHİRLİ JAVASCRIPT
-        if (window.DeviceOrientationEvent) {
-            window.addEventListener('deviceorientation', function(event) {
-                // Android cihazlarda yön verisi 'alpha' içinde döner (0 - 360 derece)
-                let heading = event.alpha;
-                if (heading !== null) {
-                    // Düzgün yön göstermesi için dereceyi ters çevirip diskimizi döndürüyoruz
-                    let degrees = Math.round(heading);
-                    document.getElementById('compassDisc').style.transform = `rotate(${-degrees}deg)`;
-                    document.getElementById('compassHeading').innerText = `Yön: ${degrees}° Kuzey`;
-                }
-            }, true);
-        } else {
-            document.getElementById('compassHeading').innerText = "Pusula sensörü desteklenmiyor.";
-        }
+// 🧭 TARAYICI SENSÖRÜNÜ BYPASS EDEN GERÇEK NATIVE KÖPRÜ FONKSİYONU
+window.onNativeCompassRead = function(heading) {
+    if (heading !== null) {
+        let degrees = Math.round(heading);
+        // Telefon diskini native katmandan gelen dereceye göre döndür
+        document.getElementById('compassDisc').style.transform = `rotate(${-degrees}deg)`;
+        document.getElementById('compassHeading').innerText = `Yön: ${degrees}° Kuzey`;
+    }
+};
 
         // 📁 DOSYA GEZGİNİ VE YEREL STREAM MANTIĞI
         window.onload = function() {
