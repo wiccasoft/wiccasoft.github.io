@@ -134,10 +134,39 @@
         .feature-card h3 { font-size: 1.4rem; color: #fff; margin-bottom: 15px; font-weight: 700; text-transform: capitalize; }
         .feature-card p { color: #94a3b8; line-height: 1.6; font-size: 1rem; text-shadow: none; margin-bottom: 0; }
 
+        
         /* 👣 FOOTER */
         footer { width: 100%; height: 60px; background: rgba(5, 5, 5, 0.95); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; font-size: 0.85rem; color: #666666; border-top: 1px solid rgba(168, 85, 247, 0.05); }
         footer a { color: #888888; text-decoration: none; transition: color 0.3s; }
         footer a:hover { color: #ffffff; }
+
+
+.product-logo-container {
+  position: absolute; /* Butonların altındaki konumunu sabitlemek için absolute şart */
+  left: 50%;
+  transform: translateX(-50%); /* Yatayda kusursuz ortalar */
+  top: 82%; /* Ekran yüksekliğine göre butonların hemen altına hizalar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 240px; /* Geniş ekranlarda devasa durmaması için ideal boyut */
+  z-index: 10;
+}
+
+.wicca-product-logo {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
+@media (max-width: 768px) {
+  .product-logo-container {
+    top: 85%; /* Mobilde dikey yerleşimi buton mesafesine göre optimize eder */
+    max-width: 160px;
+  }
+}
     </style>
 </head>
 <body>
@@ -168,6 +197,11 @@
             </div>
         </div>
     </main>
+
+    <!-- 📐 Buton Altı Orijinal Wicca Matris Logosu -->
+<div class="product-logo-container">
+  <img src="logo-product-paper-1.svg" alt="Wicca Logo" class="wicca-product-logo">
+</div>
 
     <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Tam İstediğin 3 Ana Hat) -->
     <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Global English Version) -->
