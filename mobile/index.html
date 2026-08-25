@@ -1,16 +1,20 @@
-<!-- index.html -->
-<button onclick="nativeDosyaSeciciAc()">📄 Dosya Seç</button>
-<iframe id="pdfViewer"></iframe>
-
-<script>
-    // Native tarafı tetikleyen fonksiyon
-    function nativeDosyaSeciciAc() {
-        if (window.ReactNativeWebView) {
-            window.ReactNativeWebView.postMessage('TRIGGER_NATIVE_FILE_PICKER');
-        }
-    }
-    // Seçilen dosyayı iframe içinde göster
-    window.onNativeFileSelected = function(dataUrl) {
-        document.getElementById('pdfViewer').src = dataUrl;
-    };
-</script>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wicca Dosya Gezgini</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 15px; background: #121212; color: #fff; }
+        .list-container { background: #1E1E1E; border-radius: 12px; }
+        .item { padding: 12px 15px; border-bottom: 1px solid #2d2d2d; }
+    </style>
+</head>
+<body>
+    <h2>📁 Wicca Dosya Sistemi</h2>
+    <div id="fileList" class="list-container">Yükleniyor...</div>
+    <script>
+        // Yeni READ_DIR| yapısına uygun kodlar buraya eklenecek
+    </script>
+</body>
+</html>
