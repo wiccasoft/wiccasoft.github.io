@@ -48,6 +48,35 @@
             sonucDiv.innerHTML = "❌ Yerel Express bağlantı hatası: " + err.message;
         });
 }
+
+
+
+function bagimsizRssFetchEt() {
+    const sonucDiv = document.getElementById('pingSonuc');
+    sonucDiv.innerHTML = "⚡ Telefon doğrudan haber sitesine bağlanıyor...";
+
+    // Dünyadaki herhangi bir açık RSS feed'ini JSON'a çeviren ücretsiz servis (CORS bypass için)
+    const rssTargetUrl = 'https://rss2json.com';
+
+    fetch(rssTargetUrl)
+        .then(res => res.json())
+        .then(data => {
+            if (data.status === 'ok') {
+                sonucDiv.innerHTML = "<h3>📡 Canlı RSS Haberleri:</h3>";
+                // İlk 3 haberi telefona listeliyoruz (Senin PC kapalı olsa bile çalışır!)
+                data.items.slice(0, 3).forEach(item => {
+                    sonucDiv.innerHTML += `<div style="background:#262626; padding:10px; margin-top:5px; border-radius:6px; border-left:4px solid #30d158">
+                        <strong>${item.title}</strong>
+                    </div>`;
+                });
+            }
+        })
+        .catch(err => {
+            sonucDiv.innerHTML = "❌ RSS Fetch Hatası: " + err.message;
+        });
+}
+
+
 </script>
     <button class="back-btn" onclick="ustKlasoreGit()">⬆ Üst Klasör</button>
     <div id="currentPath" class="path-bar">Dizin taranıyor...</div>
