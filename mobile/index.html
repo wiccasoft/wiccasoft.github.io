@@ -3,143 +3,121 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wicca Dosya Gezgini</title>
+    <title>Wicca Voyager Dashboard</title>
+    <link href="https://googleapis.com" rel="stylesheet">
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 15px; background: #121212; color: #fff; }
-        h2 { color: #007AFF; border-bottom: 1px solid #333; padding-bottom: 8px; margin-top: 0; }
+        :root { --bg-main: #121212; --bg-card: #1E1E1E; --accent: #007AFF; --text: #FFFFFF; --text-muted: #8E8E93; }
+        body { font-family: -apple-system, sans-serif; margin: 0; background: var(--bg-main); color: var(--text); padding: 15px; }
+        h2 { color: var(--accent); border-bottom: 1px solid #333; padding-bottom: 8px; margin-top: 0; }
+        .card { background: var(--bg-card); padding: 15px; border-radius: 12px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
         .path-bar { background: #262626; padding: 10px; border-radius: 8px; font-size: 13px; color: #30d158; word-break: break-all; margin-bottom: 15px; font-family: monospace; }
-        .list-container { background: #1E1E1E; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
-        .item { padding: 15px; border-bottom: 1px solid #2d2d2d; display: flex; align-items: center; cursor: pointer; font-size: 15px; }
-        .item:last-child { border-bottom: none; }
+        .item { padding: 15px; border-bottom: 1px solid #2d2d2d; display: flex; align-items: center; cursor: pointer; }
         .item:active { background: #2a2a2a; }
-        .icon { margin-right: 12px; font-size: 18px; }
-        .folder { color: #ffcc00; }
-        .file { color: #007AFF; }
-        #pdfFrame { width: 100%; height: 500px; border: none; margin-top: 15px; display: none; background: #fff; border-radius: 12px; }
-        .back-btn { background: #333; color: #fff; border: none; padding: 8px 12px; border-radius: 6px; font-size: 13px; font-weight: bold; margin-bottom: 15px; cursor: pointer; }
+        .icon { margin-right: 12px; }
+        
+        /* 🧭 PUSULA GÖRSEL TASARIMI */
+        .compass-container { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 10px; }
+        .compass-disc { width: 120px; height: 120px; border-radius: 50%; border: 4px solid var(--accent); position: relative; transition: transform 0.1s linear; background: #262626; }
+        .compass-pointer { position: absolute; top: 0; left: 50%; width: 4px; height: 60px; background: #ff3b30; transform: translateX(-50%); border-radius: 2px; }
+        .compass-n { position: absolute; top: 5px; left: 50%; transform: translateX(-50%); font-weight: bold; color: #ff3b30; font-size: 14px; }
+        
+        /* 🎵 MEDYA OYNATICI */
+        audio { width: 100%; margin-top: 10px; border-radius: 8px; }
+        #pdfFrame { width: 100%; height: 400px; border: none; margin-top: 15px; display: none; background: #fff; border-radius: 12px; }
+        .back-btn { background: #333; color: #fff; border: none; padding: 8px 12px; border-radius: 6px; font-size: 13px; margin-bottom: 15px; cursor: pointer; }
     </style>
 </head>
 <body>
 
-    <h2>📁 Wicca C Sürücüsü Gezgini</h2>
+    <!-- 🧭 MODÜL 1: DONANIM PUSULA (COMPASS) -->
+    <div class="card compass-container">
+        <h2>🧭 Wicca Canlı Pusula</h2>
+        <div class="compass-disc" id="compassDisc">
+            <div class="compass-n">N</div>
+            <div class="compass-pointer"></div>
+        </div>
+        <p id="compassHeading" style="margin-top: 10px; font-weight: bold; font-family: monospace;">Açı: 0°</p>
+    </div>
 
-    <!-- HTML Kısmına Buton ve Sonuç Ekranı Ekliyoruz -->
-<div style="background: #1E1E1E; padding: 15px; border-radius: 12px; margin-bottom: 15px;">
-    <h3>📡 Global Sunucu Bağlantısı</h3>
-    <button onclick="sunucudanVeriCek()" style="background: #30d158; color: #fff; border: none; padding: 10px 15px; border-radius: 8px; font-weight: bold; width: 100%;">Express Sunucuya Ping At</button>
-    <div id="pingSonuc" style="margin-top: 10px; color: #8E8E93; font-family: monospace; font-size: 13px;">Sunucu aranıyor...</div>
-</div>
+    <!-- 🎵 MODÜL 2: MEDYA OYNATICI (STREAMING) -->
+    <div class="card" id="mediaCard" style="display: none;">
+        <h2>🎵 Wicca Medya Oynatıcı</h2>
+        <p id="playingFileName" style="font-size: 14px; color: var(--text-muted); word-break: break-all;"></p>
+        <audio id="audioPlayer" controls></audio>
+    </div>
 
-<script>
-    // NW.js yedeklerinden gelen o efsane global fetch fonksiyonu!
-   function sunucudanVeriCek() {
-    const sonucDiv = document.getElementById('pingSonuc');
-    sonucDiv.innerHTML = "⚡ Sinyal kablosuz köprüden bilgisayara gidiyor...";
-
-    // adb reverse sayesinde localhost doğrudan senin bilgisayardaki appserv.js'e vurur!
-    fetch('http://localhost:3000/api/ping')
-        .then(res => res.json())
-        .then(data => {
-            if(data.status === "success") {
-                sonucDiv.innerHTML = `✅ <span style="color:#30d158">${data.message}</span><br>🕒 Saat: ${data.time}`;
-            }
-        })
-        .catch(err => {
-            sonucDiv.innerHTML = "❌ Yerel Express bağlantı hatası: " + err.message;
-        });
-}
-
-
-
-function bagimsizRssFetchEt() {
-    const sonucDiv = document.getElementById('pingSonuc');
-    sonucDiv.innerHTML = "⚡ Telefon doğrudan haber sitesine bağlanıyor...";
-
-    // Dünyadaki herhangi bir açık RSS feed'ini JSON'a çeviren ücretsiz servis (CORS bypass için)
-    const rssTargetUrl = 'https://rss2json.com';
-
-    fetch(rssTargetUrl)
-        .then(res => res.json())
-        .then(data => {
-            if (data.status === 'ok') {
-                sonucDiv.innerHTML = "<h3>📡 Canlı RSS Haberleri:</h3>";
-                // İlk 3 haberi telefona listeliyoruz (Senin PC kapalı olsa bile çalışır!)
-                data.items.slice(0, 3).forEach(item => {
-                    sonucDiv.innerHTML += `<div style="background:#262626; padding:10px; margin-top:5px; border-radius:6px; border-left:4px solid #30d158">
-                        <strong>${item.title}</strong>
-                    </div>`;
-                });
-            }
-        })
-        .catch(err => {
-            sonucDiv.innerHTML = "❌ RSS Fetch Hatası: " + err.message;
-        });
-}
-
-
-</script>
-    <button class="back-btn" onclick="ustKlasoreGit()">⬆ Üst Klasör</button>
-    <div id="currentPath" class="path-bar">Dizin taranıyor...</div>
-    
-    <!-- Klasörler ve Dosyalar Burada Listelenecek -->
-    <div id="fileList" class="list-container">Dahili hafıza taranıyor...</div>
-
-    <!-- Seçilen PDF Dosyasını Okuma Alanı -->
-    <iframe id="pdfFrame"></iframe>
+    <!-- 📁 MODÜL 3: C SÜRÜCÜSÜ GEZGİNİ -->
+    <div class="card">
+        <h2>📁 C Sürücüsü Gezgini</h2>
+        <button class="back-btn" onclick="ustKlasoreGit()">⬆ Üst Klasör</button>
+        <div id="currentPath" class="path-bar">Dizin taranıyor...</div>
+        <div id="fileList" style="background: var(--bg-main); border-radius: 8px; overflow: hidden;"></div>
+        <iframe id="pdfFrame"></iframe>
+    </div>
 
     <script>
         let mevcutKlasörYolu = "";
 
-        // WebView açıldığı an arka plandaki App.tsx telsizine ilk tarama emrini gönderiyoruz
+        // 🧭 COMPASS (PUSULA) DONANIMINI OKUYAN SİHİRLİ JAVASCRIPT
+        if (window.DeviceOrientationEvent) {
+            window.addEventListener('deviceorientation', function(event) {
+                // Android cihazlarda yön verisi 'alpha' içinde döner (0 - 360 derece)
+                let heading = event.alpha;
+                if (heading !== null) {
+                    // Düzgün yön göstermesi için dereceyi ters çevirip diskimizi döndürüyoruz
+                    let degrees = Math.round(heading);
+                    document.getElementById('compassDisc').style.transform = `rotate(${-degrees}deg)`;
+                    document.getElementById('compassHeading').innerText = `Yön: ${degrees}° Kuzey`;
+                }
+            }, true);
+        } else {
+            document.getElementById('compassHeading').innerText = "Pusula sensörü desteklenmiyor.";
+        }
+
+        // 📁 DOSYA GEZGİNİ VE YEREL STREAM MANTIĞI
         window.onload = function() {
             setTimeout(() => { klasorOku(""); }, 500);
         };
 
         function klasorOku(yol) {
             if (window.ReactNativeWebView) {
-                // App.tsx içindeki handleMessage bloğuna sinyal gönderir
                 window.ReactNativeWebView.postMessage("READ_DIR|" + yol);
             }
         }
 
         function ustKlasoreGit() {
-            if (!mevcutKlasörYolu || mevcutKlasörYolu === "/storage/emulated/0") {
-                alert("Zaten ana dizindesiniz!");
-                return;
-            }
+            if (!mevcutKlasörYolu || mevcutKlasörYolu === "/storage/emulated/0") return;
             let parcalar = mevcutKlasörYolu.split('/');
             parcalar.pop();
-            let ustYol = parcalar.join('/');
-            klasorOku(ustYol);
+            klasorOku(parcalar.join('/'));
         }
 
-        // 📡 React Native katmanından (App.tsx) gelen gerçek klasör listesini yakalayan fonksiyon
         window.onNativeDirectoryRead = function(dosyalar, okunanYol) {
             mevcutKlasörYolu = okunanYol;
             document.getElementById('currentPath').innerText = okunanYol;
-            
             const listeDiv = document.getElementById('fileList');
-            listeDiv.innerHTML = ''; // Eski verileri temizle
-
-            if (dosyalar.length === 0) {
-                listeDiv.innerHTML = '<div class="item">Bu klasör boş.</div>';
-                return;
-            }
+            listeDiv.innerHTML = '';
 
             dosyalar.forEach(item => {
                 const itemDiv = document.createElement('div');
                 itemDiv.className = 'item';
                 
                 if (item.isDirectory) {
-                    itemDiv.innerHTML = `<span class="icon folder">📁</span> <strong>${item.name}</strong>`;
-                    itemDiv.onclick = () => klasorOku(item.path); // Klasöre basınca içine sız
+                    itemDiv.innerHTML = `<span class="icon" style="color:#ffcc00">folder</span><strong>${item.name}</strong>`;
+                    itemDiv.onclick = () => klasorOku(item.path);
                 } else {
-                    itemDiv.innerHTML = `<span class="icon file">📄</span> ${item.name}`;
-                    // Eğer dosya bir PDF ise tıklanınca doğrudan okutma emri gönder
-                    if (item.name.toLowerCase().endsWith('.pdf')) {
+                    let isMp3 = item.name.toLowerCase().endsWith('.mp3');
+                    let isPdf = item.name.toLowerCase().endsWith('.pdf');
+                    let icon = isMp3 ? 'audiotrack' : (isPdf ? 'picture_as_pdf' : 'insert_drive_file');
+                    let iconColor = isMp3 ? '#30d158' : (isPdf ? '#ff3b30' : '#007AFF');
+
+                    itemDiv.innerHTML = `<span class="material-icons icon" style="color:${iconColor}">${icon}</span>${item.name}`;
+                    
+                    if (isPdf || isMp3) {
                         itemDiv.onclick = () => {
                             if (window.ReactNativeWebView) {
-                                window.ReactNativeWebView.postMessage("READ_FILE|" + item.path);
+                                // PDF veya MP3 fark etmeksizin dosyayı base64 okuması için tetikliyoruz
+                                window.ReactNativeWebView.postMessage("READ_FILE|" + item.path + "|" + (isMp3 ? "mp3" : "pdf"));
                             }
                         };
                     }
@@ -148,12 +126,27 @@ function bagimsizRssFetchEt() {
             });
         };
 
-        // 📡 App.tsx'ten gelen çözülmüş PDF verisini ekrana jilet gibi basan fonksiyon
+        // 📡 TELEFONDAN GELEN VERİYİ YAKALAYIP OYNATAN BÜYÜK KÖPRÜ
         window.onNativeFileSelected = function(dataUrl) {
-            const frame = document.getElementById('pdfFrame');
-            frame.src = dataUrl;
-            frame.style.display = 'block';
-            window.scrollTo(0, document.body.scrollHeight);
+            // App.tsx'ten gelen dataUrl'nin tipine bakıyoruz (audio/mp3 mü yoksa application/pdf mi)
+            if (dataUrl.includes("audio/") || dataUrl.includes("data:application/octet-stream")) {
+                // Eğer gelen dosya MP3 ise ses oynatıcıyı ayağa kaldırıyoruz
+                const player = document.getElementById('audioPlayer');
+                document.getElementById('mediaCard').style.display = 'block';
+                document.getElementById('pdfFrame').style.style.display = 'none';
+                
+                // Base64 müzik verisini oynatıcıya kilitliyoruz
+                player.src = dataUrl.replace("application/octet-stream", "audio/mp3"); 
+                player.play();
+            } else {
+                // Eğer gelen dosya PDF ise döküman görüntüleyiciyi açıyoruz
+                document.getElementById('mediaCard').style.display = 'none';
+                const frame = document.getElementById('pdfFrame');
+                frame.src = dataUrl;
+                frame.style.display = 'block';
+                window.scrollTo(0, document.body.scrollHeight);
+            }
         };
     </script>
 </body>
+</html>
