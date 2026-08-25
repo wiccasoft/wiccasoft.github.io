@@ -1,89 +1,16 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wicca AllInOne Tool</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 20px; background: #121212; color: #fff; }
-        h2 { color: #007AFF; border-bottom: 1px solid #333; padding-bottom: 8px; }
-        .card { background: #1E1E1E; padding: 15px; borderRadius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
-        button { background: #007AFF; color: #fff; border: none; padding: 10px 15px; border-radius: 8px; font-weight: bold; cursor: pointer; width: 100%; margin-top: 10px; }
-        input[type="file"] { display: none; }
-        .file-label { display: block; background: #333; text-align: center; padding: 12px; border-radius: 8px; border: 2px dashed #555; cursor: pointer; }
-        .news-item { background: #262626; padding: 10px; border-radius: 6px; margin-top: 8px; font-size: 14px; border-left: 4px solid #007AFF; }
-        .news-item a { color: #30d158; text-decoration: none; font-weight: bold; }
-        #pdfViewer { width: 100%; height: 400px; border: none; margin-top: 15px; display: none; background: #fff; }
-    </style>
-</head>
-<body>
+<!-- index.html -->
+<button onclick="nativeDosyaSeciciAc()">📄 Dosya Seç</button>
+<iframe id="pdfViewer"></iframe>
 
-    <!-- 📁 ADIM 1: DOSYA SİSTEMİ & PDF OKUYUCU -->
-    <div class="card">
-        <h2>📁 Wicca Dosya Gezgini</h2>
-        <p>Telefon hafızasından bir PDF veya döküman seçin:</p>
-        <label for="filePicker" class="file-label">📄 Cihazdan Dosya Seç</label>
-        <input type="file" id="filePicker" accept="application/pdf, image/*" onchange="dosyaOku(event)">
-        
-        <!-- Dahili PDF Gösterim Alanı -->
-        <iframe id="pdfViewer"></iframe>
-    </div>
-
-    <!-- 📡 ADIM 2: SİTEDEN BAĞIMSIZ CANLI RSS HABERLERİ -->
-    <div class="card">
-        <h2>📡 Canlı RSS Akışı</h2>
-        <button onclick="rssFetchEt()">Haberleri Güncelle</button>
-        <div id="rssIcerik">Haberler yüklenmedi...</div>
-    </div>
-
-    <script>
-        // 📁 Yerel Dosya Seçme ve PDF Okutma Fonksiyonu
-        function dosyaOku(event) {
-            const file = event.target.files[0];
-            if (!file) return;
-
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                const blobUrl = e.target.result;
-                const pdfViewer = document.getElementById('pdfViewer');
-                
-                // WebView içine gömülü PDF reader tetikleniyor
-                pdfViewer.src = blobUrl;
-                pdfViewer.style.display = 'block';
-            };
-            
-            // Dosyayı tarayıcı hafızasına URL olarak okuyoruz
-            reader.readAsDataURL(file);
+<script>
+    // Native tarafı tetikleyen fonksiyon
+    function nativeDosyaSeciciAc() {
+        if (window.ReactNativeWebView) {
+            window.ReactNativeWebView.postMessage('TRIGGER_NATIVE_FILE_PICKER');
         }
-
-        // 📡 Harici RSS Bağlantı Fonksiyonu (Sitenizden Tamamen Bağımsız)
-        function rssFetchEt() {
-            const rssDiv = document.getElementById('rssIcerik');
-            rssDiv.innerHTML = "Bağlanıyor ve fetch ediliyor...";
-
-            // Örnek açık bir RSS JSON dönüştürücü servisi (CORS aşmak için harika bir hiledir)
-            const rssTargetUrl = 'https://rss2json.com';
-
-            fetch(rssTargetUrl)
-                .then(response => response.json())
-                .then(data => {
-                    if (data.status === 'ok') {
-                        rssDiv.innerHTML = ''; // Temizle
-                        // İlk 3 haberi listele
-                        data.items.slice(0, 3).forEach(item => {
-                            const itemDiv = document.createElement('div');
-                            itemDiv.className = 'news-item';
-                            itemDiv.innerHTML = `<strong>${item.title}</strong><br><a href="${item.link}" target="_blank">Devamını Oku →</a>`;
-                            rssDiv.appendChild(itemDiv);
-                        });
-                    } else {
-                        rssDiv.innerHTML = "RSS verisi çözülemedi.";
-                    }
-                })
-                .catch(err => {
-                    rssDiv.innerHTML = "Bağlantı hatası: " + err.message;
-                });
-        }
-    </script>
-</body>
-</html>
+    }
+    // Seçilen dosyayı iframe içinde göster
+    window.onNativeFileSelected = function(dataUrl) {
+        document.getElementById('pdfViewer').src = dataUrl;
+    };
+</script>
