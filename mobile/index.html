@@ -32,23 +32,22 @@
 
 <script>
     // NW.js yedeklerinden gelen o efsane global fetch fonksiyonu!
-    function sunucudanVeriCek() {
-        const sonucDiv = document.getElementById('pingSonuc');
-        sonucDiv.innerHTML = "⚡ Sinyal internete fırlatıldı, bilgisayara doğru gidiyor...";
+   function sunucudanVeriCek() {
+    const sonucDiv = document.getElementById('pingSonuc');
+    sonucDiv.innerHTML = "⚡ Sinyal kablosuz köprüden bilgisayara gidiyor...";
 
-        // Localtunnel üzerinden senin bilgisayarındaki 3000 portuna vuran HTTPS adresi
-        fetch('https://localtunnel.me')
-            .then(res => res.json())
-            .then(data => {
-                if(data.status === "success") {
-                    // Bilgisayarından gelen canlı cevabı telefon ekranına jilet gibi basıyoruz
-                    sonucDiv.innerHTML = `✅ <span style="color:#30d158">${data.message}</span><br>🕒 Saat: ${data.time}`;
-                }
-            })
-            .catch(err => {
-                sonucDiv.innerHTML = "❌ Sunucu bağlantı hatası! Tünel veya node kapalı olabilir: " + err.message;
-            });
-    }
+    // adb reverse sayesinde localhost doğrudan senin bilgisayardaki appserv.js'e vurur!
+    fetch('http://localhost:3000/api/ping')
+        .then(res => res.json())
+        .then(data => {
+            if(data.status === "success") {
+                sonucDiv.innerHTML = `✅ <span style="color:#30d158">${data.message}</span><br>🕒 Saat: ${data.time}`;
+            }
+        })
+        .catch(err => {
+            sonucDiv.innerHTML = "❌ Yerel Express bağlantı hatası: " + err.message;
+        });
+}
 </script>
     <button class="back-btn" onclick="ustKlasoreGit()">⬆ Üst Klasör</button>
     <div id="currentPath" class="path-bar">Dizin taranıyor...</div>
