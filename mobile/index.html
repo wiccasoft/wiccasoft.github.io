@@ -56,90 +56,84 @@
     </div>
 
     <script>
-        let mevcutKlasörYolu = "";
-// 🧭 TARAYICI SENSÖRÜNÜ BYPASS EDEN GERÇEK NATIVE KÖPRÜ FONKSİYONU
+ let mevcutKlasörYolu = "";
+
+// 🧭 NATIVE TELSİZDEN GELEN DERECEYİ YAKALAYAN TEK VE GERÇEK FONKSİYON
 window.onNativeCompassRead = function(heading) {
-    if (heading !== null) {
+    if (heading !== null && heading !== undefined) {
         let degrees = Math.round(heading);
-        // Telefon diskini native katmandan gelen dereceye göre döndür
+        // Telefon diskini jilet gibi döndür
         document.getElementById('compassDisc').style.transform = `rotate(${-degrees}deg)`;
         document.getElementById('compassHeading').innerText = `Yön: ${degrees}° Kuzey`;
     }
 };
 
-        // 📁 DOSYA GEZGİNİ VE YEREL STREAM MANTIĞI
-        window.onload = function() {
-            setTimeout(() => { klasorOku(""); }, 500);
-        };
+// 📁 DOSYA GEZGİNİ VE YEREL STREAM MANTIĞI
+window.onload = function() {
+    setTimeout(() => { klasorOku(""); }, 500);
+};
 
-        function klasorOku(yol) {
-            if (window.ReactNativeWebView) {
-                window.ReactNativeWebView.postMessage("READ_DIR|" + yol);
-            }
-        }
+function klasorOku(yol) {
+    if (window.ReactNativeWebView) {
+        window.ReactNativeWebView.postMessage("READ_DIR|" + yol);
+    }
+}
 
-        function ustKlasoreGit() {
-            if (!mevcutKlasörYolu || mevcutKlasörYolu === "/storage/emulated/0") return;
-            let parcalar = mevcutKlasörYolu.split('/');
-            parcalar.pop();
-            klasorOku(parcalar.join('/'));
-        }
+function ustKlasoreGit() {
+    if (!mevcutKlasörYolu || mevcutKlasörYolu === "/storage/emulated/0") return;
+    let parcalar = mevcutKlasörYolu.split('/');
+    parcalar.pop();
+    klasorOku(parcalar.join('/'));
+}
 
-        window.onNativeDirectoryRead = function(dosyalar, okunanYol) {
-            mevcutKlasörYolu = okunanYol;
-            document.getElementById('currentPath').innerText = okunanYol;
-            const listeDiv = document.getElementById('fileList');
-            listeDiv.innerHTML = '';
+window.onNativeDirectoryRead = function(dosyalar, okunanYol) {
+    mevcutKlasörYolu = okunanYol;
+    document.getElementById('currentPath').innerText = okunanYol;
+    const listeDiv = document.getElementById('fileList');
+    listeDiv.innerHTML = '';
 
-            dosyalar.forEach(item => {
-                const itemDiv = document.createElement('div');
-                itemDiv.className = 'item';
-                
-                if (item.isDirectory) {
-                    itemDiv.innerHTML = `<span class="icon" style="color:#ffcc00">folder</span><strong>${item.name}</strong>`;
-                    itemDiv.onclick = () => klasorOku(item.path);
-                } else {
-                    let isMp3 = item.name.toLowerCase().endsWith('.mp3');
-                    let isPdf = item.name.toLowerCase().endsWith('.pdf');
-                    let icon = isMp3 ? 'audiotrack' : (isPdf ? 'picture_as_pdf' : 'insert_drive_file');
-                    let iconColor = isMp3 ? '#30d158' : (isPdf ? '#ff3b30' : '#007AFF');
+    dosyalar.forEach(item => {
+        const itemDiv = document.createElement('div');
+        itemDiv.className = 'item';
+        
+        if (item.isDirectory) {
+            itemDiv.innerHTML = `<span class="icon" style="color:#ffcc00">folder</span><strong>${item.name}</strong>`;
+            itemDiv.onclick = () => klasorOku(item.path);
+        } else {
+            let isMp3 = item.name.toLowerCase().endsWith('.mp3');
+            let isPdf = item.name.toLowerCase().endsWith('.pdf');
+            let icon = isMp3 ? 'audiotrack' : (isPdf ? 'picture_as_pdf' : 'insert_drive_file');
+            let iconColor = isMp3 ? '#30d158' : (isPdf ? '#ff3b30' : '#007AFF');
 
-                    itemDiv.innerHTML = `<span class="material-icons icon" style="color:${iconColor}">${icon}</span>${item.name}`;
-                    
-                    if (isPdf || isMp3) {
-                        itemDiv.onclick = () => {
-                            if (window.ReactNativeWebView) {
-                                // PDF veya MP3 fark etmeksizin dosyayı base64 okuması için tetikliyoruz
-                                window.ReactNativeWebView.postMessage("READ_FILE|" + item.path + "|" + (isMp3 ? "mp3" : "pdf"));
-                            }
-                        };
+            itemDiv.innerHTML = `<span class="material-icons icon" style="color:${iconColor}">${icon}</span>${item.name}`;
+            
+            if (isPdf || isMp3) {
+                itemDiv.onclick = () => {
+                    if (window.ReactNativeWebView) {
+                        window.ReactNativeWebView.postMessage("READ_FILE|" + item.path + "|");
                     }
-                }
-                listeDiv.appendChild(itemDiv);
-            });
-        };
-
-        // 📡 TELEFONDAN GELEN VERİYİ YAKALAYIP OYNATAN BÜYÜK KÖPRÜ
-        window.onNativeFileSelected = function(dataUrl) {
-            // App.tsx'ten gelen dataUrl'nin tipine bakıyoruz (audio/mp3 mü yoksa application/pdf mi)
-            if (dataUrl.includes("audio/") || dataUrl.includes("data:application/octet-stream")) {
-                // Eğer gelen dosya MP3 ise ses oynatıcıyı ayağa kaldırıyoruz
-                const player = document.getElementById('audioPlayer');
-                document.getElementById('mediaCard').style.display = 'block';
-                document.getElementById('pdfFrame').style.style.display = 'none';
-                
-                // Base64 müzik verisini oynatıcıya kilitliyoruz
-                player.src = dataUrl.replace("application/octet-stream", "audio/mp3"); 
-                player.play();
-            } else {
-                // Eğer gelen dosya PDF ise döküman görüntüleyiciyi açıyoruz
-                document.getElementById('mediaCard').style.display = 'none';
-                const frame = document.getElementById('pdfFrame');
-                frame.src = dataUrl;
-                frame.style.display = 'block';
-                window.scrollTo(0, document.body.scrollHeight);
+                };
             }
-        };
+        }
+        listeDiv.appendChild(itemDiv);
+    });
+};
+
+window.onNativeFileSelected = function(dataUrl) {
+    if (dataUrl.includes("audio/") || dataUrl.includes("data:application/octet-stream")) {
+        const player = document.getElementById('audioPlayer');
+        document.getElementById('mediaCard').style.display = 'block';
+        document.getElementById('pdfFrame').style.display = 'none';
+        player.src = dataUrl.replace("application/octet-stream", "audio/mp3"); 
+        player.play();
+    } else {
+        document.getElementById('mediaCard').style.display = 'none';
+        const frame = document.getElementById('pdfFrame');
+        frame.src = dataUrl;
+        frame.style.display = 'block';
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+};
     </script>
 </body>
 </html>
