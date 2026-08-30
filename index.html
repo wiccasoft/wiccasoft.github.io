@@ -162,11 +162,62 @@
 }
 
 /* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
+/* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ KATMAN HİYERARŞİSİ */
 @media (max-width: 768px) {
-  .product-logo-container {
-    top: 85%; /* Mobilde dikey yerleşimi buton mesafesine göre optimize eder */
-    max-width: 160px;
-  }
+    /* 1. Ana taşıyıcıyı mobilde dikey olarak esnetiyoruz */
+    .main-viewport {
+        height: 100vh !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    /* 2. KRİTİK ALAN: Yazı ve butonları mobilde de zorla en ön katmana alıyoruz */
+    .hero-content-layer {
+        position: relative !important;
+        z-index: 10 !important; /* Kürelerin kesinlikle önüne geçirir */
+        pointer-events: auto !important; /* Butonların tıklanabilir olmasını sağlar */
+        margin-top: 40px !important;
+        padding: 0 15px !important;
+    }
+
+    /* 3. Mobilde devasa kalıp butonları ezen başlığı küçültüyoruz */
+    h1 {
+        font-size: 2.2rem !important;
+        letter-spacing: -0.5px !important;
+        margin-bottom: 10px !important;
+    }
+
+    p {
+        font-size: 0.95rem !important;
+        margin-bottom: 25px !important;
+    }
+
+    /* 4. KRİTİK ALAN: 3D Küreleri yazıların arkasına (arka plana) hapsediyoruz */
+    .metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 50% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) scale(0.8) !important; /* Mobilde küreleri biraz küçülttük */
+        width: 100vw !important;
+        height: 100vh !important;
+        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının butonları engellemesini önler */
+    }
+
+    /* 5. İsa (Salvador Mundi) resmini en arka katmana alıyoruz */
+    .salvador-image {
+        max-width: 90vw !important;
+        top: 45% !important;
+        z-index: 1 !important;
+    }
+
+    /* 6. Alt kısımdaki wicca logosunu dengeliyoruz */
+    .product-logo-container {
+        top: 86% !important;
+        max-width: 150px !important;
+        z-index: 11 !important;
+    }
 }
     </style>
 </head>
