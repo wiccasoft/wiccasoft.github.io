@@ -169,6 +169,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
 
                                 // 🚀 GRAPHIC INSERT HATASINI VE HYPERSENTINEL DONMASINI BİTİREN AYARLAR:
 
+
                                 // 1. WebView'ın yerel veritabanı ve grafik depolama alanını açar,
                                 // böylece Three.js shader'ları sistem çekirdeğine saldırmak yerine kendi güvenli alanında render edilir.
                                 databaseEnabled = true
