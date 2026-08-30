@@ -54,38 +54,32 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                         """
     (function() {
         // Stilleri ve Iframe yollarını düzelten ana fonksiyon
-        function applyFixes() {
-            var h = window.innerHeight + 'px';
-            
-            // 1. CSS Stillerini Enjekte Etme veya Güncelleme
-            var styleId = 'webview-layout-fix';
-            var style = document.getElementById(styleId);
-            if (!style) {
-                style = document.createElement('style');
-                style.id = styleId;
-                document.head.appendChild(style);
-            }
-            style.innerHTML = `
-                html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; }
-                .main-viewport { height: ' + h + ' !important; display: block !important; }
-                .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; }
-                .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; border: 2px solid blue !important; }
-            `;
+function applyFixes() {
+    var h = window.innerHeight + 'px';
+    var currentOrigin = window.location.origin; 
+    var currentFullUrl = window.location.href;
 
-            // 2. Iframe Linklerini Mutlak Değere Dönüştürme
-            document.querySelectorAll('iframe').forEach(f => {
-                if (f.src && !f.src.startsWith('http')) {
-                    var absolute = new URL(f.getAttribute('src'), window.location.href).href;
-                    if (f.src !== absolute) {
-                        console.log("WebViewAssetDebug: Converting relative iframe src to: " + absolute);
-                        f.src = absolute;
-                    }
-                }
-            });
+    var styleId = 'webview-layout-fix';
+    var style = document.getElementById(styleId);
+    if (!style) {
+        style = document.createElement('style');
+        style.id = styleId;
+        document.head.appendChild(style);
+    }
+    style.innerHTML = `
+        html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; }
+        .main-viewport { height: ' + h + ' !important; display: block !important; }
+    `;
 
-            // 3. WebGL ve Üç Boyutlu Motorları Uyandırmak İçin Resize Tetikleme
-            window.dispatchEvent(new Event('resize'));
+    document.querySelectorAll('img, iframe').forEach(el => {
+        var src = el.getAttribute('src');
+        if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+            el.src = new URL(src, currentFullUrl).href;
         }
+    });
+
+    window.dispatchEvent(new Event('resize'));
+}
 
         // Sayfa tamamen hazır olduğunda ilk çalıştırma
         if (document.readyState === 'loading') {
@@ -107,6 +101,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
     """.trimIndent(), null
                                     )
                                 }
+
 
                                 override fun onReceivedSslError(view: WebView?, handler: SslErrorHandler?, error: android.net.http.SslError?) {
                                     Log.d("WebViewError", "SSL Error: $error")
@@ -165,8 +160,16 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                         }
                     },
                     update = { webView ->
-                        if (webView.url != viewModel.url && viewModel.url.isNotEmpty()) {
-                            webView.loadUrl(viewModel.url)
+                        val currentUrl = webView.url ?: ""
+
+                        // Sadece WebView gerçekten bomboşsa veya geçersiz bir sayfadaysa URL yüklemesini başlat.
+                        // Sayfa bir kez yüklenmeye başladıktan sonra bu blok bir daha asla tetiklenmez,
+                        // böylece 3D motoru, iframe'leri ve resimleri tek bir temiz istekte bölemez!
+                        if (currentUrl.isEmpty() || currentUrl == "about:blank") {
+                            if (viewModel.url.isNotEmpty()) {
+                                Log.d("WebViewFlow", "Sayfa tek bir seferde yükleniyor: ${viewModel.url}")
+                                webView.loadUrl(viewModel.url)
+                            }
                         }
                     }
                 )
