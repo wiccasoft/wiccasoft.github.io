@@ -136,7 +136,11 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                             loadUrl(viewModel.url)
                         }
                     },
-                    update = { /* Key handles reloads */ }
+                    update = { webView ->
+                        if (webView.url != viewModel.url && viewModel.url.isNotEmpty()) {
+                            webView.loadUrl(viewModel.url)
+                        }
+                    }
                 )
             }
             
