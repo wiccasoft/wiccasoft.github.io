@@ -32,13 +32,20 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
     
     // Switch to full screen when browsing to avoid layout issues with 3D engines
     if (viewModel.viewMode == ViewMode.BROWSER) {
-        Box(modifier = Modifier.fillMaxSize()) {
-
-                AndroidView(
-                    modifier = Modifier.fillMaxSize(),
-                    factory = { context ->
-                        WebView.setWebContentsDebuggingEnabled(true)
-                        WebView(context).apply {
+        Box(
+            modifier = Modifier
+                .fillMaxSize()
+                // 🚀 CSS KAYMASINI ENGELLEYEN EN KRİTİK ANDROID AYARI:
+                // Sistem çubuklarının (Status Bar/Navigation Bar) WebView'ı yukarı veya aşağı
+                // itmesini tamamen engeller, alanı ekranın gerçek sıfır koordinatlarına kilitler.
+                .windowInsetsPadding(WindowInsets(0, 0, 0, 0))
+        ) {
+            AndroidView(
+                modifier = Modifier.fillMaxSize(),
+                factory = { context ->
+                    WebView.setWebContentsDebuggingEnabled(true)
+                    WebView(context).apply {
+                        // Mevcut tüm WebView yapılandırmaların (setLayerType, settings vb.) AYNEN KALSIN...
                             setLayerType(View.LAYER_TYPE_HARDWARE, null)
                             // Use solid white to confirm content is rendering
                             setBackgroundColor(Color.WHITE)
@@ -57,14 +64,18 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                 }
 
                                 override fun onPageFinished(view: WebView?, url: String?) {
-                                    Log.d("WebViewFlow", "Page finished: $url - Chrome Tipi Yükleyici Devrede")
+                                    Log.d("WebViewFlow", "Page finished: $url - Dinamik Tarayıcı Enjektörü Devrede")
                                     view?.evaluateJavascript(
                                         """
         (function() {
             function applyFixes() {
                 var h = window.innerHeight + 'px';
                 
-                // 1. Layout ve Stilleri Sabitleme
+                // O an açık olan sitenin dinamik domain ve yol bilgilerini alıyoruz (Genel Tarayıcı İçin)
+                var currentOrigin = window.location.origin;
+                var currentBase = window.location.origin + window.location.pathname;
+
+                // 1. Layout ve Stilleri Sabitleme (MERKEZLEMEYİ BOZMAYAN YENİ AKIŞ)
                 var styleId = 'webview-layout-fix';
                 var style = document.getElementById(styleId);
                 if (!style) {
@@ -72,43 +83,46 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                     style.id = styleId;
                     document.head.appendChild(style);
                 }
-                style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; display: block !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
+                // 🔥 DEĞİŞİKLİK: display: block kuralı silindi! Yerine sitenin orijinal flex/center yerleşimini koruyan esnek yapı getirildi.
+                style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: flex !important; justify-content: center !important; align-items: center !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
 
-                // 2. Güvenli Dinamik URL Dönüştürme
-                document.querySelectorAll('img, iframe').forEach(function(el) {
-                    var src = el.getAttribute('src');
-                    if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+                // 2. Güvenli Dinamik URL Dönüştürme (Genel Tarayıcı Modeli)
+                document.querySelectorAll('img, iframe, link[rel="stylesheet"], script').forEach(function(el) {
+                    var src = el.getAttribute('src') || el.getAttribute('href');
+                    var prop = el.hasAttribute('src') ? 'src' : 'href';
+                    
+                    if (src && !src.startsWith('http') && !src.startsWith('data:') && !src.startsWith('//')) {
                         try {
-                            var base = window.location.origin + window.location.pathname;
-                            var absolute = new URL(src, base).href;
-                            if (el.src !== absolute) { el.src = absolute; }
+                            var absolute = new URL(src, currentBase).href;
+                            if (el[prop] !== absolute) { el[prop] = absolute; }
                         } catch(e) {
                             var cleanSrc = src.startsWith('/') ? src : '/' + src;
-                            el.src = window.location.origin + cleanSrc;
+                            el[prop] = currentOrigin + cleanSrc;
                         }
                     }
                 });
 
-                // 3. WebGL ve Üç Boyutlu Motorları Tetikleme (İframe'e Start Veren Salise)
+                // 3. WebGL ve Üç Boyutlu Motorları Tetikleme
                 window.dispatchEvent(new Event('resize'));
             }
 
-            // 🔥 TRENİN KAÇMASINI ENGELLEYEN ANLIK KONTROL:
-            // Eğer sayfa çoktan yüklendiyse (readyState 'complete' veya 'interactive' ise)
-            // Hiç event beklememize gerek yok, doğrudan applyFixes() çalıştırıp iframe'e start veriyoruz!
+            // Trenin kaçmasını engelleyen anlık kontrol
             if (document.readyState === 'complete' || document.readyState === 'interactive') {
                 applyFixes();
             } else {
-                // Eğer mucizevi bir şekilde sayfa hâlâ yükleniyorsa dinlemeye devam et
                 document.addEventListener('DOMContentLoaded', applyFixes);
             }
 
-            // DOM'a sonradan asenkron (Three.js ile sonradan) enjekte edilen elementleri izleme
-            var observer = new MutationObserver(function(mutations) {
-                applyFixes();
-            });
-            if (document.body) {
-                observer.observe(document.body, { childList: true, subtree: true });
+            // Three.js veya ağır CSS dosyaları sonradan yüklense bile pikselsel değişimi anında yakalar
+            if (window.ResizeObserver && document.body) {
+                var ro = new ResizeObserver(function(entries) {
+                    applyFixes();
+                });
+                ro.observe(document.body);
+                
+                document.querySelectorAll('iframe').forEach(function(f) {
+                    if (f.parentElement) ro.observe(f.parentElement);
+                });
             }
         })();
         """.trimIndent(), null
