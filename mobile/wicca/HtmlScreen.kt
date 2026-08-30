@@ -33,7 +33,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
     // Switch to full screen when browsing to avoid layout issues with 3D engines
     if (viewModel.viewMode == ViewMode.BROWSER) {
         Box(modifier = Modifier.fillMaxSize()) {
-            key(viewModel.url) { 
+
                 AndroidView(
                     modifier = Modifier.fillMaxSize(),
                     factory = { context ->
@@ -52,31 +52,59 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                     Log.d("WebViewFlow", "Page finished: $url - Injecting Path & Layout Fix")
                                     view?.evaluateJavascript(
                                         """
-                                        (function() {
-                                            // 1. Force explicit heights (avoid vh bugs)
-                                            var h = window.innerHeight + 'px';
-                                            var style = document.createElement('style');
-                                            style.innerHTML = `
-                                                html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; }
-                                                .main-viewport { height: ' + h + ' !important; display: block !important; }
-                                                .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; }
-                                                .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; border: 2px solid blue !important; }
-                                            `;
-                                            document.head.appendChild(style);
+    (function() {
+        // Stilleri ve Iframe yollarını düzelten ana fonksiyon
+        function applyFixes() {
+            var h = window.innerHeight + 'px';
+            
+            // 1. CSS Stillerini Enjekte Etme veya Güncelleme
+            var styleId = 'webview-layout-fix';
+            var style = document.getElementById(styleId);
+            if (!style) {
+                style = document.createElement('style');
+                style.id = styleId;
+                document.head.appendChild(style);
+            }
+            style.innerHTML = `
+                html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; }
+                .main-viewport { height: ' + h + ' !important; display: block !important; }
+                .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; }
+                .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; border: 2px solid blue !important; }
+            `;
 
-                                            // 2. Fix Iframe Paths (Absolute URLs)
-                                            document.querySelectorAll('iframe').forEach(f => {
-                                                if (f.src && !f.src.startsWith('http')) {
-                                                    var absolute = new URL(f.getAttribute('src'), window.location.href).href;
-                                                    console.log("WebViewAssetDebug: Converting relative iframe src to: " + absolute);
-                                                    f.src = absolute;
-                                                }
-                                            });
+            // 2. Iframe Linklerini Mutlak Değere Dönüştürme
+            document.querySelectorAll('iframe').forEach(f => {
+                if (f.src && !f.src.startsWith('http')) {
+                    var absolute = new URL(f.getAttribute('src'), window.location.href).href;
+                    if (f.src !== absolute) {
+                        console.log("WebViewAssetDebug: Converting relative iframe src to: " + absolute);
+                        f.src = absolute;
+                    }
+                }
+            });
 
-                                            // 3. Trigger Resize to wake up WebGL
-                                            window.dispatchEvent(new Event('resize'));
-                                        })();
-                                        """.trimIndent(), null
+            // 3. WebGL ve Üç Boyutlu Motorları Uyandırmak İçin Resize Tetikleme
+            window.dispatchEvent(new Event('resize'));
+        }
+
+        // Sayfa tamamen hazır olduğunda ilk çalıştırma
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', applyFixes);
+        } else {
+            applyFixes();
+        }
+
+        // EĞER ELEMENTLER GEÇ YÜKLENİYORSA: DOM değişikliklerini izleyip yakalama
+        var observer = new MutationObserver(function(mutations) {
+            applyFixes();
+        });
+        observer.observe(document.body || document.documentElement, { 
+            childList: true, 
+            subtree: true 
+        });
+
+    })();
+    """.trimIndent(), null
                                     )
                                 }
 
@@ -142,7 +170,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                         }
                     }
                 )
-            }
+
             
             // Floating Back Button
             Button(
