@@ -52,51 +52,57 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                     Log.d("WebViewFlow", "Page finished: $url - Injecting Path & Layout Fix")
                                     view?.evaluateJavascript(
                                         """
-    (function() {
-        // Stilleri ve Iframe yollarını düzelten ana fonksiyon
-function applyFixes() {
-    var h = window.innerHeight + 'px';
-    var currentOrigin = window.location.origin; 
-    var currentFullUrl = window.location.href;
+(function() {
+        // 1. Ana Fonksiyon Tanımlaması Başlangıcı
+        function applyFixes() {
+            var h = window.innerHeight + 'px';
+            
+            // Layout ve Stilleri Sabitleme
+            var styleId = 'webview-layout-fix';
+            var style = document.getElementById(styleId);
+            if (!style) {
+                style = document.createElement('style');
+                style.id = styleId;
+                document.head.appendChild(style);
+            }
+            style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; display: block !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
 
-    var styleId = 'webview-layout-fix';
-    var style = document.getElementById(styleId);
-    if (!style) {
-        style = document.createElement('style');
-        style.id = styleId;
-        document.head.appendChild(style);
-    }
-    style.innerHTML = `
-        html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; }
-        .main-viewport { height: ' + h + ' !important; display: block !important; }
-    `;
+            // Güvenli Dinamik URL Dönüştürme
+            document.querySelectorAll('img, iframe').forEach(function(el) {
+                var src = el.getAttribute('src');
+                if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+                    try {
+                        var base = window.location.origin + window.location.pathname;
+                        var absolute = new URL(src, base).href;
+                        if (el.src !== absolute) {
+                            el.src = absolute;
+                        }
+                    } catch(e) {
+                        var cleanSrc = src.startsWith('/') ? src : '/' + src;
+                        el.src = window.location.origin + cleanSrc;
+                    }
+                }
+            });
 
-    document.querySelectorAll('img, iframe').forEach(el => {
-        var src = el.getAttribute('src');
-        if (src && !src.startsWith('http') && !src.startsWith('data:')) {
-            el.src = new URL(src, currentFullUrl).href;
-        }
-    });
+            // WebGL ve Üç Boyutlu Motorları Tetikleme
+            window.dispatchEvent(new Event('resize'));
+        } // <-- DOĞRU YER: applyFixes fonksiyonu burada bitmeli!
 
-    window.dispatchEvent(new Event('resize'));
-}
-
-        // Sayfa tamamen hazır olduğunda ilk çalıştırma
+        // DOM Tamamen Yüklendiğinde Veya Sonrasında Anında Tetikle
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', applyFixes);
         } else {
             applyFixes();
         }
 
-        // EĞER ELEMENTLER GEÇ YÜKLENİYORSA: DOM değişikliklerini izleyip yakalama
+        // DOM'a sonradan asenkron enjekte edilen elementleri izleme
         var observer = new MutationObserver(function(mutations) {
             applyFixes();
         });
-        observer.observe(document.body || document.documentElement, { 
-            childList: true, 
-            subtree: true 
-        });
-
+        
+        if (document.body) {
+            observer.observe(document.body, { childList: true, subtree: true });
+        }
     })();
     """.trimIndent(), null
                                     )
