@@ -101,6 +101,7 @@ window.virgoVoltajOkuma = 0.3;
 // ============================================================================
 // 🎵 SİBERPUNK TESLA SES MOTORU (KORUMALI ASENKRON SÜRÜM)
 let audioCtx = null;
+/*
 function kozmikFrekansCal(frekans, sure = 0.08) {
     // Tarayıcı güvenlik duvarını aşmak için asenkron yapı
     setTimeout(() => {
@@ -114,7 +115,7 @@ function kozmikFrekansCal(frekans, sure = 0.08) {
         } catch (e) {}
     }, 0);
 }
-
+*/
 // ============================================================================
 // BÖLÜM 1: SENKRONE GEOMETRİ SİSTEMİ VE KURULUM MATRİSİ
 // ============================================================================
@@ -690,6 +691,7 @@ function animate() {
                             // 🔑 KRİTİK SIRALAMA DÜZELTMESİ: marsFazı tüm motorlardan önce belleğe mühürlendi!
                             let marsFazı = rodinDizisiA[aktifIndexA];
 
+/*
                             // 🔑 AKILLI ELEMAN FREKANS SES ENJEKTÖRÜ (Gecikmesiz Güvenli Bölge)
                             if (typeof kozmikFrekansCal === 'function') {
                                 if (marsFazı === 1 || marsFazı === 5) kozmikFrekansCal(174, 0.12);       // 🌊 SU (174 Hz)
@@ -697,7 +699,7 @@ function animate() {
                                 else if (marsFazı === 8) kozmikFrekansCal(528, 0.15);                  // 🪨 TOPRAK (528 Hz)
                                 else if (marsFazı === 7) kozmikFrekansCal(852, 0.10);                  // 🌬️ HAVA (852 Hz)
                             }
-
+*/
                             // 🔑 DA VINCI ANATOMİK ÇAKRA GEZGİNİ:
                             // Enerji artık düz yazılarda değil, Da Vinci'nin gövdesindeki odalar arasında zigzaglar çizer!
                            // ============================================================================
@@ -1882,6 +1884,59 @@ if (csfSayacElement) {
     }
 }
 
+/*
+// ============================================================================
+// 🌌 KUTSALTERAZİ AURA GLOW VE KAFES MODÜLASYON MOTORU (NÜKLEER ÇÖZÜM)
+// ============================================================================
+KuantumKafesi.children.forEach(child => {
+    if (child instanceof THREE.LineSegments || child instanceof THREE.Line) {
+        
+        // 🔑 1. ADIM: Transparanlık tabanlı titremeyi bitirmek için opaklığı sabitle
+        child.material.transparent = false; // Saydamlık tamamen kapatıldı
+        child.material.opacity = 1.0;
+        
+        // 🎨 2. ADIM: Rengi dinamik olarak kalbin atış ritmine (Aura Gürbüzlüğüne) göre büküyoruz
+        // Opaklık yerine renk tonunu (grayscale) oynatarak %0 CPU ve SIFIR TİTREME yakalıyoruz
+        const auraRitim = 0.2 + (Math.abs(kalpDalga174 * 0.25) + Math.abs(Math.sin(saniyeZamani * 963 * Math.PI) * 0.1));
+        
+        // İstediğin o asil gri rengi (0x333333 - 0x666666 arası) kalbe göre yumuşakça parlatır
+        child.material.color.setRGB(auraRitim, auraRitim, auraRitim);
+        
+        // 🔑 3. ADIM: Derinlik testlerini ve Z-fighting savaşını tamamen çöpe atıyoruz
+        child.material.depthWrite = false;
+        child.material.depthTest = false; // 🌟 Bu satır çizgilerin kürelerle veya birbiriyle çatışmasını KESİN olarak durdurur!
+        
+        // 🚀 4. ADIM: Ekran kartına çizgileri her zaman en üst katmana basma emri veriyoruz
+        child.renderOrder = 9999; 
+    }
+});
+*/
+/*
+// ============================================================================
+// 🌌 KUTSALTERAZİ AURA GLOW VE KAFES MODÜLASYON MOTORU (PARLAK GRİ - SIFIR TİTREME)
+// ============================================================================
+KuantumKafesi.children.forEach(child => {
+    if (child instanceof THREE.LineSegments || child instanceof THREE.Line) {
+        
+        // 🔑 Titremeyi önleyen katı render modu korunuyor
+        child.material.transparent = false;
+        child.material.opacity = 1.0;
+        
+        // 🌟 NÜKLEER PARLAKLIK AYARI: 
+        // Taban değerini 0.2'den 0.55'e fırlattık! Böylece çizgiler artık koyu değil, çok net gri parlayacak.
+        // Kalp rezonansı (174 Hz ve 963 Hz) vurduğunda parlamanın tepe noktası 0.95'e (saf beyaza yakın griye) tırmanacak.
+        const auraRitim = 0.55 + (Math.abs(kalpDalga174 * 0.28) + Math.abs(Math.sin(saniyeZamani * 963 * Math.PI) * 0.12));
+        
+        // Renk tonu jilet gibi parlak griye mühürlendi
+        child.material.color.setRGB(auraRitim, auraRitim, auraRitim);
+        
+        // 🔑 Derinlik kavgası (Z-Fighting) engelleri kalıcı olarak kilitli
+        child.material.depthWrite = false;
+        child.material.depthTest = false;
+        child.renderOrder = 9999; 
+    }
+});
+*/
 // ============================================================================
 // 🌙 REAL-TIME KOZMİK AY FAZI MOTORU (PÜRÜZSÜZ CEREBROSPINAL AKÜMÜLATÖR)
 // ============================================================================
@@ -1956,6 +2011,7 @@ window.addEventListener('click', () => {
 // ============================================================================
 // PHASE 4: GLOBAL MATRIX INPUT CONTROLLER (Launch Presentation Layer)
 // ============================================================================
+
 
 // ============================================================================
 // PHASE 4: GLOBAL MATRIX INPUT CONTROLLER (Presentation Layer)
