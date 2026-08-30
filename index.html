@@ -64,23 +64,27 @@
         /* 🏗️ ANA VİEWPORT (İlk Ekran Bölümü) */
         .main-viewport { position: relative; width: 100vw; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
 
-        /* 🖼️ ORIGINAL SALVADOR */
-        .salvador-image {
-        position: absolute;
-        height: auto;
-        width: 80vw;
-        max-width: 600px;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        object-fit: contain;
-        z-index: 1;
-        /* 🪄 Resmi kenarlardan hafifçe yumuşatmak için geçiş efekti */
-       /* 🔮 Orb ve elleri kurtaran elips maske ayarı */
-        mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
-        -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
-
-        }
+       /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ VE GENEL MERKEZLEME AYARI) */
+.salvador-image {
+    position: absolute;
+    height: auto;
+    width: 80vw;
+    max-width: 600px;
+    
+    /* 🔥 BÜYÜK EKRANDA DA TAM ORTALAMA: Sabit %35 yerine tam %50 dikey merkeze alıyoruz */
+    top: 50%;
+    left: 50%;
+    
+    /* Hem x hem y ekseninde %50 geri çekerek tam göbekten merkezliyoruz */
+    transform: translate(-50%, -50%);
+    
+    object-fit: contain;
+    z-index: 1;
+    
+    /* Orb ve elleri kurtaran orijinal maske ayarların aynen kalıyor */
+    mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+}
         /* 🛸 METATRON 3D ÇEKİRDEK */
         .metatron-three-iframe-holder { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
         .metatron-iframe { width: 100%; height: 100%; border: none; }
