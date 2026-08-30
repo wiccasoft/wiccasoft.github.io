@@ -65,23 +65,19 @@
         .main-viewport { position: relative; width: 100vw; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
 
        /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ VE GENEL MERKEZLEME AYARI) */
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
-    height: auto;
-    width: 60%;
-    max-width: 600px;
-    
-    /* 🔥 BÜYÜK EKRANDA DA TAM ORTALAMA: Sabit %35 yerine tam %50 dikey merkeze alıyoruz */
-    top: 50%;
-    left: 50%;
-    
-    /* Hem x hem y ekseninde %50 geri çekerek tam göbekten merkezliyoruz */
-    transform: translate(-50%, -50%);
-    
+    width: 100% !important;
+    max-width: 500px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    height: auto !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
     object-fit: contain;
     z-index: 1;
-    
-    /* Orb ve elleri kurtaran orijinal maske ayarların aynen kalıyor */
+    opacity: 0.95 !important;
+    filter: brightness(1.1) !important;
     mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
     -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
 }
@@ -183,6 +179,12 @@
         overflow: hidden !important;
     }
 
+      /* 📱 Sadece telefonlarda resmi büyüten ve ekrana oturtan mobil kilit */
+    .salvador-image {
+        width: 85vw !important; /* Telefonda genişliği baz alarak harika kaplamasını sağlar */
+        max-width: none !important; /* Masaüstü kısıtlamasını mobilde kırar */
+        top: 45% !important; /* Telefonda biraz yukarı kaydırır */
+    }
     /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
     .hero-content-layer {
         position: relative !important;
