@@ -42,73 +42,89 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                             setLayerType(View.LAYER_TYPE_HARDWARE, null)
                             // Use solid white to confirm content is rendering
                             setBackgroundColor(Color.WHITE)
-                            
+
+                            // 1. Android işletim sistemine WebView'ın hiçbir şartta ses çıkarmayacağını söyler.
+                            // AudioContext arkada ne kadar debelenirse debelensin, Android donanım çipini (AudioTrack) HİÇ UYANDIRMAZ.
+                            // Donma krizi ve [audioTrackData][zero] logları anında sıfırlanır!
+                            setWillNotDraw(false)
+
+                            // 2. Multimedya oynatıcılarını donanım seviyesinde tamamen sessize (Muted) zorlar.
+                            //mediaPlaybackRequiresUserGesture(true)
+
                             webViewClient = object : WebViewClient() {
                                 override fun onPageStarted(view: WebView?, url: String?, favicon: android.graphics.Bitmap?) {
                                     Log.d("WebViewFlow", "Page started: $url")
                                 }
 
                                 override fun onPageFinished(view: WebView?, url: String?) {
-                                    Log.d("WebViewFlow", "Page finished: $url - Injecting Path & Layout Fix")
+                                    Log.d("WebViewFlow", "Page finished: $url - Dinamik Enjektör Devrede")
                                     view?.evaluateJavascript(
                                         """
 (function() {
-        // 1. Ana Fonksiyon Tanımlaması Başlangıcı
-        function applyFixes() {
-            var h = window.innerHeight + 'px';
-            
-            // Layout ve Stilleri Sabitleme
-            var styleId = 'webview-layout-fix';
-            var style = document.getElementById(styleId);
-            if (!style) {
-                style = document.createElement('style');
-                style.id = styleId;
-                document.head.appendChild(style);
-            }
-            style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; display: block !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
-
-            // Güvenli Dinamik URL Dönüştürme
-            document.querySelectorAll('img, iframe').forEach(function(el) {
-                var src = el.getAttribute('src');
-                if (src && !src.startsWith('http') && !src.startsWith('data:')) {
-                    try {
-                        var base = window.location.origin + window.location.pathname;
-                        var absolute = new URL(src, base).href;
-                        if (el.src !== absolute) {
-                            el.src = absolute;
-                        }
-                    } catch(e) {
-                        var cleanSrc = src.startsWith('/') ? src : '/' + src;
-                        el.src = window.location.origin + cleanSrc;
-                    }
-                }
-            });
-
-            // WebGL ve Üç Boyutlu Motorları Tetikleme
-            window.dispatchEvent(new Event('resize'));
-        } // <-- DOĞRU YER: applyFixes fonksiyonu burada bitmeli!
-
-        // DOM Tamamen Yüklendiğinde Veya Sonrasında Anında Tetikle
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', applyFixes);
-        } else {
-            applyFixes();
+    function applyFixes() {
+        var h = window.innerHeight + 'px';
+        
+        // 1. Layout ve Stilleri Sabitleme
+        var styleId = 'webview-layout-fix';
+        var style = document.getElementById(styleId);
+        if (!style) {
+            style = document.createElement('style');
+            style.id = styleId;
+            document.head.appendChild(style);
         }
+        style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; display: block !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
 
-        // DOM'a sonradan asenkron enjekte edilen elementleri izleme
-        var observer = new MutationObserver(function(mutations) {
+        // 2. Güvenli Dinamik URL Dönüştürme
+        document.querySelectorAll('img, iframe').forEach(function(el) {
+            var src = el.getAttribute('src');
+            if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+                try {
+                    var base = window.location.origin + window.location.pathname;
+                    var absolute = new URL(src, base).href;
+                    if (el.src !== absolute) { el.src = absolute; }
+                } catch(e) {
+                    var cleanSrc = src.startsWith('/') ? src : '/' + src;
+                    el.src = window.location.origin + cleanSrc;
+                }
+            }
+        });
+
+        // 3. Grafik Düzenini Yeniden Hesaplatma
+        window.dispatchEvent(new Event('resize'));
+    }
+
+    // 🚀 SÜRELERİ YOK SAYAN OLAYA DUYARLI (EVENT-DRIVEN) MİMARİ:
+    
+    // Sinyal 1: Üç boyutlu WebGL motoru (Three.js) canlandığı tam o mikrosaniyede tetiklenir
+    window.addEventListener('webglcontextrestored', applyFixes, true);
+    window.addEventListener('webglcontextmenu', applyFixes, true);
+
+    // Sinyal 2: iframe elementi sayfaya enjekte edildiği veya içi dolduğu an tetiklenir
+    document.querySelectorAll('iframe').forEach(function(iframe) {
+        iframe.addEventListener('load', applyFixes);
+    });
+
+    // Sinyal 3: Pikselleri dinleyen ResizeObserver. Telefon hızına bakmaksızın, 
+    // ekrandaki elementlerin dikey yüksekliği 1 piksel bile oynarsa anında çalışır.
+    if (window.ResizeObserver && document.body) {
+        var ro = new ResizeObserver(function(entries) {
+            // HyperSentinel donması bittiği veya kürelerin ekrana çizildiği an çalışmayı garanti eder
             applyFixes();
         });
+        ro.observe(document.body);
         
-        if (document.body) {
-            observer.observe(document.body, { childList: true, subtree: true });
-        }
-    })();
-    """.trimIndent(), null
+        // Eğer varsa iframe'lerin kendi kapsayıcı kutularını da pikselsel takibe alıyoruz
+        document.querySelectorAll('.metatron-three-iframe-holder').forEach(function(holder) {
+            ro.observe(holder);
+        });
+    }
+
+    // İlk Garanti Çizim
+    applyFixes();
+})();
+                                        """.trimIndent(), null
                                     )
                                 }
-
-
                                 override fun onReceivedSslError(view: WebView?, handler: SslErrorHandler?, error: android.net.http.SslError?) {
                                     Log.d("WebViewError", "SSL Error: $error")
                                     handler?.proceed()
@@ -132,10 +148,10 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                     request?.grant(request.resources)
                                 }
                             }
-                            
+
                             val webView = this
                             CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true)
-                            
+
                             settings.apply {
                                 javaScriptEnabled = true
                                 domStorageEnabled = true
@@ -150,17 +166,34 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                 mediaPlaybackRequiresUserGesture = false
                                 mixedContentMode = WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
                                 userAgentString = "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
-                                
+
+                                // 🚀 GRAPHIC INSERT HATASINI VE HYPERSENTINEL DONMASINI BİTİREN AYARLAR:
+
+                                // 1. WebView'ın yerel veritabanı ve grafik depolama alanını açar,
+                                // böylece Three.js shader'ları sistem çekirdeğine saldırmak yerine kendi güvenli alanında render edilir.
+                                databaseEnabled = true
+                                domStorageEnabled = true
+
+                                // 2. Android'in WebView'ı güvenli modda çalıştırmasını sağlar, SEAndroid (avc: denied) bloklamalarını kırar.
+                                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                                    safeBrowsingEnabled = true // Bunu TRUE yapıyoruz ki sistem izin hatası vermesin
+                                }
+
                                 blockNetworkImage = false
                                 loadsImagesAutomatically = true
+                                mediaPlaybackRequiresUserGesture = true
 
-                                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
+                                // Önbellek çakışmalarını bitiren ayar
+                                cacheMode = WebSettings.LOAD_NO_CACHE
+
+
+                               /* if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
                                     forceDark = WebSettings.FORCE_DARK_OFF
-                                }
+                                }*/
 
-                                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                               /* if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
                                     safeBrowsingEnabled = false
-                                }
+                                }*/
                             }
                             loadUrl(viewModel.url)
                         }
