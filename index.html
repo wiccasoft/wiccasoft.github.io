@@ -19,22 +19,6 @@
         top: 45% !important; /* Resmin dikey yerleşimini kürelerin arkasına odaklar */
         height: auto !important;
     }
-
-       /* 4. KRİTİK ALAN: 3D Küreleri (iframe) mobilde bir tık aşağıya kaydırıyoruz */
-    html body .metatron-three-iframe-holder {
-        position: absolute !important;
-        
-        /* 🔥 AŞAĞI KAYDIRMA AYARI: Dikey merkezi %50'den %54'e çekerek küreleri bir tık aşağı indiriyoruz */
-        top: 54% !important; 
-        left: 50% !important;
-        
-        /* Küre boyutu mobilde yazıyı ve butonları harika sarmalasın diye ölçeği koruyoruz */
-        transform: translate(-50%, -50%) scale(0.9) !important; 
-        width: 100vw !important;
-        height: 100vh !important;
-        z-index: 2 !important; /* Yazı katmanının arkasında kalmaya devam eder */
-        pointer-events: none !important; /* Butonların tıklanmasını engellemez */
-    }
         
         /* 🌊 ASTRO SMOOTH SCROLL & BODY CONFIG */
         body, html { 
