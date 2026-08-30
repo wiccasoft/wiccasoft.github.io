@@ -11,7 +11,18 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        
+         /* 5. Salvador Mundi resmini tam merkez noktasına kilitliyoruz */
+    html body .salvador-image {
+        position: absolute !important;
+        max-width: 95vw !important; /* Genişliği mobilde ekranı kaplayacak şekilde optimize ettik */
+        height: auto !important;
+        top: 50% !important; /* Masaüstündeki %35 prangasından kurtarıp tam %50 dikey merkeze alıyoruz */
+        left: 50% !important;
+        /* Hem x hem y ekseninde %50 geri çekerek tam göbekten merkezliyoruz */
+        transform: translate(-50%, -50%) !important; 
+        z-index: 1 !important;
+        opacity: 0.6 !important; /* Kürelerin parıltısı ön plana çıksın diye opaklık dengelendi */
+    }
         
         /* 🌊 ASTRO SMOOTH SCROLL & BODY CONFIG */
         body, html { 
