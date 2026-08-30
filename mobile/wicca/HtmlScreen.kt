@@ -57,72 +57,61 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                 }
 
                                 override fun onPageFinished(view: WebView?, url: String?) {
-                                    Log.d("WebViewFlow", "Page finished: $url - Dinamik Enjektör Devrede")
+                                    Log.d("WebViewFlow", "Page finished: $url - Chrome Tipi Yükleyici Devrede")
                                     view?.evaluateJavascript(
                                         """
-(function() {
-    function applyFixes() {
-        var h = window.innerHeight + 'px';
-        
-        // 1. Layout ve Stilleri Sabitleme
-        var styleId = 'webview-layout-fix';
-        var style = document.getElementById(styleId);
-        if (!style) {
-            style = document.createElement('style');
-            style.id = styleId;
-            document.head.appendChild(style);
-        }
-        style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; display: block !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
-
-        // 2. Güvenli Dinamik URL Dönüştürme
-        document.querySelectorAll('img, iframe').forEach(function(el) {
-            var src = el.getAttribute('src');
-            if (src && !src.startsWith('http') && !src.startsWith('data:')) {
-                try {
-                    var base = window.location.origin + window.location.pathname;
-                    var absolute = new URL(src, base).href;
-                    if (el.src !== absolute) { el.src = absolute; }
-                } catch(e) {
-                    var cleanSrc = src.startsWith('/') ? src : '/' + src;
-                    el.src = window.location.origin + cleanSrc;
+        (function() {
+            function applyFixes() {
+                var h = window.innerHeight + 'px';
+                
+                // 1. Layout ve Stilleri Sabitleme
+                var styleId = 'webview-layout-fix';
+                var style = document.getElementById(styleId);
+                if (!style) {
+                    style = document.createElement('style');
+                    style.id = styleId;
+                    document.head.appendChild(style);
                 }
+                style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; display: block !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: block !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
+
+                // 2. Güvenli Dinamik URL Dönüştürme
+                document.querySelectorAll('img, iframe').forEach(function(el) {
+                    var src = el.getAttribute('src');
+                    if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+                        try {
+                            var base = window.location.origin + window.location.pathname;
+                            var absolute = new URL(src, base).href;
+                            if (el.src !== absolute) { el.src = absolute; }
+                        } catch(e) {
+                            var cleanSrc = src.startsWith('/') ? src : '/' + src;
+                            el.src = window.location.origin + cleanSrc;
+                        }
+                    }
+                });
+
+                // 3. WebGL ve Üç Boyutlu Motorları Tetikleme (İframe'e Start Veren Salise)
+                window.dispatchEvent(new Event('resize'));
             }
-        });
 
-        // 3. Grafik Düzenini Yeniden Hesaplatma
-        window.dispatchEvent(new Event('resize'));
-    }
+            // 🔥 TRENİN KAÇMASINI ENGELLEYEN ANLIK KONTROL:
+            // Eğer sayfa çoktan yüklendiyse (readyState 'complete' veya 'interactive' ise)
+            // Hiç event beklememize gerek yok, doğrudan applyFixes() çalıştırıp iframe'e start veriyoruz!
+            if (document.readyState === 'complete' || document.readyState === 'interactive') {
+                applyFixes();
+            } else {
+                // Eğer mucizevi bir şekilde sayfa hâlâ yükleniyorsa dinlemeye devam et
+                document.addEventListener('DOMContentLoaded', applyFixes);
+            }
 
-    // 🚀 SÜRELERİ YOK SAYAN OLAYA DUYARLI (EVENT-DRIVEN) MİMARİ:
-    
-    // Sinyal 1: Üç boyutlu WebGL motoru (Three.js) canlandığı tam o mikrosaniyede tetiklenir
-    window.addEventListener('webglcontextrestored', applyFixes, true);
-    window.addEventListener('webglcontextmenu', applyFixes, true);
-
-    // Sinyal 2: iframe elementi sayfaya enjekte edildiği veya içi dolduğu an tetiklenir
-    document.querySelectorAll('iframe').forEach(function(iframe) {
-        iframe.addEventListener('load', applyFixes);
-    });
-
-    // Sinyal 3: Pikselleri dinleyen ResizeObserver. Telefon hızına bakmaksızın, 
-    // ekrandaki elementlerin dikey yüksekliği 1 piksel bile oynarsa anında çalışır.
-    if (window.ResizeObserver && document.body) {
-        var ro = new ResizeObserver(function(entries) {
-            // HyperSentinel donması bittiği veya kürelerin ekrana çizildiği an çalışmayı garanti eder
-            applyFixes();
-        });
-        ro.observe(document.body);
-        
-        // Eğer varsa iframe'lerin kendi kapsayıcı kutularını da pikselsel takibe alıyoruz
-        document.querySelectorAll('.metatron-three-iframe-holder').forEach(function(holder) {
-            ro.observe(holder);
-        });
-    }
-
-    // İlk Garanti Çizim
-    applyFixes();
-})();
-                                        """.trimIndent(), null
+            // DOM'a sonradan asenkron (Three.js ile sonradan) enjekte edilen elementleri izleme
+            var observer = new MutationObserver(function(mutations) {
+                applyFixes();
+            });
+            if (document.body) {
+                observer.observe(document.body, { childList: true, subtree: true });
+            }
+        })();
+        """.trimIndent(), null
                                     )
                                 }
                                 override fun onReceivedSslError(view: WebView?, handler: SslErrorHandler?, error: android.net.http.SslError?) {
