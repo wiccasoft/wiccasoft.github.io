@@ -850,8 +850,8 @@ const rodinIndeks = Math.floor(saniyeZamani * 1.5) % rodinDizisi.length; // 432 
 const aktifRodinDegeri = rodinDizisi[rodinIndeks];
 
 // 2. Alternatif Akım (AC) Kalp Titreşimi (174 Hz ve 852 Hz Girişimi)
-const kalpDalga174 = Math.sin(saniyeZamani * 174 * Math.PI);
-const kalpDalga852 = Math.sin(saniyeZamani * 852 * Math.PI);
+const kalpDalga174 = 1//Math.sin(saniyeZamani * 174 * Math.PI);
+const kalpDalga852 = 1//Math.sin(saniyeZamani * 852 * Math.PI);
 // Dalga şiddetini pozitif bir gürültüye çevirip arayüze basıyoruz
 const anlikKalpSinyali = 174 + Math.floor(kalpDalga174 * 5 + kalpDalga852 * 2);
 
