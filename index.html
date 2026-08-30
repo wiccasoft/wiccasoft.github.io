@@ -163,59 +163,70 @@
 
 /* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ KATMAN HİYERARŞİSİ */
+/* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ MERKEZLEME VE KATMAN HİYERARŞİSİ */
 @media (max-width: 768px) {
-    /* 1. Ana taşıyıcıyı mobilde dikey olarak esnetiyoruz */
+    /* 1. Ana taşıyıcıyı ekran yüksekliğine kilitliyor ve tam merkezleme flex yapısına alıyoruz */
     .main-viewport {
         height: 100vh !important;
         display: flex !important;
-        justify-content: center !important;
-        align-items: center !important;
+        flex-direction: column !important;
+        justify-content: center !important; /* Dikeyde tam ortalama */
+        align-items: center !important;     /* Yatayda tam ortalama */
+        position: relative !important;
+        overflow: hidden !important;
     }
 
-    /* 2. KRİTİK ALAN: Yazı ve butonları mobilde de zorla en ön katmana alıyoruz */
+    /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
     .hero-content-layer {
         position: relative !important;
-        z-index: 10 !important; /* Kürelerin kesinlikle önüne geçirir */
-        pointer-events: auto !important; /* Butonların tıklanabilir olmasını sağlar */
-        margin-top: 40px !important;
-        padding: 0 15px !important;
+        margin-top: 0 !important; /* Eski sabit üst boşlukları sıfırlıyoruz */
+        padding: 0 20px !important;
+        text-align: center !important;
+        z-index: 10 !important; /* 3D Kürelerin kesinlikle tam üstünde kalmasını sağlar */
+        pointer-events: auto !important; /* Butonların tıklanabilirliğini korur */
     }
 
-    /* 3. Mobilde devasa kalıp butonları ezen başlığı küçültüyoruz */
+    /* 3. Mobilde iç içe giren yazıları ve butonları dengeliyoruz */
     h1 {
         font-size: 2.2rem !important;
         letter-spacing: -0.5px !important;
-        margin-bottom: 10px !important;
+        margin-bottom: 8px !important;
     }
 
     p {
         font-size: 0.95rem !important;
         margin-bottom: 25px !important;
+        color: rgba(255, 255, 255, 0.8) !important;
     }
 
-    /* 4. KRİTİK ALAN: 3D Küreleri yazıların arkasına (arka plana) hapsediyoruz */
+    /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
     .metatron-three-iframe-holder {
         position: absolute !important;
         top: 50% !important;
         left: 50% !important;
-        transform: translate(-50%, -50%) scale(0.8) !important; /* Mobilde küreleri biraz küçülttük */
+        transform: translate(-50%, -50%) scale(0.9) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 100vw !important;
         height: 100vh !important;
         z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
-        pointer-events: none !important; /* İframe boşluklarının butonları engellemesini önler */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
     }
 
-    /* 5. İsa (Salvador Mundi) resmini en arka katmana alıyoruz */
+    /* 5. Salvador Mundi resmini en arka fon katmanına alıyoruz */
     .salvador-image {
-        max-width: 90vw !important;
-        top: 45% !important;
+        position: absolute !important;
+        max-width: 95vw !important;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
         z-index: 1 !important;
+        opacity: 0.6 !important; /* 3D küreler daha net seçilsin diye hafif karartıldı */
     }
 
-    /* 6. Alt kısımdaki wicca logosunu dengeliyoruz */
+    /* 6. Alt kısımdaki wicca ürün logosunun yerleşimi */
     .product-logo-container {
-        top: 86% !important;
-        max-width: 150px !important;
+        position: absolute !important;
+        bottom: 4% !important;
+        top: auto !important;
+        max-width: 140px !important;
         z-index: 11 !important;
     }
 }
