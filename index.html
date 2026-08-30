@@ -50,7 +50,13 @@
             align-items: center; 
             text-decoration: none; 
         }
-        
+      /* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
+@media (max-width: 768px) {
+  .product-logo-container {
+    top: 85%; /* Mobilde dikey yerleşimi buton mesafesine göre optimize eder */
+    max-width: 160px;
+  }
+}  
         
         /* 👑 HEADER *invert(0.5); /* 🌟 Renkli logoyu saf premium beyaza çevirir */
         header { position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: rgba(5, 5, 5, 0.85); backdrop-filter: blur(8px); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; z-index: 10; border-bottom: 1px solid rgba(168, 85, 247, 0.1); }
