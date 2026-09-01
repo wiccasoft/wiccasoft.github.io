@@ -35,9 +35,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
         Box(
             modifier = Modifier
                 .fillMaxSize()
-                // 🚀 CSS KAYMASINI ENGELLEYEN EN KRİTİK ANDROID AYARI:
-                // Sistem çubuklarının (Status Bar/Navigation Bar) WebView'ı yukarı veya aşağı
-                // itmesini tamamen engeller, alanı ekranın gerçek sıfır koordinatlarına kilitler.
+
                 .windowInsetsPadding(WindowInsets(0, 0, 0, 0))
         ) {
             AndroidView(
@@ -45,17 +43,18 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                 factory = { context ->
                     WebView.setWebContentsDebuggingEnabled(true)
                     WebView(context).apply {
-                        // Mevcut tüm WebView yapılandırmaların (setLayerType, settings vb.) AYNEN KALSIN...
-                            setLayerType(View.LAYER_TYPE_HARDWARE, null)
+
+
+                            setLayerType(View.LAYER_TYPE_NONE, null)
+                            //setLayerType(View.LAYER_TYPE_HARDWARE, null)
                             // Use solid white to confirm content is rendering
                             setBackgroundColor(Color.WHITE)
 
-                            // 1. Android işletim sistemine WebView'ın hiçbir şartta ses çıkarmayacağını söyler.
-                            // AudioContext arkada ne kadar debelenirse debelensin, Android donanım çipini (AudioTrack) HİÇ UYANDIRMAZ.
-                            // Donma krizi ve [audioTrackData][zero] logları anında sıfırlanır!
+                            isVerticalScrollBarEnabled = true
+                            isHorizontalScrollBarEnabled = false
+
                             setWillNotDraw(false)
 
-                            // 2. Multimedya oynatıcılarını donanım seviyesinde tamamen sessize (Muted) zorlar.
                             //mediaPlaybackRequiresUserGesture(true)
 
                             webViewClient = object : WebViewClient() {
@@ -64,69 +63,9 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                                 }
 
                                 override fun onPageFinished(view: WebView?, url: String?) {
-                                    Log.d("WebViewFlow", "Page finished: $url - Dinamik Tarayıcı Enjektörü Devrede")
-                                    view?.evaluateJavascript(
-                                        """
-        (function() {
-            function applyFixes() {
-                var h = window.innerHeight + 'px';
-                
-                // O an açık olan sitenin dinamik domain ve yol bilgilerini alıyoruz (Genel Tarayıcı İçin)
-                var currentOrigin = window.location.origin;
-                var currentBase = window.location.origin + window.location.pathname;
+                                    Log.d("WebViewFlow", "Page finished: $url - Doğal Çizim Modu Aktif")
+                                    // BURADAKİ BÜTÜN style.innerHTML ENJEKSİYONLARINI TAMAMEN KALDIRIN!
 
-                // 1. Layout ve Stilleri Sabitleme (MERKEZLEMEYİ BOZMAYAN YENİ AKIŞ)
-                var styleId = 'webview-layout-fix';
-                var style = document.getElementById(styleId);
-                if (!style) {
-                    style = document.createElement('style');
-                    style.id = styleId;
-                    document.head.appendChild(style);
-                }
-                // 🔥 DEĞİŞİKLİK: display: block kuralı silindi! Yerine sitenin orijinal flex/center yerleşimini koruyan esnek yapı getirildi.
-                style.innerHTML = 'html, body { height: ' + h + ' !important; margin: 0; padding: 0; background: white !important; } .main-viewport { height: ' + h + ' !important; } .metatron-three-iframe-holder { height: ' + h + ' !important; display: flex !important; justify-content: center !important; align-items: center !important; visibility: visible !important; } .metatron-iframe { height: 100% !important; width: 100% !important; display: block !important; }';
-
-                // 2. Güvenli Dinamik URL Dönüştürme (Genel Tarayıcı Modeli)
-                document.querySelectorAll('img, iframe, link[rel="stylesheet"], script').forEach(function(el) {
-                    var src = el.getAttribute('src') || el.getAttribute('href');
-                    var prop = el.hasAttribute('src') ? 'src' : 'href';
-                    
-                    if (src && !src.startsWith('http') && !src.startsWith('data:') && !src.startsWith('//')) {
-                        try {
-                            var absolute = new URL(src, currentBase).href;
-                            if (el[prop] !== absolute) { el[prop] = absolute; }
-                        } catch(e) {
-                            var cleanSrc = src.startsWith('/') ? src : '/' + src;
-                            el[prop] = currentOrigin + cleanSrc;
-                        }
-                    }
-                });
-
-                // 3. WebGL ve Üç Boyutlu Motorları Tetikleme
-                window.dispatchEvent(new Event('resize'));
-            }
-
-            // Trenin kaçmasını engelleyen anlık kontrol
-            if (document.readyState === 'complete' || document.readyState === 'interactive') {
-                applyFixes();
-            } else {
-                document.addEventListener('DOMContentLoaded', applyFixes);
-            }
-
-            // Three.js veya ağır CSS dosyaları sonradan yüklense bile pikselsel değişimi anında yakalar
-            if (window.ResizeObserver && document.body) {
-                var ro = new ResizeObserver(function(entries) {
-                    applyFixes();
-                });
-                ro.observe(document.body);
-                
-                document.querySelectorAll('iframe').forEach(function(f) {
-                    if (f.parentElement) ro.observe(f.parentElement);
-                });
-            }
-        })();
-        """.trimIndent(), null
-                                    )
                                 }
                                 override fun onReceivedSslError(view: WebView?, handler: SslErrorHandler?, error: android.net.http.SslError?) {
                                     Log.d("WebViewError", "SSL Error: $error")
@@ -172,7 +111,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
 
                                 // 🚀 GRAPHIC INSERT HATASINI VE HYPERSENTINEL DONMASINI BİTİREN AYARLAR:
 
-
+                                cacheMode = WebSettings.LOAD_DEFAULT
                                 // 1. WebView'ın yerel veritabanı ve grafik depolama alanını açar,
                                 // böylece Three.js shader'ları sistem çekirdeğine saldırmak yerine kendi güvenli alanında render edilir.
                                 databaseEnabled = true
