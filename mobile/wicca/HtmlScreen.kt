@@ -29,7 +29,7 @@ import androidx.compose.ui.viewinterop.AndroidView
 @Composable
 fun HtmlReaderScreen(viewModel: HtmlViewModel) {
     val scrollState = rememberScrollState()
-    
+
     // Switch to full screen when browsing to avoid layout issues with 3D engines
     if (viewModel.viewMode == ViewMode.BROWSER) {
         Box(
@@ -39,124 +39,61 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                 .windowInsetsPadding(WindowInsets(0, 0, 0, 0))
         ) {
             AndroidView(
-                modifier = Modifier.fillMaxSize(),
+                // 1. Modifiers alanında fillMaxSize() KULLANMIYORUZ.
+                // Çünkü Compose'un esnek ölçüm motoru WebView'ın alt katmanlarını eziyor.
+                modifier = Modifier,
                 factory = { context ->
                     WebView.setWebContentsDebuggingEnabled(true)
                     WebView(context).apply {
+                        // 2. CHROME GİBİ DOĞAL PENCERE (WINDOW) BOYUTLANDIRMASI:
+                        // WebView'a "Sen Compose'a göre değil, işletim sisteminin ham ekran boyutuna göre çizil" diyoruz.
+                        // Bu kural donanım ivmesindeki tüm SVG ve Iframe kaybolma sorunlarını kökten çözer.
+                        layoutParams = android.view.ViewGroup.LayoutParams(
+                            android.view.ViewGroup.LayoutParams.MATCH_PARENT,
+                            android.view.ViewGroup.LayoutParams.MATCH_PARENT
+                        )
 
+                        // Saf donanım ivmesi açık kalmalı, ağır 3D motoru için şart
+                        setLayerType(View.LAYER_TYPE_HARDWARE, null)
+                        setBackgroundColor(Color.TRANSPARENT)
 
-                            setLayerType(View.LAYER_TYPE_NONE, null)
-                            //setLayerType(View.LAYER_TYPE_HARDWARE, null)
-                            // Use solid white to confirm content is rendering
-                            setBackgroundColor(Color.WHITE)
+                        isVerticalScrollBarEnabled = true
+                        isHorizontalScrollBarEnabled = false
 
-                            isVerticalScrollBarEnabled = true
-                            isHorizontalScrollBarEnabled = false
-
-                            setWillNotDraw(false)
-
-                            //mediaPlaybackRequiresUserGesture(true)
-
-                            webViewClient = object : WebViewClient() {
-                                override fun onPageStarted(view: WebView?, url: String?, favicon: android.graphics.Bitmap?) {
-                                    Log.d("WebViewFlow", "Page started: $url")
-                                }
-
-                                override fun onPageFinished(view: WebView?, url: String?) {
-                                    Log.d("WebViewFlow", "Page finished: $url - Doğal Çizim Modu Aktif")
-                                    // BURADAKİ BÜTÜN style.innerHTML ENJEKSİYONLARINI TAMAMEN KALDIRIN!
-
-                                }
-                                override fun onReceivedSslError(view: WebView?, handler: SslErrorHandler?, error: android.net.http.SslError?) {
-                                    Log.d("WebViewError", "SSL Error: $error")
-                                    handler?.proceed()
-                                }
-
-                                override fun shouldInterceptRequest(view: WebView?, request: WebResourceRequest?): WebResourceResponse? {
-                                    Log.d("WebViewResource", "Loading: ${request?.url}")
-                                    return super.shouldInterceptRequest(view, request)
-                                }
-                                override fun onReceivedError(view: WebView?, request: WebResourceRequest?, error: WebResourceError?) {
-                                    Log.e("WebViewError", "Error: ${error?.description}")
-                                }
-                            }
-
-                            webChromeClient = object : WebChromeClient() {
-                                override fun onConsoleMessage(consoleMessage: ConsoleMessage?): Boolean {
-                                    Log.d("WebViewConsole", "${consoleMessage?.message()}")
-                                    return true
-                                }
-                                override fun onPermissionRequest(request: PermissionRequest?) {
-                                    request?.grant(request.resources)
-                                }
-                            }
-
-                            val webView = this
-                            CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true)
-
-                            settings.apply {
-                                javaScriptEnabled = true
-                                domStorageEnabled = true
-                                databaseEnabled = true
-                                allowFileAccess = true
-                                allowContentAccess = true
-                                allowUniversalAccessFromFileURLs = true
-                                allowFileAccessFromFileURLs = true
-                                loadWithOverviewMode = true
-                                useWideViewPort = true
-                                javaScriptCanOpenWindowsAutomatically = true
-                                mediaPlaybackRequiresUserGesture = true
-                                mixedContentMode = WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
-                                userAgentString = "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
-
-                                // 🚀 GRAPHIC INSERT HATASINI VE HYPERSENTINEL DONMASINI BİTİREN AYARLAR:
-
-                                cacheMode = WebSettings.LOAD_DEFAULT
-                                // 1. WebView'ın yerel veritabanı ve grafik depolama alanını açar,
-                                // böylece Three.js shader'ları sistem çekirdeğine saldırmak yerine kendi güvenli alanında render edilir.
-                                databaseEnabled = true
-                                domStorageEnabled = true
-
-                                // 2. Android'in WebView'ı güvenli modda çalıştırmasını sağlar, SEAndroid (avc: denied) bloklamalarını kırar.
-                                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-                                    safeBrowsingEnabled = true // Bunu TRUE yapıyoruz ki sistem izin hatası vermesin
-                                }
-
-                                blockNetworkImage = false
-                                loadsImagesAutomatically = true
-                                mediaPlaybackRequiresUserGesture = true
-
-                                // Önbellek çakışmalarını bitiren ayar
-                                cacheMode = WebSettings.LOAD_NO_CACHE
-
-
-                               /* if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
-                                    forceDark = WebSettings.FORCE_DARK_OFF
-                                }*/
-
-                               /* if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-                                    safeBrowsingEnabled = false
-                                }*/
-                            }
-                            loadUrl(viewModel.url)
+                        webViewClient = object : WebViewClient() {
+                            // JavaScript enjeksiyonları, style.innerHTML hileleri TAMAMEN SİLİNDİ.
+                            // Sadece saf uzak site yükleniyor.
                         }
-                    },
-                    update = { webView ->
-                        val currentUrl = webView.url ?: ""
 
-                        // Sadece WebView gerçekten bomboşsa veya geçersiz bir sayfadaysa URL yüklemesini başlat.
-                        // Sayfa bir kez yüklenmeye başladıktan sonra bu blok bir daha asla tetiklenmez,
-                        // böylece 3D motoru, iframe'leri ve resimleri tek bir temiz istekte bölemez!
-                        if (currentUrl.isEmpty() || currentUrl == "about:blank") {
-                            if (viewModel.url.isNotEmpty()) {
-                                Log.d("WebViewFlow", "Sayfa tek bir seferde yükleniyor: ${viewModel.url}")
-                                webView.loadUrl(viewModel.url)
-                            }
+                        settings.apply {
+                            javaScriptEnabled = true
+                            domStorageEnabled = true
+                            databaseEnabled = true
+
+                            // Ekran koordinatlarının uzak sitenin Viewport (100vh) kurallarıyla birebir eşleşmesini sağlar
+                            loadWithOverviewMode = true
+                            useWideViewPort = true
+
+                            // Chromium motorunun asenkron iframe'leri lazy-load ile doğal sırayla işlemesini sağlar
+                            cacheMode = WebSettings.LOAD_DEFAULT
+                            mixedContentMode = WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
+                        }
+
+                        loadUrl(viewModel.url)
+                    }
+                },
+                update = { webView ->
+                    // Güvenli tek seferlik yükleme döngüsü
+                    val currentUrl = webView.url ?: ""
+                    if (currentUrl.isEmpty() || currentUrl == "about:blank") {
+                        if (viewModel.url.isNotEmpty()) {
+                            webView.loadUrl(viewModel.url)
                         }
                     }
-                )
+                }
+            )
+      
 
-            
             // Floating Back Button
             Button(
                 onClick = { viewModel.viewMode = ViewMode.READER },
@@ -197,7 +134,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                 }
             }
             Spacer(modifier = Modifier.height(16.dp))
-            
+
             if (viewModel.isLoading) {
                 CircularProgressIndicator()
                 Spacer(modifier = Modifier.height(16.dp))
