@@ -11,14 +11,7 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
-  /* 📱 Sadece telefonlarda resmi büyüten ve ekrana oturtan mobil kilit */
-    /* 🔥 BAŞINA html body EKLEYEREK YUKARIDAKİ TÜM ETKİLERİ KESİN OLARAK EZİYORUZ */
-    html body .salvador-image {
-        width: 85vw !important; /* Telefonda genişliği zorla ekran boyutuna çekerek büyütür */
-        max-width: none !important; /* Masaüstündeki max-width: 500px sınırını mobilde parçalar */
-        top: 45% !important; /* Resmin dikey yerleşimini kürelerin arkasına odaklar */
-        height: auto !important;
-    }
+
         
         /* 🌊 ASTRO SMOOTH SCROLL & BODY CONFIG */
         body, html { 
@@ -89,7 +82,7 @@
     -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
 }
         /* 🛸 METATRON 3D ÇEKİRDEK */
-        .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
+        .metatron-three-iframe-holder { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
         .metatron-iframe { width: 100%; height: 100%; border: none; }
 
         /* 🌌 SİBERPUNK MASK TABAKASI */
@@ -171,6 +164,26 @@
   object-fit: contain;
 }
 
+
+
+/* Ekran genişliği EN AZ 1200px olduğunda (Masaüstünde) çalışır */
+@media (min-width: 1200px) {
+
+       .main-viewport {
+        height: 100vh !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important; /* Dikeyde tam ortalama */
+        align-items: center !important;     /* Yatayda tam ortalama */
+        position: relative !important;
+        overflow: hidden !important;
+    }
+
+    .salvador-image {
+        width: 500px !important; 
+    }
+}
+
 /* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ KATMAN HİYERARŞİSİ */
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ MERKEZLEME VE KATMAN HİYERARŞİSİ */
@@ -187,11 +200,16 @@
     }
 
       /* 📱 Sadece telefonlarda resmi büyüten ve ekrana oturtan mobil kilit */
-    .salvador-image {
-        width: 85vw !important; /* Telefonda genişliği baz alarak harika kaplamasını sağlar */
-        max-width: none !important; /* Masaüstü kısıtlamasını mobilde kırar */
-        top: 45% !important; /* Telefonda biraz yukarı kaydırır */
-    }
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+.salvador-image {
+    position: absolute;
+    width: 500px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
+    height: auto !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    z-index: 1;
+}
     /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
     .hero-content-layer {
         position: relative !important;
@@ -218,7 +236,7 @@
     /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
     .metatron-three-iframe-holder {
         position: absolute !important;
-        top: 60% !important;
+        top: 50% !important;
         left: 50% !important;
         transform: translate(-50%, -50%) scale(0.9) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 100vw !important;
