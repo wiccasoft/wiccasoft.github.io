@@ -39,15 +39,12 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                 .windowInsetsPadding(WindowInsets(0, 0, 0, 0))
         ) {
             AndroidView(
-                // 1. Modifiers alanında fillMaxSize() KULLANMIYORUZ.
-                // Çünkü Compose'un esnek ölçüm motoru WebView'ın alt katmanlarını eziyor.
+
                 modifier = Modifier,
                 factory = { context ->
                     WebView.setWebContentsDebuggingEnabled(true)
                     WebView(context).apply {
-                        // 2. CHROME GİBİ DOĞAL PENCERE (WINDOW) BOYUTLANDIRMASI:
-                        // WebView'a "Sen Compose'a göre değil, işletim sisteminin ham ekran boyutuna göre çizil" diyoruz.
-                        // Bu kural donanım ivmesindeki tüm SVG ve Iframe kaybolma sorunlarını kökten çözer.
+
                         layoutParams = android.view.ViewGroup.LayoutParams(
                             android.view.ViewGroup.LayoutParams.MATCH_PARENT,
                             android.view.ViewGroup.LayoutParams.MATCH_PARENT
@@ -92,7 +89,7 @@ fun HtmlReaderScreen(viewModel: HtmlViewModel) {
                     }
                 }
             )
-      
+
 
             // Floating Back Button
             Button(
