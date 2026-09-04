@@ -11,7 +11,19 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
+@font-face {
+    font-family: 'WiccaCustomFont'; /* Fonta vereceğimiz özel isim */
+    src: url('assets/forte.woff2') format('woff2'), /* Ana web formatı */
+         url('assets/forte.ttf') format('truetype'); /* Bilgisayarındaki orijinal format */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; /* Sayfa yükleme hızını uçuran kritik kural */
+}
 
+
+body, html, h1, p, .btn {
+    font-family: 'WiccaCustomFont', sans-serif !important;
+}
         
         /* 🌊 ASTRO SMOOTH SCROLL & BODY CONFIG */
         body, html { 
@@ -94,6 +106,18 @@
         .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
         .metatron-iframe { width: 100%; height: 100%; border: none; }
 
+
+        /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
+.art-core-container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    pointer-events: none;
+}
         /* 🌌 SİBERPUNK MASK TABAKASI */
         .cyber-dark-overlay {
             position: absolute;
@@ -198,7 +222,7 @@
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ MERKEZLEME VE KATMAN HİYERARŞİSİ */
 @media (max-width: 768px) {
     /* 1. Ana taşıyıcıyı ekran yüksekliğine kilitliyor ve tam merkezleme flex yapısına alıyoruz */
-    .main-viewport {
+ .main-viewport {
         height: 100vh !important;
         display: flex !important;
 
@@ -277,32 +301,32 @@
         </nav>
     </header>
 
-    <!-- 🌌 İlk Katman: Kahraman Alanı -->
-    <main class="main-viewport">
-        <img src="salvador_mundi.jpg" alt="Salvador Mundi Art" class="salvador-image" />
-        
+<!-- 🌌 İlk Katman: Kahraman Alanı -->
+<main class="main-viewport">
+    
+
+    <div class="art-core-container">
+        <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" />
         <div class="metatron-three-iframe-holder">
             <iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true"></iframe>
         </div>
+    </div>
 
-        <div class="cyber-dark-overlay"></div>
+    <div class="cyber-dark-overlay"></div>
 
-        <div class="hero-content-layer">
-            <h1>All in One <span>Browser</span></h1>
-            <p>Browse the world at the speed of light with electron infrastructure</p>
-            <div class="btn-container">
-                <a href="#features" class="btn btn-features">features</a>
-                <a href="#" class="btn btn-download">get for desktop</a>
-            </div>
-
-                <!-- 📐 Buton Altı Orijinal Wicca Matris Logosu -->
-
+    <div class="hero-content-layer">
+        <h1>All in One <span>Browser</span></h1>
+        <p>Browse the world at the speed of light with electron infrastructure</p>
+        <div class="btn-container">
+            <a href="#features" class="btn btn-features">features</a>
+            <a href="#" class="btn btn-download">get for desktop</a>
         </div>
+    </div>
 
-        <div class="product-logo-container">
-  <img src="logo-product-paper-1.svg" alt="Wicca Logo" class="wicca-product-logo">
-</div>
-    </main>
+    <div class="product-logo-container">
+        <img src="logo-product-paper-1.svg" alt="Wicca Logo" class="wicca-product-logo">
+    </div>
+</main>
 
 
 
