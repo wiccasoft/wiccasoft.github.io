@@ -36,17 +36,16 @@
   <defs
      id="defs1">
 
-      <style>
+         <style type="text/css">
       @font-face {
         font-family: 'WiccaCustomFont';
-        /* SVG kök dizinde olduğu için assets klasörüne bu şekilde ulaşır */
-        src: url('assets/FORTE.woff2') format('woff2'),
-             url('assets/FORTE.TTF') format('truetype');
+        /* Dönüştürücüden aldığınız o çok uzun metni buradaki url'nin içine yapıştırın */
+        src: url('data:font/woff2;base64,BURAYA_GELEN_UZUN_BASE64_KODUNU_YAPIŞTIRIN') format('woff2');
         font-weight: normal;
         font-style: normal;
       }
       
-      /* SVG içindeki yazı yazan text etiketlerini bu fonta zorluyoruz */
+      /* SVG'nizin içindeki yazı elementlerini bu fonta kilitliyoruz */
       text, tspan {
         font-family: 'WiccaCustomFont', sans-serif !important;
       }
