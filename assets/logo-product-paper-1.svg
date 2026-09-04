@@ -35,6 +35,22 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+
+      <style>
+      @font-face {
+        font-family: 'WiccaCustomFont';
+        /* SVG kök dizinde olduğu için assets klasörüne bu şekilde ulaşır */
+        src: url('assets/FORTE.woff2') format('woff2'),
+             url('assets/FORTE.TTF') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+      }
+      
+      /* SVG içindeki yazı yazan text etiketlerini bu fonta zorluyoruz */
+      text, tspan {
+        font-family: 'WiccaCustomFont', sans-serif !important;
+      }
+    </style>
     <linearGradient
        id="linearGradient1"
        inkscape:collect="always">
