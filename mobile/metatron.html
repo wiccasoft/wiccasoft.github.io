@@ -1984,28 +1984,73 @@ if (ayFaziElement) {
 
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
-
 // ============================================================================
-// 🌈 SAF 124875 ELEMENT MOTORU: ÇERÇEVE SENKRONİZASYON MÜHÜRÜ (SIFIR LAG)
+// 🌈 SAF 124875 ELEMENT DİNAMO MOTORU (ELİPSLEŞMEYİ BİTİREN RE-DESIGN)
 // ============================================================================
-// Dışarıdaki index.html içinde yaşayan ana I Ching katmanını yakalıyoruz
-const masterCerceve = window.parent.document.getElementById("iching-master-frame") || document.getElementById("iching-master-frame");
+if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined') {
+    KuantumKafesi.rotation.y = Math.PI / 2; 
 
-if (masterCerceve && typeof saniyeZamani !== 'undefined') {
-    // 🎛️ 74 BPM Biyolojik Kalp Atışı ile Çarkın Zaman Dişlisi
-    // saniyeZamani değişkeni (74/60) hızıyla akarken, çarkı SAAT YÖNÜNÜN TERSİNE (minus) büker
-    // 79 sayısı, o senin bahsettiğin kütleçekimsel makro döngü yılı ivmesidir
-    let akisAcisi = -(saniyeZamani * (74 / 60) * 79) % 360;
+    // 🔑 ELİPS ENGELİNİ YIRTAN EN-BOY ORANI (ASPECT RATIO) HESABI:
+    const genislik = window.innerWidth;
+    const yukseklik = window.innerHeight;
+    const aspect = genislik / yukseklik;
 
-    // 🔑 TAM SENİN FORMÜLE ETTİĞİN SAF ELEMENT / SAYI GEÇİŞ GEOMETRİSİ:
-    // Kırmızı ➔ Turuncu ➔ Yeşil ➔ Mavi (Sıfır Nota, Saf İkili Kod Spektrumu)
-    masterCerceve.style.borderImage = `conic-gradient(
-        from ${akisAcisi}deg,
-        #ff0000 0% 25%,   /* 🔴 KIRMIZI (Ateş / 1-2): Başlangıç İvmesi */
-        #ff6600 25% 50%,  /* 🟠 TURUNCU (Hava / 4-8): Yükselen Akım */
-        #00ff00 50% 75%,  /* 🟢 YEŞİL (Toprak / 8-7): Kristalizasyon */
-        #0000ff 75% 100%  /* 🔵 MAVİ (Su / 7-1): Merkeze Çöküş (2 Ton) */
-    ) 1`;
+    if (!scene.getObjectByName("IchingMasterKalkani")) {
+        // Halkanın dairesel geometrisini tam 1.5 ölçek tabanında başlatıyoruz
+        const halkaGeo = new THREE.RingGeometry(1.48, 1.52, 64);
+        
+        const halkaMat = new THREE.MeshBasicMaterial({
+            vertexColors: true,
+            side: THREE.DoubleSide,
+            transparent: true,
+            opacity: 0.85,
+            depthWrite: false,
+            depthTest: false // Kafesin arkasına sızmayı ve bükülmeyi engeller
+        });
+
+        // 64 Hekzagram piksel boyama döngüsü (Aynen kalıyor)
+        const colors = [];
+        const renkSkalasi = [
+            new THREE.Color(0xff0000), // 🔴 KIRMIZI (Ateş / 1-2)
+            new THREE.Color(0xff6600), // 🟠 TURUNCU (Hava / 4-8)
+            new THREE.Color(0x00ff00), // 🟢 YEŞİL (Toprak / 8-7)
+            new THREE.Color(0x0000ff)  // 🔵 MAVİ (Su / 7-1)
+        ];
+
+        for (let i = 0; i <= 64; i++) {
+            let elementSegmenti = Math.floor(i / 16) % 4;
+            let c = renkSkalasi[elementSegmenti];
+            colors.push(c.r, c.g, c.b);
+            colors.push(c.r, c.g, c.b);
+        }
+
+        halkaGeo.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3));
+        const masterKalkanMesh = new THREE.Mesh(halkaGeo, halkaMat);
+        masterKalkanMesh.name = "IchingMasterKalkani";
+        masterKalkanMesh.position.set(0, 0, 0); 
+        scene.add(masterKalkanMesh);
+    }
+
+    const masterKalkan = scene.getObjectByName("IchingMasterKalkani");
+    if (masterKalkan) {
+        // 🔑 KESİN ÇÖZÜM MATRİSİ:
+        // Eğer ekran genişse, halkanın X aksındaki basıklığını aspect ratio ile esneterek 
+        // elips görüntüsünü sıfırlıyoruz ve ekranın dış hatlarına tam kare/çerçeve gibi oturtuyoruz!
+        if (aspect > 1) {
+            masterKalkan.scale.set(aspect, 1, 1);
+        } else {
+            masterKalkan.scale.set(1, 1 / aspect, 1);
+        }
+
+        // 74 BPM hızında donanım ivmeli asimetrik dönüş tetikleyicisi
+        masterKalkan.rotation.z = -(saniyeZamani * (74 / 60) * 79 * (Math.PI / 180));
+
+        // 🫀 74 BPM Kalp Vuruş Parlaması (200 ms tepe akımı)
+        const kalpAteslemeSinyali = saniyeZamani * (74 / 60);
+        const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+        
+        masterKalkan.material.opacity = ateslemeRitmi ? 0.95 : 0.25;
+    }
 }
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
@@ -2076,6 +2121,21 @@ window.addEventListener('keydown', function(e) {
     console.log("🛡️ ANTI-BACTERIAL PURGE FIELD:", window.antiBakteriModu ? "ENGAGED" : "OFF");
   }
 });
+
+
+window.addEventListener('resize', onWindowResize, false);
+
+function onWindowResize() {
+    // Mevcut kamera en-boy oranlarını güncelleyen kodların...
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    
+    camera.left = -1.5 * (width / height);
+    camera.right = 1.5 * (width / height);
+    camera.updateProjectionMatrix();
+    
+    renderer.setSize(width, height);
+}
 
 animate();
 
