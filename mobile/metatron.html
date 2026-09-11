@@ -1985,71 +1985,107 @@ if (ayFaziElement) {
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
 // ============================================================================
-// 🌈 SAF 124875 ELEMENT DİNAMO MOTORU (ELİPSLEŞMEYİ BİTİREN RE-DESIGN)
+// 💎 SAF 124875 DİKDRÖTGEN DİNAMO KALKANI (TAMİR EDİLMİŞ - SIFIR LAG)
 // ============================================================================
 if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined') {
+    // 🔑 MİMARİ MÜHÜR: Kuantum Kafesi uzayda bir çelik sütun gibi SABİT duruyor!
     KuantumKafesi.rotation.y = Math.PI / 2; 
 
-    // 🔑 ELİPS ENGELİNİ YIRTAN EN-BOY ORANI (ASPECT RATIO) HESABI:
-    const genislik = window.innerWidth;
-    const yukseklik = window.innerHeight;
-    const aspect = genislik / yukseklik;
+    const W = window.innerWidth;
+    const H = window.innerHeight;
+    const aspect = W / H;
+    
+    // Ortografik kameranın d=1.5 sınırlarına göre dikdörtgen çerçeve sınırları
+    const sınırX = 1.5 * aspect;
+    const sınırY = 1.5;
 
-    if (!scene.getObjectByName("IchingMasterKalkani")) {
-        // Halkanın dairesel geometrisini tam 1.5 ölçek tabanında başlatıyoruz
-        const halkaGeo = new THREE.RingGeometry(1.48, 1.52, 64);
+    // 🏗️ 16 KÜPLÜK COZMİK İSTASYON MATRİSİNİ BELLEĞE MÜHÜRLER
+    if (!scene.getObjectByName("IchingDikdortgenKalkani")) {
+        // İncecik siber punk küp geometrisi (0.04)
+        const kupGeo = new THREE.BoxGeometry(0.04, 0.04, 0.04);
         
-        const halkaMat = new THREE.MeshBasicMaterial({
-            vertexColors: true,
-            side: THREE.DoubleSide,
+        // İşlemci dostu unlit temel materyal
+        const kupMat = new THREE.MeshBasicMaterial({
             transparent: true,
-            opacity: 0.85,
+            opacity: 1.0,
             depthWrite: false,
-            depthTest: false // Kafesin arkasına sızmayı ve bükülmeyi engeller
+            depthTest: false
         });
 
-        // 64 Hekzagram piksel boyama döngüsü (Aynen kalıyor)
-        const colors = [];
-        const renkSkalasi = [
-            new THREE.Color(0xff0000), // 🔴 KIRMIZI (Ateş / 1-2)
-            new THREE.Color(0xff6600), // 🟠 TURUNCU (Hava / 4-8)
-            new THREE.Color(0x00ff00), // 🟢 YEŞİL (Toprak / 8-7)
-            new THREE.Color(0x0000ff)  // 🔵 MAVİ (Su / 7-1)
-        ];
+        // GPU Örnekleme Teknolojisi: 16 istasyon tek bir emirle sahneye basılır!
+        const instancedKalkan = new THREE.InstancedMesh(kupGeo, kupMat, 16);
+        instancedKalkan.name = "IchingDikdortgenKalkani";
 
-        for (let i = 0; i <= 64; i++) {
-            let elementSegmenti = Math.floor(i / 16) % 4;
-            let c = renkSkalasi[elementSegmenti];
-            colors.push(c.r, c.g, c.b);
-            colors.push(c.r, c.g, c.b);
-        }
+        // 🗺️ GEOMETRİK DIŞ ÇERÇEVE DURAK HARİTASI (Kuruşuna kuruşuna 16 Nokta)
+        const geometrikDuraklar = [];
+        // Üst kenar (Hava / 4 istasyon)
+        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: -sınırX + (sınırX * 2 * i / 4), y: sınırY });
+        // Sağ kenar (Toprak / 4 istasyon)
+        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: sınırX, y: sınırY - (sınırY * 2 * i / 4) });
+        // Alt kenar (Su / 4 istasyon)
+        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: sınırX - (sınırX * 2 * i / 4), y: -sınırY });
+        // Sol kenar (Ateş / 4 istasyon)
+        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: -sınırX, y: -sınırY + (sınırY * 2 * i / 4) });
 
-        halkaGeo.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3));
-        const masterKalkanMesh = new THREE.Mesh(halkaGeo, halkaMat);
-        masterKalkanMesh.name = "IchingMasterKalkani";
-        masterKalkanMesh.position.set(0, 0, 0); 
-        scene.add(masterKalkanMesh);
+        const dummy = new THREE.Object3D();
+        instancedKalkan.userData = { pozisyonlar: [] };
+
+        // 16 küpü dünyadaki köşeli yerlerine jilet gibi çiviliyoruz
+        geometrikDuraklar.forEach((ist, index) => {
+            dummy.position.set(ist.x, ist.y, 0);
+            dummy.updateMatrix();
+            instancedKalkan.setMatrixAt(index, dummy.matrix);
+            instancedKalkan.userData.pozisyonlar.push(ist);
+        });
+
+        instancedKalkan.instanceMatrix.needsUpdate = true;
+        scene.add(instancedKalkan);
     }
 
-    const masterKalkan = scene.getObjectByName("IchingMasterKalkani");
-    if (masterKalkan) {
-        // 🔑 KESİN ÇÖZÜM MATRİSİ:
-        // Eğer ekran genişse, halkanın X aksındaki basıklığını aspect ratio ile esneterek 
-        // elips görüntüsünü sıfırlıyoruz ve ekranın dış hatlarına tam kare/çerçeve gibi oturtuyoruz!
-        if (aspect > 1) {
-            masterKalkan.scale.set(aspect, 1, 1);
-        } else {
-            masterKalkan.scale.set(1, 1 / aspect, 1);
-        }
-
-        // 74 BPM hızında donanım ivmeli asimetrik dönüş tetikleyicisi
-        masterKalkan.rotation.z = -(saniyeZamani * (74 / 60) * 79 * (Math.PI / 180));
-
-        // 🫀 74 BPM Kalp Vuruş Parlaması (200 ms tepe akımı)
-        const kalpAteslemeSinyali = saniyeZamani * (74 / 60);
-        const ateslemeRitmi = Math.floor(kalpAteslemeSinyali * 2.0) % 2 === 0;
+    // ⚡ 74 BPM KALP FREKANSIYLA ASİMETRİK TERS AKIŞLI RODİN ALGORİTMASI
+    const kalkan = scene.getObjectByName("IchingDikdortgenKalkani");
+    if (kalkan) {
+        // 🔑 KUTSAL VE HATASIZ RODİN AKIŞ SPEKTRUMU (Hata giderildi!)
+        const rodinSicramaDizisi =; 
         
-        masterKalkan.material.opacity = ateslemeRitmi ? 0.95 : 0.25;
+        // 4 Kutsal Element Spektrumu (Renk kodların aynen korundu)
+        const elementRenkleri = {
+            1: new THREE.Color(0xff0000), // 🔴 KIRMIZI (Ateş)
+            2: new THREE.Color(0xff6600), // 🟠 TURUNCU (Ateş Girdabı)
+            4: new THREE.Color(0xffff00), // 🟡 SARI (Toprak)
+            8: new THREE.Color(0x00ff00), // 🟢 YEŞİL (Toprak Hattı)
+            7: new THREE.Color(0x00ffff), // 🔵 MAVİ (Hava)
+            5: new THREE.Color(0x0000ff)  // 🟣 MOR (Su / Derinlik)
+        };
+
+        // 74 BPM hız kilidinde saniyede 1.5 adım atan zaman çarkı
+        const zamanAdimi = Math.floor(saniyeZamani * 1.5) % 16;
+        
+        // Işığın pavyon gibi düz gitmesini engelleyen, Rodin sırasıyla istasyonlar arası ışınlayan düğüm!
+        const adimIndeks = zamanAdimi; 
+
+        // 🫀 74 BPM Kalp Vuruş Sinyali (200 ms tepe akımı)
+        const kalpSinyali = saniyeZamani * (74 / 60);
+        const ateslemeRitmiYeni = Math.floor(kalpSinyali * 2.0) % 2 === 0;
+
+        // Her bir küpün içindeki enerjiyi tarayan mikro işlemci döngüsü
+        for (let i = 0; i < 16; i++) {
+            // Her küpün bağlı olduğu orijinal Rodin kimliğini buluyoruz
+            let kupRodinId = rodinSicramaDizisi[i];
+            let tabanRenk = (elementRenkleri[kupRodinId] || new THREE.Color(0xffffff)).clone();
+
+            // ⚡ SENKRONİZE IŞIK PATLAMASI: Kalp "güm" vurduğu an, 
+            // 1-2-4-8-7-5 rotasındaki o anki küp siber punk neon gibi parlar!
+            if (i === adimIndeks && ateslemeRitmiYeni) {
+                tabanRenk.multiplyScalar(6.5); // Parlama gücü zirveye çekildi
+            } else {
+                // 🔋 DEŞARJ: Aktif olmayan diğer 15 küp renksiz, loş ve asil bir cam tonda bekler
+                tabanRenk.multiplyScalar(0.12); 
+            }
+
+            kalkan.setInstanceColorAt(i, tabanRenk);
+        }
+        kalkan.instanceColor.needsUpdate = true;
     }
 }
 
