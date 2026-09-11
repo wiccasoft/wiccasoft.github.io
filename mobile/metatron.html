@@ -1984,6 +1984,84 @@ if (ayFaziElement) {
 
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
+
+
+// ============================================================================
+// 🌋 STATİK KAFES ELEMENTAL DİNAMO MOTORU (SENİN MİMARİN - SIFIR LAG)
+// ============================================================================
+if (typeof KuantumKafesi !== 'undefined') {
+    // Kuantum Kafesi tamamen SABİT duruyor, dönme yok!
+    KuantumKafesi.rotation.y = Math.PI / 2; // Sabit 22.5° kutsal sekizgen perspektifi
+
+    // Dış çerçevedeki I Ching / Gökkuşağı dalga akış hızı (Zaman dislisi)
+    let cerceveZamani = performance.now() * globalDönüşHızı * 0.5;
+
+    spheres.forEach(s => {
+        let odaMesh = KuantumKafesi.getObjectByName(s.name);
+        if (odaMesh) {
+            let dalgaFrekansi = 0;
+
+            // 🔑 SENİN DOĞRUSAL ELEMENT/SAYI GEÇİŞ MATRİSİNİN KOD PARAMETRELERİ:
+            // 🔴 ATEŞ: 1 - 2 Geçiş Hattı (Kırmızı)
+            if (s.id === 1 || s.id === 2) {
+                dalgaFrekansi = Math.sin(cerceveZamani * 1.0);
+                if (dalgaFrekansi > 0) {
+                    odaMesh.material.color.setHex(0xff0000); // Kırmızı
+                    odaMesh.material.emissive.setHex(0xff0000);
+                    odaMesh.material.emissiveIntensity = 4.0 * dalgaFrekansi;
+                }
+            }
+            // 🟠 HAVA: 4 - 8 Geçiş Hattı (Turuncu)
+            else if (s.id === 4 || s.id === 8) {
+                dalgaFrekansi = Math.sin(cerceveZamani * 1.0 - Math.PI / 2); // 90 derece faz gecikmesi (Lag)
+                if (dalgaFrekansi > 0) {
+                    odaMesh.material.color.setHex(0xff6600); // Turuncu
+                    odaMesh.material.emissive.setHex(0xff6600);
+                    odaMesh.material.emissiveIntensity = 3.5 * dalgaFrekansi;
+                }
+            }
+            // 🟢 TOPRAK: 8 - 7 Geçiş Hattı (Yeşil)
+            else if (s.id === 8 || s.id === 7) {
+                // Eğer yeşil odadaysa ve sistem toprak hattındaysa asıl rengini korur
+                dalgaFrekansi = Math.sin(cerceveZamani * 1.0 - Math.PI); // 180 derece faz gecikmesi
+                if (dalgaFrekansi > 0) {
+                    odaMesh.material.color.setHex(0x00ff00); // Yeşil
+                    odaMesh.material.emissive.setHex(0x00ff00);
+                    odaMesh.material.emissiveIntensity = 3.0 * dalgaFrekansi;
+                }
+            }
+            // 🔵 SU: 7 - 1 Geçiş Hattı (Mavi) - 2 Ton Sıkışma Noktası
+            else if (s.id === 7 || s.id === 1) {
+                dalgaFrekansi = Math.sin(cerceveZamani * 1.0 - (3 * Math.PI) / 2); // 270 derece faz gecikmesi
+                if (dalgaFrekansi > 0) {
+                    odaMesh.material.color.setHex(0x0000ff); // Mavi
+                    odaMesh.material.emissive.setHex(0x0000ff);
+                    // Dünkü Yeni Ay gibi maksimum impulsion anında parlamayı ve çekimi katlar
+                    odaMesh.material.emissiveIntensity = 5.0 * dalgaFrekansi; 
+                }
+            }
+            
+            // Beyaz ve Siyah kutup milleri omurga olarak sabit parlamaya devam eder
+            if (s.isPole) {
+                odaMesh.material.emissiveIntensity = 2.0;
+                odaMesh.material.opacity = 1.0;
+            }
+        }
+    });
+}
+
+
+// ============================================================================
+// 🔗 74 BPM KALBİNE TAM KİLİTLİ ALPHA OMEGA KÖPRÜSÜ (SIFIR LAG)
+// ============================================================================
+const disCerceve = document.getElementById("iching-master-frame");
+if (disCerceve) {
+    // saniyeZamani (74 BPM tabanlı akan iç zaman) ve globalDönüşHızı çarpımı
+    // Çerçevenin 79 yıllık makro döngüsünü, 74 BPM'lik iç kalp atışına tam senkronize eder.
+    let anlikDonusDerecesi = (saniyeZamani * (74 / 60) * 79) % 360; 
+    disCerceve.style.transform = `rotate(${anlikDonusDerecesi}deg)`;
+}
+
 // Neon izlerini %5 sönümleyerek sahneyi render et
 renderer.setClearColor(0x000000, 0.05);
 renderer.clearColor();
