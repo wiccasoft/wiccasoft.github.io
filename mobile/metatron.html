@@ -1984,8 +1984,9 @@ if (ayFaziElement) {
 
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
-// ============================================================================
-// 💎 SAF 124875 DİKDRÖTGEN DİNAMO KALKANI (TAMİR EDİLMİŞ SAF GPU - SIFIR LAG)
+
+ // ============================================================================
+// 💎 SAF 124875 DİKGEN FRAKTAL KALKANI (TAMİR EDİLMİŞ SAF GPU - SIFIR LAG)
 // ============================================================================
 if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined') {
     // 🔑 MİMARİ MÜHÜR: Kuantum Kafesi uzayda bir çelik sütun gibi SABİT duruyor!
@@ -1995,94 +1996,153 @@ if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined')
     const H = window.innerHeight;
     const aspect = W / H;
     
-    // Ortografik kameranın d=1.5 sınırlarına göre dikdörtgen çerçeve sınırları
+    // Ortografik kameranın d=1.5 sınırlarına göre dikdörtgen çerçeve jilet sınırları
     const sınırX = 1.5 * aspect;
     const sınırY = 1.5;
 
-    // 🏗️ 16 KÜPLÜK COZMİK İSTASYON MATRİSİNİ BELLEĞE MÜHÜRLER
-    if (!scene.getObjectByName("IchingDikdortgenKalkani")) {
-        // İncecik siber punk küp geometrisi (0.04)
+    // 🏗️ 28 KÜPLÜK KUTSAL KATMAN MATRİSİNİ İLK KAREDE BELLEĞE MÜHÜRLER (4 + 8 + 16 = 28)
+    if (!scene.getObjectByName("IchingKutsalFraktalMatrisi")) {
+        // İncecik siber punk dikdörtgen küp geometrisi (0.04)
         const kupGeo = new THREE.BoxGeometry(0.04, 0.04, 0.04);
         
-        // İşlemci dostu unlit temel materyal
+        // Cam ve parıltı çakışmasını bitiren unlit çekirdek materyal
         const kupMat = new THREE.MeshBasicMaterial({
             transparent: true,
-            opacity: 1.0,
-            depthWrite: false,
-            depthTest: false
+            opacity: 0.95,
+            depthWrite: true,
+            depthTest: true
         });
 
-        // GPU Örnekleme Teknolojisi: 16 istasyon tek bir emirle sahneye basılır!
-        const instancedKalkan = new THREE.InstancedMesh(kupGeo, kupMat, 16);
-        instancedKalkan.name = "IchingDikdortgenKalkani";
+        // Toplam 28 istasyon tek bir draw call ile GPU'ya kilitlenir!
+        const fraktalMatrisMesh = new THREE.InstancedMesh(kupGeo, kupMat, 28);
+        fraktalMatrisMesh.name = "IchingKutsalFraktalMatrisi";
+        fraktalMatrisMesh.renderOrder = -2; // Metatron'un arkasında koruma kalkanı olur
 
-        // 🗺️ GEOMETRİK DIŞ ÇERÇEVE DURAK HARİTASI (Kuruşuna kuruşuna 16 Nokta)
-        const geometrikDuraklar = [];
-        // Üst kenar (Hava / 4 istasyon)
-        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: -sınırX + (sınırX * 2 * i / 4), y: sınırY });
-        // Sağ kenar (Toprak / 4 istasyon)
-        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: sınırX, y: sınırY - (sınırY * 2 * i / 4) });
-        // Alt kenar (Su / 4 istasyon)
-        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: sınırX - (sınırX * 2 * i / 4), y: -sınırY });
-        // Sol kenar (Ateş / 4 istasyon)
-        for(let i = 0; i < 4; i++) geometrikDuraklar.push({ x: -sınırX, y: -sınırY + (sınırY * 2 * i / 4) });
+        let coreSayac = 0;
+        const dummyFraktal = new THREE.Object3D();
 
-        const dummy = new THREE.Object3D();
-        instancedKalkan.userData = { pozisyonlar: [] };
+        // 🏗️ KARE/DİKDÖRTGEN KATMANLARINI DIŞTAN İÇE DOĞRU HİZALAYAN GEOMETRİK MOTOR
+        function siberKatmanCiz(kupSayisi, olcekKatsayisi) {
+            const sX = sınırX * olcekKatsayisi;
+            const sY = sınırY * olcekKatsayisi;
 
-        // 16 küpü dünyadaki köşeli yerlerine jilet gibi çiviliyoruz
-        geometrikDuraklar.forEach((ist, index) => {
-            dummy.position.set(ist.x, ist.y, 0);
-            dummy.updateMatrix();
-            instancedKalkan.setMatrixAt(index, dummy.matrix);
-            instancedKalkan.userData.pozisyonlar.push(ist);
-        });
+            if (kupSayisi === 4) {
+                // 🟥 KATMAN 1: TAM EN DIŞ DIKDÖRTGEN ÇERÇEVE - 4 DIŞ ELEMENT CORESİ
+                // Z = -0.5 yapılarak Metatron'un çizgileriyle çakışması ve ekranı dondurması engellendi!
+                const anaKoseler = [
+                    { x: -sX, y:  sY }, // 🌬️ Sol Üst (MAN)
+                    { x:  sX, y:  sY }, // ⛰️ Sağ Üst (OX)
+                    { x:  sX, y: -sY }, // 💧 Sağ Alt (EAGLE)
+                    { x: -sX, y: -sY }  // 🔥 Sol Alt (LION)
+                ];
+                anaKoseler.forEach(k => {
+                    dummyFraktal.position.set(k.x, k.y, -0.5);
+                    dummyFraktal.updateMatrix();
+                    fraktalMatrisMesh.setMatrixAt(coreSayac++, dummyFraktal.matrix);
+                });
+            } else {
+                // 🟩 KATMAN 2 (8 Küp) & 🟦 KATMAN 3 (16 Küp) - İçe doğru daralan keskin dikdörtgen çerçeveler
+                const ceyrek = kupSayisi / 4;
+                let zDerinlik = -0.5 + (1.0 - olcekKatsayisi) * 0.2;
 
-        instancedKalkan.instanceMatrix.needsUpdate = true;A
-        scene.add(instancedKalkan);
+                for(let i = 0; i < ceyrek; i++) { // Üst Çizgi
+                    dummyFraktal.position.set(-sX + (sX * 2 * i / ceyrek), sY, zDerinlik);
+                    dummyFraktal.updateMatrix(); fraktalMatrisMesh.setMatrixAt(coreSayac++, dummyFraktal.matrix);
+                }
+                for(let i = 0; i < ceyrek; i++) { // Sağ Çizgi
+                    dummyFraktal.position.set(sX, sY - (sY * 2 * i / ceyrek), zDerinlik);
+                    dummyFraktal.updateMatrix(); fraktalMatrisMesh.setMatrixAt(coreSayac++, dummyFraktal.matrix);
+                }
+                for(let i = 0; i < ceyrek; i++) { // Alt Çizgi
+                    dummyFraktal.position.set(sX - (sX * 2 * i / ceyrek), -sY, zDerinlik);
+                    dummyFraktal.updateMatrix(); fraktalMatrisMesh.setMatrixAt(coreSayac++, dummyFraktal.matrix);
+                }
+                for(let i = 0; i < ceyrek; i++) { // Sol Çizgi
+                    dummyFraktal.position.set(-sX, -sY + (sY * 2 * i / ceyrek), zDerinlik);
+                    dummyFraktal.updateMatrix(); fraktalMatrisMesh.setMatrixAt(coreSayac++, dummyFraktal.matrix);
+                }
+            }
+        }
+
+        // 📐 DIŞTAN İÇE DOĞRU KUTSAL DİKDÖRTGEN DAĞILIM ÖLÇEKLERİ
+        siberKatmanCiz(4,  1.0);  // Katman 1: En Dış 4 Element Köşeleri (Ölçek: 1.0)
+        siberKatmanCiz(8,  0.75); // Katman 2: 8'li Orta Dikdörtgen Çerçeve (Ölçek: 0.75)
+        siberKatmanCiz(16, 0.50); // Katman 3: 16'lık En İç Rodin Siber Çiti (Ölçek: 0.50)
+
+        // Grafik kartına başlangıçta uyanma beyazını mühürle
+        for(let i = 0; i < 28; i++) fraktalMatrisMesh.setInstanceColorAt(i, new THREE.Color(0xffffff));
+        fraktalMatrisMesh.instanceMatrix.needsUpdate = true;
+        scene.add(fraktalMatrisMesh);
     }
 
-    // ⚡ 74 BPM KALP FREKANSIYLA ASİMETRİK TERS AKIŞLI RODİN ALGORİTMASI
-    const kalkan = scene.getObjectByName("IchingDikdortgenKalkani");
-    if (kalkan) {
-        // 🔑 KİLİT NOKTASI TAMİR EDİLDİ: 16'lık tam simetrik Rodin Girdap Rotaları (Virgüller eksiksiz!)
-        const rodinSicramaDizisi = [1, 2, 4, 8, 7, 5, 1, 2, 4, 8, 7, 5, 1, 2, 4, 8]; 
+    // ⚡ 74 BPM DIŞTAN İÇE SPİRAL REZONANS ATEŞLEYİCİSİ
+    const siberMatris = scene.getObjectByName("IchingKutsalFraktalMatrisi");
+    if (siberMatris) {
+        // 🔑 KİLİT TAMİR EDİLDİ: Orijinal 6 elemanlı Rodin girdap dizilimin (Hatasız ve eksiksiz!)
+        const rodinDizisiSabit = [1,2,4,8,7,5]; 
         
-        // 4 Kutsal Element Spektrumu (Renk kodların aynen korundu)
         const elementRenkleri = {
             1: new THREE.Color(0xff0000), // 🔴 KIRMIZI (Ateş)
             2: new THREE.Color(0xff6600), // 🟠 TURUNCU (Ateş Girdabı)
             4: new THREE.Color(0xffff00), // 🟡 SARI (Toprak)
             8: new THREE.Color(0x00ff00), // 🟢 YEŞİL (Toprak Hattı)
             7: new THREE.Color(0x00ffff), // 🔵 MAVİ (Hava)
-            5: new THREE.Color(0x0000ff)  // 🟣 MOR (Su / Derinlik)
+            5: new THREE.Color(0x0000ff)  // 🟣 MOR (Su)
         };
 
-        // 74 BPM hız kilidinde saniyede 1.5 adım atan zaman çarkı
-        const zamanAdimi = Math.floor(saniyeZamani * 1.5) % 16;
-        const adimIndeks = zamanAdimi; 
+        // 74 BPM hız kilidinde saniyede 1.5 adım hızla dönen zaman mili
+        const zamanAdimi = Math.floor(saniyeZamani * 1.5);
+        const adim8  = zamanAdimi % 8;  // 8'li katman ritmi
+        const adim16 = zamanAdimi % 16; // 16'lık katman ritmi
 
-        // 🫀 74 BPM Kalp Vuruş Sinyali (200 ms tepe akımı)
+        // 🫀 74 BPM Kalp Vuruş Sinyali (200 ms tepe akımı patlaması)
         const kalpSinyali = saniyeZamani * (74 / 60);
         const ateslemeRitmiYeni = Math.floor(kalpSinyali * 2.0) % 2 === 0;
 
-        // Her bir küpün içindeki enerjiyi tarayan mikro işlemci döngüsü
-        for (let i = 0; i < 16; i++) {
-            let kupRodinId = rodinSicramaDizisi[i];
-            let tabanRenk = (elementRenkleri[kupRodinId] || new THREE.Color(0xffffff)).clone();
+        for (let i = 0; i < 28; i++) {
+            // Modulo % 6 filtre mühürü sayesinde dizi asla taşmaz, undefined vermez!
+            let rId = rodinDizisiSabit[i % 6];
+            let finalRenk = (elementRenkleri[rId] || new THREE.Color(0xffffff)).clone();
 
-            // ⚡ SENKRONİZE IŞIK PATLAMASI: Kalp "güm" vurduğu an, 
-            // 1-2-4-8-7-5 rotasındaki o anki küp siber punk neon gibi parlar!
-            if (i === adimIndeks && ateslemeRitmiYeni) {
-                tabanRenk.multiplyScalar(6.5); // Parlama gücü zirveye çekildi
-            } else {
-                // 🔋 DEŞARJ: Aktif olmayan diğer 15 küp renksiz, loş ve asil bir cam tonda bekler
-                tabanRenk.multiplyScalar(0.12); 
+            // ⚡ DİKDÖRTGEN KATMAN REZONANS DAĞILIMI
+            if (i < 4) {
+                // 🟥 KATMAN 1 (0 - 3): En Dış 4 Element Köşesi
+                // Kalp her vurduğunda hepsi birden ışık hızıyla "GÜM" diye çakar!
+                if (ateslemeRitmiYeni) {
+                    finalRenk.multiplyScalar(7.0); 
+                } else {
+                    finalRenk.multiplyScalar(0.15); 
+                }
+            } 
+            else if (i >= 4 && i < 12) {
+                // 🟩 KATMAN 2 (4 - 11): 8'li Dikdörtgen Çerçeve
+                let tIndex = i - 4;
+                if (tIndex === adim8 && ateslemeRitmiYeni) {
+                    finalRenk.multiplyScalar(5.5);
+                } else {
+                    finalRenk.multiplyScalar(0.10);
+                }
+            } 
+            else {
+                // 🟦 KATMAN 3 (12 - 27): En İç 16'lık Rodin Siber Dikdörtgen Çiti
+                let rIndex = i - 12;
+                if (rIndex === adim16 && ateslemeRitmiYeni) {
+                    finalRenk.multiplyScalar(6.0); // Zaman sıçraması parlama anı
+                } else {
+                    finalRenk.multiplyScalar(0.08);
+                }
             }
 
-            kalkan.setInstanceColorAt(i, tabanRenk);
+            siberMatris.setInstanceColorAt(i, finalRenk);
         }
-        kalkan.instanceColor.needsUpdate = true;
+        if (siberMatris.instanceColor) siberMatris.instanceColor.needsUpdate = true;
+
+        // 📡 SOL ÜST TELEMETRİ EKRANINI ANLIK TETİKLENEN RODİN FAZINA KİLİTLEME
+        const radarDisplay = document.getElementById("radar-durum");
+        if (radarDisplay) {
+            let guncelId = rodinDizisiSabit[zamanAdimi % 6];
+            radarDisplay.innerHTML = `<span style="color:#00ff55; text-shadow:0 0 10px #00ff55; font-weight:bold;">🌀 DİKGEN FRAKTAL CORE: STEP [ ${guncelId} ]</span>`;
+        }
     }
 }
 
