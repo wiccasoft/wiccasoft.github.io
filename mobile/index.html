@@ -2,110 +2,435 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
+    <!--<base href="https://wiccasoft.xyz/">-->
+    <!--<link rel="canonical" href="https://wiccasoft.xyz" />-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wicca Voyager Terminal</title>
-    <!-- ✅ Google Icons linki düzeltildi -->
-    <link href="https://googleapis.com" rel="stylesheet">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <title>Wiccasoft | Metatron Core Solutions</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    
     <style>
-        :root { --bg-main: #121212; --bg-card: #1E1E1E; --accent: #007AFF; --text: #FFFFFF; --text-muted: #8E8E93; }
-        body { font-family: -apple-system, sans-serif; margin: 0; background: var(--bg-main); color: var(--text); padding: 15px; }
-        h2 { color: var(--accent); border-bottom: 1px solid #333; padding-bottom: 8px; margin-top: 0; }
-        .card { background: var(--bg-card); padding: 15px; border-radius: 12px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
-        .path-bar { background: #262626; padding: 10px; border-radius: 8px; font-size: 13px; color: #30d158; word-break: break-all; margin-bottom: 15px; font-family: monospace; }
-        .item { padding: 15px; border-bottom: 1px solid #2d2d2d; display: flex; align-items: center; cursor: pointer; }
-        .item:active { background: #2a2a2a; }
-        .icon { margin-right: 12px; }
-        audio { width: 100%; margin-top: 10px; border-radius: 8px; }
-        #pdfFrame { width: 100%; height: 500px; border: none; margin-top: 15px; display: none; background: #fff; border-radius: 12px; }
-        .back-btn { background: #333; color: #fff; border: none; padding: 8px 12px; border-radius: 6px; font-size: 13px; margin-bottom: 15px; cursor: pointer; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+@font-face {
+    font-family: 'WiccaCustomFont'; /* Fonta vereceğimiz özel isim */
+    src: url('./assets/FORTE.woff2') format('woff2'), /* Ana web formatı */
+         url('./assets/FORTE.TTF') format('truetype'); /* Bilgisayarındaki orijinal format */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; /* Sayfa yükleme hızını uçuran kritik kural */
+}
+
+
+body, html, h1, h2, h3, p, a, button, .btn {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+        
+        /* 🌊 ASTRO SMOOTH SCROLL & BODY CONFIG */
+        body, html { 
+            width: 100%; 
+            min-height: 100vh; 
+            overflow-x: hidden; 
+            overflow-y: auto; /* Aşağı kaymayı açtık */
+            scroll-behavior: smooth; /* Astro tarzı akıcı geçiş */
+            font-family: system-ui, -apple-system, sans-serif; 
+            background-color: #050505; 
+            color: #ffffff; 
+        }
+
+        /* 🍿 WEBKIT SCROLLBAR */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #000000; }
+        ::-webkit-scrollbar-thumb { background: rgba(168, 85, 247, 0.2); border-radius: 4px; }
+
+
+        /* 🩻 BRAND LOGO: TOMOGRAFİ TARAMA MODU */
+        .brand-logo {
+            height: 35px;
+            width: auto;
+            filter: none; /* 🌈 Açılışta kendi orijinal renkleriyle yüklenir */
+            opacity: 0.9;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Akıcı geçiş */
+        }
+
+        .brand-logo:hover {
+            opacity: 1;
+            /* 🩺 X-Ray / Tomografi Efekti: Renkleri ters yüz edip, medikal yeşil/mavi siber ışık basar */
+            filter: invert(1) hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 12px #00ffcc);
+            transform: scale(1.03); /* Hafif bir nabız/büyüme hareketi */
+        }
+
+        .logo-link { 
+            display: flex; 
+            align-items: center; 
+            text-decoration: none; 
+        }
+        
+        
+        /* 👑 HEADER *invert(0.5); /* 🌟 Renkli logoyu saf premium beyaza çevirir */
+        header { position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: rgba(5, 5, 5, 0.85); backdrop-filter: blur(8px); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; z-index: 10; border-bottom: 1px solid rgba(168, 85, 247, 0.1); }
+        .brand-logo { height: 35px; width: auto; }
+        nav { display: flex; gap: 25px; }
+        nav a { color: #cccccc; text-decoration: none; font-size: 0.95rem; font-weight: 500; transition: color 0.3s; }
+        nav a:hover { color: #a855f7; }
+
+        /* 🏗️ ANA VİEWPORT (İlk Ekran Bölümü) */
+        .main-viewport { position: relative; width: 100vw; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
+
+        .main-viewport {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+    /* 🚀 HEPSİNİ TEK YERDEN AŞAĞI KAYDIRAN SİHİRLİ SATIR: */
+    margin-top: 0vh !important; /* İhtiyaca göre 12vh veya 15vh de yapabilirsin */
+}
+
+       /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ VE GENEL MERKEZLEME AYARI) */
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+.salvador-image {
+    position: absolute;
+    width: 70% !important;
+    max-width: 380px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    height: auto !important;
+    top: 40% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    object-fit: contain;
+    z-index: 1;
+    opacity: 0.99 !important;
+    filter: brightness(1.1) !important;
+    mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+}
+        /* 🛸 METATRON 3D ÇEKİRDEK */
+        .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
+        .metatron-iframe { width: 100%; height: 100%; border: none; }
+
+
+        /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
+.art-core-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    pointer-events: none;
+}
+        /* 🌌 SİBERPUNK MASK TABAKASI */
+        .cyber-dark-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(5, 5, 5, 0.4) 25%, rgba(5, 5, 5, 0.85) 75%);
+            z-index: 3;
+            pointer-events: none;
+        }
+
+        /* 👑 ÖN PLAN KATMANI */
+        .hero-content-layer { position: relative; z-index: 4; text-align: center; max-width: 350px; padding: 20px; pointer-events: auto; margin-top: 70px; }
+
+
+        /* 🎯 BAŞLIK KİLİDİ */
+        h1 { 
+            font-size: 3.6rem; 
+            font-weight: 900; 
+            color: #ffffff; 
+            margin-bottom: 15px; 
+            letter-spacing: -1px;
+            text-shadow: 0 0 20px rgba(168, 85, 247, 0.6), 0 4px 10px rgba(0, 0, 0, 0.9); 
+        }
+        h1 span { color: #a855f7; }
+
+        p { font-size: 1.15rem; color: #e2e8f0; margin-bottom: 35px; line-height: 1.6; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9); }
+
+        /* 🕹️ BUTONLAR */
+        .btn-container { display: flex; gap: 15px; justify-content: center; }
+        .btn { padding: 12px 28px; font-size: 1rem; font-weight: 600; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; }
+
+        /* Features Butonu */
+        .btn-features { background-color: #a855f7; color: white; }
+        .btn-features:hover { background-color: #9333ea; box-shadow: 0 0 15px rgba(168, 85, 247, 0.6); }
+
+        /* Download Butonu */
+        .btn-download { background: transparent; color: white; border: 1px solid #ffffff; }
+        .btn-download:hover { background-color: #ffffff; color: #000000; box-shadow: 0 0 15px rgba(255, 255, 255, 0.6); }
+
+        /* 🖤 FEATURES SECTION (PARASEMPATİK RE-DESIGN) */
+        .features-section { background-color: #000000; min-height: 100vh; padding: 120px 40px; display: flex; flex-direction: column; align-items: center; justify-content: center; border-top: 1px solid rgba(168, 85, 247, 0.1); }
+        .features-title { font-size: 2.8rem; font-weight: 800; margin-bottom: 60px; color: #fff; text-shadow: 0 0 15px rgba(168, 85, 247, 0.3); }
+        .features-title span { color: #a855f7; }
+
+        /* 🏗️ TRIPLE GRID */
+        .features-grid { display: flex; gap: 30px; max-width: 1200px; width: 100%; flex-wrap: wrap; justify-content: center; }
+        .feature-card { background: rgba(5, 5, 5, 0.8); border: 1px solid rgba(168, 85, 247, 0.1); padding: 40px; border-radius: 12px; flex: 1; min-width: 300px; max-width: 360px; transition: 0.4s ease; text-align: left; }
+        .feature-card:hover { transform: translateY(-8px); border-color: rgba(168, 85, 247, 0.4); box-shadow: 0 10px 30px rgba(168, 85, 247, 0.05); }
+        .feature-card h3 { font-size: 1.4rem; color: #fff; margin-bottom: 15px; font-weight: 700; text-transform: capitalize; }
+        .feature-card p { color: #94a3b8; line-height: 1.6; font-size: 1rem; text-shadow: none; margin-bottom: 0; }
+
+        
+        /* 👣 FOOTER */
+        footer { width: 100%; height: 60px; background: rgba(5, 5, 5, 0.95); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; font-size: 0.85rem; color: #666666; border-top: 1px solid rgba(168, 85, 247, 0.05); }
+        footer a { color: #888888; text-decoration: none; transition: color 0.3s; }
+        footer a:hover { color: #ffffff; }
+
+
+.product-logo-container {
+  position: absolute; /* Butonların altındaki konumunu sabitlemek için absolute şart */
+  left: 50%;
+  transform: translateX(-50%); /* Yatayda kusursuz ortalar */
+  top: 85%; /* Ekran yüksekliğine göre butonların hemen altına hizalar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 240px; /* Geniş ekranlarda devasa durmaması için ideal boyut */
+  z-index: 10;
+}
+
+.wicca-product-logo {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+
+
+/* Ekran genişliği EN AZ 1200px olduğunda (Masaüstünde) çalışır */
+@media (min-width: 1200px) {
+
+       .main-viewport {
+        height: 100vh !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important; /* Dikeyde tam ortalama */
+        align-items: center !important;     /* Yatayda tam ortalama */
+        position: relative !important;
+        overflow: hidden !important;
+    }
+
+    .salvador-image {
+        width: 500px !important; 
+         top: 40% !important;
+    left: 50% !important;
+    }
+}
+
+/* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
+/* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ KATMAN HİYERARŞİSİ */
+/* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ MERKEZLEME VE KATMAN HİYERARŞİSİ */
+@media (max-width: 768px) {
+    /* 1. Ana taşıyıcıyı ekran yüksekliğine kilitliyor ve tam merkezleme flex yapısına alıyoruz */
+ .main-viewport {
+        height: 100vh !important;
+        display: flex !important;
+
+        flex-direction: column !important;
+        justify-content: center !important; /* Dikeyde tam ortalama */
+        align-items: center !important;     /* Yatayda tam ortalama */
+        position: relative !important;
+        overflow: hidden !important;
+    }
+
+      /* 📱 Sadece telefonlarda resmi büyüten ve ekrana oturtan mobil kilit */
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+.salvador-image {
+    position: absolute;
+    width: 500px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
+    height: auto !important;
+    top: 40% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) scale(0.7) !important;
+    z-index: 1;
+}
+    /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
+    .hero-content-layer {
+        position: relative !important;
+        margin-top: 0 !important; /* Eski sabit üst boşlukları sıfırlıyoruz */
+        padding: 0 20px !important;
+        text-align: center !important;
+        z-index: 10 !important; /* 3D Kürelerin kesinlikle tam üstünde kalmasını sağlar */
+        pointer-events: auto !important; /* Butonların tıklanabilirliğini korur */
+    }
+
+    /* 3. Mobilde iç içe giren yazıları ve butonları dengeliyoruz */
+    h1 {
+        font-size: 2.2rem !important;
+        letter-spacing: -0.5px !important;
+        margin-bottom: 8px !important;
+    }
+
+    p {
+        font-size: 0.95rem !important;
+        margin-bottom: 25px !important;
+        color: rgba(255, 255, 255, 0.8) !important;
+    }
+
+    /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
+    .metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 55% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        width: 100vw !important;
+        height: 100vh !important;
+        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
+    }
+
+   
+
+    /* 6. Alt kısımdaki wicca ürün logosunun yerleşimi */
+    .product-logo-container {
+        font-family: 'WiccaCustomFont'; 
+        position: absolute !important;
+        bottom: 0% !important;
+        top: 70% !important;
+        max-width: 140px !important;
+        z-index: 12 !important;
+    }
+}
     </style>
 </head>
 <body>
 
-    <!-- 🎵 MODÜL 1: MEDYA OYNATICI (MP3 STREAM) -->
-    <div class="card" id="mediaCard" style="display: none;">
-        <h2>🎵 Wicca Medya Oynatıcı</h2>
-        <audio id="audioPlayer" controls></audio>
+    <header>
+         <a href="#" class="logo-link"><img src="logo.png" alt="Wiccasoft Logo" class="brand-logo" /></a>
+        <nav>
+            <a href="#features">about</a>
+        </nav>
+    </header>
+
+
+    <!-- 🌌 KUTSAL MİMARIN EN DIŞ ÇERÇEVESİ: I CHING RAINBOW DOUBLE VORTEX MOTORU -->
+<div id="iching-master-frame" style="
+    position: absolute; top: 0; left: 0; width: 100vw; height: 100vh;
+    pointer-events: none; z-index: 99999; box-sizing: border-box;
+    border: 8px solid transparent;
+    /* 🌈 4 Element Kapısı (Ateş, Hava, Toprak, Su) Tam Sayı Dağılım Spektrumu */
+    border-image: conic-gradient(
+        from 0deg, 
+        #ff0000 0% 25%,   /* 🔥 ATEŞ (1-2) Kırmızı - 16 Hekzagram */
+        #ff6600 25% 50%,  /* 💨 HAVA (4-8) Turuncu - 16 Hekzagram */
+        #00ff00 50% 75%,  /* ⛰️ TOPRAK (8-7) Yeşil - 16 Hekzagram */
+        #0000ff 75% 100%  /* 💧 SU (7-1) Mavi - 16 Hekzagram */
+    ) 1;
+    /* 🔄 Double Vortex: 79 Saniyelik Büyük Nabızla Ters Akımlı Dönüş Simülasyonu */
+    animation: masterVortexDonus 79s linear infinite;
+">
+    <!-- 🧭 4 BÜYÜK KUTSAL SÜTUN PUSULA RADARI -->
+    <div style="position: absolute; top: 15px; left: 50%; transform: translateX(-50%); color: #ff6600; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">🌬️ MAN (HAVA 4-8)</div>
+    <div style="position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); color: #0000ff; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">💧 EAGLE (SU 7-1)</div>
+    <div style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%) rotate(-90deg); color: #ff0000; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">🔥 LION (ATEŞ 1-2)</div>
+    <div style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%) rotate(90deg); color: #00ff00; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">⛰️ OX (TOPRAK 8-7)</div>
+</div>
+
+<style>
+/* 🔑 TARAYICIYI ASLA YAVAŞLATMAYAN SAF GPU IVMELİ ÇEVİRİCİ MATRİS */
+@keyframes masterVortexDonus {
+    //from { transform: rotate(0deg); }
+    //to { transform: rotate(360deg); } /* Saat yönünde ters akımlı büyük I Ching girdabı */
+}
+</style>
+
+
+
+<!-- 🌌 İlk Katman: Kahraman Alanı -->
+<main class="main-viewport">
+    
+
+    <div class="art-core-container">
+        <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" />
+        <div class="metatron-three-iframe-holder">
+            <iframe src="./metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true"></iframe>
+        </div>
     </div>
 
-    <!-- 📁 MODÜL 2: C SÜRÜCÜSÜ GEZGİNİ -->
-    <div class="card">
-        <h2>📁 C Sürücüsü Gezgini</h2>
-        <button class="back-btn" onclick="ustKlasoreGit()">⬆ Üst Klasör</button>
-        <div id="currentPath" class="path-bar">Dizin taranıyor...</div>
-        <div id="fileList" style="background: var(--bg-main); border-radius: 8px; overflow: hidden;"></div>
-        <iframe id="pdfFrame"></iframe>
+    <div class="cyber-dark-overlay"></div>
+
+    <div class="hero-content-layer">
+        <h1>All in One <span>Browser</span></h1>
+        <p>Browse the world at the speed of light with electron infrastructure</p>
+        <div class="btn-container">
+            <a href="#features" class="btn btn-features">features</a>
+            <a href="#" class="btn btn-download">get for desktop</a>
+        </div>
     </div>
 
+    <div class="product-logo-container">
+        <img src="/assets/productlogo.png" alt="Wicca Logo" class="wicca-product-logo">
+    </div>
+</main>
+
+
+
+    <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Tam İstediğin 3 Ana Hat) -->
+    <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Global English Version) -->
+    <section id="features" class="features-section">
+        <h2 class="features-title">Core <span>Features</span></h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <h3>hybrid decentralized</h3>
+                <p>A next-generation Web5-powered decentralized identity and data layer engineered for absolute digital sovereignty.</p>
+            </div>
+            <div class="feature-card">
+                <h3>cardio metatron engine</h3>
+                <p>An ultra-optimized, parasympathetic-aligned cyber architecture designed to minimize hardware strain and eye fatigue.</p>
+            </div>
+            <div class="feature-card">
+                <h3>no track user data</h3>
+                <p>Strict zero-tracking policy. Your data belongs exclusively to your local device consciousness, not to ad corporations.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div>&copy; 2026 Wiccasoft</div>
+        <div>
+            <a href="privacy.html">Privacy Policy</a>
+            <span style="margin: 0 10px;">|</span>
+            <a href="terms.html">Terms & Conditions</a>
+        </div>
+    </footer>
+
+    <!-- 🚀 EKSİKSİZ, KAPATILMIŞ DİNAMİK SCRIPT -->
     <script>
-        let mevcutKlasörYolu = "";
+        document.addEventListener("DOMContentLoaded", () => {
+            const downloadBtn = document.querySelector(".btn-download");
+            const userAgent = window.navigator.userAgent.toLowerCase();
+            
+            let osName = "desktop";
+            let downloadUrl = "#";
 
-        window.onload = function() {
-            setTimeout(() => { klasorOku("/storage/emulated/0"); }, 500);
-        };
-
-        function klasorOku(yol) {
-            if (window.ReactNativeWebView) {
-                window.ReactNativeWebView.postMessage("READ_DIR|" + yol);
+            // 📱 MOBİL PLATFORMLAR
+            if (userAgent.includes("android")) {
+                osName = "Android";
+                downloadUrl = "#android-link";
+            } else if (userAgent.includes("iphone") || userAgent.includes("ipad") || userAgent.includes("ipod")) {
+                osName = "iOS";
+                downloadUrl = "#ios-link";
             }
-        }
-
-        function ustKlasoreGit() {
-            if (!mevcutKlasörYolu || mevcutKlasörYolu === "/storage/emulated/0") return;
-            let parcalar = mevcutKlasörYolu.split('/');
-            parcalar.pop();
-            klasorOku(parcalar.join('/'));
-        }
-
-        window.onNativeDirectoryRead = function(dosyalar, okunanYol) {
-            mevcutKlasörYolu = okunanYol;
-            document.getElementById('currentPath').innerText = okunanYol;
-            const listeDiv = document.getElementById('fileList');
-            listeDiv.innerHTML = '';
-
-            dosyalar.forEach(item => {
-                const itemDiv = document.createElement('div');
-                itemDiv.className = 'item';
-                
-                if (item.isDirectory) {
-                    // ✅ Klasör simgesi düzeltildi
-                    itemDiv.innerHTML = `<span class="material-icons icon" style="color:#ffcc00">folder</span><strong>${item.name}</strong>`;
-                    itemDiv.onclick = () => klasorOku(item.path);
-                } else {
-                    let isMp3 = item.name.toLowerCase().endsWith('.mp3');
-                    let isPdf = item.name.toLowerCase().endsWith('.pdf');
-                    let icon = isMp3 ? 'audiotrack' : (isPdf ? 'picture_as_pdf' : 'insert_drive_file');
-                    let iconColor = isMp3 ? '#30d158' : (isPdf ? '#ff3b30' : '#007AFF');
-
-                    itemDiv.innerHTML = `<span class="material-icons icon" style="color:${iconColor}">${icon}</span>${item.name}`;
-                    
-                    if (isPdf || isMp3) {
-                        itemDiv.onclick = () => {
-                            if (window.ReactNativeWebView) {
-                                window.ReactNativeWebView.postMessage("READ_FILE|" + item.path);
-                            }
-                        };
-                    }
-                }
-                listeDiv.appendChild(itemDiv);
-            });
-        };
-
-        window.onNativeFileSelected = function(dataUrl) {
-            if (dataUrl.includes("audio/") || dataUrl.includes("data:application/octet-stream") || dataUrl.endsWith(".mp3")) {
-                const player = document.getElementById('audioPlayer');
-                document.getElementById('mediaCard').style.display = 'block';
-                document.getElementById('pdfFrame').style.display = 'none';
-                player.src = dataUrl; 
-                player.play();
-            } else {
-                document.getElementById('mediaCard').style.display = 'none';
-                const frame = document.getElementById('pdfFrame');
-                frame.src = dataUrl;
-                frame.style.display = 'block';
-                window.scrollTo(0, document.body.scrollHeight);
+            // 💻 MASAÜSTÜ PLATFORMLAR
+            else if (userAgent.includes("win")) {
+                osName = "Windows";
+                downloadUrl = "#windows-link"; 
+            } else if (userAgent.includes("mac")) {
+                osName = "Mac";
+                downloadUrl = "#mac-link";
+            } else if (userAgent.includes("linux")) {
+                osName = "Linux";
+                downloadUrl = "#linux-link";
             }
-        };
+
+            downloadBtn.textContent = `get for ${osName}`;
+            downloadBtn.href = downloadUrl;
+        });
     </script>
+
+    
 </body>
 </html>
