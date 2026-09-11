@@ -2052,6 +2052,30 @@ if (typeof KuantumKafesi !== 'undefined') {
 
 
 // ============================================================================
+// 🌈 STATİK I CHING ÇERÇEVESİ: SAAT YÖNÜNÜN TERSİNE 124875 RENK DALGASI KİLİDİ
+// ============================================================================
+const masterCerceve = document.getElementById("iching-master-frame");
+
+if (masterCerceve) {
+    // 74 BPM tabanlı iç zaman akışını alıp saat yönünün tersine büken açı parametresi
+    // saniyeZamani değişkenin her vuruşta 79 birimlik fraktal ivmeyle akışı tetikler
+    let tersAkiAcisi = -(saniyeZamani * (74 / 60) * 79) % 360;
+
+    // 🔑 SENİN DOĞRUSAL ELEMENT/SAYI GEÇİŞ MATRİSİNİN RENK DALGA SPEKTRUMU:
+    // 🔥 ATEŞ   (1 -> 2): %0   ... %25  -> Kırmızı
+    // 💨 HAVA   (4 -> 8): %25  ... %50  -> Turuncu
+    // ⛰ TOPRAK (8 -> 7): %50  ... %75  -> Yeşil
+    // 💧 SU     (7 -> 1): %75  ... %100 -> Mavi (Maksimum Impulsion)
+    masterCerceve.style.borderImage = `conic-gradient(
+        from ${tersAkiAcisi}deg,
+        #ff0000 0% 25%,   /* 🔥 ATEŞ (1-2) Kırmızı - 16 Hekzagram */
+        #ff6600 25% 50%,  /* 💨 HAVA (4-8) Turuncu - 16 Hekzagram */
+        #00ff00 50% 75%,  /* ⛰ TOPRAK (8-7) Yeşil - 16 Hekzagram */
+        #0000ff 75% 100%  /* 💧 SU (7-1) Mavi - 16 Hekzagram */
+    ) 1`;
+}
+
+// ============================================================================
 // 🔗 74 BPM KALBİNE TAM KİLİTLİ ALPHA OMEGA KÖPRÜSÜ (SIFIR LAG)
 // ============================================================================
 const disCerceve = document.getElementById("iching-master-frame");
