@@ -1985,7 +1985,7 @@ if (ayFaziElement) {
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
 // ============================================================================
-// 💎 SAF 124875 DİKDRÖTGEN DİNAMO KALKANI (TAMİR EDİLMİŞ - SIFIR LAG)
+// 💎 SAF 124875 DİKDRÖTGEN DİNAMO KALKANI (TAMİR EDİLMİŞ SAF GPU - SIFIR LAG)
 // ============================================================================
 if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined') {
     // 🔑 MİMARİ MÜHÜR: Kuantum Kafesi uzayda bir çelik sütun gibi SABİT duruyor!
@@ -2038,15 +2038,15 @@ if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined')
             instancedKalkan.userData.pozisyonlar.push(ist);
         });
 
-        instancedKalkan.instanceMatrix.needsUpdate = true;
+        instancedKalkan.instanceMatrix.needsUpdate = true;A
         scene.add(instancedKalkan);
     }
 
     // ⚡ 74 BPM KALP FREKANSIYLA ASİMETRİK TERS AKIŞLI RODİN ALGORİTMASI
     const kalkan = scene.getObjectByName("IchingDikdortgenKalkani");
     if (kalkan) {
-        // 🔑 KUTSAL VE HATASIZ RODİN AKIŞ SPEKTRUMU (Hata giderildi!)
-        const rodinSicramaDizisi =; 
+        // 🔑 KİLİT NOKTASI TAMİR EDİLDİ: 16'lık tam simetrik Rodin Girdap Rotaları (Virgüller eksiksiz!)
+        const rodinSicramaDizisi = [1, 2, 4, 8, 7, 5, 1, 2, 4, 8, 7, 5, 1, 2, 4, 8]; 
         
         // 4 Kutsal Element Spektrumu (Renk kodların aynen korundu)
         const elementRenkleri = {
@@ -2060,8 +2060,6 @@ if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined')
 
         // 74 BPM hız kilidinde saniyede 1.5 adım atan zaman çarkı
         const zamanAdimi = Math.floor(saniyeZamani * 1.5) % 16;
-        
-        // Işığın pavyon gibi düz gitmesini engelleyen, Rodin sırasıyla istasyonlar arası ışınlayan düğüm!
         const adimIndeks = zamanAdimi; 
 
         // 🫀 74 BPM Kalp Vuruş Sinyali (200 ms tepe akımı)
@@ -2070,7 +2068,6 @@ if (typeof KuantumKafesi !== 'undefined' && typeof saniyeZamani !== 'undefined')
 
         // Her bir küpün içindeki enerjiyi tarayan mikro işlemci döngüsü
         for (let i = 0; i < 16; i++) {
-            // Her küpün bağlı olduğu orijinal Rodin kimliğini buluyoruz
             let kupRodinId = rodinSicramaDizisi[i];
             let tabanRenk = (elementRenkleri[kupRodinId] || new THREE.Color(0xffffff)).clone();
 
