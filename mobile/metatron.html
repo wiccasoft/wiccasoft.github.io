@@ -1985,105 +1985,27 @@ if (ayFaziElement) {
  coreAcDcAnatomyEngine(performance.now() * 0.001);
 
 
-
 // ============================================================================
-// 🌋 STATİK KAFES ELEMENTAL DİNAMO MOTORU (SENİN MİMARİN - SIFIR LAG)
+// 🌈 SAF 124875 ELEMENT MOTORU: ÇERÇEVE SENKRONİZASYON MÜHÜRÜ (SIFIR LAG)
 // ============================================================================
-if (typeof KuantumKafesi !== 'undefined') {
-    // Kuantum Kafesi tamamen SABİT duruyor, dönme yok!
-    KuantumKafesi.rotation.y = Math.PI / 2; // Sabit 22.5° kutsal sekizgen perspektifi
+// Dışarıdaki index.html içinde yaşayan ana I Ching katmanını yakalıyoruz
+const masterCerceve = window.parent.document.getElementById("iching-master-frame") || document.getElementById("iching-master-frame");
 
-    // Dış çerçevedeki I Ching / Gökkuşağı dalga akış hızı (Zaman dislisi)
-    let cerceveZamani = performance.now() * globalDönüşHızı * 0.5;
+if (masterCerceve && typeof saniyeZamani !== 'undefined') {
+    // 🎛️ 74 BPM Biyolojik Kalp Atışı ile Çarkın Zaman Dişlisi
+    // saniyeZamani değişkeni (74/60) hızıyla akarken, çarkı SAAT YÖNÜNÜN TERSİNE (minus) büker
+    // 79 sayısı, o senin bahsettiğin kütleçekimsel makro döngü yılı ivmesidir
+    let akisAcisi = -(saniyeZamani * (74 / 60) * 79) % 360;
 
-    spheres.forEach(s => {
-        let odaMesh = KuantumKafesi.getObjectByName(s.name);
-        if (odaMesh) {
-            let dalgaFrekansi = 0;
-
-            // 🔑 SENİN DOĞRUSAL ELEMENT/SAYI GEÇİŞ MATRİSİNİN KOD PARAMETRELERİ:
-            // 🔴 ATEŞ: 1 - 2 Geçiş Hattı (Kırmızı)
-            if (s.id === 1 || s.id === 2) {
-                dalgaFrekansi = Math.sin(cerceveZamani * 1.0);
-                if (dalgaFrekansi > 0) {
-                    odaMesh.material.color.setHex(0xff0000); // Kırmızı
-                    odaMesh.material.emissive.setHex(0xff0000);
-                    odaMesh.material.emissiveIntensity = 4.0 * dalgaFrekansi;
-                }
-            }
-            // 🟠 HAVA: 4 - 8 Geçiş Hattı (Turuncu)
-            else if (s.id === 4 || s.id === 8) {
-                dalgaFrekansi = Math.sin(cerceveZamani * 1.0 - Math.PI / 2); // 90 derece faz gecikmesi (Lag)
-                if (dalgaFrekansi > 0) {
-                    odaMesh.material.color.setHex(0xff6600); // Turuncu
-                    odaMesh.material.emissive.setHex(0xff6600);
-                    odaMesh.material.emissiveIntensity = 3.5 * dalgaFrekansi;
-                }
-            }
-            // 🟢 TOPRAK: 8 - 7 Geçiş Hattı (Yeşil)
-            else if (s.id === 8 || s.id === 7) {
-                // Eğer yeşil odadaysa ve sistem toprak hattındaysa asıl rengini korur
-                dalgaFrekansi = Math.sin(cerceveZamani * 1.0 - Math.PI); // 180 derece faz gecikmesi
-                if (dalgaFrekansi > 0) {
-                    odaMesh.material.color.setHex(0x00ff00); // Yeşil
-                    odaMesh.material.emissive.setHex(0x00ff00);
-                    odaMesh.material.emissiveIntensity = 3.0 * dalgaFrekansi;
-                }
-            }
-            // 🔵 SU: 7 - 1 Geçiş Hattı (Mavi) - 2 Ton Sıkışma Noktası
-            else if (s.id === 7 || s.id === 1) {
-                dalgaFrekansi = Math.sin(cerceveZamani * 1.0 - (3 * Math.PI) / 2); // 270 derece faz gecikmesi
-                if (dalgaFrekansi > 0) {
-                    odaMesh.material.color.setHex(0x0000ff); // Mavi
-                    odaMesh.material.emissive.setHex(0x0000ff);
-                    // Dünkü Yeni Ay gibi maksimum impulsion anında parlamayı ve çekimi katlar
-                    odaMesh.material.emissiveIntensity = 5.0 * dalgaFrekansi; 
-                }
-            }
-            
-            // Beyaz ve Siyah kutup milleri omurga olarak sabit parlamaya devam eder
-            if (s.isPole) {
-                odaMesh.material.emissiveIntensity = 2.0;
-                odaMesh.material.opacity = 1.0;
-            }
-        }
-    });
-}
-
-
-// ============================================================================
-// 🌈 STATİK I CHING ÇERÇEVESİ: SAAT YÖNÜNÜN TERSİNE 124875 RENK DALGASI KİLİDİ
-// ============================================================================
-const masterCerceve = document.getElementById("iching-master-frame");
-
-if (masterCerceve) {
-    // 74 BPM tabanlı iç zaman akışını alıp saat yönünün tersine büken açı parametresi
-    // saniyeZamani değişkenin her vuruşta 79 birimlik fraktal ivmeyle akışı tetikler
-    let tersAkiAcisi = -(saniyeZamani * (74 / 60) * 79) % 360;
-
-    // 🔑 SENİN DOĞRUSAL ELEMENT/SAYI GEÇİŞ MATRİSİNİN RENK DALGA SPEKTRUMU:
-    // 🔥 ATEŞ   (1 -> 2): %0   ... %25  -> Kırmızı
-    // 💨 HAVA   (4 -> 8): %25  ... %50  -> Turuncu
-    // ⛰ TOPRAK (8 -> 7): %50  ... %75  -> Yeşil
-    // 💧 SU     (7 -> 1): %75  ... %100 -> Mavi (Maksimum Impulsion)
+    // 🔑 TAM SENİN FORMÜLE ETTİĞİN SAF ELEMENT / SAYI GEÇİŞ GEOMETRİSİ:
+    // Kırmızı ➔ Turuncu ➔ Yeşil ➔ Mavi (Sıfır Nota, Saf İkili Kod Spektrumu)
     masterCerceve.style.borderImage = `conic-gradient(
-        from ${tersAkiAcisi}deg,
-        #ff0000 0% 25%,   /* 🔥 ATEŞ (1-2) Kırmızı - 16 Hekzagram */
-        #ff6600 25% 50%,  /* 💨 HAVA (4-8) Turuncu - 16 Hekzagram */
-        #00ff00 50% 75%,  /* ⛰ TOPRAK (8-7) Yeşil - 16 Hekzagram */
-        #0000ff 75% 100%  /* 💧 SU (7-1) Mavi - 16 Hekzagram */
+        from ${akisAcisi}deg,
+        #ff0000 0% 25%,   /* 🔴 KIRMIZI (Ateş / 1-2): Başlangıç İvmesi */
+        #ff6600 25% 50%,  /* 🟠 TURUNCU (Hava / 4-8): Yükselen Akım */
+        #00ff00 50% 75%,  /* 🟢 YEŞİL (Toprak / 8-7): Kristalizasyon */
+        #0000ff 75% 100%  /* 🔵 MAVİ (Su / 7-1): Merkeze Çöküş (2 Ton) */
     ) 1`;
-}
-
-// ============================================================================
-// 🔗 74 BPM KALBİNE TAM KİLİTLİ ALPHA OMEGA KÖPRÜSÜ (SIFIR LAG)
-// ============================================================================
-const disCerceve = document.getElementById("iching-master-frame");
-if (disCerceve) {
-    // saniyeZamani (74 BPM tabanlı akan iç zaman) ve globalDönüşHızı çarpımı
-    // Çerçevenin 79 yıllık makro döngüsünü, 74 BPM'lik iç kalp atışına tam senkronize eder.
-    let anlikDonusDerecesi = (saniyeZamani * (74 / 60) * 79) % 360; 
-    disCerceve.style.transform = `rotate(${anlikDonusDerecesi}deg)`;
 }
 
 // Neon izlerini %5 sönümleyerek sahneyi render et
@@ -2109,10 +2031,6 @@ window.addEventListener('click', () => {
     }
 });
 
-
-// ============================================================================
-// PHASE 4: GLOBAL MATRIX INPUT CONTROLLER (Launch Presentation Layer)
-// ============================================================================
 
 
 // ============================================================================
