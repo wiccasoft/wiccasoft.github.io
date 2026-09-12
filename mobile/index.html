@@ -475,54 +475,32 @@ if (fireGate && waterGate && airGate && earthGate) {
     const totalMinutes = (hours * 60) + minutes;
     const dayProgressRad = (totalMinutes / 1440) * Math.PI * 2; // Zamanın dairesel akışı
 
-    // 🌊 4 ELEMENT İÇİN KESİNTİSİZ SİNÜS DALGASI FREKANSLARI
-    // Her element kendi saat tepe noktasında 1.0 (Zirve), tam zıttında 0.0 (Dip) olur.
-    // Faz kaydırmaları (Phase Shifts) ile günün 24 saati pürüzsüzce birbirine devrolur.
-    
-    const airBase   = Math.sin(dayProgressRad - 0) * 0.45 + 0.55;             // Tepe: 06:00 (Şafak)
-    const fireBase  = Math.sin(dayProgressRad - Math.PI/2) * 0.45 + 0.55;     // Tepe: 12:00 (Öğlen)
-    const earthBase = Math.sin(dayProgressRad - Math.PI) * 0.45 + 0.55;       // Tepe: 18:00 (Akşam)
-    const waterBase = Math.sin(dayProgressRad - 3*Math.PI/2) * 0.45 + 0.55;   // Tepe: 00:00 (Gece)
+// 🌊 4 ELEMENT İÇİN DİNAMİK KESME (CLAMPING) VE KESKİN KONTRAST MOTORU
+const airBase   = Math.max(0, Math.sin(dayProgressRad - 0));
+const fireBase  = Math.max(0, Math.sin(dayProgressRad - Math.PI / 2));
+const earthBase = Math.max(0, Math.sin(dayProgressRad - Math.PI));
+const waterBase = Math.max(0, Math.sin(dayProgressRad - 3 * Math.PI / 2));
 
-    // Bekleme modundaki anlık gerçek zaman manyetik opaklıkları (0.10 ile 1.0 arası)
-    airGate.style.opacity   = airBase;
-    fireGate.style.opacity  = fireBase;
-    earthGate.style.opacity = earthBase;
-    waterGate.style.opacity = waterBase;
-
-    // 2. 74 BPM ANLIK NABIZ VURUŞ ANLIĞI (PULSE HIT)
-    const gatesData = [
-        { el: airGate, base: airBase },
-        { el: fireGate, base: fireBase },
-        { el: earthGate, base: earthBase },
-        { el: waterGate, base: waterBase }
-    ];
+// Opaklık ve 74 BPM nabız vuruş yönetimi için element dizisi ve döngü uygulanır.
+const gatesData = [
+    { el: airGate, base: airBase },
+    { el: fireGate, base: fireBase },
+    { el: earthGate, base: earthBase },
+    { el: waterGate, base: waterBase }
+];
 
 gatesData.forEach(gate => {
-    // 1. VURUŞ ANLIĞI (PULSE HIT): Ritim anında elementleri kendi zaman gücüyle ÇARPARAK parlat
-    gate.el.classList.add('pulse-hit');
-    
-    // Eğer elementin zamanı değilse (base düşükse), vuruş anında bile neredeyse hiç parlayamaz
-    const pulseOpacity = Math.max(gate.base, 0.1); 
-    const pulseBrightness = 1.0 + (gate.base * 2.0); // Aktif olan element 3 kat daha parlak olur
-
-    gate.el.style.opacity = pulseOpacity;
-    gate.el.style.filter = `brightness(${pulseBrightness}) drop-shadow(0 0 ${gate.base * 25}px currentColor)`;
-
-    // 2. BEKLEME ANLIĞI (REST FAZI): Vuruş bittiğinde aradaki makası iyice aç
+    gate.el.style.opacity = gate.base > 0 ? gate.base * 0.8 : 0.03;
+    if (gate.base > 0) {
+        gate.el.classList.add('pulse-hit');
+        gate.el.style.opacity = Math.min(gate.base * 1.8, 1.0);
+        gate.el.style.filter = `brightness(${1.0 + (gate.base * 2.0)}) drop-shadow(0 0 ${gate.base * 20}px currentColor)`;
+    }
     setTimeout(() => {
         gate.el.classList.remove('pulse-hit');
-        
-        // KRİTİK AYAR: Eğer elementin zamanı değilse (base < 0.4), bekleme modunda tamamen karart (0.02)
-        // Böylece şu an sabahsa (09:20), Hava ve Ateş görünür kalırken, Su ve Toprak tamamen söner!
-        if (gate.base < 0.45) {
-            gate.el.style.opacity = 0.03; // Görünmez faza çekilir
-            gate.el.style.filter = 'none';
-        } else {
-            gate.el.style.opacity = gate.base * 0.8; // Aktif elementler spektrumda süzülmeye devam eder
-            gate.el.style.filter = `brightness(${1.0 + gate.base * 0.5})`;
-        }
-    }, 180); // 180ms vuruş, kalan süre mutlak kontrast koruması
+        gate.el.style.opacity = gate.base > 0 ? gate.base * 0.8 : 0.03;
+        gate.el.style.filter = 'none';
+    }, 150);
 });
 
     // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
