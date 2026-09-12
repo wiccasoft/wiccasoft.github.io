@@ -511,14 +511,21 @@ if (fireGate && waterGate && airGate && earthGate) {
     const sunAngle = (totalMinutes / 1440) * 360; // Gün içindeki tam pozisyon açısı
 
     let sunGate;
-    
-if ( sunAngle >= 45 && sunAngle < 135) { sunGate = airGate; }
-else if ( sunAngle >= 135 && sunAngle < 225) { sunGate = fireGate; }
-else if ( sunAngle >= 225 && sunAngle < 315) { sunGate = earthGate; }
-else { sunGate = waterGate; } { sunGate = waterGate; } // 🚨 BURADAKİ EKSİK KAPANMA VE ÇİFTLEME KODU PATLATIYOR!
+
+  let sunGate;
+    if (sunAngle >= 45 && sunAngle < 135) { 
+        sunGate = airGate; 
+    } else if (sunAngle >= 135 && sunAngle < 225) { 
+        sunGate = fireGate; 
+    } else if (sunAngle >= 225 && sunAngle < 315) { 
+        sunGate = earthGate; 
+    } else { 
+        sunGate = waterGate; 
+    }
+
     // Güneş'in bastığı kapıyı uykudan uyandır ve Güneş Turuncusu yap
     sunGate.style.opacity = 0.6;
-    sunGate.style.color = '#ff5e00'; 
+    sunGate.style.color = '#ff5e00';
 
     // 3. AY'IN 28 GÜNLÜK BAĞIMSIZ HAREKETİ VE DİNAMİK METİN KİLİDİ
     const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
