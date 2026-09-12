@@ -710,11 +710,17 @@ let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
                 seasonGate = earthGate; seasonColor = '#a855f7'; // Imbolc Erken Baharı -> Toprak Kapısı
             }
         }
-        // 4. ADIM: AY'IN 28 GÜNLÜK DÖNGÜSÜ (Karanlık Ay / Hekate Sabitlemesi)
-        const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
-        let moonGate;
-        let moonColor = "#a855f7"; 
-        let moonText = "KARANLIK AY";
+
+
+
+// 4. ADIM: AY'IN GÜNEŞE GÖRE OPPOSITE (TAM ZIT) KONUM MOTORU
+const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
+let moonGate;
+let moonColor = "#a855f7";
+let moonText = "KARANLIK AY";
+
+// Evre renk ve metin tanımlamaları ve (sunAngle + 180) % 360 ile kapı atamaları bu blokta güncellenir.
+let moonOppositeAngle = (sunAngle + 180) % 360;
 
         if (moonData.phase < 0.04 || moonData.phase >= 0.96) {
             moonGate = waterGate; moonColor = "#8b5cf6"; moonText = "KARANLIK AY";
