@@ -323,38 +323,9 @@ body, html, h1, h2, h3, p, a, button, .btn {
         </div>
     </footer>
 
-    <!-- 🚀 EKSİKSİZ, KAPATILMIŞ DİNAMİK SCRIPT -->
+
     <script>
-        document.addEventListener("DOMContentLoaded", () => {
-            const downloadBtn = document.querySelector(".btn-download");
-            const userAgent = window.navigator.userAgent.toLowerCase();
-            
-            let osName = "desktop";
-            let downloadUrl = "#";
 
-            // 📱 MOBİL PLATFORMLAR
-            if (userAgent.includes("android")) {
-                osName = "Android";
-                downloadUrl = "#android-link";
-            } else if (userAgent.includes("iphone") || userAgent.includes("ipad") || userAgent.includes("ipod")) {
-                osName = "iOS";
-                downloadUrl = "#ios-link";
-            }
-            // 💻 MASAÜSTÜ PLATFORMLAR
-            else if (userAgent.includes("win")) {
-                osName = "Windows";
-                downloadUrl = "#windows-link"; 
-            } else if (userAgent.includes("mac")) {
-                osName = "Mac";
-                downloadUrl = "#mac-link";
-            } else if (userAgent.includes("linux")) {
-                osName = "Linux";
-                downloadUrl = "#linux-link";
-            }
-
-            downloadBtn.textContent = `get for ${osName}`;
-            downloadBtn.href = downloadUrl;
-});
 
     </script>
 
