@@ -642,12 +642,12 @@ const currentHemisphere = getHemisphere();
 let seasonGate;
 let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
 
-        // Güneş Başak'tayken (Eylül Ekinoks Eşiği)
-        // 3. ADIM: MAKRÖ MEVSİM MOTORU (TÜM SABBAT FESTİVALLERİ DÖNGÜSÜ)
+    // Güneş Başak'tayken (Eylül Ekinoks Eşiği)
+    // 3. ADIM: MAKRÖ MEVSİM MOTORU (TÜM SABBAT FESTİVALLERİ DÖNGÜSÜ)
         // 🍁 KUZEY YARIMKÜRE (Mabon): Enerji tam sol aksta, Metal/Metatron kapısında sabitlenir!
         if (currentSunSign.includes("VIRGO")) {
             if (currentHemisphere === 'NORTHERN') {
-                seasonGate = metalGate; // Çok aşağı inmesini engelledik, yukarı kilitledik!
+                seasonGate = earthGate; // Çok aşağı inmesini engelledik, yukarı kilitledik!
                 seasonColor = '#00ff66'; 
             } else {
                 seasonGate = fireGate;
@@ -760,7 +760,28 @@ let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
             if (gate === metalGate) { nativeTrigram = "☶"; nativeBinary = "::|"; }
             if (gate === iceGate)   { nativeTrigram = "☳"; nativeBinary = "|::"; }
 
-            
+            // Eğer mevsim kapısı ile Ay kapısı aynı yerdeyse (Şu an SU kapısı gibi)
+            if (gate === seasonGate && gate === moonGate) {
+                // Sol tarafa yeşil Mevsim trigramını, sağ tarafa mor Ay trigramını yan yana çakıyoruz!
+                if (trigramSpan) {
+                    trigramSpan.innerHTML = `
+                        <span style="color: ${seasonColor}; text-shadow: 0 0 8px ${seasonColor};">${nativeTrigram}</span>
+                        <span style="color: ${moonColor}; text-shadow: 0 0 8px ${moonColor}; margin-left:2px;">☷</span>
+                    `;
+                }
+                gate.style.color = seasonColor; // Çerçeve yeşil-mor geçişi hissettirir
+            } else if (gate === sunGate) {
+                if (trigramSpan) trigramSpan.innerHTML = `<span style="color: ${sunCircadianColor}; text-shadow: 0 0 8px ${sunCircadianColor};">${nativeTrigram}</span>`;
+                gate.style.color = sunCircadianColor;
+            } else if (gate === moonGate) {
+                if (trigramSpan) trigramSpan.innerHTML = `<span style="color: ${moonColor}; text-shadow: 0 0 8px ${moonColor};">${nativeTrigram}</span>`;
+                gate.style.color = moonColor;
+            } else if (gate === seasonGate) {
+                if (trigramSpan) trigramSpan.innerHTML = `<span style="color: ${seasonColor}; text-shadow: 0 0 8px ${seasonColor};">${nativeTrigram}</span>`;
+                gate.style.color = seasonColor;
+            } else {
+                if (trigramSpan) trigramSpan.textContent = nativeTrigram;
+            }
             
             if (binarySpan) binarySpan.textContent = nativeBinary;
         });
