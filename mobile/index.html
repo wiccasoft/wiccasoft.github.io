@@ -468,168 +468,162 @@ function getMoonPhase(year, month, day) {
 // 💓 74 BPM TAŞIYICI MOTOR DÖNGÜSÜ
 const bpm = 74;
 const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi frekansı)
-
 setInterval(() => {
-    // 1. Gün ve Saat Oranlarını Hesapla
+    // 1. CALCULATE TIME RATIOS
     const timeData = calculateCosmicTime();
-    
-    const fireGate = document.querySelector('.fire-gate');
-    const waterGate = document.querySelector('.water-gate');
-    const airGate = document.querySelector('.air-gate');
-    const earthGate = document.querySelector('.earth-gate');
-
-
-// 💓 TERTEMİZ, AKICI KOZMİK MOTOR DÖNGÜSÜ (setInterval içine yapıştırın)
-if (fireGate && waterGate && airGate && earthGate) {
     const now = new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
-
-    // 1. TÜM KAPILARI BAŞLANGIÇTA SÖNDÜR (Uykudaki elementler loş kalır)
-    const gates = [airGate, fireGate, earthGate, waterGate];
-    gates.forEach(gate => {
-        gate.style.opacity = 0.05;
-        gate.style.color = ''; // Orijinal CSS rengine döner
-        gate.style.filter = 'none';
-    });
-
-    // 2. GÜNEŞ'İN 24 SAATLİK PÜRÜZSÜZ DÖNÜŞÜ (Saat Yönünde Akış)
-    // 1440 dakikalık günü 0° - 360° arası akıcı bir açıya çeviriyoruz
-    const totalMinutes = (hours * 60) + minutes;
-    const sunAngle = (totalMinutes / 1440) * 360; // Gün içindeki tam pozisyon açısı
-
-
-  let sunGate;
-    if (sunAngle >= 45 && sunAngle < 135) { 
-        sunGate = airGate; 
-    } else if (sunAngle >= 135 && sunAngle < 225) { 
-        sunGate = fireGate; 
-    } else if (sunAngle >= 225 && sunAngle < 315) { 
-        sunGate = earthGate; 
-    } else { 
-        sunGate = waterGate; 
-    }
-
-    // Güneş'in bastığı kapıyı uykudan uyandır ve Güneş Turuncusu yap
-    sunGate.style.opacity = 0.6;
-    sunGate.style.color = '#ff5e00';
-
-    // 3. AY'IN 28 GÜNLÜK BAĞIMSIZ HAREKETİ VE DİNAMİK METİN KİLİDİ
-    const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
-    let moonGate;
-    let moonTrigram = "☵";
-    let moonColor = "#007fff";
-    let moonStatusText = "";
-
-    // Ay'ın evresine göre hem hangi kapıda parlayacağını hem de karakterini belirliyoruz
-    if (moonData.phase < 0.125 || moonData.phase >= 0.875) {
-        // 🌑 YENİ AY: Su kapısına gider, Kun Trigramı olur
-        moonGate = waterGate;
-        moonTrigram = "☷"; 
-        moonColor = "#a855f7"; // Siber Mor
-        moonStatusText = "SU [YENİ AY]";
-    } else if (moonData.phase >= 0.375 && moonData.phase < 0.625) {
-        // 🌕 DOLUNAY: Ateş kapısına gider, Qian Trigramı olur
-        moonGate = fireGate;
-        moonTrigram = "☰"; 
-        moonColor = "#ffffff"; // Siber Beyaz
-        moonStatusText = "ATEŞ [DOLUNAY]";
-    } else if (moonData.phase >= 0.125 && moonData.phase < 0.375) {
-        // 🌓 İLK DÖRDÜN: Hava kapısı
-        moonGate = airGate;
-        moonTrigram = "☲";
-        moonColor = "#00ffff"; // Siyan
-        moonStatusText = "HAVA [BÜYÜYEN AY]";
-    } else {
-        // 🌗 SON DÖRDÜN: Toprak kapısı
-        moonGate = earthGate;
-        moonTrigram = "☴";
-        moonColor = "#ff00ff"; // Macenta
-        moonStatusText = "TOPRAK [KÜÇÜLEN AY]";
-    }
-
-    // Ay'ın olduğu kapıyı parlat, I Ching sembolünü ve kapı metnini dinamik güncelle!
-    moonGate.style.opacity = 0.7;
-    moonGate.style.color = moonColor;
     
-    // Kapının içindeki metni ve trigramı canlı değiştiriyoruz (Hata payı sıfır)
-    const trigramSpan = moonGate.querySelector('.trigram');
-    if (trigramSpan) trigramSpan.textContent = moonTrigram;
-    
-    // Statik yazıyı kaldırıp o anki göksel durumu basıyoruz
-    // Bu satır "SU [AY DOLUNAY]" yazısını bugün otomatik olarak "SU [YENİ AY]" yapar!
-    const originalText = moonGate.childNodes[2]; 
-    if (originalText) {
-        // Kapının ismini dinamik olarak evreye kilitler
-        if(moonGate === waterGate) waterGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">: | :</span>`;
-        if(moonGate === fireGate) fireGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">|:|</span>`;
-        if(moonGate === airGate) airGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">||:</span>`;
-        if(moonGate === earthGate) earthGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">:::</span>`;
+    // SAFE ELEMENT SELECTION (FIXED HYPHENS TO camelCase)
+    const fireGate  = document.querySelector('.fire-gate');
+    const airGate   = document.querySelector('.air-gate');
+    const earthGate = document.querySelector('.earth-gate');
+    const waterGate = document.querySelector('.water-gate');
+    const lightGate = document.querySelector('.light-gate');
+    const etherGate = document.querySelector('.ether-gate');
+    const metalGate = document.querySelector('.metal-gate');
+    const iceGate   = document.querySelector('.ice-gate'); 
+
+    if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
+        
+        // STATIC CALM MOD: REMOVE GPU-MELTING FILTERS & BLURS FOR MAXIMUM CONTRAST
+        const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
+        all8Gates.forEach(gate => {
+            gate.style.opacity = "0.08";
+            gate.style.color = ''; 
+            gate.style.filter = 'none'; 
+            gate.classList.remove('pulse-hit');
+        });
+
+        // 2. SUN'S 24-HOUR CIRCADIAN ROTATION (8 Cosmic Sectors)
+        const totalMinutes = (hours * 60) + minutes;
+        const sunAngle = (totalMinutes / 1440) * 360; 
+
+        let sunGate;
+        if (sunAngle >= 22.5 && sunAngle < 67.5)        { sunGate = lightGate; } 
+        else if (sunAngle >= 67.5 && sunAngle < 112.5)   { sunGate = airGate; }   
+        else if (sunAngle >= 112.5 && sunAngle < 157.5)  { sunGate = etherGate; } 
+        else if (sunAngle >= 157.5 && sunAngle < 202.5)  { sunGate = fireGate; }  
+        else if (sunAngle >= 202.5 && sunAngle < 247.5)  { sunGate = metalGate; } 
+        else if (sunAngle >= 247.5 && sunAngle < 292.5)  { sunGate = earthGate; } 
+        else if (sunAngle >= 292.5 && sunAngle < 337.5)  { sunGate = iceGate; }   
+        else                                             { sunGate = waterGate; } 
+
+        // 3. MOON'S 28-DAY LUNAR PHASE INDEPENDENT CALCULATOR
+        const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
+        let moonGate;
+        let moonTrigram = "☵";
+        let moonColor = "#a855f7"; 
+        let moonStatusText = "";
+
+        if (moonData.phase < 0.125 || moonData.phase >= 0.875) {
+            moonGate = waterGate; moonTrigram = "☷"; moonStatusText = "SU [YENİ AY]";
+        } else if (moonData.phase >= 0.375 && moonData.phase < 0.625) {
+            moonGate = fireGate; moonTrigram = "☰"; moonColor = "#ffffff"; moonStatusText = "ATEŞ [DOLUNAY]";
+        } else if (moonData.phase >= 0.125 && moonData.phase < 0.375) {
+            moonGate = airGate; moonTrigram = "☲"; moonColor = "#00ffff"; moonStatusText = "HAVA [BÜYÜYEN AY]";
+        } else {
+            moonGate = earthGate; moonTrigram = "☴"; moonColor = "#ff00ff"; moonStatusText = "TOPRAK [KÜÇÜLEN AY]";
+        }
+
+        moonGate.style.opacity = "0.85";
+        moonGate.style.color = moonColor;
+        
+        if (moonGate === waterGate) waterGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">: | :</span>`;
+        if (moonGate === fireGate) fireGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">|:|</span>`;
+        if (moonGate === airGate) airGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">||:</span>`;
+        if (moonGate === earthGate) earthGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">:::</span>`;
+
+        // 4. REAL-TIME ASTRO ZODIAC BURÇ & DYNAMIC SABBAT INJECTION WITH MEVSİMSEL SPEKTRUM
+        const currentSunSign = getDynamicSunSign(); 
+        const currentSabbat = getDynamicSabbat(currentSunSign); 
+
+        // 🌍 YARIMKÜRE KONTROLÜNE BAĞLI MEVSİMSEL GEÇİŞ RENK SPEKTRUMU
+        const currentHemisphere = getHemisphere();
+        let sunMevsimColor = '#ff5e00'; // Varsayılan Güneş Turuncusu
+
+        // Eğer Başak burcundaysak (Eylül Ekinoks Geçiş Aksı)
+        if (currentSunSign.includes("VIRGO")) {
+            if (currentHemisphere === 'NORTHERN') {
+                sunMevsimColor = '#00ff66'; // 🍁 Kuzey Yarımküre: Sonbahar Geçiş Yeşili
+            } else {
+                sunMevsimColor = '#ff3300'; // 🌱 Güney Yarımküre: Bahar Uyanış Kırmızısı
+            }
+        }
+
+        // Güneş'in kapısını yeni mevsim rengiyle canlandır
+        sunGate.style.opacity = "0.85";
+        sunGate.style.color = sunMevsimColor; 
+
+        let gateName = "KAPI";
+        let gateTrigram = "☰";
+        if (sunGate === fireGate)  { gateName = "ATEŞ";  gateTrigram = "☲"; }
+        if (sunGate === airGate)   { gateName = "HAVA";   gateTrigram = "☵"; }
+        if (sunGate === earthGate) { gateName = "TOPRAK"; gateTrigram = "☲"; }
+        if (sunGate === waterGate) { gateName = "SU";     gateTrigram = "☷"; }
+        if (sunGate === lightGate) { gateName = "IŞIK";   gateTrigram = "☱"; }
+        if (sunGate === etherGate) { gateName = "RUH";    gateTrigram = "☴"; }
+        if (sunGate === metalGate) { gateName = "METAL";  gateTrigram = "☶"; }
+        if (sunGate === iceGate)   { gateName = "KRİSTAL";gateTrigram = "☳"; }
+
+        sunGate.innerHTML = `<span class="trigram">${gateTrigram}</span> ${gateName} [${currentSunSign} - SABBAT: ${currentSabbat}]`;
     }
-
-   // 4. ADIM: AKTİF KUTUPLARI SEÇ VE DİNAMİK BURÇ ETİKETLERİNİ ÇAK
-    const activeGates = [...new Set([sunGate, moonGate])];
-    const currentSunSign = getDynamicSunSign(); // Gerçek zamanlı burç (Başak vb.)
-
-    activeGates.forEach(gate => {
-        gate.classList.add('pulse-hit');
-        gate.style.opacity = "0.85";
-        
-        if (gate === sunGate) {
-            gate.style.color = '#ff5e00'; // Güneş Turuncusu
-            
-            // Sabit element isminin yanına o anki gerçek Güneş zodyak burcunu basar!
-            const trigramSymbol = gate.className.includes('fire') ? '☲' : (gate.className.includes('air') ? '||:' : ':::');
-            gate.innerHTML = `<span class="trigram">${trigramSymbol}</span> ATEŞ [${currentSunSign}]`;
-        }
-        
-        if (gate === moonGate) {
-            gate.style.color = '#a855f7'; // Ay Moru
-            // Ay zaten kendi fazına göre "SU [YENİ AY]" olarak ismini aşağıda koruyor
-        }
-    });
-
-}
-    // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
-    // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
-
-
-
 }, pulseInterval);
 
-
 function getDynamicSabbat(sunSign) {
+    const now = new Date();
+    const month = now.getMonth() + 1; // JS'de aylar 0-11 arasıdır
+    const day = now.getDate();
+
     // Tarayıcı zaman diliminden Güney Yarımküre kontrolü
     const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
     const southernKeywords = ['Australia', 'Sydney', 'Auckland', 'Wellington', 'Pacific', 'Sao_Paulo', 'Johannesburg'];
     const isSouthern = southernKeywords.some(keyword => timeZone.includes(keyword));
 
-    // Kuzey Yarımküre için Sabbat haritası
-    const northernSabbatMap = {
-        "VIRGO (BAŞAK)": "MABON (SONBAHAR EKİNOKSU)",
-        "SCORPIO (AKREP)": "SAMHAIN (ATEŞ FESTİVALİ)",
-        "AQUARIUS (KOVA)": "IMBOLC (ATEŞ FESTİVALİ)",
-        "TAURUS (BOĞA)": "BELTANE (ATEŞ FESTİVALİ)",
-        "LEO (ASLAN)": "LUGHNASADH (HASAT FESTİVALİ)",
-        "ARIES (KOÇ)": "OSTARA (BAHAR EKİNOKSU)",
-        "CANCER (YENGEÇ)": "LITHA (YAZ GÜNDÖNÜMÜ)",
-        "CAPRICORN (OĞLAK)": "YULE (KIŞ GÜNDÖNÜMÜ)"
-    };
+    // KUZEY YARIMKÜRE İÇİN GÜN BAZLI HASSAS SABBAT HARİTASI
+    let northernSabbat = "KOZMİK GEÇİŞ FAZI";
+    
+    if (sunSign === "VIRGO (BAŞAK)") {
+        // 21 Eylül'den önce Mabon Arifesidir (Geçiş Fazı)
+        northernSabbat = (day >= 21) ? "MABON (SONBAHAR EKİNOKSU)" : "MABON ARİFESİ (HASAT SONU)";
+    } else if (sunSign === "SCORPIO (AKREP)") {
+        northernSabbat = (day >= 31 || month === 11) ? "SAMHAIN (ATEŞ FESTİVALİ)" : "SAMHAIN GÖLGESİ";
+    } else if (sunSign === "AQUARIUS (KOVA)") {
+        northernSabbat = (day >= 1 && day <= 7) ? "IMBOLC (ATEŞ FESTİVALİ)" : "KIŞ ORTASI FAZI";
+    } else if (sunSign === "TAURUS (BOĞA)") {
+        northernSabbat = (day >= 1 && day <= 7) ? "BELTANE (ATEŞ FESTİVALİ)" : "BAHAR ZİRVESİ";
+    } else if (sunSign === "LEO (ASLAN)") {
+        northernSabbat = (day >= 1 && day <= 7) ? "LUGHNASADH (HASAT FESTİVALİ)" : "YAZ SONU FAZI";
+    } else if (sunSign === "ARIES (KOÇ)") {
+        northernSabbat = (day >= 21) ? "OSTARA (BAHAR EKİNOKSU)" : "OSTARA GEÇİŞİ";
+    } else if (sunSign === "CANCER (YENGEÇ)") {
+        northernSabbat = (day >= 21) ? "LITHA (YAZ GÜNDÖNÜMÜ)" : "YAZ BAŞLANGICI";
+    } else if (sunSign === "CAPRICORN (OĞLAK)") {
+        northernSabbat = (day >= 21) ? "YULE (KIŞ GÜNDÖNÜMÜ)" : "KIŞ GEÇİŞİ";
+    }
 
-    // Güney Yarımküre için tam tersi (Aynalanmış) Sabbat haritası
-    const southernSabbatMap = {
-        "VIRGO (BAŞAK)": "OSTARA (BAHAR EKİNOKSU)", // Wellington şu an bunu yaşıyor!
-        "SCORPIO (AKREP)": "BELTANE (ATEŞ FESTİVALİ)",
-        "AQUARIUS (KOVA)": "LUGHNASADH (HASAT FESTİVALİ)",
-        "TAURUS (BOĞA)": "SAMHAIN (ATEŞ FESTİVALİ)",
-        "LEO (ASLAN)": "IMBOLC (ATEŞ FESTİVALİ)",
-        "ARIES (KOÇ)": "MABON (SONBAHAR EKİNOKSU)",
-        "CANCER (YENGEÇ)": "YULE (KIŞ GÜNDÖNÜMÜ)",
-        "CAPRICORN (OĞLAK)": "LITHA (YAZ GÜNDÖNÜMÜ)"
-    };
+    // GÜNEY YARIMKÜRE İÇİN AYNALANMIŞ HASSAS HARİTA (Wellington vb.)
+    let southernSabbat = "KOZMİK GEÇİŞ FAZI";
+    if (sunSign === "VIRGO (BAŞAK)") {
+        southernSabbat = (day >= 21) ? "OSTARA (BAHAR EKİNOKSU)" : "OSTARA ARİFESİ (UYANIŞ)";
+    } else if (sunSign === "SCORPIO (AKREP)") {
+        southernSabbat = (day >= 31 || month === 11) ? "BELTANE (ATEŞ FESTİVALİ)" : "BELTANE GÖLGESİ";
+    } else if (sunSign === "AQUARIUS (KOVA)") {
+        southernSabbat = (day >= 1 && day <= 7) ? "LUGHNASADH (HASAT FESTİVALİ)" : "YAZ SONU GEÇİŞİ";
+    } else if (sunSign === "TAURUS (BOĞA)") {
+        southernSabbat = (day >= 1 && day <= 7) ? "SAMHAIN (ATEŞ FESTİVALİ)" : "KIŞA DOĞRU FAZ";
+    } else if (sunSign === "LEO (ASLAN)") {
+        southernSabbat = (day >= 1 && day <= 7) ? "IMBOLC (ATEŞ FESTİVALİ)" : "ERKEN BAHAR FAZI";
+    } else if (sunSign === "ARIES (KOÇ)") {
+        southernSabbat = (day >= 21) ? "MABON (SONBAHAR EKİNOKSU)" : "HASAT BAŞLANGICI";
+    } else if (sunSign === "CANCER (YENGEÇ)") {
+        southernSabbat = (day >= 21) ? "YULE (KIŞ GÜNDÖNÜMÜ)" : "KIŞ BAŞLANGICI";
+    } else if (sunSign === "CAPRICORN (OĞLAK)") {
+        southernSabbat = (day >= 21) ? "LITHA (YAZ GÜNDÖNÜMÜ)" : "YAZ GEÇİŞİ";
+    }
 
-    const currentMap = isSouthern ? southernSabbatMap : northernSabbatMap;
-    return currentMap[sunSign] || "KOZMİK GEÇİŞ";
+    return isSouthern ? southernSabbat : northernSabbat;
 }
 
 function getDynamicSunSign() {
