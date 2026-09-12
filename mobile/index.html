@@ -465,37 +465,101 @@ setInterval(() => {
     const waterGate = document.querySelector('.water-gate');
     const airGate = document.querySelector('.air-gate');
     const earthGate = document.querySelector('.earth-gate');
-// 💓 24 SAATLİK BASİT DÖNGÜ VE 74 BPM NABIZ MOTORU
+
+    
+// 💓 TERTEMİZ, AKICI KOZMİK MOTOR DÖNGÜSÜ (setInterval içine yapıştırın)
 if (fireGate && waterGate && airGate && earthGate) {
     const now = new Date();
     const hours = now.getHours();
+    const minutes = now.getMinutes();
 
-    // Önce hepsini söndür (Uykudaki elementler loş kalır)
-    airGate.style.opacity = 0.05;
-    fireGate.style.opacity = 0.05;
-    earthGate.style.opacity = 0.05;
-    waterGate.style.opacity = 0.05;
+    // 1. TÜM KAPILARI BAŞLANGIÇTA SÖNDÜR (Uykudaki elementler loş kalır)
+    const gates = [airGate, fireGate, earthGate, waterGate];
+    gates.forEach(gate => {
+        gate.style.opacity = 0.05;
+        gate.style.color = ''; // Orijinal CSS rengine döner
+        gate.style.filter = 'none';
+    });
 
-    // Saat dilimine göre aktif elementleri belirle (Şu an saat 09:25 olduğu için ilk if çalışacak)
-    let activeGates = [];
-    if (hours >= 6 && hours < 12)    { activeGates = [airGate, fireGate]; }
-    else if (hours >= 12 && hours < 18) { activeGates = [fireGate, earthGate]; }
-    else if (hours >= 18 && hours < 24) { activeGates = [earthGate, waterGate]; }
-    else                                { activeGates = [waterGate, airGate]; }
+    // 2. GÜNEŞ'İN 24 SAATLİK PÜRÜZSÜZ DÖNÜŞÜ (Saat Yönünde Akış)
+    // 1440 dakikalık günü 0° - 360° arası akıcı bir açıya çeviriyoruz
+    const totalMinutes = (hours * 60) + minutes;
+    const sunAngle = (totalMinutes / 1440) * 360; // Gün içindeki tam pozisyon açısı
 
-    // Aktif olanları uykudan uyandır ve bekleme modunda %60 görünür yap
-    activeGates.forEach(gate => gate.style.opacity = 0.6);
+    let sunGate;
+    // Güneş saat yönünde pürüzsüzce kapıları işgal ediyor:
+    if (sunAngle >= 0 && sunAngle < 90)       { sunGate = airGate; }   // 💨 Şafak / Sabah (Doğu)
+    else if (sunAngle >= 90 && sunAngle < 180)  { sunGate = fireGate; }  // 🔥 Öğlen / Tepe noktası (Güney)
+    else if (sunAngle >= 180 && sunAngle < 270) { sunGate = earthGate; } // 🌱 Gün Batımı / Akşam (Batı)
+    else                                        { sunGate = waterGate; } // 💧 Gece Yarısı / Dip noktası (Kuzey)
 
-    // 74 BPM Nabız vuruş anı (Sadece aktif olan iki element kalp gibi patlar)
+    // Güneş'in bastığı kapıyı uykudan uyandır ve Güneş Turuncusu yap
+    sunGate.style.opacity = 0.6;
+    sunGate.style.color = '#ff5e00'; 
+
+    // 3. AY'IN 28 GÜNLÜK BAĞIMSIZ HAREKETİ VE DİNAMİK METİN KİLİDİ
+    const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
+    let moonGate;
+    let moonTrigram = "☵";
+    let moonColor = "#007fff";
+    let moonStatusText = "";
+
+    // Ay'ın evresine göre hem hangi kapıda parlayacağını hem de karakterini belirliyoruz
+    if (moonData.phase < 0.125 || moonData.phase >= 0.875) {
+        // 🌑 YENİ AY: Su kapısına gider, Kun Trigramı olur
+        moonGate = waterGate;
+        moonTrigram = "☷"; 
+        moonColor = "#a855f7"; // Siber Mor
+        moonStatusText = "SU [YENİ AY]";
+    } else if (moonData.phase >= 0.375 && moonData.phase < 0.625) {
+        // 🌕 DOLUNAY: Ateş kapısına gider, Qian Trigramı olur
+        moonGate = fireGate;
+        moonTrigram = "☰"; 
+        moonColor = "#ffffff"; // Siber Beyaz
+        moonStatusText = "ATEŞ [DOLUNAY]";
+    } else if (moonData.phase >= 0.125 && moonData.phase < 0.375) {
+        // 🌓 İLK DÖRDÜN: Hava kapısı
+        moonGate = airGate;
+        moonTrigram = "☲";
+        moonColor = "#00ffff"; // Siyan
+        moonStatusText = "HAVA [BÜYÜYEN AY]";
+    } else {
+        // 🌗 SON DÖRDÜN: Toprak kapısı
+        moonGate = earthGate;
+        moonTrigram = "☴";
+        moonColor = "#ff00ff"; // Macenta
+        moonStatusText = "TOPRAK [KÜÇÜLEN AY]";
+    }
+
+    // Ay'ın olduğu kapıyı parlat, I Ching sembolünü ve kapı metnini dinamik güncelle!
+    moonGate.style.opacity = 0.7;
+    moonGate.style.color = moonColor;
+    
+    // Kapının içindeki metni ve trigramı canlı değiştiriyoruz (Hata payı sıfır)
+    const trigramSpan = moonGate.querySelector('.trigram');
+    if (trigramSpan) trigramSpan.textContent = moonTrigram;
+    
+    // Statik yazıyı kaldırıp o anki göksel durumu basıyoruz
+    // Bu satır "SU [AY DOLUNAY]" yazısını bugün otomatik olarak "SU [YENİ AY]" yapar!
+    const originalText = moonGate.childNodes[2]; 
+    if (originalText) {
+        // Kapının ismini dinamik olarak evreye kilitler
+        if(moonGate === waterGate) waterGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">: | :</span>`;
+        if(moonGate === fireGate) fireGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">|:|</span>`;
+        if(moonGate === airGate) airGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">||:</span>`;
+        if(moonGate === earthGate) earthGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">:::</span>`;
+    }
+
+    // 4. 74 BPM ANLIK NABIZ VURUŞU (Güneş ve Ay kapıları ortak ritimle patlar)
+    const activeGates = [...new Set([sunGate, moonGate])];
     activeGates.forEach(gate => {
         gate.classList.add('pulse-hit');
         gate.style.opacity = 1.0;
-        gate.style.filter = 'brightness(2) drop-shadow(0 0 20px currentColor)';
+        gate.style.filter = `brightness(2) drop-shadow(0 0 25px currentColor)`;
 
-        // 150ms sonra kendi aktif bekleme moduna (%60) geri döner
         setTimeout(() => {
             gate.classList.remove('pulse-hit');
-            gate.style.opacity = 0.6;
+            gate.style.opacity = (gate === moonGate) ? 0.7 : 0.6;
             gate.style.filter = 'none';
         }, 150);
     });
