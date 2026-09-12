@@ -612,9 +612,10 @@ setInterval(() => {
         const totalMinutes = (hours * 60) + minutes;
         //const sunAngle = (totalMinutes / 1440) * 360; 
 
-         // BU İKİ SATIRI BUL VE DEĞİŞTİR:
+   
     const timeData = calculateCosmicTime(); // Yeni astronomik motordan gelen veriler
-    const sunAngle = timeData.sunAngle;     // Matematiksel esnetilmiş gerçek açı!
+    //const sunAngle = timeData.sunAngle;     // Matematiksel esnetilmiş gerçek açı!
+     const sunAngle = getAstroSunAngle(); // Gerçek gün uzunluğuna göre esneyen siber açı!
 
         let sunGate;
         if (sunAngle >= 0 && sunAngle < 45)          { sunGate = metalGate; } // Kaydırıldı (Eski: waterGate)
