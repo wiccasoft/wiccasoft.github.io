@@ -642,16 +642,18 @@ const currentHemisphere = getHemisphere();
 let seasonGate;
 let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
 
-// Güneş Başak'tayken (Eylül Ekinoks Eşiği)
- // 3. ADIM: MAKRÖ MEVSİM MOTORU (TÜM SABBAT FESTİVALLERİ DÖNGÜSÜ)
-        if (currentSunSign.includes("VIRGO")) { 
-            // 🍁 MABON (Sonbahar Ekinoksu)
+        // Güneş Başak'tayken (Eylül Ekinoks Eşiği)
+        // 3. ADIM: MAKRÖ MEVSİM MOTORU (TÜM SABBAT FESTİVALLERİ DÖNGÜSÜ)
+        // 🍁 KUZEY YARIMKÜRE (Mabon): Enerji tam sol aksta, Metal/Metatron kapısında sabitlenir!
+        if (currentSunSign.includes("VIRGO")) {
             if (currentHemisphere === 'NORTHERN') {
-                seasonGate = metalGate; seasonColor = '#00ff66'; // Hasat Yeşili -> Metal/Metatron Kapısı
+                seasonGate = metalGate; // Çok aşağı inmesini engelledik, yukarı kilitledik!
+                seasonColor = '#00ff66'; 
             } else {
-                seasonGate = fireGate; seasonColor = '#ff3300'; // Ostara Bahar Kırmızısı -> Ateş Kapısı
+                seasonGate = fireGate;
+                seasonColor = '#ff3300';
             }
-        } 
+        }
         else if (currentSunSign.includes("SCORPIO")) { 
             // 🎃 SAMHAIN (Cadılar Bayramı / Yılbaşı)
             if (currentHemisphere === 'NORTHERN') {
