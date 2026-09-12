@@ -486,6 +486,15 @@ setInterval(() => {
     // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
     // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
 
+    // setInterval döngünüzün içine (en alta) ekleyin:
+const metatronHolder = document.querySelector('.metatron-three-iframe-holder');
+if (metatronHolder) {
+    // Öğlen (dayCycle: 1) -> Orijinal Turuncu/Sarı spektrum
+    // Gece (dayCycle: 0) -> 180 derece dönerek tam zıttı olan Siber Gece Mavisine bükülür
+    const hueRotation = (1 - timeData.dayCycle) * 180; 
+    metatronHolder.style.filter = `hue-rotate(${hueRotation}deg) brightness(${0.8 + (timeData.dayCycle * 0.4)})`;
+}
+
 }, pulseInterval);
 
     </script>
