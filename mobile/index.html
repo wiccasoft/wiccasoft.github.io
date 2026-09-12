@@ -287,6 +287,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     z-index: 5; /* Metatron iframe'inin üzerinde, buton katmanının altında */
 }
 
+/* 🧭 GERÇEK HAÇ/PUSULA EKSENİ STILLERİ */
 .element-corner {
     position: absolute;
     font-family: 'Segoe UI', monospace;
@@ -299,17 +300,40 @@ body, html, h1, h2, h3, p, a, button, .btn {
     backdrop-filter: blur(2px);
     transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
     opacity: 0.3;
+    z-index: 5;
 }
 
-.element-corner .trigram { font-size: 1.1rem; margin-right: 5px; vertical-align: middle; }
-.element-corner .iching-binary { font-size: 0.65rem; margin-left: 5px; opacity: 0.5; }
+/* 🔥 Tam Üst Orta (Öğlen Ekseni) */
+.fire-gate { 
+    top: 90px; left: 50%; 
+    transform: translateX(-50%); 
+    color: #ff3b30; border-top: 2px solid #ff3b30; 
+}
+/* 💨 Tam Sağ Orta (Sabah Ekseni) */
+.air-gate { 
+    top: 50%; right: 20px; 
+    transform: translateY(-50%); 
+    color: #00ffff; border-right: 2px solid #00ffff; 
+}
+/* 🌱 Tam Sol Orta (Akşam Ekseni) */
+.earth-gate { 
+    top: 50%; left: 20px; 
+    transform: translateY(-50%); 
+    color: #ff00ff; border-left: 2px solid #ff00ff; 
+}
+/* 💧 Tam Alt Orta (Gece Ekseni) */
+.water-gate { 
+    bottom: 100px; left: 50%; 
+    transform: translateX(-50%); 
+    color: #007fff; border-bottom: 2px solid #007fff; 
+}
 
-/* 🧭 KÖŞE KONUMLANDIRMALARI VE RENK KODLARI */
-.fire-gate { top: 90px; left: 20px; color: #ff3b30; border-left: 2px solid #ff3b30; }
-.air-gate { top: 90px; right: 20px; color: #00ffff; border-right: 2px solid #00ffff; }
-.earth-gate { bottom: 100px; left: 20px; color: #ff00ff; border-left: 2px solid #ff00ff; }
-.water-gate { bottom: 100px; right: 20px; color: #007fff; border-right: 2px solid #007fff; }
-
+/* Parlama Anında Merkezlemelerin Bozulmaması İçin */
+.pulse-hit {
+    filter: brightness(2) drop-shadow(0 0 25px currentColor) !important;
+}
+.fire-gate.pulse-hit, .water-gate.pulse-hit { transform: translateX(-50%) scale(1.05); }
+.air-gate.pulse-hit, .earth-gate.pulse-hit { transform: translateY(-50%) scale(1.05); }
 /* CSS içerisindeki .pulse-hit sınıfını bununla değiştirin (opacity kalktı) */
 .pulse-hit {
     filter: drop-shadow(0 0 20px currentColor);
@@ -466,7 +490,7 @@ setInterval(() => {
     const airGate = document.querySelector('.air-gate');
     const earthGate = document.querySelector('.earth-gate');
 
-    
+
 // 💓 TERTEMİZ, AKICI KOZMİK MOTOR DÖNGÜSÜ (setInterval içine yapıştırın)
 if (fireGate && waterGate && airGate && earthGate) {
     const now = new Date();
@@ -488,10 +512,15 @@ if (fireGate && waterGate && airGate && earthGate) {
 
     let sunGate;
     // Güneş saat yönünde pürüzsüzce kapıları işgal ediyor:
-    if (sunAngle >= 0 && sunAngle < 90)       { sunGate = airGate; }   // 💨 Şafak / Sabah (Doğu)
-    else if (sunAngle >= 90 && sunAngle < 180)  { sunGate = fireGate; }  // 🔥 Öğlen / Tepe noktası (Güney)
-    else if (sunAngle >= 180 && sunAngle < 270) { sunGate = earthGate; } // 🌱 Gün Batımı / Akşam (Batı)
-    else                                        { sunGate = waterGate; } // 💧 Gece Yarısı / Dip noktası (Kuzey)
+// Güneş saat yönünde tam artı ekseninde dönüyor:
+// Saat 03:00 - 09:00 arası -> SAĞDA (Hava) parlar
+if (sunAngle >= 45 && sunAngle < 135)        { sunGate = airGate; }   
+// Saat 09:00 - 15:00 arası (ÖĞLEN) -> TAM TEPEDE (Ateş) parlar!
+else if (sunAngle >= 135 && sunAngle < 225)  { sunGate = fireGate; }  
+// Saat 15:00 - 21:00 arası -> SOLDAYKEN (Toprak) parlar
+else if (sunAngle >= 225 && sunAngle < 315)  { sunGate = earthGate; } 
+// Saat 21:00 - 03:00 arası -> TAM DİPDE (Su) parlar
+else                                         { sunGate = waterGate; }                                    { sunGate = waterGate; } // 💧 Gece Yarısı / Dip noktası (Kuzey)
 
     // Güneş'in bastığı kapıyı uykudan uyandır ve Güneş Turuncusu yap
     sunGate.style.opacity = 0.6;
