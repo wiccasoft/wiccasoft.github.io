@@ -577,12 +577,16 @@ function getMoonPhase(year, month, day) {
 // 💓 74 BPM TAŞIYICI MOTOR DÖNGÜSÜ
 const bpm = 74;
 const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi frekansı)
+
+
 setInterval(() => {
+    // 1. GÜN VE SAAT ORANLARINI HESAPLA
     const timeData = calculateCosmicTime();
     const now = new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
     
+    // SAFE ELEMENT SELECTION (ID ÜZERİNDEN GÜVENLİ BAĞLANTI)
     const fireGate  = document.getElementById('gate-fire');
     const airGate   = document.getElementById('gate-air');
     const earthGate = document.getElementById('gate-earth');
@@ -597,28 +601,55 @@ setInterval(() => {
         
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         
-        // TÜM ÇEMBERİ BAŞLANGIÇTA SÖNÜK GRİ YAP
+        // 1. ADIM: TÜM ÇEMBERİ DURAĞAN MODA AL VE SÖNÜK GRİ YAP (GPU KORUMASI)
         all8Gates.forEach(gate => {
             gate.classList.remove('active-glow');
             gate.style.opacity = "0.2";
             gate.style.color = "#444444";
         });
 
-        // GÜNEŞ'İN SEYRİ (8 Aşamalı Çark)
+        // 2. ADIM: MİKRO GÜNEŞ'İN 24 SAATLİK SEYRİ (Anlık Gün Saati - Akıcı Spektrum)
         const totalMinutes = (hours * 60) + minutes;
         const sunAngle = (totalMinutes / 1440) * 360; 
 
         let sunGate;
-        if (sunAngle >= 22.5 && sunAngle < 67.5)        { sunGate = lightGate; } 
-        else if (sunAngle >= 67.5 && sunAngle < 112.5)   { sunGate = airGate; }   
-        else if (sunAngle >= 112.5 && sunAngle < 157.5)  { sunGate = etherGate; } 
-        else if (sunAngle >= 157.5 && sunAngle < 202.5)  { sunGate = fireGate; }  
-        else if (sunAngle >= 202.5 && sunAngle < 247.5)  { sunGate = metalGate; } 
-        else if (sunAngle >= 247.5 && sunAngle < 292.5)  { sunGate = earthGate; } 
-        else if (sunAngle >= 292.5 && sunAngle < 337.5)  { sunGate = iceGate; }   
-        else                                             { sunGate = waterGate; } 
+        if (sunAngle >= 0 && sunAngle < 45)          { sunGate = waterGate; } 
+        else if (sunAngle >= 45 && sunAngle < 90)    { sunGate = iceGate; }   
+        else if (sunAngle >= 90 && sunAngle < 135)   { sunGate = earthGate; } 
+        else if (sunAngle >= 135 && sunAngle < 180)  { sunGate = fireGate; }  
+        else if (sunAngle >= 180 && sunAngle < 225)  { sunGate = lightGate; } 
+        else if (sunAngle >= 225 && sunAngle < 270)  { sunGate = airGate; }   // Şu an saat 16:02 burası aktif!
+        else if (sunAngle >= 270 && sunAngle < 315)  { sunGate = etherGate; } 
+        else                                         { sunGate = metalGate; } 
 
-        // AY'IN SEYRİ (Karanlık Ay / Hekate Kurgusu)
+        // Gün içindeki saate göre saf parlaklık spektrumu (Doğarken Sarı, Tepe Turuncu, Batarken Turkuaz)
+        let sunCircadianColor = '#ff5e00'; 
+        if (sunAngle >= 90 && sunAngle < 135)       { sunCircadianColor = '#ffaa00'; } // Sabah Altın Sarı
+        else if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu
+        else if (sunAngle >= 180 && sunAngle < 270) { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı (Şu an aktif!)
+        else                                        { sunCircadianColor = '#7a00ff'; } // Gece Derin Yin Mor
+
+  // 3. ADIM: MAKRÖ MEVSİM MOTORU (seasonGate - Yeşilin Suya, Kırmızının Ateşe Akış Döngüsü)
+        const currentSunSign = getDynamicSunSign(); 
+        const currentSabbat = getDynamicSabbat(currentSunSign); 
+        const currentHemisphere = getHemisphere();
+
+        let seasonGate;
+        let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
+
+        // Güneş Başak'tayken (Eylül Ekinoks Eşiği)
+        if (currentSunSign.includes("VIRGO")) {
+            if (currentHemisphere === 'NORTHERN') {
+                // 🍁 KUZEY YARIMKÜRE (Mabon): Yapraklar dökülüyor, enerji elementin dibine yani SU'ya akıyor ve topraklanıyor!
+                seasonGate = waterGate; // 🌌 YEŞİL FENER TAM ALTAKİ SU KAPISINA KİLİTLENİR!
+                seasonColor = '#00ff66'; // Hasat Yeşili
+            } else {
+                // 🌱 GÜNEY YARIMKÜRE (Ostara): Kış karanlığı yırtılıyor, kırmızı enerji üstteki ATEŞ'le bahara uyanıyor!
+                seasonGate = fireGate; // 🌌 KIRMIZI FENER TAM ÜSTTEKİ ATEŞ KAPISINA KİLİTLENİR!
+                seasonColor = '#ff3300'; // Bahar Uyanış Kırmızısı
+            }
+        }
+        // 4. ADIM: AY'IN 28 GÜNLÜK DÖNGÜSÜ (Karanlık Ay / Hekate Sabitlemesi)
         const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
         let moonGate;
         let moonColor = "#a855f7"; 
@@ -636,24 +667,80 @@ setInterval(() => {
             moonGate = earthGate; moonColor = "#ff00ff"; moonText = "KÜÇÜLEN AY";
         }
 
-        // DİNAMİK SABBAT VE YARIMKÜRE RENK SPEKTRUMU
-        const currentSunSign = getDynamicSunSign(); 
-        const currentSabbat = getDynamicSabbat(currentSunSign); 
-        const currentHemisphere = getHemisphere();
-
-        let sunMevsimColor = '#ff5e00'; 
-        if (currentSunSign.includes("VIRGO")) {
-            sunMevsimColor = (currentHemisphere === 'NORTHERN') ? '#00ff66' : '#ff3300';
-        }
-
-        // AY VE GÜNEŞ ÇERÇEVELERİNİ YERLERİNDEN OYNATMADAN SAF RENKLE YAK
+            // 5. I CHING VE TRIGRAM YAPILARINI ASLA EZMEDEN AKILLI IŞIKLANDIRMA (ÇİFT TRIGRAM DESTEĞİ)
+        // Önce tüm kapılardaki parlamaları aktif et
         moonGate.classList.add('active-glow');
         moonGate.style.color = moonColor;
+        moonGate.style.opacity = "0.95";
 
         sunGate.classList.add('active-glow');
-        sunGate.style.color = sunMevsimColor;
+        sunGate.style.color = sunCircadianColor;
+        sunGate.style.opacity = "0.95";
 
-        // 🌌 TÜM UZUN METİNLERİ EKRANIN ALTINDAKİ SİBER BARDA BİRLEŞTİR
+        if (seasonGate) {
+            seasonGate.classList.add('active-glow');
+            seasonGate.style.opacity = "0.95";
+        }
+
+        // 🎛️ HER KAPININ KENDİ COĞRAFİ VE MEVSİMSEL TRIGRAMINI YENİDEN ENJEKTE EDİP KİLİTLİYORUZ
+        all8Gates.forEach(gate => {
+            const trigramSpan = gate.querySelector('.trigram');
+            const binarySpan = gate.querySelector('.iching-binary');
+            
+            let nativeTrigram = "☰";
+            let nativeBinary = "|||";
+
+            if (gate === fireGate)  { nativeTrigram = "☲"; nativeBinary = "|:|"; }
+            if (gate === airGate)   { nativeTrigram = "☵"; nativeBinary = ":|:"; }
+            if (gate === earthGate) { nativeTrigram = "☲"; nativeBinary = "|:|"; }
+            if (gate === waterGate) { nativeTrigram = "☷"; nativeBinary = ":::"; }
+            if (gate === lightGate) { nativeTrigram = "☱"; nativeBinary = "||:"; }
+            if (gate === etherGate) { nativeTrigram = "☴"; nativeBinary = ":||"; }
+            if (gate === metalGate) { nativeTrigram = "☶"; nativeBinary = "::|"; }
+            if (gate === iceGate)   { nativeTrigram = "☳"; nativeBinary = "|::"; }
+
+            // Eğer mevsim kapısı ile Ay kapısı aynı yerdeyse (Şu an SU kapısı gibi)
+            if (gate === seasonGate && gate === moonGate) {
+                // Sol tarafa yeşil Mevsim trigramını, sağ tarafa mor Ay trigramını yan yana çakıyoruz!
+                if (trigramSpan) {
+                    trigramSpan.innerHTML = `
+                        <span style="color: ${seasonColor}; text-shadow: 0 0 8px ${seasonColor};">${nativeTrigram}</span>
+                        <span style="color: ${moonColor}; text-shadow: 0 0 8px ${moonColor}; margin-left:2px;">☷</span>
+                    `;
+                }
+                gate.style.color = seasonColor; // Çerçeve yeşil-mor geçişi hissettirir
+            } else if (gate === sunGate) {
+                if (trigramSpan) trigramSpan.innerHTML = `<span style="color: ${sunCircadianColor}; text-shadow: 0 0 8px ${sunCircadianColor};">${nativeTrigram}</span>`;
+                gate.style.color = sunCircadianColor;
+            } else if (gate === moonGate) {
+                if (trigramSpan) trigramSpan.innerHTML = `<span style="color: ${moonColor}; text-shadow: 0 0 8px ${moonColor};">${nativeTrigram}</span>`;
+                gate.style.color = moonColor;
+            } else if (gate === seasonGate) {
+                if (trigramSpan) trigramSpan.innerHTML = `<span style="color: ${seasonColor}; text-shadow: 0 0 8px ${seasonColor};">${nativeTrigram}</span>`;
+                gate.style.color = seasonColor;
+            } else {
+                if (trigramSpan) trigramSpan.textContent = nativeTrigram;
+            }
+            
+            if (binarySpan) binarySpan.textContent = nativeBinary;
+        });
+
+        // 2. Anlık Gün Saat Fenerini Yak (Şu an Turkuaz)
+        sunGate.classList.add('active-glow');
+        sunGate.style.color = sunCircadianColor;
+        sunGate.style.opacity = "0.95";
+
+        // 3. Yıllık Büyük Mevsim Fenerini Yak (SABİT MABON YEŞİLİ!)
+        if (seasonGate) {
+            seasonGate.classList.add('active-glow');
+            // Eğer o mevsim kapısının üzerinde anlık olarak Ay veya Güneş yoksa yeşil feneri yak
+            if (seasonGate !== sunGate && seasonGate !== moonGate) {
+                seasonGate.style.color = seasonColor;
+                seasonGate.style.opacity = "0.85";
+            }
+        }
+
+        // 6. ADIM: TÜM DETAYLI METİNLERİ ALT DURUM BARINA AKIT
         if (statusBar) {
             let activeGateName = "KAPI";
             if (sunGate === fireGate)  activeGateName = "ATEŞ";
@@ -666,13 +753,15 @@ setInterval(() => {
             if (sunGate === iceGate)   activeGateName = "KRİSTAL";
 
             statusBar.innerHTML = `
-                <span style="color: ${sunMevsimColor}">SOLAR: ${activeGateName} [${currentSunSign}]</span> 
-                <span style="color: #a855f7; margin-left:10px;">LUNAR: ${moonText}</span><br>
-                <span style="color: #666; font-size:0.52rem;">SABBAT: ${currentSabbat} (${currentHemisphere})</span>
+                <span style="color: ${sunCircadianColor}">SOLAR TIME: ${activeGateName}</span> 
+                <span style="color: ${seasonColor}; margin-left:12px;">MEVSİM: ${currentSabbat} [${currentSunSign}]</span><br>
+                <span style="color: #a855f7;">LUNAR PHASE: ${moonText}</span> 
+                <span style="color: #666; font-size:0.52rem; margin-left:10px;">HEMISPHERE: ${currentHemisphere}</span>
             `;
         }
     }
 }, pulseInterval);
+
 function getDynamicSabbat(sunSign) {
     const now = new Date();
     const month = now.getMonth() + 1; // JS'de aylar 0-11 arasıdır
