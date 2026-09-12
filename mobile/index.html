@@ -313,6 +313,44 @@ body, html, h1, h2, h3, p, a, button, .btn {
     <script>
 
 
+// 24 Saati 28 Günlük Ay Döngüsüne Bağlayan Senkronizasyon Fonksiyonu
+function calculateLunarSync() {
+    const simdi = new Date();
+    
+    // 1. Mikro Zaman (24 Saatlik Manyetik Açı)
+    const saat = simdi.getHours();
+    const dakika = simdi.getMinutes();
+    // Gün içindeki manyetik dönüş açısı (0° - 360°)
+    const gunIciManyetikAci = ((saat * 60 + dakika) / 1440) * 360;
+
+    // 2. Makro Zaman (28 Günlük Ay Evresi Açısı)
+    // Yukarıda yazdığımız Ay evresi yüzdesini (0 ile 1 arası) alıyoruz
+    const moonPhaseObj = getMoonPhase(simdi.getFullYear(), simdi.getMonth(), simdi.getDate());
+    const ayEvreAcisi = moonPhaseObj.phase * 360; // 0° - 360° arası Ay konumu
+
+    return {
+        earthMagneticAngle: gunIciManyetikAci, // Gün içindeki 24 saatlik dönüş
+        moonOrbitAngle: ayEvreAcisi,           // 28 günlük büyük döngüdeki yeri
+        currentPhase: moonPhaseObj
+    };
+}
+
+function getHemisphere() {
+    // Cihazın mevcut zaman dilimini alır (Örn: "Pacific/Auckland" veya "Europe/Istanbul")
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    
+    // Güney Yarımküre'de sık kullanılan bazı ana bölge isimleri
+    const southernKeywords = [
+        'Australia', 'Sydney', 'Melbourne', 'Auckland', 'Wellington', 
+        'Pacific', 'Santiagos', 'Buenos_Aires', 'Sao_Paulo', 'Johannesburg'
+    ];
+    
+    // Zaman dilimi adında bu kelimelerden biri geçiyorsa Güney Yarımküre'dedir
+    const isSouthern = southernKeywords.some(keyword => timeZone.includes(keyword));
+    
+    return isSouthern ? 'SOUTHERN' : 'NORTHERN';
+}
+
     </script>
 
     
