@@ -610,7 +610,11 @@ setInterval(() => {
 
      // 2. ADIM: MİKRO GÜNEŞ'İN 24 SAATLİK SEYRİ (Anlık Gün Saati - Bir Adım Geriye Kalibre Edildi)
         const totalMinutes = (hours * 60) + minutes;
-        const sunAngle = (totalMinutes / 1440) * 360; 
+        //const sunAngle = (totalMinutes / 1440) * 360; 
+
+         // BU İKİ SATIRI BUL VE DEĞİŞTİR:
+    const timeData = calculateCosmicTime(); // Yeni astronomik motordan gelen veriler
+    const sunAngle = timeData.sunAngle;     // Matematiksel esnetilmiş gerçek açı!
 
         let sunGate;
         if (sunAngle >= 0 && sunAngle < 45)          { sunGate = metalGate; } // Kaydırıldı (Eski: waterGate)
@@ -915,35 +919,29 @@ function initGeoLocation() {
 
 
 // =========================================================================
-// 🌍 SIFIR İZİNLİ OTOMATİK ZAMAN DİLİMİ ALGILAYICI (TIMEZONE DETECTOR)
+// 🌍 SIFIR İZİNLİ OTOMATİK ZAMAN DİLİMİ VE GEZEGEN MOTORU (1. PARÇA)
 // =========================================================================
-let currentLat = 40.92;  // Varsayılan: İstanbul Enlemi
-let currentLon = 29.13;  // Varsayılan: İstanbul Boylamı
+let currentLat = 40.92; 
+let currentLon = 29.13; 
 
 function detectLocationByTimezone() {
-    // Telefonun dünya saatine (UTC) göre kaç dakika ileride/geride olduğunu alır
-    const offset = new Date().getTimezoneOffset(); // Türkiye için bu değer -180'dir!
-    
+    const offset = new Date().getTimezoneOffset();
     if (offset === -180) {
-        // 🇹🇷 Kullanıcı Türkiye / İstanbul zaman diliminde!
-        currentLat = 40.92;
-        currentLon = 29.13;
-        console.log("[Cosmic-Zone] GMT+3 Algılandı: İstanbul koordinatları kilitlendi.");
-    } else if (offset === 0 || offset === -60) {
-        // 🇪🇺 Londra / Orta Avrupa zaman dilimi (Örnek alternatif)
-        currentLat = 48.85; 
-        currentLon = 2.35;  // Paris / Merkez Avrupa
-    } else if (offset === 300 || offset === 240) {
-        // 🇺🇸 Amerika Doğu Yakası (New York vb.)
-        currentLat = 40.71;
-        currentLon = -74.00;
+        currentLat = 40.92; currentLon = 29.13;
     }
-    // İleride buraya başka majör majik koordinatlar da if-else olarak eklenebilir aga.
 }
-
-// APK açılır açılmaz izin istemeden zaman diliminden konumu tahmin eder
 detectLocationByTimezone();
 
+function getExactSolarTimes(lat, lon) {
+    const now = new Date();
+    const start = new Date(now.getFullYear(), 0, 0);
+    const dayOfYear = Math.floor((now - start) / (1000 * 60 * 60 * 24));
+    const declination = 23.45 * Math.sin((360 / 365) * (dayOfYear - 80) * Math.PI / 180);
+    
+    return {
+        declination: declination
+    };
+}
 
 function getExactSolarTimes(lat, lon) {
     const now = new Date();
@@ -952,10 +950,13 @@ function getExactSolarTimes(lat, lon) {
     const oneDay = 1000 * 60 * 60 * 24;
     const dayOfYear = Math.floor(diff / oneDay);
 
+    // Güneş sapma açısı (Declination) hesaplama
     const declination = 23.45 * Math.sin((360 / 365) * (dayOfYear - 80) * Math.PI / 180);
+    
     const latRad = lat * Math.PI / 180;
     const decRad = declination * Math.PI / 180;
     
+    // Alacakaranlık ve ufuk çizgisi düzeltmesi
     const cosH = (Math.sin(-0.833 * Math.PI / 180) - Math.sin(latRad) * Math.sin(decRad)) / (Math.cos(latRad) * Math.cos(decRad));
     
     let H = 0;
@@ -964,69 +965,13 @@ function getExactSolarTimes(lat, lon) {
     }
 
     const solarNoon = 12 - (lon / 15);
-    const duration = (H / 15) * 2;
+    const duration = (H / 15) * 2; // Gerçek gün uzunluğu (Daylength)
 
     return {
         sunrise: solarNoon - (duration / 2),
         sunset: solarNoon + (duration / 2),
         dayLength: duration,
         declination: declination
-    };
-}
-
-
-
-function calculateCosmicTime() {
-    const now = new Date();
-    const hours = now.getHours();
-    const minutes = now.getMinutes();
-    const currentDecimalHour = hours + (minutes / 60);
-
-    const solar = getExactSolarTimes(currentLat, currentLon);
-    let sunAngle;
-
-    if (currentDecimalHour >= solar.sunrise && currentDecimalHour < solar.sunset) {
-        const daylightProgress = (currentDecimalHour - solar.sunrise) / (solar.sunset - solar.sunrise);
-        sunAngle = 90 + (daylightProgress * 180); 
-    } else {
-        let nightProgress;
-        if (currentDecimalHour >= solar.sunset) {
-            nightProgress = (currentDecimalHour - solar.sunset) / (24 - solar.sunset + solar.sunrise);
-        } else {
-            nightProgress = (24 - solar.sunset + currentDecimalHour) / (24 - solar.sunset + solar.sunrise);
-        }
-        sunAngle = 270 + (nightProgress * 180);
-        if (sunAngle >= 360) sunAngle -= 360;
-    }
-
-    // 🛸 ESKİ TAŞAN PANELİ SİLİP DURUM ÇUBUĞUNUN SAĞINA SİBER KİLİT ATIYORUZ
-    const oldPanel = document.getElementById('astro-live-panel');
-    if (oldPanel) oldPanel.remove();
-
-    // Verileri taşma yapmadan, ekranın en sağ alt köşesine, durum çubuğunun hemen bittiği çizgiye şıkça hizalıyoruz
-    let astroPanel = document.getElementById('astro-live-panel-v2');
-    if (!astroPanel) {
-        astroPanel = document.createElement('div');
-        astroPanel.id = 'astro-live-panel-v2';
-        astroPanel.style.position = 'absolute';
-        // Ekran görüntündeki siyah barın tam üzerine ve en sağa jilet gibi hizalama:
-        astroPanel.style.bottom = '12px'; 
-        astroPanel.style.right = '25px';
-        astroPanel.style.fontFamily = 'monospace';
-        astroPanel.style.fontSize = '10px';
-        astroPanel.style.color = '#777777'; // Siyah barın içinde gözü yormayacak siber gri
-        astroPanel.style.zIndex = '10000';
-        astroPanel.style.pointerEvents = 'none'; // Tıklamaları engelleme
-        document.body.appendChild(astroPanel);
-    }
-    // Tek satırda tertemiz siber özet
-    astroPanel.innerHTML = `DL: ${solar.dayLength.toFixed(1)}h | SD: ${solar.declination.toFixed(2)}°`;
-
-    return {
-        sunAngle: sunAngle,
-        dayCycle: (currentDecimalHour >= solar.sunrise && currentDecimalHour < solar.sunset) ? 1 : 0,
-        hours: hours,
-        minutes: minutes
     };
 }
 
