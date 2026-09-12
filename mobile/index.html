@@ -319,6 +319,13 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* Vuruş anında haç merkezlemelerinin ve ölçeklerin (scale) pürüzsüz esnemesi */
 .fire-gate.pulse-hit, .water-gate.pulse-hit { transform: translateX(-50%) scale(1.04); }
 .air-gate.pulse-hit, .earth-gate.pulse-hit { transform: translateY(-50%) scale(1.04); }
+
+
+/* ✖️ FIXED CROSS ÇAPRAZ KAPILARIN MILIMETRİK HİZALAMALARI */
+.light-gate { top: 20%; right: 15%; color: #ffcc00; border-top: 1px solid #ffcc00; border-right: 1px solid #ffcc00; } /* ⚡ Sağ Üst */
+.ether-gate { bottom: 20%; right: 15%; color: #ffaa00; border-bottom: 1px solid #ffaa00; border-right: 1px solid #ffaa00; } /* 🧬 Sağ Alt */
+.metal-gate { bottom: 20%; left: 15%; color: #ff0055; border-bottom: 1px solid #ff0055; border-left: 1px solid #ff0055; } /* 🌋 Sol Alt */
+.ice-gate   { top: 20%; left: 15%; color: #00ffaa; border-top: 1px solid #00ffaa; border-left: 1px solid #00ffaa; } /* ❄️ Sol Üst */
     </style>
 </head>
 <body>
@@ -329,12 +336,15 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
+<!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
 <div class="cosmic-compass">
-    <!-- ➕ CARDINAL CROSS & ✖️ FIXED CROSS -->
+    <!-- ➕ CARDINAL CROSS -->
     <div class="element-corner fire-gate"><span class="trigram">☲</span> ATEŞ [KOÇ]</div>
     <div class="element-corner air-gate"><span class="trigram">☵</span> HAVA [TERAZİ]</div>
     <div class="element-corner earth-gate"><span class="trigram">☲</span> TOPRAK [KOÇ]</div>
     <div class="element-corner water-gate"><span class="trigram">☷</span> SU [OĞLAK]</div>
+    
+    <!-- ✖️ FIXED CROSS -->
     <div class="element-corner light-gate"><span class="trigram">☱</span> IŞIK [KOVA]</div>
     <div class="element-corner ether-gate"><span class="trigram">☴</span> RUH [ASLAN]</div>
     <div class="element-corner metal-gate"><span class="trigram">☶</span> METAL [AKREP]</div>
