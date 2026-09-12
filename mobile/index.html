@@ -608,45 +608,99 @@ setInterval(() => {
             gate.style.color = "#444444";
         });
 
-        // 2. ADIM: MİKRO GÜNEŞ'İN 24 SAATLİK SEYRİ (Anlık Gün Saati - Akıcı Spektrum)
+     // 2. ADIM: MİKRO GÜNEŞ'İN 24 SAATLİK SEYRİ (Anlık Gün Saati - Bir Adım Geriye Kalibre Edildi)
         const totalMinutes = (hours * 60) + minutes;
         const sunAngle = (totalMinutes / 1440) * 360; 
 
         let sunGate;
-        if (sunAngle >= 0 && sunAngle < 45)          { sunGate = waterGate; } 
-        else if (sunAngle >= 45 && sunAngle < 90)    { sunGate = iceGate; }   
-        else if (sunAngle >= 90 && sunAngle < 135)   { sunGate = earthGate; } 
-        else if (sunAngle >= 135 && sunAngle < 180)  { sunGate = fireGate; }  
-        else if (sunAngle >= 180 && sunAngle < 225)  { sunGate = lightGate; } 
-        else if (sunAngle >= 225 && sunAngle < 270)  { sunGate = airGate; }   // Şu an saat 16:02 burası aktif!
-        else if (sunAngle >= 270 && sunAngle < 315)  { sunGate = etherGate; } 
-        else                                         { sunGate = metalGate; } 
+        if (sunAngle >= 0 && sunAngle < 45)          { sunGate = metalGate; } // Kaydırıldı (Eski: waterGate)
+        else if (sunAngle >= 45 && sunAngle < 90)    { sunGate = waterGate; } // Kaydırıldı (Eski: iceGate)
+        else if (sunAngle >= 90 && sunAngle < 135)   { sunGate = iceGate; }   // Kaydırıldı (Eski: earthGate)
+        else if (sunAngle >= 135 && sunAngle < 180)  { sunGate = earthGate; } // Kaydırıldı (Eski: fireGate)
+        else if (sunAngle >= 180 && sunAngle < 225)  { sunGate = fireGate; }  // Kaydırıldı (Eski: lightGate)
+        else if (sunAngle >= 225 && sunAngle < 270)  { sunGate = lightGate; } // Şu an aktif! (Eski: airGate)
+        else if (sunAngle >= 270 && sunAngle < 315)  { sunGate = airGate; }   // Kaydırıldı (Eski: etherGate)
+        else                                         { sunGate = etherGate; } // Kaydırıldı (Eski: metalGate)
 
-        // Gün içindeki saate göre saf parlaklık spektrumu (Doğarken Sarı, Tepe Turuncu, Batarken Turkuaz)
+        // Gün içindeki saate göre saf parlaklık spektrumu (45 Derece Geriye Senkronize Edildi)
         let sunCircadianColor = '#ff5e00'; 
-        if (sunAngle >= 90 && sunAngle < 135)       { sunCircadianColor = '#ffaa00'; } // Sabah Altın Sarı
-        else if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu
-        else if (sunAngle >= 180 && sunAngle < 270) { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı (Şu an aktif!)
-        else                                        { sunCircadianColor = '#7a00ff'; } // Gece Derin Yin Mor
+        if (sunAngle >= 135 && sunAngle < 180)       { sunCircadianColor = '#ffaa00'; } // Sabah Altın Sarı -> İçeri Çekildi
+        else if (sunAngle >= 180 && sunAngle < 225)  { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu -> İçeri Çekildi
+        else if (sunAngle >= 225 && sunAngle < 315)  { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı (Şu an aktif!)
+        else                                        { sunCircadianColor = '#7a00ff'; } // Gece Derin Yin Morr = '#7a00ff'; } // Gece Derin Yin Mor
 
-  // 3. ADIM: MAKRÖ MEVSİM MOTORU (seasonGate - Yeşilin Suya, Kırmızının Ateşe Akış Döngüsü)
-        const currentSunSign = getDynamicSunSign(); 
-        const currentSabbat = getDynamicSabbat(currentSunSign); 
-        const currentHemisphere = getHemisphere();
+// 3. ADIM: MAKRÖ MEVSİM MOTORU (seasonGate - Yeşilin Metale/Metatrona, Kırmızının Ateşe Akış Döngüsü)
+const currentSunSign = getDynamicSunSign(); 
+const currentSabbat = getDynamicSabbat(currentSunSign); 
+const currentHemisphere = getHemisphere();
 
-        let seasonGate;
-        let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
+let seasonGate;
+let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
 
-        // Güneş Başak'tayken (Eylül Ekinoks Eşiği)
-        if (currentSunSign.includes("VIRGO")) {
+// Güneş Başak'tayken (Eylül Ekinoks Eşiği)
+ // 3. ADIM: MAKRÖ MEVSİM MOTORU (TÜM SABBAT FESTİVALLERİ DÖNGÜSÜ)
+        if (currentSunSign.includes("VIRGO")) { 
+            // 🍁 MABON (Sonbahar Ekinoksu)
             if (currentHemisphere === 'NORTHERN') {
-                // 🍁 KUZEY YARIMKÜRE (Mabon): Yapraklar dökülüyor, enerji elementin dibine yani SU'ya akıyor ve topraklanıyor!
-                seasonGate = waterGate; // 🌌 YEŞİL FENER TAM ALTAKİ SU KAPISINA KİLİTLENİR!
-                seasonColor = '#00ff66'; // Hasat Yeşili
+                seasonGate = metalGate; seasonColor = '#00ff66'; // Hasat Yeşili -> Metal/Metatron Kapısı
             } else {
-                // 🌱 GÜNEY YARIMKÜRE (Ostara): Kış karanlığı yırtılıyor, kırmızı enerji üstteki ATEŞ'le bahara uyanıyor!
-                seasonGate = fireGate; // 🌌 KIRMIZI FENER TAM ÜSTTEKİ ATEŞ KAPISINA KİLİTLENİR!
-                seasonColor = '#ff3300'; // Bahar Uyanış Kırmızısı
+                seasonGate = fireGate; seasonColor = '#ff3300'; // Ostara Bahar Kırmızısı -> Ateş Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("SCORPIO")) { 
+            // 🎃 SAMHAIN (Cadılar Bayramı / Yılbaşı)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = waterGate; seasonColor = '#ff5e00'; // Samhain Turuncusu -> Alt Derin Su/Yin Kapısı
+            } else {
+                seasonGate = airGate; seasonColor = '#ff00ff'; // Beltane Pembesi -> Hava/Yang Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("CAPRICORN")) { 
+            // ❄ YULE (Kış Gündönümü)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = iceGate; seasonColor = '#00ffff'; // Kış Kristal Mavisi -> Buz Kapısı
+            } else {
+                seasonGate = lightGate; seasonColor = '#ffaa00'; // Litha Yaz Altını -> Işık Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("AQUARIUS")) { 
+            // 🌱 IMBOLC (Işık Festivali / Erken Bahar)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = earthGate; seasonColor = '#a855f7'; // Arınma Moru -> Toprak Kapısı
+            } else {
+                seasonGate = etherGate; seasonColor = '#00ffaa'; // Lughnasadh Hasadı -> Ruh Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("ARIES")) { 
+            // 🌸 OSTARA (İlkbahar Ekinoksu)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = fireGate; seasonColor = '#ff3300'; // Uyanış Kırmızısı -> Ateş Kapısı
+            } else {
+                seasonGate = metalGate; seasonColor = '#00ff66'; // Mabon Hasat Yeşili -> Metal Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("TAURUS")) { 
+            // 🔥 BELTANE (Yaz Başlangıcı / Ateş Festivali)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = airGate; seasonColor = '#ff00ff'; // Yaşam Pembesi/Mor -> Hava Kapısı
+            } else {
+                seasonGate = waterGate; seasonColor = '#ff5e00'; // Samhain Gecesi -> Su Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("CANCER")) { 
+            // ☀️ LITHA (Yaz Gündönümü)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = lightGate; seasonColor = '#ffaa00'; // Doruk Altın Sarısı -> Işık Kapısı
+            } else {
+                seasonGate = iceGate; seasonColor = '#00ffff'; // Yule Solstis Mavisi -> Buz Kapısı
+            }
+        } 
+        else if (currentSunSign.includes("LEO")) { 
+            // 🌾 LUGHNASADH (İlk Hasat)
+            if (currentHemisphere === 'NORTHERN') {
+                seasonGate = etherGate; seasonColor = '#00ffaa'; // Bereket Turkuazı -> Ruh/Eter Kapısı
+            } else {
+                seasonGate = earthGate; seasonColor = '#a855f7'; // Imbolc Erken Baharı -> Toprak Kapısı
             }
         }
         // 4. ADIM: AY'IN 28 GÜNLÜK DÖNGÜSÜ (Karanlık Ay / Hekate Sabitlemesi)
@@ -837,6 +891,144 @@ function getDynamicSunSign() {
     return "PISCES (BALIK)";
 }
 
+// =========================================================================
+// 🌍 DIŞ KÜTÜPHANESİZ SAF ASTRONOMİK GÜNEŞ MOTORU (EKSİKSİZ TAM PARÇA)
+// =========================================================================
+let currentLat = 0.92;
+let currentLon = 0.13;
+
+function initGeoLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(
+            (position) => {
+                currentLat = position.coords.latitude;
+                currentLon = position.coords.longitude;
+                console.log(`[Cosmic-GPS] Lokasyon doğrulandı: ${currentLat}, ${currentLon}`);
+            },
+            (error) => {
+                console.warn("[Cosmic-GPS] Varsayılan İstanbul koordinatları aktif.");
+            }
+        );
+    }
+}
+//initGeoLocation();
+
+
+// =========================================================================
+// 🌍 SIFIR İZİNLİ OTOMATİK ZAMAN DİLİMİ ALGILAYICI (TIMEZONE DETECTOR)
+// =========================================================================
+let currentLat = 40.92;  // Varsayılan: İstanbul Enlemi
+let currentLon = 29.13;  // Varsayılan: İstanbul Boylamı
+
+function detectLocationByTimezone() {
+    // Telefonun dünya saatine (UTC) göre kaç dakika ileride/geride olduğunu alır
+    const offset = new Date().getTimezoneOffset(); // Türkiye için bu değer -180'dir!
+    
+    if (offset === -180) {
+        // 🇹🇷 Kullanıcı Türkiye / İstanbul zaman diliminde!
+        currentLat = 40.92;
+        currentLon = 29.13;
+        console.log("[Cosmic-Zone] GMT+3 Algılandı: İstanbul koordinatları kilitlendi.");
+    } else if (offset === 0 || offset === -60) {
+        // 🇪🇺 Londra / Orta Avrupa zaman dilimi (Örnek alternatif)
+        currentLat = 48.85; 
+        currentLon = 2.35;  // Paris / Merkez Avrupa
+    } else if (offset === 300 || offset === 240) {
+        // 🇺🇸 Amerika Doğu Yakası (New York vb.)
+        currentLat = 40.71;
+        currentLon = -74.00;
+    }
+    // İleride buraya başka majör majik koordinatlar da if-else olarak eklenebilir aga.
+}
+
+// APK açılır açılmaz izin istemeden zaman diliminden konumu tahmin eder
+detectLocationByTimezone();
+
+
+function getExactSolarTimes(lat, lon) {
+    const now = new Date();
+    const start = new Date(now.getFullYear(), 0, 0);
+    const diff = now - start;
+    const oneDay = 1000 * 60 * 60 * 24;
+    const dayOfYear = Math.floor(diff / oneDay);
+
+    const declination = 23.45 * Math.sin((360 / 365) * (dayOfYear - 80) * Math.PI / 180);
+    const latRad = lat * Math.PI / 180;
+    const decRad = declination * Math.PI / 180;
+    
+    const cosH = (Math.sin(-0.833 * Math.PI / 180) - Math.sin(latRad) * Math.sin(decRad)) / (Math.cos(latRad) * Math.cos(decRad));
+    
+    let H = 0;
+    if (cosH >= -1 && cosH <= 1) {
+        H = Math.acos(cosH) * 180 / Math.PI;
+    }
+
+    const solarNoon = 12 - (lon / 15);
+    const duration = (H / 15) * 2;
+
+    return {
+        sunrise: solarNoon - (duration / 2),
+        sunset: solarNoon + (duration / 2),
+        dayLength: duration,
+        declination: declination
+    };
+}
+
+
+
+function calculateCosmicTime() {
+    const now = new Date();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    const currentDecimalHour = hours + (minutes / 60);
+
+    const solar = getExactSolarTimes(currentLat, currentLon);
+    let sunAngle;
+
+    if (currentDecimalHour >= solar.sunrise && currentDecimalHour < solar.sunset) {
+        const daylightProgress = (currentDecimalHour - solar.sunrise) / (solar.sunset - solar.sunrise);
+        sunAngle = 90 + (daylightProgress * 180); 
+    } else {
+        let nightProgress;
+        if (currentDecimalHour >= solar.sunset) {
+            nightProgress = (currentDecimalHour - solar.sunset) / (24 - solar.sunset + solar.sunrise);
+        } else {
+            nightProgress = (24 - solar.sunset + currentDecimalHour) / (24 - solar.sunset + solar.sunrise);
+        }
+        sunAngle = 270 + (nightProgress * 180);
+        if (sunAngle >= 360) sunAngle -= 360;
+    }
+
+    // 🛸 ESKİ TAŞAN PANELİ SİLİP DURUM ÇUBUĞUNUN SAĞINA SİBER KİLİT ATIYORUZ
+    const oldPanel = document.getElementById('astro-live-panel');
+    if (oldPanel) oldPanel.remove();
+
+    // Verileri taşma yapmadan, ekranın en sağ alt köşesine, durum çubuğunun hemen bittiği çizgiye şıkça hizalıyoruz
+    let astroPanel = document.getElementById('astro-live-panel-v2');
+    if (!astroPanel) {
+        astroPanel = document.createElement('div');
+        astroPanel.id = 'astro-live-panel-v2';
+        astroPanel.style.position = 'absolute';
+        // Ekran görüntündeki siyah barın tam üzerine ve en sağa jilet gibi hizalama:
+        astroPanel.style.bottom = '12px'; 
+        astroPanel.style.right = '25px';
+        astroPanel.style.fontFamily = 'monospace';
+        astroPanel.style.fontSize = '10px';
+        astroPanel.style.color = '#777777'; // Siyah barın içinde gözü yormayacak siber gri
+        astroPanel.style.zIndex = '10000';
+        astroPanel.style.pointerEvents = 'none'; // Tıklamaları engelleme
+        document.body.appendChild(astroPanel);
+    }
+    // Tek satırda tertemiz siber özet
+    astroPanel.innerHTML = `DL: ${solar.dayLength.toFixed(1)}h | SD: ${solar.declination.toFixed(2)}°`;
+
+    return {
+        sunAngle: sunAngle,
+        dayCycle: (currentDecimalHour >= solar.sunrise && currentDecimalHour < solar.sunset) ? 1 : 0,
+        hours: hours,
+        minutes: minutes
+    };
+}
 
 // 📱 MOBİL SEKME GEÇİŞ MOTORU
 document.querySelectorAll('.nav-square-btn').forEach(btn => {
