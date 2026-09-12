@@ -511,17 +511,11 @@ if (fireGate && waterGate && airGate && earthGate) {
     const sunAngle = (totalMinutes / 1440) * 360; // Gün içindeki tam pozisyon açısı
 
     let sunGate;
-    // Güneş saat yönünde pürüzsüzce kapıları işgal ediyor:
-// Güneş saat yönünde tam artı ekseninde dönüyor:
-// Saat 03:00 - 09:00 arası -> SAĞDA (Hava) parlar
-if (sunAngle >= 45 && sunAngle < 135)        { sunGate = airGate; }   
-// Saat 09:00 - 15:00 arası (ÖĞLEN) -> TAM TEPEDE (Ateş) parlar!
-else if (sunAngle >= 135 && sunAngle < 225)  { sunGate = fireGate; }  
-// Saat 15:00 - 21:00 arası -> SOLDAYKEN (Toprak) parlar
-else if (sunAngle >= 225 && sunAngle < 315)  { sunGate = earthGate; } 
-// Saat 21:00 - 03:00 arası -> TAM DİPDE (Su) parlar
-else                                         { sunGate = waterGate; }                                    { sunGate = waterGate; } // 💧 Gece Yarısı / Dip noktası (Kuzey)
-
+    
+if ( sunAngle >= 45 && sunAngle < 135) { sunGate = airGate; }
+else if ( sunAngle >= 135 && sunAngle < 225) { sunGate = fireGate; }
+else if ( sunAngle >= 225 && sunAngle < 315) { sunGate = earthGate; }
+else { sunGate = waterGate; } { sunGate = waterGate; } // 🚨 BURADAKİ EKSİK KAPANMA VE ÇİFTLEME KODU PATLATIYOR!
     // Güneş'in bastığı kapıyı uykudan uyandır ve Güneş Turuncusu yap
     sunGate.style.opacity = 0.6;
     sunGate.style.color = '#ff5e00'; 
