@@ -310,11 +310,11 @@ body, html, h1, h2, h3, p, a, button, .btn {
 .earth-gate { bottom: 100px; left: 20px; color: #ff00ff; border-left: 2px solid #ff00ff; }
 .water-gate { bottom: 100px; right: 20px; color: #007fff; border-right: 2px solid #007fff; }
 
-/* 💓 74 BPM ANLIK PARLAMA EFEKTİ */
+/* CSS içerisindeki mevcut .pulse-hit sınıfını bununla güncelleyin */
 .pulse-hit {
     opacity: 1 !important;
-    filter: brightness(1.6) drop-shadow(0 0 15px currentColor);
-    transform: scale(1.03);
+    filter: brightness(2.0) drop-shadow(0 0 20px currentColor) !important;
+    transform: scale(1.05);
 }
     </style>
 </head>
@@ -467,21 +467,35 @@ setInterval(() => {
     const airGate = document.querySelector('.air-gate');
     const earthGate = document.querySelector('.earth-gate');
 
-    if (fireGate && waterGate && airGate && earthGate) {
-        // Base Opacity Ayarları (Günün saatine göre süzülme)
-        fireGate.style.opacity = 0.1 + (timeData.dayCycle * 0.4);
-        waterGate.style.opacity = 0.1 + ((1 - timeData.dayCycle) * 0.4);
-        airGate.style.opacity = 0.2;
-        earthGate.style.opacity = 0.2;
+   // 💓 74 BPM TAŞIYICI MOTOR DÖNGÜSÜ İÇİNDEKİ GATE KODUNU BUNUNLA DEĞİŞTİRİN:
+if (fireGate && waterGate && airGate && earthGate) {
+    // Günün saatine göre (dayCycle) hangi kapının "Lider" olduğunu buluyoruz
+    // Öğlen (dayCycle = 1) -> Ateş %100 parlar, Su sönük kalır (%15)
+    // Gece Yarısı (dayCycle = 0) -> Su %100 parlar, Ateş sönük kalır (%15)
+    
+    const fireBase = 0.15 + (timeData.dayCycle * 0.85);
+    const waterBase = 0.15 + ((1 - timeData.dayCycle) * 0.85);
+    
+    // Sabit duruş parlamaları (Arka plan enerjisi)
+    fireGate.style.opacity = fireBase;
+    waterGate.style.opacity = waterBase;
+    airGate.style.opacity = 0.3; // Yan kapılar dengede kalır
+    earthGate.style.opacity = 0.3;
 
-        // 2. 74 BPM ANLIK NABIZ VURUŞU (Pulse Effect)
-        // Vuruş anında ilgili kapıya anlık akım gönderip hemen geri çeker
-        const gates = [fireGate, airGate, earthGate, waterGate];
-        gates.forEach(gate => {
-            gate.classList.add('pulse-hit');
-            setTimeout(() => gate.classList.remove('pulse-hit'), 150);
-        });
-    }
+    // 2. 74 BPM ANLIK NABIZ VURUŞU (Pulse Effect)
+    const gates = [fireGate, airGate, earthGate, waterGate];
+    gates.forEach(gate => {
+        gate.classList.add('pulse-hit');
+        
+        // Vuruş bittiğinde kapı tamamen sönmez, kendi zaman bazlı parlaklığına geri döner!
+        setTimeout(() => {
+            gate.classList.remove('pulse-hit');
+            // Zaman kilitlerini koru
+            fireGate.style.opacity = fireBase;
+            waterGate.style.opacity = waterBase;
+        }, 150);
+    });
+}
 
     // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
     // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
