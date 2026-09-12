@@ -273,6 +273,49 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
    
 }
+
+
+
+/* 🌌 COSMIC COMPASS & I CHING STYLES */
+.cosmic-compass {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none; /* Arkadaki iframe ve butonların tıklanmasını engellemez */
+    z-index: 5; /* Metatron iframe'inin üzerinde, buton katmanının altında */
+}
+
+.element-corner {
+    position: absolute;
+    font-family: 'Segoe UI', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    padding: 10px 15px;
+    background: rgba(5, 5, 5, 0.4);
+    border-radius: 4px;
+    backdrop-filter: blur(2px);
+    transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+    opacity: 0.3;
+}
+
+.element-corner .trigram { font-size: 1.1rem; margin-right: 5px; vertical-align: middle; }
+.element-corner .iching-binary { font-size: 0.65rem; margin-left: 5px; opacity: 0.5; }
+
+/* 🧭 KÖŞE KONUMLANDIRMALARI VE RENK KODLARI */
+.fire-gate { top: 90px; left: 20px; color: #ff3b30; border-left: 2px solid #ff3b30; }
+.air-gate { top: 90px; right: 20px; color: #00ffff; border-right: 2px solid #00ffff; }
+.earth-gate { bottom: 100px; left: 20px; color: #ff00ff; border-left: 2px solid #ff00ff; }
+.water-gate { bottom: 100px; right: 20px; color: #007fff; border-right: 2px solid #007fff; }
+
+/* 💓 74 BPM ANLIK PARLAMA EFEKTİ */
+.pulse-hit {
+    opacity: 1 !important;
+    filter: brightness(1.6) drop-shadow(0 0 15px currentColor);
+    transform: scale(1.03);
+}
     </style>
 </head>
 <body>
@@ -281,7 +324,21 @@ body, html, h1, h2, h3, p, a, button, .btn {
        
     </header>
 
-
+<!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
+<div class="cosmic-compass">
+    <div class="element-corner fire-gate">
+        <span class="trigram">☲</span> ATEŞ [GÜNEŞ] <span class="iching-binary">|:|</span>
+    </div>
+    <div class="element-corner air-gate">
+        <span class="trigram">☴</span> HAVA [SİYAN] <span class="iching-binary">||:</span>
+    </div>
+    <div class="element-corner earth-gate">
+        <span class="trigram">☷</span> TOPRAK [MACENTA] <span class="iching-binary">:::</span>
+    </div>
+    <div class="element-corner water-gate">
+        <span class="trigram">☵</span> SU [AY DOLUNAY] <span class="iching-binary">: | :</span>
+    </div>
+</div>
 
 <!-- 🌌 İlk Katman: Kahraman Alanı -->
 <main class="main-viewport">
@@ -386,6 +443,50 @@ function getHemisphere() {
     
     return isSouthern ? 'SOUTHERN' : 'NORTHERN';
 }
+
+
+// 🌗 AY EVRESİ HESAPLAMA ÇEKİRDEĞİ
+function getMoonPhase(year, month, day) {
+    const refDate = new Date(Date.UTC(2000, 0, 6, 18, 14, 0));
+    const targetDate = new Date(Date.UTC(year, month, day));
+    const diffDays = (targetDate - refDate) / (1000 * 60 * 60 * 24);
+    const moonAge = (diffDays % 29.530588853) + (diffDays < 0 ? 29.530588853 : 0);
+    return { phase: moonAge / 29.530588853, age: moonAge };
+}
+
+// 💓 74 BPM TAŞIYICI MOTOR DÖNGÜSÜ
+const bpm = 74;
+const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi frekansı)
+
+setInterval(() => {
+    // 1. Gün ve Saat Oranlarını Hesapla
+    const timeData = calculateCosmicTime();
+    
+    const fireGate = document.querySelector('.fire-gate');
+    const waterGate = document.querySelector('.water-gate');
+    const airGate = document.querySelector('.air-gate');
+    const earthGate = document.querySelector('.earth-gate');
+
+    if (fireGate && waterGate && airGate && earthGate) {
+        // Base Opacity Ayarları (Günün saatine göre süzülme)
+        fireGate.style.opacity = 0.1 + (timeData.dayCycle * 0.4);
+        waterGate.style.opacity = 0.1 + ((1 - timeData.dayCycle) * 0.4);
+        airGate.style.opacity = 0.2;
+        earthGate.style.opacity = 0.2;
+
+        // 2. 74 BPM ANLIK NABIZ VURUŞU (Pulse Effect)
+        // Vuruş anında ilgili kapıya anlık akım gönderip hemen geri çeker
+        const gates = [fireGate, airGate, earthGate, waterGate];
+        gates.forEach(gate => {
+            gate.classList.add('pulse-hit');
+            setTimeout(() => gate.classList.remove('pulse-hit'), 150);
+        });
+    }
+
+    // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
+    // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
+
+}, pulseInterval);
 
     </script>
 
