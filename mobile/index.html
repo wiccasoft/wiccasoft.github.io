@@ -104,7 +104,19 @@ body, html, h1, h2, h3, p, a, button, .btn {
     -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
 }
         /* 🛸 METATRON 3D ÇEKİRDEK */
-        .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }
+        /* 
+            .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }*/
+
+            .metatron-three-iframe-holder {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100vw;  /* Tam ekran genişlik */
+    height: 100vh; /* Tam ekran yükseklik */
+    z-index: 2;
+    pointer-events: none;
+}
         .metatron-iframe { width: 100%; height: 100%; border: none; }
 
 
@@ -299,42 +311,11 @@ body, html, h1, h2, h3, p, a, button, .btn {
 <body>
 
     <header>
-         <a href="#" class="logo-link"><img src="logo.png" alt="Wiccasoft Logo" class="brand-logo" /></a>
-        <nav>
-            <a href="#features">about</a>
-        </nav>
+       
     </header>
 
 
-    <!-- 🌌 KUTSAL MİMARIN EN DIŞ ÇERÇEVESİ: I CHING RAINBOW DOUBLE VORTEX MOTORU -->
-<div id="iching-master-frame" style="
-    position: absolute; top: 0; left: 0; width: 100vw; height: 100vh;
-    pointer-events: none; z-index: 99999; box-sizing: border-box;
-    border: 8px solid transparent;
-    /* 🌈 4 Element Kapısı (Ateş, Hava, Toprak, Su) Tam Sayı Dağılım Spektrumu */
-    border-image: conic-gradient(
-        from 0deg, 
-        #ff0000 0% 25%,   /* 🔥 ATEŞ (1-2) Kırmızı - 16 Hekzagram */
-        #ff6600 25% 50%,  /* 💨 HAVA (4-8) Turuncu - 16 Hekzagram */
-        #00ff00 50% 75%,  /* ⛰️ TOPRAK (8-7) Yeşil - 16 Hekzagram */
-        #0000ff 75% 100%  /* 💧 SU (7-1) Mavi - 16 Hekzagram */
-    ) 1;
-    /* 🔄 Double Vortex: 79 Saniyelik Büyük Nabızla Ters Akımlı Dönüş Simülasyonu */
-    animation: masterVortexDonus 79s linear infinite;
-">
-    <!-- 🧭 4 BÜYÜK KUTSAL SÜTUN PUSULA RADARI -->
-    <div style="position: absolute; top: 15px; left: 50%; transform: translateX(-50%); color: #ff6600; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">🌬️ MAN (HAVA 4-8)</div>
-    <div style="position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); color: #0000ff; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">💧 EAGLE (SU 7-1)</div>
-    <div style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%) rotate(-90deg); color: #ff0000; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">🔥 LION (ATEŞ 1-2)</div>
-    <div style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%) rotate(90deg); color: #00ff00; font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;">⛰️ OX (TOPRAK 8-7)</div>
-</div>
 
-<style>
-/* 🔑 TARAYICIYI ASLA YAVAŞLATMAYAN SAF GPU IVMELİ ÇEVİRİCİ MATRİS */
-@keyframes masterVortexDonus {
-    //from { transform: rotate(0deg); }
-    //to { transform: rotate(360deg); } /* Saat yönünde ters akımlı büyük I Ching girdabı */
-}
 </style>
 
 
@@ -352,41 +333,9 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
     <div class="cyber-dark-overlay"></div>
 
-    <div class="hero-content-layer">
-        <h1>All in One <span>Browser</span></h1>
-        <p>Browse the world at the speed of light with electron infrastructure</p>
-        <div class="btn-container">
-            <a href="#features" class="btn btn-features">features</a>
-            <a href="#" class="btn btn-download">get for desktop</a>
-        </div>
-    </div>
-
-    <div class="product-logo-container">
-        <img src="/assets/productlogo.png" alt="Wicca Logo" class="wicca-product-logo">
-    </div>
 </main>
 
 
-
-    <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Tam İstediğin 3 Ana Hat) -->
-    <!-- 🖤 İkinci Katman: Parasempatik Özellikler Tablosu (Global English Version) -->
-    <section id="features" class="features-section">
-        <h2 class="features-title">Core <span>Features</span></h2>
-        <div class="features-grid">
-            <div class="feature-card">
-                <h3>hybrid decentralized</h3>
-                <p>A next-generation Web5-powered decentralized identity and data layer engineered for absolute digital sovereignty.</p>
-            </div>
-            <div class="feature-card">
-                <h3>cardio metatron engine</h3>
-                <p>An ultra-optimized, parasympathetic-aligned cyber architecture designed to minimize hardware strain and eye fatigue.</p>
-            </div>
-            <div class="feature-card">
-                <h3>no track user data</h3>
-                <p>Strict zero-tracking policy. Your data belongs exclusively to your local device consciousness, not to ad corporations.</p>
-            </div>
-        </div>
-    </section>
 
     <footer>
         <div>&copy; 2026 Wiccasoft</div>
@@ -428,7 +377,8 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
             downloadBtn.textContent = `get for ${osName}`;
             downloadBtn.href = downloadUrl;
-        });
+
+
     </script>
 
     
