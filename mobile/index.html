@@ -498,25 +498,32 @@ if (fireGate && waterGate && airGate && earthGate) {
         { el: waterGate, base: waterBase }
     ];
 
-    gatesData.forEach(gate => {
-        gate.el.classList.add('pulse-hit');
+gatesData.forEach(gate => {
+    // 1. VURUŞ ANLIĞI (PULSE HIT): Ritim anında elementleri kendi zaman gücüyle ÇARPARAK parlat
+    gate.el.classList.add('pulse-hit');
+    
+    // Eğer elementin zamanı değilse (base düşükse), vuruş anında bile neredeyse hiç parlayamaz
+    const pulseOpacity = Math.max(gate.base, 0.1); 
+    const pulseBrightness = 1.0 + (gate.base * 2.0); // Aktif olan element 3 kat daha parlak olur
+
+    gate.el.style.opacity = pulseOpacity;
+    gate.el.style.filter = `brightness(${pulseBrightness}) drop-shadow(0 0 ${gate.base * 25}px currentColor)`;
+
+    // 2. BEKLEME ANLIĞI (REST FAZI): Vuruş bittiğinde aradaki makası iyice aç
+    setTimeout(() => {
+        gate.el.classList.remove('pulse-hit');
         
-        // Vuruş gücü de elementin o anki gerçek zaman gücüyle (base) çarpılır!
-        // Şu an saat hangi elemente yakınsa, kalp atışı en şiddetli o kapıda patlar.
-        const pulseOpacity = Math.min(gate.base * 1.8, 1.0);
-        const pulseBrightness = 1.0 + (gate.base * 1.6);
-
-        gate.el.style.opacity = pulseOpacity;
-        gate.el.style.filter = `brightness(${pulseBrightness})`;
-
-        // Ritim tamamlandığında element kendi orijinal gün/saat frekansına geri çekilir
-        setTimeout(() => {
-            gate.el.classList.remove('pulse-hit');
-            gate.el.style.opacity = gate.base;
+        // KRİTİK AYAR: Eğer elementin zamanı değilse (base < 0.4), bekleme modunda tamamen karart (0.02)
+        // Böylece şu an sabahsa (09:20), Hava ve Ateş görünür kalırken, Su ve Toprak tamamen söner!
+        if (gate.base < 0.45) {
+            gate.el.style.opacity = 0.03; // Görünmez faza çekilir
             gate.el.style.filter = 'none';
-        }, 150);
-    });
-}
+        } else {
+            gate.el.style.opacity = gate.base * 0.8; // Aktif elementler spektrumda süzülmeye devam eder
+            gate.el.style.filter = `brightness(${1.0 + gate.base * 0.5})`;
+        }
+    }, 180); // 180ms vuruş, kalan süre mutlak kontrast koruması
+});
 
     // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
     // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
