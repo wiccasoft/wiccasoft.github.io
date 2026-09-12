@@ -818,6 +818,24 @@ let seasonColor = '#00ff66'; // Mabon için Topraklanma Yeşili
                 <span style="color: #666; font-size:0.52rem; margin-left:10px;">HEMISPHERE: ${currentHemisphere}</span>
             `;
         }
+
+        // =========================================================================
+        // 🛸 3D METATRON MOTORUNA (THREE.JS) GERÇEK ZAMANLI VERİ KÖPRÜSÜ
+        // =========================================================================
+        const metatronIframe = document.querySelector('.metatron-iframe');
+        if (metatronIframe && metatronIframe.contentWindow) {
+            // 3D katmana analemma açısını, ay evresini ve sirkadiyen renkleri paketleyip fırlatıyoruz
+            metatronIframe.contentWindow.postMessage({
+                type: 'COSMIC_SYNC',
+                sunAngle: sunAngle,                           // Solar Analemma sirkadiyen açısı
+                dayCycle: timeData.dayCycle,                  // 0.0 - 1.0 arası Yang/Yin dengesi
+                moonPhase: moonData.phase,                    // Ay'ın 28 günlük döngü konumu
+                seasonColor: seasonColor,                      // Mabon Hasat Yeşili
+                sunColor: sunCircadianColor                    // İkindi/Gün batımı turkuaz-turuncu spektrumu
+            }, '*');
+        }
+
+
     }
 }, pulseInterval);
 
@@ -899,8 +917,8 @@ function getDynamicSunSign() {
 // =========================================================================
 // 🌍 DIŞ KÜTÜPHANESİZ SAF ASTRONOMİK GÜNEŞ MOTORU (EKSİKSİZ TAM PARÇA)
 // =========================================================================
-let currentLat = 0.92;
-let currentLon = 0.13;
+//let currentLat = 0.92;
+//let currentLon = 0.13;
 
 function initGeoLocation() {
     if (navigator.geolocation) {
@@ -932,6 +950,50 @@ function detectLocationByTimezone() {
     }
 }
 detectLocationByTimezone();
+
+
+
+function getAstroSunAngle() {
+    const now = new Date();
+    const decimalHour = now.getHours() + (now.getMinutes() / 60);
+    const solar = getExactSolarTimes(currentLat, currentLon);
+    let angle;
+
+    if (decimalHour >= solar.sunrise && decimalHour < solar.sunset) {
+        // GÜNDÜZ EVRESİ: Gün doğumu 90° -> Gün batımı 270°
+        const progress = (decimalHour - solar.sunrise) / (solar.sunset - solar.sunrise);
+        angle = 90 + (progress * 180); 
+    } else {
+        // GECE EVRESİ: Gün batımı 270° -> Gün doğumu 90°
+        let nightProgress;
+        if (decimalHour >= solar.sunset) {
+            nightProgress = (decimalHour - solar.sunset) / (24 - solar.sunset + solar.sunrise);
+        } else {
+            nightProgress = (24 - solar.sunset + decimalHour) / (24 - solar.sunset + solar.sunrise);
+        }
+        angle = 270 + (nightProgress * 180);
+        if (angle >= 360) angle -= 360;
+    }
+
+    // Siyah barın sağ ucuna siber veri panelini basıyoruz
+    let astroPanel = document.getElementById('astro-live-panel-v2');
+    if (!astroPanel) {
+        astroPanel = document.createElement('div');
+        astroPanel.id = 'astro-live-panel-v2';
+        astroPanel.style.position = 'absolute';
+        astroPanel.style.bottom = '12px'; 
+        astroPanel.style.right = '25px';
+        astroPanel.style.fontFamily = 'monospace';
+        astroPanel.style.fontSize = '10px';
+        astroPanel.style.color = '#777777';
+        astroPanel.style.zIndex = '10000';
+        astroPanel.style.pointerEvents = 'none';
+        document.body.appendChild(astroPanel);
+    }
+    astroPanel.innerHTML = `DL: ${solar.dayLength.toFixed(1)}h | SD: ${solar.declination.toFixed(2)}°`;
+
+    return angle;
+}
 
 function getExactSolarTimes(lat, lon) {
     const now = new Date();
