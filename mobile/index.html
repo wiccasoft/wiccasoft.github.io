@@ -313,6 +313,42 @@ body, html, h1, h2, h3, p, a, button, .btn {
     <script>
 
 
+function updateHTMLGates() {
+    const timeData = calculateCosmicTime();
+    const fireGate = document.querySelector('.fire-gate');
+    const waterGate = document.querySelector('.water-gate');
+    
+    if (fireGate && waterGate) {
+        // Öğlen yaklaştıkça Ateş parlar, Gece yaklaştıkça Su parlar
+        fireGate.style.opacity = 0.2 + (timeData.dayCycle * 0.8);
+        waterGate.style.opacity = 0.2 + ((1 - timeData.dayCycle) * 0.8);
+    }
+}
+// Bu fonksiyonu 74 BPM vuruşu tetiklendikçe çağırabiliriz!
+
+
+
+function calculateCosmicTime() {
+    const now = new Date();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    
+    // 24 saati dakikaya (toplam 1440 dk) döküp 0.0 - 1.0 arası bir "Gün Oranı" buluyoruz
+    const totalMinutes = (hours * 60) + minutes;
+    const dayRatio = totalMinutes / 1440; 
+    
+    // Sinüs dalgası kullanarak Öğlen (12:00) tepe noktasında 1 (Turuncu), 
+    // Gece Yarısı (00:00) dip noktasında 0 (Mavi) elde ediyoruz
+    const dayCycle = Math.sin((dayRatio * Math.PI * 2) - (Math.PI / 2)) * 0.5 + 0.5;
+
+    return {
+        dayCycle: dayCycle, // 0.0 (Gece Yarısı) ile 1.0 (Öğlen) arası akış
+        isDay: hours >= 6 && hours < 18,
+        hours: hours,
+        minutes: minutes
+    };
+}
+
 // 24 Saati 28 Günlük Ay Döngüsüne Bağlayan Senkronizasyon Fonksiyonu
 function calculateLunarSync() {
     const simdi = new Date();
