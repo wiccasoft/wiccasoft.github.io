@@ -465,44 +465,41 @@ setInterval(() => {
     const waterGate = document.querySelector('.water-gate');
     const airGate = document.querySelector('.air-gate');
     const earthGate = document.querySelector('.earth-gate');
-// 💓 24 SAATLİK DÜNYA REZONANSI VE 74 BPM SPEKTRUM MOTORU
+// 💓 24 SAATLİK BASİT DÖNGÜ VE 74 BPM NABIZ MOTORU
 if (fireGate && waterGate && airGate && earthGate) {
     const now = new Date();
     const hours = now.getHours();
-    const minutes = now.getMinutes();
-    
-    // 24 saati (1440 dakikayı) 0 ile 2PI (360 derece) arasında bir radyana dönüştürüyoruz
-    const totalMinutes = (hours * 60) + minutes;
-    const dayProgressRad = (totalMinutes / 1440) * Math.PI * 2; // Zamanın dairesel akışı
 
-// 🌊 4 ELEMENT İÇİN DİNAMİK KESME (CLAMPING) VE KESKİN KONTRAST MOTORU
-const airBase   = Math.max(0, Math.sin(dayProgressRad - 0));
-const fireBase  = Math.max(0, Math.sin(dayProgressRad - Math.PI / 2));
-const earthBase = Math.max(0, Math.sin(dayProgressRad - Math.PI));
-const waterBase = Math.max(0, Math.sin(dayProgressRad - 3 * Math.PI / 2));
+    // Önce hepsini söndür (Uykudaki elementler loş kalır)
+    airGate.style.opacity = 0.05;
+    fireGate.style.opacity = 0.05;
+    earthGate.style.opacity = 0.05;
+    waterGate.style.opacity = 0.05;
 
-// Opaklık ve 74 BPM nabız vuruş yönetimi için element dizisi ve döngü uygulanır.
-const gatesData = [
-    { el: airGate, base: airBase },
-    { el: fireGate, base: fireBase },
-    { el: earthGate, base: earthBase },
-    { el: waterGate, base: waterBase }
-];
+    // Saat dilimine göre aktif elementleri belirle (Şu an saat 09:25 olduğu için ilk if çalışacak)
+    let activeGates = [];
+    if (hours >= 6 && hours < 12)    { activeGates = [airGate, fireGate]; }
+    else if (hours >= 12 && hours < 18) { activeGates = [fireGate, earthGate]; }
+    else if (hours >= 18 && hours < 24) { activeGates = [earthGate, waterGate]; }
+    else                                { activeGates = [waterGate, airGate]; }
 
-gatesData.forEach(gate => {
-    gate.el.style.opacity = gate.base > 0 ? gate.base * 0.8 : 0.03;
-    if (gate.base > 0) {
-        gate.el.classList.add('pulse-hit');
-        gate.el.style.opacity = Math.min(gate.base * 1.8, 1.0);
-        gate.el.style.filter = `brightness(${1.0 + (gate.base * 2.0)}) drop-shadow(0 0 ${gate.base * 20}px currentColor)`;
-    }
-    setTimeout(() => {
-        gate.el.classList.remove('pulse-hit');
-        gate.el.style.opacity = gate.base > 0 ? gate.base * 0.8 : 0.03;
-        gate.el.style.filter = 'none';
-    }, 150);
-});
+    // Aktif olanları uykudan uyandır ve bekleme modunda %60 görünür yap
+    activeGates.forEach(gate => gate.style.opacity = 0.6);
 
+    // 74 BPM Nabız vuruş anı (Sadece aktif olan iki element kalp gibi patlar)
+    activeGates.forEach(gate => {
+        gate.classList.add('pulse-hit');
+        gate.style.opacity = 1.0;
+        gate.style.filter = 'brightness(2) drop-shadow(0 0 20px currentColor)';
+
+        // 150ms sonra kendi aktif bekleme moduna (%60) geri döner
+        setTimeout(() => {
+            gate.classList.remove('pulse-hit');
+            gate.style.opacity = 0.6;
+            gate.style.filter = 'none';
+        }, 150);
+    });
+}
     // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
     // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
 
