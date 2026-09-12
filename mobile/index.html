@@ -312,8 +312,8 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 /* CSS içerisindeki .pulse-hit sınıfını bununla değiştirin (opacity kalktı) */
 .pulse-hit {
-    filter: brightness(2.2) drop-shadow(0 0 25px currentColor) !important;
-    transform: scale(1.06);
+    filter: drop-shadow(0 0 20px currentColor);
+    transform: scale(1.04);
 }
     </style>
 </head>
@@ -465,38 +465,55 @@ setInterval(() => {
     const waterGate = document.querySelector('.water-gate');
     const airGate = document.querySelector('.air-gate');
     const earthGate = document.querySelector('.earth-gate');
-// 💓 74 BPM DİNAMİK SPEKTRUM MOTORU
+// 💓 24 SAATLİK DÜNYA REZONANSI VE 74 BPM SPEKTRUM MOTORU
 if (fireGate && waterGate && airGate && earthGate) {
-    // 1. Temel arka plan zaman değerlerini hesapla
-    const fireBase = 0.12 + (timeData.dayCycle * 0.48);      // Max %60, Min %12
-    const waterBase = 0.12 + ((1 - timeData.dayCycle) * 0.48);  // Max %60, Min %12
-    const airBase = 0.25;
-    const earthBase = 0.25;
+    const now = new Date();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    
+    // 24 saati (1440 dakikayı) 0 ile 2PI (360 derece) arasında bir radyana dönüştürüyoruz
+    const totalMinutes = (hours * 60) + minutes;
+    const dayProgressRad = (totalMinutes / 1440) * Math.PI * 2; // Zamanın dairesel akışı
 
-    // Normal bekleme anı parlaklıkları
-    fireGate.style.opacity = fireBase;
-    waterGate.style.opacity = waterBase;
-    airGate.style.opacity = airBase;
+    // 🌊 4 ELEMENT İÇİN KESİNTİSİZ SİNÜS DALGASI FREKANSLARI
+    // Her element kendi saat tepe noktasında 1.0 (Zirve), tam zıttında 0.0 (Dip) olur.
+    // Faz kaydırmaları (Phase Shifts) ile günün 24 saati pürüzsüzce birbirine devrolur.
+    
+    const airBase   = Math.sin(dayProgressRad - 0) * 0.45 + 0.55;             // Tepe: 06:00 (Şafak)
+    const fireBase  = Math.sin(dayProgressRad - Math.PI/2) * 0.45 + 0.55;     // Tepe: 12:00 (Öğlen)
+    const earthBase = Math.sin(dayProgressRad - Math.PI) * 0.45 + 0.55;       // Tepe: 18:00 (Akşam)
+    const waterBase = Math.sin(dayProgressRad - 3*Math.PI/2) * 0.45 + 0.55;   // Tepe: 00:00 (Gece)
+
+    // Bekleme modundaki anlık gerçek zaman manyetik opaklıkları (0.10 ile 1.0 arası)
+    airGate.style.opacity   = airBase;
+    fireGate.style.opacity  = fireBase;
     earthGate.style.opacity = earthBase;
+    waterGate.style.opacity = waterBase;
 
-    // 2. 74 BPM NABIZ VURUŞ ANLIĞI
+    // 2. 74 BPM ANLIK NABIZ VURUŞ ANLIĞI (PULSE HIT)
     const gatesData = [
-        { el: fireGate, base: fireBase },
         { el: airGate, base: airBase },
+        { el: fireGate, base: fireBase },
         { el: earthGate, base: earthBase },
         { el: waterGate, base: waterBase }
     ];
 
     gatesData.forEach(gate => {
-        // Vuruş anında her kapıyı kendi zaman gücü oranında maksimuma fırlatır!
-        // Öğleyse Ateş vuruşu %100'e (1.0) katlanır, Su ise en fazla %25'e çıkabilir.
         gate.el.classList.add('pulse-hit');
-        gate.el.style.opacity = Math.min(gate.base * 1.8, 1.0); 
+        
+        // Vuruş gücü de elementin o anki gerçek zaman gücüyle (base) çarpılır!
+        // Şu an saat hangi elemente yakınsa, kalp atışı en şiddetli o kapıda patlar.
+        const pulseOpacity = Math.min(gate.base * 1.8, 1.0);
+        const pulseBrightness = 1.0 + (gate.base * 1.6);
 
-        // Vuruş bittiğinde yumuşakça kendi zaman frekansına geri çekilir
+        gate.el.style.opacity = pulseOpacity;
+        gate.el.style.filter = `brightness(${pulseBrightness})`;
+
+        // Ritim tamamlandığında element kendi orijinal gün/saat frekansına geri çekilir
         setTimeout(() => {
             gate.el.classList.remove('pulse-hit');
             gate.el.style.opacity = gate.base;
+            gate.el.style.filter = 'none';
         }, 150);
     });
 }
