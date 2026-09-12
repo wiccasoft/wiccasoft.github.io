@@ -288,6 +288,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
 
 /* 🧭 GERÇEK HAÇ/PUSULA EKSENİ STILLERİ */
+/* 🧭 DURAĞAN MOD: Sadece düz transparan renk. Ekran kartını yoran drop-shadow tamamen SİLİNDİ! */
 .element-corner {
     position: absolute;
     font-family: 'Segoe UI', monospace;
@@ -298,47 +299,26 @@ body, html, h1, h2, h3, p, a, button, .btn {
     background: rgba(5, 5, 5, 0.4);
     border-radius: 4px;
     backdrop-filter: blur(2px);
-    transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
-    opacity: 0.3;
+    transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.15s ease;
+    opacity: 0.05; /* Aktif olmayanlar tamamen loş kalır, GPU'ya yük bindirmez */
     z-index: 5;
 }
 
-/* 🔥 Tam Üst Orta (Öğlen Ekseni) */
-.fire-gate { 
-    top: 90px; left: 50%; 
-    transform: translateX(-50%); 
-    color: #ff3b30; border-top: 2px solid #ff3b30; 
-}
-/* 💨 Tam Sağ Orta (Sabah Ekseni) */
-.air-gate { 
-    top: 50%; right: 20px; 
-    transform: translateY(-50%); 
-    color: #00ffff; border-right: 2px solid #00ffff; 
-}
-/* 🌱 Tam Sol Orta (Akşam Ekseni) */
-.earth-gate { 
-    top: 50%; left: 20px; 
-    transform: translateY(-50%); 
-    color: #ff00ff; border-left: 2px solid #ff00ff; 
-}
-/* 💧 Tam Alt Orta (Gece Ekseni) */
-.water-gate { 
-    bottom: 100px; left: 50%; 
-    transform: translateX(-50%); 
-    color: #007fff; border-bottom: 2px solid #007fff; 
+/* 🎯 CARDINAL CROSS TAM SABİT KONUM KİLİTLERİ */
+.fire-gate  { top: 90px; left: 50%; transform: translateX(-50%); color: #ff3b30; border-top: 2px solid #ff3b30; }
+.air-gate   { top: 50%; right: 20px; transform: translateY(-50%); color: #00ffff; border-right: 2px solid #00ffff; }
+.earth-gate { top: 50%; left: 20px; transform: translateY(-50%); color: #ff00ff; border-left: 2px solid #ff00ff; }
+.water-gate { bottom: 100px; left: 50%; transform: translateX(-50%); color: #007fff; border-bottom: 2px solid #007fff; }
+
+/* 💥 TEK SIFIRLANMIŞ PULSE: Sadece ritim anında (150ms) neon parlar ve hemen kapanır */
+.pulse-hit {
+    opacity: 1.0 !important;
+    filter: drop-shadow(0 0 15px currentColor) brightness(1.4) !important;
 }
 
-/* Parlama Anında Merkezlemelerin Bozulmaması İçin */
-.pulse-hit {
-    filter: brightness(2) drop-shadow(0 0 25px currentColor) !important;
-}
-.fire-gate.pulse-hit, .water-gate.pulse-hit { transform: translateX(-50%) scale(1.05); }
-.air-gate.pulse-hit, .earth-gate.pulse-hit { transform: translateY(-50%) scale(1.05); }
-/* CSS içerisindeki .pulse-hit sınıfını bununla değiştirin (opacity kalktı) */
-.pulse-hit {
-    filter: drop-shadow(0 0 20px currentColor);
-    transform: scale(1.04);
-}
+/* Vuruş anında haç merkezlemelerinin ve ölçeklerin (scale) pürüzsüz esnemesi */
+.fire-gate.pulse-hit, .water-gate.pulse-hit { transform: translateX(-50%) scale(1.04); }
+.air-gate.pulse-hit, .earth-gate.pulse-hit { transform: translateY(-50%) scale(1.04); }
     </style>
 </head>
 <body>
@@ -348,19 +328,17 @@ body, html, h1, h2, h3, p, a, button, .btn {
     </header>
 
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
+<!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
 <div class="cosmic-compass">
-    <div class="element-corner fire-gate">
-        <span class="trigram">☲</span> ATEŞ [GÜNEŞ] <span class="iching-binary">|:|</span>
-    </div>
-    <div class="element-corner air-gate">
-        <span class="trigram">☴</span> HAVA [SİYAN] <span class="iching-binary">||:</span>
-    </div>
-    <div class="element-corner earth-gate">
-        <span class="trigram">☷</span> TOPRAK [MACENTA] <span class="iching-binary">:::</span>
-    </div>
-    <div class="element-corner water-gate">
-        <span class="trigram">☵</span> SU [AY DOLUNAY] <span class="iching-binary">: | :</span>
-    </div>
+    <!-- ➕ CARDINAL CROSS & ✖️ FIXED CROSS -->
+    <div class="element-corner fire-gate"><span class="trigram">☲</span> ATEŞ [KOÇ]</div>
+    <div class="element-corner air-gate"><span class="trigram">☵</span> HAVA [TERAZİ]</div>
+    <div class="element-corner earth-gate"><span class="trigram">☲</span> TOPRAK [KOÇ]</div>
+    <div class="element-corner water-gate"><span class="trigram">☷</span> SU [OĞLAK]</div>
+    <div class="element-corner light-gate"><span class="trigram">☱</span> IŞIK [KOVA]</div>
+    <div class="element-corner ether-gate"><span class="trigram">☴</span> RUH [ASLAN]</div>
+    <div class="element-corner metal-gate"><span class="trigram">☶</span> METAL [AKREP]</div>
+    <div class="element-corner ice-gate"><span class="trigram">☳</span> KRİSTAL [BOĞA]</div>
 </div>
 
 <!-- 🌌 İlk Katman: Kahraman Alanı -->
@@ -579,33 +557,90 @@ if (fireGate && waterGate && airGate && earthGate) {
         if(moonGate === earthGate) earthGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">:::</span>`;
     }
 
-    // 4. 74 BPM ANLIK NABIZ VURUŞU (Güneş ve Ay kapıları ortak ritimle patlar)
+   // 4. ADIM: AKTİF KUTUPLARI SEÇ VE DİNAMİK BURÇ ETİKETLERİNİ ÇAK
     const activeGates = [...new Set([sunGate, moonGate])];
+    const currentSunSign = getDynamicSunSign(); // Gerçek zamanlı burç (Başak vb.)
+
     activeGates.forEach(gate => {
         gate.classList.add('pulse-hit');
-        gate.style.opacity = 1.0;
-        gate.style.filter = `brightness(2) drop-shadow(0 0 25px currentColor)`;
-
-        setTimeout(() => {
-            gate.classList.remove('pulse-hit');
-            gate.style.opacity = (gate === moonGate) ? 0.7 : 0.6;
-            gate.style.filter = 'none';
-        }, 150);
+        gate.style.opacity = "0.85";
+        
+        if (gate === sunGate) {
+            gate.style.color = '#ff5e00'; // Güneş Turuncusu
+            
+            // Sabit element isminin yanına o anki gerçek Güneş zodyak burcunu basar!
+            const trigramSymbol = gate.className.includes('fire') ? '☲' : (gate.className.includes('air') ? '||:' : ':::');
+            gate.innerHTML = `<span class="trigram">${trigramSymbol}</span> ATEŞ [${currentSunSign}]`;
+        }
+        
+        if (gate === moonGate) {
+            gate.style.color = '#a855f7'; // Ay Moru
+            // Ay zaten kendi fazına göre "SU [YENİ AY]" olarak ismini aşağıda koruyor
+        }
     });
+
 }
     // Konsolda senkronizasyon takibi için (Geliştirme aşamasında açabilirsiniz)
     // console.log(`[74 BPM Pulse] Day Cycle Ratio: ${timeData.dayCycle.toFixed(4)}`);
 
-    // setInterval döngünüzün içine (en alta) ekleyin:
-const metatronHolder = document.querySelector('.metatron-three-iframe-holder');
-if (metatronHolder) {
-    // Öğlen (dayCycle: 1) -> Orijinal Turuncu/Sarı spektrum
-    // Gece (dayCycle: 0) -> 180 derece dönerek tam zıttı olan Siber Gece Mavisine bükülür
-    const hueRotation = (1 - timeData.dayCycle) * 180; 
-    metatronHolder.style.filter = `hue-rotate(${hueRotation}deg) brightness(${0.8 + (timeData.dayCycle * 0.4)})`;
-}
+
 
 }, pulseInterval);
+
+
+function getDynamicSabbat(sunSign) {
+    // Tarayıcı zaman diliminden Güney Yarımküre kontrolü
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    const southernKeywords = ['Australia', 'Sydney', 'Auckland', 'Wellington', 'Pacific', 'Sao_Paulo', 'Johannesburg'];
+    const isSouthern = southernKeywords.some(keyword => timeZone.includes(keyword));
+
+    // Kuzey Yarımküre için Sabbat haritası
+    const northernSabbatMap = {
+        "VIRGO (BAŞAK)": "MABON (SONBAHAR EKİNOKSU)",
+        "SCORPIO (AKREP)": "SAMHAIN (ATEŞ FESTİVALİ)",
+        "AQUARIUS (KOVA)": "IMBOLC (ATEŞ FESTİVALİ)",
+        "TAURUS (BOĞA)": "BELTANE (ATEŞ FESTİVALİ)",
+        "LEO (ASLAN)": "LUGHNASADH (HASAT FESTİVALİ)",
+        "ARIES (KOÇ)": "OSTARA (BAHAR EKİNOKSU)",
+        "CANCER (YENGEÇ)": "LITHA (YAZ GÜNDÖNÜMÜ)",
+        "CAPRICORN (OĞLAK)": "YULE (KIŞ GÜNDÖNÜMÜ)"
+    };
+
+    // Güney Yarımküre için tam tersi (Aynalanmış) Sabbat haritası
+    const southernSabbatMap = {
+        "VIRGO (BAŞAK)": "OSTARA (BAHAR EKİNOKSU)", // Wellington şu an bunu yaşıyor!
+        "SCORPIO (AKREP)": "BELTANE (ATEŞ FESTİVALİ)",
+        "AQUARIUS (KOVA)": "LUGHNASADH (HASAT FESTİVALİ)",
+        "TAURUS (BOĞA)": "SAMHAIN (ATEŞ FESTİVALİ)",
+        "LEO (ASLAN)": "IMBOLC (ATEŞ FESTİVALİ)",
+        "ARIES (KOÇ)": "MABON (SONBAHAR EKİNOKSU)",
+        "CANCER (YENGEÇ)": "YULE (KIŞ GÜNDÖNÜMÜ)",
+        "CAPRICORN (OĞLAK)": "LITHA (YAZ GÜNDÖNÜMÜ)"
+    };
+
+    const currentMap = isSouthern ? southernSabbatMap : northernSabbatMap;
+    return currentMap[sunSign] || "KOZMİK GEÇİŞ";
+}
+
+function getDynamicSunSign() {
+    const now = new Date();
+    const month = now.getMonth() + 1; // JS'de aylar 0-11 arasıdır
+    const day = now.getDate();
+
+    // Astrolojik burç tarih sınırları (2026 ve genel hassasiyet için)
+    if ((month == 3 && day >= 21) || (month == 4 && day <= 19)) return "ARIES (KOÇ)";
+    if ((month == 4 && day >= 20) || (month == 5 && day <= 20)) return "TAURUS (BOĞA)";
+    if ((month == 5 && day >= 21) || (month == 6 && day <= 20)) return "GEMINI (İKİZLER)";
+    if ((month == 6 && day >= 21) || (month == 7 && day <= 22)) return "CANCER (YENGEÇ)";
+    if ((month == 7 && day >= 23) || (month == 8 && day <= 22)) return "LEO (ASLAN)";
+    if ((month == 8 && day >= 23) || (month == 9 && day <= 22)) return "VIRGO (BAŞAK)"; // 🌌 ŞU AN AKTİF OLAN
+    if ((month == 9 && day >= 23) || (month == 10 && day <= 22)) return "LIBRA (TERAZİ)";
+    if ((month == 10 && day >= 23) || (month == 11 && day <= 21)) return "SCORPIO (AKREP)";
+    if ((month == 11 && day >= 22) || (month == 12 && day <= 21)) return "SAGITTARIUS (YAY)";
+    if ((month == 12 && day >= 22) || (month == 1 && day <= 19)) return "CAPRICORN (OĞLAK)";
+    if ((month == 1 && day >= 20) || (month == 2 && day <= 18)) return "AQUARIUS (KOVA)";
+    return "PISCES (BALIK)";
+}
 
     </script>
 
