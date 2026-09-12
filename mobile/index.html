@@ -289,27 +289,73 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 /* 🧭 GERÇEK HAÇ/PUSULA EKSENİ STILLERİ */
 /* 🧭 DURAĞAN MOD: Sadece düz transparan renk. Ekran kartını yoran drop-shadow tamamen SİLİNDİ! */
+/* 🧭 8'Lİ ÇEMBER ÇERÇEVE ALTYAPISI (DURAĞAN LOŞ GRİ MOD) */
+/* 🧭 8'Lİ SİBER-PUSULA ANA TEMELİ (PASİF GRİ MOD) */
+/* 🧭 8'Lİ SİBER-PUSULA ANA TEMELİ (PASİF GRİ MOD) */
 .element-corner {
     position: absolute;
     font-family: 'Segoe UI', monospace;
-    font-size: 0.75rem;
-    letter-spacing: 1px;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
     font-weight: bold;
-    padding: 10px 15px;
-    background: rgba(5, 5, 5, 0.4);
+    width: 65px; /* Sabit kare genişlik */
+    height: 35px; /* Sabit yükseklik */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(8, 8, 8, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 4px;
-    backdrop-filter: blur(2px);
-    transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.15s ease;
-    opacity: 0.05; /* Aktif olmayanlar tamamen loş kalır, GPU'ya yük bindirmez */
-    z-index: 5;
+    color: #444444;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    opacity: 0.2;
+    z-index: 10;
 }
 
-/* 🎯 CARDINAL CROSS TAM SABİT KONUM KİLİTLERİ */
-.fire-gate  { top: 90px; left: 50%; transform: translateX(-50%); color: #ff3b30; border-top: 2px solid #ff3b30; }
-.air-gate   { top: 50%; right: 20px; transform: translateY(-50%); color: #00ffff; border-right: 2px solid #00ffff; }
-.earth-gate { top: 50%; left: 20px; transform: translateY(-50%); color: #ff00ff; border-left: 2px solid #ff00ff; }
-.water-gate { bottom: 100px; left: 50%; transform: translateX(-50%); color: #007fff; border-bottom: 2px solid #007fff; }
+/* ➕ CARDINAL HAÇ SABİT KİLİTLERİ */
+.fire-gate  { top: 90px; left: 50%; transform: translateX(-50%); border-top: 1px solid rgba(255,255,255,0.15); }
+.water-gate { bottom: 120px; left: 50%; transform: translateX(-50%); border-bottom: 1px solid rgba(255,255,255,0.15); }
+.air-gate   { top: 50%; right: 20px; transform: translateY(-50%); border-right: 1px solid rgba(255,255,255,0.15); }
+.earth-gate { top: 50%; left: 20px; transform: translateY(-50%); border-left: 1px solid rgba(255,255,255,0.15); }
 
+/* ✖️ FIXED HAÇ ÇAPRAZ KİLİTLERİ */
+.light-gate { top: 22%; right: 12%; } 
+.ether-gate { bottom: 24%; right: 12%; } 
+.metal-gate { bottom: 24%; left: 12%; } 
+.ice-gate   { top: 22%; left: 12%; } 
+
+/* 💥 ELEKTRİKSEL AKTİF ÇERÇEVE PARLAMASI */
+.element-corner.active-glow {
+    opacity: 0.95 !important;
+    border-color: currentColor !important;
+    box-shadow: 0 0 12px currentColor;
+}
+.element-corner .iching-binary {
+    font-size: 0.55rem;
+    opacity: 0.5;
+    margin-left: 4px;
+}
+
+/* 🌌 MİSTİK ALT VERİ BARININ SİBERPUNK STİLİ */
+.cosmic-status-bar {
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Segoe UI', monospace;
+    font-size: 0.58rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 85%;
+    padding: 6px 12px;
+    background: rgba(10, 10, 10, 0.6);
+    border: 1px solid rgba(168, 85, 247, 0.15);
+    border-radius: 4px;
+    color: #888888;
+    z-index: 15;
+    text-transform: uppercase;
+}
 /* 💥 TEK SIFIRLANMIŞ PULSE: Sadece ritim anında (150ms) neon parlar ve hemen kapanır */
 .pulse-hit {
     opacity: 1.0 !important;
@@ -326,7 +372,64 @@ body, html, h1, h2, h3, p, a, button, .btn {
 .ether-gate { bottom: 20%; right: 15%; color: #ffaa00; border-bottom: 1px solid #ffaa00; border-right: 1px solid #ffaa00; } /* 🧬 Sağ Alt */
 .metal-gate { bottom: 20%; left: 15%; color: #ff0055; border-bottom: 1px solid #ff0055; border-left: 1px solid #ff0055; } /* 🌋 Sol Alt */
 .ice-gate   { top: 20%; left: 15%; color: #00ffaa; border-top: 1px solid #00ffaa; border-left: 1px solid #00ffaa; } /* ❄️ Sol Üst */
-    </style>
+ 
+ /* 📱 SİBER ALT MENÜ ANA TAŞIYICI */
+.siber-bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 85px;
+    background: linear-gradient(to top, rgba(5, 5, 5, 0.98) 85%, rgba(5, 5, 5, 0.0));
+    border-top: 1px solid rgba(168, 85, 247, 0.15);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 10px 15px;
+    padding-bottom: calc(10px + env(safe-area-inset-bottom)); /* iOS Ana Ekran Çentiği Koruması */
+    z-index: 100;
+}
+
+/* 🟦 KARE MOBİL SİBER BUTONLAR */
+.nav-square-btn {
+    background: rgba(15, 15, 15, 0.75);
+    border: 1px solid rgba(168, 85, 247, 0.25);
+    border-radius: 6px;
+    color: #777777;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Aktif / Seçilmiş Sekme Işıltısı */
+.nav-square-btn.active-tab {
+    color: #ffffff;
+    border-color: #a855f7;
+    background: rgba(168, 85, 247, 0.12);
+    box-shadow: inset 0 0 12px rgba(168, 85, 247, 0.25), 0 0 10px rgba(168, 85, 247, 0.15);
+}
+
+.nav-square-btn .btn-icon {
+    font-size: 1.3rem;
+    margin-bottom: 4px;
+}
+
+.nav-square-btn .btn-sub {
+    font-size: 0.58rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* Sayfa içeriğinin navigasyon barın arkasında kalıp ezilmesini önleyen footer boşluğu */
+footer {
+    margin-bottom: 100px !important;
+}
+ </style>
 </head>
 <body>
 
@@ -336,19 +439,25 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
-<!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
+<!-- 🧭 8 KÖŞELİ KOZMİK SİBER PUSULA (CARDINAL + FIXED CROSS) -->
+<!-- 🧭 8 KÖŞELİ KOZMİK SAF PUSULA (CARDINAL + FIXED CROSS) -->
 <div class="cosmic-compass">
     <!-- ➕ CARDINAL CROSS -->
-    <div class="element-corner fire-gate"><span class="trigram">☲</span> ATEŞ [KOÇ]</div>
-    <div class="element-corner air-gate"><span class="trigram">☵</span> HAVA [TERAZİ]</div>
-    <div class="element-corner earth-gate"><span class="trigram">☲</span> TOPRAK [KOÇ]</div>
-    <div class="element-corner water-gate"><span class="trigram">☷</span> SU [OĞLAK]</div>
+    <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
+    <div class="element-corner air-gate" id="gate-air"><span class="trigram">☵</span> <span class="iching-binary">:|:</span></div>
+    <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
+    <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary">:::</span></div>
     
     <!-- ✖️ FIXED CROSS -->
-    <div class="element-corner light-gate"><span class="trigram">☱</span> IŞIK [KOVA]</div>
-    <div class="element-corner ether-gate"><span class="trigram">☴</span> RUH [ASLAN]</div>
-    <div class="element-corner metal-gate"><span class="trigram">☶</span> METAL [AKREP]</div>
-    <div class="element-corner ice-gate"><span class="trigram">☳</span> KRİSTAL [BOĞA]</div>
+    <div class="element-corner light-gate" id="gate-light"><span class="trigram">☱</span> <span class="iching-binary">||:</span></div>
+    <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☴</span> <span class="iching-binary">:||</span></div>
+    <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☶</span> <span class="iching-binary">::|</span></div>
+    <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☳</span> <span class="iching-binary">|::</span></div>
+</div>
+
+<!-- 🌌 MİSTİK KOZMİK DURUM MATRİSİ (Yazıları topladığımız alt veri barı) -->
+<div class="cosmic-status-bar" id="cosmic-status">
+    INITIALIZING COSMIC MATRIX...
 </div>
 
 <!-- 🌌 İlk Katman: Kahraman Alanı -->
@@ -469,34 +578,33 @@ function getMoonPhase(year, month, day) {
 const bpm = 74;
 const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi frekansı)
 setInterval(() => {
-    // 1. CALCULATE TIME RATIOS
     const timeData = calculateCosmicTime();
     const now = new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
     
-    // SAFE ELEMENT SELECTION (FIXED HYPHENS TO camelCase)
-    const fireGate  = document.querySelector('.fire-gate');
-    const airGate   = document.querySelector('.air-gate');
-    const earthGate = document.querySelector('.earth-gate');
-    const waterGate = document.querySelector('.water-gate');
-    const lightGate = document.querySelector('.light-gate');
-    const etherGate = document.querySelector('.ether-gate');
-    const metalGate = document.querySelector('.metal-gate');
-    const iceGate   = document.querySelector('.ice-gate'); 
+    const fireGate  = document.getElementById('gate-fire');
+    const airGate   = document.getElementById('gate-air');
+    const earthGate = document.getElementById('gate-earth');
+    const waterGate = document.getElementById('gate-water');
+    const lightGate = document.getElementById('gate-light');
+    const etherGate = document.getElementById('gate-ether');
+    const metalGate = document.getElementById('gate-metal');
+    const iceGate   = document.getElementById('gate-ice');
+    const statusBar = document.getElementById('cosmic-status');
 
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         
-        // STATIC CALM MOD: REMOVE GPU-MELTING FILTERS & BLURS FOR MAXIMUM CONTRAST
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
+        
+        // TÜM ÇEMBERİ BAŞLANGIÇTA SÖNÜK GRİ YAP
         all8Gates.forEach(gate => {
-            gate.style.opacity = "0.08";
-            gate.style.color = ''; 
-            gate.style.filter = 'none'; 
-            gate.classList.remove('pulse-hit');
+            gate.classList.remove('active-glow');
+            gate.style.opacity = "0.2";
+            gate.style.color = "#444444";
         });
 
-        // 2. SUN'S 24-HOUR CIRCADIAN ROTATION (8 Cosmic Sectors)
+        // GÜNEŞ'İN SEYRİ (8 Aşamalı Çark)
         const totalMinutes = (hours * 60) + minutes;
         const sunAngle = (totalMinutes / 1440) * 360; 
 
@@ -510,67 +618,61 @@ setInterval(() => {
         else if (sunAngle >= 292.5 && sunAngle < 337.5)  { sunGate = iceGate; }   
         else                                             { sunGate = waterGate; } 
 
-        // 3. MOON'S 28-DAY LUNAR PHASE INDEPENDENT CALCULATOR
+        // AY'IN SEYRİ (Karanlık Ay / Hekate Kurgusu)
         const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
         let moonGate;
-        let moonTrigram = "☵";
         let moonColor = "#a855f7"; 
-        let moonStatusText = "";
+        let moonText = "KARANLIK AY";
 
-        if (moonData.phase < 0.125 || moonData.phase >= 0.875) {
-            moonGate = waterGate; moonTrigram = "☷"; moonStatusText = "SU [YENİ AY]";
+        if (moonData.phase < 0.04 || moonData.phase >= 0.96) {
+            moonGate = waterGate; moonColor = "#8b5cf6"; moonText = "KARANLIK AY";
+        } else if (moonData.phase >= 0.04 && moonData.phase < 0.125) {
+            moonGate = waterGate; moonColor = "#a855f7"; moonText = "YENİ AY";
         } else if (moonData.phase >= 0.375 && moonData.phase < 0.625) {
-            moonGate = fireGate; moonTrigram = "☰"; moonColor = "#ffffff"; moonStatusText = "ATEŞ [DOLUNAY]";
+            moonGate = fireGate; moonColor = "#ffffff"; moonText = "DOLUNAY";
         } else if (moonData.phase >= 0.125 && moonData.phase < 0.375) {
-            moonGate = airGate; moonTrigram = "☲"; moonColor = "#00ffff"; moonStatusText = "HAVA [BÜYÜYEN AY]";
+            moonGate = airGate; moonColor = "#00ffff"; moonText = "BÜYÜYEN AY";
         } else {
-            moonGate = earthGate; moonTrigram = "☴"; moonColor = "#ff00ff"; moonStatusText = "TOPRAK [KÜÇÜLEN AY]";
+            moonGate = earthGate; moonColor = "#ff00ff"; moonText = "KÜÇÜLEN AY";
         }
 
-        moonGate.style.opacity = "0.85";
-        moonGate.style.color = moonColor;
-        
-        if (moonGate === waterGate) waterGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">: | :</span>`;
-        if (moonGate === fireGate) fireGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">|:|</span>`;
-        if (moonGate === airGate) airGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">||:</span>`;
-        if (moonGate === earthGate) earthGate.innerHTML = `<span class="trigram">${moonTrigram}</span> ${moonStatusText} <span class="iching-binary">:::</span>`;
-
-        // 4. REAL-TIME ASTRO ZODIAC BURÇ & DYNAMIC SABBAT INJECTION WITH MEVSİMSEL SPEKTRUM
+        // DİNAMİK SABBAT VE YARIMKÜRE RENK SPEKTRUMU
         const currentSunSign = getDynamicSunSign(); 
         const currentSabbat = getDynamicSabbat(currentSunSign); 
-
-        // 🌍 YARIMKÜRE KONTROLÜNE BAĞLI MEVSİMSEL GEÇİŞ RENK SPEKTRUMU
         const currentHemisphere = getHemisphere();
-        let sunMevsimColor = '#ff5e00'; // Varsayılan Güneş Turuncusu
 
-        // Eğer Başak burcundaysak (Eylül Ekinoks Geçiş Aksı)
+        let sunMevsimColor = '#ff5e00'; 
         if (currentSunSign.includes("VIRGO")) {
-            if (currentHemisphere === 'NORTHERN') {
-                sunMevsimColor = '#00ff66'; // 🍁 Kuzey Yarımküre: Sonbahar Geçiş Yeşili
-            } else {
-                sunMevsimColor = '#ff3300'; // 🌱 Güney Yarımküre: Bahar Uyanış Kırmızısı
-            }
+            sunMevsimColor = (currentHemisphere === 'NORTHERN') ? '#00ff66' : '#ff3300';
         }
 
-        // Güneş'in kapısını yeni mevsim rengiyle canlandır
-        sunGate.style.opacity = "0.85";
-        sunGate.style.color = sunMevsimColor; 
+        // AY VE GÜNEŞ ÇERÇEVELERİNİ YERLERİNDEN OYNATMADAN SAF RENKLE YAK
+        moonGate.classList.add('active-glow');
+        moonGate.style.color = moonColor;
 
-        let gateName = "KAPI";
-        let gateTrigram = "☰";
-        if (sunGate === fireGate)  { gateName = "ATEŞ";  gateTrigram = "☲"; }
-        if (sunGate === airGate)   { gateName = "HAVA";   gateTrigram = "☵"; }
-        if (sunGate === earthGate) { gateName = "TOPRAK"; gateTrigram = "☲"; }
-        if (sunGate === waterGate) { gateName = "SU";     gateTrigram = "☷"; }
-        if (sunGate === lightGate) { gateName = "IŞIK";   gateTrigram = "☱"; }
-        if (sunGate === etherGate) { gateName = "RUH";    gateTrigram = "☴"; }
-        if (sunGate === metalGate) { gateName = "METAL";  gateTrigram = "☶"; }
-        if (sunGate === iceGate)   { gateName = "KRİSTAL";gateTrigram = "☳"; }
+        sunGate.classList.add('active-glow');
+        sunGate.style.color = sunMevsimColor;
 
-        sunGate.innerHTML = `<span class="trigram">${gateTrigram}</span> ${gateName} [${currentSunSign} - SABBAT: ${currentSabbat}]`;
+        // 🌌 TÜM UZUN METİNLERİ EKRANIN ALTINDAKİ SİBER BARDA BİRLEŞTİR
+        if (statusBar) {
+            let activeGateName = "KAPI";
+            if (sunGate === fireGate)  activeGateName = "ATEŞ";
+            if (sunGate === airGate)   activeGateName = "HAVA";
+            if (sunGate === earthGate) activeGateName = "TOPRAK";
+            if (sunGate === waterGate) activeGateName = "SU";
+            if (sunGate === lightGate) activeGateName = "IŞIK";
+            if (sunGate === etherGate) activeGateName = "RUH";
+            if (sunGate === metalGate) activeGateName = "METAL";
+            if (sunGate === iceGate)   activeGateName = "KRİSTAL";
+
+            statusBar.innerHTML = `
+                <span style="color: ${sunMevsimColor}">SOLAR: ${activeGateName} [${currentSunSign}]</span> 
+                <span style="color: #a855f7; margin-left:10px;">LUNAR: ${moonText}</span><br>
+                <span style="color: #666; font-size:0.52rem;">SABBAT: ${currentSabbat} (${currentHemisphere})</span>
+            `;
+        }
     }
 }, pulseInterval);
-
 function getDynamicSabbat(sunSign) {
     const now = new Date();
     const month = now.getMonth() + 1; // JS'de aylar 0-11 arasıdır
@@ -646,7 +748,21 @@ function getDynamicSunSign() {
     return "PISCES (BALIK)";
 }
 
+
+// 📱 MOBİL SEKME GEÇİŞ MOTORU
+document.querySelectorAll('.nav-square-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        // Eski sekmeyi loşlaştır, yeni tıklanan sekmeyi siber morla parlat
+        document.querySelectorAll('.nav-square-btn').forEach(b => b.classList.remove('active-tab'));
+        this.classList.add('active-tab');
+        
+        console.log(`[Wiccan-Nav] ${this.dataset.tab.toUpperCase()} katman paneli tetiklendi.`);
+    });
+});
+
     </script>
+
+
 
     
 </body>
