@@ -555,7 +555,7 @@ function updateHTMLGates() {
 function calculateCosmicTime() {
     const now = new Date();
     //const now = new Date(); now.setHours(20, 50, 0); 
-    const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    //const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
 
@@ -1095,7 +1095,7 @@ window.addEventListener('message', (event) => {
 
 <script>
 // ZAMANI BÜKÜP HESAP MAKİNESİ AKSINA KİLİTLEYEN SÜRÜCÜ MOTORU
-let wiccaTimeOffsetMinutes = 0;
+//let wiccaTimeOffsetMinutes = 0;
 
 function bendWiccaTime(mode) {
     // 1 Oda periyodu yaklaşık 22 dakikadır
