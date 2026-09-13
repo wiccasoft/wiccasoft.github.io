@@ -436,7 +436,42 @@ footer {
     <header>
        
     </header>
+<!-- =========================================================================
+     🎮 WICCA OS: 10X FRAKTAL ZAMAN MAKİNESİ PANEL ENJEKSİYONU
+     ========================================================================= -->
+<div id="time-machine-panel" style="display: flex; justify-content: center; gap: 10px; margin: 15px auto; max-width: 400px; padding: 10px; background: rgba(0,0,0,0.85); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999; position: relative;">
+    <button onclick="bendWiccaTime('PAST')" style="flex: 1; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00;">◀ PAST</button>
+    <button onclick="bendWiccaTime('PREV')" style="flex: 1; background: #111; color: #00ffff; border: 1px solid #00ffff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #00ffff;">-1 ODA</button>
+    <button onclick="bendWiccaTime('NEXT')" style="flex: 1; background: #111; color: #00ffff; border: 1px solid #00ffff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #00ffff;">+1 ODA</button>
+    <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff;">FUTURE ▶</button>
+</div>
 
+<script>
+// SİRKADİYEN DÖNGÜYÜ ANLIK TETİKLEYEN GLOBAL OFSET DEĞİŞKENİ
+if (typeof window.wiccaTimeOffsetMinutes === 'undefined') {
+    window.wiccaTimeOffsetMinutes = 0;
+}
+
+function bendWiccaTime(mode) {
+    // 💥 TAM SENİN İSTEDİĞİN GİBİ: Her tıkta net 2 saat (120 dakika) geri veya ileri vites!
+    if (mode === 'FUTURE') {
+        window.wiccaTimeOffsetMinutes += 120;
+    } else if (mode === 'PAST') {
+        window.wiccaTimeOffsetMinutes -= 120;
+    }
+
+    // Bilgisayarın saatini bozmadan simüle edilmiş zaman nesnesi doğuruyoruz
+    const baseDate = new Date();
+    const futureOrPastDate = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
+    
+    // Global saat nesnesini senin o sarsılmaz simülasyonuna mühürlüyoruz aga:
+    window.now = futureOrPastDate;
+
+    // Sayfayı yenilemeden arkadaki sirkadiyen motoru anında tetikleyen vanalar:
+    if (typeof updateCosmicClock === 'function') { updateCosmicClock(); }
+    if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
+}
+</script>
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK SİBER PUSULA (CARDINAL + FIXED CROSS) -->
@@ -477,15 +512,43 @@ footer {
 
 
 
-    <footer>
-        <div>&copy; 2026 Wiccasoft</div>
-        <div>
-            <a href="privacy.html">Privacy Policy</a>
-            <span style="margin: 0 10px;">|</span>
-            <a href="terms.html">Terms & Conditions</a>
-        </div>
-    </footer>
+    <script>
+// GERÇEK SAATİ BOZMADAN SADECE SİRKADİYEN MOTORU BÜKEN SÜRÜCÜ:
+let wiccaTimeOffsetMinutes = 0;
 
+function bendWiccaTime(mode) {
+    // 1 sirkadiyen oda periyodu yaklaşık 21.9 dakikadır
+    const roomUnit = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
+    
+    if (mode === 'NEXT') {
+        wiccaTimeOffsetMinutes += roomUnit;
+    } else if (mode === 'PREV') {
+        wiccaTimeOffsetMinutes -= roomUnit;
+    } else if (mode === 'FUTURE') {
+        wiccaTimeOffsetMinutes += (roomUnit * 4);
+    } else if (mode === 'PAST') {
+        wiccaTimeOffsetMinutes -= (roomUnit * 4);
+    }
+
+    // Bilgisayarın ana saatini kirletmeden simüle edilmiş bir zaman nesnesi üretiyoruz
+    const baseDate = new Date();
+    const futureOrPastDate = new Date(baseDate.getTime() + (wiccaTimeOffsetMinutes * 60 * 1000));
+    
+    // index.html içindeki o saniyede 74 kere atan saati simülasyona kilitliyoruz aga
+    if (typeof now !== 'undefined') {
+        now = futureOrPastDate;
+    } else {
+        window.now = futureOrPastDate;
+    }
+
+    // Tetikleyici saat fonksiyonlarını arkada anında çalıştırıp ekranı güncelliyoruz
+    if (typeof updateCosmicClock === 'function') {
+        updateCosmicClock();
+    } else if (typeof triggerCircadianPulse === 'function') {
+        triggerCircadianPulse();
+    }
+}
+</script>
 
     <script>
 
@@ -508,8 +571,11 @@ function updateHTMLGates() {
 
 function calculateCosmicTime() {
     const now = new Date();
+    //const now = new Date(); now.setHours(20, 50, 0); 
     const hours = now.getHours();
     const minutes = now.getMinutes();
+
+    
     
     // 24 saati dakikaya (toplam 1440 dk) döküp 0.0 - 1.0 arası bir "Gün Oranı" buluyoruz
     const totalMinutes = (hours * 60) + minutes;
@@ -583,6 +649,7 @@ setInterval(() => {
     // 1. GÜN VE SAAT ORANLARINI HESAPLA
     const timeData = calculateCosmicTime();
     const now = new Date();
+    //const now = new Date(); now.setHours(20, 50, 0);
     const hours = now.getHours();
     const minutes = now.getMinutes();
     
@@ -598,7 +665,7 @@ setInterval(() => {
     const statusBar = document.getElementById('cosmic-status');
 
     // =========================================================================
-    // 3. PARÇA: HAKİKİ BATIŞ KİLİTLİ SIRKADİYEN MOTOR ŞASİSİ (SAĞDAN/BATI'DAN BATMA)
+    // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ
     // =========================================================================
     
     // A. Kutsal 64 Heksagram dizisini mühürlüyoruz
@@ -615,7 +682,7 @@ setInterval(() => {
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
     let roomDurationMinutes = isYang ? ((solar.dayLength * 60) / 32) : (((24 - solar.dayLength) * 60) / 32);
 
-    // KUTSALLIĞI KORUNAN MEVSİMSEL KRONOMETRE
+    // KUTSALLIĞI KORUNAN MEVSİMSEL KRONOMETRE:
     let sunRoom64 = 0;
     if (isYang) {
         let gündüzProgress = (currentHour - solar.sunrise) / solar.dayLength;
@@ -635,7 +702,7 @@ setInterval(() => {
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
 
-    // D. Yapay sirkadiyen açı simülasyonu
+    // D. Ham spektrum uyumu için yapay sirkadiyen açı simülasyonu
     let sunAngle = (sunRoom64 * 5.625);
 
     let sunCircadianColor = '#7a00ff'; // Gece Derin Yin Mor
@@ -657,24 +724,51 @@ setInterval(() => {
         // Kusursuz Saat Yönü Antipod Dizilimimiz:
         const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
-        // 💥 GÜNEŞİ SAĞDAN (BATI'DAN) BATIRIP SAAT YÖNÜNDE PÜRÜZSÜZCE AŞAĞI AKITAN MOTOR:
+        // 💥 DOĞAL ZAMANSAL AKIŞ SÜRÜCÜSÜ (OMURGA KİLİTLİ MODEL):
         let calibratedRoom = 0;
         if (isYang) {
-            // Gündüz: Güneş üstten başlayıp saat yönünde ilerler ve tam 2. indeksteki SAĞ ORTA kapıya (`airGate` / Batı) ulaşıp sönümlenir.
-            calibratedRoom = Math.floor(sunRoom64 / 4) % 8; 
-        } else {
-            // Gece: Gündüzün tam bittiği yer olan 2. indeksteki SAĞ ORTA butondan (`airGate`) geceye devralıyoruz!
-            // Zaman ilerledikçe (step arttıkça) indeks saat yönünde pürüzsüzce 2 -> 3 -> 4 diye ilerliyor.
-            // Böylece Güneş tam sağdan batıyor, sağ alta süzülüyor ve gece yarısı en alttaki Siyah Orba iniyor aga!
-            let step = Math.floor((sunRoom64 - 32) / 4);
-            calibratedRoom = (2 + step) % 8; 
+            calibratedRoom = Math.floor(sunRoom64 / 4) % 8; // Gündüz pürüzsüz saat yönünde ilerler
+        }  else {
+            // 🌌 💥 SALVATOR MUTLAK SWITCH-CASE GECE SÜRÜCÜSÜ:
+            // Yapay çarpanlar, ondalık donmalar tamamen çöpe!
+            // 16 odalık gece adımlarını doğrudan o 8 kutsal kapıya milimetrik mühürlüyoruz aga!
+            let step = sunRoom64 - 32; // 32'de 0 (Batış), 48'de 16 (Gece Yarısı Zirvesi)
+
+                      switch (step) {
+                // 🌆 GÜN BATIMI (SAĞ ORTA / BATI UFUK EVRESİ)
+                case 0:  case 1:  case 2:
+                    calibratedRoom = 2; // airGate (Tam Sağ)
+                    break;
+                
+                // 🌙 GECEYE DOĞRU SÜZÜLÜŞ (SAĞ ALT KADRAN)
+                case 3:  case 4:  case 5:  case 6:
+                    calibratedRoom = 3; // etherGate (Sağ Alt)
+                    break;
+                
+                // 🕋 GECE YARISI ÖNCESİ DİKEY AKS KİLİTLENMESİ (TAM ORTA / EN ALT)
+                case 7:  case 8:  case 9:  case 10:
+                    calibratedRoom = 4; // waterGate (En Alt - Salvator'un Omurga Çekirdeği)
+                    break;
+                
+                // 🔮 💥 İŞTE O DÜZELTME: 44. ODA ARTIK OMURGAYI BIRAKIP SOL ALTA SÜZÜLÜR:
+                case 11: case 12: case 13: case 14:
+                    calibratedRoom = 5; // metalGate (Sol Alt Kadran!)
+                    break;
+                
+                // 🌄 ŞAFAĞA DOĞRU İLK KIRILMA (SOL ORTA)
+                case 15: case 16:
+                    calibratedRoom = 6; // earthGate (Tam Sol)
+                    break;
+                
+                default:
+                    calibratedRoom = 4;
+            }
         }
 
         let sunGateIndex = calibratedRoom;
         let sunGate = gateMapping[sunGateIndex];
 
         // Karanlık Ay pozisyonu her zaman Güneş'in tam 4 buton (180 derece) zıttına kilitlenir!
-        // Güneş sağda (Batıda) batarken, Karanlık Ay tam sol ortadaki yeşil butonda (Doğuda) doğar!
         let moonGateIndex = (sunGateIndex + 4) % 8;
         let moonGate = gateMapping[moonGateIndex];
 
@@ -687,7 +781,7 @@ setInterval(() => {
         if (brightMoonRoom64 < 0) brightMoonRoom64 = 0;
         let currentMoonHexagram = iching64[brightMoonRoom64];
 
-        let calibratedMoonRoom = (brightMoonRoom64 <= 32) ? Math.floor(brightMoonRoom64 / 4) % 8 : (2 + Math.floor((brightMoonRoom64 - 32) / 4)) % 8;
+        let calibratedMoonRoom = (brightMoonRoom64 <= 32) ? Math.floor(brightMoonRoom64 / 4) % 8 : (0 + Math.floor((brightMoonRoom64 - 32) / 4)) % 8;
         let brightMoonGateIndex = calibratedMoonRoom;
         let brightMoonGate = gateMapping[brightMoonGateIndex];
 
@@ -1010,6 +1104,47 @@ window.addEventListener('message', (event) => {
 
     </script>
 
+
+
+
+<script>
+// ZAMANI BÜKÜP HESAP MAKİNESİ AKSINA KİLİTLEYEN SÜRÜCÜ MOTORU
+let wiccaTimeOffsetMinutes = 0;
+
+function bendWiccaTime(mode) {
+    // 1 Oda periyodu yaklaşık 22 dakikadır
+    const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
+    
+    if (mode === 'NEXT') {
+        wiccaTimeOffsetMinutes += roomDuration;
+    } else if (mode === 'PREV') {
+        wiccaTimeOffsetMinutes -= roomDuration;
+    } else if (mode === 'FUTURE') {
+        wiccaTimeOffsetMinutes += (roomDuration * 4); // 4 Oda ileri sar (Hızlı Geçiş)
+    } else if (mode === 'PAST') {
+        wiccaTimeOffsetMinutes -= (roomDuration * 4); // 4 Oda geri sar
+    }
+
+    // Gerçek saati bozmadan simülasyon zamanı üreten siber çekirdek
+    const originalDate = new Date();
+    const simulatedDate = new Date(originalDate.getTime() + (wiccaTimeOffsetMinutes * 60 * 1000));
+    
+    // index.html içindeki ana zaman nesnesini büküyoruz
+    if (typeof now !== 'undefined') {
+        now = simulatedDate;
+    } else {
+        // Eğer global nesne direkt 'now' değilse simülasyonu ana döngüye yedir
+        window.now = simulatedDate;
+    }
+
+    // Siber status bardan zorunlu yenileme tetiklemesi fırlatıyoruz
+    if (typeof updateCosmicClock === 'function') {
+        updateCosmicClock();
+    } else if (typeof triggerCircadianPulse === 'function') {
+        triggerCircadianPulse();
+    }
+}
+</script>
 
 
     
