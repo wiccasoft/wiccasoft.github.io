@@ -437,41 +437,24 @@ footer {
        
     </header>
 <!-- =========================================================================
-     🎮 WICCA OS: 10X FRAKTAL ZAMAN MAKİNESİ PANEL ENJEKSİYONU
+     🎮 WICCA OS: 10X FRAKTAL ZAMAN MAKİNESİ PANEL ENJEKSİYONU (2 SAAT KİLİTLİ MODEL)
      ========================================================================= -->
-<div id="time-machine-panel" style="display: flex; justify-content: center; gap: 10px; margin: 15px auto; max-width: 400px; padding: 10px; background: rgba(0,0,0,0.85); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999; position: relative;">
+<div id="time-machine-panel" style="display: flex; justify-content: center; gap: 10px; margin: 15px auto; max-width: 400px; padding: 10px; background: rgba(0,0,0,0.85); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important; position: relative;">
     <button onclick="bendWiccaTime('PAST')" style="flex: 1; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00;">◀ PAST</button>
-    <button onclick="bendWiccaTime('PREV')" style="flex: 1; background: #111; color: #00ffff; border: 1px solid #00ffff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #00ffff;">-1 ODA</button>
-    <button onclick="bendWiccaTime('NEXT')" style="flex: 1; background: #111; color: #00ffff; border: 1px solid #00ffff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #00ffff;">+1 ODA</button>
     <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff;">FUTURE ▶</button>
 </div>
 
 <script>
-// SİRKADİYEN DÖNGÜYÜ ANLIK TETİKLEYEN GLOBAL OFSET DEĞİŞKENİ
-if (typeof window.wiccaTimeOffsetMinutes === 'undefined') {
-    window.wiccaTimeOffsetMinutes = 0;
-}
-
+if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 function bendWiccaTime(mode) {
-    // 💥 TAM SENİN İSTEDİĞİN GİBİ: Her tıkta net 2 saat (120 dakika) geri veya ileri vites!
-    if (mode === 'FUTURE') {
-        window.wiccaTimeOffsetMinutes += 120;
-    } else if (mode === 'PAST') {
-        window.wiccaTimeOffsetMinutes -= 120;
-    }
-
-    // Bilgisayarın saatini bozmadan simüle edilmiş zaman nesnesi doğuruyoruz
-    const baseDate = new Date();
-    const futureOrPastDate = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
-    
-    // Global saat nesnesini senin o sarsılmaz simülasyonuna mühürlüyoruz aga:
-    window.now = futureOrPastDate;
-
-    // Sayfayı yenilemeden arkadaki sirkadiyen motoru anında tetikleyen vanalar:
+    if (mode === 'FUTURE') { window.wiccaTimeOffsetMinutes += 120; }
+    else if (mode === 'PAST') { window.wiccaTimeOffsetMinutes -= 120; }
+    window.now = new Date(new Date().getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); }
     if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
 }
 </script>
+
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK SİBER PUSULA (CARDINAL + FIXED CROSS) -->
