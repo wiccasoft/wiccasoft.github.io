@@ -505,6 +505,7 @@ function updateHTMLGates() {
 
 
 
+
 function calculateCosmicTime() {
     const now = new Date();
     const hours = now.getHours();
@@ -597,6 +598,9 @@ setInterval(() => {
     const iceGate   = document.getElementById('gate-ice');
     const statusBar = document.getElementById('cosmic-status');
 
+
+    
+
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         
@@ -607,14 +611,43 @@ setInterval(() => {
             gate.style.color = "#444444";
         });
 
-      
-
-        // B. HAKİKİ SIRKADİYEN AÇILARIN HESAPLANMASI (AYNALI MATRIX)
-        const rawSunAngle = getAstroSunAngle(); 
-        //const sunAngle = (360 - rawSunAngle) % 360; 
-
-         const sunAngle = (rawSunAngle + 180) % 360; 
+   // =========================================================================
+        // 3. PARÇA: SİRKADİYEN RENK SPEKTRUMU VE DİNAMİK KAPI EŞLEŞMELERİ
+        // =========================================================================
         
+        // A. 💥 HATA ÖNLEYİCİ ANA KİLİT: 
+        // gateMapping dizisini ve sirkadiyen açı motorunu sorgulardan ÖNCE en tepeye alıyoruz!
+        // Böylece tarayıcı "not defined" hatası vermeden elemanları hafızadan jilet gibi çekebilir.
+        const gateMapping = [
+            fireGate,   // 0 ➔ TAM ÜST     (Zıttı 4 eleman sonra: waterGate - TAM ALT)
+            lightGate,  // 1 ➔ SAĞ ÜST    (Zıttı 4 eleman sonra: metalGate - SOL ALT)
+            airGate,    // 2 ➔ TAM SAĞ     (Zıttı 4 eleman sonra: earthGate - TAM SOL)
+            etherGate,  // 3 ➔ SAĞ ALT    (Zıttı 4 eleman sonra: iceGate   - SOL ÜST)
+            waterGate,  // 4 ➔ TAM ALT     (Zıttı 0. indeksteki fireGate   - TAM ÜST)
+            metalGate,  // 5 ➔ SOL ALT     (Zıttı 1. indeksteki lightGate  - SAĞ ÜST)
+            earthGate,  // 6 ➔ TAM SOL     (Zıttı 2. indeksteki airGate    - TAM SAĞ)
+            iceGate     // 7 ➔ SOL ÜST     (Zıttı 3. indeksteki etherGate  - SAĞ ALT)
+        ];
+
+        const rawSunAngle = getAstroSunAngle();
+        let sunAngle = (rawSunAngle + 180) % 360;
+
+        // B. Gün içindeki saate göre saf parlaklık spektrumu
+        sunCircadianColor = '#7a00ff'; // Gece Derin Yin Mor
+        if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ffaa00'; } // Sabah Altın Sarı
+        else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu
+        else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı
+
+        // C. Saat yönündeki 1-64 oda akışı ile butonların yönünü senkronize eden ters açı hesabı
+        let synchronizedSunAngle = (360 - sunAngle) % 360;
+
+        let sunGateIndex = Math.floor(synchronizedSunAngle / 45) % 8;
+        let sunGate = gateMapping[sunGateIndex];
+
+        let moonGateIndex = (sunGateIndex + 4) % 8;
+        let moonGate = gateMapping[moonGateIndex];
+
+        // 💥 AY VE KOD GEÇİŞLERİ KİLİDİ
         const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
         let moonColor = "#8b5cf6"; 
         let moonText = "KARANLIK AY [OPPOSITE]";
@@ -633,11 +666,15 @@ setInterval(() => {
             brightMoonColor = "#ff00ff"; brightMoonText = "KÜÇÜLEN AY (WANING)";
         }
 
-        // C. KUTSAL 64 TETRAHEDRON HEXAGRAM GRID DIZISI
+        let synchronizedMoonAngle = (360 - brightMoonAngle) % 360;
+        let brightMoonGateIndex = Math.floor(synchronizedMoonAngle / 45) % 8;
+        let brightMoonGate = gateMapping[brightMoonGateIndex];
+
+        // D. KUTSAL 64 TETRAHEDRON HEXAGRAM GRID DIZISI
         const iching64 = [
             "䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏",
             "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟",
-            "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯",
+            "䷠", "ai", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯",
             "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"
         ];
 
@@ -688,63 +725,20 @@ setInterval(() => {
 
         let darkMoonAngle = (sunAngle + 180) % 360; 
 
-      
 
-        // 2. 💥 İŞTE KAYMAYI SIFIRLAYAN ALTIN DOKUNUŞ:
-// Odanın esnemesine bakmıyoruz, odayı direkt bu sabitlediğimiz zıt açıdan (darkMoonAngle) türetiyoruz:
-let darkMoonRoom64 = Math.floor(darkMoonAngle / 5.625);
-
-if (darkMoonRoom64 > 63) darkMoonRoom64 = 63;
-if (darkMoonRoom64 < 0) darkMoonRoom64 = 0;
-
-let currentDarkMoonHexagram = iching64[darkMoonRoom64];
-
-// 💥 KRİTİK KİLİT: Konsolu çökerten brightMoonAngle değişkenini Güneş'e endeksleyerek hayata döndürüyoruz
- brightMoonAngle = (sunAngle + (moonData.phase * 360)) % 360;
-
-// Yorum satırını kaldırıp değişkeni bilgisayara resmi olarak tanıtıyoruz:
-let brightMoonRoom64 = Math.floor(brightMoonAngle / 5.625);
-
-if (brightMoonRoom64 > 63) brightMoonRoom64 = 63;
-if (brightMoonRoom64 < 0) brightMoonRoom64 = 0;
-
-let currentMoonHexagram = iching64[brightMoonRoom64];
-
-    // =========================================================================
-        // 3. PARÇA: SİRKADİYEN RENK SPEKTRUMU VE DİNAMİK KAPI EŞLEŞMELERİ (AKILLI HIZLI MOD)
-        // =========================================================================
-        // A. Gün içindeki saate göre saf parlaklık spektrumu
-        let sunCircadianColor = '#7a00ff'; // Gece Derin Yin Mor
-        if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ffaa00'; } // Sabah Altın Sarı
-        else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu
-        else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı
-
-        // B. 💥 İŞTE KAYMAYI SIFIRLAYAN ANTİPOD GEOMETRİ DİZİLİMİ:
-        // Her elementin tam 4 eleman sonrasına gerçek geometrik karşıtını (antisini) yerleştirdik!
-        // Metal ➔ Ateş | Su ➔ Işık | Buz ➔ Hava | Toprak ➔ Eter (Veya senin element eşlerine göre)
-        const gateMapping = [
-            metalGate,  // 0
-            waterGate,  // 1 ➔ Karşısı 4 eleman sonra: fireGate (Ateş)
-            iceGate,    // 2 ➔ Karşısı 4 eleman sonra: airGate (Hava)
-            earthGate,  // 3 ➔ Karşısı 4 eleman sonra: etherGate (Eter)
-            fireGate,   // 4 ➔ Karşısı 0. indeksteki metalGate
-            lightGate,  // 5 ➔ Karşısı 1. indeksteki waterGate
-            airGate,    // 6 ➔ Karşısı 2. indeksteki iceGate
-            etherGate   // 7 ➔ Karşısı 3. indeksteki earthGate
-        ];
         
         // 64 odadan ve 360 dereceden bağımsız olarak ana 8 kapıyı seçiyoruz
-        let sunGateIndex = Math.floor(sunAngle / 45) % 8;
-        let sunGate = gateMapping[sunGateIndex];
+        //let sunGateIndex = Math.floor(sunAngle / 45) % 8;
+       // let sunGate = gateMapping[sunGateIndex];
 
         // Da Vinci Aynalı Karşıtlık: Güneş kapısının tam 4 kapı (180 derece) zıttı
         // Artık dizilim tam geometrik antipod sırasına geçtiği için pozisyon milimetrik karşılıklı olur!
-        let moonGateIndex = (sunGateIndex + 4) % 8;
-        let moonGate = gateMapping[moonGateIndex];
+       // let moonGateIndex = (sunGateIndex + 4) % 8;
+        //let moonGate = gateMapping[moonGateIndex];
 
         // Aydınlık Ay kapı eşleşmesi
-        let brightMoonGateIndex = Math.floor(brightMoonAngle / 45) % 8;
-        let brightMoonGate = gateMapping[brightMoonGateIndex];
+        //let brightMoonGateIndex = Math.floor(brightMoonAngle / 45) % 8;
+       // let brightMoonGate = gateMapping[brightMoonGateIndex];
 
 
        // =========================================================================
