@@ -607,6 +607,8 @@ setInterval(() => {
             gate.style.color = "#444444";
         });
 
+      
+
         // B. HAKİKİ SIRKADİYEN AÇILARIN HESAPLANMASI (AYNALI MATRIX)
         const rawSunAngle = getAstroSunAngle(); 
         //const sunAngle = (360 - rawSunAngle) % 360; 
@@ -639,17 +641,76 @@ setInterval(() => {
             "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"
         ];
 
-        // D. 64'LÜ MİKRO HÜCRE HESAPLAYICILARI
-        let sunRoom64 = Math.floor(sunAngle / 5.625);
+// =========================================================================
+        // D. 64'LÜ MİKRO HÜCRE HESAPLAYICILARI (YIN-YANG ASİMETRİK KRONOMETRE MOTORU)
+        // =========================================================================
+        const solar = getExactSolarTimes(currentLat, currentLon); // Gündüz uzunluğu ve gün doğumu verileri
+        const currentHour = now.getHours() + (now.getMinutes() / 60); // Anlık ondalık saat
+
+        let sunRoom64 = 0;
+        let roomDurationMinutes = 0; // O anki odanın gerçek hayatta kaç dakika sürdüğü bilgisi
+
+        if (currentHour >= solar.sunrise && currentHour < solar.sunset) {
+            // 🌅 YANG FAZI (GÜNDÜZ): Gün doğumuyla başlar, gün batımına kadar 32 oda döner
+            let timeSinceSunrise = currentHour - solar.sunrise;
+            let gündüzProgress = timeSinceSunrise / solar.dayLength;
+            
+            sunRoom64 = Math.floor(gündüzProgress * 32);
+            if (sunRoom64 > 31) sunRoom64 = 31;
+            if (sunRoom64 < 0) sunRoom64 = 0;
+
+            // Gündüz odalarının anlık süresi (Toplam gündüz dakikası / 32 oda)
+            roomDurationMinutes = (solar.dayLength * 60) / 32;
+        } 
+        else {
+            // 🌌 YIN FAZI (GECE): Gün batımıyla başlar, gün doğumuna kadar kalan 32 oda döner
+            let totalNightLength = 24 - solar.dayLength; // Toplam gece süresi
+            let timeSinceSunset = 0;
+
+            if (currentHour >= solar.sunset) {
+                timeSinceSunset = currentHour - solar.sunset;
+            } else {
+                timeSinceSunset = (24 - solar.sunset) + currentHour;
+            }
+
+            let geceProgress = timeSinceSunset / totalNightLength;
+            
+            sunRoom64 = 32 + Math.floor(geceProgress * 32);
+            if (sunRoom64 > 63) sunRoom64 = 63;
+            if (sunRoom64 < 32) sunRoom64 = 32;
+
+            // Gece odalarının anlık süresi (Toplam gece dakikası / 32 oda)
+            roomDurationMinutes = (totalNightLength * 60) / 32;
+        }
+
+        // KUTSAL AKIŞ ENJEKSİYONLARI VE DEĞİŞKEN SABİTLEMELERİ
         let currentSunHexagram = iching64[sunRoom64];
 
-        let brightMoonRoom64 = Math.floor(brightMoonAngle / 5.625);
-        let currentMoonHexagram = iching64[brightMoonRoom64];
+        let darkMoonAngle = (sunAngle + 180) % 360; 
 
-        let darkMoonRoom64 = (sunRoom64 + 32) % 64;
-        let currentDarkMoonHexagram = iching64[darkMoonRoom64];
+      
 
-  // =========================================================================
+        // 2. 💥 İŞTE KAYMAYI SIFIRLAYAN ALTIN DOKUNUŞ:
+// Odanın esnemesine bakmıyoruz, odayı direkt bu sabitlediğimiz zıt açıdan (darkMoonAngle) türetiyoruz:
+let darkMoonRoom64 = Math.floor(darkMoonAngle / 5.625);
+
+if (darkMoonRoom64 > 63) darkMoonRoom64 = 63;
+if (darkMoonRoom64 < 0) darkMoonRoom64 = 0;
+
+let currentDarkMoonHexagram = iching64[darkMoonRoom64];
+
+// 💥 KRİTİK KİLİT: Konsolu çökerten brightMoonAngle değişkenini Güneş'e endeksleyerek hayata döndürüyoruz
+ brightMoonAngle = (sunAngle + (moonData.phase * 360)) % 360;
+
+// Yorum satırını kaldırıp değişkeni bilgisayara resmi olarak tanıtıyoruz:
+let brightMoonRoom64 = Math.floor(brightMoonAngle / 5.625);
+
+if (brightMoonRoom64 > 63) brightMoonRoom64 = 63;
+if (brightMoonRoom64 < 0) brightMoonRoom64 = 0;
+
+let currentMoonHexagram = iching64[brightMoonRoom64];
+
+    // =========================================================================
         // 3. PARÇA: SİRKADİYEN RENK SPEKTRUMU VE DİNAMİK KAPI EŞLEŞMELERİ (AKILLI HIZLI MOD)
         // =========================================================================
         // A. Gün içindeki saate göre saf parlaklık spektrumu
@@ -658,21 +719,32 @@ setInterval(() => {
         else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu
         else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı
 
-        // B. Filtreleri Aşan Akıllı Kapı İndeksleme Motoru
-        const gateMapping = [metalGate, waterGate, iceGate, earthGate, fireGate, lightGate, airGate, etherGate];
+        // B. 💥 İŞTE KAYMAYI SIFIRLAYAN ANTİPOD GEOMETRİ DİZİLİMİ:
+        // Her elementin tam 4 eleman sonrasına gerçek geometrik karşıtını (antisini) yerleştirdik!
+        // Metal ➔ Ateş | Su ➔ Işık | Buz ➔ Hava | Toprak ➔ Eter (Veya senin element eşlerine göre)
+        const gateMapping = [
+            metalGate,  // 0
+            waterGate,  // 1 ➔ Karşısı 4 eleman sonra: fireGate (Ateş)
+            iceGate,    // 2 ➔ Karşısı 4 eleman sonra: airGate (Hava)
+            earthGate,  // 3 ➔ Karşısı 4 eleman sonra: etherGate (Eter)
+            fireGate,   // 4 ➔ Karşısı 0. indeksteki metalGate
+            lightGate,  // 5 ➔ Karşısı 1. indeksteki waterGate
+            airGate,    // 6 ➔ Karşısı 2. indeksteki iceGate
+            etherGate   // 7 ➔ Karşısı 3. indeksteki earthGate
+        ];
         
         // 64 odadan ve 360 dereceden bağımsız olarak ana 8 kapıyı seçiyoruz
         let sunGateIndex = Math.floor(sunAngle / 45) % 8;
         let sunGate = gateMapping[sunGateIndex];
 
         // Da Vinci Aynalı Karşıtlık: Güneş kapısının tam 4 kapı (180 derece) zıttı
+        // Artık dizilim tam geometrik antipod sırasına geçtiği için pozisyon milimetrik karşılıklı olur!
         let moonGateIndex = (sunGateIndex + 4) % 8;
         let moonGate = gateMapping[moonGateIndex];
 
         // Aydınlık Ay kapı eşleşmesi
         let brightMoonGateIndex = Math.floor(brightMoonAngle / 45) % 8;
         let brightMoonGate = gateMapping[brightMoonGateIndex];
-
 
 
        // =========================================================================
@@ -776,8 +848,26 @@ setInterval(() => {
             csfColor = "#ff0055";
         }
 
+ // =========================================================================
+        // 6. PARÇA: NÖRO-KOZMİK VERİ PANELİ GÜNCELLEMESİ
+        // =========================================================================
         if (statusBar) {
-            statusBar.innerHTML = `...`; // CSF ve Kozmik Veri Paneli HTML içeriği
+            const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
+            const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
+            
+            statusBar.innerHTML = `
+                <div style="display:flex; flex-direction:column; gap:4px; font-family:monospace; font-size:11px; color:#fff;">
+                    <div style="display:flex; justify-content:space-between;">
+                        <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${isYang ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
+                        <span style="color:${sunCircadianColor};">☀️ GÜNEŞ: ${currentSunHexagram}</span>
+                        <span style="color:${moonColor};">🌙 AY: ${currentDarkMoonHexagram}</span>
+                    </div>
+                    <div style="display:flex; justify-content:space-between; font-size:10px; border-top:1px solid #222; padding-top:4px; margin-top:2px;">
+                        <span style="color:#00ffaa;">⏱️ ODA PERİYODU: ${roomDurationMinutes.toFixed(1)} DK</span>
+                        <span style="color:#888;">MATRIX BINARY: ${binaryRoom} | SABBAT: ${currentSabbat}</span>
+                    </div>
+                </div>
+            `;
         }
 
         const metatronIframe = document.querySelector('.metatron-iframe');
