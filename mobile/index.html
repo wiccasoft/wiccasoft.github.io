@@ -555,6 +555,7 @@ function updateHTMLGates() {
 function calculateCosmicTime() {
     const now = new Date();
     //const now = new Date(); now.setHours(20, 50, 0); 
+    const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
 
@@ -787,9 +788,11 @@ setInterval(() => {
             }
         }
 
-        // MAKSATLI ESKİ YEREL TETREHEDRON DÖNGÜ PARLAMA KORUMASI
+ // MAKSATLI ESKİ YEREL TETREHEDRON DÖNGÜ PARLAMA KORUMASI
         all8Gates.forEach(gate => {
-            const index = gateMapping.indexOf(gate);
+            // 💥 HAKİKİ SABİTLEME: gateMapping yerine doğrudan all8Gates dizisindeki 
+            // orijinal fiziksel buton sırasını referans alarak sembollerin uçmasını engeller aga!
+            const index = all8Gates.indexOf(gate);
             if (index === -1) return;
             const trigramSpan = gate.querySelector('.trigram');
             if (!trigramSpan) return;
