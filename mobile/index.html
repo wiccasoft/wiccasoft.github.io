@@ -88,37 +88,74 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
        /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ VE GENEL MERKEZLEME AYARI) */
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+/* 🖼 ORIGINAL SALVADOR (KÜREYLE TAM EŞLEŞEN KARE SINIR) */
 .salvador-image {
     position: absolute;
-    width: 70% !important;
-    max-width: 380px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
-    height: auto !important;
-    top: 40% !important;
+    width: min(85vw, 85vh, 380px) !important;
+    height: min(85vw, 85vh, 380px) !important;
+    top: 50% !important; /* Metatron ile aynı merkez hizası */
     left: 50% !important;
     transform: translate(-50%, -50%) !important;
-    object-fit: contain;
-    z-index: 1;
+    object-fit: cover;
+    z-index: 1; /* En altta resim durur */
     opacity: 0.99 !important;
     filter: brightness(1.1) !important;
-    mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
-    -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+    border-radius: 50%; /* Yaşam çiçeği çemberine tam otursun diye */
+    mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
 }
-        /* 🛸 METATRON 3D ÇEKİRDEK */
-        /* 
-            .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }*/
 
-            .metatron-three-iframe-holder {
+/* 🛸 METATRON 3D ÇEKİRDEK (TAŞMAYI ENGELLEYEN SABİT KARE KAPSAYICI) */
+.metatron-three-iframe-holder {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100vw;  /* Tam ekran genişlik */
-    height: 100vh; /* Tam ekran yükseklik */
-    z-index: 2;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    /* Resim ile milimetrik aynı boyuta kilitliyoruz ki kayma yapmasın: */
+    width: min(85vw, 85vh, 380px) !important;
+    height: min(85vw, 85vh, 380px) !important;
+    z-index: 2; /* Resmin tam üstüne biner */
+    pointer-events: none; /* Köşelerdeki butonların tıklanmasını engellemez */
+    overflow: hidden;
+}
+
+.metatron-iframe { 
+    width: 100%; 
+    height: 100%; 
+    border: none; 
     pointer-events: none;
 }
-        .metatron-iframe { width: 100%; height: 100%; border: none; }
 
+/* 🧭 KÖŞE BUTONLARININ METATRON'U BOZMASINI ENGELLEYEN YENİ WRAPPER */
+.matrix-quadrant-wrapper {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    /* Küpün biraz daha dışından sarmalasın diye boyutu genişlettik: */
+    width: min(95vw, 95vh, 520px) !important;
+    height: min(95vw, 95vh, 520px) !important;
+    z-index: 3; /* En üstte butonlar ve yazılar durur */
+    pointer-events: none; /* Merkez boşluğun iframe'i ezmesini engeller */
+}
+
+/* Köşelerdeki siber hücrelerin kendi iç tıklamalarını açıyoruz */
+.matrix-quarter {
+    position: absolute;
+    width: 85px; height: 85px;
+    display: flex; flex-direction: column;
+    justify-content: center; align-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: rgba(5, 5, 5, 0.9);
+    border-radius: 8px;
+    pointer-events: auto; /* Sadece kutunun kendisine dokunulabilir */
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* 📌 4 Köşeye Dağılım Oranları (Küpün Dış Çeperi) */
+.top-left     { top: 2%; left: 2%; }
+.top-right    { top: 2%; right: 2%; }
+.bottom-right { bottom: 2%; right: 2%; }
+.bottom-left  { bottom: 2%; left: 2%; }
 
         /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
 .art-core-container {
@@ -441,28 +478,6 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
 
 
-.matrix-quadrant-wrapper {
-    position: absolute;
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%; height: 100%;
-    pointer-events: none;
-}
-.matrix-quarter {
-    position: absolute;
-    width: 80px; height: 80px;
-    display: flex; flex-direction: column;
-    justify-content: center; align-items: center;
-    border: 1px solid rgba(255,255,255,0.1);
-    background: rgba(5,5,5,0.85);
-    border-radius: 8px;
-    color: #444; transition: all 0.3s;
-}
-/* 📌 Saat yönünde 4 köşeye kilitliyoruz */
-.top-left     { top: 15%; left: 15%; }
-.top-right    { top: 15%; right: 15%; }
-.bottom-right { bottom: 15%; right: 15%; }
-.bottom-left  { bottom: 15%; left: 15%; }
 
 /* Aktif bölge parlaması */
 .matrix-quarter.active {
@@ -553,17 +568,6 @@ footer {
     <div class="cyber-dark-overlay"></div>
 
 </main>
-
-
-
-    <footer>
-        <div>&copy; 2026 Wiccasoft</div>
-        <div>
-            <a href="privacy.html">Privacy Policy</a>
-            <span style="margin: 0 10px;">|</span>
-            <a href="terms.html">Terms & Conditions</a>
-        </div>
-    </footer>
 
 
     <script>
