@@ -607,9 +607,11 @@ setInterval(() => {
             gate.style.color = "#444444";
         });
 
-        // B. HAKİKİ SIRKADİYEN AÇILARIN HESAPLANMASI (AYNALI MATRIX)
-        const rawSunAngle = getAstroSunAngle(); 
-        const sunAngle = (360 - rawSunAngle) % 360; 
+   // B. HAKİKİ SIRKADİYEN AÇILARIN HESAPLANMASI (SIFIR LAG - SAF GEOMETRİ)
+        const totalMinutes = (now.getHours() * 60) + now.getMinutes();
+        
+        // Yapay ötelemeleri kaldırıp açıyı saf 360 derecelik doğal akışına eşitliyoruz
+        const sunAngle = ((totalMinutes / 1440) * 360) % 360;
         
         const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
         let moonColor = "#8b5cf6"; 
@@ -647,32 +649,46 @@ setInterval(() => {
         let darkMoonRoom64 = (sunRoom64 + 32) % 64;
         let currentDarkMoonHexagram = iching64[darkMoonRoom64];
 
-  // =========================================================================
-        // 3. PARÇA: SİRKADİYEN RENK SPEKTRUMU VE DİNAMİK KAPI EŞLEŞMELERİ (AKILLI HIZLI MOD)
+    // =========================================================================
+        // 3. PARÇA: PARADOKSSUZ SİRKADİYEN RENK SPEKTRUMU VE DİNAMİK KAPI EŞLEŞMELERİ
         // =========================================================================
-        // A. Gün içindeki saate göre saf parlaklık spektrumu
-        let sunCircadianColor = '#7a00ff'; // Gece Derin Yin Mor
-        if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ffaa00'; } // Sabah Altın Sarı
-        else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } // Öğlen Yang Turuncu
-        else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; } // Akşamüstü / Batış Turkuazı
+        // A. Gün içindeki saate göre saf parlaklık ve sönümlenme spektrumu (Sıfır Paradoks)
+        let sunCircadianColor = '#7a00ff'; 
 
-        // B. Filtreleri Aşan Akıllı Kapı İndeksleme Motoru
-        const gateMapping = [metalGate, waterGate, iceGate, earthGate, fireGate, lightGate, airGate, etherGate];
+        if (sunAngle >= 75 && sunAngle < 105) { 
+            sunCircadianColor = '#ff1100'; // 🌅 ERKEN ŞAFAK: Kor kırmızı uyanış
+        } 
+        else if (sunAngle >= 105 && sunAngle < 135) { 
+            sunCircadianColor = '#ff5e00'; // 🌤️ GEÇ ŞAFAK: Yang Turuncu
+        } 
+        else if (sunAngle >= 135 && sunAngle < 225) { 
+            sunCircadianColor = '#ffaa00'; // ☀️ GÜNDÜZ VE ÖĞLEN: Altın Sarı (Anti-Node)
+        } 
+        else if (sunAngle >= 225 && sunAngle < 270) { 
+            sunCircadianColor = '#ef4444'; // 🌇 AKŞAMÜSTÜ: Kızıl sönümlenme
+        }
+        else if (sunAngle >= 270 && sunAngle < 315) { 
+            sunCircadianColor = '#00ffaa'; // 🌊 GÜN BATIMI: Siber Turkuaz / Yeşile geçiş
+        }
+        else {
+            sunCircadianColor = '#7a00ff'; // 🌌 GECE YARISI KORİDORU: Derin Yin Mor
+        }
+
+        // B. Kapıları Fiziksel Çember Sırasına Göre Saat Yönünde Diziyoruz
+        const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
         
-        // 64 odadan ve 360 dereceden bağımsız olarak ana 8 kapıyı seçiyoruz
         let sunGateIndex = Math.floor(sunAngle / 45) % 8;
         let sunGate = gateMapping[sunGateIndex];
 
-        // Da Vinci Aynalı Karşıtlık: Güneş kapısının tam 4 kapı (180 derece) zıttı
+        // Geometrik Karşıtlık: Her zaman tam 4 kapı (180 derece) ötesi!
         let moonGateIndex = (sunGateIndex + 4) % 8;
         let moonGate = gateMapping[moonGateIndex];
 
-        // Aydınlık Ay kapı eşleşmesi
         let brightMoonGateIndex = Math.floor(brightMoonAngle / 45) % 8;
         let brightMoonGate = gateMapping[brightMoonGateIndex];
 
-
-
+        
+        
        // =========================================================================
         // 4. PARÇA: MAKRO MEVSİM (SABBAT) MOTORU - FİLTRE AŞAN NESNE MODELİ
         // =========================================================================
@@ -704,7 +720,25 @@ setInterval(() => {
             }
         }
 
+  // =========================================================================
+        // 5. PARÇA: 64 ODALI MİKRO AKIŞ PARLAMA MOTORU (MİKRO HÜCRE ENJEKSİYONU)
+        // =========================================================================
+        // Güneş'in kapı içindeki mikro oda ilerleme yüzdesini buluyoruz (0.0 - 1.0 arası)
+        let roomProgress = (sunAngle % 45) / 45;
+        
+        // Bu mikro ilerlemeyi dinamik bir CSS parlamasına ve opaklığa dönüştürüyoruz!
+        let dynamicOpacity = 0.5 + (roomProgress * 0.45); // 0.5 ile 0.95 arasında oda değiştikçe pürüzsüzce erir
+        let dynamicGlow = Math.floor(10 + (roomProgress * 20)); // Parlama yarıçapı oda içinde adım adım genişler
 
+        sunGate.classList.add('active-glow');
+        sunGate.style.color = sunCircadianColor;
+        sunGate.style.opacity = dynamicOpacity;
+        sunGate.style.boxShadow = "0 0 " + dynamicGlow + "px " + sunCircadianColor;
+
+        moonGate.classList.add('active-glow');
+        moonGate.style.color = moonColor;
+        moonGate.style.opacity = dynamicOpacity;
+        moonGate.style.boxShadow = "0 0 " + dynamicGlow + "px " + moonColor;
 
 
 
@@ -774,8 +808,15 @@ setInterval(() => {
             csfColor = "#ff0055";
         }
 
-        if (statusBar) {
-            statusBar.innerHTML = `...`; // CSF ve Kozmik Veri Paneli HTML içeriği
+      if (statusBar) {
+            statusBar.innerHTML = `
+                <div style="display:flex; flex-direction:column; gap:4px; font-family:monospace; font-size:11px; padding:6px; color:#fff;">
+                    <div style="display:flex; justify-content:space-between;">
+                        <span style="color:${sunCircadianColor};">☀️ GÜNEŞ HEX: ${currentSunHexagram} (Oda:${sunRoom64})</span>
+                        <span style="color:${moonColor};">🌙 KARANLIK AY HEX: ${currentDarkMoonHexagram} (Oda:${darkMoonRoom64})</span>
+                    </div>
+                </div>
+            `;
         }
 
         const metatronIframe = document.querySelector('.metatron-iframe');
