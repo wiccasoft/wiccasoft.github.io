@@ -633,9 +633,12 @@ setInterval(() => {
     // 1. GÜN VE SAAT ORANLARINI HESAPLA
     const timeData = calculateCosmicTime();
     const now = new Date();
+     let loopNow = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    const hours = loopNow.getHours();
+    const minutes = loopNow.getMinutes();
     //const now = new Date(); now.setHours(20, 50, 0);
-    const hours = now.getHours();
-    const minutes = now.getMinutes();
+    //const hours = now.getHours();
+    //const minutes = now.getMinutes();
     
     // SAFE ELEMENT SELECTION (ID ÜZERİNDEN GÜVENLİ BAĞLANTI)
     const fireGate  = document.getElementById('gate-fire');
