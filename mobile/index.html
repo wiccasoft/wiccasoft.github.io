@@ -719,30 +719,27 @@ setInterval(() => {
             // 16 odalık gece adımlarını doğrudan o 8 kutsal kapıya milimetrik mühürlüyoruz aga!
             let step = sunRoom64 - 32; // 32'de 0 (Batış), 48'de 16 (Gece Yarısı Zirvesi)
 
-                      switch (step) {
-                // 🌆 GÜN BATIMI (SAĞ ORTA / BATI UFUK EVRESİ)
-                case 0:  case 1:  case 2:
+    switch (step) {
+                // 🌆 GÜN BATIMI EVRESİ (SAĞ ORTA / BATI UFUK)
+                case 0:  case 1:  case 2:  case 3:
                     calibratedRoom = 2; // airGate (Tam Sağ)
                     break;
                 
-                // 🌙 GECEYE DOĞRU SÜZÜLÜŞ (SAĞ ALT KADRAN)
-                case 3:  case 4:  case 5:  case 6:
+                // 🌙 SAĞ ALT KADRAN SÜZÜLÜŞÜ
+                case 4:  case 5:  case 6:  case 7:
                     calibratedRoom = 3; // etherGate (Sağ Alt)
                     break;
                 
-                // 🕋 GECE YARISI ÖNCESİ DİKEY AKS KİLİTLENMESİ (TAM ORTA / EN ALT)
-                case 7:  case 8:  case 9:  case 10:
-                    calibratedRoom = 4; // waterGate (En Alt - Salvator'un Omurga Çekirdeği)
+                // 🕋 💥 İŞTE O KÖŞEYİ YAKALAYAN KUTSAL AMORTİSÖR:
+                // step 12, 13 ve 14'ü de buraya dahil ederek Güneş'in şu an tam saat 
+                // 23:11'de en alttaki mavi köşeye (waterGate) çakılmasını sağlıyoruz aga!
+                case 8:  case 9:  case 10: case 11: case 12: case 13: case 14:
+                    calibratedRoom = 4; // waterGate (En Alt Mavi Buton - Ortada!)
                     break;
                 
-                // 🔮 💥 İŞTE O DÜZELTME: 44. ODA ARTIK OMURGAYI BIRAKIP SOL ALTA SÜZÜLÜR:
-                case 11: case 12: case 13: case 14:
-                    calibratedRoom = 5; // metalGate (Sol Alt Kadran!)
-                    break;
-                
-                // 🌄 ŞAFAĞA DOĞRU İLK KIRILMA (SOL ORTA)
-                case 15: case 16:
-                    calibratedRoom = 6; // earthGate (Tam Sol)
+                // 🔮 GECE YARISI SONRASI SOL ALT KADRAN SEYRİ (SAAT 01:00'DEN SONRASI)
+                case 15: case 16: case 17: case 18:
+                    calibratedRoom = 5; // metalGate (Sol Alt Mor Buton)
                     break;
                 
                 default:
