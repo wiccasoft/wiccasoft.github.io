@@ -742,6 +742,23 @@ function getMoonPhase(year, month, day) {
 const bpm = 74;
 const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi frekansı)
 
+
+ // 🌟 REFAKATHANEDEKİ TÜM FONKSİYONLARI KURTARAN SAF GLOBAL İSİM ORGANI:
+    const WICCA_SUN_SIGNS = [
+        { name: "CAPRICORN", icon: "♑", polarity: "CAPRICORN — CANCER AKSI" },
+        { name: "AQUARIUS",  icon: "♒", polarity: "AQUARIUS — LEO AKSI" },
+        { name: "PISCES",    icon: "♓", polarity: "PISCES — VIRGO AKSI" },
+        { name: "ARIES",     icon: "♈", polarity: "ARIES — LIBRA AKSI" },
+        { name: "TAURUS",    icon: "♉", polarity: "TAURUS — SCORPIO AKSI" },
+        { name: "GEMINI",    icon: "♊", polarity: "GEMINI — SAGITTARIUS AKSI" },
+        { name: "CANCER",    icon: "♋", polarity: "CANCER — CAPRICORN AKSI" },
+        { name: "LEO",       icon: "♌", polarity: "LEO — AQUARIUS AKSI" },
+        { name: "VIRGO",     icon: "♍", polarity: "VIRGO — PISCES AKSI" }, // Şu an aktif olan sarkaç aksı aga!
+        { name: "LIBRA",     icon: "♎", polarity: "LIBRA — ARIES AKSI" },
+        { name: "SCORPIO",   icon: "♏", polarity: "SCORPIO — TAURUS AKSI" },
+        { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI AKSI" }
+    ];
+
 setInterval(() => {
     // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
@@ -751,15 +768,13 @@ setInterval(() => {
     const hours = now.getHours();
     const minutes = now.getMinutes();
 
-    // 1. Güncel simülasyon zamanının ay değerini (0-11) okuyoruz
-const currentMonthIndex = now.getMonth(); 
+    // Güncel simülasyon zamanının ay değerini (0-11) okuyoruz
+    const currentMonthIndex = now.getMonth(); 
+    const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
 
-// 2. Diziden ilgili ayın ezoterik parametrelerini çekiyoruz (Eğer Aralık ise 11. indeksi vurur)
-const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
-
-// 3. Sarkaçtan gelen anlık Mona Lisa opaklığını alıp, ters orantıyla Karanlık Ay (Yin) baskısını hesaplıyoruz
-let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
-let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
+    // Sarkaçtan gelen anlık Mona Lisa opaklığını alıp, ters orantıyla Karanlık Ay (Yin) baskısını hesaplıyoruz
+    let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
+    let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
     
     // SAFE ELEMENT SELECTION (ID ÜZERİNDEN GÜVENLİ BAĞLANTI)
     const fireGate  = document.getElementById('gate-fire');
@@ -775,11 +790,8 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
     // =========================================================================
     // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ (ÇORBASIZ)
     // =========================================================================
-    
-    // A. Kutsal 64 Heksagram dizisini mühürlüyoruz (Tam liste için kaynak kodlarına başvurabilirsiniz)
     const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
 
-    // B. Gerçek sirkadiyen ondalık saat ve güneş süreleri ile Mevsimsel Kronometre
     const solar = getExactSolarTimes(currentLat, currentLon); 
     const currentHour = now.getHours() + (now.getMinutes() / 60); 
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
@@ -787,7 +799,6 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
 
     let sunRoom64 = isYang ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
 
-    // C. Kutsal Heksagram Mühürleri ve Renk Kalibrasyonu
     let currentSunHexagram = iching64[sunRoom64];
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
@@ -798,7 +809,7 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
     else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } 
     else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; }
 
-  // D. DOM Element Kontrolü ve 8 Kapı / Zodyak Eşlemesi (TAM DİNAMİK MODEL)
+    // 🌟 KUTSAL GÜVENLİK KALKANI VE KAPILARIN TANIMLANMASI BURADA BAŞLIYOR AGA!
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         all8Gates.forEach(gate => {
@@ -807,24 +818,13 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
             gate.style.boxShadow = "none";
         });
 
-             // =========================================================================
-        // ♾️ THE NEVERENDING STORY (AURYN LOOP SÜRÜCÜSÜ)
-        // =========================================================================
         const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
         
-        // 64 odanın tamamını 8'li çarka tam modüler (yılanın kuyruğunu ısırması gibi) bağlıyoruz.
-        // +7 offset katsayımız sayesinde sistem 64'ten 1'e (BINARY 000000'a) fırladığı an 
-        // Döngü kırılmaz; tam o Rodin girdabındaki (1-2-4-8-7-5) pürüzsüz dairesel akışla 
-        // bir sonraki YANG sabahına süzülerek geçer aga! Sıfır takılma, sıfır lag!
         let sirkadiyenButonIndex = (Math.floor(sunRoom64 / 8) + 7) % 8;
-
-        let calibratedRoom = (Math.floor(sunRoom64 / 8) + 1);
         let sunGate = gateMapping[sirkadiyenButonIndex];
         let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
-        const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
 
-        // ⚡ YILDIRIM ŞARJ VANASI: [1/64] Odasında (BINARY: 000000) Saf Işık Tetiklenmesi
- if (sunRoom64 === 0) {
+        if (sunRoom64 === 0) {
             all8Gates.forEach(gate => {
                 if (gate === sunGate) return;
                 gate.style.opacity = "0.35";
@@ -844,13 +844,43 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
             moonGate.style.opacity = "1.0";
             moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
-    }
+
+    // =========================================================================
+        // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (TypeError Kökten Temizlendi)
+        // =========================================================================
+        // Yeniden atama hatasını engellemek için değişkenleri let/const ile korumaya alıyoruz aga!
+        const targetPlanet = calculateCosmicPlanetHour(now, solar);
+        const activePlanetName = targetPlanet.name; 
+        const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
+
+        // gateMapping dizisini local kapsama emniyetli şekilde kilitliyoruz
+        const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+
+        // Tek bir temiz akımla, televizyonda mükerrer yük bindirmeden kapıları şarj ediyoruz aga
+        localGateMapping.forEach(gate => {
+            if (!gate) return;
+            const gateId = gate.id; 
+
+            if (currentInfluences[gateId]) {
+                const multiplier = currentInfluences[gateId]; 
+                
+                let currentOpacity = parseFloat(gate.style.opacity || 0.2);
+                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
+                
+                gate.style.opacity = newOpacity.toString();
+                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
+                gate.style.fontWeight = "bold";
+                gate.style.transition = "all 0.6s ease-in-out"; 
+            }
+        });
+
+    } // <-- if (fireGate && waterGate ...) DOM kalkanının kapanış yeri tam burası aga!
+
 
 
 // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ
 const monaElement = document.getElementById('mesh-monalisa');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image');
-
  // 🌟 GÜNEŞ AKSI VE LILITH POLARİTE SÜRÜCÜSÜ
     //const currentMonthIndex = now.getMonth(); 
     //const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
@@ -858,7 +888,6 @@ const salvadorElement = document.getElementById('mesh-salvador') || document.que
     // Mona Lisa'nın sarkaçtan gelen opaklığını okuyup, ters orantıyla Lilith'in % Yin baskısını buluyoruz
     let currentMonaOpacity = parseFloat(monaElement?.style.opacity || 0);
     //let darkMoonDominance = Math.round((1 - currentMonaOpacity) * 100);
-    
 if (monaElement && salvadorElement) {
     const currentHour = now.getHours() + (now.getMinutes() / 60);
     
@@ -871,14 +900,12 @@ if (monaElement && salvadorElement) {
     // 1. VİTES: DOĞAL GÜN DOĞUMUNDAN ÖĞLENE (Şarj / Işığa Tırmanış)
     if (currentHour >= solar.sunrise && currentHour < solarNoon) {
         let progress = (currentHour - solar.sunrise) / (solarNoon - solar.sunrise);
-        // Kübik geçiş: Işık tepe noktasına yaklaşırken pürüzsüzce yavaşlar
         targetOpacity = (3 * Math.pow(progress, 2)) - (2 * Math.pow(progress, 3));
         pendulumStatus = "💧 SU ──> 🔴 ATEŞ (Şarj / Işığa Tırmanış)";
     }
     // 2. VİTES: ÖĞLEDEN DOĞAL GÜN BATIMINA (Deşarj / Geceye Çöküş Başlangıcı)
     else if (currentHour >= solarNoon && currentHour < solar.sunset) {
         let progress = (currentHour - solarNoon) / (solar.sunset - solarNoon);
-        // Tersten kübik geçiş: Mona Lisa zirveden sonra erime fazına girer
         targetOpacity = 1 - ((3 * Math.pow(progress, 2)) - (2 * Math.pow(progress, 3)));
         pendulumStatus = "🔴 ATEŞ ──> 💧 SU (Deşarj)";
     }
@@ -892,15 +919,14 @@ if (monaElement && salvadorElement) {
     targetOpacity = Math.max(0, Math.min(1, targetOpacity));
     monaElement.style.opacity = targetOpacity.toFixed(4);
     
-    // 🌟 SALVATOR'U GÜNDÜZ %0 YAPAN TAM TERS ORANTI KİLİDİ (targetOpacity KULLANILDI)
+    // 🌟 SALVATOR'U GÜNDÜZ %0 YAPAN TAM TERS ORANTI KİLİDİ
     salvadorElement.style.opacity = (1 - targetOpacity).toFixed(4);
 
 
 
-
-
-    // Değişkenleri statusBar'a kesintisiz akıtmak için kapsamı koruyoruz aga
+    // Hemen altındaki çekim satırını da orijinal adına geri bağlıyoruz:
     const activeZodiac = WICCA_SUN_SIGNS[now.getMonth()];
+
     let darkMoonDominance = Math.round((1 - targetOpacity) * 100);
 
     // 🌙 64 ODALIK SIRKADİYEN AY FAZI SÜRÜCÜSÜ (THE BRAVE / ENDLESS SENKRONU)
@@ -919,35 +945,47 @@ if (monaElement && salvadorElement) {
         case 7: moonPhaseIcon = "🌘"; moonPhaseName = "BALSAMİK AY (YIN ZİRVESİ)"; break; 
     }
 
-
-
-   // =========================================================================
+        // =========================================================================
         // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (74 BPM İçine)
         // =========================================================================
-        // Senin aktif Keldani motorundan gelen anlık gezegen verisini okuyoruz aga
         const currentPlanet = calculateCosmicPlanetHour(now, solar);
-        const activePlanetName = currentPlanet.name; // Örn: "MARS", "SUN"
+        const activePlanetName = currentPlanet.name; 
 
-        // O anki aktif gezegenin hangi kapılara etki edeceğini matristen çekiyoruz
         const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
 
-        // 8 kapıyı tek tek gezegen akımından geçiriyoruz
-        all8Gates.forEach(gate => {
-            const gateId = gate.id; // "gate-fire", "gate-water" vb.
+        // 🌟 AGA'NIN BÜYÜK YAPILANDIRMASI: Diziyi tam ihtiyaç anında içeri aldık!
+        gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
-            // Eğer bu kapı, şu anki Gezegen Valisinin koruması altındaysa:
-            if (currentInfluences[gateId]) {
-                const multiplier = currentInfluences[gateId]; // Çarpan katsayısı (Örn: 2.0)
+        gateMapping.forEach(gate => {
+            const gateId = gate.id; 
+
+            if (gate && currentInfluences[gateId]) {
+                const multiplier = currentInfluences[gateId]; 
                 
-                // Kapının mevcut opaklığını gezegen çekim gücüyle çarpıp esnetiyoruz aga
                 let currentOpacity = parseFloat(gate.style.opacity || 0.2);
                 let newOpacity = Math.min(1.0, currentOpacity * multiplier);
                 
                 gate.style.opacity = newOpacity.toString();
-                // Kapının neon gölgesini gezegenin gücüyle genişletiyoruz (Örn: 15px yerine 25px)
                 gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
                 gate.style.fontWeight = "bold";
-                gate.style.transition = "all 0.6s ease-in-out"; // TV'de akıcı geçiş için tül efekti
+                gate.style.transition = "all 0.6s ease-in-out"; 
+            }
+        });
+
+        // 🌟 HATA DÜZELTİLDİ: all8Gates yerine kapsamı açık olan gateMapping bağlandı aga!
+        gateMapping.forEach(gate => {
+            const gateId = gate.id; 
+
+            if (currentInfluences[gateId]) {
+                const multiplier = currentInfluences[gateId]; 
+                
+                let currentOpacity = parseFloat(gate.style.opacity || 0.2);
+                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
+                
+                gate.style.opacity = newOpacity.toString();
+                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
+                gate.style.fontWeight = "bold";
+                gate.style.transition = "all 0.6s ease-in-out"; 
             }
         });
 
@@ -1005,17 +1043,23 @@ if (dockEl && titleEl && descEl && formEl) {
 
 } // <-- if (monaElement && salvadorElement) ana gövdesinin KUTSAL VE GERÇEK KAPANIŞ PARANTEZİ BURASI AGA!
 
-// 🛸 METATRON 3D ÇEKİRDEK POSTMESSAGE KÖPRÜSÜ (DÖNGÜ DIŞINA ALINMIŞ EŞLEME)
+// 🛸 METATRON 3D ÇEKİRDEK POSTMESSAGE KÖPRÜSÜ (Mutlak Kapsam Kilitli)
 const metatronIframe = document.querySelector('.metatron-iframe');
+
 if (metatronIframe && metatronIframe.contentWindow) {
-    let dynamicMoonColor = targetOpacity < 0.15 ? "#dfdfdf" : "#00ffff"; 
+    // Kapsam hatasını (ReferenceError) kökten çözmek için değişkeni en tepede mühürlüyoruz aga
+    let staticMoonColor = "#00ffff"; 
+    
+    if (typeof targetOpacity !== 'undefined') {
+        staticMoonColor = targetOpacity < 0.15 ? "#dfdfdf" : "#00ffff";
+    }
     
     metatronIframe.contentWindow.postMessage({
         type: 'WICCA_LINEAR_SYNC',
-        room: sunRoom64 + 1,
-        sunAngle: sunAngle,
-        sunColor: sunCircadianColor, 
-        moonColor: dynamicMoonColor  
+        room: (typeof sunRoom64 !== 'undefined' ? sunRoom64 + 1 : 1),
+        sunAngle: (typeof sunAngle !== 'undefined' ? sunAngle : 0),
+        sunColor: (typeof sunCircadianColor !== 'undefined' ? sunCircadianColor : '#7a00ff'), 
+        moonColor: staticMoonColor  // 🌟 HATA DÜZELTİLDİ: Tanımsızlık pürüzü tamamen yok edildi!
     }, '*');
 }
 
@@ -1337,26 +1381,7 @@ function getActiveLilithPhase(room64) {
     return LILITH_COSMIC_ROOMS.arinma; // Gecenin kalan odaları
 }
 
-// 🔮 BATI EZOTERİZMİ GÜNEŞ BURÇLARI VE KARŞIT POLARİTE MATRİSİ
-// JavaScript getMonth() indekslerine kilitlenmiştir (Ocak=0, Şubat=1, ..., Eylül=8, Aralık=11)
-const WICCA_SUN_SIGNS = [
-    { name: "CAPRICORN", icon: "♑", polarity: "CAPRICORN — CANCER" },   // 0: Ocak
-    { name: "AQUARIUS",  icon: "♒", polarity: "AQUARIUS — LEO" },      // 1: Şubat
-    { name: "PISCES",    icon: "♓", polarity: "PISCES — VIRGO" },      // 2: Mart
-    { name: "ARIES",     icon: "♈", polarity: "ARIES — LIBRA" },       // 3: Nisan
-    { name: "TAURUS",    icon: "♉", polarity: "TAURUS — SCORPIO" },    // 4: Mayıs
-    { name: "GEMINI",    icon: "♊", polarity: "GEMINI — SAGITTARIUS" },// 5: Haziran
-    { name: "CANCER",    icon: "♋", polarity: "CANCER — CAPRICORN" },  // 6: Temmuz
-    { name: "LEO",       // 7: Ağustos
-        name: "LEO", 
-        icon: "♌", 
-        polarity: "LEO — AQUARIUS AKSI" 
-    },      
-    { name: "VIRGO",     icon: "♍", polarity: "VIRGO — PISCES" },      // 8: Eylül (Şu an aktif olan sarkaç aksı aga!)
-    { name: "LIBRA",     icon: "♎", polarity: "LIBRA — ARIES" },       // 9: Ekim
-    { name: "SCORPIO",   icon: "♏", polarity: "SCORPIO — TAURUS" },    // 10: Kasım
-    { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI" } // 11: Aralık (Eğer Ay 11 ise bunu çeker)
-];
+
 // ZAMANI BÜKÜP HESAP MAKİNESİ AKSINA KİLİTLEYEN SÜRÜCÜ MOTORU
 //let wiccaTimeOffsetMinutes = 0;
 
@@ -1469,21 +1494,7 @@ const LILITH_DOCK_METINLERI = {
 };
 
 
-/* 🔮 GLOBAL ALAN: BATI EZOTERİZMİ GÜNEŞ BURÇLARI VE KARŞIT POLARİTE MATRİSİ
-const WICCA_SUN_SIGNS = [
-    { name: "CAPRICORN", icon: "♑", polarity: "CAPRICORN — CANCER AKSI" },   // 0: Ocak
-    { name: "AQUARIUS",  icon: "♒", polarity: "AQUARIUS — LEO AKSI" },      // 1: Şubat
-    { name: "PISCES",    icon: "♓", polarity: "PISCES — VIRGO AKSI" },      // 2: Mart
-    { name: "ARIES",     icon: "♈", polarity: "ARIES — LIBRA AKSI" },       // 3: Nisan
-    { name: "TAURUS",    icon: "♉", polarity: "TAURUS — SCORPIO AKSI" },    // 4: Mayıs
-    { name: "GEMINI",    icon: "♊", polarity: "GEMINI — SAGITTARIUS AKSI" },// 5: Haziran
-    { name: "CANCER",    icon: "♋", polarity: "CANCER — CAPRICORN AKSI" },  // 6: Temmuz
-    { name: "LEO",       icon: "♌", polarity: "LEO — AQUARIUS AKSI" },      // 7: Ağustos
-    { name: "VIRGO",     icon: "♍", polarity: "VIRGO — PISCES AKSI" },      // 8: Eylül (Şu an hasat arifesindeyiz aga!)
-    { name: "LIBRA",     icon: "♎", polarity: "LIBRA — ARIES AKSI" },       // 9: Ekim
-    { name: "SCORPIO",   icon: "♏", polarity: "SCORPIO — TAURUS AKSI" },    // 10: Kasım
-    { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI AKSI" } // 11: Aralık
-];*/
+
 
 
 function bendWiccaTime(mode) {
