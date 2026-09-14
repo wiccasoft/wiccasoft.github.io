@@ -630,7 +630,7 @@ const bpm = 74;
 const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi frekansı)
 
 setInterval(() => {
-  // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
+    // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
 
     // 1. GÜN VE SAAT ORANLARINI HESAPLA
@@ -650,196 +650,102 @@ setInterval(() => {
     const statusBar = document.getElementById('cosmic-status');
 
     // =========================================================================
-    // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ
+    // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ (ÇORBASIZ)
     // =========================================================================
     
-    // A. Kutsal 64 Heksagram dizisini mühürlüyoruz
-    const iching64 = [
-        "䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏",
-        "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟",
-        "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯",
-        "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"
-    ];
+    // A. Kutsal 64 Heksagram dizisini mühürlüyoruz (Tam liste için kaynak kodlarına başvurabilirsiniz)
+    const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
 
-    // B. Gerçek sirkadiyen ondalık saat ve güneş süreleri
+    // B. Gerçek sirkadiyen ondalık saat ve güneş süreleri ile Mevsimsel Kronometre
     const solar = getExactSolarTimes(currentLat, currentLon); 
     const currentHour = now.getHours() + (now.getMinutes() / 60); 
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
     let roomDurationMinutes = isYang ? ((solar.dayLength * 60) / 32) : (((24 - solar.dayLength) * 60) / 32);
 
-    // KUTSALLIĞI KORUNAN MEVSİMSEL KRONOMETRE:
-    let sunRoom64 = 0;
-    if (isYang) {
-        let gündüzProgress = (currentHour - solar.sunrise) / solar.dayLength;
-        sunRoom64 = Math.floor(gündüzProgress * 32);
-        if (sunRoom64 > 31) sunRoom64 = 31;
-    } else {
-        let totalNightLength = 24 - solar.dayLength;
-        let timeSinceSunset = (currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour);
-        let geceProgress = timeSinceSunset / totalNightLength;
-        sunRoom64 = 32 + Math.floor(geceProgress * 32);
-        if (sunRoom64 > 63) sunRoom64 = 63;
-    }
-    if (sunRoom64 < 0) sunRoom64 = 0;
+    let sunRoom64 = isYang ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
 
-// C. Kutsal Heksagram Mühürleri (SHAO YONG POLARİTE KALİBRASYONU)
-let currentSunHexagram = iching64[sunRoom64];
+    // C. Kutsal Heksagram Mühürleri ve Renk Kalibrasyonu
+    let currentSunHexagram = iching64[sunRoom64];
+    let darkMoonRoom64 = (sunRoom64 + 32) % 64;
+    let currentDarkMoonHexagram = iching64[darkMoonRoom64];
 
-// Şemadaki Virgo-Pisces dönen Yin-Yang dengesi için tam 180 derece karşıt odayı buluyoruz:
-let darkMoonRoom64 = (sunRoom64 + 32) % 64;
-
-// 🕋 KUTSAL ÇİVİLEME: Eğer dizin sırası kayıksa, Ay'ın hexagramını doğrudan 
-// Güneş'in hexagram çizgilerini tersyüz ederek (Mirror/Inverse) çekiyoruz.
-// Böylece Shao Yong şemasındaki o zıt kutup (Karanlık Ay) hatasız eşleşiyor!
-let currentDarkMoonHexagram = iching64[darkMoonRoom64]; 
-
-// Eğer panelde hâlâ kayık çıkarsa, direkt şemadaki Virgo-Pisces simetrisini 
-// garantiye almak için bu değeri manuel bir düzeltme ofseti ile besleyebiliriz aga.
-
-    // D. Ham spektrum uyumu için yapay sirkadiyen açı simülasyonu
     let sunAngle = (sunRoom64 * 5.625);
-
-    let sunCircadianColor = '#7a00ff'; // Gece Derin Yin Mor
+    let sunCircadianColor = '#7a00ff';
     if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ffaa00'; } 
     else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } 
     else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; }
 
-    // E. DOM ELEMENT KONTROLÜ VEYA PARLAMA MOTORU
+    // D. DOM Element Kontrolü ve 8 Kapı / Zodyak Eşlemesi
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
-        
-        // TÜM ÇEMBERİ ÖNCE SÖNÜK GRİ YAP
         all8Gates.forEach(gate => {
             gate.style.opacity = "0.2";
             gate.style.color = "#444444";
             gate.style.boxShadow = "none";
         });
 
-        // Kusursuz Saat Yönü Antipod Dizilimimiz:
         const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+        let sirkadiyenButonIndex = 0;
+        let calibratedRoom = 0;
 
-     
-
-// ODA İSTASYON BURCU (Oğlak'ı çivileyen günlük sirkadiyen aks)
-let sirkadiyenBurc = "";
-if (!isYang) {
-    const geceBurclari = ["KOÇ", "BOĞA", "İKİZLER", "YENGEÇ", "ASLAN", "BAŞAK", "TERAZİ", "AKREP", "YAY", "OĞLAK", "KOVA", "BALIK"];
-    let step = sunRoom64 - 32;
-    let stationIndex = Math.floor(step / (32 / 12));
-    stationIndex = Math.min(Math.max(stationIndex, 0), 11);
-    sirkadiyenBurc = geceBurclari[stationIndex]; // İşte 57. odada burası tam OĞLAK çıkıyor!
-}
-
-
-// Gece (YIN) döngüsü algoritması - 12 Eşit Metatron / Zodyak İstasyonu
-if (!isYang) {
-    // 32. odada step 0 olur, 64. odada step 32 olur.
-    let step = sunRoom64 - 32; 
-    
-    // Gecenin 32 odasını 12 istasyona bölüyoruz. Her istasyon ~2.66 oda sürer.
-    // Math.min ile 64. odada dizinin dışına taşmayı (out of bounds) engelliyoruz.
-    let stationIndex = Math.floor(step / (32 / 12));
-    stationIndex = Math.min(stationIndex, 11); // 0 ile 11 arasında indeks üretir
-    
-    // Metatron köşe yıldızları / odaları haritası (1 tabanlı istasyon kimliği)
-    let metatronStation = stationIndex + 1; 
-
-    // UI veya görsel matris gösterimi için kalibre edilmiş odayı bağlıyoruz:
-    calibratedRoom = metatronStation; 
-    
-    // Ekstra: Konsolda hangi burç ve sirkadiyen saatte olduğunu görmek için:
-    console.log(`Metatron Yıldızı: ${metatronStation} | Adım: ${step}`);
-}
-
-        let sunGateIndex = calibratedRoom;
-        let sunGate = gateMapping[sunGateIndex];
-
-        // Karanlık Ay pozisyonu her zaman Güneş'in tam 4 buton (180 derece) zıttına kilitlenir!
-        let moonGateIndex = (sunGateIndex + 4) % 8;
-        let moonGate = gateMapping[moonGateIndex];
-
-        // Ay Evre Açı Hesaplamaları
-        const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
-        let moonColor = "#8b5cf6"; 
-        let brightMoonAngle = (sunAngle + (moonData.phase * 360)) % 360;
-        let brightMoonRoom64 = Math.floor(brightMoonAngle / 5.625);
-        if (brightMoonRoom64 > 63) brightMoonRoom64 = 63;
-        if (brightMoonRoom64 < 0) brightMoonRoom64 = 0;
-        let currentMoonHexagram = iching64[brightMoonRoom64];
-
-        let calibratedMoonRoom = (brightMoonRoom64 <= 32) ? Math.floor(brightMoonRoom64 / 4) % 8 : (0 + Math.floor((brightMoonRoom64 - 32) / 4)) % 8;
-        let brightMoonGateIndex = calibratedMoonRoom;
-        let brightMoonGate = gateMapping[brightMoonGateIndex];
-
-        // AYDINLIK AY DURUM METİNLERİ
-        let brightMoonColor = "#00ffff"; 
-        let brightMoonText = "KARANLIK AY";
-        if (moonData.phase < 0.04 || moonData.phase >= 0.96) { brightMoonColor = "#ffffff"; brightMoonText = "KARANLIK AY EVRESİ"; }
-        else if (moonData.phase >= 0.04 && moonData.phase < 0.375) { brightMoonColor = "#00ffff"; brightMoonText = "BÜYÜYEN HİLAL (WAX CRESCENT)"; }
-        else if (moonData.phase >= 0.375 && moonData.phase < 0.625) { brightMoonColor = "#ffffff"; brightMoonText = "DOLUNAY (FULL MOON)"; }
-        else { brightMoonColor = "#ff00ff"; brightMoonText = "KÜÇÜLEN AY (WANING)"; }
-
-        // BÖLGE NEON IŞIKLARINI AKTİF ETME (HİYERARŞİK ENJEKSİYON)
-        if (sunGate) { sunGate.style.color = sunCircadianColor; sunGate.style.opacity = "1.0"; sunGate.style.boxShadow = `0 0 15px ${sunCircadianColor}`; }
-        if (moonGate) { moonGate.style.color = moonColor; moonGate.style.opacity = "0.8"; moonGate.style.boxShadow = `0 0 12px ${moonColor}`; }
-        if (brightMoonGate && moonData.phase >= 0.04) {
-            if (brightMoonGate !== sunGate && brightMoonGate !== moonGate) {
-                brightMoonGate.style.color = brightMoonColor;
-                brightMoonGate.style.opacity = "0.8";
-                brightMoonGate.style.boxShadow = `0 0 12px ${brightMoonColor}`;
-            }
+        if (!isYang) {
+            let step = sunRoom64 - 32;
+            let stationIndexGece = Math.floor(step / (32 / 12));
+            stationIndexGece = Math.min(stationIndexGece, 11);
+            sirkadiyenButonIndex = Math.floor(stationIndexGece * (8 / 12)) % 8;
+            calibratedRoom = stationIndexGece + 1;
+        } else {
+            calibratedRoom = Math.floor(sunRoom64 / 4) % 8;
+            sirkadiyenButonIndex = calibratedRoom;
         }
 
- // MAKSATLI ESKİ YEREL TETREHEDRON DÖNGÜ PARLAMA KORUMASI
-        all8Gates.forEach(gate => {
-            // 💥 HAKİKİ SABİTLEME: gateMapping yerine doğrudan all8Gates dizisindeki 
-            // orijinal fiziksel buton sırasını referans alarak sembollerin uçmasını engeller aga!
-            const index = all8Gates.indexOf(gate);
-            if (index === -1) return;
-            const trigramSpan = gate.querySelector('.trigram');
-            if (!trigramSpan) return;
-            const symbols = ["☲", "☴", "☱", "☰", "☵", "☶", "☷", "☳"];
-            trigramSpan.textContent = symbols[index];
-        });
+        let sunGate = gateMapping[sirkadiyenButonIndex];
+        let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
+        const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
 
-// 📟 6. PARÇA: SİBER PANEL VERİ ENJEKSİYONU (YIN-YANG POLARİTE ENTEGRELİ)
-if (statusBar) {
-    const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
-    const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "MABON ARİFESİ (HASAT)";
-    
-    // Virgo-Pisces aksındaki dinamik Yin-Yang polaritesini siber tag yapıyoruz aga:
-    const polariteTag = "☯️ POLARİTE: VİRGO ── PİSCES AKSI";
+        if (sunGate) { 
+            sunGate.style.color = sunCircadianColor; 
+            sunGate.style.opacity = "1.0"; 
+            sunGate.style.boxShadow = `0 0 15px ${sunCircadianColor}`; 
+        }
 
-    statusBar.innerHTML = `
-        <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
-            <!-- ÜST SATIR: RADYAN VE AKİS DENGESİ -->
-            <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
-                <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: YIN (GECE) | ODA: [${sunRoom64 + 1}/64]</span>
-                <span style="color:#00ffaa; font-weight:bold;">${polariteTag}</span>
-            </div>
-            
-            <!-- ALT SATIR: MEVSİM VE KARANLIK AY DENGESİ -->
-            <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
-                <span style="color:#ffaa00;">🍂 GÜNEŞ EVRESİ: ${safeSabbat}</span>
-                <span style="color:#888;">🌙 KARANLIK AY KARŞITLIĞI AKTİF | MATRIX BINARY: ${binaryRoom}</span>
-            </div>
-        </div>
-    `;
-}
-        // 3D IFRAME KÖPRÜSÜ FIRLATICI MÜHRÜ
-        const metatronIframe = document.querySelector('.metatron-iframe');
-        if (metatronIframe && metatronIframe.contentWindow) {
-            metatronIframe.contentWindow.postMessage({
-                type: 'WICCA_LINEAR_SYNC',
-                room: sunRoom64 + 1,
-                sunAngle: sunAngle,
-                sunColor: sunCircadianColor,
-                moonColor: moonColor
-            }, '*');
+        if (moonGate) {
+            moonGate.style.color = "#00ffff";
+            moonGate.style.opacity = "1.0";
+            moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
     }
-}, pulseInterval);
 
+    if (statusBar) {
+        const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
+        const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "MABON ARİFESİ (HASAT)";
+        const polariteTag = "☯ POLARİTE: VİRGO ── PİSCES AKSI";
+        
+        statusBar.innerHTML = `
+            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
+                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
+                    <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: YIN (GECE) | ODA: [${sunRoom64 + 1}/64]</span>
+                    <span style="color:#00ffaa; font-weight:bold;">${polariteTag}</span>
+                </div>
+                <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
+                    <span style="color:#ffaa00;">☀️ GÜNEŞ: ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat}</span>
+                    <span style="color:#00ffff; font-weight:bold;">🌙 AY: ${currentDarkMoonHexagram} | BINARY: ${binaryRoom}</span>
+                </div>
+            </div>
+        `;
+    }
+
+    const metatronIframe = document.querySelector('.metatron-iframe');
+    if (metatronIframe && metatronIframe.contentWindow) {
+        metatronIframe.contentWindow.postMessage({
+            type: 'WICCA_LINEAR_SYNC',
+            room: sunRoom64 + 1,
+            sunAngle: sunAngle,
+            sunColor: sunCircadianColor,
+            moonColor: "#00ffff"
+        }, '*');
+    }
+}, pulseInterval);
 function getDynamicSabbat(sunSign) {
     const now = new Date();
     const month = now.getMonth() + 1; // JS'de aylar 0-11 arasıdır
