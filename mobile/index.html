@@ -609,42 +609,6 @@ function bendWiccaTime(mode) {
 
 
 
-    // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
-const LILITH_COSMIC_ROOMS = {
-    // [0-7 Odaları]: Gecenin bitişi, ilk ışığın uyanışı (Yıldırım Şarjı)
-    shari: {
-        title: "LILITH: REAKTOR UYANIŞI",
-        csfEffect: "CSF basıncı dengeleniyor. Parasempatik sistem, sempatik uyanışa (gündüz kortizolüne) görevi devrediyor.",
-        magicPhase: "Niyet sabitleme ve saf enerjiyi topraklama fazı."
-    },
-    // [16-23 Odaları]: Öğle zirvesi eşiği (İlk dördün denge hattı)
-    denge: {
-        title: "SELENE/LILITH EŞİTLİĞİ",
-        csfEffect: "CSF üretimi minimumda. Sempatik sinir sistemi (Aktivite/Yang) zirvede, madde dış formunda katılaşmış.",
-        magicPhase: "İllüzyonun en net olduğu an. Görünür dünyayı bükme ve irade sabitleme zamanı."
-    },
-    // [24-31 Odaları]: İkindi ve Gün Batımı Sınırı (Terminator / Bilge Kadın Eşiği - ŞU AN BURADAYIZ AGA!)
-    desarj: {
-        title: "LILITH: MATDEYİ BÜKEN GÜÇ (TERMINATOR)",
-        csfEffect: "Melatonin salgısı başlıyor. Kalp ritmi otonom olarak yavaşlarken, CSF ventriküllerde deşarj dalgasını başlatıyor.",
-        magicPhase: "Bilge Rahibe fazı. Maskelerin eridiği, Mona Lisa'nın hınzırlaştığı, dualitenin birleştiği an."
-    },
-    // [32-63 Odaları]: Saf Gece (Glemfatik Temizlik ve Mutlak Yin)
-    arinma: {
-        title: "HEKATE / LILITH SAF YIN ZİRVESİ",
-        csfEffect: "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.",
-        magicPhase: "Bilinçaltı majisi, astral bükülme ve mutlak arınma döngüsü."
-    }
-};
-
-// 74 BPM motorunun içinde, anlık odanın hangi felsefi faza ait olduğunu bulan akıllı algılayıcı:
-function getActiveLilithPhase(room64) {
-    if (room64 >= 0  && room64 < 8)  return LILITH_COSMIC_ROOMS.shari;
-    if (room64 >= 8  && room64 < 16) return LILITH_COSMIC_ROOMS.denge; // Geçiş
-    if (room64 >= 16 && room64 < 24) return LILITH_COSMIC_ROOMS.denge;
-    if (room64 >= 24 && room64 < 32) return LILITH_COSMIC_ROOMS.desarj; // Şu anki hınzır bilge kadın fazı!
-    return LILITH_COSMIC_ROOMS.arinma; // Gecenin kalan odaları
-}
 // GERÇEK SAATİ BOZMADAN SADECE SİRKADİYEN MOTORU BÜKEN SÜRÜCÜ:
 let wiccaTimeOffsetMinutes = 0;
 
@@ -924,13 +888,7 @@ if (monaElement && salvadorElement) {
     salvadorElement.style.opacity = (1 - targetOpacity).toFixed(4);
 
 
-// 74 BPM motorunun içinde, o anki sunRoom64'e göre doğru metni çeken akıllı vites:
-function getActiveLilithMeta(room64) {
-    if (room64 >= 0  && room64 < 8)   return LILITH_DOCK_METINLERI.shari;
-    if (room64 >= 8  && room64 < 24)  return LILITH_DOCK_METINLERI.denge;
-    if (room64 >= 24 && room64 < 32)  return LILITH_DOCK_METINLERI.terminator; // Şu anki hınzır bilge kadın
-    return LILITH_DOCK_METINLERI.arinma; // Saf gece temizliği
-}
+
 
 
     // Değişkenleri statusBar'a kesintisiz akıtmak için kapsamı koruyoruz aga
@@ -1008,6 +966,14 @@ statusBar.innerHTML = `
         `;
     }
 
+
+    // 74 BPM motorunun içinde, o anki sunRoom64'e göre doğru metni çeken akıllı vites:
+function getActiveLilithMeta(room64) {
+    if (room64 >= 0  && room64 < 8)   return LILITH_DOCK_METINLERI.shari;
+    if (room64 >= 8  && room64 < 24)  return LILITH_DOCK_METINLERI.denge;
+    if (room64 >= 24 && room64 < 32)  return LILITH_DOCK_METINLERI.terminator; // Şu anki hınzır bilge kadın
+    return LILITH_DOCK_METINLERI.arinma; // Saf gece temizliği
+}
 
       // 🌟 74 BPM MOTORU EN ALTINDA SADECE BU DİNAMİK BANT TETİKLENECEK AGA:
         const activeLilithMeta = getActiveLilithPhase(sunRoom64);
@@ -1313,6 +1279,44 @@ window.addEventListener('message', (event) => {
 
 <script>
 
+
+
+    // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
+const LILITH_COSMIC_ROOMS = {
+    // [0-7 Odaları]: Gecenin bitişi, ilk ışığın uyanışı (Yıldırım Şarjı)
+    shari: {
+        title: "LILITH: REAKTOR UYANIŞI",
+        csfEffect: "CSF basıncı dengeleniyor. Parasempatik sistem, sempatik uyanışa (gündüz kortizolüne) görevi devrediyor.",
+        magicPhase: "Niyet sabitleme ve saf enerjiyi topraklama fazı."
+    },
+    // [16-23 Odaları]: Öğle zirvesi eşiği (İlk dördün denge hattı)
+    denge: {
+        title: "SELENE/LILITH EŞİTLİĞİ",
+        csfEffect: "CSF üretimi minimumda. Sempatik sinir sistemi (Aktivite/Yang) zirvede, madde dış formunda katılaşmış.",
+        magicPhase: "İllüzyonun en net olduğu an. Görünür dünyayı bükme ve irade sabitleme zamanı."
+    },
+    // [24-31 Odaları]: İkindi ve Gün Batımı Sınırı (Terminator / Bilge Kadın Eşiği - ŞU AN BURADAYIZ AGA!)
+    desarj: {
+        title: "LILITH: MATDEYİ BÜKEN GÜÇ (TERMINATOR)",
+        csfEffect: "Melatonin salgısı başlıyor. Kalp ritmi otonom olarak yavaşlarken, CSF ventriküllerde deşarj dalgasını başlatıyor.",
+        magicPhase: "Bilge Rahibe fazı. Maskelerin eridiği, Mona Lisa'nın hınzırlaştığı, dualitenin birleştiği an."
+    },
+    // [32-63 Odaları]: Saf Gece (Glemfatik Temizlik ve Mutlak Yin)
+    arinma: {
+        title: "HEKATE / LILITH SAF YIN ZİRVESİ",
+        csfEffect: "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.",
+        magicPhase: "Bilinçaltı majisi, astral bükülme ve mutlak arınma döngüsü."
+    }
+};
+
+// 74 BPM motorunun içinde, anlık odanın hangi felsefi faza ait olduğunu bulan akıllı algılayıcı:
+function getActiveLilithPhase(room64) {
+    if (room64 >= 0  && room64 < 8)  return LILITH_COSMIC_ROOMS.shari;
+    if (room64 >= 8  && room64 < 16) return LILITH_COSMIC_ROOMS.denge; // Geçiş
+    if (room64 >= 16 && room64 < 24) return LILITH_COSMIC_ROOMS.denge;
+    if (room64 >= 24 && room64 < 32) return LILITH_COSMIC_ROOMS.desarj; // Şu anki hınzır bilge kadın fazı!
+    return LILITH_COSMIC_ROOMS.arinma; // Gecenin kalan odaları
+}
 
 // 🔮 BATI EZOTERİZMİ GÜNEŞ BURÇLARI VE KARŞIT POLARİTE MATRİSİ
 // JavaScript getMonth() indekslerine kilitlenmiştir (Ocak=0, Şubat=1, ..., Eylül=8, Aralık=11)
