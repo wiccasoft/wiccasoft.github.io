@@ -92,12 +92,12 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 🖼 GÜNDÜZ MADONNASI (MONA LISA) HASSAS BOYUTLANDIRMA VE YÜZ KİLİDİ */
 .madonna-image {
     position: absolute;
-    width: 78% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
-    max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
+    width: 99% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
+    max-width: 470px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 45% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 51% !important;
-    transform: translate(-50%, -50%) !important;
+    top: 48.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    left: 53% !important;
+    transform: translate(-50%, -50%) scale(1.0) !important;
     object-fit: contain;
     z-index: 1;
     filter: brightness(1.0) !important;
@@ -110,16 +110,16 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
-    width: 70% !important;
-    max-width: 380px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    width: 99% !important;
+    max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
     top: 40% !important;
     left: 50% !important;
-    transform: translate(-50%, -50%) !important;
+    transform: translate(-50%, -50%) scale(0.8)!important;
     object-fit: contain;
     z-index: 1;
     opacity: 0;
-    filter: brightness(1.1) !important;
+    filter: brightness(0.9) !important;
  /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
     mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
     -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
@@ -215,6 +215,41 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* Ekran genişliği EN AZ 1200px olduğunda (Masaüstünde) çalışır */
 @media (min-width: 1200px) {
 
+
+    .madonna-image {
+    position: absolute;
+    width: 99% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
+    max-width: 470px !important; /* Taşmayı önleyen üst katı sınır */
+    height: auto !important;
+    top: 47% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    left: 51% !important;
+    transform: translate(-50%, -50%) scale(1.1) !important;
+    object-fit: contain;
+    z-index: 1;
+    filter: brightness(1.1) !important;
+   /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
+    mask-image: radial-gradient(ellipse 55% 75% at 50% 50%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    -webkit-mask-image: radial-gradient(ellipse 55% 75% at 50% 50%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+}
+
+
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+.salvador-image {
+    position: absolute;
+    width: 99% !important;
+    max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    height: auto !important;
+    top: 38.5% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) scale(0.9)!important;
+    object-fit: contain;
+    z-index: 1;
+    opacity: 0;
+    filter: brightness(0.9) !important;
+ /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
+    mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
+    -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
+}
        .main-viewport {
         height: 100vh !important;
         display: flex !important;
@@ -237,11 +272,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
         pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
     }
 
-    .salvador-image {
-        width: 500px !important; 
-         top: 40% !important;
-    left: 50% !important;
-    }
+
 }
 
 /* 📱 Mobil Ekranlar İçin Konum Dengelemesi */
@@ -264,21 +295,21 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
-    width: 500px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
+    width: 420px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
     height: auto !important;
-    top: 40% !important;
+    top: 42% !important;
     left: 50% !important;
     transform: translate(-50%, -50%) scale(0.7) !important;
     z-index: 1;
 }
 .madonna-image {
     position: absolute;
-    width: 500px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
+    width: 470px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 45% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 51% !important;
-    transform: translate(-50%, -50%)scale(0.7) !important;
+    top: 48.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    left: 52% !important;
+    transform: translate(-50%, -50%)scale(0.9) !important;
     
     z-index: 1;
     filter: brightness(1.0) !important;
@@ -863,36 +894,31 @@ if (monaElement && salvadorElement) {
         case 7: moonPhaseIcon = "🌘"; moonPhaseName = "BALSAMİK AY (YIN ZİRVESİ)"; break; 
     }
 
+
+    const currentPlanet = calculateCosmicPlanetHour(now, solar);
+
+
     if (statusBar) {
 
         const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
         const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "safeSabbat";
         const polariteTag = "☯ POLARİTE: VİRGO ── PİSCES";
         
-        statusBar.innerHTML = `
-            
-            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:12px;">
-              
-                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:8px;">
+statusBar.innerHTML = `
+            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
+                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
                     <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${timeData.isDay ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
                     <span style="color:#00ffaa; font-weight:bold;">${polariteTag} (${activeZodiac.name})</span>
                 </div>
-                <div style="display:flex; justify-content:space-between; font-size:12px; padding-top:2px;">
-                    <span style="color:#ffaa00;">☀️ GÜNEŞ: ${activeZodiac.icon} ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat}</span>
-                     <span style="color:#ffaa00;">☀️ CSF: ${pendulumStatus} </span>
-                     
-                    </div>
-<div style="display:flex; justify-content:space-between; font-size:10px; padding-top:4px;">
-         
+                <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
+                    <span style="color:#ffaa00;">☀️ GÜNEŞ: ${activeZodiac.icon} ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat} | 🪐 VALİ: ${currentPlanet.icon} ${currentPlanet.name} (S.${currentPlanet.hourNum})</span>
+                    <span style="color:#00ffff; font-weight:bold;">🌙 LILITH/SELENE: ${moonPhaseIcon} ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI (KARANLIK AY) | BINARY: ${binaryRoom}</span>
+                </div>
             </div>
-
-                 <div style="display:flex; justify-content:space-between; font-size:12px; padding-top:4px;">
-                    <span style="color:#00ffff; font-weight:bold;"> 🌙 MOON: ${moonPhaseName} ${moonPhaseIcon}</span>
-                    <span style="color:#00ffff; font-weight:bold;"> DARKMOON: ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI | BINARY: ${binaryRoom}</span>
-                   
-                  </div>
         `;
     }
+
+    
 } // <-- if (monaElement && salvadorElement) ana kilidinin tam burası kapanış yeri aga!
 
 const metatronIframe = document.querySelector('.metatron-iframe');
@@ -911,6 +937,7 @@ if (metatronIframe && metatronIframe.contentWindow) {
 }
 
 }, pulseInterval);
+
 
 
 function getDynamicSabbat(sunSign) {
@@ -1198,6 +1225,72 @@ const WICCA_SUN_SIGNS = [
 ];
 // ZAMANI BÜKÜP HESAP MAKİNESİ AKSINA KİLİTLEYEN SÜRÜCÜ MOTORU
 //let wiccaTimeOffsetMinutes = 0;
+
+// 🪐 KELDANİ DÜZENİ GEZEGEN SAATLERİ MOTORU (ASTRO-SEEK & TIMEANDDATE KARIŞIMI)
+const CHALDEAN_ORDER = ["SATURN", "JUPITER", "MARS", "SUN", "VENUS", "MERCURY", "MOON"];
+const ZODIAC_PLANET_ICONS = {
+    "SATURN": "♄", "JUPITER": "♃", "MARS": "♂", 
+    "SUN": "☉", "VENUS": "♀", "MERCURY": "☿", "MOON": "☽"
+};
+
+// Haftanın günlerine göre gün doğumundaki İLK SAATİN yöneticisi (Keldani Kökeni)
+const DAY_START_PLANETS = [
+    "SUN",     // 0: Pazar
+    "MOON",    // 1: Pazartesi (Bugün pazartesi, ilk saat Ay ile başladı aga!)
+    "MARS",    // 2: Salı
+    "MERCURY", // 3: Çarşamba
+    "JUPITER", // 4: Perşembe
+    "VENUS",   // 5: Cuma
+    "SATURN"   // 6: Cumartesi
+];
+
+
+
+
+
+function calculateCosmicPlanetHour(date, solarTimes) {
+    const currentHour = date.getHours() + (date.getMinutes() / 60);
+    const dayOfWeek = date.getDay();
+    
+    let isDaytime = currentHour >= solarTimes.sunrise && currentHour < solarTimes.sunset;
+    let hourLength = 0;
+    let elapsedHours = 0;
+    
+    if (isDaytime) {
+        // Gündüz süresi 12 kozmik saate bölünür
+        hourLength = solarTimes.dayLength / 12;
+        elapsedHours = (currentHour - solarTimes.sunrise) / hourLength;
+    } else {
+        // Gece süresi 12 kozmik saate bölünür
+        const nightLength = 24 - solarTimes.dayLength;
+        hourLength = nightLength / 12;
+        
+        let timeSinceSunset = 0;
+        if (currentHour >= solarTimes.sunset) {
+            timeSinceSunset = currentHour - solarTimes.sunset;
+        } else {
+            timeSinceSunset = (24 - solarTimes.sunset) + currentHour;
+        }
+        elapsedHours = timeSinceSunset / hourLength;
+    }
+    
+    const cosmicHourIndex = Math.min(Math.floor(elapsedHours), 11);
+    
+    // Günün başlangıç gezegenini buluyoruz
+    const startPlanet = DAY_START_PLANETS[dayOfWeek];
+    const startPlanetIndex = CHALDEAN_ORDER.indexOf(startPlanet);
+    
+    // Keldani çarkını saat adımına göre döndürüyoruz aga (Geriye doğru akar)
+    const currentPlanetIndex = (startPlanetIndex + cosmicHourIndex) % 7;
+    const activePlanet = CHALDEAN_ORDER[currentPlanetIndex];
+    
+    return {
+        name: activePlanet,
+        icon: ZODIAC_PLANET_ICONS[activePlanet],
+        hourNum: cosmicHourIndex + 1,
+        isDaytime: isDaytime
+    };
+}
 
 function bendWiccaTime(mode) {
     // 1 Oda periyodu yaklaşık 22 dakikadır
