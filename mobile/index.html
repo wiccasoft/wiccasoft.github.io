@@ -78,13 +78,13 @@ body, html, h1, h2, h3, p, a, button, .btn {
         .main-viewport { position: relative; width: 100vw; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
 
         .main-viewport {
-    position: relative;
-    width: 100%;
-    min-height: 100vh;
-    overflow: hidden;
-    /* 🚀 HEPSİNİ TEK YERDEN AŞAĞI KAYDIRAN SİHİRLİ SATIR: */
-    margin-top: 0vh !important; /* İhtiyaca göre 12vh veya 15vh de yapabilirsin */
-}
+        position: relative;
+        width: 100%;
+        min-height: 100vh;
+        overflow: hidden;
+        /* 🚀 HEPSİNİ TEK YERDEN AŞAĞI KAYDIRAN SİHİRLİ SATIR: */
+        margin-top: 0vh !important; /* İhtiyaca göre 12vh veya 15vh de yapabilirsin */
+    }
 
 
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
@@ -95,16 +95,18 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 77.5% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 45.8% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 50% !important;
+    top: 45% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    left: 51% !important;
     transform: translate(-50%, -50%) !important;
     object-fit: contain;
     z-index: 1;
     filter: brightness(1.0) !important;
    /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
     mask-image: radial-gradient(ellipse 55% 75% at 50% 50%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-    -webkit-mask-image: radial-gradient(ellipse 55% 75% at 50% 50%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;}
-       /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ VE GENEL MERKEZLEME AYARI) */
+    -webkit-mask-image: radial-gradient(ellipse 55% 75% at 50% 50%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+}
+
+
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
@@ -116,7 +118,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     transform: translate(-50%, -50%) !important;
     object-fit: contain;
     z-index: 1;
-    opacity: 0.99;
+    opacity: 0;
     filter: brightness(1.1) !important;
  /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
     mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
@@ -269,7 +271,18 @@ body, html, h1, h2, h3, p, a, button, .btn {
     transform: translate(-50%, -50%) scale(0.7) !important;
     z-index: 1;
 }
-
+.madonna-image {
+    position: absolute;
+    width: 500px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
+    max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
+    height: auto !important;
+    top: 45% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    left: 51% !important;
+    transform: translate(-50%, -50%)scale(0.7) !important;
+    
+    z-index: 1;
+    filter: brightness(1.0) !important;
+  }
 
 
     /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
@@ -300,7 +313,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
         position: absolute !important;
         top: 55% !important;
         left: 50% !important;
-        transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 75vh !important;
         height: 75vh !important;
         z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
@@ -790,12 +803,11 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
     }
 
 
-
-    // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ
+// 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ
 const monaElement = document.getElementById('mesh-monalisa');
+const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image');
 
-
-if (monaElement) {
+if (monaElement && salvadorElement) {
     const currentHour = now.getHours() + (now.getMinutes() / 60);
     
     // Gerçek Öğlen Vakti (Güneşin en tepede, tam 180° olduğu an)
@@ -820,81 +832,73 @@ if (monaElement) {
     }
     // 3. & 4. VİTES: GÜN BATIMINDAN GÜN DOĞUMUNA (Saf Gece / Arınma / Salvator Orb)
     else {
-        // Güneş ufkun altında; Mona Lisa transparan, Salvator ve Karanlık Ay tam devrede
         targetOpacity = 0;
         pendulumStatus = "💧 SU BASKISI (Yin Zirvesi / CSF Glemfatik Temizlik)";
     }
 
     // Katı sınır güvenliği ve sarkaç opaklığının tül gibi giydirilmesi
-    monaElement.style.opacity = Math.max(0, Math.min(1, targetOpacity)).toFixed(4);
-}
+    targetOpacity = Math.max(0, Math.min(1, targetOpacity));
+    monaElement.style.opacity = targetOpacity.toFixed(4);
+    
+    // 🌟 SALVATOR'U GÜNDÜZ %0 YAPAN TAM TERS ORANTI KİLİDİ (targetOpacity KULLANILDI)
+    salvadorElement.style.opacity = (1 - targetOpacity).toFixed(4);
 
+    // Değişkenleri statusBar'a kesintisiz akıtmak için kapsamı koruyoruz aga
+    const activeZodiac = WICCA_SUN_SIGNS[now.getMonth()];
+    let darkMoonDominance = Math.round((1 - targetOpacity) * 100);
 
-// 🌙 64 ODALIK SIRKADİYEN AY FAZI SÜRÜCÜSÜ (THE BRAVE / ENDLESS SENKRONU)
-let moonPhaseIcon = "🌑";
-let moonPhaseName = "YENİ AY (SU)";
+    // 🌙 64 ODALIK SIRKADİYEN AY FAZI SÜRÜCÜSÜ (THE BRAVE / ENDLESS SENKRONU)
+    let moonPhaseIcon = "🌑";
+    let moonPhaseName = "YENİ AY (SU)";
+    const phaseIndex = Math.floor(sunRoom64 / 8); 
 
-// 64 odayı 8 ana kozmik faza bölüyoruz (Her faz tam 8 oda sürer aga)
-const phaseIndex = Math.floor(sunRoom64 / 8); 
-
-switch(phaseIndex) {
-    case 0: moonPhaseIcon = "🌑"; moonPhaseName = "YENİ AY (MİNİMUM CSF)"; break; // 0-7 Odaları
-    case 1: moonPhaseIcon = "🌒"; moonPhaseName = "HİLAL (ŞARJ BAŞLANGICI)"; break; // 8-15 Odaları
-    case 2: moonPhaseIcon = "🌓"; moonPhaseName = "İLK DÖRDÜN (DENGE)"; break;      // 16-23 Odaları -> ŞU AN BURADAYIZ AGA!
-    case 3: moonPhaseIcon = "🌔"; moonPhaseName = "BÜYÜYEN AY (IŞIĞA TIRMANIŞ)"; break;// 24-31 Odaları
-    case 4: moonPhaseIcon = "🌕"; moonPhaseName = "DOLUNAY (MAKSİMUM YANG)"; break;   // 32-39 Odaları
-    case 5: moonPhaseIcon = "🌖"; moonPhaseName = "KÜÇÜLEN AY (DEŞARJ)"; break;       // 40-47 Odaları
-    case 6: moonPhaseIcon = "🌗"; moonPhaseName = "SON DÖRDÜN (ÇÖKÜŞ)"; break;       // 48-55 Odaları
-    case 7: moonPhaseIcon = "🌘"; moonPhaseName = "BALSAMİK AY (YIN ZİRVESİ)"; break; // 56-63 Odaları
-}
-
-// Alt siber paneldeki (statusBar) AY: kısmını bu ikonla ve isimle besliyoruz
-// Mevcut innerHTML şablonunun içindeki "AY: ☵" olan yeri bununla güncelleyebilirsin aga:
-`AY: ${moonPhaseIcon} | ${moonPhaseName}`
+    switch(phaseIndex) {
+        case 0: moonPhaseIcon = "🌑"; moonPhaseName = "YENİ AY (MİNİMUM CSF)"; break; 
+        case 1: moonPhaseIcon = "🌒"; moonPhaseName = "HİLAL (ŞARJ BAŞLANGICI)"; break; 
+        case 2: moonPhaseIcon = "🌓"; moonPhaseName = "İLK DÖRDÜN (DENGE)"; break;      
+        case 3: moonPhaseIcon = "🌔"; moonPhaseName = "BÜYÜYEN AY (IŞIĞA TIRMANIŞ)"; break;
+        case 4: moonPhaseIcon = "🌕"; moonPhaseName = "DOLUNAY (MAKSIMUM YANG)"; break;   
+        case 5: moonPhaseIcon = "🌖"; moonPhaseName = "KÜÇÜLEN AY (DEŞARJ)"; break;       
+        case 6: moonPhaseIcon = "🌗"; moonPhaseName = "SON DÖRDÜN (ÇÖKÜŞ)"; break;       
+        case 7: moonPhaseIcon = "🌘"; moonPhaseName = "BALSAMİK AY (YIN ZİRVESİ)"; break; 
+    }
 
     if (statusBar) {
         const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
         const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "MABON ARİFESİ (HASAT)";
         const polariteTag = "☯ POLARİTE: VİRGO ── PİSCES AKSI";
         
-statusBar.innerHTML = `
-    <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
-        <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
-            <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${timeData.isDay ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
-            <span style="color:#00ffaa; font-weight:bold;">${polariteTag} (${activeZodiac.name})</span>
-        </div>
-        <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
-            <span style="color:#ffaa00;">☀️ GÜNEŞ: ${activeZodiac.icon} ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat}</span>
-            <span style="color:#00ffff; font-weight:bold;">🌙 AY: ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI (KARANLIK AY) | BINARY: ${binaryRoom}</span>
-        </div>
-    </div>
-`;
+        statusBar.innerHTML = `
+            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
+                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
+                    <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${timeData.isDay ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
+                    <span style="color:#00ffaa; font-weight:bold;">${polariteTag} (${activeZodiac.name})</span>
+                </div>
+                <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
+                    <span style="color:#ffaa00;">☀️ GÜNEŞ: ${activeZodiac.icon} ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat}</span>
+                    <span style="color:#00ffff; font-weight:bold;">🌙 AY: ${moonPhaseIcon} ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI (KARANLIK AY) | BINARY: ${binaryRoom}</span>
+                </div>
+            </div>
+        `;
     }
+} // <-- if (monaElement && salvadorElement) ana kilidinin tam burası kapanış yeri aga!
 
 const metatronIframe = document.querySelector('.metatron-iframe');
 
 if (metatronIframe && metatronIframe.contentWindow) {
-    // Sarkaç opaklık değerini (smoothOpacity) referans alarak dinamik renk büküyoruz
-    // Mona Lisa %100 iken (Gündüz/Yang) sıcak güneş renkleri, erirken (Gece/Yin) Ay ve CSF renkleri
     let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
-    
-    // Deşarj/Şarj durumuna göre moonColor'ı saf gümüş-turkuaz aksına çekiyoruz
-    // Gündüz daha sönük bir aqua, gece ise parlayan bir kozmik gümüş (#dfdfdf)
     let dynamicMoonColor = monaOpacity < 0.1 ? "#e0eae9" : "#00ffff"; 
     
     metatronIframe.contentWindow.postMessage({
         type: 'WICCA_LINEAR_SYNC',
         room: sunRoom64 + 1,
         sunAngle: sunAngle,
-        sunColor: sunCircadianColor, // JS'teki sirkadiyen renk motorundan akan turuncu/kırmızı/sarı aksı
-        moonColor: dynamicMoonColor  // Şemadaki Ay evrelerine kilitlenen dinamik CSF rengi
+        sunColor: sunCircadianColor, 
+        moonColor: dynamicMoonColor  
     }, '*');
 }
 
-
-
-}, 810);
-
+}, pulseInterval);
 
 
 function getDynamicSabbat(sunSign) {
