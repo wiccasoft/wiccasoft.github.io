@@ -92,7 +92,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 🖼 GÜNDÜZ MADONNASI (MONA LISA) HASSAS BOYUTLANDIRMA VE YÜZ KİLİDİ */
 .madonna-image {
     position: absolute;
-    width: 77.5% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
+    width: 78% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
     top: 45% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
@@ -828,7 +828,7 @@ if (monaElement && salvadorElement) {
         let progress = (currentHour - solarNoon) / (solar.sunset - solarNoon);
         // Tersten kübik geçiş: Mona Lisa zirveden sonra erime fazına girer
         targetOpacity = 1 - ((3 * Math.pow(progress, 2)) - (2 * Math.pow(progress, 3)));
-        pendulumStatus = "🔴 ATEŞ ──> 💧 SU (Deşarj / Gündüz Işığı Eriyor)";
+        pendulumStatus = "🔴 ATEŞ ──> 💧 SU (Deşarj)";
     }
     // 3. & 4. VİTES: GÜN BATIMINDAN GÜN DOĞUMUNA (Saf Gece / Arınma / Salvator Orb)
     else {
@@ -864,21 +864,33 @@ if (monaElement && salvadorElement) {
     }
 
     if (statusBar) {
+
         const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
-        const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "MABON ARİFESİ (HASAT)";
-        const polariteTag = "☯ POLARİTE: VİRGO ── PİSCES AKSI";
+        const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "safeSabbat";
+        const polariteTag = "☯ POLARİTE: VİRGO ── PİSCES";
         
         statusBar.innerHTML = `
-            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
-                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
+            
+            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:12px;">
+              
+                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:8px;">
                     <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${timeData.isDay ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
                     <span style="color:#00ffaa; font-weight:bold;">${polariteTag} (${activeZodiac.name})</span>
                 </div>
-                <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
+                <div style="display:flex; justify-content:space-between; font-size:12px; padding-top:2px;">
                     <span style="color:#ffaa00;">☀️ GÜNEŞ: ${activeZodiac.icon} ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat}</span>
-                    <span style="color:#00ffff; font-weight:bold;">🌙 AY: ${moonPhaseIcon} ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI (KARANLIK AY) | BINARY: ${binaryRoom}</span>
-                </div>
+                     <span style="color:#ffaa00;">☀️ CSF: ${pendulumStatus} </span>
+                     
+                    </div>
+<div style="display:flex; justify-content:space-between; font-size:10px; padding-top:4px;">
+         
             </div>
+
+                 <div style="display:flex; justify-content:space-between; font-size:12px; padding-top:4px;">
+                    <span style="color:#00ffff; font-weight:bold;"> 🌙 MOON: ${moonPhaseName} ${moonPhaseIcon}</span>
+                    <span style="color:#00ffff; font-weight:bold;"> DARKMOON: ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI | BINARY: ${binaryRoom}</span>
+                   
+                  </div>
         `;
     }
 } // <-- if (monaElement && salvadorElement) ana kilidinin tam burası kapanış yeri aga!
@@ -1167,22 +1179,22 @@ window.addEventListener('message', (event) => {
 // 🔮 BATI EZOTERİZMİ GÜNEŞ BURÇLARI VE KARŞIT POLARİTE MATRİSİ
 // JavaScript getMonth() indekslerine kilitlenmiştir (Ocak=0, Şubat=1, ..., Eylül=8, Aralık=11)
 const WICCA_SUN_SIGNS = [
-    { name: "CAPRICORN", icon: "♑", polarity: "CAPRICORN — CANCER AKSI" },   // 0: Ocak
-    { name: "AQUARIUS",  icon: "♒", polarity: "AQUARIUS — LEO AKSI" },      // 1: Şubat
-    { name: "PISCES",    icon: "♓", polarity: "PISCES — VIRGO AKSI" },      // 2: Mart
-    { name: "ARIES",     icon: "♈", polarity: "ARIES — LIBRA AKSI" },       // 3: Nisan
-    { name: "TAURUS",    icon: "♉", polarity: "TAURUS — SCORPIO AKSI" },    // 4: Mayıs
-    { name: "GEMINI",    icon: "♊", polarity: "GEMINI — SAGITTARIUS AKSI" },// 5: Haziran
-    { name: "CANCER",    icon: "♋", polarity: "CANCER — CAPRICORN AKSI" },  // 6: Temmuz
+    { name: "CAPRICORN", icon: "♑", polarity: "CAPRICORN — CANCER" },   // 0: Ocak
+    { name: "AQUARIUS",  icon: "♒", polarity: "AQUARIUS — LEO" },      // 1: Şubat
+    { name: "PISCES",    icon: "♓", polarity: "PISCES — VIRGO" },      // 2: Mart
+    { name: "ARIES",     icon: "♈", polarity: "ARIES — LIBRA" },       // 3: Nisan
+    { name: "TAURUS",    icon: "♉", polarity: "TAURUS — SCORPIO" },    // 4: Mayıs
+    { name: "GEMINI",    icon: "♊", polarity: "GEMINI — SAGITTARIUS" },// 5: Haziran
+    { name: "CANCER",    icon: "♋", polarity: "CANCER — CAPRICORN" },  // 6: Temmuz
     { name: "LEO",       // 7: Ağustos
         name: "LEO", 
         icon: "♌", 
         polarity: "LEO — AQUARIUS AKSI" 
     },      
-    { name: "VIRGO",     icon: "♍", polarity: "VIRGO — PISCES AKSI" },      // 8: Eylül (Şu an aktif olan sarkaç aksı aga!)
-    { name: "LIBRA",     icon: "♎", polarity: "LIBRA — ARIES AKSI" },       // 9: Ekim
-    { name: "SCORPIO",   icon: "♏", polarity: "SCORPIO — TAURUS AKSI" },    // 10: Kasım
-    { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI AKSI" } // 11: Aralık (Eğer Ay 11 ise bunu çeker)
+    { name: "VIRGO",     icon: "♍", polarity: "VIRGO — PISCES" },      // 8: Eylül (Şu an aktif olan sarkaç aksı aga!)
+    { name: "LIBRA",     icon: "♎", polarity: "LIBRA — ARIES" },       // 9: Ekim
+    { name: "SCORPIO",   icon: "♏", polarity: "SCORPIO — TAURUS" },    // 10: Kasım
+    { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI" } // 11: Aralık (Eğer Ay 11 ise bunu çeker)
 ];
 // ZAMANI BÜKÜP HESAP MAKİNESİ AKSINA KİLİTLEYEN SÜRÜCÜ MOTORU
 //let wiccaTimeOffsetMinutes = 0;
