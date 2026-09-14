@@ -124,6 +124,9 @@ body, html, h1, h2, h3, p, a, button, .btn {
     mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
     -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
 }
+
+
+
         /* 🛸 METATRON 3D ÇEKİRDEK */
         /* 
             .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }*/
@@ -556,6 +559,13 @@ function bendWiccaTime(mode) {
 
 
 
+<!-- 🔮 LILITH (KARANLIK AY) & CSF GİZLİ FELSEFE DOCK PANELİ -->
+<div id="lilith-cosmic-dock" style="position: absolute; bottom: 85px; left: 50%; transform: translateX(-50%); width: 70%; max-width: 380px; background: rgba(0, 0, 0, 0.75); border: 1px solid #222; border-radius: 4px; padding: 8px 12px; box-shadow: 0 0 15px rgba(0,0,0,0.9); font-family: monospace; z-index: 10; pointer-events: none; transition: all 0.5s ease-in-out;">
+    <div id="lilith-title" style="color: #00ffaa; font-size: 11px; font-weight: bold; border-bottom: 1px solid #333; padding-bottom: 3px; margin-bottom: 4px;">LILITH: MATRİS YÜKLENİYOR...</div>
+    <div id="lilith-desc" style="color: #ccc; font-size: 9.5px; line-height: 1.3; margin-bottom: 4px;">Kozmik sarkaç verileri taranıyor, CSF biyolojik akış döngüsü hesaplanıyor...</div>
+    <div id="lilith-formula" style="color: #ffaa00; font-size: 9px; text-align: right;">[LOADING SYSTEM]</div>
+</div>
+
 <!-- 🌌 MİSTİK KOZMİK DURUM MATRİSİ (Yazıları topladığımız alt veri barı) -->
 <div class="cosmic-status-bar" id="cosmic-status">
     INITIALIZING COSMIC MATRIX...
@@ -874,6 +884,51 @@ if (monaElement && salvadorElement) {
     // 🌟 SALVATOR'U GÜNDÜZ %0 YAPAN TAM TERS ORANTI KİLİDİ (targetOpacity KULLANILDI)
     salvadorElement.style.opacity = (1 - targetOpacity).toFixed(4);
 
+
+// 74 BPM motorunun içinde, o anki sunRoom64'e göre doğru metni çeken akıllı vites:
+function getActiveLilithMeta(room64) {
+    if (room64 >= 0  && room64 < 8)   return LILITH_DOCK_METINLERI.shari;
+    if (room64 >= 8  && room64 < 24)  return LILITH_DOCK_METINLERI.denge;
+    if (room64 >= 24 && room64 < 32)  return LILITH_DOCK_METINLERI.terminator; // Şu anki hınzır bilge kadın
+    return LILITH_DOCK_METINLERI.arinma; // Saf gece temizliği
+}
+
+    // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
+const LILITH_COSMIC_ROOMS = {
+    // [0-7 Odaları]: Gecenin bitişi, ilk ışığın uyanışı (Yıldırım Şarjı)
+    shari: {
+        title: "LILITH: REAKTOR UYANIŞI",
+        csfEffect: "CSF basıncı dengeleniyor. Parasempatik sistem, sempatik uyanışa (gündüz kortizolüne) görevi devrediyor.",
+        magicPhase: "Niyet sabitleme ve saf enerjiyi topraklama fazı."
+    },
+    // [16-23 Odaları]: Öğle zirvesi eşiği (İlk dördün denge hattı)
+    denge: {
+        title: "SELENE/LILITH EŞİTLİĞİ",
+        csfEffect: "CSF üretimi minimumda. Sempatik sinir sistemi (Aktivite/Yang) zirvede, madde dış formunda katılaşmış.",
+        magicPhase: "İllüzyonun en net olduğu an. Görünür dünyayı bükme ve irade sabitleme zamanı."
+    },
+    // [24-31 Odaları]: İkindi ve Gün Batımı Sınırı (Terminator / Bilge Kadın Eşiği - ŞU AN BURADAYIZ AGA!)
+    desarj: {
+        title: "LILITH: MATDEYİ BÜKEN GÜÇ (TERMINATOR)",
+        csfEffect: "Melatonin salgısı başlıyor. Kalp ritmi otonom olarak yavaşlarken, CSF ventriküllerde deşarj dalgasını başlatıyor.",
+        magicPhase: "Bilge Rahibe fazı. Maskelerin eridiği, Mona Lisa'nın hınzırlaştığı, dualitenin birleştiği an."
+    },
+    // [32-63 Odaları]: Saf Gece (Glemfatik Temizlik ve Mutlak Yin)
+    arinma: {
+        title: "HEKATE / LILITH SAF YIN ZİRVESİ",
+        csfEffect: "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.",
+        magicPhase: "Bilinçaltı majisi, astral bükülme ve mutlak arınma döngüsü."
+    }
+};
+
+// 74 BPM motorunun içinde, anlık odanın hangi felsefi faza ait olduğunu bulan akıllı algılayıcı:
+function getActiveLilithPhase(room64) {
+    if (room64 >= 0  && room64 < 8)  return LILITH_COSMIC_ROOMS.shari;
+    if (room64 >= 8  && room64 < 16) return LILITH_COSMIC_ROOMS.denge; // Geçiş
+    if (room64 >= 16 && room64 < 24) return LILITH_COSMIC_ROOMS.denge;
+    if (room64 >= 24 && room64 < 32) return LILITH_COSMIC_ROOMS.desarj; // Şu anki hınzır bilge kadın fazı!
+    return LILITH_COSMIC_ROOMS.arinma; // Gecenin kalan odaları
+}
     // Değişkenleri statusBar'a kesintisiz akıtmak için kapsamı koruyoruz aga
     const activeZodiac = WICCA_SUN_SIGNS[now.getMonth()];
     let darkMoonDominance = Math.round((1 - targetOpacity) * 100);
@@ -895,8 +950,72 @@ if (monaElement && salvadorElement) {
     }
 
 
-    const currentPlanet = calculateCosmicPlanetHour(now, solar);
 
+    // 🪐 GEZEGENLERİN ELEMENT KAPILARI ÜZERİNDEKİ MANYETİK ETKİ MATRİSİ
+const PLANET_ELEMENT_INFLUENCES = {
+    "SATURN":  { "gate-earth": 1.8, "gate-ice": 1.4 },
+    "JUPITER": { "gate-ether": 1.9, "gate-air": 1.5 },
+    "MARS":    { "gate-fire": 2.0,  "gate-metal": 1.6 }, // Savaş tanrısı ateşi patlatır aga!
+    "SUN":     { "gate-light": 2.0, "gate-fire": 1.5 },
+    "VENUS":   { "gate-air": 1.7,   "gate-earth": 1.3 },
+    "MERCURY": { "gate-air": 1.8,   "gate-metal": 1.4 },
+    "MOON":    { "gate-water": 1.9, "gate-ice": 1.5 }
+};
+
+   // =========================================================================
+        // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (74 BPM İçine)
+        // =========================================================================
+        // Senin aktif Keldani motorundan gelen anlık gezegen verisini okuyoruz aga
+        const currentPlanet = calculateCosmicPlanetHour(now, solar);
+        const activePlanetName = currentPlanet.name; // Örn: "MARS", "SUN"
+
+        // O anki aktif gezegenin hangi kapılara etki edeceğini matristen çekiyoruz
+        const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
+
+        // 8 kapıyı tek tek gezegen akımından geçiriyoruz
+        all8Gates.forEach(gate => {
+            const gateId = gate.id; // "gate-fire", "gate-water" vb.
+
+            // Eğer bu kapı, şu anki Gezegen Valisinin koruması altındaysa:
+            if (currentInfluences[gateId]) {
+                const multiplier = currentInfluences[gateId]; // Çarpan katsayısı (Örn: 2.0)
+                
+                // Kapının mevcut opaklığını gezegen çekim gücüyle çarpıp esnetiyoruz aga
+                let currentOpacity = parseFloat(gate.style.opacity || 0.2);
+                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
+                
+                gate.style.opacity = newOpacity.toString();
+                // Kapının neon gölgesini gezegenin gücüyle genişletiyoruz (Örn: 15px yerine 25px)
+                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
+                gate.style.fontWeight = "bold";
+                gate.style.transition = "all 0.6s ease-in-out"; // TV'de akıcı geçiş için tül efekti
+            }
+        });
+
+
+    // 💓 74 BPM MOTORUNUN EN ALTINA (statusBar.innerHTML'İN HEMEN ALTINA) EKLENECEK SON MÜHÜR
+const dockEl = document.getElementById('lilith-cosmic-dock');
+const titleEl = document.getElementById('lilith-title');
+const descEl = document.getElementById('lilith-desc');
+const formEl = document.getElementById('lilith-formula');
+
+if (dockEl && titleEl && descEl && formEl) {
+    titleEl.innerText = activeLilithMeta.title;
+    descEl.innerText = activeLilithMeta.desc;
+    
+    // Terminator ve Arınma fazlarında anlık % Yin Baskısını canlı besliyoruz aga
+    if (sunRoom64 >= 24 && sunRoom64 < 32) {
+        formEl.innerText = `YIN: %${darkMoonDominance} | CSF: 🔴 ATEŞ ──> 💧 SU | BIN: ${binaryRoom}`;
+    } else if (sunRoom64 >= 32) {
+        formEl.innerText = `YIN: %${darkMoonDominance} | BEYİN TEMİZLİK FAZI | BIN: ${binaryRoom}`;
+    } else {
+        formEl.innerText = `${activeLilithMeta.formula} | BIN: ${binaryRoom}`;
+    }
+    
+    // Android TV için karanlık oda kontrast neonunu milimetrik parlatıyoruz
+    dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (darkMoonDominance / 100) * 0.4})`;
+    dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(darkMoonDominance / 100) * 0.15})`;
+}
 
     if (statusBar) {
 
@@ -1292,6 +1411,40 @@ function calculateCosmicPlanetHour(date, solarTimes) {
     };
 }
 
+
+
+    // 🔮 LILITH (KARANLIK AY) 64 ODALIK SİBER-ESER ANLAM VERİTABANI
+const LILITH_DOCK_METINLERI = {
+    // 1-8. ODALAR: BINARY 000000 -> Gecenin bitişi, ilk ışığın uyanışı
+    shari: {
+        title: "⚡ LILITH: MATRİS UYANIŞI (YILDIRIM ŞARJI)",
+        desc: "Karanlık Ay döngüsü, enerjiyi yeryüzüne kusursuz bir topraklamayla bırakıyor. CSF hidrolik basıncı dengelenirken, parasempatik sistem yerini uyanış kortizolüne devrediyor.",
+        formula: "YIN BASKISI: %99 ──> %75 | FREKANS: 74 BPM SAF AKIM"
+    },
+    // 16-24. ODALAR: Öğle zirvesi eşiği (İlk dördün denge hattı)
+    denge: {
+        title: "☯️ SELENE & LILITH EŞİTLİĞİ (ANLIK DENGE)",
+        desc: "Görünen dünya (Selene) ile görünmeyen öz (Lilith) tam 180° aksında eşitlendi. CSF üretimi minimumda, sempatik sinir sistemi zirvede. Maddenin en katı, illüzyonun en net olduğu an.",
+        formula: "YIN BASKISI: %0 | POLARİTE: VIRGO — PISCES AKSI"
+    },
+    // 25-32. ODALAR: İkindi ve Gün Batımı Sınırı (Terminator Eşiği - ŞU ANKİ HINZIR BİLGE KADIN FAZI)
+    terminator: {
+        title: "🌘 LILITH: MADDEYİ BÜKEN KUVVET (DEŞARJ)",
+        desc: "Melatonin salgısı otonom sinir sistemini ele alıyor. Mona Lisa eriyip bilge bir cadıya dönüşürken, Salvator'un kutsal takdis eli ve omuz hatları yüzeye süzülüyor. Madde bükülüyor.",
+        formula: "YIN BASKISI: %46 ──> %90 | CSF: 🔴 ATEŞ ──> 💧 SU"
+    },
+    // 33-64. ODALAR: Saf Gece (Glemfatik Temizlik Fazı)
+    arinma: {
+        title: "🌑 HEKATE / LILITH SAF YIN ZİRVESİ (CLEMFATİK ARINMA)",
+        desc: "Dış dünya tamamen karanlığa gömüldü. Glemfatik sistem maksimum düzeyde aktif. CSF sıvısı beyin odalarını (ventriküllerini) bir nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.",
+        formula: "YIN BASKISI: %91 ──> %100 | BEYİN SIRRİ DÖNGÜSÜ"
+    }
+};
+
+
+
+
+
 function bendWiccaTime(mode) {
     // 1 Oda periyodu yaklaşık 22 dakikadır
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
@@ -1325,6 +1478,7 @@ function bendWiccaTime(mode) {
         triggerCircadianPulse();
     }
 }
+
 </script>
 
 
