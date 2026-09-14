@@ -107,17 +107,19 @@ body, html, h1, h2, h3, p, a, button, .btn {
         /* 
             .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }*/
 
-            .metatron-three-iframe-holder {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100vw;  /* Tam ekran genişlik */
-    height: 100vh; /* Tam ekran yükseklik */
-    z-index: 2;
-    pointer-events: none;
-}
-        .metatron-iframe { width: 100%; height: 100%; border: none; }
+   /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
+    .metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 55% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        width: 75vh !important;
+        height: 75vh !important;
+        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
+    }
+        
+    /*.metatron-iframe { width: 100%; height: 100%; border: none; }*/
 
 
         /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
@@ -202,6 +204,18 @@ body, html, h1, h2, h3, p, a, button, .btn {
         overflow: hidden !important;
     }
 
+       /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
+    .metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 55% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        width: 75vh !important;
+        height: 75vh !important;
+        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
+    }
+
     .salvador-image {
         width: 500px !important; 
          top: 40% !important;
@@ -236,6 +250,18 @@ body, html, h1, h2, h3, p, a, button, .btn {
     transform: translate(-50%, -50%) scale(0.7) !important;
     z-index: 1;
 }
+
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+.madonna-image {
+    position: absolute;
+    width: 500px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
+    height: auto !important;
+    top: 40% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) scale(0.7) !important;
+    z-index: 1;
+}
+
     /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
     .hero-content-layer {
         position: relative !important;
@@ -444,6 +470,7 @@ footer {
     <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff;">FUTURE ▶</button>
 </div>
 
+
 <script>
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 function bendWiccaTime(mode) {
@@ -473,6 +500,8 @@ function bendWiccaTime(mode) {
     <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☳</span> <span class="iching-binary">|::</span></div>
 </div>
 
+
+
 <!-- 🌌 MİSTİK KOZMİK DURUM MATRİSİ (Yazıları topladığımız alt veri barı) -->
 <div class="cosmic-status-bar" id="cosmic-status">
     INITIALIZING COSMIC MATRIX...
@@ -490,7 +519,7 @@ function bendWiccaTime(mode) {
         
         <!-- ☀️ GÜNDÜZ RESMİ: Wikipedia Orijinal Mona Lisa (Tam Salvator'un üzerine binen transparan tül!) -->
         <!-- transition: opacity 3.0s sayesinde acele etmeden, yavaş yavaş mesh olacak aga! -->
-        <img src="Mona_Lisa_with_original_colors_approximation.jpg" id="mesh-monalisa" alt="Mona Lisa Orijinal" style="
+        <img src="Mona_Lisa_with_original_colors_approximation.jpg" id="mesh-monalisa" class="madonna-image" alt="Mona Lisa Orijinal" style="
             position: absolute; 
             top: 0; 
             left: 0; 
