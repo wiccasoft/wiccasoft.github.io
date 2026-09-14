@@ -86,6 +86,23 @@ body, html, h1, h2, h3, p, a, button, .btn {
     margin-top: 0vh !important; /* İhtiyaca göre 12vh veya 15vh de yapabilirsin */
 }
 
+
+/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
+.madonna-image {
+    position: absolute;
+    width: 70% !important;
+    max-width: 380px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    height: auto !important;
+    top: 40% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    object-fit: contain;
+    z-index: 1;
+    opacity: 0.99 !important;
+    filter: brightness(1.1) !important;
+    mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: radial-gradient(ellipse 65% 75% at 50% 55%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+}
        /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ VE GENEL MERKEZLEME AYARI) */
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
@@ -251,16 +268,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     z-index: 1;
 }
 
-/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
-.madonna-image {
-    position: absolute;
-    width: 500px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
-    height: auto !important;
-    top: 40% !important;
-    left: 50% !important;
-    transform: translate(-50%, -50%) scale(0.7) !important;
-    z-index: 1;
-}
+
 
     /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
     .hero-content-layer {
