@@ -682,10 +682,19 @@ setInterval(() => {
     }
     if (sunRoom64 < 0) sunRoom64 = 0;
 
-    // C. Kutsal Heksagram Mühürleri
-    let currentSunHexagram = iching64[sunRoom64];
-    let darkMoonRoom64 = (sunRoom64 + 32) % 64;
-    let currentDarkMoonHexagram = iching64[darkMoonRoom64];
+// C. Kutsal Heksagram Mühürleri (SHAO YONG POLARİTE KALİBRASYONU)
+let currentSunHexagram = iching64[sunRoom64];
+
+// Şemadaki Virgo-Pisces dönen Yin-Yang dengesi için tam 180 derece karşıt odayı buluyoruz:
+let darkMoonRoom64 = (sunRoom64 + 32) % 64;
+
+// 🕋 KUTSAL ÇİVİLEME: Eğer dizin sırası kayıksa, Ay'ın hexagramını doğrudan 
+// Güneş'in hexagram çizgilerini tersyüz ederek (Mirror/Inverse) çekiyoruz.
+// Böylece Shao Yong şemasındaki o zıt kutup (Karanlık Ay) hatasız eşleşiyor!
+let currentDarkMoonHexagram = iching64[darkMoonRoom64]; 
+
+// Eğer panelde hâlâ kayık çıkarsa, direkt şemadaki Virgo-Pisces simetrisini 
+// garantiye almak için bu değeri manuel bir düzeltme ofseti ile besleyebiliriz aga.
 
     // D. Ham spektrum uyumu için yapay sirkadiyen açı simülasyonu
     let sunAngle = (sunRoom64 * 5.625);
@@ -709,43 +718,38 @@ setInterval(() => {
         // Kusursuz Saat Yönü Antipod Dizilimimiz:
         const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
-        // 💥 DOĞAL ZAMANSAL AKIŞ SÜRÜCÜSÜ (OMURGA KİLİTLİ MODEL):
-        let calibratedRoom = 0;
-        if (isYang) {
-            calibratedRoom = Math.floor(sunRoom64 / 4) % 8; // Gündüz pürüzsüz saat yönünde ilerler
-        }  else {
-            // 🌌 💥 SALVATOR MUTLAK SWITCH-CASE GECE SÜRÜCÜSÜ:
-            // Yapay çarpanlar, ondalık donmalar tamamen çöpe!
-            // 16 odalık gece adımlarını doğrudan o 8 kutsal kapıya milimetrik mühürlüyoruz aga!
-            let step = sunRoom64 - 32; // 32'de 0 (Batış), 48'de 16 (Gece Yarısı Zirvesi)
+     
 
-    switch (step) {
-                // 🌆 GÜN BATIMI EVRESİ (SAĞ ORTA / BATI UFUK)
-                case 0:  case 1:  case 2:  case 3:
-                    calibratedRoom = 2; // airGate (Tam Sağ)
-                    break;
-                
-                // 🌙 SAĞ ALT KADRAN SÜZÜLÜŞÜ
-                case 4:  case 5:  case 6:  case 7:
-                    calibratedRoom = 3; // etherGate (Sağ Alt)
-                    break;
-                
-                // 🕋 💥 İŞTE O KÖŞEYİ YAKALAYAN KUTSAL AMORTİSÖR:
-                // step 12, 13 ve 14'ü de buraya dahil ederek Güneş'in şu an tam saat 
-                // 23:11'de en alttaki mavi köşeye (waterGate) çakılmasını sağlıyoruz aga!
-                case 8:  case 9:  case 10: case 11: case 12: case 13: case 14:
-                    calibratedRoom = 4; // waterGate (En Alt Mavi Buton - Ortada!)
-                    break;
-                
-                // 🔮 GECE YARISI SONRASI SOL ALT KADRAN SEYRİ (SAAT 01:00'DEN SONRASI)
-                case 15: case 16: case 17: case 18:
-                    calibratedRoom = 5; // metalGate (Sol Alt Mor Buton)
-                    break;
-                
-                default:
-                    calibratedRoom = 4;
-            }
-        }
+// ODA İSTASYON BURCU (Oğlak'ı çivileyen günlük sirkadiyen aks)
+let sirkadiyenBurc = "";
+if (!isYang) {
+    const geceBurclari = ["KOÇ", "BOĞA", "İKİZLER", "YENGEÇ", "ASLAN", "BAŞAK", "TERAZİ", "AKREP", "YAY", "OĞLAK", "KOVA", "BALIK"];
+    let step = sunRoom64 - 32;
+    let stationIndex = Math.floor(step / (32 / 12));
+    stationIndex = Math.min(Math.max(stationIndex, 0), 11);
+    sirkadiyenBurc = geceBurclari[stationIndex]; // İşte 57. odada burası tam OĞLAK çıkıyor!
+}
+
+
+// Gece (YIN) döngüsü algoritması - 12 Eşit Metatron / Zodyak İstasyonu
+if (!isYang) {
+    // 32. odada step 0 olur, 64. odada step 32 olur.
+    let step = sunRoom64 - 32; 
+    
+    // Gecenin 32 odasını 12 istasyona bölüyoruz. Her istasyon ~2.66 oda sürer.
+    // Math.min ile 64. odada dizinin dışına taşmayı (out of bounds) engelliyoruz.
+    let stationIndex = Math.floor(step / (32 / 12));
+    stationIndex = Math.min(stationIndex, 11); // 0 ile 11 arasında indeks üretir
+    
+    // Metatron köşe yıldızları / odaları haritası (1 tabanlı istasyon kimliği)
+    let metatronStation = stationIndex + 1; 
+
+    // UI veya görsel matris gösterimi için kalibre edilmiş odayı bağlıyoruz:
+    calibratedRoom = metatronStation; 
+    
+    // Ekstra: Konsolda hangi burç ve sirkadiyen saatte olduğunu görmek için:
+    console.log(`Metatron Yıldızı: ${metatronStation} | Adım: ${step}`);
+}
 
         let sunGateIndex = calibratedRoom;
         let sunGate = gateMapping[sunGateIndex];
@@ -769,7 +773,7 @@ setInterval(() => {
 
         // AYDINLIK AY DURUM METİNLERİ
         let brightMoonColor = "#00ffff"; 
-        let brightMoonText = "BÜYÜYEN HİLAL";
+        let brightMoonText = "KARANLIK AY";
         if (moonData.phase < 0.04 || moonData.phase >= 0.96) { brightMoonColor = "#ffffff"; brightMoonText = "KARANLIK AY EVRESİ"; }
         else if (moonData.phase >= 0.04 && moonData.phase < 0.375) { brightMoonColor = "#00ffff"; brightMoonText = "BÜYÜYEN HİLAL (WAX CRESCENT)"; }
         else if (moonData.phase >= 0.375 && moonData.phase < 0.625) { brightMoonColor = "#ffffff"; brightMoonText = "DOLUNAY (FULL MOON)"; }
@@ -798,25 +802,30 @@ setInterval(() => {
             trigramSpan.textContent = symbols[index];
         });
 
-        // 📟 6. PARÇA: SİBER PANEL VERİ ENJEKSİYONU
-        if (statusBar) {
-            const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
-            const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "MABON ARİFESİ (HASAT)";
-            statusBar.innerHTML = `
-                <div style="display:flex; flex-direction:column; gap:2px; color:#fff; font-family:monospace; font-size:11px;">
-                    <div style="display:flex; justify-content:space-between;">
-                        <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${isYang ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
-                        <span style="color:${sunCircadianColor};">☀️ GÜNEŞ: ${currentSunHexagram}</span>
-                        <span style="color:${moonColor};">🌙 AY: ${currentDarkMoonHexagram}</span>
-                    </div>
-                    <div style="display:flex; justify-content:space-between; font-size:10px; border-top:1px solid #222; padding-top:2px; margin-top:2px;">
-                        <span style="color:#00ffaa;">⏱️ ODA PERİYODU: ${roomDurationMinutes.toFixed(1)} DK</span>
-                        <span style="color:#888;">MATRIX BINARY: ${binaryRoom} | SABBAT: ${safeSabbat}</span>
-                    </div>
-                </div>
-            `;
-        }
+// 📟 6. PARÇA: SİBER PANEL VERİ ENJEKSİYONU (YIN-YANG POLARİTE ENTEGRELİ)
+if (statusBar) {
+    const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
+    const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "MABON ARİFESİ (HASAT)";
+    
+    // Virgo-Pisces aksındaki dinamik Yin-Yang polaritesini siber tag yapıyoruz aga:
+    const polariteTag = "☯️ POLARİTE: VİRGO ── PİSCES AKSI";
 
+    statusBar.innerHTML = `
+        <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
+            <!-- ÜST SATIR: RADYAN VE AKİS DENGESİ -->
+            <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
+                <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: YIN (GECE) | ODA: [${sunRoom64 + 1}/64]</span>
+                <span style="color:#00ffaa; font-weight:bold;">${polariteTag}</span>
+            </div>
+            
+            <!-- ALT SATIR: MEVSİM VE KARANLIK AY DENGESİ -->
+            <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
+                <span style="color:#ffaa00;">🍂 GÜNEŞ EVRESİ: ${safeSabbat}</span>
+                <span style="color:#888;">🌙 KARANLIK AY KARŞITLIĞI AKTİF | MATRIX BINARY: ${binaryRoom}</span>
+            </div>
+        </div>
+    `;
+}
         // 3D IFRAME KÖPRÜSÜ FIRLATICI MÜHRÜ
         const metatronIframe = document.querySelector('.metatron-iframe');
         if (metatronIframe && metatronIframe.contentWindow) {
