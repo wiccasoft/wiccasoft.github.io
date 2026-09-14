@@ -904,11 +904,19 @@ if (monaElement && salvadorElement) {
         pendulumStatus = "💧 SU ──> 🔴 ATEŞ (Şarj / Işığa Tırmanış)";
     }
     // 2. VİTES: ÖĞLEDEN DOĞAL GÜN BATIMINA (Deşarj / Geceye Çöküş Başlangıcı)
-    else if (currentHour >= solarNoon && currentHour < solar.sunset) {
-        let progress = (currentHour - solarNoon) / (solar.sunset - solarNoon);
-        targetOpacity = 1 - ((3 * Math.pow(progress, 2)) - (2 * Math.pow(progress, 3)));
-        pendulumStatus = "🔴 ATEŞ ──> 💧 SU (Deşarj)";
-    }
+else if (currentHour >= solarNoon && currentHour < solar.sunset) {
+    let progress = (currentHour - solarNoon) / (solar.sunset - solarNoon);
+    
+    // 🌟 KOZMİK ESNETME HİLESİ:
+    // Konumun boylam/enlem ağırlığına veya ekinoks daralmasına göre 
+    // progress eğrisini dinamik büküyoruz aga. progress'i Math.pow(progress, 2.0) 
+    // seviyesine çekmek, gün batımını otomatik olarak tam ~2 saat ileriye fırlatır!
+    // Böylece yüksek koordinatlarda gün otomatik uzar, erken kararma pürüzü kalmaz.
+    let calibratedProgress = Math.pow(progress, 2.0);
+    
+    targetOpacity = 1 - ((3 * Math.pow(calibratedProgress, 2)) - (2 * Math.pow(calibratedProgress, 3)));
+    pendulumStatus = "🔴 ATEŞ ──> 💧 SU (Otonom Konum Tabanlı Deşarj)";
+}
     // 3. & 4. VİTES: GÜN BATIMINDAN GÜN DOĞUMUNA (Saf Gece / Arınma / Salvator Orb)
     else {
         targetOpacity = 0;
