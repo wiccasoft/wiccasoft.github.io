@@ -606,6 +606,45 @@ function bendWiccaTime(mode) {
 
 
     <script>
+
+
+
+    // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
+const LILITH_COSMIC_ROOMS = {
+    // [0-7 Odaları]: Gecenin bitişi, ilk ışığın uyanışı (Yıldırım Şarjı)
+    shari: {
+        title: "LILITH: REAKTOR UYANIŞI",
+        csfEffect: "CSF basıncı dengeleniyor. Parasempatik sistem, sempatik uyanışa (gündüz kortizolüne) görevi devrediyor.",
+        magicPhase: "Niyet sabitleme ve saf enerjiyi topraklama fazı."
+    },
+    // [16-23 Odaları]: Öğle zirvesi eşiği (İlk dördün denge hattı)
+    denge: {
+        title: "SELENE/LILITH EŞİTLİĞİ",
+        csfEffect: "CSF üretimi minimumda. Sempatik sinir sistemi (Aktivite/Yang) zirvede, madde dış formunda katılaşmış.",
+        magicPhase: "İllüzyonun en net olduğu an. Görünür dünyayı bükme ve irade sabitleme zamanı."
+    },
+    // [24-31 Odaları]: İkindi ve Gün Batımı Sınırı (Terminator / Bilge Kadın Eşiği - ŞU AN BURADAYIZ AGA!)
+    desarj: {
+        title: "LILITH: MATDEYİ BÜKEN GÜÇ (TERMINATOR)",
+        csfEffect: "Melatonin salgısı başlıyor. Kalp ritmi otonom olarak yavaşlarken, CSF ventriküllerde deşarj dalgasını başlatıyor.",
+        magicPhase: "Bilge Rahibe fazı. Maskelerin eridiği, Mona Lisa'nın hınzırlaştığı, dualitenin birleştiği an."
+    },
+    // [32-63 Odaları]: Saf Gece (Glemfatik Temizlik ve Mutlak Yin)
+    arinma: {
+        title: "HEKATE / LILITH SAF YIN ZİRVESİ",
+        csfEffect: "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.",
+        magicPhase: "Bilinçaltı majisi, astral bükülme ve mutlak arınma döngüsü."
+    }
+};
+
+// 74 BPM motorunun içinde, anlık odanın hangi felsefi faza ait olduğunu bulan akıllı algılayıcı:
+function getActiveLilithPhase(room64) {
+    if (room64 >= 0  && room64 < 8)  return LILITH_COSMIC_ROOMS.shari;
+    if (room64 >= 8  && room64 < 16) return LILITH_COSMIC_ROOMS.denge; // Geçiş
+    if (room64 >= 16 && room64 < 24) return LILITH_COSMIC_ROOMS.denge;
+    if (room64 >= 24 && room64 < 32) return LILITH_COSMIC_ROOMS.desarj; // Şu anki hınzır bilge kadın fazı!
+    return LILITH_COSMIC_ROOMS.arinma; // Gecenin kalan odaları
+}
 // GERÇEK SAATİ BOZMADAN SADECE SİRKADİYEN MOTORU BÜKEN SÜRÜCÜ:
 let wiccaTimeOffsetMinutes = 0;
 
@@ -893,42 +932,7 @@ function getActiveLilithMeta(room64) {
     return LILITH_DOCK_METINLERI.arinma; // Saf gece temizliği
 }
 
-    // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
-const LILITH_COSMIC_ROOMS = {
-    // [0-7 Odaları]: Gecenin bitişi, ilk ışığın uyanışı (Yıldırım Şarjı)
-    shari: {
-        title: "LILITH: REAKTOR UYANIŞI",
-        csfEffect: "CSF basıncı dengeleniyor. Parasempatik sistem, sempatik uyanışa (gündüz kortizolüne) görevi devrediyor.",
-        magicPhase: "Niyet sabitleme ve saf enerjiyi topraklama fazı."
-    },
-    // [16-23 Odaları]: Öğle zirvesi eşiği (İlk dördün denge hattı)
-    denge: {
-        title: "SELENE/LILITH EŞİTLİĞİ",
-        csfEffect: "CSF üretimi minimumda. Sempatik sinir sistemi (Aktivite/Yang) zirvede, madde dış formunda katılaşmış.",
-        magicPhase: "İllüzyonun en net olduğu an. Görünür dünyayı bükme ve irade sabitleme zamanı."
-    },
-    // [24-31 Odaları]: İkindi ve Gün Batımı Sınırı (Terminator / Bilge Kadın Eşiği - ŞU AN BURADAYIZ AGA!)
-    desarj: {
-        title: "LILITH: MATDEYİ BÜKEN GÜÇ (TERMINATOR)",
-        csfEffect: "Melatonin salgısı başlıyor. Kalp ritmi otonom olarak yavaşlarken, CSF ventriküllerde deşarj dalgasını başlatıyor.",
-        magicPhase: "Bilge Rahibe fazı. Maskelerin eridiği, Mona Lisa'nın hınzırlaştığı, dualitenin birleştiği an."
-    },
-    // [32-63 Odaları]: Saf Gece (Glemfatik Temizlik ve Mutlak Yin)
-    arinma: {
-        title: "HEKATE / LILITH SAF YIN ZİRVESİ",
-        csfEffect: "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.",
-        magicPhase: "Bilinçaltı majisi, astral bükülme ve mutlak arınma döngüsü."
-    }
-};
 
-// 74 BPM motorunun içinde, anlık odanın hangi felsefi faza ait olduğunu bulan akıllı algılayıcı:
-function getActiveLilithPhase(room64) {
-    if (room64 >= 0  && room64 < 8)  return LILITH_COSMIC_ROOMS.shari;
-    if (room64 >= 8  && room64 < 16) return LILITH_COSMIC_ROOMS.denge; // Geçiş
-    if (room64 >= 16 && room64 < 24) return LILITH_COSMIC_ROOMS.denge;
-    if (room64 >= 24 && room64 < 32) return LILITH_COSMIC_ROOMS.desarj; // Şu anki hınzır bilge kadın fazı!
-    return LILITH_COSMIC_ROOMS.arinma; // Gecenin kalan odaları
-}
     // Değişkenleri statusBar'a kesintisiz akıtmak için kapsamı koruyoruz aga
     const activeZodiac = WICCA_SUN_SIGNS[now.getMonth()];
     let darkMoonDominance = Math.round((1 - targetOpacity) * 100);
@@ -993,29 +997,7 @@ const PLANET_ELEMENT_INFLUENCES = {
         });
 
 
-    // 💓 74 BPM MOTORUNUN EN ALTINA (statusBar.innerHTML'İN HEMEN ALTINA) EKLENECEK SON MÜHÜR
-const dockEl = document.getElementById('lilith-cosmic-dock');
-const titleEl = document.getElementById('lilith-title');
-const descEl = document.getElementById('lilith-desc');
-const formEl = document.getElementById('lilith-formula');
 
-if (dockEl && titleEl && descEl && formEl) {
-    titleEl.innerText = activeLilithMeta.title;
-    descEl.innerText = activeLilithMeta.desc;
-    
-    // Terminator ve Arınma fazlarında anlık % Yin Baskısını canlı besliyoruz aga
-    if (sunRoom64 >= 24 && sunRoom64 < 32) {
-        formEl.innerText = `YIN: %${darkMoonDominance} | CSF: 🔴 ATEŞ ──> 💧 SU | BIN: ${binaryRoom}`;
-    } else if (sunRoom64 >= 32) {
-        formEl.innerText = `YIN: %${darkMoonDominance} | BEYİN TEMİZLİK FAZI | BIN: ${binaryRoom}`;
-    } else {
-        formEl.innerText = `${activeLilithMeta.formula} | BIN: ${binaryRoom}`;
-    }
-    
-    // Android TV için karanlık oda kontrast neonunu milimetrik parlatıyoruz
-    dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (darkMoonDominance / 100) * 0.4})`;
-    dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(darkMoonDominance / 100) * 0.15})`;
-}
 
     if (statusBar) {
 
@@ -1037,6 +1019,27 @@ statusBar.innerHTML = `
         `;
     }
 
+
+      // 🌟 74 BPM MOTORU EN ALTINDA SADECE BU DİNAMİK BANT TETİKLENECEK AGA:
+        const activeLilithMeta = getActiveLilithPhase(sunRoom64);
+
+        const dockEl = document.getElementById('lilith-cosmic-dock');
+        const titleEl = document.getElementById('lilith-title');
+        const descEl = document.getElementById('lilith-desc');
+        const formEl = document.getElementById('lilith-formula');
+
+        if (dockEl && titleEl && descEl && formEl) {
+            titleEl.innerText = activeLilithMeta.title;
+            // TV'de kullanıcının felsefi derinliği ve CSF etkisini birlikte okuyacağı asil birleşim:
+            descEl.innerText = `${activeLilithMeta.csfEffect} | MAJİKAL FAZ: ${activeLilithMeta.magicPhase}`;
+            
+            // Astro-Seek tarzı canlı sayaç formülü
+            formEl.innerText = `YIN: %${darkMoonDominance} | BINARY: ${binaryRoom} | VİTES: [${sunRoom64 + 1}/64]`;
+            
+            // TV karanlık oda kontrast neon parlaması
+            dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (darkMoonDominance / 100) * 0.4})`;
+            dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(darkMoonDominance / 100) * 0.15})`;
+        }
     
 } // <-- if (monaElement && salvadorElement) ana kilidinin tam burası kapanış yeri aga!
 
