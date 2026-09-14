@@ -851,6 +851,14 @@ let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
 const monaElement = document.getElementById('mesh-monalisa');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image');
 
+ // 🌟 GÜNEŞ AKSI VE LILITH POLARİTE SÜRÜCÜSÜ
+    //const currentMonthIndex = now.getMonth(); 
+    //const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
+    
+    // Mona Lisa'nın sarkaçtan gelen opaklığını okuyup, ters orantıyla Lilith'in % Yin baskısını buluyoruz
+    let currentMonaOpacity = parseFloat(monaElement?.style.opacity || 0);
+    //let darkMoonDominance = Math.round((1 - currentMonaOpacity) * 100);
+    
 if (monaElement && salvadorElement) {
     const currentHour = now.getHours() + (now.getMinutes() / 60);
     
@@ -966,39 +974,50 @@ statusBar.innerHTML = `
         `;
     }
 
+    
 
-    // 74 BPM motorunun içinde, o anki sunRoom64'e göre doğru metni çeken akıllı vites:
-function getActiveLilithMeta(room64) {
-    if (room64 >= 0  && room64 < 8)   return LILITH_DOCK_METINLERI.shari;
-    if (room64 >= 8  && room64 < 24)  return LILITH_DOCK_METINLERI.denge;
-    if (room64 >= 24 && room64 < 32)  return LILITH_DOCK_METINLERI.terminator; // Şu anki hınzır bilge kadın
-    return LILITH_DOCK_METINLERI.arinma; // Saf gece temizliği
+// =========================================================================
+// 🌙 74 BPM MOTORU ALTINDAKİ LILITH FELSEFİ METİN DOCK SÜRÜCÜSÜ
+// =========================================================================
+// Global alandaki getActiveLilithPhase vitesinden anlık oda metnini çekiyoruz aga
+const activeLilithMeta = getActiveLilithPhase(sunRoom64);
+
+const dockEl = document.getElementById('lilith-cosmic-dock');
+const titleEl = document.getElementById('lilith-title');
+const descEl = document.getElementById('lilith-desc');
+const formEl = document.getElementById('lilith-formula');
+
+if (dockEl && titleEl && descEl && formEl) {
+    // Kapsam hatasını çözmek için binaryRoom şifresini burada yeniden güvenle üretiyoruz aga
+    const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
+    
+    titleEl.innerText = activeLilithMeta.title;
+    // TV ekranında kullanıcının otonom CSF etkisini ve majikal fazı okuyacağı asil birleşim:
+    descEl.innerText = `${activeLilithMeta.csfEffect} | MAJİKAL EŞİK: ${activeLilithMeta.magicPhase}`;
+    
+    // Astro-Seek keskinliğinde anlık sayaç indikatörü
+    formEl.innerText = `YIN: %${darkMoonDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64 + 1}/64]`;
+    
+    // Android TV karanlık oda parlaması kütleçekim katsayısı
+    dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (darkMoonDominance / 100) * 0.4})`;
+    dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(darkMoonDominance / 100) * 0.15})`;
 }
 
-      // 🌟 74 BPM MOTORU EN ALTINDA SADECE BU DİNAMİK BANT TETİKLENECEK AGA:
-        const activeLilithMeta = getActiveLilithPhase(sunRoom64);
+} // <-- if (monaElement && salvadorElement) ana gövdesinin KUTSAL VE GERÇEK KAPANIŞ PARANTEZİ BURASI AGA!
 
-        const dockEl = document.getElementById('lilith-cosmic-dock');
-        const titleEl = document.getElementById('lilith-title');
-        const descEl = document.getElementById('lilith-desc');
-        const formEl = document.getElementById('lilith-formula');
-
-        if (dockEl && titleEl && descEl && formEl) {
-            titleEl.innerText = activeLilithMeta.title;
-            // TV'de kullanıcının felsefi derinliği ve CSF etkisini birlikte okuyacağı asil birleşim:
-            descEl.innerText = `${activeLilithMeta.csfEffect} | MAJİKAL FAZ: ${activeLilithMeta.magicPhase}`;
-            
-            // Astro-Seek tarzı canlı sayaç formülü
-            formEl.innerText = `YIN: %${darkMoonDominance} | BINARY: ${binaryRoom} | VİTES: [${sunRoom64 + 1}/64]`;
-            
-            // TV karanlık oda kontrast neon parlaması
-            dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (darkMoonDominance / 100) * 0.4})`;
-            dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(darkMoonDominance / 100) * 0.15})`;
-        }
-    
-} // <-- if (monaElement && salvadorElement) ana kilidinin tam burası kapanış yeri aga!
-
+// 🛸 METATRON 3D ÇEKİRDEK POSTMESSAGE KÖPRÜSÜ (DÖNGÜ DIŞINA ALINMIŞ EŞLEME)
 const metatronIframe = document.querySelector('.metatron-iframe');
+if (metatronIframe && metatronIframe.contentWindow) {
+    let dynamicMoonColor = targetOpacity < 0.15 ? "#dfdfdf" : "#00ffff"; 
+    
+    metatronIframe.contentWindow.postMessage({
+        type: 'WICCA_LINEAR_SYNC',
+        room: sunRoom64 + 1,
+        sunAngle: sunAngle,
+        sunColor: sunCircadianColor, 
+        moonColor: dynamicMoonColor  
+    }, '*');
+}
 
 if (metatronIframe && metatronIframe.contentWindow) {
     let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
@@ -1450,7 +1469,21 @@ const LILITH_DOCK_METINLERI = {
 };
 
 
-
+/* 🔮 GLOBAL ALAN: BATI EZOTERİZMİ GÜNEŞ BURÇLARI VE KARŞIT POLARİTE MATRİSİ
+const WICCA_SUN_SIGNS = [
+    { name: "CAPRICORN", icon: "♑", polarity: "CAPRICORN — CANCER AKSI" },   // 0: Ocak
+    { name: "AQUARIUS",  icon: "♒", polarity: "AQUARIUS — LEO AKSI" },      // 1: Şubat
+    { name: "PISCES",    icon: "♓", polarity: "PISCES — VIRGO AKSI" },      // 2: Mart
+    { name: "ARIES",     icon: "♈", polarity: "ARIES — LIBRA AKSI" },       // 3: Nisan
+    { name: "TAURUS",    icon: "♉", polarity: "TAURUS — SCORPIO AKSI" },    // 4: Mayıs
+    { name: "GEMINI",    icon: "♊", polarity: "GEMINI — SAGITTARIUS AKSI" },// 5: Haziran
+    { name: "CANCER",    icon: "♋", polarity: "CANCER — CAPRICORN AKSI" },  // 6: Temmuz
+    { name: "LEO",       icon: "♌", polarity: "LEO — AQUARIUS AKSI" },      // 7: Ağustos
+    { name: "VIRGO",     icon: "♍", polarity: "VIRGO — PISCES AKSI" },      // 8: Eylül (Şu an hasat arifesindeyiz aga!)
+    { name: "LIBRA",     icon: "♎", polarity: "LIBRA — ARIES AKSI" },       // 9: Ekim
+    { name: "SCORPIO",   icon: "♏", polarity: "SCORPIO — TAURUS AKSI" },    // 10: Kasım
+    { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI AKSI" } // 11: Aralık
+];*/
 
 
 function bendWiccaTime(mode) {
