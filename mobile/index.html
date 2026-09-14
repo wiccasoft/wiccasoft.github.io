@@ -482,14 +482,31 @@ function bendWiccaTime(mode) {
 <main class="main-viewport">
     
 
-    <div class="art-core-container">
-        <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" />
-        <div class="metatron-three-iframe-holder">
-            <iframe src="./metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true"></iframe>
+ <!-- 🎭 DA VINCI KUANTUM MESH MERKEZİ -->
+    <div class="art-core-container" style="position: relative; overflow: hidden;">
+        
+        <!-- 💧 GECE RESMİ: Salvator Mundi (En altta sabit duruyor aga) -->
+        <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" style="display: block; width: 100%; height: auto;" />
+        
+        <!-- ☀️ GÜNDÜZ RESMİ: Wikipedia Orijinal Mona Lisa (Tam Salvator'un üzerine binen transparan tül!) -->
+        <!-- transition: opacity 3.0s sayesinde acele etmeden, yavaş yavaş mesh olacak aga! -->
+        <img src="Mona_Lisa_with_original_colors_approximation.jpg" id="mesh-monalisa" alt="Mona Lisa Orijinal" style="
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            object-fit: cover; 
+            z-index: 1; 
+            opacity: 0; 
+            transition: opacity 3.0s ease-in-out;
+        " />
+
+        <!-- 🌌 KOZMİK MERKEZ: 3D Metatron Küresi (Her iki resmin de en tepesinde parlayacak) -->
+        <div class="metatron-three-iframe-holder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
+            <iframe src="./metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>
         </div>
     </div>
-
-    <div class="cyber-dark-overlay"></div>
 
 </main>
 
@@ -675,7 +692,7 @@ setInterval(() => {
     else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } 
     else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; }
 
-    // D. DOM Element Kontrolü ve 8 Kapı / Zodyak Eşlemesi
+  // D. DOM Element Kontrolü ve 8 Kapı / Zodyak Eşlemesi (TAM DİNAMİK MODEL)
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         all8Gates.forEach(gate => {
@@ -684,25 +701,32 @@ setInterval(() => {
             gate.style.boxShadow = "none";
         });
 
+             // =========================================================================
+        // ♾️ THE NEVERENDING STORY (AURYN LOOP SÜRÜCÜSÜ)
+        // =========================================================================
         const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
-        let sirkadiyenButonIndex = 0;
-        let calibratedRoom = 0;
+        
+        // 64 odanın tamamını 8'li çarka tam modüler (yılanın kuyruğunu ısırması gibi) bağlıyoruz.
+        // +7 offset katsayımız sayesinde sistem 64'ten 1'e (BINARY 000000'a) fırladığı an 
+        // Döngü kırılmaz; tam o Rodin girdabındaki (1-2-4-8-7-5) pürüzsüz dairesel akışla 
+        // bir sonraki YANG sabahına süzülerek geçer aga! Sıfır takılma, sıfır lag!
+        let sirkadiyenButonIndex = (Math.floor(sunRoom64 / 8) + 7) % 8;
 
-        if (!isYang) {
-            let step = sunRoom64 - 32;
-            let stationIndexGece = Math.floor(step / (32 / 12));
-            stationIndexGece = Math.min(stationIndexGece, 11);
-            sirkadiyenButonIndex = Math.floor(stationIndexGece * (8 / 12)) % 8;
-            calibratedRoom = stationIndexGece + 1;
-        } else {
-            calibratedRoom = Math.floor(sunRoom64 / 4) % 8;
-            sirkadiyenButonIndex = calibratedRoom;
-        }
-
+        let calibratedRoom = (Math.floor(sunRoom64 / 8) + 1);
         let sunGate = gateMapping[sirkadiyenButonIndex];
         let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
         const moonData = getMoonPhase(now.getFullYear(), now.getMonth(), now.getDate());
 
+        // ⚡ YILDIRIM ŞARJ VANASI: [1/64] Odasında (BINARY: 000000) Saf Işık Tetiklenmesi
+ if (sunRoom64 === 0) {
+            all8Gates.forEach(gate => {
+                if (gate === sunGate) return;
+                gate.style.opacity = "0.35";
+                gate.style.filter = "drop-shadow(0 0 12px #7a00ff)";
+                gate.style.transition = "all 0.3s ease-in-out";
+            });
+        }
+        
         if (sunGate) { 
             sunGate.style.color = sunCircadianColor; 
             sunGate.style.opacity = "1.0"; 
@@ -715,6 +739,7 @@ setInterval(() => {
             moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
     }
+
 
     if (statusBar) {
         const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
@@ -746,6 +771,9 @@ setInterval(() => {
         }, '*');
     }
 }, pulseInterval);
+
+
+
 function getDynamicSabbat(sunSign) {
     const now = new Date();
     const month = now.getMonth() + 1; // JS'de aylar 0-11 arasıdır
