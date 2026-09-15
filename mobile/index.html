@@ -1072,6 +1072,8 @@ if (monaElement && salvadorElement) {
         }
     }
 } // <-- if (monaElement && salvadorElement) ana gövdesinin bittiği KUTSAL KAPANIŞ PARANTEZİ BURASI AGA!
+
+
     // 🛡️ REDECLARATION SAVUNMA KALKANI (SIFIR HATA)
     // Başlarındaki "const" ve "let" kelimelerini çöpe attık aga! 
     // Böylece var olan hücreleri doğrudan güncelliyoruz, çakışma riski sıfır:
@@ -1157,6 +1159,9 @@ if (typeof targetOpacity === 'undefined') {
     var targetOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
 }
 
+// =========================================================================
+// 🔮 LILITH & PENDULUM SİBER-MEDİKAL BİRLEŞİK ENJEKSİYON MOTORU
+// =========================================================================
 if (dockEl && titleEl && descEl && formEl) {
     const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
     
@@ -1166,13 +1171,21 @@ if (dockEl && titleEl && descEl && formEl) {
     // Kütleçekim gücüne bakarak anlık kutbu (Gündüz mü Gece mi) tayin ediyoruz aga:
     let sunPullCheck = Math.round(targetOpacity * 100);
     let lilithPullCheck = Math.round((1 - targetOpacity) * 100);
+ // =========================================================================
+    // 🔮 LILITH'I SARKACIN VE GÜN DURUMUNUN İÇİNE SIZDIRMA (BÜKÜM — %100 DİNAMİK)
+    // =========================================================================
+    // Statik "VIRGO" ve "SATURN" uydurmaları çöpe! Sistem tamamen anlık çalışma durumuna (State) kilitleniyor aga:
+    let currentZodiacName = (activeZodiac && activeZodiac.name) ? activeZodiac.name : "COSMIC_AXIS_PENDING";
+    let currentGovernorName = (currentGovernor && currentGovernor.name) ? currentGovernor.name : "GOVERNOR_CALIBRATING";
 
     if (sunPullCheck > lilithPullCheck) {
         // ☀️ GÜNDÜZ FAZI: MONA LISA / SELENE YANG EGEMENLİĞİ
-        titleEl.innerText = "⚡ SELENE: MATRİS AKTİF (YANG DISCHARGE)";
+        titleEl.innerText = `⚡ SELENE: ${dayStg || "MATRİS AKTİF (YANG DISCHARGE)"}`;
         titleEl.style.color = "#ffaa00"; 
-        descEl.innerText = "Sempatik sinir sistemi devrede. Kortizol ve metabolik dalga uyanışı başladı. Kalp, taze Yang kanını sistolik girdaplarla (Double Vortex) beden tapınağına fırlatıyor.";
-        if (loadingTextEl) {
+        
+        descEl.innerText = `[${pendulumStatus || "YANG SHARJI"}] | Sempatik sinir sistemi devrede. Kortizol ve metabolik dalga uyanışı başladı. Kalp, taze Yang kanını sistolik girdaplarla (Double Vortex) beden tapınağına fırlatıyor. Current Zodiac Gate: ${currentZodiacName}.`;
+        
+        if (typeof loadingTextEl !== 'undefined' && loadingTextEl) {
             loadingTextEl.innerText = "MONA LISA: MATRİS REZONANSTA...";
             loadingTextEl.style.color = "#ffaa00";
         }
@@ -1180,23 +1193,104 @@ if (dockEl && titleEl && descEl && formEl) {
         dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(255, 170, 0, ${(sunPullCheck / 100) * 0.15})`;
     } else {
         // 🌙 GECE FAZI: LILITH / HEKATE YIN EGEMENLİĞİ
-        titleEl.innerText = activeLilithMeta.title || "🌑 LILITH: MATRİS YÜKLENİYOR (YIN CHARGE)";
+        titleEl.innerText = `🔮 [LILITHE]: ${dayStg || "MATRİS YÜKLENİYOR (YIN CHARGE)"}`;
         titleEl.style.color = "#00ffaa"; 
-        descEl.innerText = `${activeLilithMeta.csfEffect || "Kozmik sarkaç verileri taranıyor"} | MAJİKAL EŞİK: ${activeLilithMeta.magicPhase || "Yin Akışı"}`;
-        if (loadingTextEl) {
+
+        
+        
+        let csfEffect = (typeof activeLilithMeta !== 'undefined' && activeLilithMeta.csfEffect) ? activeLilithMeta.csfEffect : "Kozmik sarkaç verileri taranıyor";
+        let magicPhase = (typeof activeLilithMeta !== 'undefined' && activeLilithMeta.magicPhase) ? activeLilithMeta.magicPhase : "Yin Akışı";
+        
+        descEl.innerText = `[${pendulumStatus || "YIN DEŞARJI"}] | ${csfEffect} | MAJİKAL EŞİK: ${magicPhase} | Matrix Governor: ${currentGovernorName}`;
+        
+        if (typeof loadingTextEl !== 'undefined' && loadingTextEl) {
             loadingTextEl.innerText = "LILITH: MATRİS YÜKLENİYOR...";
             loadingTextEl.style.color = "#00ffaa";
         }
         dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (safeDominance / 100) * 0.4})`;
         dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(safeDominance / 100) * 0.15})`;
     }
-    
-     titleEl.innerText = dayStg
-     descEl.innerText = pendulumStatus
-    // Sayaç indikatörünü de güvenli hale getirdik aga:
-    formEl.innerText = `YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64 + 1}/64]`;
+    // Alt gösterge barını ve sayaç indikatörünü de tamamen senkronize kilitledik aga:
+    formEl.innerText = `YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64}/64] | VALI: ${currentGovernorName} [${currentZodiacName}]`;
 }
 
+// =========================================================================
+// 🔮 WICCA OS: %100 SAF AUTOMATIC FRAKTAL VE AY EVRESİ ENJEKTÖRÜ
+// =========================================================================
+if (dockEl && titleEl && descEl && formEl) {
+    const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
+    let safeDominance = Math.round((1 - targetOpacity) * 100);
+    
+    let sunPullCheck = Math.round(targetOpacity * 100);
+    let lilithPullCheck = Math.round((1 - targetOpacity) * 100);
+
+    // KELDANİ MOTORUNDAN OTOMATİK VERİLER
+    const currentGovernorName = currentGovernor.name;
+    const currentGovernorIcon = currentGovernor.icon;
+    const currentGovernorHour = currentGovernor.hourNum;
+    const currentZodiacName = activeZodiac.name;
+
+    // 🚀 SAF MATEMATİKSEL EFEMERİS MOTORU: 8000 yıllık gezegen verileri
+    const cosmicData = calculateMetatronPlanets(now);
+    const sLive = cosmicData["SATÜRN"];
+    const mLive = cosmicData["MARS"];
+    const vLive = cosmicData["VENÜS"];
+
+    const realSaturnTransit = `♄ SATÜRN: ${sLive.sign} ${sLive.symbol} ${sLive.deg}° ${sLive.retro}`;
+    const realMarsTransit   = `♂ MARS: ${mLive.sign} ${mLive.symbol} ${mLive.deg}° ${mLive.retro}`;
+    const realVenusTransit  = `♀ VENÜS: ${vLive.sign} ${vLive.symbol} ${vLive.deg}° ${vLive.retro}`;
+
+    // 🌙 %100 SAF MATEMATİKSEL AY EVRESİ BAĞLAYICISI:
+    // Cihazın zamanı değiştikçe veya büküldükçe gerçek Ay evresi milisaniyelik hesaplanıyor aga!
+    const moonLive = calculateMetatronMoon(now);
+    const moonPhaseText = `${moonLive.icon} ${moonLive.name} (%${moonLive.percent} Aydınlanma | Yaş: ${moonLive.age} Gün)`;
+
+    // ⚡ METATRON MAKRO FRAKTAL HESABI (74 BPM / 79Y / 790Y)
+    const baseEpochYear = now.getFullYear();
+    const macroCycle79 = ((baseEpochYear % 79) + (sunRoom64 / 64)).toFixed(2);
+    const greatSaros790 = Math.floor(baseEpochYear / 790);
+    const activeKetuSign = (typeof activeZodiac !== 'undefined' && activeZodiac.opposite) ? activeZodiac.opposite : "PISCES";
+
+    // DİNAMİK MESH BOYAYICI (Kırmızı Mars, Yeşil Venüs, Siyah Satürn)
+    const marsNode = document.getElementById('mesh-mars');
+    const venusNode = document.getElementById('mesh-venus');
+    const saturnNode = document.getElementById('mesh-saturn');
+
+    if (marsNode)  marsNode.style.backgroundColor  = mLive.color;
+    if (venusNode) venusNode.style.backgroundColor = vLive.color;
+    if (saturnNode) saturnNode.style.backgroundColor = sLive.color;
+
+    if (sunPullCheck > lilithPullCheck) {
+        // ☀️ GÜNDÜZ FAZI: SELENE YANG EGEMENLİĞİ
+        titleEl.innerText = `${currentGovernorIcon} ⚡ SELENE: ${dayStg || "YANG ACTIVE"}`;
+        titleEl.style.color = "#ffaa00"; 
+        
+        descEl.innerText = `[GÜNEŞ]: Zirvede [${currentZodiacName}] | ${realSaturnTransit} | ${realVenusTransit} | ${moonPhaseText} | 79Y: [${macroCycle79}/79] | RAHU: ☊ ${currentZodiacName}`;
+        
+        if (typeof loadingTextEl !== 'undefined' && loadingTextEl) {
+            loadingTextEl.innerText = "74 BPM YANG RESONANCE...";
+            loadingTextEl.style.color = "#ffaa00";
+        }
+        dockEl.style.borderColor = `rgba(255, 170, 0, ${0.1 + (sunPullCheck / 100) * 0.4})`;
+        dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(255, 170, 0, ${(sunPullCheck / 100) * 0.15})`;
+    } else {
+        // 🌙 GECE FAZI: LILITH / HEKATE YIN EGEMENLİĞİ (ŞU AN GÖRSELDEKİ DURUM)
+        titleEl.innerText = `${currentGovernorIcon} 🔮 [LILITHE ZİRVEDE]: ${dayStg || "YIN TRANSMISSION"}`;
+        titleEl.style.color = "#00ffaa"; 
+        
+        descEl.innerText = `[GÜNEŞ]: Aşağıda [${currentZodiacName}] ──> [OPOSİT]: ${realSaturnTransit} | ${realMarsTransit} | ${moonPhaseText} | 74 BPM METATRON INTEGRAL | 790Y KELDANİ: ${greatSaros790}. ŞAR | KETU: ☋ ${activeKetuSign}`;
+        
+        if (typeof loadingTextEl !== 'undefined' && loadingTextEl) {
+            loadingTextEl.innerText = "74 BPM YIN COUPLING...";
+            loadingTextEl.style.color = "#00ffaa";
+        }
+        dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (safeDominance / 100) * 0.4})`;
+        dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(safeDominance / 100) * 0.15})`;
+    }
+    
+    // Alt durum çubuğunun nihai otonom mührü
+    formEl.innerText = `YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64}/64] | METATRON DOCK: ♄ ${sLive.sign} ──> ♂ ${mLive.sign}`;
+}
 // =========================================================================
 // 🫀 ELECTRO-CARDIOGRAPHY (EKG) ÇERCEVE AKIM SÜRÜCÜSÜ
 // =========================================================================
@@ -1726,7 +1820,7 @@ function calculateCosmicPlanetHour(date, solarTimes) {
         "SATÜRN": "♄", "JÜPİTER": "♃", "MARS": "♂", "GÜNEŞ": "☉", "VENÜS": "♀", "MERKÜR": "☿", "AY": "☽"
     };
 
-    // 🫀 870. SATIRDAKİ REFERANS HATASINI KÖKTEN ERİTEN MANNYETİK MATRİS TANIMI
+ 
     const LOCAL_PLANET_ELEMENT_INFLUENCES = {
         "SATÜRN":  { "gate-earth": 1.8, "gate-ice": 1.4 },
         "JÜPİTER": { "gate-ether": 1.9, "gate-air": 1.5 },
@@ -1877,6 +1971,142 @@ const LILITH_DOCK_METINLERI = {
 
 
 
+// =========================================================================
+// 🌙 METATRON ENGINE: SAF MATEMATİKSEL REAL-TIME AY EVRESİ MOTORU
+// =========================================================================
+function calculateMetatronMoon(date) {
+    const msPerDay = 86400000;
+    const currentMs = date.getTime();
+    
+    // Astronomik Yeni Ay referans başlangıcı (Saf Yin Eşiği)
+    const knownNewMoonEpoch = new Date("2000-01-06T18:14:00Z").getTime();
+    const lunarSynodicPeriodMs = 29.530588853 * msPerDay;
+    
+    let elapsedMs = currentMs - knownNewMoonEpoch;
+    let currentPhaseProgress = (elapsedMs % lunarSynodicPeriodMs) / lunarSynodicPeriodMs;
+    if (currentPhaseProgress < 0) currentPhaseProgress += 1;
+    
+    let moonAgeDays = currentPhaseProgress * 29.530588853;
+    let moonIlluminatedPercent = 0;
+    let phaseName = "";
+    let moonSymbol = "🌑";
+
+    if (currentPhaseProgress < 0.5) {
+        moonIlluminatedPercent = Math.round(currentPhaseProgress * 2 * 100);
+    } else {
+        moonIlluminatedPercent = Math.round((1 - currentPhaseProgress) * 2 * 100);
+    }
+
+    if (moonAgeDays < 1.0 || moonAgeDays > 28.5) {
+        phaseName = "Waxing New Moon"; moonSymbol = "🌑";
+    } else if (moonAgeDays >= 1.0 && moonAgeDays < 6.89) {
+        phaseName = "Waxing Crescent (Hilal)"; moonSymbol = "🌙";
+    } else if (moonAgeDays >= 6.89 && moonAgeDays < 8.39) {
+        phaseName = "First Quarter (İlk Dördün)"; moonSymbol = "🌓";
+    } else if (moonAgeDays >= 8.39 && moonAgeDays < 13.76) {
+        phaseName = "Waxing Gibbous (Büyüyen)"; moonSymbol = "🌔";
+    } else if (moonAgeDays >= 13.76 && moonAgeDays < 15.76) {
+        phaseName = "Full Moon (Dolunay — Yang Zirvesi)"; moonSymbol = "🌕";
+    } else if (moonAgeDays >= 15.76 && moonAgeDays < 21.14) {
+        phaseName = "Waning Gibbous (Küçülen)"; moonSymbol = "🌖";
+    } else if (moonAgeDays >= 21.14 && moonAgeDays < 22.64) {
+        phaseName = "Last Quarter (Son Dördün)"; moonSymbol = "🌗";
+    } else {
+        phaseName = "Waning Crescent (Eski Hilal)"; moonSymbol = "🌘";
+    }
+
+    return {
+        percent: moonIlluminatedPercent,
+        name: phaseName,
+        icon: moonSymbol,
+        age: moonAgeDays.toFixed(1)
+    };
+}
+
+// =========================================================================
+// ⚡ LUNAR INTEGRAL: AY EVRESİNE GÖRE SABBAT KAPILARI PARLAMA ENJEKTÖRÜ
+// =========================================================================
+// calculateMetatronMoon fonksiyonundan gelen moonLive nesnesini taban alıyoruz
+if (typeof moonLive !== 'undefined' && moonLive) {
+    const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+
+    localGateMapping.forEach(gate => {
+        if (!gate) return;
+        // Çapraz kapıları (Büyük Pagan Sabbat Eksenlerini) hedef alıyoruz aga:
+        const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
+        
+        if (isCrossFixed) {
+            // Çapraz kapıların parlamasını Ay'ın anlık %27'lik aydınlanma yüzdesine göre büküyoruz!
+            // Gökyüzünde Ay büyüdükçe neon glow artar, küçüldükçe matris sakinleşir.
+            let dynamicGlow = 8 + (moonLive.percent / 100) * 14;
+            let pulseSpeed = 2 - (moonLive.percent / 100) * 1.2; // Aydınlanma arttıkça rezonans hızlanır
+            
+            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(1.3)`;
+            gate.style.animation = `pulse ${pulseSpeed}s infinite ease-in-out`;
+            gate.style.transition = "all 0.5s ease-in-out";
+        }
+    });
+}
+
+// =========================================================================
+// 🪐 METATRON ENGINE: 8000 YILLIK SAF MATEMATİKSEL PLANET İŞLEMCİSİ
+// =========================================================================
+function calculateMetatronPlanets(date) {
+    const msPerDay = 86400000;
+    const currentMs = date.getTime();
+    
+    // J2000.0 Astronomik Hizalama Çağı (1 Ocak 2000 Başlangıç Noktası)
+    const epochJ2000 = new Date("2000-01-01T12:00:00Z").getTime();
+    const elapsedDays = (currentMs - epochJ2000) / msPerDay;
+
+    // 🧬 Gezegenlerin Hassas Yörünge Periyotları (Dünya Gün Değeri) ve Başlangıç Dereceleri
+    const PLANET_CYCLES = {
+        "SATÜRN":  { period: 10759.22, startDeg: 49.94,  color: "#1a1a1a", icon: "♄" }, // Siyah/Koyu Gri
+        "JÜPİTER": { period: 4332.59,  startDeg: 34.35,  color: "#7a00ff", icon: "♃" }, // Mor
+        "MARS":    { period: 686.98,   startDeg: 355.45, color: "#ff0000", icon: "♂" }, // Kırmızı Mars!
+        "VENÜS":   { period: 224.70,   startDeg: 181.98, color: "#00ffaa", icon: "♀" }, // Yeşil Venüs!
+        "MERKÜR":  { period: 87.97,    startDeg: 252.25, color: "#ffaa00", icon: "☿" }  // Sarı
+    };
+
+    const ZODIAC_SIGNS = [
+        { name: "ARIES", sym: "♈" }, { name: "TAURUS", sym: "♉" }, { name: "GEMINI", sym: "♊" },
+        { name: "CANCER", sym: "♋" }, { name: "LEO", sym: "♌" }, { name: "VIRGO", sym: "♍" },
+        { name: "LIBRA", sym: "♎" }, { name: "SCORPIO", sym: "♏" }, { name: "SAGITTARIUS", sym: "♐" },
+        { name: "CAPRICORN", sym: "♑" }, { name: "AQUARIUS", sym: "♒" }, { name: "PISCES", sym: "♓" }
+    ];
+
+    let computedPlanets = {};
+
+    for (let pName in PLANET_CYCLES) {
+        let p = PLANET_CYCLES[pName];
+        
+        // Gezegenin 8000 yıllık lineer uzay-zaman büküm açısı hesaplanıyor aga:
+        let totalShiftDeg = (elapsedDays * (360 / p.period));
+        let finalDeg = (p.startDeg + totalShiftDeg) % 360;
+        if (finalDeg < 0) finalDeg += 360;
+
+        let signIdx = Math.floor(finalDeg / 30) % 12;
+        let bakiyeDeg = Math.floor(finalDeg % 30);
+        
+        // Sinodik retro büküm filtresi (Yıllık Dünya-Gezegen yaklaşma anomalisi)
+        const dayOfYear = (date.getTime() - new Date(date.getFullYear(), 0, 1).getTime()) / msPerDay;
+        let isRetro = false;
+        if (pName === "MARS" && (dayOfYear % 780 >= 350 && dayOfYear % 780 <= 430)) isRetro = true;
+        if (pName === "VENÜS" && (dayOfYear % 584 >= 540 || dayOfYear % 584 <= 40)) isRetro = true;
+        if (pName === "SATÜRN" && (dayOfYear % 378 >= 130 && dayOfYear % 378 <= 270)) isRetro = true;
+
+        computedPlanets[pName] = {
+            sign: ZODIAC_SIGNS[signIdx].name,
+            symbol: ZODIAC_SIGNS[signIdx].sym,
+            deg: bakiyeDeg,
+            color: p.color,
+            icon: p.icon,
+            retro: isRetro ? "[Rx]" : "[DIR]"
+        };
+    }
+
+    return computedPlanets;
+}
 
 
 function bendWiccaTime(mode) {
