@@ -970,30 +970,7 @@ else {
     yinStg = `💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo — Diyastolik Arınma)`;
 }
 
-// 🔮 LILITH ALGORİTMA BÜKÜCÜ ENJEKSİYON MOTORU
-const lilithTitleEl = document.getElementById('lilith-title');
-const lilithDescEl = document.getElementById('lilith-desc');
-const lilithFormulaEl = document.getElementById('lilith-formula');
 
-if (lilithTitleEl && lilithDescEl && lilithFormulaEl) {
-    // Lilith baskısı, odadaki Mona Lisa transparanlığına göre dinamik hesaplanır
-    let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
-    let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
-
-    if (sunRoom64 >= 48 || sunRoom64 < 16) {
-        // SOL TARAFTAYKEN: Sempatik şarjı absorbe ediyor
-        lilithTitleEl.innerHTML = "🔮 LILITH: SEMPATİK EMİLİM MODU [ACTIVE]";
-        lilithTitleEl.style.color = "#ff5e00"; // Ateş / Akım rengi
-        lilithDescEl.innerHTML = "Sol aks QRS gerilimi absorbe ediliyor. Hücresel matris şarj durumunda.";
-        lilithFormulaEl.innerHTML = `[YIN MATRIX: %${darkMoonDominance}] ──> [SISTOLIK AKIM FILTRESI]`;
-    } else {
-        // SAĞ TARAFTAYKEN: Parasempatik alana deşarj ve temizlik yapıyor
-        lilithTitleEl.innerHTML = "🔮 LILITH: PARASEMPATİK DEŞARJ MODU [STABLE]";
-        lilithTitleEl.style.color = "#00ffaa"; // Siber şifa yeşili
-        lilithDescEl.innerHTML = "Kardiyak ST & T dalgası senkronizasyonu tamamlandı. CSF temizlik döngüsü aktif.";
-        lilithFormulaEl.innerHTML = `[YIN DOMINANCE: %${darkMoonDominance}] ──> [DIYASTOLIK TOPRAKLANMA]`;
-    }
-}
 // =========================================================================
 // 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
 // =========================================================================
@@ -1602,22 +1579,7 @@ window.addEventListener('message', (event) => {
 
 <script>
 
-// ☯️ CROSS FIXED - I CHING SİBER DURUM ENJEKTÖRÜ
-const ichingMatrix = {
-    "100001": { name: "颐 (Yi) - Besleme Kapısı", effect: "LAST SUPPER: Yang Enerjisi Dudaklarda Harlandı.", color: "#ff2a00" },
-    "100010": { name: "蒙 (Meng) - Gizli Potansiyel", effect: "Ateş Dağın Altına Çekildi. Parasempatik Su Dominant.", color: "#00f0ff" }
-};
 
-let currentCode = "100010"; // Ekrandaki anlık binary string'i buraya bağla aga
-
-if (ichingMatrix[currentCode]) {
-    let currentHex = ichingMatrix[currentCode];
-    
-    // Alt yeşil durum çubuğunun üstündeki boşluğa bu gizli algoritmanın şovunu yazdırıyoruz:
-    if (lilithDescEl) {
-        lilithDescEl.innerHTML = `🔮 I-CHING MUTASYONU: <span style='color:${currentHex.color}'>${currentHex.name}</span> ──> [${currentHex.effect}]`;
-    }
-}
 
     // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
 const LILITH_COSMIC_ROOMS = {
