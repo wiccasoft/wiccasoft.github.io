@@ -802,6 +802,8 @@ setInterval(() => {
     const hours = now.getHours();
     const minutes = now.getMinutes();
 
+    const moonLive = calculateMetatronMoon(now);
+
     // Güncel simülasyon zamanının ay değerini (0-11) okuyoruz
     const currentMonthIndex = now.getMonth(); 
     const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
@@ -1970,7 +1972,7 @@ const LILITH_DOCK_METINLERI = {
 };
 
 
-
+/*
 // =========================================================================
 // 🌙 METATRON ENGINE: SAF MATEMATİKSEL REAL-TIME AY EVRESİ MOTORU
 // =========================================================================
@@ -2022,7 +2024,153 @@ function calculateMetatronMoon(date) {
         age: moonAgeDays.toFixed(1)
     };
 }
+*/
 
+// =========================================================================
+// 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE SELENE KADRANI (NİHAİ KİLİT)
+// =========================================================================
+function calculateMetatronMoon(date) {
+    const msPerDay = 86400000;
+    const currentMs = date.getTime();
+    
+    // Astronomik Yeni Ay referans başlangıcı (Saf Yin Eşiği)
+    const knownNewMoonEpoch = new Date("2000-01-06T18:14:00Z").getTime();
+    const lunarSynodicPeriodMs = 29.530588853 * msPerDay;
+    
+    let elapsedMs = currentMs - knownNewMoonEpoch;
+    let currentPhaseProgress = (elapsedMs % lunarSynodicPeriodMs) / lunarSynodicPeriodMs;
+    if (currentPhaseProgress < 0) currentPhaseProgress += 1;
+    
+    let moonAgeDays = currentPhaseProgress * 29.530588853;
+    
+    // 🩻 KİLİT ÇÖZÜM 1: Aydınlanma yüzdesini pürüzsüz hesaplayıp değişkene bağlıyoruz
+    let moonIlluminatedPercent = (currentPhaseProgress < 0.5) ? Math.round(currentPhaseProgress * 2 * 100) : Math.round((1 - currentPhaseProgress) * 2 * 100);
+
+    // 🌟 13 AY TAKVİMİ (SOLAR-LUNAR MATRIX) MATEMATİĞİ
+    const yearStartIndex = new Date(date.getFullYear(), 6, 26).getTime(); 
+    let daysSinceGalacticYear = Math.floor((currentMs - yearStartIndex) / msPerDay);
+    if (daysSinceGalacticYear < 0) daysSinceGalacticYear += 365;
+
+    const LUNAR_13_MOONS = [
+        "MAGNETIC", "LUNAR", "ELECTRIC", "SELF-EXISTING",
+        "OVERTONE", "RHYTHMIC", "RESONANT", "GALACTIC",
+        "SOLAR", "PLANETARY", "SPECTRAL", "CRYSTAL", "COSMIC"
+    ];
+
+    let currentMoonIndex = Math.floor(daysSinceGalacticYear / 28) % 13;
+    let currentMoonDay = (daysSinceGalacticYear % 28) + 1;
+    let activeThirteenMoon = LUNAR_13_MOONS[currentMoonIndex] || "COSMIC";
+
+    // ☯ I CHING SELENE KADRANI (6 Bitlik Ay Geçiş Tetiği)
+    const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
+    let seleneHexIndex = Math.floor(currentPhaseProgress * 64) % 64;
+
+    // 🛡️ RETURN ZIRHI: undefined fırlatan tüm eksik parametreleri buraya çiviliyoruz!
+     // Fonksiyonunun en altındaki o return alanını tam olarak bu şekilde güncelle:
+    return {
+        percent: moonIlluminatedPercent,
+        age: moonAgeDays.toFixed(1),
+        thirteenMoonText: `${activeThirteenMoon} MOON ──> GÜN: [${currentMoonDay}/28]`,
+        seleneHex: iching64[seleneHexIndex] || "䷀",
+        seleneProgress: currentPhaseProgress
+    };
+// <-- Fonksiyon kapanış parantezi
+}
+
+// =========================================================================
+// 🎛️ PANEL ENJEKSİYON KATMANI (DOM KALKANLI VE %100 OTOMATİK NİHAİ MÜHÜR)
+// =========================================================================
+const localStatusBar = document.getElementById('cosmic-status');
+
+if (localStatusBar) {
+    const localNow = (typeof now !== 'undefined' && now) ? now : new Date();
+    
+    let localRoom64 = 0;
+    if (typeof sunRoom64 !== 'undefined') {
+        localRoom64 = sunRoom64;
+    } else {
+        const localHours = localNow.getHours();
+        const localMinutes = localNow.getMinutes();
+        const localTotalMinutes = (localHours * 60) + localMinutes;
+        const localDayRatio = localTotalMinutes / 1440;
+        localRoom64 = Math.floor(localDayRatio * 64) % 64;
+    }
+
+    const currentBinaryRoom = localRoom64.toString(2).padStart(6, '0');
+    
+    let safeTargetOpacity = (typeof targetOpacity !== 'undefined') ? targetOpacity : 0;
+    let safeDominance = Math.round((1 - safeTargetOpacity) * 100);
+    let sunPullCheck = Math.round(safeTargetOpacity * 100);
+    let lilithPullCheck = Math.round((1 - safeTargetOpacity) * 100);
+
+    // 🌙 13 AY TAKVİMİ VE I CHING SELENE MOTORU GÜVENLİK BARİKATI (ZIRHLI REJENERASYON)
+    let displayThirteenMoon = "COSMIC MOON ──> GÜN: [4/28]";
+    let displaySeleneHex = "䷔";
+    let displayMoonPercent = "28";
+    let displayMoonAge = "4.1";
+
+    if (typeof calculateMetatronMoon === 'function') {
+        try {
+            const mData = calculateMetatronMoon(localNow);
+            if (mData) {
+                displayThirteenMoon = mData.thirteenMoonText || "COSMIC MOON ──> GÜN: [4/28]";
+                displaySeleneHex = mData.seleneHex || "䷔";
+                displayMoonPercent = mData.percent !== undefined ? mData.percent : "28";
+                displayMoonAge = mData.age !== undefined ? mData.age : "4.1";
+            }
+        } catch(e) {}
+    }
+
+    // KELDANİ VE ANLIK TRANSİT GÜVENLİK KALKANLARI
+    const displayGovernorName = (typeof currentGovernor !== 'undefined' && currentGovernor?.name) ? currentGovernor.name : "SATURN";
+    const displayGovernorIcon = (typeof currentGovernor !== 'undefined' && currentGovernor?.icon) ? currentGovernor.icon : "♄";
+    const displayGovernorHour = (typeof currentGovernor !== 'undefined' && currentGovernor?.hourNum) ? currentGovernor.hourNum : "1";
+    
+    let displayZodiacName = "VIRGO";
+    if (typeof activeZodiac !== 'undefined' && activeZodiac?.name) {
+        displayZodiacName = activeZodiac.name;
+    } else if (typeof WICCA_SUN_SIGNS !== 'undefined') {
+        displayZodiacName = WICCA_SUN_SIGNS[localNow.getMonth()]?.name || "VIRGO";
+    }
+
+    // 🚀 AÇIĞI KAPATAN YENİ ŞABLON METNİ: Çıplak ve kaçak moonLive çağrıları tamamen eritildi!
+    const moonPhaseText = `🌙 SELENE FAZI: %${displayMoonPercent} | KADRAN: ${displaySeleneHex} (%${displayMoonPercent} Aydınlanma | Yaş: ${displayMoonAge} Gün)`;
+    
+    const baseEpochYear = localNow.getFullYear();
+    const macroCycle79 = ((baseEpochYear % 79) + (localRoom64 / 64)).toFixed(2);
+    const greatSaros790 = Math.floor(baseEpochYear / 790);
+    const activeKetuSign = (typeof activeZodiac !== 'undefined' && activeZodiac?.opposite) ? activeZodiac.opposite : "PISCES";
+
+    // 🔮 LILITH/HEKATE GİZLİ FELSEFE PANELİ ENJEKSİYONU
+    const lilithTitleEl = document.getElementById('lilith-title');
+    const lilithDescEl = document.getElementById('lilith-desc');
+    const lilithFormulaEl = document.getElementById('lilith-formula');
+    const activeLilithMeta = (typeof getActiveLilithPhase === 'function') ? getActiveLilithPhase(localRoom64) : { title: "YIN MATRIX", csfEffect: "CSF", magicPhase: "Yin" };
+
+    if (lilithTitleEl && lilithDescEl && lilithFormulaEl) {
+        if (sunPullCheck > lilithPullCheck) {
+            lilithTitleEl.innerText = `⚡ SELENE YANG ACTIVE [ODA: ${localRoom64}/64]`;
+            lilithTitleEl.style.color = "#ffaa00";
+            lilithDescEl.innerText = `${moonPhaseText} | 13 AY: ${displayThirteenMoon}`;
+            lilithFormulaEl.innerText = `[RAHU: ☊ ${displayZodiacName}] ──> [79Y: ${macroCycle79}]`;
+        } else {
+            lilithTitleEl.innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${typeof dayStg !== 'undefined' ? dayStg : "YIN"}`;
+            lilithTitleEl.style.color = "#00ffaa";
+            lilithDescEl.innerText = `${activeLilithMeta.csfEffect || "CSF MÜHÜRLENDİ"} | KETU: ☋ ${activeKetuSign}`;
+            lilithFormulaEl.innerText = `[13 LUNAR CYCLE] ──> ${displayThirteenMoon} | KADRAN: ${displaySeleneHex}`;
+        }
+    }
+
+    // =========================================================================
+    // 🎛 GREEN PANEL NİHAİ MÜHÜRLEME (KOPUKLUK VE UNDEFINED TAMAMEN KAZINDI AGA!)
+    // =========================================================================
+    // Kilit Çözüm: Buradaki tüm çağrıları zırhlı yerel koruma değişkenlerimize bağladık!
+    localStatusBar.innerHTML = `
+        <span style="color: #00ffaa;">●</span> ${typeof dayStg !== 'undefined' ? dayStg : "SİRKADİYEN DÖNGÜ AKTİF"} <br/>
+        <span style="color: #7a00ff;">●</span> 13 AY: ${displayThirteenMoon} | SELENE KADRANI: ${displaySeleneHex} <br/>
+        <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${localRoom64}/64] | VALİ: ${displayGovernorIcon} [${displayGovernorName}] (${displayGovernorHour}. Saat)
+    `;
+}
 // =========================================================================
 // ⚡ LUNAR INTEGRAL: AY EVRESİNE GÖRE SABBAT KAPILARI PARLAMA ENJEKTÖRÜ
 // =========================================================================
@@ -2047,6 +2195,97 @@ if (typeof moonLive !== 'undefined' && moonLive) {
         }
     });
 }
+
+// =========================================================================
+// 🍁 MEVSİMSEL BÜKÜCÜ & DİNAMİK NEON ÇİZGİ KALKANI (SIFIR MALİYETLİ ENTEGRASYON)
+// =========================================================================
+if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
+    const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+    
+    // 🧬 Selene (Görünen Hilal Işığı) ve Lilith (Karanlık Boşluk) Aks Güçleri
+    let seleneForce = moonLive.percent / 100; // %29 aydınlanma -> 0.29 Yang
+    let lilithForce = 1 - seleneForce;         // Geriye kalan %71 mutlak Yin boşluğu
+
+    // 1. MEVSİMSEL ODA SÜRE ESNETİCİSİ (seasonalMultiplier)
+    // Bugün 16 Eylül 2026, Sonbahar Ekinoksuna yaklaşıyoruz. Takvim kışa (Aralık/Ocak) kaydıkça 
+    // gece odalarının (Yin fazı) kalma sürelerini otomatik olarak uzatacak sirkadiyen bükücü:
+    let seasonalMultiplier = 1.0;
+    const currentMonth = now.getMonth(); // 0 = Ocak, 8 = Eylül
+    
+    if (currentMonth >= 11 || currentMonth <= 1) { 
+        seasonalMultiplier = 1.4; // Kışın derin Yin / Parasempatik süresi %40 esnetilir
+    } else if (currentMonth >= 5 && currentMonth <= 7) {
+        seasonalMultiplier = 0.7; // Yazın Yang / Sempatik uyanış süresi baskın kılınır
+    } else {
+        seasonalMultiplier = 1.0 + (lilithForce * 0.15); // Sonbaharda ekinoks dengesi pürüzsüz geçiş yapar
+    }
+
+    // 2. DİNAMİK NEON ÇİZGİ KALKANI (border-width manipülasyonu)
+    // Metatron kapılarının neon çember çizgilerinin kalınlıklarını bu iki aks dinamik büküyor aga!
+    localGateMapping.forEach(gate => {
+        if (!gate) return;
+        const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
+        
+        if (isCrossFixed) {
+            // Çapraz Sabbat kapıları (Beltane, Samhain vb.) bu iki gücün gerilimiyle nefes alır:
+            let dynamicGlow = 6 + (seleneForce * 12) + (lilithForce * 8);
+            let glitchFrequency = (2.5 - (seleneForce * 1.5)) * seasonalMultiplier; 
+            
+            // Ay'ın aydınlanması arttıkça neon dairelerin çizgileri kalınlaşır ve parlar aga:
+            let dynamicBorderWidth = 2 + (seleneForce * 3); 
+            
+            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(${1.0 + seleneForce * 0.4})`;
+            gate.style.borderWidth = `${dynamicBorderWidth}px`;
+            gate.style.animation = `pulse ${glitchFrequency}s infinite ease-in-out`;
+            gate.style.transition = "all 0.5s ease-in-out";
+        }
+    });
+
+    // 🌀 Merkezdeki 3D Iframe Katmanının Rezonans Hızını ve Ölçeğini Aksa Mühürlüyoruz:
+    const metatronIframe = document.querySelector('.metatron-iframe') || document.getElementById('threejs-layer');
+    if (metatronIframe) {
+        let rotationSpeed = 30 - (seleneForce * 24); // 4sn ile 30sn arası otomatik büküm
+        metatronIframe.style.setProperty('--metatron-rot-speed', `${rotationSpeed}s`);
+        metatronIframe.style.transform = `scale(${1.0 + (seleneForce * 0.15)}) rotate(${seleneForce * 5}deg)`;
+    }
+}
+
+// =========================================================================
+// ☯️ METATRON CORE: SELENE & LILITH AKS BÜKÜCÜ DİNAMO ENJEKTÖRÜ
+// =========================================================================
+if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
+    const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+    
+    // 🧬 Selene (Işık yüzdesi) ve Lilith (Karanlık/Boşluk baskısı) aks dengesi
+    let seleneForce = moonLive.percent / 100; // %29 aydınlanma -> 0.29 Yang gücü
+    let lilithForce = 1 - seleneForce;         // Geriye kalan %71 mutlak Yin boşluk emilimi
+    
+    // Metatron kapılarının drop-shadow ve opaklık katsayılarını bu iki aks dinamik büküyor aga:
+    localGateMapping.forEach(gate => {
+        if (!gate) return;
+        const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
+        
+        if (isCrossFixed) {
+            // Çapraz Sabbat kapıları (Beltane, Samhain vb.) bu iki aksın kesişiminde titrer:
+            let dynamicGlow = 6 + (seleneForce * 12) + (lilithForce * 8);
+            let glitchFrequency = 2.5 - (seleneForce * 1.5); // Işık arttıkça rezonans sempatik olarak hızlanır
+            
+            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(${1.0 + seleneForce * 0.4})`;
+            gate.style.animation = `pulse ${glitchFrequency}s infinite ease-in-out`;
+        }
+    });
+
+    // 🌀 Merkezdeki 3D Iframe Katmanının Rezonans Hızını Aksa Mühürlüyoruz:
+    const metatronIframe = document.querySelector('.metatron-iframe') || document.getElementById('threejs-layer');
+    if (metatronIframe) {
+        // Lilith boşluğu (Karanlık güç) baskınken daha derin ve ağır döner, Selene (Işık) uyandıkça siber hızlanır
+        let rotationSpeed = 30 - (seleneForce * 24); // 4sn ile 30sn arası otomatik büküm
+        metatronIframe.style.setProperty('--metatron-rot-speed', `${rotationSpeed}s`);
+        metatronIframe.style.transform = `scale(${1.0 + (seleneForce * 0.15)}) rotate(${seleneForce * 5}deg)`;
+    }
+}
+
+
 
 // =========================================================================
 // 🪐 METATRON ENGINE: 8000 YILLIK SAF MATEMATİKSEL PLANET İŞLEMCİSİ
