@@ -87,6 +87,35 @@ body, html, h1, h2, h3, p, a, button, .btn {
     }
 
 
+
+    
+        /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
+.art-core-container {
+    position: absolute;
+    top: 50%;
+    left: 52.1%;
+    transform: translate(-50%, -50%);
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    pointer-events: none;
+}
+        /* 🛸 METATRON 3D ÇEKİRDEK */
+        /* 
+            .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }*/
+
+   /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
+    .metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 55% !important;
+        left: 49.4% !important;
+        transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        width: 75vh !important;
+        height: 75vh !important;
+        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
+    }
+        
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 /* .madonna-image içindeki opacity değerini !important olmadan tarayıcıya bırakıyoruz */
 /* 🖼 GÜNDÜZ MADONNASI (MONA LISA) HASSAS BOYUTLANDIRMA VE YÜZ KİLİDİ */
@@ -95,8 +124,8 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 99% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 470px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 48.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 53% !important;
+    top: 49.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    left: 52.5% !important;
     transform: translate(-50%, -50%) scale(1.0) !important;
     object-fit: contain;
     z-index: 1;
@@ -113,9 +142,9 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 99% !important;
     max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
-    top: 40% !important;
-    left: 50% !important;
-    transform: translate(-50%, -50%) scale(0.8)!important;
+    top: 40.5% !important;
+    left: 49.6% !important;
+    transform: translate(-50%, -50%) scale(0.77)!important;
     object-fit: contain;
     z-index: 1;
     opacity: 0;
@@ -127,36 +156,12 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 
 
-        /* 🛸 METATRON 3D ÇEKİRDEK */
-        /* 
-            .metatron-three-iframe-holder { position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 100vw; height: 100vh; z-index: 2; pointer-events: none; display: flex; justify-content: center; align-items: center; }*/
 
-   /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
-    .metatron-three-iframe-holder {
-        position: absolute !important;
-        top: 55% !important;
-        left: 52% !important;
-        transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
-        width: 75vh !important;
-        height: 75vh !important;
-        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
-        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
-    }
-        
+
     /*.metatron-iframe { width: 100%; height: 100%; border: none; }*/
 
 
-        /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
-.art-core-container {
-    position: absolute;
-    top: 50%;
-    left:48%;
-    transform: translate(-50%, -50%);
-    width: 100vw;
-    height: 100vh;
-    z-index: 1;
-    pointer-events: none;
-}
+
         /* 🌌 SİBERPUNK MASK TABAKASI */
         .cyber-dark-overlay {
             position: absolute;
@@ -219,14 +224,25 @@ body, html, h1, h2, h3, p, a, button, .btn {
 @media (min-width: 1200px) {
 
 
+    .art-core-container {
+    position: absolute;
+    top: 50%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    pointer-events: none;
+}
+
     .madonna-image {
     position: absolute;
     width: 99% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 470px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
     top: 47% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 51% !important;
-    transform: translate(-50%, -50%) scale(1.1) !important;
+    left: 53.7% !important;
+    transform: translate(-50%, -50%) scale(0.9) !important;
     object-fit: contain;
     z-index: 1;
     filter: brightness(1.1) !important;
@@ -242,9 +258,9 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 99% !important;
     max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
-    top: 38.5% !important;
-    left: 50% !important;
-    transform: translate(-50%, -50%) scale(0.9)!important;
+    top: 39.1% !important;
+    left: 52.5% !important;
+    transform: translate(-50%, -50%) scale(0.7)!important;
     object-fit: contain;
     z-index: 1;
     opacity: 0;
@@ -267,7 +283,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     .metatron-three-iframe-holder {
         position: absolute !important;
         top: 55% !important;
-        left: 50% !important;
+        left: 52.5% !important;
         transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 75vh !important;
         height: 75vh !important;
@@ -294,14 +310,28 @@ body, html, h1, h2, h3, p, a, button, .btn {
         overflow: hidden !important;
     }
 
+
+/* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
+    .metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 55% !important;
+        left: 49% !important;
+        transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        width: 75vh !important;
+        height: 75vh !important;
+        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
+    }
+
+
       /* 📱 Sadece telefonlarda resmi büyüten ve ekrana oturtan mobil kilit */
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
     width: 420px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
     height: auto !important;
-    top: 42% !important;
-    left: 50% !important;
+    top: 41.5% !important;
+    left: 48.3% !important;
     transform: translate(-50%, -50%) scale(0.7) !important;
     z-index: 1;
 }
@@ -342,17 +372,6 @@ body, html, h1, h2, h3, p, a, button, .btn {
         color: rgba(255, 255, 255, 0.8) !important;
     }
 
-    /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
-    .metatron-three-iframe-holder {
-        position: absolute !important;
-        top: 55% !important;
-        left: 50% !important;
-        transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
-        width: 75vh !important;
-        height: 75vh !important;
-        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
-        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
-    }
 
    
 }
@@ -919,6 +938,62 @@ const salvadorElement = document.getElementById('mesh-salvador') || document.que
 let pendulumStatus = "";
 let dayStg = ""
 
+
+// 🍁 MEVSİM VE GÜN BÜKÜCÜ MİMARİ
+let yinStg = "";
+let seasonalMultiplier = 1.0;
+
+// 1. Mevsimsel Katsayı Hesabı (Kışın Parasempatik süreyi, yazın Sempatik süreyi esnetir)
+const currentMonth = new Date().getMonth(); // 0 = Ocak, 8 = Eylül (Sonbahar)
+if (currentMonth >= 11 || currentMonth <= 1) { 
+    seasonalMultiplier = 1.4; // Kış: Yin / Parasempatik dominant
+} else if (currentMonth >= 5 && currentMonth <= 7) {
+    seasonalMultiplier = 0.7; // Yaz: Yang / Sempatik dominant
+}
+
+// 2. 4 Vitesli Evrensel Eksen Kontrolü
+if (sunRoom64 >= 48 && sunRoom64 <= 64) {
+    // 🌞 ŞAFAK / DOĞUŞ ERTESİ (Sempatik Başlangıcı)
+    yinStg = `☯️ Yin-Uyanış [Mevsimsel Çarpan: x${seasonalMultiplier.toFixed(1)}] | P Dalgası & Sabah Matrisi (Nigredo)`;
+} 
+else if (sunRoom64 >= 0 && sunRoom64 < 16) {
+    // 🔴 SABAH / ÖĞLE (Maksimum Sempatik Sol Güç)
+    yinStg = `🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo — Sempatik Şarj)`;
+} 
+else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+    // 🟡 İKİNDİ / AKŞAM (Salvator'un Sağ Eli / Parasempatik Geçiş)
+    // Ekran görüntündeki Crucifixion (Yang Discharge) tam burası aga!
+    yinStg = `🟡 Yang-Deşarj | ST Segmenti & İkindi Lütfu (Citrinitas — Salvator Geçişi)`;
+} 
+else {
+    // 🔵 GECE / GECE YARISI (Parasempatik Sağ Derinlik & CSF Temizlik)
+    yinStg = `💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo — Diyastolik Arınma)`;
+}
+
+// 🔮 LILITH ALGORİTMA BÜKÜCÜ ENJEKSİYON MOTORU
+const lilithTitleEl = document.getElementById('lilith-title');
+const lilithDescEl = document.getElementById('lilith-desc');
+const lilithFormulaEl = document.getElementById('lilith-formula');
+
+if (lilithTitleEl && lilithDescEl && lilithFormulaEl) {
+    // Lilith baskısı, odadaki Mona Lisa transparanlığına göre dinamik hesaplanır
+    let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
+    let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
+
+    if (sunRoom64 >= 48 || sunRoom64 < 16) {
+        // SOL TARAFTAYKEN: Sempatik şarjı absorbe ediyor
+        lilithTitleEl.innerHTML = "🔮 LILITH: SEMPATİK EMİLİM MODU [ACTIVE]";
+        lilithTitleEl.style.color = "#ff5e00"; // Ateş / Akım rengi
+        lilithDescEl.innerHTML = "Sol aks QRS gerilimi absorbe ediliyor. Hücresel matris şarj durumunda.";
+        lilithFormulaEl.innerHTML = `[YIN MATRIX: %${darkMoonDominance}] ──> [SISTOLIK AKIM FILTRESI]`;
+    } else {
+        // SAĞ TARAFTAYKEN: Parasempatik alana deşarj ve temizlik yapıyor
+        lilithTitleEl.innerHTML = "🔮 LILITH: PARASEMPATİK DEŞARJ MODU [STABLE]";
+        lilithTitleEl.style.color = "#00ffaa"; // Siber şifa yeşili
+        lilithDescEl.innerHTML = "Kardiyak ST & T dalgası senkronizasyonu tamamlandı. CSF temizlik döngüsü aktif.";
+        lilithFormulaEl.innerHTML = `[YIN DOMINANCE: %${darkMoonDominance}] ──> [DIYASTOLIK TOPRAKLANMA]`;
+    }
+}
 // =========================================================================
 // 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
 // =========================================================================
@@ -947,7 +1022,7 @@ if (monaElement && salvadorElement) {
         targetMonaOpacity = 1.0;               
         targetSalvadorOpacity = 0.0; // 🛡️ MUTLAK SIFIR: Gündüz en ufak hayalet gölge kalmaz aga!
         pendulumStatus = "[MONA LISA] GÜNE MERHABA (SİSTOLİK GERİLİM SHARJI)";
-        dayStg = "🟢 Sympathetic wake up: Atrial Depolarizasyon (P Dalgası)"
+        dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)"
     }
     // 3. VİTES [16 - 32. ODALAR]: Öğleden Gün Batımına -> KUTSAL ÖĞLEN YOK OLUŞ SİGORTASI
     else if (sunRoom64 >= 16 && sunRoom64 < 32) {
@@ -964,7 +1039,7 @@ if (monaElement && salvadorElement) {
         targetMonaOpacity = 0.0; // Gündüz bitti, tamamen sakla
         targetSalvadorOpacity = 1.0;           
         pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
-         dayStg = "🔵 Erken Gevşeme & ST Segmenti (Diyastol Girişi)"
+         dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
     }
 
     // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
@@ -1527,7 +1602,22 @@ window.addEventListener('message', (event) => {
 
 <script>
 
+// ☯️ CROSS FIXED - I CHING SİBER DURUM ENJEKTÖRÜ
+const ichingMatrix = {
+    "100001": { name: "颐 (Yi) - Besleme Kapısı", effect: "LAST SUPPER: Yang Enerjisi Dudaklarda Harlandı.", color: "#ff2a00" },
+    "100010": { name: "蒙 (Meng) - Gizli Potansiyel", effect: "Ateş Dağın Altına Çekildi. Parasempatik Su Dominant.", color: "#00f0ff" }
+};
 
+let currentCode = "100010"; // Ekrandaki anlık binary string'i buraya bağla aga
+
+if (ichingMatrix[currentCode]) {
+    let currentHex = ichingMatrix[currentCode];
+    
+    // Alt yeşil durum çubuğunun üstündeki boşluğa bu gizli algoritmanın şovunu yazdırıyoruz:
+    if (lilithDescEl) {
+        lilithDescEl.innerHTML = `🔮 I-CHING MUTASYONU: <span style='color:${currentHex.color}'>${currentHex.name}</span> ──> [${currentHex.effect}]`;
+    }
+}
 
     // 🔮 LILITH (KARANLIK AY) 64 ODALIK HERMETİK VE CSF ANLAM MATRİSİ
 const LILITH_COSMIC_ROOMS = {
