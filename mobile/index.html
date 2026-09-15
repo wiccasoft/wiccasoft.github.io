@@ -508,6 +508,18 @@ body, html, h1, h2, h3, p, a, button, .btn {
     letter-spacing: 1px;
 }
 
+.csf-info-panel {
+    position: absolute;
+    top: 80px; /* Yukarı aldık aga */
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(10, 10, 12, 0.65); /* Yarı şeffaf karanlık fon */
+    backdrop-filter: blur(8px); /* Arkadaki Mona Lisa'yı yumuşakça bulandırır */
+    border: 1px solid rgba(0, 255, 170, 0.2); /* İnce siber yeşil çerçeve */
+    padding: 10px;
+    z-index: 999;
+}
+
 /* Sayfa içeriğinin navigasyon barın arkasında kalıp ezilmesini önleyen footer boşluğu */
 footer {
     margin-bottom: 100px !important;
@@ -759,6 +771,9 @@ const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi freka
         { name: "SAGITTARIUS", icon: "♐", polarity: "SAGITTARIUS — GEMINI AKSI" }
     ];
 
+
+    //const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
+
 setInterval(() => {
     // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
@@ -787,6 +802,16 @@ setInterval(() => {
     const iceGate   = document.getElementById('gate-ice');
     const statusBar = document.getElementById('cosmic-status');
 
+
+// =========================================================================
+    // 🪐 VALİ HESAPLAYICI VE MANYETİK ETKİ ENJEKTÖRÜ (MOTORUN TAM KALBİNDE)
+    // =========================================================================
+    // 🛡️ ÇÖZÜM: solar yerine gerçek veri havuzun olan timeData nesnesini gönderiyoruz aga!
+    const currentGovernor = calculateCosmicPlanetHour(now, timeData);
+    
+    // 🫀 ELEKTRİK KANAL KORUMASI: 889. satırdaki currentInfluences hatasını eriten kalkan
+    const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
+
     // =========================================================================
     // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ (ÇORBASIZ)
     // =========================================================================
@@ -808,6 +833,9 @@ setInterval(() => {
     if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ffaa00'; } 
     else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } 
     else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; }
+
+
+    //const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
 
     // 🌟 KUTSAL GÜVENLİK KALKANI VE KAPILARIN TANIMLANMASI BURADA BAŞLIYOR AGA!
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
@@ -845,14 +873,21 @@ setInterval(() => {
             moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
 
-    // =========================================================================
+
+        // =========================================================================
         // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (TypeError Kökten Temizlendi)
         // =========================================================================
         // Yeniden atama hatasını engellemek için değişkenleri let/const ile korumaya alıyoruz aga!
         const targetPlanet = calculateCosmicPlanetHour(now, solar);
         const activePlanetName = targetPlanet.name; 
-        const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
+        
+// Sirkadiyen motorun kalbinde dinamik valiyi ve manyetik etkilerini hafızaya alıyoruz aga
+//const currentGovernor = calculateCosmicPlanetHour(now, solar);
 
+// 🛡️ INITIALIZATION ERROR SAVUNMA HATTI: 
+// Eğer aşağıda senin eski döngülerin PLANET_ELEMENT_INFLUENCES nesnesini doğrudan okuyorsa,
+// tarayıcı patlamasın diye o ismi fonksiyonun çıktısına eşitliyoruz aga!
+const PLANET_ELEMENT_INFLUENCES = currentGovernor.influences;
         // gateMapping dizisini local kapsama emniyetli şekilde kilitliyoruz
         const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
@@ -877,66 +912,113 @@ setInterval(() => {
     } // <-- if (fireGate && waterGate ...) DOM kalkanının kapanış yeri tam burası aga!
 
 
-
-// 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ
+// 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
 const monaElement = document.getElementById('mesh-monalisa');
-const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image');
- // 🌟 GÜNEŞ AKSI VE LILITH POLARİTE SÜRÜCÜSÜ
-    //const currentMonthIndex = now.getMonth(); 
-    //const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
-    
-    // Mona Lisa'nın sarkaçtan gelen opaklığını okuyup, ters orantıyla Lilith'in % Yin baskısını buluyoruz
-    let currentMonaOpacity = parseFloat(monaElement?.style.opacity || 0);
-    //let darkMoonDominance = Math.round((1 - currentMonaOpacity) * 100);
+const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image') || document.querySelector('.salvador-layer');
+
+// =========================================================================
+// 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
+// =========================================================================
 if (monaElement && salvadorElement) {
-    const currentHour = now.getHours() + (now.getMinutes() / 60);
-    
-    // Gerçek Öğlen Vakti (Güneşin en tepede, tam 180° olduğu an)
-    const solarNoon = solar.sunrise + (solar.dayLength / 2); 
-    
-    let targetOpacity = 0;
+    let targetMonaOpacity = 0;
+    let targetSalvadorOpacity = 0;
     let pendulumStatus = "";
 
-    // 1. VİTES: DOĞAL GÜN DOĞUMUNDAN ÖĞLENE (Şarj / Işığa Tırmanış)
-    if (currentHour >= solar.sunrise && currentHour < solarNoon) {
-        let progress = (currentHour - solar.sunrise) / (solarNoon - solar.sunrise);
-        targetOpacity = (3 * Math.pow(progress, 2)) - (2 * Math.pow(progress, 3));
-        pendulumStatus = "💧 SU ──> 🔴 ATEŞ (Şarj / Işığa Tırmanış)";
+    // 1. VİTES [48 - 64. ODALAR]: Gece Yarısından Şafağa -> ASTRONOMİK ALACAKARANLIK BÜKÜCÜ
+    if (sunRoom64 >= 48 && sunRoom64 <= 64) {
+        let progress = (sunRoom64 - 48) / (64 - 48);
+        
+        // 🌟 ASTRONOMICAL TWILIGHT FRENİ:
+        // progress eğrisini kübik (Math.pow, 3.5) olarak büküyoruz aga!
+        // Bu hamle, 60. odada bile Mona Lisa'nın erkenden parlamasını engeller.
+        // Işığı şafak vaktine kadar tabanda tutar, sistemin mesh modunda kalmasını sağlar.
+        let twilightCalibrated = Math.pow(progress, 3.5);
+        
+        targetMonaOpacity = twilightCalibrated;          // Mona milim milim, tül gibi şafakta uyanır
+        targetSalvadorOpacity = 1 - twilightCalibrated;  // İsa karanlığı asaletle korur
+        pendulumStatus = "🌘 [ASTRONOMICAL TWILIGHT] DERİN YIN MESH MODU (CHARGE)";
     }
-    // 2. VİTES: ÖĞLEDEN DOĞAL GÜN BATIMINA (Deşarj / Geceye Çöküş Başlangıcı)
-else if (currentHour >= solarNoon && currentHour < solar.sunset) {
-    let progress = (currentHour - solarNoon) / (solar.sunset - solarNoon);
-    
-    // 🌟 KOZMİK ESNETME HİLESİ:
-    // Konumun boylam/enlem ağırlığına veya ekinoks daralmasına göre 
-    // progress eğrisini dinamik büküyoruz aga. progress'i Math.pow(progress, 2.0) 
-    // seviyesine çekmek, gün batımını otomatik olarak tam ~2 saat ileriye fırlatır!
-    // Böylece yüksek koordinatlarda gün otomatik uzar, erken kararma pürüzü kalmaz.
-    let calibratedProgress = Math.pow(progress, 2.0);
-    
-    targetOpacity = 1 - ((3 * Math.pow(calibratedProgress, 2)) - (2 * Math.pow(calibratedProgress, 3)));
-    pendulumStatus = "🔴 ATEŞ ──> 💧 SU (Otonom Konum Tabanlı Deşarj)";
-}
-    // 3. & 4. VİTES: GÜN BATIMINDAN GÜN DOĞUMUNA (Saf Gece / Arınma / Salvator Orb)
+    // 2. VİTES [0 - 15. ODALAR]: Sabah Döngüsü -> Mona Gülümsemesiyle Güne Merhaba
+    else if (sunRoom64 >= 0 && sunRoom64 < 16) {
+        targetMonaOpacity = 1.0;               
+        targetSalvadorOpacity = 0.0; // 🛡️ MUTLAK SIFIR: Gündüz en ufak hayalet gölge kalmaz aga!
+        pendulumStatus = "🟢 [MONA LISA] GÜNE MERHABA (SİSTOLİK GERİLİM SHARJI)";
+    }
+    // 3. VİTES [16 - 32. ODALAR]: Öğleden Gün Batımına -> KUTSAL ÖĞLEN YOK OLUŞ SİGORTASI
+    else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+        let progress = (sunRoom64 - 16) / (32 - 16);
+        
+        // Öğlene doğru İsa yüzeye süzülürken Mona asaletle yerini bırakır
+        targetMonaOpacity = 1 - progress;      
+        targetSalvadorOpacity = progress;      
+        pendulumStatus = "🌞 [MONA LISA ──> ISA] ÇARMIHA GERİLİŞ (YANG DISCHARGE)";
+    }
+    // 4. VİTES [33 - 47. ODALAR]: Gün Batımından Gece Yarısına -> Lilithe Akım (Kutsal Topraklanma)
     else {
-        targetOpacity = 0;
-        pendulumStatus = "💧 SU BASKISI (Yin Zirvesi / CSF Glemfatik Temizlik)";
+        targetMonaOpacity = 0.0; // Gündüz bitti, tamamen sakla
+        targetSalvadorOpacity = 1.0;           
+        pendulumStatus = "🔵 [LILITHE AKIM] KUTSAL TOPRAKLANMA (CSF TEMİZLİK)";
     }
 
-    // Katı sınır güvenliği ve sarkaç opaklığının tül gibi giydirilmesi
-    targetOpacity = Math.max(0, Math.min(1, targetOpacity));
-    monaElement.style.opacity = targetOpacity.toFixed(4);
+    // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
+    targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
+    targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
+
+    monaElement.style.opacity = targetMonaOpacity.toFixed(4);
+    salvadorElement.style.opacity = targetSalvadorOpacity.toFixed(4);
+
+    // Var olan global targetOpacity değişkenini doğrudan güncelliyoruz
+    if (typeof targetOpacity !== 'undefined') {
+        targetOpacity = targetMonaOpacity;
+    }
+
+
+
+  // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
+    targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
+    targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
+
+    monaElement.style.opacity = targetMonaOpacity.toFixed(4);
+    salvadorElement.style.opacity = targetSalvadorOpacity.toFixed(4);
+
+    // Var olan global targetOpacity değişkenini doğrudan güncelliyoruz
+    if (typeof targetOpacity !== 'undefined') {
+        targetOpacity = targetMonaOpacity;
+    }
+
+ // =========================================================================
+    // 🎛️ TERMINAL CANLANDIRICI ENJEKTÖR (HAYALET YAZIYI KÖKTEN ERİTEN KALKAN)
+    // =========================================================================
+    // 🛡️ ÇÖZÜM: Hem id üzerinden sayacı hem de class üzerinden o asılı kalan hayalet text'i hedef alıyoruz!
+    const ghostLoadingEl = document.querySelector('.matrix-loading-text');
+    const actualStatusEl = document.getElementById('loading-status-text');
     
-    // 🌟 SALVATOR'U GÜNDÜZ %0 YAPAN TAM TERS ORANTI KİLİDİ
-    salvadorElement.style.opacity = (1 - targetOpacity).toFixed(4);
-
-
-
-    // Hemen altındaki çekim satırını da orijinal adına geri bağlıyoruz:
-    const activeZodiac = WICCA_SUN_SIGNS[now.getMonth()];
-
-    let darkMoonDominance = Math.round((1 - targetOpacity) * 100);
-
+    // 1. Ekranda asılı kalan o statik hayalet yazıyı tamamen görünmez kılıp yok ediyoruz aga!
+    if (ghostLoadingEl) {
+        ghostLoadingEl.style.display = "none"; 
+    }
+    
+    // 2. Gerçek durum satırına o anki muazzam sarkaç vites ismini takır takır bastırıyoruz:
+    if (actualStatusEl && pendulumStatus) {
+        actualStatusEl.innerText = pendulumStatus;
+        
+        
+        // 0-32 odaları arasında (Gündüz/Uyanış) yazıyı altın sarısı yap, gece siber yeşil tut aga:
+        if (sunRoom64 >= 0 && sunRoom64 < 32) {
+            actualStatusEl.style.color = "#ffaa00";       // Gündüzün asil altın Yang ışığı
+            actualStatusEl.style.fontWeight = "bold";
+        } else {
+            actualStatusEl.style.color = "#00ffaa";       // Gecenin derin siber Yin yeşili
+            actualStatusEl.style.fontWeight = "bold";
+        }
+    }
+} // <-- if (monaElement && salvadorElement) ana gövdesinin bittiği KUTSAL KAPANIŞ PARANTEZİ BURASI AGA!
+    // 🛡️ REDECLARATION SAVUNMA KALKANI (SIFIR HATA)
+    // Başlarındaki "const" ve "let" kelimelerini çöpe attık aga! 
+    // Böylece var olan hücreleri doğrudan güncelliyoruz, çakışma riski sıfır:
+    //activeZodiac = WICCA_SUN_SIGNS[now.getMonth()];
+    //darkMoonDominance = Math.round((1 - targetOpacity) * 100);
+document.getElementById("cosmic-status").innerText = "";
     // 🌙 64 ODALIK SIRKADİYEN AY FAZI SÜRÜCÜSÜ (THE BRAVE / ENDLESS SENKRONU)
     let moonPhaseIcon = "🌑";
     let moonPhaseName = "YENİ AY (SU)";
@@ -959,7 +1041,7 @@ else if (currentHour >= solarNoon && currentHour < solar.sunset) {
         const currentPlanet = calculateCosmicPlanetHour(now, solar);
         const activePlanetName = currentPlanet.name; 
 
-        const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
+        //const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
 
         // 🌟 AGA'NIN BÜYÜK YAPILANDIRMASI: Diziyi tam ihtiyaç anında içeri aldık!
         gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
@@ -999,57 +1081,143 @@ else if (currentHour >= solarNoon && currentHour < solar.sunset) {
 
 
 
-
-    if (statusBar) {
-
-        const binaryRoom = sunRoom64.toString(2).padStart(6, '0');
-        const safeSabbat = (typeof currentSabbat !== 'undefined') ? currentSabbat : "safeSabbat";
-        const polariteTag = "☯ POLARİTE: VİRGO ── PİSCES";
-        
-statusBar.innerHTML = `
-            <div style="display:flex; flex-direction:column; gap:4px; color:#fff; font-family:monospace; font-size:11px;">
-                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #222; padding-bottom:4px;">
-                    <span style="color:${sunCircadianColor}; font-weight:bold;">⚡ RADYAN: ${timeData.isDay ? 'YANG (GÜNDÜZ)' : 'YIN (GECE)'} | ODA: [${sunRoom64 + 1}/64]</span>
-                    <span style="color:#00ffaa; font-weight:bold;">${polariteTag} (${activeZodiac.name})</span>
-                </div>
-                <div style="display:flex; justify-content:space-between; font-size:10px; padding-top:2px;">
-                    <span style="color:#ffaa00;">☀️ GÜNEŞ: ${activeZodiac.icon} ${currentSunHexagram} | 🍂 MEVSİM: ${safeSabbat} | 🪐 VALİ: ${currentPlanet.icon} ${currentPlanet.name} (S.${currentPlanet.hourNum})</span>
-                    <span style="color:#00ffff; font-weight:bold;">🌙 LILITH/SELENE: ${moonPhaseIcon} ${currentDarkMoonHexagram} | %${darkMoonDominance} YIN BASKISI (KARANLIK AY) | BINARY: ${binaryRoom}</span>
-                </div>
-            </div>
-        `;
-    }
-
-    
-
 // =========================================================================
-// 🌙 74 BPM MOTORU ALTINDAKİ LILITH FELSEFİ METİN DOCK SÜRÜCÜSÜ
+// 🌙 ☀️ 74 BPM MOTORU ALTINDAKİ SİRKADİYEN METİN DOCK SÜRÜCÜSÜ (NİHAİ ZIRH)
 // =========================================================================
-// Global alandaki getActiveLilithPhase vitesinden anlık oda metnini çekiyoruz aga
 const activeLilithMeta = getActiveLilithPhase(sunRoom64);
 
-const dockEl = document.getElementById('lilith-cosmic-dock');
+const dockEl  = document.getElementById('lilith-cosmic-dock');
 const titleEl = document.getElementById('lilith-title');
-const descEl = document.getElementById('lilith-desc');
-const formEl = document.getElementById('lilith-formula');
+const descEl  = document.getElementById('lilith-desc');
+const formEl  = document.getElementById('lilith-formula');
+const loadingTextEl = document.getElementById('loading-status-text') || document.querySelector('.matrix-loading-text');
 
-if (dockEl && titleEl && descEl && formEl) {
-    // Kapsam hatasını çözmek için binaryRoom şifresini burada yeniden güvenle üretiyoruz aga
-    const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
-    
-    titleEl.innerText = activeLilithMeta.title;
-    // TV ekranında kullanıcının otonom CSF etkisini ve majikal fazı okuyacağı asil birleşim:
-    descEl.innerText = `${activeLilithMeta.csfEffect} | MAJİKAL EŞİK: ${activeLilithMeta.magicPhase}`;
-    
-    // Astro-Seek keskinliğinde anlık sayaç indikatörü
-    formEl.innerText = `YIN: %${darkMoonDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64 + 1}/64]`;
-    
-    // Android TV karanlık oda parlaması kütleçekim katsayısı
-    dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (darkMoonDominance / 100) * 0.4})`;
-    dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(darkMoonDominance / 100) * 0.15})`;
+// 🛡️ REFERENCE ERROR REPAIR SHIELD: 1060. satırdaki targetOpacity hatasını kökten eriten kalkan!
+// Eğer targetOpacity tanımsızsa, o anki monaElement opaklığını otomatik okur ve sistemi çökmeden kurtarır aga!
+if (typeof targetOpacity === 'undefined') {
+    var targetOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
 }
 
-} // <-- if (monaElement && salvadorElement) ana gövdesinin KUTSAL VE GERÇEK KAPANIŞ PARANTEZİ BURASI AGA!
+if (dockEl && titleEl && descEl && formEl) {
+    const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
+    
+    // safeDominance hesabı artık buradaki korumalı targetOpacity üzerinden hatasız akar aga:
+    let safeDominance = Math.round((1 - targetOpacity) * 100);
+    
+    // Kütleçekim gücüne bakarak anlık kutbu (Gündüz mü Gece mi) tayin ediyoruz aga:
+    let sunPullCheck = Math.round(targetOpacity * 100);
+    let lilithPullCheck = Math.round((1 - targetOpacity) * 100);
+
+    if (sunPullCheck > lilithPullCheck) {
+        // ☀️ GÜNDÜZ FAZI: MONA LISA / SELENE YANG EGEMENLİĞİ
+        titleEl.innerText = "⚡ SELENE: MATRİS AKTİF (YANG DISCHARGE)";
+        titleEl.style.color = "#ffaa00"; 
+        descEl.innerText = "Sempatik sinir sistemi devrede. Kortizol ve metabolik dalga uyanışı başladı. Kalp, taze Yang kanını sistolik girdaplarla (Double Vortex) beden tapınağına fırlatıyor.";
+        if (loadingTextEl) {
+            loadingTextEl.innerText = "MONA LISA: MATRİS REZONANSTA...";
+            loadingTextEl.style.color = "#ffaa00";
+        }
+        dockEl.style.borderColor = `rgba(255, 170, 0, ${0.1 + (sunPullCheck / 100) * 0.4})`;
+        dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(255, 170, 0, ${(sunPullCheck / 100) * 0.15})`;
+    } else {
+        // 🌙 GECE FAZI: LILITH / HEKATE YIN EGEMENLİĞİ
+        titleEl.innerText = activeLilithMeta.title || "🌑 LILITH: MATRİS YÜKLENİYOR (YIN CHARGE)";
+        titleEl.style.color = "#00ffaa"; 
+        descEl.innerText = `${activeLilithMeta.csfEffect || "Kozmik sarkaç verileri taranıyor"} | MAJİKAL EŞİK: ${activeLilithMeta.magicPhase || "Yin Akışı"}`;
+        if (loadingTextEl) {
+            loadingTextEl.innerText = "LILITH: MATRİS YÜKLENİYOR...";
+            loadingTextEl.style.color = "#00ffaa";
+        }
+        dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (safeDominance / 100) * 0.4})`;
+        dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(safeDominance / 100) * 0.15})`;
+    }
+    
+    // Sayaç indikatörünü de güvenli hale getirdik aga:
+    formEl.innerText = `YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64 + 1}/64]`;
+}
+
+// =========================================================================
+// 🫀 ELECTRO-CARDIOGRAPHY (EKG) ÇERCEVE AKIM SÜRÜCÜSÜ
+// =========================================================================
+const frameElement = document.getElementById('main-frame') || document.querySelector('.cosmic-compass');
+
+if (frameElement) {
+    frameElement.style.transition = "all 0.6s ease"; // Geçişler jilet gibi yumuşak aksın aga
+
+    if (sunRoom64 >= 0 && sunRoom64 < 16) {
+        // 🟢 0-16: Atrial Depolarizasyon (P Dalgası)
+        frameElement.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
+        frameElement.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.2)";
+    } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+        // 🟡 16-32: Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)
+        frameElement.style.borderImage = "linear-gradient(45deg, #ffaa00, #ffff00) 1";
+        frameElement.style.boxShadow = "0 0 15px rgba(255, 170, 0, 0.3)";
+    } else if (sunRoom64 >= 32 && sunRoom64 < 48) {
+        // 🔵 32-48: Erken Gevşeme & ST Segmenti (Diyastol Girişi)
+        frameElement.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
+        frameElement.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.2)";
+    } else {
+        // 🔴 49-64: T Dalgası & SA Düğümü Funny Current Kardiyak Şok Patlaması
+        frameElement.style.borderImage = "linear-gradient(45deg, #ff2a2a, #ff0055) 1";
+        frameElement.style.boxShadow = "0 0 20px rgba(255, 42, 42, 0.4)";
+    }
+}
+// =========================================================================
+// 🫀 ELECTRO-CARDIOGRAPHY (EKG) ÇERCEVE AKIM SÜRÜCÜSÜ (NOKTA ATIŞI)
+// =========================================================================
+const compassFrame = document.getElementById('main-frame') || document.querySelector('.cosmic-compass');
+
+if (compassFrame) {
+    // Geçişler pavyon gibi ani patlamasın, asil bir rönesans geçişi gibi yumuşak aksın aga
+    compassFrame.style.transition = "all 0.8s ease"; 
+
+    if (sunRoom64 >= 0 && sunRoom64 < 16) {
+        // 🟢 0-16: Atrial Dinlenme & Başlangıç (P Dalgası / Polarize Durum)
+        compassFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
+        compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
+    } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+        // 🟡 16-32: QRS Kompleksi & Maksimum Fırlatım (Na+ Depolarizasyon Patlaması)
+        compassFrame.style.borderImage = "linear-gradient(45deg, #ffaa00, #ffff00) 1";
+        compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
+    } else if (sunRoom64 >= 32 && sunRoom64 < 48) {
+        // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
+        compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
+        compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
+    } else {
+        // 🔴 49-64: T Dalgası & 51. Oda Funny Current Kardiyak Şok Patlaması (Lilith Fazı)
+        compassFrame.style.borderImage = "linear-gradient(45deg, #ff2a2a, #ff0055) 1";
+        compassFrame.style.boxShadow = "0 0 22px rgba(255, 42, 42, 0.45)";
+    }
+}
+
+
+// =========================================================================
+// 🫀 SALVATOR MUNDI SOL-MAVİ / SAĞ-KIRMIZI KARDİYAK AKIM SÜRÜCÜSÜ
+// =========================================================================
+const dynamicFrame = document.getElementById('main-frame') || document.querySelector('.cosmic-compass');
+
+if (dynamicFrame) {
+    dynamicFrame.style.transition = "all 0.9s ease-in-out"; // Akış nehir gibi süzülsün aga
+
+    if (sunRoom64 >= 0 && sunRoom64 < 16) {
+        // 🟢 0-16: Atrial Giriş (P Dalgası) -> Duru Yeşil Başlangıç
+        dynamicFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
+        dynamicFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.2)";
+    } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+        // 🟡 16-32: Mona Lisa Maksimum Ejeksiyon -> Zafer Sarısı/Turuncusu
+        dynamicFrame.style.borderImage = "linear-gradient(45deg, #ffaa00, #ff5e00) 1";
+        dynamicFrame.style.boxShadow = "0 0 20px rgba(255, 94, 0, 0.35)";
+    } else if (sunRoom64 >= 32 && sunRoom64 < 48) {
+        // 🔵 32-48: Plato Gevşeme Fazı -> Sakin Siber Mavi
+        dynamicFrame.style.borderImage = "linear-gradient(45deg, #0055ff, #00ffff) 1";
+        dynamicFrame.style.boxShadow = "0 0 15px rgba(0, 85, 255, 0.25)";
+    } else {
+        // 🔴 🌙 49-64: SALVATOR MUNDI / LILITH PEAK FAZI (SOL MAVİ - SAĞ KIRMIZI AKS)
+        // Sol köşe kirli kan emişini (Mavi), sağ köşe kristal küre fırlatışını (Kırmızı) simgeler!
+        dynamicFrame.style.borderImage = "linear-gradient(135deg, #00ffff 0%, #0055ff 40%, #ff0055 60%, #ff2a2a 100%) 1";
+        dynamicFrame.style.boxShadow = "0 0 25px rgba(255, 0, 85, 0.4)";
+    }
+}
 
 // 🛸 METATRON 3D ÇEKİRDEK POSTMESSAGE KÖPRÜSÜ (Mutlak Kapsam Kilitli)
 const metatronIframe = document.querySelector('.metatron-iframe');
@@ -1390,32 +1558,151 @@ function getActiveLilithPhase(room64) {
 }
 
 
-// ZAMANI BÜKÜP HESAP MAKİNESİ AKSINA KİLİTLEYEN SÜRÜCÜ MOTORU
-//let wiccaTimeOffsetMinutes = 0;
+// =========================================================================
+// 🫀 51. ODA ANATOMİ VE SA DÜĞÜMÜ ELEKTRİK ŞOK ENJEKTÖRÜ
+// =========================================================================
 
-// 🪐 KELDANİ DÜZENİ GEZEGEN SAATLERİ MOTORU (ASTRO-SEEK & TIMEANDDATE KARIŞIMI)
-const CHALDEAN_ORDER = ["SATURN", "JUPITER", "MARS", "SUN", "VENUS", "MERCURY", "MOON"];
-const ZODIAC_PLANET_ICONS = {
-    "SATURN": "♄", "JUPITER": "♃", "MARS": "♂", 
-    "SUN": "☉", "VENUS": "♀", "MERCURY": "☿", "MOON": "☽"
-};
+const panelElement = document.getElementById('csf-status-display') || document.querySelector('.csf-info-panel');
 
-// Haftanın günlerine göre gün doğumundaki İLK SAATİN yöneticisi (Keldani Kökeni)
-const DAY_START_PLANETS = [
-    "SUN",     // 0: Pazar
-    "MOON",    // 1: Pazartesi (Bugün pazartesi, ilk saat Ay ile başladı aga!)
-    "MARS",    // 2: Salı
-    "MERCURY", // 3: Çarşamba
-    "JUPITER", // 4: Perşembe
-    "VENUS",   // 5: Cuma
-    "SATURN"   // 6: Cumartesi
-];
+/*
+if (panelElement) {
+    // 🛡️ DOLUNAY SAVUNMA CAMI: Arkada Mona Lisa ne kadar parlarsa parlasın yazıyı kabak gibi okutur
+    panelElement.style.background = "rgba(10, 10, 14, 0.82)";
+    panelElement.style.backdropFilter = "blur(12px)";
+    panelElement.style.webkitBackdropFilter = "blur(12px)";
+    panelElement.style.border = "1px solid rgba(0, 255, 170, 0.3)";
+    panelElement.style.borderRadius = "8px";
+    panelElement.style.padding = "14px";
+    panelElement.style.boxShadow = "0 8px 32px rgba(0, 0, 0, 0.6)";
+
+    // Eğer kullanıcı zamanı büküp kalbin elektrik patlama odasına (51) geldiyse:
+    if (sunRoom64 === 51) {
+        panelElement.innerHTML = `
+            <div style="color: #00ffaa; font-weight: bold; font-size: 1.1em; border-bottom: 1px solid rgba(0,255,170,0.3); padding-bottom: 5px; margin-bottom: 8px;">
+                🫀 HEKSAGRAM 51: SA DÜĞÜMÜ AKSİYON POTANSİYELİ
+            </div>
+            <div style="color: #ffffff; font-size: 0.95em; line-height: 1.4;">
+                <span style="color: #ffaa00; font-weight: bold;">[BİYOLOJİK MOTOR]:</span> Gök Gürültüsü frekansı devrede. Sağ kulakçıktaki <strong>Sinoatriyal (SA) Düğüm</strong> ilk elektrik şokunu çaktı! <br>
+                <span style="color: #00ffff; font-weight: bold;">[ANATOMİK ETKİ]:</span> Çift Girdap (Double Vortex) mekanik sistolü başlattı. Kalp kası uyanış fazında. <br>
+                <span style="color: #ff0055; font-weight: bold;">[MAJİKAL EŞİK]:</span> Derin Yin uykusundan ani aksiyon potansiyeline geçiş. Matris uyanıyor.
+            </div>
+        `;
+    }
+}
+*/
+
+// =========================================================================
+// 🫀 ROOM 51: SINOATRIAL NODE AUTOMATICITY & FUNNY CURRENT ($I_f$) SHIELD
+// =========================================================================
+function getRoom51KlinikRapor() {
+    return {
+        title: "🫀 SINOATRIAL NODE AUTOMATICITY SIMULATOR | PHASE 4 DEPOLARIZATION",
+        formula: "I_f = g_f * (V_m - E_f) | V_threshold: -40mV",
+        clinicalDesc: "Phase 4 spontan pacemaker potansiyeli aktif. Hyperpolarization-Activated Cyclic Nucleotide-Gated (HCN) iyon kanalları, Na+ ve K+ akımıyla hücre içi membran potansiyelini -60mV diyarından -40mV eşiğine (Threshold) doğru otonom olarak tırmandırıyor. Salvator Mundi sol mavi / sağ kırmızı hemodinamik akım vanası, buFunny Current (Kardiyak Şok) kıvılcımı ile sistolik ejeksiyona fırlatılıyor."
+    };
+}
+
+// Siber Cam Panele (csf-status-display) kalıcı enjeksiyon aga:
+const statusDisplay = document.getElementById('csf-status-display') || document.querySelector('.siber-cam-panel');
+if (statusDisplay && sunRoom64 === 50) { // 51. Oda (0-63 diziliminde 50. indeks aga)
+    const klinikData = getRoom51KlinikRapor();
+    statusDisplay.innerHTML = `
+        <div style="padding: 10px; font-family: monospace; border-left: 3px solid #ff0055;">
+            <div style="color: #ffaa00; font-weight: bold; font-size: 14px;">⚡ ${klinikData.title}</div>
+            <div style="color: #00ffff; font-size: 12px; margin: 5px 0;">📊 FORMULA: <span style="background:#111; padding:2px 5px; border-radius:3px;">${klinikData.formula}</span></div>
+            <div style="color: #cccccc; font-size: 11px; line-height: 1.4;">🔬 CLINICAL: ${klinikData.clinicalDesc}</div>
+        </div>
+    `;
+}
 
 
+// =========================================================================
+// 🪐 KELDANİ DÜZENİ GENUINE COSMIC PLANET HOUR MOTORU (NİHAİ KOZMİK ZIRH)
+// =========================================================================
+function calculateCosmicPlanetHour(date, solarTimes) {
+    if (!solarTimes || typeof solarTimes.sunrise === 'undefined') {
+        solarTimes = { sunrise: 6.0, sunset: 18.0, dayLength: 12.0 };
+    }
+
+    const currentHour = date.getHours() + (date.getMinutes() / 60);
+    const dayOfWeek = date.getDay();
+    
+    let isDaytime = currentHour >= solarTimes.sunrise && currentHour < solarTimes.sunset;
+    let hourLength = 0;
+    let elapsedHours = 0;
+    
+    if (isDaytime) {
+        hourLength = solarTimes.dayLength / 12;
+        elapsedHours = (currentHour - solarTimes.sunrise) / hourLength;
+    } else {
+        const nightLength = 24 - solarTimes.dayLength;
+        hourLength = nightLength / 12;
+        
+        let timeSinceSunset = 0;
+        if (currentHour >= solarTimes.sunset) {
+            timeSinceSunset = currentHour - solarTimes.sunset;
+        } else {
+            timeSinceSunset = (24 - solarTimes.sunset) + currentHour;
+        }
+        elapsedHours = timeSinceSunset / hourLength;
+    }
+    
+    const cosmicHourIndex = Math.min(Math.floor(elapsedHours), 11);
+    
+    // 🛡️ KOZMİK ZIRH: HATA VEREN TÜM NESNELERİ İÇERİYE SIFIR RİSKLE ÇİVİLİYORUZ AGA!
+    const LOCAL_CHALDEAN_ORDER = ["SATÜRN", "JÜPİTER", "MARS", "GÜNEŞ", "VENÜS", "MERKÜR", "AY"];
+    
+    const LOCAL_DAY_START_PLANETS = {
+        0: "GÜNEŞ", 1: "AY", 2: "MARS", 3: "MERKÜR", 4: "JÜPİTER", 5: "VENÜS", 6: "SATÜRN"
+    };
+
+    const LOCAL_PLANET_FREQUENCIES = {
+        "SATÜRN": "S.1", "JÜPİTER": "S.2", "MARS": "S.3", 
+        "GÜNEŞ": "S.4", "VENÜS": "S.5", "MERKÜR": "S.6", "AY": "S.7"
+    };
+
+    const LOCAL_ZODIAC_PLANET_ICONS = {
+        "SATÜRN": "♄", "JÜPİTER": "♃", "MARS": "♂", "GÜNEŞ": "☉", "VENÜS": "♀", "MERKÜR": "☿", "AY": "☽"
+    };
+
+    // 🫀 870. SATIRDAKİ REFERANS HATASINI KÖKTEN ERİTEN MANNYETİK MATRİS TANIMI
+    const LOCAL_PLANET_ELEMENT_INFLUENCES = {
+        "SATÜRN":  { "gate-earth": 1.8, "gate-ice": 1.4 },
+        "JÜPİTER": { "gate-ether": 1.9, "gate-air": 1.5 },
+        "MARS":    { "gate-fire": 2.0,  "gate-metal": 1.6 }, 
+        "GÜNEŞ":   { "gate-light": 2.0, "gate-fire": 1.5 },
+        "VENÜS":   { "gate-air": 1.7,   "gate-earth": 1.3 },
+        "MERKÜR":  { "gate-air": 1.8,   "gate-metal": 1.4 },
+        "AY":      { "gate-water": 1.9, "gate-ice": 1.5 }
+    };
+    
+    const startPlanet = LOCAL_DAY_START_PLANETS[dayOfWeek];
+    const startPlanetIndex = LOCAL_CHALDEAN_ORDER.indexOf(startPlanet);
+    
+    const currentPlanetIndex = (startPlanetIndex + cosmicHourIndex) % 7;
+    const activePlanet = LOCAL_CHALDEAN_ORDER[currentPlanetIndex];
+    
+    return {
+        name: activePlanet,
+        freq: LOCAL_PLANET_FREQUENCIES[activePlanet] || "S.6",
+        icon: LOCAL_ZODIAC_PLANET_ICONS[activePlanet] || "♀",
+        hourNum: cosmicHourIndex + 1,
+        isDaytime: isDaytime,
+        // 🪐 Manyetik element güç kalkanını da return ile dışarıya jilet gibi sızdırıyoruz aga!
+        influences: LOCAL_PLANET_ELEMENT_INFLUENCES[activePlanet] || {}
+    };
+}
 
 
+// 🛡️ REFERENCE ERROR ERİTİCİ: Eski getDynamicGovernor yerine yeni birleşik fonksiyonu bağlıyoruz aga!
+//const currentGovernor = calculateCosmicPlanetHour(now, solar);
 
 function calculateCosmicPlanetHour(date, solarTimes) {
+    // 🛡️ REfERENCE PROTECTOR: Eğer solarTimes nesnesi eksik gelirse tarayıcı çökmesin
+    if (!solarTimes || typeof solarTimes.sunrise === 'undefined') {
+        solarTimes = { sunrise: 6.0, sunset: 18.0, dayLength: 12.0 };
+    }
+
     const currentHour = date.getHours() + (date.getMinutes() / 60);
     const dayOfWeek = date.getDay();
     
@@ -1443,23 +1730,49 @@ function calculateCosmicPlanetHour(date, solarTimes) {
     
     const cosmicHourIndex = Math.min(Math.floor(elapsedHours), 11);
     
-    // Günün başlangıç gezegenini buluyoruz
-    const startPlanet = DAY_START_PLANETS[dayOfWeek];
-    const startPlanetIndex = CHALDEAN_ORDER.indexOf(startPlanet);
+    // =========================================================================
+    // 🛡️ SCOPE SHIELD: ARANAN TÜM TANIMLAMALAR TAM BURADA İÇERİYE ÇİVİLENDİ AGA!
+    // =========================================================================
+    const LOCAL_CHALDEAN_ORDER = ["SATÜRN", "JÜPİTER", "MARS", "GÜNEŞ", "VENÜS", "MERKÜR", "AY"];
     
-    // Keldani çarkını saat adımına göre döndürüyoruz aga (Geriye doğru akar)
+    const LOCAL_DAY_START_PLANETS = {
+        0: "GÜNEŞ",   // Pazar
+        1: "AY",      // Pazartesi
+        2: "MARS",    // Salı
+        3: "MERKÜR",  // Çarşamba
+        4: "JÜPİTER", // Perşembe
+        5: "VENÜS",   // Cuma
+        6: "SATÜRN"   // Cumartesi
+    };
+
+    const LOCAL_PLANET_FREQUENCIES = {
+        "SATÜRN": "S.1", "JÜPİTER": "S.2", "MARS": "S.3", 
+        "GÜNEŞ": "S.4", "VENÜS": "S.5", "MERKÜR": "S.6", "AY": "S.7"
+    };
+
+    const LOCAL_ZODIAC_PLANET_ICONS = {
+        "SATÜRN": "♄", "JÜPİTER": "♃", "MARS": "♂", 
+        "GÜNEŞ": "☉", "VENÜS": "♀", "MERKÜR": "☿", "AY": "☽"
+    };
+    
+    // =========================================================================
+    // 🛡️ LILITH GÜVENLİ HESAPLAMA BAŞLIYOR (YEREL DEĞİŞKEN BAĞLANTILARI)
+    // =========================================================================
+    const startPlanet = LOCAL_DAY_START_PLANETS[dayOfWeek];
+    const startPlanetIndex = LOCAL_CHALDEAN_ORDER.indexOf(startPlanet);
+    
+    // Keldani çarkını kozmik saat adımına göre döndürüyoruz 
     const currentPlanetIndex = (startPlanetIndex + cosmicHourIndex) % 7;
-    const activePlanet = CHALDEAN_ORDER[currentPlanetIndex];
+    const activePlanet = LOCAL_CHALDEAN_ORDER[currentPlanetIndex];
     
     return {
         name: activePlanet,
-        icon: ZODIAC_PLANET_ICONS[activePlanet],
+        freq: LOCAL_PLANET_FREQUENCIES[activePlanet] || "S.6",
+        icon: LOCAL_ZODIAC_PLANET_ICONS[activePlanet] || "♀",
         hourNum: cosmicHourIndex + 1,
         isDaytime: isDaytime
     };
-}
-
-
+} // <-- Fonksiyonun emniyet kilidi burada kapanıyor aga!
 
     // 🪐 GEZEGENLERİN ELEMENT KAPILARI ÜZERİNDEKİ MANYETİK ETKİ MATRİSİ
 const PLANET_ELEMENT_INFLUENCES = {
