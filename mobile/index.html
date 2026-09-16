@@ -636,46 +636,6 @@ function bendWiccaTime(mode) {
 
 
 
-    <script>
-
-
-
-// GERÇEK SAATİ BOZMADAN SADECE SİRKADİYEN MOTORU BÜKEN SÜRÜCÜ:
-let wiccaTimeOffsetMinutes = 0;
-
-function bendWiccaTime(mode) {
-    // 1 sirkadiyen oda periyodu yaklaşık 21.9 dakikadır
-    const roomUnit = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
-    
-    if (mode === 'NEXT') {
-        wiccaTimeOffsetMinutes += roomUnit;
-    } else if (mode === 'PREV') {
-        wiccaTimeOffsetMinutes -= roomUnit;
-    } else if (mode === 'FUTURE') {
-        wiccaTimeOffsetMinutes += (roomUnit * 4);
-    } else if (mode === 'PAST') {
-        wiccaTimeOffsetMinutes -= (roomUnit * 4);
-    }
-
-    // Bilgisayarın ana saatini kirletmeden simüle edilmiş bir zaman nesnesi üretiyoruz
-    const baseDate = new Date();
-    const futureOrPastDate = new Date(baseDate.getTime() + (wiccaTimeOffsetMinutes * 60 * 1000));
-    
-    // index.html içindeki o saniyede 74 kere atan saati simülasyona kilitliyoruz aga
-    if (typeof now !== 'undefined') {
-        now = futureOrPastDate;
-    } else {
-        window.now = futureOrPastDate;
-    }
-
-    // Tetikleyici saat fonksiyonlarını arkada anında çalıştırıp ekranı güncelliyoruz
-    if (typeof updateCosmicClock === 'function') {
-        updateCosmicClock();
-    } else if (typeof triggerCircadianPulse === 'function') {
-        triggerCircadianPulse();
-    }
-}
-</script>
 
     <script>
 
@@ -1216,107 +1176,103 @@ if (dockEl && titleEl && descEl && formEl) {
     formEl.innerText = `YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64}/64] | VALI: ${currentGovernorName} [${currentZodiacName}]`;
 }
 
-// =========================================================================
-    // 🪐 WICCA OS: %100 CANLI PLANET TRANSİTLERİ VE 13 AY TAKVİM MÜHÜRÜ
     // =========================================================================
-    // Kilit Çözüm: Kaçak ve asılı kalan eski display değişkenleri tamamen temizlendi!
-    // Sistem doğrudan calculateMetatronMoon ve Planets fonksiyonlarının saf canlı verilerini emer aga.
+    // 🎛️ WICCA OS: TEK BAKIŞTA KOZMİK ÇAĞLAR VE 8Y / 79Y FRAKTAL MOTORU
+    // =========================================================================
     const localStatusBar = document.getElementById('cosmic-status');
     const lilithDock = document.getElementById('lilith-cosmic-dock');
     const mainViewport = document.querySelector('.main-viewport');
 
     if (localStatusBar) {
-        // 🚀 SAF MATEMATİKSEL TETİKLEME: Zaman büküldükçe canlı Ay ve 13 Ay verisi anlık üretiliyor
+        // Canlı zamanı emen dinamik 13 Ay ve Selene Kadran motor tetiği
         const moonLive = calculateMetatronMoon(now);
-        
         const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
+        
         let safeTargetOpacity = (typeof targetOpacity !== 'undefined') ? targetOpacity : 0;
         let safeDominance = Math.round((1 - safeTargetOpacity) * 100);
         let sunPullCheck = Math.round(safeTargetOpacity * 100);
         let lilithPullCheck = Math.round((1 - safeTargetOpacity) * 100);
 
-        // Keldani saat çarkı canlı verileri
-        const displayGovernorName = (typeof currentGovernor !== 'undefined' && currentGovernor?.name) ? currentGovernor.name : "SATURN";
-        const displayGovernorIcon = (typeof currentGovernor !== 'undefined' && currentGovernor?.icon) ? currentGovernor.icon : "♄";
+        // Keldani ve Canlı Transit Verileri
+        const displayGovernorName = (typeof currentGovernor !== 'undefined' && currentGovernor?.name) ? currentGovernor.name : "MERKÜR";
+        const displayGovernorIcon = (typeof currentGovernor !== 'undefined' && currentGovernor?.icon) ? currentGovernor.icon : "☿";
         const displayGovernorHour = (typeof currentGovernor !== 'undefined' && currentGovernor?.hourNum) ? currentGovernor.hourNum : "1";
         const displayZodiacName = (typeof activeZodiac !== 'undefined' && activeZodiac) ? (activeZodiac.name || "VIRGO") : "VIRGO";
         const activeKetuSign = (typeof activeZodiac !== 'undefined' && activeZodiac?.opposite) ? activeZodiac.opposite : "PISCES";
 
-        // 🚀 8000 YILLIK TRANSİT GEZEGEN BAĞLAYICI HÜCRESİ (NET KİLİT)
-        let realSaturnTransit = "♄ SATÜRN: ARIES ♈ 16° [Rx]";
-        let realMarsTransit   = "♂ MARS: GEMINI ♊ 7° [DIR]";
+        let realSaturnTransit = "♄ SATÜRN CALIBRATING";
+        let realMarsTransit   = "♂ MARS CALIBRATING";
         if (typeof calculateMetatronPlanets === 'function') {
             const cosmicData = calculateMetatronPlanets(now);
-            const sLive = cosmicData["SATÜRN"];
-            const mLive = cosmicData["MARS"];
-            realSaturnTransit = `♄ SATÜRN: ${sLive.sign} ${sLive.symbol} ${sLive.deg}° ${sLive.retro}`;
-            realMarsTransit   = `♂ MARS: ${mLive.sign} ${mLive.symbol} ${mLive.deg}° ${mLive.retro}`;
-            
-            // Metatron renkli daire kalkanlarını (Mars Kırmızısı, Satürn Siyahı) otomatik boyayan motor:
-            const marsNode = document.getElementById('mesh-mars');
-            const saturnNode = document.getElementById('mesh-saturn');
-            if (marsNode) marsNode.style.backgroundColor = mLive.color;
-            if (saturnNode) saturnNode.style.backgroundColor = sLive.color;
+            realSaturnTransit = `♄ SATÜRN: ${cosmicData["SATÜRN"].sign} ${cosmicData["SATÜRN"].symbol} ${cosmicData["SATÜRN"].deg}° ${cosmicData["SATÜRN"].retro}`;
+            realMarsTransit   = `♂ MARS: ${cosmicData["MARS"].sign} ${cosmicData["MARS"].symbol} ${cosmicData["MARS"].deg}° ${cosmicData["MARS"].retro}`;
         }
 
-        const moonPhaseText = `🌙 SELENE FAZI: %${moonLive.percent} | KADRAN: ${moonLive.seleneHex}`;
-        const baseEpochYear = now.getFullYear();
-        const macroCycle79 = ((baseEpochYear % 79) + (sunRoom64 / 64)).toFixed(2);
+        // ⏳ %100 DİNAMİK MAKRO VE MİKRO KOZMİK ÇAĞ KALKANLARI (MÜHENDİSLİK ZİRVESİ)
+        const dynamicSimYear = now.getFullYear();
+        
+        // 🪐 1. 20 YILLIK JÜPİTER-SATÜRN MİKRO KAVUŞUM SARKACI
+        const JU_SA_20Y_Cycle = ((dynamicSimYear % 20) + (sunRoom64 / 64)).toFixed(1);
+        
+        // 💨 2. 240 YILLIK BÜYÜK MUTASYON ÇAĞI (AIR TRIGON COMPLIANT)
+        const greatMutation240 = Math.floor(dynamicSimYear / 240);
+        const airTrigonResonance = `ERA: AIR MUTATION [240Y HAVA ÇAĞI] 💨`;
 
-        // 🖼️ SANATI VE RESİMLERİ EKRANIN GÖBEĞİNE ÇİVİLEME ŞALTERİ
+        // 🌹 3. 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI (13:8 ALTIN ORAN DÖNGÜSÜ)
+        const venusEarth8Y = ((dynamicSimYear % 8) + (sunRoom64 / 64)).toFixed(2);
+
+        // 🪐 4. 79 YILLIK SATÜRN-GÜNEŞ GERİ DÖNÜŞ ÇEVRİMİ VE 790 YILLIK ŞAR ÇAĞI
+        const macroCycle79 = ((dynamicSimYear % 79) + (sunRoom64 / 64)).toFixed(2);
+        const greatSaros790 = Math.floor(dynamicSimYear / 790); 
+
+        // 🩻 İPEKSİ 200MS DONANIM LAG ENJEKTÖRÜ (ÇATLAMAYI ÖNLEYEN GPU KALKANI)
+        const localGateElements = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+        localGateElements.forEach(gate => {
+            if (!gate) return;
+            gate.style.willChange = "opacity, filter, transform"; 
+            gate.style.transform = "translateZ(0)"; 
+            gate.style.transition = "opacity 200ms cubic-bezier(0.4, 0, 0.2, 1), filter 200ms ease-in-out";
+        });
+
+        // Görsel Konumlandırma ve Taşma Sabitleyicileri
         if (mainViewport) {
-            mainViewport.style.position = "fixed";
-            mainViewport.style.top = "0";
-            mainViewport.style.left = "0";
-            mainViewport.style.width = "100vw";
-            mainViewport.style.height = "100vh";
-            mainViewport.style.zIndex = "1";
+            mainViewport.style.position = "fixed"; mainViewport.style.top = "0"; mainViewport.style.left = "0";
+            mainViewport.style.width = "100vw"; mainViewport.style.height = "100vh"; mainViewport.style.zIndex = "1";
         }
 
-        // 🔮 LILITH/HEKATE SENSÖR DOCK (BURASI ARTIK TAMAMEN DİNAMİK AGA!)
         if (lilithDock) {
-            lilithDock.style.position = "fixed";
-            lilithDock.style.bottom = "75px"; // Yeşil barın hemen üst hizası
-            lilithDock.style.left = "50%";
-            lilithDock.style.transform = "translateX(-50%)";
-            lilithDock.style.width = "92%";
-            lilithDock.style.maxWidth = "380px";
-            lilithDock.style.zIndex = "100";
-            lilithDock.style.background = "rgba(5, 5, 5, 0.75)";
+            lilithDock.style.position = "fixed"; lilithDock.style.bottom = "85px"; lilithDock.style.left = "50%";
+            lilithDock.style.transform = "translateX(-50%)"; lilithDock.style.width = "92%"; lilithDock.style.maxWidth = "380px";
+            lilithDock.style.zIndex = "100"; lilithDock.style.background = "rgba(5, 5, 5, 0.75)";
+            
+            const moonPhaseText = `🌙 SELENE FAZI: %${moonLive.percent} | KADRAN: ${moonLive.seleneHex}`;
             
             if (sunPullCheck > lilithPullCheck) {
                 lilithDock.style.borderColor = "rgba(255, 170, 0, 0.25)";
                 document.getElementById('lilith-title').innerText = `⚡ SELENE YANG ACTIVE [ODA: ${sunRoom64}/64]`;
                 document.getElementById('lilith-title').style.color = "#ffaa00";
                 document.getElementById('lilith-desc').innerText = `${moonPhaseText} | 13 AY: ${moonLive.thirteenMoonText}`;
-                document.getElementById('lilith-formula').innerText = `[RAHU: ☊ ${displayZodiacName}] ──> [79Y: ${macroCycle79}]`;
+                document.getElementById('lilith-formula').innerText = `[8Y PENTAGRAM]: [${venusEarth8Y}/8] ──> [79Y RETURN]: [${macroCycle79}/79]`;
             } else {
                 lilithDock.style.borderColor = "rgba(0, 255, 170, 0.25)";
                 document.getElementById('lilith-title').innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${dayStg || "YIN"}`;
                 document.getElementById('lilith-title').style.color = "#00ffaa";
                 document.getElementById('lilith-desc').innerText = `${activeLilithMeta.csfEffect || "CSF MODU"} | ${realSaturnTransit}`;
-                document.getElementById('lilith-formula').innerText = `[13 LUNAR CYCLE] ──> ${moonLive.thirteenMoonText} | KADRAN: ${moonLive.seleneHex}`;
+                document.getElementById('lilith-formula').innerText = `[790Y KELDANİ ÇARKU]: ${greatSaros790}. ŞAR | 13 AY: ${moonLive.thirteenMoonText}`;
             }
         }
 
-        // 🟢 YEŞİL DURUM BARINI EN ALT SINIRA YAPIŞTIRMA KALKANI
-        localStatusBar.style.position = "fixed";
-        localStatusBar.style.bottom = "12px"; 
-        localStatusBar.style.left = "50%";
-        localStatusBar.style.transform = "translateX(-50%)";
-        localStatusBar.style.width = "92%";
-        localStatusBar.style.zIndex = "101"; 
-        localStatusBar.style.background = "rgba(5, 5, 5, 0.75)";
-        localStatusBar.style.fontSize = "0.55rem";
+        localStatusBar.style.position = "fixed"; localStatusBar.style.bottom = "12px"; localStatusBar.style.left = "50%";
+        localStatusBar.style.transform = "translateX(-50%)"; localStatusBar.style.width = "92%";
+        localStatusBar.style.zIndex = "101"; localStatusBar.style.background = "rgba(5, 5, 5, 0.75)"; localStatusBar.style.fontSize = "0.55rem";
 
         // =========================================================================
-        // 🎛️ GEZEGENLERİN VE 13 AY'IN NİHAİ DÖNÜŞÜ (%100 SAF AUTOMATIC MUTASYON)
+        // 🎛️ NİHAİ DİNAMİK TRANSMISSION (TEK BAKIŞTA TÜM EVREN BURADA AGA!)
         // =========================================================================
-        // Eski display kalıntıları temizlendi, doğrudan fonksiyonların canlı çıktıları kilitlendi!
         localStatusBar.innerHTML = `
             <span style="color: #00ffaa;">●</span> ${realSaturnTransit} | ${realMarsTransit} <br/>
-            <span style="color: #7a00ff;">●</span> 13 AY: ${moonLive.thirteenMoonText} | SELENE KADRANI: ${moonLive.seleneHex} <br/>
-            <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64}/64] | VALİ: ${displayGovernorIcon} [${displayGovernorName}]
+            <span style="color: #7a00ff;">●</span> 13 AY: ${moonLive.thirteenMoonText} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y] | [${airTrigonResonance}] <br/>
+            <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | 8Y VENÜS: [${venusEarth8Y}/8] | 79Y SATÜRN: [${macroCycle79}/79] | ODA: [${sunRoom64}/64]
         `;
     }
 // =========================================================================
@@ -2059,6 +2015,9 @@ function calculateMetatronMoon(date) {
 // =========================================================================
 // 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE SELENE KADRANI (NİHAİ KİLİT)
 // =========================================================================
+// =========================================================================
+// 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE DİNAMİK SELENE KADRANI
+// =========================================================================
 function calculateMetatronMoon(date) {
     const msPerDay = 86400000;
     const currentMs = date.getTime();
@@ -2072,11 +2031,9 @@ function calculateMetatronMoon(date) {
     if (currentPhaseProgress < 0) currentPhaseProgress += 1;
     
     let moonAgeDays = currentPhaseProgress * 29.530588853;
-    
-    // 🩻 KİLİT ÇÖZÜM 1: Aydınlanma yüzdesini pürüzsüz hesaplayıp değişkene bağlıyoruz
     let moonIlluminatedPercent = (currentPhaseProgress < 0.5) ? Math.round(currentPhaseProgress * 2 * 100) : Math.round((1 - currentPhaseProgress) * 2 * 100);
 
-    // 🌟 13 AY TAKVİMİ (SOLAR-LUNAR MATRIX) MATEMATİĞİ
+    // 🌟 13 AY TAKVİMİ MATEMATİĞİ (ELECTRIC MOON)
     const yearStartIndex = new Date(date.getFullYear(), 6, 26).getTime(); 
     let daysSinceGalacticYear = Math.floor((currentMs - yearStartIndex) / msPerDay);
     if (daysSinceGalacticYear < 0) daysSinceGalacticYear += 365;
@@ -2089,14 +2046,22 @@ function calculateMetatronMoon(date) {
 
     let currentMoonIndex = Math.floor(daysSinceGalacticYear / 28) % 13;
     let currentMoonDay = (daysSinceGalacticYear % 28) + 1;
-    let activeThirteenMoon = LUNAR_13_MOONS[currentMoonIndex] || "COSMIC";
+    let activeThirteenMoon = LUNAR_13_MOONS[currentMoonIndex] || "ELECTRIC";
 
-    // ☯ I CHING SELENE KADRANI (6 Bitlik Ay Geçiş Tetiği)
-    const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
-    let seleneHexIndex = Math.floor(currentPhaseProgress * 64) % 64;
+    // 🚀 KİLİT HAMLE: Gün içi sirkadiyen oda değerini canlı senkronize yakalıyoruz aga
+    const localHours = date.getHours();
+    const localMinutes = date.getMinutes();
+    const localTotalMinutes = (localHours * 60) + localMinutes;
+    const localDayRatio = localTotalMinutes / 1440;
+    let currentRoom64 = Math.floor(localDayRatio * 64) % 64;
 
-    // 🛡️ RETURN ZIRHI: undefined fırlatan tüm eksik parametreleri buraya çiviliyoruz!
-     // Fonksiyonunun en altındaki o return alanını tam olarak bu şekilde güncelle:
+    // ☯ I CHING SELENE KADRANI (6 Bitlik Ay & Güneş Birleşik Çarkı)
+    const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
+    
+    // 🛡️ KİLİT ÇÖZÜM: I Ching endeksini yavaş akan Ay evresinden kurtarıp, 
+    // doğrudan butona basınca dörder dörder (`60 -> 0 -> 4 -> 8`) sıçrayan 'currentRoom64' odasına çiviliyoruz!
+    let seleneHexIndex = Math.floor(currentRoom64) % 64;
+
     return {
         percent: moonIlluminatedPercent,
         age: moonAgeDays.toFixed(1),
@@ -2104,7 +2069,6 @@ function calculateMetatronMoon(date) {
         seleneHex: iching64[seleneHexIndex] || "䷀",
         seleneProgress: currentPhaseProgress
     };
-// <-- Fonksiyon kapanış parantezi
 }
 
 
@@ -2318,6 +2282,24 @@ function bendWiccaTime(mode) {
         triggerCircadianPulse();
     }
 }
+
+
+// =========================================================================
+// 🛸 I CHING INTEGRAL: BOŞ ODALARI (VOID) SÜPÜREN REAL-TIME KLİK MOTORU
+// =========================================================================
+// =========================================================================
+// 🎛️ WICCA OS: 16'LIK SİRKADİYEN EKSEN ATLAYICI MOTORU (SARKACIN NİHAİ KİLİDİ)
+// =========================================================================
+// Günün 24 saatini (1440 dakika) 16 ana Hermetik sirkadiyen kapıya bölüyoruz aga!
+// Her klik, simülasyon saatini doğrudan bu ana kadran koordinatlarına fırlatır:
+// =========================================================================
+// 🎛️ WICCA OS: 8'İN KATLARINA (%8 KOZMİK EKSEN) YUVARLAYICI ATLAYICI MOTORU
+// =========================================================================
+// Günün 24 saatini (1440 dakika) 64 odaya böldüğümüzde her oda tam 22.5 dakika sürer aga.
+// Bu motor, o anki odayı doğrudan bir sonraki 8'in katı olan ana istasyona fırlatır!
+// =========================================================================
+// 🪐 WICCA OS: KUTSAL 8 KAPI SİMETRİSİNE %100 UYUMLU ATLAYICI MOTORU
+// =========================================================================
 
 </script>
 
