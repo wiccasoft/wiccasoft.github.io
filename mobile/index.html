@@ -1235,19 +1235,18 @@ if (dockEl && titleEl && descEl && formEl) {
             realMarsTransit   = `♂ MARS: ${cosmicData["MARS"].sign} ${cosmicData["MARS"].symbol} ${cosmicData["MARS"].deg}° ${cosmicData["MARS"].retro}`;
         }
 
-   // ⏳ %100 DİNAMİK MAKRO VE MİKRO KOZMİK ÇAĞ KALKANLARI (MÜHENDİSLİK ZİRVESİ)
-
+     // ⏳ %100 DİNAMİK MAKRO VE MİKRO KOZMİK ÇAĞ KALKANLARI (MÜHENDİSLİK ZİRVESİ)
         const dynamicSimYear = now.getFullYear();
         
         // 🪐 1. 20 YILLIK JÜPİTER-SATÜRN MİKRO KAVUŞUM SARKACI
         const JU_SA_20Y_Cycle = ((dynamicSimYear % 20) + (sunRoom64 / 64)).toFixed(1);
         
         // =========================================================================
-        // 💨 2. JÜPİTER-SATÜRN BÜYÜK MUTASYON ÇARKI (MATEMATİKSEL KELDANİ SENKRONU)
+        // 💨 2. JÜPİTER-SATÜRN BÜYÜK MUTASYON ÇARKI (KELDANİ DÖNGÜSEL SENKRONİZASYONU)
         // =========================================================================
-        const greatMutation240 = Math.floor(dynamicSimYear / 240);
+        const greatMutation240 = Math.floor(dynamicSimYear / 240); // Eski endeks yapın korundu
         
-        // Değişkenleri hafızaya dinamik çiviliyoruz aga:
+        // Dinamik çağ metni ve opaklık motoru için global kalkanlar ayağa kaldırılıyor:
         let airTrigonResonance = `ERA: AIR MUTATION [240Y HAVA ÇAĞI] 💨`; 
         window.currentAgeIsEnlightened = true; // Opaklık motorunun okuması için global bayrak
         window.isPaganEraActive = false;
@@ -1257,31 +1256,31 @@ if (dockEl && titleEl && descEl && formEl) {
             airTrigonResonance = `ERA: PAGAN TIME [M.Ö. ${Math.abs(dynamicSimYear)} ANTİK ÇAĞ] 🔮`;
             window.currentAgeIsEnlightened = true; 
         } else {
-            // M.S. 400 Ateş Çağı büyük mutasyon eşiğini referans alan Keldani döngü çarkı
+            // M.S. 400 Ateş Çağı büyük mutasyon başlangıcını referans alan Keldani döngü çarkı
             const epochBase = dynamicSimYear - 400;
             let cyclePos = epochBase % 960;
             if (cyclePos < 0) cyclePos += 960;
 
             if (cyclePos >= 0 && cyclePos < 240) {
-                airTrigonResonance = `ERA: FIRE MUTATION [240Y ATEŞ ÇAĞI] 🔥`;
+                airTrigonResonance = `FIRE MUTATION [240Y ATEŞ ÇAĞI] 🔥`;
                 window.currentAgeIsEnlightened = true;  // Ateş = Aydınlık Çağ (Yang / Mona)
             } else if (cyclePos >= 240 && cyclePos < 480) {
-                airTrigonResonance = `ERA: EARTH MUTATION [240Y TOPRAK ÇAĞI] ⛰️`;
+                airTrigonResonance = `EARTH MUTATION [240Y TOPRAK ÇAĞI] ⛰️`;
                 window.currentAgeIsEnlightened = false; // Toprak = Karanlık Çağ (Yin / İsa)
             } else if (cyclePos >= 480 && cyclePos < 720) {
-                // 🎯 İşte 1236 yılı ve şu anki 2026 yılı tam bu Hava Çağı döngüsüne oturuyor aga!
-                airTrigonResonance = `ERA: AIR MUTATION [240Y HAVA ÇAĞI] 💨`;
+                // 🎯 İşte 1236 yılın ve şu anki 2026 yılın tam bu Hava Çağı döngüsüne düşüyor aga!
+                airTrigonResonance = `AIR MUTATION [240Y HAVA ÇAĞI] 💨`;
                 window.currentAgeIsEnlightened = true;  // Hava = Aydınlık Çağ (Yang / Mona)
             } else {
-                airTrigonResonance = `ERA: WATER MUTATION [240Y SU ÇAĞI] 💧`;
+                airTrigonResonance = `WATER MUTATION [240Y SU ÇAĞI] 💧`;
                 window.currentAgeIsEnlightened = false; // Su = Karanlık Çağ (Yin / İsa)
             }
         }
 
-        // 🌹 3. 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI
+        // 🌹 3. 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI (13:8 ALTIN ORAN DÖNGÜSÜ)
         const venusEarth8Y = ((dynamicSimYear % 8) + (sunRoom64 / 64)).toFixed(2);
-        
-        // 🪐 4. 79 YILLIK SATÜRN VE 790 YILLIK ŞAR ÇAĞI
+
+        // 🪐 4. 79 YILLIK SATÜRN-GÜNEŞ GERİ DÖNÜŞ ÇEVRİMİ VE 790 YILLIK ŞAR ÇAĞI
         const macroCycle79 = ((dynamicSimYear % 79) + (sunRoom64 / 64)).toFixed(2);
         const greatSaros790 = Math.floor(dynamicSimYear / 790);
 
@@ -2381,6 +2380,34 @@ function calculateMetatronPlanets(date) {
 }
 
 
+
+
+
+// =========================================================================
+// 🟢 WICCA OS: MUTLAK ZAMAN SIFIRLAYICI VE GERÇEK DÜNYA SENKRONİZATÖRÜ
+// =========================================================================
+function resetWiccaToRealTime() {
+    // Tüm zaman offset birikimlerini sıfırlıyoruz aga!
+    window.wiccaTimeOffsetMinutes = 0;
+    
+    // Motoru varsayılan başlangıç modu olan AY moduna geri çekiyoruz
+    if (typeof setWiccaMode === 'function') { setWiccaMode('AY'); }
+    
+    // Zaman vanasını o anki gerçek bilgisayar saatine kilitliyoruz
+    window.now = new Date();
+
+    // Siber status barı anında uyar
+    const statusBar = document.getElementById('cosmic-status');
+    if (statusBar) {
+        statusBar.innerHTML = `🟢 MATRIX RESET: LIVE QUANTUM CHRONO LINKED`;
+    }
+
+    // Tüm saat döngülerini ve pulsarları zorunlu yeniliyoruz aga
+    if (typeof updateHTMLGates === 'function') { updateHTMLGates(); }
+    
+    console.log("[WICCA OS] Simulation dissolved. Real-time synchronization active.");
+}
+
  window.wiccaTimeOffsetMinutes = 0; 
 
  // =========================================================================
@@ -2421,7 +2448,7 @@ function getDynamicCosmicAge(date) {
     window.isPaganEraActive = false;
 
     // 🪐 JÜPİTER-SATÜRN 960 YILLIK BÜYÜK MUTASYON ÇARKI
-    const epochBaseYear = 400; 
+    const epochBaseYear = 394; 
     let elapsedYears = year - epochBaseYear;
     
     let cyclePosition = elapsedYears % 960;
