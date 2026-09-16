@@ -1217,82 +1217,108 @@ if (dockEl && titleEl && descEl && formEl) {
 }
 
 // =========================================================================
-// 🔮 WICCA OS: %100 SAF AUTOMATIC FRAKTAL VE AY EVRESİ ENJEKTÖRÜ
-// =========================================================================
-if (dockEl && titleEl && descEl && formEl) {
-    const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
-    let safeDominance = Math.round((1 - targetOpacity) * 100);
-    
-    let sunPullCheck = Math.round(targetOpacity * 100);
-    let lilithPullCheck = Math.round((1 - targetOpacity) * 100);
+    // 🪐 WICCA OS: %100 CANLI PLANET TRANSİTLERİ VE 13 AY TAKVİM MÜHÜRÜ
+    // =========================================================================
+    // Kilit Çözüm: Kaçak ve asılı kalan eski display değişkenleri tamamen temizlendi!
+    // Sistem doğrudan calculateMetatronMoon ve Planets fonksiyonlarının saf canlı verilerini emer aga.
+    const localStatusBar = document.getElementById('cosmic-status');
+    const lilithDock = document.getElementById('lilith-cosmic-dock');
+    const mainViewport = document.querySelector('.main-viewport');
 
-    // KELDANİ MOTORUNDAN OTOMATİK VERİLER
-    const currentGovernorName = currentGovernor.name;
-    const currentGovernorIcon = currentGovernor.icon;
-    const currentGovernorHour = currentGovernor.hourNum;
-    const currentZodiacName = activeZodiac.name;
-
-    // 🚀 SAF MATEMATİKSEL EFEMERİS MOTORU: 8000 yıllık gezegen verileri
-    const cosmicData = calculateMetatronPlanets(now);
-    const sLive = cosmicData["SATÜRN"];
-    const mLive = cosmicData["MARS"];
-    const vLive = cosmicData["VENÜS"];
-
-    const realSaturnTransit = `♄ SATÜRN: ${sLive.sign} ${sLive.symbol} ${sLive.deg}° ${sLive.retro}`;
-    const realMarsTransit   = `♂ MARS: ${mLive.sign} ${mLive.symbol} ${mLive.deg}° ${mLive.retro}`;
-    const realVenusTransit  = `♀ VENÜS: ${vLive.sign} ${vLive.symbol} ${vLive.deg}° ${vLive.retro}`;
-
-    // 🌙 %100 SAF MATEMATİKSEL AY EVRESİ BAĞLAYICISI:
-    // Cihazın zamanı değiştikçe veya büküldükçe gerçek Ay evresi milisaniyelik hesaplanıyor aga!
-    const moonLive = calculateMetatronMoon(now);
-    const moonPhaseText = `${moonLive.icon} ${moonLive.name} (%${moonLive.percent} Aydınlanma | Yaş: ${moonLive.age} Gün)`;
-
-    // ⚡ METATRON MAKRO FRAKTAL HESABI (74 BPM / 79Y / 790Y)
-    const baseEpochYear = now.getFullYear();
-    const macroCycle79 = ((baseEpochYear % 79) + (sunRoom64 / 64)).toFixed(2);
-    const greatSaros790 = Math.floor(baseEpochYear / 790);
-    const activeKetuSign = (typeof activeZodiac !== 'undefined' && activeZodiac.opposite) ? activeZodiac.opposite : "PISCES";
-
-    // DİNAMİK MESH BOYAYICI (Kırmızı Mars, Yeşil Venüs, Siyah Satürn)
-    const marsNode = document.getElementById('mesh-mars');
-    const venusNode = document.getElementById('mesh-venus');
-    const saturnNode = document.getElementById('mesh-saturn');
-
-    if (marsNode)  marsNode.style.backgroundColor  = mLive.color;
-    if (venusNode) venusNode.style.backgroundColor = vLive.color;
-    if (saturnNode) saturnNode.style.backgroundColor = sLive.color;
-
-    if (sunPullCheck > lilithPullCheck) {
-        // ☀️ GÜNDÜZ FAZI: SELENE YANG EGEMENLİĞİ
-        titleEl.innerText = `${currentGovernorIcon} ⚡ SELENE: ${dayStg || "YANG ACTIVE"}`;
-        titleEl.style.color = "#ffaa00"; 
+    if (localStatusBar) {
+        // 🚀 SAF MATEMATİKSEL TETİKLEME: Zaman büküldükçe canlı Ay ve 13 Ay verisi anlık üretiliyor
+        const moonLive = calculateMetatronMoon(now);
         
-        descEl.innerText = `[GÜNEŞ]: Zirvede [${currentZodiacName}] | ${realSaturnTransit} | ${realVenusTransit} | ${moonPhaseText} | 79Y: [${macroCycle79}/79] | RAHU: ☊ ${currentZodiacName}`;
-        
-        if (typeof loadingTextEl !== 'undefined' && loadingTextEl) {
-            loadingTextEl.innerText = "74 BPM YANG RESONANCE...";
-            loadingTextEl.style.color = "#ffaa00";
+        const currentBinaryRoom = sunRoom64.toString(2).padStart(6, '0');
+        let safeTargetOpacity = (typeof targetOpacity !== 'undefined') ? targetOpacity : 0;
+        let safeDominance = Math.round((1 - safeTargetOpacity) * 100);
+        let sunPullCheck = Math.round(safeTargetOpacity * 100);
+        let lilithPullCheck = Math.round((1 - safeTargetOpacity) * 100);
+
+        // Keldani saat çarkı canlı verileri
+        const displayGovernorName = (typeof currentGovernor !== 'undefined' && currentGovernor?.name) ? currentGovernor.name : "SATURN";
+        const displayGovernorIcon = (typeof currentGovernor !== 'undefined' && currentGovernor?.icon) ? currentGovernor.icon : "♄";
+        const displayGovernorHour = (typeof currentGovernor !== 'undefined' && currentGovernor?.hourNum) ? currentGovernor.hourNum : "1";
+        const displayZodiacName = (typeof activeZodiac !== 'undefined' && activeZodiac) ? (activeZodiac.name || "VIRGO") : "VIRGO";
+        const activeKetuSign = (typeof activeZodiac !== 'undefined' && activeZodiac?.opposite) ? activeZodiac.opposite : "PISCES";
+
+        // 🚀 8000 YILLIK TRANSİT GEZEGEN BAĞLAYICI HÜCRESİ (NET KİLİT)
+        let realSaturnTransit = "♄ SATÜRN: ARIES ♈ 16° [Rx]";
+        let realMarsTransit   = "♂ MARS: GEMINI ♊ 7° [DIR]";
+        if (typeof calculateMetatronPlanets === 'function') {
+            const cosmicData = calculateMetatronPlanets(now);
+            const sLive = cosmicData["SATÜRN"];
+            const mLive = cosmicData["MARS"];
+            realSaturnTransit = `♄ SATÜRN: ${sLive.sign} ${sLive.symbol} ${sLive.deg}° ${sLive.retro}`;
+            realMarsTransit   = `♂ MARS: ${mLive.sign} ${mLive.symbol} ${mLive.deg}° ${mLive.retro}`;
+            
+            // Metatron renkli daire kalkanlarını (Mars Kırmızısı, Satürn Siyahı) otomatik boyayan motor:
+            const marsNode = document.getElementById('mesh-mars');
+            const saturnNode = document.getElementById('mesh-saturn');
+            if (marsNode) marsNode.style.backgroundColor = mLive.color;
+            if (saturnNode) saturnNode.style.backgroundColor = sLive.color;
         }
-        dockEl.style.borderColor = `rgba(255, 170, 0, ${0.1 + (sunPullCheck / 100) * 0.4})`;
-        dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(255, 170, 0, ${(sunPullCheck / 100) * 0.15})`;
-    } else {
-        // 🌙 GECE FAZI: LILITH / HEKATE YIN EGEMENLİĞİ (ŞU AN GÖRSELDEKİ DURUM)
-        titleEl.innerText = `${currentGovernorIcon} 🔮 [LILITHE ZİRVEDE]: ${dayStg || "YIN TRANSMISSION"}`;
-        titleEl.style.color = "#00ffaa"; 
-        
-        descEl.innerText = `[GÜNEŞ]: Aşağıda [${currentZodiacName}] ──> [OPOSİT]: ${realSaturnTransit} | ${realMarsTransit} | ${moonPhaseText} | 74 BPM METATRON INTEGRAL | 790Y KELDANİ: ${greatSaros790}. ŞAR | KETU: ☋ ${activeKetuSign}`;
-        
-        if (typeof loadingTextEl !== 'undefined' && loadingTextEl) {
-            loadingTextEl.innerText = "74 BPM YIN COUPLING...";
-            loadingTextEl.style.color = "#00ffaa";
+
+        const moonPhaseText = `🌙 SELENE FAZI: %${moonLive.percent} | KADRAN: ${moonLive.seleneHex}`;
+        const baseEpochYear = now.getFullYear();
+        const macroCycle79 = ((baseEpochYear % 79) + (sunRoom64 / 64)).toFixed(2);
+
+        // 🖼️ SANATI VE RESİMLERİ EKRANIN GÖBEĞİNE ÇİVİLEME ŞALTERİ
+        if (mainViewport) {
+            mainViewport.style.position = "fixed";
+            mainViewport.style.top = "0";
+            mainViewport.style.left = "0";
+            mainViewport.style.width = "100vw";
+            mainViewport.style.height = "100vh";
+            mainViewport.style.zIndex = "1";
         }
-        dockEl.style.borderColor = `rgba(0, 255, 170, ${0.1 + (safeDominance / 100) * 0.4})`;
-        dockEl.style.boxShadow = `0 0 20px rgba(0, 0, 0, 0.95), 0 0 10px rgba(0, 255, 170, ${(safeDominance / 100) * 0.15})`;
+
+        // 🔮 LILITH/HEKATE SENSÖR DOCK (BURASI ARTIK TAMAMEN DİNAMİK AGA!)
+        if (lilithDock) {
+            lilithDock.style.position = "fixed";
+            lilithDock.style.bottom = "75px"; // Yeşil barın hemen üst hizası
+            lilithDock.style.left = "50%";
+            lilithDock.style.transform = "translateX(-50%)";
+            lilithDock.style.width = "92%";
+            lilithDock.style.maxWidth = "380px";
+            lilithDock.style.zIndex = "100";
+            lilithDock.style.background = "rgba(5, 5, 5, 0.75)";
+            
+            if (sunPullCheck > lilithPullCheck) {
+                lilithDock.style.borderColor = "rgba(255, 170, 0, 0.25)";
+                document.getElementById('lilith-title').innerText = `⚡ SELENE YANG ACTIVE [ODA: ${sunRoom64}/64]`;
+                document.getElementById('lilith-title').style.color = "#ffaa00";
+                document.getElementById('lilith-desc').innerText = `${moonPhaseText} | 13 AY: ${moonLive.thirteenMoonText}`;
+                document.getElementById('lilith-formula').innerText = `[RAHU: ☊ ${displayZodiacName}] ──> [79Y: ${macroCycle79}]`;
+            } else {
+                lilithDock.style.borderColor = "rgba(0, 255, 170, 0.25)";
+                document.getElementById('lilith-title').innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${dayStg || "YIN"}`;
+                document.getElementById('lilith-title').style.color = "#00ffaa";
+                document.getElementById('lilith-desc').innerText = `${activeLilithMeta.csfEffect || "CSF MODU"} | ${realSaturnTransit}`;
+                document.getElementById('lilith-formula').innerText = `[13 LUNAR CYCLE] ──> ${moonLive.thirteenMoonText} | KADRAN: ${moonLive.seleneHex}`;
+            }
+        }
+
+        // 🟢 YEŞİL DURUM BARINI EN ALT SINIRA YAPIŞTIRMA KALKANI
+        localStatusBar.style.position = "fixed";
+        localStatusBar.style.bottom = "12px"; 
+        localStatusBar.style.left = "50%";
+        localStatusBar.style.transform = "translateX(-50%)";
+        localStatusBar.style.width = "92%";
+        localStatusBar.style.zIndex = "101"; 
+        localStatusBar.style.background = "rgba(5, 5, 5, 0.75)";
+        localStatusBar.style.fontSize = "0.55rem";
+
+        // =========================================================================
+        // 🎛️ GEZEGENLERİN VE 13 AY'IN NİHAİ DÖNÜŞÜ (%100 SAF AUTOMATIC MUTASYON)
+        // =========================================================================
+        // Eski display kalıntıları temizlendi, doğrudan fonksiyonların canlı çıktıları kilitlendi!
+        localStatusBar.innerHTML = `
+            <span style="color: #00ffaa;">●</span> ${realSaturnTransit} | ${realMarsTransit} <br/>
+            <span style="color: #7a00ff;">●</span> 13 AY: ${moonLive.thirteenMoonText} | SELENE KADRANI: ${moonLive.seleneHex} <br/>
+            <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64}/64] | VALİ: ${displayGovernorIcon} [${displayGovernorName}]
+        `;
     }
-    
-    // Alt durum çubuğunun nihai otonom mührü
-    formEl.innerText = `YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${sunRoom64}/64] | METATRON DOCK: ♄ ${sLive.sign} ──> ♂ ${mLive.sign}`;
-}
 // =========================================================================
 // 🫀 ELECTRO-CARDIOGRAPHY (EKG) ÇERCEVE AKIM SÜRÜCÜSÜ
 // =========================================================================
@@ -1408,6 +1434,10 @@ if (metatronIframe && metatronIframe.contentWindow) {
         moonColor: dynamicMoonColor  
     }, '*');
 }
+
+
+
+
 
 }, pulseInterval);
 
@@ -2077,100 +2107,7 @@ function calculateMetatronMoon(date) {
 // <-- Fonksiyon kapanış parantezi
 }
 
-// =========================================================================
-// 🎛️ PANEL ENJEKSİYON KATMANI (DOM KALKANLI VE %100 OTOMATİK NİHAİ MÜHÜR)
-// =========================================================================
-const localStatusBar = document.getElementById('cosmic-status');
 
-if (localStatusBar) {
-    const localNow = (typeof now !== 'undefined' && now) ? now : new Date();
-    
-    let localRoom64 = 0;
-    if (typeof sunRoom64 !== 'undefined') {
-        localRoom64 = sunRoom64;
-    } else {
-        const localHours = localNow.getHours();
-        const localMinutes = localNow.getMinutes();
-        const localTotalMinutes = (localHours * 60) + localMinutes;
-        const localDayRatio = localTotalMinutes / 1440;
-        localRoom64 = Math.floor(localDayRatio * 64) % 64;
-    }
-
-    const currentBinaryRoom = localRoom64.toString(2).padStart(6, '0');
-    
-    let safeTargetOpacity = (typeof targetOpacity !== 'undefined') ? targetOpacity : 0;
-    let safeDominance = Math.round((1 - safeTargetOpacity) * 100);
-    let sunPullCheck = Math.round(safeTargetOpacity * 100);
-    let lilithPullCheck = Math.round((1 - safeTargetOpacity) * 100);
-
-    // 🌙 13 AY TAKVİMİ VE I CHING SELENE MOTORU GÜVENLİK BARİKATI (ZIRHLI REJENERASYON)
-    let displayThirteenMoon = "COSMIC MOON ──> GÜN: [4/28]";
-    let displaySeleneHex = "䷔";
-    let displayMoonPercent = "28";
-    let displayMoonAge = "4.1";
-
-    if (typeof calculateMetatronMoon === 'function') {
-        try {
-            const mData = calculateMetatronMoon(localNow);
-            if (mData) {
-                displayThirteenMoon = mData.thirteenMoonText || "COSMIC MOON ──> GÜN: [4/28]";
-                displaySeleneHex = mData.seleneHex || "䷔";
-                displayMoonPercent = mData.percent !== undefined ? mData.percent : "28";
-                displayMoonAge = mData.age !== undefined ? mData.age : "4.1";
-            }
-        } catch(e) {}
-    }
-
-    // KELDANİ VE ANLIK TRANSİT GÜVENLİK KALKANLARI
-    const displayGovernorName = (typeof currentGovernor !== 'undefined' && currentGovernor?.name) ? currentGovernor.name : "SATURN";
-    const displayGovernorIcon = (typeof currentGovernor !== 'undefined' && currentGovernor?.icon) ? currentGovernor.icon : "♄";
-    const displayGovernorHour = (typeof currentGovernor !== 'undefined' && currentGovernor?.hourNum) ? currentGovernor.hourNum : "1";
-    
-    let displayZodiacName = "VIRGO";
-    if (typeof activeZodiac !== 'undefined' && activeZodiac?.name) {
-        displayZodiacName = activeZodiac.name;
-    } else if (typeof WICCA_SUN_SIGNS !== 'undefined') {
-        displayZodiacName = WICCA_SUN_SIGNS[localNow.getMonth()]?.name || "VIRGO";
-    }
-
-    // 🚀 AÇIĞI KAPATAN YENİ ŞABLON METNİ: Çıplak ve kaçak moonLive çağrıları tamamen eritildi!
-    const moonPhaseText = `🌙 SELENE FAZI: %${displayMoonPercent} | KADRAN: ${displaySeleneHex} (%${displayMoonPercent} Aydınlanma | Yaş: ${displayMoonAge} Gün)`;
-    
-    const baseEpochYear = localNow.getFullYear();
-    const macroCycle79 = ((baseEpochYear % 79) + (localRoom64 / 64)).toFixed(2);
-    const greatSaros790 = Math.floor(baseEpochYear / 790);
-    const activeKetuSign = (typeof activeZodiac !== 'undefined' && activeZodiac?.opposite) ? activeZodiac.opposite : "PISCES";
-
-    // 🔮 LILITH/HEKATE GİZLİ FELSEFE PANELİ ENJEKSİYONU
-    const lilithTitleEl = document.getElementById('lilith-title');
-    const lilithDescEl = document.getElementById('lilith-desc');
-    const lilithFormulaEl = document.getElementById('lilith-formula');
-    const activeLilithMeta = (typeof getActiveLilithPhase === 'function') ? getActiveLilithPhase(localRoom64) : { title: "YIN MATRIX", csfEffect: "CSF", magicPhase: "Yin" };
-
-    if (lilithTitleEl && lilithDescEl && lilithFormulaEl) {
-        if (sunPullCheck > lilithPullCheck) {
-            lilithTitleEl.innerText = `⚡ SELENE YANG ACTIVE [ODA: ${localRoom64}/64]`;
-            lilithTitleEl.style.color = "#ffaa00";
-            lilithDescEl.innerText = `${moonPhaseText} | 13 AY: ${displayThirteenMoon}`;
-            lilithFormulaEl.innerText = `[RAHU: ☊ ${displayZodiacName}] ──> [79Y: ${macroCycle79}]`;
-        } else {
-            lilithTitleEl.innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${typeof dayStg !== 'undefined' ? dayStg : "YIN"}`;
-            lilithTitleEl.style.color = "#00ffaa";
-            lilithDescEl.innerText = `${activeLilithMeta.csfEffect || "CSF MÜHÜRLENDİ"} | KETU: ☋ ${activeKetuSign}`;
-            lilithFormulaEl.innerText = `[13 LUNAR CYCLE] ──> ${displayThirteenMoon} | KADRAN: ${displaySeleneHex}`;
-        }
-    }
-
-    // =========================================================================
-    // 🎛 GREEN PANEL NİHAİ MÜHÜRLEME (KOPUKLUK VE UNDEFINED TAMAMEN KAZINDI AGA!)
-    // =========================================================================
-    // Kilit Çözüm: Buradaki tüm çağrıları zırhlı yerel koruma değişkenlerimize bağladık!
-    localStatusBar.innerHTML = `
-        <span style="color: #00ffaa;">●</span> ${typeof dayStg !== 'undefined' ? dayStg : "SİRKADİYEN DÖNGÜ AKTİF"} <br/>
-        <span style="color: #7a00ff;">●</span> 13 AY: ${displayThirteenMoon} | SELENE KADRANI: ${displaySeleneHex} <br/>
-        <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | BINARY: ${currentBinaryRoom} | ODA: [${localRoom64}/64] | VALİ: ${displayGovernorIcon} [${displayGovernorName}] (${displayGovernorHour}. Saat)
-    `;
-}
 // =========================================================================
 // ⚡ LUNAR INTEGRAL: AY EVRESİNE GÖRE SABBAT KAPILARI PARLAMA ENJEKTÖRÜ
 // =========================================================================
