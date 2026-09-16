@@ -545,30 +545,33 @@ footer {
 }
  </style>
 </head>
+
 <body>
 
     <header>
        
     </header>
+
 <!-- =========================================================================
      🎮 WICCA OS: 10X FRAKTAL ZAMAN MAKİNESİ PANEL ENJEKSİYONU (2 SAAT KİLİTLİ MODEL)
      ========================================================================= -->
-<div id="time-machine-panel" style="display: flex; justify-content: center; gap: 10px; margin: 15px auto; max-width: 400px; padding: 10px; background: rgba(0,0,0,0.85); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important; position: relative;">
-    <button onclick="bendWiccaTime('PAST')" style="flex: 1; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00;">◀ PAST</button>
-    <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff;">FUTURE ▶</button>
+<div id="time-machine-panel" style="display: flex; flex-direction: column; gap: 8px; margin: 15px auto; max-width: 400px; padding: 12px; background: rgba(0,0,0,0.85); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important; position: relative;">
+    
+    <!-- 🎛️ MOD SEÇİCİ SEKMELER (Açılışta AY GÜNÜ aktif ve parlar) -->
+    <div style="display: flex; justify-content: space-between; gap: 5px; margin-bottom: 4px;">
+        <button id="mode-btn-saat" onclick="setWiccaMode('SAAT')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px; font-size: 10px; cursor: pointer; font-weight: bold; transition: all 0.2s; border-radius: 2px;">⏰ SAAT (ODA)</button>
+        <button id="mode-btn-gün" onclick="setWiccaMode('GÜN')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px; font-size: 10px; cursor: pointer; font-weight: bold; transition: all 0.2s; border-radius: 2px;">📅 GÜN</button>
+        <button id="mode-btn-ay" onclick="setWiccaMode('AY')" style="flex: 1; background: rgba(122, 0, 255, 0.2); color: #fff; border: 1px solid #7a00ff; box-shadow: 0 0 8px rgba(122, 0, 255, 0.4); padding: 5px; font-size: 10px; cursor: pointer; font-weight: bold; transition: all 0.2s; border-radius: 2px;">🌙 AY GÜNÜ</button>
+    </div>
+
+    <!-- 🚀 GEZİNTİ BUTONLARI -->
+    <div style="display: flex; gap: 10px;">
+        <button onclick="bendWiccaTime('PAST')" style="flex: 1; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00; border-radius: 2px;">◀ PAST</button>
+        <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff; border-radius: 2px;">FUTURE ▶</button>
+    </div>
 </div>
 
 
-<script>
-if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-function bendWiccaTime(mode) {
-    if (mode === 'FUTURE') { window.wiccaTimeOffsetMinutes += 120; }
-    else if (mode === 'PAST') { window.wiccaTimeOffsetMinutes -= 120; }
-    window.now = new Date(new Date().getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
-    if (typeof updateCosmicClock === 'function') { updateCosmicClock(); }
-    if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
-}
-</script>
 
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
 <!-- 🧭 8 KÖŞELİ KOZMİK PUSULA (CARDINAL + FIXED CROSS) -->
@@ -764,6 +767,7 @@ setInterval(() => {
 
     const moonLive = calculateMetatronMoon(now);
 
+  
     // Güncel simülasyon zamanının ay değerini (0-11) okuyoruz
     const currentMonthIndex = now.getMonth(); 
     const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
@@ -803,8 +807,8 @@ setInterval(() => {
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
     let roomDurationMinutes = isYang ? ((solar.dayLength * 60) / 32) : (((24 - solar.dayLength) * 60) / 32);
 
-    let sunRoom64 = isYang ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
 
+    let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
     let currentSunHexagram = iching64[sunRoom64];
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
@@ -2249,57 +2253,105 @@ function calculateMetatronPlanets(date) {
 }
 
 
-function bendWiccaTime(mode) {
-    // 1 Oda periyodu yaklaşık 22 dakikadır
-    const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
-    
-    if (mode === 'NEXT') {
-        wiccaTimeOffsetMinutes += roomDuration;
-    } else if (mode === 'PREV') {
-        wiccaTimeOffsetMinutes -= roomDuration;
-    } else if (mode === 'FUTURE') {
-        wiccaTimeOffsetMinutes += (roomDuration * 4); // 4 Oda ileri sar (Hızlı Geçiş)
-    } else if (mode === 'PAST') {
-        wiccaTimeOffsetMinutes -= (roomDuration * 4); // 4 Oda geri sar
-    }
+ window.wiccaTimeOffsetMinutes = 0; 
 
-    // Gerçek saati bozmadan simülasyon zamanı üreten siber çekirdek
-    const originalDate = new Date();
-    const simulatedDate = new Date(originalDate.getTime() + (wiccaTimeOffsetMinutes * 60 * 1000));
-    
-    // index.html içindeki ana zaman nesnesini büküyoruz
-    if (typeof now !== 'undefined') {
-        now = simulatedDate;
-    } else {
-        // Eğer global nesne direkt 'now' değilse simülasyonu ana döngüye yedir
-        window.now = simulatedDate;
-    }
-
-    // Siber status bardan zorunlu yenileme tetiklemesi fırlatıyoruz
-    if (typeof updateCosmicClock === 'function') {
-        updateCosmicClock();
-    } else if (typeof triggerCircadianPulse === 'function') {
-        triggerCircadianPulse();
-    }
-}
-
-
-// =========================================================================
-// 🛸 I CHING INTEGRAL: BOŞ ODALARI (VOID) SÜPÜREN REAL-TIME KLİK MOTORU
-// =========================================================================
-// =========================================================================
-// 🎛️ WICCA OS: 16'LIK SİRKADİYEN EKSEN ATLAYICI MOTORU (SARKACIN NİHAİ KİLİDİ)
-// =========================================================================
+ // =========================================================================
 // Günün 24 saatini (1440 dakika) 16 ana Hermetik sirkadiyen kapıya bölüyoruz aga!
 // Her klik, simülasyon saatini doğrudan bu ana kadran koordinatlarına fırlatır:
 // =========================================================================
 // 🎛️ WICCA OS: 8'İN KATLARINA (%8 KOZMİK EKSEN) YUVARLAYICI ATLAYICI MOTORU
 // =========================================================================
-// Günün 24 saatini (1440 dakika) 64 odaya böldüğümüzde her oda tam 22.5 dakika sürer aga.
-// Bu motor, o anki odayı doğrudan bir sonraki 8'in katı olan ana istasyona fırlatır!
-// =========================================================================
-// 🪐 WICCA OS: KUTSAL 8 KAPI SİMETRİSİNE %100 UYUMLU ATLAYICI MOTORU
-// =========================================================================
+
+// 🛡️ Global Değişken Kalkanları
+if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
+if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } // Varsayılanı AY yaptık aga!
+
+function bendWiccaTime(modeDirection) {
+    const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
+    let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
+
+    const originalDate = new Date();
+    let baseDate = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
+
+    // =========================================================================
+    // 🎛️ AKTİF MODA GÖRE YÖNLENDİRME (FUTURE -> İLERİ, PAST -> GERİ)
+    // =========================================================================
+    
+    if (window.wiccaActiveMode === 'AY') {
+        // 🌙 AY VE AY GÜNÜ MERKEZLİ NOKTA ATIŞI ÇAPA
+        if (modeDirection === 'FUTURE') {
+            baseDate.setMonth(baseDate.getMonth() + 1);
+        } else if (modeDirection === 'PAST') {
+            baseDate.setMonth(baseDate.getMonth() - 1);
+        }
+        window.wiccaTimeOffsetMinutes = Math.round((baseDate.getTime() - originalDate.getTime()) / (60 * 1000));
+    } 
+    
+    else if (window.wiccaActiveMode === 'GÜN') {
+        // 📅 GÜN BAZINDA GÜN İÇİ AŞAMAYI DONDURARAK ZIPLAMA
+        if (modeDirection === 'FUTURE') {
+            baseDate.setDate(baseDate.getDate() + 1);
+        } else if (modeDirection === 'PAST') {
+            baseDate.setDate(baseDate.getDate() - 1);
+        }
+        window.wiccaTimeOffsetMinutes = Math.round((baseDate.getTime() - originalDate.getTime()) / (60 * 1000));
+    } 
+    
+    else if (window.wiccaActiveMode === 'SAAT') {
+        // ⏰ AKTİF GÜN İÇİNDE 8'ER ODALIK VİTESLİ AŞAMA İLERLEMESİ
+        if (modeDirection === 'FUTURE') {
+            let next8Multiple = Math.floor(currentRoom / 8) * 8 + 8;
+            if (next8Multiple > 64) next8Multiple = 0;
+            let roomsToJump = next8Multiple - currentRoom;
+            if (roomsToJump <= 0) roomsToJump += 64;
+            window.wiccaTimeOffsetMinutes += (roomDuration * roomsToJump);
+        } else if (modeDirection === 'PAST') {
+            let prev8Multiple = (currentRoom % 8 === 0) ? currentRoom - 8 : Math.floor(currentRoom / 8) * 8;
+            if (prev8Multiple < 0) prev8Multiple = 64;
+            let roomsToJump = currentRoom - prev8Multiple;
+            if (roomsToJump <= 0) roomsToJump += 64;
+            window.wiccaTimeOffsetMinutes -= (roomDuration * roomsToJump);
+        }
+    }
+
+    // Nihai hesaplanan simülasyon zamanını motora yedir
+    const simulatedDate = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
+    
+    if (typeof now !== 'undefined') { now = simulatedDate; } 
+    else { window.now = simulatedDate; }
+
+    // Siber status bara manuel log yazalım kullanıcı görsün
+    const statusBar = document.getElementById('cosmic-status');
+    if (statusBar) {
+        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | ODA: ${currentRoom}/64`;
+    }
+
+    if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
+    if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
+}
+
+// 🎛️ Mod Değiştirici Yardımcı Fonksiyon
+function setWiccaMode(selectedMode) {
+    window.wiccaActiveMode = selectedMode;
+    
+    // Butonların görsel aktiflik durumunu güncelle (Neon parlamalar)
+    document.querySelectorAll('.wicca-mode-btn').forEach(btn => {
+        btn.style.background = '#111';
+        btn.style.borderColor = '#333';
+        btn.style.color = '#555';
+        btn.style.boxShadow = 'none';
+    });
+    
+    const activeBtn = document.getElementById('mode-btn-' + selectedMode.toLowerCase());
+    if (activeBtn) {
+        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)';
+        activeBtn.style.borderColor = '#7a00ff';
+        activeBtn.style.color = '#fff';
+        activeBtn.style.boxShadow = '0 0 10px #7a00ff';
+    }
+}
+
+
 
 </script>
 
