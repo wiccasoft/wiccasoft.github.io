@@ -764,7 +764,11 @@ setInterval(() => {
     // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
 
-    // 1. ÖNCE coğrafi güneş verilerini içerideki mevcut (izinsiz) konum değişkenleriyle hesapla:
+
+    // 🔄 ÖNCE o asrın Jüpiter-Satürn Çağını (AGE) ve tablonun gerçek resmini hesaplayıp hafızaya alıyoruz:
+    const currentAgeObj = getDynamicCosmicAge(now);
+
+    // 1. coğrafi güneş verilerini içerideki mevcut (izinsiz) konum değişkenleriyle hesapla:
     //const solar = getExactSolarTimes(currentLat, currentLon);
     const solar = getExactSolarTimes(currentLat, currentLon, now);
 
@@ -803,6 +807,10 @@ setInterval(() => {
     const metalGate = document.getElementById('gate-metal');
     const iceGate   = document.getElementById('gate-ice');
     const statusBar = document.getElementById('cosmic-status');
+
+
+
+    window.currentCosmicAgeText = currentAgeObj.displayText; 
 
 
 // =========================================================================
@@ -1024,18 +1032,7 @@ if (monaElement && salvadorElement) {
     }
 
 
-
-  // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
-    targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
-    targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
-
-    monaElement.style.opacity = targetMonaOpacity.toFixed(4);
-    salvadorElement.style.opacity = targetSalvadorOpacity.toFixed(4);
-
-    // Var olan global targetOpacity değişkenini doğrudan güncelliyoruz
-    if (typeof targetOpacity !== 'undefined') {
-        targetOpacity = targetMonaOpacity;
-    }
+    
 
  // =========================================================================
     // 🎛️ TERMINAL CANLANDIRICI ENJEKTÖR (HAYALET YAZIYI KÖKTEN ERİTEN KALKAN)
@@ -1238,22 +1235,55 @@ if (dockEl && titleEl && descEl && formEl) {
             realMarsTransit   = `♂ MARS: ${cosmicData["MARS"].sign} ${cosmicData["MARS"].symbol} ${cosmicData["MARS"].deg}° ${cosmicData["MARS"].retro}`;
         }
 
-        // ⏳ %100 DİNAMİK MAKRO VE MİKRO KOZMİK ÇAĞ KALKANLARI (MÜHENDİSLİK ZİRVESİ)
+   // ⏳ %100 DİNAMİK MAKRO VE MİKRO KOZMİK ÇAĞ KALKANLARI (MÜHENDİSLİK ZİRVESİ)
+
         const dynamicSimYear = now.getFullYear();
         
         // 🪐 1. 20 YILLIK JÜPİTER-SATÜRN MİKRO KAVUŞUM SARKACI
         const JU_SA_20Y_Cycle = ((dynamicSimYear % 20) + (sunRoom64 / 64)).toFixed(1);
         
-        // 💨 2. 240 YILLIK BÜYÜK MUTASYON ÇAĞI (AIR TRIGON COMPLIANT)
+        // =========================================================================
+        // 💨 2. JÜPİTER-SATÜRN BÜYÜK MUTASYON ÇARKI (MATEMATİKSEL KELDANİ SENKRONU)
+        // =========================================================================
         const greatMutation240 = Math.floor(dynamicSimYear / 240);
-        const airTrigonResonance = `ERA: AIR MUTATION [240Y HAVA ÇAĞI] 💨`;
+        
+        // Değişkenleri hafızaya dinamik çiviliyoruz aga:
+        let airTrigonResonance = `ERA: AIR MUTATION [240Y HAVA ÇAĞI] 💨`; 
+        window.currentAgeIsEnlightened = true; // Opaklık motorunun okuması için global bayrak
+        window.isPaganEraActive = false;
 
-        // 🌹 3. 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI (13:8 ALTIN ORAN DÖNGÜSÜ)
+        if (dynamicSimYear <= 0) {
+            window.isPaganEraActive = true;
+            airTrigonResonance = `ERA: PAGAN TIME [M.Ö. ${Math.abs(dynamicSimYear)} ANTİK ÇAĞ] 🔮`;
+            window.currentAgeIsEnlightened = true; 
+        } else {
+            // M.S. 400 Ateş Çağı büyük mutasyon eşiğini referans alan Keldani döngü çarkı
+            const epochBase = dynamicSimYear - 400;
+            let cyclePos = epochBase % 960;
+            if (cyclePos < 0) cyclePos += 960;
+
+            if (cyclePos >= 0 && cyclePos < 240) {
+                airTrigonResonance = `ERA: FIRE MUTATION [240Y ATEŞ ÇAĞI] 🔥`;
+                window.currentAgeIsEnlightened = true;  // Ateş = Aydınlık Çağ (Yang / Mona)
+            } else if (cyclePos >= 240 && cyclePos < 480) {
+                airTrigonResonance = `ERA: EARTH MUTATION [240Y TOPRAK ÇAĞI] ⛰️`;
+                window.currentAgeIsEnlightened = false; // Toprak = Karanlık Çağ (Yin / İsa)
+            } else if (cyclePos >= 480 && cyclePos < 720) {
+                // 🎯 İşte 1236 yılı ve şu anki 2026 yılı tam bu Hava Çağı döngüsüne oturuyor aga!
+                airTrigonResonance = `ERA: AIR MUTATION [240Y HAVA ÇAĞI] 💨`;
+                window.currentAgeIsEnlightened = true;  // Hava = Aydınlık Çağ (Yang / Mona)
+            } else {
+                airTrigonResonance = `ERA: WATER MUTATION [240Y SU ÇAĞI] 💧`;
+                window.currentAgeIsEnlightened = false; // Su = Karanlık Çağ (Yin / İsa)
+            }
+        }
+
+        // 🌹 3. 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI
         const venusEarth8Y = ((dynamicSimYear % 8) + (sunRoom64 / 64)).toFixed(2);
-
-        // 🪐 4. 79 YILLIK SATÜRN-GÜNEŞ GERİ DÖNÜŞ ÇEVRİMİ VE 790 YILLIK ŞAR ÇAĞI
+        
+        // 🪐 4. 79 YILLIK SATÜRN VE 790 YILLIK ŞAR ÇAĞI
         const macroCycle79 = ((dynamicSimYear % 79) + (sunRoom64 / 64)).toFixed(2);
-        const greatSaros790 = Math.floor(dynamicSimYear / 790); 
+        const greatSaros790 = Math.floor(dynamicSimYear / 790);
 
         // 🩻 İPEKSİ 200MS DONANIM LAG ENJEKTÖRÜ (ÇATLAMAYI ÖNLEYEN GPU KALKANI)
         const localGateElements = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
@@ -1305,6 +1335,66 @@ if (dockEl && titleEl && descEl && formEl) {
             <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | 8Y VENÜS: [${venusEarth8Y}/8] | 79Y SATÜRN: [${macroCycle79}/79] | ODA: [${sunRoom64}/64]
         `;
     }
+
+
+
+
+    
+ // =========================================================================
+    // 🎭 ERA OVERLORD: KULLANICI SAATİNİ EZİP ÇAĞIN GERÇEK RESMİNİ GÖSTERMEK
+    // =========================================================================
+    // Sayfa açılır açılmaz ve her zaman büküldüğünde dinamik AGE verisini hesaplıyoruz aga:
+    //const currentAgeObj = getDynamicCosmicAge(now);
+    window.currentCosmicAgeText = currentAgeObj.displayText;
+
+    // Elementleri güvenli modda yakalıyoruz
+    //const monaElement = document.getElementById('mona-lisa') || document.querySelector('.matrix-mona');
+    //const salvadorElement = document.getElementById('salvator-mundi') || document.querySelector('.matrix-salvador');
+
+    if (monaElement && salvadorElement) {
+        // 🎯 KİLİT HAMLE: Başına 'let' koymuyoruz aga, zaten yukarıda declare edilmiş olan değişkenleri doğrudan büküyoruz!
+        if (window.wiccaActiveMode === 'SATURN79' || window.wiccaActiveMode === 'KELDANI790') {
+            if (window.isPaganEraActive === true || currentAgeObj.isEnlightened === true) {
+                targetMonaOpacity = 1.0;     // Aydınlık Çağ (Hava/Ateş): Saf Mona Lisa!
+                targetSalvadorOpacity = 0.0;
+            } else {
+                targetMonaOpacity = 0.0;     // Karanlık Çağ (Su/Toprak): Saf İsa!
+                targetSalvadorOpacity = 1.0;
+            }
+        } else {
+            // Eğer mikro modlardaysak (SAAT, GÜN, AY), senin o eski şahane sirkadiyen oda formülün çalışır:
+            if (sunRoom64 >= 48 && sunRoom64 <= 64) {
+                let progress = (sunRoom64 - 48) / (64 - 48);
+                let twilightCalibrated = Math.pow(progress, 3.5);
+                targetMonaOpacity = twilightCalibrated;
+                targetSalvadorOpacity = 1 - twilightCalibrated;
+            } else if (sunRoom64 >= 0 && sunRoom64 < 16) {
+                targetMonaOpacity = 1.0;
+                targetSalvadorOpacity = 0.0;
+            } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+                let progress = (sunRoom64 - 16) / (32 - 16);
+                targetMonaOpacity = 1.0 - progress;
+                targetSalvadorOpacity = progress;
+            } else {
+                targetMonaOpacity = 0.0;
+                targetSalvadorOpacity = 1.0;
+            }
+        }
+
+        // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
+        targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
+        targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
+
+        // GPU'yu yormayan ipeksi mikroskobik opaklık enjeksiyonu
+        monaElement.style.opacity = targetMonaOpacity.toFixed(4);
+        salvadorElement.style.opacity = targetSalvadorOpacity.toFixed(4);
+
+        // Var olan global targetOpacity değişkenini doğrudan güncelliyoruz
+        if (typeof targetOpacity !== 'undefined') {
+            targetOpacity = targetMonaOpacity;
+        }
+    }
+
 // =========================================================================
 // 🫀 ELECTRO-CARDIOGRAPHY (EKG) ÇERCEVE AKIM SÜRÜCÜSÜ
 // =========================================================================
@@ -2308,17 +2398,81 @@ if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'A
 // 🎛️ WICCA OS: NİHAİ ÇAĞ ATLATICI VE MAKRO KOZMİK EKSEN SÜRÜCÜSÜ
 // =========================================================================
 
+
+// =========================================================================
+// 🌀 WICCA OS: JÜPİTER-SATÜRN KAVUŞUM BAZLI DİNAMİK ÇAĞ (AGE) MOTORU
+// =========================================================================
+// =========================================================================
+// 🌀 WICCA OS: JÜPİTER-SATÜRN KAVUŞUM BAZLI DİNAMİK ÇAĞ (AGE) MOTORU
+// =========================================================================
+function getDynamicCosmicAge(date) {
+    const year = date.getFullYear();
+
+    // 🛡️ Milat Öncesi Pagan/Antik Çağ Kalkanı
+    if (year <= 0) {
+        window.isPaganEraActive = true;
+        return {
+            name: "PAGAN ANCIENT ERA",
+            element: "PRIMORDIAL",
+            displayText: `[ERA: PAGAN TIME / M.Ö. ${Math.abs(year)} ANTİK ÇAĞ]`,
+            isEnlightened: true // İsa öncesi: Sadece Mona Lisa (Yang / Doğa) parlar!
+        };
+    }
+    window.isPaganEraActive = false;
+
+    // 🪐 JÜPİTER-SATÜRN 960 YILLIK BÜYÜK MUTASYON ÇARKI
+    const epochBaseYear = 400; 
+    let elapsedYears = year - epochBaseYear;
+    
+    let cyclePosition = elapsedYears % 960;
+    if (cyclePosition < 0) cyclePosition += 960;
+
+    let ageName = "";
+    let ageElement = "";
+    let ageDisplay = "";
+    let isEnlightenedAge = false;
+
+    // 240'ar yıllık 4 element dilimi (Ateş, Toprak, Hava, Su)
+    if (cyclePosition >= 0 && cyclePosition < 240) {
+        ageName = "FIRE MUTATION"; ageElement = "FIRE";
+        ageDisplay = "[ERA: FIRE MUTATION / 240Y ATEŞ ÇAĞI]";
+        isEnlightenedAge = true; // Ateş = Aydınlık Çağ (Yang / Mona Lisa)
+    } 
+    else if (cyclePosition >= 240 && cyclePosition < 480) {
+        ageName = "EARTH MUTATION"; ageElement = "EARTH";
+        ageDisplay = "[ERA: EARTH MUTATION / 240Y TOPRAK ÇAĞI]";
+        isEnlightenedAge = false; // Toprak = Karanlık Çağ (Yin / Salvator)
+    } 
+    else if (cyclePosition >= 480 && cyclePosition < 720) {
+        ageName = "AIR MUTATION"; ageElement = "AIR";
+        ageDisplay = "[ERA: AIR MUTATION / 240Y HAVA ÇAĞI]";
+        isEnlightenedAge = true; // Hava = Aydınlık Çağ (Yang / Mona Lisa)
+    } 
+    else {
+        ageName = "WATER MUTATION"; ageElement = "WATER";
+        ageDisplay = "[ERA: WATER MUTATION / 240Y SU ÇAĞI]";
+        isEnlightenedAge = false; // Su = Karanlık Çağ (Yin / Salvator)
+    }
+
+    return {
+        name: ageName, element: ageElement, displayText: ageDisplay, isEnlightened: isEnlightenedAge
+    };
+}
 // Fonksiyonun mod kontrol alanına şu iki devasa vitesi ekliyoruz aga:
 // =========================================================================
 // 🎛️ WICCA OS: 79 & 790 YILLIK MAKRO ÇAĞ ATLATICI MODÜLÜ
 // =========================================================================
+
+// 🛡️ Global Değişken Kalkanları
+if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
+if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
 function bendWiccaTime(modeDirection) {
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
     let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
 
     // =========================================================================
-    // 🎛️ AKTİF MODA GÖRE MAKRO ZAMAN EKSENİ BÜKÜCÜ
+    // 🎛️ DOĞRUSAL BÜKME MOTORU - ZAMAN AKÜMÜLATÖRÜ (ASLA PATİNAJ YAPMAZ)
     // =========================================================================
     
     if (window.wiccaActiveMode === 'AY') {
@@ -2344,23 +2498,30 @@ function bendWiccaTime(modeDirection) {
             window.wiccaTimeOffsetMinutes -= (roomDuration * roomsToJump);
         }
     }
-    // ♀️ YENİ MODÜL: 7.92 YILLIK VENÜS PENTAGRAM DÖNGÜSÜ (Tam döngü kilit dakikası)
+    // ♀️ 7.92 YILLIK VENÜS DÖNGÜSÜ
     else if (window.wiccaActiveMode === 'VENUS8') {
-        if (modeDirection === 'FUTURE') {
-            window.wiccaTimeOffsetMinutes += (7.92 * 365.25 * 24 * 60); 
-        } else if (modeDirection === 'PAST') {
-            window.wiccaTimeOffsetMinutes -= (7.92 * 365.25 * 24 * 60); 
-        }
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (7.92 * 365.25 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (7.92 * 365.25 * 24 * 60); }
+    }
+    // 🪐 79 YILLIK BÜYÜK SATÜRN DÖNGÜSÜ (Seven of Nine Modülü!)
+    else if (window.wiccaActiveMode === 'SATURN79') {
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (79 * 365.25 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (79 * 365.25 * 24 * 60); }
+    }
+    // 🌀 790 YILLIK BÜYÜK KELDANİ MUTASYONU
+    else if (window.wiccaActiveMode === 'KELDANI790') {
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (790 * 365.25 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (790 * 365.25 * 24 * 60); }
     }
 
-    // Nihai sanal zamanı hesapla ve motor vanasına (window.now) üfle aga
-    const originalDate = new Date();
-    window.now = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
+    // 🔥 ÇÖZÜM: Gerçek zamanı baz alıp biriken net offseti temizce üzerine gömüyoruz aga!
+    const baseDate = new Date();
+    window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
 
-    // Siber status bar güncellemesi
+    // Siber status barı anlık durumla güncelle
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | PENTAGRAM SYNCED`;
+        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | SHIFT: ${window.wiccaTimeOffsetMinutes} MIN`;
     }
 
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
