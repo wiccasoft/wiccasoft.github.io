@@ -664,16 +664,13 @@ function updateHTMLGates() {
 
 
 
-
 function calculateCosmicTime() {
-    const now = new Date();
-    //const now = new Date(); now.setHours(20, 50, 0); 
-    //const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    // 🛡️ REFAKATHANE KİLİDİ: Eğer zaman büküldüyse bükülen window.now nesnesini oku, yoksa gerçek zamandan ak aga!
+    const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    
     const hours = now.getHours();
     const minutes = now.getMinutes();
 
-    
-    
     // 24 saati dakikaya (toplam 1440 dk) döküp 0.0 - 1.0 arası bir "Gün Oranı" buluyoruz
     const totalMinutes = (hours * 60) + minutes;
     const dayRatio = totalMinutes / 1440; 
@@ -1879,6 +1876,12 @@ function calculateCosmicPlanetHour(date, solarTimes) {
         solarTimes = { sunrise: 6.0, sunset: 18.0, dayLength: 12.0 };
     }
 
+    // 🛡️ [WICCA CODESEC SHIELD] Tarih parametresinin boş gelmesini engelleyen mutlak kalkan:
+    if (!date || typeof date.getHours !== 'function') {
+        date = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    }
+
+    // 🔄 Orijinal kodunuz buradan itibaren hiçbir hataya takılmadan güvenle akıyor aga:
     const currentHour = date.getHours() + (date.getMinutes() / 60);
     const dayOfWeek = date.getDay();
     
@@ -2045,13 +2048,16 @@ function calculateMetatronMoon(date) {
 }
 */
 
-// =========================================================================
-// 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE SELENE KADRANI (NİHAİ KİLİT)
-// =========================================================================
+
 // =========================================================================
 // 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE DİNAMİK SELENE KADRANI
 // =========================================================================
 function calculateMetatronMoon(date) {
+    // 🛡️ [WICCA CODESEC] Parametre boş gelirse çökmesin kalkanı
+    if (!date || typeof date.getTime !== 'function') {
+        date = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    }
+
     const msPerDay = 86400000;
     const currentMs = date.getTime();
     
@@ -2066,10 +2072,17 @@ function calculateMetatronMoon(date) {
     let moonAgeDays = currentPhaseProgress * 29.530588853;
     let moonIlluminatedPercent = (currentPhaseProgress < 0.5) ? Math.round(currentPhaseProgress * 2 * 100) : Math.round((1 - currentPhaseProgress) * 2 * 100);
 
-    // 🌟 13 AY TAKVİMİ MATEMATİĞİ (ELECTRIC MOON)
-    const yearStartIndex = new Date(date.getFullYear(), 6, 26).getTime(); 
-    let daysSinceGalacticYear = Math.floor((currentMs - yearStartIndex) / msPerDay);
-    if (daysSinceGalacticYear < 0) daysSinceGalacticYear += 365;
+    // 🌟 13 AY TAKVİMİ MATEMATİĞİ (ELECTRIC MOON) - 1947 KORUMASI ENJEKTE EDİLDİ AGA
+    const currentYear = date.getFullYear();
+    const yearStartIndex = new Date(currentYear, 6, 26).getTime(); 
+    
+    // Milisaniye farkını gün bazında tam sayıya (trunc) çeviriyoruz ki eksi yıllarda Math.floor sapıtmasın
+    let daysSinceGalacticYear = Math.trunc((currentMs - yearStartIndex) / msPerDay);
+    if (daysSinceGalacticYear < 0) {
+        // Eğer Temmuz 26'dan önce bir tarihteysek (Örn: Eylül değil de Ocak/Şubat gibi) bir önceki galaktik yılı baz al
+        const prevYearStartIndex = new Date(currentYear - 1, 6, 26).getTime();
+        daysSinceGalacticYear = Math.trunc((currentMs - prevYearStartIndex) / msPerDay);
+    }
 
     const LUNAR_13_MOONS = [
         "MAGNETIC", "LUNAR", "ELECTRIC", "SELF-EXISTING",
@@ -2088,11 +2101,8 @@ function calculateMetatronMoon(date) {
     const localDayRatio = localTotalMinutes / 1440;
     let currentRoom64 = Math.floor(localDayRatio * 64) % 64;
 
-    // ☯ I CHING SELENE KADRANI (6 Bitlik Ay & Güneş Birleşik Çarkı)
+    // ☯ I CHING SELENE KADRANI
     const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
-    
-    // 🛡️ KİLİT ÇÖZÜM: I Ching endeksini yavaş akan Ay evresinden kurtarıp, 
-    // doğrudan butona basınca dörder dörder (`60 -> 0 -> 4 -> 8`) sıçrayan 'currentRoom64' odasına çiviliyoruz!
     let seleneHexIndex = Math.floor(currentRoom64) % 64;
 
     return {
@@ -2103,7 +2113,6 @@ function calculateMetatronMoon(date) {
         seleneProgress: currentPhaseProgress
     };
 }
-
 
 // =========================================================================
 // ⚡ LUNAR INTEGRAL: AY EVRESİNE GÖRE SABBAT KAPILARI PARLAMA ENJEKTÖRÜ
