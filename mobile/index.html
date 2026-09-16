@@ -553,24 +553,30 @@ footer {
     </header>
 
 <!-- =========================================================================
-     🎮 WICCA OS: 10X FRAKTAL ZAMAN MAKİNESİ PANEL ENJEKSİYONU (2 SAAT KİLİTLİ MODEL)
+     🎮 WICCA OS: NİHAİ 10X FRAKTAL ZAMAN MAKİNESİ KOKPİT PANEL ENJEKSİYONU
      ========================================================================= -->
-<div id="time-machine-panel" style="display: flex; flex-direction: column; gap: 8px; margin: 15px auto; max-width: 400px; padding: 12px; background: rgba(0,0,0,0.85); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important; position: relative;">
+<div id="time-machine-panel" style="display: flex; flex-direction: column; gap: 8px; margin: 15px auto; max-width: 400px; padding: 12px; background: rgba(0,0,0,0.9); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important; position: relative;">
     
-    <!-- 🎛️ MOD SEÇİCİ SEKMELER (Açılışta AY GÜNÜ aktif ve parlar) -->
-    <div style="display: flex; justify-content: space-between; gap: 5px; margin-bottom: 4px;">
-        <button id="mode-btn-saat" onclick="setWiccaMode('SAAT')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px; font-size: 10px; cursor: pointer; font-weight: bold; transition: all 0.2s; border-radius: 2px;">⏰ SAAT (ODA)</button>
-        <button id="mode-btn-gün" onclick="setWiccaMode('GÜN')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px; font-size: 10px; cursor: pointer; font-weight: bold; transition: all 0.2s; border-radius: 2px;">📅 GÜN</button>
-        <button id="mode-btn-ay" onclick="setWiccaMode('AY')" style="flex: 1; background: rgba(122, 0, 255, 0.2); color: #fff; border: 1px solid #7a00ff; box-shadow: 0 0 8px rgba(122, 0, 255, 0.4); padding: 5px; font-size: 10px; cursor: pointer; font-weight: bold; transition: all 0.2s; border-radius: 2px;">🌙 AY GÜNÜ</button>
+    <!-- 🎛️ ÜST SATIR: MİKRO & SİRKADİYEN VİTESLER -->
+    <div style="display: flex; justify-content: space-between; gap: 4px;">
+        <button id="mode-btn-saat" onclick="setWiccaMode('SAAT')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">⏰ ODA</button>
+        <button id="mode-btn-gün" onclick="setWiccaMode('GÜN')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">📅 GÜN</button>
+        <button id="mode-btn-ay" onclick="setWiccaMode('AY')" style="flex: 1; background: rgba(122, 0, 255, 0.2); color: #fff; border: 1px solid #7a00ff; box-shadow: 0 0 8px rgba(122, 0, 255, 0.4); padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">🌙 AY</button>
     </div>
 
-    <!-- 🚀 GEZİNTİ BUTONLARI -->
-    <div style="display: flex; gap: 10px;">
+    <!-- 🌌 ALT SATIR: MAKRO ÇAĞ & GEZEGEN MUTASYON KADRANLARI -->
+    <div style="display: flex; justify-content: space-between; gap: 4px;">
+        <button id="mode-btn-venus8" onclick="setWiccaMode('VENUS8')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">♀️ 7.9Y</button>
+        <button id="mode-btn-saturn79" onclick="setWiccaMode('SATURN79')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">🪐 79Y</button>
+        <button id="mode-btn-keldani790" onclick="setWiccaMode('KELDANI790')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">🌀 790Y</button>
+    </div>
+
+    <!-- 🚀 GEZİNTİ VE EKSEN TETİKLEYİCİ BUTONLAR -->
+    <div style="display: flex; gap: 10px; margin-top: 2px;">
         <button onclick="bendWiccaTime('PAST')" style="flex: 1; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00; border-radius: 2px;">◀ PAST</button>
         <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff; border-radius: 2px;">FUTURE ▶</button>
     </div>
 </div>
-
 
 
 <!-- 🧭 DÜNYANIN MANYETİK ALAN PUSULASI (I CHING GATES) -->
@@ -767,7 +773,8 @@ setInterval(() => {
 
 
     // 2. SONRA hesaplanan bu 'solar' verisini gezegen saatine besle (Sıralama hatası kökten çözüldü!):
-    const currentGovernor = calculateCosmicPlanetHour(now, solar);
+    //const currentGovernor = calculateCosmicPlanetHour(now, solar);
+    const currentGovernor = calculateCosmicPlanetHour(window.now, solar);
     const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
 
 
@@ -2288,35 +2295,32 @@ function calculateMetatronPlanets(date) {
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
+// =========================================================================
+// 🎛️ WICCA OS: NİHAİ ÇAĞ ATLATICI VE MAKRO KOZMİK EKSEN SÜRÜCÜSÜ
+// =========================================================================
+
+// Fonksiyonun mod kontrol alanına şu iki devasa vitesi ekliyoruz aga:
+// =========================================================================
+// 🎛️ WICCA OS: 79 & 790 YILLIK MAKRO ÇAĞ ATLATICI MODÜLÜ
+// =========================================================================
+
 function bendWiccaTime(modeDirection) {
-    // Dinamik oda süresini okumaya çalış, yoksa güvenli modda 21.9 kabul et
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
     let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
 
     // =========================================================================
-    // 🎛️ AKTİF MODA GÖRE ZAMAN EKSENİNİ DOĞRUSAL BÜKME MOTORU
+    // 🎛️ AKTİF MODA GÖRE MAKRO ZAMAN EKSENİ BÜKÜCÜ
     // =========================================================================
     
     if (window.wiccaActiveMode === 'AY') {
-        // 🌙 AY GÜNÜ MODU: Tam 30 sirkadiyen günlük (43200 dakika) temiz kuantum sıçraması
-        if (modeDirection === 'FUTURE') {
-            window.wiccaTimeOffsetMinutes += (30 * 24 * 60); // 30 Gün ileri fırlat
-        } else if (modeDirection === 'PAST') {
-            window.wiccaTimeOffsetMinutes -= (30 * 24 * 60); // 30 Gün geri sar
-        }
-    } // 🛡️ İŞTE UNUTULAN KRİTİK SÜSLÜ PARANTEZ BURASIYDI AGA!
-    
-    else if (window.wiccaActiveMode === 'GÜN') {
-        // 📅 GÜN MODU: Tam 1 sirkadiyen günlük (1440 dakika) doğrusal eksen bükümü
-        if (modeDirection === 'FUTURE') {
-            window.wiccaTimeOffsetMinutes += (24 * 60); // 1 Gün ileri
-        } else if (modeDirection === 'PAST') {
-            window.wiccaTimeOffsetMinutes -= (24 * 60); // 1 Gün geri
-        }
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (30 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (30 * 24 * 60); }
     } 
-    
+    else if (window.wiccaActiveMode === 'GÜN') {
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (24 * 60); }
+    } 
     else if (window.wiccaActiveMode === 'SAAT') {
-        // ⏰ SAAT (ODA) MODU: Aktif gün içinde 8'er odalık tam vites sıçramaları
         if (modeDirection === 'FUTURE') {
             let next8Multiple = Math.floor(currentRoom / 8) * 8 + 8;
             if (next8Multiple > 64) next8Multiple = 0;
@@ -2331,27 +2335,35 @@ function bendWiccaTime(modeDirection) {
             window.wiccaTimeOffsetMinutes -= (roomDuration * roomsToJump);
         }
     }
+    // ♀️ YENİ MODÜL: 7.92 YILLIK VENÜS PENTAGRAM DÖNGÜSÜ (Tam döngü kilit dakikası)
+    else if (window.wiccaActiveMode === 'VENUS8') {
+        if (modeDirection === 'FUTURE') {
+            window.wiccaTimeOffsetMinutes += (7.92 * 365.25 * 24 * 60); 
+        } else if (modeDirection === 'PAST') {
+            window.wiccaTimeOffsetMinutes -= (7.92 * 365.25 * 24 * 60); 
+        }
+    }
 
-    // Nihai bükülmüş zaman damgasını üret ve ana motora kilitli window.now nesnesine fırlat
+    // Nihai sanal zamanı hesapla ve motor vanasına (window.now) üfle aga
     const originalDate = new Date();
     window.now = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
 
-    // Siber status çubuğunu anlık durumla parlat
+    // Siber status bar güncellemesi
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | OFFSET: ${window.wiccaTimeOffsetMinutes} DK`;
+        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | PENTAGRAM SYNCED`;
     }
 
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
     if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
-} // 🛡️ SİLİNEN ANA FONKSİYON KAPANIŞ PARANTEZİ DE YERİNE KOYULDU!
+}
 
-// 🎛️ Mod Değiştirici Yardımcı Fonksiyon
+// 🎛️ Mod Değiştirici Yardımcı Fonksiyon Güncellemesi
 function setWiccaMode(selectedMode) {
     window.wiccaActiveMode = selectedMode;
     
-    // HTML'deki tüm mod butonlarını ID'leri üzerinden tarayıp söndürüyoruz
-    const modes = ['saat', 'gün', 'ay'];
+    // Venüs modunu da söndürme listesine dahil ediyoruz aga
+    const modes = ['saat', 'gün', 'ay', 'venus8'];
     modes.forEach(m => {
         const btn = document.getElementById('mode-btn-' + m);
         if (btn) {
@@ -2362,7 +2374,7 @@ function setWiccaMode(selectedMode) {
         }
     });
     
-    // Aktif olanı neon mor ile parlat
+    // Aktif olan makro vitese neon şarj bas
     const activeBtn = document.getElementById('mode-btn-' + selectedMode.toLowerCase());
     if (activeBtn) {
         activeBtn.style.background = 'rgba(122, 0, 255, 0.15)';
@@ -2371,8 +2383,6 @@ function setWiccaMode(selectedMode) {
         activeBtn.style.boxShadow = '0 0 10px #7a00ff';
     }
 }
-
-
 </script>
 
 
