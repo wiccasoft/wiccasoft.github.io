@@ -762,7 +762,8 @@ setInterval(() => {
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
 
     // 1. ÖNCE coğrafi güneş verilerini içerideki mevcut (izinsiz) konum değişkenleriyle hesapla:
-    const solar = getExactSolarTimes(currentLat, currentLon);
+    //const solar = getExactSolarTimes(currentLat, currentLon);
+    const solar = getExactSolarTimes(currentLat, currentLon, now);
 
 
     // 2. SONRA hesaplanan bu 'solar' verisini gezegen saatine besle (Sıralama hatası kökten çözüldü!):
@@ -2287,10 +2288,6 @@ function calculateMetatronPlanets(date) {
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
-// 🛡️ Global Değişken Kalkanları
-if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
-
 function bendWiccaTime(modeDirection) {
     // Dinamik oda süresini okumaya çalış, yoksa güvenli modda 21.9 kabul et
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
@@ -2301,13 +2298,13 @@ function bendWiccaTime(modeDirection) {
     // =========================================================================
     
     if (window.wiccaActiveMode === 'AY') {
-        // 🌙 AY GÜNÜ MODU: Tam 30 sirkadiyen günlük (43200 dakika) büyük kuantum sıçraması
+        // 🌙 AY GÜNÜ MODU: Tam 30 sirkadiyen günlük (43200 dakika) temiz kuantum sıçraması
         if (modeDirection === 'FUTURE') {
             window.wiccaTimeOffsetMinutes += (30 * 24 * 60); // 30 Gün ileri fırlat
         } else if (modeDirection === 'PAST') {
             window.wiccaTimeOffsetMinutes -= (30 * 24 * 60); // 30 Gün geri sar
         }
-    } 
+    } // 🛡️ İŞTE UNUTULAN KRİTİK SÜSLÜ PARANTEZ BURASIYDI AGA!
     
     else if (window.wiccaActiveMode === 'GÜN') {
         // 📅 GÜN MODU: Tam 1 sirkadiyen günlük (1440 dakika) doğrusal eksen bükümü
@@ -2347,13 +2344,13 @@ function bendWiccaTime(modeDirection) {
 
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
     if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
-}
+} // 🛡️ SİLİNEN ANA FONKSİYON KAPANIŞ PARANTEZİ DE YERİNE KOYULDU!
 
 // 🎛️ Mod Değiştirici Yardımcı Fonksiyon
 function setWiccaMode(selectedMode) {
     window.wiccaActiveMode = selectedMode;
     
-    // 🔥 ÇÖZÜM: HTML'deki tüm mod butonlarını ID'leri üzerinden tarayıp söndürüyoruz, class bağımlılığını sildik!
+    // HTML'deki tüm mod butonlarını ID'leri üzerinden tarayıp söndürüyoruz
     const modes = ['saat', 'gün', 'ay'];
     modes.forEach(m => {
         const btn = document.getElementById('mode-btn-' + m);
@@ -2374,7 +2371,6 @@ function setWiccaMode(selectedMode) {
         activeBtn.style.boxShadow = '0 0 10px #7a00ff';
     }
 }
-
 
 
 </script>
