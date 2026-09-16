@@ -757,13 +757,25 @@ const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi freka
     //const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
 
 setInterval(() => {
+
     // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
 
-    // 1. GÜN VE SAAT ORANLARINI HESAPLA
+    // 1. ÖNCE coğrafi güneş verilerini içerideki mevcut (izinsiz) konum değişkenleriyle hesapla:
+    const solar = getExactSolarTimes(currentLat, currentLon);
+
+
+    // 2. SONRA hesaplanan bu 'solar' verisini gezegen saatine besle (Sıralama hatası kökten çözüldü!):
+    const currentGovernor = calculateCosmicPlanetHour(now, solar);
+    const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
+
+
+     // 3. DAHA SONRA sirkadiyen odayı hesapla ve butona bildir:
     const timeData = calculateCosmicTime();
     const hours = now.getHours();
     const minutes = now.getMinutes();
+
+
 
     const moonLive = calculateMetatronMoon(now);
 
@@ -792,26 +804,31 @@ setInterval(() => {
     // 🪐 VALİ HESAPLAYICI VE MANYETİK ETKİ ENJEKTÖRÜ (MOTORUN TAM KALBİNDE)
     // =========================================================================
     // 🛡️ ÇÖZÜM: solar yerine gerçek veri havuzun olan timeData nesnesini gönderiyoruz aga!
-    const currentGovernor = calculateCosmicPlanetHour(now, timeData);
-    
+    //const currentGovernor = calculateCosmicPlanetHour(now, timeData);
+    // 🛡️ MANTIK HATASI TAMİRİ: Gezegen saatine sirkadiyen solar verilerini besliyoruz aga:
+    //const currentGovernor = calculateCosmicPlanetHour(now, solar);
     // 🫀 ELEKTRİK KANAL KORUMASI: 889. satırdaki currentInfluences hatasını eriten kalkan
-    const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
+    //const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
 
     // =========================================================================
     // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ (ÇORBASIZ)
     // =========================================================================
     const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
 
-    const solar = getExactSolarTimes(currentLat, currentLon); 
+    //const solar = getExactSolarTimes(currentLat, currentLon); 
     const currentHour = now.getHours() + (now.getMinutes() / 60); 
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
     let roomDurationMinutes = isYang ? ((solar.dayLength * 60) / 32) : (((24 - solar.dayLength) * 60) / 32);
 
+    let sunRoom64 = isYang ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
 
-    let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
+     // Butonların anlık odayı hatasız yakalaması için kilit satır:
+    window.currentCalculatedRoom = sunRoom64;
+
+    //let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
     
     // [WICCA CODESEC UPDATE] Butonların anlık odayı görebilmesi için global takibe alıyoruz aga:
-    window.currentCalculatedRoom = sunRoom64;
+    //window.currentCalculatedRoom = sunRoom64;
 
     let currentSunHexagram = iching64[sunRoom64];
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
@@ -2270,40 +2287,39 @@ function calculateMetatronPlanets(date) {
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
+// 🛡️ Global Değişken Kalkanları
+if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
+if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
+
 function bendWiccaTime(modeDirection) {
-    // Döngü içindeki dinamik oda süresini okumaya çalış, yoksa güvenli modda 21.9 al
+    // Dinamik oda süresini okumaya çalış, yoksa güvenli modda 21.9 kabul et
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
     let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
 
-    const originalDate = new Date();
-    let baseDate = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
-
     // =========================================================================
-    // 🎛️ AKTİF MODA GÖRE YÖNLENDİRME (FUTURE -> İLERİ, PAST -> GERİ)
+    // 🎛️ AKTİF MODA GÖRE ZAMAN EKSENİNİ DOĞRUSAL BÜKME MOTORU
     // =========================================================================
     
     if (window.wiccaActiveMode === 'AY') {
-        // 🌙 AY VE AY GÜNÜ MERKEZLİ NOKTA ATIŞI ÇAPA
+        // 🌙 AY GÜNÜ MODU: Tam 30 sirkadiyen günlük (43200 dakika) büyük kuantum sıçraması
         if (modeDirection === 'FUTURE') {
-            baseDate.setMonth(baseDate.getMonth() + 1);
+            window.wiccaTimeOffsetMinutes += (30 * 24 * 60); // 30 Gün ileri fırlat
         } else if (modeDirection === 'PAST') {
-            baseDate.setMonth(baseDate.getMonth() - 1);
+            window.wiccaTimeOffsetMinutes -= (30 * 24 * 60); // 30 Gün geri sar
         }
-        window.wiccaTimeOffsetMinutes = Math.round((baseDate.getTime() - originalDate.getTime()) / (60 * 1000));
     } 
     
     else if (window.wiccaActiveMode === 'GÜN') {
-        // 📅 GÜN BAZINDA GÜN İÇİ AŞAMAYI DONDURARAK ZIPLAMA
+        // 📅 GÜN MODU: Tam 1 sirkadiyen günlük (1440 dakika) doğrusal eksen bükümü
         if (modeDirection === 'FUTURE') {
-            baseDate.setDate(baseDate.getDate() + 1);
+            window.wiccaTimeOffsetMinutes += (24 * 60); // 1 Gün ileri
         } else if (modeDirection === 'PAST') {
-            baseDate.setDate(baseDate.getDate() - 1);
+            window.wiccaTimeOffsetMinutes -= (24 * 60); // 1 Gün geri
         }
-        window.wiccaTimeOffsetMinutes = Math.round((baseDate.getTime() - originalDate.getTime()) / (60 * 1000));
     } 
     
     else if (window.wiccaActiveMode === 'SAAT') {
-        // ⏰ AKTİF GÜN İÇİNDE 8'ER ODALIK VİTESLİ AŞAMA İLERLEMESİ
+        // ⏰ SAAT (ODA) MODU: Aktif gün içinde 8'er odalık tam vites sıçramaları
         if (modeDirection === 'FUTURE') {
             let next8Multiple = Math.floor(currentRoom / 8) * 8 + 8;
             if (next8Multiple > 64) next8Multiple = 0;
@@ -2319,13 +2335,14 @@ function bendWiccaTime(modeDirection) {
         }
     }
 
-    // 🔥 ÇÖZÜM: Const olan lokal 'now' yerine doğrudan 'window.now' nesnesini büküyoruz aga!
+    // Nihai bükülmüş zaman damgasını üret ve ana motora kilitli window.now nesnesine fırlat
+    const originalDate = new Date();
     window.now = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
 
-    // Siber status bara log yaz
+    // Siber status çubuğunu anlık durumla parlat
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | ODA: ${currentRoom}/64`;
+        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | OFFSET: ${window.wiccaTimeOffsetMinutes} DK`;
     }
 
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
