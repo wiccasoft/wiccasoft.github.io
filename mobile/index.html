@@ -809,6 +809,10 @@ setInterval(() => {
 
 
     let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
+    
+    // [WICCA CODESEC UPDATE] Butonların anlık odayı görebilmesi için global takibe alıyoruz aga:
+    window.currentCalculatedRoom = sunRoom64;
+
     let currentSunHexagram = iching64[sunRoom64];
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
