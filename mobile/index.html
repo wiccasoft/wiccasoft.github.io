@@ -2268,9 +2268,10 @@ function calculateMetatronPlanets(date) {
 
 // 🛡️ Global Değişken Kalkanları
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } // Varsayılanı AY yaptık aga!
+if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
 function bendWiccaTime(modeDirection) {
+    // Döngü içindeki dinamik oda süresini okumaya çalış, yoksa güvenli modda 21.9 al
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
     let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
 
@@ -2318,13 +2319,10 @@ function bendWiccaTime(modeDirection) {
         }
     }
 
-    // Nihai hesaplanan simülasyon zamanını motora yedir
-    const simulatedDate = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
-    
-    if (typeof now !== 'undefined') { now = simulatedDate; } 
-    else { window.now = simulatedDate; }
+    // 🔥 ÇÖZÜM: Const olan lokal 'now' yerine doğrudan 'window.now' nesnesini büküyoruz aga!
+    window.now = new Date(originalDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
 
-    // Siber status bara manuel log yazalım kullanıcı görsün
+    // Siber status bara log yaz
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
         statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | ODA: ${currentRoom}/64`;
@@ -2338,14 +2336,19 @@ function bendWiccaTime(modeDirection) {
 function setWiccaMode(selectedMode) {
     window.wiccaActiveMode = selectedMode;
     
-    // Butonların görsel aktiflik durumunu güncelle (Neon parlamalar)
-    document.querySelectorAll('.wicca-mode-btn').forEach(btn => {
-        btn.style.background = '#111';
-        btn.style.borderColor = '#333';
-        btn.style.color = '#555';
-        btn.style.boxShadow = 'none';
+    // 🔥 ÇÖZÜM: HTML'deki tüm mod butonlarını ID'leri üzerinden tarayıp söndürüyoruz, class bağımlılığını sildik!
+    const modes = ['saat', 'gün', 'ay'];
+    modes.forEach(m => {
+        const btn = document.getElementById('mode-btn-' + m);
+        if (btn) {
+            btn.style.background = '#111';
+            btn.style.borderColor = '#333';
+            btn.style.color = '#555';
+            btn.style.boxShadow = 'none';
+        }
     });
     
+    // Aktif olanı neon mor ile parlat
     const activeBtn = document.getElementById('mode-btn-' + selectedMode.toLowerCase());
     if (activeBtn) {
         activeBtn.style.background = 'rgba(122, 0, 255, 0.15)';
