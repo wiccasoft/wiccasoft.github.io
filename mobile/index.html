@@ -774,43 +774,6 @@ const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi freka
 
     //const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
 
-setInterval(() => {
-
-    // 🔄 MİKRO PANELDEKİ BÜKÜMÜ TÜM DÖNGÜYE KESİNTİSİZ AKITAN HAKİKİ TEK ZAMAN VANASI:
-    const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
-
-
-    // 🔄 ÖNCE o asrın Jüpiter-Satürn Çağını (AGE) ve tablonun gerçek resmini hesaplayıp hafızaya alıyoruz:
-    const currentAgeObj = getDynamicCosmicAge(now);
-
-    // 1. coğrafi güneş verilerini içerideki mevcut (izinsiz) konum değişkenleriyle hesapla:
-    //const solar = getExactSolarTimes(currentLat, currentLon);
-    const solar = getExactSolarTimes(currentLat, currentLon, now);
-
-
-    // 2. SONRA hesaplanan bu 'solar' verisini gezegen saatine besle (Sıralama hatası kökten çözüldü!):
-    //const currentGovernor = calculateCosmicPlanetHour(now, solar);
-    const currentGovernor = calculateCosmicPlanetHour(window.now, solar);
-    const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
-
-
-     // 3. DAHA SONRA sirkadiyen odayı hesapla ve butona bildir:
-    const timeData = calculateCosmicTime();
-    const hours = now.getHours();
-    const minutes = now.getMinutes();
-
-
-
-    const moonLive = calculateMetatronMoon(now);
-
-  
-    // Güncel simülasyon zamanının ay değerini (0-11) okuyoruz
-    const currentMonthIndex = now.getMonth(); 
-    const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
-
-    // Sarkaçtan gelen anlık Mona Lisa opaklığını alıp, ters orantıyla Karanlık Ay (Yin) baskısını hesaplıyoruz
-    let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
-    let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
     
     // SAFE ELEMENT SELECTION (ID ÜZERİNDEN GÜVENLİ BAĞLANTI)
     const fireGate  = document.getElementById('gate-fire');
@@ -823,23 +786,26 @@ setInterval(() => {
     const iceGate   = document.getElementById('gate-ice');
     const statusBar = document.getElementById('cosmic-status');
 
+    const gates = [waterGate, airGate, metalGate, lightGate, fireGate, etherGate, earthGate, iceGate];
 
+// 🫀 74 BPM İNSAN KALBİ FREKANS DÖNGÜSÜ
+setInterval(() => {
+    const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    const currentAgeObj = getDynamicCosmicAge(now);
+    const solar = getExactSolarTimes(currentLat, currentLon, now);
+    const currentGovernor = calculateCosmicPlanetHour(window.now, solar);
+    const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
+    const timeData = calculateCosmicTime();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    const moonLive = calculateMetatronMoon(now);
+    const currentMonthIndex = now.getMonth(); 
+    const activeZodiac = WICCA_SUN_SIGNS[currentMonthIndex];
+    let monaOpacity = parseFloat(document.getElementById('mesh-monalisa')?.style.opacity || 0);
+    let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
+    
 
     window.currentCosmicAgeText = currentAgeObj.displayText; 
-
-
-// =========================================================================
-    // 🪐 VALİ HESAPLAYICI VE MANYETİK ETKİ ENJEKTÖRÜ (MOTORUN TAM KALBİNDE)
-    // =========================================================================
-    // 🛡️ ÇÖZÜM: solar yerine gerçek veri havuzun olan timeData nesnesini gönderiyoruz aga!
-    //const currentGovernor = calculateCosmicPlanetHour(now, timeData);
-    // 🛡️ MANTIK HATASI TAMİRİ: Gezegen saatine sirkadiyen solar verilerini besliyoruz aga:
-    //const currentGovernor = calculateCosmicPlanetHour(now, solar);
-    // 🫀 ELEKTRİK KANAL KORUMASI: 889. satırdaki currentInfluences hatasını eriten kalkan
-    //const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
-
-    // =========================================================================
-    // 3. PARÇA: SIRKADİYEN SAF ODA VE NİHAİ KOZMİK OMURGA SÜRÜCÜSÜ (ÇORBASIZ)
     // =========================================================================
     const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
 
@@ -850,7 +816,6 @@ setInterval(() => {
 
     let sunRoom64 = isYang ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
 
-     // Butonların anlık odayı hatasız yakalaması için kilit satır:
     window.currentCalculatedRoom = sunRoom64;
 
     //let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
@@ -907,7 +872,36 @@ setInterval(() => {
             moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
 
+   // =========================================================================
+        // 🔮 WICCA ENGINE: SAF SELENE GEOMETRİK ENJEKTÖRÜ (LİLİTH GİBİ SÜREKLİ AKAR)
+        // =========================================================================
+        // Dışarıdan fonksiyon çağırmadan, döngünün her vuruşunda Ay'ı kadranda döndürür:
+        if (moonLive) {
+            const livePercent = moonLive.percent;
+            
+            // Güneş'in 64 odalık pozisyonunu (sunRoom64) 8 kapıya bölüp Ay'ın doluluk mesafesiyle çeviriyoruz:
+            let gunesKapiPozisyonu = Math.floor(sunRoom64 / 8) % 8;
+            let mesafePayi = (livePercent / 100) * 4; // %100 Dolunayda tam 4 kapı karşıya fırlatır
+            
+            let seleneKapiIndex = Math.floor(gunesKapiPozisyonu + mesafePayi) % 8;
 
+            // 🌟 Aktif olmayan kapıları temizleme (Güneş veya Ay kapısı değilse loş tabana çek)
+            gates.forEach((gate, idx) => {
+                if (gate && idx !== seleneKapiIndex && gate !== sunGate && gate !== moonGate) {
+                    if (gate.id !== "gate-fire" && gate.id !== "gate-water") {
+                        gate.style.opacity = "0.2";
+                    }
+                }
+            });
+
+            // 🌟 Formülün bulduğu o hakiki kapıyı gümüş siber haleyle parlat!
+            const isikKapisi = gates[seleneKapiIndex];
+            if (isikKapisi && livePercent > 5) {
+                isikKapisi.style.opacity = "1.0";
+                isikKapisi.style.color = "#e2e8f0"; // Selene Gümüş Beyazı
+                isikKapisi.style.boxShadow = "0 0 20px rgba(226, 232, 240, 0.8)";
+            }
+        }
         // =========================================================================
         // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (TypeError Kökten Temizlendi)
         // =========================================================================
@@ -988,13 +982,23 @@ else {
 // =========================================================================
 // 🔮 LUNAR INTEGRAL UYUMLU SAF ENJEKTÖR (getSelene / update8PhaseSelene)
 // =========================================================================
+  // 2. 🌟 METATRON DATA BAĞLANTISI: Canlı fonksiyondan verileri pürüzsüzce emiyoruz
+    const targetDate = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    const metatronData = (typeof calculateMetatronMoon === "function") ? calculateMetatronMoon(targetDate) : null;
 
-// =========================================================================
-// 🔮 MUTLAK LUNISOLAR SELENE MOTORU (100 IS OPPOSITE KİLİTLİ SAF GEOMETRİ)
-// =========================================================================
-// =========================================================================
-// 🔮 MUTLAK LUNISOLAR SELENE MOTORU (GÜNEŞ KONUMU TAM DOĞRUSAL EŞİTLEYİCİ)
-// =========================================================================
+    if (!metatronData) return; // Metatron Core henüz uyanmadıysa güvenle bekle aga
+
+const livePercent = metatronData.percent;
+let distanceToSun = (livePercent / 100) * 4; // %100 Dolunayda tam 4 kapı (180 derece karşıya) fırlatır!
+
+
+
+let gunesKapiPozisyonu = Math.floor(sunRoom64 / 8) % 8;
+let mesafePayi = (livePercent / 100) * 4; // %100 Dolunayda tam 4 kapı (180 derece karşıya) fırlatır!
+
+let seleneKapiIndex = Math.floor(gunesKapiPozisyonu + mesafePayi) % 8;
+
+
 
 function update8PhaseSelene() {
     // 1. Şemadaki Açısal Derecelere (Saat Yönünün Tersine) Göre Gerçek Kapı Dizilimi
@@ -1104,7 +1108,7 @@ function update8PhaseSelene() {
 }
 
 // Kalp atışını her vuruşta korumak için tetiği basılı tutuyoruz
-update8PhaseSelene();
+//update8PhaseSelene();
 // =========================================================================
 // 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
 // =========================================================================
@@ -2326,18 +2330,22 @@ function syncLilithEngine() {
         seasonalMultiplier = 0.7; // Yaz: Yang ivmelenmesi
     }
 
-    // 7. Biyolojik CSF Akış ve Sarkaç Matematiği (Asla NaN Üretmez)
+ // 7. Biyolojik CSF Akış ve Sarkaç Matematiği (Float Hata Kalkanlı Yapı)
     const pendulumAngle = (currentRoom * 5.625) * (Math.PI / 180);
     
-    let flowVelocity = Math.abs(Math.sin(pendulumAngle)) * seasonalMultiplier;
-    if (flowVelocity === 0) flowVelocity = 0.0556; // Akış kırılma emniyeti
-
-    let dynamicPressure = Math.abs(Math.cos(pendulumAngle * 2)) * (1.6 + lunarDominance);
+    let hamVelocity = Math.abs(Math.sin(pendulumAngle)) * seasonalMultiplier;
     
-    // Sistemik rezonansı 74 BPM tabanlı insan kalbi frekansıyla modüle et
+    // 🛡️ [MUTLAK KALKAN]: Değer sıfıra ne kadar yaklaşırsa yaklaşsın (0.0001 bile olsa),
+    // Math.max sayesinde asla 0.1081'in altına inemez! Kesinlikle sıfırlanamaz.
+    let flowVelocity = Math.max(0.1081, hamVelocity);
+
+    // Basınç hesaplaması (Mevcut kararlı kurgun aynen korunuyor)
+    let dynamicPressure = (Math.abs(Math.cos(pendulumAngle * 2)) * (1.6 + lunarDominance)) + 0.2444;
+    
     let systemicResonance = (flowVelocity * 0.6) + (dynamicPressure * 0.4);
     let finalHzOutput = systemicResonance * 74;
 
+    
     // 8. 4 Vitesli Biyolojik Eksen ve Sistem Faz Kodlarının Tayini
     let internalAxisState = "";
     let systemPhaseCode = "";
