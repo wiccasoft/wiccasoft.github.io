@@ -1658,7 +1658,7 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
 
   try {
-        updateLilithCosmicDock()//syncLilithEngine()
+       syncLilithEngine()
 
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
@@ -2232,32 +2232,6 @@ const LILITH_DOCK_METINLERI = {
 };
 
 
-/**
- * Wicca OS - Selene Core Astronomy Engine
- * Ay evresini ve çekim dominance değerini hata payı olmadan senkronize hesaplar.
- */
-function calculateMetatronMoon(date) {
-    const activeDate = date || window.now || new Date();
-    
-    // 2000 yılı kesin yeni ay referans nirengi noktası
-    const refDate = new Date(Date.UTC(2000, 0, 6, 18, 14, 0));
-    const diffDays = (activeDate - refDate) / (1000 * 60 * 60 * 24);
-    
-    // Sinodik ay döngüsü: 29.530588853 gün
-    const moonAge = (diffDays % 29.530588853) + (diffDays < 0 ? 29.530588853 : 0);
-    const phasePercentage = moonAge / 29.530588853; // 0.0 ile 1.0 arası canlı oran
-    
-    // Selene Gel-git / Kütleçekim Dominansı (Dolunay ve Yeni Ay akslarında maksimum)
-    // Sinüs dalgasını 2 katı frekansta koşturarak Yeni Ay(0) ve Dolunay(0.5) noktalarında tepe (1.0) yaptırıyoruz
-    const dominance = Math.abs(Math.sin(phasePercentage * Math.PI * 2));
-    
-    return {
-        age: moonAge,
-        phase: phasePercentage,
-        dominance: dominance
-    };
-}
-
 /*
 // =========================================================================
 // 🌙 METATRON ENGINE: SAF MATEMATİKSEL REAL-TIME AY EVRESİ MOTORU
@@ -2358,7 +2332,7 @@ function syncLilithEngine() {
     let flowVelocity = Math.abs(Math.sin(pendulumAngle)) * seasonalMultiplier;
     if (flowVelocity === 0) flowVelocity = 0.0556; // Akış kırılma emniyeti
 
-    let dynamicPressure = Math.abs(Math.cos(pendulumAngle * 2)) * (1 + lunarDominance);
+    let dynamicPressure = Math.abs(Math.cos(pendulumAngle * 2)) * (1.6 + lunarDominance);
     
     // Sistemik rezonansı 74 BPM tabanlı insan kalbi frekansıyla modüle et
     let systemicResonance = (flowVelocity * 0.6) + (dynamicPressure * 0.4);
@@ -2400,36 +2374,9 @@ function syncLilithEngine() {
     }
 }
 
-
-
-
-
-   // =========================================================================
-    // 🌀 3D METATRON ENGINE KÖPRÜSÜ (FRAME POSTMESSAGE ENJEKSİYONU)
-    // =========================================================================
-    // Sayfadaki Metatron iframe elemanını yakala
-    const metatronIframe = document.querySelector('.metatron-iframe');
-    
-    if (metatronIframe && metatronIframe.contentWindow) {
-        // Gönderilecek kuantum veri paketini siber-biyolojik ölçekte hazırla
-        const metatronPayload = {
-            type: "WICCA_RESONANCE_SYNC",
-            hz: finalHzOutput,              // Canlı rezonans frekansı (Örn: 86.73)
-            pressure: dynamicPressure,      // Canlı kafa içi basınç vektörü
-            velocity: flowVelocity,         // Sıvı akış hızı
-            room: currentRoom,              // Sirkadiyen I Ching odası
-            phase: systemPhaseCode,         // Aktif sistem faz kodu
-            yinPercent: darkMoonDominance   // Karanlık Ay baskı yüzdesi
-        };
-
-        // Veriyi güvenli bir şekilde iframe içindeki Three.js dünyasına fırlat
-        metatronIframe.contentWindow.postMessage(metatronPayload, "*");
-    }
-
-
 /**
- * Wicca OS - Unified Lilith Cosmic Dock & Selene Astronomy Engine
- * Hem sirkadiyen gün/gece dengesini, hem de makro element çağlarını tek elden yönetir.
+ * Wicca OS - Unified Lilith Cosmic Dock & Inverse CSF Flow Engine
+ * Hem tıbbi sirkadiyen zirveleri (Gece Yarısı / Öğlen Max) hesaplar, hem de DOM'a tek elden basar.
  */
 function updateLilithCosmicDock() {
     const titleElement = document.getElementById('lilith-title');
@@ -2437,96 +2384,68 @@ function updateLilithCosmicDock() {
     const formulaElement = document.getElementById('lilith-formula');
     if (!titleElement || !descElement || !formulaElement) return;
 
-    // 1. ZAMANSAL KORIDOR: Kapsamlı zaman bükücü panel uyumu
+    // 1. Canlı Zaman ve Oda Verilerini Yakala (Zaman bükücü panel uyumlu)
     const activeDate = window.now || new Date();
     const currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 40;
 
-    // 2. 🌙 LUNAR GEOMETRİ TAMİRİ: Selene'nin aynı Bagua'da sıkışmasını önleyen mutlak astronomi katmanı
-    // 2000 yılı kesin yeni ay nirengi noktası üzerinden makro bükümleri izole ediyoruz
-    const refDate = new Date(Date.UTC(2000, 0, 6, 18, 14, 0));
-    const diffDays = (activeDate - refDate) / (1000 * 60 * 60 * 24);
-    
-    // Sinodik ay döngüsü (29.530588853). Keldani/Satürn bükümlerinde bu oran artık dinamik olarak kırılır!
-    const moonAge = (diffDays % 29.530588853) + (diffDays < 0 ? 29.530588853 : 0);
-    const moonPhaseRatio = moonAge / 29.530588853;
-    
-    // Dolunay ve Yeniay akslarında zirve yapan, çapraz Fixed Cross odalarında dengelenen kütleçekim dominansı
-    const safeLunarDominance = Math.abs(Math.sin(moonPhaseRatio * Math.PI * 2));
-
-    // 3. 🩻 MESH DÜZENLEMESİ: Mona Lisa ve Salvator Mundi sadece sirkadiyen gün durumuna/saate bağlandı!
+    // 2. Canlı Opaklık ve Yin Baskısı Algılama
     const monaElement = document.getElementById('mesh-monalisa');
-    if (monaElement) {
-        // Çağlardan bağımsız: Sadece saate bakar!
-        // Room 48-63 (Sabah) ve Room 0-15 (Öğle) -> Mona Lisa (%100 Yang) parlar.
-        // Room 16-31 (İkindi) ve Room 32-47 (Gece) -> Salvator Mundi (%100 Yin) öne çıkar.
-        if (currentRoom >= 48 || currentRoom < 16) {
-            monaElement.style.opacity = "1.0"; // Gündüz modu
-        } else {
-            monaElement.style.opacity = "0.0"; // Gece modu
-        }
-    }
-
-    // Tarayıcıdaki gerçek opaklığı yakala ve formüle Karanlık Ay Baskısı olarak yükle
-    let monaOpacity = monaElement ? parseFloat(window.getComputedStyle(monaElement).opacity) : 0.5;
-    if (isNaN(monaOpacity)) monaOpacity = 0.5;
+    let monaOpacity = monaElement ? parseFloat(window.getComputedStyle(monaElement).opacity) : 0.0;
+    if (isNaN(monaOpacity)) monaOpacity = 0.0;
     let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
 
-    // 4. 🪐 JÜPİTER-SATÜRN ODAKLI 4 ELEMENT AKS BAĞLANTISI
-    const cosmicAgeData = getDynamicCosmicAge(activeDate);
-
-    const gateFire = document.getElementById('gate-fire');
-    const gateAir = document.getElementById('gate-air');
-    const gateEarth = document.getElementById('gate-earth');
-    const gateWater = document.getElementById('gate-water');
-
-    // Tüm element pusula kapılarını önce loş/stabil taban rengine eşitle
-    [gateFire, gateAir, gateEarth, gateWater].forEach(gate => {
-        if (gate) {
-            gate.style.borderColor = "rgba(255, 255, 255, 0.1)";
-            gate.style.boxShadow = "none";
-        }
-    });
-
-    // 960 yıllık Büyük Mutasyon Elementine göre ilgili kardinal aksı çılgınca parlat!
-    if (cosmicAgeData.element === "FIRE" && gateFire) {
-        gateFire.style.borderColor = "rgba(255, 68, 0, 0.95)";
-        gateFire.style.boxShadow = "0 0 15px rgba(255, 68, 0, 0.6), inset 0 0 10px rgba(255, 68, 0, 0.4)";
-    } else if (cosmicAgeData.element === "AIR" && gateAir) {
-        gateAir.style.borderColor = "rgba(0, 221, 255, 0.95)";
-        gateAir.style.boxShadow = "0 0 15px rgba(0, 221, 255, 0.6), inset 0 0 10px rgba(0, 221, 255, 0.4)";
-    } else if (cosmicAgeData.element === "EARTH" && gateEarth) {
-        gateEarth.style.borderColor = "rgba(0, 255, 102, 0.95)";
-        gateEarth.style.boxShadow = "0 0 15px rgba(0, 255, 102, 0.6), inset 0 0 10px rgba(0, 255, 102, 0.4)";
-    } else if (cosmicAgeData.element === "WATER" && gateWater) {
-        gateWater.style.borderColor = "rgba(0, 102, 255, 0.95)";
-        gateWater.style.boxShadow = "0 0 15px rgba(0, 102, 255, 0.6), inset 0 0 10px rgba(0, 102, 255, 0.4)";
+    // 3. Ay Çekim Gücü (lunarDominance) Dinamik Algılayıcı
+    let safeLunarDominance = 0;
+    if (typeof calculateMetatronMoon === 'function') {
+        const moonMetrics = calculateMetatronMoon(activeDate);
+        safeLunarDominance = moonMetrics ? (moonMetrics.dominance || 0) : 0;
     }
+    const moonPhaseRatio = (activeDate - new Date(Date.UTC(2000, 0, 6, 18, 14, 0))) / (1000 * 60 * 60 * 24) % 29.530588853 / 29.530588853;
 
-    // 5. MEVSİMSEL ETKİ VE AKADEMİK INVERSE FORMÜLASYON (Windkessel Filtreli)
+    // 4. Mevsimsel Katsayı
     const currentMonth = activeDate.getMonth();
     let seasonalMultiplier = 1.0;
-    if (currentMonth >= 11 || currentMonth <= 1) seasonalMultiplier = 1.4;
-    else if (currentMonth >= 5 && currentMonth <= 7) seasonalMultiplier = 0.7;
+    if (currentMonth >= 11 || currentMonth <= 1) seasonalMultiplier = 1.4; // Kış
+    else if (currentMonth >= 5 && currentMonth <= 7) seasonalMultiplier = 0.7; // Yaz
 
+    // =========================================================================
+    // 🔬 SIRKADİYEN INVERSE BASINÇ MOTORU & AKADEMİK SÖNÜMLEME (SIFIRLANMAZ KAPALI DEVRE)
+    // =========================================================================
     const sirkadiyenRadyan = (currentRoom * 5.625) * (Math.PI / 180);
+    
+    // Tıbben ve ezoterik olarak Öğlen (Room 0) ve Gece Yarısı (Room 32) akslarında 
+    // basıncı maksimuma fırlatmak için ana taşıyıcı dalgayı ters yüz (Inverse) ediyoruz.
     const anaTasiyiciDalga = Math.abs(Math.cos(sirkadiyenRadyan));
     const geceYarisiEtkisi = Math.sin(sirkadiyenRadyan) * 0.15;
     
+    // Asla sıfıra inmeyen klinik taban katmanı
     const puzsuzTaban = Math.max(0.35, anaTasiyiciDalga + geceYarisiEtkisi);
-    const lineerLunar = 1.9 + (safeLunarDominance * 0.5);
     
-    // Sarkaç dik açılara geldiğinde sıfırlanmayı önleyen rezervuar basıncı
-    let dynamicPressure = (puzsuzTaban * lineerLunar) + 0.2444;
-    if (dynamicPressure < 0.5874 || isNaN(dynamicPressure)) dynamicPressure = 0.5874;
+    // 1.9 Güçlendirilmiş Lunar Basınç Çarpanı (Dolunayda tepeye şahlanır)
+    const lineerLunarBaski = 1.9 + (safeLunarDominance * 0.5);
+    const hamBasincVektörü = (puzsuzTaban * lineerLunarBaski);
+
+    // 🩻 WİNDKESSEL REZERVUAR FİLTRESİ (Asimetri ve fırlama engelleyici)
+    if (typeof window.lastCSFPressure === 'undefined' || isNaN(window.lastCSFPressure) || window.lastCSFPressure <= 0) {
+        window.lastCSFPressure = 0.68;
+    }
+    let dynamicPressure = window.lastCSFPressure + (0.15 * (hamBasincVektörü - window.lastCSFPressure));
+
+    // Mutlak Koruma Kilidi: Ne olursa olsun asla 0.5874 kPa'ın altına inemez!
+    if (dynamicPressure < 0.5874 || isNaN(dynamicPressure)) {
+        dynamicPressure = 0.5874;
+    }
     window.lastCSFPressure = dynamicPressure;
 
+    // Bernoulli İlkesine göre Hız (Velocity) hesabı
     let flowVelocity = 1.25 / (dynamicPressure + 0.1);
     if (isNaN(flowVelocity) || flowVelocity <= 0) flowVelocity = 0.2444;
 
+    // 🫀 Kalp vuruşuyla (74 BPM) modüle edilmiş rezonans frekansı
     let systemicResonance = (flowVelocity * 0.35) + (dynamicPressure * 0.65);
     let finalHzOutput = systemicResonance * 74;
 
-    // 6. SİRKADİYEN SİSTEM FAZ KODLARI TAYİNİ
+    // 5. Sirkadiyen Eksen Faz Kodlarının Belirlenmesi
     let internalAxisState = "";
     let systemPhaseCode = "";
     if (currentRoom >= 48 && currentRoom <= 63) {
@@ -2544,7 +2463,7 @@ function updateLilithCosmicDock() {
     }
 
     // =========================================================================
-    // 💥 DOM ENJEKSİYONU (Saf Alfanumerik Yazım Katmanı)
+    // 💥 DOM ENJEKSİYONU (Arayüze pürüzsüz basım katmanı)
     // =========================================================================
     titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}]`;
     
@@ -2556,10 +2475,10 @@ function updateLilithCosmicDock() {
                                `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
                                `RESONANCE: ${finalHzOutput.toFixed(2)} Hz`;
 
-    // Alt Durum Barını Güncelle: Element çağ metinleri senin 960 yıllık motorundan beslenir
+    // Alt Durum Barı Senkronizasyonu
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | ${cosmicAgeData.displayText}`;
+        statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | ENGINE: SYNCED`;
     }
 }
 
@@ -2940,20 +2859,12 @@ function getDynamicCosmicAge(date) {
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
-// =========================================================================
-// 🎛️ WICCA OS: GÜVENLİ ÇAĞ ATLATICI VE MAKRO KOZMİK EKSEN SÜRÜCÜSÜ (NaN GEÇİRMEZ)
-// =========================================================================
-
-// 🛡️ Global Değişken Kalkanları
-if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
-
 function bendWiccaTime(modeDirection) {
     const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
     let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
 
     // =========================================================================
-    // 🎛️ DOĞRUSAL BÜKME MOTORU - ZAMAN AKÜMÜLATÖRÜ (TAM SAYI EMNİYETLİ)
+    // 🎛️ DOĞRUSAL BÜKME MOTORU - ZAMAN AKÜMÜLATÖRÜ (ASLA PATİNAJ YAPMAZ)
     // =========================================================================
     
     if (window.wiccaActiveMode === 'AY') {
@@ -2970,45 +2881,34 @@ function bendWiccaTime(modeDirection) {
             if (next8Multiple > 64) next8Multiple = 0;
             let roomsToJump = next8Multiple - currentRoom;
             if (roomsToJump <= 0) roomsToJump += 64;
-            window.wiccaTimeOffsetMinutes += Math.round(roomDuration * roomsToJump);
+            window.wiccaTimeOffsetMinutes += (roomDuration * roomsToJump);
         } else if (modeDirection === 'PAST') {
             let prev8Multiple = (currentRoom % 8 === 0) ? currentRoom - 8 : Math.floor(currentRoom / 8) * 8;
             if (prev8Multiple < 0) prev8Multiple = 64;
             let roomsToJump = currentRoom - prev8Multiple;
             if (roomsToJump <= 0) roomsToJump += 64;
-            window.wiccaTimeOffsetMinutes -= Math.round(roomDuration * roomsToJump);
+            window.wiccaTimeOffsetMinutes -= (roomDuration * roomsToJump);
         }
     }
-    // ♀️ 7.92 YILLIK VENÜS DÖNGÜSÜ (Math.round enjekte edildi, ondalık kırıldı!)
+    // ♀️ 7.92 YILLIK VENÜS DÖNGÜSÜ
     else if (window.wiccaActiveMode === 'VENUS8') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += Math.round(7.92 * 365.25 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= Math.round(7.92 * 365.25 * 24 * 60); }
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (7.92 * 365.25 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (7.92 * 365.25 * 24 * 60); }
     }
-    // 🪐 79 YILLIK BÜYÜK SATÜRN DÖNGÜSÜ
+    // 🪐 79 YILLIK BÜYÜK SATÜRN DÖNGÜSÜ (Seven of Nine Modülü!)
     else if (window.wiccaActiveMode === 'SATURN79') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += Math.round(79 * 365.25 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= Math.round(79 * 365.25 * 24 * 60); }
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (79 * 365.25 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (79 * 365.25 * 24 * 60); }
     }
     // 🌀 790 YILLIK BÜYÜK KELDANİ MUTASYONU
     else if (window.wiccaActiveMode === 'KELDANI790') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += Math.round(790 * 365.25 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= Math.round(790 * 365.25 * 24 * 60); }
+        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (790 * 365.25 * 24 * 60); } 
+        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (790 * 365.25 * 24 * 60); }
     }
 
-    // 🔥 ÇÖZÜM: Ondalık krizinden arındırılmış net dakikayı milisaniyeye çevirip tarihe gömüyoruz aga!
+    // 🔥 ÇÖZÜM: Gerçek zamanı baz alıp biriken net offseti temizce üzerine gömüyoruz aga!
     const baseDate = new Date();
     window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
-
-    // 🛡️ BÜKÜM ANINDA ODA KORUMA KALKANIDIR (Odanın NaN fırlatmasını kökten engeller)
-    try {
-        const toplamDakika = (window.now.getHours() * 60) + window.now.getMinutes();
-        let anlikOdaHesabi = Math.floor((toplamDakika / 1440) * 64);
-        if (!isNaN(anlikOdaHesabi) && anlikOdaHesabi >= 0 && anlikOdaHesabi < 64) {
-            window.currentCalculatedRoom = anlikOdaHesabi;
-        }
-    } catch(solarErr) {
-        console.warn("Büküm anında oda hesabı kalkanı devreye girdi.");
-    }
 
     // Siber status barı anlık durumla güncelle
     const statusBar = document.getElementById('cosmic-status');
@@ -3016,15 +2916,12 @@ function bendWiccaTime(modeDirection) {
         statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | SHIFT: ${window.wiccaTimeOffsetMinutes} MIN`;
     }
 
-    // Mevcut tetikleyicilerin güvenli çalışması
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
     if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
 
-    // 🚀 [KRİTİK ADIM]: syncLilithEngine yerine yeni birleşik yazıcı motorumuzu anında tetikliyoruz!
-    try {
-        if (typeof updateLilithCosmicDock === 'function') {
-            updateLilithCosmicDock();
-        } else if (typeof syncLilithEngine === 'function') {
+
+       try {
+        if (typeof syncLilithEngine === 'function') {
             syncLilithEngine();
         }
     } catch(e) {
