@@ -972,71 +972,125 @@ else {
 }
 
 // =========================================================================
-// 🌀 SAF DİNAMİK LUNISOLAR SELENE MOTORU (EŞİTLİK BARİYERSİZ / ARINMIŞ)
+// 🔮 LUNAR INTEGRAL UYUMLU SAF ENJEKTÖR (getSelene / update8PhaseSelene)
 // =========================================================================
 
 // =========================================================================
-// ☯️ LUNISOLAR EKSEN MOTORU (TEPEDE GÜNEŞ, AŞAĞIDA LILITH, SOLDA SELENE)
+// 🔮 MUTLAK LUNISOLAR SELENE MOTORU (100 IS OPPOSITE KİLİTLİ SAF GEOMETRİ)
+// =========================================================================
+// =========================================================================
+// 🔮 MUTLAK LUNISOLAR SELENE MOTORU (GÜNEŞ KONUMU TAM DOĞRUSAL EŞİTLEYİCİ)
 // =========================================================================
 
 function update8PhaseSelene() {
-    // 1. Senin sistemindeki o kusursuz fiziksel kapı haritası
-    const kapiTepe   = document.getElementById('gate-fire');   // Kuzey -> MUTLAK GÜNEŞ AKSI!
-    const kapiSagUst = document.getElementById('gate-light');  
-    const kapiSag    = document.getElementById('gate-metal');  
-    const kapiSagAlt = document.getElementById('gate-air');    
-    const kapiAlt    = document.getElementById('gate-water');  // Güney -> MUTLAK LILITH SAF YİN AKSI!
-    const kapiSolAlt = document.getElementById('gate-ice');    
-    const kapiSol    = document.getElementById('gate-earth');  // Batı -> 🌟 SELENE'NİN GERÇEK ÇIKID YERİ!
-    const kapiSolUst = document.getElementById('gate-wind');   
+    // 1. Şemadaki Açısal Derecelere (Saat Yönünün Tersine) Göre Gerçek Kapı Dizilimi
+    const semaAciWheel = [
+        document.getElementById('gate-water') || document.querySelector('.water-gate'), // 0: 0° TAM ALT (Yeni Ay - New Moon)
+        document.getElementById('gate-air')   || document.querySelector('.air-gate'),   // 1: 45° SAĞ ALT (Büyüyen Hilal)
+        document.getElementById('gate-metal') || document.querySelector('.metal-gate'), // 2: 90° TAM SAĞ (İlk Dördün)
+        document.getElementById('gate-light') || document.querySelector('.light-gate'), // 3: 135° SAĞ ÜST (Büyüyen Şişkin)
+        document.getElementById('gate-fire')  || document.querySelector('.fire-gate'),  // 4: 180° TAM TEPE (Dolunay)
+        document.getElementById('gate-wind')  || document.querySelector('.wind-gate'),  // 5: 225° SOL ÜST (Küçülen Şişkin)
+        document.getElementById('gate-earth') || document.querySelector('.earth-earth') || document.querySelector('.earth-gate'), // 6: 270° TAM SOL (Son Dördün)
+        document.getElementById('gate-ice')   || document.querySelector('.ice-gate')    // 7: 315° SOL ALT (Küçülen Hilal)
+    ];
 
-    const tumKapilar = [kapiTepe, kapiSagUst, kapiSag, kapiSagAlt, kapiAlt, kapiSolAlt, kapiSol, kapiSolUst];
+    // 2. 🌟 METATRON DATA BAĞLANTISI: Canlı fonksiyondan verileri pürüzsüzce emiyoruz
+    const targetDate = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    const metatronData = (typeof calculateMetatronMoon === "function") ? calculateMetatronMoon(targetDate) : null;
 
-    // 2. Anlık Parlaklık / Ay Evresi Verisi (%37 Waxing Crescent Gerçek Değeri)
-    let luminosity = 0.37;
-    if (typeof moonPhaseObj !== "undefined" && moonPhaseObj.phase) {
-        luminosity = moonPhaseObj.phase;
+    if (!metatronData) return; // Metatron Core henüz uyanmadıysa güvenle bekle aga
+
+    const livePercent = metatronData.percent; // Canlı yüzde (38 tam sayısı) [^21_0]
+    const neonGlowKatsayisi = livePercent / 100; 
+
+    // 3. ⏳ 🚀 HAKİKİ GÜNEŞ POZİSYONU ENJEKSİYONU (ERKEN BATMA BUG PANZEHİRİ)
+    // Yapay matematiksel formülleri tamamen çöpe fırlattık aga!
+    // Projenin ana sirkadiyen motoru o saniyede kadranda bizzat hangi kapıyı "Güneş" olarak yakmışsa,
+    // o kapının dizideki indeksini tarayıp milimetrik mutlak sıfır noktası kabul ediyoruz:
+    let sunDynamicIndex = 3; // Saat 15:20 için varsayılan Sağ Üst (gate-light) baseline
+    
+    // Tarayıcıya o saniyede ekranda morötesi/sarı parlayan ya da opaklığı en yüksek olan Güneş kapısını bulduruyoruz:
+    for (let i = 0; i < semaAciWheel.length; i++) {
+        const gate = semaAciWheel[i];
+        if (gate) {
+            // Eğer kapı projenin kendi kodları tarafından Güneş olarak uyandırılmışsa (opaklığı 1.0 veya rengi sarı/mor ise)
+            if (gate.style.opacity === "1.0" && !gate.style.border.includes('#00ffff')) {
+                sunDynamicIndex = i; // Güneş'in o anki gerçek, canlı indeksini yakaladık!
+                break;
+            }
+        }
     }
 
-    // 3. 🌟 GADDAR SIFIRLAMA: Aktif göksel elementler hariç tüm çemberi pürüzsüzce temizle
-    tumKapilar.forEach(gate => {
-        if (gate && gate !== kapiTepe && gate !== kapiAlt && gate !== kapiSol) {
-            gate.style.setProperty('box-shadow', 'none', 'important');
-            gate.style.setProperty('filter', 'none', 'important');
-            gate.style.setProperty('color', '#444444', 'important');
-            gate.style.setProperty('opacity', '0.2', 'important');
-            gate.style.transform = "scale(1)";
+    // =========================================================================
+    // 🔮 %100 SAF DİNAMİK TRANSMİSYON HESABI (100 İKEN MUTLAK 180° OPPOSITE)
+    // =========================================================================
+    // Ay fazı büyüdükçe (0'dan 100'e koştukça), bizzat bulduğumuz o gerçek Güneş konumundan
+    // saat yönünün tersine doğru ne kadar uzaklaşacağını (kapı farkını) dinamik bağlıyoruz:
+    let dinamikUzaklasmaMiktari = (livePercent * 4) / 100; // %38 için tam 1.52 kapı boyu mesafe açar!
+
+    // Güneş'in bizzat ekranda yanan o gerçek indeksinin üzerine uzaklaşma payını ekliyoruz:
+    let seleneDynamicIndex = (sunDynamicIndex + dinamikUzaklasmaMiktari) % 8;
+
+    // 4. 🌟 SENİN O MUTLAK KURALIN: LUMINOSITY 100 İSE TAM 180 DERECE UZAKTAKİ OPPOSITE KAPIDA OLACAK
+    if (livePercent === 100) {
+        // livePercent tam 100 olduğunda dinamikUzaklasmaMiktari tam 4.0 olur.
+        // Güneş o saniyede kadranda bizzat hangi hücrede yanıyorsa, 
+        // onun tam 180 derece karşısındaki (opposite) kapıya dinamik olarak mühürlenir!
+        seleneDynamicIndex = (sunDynamicIndex + 4) % 8;
+    } else if (livePercent <= 5) {
+        // Yeni Ay esnasında uzaklaşma sıfırlanır, direkt Güneş Kapısının koynunda doğar:
+        seleneDynamicIndex = sunDynamicIndex;
+    }
+
+    // 5. 🎯 KUSURSUZ DOĞRUSAL YUVARLAMA (8 kapılık sirkadiyen çarkta kör nokta bırakmaz)
+    let seleneKapiIndex = Math.floor(seleneDynamicIndex) % 8;
+
+    // Doğru pozisyondaki o hakiki şanlı Selene kapısını çağırıyoruz:
+    const isikKapisi = semaAciWheel[seleneKapiIndex];
+
+    // 6. 🌟 BARIŞÇIL SIFIRLAMA (METATRON CORE & INTEGRAL DOSTU):
+    // Diğer tüm kapıların gün içindeki serbest dönüşlerine ve neon parlamalarına asla müdahale edilmez!
+    semaAciWheel.forEach(gate => {
+        if (gate && gate !== isikKapisi) {
+            const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
+            if (!isCrossFixed && gate.style.border && gate.style.border.includes('#00ffff')) {
+                gate.style.removeProperty('border');
+                gate.style.removeProperty('background-color');
+                gate.style.transform = "scale(1)";
+                if (gate.id !== "gate-fire" && gate.id !== "gate-water") {
+                    gate.style.opacity = "0.2";
+                }
+            }
         }
     });
 
-    // 4. ☀️ TEPEDE GÜNEŞ (KUZEY AKSI)
-    if (kapiTepe) {
-        kapiTepe.style.setProperty('opacity', '1.0', 'important');
-        kapiTepe.style.setProperty('color', '#ffaa00', 'important'); // Gündüz Yang Işığı
-    }
+    // 7. 🌟 SAF SELENE IŞIK ENJEKSİYONU:
+    if (isikKapisi) {
+        if (livePercent > 5) {
+            let activeRoom64 = (typeof sunRoom64 !== "undefined") ? sunRoom64 : 24;
+            let sirkadiyenNefes = 0.5 + ((activeRoom64 % 8) / 8) * 0.5;
 
-    // 5. ☯️ AŞAĞIDA LILITH (GÜNEY AKSI)
-    if (kapiAlt) {
-        kapiAlt.style.setProperty('opacity', '0.8', 'important');
-        kapiAlt.style.setProperty('color', '#a855f7', 'important'); // Derin Yin / Hekate Sırrı
-    }
-
-    // 6. 🌙 SOLDA SELENE (BATI AKSI — %37 GÖRÜNÜR IŞIK KAPISI)
-    // Senin tasarladığın gibi: Selene tam sol tarafta o dünyaya bakan gümüş-turkuaz nuruyla parlar!
-    if (kapiSol) {
-        kapiSol.style.setProperty('opacity', '1.0', 'important');
-        kapiSol.style.setProperty('color', '#e2e8f0', 'important'); // Selene Gümüşü
-        kapiSol.style.transform = "scale(1.2)", 'important'; // + Yük genişlemesi
-        
-        // Ekran görüntündeki o muhteşem parlayan siber turkuaz neon sınır ve drop-shadow:
-        kapiSol.style.setProperty('filter', `drop-shadow(0 0 ${20 * luminosity}px #00ffff)`, 'important');
-        kapiSol.style.setProperty('box-shadow', `0 0 ${15 * luminosity}px rgba(0, 255, 255, 0.6)`, 'important');
+            isikKapisi.style.opacity = "1.0";
+            isikKapisi.style.color = "#e2e8f0"; // Selene Gümüş Beyazı
+            isikKapisi.style.backgroundColor = "rgba(0, 255, 255, 0.05)"; 
+            
+            // 🛡️ Çizgi Kalkanı Koruması: Sabbat kapısı değilse siber turkuaz çerçeveyi mühürle
+            const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(isikKapisi.id);
+            if (!isCrossFixed) {
+                isikKapisi.style.border = "1px solid #00ffff"; 
+            }
+            
+            isikKapisi.style.transform = "scale(1.2)"; // %20 kütleçekim büyüteci
+            
+            isikKapisi.style.boxShadow = `0 0 ${20 * neonGlowKatsayisi * sirkadiyenNefes}px rgba(226, 232, 240, 0.8)`;
+            isikKapisi.style.filter = `drop-shadow(0 0 ${12 * neonGlowKatsayisi * sirkadiyenNefes}px #00ffff)`; // Siber Turkuaz Hale!
+        }
     }
 }
 
+// Kalp atışını her vuruşta korumak için tetiği basılı tutuyoruz
 update8PhaseSelene();
-
-
 // =========================================================================
 // 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
 // =========================================================================
@@ -1365,25 +1419,37 @@ if (dockEl && titleEl && descEl && formEl) {
             mainViewport.style.width = "100vw"; mainViewport.style.height = "100vh"; mainViewport.style.zIndex = "1";
         }
 
-        if (lilithDock) {
+ if (lilithDock) {
             lilithDock.style.position = "fixed"; lilithDock.style.bottom = "85px"; lilithDock.style.left = "50%";
             lilithDock.style.transform = "translateX(-50%)"; lilithDock.style.width = "92%"; lilithDock.style.maxWidth = "380px";
             lilithDock.style.zIndex = "100"; lilithDock.style.background = "rgba(5, 5, 5, 0.75)";
             
             const moonPhaseText = `🌙 SELENE FAZI: %${moonLive.percent} | KADRAN: ${moonLive.seleneHex}`;
             
+            // 🌟 1411. SATIR ÇÖKME ENGELEYİCİ GÜVENLİK KAPILARI (SAFE CHECK)
+            const titleEl = document.getElementById('lilith-title');
+            const descEl = document.getElementById('lilith-desc');
+            const formulaEl = document.getElementById('lilith-formula');
+
             if (sunPullCheck > lilithPullCheck) {
                 lilithDock.style.borderColor = "rgba(255, 170, 0, 0.25)";
-                document.getElementById('lilith-title').innerText = `⚡ SELENE YANG ACTIVE [ODA: ${sunRoom64}/64]`;
-                document.getElementById('lilith-title').style.color = "#ffaa00";
-                document.getElementById('lilith-desc').innerText = `${moonPhaseText} | 13 AY: ${moonLive.thirteenMoonText}`;
-                document.getElementById('lilith-formula').innerText = `[8Y PENTAGRAM]: [${venusEarth8Y}/8] ──> [79Y RETURN]: [${macroCycle79}/79]`;
+                
+                // Elemanlar DOM'da varsa pürüzsüzce güncelle, yoksa tarayıcıyı çökertmeden pas geç!
+                if (titleEl) {
+                    titleEl.innerText = `⚡ SELENE YANG ACTIVE [ODA: ${sunRoom64}/64]`;
+                    titleEl.style.color = "#ffaa00";
+                }
+                if (descEl) descEl.innerText = `${moonPhaseText} | 13 AY: ${moonLive.thirteenMoonText}`;
+                if (formulaEl) formulaEl.innerText = `[8Y PENTAGRAM]: [${venusEarth8Y}/8] ──> [79Y RETURN]: [${macroCycle79}/79]`;
             } else {
                 lilithDock.style.borderColor = "rgba(0, 255, 170, 0.25)";
-                document.getElementById('lilith-title').innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${dayStg || "YIN"}`;
-                document.getElementById('lilith-title').style.color = "#00ffaa";
-                document.getElementById('lilith-desc').innerText = `${activeLilithMeta.csfEffect || "CSF MODU"} | ${realSaturnTransit}`;
-                document.getElementById('lilith-formula').innerText = `[790Y KELDANİ ÇARKU]: ${greatSaros790}. ŞAR | 13 AY: ${moonLive.thirteenMoonText}`;
+                
+                if (titleEl) {
+                    titleEl.innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${dayStg || "YIN"}`;
+                    titleEl.style.color = "#00ffaa";
+                }
+                if (descEl) descEl.innerText = `${activeLilithMeta.csfEffect || "CSF MODU"} | ${realSaturnTransit}`;
+                if (formulaEl) formulaEl.innerText = `[790Y KELDANİ ÇARKU]: ${greatSaros790}. ŞAR | 13 AY: ${moonLive.thirteenMoonText}`;
             }
         }
 
@@ -2249,12 +2315,21 @@ function calculateMetatronMoon(date) {
     let currentMoonDay = (daysSinceGalacticYear % 28) + 1;
     let activeThirteenMoon = LUNAR_13_MOONS[currentMoonIndex] || "ELECTRIC";
 
-    // 🚀 KİLİT HAMLE: Gün içi sirkadiyen oda değerini canlı senkronize yakalıyoruz aga
-    const localHours = date.getHours();
-    const localMinutes = date.getMinutes();
-    const localTotalMinutes = (localHours * 60) + localMinutes;
-    const localDayRatio = localTotalMinutes / 1440;
-    let currentRoom64 = Math.floor(localDayRatio * 64) % 64;
+    // 🚀 🌟 KİLİT HAMLE: ZAMANSAL KİLİTLENMEYİ BÜKEN DİNAMİK SİRKADİYEN ODA HESABI
+    // Sabit yerel saat okumasını çöpe fırlatıyoruz!
+    // Gelen date nesnesinin UTC/Yerel milisaniyesini doğrudan 24 saatlik gün döngüsüne bölerek,
+    // Zaman FUTURE/PAST butonlarıyla büküldüğünde odanın da senkronize akmasını sağlıyoruz aga:
+    const dayMs = currentMs % msPerDay;
+    const localDayRatio = (dayMs >= 0) ? (dayMs / msPerDay) : (1 + (dayMs / msPerDay));
+    
+    // 64 odalık skalanın anlık oda değerini ve milimetrik küsurat payını türetiyoruz:
+    let currentRoom64 = (localDayRatio * 64) % 64;
+
+    // Eğer global bir `sunRoom64` değişkeni projenin butonları tarafından haricen güncelleniyorsa 
+    // mutlak referans olarak onu baz al, yoksa zaman bükümlü bu akışkan odayı devreye sok:
+    if (typeof sunRoom64 !== "undefined") {
+        currentRoom64 = sunRoom64;
+    }
 
     // ☯ I CHING SELENE KADRANI
     const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
@@ -2265,10 +2340,10 @@ function calculateMetatronMoon(date) {
         age: moonAgeDays.toFixed(1),
         thirteenMoonText: `${activeThirteenMoon} MOON ──> GÜN: [${currentMoonDay}/28]`,
         seleneHex: iching64[seleneHexIndex] || "䷀",
-        seleneProgress: currentPhaseProgress
+        seleneProgress: currentPhaseProgress,
+        room: currentRoom64 // Kapıların milimetrik akması için canlı odayı da nesneye ekledik aga!
     };
 }
-
 // =========================================================================
 // ⚡ LUNAR INTEGRAL: AY EVRESİNE GÖRE SABBAT KAPILARI PARLAMA ENJEKTÖRÜ
 // =========================================================================
@@ -2348,6 +2423,7 @@ if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
     }
 }
 
+/*
 // =========================================================================
 // ☯️ METATRON CORE: SELENE & LILITH AKS BÜKÜCÜ DİNAMO ENJEKTÖRÜ
 // =========================================================================
@@ -2382,7 +2458,7 @@ if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
         metatronIframe.style.transform = `scale(${1.0 + (seleneForce * 0.15)}) rotate(${seleneForce * 5}deg)`;
     }
 }
-
+*/
 
 
 // =========================================================================
@@ -2489,11 +2565,6 @@ if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'A
 
 // =========================================================================
 // 🎛️ WICCA OS: NİHAİ ÇAĞ ATLATICI VE MAKRO KOZMİK EKSEN SÜRÜCÜSÜ
-// =========================================================================
-
-
-// =========================================================================
-// 🌀 WICCA OS: JÜPİTER-SATÜRN KAVUŞUM BAZLI DİNAMİK ÇAĞ (AGE) MOTORU
 // =========================================================================
 // =========================================================================
 // 🌀 WICCA OS: JÜPİTER-SATÜRN KAVUŞUM BAZLI DİNAMİK ÇAĞ (AGE) MOTORU
