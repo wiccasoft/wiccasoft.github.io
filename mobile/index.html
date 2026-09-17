@@ -872,34 +872,21 @@ setInterval(() => {
             moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
 
-   // =========================================================================
-        // 🔮 WICCA ENGINE: SAF SELENE GEOMETRİK ENJEKTÖRÜ (LİLİTH GİBİ SÜREKLİ AKAR)
         // =========================================================================
-        // Dışarıdan fonksiyon çağırmadan, döngünün her vuruşunda Ay'ı kadranda döndürür:
+        // 🌙 BEYAZ AY (SELENE) ENJEKTÖRÜ — KARA AY'I (LILITH) BOZMADAN AYRI DÖNER!
+        // =========================================================================
         if (moonLive) {
-            const livePercent = moonLive.percent;
-            
-            // Güneş'in 64 odalık pozisyonunu (sunRoom64) 8 kapıya bölüp Ay'ın doluluk mesafesiyle çeviriyoruz:
-            let gunesKapiPozisyonu = Math.floor(sunRoom64 / 8) % 8;
-            let mesafePayi = (livePercent / 100) * 4; // %100 Dolunayda tam 4 kapı karşıya fırlatır
-            
-            let seleneKapiIndex = Math.floor(gunesKapiPozisyonu + mesafePayi) % 8;
+            // 1. Senin o en saf matematiksel çarkın: Güneş'in kapı konumunu al ve Ay yüzdesiyle çevir!
+            let seleneGunesKapi = Math.floor(sunRoom64 / 8) % 8;
+            let seleneMesafePayi = (moonLive.percent / 100) * 4; 
+            let seleneIndex = Math.floor(seleneGunesKapi + seleneMesafePayi) % 8;
 
-            // 🌟 Aktif olmayan kapıları temizleme (Güneş veya Ay kapısı değilse loş tabana çek)
-            gates.forEach((gate, idx) => {
-                if (gate && idx !== seleneKapiIndex && gate !== sunGate && gate !== moonGate) {
-                    if (gate.id !== "gate-fire" && gate.id !== "gate-water") {
-                        gate.style.opacity = "0.2";
-                    }
-                }
-            });
-
-            // 🌟 Formülün bulduğu o hakiki kapıyı gümüş siber haleyle parlat!
-            const isikKapisi = gates[seleneKapiIndex];
-            if (isikKapisi && livePercent > 5) {
-                isikKapisi.style.opacity = "1.0";
-                isikKapisi.style.color = "#e2e8f0"; // Selene Gümüş Beyazı
-                isikKapisi.style.boxShadow = "0 0 20px rgba(226, 232, 240, 0.8)";
+            // 2. Bulduğun o bağımsız Selene kapısını, Lilith'e ve Güneş'e dokunmadan kadranda gümüş beyaz yak!
+            let seleneGate = gateMapping[seleneIndex];
+            if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
+                seleneGate.style.opacity = "1.0";
+                seleneGate.style.color = "#e2e8f0"; // Selene Saf Gümüş Beyazı
+                seleneGate.style.boxShadow = `0 0 ${20 * (moonLive.percent / 100)}px rgba(226, 232, 240, 0.8)`;
             }
         }
         // =========================================================================
