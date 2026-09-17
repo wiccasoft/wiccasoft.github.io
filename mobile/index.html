@@ -1658,88 +1658,7 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
 
   try {
-        // 1. ZAMAN BÜKÜMÜ KİLİDİ: Zaman panelinden gelen bükülmüş zamanı veya gerçek zamanı oku
-        const simdi = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
-
-        // 2. MONA LISA OPAKLIĞI & YIN BASKISI (Tamamen Dinamik Ekran Akışı)
-        const monaElement = document.getElementById('mesh-monalisa');
-        let monaOpacity = monaElement ? parseFloat(window.getComputedStyle(monaElement).opacity) : 0.44;
-        if (isNaN(monaOpacity)) monaOpacity = 0.44;
-        let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
-
-        // 3. I CHING ODA HESABI (Globalden oku, yoksa saatlik oranla dinamik üret)
-        let sunRoom64 = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 25;
-        if (typeof window.currentCalculatedRoom === 'undefined') {
-            const toplamDakika = (simdi.getHours() * 60) + simdi.getMinutes();
-            sunRoom64 = Math.floor((toplamDakika / 1440) * 64);
-        }
-
-        // 4. MEVSİMSEL ÇARPAN (Canlı Takvim Verisi)
-        const aktifAy = simdi.getMonth();
-        let seasonalMultiplier = 1.0;
-        if (aktifAy >= 11 || aktifAy <= 1) seasonalMultiplier = 1.4; // Kış
-        else if (aktifAy >= 5 && aktifAy <= 7) seasonalMultiplier = 0.7; // Yaz
-
-        // 5. AY EVRESİ VE DOMINANCE HESAPLAMA (Gezegen Kütleçekim Motoru)
-        // 2000 yılındaki referans Yeni Ay tarihinden bugüne geçen sinodik döngü farkı
-        const refDate = new Date(Date.UTC(2000, 0, 6, 18, 14, 0));
-        const diffDays = (simdi - refDate) / (1000 * 60 * 60 * 24);
-        const moonAge = (diffDays % 29.530588853) + (diffDays < 0 ? 29.530588853 : 0);
-        const moonPhaseRatio = moonAge / 29.530588853;
-        
-        // Dolunay ve Yeni Ay ekstrem noktalarında 0, İlk/Son dördünlerde (Maksimum çekim) 1'e yaklaşan dalga
-        let dynamicMoonDominance = Math.abs(Math.sin(moonPhaseRatio * Math.PI * 2));
-
-        // 6. NİHAİ KUTSAL KANALLAR VE CSF FORMÜLÜ (Matematiksel Akışkanlık)
-        const pendulumAngle = (sunRoom64 * 5.625) * (Math.PI / 180);
-
-        // Canlı Hız (Mevsim ve I Ching sarkacına bağlı)
-        let csfVelocity = Math.abs(Math.sin(pendulumAngle)) * seasonalMultiplier;
-        if (csfVelocity === 0) csfVelocity = 0.0123; // Tam sıfır noktasında akışı durdurma emniyeti
-
-        // Canlı Basınç (Ay kütleçekimi ve sarkaç harmonik açısına bağlı)
-        let pressureVec = Math.abs(Math.cos(pendulumAngle * 2)) * (1 + dynamicMoonDominance);
-
-        // Canlı Sistemik Rezonans (Hız ve Basıncın biyolojik frekans ağırlığı)
-        let resonanceHz = (csfVelocity * 0.6) + (pressureVec * 0.4);
-
-        // 7. SİSTEM FAZ KODU DEDEKTÖRÜ
-        let phaseCode = "SYS_BETA_DISCHARGE";
-        let internalAxisText = "🟡 Yang-Deşarj | ST Segmenti & İkindi Lütfu (Citrinitas)";
-        
-        if (sunRoom64 >= 48 && sunRoom64 <= 63) {
-            phaseCode = "SYS_ALPHA_RISE";
-            internalAxisText = "☯ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)";
-        } else if (sunRoom64 >= 0 && sunRoom64 < 16) {
-            phaseCode = "SYS_SIGMA_PEAK";
-            internalAxisText = "🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo)";
-        } else if (sunRoom64 >= 32 && sunRoom64 < 48) {
-            phaseCode = "SYS_OMEGA_CLEANSE";
-            internalAxisText = "💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo)";
-        }
-
-        // 8. DOM PANELİNE VERİLERİ ENJEKTE ETME
-        const titleElement = document.getElementById('lilith-title');
-        const descElement = document.getElementById('lilith-desc');
-        const formulaElement = document.getElementById('lilith-formula');
-
-        if (titleElement && descElement && formulaElement) {
-            titleElement.innerHTML = `LILITH: MATRİS AKTİF [${phaseCode}]`;
-            
-            descElement.innerHTML = `${internalAxisText}<br>` + 
-                                    `Mona Opacity Sync: ${monaOpacity.toFixed(2)} | ` +
-                                    `Karanlık Ay Baskısı (Yin): %${darkMoonDominance}`;
-            
-            formulaElement.innerHTML = `CSF VELOCITY: ${csfVelocity.toFixed(4)} m/s | ` +
-                                       `PRESSURE VEC: ${pressureVec.toFixed(4)} kPa | ` +
-                                       `RESONANCE: ${(resonanceHz * 74).toFixed(2)} Hz`; // Kalp ritmiyle modüle edilmiş Hz frekansı
-        }
-
-        // 9. KOZMİK DURUM MATRİSİ ALT BAR GÜNCELLEMESİ
-        const statusBar = document.getElementById('cosmic-status');
-        if (statusBar) {
-            statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${sunRoom64}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | TIME SYNC: ACTIVE`;
-        }
+       syncLilithEngine()
 
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
@@ -2366,7 +2285,94 @@ function calculateMetatronMoon(date) {
     };
 }
 */
+/**
+ * Wicca OS - Lilith Cosmic Dock & CSF Flow Unified Dominion Engine
+ * Tek bir merkezden zaman bükümlerini, I Ching odalarını ve opaklık senkronizasyonunu yönetir.
+ */
+function syncLilithEngine() {
+    // 1. DOM Katman Emniyet Kilitleri (Panel elemanları yoksa işlem yapma)
+    const titleElement = document.getElementById('lilith-title');
+    const descElement = document.getElementById('lilith-desc');
+    const formulaElement = document.getElementById('lilith-formula');
+    if (!titleElement || !descElement || !formulaElement) return;
 
+    // 2. Kapsam ve Zaman Büküm Kilidi (Zaman paneline %100 tam senkronizasyon)
+    const activeDate = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+
+    // 3. Canlı Opaklık ve Yin Dominansı Algılayıcı (getComputedStyle ile tarayıcıdan net okuma)
+    const monaElement = document.getElementById('mesh-monalisa');
+    let monaOpacity = monaElement ? parseFloat(window.getComputedStyle(monaElement).opacity) : 0.38;
+    if (isNaN(monaOpacity)) monaOpacity = 0.38; // Fallback
+    
+    // İnverted opaklık haritasından Karanlık Ay (Yin) baskısını çıkar
+    let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
+
+    // 4. Global I Ching Oda Takibi (Ana sirkadiyen motordan gelen canlı oda)
+    const currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 26;
+
+    // 5. Entegre Zaman Bükümlü Ay Evresi Alt Motoru (calculateMetatronMoon bağımlılığı kırıldı)
+    const refDate = new Date(Date.UTC(2000, 0, 6, 18, 14, 0));
+    const diffDays = (activeDate - refDate) / (1000 * 60 * 60 * 24);
+    const moonAge = (diffDays % 29.530588853) + (diffDays < 0 ? 29.530588853 : 0);
+    const phasePercentage = moonAge / 29.530588853;
+    const lunarDominance = Math.abs(Math.sin(phasePercentage * Math.PI * 2)); // Gel-git / kütleçekim aksı
+
+    // 6. Mevsimsel Katsayı Dinamiği
+    const currentMonth = activeDate.getMonth();
+    let seasonalMultiplier = 1.0;
+    if (currentMonth >= 11 || currentMonth <= 1) {
+        seasonalMultiplier = 1.4; // Kış: Yin genişlemesi
+    } else if (currentMonth >= 5 && currentMonth <= 7) {
+        seasonalMultiplier = 0.7; // Yaz: Yang ivmelenmesi
+    }
+
+    // 7. Biyolojik CSF Akış ve Sarkaç Matematiği (Asla NaN Üretmez)
+    const pendulumAngle = (currentRoom * 5.625) * (Math.PI / 180);
+    
+    let flowVelocity = Math.abs(Math.sin(pendulumAngle)) * seasonalMultiplier;
+    if (flowVelocity === 0) flowVelocity = 0.0556; // Akış kırılma emniyeti
+
+    let dynamicPressure = Math.abs(Math.cos(pendulumAngle * 2)) * (1 + lunarDominance);
+    
+    // Sistemik rezonansı 74 BPM tabanlı insan kalbi frekansıyla modüle et
+    let systemicResonance = (flowVelocity * 0.6) + (dynamicPressure * 0.4);
+    let finalHzOutput = systemicResonance * 74;
+
+    // 8. 4 Vitesli Biyolojik Eksen ve Sistem Faz Kodlarının Tayini
+    let internalAxisState = "";
+    let systemPhaseCode = "";
+    
+    if (currentRoom >= 48 && currentRoom <= 63) {
+        internalAxisState = "☯ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)";
+        systemPhaseCode = "SYS_ALPHA_RISE";
+    } else if (currentRoom >= 0 && currentRoom < 16) {
+        internalAxisState = "🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo)";
+        systemPhaseCode = "SYS_SIGMA_PEAK";
+    } else if (currentRoom >= 16 && currentRoom < 32) {
+        internalAxisState = "🟡 Yang-Deşarj | ST Segmenti & İkindi Lütfu (Citrinitas)";
+        systemPhaseCode = "SYS_BETA_DISCHARGE";
+    } else {
+        internalAxisState = "💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo)";
+        systemPhaseCode = "SYS_OMEGA_CLEANSE";
+    }
+
+    // 9. DOM Katmanlarına Tek Elden Saf Alfanumerik Yazım
+    titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}]`;
+    
+    descElement.innerHTML = `${internalAxisState}<br>` + 
+                            `Mona Opacity Sync: ${monaOpacity.toFixed(2)} | ` +
+                            `Karanlık Ay Baskısı (Yin): %${darkMoonDominance}`;
+    
+    formulaElement.innerHTML = `CSF VELOCITY: ${flowVelocity.toFixed(4)} m/s | ` +
+                               `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
+                               `RESONANCE: ${finalHzOutput.toFixed(2)} Hz`;
+
+    // 10. Alt Durum Barını (Cosmic Status) da Tek Kalemde Buradan Güncelle
+    const statusBar = document.getElementById('cosmic-status');
+    if (statusBar) {
+        statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(phasePercentage * 100).toFixed(1)}% | ENGINE: SYNCED`;
+    }
+}
 
 /**
  * Dispatches real-time calculations directly to the Lilith UI Dock Panel
@@ -2894,6 +2900,15 @@ function bendWiccaTime(modeDirection) {
 
     if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
     if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
+
+
+       try {
+        if (typeof syncLilithEngine === 'function') {
+            syncLilithEngine();
+        }
+    } catch(e) {
+        console.error("Instant time-bend sync failed:", e);
+    }
 }
 
 // 🎛️ Mod Değiştirici Yardımcı Fonksiyon Güncellemesi
