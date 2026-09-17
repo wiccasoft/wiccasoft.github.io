@@ -659,6 +659,7 @@ function updateHTMLGates() {
         fireGate.style.opacity = 0.2 + (timeData.dayCycle * 0.8);
         waterGate.style.opacity = 0.2 + ((1 - timeData.dayCycle) * 0.8);
     }
+
 }
 // Bu fonksiyonu 74 BPM vuruşu tetiklendikçe çağırabiliriz!
 
@@ -970,82 +971,72 @@ else {
     yinStg = `💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo — Diyastolik Arınma)`;
 }
 
+// =========================================================================
+// 🌀 SAF DİNAMİK LUNISOLAR SELENE MOTORU (EŞİTLİK BARİYERSİZ / ARINMIŞ)
+// =========================================================================
 
 // =========================================================================
-// ☯️ LUNISOLAR KUTUP MOTORU (MORUN KARŞISI LILITH)
+// ☯️ LUNISOLAR EKSEN MOTORU (TEPEDE GÜNEŞ, AŞAĞIDA LILITH, SOLDA SELENE)
 // =========================================================================
 
 function update8PhaseSelene() {
-    // 1. Senin sistemindeki tam sirkadiyen HTML/CSS kapı dizilim sırası
-    const sirkadiyenWheel = [
-        document.getElementById('gate-fire'),   // 0: TAM TEPE (Kuzey)
-        document.getElementById('gate-light'),  // 1: Sağ Üst Çapraz
-        document.getElementById('gate-metal'),  // 2: TAM SAĞ (Doğu) -> 🌟 LILITH SAF YİN KUTBU!
-        document.getElementById('gate-air'),    // 3: Sağ Alt Çapraz
-        document.getElementById('gate-water'),  // 4: TAM ALT (Güney) -> Selene'nin Hilal Çıkış Noktası!
-        document.getElementById('gate-ice'),    // 5: Sol Alt Çapraz
-        document.getElementById('gate-earth'),  // 6: TAM SOL (Batı) -> Mor Güneş (Oda 59)
-        document.getElementById('gate-wind')    // 7: Sol Üst Çapraz
-    ];
+    // 1. Senin sistemindeki o kusursuz fiziksel kapı haritası
+    const kapiTepe   = document.getElementById('gate-fire');   // Kuzey -> MUTLAK GÜNEŞ AKSI!
+    const kapiSagUst = document.getElementById('gate-light');  
+    const kapiSag    = document.getElementById('gate-metal');  
+    const kapiSagAlt = document.getElementById('gate-air');    
+    const kapiAlt    = document.getElementById('gate-water');  // Güney -> MUTLAK LILITH SAF YİN AKSI!
+    const kapiSolAlt = document.getElementById('gate-ice');    
+    const kapiSol    = document.getElementById('gate-earth');  // Batı -> 🌟 SELENE'NİN GERÇEK ÇIKID YERİ!
+    const kapiSolUst = document.getElementById('gate-wind');   
 
-    // 2. Anlık Güneş İndeksini Çekiyoruz
-    let sunKapiIndex = sirkadiyenWheel.indexOf(sunGate);
-    if (sunKapiIndex === -1) sunKapiIndex = 6; // Oda 59 baseline (Tam Sol)
+    const tumKapilar = [kapiTepe, kapiSagUst, kapiSag, kapiSagAlt, kapiAlt, kapiSolAlt, kapiSol, kapiSolUst];
 
-    // 3. 🔮 LILITH KARŞI KUTUP HESABI (180 DERECE APOGEE)
-    // Mor yanan Güneş Kapısının tam karşısındaki (simetriğindeki) kapıyı buluyoruz:
-    let lilithKapiIndex = (sunKapiIndex + 4) % 8; // Tam 4 kapı sonrası (180 derece karşısı)
-    let lilithGate = sirkadiyenWheel[lilithKapiIndex];
-
-    // 4. 🌙 SELENE GÜNEŞE BAĞLI DİNAMİK ÇIKIŞ HESABI
-    let luminosity = 0.33; // %33 Waxing Crescent
+    // 2. Anlık Parlaklık / Ay Evresi Verisi (%37 Waxing Crescent Gerçek Değeri)
+    let luminosity = 0.37;
     if (typeof moonPhaseObj !== "undefined" && moonPhaseObj.phase) {
         luminosity = moonPhaseObj.phase;
     }
-    
-    // Selene (Işıklı Ay) Yeni Ay'da Güneş kapısında start verir, 
-    // %33 Hilal'de saat yönünün tersine 2 kapı (15 oda) açılarak tam aşağıyı (İndis 4) yakar!
-    let seleneKapiIndex = (sunKapiIndex - 2 + 8) % 8;
-    if (luminosity <= 0.05) seleneKapiIndex = sunKapiIndex;
-    let activeSeleneGate = sirkadiyenWheel[seleneKapiIndex];
 
-    // 5. TÜM ÇARKIN IŞIK VE REZONANS ENJEKSİYONU
-    sirkadiyenWheel.forEach((gate, idx) => {
-        if (!gate) return;
-
-        // A. GÜNEŞ KAPISI: Senin belirlediğin o sirkadiyen mor/morötesi akımda kalır
-        if (gate === sunGate) {
-            // Güneş stillerini koru
-            return;
-        }
-
-        // B. 🔮 LILITH KUTBU (MORUN TAM KARŞISI): 
-        // Renkleri emen, karanlık ve derin siber yeşil/morötesi bir haleyle şarj olur!
-        if (gate === lilithGate) {
-            gate.style.opacity = "1.0";
-            gate.style.color = "#a855f7"; // Lilith Morötesi / Eflatun Nur
-            gate.style.filter = `drop-shadow(0 0 20px #10b981) brightness(1.1)`; // Siber Yeşil Hekate Halesi
-            gate.style.boxShadow = `0 0 15px rgba(168, 85, 247, 0.6)`;
-            gate.style.transform = "scale(1.15)";
-        }
-        // C. 🌙 SELENE (GÖRÜNÜR AY): Güneş'ten açılan o %33'lük gümüş-turkuaz nurla tam aşağıda parlar!
-        else if (gate === activeSeleneGate) {
-            gate.style.opacity = "1.0";
-            gate.style.color = "#e2e8f0"; // Selene Gümüşü
-            gate.style.filter = `drop-shadow(0 0 ${22 * luminosity}px #00ffff)`; // Siber Turkuaz
-            gate.style.boxShadow = `0 0 12px rgba(226, 232, 240, 0.8)`;
-            gate.style.transform = "scale(1.2)";
-        }
-        // D. DİĞER KAPILAR: Derin gece modunda loş baseline'da bekler
-        else {
-            gate.style.boxShadow = "none";
-            gate.style.filter = "none";
-            gate.style.opacity = "0.2";
-            gate.style.color = "#444444";
+    // 3. 🌟 GADDAR SIFIRLAMA: Aktif göksel elementler hariç tüm çemberi pürüzsüzce temizle
+    tumKapilar.forEach(gate => {
+        if (gate && gate !== kapiTepe && gate !== kapiAlt && gate !== kapiSol) {
+            gate.style.setProperty('box-shadow', 'none', 'important');
+            gate.style.setProperty('filter', 'none', 'important');
+            gate.style.setProperty('color', '#444444', 'important');
+            gate.style.setProperty('opacity', '0.2', 'important');
             gate.style.transform = "scale(1)";
         }
     });
+
+    // 4. ☀️ TEPEDE GÜNEŞ (KUZEY AKSI)
+    if (kapiTepe) {
+        kapiTepe.style.setProperty('opacity', '1.0', 'important');
+        kapiTepe.style.setProperty('color', '#ffaa00', 'important'); // Gündüz Yang Işığı
+    }
+
+    // 5. ☯️ AŞAĞIDA LILITH (GÜNEY AKSI)
+    if (kapiAlt) {
+        kapiAlt.style.setProperty('opacity', '0.8', 'important');
+        kapiAlt.style.setProperty('color', '#a855f7', 'important'); // Derin Yin / Hekate Sırrı
+    }
+
+    // 6. 🌙 SOLDA SELENE (BATI AKSI — %37 GÖRÜNÜR IŞIK KAPISI)
+    // Senin tasarladığın gibi: Selene tam sol tarafta o dünyaya bakan gümüş-turkuaz nuruyla parlar!
+    if (kapiSol) {
+        kapiSol.style.setProperty('opacity', '1.0', 'important');
+        kapiSol.style.setProperty('color', '#e2e8f0', 'important'); // Selene Gümüşü
+        kapiSol.style.transform = "scale(1.2)", 'important'; // + Yük genişlemesi
+        
+        // Ekran görüntündeki o muhteşem parlayan siber turkuaz neon sınır ve drop-shadow:
+        kapiSol.style.setProperty('filter', `drop-shadow(0 0 ${20 * luminosity}px #00ffff)`, 'important');
+        kapiSol.style.setProperty('box-shadow', `0 0 ${15 * luminosity}px rgba(0, 255, 255, 0.6)`, 'important');
+    }
 }
+
+update8PhaseSelene();
+
+
 // =========================================================================
 // 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
 // =========================================================================
