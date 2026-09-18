@@ -1409,6 +1409,12 @@ if (dockEl && titleEl && descEl && formEl) {
         const macroCycle79 = ((dynamicSimYear % 79) + (sunRoom64 / 64)).toFixed(2);
         const greatSaros790 = Math.floor(dynamicSimYear / 790);
 
+
+        const liveSeconds = now.getSeconds().toString().padStart(2, '0');
+        // calculateCosmicTime()'dan gelen dayCycle (0.0 - 1.0) verisinden yüzdesel oran süzülüyor
+        let liveYangPercent = Math.round(timeData.dayCycle * 100);
+        let liveYinPercent = 100 - liveYangPercent;
+
         // 🩻 İPEKSİ 200MS DONANIM LAG ENJEKTÖRÜ (ÇATLAMAYI ÖNLEYEN GPU KALKANI)
         const localGateElements = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
         localGateElements.forEach(gate => {
@@ -1439,21 +1445,21 @@ if (dockEl && titleEl && descEl && formEl) {
             if (sunPullCheck > lilithPullCheck) {
                 lilithDock.style.borderColor = "rgba(255, 170, 0, 0.25)";
                 
-                // Elemanlar DOM'da varsa pürüzsüzce güncelle, yoksa tarayıcıyı çökertmeden pas geç!
                 if (titleEl) {
-                    titleEl.innerText = `⚡ SELENE YANG ACTIVE [ODA: ${sunRoom64}/64]`;
+                    // 🎯 YANG VE YIN DATA GİRİŞİ TAM BURADA SELENE BAŞLIĞINA ENJEKTE EDİLDİ AGA!
+                    titleEl.innerText = `⚡ SELENE YANG ACTIVE [YANG: %${liveYangPercent} - YIN: %${liveYinPercent}] ⏱️ ${liveSeconds}s [ODA: ${sunRoom64}/64]`;
                     titleEl.style.color = "#ffaa00";
                 }
-                if (descEl) descEl.innerText = `${moonPhaseText} | 13 AY: ${moonLive.thirteenMoonText}`;
+                if (descEl) descEl.innerText = `${moonPhaseText} | 13 AY: LUNAR MOON ──> GÜN: [27/28]`;
                 if (formulaEl) formulaEl.innerText = `[8Y PENTAGRAM]: [${venusEarth8Y}/8] ──> [79Y RETURN]: [${macroCycle79}/79]`;
             } else {
                 lilithDock.style.borderColor = "rgba(0, 255, 170, 0.25)";
                 
                 if (titleEl) {
-                    titleEl.innerText = `🔮 [${activeLilithMeta.title || "YIN MATRIX"}]: ${dayStg || "YIN"}`;
+                    titleEl.innerText = `🔮 [${activeLilithMeta?.title || "YIN MATRIX"}]: ${yinStg || "YIN"}`;
                     titleEl.style.color = "#00ffaa";
                 }
-                if (descEl) descEl.innerText = `${activeLilithMeta.csfEffect || "CSF MODU"} | ${realSaturnTransit}`;
+                if (descEl) descEl.innerText = `${activeLilithMeta?.csfEffect || "CSF FLOW ACTIVE"} | ${realSaturnTransit}`;
                 if (formulaEl) formulaEl.innerText = `[790Y KELDANİ ÇARKU]: ${greatSaros790}. ŞAR | 13 AY: ${moonLive.thirteenMoonText}`;
             }
         }
@@ -1468,12 +1474,12 @@ if (dockEl && titleEl && descEl && formEl) {
         localStatusBar.innerHTML = `
             <span style="color: #00ffaa;">●</span> ${realSaturnTransit} | ${realMarsTransit} <br/>
             <span style="color: #7a00ff;">●</span> 13 AY: ${moonLive.thirteenMoonText} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y] | [${airTrigonResonance}] <br/>
-            <span style="color: #ffaa00;">●</span> YIN: %${safeDominance} | 8Y VENÜS: [${venusEarth8Y}/8] | 79Y SATÜRN: [${macroCycle79}/79] | ODA: [${sunRoom64}/64]
+            <span style="color: #ffaa00;">●</span> YANG: %${liveYangPercent} | YIN: %${liveYinPercent}| 8Y VENÜS: [${venusEarth8Y}/8] | 79Y SATÜRN: [${macroCycle79}/79] | ODA: [${sunRoom64}/64]
         `;
     }
 
 
-
+   
 
     
  // =========================================================================
@@ -1654,6 +1660,8 @@ if (metatronIframe && metatronIframe.contentWindow) {
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
     }*/
+
+
 },  CONFIG.PULSE_INTERVAL);
 
 
