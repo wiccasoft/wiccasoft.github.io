@@ -788,6 +788,9 @@ const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi freka
 
     const gates = [waterGate, airGate, metalGate, lightGate, fireGate, etherGate, earthGate, iceGate];
 
+    // 🛡️ INITIALIZATION ERROR SAVUNMA HATTI: 
+   // const PLANET_ELEMENT_INFLUENCES = currentGovernor.influences;
+
 // 🫀 74 BPM İNSAN KALBİ FREKANS DÖNGÜSÜ
 setInterval(() => {
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
@@ -896,13 +899,10 @@ setInterval(() => {
         const targetPlanet = calculateCosmicPlanetHour(now, solar);
         const activePlanetName = targetPlanet.name; 
         
-// Sirkadiyen motorun kalbinde dinamik valiyi ve manyetik etkilerini hafızaya alıyoruz aga
-//const currentGovernor = calculateCosmicPlanetHour(now, solar);
+        // Sirkadiyen motorun kalbinde dinamik valiyi ve manyetik etkilerini hafızaya alıyoruz aga
+        //const currentGovernor = calculateCosmicPlanetHour(now, solar);
 
-// 🛡️ INITIALIZATION ERROR SAVUNMA HATTI: 
-// Eğer aşağıda senin eski döngülerin PLANET_ELEMENT_INFLUENCES nesnesini doğrudan okuyorsa,
-// tarayıcı patlamasın diye o ismi fonksiyonun çıktısına eşitliyoruz aga!
-const PLANET_ELEMENT_INFLUENCES = currentGovernor.influences;
+
         // gateMapping dizisini local kapsama emniyetli şekilde kilitliyoruz
         const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
@@ -1647,13 +1647,13 @@ if (metatronIframe && metatronIframe.contentWindow) {
     }, '*');
 }
 
-
+/*
   try {
        syncLilithEngine()
 
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
-    }
+    }*/
 },  CONFIG.PULSE_INTERVAL);
 
 
