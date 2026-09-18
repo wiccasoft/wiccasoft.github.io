@@ -2255,6 +2255,10 @@ function syncLilithEngine() {
  * Hem tıbbi sirkadiyen zirveleri (Gece Yarısı / Öğlen Max) hesaplar, hem de DOM'a tek elden basar.
  */
 function updateLilithCosmicDock() {
+    // 🫀 0. GLOBAL MOTOR SAYAÇ DİNAMOSU (PULSE HIT COUNTER)
+    // Global hafızada sayaç yoksa 0'dan başlatır, her 740ms vuruşunda tetiklendikçe 1 artırır aga!
+    window.wiccaEnginePulseCount = (window.wiccaEnginePulseCount || 0) + 1;
+
     const titleElement = document.getElementById('lilith-title');
     const descElement = document.getElementById('lilith-desc');
     const formulaElement = document.getElementById('lilith-formula');
@@ -2264,19 +2268,27 @@ function updateLilithCosmicDock() {
     const activeDate = window.now || new Date();
     const currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 40;
 
+    // ⏱️ Anlık canlı saniyeyi çift haneli formatta (01, 02, 03...) emiyoruz aga
+    const liveSeconds = activeDate.getSeconds().toString().padStart(2, '0');
+
     // 2. Canlı Opaklık ve Yin Baskısı Algılama
     const monaElement = document.getElementById('mesh-monalisa');
     let monaOpacity = monaElement ? parseFloat(window.getComputedStyle(monaElement).opacity) : 0.0;
     if (isNaN(monaOpacity)) monaOpacity = 0.0;
     let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
 
-    // 3. Ay Çekim Gücü (lunarDominance) Dinamik Algılayıcı
+    // 3. Ay Çekim Gücü (lunarDominance) Dinamik Algılayıcı (Çakışma ve NaN Hatası Tamamen Önlendi Aga!)
     let safeLunarDominance = 0;
+    let moonPhaseRatio = 0;
+    
     if (typeof calculateMetatronMoon === 'function') {
         const moonMetrics = calculateMetatronMoon(activeDate);
-        safeLunarDominance = moonMetrics ? (moonMetrics.dominance || 0) : 0;
+        if (moonMetrics) {
+            // Aşağıdaki canavar fonksiyondan gelen verileri emniyetle süzüyoruz aga:
+            safeLunarDominance = typeof moonMetrics.dominance !== 'undefined' ? moonMetrics.dominance : 0;
+            moonPhaseRatio = typeof moonMetrics.seleneProgress !== 'undefined' ? moonMetrics.seleneProgress : 0;
+        }
     }
-    const moonPhaseRatio = (activeDate - new Date(Date.UTC(2000, 0, 6, 18, 14, 0))) / (1000 * 60 * 60 * 24) % 29.530588853 / 29.530588853;
 
     // 4. Mevsimsel Katsayı
     const currentMonth = activeDate.getMonth();
@@ -2289,35 +2301,29 @@ function updateLilithCosmicDock() {
     // =========================================================================
     const sirkadiyenRadyan = (currentRoom * 5.625) * (Math.PI / 180);
     
-    // Tıbben ve ezoterik olarak Öğlen (Room 0) ve Gece Yarısı (Room 32) akslarında 
-    // basıncı maksimuma fırlatmak için ana taşıyıcı dalgayı ters yüz (Inverse) ediyoruz.
     const anaTasiyiciDalga = Math.abs(Math.cos(sirkadiyenRadyan));
     const geceYarisiEtkisi = Math.sin(sirkadiyenRadyan) * 0.15;
     
-    // Asla sıfıra inmeyen klinik taban katmanı
     const puzsuzTaban = Math.max(0.35, anaTasiyiciDalga + geceYarisiEtkisi);
     
-    // 1.9 Güçlendirilmiş Lunar Basınç Çarpanı (Dolunayda tepeye şahlanır)
+    // 1.9 Güçlendirilmiş Lunar Basınç Çarpanı (Artık safeLunarDominance sayesinde asla NaN dönmez ve dondurmaz!)
     const lineerLunarBaski = 1.9 + (safeLunarDominance * 0.5);
     const hamBasincVektörü = (puzsuzTaban * lineerLunarBaski);
 
-    // 🩻 WİNDKESSEL REZERVUAR FİLTRESİ (Asimetri ve fırlama engelleyici)
+    // 🩻 WİNDKESSEL REZERVUAR FİLTRESİ
     if (typeof window.lastCSFPressure === 'undefined' || isNaN(window.lastCSFPressure) || window.lastCSFPressure <= 0) {
         window.lastCSFPressure = 0.68;
     }
     let dynamicPressure = window.lastCSFPressure + (0.15 * (hamBasincVektörü - window.lastCSFPressure));
 
-    // Mutlak Koruma Kilidi: Ne olursa olsun asla 0.5874 kPa'ın altına inemez!
     if (dynamicPressure < 0.5874 || isNaN(dynamicPressure)) {
         dynamicPressure = 0.5874;
     }
     window.lastCSFPressure = dynamicPressure;
 
-    // Bernoulli İlkesine göre Hız (Velocity) hesabı
     let flowVelocity = 1.25 / (dynamicPressure + 0.1);
     if (isNaN(flowVelocity) || flowVelocity <= 0) flowVelocity = 0.2444;
 
-    // 🫀 Kalp vuruşuyla (74 BPM) modüle edilmiş rezonans frekansı
     let systemicResonance = (flowVelocity * 0.35) + (dynamicPressure * 0.65);
     let finalHzOutput = systemicResonance * 74;
 
@@ -2341,7 +2347,8 @@ function updateLilithCosmicDock() {
     // =========================================================================
     // 💥 DOM ENJEKSİYONU (Arayüze pürüzsüz basım katmanı)
     // =========================================================================
-    titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}]`;
+    // 🎯 CANLI SAYAÇ VE SANİYE VERİLERİ BAŞLIĞIN EN SAĞINA TAM SENKRON KİLİTLENDİ AGA!
+    titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}] 🫀 P: ${window.wiccaEnginePulseCount} | ⏱️ ${liveSeconds}s`;
     
     descElement.innerHTML = `${internalAxisState}<br>` + 
                             `Mona Opacity Sync: ${monaOpacity.toFixed(2)} | ` +
@@ -2354,7 +2361,7 @@ function updateLilithCosmicDock() {
     // Alt Durum Barı Senkronizasyonu
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | ENGINE: SYNCED`;
+        statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s`;
     }
 }
 
