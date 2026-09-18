@@ -793,7 +793,16 @@ const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi freka
 
 // 🫀 74 BPM İNSAN KALBİ FREKANS DÖNGÜSÜ
 setInterval(() => {
+
+      // döngünün her vuruşunda window.now nesnesini akan gerçek canlı zamanla durmaksızın güncelle!
+    if (!window.isTimeBended) {
+        window.now = new Date();
+    }
+
+    // Senin mevcut orijinal satırın aynen kalıyor, artık donmuş saati değil akan canlı zamanı emiyor:
     const now = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+
+
     const currentAgeObj = getDynamicCosmicAge(now);
     const solar = getExactSolarTimes(currentLat, currentLon, now);
     const currentGovernor = calculateCosmicPlanetHour(window.now, solar);
@@ -1527,8 +1536,8 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
 
   try {
-       syncLilithEngine()
-
+       //syncLilithEngine()
+        console.log(window.now)
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
     }
