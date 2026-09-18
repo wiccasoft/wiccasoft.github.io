@@ -2358,22 +2358,7 @@ function updateLilithCosmicDock() {
     }
 }
 
-/**
- * Calculates the exact dynamic moon phase metrics
- * @param {Date} date 
- */
-function calculateMetatronMoon(date) {
-    const refDate = new Date(Date.UTC(2000, 0, 6, 18, 14, 0));
-    const diffDays = (date - refDate) / (1000 * 60 * 60 * 24);
-    const moonAge = (diffDays % CONFIG.LUNAR_SYNODIC_PERIOD) + (diffDays < 0 ? CONFIG.LUNAR_SYNODIC_PERIOD : 0);
-    const phasePercentage = moonAge / CONFIG.LUNAR_SYNODIC_PERIOD;
-    
-    return {
-        age: moonAge,
-        phase: phasePercentage, // 0.0 to 1.0
-        dominance: Math.sin(phasePercentage * Math.PI) // Peak at First/Last Quarters
-    };
-}
+
 // =========================================================================
 // 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE DİNAMİK SELENE KADRANI
 // =========================================================================
