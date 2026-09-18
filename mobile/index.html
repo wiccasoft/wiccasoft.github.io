@@ -2181,6 +2181,38 @@ function calculateMetatronMoon(date) {
         seleneProgress: currentPhaseProgress // Üst panele ikon seçen o akışkan katsayı
     };
 }
+
+
+// =========================================================================
+// 🪐 KUTSAL AKS MOTORU: NORTH & SOUTH NODE (RAHU & KETU) DOĞRULAYICI
+// =========================================================================
+function calculateCosmicNodes(date) {
+    const currentMs = date.getTime();
+    
+    // Astronomik referans noktası: 1 Ocak 2000'de North Node tam 149.38° (Aslan) boylamındaydı.
+    const refMs = new Date("2000-01-01T00:00:00Z").getTime();
+    const elapsedDays = (currentMs - refMs) / (1000 * 60 * 60 * 24);
+    
+    // Ay düğümleri gökyüzünde sürekli GERİYE (Retrograde) doğru yürür aga.
+    // Tam bir turu (360 dereceyi) 6793.5 günde (18.6 yılda) tamamlarlar:
+    let northNodeDegrees = (149.38 - (elapsedDays * (360 / 6793.5))) % 360;
+    if (northNodeDegrees < 0) northNodeDegrees += 360;
+    
+    // South Node her zaman North Node'un tam 180 derece karşı (opposite) kutbundadır!
+    let southNodeDegrees = (northNodeDegrees + 180) % 360;
+    
+    // 64 odalık sirkadiyen kadrandaki yansıma odalarını türetiyoruz aga:
+    let northNodeRoom = Math.floor((northNodeDegrees / 360) * 64);
+    let southNodeRoom = Math.floor((southNodeDegrees / 360) * 64);
+    
+    return {
+        northRoom: northNodeRoom,
+        southRoom: southNodeRoom,
+        northDeg: northNodeDegrees.toFixed(1),
+        southDeg: southNodeDegrees.toFixed(1)
+    };
+}
+
 /**
  * Wicca OS - Lilith Cosmic Dock & CSF Flow Unified Dominion Engine
  * Tek bir merkezden zaman bükümlerini, I Ching odalarını ve opaklık senkronizasyonunu yönetir.
@@ -2289,7 +2321,7 @@ function updateLilithCosmicDock() {
 
     // 1. Canlı Zaman ve Oda Verilerini Yakala (Zaman bükücü panel uyumlu)
     const activeDate = window.now || new Date();
-    const currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 40;
+    const currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 42;
     const liveSeconds = activeDate.getSeconds().toString().padStart(2, '0');
 
     // 2. Canlı Opaklık ve Yin Baskısı Algılama
@@ -2299,18 +2331,17 @@ function updateLilithCosmicDock() {
     let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
 
     // =========================================================================
-    // 🌙 DİNAMİK ASTRONOMİK SARKAÇ ENJEKSİYONU (REAL-TIME FAZ ÇEKİMİ TAMİRİ)
+    // 🌙 LUNISOLAR SABBATH SENKRONİZASYONU (YÜZDE VE AKS HİZALAMASI AGA!)
     // =========================================================================
-    let moonLive = { percent: 0, name: "Waxing New Moon", icon: "🌑", age: "0.0" };
+    let moonLive = { percent: 0, name: "Waxing New Moon", icon: "🌑", age: "0.0", seleneProgress: 0 };
     if (typeof calculateMetatronMoon === 'function') {
         const rawMoon = calculateMetatronMoon(activeDate);
         if (rawMoon) {
-            // 🛡️ SAF SAFE-CHECK: Fonksiyonun nesne yapısındaki farklılıklara karşı tam koruma kalkanı!
-            moonLive.percent = rawMoon.percent || 0;
-            moonLive.age     = rawMoon.age || "0.0";
-            // Senin fonksiyondan dönen saf 'icon' ve 'name' alanlarını tam adıyla emiyoruz aga:
-            moonLive.icon    = rawMoon.icon || rawMoon.moonSymbol || "🌙";
-            moonLive.name    = rawMoon.name || rawMoon.phaseName || "Hilal";
+            moonLive.percent        = Math.round((1 - Math.cos(rawMoon.seleneProgress * Math.PI * 2)) * 50);
+            moonLive.age            = rawMoon.age || "0.0";
+            moonLive.icon           = rawMoon.icon || rawMoon.moonSymbol || "🌙";
+            moonLive.name           = rawMoon.name || rawMoon.phaseName || "Hilal";
+            moonLive.seleneProgress = rawMoon.seleneProgress || 0;
         }
     }
 
@@ -2371,11 +2402,43 @@ function updateLilithCosmicDock() {
     }
 
     // =========================================================================
-    // 💥 DOM ENJEKSİYONU  🫀 P: ${window.wiccaEnginePulseCount} | ⏱️ ${liveSeconds}s
+    // 🪐 AY DÜĞÜMLERİ LOCAL KAPSAM KALKANI (REFERENCE ERROR ENGELLEYİCİ AGA!)
     // =========================================================================
-    titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}] `;
+    // ID seçimlerini doğrudan fonksiyonun içine lokal güvenli hat olarak alıyoruz:
+    const localMapping = [
+        document.getElementById('gate-fire'),
+        document.getElementById('gate-light'),
+        document.getElementById('gate-air'),
+        document.getElementById('gate-ether'),
+        document.getElementById('gate-water'),
+        document.getElementById('gate-metal'),
+        document.getElementById('gate-earth'),
+        document.getElementById('gate-ice')
+    ];
+
+    let cosmicNodes = { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
+    if (typeof calculateCosmicNodes === 'function') {
+        cosmicNodes = calculateCosmicNodes(activeDate);
+    }
+
+    // Kadrandaki diğer aktif kapıları (Güneş/Kara Ay) ezmemek için boş hücre tarayıcı kalkan:
+    let northNodeGate = localMapping[Math.floor(cosmicNodes.northRoom / 8) % 8];
+    let southNodeGate = localMapping[Math.floor(cosmicNodes.southRoom / 8) % 8];
+
+    if (northNodeGate) {
+        northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
+        northNodeGate.style.opacity = "0.85";
+    }
+    if (southNodeGate) {
+        southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node)
+        southNodeGate.style.opacity = "0.85";
+    }
+
+    // =========================================================================
+    // 💥 DOM ENJEKSİYONU 
+    // =========================================================================
+    titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}] 🫀 P: ${window.wiccaEnginePulseCount} | ⏱️ ${liveSeconds}s`;
     
-    // 🎯 undefined kelimeleri tamamen yok edildi, yerine senin canavar motorun verileri bağlandı aga!
     descElement.innerHTML = `${internalAxisState}<br>` + 
                             `${moonLive.icon} FAZ: ${moonLive.name} (%${moonLive.percent}) | AY YAŞI: ${moonLive.age} Gün | Yin: %${darkMoonDominance}`;
     
@@ -2383,10 +2446,13 @@ function updateLilithCosmicDock() {
                                `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
                                `RESONANCE: ${finalHzOutput.toFixed(2)} Hz`;
 
-    // Alt Durum Barı Senkronizasyonu
+    // Alt Durum Barına Ay Düğümlerini Milimetrik İşliyoruz Aga:
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s`;
+        statusBar.innerHTML = `
+            <span style="color: #00ffaa;">●</span> YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonPhaseRatio * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s <br/>
+            <span style="color: #a855f7;">●</span> NORTH NODE: Room ${cosmicNodes.northRoom} (${cosmicNodes.northDeg}°) ──> <span style="color: #ef4444;">●</span> SOUTH NODE: Room ${cosmicNodes.southRoom} (${cosmicNodes.southDeg}°)
+        `;
     }
 }
 // =========================================================================
