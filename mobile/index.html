@@ -2408,7 +2408,7 @@ function updateLilithCosmicDock() {
     let sirkadiyenButonIndex = (Math.floor(currentRoom / 8) + 7) % 8;
     
     if (isSleepMatrixInverse) {
-        sirkadiyenButonIndex = (8 - sirkadiyenButonIndex) % 8;
+        sirkadiyenButonIndex = (8 + sirkadiyenButonIndex) % 8;
     }
 
     // Local ID bağlantı hattı
@@ -2460,7 +2460,7 @@ function updateLilithCosmicDock() {
     }
 
     // Gümüş beyazı aynalama kalkanıyla tam gökyüzü koordinatına kilitliyoruz:
-    let seleneIndex = (seleneOdaIndex) % 8;
+    let seleneIndex = (seleneOdaIndex+4) % 8;
 
     let seleneGate = localMapping[seleneIndex];
     if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
