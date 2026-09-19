@@ -847,135 +847,136 @@ setInterval(() => {
 
 
     //const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
-
-    // =========================================================================
+ // =========================================================================
     // 🌟 KUTSAL GÜVENLİK KALKANI VE KAPILARIN TANIMLANMASI - [WICCA_INTEGRATED]
     // =========================================================================
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         
-        // =========================================================================
-    // 🎛️ GECE YARISI TERS AKIŞ & PUSULA SÜPER SABBAT MOTORU
-    // =========================================================================
-    // 🛡️ [HIZALAMA TAMİRİ]: Hesaplamaların doğru çalışması için zaman ve oda verilerini kilitliyoruz aga
-    const activeRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : ((typeof currentRoom !== 'undefined') ? currentRoom : 40);
-    const activeDateObj = (typeof window.now !== 'undefined' && window.now) ? window.now : (typeof activeDate !== 'undefined' ? activeDate : new Date());
+        // 🛡️ [HIZALAMA TAMİRİ]: Hesaplamaların doğru çalışması için zaman ve oda verilerini kilitliyoruz aga
+        const activeRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : ((typeof currentRoom !== 'undefined') ? currentRoom : 40);
+        const activeDateObj = (typeof window.now !== 'undefined' && window.now) ? window.now : (typeof activeDate !== 'undefined' ? activeDate : new Date());
 
-    let isSleepMatrixInverse = (activeRoom >= 32 && activeRoom <= 47);
-    let sirkadiyenButonIndex = (Math.floor(activeRoom / 8) + 7) % 8;
-    
-    if (isSleepMatrixInverse) {
-        sirkadiyenButonIndex = (8 + sirkadiyenButonIndex) % 8;
-    }
-
-    // [CRITICAL WICCA MATRIX]: Tam dairesel akış için sıralanmış ana pusula matrisi
-    const gateMapping = [
-        document.getElementById('gate-fire'),
-        document.getElementById('gate-light'),
-        document.getElementById('gate-air'),
-        document.getElementById('gate-ether'),
-        document.getElementById('gate-water'),
-        document.getElementById('gate-metal'),
-        document.getElementById('gate-earth'),
-        document.getElementById('gate-ice')
-    ];
-
-    let sunGate = gateMapping[sirkadiyenButonIndex];
-    let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
-    let seleneGate = null; // Çakışma kalkanı için en tepede boşaltıldı aga
-
-    // 1. Tüm kapıları siber loş akımla sıfırlıyoruz
-    gateMapping.forEach(gate => {
-        if (!gate) return;
-        gate.style.opacity = "0.2";
-        gate.style.color = "#444444";
-        gate.style.boxShadow = "none";
-        gate.style.textShadow = "none";
-        gate.style.filter = "none";
-    });
-
-    // 2. Güneş ve Karşıt Kutup neon şarj enjeksiyonu
-    if (sunGate) { 
-        sunGate.style.color = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
-        sunGate.style.opacity = "1.0"; 
-        sunGate.style.boxShadow = `0 0 15px ${sunGate.style.color}`; 
-    }
-
-    if (moonGate) {
-        moonGate.style.color = "#00ffff";
-        moonGate.style.opacity = "1.0";
-        moonGate.style.boxShadow = "0 0 15px #00ffff";
-    }
-
-    // =========================================================================
-    // 🎯 SELENE (BEYAZ AY) TEK MERKEZ ENJEKTÖRÜ
-    // =========================================================================
-    if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
-        let phaseOffsetGates = moonLive.seleneProgress * 8;
-        let seleneIndex = Math.floor(sirkadiyenButonIndex + phaseOffsetGates) % 8;
+        let isSleepMatrixInverse = (activeRoom >= 32 && activeRoom <= 47);
+        let sirkadiyenButonIndex = (Math.floor(activeRoom / 8) + 7) % 8;
         
-        // Yukarıda çözdüğümüz o şahane batış aynalama kalkanı kilidi:
-        seleneIndex = (seleneIndex + 4) % 8;
-        seleneIndex = (seleneIndex + 8) % 8;
-        
-        window.currentSeleneGateIndex = seleneIndex;
-        seleneGate = gateMapping[seleneIndex];
-
-        if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
-            let moonPercentSafe = (moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
-            seleneGate.style.opacity = "1.0";
-            seleneGate.style.color = "#e2e8f0"; // Selene Saf Gümüş Beyazı
-            seleneGate.style.boxShadow = `0 0 ${20 * (moonPercentSafe / 100)}px rgba(226, 232, 240, 0.8)`;
-        }
-    }
-
-    // =========================================================================
-    // 🪐 [SIRALAMA KİLİDİ]: AY DÜĞÜMLERİ HESAPLAMASINI ÖNE ÇEKİYORUZ AGA!
-    // =========================================================================
-    let cosmicNodes = { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
-    if (typeof calculateCosmicNodes === 'function') {
-        cosmicNodes = calculateCosmicNodes(activeDateObj);
-    }
-
-    // =========================================================================
-    // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA VE RENKLENDİRME KALKANI
-    // =========================================================================
-    if (cosmicNodes) {
-        let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
-        let southNodeRoomIndex = Math.floor(cosmicNodes.southRoom / 8) % 8;
-
         if (isSleepMatrixInverse) {
-            northNodeRoomIndex = (8 - northNodeRoomIndex) % 8;
-            southNodeRoomIndex = (8 - southNodeRoomIndex) % 8;
+            sirkadiyenButonIndex = (8 + sirkadiyenButonIndex) % 8;
         }
 
-        // Kadrandaki 180 derecelik anatomik ayna itkisi (+4 Shift)
-        northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
-        southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
+        // [CRITICAL WICCA MATRIX]: Tam dairesel akış için sıralanmış ana pusula matrisi
+        const gateMapping = [
+            document.getElementById('gate-fire'),
+            document.getElementById('gate-light'),
+            document.getElementById('gate-air'),
+            document.getElementById('gate-ether'),
+            document.getElementById('gate-water'),
+            document.getElementById('gate-metal'),
+            document.getElementById('gate-earth'),
+            document.getElementById('gate-ice')
+        ];
 
-        window.currentNorthNodeIndex = northNodeRoomIndex;
-        window.currentSouthNodeIndex = southNodeRoomIndex;
+        let sunGate = gateMapping[sirkadiyenButonIndex];
+        let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
+        let seleneGate = null; 
+        let northNodeGate = null; // Çakışma kalkanı ortak tanımları
+        let southNodeGate = null;
 
-        let northNodeGate = gateMapping[northNodeRoomIndex];
-        let southNodeGate = gateMapping[southNodeRoomIndex];
+        // 1. Tüm kapıları siber loş akımla sıfırlıyoruz
+        gateMapping.forEach(gate => {
+            if (!gate) return;
+            gate.style.opacity = "0.2";
+            gate.style.color = "#444444";
+            gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
+            gate.style.boxShadow = "none";
+            gate.style.textShadow = "none";
+            gate.style.filter = "none";
+        });
 
-        // Çakışma koruma filtreleri devrede: Düğümler artık Selene'i veya Güneş'i kör edemez!
-        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
-            northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
-            northNodeGate.style.opacity = "0.85";
-            northNodeGate.style.textShadow = "0 0 12px #a855f7";
-            northNodeGate.style.boxShadow = "0 0 12px rgba(168, 85, 247, 0.5)";
-            northNodeGate.style.transition = "all 0.3s ease-in-out";
+        // 2. Güneş ve Karşıt Kutup neon şarj enjeksiyonu
+        if (sunGate) { 
+            sunGate.style.color = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
+            sunGate.style.borderColor = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
+            sunGate.style.opacity = "1.0"; 
+            sunGate.style.boxShadow = `0 0 15px ${sunGate.style.color}`; 
         }
-        
-        if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== seleneGate) {
-            southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node — Karma Kutbu)
-            southNodeGate.style.opacity = "0.85";
-            southNodeGate.style.textShadow = "0 0 12px #ef4444";
-            southNodeGate.style.boxShadow = "0 0 12px rgba(239, 68, 68, 0.5)";
-            southNodeGate.style.transition = "all 0.3s ease-in-out";
+
+        if (moonGate) {
+            moonGate.style.color = "#00ffff";
+            moonGate.style.borderColor = "#00ffff";
+            moonGate.style.opacity = "1.0";
+            moonGate.style.boxShadow = "0 0 15px #00ffff";
         }
-    
+
+        // =========================================================================
+        // 🎯 SELENE (BEYAZ AY) TEK MERKEZ ENJEKTÖRÜ
+        // =========================================================================
+        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
+            let phaseOffsetGates = moonLive.seleneProgress * 8;
+            let seleneIndex = Math.floor(sirkadiyenButonIndex + phaseOffsetGates) % 8;
+            
+            seleneIndex = (seleneIndex + 4) % 8;
+            seleneIndex = (seleneIndex + 8) % 8;
+            
+            window.currentSeleneGateIndex = seleneIndex;
+            seleneGate = gateMapping[seleneIndex];
+
+            if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
+                let moonPercentSafe = (moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
+                seleneGate.style.opacity = "1.0";
+                seleneGate.style.color = "#e2e8f0"; 
+                seleneGate.style.borderColor = "#e2e8f0"; // Çerçeveye de gümüş beyazı enjeksiyonu
+                seleneGate.style.boxShadow = `0 0 ${20 * (moonPercentSafe / 100)}px rgba(226, 232, 240, 0.8)`;
+            }
+        }
+
+        // =========================================================================
+        // 🪐 [SIRALAMA KİLİDİ]: AY DÜĞÜMLERİ HESAPLAMASINI ÖNE ÇEKİYORUZ AGA!
+        // =========================================================================
+        let cosmicNodes = { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
+        if (typeof calculateCosmicNodes === 'function') {
+            cosmicNodes = calculateCosmicNodes(activeDateObj);
+        }
+
+        // =========================================================================
+        // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA VE RENKLENDİRME KALKANI
+        // =========================================================================
+        if (cosmicNodes) {
+            let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
+            let southNodeRoomIndex = Math.floor(cosmicNodes.southRoom / 8) % 8;
+
+            if (isSleepMatrixInverse) {
+                northNodeRoomIndex = (8 - northNodeRoomIndex) % 8;
+                southNodeRoomIndex = (8 - southNodeRoomIndex) % 8;
+            }
+
+            northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
+            southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
+
+            window.currentNorthNodeIndex = northNodeRoomIndex;
+            window.currentSouthNodeIndex = southNodeRoomIndex;
+
+            northNodeGate = gateMapping[northNodeRoomIndex];
+            southNodeGate = gateMapping[southNodeRoomIndex];
+
+            // 🌟 [KUTSAL NEON ENJEKSİYONU]: Çerçeve, renk ve kutu gölgesi tam kilitlendi aga!
+            if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
+                northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
+                northNodeGate.style.borderColor = "#a855f7"; 
+                northNodeGate.style.opacity = "0.85";
+                northNodeGate.style.textShadow = "0 0 12px #a855f7";
+                northNodeGate.style.boxShadow = "0 0 12px rgba(168, 85, 247, 0.6)";
+                northNodeGate.style.transition = "all 0.3s ease-in-out";
+            }
+            
+            if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== seleneGate) {
+                southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node)
+                southNodeGate.style.borderColor = "#ef4444";
+                southNodeGate.style.opacity = "0.85";
+                southNodeGate.style.textShadow = "0 0 12px #ef4444";
+                southNodeGate.style.boxShadow = "0 0 12px rgba(239, 68, 68, 0.6)";
+                southNodeGate.style.transition = "all 0.3s ease-in-out";
+            }
         }
 
         // =========================================================================
@@ -987,8 +988,8 @@ setInterval(() => {
             if (!gate) return;
             const gateId = gate.id; 
 
-            // Gezegen kütleçekim şovu da artık ne Güneş'i, ne Karşıt Kutbu, ne de Selene'i ezebilir aga:
-            if (currentInfluences[gateId] && gate !== sunGate && gate !== moonGate && gate !== seleneGate) {
+            // 🛡️ [MUTLAK FİLTRE KALKANI]: Gezegen akımlarının düğüm parlamalarını ezmesi tamamen engellendi aga!
+            if (currentInfluences[gateId] && gate !== sunGate && gate !== moonGate && gate !== seleneGate && gate !== northNodeGate && gate !== southNodeGate) {
                 const multiplier = currentInfluences[gateId]; 
                 
                 let currentOpacity = parseFloat(gate.style.opacity || 0.2);
@@ -1002,7 +1003,6 @@ setInterval(() => {
         });
 
     } // <-- DOM kalkanının güvenli kapanış noktası burası aga!
-
 
     
 // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
@@ -1608,7 +1608,7 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
   try {
        //syncLilithEngine()
-       //updateLilithCosmicDock()
+       updateLilithCosmicDock()
        // console.log(window.now)
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
@@ -2560,114 +2560,7 @@ function updateLilithCosmicDock() {
         systemPhaseCode = "SYS_OMEGA_CLEANSE";
     }
 
-    // =========================================================================
-    // 🎛️ GECE YARISI TERS AKIŞ & PUSULA DÖNÜŞ KALKANI
-    // =========================================================================
-    let isSleepMatrixInverse = (currentRoom >= 32 && currentRoom <= 47);
-    let sirkadiyenButonIndex = (Math.floor(currentRoom / 8) + 7) % 8;
-    
-    if (isSleepMatrixInverse) {
-        sirkadiyenButonIndex = (8 + sirkadiyenButonIndex) % 8;
-    }
 
-    // Local ID bağlantı hattı
-    const localMapping = [
-        document.getElementById('gate-fire'),
-        document.getElementById('gate-light'),
-        document.getElementById('gate-air'),
-        document.getElementById('gate-ether'),
-        document.getElementById('gate-water'),
-        document.getElementById('gate-metal'),
-        document.getElementById('gate-earth'),
-        document.getElementById('gate-ice')
-    ];
-
-    let sunGate = localMapping[sirkadiyenButonIndex];
-    let moonGate = localMapping[(sirkadiyenButonIndex + 4) % 8];
-
-    localMapping.forEach(gate => {
-        if (!gate) return;
-        gate.style.opacity = "0.2";
-        gate.style.color = "#444444";
-        gate.style.boxShadow = "none";
-        gate.style.textShadow = "none";
-    });
-
-    if (sunGate) { 
-        sunGate.style.color = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
-        sunGate.style.opacity = "1.0"; 
-        sunGate.style.boxShadow = `0 0 15px ${sunGate.style.color}`; 
-    }
-
-    if (moonGate) {
-        moonGate.style.color = "#00ffff";
-        moonGate.style.opacity = "1.0";
-        moonGate.style.boxShadow = "0 0 15px #00ffff";
-    }
-
-    // =========================================================================
-    // 🎯 AY BATMA VE GEÇİCİ LOG GECİKMESİ TAMİRİ (AY KENDİ ODASINDA DÖNÜYOR!)
-    // =========================================================================
-    // Güneş'in yapay endeksini tamamen çöpe fırlattık aga!
-    // Selene'yi (Beyaz Ay) doğrudan kendi 64 odalık `moonLive.room` sirkadiyen eksenine bağladık.
-    // Uyku modunda da yönünü otomatik tersine bükerek gerçek batış senkronunu yakalıyoruz:
-    //let seleneOdaIndex = Math.floor(moonLive.room / 8) % 8;
-
-    
-    if (isSleepMatrixInverse) {
-        seleneOdaIndex = (8 - seleneOdaIndex) % 8;
-    }
-
-    // Gümüş beyazı aynalama kalkanıyla tam gökyüzü koordinatına kilitliyoruz:
-    //let seleneIndex = (seleneOdaIndex) % 8;
-
-    let seleneGate = localMapping[seleneIndex];
-    if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
-        seleneGate.style.opacity = "1.0";
-        seleneGate.style.color = "#e2e8f0"; // Selene Saf Gümüş Beyazı
-        seleneGate.style.boxShadow = `0 0 ${20 * (moonLive.percent / 100)}px rgba(226, 232, 240, 0.8)`;
-    }
-
-    // Ay Düğümleri (North/South Node) Akışı
-    let cosmicNodes = { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
-    if (typeof calculateCosmicNodes === 'function') {
-        cosmicNodes = calculateCosmicNodes(activeDate);
-    }
-
-   // =========================================================================
-    // 🪐 AY DÜĞÜMLERİ (NORTH/SOUTH NODE) OMURGA AYNALAMA TAMİRİ (MIRROR SHIFT +4)
-    // =========================================================================
-    let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
-    let southNodeRoomIndex = Math.floor(cosmicNodes.southRoom / 8) % 8;
-
-    // UYKU VE GECE YARISI FAZINDA PUSULANIN VE OMURGANIN TAM SENKRON AYNALANMASI:
-    if (isSleepMatrixInverse) {
-        northNodeRoomIndex = (8 - northNodeRoomIndex) % 8;
-        southNodeRoomIndex = (8 - southNodeRoomIndex) % 8;
-    }
-
-    // 🎯 KUTSAL AYNALAMA ENJEKSİYONU AGA!
-    // Kadrandaki o 180 derecelik anatomik ayna illüzyonunu parçalamak için,
-    // düğüm endekslerini tam zıt kutbuna (+ 4 kapı ileriye) simetrik olarak fırlatıyoruz:
-    northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
-    southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
-
-    let northNodeGate = localMapping[northNodeRoomIndex];
-    let southNodeGate = localMapping[southNodeRoomIndex];
-
-    // Diğer parlayan Güneş veya Ay kapılarını ezmeden, boş hücreleri asil renklerine boyuyoruz aga:
-    if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
-        northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
-        northNodeGate.style.opacity = "0.85";
-        northNodeGate.style.textShadow = "0 0 12px #a855f7";
-        northNodeGate.style.transition = "all 0.3s ease-in-out";
-    }
-    if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== seleneGate) {
-        southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node — Karma Kutbu)
-        southNodeGate.style.opacity = "0.85";
-        southNodeGate.style.textShadow = "0 0 12px #ef4444";
-        southNodeGate.style.transition = "all 0.3s ease-in-out";
-    }
 
     // =========================================================================
     // 💥 DOM ENJEKSİYONU | ⏱️ ${liveSeconds}s`
