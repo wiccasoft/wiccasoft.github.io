@@ -848,6 +848,8 @@ setInterval(() => {
 
     //const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
 
+    
+
     // 🌟 KUTSAL GÜVENLİK KALKANI VE KAPILARIN TANIMLANMASI BURADA BAŞLIYOR AGA!
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
@@ -1667,6 +1669,53 @@ function detectLocationByTimezone() {
 detectLocationByTimezone();
 
 
+// =========================================================================
+// 🏛️ MAYA CORE ENGINE: SAF MATEMATİKSEL BÜYÜK ÇEVRİM (LONG COUNT) MOTORU
+// =========================================================================
+function calculateMayaLongCount(date) {
+    if (!date || typeof date.getTime !== 'function') {
+        date = window.now || new Date();
+    }
+    
+    // Maya Zaman Başlangıcı (Kutsal Epoch): 11 Ağustos M.Ö. 3114 (0.0.0.0.0)
+    // Korelasyon sabiti (GMT GMT+0 bükümü): 584283 gün farkı kalkanı
+    const mayaEpochMs = new Date(Date.UTC(-3114, 7, 11, 0, 0, 0)).getTime();
+    const msPerDay = 86400000;
+    
+    let totalDaysSinceCreation = Math.floor((date.getTime() - mayaEpochMs) / msPerDay);
+    
+    // 5 Devasa Maya Dişlisinin (Vortex) Milimetrik Parçalanması:
+    // 1 Baktun = 144,000 Gün | 1 Katun = 7,200 Gün | 1 Tun = 360 Gün | 1 Uinal = 20 Gün | 1 Kin = 1 Gün
+    let baktun = Math.floor(totalDaysSinceCreation / 144000);
+    let rem = totalDaysSinceCreation % 144000;
+    
+    let katun = Math.floor(rem / 7200);
+    rem = rem % 7200;
+    
+    let tun = Math.floor(rem / 360);
+    rem = rem % 360;
+    
+    let uinal = Math.floor(rem / 20);
+    let kin = rem % 20;
+    
+    // 🔮 TZOLKIN KUTSAL ÇARK HESABI (260 Günlük Galaktik İttifak Döngüsü):
+    // 13 Sayı ve 20 Kutsal Burç Sembolünün dansı aga:
+    const TZOLKIN_GLYPHS = [
+        "Imix", "Ik", "Akbal", "Kan", "Chicchan", "Cimi", "Manik", "Lamat", "Muluc", "Oc",
+        "Chuen", "Eb", "Ben", "Ix", "Men", "Cib", "Caban", "Etznab", "Cauac", "Ahau"
+    ];
+    
+    // 4 Zodyak başlangıç kayması tabanı (0.0.0.0.0 günü 4 Ahau idi aga)
+    let tzolkinNumber = ((totalDaysSinceCreation + 3) % 13) + 1;
+    let tzolkinGlyphIndex = (totalDaysSinceCreation + 19) % 20;
+    let activeTzolkinGlyph = TZOLKIN_GLYPHS[tzolkinGlyphIndex];
+
+    return {
+        longCountText: `${baktun}.${katun}.${tun}.${uinal}.${kin}`,
+        tzolkinText: `${tzolkinNumber} ${activeTzolkinGlyph}`,
+        totalDays: totalDaysSinceCreation
+    };
+}
 
 function getAstroSunAngle() {
     const now = new Date();
@@ -2888,101 +2937,88 @@ function getDynamicCosmicAge(date) {
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
 if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
 
-function bendWiccaTime(modeDirection) {
-    const roomDuration = (typeof roomDurationMinutes !== 'undefined') ? roomDurationMinutes : 21.9;
-    let currentRoom = (typeof window.currentCalculatedRoom !== 'undefined') ? window.currentCalculatedRoom : 0;
-
-    // =========================================================================
-    // 🎛️ DOĞRUSAL BÜKME MOTORU - ZAMAN AKÜMÜLATÖRÜ (ASLA PATİNAJ YAPMAZ)
-    // =========================================================================
+// =========================================================================
+// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR)
+// =========================================================================
+window.bendWiccaTime = function(direction) {
+    // 🔑 Zaman vanasını kilitle, gerçek canlı saatin simülasyonu ezmesini engelle!
+    window.isTimeBended = true; 
     
-    if (window.wiccaActiveMode === 'AY') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (30 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (30 * 24 * 60); }
-    } 
-    else if (window.wiccaActiveMode === 'GÜN') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (24 * 60); }
-    } 
-    else if (window.wiccaActiveMode === 'SAAT') {
-        if (modeDirection === 'FUTURE') {
-            let next8Multiple = Math.floor(currentRoom / 8) * 8 + 8;
-            if (next8Multiple > 64) next8Multiple = 0;
-            let roomsToJump = next8Multiple - currentRoom;
-            if (roomsToJump <= 0) roomsToJump += 64;
-            window.wiccaTimeOffsetMinutes += (roomDuration * roomsToJump);
-        } else if (modeDirection === 'PAST') {
-            let prev8Multiple = (currentRoom % 8 === 0) ? currentRoom - 8 : Math.floor(currentRoom / 8) * 8;
-            if (prev8Multiple < 0) prev8Multiple = 64;
-            let roomsToJump = currentRoom - prev8Multiple;
-            if (roomsToJump <= 0) roomsToJump += 64;
-            window.wiccaTimeOffsetMinutes -= (roomDuration * roomsToJump);
-        }
-    }
-    // ♀️ 7.92 YILLIK VENÜS DÖNGÜSÜ
-    else if (window.wiccaActiveMode === 'VENUS8') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (7.92 * 365.25 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (7.92 * 365.25 * 24 * 60); }
-    }
-    // 🪐 79 YILLIK BÜYÜK SATÜRN DÖNGÜSÜ (Seven of Nine Modülü!)
-    else if (window.wiccaActiveMode === 'SATURN79') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (79 * 365.25 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (79 * 365.25 * 24 * 60); }
-    }
-    // 🌀 790 YILLIK BÜYÜK KELDANİ MUTASYONU
-    else if (window.wiccaActiveMode === 'KELDANI790') {
-        if (modeDirection === 'FUTURE') { window.wiccaTimeOffsetMinutes += (790 * 365.25 * 24 * 60); } 
-        else if (modeDirection === 'PAST') { window.wiccaTimeOffsetMinutes -= (790 * 365.25 * 24 * 60); }
+    let offsetMs = 0;
+    // En taze zaman damgasını alıyoruz aga:
+    const baseDate = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+
+    // Panel üst satırında seçtiğin o aktif siber vites moduna göre sıçrama çarpanı:
+    switch(window.wiccaTimeMode) {
+        case 'SAAT': 
+            // ⏰ SAAT VİTESİ: Zamanı 15 dakikalık (Sirkadiyen Çeyrek Oda) adımlarla bük aga
+            offsetMs = 220 * 60 * 1000; 
+            break;             
+        case 'GÜN':  
+            // 📅 GÜN VİTESİ: Zamanı 1 tam Güneş Günü (24 Saat) ileri/geri fırlat
+            offsetMs = 24 * 60 * 60 * 1000; 
+            break;        
+        case 'AY':   
+            // 🌙 AY VİTESİ: Tam bir Sinodik Ay Evresi (29.53058 Gün) sıçrat, aksı koru!
+            offsetMs = 29.530588853 * 24 * 60 * 60 * 1000; 
+            break;   
+        case 'VENUS8': 
+            // ♀ VENÜS VİTESİ: 8 Yıllık Venüs-Dünya Pentagram Altın Oran Fraktalı kadar bük
+            offsetMs = 8 * 365.2425 * 24 * 60 * 60 * 1000; 
+            break; 
+        case 'SATURN79':
+            // ♄ SATÜRN VİTESİ: 79 Yıllık Makro Satürn Geri Dönüş Çevrimi kadar zamanda yolculuk et
+            offsetMs = 79 * 365.2425 * 24 * 60 * 60 * 1000;
+            break;
+        case 'KELDANI790':
+            // 🪐 BÜYÜK ŞAR ÇAĞI: 790 Yıllık Keldani Büyük Mutasyon Çarkını döndür aga!
+            offsetMs = 790 * 365.2425 * 24 * 60 * 60 * 1000;
+            break;
+        default: 
+            // Güvenli Fallback vitesi (15 Dakika)
+            offsetMs = 15 * 60 * 1000;
     }
 
-    // 🔥 ÇÖZÜM: Gerçek zamanı baz alıp biriken net offseti temizce üzerine gömüyoruz aga!
-    const baseDate = new Date();
-    window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
+    if (direction === 'PAST') offsetMs = -offsetMs;
 
-    // Siber status barı anlık durumla güncelle
-    const statusBar = document.getElementById('cosmic-status');
-    if (statusBar) {
-        statusBar.innerHTML = `WICCA WARP: [MOD: ${window.wiccaActiveMode}] | SHIFT: ${window.wiccaTimeOffsetMinutes} MIN`;
+    // Global zaman nesnesini bükülen yeni kozmik milisaniyeyle durmaksızın güncelle:
+    window.now = new Date(baseDate.getTime() + offsetMs);
+
+    // 🫀 MÜHENDİSLİK ZİRVESİ: Butona basıldığı mikro saniyede interval döngüsünü 
+    // beklemeden Windkessel medikal arayüzünü anında tetikleyip ekrana mühürle aga!
+    if (typeof updateLilithCosmicDock === 'function') {
+        updateLilithCosmicDock();
     }
-
-    if (typeof updateCosmicClock === 'function') { updateCosmicClock(); } 
-    if (typeof triggerCircadianPulse === 'function') { triggerCircadianPulse(); }
-
-
-       try {
-        if (typeof syncLilithEngine === 'function') {
-            syncLilithEngine();
-        }
-    } catch(e) {
-        console.error("Instant time-bend sync failed:", e);
-    }
-}
+};
 
 // 🎛️ Mod Değiştirici Yardımcı Fonksiyon Güncellemesi
-function setWiccaMode(selectedMode) {
-    window.wiccaActiveMode = selectedMode;
+// =========================================================================
+// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI
+// =========================================================================
+window.setWiccaMode = function(mode) {
+    window.wiccaTimeMode = mode;
     
-    // Venüs modunu da söndürme listesine dahil ediyoruz aga
-    const modes = ['saat', 'gün', 'ay', 'venus8'];
+    // Tüm butonların siberpunk ışıklarını söndürüp pasife çekme mantığı
+    const modes = ['SAAT', 'GÜN', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
     modes.forEach(m => {
-        const btn = document.getElementById('mode-btn-' + m);
+        const btn = document.getElementById(`mode-btn-${m.toLowerCase()}`);
         if (btn) {
-            btn.style.background = '#111';
-            btn.style.borderColor = '#333';
-            btn.style.color = '#555';
+            btn.style.background = '#0a0a0a'; 
+            btn.style.color = '#444'; 
+            btn.style.border = '1px solid #222'; 
             btn.style.boxShadow = 'none';
         }
     });
     
-    // Aktif olan makro vitese neon şarj bas
-    const activeBtn = document.getElementById('mode-btn-' + selectedMode.toLowerCase());
+    // Aktif edilen zaman vitesinin butonunu mor neon ışıkla patlatıyoruz aga!
+    const activeBtn = document.getElementById(`mode-btn-${mode.toLowerCase()}`);
     if (activeBtn) {
-        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)';
-        activeBtn.style.borderColor = '#7a00ff';
-        activeBtn.style.color = '#fff';
-        activeBtn.style.boxShadow = '0 0 10px #7a00ff';
+        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)'; 
+        activeBtn.style.color = '#fff'; 
+        activeBtn.style.border = '1px solid #7a00ff'; 
+        activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
     }
-}
+};
 </script>
 
 
