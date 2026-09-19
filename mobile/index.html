@@ -854,124 +854,128 @@ setInterval(() => {
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         
-        // 1. Kapı Sıralama Matrisi (Sirkadiyen Pusula Akış Yönü)
-        const gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+        // =========================================================================
+    // 🎛️ GECE YARISI TERS AKIŞ & PUSULA SÜPER SABBAT MOTORU
+    // =========================================================================
+    // 🛡️ [HIZALAMA TAMİRİ]: Hesaplamaların doğru çalışması için zaman ve oda verilerini kilitliyoruz aga
+    const activeRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : ((typeof currentRoom !== 'undefined') ? currentRoom : 40);
+    const activeDateObj = (typeof window.now !== 'undefined' && window.now) ? window.now : (typeof activeDate !== 'undefined' ? activeDate : new Date());
+
+    let isSleepMatrixInverse = (activeRoom >= 32 && activeRoom <= 47);
+    let sirkadiyenButonIndex = (Math.floor(activeRoom / 8) + 7) % 8;
+    
+    if (isSleepMatrixInverse) {
+        sirkadiyenButonIndex = (8 + sirkadiyenButonIndex) % 8;
+    }
+
+    // [CRITICAL WICCA MATRIX]: Tam dairesel akış için sıralanmış ana pusula matrisi
+    const gateMapping = [
+        document.getElementById('gate-fire'),
+        document.getElementById('gate-light'),
+        document.getElementById('gate-air'),
+        document.getElementById('gate-ether'),
+        document.getElementById('gate-water'),
+        document.getElementById('gate-metal'),
+        document.getElementById('gate-earth'),
+        document.getElementById('gate-ice')
+    ];
+
+    let sunGate = gateMapping[sirkadiyenButonIndex];
+    let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
+    let seleneGate = null; // Çakışma kalkanı için en tepede boşaltıldı aga
+
+    // 1. Tüm kapıları siber loş akımla sıfırlıyoruz
+    gateMapping.forEach(gate => {
+        if (!gate) return;
+        gate.style.opacity = "0.2";
+        gate.style.color = "#444444";
+        gate.style.boxShadow = "none";
+        gate.style.textShadow = "none";
+        gate.style.filter = "none";
+    });
+
+    // 2. Güneş ve Karşıt Kutup neon şarj enjeksiyonu
+    if (sunGate) { 
+        sunGate.style.color = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
+        sunGate.style.opacity = "1.0"; 
+        sunGate.style.boxShadow = `0 0 15px ${sunGate.style.color}`; 
+    }
+
+    if (moonGate) {
+        moonGate.style.color = "#00ffff";
+        moonGate.style.opacity = "1.0";
+        moonGate.style.boxShadow = "0 0 15px #00ffff";
+    }
+
+    // =========================================================================
+    // 🎯 SELENE (BEYAZ AY) TEK MERKEZ ENJEKTÖRÜ
+    // =========================================================================
+    if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
+        let phaseOffsetGates = moonLive.seleneProgress * 8;
+        let seleneIndex = Math.floor(sirkadiyenButonIndex + phaseOffsetGates) % 8;
         
-        // 2. Gece Yarısı Alacakaranlık / Ters Akış Kalkanı Kontrolü (Room 32-47 arası)
-        let isSleepMatrixInverse = (sunRoom64 >= 32 && sunRoom64 <= 47);
+        // Yukarıda çözdüğümüz o şahane batış aynalama kalkanı kilidi:
+        seleneIndex = (seleneIndex + 4) % 8;
+        seleneIndex = (seleneIndex + 8) % 8;
         
-        let sirkadiyenButonIndex = (Math.floor(sunRoom64 / 8) + 7) % 8;
+        window.currentSeleneGateIndex = seleneIndex;
+        seleneGate = gateMapping[seleneIndex];
+
+        if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
+            let moonPercentSafe = (moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
+            seleneGate.style.opacity = "1.0";
+            seleneGate.style.color = "#e2e8f0"; // Selene Saf Gümüş Beyazı
+            seleneGate.style.boxShadow = `0 0 ${20 * (moonPercentSafe / 100)}px rgba(226, 232, 240, 0.8)`;
+        }
+    }
+
+    // =========================================================================
+    // 🪐 [SIRALAMA KİLİDİ]: AY DÜĞÜMLERİ HESAPLAMASINI ÖNE ÇEKİYORUZ AGA!
+    // =========================================================================
+    let cosmicNodes = { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
+    if (typeof calculateCosmicNodes === 'function') {
+        cosmicNodes = calculateCosmicNodes(activeDateObj);
+    }
+
+    // =========================================================================
+    // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA VE RENKLENDİRME KALKANI
+    // =========================================================================
+    if (cosmicNodes) {
+        let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
+        let southNodeRoomIndex = Math.floor(cosmicNodes.southRoom / 8) % 8;
+
         if (isSleepMatrixInverse) {
-            sirkadiyenButonIndex = (8 + sirkadiyenButonIndex) % 8;
+            northNodeRoomIndex = (8 - northNodeRoomIndex) % 8;
+            southNodeRoomIndex = (8 - southNodeRoomIndex) % 8;
         }
 
-        let sunGate = gateMapping[sirkadiyenButonIndex];
-        let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
-        
-        // 🎯 [CRITICAL CODESEC FIX]: Ortak kapsam değişkeni. Alttaki Ay düğümleri 
-        // ezmesin diye Selene kapısını tüm if bloklarının okuyabileceği bu en tepeye çıkarıyoruz aga!
-        let seleneGate = null; 
+        // Kadrandaki 180 derecelik anatomik ayna itkisi (+4 Shift)
+        northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
+        southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
 
-        // 3. Tüm kapıları temiz bir akımla sıfırlayıp mükerrer yükü siliyoruz
-        all8Gates.forEach(gate => {
-            if (!gate) return;
-            gate.style.opacity = "0.2";
-            gate.style.color = "#444444";
-            gate.style.boxShadow = "none";
-            gate.style.textShadow = "none";
-            gate.style.filter = "none";
-        });
+        window.currentNorthNodeIndex = northNodeRoomIndex;
+        window.currentSouthNodeIndex = southNodeRoomIndex;
 
-        // 4. Odaların 0 Sıçraması (Maksimum Fraktal Şarj Modu)
-        if (sunRoom64 === 0) {
-            all8Gates.forEach(gate => {
-                if (gate === sunGate) return;
-                gate.style.opacity = "0.35";
-                gate.style.filter = "drop-shadow(0 0 12px #7a00ff)";
-                gate.style.transition = "all 0.3s ease-in-out";
-            });
+        let northNodeGate = gateMapping[northNodeRoomIndex];
+        let southNodeGate = gateMapping[southNodeRoomIndex];
+
+        // Çakışma koruma filtreleri devrede: Düğümler artık Selene'i veya Güneş'i kör edemez!
+        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
+            northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
+            northNodeGate.style.opacity = "0.85";
+            northNodeGate.style.textShadow = "0 0 12px #a855f7";
+            northNodeGate.style.boxShadow = "0 0 12px rgba(168, 85, 247, 0.5)";
+            northNodeGate.style.transition = "all 0.3s ease-in-out";
         }
         
-        // 5. Güneş (Circadian) ve Karşıt Kutup Neonlarını Şarj Et
-        if (sunGate) { 
-            sunGate.style.color = sunCircadianColor; 
-            sunGate.style.opacity = "1.0"; 
-            sunGate.style.boxShadow = `0 0 15px ${sunCircadianColor}`; 
+        if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== seleneGate) {
+            southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node — Karma Kutbu)
+            southNodeGate.style.opacity = "0.85";
+            southNodeGate.style.textShadow = "0 0 12px #ef4444";
+            southNodeGate.style.boxShadow = "0 0 12px rgba(239, 68, 68, 0.5)";
+            southNodeGate.style.transition = "all 0.3s ease-in-out";
         }
-
-        if (moonGate) {
-            moonGate.style.color = "#00ffff";
-            moonGate.style.opacity = "1.0";
-            moonGate.style.boxShadow = "0 0 15px #00ffff";
-        }
-
-        // =========================================================================
-        // 🌙 BEYAZ AY (SELENE) ENJEKTÖRÜ — TAM DİNAMİK YÖRÜNGE KALKANI [WICCA_OK]
-        // =========================================================================
-        if (moonLive && typeof moonLive.seleneProgress !== 'undefined') {
-            
-            let seleneOdaIndex = sirkadiyenButonIndex;
-            if (isSleepMatrixInverse) {
-                seleneOdaIndex = (8 - (Math.floor(sunRoom64 / 8) + 7) % 8) % 8;
-            }
-
-            let phaseOffsetGates = moonLive.seleneProgress * 8;
-            let seleneIndex = Math.round(seleneOdaIndex + phaseOffsetGates) % 8;
-            seleneIndex = (seleneIndex + 4) % 8;
-            seleneIndex = (seleneIndex + 8) % 8; 
-            
-            window.currentSeleneGateIndex = seleneIndex;
-
-            // Yukarıda tanımladığımız ortak kapsama atama yapıyoruz aga:
-            seleneGate = gateMapping[seleneIndex];
-            
-            if (seleneGate && seleneGate !== sunGate && seleneGate !== moonGate) {
-                let moonPercentSafe = typeof moonLive.percent !== 'undefined' ? moonLive.percent : Math.round((1 - Math.cos(moonLive.seleneProgress * Math.PI * 2)) * 50);
-                seleneGate.style.opacity = "1.0";
-                seleneGate.style.color = "#e2e8f0"; // Selene Saf Gümüş Beyazı
-                seleneGate.style.boxShadow = `0 0 ${20 * (moonPercentSafe / 100)}px rgba(226, 232, 240, 0.8)`;
-            }
-        }
-
-        // =========================================================================
-        // 🪐 AY DÜĞÜMLERİ (NORTH/SOUTH NODE) OMURGA AYNALAMA TAMİRİ (MIRROR SHIFT +4)
-        // =========================================================================
-        if (typeof cosmicNodes !== 'undefined' && cosmicNodes) {
-            
-            let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
-            let southNodeRoomIndex = Math.floor(cosmicNodes.southRoom / 8) % 8;
-
-            if (isSleepMatrixInverse) {
-                northNodeRoomIndex = (8 - northNodeRoomIndex) % 8;
-                southNodeRoomIndex = (8 - southNodeRoomIndex) % 8;
-            }
-
-            northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
-            southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
-
-            window.currentNorthNodeIndex = northNodeRoomIndex;
-            window.currentSouthNodeIndex = southNodeRoomIndex;
-
-            let northNodeGate = gateMapping[northNodeRoomIndex];
-            let southNodeGate = gateMapping[southNodeRoomIndex];
-
-            // 🌟 [KORUMA KALKANI AKTİF]: seleneGate artık yukarıdaki ortak tanımdan 
-            // buraya dolu geleceği için, çakışma durumunda Selene'i asla ezemeyecekler aga!
-            if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
-                northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
-                northNodeGate.style.opacity = "0.85";
-                northNodeGate.style.textShadow = "0 0 12px #a855f7";
-                northNodeGate.style.boxShadow = "0 0 12px rgba(168, 85, 247, 0.5)";
-                northNodeGate.style.transition = "all 0.3s ease-in-out";
-            }
-            
-            if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== seleneGate) {
-                southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node — Karma Kutbu)
-                southNodeGate.style.opacity = "0.85";
-                southNodeGate.style.textShadow = "0 0 12px #ef4444";
-                southNodeGate.style.boxShadow = "0 0 12px rgba(239, 68, 68, 0.5)";
-                southNodeGate.style.transition = "all 0.3s ease-in-out";
-            }
+    
         }
 
         // =========================================================================
@@ -998,6 +1002,9 @@ setInterval(() => {
         });
 
     } // <-- DOM kalkanının güvenli kapanış noktası burası aga!
+
+
+    
 // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
 const monaElement = document.getElementById('mesh-monalisa');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image') || document.querySelector('.salvador-layer');
