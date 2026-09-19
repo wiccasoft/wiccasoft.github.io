@@ -821,6 +821,7 @@ setInterval(() => {
     // =========================================================================
     const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
 
+    /*
     //const solar = getExactSolarTimes(currentLat, currentLon); 
     const currentHour = now.getHours() + (now.getMinutes() / 60); 
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
@@ -829,6 +830,46 @@ setInterval(() => {
     let sunRoom64 = isYang ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
 
     window.currentCalculatedRoom = sunRoom64;
+    */
+
+     // =========================================================================
+    // 🎛️ PAKUA SIRKADİYEN BAGUA ZAMAN GENLEŞMESİ (DYNAMIC DILATION) [WICCA_GEAR_OK]
+    // =========================================================================
+    const currentHourRaw = now.getHours() + (now.getMinutes() / 60) + (now.getSeconds() / 3600); 
+    const isYang = currentHourRaw >= solar.sunrise && currentHourRaw < solar.sunset;
+
+    // 1. Lineer (Düz) İlerleme Oranlarını Gerçek Güneş Boyutlarına Göre Buluyoruz
+    let progressInPhase = 0; 
+    if (isYang) {
+        // Gündüz İlerlemesi (Gündoğumundan Günbatımına: 0.0 - 1.0)
+        progressInPhase = (currentHourRaw - solar.sunrise) / solar.dayLength;
+    } else {
+        // Gece İlerlemesi (Günbatımından sonraki Gündoğumuna: 0.0 - 1.0)
+        let timeSinceSunset = (currentHourRaw >= solar.sunset) ? (currentHourRaw - solar.sunset) : ((24 - solar.sunset) + currentHourRaw);
+        progressInPhase = timeSinceSunset / (24 - solar.dayLength);
+    }
+
+    // 2. [BAGUA DILATION MOTORU]: Tam Kardinal Noktalarda (Tam Öğle: progress=0.5 ve Tam Gece Yarısı: progress=0.5)
+    // Zamanı büküyoruz. Kübik sinüs fraktalı sayesinde, tam ortalarda oda akış hızı neredeyse duracak, 
+    // en aşağı 1 saat boyunca odayı tepede/dipte asılı tutacak ama gün ritmini (Güneş sınırlarını) asla bozmayacak aga!
+    let dilatedProgressInPhase = progressInPhase - (0.075 * Math.sin(progressInPhase * Math.PI * 2));
+
+    // Sınır koruma kalkanı (Asla Güneş döngüsünden dışarı taşamaz)
+    dilatedProgressInPhase = Math.max(0, Math.min(1, dilatedProgressInPhase));
+
+    // 3. Bükülmüş İlerlemeyi 32'şer Odalık Pakua Dilimlerine Dönüştürüyoruz
+    let sunRoom64 = 0;
+    if (isYang) {
+        // Gündüz Fazı: 0 - 31. odalar. Tam 12 PM (Öğle Zirvesi) tam ortadaki odalarda (15-16. odalarda) asılı kalır!
+        sunRoom64 = Math.min(Math.floor(dilatedProgressInPhase * 32), 31);
+    } else {
+        // Gece Fazı: 32 - 63. odalar. Tam 12 AM (Gece Yarısı) tam ortadaki odalarda (47-48. odalarda) asılı kalır!
+        sunRoom64 = Math.min(Math.max(32 + Math.floor(dilatedProgressInPhase * 32), 32), 63);
+    }
+
+    // Sistem genelinin anlık odayı hatasız görmesi için global takibe kilitliyoruz aga:
+    window.currentCalculatedRoom = sunRoom64;
+    const currentHour = currentHourRaw; // Orijinal saat referansını koruyoruz
 
     //let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
     
@@ -839,23 +880,40 @@ setInterval(() => {
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
 
+
+
+  // =========================================================================
+    // ☀️ SİRKADİYEN GÜNEŞ RENK SPEKTRUMU & GÜNEY KUTBU ISI HARİTASI [WICCA_COLOR]
+    // =========================================================================
     let sunAngle = (sunRoom64 * 5.625);
-    let sunCircadianColor = '#7a00ff';
-    if (sunAngle >= 135 && sunAngle < 180) { sunCircadianColor = '#ffaa00'; } 
-    else if (sunAngle >= 180 && sunAngle < 225) { sunCircadianColor = '#ff5e00'; } 
-    else if (sunAngle >= 225 && sunAngle < 315) { sunCircadianColor = '#00e5ff'; }
+    let sunCircadianColor = '#7a00ff'; // Varsayılan Gece Moru (Rubedo)
 
+    if (sunRoom64 >= 0 && sunRoom64 < 12) { 
+        // 🔥 YANG ZİRVE: Mutlak Öğlen ve Gündüz (Saf Parlak Beyaz/Sarı)
+        sunCircadianColor = '#ffeb3b'; 
+    } else if (sunRoom64 >= 12 && sunRoom64 < 24) { 
+        // 🟡 YANG DEŞARJ: İkindi ve Gün Batımına Doğru (Altın Sarısı / Kehribar)
+        sunCircadianColor = '#ffaa00'; 
+    } else if (sunRoom64 >= 24 && sunRoom64 < 32) { 
+        // 🍊 AKŞAM ALACAKARANLIĞI: Batış Aksı (Ateş Turuncusu / Gün Batımı Kızılı)
+        sunCircadianColor = '#ff5e00'; 
+    } else if (sunRoom64 >= 32 && sunRoom64 < 48) { 
+        // 💧 YIN DERİNLİK: Gece Yarısı ve Teheccüd Sırrı (Derin Siber Kuantum Mavisi)
+        sunCircadianColor = '#00e5ff'; 
+    } else if (sunRoom64 >= 48 && sunRoom64 <= 63) { 
+        // 🌅 YIN UYANIŞ (Şu anki Oda 48!): Şafak Vakti Güneydoğu/Güney Kutbu Isınması!
+        // Güneş ufkun altından güney kutbunu ısıtırken asil bir Şafak Turuncusu/Kızılı fırlatır:
+        sunCircadianColor = '#f97316'; 
+    }
 
-    //const currentInfluences = PLANET_ELEMENT_INFLUENCES[currentGovernor.name] || {};
- // =========================================================================
+// =========================================================================
     // 🌟 KUTSAL GÜVENLİK KALKANI VE KAPILARIN TANIMLANMASI - [WICCA_INTEGRATED]
     // =========================================================================
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         const all8Gates = [fireGate, airGate, earthGate, waterGate, lightGate, etherGate, metalGate, iceGate];
         
-        // 🛡️ [HIZALAMA TAMİRİ]: Hesaplamaların doğru çalışması için zaman ve oda verilerini kilitliyoruz aga
+        // 🛡️ [ZAMAN SENKRONİZASYONU]: Çakışmaları önlemek için tüm astro-motorları döngünün saf 'now' zamanına eşitliyoruz aga
         const activeRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : ((typeof currentRoom !== 'undefined') ? currentRoom : 40);
-        const activeDateObj = (typeof window.now !== 'undefined' && window.now) ? window.now : (typeof activeDate !== 'undefined' ? activeDate : new Date());
 
         let isSleepMatrixInverse = (activeRoom >= 32 && activeRoom <= 47);
         let sirkadiyenButonIndex = (Math.floor(activeRoom / 8) + 7) % 8;
@@ -879,7 +937,7 @@ setInterval(() => {
         let sunGate = gateMapping[sirkadiyenButonIndex];
         let moonGate = gateMapping[(sirkadiyenButonIndex + 4) % 8];
         let seleneGate = null; 
-        let northNodeGate = null; // Çakışma kalkanı ortak tanımları
+        let northNodeGate = null; 
         let southNodeGate = null;
 
         // 1. Tüm kapıları siber loş akımla sıfırlıyoruz
@@ -891,21 +949,25 @@ setInterval(() => {
             gate.style.boxShadow = "none";
             gate.style.textShadow = "none";
             gate.style.filter = "none";
+            gate.style.fontWeight = "normal";
         });
 
-        // 2. Güneş ve Karşıt Kutup neon şarj enjeksiyonu
+        // 2. Güneş (Circadian) neon şarj enjeksiyonu
         if (sunGate) { 
             sunGate.style.color = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
             sunGate.style.borderColor = (typeof sunCircadianColor !== 'undefined') ? sunCircadianColor : '#7a00ff'; 
             sunGate.style.opacity = "1.0"; 
             sunGate.style.boxShadow = `0 0 15px ${sunGate.style.color}`; 
+            sunGate.style.fontWeight = "bold";
         }
 
+        // 3. Karşıt Kutup (Ay Matrisi) neon şarj enjeksiyonu
         if (moonGate) {
             moonGate.style.color = "#00ffff";
             moonGate.style.borderColor = "#00ffff";
             moonGate.style.opacity = "1.0";
             moonGate.style.boxShadow = "0 0 15px #00ffff";
+            moonGate.style.fontWeight = "bold";
         }
 
         // =========================================================================
@@ -925,21 +987,22 @@ setInterval(() => {
                 let moonPercentSafe = (moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
                 seleneGate.style.opacity = "1.0";
                 seleneGate.style.color = "#e2e8f0"; 
-                seleneGate.style.borderColor = "#e2e8f0"; // Çerçeveye de gümüş beyazı enjeksiyonu
+                seleneGate.style.borderColor = "#e2e8f0"; 
                 seleneGate.style.boxShadow = `0 0 ${20 * (moonPercentSafe / 100)}px rgba(226, 232, 240, 0.8)`;
+                seleneGate.style.fontWeight = "bold";
             }
         }
 
         // =========================================================================
-        // 🪐 [SIRALAMA KİLİDİ]: AY DÜĞÜMLERİ HESAPLAMASINI ÖNE ÇEKİYORUZ AGA!
+        // 🪐 [SIRALAMA KİLİDİ]: AY DÜĞÜMLERİ ZAMAN KOORDİNATI 'NOW'A KİLİTLENDİ
         // =========================================================================
         let cosmicNodes = { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
         if (typeof calculateCosmicNodes === 'function') {
-            cosmicNodes = calculateCosmicNodes(activeDateObj);
+            cosmicNodes = calculateCosmicNodes(now); // activeDateObj çöpe fırlatıldı, artık saf ve canlı 'now' bağlı!
         }
 
-        // =========================================================================
-        // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA VE RENKLENDİRME KALKANI
+       // =========================================================================
+        // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA — MOR & SARI YIN-YANG AKSI [WICCA_NODES_YIN_YANG]
         // =========================================================================
         if (cosmicNodes) {
             let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
@@ -956,31 +1019,37 @@ setInterval(() => {
             window.currentNorthNodeIndex = northNodeRoomIndex;
             window.currentSouthNodeIndex = southNodeRoomIndex;
 
-            northNodeGate = gateMapping[northNodeRoomIndex];
-            southNodeGate = gateMapping[southNodeRoomIndex];
+            let northNodeGate = gateMapping[northNodeRoomIndex];
+            let southNodeGate = gateMapping[southNodeRoomIndex];
 
-            // 🌟 [KUTSAL NEON ENJEKSİYONU]: Çerçeve, renk ve kutu gölgesi tam kilitlendi aga!
+            // 🌟 NORTH NODE: Kutsal Mor (Yin Ruhsal Derinlik — Rahu Aksı)
             if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
-                northNodeGate.style.color = "#a855f7"; // Kutsal Mor (North Node)
+                northNodeGate.style.color = "#a855f7"; 
                 northNodeGate.style.borderColor = "#a855f7"; 
                 northNodeGate.style.opacity = "0.85";
                 northNodeGate.style.textShadow = "0 0 12px #a855f7";
-                northNodeGate.style.boxShadow = "0 0 12px rgba(168, 85, 247, 0.6)";
-                northNodeGate.style.transition = "all 0.3s ease-in-out";
+                northNodeGate.style.fontWeight = "bold";
+            } else if (northNodeGate) {
+                // Çakışma Kalkanı: Güneş veya Ay'ın neonunun arkasına Mor siber aura
+                northNodeGate.style.boxShadow = `0 0 25px #a855f7, inset 0 0 10px #a855f7`;
             }
             
+            // 🌟 SOUTH NODE: Canlı Yang Sarısı (Kader / Tecrübe Açılımı — Ketu Aksı)
+            // [WICCA UPDATE]: Kırmızı kırılarak tam Yin-Yang tamamlayıcısı olan Saf Altın Sarısına büküldü aga!
             if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== seleneGate) {
-                southNodeGate.style.color = "#ef4444"; // Kan Kırmızı (South Node)
-                southNodeGate.style.borderColor = "#ef4444";
+                southNodeGate.style.color = "#ffeb3b"; // Canlı Matris Sarısı (Yang)
+                southNodeGate.style.borderColor = "#ffeb3b";
                 southNodeGate.style.opacity = "0.85";
-                southNodeGate.style.textShadow = "0 0 12px #ef4444";
-                southNodeGate.style.boxShadow = "0 0 12px rgba(239, 68, 68, 0.6)";
-                southNodeGate.style.transition = "all 0.3s ease-in-out";
+                southNodeGate.style.textShadow = "0 0 12px #ffeb3b";
+                southNodeGate.style.fontWeight = "bold";
+            } else if (southNodeGate) {
+                // Çakışma Kalkanı: Güneş veya Ay'ın neonunun arkasına Sarı siber aura
+                southNodeGate.style.boxShadow = `0 0 25px #ffeb3b, inset 0 0 10px #ffeb3b`;
             }
+        
         }
-
         // =========================================================================
-        // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (Yalın ve Optimize Akış)
+        // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (Kusursuz Kapanış)
         // =========================================================================
         const targetPlanet = calculateCosmicPlanetHour(now, solar);
         
@@ -988,7 +1057,7 @@ setInterval(() => {
             if (!gate) return;
             const gateId = gate.id; 
 
-            // 🛡️ [MUTLAK FİLTRE KALKANI]: Gezegen akımlarının düğüm parlamalarını ezmesi tamamen engellendi aga!
+            // 🛡️ [MUTLAK FİLTRE KALKANI]: Gezegen güçlerinin düğüm parlamalarını loşlaştırması engellendi!
             if (currentInfluences[gateId] && gate !== sunGate && gate !== moonGate && gate !== seleneGate && gate !== northNodeGate && gate !== southNodeGate) {
                 const multiplier = currentInfluences[gateId]; 
                 
@@ -1002,7 +1071,7 @@ setInterval(() => {
             }
         });
 
-    } // <-- DOM kalkanının güvenli kapanış noktası burası aga!
+    } // <-- Kutsal Kalkan ve Interval tam burada mühürlendi aga!
 
     
 // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
@@ -2768,6 +2837,50 @@ if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
     }
 }
 */
+
+
+// =========================================================================
+// 🎛️ 790Y KELDANİ ÇARKI & 13 AY DÖNGÜSÜ ZAMAN BÜKÜM MOTORU [CHALDEAN_GEAR]
+// =========================================================================
+function calculateChaldeanMatrix(targetDate) {
+    // Keldani Çarkı başlangıç (Epoch) referansı: 26 Temmuz 2026 (Yeni Yıl / Manyetik Sıçrama)
+    const chaldeanEpoch = new Date("2026-07-26T00:00:00");
+    
+    let diffTime = targetDate.getTime() - chaldeanEpoch.getTime();
+    let diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    
+    // Zaman makinesi negatif taşma (Past) kalkanı:
+    if (diffDays < 0) {
+        diffDays = (365 * 1000 + diffDays) % (365 * 1000); 
+    }
+    
+    // 🌌 [WICCA_TUNB_GEAR]: Gün ilerlemesini tam 365 günlük güneş yılı moduna alıyoruz aga!
+    let yearDayIndex = diffDays % 365; // 0 ile 364 arası bir değer döner
+    
+    let currentChaldeanDay = (yearDayIndex % 28) + 1;
+    let currentChaldeanMonthIndex = Math.floor(yearDayIndex / 28) + 1;
+    
+    const CHALDEAN_MOONS = [
+        "MAGNETIC MOON", "LUNAR MOON", "ELECTRIC MOON", "SELF-EXISTING MOON",
+        "OVERTONE MOON", "RHYTHMIC MOON", "RESONANT MOON", "GALACTIC MOON",
+        "SOLAR MOON", "PLANETARY MOON", "SPECTRAL MOON", "CRYSTAL MOON", "COSMIC MOON"
+    ];
+    
+    let moonName = CHALDEAN_MOONS[currentChaldeanMonthIndex - 1] || "TIMELESS MOON";
+    
+    // ☯ [GREEN DAY KALKANI]: Yılın tam 365. günü (İndex 364) zaman durur, sarkaç sıfırlanır!
+    if (yearDayIndex === 364) {
+        moonName = "GREEN DAY [ZAMAN DIŞI GÜN]";
+        currentChaldeanDay = "☯";
+        currentChaldeanMonthIndex = 13; // 13. Ayın son mühür eşiği
+    }
+    
+    return {
+        monthNum: currentChaldeanMonthIndex,
+        moonName: moonName,
+        dayNum: currentChaldeanDay
+    };
+}
 
 
 // =========================================================================
