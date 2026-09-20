@@ -1047,13 +1047,11 @@ setInterval(() => {
             sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
         } else if (currentTargetRoom >= 32 && currentTargetRoom <= 38) {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-        } else if (currentTargetRoom >= 39 && currentTargetRoom <= 47) {
-            sirkadiyenButonIndex = 5; // 🌌 Room 39-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
-        } else if (currentTargetRoom >= 47 && currentTargetRoom <= 51) {
-            // 🎯 ODA 41 TAM BURAYA VURUR AGA! Hem normal akışta hem de FUTURE/PAST ile zaman büküldüğünde burası tetiklenir:
-            sirkadiyenButonIndex = 6; // 💧 Room 41-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
+        } else if (currentTargetRoom >= 39 && currentTargetRoom <= 46) {
+            sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
+        } else if (currentTargetRoom >= 46 && currentTargetRoom <= 51) {
+            sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
         }  else if (currentTargetRoom >= 51 && currentTargetRoom <= 55) {
-            // 🪙 Room 51-55 -> Burası artık nokta atışı 51, 52, 53, 54, 55 odalarını kapsar!
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
         } else {
             // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlasın
