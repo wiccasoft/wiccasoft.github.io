@@ -1013,18 +1013,39 @@ setInterval(() => {
         let rawRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : 40;
         let safeActiveRoom = (parseInt(rawRoom, 10) % 64 + 64) % 64;
 
-        // ☀️ 1. GÜNEŞ KAPISI SEÇİMİ
+
+        // =========================================================================
+        // ☀️ 1. GÜNEŞ KAPISI SEÇİMİ [WICCA_OUROBOROS_AXIS_ENGINE]
+        // =========================================================================
         let sirkadiyenButonIndex = 0;
 
         if (!window.isTimeBended) {
-            if (safeActiveRoom >= 55 || safeActiveRoom <= 8) {
-                sirkadiyenButonIndex = 0; 
+            // 🧭 [EZOTERİK ZAMAN MİLLERİ]: Odaları senin verdiğin mutlak sirkadiyen kırılımlara kelepçeliyoruz aga!
+            if (safeActiveRoom >= 56 || safeActiveRoom <= 5) {
+                sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
+            } else if (safeActiveRoom >= 6 && safeActiveRoom <= 9) {
+                sirkadiyenButonIndex = 1; // ❄️ Room 6-9 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
+            } else if (safeActiveRoom >= 10 && safeActiveRoom <= 19) {
+                sirkadiyenButonIndex = 2; // 🔥 Room 10-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
+            } else if (safeActiveRoom >= 20 && safeActiveRoom <= 23) {
+                sirkadiyenButonIndex = 3; // 🟡 Room 20-23 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
+            } else if (safeActiveRoom >= 24 && safeActiveRoom <= 35) {
+                sirkadiyenButonIndex = 4; // 🍊 Room 24-35 -> AKŞAM BATIŞ KAPISI! (.air-gate)
+            } else if (safeActiveRoom >= 36 && safeActiveRoom <= 40) {
+                sirkadiyenButonIndex = 5; // 🌌 Room 36-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
+            } else if (safeActiveRoom >= 41 && safeActiveRoom <= 50) {
+                sirkadiyenButonIndex = 6; // 💧 Room 41-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
             } else {
-                sirkadiyenButonIndex = Math.min(Math.floor((safeActiveRoom - 1) / 8), 7);
+                sirkadiyenButonIndex = 7; // 🪙 Room 51-55 -> AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
             }
         } else {
             sirkadiyenButonIndex = Math.min(Math.floor(safeActiveRoom / 8), 7);
         }
+
+        isSleepMatrixInverse = false;
+        isSleepMatrixInverse = false; 
+
+        isSleepMatrixInverse = false; 
 
         isSleepMatrixInverse = false; 
 
@@ -2815,14 +2836,21 @@ function updateLilithCosmicDock() {
         `<span style="color: ${shDotColor}; filter: drop-shadow(0 0 5px ${shDotColor}); font-size: 16px; vertical-align: middle;">●</span> <span style="color: #e2e8f0; font-family: monospace; font-size: 11px; vertical-align: middle;">[ ${shPureText} ]</span> ` + 
         `<span style="color: #444; margin: 0 8px; vertical-align: middle;">|</span> <span style="color: #888; font-family: monospace; font-size: 11px; vertical-align: middle;">${paralelText}</span>`;
 
+  // =========================================================================
+    // 🩻 NİHAİ CANLI PANEL ENJEKSİYONU — BAGUA & ELEMENT MÜHÜRLÜ AGA!
     // =========================================================================
-    // 🩻 NİHAİ CANLI PANEL ENJEKSİYONU — ARTIK ASLA DONMAZ AGA!
-    // =========================================================================
+    // Kapı indekslerine denk gelen Bagua sembolleri ve Element İsim Matrisi:
+    const baguaGlyphs = ["☲ FIRE", "☳ ICE", "☲ FIRE_AXIS", "☱ LIGHT", "☵ AIR", "☴ ETHER", "☷ WATER", "☶ METAL"];
+    
+    // Gelişmiş siberpunk görünüm için net isim haritalaması yapıyoruz:
+    const northNodeMap = (liveNorthNodeRoom === 2) ? "☲ N [FIRE]"  : baguaGlyphs[liveNorthNodeRoom];
+    const southNodeMap = (liveSouthNodeRoom === 6) ? "☷ S [WATER]" : baguaGlyphs[liveSouthNodeRoom];
+
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
         statusBar.innerHTML = 
             `● YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonLive.seleneProgress * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s\n` +
-            `● NORTH NODE: Room ${liveNorthNodeRoom} (${liveNorthDeg}°) ──> ● SOUTH NODE: Room ${liveSouthNodeRoom} (${liveSouthDeg}°)`;
+            `● NORTH NODE: ${northNodeMap} (${liveNorthDeg}°) ──> ● SOUTH NODE: ${southNodeMap} (${liveSouthDeg}°)`;
     }
 } // <-- updateLilithCosmicDock fonksiyonunun asıl mühürlü ana parantez kapanış çizgisi burası aga!
 
