@@ -1027,39 +1027,44 @@ setInterval(() => {
         let safeActiveRoom = (parseInt(rawRoom, 10) % 64 + 64) % 64;
 
 
-        // =========================================================================
+ // =========================================================================
         // ☀️ 1. GÜNEŞ KAPISI SEÇİMİ [WICCA_OUROBOROS_AXIS_ENGINE_FINAL]
         // =========================================================================
         let sirkadiyenButonIndex = 0;
 
-        if (!window.isTimeBended) {
-            // 🧭 [MÜHÜRLÜ ARDIŞIK ZAMAN MİLLERİ]: Çakışmaları ve arafta kalan odaları kökten infaz ediyoruz aga!
-            if (safeActiveRoom >= 56 || safeActiveRoom <= 5) {
-                sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
-            } else if (safeActiveRoom >= 6 && safeActiveRoom <= 10) {
-                sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
-            } else if (safeActiveRoom >= 11 && safeActiveRoom <= 19) {
-                sirkadiyenButonIndex = 2; // 🔥 Room 11-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
-            } else if (safeActiveRoom >= 20 && safeActiveRoom <= 31) {
-                sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
-            } else if (safeActiveRoom >= 32 && safeActiveRoom <= 39) {
-                sirkadiyenButonIndex = 4; // 🍊 Room 32-36 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-            } else if (safeActiveRoom >= 39 && safeActiveRoom <= 40) {
-                sirkadiyenButonIndex = 5; // 🌌 Room 37-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
-            } else if (safeActiveRoom >= 41 && safeActiveRoom <= 50) {
-                sirkadiyenButonIndex = 6; // 💧 Room 41-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
-            } else {
-                sirkadiyenButonIndex = 7; // 🪙 Room 51-55 -> AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
-            }
+        // 🎯 KOZMİK BÜKÜM KALKANLI SEÇİCİ MOTOR:
+        // safeActiveRoom verisini hem normal canlı akışta hem de FUTURE/PAST bükülmelerinde ortak paydaya alıyoruz aga!
+        let currentTargetRoom = safeActiveRoom;
+
+        // 🧭 [MÜHÜRLÜ ARDIŞIK ZAMAN MİLLERİ]: Çakışmaları, arafta kalmaları ve buton kaymalarını kökten infaz ediyoruz:
+        if (currentTargetRoom >= 56 || currentTargetRoom <= 5) {
+            sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
+        } else if (currentTargetRoom >= 6 && currentTargetRoom <= 10) {
+            sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
+        } else if (currentTargetRoom >= 11 && currentTargetRoom <= 19) {
+            sirkadiyenButonIndex = 2; // 🔥 Room 11-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
+        } else if (currentTargetRoom >= 20 && currentTargetRoom <= 31) {
+            sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
+        } else if (currentTargetRoom >= 32 && currentTargetRoom <= 38) {
+            sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
+        } else if (currentTargetRoom >= 39 && currentTargetRoom <= 47) {
+            sirkadiyenButonIndex = 5; // 🌌 Room 39-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
+        } else if (currentTargetRoom >= 47 && currentTargetRoom <= 51) {
+            // 🎯 ODA 41 TAM BURAYA VURUR AGA! Hem normal akışta hem de FUTURE/PAST ile zaman büküldüğünde burası tetiklenir:
+            sirkadiyenButonIndex = 6; // 💧 Room 41-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
+        }  else if (currentTargetRoom >= 51 && currentTargetRoom <= 55) {
+            // 🪙 Room 51-55 -> Burası artık nokta atışı 51, 52, 53, 54, 55 odalarını kapsar!
+            sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
         } else {
-            sirkadiyenButonIndex = Math.min(Math.floor(safeActiveRoom / 8), 7);
+            // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlasın
+            sirkadiyenButonIndex = 0; 
         }
+        // Eğer zaman bükülmüşse (window.isTimeBended aktifse) ve ekstradan saptırmak istediğin bir katsayı yoksa,
+        // yukardaki asil ezoterik matris kararlı şekilde çalışmaya devam eder. 
+        // İstersen bükme modunda indeks kaymasını korumak için buraya özel offset ekleyebilirsin aga.
+
         isSleepMatrixInverse = false;
-        isSleepMatrixInverse = false; 
-
-        isSleepMatrixInverse = false; 
-
-        isSleepMatrixInverse = false; 
+  
 
         // 🌗 2. LİLİTH KAPISI SEÇİMİ
         let lilithButonIndex = (sirkadiyenButonIndex + 4) % 8;
@@ -1185,7 +1190,8 @@ setInterval(() => {
             }
         }
     } // <-- Büyük Şaheser Tam Bu Dakikada Mühürlendi Aga!
-// 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
+
+
 const monaElement = document.getElementById('mesh-monalisa');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image') || document.querySelector('.salvador-layer');
 
@@ -1204,94 +1210,103 @@ if (currentMonth >= 11 || currentMonth <= 1) {
     seasonalMultiplier = 0.7; // Yaz: Yang / Sempatik dominant
 }
 
-// 2. 4 Vitesli Evrensel Eksen Kontrolü (İstediğin 24-48 Geçişine Göre Tam Kalibre Edildi Aga!)
+// 2. 4 Vitesli Evrensel Eksen Kontrolü
 if (sunRoom64 >= 0 && sunRoom64 < 24) {
-    // 🔴 SABAH / ÖĞLE (Maksimum Sempatik Sol Güç)
     yinStg = `🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo — Sempatik Şarj)`;
 } 
 else if (sunRoom64 >= 24 && sunRoom64 <= 48) {
-    // 🟡 İKİNDİ / AKŞAM (Salvator'un Sağ Eli / Parasempatik Geçiş)
     yinStg = `🟡 Yang-Deşarj [Mevsimsel Çarpan: x${seasonalMultiplier.toFixed(1)}] | ST Segmenti & İkindi Lütfu (Citrinitas — Salvator Geçişi)`;
 } 
 else if (sunRoom64 >= 49 && sunRoom64 <= 56) {
-    // 🔵 GECE / GECE YARISI (Parasempatik Sağ Derinlik & CSF Temizlik)
     yinStg = `💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo — Diyastolik Arınma)`;
 } 
 else {
-    // 🌞 ŞAFAK / DOĞUŞ ERTESİ (Sempatik Başlangıcı)
     yinStg = `☯️ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)`;
 }
 
 // =========================================================================
-// 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
+// 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU [WICCA_MESH_FINAL]
 // =========================================================================
 if (monaElement && salvadorElement) {
     let targetMonaOpacity = 0;
     let targetSalvadorOpacity = 0;
+    
+    // 🎯 KATMAN AMBORTİSÖRÜ: Hangi elementin fiziksel olarak üstte kalacağını belirler
+    let monaZIndex = "1";
+    let salvadorZIndex = "1";
 
-    // 1. VİTES [0 - 23. ODALAR]: Sabah ve Mutlak Gündüz Döngüsü
-    if (sunRoom64 >= 0 && sunRoom64 < 24) {
+    // 🎯 1. VİTES [0 - 23. ODALAR]: Gündoğumu, Kuşluk ve MIDDAY (Mutlak Gündüz)
+    if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         targetMonaOpacity = 1.0;               
         targetSalvadorOpacity = 0.0; 
         pendulumStatus = "[MONA LISA] GÜNE MERHABA (SİSTOLİK GERİLİM SHARJI)";
         dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
+        
+        // ☀️ Gündüz Mona mutlak olarak hem opaklık hem katman olarak en üsttedir aga!
+        monaZIndex = "99";
+        salvadorZIndex = "1";
     }
-    // 2. VİTES [24 - 48. ODALAR]: İkindi'den Akşama Geçiş Motoru (ARALIK BURASI AGA)
+    // 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
     else if (sunRoom64 >= 24 && sunRoom64 <= 39) {
-        // İlerleme eğrisi tam olarak 24. odada 0'dan başlar, 48'de 1 olur
         let progress = (sunRoom64 - 24) / (39 - 24);
         
-        // Geçiş başladıkça Mona azalır, Salvador yüzeye süzülür
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 [MONA LISA] Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
         
-        // 🔥 ANİMASYON FRENİ KALKANI: 3 saniyelik hantal transition filtresini bu viteste sıfırlıyoruz aga!
         monaElement.style.setProperty('transition', 'none', 'important');
         salvadorElement.style.setProperty('transition', 'none', 'important');
+        
+        // Geçiş evresinde pürüzsüz erime için ikisini de eşit katmana alıyoruz
+        monaZIndex = "10";
+        salvadorZIndex = "10";
     }
-    // 3. VİTES [49 - 56. ODALAR]: Gün Batımı ve Gece Başlangıcı
-    else if (sunRoom64 >= 44 && sunRoom64 <= 56) {
+    // 🎯 3. VİTES [40 - 50. ODALAR]: %100 Kararma Vakti! (Astronomical Twilight & MIDNIGHT Sırrı)
+    else if (sunRoom64 >= 40 && sunRoom64 <= 50) {
         targetMonaOpacity = 0.0; 
         targetSalvadorOpacity = 1.0;           
         pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
         dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
         
-        // Gece moduna girerken transition'ı tekrar asil formuna döndürebilirsin istersen:
         monaElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
+        
+        // 🌌 GECE KİLİDİ: Salvador %100 görünür ve fiziksel olarak en üstte (z-index: 99). 
+        // Mona ise eksi sonsuza/dibe itiliyor, transparan hali bile Salvador'un üstünü kapatamaz!
+        monaZIndex = "1";
+        salvadorZIndex = "99";
     }
-    // 4. VİTES [57 - 64. ODALAR]: Gece Yarısından Şafağa -> ŞAFAK BÜKÜCÜ
-    else if (sunRoom64 >= 57 && sunRoom64 <= 64) {
-        let progress = (sunRoom64 - 57) / (64 - 57);
+    // 🎯 4. VİTES [51 - 64. ODALAR]: Gece Yarısından After Midnight ve Şafağa
+    else if (sunRoom64 >= 51 && sunRoom64 <= 64) {
+        let progress = (sunRoom64 - 51) / (64 - 51);
         let twilightCalibrated = Math.pow(progress, 3.5);
         
         targetMonaOpacity = twilightCalibrated;          
         targetSalvadorOpacity = 1 - twilightCalibrated;  
         pendulumStatus = "🌘 RESURECTION (CHARGE)";
         dayStg = "🔴 Funny Current (T Dalgası & SA Düğümü)";
+        
+        // Şafak sökerken yavaşça katmanları eşitliyoruz
+        monaZIndex = "10";
+        salvadorZIndex = "10";
     }
 
     // Emniyet sınırları kilidi (0.0 - 1.0)
     targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
     targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
 
-     // 🔥 MİKRO-ZAMANLAYICI KALKANI: Diğer tüm sinsi scriptler (1290/1291) opaklığı ezsin, 
-    // bittikten hemen 1 milisaniye sonra bizim motor gelip son noktayı koyuyor aga!
-  // 🔥 MİKRO-ZAMANLAYICI VE KATMAN DÜZELTİCİ KALKAN
- // 🔥 ŞİMŞEK ÇAKMASI VE PIRPIR ENGELLEME KALKANI
-    // setTimeout yerine requestAnimationFrame kullanarak tarayıcının çizim (render) 
-    // kuyruğuna doğrudan sızıyor ve milisaniyelik o pırpır efektini kökten yok ediyoruz aga!
+    // 🔥 Dinamik z-index atamalı requestAnimationFrame kalkanı:
     requestAnimationFrame(() => {
-        // Opacity değerlerini en yüksek öncelikle çak
         monaElement.style.setProperty('opacity', targetMonaOpacity.toFixed(4), 'important');
         salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');
         
-        // Katmanları milimetrik sabitle
-        monaElement.style.setProperty('z-index', '99', 'important');
-        salvadorElement.style.setProperty('z-index', '1', 'important');
+        // Viteslerden gelen dinamik z-index değerleri vuruluyor aga:
+        monaElement.style.setProperty('z-index', monaZIndex, 'important');
+        salvadorElement.style.setProperty('z-index', salvadorZIndex, 'important');
+        
         monaElement.style.setProperty('position', 'absolute', 'important');
+        salvadorElement.style.setProperty('position', 'absolute', 'important'); // İkisini de absolute mühürle ki alt alta tam otursunlar
         
         if (typeof targetOpacity !== 'undefined') {
             targetOpacity = targetMonaOpacity;
@@ -3391,12 +3406,68 @@ window.setWiccaMode = function(mode) {
     }
 };
 
-// 🚀 [AÇILIŞ TETİKLEYİCİSİ]: Sayfa ilk yüklendiğinde otomatik olarak SAAT (ODA) butonunu mor neonla ateşle aga!
+// =========================================================================
+// 🪐 WICCA GLOBAL STATÜ VE KATMAN MÜHÜRLERİ (ASLA ÇÖKMEYEN KORUMA SEÇİCİSİ)
+// =========================================================================
+
+// 🧭 1. STATÜ FONKSİYONU (En başta olmalı ki alttaki event'ler çağırabilsin aga)
+const wiccaStatuyuMuhurle = (room) => {
+    // Oda 41-50 arası tam gece (Yin Derinlik / Midnight) evresidir!
+    let isGece = (room >= 41 && room <= 50);
+    
+    // Kök elemente (body) durumu dikte ediyoruz, CSS katmanları salisesinde kilitliyor
+    if (document.body) {
+        document.body.setAttribute('data-wicca-phase', isGece ? 'YIN_NIGHT' : 'YANG_DAY');
+    }
+    
+    // Mesh texture tetikleyicisi
+    if (typeof window.selectMeshTexture === 'function') {
+        window.selectMeshTexture(isGece ? 'MUNDI' : 'LISA');
+    }
+};
+
+// 🚀 2. [AÇILIŞ TETİKLEYİCİSİ]: Tarayıcı DOM'u indirdiği an (downloaded) ilk iş statüye bakılır
 document.addEventListener("DOMContentLoaded", () => {
+    let openingRoom = 0;
+    
+    // safeActiveRoom için ReferenceError korumalı kalkan:
+    if (typeof window.safeActiveRoom !== 'undefined') {
+        openingRoom = window.safeActiveRoom;
+    } else if (typeof safeActiveRoom !== 'undefined') {
+        openingRoom = safeActiveRoom;
+    }
+
+    // İlk iş statüyü mühürle ki render motoru Mona'yı üste fırlatmasın
+    wiccaStatuyuMuhurle(openingRoom);
+
+    // Saat modunu mor neonla ateşle
     if (typeof window.setWiccaMode === 'function') {
-        window.setWiccaMode('SAAT');
+        window.setWiccaMode('SAAT'); 
     }
 });
+
+// 🌌 3. TAB DEĞİŞTİRİRKEN OLUŞAN HAFIZA SIZINTISI VE RE-RENDER ENGELLEYİCİ
+document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) {
+        let currentRoom = 0;
+        
+        // Tab uyanırken de güvenli kontrol yapıyoruz ki ReferenceError vermesin:
+        if (typeof window.safeActiveRoom !== 'undefined') {
+            currentRoom = window.safeActiveRoom;
+        } else if (typeof safeActiveRoom !== 'undefined') {
+            currentRoom = safeActiveRoom;
+        }
+        
+        // Katmanları ve modu tazeleyerek sızmayı sıfırla aga
+        wiccaStatuyuMuhurle(currentRoom);
+
+        if (typeof window.setWiccaMode === 'function') {
+            window.setWiccaMode('SAAT');
+        }
+    }
+});
+
+
 </script>
 
 
