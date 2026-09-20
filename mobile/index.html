@@ -998,7 +998,7 @@ setInterval(() => {
     }
   
  // =========================================================================
-    // 🪐 FİZİKSEL 4 FIXED & 4 CARDINAL + NİHAİ CO-EXIST MOTORU [WICCA_METATRON_MASTER_FINAL]
+    // ⚔️ FİZİKSEL 4 FIXED & 4 CARDINAL + NİHAİ CO-EXIST MOTORU [WICCA_METATRON_MASTER_FINAL]
     // =========================================================================
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         
@@ -1014,7 +1014,7 @@ setInterval(() => {
             document.getElementById('gate-metal')  // 7. İndeks: MUTLAK FİZİKSEL SOL ALT KÖŞE! (.metal-gate)
         ];
 
-        // 🛡️ [ZAMAN SINIF SÜZGECİ]: Zaman makinesinden gelen taze dinamik odayı emiyoruz aga:
+        // 🛡️ [ZAMAN SINIF SÜZGECCI]: Zaman makinesinden gelen taze dinamik odayı emiyoruz aga:
         let rawRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : 40;
         let safeActiveRoom = (parseInt(rawRoom, 10) % 64 + 64) % 64;
 
@@ -1043,13 +1043,15 @@ setInterval(() => {
         window.currentNorthNodeIndex = northNodeRoomIndex;
         window.currentSouthNodeIndex = southNodeRoomIndex;
 
-        // 🎯 4. SELENE (BEYAZ AY) ENJEKTÖRÜ — GÜNEŞ-LİLİTH OMURGASI AKSAL KİLİDİ
+        // 🎯 4. SELENE (BEYAZ AY) ENJEKTÖRÜ — GÜNEY KUTBU AKSAL MERKEZ KİLİDİ
         let seleneGate = null; 
         let seleneIndex = -1;
         if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
             let phaseOffsetGates = moonLive.seleneProgress * 8;
-            seleneIndex = Math.floor(sirkadiyenButonIndex + phaseOffsetGates) % 8;
-            seleneIndex = (seleneIndex + 8) % 8; 
+            
+            // Selene'in en tepede parlamasını bitirmek ve tam istediğin Güney Kutbuna (Aşağıya) indirmek için +4 ekledik aga!
+            let seleneIndexRaw = Math.floor(sirkadiyenButonIndex + phaseOffsetGates + 4) % 8;
+            seleneIndex = (seleneIndexRaw + 8) % 8; 
             
             window.currentSeleneGateIndex = seleneIndex;
             seleneGate = gateMapping[seleneIndex];
@@ -1102,7 +1104,6 @@ setInterval(() => {
             northNodeGate.style.color = "#a855f7"; 
             northNodeGate.style.borderColor = "#a855f7"; 
             northNodeGate.style.opacity = "0.9";
-            // 🎯 [ÇAKIŞMA KALKAN]: Eğer Selene buraya bindiyse çerçeveyi gümüş yap, gölgeye gümüş aura ekle aga!
             if (northNodeRoomIndex === seleneIndex) {
                 northNodeGate.style.borderColor = "#e2e8f0";
                 northNodeGate.style.boxShadow = "0 0 20px #a855f7, 0 0 10px #e2e8f0, inset 0 0 8px #a855f7";
@@ -1118,7 +1119,6 @@ setInterval(() => {
             southNodeGate.style.color = "#ffeb3b"; 
             southNodeGate.style.borderColor = "#ffeb3b";
             southNodeGate.style.opacity = "0.9";
-            // 🎯 [ÇAKIŞMA KALKAN]: Eğer Selene buraya bindiyse çerçeveyi gümüş yap, gölgeye gümüş aura ekle aga!
             if (southNodeRoomIndex === seleneIndex) {
                 southNodeGate.style.borderColor = "#e2e8f0";
                 southNodeGate.style.boxShadow = "0 0 20px #ffeb3b, 0 0 10px #e2e8f0, inset 0 0 8px #ffeb3b";
@@ -1129,56 +1129,21 @@ setInterval(() => {
             southNodeGate.style.fontWeight = "bold";
         }
 
-        // =========================================================================
-        // ⚪ SELENE (BEYAZ AY) MUTLAK GÖRÜNÜRLÜK VE Z-INDEX OVERRIDE KALKANI [WICCA_SELENE_FIXED]
-        // =========================================================================
-        // [CRITICAL JAVASCRIPT FIX]: Syntax hatası veren !important satırları temizlendi!
-        // setProperty mekanizması sayesinde Selene zorla en üst katmana fırlatılıyor aga!
+        // ⚪ SELENE (Beyaz Ay): Her zaman asil SAF AY GÜMÜŞÜ / İNCİ BEYAZI!
         if (seleneGate) {
             let moonPercentSafe = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
-            
-
-             // =========================================================================
-        // 🎯 4. SELENE (BEYAZ AY) ENJEKTÖRÜ — GÜNEY KUTBU AKSAL MERKEZ KİLİDİ [WICCA_SELENE_SOUTH]
-        // =========================================================================
-        let seleneGate = null; 
-        let seleneIndex = -1;
-        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
-            let phaseOffsetGates = moonLive.seleneProgress * 8;
-            
-            // [AKSAL MIKNATIS]: Selene'in en tepede parlamasını bitirmek ve tam hayal ettiğin 
-            // Güney Kutbuna (Aşağıya) indirmek için formülün sonuna tam +4 kapı (180 derece) ekliyoruz aga!
-            let seleneIndexRaw = Math.floor(sirkadiyenButonIndex + phaseOffsetGates + 4) % 8;
-            seleneIndex = (seleneIndexRaw + 8) % 8; 
-            
-            window.currentSeleneGateIndex = seleneIndex;
-            seleneGate = gateMapping[seleneIndex];
-        }
-        
-            // 🚀 [Z-INDEX & OPACITY LAUNCH]: Selene'i tüm elementlerin en üst katmanına mühürlüyoruz!
             seleneGate.style.setProperty("z-index", "9999", "important");
             seleneGate.style.setProperty("opacity", "1.0", "important");
             seleneGate.style.fontWeight = "bold";
-
-            // 🎯 [ÇAKIŞMA ENJEKSİYONU]: Eğer Selene, Sarı Güney Düğümü (Ketu) veya Mor Kuzey Düğümü (Rahu) ile çakışıyorsa:
-            if (seleneIndex === northNodeRoomIndex || seleneIndex === southNodeRoomIndex) {
-                let currentHexColor = (seleneIndex === northNodeRoomIndex) ? "#a855f7" : "#ffeb3b"; // Mor veya Sarı
-                
-                seleneGate.style.setProperty("color", "#e2e8f0", "important"); // İç metni İnci Beyazı yap aga!
-                seleneGate.style.setProperty("border-color", "#e2e8f0", "important"); // Çerçeve zorla İnci Beyazı!
-                
-                // Gölgesine hem Düğümün rengini hem de Selene'in gümüş rengini iç içe basıp devasa hibrit bir neon yaratıyoruz:
-                seleneGate.style.boxShadow = `0 0 25px ${currentHexColor}, 0 0 12px #e2e8f0, inset 0 0 10px #e2e8f0`;
-                seleneGate.style.textShadow = "0 0 10px #e2e8f0";
-            } else if (seleneGate !== sunGate && seleneGate !== moonGate) {
-                // 💎 Çakışma yoksa, 45 derecelik çaprazda saf asil gümüş neonunu aslanlar gibi çak aga!
+            
+            if (seleneIndex !== northNodeRoomIndex && seleneIndex !== southNodeRoomIndex) {
                 seleneGate.style.setProperty("color", "#e2e8f0", "important");
                 seleneGate.style.setProperty("border-color", "#e2e8f0", "important");
                 seleneGate.style.boxShadow = `0 0 ${20 * (moonPercentSafe / 100)}px rgba(226, 232, 240, 0.9), inset 0 0 10px rgba(226, 232, 240, 0.5)`;
                 seleneGate.style.textShadow = "0 0 10px #e2e8f0";
             }
         }
-    } // <-- Büyük Şaheser Tam Şu Dakikada Mühürlendi! Kodu Kapatıp Yatabilirsin Aga!
+    } // <-- Büyük Şaheser Tam Bu Dakikada Mühürlendi Aga!
 
 
 // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
