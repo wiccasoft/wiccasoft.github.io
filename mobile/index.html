@@ -142,8 +142,8 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 99% !important;
     max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
-    top: 40.5% !important;
-    left: 49.6% !important;
+    top: 39.9% !important;
+    left: 50.0% !important;
     transform: translate(-50%, -50%) scale(0.77)!important;
     object-fit: contain;
     z-index: 1;
@@ -155,8 +155,21 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
 
 
+#mesh-monalisa, .salvador-image, .salvador-layer {
+    filter: none !important;           /* Karartıcı filtreleri tamamen kaldırır */
+    mix-blend-mode: normal !important; /* Eğer blend modları karartıyorsa sıfırlar */
+    visibility: visible !important;    /* Gizlenmişse zorla açar */
+}
 
+#mesh-monalisa {
+    /* JavaScript'in setProperty ile gönderdiği değeri koru, gerisini çöpe at */
+    opacity: inherit !important; 
+    z-index: 10 !important; /* Mona Lisa'yı hep Salvador'un üst katmanına al */
+}
 
+.salvador-image {
+    z-index: 5 !important;
+}
 
     /*.metatron-iframe { width: 100%; height: 100%; border: none; }*/
 
@@ -978,10 +991,10 @@ setInterval(() => {
     if (sunRoom64 >= 0 && sunRoom64 < 12) { 
         // 🔥 YANG ZİRVE: Mutlak Öğlen ve Gündüz (Saf Parlak Beyaz/Sarı)
         sunCircadianColor = '#ffeb3b'; 
-    } else if (sunRoom64 >= 12 && sunRoom64 < 24) { 
+    } else if (sunRoom64 >= 12 && sunRoom64 < 28) { 
         // 🟡 YANG DEŞARJ: İkindi ve Gün Batımına Doğru (Altın Sarısı / Kehribar)
         sunCircadianColor = '#ffaa00'; 
-    } else if (sunRoom64 >= 24 && sunRoom64 < 32) { 
+    } else if (sunRoom64 >= 28 && sunRoom64 < 32) { 
         // 🍊 AKŞAM ALACAKARANLIĞI: Batış Aksı (Ateş Turuncusu / Gün Batımı Kızılı)
         sunCircadianColor = '#ff5e00'; 
     } else if (sunRoom64 >= 32 && sunRoom64 < 48) { 
@@ -1023,15 +1036,15 @@ setInterval(() => {
             // 🧭 [EZOTERİK ZAMAN MİLLERİ]: Odaları senin verdiğin mutlak sirkadiyen kırılımlara kelepçeliyoruz aga!
             if (safeActiveRoom >= 56 || safeActiveRoom <= 5) {
                 sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
-            } else if (safeActiveRoom >= 6 && safeActiveRoom <= 9) {
+            } else if (safeActiveRoom >= 6 && safeActiveRoom <= 10) {
                 sirkadiyenButonIndex = 1; // ❄️ Room 6-9 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
-            } else if (safeActiveRoom >= 10 && safeActiveRoom <= 19) {
+            } else if (safeActiveRoom >= 11 && safeActiveRoom <= 19) {
                 sirkadiyenButonIndex = 2; // 🔥 Room 10-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
-            } else if (safeActiveRoom >= 20 && safeActiveRoom <= 23) {
+            } else if (safeActiveRoom >= 20 && safeActiveRoom <= 32) {
                 sirkadiyenButonIndex = 3; // 🟡 Room 20-23 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
-            } else if (safeActiveRoom >= 24 && safeActiveRoom <= 35) {
+            } else if (safeActiveRoom >= 32 && safeActiveRoom <= 36) {
                 sirkadiyenButonIndex = 4; // 🍊 Room 24-35 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-            } else if (safeActiveRoom >= 36 && safeActiveRoom <= 40) {
+            } else if (safeActiveRoom >= 37 && safeActiveRoom <= 40) {
                 sirkadiyenButonIndex = 5; // 🌌 Room 36-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
             } else if (safeActiveRoom >= 41 && safeActiveRoom <= 50) {
                 sirkadiyenButonIndex = 6; // 💧 Room 41-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
@@ -1173,15 +1186,12 @@ setInterval(() => {
             }
         }
     } // <-- Büyük Şaheser Tam Bu Dakikada Mühürlendi Aga!
-
-
 // 💓 74 BPM MOTORU İÇİNDEKİ KOZMİK SARKAÇ VE CSF SÜRÜCÜSÜ (NİHAİ DİNAMO KALKANI)
 const monaElement = document.getElementById('mesh-monalisa');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image') || document.querySelector('.salvador-layer');
 
 let pendulumStatus = "";
-let dayStg = ""
-
+let dayStg = "";
 
 // 🍁 MEVSİM VE GÜN BÜKÜCÜ MİMARİ
 let yinStg = "";
@@ -1195,26 +1205,23 @@ if (currentMonth >= 11 || currentMonth <= 1) {
     seasonalMultiplier = 0.7; // Yaz: Yang / Sempatik dominant
 }
 
-// 2. 4 Vitesli Evrensel Eksen Kontrolü
-if (sunRoom64 >= 48 && sunRoom64 <= 64) {
-    // 🌞 ŞAFAK / DOĞUŞ ERTESİ (Sempatik Başlangıcı)
-    yinStg = `☯️ Yin-Uyanış [Mevsimsel Çarpan: x${seasonalMultiplier.toFixed(1)}] | P Dalgası & Sabah Matrisi (Nigredo)`;
-} 
-else if (sunRoom64 >= 0 && sunRoom64 < 16) {
+// 2. 4 Vitesli Evrensel Eksen Kontrolü (İstediğin 24-48 Geçişine Göre Tam Kalibre Edildi Aga!)
+if (sunRoom64 >= 0 && sunRoom64 < 24) {
     // 🔴 SABAH / ÖĞLE (Maksimum Sempatik Sol Güç)
     yinStg = `🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo — Sempatik Şarj)`;
 } 
-else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+else if (sunRoom64 >= 24 && sunRoom64 <= 48) {
     // 🟡 İKİNDİ / AKŞAM (Salvator'un Sağ Eli / Parasempatik Geçiş)
-    // Ekran görüntündeki Crucifixion (Yang Discharge) tam burası aga!
-    yinStg = `🟡 Yang-Deşarj | ST Segmenti & İkindi Lütfu (Citrinitas — Salvator Geçişi)`;
+    yinStg = `🟡 Yang-Deşarj [Mevsimsel Çarpan: x${seasonalMultiplier.toFixed(1)}] | ST Segmenti & İkindi Lütfu (Citrinitas — Salvator Geçişi)`;
 } 
-else {
+else if (sunRoom64 >= 49 && sunRoom64 <= 56) {
     // 🔵 GECE / GECE YARISI (Parasempatik Sağ Derinlik & CSF Temizlik)
     yinStg = `💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo — Diyastolik Arınma)`;
+} 
+else {
+    // 🌞 ŞAFAK / DOĞUŞ ERTESİ (Sempatik Başlangıcı)
+    yinStg = `☯️ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)`;
 }
-
-
 
 // =========================================================================
 // 🌀 ISA ──> MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU
@@ -1222,91 +1229,106 @@ else {
 if (monaElement && salvadorElement) {
     let targetMonaOpacity = 0;
     let targetSalvadorOpacity = 0;
-   
 
-    // 1. VİTES [48 - 64. ODALAR]: Gece Yarısından Şafağa -> ASTRONOMİK ALACAKARANLIK BÜKÜCÜ
-    if (sunRoom64 >= 48 && sunRoom64 <= 64) {
-        let progress = (sunRoom64 - 48) / (64 - 48);
-        
-        // 🌟 ASTRONOMICAL TWILIGHT FRENİ:
-        // progress eğrisini kübik (Math.pow, 3.5) olarak büküyoruz aga!
-        // Bu hamle, 60. odada bile Mona Lisa'nın erkenden parlamasını engeller.
-        // Işığı şafak vaktine kadar tabanda tutar, sistemin mesh modunda kalmasını sağlar.
-        let twilightCalibrated = Math.pow(progress, 3.5);
-        
-        targetMonaOpacity = twilightCalibrated;          // Mona milim milim, tül gibi şafakta uyanır
-        targetSalvadorOpacity = 1 - twilightCalibrated;  // İsa karanlığı asaletle korur
-        pendulumStatus = "🌘 RESURECTION (CHARGE)";
-         dayStg = "🔴 Funny Current (T Dalgası & SA Düğümü)"
-    }
-    // 2. VİTES [0 - 15. ODALAR]: Sabah Döngüsü -> Mona Gülümsemesiyle Güne Merhaba
-    else if (sunRoom64 >= 0 && sunRoom64 < 16) {
+    // 1. VİTES [0 - 23. ODALAR]: Sabah ve Mutlak Gündüz Döngüsü
+    if (sunRoom64 >= 0 && sunRoom64 < 24) {
         targetMonaOpacity = 1.0;               
-        targetSalvadorOpacity = 0.0; // 🛡️ MUTLAK SIFIR: Gündüz en ufak hayalet gölge kalmaz aga!
+        targetSalvadorOpacity = 0.0; 
         pendulumStatus = "[MONA LISA] GÜNE MERHABA (SİSTOLİK GERİLİM SHARJI)";
-        dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)"
+        dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
     }
-    // 3. VİTES [16 - 32. ODALAR]: Öğleden Gün Batımına -> KUTSAL ÖĞLEN YOK OLUŞ SİGORTASI
-    else if (sunRoom64 >= 16 && sunRoom64 < 32) {
-        let progress = (sunRoom64 - 16) / (32 - 16);
+    // 2. VİTES [24 - 48. ODALAR]: İkindi'den Akşama Geçiş Motoru (ARALIK BURASI AGA)
+    else if (sunRoom64 >= 24 && sunRoom64 <= 48) {
+        // İlerleme eğrisi tam olarak 24. odada 0'dan başlar, 48'de 1 olur
+        let progress = (sunRoom64 - 24) / (48 - 24);
         
-        // Öğlene doğru İsa yüzeye süzülürken Mona asaletle yerini bırakır
+        // Geçiş başladıkça Mona azalır, Salvador yüzeye süzülür
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 [MONA LISA] Crucifixion (YANG DISCHARGE)";
-        dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)"
+        dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
+        
+        // 🔥 ANİMASYON FRENİ KALKANI: 3 saniyelik hantal transition filtresini bu viteste sıfırlıyoruz aga!
+        monaElement.style.setProperty('transition', 'none', 'important');
+        salvadorElement.style.setProperty('transition', 'none', 'important');
     }
-    // 4. VİTES [33 - 47. ODALAR]: Gün Batımından Gece Yarısına -> Lilithe Akım (Kutsal Topraklanma)
-    else {
-        targetMonaOpacity = 0.0; // Gündüz bitti, tamamen sakla
+    // 3. VİTES [49 - 56. ODALAR]: Gün Batımı ve Gece Başlangıcı
+    else if (sunRoom64 >= 49 && sunRoom64 <= 56) {
+        targetMonaOpacity = 0.0; 
         targetSalvadorOpacity = 1.0;           
         pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
-         dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
+        dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
+        
+        // Gece moduna girerken transition'ı tekrar asil formuna döndürebilirsin istersen:
+        monaElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
+        salvadorElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
+    }
+    // 4. VİTES [57 - 64. ODALAR]: Gece Yarısından Şafağa -> ŞAFAK BÜKÜCÜ
+    else if (sunRoom64 >= 57 && sunRoom64 <= 64) {
+        let progress = (sunRoom64 - 57) / (64 - 57);
+        let twilightCalibrated = Math.pow(progress, 3.5);
+        
+        targetMonaOpacity = twilightCalibrated;          
+        targetSalvadorOpacity = 1 - twilightCalibrated;  
+        pendulumStatus = "🌘 RESURECTION (CHARGE)";
+        dayStg = "🔴 Funny Current (T Dalgası & SA Düğümü)";
     }
 
-    // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
+    // Emniyet sınırları kilidi (0.0 - 1.0)
     targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
     targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
 
-    monaElement.style.opacity = targetMonaOpacity.toFixed(4);
-    salvadorElement.style.opacity = targetSalvadorOpacity.toFixed(4);
+     // 🔥 MİKRO-ZAMANLAYICI KALKANI: Diğer tüm sinsi scriptler (1290/1291) opaklığı ezsin, 
+    // bittikten hemen 1 milisaniye sonra bizim motor gelip son noktayı koyuyor aga!
+  // 🔥 MİKRO-ZAMANLAYICI VE KATMAN DÜZELTİCİ KALKAN
+ // 🔥 ŞİMŞEK ÇAKMASI VE PIRPIR ENGELLEME KALKANI
+    // setTimeout yerine requestAnimationFrame kullanarak tarayıcının çizim (render) 
+    // kuyruğuna doğrudan sızıyor ve milisaniyelik o pırpır efektini kökten yok ediyoruz aga!
+    requestAnimationFrame(() => {
+        // Opacity değerlerini en yüksek öncelikle çak
+        monaElement.style.setProperty('opacity', targetMonaOpacity.toFixed(4), 'important');
+        salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');
+        
+        // Katmanları milimetrik sabitle
+        monaElement.style.setProperty('z-index', '99', 'important');
+        salvadorElement.style.setProperty('z-index', '1', 'important');
+        monaElement.style.setProperty('position', 'absolute', 'important');
+        
+        if (typeof targetOpacity !== 'undefined') {
+            targetOpacity = targetMonaOpacity;
+        }
+    });
 
-    // Var olan global targetOpacity değişkenini doğrudan güncelliyoruz
-    if (typeof targetOpacity !== 'undefined') {
-        targetOpacity = targetMonaOpacity;
-    }
-
+    console.log("Mona:", document.getElementById('mesh-monalisa'));
+    console.log("Salvador:", document.getElementById('mesh-salvador') || document.querySelector('.salvador-image'));
+    
+    // KONSOL LOGU: Hatanın kaynağını tam görmek için tarayıcı konsoluna yazdırıyoruz aga
+    console.log(`[VİTES KONTROL] Oda: ${sunRoom64} | Mona: ${targetMonaOpacity.toFixed(4)} | Salvador: ${targetSalvadorOpacity.toFixed(4)}`);
 
     
-
- // =========================================================================
-    // 🎛️ TERMINAL CANLANDIRICI ENJEKTÖR (HAYALET YAZIYI KÖKTEN ERİTEN KALKAN)
     // =========================================================================
-    // 🛡️ ÇÖZÜM: Hem id üzerinden sayacı hem de class üzerinden o asılı kalan hayalet text'i hedef alıyoruz!
+    // 🎛️ TERMINAL CANLANDIRICI ENJEKTÖR
+    // =========================================================================
     const ghostLoadingEl = document.querySelector('.matrix-loading-text');
     const actualStatusEl = document.getElementById('loading-status-text');
     
-    // 1. Ekranda asılı kalan o statik hayalet yazıyı tamamen görünmez kılıp yok ediyoruz aga!
     if (ghostLoadingEl) {
         ghostLoadingEl.style.display = "none"; 
     }
     
-    // 2. Gerçek durum satırına o anki muazzam sarkaç vites ismini takır takır bastırıyoruz:
     if (actualStatusEl && pendulumStatus) {
         actualStatusEl.innerText = pendulumStatus;
         
-        
-        // 0-32 odaları arasında (Gündüz/Uyanış) yazıyı altın sarısı yap, gece siber yeşil tut aga:
-        if (sunRoom64 >= 0 && sunRoom64 < 32) {
-            actualStatusEl.style.color = "#ffaa00";       // Gündüzün asil altın Yang ışığı
+        // Renk geçiş eşiği de yeni vitese (36. odaya) uyarlandı aga:
+        if (sunRoom64 >= 0 && sunRoom64 <= 36) {
+            actualStatusEl.style.color = "#ffaa00";       
             actualStatusEl.style.fontWeight = "bold";
         } else {
-            actualStatusEl.style.color = "#00ffaa";       // Gecenin derin siber Yin yeşili
+            actualStatusEl.style.color = "#00ffaa";       
             actualStatusEl.style.fontWeight = "bold";
         }
     }
-} // <-- if (monaElement && salvadorElement) ana gövdesinin bittiği KUTSAL KAPANIŞ PARANTEZİ BURASI AGA!
-
+} // <-- ANA KOŞULUN TEK VE DOĞRU KUTSAL KAPANIŞI BURASI AGA!
 
     // 🛡️ REDECLARATION SAVUNMA KALKANI (SIFIR HATA)
     // Başlarındaki "const" ve "let" kelimelerini çöpe attık aga! 
@@ -2646,23 +2668,36 @@ function updateLilithCosmicDock() {
     if (isNaN(monaOpacity)) monaOpacity = 0.0;
     let darkMoonDominance = Math.round((1 - monaOpacity) * 100);
 
-    // =========================================================================
-    // 🌙 LUNISOLAR SABBATH SENKRONİZASYONU
+ // =========================================================================
+    // 🌙 LUNISOLAR SABBATH SENKRONİZASYONU [WICCA_MOON_FREEZE_FIX]
     // =========================================================================
     let moonLive = { percent: 0, name: "Waxing New Moon", icon: "🌑", age: "0.0", seleneProgress: 0, room: 40 };
     if (typeof calculateMetatronMoon === 'function') {
         const rawMoon = calculateMetatronMoon(activeDate);
         if (rawMoon) {
-            moonLive.percent        = Math.round((1 - Math.cos(rawMoon.seleneProgress * Math.PI * 2)) * 50);
-            moonLive.age            = rawMoon.age || "0.0";
-            moonLive.icon           = rawMoon.icon || rawMoon.moonSymbol || "🌙";
-            moonLive.name           = rawMoon.name || rawMoon.phaseName || "Hilal";
+            // İlerleme yüzdesini ve temel verileri emiyoruz:
             moonLive.seleneProgress = rawMoon.seleneProgress || 0;
-            // Canlı Ay odasını (0-63) canavar fonksiyondan çekiyoruz aga:
+            moonLive.percent        = Math.round((1 - Math.cos(moonLive.seleneProgress * Math.PI * 2)) * 50);
+            moonLive.age            = rawMoon.age || "0.0";
             moonLive.room           = typeof rawMoon.room !== 'undefined' ? rawMoon.room : 40;
+
+            // 🎯 ASILI KALMA TAMİRİ: rawMoon'dan gelen string bozuksa, seleneProgress oranına göre saf evreleri zorla tetikliyoruz aga!
+            let p = moonLive.seleneProgress;
+            if (p >= 0 && p < 0.03) { moonLive.name = "Yeni Ay"; moonLive.icon = "🌑"; }
+            else if (p >= 0.03 && p < 0.22) { moonLive.name = "Hilal (Waxing Crescent)"; moonLive.icon = "🌙"; }
+            else if (p >= 0.22 && p < 0.28) { moonLive.name = "İlk Dördün"; moonLive.icon = "🌓"; }
+            else if (p >= 0.28 && p < 0.47) { moonLive.name = "Şişkin Ay (Waxing Gibbous)"; moonLive.icon = "🌓"; }
+            else if (p >= 0.47 && p < 0.53) { moonLive.name = "Dolunay (Full Moon)"; moonLive.icon = "🌕"; }
+            else if (p >= 0.53 && p < 0.72) { moonLive.name = "Küçülen Şişkin Ay"; moonLive.icon = "🌖"; }
+            else if (p >= 0.72 && p < 0.78) { moonLive.name = "Son Dördün"; moonLive.icon = "🌗"; }
+            else { moonLive.name = "Eski Hilal (Waning Crescent)"; moonLive.icon = "🌘"; }
+            
+            // Eğer rawMoon içinden kararlı ve taze bir isim geliyorsa üstüne yazabilir:
+            if (rawMoon.phaseName && rawMoon.phaseName !== "Hilal" && rawMoon.phaseName !== "Waxing New Moon") {
+                moonLive.name = rawMoon.phaseName;
+            }
         }
     }
-
     // Bernoulli ve Windkessel Motoru İçin Ay Çekim Gücü Katsayısı (Dominance)
     const safeLunarDominance = Math.abs(Math.sin(moonLive.seleneProgress * Math.PI * 2));
 
