@@ -992,12 +992,12 @@ setInterval(() => {
         sunCircadianColor = '#f97316'; 
     }
   
-    // =========================================================================
+  // =========================================================================
     // ⚔️ FİZİKSEL 4 FIXED & 4 CARDINAL + NİHAİ CO-EXIST MOTORU [WICCA_METATRON_MASTER_FINAL]
     // =========================================================================
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         
-        // 🧭 [KUTSAL FİZİKSEL MATRİS]: Kapıları diziyoruz aga
+        // 🧭 [KUTSAL FİZİKSEL MATRİS]: Kapıları saat yönünde diziyoruz aga
         const gateMapping = [
             document.getElementById('gate-earth'), // 0. İndeks: MUTLAK FİZİKSEL SOL KAPI!
             document.getElementById('gate-ice'),   // 1. İndeks: MUTLAK FİZİKSEL SOL ÜST KÖŞE!
@@ -1035,8 +1035,11 @@ setInterval(() => {
         let northNodeRoomIndex = (sirkadiyenButonIndex + 2) % 8;
         let southNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
 
+        // 🎯 SİBER KALKAN: Diğer fonksiyonların ezmesini engellemek için global hafızaya mühürlüyoruz aga!
         window.currentNorthNodeIndex = northNodeRoomIndex;
         window.currentSouthNodeIndex = southNodeRoomIndex;
+        window.calculatedNorthNodeRoom = northNodeRoomIndex; 
+        window.calculatedSouthNodeRoom = southNodeRoomIndex;
 
         // 🎯 4. SELENE (BEYAZ AY) ENJEKTÖRÜ
         let seleneGate = null; 
@@ -1055,26 +1058,19 @@ setInterval(() => {
         let northNodeGate = gateMapping[northNodeRoomIndex];
         let southNodeGate = gateMapping[southNodeRoomIndex];
 
-   // =========================================================================
-        // 🛑 [BOARD_PANEL_SYNC] — PANELDEKİ TÜM METİNLERİ TAM SENKRONİZE AKITMA AGA!
-        // =========================================================================
-        const footerElements = document.querySelectorAll('div, span, p');
+        // 🛑 [BOARD_PANEL_SYNC] — HEM DOM ELEMENTLERİNİ DOĞRUDAN ZORLUYORUZ HEM DE ARKA PLANDA SÜREKLİ ENJEKTE EDİYORUZ:
+        const footerElements = document.querySelectorAll('div, span, p, .cosmic-status-bar');
         footerElements.forEach(el => {
-            if (el.childNodes.length === 1) {
-                // 1. Sol alt paneldeki "ROOM: [X/64]" alanını akıtır:
-                if (el.innerText.includes("ROOM:")) {
-                    el.innerHTML = el.innerHTML.replace(/ROOM:\s*\[\d+\/64\]/g, `ROOM: [${sunRoom64}/64]`);
-                }
-                
-                // 2. Sağ alt paneldeki "NORTH NODE: ROOM X" alanını milimetrik yakalayıp bağlar:
-                if (el.innerText.includes("NORTH NODE:")) {
-                    el.innerHTML = el.innerHTML.replace(/NORTH NODE:\s*ROOM\s*\d+/g, `NORTH NODE: ROOM ${northNodeRoomIndex}`);
-                }
-                
-                // 3. Sağ alt paneldeki "SOUTH NODE: ROOM X" alanı varsa onu da otomatik besler:
-                if (el.innerText.includes("SOUTH NODE:")) {
-                    el.innerHTML = el.innerHTML.replace(/SOUTH NODE:\s*ROOM\s*\d+/g, `SOUTH NODE: ROOM ${southNodeRoomIndex}`);
-                }
+            // Sadece alt bardaki çocuk düğümleri tarayıp yakalıyoruz:
+            if (el.innerText && (el.innerText.includes("ROOM:") || el.innerText.includes("NORTH NODE:"))) {
+                let txt = el.innerHTML;
+                // Donmuş ROOM yazısını güncel odayla değiştir:
+                txt = txt.replace(/ROOM:\s*\[\d+\/64\]/g, `ROOM: [${sunRoom64}/64]`);
+                // Donmuş NORTH NODE: ROOM 0 yazısını hesaplanan dinamik düğüm odasıyla değiştir aga:
+                txt = txt.replace(/NORTH NODE:\s*ROOM\s*\d+/g, `NORTH NODE: ROOM ${northNodeRoomIndex}`);
+                // Eğer varsa SOUTH NODE alanını da otomatik besle:
+                txt = txt.replace(/SOUTH NODE:\s*ROOM\s*\d+/g, `SOUTH NODE: ROOM ${southNodeRoomIndex}`);
+                el.innerHTML = txt;
             }
         });
 
@@ -1084,6 +1080,7 @@ setInterval(() => {
             gate.style.opacity = "0.2";
             gate.style.color = "#444444";
             gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
+            gate.style.boxShadow = "none";
         });
 
         // 🔮 NEON SEÇİCİ RENKLER
@@ -1108,6 +1105,7 @@ setInterval(() => {
             northNodeGate.style.boxShadow = "0 0 15px #a855f7";
             northNodeGate.style.fontWeight = "bold";
         }
+    
 
         // 💜 NORTH NODE (Rahu): Her zaman sarsılmaz KUTSAL MOR!
         if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
@@ -2741,19 +2739,31 @@ function updateLilithCosmicDock() {
         systemPhaseCode = "SYS_OMEGA_CLEANSE";
     }
 
- // Ay Düğümleri (North/South Node) Akışı vizör okuması:
-    // [WICCA FIX]: Bağımsız döngüden gelen global kilitli veriyi güvenle emiyoruz
-    let cosmicNodes = window.currentCosmicNodes || { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
+ // =========================================================================
+    // 🪐 AY DÜĞÜMLERİ (NORTH/SOUTH NODE) AKIŞI VİZÖR OKUMASI [WICCA_LIVE_NODE_FIX]
+    // =========================================================================
+    // Sirkadiyen oda endeksine göre pusuladaki ana kapıyı bulup (+2) ve (+6) offset haçlarını hesaplıyoruz:
+    let baseGateIndex = Math.min(Math.floor(currentRoom / 8), 7);
+    
+    // Kuzey Ay Düğümü (Rahu) her zaman Güneş'in 2 kapı ilerisindeki odadır:
+    let liveNorthNodeRoom = (baseGateIndex + 2) % 8;
+    // Güney Ay Düğümü (Ketu) onun tam 180 derece (4 kapı) karşısındaki kutup odasıdır:
+    let liveSouthNodeRoom = (liveNorthNodeRoom + 4) % 8;
+
+    // Derece hesabı: Her kapı ekseni pusulada tam 45 dereceye (360 / 8) tekabül eder aga!
+    let liveNorthDeg = liveNorthNodeRoom * 45;
+    let liveSouthDeg = liveSouthNodeRoom * 45;
+
+    // Global state takibini de siber kalkanla besliyoruz:
+    window.currentNorthNodeIndex = liveNorthNodeRoom;
+    window.currentSouthNodeIndex = liveSouthNodeRoom;
 
     // =========================================================================
     // 🔮 SAF MEVSİM HUD MOTORU — EZİLMEZ METİN KALKANI [WICCA_HUD_FINAL_OK]
     // =========================================================================
-    // 🛡️ Üst döngülerdeki eski 'YANG(YAZ/BAHAR)' kalıntılarını kökten temizlemek için 
-    // zaman makinesinin (now) canlı milisaniyesine göre saf kelimeleri burada zorla mühürlüyoruz aga!
     const nowZ = new Date(now);
     const currentYear = nowZ.getFullYear();
 
-    // 2026 yılı için astronomik ekinoks ve gündönümü sınır millerini kilitliyoruz:
     const equinox21Mar = new Date(`${currentYear}-03-21T00:00:00`);
     const solstice21Jun = new Date(`${currentYear}-06-21T00:00:00`);
     const equinox23Sep = new Date(`${currentYear}-09-23T00:05:00`);
@@ -2768,7 +2778,6 @@ function updateLilithCosmicDock() {
     } else if (nowZ >= equinox21Mar && nowZ < solstice21Jun) {
         nhPureText = "KUZEY: İLKBAHAR"; shPureText = "GÜNEY: SONBAHAR"; currentWaveVal = 0.5;
     } else if (nowZ >= solstice21Jun && nowZ < equinox23Sep) {
-        // 🔥 ŞU AN TAM OLARAK BURADAYIZ AGA! (20 Eylül - Ekinoksa 3 gün var!)
         nhPureText = "KUZEY: YAZ";
         shPureText = "GÜNEY: KIŞ";
         currentWaveVal = 1.0;
@@ -2778,16 +2787,14 @@ function updateLilithCosmicDock() {
         currentWaveVal = -0.5;
     }
 
-    // 🎨 Senin mühürlediğin o asil renk spektrumu:
-    let nhDotColor = "#ff5e00"; // Kuzey Yaz: Turuncu 🔥
-    let shDotColor = "#00e5ff"; // Güney Kış: Mavi ❄️
+    let nhDotColor = "#ff5e00"; 
+    let shDotColor = "#00e5ff"; 
 
-    if (nhPureText.includes("SONBAHAR")) nhDotColor = "#00ffaa"; // Sonbahar: Yeşil
-    if (nhPureText.includes("İLKBAHAR")) nhDotColor = "#ff4444"; // İlkbahar: Kırmızı
+    if (nhPureText.includes("SONBAHAR")) nhDotColor = "#00ffaa"; 
+    if (nhPureText.includes("İLKBAHAR")) nhDotColor = "#ff4444"; 
     if (shPureText.includes("İLKBAHAR")) shDotColor = "#ff4444"; 
     if (shPureText.includes("SONBAHAR")) shDotColor = "#00ffaa"; 
 
-    // ⏱️ Ekinoksa kalan canlı gün mesafesi:
     let msDiff = equinox23Sep.getTime() - nowZ.getTime();
     let daysToEquinox = msDiff / (1000 * 60 * 60 * 24);
     
@@ -2799,7 +2806,6 @@ function updateLilithCosmicDock() {
         paralelText = `PARALEL: %${ekinoksParallelPercent.toFixed(1)}`;
     }
 
-    // [HUD_GLYPH_PLACEMENT]: Üstteki tüm kirli değişkenleri çöpe attık, doğrudan temiz kelimeleri basıyoruz!
     formulaElement.innerHTML = 
         `CSF VELOCITY: ${flowVelocity.toFixed(4)} m/s | ` +
         `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
@@ -2809,11 +2815,14 @@ function updateLilithCosmicDock() {
         `<span style="color: ${shDotColor}; filter: drop-shadow(0 0 5px ${shDotColor}); font-size: 16px; vertical-align: middle;">●</span> <span style="color: #e2e8f0; font-family: monospace; font-size: 11px; vertical-align: middle;">[ ${shPureText} ]</span> ` + 
         `<span style="color: #444; margin: 0 8px; vertical-align: middle;">|</span> <span style="color: #888; font-family: monospace; font-size: 11px; vertical-align: middle;">${paralelText}</span>`;
 
+    // =========================================================================
+    // 🩻 NİHAİ CANLI PANEL ENJEKSİYONU — ARTIK ASLA DONMAZ AGA!
+    // =========================================================================
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
         statusBar.innerHTML = 
             `● YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonLive.seleneProgress * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s\n` +
-            `● NORTH NODE: Room ${cosmicNodes.northRoom} (${cosmicNodes.northDeg}°) ──> ● SOUTH NODE: Room ${cosmicNodes.southRoom} (${cosmicNodes.southDeg}?)`;
+            `● NORTH NODE: Room ${liveNorthNodeRoom} (${liveNorthDeg}°) ──> ● SOUTH NODE: Room ${liveSouthNodeRoom} (${liveSouthDeg}°)`;
     }
 } // <-- updateLilithCosmicDock fonksiyonunun asıl mühürlü ana parantez kapanış çizgisi burası aga!
 
