@@ -832,6 +832,79 @@ setInterval(() => {
     window.currentCalculatedRoom = sunRoom64;
     */
 
+
+           // =========================================================================
+        // 🌍 ASTRONOMİK CANLI EKİNOKS & GÜNDÖNÜMÜ HESAPLAYICI [ASTRONOMICAL_GEAR]
+        // =========================================================================
+        const nowZ = new Date(now);
+        const currentYear = nowZ.getFullYear();
+
+        // J2000 referans yılına göre ekinoksların düz ortalama kayma döngü matrisi aga:
+        // Yılın 365.2422 gün çeken tropik yıl kaymasını diferansiyel olarak buluyoruz
+        const Y = (currentYear - 2000) / 1000;
+
+        // 🎯 1. MİLİMETRİK İLKBAHAR EKİNOKSU (Güneş Boylamı = 0°) -> Genelde 20-21 Mart
+        let jded21Mar = 2451623.80984 + (365242.37404 * Y) + (0.05169 * Y * Y);
+        // JD (Julian Date) değerini standart milisaniyeye çeviren siber kalkan:
+        const equinox21Mar = new Date((jded21Mar - 2440587.5) * 86400000);
+
+        // 🎯 2. MİLİMETRİK YAZ GÜNDÖNÜMÜ (Güneş Boylamı = 90°) -> Genelde 20-21 Haziran
+        let jded21Jun = 2451716.56767 + (365241.72619 * Y) + (0.0083 * Y * Y);
+        const solstice21Jun = new Date((jded21Jun - 2440587.5) * 86400000);
+
+        // 🎯 3. MİLİMETRİK SONBAHAR EKİNOKSU (Güneş Boylamı = 180°) -> Genelde 22-23 Eylül
+        // [WICCA_TRUE_EQUINOX]: 2026 yılı için bu hesap otomatik olarak tam 23 Eylül saat 00:05'i bulur aga!
+        let jded23Sep = 2451810.21715 + (365242.01767 * Y) + (-0.1157 * Y * Y);
+        const equinox23Sep = new Date((jded23Sep - 2440587.5) * 86400000);
+
+        // 🎯 4. MİLİMETRİK KIŞ GÜNDÖNÜMÜ (Güneş Boylamı = 270°) -> Genelde 21-22 Aralık
+        let jded21Dec = 2451900.05952 + (365242.74049 * Y) + (-0.06223 * Y * Y);
+        const solstice21Dec = new Date((jded21Dec - 2440587.5) * 86400000);
+
+ // =========================================================================
+        // 🌍 ÇİFT AKSLI NET TEK KELİME MEVSİM MOTORU [WICCA_PURE_TEXT_GEAR]
+        // =========================================================================
+        let nhSeasonText = "";
+        let shSeasonText = "";
+        let currentWaveVal = 0;
+
+        // 🧬 [TIMELINE MATRIX]: Sadece net ve tek kelime mevsimleri basıyoruz aga!
+        if (nowZ < equinox21Mar || nowZ >= solstice21Dec) {
+            nhSeasonText = "KUZEY: KIŞ"; 
+            shSeasonText = "GÜNEY: YAZ"; 
+            currentWaveVal = -1.0;
+        } else if (nowZ >= equinox21Mar && nowZ < solstice21Jun) {
+            nhSeasonText = "KUZEY: İLKBAHAR"; 
+            shSeasonText = "GÜNEY: SONBAHAR"; 
+            currentWaveVal = 0.5;
+        } else if (nowZ >= solstice21Jun && nowZ < equinox23Sep) {
+            // 🔥 ŞU AN TAM OLARAK BU SATH-I MÜDAFAADAYIZ AGA! (20 Eylül)
+            nhSeasonText = "KUZEY: YAZ"; 
+            shSeasonText = "GÜNEY: KIŞ"; 
+            currentWaveVal = 1.0;
+        } else if (nowZ >= equinox23Sep && nowZ < solstice21Dec) {
+            // 🍁 23 EYLÜL GELDİĞİ AN OTOMATİK BURASI TETİKLENECEK
+            nhSeasonText = "KUZEY: SONBAHAR"; 
+            shSeasonText = "GÜNEY: İLKBAHAR"; 
+            currentWaveVal = -0.5;
+        }
+
+        window.currentNHSeasonState = nhSeasonText;
+        window.currentSHSeasonState = shSeasonText;
+        window.nhSeasonWave = currentWaveVal;
+
+        window.currentNHSeasonState = nhSeasonText;
+        window.currentSHSeasonState = shSeasonText;
+        window.nhSeasonWave = currentWaveVal;
+
+        // 4 Elementin Mevsimsel Şarj Katsayıları
+        let wiccaSeasonalInfluences = {
+            "gate-fire":  (nhSeasonText.includes("YAZ") || shSeasonText.includes("YAZ")) ? 1.4 : 1.0,
+            "gate-light": (nhSeasonText.includes("BAHAR") || shSeasonText.includes("BAHAR")) ? 1.3 : 1.0,
+            "gate-water": (nhSeasonText.includes("SONBAHAR") || shSeasonText.includes("SONBAHAR")) ? 1.4 : 1.0,
+            "gate-ice":   (nhSeasonText.includes("KIŞ") || shSeasonText.includes("KIŞ")) ? 1.5 : 1.0
+        };
+
      // =========================================================================
     // 🎛️ PAKUA SIRKADİYEN BAGUA ZAMAN GENLEŞMESİ (DYNAMIC DILATION) [WICCA_GEAR_OK]
     // =========================================================================
@@ -842,14 +915,23 @@ setInterval(() => {
     let progressInPhase = 0; 
     if (isYang) {
         // Gündüz İlerlemesi (Gündoğumundan Günbatımına: 0.0 - 1.0)
-        progressInPhase = (currentHourRaw - solar.sunrise) / solar.dayLength;
+        let rawYangProgress = (currentHourRaw - solar.sunrise) / solar.dayLength;
+        
+        // ☀️ [WICCA_AFTERNOON_DILATION]: Güneş'in ikindi vaktinde (progress 0.7 - 0.85 arası) 
+        // erkenden batış kapısına koşup batmasını engellemek için zamanı asenkron büküyoruz aga!
+        // Sinüs dalgası öğleden sonra diferansiyeli yavaşlatarak Güneş'i sağ üst köşede asılı tutar ve geç batırır:
+        progressInPhase = rawYangProgress - (0.095 * Math.sin(rawYangProgress * Math.PI * 1.5));
     } else {
-        // Gece İlerlemesi (Günbatımından sonraki Gündoğumuna: 0.0 - 1.0)
-        let timeSinceSunset = (currentHourRaw >= solar.sunset) ? (currentHourRaw - solar.sunset) : ((24 - solar.sunset) + currentHourRaw);
-        progressInPhase = timeSinceSunset / (24 - solar.dayLength);
+        // 🌌 [WICCA_TRUE_MIDNIGHT_FIX]: Gece yarısı saat 2 ve 3'te sabaha fırlamayı engelleme kalkanı
+        let referenceHour = currentHourRaw;
+        if (referenceHour < solar.sunrise) {
+            progressInPhase = 0.35 + (referenceHour / (solar.sunrise * 2)); 
+        } else {
+            progressInPhase = ((referenceHour - solar.sunset) / (24 - solar.sunset)) * 0.35;
+        }
     }
 
-    // 2. [BAGUA DILATION MOTORU]: Tam Kardinal Noktalarda (Tam Öğle: progress=0.5 ve Tam Gece Yarısı: progress=0.5)
+    // 2. [BAGUA DILATION MOTORU]: Tam Kardinal Noktalarda (Tam Öğle ve Tam Gece Yarısı)
     // Zamanı büküyoruz. Kübik sinüs fraktalı sayesinde, tam ortalarda oda akış hızı neredeyse duracak, 
     // en aşağı 1 saat boyunca odayı tepede/dipte asılı tutacak ama gün ritmini (Güneş sınırlarını) asla bozmayacak aga!
     let dilatedProgressInPhase = progressInPhase - (0.075 * Math.sin(progressInPhase * Math.PI * 2));
@@ -860,10 +942,13 @@ setInterval(() => {
     // 3. Bükülmüş İlerlemeyi 32'şer Odalık Pakua Dilimlerine Dönüştürüyoruz
     let sunRoom64 = 0;
     if (isYang) {
-        // Gündüz Fazı: 0 - 31. odalar. Tam 12 PM (Öğle Zirvesi) tam ortadaki odalarda (15-16. odalarda) asılı kalır!
+        // 🔥 Gündüz Fazı: 0 - 31. odalar. 
+        // İkindi bükülmesi sayesinde Güneş öğleden sonra erkenden aşağı kaçmayacak, 
+        // sağ üst kadrandaki yerinde asilce parlamaya devam ederek geç batacak aga!
         sunRoom64 = Math.min(Math.floor(dilatedProgressInPhase * 32), 31);
     } else {
-        // Gece Fazı: 32 - 63. odalar. Tam 12 AM (Gece Yarısı) tam ortadaki odalarda (47-48. odalarda) asılı kalır!
+        // 💧 Gece Fazı: 32 - 63. odalar. 
+        // Gece yarısı koruması aktif: Saat 03:15'te oda 53-54 yatağında güvenle kilitli kalır aga!
         sunRoom64 = Math.min(Math.max(32 + Math.floor(dilatedProgressInPhase * 32), 32), 63);
     }
 
@@ -871,15 +956,9 @@ setInterval(() => {
     window.currentCalculatedRoom = sunRoom64;
     const currentHour = currentHourRaw; // Orijinal saat referansını koruyoruz
 
-    //let sunRoom64 = isYang ? Math. min( Math. floor((( currentHour - solar. sunrise) / solar. dayLength) * 32), 31) : Math. min( Math. max( 32 + Math. floor(((( currentHour >= solar. sunset) ? ( currentHour - solar. sunset) : (( 24 - solar. sunset) + currentHour)) / ( 24 - solar. dayLength)) * 32), 0), 63);
-    
-    // [WICCA CODESEC UPDATE] Butonların anlık odayı görebilmesi için global takibe alıyoruz aga:
-    //window.currentCalculatedRoom = sunRoom64;
-
     let currentSunHexagram = iching64[sunRoom64];
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
-
 
 
   // =========================================================================
@@ -1001,6 +1080,8 @@ setInterval(() => {
             cosmicNodes = calculateCosmicNodes(now); // activeDateObj çöpe fırlatıldı, artık saf ve canlı 'now' bağlı!
         }
 
+          // [CRITICAL WICCA FIX]: Dışarıdaki Dock fonksiyonu okuyabilsin diye pencerelere mühürlüyoruz aga!
+        window.currentCosmicNodes = cosmicNodes;
        // =========================================================================
         // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA — MOR & SARI YIN-YANG AKSI [WICCA_NODES_YIN_YANG]
         // =========================================================================
@@ -1048,6 +1129,9 @@ setInterval(() => {
             }
         
         }
+
+
+   
         // =========================================================================
         // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (Kusursuz Kapanış)
         // =========================================================================
@@ -1059,13 +1143,17 @@ setInterval(() => {
 
             // 🛡️ [MUTLAK FİLTRE KALKANI]: Gezegen güçlerinin düğüm parlamalarını loşlaştırması engellendi!
             if (currentInfluences[gateId] && gate !== sunGate && gate !== moonGate && gate !== seleneGate && gate !== northNodeGate && gate !== southNodeGate) {
-                const multiplier = currentInfluences[gateId]; 
+                let planetMultiplier = currentInfluences[gateId]; 
+                
+                // 🌟 [WICCA_MEVSİM_ENJEKSİYONU]: Çift akslı ekinoks çarpanını gezegen gücüyle asenkron çarpıyoruz aga!
+                let seasonMultiplier = wiccaSeasonalInfluences[gateId] || 1.0;
+                let finalMultiplier = planetMultiplier * seasonMultiplier;
                 
                 let currentOpacity = parseFloat(gate.style.opacity || 0.2);
-                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
+                let newOpacity = Math.min(1.0, currentOpacity * finalMultiplier);
                 
                 gate.style.opacity = newOpacity.toString();
-                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
+                gate.style.filter = `drop-shadow(0 0 ${12 * finalMultiplier}px ${sunCircadianColor})`;
                 gate.style.fontWeight = "bold";
                 gate.style.transition = "all 0.6s ease-in-out"; 
             }
@@ -2427,6 +2515,8 @@ function syncLilithEngine() {
     const phasePercentage = moonAge / 29.530588853;
     const lunarDominance = Math.abs(Math.sin(phasePercentage * Math.PI * 2)); // Gel-git / kütleçekim aksı
 
+
+    /*
     // 6. Mevsimsel Katsayı Dinamiği
     const currentMonth = activeDate.getMonth();
     let seasonalMultiplier = 1.0;
@@ -2435,6 +2525,34 @@ function syncLilithEngine() {
     } else if (currentMonth >= 5 && currentMonth <= 7) {
         seasonalMultiplier = 0.7; // Yaz: Yang ivmelenmesi
     }
+*/
+
+ // =========================================================================
+    // 🌍 ÇİFT AKSLI ASENKRON MEVSİM VE EKİNOKS MOTORU [DOUBLE_AXIS_GEAR]
+    // =========================================================================
+    // 1. Yılın lineer ilerleme oranını gün bazında buluyoruz (0.0 - 1.0)
+    // 23 Eylül Ekinoksu tam olarak yılın ~266. gününe denk gelir aga!
+    const startOfYear = new Date(now.getFullYear(), 0, 1);
+    const daysPassed = Math.floor((now - startOfYear) / (1000 * 60 * 60 * 24));
+    const yearlyProgress = daysPassed / 365.25;
+
+    // 2. [EKİNOKS BÜKÜMÜ]: Sinüs dalgasıyla mevsimsel manyetik kutup dalgalanmasını hesaplıyoruz.
+    // nhSeason (Kuzey) ve shSeason (Güney) birbirine tam 180 derece karşıt (Muhalif) aks çizer:
+    let nhSeasonWave = Math.sin((yearlyProgress - 0.22) * Math.PI * 2); // -1.0 (Kış Zirvesi) ile +1.0 (Yaz Zirvesi) arası
+    let shSeasonWave = -nhSeasonWave; // Güney yarımküre tam zıttı aga!
+
+    // 3. 4 Elementin Mevsimsel Şarj Katsayılarını Çift Aksa Göre Dinamikliyoruz:
+    let wiccaSeasonalInfluences = {
+        "gate-fire":  1.0 + (shSeasonWave > 0 ? shSeasonWave * 0.4 : 0), // Güney yaza girdikçe Ateş harlanır!
+        "gate-light": 1.0 + (shSeasonWave > 0 ? shSeasonWave * 0.3 : 0), 
+        "gate-water": 1.0 + (nhSeasonWave < 0 ? Math.abs(nhSeasonWave) * 0.4 : 0), // Kuzey kışa girdikçe Su derinleşir!
+        "gate-ice":   1.0 + (nhSeasonWave < 0 ? Math.abs(nhSeasonWave) * 0.5 : 0)  
+    };
+
+    // Global vizör takibi için pencerelere mühürle, siber sistemler okusun:
+    window.currentNHSeasonState = nhSeasonWave >= 0 ? "KUZEY: YANG (YAZ/BAHAR)" : "KUZEY: YIN (SONBAHAR/KIŞ)";
+    window.currentSHSeasonState = shSeasonWave >= 0 ? "GÜNEY: YANG (YAZ/BAHAR)" : "GÜNEY: YIN (SONBAHAR/KIŞ)";
+
 
  // 7. Biyolojik CSF Akış ve Sarkaç Matematiği (Float Hata Kalkanlı Yapı)
     const pendulumAngle = (currentRoom * 5.625) * (Math.PI / 180);
@@ -2629,23 +2747,83 @@ function updateLilithCosmicDock() {
         systemPhaseCode = "SYS_OMEGA_CLEANSE";
     }
 
-
+ // Ay Düğümleri (North/South Node) Akışı vizör okuması:
+    // [WICCA FIX]: Bağımsız döngüden gelen global kilitli veriyi güvenle emiyoruz
+    let cosmicNodes = window.currentCosmicNodes || { northRoom: 0, southRoom: 32, northDeg: "0", southDeg: "180" };
 
     // =========================================================================
-    // 💥 DOM ENJEKSİYONU | ⏱️ ${liveSeconds}s`
+    // 🔮 SAF MEVSİM HUD MOTORU — EZİLMEZ METİN KALKANI [WICCA_HUD_FINAL_OK]
     // =========================================================================
-    titleElement.innerHTML = `LILITH: MATRİS AKTİF [${systemPhaseCode}] 🫀 P: ${window.wiccaEnginePulseCount}`;
-    descElement.innerHTML = `${internalAxisState}<br>` + 
-                            `${moonLive.icon} FAZ: ${moonLive.name} (%${moonLive.percent}) | AY YAŞI: ${moonLive.age} Gün | Yin: %${darkMoonDominance}`;
+    // 🛡️ Üst döngülerdeki eski 'YANG(YAZ/BAHAR)' kalıntılarını kökten temizlemek için 
+    // zaman makinesinin (now) canlı milisaniyesine göre saf kelimeleri burada zorla mühürlüyoruz aga!
+    const nowZ = new Date(now);
+    const currentYear = nowZ.getFullYear();
+
+    // 2026 yılı için astronomik ekinoks ve gündönümü sınır millerini kilitliyoruz:
+    const equinox21Mar = new Date(`${currentYear}-03-21T00:00:00`);
+    const solstice21Jun = new Date(`${currentYear}-06-21T00:00:00`);
+    const equinox23Sep = new Date(`${currentYear}-09-23T00:05:00`);
+    const solstice21Dec = new Date(`${currentYear}-12-21T00:00:00`);
+
+    let nhPureText = "KUZEY: YAZ";
+    let shPureText = "GÜNEY: KIŞ";
+    let currentWaveVal = 1.0;
+
+    if (nowZ < equinox21Mar || nowZ >= solstice21Dec) {
+        nhPureText = "KUZEY: KIŞ"; shPureText = "GÜNEY: YAZ"; currentWaveVal = -1.0;
+    } else if (nowZ >= equinox21Mar && nowZ < solstice21Jun) {
+        nhPureText = "KUZEY: İLKBAHAR"; shPureText = "GÜNEY: SONBAHAR"; currentWaveVal = 0.5;
+    } else if (nowZ >= solstice21Jun && nowZ < equinox23Sep) {
+        // 🔥 ŞU AN TAM OLARAK BURADAYIZ AGA! (20 Eylül - Ekinoksa 3 gün var!)
+        nhPureText = "KUZEY: YAZ";
+        shPureText = "GÜNEY: KIŞ";
+        currentWaveVal = 1.0;
+    } else if (nowZ >= equinox23Sep && nowZ < solstice21Dec) {
+        nhPureText = "KUZEY: SONBAHAR";
+        shPureText = "GÜNEY: İLKBAHAR";
+        currentWaveVal = -0.5;
+    }
+
+    // 🎨 Senin mühürlediğin o asil renk spektrumu:
+    let nhDotColor = "#ff5e00"; // Kuzey Yaz: Turuncu 🔥
+    let shDotColor = "#00e5ff"; // Güney Kış: Mavi ❄️
+
+    if (nhPureText.includes("SONBAHAR")) nhDotColor = "#00ffaa"; // Sonbahar: Yeşil
+    if (nhPureText.includes("İLKBAHAR")) nhDotColor = "#ff4444"; // İlkbahar: Kırmızı
+    if (shPureText.includes("İLKBAHAR")) shDotColor = "#ff4444"; 
+    if (shPureText.includes("SONBAHAR")) shDotColor = "#00ffaa"; 
+
+    // ⏱️ Ekinoksa kalan canlı gün mesafesi:
+    let msDiff = equinox23Sep.getTime() - nowZ.getTime();
+    let daysToEquinox = msDiff / (1000 * 60 * 60 * 24);
     
-    formulaElement.innerHTML = `CSF VELOCITY: ${flowVelocity.toFixed(4)} m/s | ` +
-                               `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
-                               `RESONANCE: ${finalHzOutput.toFixed(2)} Hz`;
+    let paralelText = "";
+    if (daysToEquinox > 0) {
+        paralelText = `EKİNOKSA: ${daysToEquinox.toFixed(1)} GÜN`;
+    } else {
+        let ekinoksParallelPercent = (1 - Math.abs(currentWaveVal === -0.5 ? 0 : currentWaveVal)) * 100;
+        paralelText = `PARALEL: %${ekinoksParallelPercent.toFixed(1)}`;
+    }
+
+    // [HUD_GLYPH_PLACEMENT]: Üstteki tüm kirli değişkenleri çöpe attık, doğrudan temiz kelimeleri basıyoruz!
+    formulaElement.innerHTML = 
+        `CSF VELOCITY: ${flowVelocity.toFixed(4)} m/s | ` +
+        `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
+        `RESONANCE: ${finalHzOutput.toFixed(2)} Hz<br>` +
+        `<span style="color: ${nhDotColor}; filter: drop-shadow(0 0 5px ${nhDotColor}); font-size: 16px; vertical-align: middle;">●</span> <span style="color: #e2e8f0; font-family: monospace; font-size: 11px; vertical-align: middle;">[ ${nhPureText} ]</span> ` + 
+        `<span style="color: #444; margin: 0 6px; vertical-align: middle;">⇄</span> ` +
+        `<span style="color: ${shDotColor}; filter: drop-shadow(0 0 5px ${shDotColor}); font-size: 16px; vertical-align: middle;">●</span> <span style="color: #e2e8f0; font-family: monospace; font-size: 11px; vertical-align: middle;">[ ${shPureText} ]</span> ` + 
+        `<span style="color: #444; margin: 0 8px; vertical-align: middle;">|</span> <span style="color: #888; font-family: monospace; font-size: 11px; vertical-align: middle;">${paralelText}</span>`;
 
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
-        statusBar.innerHTML = `● YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonLive.seleneProgress * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s 
-        ● NORTH NODE: Room ${cosmicNodes.northRoom} (${cosmicNodes.northDeg}°) ──> ● SOUTH NODE: Room ${cosmicNodes.southRoom} (${cosmicNodes.southDeg}°)`;}}
+        statusBar.innerHTML = 
+            `● YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonLive.seleneProgress * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s\n` +
+            `● NORTH NODE: Room ${cosmicNodes.northRoom} (${cosmicNodes.northDeg}°) ──> ● SOUTH NODE: Room ${cosmicNodes.southRoom} (${cosmicNodes.southDeg}?)`;
+    }
+} // <-- updateLilithCosmicDock fonksiyonunun asıl mühürlü ana parantez kapanış çizgisi burası aga!
+
+
 
 
 // =========================================================================
