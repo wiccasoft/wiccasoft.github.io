@@ -1028,24 +1028,24 @@ setInterval(() => {
 
 
         // =========================================================================
-        // ☀️ 1. GÜNEŞ KAPISI SEÇİMİ [WICCA_OUROBOROS_AXIS_ENGINE]
+        // ☀️ 1. GÜNEŞ KAPISI SEÇİMİ [WICCA_OUROBOROS_AXIS_ENGINE_FINAL]
         // =========================================================================
         let sirkadiyenButonIndex = 0;
 
         if (!window.isTimeBended) {
-            // 🧭 [EZOTERİK ZAMAN MİLLERİ]: Odaları senin verdiğin mutlak sirkadiyen kırılımlara kelepçeliyoruz aga!
+            // 🧭 [MÜHÜRLÜ ARDIŞIK ZAMAN MİLLERİ]: Çakışmaları ve arafta kalan odaları kökten infaz ediyoruz aga!
             if (safeActiveRoom >= 56 || safeActiveRoom <= 5) {
                 sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
             } else if (safeActiveRoom >= 6 && safeActiveRoom <= 10) {
-                sirkadiyenButonIndex = 1; // ❄️ Room 6-9 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
+                sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
             } else if (safeActiveRoom >= 11 && safeActiveRoom <= 19) {
-                sirkadiyenButonIndex = 2; // 🔥 Room 10-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
-            } else if (safeActiveRoom >= 20 && safeActiveRoom <= 32) {
-                sirkadiyenButonIndex = 3; // 🟡 Room 20-23 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
-            } else if (safeActiveRoom >= 32 && safeActiveRoom <= 36) {
-                sirkadiyenButonIndex = 4; // 🍊 Room 24-35 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-            } else if (safeActiveRoom >= 37 && safeActiveRoom <= 40) {
-                sirkadiyenButonIndex = 5; // 🌌 Room 36-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
+                sirkadiyenButonIndex = 2; // 🔥 Room 11-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
+            } else if (safeActiveRoom >= 20 && safeActiveRoom <= 31) {
+                sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
+            } else if (safeActiveRoom >= 32 && safeActiveRoom <= 39) {
+                sirkadiyenButonIndex = 4; // 🍊 Room 32-36 -> AKŞAM BATIŞ KAPISI! (.air-gate)
+            } else if (safeActiveRoom >= 39 && safeActiveRoom <= 40) {
+                sirkadiyenButonIndex = 5; // 🌌 Room 37-40 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
             } else if (safeActiveRoom >= 41 && safeActiveRoom <= 50) {
                 sirkadiyenButonIndex = 6; // 💧 Room 41-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
             } else {
@@ -1054,7 +1054,6 @@ setInterval(() => {
         } else {
             sirkadiyenButonIndex = Math.min(Math.floor(safeActiveRoom / 8), 7);
         }
-
         isSleepMatrixInverse = false;
         isSleepMatrixInverse = false; 
 
@@ -1238,9 +1237,9 @@ if (monaElement && salvadorElement) {
         dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
     }
     // 2. VİTES [24 - 48. ODALAR]: İkindi'den Akşama Geçiş Motoru (ARALIK BURASI AGA)
-    else if (sunRoom64 >= 24 && sunRoom64 <= 48) {
+    else if (sunRoom64 >= 24 && sunRoom64 <= 39) {
         // İlerleme eğrisi tam olarak 24. odada 0'dan başlar, 48'de 1 olur
-        let progress = (sunRoom64 - 24) / (48 - 24);
+        let progress = (sunRoom64 - 24) / (39 - 24);
         
         // Geçiş başladıkça Mona azalır, Salvador yüzeye süzülür
         targetMonaOpacity = 1 - progress;      
@@ -1253,7 +1252,7 @@ if (monaElement && salvadorElement) {
         salvadorElement.style.setProperty('transition', 'none', 'important');
     }
     // 3. VİTES [49 - 56. ODALAR]: Gün Batımı ve Gece Başlangıcı
-    else if (sunRoom64 >= 49 && sunRoom64 <= 56) {
+    else if (sunRoom64 >= 44 && sunRoom64 <= 56) {
         targetMonaOpacity = 0.0; 
         targetSalvadorOpacity = 1.0;           
         pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
