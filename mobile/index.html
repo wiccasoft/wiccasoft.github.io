@@ -330,7 +330,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     position: absolute;
     width: 420px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
     height: auto !important;
-    top: 41.5% !important;
+    top: 41.7% !important;
     left: 48.3% !important;
     transform: translate(-50%, -50%) scale(0.7) !important;
     z-index: 1;
@@ -340,7 +340,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 470px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 48.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    top: 48.0% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
     left: 52% !important;
     transform: translate(-50%, -50%)scale(0.9) !important;
     
@@ -1082,26 +1082,30 @@ setInterval(() => {
 
           // [CRITICAL WICCA FIX]: Dışarıdaki Dock fonksiyonu okuyabilsin diye pencerelere mühürlüyoruz aga!
         window.currentCosmicNodes = cosmicNodes;
-       // =========================================================================
-        // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA — MOR & SARI YIN-YANG AKSI [WICCA_NODES_YIN_YANG]
+ // =========================================================================
+        // 🪐 AY DÜĞÜMLERİ OMURGA AYNALAMA — ZAMAN BÜKÜMÜNE DUYARLI DİNAMİK AKS
         // =========================================================================
         if (cosmicNodes) {
             let northNodeRoomIndex = Math.floor(cosmicNodes.northRoom / 8) % 8;
             let southNodeRoomIndex = Math.floor(cosmicNodes.southRoom / 8) % 8;
 
-            if (isSleepMatrixInverse) {
-                northNodeRoomIndex = (8 - northNodeRoomIndex) % 8;
-                southNodeRoomIndex = (8 - southNodeRoomIndex) % 8;
+            // [WICCA_NODE_SHIFT_FIX]: Zaman makinesiyle oynandığında düğümlerin pusulada sabit 
+            // kalıp geometruyi bozmasını engellemek için, bükülen oda farkını (offset) düğümlere enjekte et aga!
+            if (window.isTimeBended) {
+                let roomOffset = Math.floor((activeRoom - 54) / 4); // 54 referansına göre bükülme adımı
+                northNodeRoomIndex = (northNodeRoomIndex + roomOffset + 8) % 8;
+                southNodeRoomIndex = (southNodeRoomIndex + roomOffset + 8) % 8;
+            } else {
+                // Canlı akışta saf sirkadiyen dairesel shift devam eder:
+                northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
+                southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
             }
-
-            northNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
-            southNodeRoomIndex = (southNodeRoomIndex + 4) % 8;
 
             window.currentNorthNodeIndex = northNodeRoomIndex;
             window.currentSouthNodeIndex = southNodeRoomIndex;
 
-            let northNodeGate = gateMapping[northNodeRoomIndex];
-            let southNodeGate = gateMapping[southNodeRoomIndex];
+            northNodeGate = gateMapping[northNodeRoomIndex];
+            southNodeGate = gateMapping[southNodeRoomIndex];
 
             // 🌟 NORTH NODE: Kutsal Mor (Yin Ruhsal Derinlik — Rahu Aksı)
             if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate && northNodeGate !== seleneGate) {
@@ -3227,9 +3231,9 @@ function getDynamicCosmicAge(date) {
 // 🎛️ WICCA OS: 79 & 790 YILLIK MAKRO ÇAĞ ATLATICI MODÜLÜ
 // =========================================================================
 
-// 🛡️ Global Değişken Kalkanları
+// 🛡️ Global Değişken Kalkanları — AÇILIŞ MODU MUTLAK 'SAAT' (ODA) VİTESİNE KİLİTLENDİ AGA!
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-if (typeof window.wiccaActiveMode === 'undefined') { window.wiccaActiveMode = 'AY'; } 
+if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'SAAT'; } // Ay çöpe atıldı, artık saf ODA bağlı!
 
 // =========================================================================
 // 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR)
@@ -3239,22 +3243,23 @@ window.bendWiccaTime = function(direction) {
     window.isTimeBended = true; 
     
     let offsetMs = 0;
-    // En taze zaman damgasını alıyoruz aga:
-    const baseDate = (typeof window.now !== 'undefined' && window.now) ? window.now : new Date();
+    // [WICCA_ANCHOR_FIX]: Katlanarak çıldırmayı önlemek için her basışta taze zamanı referans alıyoruz aga:
+    const baseDate = new Date();
 
     // Panel üst satırında seçtiğin o aktif siber vites moduna göre sıçrama çarpanı:
     switch(window.wiccaTimeMode) {
         case 'SAAT': 
-            // ⏰ SAAT VİTESİ: Zamanı 15 dakikalık (Sirkadiyen Çeyrek Oda) adımlarla bük aga
-            offsetMs = 220 * 60 * 1000; 
+            // ⏰ [ODA VİTESİ KİLİDİ]: Zamanı tam 1 Sirkadiyen Oda (22.5 dakika) adımlarla pürüzsüz bük aga!
+            // 220 çarpanı temizlendi, kuantum mikro vites mühürlendi:
+              offsetMs = 4 * (22.5 * 60 * 1000); 
             break;             
         case 'GÜN':  
             // 📅 GÜN VİTESİ: Zamanı 1 tam Güneş Günü (24 Saat) ileri/geri fırlat
-            offsetMs = 24 * 60 * 60 * 1000; 
+            offsetMs = 16 * (22.5 * 60 * 1000);
             break;        
         case 'AY':   
             // 🌙 AY VİTESİ: Tam bir Sinodik Ay Evresi (29.53058 Gün) sıçrat, aksı koru!
-            offsetMs = 29.530588853 * 24 * 60 * 60 * 1000; 
+              offsetMs = 29.530588853 * 24 * 60 * 60 * 1000; 
             break;   
         case 'VENUS8': 
             // ♀ VENÜS VİTESİ: 8 Yıllık Venüs-Dünya Pentagram Altın Oran Fraktalı kadar bük
@@ -3269,14 +3274,19 @@ window.bendWiccaTime = function(direction) {
             offsetMs = 790 * 365.2425 * 24 * 60 * 60 * 1000;
             break;
         default: 
-            // Güvenli Fallback vitesi (15 Dakika)
-            offsetMs = 15 * 60 * 1000;
+            // Güvenli Fallback vitesi (22.5 Dakika)
+            offsetMs = 4 * (22.5 * 60 * 1000);
     }
 
-    if (direction === 'PAST') offsetMs = -offsetMs;
+    // Zaman bükücü kalkanı birikimli (Cumulative Offset) olarak hesaplar aga:
+    if (direction === 'PAST') {
+        window.wiccaTimeOffsetMinutes -= (offsetMs / (60 * 1000));
+    } else {
+        window.wiccaTimeOffsetMinutes += (offsetMs / (60 * 1000));
+    }
 
-    // Global zaman nesnesini bükülen yeni kozmik milisaniyeyle durmaksızın güncelle:
-    window.now = new Date(baseDate.getTime() + offsetMs);
+    // Küresel zaman hücresini bükülmüş yeni kozmik milisaniyeyle güncelliyoruz:
+    window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
 
     // 🫀 MÜHENDİSLİK ZİRVESİ: Butona basıldığı mikro saniyede interval döngüsünü 
     // beklemeden Windkessel medikal arayüzünü anında tetikleyip ekrana mühürle aga!
@@ -3285,8 +3295,6 @@ window.bendWiccaTime = function(direction) {
     }
 };
 
-// 🎛️ Mod Değiştirici Yardımcı Fonksiyon Güncellemesi
-// =========================================================================
 // 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI
 // =========================================================================
 window.setWiccaMode = function(mode) {
@@ -3313,6 +3321,13 @@ window.setWiccaMode = function(mode) {
         activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
     }
 };
+
+// 🚀 [AÇILIŞ TETİKLEYİCİSİ]: Sayfa ilk yüklendiğinde otomatik olarak SAAT (ODA) butonunu mor neonla ateşle aga!
+document.addEventListener("DOMContentLoaded", () => {
+    if (typeof window.setWiccaMode === 'function') {
+        window.setWiccaMode('SAAT');
+    }
+});
 </script>
 
 
