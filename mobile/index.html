@@ -1250,17 +1250,19 @@ if (monaElement && salvadorElement) {
     }
     // 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
     else if (sunRoom64 >= 24 && sunRoom64 <= 39) {
-        let progress = (sunRoom64 - 24) / (39 - 24);
+        let progress = (sunRoom64 - 24) / (48 - 24);
         
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 [MONA LISA] Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
         
-        monaElement.style.setProperty('transition', 'none', 'important');
-        salvadorElement.style.setProperty('transition', 'none', 'important');
+        const metatronIframe = document.querySelector('.metatron-iframe');
+        metatronIframe.style.setProperty('opacity', targetMonaOpacity, 'important');
 
-      
+
+       monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+    salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         
         // Geçiş evresinde pürüzsüz erime için ikisini de eşit katmana alıyoruz
         monaZIndex = "2";
@@ -1268,13 +1270,14 @@ if (monaElement && salvadorElement) {
     }
     // 🎯 3. VİTES [40 - 50. ODALAR]: %100 Kararma Vakti! (Astronomical Twilight & MIDNIGHT Sırrı)
     else if (sunRoom64 >= 40 && sunRoom64 <= 50) {
+
+        let progress = (sunRoom64 - 40) / (48 - 24);
+
         targetMonaOpacity = 0.0; 
         targetSalvadorOpacity = 1.0;           
         pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
         dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
         
-        monaElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
-        salvadorElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
         
         // 🌌 GECE KİLİDİ: Salvador %100 görünür ve fiziksel olarak en üstte (z-index: 99). 
         // Mona ise eksi sonsuza/dibe itiliyor, transparan hali bile Salvador'un üstünü kapatamaz!
