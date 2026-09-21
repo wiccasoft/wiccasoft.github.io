@@ -1037,7 +1037,7 @@ setInterval(() => {
         let currentTargetRoom = safeActiveRoom;
 
         // 🧭 [MÜHÜRLÜ ARDIŞIK ZAMAN MİLLERİ]: Çakışmaları, arafta kalmaları ve buton kaymalarını kökten infaz ediyoruz:
-        if (currentTargetRoom >= 56 || currentTargetRoom <= 5) {
+        if (currentTargetRoom >= 59 || currentTargetRoom <= 5) {
             sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
         } else if (currentTargetRoom >= 6 && currentTargetRoom <= 10) {
             sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
@@ -1047,19 +1047,17 @@ setInterval(() => {
             sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
         } else if (currentTargetRoom >= 32 && currentTargetRoom <= 38) {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-        } else if (currentTargetRoom >= 39 && currentTargetRoom <= 46) {
+        } else if (currentTargetRoom >= 39 && currentTargetRoom <= 45) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
         } else if (currentTargetRoom >= 46 && currentTargetRoom <= 51) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
-        }  else if (currentTargetRoom >= 51 && currentTargetRoom <= 55) {
+        }  else if (currentTargetRoom >= 51 && currentTargetRoom <= 59) {
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
         } else {
-            // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlasın
+            // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlas
             sirkadiyenButonIndex = 0; 
         }
-        // Eğer zaman bükülmüşse (window.isTimeBended aktifse) ve ekstradan saptırmak istediğin bir katsayı yoksa,
-        // yukardaki asil ezoterik matris kararlı şekilde çalışmaya devam eder. 
-        // İstersen bükme modunda indeks kaymasını korumak için buraya özel offset ekleyebilirsin aga.
+      
 
         isSleepMatrixInverse = false;
   
@@ -1311,11 +1309,11 @@ if (monaElement && salvadorElement) {
         }
     });
 
-    console.log("Mona:", document.getElementById('mesh-monalisa'));
-    console.log("Salvador:", document.getElementById('mesh-salvador') || document.querySelector('.salvador-image'));
+    //console.log("Mona:", document.getElementById('mesh-monalisa'));
+    //console.log("Salvador:", document.getElementById('mesh-salvador') || document.querySelector('.salvador-image'));
     
     // KONSOL LOGU: Hatanın kaynağını tam görmek için tarayıcı konsoluna yazdırıyoruz aga
-    console.log(`[VİTES KONTROL] Oda: ${sunRoom64} | Mona: ${targetMonaOpacity.toFixed(4)} | Salvador: ${targetSalvadorOpacity.toFixed(4)}`);
+    //console.log(`[VİTES KONTROL] Oda: ${sunRoom64} | Mona: ${targetMonaOpacity.toFixed(4)} | Salvador: ${targetSalvadorOpacity.toFixed(4)}`);
 
     
     // =========================================================================
@@ -2696,12 +2694,12 @@ function updateLilithCosmicDock() {
             // 🎯 ASILI KALMA TAMİRİ: rawMoon'dan gelen string bozuksa, seleneProgress oranına göre saf evreleri zorla tetikliyoruz aga!
             let p = moonLive.seleneProgress;
             if (p >= 0 && p < 0.03) { moonLive.name = "Yeni Ay"; moonLive.icon = "🌑"; }
-            else if (p >= 0.03 && p < 0.22) { moonLive.name = "Hilal (Waxing Crescent)"; moonLive.icon = "🌙"; }
-            else if (p >= 0.22 && p < 0.28) { moonLive.name = "İlk Dördün"; moonLive.icon = "🌓"; }
-            else if (p >= 0.28 && p < 0.47) { moonLive.name = "Şişkin Ay (Waxing Gibbous)"; moonLive.icon = "🌓"; }
-            else if (p >= 0.47 && p < 0.53) { moonLive.name = "Dolunay (Full Moon)"; moonLive.icon = "🌕"; }
-            else if (p >= 0.53 && p < 0.72) { moonLive.name = "Küçülen Şişkin Ay"; moonLive.icon = "🌖"; }
-            else if (p >= 0.72 && p < 0.78) { moonLive.name = "Son Dördün"; moonLive.icon = "🌗"; }
+            else if (p >= 0.03 && p < 0.22) { moonLive.name = "(Waxing Crescent)"; moonLive.icon = "🌙"; }
+            else if (p >= 0.22 && p < 0.28) { moonLive.name = "First Quarter"; moonLive.icon = "🌓"; }
+            else if (p >= 0.28 && p < 0.47) { moonLive.name = "(Waxing Gibbous)"; moonLive.icon = "🌓"; }
+            else if (p >= 0.47 && p < 0.53) { moonLive.name = "(Full Moon)"; moonLive.icon = "🌕"; }
+            else if (p >= 0.53 && p < 0.72) { moonLive.name = "Waning Gibbous"; moonLive.icon = "🌖"; }
+            else if (p >= 0.72 && p < 0.78) { moonLive.name = "Last Quarter"; moonLive.icon = "🌗"; }
             else { moonLive.name = "Eski Hilal (Waning Crescent)"; moonLive.icon = "🌘"; }
             
             // Eğer rawMoon içinden kararlı ve taze bir isim geliyorsa üstüne yazabilir:
@@ -2741,7 +2739,7 @@ function updateLilithCosmicDock() {
     // Global takibe alıyoruz, siber pusula ışımaları bu indeksi emebilir aga
     window.currentSeleneGateIndex = seleneIndex;
 
-    // =========================================================================
+       // =========================================================================
     // 🔮 LILITH PANEL TEXT ENJEKSİYONU VE PANEL GÜNCELLEME
     // =========================================================================
     const gateMappingNames = ["GATE-FIRE", "GATE-LIGHT", "GATE-AIR", "GATE-ETHER", "GATE-WATER", "GATE-METAL", "GATE-EARTH", "GATE-ICE"];
@@ -2752,12 +2750,14 @@ function updateLilithCosmicDock() {
     }
 
     if (descElement) {
-        descElement.innerHTML = `🌙 FAZ: ${moonLive.name} (${moonLive.icon}) | AY YAŞI: ${parseFloat(moonLive.age).toFixed(1)} Gün | YIN BASKISI: %${darkMoonDominance}<br>` +
-                                `🧬 LUNAR DOMINANCE: ${safeLunarDominance.toFixed(4)} | MEVSİMSEL ÇARPAN: x${seasonalMultiplier.toFixed(1)} | SEC: ${liveSeconds}`;
+        // 🎯 KRİTİK DÜZELTME: mayaPhaseLive değişkenini burada güvenli bir şekilde tanımlıyoruz aga:
+        const mayaPhaseLive = window.wiccaMayaPhase || "Galactic Sync... 🌀";
+
+        // Metni tek satırda pürüzsüz topluyoruz, dikeyde kutuyu şişirmemesi için <br> etiketini kaldırdık:
+        descElement.innerHTML = `(${moonLive.icon}) Phase: ${moonLive.name}  | Age: ${parseFloat(moonLive.age).toFixed(1)} d | YIN: %${darkMoonDominance} | 🧬 LUNAR DOM: ${safeLunarDominance.toFixed(1)} | 13MOON: ${mayaPhaseLive}`;
     }
 
     if (formulaElement) {
-        // Formül panelinde Selene'in gökteki anlık koordinat kilidini ve hangi kapıda parladığını siberpunk stilde gösteriyoruz aga:
         formulaElement.style.color = "#00ffaa";
         formulaElement.innerText = `[SELENE TRACKING] PROGRESS: ${(moonLive.seleneProgress * 100).toFixed(1)}% ──> KİLİTLENEN KAPI: ${activeGateName} (Index: ${seleneIndex})`;
     }
@@ -2868,16 +2868,16 @@ function updateLilithCosmicDock() {
     
     let paralelText = "";
     if (daysToEquinox > 0) {
-        paralelText = `EKİNOKSA: ${daysToEquinox.toFixed(1)} GÜN`;
+        paralelText = `EQUINOKS: ${daysToEquinox.toFixed(1)}`;
     } else {
         let ekinoksParallelPercent = (1 - Math.abs(currentWaveVal === -0.5 ? 0 : currentWaveVal)) * 100;
         paralelText = `PARALEL: %${ekinoksParallelPercent.toFixed(1)}`;
     }
 
     formulaElement.innerHTML = 
-        `CSF VELOCITY: ${flowVelocity.toFixed(4)} m/s | ` +
-        `PRESSURE VEC: ${dynamicPressure.toFixed(4)} kPa | ` +
-        `RESONANCE: ${finalHzOutput.toFixed(2)} Hz<br>` +
+        `CSF VEL: ${flowVelocity.toFixed(2)} m/s | ` +
+        `PRESS VEC: ${dynamicPressure.toFixed(2)} kPa | ` +
+        `RESONANCE: ${finalHzOutput.toFixed(1)} Hz<br>` +
         `<span style="color: ${nhDotColor}; filter: drop-shadow(0 0 5px ${nhDotColor}); font-size: 16px; vertical-align: middle;">●</span> <span style="color: #e2e8f0; font-family: monospace; font-size: 11px; vertical-align: middle;">[ ${nhPureText} ]</span> ` + 
         `<span style="color: #444; margin: 0 6px; vertical-align: middle;">⇄</span> ` +
         `<span style="color: ${shDotColor}; filter: drop-shadow(0 0 5px ${shDotColor}); font-size: 16px; vertical-align: middle;">●</span> <span style="color: #e2e8f0; font-family: monospace; font-size: 11px; vertical-align: middle;">[ ${shPureText} ]</span> ` + 
@@ -2895,14 +2895,48 @@ function updateLilithCosmicDock() {
 
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
+
+   // =========================================================================
+        // 🪐 %100 DİNAMİK VE GERÇEK SOLAR GÜN MOTORU [SIFIR MANUEL - DOĞAL AKIŞ]
+        // =========================================================================
+        let liveDateObj = window.now || window.wiccaCurrentAxisDate || window.date || new Date();
+        
+        // 🎯 YILIN KAÇINCI GÜNÜNDEYİZ? (1 ile 365 arası dürüst saf matematik)
+        let startOfYear = new Date(liveDateObj.getFullYear(), 0, 1);
+        let diffTime = liveDateObj.getTime() - startOfYear.getTime();
+        
+        // Trunc/Floor YOK! Saniyeler ve milisaniyeler virgülden sonra dürüstçe aksın ki oda değiştikçe 0.08° yürüsün aga:
+        let dayOfYearLiveDecimal = diffTime / (1000 * 60 * 60 * 24);
+
+        // ☀️ GÜNEŞ: 1 Ocak'ta Güneş zodyakta tam 280° (Oğlak) civarındadır. 
+        // Üzerine, o an akan küsuratlı gün sayısını Güneş'in günlük hızı olan 0.9856° ile çarpıp ekliyoruz.
+        // Hiçbir zorlama, if-else veya yapay katsayı kalmadı aga; dürüst gökyüzü matematiği:
+        let sunDegRaw = window.liveSunLongitude || (moonLive && moonLive.sunLongitude) || ((280.0 + dayOfYearLiveDecimal * 0.985647) % 360);
+
+        // 🌙 AY: Senin o efsanevi, 3 satırlık dürüst kuantum bağlantın:
+        let moonPhaseProgress = (moonLive && moonLive.seleneProgress) || 0.309;
+        let moonDegRaw = ((sunDegRaw + (moonPhaseProgress * 360)) % 360);
+
+        // 🔮 LILITH: Güneş'e bağlı o asil 90° Cross (Kare) haçı:
+        let lilithDegRaw = (sunDegRaw + 92.5) % 360;
+
+        // 🪐 Burç dönüştürme motoru giren derecelere göre burçları kendisi seçer:
+        let sunPos     = boylamiBurcaCevirAga(sunDegRaw);
+        let moonPos    = boylamiBurcaCevirAga(moonDegRaw);
+        let lilithPos  = boylamiBurcaCevirAga(lilithDegRaw);
+
+        // Açı senkronizasyon motorunu da burada arkadan anlık olarak besleyelim:
+        if (typeof hesaplaGezegenAcilari === 'function') {
+            hesaplaGezegenAcilari(sunDegRaw, lilithDegRaw);
+        }
+
+        // 🎯 KRİTİK DÜZELTME: Değişken isimlerinin ilk harflerini küçük yaparak eşitledik aga!
         statusBar.innerHTML = 
-            `● YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonLive.seleneProgress * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s\n` +
-            `● NORTH NODE: ${northNodeMap} (${liveNorthDeg}°) ──> ● SOUTH NODE: ${southNodeMap} (${liveSouthDeg}°)`;
+            `● YIN: %${darkMoonDominance} | ROOM: [${currentRoom}/64] | LUNAR CYCLE: ${(moonLive.seleneProgress * 100).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s<br>` +
+            `● NORTH NODE: ${northNodeMap} (${liveNorthDeg}°) ──> ● SOUTH NODE: ${southNodeMap} (${liveSouthDeg}°)<br>` +
+            `<span style="color: #888;">● [METATRON CROSS] ──> SUN:</span> ${sunPos} <span style="color: #444;">|</span> <span style="color: #888;">MOON:</span> ${moonPos} <span style="color: #444;">|</span> <span style="color: #888;">LILITH:</span> ${lilithPos}`;
     }
 } // <-- updateLilithCosmicDock fonksiyonunun asıl mühürlü ana parantez kapanış çizgisi burası aga!
-
-
-
 
 // =========================================================================
 // 🌙 METATRON ENGINE: SAF MATEMATİKSEL 13 AY TAKVİMİ VE DİNAMİK SELENE KADRANI
@@ -3376,6 +3410,247 @@ window.bendWiccaTime = function(direction) {
         updateLilithCosmicDock();
     }
 };
+
+
+// =========================================================================
+// 🪐 13 MOON MAYA TIME ENGINE [DECENTRALIZED_GALACTIC_CALIBRATION]
+// =========================================================================
+
+const MAYA_MOONS = [
+    "Magnetic Moon (Yarasa) 🦇",    // 26 Temmuz - 22 Ağustos
+    "Lunar Moon (Akrep) 🦂",        // 23 Ağustos - 19 Eylül
+    "Electric Moon (Geyik) 🦌",      // 20 Eylül - 17 Ekim (2026-09-20 itibarıyla bugün buraya geçtik aga!)
+    "Self-Existing Moon (Baykuş) 🦉",// 18 Ekim - 14 Kasım
+    "Overtone Moon (Tavuskuşu) 🦚", // 15 Kasım - 12 Aralık
+    "Rhythmic Moon (Kertenkele) 🦎",  // 13 Aralık - 9 Ocak
+    "Resonant Moon (Maymun) 🐒",     // 10 Ocak - 6 Şubat
+    "Galactic Moon (Şahin) 🦅",      // 7 Şubat - 6 Mart
+    "Solar Moon (Jaguar) 🐆",        // 7 Mart - 3 Nisan
+    "Planetary Moon (Köpek) 🐕",     // 4 Nisan - 1 Mayıs
+    "Spectral Moon (Yılan) 🐍",      // 2 Mayıs - 29 Mayıs
+    "Crystal Moon (Tavşan) 🐇",      // 30 Mayıs - 26 Haziran
+    "Cosmic Moon (Kaplumbağa) 🐢"    // 27 Haziran - 24 Temmuz
+];
+
+const hesapla13MoonMayaPhase = (targetDate = new Date()) => {
+    let year = targetDate.getFullYear();
+    
+    // O yılın Maya Yıl Başlangıcı (26 Temmuz)
+    let mayaNewYear = new Date(year, 6, 26); // JavaScript'te aylar 0'dan başlar (6 = Temmuz)
+    
+    // Eğer hedef tarih 26 Temmuz'dan önceyse, bir önceki yılın döngüsündeyizdir aga
+    if (targetDate < mayaNewYear) {
+        year--;
+        mayaNewYear = new Date(year, 6, 26);
+    }
+
+    // 26 Temmuz'dan bu yana kaç milisaniye geçmiş?
+    let diffMilli = targetDate.getTime() - mayaNewYear.getTime();
+    let diffDays = Math.floor(diffMilli / (1000 * 60 * 60 * 24));
+
+    let mayaPhaseStr = "";
+
+    // 🎯 Zamanın Dışındaki Gün Kontrolü (25 Temmuz - Day Out of Time)
+    if (diffDays === 364) {
+        mayaPhaseStr = "DAY OUT OF TIME 🌀 (Zamanın Dışındaki Gün)";
+    } else {
+        // Her ay tam 28 gün sürer aga!
+        let moonIndex = Math.floor(diffDays / 28);
+        let moonDay = (diffDays % 28) + 1;
+        
+        // Sınır koruması
+        moonIndex = Math.max(0, Math.min(12, moonIndex));
+        
+        mayaPhaseStr = `${MAYA_MOONS[moonIndex]} [Day: ${moonDay}/28]`;
+    }
+
+    // 🚀 GLOBAL HAFIZAYA VE PANEL VERİLERİNE AKTARIM:
+    window.wiccaMayaPhase = mayaPhaseStr;
+    console.log("🪐 Maya Eksen Ayarı:", mayaPhaseStr);
+};
+
+// Açılışta ve zaman büküldüğünde hemen güncellensin aga
+document.addEventListener("DOMContentLoaded", () => {
+    hesapla13MoonMayaPhase(window.wiccaCurrentAxisDate || new Date());
+});
+
+
+// =========================================================================
+// 🪐 WICCA ECLIPSE ENGINE [TUTULMA MATRIX ALARMI]
+// =========================================================================
+
+const kontrolEtWiccaTutulma = () => {
+    // 1. Aktif odaları ve düğüm konumlarını çekiyoruz aga
+    let currentSunRoom = window.sunRoom64 || 0;
+    let currentMoonRoom = window.safeActiveRoom || 0;
+    let nNodeRoom = window.northNodeRoom || 0;
+    let sNodeRoom = window.southNodeRoom || 0;
+    let currentLunarAge = parseFloat(window.wiccaLunarAge || 0);
+
+    let isEclipseActive = false;
+    let eclipseTypeStr = "";
+
+    // 🎯 ASTRO-SEEK KABA KİLİT: 
+    // Güneş, North veya South Node odasına tam bastığında GÜNEŞ TUTULMASI olur!
+    if (currentSunRoom === nNodeRoom || currentSunRoom === sNodeRoom) {
+        isEclipseActive = true;
+        eclipseTypeStr = "SOLAR ECLIPSE (Güneş Tutulması) ☀️🕳️";
+    }
+    // Yeni Ay veya Dolunay civarında, Ay düğüm odalarına basarsa AY TUTULMASI olur!
+    else if ((currentMoonRoom === nNodeRoom || currentMoonRoom === sNodeRoom) && (currentLunarAge >= 14 && currentLunarAge <= 16)) {
+        isEclipseActive = true;
+        eclipseTypeStr = "LUNAR ECLIPSE (Ay Tutulması) 🌕🕳️";
+    }
+
+    // 🚀 ALARM AKTİFSE ARAYÜZÜ BÜKÜYORUZ AGA:
+    const panelTitle = document.querySelector('.lilith-title') || document.getElementById('lilith-title-id');
+    const metatronCanvas = document.getElementById('mesh-monalisa') || document.getElementById('mesh-salvador');
+
+    if (isEclipseActive) {
+        // Alt panel başlığını neon kırmızı/mor alarm durumuna geçir
+        if (panelTitle) {
+            panelTitle.innerHTML = `LILITH: <span style="color: #ff0055; text-shadow: 0 0 10px #ff0055;">[ECLIPSE_MATRIX_ACTIVE]</span> ☤ TYP: ${eclipseTypeStr}`;
+        }
+        
+        // 🔥 TUTULMA GÖLGESİ EFFECTS KALKANI:
+        // Tutulma anında Metatron Küpü ve parlayan kürelerin arkasındaki görselleri 
+        // mistik bir karanlığa bükmek için opaklıkları ve filtreleri anlık kırpıyoruz aga:
+        if (metatronCanvas) {
+            metatronCanvas.style.setProperty('filter', 'grayscale(80%) contrast(150%)', 'important');
+        }
+        
+        console.log(`🚨 ECLIPSE ALARMI: Gökyüzü mühürlendi! Tür: ${eclipseTypeStr}`);
+    } else {
+        // Eğer tutulma yoksa asil normal akış neonu devam etsin
+        if (metatronCanvas) {
+            metatronCanvas.style.setProperty('filter', 'none', 'important');
+        }
+    }
+};
+
+
+
+// =========================================================================
+// ♈ WICCA SAF DİNAMİK ZODIAC MOTORU (SIFIR ZORLAMA - %100 DOĞAL MATEMATİK)
+// =========================================================================
+const ZODIAC_SIGNS = [
+    { name: "Koç", symbol: "♈" },     { name: "Boğa", symbol: "♉" }, 
+    { name: "İkizler", symbol: "♊" }, { name: "Yengeç", symbol: "♋" },
+    { name: "Aslan", symbol: "♌" },    { name: "Başak", symbol: "♍" }, // 150° - 180° arası Başak'tır aga!
+    { name: "Terazi", symbol: "♎" },   { name: "Akrep", symbol: "♏" },
+    { name: "Yay", symbol: "♐" },     { name: "Oğlak", symbol: "♑" }, // 270° - 300° arası Oğlak'tır!
+    { name: "Kova", symbol: "♒" },     { name: "Balık", symbol: "♓" }
+];
+
+// =========================================================================
+// ♈ WICCA SAF DİNAMİK ZODIAC MOTORU (SIFIR HİLE - %100 DOĞAL MATEMATİK)
+// =========================================================================
+const boylamiBurcaCevirAga = (deg) => {
+    const ZODIAC_SIGNS = [
+        { name: "Koç", symbol: "♈" },     { name: "Boğa", symbol: "♉" }, 
+        { name: "İkizler", symbol: "♊" }, { name: "Yengeç", symbol: "♋" },
+        { name: "Aslan", symbol: "♌" },    { name: "Başak", symbol: "♍" }, // 150° - 180°
+        { name: "Terazi", symbol: "♎" },   { name: "Akrep", symbol: "♏" },
+        { name: "Yay", symbol: "♐" },     { name: "Oğlak", symbol: "♑" }, // 270° - 300°
+        { name: "Kova", symbol: "♒" },     { name: "Balık", symbol: "♓" }
+    ];
+
+    // Derece ne gelirse gelsin 0-360 arasına kusursuz çiviler, eksi değerleri korur aga:
+    let normalized = (deg % 360 + 360) % 360;
+    
+    // Saf dürüst matematik: 30 dereceye bölerek hangi burç indeksinde olduğunu kendi bulur!
+    let signIndex = Math.floor(normalized / 30);
+    
+    let signDeg = Math.floor(normalized % 30);
+    let signMin = Math.floor((normalized % 1) * 60);
+
+    const sign = ZODIAC_SIGNS[signIndex] || ZODIAC_SIGNS[0];
+    return `${sign.symbol} ${signDeg}°${signMin < 10 ? '0' : ''}${signMin}' ${sign.name}`;
+};
+// =========================================================================
+// 📐 WICCA ASTRO-SEEK AÇI SENKRONİZASYON MOTORU
+// =========================================================================
+
+const hesaplaGezegenAcilari = (sunLong, lilithLong) => {
+    // İki gezegen arasındaki mutlak derece farkını buluyoruz aga
+    let diff = Math.abs(sunLong - lilithLong);
+    if (diff > 180) diff = 360 - diff; // Çember koruması
+
+    let aciDurumu = "";
+
+    // Astro-Seek Kalibresi Standart Orblar (Kabaca):
+    if (diff >= 85 && diff <= 95) {
+        // 🎯 BAŞAK 27° ile OĞLAK 0° BURAYA VURUR AGA! (~92 Derece)
+        aciDurumu = "SQUARE (90° Kare Açılama) 📐";
+    } else if (diff >= 175 && diff <= 185) {
+        aciDurumu = "OPPOSITE (180° Karşıt Açılama) ⇌";
+    } else if (diff >= 0 && diff <= 5) {
+        aciDurumu = "CONJUNCTION (0° Kavuşum) ⚛️";
+    } else {
+        aciDurumu = "DİNAMİK AKIŞ";
+    }
+
+    // 🚀 Ön yüze basmak veya kararlılığı korumak için global hafızaya mühürle
+    window.wiccaSunLilithAspect = aciDurumu;
+    //console.log(`🛰️ Açı Kalibrasyonu: Güneş-Lilith Farkı: ${diff.toFixed(1)}° | Durum: ${aciDurumu}`);
+};
+// Zaman bükücü her çalıştığında veya sirkadiyen loop döndüğünde bu kontrolü de arkadan ateşle aga:
+// setInterval(kontrolEtWiccaTutulma, 1000);
+
+// =========================================================================
+// 🪐 DECENTRALIZED LUNAR NODES ENGINE [NORTH_METAL_SOUTH_WATER]
+// =========================================================================
+
+const hesaplaWiccaAyDugumleri = (targetDate = new Date()) => {
+    // 🧭 1. Bilinen Kararlı Bir North Node Referansı (Astronomik Epok)
+    // 1 Ocak 2026'da North Node yaklaşık 140 derece civarındaydı.
+    // Düğümler yılda yaklaşık 19.34 derece RETRO (ters) hareket eder.
+    const KOK_EPOK = new Date("2026-01-01T00:00:00Z").getTime();
+    const GÜNLÜK_RETRO_HAREKET = 19.34136 / 365.25; // Gün başına geri gitme derecesi
+
+    let diffDays = (targetDate.getTime() - KOK_EPOK) / (1000 * 60 * 60 * 24);
+    
+    // North Node Derecesi (Geriye doğru aktığı için eksi yapıyoruz aga)
+    let northDegree = (140.0 - (diffDays * GÜNLÜK_RETRO_HAREKET)) % 360;
+    if (northDegree < 0) northDegree += 360;
+
+    // South Node her zaman tam 180 derece karşısındadır!
+    let southDegree = (northDegree + 180) % 360;
+
+    // 🎯 2. Element Kapıları ve 64'lük Oda Karşılıkları
+    // 360 derece üzerinden odaları buluyoruz:
+    let northRoom = Math.floor(northDegree / 5.625);
+    let southRoom = Math.floor(southDegree / 5.625);
+
+    // 💎 Senin İstediğin Nokta Atışı Element Mühürlemesi:
+    // North Node -> METAL (Genellikle 51-55 odaları arası metal kapısı tetiklenir)
+    // South Node -> WATER (Genellikle 41-50 odaları arası su kapısı tetiklenir)
+    
+    let northElementStr = `☰ METAL (${northDegree.toFixed(0)}°) [Room: ${northRoom}]`;
+    let southElementStr = `☰ WATER (${southDegree.toFixed(0)}°) [Room: ${southRoom}]`;
+
+    // 🚀 GLOBAL HAFIZAYA VE PANEL VERİLERİNE AKTARIM:
+    window.wiccaNorthNode = northElementStr;
+    window.wiccaSouthNode = southElementStr;
+    window.northNodeRoom = northRoom;
+    window.southNodeRoom = southRoom;
+
+    // ⚡ TUTULMA (ECLIPSE) KONTROL KALKANI:
+    // Eğer Güneş veya Ay, bu düğüm odalarından birine tam olarak basarsa TUTULMA ışığı yanar aga!
+    let isGunesNorthTutulma = (window.sunRoom64 === northRoom);
+    let isAySouthTutulma = (parseInt(window.wiccaLunarAge) >= 14 && parseInt(window.wiccaLunarAge) <= 15 && window.safeActiveRoom === southRoom);
+
+    if (isGunesNorthTutulma) {
+        console.log("☀️🚨 KOZMİK ALARM: Hibrid/Güneş Tutulması Tetiklendi!");
+    }
+    
+    console.log(`🛰️ Düğüm Aksı: NORTH: ${northElementStr} ⇌ SOUTH: ${southElementStr}`);
+};
+
+// Açılışta ve zaman büküldüğünde bu motoru da ateşle aga
+document.addEventListener("DOMContentLoaded", () => {
+    hesaplaWiccaAyDugumleri(window.wiccaCurrentAxisDate || new Date());
+});
 
 // 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI
 // =========================================================================
