@@ -1037,7 +1037,7 @@ setInterval(() => {
         let currentTargetRoom = safeActiveRoom;
 
         // 🧭 [MÜHÜRLÜ ARDIŞIK ZAMAN MİLLERİ]: Çakışmaları, arafta kalmaları ve buton kaymalarını kökten infaz ediyoruz:
-        if (currentTargetRoom >= 59 || currentTargetRoom <= 5) {
+        if (currentTargetRoom >= 61 || currentTargetRoom <= 6) {
             sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
         } else if (currentTargetRoom >= 6 && currentTargetRoom <= 10) {
             sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
@@ -1051,7 +1051,7 @@ setInterval(() => {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
         } else if (currentTargetRoom >= 46 && currentTargetRoom <= 51) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
-        }  else if (currentTargetRoom >= 51 && currentTargetRoom <= 59) {
+        }  else if (currentTargetRoom >= 51 && currentTargetRoom <= 61) {
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
         } else {
             // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlas
