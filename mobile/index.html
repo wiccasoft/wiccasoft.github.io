@@ -88,11 +88,140 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 
 
+    /* =========================================================================
+   📱 WICCA OS: GLOBAL UYGULAMA ALT ANA MENÜ BAR SÜRÜCÜSÜ
+   ========================================================================= */
+.app-settings-bar {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90vw;
+    max-width: 420px;
+    height: 45px;
+    background: rgba(8, 8, 8, 0.95);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(122, 0, 255, 0.3);
+    border-bottom: none; /* Tabana tam otursun */
+    border-radius: 8px 8px 0 0; /* Üst köşeler aplikasyon gibi yumuşak */
+    box-shadow: 0 -5px 15px rgba(122, 0, 255, 0.15);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 8px;
+    z-index: 9999999 !important; /* Her şeyin üstünde, her an tıklanabilir */
+    pointer-events: auto; /* Tıklamaları kaçırma aga */
+    font-family: monospace;
+}
+
+/* Menü Butonlarının Siber Estetiği */
+.deck-btn {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: #888;
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    height: 100%;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.deck-btn span {
+    font-size: 12px;
+    filter: grayscale(100%); /* Emojileri mat yapıyoruz arayüzü bozmasın */
+    transition: all 0.2s ease;
+}
+
+/* Hover ve Aktifleşme Efektleri */
+.deck-btn:hover, .deck-btn:active {
+    color: #00ffaa; /* Aktifleşince siber yeşil parlasın aga */
+    text-shadow: 0 0 5px #00ffaa;
+}
+.deck-btn:hover span, .deck-btn:active span {
+    filter: grayscale(0%); /* Üzerine gelince emojinin rengi canlansın */
+    transform: scale(1.1);
+}
+
+/* =========================================================================
+   📐 ESKİ ALT PANELLERİN ÇAKIŞMASINI ÖNLEYEN KONTROL KİLİTLERİ
+   ========================================================================= */
+/* Yeni eklediğimiz bu 45px'lik bar altı kaplayacağı için, eski alt panellerini 
+   tam olarak bu barın üzerine jilet gibi hizalıyoruz aga, hiçbir şey kaymıyor! */
+#lilith-cosmic-dock {
+    bottom: 120px !important; /* Eskiden 85px'ti, yukarı kaydırıp kurtardık */
+}
+.cosmic-status-bar {
+    bottom: 50px !important; /* Tam yeni menü barının üzerine oturttuk */
+}
+
+    /* =========================================================================
+   🎛️ WICCA OS: GLOBAL STOR PERDE MENÜ ALTYAPISI (MASAÜSTÜ & MOBİL)
+   ========================================================================= */
+#time-machine-panel {
+    position: fixed !important;
+    top: 0 !important;
+    left: 50% !important;
+    margin: 0 !important;
+    width: 92% !important;
+    max-width: 400px !important;
+    
+    /* 🎯 SİHİRLİ GİZLEME: Panel varsayılan olarak ekranın tavanında pusuya yatar */
+    transform: translate(-50%, -100%) !important; 
+    
+    /* Geçişler pavyon gibi değil, siber akışkanlıkta aksın aga */
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    border-radius: 0 0 8px 8px !important;
+    background: rgba(5, 5, 5, 0.95) !important;
+    backdrop-filter: blur(12px) !important;
+    box-shadow: 0 10px 30px rgba(122, 0, 255, 0.4) !important;
+    z-index: 99999999 !important;
+}
+
+/* Menü aktifleştiğinde paneli stor perde gibi aşağı indiren sihirli sınıf */
+#time-machine-panel.wicca-drawer-active {
+    transform: translate(-50%, 0) !important;
+}
+
+/* 🕒 Ekranın En Tepesinde Parlayacak Global Tetikleyici Buton */
+.wicca-global-trigger {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 100000000 !important; /* Her şeyin en tepesinde */
+    background: rgba(10, 10, 10, 0.85);
+    border: 1px solid #7a00ff;
+    box-shadow: 0 0 10px rgba(122, 0, 255, 0.4);
+    color: #fff;
+    padding: 5px 14px;
+    border-radius: 20px;
+    font-family: monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    cursor: pointer;
+    pointer-events: auto !important;
+    transition: all 0.3s ease;
+}
+
+.wicca-global-trigger:hover {
+    background: rgba(122, 0, 255, 0.2);
+    box-shadow: 0 0 15px #7a00ff;
+}
     
         /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
 .art-core-container {
     position: absolute;
-    top: 45%;
+    top: 40%;
     left: 52.1%;
     transform: translate(-50%, -50%);
     width: 100vw;
@@ -312,6 +441,19 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ KATMAN HİYERARŞİSİ */
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ MERKEZLEME VE KATMAN HİYERARŞİSİ */
 @media (max-width: 768px) {
+
+     .app-settings-bar {
+        width: 100vw; /* Mobilde altı tamamen kaplasın tam uygulama olsun */
+        max-width: 100vw;
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+        height: 50px; /* Mobilde parmak rahat bassın diye 5px daha büyüttük */
+    }
+    .cosmic-status-bar {
+        bottom: 55px !important;
+    }
+    
     /* 1. Ana taşıyıcıyı ekran yüksekliğine kilitliyor ve tam merkezleme flex yapısına alıyoruz */
  .main-viewport {
         height: 100vh !important;
@@ -328,7 +470,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
     .metatron-three-iframe-holder {
         position: absolute !important;
-        top: 55% !important;
+        top: 65% !important;
         left: 49% !important;
         transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 75vh !important;
@@ -344,7 +486,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     position: absolute;
     width: 420px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
     height: auto !important;
-    top: 41.5% !important;
+    top: 51.5% !important;
     left: 48.3% !important;
     transform: translate(-50%, -50%) scale(0.7) !important;
     z-index: 1;
@@ -354,7 +496,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 470px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 48.0% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    top: 58.0% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
     left: 52% !important;
     transform: translate(-50%, -50%)scale(0.9) !important;
     
@@ -362,6 +504,25 @@ body, html, h1, h2, h3, p, a, button, .btn {
     filter: brightness(1.0) !important;
   }
 
+   #lilith-cosmic-dock {
+        width: 92% !important; /* Ekranın kenarlarına yapışmasın, jilet gibi pay bıraksın */
+        bottom: 75px !important; /* Alt barla iç içe girmesin */
+        padding: 6px 8px !important;
+    }
+    
+    #lilith-desc, #lilith-formula {
+        font-size: 10px !important; /* Telefonda yazılar küçülsün, tek bakışta okunsun */
+        white-space: normal !important; /* Taşma yapıp ekranı kırmasın, alt satıra insin */
+    }
+
+    /* 🌌 KOZMİK DURUM MATRİSİ (EN ALT BAR) MOBİL UYUMU */
+    .cosmic-status-bar {
+        font-size: 10px !important;
+        letter-spacing: 0.5px !important;
+        padding: 8px 4px !important;
+        white-space: normal !important; /* Uzun astronomik veriler alt alta tatlıca kırılsın */
+        line-height: 1.4;
+    }
 
     /* 2. KRİTİK ALAN: Yazı ve buton katmanını tamamen esnetip kürelerin tam merkezine oturtuyoruz */
     .hero-content-layer {
@@ -393,15 +554,36 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 
 /* 🌌 COSMIC COMPASS & I CHING STYLES */
+
+
 .cosmic-compass {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    pointer-events: none; /* Arkadaki iframe ve butonların tıklanmasını engellemez */
-    z-index: 5; /* Metatron iframe'inin üzerinde, buton katmanının altında */
+    top: 0vh;
+    left: 0vw;
+    width: 99vw;
+    height: 99vh;
+    pointer-events: none;
+    z-index: 5;
+    
+    /* 🎯 Sihirli Enjeksiyon Border: */
+    border: 0px solid transparent;
+    
+    /* Sağ kırmızından maviye, alttan mavi mor geçişini sağlayan kozmik dairesel spektrum */
+    border-image: conic-gradient(
+        from var(--gradient-merkez, 135deg) at 50% 50%,
+        #ff3300 0deg,   /* 🔥 Sağ üst / Sağ köşe: Kor Kırmızısı başlangıcı */
+        #ff5e00 45deg,  /* Geçiş turuncusu */
+        #0055ff 130deg, /* 💧 Sağ alt / Alt kenar: Siber Maviye keskin bükülme */
+        #aa00ff 240deg, /* 🌙 Sol alt / Sol kenar: Yin Moru */
+        #00ffff 310deg, /* Kuzey Turkuazı */
+        #ff3300 360deg  /* Döngü kapandı */
+    ) 1;
+
+    /* Köşelerdeki parlamayı da canlandırmak için yumuşak neon filtresi */
+    filter: drop-shadow(0 0 12px rgba(0, 85, 255, 0.25));
+    transition: border-image 0.1s linear;
 }
+
 
 /* 🧭 GERÇEK HAÇ/PUSULA EKSENİ STILLERİ */
 /* 🧭 DURAĞAN MOD: Sadece düz transparan renk. Ekran kartını yoran drop-shadow tamamen SİLİNDİ! */
@@ -553,6 +735,84 @@ body, html, h1, h2, h3, p, a, button, .btn {
     z-index: 999;
 }
 
+
+/* =========================================================================
+   🧠 WICCA OS: SİBER TERMİNAL RESPONSIVE TASARIM SÜRÜCÜSÜ
+   ========================================================================= */
+.cyber-terminal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.8); /* Açılmadan önce hafif küçük ve gizli */
+    width: 90vw;
+    max-width: 400px;
+    height: 250px;
+    background: rgba(5, 5, 5, 0.92);
+    backdrop-filter: blur(8px);
+    border: 1px solid #00ffaa; /* Başlangıçta siber yeşil, JS ile odaya göre mavi/mor olacak */
+    box-shadow: 0 0 25px rgba(0, 255, 170, 0.2);
+    border-radius: 6px;
+    z-index: 100000000 !important;
+    font-family: monospace;
+    display: none; /* Varsayılan olarak kapalı aga */
+    opacity: 0;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: auto;
+}
+
+/* Terminal aktifleştiğinde şahlanacak sınıf */
+.cyber-terminal.terminal-active {
+    display: block;
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+/* Terminal Tepe Barı */
+.terminal-header {
+    background: rgba(20, 20, 20, 0.9);
+    padding: 6px 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.terminal-title {
+    color: #00ffaa;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+.terminal-close {
+    background: transparent;
+    border: none;
+    color: #ff3300;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 11px;
+}
+
+/* Log İçerik Alanı */
+.terminal-content {
+    padding: 10px;
+    height: calc(100% - 35px);
+    overflow-y: auto;
+    font-size: 11px;
+    color: #ccc;
+    line-height: 1.5;
+    text-align: left;
+}
+
+/* Satır akış animasyonu (Matrix Hissiyatı) */
+.log-line {
+    margin-bottom: 4px;
+    opacity: 0;
+    transform: translateX(-5px);
+    animation: textGlitchSlide 0.3s forwards ease-out;
+}
+@keyframes textGlitchSlide {
+    to { opacity: 1; transform: translateX(0); }
+}
+
 /* Sayfa içeriğinin navigasyon barın arkasında kalıp ezilmesini önleyen footer boşluğu */
 footer {
     margin-bottom: 100px !important;
@@ -560,6 +820,17 @@ footer {
  </style>
 </head>
 
+
+<!-- 🧠 WICCA OS: HIGH-SOLUTIONS DIAGNOSTICS CYBER TERMINAL -->
+<div id="wicca-diags-terminal" class="cyber-terminal">
+    <div class="terminal-header">
+        <span class="terminal-title">🧠 WICCA_OS://SYS_DIAGNOSTICS_LOG</span>
+        <button class="terminal-close" onclick="closeWiccaDiags()">[X]</button>
+    </div>
+    <div id="terminal-body" class="terminal-content">
+        <!-- Canlı hacker logları buraya akacak aga -->
+    </div>
+</div>
 <body>
 
     <header>
@@ -619,6 +890,22 @@ footer {
 <!-- 🌌 MİSTİK KOZMİK DURUM MATRİSİ (Yazıları topladığımız alt veri barı) -->
 <div class="cosmic-status-bar" id="cosmic-status">
     INITIALIZING COSMIC MATRIX...
+</div>
+
+<!-- 📱 WICCA OS: NİHAİ UYGULAMA ALT ANA MENÜ PANELİ (BOTTOM OS DOCK) -->
+<div id="wicca-app-bottom-deck" class="app-settings-bar">
+    <button class="deck-btn" onclick="toggleWiccaFullscreen()">
+        <span>📺</span> FULLSCREEN
+    </button>
+    <button class="deck-btn" onclick="openWiccaSubSettings('AYARLAR')">
+        <span>⚙️</span> SETTINGS
+    </button>
+    <button class="deck-btn" onclick="calibrateCosmicMatrix()">
+        <span>🎚️</span> CALIBRATE
+    </button>
+    <button class="deck-btn" onclick="runMatrixDiagnostics()">
+        <span>🧠</span> DIAGS
+    </button>
 </div>
 
 <!-- 🌌 İlk Katman: Kahraman Alanı -->
@@ -1072,39 +1359,81 @@ setInterval(() => {
         window.calculatedNorthNodeRoom = northNodeRoomIndex; 
         window.calculatedSouthNodeRoom = southNodeRoomIndex;
 
-        // 🎯 4. SELENE (BEYAZ AY) ENJEKTÖRÜ
+  // =========================================================================
+        // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MUTLAK EVRE İLERLEME MOTORU - GARANTİ]
+        // =========================================================================
         let seleneGate = null; 
         let seleneIndex = -1;
-        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
+        
+   if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
+            // 360 derecelik evre ilerlemesini 8 Bagua kapısına (Her biri 45 derece) oranlıyoruz aga:
             let phaseOffsetGates = moonLive.seleneProgress * 8;
-            let seleneIndexRaw = Math.floor(sirkadiyenButonIndex + phaseOffsetGates + 4) % 8;
+            
+            // 🎯 SİHİRLİ GEOMETRİK BAĞLANTI:
+            // Ay'ı mutlak olarak Güneş kapısına (sirkadiyenButonIndex) kelepçeliyoruz!
+            // Bagua kapılarının yönü ile zodyak akış yönü ters olduğu için aradaki 
+            // evre farkını Güneş'ten çıkartarak (-) yön bükümüyle gerçek Kova/Balık konumuna fırlatıyoruz aga:
+            let seleneIndexRaw = Math.floor(sirkadiyenButonIndex - phaseOffsetGates) % 8;
+            
+            // Negatif indeks koruma kalkanı (0-7 sınır mühürü)
             seleneIndex = (seleneIndexRaw + 8) % 8; 
+            
             window.currentSeleneGateIndex = seleneIndex;
             seleneGate = gateMapping[seleneIndex];
         }
 
-        // Kapı referanslarını jilet gibi çekiyoruz aga:
+        // Kapı referanslarını jilet gibi çekiyoruz aga (Eski temiz yapın aynen kalıyor):
         let sunGate = gateMapping[sirkadiyenButonIndex];
         let moonGate = gateMapping[lilithButonIndex];
         let northNodeGate = gateMapping[northNodeRoomIndex];
         let southNodeGate = gateMapping[southNodeRoomIndex];
 
-        // 🛑 [BOARD_PANEL_SYNC] — HEM DOM ELEMENTLERİNİ DOĞRUDAN ZORLUYORUZ HEM DE ARKA PLANDA SÜREKLİ ENJEKTE EDİYORUZ:
-        const footerElements = document.querySelectorAll('div, span, p, .cosmic-status-bar');
-        footerElements.forEach(el => {
-            // Sadece alt bardaki çocuk düğümleri tarayıp yakalıyoruz:
-            if (el.innerText && (el.innerText.includes("ROOM:") || el.innerText.includes("NORTH NODE:"))) {
-                let txt = el.innerHTML;
-                // Donmuş ROOM yazısını güncel odayla değiştir:
-                txt = txt.replace(/ROOM:\s*\[\d+\/64\]/g, `ROOM: [${sunRoom64}/64]`);
-                // Donmuş NORTH NODE: ROOM 0 yazısını hesaplanan dinamik düğüm odasıyla değiştir aga:
-                txt = txt.replace(/NORTH NODE:\s*ROOM\s*\d+/g, `NORTH NODE: ROOM ${northNodeRoomIndex}`);
-                // Eğer varsa SOUTH NODE alanını da otomatik besle:
-                txt = txt.replace(/SOUTH NODE:\s*ROOM\s*\d+/g, `SOUTH NODE: ROOM ${southNodeRoomIndex}`);
-                el.innerHTML = txt;
+       // =========================================================================
+        // 🗃️ WICCA OS: UNIFIED COSMIC DOCK (3 PANEL TEK GÖVDE MÜHÜRÜ)
+        // =========================================================================
+        // Eski hantal querySelectorAll döngüsü temizlendi, yerine tek parça tül gövde geldi aga!
+        const unifiedDock = document.getElementById('lilith-cosmic-dock');
+        
+        if (unifiedDock) {
+            // Eğer esneme sınıfı CSS'te henüz tanımlı değilse enjekte et aga:
+            if (!unifiedDock.classList.contains('wicca-unified-dock')) {
+                unifiedDock.className = 'wicca-unified-dock';
             }
-        });
 
+            // 🛡️ SAF GÜVENLİK KALKANI: Burç değişkenleri scope dışına kaçtıysa sistem çökmez aga!
+            let activeSunPos   = typeof sunPos !== 'undefined' ? sunPos : (typeof sunDegRaw !== 'undefined' ? boylamiBurcaCevirAga(sunDegRaw) : "3° TERAZİ");
+            let activeMoonPos  = typeof moonPos !== 'undefined' ? moonPos : (typeof moonDegRaw !== 'undefined' ? boylamiBurcaCevirAga(moonDegRaw) : "5° KOÇ");
+            let activeLilithPos = typeof lilithPos !== 'undefined' ? lilithPos : (typeof lilithDegRaw !== 'undefined' ? boylamiBurcaCevirAga(lilithDegRaw) : "6° OĞLAK");
+
+            let livePValue = typeof window.currentP !== 'undefined' ? window.currentP : 1087; // Canlı P: 1087
+            let liveSeconds = typeof window.liveSeconds !== 'undefined' ? window.liveSeconds : 505;
+
+            // Yazıları tek bir şablon halinde, Matrix düzeninde şeffaf barın kalbine basıyoruz:
+            unifiedDock.innerHTML = `
+                <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: ULTRA RAFİNE FENG SHUI ÖZETİ -->
+                <div class="dock-summary-line" style="display:flex; justify-content:space-between; align-items:center; font-weight:bold; font-size:11px; font-family:monospace;">
+                    <span style="color: #00ffaa;">LILITH: MATRİS AKTİF [SYS_OMEGA_CLEANSE]</span>
+                    <span style="color: #ffaa00;">📥 P: ${livePValue}</span>
+                    <span style="color: #e2e8f0;">🌙 MOON: ${activeMoonPos}</span>
+                </div>
+                
+                <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK KUTSAL METATRON MATRİSİ -->
+                <div class="dock-expanded-content" style="margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px; font-size:10.5px; line-height:1.5; font-family:monospace; text-align:left;">
+                    <div style="color: #ccc;">🌓 Phase: (Full Moon) | Age: ${Number(moonLive && moonLive.age ? moonLive.age : 14.9).toFixed(1)} d | YIN: %${typeof darkMoonDominance !== 'undefined' ? darkMoonDominance : 93}</div>
+                    <div style="color: #888;">• ROOM: [${sunRoom64}/64] | LUNAR CYCLE: ${(moonLive && moonLive.seleneProgress ? moonLive.seleneProgress * 100 : 50.4).toFixed(1)}% | ENGINE: SYNCED ⏱️ ${liveSeconds}s</div>
+                    <div style="color: #00ffcc;">• KUTUPSAL EKSEN: ROOM ${northNodeRoomIndex} (${typeof liveNorthDeg !== 'undefined' ? liveNorthDeg : 274}°) ──> ● KARŞIT: ROOM ${southNodeRoomIndex} (${typeof liveSouthDeg !== 'undefined' ? liveSouthDeg : 94}°)</div>
+                    <div style="color: #a855f7; font-weight:bold; margin-top: 4px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px;">
+                        [METATRON CROSS] ──> SUN: <span style="color:#ff5e00;">${activeSunPos}</span> | MOON: <span style="color:#e2e8f0;">${activeMoonPos}</span> | LILITH: <span style="color:#a855f7;">${activeLilithPos}</span>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Eski o donuk .cosmic-status-bar yazısını HTML'de tamamen gizlemek için kalkan:
+        const oldStatusBar = document.querySelector('.cosmic-status-bar');
+        if (oldStatusBar) {
+            oldStatusBar.style.display = 'none'; // Görevini yeni tül bara devrettiği için statü barını tamamen gizliyoruz aga!
+        }
         // Kapıların temel loş sıfırlaması
         gateMapping.forEach(gate => {
             if (!gate) return;
@@ -1190,7 +1519,7 @@ const monaElement = document.getElementById('mesh-monalisa');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image') || document.querySelector('.salvador-layer');
 const metatronElement = document.getElementById('metatron-three-iframe-holder');
 
-console.log("Metatron:", metatronElement);
+//console.log("Metatron:", metatronElement);
 //--------------------------------------------------------------------------------------------------//
         
 let pendulumStatus = "";
@@ -1250,7 +1579,7 @@ if (monaElement && salvadorElement) {
     }
     // 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
     else if (sunRoom64 >= 24 && sunRoom64 <= 39) {
-        let progress = (sunRoom64 - 24) / (48 - 24);
+        let progress = (sunRoom64 - 24) / (39 - 24);
         
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
@@ -1258,11 +1587,13 @@ if (monaElement && salvadorElement) {
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
         
         const metatronIframe = document.querySelector('.metatron-iframe');
-        metatronIframe.style.setProperty('opacity', targetMonaOpacity, 'important');
+        metatronIframe.style.setProperty('opacity', targetMonaOpacity+targetSalvadorOpacity/2, 'important');
 
 
        monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
-    salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+        salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+
+        //34 civil- 38 astronomical twiligt
         
         // Geçiş evresinde pürüzsüz erime için ikisini de eşit katmana alıyoruz
         monaZIndex = "2";
@@ -1834,7 +2165,7 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
   try {
        //syncLilithEngine()
-       updateLilithCosmicDock()
+       //updateLilithCosmicDock()
        // console.log(window.now)
     } catch (error) {
         console.error("Wicca Engine Core Runtime Exception: ", error);
@@ -2920,7 +3251,40 @@ function updateLilithCosmicDock() {
     const statusBar = document.getElementById('cosmic-status');
     if (statusBar) {
 
- // =========================================================================
+        /*  // =========================================================================
+        // 🛡️ [WICCA CODESEC] ZERO-LAG ATOMIC SOLAR ENGINE [NO-MORE-BALIK-GLITCH]
+        // =========================================================================
+        // Asenkron 200 ms boşluğu tamamen ezmek için doğrudan buton zamanını emiyoruz aga:
+        let liveAxisDate = window.now || window.wiccaCurrentAxisDate || window.date || new Date();
+        
+        // Gecikmesiz canlı takvim datasını salisesinde içeride tetikliyoruz:
+        let metatronData = calculateMetatronMoon(liveAxisDate);
+
+        // 🎯 GÜNEŞ: getMonth() değerinin üzerine, o an akan saatin ve saniyenin saf ondalık 
+        // payını ekliyoruz. Ne 200 ms lag kalıyor, ne de Güneş Balık'a kaçabiliyor aga!
+        let currentBaseMonth = liveAxisDate.getMonth(); 
+        let currentSecondsFactor = (liveDateObj.getDate() * 86400 + liveDateObj.getHours() * 3600 + liveDateObj.getMinutes() * 60 + liveDateObj.getSeconds()) / 86400;
+        
+        // Nokta atışı Başak (Virgo) hizalamasını koruyan saf zamansal derece:
+        let sunDegRaw = window.liveSunLongitude || (moonLive && moonLive.sunLongitude) || (currentBaseMonth * 30 - 64.04 + currentSecondsFactor);
+
+        // 🌙 AY: Gecikmeli cache yerine doğrudan anlık seleneProgress yüzdesiyle tam uyumlu:
+        let moonPhaseProgress = metatronData.seleneProgress || 0.312;
+        let moonDegRaw = ((sunDegRaw + (moonPhaseProgress * 360)) % 360);
+
+        // 🔮 LILITH: Güneş'e bağlı o asil 90° Cross (Kare) haçı da sıfır gecikmeyle akacak:
+        let lilithDegRaw = (sunDegRaw + 92.5) % 360;
+
+        // 🪐 Burç dönüştürme motoru:
+        let sunPos     = boylamiBurcaCevirAga(sunDegRaw);
+        let moonPos    = boylamiBurcaCevirAga(moonDegRaw);
+        let lilithPos  = boylamiBurcaCevirAga(lilithDegRaw);
+
+        // Açı motorunu besle
+        if (typeof hesaplaGezegenAcilari === 'function') {
+            hesaplaGezegenAcilari(sunDegRaw, lilithDegRaw);
+        }*/
+        // =========================================================================
         // 🛡️ [WICCA CODESEC] ZERO-LAG ATOMIC SOLAR ENGINE [2.5° MILIMETRIK RE-FIXTURE]
         // =========================================================================
         // Kapsam içi değişken adını tek bir isimde (liveAxisDate) mühürlüyoruz aga:
@@ -2938,7 +3302,7 @@ function updateLilithCosmicDock() {
         // 🎯 KUTSALSAL DOĞAL EKSEN KORUMASI [2.5 DERECE DENGELEME ENJEKSİYONU]
         // O fazla gelen 2.5 derecelik sapmayı eritmek için ekinoks eşiğini -21'den -23.50 yapıyoruz aga!
         // Böylece hem şu an tam o bilge Başak'ın sonlarında parlayacak, hem de gelecek aylarda Terazi/Akrep'e dürüstçe akacak:
-     let sunDegRaw = window.liveSunLongitude || (moonLive && moonLive.sunLongitude) || (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
+        let sunDegRaw = window.liveSunLongitude || (moonLive && moonLive.sunLongitude) || (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
         // 🌙 AY: Gecikmeli cache yerine doğrudan anlık seleneProgress yüzdesiyle tam uyumlu:
         let moonPhaseProgress = metatronData.seleneProgress || 0.312;
         let moonDegRaw = ((sunDegRaw + (moonPhaseProgress * 360)) % 360);
@@ -2955,6 +3319,39 @@ function updateLilithCosmicDock() {
         if (typeof hesaplaGezegenAcilari === 'function') {
             hesaplaGezegenAcilari(sunDegRaw, lilithDegRaw);
         }
+
+        
+// =========================================================================
+// 🌀 WICCA OS: 64 ROOM HIGH-PRECISION FENG SHUI COMPASS ENGINE
+// =========================================================================
+// Statik 90 derecelik bloklar yerine, her oda değiştiğinde yön akışını 
+// jilet gibi tazeleyen 64 odalık dinamik eşitleme kalkanı aga:
+
+let liveNorthDeg = Math.round((sunDegRaw + 90) % 360);
+let liveSouthDeg = Math.round((sunDegRaw + 270) % 360);
+
+let northNodeMap = "";
+let southNodeMap = "";
+
+// 64 odayı 4 ana Feng Shui çeyreğine (Her biri 16 oda) bölüyoruz aga:
+if (currentRoom >= 0 && currentRoom < 16) {
+    // 🟢 0-16 Odalar: Doğu-Kuzeydoğu Doğuş Aksı
+    northNodeMap = `☳ NE [ICE_GATE]`;
+    southNodeMap = `☲ SW [FIRE_ORB]`;
+} else if (currentRoom >= 16 && currentRoom < 32) {
+    // 🟡 16-32 Odalar: Güney-Güneydoğu Tepe Zirve Aksı
+    northNodeMap = `☴ SE [AIR/WIND]`;
+    southNodeMap = `☶ NW [MOUNTAIN/METAL]`;
+} else if (currentRoom >= 32 && currentRoom < 48) {
+    // 🔵 32-48 Odalar: Batı-Kuzeybatı Batan Akşam Aksı (Şu an 37-39. odalardasın aga!)
+    // Burası tetiklendiği an yön tık diye N/S aksına evrilecek!
+    northNodeMap = `☵ N [WATER_FLOW]`;
+    southNodeMap = `☲ S [FIRE_AXIS]`;
+} else {
+    // 🔴 48-64 Odalar: Kuzey Gece Lilith Derinlik Aksı
+    northNodeMap = `☱ NW [LIGHT_CRYSTAL]`;
+    southNodeMap = `☷ SE [EARTH_MATRİS]`;
+}
 
         // 🎯 KRİTİK DÜZELTME: Değişken isimlerinin ilk harflerini küçük yaparak eşitledik aga!
         statusBar.innerHTML = 
@@ -3360,14 +3757,41 @@ function getDynamicCosmicAge(date) {
         name: ageName, element: ageElement, displayText: ageDisplay, isEnlightened: isEnlightenedAge
     };
 }
-// Fonksiyonun mod kontrol alanına şu iki devasa vitesi ekliyoruz aga:
+
+
+
 // =========================================================================
-// 🎛️ WICCA OS: 79 & 790 YILLIK MAKRO ÇAĞ ATLATICI MODÜLÜ
+// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI (MÜHÜRLÜ)
 // =========================================================================
+window.setWiccaMode = function(mode) {
+    window.wiccaTimeMode = mode; // Eski küresel kalkan ismini koruyoruz aga
+    
+    // Tüm butonların siberpunk ışıklarını söndürüp pasife çekme mantığı
+    const modes = ['SAAT', 'GÜN', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
+    modes.forEach(m => {
+        const btn = document.getElementById(`mode-btn-${m.toLowerCase()}`);
+        if (btn) {
+            btn.style.background = '#0a0a0a'; 
+            btn.style.color = '#444'; 
+            btn.style.border = '1px solid #222'; 
+            btn.style.boxShadow = 'none';
+        }
+    });
+    
+    // Aktif edilen zaman vitesinin butonunu mor neon ışıkla patlatıyoruz aga!
+    const activeBtn = document.getElementById(`mode-btn-${mode.toLowerCase()}`);
+    if (activeBtn) {
+        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)'; 
+        activeBtn.style.color = '#fff'; 
+        activeBtn.style.border = '1px solid #7a00ff'; 
+        activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
+    }
+    console.log(`Wicca OS Zaman Vitesi Değiştirildi: [${mode}]`);
+};
 
 // 🛡️ Global Değişken Kalkanları — AÇILIŞ MODU MUTLAK 'SAAT' (ODA) VİTESİNE KİLİTLENDİ AGA!
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'SAAT'; } // Ay çöpe atıldı, artık saf ODA bağlı!
+if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'SAAT'; }
 
 // =========================================================================
 // 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR)
@@ -3382,22 +3806,31 @@ window.bendWiccaTime = function(direction) {
         window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
     }
 
-    let roomDelta = 1; // SAAT/ODA modunda tam 1 Sabbat kapısı (8 oda) fırlat!
+    let roomDelta = 1;      // Sabbat kadran atlama payı
+    let macroYearDelta = 0; // Büyük Feng Shui çağ kaymaları için yıl çarpanı
 
+    // Eski şalter yapısını makro çağ mutasyonlarıyla jilet gibi genişletiyoruz aga:
     switch(window.wiccaTimeMode) {
         case 'SAAT': 
-            roomDelta = 1; 
+            roomDelta = 1; // 1 Sabbat kapısı (8 oda) fırlat!
             break;             
         case 'GÜN':  
-            roomDelta = 2; 
+            roomDelta = 2; // 2 Sabbat kapısı fırlat!
             break;        
         case 'AY':   
-            roomDelta = 4; 
+            roomDelta = 4; // 4 Sabbat kapısı fırlat!
             break;   
         case 'VENUS8': 
+            roomDelta = 8; // Tam tur 64 odalık fraktal döngü
+            macroYearDelta = 7.9; // 7.9 Yıllık Venüs döngüsü takvim kayması aga
+            break;
         case 'SATURN79':
+            roomDelta = 8;
+            macroYearDelta = 79;  // 79 Yıllık makro Feng Shui döngü bükülmesi
+            break;
         case 'KELDANI790':
             roomDelta = 8;
+            macroYearDelta = 790; // 790 Yıllık büyük Keldani çağ mutasyonu
             break;
         default: 
             roomDelta = 1;
@@ -3412,32 +3845,42 @@ window.bendWiccaTime = function(direction) {
     }
 
     // 🎯 [MUTLAK 64 ODALIK DÖNGÜ KİLİDİ]: 58'den sonra 66'ya taşmayı kökten engelliyoruz!
-    // Oda her zaman ve sadece 64'lük çemberin tam katlarında (0, 8, 16, 24, 32, 40, 48, 56) kalacak aga!
+    // Oda her zaman ve sadece 64'lük çemberin tam katlarında kalacak aga!
     let forcedRoom = (window.wiccaSabbatIndex * 8) % 64;
 
     // Hem canlı simülasyon odasını hem de global takibi bu kuantum odasına kelepçeliyoruz:
     if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
     window.currentCalculatedRoom = forcedRoom;
 
-    // 📅 Arka plan zaman kaydırma entegrasyonu:
+    // 📅 Arka plan zaman kaydırma entegrasyonu (Milenyum ve Mikro dengeli):
     const baseDate = new Date();
-    let offsetMs = roomDelta * 8 * 22.5 * 60 * 1000; 
-    if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
     
-    if (direction === 'PAST') {
-        window.wiccaTimeOffsetMinutes -= (offsetMs / (60 * 1000));
-    } else {
-        window.wiccaTimeOffsetMinutes += (offsetMs / (60 * 1000));
+    // Mikro viteslerin (Saat, Gün, Ay) dakika cinsinden kayma payı:
+    let offsetMs = roomDelta * 8 * 22.5 * 60 * 1000; 
+    let minutesToShift = offsetMs / (60 * 1000);
+
+    // Eğer makro vitesler (7.9Y, 79Y, 790Y) aktifse, dakikayı devasa takvim yılına çevir aga:
+    if (macroYearDelta > 0) {
+        const MINUTES_IN_YEAR = 365.2422 * 24 * 60;
+        minutesToShift = macroYearDelta * MINUTES_IN_YEAR;
     }
+    
+    // Zaman vanasını yön doğrultusunda sıkıyoruz ya da gevşetiyoruz:
+    if (direction === 'PAST') {
+        window.wiccaTimeOffsetMinutes -= minutesToShift;
+    } else {
+        window.wiccaTimeOffsetMinutes += minutesToShift;
+    }
+    
+    // Nihai bükülmüş sanal Date nesnesini mühürlüyoruz:
     window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
+    window.wiccaCurrentAxisDate = window.now;
 
     // 🫀 MÜHENDİSLİK ZİRVESİ: Windkessel medikal arayüzünü anında tetikleyip ekrana mühürle aga!
     if (typeof updateLilithCosmicDock === 'function') {
         updateLilithCosmicDock();
     }
 };
-
-
 // =========================================================================
 // 🪐 13 MOON MAYA TIME ENGINE [DECENTRALIZED_GALACTIC_CALIBRATION]
 // =========================================================================
@@ -3678,32 +4121,56 @@ document.addEventListener("DOMContentLoaded", () => {
     hesaplaWiccaAyDugumleri(window.wiccaCurrentAxisDate || new Date());
 });
 
-// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI
+
 // =========================================================================
-window.setWiccaMode = function(mode) {
-    window.wiccaTimeMode = mode;
+// 🎛️ GLOBAL COCKPIT PANEL: AÇILIR-KAPANIR TEPE MENÜ MOTORU
+// =========================================================================
+document.addEventListener("DOMContentLoaded", () => {
+    const timeMachinePanel = document.getElementById('time-machine-panel');
     
-    // Tüm butonların siberpunk ışıklarını söndürüp pasife çekme mantığı
-    const modes = ['SAAT', 'GÜN', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
-    modes.forEach(m => {
-        const btn = document.getElementById(`mode-btn-${m.toLowerCase()}`);
-        if (btn) {
-            btn.style.background = '#0a0a0a'; 
-            btn.style.color = '#444'; 
-            btn.style.border = '1px solid #222'; 
-            btn.style.boxShadow = 'none';
+    if (timeMachinePanel) {
+        // 1. Ekranın tepesinde duracak olan global tetikleyici butonu enjekte ediyoruz aga
+        if (!document.getElementById('wicca-global-toggle')) {
+            document.body.insertAdjacentHTML('beforeend', `
+                <button id="wicca-global-toggle" class="wicca-global-trigger">
+                    🕒 <span id="wicca-global-text">ZAMAN MOTORU</span>
+                </button>
+            `);
         }
-    });
-    
-    // Aktif edilen zaman vitesinin butonunu mor neon ışıkla patlatıyoruz aga!
-    const activeBtn = document.getElementById(`mode-btn-${mode.toLowerCase()}`);
-    if (activeBtn) {
-        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)'; 
-        activeBtn.style.color = '#fff'; 
-        activeBtn.style.border = '1px solid #7a00ff'; 
-        activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
+
+        const globalToggleBtn = document.getElementById('wicca-global-toggle');
+        const globalText = document.getElementById('wicca-global-text');
+
+        // 2. Butona tıklandığında paneli stor perde gibi aşağı indir / yukarı çek
+        globalToggleBtn.addEventListener('click', (e) => {
+            e.stopPropagation(); // Matrisin diğer tıklama olaylarıyla çakışmasın aga
+            timeMachinePanel.classList.toggle('wicca-drawer-active');
+
+            // Butonun rengini ve metnini duruma göre büküyoruz aga
+            if (timeMachinePanel.classList.contains('wicca-drawer-active')) {
+                globalText.innerText = "PANELİ KAPAT";
+                globalToggleBtn.style.borderColor = "#ff5e00"; // Kapatırken PAST turuncusu
+                globalToggleBtn.style.boxShadow = "0 0 12px rgba(255, 94, 0, 0.6)";
+            } else {
+                globalText.innerText = "ZAMAN MOTORU";
+                globalToggleBtn.style.borderColor = "#7a00ff"; // Normalde FUTURE moru
+                globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
+            }
+        });
+
+        // 3. UX Konforu: Panel açıkken ekranda boş bir yere dokunulursa otomatik yukarı katlansın
+        document.addEventListener('click', (e) => {
+            if (!timeMachinePanel.contains(e.target) && e.target !== globalToggleBtn) {
+                timeMachinePanel.classList.remove('wicca-drawer-active');
+                globalText.innerText = "ZAMAN MOTORU";
+                globalToggleBtn.style.borderColor = "#7a00ff";
+                globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
+            }
+        });
     }
-};
+});
+
+
 
 // =========================================================================
 // 🪐 WICCA GLOBAL STATÜ VE KATMAN MÜHÜRLERİ (ASLA ÇÖKMEYEN KORUMA SEÇİCİSİ)
@@ -3766,7 +4233,205 @@ document.addEventListener("visibilitychange", () => {
     }
 });
 
+// 📺 TELEFONU / BİLGİSAYARI TAM EKRAN APLİKASYON MODUNA SOKAN MOTOR
+function toggleWiccaFullscreen() {
+    if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen().catch(err => {
+            console.log(`Wicca OS Kuantum Ekran Hatası: ${err.message}`);
+        });
+    } else {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        }
+    }
+}
 
+// =========================================================================
+// 🧭 WICCA OS: GERÇEK ZAMANLI MOBİL PUSULA SENSÖR SÜRÜCÜSÜ
+// =========================================================================
+let currentCompassHeading = 0;
+
+function activateWiccaPhysicalCompass() {
+    // Mobil tarayıcılarda oryantasyon sensörünü dinliyoruz aga
+    if (window.DeviceOrientationEvent) {
+        
+        // iOS (Safari) için kritik güvenlik ve izin kapısı kilidi
+        if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+            DeviceOrientationEvent.requestPermission()
+                .then(permissionState => {
+                    if (permissionState === 'granted') {
+                        window.addEventListener('deviceorientation', handleCompassMove, true);
+                    }
+                })
+                .catch(console.error);
+        } else {
+            // Android ve diğer tarayıcılar direkt sıfır lag bağlanır
+            window.addEventListener('deviceorientation', handleCompassMove, true);
+        }
+    } else {
+        console.log("Aga bu cihazda manyetometre (pusula sensörü) bulunamadı.");
+    }
+}
+
+// Telefon havada döndükçe salisesinde tetiklenen hesaplama çarkı:
+function handleCompassMove(event) {
+    let heading = 0;
+    
+    // iOS için saf Kuzey açısı (webkitCompassHeading)
+    if (event.webkitCompassHeading) {
+        heading = event.webkitCompassHeading;
+    } else {
+        // Android için manyetik pusula dönüşü
+        heading = 360 - event.alpha;
+    }
+
+    currentCompassHeading = Math.round(heading);
+
+    // 🎯 SİHİRLİ DÖNÜŞ ENJEKSİYONU: 
+    // 8 Kapının içinde yaşadığı o ana .cosmic-compass div'ini 
+    // telefonun döndüğü açının tam tersine (heading) çeviriyoruz ki, 
+    // kapılar dünyadaki gerçek yönlere göre ekranda jilet gibi sabit kalsın!
+    const cosmicCompassDiv = document.querySelector('.cosmic-compass');
+    if (cosmicCompassDiv) {
+        cosmicCompassDiv.style.transform = `rotate(${-currentCompassHeading}deg)`;
+        cosmicCompassDiv.style.transition = "transform 0.1s linear"; // Gecikmesiz, jilet akış
+    }
+}
+
+
+// Bu fonksiyon koddaki hiçbir astronomik değişkeni bozmaz aga.
+// Sadece gözünün gördüğü o 8 Bagua kapısının yönünü dünyadaki gerçek eksene kilitler.
+function handleCompassMove(event) {
+    let heading = event.webkitCompassHeading || (360 - event.alpha);
+    currentCompassHeading = Math.round(heading);
+
+    // 🎯 İÇERİDE DEĞİŞEN TEK ŞEY BU CSS DEĞİŞKENİ OLACAK AGA:
+    const cosmicCompassDiv = document.querySelector('.cosmic-compass');
+    if (cosmicCompassDiv) {
+        // Telefonu sağa çevirirsen kapıları sola döndürerek yönü dünyada sabit tutar
+        cosmicCompassDiv.style.transform = `rotate(${-currentCompassHeading}deg)`;
+    }
+}
+
+// Alt bardaki CALIBRATE butonuna basıldığında tetiklenecek fonksiyon
+function calibrateCosmicMatrix() {
+    console.log("Manyetometre ve Pusula Sensör İzinleri İsteniyor...");
+    
+    // Kullanıcı butona bastığı an resmi izin isteme motorunu ateşliyoruz aga:
+    activateWiccaPhysicalCompass(); 
+}
+
+// Diğer butonların boş kalıp hata vermemesi için geçici kuantum fonksiyonlar aga
+function openWiccaSubSettings(mode) { console.log(`${mode} Kadranı Tetiklendi`); }
+function calibrateCosmicMatrix() { console.log("Matris Rezonansı Kalibre Ediliyor..."); }
+function runMatrixDiagnostics() { console.log("SYS_OMEGA_CLEANSE Günlükleri Taranıyor..."); }
+
+// =========================================================================
+// 🧠 WICCA OS: ZERO-LAG DIAGNOSTICS & FLEXIBLE DOCK MOTORU (MÜHÜRLÜ)
+// =========================================================================
+let wiccaDiagsInterval = null;
+
+// 1. 🚨 HATAYI KÖKTEN SİLEN YENİ DİNAMİK LOG MOTORU
+function runMatrixDiagnostics() {
+    const terminal = document.getElementById('wicca-diags-terminal');
+    if (!terminal) return;
+
+    // Terminali ekrana fırlat
+    terminal.classList.add('terminal-active');
+    
+    // 🎨 Sirkadiyen Renk Kilidi: Aktif odaya göre terminal rengini mühürle
+    const currentRoomCheck = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 42;
+    if (currentRoomCheck >= 32 && currentRoomCheck < 48) {
+        terminal.style.borderColor = "#0055ff";
+        terminal.style.boxShadow = "0 0 25px rgba(0, 85, 255, 0.35)";
+        const titleSpan = document.querySelector('.terminal-title');
+        if (titleSpan) {
+            titleSpan.style.color = "#0055ff";
+            titleSpan.style.textShadow = "0 0 5px #0055ff";
+        }
+    }
+
+    const body = document.getElementById('terminal-body');
+    if (!body) return;
+    body.innerHTML = "";
+
+    // Zamanlayıcıyı güvenli bir şekilde sıfırla aga RAM yorulmasın
+    if (wiccaDiagsInterval) clearInterval(wiccaDiagsInterval);
+
+    // 🎯 CANLI EMBED MOTORU: Alt tarafta dönen gerçek dinamik verileri emip saniyede bir basar
+    wiccaDiagsInterval = setInterval(() => {
+        let currentPValue = typeof window.currentP !== 'undefined' ? window.currentP : 277; // Canlı P: 277
+        let currentCSF = typeof window.liveCsfVelocity !== 'undefined' ? window.liveCsfVelocity : 0.59; 
+        let currentResonance = typeof window.liveResonance !== 'undefined' ? window.liveResonance : 112.3;
+        let liveYin = typeof darkMoonDominance !== 'undefined' ? darkMoonDominance : 100;
+
+        // innerHTML ile doğrudan bastığımız için artık addLogLine fonksiyonuna gerek kalmadı aga!
+        body.innerHTML = `
+            <div style="color: #7a00ff; margin-bottom: 6px; font-weight:bold;">>> MONITORING LIVE QUANTUM DATA FLOW...</div>
+            <div style="color: #00ffaa; margin-bottom: 4px;">[SYS] LILITH OMEGA_CLEANSE : ACTIVE [YIN: %${liveYin}]</div>
+            <div style="color: #00ffff; margin-bottom: 4px;">[BIO] CSF FLOW VELOCITY    : ${currentCSF} m/s <span style="color: #222;">|</span> STABLE</div>
+            <div style="color: #ffaa00; margin-bottom: 4px;">[HYD] CORE HYDRO-PRESSURE (P): ${currentPValue} mmHg <span style="color: #222;">|</span> PULSING</div>
+            <div style="color: #7a00ff; margin-bottom: 4px;">[OS]  METATRON HARMONICS   : ${currentResonance} Hz <span style="color: #222;">|</span> SECURED</div>
+            <div style="color: #555; font-size: 9px; margin-top: 12px; text-align: center;">💾 LOG STREAM RUNNING IN ZERO-LAG MODE</div>
+        `;
+    }, 800);
+}
+
+// Terminali kapatma şalteri aga
+function closeWiccaDiags() {
+    const terminal = document.getElementById('wicca-diags-terminal');
+    if (terminal) terminal.classList.remove('terminal-active');
+    if (wiccaDiagsInterval) {
+        clearInterval(wiccaDiagsInterval);
+        wiccaDiagsInterval = null;
+    }
+}
+
+// =========================================================================
+// 🔮 DOKUNUNCA YUKARI ESNEYEN ŞEFFAF TÜL PANEL MOTORU (MÜHÜRLÜ ENJEKSİYON)
+// =========================================================================
+document.addEventListener("DOMContentLoaded", () => {
+    const lilithDock = document.getElementById('lilith-cosmic-dock');
+    const lilithTitle = document.getElementById('lilith-title');
+
+    if (lilithDock) {
+        // Lilith dock panelinin sağ üst köşesine kibar bir mobil genişleme ibaresi ekle aga
+        if (lilithTitle && !document.getElementById('dock-arrow')) {
+            lilithTitle.innerHTML += `<span id="dock-arrow" style="font-size: 8px; color: #444; transition: all 0.3s ease; font-weight: bold; letter-spacing: 0.5px;">▲ EXPAND</span>`;
+        }
+
+        const arrow = document.getElementById('dock-arrow');
+
+        // Panele dokunulduğunda yukarı stor gibi uzat veya geri katla
+        lilithDock.addEventListener('click', (e) => {
+            e.stopPropagation(); // Diğer click eventlerini kilitlemesin aga
+            lilithDock.classList.toggle('dock-expanded');
+
+            if (lilithDock.classList.contains('dock-expanded')) {
+                if (arrow) {
+                    arrow.innerText = "▼ CLOSE";
+                    arrow.style.color = "#ff5e00"; // Kapatırken PAST turuncusu
+                }
+            } else {
+                if (arrow) {
+                    arrow.innerText = "▲ EXPAND";
+                    arrow.style.color = "#444";
+                }
+            }
+        });
+
+        // UX Rahatlığı: Boş bir yere dokunulursa tül panel otomatik aşağı kapansın
+        document.addEventListener('click', (e) => {
+            if (!lilithDock.contains(e.target)) {
+                lilithDock.classList.remove('dock-expanded');
+                if (arrow) {
+                    arrow.innerText = "▲ EXPAND";
+                    arrow.style.color = "#444";
+                }
+            }
+        });
+    }
+});
 </script>
 
 
