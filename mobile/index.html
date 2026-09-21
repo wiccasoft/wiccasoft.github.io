@@ -987,7 +987,7 @@ setInterval(() => {
     // =========================================================================
     let sunAngle = (sunRoom64 * 5.625);
     let sunCircadianColor = '#7a00ff'; // Varsayılan Gece Moru (Rubedo)
-
+/*
     if (sunRoom64 >= 0 && sunRoom64 < 12) { 
         // 🔥 YANG ZİRVE: Mutlak Öğlen ve Gündüz (Saf Parlak Beyaz/Sarı)
         sunCircadianColor = '#ffeb3b'; 
@@ -1004,7 +1004,7 @@ setInterval(() => {
         // 🌅 YIN UYANIŞ: Şafak Vakti Güneydoğu/Güney Kutbu Isınması!
         sunCircadianColor = '#f97316'; 
     }
-  
+  */
   // =========================================================================
     // ⚔️ FİZİKSEL 4 FIXED & 4 CARDINAL + NİHAİ CO-EXIST MOTORU [WICCA_METATRON_MASTER_FINAL]
     // =========================================================================
@@ -1273,8 +1273,17 @@ if (monaElement && salvadorElement) {
         monaZIndex = "1";
         salvadorZIndex = "99";
     }
+
+    else if (sunRoom64 >= 51 && sunRoom64 <= 59) {
+
+         targetMonaOpacity = 0.0; 
+        targetSalvadorOpacity = 1.0;           
+        pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
+        dayStg = "🔵 RESURECTION (CHARGE)";
+        
+    }
     // 🎯 4. VİTES [51 - 64. ODALAR]: Gece Yarısından After Midnight ve Şafağa
-    else if (sunRoom64 >= 51 && sunRoom64 <= 64) {
+    else if (sunRoom64 >= 59 && sunRoom64 <= 64) {
         let progress = (sunRoom64 - 51) / (64 - 51);
         let twilightCalibrated = Math.pow(progress, 3.5);
         
