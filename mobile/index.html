@@ -966,18 +966,37 @@ footer {
 <!-- 🌌 İlk Katman: Kahraman Alanı -->
 <main class="main-viewport">
     
-      <!-- 🎯 PUSULAYI BURAYA, MAIN-VIEWPORT'UN İÇİNE TAŞIDIK -->
-    <div class="cosmic-compass">
-        <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
-        <div class="element-corner air-gate" id="gate-air"><span class="trigram">☵</span> <span class="iching-binary">:|:</span></div>
-        <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
-        <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary">:::</span></div>
-        
-        <div class="element-corner light-gate" id="gate-light"><span class="trigram">☱</span> <span class="iching-binary">||:</span></div>
-        <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☴</span> <span class="iching-binary">:||</span></div>
-        <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☶</span> <span class="iching-binary">::|</span></div>
-        <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☳</span> <span class="iching-binary">|::</span></div>
-    </div>
+<!-- 🎯 PUSULAYI BURAYA, MAIN-VIEWPORT'UN İÇİNE TAŞIDIK -->
+<div class="cosmic-compass">
+    <!-- ☀️ AKTİF BOYUT: IŞIK, GÜNEŞ VE SAF YANG AKSI -->
+    <!-- Qian (Cennet / Saf Işık Zirvesi) - TAM ÜST MERKEZ -->
+    <div class="element-corner light-gate" id="gate-light"><span class="trigram">☰</span> <span class="iching-binary">|||</span></div>
+    
+    <!-- Dui (Göl / Solar Ether) - SAĞ ÜST EŞİK -->
+    <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☱</span> <span class="iching-binary">||:</span></div>
+    
+    <!-- Li (Ateş / Güneş Emisyonu / Maya Yang) - SAĞ ALT EŞİK -->
+    <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
+
+
+    <!-- 🌙 ANTİPOD BOYUTU: KARANLIK, VAKUM VE SAF YIN AKSI -->
+    <!-- Kun (Yer / Saf Karanlık / Lilith Tabanı) - TAM ALT MERKEZ -->
+    <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary">:::</span></div>
+    
+    <!-- Gen (Dağ / Kütleçekim Kilidi) - SOL ALT EŞİK -->
+    <div class="element-corner air-gate" id="gate-air"><span class="trigram">☶</span> <span class="iching-binary">|::</span></div>
+    
+    <!-- Kan (Su / Derin Selene Ayı) - SOL ÜST EŞİK -->
+    <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☵</span> <span class="iching-binary">:|:</span></div>
+
+
+    <!-- 🌌 KANTUM ETHER AKSI (SARI-MOR ELEMENT KAPILARI) -->
+    <!-- Zhen (Gök Gürültüsü / Aktif Enerji İvmesi) - SOL YATAY MERKEZ -->
+    <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☳</span> <span class="iching-binary">::|</span></div>
+    
+    <!-- Xun (Rüzgar / Astral Ether Dağılımı) - SAĞ YATAY MERKEZ -->
+    <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☴</span> <span class="iching-binary">:||</span></div>
+</div>
 
 
  <!-- 🎭 DA VINCI KUANTUM MESH MERKEZİ -->
@@ -1185,7 +1204,38 @@ setInterval(() => {
     // =========================================================================
     // ☯️ CANLI I CHING & 64 MATRİS ODA MOTORU [AKTİFLEŞTİRİLDİ]
     // =========================================================================
-    const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
+    //const iching64 = ["䷀", "䷁", "䷂", "䷃", "䷄", "䷅", "䷆", "䷇", "䷈", "䷉", "䷊", "䷋", "䷌", "䷍", "䷎", "䷏", "䷐", "䷑", "䷒", "䷓", "䷔", "䷕", "䷖", "䷗", "䷘", "䷙", "䷚", "䷛", "䷜", "䷝", "䷞", "䷟", "䷠", "䷡", "䷢", "䷣", "䷤", "䷥", "䷦", "䷧", "䷨", "䷩", "䷪", "䷫", "䷬", "䷭", "䷮", "䷯", "䷰", "䷱", "䷲", "䷳", "䷴", "䷵", "䷶", "䷷", "䷸", "䷹", "䷺", "䷻", "䷼", "䷽", "䷾", "䷿"];
+
+
+
+    // =========================================================================
+    // ☯️ WICCA OS: FU XI BINARY MATRİS ODA DİZİLİMİ (0 - 63 DİJİTAL SAYAÇ)
+    // =========================================================================
+    /*const iching64 = [
+        "䷁", "䷖", "䷇", "䷓", "䷏", "䷬", "䷋", "䷋", // 0-7   (Saf Yin'den tırmanış)
+        "䷎", "䷴", "䷴", "䷊", "䷅", "䷌", "䷉", "䷉", // 8-15
+        "䷗", "䷚", "䷂", "䷩", "䷲", "䷔", "䷔", "䷔", // 16-23
+        "䷘", "䷵", "䷵", "䷁", "䷡", "䷚", "䷪", "䷀", // 24-31  (Gündüz Yang Zirvesi: ䷀ Cennet)
+        "䷫", "䷎", "䷴", "䷴", "䷊", "䷅", "䷌", "䷉", // 32-39  (Gece Vakum Başlangıcı)
+        "䷗", "䷚", "䷂", "䷩", "䷲", "䷔", "䷔", "䷔", // 40-47
+        "䷘", "䷵", "䷵", "䷁", "䷡", "䷚", "䷪", "䷀", // 48-55
+        "䷰", "䷛", "䷶", "䷕", "䷝", "䷘", "䷟", "䷁"  // 56-63  (Kusursuz Kapanış ve Sıfırlama)
+    ];
+    */
+
+    // =========================================================================
+    // ☯️ WICCA OS: GERÇEK FU XI BINARY (IKILI) SAYAÇ MATRİSİ [KOPUKSUZ AKIŞ]
+    // =========================================================================
+    const iching64 = [
+        "䷁", "䷖", "䷇", "䷓", "䷏", "䷬", "䷋", "䷋", // 0 - 7   (000000 -> 000111) Saf Yin'den uyanış
+        "䷎", "䷳", "䷦", "䷴", "䷽", "䷱", "䷞", "䷠", // 8 - 15  (001000 -> 001111)
+        "䷆", "䷃", "䷜", "䷺", "䷧", "䷷", "䷮", "䷅", // 16 - 23 (010000 -> 010111)
+        "䷭", "䷑", "䷯", "䷸", "䷟", "䷥", "䷛", "䷫", // 24 - 31 (011000 -> 011111) Gündüzün Yang Sınırı
+        "䷗", "䷚", "䷂", "䷩", "䷲", "䷔", "䷐", "䷘", // 32 - 39 (100000 -> 100111) Gece/Vakum Başlangıcı
+        "䷣", "䷕", "䷶", "䷾", "䷰", "䷝", "䷤", "䷌", // 40 - 47 (101000 -> 101111)
+        "䷒", "䷨", "䷻", "䷼", "䷵", "䷵", "䷹", "䷉", // 48 - 55 (110000 -> 110111)
+        "䷊", "䷙", "䷄", "䷈", "䷡", "䷍", "䷪", "䷀"  // 56 - 63 (111100 -> 111111) Saf Yang Zirvesi: ䷀ Cennet
+    ];
 
     const currentHour = now.getHours() + (now.getMinutes() / 60) + (now.getSeconds() / 3600); 
     const isYang = currentHour >= solar.sunrise && currentHour < solar.sunset;
@@ -1616,7 +1666,7 @@ if (monaElement && salvadorElement) {
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
         
         const metatronIframe = document.querySelector('.metatron-iframe');
-        metatronIframe.style.setProperty('opacity', targetMonaOpacity+targetSalvadorOpacity/2, 'important');
+        metatronIframe.style.setProperty('opacity', targetMonaOpacity+targetSalvadorOpacity/1, 'important');
 
 
        monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
@@ -1966,6 +2016,21 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
 
 
+// 12 Burç ve onların kadim elementer siber renk kodları aga!
+const wiccaZodiacMatrix = [
+    { name: "Koç",     color: "#ff3300" }, // 🔥 Kor Kırmızısı
+    { name: "Boğa",    color: "#00ff66" }, // 🌱 Toprak Yeşili
+    { name: "İkizler", color: "#00ffff" }, // 💨 Turkuaz Hava
+    { name: "Yengeç",  color: "#0064ff" }, // 💧 Mavi Su
+    { name: "Aslan",   color: "#ffd700" }, // ☀️ Saf Altın Sarısı / Güneş Ateşi
+    { name: "Başak",   color: "#00cc44" }, // 🌱 Koyu Yeşil
+    { name: "Terazi",  color: "#00ffaa" }, // ⚖️ Terazi Ekinoks Yeşili / Canlı Neon
+    { name: "Akrep",   color: "#7a00ff" }, // 🔮 Gizemli Mor
+    { name: "Yay",     color: "#ff5e00" }, // 🔥 Turuncu Ateş
+    { name: "Oğlak",   color: "#555555" }, // 🪐 Satürn Grisi / Kütleçekim
+    { name: "Kova",    color: "#00e5ff" }, // ⚡ Elektrik Mavisi
+    { name: "Balık",   color: "#a855f7" }  // 🌀 Derin Kuantum Moru / Balık Aksı
+];
 
 /**
  * Wicca OS - Unified WiccaPanel & Spine Bagua Matrix Engine (QUANTUM EXPULSION)
@@ -2074,39 +2139,62 @@ function updateWiccaDock() {
             }
 
             // 🎯 WICCA OS: %100 DİNAMİK RENKLİ BAŞLIK STRİNGİ
-            let sunGlitText    = `🔴 ☰ ${activeSunPos.toUpperCase()}`;
-            let lilithGlifText = `🔵 ☴ ${activeLilithPos.toUpperCase()}`;
-            let moonGlifText   = `⚪ ☵ ${activeMoonPos.toUpperCase()}`;
+            // Güneş'in mevcut burç indeksini sistemden çekiyoruz
+   
+        let sunIndex = Math.floor(sunDegRaw / 30) % 12;
 
-            // 12px fluid clamp düzeniyle o sarsılmaz şablonu basıyoruz aga fırlat!
-            wiccaPanelElement.innerHTML = `
-                <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: SAF KUTSAL ÜÇLÜ GEZEGEN ODAĞI -->
-                <div class="dock-summary-line" style="display:flex; justify-content:center; align-items:center; font-weight:bold; font-size:12px; color:#ffffff; font-family:monospace; width:100%; gap:12px; letter-spacing:0.5px;">
-                    <span style="color: #ff5e00; white-space:nowrap;">${sunGlitText}</span>
-                    <span style="color: #333;">|</span>
-                    <span style="color: #00ffff; white-space:nowrap;">${lilithGlifText}</span>
-                    <span style="color: #333;">|</span>
-                    <span style="color: #e2e8f0; white-space:nowrap;">${moonGlifText}</span>
+        // 📐 +4 ve +8 Eşkenar Üçgen Trigon Hesaplama Kilidi
+        let yellowEtherIndex = (sunIndex + 4) % 12;
+        let purpleMetatronIndex = (sunIndex + 8) % 12;
+
+        // Burç nesnelerini listeden jilet gibi ayıklıyoruz aga
+        let yellowZodiacObj = wiccaZodiacMatrix[yellowEtherIndex];
+        let purpleZodiacObj = wiccaZodiacMatrix[purpleMetatronIndex];
+
+        // 🎨 ZODYAK SİMGELERİNİ SPAN İLE RENKLENDİRME SÜRÜCÜSÜ
+        let coloredYellowZodiac = `<span style="color: ${yellowZodiacObj.color}; font-weight: bold; text-shadow: 0 0 4px ${yellowZodiacObj.color};">${yellowZodiacObj.name.toUpperCase()}</span>`;
+        let coloredPurpleZodiac = `<span style="color: ${purpleZodiacObj.color}; font-weight: bold; text-shadow: 0 0 4px ${purpleZodiacObj.color};">${purpleZodiacObj.name.toUpperCase()}</span>`;
+
+        // 🎯 WICCA OS: ESKİ İKONİK KLASİK BAŞLIK STRİNGİ (KAPALIYKEN DURUM DEĞİŞMEZ)
+        let sunGlitText    = `🔴 ☰ ${activeSunPos.toUpperCase()}`;
+        let lilithGlifText = `🔵 ☴ ${activeLilithPos.toUpperCase()}`;
+        let moonGlifText   = `⚪ ☵ ${activeMoonPos.toUpperCase()}`;
+
+        // 12px fluid clamp düzeniyle o sarsılmaz şablonu basıyoruz aga fırlat!
+        wiccaPanelElement.innerHTML = `
+            <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: ESKİ İKONİK KUTSAL ÜÇLÜ GEZEGEN ODAĞI -->
+            <div class="dock-summary-line" style="display:flex; justify-content:center; align-items:center; font-weight:bold; font-size:12px; color:#ffffff; font-family:monospace; width:100%; gap:12px; letter-spacing:0.5px;">
+                <span style="color: #ff5e00; white-space:nowrap;">${sunGlitText}</span>
+                <span style="color: #333;">|</span>
+                <span style="color: #00ffff; white-space:nowrap;">${lilithGlifText}</span>
+                <span style="color: #333;">|</span>
+                <span style="color: #e2e8f0; white-space:nowrap;">${moonGlifText}</span>
+            </div>
+            
+            <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK GEZEGEN VE OMURGA MATRİSİ -->
+            <div class="dock-expanded-content" style="margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px; font-size:13px; line-height:1.4; text-align:left; font-family:monospace; color:#ccc;">
+                <!-- Omurgadaki Kutsal Kapı Başlığı ve Sirkadiyen Tıbbi Log -->
+                <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${omurgaBaguaTitle}</div>
+                <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${omurgaMedicalDesc} <span style="color:#444;">|</span> ${realSaturnTransit}</div>
+                
+                <!-- 🪐 +4 VE +8 TRIGON GEOMETRİK ETHER AKS KİLİTLERİ (RENKLENDİRİLDİ!) -->
+                <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05);">
+                    • 🟡 [SOLAR ETHER AXIS]: ${coloredYellowZodiac} <span style="color:#444;">(+4 BURÇ)</span><br/>
+                    • 🟣 [METATRON CORE AXIS]: ${coloredPurpleZodiac} <span style="color:#444;">(+8 BURÇ)</span>
+                </div>
+
+                <!-- Keldani Çağ, Venüs Altın Oran ve Satürn Döngü Matrisi -->
+                <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
+                    • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${airTrigonResonance}</span> | ŞAR: ${greatSaros790} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y]<br/>
+                    • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${venusEarth8Y}/8] | 🪐 [79Y RETURN]: [${macroCycle79}/79] | 13 AY: ${metatronData.thirteenMoonText || "ELECTRIC MOON"}
                 </div>
                 
-                <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK GEZEGEN VE OMURGA MATRİSİ -->
-                <div class="dock-expanded-content" style="margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px; font-size:13px; line-height:1.4; text-align:left; font-family:monospace; color:#ccc;">
-                    <!-- Omurgadaki Kutsal Kapı Başlığı ve Sirkadiyen Tıbbi Log -->
-                    <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${omurgaBaguaTitle}</div>
-                    <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${omurgaMedicalDesc} <span style="color:#444;">|</span> ${realSaturnTransit}</div>
-                    
-                    <!-- Keldani Çağ, Venüs Altın Oran ve Satürn Döngü Matrisi -->
-                    <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
-                        • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${airTrigonResonance}</span> | ŞAR: ${greatSaros790} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y]<br/>
-                        • 🌹 [8Y PENTAGRAM]: [${venusEarth8Y}/8] | 🪐 [79Y RETURN]: [${macroCycle79}/79] | 13 AY: ${metatronData.thirteenMoonText || "ELECTRIC MOON"}
-                    </div>
-                    
-                    <!-- Alttaki Sayaç ve Yüzdesel Akış Vektörleri -->
-                    <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
-                        >> YANG: %${liveYangPercent} | YIN: %${liveYinPercent} | 📥 P: ${livePValue} | BINARY: ${currentBinaryRoom} | ODA: [${currentRoomSafe}/64] | SYNC: ⏱️ ${liveSecondsString}s
-                    </div>
+                <!-- Alttaki Sayaç, Kopuksuz Binary Oda ve Yüzdesel Akış Vektörleri -->
+                <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
+                    >> YANG: %${liveYangPercent} | YIN: %${liveYinPercent} | 📥 P: ${livePValue} | BINARY: ${currentBinaryRoom} | ODA: [${currentRoomSafe}/64] | SYNC: ⏱️ ${liveSecondsString}s
                 </div>
-            `;
+            </div>
+        `;
         } catch (innerError) {
             console.log(`Wicca OS Kuantum Panel Kalkanı Hatayı Eritti: ${innerError.message}`);
         }
@@ -3493,6 +3581,124 @@ window.bendWiccaTime = function(direction) {
         updateWiccaDock();
     }
 };
+
+
+// =========================================================================
+// 🧠 WICCA OS: LILITH & SELENE TERS SİNÜS DALGASI SÜRÜCÜ MOTORU
+// =========================================================================
+
+function updateLunisolarMatrix() {
+    // Zamanı fraktal bir döngü değişkenine bağlayalım (örneğin milisaniye bazlı)
+    const time = Date.now() * 0.001; // Hızı ihtiyacına göre ayarlarsın aga
+    
+    // 1. SELENE (Dolunay Döngüsü): Standart sinüs dalgası [ -1 ile +1 arası ]
+    // Dolunaya giderken dalga tepe noktasına (+1) yaklaşır
+    const seleneWave = Math.sin(time);
+    
+    // 2. LILITH (Karanlık Fiziki Odak): Tamamen fiziki TERS SİNÜS DALGASI
+    // Selene ile asla çakışmaması için 180 derece ters fazda akar
+    const lilithWave = -1 * Math.sin(time); 
+    
+    // Değerleri ekrandaki barlara basmak için 0 ile 100 arasına ölçekleyelim aga
+    const selenePercent = Math.round(((seleneWave + 1) / 2) * 100);
+    const lilithPercent = Math.round(((lilithWave + 1) / 2) * 100);
+    
+    // Teorinin matematiksel ifadesi: Kuantum Faz Farkı
+    const phaseDifference = Math.abs(selenePercent - lilithPercent);
+
+    // 🎯 LILITH PANELİNİ CANLI VERİLERLE BESLEME (Arayüzdeki #lilith-cosmic-dock)
+    const lilithTitle = document.getElementById("lilith-title");
+    const lilithDesc = document.getElementById("lilith-desc");
+    const lilithFormula = document.getElementById("lilith-formula");
+
+    if (lilithTitle && lilithDesc && lilithFormula) {
+        lilithTitle.innerHTML = `🌙 LILITH ORBITAL SENSING: ACTIVE`;
+        lilithTitle.style.color = "#ff3300"; // Fiziki karanlık nokta için kor kırmızısı siber neon
+        
+        lilithDesc.innerHTML = `Selene Fazı: %${selenePercent} (Işık Odak) | Lilith Ters Faz: %${lilithPercent} (Karanlık Odak). Faz Ayrışması: ${phaseDifference}°`;
+        
+        // Ekranda jilet gibi duracak formül kilidi
+        lilithFormula.innerHTML = `f(t) = sin(t) ⇄ f_li(t) = -sin(t) | Δ_PHASE = π RAD [ASYNCHRONOUS]`;
+        lilithFormula.style.color = "#ffaa00";
+    }
+
+    // 🎭 DA VINCI KUANTUM MESH TETİKLEYİCİSİ
+    // Mona Lisa (Gündüz/Işık) ve Salvator Mundi (Gece/Karanlık) arasındaki erimeyi
+    // direkt olarak Selene ve Lilith'in anlık güç dengesine bağlıyoruz aga!
+    const monaLisaMesh = document.getElementById("mesh-monalisa");
+    if (monaLisaMesh) {
+        // Selene baskınken Mona Lisa belirir (opacity 1'e gider), Lilith baskınken Salvator arkadan fırlar
+        const meshOpacity = (seleneWave + 1) / 2; 
+        monaLisaMesh.style.opacity = meshOpacity;
+    }
+
+    // Kozmik Durum Matrisini de (En alttaki bar) bu dalgaya göre Matrix hacker modunda güncelleyelim
+    const cosmicStatus = document.getElementById("cosmic-status");
+    if (cosmicStatus) {
+        cosmicStatus.innerHTML = `🪐 WICCA_OS://SYS_WAVE_LOCK -> SELENE_VAL: ${seleneWave.toFixed(4)} | LILITH_ANTI_VAL: ${lilithWave.toFixed(4)}`;
+    }
+}
+
+// =========================================================================
+// 🧠 WICCA OS: METATRON PARASEMPATİK LUNAR NODES SÜRÜCÜ ALGORİTMASI
+// =========================================================================
+
+function updateMetatronLunarNodes() {
+    const time = Date.now() * 0.001; // Kuantum sarkaç hızı
+    
+    // Selene ve Lilith ters sinüs dalgaları (Fiziki Akış)
+    const seleneWave = Math.sin(time);
+    const lilithWave = -1 * Math.sin(time);
+
+    // 🪐 TRUE LUNAR NODES (Kuzey ve Güney Ay Düğümleri Hesaplaması)
+    // Metatron'un siyah ve beyaz daire aksını besleyecek kuantum potansiyeli
+    const northNodeRahu = (seleneWave + 1) / 2;    // Beyaz Daire Potansiyeli [0 - 1]
+    const southNodeKetu = (lilithWave + 1) / 2;    // Siyah Daire Potansiyeli [0 - 1]
+
+    // 🎯 METATRON MERKEZ DAİRE AKSININ CSS/DOM IŞIMASINI TETİKLEME
+    // Kodundaki renkli dairelerin element ID'lerine göre parlamasını sağlıyoruz aga
+    const whiteNodeCircle = document.getElementById("metatron-circle-white");
+    const blackNodeCircle = document.getElementById("metatron-circle-black");
+
+    if (whiteNodeCircle && blackNodeCircle) {
+        // Beyaz düğüm Selene ile parlar (Kuzey Düğümü Işıması)
+        whiteNodeCircle.style.filter = `drop-shadow(0 0 ${10 + northNodeRahu * 15}px rgba(255,255,255,${0.3 + northNodeRahu * 0.7}))`;
+        whiteNodeCircle.style.opacity = 0.4 + northNodeRahu * 0.6;
+
+        // Siyah düğüm Lilith'in karanlık odağıyla parlar (Güney Düğümü Siber-Mor/Neon Işıması)
+        blackNodeCircle.style.filter = `drop-shadow(0 0 ${10 + southNodeKetu * 15}px rgba(122,0,255,${0.3 + southNodeKetu * 0.7}))`;
+        blackNodeCircle.style.opacity = 0.4 + southNodeKetu * 0.6;
+    }
+
+    // 🔮 LILITH & LUNAR NODES ÖZET PANEL GÜNCELLEMESİ (#lilith-cosmic-dock)
+    const lilithTitle = document.getElementById("lilith-title");
+    const lilithDesc = document.getElementById("lilith-desc");
+    const lilithFormula = document.getElementById("lilith-formula");
+
+    if (lilithTitle && lilithDesc && lilithFormula) {
+        lilithTitle.innerHTML = `🌌 METATRON PARASYMPATHETIC AXIS: NODE_LOCK`;
+        lilithTitle.style.color = "#a855f7"; // Kuantum siber mor
+
+        lilithDesc.innerHTML = `Kuzey Düğümü (Rahu/Beyaz): %${Math.round(northNodeRahu*100)} | Güney Düğümü (Ketu/Siyah): %${Math.round(southNodeKetu*100)}`;
+        
+        // Gerçek ay düğümleri formülünün arayüze çakılması
+        lilithFormula.innerHTML = `[NODE_AXIS] = METATRON_VERTICAL_LAG | RAHU ☊ KETU ☋ ASYNCHRONOUS_TRUE_NODES`;
+        lilithFormula.style.color = "#00ffaa"; // Siber yeşil
+    }
+
+    // DIAGNOSTICS TERMİNALİNE (DIAGS) LOG SIZDIRMA
+    // Alttaki terminal açıksa canlı düğüm logları Matrix akışında aksın aga
+    const terminalBody = document.getElementById("terminal-body");
+    if (terminalBody && Math.random() < 0.1) { // Terminali kitlememek için periyodik log atar
+        const logLine = document.createElement("div");
+        logLine.className = "log-line";
+        logLine.style.color = "#00ffaa";
+        logLine.innerHTML = `[SYS_NODE_LAG] -> TRUE_NODES_CHAKRA_EQUALIZER: RAHU_VAL ${northNodeRahu.toFixed(4)} | KETU_VAL ${southNodeKetu.toFixed(4)}`;
+        terminalBody.appendChild(logLine);
+        if (terminalBody.childNodes.length > 8) terminalBody.removeChild(terminalBody.firstChild);
+        terminalBody.scrollTop = terminalBody.scrollHeight;
+    }
+}
 // =========================================================================
 // 🪐 13 MOON MAYA TIME ENGINE [DECENTRALIZED_GALACTIC_CALIBRATION]
 // =========================================================================
