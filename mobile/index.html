@@ -44,36 +44,6 @@ body, html, h1, h2, h3, p, a, button, .btn {
         ::-webkit-scrollbar-thumb { background: rgba(168, 85, 247, 0.2); border-radius: 4px; }
 
 
-        /* 🩻 BRAND LOGO: TOMOGRAFİ TARAMA MODU */
-        .brand-logo {
-            height: 35px;
-            width: auto;
-            filter: none; /* 🌈 Açılışta kendi orijinal renkleriyle yüklenir */
-            opacity: 0.9;
-            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Akıcı geçiş */
-        }
-
-        .brand-logo:hover {
-            opacity: 1;
-            /* 🩺 X-Ray / Tomografi Efekti: Renkleri ters yüz edip, medikal yeşil/mavi siber ışık basar */
-            filter: invert(1) hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 12px #00ffcc);
-            transform: scale(1.03); /* Hafif bir nabız/büyüme hareketi */
-        }
-
-        .logo-link { 
-            display: flex; 
-            align-items: center; 
-            text-decoration: none; 
-        }
-        
-        
-        /* 👑 HEADER *invert(0.5); /* 🌟 Renkli logoyu saf premium beyaza çevirir */
-        header { position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: rgba(5, 5, 5, 0.85); backdrop-filter: blur(8px); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; z-index: 10; border-bottom: 1px solid rgba(168, 85, 247, 0.1); }
-        .brand-logo { height: 35px; width: auto; }
-        nav { display: flex; gap: 25px; }
-        nav a { color: #cccccc; text-decoration: none; font-size: 0.95rem; font-weight: 500; transition: color 0.3s; }
-        nav a:hover { color: #a855f7; }
-
         /* 🏗️ ANA VİEWPORT (İlk Ekran Bölümü) */
         .main-viewport { position: relative; width: 100vw; height: 100vh; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #050505; }
 
@@ -88,12 +58,8 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 
 
-    /* =========================================================================
+/* =========================================================================
    📱 WICCA OS: GLOBAL UYGULAMA ALT ANA MENÜ BAR SÜRÜCÜSÜ
-   ========================================================================= */
-
-   /* =========================================================================
-   🔮 WICCA OS: UNIFIED COSMIC DOCK RESPONSIVE FRAMEWORK
    ========================================================================= */
 .wicca-unified-dock {
     position: fixed !important;
@@ -244,6 +210,20 @@ body, html, h1, h2, h3, p, a, button, .btn {
     transform: translate(-50%, 0) !important;
 }
 
+/* 🔮 PANEL AÇILDIĞINDA TETİKLEYİCİ BUTONU GİZLEME KİLİDİ */
+#time-machine-panel.wicca-drawer-active ~ #wicca-global-toggle,
+#time-machine-panel.wicca-drawer-active + #wicca-global-toggle {
+    opacity: 0 !important;
+    pointer-events: none !important; /* Arkada kalıp yanlışlıkla tıklanmasını engeller */
+    visibility: hidden !important;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+/* Orijinal butonuna da akıcı kaybolma efekti ekleyelim (Eğer yoksa) */
+#wicca-global-toggle {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
 /* 🕒 Ekranın En Tepesinde Parlayacak Global Tetikleyici Buton */
 .wicca-global-trigger {
     display: flex;
@@ -275,15 +255,17 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
     
         /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
+/* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
 .art-core-container {
-    position: absolute;
-    top: 40%;
-    left: 52.1%;
-    transform: translate(-50%, -50%);
+    position: absolute !important;
+    top: -75px !important; /* Ekranın tavanından değil, mor butonun altından başlatıyoruz */
+    left: 50% !important;
+    transform: translateX(-50%) !important; 
     width: 100vw;
-    height: 100vh;
+    height: calc(100vh - 140px); /* Kalan ekran yüksekliği kadar esnesin */
     z-index: 1;
     pointer-events: none;
+    overflow: visible !important; /* Taşmaları kesinlikle kesmesin */
 }
         /* 🛸 METATRON 3D ÇEKİRDEK */
         /* 
@@ -292,7 +274,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
    /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
     .metatron-three-iframe-holder {
         position: absolute !important;
-        top: 55% !important;
+        top: 30% !important;
         left: 49.4% !important;
         transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 75vh !important;
@@ -511,22 +493,20 @@ body, html, h1, h2, h3, p, a, button, .btn {
     }
     
     /* 1. Ana taşıyıcıyı ekran yüksekliğine kilitliyor ve tam merkezleme flex yapısına alıyoruz */
- .main-viewport {
-        height: 100vh !important;
-        display: flex !important;
+.main-viewport {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    overflow: visible !important; /* Kesilmeyi önlemek için BURASI KESİNLİKLE visible olmalı! */
+    margin-top: 0vh !important;
 
-        flex-direction: column !important;
-        justify-content: center !important; /* Dikeyde tam ortalama */
-        align-items: center !important;     /* Yatayda tam ortalama */
-        position: relative !important;
-        overflow: hidden !important;
-    }
-
+    
+}
 
 /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
     .metatron-three-iframe-holder {
         position: absolute !important;
-        top: 65% !important;
+        top: 71% !important;
         left: 49% !important;
         transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 75vh !important;
@@ -642,10 +622,8 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 
 /* 🧭 GERÇEK HAÇ/PUSULA EKSENİ STILLERİ */
-/* 🧭 DURAĞAN MOD: Sadece düz transparan renk. Ekran kartını yoran drop-shadow tamamen SİLİNDİ! */
-/* 🧭 8'Lİ ÇEMBER ÇERÇEVE ALTYAPISI (DURAĞAN LOŞ GRİ MOD) */
 /* 🧭 8'Lİ SİBER-PUSULA ANA TEMELİ (PASİF GRİ MOD) */
-/* 🧭 8'Lİ SİBER-PUSULA ANA TEMELİ (PASİF GRİ MOD) */
+
 .element-corner {
     position: absolute;
     font-family: 'Segoe UI', monospace;
@@ -667,7 +645,16 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
 
 /* ➕ CARDINAL HAÇ SABİT KİLİTLERİ */
-.fire-gate  { top: 90px; left: 50%; transform: translateX(-50%); border-top: 1px solid rgba(255,255,255,0.15); }
+.fire-gate { 
+    position: fixed !important; /* Üstteki tüm div'lerin overflow kilitlerini tamamen yok sayar */
+    top: 60px !important;       /* Ekranın en tepesinden (Zaman Motorunun hemen altından) 90px aşağıya çiviler */
+    left: 50% !important; 
+    transform: translateX(-50%) !important; 
+    z-index: 9999999 !important; /* Sayfadaki her şeyin ama her şeyin en üstüne çıkartır */
+    pointer-events: auto !important; 
+    visibility: visible !important;
+    opacity: 0.95 !important;
+}
 .water-gate { bottom: 120px; left: 50%; transform: translateX(-50%); border-bottom: 1px solid rgba(255,255,255,0.15); }
 .air-gate   { top: 50%; right: 20px; transform: translateY(-50%); border-right: 1px solid rgba(255,255,255,0.15); }
 .earth-gate { top: 50%; left: 20px; transform: translateY(-50%); border-left: 1px solid rgba(255,255,255,0.15); }
@@ -716,17 +703,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     filter: drop-shadow(0 0 15px currentColor) brightness(1.4) !important;
 }
 
-/* Vuruş anında haç merkezlemelerinin ve ölçeklerin (scale) pürüzsüz esnemesi */
-.fire-gate.pulse-hit, .water-gate.pulse-hit { transform: translateX(-50%) scale(1.04); }
-.air-gate.pulse-hit, .earth-gate.pulse-hit { transform: translateY(-50%) scale(1.04); }
 
-
-/* ✖️ FIXED CROSS ÇAPRAZ KAPILARIN MILIMETRİK HİZALAMALARI */
-.light-gate { top: 20%; right: 15%; color: #ffcc00; border-top: 1px solid #ffcc00; border-right: 1px solid #ffcc00; } /* ⚡ Sağ Üst */
-.ether-gate { bottom: 20%; right: 15%; color: #ffaa00; border-bottom: 1px solid #ffaa00; border-right: 1px solid #ffaa00; } /* 🧬 Sağ Alt */
-.metal-gate { bottom: 20%; left: 15%; color: #ff0055; border-bottom: 1px solid #ff0055; border-left: 1px solid #ff0055; } /* 🌋 Sol Alt */
-.ice-gate   { top: 20%; left: 15%; color: #00ffaa; border-top: 1px solid #00ffaa; border-left: 1px solid #00ffaa; } /* ❄️ Sol Üst */
- 
  /* 📱 SİBER ALT MENÜ ANA TAŞIYICI */
 .siber-bottom-nav {
     position: fixed;
@@ -928,12 +905,13 @@ footer {
 <!-- =========================================================================
      🎮 WICCA OS: NİHAİ 10X FRAKTAL ZAMAN MAKİNESİ KOKPİT PANEL ENJEKSİYONU
      ========================================================================= -->
-<div id="time-machine-panel" style="display: flex; flex-direction: column; gap: 8px; margin: 15px auto; max-width: 400px; padding: 12px; background: rgba(0,0,0,0.9); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important; position: relative;">
+<div id="time-machine-panel" style="display: flex; flex-direction: column; gap: 8px; position: absolute !important; top: 60px; left: 50%; transform: translateX(-50%); width: 100%; max-width: 400px; padding: 12px; background: rgba(0,0,0,0.9); border: 1px solid #7a00ff; box-shadow: 0 0 15px #7a00ff; border-radius: 4px; font-family: monospace; z-index: 9999999 !important;">   
     
-    <!-- 🎛️ ÜST SATIR: MİKRO & SİRKADİYEN VİTESLER -->
+    <!-- 🎛️ ÜST SATIR: DÖRTLÜ MİKRO & SİRKADİYEN VİTESLER (7 GÜN DAHİL EDİLDİ) -->
     <div style="display: flex; justify-content: space-between; gap: 4px;">
         <button id="mode-btn-saat" onclick="setWiccaMode('SAAT')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">⏰ ODA</button>
         <button id="mode-btn-gün" onclick="setWiccaMode('GÜN')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">📅 GÜN</button>
+        <button id="mode-btn-hafta" onclick="setWiccaMode('HAFTA')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">⚡ 7 GÜN</button>
         <button id="mode-btn-ay" onclick="setWiccaMode('AY')" style="flex: 1; background: rgba(122, 0, 255, 0.2); color: #fff; border: 1px solid #7a00ff; box-shadow: 0 0 8px rgba(122, 0, 255, 0.4); padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">🌙 AY</button>
     </div>
 
@@ -944,28 +922,17 @@ footer {
         <button id="mode-btn-keldani790" onclick="setWiccaMode('KELDANI790')" style="flex: 1; background: #111; color: #555; border: 1px solid #333; padding: 5px 2px; font-size: 9px; cursor: pointer; font-weight: bold; border-radius: 2px;">🌀 790Y</button>
     </div>
 
-    <!-- 🚀 GEZİNTİ VE EKSEN TETİKLEYİCİ BUTONLAR -->
-    <div style="display: flex; gap: 10px; margin-top: 2px;">
-        <button onclick="bendWiccaTime('PAST')" style="flex: 1; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00; border-radius: 2px;">◀ PAST</button>
-        <button onclick="bendWiccaTime('FUTURE')" style="flex: 1; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 12px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff; border-radius: 2px;">FUTURE ▶</button>
+    <!-- 🚀 GEZİNTİ VE EKSEN TETİKLEYİCİLER (PAST / NOW / FUTURE DENGESİ) -->
+    <div style="display: flex; gap: 6px; margin-top: 2px;">
+        <button onclick="bendWiccaTime('PAST')" style="flex: 2; background: #111; color: #ff5e00; border: 1px solid #ff5e00; padding: 6px 8px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #ff5e00; border-radius: 2px;">◀ PAST</button>
+        
+        <!-- 🎯 ŞİMDİKİ ZAMANA HIZLICA ÇAPA ATAN YEŞİL NEON NOW BUTONU -->
+        <button id="mode-btn-now" onclick="bendWiccaTime('NOW')" style="flex: 1.2; background: #111; color: #00ffaa; border: 1px solid #00ffaa; padding: 6px 4px; font-size: 10px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #00ffaa; border-radius: 2px; letter-spacing: 1px;">• NOW •</button>
+        
+        <button onclick="bendWiccaTime('FUTURE')" style="flex: 2; background: #111; color: #7a00ff; border: 1px solid #7a00ff; padding: 6px 8px; font-size: 11px; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #7a00ff; border-radius: 2px;">FUTURE ▶</button>
     </div>
 </div>
 
-
-<!-- 🧭 8 KÖŞELİ KOZMİK SİBER PUSULA (CARDINAL + FIXED CROSS) -->
-<div class="cosmic-compass">
-    <!-- ➕ CARDINAL CROSS -->
-    <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
-    <div class="element-corner air-gate" id="gate-air"><span class="trigram">☵</span> <span class="iching-binary">:|:</span></div>
-    <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
-    <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary">:::</span></div>
-    
-    <!-- ✖️ FIXED CROSS -->
-    <div class="element-corner light-gate" id="gate-light"><span class="trigram">☱</span> <span class="iching-binary">||:</span></div>
-    <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☴</span> <span class="iching-binary">:||</span></div>
-    <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☶</span> <span class="iching-binary">::|</span></div>
-    <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☳</span> <span class="iching-binary">|::</span></div>
-</div>
 
 
 <!-- 🔮 LILITH (KARANLIK AY) & CSF GİZLİ FELSEFE DOCK PANELİ -->
@@ -999,9 +966,22 @@ footer {
 <!-- 🌌 İlk Katman: Kahraman Alanı -->
 <main class="main-viewport">
     
+      <!-- 🎯 PUSULAYI BURAYA, MAIN-VIEWPORT'UN İÇİNE TAŞIDIK -->
+    <div class="cosmic-compass">
+        <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
+        <div class="element-corner air-gate" id="gate-air"><span class="trigram">☵</span> <span class="iching-binary">:|:</span></div>
+        <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
+        <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary">:::</span></div>
+        
+        <div class="element-corner light-gate" id="gate-light"><span class="trigram">☱</span> <span class="iching-binary">||:</span></div>
+        <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☴</span> <span class="iching-binary">:||</span></div>
+        <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☶</span> <span class="iching-binary">::|</span></div>
+        <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☳</span> <span class="iching-binary">|::</span></div>
+    </div>
+
 
  <!-- 🎭 DA VINCI KUANTUM MESH MERKEZİ -->
-    <div class="art-core-container" style="position: relative; overflow: hidden;">
+    <div class="art-core-container" style="position: relative; overflow: visible;">
         
         <!-- 💧 GECE RESMİ: Salvator Mundi (En altta sabit duruyor aga) -->
         <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" style="display: block; width: 100%; height: auto;" />
@@ -3397,10 +3377,36 @@ if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffs
 if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'SAAT'; }
 
 // =========================================================================
-// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR)
+// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR V2)
 // =========================================================================
 window.bendWiccaTime = function(direction) {
-    // 🔑 Zaman vanasını kilitle, gerçek canlı saatin simülasyonu ezmesini engelle!
+    
+    // 🎯 [MUTLAK SIFIR NOKTASI - NOW ÇAPASI] aga:
+    if (direction === 'NOW') {
+        window.isTimeBended = false; // Zaman vanasını serbest bırak, canlı saate dön!
+        window.wiccaTimeOffsetMinutes = 0; // Tüm zaman bükme offsetlerini sıfırla
+        window.now = new Date(); // Sistem zamanını tam şu ana eşitle
+        window.wiccaCurrentAxisDate = window.now;
+        
+        // Sabbat indeksini gerçek canlı saatin odasına göre yeniden senkronize et
+        let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
+        window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
+        window.currentCalculatedRoom = currentRoomSafe;
+
+        // Anlık yeşil neon flash görsel tepkisi
+        const nowBtn = document.getElementById('mode-btn-now');
+        if (nowBtn) {
+            nowBtn.style.background = "rgba(0, 255, 170, 0.3)";
+            setTimeout(() => { nowBtn.style.background = "#111"; }, 300);
+        }
+
+        // Arayüzü ve Lilith dock panelini canlı verilerle tazeleyelim aga
+        if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
+        console.log("⚡ Kuantum Çapası Tetiklendi: Gerçek Canlı Zamana Dönüldü!");
+        return; // NOW işlemi bitti, aşağı akışı çalıştırma aga
+    }
+
+    // 🔑 Eğer PAST veya FUTURE ise zaman vanasını kilitle, simülasyon ezilmesin!
     window.isTimeBended = true; 
     
     // 🛡️ Global Sabbat indeksini ve aktif bükülmüş odayı en başta güvenli başlatıyoruz aga:
@@ -3412,14 +3418,17 @@ window.bendWiccaTime = function(direction) {
     let roomDelta = 1;      // Sabbat kadran atlama payı
     let macroYearDelta = 0; // Büyük Feng Shui çağ kaymaları için yıl çarpanı
 
-    // Eski şalter yapısını makro çağ mutasyonlarıyla jilet gibi genişletiyoruz aga:
+    // Eski şalter yapısını HAFTA (7 GÜN) vitesiyle genişletiyoruz aga:
     switch(window.wiccaTimeMode) {
         case 'SAAT': 
             roomDelta = 1; // 1 Sabbat kapısı (8 oda) fırlat!
             break;             
         case 'GÜN':  
             roomDelta = 2; // 2 Sabbat kapısı fırlat!
-            break;        
+            break; 
+        case 'HAFTA':  
+            roomDelta = 3; // 💥 YENİ: 7 Günlük döngü için 3 Sabbat kapısı fırlat!
+            break;       
         case 'AY':   
             roomDelta = 4; // 4 Sabbat kapısı fırlat!
             break;   
@@ -3448,7 +3457,7 @@ window.bendWiccaTime = function(direction) {
     }
 
     // 🎯 [MUTLAK 64 ODALIK DÖNGÜ KİLİDİ]: 58'den sonra 66'ya taşmayı kökten engelliyoruz!
-    // Oda her zaman ve sadece 64'lük çemberin tam katlarında kalacak aga!
+    // Oda her zaman ve sadece 64'lük çember the tam katlarında kalacak aga!
     let forcedRoom = (window.wiccaSabbatIndex * 8) % 64;
 
     // Hem canlı simülasyon odasını hem de global takibi bu kuantum odasına kelepçeliyoruz:
@@ -3458,7 +3467,7 @@ window.bendWiccaTime = function(direction) {
     // 📅 Arka plan zaman kaydırma entegrasyonu (Milenyum ve Mikro dengeli):
     const baseDate = new Date();
     
-    // Mikro viteslerin (Saat, Gün, Ay) dakika cinsinden kayma payı:
+    // Mikro viteslerin (Saat, Gün, Hafta, Ay) dakika cinsinden kayma payı:
     let offsetMs = roomDelta * 8 * 22.5 * 60 * 1000; 
     let minutesToShift = offsetMs / (60 * 1000);
 
@@ -3471,7 +3480,7 @@ window.bendWiccaTime = function(direction) {
     // Zaman vanasını yön doğrultusunda sıkıyoruz ya da gevşetiyoruz:
     if (direction === 'PAST') {
         window.wiccaTimeOffsetMinutes -= minutesToShift;
-    } else {
+    } else if (direction === 'FUTURE') {
         window.wiccaTimeOffsetMinutes += minutesToShift;
     }
     
@@ -3729,7 +3738,7 @@ document.addEventListener("DOMContentLoaded", () => {
 // 🎛️ GLOBAL COCKPIT PANEL: AÇILIR-KAPANIR TEPE MENÜ MOTORU
 // =========================================================================
 document.addEventListener("DOMContentLoaded", () => {
-    const timeMachinePanel = document.getElementById('time-machine-panel');
+  const timeMachinePanel = document.getElementById('time-machine-panel');
     
     if (timeMachinePanel) {
         // 1. Ekranın tepesinde duracak olan global tetikleyici butonu enjekte ediyoruz aga
@@ -3742,32 +3751,21 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         const globalToggleBtn = document.getElementById('wicca-global-toggle');
-        const globalText = document.getElementById('wicca-global-text');
 
         // 2. Butona tıklandığında paneli stor perde gibi aşağı indir / yukarı çek
         globalToggleBtn.addEventListener('click', (e) => {
             e.stopPropagation(); // Matrisin diğer tıklama olaylarıyla çakışmasın aga
             timeMachinePanel.classList.toggle('wicca-drawer-active');
-
-            // Butonun rengini ve metnini duruma göre büküyoruz aga
-            if (timeMachinePanel.classList.contains('wicca-drawer-active')) {
-                globalText.innerText = "PANELİ KAPAT";
-                globalToggleBtn.style.borderColor = "#ff5e00"; // Kapatırken PAST turuncusu
-                globalToggleBtn.style.boxShadow = "0 0 12px rgba(255, 94, 0, 0.6)";
-            } else {
-                globalText.innerText = "ZAMAN MOTORU";
-                globalToggleBtn.style.borderColor = "#7a00ff"; // Normalde FUTURE moru
-                globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
-            }
+            
+            // PANELİ KAPAT yazısını sildik aga, her koşulda mor ve asil kalıyor
+            globalToggleBtn.style.borderColor = "#7a00ff";
+            globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
         });
 
         // 3. UX Konforu: Panel açıkken ekranda boş bir yere dokunulursa otomatik yukarı katlansın
         document.addEventListener('click', (e) => {
             if (!timeMachinePanel.contains(e.target) && e.target !== globalToggleBtn) {
                 timeMachinePanel.classList.remove('wicca-drawer-active');
-                globalText.innerText = "ZAMAN MOTORU";
-                globalToggleBtn.style.borderColor = "#7a00ff";
-                globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
             }
         });
     }
