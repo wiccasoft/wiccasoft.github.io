@@ -869,6 +869,38 @@ body, html, h1, h2, h3, p, a, button, .btn {
     to { opacity: 1; transform: translateX(0); }
 }
 
+
+/* =========================================================================
+   🧠 WICCA OS: DIAGNOSTICS TERMINAL SLIDE-UP ANIMATION FRAMEWORK
+   ========================================================================= */
+#wicca-diags-terminal {
+    position: fixed !important;
+    bottom: -350px; /* İlk açılışta ekranın altında, görünmez kuantum boşluğunda pusuya yatar aga! */
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    width: 90vw !important;
+    max-width: 400px !important;
+    height: 220px !important;
+    background: rgba(6, 6, 6, 0.96) !important;
+    backdrop-filter: blur(12px) !important;
+    border: 1px solid rgba(122, 0, 255, 0.3) !important;
+    border-radius: 8px 8px 0 0 !important; /* Üst köşeleri asilce yuvarlatılmış aplikasyon kartı */
+    padding: 12px !important;
+    z-index: 1000000 !important;
+    opacity: 0;
+    pointer-events: none;
+    
+    /* 🎯 SİHİRLİ GEÇİŞ MİLİ: Küt açılmayı bitiren akıcı animasyon hızı */
+    transition: bottom 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease-in-out !important;
+}
+
+/* Butona basıldığında terminali ekranın tam alt sınırına asilce tırmandıran tetikleyici */
+#wicca-diags-terminal.terminal-active {
+    bottom: 50px !important; /* Alt barın tam üst çizgisine kilitlenip durur aga! */
+    opacity: 1 !important;
+    pointer-events: auto !important;
+}
+
 /* Sayfa içeriğinin navigasyon barın arkasında kalıp ezilmesini önleyen footer boşluğu */
 footer {
     margin-bottom: 100px !important;
@@ -1956,20 +1988,18 @@ if (metatronIframe && metatronIframe.contentWindow) {
 
 
 /**
- * Wicca OS - Unified WiccaPanel & Spine Bagua Matrix Engine (NİHAİ RE-FIXTURE)
- * Tüm dağınık 8Y Venüs, 79Y Satürn, 790Y Keldanî Şarı ve Canlı Yin/Yang çarklarını tek merkezde toplar aga!
+ * Wicca OS - Unified WiccaPanel & Spine Bagua Matrix Engine (QUANTUM EXPULSION)
+ * currentBinaryRoom hatasını kökten eriter, Orta Çağ dogmalarına meydan okur aga!
  */
 function updateWiccaDock() {
     window.wiccaEnginePulseCount = (window.wiccaEnginePulseCount || 0) + 1;
     
     // =========================================================================
-    // 🗃️ WICCA OS: UNIFIED WICCAPANEL INJECTION (3 PANEL TEK GÖVDE)
+    // 🗃️ WICCA OS: UNIFIED WICCAPANEL INJECTION (3 PANEL TEK GÖVDE MÜHÜRÜ)
     // =========================================================================
-    // Doğrudan yeni sade ve asil wiccapanel ID'sini veya eski yedek barı yakala aga:
-    const wiccaPanelElement = document.getElementById('wiccapanel') || document.getElementById('lilith-cosmic-dock');
+    const wiccaPanelElement = document.getElementById('lilith-cosmic-dock') || document.getElementById('wiccapanel');
     
     if (wiccaPanelElement) {
-        // Eğer esneme sınıfı CSS'te henüz tanımlı değilse zorla enjekte et aga:
         if (!wiccaPanelElement.classList.contains('wicca-unified-dock')) {
             wiccaPanelElement.className = 'wicca-unified-dock';
         }
@@ -1985,6 +2015,9 @@ function updateWiccaDock() {
             let currentBaseMonth = nowInstance.getMonth(); 
             let currentSecondsFactor = (nowInstance.getDate() * 86400 + nowInstance.getHours() * 3600 + nowInstance.getMinutes() * 60 + nowInstance.getSeconds()) / 86400;
             
+            // 🪐 🎯 KRİTİK GÜNCELLEME: currentBinaryRoom tanımını buraya jilet gibi mühürledik! Hata silindi.
+            const currentBinaryRoom = currentRoomSafe.toString(2).padStart(6, '0');
+
             // 🎯 LİBRA HASSASİYETLİ GÜNEŞ BOYALAM DENGESİ
             let baseSunDeg = window.liveSunLongitude || (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
             let sunDegRaw = baseSunDeg;
@@ -1996,15 +2029,24 @@ function updateWiccaDock() {
             let metatronData = typeof calculateMetatronMoon === 'function' ? calculateMetatronMoon(nowInstance) : { percent: 50, seleneHex: "0x0" };
             let moonPhaseProgress = metatronData.seleneProgress || 0.312;
             let moonDegRaw = ((sunDegRaw + (moonPhaseProgress * 360)) % 360);
-            let activeMoonPos = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(moonDegRaw) : "5° KOÇ";
-
-            // ⏳ %100 DİNAMİK MAKRO VE MİKRO KOZMİK ÇAĞ FRAKTALLARI (SENİN SATIRLARIN AGA)
-            const dynamicSimYear = nowInstance.getFullYear();
             
+            // 🔮 LILITH KUTUPSAL EKSEN DEVRİMİ: 
+            // Orta Çağ astronomisine meydan okuyan o mutlak 180° karşıt geometrik nizam aga!
+            let lilithDegRaw = (sunDegRaw + 180) % 360;
+
+            // Burç dönüştürme motoru koruması:
+            let activeSunPos   = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(sunDegRaw) : "18° BAŞAK";
+            let activeMoonPos  = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(moonDegRaw) : "5° KOÇ";
+            let activeLilithPos = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(lilithDegRaw) : "18° BALIK";
+
+            let livePValue = typeof window.currentP !== 'undefined' ? window.currentP : 1087; 
+            let liveSeconds = typeof window.liveSeconds !== 'undefined' ? window.liveSeconds : 505;
+
             // 🪐 JÜPİTER-SATÜRN 20Y SARKACI
+            const dynamicSimYear = nowInstance.getFullYear();
             const JU_SA_20Y_Cycle = ((dynamicSimYear % 20) + (currentRoomSafe / 64)).toFixed(1);
             
-            // 🌹 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI (13:8 ALTIN ORAN)
+            // 🌹 8 YILLIK VENÜS-DÜNYA PENTAGRAM FRAKTALI
             const venusEarth8Y = ((dynamicSimYear % 8) + (currentRoomSafe / 64)).toFixed(2);
 
             // 🪐 79 YILLIK SATÜRN RETURN VE 790 YILLIK ŞAR ÇAĞI
@@ -2021,7 +2063,7 @@ function updateWiccaDock() {
             else { airTrigonResonance = `WATER MUTATION`; }
 
             // ⏱️ Sayaç ve Canlı Ritmik Zaman Verileri
-            const liveSeconds = nowInstance.getSeconds().toString().padStart(2, '0');
+            const liveSecondsString = nowInstance.getSeconds().toString().padStart(2, '0');
             let liveYangPercent = (typeof timeData !== 'undefined' && timeData?.dayCycle) ? Math.round(timeData.dayCycle * 100) : 50;
             let liveYinPercent = 100 - liveYangPercent;
 
@@ -2034,7 +2076,7 @@ function updateWiccaDock() {
                 } catch(e) {}
             }
 
-            // 🎯 OMURGA BAGUA KILAVUZU: Sirkadiyen odaların dikey enerji kapısı tetikleyicisi
+            // 🎯 OMURGA BAGUA KILAVUZU
             let omurgaBaguaTitle = "";
             let omurgaMedicalDesc = "";
             if (currentRoomSafe >= 0 && currentRoomSafe < 16) {
@@ -2051,21 +2093,20 @@ function updateWiccaDock() {
                 omurgaMedicalDesc = "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.";
             }
 
-            // 🩻 GPU DONANIM HIZLANDIRICI KALKANI ENJEKSİYONU
-            if (typeof fireGate !== 'undefined') {
-                const localGateElements = [typeof fireGate!=='undefined'?fireGate:null, typeof lightGate!=='undefined'?lightGate:null, typeof airGate!=='undefined'?airGate:null, typeof etherGate!=='undefined'?etherGate:null, typeof waterGate!=='undefined'?waterGate:null, typeof metalGate!=='undefined'?metalGate:null, typeof earthGate!=='undefined'?earthGate:null, typeof iceGate!=='undefined'?iceGate:null];
-                localGateElements.forEach(gate => { if (gate && gate.style) { gate.style.willChange = "opacity, filter, transform"; gate.style.transform = "translateZ(0)"; } });
-            }
+            // 🎯 WICCA OS: %100 DİNAMİK RENKLİ BAŞLIK STRİNGİ
+            let sunGlitText    = `🔴 ☰ ${activeSunPos.toUpperCase()}`;
+            let lilithGlifText = `🔵 ☴ ${activeLilithPos.toUpperCase()}`;
+            let moonGlifText   = `⚪ ☵ ${activeMoonPos.toUpperCase()}`;
 
-            // 🎯 Ekran daraldıkça fontu 12px'e eriten clamp tasarımlı o eşsiz ve kesilmeyen nihai şablon:
+            // 12px fluid clamp düzeniyle o sarsılmaz şablonu basıyoruz aga fırlat!
             wiccaPanelElement.innerHTML = `
-                <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: SAF PUSULA VE EKİNOKS ÖZETİ -->
-                <div class="dock-summary-line" style="display:flex; justify-content:space-between; align-items:center; font-weight:bold; font-size:12px; color:#ffffff; font-family:monospace; width:100%; gap:4px;">
-                    <span style="color: #a855f7; white-space:nowrap; overflow:hidden; flex:3;">N: ☵ [WATER] | S: ☲ [FIRE] ──> SUN IN VIRGO 18° | FULLMOON IN PISCES 15°</span>
-                    <span style="display:flex; gap:8px; flex:1; justify-content:flex-end; white-space:nowrap;">
-                        <span style="color: #ffaa00;">📥 P: ${livePValue}</span>
-                        <span style="color: #e2e8f0;">🌙 ${activeMoonPos}</span>
-                    </span>
+                <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: SAF KUTSAL ÜÇLÜ GEZEGEN ODAĞI -->
+                <div class="dock-summary-line" style="display:flex; justify-content:center; align-items:center; font-weight:bold; font-size:12px; color:#ffffff; font-family:monospace; width:100%; gap:12px; letter-spacing:0.5px;">
+                    <span style="color: #ff5e00; white-space:nowrap;">${sunGlitText}</span>
+                    <span style="color: #333;">|</span>
+                    <span style="color: #00ffff; white-space:nowrap;">${lilithGlifText}</span>
+                    <span style="color: #333;">|</span>
+                    <span style="color: #e2e8f0; white-space:nowrap;">${moonGlifText}</span>
                 </div>
                 
                 <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK GEZEGEN VE OMURGA MATRİSİ -->
@@ -2076,13 +2117,13 @@ function updateWiccaDock() {
                     
                     <!-- Keldani Çağ, Venüs Altın Oran ve Satürn Döngü Matrisi -->
                     <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
-                        • ⚙️ [KELDANÎ ÇARKU]: <span style="color:#ffaa00; font-weight:bold;">${airTrigonResonance}</span> | ŞAR: ${greatSaros790} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y]<br/>
+                        • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${airTrigonResonance}</span> | ŞAR: ${greatSaros790} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y]<br/>
                         • 🌹 [8Y PENTAGRAM]: [${venusEarth8Y}/8] | 🪐 [79Y RETURN]: [${macroCycle79}/79] | 13 AY: ${metatronData.thirteenMoonText || "ELECTRIC MOON"}
                     </div>
                     
                     <!-- Alttaki Sayaç ve Yüzdesel Akış Vektörleri -->
                     <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
-                        >> YANG: %${liveYangPercent} | YIN: %${liveYinPercent} | BINARY: ${currentBinaryRoom} | ODA: [${currentRoomSafe}/64] | SYNC: ⏱️ ${liveSeconds}s
+                        >> YANG: %${liveYangPercent} | YIN: %${liveYinPercent} | 📥 P: ${livePValue} | BINARY: ${currentBinaryRoom} | ODA: [${currentRoomSafe}/64] | SYNC: ⏱️ ${liveSecondsString}s
                     </div>
                 </div>
             `;
@@ -3754,6 +3795,16 @@ const wiccaStatuyuMuhurle = (room) => {
     }
 };
 
+
+// =========================================================================
+// 🎛️ GLOBAL SFX STATE SHIELD (FONKSİYONLARIN DIŞINDA DURMALI AGA!)
+// =========================================================================
+window.wiccaAudioCtx = window.wiccaAudioCtx || null;
+window.wiccaOscillator = window.wiccaOscillator || null;
+window.wiccaGainNode = window.wiccaGainNode || null;
+window.isWiccaAudioPlaying = window.isWiccaAudioPlaying || false;
+
+
 // 🚀 2. [AÇILIŞ TETİKLEYİCİSİ]: Tarayıcı DOM'u indirdiği an (downloaded) ilk iş statüye bakılır
 document.addEventListener("DOMContentLoaded", () => {
     let openingRoom = 0;
@@ -3771,6 +3822,74 @@ document.addEventListener("DOMContentLoaded", () => {
     // Saat modunu mor neonla ateşle
     if (typeof window.setWiccaMode === 'function') {
         window.setWiccaMode('SAAT'); 
+    }
+
+
+ // =========================================================================
+    // ⚙️ WICCA OS: AUDIO WEB-SYNTH FREKANS SÜRÜCÜSÜ (SANDBOX BYPASS - RE-FIXTURE)
+    // =========================================================================
+    const settingsBtn = document.getElementById('settings-btn') || document.querySelector('.deck-btn-settings');
+    
+    if (settingsBtn) {
+        settingsBtn.addEventListener('click', async (e) => {
+            e.stopPropagation(); // Kuantum çakışma önleyici kalkan
+
+            try {
+                // 🗃️ Yerel dosya (file:///) kilitlerini kırmak için AudioContext'i her durumda zorla ayağa kaldırıyoruz:
+                if (!window.wiccaAudioCtx) {
+                    window.wiccaAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                }
+
+                // 🚨 GÜVENLİK DUVARI EZİCİ: Tarayıcının 'file:///' protokolü üzerindeki donma inadını 
+                // asenkron (async/await) bir şok dalgasıyla zorla ayağa kaldırıyoruz aga!
+                if (window.wiccaAudioCtx.state === 'suspended') {
+                    await window.wiccaAudioCtx.resume();
+                }
+
+                if (!window.isWiccaAudioPlaying) {
+                    // 🔊 SESİ AÇMA OPERASYONU: Sinüs dalgası hoparlöre fırlatılıyor!
+                    window.wiccaOscillator = window.wiccaAudioCtx.createOscillator();
+                    window.wiccaGainNode = window.wiccaAudioCtx.createGain();
+
+                    // Sirkadiyen odaya göre kutsal Metatron frekansını tayin ediyoruz aga:
+                    let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 48;
+                    let targetFrequency = 112.3; // Gece/Lilith modu için asil alt rezonans (Delta/Theta)
+
+                    if (currentRoomSafe >= 16 && currentRoomSafe < 32) {
+                        targetFrequency = 224.6; // Gündüz/Yang modu için yüksek frekans dalgası
+                    }
+
+                    window.wiccaOscillator.type = 'sine'; // Senin o meşhur, çarpışmayan pürüzsüz sinüs dalgan aga!
+                    window.wiccaOscillator.frequency.setValueAtTime(targetFrequency, window.wiccaAudioCtx.currentTime);
+
+                    // Kulakları yormayacak ipeksi bir siberpunk uğultu hacmi (%6 CPU/GPU dostu):
+                    window.wiccaGainNode.gain.setValueAtTime(0.05, window.wiccaAudioCtx.currentTime);
+
+                    // Çarkları birbirine kelepçeleyip fırlatıyoruz:
+                    window.wiccaOscillator.connect(window.wiccaGainNode);
+                    window.wiccaGainNode.connect(window.wiccaAudioCtx.destination);
+
+                    window.wiccaOscillator.start(0);
+                    window.isWiccaAudioPlaying = true;
+                    settingsBtn.classList.add('active-glow-mode');
+                    console.log(`Wicca OS: Frekans kalkanı aktif -> ${targetFrequency} Hz Sinüs Eğrisi.`);
+                } else {
+                    // 🔇 SESİ KAPATMA OPERASYONU: Şalteri indiriyoruz aga!
+                    if (window.wiccaOscillator) {
+                        try {
+                            window.wiccaOscillator.stop(0);
+                            window.wiccaOscillator.disconnect();
+                        } catch(e) {}
+                        window.wiccaOscillator = null;
+                    }
+                    window.isWiccaAudioPlaying = false;
+                    settingsBtn.classList.remove('active-glow-mode');
+                    console.log("Wicca OS: Frekans kalkanı deaktif, sükunet modu.");
+                }
+            } catch (audioErr) {
+                console.log(`Ses Motoru Kalkanı Hatayı Eritti: ${audioErr.message}`);
+            }
+        });
     }
 });
 
@@ -3793,7 +3912,13 @@ document.addEventListener("visibilitychange", () => {
             window.setWiccaMode('SAAT');
         }
     }
+
+
+    
 });
+
+
+
 
 // 📺 TELEFONU / BİLGİSAYARI TAM EKRAN APLİKASYON MODUNA SOKAN MOTOR
 function toggleWiccaFullscreen() {
@@ -3809,78 +3934,82 @@ function toggleWiccaFullscreen() {
 }
 
 // =========================================================================
-// 🧭 WICCA OS: GERÇEK ZAMANLI MOBİL PUSULA SENSÖR SÜRÜCÜSÜ
+// 🧭 WICCA OS: GERÇEK ZAMANLI MOBİL PUSULA SENSÖR SÜRÜCÜSÜ (MÜHÜRLÜ)
 // =========================================================================
 let currentCompassHeading = 0;
+window.wiccaCompassOffset = 0; // 🎯 Kalibrasyon için sanal ofset kilidi aga!
 
 function activateWiccaPhysicalCompass() {
-    // Mobil tarayıcılarda oryantasyon sensörünü dinliyoruz aga
     if (window.DeviceOrientationEvent) {
-        
         // iOS (Safari) için kritik güvenlik ve izin kapısı kilidi
         if (typeof DeviceOrientationEvent.requestPermission === 'function') {
             DeviceOrientationEvent.requestPermission()
                 .then(permissionState => {
                     if (permissionState === 'granted') {
+                        window.removeEventListener('deviceorientation', handleCompassMove, true);
                         window.addEventListener('deviceorientation', handleCompassMove, true);
+                        console.log("Wicca OS: iOS Manyetometre İzni Alındı [SYNCED]");
                     }
                 })
                 .catch(console.error);
         } else {
             // Android ve diğer tarayıcılar direkt sıfır lag bağlanır
+            window.removeEventListener('deviceorientation', handleCompassMove, true);
             window.addEventListener('deviceorientation', handleCompassMove, true);
+            console.log("Wicca OS: Android Manyetometre Bağlantısı Aktif [ZERO-LAG]");
         }
     } else {
         console.log("Aga bu cihazda manyetometre (pusula sensörü) bulunamadı.");
     }
 }
 
-// Telefon havada döndükçe salisesinde tetiklenen hesaplama çarkı:
+// Telefon havada döndükçe salisesinde tetiklenen o tek parça, temiz hesaplama çarkı aga:
 function handleCompassMove(event) {
     let heading = 0;
     
-    // iOS için saf Kuzey açısı (webkitCompassHeading)
+    // iOS için saf Kuzey açısı (webkitCompassHeading) yoksa Android alpha bükümü:
     if (event.webkitCompassHeading) {
         heading = event.webkitCompassHeading;
-    } else {
-        // Android için manyetik pusula dönüşü
+    } else if (event.alpha !== null) {
         heading = 360 - event.alpha;
+    } else {
+        return;
     }
 
-    currentCompassHeading = Math.round(heading);
+    // 🎯 KALİBRASYON BÜKÜMÜ: Gelen ham açıdan basılan ofseti çıkartarak pusulayı anında sıfırlıyoruz!
+    let finalHeading = (heading - window.wiccaCompassOffset + 360) % 360;
+    currentCompassHeading = Math.round(finalHeading);
 
-    // 🎯 SİHİRLİ DÖNÜŞ ENJEKSİYONU: 
-    // 8 Kapının içinde yaşadığı o ana .cosmic-compass div'ini 
-    // telefonun döndüğü açının tam tersine (heading) çeviriyoruz ki, 
-    // kapılar dünyadaki gerçek yönlere göre ekranda jilet gibi sabit kalsın!
+    // 8 Kapının içinde yaşadığı o ana .cosmic-compass div'ini jilet gibi dünyada sabit tutuyoruz aga:
     const cosmicCompassDiv = document.querySelector('.cosmic-compass');
     if (cosmicCompassDiv) {
         cosmicCompassDiv.style.transform = `rotate(${-currentCompassHeading}deg)`;
-        cosmicCompassDiv.style.transition = "transform 0.1s linear"; // Gecikmesiz, jilet akış
+        cosmicCompassDiv.style.transition = "transform 0.1s linear"; // Lag sıfırlayıcı ipeksi akış
     }
 }
 
+// =========================================================================
+// 🎚️ ALT BAR BUTON TETİKLEYİCİ BAĞLANTI MOTORLARI (MÜHÜRLÜ SÜRÜCÜ)
+// =========================================================================
 
-// Bu fonksiyon koddaki hiçbir astronomik değişkeni bozmaz aga.
-// Sadece gözünün gördüğü o 8 Bagua kapısının yönünü dünyadaki gerçek eksene kilitler.
-function handleCompassMove(event) {
-    let heading = event.webkitCompassHeading || (360 - event.alpha);
-    currentCompassHeading = Math.round(heading);
-
-    // 🎯 İÇERİDE DEĞİŞEN TEK ŞEY BU CSS DEĞİŞKENİ OLACAK AGA:
-    const cosmicCompassDiv = document.querySelector('.cosmic-compass');
-    if (cosmicCompassDiv) {
-        // Telefonu sağa çevirirsen kapıları sola döndürerek yönü dünyada sabit tutar
-        cosmicCompassDiv.style.transform = `rotate(${-currentCompassHeading}deg)`;
-    }
-}
-
-// Alt bardaki CALIBRATE butonuna basıldığında tetiklenecek fonksiyon
+// O ezen eski boş fonksiyonları tamamen sildik aga! Gerçek işlevler ayağa kalkıyor:
 function calibrateCosmicMatrix() {
-    console.log("Manyetometre ve Pusula Sensör İzinleri İsteniyor...");
+    console.log("Matris Rezonansı Kalibre Ediliyor...");
     
-    // Kullanıcı butona bastığı an resmi izin isteme motorunu ateşliyoruz aga:
+    // 🎯 SİHİRLİ SIFIRLAMA: Kullanıcı o an hangi yöne bakıyorsa, orayı yeni Kuzey kutbu kabul et!
+    if (typeof currentCompassHeading !== 'undefined') {
+        window.wiccaCompassOffset = (window.wiccaCompassOffset + currentCompassHeading) % 360;
+    }
+    
+    // Gerçek sensör izin motorunu tetikliyoruz aga fırlat!
     activateWiccaPhysicalCompass(); 
+}
+
+// Ayarlar ve diğer kadranların boş kalıp hata fırlatmaması için temiz geçici kalkan:
+if (typeof openWiccaSubSettings !== 'function') {
+    window.openWiccaSubSettings = function(mode) { 
+        console.log(`${mode} Kadranı Tetiklendi`); 
+    };
 }
 
 // Diğer butonların boş kalıp hata vermemesi için geçici kuantum fonksiyonlar aga
