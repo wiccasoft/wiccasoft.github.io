@@ -1874,60 +1874,7 @@ document.getElementById("cosmic-status").innerText = "";
    
 
     
- // =========================================================================
-    // 🎭 ERA OVERLORD: KULLANICI SAATİNİ EZİP ÇAĞIN GERÇEK RESMİNİ GÖSTERMEK
-    // =========================================================================
-    // Sayfa açılır açılmaz ve her zaman büküldüğünde dinamik AGE verisini hesaplıyoruz aga:
-    //const currentAgeObj = getDynamicCosmicAge(now);
-    window.currentCosmicAgeText = currentAgeObj.displayText;
-
-    // Elementleri güvenli modda yakalıyoruz
-    //const monaElement = document.getElementById('mona-lisa') || document.querySelector('.matrix-mona');
-    //const salvadorElement = document.getElementById('salvator-mundi') || document.querySelector('.matrix-salvador');
-
-    if (monaElement && salvadorElement) {
-        // 🎯 KİLİT HAMLE: Başına 'let' koymuyoruz aga, zaten yukarıda declare edilmiş olan değişkenleri doğrudan büküyoruz!
-        if (window.wiccaActiveMode === 'SATURN79' || window.wiccaActiveMode === 'KELDANI790') {
-            if (window.isPaganEraActive === true || currentAgeObj.isEnlightened === true) {
-                targetMonaOpacity = 1.0;     // Aydınlık Çağ (Hava/Ateş): Saf Mona Lisa!
-                targetSalvadorOpacity = 0.0;
-            } else {
-                targetMonaOpacity = 0.0;     // Karanlık Çağ (Su/Toprak): Saf İsa!
-                targetSalvadorOpacity = 1.0;
-            }
-        } else {
-            // Eğer mikro modlardaysak (SAAT, GÜN, AY), senin o eski şahane sirkadiyen oda formülün çalışır:
-            if (sunRoom64 >= 48 && sunRoom64 <= 64) {
-                let progress = (sunRoom64 - 48) / (64 - 48);
-                let twilightCalibrated = Math.pow(progress, 3.5);
-                targetMonaOpacity = twilightCalibrated;
-                targetSalvadorOpacity = 1 - twilightCalibrated;
-            } else if (sunRoom64 >= 0 && sunRoom64 < 16) {
-                targetMonaOpacity = 1.0;
-                targetSalvadorOpacity = 0.0;
-            } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
-                let progress = (sunRoom64 - 16) / (32 - 16);
-                targetMonaOpacity = 1.0 - progress;
-                targetSalvadorOpacity = progress;
-            } else {
-                targetMonaOpacity = 0.0;
-                targetSalvadorOpacity = 1.0;
-            }
-        }
-
-        // Değerleri emniyet sınırlarına (0.0 - 1.0) kilitleyip tül gibi giydiriyoruz aga
-        targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
-        targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
-
-        // GPU'yu yormayan ipeksi mikroskobik opaklık enjeksiyonu
-        monaElement.style.opacity = targetMonaOpacity.toFixed(4);
-        salvadorElement.style.opacity = targetSalvadorOpacity.toFixed(4);
-
-        // Var olan global targetOpacity değişkenini doğrudan güncelliyoruz
-        if (typeof targetOpacity !== 'undefined') {
-            targetOpacity = targetMonaOpacity;
-        }
-    }
+ 
 
 // =========================================================================
 // 🫀 ELECTRO-CARDIOGRAPHY (EKG) ÇERCEVE AKIM SÜRÜCÜSÜ
