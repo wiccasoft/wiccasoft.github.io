@@ -258,7 +258,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 🛸 YENİ MERKEZİ SANAT KAPSAYICISI VE MOBİL DÜZENLEMELER */
 .art-core-container {
     position: absolute !important;
-    top: -75px !important; /* Ekranın tavanından değil, mor butonun altından başlatıyoruz */
+    top: 15px !important; /* Ekranın tavanından değil, mor butonun altından başlatıyoruz */
     left: 50% !important;
     transform: translateX(-50%) !important; 
     width: 100vw;
@@ -274,7 +274,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
    /* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
     .metatron-three-iframe-holder {
         position: absolute !important;
-        top: 30% !important;
+        top: 60% !important;
         left: 49.4% !important;
         transform: translate(-50%, -50%) scale(0.66) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 75vh !important;
@@ -1175,6 +1175,75 @@ const pulseInterval = 60000 / bpm; // ~810.81ms (0.8 saniyelik insan kalbi freka
     // 🛡️ INITIALIZATION ERROR SAVUNMA HATTI: 
    // const PLANET_ELEMENT_INFLUENCES = currentGovernor.influences;
 
+
+// =========================================================================
+// 🪐 WICCA OS: %100 GERÇEK 3 AYLIK ASTRONOMİK MUTASYON MOTORU [SIFİR HATA]
+// =========================================================================
+
+// =========================================================================
+// 🪐 WICCA OS: SETINTERVAL DIŞINA ÇIKARTILAN 3 AYLIK SABİT MEVSİM MOTORU
+// =========================================================================
+function getDynamicSunGateSpecs(sunDegRaw) {
+    // 🛡️ FREEZE ERİTİCİ ENJEKSİYON: Her döngüde bükülen o en güncel sanal zamanı içeri mühürlüyoruz aga!
+    let nowInstance = window.now || window.wiccaCurrentAxisDate || new Date();
+    
+    // Güvenlik duvarı: Eğer nesne Date değilse hemen canlandır
+    if (!nowInstance || !(nowInstance instanceof Date) || isNaN(nowInstance.getTime())) {
+        nowInstance = new Date();
+    }
+
+    const currentYear = nowInstance.getFullYear();
+    const Y = (currentYear - 2000) / 1000;
+
+    // Laskar ve Meeus J2000 Hassasiyetli Dinamik Sabbat Milleri (Bükülen yıla göre canlı hesaplanır!)
+    let jded21Mar = 2451623.80984 + (365242.37404 * Y) + (0.05169 * Y * Y);
+    const equinox21Mar = new Date((jded21Mar - 2440587.5) * 86400000);
+
+    let jded21Jun = 2451716.56767 + (365241.72619 * Y) + (0.0083 * Y * Y);
+    const solstice21Jun = new Date((jded21Jun - 2440587.5) * 86400000);
+
+    let jded23Sep = 2451810.21715 + (365242.01767 * Y) + (-0.1157 * Y * Y);
+    const equinox23Sep = new Date((jded23Sep - 2440587.5) * 86400000);
+
+    let jded21Dec = 2451900.05952 + (365242.74049 * Y) + (-0.06223 * Y * Y);
+    const solstice21Dec = new Date((jded21Dec - 2440587.5) * 86400000);
+
+    // Kutupsal kalkan aynalaması
+    let evaluationDate = new Date(nowInstance.getTime()); // Zaman damgası üzerinden klonladık ki asılı kalmasın!
+    if (window.isSouthernHemisphereActive) {
+        evaluationDate.setMonth(evaluationDate.getMonth() + 6);
+    }
+
+    // Default taban rezonans korumalarımız
+    let sunNeonColor = "#00cc44"; 
+    let sunGateTrigram = "☲";
+    let sunGateBinary = "|:|";
+
+    // 📐 HER MEVSİM TAM 3 AY SÜRER:
+    if (evaluationDate >= equinox23Sep && evaluationDate < solstice21Dec) {
+        sunNeonColor = "#00cc44";    // 🌱 Sonbahar boyunca sarsılmaz SİBER YEŞİL (Topraklanma)
+        sunGateTrigram = "☲";        
+        sunGateBinary = "|:|";
+    }
+    else if (evaluationDate >= solstice21Dec || evaluationDate < equinox21Mar) {
+        sunNeonColor = "#ffd700";    // 🟡 21 Aralık'ı geçtiği saniye otomatik SAF SARI (Solar Ether)
+        sunGateTrigram = "☴";        
+        sunGateBinary = ":||";
+    }
+    else if (evaluationDate >= equinox21Mar && evaluationDate < solstice21Jun) {
+        sunNeonColor = "#00ffcc";    // 🧊 İlkbahar buz mavisi
+        sunGateTrigram = "☳";        
+        sunGateBinary = "::|";
+    }
+    else {
+        sunNeonColor = "#ff3300";    // 🔥 Yaz kor kırmızısı
+        sunGateTrigram = "☰";        
+        sunGateBinary = "|||";
+    }
+
+    return { color: sunNeonColor, trigram: sunGateTrigram, binary: sunGateBinary };
+}
+
 // 🫀 74 BPM İNSAN KALBİ FREKANS DÖNGÜSÜ
 setInterval(() => {
 
@@ -1500,12 +1569,14 @@ setInterval(() => {
             seleneGate = gateMapping[seleneIndex];
         }
 
+
+        // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
         // Kapı referanslarını jilet gibi çekiyoruz aga (Eski temiz yapın aynen kalıyor):
         let sunGate = gateMapping[sirkadiyenButonIndex];
         let moonGate = gateMapping[lilithButonIndex];
         let northNodeGate = gateMapping[northNodeRoomIndex];
         let southNodeGate = gateMapping[southNodeRoomIndex];
-
+        // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
    
 
         // Eski o donuk .cosmic-status-bar yazısını HTML'de tamamen gizlemek için kalkan:
@@ -1522,6 +1593,52 @@ setInterval(() => {
             gate.style.boxShadow = "none";
         });
 
+
+                    // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: getFullYear çökmesini önleyen Date koruması
+            let nowInstance = window.now || window.wiccaCurrentAxisDate || new Date();
+            if (!nowInstance || !(nowInstance instanceof Date) || isNaN(nowInstance.getTime())) {
+                nowInstance = new Date();
+            }
+
+            let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 48;
+            let currentBaseMonth = nowInstance.getMonth(); 
+            let currentSecondsFactor = (nowInstance.getDate() * 86400 + nowInstance.getHours() * 3600 + nowInstance.getMinutes() * 60 + nowInstance.getSeconds()) / 86400;
+            
+
+    
+
+           // 🎯 LİBRA HASSASİYETLİ GÜNEŞ BOYALAM DENGESİ
+            let baseSunDeg = window.liveSunLongitude || (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
+            let sunDegRaw = baseSunDeg;
+            if (window.isTimeBended && typeof window.wiccaSabbatIndex !== 'undefined') {
+                sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
+            }
+
+// =========================================================================
+// 🔮 %100 SAF MEVSİMSEL NEON SEÇİCİ RENKLER MOTORU (ÇORBASIZ - SADECE RENK)
+// =========================================================================
+
+// Üstteki o meşhur Meeus/J2000 astronomik mevsim motorundan rengi emiyoruz aga:
+// (Hatırlatma: Sonbahar boyunca bu 'trigonColor' sarsılmaz biçimde siber yeşildir!)
+//let dynamicMevsimColor = typeof trigonColor !== 'undefined' ? trigonColor : "#ff5e00";
+/*
+if (sunGate) { 
+        // Dışarıdaki o canavar J2000 yörünge motorundan özellikleri tek satırda emiyoruz aga!
+        const sunSpecs = getDynamicSunGateSpecs(sunDegRaw);
+
+        // Pusula kapısının içindeki o trigram çizgilerini ve bit şifrelerini anlık büküyoruz:
+        sunGate.innerHTML = `<span class="trigram">${sunSpecs.trigram}</span> <span class="iching-binary">${sunSpecs.binary}</span>`;
+
+        // Neon parlamasını ve border hattını 3 aylık sarsılmaz mevsim rengine kilitliyoruz!
+        sunGate.style.color = sunSpecs.color; 
+        sunGate.style.borderColor = sunSpecs.color; 
+        sunGate.style.opacity = "1.0"; 
+        sunGate.style.boxShadow = `0 0 20px ${sunSpecs.color}, inset 0 0 10px ${sunSpecs.color}`; 
+        sunGate.style.fontWeight = "bold";
+        
+        // Alt bar (Double Vortex) çizgileri de bu mevsim rengine senkronize aksın aga
+        window.currentDynamicTrigonColor = sunSpecs.color;
+    }*/
         // 🔮 NEON SEÇİCİ RENKLER
         if (sunGate) { 
             sunGate.style.color = "#ff5e00"; 
@@ -1530,6 +1647,7 @@ setInterval(() => {
             sunGate.style.boxShadow = "0 0 20px #ff5e00, inset 0 0 10px #ff5e00"; 
             sunGate.style.fontWeight = "bold";
         }
+
         if (moonGate) {
             moonGate.style.color = "#00ffff";
             moonGate.style.borderColor = "#00ffff";
@@ -2015,6 +2133,22 @@ if (metatronIframe && metatronIframe.contentWindow) {
 },  CONFIG.PULSE_INTERVAL);
 
 
+// Burçların hem renk kodlarını hem de saf piktogram gliflerini tanımlıyoruz aga
+const wiccaGlifMatrix = [
+    { name: "Koç",     symbol: "♈", color: "#ff3300" }, 
+    { name: "Boğa",    symbol: "♉", color: "#00ff66" }, 
+    { name: "İkizler", symbol: "♊", color: "#00ffff" }, 
+    { name: "Yengeç",  symbol: "♋", color: "#0064ff" }, 
+    { name: "Aslan",   symbol: "♌", color: "#ffd700" }, 
+    { name: "Başak",   symbol: "♍", color: "#00cc44" }, 
+    { name: "Terazi",  symbol: "♎", color: "#00ffaa" }, 
+    { name: "Akrep",   symbol: "♏", color: "#7a00ff" }, 
+    { name: "Yay",     symbol: "♐", color: "#ff5e00" }, 
+    { name: "Oğlak",   symbol: "♑", color: "#555555" }, 
+    { name: "Kova",    symbol: "♒", color: "#00e5ff" }, 
+    { name: "Balık",   symbol: "♓", color: "#a855f7" }  
+];
+
 
 // 12 Burç ve onların kadim elementer siber renk kodları aga!
 const wiccaZodiacMatrix = [
@@ -2138,70 +2272,92 @@ function updateWiccaDock() {
                 omurgaMedicalDesc = "Glemfatik sistem maksimum aktif. CSF sıvısı beyin odalarını nehir gibi süpürerek kutsal temizliği gerçekleştiriyor.";
             }
 
-            // 🎯 WICCA OS: %100 DİNAMİK RENKLİ BAŞLIK STRİNGİ
-            // Güneş'in mevcut burç indeksini sistemden çekiyoruz
-   
-        let sunIndex = Math.floor(sunDegRaw / 30) % 12;
+// =========================================================================
+// 🚀 WICCA OS: SAF DİNAMİK 5-EKSEN MAYA-BAGUA DOCK HEADER MOTORU (MÜHÜR V11-S3 - COLO_R HATASI İMHA)
+// =========================================================================
 
-        // 📐 +4 ve +8 Eşkenar Üçgen Trigon Hesaplama Kilidi
-        let yellowEtherIndex = (sunIndex + 4) % 12;
-        let purpleMetatronIndex = (sunIndex + 8) % 12;
+        let pureSunAngle = typeof sunDegRaw !== 'undefined' ? sunDegRaw : baseSunDeg;
+        
+        // Zodyak vites indeksini (0-11) hiçbir kısıtlama olmadan doğrudan ham boylamdan türet aga!
+        let sunIndex = Math.floor(pureSunAngle / 30);
+        sunIndex = ((sunIndex % 12) + 12) % 12; // Mutlak pozitif kilit!
 
-        // Burç nesnelerini listeden jilet gibi ayıklıyoruz aga
-        let yellowZodiacObj = wiccaZodiacMatrix[yellowEtherIndex];
-        let purpleZodiacObj = wiccaZodiacMatrix[purpleMetatronIndex];
+        // 📐 5 Büyük Aksın İndeks Mekanizması (Çember dışına taşmalar tamamen engellendi)
+        let yellowIndex = ((sunIndex + 4) % 12 + 12) % 12; // Solar Ether (+4 Burç)
+        let purpleIndex = ((sunIndex + 8) % 12 + 12) % 12; // Metatron Core (+8 Burç)
+        let lilithIndex = ((sunIndex + 6) % 12 + 12) % 12; // 180° Mutlak Doğrusal Antipod Vakumu
+        let moonIndex   = typeof moonDegRaw !== 'undefined' ? (Math.floor(moonDegRaw / 30)) : 0;
+        moonIndex = ((moonIndex % 12) + 12) % 12;
 
-        // 🎨 ZODYAK SİMGELERİNİ SPAN İLE RENKLENDİRME SÜRÜCÜSÜ
-        let coloredYellowZodiac = `<span style="color: ${yellowZodiacObj.color}; font-weight: bold; text-shadow: 0 0 4px ${yellowZodiacObj.color};">${yellowZodiacObj.name.toUpperCase()}</span>`;
-        let coloredPurpleZodiac = `<span style="color: ${purpleZodiacObj.color}; font-weight: bold; text-shadow: 0 0 4px ${purpleZodiacObj.color};">${purpleZodiacObj.name.toUpperCase()}</span>`;
+        // Nesnelerini yedekli (fallback) olarak çekiyoruz; dizi taşsa bile asla undefined çökmesi yaşanmaz aga!
+        let sGlif = wiccaGlifMatrix[sunIndex] || { color: '#ff3300', symbol: '☉', name: 'SUN' };       
+        let lGlif = wiccaGlifMatrix[lilithIndex] || { color: '#00ffff', symbol: '⚸', name: 'LILITH' };    
+        let yGlif = wiccaGlifMatrix[yellowIndex] || { color: '#ffaa00', symbol: '☴', name: 'ETHER_Y' };    
+        let pGlif = wiccaGlifMatrix[purpleIndex] || { color: '#bc13fe', symbol: '☳', name: 'METATRON_P' };    
+        let mGlif = wiccaGlifMatrix[moonIndex] || { color: '#ffffff', symbol: '☽', name: 'MOON' };
 
-        // 🎯 WICCA OS: ESKİ İKONİK KLASİK BAŞLIK STRİNGİ (KAPALIYKEN DURUM DEĞİŞMEZ)
-        let sunGlitText    = `🔴 ☰ ${activeSunPos.toUpperCase()}`;
-        let lilithGlifText = `🔵 ☴ ${activeLilithPos.toUpperCase()}`;
-        let moonGlifText   = `⚪ ☵ ${activeMoonPos.toUpperCase()}`;
+        // 🎨 BAGUALARIN YANINA SAF GLİFLERİ BASMA SATIRLARI (Renk ve gölge mühürleri)
+        let sunGlitText    = `<span style="color: #ff3300; text-shadow: 0 0 5px #ff3300; font-weight: bold;">🔴 ☰ <span style="color:${sGlif.color}; text-shadow: 0 0 5px ${sGlif.color};">${sGlif.symbol}</span></span>`;
+        let lilithGlifText = `<span style="color: #00ffff; text-shadow: 0 0 5px #00ffff; font-weight: bold;">🔵 ☷ <span style="color:${lGlif.color}; text-shadow: 0 0 5px ${lGlif.color};">${lGlif.symbol}</span></span>`;
+        let yellowGlitText = `<span style="color: ${yGlif.color}; text-shadow: 0 0 5px ${yGlif.color}; font-weight: bold;">🟡 ☴ <span style="color:${yGlif.color}; text-shadow: 0 0 5px ${yGlif.color};">${yGlif.symbol}</span></span>`;
+        let purpleGlitText = `<span style="color: #bc13fe; text-shadow: 0 0 5px #bc13fe; font-weight: bold;">🟣 ☳ <span style="color:${pGlif.color}; text-shadow: 0 0 5px ${pGlif.color};">${pGlif.symbol}</span></span>`;
+        let moonGlifText   = `<span style="color: #e2e8f0; text-shadow: 0 0 5px #ffffff; font-weight: bold;">⚪ ☵ <span style="color:${mGlif.color}; text-shadow: 0 0 5px ${mGlif.color};">${mGlif.symbol}</span></span>`;
+
+        // 🎯 [KORUMA SİGORTASI AGA] Zaman büküldüğünde paneldeki odanın takılmaması için kelepçe:
+        if (window.isTimeBended && typeof window.currentCalculatedRoom !== 'undefined') {
+            currentRoomSafe = window.currentCalculatedRoom;
+            if (typeof sunRoom64 !== 'undefined') { sunRoom64 = window.currentCalculatedRoom; }
+        } else {
+            currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
+        }
 
         // 12px fluid clamp düzeniyle o sarsılmaz şablonu basıyoruz aga fırlat!
         wiccaPanelElement.innerHTML = `
-            <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: ESKİ İKONİK KUTSAL ÜÇLÜ GEZEGEN ODAĞI -->
-            <div class="dock-summary-line" style="display:flex; justify-content:center; align-items:center; font-weight:bold; font-size:12px; color:#ffffff; font-family:monospace; width:100%; gap:12px; letter-spacing:0.5px;">
-                <span style="color: #ff5e00; white-space:nowrap;">${sunGlitText}</span>
-                <span style="color: #333;">|</span>
-                <span style="color: #00ffff; white-space:nowrap;">${lilithGlifText}</span>
-                <span style="color: #333;">|</span>
-                <span style="color: #e2e8f0; white-space:nowrap;">${moonGlifText}</span>
-            </div>
-            
-            <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK GEZEGEN VE OMURGA MATRİSİ -->
-            <div class="dock-expanded-content" style="margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px; font-size:13px; line-height:1.4; text-align:left; font-family:monospace; color:#ccc;">
-                <!-- Omurgadaki Kutsal Kapı Başlığı ve Sirkadiyen Tıbbi Log -->
-                <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${omurgaBaguaTitle}</div>
-                <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${omurgaMedicalDesc} <span style="color:#444;">|</span> ${realSaturnTransit}</div>
-                
-                <!-- 🪐 +4 VE +8 TRIGON GEOMETRİK ETHER AKS KİLİTLERİ (RENKLENDİRİLDİ!) -->
-                <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05);">
-                    • 🟡 [SOLAR ETHER AXIS]: ${coloredYellowZodiac} <span style="color:#444;">(+4 BURÇ)</span><br/>
-                    • 🟣 [METATRON CORE AXIS]: ${coloredPurpleZodiac} <span style="color:#444;">(+8 BURÇ)</span>
-                </div>
+    <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: SAF SİBER ZODYAK DOUBLE VORTEX AKSI -->
+    <div class="dock-summary-line" style="display:flex; justify-content:center; align-items:center; width:100%; gap:14px; padding: 2px 0;">
+        <div style="white-space:nowrap;">${sunGlitText}</div>
+        <div style="color: #222;">|</div>
+        <div style="white-space:nowrap;">${lilithGlifText}</div>
+        <div style="color: #222;">|</div>
+        <div style="white-space:nowrap;">${yellowGlitText}</div>
+        <div style="color: #222;">|</div>
+        <div style="white-space:nowrap;">${purpleGlitText}</div>
+        <div style="color: #222;">|</div>
+        <div style="white-space:nowrap;">${moonGlifText}</div>
+    </div>
+    
+    <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK GEZEGEN VE OMURGA MATRİSİ -->
+    <div class="dock-expanded-content" style="margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px; font-size:13px; line-height:1.4; text-align:left; font-family:monospace; color:#ccc;">
+        <!-- Omurgadaki Kutsal Kapı Başlığı ve Sirkadiyen Tıbbi Log -->
+        <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${omurgaBaguaTitle}</div>
+        <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${omurgaMedicalDesc} <span style="color:#444;">|</span> ${realSaturnTransit}</div>
+        
+        <!-- 🪐 BURÇ İSİMLERİ VE DETAYLAR PANEL GENİŞLEYİNCE KUTUNUN İÇİNDE AÇILIR AGA -->
+        <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05);">
+            • 🔴 [SOLAR POSITION]: <span style="color:#ff3300; font-weight:bold;">${activeSunPos.toUpperCase()}</span><br/>
+            • 🔵 [LILITH ANTIPOD]: <span style="color:#00ffff; font-weight:bold;">${activeLilithPos.toUpperCase()}</span><br/>
+            • 🟡 [SOLAR ETHER]: <span style="color:${yGlif.color}; font-weight:bold;">${yGlif.name.toUpperCase()} (+4)</span><br/>
+            • 🟣 [METATRON CORE]: <span style="color:${pGlif.color}; font-weight:bold;">${pGlif.name.toUpperCase()} (+8)</span><br/>
+            • ⚪ [SELENE RADIAL]: <span style="color:#ffffff; font-weight:bold;">${activeMoonPos.toUpperCase()}</span>
+        </div>
 
-                <!-- Keldani Çağ, Venüs Altın Oran ve Satürn Döngü Matrisi -->
-                <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
-                    • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${airTrigonResonance}</span> | ŞAR: ${greatSaros790} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y]<br/>
-                    • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${venusEarth8Y}/8] | 🪐 [79Y RETURN]: [${macroCycle79}/79] | 13 AY: ${metatronData.thirteenMoonText || "ELECTRIC MOON"}
-                </div>
-                
-                <!-- Alttaki Sayaç, Kopuksuz Binary Oda ve Yüzdesel Akış Vektörleri -->
-                <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
-                    >> YANG: %${liveYangPercent} | YIN: %${liveYinPercent} | 📥 P: ${livePValue} | BINARY: ${currentBinaryRoom} | ODA: [${currentRoomSafe}/64] | SYNC: ⏱️ ${liveSecondsString}s
-                </div>
-            </div>
-        `;
+        <!-- Keldani Çağ, Venüs Altın Oran ve Satürn Döngü Matrisi -->
+        <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
+            • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${airTrigonResonance}</span> | ŞAR: ${greatSaros790} | 🪐 JU-SA: [${JU_SA_20Y_Cycle}/20Y]<br/>
+            • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${venusEarth8Y}/8] | 🪐 [79Y RETURN]: [${macroCycle79}/79] | 13 AY: ${metatronData.thirteenMoonText || "ELECTRIC MOON"}
+        </div>
+        
+        <!-- Alttaki Sayaç, Kopuksuz Binary Oda ve Yüzdesel Akış Vektörleri -->
+        <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
+            >> YANG: %${liveYangPercent} | YIN: %${liveYinPercent} | 📥 P: ${livePValue} | BINARY: ${currentBinaryRoom} | ODA: [${currentRoomSafe}/64] | SYNC: ⏱️ ${liveSecondsString}s
+        </div>
+    </div>
+`;
         } catch (innerError) {
             console.log(`Wicca OS Kuantum Panel Kalkanı Hatayı Eritti: ${innerError.message}`);
         }
     }
 } // <-- updateWiccaDock fonksiyonunun asıl mühürlü ana parantez kapanış çizgisi burası aga!
-
-
 
 function getDynamicSabbat(sunSign) {
     const now = new Date();
@@ -3465,124 +3621,152 @@ if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffs
 if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'SAAT'; }
 
 // =========================================================================
-// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR V2)
+// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR V11-S2 - TEPE ATLAMASIZ)
 // =========================================================================
 window.bendWiccaTime = function(direction) {
     
-    // 🎯 [MUTLAK SIFIR NOKTASI - NOW ÇAPASI] aga:
+    // 🎯 [MUTLAK SIFIR NOKTASI - NOW ÇAPASI]
     if (direction === 'NOW') {
-        window.isTimeBended = false; // Zaman vanasını serbest bırak, canlı saate dön!
-        window.wiccaTimeOffsetMinutes = 0; // Tüm zaman bükme offsetlerini sıfırla
-        window.now = new Date(); // Sistem zamanını tam şu ana eşitle
+        window.isTimeBended = false; 
+        window.wiccaTimeOffsetMinutes = 0; 
+        window.now = new Date(); 
         window.wiccaCurrentAxisDate = window.now;
         
-        // Sabbat indeksini gerçek canlı saatin odasına göre yeniden senkronize et
         let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
         window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
         window.currentCalculatedRoom = currentRoomSafe;
 
-        // Anlık yeşil neon flash görsel tepkisi
         const nowBtn = document.getElementById('mode-btn-now');
         if (nowBtn) {
             nowBtn.style.background = "rgba(0, 255, 170, 0.3)";
             setTimeout(() => { nowBtn.style.background = "#111"; }, 300);
         }
 
-        // Arayüzü ve Lilith dock panelini canlı verilerle tazeleyelim aga
         if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
         console.log("⚡ Kuantum Çapası Tetiklendi: Gerçek Canlı Zamana Dönüldü!");
-        return; // NOW işlemi bitti, aşağı akışı çalıştırma aga
+        return; 
     }
 
-    // 🔑 Eğer PAST veya FUTURE ise zaman vanasını kilitle, simülasyon ezilmesin!
     window.isTimeBended = true; 
     
-    // 🛡️ Global Sabbat indeksini ve aktif bükülmüş odayı en başta güvenli başlatıyoruz aga:
     if (typeof window.wiccaSabbatIndex === 'undefined') {
         let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
         window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
     }
 
-    let roomDelta = 1;      // Sabbat kadran atlama payı
-    let macroYearDelta = 0; // Büyük Feng Shui çağ kaymaları için yıl çarpanı
+    let roomDelta = 1;      
+    let macroYearDelta = 0; 
+    let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
+    let forcedRoom = currentRoomSafe;
+    let minutesToShift = 0;
 
-    // Eski şalter yapısını HAFTA (7 GÜN) vitesiyle genişletiyoruz aga:
-    switch(window.wiccaTimeMode) {
-        case 'SAAT': 
-            roomDelta = 1; // 1 Sabbat kapısı (8 oda) fırlat!
-            break;             
-        case 'GÜN':  
-            roomDelta = 2; // 2 Sabbat kapısı fırlat!
-            break; 
-        case 'HAFTA':  
-            roomDelta = 3; // 💥 YENİ: 7 Günlük döngü için 3 Sabbat kapısı fırlat!
-            break;       
-        case 'AY':   
-            roomDelta = 4; // 4 Sabbat kapısı fırlat!
-            break;   
-        case 'VENUS8': 
-            roomDelta = 8; // Tam tur 64 odalık fraktal döngü
-            macroYearDelta = 7.9; // 7.9 Yıllık Venüs döngüsü takvim kayması aga
-            break;
-        case 'SATURN79':
-            roomDelta = 8;
-            macroYearDelta = 79;  // 79 Yıllık makro Feng Shui döngü bükülmesi
-            break;
-        case 'KELDANI790':
-            roomDelta = 8;
-            macroYearDelta = 790; // 790 Yıllık büyük Keldani çağ mutasyonu
-            break;
-        default: 
-            roomDelta = 1;
+    const mode = window.wiccaTimeMode;
+
+    // 🎯 SAAT VEYA ODA MODUNDA KİLİTSİZ AKIŞ ALGORİTMASI
+    if (mode === 'SAAT' || mode === 'ODA' || mode === 'FIXEDCROSS' || mode === 'FIXED_CROSS') {
+        let kalan = currentRoomSafe % 8;
+
+        if (direction === 'FUTURE') {
+            forcedRoom = currentRoomSafe + (kalan === 0 ? 8 : (8 - kalan)); 
+        } 
+        else if (direction === 'PAST') {
+            forcedRoom = currentRoomSafe - (kalan === 0 ? 8 : kalan);
+        }
+
+        forcedRoom = (forcedRoom + 64) % 64;
+        
+        // 🛠️ KRİTİK GÖRSEL KİLİT: Sabbat indeksini tam 8'lik dilime kelepçeliyoruz ki 
+        // arayüzü çizen motor odayı katlayıp tepeye fırlatmasın aga!
+        window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
+        
+        let deltaRooms = forcedRoom - currentRoomSafe;
+        if (deltaRooms > 32) deltaRooms -= 64;
+        if (deltaRooms < -32) deltaRooms += 64;
+
+        // Arka plan saat yuvarlama motorunu tam 8 odada (3 saatte) yakalamak için 190 dakika uyguluyoruz
+        if (direction === 'FUTURE') {
+            minutesToShift = (8 * 22.5) + 10.0; // 180 + 10 = 190 dakika ileri
+        } else if (direction === 'PAST') {
+            minutesToShift = -((8 * 22.5) + 10.0); // 190 dakika geri
+        }
+        
+        roomDelta = 0; 
+    } else {
+        // 🎯 MAKRO TAKVİM VE AY MODUNDA 8'Lİ KATLARDA ATLATMA SİSTEMİ
+        let kalan = currentRoomSafe % 8;
+        if (direction === 'FUTURE') {
+            forcedRoom = currentRoomSafe + (kalan === 0 ? 8 : (8 - kalan)); 
+        } else if (direction === 'PAST') {
+            forcedRoom = currentRoomSafe - (kalan === 0 ? 8 : kalan);
+        }
+        forcedRoom = (forcedRoom + 64) % 64;
+        window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
+
+        const MIN_IN_DAY = 24 * 60; // 1440 dk
+
+        switch(mode) {
+            case 'GÜN':    
+                minutesToShift = MIN_IN_DAY * 2; // Tam 2 gün bük
+                break; 
+            case 'HAFTA':  
+                minutesToShift = MIN_IN_DAY * 7; // Tam 1 hafta bük
+                break;       
+            case 'AY':     
+                minutesToShift = MIN_IN_DAY * 30; // Tam 30 gün bük
+                break;   
+            case 'VENUS8': roomDelta = 8; macroYearDelta = 7.9; break;
+            case 'SATURN79': roomDelta = 8; macroYearDelta = 79; break;
+            case 'KELDANI790': roomDelta = 8; macroYearDelta = 790; break;
+            default: roomDelta = 1;
+        }
+
+        if (mode === 'GÜN' || mode === 'HAFTA' || mode === 'AY') {
+            if (direction === 'PAST') minutesToShift = -minutesToShift;
+        } else {
+            if (direction === 'FUTURE') {
+                window.wiccaSabbatIndex = (window.wiccaSabbatIndex + roomDelta) % 8;
+            } else if (direction === 'PAST') {
+                window.wiccaSabbatIndex = (window.wiccaSabbatIndex - roomDelta + 8) % 8;
+            }
+            forcedRoom = (window.wiccaSabbatIndex * 8) % 64;
+            minutesToShift = roomDelta * 8 * 22.5;
+            if (direction === 'PAST') minutesToShift = -minutesToShift;
+        }
     }
 
-    // [WICCA_MODULO_SHIFTER]: Sabbat indeksini 0-7 kadran sınırları arasında 
-    // mutlak olarak koruyan sarsılmaz sınır kalkanı aga:
-    if (direction === 'FUTURE') {
-        window.wiccaSabbatIndex = (window.wiccaSabbatIndex + roomDelta) % 8;
-    } else if (direction === 'PAST') {
-        window.wiccaSabbatIndex = (window.wiccaSabbatIndex - roomDelta + 8) % 8;
-    }
-
-    // 🎯 [MUTLAK 64 ODALIK DÖNGÜ KİLİDİ]: 58'den sonra 66'ya taşmayı kökten engelliyoruz!
-    // Oda her zaman ve sadece 64'lük çember the tam katlarında kalacak aga!
-    let forcedRoom = (window.wiccaSabbatIndex * 8) % 64;
-
-    // Hem canlı simülasyon odasını hem de global takibi bu kuantum odasına kelepçeliyoruz:
+    // Odaları zorla sisteme ve global hafızaya mühürle
     if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
     window.currentCalculatedRoom = forcedRoom;
-
-    // 📅 Arka plan zaman kaydırma entegrasyonu (Milenyum ve Mikro dengeli):
-    const baseDate = new Date();
     
-    // Mikro viteslerin (Saat, Gün, Hafta, Ay) dakika cinsinden kayma payı:
-    let offsetMs = roomDelta * 8 * 22.5 * 60 * 1000; 
-    let minutesToShift = offsetMs / (60 * 1000);
+    // Sabbat Index'i bir kez daha teyit kilit altına alıyoruz
+    window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
 
-    // Eğer makro vitesler (7.9Y, 79Y, 790Y) aktifse, dakikayı devasa takvim yılına çevir aga:
+    // ⏳ ZAMAN EKSENİNİ DEĞİŞTİRME
     if (macroYearDelta > 0) {
         const MINUTES_IN_YEAR = 365.2422 * 24 * 60;
         minutesToShift = macroYearDelta * MINUTES_IN_YEAR;
+        if (direction === 'PAST') minutesToShift = -minutesToShift;
     }
     
-    // Zaman vanasını yön doğrultusunda sıkıyoruz ya da gevşetiyoruz:
-    if (direction === 'PAST') {
-        window.wiccaTimeOffsetMinutes -= minutesToShift;
-    } else if (direction === 'FUTURE') {
-        window.wiccaTimeOffsetMinutes += minutesToShift;
-    }
+    window.wiccaTimeOffsetMinutes += minutesToShift;
+
+    console.log(
+        `🔮 [MÜHÜR V11-S2] Mod: ${mode} | Giriş: ${currentRoomSafe} | ` +
+        `Hedef: ${forcedRoom} | SabbatIdx: ${window.wiccaSabbatIndex} | Shift: ${minutesToShift} dk`
+    );
     
-    // Nihai bükülmüş sanal Date nesnesini mühürlüyoruz:
+    // Sanal zamanı oluştur ve bas
+    const baseDate = new Date();
     window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
     window.wiccaCurrentAxisDate = window.now;
 
-    // 🫀 MÜHENDİSLİK ZİRVESİ: Windkessel medikal arayüzünü anında tetikleyip ekrana mühürle aga!
+    // updateWiccaDock çalışmadan hemen önce odayı son kez eşitle
+    if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
+
     if (typeof updateWiccaDock === 'function') {
         updateWiccaDock();
     }
 };
-
-
 // =========================================================================
 // 🧠 WICCA OS: LILITH & SELENE TERS SİNÜS DALGASI SÜRÜCÜ MOTORU
 // =========================================================================
