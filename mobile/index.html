@@ -660,7 +660,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* ➕ CARDINAL HAÇ SABİT KİLİTLERİ */
 .fire-gate { 
     position: fixed !important; /* Üstteki tüm div'lerin overflow kilitlerini tamamen yok sayar */
-    top: 60px !important;       /* Ekranın en tepesinden (Zaman Motorunun hemen altından) 90px aşağıya çiviler */
+    top: 10% !important;       /* Ekranın en tepesinden (Zaman Motorunun hemen altından) 90px aşağıya çiviler */
     left: 50% !important; 
     transform: translateX(-50%) !important; 
     z-index: 9999999 !important; /* Sayfadaki her şeyin ama her şeyin en üstüne çıkartır */
@@ -668,15 +668,15 @@ body, html, h1, h2, h3, p, a, button, .btn {
     visibility: visible !important;
     opacity: 0.95 !important;
 }
-.water-gate { bottom: 120px; left: 50%; transform: translateX(-50%); border-bottom: 1px solid rgba(255,255,255,0.15); }
-.air-gate   { top: 50%; right: 20px; transform: translateY(-50%); border-right: 1px solid rgba(255,255,255,0.15); }
-.earth-gate { top: 50%; left: 20px; transform: translateY(-50%); border-left: 1px solid rgba(255,255,255,0.15); }
+.water-gate { bottom: 20%; left: 50%; transform: translateX(-50%); border-bottom: 1px solid rgba(255,255,255,0.15); }
+.air-gate   { top: 50%; right: 10%; transform: translateY(-50%); border-right: 1px solid rgba(255,255,255,0.15); }
+.earth-gate { top: 50%; left: 10%; transform: translateY(-50%); border-left: 1px solid rgba(255,255,255,0.15); }
 
 /* ✖️ FIXED HAÇ ÇAPRAZ KİLİTLERİ */
-.light-gate { top: 22%; right: 12%; } 
-.ether-gate { bottom: 24%; right: 12%; } 
-.metal-gate { bottom: 24%; left: 12%; } 
-.ice-gate   { top: 22%; left: 12%; } 
+.light-gate { top: 22%; right: 20%; } 
+.ether-gate { bottom: 24%; right: 20%; } 
+.metal-gate { bottom: 24%; left: 20%; } 
+.ice-gate   { top: 22%; left: 20%; } 
 
 /* 💥 ELEKTRİKSEL AKTİF ÇERÇEVE PARLAMASI */
 .element-corner.active-glow {
