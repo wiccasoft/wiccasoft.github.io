@@ -532,7 +532,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     width: 470px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
     max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
     height: auto !important;
-    top: 58.0% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    top: 58.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
     left: 52% !important;
     transform: translate(-50%, -50%)scale(0.9) !important;
     
@@ -1292,18 +1292,18 @@ setInterval(() => {
     ];
     */
 
-    // =========================================================================
+ // =========================================================================
     // ☯️ WICCA OS: GERÇEK FU XI BINARY (IKILI) SAYAÇ MATRİSİ [KOPUKSUZ AKIŞ]
     // =========================================================================
     const iching64 = [
-        "䷁", "䷖", "䷇", "䷓", "䷏", "䷬", "䷋", "䷋", // 0 - 7   (000000 -> 000111) Saf Yin'den uyanış
-        "䷎", "䷳", "䷦", "䷴", "䷽", "䷱", "䷞", "䷠", // 8 - 15  (001000 -> 001111)
-        "䷆", "䷃", "䷜", "䷺", "䷧", "䷷", "䷮", "䷅", // 16 - 23 (010000 -> 010111)
-        "䷭", "䷑", "䷯", "䷸", "䷟", "䷥", "䷛", "䷫", // 24 - 31 (011000 -> 011111) Gündüzün Yang Sınırı
-        "䷗", "䷚", "䷂", "䷩", "䷲", "䷔", "䷐", "䷘", // 32 - 39 (100000 -> 100111) Gece/Vakum Başlangıcı
-        "䷣", "䷕", "䷶", "䷾", "䷰", "䷝", "䷤", "䷌", // 40 - 47 (101000 -> 101111)
-        "䷒", "䷨", "䷻", "䷼", "䷵", "䷵", "䷹", "䷉", // 48 - 55 (110000 -> 110111)
-        "䷊", "䷙", "䷄", "䷈", "䷡", "䷍", "䷪", "䷀"  // 56 - 63 (111100 -> 111111) Saf Yang Zirvesi: ䷀ Cennet
+        "䷁", "䷖", "䷇", "䷓", "䷏", "䷬", "䷋", "䷋", 
+        "䷎", "䷳", "䷦", "䷴", "䷽", "䷱", "䷞", "䷠", 
+        "䷆", "䷃", "䷜", "䷺", "䷧", "䷷", "䷮", "䷅", 
+        "䷭", "䷑", "䷯", "䷸", "䷟", "䷥", "䷛", "䷫", 
+        "䷗", "䷚", "䷂", "䷩", "䷲", "䷔", "䷐", "䷘", 
+        "䷣", "䷕", "䷶", "䷾", "䷰", "䷝", "䷤", "䷌", 
+        "䷒", "䷨", "䷻", "䷼", "䷵", "䷵", "䷹", "䷉", 
+        "䷊", "䷙", "䷄", "䷈", "䷡", "䷍", "䷪", "䷀"  
     ];
 
     const currentHour = now.getHours() + (now.getMinutes() / 60) + (now.getSeconds() / 3600); 
@@ -1312,10 +1312,32 @@ setInterval(() => {
     // Gündüz veya gece uzunluğuna göre odanın kalacağı dakika süresi:
     let roomDurationMinutes = isYang ? ((solar.dayLength * 60) / 32) : (((24 - solar.dayLength) * 60) / 32);
 
-    // Güneş boylamı ve vaktine göre 0 ile 63 arasında dinamik oda numarası:
-    let sunRoom64 = isYang 
-        ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) 
-        : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
+    // 🎯 [KRİTİK GÜNCELLEME ENJEKSİYONU AGA - GEÇİŞ KİLİDİ]
+    // Eğer kullanıcı butonlarla zamanı büktüyse (isTimeBended devredeyse), Sirkadiyen formülünün 
+    // odayı sürekli 0 veya 8'e yuvarlayıp kilitlemesini ENGELLİYORUZ!
+    // Doğrudan bendWiccaTime fonksiyonunun mühürlediği o şanlı 8'li kat odasını baz alıyoruz!
+    let sunRoom64 = 0;
+
+  // 🫀 [WICCA SAF AKIŞ BARİYERİ]
+    // Eğer zaman bükülmüşse, bu karmaşık astronomik formülün odayı geriye yuvarlamasını 
+    // veya ezmesini KESİNLİKLE ENGELLİYORUZ! Doğrudan buton odasını mühürleyip geçiyoruz aga!
+    if (window.isTimeBended && typeof window.currentCalculatedRoom !== 'undefined') {
+        sunRoom64 = window.currentCalculatedRoom;
+    } else {
+        // Zaman bükülmediyse (Normal Canlı Zaman) senin o muazzam sirkadiyen formülün tıkır tıkır çalışır:
+        sunRoom64 = isYang 
+            ? Math.min(Math.floor(((currentHour - solar.sunrise) / solar.dayLength) * 32), 31) 
+            : Math.min(Math.max(32 + Math.floor((((currentHour >= solar.sunset) ? (currentHour - solar.sunset) : ((24 - solar.sunset) + currentHour)) / (24 - solar.dayLength)) * 32), 0), 63);
+    }
+
+    // Küresel durumları tek parça güncelle, hiçbir asenkron kaçak araya sızamaz!
+    if (typeof sunRoom64 !== 'undefined') {
+        window.currentCalculatedRoom = sunRoom64;
+        if (typeof currentRoomSafe !== 'undefined') { currentRoomSafe = sunRoom64; }
+    }
+
+    // Pozitif sınır mühürü
+    sunRoom64 = (sunRoom64 % 64 + 64) % 64;
 
     window.currentCalculatedRoom = sunRoom64;
     const currentIChingHex = iching64[sunRoom64]; // Odanın o anki I Ching sembolü
@@ -1329,111 +1351,6 @@ setInterval(() => {
         // Burası odanın canlı akmasını tetikler.
     }
 
-    // =========================================================================
-    // 🌍 ASTRONOMİK CANLI EKİNOKS & GÜNDÖNÜMÜ HESAPLAYICI [ASTRONOMICAL_GEAR]
-    // =========================================================================
-    const nowZ = new Date(now);
-    const currentYear = nowZ.getFullYear();
-
-    const Y = (currentYear - 2000) / 1000;
-
-    let jded21Mar = 2451623.80984 + (365242.37404 * Y) + (0.05169 * Y * Y);
-    const equinox21Mar = new Date((jded21Mar - 2440587.5) * 86400000);
-
-    let jded21Jun = 2451716.56767 + (365241.72619 * Y) + (0.0083 * Y * Y);
-    const solstice21Jun = new Date((jded21Jun - 2440587.5) * 86400000);
-
-    let jded23Sep = 2451810.21715 + (365242.01767 * Y) + (-0.1157 * Y * Y);
-    const equinox23Sep = new Date((jded23Sep - 2440587.5) * 86400000);
-
-    let jded21Dec = 2451900.05952 + (365242.74049 * Y) + (-0.06223 * Y * Y);
-    const solstice21Dec = new Date((jded21Dec - 2440587.5) * 86400000);
-
-    // =========================================================================
-    // 🌍 ÇİFT AKSLI NET TEK KELİME MEVSİM MOTORU [WICCA_PURE_TEXT_GEAR]
-    // =========================================================================
-    let nhSeasonText = "";
-    let shSeasonText = "";
-    let currentWaveVal = 0;
-
-    if (nowZ < equinox21Mar || nowZ >= solstice21Dec) {
-        nhSeasonText = "KUZEY: KIŞ"; 
-        shSeasonText = "GÜNEY: YAZ"; 
-        currentWaveVal = -1.0;
-    } else if (nowZ >= equinox21Mar && nowZ < solstice21Jun) {
-        nhSeasonText = "KUZEY: İLKBAHAR"; 
-        shSeasonText = "GÜNEY: SONBAHAR"; 
-        currentWaveVal = 0.5;
-    } else if (nowZ >= solstice21Jun && nowZ < equinox23Sep) {
-        nhSeasonText = "KUZEY: YAZ"; 
-        shSeasonText = "GÜNEY: KIŞ"; 
-        currentWaveVal = 1.0;
-    } else if (nowZ >= equinox23Sep && nowZ < solstice21Dec) {
-        nhSeasonText = "KUZEY: SONBAHAR"; 
-        shSeasonText = "GÜNEY: İLKBAHAR"; 
-        currentWaveVal = -0.5;
-    }
-
-    window.currentNHSeasonState = nhSeasonText;
-    window.currentSHSeasonState = shSeasonText;
-    window.nhSeasonWave = currentWaveVal;
-
-    let wiccaSeasonalInfluences = {
-        "gate-fire":  (nhSeasonText.includes("YAZ") || shSeasonText.includes("YAZ")) ? 1.4 : 1.0,
-        "gate-light": (nhSeasonText.includes("BAHAR") || shSeasonText.includes("BAHAR")) ? 1.3 : 1.0,
-        "gate-water": (nhSeasonText.includes("SONBAHAR") || shSeasonText.includes("SONBAHAR")) ? 1.4 : 1.0,
-        "gate-ice":   (nhSeasonText.includes("KIŞ") || shSeasonText.includes("KIŞ")) ? 1.5 : 1.0
-    };
-
-/*
-     // =========================================================================
-    // 🎛️ PAKUA SIRKADİYEN BAGUA ZAMAN GENLEŞMESİ (DYNAMIC DILATION) [WICCA_GEAR_OK]
-    // =========================================================================
-    const currentHourRaw = now.getHours() + (now.getMinutes() / 60) + (now.getSeconds() / 3600); 
-    const isYang = currentHourRaw >= solar.sunrise && currentHourRaw < solar.sunset;
-
-    // 1. Lineer (Düz) İlerleme Oranlarını Gerçek Güneş Boyutlarına Göre Buluyoruz
-    let progressInPhase = 0; 
-    if (isYang) {
-        // Gündüz İlerlemesi (Gündoğumundan Günbatımına: 0.0 - 1.0)
-        let rawYangProgress = (currentHourRaw - solar.sunrise) / solar.dayLength;
-        
-        // ☀️ [WICCA_AFTERNOON_DILATION]: Güneş'in ikindi vaktinde (progress 0.7 - 0.85 arası) 
-        // erkenden batış kapısına koşup batmasını engellemek için zamanı asenkron büküyoruz aga!
-        // Sinüs dalgası öğleden sonra diferansiyeli yavaşlatarak Güneş'i sağ üst köşede asılı tutar ve geç batırır:
-        progressInPhase = rawYangProgress - (0.095 * Math.sin(rawYangProgress * Math.PI * 1.5));
-    } else {
-        // 🌌 [WICCA_TRUE_MIDNIGHT_FIX]: Gece yarısı saat 2 ve 3'te sabaha fırlamayı engelleme kalkanı
-        let referenceHour = currentHourRaw;
-        if (referenceHour < solar.sunrise) {
-            progressInPhase = 0.35 + (referenceHour / (solar.sunrise * 2)); 
-        } else {
-            progressInPhase = ((referenceHour - solar.sunset) / (24 - solar.sunset)) * 0.35;
-        }
-    }
-
-    // 2. [BAGUA DILATION MOTORU]: Tam Kardinal Noktalarda (Tam Öğle ve Tam Gece Yarısı)
-    // Zamanı büküyoruz. Kübik sinüs fraktalı sayesinde, tam ortalarda oda akış hızı neredeyse duracak, 
-    // en aşağı 1 saat boyunca odayı tepede/dipte asılı tutacak ama gün ritmini (Güneş sınırlarını) asla bozmayacak aga!
-    let dilatedProgressInPhase = progressInPhase - (0.075 * Math.sin(progressInPhase * Math.PI * 2));
-
-    // Sınır koruma kalkanı (Asla Güneş döngüsünden dışarı taşamaz)
-    dilatedProgressInPhase = Math.max(0, Math.min(1, dilatedProgressInPhase));
-
-    // 3. Bükülmüş İlerlemeyi 32'şer Odalık Pakua Dilimlerine Dönüştürüyoruz
-    let sunRoom64 = 0;
-    if (isYang) {
-        // 🔥 Gündüz Fazı: 0 - 31. odalar. 
-        // İkindi bükülmesi sayesinde Güneş öğleden sonra erkenden aşağı kaçmayacak, 
-        // sağ üst kadrandaki yerinde asilce parlamaya devam ederek geç batacak aga!
-        sunRoom64 = Math.min(Math.floor(dilatedProgressInPhase * 32), 31);
-    } else {
-        // 💧 Gece Fazı: 32 - 63. odalar. 
-        // Gece yarısı koruması aktif: Saat 03:15'te oda 53-54 yatağında güvenle kilitli kalır aga!
-        sunRoom64 = Math.min(Math.max(32 + Math.floor(dilatedProgressInPhase * 32), 32), 63);
-    }
-
-    */
 
     // =========================================================================
     // 🌌 [WICCA_MUTLAK_OLAY_UFKU_MOTORU] — SIFIR HATALI ZAMAN ENJEKTÖRÜ AGA!
@@ -1453,30 +1370,13 @@ setInterval(() => {
     let darkMoonRoom64 = (sunRoom64 + 32) % 64;
     let currentDarkMoonHexagram = iching64[darkMoonRoom64];
 
+    
     // =========================================================================
     // ☀️ SİRKADİYEN GÜNEŞ RENK SPEKTRUMU & GÜNEY KUTBU ISI HARİTASI [WICCA_COLOR]
     // =========================================================================
-    let sunAngle = (sunRoom64 * 5.625);
-    let sunCircadianColor = '#7a00ff'; // Varsayılan Gece Moru (Rubedo)
-/*
-    if (sunRoom64 >= 0 && sunRoom64 < 12) { 
-        // 🔥 YANG ZİRVE: Mutlak Öğlen ve Gündüz (Saf Parlak Beyaz/Sarı)
-        sunCircadianColor = '#ffeb3b'; 
-    } else if (sunRoom64 >= 12 && sunRoom64 < 28) { 
-        // 🟡 YANG DEŞARJ: İkindi ve Gün Batımına Doğru (Altın Sarısı / Kehribar)
-        sunCircadianColor = '#ffaa00'; 
-    } else if (sunRoom64 >= 28 && sunRoom64 < 32) { 
-        // 🍊 AKŞAM ALACAKARANLIĞI: Batış Aksı (Ateş Turuncusu / Gün Batımı Kızılı)
-        sunCircadianColor = '#ff5e00'; 
-    } else if (sunRoom64 >= 32 && sunRoom64 < 48) { 
-        // 💧 YIN DERİNLİK: Gece Yarısı ve Teheccüd Sırrı (Derin Siber Kuantum Mavisi)
-        sunCircadianColor = '#00e5ff'; 
-    } else if (sunRoom64 >= 48 && sunRoom64 <= 63) { 
-        // 🌅 YIN UYANIŞ: Şafak Vakti Güneydoğu/Güney Kutbu Isınması!
-        sunCircadianColor = '#f97316'; 
-    }
-  */
-  // =========================================================================
+     let sunAngle = (sunRoom64 * 5.625);
+     let sunCircadianColor = '#7a00ff';
+    // =========================================================================
     // ⚔️ FİZİKSEL 4 FIXED & 4 CARDINAL + NİHAİ CO-EXIST MOTORU [WICCA_METATRON_MASTER_FINAL]
     // =========================================================================
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
@@ -1546,23 +1446,19 @@ setInterval(() => {
         window.calculatedNorthNodeRoom = northNodeRoomIndex; 
         window.calculatedSouthNodeRoom = southNodeRoomIndex;
 
-  // =========================================================================
-        // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MUTLAK EVRE İLERLEME MOTORU - GARANTİ]
+        // =========================================================================
+        // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MÜHÜR V11-S19 - PÜRÜZSÜZ EVRE KİLİDİ]
         // =========================================================================
         let seleneGate = null; 
         let seleneIndex = -1;
-        
-   if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
+
+        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
             // 360 derecelik evre ilerlemesini 8 Bagua kapısına (Her biri 45 derece) oranlıyoruz aga:
             let phaseOffsetGates = moonLive.seleneProgress * 8;
+     
+            let seleneIndexRaw = Math.round(sirkadiyenButonIndex - phaseOffsetGates) % 8;
             
-            // 🎯 SİHİRLİ GEOMETRİK BAĞLANTI:
-            // Ay'ı mutlak olarak Güneş kapısına (sirkadiyenButonIndex) kelepçeliyoruz!
-            // Bagua kapılarının yönü ile zodyak akış yönü ters olduğu için aradaki 
-            // evre farkını Güneş'ten çıkartarak (-) yön bükümüyle gerçek Kova/Balık konumuna fırlatıyoruz aga:
-            let seleneIndexRaw = Math.floor(sirkadiyenButonIndex - phaseOffsetGates) % 8;
-            
-            // Negatif indeks koruma kalkanı (0-7 sınır mühürü)
+            // Negatif indeks koruma kalkanı (0-7 mutlak çember mühürü)
             seleneIndex = (seleneIndexRaw + 8) % 8; 
             
             window.currentSeleneGateIndex = seleneIndex;
@@ -2183,37 +2079,63 @@ function updateWiccaDock() {
             wiccaPanelElement.className = 'wicca-unified-dock';
         }
 
-        try {
+   try {
             // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: getFullYear çökmesini önleyen Date koruması
             let nowInstance = window.now || window.wiccaCurrentAxisDate || new Date();
             if (!nowInstance || !(nowInstance instanceof Date) || isNaN(nowInstance.getTime())) {
                 nowInstance = new Date();
             }
 
+            // 🎯 [KONTROL SİGORTASI AGA] Zaman büküldüğünde odanın takılmaması için oda numarasını senkronluyoruz:
             let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 48;
+            if (window.isTimeBended && typeof window.currentCalculatedRoom !== 'undefined') {
+                currentRoomSafe = window.currentCalculatedRoom;
+            }
+
             let currentBaseMonth = nowInstance.getMonth(); 
             let currentSecondsFactor = (nowInstance.getDate() * 86400 + nowInstance.getHours() * 3600 + nowInstance.getMinutes() * 60 + nowInstance.getSeconds()) / 86400;
             
-            // 🪐 🎯 KRİTİK GÜNCELLEME: currentBinaryRoom tanımını buraya jilet gibi mühürledik! Hata silindi.
-            const currentBinaryRoom = currentRoomSafe.toString(2).padStart(6, '0');
+                // =========================================================================
+                // 🪐 🎯 KRİTİK GÜNCELLEME: currentBinaryRoom TANIMINI 8'Lİ KATLARA KİLİTLEDİK AGA!
+                // =========================================================================
+                // Zaman büküldüğünde binary sayacın eski astronomik odalara bakıp sapmasını engellemek için,
+                // doğrudan bendWiccaTime'ın kilitlediği o şanlı kuantum odayı baz alıyoruz!
+                let binaryTargetRoom = currentRoomSafe;
+                if (window.isTimeBended && typeof window.currentCalculatedRoom !== 'undefined') {
+                    binaryTargetRoom = window.currentCalculatedRoom;
+                }
+
+                // 6 Bitlik mutlak Fu Xi matris dizilimi için padStart(6, '0') ile binary kalkanı mühürlüyoruz:
+                const currentBinaryRoom = binaryTargetRoom.toString(2).padStart(6, '0');
 
             // 🎯 LİBRA HASSASİYETLİ GÜNEŞ BOYALAM DENGESİ
             let baseSunDeg = window.liveSunLongitude || (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
             let sunDegRaw = baseSunDeg;
+
+            // 🛠️ [NİHAİ FİLTRE ENJEKSİYONU AGA] 
+            // O hayalet burç sıçramalarını, Virgo'dan Akrep'e kaçma hatalarını kökten bitiren kilit:
+            const m = window.wiccaTimeMode;
             if (window.isTimeBended && typeof window.wiccaSabbatIndex !== 'undefined') {
-                sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
+                if (m === 'SAAT' || m === 'ODA') {
+                    // Mikro viteslerde burçların donması için ekstra derece eklemesini KESİNLİKLE İPTAL EDİYORUZ!
+                    sunDegRaw = baseSunDeg; 
+                } 
+                else if (m === 'GÜN' || m === 'HAFTA' || m === 'AY') {
+                    // Sadece makro takvim modlarında 8'li Sabbat indeksine göre (1.5 burç = 45 derece) doğrusal kayma veriyoruz:
+                    let bükülmüşBurçİndeksi = Math.floor(window.wiccaSabbatIndex * 1.5) % 12;
+                    sunDegRaw = (bükülmüşBurçİndeksi * 30) % 360;
+                }
             }
 
-            // Gecikmesiz Selene verileri
+            // Gecikmesiz Selene verileri (Fırlamayan, temizlenmiş sunDegRaw üzerinden besleniyor!)
             let metatronData = typeof calculateMetatronMoon === 'function' ? calculateMetatronMoon(nowInstance) : { percent: 50, seleneHex: "0x0" };
             let moonPhaseProgress = metatronData.seleneProgress || 0.312;
             let moonDegRaw = ((sunDegRaw + (moonPhaseProgress * 360)) % 360);
             
-            // 🔮 LILITH KUTUPSAL EKSEN DEVRİMİ: 
-            // Orta Çağ astronomisine meydan okuyan o mutlak 180° karşıt geometrik nizam aga!
+            // 🔮 LILITH KUTUPSAL EKSEN DEVRİMİ
             let lilithDegRaw = (sunDegRaw + 180) % 360;
 
-            // Burç dönüştürme motoru koruması:
+            // Burç dönüştürme motoru koruması (Artık donmuş ve temiz verilere bakarak jilet gibi hatasız string üretir)
             let activeSunPos   = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(sunDegRaw) : "18° BAŞAK";
             let activeMoonPos  = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(moonDegRaw) : "5° KOÇ";
             let activeLilithPos = typeof boylamiBurcaCevirAga === 'function' ? boylamiBurcaCevirAga(lilithDegRaw) : "18° BALIK";
@@ -2625,41 +2547,7 @@ document.querySelectorAll('.nav-square-btn').forEach(btn => {
 
 
 
-// =========================================================================
-// 🌐 METATRON 3D ÇEKİRDEK - PARALEL ORB DİNLEYİCİ MÜHRÜ
-// =========================================================================
-window.addEventListener('message', (event) => {
-    // Sadece bizim ana sayfadan gelen siber verileri filtreliyoruz
-    if (event.data && event.data.type === 'WICCA_LINEAR_SYNC') {
-        const { room, sunAngle, sunColor, moonColor } = event.data;
-        
-        // 1. Gündüz/Gece Oranını Yakalama (Oda 1-32 gündüz, 33-64 gece)
-        const isGündüz = room <= 32;
-        
-        // 2. 3D Sahnesindeki Beyaz ve Siyah Küreleri Buluyoruz
-        // (Kürelerinin mesh isimleri neyse ona göre güncelleyebilirsin aga)
-        const beyazOrbMesh = scene.getObjectByName('beyazOrb');
-        const siyahOrbMesh = scene.getObjectByName('siyahOrb');
-        
-        if (beyazOrbMesh && siyahOrbMesh) {
-            if (isGündüz) {
-                // 🌅 GÜNDÜZ PARALELLİĞİ: Beyaz orb aktif parlar, siyah orb loşlaşır
-                beyazOrbMesh.material.color.set(sunColor); // Sirkadiyen renge bürünür (Altın/Turuncu)
-                beyazOrbMesh.material.opacity = 1.0;
-                
-                siyahOrbMesh.material.color.set('#050505'); // Mutlak ham madde karanlığı
-                siyahOrbMesh.material.opacity = 0.2;
-            } else {
-                // 🌌 GECE PARALELLİĞİ: Beyaz orb solar, siyah orb siber auraya bürünür
-                beyazOrbMesh.material.color.set('#333333');
-                beyazOrbMesh.material.opacity = 0.1;
-                
-                siyahOrbMesh.material.color.set(moonColor); // Derin Ay moruna/laciverte bürünür
-                siyahOrbMesh.material.opacity = 0.8;
-            }
-        }
-    }
-});
+
 
     </script>
 
@@ -3586,15 +3474,20 @@ function getDynamicCosmicAge(date) {
 }
 
 
-
 // =========================================================================
-// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI (MÜHÜRLÜ)
+// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI (MÜHÜRLÜ - V2)
 // =========================================================================
 window.setWiccaMode = function(mode) {
-    window.wiccaTimeMode = mode; // Eski küresel kalkan ismini koruyoruz aga
+    // 🎯 HATA ENGELLEME: Eğer arayüzden 'SAAT' gelirse onu otomatik 'ODA' moduna 
+    // veya tam tersine eşitleyerek arka plandaki string çakışmasını infaz ediyoruz aga!
+    let targetMode = mode.toUpperCase();
+    if (targetMode === 'SAAT') targetMode = 'ODA';
+    
+    window.wiccaTimeMode = targetMode; 
     
     // Tüm butonların siberpunk ışıklarını söndürüp pasife çekme mantığı
-    const modes = ['SAAT', 'GÜN', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
+    // HTML'deki id'lerin 'mode-btn-oda' veya 'mode-btn-saat' ihtimallerini tek parça tarıyoruz:
+    const modes = ['SAAT', 'ODA', 'GÜN', 'HAFTA', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
     modes.forEach(m => {
         const btn = document.getElementById(`mode-btn-${m.toLowerCase()}`);
         if (btn) {
@@ -3606,166 +3499,100 @@ window.setWiccaMode = function(mode) {
     });
     
     // Aktif edilen zaman vitesinin butonunu mor neon ışıkla patlatıyoruz aga!
-    const activeBtn = document.getElementById(`mode-btn-${mode.toLowerCase()}`);
+    // Hem 'saat' hem 'oda' ID ihtimallerini eş zamanlı yakalıyoruz:
+    let activeId = mode.toLowerCase();
+    let activeBtn = document.getElementById(`mode-btn-${activeId}`);
+    
+    // Eğer 'oda' id'li buton bulunamazsa 'saat' id'li butona ışık ver:
+    if (!activeBtn && activeId === 'oda') activeBtn = document.getElementById('mode-btn-saat');
+    if (!activeBtn && activeId === 'saat') activeBtn = document.getElementById('mode-btn-oda');
+
     if (activeBtn) {
         activeBtn.style.background = 'rgba(122, 0, 255, 0.15)'; 
         activeBtn.style.color = '#fff'; 
         activeBtn.style.border = '1px solid #7a00ff'; 
         activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
     }
-    console.log(`Wicca OS Zaman Vitesi Değiştirildi: [${mode}]`);
+    console.log(`Wicca OS Zaman Vitesi Değiştirildi: [${targetMode}]`);
 };
 
-// 🛡️ Global Değişken Kalkanları — AÇILIŞ MODU MUTLAK 'SAAT' (ODA) VİTESİNE KİLİTLENDİ AGA!
+// 🛡️ Global Değişken Kalkanları — Açılış vitesi ODA moduna kilitlendi!
 if (typeof window.wiccaTimeOffsetMinutes === 'undefined') { window.wiccaTimeOffsetMinutes = 0; }
-if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'SAAT'; }
+if (typeof window.wiccaTimeMode === 'undefined') { window.wiccaTimeMode = 'ODA'; }
+
 
 // =========================================================================
-// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ DİNAMİK VİTES KUTUSU (MÜHÜR V11-S2 - TEPE ATLAMASIZ)
+// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ (MÜHÜR V20 - SAF SENKRON MOTOR)
 // =========================================================================
 window.bendWiccaTime = function(direction) {
     
     // 🎯 [MUTLAK SIFIR NOKTASI - NOW ÇAPASI]
     if (direction === 'NOW') {
-        window.isTimeBended = false; 
+        window.isTimeBended = false; // Bayrak indi: Canlı akış serbest!
         window.wiccaTimeOffsetMinutes = 0; 
         window.now = new Date(); 
         window.wiccaCurrentAxisDate = window.now;
         
+        // Canlı odadan Sabbat indeksini türet
         let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
-        window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
         window.currentCalculatedRoom = currentRoomSafe;
-
-        const nowBtn = document.getElementById('mode-btn-now');
-        if (nowBtn) {
-            nowBtn.style.background = "rgba(0, 255, 170, 0.3)";
-            setTimeout(() => { nowBtn.style.background = "#111"; }, 300);
-        }
+        window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
 
         if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
         console.log("⚡ Kuantum Çapası Tetiklendi: Gerçek Canlı Zamana Dönüldü!");
         return; 
     }
 
+    // 🛡️ BAYRAK ÇEKİLDİ: Arkadaki tüm sirkadiyen motorlar bu saniyede donacak!
     window.isTimeBended = true; 
     
-    if (typeof window.wiccaSabbatIndex === 'undefined') {
-        let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
-        window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
+    // Giriş odasını mutlak korumalı global hafıza hücresinden çekiyoruz aga
+    if (typeof window.currentCalculatedRoom === 'undefined' || window.currentCalculatedRoom === null) {
+        window.currentCalculatedRoom = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
     }
+    
+    let currentRoom = window.currentCalculatedRoom;
+    let forcedRoom = currentRoom;
 
-    let roomDelta = 1;      
-    let macroYearDelta = 0; 
-    let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
-    let forcedRoom = currentRoomSafe;
-    let minutesToShift = 0;
+    // Vites kontrolünü normalize et aga
+    let mode = window.wiccaTimeMode ? window.wiccaTimeMode.toUpperCase() : 'ODA';
+    if (mode === 'SAAT') mode = 'ODA';
 
-    const mode = window.wiccaTimeMode;
-
-    // 🎯 SAAT VEYA ODA MODUNDA KİLİTSİZ AKIŞ ALGORİTMASI
-    if (mode === 'SAAT' || mode === 'ODA' || mode === 'FIXEDCROSS' || mode === 'FIXED_CROSS') {
-        let kalan = currentRoomSafe % 8;
+    // 🎯 SADECE SAYISAL AKIŞ MATRİSİ (Zaman kayması karmaşası tamamen bypass edildi!)
+    if (mode === 'ODA') {
+        let kalan = currentRoom % 8;
 
         if (direction === 'FUTURE') {
-            forcedRoom = currentRoomSafe + (kalan === 0 ? 8 : (8 - kalan)); 
+            forcedRoom = currentRoom + (kalan === 0 ? 8 : (8 - kalan)); 
         } 
         else if (direction === 'PAST') {
-            forcedRoom = currentRoomSafe - (kalan === 0 ? 8 : kalan);
+            forcedRoom = currentRoom - (kalan === 0 ? 8 : kalan);
         }
-
+        
         forcedRoom = (forcedRoom + 64) % 64;
-        
-        // 🛠️ KRİTİK GÖRSEL KİLİT: Sabbat indeksini tam 8'lik dilime kelepçeliyoruz ki 
-        // arayüzü çizen motor odayı katlayıp tepeye fırlatmasın aga!
-        window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
-        
-        let deltaRooms = forcedRoom - currentRoomSafe;
-        if (deltaRooms > 32) deltaRooms -= 64;
-        if (deltaRooms < -32) deltaRooms += 64;
-
-        // Arka plan saat yuvarlama motorunu tam 8 odada (3 saatte) yakalamak için 190 dakika uyguluyoruz
-        if (direction === 'FUTURE') {
-            minutesToShift = (8 * 22.5) + 10.0; // 180 + 10 = 190 dakika ileri
-        } else if (direction === 'PAST') {
-            minutesToShift = -((8 * 22.5) + 10.0); // 190 dakika geri
-        }
-        
-        roomDelta = 0; 
     } else {
-        // 🎯 MAKRO TAKVİM VE AY MODUNDA 8'Lİ KATLARDA ATLATMA SİSTEMİ
-        let kalan = currentRoomSafe % 8;
-        if (direction === 'FUTURE') {
-            forcedRoom = currentRoomSafe + (kalan === 0 ? 8 : (8 - kalan)); 
-        } else if (direction === 'PAST') {
-            forcedRoom = currentRoomSafe - (kalan === 0 ? 8 : kalan);
-        }
-        forcedRoom = (forcedRoom + 64) % 64;
-        window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
-
-        const MIN_IN_DAY = 24 * 60; // 1440 dk
-
-        switch(mode) {
-            case 'GÜN':    
-                minutesToShift = MIN_IN_DAY * 2; // Tam 2 gün bük
-                break; 
-            case 'HAFTA':  
-                minutesToShift = MIN_IN_DAY * 7; // Tam 1 hafta bük
-                break;       
-            case 'AY':     
-                minutesToShift = MIN_IN_DAY * 30; // Tam 30 gün bük
-                break;   
-            case 'VENUS8': roomDelta = 8; macroYearDelta = 7.9; break;
-            case 'SATURN79': roomDelta = 8; macroYearDelta = 79; break;
-            case 'KELDANI790': roomDelta = 8; macroYearDelta = 790; break;
-            default: roomDelta = 1;
-        }
-
-        if (mode === 'GÜN' || mode === 'HAFTA' || mode === 'AY') {
-            if (direction === 'PAST') minutesToShift = -minutesToShift;
-        } else {
-            if (direction === 'FUTURE') {
-                window.wiccaSabbatIndex = (window.wiccaSabbatIndex + roomDelta) % 8;
-            } else if (direction === 'PAST') {
-                window.wiccaSabbatIndex = (window.wiccaSabbatIndex - roomDelta + 8) % 8;
-            }
-            forcedRoom = (window.wiccaSabbatIndex * 8) % 64;
-            minutesToShift = roomDelta * 8 * 22.5;
-            if (direction === 'PAST') minutesToShift = -minutesToShift;
-        }
+        // GÜN, HAFTA, AY modları için sarsılmaz makro blok adımları:
+        let delta = (mode === 'GÜN') ? 2 : (mode === 'HAFTA' ? 3 : 4);
+        let idx = (Math.floor(currentRoom / 8) + (direction === 'FUTURE' ? delta : -delta + 8)) % 8;
+        forcedRoom = idx * 8;
     }
 
-    // Odaları zorla sisteme ve global hafızaya mühürle
-    if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
+    // 🎯 [MUTLAK KİLİT]: Değerleri senkron olarak anında hafızaya çiviliyoruz!
     window.currentCalculatedRoom = forcedRoom;
-    
-    // Sabbat Index'i bir kez daha teyit kilit altına alıyoruz
+    if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
+    if (typeof currentRoomSafe !== 'undefined') { currentRoomSafe = forcedRoom; }
     window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
 
-    // ⏳ ZAMAN EKSENİNİ DEĞİŞTİRME
-    if (macroYearDelta > 0) {
-        const MINUTES_IN_YEAR = 365.2422 * 24 * 60;
-        minutesToShift = macroYearDelta * MINUTES_IN_YEAR;
-        if (direction === 'PAST') minutesToShift = -minutesToShift;
-    }
-    
-    window.wiccaTimeOffsetMinutes += minutesToShift;
-
-    console.log(
-        `🔮 [MÜHÜR V11-S2] Mod: ${mode} | Giriş: ${currentRoomSafe} | ` +
-        `Hedef: ${forcedRoom} | SabbatIdx: ${window.wiccaSabbatIndex} | Shift: ${minutesToShift} dk`
-    );
-    
-    // Sanal zamanı oluştur ve bas
+    // Astronomik kütüphanelerinin çökmemesi için sanal zaman havuzunu da senkron işletiyoruz:
+    window.wiccaTimeOffsetMinutes = forcedRoom * 22.5;
     const baseDate = new Date();
     window.now = new Date(baseDate.getTime() + (window.wiccaTimeOffsetMinutes * 60 * 1000));
     window.wiccaCurrentAxisDate = window.now;
 
-    // updateWiccaDock çalışmadan hemen önce odayı son kez eşitle
-    if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
+    console.log(`🔮 [MÜHÜR V20] Oda Tam 8'in Katına Kilitlendi: ${forcedRoom}`);
 
-    if (typeof updateWiccaDock === 'function') {
-        updateWiccaDock();
-    }
+    // Ekranı gecikmesiz, anında senkron olarak çizdir aga fırlat!
+    if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
 };
 // =========================================================================
 // 🧠 WICCA OS: LILITH & SELENE TERS SİNÜS DALGASI SÜRÜCÜ MOTORU
