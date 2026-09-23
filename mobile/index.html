@@ -406,16 +406,16 @@ body, html, h1, h2, h3, p, a, button, .btn {
 /* 📱 MOBİL CİHAZLAR İÇİN KUSURSUZ MERKEZLEME VE KATMAN HİYERARŞİSİ */
 @media (max-width: 768px) {
 
-     .app-settings-bar {
-        width: 100vw; /* Mobilde altı tamamen kaplasın tam uygulama olsun */
-        max-width: 100vw;
-        border-radius: 0;
-        border-left: none;
-        border-right: none;
-        height: 50px; /* Mobilde parmak rahat bassın diye 5px daha büyüttük */
+.app-settings-bar {
+    width: 100vw; /* Mobilde altı tamamen kaplasın tam uygulama olsun */
+    max-width: 100vw;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    height: 50px; /* Mobilde parmak rahat bassın diye 5px daha büyüttük */
     }
     .cosmic-status-bar {
-        bottom: 55px !important;
+    bottom: 55px !important;
     }
     
     /* 1. Ana taşıyıcıyı ekran yüksekliğine kilitliyor ve tam merkezleme flex yapısına alıyoruz */
@@ -426,10 +426,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     overflow: visible !important; /* Kesilmeyi önlemek için BURASI KESİNLİKLE visible olmalı! */
     margin-top: 0vh !important;
 
-    
 }
-
-
 
 .art-core-container {
     position: absolute !important;
@@ -464,32 +461,31 @@ body, html, h1, h2, h3, p, a, button, .btn {
     max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     
     top: 43.8% !important;
-    left: 53.5% !important;
-    transform: translate(-50%, -50%) scale(0.9)!important;
+    left: 50.5% !important;
+    transform: translate(-50%, -50%) scale(0.8)!important;
     object-fit: contain;
     z-index: 1;
     opacity: 0;
     filter: brightness(0.9) !important;
- /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
+
     mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
     -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
 }
 
 
-/* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
     width: 99% !important;
     max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     
-    top: 30.5% !important;
-    left: 49.0% !important;
+    top: 32.8% !important;
+    left: 46.6% !important;
     transform: translate(-50%, -50%) scale(0.6)!important;
     object-fit: contain;
     z-index: 2;
     opacity: 0;
     filter: brightness(0.9) !important;
- /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
+
     mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
     -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
 }
@@ -497,7 +493,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 .metatron-three-iframe-holder {
         position: absolute !important;
-        top: 55% !important;
+        top: 52% !important;
         left: 49% !important;
         transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
         width: 60vh !important;
