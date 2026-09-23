@@ -431,7 +431,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
 .art-core-container {
     position: absolute !important;
     top: 50% !important; /* Ortalamayı kesin dikey merkeze çekin */
-    left: 50% !important;
+    left: 51.5% !important;
     transform: translate(-50%, -50%) scale(1) !important;
     
     /* En kritik değişiklikler: */
@@ -972,12 +972,13 @@ footer {
         <!-- transition: opacity 3.0s sayesinde acele etmeden, yavaş yavaş mesh olacak aga! -->
         <img src="Mona_Lisa_with_original_colors_approximation.jpg" id="mesh-monalisa" class="madonna-image" alt="Mona Lisa Orijinal" />
 
-        <!-- 🌌 KOZMİK MERKEZ: 3D Metatron Küresi (Her iki resmin de en tepesinde parlayacak) -->
+
+    </div>
+
+            <!-- 🌌 KOZMİK MERKEZ: 3D Metatron Küresi (Her iki resmin de en tepesinde parlayacak) -->
         <div class="metatron-three-iframe-holder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
             <iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>
         </div>
-    </div>
-
 </main>
 
 
@@ -1562,6 +1563,9 @@ if (sunGate) {
 //--------------------------------------------------------------------------------------------------//
 
 const monaElement = document.getElementById('mesh-monalisa');
+
+
+const artElement = document.getElementById('art-core-container');
 const salvadorElement = document.getElementById('mesh-salvador') || document.querySelector('.salvador-image') || document.querySelector('.salvador-layer');
 const metatronElement = document.getElementById('metatron-three-iframe-holder');
 
@@ -1603,6 +1607,8 @@ else {
 if (monaElement && salvadorElement) {
     let targetMonaOpacity = 0;
     let targetSalvadorOpacity = 0;
+
+    
     
     // 🎯 KATMAN AMBORTİSÖRÜ: Hangi elementin fiziksel olarak üstte kalacağını belirler
     let monaZIndex = "1";
@@ -1615,8 +1621,13 @@ if (monaElement && salvadorElement) {
         pendulumStatus = "[MONA LISA] GÜNE MERHABA (SİSTOLİK GERİLİM SHARJI)";
         dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
 
-        monaElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
-        salvadorElement.style.setProperty('transition', 'opacity 3s ease-in-out', 'important');
+        const art = document.querySelector('.art-core-container');
+
+        art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
+        monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+        salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+
+        //salvadorElement.style.setProperty('left','50%', 'important');
 
         ////metatronElement.style.setProperty('opacity', 1, 'important');
         // ☀️ Gündüz Mona mutlak olarak hem opaklık hem katman olarak en üsttedir aga!
@@ -1632,16 +1643,22 @@ if (monaElement && salvadorElement) {
         pendulumStatus = "🌞 [MONA LISA] Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
         
+        const art = document.querySelector('.art-core-container');
         const metatronIframe = document.querySelector('.metatron-iframe');
+        
         metatronIframe.style.setProperty('opacity', targetMonaOpacity+targetSalvadorOpacity/2, 'important');
 
-
-       monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+        art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
+        monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
+        let dynamicLeft = 52 - (progress * 1); 
         //34 civil- 38 astronomical twiligt
+        //salvadorElement.style.setProperty('left',dynamicLeft + '%', 'important');
+
+     
+        //art.style.setProperty('left', dynamicLeft + '%', 'important');
         
-        // Geçiş evresinde pürüzsüz erime için ikisini de eşit katmana alıyoruz
         monaZIndex = "2";
         salvadorZIndex = "1";
     }
@@ -1694,7 +1711,14 @@ if (monaElement && salvadorElement) {
     targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
 
     monaElement.style.setProperty('opacity', targetMonaOpacity.toFixed(4), 'important');
-    salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');
+    salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');  
+    
+    
+    //salvadorElement.style.setProperty('left','50%', 'important');
+
+
+
+
 /*
     // 🔥 Dinamik z-index atamalı requestAnimationFrame kalkanı:
     requestAnimationFrame(() => {
