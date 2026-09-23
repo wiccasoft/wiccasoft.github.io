@@ -293,6 +293,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     transform: translate(-50%, -50%) scale(1.0) !important;
     object-fit: contain;
     z-index: 1;
+    opacity: 0;
     filter: brightness(1.0) !important;
    /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
     mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
@@ -335,65 +336,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     z-index: 5 !important;
 }
 
-    /*.metatron-iframe { width: 100%; height: 100%; border: none; }*/
-
-
-
-        /* 🌌 SİBERPUNK MASK TABAKASI */
-        .cyber-dark-overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(circle, rgba(5, 5, 5, 0.4) 25%, rgba(5, 5, 5, 0.85) 75%);
-            z-index: 3;
-            pointer-events: none;
-        }
-
-        /* 👑 ÖN PLAN KATMANI */
-        .hero-content-layer { position: relative; z-index: 4; text-align: center; max-width: 350px; padding: 20px; pointer-events: auto; margin-top: 70px; }
-
-
-        /* 🎯 BAŞLIK KİLİDİ */
-        h1 { 
-            font-size: 3.6rem; 
-            font-weight: 900; 
-            color: #ffffff; 
-            margin-bottom: 15px; 
-            letter-spacing: -1px;
-            text-shadow: 0 0 20px rgba(168, 85, 247, 0.6), 0 4px 10px rgba(0, 0, 0, 0.9); 
-        }
-        h1 span { color: #a855f7; }
-
-        p { font-size: 1.15rem; color: #e2e8f0; margin-bottom: 35px; line-height: 1.6; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9); }
-
-    
-        
-        /* 👣 FOOTER */
-        footer { width: 100%; height: 60px; background: rgba(5, 5, 5, 0.95); display: flex; justify-content: space-between; align-items: center; padding: 0 40px; font-size: 0.85rem; color: #666666; border-top: 1px solid rgba(168, 85, 247, 0.05); }
-        footer a { color: #888888; text-decoration: none; transition: color 0.3s; }
-        footer a:hover { color: #ffffff; }
-
-
-.product-logo-container {
-  position: absolute; /* Butonların altındaki konumunu sabitlemek için absolute şart */
-  left: 50%;
-  transform: translateX(-50%); /* Yatayda kusursuz ortalar */
-  top: 85%; /* Ekran yüksekliğine göre butonların hemen altına hizalar */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  max-width: 240px; /* Geniş ekranlarda devasa durmaması için ideal boyut */
-  z-index: 10;
-}
-
-.wicca-product-logo {
-  width: 100%;
-  height: auto;
-  object-fit: contain;
-}
+  
 
 
 
@@ -423,6 +366,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     transform: translate(-50%, -50%) scale(0.9) !important;
     object-fit: contain;
     z-index: 1;
+    opacity: 0;
     filter: brightness(1.1) !important;
    /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
     mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
@@ -500,58 +444,83 @@ body, html, h1, h2, h3, p, a, button, .btn {
     
 }
 
-/* 4. KRİTİK ALAN: 3D Küreleri ekranın değil, yazının tam arka planına hizalıyoruz */
-    .metatron-three-iframe-holder {
-        position: absolute !important;
-        top: 65% !important;
-        left: 49% !important;
-        transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
-        width: 75vh !important;
-        height: 75vh !important;
-        z-index: 2 !important; /* Yazı katmanının (10) arkasında kalır */
-        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
-    }
 
 
-    .art-core-container {
+.art-core-container {
     position: absolute !important;
-    top: 40% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    top: 50% !important; /* Ortalamayı kesin dikey merkeze çekin */
     left: 50% !important;
-    transform: translate(-50%, -50%) scale(0.88) !important;
-    width: 100vw;
-    height: calc(100vh - 140px); /* Kalan ekran yüksekliği kadar esnesin */
+    transform: translate(-50%, -50%) scale(1) !important;
+    
+    /* En kritik değişiklikler: */
+    width: 90vmin !important; /* Hem yükseklik hem genişliğin en küçüğünü baz alır */
+    height: 90vmin !important;
+    max-width: 500px !important;
+    max-height: 500px !important;
+    aspect-ratio: 1 / 1 !important; 
+
     z-index: 1;
     pointer-events: none;
-    overflow: visible !important; /* Taşmaları kesinlikle kesmesin */
+    overflow: visible !important;
 }
-      /* 📱 Sadece telefonlarda resmi büyüten ve ekrana oturtan mobil kilit */
+
+
+.madonna-image, .salvador-image {
+    position: absolute !important;
+    top: 50% !important;  /* İkisinin de merkez noktası aynı olsun */
+    left: 50% !important;
+    object-fit: contain;
+    /* Maskeleme ve diğer filtreleriniz kalabilir... */
+}
+
+.madonna-image {
+    position: absolute;
+    width: 99% !important;
+    max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    
+    top: 43.8% !important;
+    left: 53.5% !important;
+    transform: translate(-50%, -50%) scale(0.9)!important;
+    object-fit: contain;
+    z-index: 1;
+    opacity: 0;
+    filter: brightness(0.9) !important;
+ /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
+    mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+}
+
+
 /* 🖼 ORIGINAL SALVADOR (MASAÜSTÜ ANA AYARI) */
 .salvador-image {
     position: absolute;
-    width: 420px !important; /* Büyük ekranlarda direkt 500px sabit kalır */
-    height: auto !important;
-    top: 51.5% !important;
-    left: 48.3% !important;
-    transform: translate(-50%, -50%) scale(0.7) !important;
-      mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    width: 99% !important;
+    max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    
+    top: 30.5% !important;
+    left: 49.0% !important;
+    transform: translate(-50%, -50%) scale(0.6)!important;
+    object-fit: contain;
+    z-index: 2;
+    opacity: 0;
+    filter: brightness(0.9) !important;
+ /* 🌟 KESKİN KENARLARI SIFIRLAYIP MERKEZİ PARLATAN AGRESİF RADYAL MASKE */
+    mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
     -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-
-    z-index: 1;
 }
-.madonna-image {
-    position: absolute;
-    width: 470px !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
-    max-width: 420px !important; /* Taşmayı önleyen üst katı sınır */
-    height: auto !important;
-    top: 58.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 52% !important;
-    transform: translate(-50%, -50%)scale(0.9) !important;
-      mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
 
-    z-index: 1;
-    filter: brightness(1.0) !important;
-  }
+
+.metatron-three-iframe-holder {
+        position: absolute !important;
+        top: 55% !important;
+        left: 49% !important;
+        transform: translate(-50%, -50%) scale(0.50) !important; /* Küre boyutu mobilde yazıyı sarmalasın diye optimize edildi */
+        width: 60vh !important;
+        height: 60vh !important;
+        z-index: 3 !important; /* Yazı katmanının (10) arkasında kalır */
+        pointer-events: none !important; /* İframe boşluklarının buton tıklamalarını yutmasını engeller */
+    }
+
 
    #lilith-cosmic-dock {
         width: 92% !important; /* Ekranın kenarlarına yapışmasın, jilet gibi pay bıraksın */
@@ -1016,21 +985,11 @@ footer {
     <div class="art-core-container" style="position: relative; overflow: visible;">
         
         <!-- 💧 GECE RESMİ: Salvator Mundi (En altta sabit duruyor aga) -->
-        <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" style="display: block; width: 100%; height: auto;" />
+        <img src="Salvator_Mundi_oil_on_walnut.jpg" alt="Salvador Mundi Art" class="salvador-image" />
         
         <!-- ☀️ GÜNDÜZ RESMİ: Wikipedia Orijinal Mona Lisa (Tam Salvator'un üzerine binen transparan tül!) -->
         <!-- transition: opacity 3.0s sayesinde acele etmeden, yavaş yavaş mesh olacak aga! -->
-        <img src="Mona_Lisa_with_original_colors_approximation.jpg" id="mesh-monalisa" class="madonna-image" alt="Mona Lisa Orijinal" style="
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%; 
-            object-fit: cover; 
-            z-index: 1; 
-            opacity: 0; 
-            transition: opacity 3.0s ease-in-out;
-        " />
+        <img src="Mona_Lisa_with_original_colors_approximation.jpg" id="mesh-monalisa" class="madonna-image" alt="Mona Lisa Orijinal" />
 
         <!-- 🌌 KOZMİK MERKEZ: 3D Metatron Küresi (Her iki resmin de en tepesinde parlayacak) -->
         <div class="metatron-three-iframe-holder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
@@ -1752,23 +1711,7 @@ if (monaElement && salvadorElement) {
     // Emniyet sınırları kilidi (0.0 - 1.0)
     targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
     targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
-
-    // 🔥 Dinamik z-index atamalı requestAnimationFrame kalkanı:
-    requestAnimationFrame(() => {
-        monaElement.style.setProperty('opacity', targetMonaOpacity.toFixed(4), 'important');
-        salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');
-        
-        // Viteslerden gelen dinamik z-index değerleri vuruluyor aga:
-        monaElement.style.setProperty('z-index', monaZIndex, 'important');
-        salvadorElement.style.setProperty('z-index', salvadorZIndex, 'important');
-        
-        monaElement.style.setProperty('position', 'absolute', 'important');
-        salvadorElement.style.setProperty('position', 'absolute', 'important'); // İkisini de absolute mühürle ki alt alta tam otursunlar
-        
-        if (typeof targetOpacity !== 'undefined') {
-            targetOpacity = targetMonaOpacity;
-        }
-    });
+s
 
     //console.log("Metatron:", document.getElementById('metatron-three-iframe-holder'));
     //console.log("Mona:", document.getElementById('mesh-monalisa'));
@@ -1931,33 +1874,7 @@ if (compassFrame) {
 }
 
 
-// =========================================================================
-// 🫀 SALVATOR MUNDI SOL-MAVİ / SAĞ-KIRMIZI KARDİYAK AKIM SÜRÜCÜSÜ
-// =========================================================================
-const dynamicFrame = document.getElementById('main-frame') || document.querySelector('.cosmic-compass');
 
-if (dynamicFrame) {
-    dynamicFrame.style.transition = "all 0.9s ease-in-out"; // Akış nehir gibi süzülsün aga
-
-    if (sunRoom64 >= 0 && sunRoom64 < 16) {
-        // 🟢 0-16: Atrial Giriş (P Dalgası) -> Duru Yeşil Başlangıç
-        dynamicFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
-        dynamicFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.2)";
-    } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
-        // 🟡 16-32: Mona Lisa Maksimum Ejeksiyon -> Zafer Sarısı/Turuncusu
-        dynamicFrame.style.borderImage = "linear-gradient(45deg, #ffaa00, #ff5e00) 1";
-        dynamicFrame.style.boxShadow = "0 0 20px rgba(255, 94, 0, 0.35)";
-    } else if (sunRoom64 >= 32 && sunRoom64 < 48) {
-        // 🔵 32-48: Plato Gevşeme Fazı -> Sakin Siber Mavi
-        dynamicFrame.style.borderImage = "linear-gradient(45deg, #0055ff, #00ffff) 1";
-        dynamicFrame.style.boxShadow = "0 0 15px rgba(0, 85, 255, 0.25)";
-    } else {
-        // 🔴 🌙 49-64: SALVATOR MUNDI / LILITH PEAK FAZI (SOL MAVİ - SAĞ KIRMIZI AKS)
-        // Sol köşe kirli kan emişini (Mavi), sağ köşe kristal küre fırlatışını (Kırmızı) simgeler!
-        dynamicFrame.style.borderImage = "linear-gradient(135deg, #00ffff 0%, #0055ff 40%, #ff0055 60%, #ff2a2a 100%) 1";
-        dynamicFrame.style.boxShadow = "0 0 25px rgba(255, 0, 85, 0.4)";
-    }
-}
 
     // 🛸 METATRON 3D ÇEKİRDEK POSTMESSAGE KÖPRÜSÜ (Mutlak Kapsam Kilitli)
     const metatronIframe = document.querySelector('.metatron-iframe');
