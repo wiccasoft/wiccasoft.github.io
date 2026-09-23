@@ -320,22 +320,6 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
 
 
-#mesh-monalisa, .salvador-image, .salvador-layer {
-    filter: none !important;           /* Karartıcı filtreleri tamamen kaldırır */
-    mix-blend-mode: normal !important; /* Eğer blend modları karartıyorsa sıfırlar */
-    visibility: visible !important;    /* Gizlenmişse zorla açar */
-}
-
-#mesh-monalisa {
-    /* JavaScript'in setProperty ile gönderdiği değeri koru, gerisini çöpe at */
-    opacity: inherit !important; 
-    z-index: 10 !important; /* Mona Lisa'yı hep Salvador'un üst katmanına al */
-}
-
-.salvador-image {
-    z-index: 5 !important;
-}
-
   
 
 
@@ -367,6 +351,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     object-fit: contain;
     z-index: 1;
     opacity: 0;
+   
     filter: brightness(1.1) !important;
    /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
     mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
@@ -1711,8 +1696,27 @@ if (monaElement && salvadorElement) {
     // Emniyet sınırları kilidi (0.0 - 1.0)
     targetMonaOpacity = Math.max(0, Math.min(1, targetMonaOpacity));
     targetSalvadorOpacity = Math.max(0, Math.min(1, targetSalvadorOpacity));
-s
 
+    monaElement.style.setProperty('opacity', targetMonaOpacity.toFixed(4), 'important');
+    salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');
+/*
+    // 🔥 Dinamik z-index atamalı requestAnimationFrame kalkanı:
+    requestAnimationFrame(() => {
+        monaElement.style.setProperty('opacity', targetMonaOpacity.toFixed(4), 'important');
+        salvadorElement.style.setProperty('opacity', targetSalvadorOpacity.toFixed(4), 'important');
+        
+        // Viteslerden gelen dinamik z-index değerleri vuruluyor aga:
+        monaElement.style.setProperty('z-index', monaZIndex, 'important');
+        salvadorElement.style.setProperty('z-index', salvadorZIndex, 'important');
+        
+        monaElement.style.setProperty('position', 'absolute', 'important');
+        salvadorElement.style.setProperty('position', 'absolute', 'important'); // İkisini de absolute mühürle ki alt alta tam otursunlar
+        
+        if (typeof targetOpacity !== 'undefined') {
+            targetOpacity = targetMonaOpacity;
+        }
+    });
+*/
     //console.log("Metatron:", document.getElementById('metatron-three-iframe-holder'));
     //console.log("Mona:", document.getElementById('mesh-monalisa'));
     //console.log("Salvador:", document.getElementById('mesh-salvador') || document.querySelector('.salvador-image'));
