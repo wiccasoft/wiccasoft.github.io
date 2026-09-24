@@ -59,13 +59,18 @@ body, html, h1, h2, h3, p, a, button, .btn {
 
 
 /* =========================================================================
-   📱 WICCA OS: GLOBAL UYGULAMA ALT ANA MENÜ BAR SÜRÜCÜSÜ
+   📱 WICCA OS: GLOBAL UYGULAMA ALT ANA MENÜ BAR SÜRÜCÜSÜ [SAĞDAN KAYMA İNFAZ EDİLDİ - V52]
    ========================================================================= */
 .wicca-unified-dock {
     position: fixed !important;
     bottom: 50px !important; /* Alt barın tam üst çizgisine kilitli */
-    left: 50% !important;
-    transform: translateX(-50%) !important;
+    
+    /* 🎯 SAĞDAN FIRLAMA VE SARSILMA SABOTAJINI BİTİREN MUTLAK YATAY BETON KİLİT: */
+    left: 0 !important;
+    right: 0 !important;
+    margin: 0 auto !important;
+    transform: none !important; /* Hain transform bükülmesi ebediyen infaz edildi! */
+    
     width: 100vw !important;
     max-width: 420px !important;
     background: rgba(6, 6, 6, 0.4) !important; /* Başlangıçta cam gibi şeffaf */
@@ -75,18 +80,22 @@ body, html, h1, h2, h3, p, a, button, .btn {
     padding: 6px 12px !important;
     height: 32px !important; /* Kapalıyken sadece tek satır özet sığar */
     overflow: hidden !important;
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    
+    /* 🛡️ Sadece dikey yüksekliği (height) ve opaklığı (opacity) yumuşat, yatay esnemeyi Transition'dan tamamen arındır aga! */
+    transition: height 0.35s cubic-bezier(0.25, 1, 0.5, 1), background-color 0.2s linear !important;
+    
     z-index: 999999 !important;
     pointer-events: auto !important;
     cursor: pointer;
 }
 
-/* Dokunulduğunda yukarı doğru bir aplikasyon kartı gibi şahlanma derinliği */
+/* Dokunulduğunda sağa sola sapmadan, TAM AŞAĞIDAN YUKARIYA DOĞRU stor perde gibi şahlanma derinliği */
 .wicca-unified-dock.dock-expanded {
     height: 155px !important; 
     background: rgba(6, 6, 6, 0.96) !important; /* Detaylar net okunsun diye opaklaşır */
     backdrop-filter: blur(12px) !important;
     box-shadow: 0 -8px 25px rgba(122, 0, 255, 0.25) !important;
+    transform: none !important; /* Genişleyince de yatayda tek piksel bükülemez! */
 }
 
 /* =========================================================================
@@ -216,7 +225,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     opacity: 0 !important;
     pointer-events: none !important; /* Arkada kalıp yanlışlıkla tıklanmasını engeller */
     visibility: hidden !important;
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+   
 }
 
 /* Orijinal butonuna da akıcı kaybolma efekti ekleyelim (Eğer yoksa) */
@@ -793,13 +802,7 @@ body, html, h1, h2, h3, p, a, button, .btn {
     text-align: left;
 }
 
-/* Satır akış animasyonu (Matrix Hissiyatı) */
-.log-line {
-    margin-bottom: 4px;
-    opacity: 0;
-    transform: translateX(-5px);
-    animation: textGlitchSlide 0.3s forwards ease-out;
-}
+
 @keyframes textGlitchSlide {
     to { opacity: 1; transform: translateX(0); }
 }
@@ -825,8 +828,6 @@ body, html, h1, h2, h3, p, a, button, .btn {
     opacity: 0;
     pointer-events: none;
     
-    /* 🎯 SİHİRLİ GEÇİŞ MİLİ: Küt açılmayı bitiren akıcı animasyon hızı */
-    transition: bottom 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease-in-out !important;
 }
 
 /* Butona basıldığında terminali ekranın tam alt sınırına asilce tırmandıran tetikleyici */
@@ -894,7 +895,7 @@ footer {
 
 
 <!-- 📱 WICCA OS: NİHAİ UYGULAMA ALT ANA MENÜ PANELİ (BOTTOM OS DOCK) -->
-<div id="wicca-app-bottom-deck" class="app-settings-bar" style="position: fixed !important; bottom: 0 !important; left: 50% !important; transform: translateX(-50%); width: 100vw; max-width: 440px; height: auto !important; background: rgba(4, 4, 4, 0.95); border-top: 1px solid rgba(122, 0, 255, 0.2); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center; padding: 6px 0 10px 0; z-index: 9999999 !important; box-sizing: border-box; overflow: visible !important;">
+<div id="wicca-app-bottom-deck" class="app-settings-bar" style="position: fixed !important; bottom: 0; width: 100vw; max-width: 440px; height: auto !important; background: rgba(4, 4, 4, 0.95); border-top: 1px solid rgba(122, 0, 255, 0.2); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center; padding: 6px 0 10px 0; z-index: 9999999 !important; box-sizing: border-box; overflow: visible !important;">
     
     <!-- 🔮 LILITH (KARANLIK AY) & CSF ELEMENTER VORTEX İSTASYONU -->
     <div id="lilith-cosmic-dock" style="width: 94%; background: rgba(10, 10, 10, 0.6); border: 1px solid rgba(122,0,255,0.15); border-radius: 4px; padding: 4px 6px; margin-bottom: 8px; box-sizing: border-box; overflow: visible !important; height: auto !important;">
@@ -2492,32 +2493,33 @@ function updateWiccaDock() {
         // Barların gizlenmesini kesin olarak engelleyen, sadece detay kutusunu anahtarlayan şablon:
  wiccaPanelElement.innerHTML = `
             <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: HER ZAMAN AÇIK KALACAK VE DOKUNULDUĞUNDA ALT MATRİSİ ŞAK DİYE AÇACAK ELEMENT BAR -->
-            <div class="dock-summary-line" onclick="window.isWiccaPanelExpanded = !window.isWiccaPanelExpanded; updateWiccaDock();" style="display:flex !important; justify-content:space-between !important; align-items:center !important; width:100% !important; gap:4px !important; padding: 2px 0 !important; overflow:visible !important; box-sizing:border-box !important; height:auto !important; cursor: pointer; user-select: none;">
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos1}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos2}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos3}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos4}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos5}</div>
+            <div class="dock-summary-line" onclick="window.isWiccaPanelExpanded = !window.isWiccaPanelExpanded; updateWiccaDock();" style="display:flex !important; justify-content:space-between !important; align-items:center !important; width:100% !important; gap:4px !important; padding: 2px 0 !important; overflow:visible !important; box-sizing:border-box !important; height:auto !important; cursor: pointer; user-select: none; transform: none !important; animation: none !important; transition: none !important;">
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos1}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos2}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos3}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos4}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos5}</div>
             </div>
             
-            <!-- 🗃️ ANİMASYONSUZ, SAĞA SOLA ASLA SARSILMAYAN NORMAL AÇILAN GEZEGEN PANELİ -->
-            <div class="dock-expanded-content" style="
+            <!-- 🗃️ ANİMASYONSUZ, ESKİ CSS MİRASLARINDAN ARINDIRILMIŞ, ŞAK DİYE AÇILAN NORMAL GEZEGEN PANELİ -->
+            <div class="wicca-pure-flat-matrix" style="
                 display: ${window.isWiccaPanelExpanded ? 'block' : 'none'} !important; 
-                margin-top: 10px; 
-                border-top: 1px solid rgba(255,255,255,0.08); 
-                padding-top: 8px; 
-                font-size:12.5px; 
-                line-height:1.4; 
-                text-align:left; 
-                font-family:monospace; 
-                color:#ccc; 
+                margin-top: 10px !important; 
+                border-top: 1px solid rgba(255,255,255,0.08) !important; 
+                padding-top: 8px !important; 
+                font-size:12.5px !important; 
+                line-height:1.4 !important; 
+                text-align:left !important; 
+                font-family:monospace !important; 
+                color:#ccc !important; 
                 width: 100% !important; 
                 max-width: 100% !important; 
                 min-width: 100% !important; 
                 box-sizing: border-box !important; 
                 overflow: hidden !important;
-                transition: none !important; /* 🛡️ Tüm o gizli sağdan kayma transition sabotajları infaz edildi! */
+                transition: none !important; /* 🛡️ CSS dosyasındaki tüm o gizli sarsıntı transitionları kırıldı! */
                 transform: none !important;
+                animation: none !important;
             ">
 
                 <!-- Yerel değişken çelişkisini bitiren mutlak window.out_ enjeksiyonları aga! -->
