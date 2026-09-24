@@ -893,55 +893,38 @@ footer {
 
 
 
-<!-- 🔮 LILITH (KARANLIK AY) & CSF GİZLİ FELSEFE DOCK PANELİ -->
-<div id="lilith-cosmic-dock" style="position: absolute; bottom: 85px; left: 50%; transform: translateX(-50%); width: 70%; max-width: 380px; background: rgba(0, 0, 0, 0.75); border: 1px solid #222; border-radius: 4px; padding: 8px 12px; box-shadow: 0 0 15px rgba(0,0,0,0.9); font-family: monospace; z-index: 10; pointer-events: none; transition: all 0.5s ease-in-out;">
-    <div id="lilith-title" style="color: #00ffaa; font-size: 11px; font-weight: bold; border-bottom: 1px solid #333; padding-bottom: 3px; margin-bottom: 4px;">LILITH: MATRİS YÜKLENİYOR...</div>
-    <div id="lilith-desc" style="color: #ccc; font-size: 10px; line-height: 1.3; margin-bottom: 4px;">Kozmik sarkaç verileri taranıyor, CSF biyolojik akış döngüsü hesaplanıyor...</div>
-    <div id="lilith-formula" style="color: #ffaa00; font-size: 10px; text-align: left;">[LOADING SYSTEM]</div>
-</div>
-
-<!-- 🌌 MİSTİK KOZMİK DURUM MATRİSİ (Yazıları topladığımız alt veri barı) -->
-<div class="cosmic-status-bar" id="cosmic-status">
-    INITIALIZING COSMIC MATRIX...
-</div>
-
-
-
-
 <!-- 📱 WICCA OS: NİHAİ UYGULAMA ALT ANA MENÜ PANELİ (BOTTOM OS DOCK) -->
-<div id="wicca-app-bottom-deck" class="app-settings-bar">
-<!--
+<div id="wicca-app-bottom-deck" class="app-settings-bar" style="position: fixed !important; bottom: 0 !important; left: 50% !important; transform: translateX(-50%); width: 100vw; max-width: 440px; height: auto !important; background: rgba(4, 4, 4, 0.95); border-top: 1px solid rgba(122, 0, 255, 0.2); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center; padding: 6px 0 10px 0; z-index: 9999999 !important; box-sizing: border-box; overflow: visible !important;">
+    
+    <!-- 🔮 LILITH (KARANLIK AY) & CSF ELEMENTER VORTEX İSTASYONU -->
+    <div id="lilith-cosmic-dock" style="width: 94%; background: rgba(10, 10, 10, 0.6); border: 1px solid rgba(122,0,255,0.15); border-radius: 4px; padding: 4px 6px; margin-bottom: 8px; box-sizing: border-box; overflow: visible !important; height: auto !important;">
+        <!-- 🎛️ JAVASCRIPT MOTORUNUN ELEMENT KUTULARINI (${barPos1-5}) BASACAĞI MUTLAK MERKEZ -->
+        <div id="lilith-matrix-target" style="width: 100%; overflow: visible !important; height: auto !important;">
+            LILITH CORE CONNECTING...
+        </div>
+    </div>
 
-    <div class="dock-summary-line" style="position: fixed; bottom: 55px; left: 50%; transform: translateX(-50%); width: 90vw; max-width: 400px; display: flex; justify-content: space-between; background: rgba(5,5,5,0.85); border: 1px solid rgba(122,0,255,0.15); border-radius: 4px; padding: 4px 8px; z-index: 999999;">
-    <span class="season-indicator" data-element="fire" style="color: #ff1a1a; font-family: monospace; font-size: 10px; font-weight: bold; opacity: 0.25; transition: all 0.3s ease;">☰ ATEŞ (S)</span>
-    <span class="season-indicator" data-element="air" style="color: #00ffff; font-family: monospace; font-size: 10px; font-weight: bold; opacity: 0.25; transition: all 0.3s ease;">☱ HAVA (SP)</span>
-    <span class="season-indicator" data-element="earth" style="color: #e6b800; font-family: monospace; font-size: 10px; font-weight: bold; opacity: 0.25; transition: all 0.3s ease;">☷ TOPRAK (AU)</span>
-    <span class="season-indicator" data-element="water" style="color: #0066cc; font-family: monospace; font-size: 10px; font-weight: bold; opacity: 0.25; transition: all 0.3s ease;">☵ SU (W)</span>
--->
+    <!-- 🎮 SABİT OS GEZİNTİ BUTONLARI ŞERİDİ (EN ALT TABAN) -->
+    <div class="dock-buttons-row" style="display: flex; justify-content: space-around; align-items: center; width: 100%; gap: 6px; padding: 0 6px; box-sizing: border-box;">
+        <button class="deck-btn" onclick="toggleWiccaFullscreen()">
+            <span>📺</span> FULLSCREEN
+        </button>
+        <button class="deck-btn" onclick="openWiccaSubSettings('AYARLAR')">
+            <span>⚙️</span> SETTINGS
+        </button>
+        <button class="deck-btn" onclick="calibrateCosmicMatrix()">
+            <span>🎚️</span> CALIBRATE
+        </button>
+        <button class="deck-btn" onclick="runMatrixDiagnostics()">
+            <span>🧠</span> DIAGS
+        </button>
+    </div>
 
-
-    <button class="deck-btn" onclick="toggleWiccaFullscreen()">
-        <span>📺</span> FULLSCREEN
-    </button>
-    <button class="deck-btn" onclick="openWiccaSubSettings('AYARLAR')">
-        <span>⚙️</span> SETTINGS
-    </button>
-    <button class="deck-btn" onclick="calibrateCosmicMatrix()">
-        <span>🎚️</span> CALIBRATE
-    </button>
-    <button class="deck-btn" onclick="runMatrixDiagnostics()">
-        <span>🧠</span> DIAGS
-    </button>
-<!--
-<div class="dock-summary-line">
-    <span class="season-indicator text-summer" data-season="summer">☰ SUMMER</span>
-    <span class="season-indicator text-autumn1" data-season="autumn_early">☷ AUTUMN</span>
-    <span class="season-indicator text-autumn2" data-season="autumn_late">☲ AUTUMN</span>
-    <span class="season-indicator text-spring" data-season="spring">☱ SPRING</span>
-</div>
--->
-
-</div>
+    <!-- 🛡️ GİZLİ HAYALET SİGORTA: 1901. satırdaki eski kodların patlayıp tüm JS motorunu kilitlemesini engelleyen görünmez kalkan aga! -->
+    <div id="cosmic-status" style="display: none !important;"></div>
+    <div id="lilith-title" style="display: none !important;"></div>
+    <div id="lilith-desc" style="display: none !important;"></div>
+    <div id="lilith-formula" style="display: none !important;"></div>
 
 </div>
 
@@ -2243,10 +2226,11 @@ function updateWiccaDock() {
     // =========================================================================
     // 🗃️ WICCA OS: UNIFIED WICCAPANEL INJECTION (3 PANEL TEK GÖVDE MÜHÜRÜ)
     // =========================================================================
-    const wiccaPanelElement = document.getElementById('lilith-cosmic-dock') || document.getElementById('wiccapanel');
+    //const wiccaPanelElement = document.getElementById('lilith-cosmic-dock') || document.getElementById('wiccapanel');
 
     //const wiccaPanelElement = document.getElementById('wicca-dynamic-panel-target');
-    
+    const wiccaPanelElement = document.getElementById("lilith-matrix-target");
+
     if (wiccaPanelElement) {
         if (!wiccaPanelElement.classList.contains('wicca-unified-dock')) {
             wiccaPanelElement.className = 'wicca-unified-dock';
@@ -2500,40 +2484,62 @@ function updateWiccaDock() {
         let yGlif = window.wicca_yGlif;
         let pGlif = window.wicca_pGlif;
 
-        window.activeSeason = sSync;
-        // 12px fluid clamp düzeniyle o sarsılmaz şablonu basıyoruz aga fırlat!
-       // 12px fluid clamp düzeniyle o sarsılmaz şablonu basıyoruz aga fırlat!
-        wiccaPanelElement.innerHTML = `
-            <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: COGNITIVE COSMIC STATUS İÇİNDE ASLA KESİLMEYEN ELEMENT BAR -->
-            <div class="dock-summary-line" style="display:flex; justify-content:center; align-items:center; width:100%; gap:8px; padding: 2px 0; overflow:visible !important; box-sizing:border-box;">
-                <div style="white-space:nowrap;">${barPos1}</div>
-                <div style="white-space:nowrap;">${barPos2}</div>
-                <div style="white-space:nowrap;">${barPos3}</div>
-                <div style="white-space:nowrap;">${barPos4}</div>
-                <div style="white-space:nowrap;">${barPos5}</div>
+      window.activeSeason = sSync;
+
+
+      
+     
+        // Barların gizlenmesini kesin olarak engelleyen, sadece detay kutusunu anahtarlayan şablon:
+ wiccaPanelElement.innerHTML = `
+            <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: HER ZAMAN AÇIK KALACAK VE DOKUNULDUĞUNDA ALT MATRİSİ ŞAK DİYE AÇACAK ELEMENT BAR -->
+            <div class="dock-summary-line" onclick="window.isWiccaPanelExpanded = !window.isWiccaPanelExpanded; updateWiccaDock();" style="display:flex !important; justify-content:space-between !important; align-items:center !important; width:100% !important; gap:4px !important; padding: 2px 0 !important; overflow:visible !important; box-sizing:border-box !important; height:auto !important; cursor: pointer; user-select: none;">
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos1}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos2}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos3}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos4}</div>
+                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${barPos5}</div>
             </div>
             
-            <!-- 🗃️ DOKUNULUP AÇILDIĞINDA (EXPANDED) SÜZÜLECEK GEZEGEN VE OMURGA MATRİSİ -->
-            <div class="dock-expanded-content" style="margin-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 6px; font-size:13px; line-height:1.4; text-align:left; font-family:monospace; color:#ccc;">
+            <!-- 🗃️ ANİMASYONSUZ, SAĞA SOLA ASLA SARSILMAYAN NORMAL AÇILAN GEZEGEN PANELİ -->
+            <div class="dock-expanded-content" style="
+                display: ${window.isWiccaPanelExpanded ? 'block' : 'none'} !important; 
+                margin-top: 10px; 
+                border-top: 1px solid rgba(255,255,255,0.08); 
+                padding-top: 8px; 
+                font-size:12.5px; 
+                line-height:1.4; 
+                text-align:left; 
+                font-family:monospace; 
+                color:#ccc; 
+                width: 100% !important; 
+                max-width: 100% !important; 
+                min-width: 100% !important; 
+                box-sizing: border-box !important; 
+                overflow: hidden !important;
+                transition: none !important; /* 🛡️ Tüm o gizli sağdan kayma transition sabotajları infaz edildi! */
+                transform: none !important;
+            ">
+
                 <!-- Yerel değişken çelişkisini bitiren mutlak window.out_ enjeksiyonları aga! -->
-                <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${window.out_omurgaTitle}</div>
-                <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${window.out_omurgaDesc} <span style="color:#444;">|</span> ${window.out_saturn}</div>
+                <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${window.out_omurgaTitle || 'WICCA UNKNOWN CORE'}</div>
+                <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${window.out_omurgaDesc || 'Matrix log süzülüyor...'} <span style="color:#444;">|</span> ${window.out_saturn || 'SATURN_OK'}</div>
                 
-                <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05);">
-                    • 🔴 [SOLAR POSITION]: <span style="color:#ff3300; font-weight:bold;">${txtSunPos}</span><br/>
-                    • 🔵 [LILITH ANTIPOD]: <span style="color:#00ffff; font-weight:bold;">${txtLilithPos}</span><br/>
-                    • 🟡 [SOLAR ETHER]: <span style="color:${yGlif ? yGlif.color : '#ffaa00'}; font-weight:bold;">${txtYellowPos} (+4)</span><br/>
-                    • 🟣 [METATRON CORE]: <span style="color:${pGlif ? pGlif.color : '#bc13fe'}; font-weight:bold;">${txtPurplePos} (+8)</span><br/>
-                    • ⚪ [SELENE RADIAL]: <span style="color:#ffffff; font-weight:bold;">${txtMoonPos}</span>
+                <!-- 📦 GEZEGENSEL OMURGA SATIRLARI -->
+                <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05); line-height:1.5;">
+                    • 🔴 [SOLAR POSITION]: <span style="color:#ff3300; font-weight:bold;">${typeof txtSunPos !== 'undefined' ? txtSunPos : 'ARI'}</span><br/>
+                    • 🔵 [LILITH ANTIPOD]: <span style="color:#00ffff; font-weight:bold;">${typeof txtLilithPos !== 'undefined' ? txtLilithPos : 'LIB'}</span><br/>
+                    • 🟡 [SOLAR ETHER]: <span style="color:${typeof yGlif !== 'undefined' && yGlif ? yGlif.color : '#ffaa00'}; font-weight:bold;">${typeof txtYellowPos !== 'undefined' ? txtYellowPos : 'LEO'} (+4)</span><br/>
+                    • 🟣 [METATRON CORE]: <span style="color:${typeof pGlif !== 'undefined' && pGlif ? pGlif.color : '#bc13fe'}; font-weight:bold;">${typeof txtPurplePos !== 'undefined' ? txtPurplePos : 'SAG'} (+8)</span><br/>
+                    • ⚪ [SELENE RADIAL]: <span style="color:#ffffff; font-weight:bold;">${typeof txtMoonPos !== 'undefined' ? txtMoonPos : 'GEM'}</span>
                 </div>
 
                 <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
-                    • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${window.out_airTrigon}</span> | ŞAR: ${window.out_saros} | 🪐 JU-SA: [${window.out_jusa}/20Y]<br/>
-                    • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${window.out_venus}/8] | 🪐 [79Y RETURN]: [${window.out_macro}/79] | 13 AY: ${window.out_metatronMoon}
+                    • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${window.out_airTrigon || 'TRIGON_ACTIVE'}</span> | ŞAR: ${window.out_saros || '0'} | 🪐 JU-SA: [${window.out_jusa || '0'}/20Y]<br/>
+                    • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${window.out_venus || '0'}/8] | 🪐 [79Y RETURN]: [${window.out_macro || '0'}/79] | 13 AY: ${window.out_metatronMoon || '0'}
                 </div>
                 
                 <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
-                    >> YANG: %${window.out_yang} | YIN: %${window.out_yin} | 📥 P: ${window.out_pValue} | BINARY: ${window.out_binaryRoom} | ODA: [${typeof currentRoomSafe !== 'undefined' ? currentRoomSafe : 48}/64] | SYNC: ⏱️ ${(new Date().getSeconds()).toString().padStart(2, '0')}s
+                    >> YANG: %${window.out_yang || '50'} | YIN: %${window.out_yin || '50'} | 📥 P: ${window.out_pValue || '0'} | BINARY: ${window.out_binaryRoom || '000000'} | ODA: [${typeof currentRoomSafe !== 'undefined' ? currentRoomSafe : 48}/64] | SYNC: ⏱️ ${(new Date().getSeconds()).toString().padStart(2, '0')}s
                 </div>
             </div>
         `;
@@ -2541,7 +2547,7 @@ function updateWiccaDock() {
             console.log(`Wicca OS Kuantum Panel Kalkanı Hatayı Eritti: ${innerError.message}`);
         }
     }
-} // <-- updateWiccaDock fonksiyonunun asıl mühürlü ana parantez kapanış çizgisi burası aga!
+}
 
 function getDynamicSabbat(sunSign) {
     const now = new Date();
