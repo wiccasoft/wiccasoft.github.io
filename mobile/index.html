@@ -615,12 +615,10 @@ body, html, h1, h2, h3, p, a, button, .btn {
 }
 
 
-
-
 /* ➕ CARDINAL HAÇ SABİT KİLİTLERİ */
 
-.fire-gate { top: 20%; left: 50%; transform: translateX(-50%); color: #ff1a1a; } /* DOĞU - SAĞ */
-.water-gate { bottom: 20%; left: 50%; transform: translateX(-50%); color: #0066cc; } /* BATI - SOL */
+.fire-gate { top: 15%; left: 50%; transform: translateX(-50%); color: #ff1a1a; } /* DOĞU - SAĞ */
+.water-gate { bottom: 15%; left: 50%; transform: translateX(-50%); color: #0066cc; } /* BATI - SOL */
 .air-gate   { top: 50%; right: 10%; transform: translateY(-50%); color: #00ffff; } /* KUZEYBATI */
 .earth-gate { top: 50%; left: 10%; transform: translateY(-50%); color: #e6b800; } /* KUZEY - TABAN */
 
@@ -935,32 +933,32 @@ footer {
 <div class="cosmic-compass">
     <!-- ☀️ AKTİF BOYUT: IŞIK, GÜNEŞ VE SAF YANG AKSI -->
     <!-- Qian (Cennet / Saf Işık Zirvesi) - TAM ÜST MERKEZ -->
-    <div class="element-corner light-gate" id="gate-light"><span class="trigram">☰</span> <span class="iching-binary">|||</span></div>
+    <div class="element-corner light-gate" id="gate-light"><span class="trigram">☴</span> <span class="iching-binary"></span></div>
     
     <!-- Dui (Göl / Solar Ether) - SAĞ ÜST EŞİK -->
-    <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☱</span> <span class="iching-binary">||:</span></div>
+    <div class="element-corner fire-gate" id="gate-fire"><span class="trigram">☰</span> <span class="iching-binary"></span></div>
     
     <!-- Li (Ateş / Güneş Emisyonu / Maya Yang) - SAĞ ALT EŞİK -->
-    <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☲</span> <span class="iching-binary">|:|</span></div>
+    <div class="element-corner ice-gate" id="gate-ice"><span class="trigram">☱</span> <span class="iching-binary"></span></div>
 
 
     <!-- 🌙 ANTİPOD BOYUTU: KARANLIK, VAKUM VE SAF YIN AKSI -->
     <!-- Kun (Yer / Saf Karanlık / Lilith Tabanı) - TAM ALT MERKEZ -->
-    <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary">:::</span></div>
+    <div class="element-corner water-gate" id="gate-water"><span class="trigram">☷</span> <span class="iching-binary"></span></div>
     
     <!-- Gen (Dağ / Kütleçekim Kilidi) - SOL ALT EŞİK -->
-    <div class="element-corner air-gate" id="gate-air"><span class="trigram">☶</span> <span class="iching-binary">|::</span></div>
+    <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☵</span> <span class="iching-binary"></span></div>
     
     <!-- Kan (Su / Derin Selene Ayı) - SOL ÜST EŞİK -->
-    <div class="element-corner earth-gate" id="gate-earth"><span class="trigram">☵</span> <span class="iching-binary">:|:</span></div>
+    <div class="element-corner air-gate" id="gate-air"><span class="trigram">☲</span> <span class="iching-binary"></span></div>
 
 
     <!-- 🌌 KANTUM ETHER AKSI (SARI-MOR ELEMENT KAPILARI) -->
     <!-- Zhen (Gök Gürültüsü / Aktif Enerji İvmesi) - SOL YATAY MERKEZ -->
-    <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☳</span> <span class="iching-binary">::|</span></div>
+    <div class="element-corner ether-gate" id="gate-ether"><span class="trigram">☳</span> <span class="iching-binary"></span></div>
     
     <!-- Xun (Rüzgar / Astral Ether Dağılımı) - SAĞ YATAY MERKEZ -->
-    <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☴</span> <span class="iching-binary">:||</span></div>
+    <div class="element-corner metal-gate" id="gate-metal"><span class="trigram">☶</span> <span class="iching-binary"></span></div>
 </div>
 
 
@@ -1518,23 +1516,23 @@ setInterval(() => {
             indicator.style.textShadow = "none";
         });
 
-
+        // "#7a00ff" purple, "#e6b800" yellow, "#00ffff" lilith, "#ff1a1a" sun
           // 🎨 [SABİT RENK FREKANS HARİTASI]: getComputedStyle yükünü bitiren mutlak Tesla renkleri aga!
         const gateColors = ["#e6b800", "#00ffff", "#ff1a1a", "#ffffff", "#00ffff", "#7a00ff", "#0066cc", "#00ffaa"];
         const staticTrigrams = ["☷", "☶", "☱", "☰", "☶", "☳", "☵", "☴"];
 
         // Alt barın emmesi için canlı renkleri ve Baguaları pencerelere mühürle aga:
-        window.wiccaLiveGateColor    = gateColors[sunGateIndex] || "#ff1a1a";
-        window.wiccaLiveGateSymbol   = staticTrigrams[sunGateIndex] || "☰";
+        window.wiccaLiveGateColor    = gateColors[sunGateIndex] //|| "#ff1a1a";
+        window.wiccaLiveGateSymbol   = staticTrigrams[sunGateIndex]// || "☰";
 
-        window.wiccaPurpleGateColor  = gateColors[purpleGateIndex] || "#7a00ff";
-        window.wiccaPurpleGateSymbol = staticTrigrams[purpleGateIndex] || "☳";
+        window.wiccaPurpleGateColor  = gateColors[purpleGateIndex]// || "#7a00ff";
+        window.wiccaPurpleGateSymbol = staticTrigrams[purpleGateIndex]// || "☳";
 
-        window.wiccaLilithGateColor  = gateColors[lilithGateIndex] || "#00ffff";
-        window.wiccaLilithGateSymbol = staticTrigrams[lilithGateIndex] || "☷";
+        window.wiccaLilithGateColor  = gateColors[lilithGateIndex]// || "#00ffff";
+        window.wiccaLilithGateSymbol = staticTrigrams[lilithGateIndex]// || "☷";
 
-        window.wiccaYellowGateColor  = gateColors[yellowGateIndex] || "#e6b800";
-        window.wiccaYellowGateSymbol = staticTrigrams[yellowGateIndex] || "☴";
+        window.wiccaYellowGateColor  = gateColors[yellowGateIndex]// || "#e6b800";
+        window.wiccaYellowGateSymbol = staticTrigrams[yellowGateIndex]// || "☴";
 
         // 2. Senin o 8 kapıyı dizdiğin 'gateMapping' indeksine göre elementi seçiyoruz:
         let yananElement = "";
@@ -1610,13 +1608,13 @@ setInterval(() => {
         // Eski o donuk .cosmic-status-bar yazısını HTML'de tamamen gizlemek için kalkan:
         const oldStatusBar = document.querySelector('.cosmic-status-bar');
         if (oldStatusBar) {
-            oldStatusBar.style.display = 'none'; // Görevini yeni tül bara devrettiği için statü barını tamamen gizliyoruz aga!
+            oldStatusBar.style.display = 'none'; // 
         }
         // Kapıların temel loş sıfırlaması
         gateMapping.forEach(gate => {
             if (!gate) return;
             gate.style.opacity = "0.2";
-            gate.style.color = "#444444";
+            gate.style.color = "#333333";
             gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
             gate.style.boxShadow = "none";
         });
@@ -2443,22 +2441,25 @@ function getDirectWiccaSync(zodiacIdx, isMoon = false) {
 // 🎛️ ELEMENTER VORTEX NESNE MÜHÜRLENMESİ [WICCA_RODIN_WHEEL_BRIDGE_FINAL]
 // =========================================================================
 try {
+
+    //window.wiccaLiveGateColor    = gateColors[sunGateIndex] //|| "#ff1a1a";
+    //window.wiccaLiveGateSymbol   = staticTrigrams[sunGateIndex]// || "☰";
     // 🎯 Yukarıdaki Kutsal Matristen emilen ULTRA HIZLI canlı Tesla verileri:
-    let sunSymbolLive    = window.wiccaLiveGateSymbol || "☰";
-    let sunColorLive     = window.wiccaLiveGateColor || "#ff1a1a";
-    let sunNameLive      = window.wiccaSunZodiac || "ARI";
+    let sunSymbolLive    = window.wiccaLiveGateSymbol //|| "☰";
+    let sunColorLive     = window.wiccaLiveGateColor //|| "#ff1a1a";
+    let sunNameLive      = window.wiccaSunZodiac //|| "ARI";
     
-    let purpleSymbolLive = window.wiccaPurpleGateSymbol || "☳";
-    let purpleColorLive  = window.wiccaPurpleGateColor || "#7a00ff";
-    let purpleNameLive   = window.wiccaPurpleZodiac || "SAG";
+    let purpleSymbolLive = window.wiccaPurpleGateSymbol //|| "☳";
+    let purpleColorLive  = window.wiccaPurpleGateColor //|| "#7a00ff";
+    let purpleNameLive   = window.wiccaPurpleZodiac //|| "SAG";
     
-    let lilithSymbolLive = window.wiccaLilithGateSymbol || "☷";
-    let lilithColorLive  = window.wiccaLilithGateColor || "#00ffff";
-    let lilithNameLive   = window.wiccaLilithZodiac || "LIB";
+    let lilithSymbolLive = window.wiccaLilithGateSymbol// || "☷";
+    let lilithColorLive  = window.wiccaLilithGateColor// || "#00ffff";
+    let lilithNameLive   = window.wiccaLilithZodiac// || "LIB";
     
-    let yellowSymbolLive = window.wiccaYellowGateSymbol || "☴";
-    let yellowColorLive  = window.wiccaYellowGateColor || "#e6b800";
-    let yellowNameLive   = window.wiccaYellowZodiac || "LEO";
+    let yellowSymbolLive = window.wiccaYellowGateSymbol// || "☴";
+    let yellowColorLive  = window.wiccaYellowGateColor// || "#e6b800";
+    let yellowNameLive   = window.wiccaYellowZodiac// || "LEO";
 
     let sunBinLive       = (typeof sRoomIdx !== 'undefined') ? sRoomIdx.toString(2).padStart(6, '0') : "110000";
 
@@ -2469,6 +2470,9 @@ try {
     else if (activeGate === 4) currentActiveElement = "air";
     else if (activeGate === 6) currentActiveElement = "water";
     else currentActiveElement = "earth";
+
+
+
 
     // ⚡ [TESLA MUTLAK KİLİDİ]: Ateş (Güneş Çapası) HER ZAMAN %100 canlı kırmızı parlar, asla kararmaz aga!
     let fireInside  = `<div style="color:${sunColorLive}; text-shadow:0 0 8px ${sunColorLive}; font-weight:bold;">${sunSymbolLive} ${sunNameLive}</div>`;
