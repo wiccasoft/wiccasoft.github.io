@@ -1456,9 +1456,9 @@ setInterval(() => {
             sirkadiyenButonIndex = 2; // 🔥 Room 11-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
         } else if (currentTargetRoom >= 24 && currentTargetRoom <= 31) {
             sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
-        } else if (currentTargetRoom >= 32 && currentTargetRoom <= 38) {
+        } else if (currentTargetRoom >= 32 && currentTargetRoom <= 37) {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-        } else if (currentTargetRoom >= 39 && currentTargetRoom <= 45) {
+        } else if (currentTargetRoom >= 37 && currentTargetRoom <= 45) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
         } else if (currentTargetRoom >= 46 && currentTargetRoom <= 51) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
@@ -1520,21 +1520,27 @@ setInterval(() => {
           // 🎨 [SABİT RENK FREKANS HARİTASI]: getComputedStyle yükünü bitiren mutlak Tesla renkleri aga!
         //const gateColors = ["#e6b800", "#00ffff", "#ff1a1a", "#ffffff", "#00ffff", "#7a00ff", "#0066cc", "#00ffaa"];
         // Renk haritasındaki Sarı ve Mor kuantum yerleşimi yer değiştirdi!
+  // "#7a00ff" purple, "#e6b800" yellow, "#00ffff" lilith, "#ff1a1a" sun
+        // 🎨 [SABİT RENK FREKANS HARİTASI]: getComputedStyle yükünü bitiren mutlak Tesla renkleri aga!
         const gateColors = ["#ca5ca0", "#00ffff", "#ff1a1a", "#ffffff", "#00ffff", "#e6b800", "#0066cc", "#00ffaa"];
-        const staticTrigrams = ["☷", "☶", "☱", "☰", "☶", "☳", "☵", "☴"];
+        
+        // 🧭 [PUSULA SEMBOL HARİTASI]: HTML'deki pusula kapı sıralamasına göre I Ching dizilimi kilitlendi!
+        const staticTrigrams = ["☵", "☲", "☰", "☴", "☷", "☳", "☶", "☱"];
 
-        // Alt barın emmesi için canlı renkleri ve Baguaları pencerelere mühürle aga:
-        window.wiccaLiveGateColor    = gateColors[sunGateIndex] //|| "#ff1a1a";
-        window.wiccaLiveGateSymbol   = staticTrigrams[sunGateIndex]// || "☰";
+        // 🔄 [MUTLAK AYNALAMA MÜHÜRÜ]: Alt bar pencerelerinin pusula sembolleriyle %100 senkronizasyonu:
+        window.wiccaLiveGateColor    = gateColors[sunGateIndex];
+        window.wiccaLiveGateSymbol   = staticTrigrams[sunGateIndex] || "☰";
 
-        window.wiccaPurpleGateColor  = gateColors[purpleGateIndex]// || "#7a00ff";
-        window.wiccaPurpleGateSymbol = staticTrigrams[purpleGateIndex]// || "☳";
+        // Mor Pencere: Doğrudan pusuladaki Mor kapının sembolünü ve rengini aynalar aga
+        window.wiccaPurpleGateColor  = gateColors[purpleGateIndex];
+        window.wiccaPurpleGateSymbol = staticTrigrams[purpleGateIndex] || "☳";
 
-        window.wiccaLilithGateColor  = gateColors[lilithGateIndex]// || "#00ffff";
-        window.wiccaLilithGateSymbol = staticTrigrams[lilithGateIndex]// || "☷";
+        window.wiccaLilithGateColor  = gateColors[lilithGateIndex];
+        window.wiccaLilithGateSymbol = staticTrigrams[lilithGateIndex] || "☷";
 
-        window.wiccaYellowGateColor  = gateColors[yellowGateIndex]// || "#e6b800";
-        window.wiccaYellowGateSymbol = staticTrigrams[yellowGateIndex]// || "☴";
+        // Sarı Pencere: Doğrudan pusuladaki Sarı kapının sembolünü ve rengini aynalar aga
+        window.wiccaYellowGateColor  = gateColors[yellowGateIndex];
+        window.wiccaYellowGateSymbol = staticTrigrams[yellowGateIndex] || "☴";
 
         // 2. Senin o 8 kapıyı dizdiğin 'gateMapping' indeksine göre elementi seçiyoruz:
         let yananElement = "";
@@ -1584,25 +1590,6 @@ setInterval(() => {
         window.calculatedNorthNodeRoom = northNodeRoomIndex; 
         window.calculatedSouthNodeRoom = southNodeRoomIndex;
 
-        // =========================================================================
-        // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MÜHÜR V11-S19 - PÜRÜZSÜZ EVRE KİLİDİ]
-        // =========================================================================
-        let seleneGate = null; 
-        let seleneIndex = -1;
-
-        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
-            // 360 derecelik evre ilerlemesini 8 Bagua kapısına (Her biri 45 derece) oranlıyoruz aga:
-            let phaseOffsetGates = moonLive.seleneProgress * 8;
-     
-            let seleneIndexRaw = Math.round(sirkadiyenButonIndex - phaseOffsetGates) % 8;
-            
-            // Negatif indeks koruma kalkanı (0-7 mutlak çember mühürü)
-            seleneIndex = (seleneIndexRaw + 8) % 8; 
-            
-            window.currentSeleneGateIndex = seleneIndex;
-            seleneGate = gateMapping[seleneIndex];
-        }
-
 
         // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
         // Kapı referanslarını jilet gibi çekiyoruz aga (Eski temiz yapın aynen kalıyor):
@@ -1611,13 +1598,7 @@ setInterval(() => {
         let northNodeGate = gateMapping[northNodeRoomIndex];
         let southNodeGate = gateMapping[southNodeRoomIndex];
         // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
-   
 
-        // Eski o donuk .cosmic-status-bar yazısını HTML'de tamamen gizlemek için kalkan:
-        const oldStatusBar = document.querySelector('.cosmic-status-bar');
-        if (oldStatusBar) {
-            oldStatusBar.style.display = 'none'; // 
-        }
         // Kapıların temel loş sıfırlaması
         gateMapping.forEach(gate => {
             if (!gate) return;
@@ -1627,52 +1608,67 @@ setInterval(() => {
             gate.style.boxShadow = "none";
         });
 
-
-                    // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: getFullYear çökmesini önleyen Date koruması
-            let nowInstance = window.now || window.wiccaCurrentAxisDate || new Date();
-            if (!nowInstance || !(nowInstance instanceof Date) || isNaN(nowInstance.getTime())) {
-                nowInstance = new Date();
-            }
-
-            let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 48;
-            let currentBaseMonth = nowInstance.getMonth(); 
-            let currentSecondsFactor = (nowInstance.getDate() * 86400 + nowInstance.getHours() * 3600 + nowInstance.getMinutes() * 60 + nowInstance.getSeconds()) / 86400;
-            
-
-    
-
-           // 🎯 LİBRA HASSASİYETLİ GÜNEŞ BOYALAM DENGESİ
-            let baseSunDeg = window.liveSunLongitude || (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
-            let sunDegRaw = baseSunDeg;
-            if (window.isTimeBended && typeof window.wiccaSabbatIndex !== 'undefined') {
-                sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
-            }
-
-// =========================================================================
-// 🔮 %100 SAF MEVSİMSEL NEON SEÇİCİ RENKLER MOTORU (ÇORBASIZ - SADECE RENK)
-// =========================================================================
-
-// Üstteki o meşhur Meeus/J2000 astronomik mevsim motorundan rengi emiyoruz aga:
-// (Hatırlatma: Sonbahar boyunca bu 'trigonColor' sarsılmaz biçimde siber yeşildir!)
-//let dynamicMevsimColor = typeof trigonColor !== 'undefined' ? trigonColor : "#ff5e00";
-/*
-if (sunGate) { 
-        // Dışarıdaki o canavar J2000 yörünge motorundan özellikleri tek satırda emiyoruz aga!
-        const sunSpecs = getDynamicSunGateSpecs(sunDegRaw);
-
-        // Pusula kapısının içindeki o trigram çizgilerini ve bit şifrelerini anlık büküyoruz:
-        sunGate.innerHTML = `<span class="trigram">${sunSpecs.trigram}</span> <span class="iching-binary">${sunSpecs.binary}</span>`;
-
-        // Neon parlamasını ve border hattını 3 aylık sarsılmaz mevsim rengine kilitliyoruz!
-        sunGate.style.color = sunSpecs.color; 
-        sunGate.style.borderColor = sunSpecs.color; 
-        sunGate.style.opacity = "1.0"; 
-        sunGate.style.boxShadow = `0 0 20px ${sunSpecs.color}, inset 0 0 10px ${sunSpecs.color}`; 
-        sunGate.style.fontWeight = "bold";
+     // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: Zaman bükülmesini (timeOffset) Ay evre motoruna zorla mühürleyen mutlak kilit!
+        let nowInstance = new Date();
+        let siberBükmeMili = 0;
         
-        // Alt bar (Double Vortex) çizgileri de bu mevsim rengine senkronize aksın aga
-        window.currentDynamicTrigonColor = sunSpecs.color;
-    }*/
+        if (typeof timeOffset !== 'undefined' && timeOffset !== 0) {
+            nowInstance = new Date(Date.now() + timeOffset);
+            siberBükmeMili = timeOffset;
+        } else if (window.wiccaCurrentAxisDate instanceof Date) {
+            nowInstance = window.wiccaCurrentAxisDate;
+        }
+
+        let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 48;
+        let currentBaseMonth = nowInstance.getMonth(); 
+        let currentSecondsFactor = (nowInstance.getDate() * 86400 + nowInstance.getHours() * 3600 + nowInstance.getMinutes() * 60 + nowInstance.getSeconds()) / 86400;
+
+        // 🎯 LİBRA HASSASİYETLİ GÜNEŞ BOYALAM DENGESİ
+        let baseSunDeg = window.liveSunLongitude;
+        if (!baseSunDeg) {
+            baseSunDeg = (((currentBaseMonth - 2) * 30.4368 - 25.80 + currentSecondsFactor) % 360);
+        }
+        
+        let sunDegRaw = baseSunDeg;
+        if (window.isTimeBended && typeof window.wiccaSabbatIndex !== 'undefined') {
+            sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
+        }
+
+        // 🌗 [AY EVRESİ CANLI SÜRÜCÜ SENKRONU]: Zaman büküldüğünde açıyı el yordamıyla senkronize kaydır aga!
+        if (typeof calculateMetatronMoon === 'function') {
+            let bükülmüşAyDatası = calculateMetatronMoon(nowInstance);
+            if (bükülmüşAyDatası && typeof bükülmüşAyDatası.seleneProgress !== 'undefined') {
+                if (typeof moonLive !== 'undefined') {
+                    // Ay'ın sinodik periyoduna göre (29.53 gün = 2551442885 ms) zaman bükme açısını doğrudan ekle/çıkar:
+                    let evreKaymaMiktari = siberBükmeMili / 2551442885;
+                    moonLive.seleneProgress = (bükülmüşAyDatası.seleneProgress + evreKaymaMiktari) % 1;
+                    if (moonLive.seleneProgress < 0) {
+                        moonLive.seleneProgress = moonLive.seleneProgress + 1;
+                    }
+                }
+            }
+        }
+
+        // =========================================================================
+        // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MÜHÜR V11-S19 - ORİJİNAL KARARLI YÖRÜNGE]
+        // =========================================================================
+        let seleneGate = null; 
+        let seleneIndex = -1;
+
+        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.seleneProgress !== 'undefined') {
+            // 360 derecelik evre ilerlemesini 8 Bagua kapısına (Her biri 45 derece) oranlıyoruz aga:
+            let phaseOffsetGates = moonLive.seleneProgress * 8;
+     
+            // Orijinal kararlı ve sevdiğin o yön akışına eksiksiz geri dönüldü aga:
+            let seleneIndexRaw = Math.round(sirkadiyenButonIndex - phaseOffsetGates) % 8;
+            
+            // Negatif indeks koruma kalkanı (0-7 mutlak çember mühürü)
+            seleneIndex = (seleneIndexRaw + 8) % 8; 
+            
+            window.currentSeleneGateIndex = seleneIndex;
+            seleneGate = gateMapping[seleneIndex];
+        }
+
         // 🔮 NEON SEÇİCİ RENKLER
         if (sunGate) { 
             sunGate.style.color = "#ff5e00"; 
@@ -1689,14 +1685,6 @@ if (sunGate) {
             moonGate.style.boxShadow = "0 0 20px #00ffff, inset 0 0 10px #00ffff";
             moonGate.style.fontWeight = "bold";
         }
-        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
-            northNodeGate.style.color = "#a855f7"; 
-            northNodeGate.style.borderColor = "#a855f7"; 
-            northNodeGate.style.opacity = "0.9";
-            northNodeGate.style.boxShadow = "0 0 15px #a855f7";
-            northNodeGate.style.fontWeight = "bold";
-        }
-    
 
         // 💜 NORTH NODE (Rahu): Her zaman sarsılmaz KUTSAL MOR!
         if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
@@ -1742,8 +1730,15 @@ if (sunGate) {
                 seleneGate.style.textShadow = "0 0 10px #e2e8f0";
             }
         }
-    } // <-- Büyük Şaheser Tam Bu Dakikada Mühürlendi Aga!
-
+        
+        // 🌓 [GEOMETRİK GÖLGE DÜZELTMESİ]: Sağ paneldeki görseli zodyak yönüyle eşitleyen mutlak maske kilidi:
+        if (typeof moonLive !== 'undefined' && moonLive && moonLive.seleneProgress > 0.5) {
+            let moonVisual = document.querySelector('.wicca-moon-render') || document.getElementById('moon-target');
+            if (moonVisual) {
+                moonVisual.style.transform = 'scaleX(-1)';
+            }
+        }
+    }
 //--------------------------------------------------------------------------------------------------//
 
 const monaElement = document.getElementById('mesh-monalisa');
@@ -2378,59 +2373,64 @@ function getDirectWiccaSync(zodiacIdx, isMoon = false) {
 // 🎛️ ELEMENTER VORTEX NESNE MÜHÜRLENMESİ [WICCA_RODIN_WHEEL_BRIDGE_FINAL]
 // =========================================================================
 try {
-    // 🎯 HESAPLAMA YOK! Yukarıda mühürlenmiş saf global ve lokal datayı direkt emiyoruz aga:
-    let sunSymbolLive    = window.wiccaLiveGateSymbol || "☰";
-    let sunColorLive     = window.wiccaLiveGateColor  || "#ff1a1a";
-    // Yukarıda süzülen 3 harfli net burç kısaltmalarını çekiyoruz:
-    let sunNameLive      = typeof sZodName !== 'undefined' ? sZodName : "ARI";
-    let lilithNameLive   = typeof lZodName !== 'undefined' ? lZodName : "LIB";
+    // 🎯 SAF VERİ AKIŞI: Hiçbir || fallback operatörü kullanılmadan burç verileri doğrudan global pencerelerden emiliyor aga!
+    let sunSymbolLive    = window.wiccaLiveGateSymbol;
+    let sunColorLive     = window.wiccaLiveGateColor;
     
-    // Sarı ve Mor yer değiştirdiği için burç isimlerini de çapraz emip pürüzsüzleştiriyoruz:
-    let yellowNameLive   = typeof pZodName !== 'undefined' ? pZodName : "SAG"; // Sarı kutuya Morun burcu (SAG)
-    let purpleNameLive   = typeof yZodName !== 'undefined' ? yZodName : "LEO"; // Mor kutuya Sarının burcu (LEO)
+    // Değişkenleri korumak için doğrudan global pencerelerin 3 harfli çıktısını emiyoruz:
+    let sunNameLive      = window.wiccaSunZodiac ? window.wiccaSunZodiac.toUpperCase().slice(0, 3) : '';
+    let lilithNameLive   = window.wiccaLilithZodiac ? window.wiccaLilithZodiac.toUpperCase().slice(0, 3) : '';
+    
+    // Sarı ve Mor yer değiştirdiği için burç pencerelerini tam çapraz mühürlüyoruz aga:
+    let yellowNameLive   = window.wiccaPurpleZodiac ? window.wiccaPurpleZodiac.toUpperCase().slice(0, 3) : ''; // Sarı kutuya Morun burcu
+    let purpleNameLive   = window.wiccaYellowZodiac ? window.wiccaYellowZodiac.toUpperCase().slice(0, 3) : ''; // Mor kutuya Sarının burcu
 
-    let lilithSymbolLive = window.wiccaLiveGateSymbol    || "☱";
-    let lilithColorLive  = window.wiccaLilithGateColor   || "#00ffff";
-    let yellowSymbolLive = window.wiccaYellowGateSymbol  || "☴";
-    let yellowColorLive  = window.wiccaYellowGateColor  || "#e6b800";
-    let purpleSymbolLive = window.wiccaPurpleGateSymbol  || "☳";
-    let purpleColorLive  = window.wiccaPurpleGateColor  || "#ca5ca0";
+    let lilithSymbolLive = window.wiccaLilithGateSymbol;
+    let lilithColorLive  = window.wiccaLilithGateColor;
+    let yellowSymbolLive = window.wiccaYellowGateSymbol;
+    let yellowColorLive  = window.wiccaYellowGateColor;
+    let purpleSymbolLive = window.wiccaPurpleGateSymbol;
+    let purpleColorLive  = window.wiccaPurpleGateColor;
 
     // 🌓 5. ODA VE AY KONUMU (BEYAZ AY / MOON POS)
-    // Yukarıdaki temiz activeMoonPos stringinden burç ismini ayıkla (Örn: "5° KOÇ" -> "KOÇ")
-    let rawMoonStr = typeof activeMoonPos !== 'undefined' ? activeMoonPos : "KOÇ";
-    let cleanMoonSign = rawMoonStr.split(' ').pop().slice(0, 3).toUpperCase(); 
-    if(!cleanMoonSign || cleanMoonSign.includes("°")) cleanMoonSign = (typeof mZodName !== 'undefined' ? mZodName : "GEM");
+    let rawMoonStr = typeof activeMoonPos !== 'undefined' ? activeMoonPos : '';
+    let cleanMoonSign = '';
+    if (rawMoonStr && typeof rawMoonStr === 'string') {
+        cleanMoonSign = rawMoonStr.split(' ').pop().slice(0, 3).toUpperCase();
+        if (cleanMoonSign.includes("°")) {
+            cleanMoonSign = window.wiccaMoonZodiac ? window.wiccaMoonZodiac.toUpperCase().slice(0, 3) : '';
+        }
+    }
 
     // İkili oda numarasını doğrudan çek:
-    let sunBinLive = (typeof sRoomIdx !== 'undefined') ? sRoomIdx.toString(2).padStart(6, '0') : "110000";
+    let sunBinLive = typeof sRoomIdx !== 'undefined' ? sRoomIdx.toString(2).padStart(6, '0') : '';
 
     // 📐 [MUTLAK AKTİFLİK FİLTRESİ]: Sadece parlayan kapıları loşlaştırmak için stabil kilit
-    let activeGate = window.wiccaActiveGateIndex || 0;
-    let currentActiveElement = "earth";
-    if (activeGate === 2 || activeGate === 3 || activeGate === 5) currentActiveElement = "fire";
-    else if (activeGate === 4) currentActiveElement = "air";
-    else if (activeGate === 0 || activeGate === 7) currentActiveElement = "water";
-    else currentActiveElement = "earth";
+    let activeGate = window.wiccaActiveGateIndex;
+    let currentActiveElement = '';
+    if (typeof activeGate !== 'undefined') {
+        if (activeGate === 2 || activeGate === 3 || activeGate === 5) currentActiveElement = "fire";
+        else if (activeGate === 4) currentActiveElement = "air";
+        else if (activeGate === 0 || activeGate === 7) currentActiveElement = "water";
+        else currentActiveElement = "earth";
+    }
 
-    // ⚡ [İÇERİK ENJEKSİYON KATMANI]
+    // ⚡ [İÇERİK ENJEKSİYON KATMANI]: Pencereler doğrudan dizeye mühürlendi!
     let fireInside  = `<div style="color:${sunColorLive}; text-shadow:0 0 8px ${sunColorLive}; font-weight:bold;">${sunSymbolLive} ${sunNameLive}</div>`;
     let airInside   = `<div style="color:${lilithColorLive}; text-shadow:0 0 8px ${lilithColorLive}; font-weight:bold; ${currentActiveElement !== 'air' ? 'opacity:0.4;' : ''}">${lilithSymbolLive} ${lilithNameLive}</div>`;
     let earthInside = `<div style="color:${yellowColorLive}; text-shadow:0 0 8px ${yellowColorLive}; font-weight:bold; ${currentActiveElement !== 'earth' ? 'opacity:0.4;' : ''}">${yellowSymbolLive} ${yellowNameLive}</div>`;
     let waterInside = `<div style="color:${purpleColorLive}; text-shadow:0 0 8px ${purpleColorLive}; font-weight:bold; ${currentActiveElement !== 'water' ? 'opacity:0.4;' : ''}">${purpleSymbolLive} ${purpleNameLive}</div>`;
 
     // 📐 [FİZİKSEL NEON BARLAR]
-    var barPos1 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${sunColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${sunColorLive}, inset 0 0 5px ${sunColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${fireInside}</span></div>`;
-    var barPos2 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${lilithColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${lilithColorLive}, inset 0 0 5px ${lilithColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${airInside}</span></div>`;
-    var barPos3 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${yellowColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${yellowColorLive}, inset 0 0 5px ${yellowColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${earthInside}</span></div>`;
-    var barPos4 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${purpleColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${purpleColorLive}, inset 0 0 5px ${purpleColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${waterInside}</span></div>`;
+    window.barPos1 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${sunColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${sunColorLive}, inset 0 0 5px ${sunColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${fireInside}</span></div>`;
+    window.barPos2 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${lilithColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${lilithColorLive}, inset 0 0 5px ${lilithColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${airInside}</span></div>`;
+    window.barPos3 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${yellowColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${yellowColorLive}, inset 0 0 5px ${yellowColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${earthInside}</span></div>`;
+    window.barPos4 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${purpleColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${purpleColorLive}, inset 0 0 5px ${purpleColorLive}; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${waterInside}</span></div>`;
 
-    // ⚡ 5. KUTU: Saf Ay Enerjisi (Kuzey/Güney aksından bağımsız, her zaman parlak beyaz/mor geçişli oda kilidi)
-    let moonColorLive = window.wiccaLiveGateColor || "#ffffff";
+    // ⚡ 5. KUTU: Saf Ay Enerjisi
+    let moonColorLive = window.wiccaLiveGateColor;
     let teslaPulse = window.isTeslaGlitching ? 'animation: wiccaPulse 0.1s infinite alternate;' : '';
-    var barPos5 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${moonColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 12px ${moonColorLive}, inset 0 0 6px ${moonColorLive}; min-width:75px; height:32px; ${teslaPulse}">
-                    <span style="color: ${moonColorLive}; text-shadow: 0 0 8px ${moonColorLive}; font-weight: bold; font-size:11px; font-family:monospace; white-space:nowrap;">⚡ ${cleanMoonSign} ${sunBinLive}</span>
-                   </div>`;
+    window.barPos5 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${moonColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 12px ${moonColorLive}, inset 0 0 6px ${moonColorLive}; min-width:75px; height:32px; ${teslaPulse}"><span style="color: ${moonColorLive}; text-shadow: 0 0 8px ${moonColorLive}; font-weight: bold; font-size:11px; font-family:monospace; white-space:nowrap;">⚡ ${cleanMoonSign} ${sunBinLive}</span></div>`;
 
 } catch (err) {
     console.log(`Wicca Element Border Senkronizasyon Hatası: ${err.message}`);
@@ -2440,60 +2440,60 @@ try {
 
      
         // Barların gizlenmesini kesin olarak engelleyen, sadece detay kutusunu anahtarlayan şablon:
- wiccaPanelElement.innerHTML = `
-            <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: HER ZAMAN AÇIK KALACAK VE DOKUNULDUĞUNDA ALT MATRİSİ ŞAK DİYE AÇACAK ELEMENT BAR -->
-            <div class="dock-summary-line" onclick="window.isWiccaPanelExpanded = !window.isWiccaPanelExpanded; updateWiccaDock();" style="display:flex !important; justify-content:space-between !important; align-items:center !important; width:100% !important; gap:4px !important; padding: 2px 0 !important; overflow:visible !important; box-sizing:border-box !important; height:auto !important; cursor: pointer; user-select: none; transform: none !important; animation: none !important; transition: none !important;">
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos1}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos2}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos3}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos4}</div>
-                <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center; transform: none !important; animation: none !important; transition: none !important;">${barPos5}</div>
-            </div>
-            
-            <!-- 🗃️ ANİMASYONSUZ, ESKİ CSS MİRASLARINDAN ARINDIRILMIŞ, ŞAK DİYE AÇILAN NORMAL GEZEGEN PANELİ -->
-            <div class="wicca-pure-flat-matrix" style="
-                display: ${window.isWiccaPanelExpanded ? 'block' : 'none'} !important; 
-                margin-top: 10px !important; 
-                border-top: 1px solid rgba(255,255,255,0.08) !important; 
-                padding-top: 8px !important; 
-                font-size:12.5px !important; 
-                line-height:1.4 !important; 
-                text-align:left !important; 
-                font-family:monospace !important; 
-                color:#ccc !important; 
-                width: 100% !important; 
-                max-width: 100% !important; 
-                min-width: 100% !important; 
-                box-sizing: border-box !important; 
-                overflow: hidden !important;
-                transition: none !important; /* 🛡️ CSS dosyasındaki tüm o gizli sarsıntı transitionları kırıldı! */
-                transform: none !important;
-                animation: none !important;
-            ">
+wiccaPanelElement.innerHTML = `
+    <!-- 🟢 KAPALIYKEN GÖRÜNEN TEK SATIR: HER ZAMAN AÇIK KALACAK VE DOKUNULDUĞUNDA ALT MATRİSİ ŞAK DİYE AÇACAK ELEMENT BAR -->
+        <div class="dock-summary-line" onclick="window.isWiccaPanelExpanded = !window.isWiccaPanelExpanded; updateWiccaDock();" style="display:flex !important; justify-content:space-between !important; align-items:center !important; width:100% !important; gap:4px !important; padding: 2px 0 !important; overflow:visible !important; box-sizing:border-box !important; height:auto !important; cursor: pointer; user-select: none; transform: none !important; animation: none !important; transition: none !important;">
+            <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${window.barPos1}</div>
+            <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${window.barPos2}</div>
+            <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${window.barPos3}</div>
+            <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${window.barPos4}</div>
+            <div style="white-space:nowrap !important; overflow:visible !important; flex:1; display:flex; justify-content:center;">${window.barPos5}</div>
+        </div>
+    
+    <!-- 🗃️ ANİMASYONSUZ, ESKİ CSS MİRASLARINDAN ARINDIRILMIŞ, ŞAK DİYE AÇILAN NORMAL GEZEGEN PANELİ -->
+    <div class="wicca-pure-flat-matrix" style="
+        display: ${window.isWiccaPanelExpanded ? 'block' : 'none'} !important; 
+        margin-top: 10px !important; 
+        border-top: 1px solid rgba(255,255,255,0.08) !important; 
+        padding-top: 8px !important; 
+        font-size:12.5px !important; 
+        line-height:1.4 !important; 
+        text-align:left !important; 
+        font-family:monospace !important; 
+        color:#ccc !important; 
+        width: 100% !important; 
+        max-width: 100% !important; 
+        min-width: 100% !important; 
+        box-sizing: border-box !important; 
+        overflow: hidden !important;
+        transition: none !important;
+        transform: none !important;
+        animation: none !important;
+    ">
 
-                <!-- Yerel değişken çelişkisini bitiren mutlak window.out_ enjeksiyonları aga! -->
-                <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${window.out_omurgaTitle || 'WICCA UNKNOWN CORE'}</div>
-                <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${window.out_omurgaDesc || 'Matrix log süzülüyor...'} <span style="color:#444;">|</span> ${window.out_saturn || 'SATURN_OK'}</div>
-                
-                <!-- 📦 GEZEGENSEL OMURGA SATIRLARI -->
-                <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05); line-height:1.5;">
-                    • 🔴 [SOLAR POSITION]: <span style="color:#ff3300; font-weight:bold;">${typeof txtSunPos !== 'undefined' ? txtSunPos : 'ARI'}</span><br/>
-                    • 🔵 [LILITH ANTIPOD]: <span style="color:#00ffff; font-weight:bold;">${typeof txtLilithPos !== 'undefined' ? txtLilithPos : 'LIB'}</span><br/>
-                    • 🟡 [SOLAR ETHER]: <span style="color:${typeof yGlif !== 'undefined' && yGlif ? yGlif.color : '#ffaa00'}; font-weight:bold;">${typeof txtYellowPos !== 'undefined' ? txtYellowPos : 'LEO'} (+4)</span><br/>
-                    • 🟣 [METATRON CORE]: <span style="color:${typeof pGlif !== 'undefined' && pGlif ? pGlif.color : '#bc13fe'}; font-weight:bold;">${typeof txtPurplePos !== 'undefined' ? txtPurplePos : 'SAG'} (+8)</span><br/>
-                    • ⚪ [SELENE RADIAL]: <span style="color:#ffffff; font-weight:bold;">${typeof txtMoonPos !== 'undefined' ? txtMoonPos : 'GEM'}</span>
-                </div>
+        <!-- Yerel değişken çelişkisini bitiren mutlak window.out_ enjeksiyonları aga! -->
+        <div style="color: #00ffaa; font-weight:bold; margin-bottom: 4px;">🔮 ${window.out_omurgaTitle || 'WICCA UNKNOWN CORE'}</div>
+        <div style="color: #e2e8f0; font-size:11.5px; margin-bottom: 5px; line-height:1.4;">${window.out_omurgaDesc || 'Matrix log süzülüyor...'} <span style="color:#444;">|</span> ${window.out_saturn || 'SATURN_OK'}</div>
+        
+        <!-- 📦 GEZEGENSEL OMURGA SATIRLARI -->
+        <div style="color: #fff; font-size:11.5px; margin-bottom: 5px; background: rgba(255,255,255,0.02); padding: 5px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05); line-height:1.5;">
+            • 🔴 [SOLAR POSITION]: <span style="color:#ff3300; font-weight:bold;">${typeof txtSunPos !== 'undefined' ? txtSunPos : 'ARI'}</span><br/>
+            • 🔵 [LILITH ANTIPOD]: <span style="color:#00ffff; font-weight:bold;">${typeof txtLilithPos !== 'undefined' ? txtLilithPos : 'LIB'}</span><br/>
+            • 🟡 [SOLAR ETHER]: <span style="color:${typeof yGlif !== 'undefined' && yGlif ? yGlif.color : '#ffaa00'}; font-weight:bold;">${typeof txtYellowPos !== 'undefined' ? txtYellowPos : 'LEO'} (+4)</span><br/>
+            • 🟣 [METATRON CORE]: <span style="color:${typeof pGlif !== 'undefined' && pGlif ? pGlif.color : '#bc13fe'}; font-weight:bold;">${typeof txtPurplePos !== 'undefined' ? txtPurplePos : 'SAG'} (+8)</span><br/>
+            • ⚪ [SELENE RADIAL]: <span style="color:#ffffff; font-weight:bold;">${typeof txtMoonPos !== 'undefined' ? txtMoonPos : 'GEM'}</span>
+        </div>
 
-                <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
-                    • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${window.out_airTrigon || 'TRIGON_ACTIVE'}</span> | ŞAR: ${window.out_saros || '0'} | 🪐 JU-SA: [${window.out_jusa || '0'}/20Y]<br/>
-                    • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${window.out_venus || '0'}/8] | 🪐 [79Y RETURN]: [${window.out_macro || '0'}/79] | 13 AY: ${window.out_metatronMoon || '0'}
-                </div>
-                
-                <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
-                    >> YANG: %${window.out_yang || '50'} | YIN: %${window.out_yin || '50'} | 📥 P: ${window.out_pValue || '0'} | BINARY: ${window.out_binaryRoom || '000000'} | ODA: [${typeof currentRoomSafe !== 'undefined' ? currentRoomSafe : 48}/64] | SYNC: ⏱️ ${(new Date().getSeconds()).toString().padStart(2, '0')}s
-                </div>
-            </div>
-        `;
+        <div style="color: #ffaa00; font-size:12px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 4px; margin-top:4px; line-height:1.5;">
+            • ⚙️ [QUANTUM MATRIX]: <span style="color:#ffaa00; font-weight:bold;">${window.out_airTrigon || 'TRIGON_ACTIVE'}</span> | ŞAR: ${window.out_saros || '0'} | 🪐 JU-SA: [${window.out_jusa || '0'}/20Y]<br/>
+            • 🌹 [8Y PENTAGRAM / 99 S.AY]: [${window.out_venus || '0'}/8] | 🪐 [79Y RETURN]: [${window.out_macro || '0'}/79] | 13 AY: ${window.out_metatronMoon || '0'}
+        </div>
+        
+        <div style="color: #888; font-size:11px; margin-top:5px; border-top: 1px solid rgba(255,255,255,0.02); padding-top: 3px;">
+            >> YANG: %${window.out_yang || '50'} | YIN: %${window.out_yin || '50'} | 📥 P: ${window.out_pValue || '0'} | BINARY: ${window.out_binaryRoom || '000000'} | ODA: [${typeof currentRoomSafe !== 'undefined' ? currentRoomSafe : 48}/64] | SYNC: ⏱️ ${(new Date().getSeconds()).toString().padStart(2, '0')}s
+        </div>
+    </div>
+`;
         } catch (innerError) {
             console.log(`Wicca OS Kuantum Panel Kalkanı Hatayı Eritti: ${innerError.message}`);
         }
