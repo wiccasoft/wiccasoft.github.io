@@ -1528,26 +1528,10 @@ setInterval(() => {
         // 🔮 Trigramları senin o istediğin coğrafi dizilime ve Aslan/Kova aksına göre senkronize ettik aga!
         //const staticTrigrams = ["☵", "☶", "☳", "☴", "☷", "☱", "☰", "☲"];
 
-
-
-
-        // 🌟 LATER HEAVEN ASTROLOJİK AKS RENKLERİ (ASLAN SOL ALTA - KOVA SAĞ ÜSTE SABİTLENDİ)
+  // 🌟 LATER HEAVEN ASTROLOJİK AKS RENKLERİ (ASLAN SOL ALTA - KOVA SAĞ ÜSTE SABİTLENDİ)
         // Sıralama: [0: Mor Kova, 1: Mavi Koç, 2: Beyaz, 3: Yeşil, 4: Pembe, 5: Sarı Aslan, 6: Kırmızı Terazi, 7: Turkuaz]
         const gateColors = ["#ca5ca0", "#0066cc", "#ffffff", "#00b359", "#ff1a6c", "#e6b800", "#ff1a1a", "#00ffff"];
         const staticTrigrams = ["☵", "☶", "☳", "☴", "☷", "☱", "☰", "☲"];
-
-        // 🔄 [MUTLAK GEOMETRİK AYNALAMA]: Sembolleri de hiçbir manipülasyona uğratmadan doğrudan kapılardan çekiyoruz!
-        window.wiccaLiveGateColor    = "#ff1a1a";
-        window.wiccaLiveGateSymbol   = (safeSunGate && safeSunGate.querySelector('.trigram')) ? safeSunGate.querySelector('.trigram').textContent.trim() : staticTrigrams[sunGateIndex];
-
-        window.wiccaLilithGateColor  = "#00ffff";
-        window.wiccaLilithGateSymbol = (safeMoonGate && safeMoonGate.querySelector('.trigram')) ? safeMoonGate.querySelector('.trigram').textContent.trim() : staticTrigrams[lilithGateIndex];
-
-        window.wiccaYellowGateColor  = "#e6b800";
-        window.wiccaYellowGateSymbol = (safeNorthGate && safeNorthGate.querySelector('.trigram')) ? safeNorthGate.querySelector('.trigram').textContent.trim() : staticTrigrams[yellowGateIndex];
-
-        window.wiccaPurpleGateColor  = "#ca5ca0";
-        window.wiccaPurpleGateSymbol = (safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : staticTrigrams[purpleGateIndex];
 
         // 2. Senin o 8 kapıyı dizdiğin 'gateMapping' indeksine göre elementi seçiyoruz:
         let yananElement = "";
@@ -1570,31 +1554,23 @@ setInterval(() => {
                 
                 if (yananElement === "fire") altGosterge.style.textShadow = "0 0 10px #ff1a1a, 0 0 20px #ff1a1a";
                 if (yananElement === "air") altGosterge.style.textShadow = "0 0 10px #00ffff, 0 0 20px #00ffff";
-                // 🦁 Aslan/Hasat aksı için parlamayı sarı altın yapıyoruz
                 if (yananElement === "earth") altGosterge.style.textShadow = "0 0 10px #e6b800, 0 0 20px #e6b800"; 
-                // ♒ Kova/Fütürizm aksı için parlamayı mor/eflatun yapıyoruz
                 if (yananElement === "water") altGosterge.style.textShadow = "0 0 10px #ca5ca0, 0 0 20px #ca5ca0"; 
             }
         }
 
-
-     // 🌗 2. LİLİTH KAPISI SEÇİMİ
+        // 🌗 2. LİLİTH KAPISI SEÇİMİ
         let lilithButonIndex = (sirkadiyenButonIndex + 4) % 8;
 
         // 🪐 3. AY DÜĞÜMLERİ (LUNAR NODES) KİLİTLENME AKSI
         let northNodeRoomIndex = (sirkadiyenButonIndex + 2) % 8;
         let southNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
 
-        // 🔀 [KUANTUM TERS YÜZ KALKANI]: Yukarıda gateColors dizisinde 5 ve 0 indekslerini
-        // zaten elinizle Later Heaven aksına sabitlediğimiz için buradaki ekstra JS takasını İNFAZ EDİYORUZ aga!
-        // (Eski tempNode bükülmesi kaldırıldı, böylece renkler çift katlanıp birbirini nötrleyemez!)
-
         // 🎯 SİBER KALKAN: Güncellenmiş aksı global hafızaya temizce mühürlüyoruz!
         window.currentNorthNodeIndex = northNodeRoomIndex;
         window.currentSouthNodeIndex = southNodeRoomIndex;
         window.calculatedNorthNodeRoom = northNodeRoomIndex; 
         window.calculatedSouthNodeRoom = southNodeRoomIndex;
-
 
         // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
         // Kapı referanslarını jilet gibi çekiyoruz aga:
@@ -1604,29 +1580,16 @@ setInterval(() => {
         let southNodeGate = gateMapping[southNodeRoomIndex];
         // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
 
-
-        
-        // Kapıların temel loş sıfırlaması
-        gateMapping.forEach((gate, idx) => {
-            if (!gate) return;
-            gate.style.opacity = "0.2";
-            // 🎨 BURAYI DÜZELTTİK: Kapının rengini griye boğmak yerine gateColors dizisindeki kendi rengine çekiyoruz!
-            gate.style.color = gateColors[idx]; 
-            gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
-            gate.style.boxShadow = "none";
-        });
-
-        
-
-        // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: Zaman büküldüğünde iframe donmasını kıran mutlak kalkan!
-        let nowInstance = new Date();
-        let siberBükmeMili = 0;
+        // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: nowInstance zaten yukarıda let ile açık olduğundan, double-declaration vermesin diye let'i kaldırıp eziyoruz aga!
+        siberBükmeMili = 0;
         
         if (typeof timeOffset !== 'undefined' && timeOffset !== 0) {
             nowInstance = new Date(Date.now() + timeOffset);
             siberBükmeMili = timeOffset;
         } else if (window.wiccaCurrentAxisDate instanceof Date) {
             nowInstance = window.wiccaCurrentAxisDate;
+        } else {
+            nowInstance = new Date();
         }
 
         let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 48;
@@ -1644,23 +1607,55 @@ setInterval(() => {
             sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
         }
 
-
         // =========================================================================
-// 🪐 WICCA OS: ÜST KATMAN KOZMİK ASTRO-MATRİS TANIMLAMALARI [MÜHÜRLÜ]
-// =========================================================================
+        // 🪐 WICCA OS: GÜNEŞ'E BAĞLI MUTLAK DİNAMİK ASTRO-SEMBOLLER [V92 - RECTIFIED]
+        // =========================================================================
+        const dynamicZodiacSymbols = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
+        
+        // 🔴 1. ANA MERKEZ: Aktif Güneş burç indeksi
+        let liveSunZodiacIdx = Math.floor(sunDegRaw / 30) % 12;
+        let currentSunSymbol = dynamicZodiacSymbols[liveSunZodiacIdx];
+
+        // 🔵 2. ANTİPOD HAÇI: Tam 180° karşıt kutup (+6 burç ilerisi)
+        let liveLilithZodiacIdx = (liveSunZodiacIdx + 6) % 12;
+        let currentLilithSymbol = dynamicZodiacSymbols[liveLilithZodiacIdx];
+
+        // 🟡 3. SARI KAPISI: Güneş'ten tam -4 burç gerideki dinamik aks sembolü (Kare Düğüm Formülün aga!)
+        let liveYellowZodiacIdx = (liveSunZodiacIdx - 4 + 12) % 12; 
+        let currentYellowSymbol = dynamicZodiacSymbols[liveYellowZodiacIdx];
+
+        // 🟣 4. MOR KAPISI: Güneş'ten tam +6 sirkadiyen vites ilerisindeki dinamik aks sembolü!
+        let livePurpleZodiacIdx = (liveSunZodiacIdx + 6) % 12; 
+        let currentPurpleSymbol = dynamicZodiacSymbols[livePurpleZodiacIdx];
+
+        // 🔄 [MUTLAK GEOMETRİK AYNALAMA]: Sembolleri doğrudan kapılardan çekip yanına dinamik astro işaretlerini ekliyoruz aga!
+        window.wiccaLiveGateColor    = "#ff1a1a";
+        window.wiccaLiveGateSymbol   = ((safeSunGate && safeSunGate.querySelector('.trigram')) ? safeSunGate.querySelector('.trigram').textContent.trim() : staticTrigrams[sunGateIndex]) + " " + currentSunSymbol;
+
+        window.wiccaLilithGateColor  = "#00ffff";
+        window.wiccaLilithGateSymbol = ((safeMoonGate && safeMoonGate.querySelector('.trigram')) ? safeMoonGate.querySelector('.trigram').textContent.trim() : staticTrigrams[lilithGateIndex]) + " " + currentLilithSymbol;
+
+        window.wiccaYellowGateColor  = "#e6b800";
+        window.wiccaYellowGateSymbol = ((safeNorthGate && safeNorthGate.querySelector('.trigram')) ? safeNorthGate.querySelector('.trigram').textContent.trim() : staticTrigrams[yellowGateIndex]) + " " + currentYellowSymbol;
+
+        window.wiccaPurpleGateColor  = "#ca5ca0";
+        window.wiccaPurpleGateSymbol = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : staticTrigrams[purpleGateIndex]) + " " + currentPurpleSymbol;
 
 
-// 🦁 Aslan, Kova, Terazi ve Koç akslarını doğrudan taban indeksine göre buraya çiviliyoruz aga!
-const zodiacMatrix = [
-    { name: "AQU", cross: "FIXED" },    // 0: Mor Kova Kapısı (Kuzey Üst Döngü)
-    { name: "ARI", cross: "CARDINAL" }, // 1: Mavi Koç Kapısı (Doğu/Antipod Haçı)
-    { name: "GEM", cross: "MUTABLE" },  // 2: Beyaz
-    { name: "CAN", cross: "CARDINAL" }, // 3: Yeşil
-    { name: "VIR", cross: "MUTABLE" },  // 4: Pembe
-    { name: "LEO", cross: "FIXED" },    // 5: Sarı Aslan Kapısı (Güney Sıcaklık / Sol Alt - *BURASI*)
-    { name: "LIB", cross: "CARDINAL" }, // 6: Kırmızı Terazi Kapısı (Doğrudan Aktif Merkez)
-    { name: "SCO", cross: "FIXED" }     // 7: Turkuaz Akrep
-];
+        
+        // Kapıların temel loş sıfırlaması
+        gateMapping.forEach((gate, idx) => {
+            if (!gate) return;
+            gate.style.opacity = "0.2";
+            // 🎨 BURAYI DÜZELTTİK: Kapının rengini griye boğmak yerine gateColors dizisindeki kendi rengine çekiyoruz!
+            gate.style.color = gateColors[idx]; 
+            gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
+            gate.style.boxShadow = "none";
+        });
+
+        
+
+        
         // 🌗 [AY EVRESİ CANLI SÜRÜCÜ SENKRONU]: İframe'den gelen donmuş veriyi siber bükme miliyle eziyoruz aga!
         if (typeof moonLive !== 'undefined' && moonLive) {
             if (siberBükmeMili !== 0) {
