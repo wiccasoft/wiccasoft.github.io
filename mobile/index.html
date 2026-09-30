@@ -1059,6 +1059,50 @@ function updateHTMLGates() {
 }
 // Bu fonksiyonu 74 BPM vuruşu tetiklendikçe çağırabiliriz!
 
+function getUniversalMoonZodiac(targetDate = new Date()) {
+    const zodiacSigns = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
+    let time = targetDate.getTime();
+    let JD = (time / 86400000) + 2440587.5;
+    const year = targetDate.getFullYear();
+    
+    // Delta T Kalkanı (Kozmik Sapma Dengesi)
+    let deltaT = 0;
+    if (year < 948) {
+        let u = (year - 1820) / 100;
+        deltaT = -20 + 32 * u * u;
+    } else if (year < 1600) {
+        let t = (year - 1000) / 100;
+        deltaT = 1574.2 - 556.01 * t + 71.234 * t * t - 0.00723 * t * t * t;
+    } else {
+        let t = (year - 2000) / 100;
+        deltaT = 62.92 + 32.217 * t + 55.89 * t * t;
+    }
+    
+    let JE = JD + (deltaT / 86400);
+    let T = (JE - 2451545.0) / 36525;
+
+    // Jean Meeus Astronomik Algoritmaları
+    let L_prime = 218.3164477 + 481267.88123421 * T - 0.0015786 * T * T + T * T * T / 538841;
+    let M_prime = 134.9633964 + 477198.8675055 * T + 0.0087414 * T * T;
+    let M = 357.5291092 + 35999.0502909 * T;
+    let D = 297.8501921 + 445267.1114034 * T;
+
+    const cnorm = (deg) => ((deg % 360) + 360) % 360;
+    L_prime = cnorm(L_prime); M_prime = cnorm(M_prime); M = cnorm(M); D = cnorm(D);
+
+    const rad = (deg) => (deg * Math.PI) / 180;
+    let longitudeCorrections = 6.288774 * Math.sin(rad(M_prime)) + 1.274027 * Math.sin(rad(2 * D - M_prime)) + 0.658314 * Math.sin(rad(2 * D)) - 0.185116 * Math.sin(rad(M));
+    let trueLongitude = cnorm(L_prime + longitudeCorrections);
+
+    // Presezyon Kilidi
+    let precessionCorrection = 1.396 * (year - 2000) / 100;
+    let tropicalLongitude = cnorm(trueLongitude - precessionCorrection);
+
+    return {
+        signName: zodiacSigns[Math.floor(tropicalLongitude / 30)],
+        degree: Math.floor(tropicalLongitude % 30)
+    };
+}
 
 
 function calculateCosmicTime() {
@@ -1607,9 +1651,7 @@ setInterval(() => {
             sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
         }
 
-        // =========================================================================
-        // 🪐 WICCA OS: GÜNEŞ'E BAĞLI MUTLAK DİNAMİK ASTRO-SEMBOLLER [V92 - RECTIFIED]
-        // =========================================================================
+
      // =========================================================================
         // 🪐 WICCA OS: GÜNEŞ'İ GÜN İÇİ SAAT BÜKÜLMELERİNDEN KORUYAN MASTER MOTOR [V200]
         // =========================================================================
@@ -1639,47 +1681,48 @@ setInterval(() => {
         let currentPurpleSymbol = dynamicZodiacSymbols[livePurpleZodiacIdx];
         let currentPurpleName   = staticZodiacNames[livePurpleZodiacIdx];
 
+         // =========================================================================
+        // 🌙 5. KAPISI ENJEKSİYONU: SAF SELENE AY HÜCRESİ MOTORU [TRUE ASTRONOMICAL]
         // =========================================================================
-        // 🌙 5. KAPISI ENJEKSİYONU: SAF SELENE AY HÜCRESİ MOTORU [TRUE SYNCHRONIZED]
-        // =========================================================================
-        // 🛡️ KRONOLOJİK SIRALAMA HATASI İNFAZ EDİLDİ AGA!
-        // liveSunZodiacIdx yukarıda başarıyla doğduğu için artık burada sıfır hata ile rezonansa giriyor:
-        let liveSeleneZodiacIdx = (liveSunZodiacIdx + 6) % 12; // Tam 180° Karşıt Haç (Aries / Koç)
+        // 🛡️ SAHTE 180° KARŞITLIK FORMÜLÜ İNFAZ EDİLDİ AGA! 
+        // Zaman Makinesinin hedef tarihini okur, yoksa anlık gerçek gökyüzünü hesaplar:
+        let activeCalculationDate = window.wiccaCurrentSimulatedDate || new Date();
+        let preciseMoonData = getUniversalMoonZodiac(activeCalculationDate);
+
+        // Canlı index ataması artık Meeus göksel motorundan besleniyor:
         const localZodiacNamesRef = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
+        let liveSeleneZodiacIdx = localZodiacNamesRef.indexOf(preciseMoonData.signName); 
 
         // =========================================================================
         // 🔄 [MUTLAK GLOBAL REZONANS]: Global pencereler alt enjeksiyon barı için dolduruluyor aga!
         // =========================================================================
-        // 🌟 ARADAKİ TÜM ASTRONOMİK MOR İKONLAR (♎, ♈ vb.) EBEDİYEN İNFAZ EDİLDİ! 
-        // Pencereler, doğrudan sayfada tıkır tıkır dönen o canlı element kapılarının içindeki hakiki trigramları emiyor:
         window.wiccaLiveGateColor    = "#ff1a1a";
         window.wiccaLiveGateSymbol   = ((safeSunGate && safeSunGate.querySelector('.trigram')) ? safeSunGate.querySelector('.trigram').textContent.trim() : "☲");
-        window.wiccaSunZodiac        = currentSunName; // LIB
+        window.wiccaSunZodiac        = currentSunName; 
 
         window.wiccaLilithGateColor  = "#00ffff";
         window.wiccaLilithGateSymbol = ((safeMoonGate && safeMoonGate.querySelector('.trigram')) ? safeMoonGate.querySelector('.trigram').textContent.trim() : "☵");
-        window.wiccaLilithZodiac     = currentLilithName; // ARI
+        window.wiccaLilithZodiac     = currentLilithName; 
 
         window.wiccaYellowGateColor  = "#e6b800";
         window.wiccaYellowGateSymbol = ((safeNorthGate && safeNorthGate.querySelector('.trigram')) ? safeNorthGate.querySelector('.trigram').textContent.trim() : "☷");
-        window.wiccaYellowZodiac     = currentYellowName; // Yengeç/Aslan aks bükümü
+        window.wiccaYellowZodiac     = currentYellowName; 
 
         window.wiccaPurpleGateColor  = "#ca5ca0";
         window.wiccaPurpleGateSymbol = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : "☵");
-        window.wiccaPurpleZodiac     = currentPurpleName; // Kova/Oğlak aks bükümü
+        window.wiccaPurpleZodiac     = currentPurpleName; 
 
         // =========================================================================
         // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MUTLAK SAF SENKRONİZASYON]
         // =========================================================================
-        // Ay zodyak ismi ve baguası, hiçbir sahte atamayla çakışmadan doğrudan üst yörüngeden alt bara fırlatılıyor aga!
-        window.wiccaSeleneZodiac     = localZodiacNamesRef[liveSeleneZodiacIdx]; // Ekranda kaybolan SCO, GEM metnini pürüzsüz fırlatır!
-        window.wiccaSeleneSymbol     = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : "☵"); // Canlı sirkadiyen kapı baguası!
+        // 🎯 Burç isminin yanına net derece bilgisini de ekleyerek alt panele fırlatıyoruz aga!
+        window.wiccaSeleneZodiac     = preciseMoonData.signName + " " + preciseMoonData.degree + "°"; 
+        window.wiccaSeleneSymbol     = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : "☵"); 
         
         // Kapıların temel loş sıfırlaması
         gateMapping.forEach((gate, idx) => {
             if (!gate) return;
             gate.style.opacity = "0.2";
-            // 🎨 Kapının rengini gateColors dizisindeki kendi rengine çekiyoruz!
             gate.style.color = gateColors[idx]; 
             gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
             gate.style.boxShadow = "none";
@@ -1740,6 +1783,11 @@ setInterval(() => {
         // Küresel pencereleri doğrudan üst döngünün ve dock'ın ortak paydaya alabileceği şekilde çiviliyoruz:
         window.wiccaSeleneZodiac = cleanMoonSign;
         window.wiccaSeleneSymbol = (seleneGate && seleneGate.querySelector('.trigram')) ? seleneGate.querySelector('.trigram').textContent.trim() : '';
+
+
+
+        
+
 
         // 🔮 NEON SEÇİCİ RENKLER
         if (sunGate) { 
@@ -2441,8 +2489,9 @@ function getDirectWiccaSync(zodiacIdx, isMoon = false) {
     return { symbol: activeSymbol, color: directLiveColor };
 }
 
+
 // =========================================================================
-// 🎛️ ELEMENTER VORTEX NESNE MÜHÜRLENMESİ [WICCA_RODIN_WHEEL_BRIDGE_FINAL]
+// 🎛️ ELEMENTER VORTEX NESNE MÜHÜRLENMESİ [WICCA_RODIN_WHEEL_BRIDGE_FINAL - MASTER FIXED]
 // =========================================================================
 try {
     // 🎯 SAF VERİ AKIŞI: Hiçbir || fallback operatörü kullanılmadan burç verileri doğrudan global pencerelerden emiliyor aga!
@@ -2461,10 +2510,6 @@ try {
     let yellowColorLive  = window.wiccaYellowGateColor;
     let purpleSymbolLive = window.wiccaPurpleGateSymbol;
     let purpleColorLive  = window.wiccaPurpleGateColor;
-
-    // 🌓 5. KUTU: SAF AY KONUMU (SELENE AY HÜCRESİ)
-    let seleneSymbolLive = window.wiccaSeleneSymbol;
-    let seleneNameLive   = window.wiccaSeleneZodiac;
 
     // İkili oda numarasını doğrudan çek:
     let sunBinLive = typeof sRoomIdx !== 'undefined' ? sRoomIdx.toString(2).padStart(6, '0') : '';
@@ -2500,10 +2545,22 @@ try {
     // 💧 4. KUTU: SU (WATER) - Kuantum Derin Moru
     window.barPos4 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #ca5ca0; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #ca5ca0, inset 0 0 5px #ca5ca0; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${waterInside}</span></div>`;
 
-    // 🌙 5. KUTU: AY (MOON) - Asil Gümüş İnci Beyazı (Selene Senkronlu)
+   
+   // =========================================================================
+    // 🌙 5. KUTU: AY (MOON) - EVRENSEL GERÇEK ZAMANLI ENJEKSİYON [BAGUA RETAINED & EQUAL FONT]
+    // =========================================================================
     let moonColorLive = "#e2e8f0";
     let teslaPulse = window.isTeslaGlitching ? 'animation: wiccaPulse 0.1s infinite alternate;' : '';
-    window.barPos5 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${moonColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 12px ${moonColorLive}, inset 0 0 6px ${moonColorLive}; min-width:75px; height:32px; ${teslaPulse}"><span style="color: ${moonColorLive}; text-shadow: 0 0 8px ${moonColorLive}; font-weight: bold; font-size:11px; font-family:monospace; white-space:nowrap;">🌙 ${seleneSymbolLive} ${seleneNameLive} ${sunBinLive}</span></div>`;
+    
+    // 🎯 Zaman Makinesinin (FUTURE/PAST/NOW) büküp sakladığı o mutlak kuantum tarih nesnesini okuyoruz:
+    let activeMoonDate = window.wiccaCurrentAxisDate || new Date();
+    let universalMoon = getUniversalMoonZodiac(activeMoonDate);
+
+    // Canlı trigram sembolünü yakalar (Eğer tanımsızsa görseldeki gibi ☷ basar)
+    let activeMoonTrigram = window.wiccaSeleneSymbol || "☷";
+
+    // 🎨 Mükemmel Eşleşme Matrisi: Ay simgesi kaldırıldı, Bagua sola alındı ve font boyut/gölgesi diğer barlarla eşitlendi aga!
+    window.barPos5 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid ${moonColorLive}; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px ${moonColorLive}, inset 0 0 5px ${moonColorLive}; min-width:75px; height:32px; ${teslaPulse}"><span style="font-family:monospace; white-space:nowrap;"><div style="color:${moonColorLive}; text-shadow:0 0 8px ${moonColorLive}; font-weight:bold;">${activeMoonTrigram} ${universalMoon.signName} ${universalMoon.degree}°</div></span></div>`;
 
 } catch (err) {
     console.log(`Wicca Element Border Senkronizasyon Hatası: ${err.message}`);
