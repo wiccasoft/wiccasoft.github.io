@@ -1578,18 +1578,23 @@ setInterval(() => {
         }
 
 
-  // 🌗 2. LİLİTH KAPISI SEÇİMİ
+     // 🌗 2. LİLİTH KAPISI SEÇİMİ
         let lilithButonIndex = (sirkadiyenButonIndex + 4) % 8;
 
         // 🪐 3. AY DÜĞÜMLERİ (LUNAR NODES) KİLİTLENME AKSI
         let northNodeRoomIndex = (sirkadiyenButonIndex + 2) % 8;
         let southNodeRoomIndex = (northNodeRoomIndex + 4) % 8;
 
+        // 🔀 [KUANTUM TERS YÜZ KALKANI]: Yukarıda gateColors dizisinde 5 ve 0 indekslerini
+        // zaten elinizle Later Heaven aksına sabitlediğimiz için buradaki ekstra JS takasını İNFAZ EDİYORUZ aga!
+        // (Eski tempNode bükülmesi kaldırıldı, böylece renkler çift katlanıp birbirini nötrleyemez!)
+
         // 🎯 SİBER KALKAN: Güncellenmiş aksı global hafızaya temizce mühürlüyoruz!
         window.currentNorthNodeIndex = northNodeRoomIndex;
         window.currentSouthNodeIndex = southNodeRoomIndex;
         window.calculatedNorthNodeRoom = northNodeRoomIndex; 
         window.calculatedSouthNodeRoom = southNodeRoomIndex;
+
 
         // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
         // Kapı referanslarını jilet gibi çekiyoruz aga:
@@ -1598,6 +1603,20 @@ setInterval(() => {
         let northNodeGate = gateMapping[northNodeRoomIndex];
         let southNodeGate = gateMapping[southNodeRoomIndex];
         // ---------- SUN 4 ELEMENT GATE-----------------------------------------------//
+
+
+        
+        // Kapıların temel loş sıfırlaması
+        gateMapping.forEach((gate, idx) => {
+            if (!gate) return;
+            gate.style.opacity = "0.2";
+            // 🎨 BURAYI DÜZELTTİK: Kapının rengini griye boğmak yerine gateColors dizisindeki kendi rengine çekiyoruz!
+            gate.style.color = gateColors[idx]; 
+            gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
+            gate.style.boxShadow = "none";
+        });
+
+        
 
         // 🛡️ SAF GLOBAL GÜVENLİK ZIRHI: Zaman büküldüğünde iframe donmasını kıran mutlak kalkan!
         let nowInstance = new Date();
@@ -1624,70 +1643,24 @@ setInterval(() => {
         if (window.isTimeBended && typeof window.wiccaSabbatIndex !== 'undefined') {
             sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
         }
+
+
         // =========================================================================
-        // 🪐 WICCA OS: HİBRİT REZONANS VE DİNAMİK ASTRO-KİLİT MOTORU [V70 - FINAL MÜHÜR]
-        // =========================================================================
-        // Güneş derecesi (sunDegRaw) hemen yukarıda doğduğu için artık ReferenceError İMKANSIZ aga!
-        const staticZodiacNames = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
-        const fixedCrossZodiacs = ["TAU", "LEO", "SCO", "AQU"]; // Mutlak Sabit Haç Elementleri
-        let baseZodiacIdx = Math.floor(sunDegRaw / 30) % 12;
+// 🪐 WICCA OS: ÜST KATMAN KOZMİK ASTRO-MATRİS TANIMLAMALARI [MÜHÜRLÜ]
+// =========================================================================
 
-        // Tek bir döngüde hem renkleri pürüzsüz boyuyor, hem burçları sirkadiyen dağıtıyor, hem de voltajı üflüyoruz aga!
-        gateMapping.forEach((gate, idx) => {
-            // 🛡️ GÜVENLİK DUVARI: Eğer kapı nesnesi DOM'da yoksa veya undefined ise motoru patlatmadan es geç!
-            if (!gate || typeof gate === 'undefined') return;
-            
-            const gateId = gate.id;
 
-            // 1. Temel loş siberpunk renk ve opasite sıfırlaması
-            gate.style.opacity = "0.2";
-            gate.style.color = gateColors[idx]; 
-            gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
-            gate.style.boxShadow = "none";
-
-            // 2. Kapsülün içindeki astro etiket alanlarını cımbızla çekiyoruz:
-            const zName = gate.querySelector('.zodiac-name');
-            const cType = gate.querySelector('.cross-type');
-            
-            if (zName || cType) {
-                // 🌟 GÜVENLİK KİLİDİ: Eski sunGateIndex kalıntıları yerine doğrudan sirkadiyenButonIndex kullanıldı aga!
-                let calculatedIdx = (baseZodiacIdx + (idx - sirkadiyenButonIndex + 12)) % 12;
-                let currentZodiacName = staticZodiacNames[calculatedIdx];
-                let isFixedCross = fixedCrossZodiacs.includes(currentZodiacName);
-
-                // İsmi ve Haç Tipini DOM'a sıfır lag ile üfle:
-                if (zName) zName.textContent = currentZodiacName;
-                if (cType) {
-                    cType.textContent = isFixedCross ? "[🜔 FIXED]" : "[CARDINAL]";
-                    cType.style.color = isFixedCross ? "#e6b800" : "#555";
-                    
-                    // Aslan-Kova aksı aktif yanan kapıya denk geldiyse neon parlamayı güçlendir!
-                    if (isFixedCross && (idx === sirkadiyenButonIndex || idx === lilithButonIndex)) {
-                        cType.style.textShadow = "0 0 5px #e6b800";
-                    } else {
-                        cType.style.textShadow = "none";
-                    }
-                }
-            }
-
-            // 3. ⚡ VOLTAJ VE DROP-SHADOW MOTORU ENTEGRASYONU [ReferenceError Önleyici Güvenlikli]
-            if (typeof currentInfluences !== 'undefined' && currentInfluences && currentInfluences[gateId]) {
-                const multiplier = currentInfluences[gateId]; 
-                
-                let currentOpacity = parseFloat(gate.style.opacity || 0.2);
-                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
-                
-                gate.style.opacity = newOpacity.toString();
-                
-                // Kapının drop-shadow parlaması, kendi siberpunk neon renginde (`gateColors[idx]`) patlama yapar:
-                const activeGlowColor = gateColors[idx] || (typeof sunCircadianColor !== 'undefined' ? sunCircadianColor : "#7a00ff");
-                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${activeGlowColor})`;
-                
-                gate.style.fontWeight = "bold";
-                gate.style.transition = "all 0.6s ease-in-out"; 
-            }
-        });
-
+// 🦁 Aslan, Kova, Terazi ve Koç akslarını doğrudan taban indeksine göre buraya çiviliyoruz aga!
+const zodiacMatrix = [
+    { name: "AQU", cross: "FIXED" },    // 0: Mor Kova Kapısı (Kuzey Üst Döngü)
+    { name: "ARI", cross: "CARDINAL" }, // 1: Mavi Koç Kapısı (Doğu/Antipod Haçı)
+    { name: "GEM", cross: "MUTABLE" },  // 2: Beyaz
+    { name: "CAN", cross: "CARDINAL" }, // 3: Yeşil
+    { name: "VIR", cross: "MUTABLE" },  // 4: Pembe
+    { name: "LEO", cross: "FIXED" },    // 5: Sarı Aslan Kapısı (Güney Sıcaklık / Sol Alt - *BURASI*)
+    { name: "LIB", cross: "CARDINAL" }, // 6: Kırmızı Terazi Kapısı (Doğrudan Aktif Merkez)
+    { name: "SCO", cross: "FIXED" }     // 7: Turkuaz Akrep
+];
         // 🌗 [AY EVRESİ CANLI SÜRÜCÜ SENKRONU]: İframe'den gelen donmuş veriyi siber bükme miliyle eziyoruz aga!
         if (typeof moonLive !== 'undefined' && moonLive) {
             if (siberBükmeMili !== 0) {
@@ -2054,42 +2027,42 @@ document.getElementById("cosmic-status").innerText = "";
         //const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
 
         // 🌟 AGA'NIN BÜYÜK YAPILANDIRMASI: Diziyi tam ihtiyaç anında içeri aldık!
-     // =========================================================================
-        // ⚡ WICCA OS: VOLTAJ VE DROP-SHADOW ENJEKSİYON MOTORU [V70 - OPTIMIZED]
-        // =========================================================================
-        // gateMapping dizisinin tam 0-7 sıralama referansı:
-        // [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate]
-   // =========================================================================
-        // ⚡ WICCA OS: VOLTAJ VE DROP-SHADOW ENJEKSİYON MOTORU [V71 - SECURE]
-        // =========================================================================
-        // 🎨 [SAF RENK KILİDİ]: ReferenceError hatasını kökten infaz etmek için renkleri buraya mühürledik aga!
-        const gateColors = ["#ca5ca0", "#0066cc", "#ffffff", "#00b359", "#ff1a6c", "#e6b800", "#ff1a1a", "#00ffff"];
-
-        // gateMapping dizisinin tam 0-7 sıralama referansı:
         gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
-        // 🌟 TEK DÖNGÜ KİLİDİ: Performans maksimize edildi ve hata susturuldu!
-        gateMapping.forEach((gate, idx) => {
-            if (!gate) return;
+        gateMapping.forEach(gate => {
+            const gateId = gate.id; 
+
+            if (gate && currentInfluences[gateId]) {
+                const multiplier = currentInfluences[gateId]; 
+                
+                let currentOpacity = parseFloat(gate.style.opacity || 0.2);
+                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
+                
+                gate.style.opacity = newOpacity.toString();
+                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
+                gate.style.fontWeight = "bold";
+                gate.style.transition = "all 0.6s ease-in-out"; 
+            }
+        });
+
+        // 🌟 HATA DÜZELTİLDİ: all8Gates yerine kapsamı açık olan gateMapping bağlandı aga!
+        gateMapping.forEach(gate => {
             const gateId = gate.id; 
 
             if (currentInfluences[gateId]) {
                 const multiplier = currentInfluences[gateId]; 
                 
-                // Kapının mevcut opaklığını emip multiplier frekansıyla büküyoruz aga:
                 let currentOpacity = parseFloat(gate.style.opacity || 0.2);
                 let newOpacity = Math.min(1.0, currentOpacity * multiplier);
                 
                 gate.style.opacity = newOpacity.toString();
-                
-                // 🎨 RENK KORUMA KALKANI: Artık gateColors hemen yukarıda tanımlandığı için asla çökemez!
-                const activeGlowColor = gateColors[idx] || sunCircadianColor;
-                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${activeGlowColor})`;
-                
+                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${sunCircadianColor})`;
                 gate.style.fontWeight = "bold";
                 gate.style.transition = "all 0.6s ease-in-out"; 
             }
         });
+
+
 
 
    
