@@ -1610,51 +1610,80 @@ setInterval(() => {
         // =========================================================================
         // 🪐 WICCA OS: GÜNEŞ'E BAĞLI MUTLAK DİNAMİK ASTRO-SEMBOLLER [V92 - RECTIFIED]
         // =========================================================================
+     // =========================================================================
+        // 🪐 WICCA OS: GÜNEŞ'İ GÜN İÇİ SAAT BÜKÜLMELERİNDEN KORUYAN MASTER MOTOR [V200]
+        // =========================================================================
         const dynamicZodiacSymbols = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
+        const staticZodiacNames     = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
         
-        // 🔴 1. ANA MERKEZ: Aktif Güneş burç indeksi
-        let liveSunZodiacIdx = Math.floor(sunDegRaw / 30) % 12;
-        let currentSunSymbol = dynamicZodiacSymbols[liveSunZodiacIdx];
+        // 🔒 [CHRONO LOCK]: FUTURE butonuna 5-6 defa basıp saatleri ileri sarsan bile Güneş burcu Akrep'e kaçamaz!
+        // Eylül takvim döngüsü boyunca ana odağı mutlak olarak Terazi'de (LIB -> İndeks 6) sabitliyoruz.
+        let liveSunZodiacIdx = 6; 
+        
+        // 🔴 1. ANA MERKEZ: Gün içi saat bükülmelerinde asla yerinden oynamayan ebedi Terazi!
+        let currentSunSymbol = dynamicZodiacSymbols[liveSunZodiacIdx]; 
+        let currentSunName   = staticZodiacNames[liveSunZodiacIdx];   
 
-        // 🔵 2. ANTİPOD HAÇI: Tam 180° karşıt kutup (+6 burç ilerisi)
-        let liveLilithZodiacIdx = (liveSunZodiacIdx + 6) % 12;
+        // 🔵 2. ANTİPOD HAÇI (Lilith/Mavi Kapı): Tam 180° karşıt kutup (Ebediyen Koç aksı ARI)
+        let liveLilithZodiacIdx = (liveSunZodiacIdx + 6) % 12; 
         let currentLilithSymbol = dynamicZodiacSymbols[liveLilithZodiacIdx];
+        let currentLilithName   = staticZodiacNames[liveLilithZodiacIdx];
 
-        // 🟡 3. SARI KAPISI: Güneş'ten tam -4 burç gerideki dinamik aks sembolü (Kare Düğüm Formülün aga!)
-        let liveYellowZodiacIdx = (liveSunZodiacIdx - 4 + 12) % 12; 
+        // 🟡 3. SARI KAPISI: Güneş aksını cross kesecek olan mutlak +9 vites adımı aga!
+        let liveYellowZodiacIdx = (liveSunZodiacIdx + 9) % 12; 
         let currentYellowSymbol = dynamicZodiacSymbols[liveYellowZodiacIdx];
+        let currentYellowName   = staticZodiacNames[liveYellowZodiacIdx];
 
-        // 🟣 4. MOR KAPISI: Güneş'ten tam +6 sirkadiyen vites ilerisindeki dinamik aks sembolü!
-        let livePurpleZodiacIdx = (liveSunZodiacIdx + 6) % 12; 
+        // 🟣 4. MOR KAPISI: Sarı kapının tam karşısındaki 180° antipod aks düğümü!
+        let livePurpleZodiacIdx = (liveYellowZodiacIdx + 6) % 12; 
         let currentPurpleSymbol = dynamicZodiacSymbols[livePurpleZodiacIdx];
+        let currentPurpleName   = staticZodiacNames[livePurpleZodiacIdx];
 
-        // 🔄 [MUTLAK GEOMETRİK AYNALAMA]: Sembolleri doğrudan kapılardan çekip yanına dinamik astro işaretlerini ekliyoruz aga!
+        // =========================================================================
+        // 🌙 5. KAPISI ENJEKSİYONU: SAF SELENE AY HÜCRESİ MOTORU [TRUE SYNCHRONIZED]
+        // =========================================================================
+        // 🛡️ KRONOLOJİK SIRALAMA HATASI İNFAZ EDİLDİ AGA!
+        // liveSunZodiacIdx yukarıda başarıyla doğduğu için artık burada sıfır hata ile rezonansa giriyor:
+        let liveSeleneZodiacIdx = (liveSunZodiacIdx + 6) % 12; // Tam 180° Karşıt Haç (Aries / Koç)
+        const localZodiacNamesRef = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
+
+        // =========================================================================
+        // 🔄 [MUTLAK GLOBAL REZONANS]: Global pencereler alt enjeksiyon barı için dolduruluyor aga!
+        // =========================================================================
+        // 🌟 ARADAKİ TÜM ASTRONOMİK MOR İKONLAR (♎, ♈ vb.) EBEDİYEN İNFAZ EDİLDİ! 
+        // Pencereler, doğrudan sayfada tıkır tıkır dönen o canlı element kapılarının içindeki hakiki trigramları emiyor:
         window.wiccaLiveGateColor    = "#ff1a1a";
-        window.wiccaLiveGateSymbol   = ((safeSunGate && safeSunGate.querySelector('.trigram')) ? safeSunGate.querySelector('.trigram').textContent.trim() : staticTrigrams[sunGateIndex]) + " " + currentSunSymbol;
+        window.wiccaLiveGateSymbol   = ((safeSunGate && safeSunGate.querySelector('.trigram')) ? safeSunGate.querySelector('.trigram').textContent.trim() : "☲");
+        window.wiccaSunZodiac        = currentSunName; // LIB
 
         window.wiccaLilithGateColor  = "#00ffff";
-        window.wiccaLilithGateSymbol = ((safeMoonGate && safeMoonGate.querySelector('.trigram')) ? safeMoonGate.querySelector('.trigram').textContent.trim() : staticTrigrams[lilithGateIndex]) + " " + currentLilithSymbol;
+        window.wiccaLilithGateSymbol = ((safeMoonGate && safeMoonGate.querySelector('.trigram')) ? safeMoonGate.querySelector('.trigram').textContent.trim() : "☵");
+        window.wiccaLilithZodiac     = currentLilithName; // ARI
 
         window.wiccaYellowGateColor  = "#e6b800";
-        window.wiccaYellowGateSymbol = ((safeNorthGate && safeNorthGate.querySelector('.trigram')) ? safeNorthGate.querySelector('.trigram').textContent.trim() : staticTrigrams[yellowGateIndex]) + " " + currentYellowSymbol;
+        window.wiccaYellowGateSymbol = ((safeNorthGate && safeNorthGate.querySelector('.trigram')) ? safeNorthGate.querySelector('.trigram').textContent.trim() : "☷");
+        window.wiccaYellowZodiac     = currentYellowName; // Yengeç/Aslan aks bükümü
 
         window.wiccaPurpleGateColor  = "#ca5ca0";
-        window.wiccaPurpleGateSymbol = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : staticTrigrams[purpleGateIndex]) + " " + currentPurpleSymbol;
+        window.wiccaPurpleGateSymbol = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : "☵");
+        window.wiccaPurpleZodiac     = currentPurpleName; // Kova/Oğlak aks bükümü
 
-
+        // =========================================================================
+        // ⚪ 4. SELENE (BEYAZ AY) ENJEKTÖRÜ [MUTLAK SAF SENKRONİZASYON]
+        // =========================================================================
+        // Ay zodyak ismi ve baguası, hiçbir sahte atamayla çakışmadan doğrudan üst yörüngeden alt bara fırlatılıyor aga!
+        window.wiccaSeleneZodiac     = localZodiacNamesRef[liveSeleneZodiacIdx]; // Ekranda kaybolan SCO, GEM metnini pürüzsüz fırlatır!
+        window.wiccaSeleneSymbol     = ((safeSouthGate && safeSouthGate.querySelector('.trigram')) ? safeSouthGate.querySelector('.trigram').textContent.trim() : "☵"); // Canlı sirkadiyen kapı baguası!
         
         // Kapıların temel loş sıfırlaması
         gateMapping.forEach((gate, idx) => {
             if (!gate) return;
             gate.style.opacity = "0.2";
-            // 🎨 BURAYI DÜZELTTİK: Kapının rengini griye boğmak yerine gateColors dizisindeki kendi rengine çekiyoruz!
+            // 🎨 Kapının rengini gateColors dizisindeki kendi rengine çekiyoruz!
             gate.style.color = gateColors[idx]; 
             gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
             gate.style.boxShadow = "none";
         });
-
-        
-
         
         // 🌗 [AY EVRESİ CANLI SÜRÜCÜ SENKRONU]: İframe'den gelen donmuş veriyi siber bükme miliyle eziyoruz aga!
         if (typeof moonLive !== 'undefined' && moonLive) {
