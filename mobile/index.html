@@ -1624,7 +1624,7 @@ setInterval(() => {
         if (window.isTimeBended && typeof window.wiccaSabbatIndex !== 'undefined') {
             sunDegRaw = (baseSunDeg + (window.wiccaSabbatIndex * 45)) % 360;
         }
-// =========================================================================
+        // =========================================================================
         // 🪐 WICCA OS: HİBRİT REZONANS VE DİNAMİK ASTRO-KİLİT MOTORU [V70 - FINAL MÜHÜR]
         // =========================================================================
         // Güneş derecesi (sunDegRaw) hemen yukarıda doğduğu için artık ReferenceError İMKANSIZ aga!
@@ -1632,10 +1632,13 @@ setInterval(() => {
         const fixedCrossZodiacs = ["TAU", "LEO", "SCO", "AQU"]; // Mutlak Sabit Haç Elementleri
         let baseZodiacIdx = Math.floor(sunDegRaw / 30) % 12;
 
-        // Tek bir döngüde hem renkleri pürüzsüz boyuyor hem de burçları sirkadiyen dağıtıyoruz aga!
+        // Tek bir döngüde hem renkleri pürüzsüz boyuyor, hem burçları sirkadiyen dağıtıyor, hem de voltajı üflüyoruz aga!
         gateMapping.forEach((gate, idx) => {
-            if (!gate) return;
+            // 🛡️ GÜVENLİK DUVARI: Eğer kapı nesnesi DOM'da yoksa veya undefined ise motoru patlatmadan es geç!
+            if (!gate || typeof gate === 'undefined') return;
             
+            const gateId = gate.id;
+
             // 1. Temel loş siberpunk renk ve opasite sıfırlaması
             gate.style.opacity = "0.2";
             gate.style.color = gateColors[idx]; 
@@ -1647,7 +1650,7 @@ setInterval(() => {
             const cType = gate.querySelector('.cross-type');
             
             if (zName || cType) {
-                // 🌟 GÜVENLİK KİLİDİ: Eski sunGateIndex yerine doğrudan sirkadiyenButonIndex kullanılarak kaymalar engellendi aga!
+                // 🌟 GÜVENLİK KİLİDİ: Eski sunGateIndex kalıntıları yerine doğrudan sirkadiyenButonIndex kullanıldı aga!
                 let calculatedIdx = (baseZodiacIdx + (idx - sirkadiyenButonIndex + 12)) % 12;
                 let currentZodiacName = staticZodiacNames[calculatedIdx];
                 let isFixedCross = fixedCrossZodiacs.includes(currentZodiacName);
@@ -1658,7 +1661,7 @@ setInterval(() => {
                     cType.textContent = isFixedCross ? "[🜔 FIXED]" : "[CARDINAL]";
                     cType.style.color = isFixedCross ? "#e6b800" : "#555";
                     
-                    // 🌟 GÜVENLİK KİLİDİ: Aslan-Kova aksı aktif sirkadiyen vitese denk geldiyse neon parlamayı çak!
+                    // Aslan-Kova aksı aktif yanan kapıya denk geldiyse neon parlamayı güçlendir!
                     if (isFixedCross && (idx === sirkadiyenButonIndex || idx === lilithButonIndex)) {
                         cType.style.textShadow = "0 0 5px #e6b800";
                     } else {
@@ -1666,7 +1669,25 @@ setInterval(() => {
                     }
                 }
             }
+
+            // 3. ⚡ VOLTAJ VE DROP-SHADOW MOTORU ENTEGRASYONU [ReferenceError Önleyici Güvenlikli]
+            if (typeof currentInfluences !== 'undefined' && currentInfluences && currentInfluences[gateId]) {
+                const multiplier = currentInfluences[gateId]; 
+                
+                let currentOpacity = parseFloat(gate.style.opacity || 0.2);
+                let newOpacity = Math.min(1.0, currentOpacity * multiplier);
+                
+                gate.style.opacity = newOpacity.toString();
+                
+                // Kapının drop-shadow parlaması, kendi siberpunk neon renginde (`gateColors[idx]`) patlama yapar:
+                const activeGlowColor = gateColors[idx] || (typeof sunCircadianColor !== 'undefined' ? sunCircadianColor : "#7a00ff");
+                gate.style.filter = `drop-shadow(0 0 ${12 * multiplier}px ${activeGlowColor})`;
+                
+                gate.style.fontWeight = "bold";
+                gate.style.transition = "all 0.6s ease-in-out"; 
+            }
         });
+
         // 🌗 [AY EVRESİ CANLI SÜRÜCÜ SENKRONU]: İframe'den gelen donmuş veriyi siber bükme miliyle eziyoruz aga!
         if (typeof moonLive !== 'undefined' && moonLive) {
             if (siberBükmeMili !== 0) {
