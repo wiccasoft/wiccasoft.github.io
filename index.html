@@ -1857,72 +1857,65 @@ setInterval(() => {
                 moonVisual.style.transform = 'scaleX(-1)';
             }
         }
+
+
+            // =========================================================================
+        // 💜 NORTH NODE (Rahu): GÜNEŞ AKSI DEĞİL, BEYAZ AY (SELENE) DOĞRULAMASI!
+        // =========================================================================
+        // 🎯 HATA ÇÖZÜMÜ: Güneş'in aksını tamamen iptal edip, motoru canlı seleneIndex'e bağlıyoruz!
+        if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
+            // 8 Kapılı çemberde Beyaz Ay'a tam 90 derece dik ileri kapıyı (+2 vites) dinamik buluyoruz:
+            let dynamicNorthIdx = (seleneIndex + 2) % 8;
+            northNodeGate = gateMapping[dynamicNorthIdx];
+        }
+
+        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
+            northNodeGate.style.color = "#a855f7"; 
+            northNodeGate.style.borderColor = "#a855f7"; 
+            northNodeGate.style.opacity = "0.9";
+            northNodeGate.style.boxShadow = "0 0 20px #a855f7, inset 0 0 10px #a855f7";
+            northNodeGate.style.textShadow = "0 0 8px #a855f7";
+            northNodeGate.style.fontWeight = "bold";
+
+            // Dinamik ☊ sembolü enjeksiyonu
+            let oldLabel = northNodeGate.querySelector('.lunar-cross-icon-siber');
+            if (oldLabel) oldLabel.remove();
+            let label = document.createElement('div');
+            label.className = 'lunar-cross-icon-siber';
+            label.style.cssText = 'position:absolute; top:5px; left:5px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 8px #a855f7; z-index:99999; font-family:system-ui; pointer-events:none;';
+            label.textContent = '☊';
+            northNodeGate.appendChild(label);
+        }
+
+        // =========================================================================
+        // 💛 SOUTH NODE (Ketu): GÜNEŞ AKSI DEĞİL, BEYAZ AY (SELENE) DOĞRULAMASI!
+        // =========================================================================
+        if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
+            // 8 Kapılı BC çemberinde Beyaz Ay'a tam 90 derece dik geri kapıyı (+6 vites) dinamik buluyoruz:
+            let dynamicSouthIdx = (seleneIndex + 6) % 8;
+            southNodeGate = gateMapping[dynamicSouthIdx];
+        }
+
+        if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
+            southNodeGate.style.color = "#ffeb3b"; 
+            southNodeGate.style.borderColor = "#ffeb3b";
+            southNodeGate.style.opacity = "0.9";
+            southNodeGate.style.boxShadow = "0 0 20px #ffeb3b, inset 0 0 10px #ffeb3b";
+            southNodeGate.style.textShadow = "0 0 8px #ffeb3b";
+            southNodeGate.style.fontWeight = "bold";
+
+            // Dinamik ☋ sembolü enjeksiyonu
+            let oldLabel = southNodeGate.querySelector('.lunar-cross-icon-siber');
+            if (oldLabel) oldLabel.remove();
+            let label = document.createElement('div');
+            label.className = 'lunar-cross-icon-siber';
+            label.style.cssText = 'position:absolute; top:5px; left:5px; color:#ffeb3b; font-size:14px; font-weight:bold; text-shadow:0 0 8px #ffeb3b; z-index:99999; font-family:system-ui; pointer-events:none;';
+            label.textContent = '☋';
+            southNodeGate.appendChild(label);
+        }
     }
 
-      // =========================================================================
-        // ☽ ☊ ☋ SAF LUNAR NODES: BEYAZ AY (SELENE) BAĞIMSIZ DIK AKS ENJEKTÖRÜ
-        // =========================================================================
-        // Kapı sıfırlama döngüsünün tamamen altına yerleşti! Loşlaştırma duvarı bypass edildi aga.
 
-        if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
-            
-            // 📐 1. GÜNEŞ'İN +2 VE +6 MANTIĞIYLA SELENE'YE TAM 90° DIK LUNAR NODES MİLLERİ:
-            let wiccaLunarNorthIdx = (seleneIndex + 2) % 8; // ☊ Kuzey Düğüm Kapısı (90° İleri)
-            let wiccaLunarSouthIdx = (seleneIndex + 6) % 8; // ☋ Güney Düğüm Kapısı (90° Geri)
-
-            let wiccaLunarNorthGate = gateMapping[wiccaLunarNorthIdx];
-            let wiccaLunarSouthGate = gateMapping[wiccaLunarSouthIdx];
-
-            // 💜 KUZEY DÜĞÜMÜ: Loşluk kalkanını parçalayıp kapıyı KUTSAL MOR ile yakıyoruz aga!
-            if (wiccaLunarNorthGate && wiccaLunarNorthGate !== sunGate && wiccaLunarNorthGate !== moonGate) {
-                wiccaLunarNorthGate.style.color = "#a855f7"; 
-                wiccaLunarNorthGate.style.borderColor = "#a855f7"; 
-                wiccaLunarNorthGate.style.opacity = "0.9"; // 0.2'lik loşluk duvarı burada yıkılır!
-                
-                if (wiccaLunarNorthIdx === seleneIndex) {
-                    wiccaLunarNorthGate.style.borderColor = "#e2e8f0";
-                    wiccaLunarNorthGate.style.boxShadow = "0 0 20px #a855f7, 0 0 10px #e2e8f0, inset 0 0 8px #a855f7";
-                } else {
-                    wiccaLunarNorthGate.style.boxShadow = "0 0 15px #a855f7, inset 0 0 8px #a855f7";
-                }
-                wiccaLunarNorthGate.style.textShadow = "0 0 8px #a855f7";
-                wiccaLunarNorthGate.style.fontWeight = "bold";
-
-                // Dinamik ☊ sembolü enjeksiyonu
-                let label = wiccaLunarNorthGate.querySelector('.lunar-cross-icon-siber') || document.createElement('div');
-                if (!wiccaLunarNorthGate.querySelector('.lunar-cross-icon-siber')) {
-                    label.className = 'lunar-cross-icon-siber';
-                    label.style.cssText = 'position:absolute; top:5px; left:5px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 8px #a855f7; z-index:99999; font-family:system-ui; pointer-events:none;';
-                    wiccaLunarNorthGate.appendChild(label);
-                }
-                label.textContent = '☊';
-            }
-
-            // 💛 SOUTH NODE: Loşluk kalkanını parçalayıp kapıyı CANLI YANG SARISI ile yakıyoruz aga!
-            if (wiccaLunarSouthGate && wiccaLunarSouthGate !== sunGate && wiccaLunarSouthGate !== moonGate && wiccaLunarSouthGate !== wiccaLunarNorthGate) {
-                wiccaLunarSouthGate.style.color = "#ffeb3b"; 
-                wiccaLunarSouthGate.style.borderColor = "#ffeb3b";
-                wiccaLunarSouthGate.style.opacity = "0.9"; // 0.2'lik loşluk duvarı burada yıkılır!
-                
-                if (wiccaLunarSouthIdx === seleneIndex) {
-                    wiccaLunarSouthGate.style.borderColor = "#e2e8f0";
-                    wiccaLunarSouthGate.style.boxShadow = "0 0 20px #ffeb3b, 0 0 10px #e2e8f0, inset 0 0 8px #ffeb3b";
-                } else {
-                    wiccaLunarSouthGate.style.boxShadow = "0 0 15px #ffeb3b, inset 0 0 8px #ffeb3b";
-                }
-                wiccaLunarSouthGate.style.textShadow = "0 0 8px #ffeb3b";
-                wiccaLunarSouthGate.style.fontWeight = "bold";
-
-                // Dinamik ☋ sembolü enjeksiyonu
-                let label = wiccaLunarSouthGate.querySelector('.lunar-cross-icon-siber') || document.createElement('div');
-                if (!wiccaLunarSouthGate.querySelector('.lunar-cross-icon-siber')) {
-                    label.className = 'lunar-cross-icon-siber';
-                    label.style.cssText = 'position:absolute; top:5px; left:5px; color:#ffeb3b; font-size:14px; font-weight:bold; text-shadow:0 0 8px #ffeb3b; z-index:99999; font-family:system-ui; pointer-events:none;';
-                    wiccaLunarSouthGate.appendChild(label);
-                }
-                label.textContent = '☋';
-            }
-        }
 
 //--------------------------------------------------------------------------------------------------//
 
