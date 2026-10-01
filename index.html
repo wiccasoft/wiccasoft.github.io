@@ -176,6 +176,41 @@ body, html, h1, h2, h3, p, a, button, .btn {
     filter: grayscale(0%); /* Üzerine gelince emojinin rengi canlansın */
     transform: scale(1.1);
 }
+/*
+
+
+/* =========================================================================
+   ☽ ☊ ☋ SAF LUNAR NODES: SİYAH BACKGROUND & RENKLİ BAGUA MOTORU [CSS_CORE]
+   =========================================================================
+   Çiğ beyaz parlamalar ve "asılı kalan hayalet izler" GPU yorulmadan infaz edildi! */
+
+.lunar-active-node {
+    opacity: 0.95 !important;
+    background: #000000 !important;          /* Arka plan mutlak mat gece siyahı aga! */
+    background-color: #000000 !important;
+    
+    /* JavaScript'in o an kapıya enjekte ettiği gateColors rengine teslim oluyoruz: */
+    color: inherit !important;                
+    border-color: inherit !important;         
+    
+    /* Ağır ve çiğ neonlar yerine, sadece kendi renginde loş siber bir kor kalkanı: */
+    box-shadow: 0 0 15px currentColor, inset 0 0 8px currentColor !important;
+    text-shadow: 0 0 6px currentColor !important;
+    font-weight: bold !important;
+}
+
+.lunar-active-south {
+    opacity: 0.95 !important;
+    background: #000000 !important;          /* Karşıt dik kutbun arka planı da mutlak siyah! */
+    background-color: #000000 !important;
+    
+    color: inherit !important;                
+    border-color: inherit !important;         
+    
+    box-shadow: 0 0 15px currentColor, inset 0 0 8px currentColor !important;
+    text-shadow: 0 0 6px currentColor !important;
+    font-weight: bold !important;
+}
 
 /* =========================================================================
    📐 ESKİ ALT PANELLERİN ÇAKIŞMASINI ÖNLEYEN KONTROL KİLİTLERİ
@@ -1857,61 +1892,100 @@ setInterval(() => {
                 moonVisual.style.transform = 'scaleX(-1)';
             }
         }
-
-
-            // =========================================================================
-        // 💜 NORTH NODE (Rahu): GÜNEŞ AKSI DEĞİL, BEYAZ AY (SELENE) DOĞRULAMASI!
+      // =========================================================================
+        // ☽ ☊ ☋ SAF LUNAR NODES: NİHAİ MÜKEMMEL ORTALANMIŞ ZODYAK MOTORU [V850_FINAL]
         // =========================================================================
-        // 🎯 HATA ÇÖZÜMÜ: Güneş'in aksını tamamen iptal edip, motoru canlı seleneIndex'e bağlıyoruz!
+        // 1954. satırdaki 'northZodiacText' ReferenceError hatası kökten infaz edildi aga!
+        
+        // 1. Her döngünün başında tüm kapılardaki eski etiketleri ve ikonları jilet gibi kazıyoruz:
+        gateMapping.forEach((gate, idx) => {
+            if (!gate) return;
+            let oldSiberLabel = gate.querySelector('.lunar-cross-icon-siber');
+            if (oldSiberLabel) oldSiberLabel.remove();
+            let oldZodiacLabel = gate.querySelector('.lunar-zodiac-icon-siber');
+            if (oldZodiacLabel) oldZodiacLabel.remove();
+            
+            // Eğer kapı aktif düğüm değilse, buradaki siyah arka plan stillerini güvenle sıfırla aga:
+            if (idx !== northNodeRoomIndex && idx !== southNodeRoomIndex) {
+                gate.style.removeProperty("background");
+                gate.style.removeProperty("background-color");
+            }
+        });
+
+        // 2. BEYAZ AY (SELENE) POZİSYONUNA 90° DİK AKS SENKRONİZASYONU:
         if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
-            // 8 Kapılı çemberde Beyaz Ay'a tam 90 derece dik ileri kapıyı (+2 vites) dinamik buluyoruz:
-            let dynamicNorthIdx = (seleneIndex + 2) % 8;
-            northNodeGate = gateMapping[dynamicNorthIdx];
+            northNodeRoomIndex = (seleneIndex + 2) % 8; // ☊ Kuzey Düğüm (+2 vites)
+            southNodeRoomIndex = (seleneIndex + 6) % 8; // ☋ Güney Düğüm (+6 vites)
+
+            northNodeGate = gateMapping[northNodeRoomIndex];
+            southNodeGate = gateMapping[southNodeRoomIndex];
+
+            window.currentNorthNodeIndex = northNodeRoomIndex;
+            window.currentSouthNodeIndex = southNodeRoomIndex;
         }
 
+        // 3. 💜 KUZEY DÜĞÜMÜ (☊): Siyah Background + Renkli Bagua + Milimetrik Ortalanmış Zodyak İkonu
         if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
-            northNodeGate.style.color = "#a855f7"; 
-            northNodeGate.style.borderColor = "#a855f7"; 
-            northNodeGate.style.opacity = "0.9";
-            northNodeGate.style.boxShadow = "0 0 20px #a855f7, inset 0 0 10px #a855f7";
-            northNodeGate.style.textShadow = "0 0 8px #a855f7";
-            northNodeGate.style.fontWeight = "bold";
+            northNodeGate.style.setProperty("background", "#000000", "important"); // Arka plan mutlak siyah aga!
+            northNodeGate.style.setProperty("background-color", "#000000", "important");
+            northNodeGate.style.setProperty("opacity", "0.95", "important");
+            
+            // Kendi Later Heaven rengini (`gateColors`) emip sınır ve yazı hatlarında patlatıyoruz:
+            northNodeGate.style.setProperty("color", gateColors[northNodeRoomIndex], "important"); 
+            northNodeGate.style.setProperty("border-color", gateColors[northNodeRoomIndex], "important"); 
+            northNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[northNodeRoomIndex]}, inset 0 0 8px ${gateColors[northNodeRoomIndex]}`, "important");
+            northNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[northNodeRoomIndex]}`, "important");
+            northNodeGate.style.setProperty("font-weight", "bold", "important");
 
-            // Dinamik ☊ sembolü enjeksiyonu
-            let oldLabel = northNodeGate.querySelector('.lunar-cross-icon-siber');
-            if (oldLabel) oldLabel.remove();
+            // 📐 Kapının kendi içindeki zodyak simgesini veya adını dinamik yakalayan siber dedektör:
+            let nZodEl = northNodeGate.querySelector('.zodiac-symbol, .zodiac-icon') || northNodeGate.querySelector('.zodiac-name');
+            let nZodTxt = nZodEl ? nZodEl.textContent.trim().slice(0, 2) : '♊'; // Bulamazsa yedek İkizler
+
+            // Sol tarafa siber beyaz ☊ sembolü (Dikeyde tam ortalanmış, soldan 8px içeride)
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = 'position:absolute; top:5px; left:5px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 8px #a855f7; z-index:99999; font-family:system-ui; pointer-events:none;';
+            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             label.textContent = '☊';
             northNodeGate.appendChild(label);
+
+            // Sağ tarafa canlı Zodyak sembolü (Dikeyde tam ortalanmış, sağdan 8px içeride)
+            let zodiacLabel = document.createElement('div');
+            zodiacLabel.className = 'lunar-zodiac-icon-siber';
+            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[northNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            zodiacLabel.textContent = nZodTxt;
+            northNodeGate.appendChild(zodiacLabel);
         }
 
-        // =========================================================================
-        // 💛 SOUTH NODE (Ketu): GÜNEŞ AKSI DEĞİL, BEYAZ AY (SELENE) DOĞRULAMASI!
-        // =========================================================================
-        if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
-            // 8 Kapılı BC çemberinde Beyaz Ay'a tam 90 derece dik geri kapıyı (+6 vites) dinamik buluyoruz:
-            let dynamicSouthIdx = (seleneIndex + 6) % 8;
-            southNodeGate = gateMapping[dynamicSouthIdx];
-        }
-
+        // 4. 💛 GÜNEY DÜĞÜMÜ (☋): Siyah Background + Renkli Bagua + Milimetrik Ortalanmış Zodyak İkonu
         if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
-            southNodeGate.style.color = "#ffeb3b"; 
-            southNodeGate.style.borderColor = "#ffeb3b";
-            southNodeGate.style.opacity = "0.9";
-            southNodeGate.style.boxShadow = "0 0 20px #ffeb3b, inset 0 0 10px #ffeb3b";
-            southNodeGate.style.textShadow = "0 0 8px #ffeb3b";
-            southNodeGate.style.fontWeight = "bold";
+            southNodeGate.style.setProperty("background", "#000000", "important"); // Arka plan mutlak siyah aga!
+            southNodeGate.style.setProperty("background-color", "#000000", "important");
+            southNodeGate.style.setProperty("opacity", "0.95", "important");
+            
+            // Karşıt dik kutbu da kendi Bagua rengiyle şarj ediyoruz:
+            southNodeGate.style.setProperty("color", gateColors[southNodeRoomIndex], "important"); 
+            southNodeGate.style.setProperty("border-color", gateColors[southNodeRoomIndex], "important"); 
+            southNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[southNodeRoomIndex]}, inset 0 0 8px ${gateColors[southNodeRoomIndex]}`, "important");
+            southNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[southNodeRoomIndex]}`, "important");
+            southNodeGate.style.setProperty("font-weight", "bold", "important");
 
-            // Dinamik ☋ sembolü enjeksiyonu
-            let oldLabel = southNodeGate.querySelector('.lunar-cross-icon-siber');
-            if (oldLabel) oldLabel.remove();
+            // 📐 Kapının kendi içindeki zodyak simgesini veya adını dinamik yakalayan siber dedektör:
+            let sZodEl = southNodeGate.querySelector('.zodiac-symbol, .zodiac-icon') || southNodeGate.querySelector('.zodiac-name');
+            let sZodTxt = sZodEl ? sZodEl.textContent.trim().slice(0, 2) : '♐'; // Bulamazsa yedek Yay
+
+            // Sol tarafa siber beyaz ☋ sembolü (Dikeyde tam ortalanmış, soldan 8px içeride)
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = 'position:absolute; top:5px; left:5px; color:#ffeb3b; font-size:14px; font-weight:bold; text-shadow:0 0 8px #ffeb3b; z-index:99999; font-family:system-ui; pointer-events:none;';
+            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             label.textContent = '☋';
             southNodeGate.appendChild(label);
+
+            // Sağ tarafa canlı Zodyak sembolü (Dikeyde tam ortalanmış, sağdan 8px içeride)
+            let zodiacLabel = document.createElement('div');
+            zodiacLabel.className = 'lunar-zodiac-icon-siber';
+            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[southNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            zodiacLabel.textContent = sZodTxt;
+            southNodeGate.appendChild(zodiacLabel);
         }
     }
 
