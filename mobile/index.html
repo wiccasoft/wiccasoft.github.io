@@ -1048,7 +1048,33 @@ footer {
 </main>
 
 
+<!-- Arayüzdeki 8 Ana Bagua Kapısı ve Yanlarına Çakılacak Sabit Haç İşaretleri -->
+<div class="gate-wrapper sol-ust">
+    <div class="gate">☴</div>
+    <span class="zodiac-marker" style="color: #00ff66;">♉ (Boğa)</span>
+</div>
 
+<div class="gate-wrapper sag-ust">
+    <div class="gate">☲</div>
+    <span class="zodiac-marker" style="color: #ff1a1a;">♌ (Aslan - Tepe Ateşi)</span>
+</div>
+
+<div class="gate-wrapper sag-orta">
+    <!-- Şu an turuncu yanan yer: Aslan burcu sembolünü tam buraya veya sol alta kaydıracağız aga -->
+    <div class="gate">☰</div>
+    <span class="zodiac-marker" style="color: #e6b800;">♌ LEO</span>
+</div>
+
+<div class="gate-wrapper sol-alt">
+    <!-- Senin bahsettiğin o sihirli "Aslan Burada Olmalı" dediğin kilit köşe: -->
+    <div class="gate">☳</div>
+    <span class="zodiac-marker" style="color: #e6b800;">♌ LEO (Sarı Vites)</span>
+</div>
+
+<div class="gate-wrapper sag-alt">
+    <div class="gate">☱</div>
+    <span class="zodiac-marker" style="color: #ca5ca0;">♏ (Akrep)</span>
+</div>
 
     <script>
 /**
@@ -1775,13 +1801,21 @@ setInterval(() => {
         let currentPurpleSymbol = dynamicZodiacSymbols[livePurpleZodiacIdx];
         let currentPurpleName   = staticZodiacNames[livePurpleZodiacIdx]; 
 
-        // =========================================================================
-        // 🌙 3. SAF SELENE AY HÜCRESİ MOTORU [TRUE ASTRONOMICAL]:
+ // =========================================================================
+        // 🌙 3. SAF SELENE AY HÜCRESİ MOTORU [TRUE ASTRONOMICAL]
         // =========================================================================
         let activeCalculationDate = window.wiccaCurrentSimulatedDate || new Date();
         let preciseMoonData = getUniversalMoonZodiac(activeCalculationDate);
 
-        // =========================================================================
+        // 🎯 Sıra hatasını çözmek için indeksi hemen burada güvene alıyoruz aga:
+        let wiccaMoonSignIdx = 2; // Varsayılan İkizler yedek
+        if (typeof preciseMoonData !== 'undefined' && typeof preciseMoonData.signName !== 'undefined') {
+            wiccaMoonSignIdx = staticZodiacNames.indexOf(preciseMoonData.signName.toUpperCase());
+        } else if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1) {
+            wiccaMoonSignIdx = seleneIndex % 12;
+        }
+
+          // =========================================================================
         // 🔄 [MUTLAK GLOBAL REZONANS]: Pencereler tam senin ekranındaki floresan nizamla eşleşiyor!
         // =========================================================================
         window.wiccaLiveGateColor    = "#ff1a1a";
@@ -1800,10 +1834,28 @@ setInterval(() => {
         window.wiccaPurpleZodiac     = staticZodiacNames[liveCardinalWestIdx]; 
         window.wiccaPurpleGateSymbol = ""; 
 
-        window.wiccaSeleneZodiac     = preciseMoonData.signName + " " + preciseMoonData.degree + "°"; 
-        window.wiccaSeleneSymbol     = currentPurpleSymbol;
+        // 🎯 [ÇİFT DECLARE İNFAZ EDİLDİ]: Başındaki let kelimesini kaldırdık aga, 
+        // yukarıdaki mevcut değişkeni hatasızca güncelliyor artık!
+        if (typeof preciseMoonData !== 'undefined' && preciseMoonData !== null && typeof preciseMoonData.signName !== 'undefined' && preciseMoonData.signName !== null) {
+            let foundIdx = staticZodiacNames.indexOf(preciseMoonData.signName.toUpperCase());
+            if (foundIdx !== -1) wiccaMoonSignIdx = foundIdx;
+        } else if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
+            wiccaMoonSignIdx = seleneIndex % 12;
+        }
 
-        // 🧹 [TEMİZLİK KALKANI]: Tüm o uydurma glitch etiketlerini kazı ve kapıları loş nadasa bırak aga:
+        // 🧹 Ay artık düğümün sembolünü çalmıyor, kendi öz sembolünü basıyor:
+        window.wiccaSeleneZodiac     = preciseMoonData && preciseMoonData.signName ? preciseMoonData.signName + " " + preciseMoonData.degree + "°" : "GEM 0°"; 
+        window.wiccaSeleneSymbol     = dynamicZodiacSymbols[wiccaMoonSignIdx];
+
+        // =========================================================================
+        // 🖤 5. KUTU & LILITH TIDE ENJEKTÖRÜ [THE COSMIC COUNTERWEIGHT]
+        // =========================================================================
+        // 🌊 [LILITH TIDE REZONANSI]: Ay'ın tam 180° karşıt yatağı artık hatasız ve tek hat üzerinden akıyor aga!
+        let wiccaTideZodiacIdx = (wiccaMoonSignIdx + 6) % 12; // Tam 180 derece karşıt kütleçekim çapı aga!
+        window.wiccaLilithTideZodiac = staticZodiacNames[wiccaTideZodiacIdx]; // Küresel pencereye çiviledik!
+        window.wiccaLilithTideSymbol = "🖤"; // Karşıt Gelgit Kutsal Karadelik İkonu
+
+        // 🧹 [TEK PARÇA TEMİZ SIFIRLAMA]: Mükerrer çalışan o 5 farklı döngü lağvedildi, tek bir hat üzerinden loşlaşıyor aga!
         if (typeof gateMapping !== 'undefined' && gateMapping) {
             gateMapping.forEach((gate, idx) => {
                 if (!gate) return;
@@ -1818,38 +1870,6 @@ setInterval(() => {
                 gate.style.removeProperty("background-color");
             });
         }
-        // =========================================================================
-        // 🖤 5. KUTU & LILITH TIDE ENJEKTÖRÜ [THE COSMIC COUNTERWEIGHT]
-        // =========================================================================
-        // 🎯 Selene Ay verileri kesintisiz sarsılmaz akmaya devam ederken;
-        window.wiccaSeleneZodiac     = preciseMoonData.signName + " " + preciseMoonData.degree + "°"; 
-        window.wiccaSeleneSymbol     = currentPurpleSymbol;
-
-        // 🌊 [LILITH TIDE REZONANSI]: Ay o an hangi burçtaysa (preciseMoonData.signIdx), 
-        // tam 180° dikey/yatay karşıt yatağında pusuya yatan o kör nokta burç adını alt panele hesaplatıyoruz aga!
-        let wiccaMoonSignIdx = 2; // Varsayılan İkizler yedek
-        if (typeof preciseMoonData !== 'undefined' && typeof preciseMoonData.signName !== 'undefined') {
-            wiccaMoonSignIdx = staticZodiacNames.indexOf(preciseMoonData.signName.toUpperCase());
-        } else if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1) {
-            wiccaMoonSignIdx = seleneIndex % 12;
-        }
-        
-        let wiccaTideZodiacIdx = (wiccaMoonSignIdx + 6) % 12; // Tam 180 derece karşıt kütleçekim çapı aga!
-        window.wiccaLilithTideZodiac = staticZodiacNames[wiccaTideZodiacIdx]; // Küresel pencereye çiviledik!
-        window.wiccaLilithTideSymbol = "🖤"; // Karşıt Gelgit Kutsal Karadelik İkonu
-
-        // 🧹 [TEK PARÇA TEMİZ SIFIRLAMA]: O 5 kez kendini ezen döngüler lağvedildi, tek bir hat üzerinden loşlaşıyor aga!
-        if (typeof gateMapping !== 'undefined' && gateMapping) {
-            gateMapping.forEach((gate, idx) => {
-                if (!gate) return;
-                gate.style.opacity = "0.2";
-                if (typeof gateColors !== 'undefined') gate.style.color = gateColors[idx]; 
-                gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
-                gate.style.boxShadow = "none";
-            });
-        }
-
-
         
         /*
         // 🌓 [GEOMETRİK GÖLGE DÜZELTMESİ]: Sağ paneldeki görseli zodyak yönüyle eşitleyen mutlak maske kilidi:
