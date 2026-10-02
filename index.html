@@ -1587,11 +1587,9 @@ setInterval(() => {
          // =========================================================================
         // 🎯 [HUBER 12-AXIS CORE]: %100 SAF 12'Lİ DİNAMİK HAÇ MOTORU [V95_MASTER_RAW]
         // =========================================================================
-        // 1747. satırdaki 'safeSunGate is not defined' ReferenceError hatası kökten infaz edildi aga!
-        // Kodlarda, taglarda, if şartlarında TEK BİR BURÇ İSMİ BİLE YOKTUR! Tamamen donanımsal akış.
 
         // 🧮 1. 12'Lİ KOZMİK ÇARK ANAHTARLARI: 
-        // Gökyüzünün o sarsılmaz 12'li burç omurgasını katışıksız bir dizi olarak buraya mühürlüyoruz aga:
+
         const wicca12Zodiacs = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
         const wicca12Baguas  = ["☲", "☱", "☰", "☷", "☷", "☴", "☲", "☵", "☵", "☷", "☱", "☴"]; 
 
@@ -2106,95 +2104,100 @@ setInterval(() => {
         }
 
 
-                // =========================================================================
-        // 🔮 [WICCA_LILITH_TIDE]: LILITH'I SADECE AYIN KARŞI ODASINDA YAKAN MOTOR [V1650]
+    // =========================================================================
+        // 🌗 LILITH GATE (KARANLIK AY) AKS ENJEKTÖRÜ [LOCAL NEON COCKPIT MÜHÜRÜ]
         // =========================================================================
-        // "selengate indexin karşı odasını yakacakasın sadece" emri mühürlendi aga!
-        // Diğer tüm odalar loş nadasında kalır, kütleçekim terazisi tam 12'den kurulur.
-
-        if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') {
+        // Selene (Beyaz Ay) neredeyse, Lilith mutlak nizam gereği tam karşı (+4 oda) kutbundadır.
+        if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && typeof gateMapping !== 'undefined' && gateMapping) {
             
-            // 🚨 SİBER RADAR: Ay evresi Son Dördün yarım ay koridorundayken (%46 - %54 bandı) tetiklenir:
-            let isWiccaQuarterMoon = moonLive.percent >= 46 && moonLive.percent <= 54;
+            // 8'li siber pusula matrisinde tam 180 derece karşıt kapının indeksini jilet gibi çekiyoruz:
+            let lilithIndex = (seleneIndex + 4) % 8;
+            let lilithGate = gateMapping[lilithIndex];
 
-            // 🧹 SİBER KAZIYICI: Önceki döngülerden kalan mükerrer etiketleri her taraftan tertemiz kazı aga:
-            if (typeof gateMapping !== 'undefined' && gateMapping) {
-                gateMapping.forEach(g => {
-                    if (g) {
-                        let oldLilith = g.querySelector('.lilith-ghost-tide-glitch');
-                        if (oldLilith) oldLilith.remove();
-                    }
-                });
-            }
+            if (lilithGate) {
+                // Hayalet iz koruması: Önce çarktaki tüm eski Lilith etiketlerini temizle aga
+                if (typeof gateMapping !== 'undefined') {
+                    gateMapping.forEach(g => {
+                        if (g) {
+                            let oldTag = g.querySelector('.lilith-core-title');
+                            if (oldTag) oldTag.remove();
+                        }
+                    });
+                }
 
-            // 🌗 [AY KARŞITI TEKİL KİLİTLENME]:
-            if (isWiccaQuarterMoon && typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && typeof gateMapping !== 'undefined') {
+                // 🎯 Eğer Lilith kapısı o an Sun, Moon veya Düğümlerle çakışmıyorsa mutlak floresan rengini bas:
+                if (lilithIndex !== sirkadiyenButonIndex && 
+                    lilithIndex !== lilithButonIndex && 
+                    lilithIndex !== northNodeRoomIndex && 
+                    lilithIndex !== southNodeRoomIndex) {
+                    
+                 lilithGate.style.setProperty("z-index", "9998", "important"); 
+                lilithGate.style.setProperty("opacity", "1.0", "important");
+                lilithGate.style.setProperty("color", "#ff1a6c", "important"); 
+                lilithGate.style.setProperty("border-color", "#000000", "important");
+                lilithGate.style.fontWeight = "bold";
+
+                // 🖤 [DİPSİZ KARANLIK KALKANI]: Arka planı mutlak mat gece siyahı yapıyoruz aga!
+                lilithGate.style.setProperty("background", "#000000", "important");
+                lilithGate.style.setProperty("background-color", "#000000", "important");
                 
-                // 📐 [8-ODALI SAF AYNALAMA]: Ay'ın durduğu kapının (seleneIndex) tam 180° karşıt odasını nokta atışı buluyoruz aga!
-                let wiccaLilithTideIndex = (seleneIndex + 4) % 8; 
-                let tideLilithGate = gateMapping[wiccaLilithTideIndex];
-
-                // Karşı oda eğer o an Güneş'in parladığı aktif kapı değilse, sahneye el koy aga!
-                if (tideLilithGate && tideLilithGate !== sunGate) {
+                // Küresel Floresan Hale Işıması:
+                lilithGate.style.boxShadow = "0 0 22px #ff1a6c, inset 0 0 10px rgba(255, 26, 108, 0.5)";
+                lilithGate.style.textShadow = "0 0 10px #ff1a6c";
                     
-                    // 🩻 OPAKYI YAKIYORUZ: Ay kapısının tam karşısındaki o tek odayı saf mat siyah karadeliğe bürü aga!
-                    tideLilithGate.style.setProperty("background", "#000000", "important");
-                    tideLilithGate.style.setProperty("background-color", "#000000", "important");
-                    tideLilithGate.style.setProperty("opacity", "0.95", "important"); // Görünürlük 1'e çekildi!
-                    tideLilithGate.style.setProperty("border-color", "#ca5ca0", "important"); // Kutsal Mor Saçak Neon
-                    
-                    // 🔥 MUTLAK NEON GLOW: En altta olduğumuz için aşağıdaki hiçbir eski kod bu haleyi kısamaz!
-                    tideLilithGate.style.setProperty("box-shadow", "0 0 35px #ca5ca0, inset 0 0 15px #ca5ca0", "important");
-                    tideLilithGate.style.setProperty("color", "#ca5ca0", "important");
 
-                    // 🖤 BEYNİ ERİTEN SİBER LILITH UYARICI ALARMI:
-                    let oldLilithLabel = tideLilithGate.querySelector('.lilith-ghost-tide-glitch');
-                    if (!oldLilithLabel) {
-                        let lilithLabel = document.createElement('div');
-                        lilithLabel.className = 'lilith-ghost-tide-glitch';
-                        lilithLabel.style.cssText = `
-                            position: absolute;
-                            top: 4px;
-                            right: 6px;
-                            color: #ffffff;
-                            font-size: 11px;
-                            font-weight: bold;
-                            text-shadow: 0 0 10px #ca5ca0;
-                            z-index: 99999;
-                            font-family: monospace;
-                            pointer-events: none;
-                            animation: wiccaLilithTidePulse 0.25s infinite alternate;
-                        `;
-                        lilithLabel.textContent = '⚡ LILITH';
-                        tideLilithGate.appendChild(lilithLabel);
+                } else {
+                    // Eğer düğümlerden veya ışıklardan biriyle çakışıyorsa, o kapının siber sınır çizgisini iki renkli hibrit yap:
+                    lilithGate.style.setProperty("border-color", "#000000", "important");
+                    lilithGate.style.boxShadow = "0 0 20px #333333, inset 0 0 8px currentColor";
+                }
+
+                 // 🛸 [KUTU İÇİ ENJEKSİYON]: Lilith ve Zodyak değerini Ay Düğümleri gibi kutunun içine gömüyoruz aga!
+                //let lilithContentBox = lilithGate.querySelector('.iching-binary') || lilithGate;
+                
+                // 🧹 GÜVENLİK SİBOBU: Eski hayalet etiketleri temizleyelim ki üst üste binmesin aga
+                let oldLilithTag = lilithGate.querySelector('.lilith-core-title');
+                if (oldLilithTag) {
+                    oldLilithTag.remove();
+                }
+
+                // ♈ [SİBER SEMBOL DÖNÜŞTÜRÜCÜ]: Metin kodunu (Örn: "ARI") canlı emojisine büküyoruz aga:
+                let targetLilithZodiac = window.wiccaLilithZodiac //|| "ARI"; 
+                let lilithSymbol = "♈"; // Varsayılan koruma sembolü
+                
+                if (typeof staticZodiacNames !== 'undefined' && typeof dynamicZodiacSymbols !== 'undefined') {
+                    let zodiacIdx = staticZodiacNames.indexOf(targetLilithZodiac);
+                    if (zodiacIdx !== -1) {
+                        lilithSymbol = dynamicZodiacSymbols[zodiacIdx];
                     }
                 }
-
-                // 💧 MASTER FIXED ALT PANEL BOYAMA SENKRONİZASYONU:
-                // Alt paneldeki o boşluğu dengeleyen mor/mavi kutunun da neon halesini jilet gibi tetikle aga!
-                let wiccaTideBox = document.querySelector('[style*="border: 1px solid #ca5ca0"]') || 
-                                   document.getElementById('gate-water') ||
-                                   document.querySelector('.micro-gate:nth-child(4)');
-                if (wiccaTideBox) {
-                    wiccaTideBox.style.setProperty("opacity", "1", "important");
-                    wiccaTideBox.style.setProperty("box-shadow", "0 0 25px #ca5ca0, inset 0 0 12px #ca5ca0", "important");
-                }
+                
+                // Yeni iç başlık katmanını cıvatalıyoruz:
+                let titleSpan = document.createElement('span');
+                titleSpan.className = 'lilith-core-title';
+                
+                // Ay düğümlerindeki gibi saf punk nizam: "⚸ ♈" formatı
+                titleSpan.innerText = ` ⚸ ${lilithSymbol}`; 
+                
+                // 📐 İÇERİ ALMA KİLİDİ: Yazıyı kutunun dışına taşırmadan, tam içine jilet gibi merkezliyoruz:
+                titleSpan.style.cssText = `
+                    display: block !important;
+                    font-size: 12px !important; /* Sembol daha net görünsün diye hafif büyütüldü aga */
+                    color: #ff1a6c !important;
+                    font-family: monospace !important;
+                    font-weight: bold !important;
+                    letter-spacing: 0.5px !important;
+                    margin-top: 2px !important;
+                    text-shadow: 0 0 4px #ff1a6c !important;
+                    white-space: nowrap !important;
+                    z-index: 100000 !important;
+                `;
+                
+                // Elementin yapısını bozmadan doğrudan alt katman olarak içeriye enjekte et:
+                lilithGate.appendChild(titleSpan);
             }
         }
-
-        // 🎨 GECENİN GİZEMİNE ÖZEL MOR GLITCH ANİMASYON ENJEKTÖRÜ (CSS STYLESHEET CORE):
-        if (!document.getElementById('wicca-lilith-tide-style-core')) {
-            let style = document.createElement('style');
-            style.id = 'wicca-lilith-tide-style-core';
-            style.textContent = `
-                @keyframes wiccaLilithTidePulse {
-                    0% { opacity: 0.2; text-shadow: 0 0 2px #ca5ca0; }
-                    50% { opacity: 0.8; text-shadow: 0 0 15px #ff1a1a; }
-                    100% { opacity: 1; text-shadow: 0 0 10px #ca5ca0; }
-                }
-            `;
-            document.head.appendChild(style);
-        }
+      
         }
 
 
