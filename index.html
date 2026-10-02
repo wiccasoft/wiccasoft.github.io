@@ -2152,48 +2152,79 @@ setInterval(() => {
                     lilithGate.style.boxShadow = "0 0 20px #333333, inset 0 0 8px currentColor";
                 }
 
-                 // 🛸 [KUTU İÇİ ENJEKSİYON]: Lilith ve Zodyak değerini Ay Düğümleri gibi kutunun içine gömüyoruz aga!
-                //let lilithContentBox = lilithGate.querySelector('.iching-binary') || lilithGate;
-                
+               // 🛸 [LUNAR NODES REZONANS ENJEKTÖRÜ]: Bagua'yı geri getirip tam Ay Düğümleri nizamına diziyoruz!
+                let trigramElement = lilithGate.querySelector('.trigram') || lilithGate.querySelector('span');
+                let originalBagua = trigramElement ? trigramElement.textContent.trim() : "☰";
+
                 // 🧹 GÜVENLİK SİBOBU: Eski hayalet etiketleri temizleyelim ki üst üste binmesin aga
                 let oldLilithTag = lilithGate.querySelector('.lilith-core-title');
                 if (oldLilithTag) {
                     oldLilithTag.remove();
                 }
 
-                // ♈ [SİBER SEMBOL DÖNÜŞTÜRÜCÜ]: Metin kodunu (Örn: "ARI") canlı emojisine büküyoruz aga:
-                let targetLilithZodiac = window.wiccaLilithZodiac //|| "ARI"; 
-                let lilithSymbol = "♈"; // Varsayılan koruma sembolü
-                
-                if (typeof staticZodiacNames !== 'undefined' && typeof dynamicZodiacSymbols !== 'undefined') {
-                    let zodiacIdx = staticZodiacNames.indexOf(targetLilithZodiac);
-                    if (zodiacIdx !== -1) {
-                        lilithSymbol = dynamicZodiacSymbols[zodiacIdx];
+                // Orijinal bağımsız beyaz trigram elementini tamamen gizliyoruz:
+                if (trigramElement) {
+                    trigramElement.style.setProperty("display", "none", "important");
+                }
+
+                // 🔄 [%100 SAF CANLI MOTOR]: Tüm kuantum yuvarlamaları ve varsayılanlar İNFAZ edildi!
+                let targetLilithZodiac = "";
+                let lilithSymbol = "";
+
+                // Tepedeki Canlı Selene Ay verisinden burç ismini ayıkla:
+                if (typeof window.wiccaSeleneZodiac !== 'undefined' && window.wiccaSeleneZodiac) {
+                    let rawSeleneParts = window.wiccaSeleneZodiac.split(" ");
+                    let rawSeleneSign = rawSeleneParts[0] ? rawSeleneParts[0].trim() : "";
+                    
+                    if (typeof staticZodiacNames !== 'undefined' && typeof dynamicZodiacSymbols !== 'undefined') {
+                        let seleneSignIdx = staticZodiacNames.indexOf(rawSeleneSign);
+                        
+                        if (seleneSignIdx !== -1) {
+                            let trueOppositeIdx = (seleneSignIdx + 6) % 12; 
+                            targetLilithZodiac = staticZodiacNames[trueOppositeIdx];
+                            lilithSymbol = dynamicZodiacSymbols[trueOppositeIdx];
+                        }
                     }
                 }
+
+                // İlk milisaniyede boş kalmaması için Güneş karşıt aksından beslen aga:
+                if (!lilithSymbol && typeof liveLilithZodiacIdx !== 'undefined' && typeof dynamicZodiacSymbols !== 'undefined') {
+                    targetLilithZodiac = staticZodiacNames[liveLilithZodiacIdx];
+                    lilithSymbol = dynamicZodiacSymbols[liveLilithZodiacIdx];
+                }
                 
-                // Yeni iç başlık katmanını cıvatalıyoruz:
-                let titleSpan = document.createElement('span');
+                // 📐 [HÜCRE MOTORU]: Boşlukları ebediyen infaz etmek için ana kapsayıcıyı kuruyoruz aga:
+                let titleSpan = document.createElement('div');
                 titleSpan.className = 'lilith-core-title';
                 
-                // Ay düğümlerindeki gibi saf punk nizam: "⚸ ♈" formatı
-                titleSpan.innerText = ` ⚸ ${lilithSymbol}`; 
+                // Her sembolü harf aralığı prangasından kurtarmak için kendi küçük kafeslerine koyuyoruz:
+                titleSpan.innerHTML = `
+                    <span style="letter-spacing: 0px !important; margin: 0 !important; padding: 0 !important;">⚸</span>
+                    <span style="letter-spacing: 0px !important; margin: 0 !important; padding: 0 !important;">${originalBagua}</span>
+                    <span style="letter-spacing: 0px !important; margin: 0 !important; padding: 0 !important;">${lilithSymbol}</span>
+                `; 
                 
-                // 📐 İÇERİ ALMA KİLİDİ: Yazıyı kutunun dışına taşırmadan, tam içine jilet gibi merkezliyoruz:
+                // 🛡️ [MUTLAK SIKIŞTIRMA SİBOBU]: `letter-spacing: -1px` ve `gap: 2px` ile aralıkları presliyoruz!
                 titleSpan.style.cssText = `
-                    display: block !important;
-                    font-size: 12px !important; /* Sembol daha net görünsün diye hafif büyütüldü aga */
-                    color: #ff1a6c !important;
+                    display: flex !important;
+                    justify-content: center !important; /* Mor ve sarı butonlar gibi tam ortala */
+                    align-items: center !important;
+                    gap: 4px !important; /* Sembolleri birbirine jilet gibi yaklaştıran milimetrik boşluk */
+                    font-size: 13px !important; /* Düğümlerle tam aynı boyut */
+                    color: #ff1a6c !important; /* Siber pembe kor parlaması */
                     font-family: monospace !important;
                     font-weight: bold !important;
-                    letter-spacing: 0.5px !important;
-                    margin-top: 2px !important;
-                    text-shadow: 0 0 4px #ff1a6c !important;
+                    letter-spacing: -0.5px !important; /* İnatçı CSS aralıklarını kökten baltalayan negatif pres */
+                    text-shadow: 0 0 6px #ff1a6c !important;
                     white-space: nowrap !important;
                     z-index: 100000 !important;
+                    width: 100% !important;
+                    height: 100% !important;
+                    box-sizing: border-box !important;
+                    margin: 0 auto !important;
                 `;
                 
-                // Elementin yapısını bozmadan doğrudan alt katman olarak içeriye enjekte et:
+                // Doğrudan ana kutunun içine fırlat:
                 lilithGate.appendChild(titleSpan);
             }
         }
