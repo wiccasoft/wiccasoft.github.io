@@ -1880,101 +1880,19 @@ setInterval(() => {
             window.wiccaSeleneSymbol = "☽";
         }
 
-        // =========================================================================
+     // =========================================================================
         // 🖤 5. KUTU & LILITH TIDE ENJEKTÖRÜ [THE COSMIC COUNTERWEIGHT]
         // =========================================================================
         if (typeof staticZodiacNames !== 'undefined' && staticZodiacNames[wiccaTideZodiacIdx]) {
             window.wiccaLilithTideZodiac = staticZodiacNames[wiccaTideZodiacIdx]; 
         }
-        window.wiccaLilithTideSymbol = "🖤"; // Karşıt Gelgit Kutsal Karadelik İkonu
-
-        // 🧹 [TEK PARÇA TEMİZ SIFIRLAMA]: Mükerrer çalışan o 5 farklı döngü lağvedildi, tek bir hat üzerinden loşlaşıyor aga!
-        if (typeof gateMapping !== 'undefined' && gateMapping) {
-            gateMapping.forEach((gate, idx) => {
-                if (!gate) return;
-                let dummyLabel = gate.querySelector('.lilith-ghost-glitch');
-                if (dummyLabel) dummyLabel.remove();
-                
-                gate.style.opacity = "0.2";
-                if (typeof gateColors !== 'undefined') gate.style.color = gateColors[idx]; 
-                gate.style.borderColor = "rgba(255, 255, 255, 0.08)";
-                gate.style.boxShadow = "none";
-                gate.style.removeProperty("background");
-                gate.style.removeProperty("background-color");
-            });
-        }
-        
-        /*
-        // 🌓 [GEOMETRİK GÖLGE DÜZELTMESİ]: Sağ paneldeki görseli zodyak yönüyle eşitleyen mutlak maske kilidi:
-        if (typeof moonLive !== 'undefined' && moonLive && moonLive.seleneProgress > 0.5) {
-            let moonVisual = document.querySelector('.wicca-moon-render') || document.getElementById('moon-target');
-            if (moonVisual) {
-                moonVisual.style.transform = 'scaleX(-1)';
-            }
-        }
-            */
-
-
-
-            
-
-               // =========================================================================
-        // ⚙️ 1. GLOBAL ENJEKTÖR MOTOR TANIMI (PAVYON PARLAMALARI İNFAZ EDİLDİ AGA!)
-        // =========================================================================
-        // Çiğ neon gölgeleri, box-shadow zorlamaları ve göz kırpma krizleri ebediyen tasfiye edildi.
-        // Kapılar pavyon gibi yanıp sönmeyi bırakıyor, cam gibi mat bir gece siyahına kilitleniyor!
-        
-        window.inject8GateAngle = function(gate, color, isMainAxis) {
-            if (!gate) return;
-
-            // Kapıların opaklığını mühürleyip arka planını mutlak mat gece siyahına kilitliyoruz.
-            // Böylece loşlaştırma döngülerinin kapıları tamamen söndürmesi engelleniyor, stabil kalıyor:
-            gate.style.setProperty("opacity", "0.95", "important");
-            gate.style.setProperty("background", "#000000", "important"); 
-            gate.style.setProperty("background-color", "#000000", "important");
-            
-            // Renkleri bükmüyoruz; kapının kendi rengini ve border tonunu koruyoruz aga, box-shadow tamamen TEMİZLENDİ!
-            if (color) {
-                gate.style.setProperty("color", color, "important"); 
-                gate.style.setProperty("border-color", color, "important"); 
-            }
-            gate.style.setProperty("box-shadow", "none", "important");
-            gate.style.setProperty("text-shadow", "none", "important");
-        };
-
-     
+        window.wiccaLilithTideSymbol = "🖤"; 
 
         // =========================================================================
-        // 🔄 5. KÜRESEL PENCERE ATAMALARI
+        // 🎚️ 6. NİHAİ SÜREKLİLİK MOTORU: %100 SAF VE SABİT MAT MÜHÜR
         // =========================================================================
-        window.wiccaLiveGateColor    = "#ff1a1a";
-        window.wiccaSunZodiac        = currentSunName; 
-        window.wiccaLiveGateSymbol   = currentSunSymbol; 
-
-        window.wiccaYellowGateColor  = "#e6b800";
-        window.wiccaYellowZodiac     = staticZodiacNames[liveCardinalEastIdx];   
-        window.wiccaYellowGateSymbol = dynamicZodiacSymbols[liveCardinalEastIdx]; 
-
-        window.wiccaLilithGateColor  = "#00ffff";
-        window.wiccaLilithZodiac     = currentLilithName;   
-        window.wiccaLilithGateSymbol = currentLilithSymbol; 
-
-        window.wiccaPurpleGateColor  = "#ca5ca0";
-        window.wiccaPurpleZodiac     = currentPurpleName; 
-        window.wiccaPurpleGateSymbol = currentPurpleSymbol; 
-
-        //let safeDegree = (typeof preciseMoonData !== 'undefined' && preciseMoonData && preciseMoonData.degree) ? preciseMoonData.degree + "°" : "0°";
-        window.wiccaSeleneZodiac     = window.wiccaSunZodiac + " " + safeDegree; 
-        window.wiccaSeleneSymbol     = dynamicZodiacSymbols[wiccaMoonSignIdx] || "☽";
-
-        if (typeof staticZodiacNames !== 'undefined' && staticZodiacNames[wiccaTideZodiacIdx]) {
-            window.wiccaLilithTideZodiac = staticZodiacNames[wiccaTideZodiacIdx]; 
-        }
-        window.wiccaLilithTideSymbol = "🖤";
-
-        // =========================================================================
-        // 🎚️ 6. NİHAİ SÜREKLİLİK MOTORU: DENGELİ MAT MÜHÜRLEME
-        // =========================================================================
+        // Tüm harici metin/div manipülasyonları ve göz tırmalayan yapay haleler lağvedildi.
+        // Kapılar kendi ham renk spektrumunu koruyarak asil bir matlığa kilitleniyor aga!
         if (typeof gateMapping !== 'undefined' && gateMapping && gateMapping.length > 0) {
             
             let curSunIdx = (typeof sirkadiyenButonIndex !== 'undefined' ? sirkadiyenButonIndex : 2);
@@ -1985,40 +1903,38 @@ setInterval(() => {
             gateMapping.forEach((gate, idx) => {
                 if (!gate) return;
 
-                // Kapıların kendi orijinal renklerini bozmadan yerinde koruyoruz, pavyon gölgeleri kaldırıldı!
-                let finalOmurgaColor = (typeof gateColors !== 'undefined' && gateColors[idx]) ? gateColors[idx] : '#7a00ff';
-                let isMainAxis = false;
+                // Lunapark kılıflı sonradan eklenen tüm siber div kalıntılarını anında kazı aga!
+                let glitchDivs = gate.querySelectorAll('.lunar-cross-icon-siber, .lunar-zodiac-icon-siber');
+                glitchDivs.forEach(d => d.remove());
 
-                if (idx === curSunIdx) {
-                    finalOmurgaColor = "#ff1a1a"; // 🔴 MC (Active Sun)
-                    isMainAxis = true;
-                } else if (idx === curLilithIdx) {
-                    finalOmurgaColor = "#00ffaa"; // 🟢 IC
-                    isMainAxis = true;
-                } else if (idx === curNorthIdx) {
-                    finalOmurgaColor = "#e6b800"; // 🟡 ALPHA
-                    isMainAxis = true;
-                } else if (idx === curSouthIdx) {
-                    finalOmurgaColor = "#ca5ca0"; // 🟣 OMEGA
-                    isMainAxis = true;
-                }
+                // Renkler odalarda sabit kalıyor, asla zıplama yapmaz:
+                let staticGateColor = (typeof gateColors !== 'undefined' && gateColors[idx]) ? gateColors[idx] : '#7a00ff';
+                let isFourHorsemen = (idx === curSunIdx || idx === curLilithIdx || idx === curNorthIdx || idx === curSouthIdx);
 
-                // Baguaları silmeden, sadece mat gece zırhını ve sabit rengi mühürle aga!
-                window.inject8GateAngle(gate, finalOmurgaColor, isMainAxis);
-                
-                // Sahte parlamaları engellemek için active-glow sınıfını kaldırıp temizliyoruz:
+                // 🚀 MUTLAK MAT GÖVDE (!important zırhı ile sönme krizleri son buluyor):
+                gate.style.setProperty("opacity", isFourHorsemen ? "0.95" : "0.35", "important");
+                gate.style.setProperty("background", "#000000", "important"); 
+                gate.style.setProperty("background-color", "#000000", "important");
+                gate.style.setProperty("color", staticGateColor, "important"); 
+                gate.style.setProperty("border-color", staticGateColor, "important"); 
+
+                // Tüm çiğ parlamaları sıfırlayıp pürüzsüzleştiriyoruz aga:
+                gate.style.setProperty("box-shadow", "none", "important");
+                gate.style.setProperty("text-shadow", "none", "important");
                 gate.classList.remove('active-glow');
             });
         }
 
+        // Alt paneldeki mevsim barlarının rezonansa girmesi için kuantum mutasyon motorunu tetikle:
         if (typeof syncQuantumElements === 'function') {
             let activeIdSafe = (typeof sirkadiyenButonIndex !== 'undefined' && gateMapping[sirkadiyenButonIndex]) ? gateMapping[sirkadiyenButonIndex].id : 'gate-fire';
             syncQuantumElements(activeIdSafe);
         }
 
+        // Siber durum paneline net omurga logunu akıt aga:
         const finalOmurgaStatus = document.getElementById('cosmic-status');
         if (finalOmurgaStatus) {
-            finalOmurgaStatus.innerHTML = `WICCA_OS://OMURGA_RESURRECTION_COMPLETE ── STATUS: MAT_SHIELD_OK`;
+            finalOmurgaStatus.innerHTML = `WICCA_OS://SINGLE_POINT_MAT_SHIELD_SECURED ── REZONANS: %100`;
         }
         // =========================================================================
         // 🔮 WICCA OS: SAF DİNAMİK ZİNCİR KALKANI [THE PURE RUNTIME FLOW]
@@ -2064,6 +1980,8 @@ setInterval(() => {
             });
         }
 
+
+        
         // =========================================================================
         // 🔮 [WICCA_LUNAR_GLOW]: LUMINOSITY SAF REZONANS MOTORU [V8_NİHAİ]
         // =========================================================================
