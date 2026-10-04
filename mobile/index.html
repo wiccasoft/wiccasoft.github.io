@@ -1908,45 +1908,23 @@ setInterval(() => {
         }
             */
 
-        // =========================================================================
-        // 🔮 SOLAR DECLINATION: MEVSİMSEL HAÇ & MANYETİK KUTUP MOTORU [V850_MÜHÜR]
+      // =========================================================================
+        // 🜚 THE ALPHA & OMEGA MATRIX: SAF RUNTIME MOTORU [V850_MÜHÜR]
         // =========================================================================
         
-        // SİBER KAZIYICI: Önceki döngü tortularını ve siyah backgroundları tertemiz kazı aga:
-        gateMapping.forEach((gate, idx) => {
+        // 1. SİBER KAZIYICI: Önceki döngülerden kalan tortuları DOM'u kırmadan tertemiz kazı aga!
+        gateMapping.forEach((gate) => {
             if (!gate) return;
             let oldNodeLabel = gate.querySelector('.lunar-cross-icon-siber');
             if (oldNodeLabel) oldNodeLabel.remove();
             let oldZodiacLabel = gate.querySelector('.lunar-zodiac-icon-siber');
             if (oldZodiacLabel) oldZodiacLabel.remove();
-            
-            if (idx !== northNodeRoomIndex && idx !== southNodeRoomIndex) {
-                gate.style.removeProperty("background");
-                gate.style.removeProperty("background-color");
-            }
         });
 
-
-
-            // =========================================================================
-            // 🪐 12'Lİ GERÇEK ZODYAK ÇARKINDAN +3 VE -3 ADIM ÖTESİNİ ÇEKME:
-            // =========================================================================
-            // liveSunZodiacIdx o an Güneş'in hangi burçta (0-11) olduğunu söyler.
-            let targetNorthZodiacIdx = (liveSunZodiacIdx + 9) % 12; // Güneş +3 Burç İlerisi
-            let targetSouthZodiacIdx = (liveSunZodiacIdx + 3) % 12; // Güneş -3 Burç Gerisi (Matematiksel olarak +9 ile aynıdır)
-
-       
-            let dynamicNorthSymbol = (typeof dynamicZodiacSymbols !== 'undefined' && dynamicZodiacSymbols[targetNorthZodiacIdx]) 
-                                     ? dynamicZodiacSymbols[targetNorthZodiacIdx] : '';
-                                     
-            let dynamicSouthSymbol = (typeof dynamicZodiacSymbols !== 'undefined' && dynamicZodiacSymbols[targetSouthZodiacIdx]) 
-                                     ? dynamicZodiacSymbols[targetSouthZodiacIdx] : '';
-
-        /*
-        // BEYAZ AY (SELENE) POZİSYONUNA GÖRE 90° DİK TESLA VİTES KİLİDİ:
-        if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
-            northNodeRoomIndex = (seleneIndex + 2) % 8; // ☊ Kuzey Düğüm (+2 Vorteks Vitesi)
-            southNodeRoomIndex = (seleneIndex + 6) % 8; // ☋ Güney Düğüm (+6 Vorteks Vitesi)
+        // 2. GÜNEŞ POZİSYONUNA GÖRE SOL (AC) VE SAĞ (DC) ODA HESAPLAMA:
+        if (typeof sunIndex !== 'undefined' && sunIndex !== null && sunIndex !== -1) {
+            northNodeRoomIndex = (sunIndex + 2) % 8; // Sol Kapı -> AC (Alpha)
+            southNodeRoomIndex = (sunIndex + 6) % 8; // Sağ Kapı -> DC (Omega)
 
             northNodeGate = gateMapping[northNodeRoomIndex];
             southNodeGate = gateMapping[southNodeRoomIndex];
@@ -1954,86 +1932,82 @@ setInterval(() => {
             window.currentNorthNodeIndex = northNodeRoomIndex;
             window.currentSouthNodeIndex = southNodeRoomIndex;
         }
-        */
 
-    
-            // 🌇 [SUNSET & MAGNETIC POLARITY DETECTOR]: Güneş Batış Sensörü
-            // Terazi ve sonrası (6-11) ufkun altıdır. Mıknatıs ters çevriliyor aga!
-            let isSunSet = (liveSunZodiacIdx >= 6 && liveSunZodiacIdx <= 11);
+        // 3. CANLI DİNAMİK SEMBOL SAFARİSİ:
+        let safeSunIdx = (typeof liveSunZodiacIdx !== 'undefined') ? liveSunZodiacIdx : 0;
+        let targetACZodiacIdx = (safeSunIdx + 9) % 12; // AC Burcu (Güneş -3 Adım)
+        let targetDCZodiacIdx = (safeSunIdx + 3) % 12; // DC Burcu (Güneş +3 Adım)
 
-            // 🧲 MIKNATIS TERS ÇEVRİLME RENK MOTORU:
-            // Güneş batınca Doğu ve Batı kapılarının renklerini birbiriyle takas ediyoruz (Manyetik Ters Akış)
-            let northGateColor = gateColors[northNodeRoomIndex];
-            let southGateColor = gateColors[southNodeRoomIndex];
+        let dynamicACSymbol = (typeof dynamicZodiacSymbols !== 'undefined' && dynamicZodiacSymbols[targetACZodiacIdx]) 
+                              ? dynamicZodiacSymbols[targetACZodiacIdx] : '';
+                              
+        let dynamicDCSymbol = (typeof dynamicZodiacSymbols !== 'undefined' && dynamicZodiacSymbols[targetDCZodiacIdx]) 
+                              ? dynamicZodiacSymbols[targetDCZodiacIdx] : '';
 
-            if (isSunSet) {
-                // 🔄 Güneş battı! Renkler ters kutba akıyor, kullanıcı ters manyetizmayı hissediyor aga:
-                northGateColor = gateColors[southNodeRoomIndex];
-                southGateColor = gateColors[northNodeRoomIndex];
-            }
+        // 4. 🌇 GECE / GÜNDÜZ MIKNATIS KUTUP DEDEKTÖRÜ:
+        let isSunSet = (safeSunIdx >= 6 && safeSunIdx <= 11);
 
-        // 💜 MEVSİMSEL DOĞU ODASI (Güneş Odasından 90° İlerisi): Mat Siyah Background + Çift Yönlü Canlı Burç İkonları
-            if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
-                northNodeGate.style.setProperty("background", "#000000", "important"); 
-                northNodeGate.style.setProperty("background-color", "#000000", "important");
-                northNodeGate.style.setProperty("opacity", "0.95", "important");
-                
-                northNodeGate.style.setProperty("color", gateColors[northNodeRoomIndex], "important"); 
-                northNodeGate.style.setProperty("border-color", gateColors[northNodeRoomIndex], "important"); 
-                northNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[northNodeRoomIndex]}, inset 0 0 8px ${gateColors[northNodeRoomIndex]}`, "important");
-                northNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[northNodeRoomIndex]}`, "important");
-                northNodeGate.style.setProperty("font-weight", "bold", "important");
+        let acGateColor = (typeof gateColors !== 'undefined' && gateColors[northNodeRoomIndex]) ? gateColors[northNodeRoomIndex] : '#ca5ca0';
+        let dcGateColor = (typeof gateColors !== 'undefined' && gateColors[southNodeRoomIndex]) ? gateColors[southNodeRoomIndex] : '#e6b800';
 
+        if (isSunSet) {
+            let tempColor = acGateColor;
+            acGateColor = dcGateColor;
+            dcGateColor = tempColor;
+        }
 
-                let glowIntensity = isSunSet ? "0 0 25px" : "0 0 15px";
-                northNodeGate.style.setProperty("box-shadow", `${glowIntensity} ${northGateColor}, inset 0 0 8px ${northGateColor}`, "important");
-                northNodeGate.style.setProperty("text-shadow", `0 0 6px ${northGateColor}`, "important");
-                northNodeGate.style.setProperty("font-weight", "bold", "important");
-
-                let label = document.createElement('div');
-                label.className = 'lunar-cross-icon-siber';
-                label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-                label.textContent = dynamicNorthSymbol; // 🎯 Güneş geliştikçe burası saniyede bir akar!
-                label.textContent = '☊';
-                northNodeGate.appendChild(label);
-
-                let zodiacLabel = document.createElement('div');
-                zodiacLabel.className = 'lunar-zodiac-icon-siber';
-                zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[northNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-                zodiacLabel.textContent = dynamicNorthSymbol; 
-                northNodeGate.appendChild(zodiacLabel);
-            }
-
-
-           // 💛 MEVSİMSEL BATI ODASI (Güneş Odasından 90° Gerisi): Mat Siyah Background + Çift Yönlü Canlı Burç İkonları
-            if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
-                southNodeGate.style.setProperty("background", "#000000", "important"); 
-                southNodeGate.style.setProperty("background-color", "#000000", "important");
-                southNodeGate.style.setProperty("opacity", "0.95", "important");
-                
-                southNodeGate.style.setProperty("color", gateColors[southNodeRoomIndex], "important"); 
-                southNodeGate.style.setProperty("border-color", gateColors[southNodeRoomIndex], "important"); 
-                southNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[southNodeRoomIndex]}, inset 0 0 8px ${gateColors[southNodeRoomIndex]}`, "important");
-                southNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[southNodeRoomIndex]}`, "important");
-                southNodeGate.style.setProperty("font-weight", "bold", "important");
-
-                let label = document.createElement('div');
-                label.className = 'lunar-cross-icon-siber';
-                label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-                label.textContent = dynamicSouthSymbol; // 🎯 Güneş geliştikçe burası saniyede bir akar!
-                
-                 label.textContent = '☋';
-                southNodeGate.appendChild(label);
-
-                let zodiacLabel = document.createElement('div');
-                zodiacLabel.className = 'lunar-zodiac-icon-siber';
-                zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[southNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-                zodiacLabel.textContent = dynamicSouthSymbol; 
-                southNodeGate.appendChild(zodiacLabel);
+        // 5. 💜 SOL KAPI - AC (ALPHA [α] ENJEKSİYONU)
+        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
+            northNodeGate.style.setProperty("background", "#000000", "important"); 
+            northNodeGate.style.setProperty("background-color", "#000000", "important");
+            northNodeGate.style.setProperty("opacity", "0.95", "important");
             
+            let glowIntensity = isSunSet ? "0 0 25px" : "0 0 15px";
+            northNodeGate.style.setProperty("color", acGateColor, "important"); 
+            northNodeGate.style.setProperty("border-color", acGateColor, "important"); 
+            northNodeGate.style.setProperty("box-shadow", `${glowIntensity} ${acGateColor}, inset 0 0 8px ${acGateColor}`, "important");
+            northNodeGate.style.setProperty("text-shadow", `0 0 6px ${acGateColor}`, "important");
+            northNodeGate.style.setProperty("font-weight", "bold", "important");
 
+            let label = document.createElement('div');
+            label.className = 'lunar-cross-icon-siber';
+            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${acGateColor}; z-index:99999; font-family:monospace; pointer-events:none;`;
+            label.textContent = "A [\u03B1]"; 
+            northNodeGate.appendChild(label);
 
-                
+            let zodiacLabel = document.createElement('div');
+            zodiacLabel.className = 'lunar-zodiac-icon-siber';
+            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${acGateColor}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${acGateColor}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            zodiacLabel.textContent = dynamicACSymbol; 
+            northNodeGate.appendChild(zodiacLabel);
+        }
+
+        // 6. 💛 SAĞ KAPI - DC (OMEGA [Ω] ENJEKSİYONU)
+        if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
+            southNodeGate.style.setProperty("background", "#000000", "important"); 
+            southNodeGate.style.setProperty("background-color", "#000000", "important");
+            southNodeGate.style.setProperty("opacity", "0.95", "important");
+            
+            let glowIntensity = isSunSet ? "0 0 25px" : "0 0 15px";
+            southNodeGate.style.setProperty("color", dcGateColor, "important"); 
+            southNodeGate.style.setProperty("border-color", dcGateColor, "important"); 
+            southNodeGate.style.setProperty("box-shadow", `${glowIntensity} ${dcGateColor}, inset 0 0 8px ${dcGateColor}`, "important");
+            southNodeGate.style.setProperty("text-shadow", `0 0 6px ${dcGateColor}`, "important");
+            southNodeGate.style.setProperty("font-weight", "bold", "important");
+
+            let label = document.createElement('div');
+            label.className = 'lunar-cross-icon-siber';
+            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${dcGateColor}; z-index:99999; font-family:monospace; pointer-events:none;`;
+            label.textContent = "\u03A9 [\u03C9]"; 
+            southNodeGate.appendChild(label);
+
+            let zodiacLabel = document.createElement('div');
+            zodiacLabel.className = 'lunar-zodiac-icon-siber';
+            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${dcGateColor}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${dcGateColor}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            zodiacLabel.textContent = dynamicDCSymbol; 
+            southNodeGate.appendChild(zodiacLabel);
+        }
+            
 
        // =========================================================================
         // 🔮 WICCA OS: SAF DİNAMİK ZİNCİR KALKANI [THE PURE RUNTIME FLOW]
@@ -2041,9 +2015,9 @@ setInterval(() => {
         // Statik yedekler İNFAZ EDİLDİ! Sistem artık asla 'GEM' yedeğine düşüp Güneş'i kilitlemez aga!
 
         // 🎯 [ADAPTİF BAŞLANGIÇ]: Sabit sayı değil, alt bardaki o an parlayan aktif Güneş odasının indeksini taban alıyoruz!
-        let wiccaMoonSignIdx = typeof liveSunZodiacIdx !== 'undefined' ? (liveSunZodiacIdx % 12) : 0; 
-        let safeMoonSign   = typeof currentSunName !== 'undefined' ? currentSunName : "ARI";
-        let safeMoonDegree = "0°";
+        //let wiccaMoonSignIdx = typeof liveSunZodiacIdx !== 'undefined' ? (liveSunZodiacIdx % 12) : 0; 
+        //let safeMoonSign   = typeof currentSunName !== 'undefined' ? currentSunName : "ARI";
+        //let safeMoonDegree = "0°";
 
         // 🔄 [CANLI RADAR]: Eğer gerçek Ay transiti akıyorsa, anında üstüne binip dinamikleştir aga:
         if (typeof preciseMoonData !== 'undefined' && preciseMoonData && preciseMoonData.signName) {
@@ -2062,7 +2036,7 @@ setInterval(() => {
         }
 
         // 🌊 [LILITH TIDE REZONANSI]: Karşıt kutup artık asla donmaz, tamamen akan zamana eşittir aga!
-        let wiccaTideZodiacIdx = (wiccaMoonSignIdx + 6) % 12; 
+        //let wiccaTideZodiacIdx = (wiccaMoonSignIdx + 6) % 12; 
 
         window.wiccaSeleneZodiac = safeMoonSign + " " + safeMoonDegree; 
         
@@ -2417,7 +2391,7 @@ setInterval(() => {
                 }
             }
         }
-        }
+        
 
 
     }
@@ -4826,6 +4800,48 @@ const kontrolEtWiccaTutulma = () => {
 };
 
 
+// =========================================================================
+// 🧠 WICCA OS: HIGH-SOLUTIONS SYSTEM DIAGNOSTICS LOG MATRIX
+// =========================================================================
+function runMatrixDiagnostics() {
+    const terminalBody = document.getElementById('terminal-body');
+    const terminalWindow = document.getElementById('wicca-diags-terminal');
+    
+    if (!terminalBody || !terminalWindow) return;
+
+    // Terminali asilce ekranın alt sınırına tırmandıran sınıfı tetikle aga:
+    terminalWindow.classList.add('terminal-active');
+
+    // Sistemdeki anlık dinamik verileri emniyetli korumayla yakala:
+    let currentSunSign = (typeof window.wiccaSunZodiac !== 'undefined') ? window.wiccaSunZodiac : 'UNKNOWN';
+    let currentMoonSign = (typeof window.wiccaSeleneZodiac !== 'undefined') ? window.wiccaSeleneZodiac : 'UNKNOWN';
+    let safeSunIdx = (typeof liveSunZodiacIdx !== 'undefined') ? liveSunZodiacIdx : 0;
+    
+    // Gece/Gündüz kutup durumunu kontrol et:
+    let isSunSet = (safeSunIdx >= 6 && safeSunIdx <= 11);
+    let magneticPolarity = isSunSet ? "🧲 REVERSE_YIN_FLOW [POLARITY_INVERTED]" : "🧲 DIRECT_YANG_FLOW [STANDARD]";
+    let activeElement = isSunSet ? "⛰️ EARTH [WEST_DESCENDANT]" : "💨 AIR [EAST_ASCENDANT]";
+
+    // Terminal içerisindeki eski yazıları silip canlı kuantum loglarını matrix akışıyla enjekte et aga:
+    terminalBody.innerHTML = `
+        <div style="color: #00ffaa; margin-bottom: 4px;">>>> INITIALIZING METATRON CORE MATRIX...</div>
+        <div style="color: #888;">[SYS_STATUS]: ONLINE_RUNNING_V850</div>
+        <div style="color: #ffffff; margin-top: 6px;">☀️ SUN_POSITION: <span style="color: #ff5500; font-weight: bold;">${currentSunSign}</span></div>
+        <div style="color: #ffffff;">🌙 MOON_POSITION: <span style="color: #00ffff; font-weight: bold;">${currentMoonSign}</span></div>
+        <div style="color: #ffffff; margin-top: 6px;">📐 HORIZON_AXIS: <span style="color: #ca5ca0; font-weight: bold;">A [α]</span> <-> <span style="color: #e6b800; font-weight: bold;">Ω [ω]</span></div>
+        <div style="color: #ca5ca0; font-weight: bold; margin-top: 6px;">${magneticPolarity}</div>
+        <div style="color: #e6b800; font-weight: bold;">[ACTIVE_DOMINANCE]: ${activeElement}</div>
+        <div style="color: #00ffaa; margin-top: 6px; font-size: 10px;">>>> SYS_DIAGNOSTICS_SUCCESSFUL_MÜHÜR.</div>
+    `;
+}
+
+// Terminali kapatacak tamamlayıcı emniyet şalteri:
+function closeWiccaDiags() {
+    const terminalWindow = document.getElementById('wicca-diags-terminal');
+    if (terminalWindow) {
+        terminalWindow.classList.remove('terminal-active');
+    }
+}
 
 // =========================================================================
 // ♈ WICCA SAF DİNAMİK ZODIAC MOTORU (SIFIR ZORLAMA - %100 DOĞAL MATEMATİK)
