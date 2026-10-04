@@ -1341,6 +1341,33 @@ function syncQuantumElements(activeGateId) {
         }
     }
 }
+
+
+function getLunarNodeLongitude() {
+    // 1. J2000.0 (1 Ocak 2000 12:00 UTC) milisaniye zaman damgası
+    const j2000 = Date.UTC(2000, 0, 1, 12, 0, 0);
+    const simdi = Date.now();
+    
+    // 2. Geçen toplam gün sayısını bul
+    const gecenGun = (simdi - j2000) / (1000 * 60 * 60 * 24);
+    
+    // 3. J2000'de Kuzey Düğümü ~125.04455 dereceydi
+    // Günlük ortalama gerileme hızı: 0.05295376 derecedir
+    let nodeLongitude = 125.04455 - (0.05295376 * gecenGun);
+    
+    // 4. Dereceyi 0 ile 360 derece arasına sabitle (Modulus)
+    nodeLongitude = nodeLongitude % 360;
+    if (nodeLongitude < 0) {
+        nodeLongitude += 360;
+    }
+    
+    return nodeLongitude; // Kuzey Düğümünün (Rahu) 360 derecelik zodyak konumu
+}
+
+function getSouthNodeLongitude(northNode) {
+    // Güney Düğümü (Ketu) her zaman Kuzey Düğümünün tam 180 derece karşısındadır
+    return (northNode + 180) % 360;
+}
 // =========================================================================
 // 🪐 WICCA OS: SETINTERVAL DIŞINA ÇIKARTILAN 3 AYLIK SABİT MEVSİM MOTORU
 // =========================================================================
@@ -1882,7 +1909,7 @@ setInterval(() => {
             */
 
         // =========================================================================
-        // ☽ ☊ ☋ SAF LUNAR NODES: DİNAMİK TESLA VORTEKS ENJEKTÖRÜ [V850_MÜHÜR]
+        // 🔮 SOLAR DECLINATION: MEVSİMSEL HAÇ & MANYETİK KUTUP MOTORU [V850_MÜHÜR]
         // =========================================================================
         
         // SİBER KAZIYICI: Önceki döngü tortularını ve siyah backgroundları tertemiz kazı aga:
@@ -1899,6 +1926,23 @@ setInterval(() => {
             }
         });
 
+
+
+            // =========================================================================
+            // 🪐 12'Lİ GERÇEK ZODYAK ÇARKINDAN +3 VE -3 ADIM ÖTESİNİ ÇEKME:
+            // =========================================================================
+            // liveSunZodiacIdx o an Güneş'in hangi burçta (0-11) olduğunu söyler.
+            let targetNorthZodiacIdx = (liveSunZodiacIdx + 9) % 12; // Güneş +3 Burç İlerisi
+            let targetSouthZodiacIdx = (liveSunZodiacIdx + 3) % 12; // Güneş -3 Burç Gerisi (Matematiksel olarak +9 ile aynıdır)
+
+       
+            let dynamicNorthSymbol = (typeof dynamicZodiacSymbols !== 'undefined' && dynamicZodiacSymbols[targetNorthZodiacIdx]) 
+                                     ? dynamicZodiacSymbols[targetNorthZodiacIdx] : '';
+                                     
+            let dynamicSouthSymbol = (typeof dynamicZodiacSymbols !== 'undefined' && dynamicZodiacSymbols[targetSouthZodiacIdx]) 
+                                     ? dynamicZodiacSymbols[targetSouthZodiacIdx] : '';
+
+        /*
         // BEYAZ AY (SELENE) POZİSYONUNA GÖRE 90° DİK TESLA VİTES KİLİDİ:
         if (typeof seleneIndex !== 'undefined' && seleneIndex !== -1 && seleneIndex !== null) {
             northNodeRoomIndex = (seleneIndex + 2) % 8; // ☊ Kuzey Düğüm (+2 Vorteks Vitesi)
@@ -1910,61 +1954,86 @@ setInterval(() => {
             window.currentNorthNodeIndex = northNodeRoomIndex;
             window.currentSouthNodeIndex = southNodeRoomIndex;
         }
+        */
 
-        // 💜 KUZEY DÜĞÜMÜ (☊): Mat Siyah Background + Orijinal Renkli Bagua + Milim Ortalanmış İkonlar
-        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
-            northNodeGate.style.setProperty("background", "#000000", "important"); 
-            northNodeGate.style.setProperty("background-color", "#000000", "important");
-            northNodeGate.style.setProperty("opacity", "0.95", "important");
+    
+            // 🌇 [SUNSET & MAGNETIC POLARITY DETECTOR]: Güneş Batış Sensörü
+            // Terazi ve sonrası (6-11) ufkun altıdır. Mıknatıs ters çevriliyor aga!
+            let isSunSet = (liveSunZodiacIdx >= 6 && liveSunZodiacIdx <= 11);
+
+            // 🧲 MIKNATIS TERS ÇEVRİLME RENK MOTORU:
+            // Güneş batınca Doğu ve Batı kapılarının renklerini birbiriyle takas ediyoruz (Manyetik Ters Akış)
+            let northGateColor = gateColors[northNodeRoomIndex];
+            let southGateColor = gateColors[southNodeRoomIndex];
+
+            if (isSunSet) {
+                // 🔄 Güneş battı! Renkler ters kutba akıyor, kullanıcı ters manyetizmayı hissediyor aga:
+                northGateColor = gateColors[southNodeRoomIndex];
+                southGateColor = gateColors[northNodeRoomIndex];
+            }
+
+        // 💜 MEVSİMSEL DOĞU ODASI (Güneş Odasından 90° İlerisi): Mat Siyah Background + Çift Yönlü Canlı Burç İkonları
+            if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
+                northNodeGate.style.setProperty("background", "#000000", "important"); 
+                northNodeGate.style.setProperty("background-color", "#000000", "important");
+                northNodeGate.style.setProperty("opacity", "0.95", "important");
+                
+                northNodeGate.style.setProperty("color", gateColors[northNodeRoomIndex], "important"); 
+                northNodeGate.style.setProperty("border-color", gateColors[northNodeRoomIndex], "important"); 
+                northNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[northNodeRoomIndex]}, inset 0 0 8px ${gateColors[northNodeRoomIndex]}`, "important");
+                northNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[northNodeRoomIndex]}`, "important");
+                northNodeGate.style.setProperty("font-weight", "bold", "important");
+
+
+                let glowIntensity = isSunSet ? "0 0 25px" : "0 0 15px";
+                northNodeGate.style.setProperty("box-shadow", `${glowIntensity} ${northGateColor}, inset 0 0 8px ${northGateColor}`, "important");
+                northNodeGate.style.setProperty("text-shadow", `0 0 6px ${northGateColor}`, "important");
+                northNodeGate.style.setProperty("font-weight", "bold", "important");
+
+                let label = document.createElement('div');
+                label.className = 'lunar-cross-icon-siber';
+                label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+                label.textContent = dynamicNorthSymbol; // 🎯 Güneş geliştikçe burası saniyede bir akar!
+                label.textContent = '☊';
+                northNodeGate.appendChild(label);
+
+                let zodiacLabel = document.createElement('div');
+                zodiacLabel.className = 'lunar-zodiac-icon-siber';
+                zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[northNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+                zodiacLabel.textContent = dynamicNorthSymbol; 
+                northNodeGate.appendChild(zodiacLabel);
+            }
+
+
+           // 💛 MEVSİMSEL BATI ODASI (Güneş Odasından 90° Gerisi): Mat Siyah Background + Çift Yönlü Canlı Burç İkonları
+            if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
+                southNodeGate.style.setProperty("background", "#000000", "important"); 
+                southNodeGate.style.setProperty("background-color", "#000000", "important");
+                southNodeGate.style.setProperty("opacity", "0.95", "important");
+                
+                southNodeGate.style.setProperty("color", gateColors[southNodeRoomIndex], "important"); 
+                southNodeGate.style.setProperty("border-color", gateColors[southNodeRoomIndex], "important"); 
+                southNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[southNodeRoomIndex]}, inset 0 0 8px ${gateColors[southNodeRoomIndex]}`, "important");
+                southNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[southNodeRoomIndex]}`, "important");
+                southNodeGate.style.setProperty("font-weight", "bold", "important");
+
+                let label = document.createElement('div');
+                label.className = 'lunar-cross-icon-siber';
+                label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+                label.textContent = dynamicSouthSymbol; // 🎯 Güneş geliştikçe burası saniyede bir akar!
+                
+                 label.textContent = '☋';
+                southNodeGate.appendChild(label);
+
+                let zodiacLabel = document.createElement('div');
+                zodiacLabel.className = 'lunar-zodiac-icon-siber';
+                zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[southNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+                zodiacLabel.textContent = dynamicSouthSymbol; 
+                southNodeGate.appendChild(zodiacLabel);
             
-            northNodeGate.style.setProperty("color", gateColors[northNodeRoomIndex], "important"); 
-            northNodeGate.style.setProperty("border-color", gateColors[northNodeRoomIndex], "important"); 
-            northNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[northNodeRoomIndex]}, inset 0 0 8px ${gateColors[northNodeRoomIndex]}`, "important");
-            northNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[northNodeRoomIndex]}`, "important");
-            northNodeGate.style.setProperty("font-weight", "bold", "important");
 
-            let nZodEl = northNodeGate.querySelector('.zodiac-symbol, .zodiac-icon') || northNodeGate.querySelector('.zodiac-name');
-            let nZodTxt = nZodEl ? nZodEl.textContent.trim().slice(0, 2) : '♊';
 
-            let label = document.createElement('div');
-            label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            label.textContent = '☊';
-            northNodeGate.appendChild(label);
-
-            let zodiacLabel = document.createElement('div');
-            zodiacLabel.className = 'lunar-zodiac-icon-siber';
-            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[northNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            zodiacLabel.textContent = nZodTxt;
-            northNodeGate.appendChild(zodiacLabel);
-        }
-
-        // 💛 GÜNEY DÜĞÜMÜ (☋): Mat Siyah Background + Orijinal Renkli Bagua + Milim Ortalanmış İkonlar
-        if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
-            southNodeGate.style.setProperty("background", "#000000", "important"); 
-            southNodeGate.style.setProperty("background-color", "#000000", "important");
-            southNodeGate.style.setProperty("opacity", "0.95", "important");
-            
-            southNodeGate.style.setProperty("color", gateColors[southNodeRoomIndex], "important"); 
-            southNodeGate.style.setProperty("border-color", gateColors[southNodeRoomIndex], "important"); 
-            southNodeGate.style.setProperty("box-shadow", `0 0 15px ${gateColors[southNodeRoomIndex]}, inset 0 0 8px ${gateColors[southNodeRoomIndex]}`, "important");
-            southNodeGate.style.setProperty("text-shadow", `0 0 6px ${gateColors[southNodeRoomIndex]}`, "important");
-            southNodeGate.style.setProperty("font-weight", "bold", "important");
-
-            let sZodEl = southNodeGate.querySelector('.zodiac-symbol, .zodiac-icon') || southNodeGate.querySelector('.zodiac-name');
-            let sZodTxt = sZodEl ? sZodEl.textContent.trim().slice(0, 2) : '♐';
-
-            let label = document.createElement('div');
-            label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            label.textContent = '☋';
-            southNodeGate.appendChild(label);
-
-            let zodiacLabel = document.createElement('div');
-            zodiacLabel.className = 'lunar-zodiac-icon-siber';
-            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[southNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            zodiacLabel.textContent = sZodTxt;
-            southNodeGate.appendChild(zodiacLabel);
+                
 
        // =========================================================================
         // 🔮 WICCA OS: SAF DİNAMİK ZİNCİR KALKANI [THE PURE RUNTIME FLOW]
