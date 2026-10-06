@@ -1135,6 +1135,7 @@ function updateHTMLGates() {
 // Bu fonksiyonu 74 BPM vuruşu tetiklendikçe çağırabiliriz!
 
 function getUniversalMoonZodiac(targetDate = new Date()) {
+    const dynamicZodiacSymbols = ["♈︎", "♉︎", "♊︎", "♋︎", "♌︎", "♍︎", "♎︎", "♏︎", "♐︎", "♑︎", "♒︎", "♓︎"];
     const zodiacSymbols = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
     const zodiacSigns = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
     let time = targetDate.getTime();
@@ -1175,7 +1176,7 @@ function getUniversalMoonZodiac(targetDate = new Date()) {
     let tropicalLongitude = cnorm(trueLongitude - precessionCorrection);
 
     return {
-        sign: zodiacSymbols[Math.floor(tropicalLongitude / 30)],
+        sign: dynamicZodiacSymbols[Math.floor(tropicalLongitude / 30)],
         signName: zodiacSigns[Math.floor(tropicalLongitude / 30)],
         degree: Math.floor(tropicalLongitude % 30)
     };
@@ -1590,8 +1591,8 @@ setInterval(() => {
             // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlas
             sirkadiyenButonIndex = 0; 
         }
-      
-
+        
+        console.log(`🕰️ [WICCA_SAF_TIME_ENGINE]: Current Room: ${currentTargetRoom}, Sirkadiyen Index: ${sirkadiyenButonIndex}`);
         
          // =========================================================================
         // 🎯 [HUBER 12-AXIS CORE]: %100 SAF 12'Lİ DİNAMİK HAÇ MOTORU [V95_MASTER_RAW]
@@ -1665,7 +1666,9 @@ setInterval(() => {
 
         // 🌟 LATER HEAVEN ASTROLOJİK AKS RENKLERİ (ASLAN SOL ALTA - KOVA SAĞ ÜSTE SABİTLENDİ)
         // Sıralama: [0: Mor Kova, 1: Mavi Koç, 2: Beyaz, 3: Yeşil, 4: Pembe, 5: Sarı Aslan, 6: Kırmızı Terazi, 7: Turkuaz]
-        const gateColors = ["#ca5ca0", "#0066cc", "#ffffff", "#00b359", "#ff1a6c", "#e6b800", "#ff1a1a", "#00ffff"];
+
+        //const sabbathColors = ["#ca5ca0", "#0066cc", "#ffffff", "#00b359", "#ff1a6c", "#e6b800", "#ff1a1a", "#00ffff"];
+        const gateColors = ["#dc4a55", "#0066cc", "#ffffff", "#00b359", "#ff1a6c", "#e6b800", "#ff1a1a", "#00ffff"];
         const staticTrigrams = ["☵", "☶", "☳", "☴", "☷", "☱", "☰", "☲"];
 
         // 2. Senin o 8 kapıyı dizdiğin 'gateMapping' indeksine göre elementi seçiyoruz:
@@ -1748,7 +1751,7 @@ setInterval(() => {
         // 🪐 WICCA OS: SAF FLO-RESONANS HAÇ MOTORU [WICCA_TRUE_SPINE]
         // =========================================================================
 
-        const dynamicZodiacSymbols = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
+        const dynamicZodiacSymbols = ["♈︎", "♉︎", "♊︎", "♋︎", "♌︎", "♍︎", "♎︎", "♏︎", "♐︎", "♑︎", "♒︎", "♓︎"];
         const staticZodiacNames     = ["ARI", "TAU", "GEM", "CAN", "LEO", "VIR", "LIB", "SCO", "SAG", "CAP", "AQU", "PIS"];
         
         // 🔴 1. DOĞU-BATI IŞIK AKSININ DİNAMİK VİTESİ (Zaman Makinesinin Canlı Güneş Radarı):
@@ -1944,7 +1947,7 @@ setInterval(() => {
 
             let nlabel = document.createElement('div');
             nlabel.className = 'lunar-cross-icon-siber';
-            nlabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            nlabel.style.cssText = `position:absolute; top:45%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:16px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             nlabel.textContent = 'α';
             sunEastGate.appendChild(nlabel);
 
@@ -1961,14 +1964,14 @@ setInterval(() => {
 
             let slabel = document.createElement('div');
             slabel.className = 'lunar-cross-icon-siber';
-            slabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            slabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             slabel.textContent = 'Ω';
             sunWestGate.appendChild(slabel);
 
 
              let antisunLabel = document.createElement('div');
             antisunLabel.className = 'lunar-zodiac-icon-siber';
-            antisunLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[sunWestRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            antisunLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[sunWestRoomIndex]}; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             antisunLabel.textContent = sZodTxt;
             sunWestGate.appendChild(antisunLabel);
 
@@ -2009,7 +2012,7 @@ setInterval(() => {
 
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${gateColors[northNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             label.textContent = '☊';
             northNodeGate.appendChild(label);
 
@@ -2037,13 +2040,13 @@ setInterval(() => {
 
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ffffff; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             label.textContent = '☋';
             southNodeGate.appendChild(label);
 
             let zodiacLabel = document.createElement('div');
             zodiacLabel.className = 'lunar-zodiac-icon-siber';
-            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[southNodeRoomIndex]}; font-size:14px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            zodiacLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:${gateColors[southNodeRoomIndex]}; font-size:12px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             zodiacLabel.textContent = sZodTxt;
             southNodeGate.appendChild(zodiacLabel);
 
@@ -2235,7 +2238,7 @@ setInterval(() => {
 
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
-            label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:4px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            label.style.cssText = `position:absolute; top:45%; transform:translateY(-50%); left:7px; color:#ffffff; font-size:13px; font-weight:bold; text-shadow:0 0 6px ${gateColors[southNodeRoomIndex]}; z-index:99999; font-family:system-ui; pointer-events:none;`;
             label.textContent = wiccaUniversalMoon.sign || '☽';
             seleneGate.appendChild(label);
 
@@ -2312,12 +2315,12 @@ setInterval(() => {
                     // Kraliçenin o asil siber pembe/kırmızı neon gücü sönmeyi kalıcı olarak infaz eder aga:
                     lilithGate.style.setProperty("z-index", "9998", "important"); 
                     lilithGate.style.setProperty("opacity", "1.0", "important");
-                    lilithGate.style.setProperty("color", "#ff1a6c", "important"); 
-                    lilithGate.style.setProperty("border-color", "#1f1a6c", "important"); 
+                    lilithGate.style.setProperty("color", "#222222", "important"); 
+                    lilithGate.style.setProperty("border-color", "#333333", "important"); 
                     lilithGate.style.setProperty("background", "#000000", "important");
                     lilithGate.style.setProperty("background-color", "#000000", "important");
-                    lilithGate.style.boxShadow = "0 0 25px #ff1a6c, inset 0 0 2px rgba(255, 26, 108, 0.6), 0 0 15px currentColor";
-                    lilithGate.style.textShadow = "0 0 10px #ff1a6c";
+                    lilithGate.style.boxShadow = "0 0 25px #000000, inset 0 0 2px rgba(0, 0, 0, 0.6), 0 0 15px currentColor";
+                    lilithGate.style.textShadow = "0 0 10px #000000";
 
                 } else {
                     // Düğüm çakışması yoksa normal loş nadas moduna çek aga:
@@ -2389,8 +2392,8 @@ setInterval(() => {
                         lilithGate.style.boxShadow = "0 0 22px #ff5500, inset 0 0 0px rgba(255, 85, 0, 0.7)";
                     } else {
                         lilithGate.style.setProperty("color", "#ff1a6c", "important"); 
-                        lilithGate.style.setProperty("border-color", "#ff5503", "important");
-                        lilithGate.style.boxShadow = "0 0 22px #333333, inset 0 0 10px rgba(255, 26, 108, 0.5)";
+                        lilithGate.style.setProperty("border-color", "#222222", "important");
+                        lilithGate.style.boxShadow = "0 0 22px #333333, inset 0 0 10px rgba(0, 26, 0, 0.5)";
                     }
                     
                     lilithGate.style.fontWeight = "bold";
@@ -2405,8 +2408,8 @@ setInterval(() => {
                         titleSpan = document.createElement('div');
                         titleSpan.className = 'lilith-core-title';
                         titleSpan.style.cssText = `
-                            position:absolute;  top:8px;transform:translateX(20%); align-items: center !important; gap: 14px !important;
-                            font-size: 13px !important; color: inherit !important; font-family: monospace !important; font-weight: bold !important;
+                            position:absolute;  top:8px;transform:translateX(20%); align-items: center !important; gap: 16px !important;
+                            font-size: 12px !important; color: inherit !important; font-family: monospace !important; font-weight: bold !important;
                             white-space: nowrap !important; z-index: 100000 !important; width: 100% !important; height: 100% !important;
                         `;
                         lilithGate.appendChild(titleSpan);
@@ -2417,7 +2420,7 @@ setInterval(() => {
                     let safeSymbol = lilithSymbol ? lilithSymbol : "🖤";
                     let finalLilithIcon = isSunShadowed ?  "☉ ⚸": "⚸" ;
 
-                    finalLilithIcon = "⚸"
+                    finalLilithIcon = " ⚸ "
                     
                     titleSpan.innerHTML = `
                         
@@ -2515,8 +2518,8 @@ if (monaElement && salvadorElement) {
         salvadorZIndex = "1";
     }
     // 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
-    else if (sunRoom64 >= 24 && sunRoom64 <= 39) {
-        let progress = (sunRoom64 - 24) / (39 - 24);
+    else if (sunRoom64 >= 24 && sunRoom64 <= 44) {
+        let progress = (sunRoom64 - 24) / (44 - 24);
         
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
@@ -2543,7 +2546,7 @@ if (monaElement && salvadorElement) {
         salvadorZIndex = "1";
     }
     // 🎯 3. VİTES [40 - 50. ODALAR]: %100 Kararma Vakti! (Astronomical Twilight & MIDNIGHT Sırrı)
-    else if (sunRoom64 >= 40 && sunRoom64 <= 50) {
+    else if (sunRoom64 >= 44 && sunRoom64 <= 50) {
 
         let progress = (sunRoom64 - 40) / (48 - 24);
 
@@ -2737,6 +2740,7 @@ if (metatronIframe && metatronIframe.contentWindow) {
 },  CONFIG.PULSE_INTERVAL);
 
 
+// const dynamicZodiacSymbols = ["♈︎", "♉︎", "♊︎", "♋︎", "♌︎", "♍︎", "♎︎", "♏︎", "♐︎", "♑︎", "♒︎", "♓︎"];
 // Burçların hem renk kodları hem de saf piktogram glifleri
 const wiccaGlifMatrix = [
     { name: "Koç",     symbol: "♈", color: "#ff3300" }, 
@@ -3039,10 +3043,10 @@ try {
     }
 
     // ⚡ [İÇERİK ENJEKSİYON KATMANI]: Kutuların içindeki semboller ve burçlar kendi öz element renklerine kilitlendi aga!
-    let fireInside  = `<div style="color:#ff1a1a; text-shadow:0 0 8px #ff1a1a; font-weight:bold;">${sunSymbolLive} ${sunNameLive}</div>`;
-    let airInside   = `<div style="color:#00ffff; text-shadow:0 0 8px #00ffff; font-weight:bold; ${currentActiveElement !== 'air' ? 'opacity:0.4;' : ''}">${lilithSymbolLive} ${lilithNameLive}</div>`;
-    let earthInside = `<div style="color:#e6b800; text-shadow:0 0 8px #e6b800; font-weight:bold; ${currentActiveElement !== 'earth' ? 'opacity:0.4;' : ''}">${yellowSymbolLive} ${yellowNameLive}</div>`;
-    let waterInside = `<div style="color:#ca5ca0; text-shadow:0 0 8px #ca5ca0; font-weight:bold; ${currentActiveElement !== 'water' ? 'opacity:0.4;' : ''}">${purpleSymbolLive} ${purpleNameLive}</div>`;
+    let fireInside  = `<div style="color:#ff1a1a; text-shadow:0 0 8px #ff1a1a; font-weight:bold;"> ${sunNameLive}</div>`;
+    let airInside   = `<div style="color:#00ffff; text-shadow:0 0 8px #00ffff; font-weight:bold; ${currentActiveElement !== 'air' ? 'opacity:0.4;' : ''}"> ${lilithNameLive}</div>`;
+    let earthInside = `<div style="color:#e6b800; text-shadow:0 0 8px #e6b800; font-weight:bold; ${currentActiveElement !== 'earth' ? 'opacity:0.4;' : ''}"> ${yellowNameLive}</div>`;
+    let waterInside = `<div style="color:#ca5ca0; text-shadow:0 0 8px #ca5ca0; font-weight:bold; ${currentActiveElement !== 'water' ? 'opacity:0.4;' : ''}"> ${purpleNameLive}</div>`;
 
     // 📐 [HAÇ DÜZLEM HİZALAMASI]: Aşağıda yaptığın (`barPos1 - barPos3 - barPos2 - barPos4 - barPos5`) 
     // sıralamasıyla içerideki neon renk yuvaları milimetrik olarak eşleştirildi aga!
@@ -3560,33 +3564,6 @@ function getActiveLilithPhase(room64) {
 // =========================================================================
 
 const panelElement = document.getElementById('csf-status-display') || document.querySelector('.csf-info-panel');
-
-/*
-if (panelElement) {
-    // 🛡️ DOLUNAY SAVUNMA CAMI: Arkada Mona Lisa ne kadar parlarsa parlasın yazıyı kabak gibi okutur
-    panelElement.style.background = "rgba(10, 10, 14, 0.82)";
-    panelElement.style.backdropFilter = "blur(12px)";
-    panelElement.style.webkitBackdropFilter = "blur(12px)";
-    panelElement.style.border = "1px solid rgba(0, 255, 170, 0.3)";
-    panelElement.style.borderRadius = "8px";
-    panelElement.style.padding = "14px";
-    panelElement.style.boxShadow = "0 8px 32px rgba(0, 0, 0, 0.6)";
-
-    // Eğer kullanıcı zamanı büküp kalbin elektrik patlama odasına (51) geldiyse:
-    if (sunRoom64 === 51) {
-        panelElement.innerHTML = `
-            <div style="color: #00ffaa; font-weight: bold; font-size: 1.1em; border-bottom: 1px solid rgba(0,255,170,0.3); padding-bottom: 5px; margin-bottom: 8px;">
-                🫀 HEKSAGRAM 51: SA DÜĞÜMÜ AKSİYON POTANSİYELİ
-            </div>
-            <div style="color: #ffffff; font-size: 0.95em; line-height: 1.4;">
-                <span style="color: #ffaa00; font-weight: bold;">[BİYOLOJİK MOTOR]:</span> Gök Gürültüsü frekansı devrede. Sağ kulakçıktaki <strong>Sinoatriyal (SA) Düğüm</strong> ilk elektrik şokunu çaktı! <br>
-                <span style="color: #00ffff; font-weight: bold;">[ANATOMİK ETKİ]:</span> Çift Girdap (Double Vortex) mekanik sistolü başlattı. Kalp kası uyanış fazında. <br>
-                <span style="color: #ff0055; font-weight: bold;">[MAJİKAL EŞİK]:</span> Derin Yin uykusundan ani aksiyon potansiyeline geçiş. Matris uyanıyor.
-            </div>
-        `;
-    }
-}
-*/
 
 // =========================================================================
 // 🫀 ROOM 51: SINOATRIAL NODE AUTOMATICITY & FUNNY CURRENT ($I_f$) SHIELD
@@ -4412,135 +4389,6 @@ function getDynamicCosmicAge(date) {
 
 
 // =========================================================================
-// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI (MÜHÜRLÜ - V2)
-// =========================================================================
-window.setWiccaMode = function(mode) {
-    // 🎯 HATA ENGELLEME: Eğer arayüzden 'SAAT' gelirse onu otomatik 'ODA' moduna 
-    // veya tam tersine eşitleyerek arka plandaki string çakışmasını infaz ediyoruz aga!
-    let targetMode = mode.toUpperCase();
-    if (targetMode === 'SAAT') targetMode = 'ODA';
-    
-    window.wiccaTimeMode = targetMode; 
-    
-    // Tüm butonların siberpunk ışıklarını söndürüp pasife çekme mantığı
-    // HTML'deki id'lerin 'mode-btn-oda' veya 'mode-btn-saat' ihtimallerini tek parça tarıyoruz:
-    const modes = ['SAAT', 'ODA', 'GÜN', 'HAFTA', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
-    modes.forEach(m => {
-        const btn = document.getElementById(`mode-btn-${m.toLowerCase()}`);
-        if (btn) {
-            btn.style.background = '#0a0a0a'; 
-            btn.style.color = '#444'; 
-            btn.style.border = '1px solid #222'; 
-            btn.style.boxShadow = 'none';
-        }
-    });
-    
-    // Aktif edilen zaman vitesinin butonunu mor neon ışıkla patlatıyoruz aga!
-    // Hem 'saat' hem 'oda' ID ihtimallerini eş zamanlı yakalıyoruz:
-    let activeId = mode.toLowerCase();
-    let activeBtn = document.getElementById(`mode-btn-${activeId}`);
-    
-    // Eğer 'oda' id'li buton bulunamazsa 'saat' id'li butona ışık ver:
-    if (!activeBtn && activeId === 'oda') activeBtn = document.getElementById('mode-btn-saat');
-    if (!activeBtn && activeId === 'saat') activeBtn = document.getElementById('mode-btn-oda');
-
-    if (activeBtn) {
-        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)'; 
-        activeBtn.style.color = '#fff'; 
-        activeBtn.style.border = '1px solid #7a00ff'; 
-        activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
-    }
-    console.log(`Wicca OS Zaman Vitesi Değiştirildi: [${targetMode}]`);
-};
-// =========================================================================
-// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ (MÜHÜR V20 - SAF SENKRON MOTOR)
-// =========================================================================
-window.bendWiccaTime = function(direction) {
-    
-    // 🎯 [MUTLAK SIFIR NOKTASI - NOW ÇAPASI]
-    if (direction === 'NOW') {
-        window.isTimeBended = false; // Bayrak indi: Canlı akış serbest!
-        window.wiccaTimeOffsetMinutes = 0; 
-        window.timeOffset = 0; // Ay evre motoru zaman bükme milisaniyesi sıfırlandı
-        window.now = new Date(); 
-        window.wiccaCurrentAxisDate = window.now;
-        
-        // Canlı odadan Sabbat indeksini türet
-        let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
-        window.currentCalculatedRoom = currentRoomSafe;
-        window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
-
-        if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
-        console.log("⚡ Kuantum Çapası Tetiklendi: Gerçek Canlı Zamana Dönüldü!");
-        return; 
-    }
-
-    // 🛡️ BAYRAK ÇEKİLDİ: Arkadaki tüm sirkadiyen motorlar bu saniyede donacak!
-    window.isTimeBended = true; 
-    
-    // Giriş odasını mutlak korumalı global hafıza hücresinden çekiyoruz aga
-    if (typeof window.currentCalculatedRoom === 'undefined' || window.currentCalculatedRoom === null) {
-        window.currentCalculatedRoom = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
-    }
-    
-    let currentRoom = window.currentCalculatedRoom;
-    let forcedRoom = currentRoom;
-
-    // Vites kontrolünü normalize et aga
-    let mode = window.wiccaTimeMode ? window.wiccaTimeMode.toUpperCase() : 'ODA';
-    if (mode === 'SAAT') mode = 'ODA';
-
-    // ⏳ Milisaniye seviyesinde gerçek zaman kayma çarpanı (Ay evresini dondurmayan asıl mil!)
-    if (typeof window.timeOffset === 'undefined') { window.timeOffset = 0; }
-
-    // 🎯 SADECE SAYISAL AKIŞ MATRİSİ 
-    if (mode === 'ODA') {
-        let kalan = currentRoom % 8;
-
-        if (direction === 'FUTURE') {
-            forcedRoom = currentRoom + (kalan === 0 ? 8 : (8 - kalan)); 
-            window.timeOffset = window.timeOffset + (3 * 3600 * 1000); // Oda modunda 3 saat ileri sar
-        } 
-        else if (direction === 'PAST') {
-            forcedRoom = currentRoom - (kalan === 0 ? 8 : kalan);
-            window.timeOffset = window.timeOffset - (3 * 3600 * 1000); // Oda modunda 3 saat geri sar
-        }
-        
-        forcedRoom = (forcedRoom + 64) % 64;
-    } else {
-        // GÜN, HAFTA, AY modları için sarsılmaz makro blok adımları:
-        let delta = (mode === 'GÜN') ? 2 : (mode === 'HAFTA' ? 3 : 4);
-        
-        // Zamanı gerçek gün adımlarıyla (24 saatlik bloklar halinde) kaydırıp Ay evresini özgürleştiriyoruz aga!
-        let milisaniyeGunCarpani = 24 * 60 * 60 * 1000;
-        if (direction === 'FUTURE') {
-            window.timeOffset = window.timeOffset + (delta * milisaniyeGunCarpani);
-        } else if (direction === 'PAST') {
-            window.timeOffset = window.timeOffset - (delta * milisaniyeGunCarpani);
-        }
-
-        let idx = (Math.floor(currentRoom / 8) + (direction === 'FUTURE' ? delta : -delta + 8)) % 8;
-        forcedRoom = idx * 8;
-    }
-
-    // 🎯 [MUTLAK KİLİT]: Değerleri senkron olarak anında hafızaya çiviliyoruz!
-    window.currentCalculatedRoom = forcedRoom;
-    if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
-    if (typeof currentRoomSafe !== 'undefined') { currentRoomSafe = forcedRoom; }
-    window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
-
-    // Astronomik kütüphanelerin ve Ay evresinin donmaması için sanal zaman havuzunu gerçek kaymayla eşitliyoruz:
-    const baseDate = new Date();
-    window.now = new Date(baseDate.getTime() + window.timeOffset);
-    window.wiccaCurrentAxisDate = window.now;
-    window.wiccaTimeOffsetMinutes = Math.floor(window.timeOffset / (60 * 1000));
-
-    console.log(`🔮 [MÜHÜR V20] Oda Tam 8'in Katına Kilitlendi: ${forcedRoom} | Gerçek Zaman Kayması: ${Math.round(window.timeOffset / (3600 * 1000))} saat`);
-
-    // Ekranı gecikmesiz, anında senkron olarak çizdir aga fırlat!
-    if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
-};
-// =========================================================================
 // 🧠 WICCA OS: LILITH & SELENE TERS SİNÜS DALGASI SÜRÜCÜ MOTORU
 // =========================================================================
 
@@ -4595,6 +4443,8 @@ function updateLunisolarMatrix() {
         cosmicStatus.innerHTML = `🪐 WICCA_OS://SYS_WAVE_LOCK -> SELENE_VAL: ${seleneWave.toFixed(4)} | LILITH_ANTI_VAL: ${lilithWave.toFixed(4)}`;
     }
 }
+
+//updateLunisolarMatrix()
 
 // =========================================================================
 // 🧠 WICCA OS: METATRON PARASEMPATİK LUNAR NODES SÜRÜCÜ ALGORİTMASI
@@ -4656,6 +4506,8 @@ function updateMetatronLunarNodes() {
         terminalBody.scrollTop = terminalBody.scrollHeight;
     }
 }
+
+//updateMetatronLunarNodes()
 // =========================================================================
 // 🪐 13 MOON MAYA TIME ENGINE [DECENTRALIZED_GALACTIC_CALIBRATION]
 // =========================================================================
@@ -4676,7 +4528,7 @@ const MAYA_MOONS = [
     "Cosmic Moon (Kaplumbağa) 🐢"    // 27 Haziran - 24 Temmuz
 ];
 
-const hesapla13MoonMayaPhase = (targetDate = new Date()) => {
+const Maya13MoonPhase = (targetDate = new Date()) => {
     let year = targetDate.getFullYear();
     
     // O yılın Maya Yıl Başlangıcı (26 Temmuz)
@@ -4715,7 +4567,7 @@ const hesapla13MoonMayaPhase = (targetDate = new Date()) => {
 
 // Açılışta ve zaman büküldüğünde hemen güncellensin aga
 document.addEventListener("DOMContentLoaded", () => {
-    hesapla13MoonMayaPhase(window.wiccaCurrentAxisDate || new Date());
+    Maya13MoonPhase(window.wiccaCurrentAxisDate || new Date());
 });
 
 
@@ -4723,7 +4575,7 @@ document.addEventListener("DOMContentLoaded", () => {
 // 🪐 WICCA ECLIPSE ENGINE [TUTULMA MATRIX ALARMI]
 // =========================================================================
 
-const kontrolEtWiccaTutulma = () => {
+const eclipsecheck = () => {
     // 1. Aktif odaları ve düğüm konumlarını çekiyoruz aga
     let currentSunRoom = window.sunRoom64 || 0;
     let currentMoonRoom = window.safeActiveRoom || 0;
@@ -4895,6 +4747,7 @@ const hesaplaWiccaAyDugumleri = (targetDate = new Date()) => {
 document.addEventListener("DOMContentLoaded", () => {
     hesaplaWiccaAyDugumleri(window.wiccaCurrentAxisDate || new Date());
 });
+
 
 
 // =========================================================================
@@ -5581,6 +5434,141 @@ function appendPlanetToSlot(targetId, htmlContent) {
         slot.style.opacity = "1.0";
     }
 }
+
+
+
+
+// =========================================================================
+// 🎛️ VİTES BUTONLARINI AYDINLATAN SAF REAKTİF PANEL KALKANI (MÜHÜRLÜ - V2)
+// =========================================================================
+window.setWiccaMode = function(mode) {
+    // 🎯 HATA ENGELLEME: Eğer arayüzden 'SAAT' gelirse onu otomatik 'ODA' moduna 
+    // veya tam tersine eşitleyerek arka plandaki string çakışmasını infaz ediyoruz aga!
+    let targetMode = mode.toUpperCase();
+    if (targetMode === 'SAAT') targetMode = 'ODA';
+    
+    window.wiccaTimeMode = targetMode; 
+    
+    // Tüm butonların siberpunk ışıklarını söndürüp pasife çekme mantığı
+    // HTML'deki id'lerin 'mode-btn-oda' veya 'mode-btn-saat' ihtimallerini tek parça tarıyoruz:
+    const modes = ['SAAT', 'ODA', 'GÜN', 'HAFTA', 'AY', 'VENUS8', 'SATURN79', 'KELDANI790'];
+    modes.forEach(m => {
+        const btn = document.getElementById(`mode-btn-${m.toLowerCase()}`);
+        if (btn) {
+            btn.style.background = '#0a0a0a'; 
+            btn.style.color = '#444'; 
+            btn.style.border = '1px solid #222'; 
+            btn.style.boxShadow = 'none';
+        }
+    });
+    
+    // Aktif edilen zaman vitesinin butonunu mor neon ışıkla patlatıyoruz aga!
+    // Hem 'saat' hem 'oda' ID ihtimallerini eş zamanlı yakalıyoruz:
+    let activeId = mode.toLowerCase();
+    let activeBtn = document.getElementById(`mode-btn-${activeId}`);
+    
+    // Eğer 'oda' id'li buton bulunamazsa 'saat' id'li butona ışık ver:
+    if (!activeBtn && activeId === 'oda') activeBtn = document.getElementById('mode-btn-saat');
+    if (!activeBtn && activeId === 'saat') activeBtn = document.getElementById('mode-btn-oda');
+
+    if (activeBtn) {
+        activeBtn.style.background = 'rgba(122, 0, 255, 0.15)'; 
+        activeBtn.style.color = '#fff'; 
+        activeBtn.style.border = '1px solid #7a00ff'; 
+        activeBtn.style.boxShadow = '0 0 10px rgba(122, 0, 255, 0.35)';
+    }
+    console.log(`Wicca OS Zaman Vitesi Değiştirildi: [${targetMode}]`);
+};
+// =========================================================================
+// 🚀 WICCA DASHBOARD: KOZMİK ZAMAN BÜKÜCÜ (MÜHÜR V20 - SAF SENKRON MOTOR)
+// =========================================================================
+window.bendWiccaTime = function(direction) {
+    
+    // 🎯 [MUTLAK SIFIR NOKTASI - NOW ÇAPASI]
+    if (direction === 'NOW') {
+        window.isTimeBended = false; // Bayrak indi: Canlı akış serbest!
+        window.wiccaTimeOffsetMinutes = 0; 
+        window.timeOffset = 0; // Ay evre motoru zaman bükme milisaniyesi sıfırlandı
+        window.now = new Date(); 
+        window.wiccaCurrentAxisDate = window.now;
+        
+        // Canlı odadan Sabbat indeksini türet
+        let currentRoomSafe = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
+        window.currentCalculatedRoom = currentRoomSafe;
+        window.wiccaSabbatIndex = Math.floor(currentRoomSafe / 8) % 8;
+
+        if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
+        console.log("⚡ Kuantum Çapası Tetiklendi: Gerçek Canlı Zamana Dönüldü!");
+        return; 
+    }
+
+    // 🛡️ BAYRAK ÇEKİLDİ: Arkadaki tüm sirkadiyen motorlar bu saniyede donacak!
+    window.isTimeBended = true; 
+    
+    // Giriş odasını mutlak korumalı global hafıza hücresinden çekiyoruz aga
+    if (typeof window.currentCalculatedRoom === 'undefined' || window.currentCalculatedRoom === null) {
+        window.currentCalculatedRoom = typeof sunRoom64 !== 'undefined' ? sunRoom64 : 0;
+    }
+    
+    let currentRoom = window.currentCalculatedRoom;
+    let forcedRoom = currentRoom;
+
+    // Vites kontrolünü normalize et aga
+    let mode = window.wiccaTimeMode ? window.wiccaTimeMode.toUpperCase() : 'ODA';
+    if (mode === 'SAAT') mode = 'ODA';
+
+    // ⏳ Milisaniye seviyesinde gerçek zaman kayma çarpanı (Ay evresini dondurmayan asıl mil!)
+    if (typeof window.timeOffset === 'undefined') { window.timeOffset = 0; }
+
+    // 🎯 SADECE SAYISAL AKIŞ MATRİSİ 
+    if (mode === 'ODA') {
+        let kalan = currentRoom % 8;
+
+        if (direction === 'FUTURE') {
+            forcedRoom = currentRoom + (kalan === 0 ? 8 : (8 - kalan)); 
+            window.timeOffset = window.timeOffset + (3 * 3600 * 1000); // Oda modunda 3 saat ileri sar
+        } 
+        else if (direction === 'PAST') {
+            forcedRoom = currentRoom - (kalan === 0 ? 8 : kalan);
+            window.timeOffset = window.timeOffset - (3 * 3600 * 1000); // Oda modunda 3 saat geri sar
+        }
+        
+        forcedRoom = (forcedRoom + 64) % 64;
+    } else {
+        // GÜN, HAFTA, AY modları için sarsılmaz makro blok adımları:
+        let delta = (mode === 'GÜN') ? 2 : (mode === 'HAFTA' ? 3 : 4);
+        
+        // Zamanı gerçek gün adımlarıyla (24 saatlik bloklar halinde) kaydırıp Ay evresini özgürleştiriyoruz aga!
+        let milisaniyeGunCarpani = 24 * 60 * 60 * 1000;
+        if (direction === 'FUTURE') {
+            window.timeOffset = window.timeOffset + (delta * milisaniyeGunCarpani);
+        } else if (direction === 'PAST') {
+            window.timeOffset = window.timeOffset - (delta * milisaniyeGunCarpani);
+        }
+
+        let idx = (Math.floor(currentRoom / 8) + (direction === 'FUTURE' ? delta : -delta + 8)) % 8;
+        forcedRoom = idx * 8;
+    }
+
+    // 🎯 [MUTLAK KİLİT]: Değerleri senkron olarak anında hafızaya çiviliyoruz!
+    window.currentCalculatedRoom = forcedRoom;
+    if (typeof sunRoom64 !== 'undefined') { sunRoom64 = forcedRoom; }
+    if (typeof currentRoomSafe !== 'undefined') { currentRoomSafe = forcedRoom; }
+    window.wiccaSabbatIndex = Math.floor(forcedRoom / 8) % 8;
+
+    // Astronomik kütüphanelerin ve Ay evresinin donmaması için sanal zaman havuzunu gerçek kaymayla eşitliyoruz:
+    const baseDate = new Date();
+    window.now = new Date(baseDate.getTime() + window.timeOffset);
+    window.wiccaCurrentAxisDate = window.now;
+    window.wiccaTimeOffsetMinutes = Math.floor(window.timeOffset / (60 * 1000));
+
+    console.log(`🔮 [MÜHÜR V20] Oda Tam 8'in Katına Kilitlendi: ${forcedRoom} | Gerçek Zaman Kayması: ${Math.round(window.timeOffset / (3600 * 1000))} saat`);
+
+    // Ekranı gecikmesiz, anında senkron olarak çizdir aga fırlat!
+    if (typeof updateWiccaDock === 'function') { updateWiccaDock(); }
+};
+
+
 // =========================================================================
 // 🧠 WICCA OS: DIAGNOSTICS TERMINAL LOG AKIŞ MOTORU [FOUR_HORSEMEN_V100]
 // =========================================================================
