@@ -2363,25 +2363,33 @@ setInterval(() => {
         }
 
         // ⚪ SELENE (Beyaz Ay): Her zaman asil SAF AY GÜMÜŞÜ / İNCİ BEYAZI!
-     // ⚪ SELENE (Beyaz Ay): Ters çalışan mantığı düzeltilmiş, sadece Selene kapısını asilce parlatan kalkan
+    
+     // ⚪ SELENE (Beyaz Ay): Dolunaya yaklaştıkça kontrollü ve asil parlayan siber glow
         if (seleneGate && !isNewMoonPhase) {
             let moonPercentSafe = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
+
+            // 🔍 MOON LIVE DİNAMİK VERİ KONTROL LOGU
+console.log("🌙 [MOON LIVE DEBUG]:", {
+    "Object Var mı?": typeof moonLive !== 'undefined' && moonLive !== null,
+    "Yüzde (percent):": moonLive ? moonLive.percent : "Yok",
+    "Ay Yaşı (age):": moonLive ? moonLive.age : "Yok",
+    "Ham Obje: ArcGIS/Live Verisi": moonLive
+});
             
-            // 🧹 Eski ikon kalıntılarını temizle
+            // Eski ikon kalıntılarını temizle
             let existingLunar = seleneGate.querySelectorAll('.lunar-cross-icon-siber, .lunar-zodiac-icon-siber');
             existingLunar.forEach(el => el.remove());
 
             seleneGate.style.setProperty("z-index", "9999", "important");
-            seleneGate.style.setProperty("opacity", "0.95", "important"); // Diğer aktif kapılarla aynı opaklık
-            seleneGate.style.fontWeight = "bold";
+            seleneGate.style.setProperty("opacity", "1.0", "important");
+            seleneGate.style.fontWeight = "normal";
             
-            seleneGate.style.setProperty("background", "#000000", "important");
-            seleneGate.style.setProperty("background-color", "#000000", "important");
             seleneGate.style.setProperty("color", "#e2e8f0", "important");
             seleneGate.style.setProperty("border-color", "#e2e8f0", "important");
             
-            // 🎯 Sabit, patlama yapmayan siber glow (Diğer Node kapılarıyla birebir aynı mantık)
-            seleneGate.style.boxShadow = `0 0 15px rgba(226, 232, 240, 0.8), inset 0 0 8px rgba(226, 232, 240, 0.4)`;
+            // 🎯 KONTROLLÜ PARLAMA: Dolunaya (%100'e) gittikçe glow 6px'den başlar max 14px'e çıkar (Asla patlama yapmaz!)
+let glowSize = 4 + (moonPercentSafe / 100) * 16; 
+            seleneGate.style.boxShadow = `0 0 ${glowSize}px rgba(226, 232, 240, 0.9), inset 0 0 8px rgba(226, 232, 240, 0.5)`;
             seleneGate.style.textShadow = "0 0 6px #e2e8f0";
             
             let sZodTxt = "ૐ";
