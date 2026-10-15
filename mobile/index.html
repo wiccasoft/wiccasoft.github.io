@@ -2143,7 +2143,7 @@ setInterval(() => {
         let isFirstQuarter = (moonAge >= 6.89 && moonAge < 8.39) || (moonPercent >= 38 && moonPercent <= 62);
         
         // Son Dördün hassas aralığı (~%73 - %77 veya gün bazlı)
-        let isLastQuarter = (moonAge >= 21.14 && moonAge < 22.64) || (moonPercent >= 73 && moonPercent <= 77);
+        let isLastQuarter = (moonAge >= 21.14 && moonAge < 22.64) || (moonPercent >= 72 && moonPercent <= 78);
 
         // 🔍 Konsol Logu ile anlık takip (İstersen log atarak da kontrol edebiliriz)
         console.log(`🎯 [QUARTER CHECK]: Yüzde: %${moonPercent}, FirstQ: ${isFirstQuarter}, LastQ: ${isLastQuarter}`);
@@ -2157,7 +2157,7 @@ setInterval(() => {
 
         // Sadece kendi çeyrek evresinde VEYA Lilith çakıştığında ⚸ olur, evre bitince orijinal Node'a (☊ / ☋) döner
         let northIcon = (isFirstQuarter || isLilithOverlapNorth) ? "⚸" : "☊"; 
-        let southIcon = (isLastQuarter || isLilithOverlapSouth) ? "⚸" : "☋";
+        let southIcon = (isLastQuarter || isLilithOverlapSouth) ? "☋" : "☋";
 
         // 💜 KUZEY DÜĞÜMÜ (☊): Mat Siyah Background + Orijinal Renkli Bagua + Milim Ortalanmış İkonlar
         if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
@@ -2936,7 +2936,7 @@ if (typeof moonLive !== 'undefined' && moonLive && activeMesaTarget) {
         seasonalMultiplier = 1.0 + (lilithForce * 0.15); // Sonbaharda ekinoks dengesi pürüzsüz geçiş yapar
     }
 
-    // 2. DİNAMİK NEON ÇİZGİ KALKANI (border-width manipülasyonu)
+    // DİNAMİK NEON ÇİZGİ KALKANI (border-width manipülasyonu)
     // Metatron kapılarının neon çember çizgilerinin kalınlıklarını bu iki aks dinamik büküyor aga!
 localGateMapping.forEach(gate => {
         if (!gate) return;
@@ -4329,22 +4329,6 @@ if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
     } else {
         seasonalMultiplier = 1.0 + (lilithForce * 0.15); // Sonbaharda ekinoks dengesi pürüzsüz geçiş yapar
     }
-
-    // 2. DİNAMİK NEON ÇİZGİ KALKANI (border-width manipülasyonu)
-    // Metatron kapılarının neon çember çizgilerinin kalınlıklarını bu iki aks dinamik büküyor aga!
-localGateMapping.forEach(gate => {
-        if (!gate) return;
-        const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
-        
-        if (isCrossFixed) {
-            // 🎯 ÇÖZÜM: filter yerine doğrudan box-shadow ve arka planı ezerek parlamayı tamamen söküyoruz
-            gate.style.setProperty("box-shadow", "0 0 4px rgba(255, 255, 255, 0.2)", "important");
-            gate.style.setProperty("filter", "none", "important");
-            gate.style.borderWidth = "1px";
-            gate.style.animation = "none"; // Animasyonu da kapatıp statik, sakin bir konuma alalım
-            gate.style.transition = "all 0.5s ease-in-out";
-        }
-    });
 
     // 🌀 Merkezdeki 3D Iframe Katmanının Rezonans Hızını ve Ölçeğini Aksa Mühürlüyoruz:
     const metatronIframe = document.querySelector('.metatron-iframe') || document.getElementById('threejs-layer');
