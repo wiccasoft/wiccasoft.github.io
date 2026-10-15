@@ -618,6 +618,16 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
         color: rgba(255, 255, 255, 0.8) !important;
     }
 
+.lunar-cross-icon-siber, .lunar-zodiac-icon-siber {
+        font-size: 11px !important; /* Mobilde fontu hafifçe küçülterek sığdırır */
+        letter-spacing: -0.5px !important; /* Harfleri birbirine yaklaştırır */
+    }
+    
+    /* Eğer iki ikon aynı kutuda yan yana gelirse binişmeyi önler */
+    .element-corner {
+        font-size: 0.75rem !important;
+        padding: 0 4px !important;
+    }
 
    
 }
@@ -1998,27 +2008,43 @@ setInterval(() => {
         //window.currentNorthNodeIndex = northNodeRoomIndex;
         //window.currentSouthNodeIndex = southNodeRoomIndex;
 
+// 🧹 GATE MAPPING TEMİZLİK FİLTRESİ (Her render öncesi eski ikonları ve kalıntıları tamamen imha eder)
         gateMapping.forEach((gate, idx) => {
             if (!gate) return;
+            
+            // Eski tüm siber etiketleri ve hayalet ikonları temizle
             let oldNodeLabel = gate.querySelector('.lunar-cross-icon-siber');
             if (oldNodeLabel) oldNodeLabel.remove();
+            
             let oldZodiacLabel = gate.querySelector('.lunar-zodiac-icon-siber');
             if (oldZodiacLabel) oldZodiacLabel.remove();
+
+            let oldLilithLabel = gate.querySelector('.lilith-core-title');
+            if (oldLilithLabel) oldLilithLabel.remove();
+
+            let oldHybridLabel = gate.querySelector('.lilith-hybrid-icon');
+            if (oldHybridLabel) oldHybridLabel.remove();
             
+            // Eğer kapı aktif değilse arka plan ve box-shadow kalıntılarını da sıfırla
             if (idx !== northNodeRoomIndex && idx !== southNodeRoomIndex) {
                 gate.style.removeProperty("background");
                 gate.style.removeProperty("background-color");
+                gate.style.removeProperty("box-shadow");
+                gate.style.removeProperty("text-shadow");
             }
-
-
         });
 
 
-        // =========================================================================
-        //-------- ACTIVE SUN GATE (ALPHA OMEGA )---------------------------------//
-        // α • greek small letter alpha Ω - greek capital letter omega
-        // =========================================================================
 
+            // =========================================================================
+            // -------- ACTIVE SUN GATE (ALPHA OMEGA) ---------------------------------//
+            // =========================================================================
+
+            // Tepe kısımda sabit atamak yerine, o anki moonLive verisine göre dinamik belirliyoruz:
+            let isCurrentNewMoon = (typeof moonLive !== 'undefined' && moonLive && moonLive.percent <= 15);
+
+            window.alphaSymbol = isCurrentNewMoon ? "🖤" : "α"; 
+            window.omegaSymbol = isCurrentNewMoon ? "⚸" : "Ω";
        
             sunEastRoomIndex = (sirkadiyenButonIndex) % 8; // ☊ Kuzey Düğüm (+2 Vorteks Vitesi)
             sunWestRoomIndex = (sirkadiyenButonIndex + 4) % 8; // ☋ Güney Düğüm (+6 Vorteks Vitesi)
@@ -2054,11 +2080,14 @@ setInterval(() => {
             let nZodEl =  sunEastGate.querySelector('.zodiac-symbol, .zodiac-icon') || sunEastGate.querySelector('.zodiac-name');
             let nZodTxt = SunGateSymbol //dynamicZodiacSymbols[liveSunZodiacIdx]//staticZodiacNames[northNodeRoomIndex]; //northNodeRoomIndex//nZodEl ? nZodEl.textContent.trim().slice(0, 2) : '♊';
 
+            // Kalp simgesi geldiğinde left: 2px, normalde left: 8px yapacak dinamik mesafe kalkanı:
+            let alphaLeftPos = (window.alphaSymbol === "🖤") ? "2px" : "8px";
+
             let nlabel = document.createElement('div');
             nlabel.className = 'lunar-cross-icon-siber';
-            nlabel.style.cssText = `position:absolute; top:45%; transform:translateY(-50%); left:8px; 
+            nlabel.style.cssText = `position:absolute; top:45%; transform:translateY(-50%); left:${alphaLeftPos}; 
            font-size:15px; font-weight:bold; text-shadow:none;color:#ff0000; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            nlabel.textContent = 'α';
+            nlabel.textContent = window.alphaSymbol;
             sunEastGate.appendChild(nlabel);
 
 
@@ -2071,13 +2100,13 @@ setInterval(() => {
 
 
             let sZodEl =  sunWestGate.querySelector('.zodiac-symbol, .zodiac-icon') || sunWestGate.querySelector('.zodiac-name');
-            let sZodTxt = AntiSunSymbol //staticZodiacNames[northNodeRoomIndex]; //northNodeRoomIndex//nZodEl ? nZodEl.textContent.trim().slice(0, 2) : '♊';
+            let sZodTxt = AntiSunSymbol //staticZodiacNames[northNodeRoomIndex];;
 
             let slabel = document.createElement('div');
             slabel.className = 'lunar-cross-icon-siber';
             slabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; 
             font-size:13px; font-weight:bold; text-shadow:none;color: #0066FF; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            slabel.textContent = 'Ω';
+            slabel.textContent = window.omegaSymbol;
             sunWestGate.appendChild(slabel);
 
 
@@ -2094,7 +2123,7 @@ setInterval(() => {
         let activeMoonDate = window.wiccaCurrentAxisDate || new Date();
         window.wiccaUniversalMoon = getUniversalMoonZodiac(activeMoonDate);
 
-        //console.log("🌙 WICCA UNIVERSAL MOON:", window.wiccaUniversalMoon.sign);
+        console.log("🌙 WICCA UNIVERSAL MOON:", window.wiccaUniversalMoon.sign);
   
 
         // BEYAZ AY (SELENE) POZİSYONUNA GÖRE 90° DİK TESLA VİTES KİLİDİ:
@@ -2106,7 +2135,29 @@ setInterval(() => {
             southNodeGate = gateMapping[southNodeRoomIndex];
         }
 
-    
+    // 1. Ay yaşı ve evre yüzdesine göre net çeyrek (Quarter) tespiti:
+        let moonAge = (typeof moonLive !== 'undefined' && moonLive && moonLive.age) ? parseFloat(moonLive.age) : 0;
+        let moonPercent = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
+
+        // İlk Dördün hassas aralığı (~%25 - %27 veya gün bazlı)
+        let isFirstQuarter = (moonAge >= 6.89 && moonAge < 8.39) || (moonPercent >= 38 && moonPercent <= 62);
+        
+        // Son Dördün hassas aralığı (~%73 - %77 veya gün bazlı)
+        let isLastQuarter = (moonAge >= 21.14 && moonAge < 22.64) || (moonPercent >= 73 && moonPercent <= 77);
+
+        // 🔍 Konsol Logu ile anlık takip (İstersen log atarak da kontrol edebiliriz)
+        console.log(`🎯 [QUARTER CHECK]: Yüzde: %${moonPercent}, FirstQ: ${isFirstQuarter}, LastQ: ${isLastQuarter}`);
+
+        // 2. Çakışma kontrolü ve Lilith sembolü ataması:
+        let isLilithOverlapNorth = (typeof lilithIndex !== 'undefined' && northNodeRoomIndex === lilithIndex);
+        let isLilithOverlapSouth = (typeof lilithIndex !== 'undefined' && southNodeRoomIndex === lilithIndex);
+
+        //let northIcon = isFirstQuarter ? (isLilithOverlapNorth ? "⚸/🌓" : "🌓") : (isLilithOverlapNorth ? "⚸/☊" : "☊"); 
+        //let southIcon = isLastQuarter ? (isLilithOverlapSouth ? "⚸/🌗" : "🌗") : (isLilithOverlapSouth ? "⚸/☋" : "☋");
+
+        // Sadece kendi çeyrek evresinde VEYA Lilith çakıştığında ⚸ olur, evre bitince orijinal Node'a (☊ / ☋) döner
+        let northIcon = (isFirstQuarter || isLilithOverlapNorth) ? "⚸" : "☊"; 
+        let southIcon = (isLastQuarter || isLilithOverlapSouth) ? "⚸" : "☋";
 
         // 💜 KUZEY DÜĞÜMÜ (☊): Mat Siyah Background + Orijinal Renkli Bagua + Milim Ortalanmış İkonlar
         if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
@@ -2126,7 +2177,7 @@ setInterval(() => {
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
             label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; color:#ff66ff; font-size:12px; font-weight:bold; text-shadow:none; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            label.textContent = '☊';
+            label.textContent = northIcon;
             northNodeGate.appendChild(label);
 
             let zodiacLabel = document.createElement('div');
@@ -2149,7 +2200,7 @@ setInterval(() => {
             let label = document.createElement('div');
             label.className = 'lunar-cross-icon-siber';
             label.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); left:8px; font-size:13px; font-weight:normal; text-shadow:none; color:#ffdd66; z-index:99999; font-family:system-ui; pointer-events:none;`;
-            label.textContent = '☋';
+            label.textContent = southIcon;;
             southNodeGate.appendChild(label);
 
             let zodiacLabel = document.createElement('div');
@@ -2243,96 +2294,112 @@ setInterval(() => {
             seleneGate = gateMapping[seleneIndex];
         }
 
+        let isNewMoon = (typeof isNewMoonPhase !== 'undefined') ? isNewMoonPhase : (moonLive.percent === 0);
+
+        // 3. İkonları evreye göre dinamik belirleme
+        let alphaIcon = isNewMoon ? "🖤" : "α"; // Yeni Ay'da başka bir simge, normalde 'α'
+        let omegaIcon = isNewMoon ? "⚸" : "Ω"; // Yeni Ay'da başka bir simge, normalde 'Ω'
+
+        console.log("MOON AGE:"+isNewMoon)
+        console.log("Moon Percent:", moonLive.percent,  "New Moon:", isNewMoonPhase);
+
+        // Veya mevcut HTML / arayüz elemanlarına bu ikonları yansıtma:
+        window.alphaSymbol = alphaIcon;
+        window.omegaSymbol = omegaIcon;
+
         console.log("Moon Percent:", moonLive.percent, "Circadian Index:", sirkadiyenButonIndex, "Selene Index:", seleneIndex, "New Moon:", isNewMoonPhase);
         // 🔮 NEON SEÇİCİ RENKLER
 
         
-        // ☀️ SUN GATE: Kendi rengi sabit kalır, asla değişmez!
-if (sunGate) { 
-    sunGate.style.setProperty("color", "#ff5e00", "important"); 
-    sunGate.style.setProperty("border-color", "#ff5e00", "important"); 
-    sunGate.style.setProperty("opacity", "1.0", "important"); 
-    sunGate.style.boxShadow = "0 0 20px #ff5e00, inset 0 0 10px #ff5e00"; 
-    sunGate.style.fontWeight = "bold";
-}
+                // ☀️ SUN GATE: Kendi rengi sabit kalır, asla değişmez!
+        if (sunGate) { 
+            sunGate.style.setProperty("color", "#ff5e00", "important"); 
+            sunGate.style.setProperty("border-color", "#ff5e00", "important"); 
+            sunGate.style.setProperty("opacity", "1.0", "important"); 
+            sunGate.style.boxShadow = "0 0 20px #ff5e00, inset 0 0 10px #ff5e00"; 
+            sunGate.style.fontWeight = "bold";
+        }
 
-// 🌙 MOON GATE: 
-if (moonGate) {
-    moonGate.style.setProperty("color", "#00ffff", "important");
-    moonGate.style.setProperty("border-color", "#00ffff", "important");
-    moonGate.style.setProperty("opacity", "1.0", "important");
-    moonGate.style.boxShadow = "0 0 20px #00ffff, inset 0 0 10px #00ffff";
-    moonGate.style.fontWeight = "bold";
-}
+        // 🌙 MOON GATE: 
+        if (moonGate) {
+            moonGate.style.setProperty("color", "#00ffff", "important");
+            moonGate.style.setProperty("border-color", "#00ffff", "important");
+            moonGate.style.setProperty("opacity", "1.0", "important");
+            moonGate.style.boxShadow = "0 0 20px #00ffff, inset 0 0 10px #00ffff";
+            moonGate.style.fontWeight = "bold";
+        }
 
-// 💜 NORTH NODE (Rahu): Her zaman sarsılmaz KUTSAL MOR!
-if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
-    northNodeGate.style.setProperty("color", "#a855f7", "important"); 
-    northNodeGate.style.setProperty("border-color", "#a855f7", "important"); 
-    northNodeGate.style.setProperty("opacity", "0.9", "important");
-    if (northNodeRoomIndex === seleneIndex) {
-        northNodeGate.style.setProperty("border-color", "#e2e8f0", "important");
-        northNodeGate.style.boxShadow = "0 0 20px #a855f7, 0 0 10px #e2e8f0, inset 0 0 8px #a855f7";
-        northNodeGate.style.setProperty("z-index", "9997", "important");
-    } else {
-        northNodeGate.style.boxShadow = "0 0 15px #a855f7, inset 0 0 8px #a855f7";
-    }
-    northNodeGate.style.textShadow = "0 0 8px #a855f7";
-    northNodeGate.style.fontWeight = "bold";
-}
+        // 💜 NORTH NODE (Rahu): Her zaman sarsılmaz KUTSAL MOR!
+        if (northNodeGate && northNodeGate !== sunGate && northNodeGate !== moonGate) {
+            northNodeGate.style.setProperty("color", "#a855f7", "important"); 
+            northNodeGate.style.setProperty("border-color", "#a855f7", "important"); 
+            northNodeGate.style.setProperty("opacity", "0.9", "important");
+            if (northNodeRoomIndex === seleneIndex) {
+                northNodeGate.style.setProperty("border-color", "#e2e8f0", "important");
+                northNodeGate.style.boxShadow = "0 0 20px #a855f7, 0 0 10px #e2e8f0, inset 0 0 8px #a855f7";
+                northNodeGate.style.setProperty("z-index", "9997", "important");
+            } else {
+                northNodeGate.style.boxShadow = "0 0 15px #a855f7, inset 0 0 8px #a855f7";
+            }
+            northNodeGate.style.textShadow = "0 0 8px #a855f7";
+            northNodeGate.style.fontWeight = "bold";
+        }
 
-// 💛 SOUTH NODE (Ketu): Her zaman sarsılmaz CANLI YANG SARISI!
-if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
-    southNodeGate.style.setProperty("color", "#ffeb3b", "important"); 
-    southNodeGate.style.setProperty("border-color", "#ffeb3b", "important");
-    southNodeGate.style.setProperty("opacity", "1", "important");
-    
-    if (southNodeRoomIndex === seleneIndex) {
-        southNodeGate.style.setProperty("border-color", "#e2e8f0", "important");
-        southNodeGate.style.boxShadow = "0 0 20px #ffeb3b, 0 0 10px #e2e8f0, inset 0 0 8px #ffeb3b";
-        southNodeGate.style.setProperty("z-index", "9998", "important");
-    } else {
-        southNodeGate.style.boxShadow = "0 0 15px #ffeb3b, inset 0 0 8px #ffeb3b";
-    }
-    southNodeGate.style.textShadow = "0 0 8px #ffeb3b";
-    southNodeGate.style.fontWeight = "bold";
-}
+        // 💛 SOUTH NODE (Ketu): Her zaman sarsılmaz CANLI YANG SARISI!
+        if (southNodeGate && southNodeGate !== sunGate && southNodeGate !== moonGate && southNodeGate !== northNodeGate) {
+            southNodeGate.style.setProperty("color", "#ffeb3b", "important"); 
+            southNodeGate.style.setProperty("border-color", "#ffeb3b", "important");
+            southNodeGate.style.setProperty("opacity", "1", "important");
+            
+            if (southNodeRoomIndex === seleneIndex) {
+                southNodeGate.style.setProperty("border-color", "#e2e8f0", "important");
+                southNodeGate.style.boxShadow = "0 0 20px #ffeb3b, 0 0 10px #e2e8f0, inset 0 0 8px #ffeb3b";
+                southNodeGate.style.setProperty("z-index", "9998", "important");
+            } else {
+                southNodeGate.style.boxShadow = "0 0 15px #ffeb3b, inset 0 0 8px #ffeb3b";
+            }
+            southNodeGate.style.textShadow = "0 0 8px #ffeb3b";
+            southNodeGate.style.fontWeight = "bold";
+        }
 
-// ⚪ SELENE (Beyaz Ay): Her zaman asil SAF AY GÜMÜŞÜ / İNCİ BEYAZI!
-if (seleneGate && !isNewMoonPhase) {
-    let moonPercentSafe = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
-    
-    seleneGate.style.setProperty("z-index", "9999", "important");
-    seleneGate.style.setProperty("opacity", "1.0", "important");
-    seleneGate.style.fontWeight = "normal";
-    
-    seleneGate.style.setProperty("color", "#e2e8f0", "important");
-    seleneGate.style.setProperty("border-color", "#e2e8f0", "important");
-    
-    let glowSize = 20 * (moonPercentSafe / 100);
-    seleneGate.style.boxShadow = `0 0 ${glowSize}px rgba(226, 232, 240, 0.9), inset 0 0 10px rgba(226, 232, 240, 0.5)`;
-    seleneGate.style.textShadow = "0 0 0px #e2e8f0";
-    
-    let sZodTxt = "ૐ";
+        // ⚪ SELENE (Beyaz Ay): Her zaman asil SAF AY GÜMÜŞÜ / İNCİ BEYAZI!
+     // ⚪ SELENE (Beyaz Ay): Ters çalışan mantığı düzeltilmiş, sadece Selene kapısını asilce parlatan kalkan
+        if (seleneGate && !isNewMoonPhase) {
+            let moonPercentSafe = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') ? moonLive.percent : 50;
+            
+            // 🧹 Eski ikon kalıntılarını temizle
+            let existingLunar = seleneGate.querySelectorAll('.lunar-cross-icon-siber, .lunar-zodiac-icon-siber');
+            existingLunar.forEach(el => el.remove());
 
-    let existingLunar = seleneGate.querySelectorAll('.lunar-cross-icon-siber, .lunar-zodiac-icon-siber');
-    existingLunar.forEach(el => el.remove());
+            seleneGate.style.setProperty("z-index", "9999", "important");
+            seleneGate.style.setProperty("opacity", "0.95", "important"); // Diğer aktif kapılarla aynı opaklık
+            seleneGate.style.fontWeight = "bold";
+            
+            seleneGate.style.setProperty("background", "#000000", "important");
+            seleneGate.style.setProperty("background-color", "#000000", "important");
+            seleneGate.style.setProperty("color", "#e2e8f0", "important");
+            seleneGate.style.setProperty("border-color", "#e2e8f0", "important");
+            
+            // 🎯 Sabit, patlama yapmayan siber glow (Diğer Node kapılarıyla birebir aynı mantık)
+            seleneGate.style.boxShadow = `0 0 15px rgba(226, 232, 240, 0.8), inset 0 0 8px rgba(226, 232, 240, 0.4)`;
+            seleneGate.style.textShadow = "0 0 6px #e2e8f0";
+            
+            let sZodTxt = "ૐ";
 
-    let label = document.createElement('div');
-    label.className = 'lunar-cross-icon-siber';
-    label.style.cssText = `position:absolute; top:47%; transform:translateY(-50%); left:7px; 
-    color:${wiccaUniversalMoon.color}; font-size:13px; font-weight:normal; text-shadow:none; z-index:99999; font-family:system-ui; pointer-events:none;`;
-    label.textContent = wiccaUniversalMoon.sign || '☽';
-    seleneGate.appendChild(label);
+            let label = document.createElement('div');
+            label.className = 'lunar-cross-icon-siber';
+            label.style.cssText = `position:absolute; top:47%; transform:translateY(-50%); left:7px; 
+            color:${wiccaUniversalMoon.color}; font-size:13px; font-weight:normal; text-shadow:none; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            label.textContent = wiccaUniversalMoon.sign || '☽';
+            seleneGate.appendChild(label);
 
-    let moonLabel = document.createElement('div');
-    moonLabel.className = 'lunar-zodiac-icon-siber';
-    moonLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; 
-    color:#ffffff; font-size:14px; font-weight:normal; text-shadow:none; z-index:99999; font-family:system-ui; pointer-events:none;`;
-    moonLabel.textContent = sZodTxt;
-    seleneGate.appendChild(moonLabel);
-}
-
+            let moonLabel = document.createElement('div');
+            moonLabel.className = 'lunar-zodiac-icon-siber';
+            moonLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; 
+            color:#ffffff; font-size:14px; font-weight:normal; text-shadow:none; z-index:99999; font-family:system-ui; pointer-events:none;`;
+            moonLabel.textContent = sZodTxt;
+            seleneGate.appendChild(moonLabel);
+        }
 
 
 
@@ -2346,7 +2413,7 @@ if (seleneGate && !isNewMoonPhase) {
         let lilithIndex = ((rawSelene % 8) + 8) % 8;
         window.currentLilithGateIndex = lilithIndex;
         let lilithGate = gateMapping ? gateMapping[lilithIndex] : null;
-        
+
         // 1. Aktif tarih üzerinden Ay verisini çekiyoruz
         let activeMoonDate = window.wiccaCurrentAxisDate || new Date();
         let universalMoon = getUniversalMoonZodiac(activeMoonDate);
@@ -2395,55 +2462,73 @@ if (seleneGate && !isNewMoonPhase) {
                 let isNewMoon = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined' && moonLive.percent <= 15);
                 
                 // Dolunay (Full Moon) evresi kontrolü (%89 ve üzeri)
-                let isFullMoonActive = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined' && moonLive.percent >= 89);
+                let isFullMoonActive = (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined' && moonLive.percent >= 88);
 
-                // 🚨 [LILITH DETECTION]
-                // =========================================================================
+        // 🚨 [LILITH DETECTION & ACTIVE ICON RESTORATION]
                 if (isWiccaQuarterMoonActive || isFullMoonActive || window.isWiccaQuarterMoon === true) {
-                    console.warn(`🛑 [LILITH STANDBY]: %` + moonLive.percent + ` Oda No: ${lilithIndex} denetleniyor...`);
-                                    
+                    console.warn(`🛑 [LILITH ACTIVE/VISIBLE]: %` + moonLive.percent + ` Oda No: ${lilithIndex} aktif ikon gösteriliyor...`);
+                                            
                     let activeLilithKalıntı = lilithGate.querySelector('.lilith-core-title');
-
                     if (activeLilithKalıntı) {
                         activeLilithKalıntı.remove();
                     }
                     
                     let trigramElement = lilithGate.querySelector('.trigram') || lilithGate.querySelector('span');
-                  
-                // 🪐 [DÜĞÜM KORUMA VE HİBRİT REZONANS KALKANI - REVIZE V2]
-                // 12'lik zodyak odalarını 8'lik Sabbath moduna oranlayarak çakışmayı sıfırlıyoruz aga!
-                let normalizedSouthNodeIdx = southNodeRoomIndex % 8;
-                let normalizedNorthNodeIdx = northNodeRoomIndex % 8;
+                
+                    // 🪐 [DÜĞÜM KORUMA VE HİBRİT REZONANS KALKANI]
+                    let normalizedSouthNodeIdx = southNodeRoomIndex % 8;
+                    let normalizedNorthNodeIdx = northNodeRoomIndex % 8;
 
-                if (typeof southNodeRoomIndex !== 'undefined' && typeof northNodeRoomIndex !== 'undefined' && 
-                    (lilithIndex === normalizedSouthNodeIdx || lilithIndex === normalizedNorthNodeIdx)) {
-                    
-                    console.log("🔀 [NODE HYBRID ACTIVATED]: Ters sinüs dalgası kilitlendi! Çift floresan neon koruması aktif.");
+                    if (typeof southNodeRoomIndex !== 'undefined' && typeof northNodeRoomIndex !== 'undefined' && 
+                        (lilithIndex === normalizedSouthNodeIdx || lilithIndex === normalizedNorthNodeIdx)) {
+                        
+                        console.log("🔀 [NODE HYBRID ACTIVATED]: Çift floresan neon koruması aktif.");
+                        
+                        if (trigramElement) {
+                            trigramElement.style.removeProperty("display"); 
+                        }
 
-                    
-                    if (trigramElement) {
-                        trigramElement.style.removeProperty("display"); 
-                    }
+                        // Lilith ve Node çakışmasında arka planı ve neon stillerini hibrit olarak koru
+                        lilithGate.style.setProperty("z-index", "9998", "important"); 
+                        lilithGate.style.setProperty("opacity", "1.0", "important");
+                        lilithGate.style.setProperty("color", "#222222", "important"); 
+                        lilithGate.style.setProperty("border-color", "#333333", "important"); 
+                        lilithGate.style.setProperty("background", "#000000", "important");
+                        lilithGate.style.setProperty("background-color", "#000000", "important");
+                        lilithGate.style.boxShadow = "0 0 25px #000000, inset 0 0 2px rgba(0, 0, 0, 0.6), 0 0 15px currentColor";
+                        lilithGate.style.textShadow = "0 0 10px #000000";
 
-                    // Kraliçenin o asil siber pembe/kırmızı neon gücü sönmeyi kalıcı olarak infaz eder aga:
-                    lilithGate.style.setProperty("z-index", "9998", "important"); 
-                    lilithGate.style.setProperty("opacity", "1.0", "important");
-                    lilithGate.style.setProperty("color", "#222222", "important"); 
-                    lilithGate.style.setProperty("border-color", "#333333", "important"); 
-                    lilithGate.style.setProperty("background", "#000000", "important");
-                    lilithGate.style.setProperty("background-color", "#000000", "important");
-                    lilithGate.style.boxShadow = "0 0 25px #000000, inset 0 0 2px rgba(0, 0, 0, 0.6), 0 0 15px currentColor";
-                    lilithGate.style.textShadow = "0 0 10px #000000";
+                        // 🎯 HİBRİT ÇAKIŞMA ÇÖZÜCÜ: Node ve Lilith ikonlarının aynı kutuda birbirini ezmesini önleyen katman
+                        let existingHybridLabel = lilithGate.querySelector('.lilith-hybrid-icon');
+                        if (!existingHybridLabel) {
+                            let hybridLabel = document.createElement('div');
+                            hybridLabel.className = 'lilith-hybrid-icon lilith-core-title';
+                            hybridLabel.style.cssText = `position:absolute; top:30%; transform:translateY(-50%); left:8px; color:#ff66cc; font-size:11px; font-weight:bold; z-index:99999; font-family:system-ui; pointer-events:none;`;
+                            // Quarter Moon evresinde Node (☊/☋) ile Lilith (⚸/🖤) ikonunu alt alta/yan yana çakıştırmadan basar
+                            hybridLabel.textContent = ``;// ⚸${lilithSymbol}
+                            lilithGate.appendChild(hybridLabel);
+                        }
 
-                } else {
-                    // Düğüm çakışması yoksa normal loş nadas moduna çek aga:
-                    lilithGate.style.removeProperty("z-index");
-                    lilithGate.style.setProperty("opacity", "1", "important"); 
-                    if (trigramElement) {
-                        trigramElement.style.removeProperty("display"); 
+                    } else {
+                        // Quarter Moon aktifken ikonu gizlemek yerine görünür yapıp burç/sembol basıyoruz:
+                        lilithGate.style.removeProperty("z-index");
+                        lilithGate.style.setProperty("opacity", "1", "important"); 
+                        
+                        if (trigramElement) {
+                            trigramElement.style.removeProperty("display"); 
+                        }
+
+                        // 🎯 [YENİ EKLENEN İKON GÖSTERME ENJEKSİYONU]:
+                        let existingZodiacLabel = lilithGate.querySelector('.lunar-zodiac-icon-siber');
+                        if (!existingZodiacLabel && typeof targetLilithZodiac !== 'undefined') {
+                            let lilithLabel = document.createElement('div');
+                            lilithLabel.className = 'lunar-zodiac-icon-siber lilith-core-title';
+                            lilithLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; color:#ff66cc; font-size:13px; font-weight:bold; z-index:99999; font-family:system-ui; pointer-events:none;`;
+                            lilithLabel.textContent = `${lilithSymbol || ""} ${targetLilithZodiac}`;
+                            lilithGate.appendChild(lilithLabel);
+                        }
                     }
                 }
-                } 
                 // ✨ [QUARTER MOON BİTTİ - %64 VE ÜSTÜ / DİĞİT EVRELER]:
                 // =========================================================================
                 // ☀️ NORMAL ZAMANLAR: Güneş'i yutan o sinsi Lilith çakışması İNFAZ EDİLDİ!
@@ -2517,7 +2602,7 @@ if (seleneGate && !isNewMoonPhase) {
                         titleSpan.className = 'lilith-core-title';
                         titleSpan.style.cssText = `
                             position:absolute;  top:8px;transform:translateX(20%); align-items: center !important; gap: 16px !important;
-                            font-size: 14px !important; color: inherit !important; font-family: monospace !important; font-weight: bold !important;
+                            font-size: 12px !important; color: inherit !important; font-family: monospace !important; font-weight: bold !important;
                             white-space: nowrap !important; z-index: 100000 !important; width: 100% !important; height: 100% !important;
                         `;
                         lilithGate.appendChild(titleSpan);
@@ -2853,22 +2938,18 @@ if (typeof moonLive !== 'undefined' && moonLive && activeMesaTarget) {
 
     // 2. DİNAMİK NEON ÇİZGİ KALKANI (border-width manipülasyonu)
     // Metatron kapılarının neon çember çizgilerinin kalınlıklarını bu iki aks dinamik büküyor aga!
-    localGateMapping.forEach(gate => {
+localGateMapping.forEach(gate => {
         if (!gate) return;
         const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
         
         if (isCrossFixed) {
-            let dynamicGlow = 6 + (seleneForce * 12) + (lilithForce * 8);
-            let glitchFrequency = (2.5 - (seleneForce * 1.5)) * seasonalMultiplier; 
-            let dynamicBorderWidth = 2 + (seleneForce * 3); 
+            // 🎯 Sabit, düşük ve göz yormayan değerler (Şişmeyi ve patlamayı önler)
+            let dynamicGlow = 4; 
+            let glitchFrequency = 4.0; 
+            let dynamicBorderWidth = 1; 
             
-            // 🛡️ [WICCA OPTIMIZATION] Ağır transition yerine donanım ivmeli inline stil ataması
             gate.style.borderWidth = `${dynamicBorderWidth}px`;
-            
-            // CPU/GPU ezilmesin diye drop-shadow ve brightness filtrelerini birleştirdik:
-            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(${1.0 + seleneForce * 0.4})`;
-            
-            // 🎯 Animasyon frekansını tam buraya kilitliyoruz
+            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(1.0)`;
             gate.style.animation = `pulse ${glitchFrequency}s infinite ease-in-out`;
         }
     });
@@ -3420,24 +3501,21 @@ detectLocationByTimezone();
 
 
 // =========================================================================
-// ⚡ LUNAR INTEGRAL: AY EVRESİNE GÖRE SABBAT KAPILARI PARLAMA ENJEKTÖRÜ
+// ⚡ LUNAR INTEGRAL: SABBAT KAPILARI SABİT VE DENGELİ KİLOLAMA
 // =========================================================================
-// calculateMetatronMoon fonksiyonundan gelen moonLive nesnesini taban alıyoruz
 if (typeof moonLive !== 'undefined' && moonLive) {
     const localGateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
     localGateMapping.forEach(gate => {
         if (!gate) return;
-        // Çapraz kapıları (Büyük Pagan Sabbat Eksenlerini) hedef alıyoruz aga:
         const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
         
         if (isCrossFixed) {
-            // Çapraz kapıların parlamasını Ay'ın anlık %27'lik aydınlanma yüzdesine göre büküyoruz!
-            // Gökyüzünde Ay büyüdükçe neon glow artar, küçüldükçe matris sakinleşir.
-            let dynamicGlow = 8 + (moonLive.percent / 100) * 14;
-            let pulseSpeed = 2 - (moonLive.percent / 100) * 1.2; // Aydınlanma arttıkça rezonans hızlanır
+            // 🎯 Patlamayı ve şişmeyi önleyen sabit, minimal siber değerler
+            let dynamicGlow = 4; 
+            let pulseSpeed = 4.0; 
             
-            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(1.3)`;
+            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(1.0)`;
             gate.style.animation = `pulse ${pulseSpeed}s infinite ease-in-out`;
             gate.style.transition = "all 0.5s ease-in-out";
         }
@@ -4254,21 +4332,16 @@ if (typeof moonLive !== 'undefined' && moonLive && monaElement) {
 
     // 2. DİNAMİK NEON ÇİZGİ KALKANI (border-width manipülasyonu)
     // Metatron kapılarının neon çember çizgilerinin kalınlıklarını bu iki aks dinamik büküyor aga!
-    localGateMapping.forEach(gate => {
+localGateMapping.forEach(gate => {
         if (!gate) return;
         const isCrossFixed = ["gate-light", "gate-ether", "gate-metal", "gate-ice"].includes(gate.id);
         
         if (isCrossFixed) {
-            // Çapraz Sabbat kapıları (Beltane, Samhain vb.) bu iki gücün gerilimiyle nefes alır:
-            let dynamicGlow = 6 + (seleneForce * 12) + (lilithForce * 8);
-            let glitchFrequency = (2.5 - (seleneForce * 1.5)) * seasonalMultiplier; 
-            
-            // Ay'ın aydınlanması arttıkça neon dairelerin çizgileri kalınlaşır ve parlar:
-            let dynamicBorderWidth = 2 + (seleneForce * 3); 
-            
-            gate.style.filter = `drop-shadow(0 0 ${dynamicGlow}px ${sunCircadianColor}) brightness(${1.0 + seleneForce * 0.4})`;
-            gate.style.borderWidth = `${dynamicBorderWidth}px`;
-            gate.style.animation = `pulse ${glitchFrequency}s infinite ease-in-out`;
+            // 🎯 ÇÖZÜM: filter yerine doğrudan box-shadow ve arka planı ezerek parlamayı tamamen söküyoruz
+            gate.style.setProperty("box-shadow", "0 0 4px rgba(255, 255, 255, 0.2)", "important");
+            gate.style.setProperty("filter", "none", "important");
+            gate.style.borderWidth = "1px";
+            gate.style.animation = "none"; // Animasyonu da kapatıp statik, sakin bir konuma alalım
             gate.style.transition = "all 0.5s ease-in-out";
         }
     });
