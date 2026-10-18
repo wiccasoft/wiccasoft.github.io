@@ -74,7 +74,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [class*="gate-"][id*="5"],
 body.wicca-lunar-quarter:not(.wicca-lilith-active) [class*="gate-"][id*="7"] {
     opacity: 0.95 !important;
     border-color: #ca5ca0 !important;
-    background: rgba(0, 0, 0, 0.90) !important;
+    background: rgba(1, 1, 1, 0.90) !important;
     color: #ffffff !important;
     text-shadow: 0 0 15px #ca5ca0 !important;
     box-shadow: 0 0 35px #ca5ca0, inset 0 0 15px #ca5ca0, 0 0 60px rgba(0, 255, 255, 0.4) !important;
@@ -216,8 +216,8 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
 
 .lunar-active-node {
     opacity: 0.95 !important;
-    background: #000000 !important;          /* Arka plan mutlak mat gece siyahı aga! */
-    background-color: #000000 !important;
+    background: #ffffff !important;          /* Arka plan mutlak mat gece siyahı aga! */
+    background-color: #ffffff !important;
     
     /* JavaScript'in o an kapıya enjekte ettiği gateColors rengine teslim oluyoruz: */
     color: inherit !important;                
@@ -231,8 +231,8 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
 
 .lunar-active-south {
     opacity: 0.95 !important;
-    background: #000000 !important;          /* Karşıt dik kutbun arka planı da mutlak siyah! */
-    background-color: #000000 !important;
+    background: #ffffff !important;          /* Karşıt dik kutbun arka planı da mutlak siyah! */
+    background-color: #ffffff !important;
     
     color: inherit !important;                
     border-color: inherit !important;         
@@ -437,7 +437,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     width: 99% !important;
     max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
-    top: 39.1% !important;
+    top: 39.5% !important;
     left: 52.5% !important;
     transform: translate(-50%, -50%) scale(0.7)!important;
     object-fit: contain;
@@ -532,8 +532,8 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     width: 99% !important;
     max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     
-    top: 43.8% !important;
-    left: 50.5% !important;
+    top: 42.7% !important;
+    left: 50.1% !important;
     transform: translate(-50%, -50%) scale(0.8)!important;
     object-fit: contain;
     z-index: 1;
@@ -1631,7 +1631,7 @@ setInterval(() => {
 
 
         // =========================================================================
-        // ☀️ 1. GÜNEŞ KAPISI SEÇİMİ [WICCA_OUROBOROS_AXIS_ENGINE_FINAL]
+        // ☀️ 1. SUN GATE OUROBOROS [WICCA_OUROBOROS_AXIS_ENGINE_FINAL]
         // =========================================================================
         let sirkadiyenButonIndex = 0;
 
@@ -1650,9 +1650,9 @@ setInterval(() => {
             sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
         } else if (currentTargetRoom >= 32 && currentTargetRoom <= 37) {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-        } else if (currentTargetRoom >= 37 && currentTargetRoom <= 45) {
+        } else if (currentTargetRoom >= 37 && currentTargetRoom <= 43) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
-        } else if (currentTargetRoom >= 46 && currentTargetRoom <= 51) {
+        } else if (currentTargetRoom >= 44 && currentTargetRoom <= 51) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
         }  else if (currentTargetRoom >= 52 && currentTargetRoom <= 61) {
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
@@ -2499,9 +2499,9 @@ let glowSize = 4 + (moonPercentSafe / 100) * 16;
                         // Lilith ve Node çakışmasında arka planı ve neon stillerini hibrit olarak koru
                         lilithGate.style.setProperty("z-index", "9998", "important"); 
                         lilithGate.style.setProperty("opacity", "1.0", "important");
-                        lilithGate.style.setProperty("color", "#222222", "important"); 
+                        lilithGate.style.setProperty("color", "#ff66ff", "important"); 
                         lilithGate.style.setProperty("border-color", "#333333", "important"); 
-                        lilithGate.style.setProperty("background", "#000000", "important");
+                        lilithGate.style.setProperty("background", "#ffffff", "important");
                         lilithGate.style.setProperty("background-color", "#000000", "important");
                         lilithGate.style.boxShadow = "0 0 25px #000000, inset 0 0 2px rgba(0, 0, 0, 0.6), 0 0 15px currentColor";
                         lilithGate.style.textShadow = "0 0 10px #000000";
@@ -2593,9 +2593,9 @@ let glowSize = 4 + (moonPercentSafe / 100) * 16;
                     
                     lilithGate.style.fontWeight = "bold";
                     lilithGate.style.textShadow = "0 0 2px currentColor";
-                    lilithGate.style.setProperty("border-color", "#000000", "important");
-                    lilithGate.style.setProperty("background", "#000000", "important");
-                    lilithGate.style.setProperty("background-color", "#000000", "important");
+                    lilithGate.style.setProperty("border-color", "#ffffff", "important");
+                    lilithGate.style.setProperty("background", "#ffffff", "important");
+                    lilithGate.style.setProperty("background-color", "#ffffff", "important");
                     lilithGate.style.boxShadow = "0 0 22px #ff5500, inset 0 0 0px rgba(255, 85, 0, 0.7)";
                     lilithGate.style.setProperty("color", AntiSunGateColor, "important");//gateColors[liveLilithZodiacIdx]
 
@@ -3680,14 +3680,7 @@ document.querySelectorAll('.nav-square-btn').forEach(btn => {
     });
 });
 
-
-
-
-
     </script>
-
-
-
 
 <script>
 
