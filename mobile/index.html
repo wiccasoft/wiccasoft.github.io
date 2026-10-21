@@ -2984,8 +2984,8 @@ const staticTrigrams = ["☵", "☶", "☳", "☴", "☷", "☱", "☰", "☲"];
 const alchemicalSymbols = {
     sulphur: "🜍", // Ateş - Hava
     salt: "🜭",    // Hava - Toprak
-    mercury: "☿",  // Su - Toprak
-    azoth: "🜞"    // Hava - Su
+    mercury: "☿",  // Su - Toprak 🜞
+    potash: "🜿"    // Hava - Su 
 };
 
 const totalGates = gateMapping.length; 
@@ -3023,7 +3023,8 @@ gateMapping.forEach((gate, index) => {
         return; 
     }
 
-    const iconSize1 = '18px';
+    //🝮 hour
+    const iconSize1 = '16px';
     const iconSize2 = '24px';
 
     // 3. Sülfür Aksı (Ateş - Hava) - 🜍
@@ -3058,13 +3059,13 @@ gateMapping.forEach((gate, index) => {
         trigramSpan.style.right = '-2px';
 
         gate.style.borderWidth = '2px';
-        gate.style.borderColor = '#66ff00';
-        gate.style.boxShadow = '0 0 15px #66ff00, inset 0 0 10px #66ff00';
+        gate.style.borderColor = '#088F8F';
+        gate.style.boxShadow = '0 0 15px #088F8F, inset 0 0 10px #088F8F';
         gate.style.filter = 'none';
     }
-    // 6. Azoth Aksı (Hava - Su) - 🜞
+    // 6. POtash Aksı (Hava - Su) - 🜞
     else if (index === targetAzothIndex) {
-        trigramSpan.textContent = alchemicalSymbols.azoth; 
+        trigramSpan.textContent = alchemicalSymbols.potash; 
         trigramSpan.style.fontSize = iconSize2;
         trigramSpan.style.color = '#00e5ff'; 
         gate.style.borderWidth = '1px';
