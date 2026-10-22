@@ -2954,7 +2954,7 @@ if (typeof moonLive !== 'undefined' && moonLive && activeMesaTarget) {
     }
 
 
-    //elements = ["🜂","🜁","🜃","🜄"]
+//elements = ["🜂","🜁","🜃","🜄"]
 //elementc = ["♣","♧","♦","♥"]
 //elementn = [ h , n , c , o ]
 //elementf = [man,eagle,bull,lion]
@@ -2974,18 +2974,37 @@ mercury ="☿"
 salt ="🜔" 
 saltantimony="🜭"
 nitre="🜕"                      
-sulhpur = "🜍"//🜍
+sulhpur = "🜍"
 month="🝱"
 day="🝰"
 
 // 🜏 [SADELEŞTİRİLMİŞ 4 TEMEL SİMYASAL AKS MOTORU]
-const staticTrigrams = ["☵", "☶", "☳", "☴", "☷", "☱", "☰", "☲"]; 
+// Görseldeki çark düzenine ve Güneş'in doğuş pozisyonuna göre 8'li trigram dizilimi:
+// [Üst (Güney), Sağ-Üst, Sağ (Doğu/Ateş), Sağ-Alt, Alt (Kuzey), Sol-Alt, Sol (Batı/Su), Sol-Üst]
+const staticTrigrams = ["☰", "☱", "☲", "☳", "☷", "☴", "☵", "☶"];
+
+acid1="iodine,flourine"
+acid2="oxygen,sulsphur"
+acid3="nitrogen,phosphorus"
+
+alkaline1="sodium,hydrojen,lithium,potassium"
+alkaline2="magnesium,calcium"
+alkaline3="alumunium,boron, and metals"
+alkaline4="silicon,carbon"// zero point of equilibrium
+
+cycleofelements = ["H","HE","LI","C","N","O","NA","MG","AL","SI","P","S","K","CA","CO"]
+//---------------   H->Li(180) LI->C (90) C->NA(90) 
+//---------------   H --> NA (360 degree)   NA-Si(90) Na-K(180)
 
 const alchemicalSymbols = {
-    sulphur: "🜍", // Ateş - Hava
-    salt: "🜭",    // Hava - Toprak
-    mercury: "☿",  // Su - Toprak 🜞
-    potash: "🜿"    // Hava - Su 
+    
+    //phosphorus
+    sulphur: "🜍", // Ateş - Hava   (S)
+    mercury: "☿",  // Su - Toprak  (O)  
+    //nitrogenus
+
+    salt: "🜭",    // Hava - Toprak (H)
+    potash: "🜿"   // Hava - Su    (Li) 
 };
 
 const totalGates = gateMapping.length; 
@@ -3025,7 +3044,7 @@ gateMapping.forEach((gate, index) => {
 
     //🝮 hour
     const iconSize1 = '16px';
-    const iconSize2 = '24px';
+    const iconSize2 = '22px';
 
     // 3. Sülfür Aksı (Ateş - Hava) - 🜍
     if (index === targetSulphurIndex) {
@@ -3053,7 +3072,7 @@ gateMapping.forEach((gate, index) => {
         trigramSpan.style.fontSize = iconSize1;
         trigramSpan.style.color = '#66ff00'; 
 
-        // --- 1px YUKARI KAYDIRMA İÇİN ---
+        // --- 2px YUKARI KAYDIRMA İÇİN ---
         trigramSpan.style.position = 'relative';
         trigramSpan.style.top = '-2px';
         trigramSpan.style.right = '-2px';
@@ -3068,6 +3087,11 @@ gateMapping.forEach((gate, index) => {
         trigramSpan.textContent = alchemicalSymbols.potash; 
         trigramSpan.style.fontSize = iconSize2;
         trigramSpan.style.color = '#00e5ff'; 
+                
+        trigramSpan.style.position = 'relative';
+        trigramSpan.style.right = '-2px';
+
+
         gate.style.borderWidth = '1px';
         gate.style.borderColor = '#00e5ff';
         gate.style.boxShadow = '0 0 15px #00e5ff, inset 0 0 10px #00e5ff';
