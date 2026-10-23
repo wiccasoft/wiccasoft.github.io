@@ -3033,11 +3033,13 @@ const alchemicalSymbols = {
     potash: "🜿"   // Hava - Su    (Li) 
 };
 
-// 🜏 [THE ALCHEMICAL MASS-POTENTIAL EQUILIBRIUM ENGINE]
+// 🜏 [THE ALCHEMICAL MASS-POTENTIAL EQUILIBRIUM ENGINE] - MASTER REVISION (V550)
 
 const ElementRegistry = {
     "H":  { z: 1,  a: 1,   name: "Hydrogen" },
+    "O":  { z: 8,  a: 16,  name: "Oksijen" },     // 🌟 Klorofil sentezi için Alpha kutbu eklendi
     "N":  { z: 7,  a: 14,  name: "Nitrogen" },
+    "Mg": { z: 12, a: 24,  name: "Magnesium" },  // 🌿 KLOROFİLİN KALBİ BURAYA MÜHÜRLENDİ AGA!
     "Na": { z: 11, a: 23,  name: "Sodium" },
     "S":  { z: 16, a: 32,  name: "Sulphur" },
     "K":  { z: 19, a: 39,  name: "Potassium" },
@@ -3045,6 +3047,9 @@ const ElementRegistry = {
     "Zn": { z: 30, a: 65,  name: "Zinc" }
 };
 
+// =========================================================================
+// 🜏 [THE ALCHEMICAL MASS-POTENTIAL EQUILIBRIUM ENGINE] - MASTER REVISION
+// =========================================================================
 class AlchemicalAgricultureEngine {
     constructor() {
         this.registry = ElementRegistry;
@@ -3073,28 +3078,33 @@ class AlchemicalAgricultureEngine {
         // Karşılık gelen elementleri bul
         const birthedByPotential = Object.keys(this.registry).find(key => this.registry[key].z === totalZ) || "Upper Octave";
         const birthedByMass = Object.keys(this.registry).find(key => this.registry[key].a === totalA) || "Heavy Crystalline";
-        const balancedByKnot = Object.keys(this.registry).find(key => this.registry[key].z === diffA || this.registry[key].a === diffA) || "None";
-
-        // Tarımsal vana katsayıları ve mililitre (ml) hesaplama kararı
+        
+        // 🚨 SİBER SİRKADİYEN MÜHÜR AYARI: Statik "S" düğümü ebediyen infaz edildi!
+        let balancedByKnot = "None";
         let valveOutputs = { nitrogen_ml: 0, potassium_ml: 0, calcium_ml: 0, sulphur_ml: 0, water_liters: 1.0 };
         let currentPhase = "";
 
         if (el1 === "S" && el2 === "N") {
-            // N(7) + S(16) -> Na(23 Kütle) | ET EVRESİ
+            // GÜNDÜZ FOTOSENTEZİ: Sodyum kütlesi arka planda akarken, Denge Mührü otomatik Magnezyum olur!
             currentPhase = "VEGETATIVE_ET_EVRESI (Yaprak ve Doku Yapımı)";
-            valveOutputs.nitrogen_ml = totalA * 2.5; // Kütle ağırlığı çarpanı
+            balancedByKnot = "Mg"; // 🌿 Klorofilin Kalbi Magnezyum-24 mühürlendi!
+            
+            valveOutputs.nitrogen_ml = totalA * 2.5; 
             valveOutputs.sulphur_ml = totalZ * 1.5;
-            valveOutputs.water_liters = 5.0; // Şarj için yüksek su akışı
+            valveOutputs.water_liters = 5.0; 
         } 
         else if (el1 === "Na" && el2 === "K") {
-            // Na(11) + K(19) -> Zn(30 Frekans) | KÜTLE VE HORMON ŞAFTI (62 Toplam Kütle, 16 Fark)
+            // GECE ASİMİLASYONU: Çinko iskelet mührü aktifleşir
             currentPhase = "GENERATIVE_KEMIK_EVRESI (Hücre Çeperi ve Meyve Sabitleme)";
-            valveOutputs.potassium_ml = totalA * 3.0; // 62 kütle gücü
-            valveOutputs.calcium_ml = 40 * 2.0;       // 40 birimlik Kalsiyum kemik kilidi aktif
-            valveOutputs.water_liters = 2.5;          // Sönümlenme için kontrollü nem
+            balancedByKnot = "Zn"; // 🦴 İskelet ve meyve sabitleyici Çinko mühürlendi!
+            
+            valveOutputs.potassium_ml = totalA * 3.0; 
+            valveOutputs.calcium_ml = 40 * 2.0;       
+            valveOutputs.water_liters = 2.5; 
+        } else {
+            balancedByKnot = Object.keys(this.registry).find(key => this.registry[key].z === diffA || this.registry[key].a === diffA) || "None";
         }
 
-        
         return {
             axis: `${atom1.name} ↔ ${atom2.name}`,
             metrics: {
@@ -3105,10 +3115,11 @@ class AlchemicalAgricultureEngine {
             birthOutputs: {
                 frequencyBirth: birthedByPotential,
                 structuralMassBirth: birthedByMass,
-                equilibriumKnot: balancedByKnot
+                equilibriumKnot: balancedByKnot // 👈 ARTIK ESKİ "S" ÇELİŞKİSİ ÖLDÜ, DOĞRUDAN "Mg" BASAR!
             },
             automationControl: {
                 phase: currentPhase,
+                equilibriumKnot: balancedByKnot, // 👈 INFO PANOSUNUN OKUYACAĞI ESAS REZONANS ALANI
                 valves: valveOutputs
             }
         };
@@ -3133,26 +3144,71 @@ function tickDeşarjAzotCevrimi(zamanFazi) {
 // 🚜 MOTORU ÇALIŞTIRMA VE TEST ETME
 const engine = new AlchemicalAgricultureEngine();
 
-console.log("--- TEST 1: SAĞ KANAT (ZEHİR AKSININ DOĞUMU) ---");
+//console.log("--- TEST 1: SAĞ KANAT (ZEHİR AKSININ DOĞUMU) ---");
 const rightWingResult = engine.calculateNexus("S", "N");
-console.log(JSON.stringify(rightWingResult, null, 2));
+//console.log(JSON.stringify(rightWingResult, null, 2));
 
-console.log("\n--- TEST 2: ALKALİ VOLTAJ EKSENİ (ETTEN KEMİĞE) ---");
+//console.log("\n--- TEST 2: ALKALİ VOLTAJ EKSENİ (ETTEN KEMİĞE) ---");
 const alkalineAxisResult = engine.calculateNexus("Na", "K");
-console.log(JSON.stringify(alkalineAxisResult, null, 2));
+//console.log(JSON.stringify(alkalineAxisResult, null, 2));
 
-function renderCosmicCrystallizationLog(elementA, elementB) {
-    const result = initiateCosmicCrystallization(elementA, elementB);
+// =========================================================================
+// 🚜 [NİHAİ ÇÖZÜM]: SAF SİRKADİYEN REZONANS VE OTOMATİK MÜHÜR MOTORU
+// =========================================================================
+function renderCosmicCrystallizationLog() {
     const infoBox = document.getElementById("wicca-cycle-info");
-    if (!infoBox || result.error) return;
+    if (!infoBox) return;
 
-    infoBox.innerHTML = `
-        ⚡ <b>[CRISTAL_ENGAGED]:</b> ${result.inputAxis} ➔ 
-        Potansiyel: <span style="color:#00ffff;">${result.generatedPotential} eV</span> | 
-        Doğurulan Kütle: <span style="color:#ca5ca0; font-weight:bold;">${result.output.name} (${result.output.element}) [${result.output.nature}]</span>
-    `;
+    // 🚨 1. ADIM: Günün anlık saatine göre Gece/Gündüz fazını mutlak tespit et
+    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 0;
+    const isNightTime = currentHour64 >= 32; // 32-64 arası Gece, 0-32 arası Gündüz
+
+    // 🚨 2. ADIM: Sınıf motorunu (engine) kullanarak verileri sirkadiyen saate göre anlık canlandır
+    if (typeof engine !== 'undefined' && typeof engine.calculateNexus === 'function') {
+        
+        // Gündüzse Sağ Kanat (S-N), geceyse Alkali (Na-K) otomatik hesaplanır aga!
+        const activeResult = isNightTime ? 
+            engine.calculateNexus("Na", "K") : 
+            engine.calculateNexus("S", "N");
+
+        if (activeResult && activeResult.birthOutputs && activeResult.automationControl) {
+            const birth = activeResult.birthOutputs;
+            const ctrl = activeResult.automationControl;
+            const v = ctrl.valves || {};
+
+            // Global gaz/kütle havuzunun takibi (NaN koruması)
+            let co2Val = 420; let carbonVal = 100;
+            if (typeof window.AdvancedEsotericState !== 'undefined' && window.AdvancedEsotericState.gazHatti) {
+                co2Val = window.AdvancedEsotericState.gazHatti.karbonCO2 || 420;
+                carbonVal = window.AdvancedEsotericState.merkez.saltBodyCarbon || 100;
+            }
+
+            if (isNightTime) {
+                // 🌙 GECE KUTUSU (Mühür: Çinko - Zn)
+                infoBox.style.color = "#ca5ca0";
+                infoBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
+                infoBox.style.textShadow = "0 0 8px #ca5ca0";
+                infoBox.innerHTML = `
+                    🌙 <b>[GECE: KEMİK EVRESİ]</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold;">${birth.equilibriumKnot}</span><br>
+                    🎚️ K+:${v.potassium_ml}ml | Ca:${v.calcium_ml}ml | ☁️ CO2 Birikimi: <span style="color:#ffcc00;">${co2Val.toFixed(0)} ppm</span>
+                `;
+            } else {
+                // ☀️ GÜNDÜZ KUTUSU (Mühür: MAGNEZYUM - Mg)
+                infoBox.style.color = "#00ffaa";
+                infoBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
+                infoBox.style.textShadow = "0 0 8px #00ffaa";
+                infoBox.innerHTML = `
+                    ☀️ <b>[GÜNDÜZ: ET EVRESİ]</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold;">${birth.equilibriumKnot}</span> (Klorofil Kalbi)<br>
+                    🌱 🧪 N:${v.nitrogen_ml}ml | S:${v.sulphur_ml}ml | 🍃 Atmosfer CO2: <span style="color:#00e5ff;">${co2Val.toFixed(0)} ppm</span> ➔ 🟤 Gövde: ${carbonVal.toFixed(0)} kg
+                `;
+            }
+        }
+    }
 }
 
+// 🚀 ZAMAN MOTORUNA TAM ENTEGRASYON ÇAPASI
+// Sayfa ilk yüklendiğinde ve zaman her büküldüğünde ekranı otomatik tetikler
+renderCosmicCrystallizationLog();
 
 // 🔄 ZAMAN AKŞAMI VE DEŞARJ MOTORU TEST SÜRÜCÜSÜ
 function triggerAlchemicalTestDrive(direction) {
@@ -3482,7 +3538,7 @@ const simpleInfoBoxRegistry = {
     }
 };
 
-console.log("⚡ Elementer kilitler başarıyla mühürlendi. Sistem Gezegen Oktav Motoruna geçmeye hazır.");
+//console.log("⚡ Elementer kilitler başarıyla mühürlendi. Sistem Gezegen Oktav Motoruna geçmeye hazır.");
 
 
 
@@ -3497,33 +3553,104 @@ const SimyaDevresi = {
 };
 
 
+// =========================================================================
+// 🧠 [SİBER LOG]: KLOROFİL REZONANSLI TERMİNAL AKIŞ SÜBABI (V850)
+// =========================================================================
 function renderSimyaMatrisi() {
     const terminalBody = document.getElementById("terminal-body");
     if (!terminalBody) return;
 
+    // 🚨 1. GÜVENLİK SİGORTASI: Nesne hafızada henüz kurulmadıysa patlamayı engelleyen tampon
+    if (typeof window.SimyaBodyState === 'undefined') {
+        window.SimyaBodyState = {
+            merkez: { saltBodyKutlesi: 100.0, simyaTasiIlerleme: 0.0 },
+            cevre: { potasyumGlow: 50, sodyumFade: 50 },
+            kutup: { alphaOksijen: 75, omegaNitrojen: 25 }
+        };
+    }
+    
+    if (typeof window.AdvancedEsotericState === 'undefined') {
+        window.AdvancedEsotericState = {
+            gazHatti: { karbonCO2: 420.0 },
+            merkez: { saltBodyCarbon: 100.0 }
+        };
+    }
+
+    const SimyaBodyState = window.SimyaBodyState;
+    const AdvancedEsotericState = window.AdvancedEsotericState;
+
+    // Sirkadiyen Durum Analizi
+    const currentHour64 = (typeof sunRoom64 !== 'undefined') ? (sunRoom64 % 64) : 0;
+    const isNightTime = currentHour64 >= 32;
+
+    // 🛡️ Denge mührü otomatik tespiti (Gündüz Mg, Gece Zn)
+    let activeKnot = isNightTime ? "Zn (Zinc)" : "Mg (Magnesium)";
+    let knotColor = isNightTime ? "#ffffff" : "#ffd700";
+
+    let co2Val = AdvancedEsotericState.gazHatti ? (AdvancedEsotericState.gazHatti.karbonCO2 || 420) : 420;
+    let carbonVal = AdvancedEsotericState.merkez ? (AdvancedEsotericState.merkez.saltBodyCarbon || 100) : 100;
+
+    // Terminale canlı siber-punk verileri enjekte ediyoruz
     terminalBody.innerHTML += `
-        <div style="color: #ca5ca0; border-top: 1px double #7a00ff; margin-top: 4px; padding-top: 2px;">🧪 [OPUS_MATRİX_ENGAGED]</div>
-        <div style="color: #ffffff;">🟤 MERKEZ (Carbon Body): Kütle: ${SimyaBodyState.merkez.saltBodyKutlesi.toFixed(1)} | Taş: %${SimyaBodyState.merkez.simyaTasiIlerleme.toFixed(1)}</div>
+        <div style="color: #7a00ff; border-top: 1px double #7a00ff; margin-top: 4px; padding-top: 2px; font-weight: bold;">🧪 [OPUS_MATRİX_ENGAGED]</div>
+        <div style="color: #ffffff;">🟤 MERKEZ: Gövde Kütlesi: ${carbonVal.toFixed(0)} kg | Salt Body: ${SimyaBodyState.merkez.saltBodyKutlesi.toFixed(1)}</div>
         <div style="color: #00ffaa;">⚡ ÇEVRE (Tuzlar): K-Glow: %${SimyaBodyState.cevre.potasyumGlow} | Na-Fade: %${SimyaBodyState.cevre.sodyumFade}</div>
         <div style="color: #00ffff;">🌌 KUTUP (A/Ω): Alpha (Oksijen): ${SimyaBodyState.kutup.alphaOksijen.toFixed(0)} | Omega (Azot): ${SimyaBodyState.kutup.omegaNitrojen.toFixed(0)}</div>
+        <div style="color: ${knotColor}; font-weight: bold;">🔮 AUTOMATION: Denge Mührü ➔ [ ${activeSunGate = isNightTime ? '🌙 ' : '☀️ '}${activeKnot} ] | CO2: ${co2Val.toFixed(0)} ppm</div>
     `;
+    
+    // Terminali otomatik olarak en alta kaydır aga
     terminalBody.scrollTop = terminalBody.scrollHeight;
 }
 
+
+// =========================================================================
+// 🔮 [CORE ENGINE]: ALPHA & OMEGA SİRKADİYEN VE KÜTLE REZONANSI (V900)
+// =========================================================================
 function tickSimyaVortex(zamanModu) {
+    // 🚨 1. SİBER SİGORTA: Nesnelerin RAM yüklenme gecikmelerinde çökmesini mutlak engelleyen kalkan
+    if (typeof window.SimyaBodyState === 'undefined') {
+        window.SimyaBodyState = {
+            merkez: { saltBodyKutlesi: 100.0, simyaTasiIlerleme: 0.0 },
+            cevre: { potasyumGlow: 50, sodyumFade: 50 },
+            kutup: { alphaOksijen: 75, omegaNitrojen: 25 }
+        };
+    }
+    
+    if (typeof window.AdvancedEsotericState === 'undefined' || !window.AdvancedEsotericState.gazHatti) {
+        window.AdvancedEsotericState = {
+            gazHatti: { atmosferAzot: 0.78, toprakNitrat: 45.0, karbonCO2: 420.0 },
+            merkez: { saltBodyCarbon: 100.0 }
+        };
+    }
+
+    const SimyaBodyState = window.SimyaBodyState;
+    const AdvancedEsotericState = window.AdvancedEsotericState;
     const isNight = (zamanModu === 'AY' || zamanModu === 'GECE');
+
+    // 🛡️ OTOMATİK MÜHÜR TAMPONU: Gündüz Magnezyum (Mg - Klorofil), Gece Çinko (Zn - İskelet) olur!
+    let knotName = isNight ? "Zn" : "Mg";
+
+    if (typeof engine !== 'undefined' && engine && engine.automationControl) {
+        if (isNight) {
+            engine.automationControl.equilibriumKnot = "Zn"; 
+            engine.automationControl.phase = "GENERATIVE_KEMIK_EVRESI";
+        } else {
+            engine.automationControl.equilibriumKnot = "Mg"; // 🌟 Klorofilin Kalbi Otomatik Kilitleme
+            engine.automationControl.phase = "VEGETATIVE_ET_EVRESI";
+        }
+        knotName = engine.automationControl.equilibriumKnot || knotName;
+    }
 
     // =========================================================================
     // 🧭 ALPHA & OMEGA KUTUP DENGESİ (Oksijen & Nitrojen Terazisi)
     // =========================================================================
     if (!isNight) {
-        // GÜNDÜZ: Alpha (Oksijen) şahlanır, yakıcı güç artar. Omega (Nitrojen) gizlenir.
         if (SimyaBodyState.kutup.omegaNitrojen > 10) {
             SimyaBodyState.kutup.alphaOksijen += 2.5;
             SimyaBodyState.kutup.omegaNitrojen -= 1.5;
         }
     } else {
-        // GECE: Omega (Nitrojen) mutlak güce ulaşır, sabitleme başlar. Alpha sönümlenir.
         if (SimyaBodyState.kutup.alphaOksijen > 10) {
             SimyaBodyState.kutup.omegaNitrojen += 3.0;
             SimyaBodyState.kutup.alphaOksijen -= 2.0;
@@ -3533,120 +3660,180 @@ function tickSimyaVortex(zamanModu) {
     // =========================================================================
     // ⚡ ÇEVRE AKIŞI: Sodyum & Potasyum Sönümlenmesi (Fade & Glow)
     // =========================================================================
-    // Alpha/Oksijen baskınlığı Potasyum'u parlatır; Omega/Nitrojen ise Sodyum'u söndürür (Fade).
     let kutupGucu = SimyaBodyState.kutup.alphaOksijen / SimyaBodyState.kutup.omegaNitrojen;
 
     if (kutupGucu > 1) {
-        // Gündüz/Oksijen etkisi: Potasyum parlar, Sodyum arkada sönük kalır
         SimyaBodyState.cevre.potasyumGlow = Math.min(100, SimyaBodyState.cevre.potasyumGlow + 4);
         SimyaBodyState.cevre.sodyumFade = Math.max(10, SimyaBodyState.cevre.sodyumFade - 2);
     } else {
-        // Gece/Nitrojen etkisi: Potasyum söner, Sodyum reaksiyona girerek tükenir (Fade out)
         SimyaBodyState.cevre.potasyumGlow = Math.max(10, SimyaBodyState.cevre.potasyumGlow - 3);
         SimyaBodyState.cevre.sodyumFade = Math.max(0, SimyaBodyState.cevre.sodyumFade - 5); 
     }
 
     // =========================================================================
-    // 🟤 MERKEZ DÖNÜŞÜMÜ: Salt Body & Felsefe Taşı
+    // 🟤 MERKEZ DÖNÜŞÜMÜ & 1 BİRİM SAFE KARBON ÇEVRİMİ
     // =========================================================================
-    // Eğer gece vaktinde Sodyum tamamen sönerse (Fade=0) ve Omega (Nitrojen) zirvedeyse;
-    // Potasyum Glow'un kalan enerjisi Merkez Karbon çekirdeğini Felsefe Taşına dönüştürür.
-    if (isNight && SimyaBodyState.cevre.sodyumFade <= 10) {
-        let donusumCarpani = SimyaBodyState.cevre.potasyumGlow * 0.05;
-        SimyaBodyState.merkez.saltBodyKutlesi += donusumCarpani;
-        SimyaBodyState.merkez.simyaTasiIlerleme += 0.5 * donusumCarpani;
-        
-        // Gece simyası bittiğinde sodyum matrisi sabaha yeniden şarj olmak için resetlenir
-        if (SimyaBodyState.merkez.simyaTasiIlerleme >= 100) {
-            console.log("MAGNUM OPUS TAMAMLANDI: Karbon Altına Dönüştü!");
+    if (isNight) {
+        // 🌙 GECE SOLUNUMU: CO2 havada birikir
+        if (AdvancedEsotericState.gazHatti) AdvancedEsotericState.gazHatti.karbonCO2 += 1.0;
+
+        if (SimyaBodyState.cevre.sodyumFade <= 10) {
+            let donusumCarpani = SimyaBodyState.cevre.potasyumGlow * 0.05;
+            SimyaBodyState.merkez.saltBodyKutlesi += donusumCarpani;
+            SimyaBodyState.merkez.simyaTasiIlerleme += 0.5 * donusumCarpani;
+            
+            if (SimyaBodyState.merkez.simyaTasiIlerleme >= 100) {
+                console.log("MAGNUM OPUS TAMAMLANDI: Karbon Altına Dönüştü!");
+            }
         }
-    } else if (!isNight) {
-        // Gündüz yüksek oksijen, karbonun bir kısmını yakarak enerjiye (potasyuma) çevirir
+    } else {
+        // ☀️ GÜNDÜZ FOTOSENTEZİ: 1 Birim gaz emilir, odun kütlesine (kg) mühürlenir!
+        if (AdvancedEsotericState.gazHatti && AdvancedEsotericState.merkez) {
+            AdvancedEsotericState.gazHatti.karbonCO2 -= 1.0;
+            AdvancedEsotericState.merkez.saltBodyCarbon += 1.0;
+        }
         SimyaBodyState.merkez.saltBodyKutlesi -= 0.2;
     }
-}
 
-function simyaFotosentezTick(state) {
-    // Alttaki DIAGS ve CALIBRATE değerlerine göre çarpanlar
-    let klorofilCarpani = state.nitrojen * 0.1; 
-    let stomaAciklikOrani = Math.max(0, (state.potasyum - state.sodyum) / 100);
+    // =========================================================================
+    // 🎚️ ARAYÜZDEKİ YEŞİL/MOR INFO PANELİNİ ANLIK REZONANSA ALMA SATIRLARI
+    // =========================================================================
+    const cycleBox = document.getElementById("wicca-cycle-info");
+    if (cycleBox) {
+        let co2Val = AdvancedEsotericState.gazHatti ? (AdvancedEsotericState.gazHatti.karbonCO2 || 420) : 420;
+        let carbonVal = AdvancedEsotericState.merkez ? (AdvancedEsotericState.merkez.saltBodyCarbon || 100) : 100;
 
-    if (state.zaman === "GUNDUZ") {
-        // Gündüz: Işık enerjisi emilir, potasyum tüketilerek stoma açılır
-        if (state.potasyum > 5) {
-            state.potasyum -= 2; // Stoma açmak için enerji/potasyum harcanır
-            
-            // Üretilen ara enerji klorofil ve stoma açıklığına bağlıdır
-            let uretilenEnerji = state.enerji * klorofilCarpani * stomaAciklikOrani;
-            state.glikoz += uretilenEnerji * 0.5; // Glikoz öncülü birikir
-            console.log("Gündüz Evresi: Enerji Dönüştürülüyor...", uretilenEnerji);
+        // Sirkadiyen vana akışkanlıklarını (Valves) anlık hesaplıyoruz aga
+        const currentHour64 = (typeof sunRoom64 !== 'undefined') ? (sunRoom64 % 64) : 0;
+        let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
+        
+        let dinamik_N = Math.max(10, Math.round(115 + (sirkadiyenDalga * 45))); 
+        let dinamik_S = Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10;
+        let dinamik_K = Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)));
+        let dinamik_Ca = Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)));
+
+        if (isNight) {
+            cycleBox.style.color = "#ca5ca0";
+            cycleBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
+            cycleBox.style.textShadow = "0 0 6px #ca5ca0";
+            cycleBox.innerHTML = `
+                🌙 <b>[GECE: KEMİK EVRESİ]</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold;">${knotName}</span> (İskelet)<br>
+                🎚️ Canlı Akış: <span style="color:#00e5ff;">K+:${dinamik_K}ml</span> | <span style="color:#ffffff;">Ca:${dinamik_Ca}ml</span> | ☁️ CO2: <span style="color:#ffcc00;">${co2Val.toFixed(0)} ppm</span>
+            `;
         } else {
-            console.log("Potasyum yetersiz! Stomalar kapandı, fotosentez durdu.");
-        }
-    } 
-    else if (state.zaman === "GECE") {
-        // Gece: Nitrojen asimilasyonu başlar. Potasyum geri salınır.
-        if (state.nitrojen > 2) {
-            state.nitrojen -= 1; // Nitrojen proteine/yapıya dönüşmek için harcanır
-            state.potasyum += 1; // Hücre dinlenmeye geçer, iyon dengesi kurulur
-            
-            // Gece büyümesi ve glikoz sabitlemesi
-            state.glikoz += 10 * klorofilCarpani; 
-            console.log("Gece Evresi: Nitrojen işleniyor, bitki büyüyor.");
+            cycleBox.style.color = "#00ffaa";
+            cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
+            cycleBox.style.textShadow = "0 0 6px #00ffaa";
+            cycleBox.innerHTML = `
+                ☀️ <b>[GÜNDÜZ: ET EVRESİ]</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold;">${knotName}</span> (Klorofil)<br>
+                🌱 🧪 N:${dinamik_N}ml | S:${dinamik_S}ml | 🍃 CO2: <span style="color:#00e5ff;">${co2Val.toFixed(0)} ppm</span> ➔ 🟤 Gövde: ${carbonVal.toFixed(0)} kg
+            `;
         }
     }
-
-    // Sodyum Stres Kontrolü (Sodyum çok yüksekse glikozu eritir/sistem kalibre kaybeder)
-    if (state.sodyum > state.potasyum) {
-        state.glikoz -= 5; 
-        console.log("UYARI: Yüksek Sodyum Toksisitesi! Sistem zarar görüyor.");
-    }
-
-    return state;
 }
 
-
-// Kodunuzun içerisindeki o iki büyük TEST çıktısının hemen ardına bu satırı yerleştirin:
+// =========================================================================
+// =========================================================================
+// 🚀 [KORUMALI RENDER]: CANLI DİNAMİK VANA VE SAF MÜHÜR ENTEGRASYONU (V800)
+// =========================================================================
+// =========================================================================
+// 🚀 [KORUMALI RENDER]: CANLI DİNAMİK VANA VE SAF MÜHÜR ENTEGRASYONU (V820)
+// =========================================================================
 function updateLiveEngineDisplay(engineOutput) {
     const cycleBox = document.getElementById("wicca-cycle-info");
     if (!cycleBox) return;
 
-    const ctrl = engineOutput.automationControl;
-    const v = ctrl.valves;
+    // 🚨 1. GÜVENLİK SİGORTASI: Nesneler veya alt dalları yoksa çöküşü mutlak engelle
+    if (!engineOutput || !engineOutput.automationControl || !engineOutput.birthOutputs) {
+        console.log("🛰️ [RÖLANTİ]: Otomasyon nesnesi bekleniyor...");
+        return;
+    }
 
+    // Deep Memory Rezervasyonu (NaN ve TypeError engelleme)
+    if (typeof window.AdvancedEsotericState === 'undefined') window.AdvancedEsotericState = {};
+    if (!window.AdvancedEsotericState.gazHatti) window.AdvancedEsotericState.gazHatti = { karbonCO2: 420.0 };
+    if (!window.AdvancedEsotericState.merkez) window.AdvancedEsotericState.merkez = { saltBodyCarbon: 100.0 };
     
+    const State = window.AdvancedEsotericState;
+    const ctrl = engineOutput.automationControl;
+    const birth = engineOutput.birthOutputs; // 🌟 Konsoldaki Mg verisini çekeceğimiz asıl katman!
+
+    // 🌊 SIRKADİYEN DALGA MOTORU: Vanaları anlık olarak dalgalandırır
+    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 0;
+    let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
     
-    // Sirkadiyen Durum Tespiti: Azot varsa GÜNDÜZ/ET, Potasyum varsa GECE/KEMİK
-    const isNightPhase = v.potassium_ml > 0;
+    let dinamik_N = Math.max(10, Math.round(115 + (sirkadiyenDalga * 45))); 
+    let dinamik_S = Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10;
+    let dinamik_K = Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)));
+    let dinamik_Ca = Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)));
+
+    // Sirkadiyen Durum Tespiti: Gelen nesne eksenine veya saate göre mutlak faz tayini
+    const isNightPhase = (ctrl.phase && ctrl.phase.includes("GENERATIVE")) || currentHour64 >= 32;
+
+    // KESİN KURAL: Orijinal valves nesnesini bu yerel dinamik dalgalarla mühürlüyoruz aga!
+    const v = {
+        nitrogen_ml: isNightPhase ? 0 : dinamik_N,
+        sulphur_ml: isNightPhase ? 0 : dinamik_S,
+        potassium_ml: isNightPhase ? dinamik_K : 0,
+        calcium_ml: isNightPhase ? dinamik_Ca : 0
+    };
 
     if (isNightPhase) {
+        // =========================================================================
+        // 🌙 GECE MODU: KEMİK VE MEYVE SABİTLEME (Mühür: Çinko - Zn)
+        // =========================================================================
+        ctrl.phase = "GENERATIVE_KEMIK_EVRESI";
+        State.gazHatti.karbonCO2 += 1.0; // Gece CO2 birikimi
+
         cycleBox.style.color = "#ca5ca0"; // Gece Yarısı Pembe/Mor neonu
+        cycleBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
         cycleBox.style.textShadow = "0 0 8px #ca5ca0";
+        // 🛡️ Denge Mührü alanı artık nesneden gelen `birth.equilibriumKnot` ile eşleştirildi!
         cycleBox.innerHTML = `
-            🌙 <b>DÖNGÜ: ${ctrl.phase}</b><br>
-            <span style="color:#00ffff;">⚡ K-Drive Basınç Motoru: ${v.potassium_ml}ml K+</span> | 
-            <span style="color:#ffffff;">🦴 Çeper Kemik Kütlesi: ${v.calcium_ml}ml Ca</span> ➔ 
-            <i>Hücre içi su dengelendi, meyve sabitleniyor!</i>
+            🌙 <b>DÖNGÜ: GENERATIVE_KEMIK_EVRESI</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold;">${birth.equilibriumKnot || 'Zn'}</span><br>
+            <span style="color:#00e5ff;">⚡ K+:${v.potassium_ml}ml</span> | <span style="color:#ffffff;">🦴 Ca:${v.calcium_ml}ml</span> | ☁️ CO2 Birikimi: <span style="color:#ffcc00;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span>
         `;
     } else {
+        // =========================================================================
+        // ☀️ GÜNDÜZ MODU: YAPRAK ET DOKUSU VE FOTOSENTEZ (Mühür: Magnezyum - Mg)
+        // =========================================================================
+        ctrl.phase = "VEGETATIVE_ET_EVRESI";
+        State.gazHatti.karbonCO2 -= 1.0; // Gündüz CO2 emilimi
+        State.merkez.saltBodyCarbon += 1.0; // Beden ağırlığı artışı
+
         cycleBox.style.color = "#00ffaa"; // Gündüz Siber Yeşili
+        cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
         cycleBox.style.textShadow = "0 0 8px #00ffaa";
+        // 🛡️ Gündüz Magnezyumu da aynı şekilde pürüzsüzce kilitlendi
         cycleBox.innerHTML = `
-            ☀️ <b>DÖNGÜ: ${ctrl.phase}</b><br>
-            <span style="color:#ff5e00;">🔥 Sülfür Foton Şarjı: ${v.sulphur_ml}ml S</span> | 
-            <span style="color:#00ffaa;">🌬️ Atmosferik Azot: ${v.nitrogen_ml}ml N</span> ➔ 
-            <i>Aktif fotosentez devrede, yaprak ve et dokusu örülüyor!</i>
+            🌿 <b>DÖNGÜ: VEGETATIVE_ET_EVRESI</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold;">${birth.equilibriumKnot || 'Mg'}</span> (Klorofil Kalbi)<br>
+            <span style="color:#00ffaa;">🌱 N:${v.nitrogen_ml}ml</span> | <span style="color:#ff5e00;">🔥 S:${v.sulphur_ml}ml</span> | 🍃 CO2: <span style="color:#00e5ff;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span> ➔ 🟤 Gövde: ${State.merkez.saltBodyCarbon.toFixed(0)} kg
         `;
     }
 }
 
+// =========================================================================
+// 🚜 [NİHAİ TETİKLEYİCİ ÇAĞRISI]: SIRKADİYEN REZONANS SÜBABI
+// =========================================================================
+// Kodunun en altındaki statik "updateLiveEngineDisplay(alkalineAxisResult);" satırını sil
+// ve yerine tam olarak bu akıllı zaman kontrol mekanizmasını yapıştır aga:
 
+function triggerLiveEngineRefresh() {
+    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 0;
+    const isNightTime = currentHour64 >= 32; // 32-64 arası Gece, 0-32 arası Gündüz
 
+    if (isNightTime && typeof alkalineAxisResult !== 'undefined' && alkalineAxisResult) {
+        // Gece fazındaysak ekrana otomatik olarak Çinko iskelet motorunu bas!
+        updateLiveEngineDisplay(alkalineAxisResult); 
+    } else if (!isNightTime && typeof rightWingResult !== 'undefined' && rightWingResult) {
+        // Gündüz fazındaysak ekrana otomatik olarak Magnezyum klorofil motorunu bas!
+        updateLiveEngineDisplay(rightWingResult); 
+    }
+}
 
-// KODUNUZUN EN ALTINDAKİ TEST ÇAĞRILARINA BU ENTEGRASYONU EKLEYİN:
-// const alkalineAxisResult = engine.calculateNexus("Na", "K");
-updateLiveEngineDisplay(alkalineAxisResult); // Canlı olarak arayüzü tetikler aga!
-
+// Sayfa ilk açıldığında ve zaman büküldüğünde çarkları otomatik eşleyen sigorta:
+triggerLiveEngineRefresh();
+// =========================================================================
 
 const totalGates = gateMapping.length; 
 let sunGateIndex = Math.floor((sunRoom64 % 64) / (64 / totalGates));
@@ -3784,87 +3971,6 @@ gateMapping.forEach((gate, index) => {
 });
 
 // =========================================================================
-// 🚀 [NİHAİ TETİKLEYİCİ]: KLOROFİL (Mg) VE İSKELET (Zn) DÜĞÜM ENTEGRASYONU (V400)
-// =========================================================================
-if (typeof initiateCosmicCrystallization === 'function') {
-    const currentHour64 = (typeof sunRoom64 !== 'undefined') ? (sunRoom64 % 64) : 0;
-    const isNightTime = currentHour64 >= 32;
-
-    const activeTestResult = isNightTime ? 
-        initiateCosmicCrystallization("Na", "K") : 
-        initiateCosmicCrystallization("S", "N");
-
-    // 🌊 SİRKADİYEN DALGA FONKSİYONU: Güneşin odasına göre vanalara anlık salınım verir
-    let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
-    
-    // Gündüz Fotosentez Vanaları (Dinamik)
-    let dinamik_N = Math.max(10, Math.round(115 + (sirkadiyenDalga * 45))); 
-    let dinamik_S = Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10;
-
-    // Gece Asimilasyon Vanaları (Dinamik)
-    let dinamik_K = Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)));
-    let dinamik_Ca = Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)));
-
-    // 🛡️ YEDEK GÜVENLİK TAMPONU
-    let knotName = isNightTime ? "Zn" : "Mg";
-    
-    if (typeof engine !== 'undefined' && engine && engine.automationControl) {
-        const v = engine.automationControl.valves || {};
-        if (isNightTime) {
-            engine.automationControl.equilibriumKnot = "Zn"; 
-            engine.automationControl.phase = "GENERATIVE_KEMIK_EVRESI";
-            
-            v.nitrogen_ml = 0; v.sulphur_ml = 0;
-            v.potassium_ml = dinamik_K; v.calcium_ml = dinamik_Ca;
-            
-            if (AdvancedEsotericState && AdvancedEsotericState.gazHatti) {
-                AdvancedEsotericState.gazHatti.karbonCO2 += 1.0;
-            }
-        } else {
-            engine.automationControl.equilibriumKnot = "Mg"; // Klorofilin Kalbi!
-            engine.automationControl.phase = "VEGETATIVE_ET_EVRESI";
-            
-            v.nitrogen_ml = dinamik_N; v.sulphur_ml = dinamik_S;
-            v.potassium_ml = 0; v.calcium_ml = 0;
-            
-            if (AdvancedEsotericState && AdvancedEsotericState.gazHatti && AdvancedEsotericState.merkez) {
-                AdvancedEsotericState.gazHatti.karbonCO2 -= 1.0;
-                AdvancedEsotericState.merkez.saltBodyCarbon += 1.0;
-            }
-        }
-        knotName = engine.automationControl.equilibriumKnot || knotName;
-    }
-
-    // Arayüzdeki siber punk mor/yeşil info kutusunu canlı güncelleme
-    const cycleBox = document.getElementById("wicca-cycle-info");
-    if (cycleBox && activeTestResult && activeTestResult.output) {
-        
-        let co2Val = 420; let carbonVal = 100;
-        if (typeof AdvancedEsotericState !== 'undefined' && AdvancedEsotericState.gazHatti) co2Val = AdvancedEsotericState.gazHatti.karbonCO2 || 420;
-        if (typeof AdvancedEsotericState !== 'undefined' && AdvancedEsotericState.merkez) carbonVal = AdvancedEsotericState.merkez.saltBodyCarbon || 100;
-
-        if (isNightTime) {
-            // 🌙 GECE KUTUSU (Mühür: Çinko - Zn)
-            cycleBox.style.color = "#ca5ca0";
-            cycleBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
-            cycleBox.style.textShadow = "0 0 6px #ca5ca0";
-            cycleBox.innerHTML = `
-                🌙 <b>[GECE: KEMİK EVRESİ]</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold;">${knotName}</span> (İskelet/Meyve)<br>
-                🎚️ Canlı Akış: <span style="color:#00e5ff;">K+:${dinamik_K}ml</span> | <span style="color:#ffffff;">Ca:${dinamik_Ca}ml</span> | ☁️ CO2 Birikimi: <span style="color:#ffcc00;">${co2Val.toFixed(0)} ppm</span>
-            `;
-        } else {
-            // ☀️ GÜNDÜZ KUTUSU (Mühür: Magnezyum - Mg)
-            cycleBox.style.color = "#00ffaa";
-            cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
-            cycleBox.style.textShadow = "0 0 6px #00ffaa";
-            cycleBox.innerHTML = `
-                🌿 <b>[GÜNDÜZ: ET EVRESİ]</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold;">${knotName}</span> (Klorofil Çekirdeği)<br>
-                🌱 🧪 N:${dinamik_N}ml | S:${dinamik_S}ml | 🍃 Atmosfer CO2: <span style="color:#00e5ff;">${co2Val.toFixed(0)} ppm</span> ➔ 🟤 Gövde: ${carbonVal.toFixed(0)} kg
-            `;
-        }
-    }
-}
-// =========================================================================
 // =========================================================================
 // 🚨 [KÜTLE KORUNUMU] CO2 REZERVASYONU VE NaN ENGELLEME KALKANI
 // =========================================================================
@@ -3883,51 +3989,6 @@ if (!window.AdvancedEsotericState.merkez) {
 }
 
 const State = window.AdvancedEsotericState;
-
-// =========================================================================
-// 🚜 [NİHAİ TETİKLEYİCİ]: 1 BİRİM GAZ = 1 BİRİM KATI KÜTLE DÖNGÜSÜ
-// =========================================================================
-if (typeof initiateCosmicCrystallization === 'function') {
-    const currentHour64 = sunRoom64 % 64;
-    const isNightTime = currentHour64 >= 32;
-
-    const activeTestResult = isNightTime ? 
-        initiateCosmicCrystallization("Na", "K") : 
-        initiateCosmicCrystallization("S", "N");
-
-    const cycleBox = document.getElementById("wicca-cycle-info");
-    if (cycleBox && activeTestResult.output) {
-        
-        if (isNightTime) {
-            // 🌙 GECE SOLUNUMU: Tam 1 birim CO2 atmosfere salınır, gaz birikir.
-            State.gazHatti.karbonCO2 += 1.0; 
-            
-            let K_val = 186; let Ca_val = 80;
-            cycleBox.style.color = "#ca5ca0";
-            cycleBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
-            cycleBox.style.textShadow = "0 0 6px #ca5ca0";
-            cycleBox.innerHTML = `
-                🌙 <b>[GECE: KEMİK EVRESİ]</b> ➔ Kütle: <b>${activeTestResult.output.name}</b><br>
-                🎚️ K+:${K_val}ml | Ca:${Ca_val}ml | ☁️ CO2 Birikimi: <span style="color:#ffcc00;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span>
-            `;
-        } else {
-            // ☀️ GÜNDÜZ FOTOSENTEZİ: Atmosferden tam 1 birim gaz emilir ve gövdeye 1 kg kalıcı kütle eklenir!
-            // Kütle yoktan var olmaz, vardan yok olmaz felsefesi (1 birim gaz = 1 kg katı odun)
-            State.gazHatti.karbonCO2 -= 1.0;
-            State.merkez.saltBodyCarbon += 1.0; 
-
-            let N_val = 115; let S_val = 34.5;
-            cycleBox.style.color = "#00ffaa";
-            cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
-            cycleBox.style.textShadow = "0 0 6px #00ffaa";
-            cycleBox.innerHTML = `
-                ☀️ <b>[GÜNDÜZ: ET EVRESİ]</b> ➔ Kütle: <b>${activeTestResult.output.name}</b><br>
-                🌱 N:${N_val}ml | S:${S_val}ml | 🍃 Atmosfer CO2: <span style="color:#00e5ff;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span> ➔ 🟤 Gövde: ${State.merkez.saltBodyCarbon.toFixed(0)} kg
-            `;
-        }
-    }
-}
-// =========================================================================
 
 
 function renderCircadianEngineLog() {
