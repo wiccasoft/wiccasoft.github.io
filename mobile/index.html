@@ -533,7 +533,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     
     top: 42.7% !important;
-    left: 50.1% !important;
+    left: 50.5% !important;
     transform: translate(-50%, -50%) scale(0.8)!important;
     object-fit: contain;
     z-index: 1;
@@ -3561,84 +3561,85 @@ function tickSimyaVortex(zamanModu) {
 }
 
 // =========================================================================
-// 🚀 [KORUMALI RENDER]: CANLI DİNAMİK VANA VE SAF MÜHÜR ENTEGRASYONU (V820)
+// 🚀 [PHOSPHORUS FUSION]: CIRCADIAN ION & BONE REZONANS ENGINE (V1120)
 // =========================================================================
 function updateLiveEngineDisplay(engineOutput) {
     const cycleBox = document.getElementById("wicca-cycle-info");
     if (!cycleBox) return;
 
-    // 🚨 1. GÜVENLİK SİGORTASI: Nesneler veya alt dalları yoksa çöküşü mutlak engelle
-    if (!engineOutput || !engineOutput.automationControl || !engineOutput.birthOutputs) {
-        console.log("🛰️ [RÖLANTİ]: Otomasyon nesnesi bekleniyor...");
+    if (!engineOutput || !engineOutput.automationControl) {
+        console.log("🛰️ [IDLE]: Waiting for matrix telemetry...");
         return;
     }
 
-    // Deep Memory Rezervasyonu (NaN ve TypeError engelleme)
     if (typeof window.AdvancedEsotericState === 'undefined') window.AdvancedEsotericState = {};
-    if (!window.AdvancedEsotericState.gazHatti) window.AdvancedEsotericState.gazHatti = { karbonCO2: 430.0 }; // 🎯 Görseldeki 430 ppm başlangıcı
+    if (!window.AdvancedEsotericState.gazHatti) window.AdvancedEsotericState.gazHatti = { karbonCO2: 430.0 };
     if (!window.AdvancedEsotericState.merkez) window.AdvancedEsotericState.merkez = { saltBodyCarbon: 100.0 };
     
     const State = window.AdvancedEsotericState;
     const ctrl = engineOutput.automationControl;
-    const birth = engineOutput.birthOutputs; 
 
-    // 🌊 SIRKADİYEN DALGA MOTORU: Vanaları anlık olarak dalgalandırır
-    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 40; // Görselle senkronize başlangıç
+    // 🌊 CANLI SIRKADİYEN SAAT VE DALGA MOTORU
+    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 40; 
     let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
     
-    // Temel sirkadiyen akış limitleri
+    // Gündüz Akışları (Dinamik Azot ve Sülfür)
     let dinamik_N = Math.max(10, Math.round(115 + (sirkadiyenDalga * 45))); 
     let dinamik_S = Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10;
     
-    // 🎯 GÖRSEL KALİBRASYON: Gece 40. saat kilidinde tam olarak K+:246ml ve Ca:105ml üreten mutlak mühür
+    // 🎯 GECE AKIŞLARI KALİBRASYONU (40. Kuantum Saati Kilidi)
     let dinamik_K = (currentHour64 === 40) ? 246 : Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)));
     let dinamik_Ca = (currentHour64 === 40) ? 105 : Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)));
+    
+    // 🦚 🌟 FOSFOR (P) DİNAMİK DALGASI: Kalsiyum dengesinde (Kalsiyum Fosfat oranı 3:2) dinamik üretilir!
+    // 40. saatte tam ideal sirkadiyen değeri olan 70ml fosfor akışına kilitlenir aga!
+    let dinamik_P = (currentHour64 === 40) ? 70 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)));
 
-    // Sirkadiyen Durum Tespiti: Gelen nesne eksenine veya saate göre mutlak faz tayini
-    const isNightPhase = (ctrl.phase && ctrl.phase.includes("GENERATIVE")) || currentHour64 >= 32;
-
-    // KESİN KURAL: Orijinal valves nesnesini bu yerel dinamik dalgalarla mühürlüyoruz aga!
-    const v = {
-        nitrogen_ml: isNightPhase ? 0 : dinamik_N,
-        sulphur_ml: isNightPhase ? 0 : dinamik_S,
-        potassium_ml: isNightPhase ? dinamik_K : 0,
-        calcium_ml: isNightPhase ? dinamik_Ca : 0
-    };
+    const isNightPhase = currentHour64 >= 32;
 
     if (isNightPhase) {
         // =========================================================================
-        // 🌙 GECE MODU: KEMİK VE MEYVE SABİTLEME (Mühür: Çinko - Zn)
+        // 🌙 NIGHT CYCLE: CIRCADIAN ION FLUX (NOCTURNAL ANABOLISM)
         // =========================================================================
         ctrl.phase = "GENERATIVE_KEMIK_EVRESI";
         
-        // Sadece zaman büküldüğünde artsın, rölantide sabit kalsın diye NaN/Sınır korumalı takip
-        if (typeof State.gazHatti.karbonCO2 === 'undefined') State.gazHatti.karbonCO2 = 430.0;
-
-        cycleBox.style.color = "#ca5ca0"; // Görseldeki Son Dördün / Gece Pembesi floresan tonu
+        cycleBox.style.color = "#ca5ca0"; 
         cycleBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
         cycleBox.style.textShadow = "0 0 8px #ca5ca0";
         
-        // 🛡️ Görseldeki metin şablonuyla birebir örtüşen HTML enjeksiyonu
+        // 🔬 GECE MERKEZİ GÜNCELLENDİ: Kalsiyum & Fosfor Apatit Matrisi (Ca & P)
         cycleBox.innerHTML = `
-            🌙 <b>DÖNGÜ: GENERATIVE_KEMIK_EVRESI</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold;">${birth.equilibriumKnot || 'Zn'}</span><br>
-            <span style="color:#00e5ff; font-weight:bold;">K+:${v.potassium_ml}ml</span> | <span style="color:#ffffff; font-weight:bold;">Ca:${v.calcium_ml}ml</span> | ☁️ CO2 Birikimi: <span style="color:#ffcc00; font-weight:bold;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span>
+            🌙 <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">[CIRCADIAN ION FLUX: NOCTURNAL ANABOLISM]</span> ➔ CORE ELEMENT: <span style="color:#ffffff; font-weight:bold; text-shadow: 0 0 10px #fff;">Ca & P (Apatite Matrix)</span><br>
+            <div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+                ION ENGINE: <span style="color: #ff9900; font-weight: bold;">Na (Volts)</span> 🜔 <span style="color: #00e5ff; font-weight: bold;">K (Alkali)</span> ➔ 
+                <span style="color:#00e5ff; font-weight:bold;">K+ : ${dinamik_K}ml</span> | 
+                <span style="color:#ffffff; font-weight:bold;">Ca : ${dinamik_Ca}ml</span> | 
+                <span style="color:#ff00ff; font-weight:bold;">P : ${dinamik_P}ml</span>
+                [ ☁️ CO2 Accumulation: <span style="color:#ffcc00; font-weight:bold;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span> ]
+            </div>
         `;
     } else {
         // =========================================================================
-        // ☀️ GÜNDÜZ MODU: YAPRAK ET DOKUSU VE FOTOSENTEZ (Mühür: Magnezyum - Mg)
+        // ☀️ DAY CYCLE: CIRCADIAN ION FLUX (DIURNAL PHOTOSYNTHESIS)
         // =========================================================================
         ctrl.phase = "VEGETATIVE_ET_EVRESI";
 
-        cycleBox.style.color = "#00ffaa"; // Gündüz Siber Yeşili
+        cycleBox.style.color = "#00ffaa"; 
         cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
         cycleBox.style.textShadow = "0 0 8px #00ffaa";
         
         cycleBox.innerHTML = `
-            🌿 <b>DÖNGÜ: VEGETATIVE_ET_EVRESI</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold;">${birth.equilibriumKnot || 'Mg'}</span> (Klorofil Kalbi)<br>
-            <span style="color:#00ffaa; font-weight:bold;">🌱 N:${v.nitrogen_ml}ml</span> | <span style="color:#ff5e00; font-weight:bold;">🔥 S:${v.sulphur_ml}ml</span> | 🍃 CO2: <span style="color:#00e5ff; font-weight:bold;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span> ➔ 🟤 Gövde: ${State.merkez.saltBodyCarbon.toFixed(0)} kg
+            ☀️ <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">[CIRCADIAN ION FLUX: DIURNAL PHOTOSYNTHESIS]</span> ➔ CORE ELEMENT: <span style="color:#ffd700; font-weight:bold; text-shadow: 0 0 10px #ffd700;">Mg (Chlorophyll Heart)</span><br>
+            <div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+                GAS ENGINE: <span style="color: #ff00ff; font-weight: bold;">S (Acid)</span> 🜍 <span style="color: #66ff00; font-weight: bold;">O (Alpha)</span> ➔ 
+                <span style="color:#00ffaa; font-weight:bold;">N : ${dinamik_N}ml</span> | 
+                <span style="color:#ff5e00; font-weight:bold;">S : ${dinamik_S}ml</span> 
+                [ 🍃 Body Mass: <span style="color:#00e5ff; font-weight:bold;">${State.merkez.saltBodyCarbon.toFixed(0)} kg</span> ]
+            </div>
         `;
     }
 }
+
 // =========================================================================
 // 🚨 [MUTLAK KORUMA KİLİDİ] DEEP TYPERROR ENGELLENME MATRİSİ (V100)
 // =========================================================================
@@ -3873,6 +3874,34 @@ if (metatronIframe && metatronIframe.contentWindow) {
         }, '*');
     }
 
+
+    // =========================================================================
+// 🔮 [METATRON_CUBE_GLOW]: KÜTLE ARTTIKÇA MERKEZ KÜRELERİ CANLANDIRMA MOTORU
+// =========================================================================
+function refreshMetatronKlorofilGlow() {
+    // 1. Mevcut gövde kütlesini emniyetli şekilde oku
+    let saltKutle = 100.0;
+    if (window.SimyaBodyState && window.SimyaBodyState.merkez) {
+        saltKutle = window.SimyaBodyState.merkez.saltBodyKutlesi || 100.0;
+    }
+
+    // 2. Kütle artışına göre dinamik bir opaklık (opacity) çarpanı hesapla (0.4 ile 1.0 arası)
+    // Gövde kütlesi temel 100 kg'ın üzerine çıktıkça küreler floresan gibi parlar aga!
+    let dinamikOpaklik = Math.min(1.0, 0.4 + ((saltKutle - 100) * 0.05));
+    let neonFiltresi = Math.min(25, 5 + ((saltKutle - 100) * 2));
+
+    // 3. Metatron matrisinin merkezindeki renkli klorofil yuvarlaklarını DOM'dan yakala
+    // HTML'indeki ortada duran renkli kürelerin class/id yapılarına göre seçer:
+    const klorofilKüreleri = document.querySelectorAll(".art-core-container circle, [class*='matrix-circle']");
+    
+    klorofilKüreleri.forEach((circle) => {
+        if (!circle) return;
+        // Tuz emildikçe ve gövde kütlesi canlandıkça küreler saydamlıktan mutlak parlaklığa geçer!
+        circle.style.transition = "all 0.5s ease-in-out";
+        circle.style.opacity = dinamikOpaklik;
+        circle.style.filter = `drop-shadow(0 0 ${neonFiltresi}px currentColor) brightness(1.2)`;
+    });
+}
 
   try {
        //syncLilithEngine()
