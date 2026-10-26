@@ -3854,8 +3854,8 @@ function updateLiveEngineDisplay(engineOutput) {
     // ⚡ AKIM YÖNÜ DETEKTÖRÜ
 
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">AKIM:${akimYonuSembolu}</span> 🜿 Repolarizasyon / K+ (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">AKIM:${akimYonuSembolu}</span> 🜭 Depolarizasyon / Na+ (Deşarj/Action)`;
+        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> 🜿 Repolarizasyon / K+ (Pil Şarj Oluyor)` : 
+        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> 🜭 Depolarizasyon / Na+ (Deşarj/Action)`;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
