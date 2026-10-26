@@ -2940,7 +2940,7 @@ window.alchemyPhase = "none"
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
     } else if (sunRoom64 >= 15 && sunRoom64 < 32) {
         // 🟡 16-32: QRS Kompleksi & Maksimum Fırlatım (Na+ Depolarizasyon Patlaması)
-        pendulumStatus = "🟡 QRS comlex (Na+ Depolarizasyon)"
+        pendulumStatus = "🟡 QRS Complex | Na+ Depolarization"
          alchemyPhase = { 
         name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
         info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali (Şeker) sentezleniyor!" };
@@ -3777,7 +3777,7 @@ function updateLiveEngineDisplay(engineOutput) {
         alchemyPhase = { 
             name: "RUBEDO", 
             color: "#ffd700", 
-            info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali Sentezleniyor!" 
+            info: "☀️ RUBEDO: Carbon Fixation Active" 
         };
     } else if (alchemyPhase.name === "NIGREDO") {
         alchemyPhase = { 
@@ -3851,11 +3851,11 @@ function updateLiveEngineDisplay(engineOutput) {
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
 
-    // ⚡ AKIM YÖNÜ DETEKTÖRÜ
+    // ⚡ CURRENT DIRECTION DETECTOR
     //(Pil Şarj Oluyor) (Deşarj/Action)
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> <span style='color: #87CEFA;'> 🜿 Repolarizasyon | K+ </span>"` : 
-        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> <span style='color:red'> 🜭 Depolarizasyon | Na+ </span> `;
+        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> AKIM:${akimYonuSembolu} <span style='color:#87CEFA;'> 🜿 Repolarizasyon | K+ </span>"` : 
+        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> AKIM:${akimYonuSembolu} <span style='color:orange'> 🜭 Depolarizasyon | Na+ </span> `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
@@ -3866,17 +3866,18 @@ function updateLiveEngineDisplay(engineOutput) {
    if(sunRoom64>=32 && sunRoom64<=65){
      pilSarjYuzdesi = (((sunRoom64)/64)*100).toFixed(1)}
 
+    pilSarjYuzdesi = ""
     //K+ : ${v.potassium_ml} | Ca : ${v.calcium_ml} | P : ${v.phosphorus_ml}
     //N : ${v.nitrogen_ml} | S : ${v.sulphur_ml} | K : ${v.potassium_ml}
     //${window.systemPhaseCode}${akimYonuSembolu} ${window.systemPhaseCode}
 
     if (!isNIGREDO) {
         cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
-            [ION FLUX: ${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
                 ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     } else {
         cycleBox.innerHTML = `<<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
-            [ION FLUX: ${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
                 ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     }
 
