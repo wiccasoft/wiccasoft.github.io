@@ -2955,7 +2955,7 @@ window.alchemyPhase = "none"
 
     if (sunRoom64 >= 0 && sunRoom64 < 16) {
         // 🟢 0-16: Atrial Dinlenme & Başlangıç (P Dalgası / Polarize Durum)
-        pendulumStatus = "🟢 Atrial(P Dalgası / Polarizazyon)"
+        pendulumStatus = "🟢 (P Dalgası / Polarizazyon)"
         alchemyPhase = { 
         name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
         info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali (Şeker) sentezleniyor!" };
@@ -2971,7 +2971,7 @@ window.alchemyPhase = "none"
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
-    } else if (sunRoom64 >= 32 && sunRoom64 < 52) {
+    } else if (sunRoom64 >= 32 && sunRoom64 < 59) {
         // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)"
           alchemyPhase = { 
@@ -3858,7 +3858,7 @@ function updateLiveEngineDisplay(engineOutput) {
     let akimYonuSembolu =  isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
 
     // Arayüz Çıktıları
-    let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
+    let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
     let glukozSentezMiktari = !isNIGREDO ? Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1) : 0;
     
     let fotosentezFormuluGosterge = !isNIGREDO ? 
