@@ -1739,7 +1739,7 @@ setInterval(() => {
         let sun12Idx = (typeof sirkadiyenButonIndex !== 'undefined') ? (sirkadiyenButonIndex % 12) : 0;
 
         // ⚔️ 3 SATIR MUTLAK HUBER GEOMETRİSİ (12'li dairede tam 90 derecelik / 3 burçluk dikey haç):
-        let sunGateIndex    = sun12Idx;                 // 🔴 Kırmızı (Ateş / Asc Ufuk Çapası)
+        window.sunGateIndex    = sun12Idx;                 // 🔴 Kırmızı (Ateş / Asc Ufuk Çapası)
         let lilithGateIndex = (sun12Idx + 6) % 12;      // 🔵 Mavi (Hava / 180° Tam Karşıt Desc Kutbu)
         let purpleGateIndex = (sun12Idx + 2) % 12;      // 🟣 Mor (90° Mutlak Dikey MC Aksı ➔ İkizler Koridoru!)
         let yellowGateIndex = (sun12Idx + 8) % 12;      // 🟡 Sarı (270° Karşıt Dikey IC Kutbu)
@@ -1764,7 +1764,9 @@ setInterval(() => {
         window.wiccaYellowGateSymbol = wiccaZodiacData[yellowGateIndex].bagua;
         window.wiccaPurpleGateSymbol = wiccaZodiacData[purpleGateIndex].bagua;
 
-        // 🧭 DOM PARLAMA KALKANI
+        // =========================================================================
+        // 🔮 GATE GLOWING [WICCA_FINAL_BRIDGE]
+        // =========================================================================
         if (typeof gateMapping !== 'undefined' && gateMapping) {
             gateMapping.forEach((gate, idx) => {
                 if (gate) {
@@ -1779,9 +1781,7 @@ setInterval(() => {
 
         isSleepMatrixInverse = false;
 
-        // =========================================================================
-        // 🔮 KARIŞIKLIĞI BİTİREN KESİN ELEMENT MÜHÜRLENMESİ [WICCA_FINAL_BRIDGE]
-        // =========================================================================
+       
         document.querySelectorAll('.season-indicator').forEach(indicator => {
             indicator.style.opacity = "0.25";
             indicator.style.filter = "grayscale(80%) brightness(0.6)";
@@ -1789,10 +1789,10 @@ setInterval(() => {
         });
 
 
-   
 
-        // 2. Senin o 8 kapıyı dizdiğin 'gateMapping' indeksine göre elementi seçiyoruz:
         let yananElement = "";
+
+
         if (sirkadiyenButonIndex === 2 || sirkadiyenButonIndex === 3) {
             yananElement = "fire";   
         } else if (sirkadiyenButonIndex === 4 || sirkadiyenButonIndex === 1) {
@@ -1803,7 +1803,6 @@ setInterval(() => {
             yananElement = "water";  
         }
 
-        // Aşağıdaki hedef elementi bul ve kendi bagua element rengiyle parlat!
         if (yananElement !== "") {
             const altGosterge = document.querySelector(`.season-indicator[data-element="${yananElement}"]`);
             if (altGosterge) {
@@ -1832,7 +1831,7 @@ setInterval(() => {
 
         // ---------- 4 ELEMENT GATE-----------------------------------------------//
     
-        let sunGate = gateMapping[sirkadiyenButonIndex];
+        window.sunGate = gateMapping[sirkadiyenButonIndex];
         let moonGate = gateMapping[lilithButonIndex];
         let northNodeGate = gateMapping[northNodeRoomIndex];
         let southNodeGate = gateMapping[southNodeRoomIndex];
@@ -2894,7 +2893,7 @@ document.getElementById("cosmic-status").innerText = "";
         //const currentInfluences = PLANET_ELEMENT_INFLUENCES[activePlanetName] || {};
 
         // 🌟 GATE MAPPING -------------------------------------------------------------------------------
-        gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
+        window.gateMapping = [fireGate, lightGate, airGate, etherGate, waterGate, metalGate, earthGate, iceGate];
 
 
         gateMapping.forEach(gate => {
@@ -2925,29 +2924,6 @@ const compassFrame = document.getElementById('main-frame') || document.querySele
 if (compassFrame) {
     
     compassFrame.style.transition = "all 0.2s ease"; 
-
-
-    // =========================================================================
-// 🧭 INRI ENGINE (WITH SIRKADIYEN ALCHEMY FAZLARI: NIGREDO, ALBEDO, RUBEDO) - V3000 OPTIMIZED
-// =========================================================================
-
-// gateMapping tanımlı değilse çökmemesi için diziyi güvenli başlatma tamponu
-const activeGateMapping = (typeof gateMapping !== 'undefined' && gateMapping.length) ? gateMapping : new Array(8).fill(null);
-const totalGates = activeGateMapping.length; 
-
-const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 40;
-let sunGateIndex = Math.floor((currentSunHour % 64) / (64 / totalGates));
-
-// Temel simyasal aksların güneş konumuna göre 4 yönlü dengeli dairesel dağılımı
-let targetSulphurIndex = (sunGateIndex + 7) % totalGates; 
-let targetSaltIndex    = (sunGateIndex + 5) % totalGates; 
-let targetMercuryIndex = (sunGateIndex + 3) % totalGates; 
-let targetAzothIndex   = (sunGateIndex + 1) % totalGates; 
-
-// =========================================================================
-// 🔮 SİRKADİYEN SİMYA FAZI BELİRLEME MOTORU (N-P-O-S MODELLEMESİ)
-// =========================================================================
-const currentHour64 = currentSunHour % 64;
 
 
 window.alchemyPhase = "none"
@@ -3217,14 +3193,14 @@ class AlchemicalAgricultureEngine {
         let currentPhase = "";
 
         if (key1 === "S" && key2 === "N") {
-            currentPhase = "VEGETATIVE_ET_EVRESI";
+            currentPhase = "VEGETATIVE_SALT";
             balancedByKnot = "Mg"; 
             valveOutputs.nitrogen_ml = Math.round(totalA * 2.5); 
             valveOutputs.sulphur_ml = Math.round(totalZ * 1.5);
             valveOutputs.water_liters = 5.0; 
         } 
         else if (key1 === "Na" && key2 === "K") {
-            currentPhase = "GENERATIVE_KEMIK_EVRESI";
+            currentPhase = "GENERATIVE_BONE";
             balancedByKnot = "Zn"; 
             
             // 🎯 GÖRSEL KALİBRASYON: Paneldeki K+:246ml ve Ca:105ml değerlerini dinamik hesaplayan formüller
@@ -3858,7 +3834,7 @@ function updateLiveEngineDisplay(engineOutput) {
     //window.systemPhaseCode = "";
     
     // ⚡ AKIM YÖNÜ DETEKTÖRÜ
-    let akimYonuSembolu = !isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
+    let akimYonuSembolu = !isNIGREDO ? " [Na+ OUT ⚡ K+ IN]🠔 🜍" : "🜍 ➔ [Na+ IN ⚡ K+ OUT]";
 
     // Arayüz Çıktıları
     //let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
@@ -3875,10 +3851,11 @@ function updateLiveEngineDisplay(engineOutput) {
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
 
-   
+    // ⚡ AKIM YÖNÜ DETEKTÖRÜ
+
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / K+ (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Na+ (Deşarj/Action)`;
+        `<span style="color:#ca5ca0; font-weight:bold;">AKIM:${akimYonuSembolu}</span> 🜿 Repolarizasyon / K+ (Pil Şarj Oluyor)` : 
+        `<span style="color:#00ffaa; font-weight:bold;">AKIM:${akimYonuSembolu}</span> 🜭 Depolarizasyon / Na+ (Deşarj/Action)`;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
@@ -3891,7 +3868,7 @@ function updateLiveEngineDisplay(engineOutput) {
 
 
 
-    //${window.systemPhaseCode}
+    //${window.systemPhaseCode}${akimYonuSembolu}
 
     if (!isNIGREDO) {
         cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
@@ -3989,6 +3966,7 @@ function renderCosmicCrystallizationLog() {
         carbonVal = window.AdvancedEsotericState.merkez.saltBodyCarbon || 100;
     }
 
+
     // Vanaların sirkadiyen hesaplamaları
     let dinamik_N = engineValves.nitrogen || `${Math.max(10, Math.round(115 + (sirkadiyenDalga * 45)))}ml`; 
     let dinamik_S = engineValves.sulphur || `${Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10}ml`;
@@ -3997,10 +3975,10 @@ function renderCosmicCrystallizationLog() {
     let dinamik_P = engineValves.phosphorus || `${(currentHour64 === 40) ? 73 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)))}ml`;
 
     // ⚡ AKIM YÖNÜ DETEKTÖRÜ
-    let akimYonuSembolu =isNightPhase ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
+    let akimYonuSembolu =isNightPhase ? "🜍 🠔 [Na+ OUT ⚡ K+ IN]" : "🜍 ➔ [Na+ IN ⚡ K+ OUT]";
     let akimYonuMetni = isNightPhase ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Aksiyon Başladı)`;
+        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> 🜿 Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
+        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> 🜭 Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Aksiyon Başladı)`;
 
     // 🍃 FOTOSENTEZ & ŞEKER SENTEZİ (TERS DÖNGÜYÜ İMHA EDEN MUTLAK SİGORTA)
     let glukozSentezMiktari = 0;
@@ -4033,11 +4011,11 @@ function renderCosmicCrystallizationLog() {
 // =========================================================================
 
 // gateMapping tanımlı değilse çökmemesi için diziyi güvenli başlatma tamponu
-const activeGateMapping = (typeof gateMapping !== 'undefined' && gateMapping.length) ? gateMapping : new Array(8).fill(null);
+const activeGateMapping = gateMapping;
 const totalGates = activeGateMapping.length; 
 
-const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 40;
-let sunGateIndex = Math.floor((currentSunHour % 64) / (64 / totalGates));
+//const currentSunHour = window.sunRoom64;
+//let sunGateIndex = Math.floor((currentSunHour % 64) / (64 / totalGates));
 
 // Temel simyasal aksların güneş konumuna göre 4 yönlü dengeli dairesel dağılımı
 let targetSulphurIndex = (sunGateIndex + 7) % totalGates; 
@@ -4048,7 +4026,7 @@ let targetAzothIndex   = (sunGateIndex + 1) % totalGates;
 // =========================================================================
 // 🔮 SİRKADİYEN SİMYA FAZI BELİRLEME MOTORU (N-P-O-S MODELLEMESİ)
 // =========================================================================
-const currentHour64 = currentSunHour % 64;
+//const currentHour64 = currentSunHour % 64;
 
 
 activeGateMapping.forEach((gate, index) => {
@@ -4101,7 +4079,7 @@ activeGateMapping.forEach((gate, index) => {
         trigramSpan.style.textShadow = `0 0 8px ${alchemyPhase.color}`;
         gate.setAttribute('data-alchemy-phase', alchemyPhase.name);
     }
-
+    
 
     const iconSize1 = '16px';
     const iconSize2 = '22px';
@@ -4115,6 +4093,7 @@ activeGateMapping.forEach((gate, index) => {
         gate.style.borderColor = '#ff00ff';
         gate.style.boxShadow = '0 0 15px #ff00ff, inset 0 0 10px #ff00ff';
         gate.style.filter = 'none';
+        //console.log("ALCHEMY IN:"+index)
     } 
     else if (index === targetSaltIndex) {
         trigramSpan.textContent = symbols.salt; 
