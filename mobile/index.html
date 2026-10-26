@@ -3834,7 +3834,7 @@ function updateLiveEngineDisplay(engineOutput) {
     //window.systemPhaseCode = "";
     
     // ⚡ CURRENT DIRECTION DETECTOR
-    let akimYonuSembolu = !isNIGREDO ? " [Na+ IN ⚡ K+ OUT] 🜍" : "🜍  [Na+ OUT ⚡ K+ IN]";
+    let akimYonuSembolu = !isNIGREDO ? " [Na+ IN ⚡ K+ OUT] P 🜍" : "P 🜍  [Na+ OUT ⚡ K+ IN]";
 
     // Arayüz Çıktıları
     //let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
@@ -3854,8 +3854,8 @@ function updateLiveEngineDisplay(engineOutput) {
     // ⚡ CURRENT DIRECTION DETECTOR
     //(Pil Şarj Oluyor) (Deşarj/Action)
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> AKIM:${akimYonuSembolu} <span style='color:#87CEFA;'> 🜿 Repolarizasyon | K+ </span>"` : 
-        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> AKIM:${akimYonuSembolu} <span style='color:orange'> 🜭 Depolarizasyon | Na+ </span> `;
+        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> ${akimYonuSembolu} <span style='color:#87CEFA;'> 🜿 Repolarization | K+ </span>"` : 
+        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> ${akimYonuSembolu} <span style='color:orange'> 🜭 Depolarization | Na+ </span> `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
@@ -3872,12 +3872,12 @@ function updateLiveEngineDisplay(engineOutput) {
     //${window.systemPhaseCode}${akimYonuSembolu} ${window.systemPhaseCode}
 
     if (!isNIGREDO) {
-        cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
-            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+        cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
+            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-size:14;font-family: monospace; color: #e0e0e0;">
                 ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     } else {
-        cycleBox.innerHTML = `<<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
-            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+        cycleBox.innerHTML = `<<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
+            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-size:14;font-family: monospace; color: #e0e0e0;">
                 ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     }
 
