@@ -1672,9 +1672,9 @@ setInterval(() => {
             sirkadiyenButonIndex = 2; // 🔥 Room 11-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
         } else if (currentTargetRoom >= 24 && currentTargetRoom <= 31) {
             sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
-        } else if (currentTargetRoom >= 32 && currentTargetRoom <= 37) {
+        } else if (currentTargetRoom >= 32 && currentTargetRoom <= 36) {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-        } else if (currentTargetRoom >= 37 && currentTargetRoom <= 43) {
+        } else if (currentTargetRoom >= 36 && currentTargetRoom <= 43) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
         } else if (currentTargetRoom >= 44 && currentTargetRoom <= 51) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
@@ -1685,7 +1685,7 @@ setInterval(() => {
             sirkadiyenButonIndex = 0; 
         }
         
-        console.log(`🕰️ [WICCA_SAF_TIME_ENGINE]: Current Room: ${currentTargetRoom}, Sirkadiyen Index: ${sirkadiyenButonIndex}`);
+        console.log(`🕰️ [WICCA_ROOM_ENGINE]: Current Room: ${currentTargetRoom}, Sirkadiyen Index: ${sirkadiyenButonIndex}`);
         
          // =========================================================================
         // 🎯 [HUBER 12-AXIS CORE]: %100 SAF 12'Lİ DİNAMİK HAÇ MOTORU [V95_MASTER_RAW]
@@ -2184,7 +2184,7 @@ setInterval(() => {
         let isLastQuarter = (moonAge >= 21.14 && moonAge < 22.64) || (moonPercent >= 72 && moonPercent <= 78);
 
         // 🔍 Konsol Logu ile anlık takip (İstersen log atarak da kontrol edebiliriz)
-        console.log(`🎯 [QUARTER CHECK]: Yüzde: %${moonPercent}, FirstQ: ${isFirstQuarter}, LastQ: ${isLastQuarter}`);
+        //console.log(`🎯 [QUARTER CHECK]: Yüzde: %${moonPercent}, FirstQ: ${isFirstQuarter}, LastQ: ${isLastQuarter}`);
 
         // 2. Çakışma kontrolü ve Lilith sembolü ataması:
         let isLilithOverlapNorth = (typeof lilithIndex !== 'undefined' && northNodeRoomIndex === lilithIndex);
@@ -2306,7 +2306,7 @@ setInterval(() => {
 
         if (typeof moonLive !== 'undefined' && moonLive && typeof moonLive.percent !== 'undefined') {
 
-             console.log(`📊 [WICCA LUNAR RADAR]: Aktif Oda:`+wiccaMoonSignIdx+`, Ay Işık Yüzdesi: %${moonLive.percent.toFixed(2)}`);
+             //console.log(`📊 [WICCA LUNAR RADAR]: Aktif Oda:`+wiccaMoonSignIdx+`, Ay Işık Yüzdesi: %${moonLive.percent.toFixed(2)}`);
        
              //let isWiccaQuarterMoon = (moonLive.percent >= 45 && moonLive.percent <= 65);
 
@@ -2340,14 +2340,14 @@ setInterval(() => {
         let alphaIcon = isNewMoon ? "🖤" : "α"; // Yeni Ay'da başka bir simge, normalde 'α'
         let omegaIcon = isNewMoon ? "⚸" : "Ω"; // Yeni Ay'da başka bir simge, normalde 'Ω'
 
-        console.log("MOON AGE:"+isNewMoon)
-        console.log("Moon Percent:", moonLive.percent,  "New Moon:", isNewMoonPhase);
+        //console.log("MOON AGE:"+isNewMoon)
+        //console.log("Moon Percent:", moonLive.percent,  "New Moon:", isNewMoonPhase);
 
         // Veya mevcut HTML / arayüz elemanlarına bu ikonları yansıtma:
         window.alphaSymbol = alphaIcon;
         window.omegaSymbol = omegaIcon;
 
-        console.log("Moon Percent:", moonLive.percent, "Circadian Index:", sirkadiyenButonIndex, "Selene Index:", seleneIndex, "New Moon:", isNewMoonPhase);
+        //console.log("Moon Percent:", moonLive.percent, "Circadian Index:", sirkadiyenButonIndex, "Selene Index:", seleneIndex, "New Moon:", isNewMoonPhase);
         // 🔮 NEON SEÇİCİ RENKLER
 
         
@@ -2516,7 +2516,7 @@ setInterval(() => {
 
         // 🚨 [LILITH DETECTION & ACTIVE ICON RESTORATION]
                 if (isWiccaQuarterMoonActive || isFullMoonActive || window.isWiccaQuarterMoon === true) {
-                    console.warn(`🛑 [LILITH ACTIVE/VISIBLE]: %` + moonLive.percent + ` Oda No: ${lilithIndex} aktif ikon gösteriliyor...`);
+                    //console.warn(`🛑 [LILITH ACTIVE/VISIBLE]: %` + moonLive.percent + ` Oda No: ${lilithIndex} aktif ikon gösteriliyor...`);
                                             
                     let activeLilithKalıntı = lilithGate.querySelector('.lilith-core-title');
                     if (activeLilithKalıntı) {
@@ -2691,13 +2691,14 @@ const metatronElement = document.getElementById('metatron-three-iframe-holder');
 //console.log("Metatron:", metatronElement);
 //--------------------------------------------------------------------------------------------------//
         
-let pendulumStatus = "";
-let dayStg = "";
+window.pendulumStatus = "";
+window.dayStg = "";
 
-// 🍁 MEVSİM VE GÜN BÜKÜCÜ MİMARİ
+// 🍁 MEVSİM VE GÜN BÜKÜCÜ MİMARİ (Igne Natura Renovatur Integra)
 let yinStg = "";
 let seasonalMultiplier = 1.0;
 
+// Igne Natura Renovatur Integra
 // 1. Mevsimsel Katsayı Hesabı (Kışın Parasempatik süreyi, yazın Sempatik süreyi esnetir)
 const currentMonth = new Date().getMonth(); // 0 = Ocak, 8 = Eylül (Sonbahar)
 if (currentMonth >= 11 || currentMonth <= 1) { 
@@ -2737,7 +2738,7 @@ if (monaElement && salvadorElement) {
     if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         targetMonaOpacity = 1.0;               
         targetSalvadorOpacity = 0.0; 
-        pendulumStatus = "[MONA LISA] GÜNE MERHABA (SİSTOLİK GERİLİM SHARJI)";
+        pendulumStatus = "YIN CHARGE";
         dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
 
         const art = document.querySelector('.art-core-container');
@@ -2759,7 +2760,7 @@ if (monaElement && salvadorElement) {
         
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
-        pendulumStatus = "🌞 [MONA LISA] Crucifixion (YANG DISCHARGE)";
+        pendulumStatus = "🌞 Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
         
         const art = document.querySelector('.art-core-container');
@@ -2788,7 +2789,7 @@ if (monaElement && salvadorElement) {
 
         targetMonaOpacity = 0.0; 
         targetSalvadorOpacity = 1.0;           
-        pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
+        pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER";
         dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
         
         const metatronIframe = document.querySelector('.metatron-iframe');
@@ -2803,7 +2804,7 @@ if (monaElement && salvadorElement) {
 
          targetMonaOpacity = 0.0; 
         targetSalvadorOpacity = 1.0;           
-        pendulumStatus = "🔵 [LILITHE] ParaSympathetic LAST SUPPER (CSF TEMİZLİK)";
+        pendulumStatus = "🔵 [LILITHE] Sympathetic RISE";
         dayStg = "🔵 RESURECTION (CHARGE)";
         
     }
@@ -2814,7 +2815,7 @@ if (monaElement && salvadorElement) {
         
         targetMonaOpacity = twilightCalibrated;          
         targetSalvadorOpacity = 1 - twilightCalibrated;  
-        pendulumStatus = "🌘 RESURECTION (CHARGE)";
+        pendulumStatus = "🔴 RESURECTION (CHARGE)";
         dayStg = "🔴 Funny Current (T Dalgası & SA Düğümü)";
 
         monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
@@ -2925,23 +2926,77 @@ if (compassFrame) {
     
     compassFrame.style.transition = "all 0.2s ease"; 
 
+
+    // =========================================================================
+// 🧭 INRI ENGINE (WITH SIRKADIYEN ALCHEMY FAZLARI: NIGREDO, ALBEDO, RUBEDO) - V3000 OPTIMIZED
+// =========================================================================
+
+// gateMapping tanımlı değilse çökmemesi için diziyi güvenli başlatma tamponu
+const activeGateMapping = (typeof gateMapping !== 'undefined' && gateMapping.length) ? gateMapping : new Array(8).fill(null);
+const totalGates = activeGateMapping.length; 
+
+const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 40;
+let sunGateIndex = Math.floor((currentSunHour % 64) / (64 / totalGates));
+
+// Temel simyasal aksların güneş konumuna göre 4 yönlü dengeli dairesel dağılımı
+let targetSulphurIndex = (sunGateIndex + 7) % totalGates; 
+let targetSaltIndex    = (sunGateIndex + 5) % totalGates; 
+let targetMercuryIndex = (sunGateIndex + 3) % totalGates; 
+let targetAzothIndex   = (sunGateIndex + 1) % totalGates; 
+
+// =========================================================================
+// 🔮 SİRKADİYEN SİMYA FAZI BELİRLEME MOTORU (N-P-O-S MODELLEMESİ)
+// =========================================================================
+const currentHour64 = currentSunHour % 64;
+
+
+window.alchemyPhase = "none"
+
+
     if (sunRoom64 >= 0 && sunRoom64 < 16) {
         // 🟢 0-16: Atrial Dinlenme & Başlangıç (P Dalgası / Polarize Durum)
+        pendulumStatus = "🟢 Atrial(P Dalgası / Polarizazyon)"
+        alchemyPhase = { 
+        name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
+        info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali (Şeker) sentezleniyor!" };
+
         compassFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
-    } else if (sunRoom64 >= 16 && sunRoom64 < 32) {
+    } else if (sunRoom64 >= 15 && sunRoom64 < 32) {
         // 🟡 16-32: QRS Kompleksi & Maksimum Fırlatım (Na+ Depolarizasyon Patlaması)
+        pendulumStatus = "🟡 QRS comlex (Na+ Depolarizasyon)"
+         alchemyPhase = { 
+        name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
+        info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali (Şeker) sentezleniyor!" };
+
         compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
-    } else if (sunRoom64 >= 32 && sunRoom64 < 48) {
+    } else if (sunRoom64 >= 32 && sunRoom64 < 52) {
         // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
+        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)"
+          alchemyPhase = { 
+            name: "NIGREDO", color: "#ca5ca0", bgGlow: "rgba(122, 0, 255, 0.25)",
+            info: "🔋 NIGREDO: Hücre hermetik mühürlendi. Bakteriyel Sülfür Motoru ve Mor Fosfor odası pilleri şarj ediyor!"
+            };
+
         compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     } else {
-        // 🔴 49-64: T Dalgası & 51. Oda Funny Current Kardiyak Şok Patlaması (Lilith Fazı)
+        // 🔴 52-64: T Dalgası & 51. Oda Funny Current Kardiyak Şok Patlaması (Lilith Fazı)
+        pendulumStatus = "🔴 T Dalgası Funny Current (Lilith Fazı)"
+            alchemyPhase = {
+        name: "ALBEDO",
+        color: "#66ff00", 
+        bgGlow: "rgba(0, 255, 170, 0.2)",
+        info: "🤍 ALBEDO: Akım dikey aksa tırmanıyor. Yeşil Nitrojen odası hazır, sistem gün doğumuna kuruldu!"
+    };
         compassFrame.style.borderImage = "linear-gradient(45deg, #ff2a2a, #ff0055) 1";
         compassFrame.style.boxShadow = "0 0 22px rgba(255, 42, 42, 0.45)";
     }
+
+
+    
+    console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
 }
 
 
@@ -3061,9 +3116,6 @@ window.AdvancedEsotericState = {
         saltBodyCarbon: 100
     }
 };
-
-
-
 
 
 // Global kısa yol tanımını da garantiye alıyoruz
@@ -3316,7 +3368,7 @@ function renderCosmicCrystallizationLog() {
                 infoBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
                 infoBox.style.textShadow = "0 0 8px #ca5ca0";
                 infoBox.innerHTML = `
-                    🌙 <b>[DÖNGÜ: GENERATIVE_KEMIK_EVRESI]</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold; text-shadow: 0 0 5px #fff;">${birth.equilibriumKnot}</span> (Alkali Çit)<br>
+                    🌙 <b>[DÖNGÜ: GENERATIVE_BONE]</b> ➔ Denge Mührü: <span style="color:#ffffff; font-weight:bold; text-shadow: 0 0 5px #fff;">${birth.equilibriumKnot}</span> (Alkali Çit)<br>
                     <div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0; line-height: 1.4; text-shadow: none;">
                         ⚙️ <b>[NIGHT]:</b> Na+ OUT 🠔 K+ IN (Hermetik Şarj %${pilSarjYuzdesi})<br>
                         🔋 <b>K+:${v_potassium}</b> | <b>Ca:${v_calcium}</b> | 🜞 Fosfor (P-Anot): Pil Yuvası Depoluyor<br>
@@ -3329,7 +3381,7 @@ function renderCosmicCrystallizationLog() {
                 infoBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
                 infoBox.style.textShadow = "0 0 8px #00ffaa";
                 infoBox.innerHTML = `
-                    ☀️ <b>[DÖNGÜ: VEGETATIVE_ET_EVRESI]</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold; text-shadow: 0 0 5px #ffd700;">${birth.equilibriumKnot}</span> (Klorofil Kalbi)<br>
+                    ☀️ <b>[DÖNGÜ: VEGETATIVE_SALT]</b> ➔ Denge Mührü: <span style="color:#ffd700; font-weight:bold; text-shadow: 0 0 5px #ffd700;">${birth.equilibriumKnot}</span> (Klorofil Kalbi)<br>
                     <div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0; line-height: 1.4; text-shadow: none;">
                         ⚙️ <b>[DAY]:</b> Na+ IN ➔ K+ OUT (Yıldırım Deşarj / Foton Şoku)<br>
                         🌱 <b>N:${v_nitrogen}</b> | <b>S:${v_sulphur}</b> | 🜍 Nitrojen (N-Katot): Sisteme Elektron Pompalıyor<br>
@@ -3348,6 +3400,7 @@ function renderCosmicCrystallizationLog() {
 // 🔄 ZAMAN AKIŞI VE DEŞARJ MOTORU TEST SÜRÜCÜSÜ (MASTER REVISION V27000)
 // =========================================================================
 function triggerAlchemicalTestDrive(direction) {
+
     if (direction === 'FUTURE' || direction === 'PAST') {
         console.log(`🚀 [TIME_WARP]: Zaman motoru ${direction === 'FUTURE' ? 'ileri' : 'geri'} sarılıyor...`);
 
@@ -3395,7 +3448,7 @@ function triggerAlchemicalTestDrive(direction) {
 
         // 🎯 TELEMETRİ EKRANINI VE ÜST PANELİ ANLIK ZORLA TETİKLEME KANCASI
         if (typeof renderCosmicCrystallizationLog === 'function') {
-            renderCosmicCrystallizationLog();
+           // renderCosmicCrystallizationLog();
         }
 
         // 5. Terminal ekranını ve matrisi canlandır
@@ -3417,10 +3470,10 @@ function triggerAlchemicalTestDrive(direction) {
 // 🚨 [SİBER EMAL KORUMASI] initiateCosmicCrystallization REZONANS KATMANI (V1800 - FOSFOR ENTEGRESİ)
 // =========================================================================
 function initiateCosmicCrystallization(elementA, elementB) {
-    let activePhase = "VEGETATIVE_ET_EVRESI"; 
+    let activePhase = "VEGETATIVE_SALT"; 
     if (typeof window.sunRoom64 !== 'undefined') {
         const checkHour64 = window.sunRoom64 % 64;
-        if (checkHour64 >= 32) activePhase = "GENERATIVE_KEMIK_EVRESI";
+        if (checkHour64 >= 32) activePhase = "GENERATIVE_BONE";
     } else if (typeof currentPhase !== 'undefined') {
         activePhase = currentPhase;
     }
@@ -3452,7 +3505,7 @@ function initiateCosmicCrystallization(elementA, elementB) {
     for (const [symbol, data] of Object.entries(elementRegistry)) {
         // Kalsiyum ve Fosfor rezonansını veya doğrudan kütle birleşimini yakalama kalkanı
         if (Math.round(data.atomicWeight) === totalMassSum || Math.round(data.atomicWeight) === potentialEnergySum) {
-            birthedElement = { symbol, ...data, type: "PHYSICAL_MASS (APATITE KEMİK MATRİSİ)" };
+            birthedElement = { symbol, ...data, type: "PHYSICAL_MASS (APATITE BONE MATRIX)" };
             break; 
         }
         if (data.atomicNumber === potentialEnergySum) {
@@ -3463,10 +3516,10 @@ function initiateCosmicCrystallization(elementA, elementB) {
     if (typeof window.engine !== 'undefined' && window.engine.automationControl) {
         if (activePhase === "GENERATIVE_KEMIK_EVRESI") {
             window.engine.automationControl.equilibriumKnot = "Zn";
-            window.engine.automationControl.phase = "GENERATIVE_KEMIK_EVRESI (Hücre Çeperi ve Meyve Sabitleme)";
+            window.engine.automationControl.phase = "GENERATIVE_BONE_PHASE (Hücre Çeperi ve Meyve Sabitleme)";
         } else {
             window.engine.automationControl.equilibriumKnot = "Mg"; 
-            window.engine.automationControl.phase = "VEGETATIVE_ET_EVRESI (Yaprak ve Doku Yapımı)";
+            window.engine.automationControl.phase = "VEGETATIVE_SALT_PHASE (Yaprak ve Doku Yapımı)";
         }
         
         // 🌌 ÖZEL TETİKLEYİCİ: Eğer sistem Ca ve P kombinasyonuna girdiyse otomasyon kilidini Apatite Matrisine geçir
@@ -3703,9 +3756,10 @@ function tickSimyaVortex(zamanModu) {
     // =========================================================================
     if (typeof renderCircadianEngineLog === 'function') {
         // Kapatma kavgasını kökten bitiriyoruz: Doğrudan senin Aksar Motoru fonksiyonunu çağır!
-        renderCircadianEngineLog();
+        //renderCircadianEngineLog();
     }
 }
+
 
 // =========================================================================
 // 🚀 [CLEAN RENDER]: TOTAL MASS PURGE & VALVE INTEGRATION (V36000 - UNIFIED)
@@ -3722,128 +3776,157 @@ function updateLiveEngineDisplay(engineOutput) {
     const State = window.AdvancedEsotericState;
     const ctrl = engineOutput.automationControl;
 
-    // 🌊 CANLI SIRKADİYEN SAAT VE DALGA MOTORU
-    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 40; 
-    let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
+    // 🎯 [MUTLAK INRI ENGINE MATEMATİK ENJEKSİYONU]
+    const activeGateMapping = (typeof gateMapping !== 'undefined' && gateMapping.length) ? gateMapping : new Array(8).fill(null);
+    const totalGates = activeGateMapping.length; 
+
+    const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 10;
+    const currentHour64 = currentSunHour % 64;
     
-    // Canlı vanaların sirkadiyen hesaplamaları
+    // Ham endeks yapısını ve npos odalarının mutlak sıralamasını asla bozmuyoruz
+    let sunGateIndex = Math.floor((currentHour64) / (64 / totalGates));
+
+
+
+    console.log("AL:"+alchemyPhase.name)
+  
+    if (alchemyPhase.name === "ALBEDO") {
+        alchemyPhase = { 
+            name: "ALBEDO", 
+            color: "#66ff00", 
+            info: "🤍 ALBEDO: NITROGEN BURNING!" 
+        };
+    } else if (alchemyPhase.name === "RUBEDO") {
+        alchemyPhase = { 
+            name: "RUBEDO", 
+            color: "#ffd700", 
+            info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali Sentezleniyor!" 
+        };
+    } else if (alchemyPhase.name === "NIGREDO") {
+        alchemyPhase = { 
+            name: "NIGREDO", 
+            color: "#ca5ca0", 
+            info: "🔋 NIGREDO: Hücre hermetik mühürlendi. Gece Mor Fosfor pilleri aktif!" 
+        };
+    } 
+
+    isNIGREDO = false//(alchemyPhase.name === "NIGREDO" || ctrl.phase === "GENERATIVE_KEMIK_EVRESI");
+
+    let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2);
     let dinamik_N = Math.max(10, Math.round(115 + (sirkadiyenDalga * 45))); 
     let dinamik_S = Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10;
-    
-    let dinamik_K = (currentHour64 === 40) ? 246 : Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)));
-    let dinamik_Ca = (currentHour64 === 40) ? 105 : Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)));
-    let dinamik_P = (currentHour64 === 40) ? 73 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)));
+    let dinamik_K = (currentSunHour === 40 && !isNightPhase) ? 0 : Math.max(15, Math.round(186 - (sirkadiyenDalga * 60))); 
+    let dinamik_Ca = (currentSunHour === 40) ? 105 : Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)));
+    let dinamik_P = (currentSunHour === 40) ? 37 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)));
 
-    // 🎯 [MUTLAK SAAT EŞİTLEMESİ]: Alt motorla tam senkronizasyon (32-64 arası Gece, 0-32 arası Gündüz)
-    const isNightPhase = currentHour64 >= 32 && currentHour64 < 64;
-
-    // 🚨 SAF SİGORTA KORUMASI: Fizik motoru o an set edilirken faza göre eksik element 
-    // döndürürse (gündüzken potasyumun olmaması gibi) arayüzün NaN vermesini engelliyoruz aga!
+    const valvesObj = ctrl.valves || {};
     const v = {
-        nitrogen_ml: ctrl.valves && ctrl.valves.nitrogen ? ctrl.valves.nitrogen : (isNightPhase ? "0ml" : `${dinamik_N}ml`),
-        sulphur_ml: ctrl.valves && ctrl.valves.sulphur ? ctrl.valves.sulphur : (isNightPhase ? "0ml" : `${dinamik_S}ml`),
-        potassium_ml: ctrl.valves && ctrl.valves.potassium ? ctrl.valves.potassium : (isNightPhase ? `${dinamik_K}ml` : "0ml"),
-        calcium_ml: ctrl.valves && ctrl.valves.calcium ? ctrl.valves.calcium : (isNightPhase ? `${dinamik_Ca}ml` : "0ml"),
-        phosphorus_ml: ctrl.valves && ctrl.valves.phosphorus ? ctrl.valves.phosphorus : (isNightPhase ? `${dinamik_P}ml` : "0ml")
+        nitrogen_ml: valvesObj.nitrogen ? valvesObj.nitrogen : `${dinamik_N}ml`,
+        sulphur_ml: valvesObj.sulphur ? valvesObj.sulphur : `${dinamik_S}ml`,
+        potassium_ml: valvesObj.potassium ? valvesObj.potassium : `${dinamik_K}ml`,
+        calcium_ml: valvesObj.calcium ? valvesObj.calcium : `${dinamik_Ca}ml`,
+        phosphorus_ml: valvesObj.phosphorus ? valvesObj.phosphorus : `${dinamik_P}ml`
     };
 
-    // ⚡ OHM KANUNU: İYON MOTORU AKIM YÖNÜ DETEKTÖRÜ
-    let akimYonuSembolu = isNightPhase ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
-    let akimYonuMetni = isNightPhase ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Aksiyon Başladı)`;
-
-    // 🍃 FOTOSENTEZ & ŞEKER (GLUKOZ) ÜRETİM FORMÜLÜ
-    let glukozSentezMiktari = 0;
-    let fotosentezFormuluGosterge = "";
+   
     
-    if (!isNightPhase) {
-        glukozSentezMiktari = Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1);
-        fotosentezFormuluGosterge = `
-            <div style="background: rgba(0, 255, 170, 0.08); border: 1px dashed #00ffaa; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
-                <span style="color:#ffd700; font-weight:bold;">[ 💎 GLUCOSE CRYSTAL SENTEZİ ]</span><br>
-                <span style="color:#00e5ff;">6 CO₂ + 6 H₂O + 🗲 Foton ➔ C₆H₁₂O₆ (Şeker: ${glukozSentezMiktari} mg) + 6 O₂ ↑</span>
-            </div>
-        `;
-    } else {
-        fotosentezFormuluGosterge = `
-            <div style="background: rgba(202, 92, 160, 0.08); border: 1px dashed #ca5ca0; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
-                <span style="color:#888;">[ 💤 SENTEZ DURDU ]</span> Glukoz kristali depoya kaldırıldı. Hücre solunumu aktif.
-            </div>
-        `;
-    }
-
-    // 🔮 BİLİŞSEL SİMYA FAZLARININ ENJEKSİYONU
-    let simyaNotu = "";
-    if (isNightPhase) {
-        simyaNotu = `<span style="color:#ca5ca0; font-weight:bold;">[NIGREDO FAZI]</span> ➔ Bakteriyel Sülfür ve Mor Fosfor odası hermetik olarak pilleri şarj ediyor.`;
-    } else {
-        if (currentHour64 < 16) {
-            simyaNotu = `<span style="color:#66ff00; font-weight:bold;">[ALBEDO FAZI]</span> ➔ Akım dikey aksa tırmanıyor. Yeşil Nitrojen odası saflaştı, sistem uyanıyor!`;
-        } else {
-            simyaNotu = `<span style="color:#ffd700; font-weight:bold;">[RUBEDO FAZI]</span> ➔ Manyetik gövdede akım tersine döndü. Oksijen serbest, Felsefe Taşı (Glukoz Kristali) sentezleniyor!`;
+          if (typeof AdvancedEsotericState !== 'undefined') {
+            // 🎯 DÜZELTME: Üst motor faz sınırlarıyla milimetrik senkronizasyon sağlandı.
+            console.log("PAG:"+alchemyPhase.name)
+            if (alchemyPhase.name === "RUBEDO") {
+                isNIGREDO = false
+                let akimYonuSembolu = "➔ [Na+ IN ⚡ K+ OUT]";
+                if(AdvancedEsotericState.merkez) AdvancedEsotericState.merkez.ucucuEnerjiPool += 5.0; 
+                //gate.setAttribute('data-charge-status', '🔥 RUBEDO_OKSİJEN_VE_ŞEKER_SENTEZİ_ZİRVESİ');
+            } else if (alchemyPhase.name === "NIGREDO") {
+                isNIGREDO = true
+                let akimYonuSembolu = "🠔 [Na+ OUT ⚡ K+ IN]"
+                if(AdvancedEsotericState.gazHatti) AdvancedEsotericState.gazHatti.toprakNitrat += 3.5; 
+                if(AdvancedEsotericState.iyonHatti) AdvancedEsotericState.iyonHatti.sodyumFade = Math.min(100, AdvancedEsotericState.iyonHatti.sodyumFade + 1);
+                //gate.setAttribute('data-charge-status', '🔋 NIGREDO_HERMETİK_FOSFOR_ŞARJI_AKTİF');
+            } else if (alchemyPhase.name === "ALBEDO") {
+                isNIGREDO = false
+                let akimYonuSembolu = "➔ [Na+ IN ⚡ K+ OUT]";
+                if(AdvancedEsotericState.merkez) AdvancedEsotericState.merkez.ucucuEnerjiPool += 2.5;
+                //gate.setAttribute('data-charge-status', '🤍 ALBEDO_NİTROJEN_ARINMA_VE_GEÇİŞ_FAZI');
+            }
         }
-    }
 
-    if (isNightPhase) {
-        ctrl.phase = "GENERATIVE_KEMIK_EVRESI";
-        cycleBox.style.color = "#ca5ca0"; 
-        cycleBox.style.borderColor = "rgba(202, 92, 160, 0.4)";
-        cycleBox.style.textShadow = "0 0 8px #ca5ca0";
-        
-        cycleBox.innerHTML = `
-            🌙 <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">[ION FLUX: NOCTURNAL ANABOLISM]</span> ➔ CORE ELEMENT: <span style="color:#ffffff; font-weight:bold; text-shadow: 0 0 10px #fff;">Ca & P (Apatite Matrix)</span><br>
-            <div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0; line-height: 1.5; text-shadow: none;">
-                ION ENGINE: <span style="color: #ff9900; font-weight: bold;">Na (Volts)</span> ${akimYonuSembolu} <span style="color: #00e5ff; font-weight: bold;">K (Alkali)</span> ➔ 
-                <span style="color:#00e5ff; font-weight:bold;">K+ : ${v.potassium_ml}</span> | 
-                <span style="color:#ffffff; font-weight:bold;">Ca : ${v.calcium_ml}</span> | 
-                <span style="color:#ca5ca0; font-weight:bold;">P : ${v.phosphorus_ml}</span>
-                <span style="color: #888; margin-left: 5px;">[ ☁️ CO2: <span style="color:#ffcc00; font-weight:bold;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span> ]</span><br>
-                <div style="font-size: 10px; color: #aaa; margin-top: 2px;">⚡ ${akimYonuMetni}</div>
-                ${fotosentezFormuluGosterge}
-                <div style="font-size: 10px; color: #888; margin-top: 4px;">${simyaNotu}</div>
-            </div>
-        `;
+
+    //window.internalAxisState = "";
+    //window.systemPhaseCode = "";
+    let akimYonuSembolu =  isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
+
+    // Arayüz Çıktıları
+    let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
+    let glukozSentezMiktari = !isNIGREDO ? Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1) : 0;
+    
+    let fotosentezFormuluGosterge = !isNIGREDO ? 
+        `<div style="background: rgba(0, 255, 170, 0.08); border: 1px dashed #00ffaa; padding: 4px; margin-top: 6px; font-size: 10px;"><span style="color:#ffd700; font-weight:bold;">[ 💎 GLUCOSE CRYSTAL SYNHESIS ]</span><br><span style="color:#00e5ff;">6 CO₂ + 6 H₂O ➔ C₆H₁₂O₆ (${glukozSentezMiktari} mg) + 6 O₂ ↑</span></div>` :
+        `<div style="background: rgba(202, 92, 160, 0.08); border: 1px dashed #ca5ca0; padding: 4px; margin-top: 6px; font-size: 10px;"><span style="color:#888;">[ 💤 SENTEZ DURDU ]</span> Hücre solunumu aktif.</div>`;
+
+    cycleBox.style.color = alchemyPhase.color; 
+    cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
+    cycleBox.style.textShadow = `0 0 8px ${alchemyPhase.color}`;
+
+    //window.internalAxisState = "";
+    //window.systemPhaseCode = "";
+
+
+    if (!isNIGREDO) {
+        cycleBox.innerHTML = `🌙 <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
+            [ION FLUX: ${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+                K+ : ${v.potassium_ml} | Ca : ${v.calcium_ml} | P : ${v.phosphorus_ml}<br>${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     } else {
-        ctrl.phase = "VEGETATIVE_ET_EVRESI";
-        cycleBox.style.color = "#00ffaa"; 
-        cycleBox.style.borderColor = "rgba(0, 255, 170, 0.4)";
-        cycleBox.style.textShadow = "0 0 8px #00ffaa";
-        
-        cycleBox.innerHTML = `
-            ☀️ <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">[ION FLUX: DIURNAL PHOTOSYNTHESIS]</span> ➔ CORE ELEMENT: <span style="color:#ffd700; font-weight:bold; text-shadow: 0 0 10px #ffd700;">Mg (Chlorophyll Heart)</span><br>
-            <div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0; line-height: 1.5; text-shadow: none;">
-                GAS ENGINE: <span style="color: #ff00ff; font-weight: bold;">S (Acid)</span> ${akimYonuSembolu} <span style="color: #66ff00; font-weight: bold;">O (Alpha)</span> ➔ 
-                <span style="color:#00ffaa; font-weight:bold;">N : ${v.nitrogen_ml}</span> | 
-                <span style="color:#ff5e00; font-weight:bold;">S : ${v.sulphur_ml}</span>
-                <span style="color: #888; margin-left: 5px;">[ 🍃 CO2: <span style="color:#00e5ff; font-weight:bold;">${State.gazHatti.karbonCO2.toFixed(0)} ppm</span> ]</span><br>
-                <div style="font-size: 10px; color: #aaa; margin-top: 2px;">⚡ ${akimYonuMetni}</div>
-                ${fotosentezFormuluGosterge}
-                <div style="font-size: 10px; color: #888; margin-top: 4px;">${simyaNotu}</div>
-            </div>
-        `;
+        cycleBox.innerHTML = `☀️ <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
+            [ION FLUX: ${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
+                N : ${v.nitrogen_ml} | S : ${v.sulphur_ml} | K : ${v.potassium_ml}<br>${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     }
-}
 
+
+
+}
 // =========================================================================
 // 🚜 [NİHAİ TETİKLEYİCİ ÇAĞRISI]: SIRKADİYEN REZONANS SÜBABI (SAF VERİ V36000)
 // =========================================================================
 function triggerLiveEngineRefresh() {
-    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 40; 
-    const isNightTime = currentHour64 >= 32 && currentHour64 < 64; // Üst panelle milimetrik eşitlendi!
+    const totalGates = 8;
+    const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 40;
+    const currentHour64 = currentSunHour % 64;
+    let sunGateIndex = Math.floor((currentHour64) / (64 / totalGates));
+
+    const isNightTime = (sunGateIndex === 1 || sunGateIndex === 2 || sunGateIndex === 3); 
+
+    let mockResult = {
+        automationControl: {
+            phase: isNightTime ? "GENERATIVE_KEMIK_EVRESI" : "VEGETATIVE_SALT",
+            valves: {} // Boş nesne vererek tanımsızlık hatasını ebediyen engelliyoruz!
+        }
+    };
 
     if (typeof engine !== 'undefined' && typeof engine.calculateNexus === 'function') {
         const realEngineResult = isNightTime ? engine.calculateNexus("Na", "K") : engine.calculateNexus("S", "N");
         if (realEngineResult && realEngineResult.automationControl) {
+            realEngineResult.automationControl.phase = isNightTime ? "GENERATIVE_BONE" : "VEGETATIVE_SALT";
             updateLiveEngineDisplay(realEngineResult); 
+        } else {
+            updateLiveEngineDisplay(mockResult);
         }
     } else {
+        let activeResult = mockResult;
         if (isNightTime && typeof alkalineAxisResult !== 'undefined' && alkalineAxisResult) {
-            updateLiveEngineDisplay(alkalineAxisResult); 
+            activeResult = alkalineAxisResult;
         } else if (!isNightTime && typeof rightWingResult !== 'undefined' && rightWingResult) {
-            updateLiveEngineDisplay(rightWingResult); 
+            activeResult = rightWingResult;
         }
-    }
+        
+        if (activeResult && activeResult.automationControl) {
+
+activeResult.automationControl.phase = isNightTime ? "GENERATIVE_BONE" : "VEGETATIVE_SALT";
+if (!activeResult.automationControl.valves) activeResult.automationControl.valves = {};
+}
+updateLiveEngineDisplay(activeResult);
+}
 }
 
 
@@ -3869,25 +3952,6 @@ let targetAzothIndex   = (sunGateIndex + 1) % totalGates;
 // 🔮 SİRKADİYEN SİMYA FAZI BELİRLEME MOTORU (N-P-O-S MODELLEMESİ)
 // =========================================================================
 const currentHour64 = currentSunHour % 64;
-let alchemyPhase = { name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali (Şeker) sentezleniyor!" };
-
-// 64'lük sirkadiyen saati 3 ana simya fazına bölüyoruz
-if (currentHour64 >= 48 || currentHour64 < 12) {
-    alchemyPhase = {
-        name: "NIGREDO",
-        color: "#ca5ca0", 
-        bgGlow: "rgba(122, 0, 255, 0.25)",
-        info: "🔋 NIGREDO: Hücre hermetik mühürlendi. Bakteriyel Sülfür Motoru ve Mor Fosfor odası pilleri şarj ediyor!"
-    };
-} else if (currentHour64 >= 12 && currentHour64 < 24) {
-    alchemyPhase = {
-        name: "ALBEDO",
-        color: "#66ff00", 
-        bgGlow: "rgba(0, 255, 170, 0.2)",
-        info: "🤍 ALBEDO: Akım dikey aksa tırmanıyor. Yeşil Nitrojen odası saflaştı, sistem gün doğumuna kuruldu!"
-    };
-}
-
 
 
 activeGateMapping.forEach((gate, index) => {
@@ -3911,19 +3975,10 @@ activeGateMapping.forEach((gate, index) => {
     gate.style.boxShadow = '';
     gate.style.animation = '';
 
-    // =========================================================================
-    // ☀️ 2. KESİN KURAL: GÜNEŞİN BULUNDUĞU ODA (SİRKADİYEN ŞARJ DİŞLİSİ)
-    // =========================================================================
-    if (index === sunGateIndex) {
-        gate.style.borderWidth = '2px';
-        gate.style.borderColor = alchemyPhase.color;
-        gate.style.boxShadow = `0 0 25px ${alchemyPhase.color}, inset 0 0 15px ${alchemyPhase.color}`;
-        gate.style.filter = 'none';
-        trigramSpan.style.color = alchemyPhase.color;
-        trigramSpan.style.textShadow = `0 0 8px ${alchemyPhase.color}`;
-        gate.setAttribute('data-alchemy-phase', alchemyPhase.name);
 
-        if (typeof AdvancedEsotericState !== 'undefined') {
+          if (typeof AdvancedEsotericState !== 'undefined') {
+            // 🎯 DÜZELTME: Üst motor faz sınırlarıyla milimetrik senkronizasyon sağlandı.
+            console.log("PAG:"+alchemyPhase.name)
             if (alchemyPhase.name === "RUBEDO") {
                 if(AdvancedEsotericState.merkez) AdvancedEsotericState.merkez.ucucuEnerjiPool += 5.0; 
                 gate.setAttribute('data-charge-status', '🔥 RUBEDO_OKSİJEN_VE_ŞEKER_SENTEZİ_ZİRVESİ');
@@ -3936,8 +3991,20 @@ activeGateMapping.forEach((gate, index) => {
                 gate.setAttribute('data-charge-status', '🤍 ALBEDO_NİTROJEN_ARINMA_VE_GEÇİŞ_FAZI');
             }
         }
-        return; 
+
+    // =========================================================================
+    // ☀️ SUN GATE FLOW (SİRKADİYEN ŞARJ DİŞLİSİ)
+    // =========================================================================
+    if (index === sunGateIndex) {
+        gate.style.borderWidth = '2px';
+        gate.style.borderColor = alchemyPhase.color;
+        //gate.style.boxShadow = `0 0 25px ${alchemyPhase.color}, inset 0 0 15px ${alchemyPhase.color}`;
+        gate.style.filter = 'none';
+        trigramSpan.style.color = alchemyPhase.color;
+        trigramSpan.style.textShadow = `0 0 8px ${alchemyPhase.color}`;
+        gate.setAttribute('data-alchemy-phase', alchemyPhase.name);
     }
+
 
     const iconSize1 = '16px';
     const iconSize2 = '22px';
@@ -3987,28 +4054,17 @@ activeGateMapping.forEach((gate, index) => {
 });
 
 
-// 🚨 [MUTLAK EMNİYET KİLİDİ AGA]: updateLiveEngineDisplay'in HTML yapısını textContent ile ezmesini engelliyoruz!
-// Bilgileri doğrudan ana ekrana göndermek için trigger çağrısını güvene alalım.
-if (typeof triggerLiveEngineRefresh === 'function') {
-    //triggerLiveEngineRefresh();
-} else {
-    // Eğer trigger o an meşgulse bile temel info stilini bozma koruması
-    const cycleInfoBox = document.getElementById('wicca-cycle-info');
-    if (cycleInfoBox && !cycleInfoBox.innerHTML.includes('ml')) { 
-        cycleInfoBox.textContent = alchemyPhase.info;
-        cycleInfoBox.style.borderColor = alchemyPhase.color;
-        cycleInfoBox.style.color = alchemyPhase.color;
-        cycleInfoBox.style.textShadow = `0 0 8px ${alchemyPhase.color}`;
-    }
-}
 
 // Küresel ekran/arayüz temasını fazın ruhuna göre güncellemek istersen body'e sınıf mühürle aga
-document.body.className = document.body.className.replace(/\bwicca-phase-\S+/g, '');
-document.body.classList.add(`wicca-phase-${alchemyPhase.name.toLowerCase()}`);
+//document.body.className = document.body.className.replace(/\bwicca-phase-\S+/g, '');
+//sdocument.body.classList.add(`wicca-phase-${alchemyPhase.name.toLowerCase()}`);
 
 
 // Sayfa açıldığında sirkadiyen saat neredeyse vanaları o gerçek değerle başlatır:
 triggerLiveEngineRefresh();
+
+
+
 
 // =========================================================================
 // 🚀 [UNIFIED TELEMETRY CORE]: TERS DÖNGÜ KORUMALI MUTLAK REAKTÖR (V29000)
@@ -4054,7 +4110,7 @@ function renderCosmicCrystallizationLog() {
     let dinamik_P = engineValves.phosphorus || `${(currentHour64 === 40) ? 73 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)))}ml`;
 
     // ⚡ AKIM YÖNÜ DETEKTÖRÜ
-    let akimYonuSembolu = isNightPhase ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
+    let akimYonuSembolu = isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
     let akimYonuMetni = isNightPhase ? 
         `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
         `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Aksiyon Başladı)`;
@@ -4070,7 +4126,7 @@ function renderCosmicCrystallizationLog() {
         
         fotosentezFormuluGosterge = `
             <div style="background: rgba(0, 255, 170, 0.08); border: 1px dashed #00ffaa; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
-                <span style="color:#ffd700; font-weight:bold;">[ 💎 GLUCOSE CRYSTAL SENTEZİ ]</span><br>
+                <span style="color:#ffd700; font-weight:bold;">[ 💎 GLUCOSE CRYSTAL SYNTHESIS ]</span><br>
                 <span style="color:#00e5ff;">6 CO₂ + 6 H₂O + 🗲 Foton ➔ C₆H₁₂O₆ (Şeker: ${glukozSentezMiktari} mg) + 6 O₂ ↑</span>
             </div>
         `;
@@ -5323,8 +5379,8 @@ function syncLilithEngine() {
 
     
     // 8. 4 Vitesli Biyolojik Eksen ve Sistem Faz Kodlarının Tayini
-    let internalAxisState = "";
-    let systemPhaseCode = "";
+    window.internalAxisState = "";
+    window.systemPhaseCode = "";
     
     if (currentRoom >= 48 && currentRoom <= 63) {
         internalAxisState = "☯ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)";
