@@ -3394,7 +3394,7 @@ function renderCosmicCrystallizationLog() {
 }
 
 // 🚀 İLK TETİKLEME ÇAPASI
-//renderCosmicCrystallizationLog();
+renderCosmicCrystallizationLog();
 
 // =========================================================================
 // 🔄 ZAMAN AKIŞI VE DEŞARJ MOTORU TEST SÜRÜCÜSÜ (MASTER REVISION V27000)
@@ -3448,7 +3448,7 @@ function triggerAlchemicalTestDrive(direction) {
 
         // 🎯 TELEMETRİ EKRANINI VE ÜST PANELİ ANLIK ZORLA TETİKLEME KANCASI
         if (typeof renderCosmicCrystallizationLog === 'function') {
-           // renderCosmicCrystallizationLog();
+            renderCosmicCrystallizationLog();
         }
 
         // 5. Terminal ekranını ve matrisi canlandır
@@ -3780,7 +3780,8 @@ function updateLiveEngineDisplay(engineOutput) {
     const activeGateMapping = (typeof gateMapping !== 'undefined' && gateMapping.length) ? gateMapping : new Array(8).fill(null);
     const totalGates = activeGateMapping.length; 
 
-    const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 10;
+    const currentSunHour = (typeof window.sunRoom64 !== 'undefined') ? window.sunRoom64 : 0;
+    
     const currentHour64 = currentSunHour % 64;
     
     // Ham endeks yapısını ve npos odalarının mutlak sıralamasını asla bozmuyoruz
@@ -3855,10 +3856,12 @@ function updateLiveEngineDisplay(engineOutput) {
 
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
-    let akimYonuSembolu =  isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
+    
+    // ⚡ AKIM YÖNÜ DETEKTÖRÜ
+    let akimYonuSembolu = !isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
 
     // Arayüz Çıktıları
-    let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
+    //let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
     let glukozSentezMiktari = !isNIGREDO ? Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1) : 0;
     
     let fotosentezFormuluGosterge = !isNIGREDO ? 
@@ -3872,15 +3875,32 @@ function updateLiveEngineDisplay(engineOutput) {
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
 
+   
+    let akimYonuMetni = isNIGREDO ? 
+        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
+        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Action)`;
+
+
+    // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
+        let pilSarjYuzdesi
+
+    if(sunRoom64>=0 && sunRoom64<32){
+     pilSarjYuzdesi = ((64-(sunRoom64))/64)*100}
+   if(sunRoom64>=32 && sunRoom64<=65){
+     pilSarjYuzdesi = ((sunRoom64)/64)*100}
+
+
+
+    //${window.systemPhaseCode}
 
     if (!isNIGREDO) {
-        cycleBox.innerHTML = `🌙 <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
+        cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
             [ION FLUX: ${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
-                K+ : ${v.potassium_ml} | Ca : ${v.calcium_ml} | P : ${v.phosphorus_ml}<br>${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
+                K+ : ${v.potassium_ml} | Ca : ${v.calcium_ml} | P : ${v.phosphorus_ml}<br>${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     } else {
-        cycleBox.innerHTML = `☀️ <span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
+        cycleBox.innerHTML = `${window.systemPhaseCode}<<span style="letter-spacing: 1px; font-weight: bold; font-family: monospace;">
             [ION FLUX: ${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-family: monospace; color: #e0e0e0;">
-                N : ${v.nitrogen_ml} | S : ${v.sulphur_ml} | K : ${v.potassium_ml}<br>${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
+                N : ${v.nitrogen_ml} | S : ${v.sulphur_ml} | K : ${v.potassium_ml}<br>${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     }
 
 
@@ -3930,6 +3950,83 @@ updateLiveEngineDisplay(activeResult);
 }
 
 
+
+
+
+// =========================================================================
+// 🚀 [UNIFIED TELEMETRY CORE]: TERS DÖNGÜ KORUMALI MUTLAK REAKTÖR (V29000)
+// =========================================================================
+function renderCosmicCrystallizationLog() {
+    const cycleBox = document.getElementById("wicca-cycle-info");
+    if (!cycleBox) return;
+
+    // 🌊 Ham sirkadiyen saatin ve görsel güneş oda indeksinin küresel hafızadan takibi
+    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 40; 
+    const gateIdx = (typeof window.sunGateIndex !== 'undefined') ? window.sunGateIndex : 0;
+    
+    // 🎯 [MUTLAK DOĞA KANUNU SİGORTASI AGAL]: 
+    // Sodyum odası set edildiğinde saatin geceye kaçma/sapma hatasını engellemek için,
+    // Sadece saatin 32'yi geçmesi yetmez; güneşin de MUTLAK suretle alt odalarda (4,5,6,7) olması şarttır!
+    // Eğer güneş tepe odasındaysa (0,1,2,3), saat kaç olursa olsun bu sistem GÜNDÜZDÜR, Mg fazıdır!
+    const isNightPhase = currentHour64 >= 32 && (gateIdx >= 4 && gateIdx <= 7); 
+
+    let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
+    
+    // Sınıf motoru yüklüyse verileri çek, yoksa yedek tamponu hazırla
+    let activeResult = null;
+    if (typeof window.engine !== 'undefined' && typeof window.engine.calculateNexus === 'function') {
+        activeResult = isNightPhase ? window.engine.calculateNexus("Na", "K") : window.engine.calculateNexus("S", "N");
+    }
+
+    const birth = (activeResult && activeResult.birthOutputs) ? activeResult.birthOutputs : { equilibriumKnot: isNightPhase ? "Zn" : "Mg" };
+    const ctrl = (activeResult && activeResult.automationControl) ? activeResult.automationControl : { phase: "" };
+    const engineValves = (ctrl && ctrl.valves) ? ctrl.valves : {};
+
+    // Global gaz/kütle havuzunun dinamik takibi (NaN koruması)
+    let co2Val = 430; let carbonVal = 100;
+    if (window.AdvancedEsotericState && window.AdvancedEsotericState.gazHatti) {
+        co2Val = window.AdvancedEsotericState.gazHatti.karbonCO2 || 430;
+        carbonVal = window.AdvancedEsotericState.merkez.saltBodyCarbon || 100;
+    }
+
+    // Vanaların sirkadiyen hesaplamaları
+    let dinamik_N = engineValves.nitrogen || `${Math.max(10, Math.round(115 + (sirkadiyenDalga * 45)))}ml`; 
+    let dinamik_S = engineValves.sulphur || `${Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10}ml`;
+    let dinamik_K = engineValves.potassium || `${(currentHour64 === 40) ? 246 : Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)))}ml`;
+    let dinamik_Ca = engineValves.calcium || `${(currentHour64 === 40) ? 105 : Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)))}ml`;
+    let dinamik_P = engineValves.phosphorus || `${(currentHour64 === 40) ? 73 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)))}ml`;
+
+    // ⚡ AKIM YÖNÜ DETEKTÖRÜ
+    let akimYonuSembolu =isNightPhase ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
+    let akimYonuMetni = isNightPhase ? 
+        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
+        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Aksiyon Başladı)`;
+
+    // 🍃 FOTOSENTEZ & ŞEKER SENTEZİ (TERS DÖNGÜYÜ İMHA EDEN MUTLAK SİGORTA)
+    let glukozSentezMiktari = 0;
+    let fotosentezFormuluGosterge = "";
+    
+    if (!isNightPhase) {
+        // Gündüz dalgası tepeye vurdukça şeker üretimi artar
+        glukozSentezMiktari = Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1);
+        if (glukozSentezMiktari === "0.0") glukozSentezMiktari = "15.0"; 
+        
+        fotosentezFormuluGosterge = `
+            <div style="background: rgba(0, 255, 170, 0.08); border: 1px dashed #00ffaa; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
+                <span style="color:#ffd700; font-weight:bold;">[ 💎 GLUCOSE CRYSTAL SYNTHESIS ]</span><br>
+                <span style="color:#00e5ff;">6 CO₂ + 6 H₂O + 🗲 Foton ➔ C₆H₁₂O₆ (Şeker: ${glukozSentezMiktari} mg) + 6 O₂ ↑</span>
+            </div>
+        `;
+    } else {
+        fotosentezFormuluGosterge = `
+            <div style="background: rgba(202, 92, 160, 0.08); border: 1px dashed #ca5ca0; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
+                <span style="color:#888;">[ 💤 SENTEZ DURDU ]</span> Glukoz kristali depoya kaldırıldı. Hücre solunumu aktif.
+            </div>
+        `;
+    }
+
+
+}
 
 // =========================================================================
 // 🧭 INRI ENGINE (WITH SIRKADIYEN ALCHEMY FAZLARI: NIGREDO, ALBEDO, RUBEDO) - V3000 OPTIMIZED
@@ -4051,7 +4148,7 @@ activeGateMapping.forEach((gate, index) => {
         gate.style.boxShadow = '0 0 15px #00e5ff, inset 0 0 10px #00e5ff';
         gate.style.filter = 'none';
     }
-});
+});////
 
 
 
@@ -4065,81 +4162,6 @@ triggerLiveEngineRefresh();
 
 
 
-
-// =========================================================================
-// 🚀 [UNIFIED TELEMETRY CORE]: TERS DÖNGÜ KORUMALI MUTLAK REAKTÖR (V29000)
-// =========================================================================
-function renderCosmicCrystallizationLog() {
-    const cycleBox = document.getElementById("wicca-cycle-info");
-    if (!cycleBox) return;
-
-    // 🌊 Ham sirkadiyen saatin ve görsel güneş oda indeksinin küresel hafızadan takibi
-    const currentHour64 = (typeof window.sunRoom64 !== 'undefined') ? (window.sunRoom64 % 64) : 40; 
-    const gateIdx = (typeof window.sunGateIndex !== 'undefined') ? window.sunGateIndex : 0;
-    
-    // 🎯 [MUTLAK DOĞA KANUNU SİGORTASI AGAL]: 
-    // Sodyum odası set edildiğinde saatin geceye kaçma/sapma hatasını engellemek için,
-    // Sadece saatin 32'yi geçmesi yetmez; güneşin de MUTLAK suretle alt odalarda (4,5,6,7) olması şarttır!
-    // Eğer güneş tepe odasındaysa (0,1,2,3), saat kaç olursa olsun bu sistem GÜNDÜZDÜR, Mg fazıdır!
-    const isNightPhase = currentHour64 >= 32 && (gateIdx >= 4 && gateIdx <= 7); 
-
-    let sirkadiyenDalga = Math.sin((currentHour64 / 64) * Math.PI * 2); 
-    
-    // Sınıf motoru yüklüyse verileri çek, yoksa yedek tamponu hazırla
-    let activeResult = null;
-    if (typeof window.engine !== 'undefined' && typeof window.engine.calculateNexus === 'function') {
-        activeResult = isNightPhase ? window.engine.calculateNexus("Na", "K") : window.engine.calculateNexus("S", "N");
-    }
-
-    const birth = (activeResult && activeResult.birthOutputs) ? activeResult.birthOutputs : { equilibriumKnot: isNightPhase ? "Zn" : "Mg" };
-    const ctrl = (activeResult && activeResult.automationControl) ? activeResult.automationControl : { phase: "" };
-    const engineValves = (ctrl && ctrl.valves) ? ctrl.valves : {};
-
-    // Global gaz/kütle havuzunun dinamik takibi (NaN koruması)
-    let co2Val = 430; let carbonVal = 100;
-    if (window.AdvancedEsotericState && window.AdvancedEsotericState.gazHatti) {
-        co2Val = window.AdvancedEsotericState.gazHatti.karbonCO2 || 430;
-        carbonVal = window.AdvancedEsotericState.merkez.saltBodyCarbon || 100;
-    }
-
-    // Vanaların sirkadiyen hesaplamaları
-    let dinamik_N = engineValves.nitrogen || `${Math.max(10, Math.round(115 + (sirkadiyenDalga * 45)))}ml`; 
-    let dinamik_S = engineValves.sulphur || `${Math.max(5, Math.round(34.5 + (sirkadiyenDalga * 12)) * 10) / 10}ml`;
-    let dinamik_K = engineValves.potassium || `${(currentHour64 === 40) ? 246 : Math.max(15, Math.round(186 - (sirkadiyenDalga * 60)))}ml`;
-    let dinamik_Ca = engineValves.calcium || `${(currentHour64 === 40) ? 105 : Math.max(10, Math.round(80 - (sirkadiyenDalga * 25)))}ml`;
-    let dinamik_P = engineValves.phosphorus || `${(currentHour64 === 40) ? 73 : Math.max(5, Math.round(55 - (sirkadiyenDalga * 18)))}ml`;
-
-    // ⚡ AKIM YÖNÜ DETEKTÖRÜ
-    let akimYonuSembolu = isNIGREDO ? "🠔 [Na+ OUT ⚡ K+ IN]" : "➔ [Na+ IN ⚡ K+ OUT]";
-    let akimYonuMetni = isNightPhase ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Aksiyon Başladı)`;
-
-    // 🍃 FOTOSENTEZ & ŞEKER SENTEZİ (TERS DÖNGÜYÜ İMHA EDEN MUTLAK SİGORTA)
-    let glukozSentezMiktari = 0;
-    let fotosentezFormuluGosterge = "";
-    
-    if (!isNightPhase) {
-        // Gündüz dalgası tepeye vurdukça şeker üretimi artar
-        glukozSentezMiktari = Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1);
-        if (glukozSentezMiktari === "0.0") glukozSentezMiktari = "15.0"; 
-        
-        fotosentezFormuluGosterge = `
-            <div style="background: rgba(0, 255, 170, 0.08); border: 1px dashed #00ffaa; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
-                <span style="color:#ffd700; font-weight:bold;">[ 💎 GLUCOSE CRYSTAL SYNTHESIS ]</span><br>
-                <span style="color:#00e5ff;">6 CO₂ + 6 H₂O + 🗲 Foton ➔ C₆H₁₂O₆ (Şeker: ${glukozSentezMiktari} mg) + 6 O₂ ↑</span>
-            </div>
-        `;
-    } else {
-        fotosentezFormuluGosterge = `
-            <div style="background: rgba(202, 92, 160, 0.08); border: 1px dashed #ca5ca0; padding: 4px; margin-top: 6px; font-size: 10px; border-radius: 3px; text-shadow: none;">
-                <span style="color:#888;">[ 💤 SENTEZ DURDU ]</span> Glukoz kristali depoya kaldırıldı. Hücre solunumu aktif.
-            </div>
-        `;
-    }
-
-
-}
 
 //window.renderCircadianEngineLog = renderCosmicCrystallizationLog;
 
@@ -4201,7 +4223,7 @@ function refreshMetatronKlorofilGlow() {
 }
 
   try {
-       //syncLilithEngine()
+       syncLilithEngine()
        updateWiccaDock()
        // console.log(window.now)
     } catch (error) {
@@ -5365,7 +5387,7 @@ function syncLilithEngine() {
  // 7. Biyolojik CSF Akış ve Sarkaç Matematiği (Float Hata Kalkanlı Yapı)
     const pendulumAngle = (currentRoom * 5.625) * (Math.PI / 180);
     
-    let hamVelocity = Math.abs(Math.sin(pendulumAngle)) * seasonalMultiplier;
+    let hamVelocity = Math.abs(Math.sin(pendulumAngle))// * seasonalMultiplier;
     
     // 🛡️ [MUTLAK KALKAN]: Değer sıfıra ne kadar yaklaşırsa yaklaşsın (0.0001 bile olsa),
     // Math.max sayesinde asla 0.1081'in altına inemez! Kesinlikle sıfırlanamaz.
@@ -5382,17 +5404,19 @@ function syncLilithEngine() {
     window.internalAxisState = "";
     window.systemPhaseCode = "";
     
+
+
     if (currentRoom >= 48 && currentRoom <= 63) {
-        internalAxisState = "☯ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)";
+        internalAxisState = "☯ Yin-Uyanış | P Dalgası & Sabah Matrisi (🤍 ALBEDO)";
         systemPhaseCode = "SYS_ALPHA_RISE";
     } else if (currentRoom >= 0 && currentRoom < 16) {
-        internalAxisState = "🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo)";
+        internalAxisState = "🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (🔥 RUBEDO)";
         systemPhaseCode = "SYS_SIGMA_PEAK";
     } else if (currentRoom >= 16 && currentRoom < 32) {
         internalAxisState = "🟡 Yang-Deşarj | ST Segmenti & İkindi Lütfu (Citrinitas)";
         systemPhaseCode = "SYS_BETA_DISCHARGE";
     } else {
-        internalAxisState = "💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (Rubedo)";
+        internalAxisState = "💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (🔋 NIGREDO)";
         systemPhaseCode = "SYS_OMEGA_CLEANSE";
     }
 
