@@ -3852,10 +3852,10 @@ function updateLiveEngineDisplay(engineOutput) {
     //window.systemPhaseCode = "";
 
     // ⚡ AKIM YÖNÜ DETEKTÖRÜ
-
+    //(Pil Şarj Oluyor) (Deşarj/Action)
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> <span style='color: #87CEFA;'> 🜿 Repolarizasyon | K+ </span>" (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> <span style='color:red'> 🜭 Depolarizasyon | Na+ </span> (Deşarj/Action)`;
+        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> <span style='color: #87CEFA;'> 🜿 Repolarizasyon | K+ </span>"` : 
+        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM:${akimYonuSembolu}</span> <span style='color:red'> 🜭 Depolarizasyon | Na+ </span> `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
