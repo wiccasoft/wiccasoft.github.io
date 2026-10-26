@@ -3877,8 +3877,8 @@ function updateLiveEngineDisplay(engineOutput) {
 
    
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / Potasyum Kanalları Aktif (Pil Şarj Oluyor)` : 
-        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Sodyum Kapıları Açık (Deşarj/Action)`;
+        `<span style="color:#ca5ca0; font-weight:bold;">AKIM YÖNÜ:</span> Repolarizasyon / K+ (Pil Şarj Oluyor)` : 
+        `<span style="color:#00ffaa; font-weight:bold;">AKIM YÖNÜ:</span> Depolarizasyon / Na+ (Deşarj/Action)`;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
@@ -3919,7 +3919,7 @@ function triggerLiveEngineRefresh() {
 
     let mockResult = {
         automationControl: {
-            phase: isNightTime ? "GENERATIVE_KEMIK_EVRESI" : "VEGETATIVE_SALT",
+            phase: isNightTime ? "GENERATIVE_BONE" : "VEGETATIVE_SALT",
             valves: {} // Boş nesne vererek tanımsızlık hatasını ebediyen engelliyoruz!
         }
     };
