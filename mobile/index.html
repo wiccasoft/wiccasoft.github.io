@@ -2935,7 +2935,7 @@ window.alchemyPhase = "none"
 
     if (sunRoom64 >= 0 && sunRoom64 < 16 || sunRoom64 >= 59) {
         // 🟢 0-16: Atrial Dinlenme & Başlangıç (P Dalgası / Polarize Durum)
-        pendulumStatus = "🟢 (P Dalgası / Polarizazyon)"
+        pendulumStatus = "🟢 Mg²⁺ wake up (P Wave / Atrial Depolarization)"
         alchemyPhase = { 
         name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
         info: "☀️ RUBEDO: Carbon Fixation" };
@@ -2957,7 +2957,7 @@ window.alchemyPhase = "none"
         pendulumStatus = "🟡 QRS Complex | Na+ Depolarization"
          alchemyPhase = { 
         name: "CAUDA", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "🟡 CAUDA: Ventriküler depolarizasyon tamamlandı. Akım maksimum düzen fazına geçiyor." };
+        info: "🟡 CAUDA: System Discharged" };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
@@ -2973,7 +2973,7 @@ window.alchemyPhase = "none"
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     } else {
         // 🔴 52-64: T Dalgası & 51. Oda Funny Current Kardiyak Şok Patlaması (Lilith Fazı)
-        pendulumStatus = "🔴 Polar Equilibrium"
+        pendulumStatus = "🔴  T Wave | Ventricular Repolarization"
             alchemyPhase = {
         name: "ALBEDO",
         color: "#66ff00", 
@@ -3821,7 +3821,7 @@ function updateLiveEngineDisplay(engineOutpu) {
     //window.systemPhaseCode = "";
     
     // ⚡ CURRENT DIRECTION DETECTOR
-    let akimYonuSembolu = !isNIGREDO ? " [Na+ IN ⚡🔋 K+ OUT] P 🜍" : "P 🜍  [Na+ OUT ⚡ K+ IN]";
+    let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN ⚡🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN⚡ Na+ OUT]";
 
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🤍 Na+ ] "
@@ -3849,8 +3849,8 @@ function updateLiveEngineDisplay(engineOutpu) {
     // ⚡ CURRENT DIRECTION DETECTOR
     //(Pil Şarj Oluyor) (Deşarj/Action)
     let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> ${akimYonuSembolu} ${polarisation} ` : 
-        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br> ${akimYonuSembolu} ${polarisation}  `;
+        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX: ${akimYonuSembolu} ${polarisation} ` : 
+        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
@@ -3869,7 +3869,7 @@ function updateLiveEngineDisplay(engineOutpu) {
     if (!isNIGREDO) {
         cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
             [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-size:14;font-family: monospace; color: #e0e0e0;">
-                ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
+               ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
     } else {
         cycleBox.innerHTML = `<<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
             [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-size:14;font-family: monospace; color: #e0e0e0;">
