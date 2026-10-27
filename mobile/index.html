@@ -2739,6 +2739,7 @@ if (monaElement && salvadorElement) {
         targetSalvadorOpacity = 0.0; 
         pendulumStatus = "YIN CHARGE";
         dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
+      
 
         const art = document.querySelector('.art-core-container');
 
@@ -2935,16 +2936,16 @@ window.alchemyPhase = "none"
 
     if (sunRoom64 >= 0 && sunRoom64 < 16 || sunRoom64 >= 59) {
         // 🟢 0-16: Atrial Dinlenme & Başlangıç (P Dalgası / Polarize Durum)
-        pendulumStatus = "🟢 Mg²⁺ wake up (P Wave / Atrial Depolarization)"
+        pendulumStatus = "🟢 (Mg²⁺) Wake Up : Depolarizasyon (P Dalgası)"
         alchemyPhase = { 
         name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "☀️ RUBEDO: Carbon Fixation" };
+        info: "☀️ALPHA RISE: Sympathetic Wake Up" };
         
         compassFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
     } else if (sunRoom64 >= 15 && sunRoom64 < 24) {
         // 🟡 16-32: QRS Kompleksi & Maksimum Fırlatım (Na+ Depolarizasyon Patlaması)
-        pendulumStatus = "🟡 QRS Complex | Na+ Depolarization"
+        pendulumStatus = "🟡 SIGMA PEAK: QRS Complex | Na+ Depolarization"
          alchemyPhase = { 
         name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
         info: "☀️ RUBEDO:  Mg ⚡ Activated" };
