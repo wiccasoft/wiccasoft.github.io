@@ -2957,16 +2957,29 @@ window.alchemyPhase = "none"
         pendulumStatus = "🟡 QRS Complex | Na+ Depolarization"
          alchemyPhase = { 
         name: "CAUDA", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "🟡 CAUDA: System Discharged" };
+        info: "🟡 CAUDA: System Depolarized" };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
-    } else if (sunRoom64 >= 32 && sunRoom64 < 52) {
+    } else if (sunRoom64 >= 32 && sunRoom64 < 39) {
+        // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
+        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)"
+          alchemyPhase = { 
+            name: "CITRINITAS", color: "#ca5ca0", bgGlow: "rgba(122, 0, 255, 0.25)",
+            info: "🔋 CITRINITAS:  System Discharged"
+            };
+
+        compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
+        compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
+    } 
+    
+    
+     else if (sunRoom64 >= 39 && sunRoom64 < 52) {
         // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)"
           alchemyPhase = { 
             name: "NIGREDO", color: "#ca5ca0", bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔋 NIGREDO: Hücre hermetik mühürlendi. Mor Fosfor odası pilleri şarj ediyor!"
+            info: "🔋 NIGREDO: Mor Fosfor odası pilleri şarj ediyor!"
             };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
@@ -3811,20 +3824,24 @@ function updateLiveEngineDisplay(engineOutpu) {
         }
 
 
-        //NIGREDO  = Diastole
-        //ALBEDO   = Depolarization
-        //RUBEDO   = Systole / Ejection
-        //CAUDA    = Repolarization
+        //NIGREDO    = Diastole
+        //ALBEDO     = Depolarization
+        //RUBEDO     = Systole / Ejection
+        //CAUDA      = Repolarization
+        //CITRINITAS = Depolarization
 
     //activeResult = isNightPhase ? window.engine.calculateNexus("Na", "K") : window.engine.calculateNexus("S", "N");
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
     
     // ⚡ CURRENT DIRECTION DETECTOR
-    let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN ⚡🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN⚡ Na+ OUT]";
+    let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN 🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN ⚡🔋 Na+ OUT]";
 
+    if (alchemyPhase.name === "CITRINITAS") akimYonuSembolu = " [Na+ 🖤 K+ ] "
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🖤 Na+ ] "
+    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ K+ IN ⚡🔋 Na+ OUT] "
+    if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[ Na+ IN 🔋 K+ OUT ] "
 
     // Arayüz Çıktıları
     //let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
@@ -3840,17 +3857,23 @@ function updateLiveEngineDisplay(engineOutpu) {
 
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
+    //+"🜭 Depolarization | Na+
 
       if (alchemyPhase.name === "ALBEDO" || alchemyPhase.name === "CAUDA")polarisation = "Ionic Balance";
 
-      if (alchemyPhase.name === "RUBEDO") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"+</span>"
-      if (alchemyPhase.name === "NIGREDO") polarisation = "<span style='color:orange'>"+"🜭 Depolarization | Na+"+"+</span>"
+  if (alchemyPhase.name === "CITRINITAS" ) polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"+</span>"
+      if (alchemyPhase.name === "RUBEDO" ) polarisation = "<span style='color:orange;'>"+"🜭 Depolarization | Na"+"</span>"
+      if (alchemyPhase.name === "NIGREDO") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
+
 
     // ⚡ CURRENT DIRECTION DETECTOR
     //(Pil Şarj Oluyor) (Deşarj/Action)
-    let akimYonuMetni = isNIGREDO ? 
-        `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX: ${akimYonuSembolu} ${polarisation} ` : 
-        `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
+    //let akimYonuMetni = isNIGREDO ? 
+     //   `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation} ` : 
+     //   `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
+
+
+     let akimYonuMetni =  `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
