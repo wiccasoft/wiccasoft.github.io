@@ -2947,7 +2947,7 @@ window.alchemyPhase = "none"
         pendulumStatus = "🟡 QRS Complex | Na+ Depolarization"
          alchemyPhase = { 
         name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "☀️ RUBEDO: Işık ve Karbon birleşti. Glukoz Kristali (Şeker) sentezleniyorrrr!" };
+        info: "☀️ RUBEDO:  Mg ⚡ Activated" };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
@@ -3821,8 +3821,18 @@ function updateLiveEngineDisplay(engineOutpu) {
                 if(AdvancedEsotericState.merkez) AdvancedEsotericState.merkez.ucucuEnerjiPool += 2.5;
                 //gate.setAttribute('data-charge-status', '🖤 ALBEDO_NİTROJEN_ARINMA_VE_GEÇİŞ_FAZI');
             }
+
+
+            
         }
 
+
+    // Mg²⁺ = Consciousness Trigger
+    //N₂   = Reservoir State
+    //O₂   = Oxidative Driver
+    //C    = Fixation Target
+    //Na⁺  = Activation Current
+    //K⁺   = Recovery Current
 
         //NIGREDO    = Diastole
         //ALBEDO     = Depolarization
@@ -3830,17 +3840,21 @@ function updateLiveEngineDisplay(engineOutpu) {
         //CAUDA      = Repolarization
         //CITRINITAS = Depolarization
 
+       // •	Gece Yarısı (Yatay Akış): Sabaha kadar akım Yatay düzlemde, sakin ve dengeliydi. Nitrojen ve Fosfor odaları, Oksijen-Sülfür köprüsünden geçerek enerjiyi sakin manyetik gövdeye (Kalsiyum/Tuz matrisine) depoluyordu. Sistem bir akü (şarj odası) gibi davranıyordu.
+//•	Güneş Doğarken (Dikey Kırılma): İlk ışık vurduğu an, akımın yönü yataydan Dikey eksene doğru kırılır. Sodyum-Potasyum jilet aksı anında kutup değiştirir. Elektrik akımı artık dışarıdan içeriye doğru hücum etmeye başlar. Manyetik gövdede (Tuz matrisinde) durulan enerji, bir anda merkezdeki Magnezyum (Mg) motorunu dikey olarak yukarı fırlatmak için serbest kalır.
+
+
     //activeResult = isNightPhase ? window.engine.calculateNexus("Na", "K") : window.engine.calculateNexus("S", "N");
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
     
     // ⚡ CURRENT DIRECTION DETECTOR
-    let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN 🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN ⚡🔋 Na+ OUT]";
+    //let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN 🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN ⚡🔋 Na+ OUT]";
 
     if (alchemyPhase.name === "CITRINITAS") akimYonuSembolu = " [Na+ 🖤 K+ ] "
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🖤 Na+ ] "
-    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ K+ IN ⚡🔋 Na+ OUT] "
+    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
     if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[ Na+ IN 🔋 K+ OUT ] "
 
     // Arayüz Çıktıları
