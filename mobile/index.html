@@ -3032,7 +3032,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
     } 
     // 🛠️ 5. EVRE: BATI (32 - 39) ── CITRINITAS
-    else if (sunRoom64 >= 32 && sunRoom64 < 39) {
+    else if (sunRoom64 >= 32 && sunRoom64 < 38) {
         yon = "WEST (Batı)";
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
         alchemyPhase = { 
@@ -3051,7 +3051,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }      
     // 🔒 6. DÜĞÜM: KUZEYBATI (39 - 45) ── OMEGA DOWN (K+ Occluded)
-    else if (sunRoom64 >= 39 && sunRoom64 < 45) {
+    else if (sunRoom64 >= 38 && sunRoom64 < 45) {
         yon = "NORTHWEST (Kuzeybatı)";
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
         alchemyPhase = { 
@@ -3062,8 +3062,10 @@ if (compassFrame) {
             name: "OMEGA DOWN", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔒 OMEGA DOWN: K+ Occluded | decharging",
-            detay: "2 Potasyum iyonunun kilitlendiği son kapanış düğüm noktası."
+            info: "🔒 OMEGA DOWN: K+ Occluded | flux ratio "+((8-(46-sunRoom64))/8).toFixed(1),
+            
+               // Bitki ve İnsan arasındaki bu harika zıtlığı DETAY kısmında öğrencilere açıklayalım:
+        detay: "Potasyum kilidi evresi. 🫀 İnsan kalbi DEŞARJ (Gevşeme) modundadır. 🌱 Bitki ise enerjiyi toprağa bağlayarak ŞARJ moduna geçer."
         };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
@@ -3077,12 +3079,16 @@ if (compassFrame) {
             element: "Su 🌊",
             trigram: staticTrigrams[0], // ☷ Kun Trigramı (Tam Dinlenim)
             cardiacPhase: "Diastole (Dinlenim)",
-            akimYonuSembolu: "[ Ca²⁺ IN ⚡ K⁺ OUT ] 🔵",
+            //akimYonuSembolu: "[ Ca²⁺ IN ⚡ K⁺ OUT ] 🔵",
             name: "NIGREDO", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔋 NIGREDO: System Resting",
-            detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında."
+            //info: "🔋 NIGREDO: System Resting",
+            detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında.",
+            // KULLANICI BURADA OKSİJENLE YENİDEN DOLUM ORANINI (0.0 - 1.0) GÖRÜR:
+            info: "🔋 NIGREDO: Mitokondri Active | recharging " + ((sunRoom64 - 45) / 11).toFixed(1),
+            akimYonuSembolu: "[ Mg²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ] ── 🧬 [ N-Aktivasyon ] 🔋 O₂ INFLUX",
+            
         };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
@@ -4152,10 +4158,12 @@ perfectGeocentricFlow.forEach(state => {
      akimYonuSembolu = `[Na+ 🖤 K+ ] ── 🧬 [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ NUCLEAR ACTIVE`;
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
     if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = " 🔒  Na⁺ Occluded 🔒 "
-    if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = ` 🔒  K⁺ Occluded 🔒 ── 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}]`;
+    if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = " 🔒  K⁺ Occluded 🔒 ]";//─ 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}
 
     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🖤 Na+ ] "
-    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
+    //if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
+
+    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ⚡ Mg²⁺ IN] [ N-Aktivasyon ]  O₂ INFLUX";
     if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ IN ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 1 ATP(P) OUT ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
  
 
