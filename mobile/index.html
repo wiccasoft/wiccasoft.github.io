@@ -1637,7 +1637,7 @@ setInterval(() => {
     // =========================================================================
     if (fireGate && waterGate && airGate && earthGate && lightGate && etherGate && metalGate && iceGate) {
         
-        // 🧭 [KUTSAL FİZİKSEL MATRİS]: Kapıları saat yönünde diziyoruz aga
+        // 🧭 [KUTSAL FİZİKSEL MATRİS]: Kapıları saat yönünde diziyoruz 
         const gateMapping = [
             document.getElementById('gate-earth'), // 0. İndeks: MUTLAK FİZİKSEL SOL KAPI!
             document.getElementById('gate-ice'),   // 1. İndeks: MUTLAK FİZİKSEL SOL ÜST KÖŞE!
@@ -1649,7 +1649,7 @@ setInterval(() => {
             document.getElementById('gate-metal')  // 7. İndeks: MUTLAK FİZİKSEL SOL ALT KÖŞE!
         ];
 
-        // 🛡️ [ZAMAN SINIF SÜZGECCI]: Zaman makinesinden gelen taze dinamik odayı emiyoruz aga:
+        // 🛡️ [ZAMAN SINIF SÜZGECI]
         let rawRoom = (typeof sunRoom64 !== 'undefined') ? sunRoom64 : 40;
         let safeActiveRoom = (parseInt(rawRoom, 10) % 64 + 64) % 64;
 
@@ -1660,11 +1660,11 @@ setInterval(() => {
         let sirkadiyenButonIndex = 0;
 
         // 🎯 KOZMİK BÜKÜM KALKANLI SEÇİCİ MOTOR:
-        // safeActiveRoom verisini hem normal canlı akışta hem de FUTURE/PAST bükülmelerinde ortak paydaya alıyoruz aga!
+        // safeActiveRoom verisini hem normal canlı akışta hem de FUTURE/PAST bükülmelerinde ortak paydaya alıyoruz a
         let currentTargetRoom = safeActiveRoom;
 
         // 🧭 [MÜHÜRLÜ ARDIŞIK ZAMAN MİLLERİ]: Çakışmaları, arafta kalmaları ve buton kaymalarını kökten infaz ediyoruz:
-        if (currentTargetRoom >= 61 || currentTargetRoom <= 6) {
+        if (currentTargetRoom >= 61|| currentTargetRoom <= 6) {
             sirkadiyenButonIndex = 0; // 🐉 Room 56-0-5 -> OUROBOROS END & GÜNDOĞUMU BAŞLANGICI! (.earth-gate)
         } else if (currentTargetRoom >= 6 && currentTargetRoom <= 10) {
             sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
@@ -2706,6 +2706,7 @@ if (currentMonth >= 11 || currentMonth <= 1) {
     seasonalMultiplier = 0.7; // Yaz: Yang / Sempatik dominant
 }
 
+
 // 4 Vitesli Evrensel Eksen Kontrolü
 if (sunRoom64 >= 0 && sunRoom64 < 24) {
     yinStg = `🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (Albedo — Sempatik Şarj)`;
@@ -2720,6 +2721,21 @@ else {
     yinStg = `☯️ Yin-Uyanış | P Dalgası & Sabah Matrisi (Nigredo)`;
 }
 
+/*
+    if (currentRoom >= 48 && currentRoom <= 63) {
+        internalAxisState = "☯ Yin-Uyanış | P Dalgası & Sabah Matrisi (🤍 ALBEDO)";
+        systemPhaseCode = "SYS_ALPHA_RISE";
+    } else if (currentRoom >= 0 && currentRoom < 16) {
+        internalAxisState = "🔥 Yang-Zirve | QRS Kompleksi & Öğle İtkisi (🔥 RUBEDO)";
+        systemPhaseCode = "SYS_SIGMA_PEAK";
+    } else if (currentRoom >= 16 && currentRoom < 32) {
+        internalAxisState = "🟡 Yang-Deşarj | ST Segmenti & İkindi Lütfu (Citrinitas)";
+        systemPhaseCode = "SYS_BETA_DISCHARGE";
+    } else {
+        internalAxisState = "💧 Yin-Derinlik | T Dalgası & Teheccüd Sırrı (🔋 NIGREDO)";
+        systemPhaseCode = "SYS_OMEGA_CLEANSE";
+    }
+        */
 // =========================================================================
 // 🌀 MONA LISA ASTRONOMİK ALACAKARANLIK VE MUTLAK ÖĞLEN MOTORU [WICCA_MESH_FINAL]
 // =========================================================================
@@ -2886,7 +2902,7 @@ document.getElementById("cosmic-status").innerText = "";
     }
 
         // =========================================================================
-        // 🪐 GEZEGEN KÜTLEÇEKİM VE NEON AKIM ŞOVU (74 BPM İçine)
+        // 🪐 GATEMAPPING (74 BPM İçine)
         // =========================================================================
         //const currentPlanet = calculateCosmicPlanetHour(now, solar);
         //const activePlanetName = currentPlanet.name; 
@@ -2915,6 +2931,12 @@ document.getElementById("cosmic-status").innerText = "";
         // 🌟 GATE MAPPING -------------------------------------------------------------------------------
 
 
+const yinyang = ["⚊","⚋"] //yang yin
+const gates   = ["⚌","⚍","⚎","⚏"] //yang,lesser yin,lesser yang, yang
+const gatesname = ["fire","air","earth","water"] //yang,lesser yin,lesser yang, yang
+const gatesdnas = ["adenine","guanine","uracil","cytosine"] //yang,lesser yin,lesser yang, yang
+
+
 // Igne Natura Renovatur Integra
 // Mayaların zaman sistemi tamamen dünya yüzeyindeki tarımsal, biyolojik ve yapay ritimleri 
 // (insanın hamilelik süresi olan 260 günü, mısır hasadını ve Dünya-Ay ilişkisini) 
@@ -2927,82 +2949,166 @@ document.getElementById("cosmic-status").innerText = "";
 const compassFrame = document.getElementById('main-frame') || document.querySelector('.cosmic-compass');
 
 if (compassFrame) {
-    
     compassFrame.style.transition = "all 0.2s ease"; 
 
+    const staticTrigrams = ["☷", "☶", "☲", "☴", "☰", "☱", "☵", "☳"];
+    window.alchemyPhase = "none";
 
-window.alchemyPhase = "none"
-
-
-    if (sunRoom64 >= 0 && sunRoom64 < 16 || sunRoom64 >= 59) {
-        // 🟢 0-16: Atrial Dinlenme & Başlangıç (P Dalgası / Polarize Durum)
-        pendulumStatus = "🟢 (Mg²⁺) Wake Up : Depolarizasyon (P Dalgası)"
+    // ⚪ 1. EVRE: DOĞU (0 - 12) ── ALBEDO
+    if (sunRoom64 >= 0 && sunRoom64 < 8) {
+        yon = "EAST (Doğu)";
+        pendulumStatus = "🟢  Depolarizasyon (P Dalgası)";
         alchemyPhase = { 
-        name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "☀️ALPHA RISE: Sympathetic Wake Up" };
+            element: "Tahta 🌱",
+            trigram: staticTrigrams[2], // ☲ Li Trigramı (Uyanış)
+            cardiacPhase: "Depolarization (Uyarılma Başlangıcı)",
+            akimYonuSembolu: " [Na+ 🤍 K+ ] ",
+            name: "ALBEDO", 
+            color: "#ffd700", 
+            bgGlow: "rgba(255, 94, 0, 0.2)", 
+            info: "🤍 ALBEDO : Sympathetic Wake Up" 
+        };
+        detay = "Sodyum iyonlarının kanala bağlanarak arınma sürecinin başlaması.";
         
         compassFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #00ff44) 1";
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
-    } else if (sunRoom64 >= 15 && sunRoom64 < 24) {
-        // 🟡 16-32: QRS Kompleksi & Maksimum Fırlatım (Na+ Depolarizasyon Patlaması)
-        pendulumStatus = "🟡 SIGMA PEAK: QRS Complex | Na+ Depolarization"
-         alchemyPhase = { 
-        name: "RUBEDO", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "☀️ RUBEDO:  Mg ⚡ Activated" };
+    } 
+    // 🔒 2. DÜĞÜM: GÜNEYDOĞU (12 - 16) ── ALPHA RISE (Na+ Occluded)
+    else if (sunRoom64 >= 8 && sunRoom64 < 12) {
+        yon = "SOUTHEAST (Güneydoğu)";
+        // P dalgasından ayrıldı, QRS geçiş checkpoint'i oldu:
+        pendulumStatus = "⚡ ALPHA RISE: QRS Transition | Na⁺ Locking"; 
+        alchemyPhase = { 
+            element: "Rüzgar ⚡",
+            trigram: staticTrigrams[3], // ☴ Xun Trigramı (Saf Kırmızı Polar Kilit)
+            cardiacPhase: "Phosphorylated Na⁺ Occlusion (Sodyum Kilidi)",
+            akimYonuSembolu: "[ 🔒 ALPHA RISE: Na⁺ Occluded 🔒 ]",
+            name: "ALPHA RISE", 
+            color: "#ff3300", 
+            bgGlow: "rgba(255, 51, 0, 0.3)", 
+            info: "🔴 ALPHA RISE: Sodyum Oklüzyon Düğümü" 
+        };
+        detay = "3 Sodyum iyonunun kanal içinde kilitlendiği, yükselişin başladığı düğüm noktası.";
+        
+        compassFrame.style.borderImage = "linear-gradient(45deg, #00ffaa, #ff5500) 1";
+        compassFrame.style.boxShadow = "0 0 15px rgba(255, 85, 0, 0.35)";
+    } 
+    // 🔥 3. EVRE: GÜNEY (16 - 24) ── RUBEDO
+    else if (sunRoom64 >= 13 && sunRoom64 < 24) {
+        yon = "SOUTH (Güney)";
+        pendulumStatus = "🔴 SIGMA PEAK: QRS Complex | Na+ Depolarization";
+        alchemyPhase = { 
+            element: "Ateş 🔥",
+            trigram: staticTrigrams[4], // ☰ Qian Trigramı (Zirve)
+            cardiacPhase: "Systole / Ejection (Maksimum Fırlatım)",
+            akimYonuSembolu: "[ Na+ IN 🔋 K+ OUT ] 🔴",
+            name: "RUBEDO", 
+            color: "#ff0000", 
+            bgGlow: "rgba(255, 0, 0, 0.4)", 
+            info: "☀️ RUBEDO: Mg ⚡ Activated | Systole" 
+        };
+        detay = "Aksiyon potansiyelinin zirvesi. Kalp kasılarak kanı fırlatıyor.";
 
-        compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
+        compassFrame.style.borderImage = "linear-gradient(45deg, #ff0000, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
     }
+    // 🔌 4. EVRE: GÜNEYBATI (24 - 32) ── CAUDA
     else if (sunRoom64 >= 24 && sunRoom64 < 32) {
-        // 🟡 16-32: QRS Kompleksi & Maksimum Fırlatım (Na+ Depolarizasyon Patlaması)
-        pendulumStatus = "🟡 QRS Complex | Na+ Depolarization"
-         alchemyPhase = { 
-        name: "CAUDA", color: "#ffd700", bgGlow: "rgba(255, 94, 0, 0.2)", 
-        info: "🟡 CAUDA: System Depolarized" };
+        yon = "SOUTHWEST (Güneybatı)";
+        pendulumStatus = "🟡 QRS Complex | Na+ Depolarized End";
+        alchemyPhase = { 
+            element: "Toprak 🪵",
+            trigram: staticTrigrams[5], // ☱ Dui Trigramı
+            cardiacPhase: "Early Repolarization / Discharge",
+            akimYonuSembolu: " [K+ 🖤 Na+ ] 🔵",
+            name: "CAUDA", 
+            color: "#ffd700", 
+            bgGlow: "rgba(255, 215, 0, 0.2)", 
+            info: "🟡 CAUDA: System Discharged" 
+        };
+        detay = "Enerji deşarjı başlıyor. Renkler tavus kuşu kuyruğu gibi saçılıyor.";
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #6faa00, #ffff00) 1";
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
-    } else if (sunRoom64 >= 32 && sunRoom64 < 39) {
-        // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
-        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)"
-          alchemyPhase = { 
-            name: "CITRINITAS", color: "#ca5ca0", bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔋 CITRINITAS:  System Discharged"
-            };
-
-        compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
-        compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     } 
-    
-    
-     else if (sunRoom64 >= 39 && sunRoom64 < 52) {
-        // 🔵 32-48: Ca2+ / K+ Plato Dengesi (ST Segmenti / Asil Kasılma Fazı)
-        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)"
-          alchemyPhase = { 
-            name: "NIGREDO", color: "#ca5ca0", bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔋 NIGREDO: Mor Fosfor odası pilleri şarj ediyor!"
-            };
+    // 🛠️ 5. EVRE: BATI (32 - 39) ── CITRINITAS
+    else if (sunRoom64 >= 32 && sunRoom64 < 39) {
+        yon = "WEST (Batı)";
+        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
+        alchemyPhase = { 
+            element: "Metal 🛠️",
+            trigram: staticTrigrams[6], // ☵ Kan Trigramı
+            cardiacPhase: "Repolarization (Gevşeme Dalgası)",
+            akimYonuSembolu: " [Na+ 🖤 K+ ] 🔵",
+            name: "CITRINITAS", 
+            color: "#ca5ca0", 
+            bgGlow: "rgba(122, 0, 255, 0.25)",
+            info: "🔋 CITRINITAS: System deCharging",
+            detay: "Dönüşüm evresi. Hücrenin potasyum sızıntısıyla eski dengesine dönmesi."
+        };
 
         compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
-    } else {
-        // 🔴 52-64: T Dalgası & 51. Oda Funny Current Kardiyak Şok Patlaması (Lilith Fazı)
-        pendulumStatus = "🔴  T Wave | Ventricular Repolarization"
-            alchemyPhase = {
-        name: "ALBEDO",
-        color: "#66ff00", 
-        bgGlow: "rgba(0, 255, 170, 0.2)",
-        info: "🤍 ALBEDO: system charged"
-    };
+    }      
+    // 🔒 6. DÜĞÜM: KUZEYBATI (39 - 45) ── OMEGA DOWN (K+ Occluded)
+    else if (sunRoom64 >= 39 && sunRoom64 < 45) {
+        yon = "NORTHWEST (Kuzeybatı)";
+        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
+        alchemyPhase = { 
+            element: "Gök 🌌",
+            trigram: staticTrigrams[7], // ☶ Gen Trigramı
+            cardiacPhase: "K⁺ Occlusion (Potasyum Kilidi)",
+            akimYonuSembolu: "[ 🔒 K⁺ Occluded 🔒 ]",
+            name: "OMEGA DOWN", 
+            color: "#ca5ca0", 
+            bgGlow: "rgba(122, 0, 255, 0.25)",
+            info: "🔒 OMEGA DOWN: K+ Occluded | decharging",
+            detay: "2 Potasyum iyonunun kilitlendiği son kapanış düğüm noktası."
+        };
+
+        compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
+        compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
+    }
+    // 🌊 7. EVRE: KUZEY (45 - 56) ── NIGREDO
+    else if (sunRoom64 >= 45 && sunRoom64 < 56) {
+        yon = "NORTH (Kuzey)";
+        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
+        alchemyPhase = { 
+            element: "Su 🌊",
+            trigram: staticTrigrams[0], // ☷ Kun Trigramı (Tam Dinlenim)
+            cardiacPhase: "Diastole (Dinlenim)",
+            akimYonuSembolu: "[ Ca²⁺ IN ⚡ K⁺ OUT ] 🔵",
+            name: "NIGREDO", 
+            color: "#ca5ca0", 
+            bgGlow: "rgba(122, 0, 255, 0.25)",
+            info: "🔋 NIGREDO: System Resting",
+            detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında."
+        };
+
+        compassFrame.style.borderImage = "linear-gradient(45deg, #007fff, #00ffff) 1";
+        compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
+    }
+    // 🔋 8. GEÇİŞ: KUZEYDOĞU (56 - 61) ── PRIME / CHARGE
+    else if (sunRoom64 >= 56 && sunRoom64 <= 64) { // 61 yerine tam çembere çektim
+        yon = "NORTHEAST (Kuzeydoğu)";
+        pendulumStatus = "🔵 T Wave | Ventricular Repolarization Complete";
+        alchemyPhase = {
+            element: "Dağ ⛰️",
+            trigram: staticTrigrams[1], // ☶ Gen Trigramı
+            cardiacPhase: "ATP Priming / Charging (Enerji Yükleme)",
+            akimYonuSembolu: "[ ⚡ CHARGING: ATP ──> ADP + Pi 🔋 ]",
+            name: "PRIME",
+            color: "#66ff00", 
+            bgGlow: "rgba(0, 255, 170, 0.2)",
+            info: "🤍🔋 PRIME: System Charging",
+            detay: "Fosforilasyon başlangıcı. Gelecek aksiyon dalgası için enerji dağ gibi birikiyor."
+        };
         compassFrame.style.borderImage = "linear-gradient(45deg, #ff2a2a, #ff0055) 1";
         compassFrame.style.boxShadow = "0 0 22px rgba(255, 42, 42, 0.45)";
     }
 
-
-    
-    console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
+    console.log("ROOM:" + sunRoom64 + " ALCHEMY:" + alchemyPhase.name);
 }
-
 
 
 
@@ -3066,6 +3172,18 @@ day="🝰"
 // 🜏 [SADELEŞTİRİLMİŞ 4 TEMEL SİMYASAL AKS MOTORU]
 // Görseldeki çark düzenine ve Güneş'in doğuş pozisyonuna göre 8'li trigram dizilimi:
 // [Üst (Güney), Sağ-Üst, Sağ (Doğu/Ateş), Sağ-Alt, Alt (Kuzey), Sol-Alt, Sol (Batı/Su), Sol-Üst]
+
+
+//• A full I Ching hexagram natively requires 6 bits of data (2⁶ = 64 combinations).
+//• A trigram (half a hexagram) requires 3 bits (2³ = 8 combinations).
+//• A 4-bit mapping (2⁴ = 16 combinations) is typically used to dynamically input the four states of an I Ching line
+//  (6 = Old Yin, 7 = Young Yang, 8 = Young Yin, 9 = Old Yang) sequentially, or to map the Four Phases (Si Xiang) to macro keys
+
+const yinyang = ["⚊","⚋"] //yang yin
+const gates   = ["⚌","⚍","⚎","⚏"] //yang,lesser yin,lesser yang, yang
+const gatesname = ["fire","air","earth","water"] //yang,lesser yin,lesser yang, yang
+const gatesdnas = ["adenine","guanine","uracil","cytosine"] //yang,lesser yin,lesser yang, yang
+
 const staticTrigrams = ["☰", "☱", "☲", "☳", "☷", "☴", "☵", "☶"];
 
 acid1="iodine,flourine"
@@ -3768,10 +3886,62 @@ function tickSimyaVortex(zamanModu) {
 }
 
 
+function hesaplaNitrosyenIyonDengesi(alchemyPhaseName) {
+    // Toplam Azotlu/Nitrojenli Adenozin Omurgası Sabittir (N = 100)
+    const Total_Nitrogen_Base = 100; 
+    let fosforSeviyesi = 0; // Aktif Fosforilasyon gücü
+
+    // Fazlara göre anlık Fosfor / Nitrojen kayması
+    switch (alchemyPhaseName) {
+        case "PRIME": // Şarj Başlangıcı (Fosfor sisteme giriyor)
+            fosforSeviyesi = 80; 
+            break;
+        case "ALPHA RISE": // Tam Fosforillenmiş Kilit
+            fosforSeviyesi = 100;
+            break;
+        case "RUBEDO": // Zirve Aktivasyon
+            fosforSeviyesi = 90;
+            break;
+        case "CAUDA": // Deşarj Başlangıcı (Fosfor kopuyor)
+            fosforSeviyesi = 40;
+            break;
+        case "CITRINITAS": // Fosfor Bitti, Nitrojen Egemen!
+            fosforSeviyesi = 10; // Neredeyse sadece Azotlu omurga kaldı
+            break;
+        case "OMEGA DOWN":
+        case "NIGREDO": // Sıfır Noktası
+            fosforSeviyesi = 0;
+            break;
+    }
+
+    // Enerji Yükü Formülü (Biyolojik Karşılık)
+    const energyCharge = fosforSeviyesi / Total_Nitrogen_Base; 
+    
+    // Nitrojen Baskınlık Katsayısı (Fosfor bittikçe bu değer 1'e yaklaşır)
+    const nitrogenDominance = 1 - energyCharge; 
+
+    // Biyolojik İyon Oranları (3 Na / 2 K) Nitrojen çarpanı ile kalibre ediliyor
+    // Nitrojen arttıkça (Deşarj esnasında) aktif pompalama gücü düşer, pasif sızıntı başlar
+    const dinamikNa = Math.round(3 * energyCharge);
+    const dinamikK  = Math.round(2 * energyCharge);
+
+    return {
+        energyCharge: energyCharge.toFixed(2),
+        nitrogenDominance: nitrogenDominance.toFixed(2),
+        dinamikNa: dinamikNa,
+        dinamikK: dinamikK
+    };
+}
+
+// --- Örnek Citrinitas Testi ---
+const nitInfo = hesaplaNitrosyenIyonDengesi("CITRINITAS");
+console.log(`Fosfor Şarjı: %${nitInfo.energyCharge * 100} | Nitrojen Baskınlığı: %${nitInfo.nitrogenDominance * 100}`);
+// Çıktı: Fosfor Şarjı: %10 | Nitrojen Baskınlığı: %90
+
 // =========================================================================
 // 🚀 [CLEAN RENDER]: TOTAL MASS PURGE & VALVE INTEGRATION (V36000 - UNIFIED)
 // =========================================================================
-function updateLiveEngineDisplay(engineOutpu) {
+function updateLiveEngineDisplay(engineOutput) {
 
     const cycleBox = document.getElementById("wicca-cycle-info");
     if (!cycleBox) return;
@@ -3827,7 +3997,12 @@ function updateLiveEngineDisplay(engineOutpu) {
             
         }
 
-
+        /*
+ ⚙️ <b>[DAY]:</b> Na+ IN ➔ K+ OUT (Yıldırım Deşarj / Foton Şoku)<br>
+                        🌱 <b>N:${v_nitrogen}</b> | <b>S:${v_sulphur}</b> | 🜍 Nitrojen (N-Katot): Sisteme Elektron Pompalıyor<br>
+                        🍃 Atmosfer CO2: <span style="color:#00e5ff; font-weight:bold;">${co2Val.toFixed(0)} ppm</span> ➔ 🟤 Gövde Kütlesi: <span style="color:#ffd700; font-weight:bold;">${carbonVal.toFixed(0)} kg</span>
+                    </div>
+*/
     // Mg²⁺ = Consciousness Trigger
     //N₂   = Reservoir State
     //O₂   = Oxidative Driver
@@ -3843,8 +4018,128 @@ function updateLiveEngineDisplay(engineOutpu) {
 
        // •	Gece Yarısı (Yatay Akış): Sabaha kadar akım Yatay düzlemde, sakin ve dengeliydi. Nitrojen ve Fosfor odaları, Oksijen-Sülfür köprüsünden geçerek enerjiyi sakin manyetik gövdeye (Kalsiyum/Tuz matrisine) depoluyordu. Sistem bir akü (şarj odası) gibi davranıyordu.
 //•	Güneş Doğarken (Dikey Kırılma): İlk ışık vurduğu an, akımın yönü yataydan Dikey eksene doğru kırılır. Sodyum-Potasyum jilet aksı anında kutup değiştirir. Elektrik akımı artık dışarıdan içeriye doğru hücum etmeye başlar. Manyetik gövdede (Tuz matrisinde) durulan enerji, bir anda merkezdeki Magnezyum (Mg) motorunu dikey olarak yukarı fırlatmak için serbest kalır.
+class AlchemicalPump {
+    constructor() {
+        this.currentState = "NIGREDO";
+    }
 
+    transition(phaseOrNode) {
+        let akimYonuSembolu = "";
+        let yon = "";
+        let element = "";
+        let detay = "";
+        let cardiacPhase = "";
 
+        switch (phaseOrNode) {
+            // --- KUZEY: BAŞLANGIÇ ---
+            case "NIGREDO":
+                yon = "NORTH (Kuzey)";
+                element = "Su 🌊";
+                cardiacPhase = "Diastole (Dinlenim)";
+                akimYonuSembolu = "[ Ca²⁺ IN ⚡🔋 K⁺ OUT] ";
+                detay = "Kaos ve dinlenim fazı. Sistem sıfır noktasında.";
+                break;
+
+            case "CHARGE_PHASE":
+                yon = "NORTHEAST (Kuzeydoğu)";
+                element = "Dağ 🔋";
+                cardiacPhase = "ATP Priming (Şarj)";
+                akimYonuSembolu = "[ ⚡ CHARGING: ATP ──> ADP + Pi 🔋 ]";
+                detay = "Sistemin enerji yüklendiği ve sodyumları bağlamaya hazırlandığı an.";
+                break;
+
+            // --- DOĞU: YÜKSELİŞ VE UYARILMA ---
+            case "ALBEDO":
+                yon = "EAST (Doğu)";
+                element = "Tahta 🌱";
+                cardiacPhase = "Depolarization (Uyarılma)";
+                akimYonuSembolu = " [Na+ 🤍 K+ ] ";
+                detay = "Sodyum iyonlarının kanala bağlanarak arınma sürecinin başlaması.";
+                break;
+
+            case "ALPHA_RISE":
+                yon = "SOUTHEAST (Güneydoğu)";
+                element = "Rüzgar ⚡";
+                cardiacPhase = "Na⁺ Occlusion (Sodyum Kilidi)";
+                akimYonuSembolu = "[ 🔒 ALPHA RISE: Na⁺ Occluded 🔒 ]";
+                detay = "3 Sodyum iyonunun kanal içinde kilitlendiği ilk yükseliş düğümü.";
+                break;
+
+            // --- GÜNEY: ZİRVE ---
+            case "RUBEDO":
+                yon = "SOUTH (Güney)";
+                element = "Ateş 🔥";
+                cardiacPhase = "Systole / Ejection (Kasılma)";
+                akimYonuSembolu = "[ Na+ IN 🔋 K+ OUT ] ";
+                detay = "Sistemin zirvesi. Kanın fırlatılması ve maksimum sodyum akışı.";
+                break;
+
+            // --- GÜNEYBATI: DEŞARJ VE GEÇİŞ (TAM YERİ!) ---
+            case "CAUDA":
+                yon = "SOUTHWEST (Güneybatı)";
+                element = "Toprak 🔌";
+                cardiacPhase = "Early Repolarization / Discharge";
+                akimYonuSembolu = " [K+ 🖤 Na+ ] ";
+                detay = "Deşarj evresi (Kuyruk). Enerji serbest kalır, renkler tavus kuşu gibi çözülür.";
+                break;
+
+            // --- BATI: DÖNÜŞÜM ---
+            case "CITRINITAS":
+                yon = "WEST (Batı)";
+                element = "Metal 🛠️";
+                cardiacPhase = "Repolarization (Gevşeme Dalgası)";
+                akimYonuSembolu = " [Na+ 🖤 K+ ] ";
+                detay = "Dönüşüm evresi. Hücrenin potasyum yakalayarak eski dengesine dönmesi.";
+                break;
+
+            case "OMEGA_DOWN":
+                yon = "NORTHWEST (Kuzeybatı)";
+                element = "Gök 🌌";
+                cardiacPhase = "K⁺ Occlusion (Potasyum Kilidi)";
+                akimYonuSembolu = "[ 🔒 OMEGA DOWN: K⁺ Occluded 🔒 ]";
+                detay = "2 Potasyum iyonunun kilitlendiği son kapanış düğüm noktası.";
+                break;
+
+            default:
+                yon = "UNKNOWN";
+                element = "UNKNOWN";
+                cardiacPhase = "UNKNOWN";
+                akimYonuSembolu = "[ UNKNOWN STATE ]";
+        }
+
+        return {
+            sembol: akimYonuSembolu,
+            yon: yon,
+            element: element,
+            fizyoloji: cardiacPhase,
+            detay: detay
+        };
+    }
+}
+
+// --- Güncellenmiş Kusursuz Döngü Akışı ---
+const pump = new AlchemicalPump();
+const perfectGeocentricFlow = [
+    "NIGREDO",        // Kuzey
+    "CHARGE_PHASE",   // Kuzeydoğu
+    "ALBEDO",         // Doğu
+    "ALPHA_RISE",     // Güneydoğu
+    "RUBEDO",         // Güney
+    "CAUDA",          // Güneybatı (Tam Oturan Yer)
+    "CITRINITAS",     // Batı
+    "OMEGA_DOWN"      // Kuzeybatı
+    // Buradan tekrar NIGREDO'ya (Kuzey) bağlanarak çember tamamlanır.
+];
+
+console.log("=== KUSURSUZ COĞRAFİ SİMYA POMPASI DÖNGÜSÜ ===\n");
+/*
+perfectGeocentricFlow.forEach(state => {
+    const info = pump.transition(state);
+    console.log(`📍 YÖN: ${info.yon.padEnd(22)} | Evre: ${state.padEnd(14)} | ${info.fizyoloji}`);
+    console.log(`   Sembol: ${info.sembol}`);
+    console.log("-".repeat(80));
+});*/
+//
     //activeResult = isNightPhase ? window.engine.calculateNexus("Na", "K") : window.engine.calculateNexus("S", "N");
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
@@ -3852,12 +4147,20 @@ function updateLiveEngineDisplay(engineOutpu) {
     // ⚡ CURRENT DIRECTION DETECTOR
     //let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN 🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN ⚡🔋 Na+ OUT]";
 
-    if (alchemyPhase.name === "CITRINITAS") akimYonuSembolu = " [Na+ 🖤 K+ ] "
+    let akimYonuSembolu = ""
+    const nitInfo = hesaplaNitrosyenIyonDengesi(alchemyPhase.name);
+     akimYonuSembolu = `[Na+ 🖤 K+ ] ── 🧬 [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ NUCLEAR ACTIVE`;
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
-    if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🖤 Na+ ] "
-    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
-    if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[ Na+ IN 🔋 K+ OUT ] "
+    if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = " 🔒  Na⁺ Occluded 🔒 "
+    if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = ` 🔒  K⁺ Occluded 🔒 ── 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}]`;
 
+    if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🖤 Na+ ] "
+    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
+    if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ IN ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 1 ATP(P) OUT ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
+ 
+
+    
+    //akimYonuSembolu = akimYonuSembolu + "e:"+ nitInfo.energyCharge
     // Arayüz Çıktıları
     //let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
     //let glukozSentezMiktari = !isNIGREDO ? Math.max(5.0, Math.abs(sirkadiyenDalga * 25.0)).toFixed(1) : 0;
@@ -3873,12 +4176,13 @@ function updateLiveEngineDisplay(engineOutpu) {
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
     //+"🜭 Depolarization | Na+
+    let polarisation = ""
 
-      if (alchemyPhase.name === "ALBEDO" || alchemyPhase.name === "CAUDA")polarisation = "Ionic Balance";
+      if (alchemyPhase.name === "PRIME" || alchemyPhase.name === "CAUDA")polarisation = "Ionic Balance";
 
   if (alchemyPhase.name === "CITRINITAS" ) polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"+</span>"
-      if (alchemyPhase.name === "RUBEDO" ) polarisation = "<span style='color:orange;'>"+"🜭 Depolarization | Na"+"</span>"
-      if (alchemyPhase.name === "NIGREDO") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
+      if (alchemyPhase.name === "ALBEDO"  || alchemyPhase.name === "ALPHA RISE") polarisation = "<span style='color:orange;'>"+"🜭 Depolarization | Na"+"</span>"
+      if (alchemyPhase.name === "NIGREDO" || alchemyPhase.name === "OMEGA DOWN") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
 
 
     // ⚡ CURRENT DIRECTION DETECTOR
@@ -4297,9 +4601,6 @@ function setDirectBaguaSync(zodiacIdx) {
     
     return { symbol: activeSymbol, color: directLiveColor };
 }
-
-
-
 
 
 
@@ -5295,6 +5596,27 @@ function syncLilithEngine() {
     // 4 Vitesli Biyolojik Eksen ve Sistem Faz Kodlarının Tayini
     window.internalAxisState = "";
     window.systemPhaseCode = "";
+
+
+//. Aksiyon Potansiyeli (Uyarılma Fazı) Nedir?
+//Hücre bir uyarı aldığında (örneğin bir sinir veya kas hücresi), bu dinlenme dengesi geçici olarak bozulur:
+///• Depolarizasyon: Sodyum kanalları açılır, sodyum hızla içeri akar ve denge bozulur.
+//• Repolarizasyon: Potasyum kanalları açılır, potasyum dışarı çıkar.
+//• Hiperpolarizasyon: Hücre kısa süreliğine normalden daha negatif bir potansiyele ulaşır.
+//• Yeniden Dinlenme Fazı: Sodyum-Potasyum pompası tekrar devreye girerek iyonları eski yerlerine taşır ve hücreyi yeniden başlangıçtaki dinlenme dengesine getirir.
+//Özetle; sodyum ve potasyumun kararlı bir şekilde kontrol altında tutulduğu ana evre hücrenin dinlenme fazıdır ve bu denge statik bir eşitlik değil, enerji harcanarak korunan dinamik bir dengedir.
+
+
+    // Vücudun Asit-Baz (pH) Dengesi
+    //• Alkaloz (Kanın alkali/bazik olması): Hücre dışındaki hidrojen iyonları h+ hücre dışına çıkarken, 
+    // dengeyi sağlamak için potasyum iyonları hücre içine girer (hücre içi potasyum artar, kandaki azalır).
+    // Hücre içi potasyum miktarını ve dengesini kontrol eden en temel mekanizma, 
+    // hücre zarında bulunan na+/k+ - ATPaz (Sodyum-Potasyum) pompasıdır . 
+    // Bu pompa, aktif taşıma yaparak sürekli olarak 3 sodyum iyonunu hücre dışına pompalarken, 
+    // 2 potasyum iyonunu hücre içine taşır. (Sodyum enerji kaynağının 3 te 1 i)
+    // Böylece potasyumun %98 gibi büyük bir kısmının hücre içinde kalmasını sağlar.
+    // Hücre dışı sodyum (Na⁺) seviyelerini ve dengesini kontrol eden temel yapı böbreklerdir
+    // Toplam vücut potasyumunun kronik kontrolü böbrekler tarafından yapılır.
     
 
     if (currentRoom >= 48 && currentRoom <= 63) {
