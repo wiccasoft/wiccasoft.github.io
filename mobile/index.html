@@ -2955,7 +2955,7 @@ if (compassFrame) {
     window.alchemyPhase = "none";
 
     // ⚪ 1. EVRE: DOĞU (0 - 12) ── ALBEDO
-    if (sunRoom64 >= 0 && sunRoom64 < 8 ||  (sunRoom64 >= 61 && sunRoom64 < 64)) {
+    if (sunRoom64 >= 0 && sunRoom64 < 6 ||  (sunRoom64 >= 61 && sunRoom64 < 64)) {
         yon = "EAST (Doğu)";
         pendulumStatus = "🟢  Depolarizasyon (P Dalgası)";
         alchemyPhase = { 
@@ -2974,7 +2974,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
     } 
     // 🔒 2. DÜĞÜM: GÜNEYDOĞU (12 - 16) ── ALPHA RISE (Na+ Occluded)
-    else if (sunRoom64 >= 8 && sunRoom64 < 12) {
+    else if (sunRoom64 >= 6 && sunRoom64 < 12) {
         yon = "SOUTHEAST (Güneydoğu)";
         // P dalgasından ayrıldı, QRS geçiş checkpoint'i oldu:
         pendulumStatus = "⚡ ALPHA RISE: QRS Transition | Na⁺ Locking"; 
