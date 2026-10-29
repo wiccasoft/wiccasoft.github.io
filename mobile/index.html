@@ -2955,7 +2955,7 @@ if (compassFrame) {
     window.alchemyPhase = "none";
 
     // ⚪ 1. EVRE: DOĞU (0 - 12) ── ALBEDO
-    if (sunRoom64 >= 0 && sunRoom64 < 8) {
+    if (sunRoom64 >= 0 && sunRoom64 < 8 ||  (sunRoom64 >= 61 && sunRoom64 < 64)) {
         yon = "EAST (Doğu)";
         pendulumStatus = "🟢  Depolarizasyon (P Dalgası)";
         alchemyPhase = { 
@@ -3095,7 +3095,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }
     // 🔋 8. GEÇİŞ: KUZEYDOĞU (56 - 61) ── PRIME / CHARGE
-    else if (sunRoom64 >= 56 && sunRoom64 <= 64) { // 61 yerine tam çembere çektim
+    else if (sunRoom64 >= 56 && sunRoom64 <= 61) { // 61 yerine tam çembere çektim
         yon = "NORTHEAST (Kuzeydoğu)";
         pendulumStatus = "🔵 T Wave | Ventricular Repolarization Complete";
         alchemyPhase = {
