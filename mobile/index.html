@@ -3013,7 +3013,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
     }
     // 🔌 4. EVRE: GÜNEYBATI (24 - 32) ── CAUDA
-    else if (sunRoom64 >= 24 && sunRoom64 < 32) {
+    else if (sunRoom64 >= 24 && sunRoom64 < 30) {
         yon = "SOUTHWEST (Güneybatı)";
         pendulumStatus = "🟢 QRS Complex | Na+ Depolarized";
         alchemyPhase = { 
@@ -3032,7 +3032,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
     } 
     // 🛠️ 5. EVRE: BATI (32 - 39) ── CITRINITAS
-    else if (sunRoom64 >= 32 && sunRoom64 < 38) {
+    else if (sunRoom64 >= 30 && sunRoom64 < 38) {
         yon = "WEST (Batı)";
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
         alchemyPhase = { 
@@ -4156,7 +4156,7 @@ perfectGeocentricFlow.forEach(state => {
     let akimYonuSembolu = ""
     const nitInfo = hesaplaNitrosyenIyonDengesi(alchemyPhase.name);
 
-    if (alchemyPhase.name === "CITRINITAS")akimYonuSembolu = `[Na+ 🖤 K+ ] ── 🧬 [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ NUCLEAR ACTIVE`;
+    if (alchemyPhase.name === "CITRINITAS")akimYonuSembolu = ` [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ `;
     if (alchemyPhase.name === "PRIME")akimYonuSembolu = `[Na+ 🤍 K+ ] ── 🧬 [ P-Dominance: %${(nitInfo.energyCharge * 100).toFixed(0)} ] ⚡ NUCLEAR ACTIVE`;
 
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
