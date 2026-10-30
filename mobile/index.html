@@ -1670,13 +1670,13 @@ setInterval(() => {
             sirkadiyenButonIndex = 1; // ❄️ Room 6-10 -> KUŞLUK VAKTİ KAPISI! (.ice-gate)
         } else if (currentTargetRoom >= 11 && currentTargetRoom <= 23) {
             sirkadiyenButonIndex = 2; // 🔥 Room 11-19 -> MIDDAY TEPE KAPISI [YANG ZİRVE]! (.fire-gate)
-        } else if (currentTargetRoom >= 24 && currentTargetRoom <= 31) {
+        } else if (currentTargetRoom >= 24 && currentTargetRoom <= 30) {
             sirkadiyenButonIndex = 3; // 🟡 Room 20-31 -> İKİNDİ SAĞ ÜST KÖŞE [LÜTUF]! (.light-gate)
-        } else if (currentTargetRoom >= 32 && currentTargetRoom <= 36) {
+        } else if (currentTargetRoom >= 31 && currentTargetRoom <= 37) {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
-        } else if (currentTargetRoom >= 36 && currentTargetRoom <= 47) {
+        } else if (currentTargetRoom >= 38 && currentTargetRoom <= 44) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
-        } else if (currentTargetRoom >= 47 && currentTargetRoom <= 51) {
+        } else if (currentTargetRoom >= 45 && currentTargetRoom <= 51) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
         }  else if (currentTargetRoom >= 52 && currentTargetRoom <= 61) {
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
@@ -2977,7 +2977,7 @@ if (compassFrame) {
     else if (sunRoom64 >= 6 && sunRoom64 < 11) {
         yon = "SOUTHEAST (Güneydoğu)";
         // P dalgasından ayrıldı, QRS geçiş checkpoint'i oldu:
-        pendulumStatus = "⚡ ALPHA RISE: QR Transition | Na⁺ Locking"; 
+        pendulumStatus = "⚡  PQR Transition | Na⁺ Locking"; 
         alchemyPhase = { 
             element: "Rüzgar ⚡",
             trigram: staticTrigrams[3], // ☴ Xun Trigramı (Saf Kırmızı Polar Kilit)
@@ -2986,7 +2986,7 @@ if (compassFrame) {
             name: "ALPHA RISE", 
             color: "#FFA500", 
             bgGlow: "rgba(255, 165, 0, 1)", 
-            info: "🔴 ALPHA RISE: Sodyum Oklüzyon Düğümü" 
+            info: "❤️ ALPHA RISE: Sodyum Oklüzyon Düğümü" 
         };
         detay = "3 Sodyum iyonunun kanal içinde kilitlendiği, yükselişin başladığı düğüm noktası.";
         
@@ -2996,7 +2996,7 @@ if (compassFrame) {
     // 🔥 3. EVRE: GÜNEY (16 - 24) ── RUBEDO
     else if (sunRoom64 >= 11 && sunRoom64 < 24) {
         yon = "SOUTH (Güney)";
-        pendulumStatus = "🔴 SIGMA PEAK: QRS Complex | Na+ Depolarization";
+        pendulumStatus = "❤️ SIGMA PEAK: QR Complex | Na+ Depolarization";
         alchemyPhase = { 
             element: "Ateş 🔥",
             trigram: staticTrigrams[4], // ☰ Qian Trigramı (Zirve)
@@ -3013,18 +3013,18 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
     }
     // 🔌 4. EVRE: GÜNEYBATI (24 - 32) ── CAUDA
-    else if (sunRoom64 >= 24 && sunRoom64 < 30) {
+    else if (sunRoom64 >= 24 && sunRoom64 < 31) {
         yon = "SOUTHWEST (Güneybatı)";
-        pendulumStatus = "🟢 QRS Complex | Na+ Depolarized";
+        pendulumStatus = "🟢 S Transition | Na+ Depolarized";
         alchemyPhase = { 
             element: "Toprak 🪵",
             trigram: staticTrigrams[5], // ☱ Dui Trigramı
             cardiacPhase: "Early Repolarization / Discharge",
-            akimYonuSembolu: " [K+ 🖤 Na+ ] 🔵",
+            akimYonuSembolu: " [K+ 💛 Na+ ] 🔵",
             name: "CAUDA", 
             color: "#ffd700", 
             bgGlow: "rgba(255, 215, 0, 0.2)", 
-            info: "🟢 CAUDA: System Discharged" 
+            info: "💚 CAUDA: System Discharged" 
         };
         detay = "Enerji deşarjı başlıyor. Renkler tavus kuşu kuyruğu gibi saçılıyor.";
 
@@ -3032,7 +3032,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 20px rgba(255, 170, 0, 0.35)";
     } 
     // 🛠️ 5. EVRE: BATI (32 - 39) ── CITRINITAS
-    else if (sunRoom64 >= 30 && sunRoom64 < 38) {
+    else if (sunRoom64 >= 31 && sunRoom64 < 38) {
         yon = "WEST (Batı)";
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
         alchemyPhase = { 
@@ -3051,9 +3051,13 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }      
     // 🔒 6. DÜĞÜM: KUZEYBATI (39 - 45) ── OMEGA DOWN (K+ Occluded)
-    else if (sunRoom64 >= 38 && sunRoom64 < 45) {
+    else if (sunRoom64 >= 37 && sunRoom64 < 45) {
         yon = "NORTHWEST (Kuzeybatı)";
         pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (T Segmenti)";
+
+        
+        let kalanFlux = ((45 - sunRoom64) / 8).toFixed(1);
+
         alchemyPhase = { 
             element: "Gök 🌌",
             trigram: staticTrigrams[7], // ☶ Gen Trigramı
@@ -3062,7 +3066,7 @@ if (compassFrame) {
             name: "OMEGA DOWN", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔒 OMEGA DOWN: K+ Occluded | flux ratio "+((8-(46-sunRoom64))/8).toFixed(1),
+             info: "OMEGA DOWN: K+ Occluded | flux ratio " + kalanFlux,
             
                // Bitki ve İnsan arasındaki bu harika zıtlığı DETAY kısmında öğrencilere açıklayalım:
         detay: "Potasyum kilidi evresi. 🫀 İnsan kalbi DEŞARJ (Gevşeme) modundadır. 🌱 Bitki ise enerjiyi toprağa bağlayarak ŞARJ moduna geçer."
@@ -3074,7 +3078,7 @@ if (compassFrame) {
     // 🌊 7. EVRE: KUZEY (45 - 56) ── NIGREDO
     else if (sunRoom64 >= 45 && sunRoom64 < 56) {
         yon = "NORTH (Kuzey)";
-        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (T Segmenti)";
+        pendulumStatus = "🔵 Ventricular Repolarization: Diyastolik Arınma";
         alchemyPhase = { 
             element: "Su 🌊",
             trigram: staticTrigrams[0], // ☷ Kun Trigramı (Tam Dinlenim)
@@ -3086,7 +3090,7 @@ if (compassFrame) {
             //info: "🔋 NIGREDO: System Resting",
             detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında.",
             // KULLANICI BURADA OKSİJENLE YENİDEN DOLUM ORANINI (0.0 - 1.0) GÖRÜR:
-            info: "🔋 NIGREDO: Mitokondri Active | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
+            info: "🔋 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
             akimYonuSembolu: "[ Mg²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ] ── 🧬 [ N-Aktivasyon ] 🔋 O₂ INFLUX",
             
         };
@@ -3892,33 +3896,39 @@ function tickSimyaVortex(zamanModu) {
 }
 
 
+
 function hesaplaNitrosyenIyonDengesi(alchemyPhaseName) {
     // Toplam Azotlu/Nitrojenli Adenozin Omurgası Sabittir (N = 100)
     const Total_Nitrogen_Base = 100; 
     let fosforSeviyesi = 0; // Aktif Fosforilasyon gücü
-
+     let voltajmV = -90; // Varsayılan en dip seviye (Omega Down / Nigredo)
     // Fazlara göre anlık Fosfor / Nitrojen kayması
     switch (alchemyPhaseName) {
         case "PRIME": // Şarj Başlangıcı (Fosfor sisteme giriyor)
-            fosforSeviyesi = 80; 
+            fosforSeviyesi = 80; voltajmV = 20;
             break;
         case "ALPHA RISE": // Tam Fosforillenmiş Kilit
-            fosforSeviyesi = 100;
+            fosforSeviyesi = 100; voltajmV = 30;
             break;
         case "RUBEDO": // Zirve Aktivasyon
-            fosforSeviyesi = 90;
+            fosforSeviyesi = 90;  voltajmV = 10;
             break;
         case "CAUDA": // Deşarj Başlangıcı (Fosfor kopuyor)
-            fosforSeviyesi = 40;
+            fosforSeviyesi = 40;  voltajmV = 5;
             break;
         case "CITRINITAS": // Fosfor Bitti, Nitrojen Egemen!
-            fosforSeviyesi = 10; // Neredeyse sadece Azotlu omurga kaldı
+            fosforSeviyesi = 10; voltajmV = 0;// Neredeyse sadece Azotlu omurga kaldı
             break;
         case "OMEGA DOWN":
         case "NIGREDO": // Sıfır Noktası
             fosforSeviyesi = 0;
             break;
     }
+
+      // --- MATEMATİKSEL DÖNÜŞÜM ---
+    // Voltaj aralığımız toplam 110 birim (+20 ile -90 arası).
+    // Voltaj +20 iken enerji yükü %100 (1.0) olmalı, -90 iken %0 (0.0) olmalı.
+    const energyChargeV = (voltajmV - (-90)) / 110;
 
     // Enerji Yükü Formülü (Biyolojik Karşılık)
     const energyCharge = fosforSeviyesi / Total_Nitrogen_Base; 
@@ -3940,9 +3950,10 @@ function hesaplaNitrosyenIyonDengesi(alchemyPhaseName) {
 }
 
 // --- Örnek Citrinitas Testi ---
-const nitInfo = hesaplaNitrosyenIyonDengesi("CITRINITAS");
-console.log(`Fosfor Şarjı: %${nitInfo.energyCharge * 100} | Nitrojen Baskınlığı: %${nitInfo.nitrogenDominance * 100}`);
+//const nitInfo = hesaplaNitrosyenIyonDengesi("CITRINITAS");
+//console.log(`Fosfor Şarjı: %${nitInfo.energyCharge * 100} | Nitrojen Baskınlığı: %${nitInfo.nitrogenDominance * 100}`);
 // Çıktı: Fosfor Şarjı: %10 | Nitrojen Baskınlığı: %90
+
 
 // =========================================================================
 // 🚀 [CLEAN RENDER]: TOTAL MASS PURGE & VALVE INTEGRATION (V36000 - UNIFIED)
@@ -4150,27 +4161,53 @@ perfectGeocentricFlow.forEach(state => {
     //window.internalAxisState = "";
     //window.systemPhaseCode = "";
     
-    // ⚡ CURRENT DIRECTION DETECTOR
+    // ⚡ CURRENT DIRECTION DETECTOR ❤️
     //let akimYonuSembolu = !isNIGREDO ? " [ Na+ IN 🔋 K+ OUT ] P 🜍" : "P 🜍  [ K+ IN ⚡🔋 Na+ OUT]";
 
     let akimYonuSembolu = ""
     const nitInfo = hesaplaNitrosyenIyonDengesi(alchemyPhase.name);
 
     if (alchemyPhase.name === "CITRINITAS")akimYonuSembolu = ` [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ `;
-    if (alchemyPhase.name === "PRIME")akimYonuSembolu = `[Na+ 🤍 K+ ] ── 🧬 [ P-Dominance: %${(nitInfo.energyCharge * 100).toFixed(0)} ] ⚡ NUCLEAR ACTIVE`;
+    if (alchemyPhase.name === "PRIME")akimYonuSembolu = `[ K+ 🤍 Na+ ] [ P-Dominance: %${(nitInfo.energyCharge * 100).toFixed(0)} ] ⚡ `;
 
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
-    if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = " 🔒  Na⁺ Occluded 🔒 "
-    if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = " 🔒  K⁺ Occluded 🔒 ]";//─ 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}
+    //if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = " 🔒  Na⁺ Occluded 🔒 "
 
+    if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = "[ Ca²⁺ ⚡ Na+ ]";
+
+    //K⁺ Occluded
+  
     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " [K+ 🖤 Na+ ] "
-    //if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
 
-    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ ⚡ 2 K⁺ IN 🔋 3 Na⁺ OUT ⚡ Mg²⁺ ] phosphorylation :  Plant O₂ INFLUX";//[ N-Aktivasyon ]
-    if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 🔥 OXIDATION ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
+    //if (alchemyPhase.name === "CAUDA") akimYonuSembolu = "[ Na+ OUT 🔄 K+ OUT ➡️ Mg²⁺ Blends 🔋 Na+/K+ Pump Active ]";
+
+     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " Mg²⁺ [ 💛 ]";
+
+
+     //3Na⁺ IN 🔋 2 K⁺ OUT
+     //2 K⁺ IN 🔋 3Na⁺ OUT
+
+
+       if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = " 🛡️ Mg² [ K+ ]"; //─ 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}
  
 
-    
+
+    //if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
+
+    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ ⚡ K+ ⚡ Mg²⁺ ] : O₂ INFLUX";//[ N-Aktivasyon ]
+    //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 🔥 OXIDATION ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
+    //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ Na⁺ Max 🔋 ⚡ Ca2+ IN ] 🔥 OXIDATION ";
+
+
+    //if (alchemyPhase.name === "RUBEDO")  akimYonuSembolu = "[ Mg²⁺ Activated 🛡️ ⚡ Na⁺ Max 🔋 ] 🔥 OXIDATION";
+
+
+     if (alchemyPhase.name === "RUBEDO")  akimYonuSembolu = "[ Mg²⁺ 🛡️ ⚡ Na+ 🔋 ] 🔥 OXIDATION";
+  
+
+    //3 Na⁺ IN 🔋 2 K⁺ OUT
+    //ION FLUX: [ Na+ MAX IN ⚡ Ca2+ IN ] 🔥 SYSTOLE | OXIDATION
+
     //akimYonuSembolu = akimYonuSembolu + "e:"+ nitInfo.energyCharge
     // Arayüz Çıktıları
     //let akimYonuMetni = isNIGREDO ? `<span style="color:#ca5ca0; font-weight:bold;">PHASE: ${window.pendulumStatus} <p>AKIM YÖNÜ:${akimYonuSembolu}</span> Potasyum Kanalları Aktif` : `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus} AKIM YÖNÜ:${akimYonuSembolu}</span> Sodyum Kapıları Açık`;
@@ -4189,11 +4226,11 @@ perfectGeocentricFlow.forEach(state => {
     //+"🜭 Depolarization | Na+
     let polarisation = ""
 
-      if (alchemyPhase.name === "PRIME" || alchemyPhase.name === "CAUDA")polarisation = "Ionic Balance";
+      if (alchemyPhase.name === "CAUDA") polarisation = "Ionic Balance";
 
   if (alchemyPhase.name === "CITRINITAS" ) polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"+</span>"
       if (alchemyPhase.name === "ALBEDO"  || alchemyPhase.name === "ALPHA RISE") polarisation = "<span style='color:orange;'>"+"🜭 Depolarization | Na"+"</span>"
-      if (alchemyPhase.name === "NIGREDO" || alchemyPhase.name === "OMEGA DOWN") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
+      if (alchemyPhase.name === "OMEGA DOWN") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
 
 
     // ⚡ CURRENT DIRECTION DETECTOR
@@ -4203,7 +4240,7 @@ perfectGeocentricFlow.forEach(state => {
      //   `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
 
 
-     let akimYonuMetni =  `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
+     let akimYonuMetni =  `<span style="color:#00ffaa; font-weight:bold;">${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
@@ -4219,15 +4256,12 @@ perfectGeocentricFlow.forEach(state => {
     //N : ${v.nitrogen_ml} | S : ${v.sulphur_ml} | K : ${v.potassium_ml}
     //${window.systemPhaseCode}${akimYonuSembolu} ${window.systemPhaseCode}
 
-    if (!isNIGREDO) {
-        cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
+
+
+     cycleBox.innerHTML = `<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
             [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-size:14;font-family: monospace; color: #e0e0e0;">
-               ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
-    } else {
-        cycleBox.innerHTML = `<<span style="letter-spacing: 1px; font-size:13;font-weight: bold; font-family: monospace;">
-            [${alchemyPhase.info}]</span><br><div style="font-size: 11px; margin-top: 4px; font-size:14;font-family: monospace; color: #e0e0e0;">
-                ${pilSarjYuzdesi}🔋 ${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
-    }
+               ${pilSarjYuzdesi}${akimYonuMetni}${fotosentezFormuluGosterge}</div>`;
+
 
 
 
