@@ -2955,9 +2955,9 @@ if (compassFrame) {
     window.alchemyPhase = "none";
 
     // ⚪ 1. EVRE: DOĞU (0 - 12) ── ALBEDO
-    if (sunRoom64 >= 0 && sunRoom64 < 6 ||  (sunRoom64 >= 61 && sunRoom64 < 64)) {
+    if (sunRoom64 >= 0 && sunRoom64 < 7 ||  (sunRoom64 >= 61 && sunRoom64 < 64)) {
         yon = "EAST (Doğu)";
-        pendulumStatus = "🟢  Depolarizasyon (P Dalgası)";
+        pendulumStatus = "";//🟢  Depolarizasyon (P Dalgası)
         alchemyPhase = { 
             element: "Tahta 🌱",
             trigram: staticTrigrams[2], // ☲ Li Trigramı (Uyanış)
@@ -2974,19 +2974,19 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 255, 170, 0.25)";
     } 
     // 🔒 2. DÜĞÜM: GÜNEYDOĞU (12 - 16) ── ALPHA RISE (Na+ Occluded)
-    else if (sunRoom64 >= 6 && sunRoom64 < 11) {
+    else if (sunRoom64 >= 7 && sunRoom64 < 11) {
         yon = "SOUTHEAST (Güneydoğu)";
         // P dalgasından ayrıldı, QRS geçiş checkpoint'i oldu:
-        pendulumStatus = "⚡  PQR Transition | Na⁺ Locking"; 
+        pendulumStatus = ""; 
         alchemyPhase = { 
             element: "Rüzgar ⚡",
             trigram: staticTrigrams[3], // ☴ Xun Trigramı (Saf Kırmızı Polar Kilit)
             cardiacPhase: "Phosphorylated Na⁺ Occlusion (Sodyum Kilidi)",
-            akimYonuSembolu: "[ 🔒 ALPHA RISE: Na⁺ Occluded 🔒 ]",
+            akimYonuSembolu: "[ ALPHA RISE: Na⁺ Occluded ]",
             name: "ALPHA RISE", 
             color: "#FFA500", 
             bgGlow: "rgba(255, 165, 0, 1)", 
-            info: "❤️ ALPHA RISE: Sodyum Oklüzyon Düğümü" 
+            info: "❤️ ALPHA RISE: ⚡ PR Segment | AV Delay " 
         };
         detay = "3 Sodyum iyonunun kanal içinde kilitlendiği, yükselişin başladığı düğüm noktası.";
         
@@ -2996,7 +2996,7 @@ if (compassFrame) {
     // 🔥 3. EVRE: GÜNEY (16 - 24) ── RUBEDO
     else if (sunRoom64 >= 11 && sunRoom64 < 24) {
         yon = "SOUTH (Güney)";
-        pendulumStatus = "❤️ SIGMA PEAK: QR Complex | Na+ Depolarization";
+        pendulumStatus = "❤️ SIGMA PEAK: QRS Complex | Ventricular Depolarization";
         alchemyPhase = { 
             element: "Ateş 🔥",
             trigram: staticTrigrams[4], // ☰ Qian Trigramı (Zirve)
@@ -3015,7 +3015,7 @@ if (compassFrame) {
     // 🔌 4. EVRE: GÜNEYBATI (24 - 32) ── CAUDA
     else if (sunRoom64 >= 24 && sunRoom64 < 31) {
         yon = "SOUTHWEST (Güneybatı)";
-        pendulumStatus = "🟢 S Transition | Na+ Depolarized";
+        pendulumStatus = "S Transition | Na+ Depolarized";//🟢 
         alchemyPhase = { 
             element: "Toprak 🪵",
             trigram: staticTrigrams[5], // ☱ Dui Trigramı
@@ -3034,7 +3034,7 @@ if (compassFrame) {
     // 🛠️ 5. EVRE: BATI (32 - 39) ── CITRINITAS
     else if (sunRoom64 >= 31 && sunRoom64 < 38) {
         yon = "WEST (Batı)";
-        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)";
+        pendulumStatus = "";//🔵 Ca2+ / K+ Plato Dengesi (ST Segmenti)
         alchemyPhase = { 
             element: "Metal 🛠️",
             trigram: staticTrigrams[6], // ☵ Kan Trigramı
@@ -3043,7 +3043,7 @@ if (compassFrame) {
             name: "CITRINITAS", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "🔋 CITRINITAS: Parasympathetic Night Wake",
+            info: "💛 CITRINITAS: Parasympathetic Night Wake",
             detay: "Dönüşüm evresi. Hücrenin potasyum sızıntısıyla eski dengesine dönmesi."
         };
 
@@ -3053,7 +3053,7 @@ if (compassFrame) {
     // 🔒 6. DÜĞÜM: KUZEYBATI (39 - 45) ── OMEGA DOWN (K+ Occluded)
     else if (sunRoom64 >= 37 && sunRoom64 < 45) {
         yon = "NORTHWEST (Kuzeybatı)";
-        pendulumStatus = "🔵 Ca2+ / K+ Plato Dengesi (T Segmenti)";
+        pendulumStatus = "";//🔵 Ca2+ / K+ Plato Dengesi (T Segmenti)
 
         
         let kalanFlux = ((45 - sunRoom64) / 8).toFixed(1);
@@ -3078,7 +3078,7 @@ if (compassFrame) {
     // 🌊 7. EVRE: KUZEY (45 - 56) ── NIGREDO
     else if (sunRoom64 >= 45 && sunRoom64 < 56) {
         yon = "NORTH (Kuzey)";
-        pendulumStatus = "🔵 Ventricular Repolarization: Diyastolik Arınma";
+        pendulumStatus = "🔵 Ventricular Repolarization: Diastolic Purification";
         alchemyPhase = { 
             element: "Su 🌊",
             trigram: staticTrigrams[0], // ☷ Kun Trigramı (Tam Dinlenim)
@@ -3090,7 +3090,7 @@ if (compassFrame) {
             //info: "🔋 NIGREDO: System Resting",
             detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında.",
             // KULLANICI BURADA OKSİJENLE YENİDEN DOLUM ORANINI (0.0 - 1.0) GÖRÜR:
-            info: "🔋 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
+            info: "🖤 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
             akimYonuSembolu: "[ Mg²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ] ── 🧬 [ N-Aktivasyon ] 🔋 O₂ INFLUX",
             
         };
@@ -3110,7 +3110,7 @@ if (compassFrame) {
             name: "PRIME",
             color: "#66ff00", 
             bgGlow: "rgba(0, 255, 170, 0.2)",
-            info: "🤍🔋 PRIME: System Charged",
+            info: "💜🔋 PRIME: System Charged",
             detay: "Fosforilasyon başlangıcı. Gelecek aksiyon dalgası için enerji dağ gibi birikiyor."
         };
         compassFrame.style.borderImage = "linear-gradient(45deg, #ff2a2a, #ff0055) 1";
@@ -4171,9 +4171,16 @@ perfectGeocentricFlow.forEach(state => {
     if (alchemyPhase.name === "PRIME")akimYonuSembolu = `[ K+ 🤍 Na+ ] [ P-Dominance: %${(nitInfo.energyCharge * 100).toFixed(0)} ] ⚡ `;
 
     if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
+
+
+    if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = "[ Na+ Influx ]";
     //if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = " 🔒  Na⁺ Occluded 🔒 "
 
     if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = "[ Ca²⁺ ⚡ Na+ ]";
+
+ if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = "[ ⚡ Ca2+ Slow Influx ]";
+    
+  
 
     //K⁺ Occluded
   
@@ -4181,20 +4188,20 @@ perfectGeocentricFlow.forEach(state => {
 
     //if (alchemyPhase.name === "CAUDA") akimYonuSembolu = "[ Na+ OUT 🔄 K+ OUT ➡️ Mg²⁺ Blends 🔋 Na+/K+ Pump Active ]";
 
-     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " Mg²⁺ [ 💛 ]";
+     if (alchemyPhase.name === "CAUDA") akimYonuSembolu = " 🛡️ Mg² [ 💛 ]";
 
 
      //3Na⁺ IN 🔋 2 K⁺ OUT
-     //2 K⁺ IN 🔋 3Na⁺ OUT
+     //2 K⁺ IN ⚡ 3Na⁺ OUT
 
 
-       if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = " 🛡️ Mg² [ K+ ]"; //─ 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}
+       if (alchemyPhase.name === "OMEGA DOWN") akimYonuSembolu = " Ca²⁺ IN [ K+ Influx ]"; //─ 🌱 PLANT RECHARGE [Energy Charge: ${nitInfo.energyCharge}
  
 
 
     //if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
 
-    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ ⚡ K+ ⚡ Mg²⁺ ] : O₂ INFLUX";//[ N-Aktivasyon ]
+    if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ ⚡ K+ 🔋 Mg²] : O₂ INFLUX";//[ N-Aktivasyon ]
     //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 🔥 OXIDATION ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
     //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ Na⁺ Max 🔋 ⚡ Ca2+ IN ] 🔥 OXIDATION ";
 
@@ -4203,6 +4210,9 @@ perfectGeocentricFlow.forEach(state => {
 
 
      if (alchemyPhase.name === "RUBEDO")  akimYonuSembolu = "[ Mg²⁺ 🛡️ ⚡ Na+ 🔋 ] 🔥 OXIDATION";
+
+
+     if (alchemyPhase.name === "RUBEDO")  akimYonuSembolu = "[ Na+ Fast Influx ] 🔥 OXIDATION";
   
 
     //3 Na⁺ IN 🔋 2 K⁺ OUT
@@ -4233,6 +4243,9 @@ perfectGeocentricFlow.forEach(state => {
       if (alchemyPhase.name === "OMEGA DOWN") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
 
 
+            if(!window.pendulumStatus=="")window.pendulumStatus=window.pendulumStatus+"<br>"
+      
+
     // ⚡ CURRENT DIRECTION DETECTOR
     //(Pil Şarj Oluyor) (Deşarj/Action)
     //let akimYonuMetni = isNIGREDO ? 
@@ -4240,7 +4253,7 @@ perfectGeocentricFlow.forEach(state => {
      //   `<span style="color:#00ffaa; font-weight:bold;">PHASE: ${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
 
 
-     let akimYonuMetni =  `<span style="color:#00ffaa; font-weight:bold;">${window.pendulumStatus}</span><br>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
+     let akimYonuMetni =  `<span style="color:#00ffaa; font-weight:bold;">${window.pendulumStatus}</span>ION FLUX:${akimYonuSembolu} ${polarisation}  `;
 
 
     // console.log("ROOM:"+sunRoom64+" ALCHEMY:"+alchemyPhase.info)
