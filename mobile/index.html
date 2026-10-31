@@ -3015,7 +3015,7 @@ if (compassFrame) {
     // 🔌 4. EVRE: GÜNEYBATI (24 - 32) ── CAUDA
     else if (sunRoom64 >= 24 && sunRoom64 < 31) {
         yon = "SOUTHWEST (Güneybatı)";
-        pendulumStatus = "S Transition | Na+ Depolarized";//🟢 
+        pendulumStatus = "SYS BETA DISCHARGE | S Transition | Na+ Depolarized";//🟢 
         alchemyPhase = { 
             element: "Toprak 🪵",
             trigram: staticTrigrams[5], // ☱ Dui Trigramı
@@ -3066,7 +3066,7 @@ if (compassFrame) {
             name: "OMEGA DOWN", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-             info: "OMEGA DOWN: K+ Occluded | flux ratio " + kalanFlux,
+             info: "💙 OMEGA DOWN: K+ Occluded | flux ratio " + kalanFlux,
             
                // Bitki ve İnsan arasındaki bu harika zıtlığı DETAY kısmında öğrencilere açıklayalım:
         detay: "Potasyum kilidi evresi. 🫀 İnsan kalbi DEŞARJ (Gevşeme) modundadır. 🌱 Bitki ise enerjiyi toprağa bağlayarak ŞARJ moduna geçer."
@@ -3078,7 +3078,7 @@ if (compassFrame) {
     // 🌊 7. EVRE: KUZEY (45 - 56) ── NIGREDO
     else if (sunRoom64 >= 45 && sunRoom64 < 56) {
         yon = "NORTH (Kuzey)";
-        pendulumStatus = "🔵 Ventricular Repolarization: Diastolic Purification";
+        pendulumStatus = "🔵 SYS OMEGA CLEANSE: Diastolic Purification";
         alchemyPhase = { 
             element: "Su 🌊",
             trigram: staticTrigrams[0], // ☷ Kun Trigramı (Tam Dinlenim)
@@ -3090,7 +3090,7 @@ if (compassFrame) {
             //info: "🔋 NIGREDO: System Resting",
             detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında.",
             // KULLANICI BURADA OKSİJENLE YENİDEN DOLUM ORANINI (0.0 - 1.0) GÖRÜR:
-            info: "🖤 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
+            info: "💜 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
             akimYonuSembolu: "[ Mg²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ] ── 🧬 [ N-Aktivasyon ] 🔋 O₂ INFLUX",
             
         };
@@ -4202,6 +4202,11 @@ perfectGeocentricFlow.forEach(state => {
     //if (alchemyPhase.name === "NIGREDO") akimYonuSembolu =  "[ Ca²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN] 1 ATP(P) IN  O₂ INFLUX" ;// [ Voltaj: -60mV ⚡ Zero State ]""[ Ca²⁺ IN ⚡🔋 K⁺ OUT] "
 
     if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ ⚡ K+ 🔋 Mg²] : O₂ INFLUX";//[ N-Aktivasyon ]
+
+
+     if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ Mg²⁺ ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ]"//" [ N-Aktivasyon ] 🔋 O₂ INFLUX";
+
+
     //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 🔥 OXIDATION ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
     //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ Na⁺ Max 🔋 ⚡ Ca2+ IN ] 🔥 OXIDATION ";
 
