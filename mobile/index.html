@@ -1676,9 +1676,9 @@ setInterval(() => {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
         } else if (currentTargetRoom >= 38 && currentTargetRoom <= 44) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
-        } else if (currentTargetRoom >= 45 && currentTargetRoom <= 51) {
+        } else if (currentTargetRoom >= 45 && currentTargetRoom <= 53) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
-        }  else if (currentTargetRoom >= 52 && currentTargetRoom <= 61) {
+        }  else if (currentTargetRoom >= 53 && currentTargetRoom <= 61) {
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
         } else {
             // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlas
@@ -2963,10 +2963,10 @@ if (compassFrame) {
             trigram: staticTrigrams[2], // ☲ Li Trigramı (Uyanış)
             cardiacPhase: "Depolarization (Uyarılma Başlangıcı)",
             akimYonuSembolu: " [Na+ 🤍 K+ ] ",
-            name: "ALBEDO", 
+            name: "CITRINITAS", 
             color: "#ffd700", 
             bgGlow: "rgba(255, 94, 0, 0.2)", 
-            info: "🤍 ALBEDO : Sympathetic Wake Up" 
+            info: "💛 CITRINITAS : Sympathetic Wake Up" 
         };
         detay = "Sodyum iyonlarının kanala bağlanarak arınma sürecinin başlaması.";
         
@@ -3040,10 +3040,10 @@ if (compassFrame) {
             trigram: staticTrigrams[6], // ☵ Kan Trigramı
             cardiacPhase: "Repolarization (Gevşeme Dalgası)",
             akimYonuSembolu: " [Na+ 🖤 K+ ] 🔵",
-            name: "CITRINITAS", 
+            name: "ALBEDO", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-            info: "💛 CITRINITAS: Parasympathetic Night Wake",
+            info: "🤍 ALBEDO: Parasympathetic Night Wake",
             detay: "Dönüşüm evresi. Hücrenin potasyum sızıntısıyla eski dengesine dönmesi."
         };
 
@@ -3076,7 +3076,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }
     // 🌊 7. EVRE: KUZEY (45 - 56) ── NIGREDO
-    else if (sunRoom64 >= 45 && sunRoom64 < 56) {
+    else if (sunRoom64 >= 45 && sunRoom64 < 53) {
         yon = "NORTH (Kuzey)";
         pendulumStatus = "🔵 SYS OMEGA CLEANSE: Diastolic Purification";
         alchemyPhase = { 
@@ -3090,7 +3090,7 @@ if (compassFrame) {
             //info: "🔋 NIGREDO: System Resting",
             detay: "Kaos ve dinlenim fazı. Sistem sıfır noktasında.",
             // KULLANICI BURADA OKSİJENLE YENİDEN DOLUM ORANINI (0.0 - 1.0) GÖRÜR:
-            info: "💜 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 11).toFixed(1),
+            info: "💜 NIGREDO: phosphorylation | flux ratio " + ((sunRoom64 - 45) / 8).toFixed(1),
             akimYonuSembolu: "[ Mg²⁺ IN ⚡ 3 Na⁺ OUT 🔋 2 K⁺ IN ] ── 🧬 [ N-Aktivasyon ] 🔋 O₂ INFLUX",
             
         };
@@ -3099,7 +3099,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }
     // 🔋 8. GEÇİŞ: KUZEYDOĞU (56 - 61) ── PRIME / CHARGE
-    else if (sunRoom64 >= 56 && sunRoom64 <= 61) { // 61 yerine tam çembere çektim
+    else if (sunRoom64 >= 53 && sunRoom64 <= 61) { // 61 yerine tam çembere çektim
         yon = "NORTHEAST (Kuzeydoğu)";
         pendulumStatus = "🔵 T Wave | Ventricular Repolarization Complete";
         alchemyPhase = {
@@ -3916,7 +3916,7 @@ function hesaplaNitrosyenIyonDengesi(alchemyPhaseName) {
         case "CAUDA": // Deşarj Başlangıcı (Fosfor kopuyor)
             fosforSeviyesi = 40;  voltajmV = 5;
             break;
-        case "CITRINITAS": // Fosfor Bitti, Nitrojen Egemen!
+        case "ALBEDO": // Fosfor Bitti, Nitrojen Egemen!
             fosforSeviyesi = 10; voltajmV = 0;// Neredeyse sadece Azotlu omurga kaldı
             break;
         case "OMEGA DOWN":
@@ -4167,13 +4167,13 @@ perfectGeocentricFlow.forEach(state => {
     let akimYonuSembolu = ""
     const nitInfo = hesaplaNitrosyenIyonDengesi(alchemyPhase.name);
 
-    if (alchemyPhase.name === "CITRINITAS")akimYonuSembolu = ` [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ `;
+    if (alchemyPhase.name === "ALBEDO")akimYonuSembolu = ` [ N-Dominance: %${(nitInfo.nitrogenDominance * 100).toFixed(0)} ] ⚡ `;
     if (alchemyPhase.name === "PRIME")akimYonuSembolu = `[ K+ 🤍 Na+ ] [ P-Dominance: %${(nitInfo.energyCharge * 100).toFixed(0)} ] ⚡ `;
 
-    if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = " [Na+ 🤍 K+ ] "
+    if (alchemyPhase.name === "CITRINITAS") akimYonuSembolu = " [Na+ 🤍 K+ ] "
 
 
-    if (alchemyPhase.name === "ALBEDO") akimYonuSembolu = "[ Na+ Influx ]";
+    if (alchemyPhase.name === "CITRINITAS") akimYonuSembolu = "[ Na+ Influx ]";
     //if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = " 🔒  Na⁺ Occluded 🔒 "
 
     if (alchemyPhase.name === "ALPHA RISE") akimYonuSembolu = "[ Ca²⁺ ⚡ Na+ ]";
@@ -4204,7 +4204,7 @@ perfectGeocentricFlow.forEach(state => {
     if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[  Ca²⁺ ⚡ K+ 🔋 Mg²] : O₂ INFLUX";//[ N-Aktivasyon ]
 
 
-     if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ Mg²⁺ ⚡  K⁺  ⚡ Ca²⁺ ] [ p-Aktivasyon ] 🔋";// O₂ INFLUX";// 3 Na⁺ OUT 🔋 2 K⁺ IN
+     if (alchemyPhase.name === "NIGREDO") akimYonuSembolu = "[ Mg²⁺ ⚡  K⁺  ⚡ Ca²⁺ ] [ p-Activation ] 🔋";// O₂ INFLUX";// 3 Na⁺ OUT 🔋 2 K⁺ IN
 
 
     //if (alchemyPhase.name === "RUBEDO") akimYonuSembolu = "[  Mg²⁺ ⚡ 3 Na⁺ IN 🔋 2 K⁺ OUT ] 🔥 OXIDATION ";// ── [ 🔥 OXIDATION: CO₂ SYNTHESIS ]
@@ -4243,8 +4243,8 @@ perfectGeocentricFlow.forEach(state => {
 
       if (alchemyPhase.name === "CAUDA") polarisation = "Ionic Balance";
 
-  if (alchemyPhase.name === "CITRINITAS" ) polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"+</span>"
-      if (alchemyPhase.name === "ALBEDO"  || alchemyPhase.name === "ALPHA RISE") polarisation = "<span style='color:orange;'>"+"🜭 Depolarization | Na"+"</span>"
+  if (alchemyPhase.name === "ALBEDO" ) polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"+</span>"
+      if (alchemyPhase.name === "CITRINITAS"  || alchemyPhase.name === "ALPHA RISE") polarisation = "<span style='color:orange;'>"+"🜭 Depolarization | Na"+"</span>"
       if (alchemyPhase.name === "OMEGA DOWN") polarisation = "<span style='color:#87CEFA;'>"+"🜿 Repolarization | K"+"</span>"
 
 
