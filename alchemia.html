@@ -377,7 +377,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
 .salvador-image {
     position: absolute;
     width: 99% !important;
-    max-width:  !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
     top: 39.9% !important;
     left: 50.0% !important;
@@ -435,7 +435,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
 .salvador-image {
     position: absolute;
     width: 99% !important;
-    max-width:  !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    max-width: 440px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     height: auto !important;
     top: 39.5% !important;
     left: 52.5% !important;
@@ -992,7 +992,7 @@ footer {
 </div>
 
 <!-- 📱 WICCA OS: NİHAİ UYGULAMA ALT ANA MENÜ PANELİ (BOTTOM OS DOCK) -->
-<div id="wicca-app-bottom-deck" class="app-settings-bar" style="position: fixed !important; bottom: 0; width: 100vw; max-width: ; height: auto !important; background: rgba(4, 4, 4, 0.95); border-top: 1px solid rgba(122, 0, 255, 0.2); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center; padding: 6px 0 10px 0; z-index: 9999999 !important; box-sizing: border-box; overflow: visible !important;">
+<div id="wicca-app-bottom-deck" class="app-settings-bar" style="position: fixed !important; bottom: 0; width: 100vw; max-width: 440px; height: auto !important; background: rgba(4, 4, 4, 0.95); border-top: 1px solid rgba(122, 0, 255, 0.2); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center; padding: 6px 0 10px 0; z-index: 9999999 !important; box-sizing: border-box; overflow: visible !important;">
     
     <!-- 🔮 LILITH (KARANLIK AY) & CSF ELEMENTER VORTEX İSTASYONU -->
     <div id="lilith-cosmic-dock" style="width: 94%; background: rgba(10, 10, 10, 0.6); border: 1px solid rgba(122,0,255,0.15); border-radius: 4px; padding: 4px 6px; margin-bottom: 8px; box-sizing: border-box; overflow: visible !important; height: auto !important;">
@@ -3082,7 +3082,7 @@ if (compassFrame) {
             name: "OMEGA DOWN", 
             color: "#ca5ca0", 
             bgGlow: "rgba(122, 0, 255, 0.25)",
-             info: "💙 OMEGA DOWN: K+ Occluded | flux ratio " + kalanFlux,
+             info: "💙OMEGA DOWN: K+ Occluded | flux ratio " + kalanFlux,
             
                // Bitki ve İnsan arasındaki bu harika zıtlığı DETAY kısmında öğrencilere açıklayalım:
         detay: "Potasyum kilidi evresi. 🫀 İnsan kalbi DEŞARJ (Gevşeme) modundadır. 🌱 Bitki ise enerjiyi toprağa bağlayarak ŞARJ moduna geçer."
@@ -6453,7 +6453,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
 
     // 💡 1. Gerçek ekran/cihaz genişliğini baz alıyoruz, tarayıcı penceresinin küçüklüğünü değil aga!
-    const isMobileDevice = window.matchMedia("(max-width: 400px)").matches || window.screen.width <= 768;
+    const isMobileDevice = window.matchMedia("(max-width: 440px)").matches || window.screen.width <= 768;
     
     console.log("Pencere Genişliği:", window.innerWidth, " | Cihaz Mobil mi?:", isMobileDevice);
 
