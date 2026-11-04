@@ -6453,7 +6453,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
 
     // 💡 1. Gerçek ekran/cihaz genişliğini baz alıyoruz, tarayıcı penceresinin küçüklüğünü değil aga!
-    const isMobileDevice = window.matchMedia("(max-width: 440px)").matches || window.screen.width <= 768;
+    const isMobileDevice = window.matchMedia("(max-width: 400px)").matches || window.screen.width <= 768;
     
     console.log("Pencere Genişliği:", window.innerWidth, " | Cihaz Mobil mi?:", isMobileDevice);
 
