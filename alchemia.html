@@ -1087,8 +1087,8 @@ footer {
     </div>
 
             <!-- 🌌 KOZMİK MERKEZ: 3D Metatron Küresi (Her iki resmin de en tepesinde parlayacak) -->
-        <div class="metatron-three-iframe-holder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
-            <iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>
+        <div id="metatron-container" class="metatron-three-iframe-holder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
+            <!--<iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>-->
         </div>
 </main>
 
@@ -2859,8 +2859,10 @@ if (monaElement && salvadorElement) {
         const art = document.querySelector('.art-core-container');
         const metatronIframe = document.querySelector('.metatron-iframe');
         
-        metatronIframe.style.setProperty('opacity', targetMonaOpacity/1.5+targetSalvadorOpacity/2, 'important');
 
+        if (metatronIframe) {
+        metatronIframe.style.setProperty('opacity', targetMonaOpacity/1.5+targetSalvadorOpacity/2, 'important');
+        }
         art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
         monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
@@ -6449,37 +6451,58 @@ document.addEventListener("DOMContentLoaded", () => {
 // 🎛️ GLOBAL COCKPIT PANEL: AÇILIR-KAPANIR TEPE MENÜ MOTORU ( TIME ENGINE )
 // =========================================================================
 document.addEventListener("DOMContentLoaded", () => {
-  const timeMachinePanel = document.getElementById('time-machine-panel');
+
+    // 💡 1. Gerçek ekran/cihaz genişliğini baz alıyoruz, tarayıcı penceresinin küçüklüğünü değil aga!
+    const isMobileDevice = window.matchMedia("(max-width: 512px)").matches || window.screen.width <= 768;
+    
+    console.log("Pencere Genişliği:", window.innerWidth, " | Cihaz Mobil mi?:", isMobileDevice);
+
+    if (!isMobileDevice) {
+        const container = document.getElementById('metatron-container');
+        if (container) {
+            container.innerHTML = `
+                <iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>
+            `;
+            console.log("Metatron Başarıyla Enjekte Edildi 🌌");
+        } else {
+            console.error("HATA: 'metatron-container' id'li div bulunamadı!");
+        }
+    }
+
+    const timeMachinePanel = document.getElementById('time-machine-panel');
     
     if (timeMachinePanel) {
-        // 1. Ekranın tepesinde duracak olan global tetikleyici butonu enjekte ediyoruz aga
-        if (!document.getElementById('wicca-global-toggle')) {
+        // 💡 2. Eğer buton HTML içinde yorum satırındaysa veya yoksa dinamik olarak oluşturuyoruz
+        let globalToggleBtn = document.getElementById('wicca-global-toggle');
+        
+        if (!globalToggleBtn) {
             /*
             document.body.insertAdjacentHTML('beforeend', `
-                <button id="wicca-global-toggle" class="wicca-global-trigger">
+                <button id="wicca-global-toggle" class="wicca-global-trigger" style="position: fixed; z-index: 9999;">
                     🕒 <span id="wicca-global-text">TIME ENGINE</span>
                 </button>
-            `);*/
+            `);
+            globalToggleBtn = document.getElementById('wicca-global-toggle');
+            */
         }
 
-        const globalToggleBtn = document.getElementById('wicca-global-toggle');
+        // 💡 3. Buton artık kesinlikle var olduğu için güvenle event dinleyicisi ekleyebiliriz
+        if (globalToggleBtn) {
+            globalToggleBtn.addEventListener('click', (e) => {
+                e.stopPropagation(); // Matrisin diğer tıklama olaylarıyla çakışmasın aga
+                timeMachinePanel.classList.toggle('wicca-drawer-active');
+                
+                globalToggleBtn.style.borderColor = "#7a00ff";
+                globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
+            });
 
-        // 2. Butona tıklandığında paneli stor perde gibi aşağı indir / yukarı çek
-        globalToggleBtn.addEventListener('click', (e) => {
-            e.stopPropagation(); // Matrisin diğer tıklama olaylarıyla çakışmasın aga
-            timeMachinePanel.classList.toggle('wicca-drawer-active');
-            
-            // PANELİ KAPAT yazısını sildik aga, her koşulda mor ve asil kalıyor
-            globalToggleBtn.style.borderColor = "#7a00ff";
-            globalToggleBtn.style.boxShadow = "0 0 10px rgba(122, 0, 255, 0.4)";
-        });
-
-        // 3. UX Konforu: Panel açıkken ekranda boş bir yere dokunulursa otomatik yukarı katlansın
-        document.addEventListener('click', (e) => {
-            if (!timeMachinePanel.contains(e.target) && e.target !== globalToggleBtn) {
-                timeMachinePanel.classList.remove('wicca-drawer-active');
-            }
-        });
+            // 4. UX Konforu: Panel açıkken dışarı dokunulursa kapat
+            document.addEventListener('click', (e) => {
+                if (!timeMachinePanel.contains(e.target) && e.target !== globalToggleBtn) {
+                    timeMachinePanel.classList.remove('wicca-drawer-active');
+                }
+            });
+        }
     }
 });
 
