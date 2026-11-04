@@ -1002,7 +1002,7 @@ footer {
         </div>
     </div>
 
-    <!-- 🎮 SABİT OS GEZİNTİ BUTONLARI ŞERİDİ (EN ALT TABAN) -->
+    <!-- 🎮 SABİT OS GEZİNTİ BUTONLARI ŞERİDİ (EN ALT TABAN)
     <div class="dock-buttons-row" style="display: flex; justify-content: space-around; align-items: center; width: 100%; gap: 6px; padding: 0 6px; box-sizing: border-box;">
         <button class="deck-btn" onclick="toggleWiccaFullscreen()">
             <span>📺</span> FULLSCREEN
@@ -1017,7 +1017,7 @@ footer {
             <span>☽⛤☾</span> DIAGS
         </button>
     </div>
-
+ -->
     <!-- 🛡️ GİZLİ HAYALET SİGORTA: 1901. satırdaki eski kodların patlayıp tüm JS motorunu kilitlemesini engelleyen görünmez kalkan aga! -->
     <div id="cosmic-status" style="display: none !important;"></div>
     <div id="lilith-title" style="display: none !important;"></div>
@@ -2324,7 +2324,7 @@ setInterval(() => {
                 isNewMoonPhase = true; // Yeni Ay evresindeyiz ve Güneş ile üst üste biniyor
             } 
             else if (typeof moonLive.seleneProgress !== 'undefined') {
-                let phaseOffsetGates = moonLive.seleneProgress * 9;
+                let phaseOffsetGates = moonLive.seleneProgress * 8;
                 let seleneIndexRaw = Math.round(sirkadiyenButonIndex - phaseOffsetGates) % 8;
                 seleneIndex = (seleneIndexRaw + 8) % 9;
             }
@@ -6446,7 +6446,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 // =========================================================================
-// 🎛️ GLOBAL COCKPIT PANEL: AÇILIR-KAPANIR TEPE MENÜ MOTORU
+// 🎛️ GLOBAL COCKPIT PANEL: AÇILIR-KAPANIR TEPE MENÜ MOTORU ( TIME ENGINE )
 // =========================================================================
 document.addEventListener("DOMContentLoaded", () => {
   const timeMachinePanel = document.getElementById('time-machine-panel');
@@ -6454,11 +6454,12 @@ document.addEventListener("DOMContentLoaded", () => {
     if (timeMachinePanel) {
         // 1. Ekranın tepesinde duracak olan global tetikleyici butonu enjekte ediyoruz aga
         if (!document.getElementById('wicca-global-toggle')) {
+            /*
             document.body.insertAdjacentHTML('beforeend', `
                 <button id="wicca-global-toggle" class="wicca-global-trigger">
                     🕒 <span id="wicca-global-text">TIME ENGINE</span>
                 </button>
-            `);
+            `);*/
         }
 
         const globalToggleBtn = document.getElementById('wicca-global-toggle');
