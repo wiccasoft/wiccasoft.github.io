@@ -1088,7 +1088,7 @@ footer {
 
             <!-- 🌌 KOZMİK MERKEZ: 3D Metatron Küresi (Her iki resmin de en tepesinde parlayacak) -->
         <div id="metatron-container" class="metatron-three-iframe-holder" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
-            <!--<iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>-->
+            <<iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>
         </div>
 </main>
 
@@ -6457,6 +6457,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     console.log("Pencere Genişliği:", window.innerWidth, " | Cihaz Mobil mi?:", isMobileDevice);
 
+    /*
     if (!isMobileDevice) {
         const container = document.getElementById('metatron-container');
         if (container) {
@@ -6466,12 +6467,10 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("Metatron Başarıyla Enjekte Edildi 🌌");
         } else {
             console.error("HATA: 'metatron-container' id'li div bulunamadı!");
-             container.innerHTML = `
-                <iframe src="metatron.html" title="Wiccasoft Metatron Engine" class="metatron-iframe" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: none;"></iframe>
-            `;
+            
         }
     }
-
+*/
     const timeMachinePanel = document.getElementById('time-machine-panel');
     
     if (timeMachinePanel) {
