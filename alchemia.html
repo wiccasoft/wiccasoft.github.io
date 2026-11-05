@@ -357,19 +357,18 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
 /* 🖼 GÜNDÜZ MADONNASI (MONA LISA) HASSAS BOYUTLANDIRMA VE YÜZ KİLİDİ */
 .madonna-image {
     position: absolute;
-    width: 99% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
-    max-width: 470px !important; /* Taşmayı önleyen üst katı sınır */
-    height: auto !important;
-    top: 49.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
-    left: 52.5% !important;
-    transform: translate(-50%, -50%) scale(1.0) !important;
+    width: 99% !important;
+    max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
+    
+    top: 42.7% !important;
+    left: 50.5% !important;
+    transform: translate(-50%, -50%) scale(0.8)!important;
     object-fit: contain;
     z-index: 1;
     opacity: 0;
-    filter: brightness(1.0) !important;
-   /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
-    mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    filter: brightness(0.9) !important;
+    mask-image: radial-gradient(ellipse 75% 75% at 50% 52%, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0) 75%) !important;
+    -webkit-mask-image: radial-gradient(ellipse 75% 75% at 50% 52%, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0) 75%) !important;
 }
 
 
