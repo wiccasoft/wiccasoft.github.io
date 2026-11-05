@@ -357,19 +357,23 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
 /* 🖼 GÜNDÜZ MADONNASI (MONA LISA) HASSAS BOYUTLANDIRMA VE YÜZ KİLİDİ */
 .madonna-image {
     position: absolute;
-    width: 99% !important; /* Mona'nın kafasını Salvator'a eşitlemek için büyüttük */
-    max-width: 470px !important; /* Taşmayı önleyen üst katı sınır */
+    width: 99% !important;
+    max-width: 470px !important;
     height: auto !important;
-    top: 49.5% !important; /* Göz bebeklerini tam yatay düzlemde çakıştırma kilidi */
+    top: 49.5% !important;
     left: 52.5% !important;
     transform: translate(-50%, -50%) scale(1.0) !important;
+    
+    /* ☀️ PARLAKLIK VİTESİ: %140 parlaklık ile dış mekan gündüz ışığı hissiyatı */
+    filter: brightness(1.4) contrast(1.1) !important; 
     object-fit: contain;
     z-index: 1;
-    opacity: 0;
+    opacity: 0;   
    
-   /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
-    mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 40% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    /* 🌟 SAĞ VE SOL KENARLARI DARALTAN, MERKEZİ KİLİTLİ SİNEMATİK MASK */
+    /* Yatay elipsi %50'ye daralttık, merkez odağını (at 50% 55%) iki tarafta da eşitledik aga! */
+    mask-image: radial-gradient(ellipse 50% 70% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
+    -webkit-mask-image: radial-gradient(ellipse 50% 70% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 65%, rgba(0, 0, 0, 0) 85%) !important;
 }
 
 
@@ -2749,27 +2753,27 @@ if (monaElement && salvadorElement) {
     let monaZIndex = "1";
     let salvadorZIndex = "1";
 
-    // 🎯 1. VİTES [0 - 23. ODALAR]: Gündoğumu, Kuşluk ve MIDDAY (Mutlak Gündüz)
-    if (sunRoom64 >= 0 && sunRoom64 <= 23) {
-        targetMonaOpacity = 0.9;               
-        targetSalvadorOpacity = 0.0; 
-        pendulumStatus = "YIN CHARGE";
-        dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
-      
+   // 🎯 1. VİTES [0 - 23. ODALAR]: Gündoğumu, Kuşluk ve MIDDAY (Mutlak Gündüz)
+if (sunRoom64 >= 0 && sunRoom64 <= 23) {
+    targetMonaOpacity = 1.1;               
+    targetSalvadorOpacity = 0.0; 
+    pendulumStatus = "YIN CHARGE";
+    dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
 
-        const art = document.querySelector('.art-core-container');
+    const art = document.querySelector('.art-core-container');
 
-        art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
-        monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
-        salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+    art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
+    monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+    salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
-        //salvadorElement.style.setProperty('left','50%', 'important');
+    // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
+    monaElement.style.setProperty('filter', 'brightness(1.4) contrast(1.1)', 'important');
+    // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
+    salvadorElement.style.setProperty('filter', 'brightness(0.5)', 'important');
 
-        ////metatronElement.style.setProperty('opacity', 1, 'important');
-        // ☀️ Gündüz Mona mutlak olarak hem opaklık hem katman olarak en üsttedir aga!
-        monaZIndex = "2";
-        salvadorZIndex = "1";
-    }
+    monaZIndex = "2";
+    salvadorZIndex = "1";
+}s
     // 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
     else if (sunRoom64 >= 24 && sunRoom64 <= 37) {
         let progress = (sunRoom64 - 24) / (37 - 24);
