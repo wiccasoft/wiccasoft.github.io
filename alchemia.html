@@ -366,10 +366,10 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     object-fit: contain;
     z-index: 1;
     opacity: 0;
-    filter: brightness(1.0) !important;
+   
    /* 🌟 SAĞ VE SOL KENARLARI SIFIRA ERİTEN SİNEMATİK ELİPS MASKESİ */
     mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 40% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
 }
 
 
@@ -538,9 +538,9 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     object-fit: contain;
     z-index: 1;
     opacity: 0;
-    filter: brightness(0.9) !important;
+    filter: brightness(0.8) !important;
 
-    mask-image: radial-gradient(ellipse 65% 55% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    mask-image: radial-gradient(ellipse 65% 65% at 50% 55%, rgba(0, 0, 0, 0.9) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
     -webkit-mask-image: radial-gradient(ellipse 50% 65% at 45% 55%, rgba(0, 0, 0, 0.9) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
 }
 
@@ -2751,7 +2751,7 @@ if (monaElement && salvadorElement) {
 
     // 🎯 1. VİTES [0 - 23. ODALAR]: Gündoğumu, Kuşluk ve MIDDAY (Mutlak Gündüz)
     if (sunRoom64 >= 0 && sunRoom64 <= 23) {
-        targetMonaOpacity = 1.0;               
+        targetMonaOpacity = 0.9;               
         targetSalvadorOpacity = 0.0; 
         pendulumStatus = "YIN CHARGE";
         dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
