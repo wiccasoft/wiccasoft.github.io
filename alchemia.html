@@ -2775,7 +2775,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
     salvadorZIndex = "1";
 }// 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
     else if (sunRoom64 >= 24 && sunRoom64 <= 37) {
-        let progress = (sunRoom64 - 24) / (37 - 24);
+        let progress = (sunRoom64 - 24) / (44 - 24);
         
         targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
@@ -2790,6 +2790,8 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
         monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+
+        monaElement.style.setProperty('filter', 'brightness(1.4) contrast(1.1)', 'important');
 
         let dynamicLeft = 52 - (progress * 1); 
         //34 civil- 38 astronomical twiligt
