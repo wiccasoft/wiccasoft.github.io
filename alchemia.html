@@ -2755,7 +2755,7 @@ if (monaElement && salvadorElement) {
 
    // 🎯 1. VİTES [0 - 23. ODALAR]: Gündoğumu, Kuşluk ve MIDDAY (Mutlak Gündüz)
 if (sunRoom64 >= 0 && sunRoom64 <= 23) {
-    targetMonaOpacity = 1.1;               
+    targetMonaOpacity = 1;               
     targetSalvadorOpacity = 0.0; 
     pendulumStatus = "YIN CHARGE";
     dayStg = "🟢 Sympathetic Wake Up: Depolarizasyon (P Dalgası)";
@@ -2767,7 +2767,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
     salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
 
-    let bprogress1 = (sunRoom64) / (16);
+    let bprogress1 = (sunRoom64) / (24);
     // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
     monaElement.style.setProperty('filter', 'brightness('+(1+bprogress1)+') contrast(1.1)', 'important');
     // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
@@ -2777,9 +2777,10 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
     salvadorZIndex = "1";
 }// 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
     else if (sunRoom64 >= 24 && sunRoom64 <= 37) {
+
         let progress = (sunRoom64 - 24) / (44 - 24);
         
-        targetMonaOpacity = 2 - progress;      
+        targetMonaOpacity = 1.7 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
