@@ -2794,8 +2794,10 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
+
             
-        let bprogress1 = 1.9-((sunRoom64 - 24)/12) ;
+        let bprogress1 = 1.9-((sunRoom64 - 24)/(12-(sunRoom64 - 24)/2));
+
 
         let bprogress2 =   ((sunRoom64 - 24)/12) ;
         
