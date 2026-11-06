@@ -2780,7 +2780,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
 
         let progress = (sunRoom64 - 24) / (44 - 24);
         
-        targetMonaOpacity = 1.7 - progress;      
+        targetMonaOpacity = 2 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
@@ -2795,7 +2795,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
             
-        let bprogress1 = 1-((sunRoom64 - 24)/8) ;
+        let bprogress1 = 1.9-((sunRoom64 - 24)/8) ;
 
         let bprogress2 =   ((sunRoom64 - 24)/12) ;
         
