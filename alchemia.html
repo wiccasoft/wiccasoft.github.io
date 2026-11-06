@@ -2789,32 +2789,30 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         const metatronIframe = document.querySelector('.metatron-iframe');
         
         //metatronIframe.style.setProperty('opacity', targetMonaOpacity+targetSalvadorOpacity/2, 'important');
+            
+        let bprogress1 = 1.9-((sunRoom64 - 24)/(12-(sunRoom64 - 24)/2));
 
+        let bprogress2 =   ((sunRoom64 - 24)/9) ;
+        
+        // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
+        monaElement.style.setProperty('filter', 'brightness('+bprogress1+') contrast(1)', 'important');
+        // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
+        salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')' , 'important');
+        salvadorElement.style.setProperty('opacity', bprogress2, 'important'); 
+
+        //let dynamicLeft = 52 - (progress * 1); 
+        //34 civil- 38 astronomical twiligt
+        //salvadorElement.style.setProperty('left',dynamicLeft + '%', 'important');
         art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
         monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
 
-            
-        let bprogress1 = 1.9-((sunRoom64 - 24)/(12-(sunRoom64 - 24)/2));
-
-
-        let bprogress2 =   ((sunRoom64 - 24)/12) ;
-        
-        // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
-        monaElement.style.setProperty('filter', 'brightness('+bprogress1+') contrast(1.1)', 'important');
-        // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
-        salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')', 'important');
-
-        //let dynamicLeft = 52 - (progress * 1); 
-        //34 civil- 38 astronomical twiligt
-        //salvadorElement.style.setProperty('left',dynamicLeft + '%', 'important');
-
      
         //art.style.setProperty('left', dynamicLeft + '%', 'important');
         
-        monaZIndex = "2";
-        salvadorZIndex = "1";
+        monaZIndex = "1";
+        salvadorZIndex = "2";
     }
     // 🎯 3. VİTES [40 - 50. ODALAR]: %100 Kararma Vakti! (Astronomical Twilight & MIDNIGHT Sırrı)
     else if (sunRoom64 >= 38 && sunRoom64 <= 50) {
