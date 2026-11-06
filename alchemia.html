@@ -2767,9 +2767,9 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
     salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
 
 
-    let bprogress = (sunRoom64 - 24) / (24);
+    let bprogress1 = (sunRoom64) / (16);
     // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
-    monaElement.style.setProperty('filter', 'brightness('+bprogress+') contrast(1.1)', 'important');
+    monaElement.style.setProperty('filter', 'brightness('+(1+bprogress1)+') contrast(1.1)', 'important');
     // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
     //salvadorElement.style.setProperty('filter', 'brightness(0.5)', 'important');
 
@@ -2779,7 +2779,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
     else if (sunRoom64 >= 24 && sunRoom64 <= 37) {
         let progress = (sunRoom64 - 24) / (44 - 24);
         
-        targetMonaOpacity = 1 - progress;      
+        targetMonaOpacity = 2 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
@@ -2796,7 +2796,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
             
         let bprogress1 = 1-((sunRoom64 - 24)/8) ;
 
-        let bprogress2 =   ((sunRoom64 - 24)/8) ;
+        let bprogress2 =   ((sunRoom64 - 24)/12) ;
         
         // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
         monaElement.style.setProperty('filter', 'brightness('+bprogress1+') contrast(1.1)', 'important');
@@ -2829,6 +2829,11 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         // Mona ise eksi sonsuza/dibe itiliyor, transparan hali bile Salvador'un üstünü kapatamaz!
         monaZIndex = "1";
         salvadorZIndex = "2";
+
+        let bprogress2 =  1.1 - ((sunRoom64 - 38)/12) ;
+        
+    
+        salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')', 'important');
     }
 
     else if (sunRoom64 >= 51 && sunRoom64 <= 60) {
