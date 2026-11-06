@@ -562,8 +562,8 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     opacity: 0;
     filter: brightness(0.9) !important;
 
-    mask-image: radial-gradient(ellipse 65% 65% at 50% 55%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
-    -webkit-mask-image: radial-gradient(ellipse 65% 65% at 50% 45%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    mask-image: radial-gradient(ellipse 65% 65% at 50% 55%, rgba(0, 0, 0, 0.9) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
+    -webkit-mask-image: radial-gradient(ellipse 60% 60% at 50% 55%, rgba(0, 0, 0, 0.9) 25%, rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0) 90%) !important;
 }
 
 
@@ -2830,7 +2830,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         dayStg = "🔵 Erken Gevşeme & T Dalgası (Diyastol Başlangıcı)";
         
         const metatronIframe = document.querySelector('.metatron-iframe');
-        //metatronIframe.style.setProperty('opacity', targetMonaOpacity+0.5, 'important');
+  
         // 🌌 GECE KİLİDİ: Salvador %100 görünür ve fiziksel olarak en üstte (z-index: 99). 
         // Mona ise eksi sonsuza/dibe itiliyor, transparan hali bile Salvador'un üstünü kapatamaz!
         monaZIndex = "1";
@@ -2838,7 +2838,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
 
         let bprogress2 =  1.1 - ((sunRoom64 - 38)/12) ;
         
-    
+        metatronIframe.style.setProperty('opacity', bprogress2/2, 'important');
         salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')', 'important');
     }
 
