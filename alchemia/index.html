@@ -554,7 +554,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     width: 99% !important;
     max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     
-    top: 33.0% !important;
+    top: 31.5% !important;
     left: 46.5% !important;
     transform: translate(-50%, -50%) scale(0.6)!important;
     object-fit: contain;
@@ -2787,7 +2787,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
 
         let progress = (sunRoom64 - 24) / (44 - 24);
         
-        targetMonaOpacity = 2 - progress;      
+        targetMonaOpacity = 1 - progress;      
         targetSalvadorOpacity = progress;      
         pendulumStatus = "🌞 Crucifixion (YANG DISCHARGE)";
         dayStg = "🟡 Ventriküler Ejeksiyon & Sol Aks (QRS Kompleksi)";
@@ -2800,7 +2800,10 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
 
         //art.style.setProperty('transition', 'left 1s ease-in-out', 'important');
         // 💡 GÜNDÜZ PARLAKLIĞINI JAVASCRIPT İLE DE GARANTİYE ALIYORUZ AGA
+        
         monaElement.style.setProperty('filter', 'brightness('+bprogress1+') contrast(1)', 'important');
+        monaElement.style.setProperty('opacity', targetMonaOpacity.toString(), 'important');  
+        
         // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
         salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')' , 'important');
         salvadorElement.style.setProperty('opacity', bprogress2, 'important'); 
@@ -2820,8 +2823,8 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
      
         //art.style.setProperty('left', dynamicLeft + '%', 'important');
         
-        monaZIndex = "1";
-        salvadorZIndex = "2";
+        monaZIndex = "2";
+        salvadorZIndex = "1";
     }
     // 🎯 3. VİTES [40 - 50. ODALAR]: %100 Kararma Vakti! (Astronomical Twilight & MIDNIGHT Sırrı)
     else if (sunRoom64 >= 38 && sunRoom64 <= 50) {
