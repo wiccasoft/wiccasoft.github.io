@@ -1,0 +1,321 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+
+
+body {
+
+      color: #fff;
+      margin: 5px;
+      padding: 5px;
+      height: 100%;
+      overflow: auto;
+      background-color: transparent;    
+      background-size: 25px 25px;
+      background-image: linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent),linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent);
+      }
+
+
+::-webkit-scrollbar {width: 11px; height: 3px; background: #222222;}
+::-webkit-scrollbar-thumb {background-color:#555555 ; border: 1px solid black;}
+
+
+img {
+
+    width: 100%;
+    padding: 0px;
+
+}
+
+
+.column {
+  float: left;
+  padding: 6px;
+  margin-top: -6px;
+  margin-bottom: -6px;
+}
+
+.column:hover .flag {
+  opacity: 0.3;
+}
+
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 300px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+<div id="flags" class="row" draggable="false">
+
+</div>
+
+</body>
+
+<script type="text/javascript">
+
+
+var locs = 
+
+[
+    {"lat":"36.7","lng":"3.0","loc":"algiers","gmt":"1","code":"dz"},
+    {"lat":"34.5","lng":"69.2","loc":"kabul","gmt":"4","code":"af"},
+    {"lat":"-33.8","lng":"151.2","loc":"sydney","gmt":"11","code":"au"},
+    {"lat":"-9.4","lng":"147.7","loc":"port moresby","gmt":"10","code":"pg"},
+    {"lat":"-41.0","lng":"174.7","loc":"wellington","gmt":"13","code":"nz"},
+    {"lat":"-18.0","lng":"178.7","loc":"suva","gmt":"12","code":"fj"},
+    {"lat":"51","lng":"0.1","loc":"london","gmt":"0","code":"gb"}, 
+    {"lat":"52.5","lng":"13.4","loc":"berlin","gmt":"1","code":"de"}, 
+    {"lat":"49","lng":"2.3","loc":"paris","gmt":"1","code":"fr"}, 
+    {"lat":"38","lng":"23.7","loc":"athens","gmt":"2","code":"gr"}, 
+    {"lat":"41.9","lng":"12.4","loc":"rome","gmt":"1","code":"it"}, 
+    {"lat":"40.4","lng":"3.7","loc":"madrid","gmt":"1","code":"es"}, 
+
+
+    {"lat":"59.6","lng":"12.5","loc":"copenhagen","gmt":"2","code":"dk"}, 
+
+    {"lat":"51","lng":"4.8","loc":"amsterdam","gmt":"1","code":"nl"}, 
+
+
+
+    {"lat":"50.8","lng":"4.3","loc":"brüssel","gmt":"1","code":"be"}, 
+
+    {"lat":"52.2","lng":"21.0","loc":"warsaw","gmt":"1","code":"pl"}, 
+
+    {"lat":"53.3","lng":"27.5","loc":"minsk","gmt":"3","code":"by"}, 
+    {"lat":"41.1","lng":"19.5","loc":"tirana","gmt":"1","code":"al"}, 
+   
+
+    {"lat":"64.1","lng":"-21.9","loc":"Reykjavík","gmt":"0","code":"is"}, 
+    {"lat":"59.9","lng":"10.9","loc":"stockholm","gmt":"1","code":"se"}, 
+    {"lat":"59.9","lng":"10.9","loc":"oslo","gmt":"1","code":"no"}, 
+
+    {"lat":"60.1","lng":"24.9","loc":"helsinki","gmt":"2","code":"fi"}, 
+    {"lat":"59.0","lng":"24.9","loc":"tallin","gmt":"2","code":"ee"}, 
+    
+    {"lat":"48","lng":"19.0","loc":"budapest","gmt":"1","code":"hu"},
+    {"lat":"44.4","lng":"25.0","loc":"bucharest","gmt":"1","code":"ro"}, 
+    {"lat":"42.6","lng":"23.3","loc":"sofya","gmt":"1","code":"bg"}, 
+    
+    {"lat":"50","lng":"30.5","loc":"kyiv","gmt":"2","code":"ua"}, 
+    
+    {"lat":"55.7","lng":"37.9","loc":"moscow","gmt":"3","code":"ru"}, 
+    {"lat":"65","lng":"168.3","loc":"Lamutskoye","gmt":"12","code":"ru"},
+    {"lat":"65","lng":"177.4","loc":"anadyr","gmt":"12","code":"ru"},
+    {"lat":"65","lng":"170.6","loc":"lavrentiya","gmt":"12","code":"ru"}, 
+    {"lat":"41.0","lng":"28.9","loc":"istanbul","gmt":"3","code":"tr"}, 
+    {"lat":"31.7","lng":"35.2","loc":"jerusalem","gmt":"2","code":"il"}, 
+    {"lat":"30.0","lng":"31.2","loc":"cairo","gmt":"2","code":"eg"}, 
+
+    {"lat":"32.8","lng":"13.2","loc":"tripoli","gmt":"2","code":"ly"}, 
+
+    {"lat":"34.0","lng":"-6.8","loc":"rabat","gmt":"1","code":"ma"}, 
+
+    {"lat":"33.8","lng":"35.5","loc":"beirut","gmt":"2","code":"lb"},
+    {"lat":"24.0","lng":"46.6","loc":"riyadh","gmt":"3","code":"sa"},
+
+    {"lat":"25.2","lng":"51.5","loc":"doha","gmt":"3","code":"qa"},
+
+
+    {"lat":"25.4","lng":"54.3","loc":"abu dhabi","gmt":"4","code":"ae"},
+
+  {"lat":"41.7","lng":"44.7","loc":"tbilisi","gmt":"4","code":"ge"},
+
+    {"lat":"35.7","lng":"51.4","loc":"tehran","gmt":"3","code":"ir"},
+
+    {"lat":"13.1","lng":"-59.4","loc":"bridge town","gmt":"-4","code":"bb"}, 
+
+    {"lat":"13.4","lng":"-89.1","loc":"San Salvador","gmt":"-6","code":"sv"}, 
+
+    {"lat":"8.9","lng":"-79.5","loc":"panama","gmt":"-5","code":"pa"}, 
+
+    {"lat":"14.5","lng":"120.9","loc":"manila","gmt":"8","code":"ph"},
+
+    {"lat":"35.6","lng":"139.6","loc":"tokyo","gmt":"9","code":"jp"}, 
+    {"lat":"37.6","lng":"127.0","loc":"seoul","gmt":"9","code":"kr"}, 
+
+
+    {"lat":"48","lng":"-71.2","loc":"quebec","gmt":"-5","code":"ca"},
+
+    //{"lat":"36.0","lng":"-119.4","loc":"california","gmt":"-8","code":"us"}, 
+    {"lat":"40.0","lng":"-74.9","loc":"new york","gmt":"-5","code":"us"},
+    {"lat":"19.4","lng":"-99.1","loc":"mexico city","gmt":"-5","code":"mx"},  
+
+    {"lat":"51.1","lng":"71.2","loc":"astana","gmt":"6","code":"kz"}, 
+    {"lat":"47.5","lng":"106.5","loc":"ulaanbaatar","gmt":"8","code":"mn"}, 
+    //{"lat":"30.5","lng":"114.2","loc":"wuhan","gmt":"8","code":"cn"}, 
+    {"lat":"39.5","lng":"116.2","loc":"beijing","gmt":"8","code":"cn"}, 
+    {"lat":"28.3","lng":"77.1","loc":"new delhi","gmt":"5","code":"in"}, 
+
+    {"lat":"33.7","lng":"73.0","loc":"islamabad","gmt":"5","code":"pk"}, 
+
+    {"lat":"25.1","lng":"121.3","loc":"taipei","gmt":"8","code":"tw"}, 
+
+    {"lat":"-6.2","lng":"106.8","loc":"jakarta","gmt":"7","code":"id"}, 
+ 
+    {"lat":"10.4","lng":"-66.8","loc":"caracas","gmt":"-4","code":"ve"},
+
+    {"lat":"-19.0","lng":"-65.2","loc":"sucre","gmt":"-4","code":"bo"}, 
+    {"lat":"4.6","lng":"-74.0","loc":"bogota","gmt":"-5","code":"co"}, 
+    {"lat":"-12.0","lng":"-77.0","loc":"lima","gmt":"-5","code":"pe"}, 
+    {"lat":"-33.4","lng":"-70.6","loc":"santiago","gmt":"-4","code":"cl"}, 
+    {"lat":"-22.9","lng":"-43.1","loc":"rio","gmt":"-3","code":"br"},
+    {"lat":"-34.6","lng":"-58.3","loc":"Buenos Aires","gmt":"-3","code":"ar"},
+
+
+    {"lat":"9.0","lng":"7.3","loc":"abuja","gmt":"1","code":"ng"},
+    {"lat":"-1.2","lng":"36.8","loc":"nairobi","gmt":"3","code":"ke"},
+    {"lat":"-8.8","lng":"13.2","loc":"luanda","gmt":"1","code":"ao"},
+    {"lat":"-24.6","lng":"25.9","loc":"gaborone","gmt":"2","code":"bw"},
+    {"lat":"-75.2","lng":"-0.0","loc":"antartica","gmt":"13","code":"aq"}
+    //{"lat":"-72.0","lng":"2.5","loc":"antartica","gmt":"0","code":"aq"}
+    //{"lat":"-78.0","lng":"106.0","loc":"antartica","gmt":"6","code":"aq"}
+
+
+    
+]
+
+//Entme - the world is cold to all of us (bootleg) [HWr]
+//https://stackoverflow.com/questions/14004117/create-div-and-append-div-dynamically/14004145
+//https://stackoverflow.com/questions/37633916/dynamic-image-variable-with-onclick-event
+
+    //var iDiv = document.createElement('div');
+    //iDiv.id = 'block';
+    //iDiv.className = 'block';
+    //document.getElementsByTagName('body')[0].appendChild(iDiv);
+
+
+function findloc(code){
+
+    for(i in locs){
+
+        if(code ==locs[i].code) return [locs[i].lat,locs[i].lng]
+    }
+}
+
+
+function findgmt(code){
+
+    for(i in locs){
+
+        if(code ==locs[i].code) return locs[i].gmt
+    }
+}
+
+
+//https://www.youtube.com/watch?v=1Q8fG0TtVAY
+
+for(i in locs){
+
+    //if(code ==locs[i].code) return [locs[i].lat,locs[i].lng]
+
+    row = document.getElementById("flags");
+    // Now create and append to iDiv
+    var innerDiv = document.createElement('div');
+    innerDiv.className = 'column';
+
+    var innerImg = document.createElement('img');
+    innerImg.className = 'flag';
+    innerImg.id = locs[i].code;
+    innerImg.i = i;
+    innerImg.src = "../../data/flags-48/"+locs[i].code.toUpperCase()+".png"
+    innerImg.onclick = function () { send([this.id,locs[this.i].gmt,locs[this.i].lat,locs[this.i].lng,locs[this.i].loc])}; 
+
+
+    innerDiv.appendChild(innerImg);
+    // The variable iDiv is still good... Just append to it.
+    row.appendChild(innerDiv);
+
+     }
+   //<div class="column"><img id="US" onclick="send([this.id,-8])"></div>
+    /*
+    document.getElementById("US").src = "../../data/flags-48/"+"US"+".png"
+    document.getElementById("CN").src = "../../data/flags-48/"+"CN"+".png"
+    document.getElementById("RU").src = "../../data/flags-48/"+"RU"+".png"
+    document.getElementById("JP").src = "../../data/flags-48/"+"JP"+".png"
+    document.getElementById("FR").src = "../../data/flags-48/"+"FR"+".png"
+    document.getElementById("GR").src = "../../data/flags-48/"+"GR"+".png"
+    document.getElementById("TR").src = "../../data/flags-48/"+"TR"+".png"
+    document.getElementById("SA").src = "../../data/flags-48/"+"SA"+".png"
+    document.getElementById("GB").src = "../../data/flags-48/"+"GB"+".png"
+    document.getElementById("AR").src = "../../data/flags-48/"+"AR"+".png"
+    document.getElementById("CL").src = "../../data/flags-48/"+"CL"+".png"
+    document.getElementById("BR").src = "../../data/flags-48/"+"BR"+".png"
+    document.getElementById("BO").src = "../../data/flags-48/"+"BO"+".png"
+    document.getElementById("BW").src = "../../data/flags-48/"+"BW"+".png"
+    document.getElementById("IN").src = "../../data/flags-48/"+"IN"+".png"
+    document.getElementById("AU").src = "../../data/flags-48/"+"AU"+".png"
+    document.getElementById("NZ").src = "../../data/flags-48/"+"NZ"+".png"
+    document.getElementById("BB").src = "../../data/flags-48/"+"BB"+".png"
+    document.getElementById("CU").src = "../../data/flags-48/"+"CU"+".png"
+    document.getElementById("PA").src = "../../data/flags-48/"+"PA"+".png"
+    document.getElementById("ZA").src = "../../data/flags-48/"+"ZA"+".png"
+    document.getElementById("FJ").src = "../../data/flags-48/"+"FJ"+".png"
+    document.getElementById("FI").src = "../../data/flags-48/"+"FI"+".png"
+    document.getElementById("PG").src = "../../data/flags-48/"+"PG"+".png"
+    document.getElementById("PH").src = "../../data/flags-48/"+"PH"+".png"
+    document.getElementById("MY").src = "../../data/flags-48/"+"MY"+".png"
+*/
+
+    function getQueryVariable(variable)
+{     
+       //decodeURIComponent()
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+}
+
+var v = getQueryVariable("v");
+var loc = getQueryVariable("loc");
+var gmt = getQueryVariable("gmt");
+
+
+window.send = function(message) {
+                    
+                    //message = message.split(',');
+
+                    //alert(message[1])
+
+                    code = message[0]
+                    gmt = Number(message[1])
+                    lat = message[2]
+                    lng = message[3]
+                    loc = message[4]
+
+                    locinf = ['combo', code, gmt, lat, lng, loc]
+         
+                    if (parent) {
+                        //swal("message:"+parent.name);
+                        //var message = document.querySelector('#textOutput').value;
+                        parent.postMessage(locinf, '*');
+                        
+                            }
+                }
+                
+
+</script>
+
+</html>

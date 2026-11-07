@@ -1,0 +1,2605 @@
+    
+<html lang="en">
+<head>
+    
+<meta charset="UTF-8">
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<!--
+    4hero - Les Fleur
+https://owlcation.com/stem/Discovering-The-Night-Sky-The-Old-Way-By-Using-Star-Charts
+    https://www.pinterest.com/pin/604256474990981382/ winter hexagone
+    <script src="solardec.js"></script>-->
+<!--https://www.youtube.com/watch?v=mdFrn89x74k-->
+<script src="declinations.js"></script>
+
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/suncalc/1.8.0/suncalc.js" integrity="sha512-6ZyWfJ/Z0dBzRWvmSO0HyX0OamGPkBJp82d74XTxhhGkGrrkB9rYfsJ/hE2mZ3rZmqIb9ZLqyOZA2l/DUzsh7Q==" crossorigin="anonymous"></script>
+-->
+<script src="suncalc.js"></script>
+
+</head>
+
+<body  onload="loaded()" onresize="loaded()">
+
+<iframe id="combo" style="display:none;width: 100%;height: 100%;border: 0;z-index: 0"></iframe>
+<iframe id="kronos" style="width: 100%;height: 50px;border: 0;margin-left: 0px;margin-top: 10px"></iframe>
+
+<!--<textarea disabled  id="status" style="display: none;margin-left: 3px;"></textarea>-->
+<div id="wrapper" style="display: flex;">
+<div id="status"  contenteditable="false" style="display: none;position:relative;margin-left: 3px; float: left;width: 100%"></div>
+<div id="wet"  contenteditable="true" style="display: none;position:relative;margin-left: 3px; float: right;width: 10%"></div>
+</div>
+
+<div id="sky" class="clock" style="background-size: cover;position:relative;">
+
+</div>
+
+<div id="wrapper"> 
+
+    
+    <div id="suncover"> 
+
+        <img id="sun" class="sun" src="sun_PNG13451.png"></img> 
+    </div>
+
+    <div id="skyobj"> 
+
+        <img id="moon" class="moon" src="moon-phase-14.png" ></img>
+    </div>
+
+</div>
+
+
+
+<iframe id="news" onload="newsloaded(this)" align="bottom" style="width: 100%;height: auto;border: 0;position: absolute;"></iframe>
+
+<iframe id="planets" onload="resizeIframe(this)" style="position:absolute;display:none;width:100%;height:auto;border: 0;overflow: hidden;z-index: -9" ></iframe>
+
+
+
+<div id="horoscope" >
+
+<img id="zodiac" class="zodiac" src="zodiac/zodiac.svg" draggable="false"></img>
+
+
+</div>
+
+
+</body>
+
+ <style type="text/css">
+
+
+body {
+ overflow: hidden;
+ /*
+ https://stackoverflow.com/questions/14045850/z-index-and-opacity-issues
+ background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("purple-starry-sky.jpg");
+ background-color: #cccccc;*/
+
+ filter: grayscale(0%);
+ /*background: linear-gradient(purple, violet);*/
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+ background-size: cover; 
+ background: rgba(0, 0, 0, 0.5);
+ overflow: hidden;
+ margin-top: 0px;
+
+}
+
+
+
+@font-face {
+  font-family: digit7;
+  src: url(../FONTS/digital-7/digital-7.ttf);
+}
+
+@font-face {
+  font-family: perfect;
+  src: url(../FONTS/a-perfect-place.regular.ttf);
+}
+
+@font-face {
+  font-family: bloone;
+  src: url(../FONTS/Kingthings-Bloone.TTF);
+}
+
+
+
+input, textarea {
+    resize: none;
+    border: none;
+    color: black;
+    width: 100%;
+    height: 90px;
+    overflow: hidden;
+    line-height: 22px;
+    letter-spacing: 5px;
+    background-color : transparent;
+    color: #17D4FE;
+    font-size: 20px;
+    text-align: left; 
+    font-family: digit7;
+    user-select: none;
+}
+
+
+
+td{position:relative; z-index:0}
+#sky{z-index:3;overflow: hidden;}
+#newsid{z-index:5;overflow: hidden;}
+
+.sun{display: none;width: 60px;height: 60px;position:absolute; top:0; left:0; z-index:1}
+
+.moon{display: none;width: 50px;height: 50px;position:absolute; top:0; left:0; z-index:0;
+ z-index: inherited;
+ opacity: inherited;
+background: rgba(0,0,0,0);
+ z-index: 1000;
+
+ }
+
+#wrapper {
+    z-index:98;
+    opacity:1;
+}
+#suncover {
+    z-index:99;
+    opacity:0.9;
+}
+#skyobj {
+    z-index:99;
+    opacity:0.6;
+}
+
+
+#horoscope {
+  width: 100%;
+  display: flex;
+  border: 0px solid blue;
+z-index:-100;
+}
+
+
+.zodiac{
+width: 200%;
+display: none;
+position: absolute;
+z-index: -10;
+/*
+https://css-tricks.com/almanac/properties/o/object-fit/
+https://css-tricks.com/almanac/properties/o/object-position/*/
+
+}
+
+.world
+{
+
+/*
+-webkit-animation: spin1 60s infinite linear;
+-moz-animation: spin1 60s infinite linear;
+-o-animation: spin1 60s infinite linear;
+-ms-animation: spin1 60s infinite linear;
+animation: spin1 60s infinite linear;
+*/
+
+    z-index: -10;
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    width: 600px;
+    height: 600px;
+
+}
+ 
+@-webkit-keyframes spin1 {
+0% { -webkit-transform: rotate(0deg);}
+100% { -webkit-transform: rotate(360deg);} 
+}
+
+.glow {filter: drop-shadow(0px 0px 10px yellow);}
+
+.mask1 {
+  -webkit-mask-image: linear-gradient(to bottom, transparent 25%, black 75%);
+  mask-image: linear-gradient(to bottom, transparent 25%, black 75%);
+}
+
+.mask {
+  -webkit-mask-image: radial-gradient(circle at 50% 60%, black 50%, rgba(0, 0, 0, 0.6) 50%);
+  mask-image: radial-gradient(circle at 50% 60%, black 50%, rgba(0, 0, 0, 0.6) 50%);
+}
+
+@font-face {
+  font-family: digit7;
+  src: url(../digital-7/digital-7.ttf);
+}
+
+
+.clock {
+    width: 100%;
+
+    position: absolute;
+    background-size: cover;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 35px;
+    text-align: center; 
+    font-family: digit7;
+    letter-spacing: 7px;
+   
+}
+
+#status
+{
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+
+    color: #17D4FE;
+    font-size: 20px;
+    text-align: left; 
+    font-family: digit7;
+    letter-spacing: 5px;
+    line-height: 1.2;
+}
+
+
+#wet
+{
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+
+    color: #17D4FE;
+    font-size: 20px;
+    text-align: right; 
+    font-family: digit7;
+    letter-spacing: 5px;
+    line-height: 1.2;
+}
+
+ </style>   
+
+
+
+ <script type="text/javascript">
+    
+ function resizeIframe(obj) {
+    //obj.contentWindow.document.body.scrollHeight + 'px';
+    //obj.style.zindex=9;
+
+    obj.style.display = "block";
+    obj.style.height =  "300 px"//(window.innerHeight) - document.getElementById("status").style.height + 'px';;
+    //(window.innerHeight) -50 + 'px';
+    //obj.style.width = (window.innerWidth)  + 'px';
+  }
+
+function newsloaded(obj)
+{
+    //alert(obj.contentWindow)
+
+    //var x = document.getElementById("news");
+    //x.style.top = "300 px"
+
+    obj.style.display = "inline";
+    obj.style.zindex = 0
+    //obj.style.top = "300 px"
+    obj.style.width = window.innerWidth
+    obj.style.height = window.innerHeight
+    var y = obj.contentWindow.document;
+    y.body.style.bottom = "10 px";
+    y.body.style.backgroundColor = "transparent";
+    y.body.style.zindex = 0
+    //y.body.style.height = "50px";
+}
+
+//var elem = document.createElement("img");
+//elem.setAttribute("src", "sun_PNG13451.png");
+//elem.setAttribute("height", "50");
+//elem.setAttribute("width", "50");
+//elem.setAttribute("alt", "Flower");
+//document.getElementById("sky").appendChild("elem");
+
+
+
+    function toRad(n) {
+     return n * Math.PI / 180;
+    };
+    function toDeg(n) {
+     return n * 180 / Math.PI;
+    };
+
+    function ParseDMS(input) {
+        var parts = input.split(/[^\d\w\.]+/);    
+        window.lat = ConvertDMSToDD(parts[0], parts[2], parts[3], parts[4]);
+        window.lng = ConvertDMSToDD(parts[5], parts[7], parts[8], parts[9]);
+
+        return {
+            Latitude : lat,
+            Longitude: lng,
+            Position : lat + ',' + lng
+        }
+    }
+
+    function ConvertDMSToDD(degrees, minutes, seconds, direction) {
+        var dd = degrees + minutes/60 + seconds/(60*60);
+
+        if (direction == "S" || direction == "W") {
+            dd = dd * -1;
+        } // Don't do anything for N or E
+        return dd;
+    }
+
+
+
+    function calcTime(city, offset) {
+
+    // create Date object for current location
+    d = new Date();
+    
+    // convert to msec
+    // add local time zone offset 
+    // get UTC time in msec
+    utc = d.getTime() //+ (d.getTimezoneOffset() * 60000);
+    
+    // create new Date object for different city
+    // using supplied offset
+    nd = new Date(utc + (3600000*offset));
+
+    //getMoonPhase(nd.getFullYear(), nd.getMonth(),nd.getDay())
+
+    return nd.toLocaleTimeString('en-US').slice(0, -2);
+    // return time as a string
+    //return "The local time in " + city + " is " + nd.toLocaleString();
+    return nd.toLocaleString();
+
+
+}
+
+
+/* 
+Season  Position of Sunrise/Sunset
+Winter  Southeast/Southwest
+Spring  East/West
+Summer  Northeast/Northwest
+Autumn  East/West
+
+http://curious.astro.cornell.edu/physics/46-our-solar-system/the-moon/observing-the-moon/128-how-does-the-position-of-moonrise-and-moonset-change-intermediate
+
+Moon phase      Moonrise         Moonset
+New             Sunrise         Sunset
+1st quarter     Local noon      Local midnight
+Full            Sunset          Sunrise
+3rd quarter     Local midnight  Local noon
+
+*/
+//alert(calcTime('London', '+1'));
+//https://www.youtube.com/watch?v=6Um7G1N86KU
+//alert(calcTime('Istanbul', '+2'));
+//https://www.pornhub.com/view_video.php?viewkey=ph5b0c614d0cbfb
+//Phaxe - Presentation (Flowjob Remix)
+//http://www.solartopo.com/daylength.htm
+//https://www.youtube.com/watch?v=kO8fTk6oKQg
+//Dua Lipa - Swan Song (From Alita: Battle Angel) [Official Music Video]
+//https://www.youtube.com/watch?v=-GOa4h_qSrM
+//https://www.beatport.com/track/confusion-original-mix/11132703
+//Liquid Stranger - Confusion [ckx]
+//https://www.pinterest.com/pin/326511041716013583/ 
+//https://www.pinterest.com/pin/668854982144647667/ 
+//https://i.pinimg.com/564x/d4/e3/c9/d4e3c9bd2cfead8f31d80388bffea5f2.jpg
+//https://rule34.paheal.net/post/list/Iron_Man/12
+//https://www.instagram.com/p/B7dOt1kpa5t/
+//https://www.instagram.com/p/B7lyJc-lluY/
+//https://www.youtube.com/watch?v=5Gc9pviBlJA
+//https://www.youtube.com/watch?v=fweEgIGch5o
+//https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
+//https://www.youtube.com/watch?v=-4MSXous61Y 
+//https://www.youtube.com/watch?v=TPPPmCbDEdA
+
+//var SunCalc = require('suncalc');
+
+
+var code;var lat;var lng;var loc;var gmt;var timezone;
+
+locate = function(cc,gmt,lat,lng,loc) {
+
+    code = cc
+
+    var loca = Intl.DateTimeFormat().resolvedOptions().timeZone
+    var gmta = new Date().getTimezoneOffset() / -60
+
+    
+    //https://www.timeanddate.com/time/map/
+    //https://www.timeanddate.com/worldclock/usa/fairbanks
+
+    //alert(cc)
+
+    window.lat = lat;
+    window.lng = lng;
+    window.loc = loc;
+    window.gmt = gmt;//timezone="Eastern";
+   
+    
+    
+    //https://www.timeanddate.com/moon/turkey/istanbul
+    //https://www.timeanddate.com/astronomy/turkey/istanbul
+
+    
+    //55.7558° N, 37.6173° E moscow
+    //window.lat = 55.7;window.lng = 37.6;
+    //season();
+    //document.getElementById("flag").src = "../data/flags-48/"+v+".png"
+    //var date = new Date();
+
+    //51.5074° N, 0.1278° W london
+    /**
+    var month = date.getMonth()+1;
+    var weekday = date.getDay();
+    var day = date.getDate()
+    var now = new Date();
+
+    if(lat<0 && month >= 5 && code=='nz') {gmt=gmt-1}
+    if(lat>0 && month >= 5 ) { if(code=='de' || code=='gb' || code=='gr' || code=='fr' || code=='fi' || code=='us'){gmt=Number(gmt)+1}}
+    //if(lat<0 && month >= 5) {gmt=gmt-1}
+   **/
+    //alert(loc)
+
+    msg = [loc,gmt,code];
+    document.getElementById("kronos").contentWindow.postMessage(msg, '*');
+    //https://dvdmoviemenus.com/dvd/002797
+
+
+    // LOCAL NEWS
+    //document.getElementById("news").contentWindow.document.location.href="http://localhost:3003/time/flowm/index.html?loc="+loc+"&window.gmt="+gmt+"&v="+code;
+    //src="http://localhost:3003/time/flowm/index.html#"
+
+    document.getElementById("kronos").style.display = "block";
+
+
+    //seasoner()
+    //showTime()
+    
+}
+
+var season 
+var seasonc;
+
+
+//locate("jp",9, 36, 140, "tokyo");
+
+locate("us", -8, 36, -120, "california");
+//locate("us", -5, 40, -75, "new york");
+//locate("nz",12,-41,174,"wellington");
+//locate("tr", 3, 41, 28, "ISTANBUL");
+//locate("br",-3,-22,-43, "RIO");
+//locate("cl",-4,-3.,-70, "santiagoa");
+//locate("ar",-3,-35,-58, "Buenos Aires");
+
+//showplanets(loc,gmt,code)
+
+//locate("it",1, 41, 12, "ROME");
+//locate("is",0, 64, -21, "REYKJAVIK");
+//locate("fi",2, 60, 25, "helsinki");
+//locate("no",1, 60, 11, "oslo");
+//locate("in",5.5, 28, 77, "new delhi");
+//locate("bw", 2, -25, 26, "gabarone");
+
+//seasoner()
+
+
+function seasoner(date){
+
+    //month = 6
+    //day=27
+    //solarDec = 23
+
+
+    //var date = new Date(2022, 5,21); //summer N 6.7
+    //var date = new Date(2022, 8,21); //autumn eq N 9.7
+
+    var date = date//new Date();
+
+    //var decs = doCalcs(date)
+    //solarDec = decs[0];
+    //moonDec = decs[1];
+
+    //51.5074° N, 0.1278° W london
+    var month = date.getMonth()+1;
+    var weekday = date.getDay();
+    var day = date.getDate()
+    //var now = new Date();
+
+
+    md = Number((month*30)+day)/30 
+
+    if(lat>0)pole='N'
+    if(lat<0)pole='S'
+
+    if(pole=="N") {
+
+    if(solarDec <= 0 && (md > 9.7 || md < 12.8)) season = "fall" 
+    if(solarDec >= 0 && md >= 3.7 ) season = "spring"
+    if(solarDec >= 0 && md >= 6.7) season = "summer"
+    if(solarDec <= 0 && (md > 12.8 || md < 3.7)) season = "winter"  
+
+}
+
+/*Summer begins in the Northern Hemisphere on June 20 or 21 when the North Pole is tilted a full 23.5° toward the sun. On this day, the Northern Hemisphere has the most hours of daylight, while the Southern Hemisphere has the least hours of daylight.
+https://www.porngo.com/videos/87656/elena-is-ready-to-sightsee--but-wants-to-be-naughty-first./
+The seasons in the Northern Hemisphere are the opposite of those in the Southern Hemisphere. This means that in Argentina and Australia, winter begins in June. The winter solstice in the Southern Hemisphere is June 20 or 21, while the summer solstice, the longest day of the year, is December 21 or 22.
+https://www.porngo.com/videos/84843/elena-is-all-about-teasing-you-today./
+*/
+
+if(pole=="S") {
+    
+    if(solarDec >= 0  && md >= 3.7) season = "fall"  
+    if(solarDec >= 0  && md >= 6.7) season = "winter" 
+    if(solarDec <= 0  && (md > 9.7 || md < 12.8)) season = "spring" 
+    if(solarDec <= 0 && (md > 12.8 || md < 3.7)) season = "summer"
+
+}
+
+ //document.getElementById("status").innerHTML += "\nstart:"+(month).toFixed(1)+"<br>"//+" zA:"+(n).toFixed(1)+" lat:"+(lat).toFixed(1)+"<br>"
+
+  
+switch(season) {
+  case "winter":
+    seasonc = "#DFDEDB"
+    break;
+  case "spring":
+    seasonc = "#83B16E"
+    break;
+    case "fall":
+    seasonc = "#EBEAC6"
+    break;
+    case "summer":
+    seasonc = "#E9E360"
+    break;
+  default:
+   seasonc = "grey"
+    // code block
+}
+
+}
+
+
+
+//https://bl.ocks.org/pbojinov/8965299 Two way iframe communication
+document.getElementById("kronos").contentWindow.document.location.href="digit/index.html?loc="+loc+"&gmt="+(gmt)+"&v="+code;
+document.getElementById("combo").contentWindow.document.location.href="combo/index.html?loc="+loc+"&gmt="+gmt+"&v="+code;
+
+    /* 
+ * modified from http://www.voidware.com/moon_phase.htm 
+ */
+
+document.addEventListener("DOMContentLoaded", function() {
+   
+   //alert('Döküman hazır!');
+   //document.getElementById("news").contentWindow.document.location.href="http://localhost:3003/time/flowm/index.html?loc="+loc+"&window.gmt="+gmt+"&v="+code;
+
+});
+
+
+function getMoonPhase(year, month, day)
+{
+    var c = e = jd = b = 0;
+
+    if (month < 3) {
+        year--;
+        month += 12;
+    }
+
+    ++month;
+
+    c = 365.25 * year;
+
+    e = 30.6 * month;
+
+    jd = c + e + day - 694039.09; //jd is total days elapsed
+
+    jd /= 29.5305882; //divide by the moon cycle
+
+    b = parseInt(jd); //int(jd) -> b, take integer part of jd
+
+    jd -= b; //subtract integer part to leave fractional part of original jd
+
+    b = Math.round(jd * 8); //scale fraction from 0-8 and round
+
+    if (b >= 8 ) {
+        b = 0; //0 and 8 are the same so turn 8 into 0
+    }
+
+    // 0 => New Moon
+    // 1 => Waxing Crescent Moon
+    // 2 => Quarter Moon
+    // 3 => Waxing Gibbous Moon
+    // 4 => Full Moon
+    // 5 => Waning Gibbous Moon
+    // 6 => Last Quarter Moon
+    // 7 => Waning Crescent Moon
+    //https://c.tadst.com/gfx/750x500/moon-phases-explained.png?1
+    return b;
+}
+    var moonPh;
+    var moon_phase
+    var moon_distance
+    var moonpa 
+
+    var fraction
+    var angle 
+    var sma 
+
+    var sunAzimuth
+    var solarDec;
+    var moonDec;
+    var zodiacA;
+    var ZL;
+
+
+    function showmoon(sa,ma,saz,maz,lat,lng,mpa,mDec,sDec){
+
+    nd = new Date();
+
+     if(lat > 0 ) pa = +1;
+
+    moon_phase = SunCalc.getMoonIllumination(nd).phase
+    moon_distance = SunCalc.getMoonIllumination(nd).distance
+    fraction = SunCalc.getMoonIllumination(nd).fraction
+    arc = SunCalc.getMoonIllumination(nd).angle
+    arcangle = (arc)*180/Math.PI//((angle*180/Math.PI)+lat*pa+Math.abs(sma))*t
+
+    //moonPos.parallacticAngle
+    //var sun_phase =  SunCalc.getSunlightPosition(nd, lat, lng)//SunCalc.getSunIllumination(nd).phase
+
+    //if(lat < 0 ) pole = "S"; if(lat > 0 ) pole = "N"
+    dec = Math.abs(moonDec-solarDec)*10
+
+    //if(lat>0 && mDec)
+
+    ml = ((moonDec-lat))/90
+
+    angle = ((mpa)*180/Math.PI)//-(24-moonDec)/2 //+(90)  
+
+
+
+    if(moon_phase<0.55) angle = angle
+    if(moon_phase>0.55) angle = angle-180
+
+
+    //angle = angle-180
+
+
+    //if(mDec>sDec) angle = angle//+180
+    //if(mDec<sDec) angle = angle-180
+
+    //if(mDec<0) angle = angle - 180
+    //if(mDec>0) angle = angle + 180
+
+/*
+
+    if(mDec>sDec) angle = angle-180
+    if(mDec<sDec) angle = angle+180
+
+    if(mDec<sDec)
+    {
+    if(mDec<lat) angle = angle-180
+    if(mDec>lat) angle = angle+180
+    }
+*/
+
+
+    document.getElementById('moon').style.transform = "rotate("+angle+"deg)";
+    //document.getElementById('moonSt').style.transform = "rotate("+angle+"deg)";
+    //https://rdrr.io/cran/suncalc/
+
+/*
+document.getElementById('moon').style.transform += "rotate("+Number(sunazm)+"deg)";
+document.getElementById('moon').style.transform += "rotate("+Number(180-moonazm)+"deg)";
+document.getElementById('moon').style.transform += "rotate("+Number(90-moonalt)+"deg)";
+document.getElementById('moon').style.transform += "rotate("+Number(90+sunalt)+"deg)";
+document.getElementById('moon').style.transform += "rotate("+Number(t)+"deg)";
+
+https://soundcloud.com/discover/sets/personalized-tracks::wiccasoft:574355961
+*/
+
+    // code block
+    //https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html
+    //The new Moon always rises near sunrise.
+    //The first quarter Moon always rises near noon.
+    //The full Moon always rises near sunset.
+    //The last quarter Moon always rises near midnight.
+
+    //SunCalc.getMoonIllumination(/*Date*/ timeAndDate)
+    //phase: moon phase; varies from 0.0 to 1.0, described below
+
+    //fraction: illuminated fraction of the moon; varies from 0.0 (new moon) to 1.0 (full moon)
+
+    //fraction  45 (first quarter)
+    //fraction 100 (full moon)
+    //fraction  66 (last quarter)
+    //fraction  33 (Waning Crescent)
+    //fraction   0 (new moon) 
+    //fraction   7 (Waxing Crescent)
+
+    //https://www.almanac.com/astronomy/moon/calendar
+
+    //On average, the distance is about 382,900 kilometers (238,000 miles). The point on the Moon's orbit closest to Earth is called the perigee and the point farthest away is the apogee. A Supermoon looks larger than a Micromoon.
+    
+    moon_phase = moon_phase.toFixed(2)
+
+    //What happens during a new moon?
+    //The new moon is the phase that is invisible to us here on Earth because the moon is between the earth and the sun, and its illuminated side is facing away from us. ... A solar eclipse occurs when the moon moves in front of the sun, blocking it from our view on Earth. This can only happen during a new moon
+    
+    //New Moon
+    if(moon_phase>=0 && moon_phase<=0.03)  {
+    moonPh = "new moon";
+    document.getElementById("moon").src = "new-moon-png-6.png"
+    //if(moon_phase<=0.1)document.getElementById('moon').style.opacity = 0.3
+    //document.getElementById('moon').style.backgroundColor = 'blue'
+    //document.getElementById("moon").style.setProperty("-webkit-filter", "drop-shadow(0 0 0 black)")
+    //document.getElementById("moon").style.setProperty("-webkit-filter", "brightness(0.2)")
+
+    //document.getElementById("moon").style.brightness = 0;
+    //document.getElementById("moon").style.contrast = "200%";
+    //document.getElementById("moon").style.grayscale = 0;
+    //document.getElementById("moon").style.opacity = 0.7;
+
+    //document.getElementById("moon").style.filter = 'grayscale(100)';
+   
+
+
+    } 
+
+    //Waxing Crescent Moon
+    //0.04 illumunatin 1.5
+    if(moon_phase>=0.04 && moon_phase<=0.23)  {
+        moonPh = "Wax Cresc";
+                             document.getElementById("moon").src = "moon-phase-1.png"
+        //if(moon_phase>=0.13) document.getElementById("moon").src = "moon-phase-1.png" // 0.13 -> 17
+        if(moon_phase>=0.13) document.getElementById("moon").src = "moon-phase-2.png"
+        if(moon_phase>=0.18) document.getElementById("moon").src = "moon-phase-3.png"
+        if(moon_phase>=0.21) document.getElementById("moon").src = "moon-phase-4.png"
+        if(moon_phase>=0.23) document.getElementById("moon").src = "moon-phase-5.png"
+            document.getElementById('moon').style.opacity = 0.5
+        
+    
+    } 
+
+    //First Quarter Moon
+    if(moon_phase>=0.23 && moon_phase<=0.29)  {
+        moonPh = "First Qtr";document.getElementById("moon").src = "moon-phase-6.png"
+        //angle = (angle)*45;
+        //document.getElementById('moon').style.transform = "rotate("+angle+"deg)";
+
+        }
+
+    //Waxing Gibbous Moon
+    if(moon_phase>=0.29 && moon_phase<0.45)   {
+        moonPh = "Wax Gibb";document.getElementById("moon").src = "moon-phase-6.png"
+        //if(moon_phase>=0.31) document.getElementById("moon").src = "moon-phase-6.png" //8
+        if(moon_phase>=0.29) document.getElementById("moon").src = "moon-phase-7.png"
+        if(moon_phase>=0.31) document.getElementById("moon").src = "moon-phase-8.png"
+        if(moon_phase>=0.33) document.getElementById("moon").src = "moon-phase-9.png"
+        if(moon_phase>=0.34) document.getElementById("moon").src = "moon-phase-10.png"
+        if(moon_phase>=0.39) document.getElementById("moon").src = "moon-phase-11.png"
+        if(moon_phase>=0.41) document.getElementById("moon").src = "moon-phase-12.png"
+        if(moon_phase>=0.43) document.getElementById("moon").src = "moon-phase-13.png"
+        document.getElementById('moon').style.opacity = 0.5
+
+        //angle = (angle)*45;
+        //document.getElementById('moon').style.transform = "rotate("+angle+"deg)";
+        
+        } 
+
+    if(moon_phase>=0.45 && moon_phase<=0.55)   
+    {
+    moonPh = "Full Moon";document.getElementById("moon").src = "moon-phase-14.png"
+
+    //document.getElementById('moon').style.transform = "rotate("+0+"deg)";
+
+    //document.getElementById('moon').style.opacity = 1
+
+    } //Full Moon
+
+
+
+    if(moon_phase>=0.55 && moon_phase<=0.72) { 
+        //illumunatin 98 72 65 60 55
+        moonPh = "Wan Gibb";
+        document.getElementById("moon").src = "moon-phase-13.png" // Waning Gibbous Moon
+
+        if(moon_phase>=0.56) document.getElementById("moon").src = "moon-phase-13.png" // illm 95
+        if(moon_phase>=0.58) document.getElementById("moon").src = "moon-phase-12.png" // illm 90
+        if(moon_phase>=0.60) document.getElementById("moon").src = "moon-phase-11.png" // illm 80
+        
+        if(moon_phase>=0.68) document.getElementById("moon").src = "moon-phase-10.png" // illm 70
+        if(moon_phase>=0.69) document.getElementById("moon").src = "moon-phase-9.png"  // illm 75
+        if(moon_phase>=0.70) document.getElementById("moon").src = "moon-phase-8.png"
+        if(moon_phase>=0.71) document.getElementById("moon").src = "moon-phase-7.png"
+        if(moon_phase>=0.72) document.getElementById("moon").src = "moon-phase-6.png"
+        
+
+        //document.getElementById('moon').style.transform = "rotate("+angle+"deg)";
+
+
+    }
+
+
+    if(moon_phase>=0.73 && moon_phase<=0.78) { 
+        moonPh = "Last Qtr";
+         //illumunatin 50
+        document.getElementById("moon").src = "moon-phase-6.png" // Waning Gibbous Moon
+        //if(moon_phase>=0.77) document.getElementById("moon").src = "moon-phase-5.png"
+        //if(moon_phase>=0.79) document.getElementById("moon").src = "moon-phase-4.png"
+        
+        //document.getElementById('moon').style.transform = "rotate("+angle+"deg)";
+    }
+
+    if(moon_phase>=0.79 && moon_phase<=0.99) { 
+        moonPh = "Wan Crscnt";
+        document.getElementById("moon").src = "moon-phase-2.png" // Waning Crescent
+        if(moon_phase>=0.79) document.getElementById("moon").src = "moon-phase-5.png" //33
+        if(moon_phase>=0.81) document.getElementById("moon").src = "moon-phase-4.png"
+        if(moon_phase>=0.83) document.getElementById("moon").src = "moon-phase-3.png"
+        if(moon_phase>=0.87) document.getElementById("moon").src = "moon-phase-2.png" //8
+        if(moon_phase>=0.96) document.getElementById("moon").src = "moon-phase-1.png"
+        //if(moon_phase>=0.97) document.getElementById("moon").src = "moon-phase-1.png"
+//document.getElementById("moon").src = "moon-phase-6.png" 
+    }
+
+
+         if(moon_phase>=0.97) moonPh = "new moon";
+        //document.getElementById('moon').style.transform = "rotate("+angle+"deg)";
+        //if(moon_phase>=0.95)document.getElementById('moon').style.opacity = 0.7
+        
+
+        }
+
+
+    function convertUTCDateToLocalDate(date) {
+        var newDate = new Date(date.getTime()+date.getTimezoneOffset()*60*1000);
+
+        var offset = date.getTimezoneOffset() / 60;
+        var hours = date.getHours();
+
+        newDate.setHours(hours - offset);
+
+        return newDate;   
+    }
+
+
+    //var d = new Date(2020, 2, 24);
+    //var d = new Date();
+
+    //var solarDec = getSunDeclination(new Date(d))
+
+
+    //alert(solarDec)
+
+function convertToGmt(pdate)
+{
+var newDate = new Date(pdate);
+    return (newDate.getUTCHours()<10?"0"+newDate.getUTCHours():newDate.getUTCHours())+":"+(newDate.getUTCMinutes()<10?"0"+newDate.getUTCMinutes():newDate.getUTCMinutes())+":"+(newDate.getUTCSeconds()<10?"0"+newDate.getUTCSeconds():newDate.getUTCSeconds());
+}
+
+
+    function calcTime(offset) {
+
+    // create Date object for current location
+
+    //var d = new Date(2011,10,30);
+    
+    var now = new Date();
+    var offset = new Date().getTimezoneOffset();
+
+    var d = new Date();
+    var n = d.getTimezoneOffset();
+    var timezone = n / -60;
+    //console.log(timezone)
+
+    // create Date object for current location
+    var utc = new Date(now.getTime() - now.getTimezoneOffset() * 6000)
+
+    var utc = date.toUTCString()//calcTime(ogmt)
+
+    utc = new Date(utc)
+
+    year = date.getUTCFullYear();
+    month = date.getUTCMonth() + 0;
+    day = date.getUTCDate();
+    hour = date.getUTCHours();
+    minute = date.getUTCMinutes();
+    second = date.getUTCSeconds();
+    
+    utc = new Date(Date.UTC(year, month, day, hour-timezone, minute, second))
+
+    var offset = new Date().getTimezoneOffset();
+
+    utc = utc.getTime() + (timezone* 60000);
+    
+    // create new Date object for different city
+    // using supplied offset
+    //date = new Date(utc + (3600000*(gmt+1)));
+    date = new Date(utc + (3600000*(Number(gmt)+0)));
+
+
+    nd = new Date(utc + (3600000*offset));
+    //nd = new Date(utc + (3600000*(offset+0.5)) + (10000*lng));
+    return nd//.toLocaleTimeString('en-US')//.slice(0, -2);
+    // return time as a string
+    //return "The local time in " + city + " is " + nd.toLocaleString();
+    //return nd.toLocaleString();
+}
+
+
+
+    function showTime(){
+    //var date = new Date(offset);
+    //document.getElementById("MyClockDisplay").innerText = time;
+    //Decoy - Tom Thumbs (Sun Control Species Remix)
+    
+    /*
+    ASTRONOMICAL    Astronomical twilight   -18°
+    NAUTICAL    Nautical twilight   -12°
+    CIVIL   Civil twilight  -6°
+    HORIZON The true moment when the center of the sun crosses the horizon. 0°
+    GOLDEN_HOUR Golden Hour 6°
+    BLUE_HOUR   Blue Hour   -4°
+    */
+    //51.5074° N, 0.1278° W london
+    var date = new Date();
+    //var date = new Date(2021,1,20); //specific date 20 December 2021 
+
+
+    //var date = new Date(2021,5,20); //specific date 20 June  2021 
+    //var date = new Date(2022,5,16); //specific date 20 March 2022 
+    //var date = new Date(2022,2,22); //specific date 20 March 2022 
+    //var date = new Date(2022,8,20); //specific date 20 March 2022 
+
+    
+    //var date = new Date(2022,5,15); //specific date 20 March 2022 
+    //var date = new Date(2022,5,11); //specific date 20 March 2022 
+
+    //var date = new Date(2022,5,29); //new moon
+
+    //var date = new Date(2022,11,21); //x mass N
+    //var date = new Date(2022, 2,21); //spring eq N 
+    //var date = new Date(2022, 5,21); //summer N 
+    //var date = new Date(2022, 8,21); //autumn eq N
+
+    //var date = new Date(-7,3,12); // JESUS BORN MAGNIFICIENT
+
+    //var date = new Date(0,3,12);    // JESUS BORN MAGNIFICENT
+
+    //var date = new Date(0,3,12);    // JESUS BORN MAGNIFICENT
+
+    //var date = new Date(1111,2,12);
+
+   
+
+    //var date = new Date(2022, 11,16); // 
+
+    //var date = new Date(2015, 10,2); //october 2015 
+
+    //var date = new Date(2022,5,21); //summer N 
+    //var date = new Date(2022,2,21); // spring equninox
+    //var date = new Date(2022,8,21); // autumn equninox
+    //var date = new Date(2022,11,21); // winter soltice
+
+    //var date = new Date(2022,8,20); // winter soltice
+
+    //var date = new Date(2022, 9, 17); //autumn eq N
+    //var date = new Date(2022, 9, 31); // halloween
+
+    //var date = new Date(2022, 9, 15); // halloween
+    //var date = new Date(2022, 10, 12); // 27 n
+    //var date = new Date(2022, 10, 15); // 23 n
+
+    //var date = new Date(2022, 11, 10); // 23 n
+
+    //var date = new Date(1888, 1, 9); // 23 n
+
+    //var date = new Date(-5,9,11);
+
+    seasoner(date)
+
+    /*------------------------------------------------------------------------*/
+    //var date = new Date(2022,09,21); //specific date 20 March 2022 
+    /*------------------------------------------------------------------------*/
+
+    //var date = new Date(1978,2, 4);
+    //var month = date.getMonth()-3;
+    //var weekday = date.getDay();
+    //var day = date.getDate()+0
+    //var now = new Date();
+
+
+    if(lat < 0 ) pole = "S"; if(lat > 0 ) pole = "N"
+    if(lng < 0 ) {direction  ="W";utcn=true} if(lng > 0 ) {direction  ="E" ; utcn=false}
+    //https://github.com/mourner/suncalc/issues/107
+    //var d = new Date(2018, 11, 24, 10, 33, 30, 0);
+    //var date = new Date(2020, 2, 24, 7, 33);
+   
+    //var offset = gmt;
+
+    //offset = offset +1
+
+    var offset = new Date().getTimezoneOffset();
+
+    var d = new Date();
+    var n = d.getTimezoneOffset();
+    var timezone = n / -60;
+    //console.log(timezone)
+    //alert(timezone)
+    //var loc = Intl.DateTimeFormat().resolvedOptions().timeZone
+
+    var ogmt = new Date().getTimezoneOffset() / -60
+    
+
+    //var utc = new Date(now.getTime() - now.getTimezoneOffset() * 6000)
+
+    var utc = date.toUTCString()//calcTime(ogmt)
+
+
+    var XH = 0//-1//gmt+2;
+
+    utc = new Date(utc) 
+//--------------------------------------------------------------------------------------------------//
+    year = date.getUTCFullYear();
+    month = date.getUTCMonth() - 0;
+    day = date.getUTCDate()-0;
+    hour = date.getUTCHours()+0;
+    minute = date.getUTCMinutes()+0//
+    second = date.getUTCSeconds();
+//--------------------------------------------------------------------------------------------------//
+    utc = new Date(Date.UTC(year, month, day, hour, minute, second))
+    //utc2 = new Date(Date.UTC(year, month, day, hour, minute, second))
+
+    //timezone = gmt
+
+    utc = utc.getTime() + ((timezone)* 60000);
+    
+    // create new Date object for different city
+    // using supplied offset
+    //date = new Date(utc + (3600000*(gmt+1)));
+    x = Number(timezone)
+
+    utc = new Date(utc + (3600000*(x)));
+
+    //utc = calcTime(gmt)
+
+    //--------------------------------------------------------------------------------------------------//
+//document.getElementById("status").innerHTML += "\nzL:"+utc+" e:"+'(now).toFixed(1)'+"<br>"
+ //--------------------------------------------------------------------------------------------------//
+/*
+    var offset = new Date().getTimezoneOffset();
+
+    utc = utc.getTime() + (offset* 60000);
+    
+    // create new Date object for different city
+    // using supplied offset
+    utc = new Date(utc + (3600000*(timezone+1.5)));
+
+*/
+
+
+    //var utc = new Date(now.getTime() )
+    //date = new Date(utc);
+    //date = new Date(utc - (360000*gmt));
+
+    //+ (3600000*offset)
+
+    //swal('d:'+date)
+
+    //if(lat > 0 )date = new Date(date - (3600000*gmt));
+    //if(lat < 0 )date = new Date(date - (4800000*gmt));
+    
+    //var date = utc
+    //date = convertToGmt(date)
+    //var solarDec = getSunDeclination(date)
+ //--------------------------------------------------------------------------------------------------//
+    var decs = doCalcs(utc)
+    solarDec = decs[0];
+    moonDec = decs[1]
+
+    //utc = date.setHours(date.getHours() - offset);
+
+    //function format(date) {date.setHours(date.getHours() + offset);return date.toTimeString().slice(0,5);}
+
+    //Yotopia - Perfect Match
+    //Liquid Soul - Global Illumination
+    //Symphonix - Nobody Knows (Original Mix),
+    //Rocky - City Lights (Brisker And Magitman Remix)
+
+
+    //var DateWithOffset = new Date( now.toGMTString() + offset );  
+
+ //------------------------SUN & MOON TIMES-----------------------------------------//
+
+    //if(lat>65)lat=lat-10
+
+   //lat = 53; lng = 27
+
+    var suntimes = SunCalc.getTimes(utc, lat, lng, true);
+    var moontimes = SunCalc.getMoonTimes(utc, lat, lng, true);
+    
+
+    //if(suntimes.rise ==undefined  || suntimes.set==undefined) suntimes = SunCalc.getTimes(utc, lat+7, lng-7, false);
+	//if(moontimes.rise==undefined || moontimes.set==undefined) moontimes = SunCalc.getMoonTimes(utc, lat+7, lng-7, true);
+
+
+    sunLat = Math.abs(solarDec-lat)
+    moonLat = Math.abs(moonDec-lat)
+
+   //moontimes.rise==undefined && 
+    //if(moontimes.rise==undefined && moonLat>36) moontimes = "up"
+    if(moonLat>90) moontimes = "down"
+
+ if(moonLat<100){
+
+ 	for(i=0;i<90;i++){
+	if(moontimes.rise==undefined || moontimes.set==undefined) moontimes = SunCalc.getMoonTimes(utc, lat+i, lng-i, true);
+	if(moontimes.rise==undefined || moontimes.set==undefined) moontimes = SunCalc.getMoonTimes(utc, lat-i, lng+i, true);	
+	}
+
+	//alert(i)
+
+}
+
+	//if(moontimes.rise==undefined ) moontimes = SunCalc.getMoonTimes(utc, lat-7, lng-7, true);
+ //alert(moonLat)
+
+	//alert("rise:"+(moontimes.rise.toUTCString()).slice(-12, -7)+" set:"+(moontimes.set.toUTCString()).slice(-12, -7))
+    
+    //alert(suntimes.sunrise)
+    //alert(suntimes.sunset)
+    //alert(moontimes.rise)
+    //alert(moontimes.set)
+
+    //alert(timezone)
+
+    //alert(moontimes.rise.toUTCString()).slice(-12, -7)
+
+    var sunrise = (suntimes.sunrise.toUTCString()).slice(-12, -7); 
+    var sunset = (suntimes.sunset.toUTCString()).slice(-12, -7);
+
+    var moonrise = (moontimes.rise.toUTCString()).slice(-12, -7); 
+    var moonset = (moontimes.set.toUTCString()).slice(-12, -7);
+
+    //alert((moontimes.set.toUTCString()).slice(-12, -7))
+    //alert(suntimes.sunrise)//Fri Jan 17 2020 02:06:54 GMT-0500 (EST)
+    //  https://www.pinterest.com/pin/210824826282844057/ Cally O’Nealby Clyde Caldwell
+    
+
+    //alert(moonrise)
+ 
+ 	//alert(moontimes.rise.toUTCString()).slice(-12, -7)
+
+
+    //alert(suntimes.rise)
+
+    //if(suntimes.rise ==undefined  || suntimes.set==undefined) suntimes = SunCalc.getTimes(utc2, plat, plng, false);
+    //if(moontimes.rise==undefined || moontimes.set==undefined) moontimes = SunCalc.getMoonTimes(utc, lat+1, lng+1, false);
+
+    //if(suntimes.rise==undefined || suntimes.set==undefined) suntimes = "up"
+    //if(suntimes.rise==undefined || suntimes.set==undefined && sunLat>80) suntimes = "down"
+
+
+
+    //if(moontimes.rise=="00"|| moontimes.set=="24") moontimes = "up"
+    //alert(moonLat)
+    //alert(moontimes.rise)
+    //alert(suntimes.rise)
+    //var sunrise = (suntimes.sunrise.toUTCString()).slice(-12, -7);//alert(sunrise)
+    //var sunset = (suntimes.sunset.toUTCString()).slice(-12, -7)
+    //alert((moontimes.set))
+
+ //*--------------------------------------------------------------------------------------------------//
+
+     //--------------------------------------------------------------------------------------------------//
+    //alert(moonrise)
+    // alert(sunrise)
+    // format sunrise time from the Date object
+    //var sunriseStr = suntimes.sunrise.getHours() + ':' + suntimes.sunrise.getMinutes();
+    var sunrisehour = Number(sunrise.slice(-5, 2))+Math.round(Number(gmt))//-Number(Math.round(lat-plat))
+    var sunrisemin = Number(sunrise.slice(-2))
+    var sunsethour = Number(sunset.slice(-5, 2))+Math.round(Number(gmt))//+Number(Math.round(lng-plng))
+    var sunsetmin = Number(sunset.slice(-2))
+
+    //https://www.timeanddate.com/astronomy/antarctica
+    //sunrisehour = sunrisehour+Math.round(Number(gmt))+Number(Math.round((lat-plat)/4))
+    //sunsethour = sunsethour+Math.round(Number(gmt))+Number(Math.round((lng-plng)/9))
+
+   //sunrisehour = sunrisehour+gmt
+
+    //alert(sunsethour)
+    var setrisemin = Number(Number(sunsetmin)-Number(sunrisemin));
+    
+/*
+    if(sunrisehour>24)sunrisehour=sunrisehour-24
+    if(sunsethour>24)sunsethour=sunsethour-24
+    if(sunsethour<12)sunsethour = sunsethour+24
+    if(sunrisehour<10)sunrisehour = "0"+sunrisehour
+    if(sunrisemin<10)sunrisemin = "0"+sunrisemin
+    if(sunsethour<10)sunsetmin = "0"+sunsethour
+    if(sunsetmin<10)sunsetmin = "0"+sunsetmin
+    
+*/
+
+
+    if(sunrisehour>24)sunrisehour=sunrisehour-24
+    if(sunsethour>24)sunsethour=sunsethour-24
+    if(sunsethour<12)sunsethour = sunsethour+24
+
+    var dayL = Number(sunsethour-sunrisehour)
+
+    //if(lat>64)  dayL += (lat-64)
+
+    var dayLength = (dayL*60+setrisemin)/60;
+    if(dayLength>24)dayLength = dayLength-24
+
+
+
+    /*------------------------------------------------*/
+    var moonrisehour = Number(moonrise.slice(-5, 2))+Math.round(Number(gmt))
+    var moonrisemin = Number(moonrise.slice(-2))
+    var moonsethour = Number(moonset.slice(-5, 2))+Math.round(Number(gmt))
+    var moonsetmin = Number(moonset.slice(-2))
+
+    //if(moonsethour<12)moonsethour = moonsethour+24
+
+    //moonrisehour = moonrisehour+Math.round(Number(gmt))+Number(Math.round((lat-plat)/4))
+    //moonsethour = moonsethour+Math.round(Number(gmt))+Number(Math.round((lng-plng)/9))
+
+
+    //moonrisehour = moonrisehour+Math.round(Number(gmt))
+    //moonsethour = moonsethour+Math.round(Number(gmt))
+
+    var moonsetrisemin = Number(Number(moonsetmin)-Number(moonrisemin));
+
+/*
+    if(moonrisehour<1)moonrisehour=moonrisehour+1
+    if(moonrisehour>=24)moonrisehour=moonrisehour-24
+    if(moonsethour>24)moonsethour=moonsethour-24
+
+    if(moonrisehour<10)moonrisehour = "0"+moonrisehour
+    if(moonrisemin<10)moonrisemin = "0"+moonrisemin
+    if(moonsethour<10)moonsethour = "0"+moonsethour
+    if(moonsetmin<10)moonsetmin = "0"+moonsetmin
+*/
+
+
+    if(moonrisehour>24)moonrisehour=moonrisehour-24
+    if(moonsethour>24)moonsethour=moonsethour-24
+    if(moonsethour<12)moonsethour = moonsethour+24
+
+
+    var moondayL = Number(moonsethour-moonrisehour)
+     //var moondayLength = (moondayL*60+moonsetrisemin)/60;
+    var moondayLength = 24-(moondayL*60+moonsetrisemin)/60;
+
+    moondayL = Number(24-moondayLength)
+
+    if(moondayL<=0) moondayL = moondayL+24
+    if(moondayL>=24)moondayL = moondayL-24
+
+    //if(moonDec>24 && lat>64.9)  moondayL += (lat-63)
+
+    //if(lat>64.9)  moondayL += (lat-63)
+
+    //if(moondayL>=18)moondayL = moondayL-2
+    //if(moondayL>23)moondayL = moondayL-8
+
+if(moontimes=="up"){moondayL=24} //moonup
+if(moontimes=="down"){moondayL=0} //moonup
+/*------------------------------------------------*/
+    // get position of the sun (azimuth and altitude) at today's sunrise
+    //var sunrisePos = SunCalc.getPosition(times.sunrise.getMinutes(), lat, lng);
+
+    var  sunPos = SunCalc.getPosition(utc, lat, lng) ;
+    var moonPos = SunCalc.getMoonPosition(utc, lat, lng);
+
+    var moonAzimuth = moonPos.azimuth*180/Math.PI;
+    var moonalt = (moonPos.altitude*180/Math.PI)//.toFixed(2)
+    var moonazm = (moonPos.azimuth*180/Math.PI )
+
+
+    var moonpa =  moonPos.parallacticAngle
+ 
+    //const sunrise = sun.getSunrise(lat, lng);
+    //const sunset = sun.getSunset(lat, lng);
+    //console.log("date:"+date.toUTCString())
+    //https://pngtree.com/free-sun-png
+    //http://pngimg.com/imgs/nature/sun/
+    // get sunrise azimuth in degrees
+    sunAzimuth = sunPos.azimuth*180/Math.PI;
+    var sunalt = (sunPos.altitude*180/Math.PI)
+    var sunazm = (sunPos.azimuth)*180/Math.PI
+
+//------------------------------------------------------------
+//https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en
+//------------------------------------------------------------
+
+    showmoon(sunalt,moonalt,sunazm,moonazm,lat,lng,moonpa,moonDec,solarDec);
+    //if(lat<0)sunazm = (sunPos.azimuth*180)
+    //if(lng>0)sunazm = (sunPos.azimuth*180)
+
+    //if(lat<0 & lng<0)sunazm = (sunazm*-1)
+    //if(lat<0)moonazm = (moonazm*-1)
+
+    //if(Math.abs(sunazm)<=180 & Math.abs(sunazm)>0)ms = "rise"
+    //if(Math.abs(sunazm)>180 & Math.abs(sunazm)<360 )ms= "set"
+
+    //if(Math.abs(moonPos.azimuth)*100>0 & Math.abs(moonPos.azimuth)*100 <180) ms = "set";
+    //if(Math.abs(moonPos.azimuth)*100>180 & Math.abs(moonPos.azimuth)*100 <360) ms = "rise";
+
+    //If the azimuth is between 0° and 180° (north–east–south), the object is rising. 
+    //If the azimuth is between 180° and 360° (south–west–north), the object is setting. 
+
+    //if(moonalt/moonalt<0) ms = "rise";
+    //if(moonalt/moonalt>0) ms = "set";
+
+
+    if(moonalt> 60 & moonalt< 90 ){mdawn=1.0;}
+    if(moonalt> 50 & moonalt< 60 ){mdawn=1.1;}
+    if(moonalt> 40 & moonalt< 51 ){mdawn=1.2;}
+    if(moonalt> 30 & moonalt< 41 ){mdawn=1.3;}
+    if(moonalt> 20 & moonalt< 31 ){mdawn=1.4;}
+    if(moonalt> 10 & moonalt< 21 ){mdawn=1.5;}
+    if(moonalt> -1 & moonalt< 11 ){mdawn=1.9;}
+    if(moonalt> -6 & moonalt<  0 ){mdawn=2.9;}
+    if(moonalt>-11 & moonalt< -5 ){mdawn=3.9;}
+    if(moonalt>-21 & moonalt<-10 ){mdawn=4.9;}
+    if(moonalt>-26 & moonalt<-20 ){mdawn=4.9;}
+    if(moonalt>-66 & moonalt<-25 ){mdawn=4.9;}
+    if(moonalt>-99 & moonalt<-66 ){mdawn=4.9;}
+
+    bg = 'purple-starry-sky.jpg'
+    bg = 'starry-night-sky-with-milky-way.jpg'
+    bg = 'atmosphere-of-earth.png'
+    //mdawn = 1
+    //if(sunalt<0)document.body.style.backgroundImage = 'linear-gradient(rgba(0, 130, 170, 0.5), rgba(0, 0, 0, 0.5)),url('+bg+')';
+    //if(sunalt>0)document.body.style.backgroundImage = 'linear-gradient(rgba(0,130,170,0.5), rgba(0,130,170,0.5)),url('+bg+')';
+
+    var r,g,b,a
+    var phase;
+    //https://www.timeanddate.com/worldclock/sunearth.html
+/*
+    if(sunalt> 60 & sunalt< 90 ){alpha = 0.33;r=90;g = 190;b=240;dawn=1.0;phase="day"}
+    if(sunalt> 50 & sunalt< 61 ){alpha = 0.41;r=80;g = 180;b=230;dawn=1.1;phase="day"}
+    if(sunalt> 40 & sunalt< 51 ){alpha = 0.44;r=70;g = 170;b=220;dawn=1.2;phase="day"}
+    if(sunalt> 30 & sunalt< 41 ){alpha = 0.55;r=60;g = 160;b=210;dawn=1.3;phase="day"}
+    if(sunalt> 20 & sunalt< 31 ){alpha = 0.61;r=50;g = 150;b=200;dawn=1.4;phase="day"}
+    if(sunalt> 10 & sunalt< 21 ){alpha = 0.66;r=50;g = 110;b=150;dawn=1.5;phase="day"}
+    if(sunalt> -1 & sunalt< 11 ){alpha = 0.73;r=50;g = 100;b=130;dawn=1.9;phase="day"}
+    if(sunalt> -6 & sunalt<  0 ){alpha = 0.78;r=40;g =  70;b=100;dawn=2.9;phase="civil twilight"}
+    if(sunalt>-11 & sunalt< -5 ){alpha = 0.81;r=30;g =  50;b= 90;dawn=3.9;phase="nautical twilight"}
+    if(sunalt>-15 & sunalt<-10 ){alpha = 0.83;r=20;g =  40;b= 80;dawn=4.9;phase="astronomical twilight"}
+    if(sunalt>-21 & sunalt<-15 ){alpha = 0.83;r=20;g =  30;b= 60;dawn=4.9;phase="astronomical twilight"}
+    if(sunalt>-26 & sunalt<-20 ){alpha = 0.85;r=10;g =  20;b= 50;dawn=4.9;phase="night";}
+    if(sunalt>-66 & sunalt<-25 ){alpha = 0.88;r=10;g =  20;b= 50;dawn=2.8;phase="night";}
+    if(sunalt>-99 & sunalt<-65 ){alpha = 0.91;r=10;g =  20;b= 50;dawn=2.9;phase="night";}
+*/
+    if(sunalt> 60 & sunalt< 90 ){alpha = 0.33;r=90;g = 190;b=240;dawn=1.0;phase="day";pt="noon"}
+    if(sunalt> 50 & sunalt< 61 ){alpha = 0.41;r=80;g = 180;b=230;dawn=1.1;phase="day";pt="afternoon"}
+    if(sunalt> 40 & sunalt< 51 ){alpha = 0.44;r=70;g = 170;b=220;dawn=1.2;phase="day"}
+    if(sunalt> 30 & sunalt< 41 ){alpha = 0.55;r=60;g = 160;b=210;dawn=1.3;phase="day"}
+    if(sunalt> 20 & sunalt< 31 ){alpha = 0.61;r=50;g = 150;b=200;dawn=1.4;phase="day"}
+    if(sunalt> 10 & sunalt< 21 ){alpha = 0.66;r=50;g = 110;b=150;dawn=1.5;phase="day"}
+    if(sunalt> -1 & sunalt< 11 ){alpha = 0.75;r=90;g = 110;b=130;dawn=1.9;phase="day"}
+    if(sunalt> -6 & sunalt<  0 ){alpha = 0.78;r=85;g = 100;b=130;dawn=2.9;phase="civil twilight"}
+    if(sunalt>-11 & sunalt< -5 ){alpha = 0.81;r=80;g =  90;b=110;dawn=3.9;phase="nautical twilight"}
+    if(sunalt>-15 & sunalt<-10 ){alpha = 0.83;r=50;g =  70;b= 90;dawn=4.9;phase="astronomical twilight"}
+    if(sunalt>-21 & sunalt<-15 ){alpha = 0.83;r=40;g =  60;b= 80;dawn=4.9;phase="astronomical twilight"}  //-17 islam
+    if(sunalt>-26 & sunalt<-20 ){alpha = 0.85;r=30;g =  40;b= 70;dawn=4.9;phase="night";}
+    if(sunalt>-66 & sunalt<-25 ){alpha = 0.88;r=20;g =  30;b= 60;dawn=2.8;phase="night";}
+    if(sunalt>-99 & sunalt<-66 ){alpha = 0.88;r=10;g =  20;b= 50;dawn=2.8;phase="night";}  //after midnight
+
+//https://cssgenerator.org/rgba-and-hex-color-generator.html
+
+/*
+7 Times of the Day
+Here are 7 important times or parts of the day in English.
+
+MIDNIGHT
+This is the middle of the night (00:00 hours).
+
+MIDDAY
+This is the middle of the day, also called "NOON" (12:00 hours).
+
+MORNING
+This is the time from midnight to midday.
+
+AFTERNOON
+This is the time from midday (noon) to evening.
+From 12:00 hours to approximately 18:00 hours.
+
+EVENING
+This is the time from the end of the afternoon to midnight.
+From approximately 18:00 hours to 00:00 hours.
+
+DAWN
+This is the time when the sun rises or comes up (sunrise).
+
+DUSK
+This is the time when the sun sets or goes down (sunset).
+*/
+
+function rgba2hex(orig) {
+  var a, isPercent,
+    rgb = orig.replace(/\s/g, '').match(/^rgba?\((\d+),(\d+),(\d+),?([^,\s)]+)?/i),
+    alpha = (rgb && rgb[4] || "").trim(),
+    hex = rgb ?
+    (rgb[1] | 1 << 8).toString(16).slice(1) +
+    (rgb[2] | 1 << 8).toString(16).slice(1) +
+    (rgb[3] | 1 << 8).toString(16).slice(1) : orig;
+
+  if (alpha !== "") {
+    a = alpha;
+  } else {
+    a = 01;
+  }
+  // multiply before convert to HEX
+  a = ((a * 255) | 1 << 8).toString(16).slice(3)
+  hex = hex + a;
+
+  return hex;
+}
+
+var colorcode = "rgba("+r+","+ g+","+ b+","+ alpha+")";
+var finalcode = rgba2hex(colorcode)
+
+    if(phase == "night")document.getElementById('skyobj').style.opacity = 0.6
+    if(phase == "astronomical twilight")document.getElementById('skyobj').style.opacity = 0.5
+    if(phase == "nautical twilight")document.getElementById('skyobj').style.opacity = 0.3
+    if(phase == "civil twilight")document.getElementById('skyobj').style.opacity = 0.2
+    if(phase == "day")document.getElementById('skyobj').style.opacity = 0.09
+
+
+    document.getElementById('moon').style.opacity = 1-moon_phase 
+ 
+
+    //https://www.timeanddate.com/astronomy/nautical-twilight.html
+    //https://www.pngegg.com/en/png-bmint
+    
+    //ocument.body.style.backgroundImage = 'linear-gradient(rgba('+0+','+0+','+0+','+.9+'), rgba('+r+','+g+','+b+','+alpha+')),url('+bg+')';
+
+     //document.getElementsByTagName("body")[0].style.background="-webkit-linear-gradient(top, #fff, #000)";
+
+
+     document.getElementsByTagName("body")[0].style.background="-webkit-linear-gradient(top, #000,"+"#"+finalcode+")";
+
+    if(sunalt>=0)document.getElementById('sun').style.opacity = 0.3+alpha;
+    if(sunalt<0)document.getElementById('sun').style.opacity = alpha/dawn//1-alpha+0.2;
+
+    document.body.style.backgroundSize = "cover";
+    //document.body.style.backgroundRepeat = "repeat-x";
+
+    //dawn = 3-alpha
+    //if(sunalt<0){dawn=2}else{dawn=1}
+    /*0
+    document.getElementById("sky").style.backgroundRepeat = "repeat-x";
+    document.body.style.backgroundRepeat = "repeat";
+    document.body.style.backgroundRepeat = "repeat-x";
+    document.body.style.overflow = "hidden"
+    */
+     // code block
+    //https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html
+    //The new Moon always rises near sunrise.
+    //The first quarter Moon always rises near noon.
+    //The full Moon always rises near sunset.
+    //The last quarter Moon always rises near midnight.
+
+    
+    //sunazm = 64
+    
+    //. The farthest apogee is 252,707 miles (406,692 km). 
+    //Supermoon: A Full or New Moon that occurs when the center of the Moon is less than 360,000 kilometers (ca. 223,694 miles) from the center of Earth. 
+    //Micromoon: A Full Moon or New Moon that takes place when the center of the Moon is farther than 405,000 kilometers (ca. 251,655 miles) from the center of Earth.
+
+        /*
+    What time is dusk until dawn?
+Dusk and dawn are called twilight or two-light where the sun is slightly situated below or above the horizon and riots of colors paint the sky. 
+In folklores, dusk and dawn are the most important hours of the day because it's the time where one can create portals to other worlds
+     */
+    //linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("purple-starry-sky.jpg");
+    //console.log(calcTime('istanbul', '+2'))
+    //console.log("------------------------------------")
+    //console.log("altitude:"+sunrisePos.altitude* 180 / Math.PI+" azimuth:"+sunriseAzimuth)
+    //console.log("------------------------------------")
+
+    //document.getElementById("sky").textContent = "alt:"+sunalt+" azm:"+sunazm.toFixed(2) 
+    //sunlatdif = (Number(sunalt)-Number(sunazm)).toFixed(2)+Number(lat)
+
+    //if(pole =="N")sunlatdif = Number(Number(sunazm)-Number(lng))+Number(Number(lat)-Number(sunalt))
+    //if(pole =="S")sunlatdif = Number(Number(sunazm)+Number(lng))+Number(Number(lat)-Number(sunalt))
+
+    //if(pole =="N")sunlatdif = Number(sunlatdif)-Number(lat)
+    //if(pole =="N")sunlatdif = Number(lat)+ Number(sunlatdif)
+    //For the southern hemisphere temperate zone, spring begins on 1 September, summer on 1 December, autumn on 1 March, and winter on 1 June.
+    //Winter solstice  N  December solstice (usually 21 or 22 December) 
+    //Winter solstice  S  June solstice (usually 20 or 21 June) 
+    //Summer soltice   N  June solstice in the Northern Hemisphere and the December solstice in the Southern Hemisphere. 
+    //if(lat >= solarDec ) 
+    
+    // summer is the period from the summer solstice (usually 20 or 21 June in the Northern Hemisphere) to the autumn equinox.
+    /*
+    if(pole=="N" && solarDec > 1 && month < 5 ) season = "spring"+month
+    if(pole=="N" && solarDec > 10 && month >= 5) season = "summer"+month
+    if(pole=="N" && solarDec < 0 && month >= 8) season = "autumn"+month
+    if(pole=="N" && solarDec < -12  && month >= 8) season = "winter"+month
+*/
+
+    //month = month+((32-22)/30)
+
+
+    // SCALES -------------------------------------------------------------------
+
+    sunScale = 15+window.innerWidth/60
+    document.getElementById('sun').style.width = sunScale+"px";
+    document.getElementById('sun').style.height = sunScale+"px";
+
+
+    moon_distance = moonPos.distance.toFixed(0)
+
+    moonScale = (90-(moon_distance/10000))*0.8
+    greyScalea = (42-(moon_distance/10000))
+
+    greyScale = 80+greyScalea*5
+
+    document.getElementById('moon').style.width = sunScale-5+"px";
+    document.getElementById('moon').style.height = sunScale-5+"px";
+
+    // SCALES -------------------------------------------------------------------
+    //document.getElementById('moon').style.filter = "brightness("+greyScale+"%)";
+    
+    //document.getElementById('moon').style.filter = "drop-shadow("+"0 0 "+greyScalea*3+"px #D8D3C3"+")";
+    //document.getElementById('moon').setAttribute("style", "-webkit-filter: drop-shadow(5px 5px 5px #222);");
+    //document.getElementById('moon').setAttribute("style", "brightness("+greyScale+"%)");
+    //document.getElementById('moon').setAttribute("width", moonScale+"px");
+    //document.getElementById('moon').setAttribute("heigth", moonScale+"px");
+
+    moonc="grey"
+
+    if(moonPos.distance.toFixed(0)<366717){
+
+        if(moonPh=="Full Moon" || moonPh=="new moon") {moonc="yellow"}
+    }
+
+    
+    //seasoner()
+
+    srise= sunrisehour+":"+sunrisemin;
+    sset = sunsethour+":"+sunsetmin; 
+    if(dayLength>23){srise = "up";sset="up"}
+
+
+    //rio sun sag alt 81 - tokyo: moon gemini alt 73
+    //Salert(loc)
+    //document.getElementById("wet").innerHTML = "18"+"<br>"+"CLEAR" 
+    var dayst = phase
+    var daystatus =  "\n"+"<font color="+"#668cff"+">"+dayst+"</font><br>"
+
+    if(phase=="day" || phase=="night") {dayst = ""; daystatus=""}
+
+    
+    /*---------------------------------------------------------------------------------------------------------------*/
+
+//moonDec = 0.5555
+
+moondec = moonDec.toFixed(0)
+
+if(moonDec<1 && moonDec >-1)moondec = moonDec.toFixed(1)
+
+if(moondec>0)moondec = Math.abs(moondec)+"⒩"
+if(moondec<0)moondec = Math.abs(moondec)+"⒮"//°
+
+//document.getElementById("moon").src = "moon-phase-7.png"%
+moonSrc = document.getElementById("moon").src
+
+    document.getElementById("status").innerHTML = 
+
+    ""+loc.toUpperCase() +" ["+"<font color="+seasonc+">"+season+"</font>]"+"["+dayLength.toFixed(1)+""+"]"+"<br>"
+    +"\n"+Math.abs(lat)+ "("+pole+")"+":"+Math.abs(lng)+"("+direction+")"+" [gmt"+gmt+"]"+"<br>"
+    
+    //+"\nzangle:"+Math.floor((sunalt/sunazm)*(180)/(Math.PI))+"<br>"+"\nmangle:"+sma+"<br>"
+    //+"\nalt:"+sunalt.toFixed(1)+" azm:"+sunazm.toFixed(1)+""+" R:"+(sunPos.azimuth).toFixed(1)+"<br>"//+"(d)"//*180/Math.PI//+" 
+
+    +"\n"+"SolarDeclination:"+solarDec.toFixed(2)+"<br>"
+    //+"\n"+"SolarAltitude:"+sunalt.toFixed(1)+"<br>"
+
+
+    //+"\nmalt:"+(moonalt).toFixed(2)+" mazm:"+(moonazm).toFixed(2)+"<br>"
+    //+"\nmphase:"+moon_phase 
+    //+"\nzA:"+Number(zodiacA).toFixed(2)+"<br>"
+    //+"\nphase:"+phase+"<br>" //+"["+dawn+"]"
+    //+"\ns-rise:"+sunrise +"</font><br>"//+"["+sunrisemin+"]"
+    //+"\ns-set:"+sunset+"</font><br>"
+    //+"\nday-length:"+dayLength.toFixed(1)+"h" //.toLocaleTimeString();//
+    //+"\nmday-length:"+moondayLength.toFixed(1)+"h" //.toLocaleTimeString();//
+    //+" azm:"+(sunPos.azimuth).toFixed(1)//+"["+sunsethour+"]"
+    //+"\nsunrise:"+sunrisehour+" sunset:"+sunsethour+"</font><br>"
+    //+"\nmdistance:"+moonPos.distance.toFixed(0)+"km"+"<br>"
+
+    +"\n"+"<img id='moonSt' src='"+moonSrc+"' height='15px'></img><font color="+moonc+"> "+moonPh+"["+Math.abs((fraction*100).toFixed(0))+"]:"+(moondec)+"["+moondayL.toFixed(1)+"]"+"</font><br>"
+
+    //+"\n"+"LunarDeclination:"+moonDec.toFixed(2)+"<br>"
+
+    //+"\n"+"<font color='"+moonc+"'>"+"LunarDeclination:"+moonDec.toFixed(2)+"</font><br>"
+    
+    //+"\n"+"<font color='"+moonc+"'>"+"Lunar Altitude:"+(moonalt).toFixed(2)+"</font><br>"
+
+    +daystatus
+    //+"\nmangle:"+(moonpa)*180/Math.PI+"<br>"
+    //+moon_phase//+"("+Math.round((angle))+")"+"("+moonDec+")"//+"["+moon_phase +"]"
+    //+"\nmoon-Declination:"+moonDec.toFixed(2)+"<br>"//+""+solarDec.toFixed(2)//+" ["+season+"]"
+    //+"\nSolarDeclination:"+solarDec.toFixed(2)+"<br>"//+" ["+season+"]"
+    //+"\nrise:"+moonrise+" set:"+moonset//.toLocaleTimeString();
+    //+"\nsunrise_:"+srise+" sunset_:"+sset+"<br>"+date
+    //+"\nmoonrise :"+moonrisehour+":"+moonrisemin+" moonset:"+moonsethour+":"+moonsetmin
+    //+"\nsunrise:"+sunrise+" sunset:"+sunset//.toLocaleTimeString();
+    //+"\nmoonrise:"+moonrise+" moonset:"+moonset//.toLocaleTimeString();
+    //+"\nsma:"+sma;
+    
+    //+ " "+moonPos.parallacticAngle//+"\nmphase:"+moon_phase//+"distance:"+moonPos.distance.toFixed(2)+"km"
+    //+"\nset:"+SunCalc.getMoonTimes(nd, lat, lng).rise
+    //document.getElementById("status2").value = ":"+phase+":"
+
+
+if(window.innerHeight>300){
+if(sunalt>0)  document.getElementById("status").innerHTML += "\n"+"Solar Altitude:"+sunalt.toFixed(1)+"<br>"
+if(moonalt>0) document.getElementById("status").innerHTML += "\n"+"<font color='"+moonc+"'>"+"Lunar Altitude:"+(moonalt).toFixed(2)+"</font><br>"
+}
+
+//if(phase!="day" || phase!="night") document.getElementById("status").innerHTML +=  "\n"+"<font color="+"#668cff"+">"+dayst+"</font><br>"
+
+document.getElementById('moonSt').style.transform = "rotate("+angle+"deg)";    
+//document.getElementById('moonSt').style.filter = "brightness("+moon_phase +"%)";
+document.getElementById('moonSt').style.opacity = 1-moon_phase 
+
+
+//document.getElementById('moon').style.filter = "brightness("+moon_phase +"%)";
+document.getElementById('moon').style.opacity = 1.5-moon_phase 
+/*---------------------------------------------------------------------------------------------------------------*/
+    //document.getElementById("sky").textContent = "alt:"+(moonalt)+" azm:"+moonazm.toFixed(2)+" phase:"+ moon_phase
+    //calcTime('Istanbul', '+2')//.slice(0, -2)//time//+" gmt"+gmt;
+    //p = Math.cos(sunazm)*-1
+    //t = Math.sin(sunazm)*1
+    //sunazm = -65
+
+    //https://www.pinterest.com/pin/114771490489997311/ tropic of cancer
+    /* RISE TO SET ALGORITHM ------------------------*/
+  
+    /*---------------------------------------*/
+
+    /*Katerine - Ayo Technology (SZD 2009)
+    https://www.youtube.com/watch?v=16ayns00qok
+
+    Katerine Avgoustakis - Sopot Hit Festival 2009 winner [HD]
+    https://www.youtube.com/watch?v=glQDy9_7pp0
+
+    Katerine - Ayo Technology (Sopot Hit Festiwal 2009) 
+    https://www.youtube.com/watch?v=BNCGOq30bd4
+
+    Inna - Hot Live Sopot 2009
+    https://www.youtube.com/watch?v=chpu6p_S8BY
+
+SOPHIE ELLIS BEXTOR - CAN'T FIGHT THIS FEELING - HIT FESTIVAL 2010 - POLAND - Bydgoszcz - LIVE HD
+    https://www.youtube.com/watch?v=WMiisjomKQ0
+    https://www.youtube.com/watch?v=v83FvlLIqAk
+
+Sophie Ellis Bextor - Today The Suns On Us (T4OTB 2007)
+    https://www.youtube.com/watch?v=GECCFTj3Ugo
+    /*---------------------------------------*/
+    
+    
+    r = (window.innerWidth)/2;
+    i = r/200; m=50;z=m;//c = 1.5*i//r/sunazm; 
+    t=0
+
+ 
+//--------------------------------------------------------------------------------------------------//
+// ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER
+//--------------------------------------------------------------------------------------------------//
+  if(sunalt<0)s=-1 
+  if(sunalt>0)s=+1
+
+  var d = new Date();
+  var n = Number(utc.getUTCHours())+Number(gmt);
+
+  if(n>24)n=n-24
+  //if(n<=0)n=n+23
+
+  var now = Number(n+(utc.getMinutes()/60))-(Number(sunrisehour)+(sunrisemin/60));
+  var mow = Number(n+(utc.getMinutes()/60))-(Number(moonrisehour)+(moonrisemin/60));
+
+  var sunR = (Number(sunrisehour)+(sunrisemin/60))
+
+  
+  if(now<=0)now=24+now
+  //if(now<=0)now=24+now
+  //if(now>24)now=Math.abs(24-now)
+
+
+ if(mow<=0)mow=24+mow
+ if(mow>24)mow=Math.abs(24-mow)
+
+
+  //if(lat>solarDec) plus=(lat-solarDec)*1.5//-(24-now)
+  //if(lat<solarDec) plus=(solarDec-lat)*1.5//-(24-now)
+
+  //(now/sunrisehour)
+  if(now>sunR)zlapse = now/sunR;
+  if(now<sunR)zlapse = now/sunR;
+
+
+   //day = 21
+   //month = 5
+   //solarDec = 23
+    o = Math.abs(90-(lat-23))/90;
+    p = 2.3-o;
+
+  nL = 24   - dayL 
+  nR = now  - dayL - nL
+
+  
+  
+  dratio = now/24
+  dlapse = now/dayL;
+  nlapse = nR/-nL;
+  nratio = now/360
+  //zlapse = sunR/now;
+
+  nlapse = (now-dayL)/(24+(p)/2-dayL);
+
+//if(lat<0) nlapse += 0.1
+
+/*----------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+
+   W =  window.innerWidth
+   H =  window.innerHeigth
+
+   k = (window.innerWidth)/2
+
+/*----------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+//if(dayLength !== dayLength)dayLength = 1
+/*----------------------------------------------------------------------------------*/
+
+
+     
+    //if((dratio).toFixed(1)==1.0) {dratio = 0;dlapse = dratio/10;now=dratio/10}
+    //if((mratio).toFixed(1)==1.0) mlapse = 0
+
+
+    o = Math.abs(90-(lat-23))/90;
+    p = 2.3-o;
+
+
+    sl = ((lat-solarDec))/90
+
+
+    //W = (w/1.9)-(15)*(k/300)
+
+    w = (W/2.1)//+(lat/3)*(k/300)
+   /*-----------------------------------------------------------------------------------*/
+    
+    long    = (dayL)*((p-1))+(dayL)*((o-1))
+    short   = (24-dayL)*((o-1))+(24-dayL)*((p-1))
+
+
+    start   = w-((dayL)*(12)*(w/300)) //+ ((24-dayL)*(0)*(k/300))
+
+    road    = w*(dayL)/(12) // ROAD FROM 11 TO 17  //
+   /*-----------------------------------------------------------------------------------*/
+
+    //if(dayL>15)  start -= (long*(dayL))*(w/600)
+    //if(dayL>13)  road  += (long*(dayL))*(w/300)
+
+    //if(dayL>14)  start -= (long*(dayL))*(w/300)
+    //if(dayL>13)  start -= (long*(dayL))*(w/600)
+    //if(dayL>13)  start  += (long*(dayL))*(w/300)
+
+/*-----------------------------------------------------------------------------------*/
+
+ 	//if(dayL<13)  start += (short*(o)*(24-dayL))*(w/900)
+
+ 	//if(dayL>13)  road  += (long*(p)*(dayL))*(w/600)+(long*(o)*(dayL))*(w/600)
+
+ 	//if(dayL<13)  start += (short*(o)*(24-dayL))*(w/600)+(short*(p)*(24-dayL))*(w/600)
+    //if(dayL<13)  road  -= (short*(o)*(24-dayL))*(w/600)+(short*(p)*(24-dayL))*(w/600)
+
+
+   //if(dayL<13 && dayL>11)  road  += (short*(p)*(24-dayL))*(w/600)+(short*(o)*(24-dayL))*(w/600)
+
+
+   //if(dayL>13)  road  += (long*(p)*(dayL))*(w/600)+(long*(o)*(dayL))*(w/600)
+
+
+
+    //if(dayL<12)  start += (short*(o)*(24-dayL))*(w/600)
+    //if(dayL<12)  road  -= (short*(o)*(24-dayL))*(w/600)
+
+
+
+	//if(dayL<10)  road  -= (short*(1)*(24-dayL))*(w/300)
+
+
+	//if(dayL<8)  start -= (short*(1)*(24-dayL))*(w/300)
+	//if(dayL<8)  road  += (short*(1)*(24-dayL))*(w/300)
+
+    if((dratio).toFixed(1)==1.0) dlapse = 0
+
+
+    /*-----------------------------------------------------------------------------------*/
+    formula = (dlapse)*(road)+(start)//-Math.abs(lat)*(k/300)
+   /*-----------------------------------------------------------------------------------*/
+
+
+
+   //formula += ((sunalt/3))*(k/300)
+	//if(dayL>13) formula += ((sunalt/4))*(k/300)
+	//if(dayL<13) formula -= ((sunalt/4))*(k/300)
+
+    //formula += ((sunalt/3))*(k/300)
+
+    //formula -= (24-solarDec)*(w/300)
+
+    sl = ((lat-solarDec))/90
+
+    //formula += (solarDec-24)*(w/300)
+
+    //formula -= (lat)*(w/300)
+
+    //if(lat>0) formula -= Math.abs((0.5-sl)*90)*(k/300)
+
+    //if(lat<0) formula -= Math.abs((sl)*90)*(k/300)
+
+ 
+    //formula -= (lat)*(w/900)
+
+    //formula -= ((sl)*90)*(w/300)
+
+ SL = Math.abs((solarDec-lat))
+
+ inri = (90-Math.abs(lat-solarDec))/(90)
+
+if(SL>0 && SL<13)
+{
+        // -90 --> -180 + 180 --> 90 
+        //if(moonazm<0) mformula = (w)+(w)*(moonazm)/(90)
+        //if(moonazm>0) mformula = (w)+(w)*(moonazm)/(90)
+
+        start = ((24-dayL)*24)*(w/300)//-(short*(24-moondayL)*3)*(w/300)
+
+
+   
+    //magic = (90-altitude)*(k/600)
+
+    SPA = (90 - SL )
+
+        //moon triangle-----------------------------------------------------
+    if(sunazm<0)  {formula = (w)-((w)-(w)*(sunalt)/(SPA)) ; formula+=start*((SPA-sunalt)/(SPA/0.5)) }
+    if(sunazm>0)  {formula = (w)+((w)-(w)*(sunalt)/(SPA)) ; formula-=start*((SPA-sunalt)/(SPA/0.5)) }
+    //if(moonazm>0)  mformula = (mlapse)*(road)+(start)
+    //moon triangle-----------------------------------------------------
+
+
+        //mformula -= (short*(24-moondayL)/3)*(w/300)
+
+        //formula += ((sunalt/3))*(k/300)
+
+        //g += (inri/3)*dratio
+
+
+}
+
+
+
+
+ if(dayL>=18 ){  //  || moondayL==24  // ARCTIC CIRCLE (65+)
+
+
+
+    Arc1 = 180-((dayL*2)*(dlapse-0.5)*(dayL/6))*(dlapse)
+    Arc2 = 180-((dayL*2)*(dlapse-0.5)*(dayL/6))*(dlapse)
+
+
+    	if(sunazm<0) formula = (180-(dayL*(4-dlapse*8))+sunazm)*(w/(Arc1))
+        if(sunazm>0) formula = w+(sunazm)*(w/(Arc2))
+
+           formula += ((sunalt/3))*(w/300)
+
+
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+
+    document.getElementById("sun").style.left = formula//+(m*w/900)//+swirl+(sunalt/3)*(k/300)-(solarDec)*(k/300)
+
+    document.getElementById("sun").style.top = (window.innerHeight)-sunalt*(window.innerWidth/360)-(m/2*k)/900
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+ //---------------------------------------------------------------------------------------------------//
+ //document.getElementById("status").innerHTML += "\nSL:"+(sunazm).toFixed(2)+"\ndr:"+(dratio).toFixed(2)+"\ndL:"+(dlapse).toFixed(2)+" e:"+(now).toFixed(1)+"<br>"//+" zA:"+(n).toFixed(1)+" lat:"+(lat).toFixed(1)+"<br>"
+ //--------------------------------------------------------------------------------------------------//
+
+  //--------------------------------------------------------------------------------------------------//
+
+// lat 60 sol -23 0.3 winter
+// lat 60 sol  00 0.5 equinox     o=0.5 p =1.5
+// lat 60 sol +23 0.7 summer
+//--------------------------------------------------------------------------------------------------//
+    polar = (lat)
+    inri = (90-Math.abs(lat-solarDec))/(90)
+    
+    o = Math.abs(90-(lat-23))/90;
+    p = 2.2-o;
+
+//--------------------------------------------------------------------------------------------------//
+    DAYQ = ((dayL)/(12))
+    EQC = (90-Math.abs(lat)-23)/90
+    SL = (lat-solarDec)
+//--------------------------------------------------------------------------------------------------//
+
+
+	
+    g = 2.5//
+
+
+    //g -= (dratio-1)*(p/2)+(dratio-1)*(o/4) 
+
+    //g += (1-dratio)*(p/2)+(1-dratio)*(o/4) 
+    //g += (dayL/DAYQ)*(p-1) + ((24-dayL)/2)*(o-1) + ((24-dayL)/2)*(p-1) + (dayL/DAYQ)*(o-1)
+
+
+	//if(lat>60 && dratio>0) g -= (lat/60)*(dratio-1)//*(dratio-0.5)
+
+	
+
+	//if(lat>60 && nlapse>1) g += (lat/60)*(1-nlapse)
+    //g -= ((24-solarDec)/48)*(p-2)
+
+    g += (1-dratio)*(EQC/1)-(dratio-1)*(EQC/1)
+//--------------------------------------------------------------------------------------------------//
+
+
+
+//--------------------------------------------------------------------------------------------------//
+
+    ARC = (lat/90)
+
+      s = (lat/60)
+
+
+   //if(lat>60) g -= (lat/60)*(p-dratio*(p+0.5))*(dratio-0.5)
+    //if(lat>0) g += (lat/60)*(p-dratio*(p+2))
+
+
+
+ 	//if(lat>0 && dratio>0)  g -= (EQC/2)*dratio
+	//if(lat>0 && nlapse>0)  g += (EQC/2)*nlapse
+
+    //if(lat>0 && dratio>0)  g += (ARC)*((s))*(p-dratio*(p-1))*dratio
+
+    if(lat>0 && dratio>0)   g -= (ARC)*((s))*((p-1))*(dratio-1.0)
+
+    //if(lat>0 && dratio>0)   g -= (ARC)*((s))*((p-1))*(dratio-0.5)
+    //if(lat>0 && nlapse>0)  g += (ARC)*((s))*nlapse
+
+
+//--------------------------------------------------------------------------------------------------//
+	ARC = (lat/90)
+
+	  s = (lat/60)
+
+ 	//if(lat<0) g += (lat/60)*(o-dratio*(o+dratio))//-(EQC/2)*dratio
+
+ 	//if(lat<0 && dratio>0)  g -= (EQC/2)*dratio
+	//if(lat<0 && nlapse>0)  g += (EQC/2)*nlapse
+
+    //if(lat<0 && dratio>0)  g -= (ARC)*((s))*(o-dratio*(o-1))
+
+    //if(lat<0 && nlapse>0)  g += (ARC)*((s-nlapse*(s+o*2)))*nlapse
+
+
+	if(lat<0 && dratio>0)  g -= (ARC)*((s))*(o-dratio*(o+7))*dratio
+	if(lat<0 && nlapse>0)  g += (ARC)*((s))*(o-dratio*(o+7))//(ARC)*((s-nlapse*(s+o*2)))*nlapse
+
+
+	if(inri>0.1 && dratio>0) g -= (inri/2)*(dratio)
+	if(inri>0.1 && nlapse>0) g += (inri/2)*(nlapse)
+
+
+
+//--------------------------------------------------------------------------------------------------//
+
+    ZNC = (90-Math.abs(lat))/90
+
+//--------------------------------------------------------------------------------------------------//
+
+   d = 180//-(ZNC)*19//*(o+p)/2//-(lat/4)
+   n = 180//+(ZNC)*20//*(o+p)/2
+
+   //--------------------------------------------------------------------------------------------------//
+   //month 11 scorpio 40n sl -0.5 -40s sl 0.0  var date = new Date(2022,10,20);
+   //month 06  cancer 40n sl -0.0 -40s sl 0.6  var date = new Date(2022,05,20);
+
+//--------------------------------------------------------------------------------------------------//
+  if(dlapse<=1)zodiacA = ((month-g)*(30)+day)+dlapse*(d)   //(dlapse*d)         // day   algorithm
+  if(nlapse>=0)zodiacA = ((month-g)*(30)+day)+nlapse*(n)+d //(nlapse*n)+(d)     // night algorithm
+//--------------------------------------------------------------------------------------------------//
+//document.getElementById("status").innerHTML += "\nnL:"+(inri).toFixed(2)+"\ndr:"+(dratio).toFixed(2)+"\ndL:"+(dlapse).toFixed(2)+" e:"+(now).toFixed(1)+"<br>"//+" zA:"+(n).toFixed(1)+" 
+ //--------------------------------------------------------------------------------------------------//
+
+
+ DATE = new Date().toISOString().split('T')[0]
+
+ DATE = new Date(new Date().toDateString());
+
+ DATE = new Date(new Date());
+
+ var d = new Date(); 
+ var DATE = d.getFullYear()+'/'+(d.getMonth()+1)+'/'+d.getDate();
+
+ DATE = new Date().toLocaleDateString('en-us', { weekday:"long", month:"long", day:"numeric"});
+
+
+ if(window.innerWidth>600) document.getElementById("status").innerHTML += "\n"+(DATE)+"<br>"
+
+//https://bbs.archlinux.org/viewtopic.php?id=119548  inkspace
+
+document.getElementById("zodiac").src = "zodiac/zodiac-out-night.svg"
+//document.getElementById("zodiac").src ="88/sky.svg"
+
+starsv=0.1
+
+ if(phase=="day") document.getElementById("zodiac").src ="zodiac/zodiac-out.svg" //starsv=0.0
+ if(phase=="civil twilight")starsv=0.1
+ if(phase=="nautical twilight")starsv=0.2
+ if(phase=="astronomical twilight")starsv=0.3
+ if(phase=="night") starsv=0.4
+
+//document.getElementById("zodiac").width = "1200px"
+//document.getElementById("zodiac").height = "1200px"
+
+//dayL = 15
+//solarDec = 23; 
+//dayLength=15;
+
+//1400x650  2.1
+
+ wh = (window.innerWidth/window.innerHeight)
+ hw = (window.innerHeight/window.innerWidth)
+
+
+ if( window.innerWidth>window.innerHeight) zr = wh
+ if( window.innerWidth<window.innerHeight) zr = wh
+
+//L = (24-dayL)/1.7+(dayL/0.5)//((24-dayL)*3+(dayL)*12)/18
+
+
+L = 15//(((24-dayL)/(zr)+(dayL/(zr)))/zr)*(zr)*(1+zr/3)
+
+//o = Math.abs(90-(lat-23))/90
+
+zLAT = Math.abs((lat-23))/60
+
+X=(15-Math.abs(lat/60))
+
+L = 15//X+(dayL/6)+zLAT*2
+
+L = X+((dayL)/2)+zLAT*4
+
+if(lat>0)WA=(solarDec/-1+lat/-1+00)
+if(lat<0)WA=(solarDec/-1+lat/+1-23)
+
+
+//zr = wh
+//zr = hw
+zr = ((lat-23)/(30)) // ZOOM
+D = Math.abs(90-lat)/90
+
+ //dayL = 9;
+ //solarDec=-23
+ zodH = (window.innerWidth)*(12*L)/180+(window.innerWidth/2)//-(dayL)*D*zr+(24-dayL*D)*zr
+ zodW = (window.innerWidth)*(12*L)/180+(window.innerWidth/2)//-(dayL)*D*zr+(24-dayL*D)*zr//+(24-dayL)*6*zr-(dayL*6)*zr//(24-dayL)*9*zr
+ zodR = (window.innerWidth)*(12*L)/180+(window.innerWidth/2)//-(dayL)*D*zr+(24-dayL*D)*zr//+(90-sunalt)/3
+ //+(dayL*3)*zr//+(m*zr)//+(24-dayL)*12*zr+(dayL*12)*zr
+
+
+ MID = (lat/4)+((90-Math.abs(lat)))/4
+
+ document.getElementById("zodiac").style.height  =  zodH+"px"
+ document.getElementById("zodiac").style.width   =  zodW+"px"
+ document.getElementById("zodiac").style.left    = -zodW/2+(window.innerWidth+(MID)*k/300)/2.0
+ //document.getElementById("zodiac").style.bottom  = -zodR/2//+T*(k/100)//-(zl*zr)*k/300+(lat-10)//+(T*zr)*k/300//+(lat*zr)/3
+
+if(lat>0) {gr = 1}else{gr=-1}
+
+zl = (((lat+23)))/3 // EQ
+//zl = (((lat-lat/2)))/1 // not EQ
+zl = (((lat-solarDec+23)))/3 // not EQ
+
+//LATTY = ((90-Math.abs(lat))/3)*(k/300)-((lat)*2)*(k/300) // 23 DEGREE  
+
+//LATTY = ((90-Math.abs(lat))/3)*(k/300)-((lat+solarDec)/2)*(k/300) 
+
+
+sl = ((lat-solarDec))/90
+
+//ALTDY = (((sl-0.5)*(nlapse*100))*(k/300))//+((solarDec))*(k/300) 
+
+//if(lat>60) ALTDY += (lat)*(k/300)
+
+//LATTY -= 23//((lat-60)*5)
+
+//ALTDY = 0//((sunalt)*(k/600))
+
+//alert(lat)
+
+LATTY = 0
+
+if(lat>0)  LATTY = ((lat-23)*(lat/+23))*(k/-300)
+//if(lat<0)  LATTY = ((lat+23+solarDec)*(lat/-23))*(k/+100)
+
+//LATTY += ((90-Math.abs(lat))/2)*(k/600)//-((lat)*2)*(k/300) // 23 DEGREE  
+
+//if(nlapse>1)
+//LATTY += ((90-sunalt)/2)*(k/300)
+
+//if(lat<-55) ALTDY += ((lat+60)*1)
+
+//REV = ((90-Math.abs(lat))/2)*(k/300)
+
+//if(sunalt>0) document.getElementById("zodiac").style.left -= 45*(k/300)
+
+
+
+
+document.getElementById("horoscope").style.display = "block";
+document.getElementById("zodiac").style.display = "block"
+
+document.getElementById("zodiac").style.bottom  = LATTY-(zodR/2)+m/6//-ALTDY
+
+
+//-((DSA-1.0)*-T)*(k/300)-(zl*0.5)*k/300+(M*2)*(k/300)+LATTY-ALTDY
+
+
+ document.getElementById("zodiac").style.opacity = starsv
+ document.getElementById("zodiac").style.transformOrigin = "center"
+ document.getElementById("zodiac").style.transform = "rotate("+zodiacA+"deg)";
+ //document.getElementById("zodiac").style.setProperty("-webkit-filter", "drop-shadow(0 0 0 Blue)")
+
+//--------------------------------------------------------------------------------------------------//
+// ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER ZODIAC CHAMBER
+//--------------------------------------------------------------------------------------------------//
+
+//<img id="pisces" class="pisces" src="zodiac/pisces-constellation-made-in-adobe-illustrator.png" style="display: block;width: 150px;height: 150px;left:200px;top: 400px;transform: rotate(15deg);;filter: opacity(0.1) drop-shadow(0 0 0 blue);">
+
+/*
+https://stackoverflow.com/questions/36850017/change-drop-shadow-with-javascript-without-jquery
+var elt = document.getElementById("#your-element-id");
+
+elt.setAttribute("style", "-webkit-filter: drop-shadow(5px 5px 5px #222);");
+*/
+
+    r = (window.innerWidth)/2
+
+     mlapse = (mow)/(moondayL)
+     mratio = mow/24
+
+  //dratio = now/24
+  //dlapse = now/dayL;
+  //nlapse = nR/-nL;
+  //nratio = 24-now/12
+
+     /*----------------------------------------------------------------------------------*/
+    W = window.innerWidth
+    H = window.innerHeight
+
+    k = window.innerWidth/2
+     
+
+     //if((mratio).toFixed(1)==1.0) mlapse = 0
+
+     //if((mratio).toFixed(1)==1.0) {mratio = 0;mlapse = mratio/10;now=mratio/10}
+
+
+     if(moonDec<lat) {M=1}else{M=-1}
+
+     //ML= Math.abs((lat-moonDec))
+     //ml = Math.abs((moonDec-lat))/90 
+     //ml = Math.abs((moonDec-lat))/90 
+
+    o = Math.abs(90-(lat-23))/90;
+    p = 2.3-o;
+
+    //https://icons8.com/icons/set/hydra
+
+    //start = w*(moondayL)/(71-(24-moondayL)*(0.5)-(24-moondayL)*(p)-(24-moondayL)*(o)) 
+
+
+    ml = ((moonDec-lat))/90
+
+    //start = (180-(1-ml)*(180))*(k/300)+((90-Math.abs(lat))/2)*(k/300)
+
+    //swirl = (24-moondayL)*(moondayL)*(k/300)-(moondayL)*(13)*(k/300)+(24-moondayL)*o*(k/300)-(moondayL)*o*(k/300)+(moondayL)*p*(k/300)
+
+    //start   = ((moondayL)*(7)*(k/300))+((24-moondayL)*(1)*(k/300))
+
+    W = window.innerWidth
+    w = (W/2.1)//+(lat/3)*(k/300)
+
+
+   /*-----------------------------------------------------------------------------------*/
+
+    //if(lat>61)  moondayL += 1
+
+    long    = (moondayL)*((p-1))+(moondayL)*((o-1))
+    short   = (24-moondayL)*((o-1))+(24-moondayL)*((p-1))
+
+
+    start   = w-((moondayL)*(12)*(w/300))// + ((24-moondayL)*(0)*(k/300))//+((short*V)*(k/300))-((long*V)*(k/300))//-(90-Math.abs(lat))*(k/900)
+
+    road    = w*(moondayL)/(12) // ROAD FROM 11 TO 17  //22+(p-1)*12
+   /*-----------------------------------------------------------------------------------*/
+    //if(ml>0.1) road -= ((24-moondayL))*(1)*(k/300)
+
+    //PYRAMID ABOVE 12 to 17
+    /*-----------------------------------------------------------------------------------*/
+    //if(ml>-0.2 && ml<0.2)  road -= ((24-moondayL))*(0.5)*(k/300) //PYRAMID
+    //if(ml>-0.2 && ml<0.2) start -= ((24-moondayL))*(1)*(k/300) //PYRAMID
+    /*-----------------------------------------------------------------------------------*/
+
+    /*-----------------------------------------------------------------------------------*/
+    //if(moondayL>15)  start -= (long*(p-1)*(moondayL))*(k/300)
+    //if(moondayL>12)  start -= (long*(p-1)*(moondayL))*(w/600)
+    //if(moondayL>12)  road  -= (long*(p-1)*(moondayL))*(w/300)
+
+
+   //if(moondayL<13)  start += (short*(o)*(24-moondayL))*(w/900)
+
+   //if(moondayL<13 && moondayL>11)  road  += (short*(p)*(24-moondayL))*(w/600)+(short*(o)*(24-moondayL))*(w/600)
+
+
+   //if(moondayL>13)  road  += (long*(p)*(moondayL))*(w/600)+(long*(o)*(moondayL))*(w/600)
+
+
+ 	//if(moondayL<13)  start += (short*(o)*(24-moondayL))*(w/600)+(short*(p)*(24-moondayL))*(w/600)
+    //if(moondayL<13)  road  -= (short*(o)*(24-moondayL))*(w/600)+(short*(p)*(24-moondayL))*(w/600)
+
+
+    //if(moondayL<13)  start += (short*(o)*(24-moondayL))*(w/600)
+    //if(moondayL<13)  road  -= (short*(o)*(24-moondayL))*(w/600)
+
+
+    if((mratio).toFixed(1)==1.0) mlapse = 0
+
+    /*-----------------------------------------------------------------------------------*/
+    mformula = (mlapse)*(road)+(start)//-Math.abs(lat)*(k/300)
+   /*-----------------------------------------------------------------------------------*/
+    
+       //mformula -= (24-solarDec)*(k/300)
+
+
+	//mformula += ((moonalt/3))*(w/300)
+ 	  //if(moondayL>13) mformula += ((moonalt/4))*(w/300)
+      //if(moondayL<13) mformula += ((moonalt/4))*(k/300)
+
+
+ 	//mformula += (moonDec+24)*(w/300)
+     
+      //if(lat>60) mformula -= (lat)*(w/300)
+      //mformula += (24-solarDec)*(w/300)
+      //mformula -= (lat)*(w/600)//-(90-Math.abs(lat))*(k/600)
+      //if(lat>0) mformula -= Math.abs((0.5-sl)*90)*(k/300)
+
+      //if(lat>0) mformula += Math.abs((0.5-sl)*90)*(k/300)
+
+
+     //mformula -= ((sl)*90)*(w/300)
+
+
+
+ ML = Math.abs((moonDec-lat))
+
+
+if(ML>0 && ML<13)
+{
+        // -90 --> -180 + 180 --> 90 
+        //if(moonazm<0) mformula = (w)+(w)*(moonazm)/(90)
+        //if(moonazm>0) mformula = (w)+(w)*(moonazm)/(90)
+
+        start = ((24-moondayL)*24)*(w/300)//-(short*(24-moondayL)*3)*(w/300)
+
+    //ml = Math.abs((moonDec-lat))
+
+    //magic = (90-altitude)*(k/600)
+
+
+    MPA = (90-ML)
+
+        //moon triangle-----------------------------------------------------
+    if(moonazm<0)  {mformula = (w)-((w)-(w)*(moonalt)/(MPA)) ; mformula+=start*((MPA-moonalt)/(MPA/0.5)) }
+    if(moonazm>0)  {mformula = (w)+((w)-(w)*(moonalt)/(MPA)) ; mformula-=start*((MPA-moonalt)/(MPA/0.5)) }
+    //if(moonazm>0)  mformula = (mlapse)*(road)+(start)
+    //moon triangle-----------------------------------------------------
+
+   
+  		//mformula -= Math.abs(lat)*(w/600)
+
+         //mformula += ((moonalt/3))*(k/300)
+
+
+}
+
+
+ if(moondayL>=18 ){  //  || moondayL==24  // ARCTIC CIRCLE (65+)
+
+
+    Arc1 = 180-((moondayL*2)*(mlapse-0.5)*(moondayL/6))*(mlapse)
+    Arc2 = 180-((moondayL*2)*(mlapse-0.5)*(moondayL/6))*(mlapse)
+
+
+        if(moonazm<0) mformula = (180-(moondayL*(4-mlapse*8))+moonazm)*(w/(Arc1))//-(m*k/600)
+        if(moonazm>0) mformula = w+(moonazm)*(w/(Arc2))//-(m*w/300)
+
+            mformula += ((moonalt/3))*(w/300)
+
+
+}
+
+ 
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+    document.getElementById("moon").style.left = mformula//+(m)*(k/600)
+    //document.getElementById("moon").style.left = mformula+(moonalt/3)*(k/300)+((lat-moonDec)/2)*(o-1)*(k/200)-((lat-moonDec)/2)*(p-1)*(k/200)+(lat/1)*(k/300)
+
+    document.getElementById("moon").style.top = (window.innerHeight)-moonalt*(window.innerWidth/360)-(m/2*k)/900 
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+
+ //--------------------------------------------------------------------------------------------------//
+//document.getElementById("status").innerHTML += "\nML:"+(ML).toFixed(1)+"\nmndl:"+(mratio).toFixed(2)+"\nR:"+(moonazm).toFixed(2)+" mplapse:"+(mlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" lat:"+(lat).toFixed(1)+"<br>"
+ //--------------------------------------------------------------------------------------------------//
+
+  //document.getElementById("status").innerHTML += "\nseason:"+(md).toFixed(1)+"<br>"//+" zA:"+(n).toFixed(1)+" lat:"+(lat).toFixed(1)+"<br>" // SEASON STATUS GGG
+
+
+
+    if(sunv){
+    document.getElementById("sun").style.display = "block"
+    document.getElementById("moon").style.display = "block"
+
+    }
+
+
+
+    setTimeout(showTime, 10000);
+
+    //alert("first:"+sunalt)
+
+   clearTimeout(first);
+
+
+
+
+}
+
+var sunv = true
+//document.getElementById('news').style.display = "none";
+
+//showTime();
+
+</script>
+
+<script type="text/javascript">
+
+    function showNews(){
+
+
+
+         //document.getElementById("news").contentWindow.document.location.href="http://localhost:3003/time/flowm/index.html?loc="+loc+"&gmt="+gmt+"&v="+code;
+         
+
+
+         clearTimeout(second);
+    }
+    
+    loaded = function(){
+
+    document.getElementById("status").style.display = "block"
+    document.getElementById("wet").style.display = "block"
+
+    //document.getElementById("status2").style.display = "block"
+    //document.getElementById("sun").style.display = "none"
+    //document.getElementById("moon").style.display = "none"
+
+
+    //document.getElementById("sky").style.height =  (window.innerHeight)-50+'px';
+
+    //document.getElementById("planets").style.height =  (window.innerHeight) - document.getElementById("status").offsetHeight-50 + 'px';
+    //document.getElementById("planets").style.height =  (window.innerHeight) - document.getElementById("status").offsetHeight-50 + 'px';
+    //setTimeout(showTime, 100);
+
+    //document.getElementById('news').style.display = "none";
+    //seasoner()
+    var first = setTimeout(showTime, 100);
+    //showTime();
+
+
+    //var second = setTimeout(showNews, 900);
+   
+
+
+}
+
+
+
+function receiveMessage(event)
+{
+
+//alert("code:"+event.data[1])
+
+switch(event.data[0])
+{
+
+    case 'flag': 
+
+    document.getElementById("combo").style.display = "block";
+
+    document.getElementById("kronos").style.display = "none";
+    document.getElementById("sun").style.display = "none";
+    document.getElementById("moon").style.display = "none";
+    document.getElementById("news").style.display = "none"
+    document.getElementById("zodiac").style.display = "none";
+    document.getElementById("horoscope").style.display = "none";
+    sunv = false
+
+    //document.getElementById("combo").contentWindow.document.location.href="combo/index.html?loc="+loc+"&window.gmt="+gmt+"&v="+code;
+
+    break;
+
+
+    case 'combo': 
+
+    //code = event.data[0].toLowerCase()
+    sunv = true
+    code = event.data[1].toLowerCase()
+    gmt = event.data[2]
+
+    lat = event.data[3]
+    lng = event.data[4]
+    loc = event.data[5]
+
+    document.getElementById("kronos").style.display = "none";
+    document.getElementById("combo").style.display = "none";
+    document.getElementById("planets").style.display = "none";
+    document.getElementById("zodiac").style.display = "none";
+    document.getElementById("horoscope").style.display = "none";
+
+
+
+    //https://www.youtube.com/watch?v=FLaR_MrVNPM
+    locate(code,gmt,lat,lng,loc)
+
+    //document.getElementById("kronos").style.display = "block";
+    //showNews()
+    /* -------------------planets -------------------------------------------------------------*/
+
+    var myplanets = setTimeout(showplanets, 300);
+
+    //document.getElementById("planets").contentWindow.document.location.href="http://localhost:3003/time/astro-planets/planets.html?loc="+loc+"&gmt="+gmt+"&v="+code;
+    //document.getElementById("planets").style.top = (window.innerHeight) - document.getElementById("status").offsetHeight-50 + 'px';
+    //document.getElementById("planets").style.height =  (window.innerHeight) - document.getElementById("status").offsetHeight-60 + 'px';
+    //document.getElementById("news").style.height =  (window.innerHeight) - document.getElementById("status").offsetHeight-250 + 'px';
+    //document.getElementById("news").style.height =  ((window.innerHeight) - document.getElementById("status").offsetHeight-50)/2 + 'px';
+    //document.getElementById("planets").style.height =  (window.innerHeight) - document.getElementById("news").offsetHeight- document.getElementById("status").offsetHeight-50 + 'px';
+
+    
+   //document.getElementById("news").contentWindow.document.location.href="http://localhost:3003/time/flowm/index.html?loc="+loc+"&gmt="+gmt+"&v="+code;
+    
+    //document.getElementById("news").contentWindow.document.location.href='http://localhost:3003/news/lightslider/slide-min-trans.html?t=local&code='+code.toUpperCase();
+    //document.getElementById("news").style.width =  (window.innerWidth)  + 'px';
+    
+    showTime()
+
+
+
+    break;
+
+}
+
+//https://www.pinterest.com/pin/805299977107046311/ moon
+
+}
+
+window.addEventListener("message", receiveMessage, false); 
+
+
+function showplanets(){
+
+    //loc,gmt,code
+    //document.getElementById("planets").style.display = "block"
+
+    //40*(window.innerHeight/window.innerWidth)
+ 
+    //document.getElementById("planets").contentWindow.document.location.href="http://localhost:3003/time/astro-planets/planets.html?loc="+loc+"&gmt="+gmt+2+"&v="+code;
+    //document.getElementById("planets").style.top = (window.innerHeight) - document.getElementById("status").offsetHeight-50 + 'px';
+    document.getElementById("planets").style.height =  (window.innerHeight) - document.getElementById("status").offsetHeight-(60) + 'px';
+
+
+    //(window.innerHeight)-moonalt*(window.innerWidth/360)-(m/2*k)/900
+}
+
+
+function resizedw(){
+  
+    document.getElementById("sun").style.display = "block"
+    document.getElementById("moon").style.display = "block"
+    document.getElementById("zodiac").style.display = "block"
+
+     showTime();
+     clearTimeout(doit);
+}
+
+window.onresize = function(){
+
+    document.getElementById("sun").style.display = "none"
+    document.getElementById("moon").style.display = "none"
+    document.getElementById("zodiac").style.display = "none"
+
+ 
+  doit = setTimeout(resizedw, 600);
+
+
+}
+
+
+/*
+
+
+  resizeTimer = setTimeout(function() {
+
+    // Run code here, resizing has "stopped"
+
+            
+  }, 250);
+clearTimeout(resizeTimer);*/
+
+
+    /*
+    https://www.sciencedirect.com/science/article/pii/S2405535217300219
+    R = Range
+    Theta = Azimuth
+    Phi = 90 - Elevation
+    The conversion rules are:
+    x = R sin (phi) cos (theta)
+    y = R sin (phi) sin (theta)
+    z = R cos (phi)
+    R(final) = sqrt(x^2+y^2+z^2)
+    Theta(final) = arctan(y/x)
+    Phi(final) = arctan(sqrt(x^2+y^2)/z^2)
+    The latitude and longitude are then:
+    Lat = 90 - Phi(final)
+    Long = Theta(final)
+    */
+
+</script>
+
+
+
+</html>

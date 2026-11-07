@@ -1,0 +1,406 @@
+
+<img id="flag" class="flag" onclick="send(v)" draggable="false"/>
+<div id="MyClockDisplay" class="clock" onload="showTime()"></div>
+<div id="day" class="days"></div>
+
+
+
+ <style type="text/css">
+
+body {
+ 	overflow: hidden;
+    background: rgba(1, 1, 1, 0);
+}
+
+
+@font-face {
+  font-family: digit7;
+  src: url(../../FONTS/digital-7/digital-7.ttf);
+}
+
+
+
+.flag {
+	
+    position: absolute;
+    top: 10%;
+
+    cursor: default;
+    user-select: none;
+    position: absolute;
+    top: 45.5%;
+    left: 30px;
+    transform: translateX(-50%) translateY(-50%);
+   
+}
+
+.flag:hover {opacity: 0.3}
+
+.days {
+	
+	
+	cursor: default;
+	user-select: none;
+    position: absolute;
+    top: 45%;
+    right: -25px;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 35px;
+    text-align: center; 
+    font-family: digit7;
+    letter-spacing: 7px;
+   
+}
+
+.clock {
+	width: 50%;
+	cursor: default;
+	user-select: none;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 45%;
+    left: 50%;
+    color: #17D4FE;
+    font-size: 35px;
+    text-align: center; 
+    font-family: digit7;
+    letter-spacing: 7px;
+   
+}
+
+ </style>   
+
+ <script type="text/javascript">
+ 	
+//https://stackoverflow.com/questions/1091372/getting-the-clients-timezone-offset-in-javascript
+//console.log(Intl.DateTimeFormat().resolvedOptions().timeZone)
+//http://localhost:1337/time/digit/index.html?gmt=2&loc=ist&v=tr
+
+ 	function calcTime(city, gmt) {
+
+
+    var date = new Date();
+    var month = date.getMonth()+1;
+    var weekday = date.getDay();
+    var day = date.getDate()
+    var now = new Date();
+
+    // create Date object for current location
+    //var offset = new Date().getTimezoneOffset();
+
+	var d = new Date()
+	var n = d.getTimezoneOffset();
+	var timezone = n / -60;
+	//console.log(timezone)
+       
+     //var loc = Intl.DateTimeFormat().resolvedOptions().timeZone
+
+    //alert(gmt)
+
+    //var ogmt = new Date().getTimezoneOffset() / -60
+
+    //var utc = new Date(now.getTime() - now.getTimezoneOffset() * 6000)
+
+    var utc = date.toUTCString()//calcTime(ogmt)
+
+    utc = new Date(date)
+
+    year = date.getUTCFullYear();
+    month = date.getUTCMonth() + 1;
+    day = date.getUTCDate();
+    hour = date.getUTCHours();
+    minute = date.getUTCMinutes();
+    second = date.getUTCSeconds();
+
+
+    
+    utc = new Date(Date.UTC(year, month, day, hour-timezone, minute, second))
+    //utc2 = new Date(Date.UTC(year, month, day, hour-timezone, minute, second))
+
+
+    //utc = calcTime(ogmt+timezone)
+
+    //var offset = new Date().getTimezoneOffset();
+
+    utc = utc.getTime() + (timezone* 60000);
+
+
+    
+    // create new Date object for different city
+    // using supplied offset
+    //date = new Date(utc + (3600000*(gmt+1)));
+    x = Number(gmt)+timezone//+12-1
+
+  
+
+    date = new Date(utc + (3600000*(x)));
+
+
+
+    var h = date.getHours(); // 0 - 23
+    var h = date.getUTCHours();
+    var m = date.getMinutes(); // 0 - 59
+    var s = date.getSeconds(); // 0 - 
+
+
+
+    var session = "AM";
+    
+    if(h == 0){
+        h = 12;
+    }
+    
+    if(h > 12){
+        h = h - 12;
+        session = "PM";
+    }
+    
+    h = (h < 10) ? "0" + h : h;
+    m = (m < 10) ? "0" + m : m;
+    s = (s < 10) ? "0" + s : s;
+    
+    var time = h + ":" + m + ":" + s + " " + session;
+   //var d = new Date();
+   //d.setDate(15);ia
+    return time//date.getUTCHours()+ ":"+ date.getUTCMinutes()+ ":"+date.getUTCSeconds();
+    //date.toString()
+
+    //.toLocaleString('en-US', { timeZone: loc, hour12: true });
+   //.toLocaleString('en-US', { timeZone: 'America/New_York', hour12: true });
+  //.toLocaleTimeString({timezone: 'UTC'});
+   //toLocaleTimeString('en-US')
+
+}
+
+//alert(calcTime('London', '+1'));
+
+//alert(calcTime('Istanbul', '+2'));
+
+ 	//var usaTime = new Date().toLocaleString("en-US", {timeZone: "America/New_York"});
+	//usaTime = new Date(usaTime);
+
+	//var asiaTime = new Date().toLocaleString("en-US", {timeZone: "Asia/Shanghai"});
+	//asiaTime = new Date(asiaTime);
+	//console.log('Asia time: '+asiaTime.toLocaleString())
+	
+
+
+	var offset = new Date().getTimezoneOffset();
+
+	var d = new Date();
+	var n = d.getTimezoneOffset();
+	var timezone = n / -60;
+	//console.log(timezone);
+
+       //alert(timezone)
+       //alert(d)
+
+	//console.log(new Date().toTimeString().slice(9)); //GMT-0500 (Eastern Standard Time)
+	//console.log(Intl.DateTimeFormat().resolvedOptions().timeZone); //America/New_York
+	//console.log(new Date().getTimezoneOffset() / -60); //-5
+
+	//var loc = Intl.DateTimeFormat().resolvedOptions().timeZone
+	//var gmt = new Date().getTimezoneOffset() / -60
+
+
+ 	function showTime(){
+
+
+    var d = new Date();
+    var n = d.getTimezoneOffset();
+    var timezone = n / -60;
+    //console.log(timezone)
+    //var loc = Intl.DateTimeFormat().resolvedOptions().timeZone
+    year = date.getUTCFullYear();
+    month = date.getUTCMonth() + 1;
+    day = date.getUTCDate();
+    hour = date.getUTCHours();
+    minute = date.getUTCMinutes();
+    second = date.getUTCSeconds();
+    
+    date = new Date(Date.UTC(year, month, day, hour+timezone, minute, second))
+
+    var h = date.getHours(); // 0 - 23
+    var h = date.getUTCHours();
+    var m = date.getMinutes(); // 0 - 59
+    var s = date.getSeconds(); // 0 - 
+
+
+
+    var session = "AM";
+    
+    if(h == 0){
+        h = 12;
+    }
+    
+    if(h > 12){
+        h = h - 12;
+        session = "PM";
+    }
+    
+    h = (h < 10) ? "0" + h : h;
+    m = (m < 10) ? "0" + m : m;
+    s = (s < 10) ? "0" + s : s;
+    
+    var time = h + ":" + m + ":" + s + " " + session;
+    //document.getElementById("MyClockDisplay").innerText = time;
+
+    //alert('gmt:'+gmt)
+
+ 
+    document.getElementById("MyClockDisplay").textContent = calcTime(loc, gmt).slice(0, -2);//time//+" gmt"+gmt;
+    document.getElementById("day").textContent = calcTime(loc, gmt).slice(-2);
+    
+    setTimeout(showTime, 1000);
+    
+}
+
+
+
+function getQueryVariable(variable)
+{     
+       //decodeURIComponent()
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+}
+
+    var v = getQueryVariable("v");
+    var loc = getQueryVariable("loc");
+    var gmt = getQueryVariable("gmt");
+
+
+    var date = new Date();
+    var month = date.getMonth()+1;
+    var weekday = date.getDay();
+    var day = date.getDate()
+
+    
+    code = v
+ 
+
+
+//url2div('country-map.html?code=code','map')
+
+//alert(gmt)
+
+document.getElementById("flag").src = "../../data/flags-48/"+v.toUpperCase() +".png"
+
+
+/*
+        if(month >= 0 && month <6 ) { // 0 1 2 3 4 5 
+  if(code=='cl' || code=='br' ||code=='ar' || code=='au' || code=='nz' || code=='dk'){gmt=Number(gmt)-1}
+
+  if(code=='us' ||  code=='de' || code=='no' || code=='gb' || code=='gr'  || code=='tr' || code=='sa' || code=='ir' || code=='fr' ||  code=='no' ||code=='fi'  || code=='il'){gmt=Number(gmt)+1}
+}
+
+*/
+
+
+
+showTime();
+
+
+
+window.send = function(message) {
+                    
+                    //message = message.split(',');
+                    //swal(message[0])
+                    message = ['flag',message]
+         
+                    if (parent) {
+                        //swal("message:"+parent.name);
+                        //var message = document.querySelector('#textOutput').value;
+                        parent.postMessage(message, '*');
+                        
+                            }
+                }
+                
+                
+
+
+function receiveMessage(event)
+{
+
+//alert("code:"+event.data[0])
+
+loc = event.data[0]
+gmt = event.data[1]
+code = event.data[2]
+
+    var date = new Date();
+    var month = date.getMonth()+1;
+    var weekday = date.getDay();
+    var day = date.getDate()
+
+    
+
+    //if(month >= 5 && code=='nz') {gmt=(gmt)-1}
+    //if(month >= 5 )  { if(code=='nz' || code=='cl' ){gmt=Number(gmt)-1}}
+/*
+if(code=='cn'  || code=='ir'){gmt=Number(gmt)+1}
+
+ if(month >= 3 && month <6 ) {if(code=='us'  || code=='no' ){gmt=Number(gmt)+1} }
+
+    if(month >= 5 && month <9 ) { 
+  if(code=='cl' || code=='br' ||code=='ar' || code=='au' || code=='nz' ){gmt=Number(gmt)-1}
+
+  if(code=='us' || code=='de' || code=='no' || code=='gb' || code=='gr'  || code=='tr' || code=='sa' || code=='ir' || code=='fr' ||  code=='no' ||code=='fi'  || code=='il'){gmt=Number(gmt)+1}
+}
+ 
+    if(month >= 8 && month <12) {
+  if(code=='ir' ){gmt=Number(gmt)-1}
+ if(code=='us'  || code=='no' || code=='tr'|| code=='sa'  || code=='ir' || code=='jp' || code=='aq' ||code=='nz' || code=='cl' || code=='br' ||code=='ar'){gmt=Number(gmt)+1} 
+
+
+
+}
+*/
+
+
+document.getElementById("flag").src = "../../data/flags-48/"+code.toUpperCase() +".png"
+
+//alert(gmt)
+
+//calcTime(loc,gmt)
+
+        if(month >= 0 && month <6 ) { // 0 1 2 3 4 5 
+  if(code=='cl' || code=='br' ||code=='ar' || code=='au' || code=='nz' || code=='dk'){gmt=Number(gmt)-1}
+
+  if(code=='us' ||  code=='de' || code=='no' || code=='gb' || code=='gr'  || code=='al' || code=='sa' || code=='ir' || code=='fr' ||  code=='no' ||code=='fi'  || code=='il'){gmt=Number(gmt)+1}
+}
+
+        if(month >= 6 && month <9 ) { // 6 7 8
+  if(code=='cl' || code=='br' ||code=='ar' || code=='au' || code=='nz'   || code=='tr' || code=='sa' ){gmt=Number(gmt)-1}
+
+  if(code=='us' ||  code=='cl' || code=='br' || code=='de' || code=='no' || code=='gb' || code=='gr'  || code=='tr' || code=='sa' || code=='ir' || code=='fr' ||  code=='no' ||code=='fi'  || code=='il' || code=='mx'){gmt=Number(gmt)+1}
+}
+
+        if(month <= 12 && month >=9 ) { // 9 10 11
+  if( code=='br' ||code=='ar' || code=='au' || code=='nz'  || code=='tr' || code=='sa' ){gmt=Number(gmt)-1}
+
+  if(code=='us' ||  code=='cl' || code=='br' || code=='de' || code=='no' ||code=='nz'  || code=='gb' || code=='gr'  || code=='tr' || code=='sa' || code=='ir' || code=='fr' ||  code=='no' ||code=='fi'  || code=='il' || code=='mx'){gmt=Number(gmt)+1}
+}
+
+
+showTime()
+
+}
+
+
+
+
+
+
+window.addEventListener("message", receiveMessage, false); 
+
+
+//window.addEventListener("click", event => {alert('ss')});
+
+ </script>
+ 

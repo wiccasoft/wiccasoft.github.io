@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the timedifference between UTC and local time.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/suncalc/1.8.0/suncalc.js" integrity="sha512-6ZyWfJ/Z0dBzRWvmSO0HyX0OamGPkBJp82d74XTxhhGkGrrkB9rYfsJ/hE2mZ3rZmqIb9ZLqyOZA2l/DUzsh7Q==" crossorigin="anonymous"></script>
+
+<script>
+
+function myFunction() {
+
+  var gmt = 2
+  var d = new Date();
+  var n = d.getTimezoneOffset();
+  
+     var date = new Date();
+    var month = date.getMonth()+1;
+    var weekday = date.getDay();
+    var day = date.getDate()
+    var now = new Date();
+
+    // create Date object for current location
+    var offset = new Date().getTimezoneOffset();
+
+	var d = new Date();
+	var n = d.getTimezoneOffset();
+	var timezone = n / -60;
+	//console.log(timezone)
+
+	//var loc = Intl.DateTimeFormat().resolvedOptions().timeZone
+
+    var ogmt = new Date().getTimezoneOffset() / -60
+
+    var utc = new Date(now.getTime() - now.getTimezoneOffset() * 6000)
+
+    var utc = date.toUTCString()//calcTime(ogmt)
+
+    utc = new Date(utc)
+
+    year = date.getUTCFullYear();
+    month = date.getUTCMonth() + 1;
+    day = date.getUTCDate();
+    hour = date.getUTCHours();
+    minute = date.getUTCMinutes();
+    second = date.getUTCSeconds();
+    
+    utc = new Date(Date.UTC(year, month, day, hour-timezone, minute, second))
+    //utc2 = new Date(Date.UTC(year, month, day, hour-timezone, minute, second))
+
+    //utc = calcTime(ogmt+timezone)
+
+    var offset = new Date().getTimezoneOffset();
+
+    utc = utc.getTime() + (timezone* 60000)//+ (3600000*(gmt));
+    
+    // create new Date object for different city
+    // using supplied offset
+    //date = new Date(utc + (3600000*(gmt+1)));
+    x = Number(gmt)//+12-1
+    date = new Date(utc + (3600000*(x)));
+    
+    
+    var lat = 41
+    var lng = 29
+    
+    
+     var suntimes = SunCalc.getTimes(utc, lat, lng, true);
+     var moontimes = SunCalc.getMoonTimes(utc, lat, lng, true);
+     
+     var sunrise = (suntimes.sunrise.toUTCString()).slice(-12, -7);//alert(sunrise)
+     
+      var moonrise = (moontimes.rise.toUTCString()).slice(-12, -7); 
+     
+     
+      var  sunPos = SunCalc.getPosition(utc, lat, lng) ;
+    var moonPos = SunCalc.getMoonPosition(utc, lat, lng);
+    
+    
+        var moonAzimuth = moonPos.azimuth*180/Math.PI;
+    var moonalt = (moonPos.altitude*180/Math.PI).toFixed(2)
+    var moonazm = (moonPos.azimuth*180/Math.PI )
+
+
+    moonpa =  moonPos.parallacticAngle
+ 
+    //const sunrise = sun.getSunrise(lat, lng);
+    //const sunset = sun.getSunset(lat, lng);
+    //console.log("date:"+date.toUTCString())
+    //https://pngtree.com/free-sun-png
+    //http://pngimg.com/imgs/nature/sun/
+    // get sunrise azimuth in degrees
+    sunAzimuth = sunPos.azimuth*180/Math.PI;
+    var sunalt = (sunPos.altitude*180/Math.PI)
+    var sunazm = (sunPos.azimuth)*180/Math.PI
+     
+  document.getElementById("demo").innerHTML = sunazm;
+}
+</script>
+
+</body>
+</html>

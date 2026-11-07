@@ -1,0 +1,28 @@
+https://stackoverflow.com/questions/10659523/how-to-get-the-exact-local-time-of-client
+
+https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d
+
+In JavaScript? Just instantiate a new Date object
+
+var now = new Date();
+That will create a new Date object with the client's local time.
+
+
+Nowadays you can get correct timezone of a user having just one line of code:
+
+const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat/resolvedOptions
+
+You can then use moment-timezone to parse timezone like:
+
+const currentTime = moment().tz(timezone).format();
+
+
+If you want to know the timezone of the client relative to GMT/UTC here you go:
+
+var d = new Date();
+var tz = d.toString().split("GMT")[1].split(" (")[0]; // timezone, i.e. -0700
+If you'd like the actual name of the timezone you can try this:
+
+var d = new Date();
+var tz = d.toString().split("GMT")[1]; // timezone, i.e. -0700 (Pacific Daylight Time)
