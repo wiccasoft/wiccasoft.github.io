@@ -2773,6 +2773,10 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
     // Gece resmini de karanlığa gömüyoruz ki alttan sızıntı yapmasın:
     //salvadorElement.style.setProperty('filter', 'brightness(0.5)', 'important');
 
+    const metatronIframe = document.querySelector('.metatron-iframe');
+    metatronIframe.style.setProperty('opacity', bprogress1, 'important');
+           
+
     monaZIndex = "2";
     salvadorZIndex = "1";
 }// 🎯 2. VİTES [24 - 39. ODALAR]: İkindi'den Akşam Alacakaranlığına Geçiş
@@ -2839,7 +2843,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         let bprogress2 =  1.1 - ((sunRoom64 - 38)/12) ;
         
         metatronIframe.style.setProperty('opacity', bprogress2/2, 'important');
-        salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')', 'important');
+        //salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')', 'important');
     }
 
     else if (sunRoom64 >= 51 && sunRoom64 <= 60) {
@@ -4795,16 +4799,16 @@ function updateWiccaDock() {
         let waterIn = `<div style="color:#64b7f6; text-shadow:0 0 8px #6abdd2; font-weight:bold; display:flex; align-items:center; gap:4px; ${currentActiveElement !== 'water' ? 'opacity:0.4;' : ''}"><span style="font-size:13px;">${elements[3]}</span><span>${waterVal}</span></div>`; 
 
         // 🔴 1. KUTU: ATEŞ (LIB) - Kırmızı
-        window.barPos1 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #ff1a1a; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #ff1a1a, inset 0 0 5px #ff1a1a; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${fireIn}</span></div>`;
+        window.barPos1 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #ff1a1a; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #ff1a1a, inset 0 0 5px #ff1a1a; min-width:50px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${fireIn}</span></div>`;
         
         // 🜁 2. KUTU: HAVA (CAN) - Parlak Sarı / Turuncu Dengesi
-        window.barPos3 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #ff9900; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #ff9900, inset 0 0 5px #ff9900; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${airIn}</span></div>`;
+        window.barPos3 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #ff9900; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #ff9900, inset 0 0 5px #ff9900; min-width:50px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${airIn}</span></div>`;
         
         // 🪵 3. KUTU: TOPRAK (CAP) - Canlı Yeşil
-        window.barPos2 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #00ff66; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #00ff66, inset 0 0 5px #00ff66; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${earthIn}</span></div>`;
+        window.barPos2 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #00ff66; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #00ff66, inset 0 0 5px #00ff66; min-width:50px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${earthIn}</span></div>`;
         
         // 💧 4. KUTU: SU (ARI - Antipod) - Derin Mavi
-        window.barPos4 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #0066ff; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #0066ff, inset 0 0 5px #0066ff; min-width:75px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${waterIn}</span></div>`;
+        window.barPos4 = `<div class="micro-gate" style="display:inline-flex; justify-content:center; align-items:center; border: 1px solid #0066ff; background: rgba(0,0,0,0.55); border-radius: 4px; box-shadow: 0 0 10px #0066ff, inset 0 0 5px #0066ff; min-width:50px; height:32px;"><span style="font-family:monospace; white-space:nowrap;">${waterIn}</span></div>`;
             // =========================================================================
                 // 🌙 5. KUTU: AY (MOON) - EVRENSEL GERÇEK ZAMANLI ENJEKSİYON
                 // =========================================================================
