@@ -2,208 +2,109 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <!-- 📱 MOBİL UYUMLULUK KALKANI: Küçük kalma sorununu kökten çözer -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <title>Vanilla Calendar</title>
-
 
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="src/css/vanilla-calendar-min.css">
         <script src="src/js/vanilla-calendar-min.js"></script>
     </head>
 
-    <body onload="fadeIn(this)"  draggable="false">
+    <body onload="fadeIn(this)" draggable="false">
 
 <style>
-
 body {
- overflow: hidden;
-  
-/*
- background-image: linear-gradient(rgba(0,130,170,.5),rgba(0,130,170,.5)),url("../purple-starry-sky.jpg");
- background-color: #cccccc;
-
- filter: grayscale(0%);
- background: linear-gradient(purple, violet);
- background-repeat: no-repeat;
- background-attachment: fixed; 
- background-size: cover; 
- background-position: 0 0 0 0px;
- padding-bottom: 100px
- margin-top: 0px;
- */
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #0D0D11; /* Siber arka plan */
 }
 
-.bg{position:absolute;object-fit: cover;width:100%;height:100%;left:0px;top:0px;z-index:-1;}
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
 
+/* 🎯 TAKVİMİ EKRANA GÖRE BÜYÜTME VE YAYMA MOTORU */
+.vanilla-calendar {
+  width: 100% !important;   /* Genişliği mobile tam yayar */
+  box-sizing: border-box;
+  background: #16161F !important; /* Alt bar rengiyle uyumlu siber koyuluk */
+  border: none !important;
+}
+
+/* Kütüphanenin gün hücrelerini mobil parmak basımına uygun büyütebilirsin aga */
+.vanilla-calendar .vanilla-calendar-date {
+  padding: 12px 0 !important; 
+  font-size: 14px !important;
+}
+
+.bg {
+  position: absolute;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
 </style>
+
         <div class="content">
-
+            <!-- Üstteki gökyüzü animasyonu veya siber alanı kapsar -->
+            <iframe id="sky" src="sky.html" onload="resizeIframe(this)" style="display:none; width:100%; border: 0; overflow: hidden;"></iframe>
             
-            <iframe id="sky" src="sky.html" onload="resizeIframe(this)" style="display:none; width:100%;height:auto;border: 0;overflow: hidden;" ></iframe>
-            
-            <div id="myCalendar" class="vanilla-calendar" style="display:none;bottom: 0;height: 650px"></div>
-
-            <!--<iframe id="news" src="../flow.html" style="display:none;width: 100%;height: 50px;border: 0;"></iframe>-->
-            
-            
-          
+            <!-- Takvim Alanı -->
+            <div id="myCalendar" class="vanilla-calendar" style="display:none; margin-top: auto;"></div>
         </div>
-  
 
   <script>
-
-window.onload = function()
-{
-
-
-    document.getElementById("sky").style.width = (window.innerWidth)  + 'px';
-    document.getElementById("sky").style.height = (window.innerHeight) - 610 - 50 + 'px';
-    document.getElementById("myCalendar").style.height = 360 + 'px';
-    document.getElementById("myCalendar").style.display = "block"
-    //document.getElementById("news").style.display = "block"
-
-
+window.onload = function() {
+    // 🧠 MOBİL EKRAN ORANLAMA DİNAMİĞİ
+    // Takvimi en alta yaslayıp kalan tüm üst alanı sky.html siber animasyonuna bırakıyoruz aga
+    document.getElementById("sky").style.width = '100%';
+    document.getElementById("sky").style.height = (window.innerHeight - 380) + 'px'; // 380px takvime ayrıldı
     
-    }
-
-
-  function resizeIframe(obj) {
-    //obj.contentWindow.document.body.scrollHeight + 'px';
-    obj.style.display = "block";
-    obj.style.height =  (window.innerHeight) - 10 - 0 + 'px'; //full view
-    obj.style.width = (window.innerWidth)  + 'px';
-  }
-            
-window.onresize = function(){
-
-    document.getElementById("sky").style.width = (window.innerWidth) + 'px';
-    document.getElementById("sky").style.height = (window.innerHeight) - 310 - 50 + 'px';
-    //document.getElementById("myCalendar").style.height = 310 + 'px';
+    document.getElementById("myCalendar").style.display = "block";
 }
 
+function resizeIframe(obj) {
+    obj.style.display = "block";
+    // Eğer sky tam ekran olacaksa alt satır kalabilir, yoksa yükseklik yukarıdaki window.onload'dan yönetiliyor
+    obj.style.width = '100%';
+}
+            
+window.onresize = function() {
+    document.getElementById("sky").style.height = (window.innerHeight - 380) + 'px';
+}
 
 window.fadeIn = function(obj) {
-    ///swal('fade')
-    //document.getElementById(obj).style.display = "block";
-    //document.getElementById(obj).style.objectFit = "cover";
-    //background-image: linear-gradient(red, yellow, green);
-    //document.getElementById("sky").height = "580px"//window.innerHeight/2
-
     $(obj).toggleClass('bg');
-    
     $(obj).fadeIn(666);
-
-    //var div_height = $(obj).parent().height();
-    //$(obj).css({'width': 'auto', 'height': div_height });
-    //Grunge-Abstract-Wallpaper-1080x1920
-    //Blue-Cube.jpg
-    //Dark-Abstract82.jpg
-    //8c09e16936cae36afb3419fa90c139b4
-
-    //https://wallpapers.party/10542/
-    //https://wallpapers.party/media/2018/05/cute-412.jpg
-
-    //https://www.3wallpapers.fr/wp-content/uploads/2012/07/Blue-Cube-3Wallpapers.jpg
-    //http://hd-wallpapersfd.info/wp-content/uploads/HTML/Dark-Abstract/Dark-Abstract82.jpg
-    //https://i.pinimg.com/736x/8c/09/e1/8c09e16936cae36afb3419fa90c139b4--iphone--wallpaper-black-wallpaper-art.jpg
-    //https://i.pinimg.com/originals/8c/09/e1/8c09e16936cae36afb3419fa90c139b4.jpg
-    //https://wallpapers.party/media/2018/10/amoled-dark-195.jpg
-    //https://wallpapers.party/media/2018/06/city-28.jpg
 }
-            function calcTime(offset) {
 
-                // create Date object for current location
-                d = new Date();
-                
-                // convert to msec
-                // add local time zone offset 
-                // get UTC time in msec
-                utc = d.getTime() + (d.getTimezoneOffset() * 60000);
-                
-                // create new Date object for different city
-                // using supplied offset
-                nd = new Date(utc + (3600000*offset));
-                //return nd.toLocaleTimeString('en-US').slice(0, -2);
-                // return time as a string
-                //return "The local time in " + city + " is " + nd.toLocaleString();
-                return nd;
-            }
+function calcTime(offset) {
+    d = new Date();
+    utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+    nd = new Date(utc + (3600000 * offset));
+    return nd;
+}
 
-            //alert(calcTime('+2'))
-
-            let pastDates = true, availableDates = false, availableWeekDays = false
+let pastDates = true, availableDates = false, availableWeekDays = false
             
-            let calendar = new VanillaCalendar({
-                selector: "#myCalendar", 
-                date: new Date(calcTime('+2')),
-                todaysDate: new Date(calcTime('+2')),
-                months: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
-                shortWeekday: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
-                onSelect: (data, elem) => {
-                    console.log(data, elem)
-                }
-            })
-
-            //calendar.set('2020-11-09')
-            //calendar.gotoDate(new Date(2014, 1,13))
-            //calendar.set({date: '2019-11-15'});
-            //calendar.set(new Date(calcTime('+2')))
-            
-            let btnPastDates = document.querySelector('[name=pastDates]')
-/*
-            btnPastDates.addEventListener('click', () => {
-                pastDates = !pastDates
-                calendar.set({pastDates: pastDates})
-                btnPastDates.innerText = `${(pastDates ? 'Disable' : 'Enable')} past dates`
-            })
-            */
-            let btnAvailableDates = document.querySelector('[name=availableDates]')
-/*
-            btnAvailableDates.addEventListener('click', () => {
-                availableDates = !availableDates
-                btnAvailableDates.innerText = `${(availableDates ? 'Clear available dates' : 'Set available dates')}`
-                if (!availableDates) {
-                    calendar.set({availableDates: [], datesFilter: false})
-                    return
-                }
-                let dates = () => {
-                    let result = []
-                    for (let i = 1; i < 15; ++i) {
-                        if (i % 2) continue
-      
-                        let date = new Date(new Date().getTime() + (60 * 60 * 24 * 1000) * i)
-
- 
-                        result.push({date: `${String(date.getFullYear())}-${String(date.getMonth() + 1).padStart(2, 0)}-${String(date.getDate()).padStart(2, 0)}`})
-                    }
-                    return result
-                }
-                calendar.set({availableDates: dates(), availableWeekDays: [], datesFilter: true})
-            })
-            */
-
-            let btnAvailableWeekDays = document.querySelector('[name=availableWeekDays]')
-
-/*
-            btnAvailableWeekDays.addEventListener('click', () => {
-                availableWeekDays = !availableWeekDays
-                btnAvailableWeekDays.innerText = `${(availableWeekDays ? 'Clear available weekdays' : 'Set available weekdays')}`
-                if (!availableWeekDays) {
-                    calendar.set({availableWeekDays: [], datesFilter: false})
-                    return
-                }
-                let days = [{
-                    day: 'monday'
-                }, {
-                    day: 'tuesday'
-                }, {
-                    day: 'wednesday'
-                }, {
-                    day: 'friday'
-                }]
-                calendar.set({availableWeekDays: days, availableDates: [], datesFilter: true})
-            })
-
-*/
+let calendar = new VanillaCalendar({
+    selector: "#myCalendar", 
+    date: new Date(calcTime('+2')),
+    todaysDate: new Date(calcTime('+2')),
+    months: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+    shortWeekday: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
+    onSelect: (data, elem) => {
+        console.log(data, elem)
+    }
+})
         </script>
     </body>
 </html>
