@@ -282,7 +282,7 @@ function getQueryVariable(variable)
 
     
     code = v
- 
+  
 
 
 //url2div('country-map.html?code=code','map')
@@ -338,7 +338,7 @@ code = event.data[2]
     var weekday = date.getDay();
     var day = date.getDate()
 
-    
+    code="TR"
 
     //if(month >= 5 && code=='nz') {gmt=(gmt)-1}
     //if(month >= 5 )  { if(code=='nz' || code=='cl' ){gmt=Number(gmt)-1}}
@@ -363,7 +363,7 @@ if(code=='cn'  || code=='ir'){gmt=Number(gmt)+1}
 */
 
 
-document.getElementById("flag").src = "../../data/flags-48/"+code.toUpperCase() +".png"
+document.getElementById("flag").src = "../../data/flags/"+code.toUpperCase() +".png"
 
 //alert(gmt)
 
