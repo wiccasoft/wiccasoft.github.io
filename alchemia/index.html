@@ -2845,7 +2845,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
 
         let bprogress2 =  1.1 - ((sunRoom64 - 38)/12) ;
         
-        metatronIframe.style.setProperty('opacity', bprogress2/2, 'important');
+        metatronIframe.style.setProperty('opacity', '0.7', 'important');
         //salvadorElement.style.setProperty('filter', 'brightness('+bprogress2+')', 'important');
     }
 
@@ -2855,6 +2855,10 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         targetSalvadorOpacity = 1.0;           
         pendulumStatus = "🔵 [LILITHE] Sympathetic RISE";
         dayStg = "🔵 RESURECTION (CHARGE)";
+
+        const metatronIframe = document.querySelector('.metatron-iframe');
+        metatronIframe.style.setProperty('opacity', '0.5', 'important');
+        
         
     }
     // 🎯 4. VİTES [51 - 64. ODALAR]: Gece Yarısından After Midnight ve Şafağa
@@ -2869,10 +2873,13 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
 
         monaElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
         salvadorElement.style.setProperty('transition', 'opacity 1s ease-in-out', 'important');
+
+        const metatronIframe = document.querySelector('.metatron-iframe');
+        metatronIframe.style.setProperty('opacity', '0.5', 'important');
         
         // Şafak sökerken yavaşça katmanları eşitliyoruz
-        monaZIndex = "10";
-        salvadorZIndex = "10";
+        monaZIndex = "2";
+        salvadorZIndex = "1";
     }
 
     // Emniyet sınırları kilidi (0.0 - 1.0)
