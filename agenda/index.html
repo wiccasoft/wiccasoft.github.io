@@ -28,18 +28,34 @@ body {
   width: 100vw;
 }
 
-/* 🎯 TAKVİMİ EKRANA GÖRE BÜYÜTME VE YAYMA MOTORU */
+/* 🎯 TAKVİMİN MOBİL GENİŞLEME MOTORU */
 .vanilla-calendar {
-  width: 100% !important;   /* Genişliği mobile tam yayar */
+  width: 100% !important;
+  height: 420px !important; /* 👈 Takvimin dikey havuzunu 420px'e çıkardık aga */
   box-sizing: border-box;
-  background: #16161F !important; /* Alt bar rengiyle uyumlu siber koyuluk */
+  background: #16161F !important;
   border: none !important;
 }
 
-/* Kütüphanenin gün hücrelerini mobil parmak basımına uygun büyütebilirsin aga */
+/* Gün isimlerinin (DOM, SEG...) satır yüksekliği */
+.vanilla-calendar .vanilla-calendar-week {
+  background-color: #0D0D11 !important;
+  padding: 8px 0 !important;
+}
+
+/* 🎯 SAYILARIN HÜCRE GENİŞLİĞİ: Üst üste binmeyi bitiren kritik dokunuş */
 .vanilla-calendar .vanilla-calendar-date {
-  padding: 12px 0 !important; 
+  height: 48px !important;    /* 👈 Her güne 48px dikey alan verdik */
+  line-height: 48px !important; /* Yazıyı dikeyde ortalar */
   font-size: 14px !important;
+  color: #888899 !important;
+}
+
+/* Seçili günün (Mavi Kutunun) siber optimizasyonu */
+.vanilla-calendar .vanilla-calendar-date--selected {
+  background-color: #BB86FC !important; /* 🔮 Seçili günü mor siber renge çektik */
+  color: #000000 !important;
+  border-radius: 8px !important;
 }
 
 .bg {
