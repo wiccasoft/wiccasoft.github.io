@@ -536,7 +536,7 @@ body.wicca-lunar-quarter:not(.wicca-lilith-active) [style*="border: 1px solid #c
     width: 99% !important;
     max-width: 400px !important; /* Masaüstünde taşmasını engelleyen katı sınır */
     
-    top: 41.9% !important;
+    top: 42.9% !important;
     left: 50.5% !important;
     transform: translate(-50%, -50%) scale(0.8)!important;
     object-fit: contain;
@@ -2808,7 +2808,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         salvadorElement.style.setProperty('opacity', bprogress2, 'important'); 
 
         
-        metatronIframe.style.setProperty('opacity', 1.5-(bprogress2/3), 'important');
+        metatronIframe.style.setProperty('opacity', 1.5-(bprogress2), 'important');
            
 
         //let dynamicLeft = 52 - (progress * 1); 
@@ -3042,7 +3042,7 @@ if (compassFrame) {
     // 🔥 3. EVRE: GÜNEY (16 - 24) ── RUBEDO
     else if (sunRoom64 >= 11 && sunRoom64 < 24) {
         yon = "SOUTH (Güney)";
-        pendulumStatus = "❤️ SIGMA PEAK: QRS Complex | Ventricular Depolarization";
+        pendulumStatus = "❤️ SIGMA PEAK: | Ventricular Depolarization";//QRS Complex
         alchemyPhase = { 
             element: "Ateş 🔥",
             trigram: staticTrigrams[4], // ☰ Qian Trigramı (Zirve)
