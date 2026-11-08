@@ -1679,9 +1679,9 @@ setInterval(() => {
             sirkadiyenButonIndex = 4; // 🍊 Room 32-38 -> AKŞAM BATIŞ KAPISI! (.air-gate)
         } else if (currentTargetRoom >= 37 && currentTargetRoom <= 44) {
             sirkadiyenButonIndex = 5; // 🌌 Room 39-45 -> AFTER LAST SUPPER [GECEYE GİRİŞ]! (.ether-gate)
-        } else if (currentTargetRoom >= 45 && currentTargetRoom <= 53) {
+        } else if (currentTargetRoom >= 45 && currentTargetRoom <= 54) {
             sirkadiyenButonIndex = 6; // 💧 Room 46-50 -> MIDNIGHT DİP KAPI [YIN DERİNLİK]! (.water-gate)
-        }  else if (currentTargetRoom >= 53 && currentTargetRoom <= 61) {
+        }  else if (currentTargetRoom >= 54 && currentTargetRoom <= 61) {
             sirkadiyenButonIndex = 7; // 🪙 AFTER MIDNIGHT [ŞAFAK AKSAL]! (.metal-gate)
         } else {
             // Güvenlik duvarı: Eğer 0-64 dışında saçma bir oda numarası gelirse sıfırlas
@@ -3122,7 +3122,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }
     // 🌊 7. EVRE: KUZEY (45 - 56) ── NIGREDO
-    else if (sunRoom64 >= 45 && sunRoom64 < 53) {
+    else if (sunRoom64 >= 45 && sunRoom64 < 55) {
         yon = "NORTH (Kuzey)";
         pendulumStatus = "🔵 SYS OMEGA CLEANSE: Diastolic Purification";
         alchemyPhase = { 
@@ -3145,7 +3145,7 @@ if (compassFrame) {
         compassFrame.style.boxShadow = "0 0 15px rgba(0, 127, 255, 0.25)";
     }
     // 🔋 8. GEÇİŞ: KUZEYDOĞU (56 - 61) ── PRIME / CHARGE
-    else if (sunRoom64 >= 53 && sunRoom64 <= 61) { // 61 yerine tam çembere çektim
+    else if (sunRoom64 >= 54 && sunRoom64 <= 61) { // 61 yerine tam çembere çektim
         yon = "NORTHEAST (Kuzeydoğu)";
         pendulumStatus = "🔵 T Wave | Ventricular Repolarization Complete";
         alchemyPhase = {
