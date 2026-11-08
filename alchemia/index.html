@@ -1131,7 +1131,7 @@ window.WICCA_STATE = {
         if (window.isTimeBended && typeof window.currentCalculatedRoom !== 'undefined') {
             return window.currentCalculatedRoom;
         }
-        // Eğer window.sunRoom64 varsa onu al, yoksa kendi içindeki güvenli 48'i kullan aga
+
         return typeof window.sunRoom64 !== 'undefined' ? window.sunRoom64 : this.sunRoom64;
     },
 
@@ -2808,7 +2808,7 @@ if (sunRoom64 >= 0 && sunRoom64 <= 23) {
         salvadorElement.style.setProperty('opacity', bprogress2, 'important'); 
 
         
-        metatronIframe.style.setProperty('opacity', bprogress2/3, 'important');
+        metatronIframe.style.setProperty('opacity', 1.5-(bprogress2/3), 'important');
            
 
         //let dynamicLeft = 52 - (progress * 1); 
