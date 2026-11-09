@@ -2599,21 +2599,21 @@ function starTrek() {
 
     //let baseBottom = 10; // Alttan sabit 50 piksel yükseklikte kilitler
 
-    let baseBottom = (dayL * 1.5);
+    let baseBottom = (dayL * 2.5);
 
     baseBottom -= (window.innerHeight * 0.1) - (window.innerWidth * 0.1);
 
     // --- ELİPS YARIÇAPLARI ---
     let radiusX = zScale * 1.8; 
     let dayRatio = dayL / 12; 
-    let radiusY = radiusX * (0.6 + (dayRatio * 0.3));
+    let radiusY = radiusX * (0.7 + (dayRatio * 0.3));
 
     // --- GÜNEY YARIMKÜRE KONTROLÜ (Ters Yön) ---
     let hemisDir = (lat < 0) ? -1 : 1;
 
     // 3. GÜN İÇİ İLERLEME VE GÜNLÜK KAYMA (Enleme göre yönlü)
-    let dayProgressAngle = (typeof dlapse !== 'undefined' ? dlapse : 0) * 180 * hemisDir; 
-    let wheelOffset = -60 + (day * hemisDir);
+    let dayProgressAngle = (typeof dlapse !== 'undefined' ? dlapse : 0) * 180 //* hemisDir; 
+    let wheelOffset = -60 + (day );
 
     // 12 Burç için renk paleti (Dışarıdan verilecek renkler)
     const zodiacColors = {
