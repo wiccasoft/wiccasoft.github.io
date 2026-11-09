@@ -18,7 +18,7 @@ body {
   overflow: hidden;
   margin: 0;
   padding: 0;
-  background-color: #000000; /* Saf siyah yaptık */
+  background-color: #0D0D11; /* Siber arka plan */
 }
 
 .content {
@@ -85,6 +85,13 @@ body {
     background-color: #16161F !important; /* Takvimin kendi arka planıyla aynı renk */
     color: #333344 !important;           /* Sayıları da neredeyse görünmez veya koyu yapabilirsin */
     opacity: 0.2 !important;
+}
+
+/* 🗓️ Takvimde ayın bittiği yerdeki pasif/boş gün kutucuklarını arkaplanla birleştirme */
+.vanilla-calendar .vanilla-calendar-date--disabled {
+    background-color: #16161F !important; /* Takvimin kendi arkaplan rengiyle birebir aynı */
+    opacity: 0 !important;               /* Tamamen görünmez yapar */
+    pointer-events: none !important;     /* Tıklanmasını engeller */
 }
 
 .bg {
