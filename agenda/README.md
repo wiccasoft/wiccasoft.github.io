@@ -1,1 +1,1 @@
-# sky with JS Vanilla calendar
+# Sky with Vanilla Calendar
