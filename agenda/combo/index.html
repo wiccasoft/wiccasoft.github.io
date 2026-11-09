@@ -237,7 +237,7 @@ for(i in locs){
     innerImg.className = 'flag';
     innerImg.id = locs[i].code;
     innerImg.i = i;
-    innerImg.src = "../../data/flags-48/"+locs[i].code.toUpperCase()+".png"
+    innerImg.src = "../../data/flags/"+locs[i].code.toUpperCase()+".png"
     innerImg.onclick = function () { send([this.id,locs[this.i].gmt,locs[this.i].lat,locs[this.i].lng,locs[this.i].loc])}; 
 
 
