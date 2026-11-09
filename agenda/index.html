@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <!-- 📱 MOBİL UYUMLULUK KALKANI: Küçük kalma sorununu kökten çözer -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <title>Vanilla Calendar</title>
+        <title>AGENDA</title>
 
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="src/css/vanilla-calendar-min.css">
@@ -37,25 +37,46 @@ body {
   border: none !important;
 }
 
-/* Gün isimlerinin (DOM, SEG...) satır yüksekliği */
-.vanilla-calendar .vanilla-calendar-week {
+/* 🎯 OK/YÖN BUTONLARI (BAYRAKLAR) VE ÜST PANEL OPTİMİZASYONU */
+.vanilla-calendar .vanilla-calendar-header {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 12px 16px !important;
   background-color: #0D0D11 !important;
-  padding: 8px 0 !important;
 }
 
-/* 🎯 SAYILARIN HÜCRE GENİŞLİĞİ: Üst üste binmeyi bitiren kritik dokunuş */
+/* Gizlenen veya küçük kalan ileri/geri butonlarını görünür ve siber mor yapıyoruz aga */
+.vanilla-calendar .vanilla-calendar-btn {
+  display: inline-block !important;
+  color: #BB86FC !important; /* Ok renkleri mor */
+  font-size: 20px !important;  /* Ok boyutları büyütüldü */
+  font-weight: bold !important;
+  cursor: pointer !important;
+  padding: 8px !important;
+  z-index: 10 !important;
+}
+
+/* 📅 AY VE YIL BAŞLIĞI FONTU (NOVEMBRO 2026) */
+.vanilla-calendar .vanilla-calendar-header__label {
+  font-size: 18px !important;  /* Başlık fontu büyütüldü */
+  font-weight: 700 !important;
+  color: #FFFFFF !important;  /* Tam beyaz parlaklık */
+  letter-spacing: 1px !important;
+}
+
+/* 🗓️ HAFTANIN GÜNLERİ FONTU (DOM, SEG, TER...) */
+.vanilla-calendar .vanilla-calendar-week-day {
+  font-size: 14px !important;  /* Gün kısaltmaları büyütüldü */
+  font-weight: bold !important;
+  color: #BB86FC !important;  /* Siber temaya uygun mor font */
+}
+
+/* 🔢 AYIN GÜNLERİ (SAYILAR) FONTU */
 .vanilla-calendar .vanilla-calendar-date {
-  height: 48px !important;    /* 👈 Her güne 48px dikey alan verdik */
-  line-height: 48px !important; /* Yazıyı dikeyde ortalar */
-  font-size: 14px !important;
-  color: #888899 !important;
-}
-
-/* Seçili günün (Mavi Kutunun) siber optimizasyonu */
-.vanilla-calendar .vanilla-calendar-date--selected {
-  background-color: #BB86FC !important; /* 🔮 Seçili günü mor siber renge çektik */
-  color: #000000 !important;
-  border-radius: 8px !important;
+  font-size: 16px !important;  /* Sayıların boyutu okunabilir yapıldı */
+  font-weight: 500 !important;
+  font-family: monospace !important; /* Siber konsol havası için mono font */
 }
 
 .bg {
@@ -79,12 +100,15 @@ body {
 
   <script>
 window.onload = function() {
-    // 🧠 MOBİL EKRAN ORANLAMA DİNAMİĞİ
-    // Takvimi en alta yaslayıp kalan tüm üst alanı sky.html siber animasyonuna bırakıyoruz aga
     document.getElementById("sky").style.width = '100%';
-    document.getElementById("sky").style.height = (window.innerHeight - 380) + 'px'; // 380px takvime ayrıldı
+    // Ekran yüksekliğinden takvime ayırdığımız 420px alanı düşüyoruz aga
+    document.getElementById("sky").style.height = (window.innerHeight - 420) + 'px'; 
     
     document.getElementById("myCalendar").style.display = "block";
+}
+
+window.onresize = function() {
+    document.getElementById("sky").style.height = (window.innerHeight - 420) + 'px';
 }
 
 function resizeIframe(obj) {
