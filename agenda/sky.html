@@ -2553,7 +2553,7 @@ locate = function(cc,gmt,lat,lng,loc) {
     //setTimeout(showTime, 5000);
 
     //seasoner()
-    showTime(0)
+    showTime()
     //starTrek()
 
     
@@ -2565,385 +2565,102 @@ locate = function(cc,gmt,lat,lng,loc) {
 var zw = zh = 0;  
 /*-------------------------------------------------------------------------------------------------------*/
 
+//function starTrek(dlapse, nlapse, dayL, sunalt, sunazm, solarDec) {
 function starTrek() {
-
- clearTimeout(second);
-
- //month = 1
- //day = 21
-
- ID = (month-2)
-
- //if(ID=0)ID=ID-1
-
- //ID=1
-
-if(day>20) ID++
-
- if(ID>12)  ID = ID-12
- if(ID<1)   ID = ID+12
-
- //document.getElementById(ID).style.display = "none"
- 
- //if(day>20) ID++
-
- if(day>20)  dS = (day-20)
- if(day<=20) dS = (day)+10
-
- //if(month<1 && day<20) dS+=10
-
- //IDx = ((month)*30)+(dS)
-
- 
-
-
- //if(day>20) ID++
- 
- SR = (window.innerWidth)/550
- SH = (window.innerHeight)/410
- 
- //document.getElementById(ID).style.left = 0
- //document.getElementById(ID).style.bottom = 0
- 
- zw = zh = 0;  
-
- lat = Number(lat)
- 
- SL = (solarDec-Number(lat)) 
- 
- SD = Math.abs(90-SL-sunalt)
-  
- if(lat>0)zScale = 50+(dayL)*2+(24-dayL)*2 - ((lat+23)/3) - (90-SL-sunalt)/4
- if(lat<0)zScale = 50+(dayL)*2+(24-dayL)*2 - ((lat+23)/3) - (90-SL-sunalt)/4
-
-
- //zScale += (sunalt/4)//(90-Math.abs(lat-23))/(4)
-
- zScale += (sunalt-SL)/(4)
-
-
- zScale = zScale*(SR)
-
- document.getElementById(ID).style.left   =  (zScale/2)
- document.getElementById(ID).style.bottom =  (zScale/2)
-
-
- //if(lat>0) zScale += Number(lat-23)*(+1.3)
- //if(lat<0) zScale += Number(lat-23)*(-1.3)
-
- //if(lat<0) zScale -= ((sunalt-(90-SL)))*( (90-Number(lat))/(180))*(window.innerWidth/300)
-
-
- //zScale += (90-Math.abs(lat-23))*(sunalt/(90))*SR/3
-
- //zScale -= (90-sunalt)/(3) // dawn smaller
- 
- //if(lat<0)zScale -= (90-sunalt)/(2)
-
- //if(lat>0) zScale += ((sunalt))*(0.3)-(window.innerWidth/700)
-
- document.getElementById(ID).style.width  = zScale+"px";
- document.getElementById(ID).style.height = zScale+"px";
- 
- //document.getElementById(ID).style.opacity = 0.1
- //document.getElementById(ID).style.display = "none"
-
-
- if(lat>0)SL = Math.abs((Number(lat)-solarDec))
- if(lat<0)SL = Math.abs((Number(lat)-solarDec))
- //sl = Math.abs((Number(lat-23)-solarDec))/90
-
- zw = document.getElementById(ID).offsetWidth;
- zh = document.getElementById(ID).offsetHeight;
-
-
-eQ = ((sunalt))*(0.5-dlapse)*(SR)
-
-if(dlapse<0.5) eQp = -1
-if(dlapse>0.5) eQp = +1
-
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-
-//np = dayL*3+(24-dayL)*3 //18 -> 42   12 -> 36   6 -> 30
-
-///dayL = 8
-
-//zScale = 58
-
-dayL = dayLength//Math.floor(dayL)
-//if(dayL<6)dayL=6
-
-//dayL = Math.floor(dayLength)
-
-np = dayL*1.5+(24-dayL)*1.5
-
-if(dayL<10)np+=(24-dayL)*3
-
-//if(dayL<10)np+=(24-dayL)*1.5
-
-if(dayL<9)np+=(24-dayL)*1
-if(dayL<12)np+=(24-dayL)*1
-if(dayL>=12)np-=(dayL)*1
-//if(dayL>10)np+=(dayL)*1.5
-
-sp = dayL*1.5+(24-dayL)*1.5
-
-//if(dayL<10) sp+=(24-dayL)*2.0
-if(dayL<12) sp+=(24-dayL)*4.0
-
-if(dayL>=12) sp+=(dayL)*1.0
-
-//sp+=Math.abs(lat/23)*16
-
- //sp += ((90-Math.abs(lat))/90)*45
-
-//if(lat>0 && lat<+25) np -= ((90-Math.abs(lat))/90)*dayL*6 
-//if(lat<0 && lat>-25) sp += ((90-Math.abs(lat))/90)//*(lat+23)
-
-if(lat>0) np += ((lat/60))*60
-
-if(lat<0) sp += ((lat/60))*60
-
-if(lat>60 && dlapse>=1)dlapse=1
-
-zScale = Math.ceil(zScale)
-
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-if(lat>0)  LM = (formula*(1.0)) - (zScale/2) - (np/2)*(1-dlapse)*SR + (zScale/2)*(dlapse) + (np/2)*dlapse*SR
-
-if(lat<0)  LM = (formula*(1.0)) - (zScale/2) - (sp/2)*(1-dlapse)*SR + (zScale/2)*(dlapse) + (sp/2)*dlapse*SR
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-//
-if(formula>window.innerWidth) formula =  formula - window.innerWidth
-
-//if(nlapse >= 0 &&  dlapse>=0 && lat>0)  LM  =  formula*(1.0) - (zScale*(zP+arc*covenant*2)*(nlapse))
-//if(nlapse == 1 &&  dlapse==0 && lat>0)  LM  =  formula*(1.0) - (zScale*(zP+arc*covenant)*(nlapse))
-
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-//curve =  ((90-SL-sunalt)/90) - ((lat-23)/23)*90
-//curve -= (90-Math.abs(lat-23))/360
-
-eQp = ((sunalt)/(90-(SL)))
-MIDPOINT = (sunalt/(90-SL))
-
-if(eQp>=1){eQp=1}
-
-pQe = 1//((90-sunalt)/(90))*(SR)
-
-//if(dlapse<=0.5)CURVE = (sunalt)*(0.5-dlapse)*(eQ/+0.5)
-//if(dlapse>=0.5)CURVE = (sunalt)*(dlapse-0.5)*(eQ/+0.5)
-
-//curveR = (24/dayL)*-50+((24-dayL)/9)*-100
-
-CURVE = Math.abs((zScale/1))*(0.5-dlapse)
-
-//https://tr.pinterest.com/pin/536561743109556359/ vivara
-//https://www.zefdamen.nl/CropCircles/Constructions/VesicaPisces/inVesicaPisces_en.htm
- 
-
- Xc = ((30-dS)/30)*-6*(1-dlapse)  + ((30-dS)/30)*-6*dlapse
-
-if(lat>0) cr = ((90-Math.abs(lat))/90)*Xc//-Math.abs(lat/23)
-if(lat<0) cr = ((90-Math.abs(lat))/90)*Xc//+Math.abs(lat/60)*Xc
-
-LM  += (CURVE*((MIDPOINT)*cr))
-
-//LM += (sunScale/2)
-    
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-
-MIDPOINT = (sunalt/(90-SL))
-
- S23=(((90-Math.abs(lat))/90))+(Math.abs(lat/23)*0.1)
-
-  //if(lat<0) S23+=(Math.abs(lat/23)*1)
-
-//if(lat>0) LM +=  ((30-dS)/30)*(zScale/1)*MIDPOINT*(0.5-dlapse)
-//if(lat>0) LM +=  ((30-dS)/30)*(zScale/1)*MIDPOINT*(0.5-dlapse)
-
- if(lat>0) LM -= ((30-dS)/30)*(zScale/+0.65)*(1-dlapse) + ((30-dS)/30)*(zScale/2)*(S23)*MIDPOINT - ((30-dS)/30)*(zScale/1.45)*dlapse  
- if(lat>0) LM +=    ((dS)/30)*(zScale/-1.5)*(1-dlapse) +    ((dS/30))*(zScale/2)*(S23)*MIDPOINT +    ((dS)/30)*(zScale/1.5)*dlapse 
- 
-
- if(lat<0) LM -= ((30-dS)/30)*(zScale/+0.65)*(1-dlapse) + ((30-dS)/30)*(zScale/2)*(S23)*MIDPOINT - ((30-dS)/30)*(zScale/1.45)*dlapse 
- if(lat<0) LM +=    ((dS)/30)*(zScale/-1.3)*(1-dlapse) + ((dS/30))*(zScale/2)*(S23)*MIDPOINT    + ((dS)/30)*(zScale/1.5)*dlapse 
-
- //let A = new Date()
-
- //let B = A.getHours();
-// document.getElementById("status").innerHTML += "\ndr:"+((MIDPOINT)).toFixed(2)+"\nsun:"+(sunalt).toFixed(1)+"\ndL:"+(dlapse).toFixed(2)+" nL:"+(nlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" 
-
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-//document.getElementById(ID).style.left  =  LM 
-//if(dlapse>1) dlapse=0
-/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-if(nlapse <= 0) document.getElementById(ID).style.left  =  LM //- (zScale*(0.5)*(dlapse/2)) 
-if(nlapse >= 0) document.getElementById(ID).style.left  =  LM //+ (zScale*(0.5)*(nlapse/2)) 
-/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-
-//if(nlapse <= 1 && dlapse>=1.5 && lat<0) document.getElementById(ID).style.left  =   LM - (zScale*(0.5)*(nlapse)) 
-//if(nlapse <= 1 && dlapse==0 && lat<0) document.getElementById(ID).style.left  =   LM - (sunScale*(0.5)*(nlapse)) 
-//if(nlapse == 1 && dlapse==1 && lat<0) document.getElementById(ID).style.left  =   LM - (sunScale*(0.5)*(dlapse)) 
-//if(nlapse == 0 && dlapse==1 && lat<0) document.getElementById(ID).style.left  =   LM - (sunScale*(0.5)*(dlapse))
-
-//document.getElementById(ID).style.left  =   LM - (zScale*(0.5)*(nlapse)) 
-
-//document.getElementById("status").innerHTML += "\ndr:"+((LM)).toFixed(2)+"\ndL:"+(dlapse).toFixed(2)+" nL:"+(nlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" 
-
-/*-------------------------------------------------------------------------------------------------------------------------------------------*/
-
-SL =  Math.abs((Number(lat)-solarDec))
-
-MIDPOINT = (sunalt/(90-SL))
-
-if(lat>0){if(sunalt>50)sunalt=50}
-if(lat<0){if(sunalt>70)sunalt=70}
-
-//if(lat>0)SL +=  Math.abs((Number(lat-23)-(solarDec)*i))/90
-//if(lat<0)SL +=  Math.abs((Number(lat+23)+(solarDec)*i))/90
-
-//if(lat>0)SL -=  Math.abs((Number(lat-23)))/1
-//if(lat<0)SL -=  Math.abs((Number(lat-23)))/1
-
-MIDPOINT = (sunalt/(90-SL))
-
-SS = (MIDPOINT)*SR*(90.0)
-
-//if(lat>0)SS -=  Math.abs((Number(lat+23)))/3
-//if(lat<0)SS +=  Math.abs((Number(lat-23)))/3
-
-if(lat>0)SS += ((90-Math.abs(lat)))*(MIDPOINT)*SR*(0.7)
-//if(lat<0)SS += ((90-Math.abs(lat))/3.3)*(MIDPOINT)*SR*(1.1)
-
-//if(lat>0)SS += (90-Math.abs(lat))*(MIDPOINT)*SR*(24/(24-dayL))*0.9
-//if(lat<0)SS += (90-Math.abs(lat)/4)*(MIDPOINT)*SR*(24/(24-dayL))*0.9
-
-SS -= (SL)*(MIDPOINT)*SR*(1)
-//SS -= ((90-Math.abs(lat))/90)*(MIDPOINT)*SR*(0.5)
-
-//if(lat>0)SS -= (Math.abs((lat)/23))*(MIDPOINT)*SR*(10)
-if(lat<0)SS += (Math.abs((lat)/23))*(MIDPOINT)*SR*(Math.abs(solarDec)/4)*(Math.abs(lat/23)*4)
-
-//CURVEY = ((zScale/2))*Math.abs(0.5-dlapse)
-
-//CURVEY = ((zScale/1))*Math.abs(0.5-dlapse)*(1-MIDPOINT)
-
-//if(lat>0)SS += CURVEY
-//if(lat<0)SS += (Math.abs(lat/20))*CURVEY*4
-
-
-/*--------------------------------------------------------------------------------------------------------------------------------*/
-ZALT  =  ((dS)/30)*(zScale/2)*(1-dlapse) + ((dS)/30)*(zScale/2)*MIDPOINT + ((30-dS)/30)*(zScale/2)*MIDPOINT - ((30-dS)/30)*(zScale/2)*(1-dlapse) 
-
-ZDOWN =  ((dS)/30)*(zScale/2)*(dlapse)   + ((dS)/30)*(zScale/2)*MIDPOINT + ((30-dS)/30)*(zScale/2)*MIDPOINT - ((30-dS)/30)*(zScale/3)*(dlapse) 
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-
-
-//if(lat<0) ZALT  +=  ((30-dS)/30)*(zScale/0.5)*MIDPOINT*(0.5-dlapse)
-//if(lat<0) ZDOWN +=  ((30-dS)/30)*(zScale/0.5)*MIDPOINT*(0.5-dlapse)
-
-
-
-  ADD = ((m)*(w/410)) + (m/3)
-
-//document.getElementById("status").innerHTML += "\ndS:"+((dS)).toFixed(2)+"\nMID:"+(MIDPOINT).toFixed(1)+"\ndL:"+(dlapse).toFixed(2)+" nL:"+(nlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" 
-//document.getElementById("status").innerHTML += "\nMID:"+((MIDPOINT)).toFixed(2)+"\nCURVE:"+(SS).toFixed(1)+"\nnL:"+(nlapse).toFixed(2)+" dL:"+(dlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" 
-
-//LM  += CURVE*(cr)
-
-/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-document.getElementById(ID).style.bottom = Number(sunalt)*(SR)*(1.6) + (SS)*(1.6) - (zScale/2) + (ZALT) - (ZDOWN) - (ADD)*(SR)*(0) + (zScale/6) //
-/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-
-//document.getElementById("status").innerHTML += "\ndS:"+((sunalt)).toFixed(2)+"\nMID:"+(MIDPOINT).toFixed(1)+"\ndL:"+(dlapse).toFixed(2)+" nL:"+(nlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" 
-
-
-ZODIACDEGREE = (24-(dayL))-((dayL)/2)
-
-ZODIACDEGREE -= ((90-Math.abs(lat))/90)*30
-
-//if(dlapse<0)ZODIACDEGREE -= ((90-Math.abs(lat))/90)*90*MIDPOINT*(0.5-dlapse)
-//if(dlapse>0)ZODIACDEGREE -= ((90-Math.abs(lat))/90)*90*MIDPOINT*(0.5-dlapse)
-
-
-ZODIACDEGREE += ((90-Math.abs(lat))/90)*90*MIDPOINT*(0.5-dlapse)
-
-//if(lat<0) ZODIACDEGREE += (lat/-23)*12
-
-MIDPOINT = (sunalt/(90-SL))
-
-
-MONTHCURV =  (dS/2)*(MIDPOINT) - ((30-dS)/2)*(MIDPOINT)
-
-//if(lat>0)MONTHCURV += (Math.abs(lat/33)*12)*(1-dlapse)
-//if(lat>0)MONTHCURV -= (Math.abs(lat/33)*12)*(dlapse)
-
-//if(lat<0)ZODIACDEGREE = ZODIACDEGREE*-0.5
-
-
-if(lat>0)MONTHCURV += ((dS)/1.5)*(1-dlapse)
-if(lat<0)MONTHCURV -= ((dS)/1.5)*(1-dlapse)
-
-if(lat>0)MONTHCURV += ((30-dS)/2)*(1-dlapse)
-if(lat<0)MONTHCURV -= ((30-dS)/2)*(1-dlapse)
-
-
-if(lat>0)MONTHCURV += ((30-dS)/1)*(MIDPOINT)/1.0
-if(lat<0)MONTHCURV += ((30-dS)/1)*(MIDPOINT)/0.7
-
-if(lat>0)MONTHCURV -= ((dS)/1)*(MIDPOINT)/2
-if(lat<0)MONTHCURV += ((dS)/1)*(MIDPOINT)/2
-
-//if(lat>0 && lat<+23)MONTHCURV += ((30-dS)/2)*(MIDPOINT)*((90-Math.abs(lat))/90)
-
-if(lat>0 && lat<+60)MONTHCURV += ((30-dS)/2)*(dlapse)*((90-Math.abs(lat))/90)
-if(lat<0 && lat>-60)MONTHCURV += ((30-dS)/2)*(dlapse)*((90-Math.abs(lat))/90)
-
-if(lat>0 && lat<+60)MONTHCURV -= ((dS)/2)*(dlapse)*((90-Math.abs(lat))/90)
-if(lat<0 && lat>-60)MONTHCURV -= ((dS)/2)*(dlapse)*((90-Math.abs(lat))/90)
-
-if(lat>0)MONTHCURV -= ((30-dS)*2.5)*(dlapse)
-if(lat<0)MONTHCURV -= ((30-dS))*(dlapse)
-
-//if(lat>0)MONTHCURV -= ((dS)/2)*(dlapse)
-if(lat<0)MONTHCURV += ((dS)/2)*(dlapse)//Math.abs(0.5-dlapse)
-if(lat<0)MONTHCURV += ((dS)/2)*(dlapse)
-
-
-if(lat>0)NAS = 180-ZODIACDEGREE*2
-if(lat<0)NAS = 180-ZODIACDEGREE*(lat/-23)*1
-
-document.getElementById(ID).style.transform = "rotate("+Math.round(ZODIACDEGREE+dlapse*(NAS)+MONTHCURV)+"deg)";
-
-
-//if(dayL<12)document.getElementById(ID).style.transform += "rotate("+Math.round(dlapse*(24-dayL))+"deg)"
-
-//document.getElementById(ID).style.transform -= "rotate("+Math.round((dS)*(eQp))+"deg)" 
-
-
-if(sunv)document.getElementById(ID).style.display = "block"
-
-//OPAC = 1.5-Math.abs((sunalt)/(90-SL))
-//document.getElementById(ID).style.opacity = (OPAC)
-
-
-//document.getElementById("status").innerHTML += "\ndr:"+((dS)).toFixed(2)+"\nsun:"+(MIDPOINT).toFixed(1)+"\ndL:"+(dlapse).toFixed(2)+" nL:"+(nlapse).toFixed(2)+"<br>"//+" zA:"+(n).toFixed(1)+" 
-
-
-/*
-    formula = 0
-    sunalt = 0
-    dlapse = 0
-    nlapse = 0
-*/
-
-    //clearTimeout(second);
-
-//showTime(2)
-
+    clearTimeout(second);
+
+    // 1. KESİN VE HATASIZ AKTİF BURÇ (baseID) HESAPLAMASI
+    let m = Number(month); 
+    let d = Number(day);   
+    let baseID = 1;
+
+    if ((m == 3 && d >= 21) || (m == 4 && d <= 20)) baseID = 1;       // Koç
+    else if ((m == 4 && d >= 21) || (m == 5 && d <= 20)) baseID = 2;  // Boğa
+    else if ((m == 5 && d >= 21) || (m == 6 && d <= 21)) baseID = 3;  // İkizler
+    else if ((m == 6 && d >= 22) || (m == 7 && d <= 22)) baseID = 4;  // Yengeç
+    else if ((m == 7 && d >= 23) || (m == 8 && d <= 22)) baseID = 5;  // Aslan
+    else if ((m == 8 && d >= 23) || (m == 9 && d <= 22)) baseID = 6;  // Başak
+    else if ((m == 9 && d >= 23) || (m == 10 && d <= 22)) baseID = 7; // Terazi
+    else if ((m == 10 && d >= 23) || (m == 11 && d <= 21)) baseID = 8; // Akrep
+    else if ((m == 11 && d >= 22) || (m == 12 && d <= 21)) baseID = 9; // Yay
+    else if ((m == 12 && d >= 22) || (m == 1 && d <= 20)) baseID = 10; // Oğlak
+    else if ((m == 1 && d >= 21) || (m == 2 && d <= 18)) baseID = 11; // Kova
+    else baseID = 12; // Balık
+
+    SR = (window.innerWidth) / 550;
+    lat = Number(lat);
+    let dayL = typeof dayLength !== 'undefined' ? dayLength : 12;
+
+    let zScale = Math.ceil((50 + (dayL) * 2 + (24 - dayL) * 2) * SR);
+
+    // 2. QUA MERKEZİ VE PİVOT DÜZELTMESİ
+    let baseLM = window.innerWidth * 0.50; 
+    let baseBottom = window.innerHeight * 0.1; 
+
+    // --- ELİPS YARIÇAPLARI ---
+    let radiusX = zScale * 1.8; 
+    let dayRatio = dayL / 12; 
+    let radiusY = radiusX * (0.6 + (dayRatio * 0.3));
+
+    // --- GÜNEY YARIMKÜRE KONTROLÜ (Ters Yön) ---
+    let hemisDir = (lat < 0) ? -1 : 1;
+
+    // 3. GÜN İÇİ İLERLEME VE GÜNLÜK KAYMA (Enleme göre yönlü)
+    let dayProgressAngle = (typeof dlapse !== 'undefined' ? dlapse : 0) * 180 * hemisDir; 
+    let wheelOffset = -60 + (day * hemisDir);
+
+    // 12 Burç için renk paleti (Dışarıdan verilecek renkler)
+    const zodiacColors = {
+        1: '#ff3333', // Koç (Kırmızı)
+        2: '#ff9933', // Boğa (Turuncu)
+        3: '#ffcc00', // İkizler (Sarı-Turuncu)
+        4: '#ffff33', // Yengeç (Sarı)
+        5: '#99ff33', // Aslan (Açık Yeşil)
+        6: '#33cc33', // Başak (Yeşil)
+        7: '#33cccc', // Terazi (Camgöbeği)
+        8: '#3399ff', // Akrep (Mavi)
+        9: '#3333ff', // Yay (Koyu Mavi)
+        10: '#9933ff',// Oğlak (Mor)
+        11: '#cc33ff',// Kova (Pembe-Mor)
+        12: '#ff33cc' // Balık (Pembe)
+    };
+
+    // 4. 12 BURCU PİVOT MERKEZLİ OLARAK ELİPS ÜZERİNDE DİZME
+    for (let i = 1; i <= 12; i++) {
+        let elem = document.getElementById(i);
+        if (!elem) continue;
+
+        // Sıralama yönü güney yarımkürede tersine döner
+        let diff = (i - baseID) * -1;
+        while (diff > 6) diff -= 12;
+        while (diff < -6) diff += 12;
+
+        elem.style.width = zScale + "px";
+        elem.style.height = zScale + "px";
+
+
+        // Güney yarımkürede renklerin de tersten okunması için indeks ayarı
+        let colorIndex = (hemisDir === -1) ? (13 - i) : i;
+        let signColor = zodiacColors[colorIndex] || '#ffffff';
+        
+        // İkonlar kaybolmaz (orijinal beyazlığı kalır), etrafında o burcun renginde magnetik neon ışık yayılır
+        elem.style.filter = `drop-shadow(0px 0px 10px ${signColor}) drop-shadow(0px 0px 3px ${signColor})`;
+
+        let angleDeg = (diff * 30) + dayProgressAngle + wheelOffset;
+        let angleRad = angleDeg * (Math.PI / 180);
+
+        let signLM = baseLM + (Math.sin(angleRad) * radiusX) - (zScale / 2);
+        let signBottom = baseBottom + (Math.cos(angleRad) * radiusY) - (zScale / 2);
+
+        elem.style.left = signLM + "px";
+        elem.style.bottom = signBottom + "px";
+
+        elem.style.transform = "rotate(" + Math.round(angleDeg) + "deg)";
+
+        elem.style.display = "block";
+        elem.style.opacity = "1";
+    }
 }
-
-
 function showplanets(){
 
     //loc,gmt,code
