@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <title>AGENDA</title>
 
-       
+        <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="src/css/vanilla-calendar-min.css">
         <script src="src/js/vanilla-calendar-min.js"></script>
     </head>
@@ -18,7 +18,7 @@ body {
   overflow: hidden;
   margin: 0;
   padding: 0;
-  background-color: #0D0D11; /* Siber arka plan */
+  background-color: #000000; /* Siber arka plan */
 }
 
 .content {
@@ -35,7 +35,7 @@ body {
   width: 100% !important;
   height: 420px !important; /* 👈 Takvimin dikey havuzunu 420px'e çıkardık aga */
   box-sizing: border-box;
-  background: #16161F !important;
+  background: #000000 !important;
   border: none !important;
 }
 
@@ -45,7 +45,7 @@ body {
   align-items: center !important;
   justify-content: space-between !important;
   padding: 12px 16px !important;
-  background-color: #0D0D11 !important;
+  background-color: #000000 !important;
 }
 
 /* Gizlenen veya küçük kalan ileri/geri butonlarını görünür ve siber mor yapıyoruz aga */
@@ -83,13 +83,13 @@ body {
 
 .vanilla-calendar .vanilla-calendar-date__other {
     background-color: #16161F !important; /* Takvimin kendi arka planıyla aynı renk */
-    color: #333344 !important;           /* Sayıları da neredeyse görünmez veya koyu yapabilirsin */
+    color: #000000 !important;           /* Sayıları da neredeyse görünmez veya koyu yapabilirsin */
     opacity: 0.2 !important;
 }
 
 /* 🗓️ Takvimde ayın bittiği yerdeki pasif/boş gün kutucuklarını arkaplanla birleştirme */
 .vanilla-calendar .vanilla-calendar-date--disabled {
-    background-color: #16161F !important; /* Takvimin kendi arkaplan rengiyle birebir aynı */
+    background-color: #000000 !important; /* Takvimin kendi arkaplan rengiyle birebir aynı */
     opacity: 0 !important;               /* Tamamen görünmez yapar */
     pointer-events: none !important;     /* Tıklanmasını engeller */
 }
@@ -99,7 +99,7 @@ body {
 .vanilla-calendar .vanilla-calendar-date_other,
 .vanilla-calendar .vanilla-calendar-date__other,
 .vanilla-calendar .vanilla-calendar-date--disabled {
-    background-color: #16161F !important;
+    background-color: #000000 !important;
     border: none !important;
     box-shadow: none !important;
     opacity: 0 !important;
@@ -109,11 +109,12 @@ body {
 .vanilla-calendar .vanilla-calendar-date--disabled {
     border-radius: 0;
     cursor: not-allowed;
-    background-color: #16161F !important;
+    background-color: #000000 !important;
     opacity: 0 !important;
 }
 
 .bg {
+  background-color: #000000 !important;
   position: absolute;
   object-fit: cover;
   width: 100%;
