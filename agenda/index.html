@@ -94,6 +94,18 @@ body {
     pointer-events: none !important;     /* Tıklanmasını engeller */
 }
 
+/* 🗓️ Ayın bittiği yerdeki boş gün kutucuklarını ve pasif tarihleri tamamen arkaplanla birleştirme */
+.vanilla-calendar .vanilla-calendar-date:not(.vanilla-calendar-date--active):empty,
+.vanilla-calendar .vanilla-calendar-date_other,
+.vanilla-calendar .vanilla-calendar-date__other,
+.vanilla-calendar .vanilla-calendar-date--disabled {
+    background-color: #16161F !important;
+    border: none !important;
+    box-shadow: none !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
 .bg {
   position: absolute;
   object-fit: cover;
