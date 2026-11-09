@@ -2597,7 +2597,11 @@ function starTrek() {
     let baseLM = window.innerWidth * 0.50; 
     //let baseBottom = window.innerHeight * 0.1; 
 
-    let baseBottom = 10; // Alttan sabit 50 piksel yükseklikte kilitler
+    //let baseBottom = 10; // Alttan sabit 50 piksel yükseklikte kilitler
+
+    let baseBottom = window.innerHeight * 0.05 + (dayL * 1.5);
+
+    baseBottom -= (window.innerHeight * 0.1) - (window.innerWidth * 0.05);
 
     // --- ELİPS YARIÇAPLARI ---
     let radiusX = zScale * 1.8; 
