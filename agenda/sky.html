@@ -2611,8 +2611,31 @@ function starTrek() {
     // --- GÜNEY YARIMKÜRE KONTROLÜ (Ters Yön) ---
     let hemisDir = (lat < 0) ? -1 : 1;
 
+    let nightL = 24 - dayL;
+    let currentProgressAngle = 0;
     // 3. GÜN İÇİ İLERLEME VE GÜNLÜK KAYMA (Enleme göre yönlü)
-    let dayProgressAngle = (typeof dlapse !== 'undefined' ? dlapse : 0) * 180 //* hemisDir; 
+    //let dayProgressAngle = (typeof dlapse !== 'undefined' ? dlapse : 0) * 180 //* hemisDir; 
+
+   
+    // 360 derece tam çember üzerinden gün ve gece oranları
+    let dayArcSpan = (dayL / 24) * 360;
+    let nightArcSpan = (nightL / 24) * 360;
+
+    // Gündüz vakti: 180 derecelik yayın (dayL / 24) oranındaki kısmını tarar
+    if (typeof dlapse !== 'undefined' && dlapse >= 0) {
+        currentProgressAngle = dlapse * (dayL / 24) * 360; 
+    } 
+    // Gece vakti: Gündüzün kapladığı yerden başlar, gece süresi kadar ilerler
+    else if (typeof nlapse !== 'undefined' && nlapse >= 0) {
+    let dayArcSpan = (dayL / 24) * 360;
+        let nightArcSpan = (nightL / 24) * 360;
+        currentProgressAngle = dayArcSpan + (nlapse * nightArcSpan);
+    }
+
+      console.log("baseID:", baseID,"dayarc:", dayArcSpan, "nightArcSpan:", nightArcSpan, "dayL:", dayL, "currentProgressAngle:", currentProgressAngle, "baseLM:", baseLM, "baseBottom:", baseBottom, "radiusX:", radiusX, "radiusY:", radiusY, "hemisDir:", hemisDir);
+
+
+    let dayProgressAngle = currentProgressAngle;
     let wheelOffset = -60 + (day );
 
     // 12 Burç için renk paleti (Dışarıdan verilecek renkler)
@@ -2667,6 +2690,8 @@ function starTrek() {
         elem.style.opacity = "1";
     }
 }
+
+
 function showplanets(){
 
     //loc,gmt,code
