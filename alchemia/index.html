@@ -2125,7 +2125,7 @@ setInterval(() => {
 
             let nlabel = document.createElement('div');
             nlabel.className = 'lunar-cross-icon-siber';
-            nlabel.style.cssText = `position:absolute; top:45%; transform:translateY(-50%); left:${alphaLeftPos}; 
+            nlabel.style.cssText = `position:absolute; margin-left: 0px;top:45%; transform:translateY(-50%); left:${alphaLeftPos}; 
            font-size:15px; font-weight:bold; text-shadow:none;color:#ff0000; z-index:99999; font-family:system-ui; pointer-events:none;`;
             nlabel.textContent = window.alphaSymbol;
             sunEastGate.appendChild(nlabel);
@@ -2133,9 +2133,10 @@ setInterval(() => {
 
              let sunLabel = document.createElement('div');
             sunLabel.className = 'lunar-zodiac-icon-siber';
-            sunLabel.style.cssText = `position:absolute; top:50%; transform:translateY(-50%); right:8px; 
+            sunLabel.style.cssText = `position:absolute;margin-left: -15px; top:50%; transform:translateY(-50%); right:8px; 
             color: ${SunGateColor}; font-size:14px; font-weight:bold; text-shadow:none; z-index:99999; font-family:system-ui; pointer-events:none;`;
             sunLabel.textContent = nZodTxt;
+           
             sunEastGate.appendChild(sunLabel);
 
 
