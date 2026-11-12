@@ -2330,7 +2330,7 @@ setInterval(() => {
             else if (typeof moonLive.seleneProgress !== 'undefined') {
                 let phaseOffsetGates = moonLive.seleneProgress * 8;
                 let seleneIndexRaw = Math.round(sirkadiyenButonIndex - phaseOffsetGates) % 8;
-                seleneIndex = (seleneIndexRaw + 8) % 9;
+                seleneIndex = (seleneIndexRaw + 8) % 8;
             }
             
             window.currentSeleneGateIndex = seleneIndex;
